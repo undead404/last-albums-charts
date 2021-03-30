@@ -16,7 +16,7 @@ export default async function main(): Promise<void> {
       const album: PopulateAlbumStatsPayload = content;
       populateAlbumStats(album)
         .then(() => ackOrNack())
-        .catch(logger.error);
+        .catch((error) => logger.error(error));
     })
     .on('error', (error) => {
       logger.error(error);

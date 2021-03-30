@@ -23,17 +23,15 @@ export default async function populateAlbumTags(
     { artist: album.artist, name: album.name },
     { $set: albumUpdate },
   );
-  await mongoDatabase.tags.bulkWrite(
+  await mongoDatabase.tags.insertMany(
     map(tags, (tagCount, tagName) => ({
-      insertOne: {
-        document: {
-          lastProcessedAt: null,
-          listCreatedAt: null,
-          name: tagName,
-          power: 0,
-        },
-      },
+      lastProcessedAt: null,
+      listCreatedAt: null,
+      name: tagName,
+      power: 0,
     })),
-    { ordered: false },
+    {
+      ordered: false,
+    },
   );
 }

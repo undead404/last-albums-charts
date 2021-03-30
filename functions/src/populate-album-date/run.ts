@@ -15,7 +15,7 @@ export default async function main(): Promise<void> {
       const album: PopulateAlbumDatePayload = content;
       populateAlbumDate(album)
         .then(() => ackOrNack())
-        .catch(logger.error);
+        .catch((error) => logger.error(error));
     })
     .on('error', (error) => {
       logger.error(error);

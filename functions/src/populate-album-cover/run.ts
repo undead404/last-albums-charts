@@ -21,7 +21,7 @@ export default async function main(): Promise<void> {
       }
       populateAlbumCover(album)
         .then(() => ackOrNack())
-        .catch(logger.error);
+        .catch((error) => logger.error(error));
     })
     .on('error', (error) => {
       logger.error(error);

@@ -6,7 +6,7 @@ export default async function main(): Promise<void> {
   if (!mongoDatabase.isConnected) {
     await mongoDatabase.connect();
   }
-  generateList().catch(logger.error);
+  generateList().catch((error) => logger.error(error));
 }
 
 main();

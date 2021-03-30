@@ -20,7 +20,7 @@ export interface TagRecord {
   lastProcessedAt: null | Date;
   listCreatedAt: null | Date;
   power: number;
-  topAlbums?: WithId<AlbumRecord>[];
+  topAlbums?: WithId<AlbumRecord>[] | null;
 }
 
 export type Weighted<T> = T & {

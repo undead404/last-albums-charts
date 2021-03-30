@@ -6,10 +6,27 @@ dotenv.config();
 module.exports = {
   apps: [
     {
+      // autorestart: false,
       cron_restart: '0 * * * *',
       instances: 1,
       name: 'gList',
       script: 'lib/generate-list/run.js',
+      watch: false,
+    },
+    {
+      autorestart: false,
+      cron_restart: '0 * * * *',
+      instances: 1,
+      name: 'gPosts',
+      script: 'lib/generate-posts/run.js',
+      watch: false,
+    },
+    {
+      autorestart: false,
+      cron_restart: '30 * * * *',
+      instances: 1,
+      name: 'hexo',
+      script: 'cd ../ssg && yarn build; cd ../functions',
       watch: false,
     },
     {

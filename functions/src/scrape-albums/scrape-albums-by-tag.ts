@@ -32,7 +32,7 @@ export default async function scrapeAlbumsByTag(tag: TagRecord): Promise<void> {
         await publish('newAlbums', payload);
       }
     }),
-  ).catch(logger.error);
+  ).catch((error) => logger.error(error));
   await mongodb.albums.bulkWrite(
     map(albumsRecords, (albumRecord) => ({
       updateOne: {
