@@ -6,6 +6,14 @@ dotenv.config();
 module.exports = {
   apps: [
     {
+      autorestart: false,
+      cron_restart: '0 6 * * *',
+      instances: 1,
+      name: 'deploy',
+      script: '../deploy.sh',
+      watch: false,
+    },
+    {
       // autorestart: false,
       cron_restart: '0 * * * *',
       instances: 1,
