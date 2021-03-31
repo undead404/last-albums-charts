@@ -2,16 +2,16 @@
 date: 2021-03-30T19:48:05.088Z
 title: black metal
 ---
-1. Venom - Welcome To Hell
-2. Venom - Black Metal
-3. Bathory - Bathory
-4. Mayhem - Deathcrush
-5. Bathory - Under the Sign of the Black Mark
-6. Bathory - Blood Fire Death
-7. Burzum - Burzum
-8. Darkthrone - A Blaze in the Northern Sky
-9. Immortal - Diabolical Fullmoon Mysticism
-10. Burzum - Aske
+1. Venom - Welcome To Hell (1981)
+2. Venom - Black Metal (1982)
+3. Bathory - Bathory (1984-10-02)
+4. Mayhem - Deathcrush (1987-03)
+5. Bathory - Under the Sign of the Black Mark (1987-05-11)
+6. Bathory - Blood Fire Death (1988-10-08)
+7. Burzum - Burzum (1992-03)
+8. Darkthrone - A Blaze in the Northern Sky (1992-03-02)
+9. Immortal - Diabolical Fullmoon Mysticism (1992-07-01)
+10. Burzum - Aske (1993-03)
 More under the cut.
 <!-- more -->
 11. Darkthrone - Under a Funeral Moon (1993-06-24)
@@ -31,7 +31,7 @@ More under the cut.
 25. Marduk - Opus Nocturne (1994-12-01)
 26. Immortal - Battles In The North (1995-05-15)
 27. Darkthrone - Panzerfaust (1995-06-06)
-28. Dissection - Storm of the Light&#39;s Bane (1995-11-17)
+28. Dissection - Storm of the Light's Bane (1995-11-17)
 29. Dimmu Borgir - Stormblåst (1996-01-25)
 30. Burzum - Filosofem (1996-01-31)
 31. Satyricon - Nemesis Divina (1996-04-22)
@@ -52,7 +52,7 @@ More under the cut.
 46. Windir - 1184 (2001-11-19)
 47. Immortal - Sons of Northern Darkness (2002-02-05)
 48. Satyricon - Volcano (2002-10-25)
-49. Old Man&#39;s Child - In Defiance of Existence (2003-01-14)
+49. Old Man's Child - In Defiance of Existence (2003-01-14)
 50. Drudkh - Forgotten Legends (2003-02-23)
 51. Carpathian Forest - Defending the Throne of Evil (2003-03-17)
 52. Cradle of Filth - Damnation and a Day (2003-03-25)
