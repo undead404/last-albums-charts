@@ -2,7 +2,7 @@
 date: 2021-03-31T10:00:00.928Z
 title: finnish metal
 ---
-![finnish metal](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-250.jpg)
+![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
 1. Apocalyptica - Inquisition Symphony (1998-09-22)
 2. Nightwish - Oceanborn (1998-12-07)
 3. Sonata Arctica - Ecliptica (1999-08-29)
@@ -15,7 +15,7 @@ title: finnish metal
 10. Nightwish - Dark Passion Play (2007-09-26)
 List of 100 - under the cut.
 <!-- more -->
-
+-----
 1. Sentenced - Amok (1995-01-03)
 2. Stratovarius - Fourth Dimension (1995-02-08)
 3. Amorphis - Elegy (1996-05-14)

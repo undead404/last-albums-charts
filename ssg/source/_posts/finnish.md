@@ -2,7 +2,7 @@
 date: 2021-03-31T09:42:16.161Z
 title: finnish
 ---
-![finnish](http://coverartarchive.org/release/b4f9f593-9df6-4b7c-90c9-94fac1e96ef5/24755686201-250.jpg)
+![Wintersun - Wintersun (2004-08-25)](http://coverartarchive.org/release/b4f9f593-9df6-4b7c-90c9-94fac1e96ef5/24755686201-500.jpg "Wintersun - Wintersun (2004-08-25)")
 1. Amorphis - Tales From the Thousand Lakes (1994-07-12)
 2. Wintersun - Wintersun (2004-08-25)
 3. Nightwish - The Siren (2005-07-25)
@@ -15,7 +15,7 @@ title: finnish
 10. Ghost Brigade - Until Fear No Longer Defines Us (2011-08-19)
 List of 100 - under the cut.
 <!-- more -->
-
+-----
 1. Leevi and the Leavings - Suuteleminen Kielletty (1980)
 2. Eppu Normaali - Akun tehdas (1980-02-19)
 3. Eppu Normaali - Imperiumin vastaisku (1988-06-23)

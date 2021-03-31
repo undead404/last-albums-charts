@@ -2,7 +2,7 @@
 date: 2021-03-30T19:48:05.088Z
 title: black metal
 ---
-![black metal](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-250.jpg)
+![Burzum - Filosofem (1996-01-31)](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-500.jpg "Burzum - Filosofem (1996-01-31)")
 1. Emperor - In the Nightside Eclipse (1994-02-21)
 2. Burzum - Hvis lyset tar oss (1994-04)
 3. Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
@@ -15,7 +15,7 @@ title: black metal
 10. Kvelertak - Kvelertak (2010-06-21)
 List of 100 - under the cut.
 <!-- more -->
-
+-----
 1. Venom - Welcome To Hell (1981)
 2. Venom - Black Metal (1982)
 3. Bathory - Bathory (1984-10-02)

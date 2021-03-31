@@ -2,7 +2,7 @@
 date: 2021-03-31T11:00:17.805Z
 title: melodic death metal
 ---
-![melodic death metal](http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-250.jpg)
+![Arch Enemy - War Eternal (2014-06-04)](http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg "Arch Enemy - War Eternal (2014-06-04)")
 1. Children of Bodom - Hatebreeder (1999-04-21)
 2. In Flames - Clayman (2000-07-03)
 3. Children of Bodom - Follow the Reaper (2000-10-30)
@@ -15,7 +15,7 @@ title: melodic death metal
 10. Arch Enemy - War Eternal (2014-06-04)
 List of 100 - under the cut.
 <!-- more -->
-
+-----
 1. Carcass - Heartwork (1993-10-28)
 2. In Flames - Lunar Strain (1994-04-01)
 3. Amorphis - Tales From the Thousand Lakes (1994-07-12)
