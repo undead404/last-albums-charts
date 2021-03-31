@@ -1,4 +1,5 @@
 import head from 'lodash/head';
+import toInteger from 'lodash/toInteger';
 import { WithId } from 'mongodb';
 
 import mongoDatabase from '../common/mongo-database';
@@ -9,9 +10,11 @@ export default async function pickTag(): Promise<WithId<TagRecord> | null> {
   if (tag) {
     return tag;
   }
+  const numberOfTags = await mongoDatabase.tags.countDocuments();
+  const indexToPick = toInteger(Math.random() * numberOfTags);
   tag =
     head(
-      await mongoDatabase.tags.aggregate([{ $sample: { size: 1 } }]).toArray(),
+      await mongoDatabase.tags.find({}).skip(indexToPick).limit(1).toArray(),
     ) || null;
   return tag;
 }

@@ -1,6 +1,6 @@
 import head from 'lodash/head';
-import logger from '../common/logger';
 
+import logger from '../common/logger';
 import mongodb from '../common/mongo-database';
 import { TagRecord, Weighted } from '../common/types';
 
@@ -22,6 +22,13 @@ export default async function pickTag(): Promise<TagRecord | undefined> {
   tag = head(
     await mongodb.tags
       .aggregate<Weighted<TagRecord>>([
+        {
+          $match: {
+            lastProcessedAt: {
+              $ne: null,
+            },
+          },
+        },
         {
           $project: {
             _id: true,

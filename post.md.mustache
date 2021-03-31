@@ -1,7 +1,12 @@
 ---
-date: {{ date }}
+date: {{ updated }}
 title: {{ title }}
 ---
-{{#albums}}
+{{#firstAlbums}}
     {{number}}. {{artist}} - {{name}}
-{{/albums}}
+{{/firstAlbums}}
+More under the cut.
+<!-- more -->
+{{#restAlbums}}
+    {{number}}. {{artist}} - {{name}}
+{{/restAlbums}}

@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2021-03-30T19:48:05.088Z
 title: black metal
 ---
     1. Venom - Welcome To Hell
@@ -12,6 +12,8 @@ title: black metal
     8. Darkthrone - A Blaze in the Northern Sky
     9. Immortal - Diabolical Fullmoon Mysticism
     10. Burzum - Aske
+More under the cut.
+<!-- more -->
     11. Darkthrone - Under a Funeral Moon
     12. Burzum - Det Som Engang Var
     13. Immortal - Pure Holocaust
