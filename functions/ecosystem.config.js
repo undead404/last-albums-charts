@@ -15,7 +15,7 @@ module.exports = {
     },
     {
       // autorestart: false,
-      cron_restart: '0 * * * *',
+      cron_restart: '0/15 * * * *',
       instances: 1,
       name: 'gList',
       script: 'lib/generate-list/run.js',

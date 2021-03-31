@@ -2,15 +2,15 @@
 date: {{ updated }}
 title: {{ title }}
 ---
-{{#thumbnail}}
-![{{title}}]({{{thumbnail}}})
-{{/thumbnail}}
+{{#coverSource}}
+![{{coverTitle}}]({{{coverSource}}} "{{{coverTitle}}}")
+{{/coverSource}}
 {{#previewAlbums}}
-{{number}}. {{{artist}}} - {{{name}}} ({{date}})
+{{number}}. <span title="{{{tooltip}}}">{{{artist}}} - {{{name}}} ({{date}})</span>
 {{/previewAlbums}}
 List of 100 - under the cut.
 <!-- more -->
-
+-----
 {{#albums}}
-{{number}}. {{{artist}}} - {{{name}}} ({{date}})
+{{number}}. <span title="{{{tooltip}}}">{{{artist}}} - {{{name}}} ({{date}})</span>
 {{/albums}}
