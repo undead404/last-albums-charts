@@ -2,6 +2,7 @@
 date: 2021-03-31T10:00:00.928Z
 title: finnish metal
 ---
+![finnish metal](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-250.jpg)
 1. Apocalyptica - Inquisition Symphony (1998-09-22)
 2. Nightwish - Oceanborn (1998-12-07)
 3. Sonata Arctica - Ecliptica (1999-08-29)

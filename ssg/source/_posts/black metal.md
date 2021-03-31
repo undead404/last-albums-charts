@@ -2,6 +2,7 @@
 date: 2021-03-30T19:48:05.088Z
 title: black metal
 ---
+![black metal](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-250.jpg)
 1. Emperor - In the Nightside Eclipse (1994-02-21)
 2. Burzum - Hvis lyset tar oss (1994-04)
 3. Mayhem - De Mysteriis Dom Sathanas (1994-05-24)

@@ -2,6 +2,7 @@
 date: 2021-03-31T09:42:16.161Z
 title: finnish
 ---
+![finnish](http://coverartarchive.org/release/b4f9f593-9df6-4b7c-90c9-94fac1e96ef5/24755686201-250.jpg)
 1. Amorphis - Tales From the Thousand Lakes (1994-07-12)
 2. Wintersun - Wintersun (2004-08-25)
 3. Nightwish - The Siren (2005-07-25)

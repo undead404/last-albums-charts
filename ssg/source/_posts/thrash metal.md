@@ -2,6 +2,7 @@
 date: 2021-03-31T11:00:00.961Z
 title: thrash metal
 ---
+![thrash metal](http://coverartarchive.org/release/2236dd07-a2f3-466a-973d-9069001a89da/4648219389-250.jpg)
 1. Metallica - Kill 'Em All (1983-07-25)
 2. Metallica - Ride the Lightning (1984-07-30)
 3. Slayer - Reign in Blood (1986-10-07)
