@@ -24,6 +24,7 @@ export default async function generatePosts(): Promise<void> {
     map(tags, (tag) => {
       const albums = map(tag.topAlbums, (album, index) => ({
         artist: album.artist,
+        date: album.date,
         name: album.name,
         number: index + 1,
       }));

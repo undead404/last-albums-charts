@@ -14,93 +14,93 @@ title: black metal
 10. Burzum - Aske
 More under the cut.
 <!-- more -->
-11. Darkthrone - Under a Funeral Moon
-12. Burzum - Det Som Engang Var
-13. Immortal - Pure Holocaust
-14. Dissection - The Somberlain
-15. Darkthrone - Transilvanian Hunger
-16. Emperor - In the Nightside Eclipse
-17. Cradle of Filth - The Principle of Evil Made Flesh
-18. Satyricon - Dark Medieval Times
-19. Burzum - Hvis lyset tar oss
-20. Mayhem - De Mysteriis Dom Sathanas
-21. Enslaved - Frost
-22. Satyricon - The Shadowthrone
-23. Gorgoroth - Pentagram
-24. Dimmu Borgir - For All Tid
-25. Marduk - Opus Nocturne
-26. Immortal - Battles In The North
-27. Darkthrone - Panzerfaust
-28. Dissection - Storm of the Light&#39;s Bane
-29. Dimmu Borgir - Stormblåst
-30. Burzum - Filosofem
-31. Satyricon - Nemesis Divina
-32. Gorgoroth - Antichrist
-33. Cradle of Filth - Dusk... And Her Embrace
-34. Emperor - Anthems To The Welkin At Dusk
-35. Carpathian Forest - Black Shining Leather
-36. Emperor - IX Equilibrium
-37. Immortal - At the Heart of Winter
-38. Marduk - Panzer Division Marduk
-39. Satyricon - Rebel Extravaganza
-40. Windir - Arntor
-41. Gorgoroth - Incipit Satan
-42. Immortal - Damned in Black
-43. Cradle of Filth - Midian
-44. Cradle of Filth - Bitter Suites to Succubi
-45. Summoning - Let Mortal Heroes Sing Your Fame
-46. Windir - 1184
-47. Immortal - Sons of Northern Darkness
-48. Satyricon - Volcano
-49. Old Man&#39;s Child - In Defiance of Existence
-50. Drudkh - Forgotten Legends
-51. Carpathian Forest - Defending the Throne of Evil
-52. Cradle of Filth - Damnation and a Day
-53. Windir - Likferd
-54. Enslaved - Below the Lights
-55. Graveworm - Engraved in Black
-56. Darkspace - Dark Space I
-57. Mayhem - Chimera
-58. 1349 - Beyond the Apocalypse
-59. Cradle of Filth - Nymphetamine
-60. Enslaved - Isa
-61. Tsjuder - Desert Northern Hell
-62. Drudkh - Autumn Aurora
-63. Graveworm - (N)utopia
-64. Primordial - The Gathering Wilderness
-65. Satanic Warmaster - Carelian Satanist Madness
-66. 1349 - Hellfire
-67. Wolves in the Throne Room - Diadem Of 12 Stars
-68. Darkthrone - The Cult Is Alive
-69. Drudkh - Blood in Our Wells
-70. Satyricon - Now, Diabolical
-71. Enslaved - Ruun
-72. Gorgoroth - Ad Majorem Sathanas Gloriam
-73. Lifelover - Pulver
-74. I - Between Two Worlds
-75. Rotting Christ - Theogonia
-76. Watain - Sworn to the Dark
-77. Mayhem - Ordo Ad Chao
-78. Shining - V . Halmstad
-79. Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum
-80. Wolves in the Throne Room - Two Hunters
-81. Primordial - To the Nameless Dead
-82. Totalselfhatred - Totalselfhatred
-83. Belphegor - Bondage Goat Zombie
-84. Mgła - Groza
-85. Lifelover - Konkurs
-86. Satyricon - The Age of Nero
-87. Amesoeurs - Amesoeurs
-88. Wolves in the Throne Room - Black Cascade
-89. Altar of Plagues - White Tomb
-90. Anaal Nathrakh - In the Constellation of the Black Widow
-91. Immortal - All Shall Fall
-92. Rotting Christ - Aealo
-93. Burzum - Belus
-94. Watain - Lawless Darkness
-95. Kvelertak - Kvelertak
-96. Deathspell Omega - Paracletus
-97. Burzum - Fallen
-98. Taake - Noregs Vaapen
-99. Burzum - Umskiptar
-100. Watain - The Wild Hunt
+11. Darkthrone - Under a Funeral Moon (1993-06-24)
+12. Burzum - Det Som Engang Var (1993-08-20)
+13. Immortal - Pure Holocaust (1993-11-01)
+14. Dissection - The Somberlain (1993-12-03)
+15. Darkthrone - Transilvanian Hunger (1994-02-17)
+16. Emperor - In the Nightside Eclipse (1994-02-21)
+17. Cradle of Filth - The Principle of Evil Made Flesh (1994-02-24)
+18. Satyricon - Dark Medieval Times (1994-03)
+19. Burzum - Hvis lyset tar oss (1994-04)
+20. Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
+21. Enslaved - Frost (1994-08-04)
+22. Satyricon - The Shadowthrone (1994-09-12)
+23. Gorgoroth - Pentagram (1994-10-12)
+24. Dimmu Borgir - For All Tid (1994-12-01)
+25. Marduk - Opus Nocturne (1994-12-01)
+26. Immortal - Battles In The North (1995-05-15)
+27. Darkthrone - Panzerfaust (1995-06-06)
+28. Dissection - Storm of the Light&#39;s Bane (1995-11-17)
+29. Dimmu Borgir - Stormblåst (1996-01-25)
+30. Burzum - Filosofem (1996-01-31)
+31. Satyricon - Nemesis Divina (1996-04-22)
+32. Gorgoroth - Antichrist (1996-06-03)
+33. Cradle of Filth - Dusk... And Her Embrace (1996-10-28)
+34. Emperor - Anthems To The Welkin At Dusk (1997-05-19)
+35. Carpathian Forest - Black Shining Leather (1998-08-28)
+36. Emperor - IX Equilibrium (1999-02-22)
+37. Immortal - At the Heart of Winter (1999-02-28)
+38. Marduk - Panzer Division Marduk (1999-03-05)
+39. Satyricon - Rebel Extravaganza (1999-09-06)
+40. Windir - Arntor (1999-10-11)
+41. Gorgoroth - Incipit Satan (2000-02-07)
+42. Immortal - Damned in Black (2000-04-05)
+43. Cradle of Filth - Midian (2000-10-30)
+44. Cradle of Filth - Bitter Suites to Succubi (2001-06-18)
+45. Summoning - Let Mortal Heroes Sing Your Fame (2001-11-05)
+46. Windir - 1184 (2001-11-19)
+47. Immortal - Sons of Northern Darkness (2002-02-05)
+48. Satyricon - Volcano (2002-10-25)
+49. Old Man&#39;s Child - In Defiance of Existence (2003-01-14)
+50. Drudkh - Forgotten Legends (2003-02-23)
+51. Carpathian Forest - Defending the Throne of Evil (2003-03-17)
+52. Cradle of Filth - Damnation and a Day (2003-03-25)
+53. Windir - Likferd (2003-03-27)
+54. Enslaved - Below the Lights (2003-05-05)
+55. Graveworm - Engraved in Black (2003-06-23)
+56. Darkspace - Dark Space I (2003-10-13)
+57. Mayhem - Chimera (2004-03-29)
+58. 1349 - Beyond the Apocalypse (2004-04-19)
+59. Cradle of Filth - Nymphetamine (2004-09-27)
+60. Enslaved - Isa (2004-11-01)
+61. Tsjuder - Desert Northern Hell (2004-11-01)
+62. Drudkh - Autumn Aurora (2004-11-28)
+63. Graveworm - (N)utopia (2005-01-11)
+64. Primordial - The Gathering Wilderness (2005-02-07)
+65. Satanic Warmaster - Carelian Satanist Madness (2005-06-30)
+66. 1349 - Hellfire (2005-10-24)
+67. Wolves in the Throne Room - Diadem Of 12 Stars (2006-02)
+68. Darkthrone - The Cult Is Alive (2006-02-27)
+69. Drudkh - Blood in Our Wells (2006-03-23)
+70. Satyricon - Now, Diabolical (2006-04-14)
+71. Enslaved - Ruun (2006-05-02)
+72. Gorgoroth - Ad Majorem Sathanas Gloriam (2006-06-19)
+73. Lifelover - Pulver (2006-07-24)
+74. I - Between Two Worlds (2006-11-03)
+75. Rotting Christ - Theogonia (2007-01-22)
+76. Watain - Sworn to the Dark (2007-02-19)
+77. Mayhem - Ordo Ad Chao (2007-04-23)
+78. Shining - V . Halmstad (2007-07-16)
+79. Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)
+80. Wolves in the Throne Room - Two Hunters (2007-09-25)
+81. Primordial - To the Nameless Dead (2007-11-16)
+82. Totalselfhatred - Totalselfhatred (2008)
+83. Belphegor - Bondage Goat Zombie (2008-04-11)
+84. Mgła - Groza (2008-08-13)
+85. Lifelover - Konkurs (2008-10-10)
+86. Satyricon - The Age of Nero (2008-11-03)
+87. Amesoeurs - Amesoeurs (2009-03-27)
+88. Wolves in the Throne Room - Black Cascade (2009-03-31)
+89. Altar of Plagues - White Tomb (2009-04-13)
+90. Anaal Nathrakh - In the Constellation of the Black Widow (2009-06-29)
+91. Immortal - All Shall Fall (2009-09-25)
+92. Rotting Christ - Aealo (2010-02-15)
+93. Burzum - Belus (2010-03-05)
+94. Watain - Lawless Darkness (2010-06-07)
+95. Kvelertak - Kvelertak (2010-06-21)
+96. Deathspell Omega - Paracletus (2010-11-08)
+97. Burzum - Fallen (2011-03-07)
+98. Taake - Noregs Vaapen (2011-09-19)
+99. Burzum - Umskiptar (2012-05-21)
+100. Watain - The Wild Hunt (2013-08-16)
