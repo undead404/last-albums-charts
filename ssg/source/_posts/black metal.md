@@ -2,6 +2,18 @@
 date: 2021-03-30T19:48:05.088Z
 title: black metal
 ---
+1. Emperor - In the Nightside Eclipse (1994-02-21)
+2. Burzum - Hvis lyset tar oss (1994-04)
+3. Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
+4. Burzum - Filosofem (1996-01-31)
+5. Immortal - At the Heart of Winter (1999-02-28)
+6. Cradle of Filth - Midian (2000-10-30)
+7. Immortal - Sons of Northern Darkness (2002-02-05)
+8. Cradle of Filth - Nymphetamine (2004-09-27)
+9. Satyricon - Now, Diabolical (2006-04-14)
+10. Kvelertak - Kvelertak (2010-06-21)
+List of 100 - under the cut.
+<!-- more -->
 1. Venom - Welcome To Hell (1981)
 2. Venom - Black Metal (1982)
 3. Bathory - Bathory (1984-10-02)
@@ -12,8 +24,6 @@ title: black metal
 8. Darkthrone - A Blaze in the Northern Sky (1992-03-02)
 9. Immortal - Diabolical Fullmoon Mysticism (1992-07-01)
 10. Burzum - Aske (1993-03)
-More under the cut.
-<!-- more -->
 11. Darkthrone - Under a Funeral Moon (1993-06-24)
 12. Burzum - Det Som Engang Var (1993-08-20)
 13. Immortal - Pure Holocaust (1993-11-01)
