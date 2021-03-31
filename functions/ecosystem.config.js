@@ -58,7 +58,7 @@ module.exports = {
       watch: false,
     },
     {
-      cron_restart: '* * * * *',
+      cron_restart: '0 * * * *',
       instances: 1,
       name: 'ptWeight',
       script: 'lib/populate-tag-weight/run.js',

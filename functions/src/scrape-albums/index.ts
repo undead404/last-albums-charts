@@ -1,3 +1,3 @@
-import scrapeTags from './scrape-albums';
+import scrapeAlbums from './scrape-albums';
 
-export default scrapeTags;
+export default scrapeAlbums;

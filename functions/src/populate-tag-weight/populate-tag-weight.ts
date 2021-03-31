@@ -10,7 +10,7 @@ export default async function populateTagWeight(): Promise<void> {
     return;
   }
   logger.info(`populateTagWeight: ${tag.name}`);
-  const [{ power }] = await mongoDatabase.albums
+  const [{ power } = { power: 0 }] = await mongoDatabase.albums
     .aggregate<{ power: number }>([
       { $match: { [`tags.${tag.name}`]: { $gt: 0 } } },
       { $group: { _id: null, power: { $sum: `$tags.${tag.name}` } } },
