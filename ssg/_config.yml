@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://undead404.github.io/last-albums-charts/
-root: /last-albums-charts/
+url: https://last-albums-charts.netlify.app
+# root: /last-albums-charts/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -23,7 +23,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: ../docs
+# public_dir: ../docs
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
