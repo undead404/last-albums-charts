@@ -3,116 +3,116 @@ date: 2021-03-30T19:48:05.088Z
 title: black metal
 ---
 ![Burzum - Filosofem (1996-01-31)](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-500.jpg "Burzum - Filosofem (1996-01-31)")
-1. Emperor - In the Nightside Eclipse (1994-02-21)
-2. Burzum - Hvis lyset tar oss (1994-04)
-3. Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
-4. Burzum - Filosofem (1996-01-31)
-5. Immortal - At the Heart of Winter (1999-02-28)
-6. Cradle of Filth - Midian (2000-10-30)
-7. Immortal - Sons of Northern Darkness (2002-02-05)
-8. Cradle of Filth - Nymphetamine (2004-09-27)
-9. Satyricon - Now, Diabolical (2006-04-14)
-10. Kvelertak - Kvelertak (2010-06-21)
+1. <span title="#black_metal #symphonic_black_metal">Emperor - In the Nightside Eclipse (1994-02-21)</span>
+2. <span title="#black_metal #ambient_black_metal">Burzum - Hvis lyset tar oss (1994-04)</span>
+3. <span title="#black_metal">Mayhem - De Mysteriis Dom Sathanas (1994-05-24)</span>
+4. <span title="#black_metal #ambient_black_metal">Burzum - Filosofem (1996-01-31)</span>
+5. <span title="#black_metal">Immortal - At the Heart of Winter (1999-02-28)</span>
+6. <span title="#black_metal #symphonic_black_metal #gothic_metal">Cradle of Filth - Midian (2000-10-30)</span>
+7. <span title="#black_metal">Immortal - Sons of Northern Darkness (2002-02-05)</span>
+8. <span title="#black_metal #symphonic_black_metal #gothic_metal">Cradle of Filth - Nymphetamine (2004-09-27)</span>
+9. <span title="#black_metal">Satyricon - Now, Diabolical (2006-04-14)</span>
+10. <span title="#black_metal #2010 #black_n_roll #hardcore_punk">Kvelertak - Kvelertak (2010-06-21)</span>
 List of 100 - under the cut.
 <!-- more -->
 -----
-1. Venom - Welcome To Hell (1981)
-2. Venom - Black Metal (1982)
-3. Bathory - Bathory (1984-10-02)
-4. Mayhem - Deathcrush (1987-03)
-5. Bathory - Under the Sign of the Black Mark (1987-05-11)
-6. Bathory - Blood Fire Death (1988-10-08)
-7. Burzum - Burzum (1992-03)
-8. Darkthrone - A Blaze in the Northern Sky (1992-03-02)
-9. Immortal - Diabolical Fullmoon Mysticism (1992-07-01)
-10. Burzum - Aske (1993-03)
-11. Darkthrone - Under a Funeral Moon (1993-06-24)
-12. Burzum - Det Som Engang Var (1993-08-20)
-13. Immortal - Pure Holocaust (1993-11-01)
-14. Dissection - The Somberlain (1993-12-03)
-15. Darkthrone - Transilvanian Hunger (1994-02-17)
-16. Emperor - In the Nightside Eclipse (1994-02-21)
-17. Cradle of Filth - The Principle of Evil Made Flesh (1994-02-24)
-18. Satyricon - Dark Medieval Times (1994-03)
-19. Burzum - Hvis lyset tar oss (1994-04)
-20. Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
-21. Enslaved - Frost (1994-08-04)
-22. Satyricon - The Shadowthrone (1994-09-12)
-23. Gorgoroth - Pentagram (1994-10-12)
-24. Dimmu Borgir - For All Tid (1994-12-01)
-25. Marduk - Opus Nocturne (1994-12-01)
-26. Immortal - Battles In The North (1995-05-15)
-27. Darkthrone - Panzerfaust (1995-06-06)
-28. Dissection - Storm of the Light's Bane (1995-11-17)
-29. Dimmu Borgir - Stormblåst (1996-01-25)
-30. Burzum - Filosofem (1996-01-31)
-31. Satyricon - Nemesis Divina (1996-04-22)
-32. Gorgoroth - Antichrist (1996-06-03)
-33. Cradle of Filth - Dusk... And Her Embrace (1996-10-28)
-34. Emperor - Anthems To The Welkin At Dusk (1997-05-19)
-35. Carpathian Forest - Black Shining Leather (1998-08-28)
-36. Emperor - IX Equilibrium (1999-02-22)
-37. Immortal - At the Heart of Winter (1999-02-28)
-38. Marduk - Panzer Division Marduk (1999-03-05)
-39. Satyricon - Rebel Extravaganza (1999-09-06)
-40. Windir - Arntor (1999-10-11)
-41. Gorgoroth - Incipit Satan (2000-02-07)
-42. Immortal - Damned in Black (2000-04-05)
-43. Cradle of Filth - Midian (2000-10-30)
-44. Cradle of Filth - Bitter Suites to Succubi (2001-06-18)
-45. Summoning - Let Mortal Heroes Sing Your Fame (2001-11-05)
-46. Windir - 1184 (2001-11-19)
-47. Immortal - Sons of Northern Darkness (2002-02-05)
-48. Satyricon - Volcano (2002-10-25)
-49. Old Man's Child - In Defiance of Existence (2003-01-14)
-50. Drudkh - Forgotten Legends (2003-02-23)
-51. Carpathian Forest - Defending the Throne of Evil (2003-03-17)
-52. Cradle of Filth - Damnation and a Day (2003-03-25)
-53. Windir - Likferd (2003-03-27)
-54. Enslaved - Below the Lights (2003-05-05)
-55. Graveworm - Engraved in Black (2003-06-23)
-56. Darkspace - Dark Space I (2003-10-13)
-57. Mayhem - Chimera (2004-03-29)
-58. 1349 - Beyond the Apocalypse (2004-04-19)
-59. Cradle of Filth - Nymphetamine (2004-09-27)
-60. Enslaved - Isa (2004-11-01)
-61. Tsjuder - Desert Northern Hell (2004-11-01)
-62. Drudkh - Autumn Aurora (2004-11-28)
-63. Graveworm - (N)utopia (2005-01-11)
-64. Primordial - The Gathering Wilderness (2005-02-07)
-65. Satanic Warmaster - Carelian Satanist Madness (2005-06-30)
-66. 1349 - Hellfire (2005-10-24)
-67. Wolves in the Throne Room - Diadem Of 12 Stars (2006-02)
-68. Darkthrone - The Cult Is Alive (2006-02-27)
-69. Drudkh - Blood in Our Wells (2006-03-23)
-70. Satyricon - Now, Diabolical (2006-04-14)
-71. Enslaved - Ruun (2006-05-02)
-72. Gorgoroth - Ad Majorem Sathanas Gloriam (2006-06-19)
-73. Lifelover - Pulver (2006-07-24)
-74. I - Between Two Worlds (2006-11-03)
-75. Rotting Christ - Theogonia (2007-01-22)
-76. Watain - Sworn to the Dark (2007-02-19)
-77. Mayhem - Ordo Ad Chao (2007-04-23)
-78. Shining - V . Halmstad (2007-07-16)
-79. Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)
-80. Wolves in the Throne Room - Two Hunters (2007-09-25)
-81. Primordial - To the Nameless Dead (2007-11-16)
-82. Totalselfhatred - Totalselfhatred (2008)
-83. Belphegor - Bondage Goat Zombie (2008-04-11)
-84. Mgła - Groza (2008-08-13)
-85. Lifelover - Konkurs (2008-10-10)
-86. Satyricon - The Age of Nero (2008-11-03)
-87. Amesoeurs - Amesoeurs (2009-03-27)
-88. Wolves in the Throne Room - Black Cascade (2009-03-31)
-89. Altar of Plagues - White Tomb (2009-04-13)
-90. Anaal Nathrakh - In the Constellation of the Black Widow (2009-06-29)
-91. Immortal - All Shall Fall (2009-09-25)
-92. Rotting Christ - Aealo (2010-02-15)
-93. Burzum - Belus (2010-03-05)
-94. Watain - Lawless Darkness (2010-06-07)
-95. Kvelertak - Kvelertak (2010-06-21)
-96. Deathspell Omega - Paracletus (2010-11-08)
-97. Burzum - Fallen (2011-03-07)
-98. Taake - Noregs Vaapen (2011-09-19)
-99. Burzum - Umskiptar (2012-05-21)
-100. Watain - The Wild Hunt (2013-08-16)
+1. <span title="#black_metal #heavy_metal #thrash_metal #speed_metal #nwobhm">Venom - Welcome To Hell (1981)</span>
+2. <span title="#black_metal #speed_metal #thrash_metal #heavy_metal #nwobhm">Venom - Black Metal (1982)</span>
+3. <span title="#black_metal">Bathory - Bathory (1984-10-02)</span>
+4. <span title="#black_metal">Mayhem - Deathcrush (1987-03)</span>
+5. <span title="#black_metal">Bathory - Under the Sign of the Black Mark (1987-05-11)</span>
+6. <span title="#black_metal #viking_metal">Bathory - Blood Fire Death (1988-10-08)</span>
+7. <span title="#black_metal">Burzum - Burzum (1992-03)</span>
+8. <span title="#black_metal">Darkthrone - A Blaze in the Northern Sky (1992-03-02)</span>
+9. <span title="#black_metal">Immortal - Diabolical Fullmoon Mysticism (1992-07-01)</span>
+10. <span title="#black_metal">Burzum - Aske (1993-03)</span>
+11. <span title="#black_metal">Darkthrone - Under a Funeral Moon (1993-06-24)</span>
+12. <span title="#black_metal">Burzum - Det Som Engang Var (1993-08-20)</span>
+13. <span title="#black_metal">Immortal - Pure Holocaust (1993-11-01)</span>
+14. <span title="#black_metal #melodic_black_metal">Dissection - The Somberlain (1993-12-03)</span>
+15. <span title="#black_metal">Darkthrone - Transilvanian Hunger (1994-02-17)</span>
+16. <span title="#black_metal #symphonic_black_metal">Emperor - In the Nightside Eclipse (1994-02-21)</span>
+17. <span title="#black_metal #symphonic_black_metal">Cradle of Filth - The Principle of Evil Made Flesh (1994-02-24)</span>
+18. <span title="#black_metal">Satyricon - Dark Medieval Times (1994-03)</span>
+19. <span title="#black_metal #ambient_black_metal">Burzum - Hvis lyset tar oss (1994-04)</span>
+20. <span title="#black_metal">Mayhem - De Mysteriis Dom Sathanas (1994-05-24)</span>
+21. <span title="#black_metal #viking_metal">Enslaved - Frost (1994-08-04)</span>
+22. <span title="#black_metal">Satyricon - The Shadowthrone (1994-09-12)</span>
+23. <span title="#black_metal">Gorgoroth - Pentagram (1994-10-12)</span>
+24. <span title="#black_metal #symphonic_black_metal #atmospheric_black_metal #melodic_black_metal">Dimmu Borgir - For All Tid (1994-12-01)</span>
+25. <span title="#black_metal">Marduk - Opus Nocturne (1994-12-01)</span>
+26. <span title="#black_metal">Immortal - Battles In The North (1995-05-15)</span>
+27. <span title="#black_metal">Darkthrone - Panzerfaust (1995-06-06)</span>
+28. <span title="#black_metal #melodic_black_metal">Dissection - Storm of the Light's Bane (1995-11-17)</span>
+29. <span title="#black_metal #symphonic_black_metal #melodic_black_metal">Dimmu Borgir - Stormblåst (1996-01-25)</span>
+30. <span title="#black_metal #ambient_black_metal">Burzum - Filosofem (1996-01-31)</span>
+31. <span title="#black_metal #norwegian_black_metal">Satyricon - Nemesis Divina (1996-04-22)</span>
+32. <span title="#black_metal">Gorgoroth - Antichrist (1996-06-03)</span>
+33. <span title="#black_metal #symphonic_black_metal #gothic_metal">Cradle of Filth - Dusk... And Her Embrace (1996-10-28)</span>
+34. <span title="#black_metal #symphonic_black_metal">Emperor - Anthems To The Welkin At Dusk (1997-05-19)</span>
+35. <span title="#black_metal">Carpathian Forest - Black Shining Leather (1998-08-28)</span>
+36. <span title="#black_metal #symphonic_black_metal">Emperor - IX Equilibrium (1999-02-22)</span>
+37. <span title="#black_metal">Immortal - At the Heart of Winter (1999-02-28)</span>
+38. <span title="#black_metal">Marduk - Panzer Division Marduk (1999-03-05)</span>
+39. <span title="#black_metal">Satyricon - Rebel Extravaganza (1999-09-06)</span>
+40. <span title="#black_metal #viking_metal #folk_metal">Windir - Arntor (1999-10-11)</span>
+41. <span title="#black_metal">Gorgoroth - Incipit Satan (2000-02-07)</span>
+42. <span title="#black_metal">Immortal - Damned in Black (2000-04-05)</span>
+43. <span title="#black_metal #symphonic_black_metal #gothic_metal">Cradle of Filth - Midian (2000-10-30)</span>
+44. <span title="#black_metal #symphonic_black_metal">Cradle of Filth - Bitter Suites to Succubi (2001-06-18)</span>
+45. <span title="#black_metal #atmospheric_black_metal #epic_black_metal #2001">Summoning - Let Mortal Heroes Sing Your Fame (2001-11-05)</span>
+46. <span title="#black_metal #viking_metal #folk_metal #melodic_black_metal">Windir - 1184 (2001-11-19)</span>
+47. <span title="#black_metal">Immortal - Sons of Northern Darkness (2002-02-05)</span>
+48. <span title="#black_metal">Satyricon - Volcano (2002-10-25)</span>
+49. <span title="#black_metal #melodic_black_metal #symphonic_black_metal">Old Man's Child - In Defiance of Existence (2003-01-14)</span>
+50. <span title="#black_metal #atmospheric_black_metal">Drudkh - Forgotten Legends (2003-02-23)</span>
+51. <span title="#black_metal">Carpathian Forest - Defending the Throne of Evil (2003-03-17)</span>
+52. <span title="#black_metal #symphonic_black_metal #gothic_metal">Cradle of Filth - Damnation and a Day (2003-03-25)</span>
+53. <span title="#black_metal #viking_metal">Windir - Likferd (2003-03-27)</span>
+54. <span title="#black_metal #progressive_black_metal #progressive_metal #2003 #viking_metal">Enslaved - Below the Lights (2003-05-05)</span>
+55. <span title="#black_metal #symphonic_black_metal #melodic_black_metal">Graveworm - Engraved in Black (2003-06-23)</span>
+56. <span title="#black_metal #atmospheric_black_metal #ambient_black_metal">Darkspace - Dark Space I (2003-10-13)</span>
+57. <span title="#black_metal">Mayhem - Chimera (2004-03-29)</span>
+58. <span title="#black_metal">1349 - Beyond the Apocalypse (2004-04-19)</span>
+59. <span title="#black_metal #symphonic_black_metal #gothic_metal">Cradle of Filth - Nymphetamine (2004-09-27)</span>
+60. <span title="#black_metal #progressive_black_metal #progressive_metal">Enslaved - Isa (2004-11-01)</span>
+61. <span title="#black_metal">Tsjuder - Desert Northern Hell (2004-11-01)</span>
+62. <span title="#black_metal #atmospheric_black_metal">Drudkh - Autumn Aurora (2004-11-28)</span>
+63. <span title="#black_metal #melodic_black_metal #symphonic_black_metal">Graveworm - (N)utopia (2005-01-11)</span>
+64. <span title="#black_metal #folk_metal #pagan_metal">Primordial - The Gathering Wilderness (2005-02-07)</span>
+65. <span title="#black_metal">Satanic Warmaster - Carelian Satanist Madness (2005-06-30)</span>
+66. <span title="#black_metal">1349 - Hellfire (2005-10-24)</span>
+67. <span title="#black_metal #2006 #atmospheric_black_metal">Wolves in the Throne Room - Diadem Of 12 Stars (2006-02)</span>
+68. <span title="#black_metal">Darkthrone - The Cult Is Alive (2006-02-27)</span>
+69. <span title="#black_metal #atmospheric_black_metal">Drudkh - Blood in Our Wells (2006-03-23)</span>
+70. <span title="#black_metal">Satyricon - Now, Diabolical (2006-04-14)</span>
+71. <span title="#black_metal #progressive_metal #progressive_black_metal">Enslaved - Ruun (2006-05-02)</span>
+72. <span title="#black_metal">Gorgoroth - Ad Majorem Sathanas Gloriam (2006-06-19)</span>
+73. <span title="#black_metal #depressive_black_metal #depressive_rock #metal">Lifelover - Pulver (2006-07-24)</span>
+74. <span title="#black_metal #heavy_metal #blackened_heavy_metal">I - Between Two Worlds (2006-11-03)</span>
+75. <span title="#black_metal #melodic_black_metal">Rotting Christ - Theogonia (2007-01-22)</span>
+76. <span title="#black_metal">Watain - Sworn to the Dark (2007-02-19)</span>
+77. <span title="#black_metal">Mayhem - Ordo Ad Chao (2007-04-23)</span>
+78. <span title="#black_metal #2007 #depressive_black_metal #dark_metal">Shining - V . Halmstad (2007-07-16)</span>
+79. <span title="#black_metal #avant_garde_black_metal">Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)</span>
+80. <span title="#black_metal #atmospheric_black_metal #2007">Wolves in the Throne Room - Two Hunters (2007-09-25)</span>
+81. <span title="#black_metal #pagan_metal #folk_metal #doom_metal">Primordial - To the Nameless Dead (2007-11-16)</span>
+82. <span title="#black_metal #depressive_black_metal">Totalselfhatred - Totalselfhatred (2008)</span>
+83. <span title="#black_metal #blackened_death_metal #death_metal">Belphegor - Bondage Goat Zombie (2008-04-11)</span>
+84. <span title="#black_metal #2008">Mgła - Groza (2008-08-13)</span>
+85. <span title="#black_metal #depressive_black_metal #depressive_rock #post_punk">Lifelover - Konkurs (2008-10-10)</span>
+86. <span title="#black_metal">Satyricon - The Age of Nero (2008-11-03)</span>
+87. <span title="#black_metal #post_punk #shoegaze #atmospheric_black_metal #post_rock">Amesoeurs - Amesoeurs (2009-03-27)</span>
+88. <span title="#black_metal #atmospheric_black_metal">Wolves in the Throne Room - Black Cascade (2009-03-31)</span>
+89. <span title="#black_metal #atmospheric_black_metal #2009">Altar of Plagues - White Tomb (2009-04-13)</span>
+90. <span title="#black_metal #grindcore">Anaal Nathrakh - In the Constellation of the Black Widow (2009-06-29)</span>
+91. <span title="#black_metal">Immortal - All Shall Fall (2009-09-25)</span>
+92. <span title="#black_metal">Rotting Christ - Aealo (2010-02-15)</span>
+93. <span title="#black_metal #atmospheric_black_metal">Burzum - Belus (2010-03-05)</span>
+94. <span title="#black_metal">Watain - Lawless Darkness (2010-06-07)</span>
+95. <span title="#black_metal #2010 #black_n_roll #hardcore_punk">Kvelertak - Kvelertak (2010-06-21)</span>
+96. <span title="#black_metal #2010 #progressive_black_metal">Deathspell Omega - Paracletus (2010-11-08)</span>
+97. <span title="#black_metal #atmospheric_black_metal #2011">Burzum - Fallen (2011-03-07)</span>
+98. <span title="#black_metal #norwegian_black_metal #norwegian">Taake - Noregs Vaapen (2011-09-19)</span>
+99. <span title="#black_metal #2012 #atmospheric_black_metal">Burzum - Umskiptar (2012-05-21)</span>
+100. <span title="#black_metal #2013">Watain - The Wild Hunt (2013-08-16)</span>

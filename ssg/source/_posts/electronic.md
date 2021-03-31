@@ -3,116 +3,116 @@ date: 2021-03-31T12:00:01.222Z
 title: electronic
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
-1. Daft Punk - Homework (1997-01-20)
-2. Air - Moon Safari (1998-01-16)
-3. Daft Punk - Discovery (2001-02-26)
-4. Röyksopp - Melody A.M. (2001-10-08)
-5. Daft Punk - Human After All (2005-03-09)
-6. Thom Yorke - The Eraser (2006-07-05)
-7. LCD Soundsystem - Sound Of Silver (2007-03-07)
-8. The Prodigy - Invaders Must Die (2009-02-18)
-9. Kavinsky - Nightcall (2010-03-26)
-10. Crystal Castles - Crystal Castles (2010-05-18)
+1. <span title="#electronic #house">Daft Punk - Homework (1997-01-20)</span>
+2. <span title="#electronic #chillout #electronica">Air - Moon Safari (1998-01-16)</span>
+3. <span title="#electronic #house #dance">Daft Punk - Discovery (2001-02-26)</span>
+4. <span title="#electronic #chillout #downtempo">Röyksopp - Melody A.M. (2001-10-08)</span>
+5. <span title="#electronic #house">Daft Punk - Human After All (2005-03-09)</span>
+6. <span title="#electronic #alternative #experimental">Thom Yorke - The Eraser (2006-07-05)</span>
+7. <span title="#electronic #2007 #dance">LCD Soundsystem - Sound Of Silver (2007-03-07)</span>
+8. <span title="#electronic #breakbeat #big_beat">The Prodigy - Invaders Must Die (2009-02-18)</span>
+9. <span title="#electronic #2010 #discover">Kavinsky - Nightcall (2010-03-26)</span>
+10. <span title="#electronic #8_bit">Crystal Castles - Crystal Castles (2010-05-18)</span>
 List of 100 - under the cut.
 <!-- more -->
 -----
-1. The Prodigy - Experience (1992-09-21)
-2. Global Communication - 76:14 (1994)
-3. Nine Inch Nails - The Downward Spiral (1994-03-08)
-4. Portishead - Dummy (1994-08-22)
-5. Massive Attack - Protection (1994-09-26)
-6. Leftfield - Leftism (1995-01-30)
-7. Aphex Twin - I Care Because You Do (1995-04-01)
-8. The Chemical Brothers - Exit Planet Dust (1995-06-26)
-9. Beck - Odelay (1996-06-17)
-10. Jamiroquai - Travelling Without Moving (1996-09-09)
-11. DJ Shadow - Endtroducing..... (1996-09-16)
-12. Aphex Twin - Richard D. James Album (1996-11-04)
-13. Boards of Canada - Hi Scores (1996-12-09)
-14. Daft Punk - Homework (1997-01-20)
-15. The Chemical Brothers - Dig Your Own Hole (1997-03-25)
-16. Amon Tobin - Bricolage (1997-04-25)
-17. The Prodigy - The Fat Of The Land (1997-06-30)
-18. The Crystal Method - Vegas (1997-08-26)
-19. Aphex Twin - Come to Daddy (1997-10-16)
-20. Air - Moon Safari (1998-01-16)
-21. Moby - Play (1999-05-17)
-22. The Chemical Brothers - Surrender (1999-06-07)
-23. The Avalanches - Since I Left You (2000-11-27)
-24. Rob Dougan - Furious Angels (2001)
-25. The Knife - The Knife (2001-02-05)
-26. Daft Punk - Discovery (2001-02-26)
-27. Télépopmusik - Genetic World (2001-05-21)
-28. Air - 10 000 Hz Legend (2001-05-23)
-29. Röyksopp - Melody A.M. (2001-10-08)
-30. The Notwist - Neon Golden (2002-01-14)
-31. Moby - 18 (2002-05-02)
-32. múm - Finally We are No One (2002-05-20)
-33. The Chemical Brothers - Come With Us (2002-08)
-34. Moloko - Statues (2003-01-06)
-35. The Knife - Deep Cuts (2003-01-17)
-36. M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
-37. Goldfrapp - Black Cherry (2003-04-23)
-38. Four Tet - Rounds (2003-05-05)
-39. Ulrich Schnauss - A Strangely Isolated Place (2003-06-09)
-40. Air - Talkie Walkie (2004-01-21)
-41. Ratatat - Ratatat (2004-04-19)
-42. The Prodigy - Always Outnumbered, Never Outgunned (2004-08-11)
-43. The Chemical Brothers - Push the Button (2004-12)
-44. Robyn - Robyn (2005)
-45. LCD Soundsystem - LCD Soundsystem (2005-01-19)
-46. M83 - Before the Dawn Heals Us (2005-01-24)
-47. Moby - Hotel (2005-03-09)
-48. Daft Punk - Human After All (2005-03-09)
-49. Röyksopp - The Understanding (2005-06-22)
-50. Ladytron - Witching Hour (2005-07)
-51. Goldfrapp - Supernature (2005-08-22)
-52. The Knife - Silent Shout (2006-02-15)
-53. Hot Chip - The Warning (2006-05-22)
-54. Thom Yorke - The Eraser (2006-07-05)
-55. MSTRKRFT - The Looks (2006-07-18)
-56. Ratatat - Classics (2006-08-21)
-57. Junior Boys - So This Is Goodbye (2006-09-11)
-58. Bonobo - Days to Come (2006-10-02)
-59. Air - Pocket Symphony (2006-12)
-60. Passion Pit - Chunk of Change (2007)
-61. Amon Tobin - Foley Room (2007-02-26)
-62. LCD Soundsystem - Sound Of Silver (2007-03-07)
-63. Chromeo - Fancy Footwork (2007-04-12)
-64. Róisín Murphy - Overpowered (2007-05)
-65. The Chemical Brothers - We Are The Night (2007-05)
-66. Simian Mobile Disco - Attack Decay Sustain Release (2007-06-13)
-67. Calvin Harris - I Created Disco (2007-06-18)
-68. Boys Noize - Oi Oi Oi (2007-07-13)
-69. Kanye West - Stronger (2007-07-31)
-70. Gorillaz - D-Sides (2007-11-05)
-71. Daft Punk - Alive 2007 (2007-11-14)
-72. MGMT - Time To Pretend (2007-12-25)
-73. The Presets - Apocalypso (2008-04-12)
-74. M83 - Saturdays = Youth (2008-04-14)
-75. Ladytron - Velocifero (2008-05-31)
-76. 3OH!3 - Want (2008-07-08)
-77. Fever Ray - Fever Ray (2009-01-12)
-78. The Prodigy - Invaders Must Die (2009-02-18)
-79. Röyksopp - Junior (2009-03-18)
-80. Depeche Mode - Sounds of the Universe (2009-04-17)
-81. Empire of the Sun - Walking on a Dream (2009-04-21)
-82. Owl City - Ocean Eyes (2009-07-14)
-83. Calvin Harris - Ready for the Weekend (2009-08-09)
-84. deadmau5 - For Lack of a Better Name (2009-09-22)
-85. Kavinsky - Nightcall (2010-03-26)
-86. Crystal Castles - Crystal Castles (2010-05-18)
-87. Ratatat - LP4 (2010-06-08)
-88. The Chemical Brothers - Further (2010-06-09)
-89. 3OH!3 - Streets of Gold (2010-06-25)
-90. Daft Punk - TRON: Legacy (2010-12-06)
-91. Awolnation - Megalithic Symphony (2011-03-15)
-92. Amon Tobin - ISAM (2011-04-19)
-93. The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)
-94. Tycho - Dive (2011-10-04)
-95. Avicii - Levels (2011-10-28)
-96. M.I.A. - Bad Girls (2012-01-31)
-97. Swedish House Mafia - Greyhound (2012-03-12)
-98. Calvin Harris - Summer (2014-04-27)
-99. Coldplay - A Sky Full Of Stars (2014-05-02)
-100. Odesza - In Return (2014-09-08)
+1. <span title="#electronic #breakbeat #rave #techno">The Prodigy - Experience (1992-09-21)</span>
+2. <span title="#ambient">Global Communication - 76:14 (1994)</span>
+3. <span title="#industrial #industrial_rock">Nine Inch Nails - The Downward Spiral (1994-03-08)</span>
+4. <span title="#trip_hop">Portishead - Dummy (1994-08-22)</span>
+5. <span title="#trip_hop">Massive Attack - Protection (1994-09-26)</span>
+6. <span title="#electronic #1995 #electronica">Leftfield - Leftism (1995-01-30)</span>
+7. <span title="#idm #1995 #electronic">Aphex Twin - I Care Because You Do (1995-04-01)</span>
+8. <span title="#electronic #big_beat #electronica">The Chemical Brothers - Exit Planet Dust (1995-06-26)</span>
+9. <span title="#alternative #90_s #1996 #rock">Beck - Odelay (1996-06-17)</span>
+10. <span title="#funk #acid_jazz">Jamiroquai - Travelling Without Moving (1996-09-09)</span>
+11. <span title="#1996 #electronic #hip_hop #trip_hop #90_s">DJ Shadow - Endtroducing..... (1996-09-16)</span>
+12. <span title="#idm #electronic">Aphex Twin - Richard D. James Album (1996-11-04)</span>
+13. <span title="#ambient #electronic #downtempo #idm">Boards of Canada - Hi Scores (1996-12-09)</span>
+14. <span title="#electronic #house">Daft Punk - Homework (1997-01-20)</span>
+15. <span title="#electronic #big_beat #1997 #electronica">The Chemical Brothers - Dig Your Own Hole (1997-03-25)</span>
+16. <span title="#electronic #trip_hop #ninja_tune #drum_n_bass">Amon Tobin - Bricolage (1997-04-25)</span>
+17. <span title="#electronic #big_beat #techno">The Prodigy - The Fat Of The Land (1997-06-30)</span>
+18. <span title="#electronic #breakbeat #big_beat #electronica">The Crystal Method - Vegas (1997-08-26)</span>
+19. <span title="#electronic #idm #1997">Aphex Twin - Come to Daddy (1997-10-16)</span>
+20. <span title="#electronic #chillout #electronica">Air - Moon Safari (1998-01-16)</span>
+21. <span title="#electronic #chillout #electronica">Moby - Play (1999-05-17)</span>
+22. <span title="#electronic #big_beat #electronica">The Chemical Brothers - Surrender (1999-06-07)</span>
+23. <span title="#electronic">The Avalanches - Since I Left You (2000-11-27)</span>
+24. <span title="#electronic #trip_hop #alternative">Rob Dougan - Furious Angels (2001)</span>
+25. <span title="#electronic #2001 #swedish #synthpop">The Knife - The Knife (2001-02-05)</span>
+26. <span title="#electronic #house #dance">Daft Punk - Discovery (2001-02-26)</span>
+27. <span title="#electronic #chillout #downtempo #trip_hop">Télépopmusik - Genetic World (2001-05-21)</span>
+28. <span title="#electronic #french">Air - 10 000 Hz Legend (2001-05-23)</span>
+29. <span title="#electronic #chillout #downtempo">Röyksopp - Melody A.M. (2001-10-08)</span>
+30. <span title="#electronic #indie_rock #indie #indie_pop #indietronica">The Notwist - Neon Golden (2002-01-14)</span>
+31. <span title="#electronic #chillout">Moby - 18 (2002-05-02)</span>
+32. <span title="#electronic #2002 #post_rock #ambient #experimental">múm - Finally We are No One (2002-05-20)</span>
+33. <span title="#electronic #big_beat #electronica">The Chemical Brothers - Come With Us (2002-08)</span>
+34. <span title="#electronic #trip_hop">Moloko - Statues (2003-01-06)</span>
+35. <span title="#electronic #electronica #swedish">The Knife - Deep Cuts (2003-01-17)</span>
+36. <span title="#electronic #shoegaze #2003 #ambient #post_rock">M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)</span>
+37. <span title="#electronic #electronica #synthpop #trip_hop">Goldfrapp - Black Cherry (2003-04-23)</span>
+38. <span title="#electronic #electronica #idm">Four Tet - Rounds (2003-05-05)</span>
+39. <span title="#electronic #ambient #electronica #chillout">Ulrich Schnauss - A Strangely Isolated Place (2003-06-09)</span>
+40. <span title="#electronic #chillout #ambient">Air - Talkie Walkie (2004-01-21)</span>
+41. <span title="#electronic #instrumental #2004 #electronica">Ratatat - Ratatat (2004-04-19)</span>
+42. <span title="#electronic #breakbeat #big_beat">The Prodigy - Always Outnumbered, Never Outgunned (2004-08-11)</span>
+43. <span title="#electronic">The Chemical Brothers - Push the Button (2004-12)</span>
+44. <span title="#electronic #pop #dance #2007 #2005 #electropop">Robyn - Robyn (2005)</span>
+45. <span title="#electronic #2005 #electronica">LCD Soundsystem - LCD Soundsystem (2005-01-19)</span>
+46. <span title="#electronic #shoegaze #post_rock #ambient">M83 - Before the Dawn Heals Us (2005-01-24)</span>
+47. <span title="#electronic #ambient">Moby - Hotel (2005-03-09)</span>
+48. <span title="#electronic #house">Daft Punk - Human After All (2005-03-09)</span>
+49. <span title="#electronic #electronica #chillout">Röyksopp - The Understanding (2005-06-22)</span>
+50. <span title="#electronic #electropop #electroclash">Ladytron - Witching Hour (2005-07)</span>
+51. <span title="#electronic #2005 #electronica">Goldfrapp - Supernature (2005-08-22)</span>
+52. <span title="#electronic #2006">The Knife - Silent Shout (2006-02-15)</span>
+53. <span title="#electronic">Hot Chip - The Warning (2006-05-22)</span>
+54. <span title="#electronic #alternative #experimental">Thom Yorke - The Eraser (2006-07-05)</span>
+55. <span title="#electronic #electro #dance">MSTRKRFT - The Looks (2006-07-18)</span>
+56. <span title="#electronic #2006">Ratatat - Classics (2006-08-21)</span>
+57. <span title="#electronic #electropop">Junior Boys - So This Is Goodbye (2006-09-11)</span>
+58. <span title="#electronic #downtempo #trip_hop #chillout #ninja_tune">Bonobo - Days to Come (2006-10-02)</span>
+59. <span title="#electronic #chillout #french">Air - Pocket Symphony (2006-12)</span>
+60. <span title="#electronic #emusic #electronica #acquire #2008">Passion Pit - Chunk of Change (2007)</span>
+61. <span title="#electronic #idm #ninja_tune #experimental">Amon Tobin - Foley Room (2007-02-26)</span>
+62. <span title="#electronic #2007 #dance">LCD Soundsystem - Sound Of Silver (2007-03-07)</span>
+63. <span title="#electronic">Chromeo - Fancy Footwork (2007-04-12)</span>
+64. <span title="#electronic #electropop #female_vocalists #pop #2007">Róisín Murphy - Overpowered (2007-05)</span>
+65. <span title="#electronic #electronica">The Chemical Brothers - We Are The Night (2007-05)</span>
+66. <span title="#electronic #2007">Simian Mobile Disco - Attack Decay Sustain Release (2007-06-13)</span>
+67. <span title="#electronic #dance #disco">Calvin Harris - I Created Disco (2007-06-18)</span>
+68. <span title="#electronic #electro #2007">Boys Noize - Oi Oi Oi (2007-07-13)</span>
+69. <span title="#electronic #dance #techno #house #west #kanye #stronger">Kanye West - Stronger (2007-07-31)</span>
+70. <span title="#electronic #alternative #remix #gorillaz">Gorillaz - D-Sides (2007-11-05)</span>
+71. <span title="#electronic #live #dance">Daft Punk - Alive 2007 (2007-11-14)</span>
+72. <span title="#electronic #indietronica #dance #synthpop #psychedelic">MGMT - Time To Pretend (2007-12-25)</span>
+73. <span title="#electronic #2008 #dance">The Presets - Apocalypso (2008-04-12)</span>
+74. <span title="#electronic #shoegaze #2008">M83 - Saturdays = Youth (2008-04-14)</span>
+75. <span title="#electronic #electroclash">Ladytron - Velocifero (2008-05-31)</span>
+76. <span title="#electronic">3OH!3 - Want (2008-07-08)</span>
+77. <span title="#electronic #2009">Fever Ray - Fever Ray (2009-01-12)</span>
+78. <span title="#electronic #breakbeat #big_beat">The Prodigy - Invaders Must Die (2009-02-18)</span>
+79. <span title="#electronic #2009">Röyksopp - Junior (2009-03-18)</span>
+80. <span title="#2009 #electronic #synthpop">Depeche Mode - Sounds of the Universe (2009-04-17)</span>
+81. <span title="#electronic #synthpop">Empire of the Sun - Walking on a Dream (2009-04-21)</span>
+82. <span title="#electronic #owl_city #electropop #pop">Owl City - Ocean Eyes (2009-07-14)</span>
+83. <span title="#electronic #2009 #dance">Calvin Harris - Ready for the Weekend (2009-08-09)</span>
+84. <span title="#electronic #2009 #progressive_house #house">deadmau5 - For Lack of a Better Name (2009-09-22)</span>
+85. <span title="#electronic #2010 #discover">Kavinsky - Nightcall (2010-03-26)</span>
+86. <span title="#electronic #8_bit">Crystal Castles - Crystal Castles (2010-05-18)</span>
+87. <span title="#electronic #2010 #instrumental">Ratatat - LP4 (2010-06-08)</span>
+88. <span title="#electronic #2010">The Chemical Brothers - Further (2010-06-09)</span>
+89. <span title="#2010 #electronic #electro_pop">3OH!3 - Streets of Gold (2010-06-25)</span>
+90. <span title="#electronic #soundtrack #tron">Daft Punk - TRON: Legacy (2010-12-06)</span>
+91. <span title="#electronic #2011 #indie_rock #electronic_rock #soul #funky">Awolnation - Megalithic Symphony (2011-03-15)</span>
+92. <span title="#experimental #electronic #dubstep #2011">Amon Tobin - ISAM (2011-04-19)</span>
+93. <span title="#2011 #electronic #indie #idm #glitch #glitch_mob">The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)</span>
+94. <span title="#electronic #downtempo #2011 #idm">Tycho - Dive (2011-10-04)</span>
+95. <span title="#electronic #dance #pop #techno">Avicii - Levels (2011-10-28)</span>
+96. <span title="#electronic #electronica #indie #alternative #synthpop #alternative_dance #everything #dark_pop #coramao #availableonemusic #bete_gouveia">M.I.A. - Bad Girls (2012-01-31)</span>
+97. <span title="#electronic #mein_house #superr #meine_party #availableonemusic">Swedish House Mafia - Greyhound (2012-03-12)</span>
+98. <span title="#electronic #dance">Calvin Harris - Summer (2014-04-27)</span>
+99. <span title="#electronic #rock #alternative #alternative_rock #britpop #coldplay">Coldplay - A Sky Full Of Stars (2014-05-02)</span>
+100. <span title="#electronic #electronica #indie_electronic #driving #energetic #summer #confident #hypnotic #light #summery #slick #exciting #stylish #lively #day_driving #boisterous #hanging_out #1_raz">Odesza - In Return (2014-09-08)</span>

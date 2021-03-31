@@ -3,116 +3,116 @@ date: 2021-03-31T10:00:00.928Z
 title: finnish metal
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
-1. Apocalyptica - Inquisition Symphony (1998-09-22)
-2. Nightwish - Oceanborn (1998-12-07)
-3. Sonata Arctica - Ecliptica (1999-08-29)
-4. Nightwish - Wishmaster (2000-05-02)
-5. Sonata Arctica - Silence (2001-01)
-6. Ensiferum - Ensiferum (2001-07)
-7. Nightwish - Century Child (2002-06-24)
-8. Nightwish - Once (2004-06-04)
-9. Wintersun - Wintersun (2004-08-25)
-10. Nightwish - Dark Passion Play (2007-09-26)
+1. <span title="#symphonic_metal #instrumental #cello #metal">Apocalyptica - Inquisition Symphony (1998-09-22)</span>
+2. <span title="#symphonic_metal #power_metal">Nightwish - Oceanborn (1998-12-07)</span>
+3. <span title="#power_metal">Sonata Arctica - Ecliptica (1999-08-29)</span>
+4. <span title="#symphonic_metal #power_metal">Nightwish - Wishmaster (2000-05-02)</span>
+5. <span title="#power_metal">Sonata Arctica - Silence (2001-01)</span>
+6. <span title="#folk_metal #viking_metal #melodic_death_metal">Ensiferum - Ensiferum (2001-07)</span>
+7. <span title="#symphonic_metal">Nightwish - Century Child (2002-06-24)</span>
+8. <span title="#symphonic_metal">Nightwish - Once (2004-06-04)</span>
+9. <span title="#melodic_death_metal #power_metal">Wintersun - Wintersun (2004-08-25)</span>
+10. <span title="#symphonic_metal #power_metal">Nightwish - Dark Passion Play (2007-09-26)</span>
 List of 100 - under the cut.
 <!-- more -->
 -----
-1. Sentenced - Amok (1995-01-03)
-2. Stratovarius - Fourth Dimension (1995-02-08)
-3. Amorphis - Elegy (1996-05-14)
-4. Stratovarius - Visions (1997-04-23)
-5. The Gathering - Nighttime Birds (1997-06-21)
-6. Nightwish - Angels Fall First (1997-11-01)
-7. Sentenced - Frozen (1998-07-15)
-8. Apocalyptica - Inquisition Symphony (1998-09-22)
-9. Nightwish - Oceanborn (1998-12-07)
-10. Children of Bodom - Hatebreeder (1999-04-21)
-11. Sonata Arctica - Ecliptica (1999-08-29)
-12. Stratovarius - Infinite (2000-02-23)
-13. Timo Rautiainen & Trio Niskalaukaus - Itku pitkästä ilosta (2000-03-12)
-14. Nightwish - Wishmaster (2000-05-02)
-15. Charon - Tearstained (2000-06-09)
-16. Sonata Arctica - Successor (2000-08-07)
-17. Apocalyptica - Cult (2000-08-24)
-18. The 69 Eyes - Blessed Be (2000-09-20)
-19. Children of Bodom - Follow the Reaper (2000-10-30)
-20. Sonata Arctica - Silence (2001-01)
-21. Nightwish - From Wishes To Eternity (2001-03-12)
-22. Ensiferum - Ensiferum (2001-07)
-23. Shape of Despair - Angels of Distress (2001-09-25)
-24. Entwine - Time of Despair (2002-04-22)
-25. Sentenced - The Cold White Light (2002-05-13)
-26. Nightwish - Century Child (2002-06-24)
-27. Children of Bodom - Hate Crew Deathroll (2003-01-06)
-28. Apocalyptica - Reflections (2003-02-04)
-29. Poisonblack - Escapexstacy (2003-02-17)
-30. Moonsorrow - Kivenkantaja (2003-03-10)
-31. Norther - Mirror of Madness (2003-03-17)
-32. Ajattara - Kuolema (2003-03-24)
-33. Finntroll - Visor Om Slutet (2003-04-07)
-34. Battlelore - Sword's Song (2003-04-12)
-35. Tarot - Suffer Our Pleasures (2003-05-26)
-36. Kotiteollisuus - Helvetistä itään (2003-09-12)
-37. Korpiklaani - Spirit of the Forest (2003-11-10)
-38. Swallow the Sun - The Morning Never Came (2003-11-15)
-39. Sonata Arctica - Takatalvi (2003-11-21)
-40. Norther - Death Unlimited (2004-03-15)
-41. Insomnium - Since the Day It All Came Down (2004-03-29)
-42. Ensiferum - Iron (2004-04-15)
-43. Finntroll - Nattfödd (2004-04-19)
-44. Turmion Kätilöt - Hoitovirhe (2004-05-20)
-45. Nightwish - Once (2004-06-04)
-46. Turisas - Battle Metal (2004-07-23)
-47. Wintersun - Wintersun (2004-08-25)
-48. Sonata Arctica - Reckoning Night (2004-10-06)
-49. Korpiklaani - Voice of Wilderness (2005-01-24)
-50. Apocalyptica - Apocalyptica (2005-01-24)
-51. Moonsorrow - Verisäkeet (2005-02-23)
-52. Ruoska - Radium (2005-03-22)
-53. Horna - Envaatnags Eflos Solf Esgantaavne (2005-03-23)
-54. Turmion Kätilöt - Niuva 20 (2005-04-13)
-55. Catamenia - Winternight Tragedies (2005-04-25)
-56. Sentenced - The Funeral Album (2005-05-25)
-57. Swallow the Sun - Ghosts of Loss (2005-08-24)
-58. Teräsbetoni - Metallitotuus (2005-11-16)
-59. Amorphis - Eclipse (2005-12)
-60. Diablo - Mimic47 (2006-01-18)
-61. Norther - Till Death Unites Us (2006-01-25)
-62. Ensiferum - Dragonheads (2006-02-15)
-63. Reflexion - Out of the Dark (2006-03-15)
-64. Turmion Kätilöt - Pirun Nyrkki (2006-03-29)
-65. Korpiklaani - Tales Along This Road (2006-04-21)
-66. Stam1na - Uudet kymmenen käskyä (2006-05-10)
-67. Kiuas - Reformation (2006-05-24)
-68. Nightwish - End of an Era (2006-05-31)
-69. Ruoska - Amortem (2006-06-14)
-70. Poisonblack - Lust Stained Despair (2006-08-25)
-71. To/Die/For - Wounds Wide Open (2006-09-15)
-72. Insomnium - Above the Weeping World (2006-09-18)
-73. Tarot - Crows Fly Black (2006-10-27)
-74. Noumena - Anatomy of Life (2006-11-01)
-75. Swallow the Sun - Hope (2007-02-07)
-76. Battlelore - Evernight (2007-02-14)
-77. Ensiferum - Victory Songs (2007-03-23)
-78. Sonata Arctica - Unia (2007-05-23)
-79. Nightwish - Eva (2007-05-25)
-80. Amorphis - Silent Waters (2007-08-22)
-81. Nightwish - Dark Passion Play (2007-09-26)
-82. Northern Kings - Reborn (2007-10-29)
-83. Totalselfhatred - Totalselfhatred (2008)
-84. Norther - N (2008-01-23)
-85. Amberian Dawn - River of Tuoni (2008-01-30)
-86. Kiuas - The New Dark Age (2008-03-12)
-87. Korpiklaani - Korven Kuningas (2008-03-21)
-88. Ruoska - Rabies (2008-04-09)
-89. Revolution Renaissance - New Era (2008-05)
-90. Brother Firetribe - Heart Full of Fire (2008-05-18)
-91. Poisonblack - A Dead Heavy Day (2008-08-20)
-92. Before the Dawn - Soundscape Of Silence (2008-10-29)
-93. Amorphis - Skyforger (2009-05-27)
-94. Korpiklaani - Karkelo (2009-06-24)
-95. Nightwish - Imaginaerum (2011-11-02)
-96. Wintersun - Time I (2012-10-19)
-97. Finntroll - Blodsvept (2013-02-28)
-98. Amorphis - Circle (2013-04-17)
-99. Children of Bodom - Halo of Blood (2013-05-29)
-100. Insomnium - Shadows Of The Dying Sun (2014-04-25)
+1. <span title="#melodic_death_metal #gothic_metal #death_metal">Sentenced - Amok (1995-01-03)</span>
+2. <span title="#power_metal">Stratovarius - Fourth Dimension (1995-02-08)</span>
+3. <span title="#progressive_metal #1996">Amorphis - Elegy (1996-05-14)</span>
+4. <span title="#power_metal">Stratovarius - Visions (1997-04-23)</span>
+5. <span title="#progressive_metal #gothic_metal #1997 #metal #atmospheric_metal #atmospheric #female_vocalists #atmospheric_rock">The Gathering - Nighttime Birds (1997-06-21)</span>
+6. <span title="#symphonic_metal">Nightwish - Angels Fall First (1997-11-01)</span>
+7. <span title="#gothic_metal">Sentenced - Frozen (1998-07-15)</span>
+8. <span title="#symphonic_metal #instrumental #cello #metal">Apocalyptica - Inquisition Symphony (1998-09-22)</span>
+9. <span title="#symphonic_metal #power_metal">Nightwish - Oceanborn (1998-12-07)</span>
+10. <span title="#melodic_death_metal">Children of Bodom - Hatebreeder (1999-04-21)</span>
+11. <span title="#power_metal">Sonata Arctica - Ecliptica (1999-08-29)</span>
+12. <span title="#power_metal">Stratovarius - Infinite (2000-02-23)</span>
+13. <span title="#2000 #heavy_metal #finnish_metal #suomi #finland">Timo Rautiainen & Trio Niskalaukaus - Itku pitkästä ilosta (2000-03-12)</span>
+14. <span title="#symphonic_metal #power_metal">Nightwish - Wishmaster (2000-05-02)</span>
+15. <span title="#gothic_metal #charon #rock">Charon - Tearstained (2000-06-09)</span>
+16. <span title="#power_metal">Sonata Arctica - Successor (2000-08-07)</span>
+17. <span title="#symphonic_metal #cello_metal #instrumental">Apocalyptica - Cult (2000-08-24)</span>
+18. <span title="#gothic_rock #gothic #rock #gothic_metal">The 69 Eyes - Blessed Be (2000-09-20)</span>
+19. <span title="#melodic_death_metal">Children of Bodom - Follow the Reaper (2000-10-30)</span>
+20. <span title="#power_metal">Sonata Arctica - Silence (2001-01)</span>
+21. <span title="#symphonic_metal">Nightwish - From Wishes To Eternity (2001-03-12)</span>
+22. <span title="#folk_metal #viking_metal #melodic_death_metal">Ensiferum - Ensiferum (2001-07)</span>
+23. <span title="#funeral_doom_metal #doom_metal">Shape of Despair - Angels of Distress (2001-09-25)</span>
+24. <span title="#heavy_metal #metal #finnish #gothic_metal #female #rock #finnish_metal #inspiring #goth_metal #entwine #jlunare #jlunarepowerful">Entwine - Time of Despair (2002-04-22)</span>
+25. <span title="#gothic_metal #metal #finnish">Sentenced - The Cold White Light (2002-05-13)</span>
+26. <span title="#symphonic_metal">Nightwish - Century Child (2002-06-24)</span>
+27. <span title="#melodic_death_metal">Children of Bodom - Hate Crew Deathroll (2003-01-06)</span>
+28. <span title="#symphonic_metal #cello_metal #instrumental">Apocalyptica - Reflections (2003-02-04)</span>
+29. <span title="#gothic_metal">Poisonblack - Escapexstacy (2003-02-17)</span>
+30. <span title="#viking_metal #folk_metal #black_metal">Moonsorrow - Kivenkantaja (2003-03-10)</span>
+31. <span title="#melodic_death_metal">Norther - Mirror of Madness (2003-03-17)</span>
+32. <span title="#black_metal">Ajattara - Kuolema (2003-03-24)</span>
+33. <span title="#folk #folk_metal #viking_metal #acoustic">Finntroll - Visor Om Slutet (2003-04-07)</span>
+34. <span title="#folk_metal #fantasy_metal #epic_metal">Battlelore - Sword's Song (2003-04-12)</span>
+35. <span title="#heavy_metal #power_metal">Tarot - Suffer Our Pleasures (2003-05-26)</span>
+36. <span title="#finnish #metal">Kotiteollisuus - Helvetistä itään (2003-09-12)</span>
+37. <span title="#folk_metal">Korpiklaani - Spirit of the Forest (2003-11-10)</span>
+38. <span title="#doom_metal #death_doom_metal">Swallow the Sun - The Morning Never Came (2003-11-15)</span>
+39. <span title="#power_metal">Sonata Arctica - Takatalvi (2003-11-21)</span>
+40. <span title="#melodic_death_metal">Norther - Death Unlimited (2004-03-15)</span>
+41. <span title="#melodic_death_metal">Insomnium - Since the Day It All Came Down (2004-03-29)</span>
+42. <span title="#folk_metal #viking_metal">Ensiferum - Iron (2004-04-15)</span>
+43. <span title="#folk_metal #black_metal">Finntroll - Nattfödd (2004-04-19)</span>
+44. <span title="#industrial_metal">Turmion Kätilöt - Hoitovirhe (2004-05-20)</span>
+45. <span title="#symphonic_metal">Nightwish - Once (2004-06-04)</span>
+46. <span title="#folk_metal #viking_metal #battle_metal">Turisas - Battle Metal (2004-07-23)</span>
+47. <span title="#melodic_death_metal #power_metal">Wintersun - Wintersun (2004-08-25)</span>
+48. <span title="#power_metal">Sonata Arctica - Reckoning Night (2004-10-06)</span>
+49. <span title="#folk_metal">Korpiklaani - Voice of Wilderness (2005-01-24)</span>
+50. <span title="#symphonic_metal">Apocalyptica - Apocalyptica (2005-01-24)</span>
+51. <span title="#folk_metal #viking_metal #black_metal #pagan_metal">Moonsorrow - Verisäkeet (2005-02-23)</span>
+52. <span title="#metal #finnish #industrial_metal #electronic #rock #finnish_metal #top_20_of_2005 #gothikjyz #eternal_creations_of_infinite_grandeur">Ruoska - Radium (2005-03-22)</span>
+53. <span title="#black_metal #raw_black_metal">Horna - Envaatnags Eflos Solf Esgantaavne (2005-03-23)</span>
+54. <span title="#industrial_metal">Turmion Kätilöt - Niuva 20 (2005-04-13)</span>
+55. <span title="#black_metal #melodic_black_metal">Catamenia - Winternight Tragedies (2005-04-25)</span>
+56. <span title="#gothic_metal">Sentenced - The Funeral Album (2005-05-25)</span>
+57. <span title="#doom_metal">Swallow the Sun - Ghosts of Loss (2005-08-24)</span>
+58. <span title="#heavy_metal #finnish #battle_metal">Teräsbetoni - Metallitotuus (2005-11-16)</span>
+59. <span title="#progressive_metal #melodic_death_metal">Amorphis - Eclipse (2005-12)</span>
+60. <span title="#melodic_death_metal">Diablo - Mimic47 (2006-01-18)</span>
+61. <span title="#melodic_death_metal">Norther - Till Death Unites Us (2006-01-25)</span>
+62. <span title="#viking_metal #folk_metal">Ensiferum - Dragonheads (2006-02-15)</span>
+63. <span title="#rock #hard_rock #melodic_death_metal #finnish #gothic_metal #gothic_rock #metal #finnish_metal #love_metal #him">Reflexion - Out of the Dark (2006-03-15)</span>
+64. <span title="#industrial_metal">Turmion Kätilöt - Pirun Nyrkki (2006-03-29)</span>
+65. <span title="#folk_metal">Korpiklaani - Tales Along This Road (2006-04-21)</span>
+66. <span title="#thrash_metal #finnish">Stam1na - Uudet kymmenen käskyä (2006-05-10)</span>
+67. <span title="#power_metal">Kiuas - Reformation (2006-05-24)</span>
+68. <span title="#symphonic_metal">Nightwish - End of an Era (2006-05-31)</span>
+69. <span title="#industrial_metal">Ruoska - Amortem (2006-06-14)</span>
+70. <span title="#gothic_metal #finnish">Poisonblack - Lust Stained Despair (2006-08-25)</span>
+71. <span title="#gothic #rock #gothic_metal #finnish_metal">To/Die/For - Wounds Wide Open (2006-09-15)</span>
+72. <span title="#melodic_death_metal">Insomnium - Above the Weeping World (2006-09-18)</span>
+73. <span title="#heavy_metal #power_metal">Tarot - Crows Fly Black (2006-10-27)</span>
+74. <span title="#melodic_death_metal">Noumena - Anatomy of Life (2006-11-01)</span>
+75. <span title="#doom_metal #death_doom_metal">Swallow the Sun - Hope (2007-02-07)</span>
+76. <span title="#folk_metal">Battlelore - Evernight (2007-02-14)</span>
+77. <span title="#folk_metal #viking_metal #melodic_death_metal">Ensiferum - Victory Songs (2007-03-23)</span>
+78. <span title="#power_metal #progressive_metal #melodic_metal">Sonata Arctica - Unia (2007-05-23)</span>
+79. <span title="#metal #finnish #symphonic_metal #nightwish #hard_rock">Nightwish - Eva (2007-05-25)</span>
+80. <span title="#progressive_metal #melodic_death_metal">Amorphis - Silent Waters (2007-08-22)</span>
+81. <span title="#symphonic_metal #power_metal">Nightwish - Dark Passion Play (2007-09-26)</span>
+82. <span title="#symphonic_metal #cover #power_metal">Northern Kings - Reborn (2007-10-29)</span>
+83. <span title="#black_metal #depressive_black_metal">Totalselfhatred - Totalselfhatred (2008)</span>
+84. <span title="#melodic_death_metal">Norther - N (2008-01-23)</span>
+85. <span title="#symphonic_metal">Amberian Dawn - River of Tuoni (2008-01-30)</span>
+86. <span title="#power_metal #folk_metal">Kiuas - The New Dark Age (2008-03-12)</span>
+87. <span title="#folk_metal">Korpiklaani - Korven Kuningas (2008-03-21)</span>
+88. <span title="#finnish_metal #industrial_metal #metal">Ruoska - Rabies (2008-04-09)</span>
+89. <span title="#power_metal #michael_kiske #timo_tolkki #tobias_sammet">Revolution Renaissance - New Era (2008-05)</span>
+90. <span title="#rock #finnish #power_metal">Brother Firetribe - Heart Full of Fire (2008-05-18)</span>
+91. <span title="#gothic_metal #finnish_metal #heavy_metal">Poisonblack - A Dead Heavy Day (2008-08-20)</span>
+92. <span title="#melodic_death_metal">Before the Dawn - Soundscape Of Silence (2008-10-29)</span>
+93. <span title="#progressive_metal #melodic_metal">Amorphis - Skyforger (2009-05-27)</span>
+94. <span title="#folk_metal">Korpiklaani - Karkelo (2009-06-24)</span>
+95. <span title="#symphonic_metal #power_metal">Nightwish - Imaginaerum (2011-11-02)</span>
+96. <span title="#melodic_death_metal #symphonic_metal #progressive_blackened_homoerotic_weeaboo_metal #leather_daddy_rape_soundtrack #misanthropic_gay_romance_nostalgia_metal #neo_erotic_spandex_metal #japanese_leather_daddy_viking_winter_rape_metal #power_metal">Wintersun - Time I (2012-10-19)</span>
+97. <span title="#folk_metal #2013">Finntroll - Blodsvept (2013-02-28)</span>
+98. <span title="#2013 #progressive_metal #melodic_death_metal">Amorphis - Circle (2013-04-17)</span>
+99. <span title="#melodic_death_metal #2013">Children of Bodom - Halo of Blood (2013-05-29)</span>
+100. <span title="#melodic_death_metal #2014">Insomnium - Shadows Of The Dying Sun (2014-04-25)</span>

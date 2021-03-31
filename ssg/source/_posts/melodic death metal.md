@@ -3,116 +3,116 @@ date: 2021-03-31T11:00:17.805Z
 title: melodic death metal
 ---
 ![Arch Enemy - War Eternal (2014-06-04)](http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg "Arch Enemy - War Eternal (2014-06-04)")
-1. Children of Bodom - Hatebreeder (1999-04-21)
-2. In Flames - Clayman (2000-07-03)
-3. Children of Bodom - Follow the Reaper (2000-10-30)
-4. Children of Bodom - Hate Crew Deathroll (2003-01-06)
-5. Arch Enemy - Doomsday Machine (2005-07-21)
-6. In Flames - Come Clarity (2006-02-01)
-7. Children of Bodom - Are You Dead Yet? (2006-06-06)
-8. In Flames - A Sense of Purpose (2008-03-26)
-9. Amon Amarth - Twilight of the Thunder God (2008-09-17)
-10. Arch Enemy - War Eternal (2014-06-04)
+1. <span title="#melodic_death_metal">Children of Bodom - Hatebreeder (1999-04-21)</span>
+2. <span title="#melodic_death_metal">In Flames - Clayman (2000-07-03)</span>
+3. <span title="#melodic_death_metal">Children of Bodom - Follow the Reaper (2000-10-30)</span>
+4. <span title="#melodic_death_metal">Children of Bodom - Hate Crew Deathroll (2003-01-06)</span>
+5. <span title="#melodic_death_metal">Arch Enemy - Doomsday Machine (2005-07-21)</span>
+6. <span title="#melodic_death_metal">In Flames - Come Clarity (2006-02-01)</span>
+7. <span title="#melodic_death_metal">Children of Bodom - Are You Dead Yet? (2006-06-06)</span>
+8. <span title="#melodic_death_metal">In Flames - A Sense of Purpose (2008-03-26)</span>
+9. <span title="#melodic_death_metal #viking_metal">Amon Amarth - Twilight of the Thunder God (2008-09-17)</span>
+10. <span title="#melodic_death_metal #2014">Arch Enemy - War Eternal (2014-06-04)</span>
 List of 100 - under the cut.
 <!-- more -->
 -----
-1. Carcass - Heartwork (1993-10-28)
-2. In Flames - Lunar Strain (1994-04-01)
-3. Amorphis - Tales From the Thousand Lakes (1994-07-12)
-4. Carcass - Swansong (1995)
-5. Dark Tranquillity - The Gallery (1995-04-05)
-6. Opeth - Orchid (1995-05-15)
-7. At the Gates - Slaughter of the Soul (1995-11-14)
-8. In Flames - The Jester Race (1996-02-20)
-9. Opeth - Morningrise (1996-06-24)
-10. Children of Bodom - Something Wild (1997-02-16)
-11. In Flames - Whoracle (1997-10-15)
-12. Amon Amarth - Once Sent From The Golden Hall (1998-02-10)
-13. Children of Bodom - Hatebreeder (1999-04-21)
-14. Arch Enemy - Burning Bridges (1999-05-21)
-15. In Flames - Colony (1999-05-21)
-16. Dark Tranquillity - Projector (1999-06-21)
-17. Amon Amarth - The Avenger (1999-09-22)
-18. Opeth - Still Life (1999-10-18)
-19. Disturbed - The Sickness (2000-03-07)
-20. In Flames - Clayman (2000-07-03)
-21. Dark Tranquillity - Haven (2000-07-17)
-22. Children of Bodom - Follow the Reaper (2000-10-30)
-23. Amon Amarth - The Crusher (2001-02-28)
-24. Opeth - Blackwater Park (2001-03-12)
-25. Arch Enemy - Wages of Sin (2001-04-25)
-26. Ensiferum - Ensiferum (2001-07)
-27. Soilwork - Natural Born Chaos (2002-03-25)
-28. Killswitch Engage - Alive or Just Breathing (2002-05-13)
-29. Dark Tranquillity - Damage Done (2002-07-17)
-30. Opeth - Deliverance (2002-11-04)
-31. Amon Amarth - Versus The World (2002-11-18)
-32. Children of Bodom - Hate Crew Deathroll (2003-01-06)
-33. Norther - Mirror of Madness (2003-03-17)
-34. Opeth - Damnation (2003-04-07)
-35. Soilwork - Figure Number Five (2003-04-21)
-36. The Black Dahlia Murder - Unhallowed (2003-06-17)
-37. As I Lay Dying - Frail Words Collapse (2003-07-01)
-38. Arch Enemy - Anthems of Rebellion (2003-07-30)
-39. Killswitch Engage - The End of Heartache (2004)
-40. Hypocrisy - The Arrival (2004-02-16)
-41. Norther - Death Unlimited (2004-03-15)
-42. In Flames - Soundtrack to Your Escape (2004-03-17)
-43. All That Remains - This Darkened Heart (2004-03-23)
-44. Ensiferum - Iron (2004-04-15)
-45. JoJo - JoJo (2004-06-22)
-46. Wintersun - Wintersun (2004-08-25)
-47. Amon Amarth - Fate of Norns (2004-09-06)
-48. Soilwork - Stabbing the Drama (2005-01)
-49. Dark Tranquillity - Character (2005-01-19)
-50. Trivium - Ascendancy (2005-03-07)
-51. The Black Dahlia Murder - Miasma (2005-07-12)
-52. Arch Enemy - Doomsday Machine (2005-07-21)
-53. Opeth - Ghost Reveries (2005-08-26)
-54. Sonic Syndicate - Eden Fire (2005-09-13)
-55. Disturbed - Ten Thousand Fists (2005-09-19)
-56. Amorphis - Eclipse (2005-12)
-57. All That Remains - The Fall of Ideals (2006-01-01)
-58. Killswitch Engage - As Daylight Dies (2006-01-21)
-59. In Flames - Come Clarity (2006-02-01)
-60. Dissection - Reinkaos (2006-03-23)
-61. Scar Symmetry - Pitch Black Progress (2006-04-21)
-62. Eternal Tears of Sorrow - Before The Bleeding Sun (2006-04-26)
-63. Eluveitie - Spirit (2006-06-01)
-64. As Blood Runs Black - Allegiance (2006-06-05)
-65. Children of Bodom - Are You Dead Yet? (2006-06-06)
-66. Insomnium - Above the Weeping World (2006-09-18)
-67. Amon Amarth - With Oden On Our Side (2006-09-20)
-68. Ensiferum - Victory Songs (2007-03-23)
-69. Dark Tranquillity - Fiction (2007-04-18)
-70. Sonic Syndicate - Only Inhuman (2007-04-25)
-71. DevilDriver - The Last Kind Words (2007-06-14)
-72. As I Lay Dying - An Ocean Between Us (2007-08-21)
-73. Amorphis - Silent Waters (2007-08-22)
-74. The Black Dahlia Murder - Nocturnal (2007-09-18)
-75. Arch Enemy - Rise of the Tyrant (2007-09-19)
-76. Dethklok - The Dethalbum (2007-09-25)
-77. Soilwork - Sworn to a Great Divide (2007-10-19)
-78. Kalmah - For the Revolution (2008-01-01)
-79. In Flames - A Sense of Purpose (2008-03-26)
-80. Children of Bodom - Blooddrunk (2008-04-09)
-81. Opeth - Watershed (2008-05-28)
-82. Scar Symmetry - Holographic Universe (2008-06-20)
-83. All That Remains - Overcome (2008-09-16)
-84. Amon Amarth - Twilight of the Thunder God (2008-09-17)
-85. Sonic Syndicate - Love and Other Disasters (2008-09-19)
-86. Dead by April - Dead by April (2009-05-13)
-87. Insomnium - Across the Dark (2009-09-07)
-88. Ensiferum - From Afar (2009-09-09)
-89. Dark Tranquillity - We are the Void (2010-02-26)
-90. Soilwork - The Panic Broadcast (2010-06-30)
-91. Amon Amarth - Surtur Rising (2011-03-25)
-92. Amaranthe - Amaranthe (2011-04-11)
-93. In Flames - Sounds of a Playground Fading (2011-06-15)
-94. Machine Head - Unto the Locust (2011-09-21)
-95. Insomnium - One for Sorrow (2011-10-25)
-96. Wintersun - Time I (2012-10-19)
-97. Amaranthe - The Nexus (2013-03-13)
-98. Amon Amarth - Deceiver of the Gods (2013-06-21)
-99. Insomnium - Shadows Of The Dying Sun (2014-04-25)
-100. Arch Enemy - War Eternal (2014-06-04)
+1. <span title="#melodic_death_metal #death_metal">Carcass - Heartwork (1993-10-28)</span>
+2. <span title="#melodic_death_metal">In Flames - Lunar Strain (1994-04-01)</span>
+3. <span title="#melodic_death_metal #death_metal #doom_metal">Amorphis - Tales From the Thousand Lakes (1994-07-12)</span>
+4. <span title="#death_metal #melodic_death_metal #death_n_roll">Carcass - Swansong (1995)</span>
+5. <span title="#melodic_death_metal">Dark Tranquillity - The Gallery (1995-04-05)</span>
+6. <span title="#progressive_death_metal #progressive_metal">Opeth - Orchid (1995-05-15)</span>
+7. <span title="#melodic_death_metal">At the Gates - Slaughter of the Soul (1995-11-14)</span>
+8. <span title="#melodic_death_metal">In Flames - The Jester Race (1996-02-20)</span>
+9. <span title="#progressive_death_metal #progressive_metal">Opeth - Morningrise (1996-06-24)</span>
+10. <span title="#melodic_death_metal">Children of Bodom - Something Wild (1997-02-16)</span>
+11. <span title="#melodic_death_metal">In Flames - Whoracle (1997-10-15)</span>
+12. <span title="#melodic_death_metal #death_metal #viking_metal">Amon Amarth - Once Sent From The Golden Hall (1998-02-10)</span>
+13. <span title="#melodic_death_metal">Children of Bodom - Hatebreeder (1999-04-21)</span>
+14. <span title="#melodic_death_metal">Arch Enemy - Burning Bridges (1999-05-21)</span>
+15. <span title="#melodic_death_metal">In Flames - Colony (1999-05-21)</span>
+16. <span title="#melodic_death_metal">Dark Tranquillity - Projector (1999-06-21)</span>
+17. <span title="#melodic_death_metal">Amon Amarth - The Avenger (1999-09-22)</span>
+18. <span title="#progressive_metal #progressive_death_metal">Opeth - Still Life (1999-10-18)</span>
+19. <span title="#metal #nu_metal #alternative_metal #disturbed">Disturbed - The Sickness (2000-03-07)</span>
+20. <span title="#melodic_death_metal">In Flames - Clayman (2000-07-03)</span>
+21. <span title="#melodic_death_metal">Dark Tranquillity - Haven (2000-07-17)</span>
+22. <span title="#melodic_death_metal">Children of Bodom - Follow the Reaper (2000-10-30)</span>
+23. <span title="#melodic_death_metal #death_metal #viking_metal">Amon Amarth - The Crusher (2001-02-28)</span>
+24. <span title="#progressive_death_metal #progressive_metal">Opeth - Blackwater Park (2001-03-12)</span>
+25. <span title="#melodic_death_metal #death_metal">Arch Enemy - Wages of Sin (2001-04-25)</span>
+26. <span title="#folk_metal #viking_metal #melodic_death_metal">Ensiferum - Ensiferum (2001-07)</span>
+27. <span title="#melodic_death_metal">Soilwork - Natural Born Chaos (2002-03-25)</span>
+28. <span title="#metalcore">Killswitch Engage - Alive or Just Breathing (2002-05-13)</span>
+29. <span title="#melodic_death_metal">Dark Tranquillity - Damage Done (2002-07-17)</span>
+30. <span title="#progressive_death_metal #progressive_metal">Opeth - Deliverance (2002-11-04)</span>
+31. <span title="#melodic_death_metal #viking_metal">Amon Amarth - Versus The World (2002-11-18)</span>
+32. <span title="#melodic_death_metal">Children of Bodom - Hate Crew Deathroll (2003-01-06)</span>
+33. <span title="#melodic_death_metal">Norther - Mirror of Madness (2003-03-17)</span>
+34. <span title="#progressive_rock">Opeth - Damnation (2003-04-07)</span>
+35. <span title="#melodic_death_metal">Soilwork - Figure Number Five (2003-04-21)</span>
+36. <span title="#melodic_death_metal #death_metal #deathcore">The Black Dahlia Murder - Unhallowed (2003-06-17)</span>
+37. <span title="#metalcore">As I Lay Dying - Frail Words Collapse (2003-07-01)</span>
+38. <span title="#melodic_death_metal #death_metal">Arch Enemy - Anthems of Rebellion (2003-07-30)</span>
+39. <span title="#metalcore">Killswitch Engage - The End of Heartache (2004)</span>
+40. <span title="#melodic_death_metal #death_metal">Hypocrisy - The Arrival (2004-02-16)</span>
+41. <span title="#melodic_death_metal">Norther - Death Unlimited (2004-03-15)</span>
+42. <span title="#melodic_death_metal">In Flames - Soundtrack to Your Escape (2004-03-17)</span>
+43. <span title="#metalcore">All That Remains - This Darkened Heart (2004-03-23)</span>
+44. <span title="#folk_metal #viking_metal">Ensiferum - Iron (2004-04-15)</span>
+45. <span title="#pop #soul #rnb">JoJo - JoJo (2004-06-22)</span>
+46. <span title="#melodic_death_metal #power_metal">Wintersun - Wintersun (2004-08-25)</span>
+47. <span title="#melodic_death_metal #viking_metal">Amon Amarth - Fate of Norns (2004-09-06)</span>
+48. <span title="#melodic_death_metal">Soilwork - Stabbing the Drama (2005-01)</span>
+49. <span title="#melodic_death_metal">Dark Tranquillity - Character (2005-01-19)</span>
+50. <span title="#metalcore">Trivium - Ascendancy (2005-03-07)</span>
+51. <span title="#melodic_death_metal">The Black Dahlia Murder - Miasma (2005-07-12)</span>
+52. <span title="#melodic_death_metal">Arch Enemy - Doomsday Machine (2005-07-21)</span>
+53. <span title="#progressive_metal #progressive_death_metal">Opeth - Ghost Reveries (2005-08-26)</span>
+54. <span title="#melodic_death_metal">Sonic Syndicate - Eden Fire (2005-09-13)</span>
+55. <span title="#metal #hard_rock #alternative_metal #nu_metal">Disturbed - Ten Thousand Fists (2005-09-19)</span>
+56. <span title="#progressive_metal #melodic_death_metal">Amorphis - Eclipse (2005-12)</span>
+57. <span title="#metalcore">All That Remains - The Fall of Ideals (2006-01-01)</span>
+58. <span title="#metalcore">Killswitch Engage - As Daylight Dies (2006-01-21)</span>
+59. <span title="#melodic_death_metal">In Flames - Come Clarity (2006-02-01)</span>
+60. <span title="#melodic_death_metal #black_metal">Dissection - Reinkaos (2006-03-23)</span>
+61. <span title="#melodic_death_metal">Scar Symmetry - Pitch Black Progress (2006-04-21)</span>
+62. <span title="#melodic_death_metal">Eternal Tears of Sorrow - Before The Bleeding Sun (2006-04-26)</span>
+63. <span title="#folk_metal">Eluveitie - Spirit (2006-06-01)</span>
+64. <span title="#deathcore">As Blood Runs Black - Allegiance (2006-06-05)</span>
+65. <span title="#melodic_death_metal">Children of Bodom - Are You Dead Yet? (2006-06-06)</span>
+66. <span title="#melodic_death_metal">Insomnium - Above the Weeping World (2006-09-18)</span>
+67. <span title="#melodic_death_metal #viking_metal">Amon Amarth - With Oden On Our Side (2006-09-20)</span>
+68. <span title="#folk_metal #viking_metal #melodic_death_metal">Ensiferum - Victory Songs (2007-03-23)</span>
+69. <span title="#melodic_death_metal">Dark Tranquillity - Fiction (2007-04-18)</span>
+70. <span title="#melodic_death_metal #metalcore">Sonic Syndicate - Only Inhuman (2007-04-25)</span>
+71. <span title="#groove_metal #melodic_death_metal">DevilDriver - The Last Kind Words (2007-06-14)</span>
+72. <span title="#metalcore">As I Lay Dying - An Ocean Between Us (2007-08-21)</span>
+73. <span title="#progressive_metal #melodic_death_metal">Amorphis - Silent Waters (2007-08-22)</span>
+74. <span title="#melodic_death_metal #death_metal">The Black Dahlia Murder - Nocturnal (2007-09-18)</span>
+75. <span title="#melodic_death_metal">Arch Enemy - Rise of the Tyrant (2007-09-19)</span>
+76. <span title="#melodic_death_metal #death_metal #blacker_than_the_blackest_black_times_infinity #metal">Dethklok - The Dethalbum (2007-09-25)</span>
+77. <span title="#melodic_death_metal">Soilwork - Sworn to a Great Divide (2007-10-19)</span>
+78. <span title="#melodic_death_metal">Kalmah - For the Revolution (2008-01-01)</span>
+79. <span title="#melodic_death_metal">In Flames - A Sense of Purpose (2008-03-26)</span>
+80. <span title="#melodic_death_metal">Children of Bodom - Blooddrunk (2008-04-09)</span>
+81. <span title="#progressive_metal #progressive_death_metal">Opeth - Watershed (2008-05-28)</span>
+82. <span title="#melodic_death_metal">Scar Symmetry - Holographic Universe (2008-06-20)</span>
+83. <span title="#metalcore">All That Remains - Overcome (2008-09-16)</span>
+84. <span title="#melodic_death_metal #viking_metal">Amon Amarth - Twilight of the Thunder God (2008-09-17)</span>
+85. <span title="#metalcore #melodic_death_metal">Sonic Syndicate - Love and Other Disasters (2008-09-19)</span>
+86. <span title="#metalcore #pop_metal #modern_metal">Dead by April - Dead by April (2009-05-13)</span>
+87. <span title="#melodic_death_metal">Insomnium - Across the Dark (2009-09-07)</span>
+88. <span title="#folk_metal #viking_metal">Ensiferum - From Afar (2009-09-09)</span>
+89. <span title="#melodic_death_metal">Dark Tranquillity - We are the Void (2010-02-26)</span>
+90. <span title="#melodic_death_metal #2010">Soilwork - The Panic Broadcast (2010-06-30)</span>
+91. <span title="#melodic_death_metal #viking_metal">Amon Amarth - Surtur Rising (2011-03-25)</span>
+92. <span title="#melodic_death_metal #modern_metal #power_metal">Amaranthe - Amaranthe (2011-04-11)</span>
+93. <span title="#alternative_metal #melodic_death_metal">In Flames - Sounds of a Playground Fading (2011-06-15)</span>
+94. <span title="#thrash_metal #groove_metal #2011">Machine Head - Unto the Locust (2011-09-21)</span>
+95. <span title="#melodic_death_metal">Insomnium - One for Sorrow (2011-10-25)</span>
+96. <span title="#melodic_death_metal #symphonic_metal #progressive_blackened_homoerotic_weeaboo_metal #leather_daddy_rape_soundtrack #misanthropic_gay_romance_nostalgia_metal #neo_erotic_spandex_metal #japanese_leather_daddy_viking_winter_rape_metal #power_metal">Wintersun - Time I (2012-10-19)</span>
+97. <span title="#2013 #power_metal">Amaranthe - The Nexus (2013-03-13)</span>
+98. <span title="#melodic_death_metal">Amon Amarth - Deceiver of the Gods (2013-06-21)</span>
+99. <span title="#melodic_death_metal #2014">Insomnium - Shadows Of The Dying Sun (2014-04-25)</span>
+100. <span title="#melodic_death_metal #2014">Arch Enemy - War Eternal (2014-06-04)</span>

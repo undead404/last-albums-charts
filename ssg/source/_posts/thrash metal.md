@@ -3,116 +3,116 @@ date: 2021-03-31T11:00:00.961Z
 title: thrash metal
 ---
 ![Metallica - Ride the Lightning (1984-07-30)](http://coverartarchive.org/release/2236dd07-a2f3-466a-973d-9069001a89da/4648219389-500.jpg "Metallica - Ride the Lightning (1984-07-30)")
-1. Metallica - Kill 'Em All (1983-07-25)
-2. Metallica - Ride the Lightning (1984-07-30)
-3. Slayer - Reign in Blood (1986-10-07)
-4. Metallica - ...and Justice for All (1988)
-5. Pantera - Cowboys From Hell (1990-07-24)
-6. Megadeth - Rust In Peace (1990-09-21)
-7. Megadeth - Countdown To Extinction (1992-07-06)
-8. Metallica - Master of Puppets (2003)
-9. Machine Head - Through the Ashes of Empires (2003-10-27)
-10. Metallica - Death Magnetic (2008-09-06)
+1. <span title="#thrash_metal">Metallica - Kill 'Em All (1983-07-25)</span>
+2. <span title="#thrash_metal">Metallica - Ride the Lightning (1984-07-30)</span>
+3. <span title="#thrash_metal">Slayer - Reign in Blood (1986-10-07)</span>
+4. <span title="#thrash_metal">Metallica - ...and Justice for All (1988)</span>
+5. <span title="#thrash_metal #groove_metal #heavy_metal #metal">Pantera - Cowboys From Hell (1990-07-24)</span>
+6. <span title="#thrash_metal">Megadeth - Rust In Peace (1990-09-21)</span>
+7. <span title="#thrash_metal #heavy_metal">Megadeth - Countdown To Extinction (1992-07-06)</span>
+8. <span title="#thrash_metal">Metallica - Master of Puppets (2003)</span>
+9. <span title="#thrash_metal #groove_metal">Machine Head - Through the Ashes of Empires (2003-10-27)</span>
+10. <span title="#thrash_metal #heavy_metal">Metallica - Death Magnetic (2008-09-06)</span>
 List of 100 - under the cut.
 <!-- more -->
 -----
-1. Metallica - Kill 'Em All (1983-07-25)
-2. Slayer - Show No Mercy (1983-12-01)
-3. Anthrax - Fistful of Metal (1984-01)
-4. Metallica - Ride the Lightning (1984-07-30)
-5. Exodus - Bonded by Blood (1985)
-6. Celtic Frost - To Mega Therion (1985)
-7. Slayer - Hell Awaits (1985-09-01)
-8. Anthrax - Spreading the Disease (1985-10-30)
-9. Slayer - Reign in Blood (1986-10-07)
-10. Kreator - Pleasure To Kill (1986-11)
-11. Anthrax - Among the Living (1987-03-22)
-12. Testament - The Legacy (1987-04-21)
-13. Overkill - Taking Over (1987-09-01)
-14. Sepultura - Schizophrenia (1987-10-30)
-15. Metallica - ...and Justice for All (1988)
-16. Testament - The New Order (1988-05-05)
-17. Slayer - South of Heaven (1988-07-05)
-18. Anthrax - State Of Euphoria (1988-09-18)
-19. Exodus - Fabulous Disaster (1989-01-13)
-20. Sodom - Agent Orange (1989-06-01)
-21. Kreator - Extreme Aggression (1989-06-19)
-22. Annihilator - Alice in Hell (1989-07-05)
-23. Testament - Practice What You Preach (1989-08-04)
-24. Overkill - The Years of Decay (1989-10-13)
-25. Sepultura - Beneath the Remains (1989-11-05)
-26. Slayer - Seasons in the Abyss (1990)
-27. Pantera - Cowboys From Hell (1990-07-24)
-28. Anthrax - Persistence Of Time (1990-08-07)
-29. Megadeth - Rust In Peace (1990-09-21)
-30. Testament - Souls of Black (1990-09-24)
-31. Kreator - Coma of Souls (1990-11-06)
-32. Sepultura - Arise (1992-02-24)
-33. Testament - The Ritual (1992-05-11)
-34. Megadeth - Countdown To Extinction (1992-07-06)
-35. Anthrax - Sound of White Noise (1993-05-17)
-36. Sepultura - Chaos A.D. (1993-09-01)
-37. Metallica - Live Shit: Binge & Purge (1993-11-09)
-38. Pantera - Far Beyond Driven (1994-03-18)
-39. Machine Head - Burn My Eyes (1994-08-01)
-40. Slayer - Divine Intervention (1994-09-27)
-41. Megadeth - Youthanasia (1994-10-24)
-42. Death - Symbolic (1995-03-21)
-43. Megadeth - Hidden Treasures (1995-03-30)
-44. Sepultura - Roots (1996-02-21)
-45. Slayer - Undisputed Attitude (1996-05-18)
-46. Marilyn Manson - Antichrist Superstar (1996-10-08)
-47. Slayer - Diabolus In Musica (1998-06-09)
-48. Nevermore - Dreaming Neon Black (1999-01-06)
-49. Lamb of God - Burn the Priest (1999-04-13)
-50. Testament - The Gathering (1999-06-08)
-51. Disturbed - The Sickness (2000-03-07)
-52. In Flames - Clayman (2000-07-03)
-53. Megadeth - The World Needs A Hero (2001-05-12)
-54. Slayer - God Hates Us All (2001-08-29)
-55. Kreator - Violent Revolution (2001-09-21)
-56. Sodom - M-16 (2001-10-22)
-57. Mudvayne - The End of All Things to Come (2002-11-12)
-58. Metallica - Master of Puppets (2003)
-59. Children of Bodom - Hate Crew Deathroll (2003-01-06)
-60. Trivium - Ember To Inferno (2003-09-29)
-61. DevilDriver - DevilDriver (2003-10-20)
-62. Machine Head - Through the Ashes of Empires (2003-10-27)
-63. Exodus - Tempo of the Damned (2004-02-02)
-64. Mastodon - Leviathan (2004-08-31)
-65. Megadeth - The System Has Failed (2004-09-13)
-66. Shadows Fall - The War Within (2004-09-21)
-67. The Haunted - Revolver (2004-10-18)
-68. Kreator - Enemy of God (2005-01-10)
-69. Trivium - Ascendancy (2005-03-07)
-70. Mudvayne - Lost and Found (2005-03-28)
-71. Avenged Sevenfold - City of Evil (2005-06-07)
-72. DevilDriver - The Fury of Our Maker's Hand (2005-06-20)
-73. Megadeth - Greatest Hits: Back to the Start (2005-06-27)
-74. Arch Enemy - Doomsday Machine (2005-07-21)
-75. Disturbed - Ten Thousand Fists (2005-09-19)
-76. Soulfly - Dark Ages (2005-09-30)
-77. Exodus - Shovel Headed Kill Machine (2005-09-30)
-78. Trivium - The Crusade (2006-01-01)
-79. Killswitch Engage - As Daylight Dies (2006-01-21)
-80. In Flames - Come Clarity (2006-02-01)
-81. Stam1na - Uudet kymmenen käskyä (2006-05-10)
-82. Children of Bodom - Are You Dead Yet? (2006-06-06)
-83. Slayer - Christ Illusion (2006-08-04)
-84. Cavalera Conspiracy - Inflikted (2007)
-85. Megadeth - That One Night: Live in Buenos Aires (2007-03-06)
-86. Machine Head - The Blackening (2007-03-23)
-87. Megadeth - United Abominations (2007-05-09)
-88. DevilDriver - The Last Kind Words (2007-06-14)
-89. As I Lay Dying - An Ocean Between Us (2007-08-21)
-90. Meshuggah - ObZen (2008-02-27)
-91. Children of Bodom - Blooddrunk (2008-04-09)
-92. Testament - The Formation Of Damnation (2008-04-25)
-93. Metallica - Death Magnetic (2008-09-06)
-94. Trivium - Shogun (2008-09-24)
-95. Kreator - Hordes of Chaos (2009-01-13)
-96. Megadeth - Endgame (2009-09-09)
-97. Slayer - World Painted Blood (2009-10-28)
-98. Machine Head - Unto the Locust (2011-09-21)
-99. Megadeth - TH1RT3EN (2011-10-26)
-100. Kreator - Phantom Antichrist (2012-05-30)
+1. <span title="#thrash_metal">Metallica - Kill 'Em All (1983-07-25)</span>
+2. <span title="#thrash_metal">Slayer - Show No Mercy (1983-12-01)</span>
+3. <span title="#thrash_metal #speed_metal">Anthrax - Fistful of Metal (1984-01)</span>
+4. <span title="#thrash_metal">Metallica - Ride the Lightning (1984-07-30)</span>
+5. <span title="#thrash_metal">Exodus - Bonded by Blood (1985)</span>
+6. <span title="#thrash_metal #black_metal #1985">Celtic Frost - To Mega Therion (1985)</span>
+7. <span title="#thrash_metal">Slayer - Hell Awaits (1985-09-01)</span>
+8. <span title="#thrash_metal">Anthrax - Spreading the Disease (1985-10-30)</span>
+9. <span title="#thrash_metal">Slayer - Reign in Blood (1986-10-07)</span>
+10. <span title="#thrash_metal">Kreator - Pleasure To Kill (1986-11)</span>
+11. <span title="#thrash_metal">Anthrax - Among the Living (1987-03-22)</span>
+12. <span title="#thrash_metal">Testament - The Legacy (1987-04-21)</span>
+13. <span title="#thrash_metal">Overkill - Taking Over (1987-09-01)</span>
+14. <span title="#thrash_metal">Sepultura - Schizophrenia (1987-10-30)</span>
+15. <span title="#thrash_metal">Metallica - ...and Justice for All (1988)</span>
+16. <span title="#thrash_metal">Testament - The New Order (1988-05-05)</span>
+17. <span title="#thrash_metal">Slayer - South of Heaven (1988-07-05)</span>
+18. <span title="#thrash_metal">Anthrax - State Of Euphoria (1988-09-18)</span>
+19. <span title="#thrash_metal">Exodus - Fabulous Disaster (1989-01-13)</span>
+20. <span title="#thrash_metal">Sodom - Agent Orange (1989-06-01)</span>
+21. <span title="#thrash_metal">Kreator - Extreme Aggression (1989-06-19)</span>
+22. <span title="#thrash_metal">Annihilator - Alice in Hell (1989-07-05)</span>
+23. <span title="#thrash_metal">Testament - Practice What You Preach (1989-08-04)</span>
+24. <span title="#thrash_metal">Overkill - The Years of Decay (1989-10-13)</span>
+25. <span title="#thrash_metal">Sepultura - Beneath the Remains (1989-11-05)</span>
+26. <span title="#thrash_metal">Slayer - Seasons in the Abyss (1990)</span>
+27. <span title="#thrash_metal #groove_metal #heavy_metal #metal">Pantera - Cowboys From Hell (1990-07-24)</span>
+28. <span title="#thrash_metal">Anthrax - Persistence Of Time (1990-08-07)</span>
+29. <span title="#thrash_metal">Megadeth - Rust In Peace (1990-09-21)</span>
+30. <span title="#thrash_metal">Testament - Souls of Black (1990-09-24)</span>
+31. <span title="#thrash_metal">Kreator - Coma of Souls (1990-11-06)</span>
+32. <span title="#thrash_metal">Sepultura - Arise (1992-02-24)</span>
+33. <span title="#thrash_metal">Testament - The Ritual (1992-05-11)</span>
+34. <span title="#thrash_metal #heavy_metal">Megadeth - Countdown To Extinction (1992-07-06)</span>
+35. <span title="#thrash_metal #heavy_metal #metal">Anthrax - Sound of White Noise (1993-05-17)</span>
+36. <span title="#thrash_metal #groove_metal">Sepultura - Chaos A.D. (1993-09-01)</span>
+37. <span title="#thrash_metal #live #heavy_metal">Metallica - Live Shit: Binge & Purge (1993-11-09)</span>
+38. <span title="#thrash_metal #groove_metal #metal">Pantera - Far Beyond Driven (1994-03-18)</span>
+39. <span title="#thrash_metal #groove_metal">Machine Head - Burn My Eyes (1994-08-01)</span>
+40. <span title="#thrash_metal">Slayer - Divine Intervention (1994-09-27)</span>
+41. <span title="#heavy_metal #thrash_metal #metal">Megadeth - Youthanasia (1994-10-24)</span>
+42. <span title="#death_metal #progressive_death_metal #technical_death_metal">Death - Symbolic (1995-03-21)</span>
+43. <span title="#thrash_metal #heavy_metal #megadeth">Megadeth - Hidden Treasures (1995-03-30)</span>
+44. <span title="#thrash_metal #groove_metal #metal">Sepultura - Roots (1996-02-21)</span>
+45. <span title="#thrash_metal #hardcore #hardcore_punk #punk">Slayer - Undisputed Attitude (1996-05-18)</span>
+46. <span title="#industrial_metal #industrial #metal">Marilyn Manson - Antichrist Superstar (1996-10-08)</span>
+47. <span title="#thrash_metal">Slayer - Diabolus In Musica (1998-06-09)</span>
+48. <span title="#progressive_metal #thrash_metal #power_metal">Nevermore - Dreaming Neon Black (1999-01-06)</span>
+49. <span title="#thrash_metal #metal #death_metal #groove_metal">Lamb of God - Burn the Priest (1999-04-13)</span>
+50. <span title="#thrash_metal">Testament - The Gathering (1999-06-08)</span>
+51. <span title="#metal #nu_metal #alternative_metal #disturbed">Disturbed - The Sickness (2000-03-07)</span>
+52. <span title="#melodic_death_metal">In Flames - Clayman (2000-07-03)</span>
+53. <span title="#thrash_metal #heavy_metal">Megadeth - The World Needs A Hero (2001-05-12)</span>
+54. <span title="#thrash_metal">Slayer - God Hates Us All (2001-08-29)</span>
+55. <span title="#thrash_metal">Kreator - Violent Revolution (2001-09-21)</span>
+56. <span title="#thrash_metal">Sodom - M-16 (2001-10-22)</span>
+57. <span title="#alternative_metal #nu_metal #metal #2002">Mudvayne - The End of All Things to Come (2002-11-12)</span>
+58. <span title="#thrash_metal">Metallica - Master of Puppets (2003)</span>
+59. <span title="#melodic_death_metal">Children of Bodom - Hate Crew Deathroll (2003-01-06)</span>
+60. <span title="#metalcore #thrash_metal">Trivium - Ember To Inferno (2003-09-29)</span>
+61. <span title="#groove_metal #death_metal #metal #metalcore #thrash_metal">DevilDriver - DevilDriver (2003-10-20)</span>
+62. <span title="#thrash_metal #groove_metal">Machine Head - Through the Ashes of Empires (2003-10-27)</span>
+63. <span title="#thrash_metal">Exodus - Tempo of the Damned (2004-02-02)</span>
+64. <span title="#whalecore #progressive_metal #sludge_metal">Mastodon - Leviathan (2004-08-31)</span>
+65. <span title="#thrash_metal #heavy_metal">Megadeth - The System Has Failed (2004-09-13)</span>
+66. <span title="#metalcore">Shadows Fall - The War Within (2004-09-21)</span>
+67. <span title="#thrash_metal #melodic_death_metal">The Haunted - Revolver (2004-10-18)</span>
+68. <span title="#thrash_metal">Kreator - Enemy of God (2005-01-10)</span>
+69. <span title="#metalcore">Trivium - Ascendancy (2005-03-07)</span>
+70. <span title="#nu_metal #alternative_metal #metal">Mudvayne - Lost and Found (2005-03-28)</span>
+71. <span title="#metal #hard_rock #metalcore #heavy_metal">Avenged Sevenfold - City of Evil (2005-06-07)</span>
+72. <span title="#groove_metal #death_metal #metalcore #thrash_metal">DevilDriver - The Fury of Our Maker's Hand (2005-06-20)</span>
+73. <span title="#thrash_metal #metal">Megadeth - Greatest Hits: Back to the Start (2005-06-27)</span>
+74. <span title="#melodic_death_metal">Arch Enemy - Doomsday Machine (2005-07-21)</span>
+75. <span title="#metal #hard_rock #alternative_metal #nu_metal">Disturbed - Ten Thousand Fists (2005-09-19)</span>
+76. <span title="#thrash_metal #groove_metal">Soulfly - Dark Ages (2005-09-30)</span>
+77. <span title="#thrash_metal">Exodus - Shovel Headed Kill Machine (2005-09-30)</span>
+78. <span title="#thrash_metal #metalcore">Trivium - The Crusade (2006-01-01)</span>
+79. <span title="#metalcore">Killswitch Engage - As Daylight Dies (2006-01-21)</span>
+80. <span title="#melodic_death_metal">In Flames - Come Clarity (2006-02-01)</span>
+81. <span title="#thrash_metal #finnish">Stam1na - Uudet kymmenen käskyä (2006-05-10)</span>
+82. <span title="#melodic_death_metal">Children of Bodom - Are You Dead Yet? (2006-06-06)</span>
+83. <span title="#thrash_metal">Slayer - Christ Illusion (2006-08-04)</span>
+84. <span title="#thrash_metal">Cavalera Conspiracy - Inflikted (2007)</span>
+85. <span title="#thrash_metal #heavy_metal #live">Megadeth - That One Night: Live in Buenos Aires (2007-03-06)</span>
+86. <span title="#thrash_metal #groove_metal">Machine Head - The Blackening (2007-03-23)</span>
+87. <span title="#thrash_metal">Megadeth - United Abominations (2007-05-09)</span>
+88. <span title="#groove_metal #melodic_death_metal">DevilDriver - The Last Kind Words (2007-06-14)</span>
+89. <span title="#metalcore">As I Lay Dying - An Ocean Between Us (2007-08-21)</span>
+90. <span title="#progressive_metal #math_metal">Meshuggah - ObZen (2008-02-27)</span>
+91. <span title="#melodic_death_metal">Children of Bodom - Blooddrunk (2008-04-09)</span>
+92. <span title="#thrash_metal">Testament - The Formation Of Damnation (2008-04-25)</span>
+93. <span title="#thrash_metal #heavy_metal">Metallica - Death Magnetic (2008-09-06)</span>
+94. <span title="#thrash_metal #metalcore #metal">Trivium - Shogun (2008-09-24)</span>
+95. <span title="#thrash_metal">Kreator - Hordes of Chaos (2009-01-13)</span>
+96. <span title="#thrash_metal">Megadeth - Endgame (2009-09-09)</span>
+97. <span title="#thrash_metal">Slayer - World Painted Blood (2009-10-28)</span>
+98. <span title="#thrash_metal #groove_metal #2011">Machine Head - Unto the Locust (2011-09-21)</span>
+99. <span title="#thrash_metal #2011 #heavy_metal">Megadeth - TH1RT3EN (2011-10-26)</span>
+100. <span title="#thrash_metal">Kreator - Phantom Antichrist (2012-05-30)</span>
