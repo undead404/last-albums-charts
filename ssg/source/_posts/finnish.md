@@ -15,6 +15,7 @@ title: finnish
 10. Ghost Brigade - Until Fear No Longer Defines Us (2011-08-19)
 List of 100 - under the cut.
 <!-- more -->
+
 1. Leevi and the Leavings - Suuteleminen Kielletty (1980)
 2. Eppu Normaali - Akun tehdas (1980-02-19)
 3. Eppu Normaali - Imperiumin vastaisku (1988-06-23)

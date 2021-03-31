@@ -15,6 +15,7 @@ title: thrash metal
 10. Metallica - Death Magnetic (2008-09-06)
 List of 100 - under the cut.
 <!-- more -->
+
 1. Metallica - Kill 'Em All (1983-07-25)
 2. Slayer - Show No Mercy (1983-12-01)
 3. Anthrax - Fistful of Metal (1984-01)

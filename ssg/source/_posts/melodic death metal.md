@@ -15,6 +15,7 @@ title: melodic death metal
 10. Arch Enemy - War Eternal (2014-06-04)
 List of 100 - under the cut.
 <!-- more -->
+
 1. Carcass - Heartwork (1993-10-28)
 2. In Flames - Lunar Strain (1994-04-01)
 3. Amorphis - Tales From the Thousand Lakes (1994-07-12)

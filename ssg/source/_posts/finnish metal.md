@@ -15,6 +15,7 @@ title: finnish metal
 10. Nightwish - Dark Passion Play (2007-09-26)
 List of 100 - under the cut.
 <!-- more -->
+
 1. Sentenced - Amok (1995-01-03)
 2. Stratovarius - Fourth Dimension (1995-02-08)
 3. Amorphis - Elegy (1996-05-14)

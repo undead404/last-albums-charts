@@ -15,6 +15,7 @@ title: black metal
 10. Kvelertak - Kvelertak (2010-06-21)
 List of 100 - under the cut.
 <!-- more -->
+
 1. Venom - Welcome To Hell (1981)
 2. Venom - Black Metal (1982)
 3. Bathory - Bathory (1984-10-02)
