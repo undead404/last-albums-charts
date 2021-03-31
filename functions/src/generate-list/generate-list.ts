@@ -77,6 +77,7 @@ export default async function generateList(): Promise<void> {
       {
         $sort: {
           date: 1,
+          name: 1,
         },
       },
     ])

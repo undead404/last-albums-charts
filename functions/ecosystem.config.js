@@ -38,6 +38,7 @@ module.exports = {
     //   watch: false,
     // },
     {
+      cron_restart: '0 * * * *',
       instances: 1,
       name: 'paCover',
       restart_delay: 200,
@@ -45,6 +46,7 @@ module.exports = {
       watch: true,
     },
     {
+      cron_restart: '0 * * * *',
       instances: 1,
       name: 'paDate',
       restart_delay: 200,
@@ -52,6 +54,7 @@ module.exports = {
       watch: true,
     },
     {
+      cron_restart: '0 * * * *',
       instances: 1,
       name: 'paStats',
       restart_delay: 200,
@@ -59,6 +62,7 @@ module.exports = {
       watch: true,
     },
     {
+      cron_restart: '0 * * * *',
       instances: 1,
       name: 'paTags',
       restart_delay: 200,

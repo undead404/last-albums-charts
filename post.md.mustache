@@ -2,11 +2,15 @@
 date: {{ updated }}
 title: {{ title }}
 ---
-{{#firstAlbums}}
+{{#thumbnail}}
+![{{title}}]({{{thumbnail}}})
+{{/thumbnail}}
+{{#previewAlbums}}
 {{number}}. {{{artist}}} - {{{name}}} ({{date}})
-{{/firstAlbums}}
-More under the cut.
+{{/previewAlbums}}
+List of 100 - under the cut.
 <!-- more -->
-{{#restAlbums}}
+
+{{#albums}}
 {{number}}. {{{artist}}} - {{{name}}} ({{date}})
-{{/restAlbums}}
+{{/albums}}
