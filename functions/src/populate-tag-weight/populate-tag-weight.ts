@@ -3,6 +3,9 @@ import mongoDatabase from '../common/mongo-database';
 
 import pickTag from './pick-tag';
 
+const HUNDRED_MILLIONS = 100_000_000;
+const NORMALIZATION = 1 / HUNDRED_MILLIONS;
+
 export default async function populateTagWeight(): Promise<void> {
   const tag = await pickTag();
   if (!tag) {
@@ -13,7 +16,21 @@ export default async function populateTagWeight(): Promise<void> {
   const [{ power } = { power: 0 }] = await mongoDatabase.albums
     .aggregate<{ power: number }>([
       { $match: { [`tags.${tag.name}`]: { $gt: 0 } } },
-      { $group: { _id: null, power: { $sum: `$tags.${tag.name}` } } },
+      {
+        $group: {
+          _id: null,
+          power: {
+            $sum: {
+              $multiply: [
+                `$tags.${tag.name}`,
+                '$playcount',
+                '$listeners',
+                NORMALIZATION,
+              ],
+            },
+          },
+        },
+      },
     ])
     .toArray();
   await mongoDatabase.tags.updateOne({ _id: tag._id }, { $set: { power } });

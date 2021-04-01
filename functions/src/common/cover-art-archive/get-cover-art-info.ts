@@ -12,9 +12,9 @@ export default async function getCoverArtInfo(
   await waiter;
   logger.info(`getCoverArtInfo(${mbid})`);
   try {
-    const response = await axios.get<CoverArtArchiveResponse>(
-      `https://coverartarchive.org/release/${mbid}`,
-    );
+    const url = `https://coverartarchive.org/release/${mbid}`;
+    logger.warn(url);
+    const response = await axios.get<CoverArtArchiveResponse>(url);
     return response.data;
   } catch {
     return null;

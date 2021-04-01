@@ -117,9 +117,9 @@ export async function publish(
     publication.on('error', (error, messageId) => {
       logger.error('Publisher error', error, messageId);
     });
-    publication.on('success', () =>
-      logger.info(`Successfully published to ${name}`),
-    );
+    // publication.on('success', () =>
+    //   logger.info(`Successfully published to ${name}`),
+    // );
     return publication;
   } catch (error) {
     logger.error(error);

@@ -1,9 +1,12 @@
 import size from 'lodash/size';
 import { WithId } from 'mongodb';
 
+import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
 import mongodb from '../common/mongo-database';
+import sleep from '../common/sleep';
 import { AlbumRecord, Weighted } from '../common/types';
+import generatePost from './generate-post';
 
 import pickTag from './pick-tag';
 import saveList from './save-list';
@@ -11,6 +14,7 @@ import saveList from './save-list';
 const AVERAGE_NUMBER_OF_TRACKS = 7;
 const AVERAGE_SONG_DURATION = 210;
 const AVERAGE_ALBUM_DURATION = AVERAGE_SONG_DURATION * AVERAGE_NUMBER_OF_TRACKS;
+const DELAY = 5000;
 const LIST_LENGTH = 100;
 
 export default async function generateList(): Promise<void> {
@@ -21,6 +25,11 @@ export default async function generateList(): Promise<void> {
   const tagRecord = await pickTag();
   if (!tagRecord) {
     logger.warn('Failed to find sufficient tag');
+    return;
+  }
+  if (isTagBlacklisted(tagRecord.name)) {
+    await mongodb.tags.deleteOne({ name: tagRecord.name });
+    await generateList();
     return;
   }
   let albums: Weighted<WithId<AlbumRecord>>[] | undefined = await mongodb.albums
@@ -87,4 +96,10 @@ export default async function generateList(): Promise<void> {
     albums = undefined;
   }
   await saveList(tagRecord, albums);
+  if (!albums) {
+    await sleep(DELAY);
+    await generateList();
+  } else {
+    await generatePost(tagRecord, albums);
+  }
 }
