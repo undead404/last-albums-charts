@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T21:45:00.940Z
+date: 2021-04-01T22:15:00.854Z
 title: heavy metal
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -45,13 +45,13 @@ List of 100 - under the cut.
 27. <span title="#heavy_metal">Iron Maiden - Powerslave (1984-09-03)</span>
 28. <span title="#heavy_metal">Motörhead - No Remorse (1984-09-15)</span>
 29. <span title="#heavy_metal">Iron Maiden - Somewhere In Time (1986-06-29)</span>
-30. <span title="#heavy_metal">Manowar - Fighting the World (1987-02-17)</span>
-31. <span title="#thrash_metal">Anthrax - Among the Living (1987-03-22)</span>
-32. <span title="#heavy_metal">Iron Maiden - Seventh Son Of A Seventh Son (1988-04-11)</span>
-33. <span title="#heavy_metal #hard_rock">Danzig - Danzig (1988-08-30)</span>
-34. <span title="#heavy_metal">Manowar - Kings of Metal (1988-11-18)</span>
-35. <span title="#thrash_metal">Slayer - Seasons in the Abyss (1990)</span>
-36. <span title="#thrash_metal #groove_metal">Pantera - Cowboys From Hell (1990-07-24)</span>
+30. <span title="#thrash_metal">Anthrax - Among the Living (1987-03-22)</span>
+31. <span title="#heavy_metal">Iron Maiden - Seventh Son Of A Seventh Son (1988-04-11)</span>
+32. <span title="#heavy_metal #hard_rock">Danzig - Danzig (1988-08-30)</span>
+33. <span title="#heavy_metal">Manowar - Kings of Metal (1988-11-18)</span>
+34. <span title="#thrash_metal">Slayer - Seasons in the Abyss (1990)</span>
+35. <span title="#thrash_metal #groove_metal">Pantera - Cowboys From Hell (1990-07-24)</span>
+36. <span title="#grunge">Alice in Chains - Facelift (1990-08-28)</span>
 37. <span title="#heavy_metal">Judas Priest - Painkiller (1990-09-03)</span>
 38. <span title="#thrash_metal">Megadeth - Rust In Peace (1990-09-21)</span>
 39. <span title="#heavy_metal">Iron Maiden - No Prayer For The Dying (1990-10-01)</span>
