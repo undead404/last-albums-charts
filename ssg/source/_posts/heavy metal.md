@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T18:00:01.350Z
+date: 2021-04-01T18:15:00.791Z
 title: heavy metal
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -21,13 +21,13 @@ List of 100 - under the cut.
 3. <span title="#heavy_metal">Black Sabbath - Master of Reality (1971-07-21)</span>
 4. <span title="#heavy_metal">Black Sabbath - Sabbath Bloody Sabbath (1973)</span>
 5. <span title="#heavy_metal">Black Sabbath - Sabotage (1975-07-28)</span>
-6. <span title="#heavy_metal">Motörhead - Overkill (1979-03-24)</span>
-7. <span title="#heavy_metal">Judas Priest - British Steel (1980-04-14)</span>
-8. <span title="#heavy_metal">Iron Maiden - Iron Maiden (1980-04-14)</span>
-9. <span title="#heavy_metal">Ozzy Osbourne - Blizzard of Ozz (1980-09-18)</span>
-10. <span title="#heavy_metal #hard_rock">Motörhead - Ace of Spades (1980-11-08)</span>
-11. <span title="#heavy_metal">Iron Maiden - Killers (1981-02-02)</span>
-12. <span title="#heavy_metal">Ozzy Osbourne - Diary of a Madman (1981-11-07)</span>
+6. <span title="#heavy_metal">Judas Priest - British Steel (1980-04-14)</span>
+7. <span title="#heavy_metal">Iron Maiden - Iron Maiden (1980-04-14)</span>
+8. <span title="#heavy_metal">Ozzy Osbourne - Blizzard of Ozz (1980-09-18)</span>
+9. <span title="#heavy_metal #hard_rock">Motörhead - Ace of Spades (1980-11-08)</span>
+10. <span title="#heavy_metal">Iron Maiden - Killers (1981-02-02)</span>
+11. <span title="#heavy_metal">Ozzy Osbourne - Diary of a Madman (1981-11-07)</span>
+12. <span title="#heavy_metal">Manowar - Battle Hymns (1982)</span>
 13. <span title="#heavy_metal">Motörhead - Iron Fist (1982-04-03)</span>
 14. <span title="#heavy_metal">Iron Maiden - The Number of the Beast (1982-04-26)</span>
 15. <span title="#heavy_metal">Judas Priest - Screaming for Vengeance (1982-07-17)</span>
