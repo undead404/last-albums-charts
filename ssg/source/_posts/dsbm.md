@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T07:00:27.067Z
+date: 2021-04-01T07:26:26.801Z
 title: dsbm
 ---
 ![BABYMETAL - BABYMETAL (2014-02-26)](http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg "BABYMETAL - BABYMETAL (2014-02-26)")

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T07:26:01.226Z
+date: 2021-04-01T07:45:01.119Z
 title: german metal
 ---
 ![Rammstein - Mutter (2001-04-02)](http://coverartarchive.org/release/b18729d7-287e-4519-9397-b9f3e079cd3d/2981256085-500.jpg "Rammstein - Mutter (2001-04-02)")
