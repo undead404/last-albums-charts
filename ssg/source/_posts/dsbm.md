@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T05:57:41.185Z
+date: 2021-04-01T06:45:10.991Z
 title: dsbm
 ---
 ![BABYMETAL - BABYMETAL (2014-02-26)](http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg "BABYMETAL - BABYMETAL (2014-02-26)")
@@ -107,12 +107,12 @@ List of 100 - under the cut.
 89. <span title="#black_metal #russian #russian_metal #ambient_black_metal #atmospheric_black_metal #suicidal_black_metal #depressive_black_metal #dsbm #depressive #russian_black_metal #russian_depressive_black_metal #favorite_bm">Wintercult - Neverending Selfhatred (2012-02-16)</span>
 90. <span title="#black_metal #depressive_black_metal #dsbm #depressive_suicidal_black_metal">Happy Days - Cause of Death: Life (2012-03-06)</span>
 91. <span title="#post_rock #atmospheric_black_metal #2014 #black_metal #doom_metal #depressive_rock #suicidal_black_metal #depressive_black_metal #dsbm #depressive_suicidal_black_metal #bandcamp #blackgaze #free_metal_albums">Windbruch - No Stars, Only Full Dark (2012-03-09)</span>
-92. <span title="#black_metal #atmospheric_black_metal #depressive_black_metal #2012 #dsbm">Tardigrada - Widrstand (2012-05-14)</span>
-93. <span title="#black_metal #depressive_black_metal #dsbm #depressive_suicidal_black_metal #post_black_metal #post_suicidal_black_metal #favorite_bm">Psychonaut 4 - Have a Nice Trip (2012-08-11)</span>
-94. <span title="#black_metal #depressive_rock #post_black_metal #german_black_metal">Freitod - Regenjahre (2012-09)</span>
-95. <span title="#atmospheric_black_metal #black_metal #blackgaze #2012 #depressive_suicidal_black_metal">An Autumn for Crippled Children - Only the Ocean Knows (2012-09-28)</span>
-96. <span title="#shoegaze #blackgaze">An Autumn for Crippled Children - Hearts of Light | Blossoms (2013-02-11)</span>
-97. <span title="#blackgaze #suicidal_black_metal #depressive_black_metal">Thränenkind - The Elk (2013-08-22)</span>
-98. <span title="#black_metal #metal #atmospheric_black_metal #dsbm #usbm #depressive_suicidal_black_metal #l">My Useless Life - Negative Memories (2014-01-04)</span>
+92. <span title="#black_metal #depressive_black_metal #dsbm #depressive_suicidal_black_metal #post_black_metal #post_suicidal_black_metal #favorite_bm">Psychonaut 4 - Have a Nice Trip (2012-08-11)</span>
+93. <span title="#black_metal #depressive_rock #post_black_metal #german_black_metal">Freitod - Regenjahre (2012-09)</span>
+94. <span title="#atmospheric_black_metal #black_metal #blackgaze #2012 #depressive_suicidal_black_metal">An Autumn for Crippled Children - Only the Ocean Knows (2012-09-28)</span>
+95. <span title="#shoegaze #blackgaze">An Autumn for Crippled Children - Hearts of Light | Blossoms (2013-02-11)</span>
+96. <span title="#blackgaze #suicidal_black_metal #depressive_black_metal">Thränenkind - The Elk (2013-08-22)</span>
+97. <span title="#black_metal #metal #atmospheric_black_metal #dsbm #usbm #depressive_suicidal_black_metal #l">My Useless Life - Negative Memories (2014-01-04)</span>
+98. <span title="#folk #singer_songwriter">青葉市子 - 0% (2014-01-29)</span>
 99. <span title="#2014 #metal #j_pop #kawaii_metal">BABYMETAL - BABYMETAL (2014-02-26)</span>
 100. <span title="#black_metal #depressive_rock #dsbm #sweden #depressive_suicidal_black_metal #misantrophy">Ofdrykkja - A Life Worth Losing (2014-04-02)</span>

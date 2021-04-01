@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T03:00:01.268Z
+date: 2021-04-01T06:35:33.273Z
 title: death metal
 ---
 ![Arch Enemy - War Eternal (2014-06-04)](http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg "Arch Enemy - War Eternal (2014-06-04)")
