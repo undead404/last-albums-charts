@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 import filenamify from 'filenamify';
+
 import differenceBy from 'lodash/differenceBy';
 import find from 'lodash/find';
 import join from 'lodash/join';
@@ -86,7 +87,7 @@ export default async function generatePost(
     coverSource,
     coverTitle,
     title: tag.name,
-    updated: tag.listCreatedAt?.toISOString?.(),
+    updated: tag.listCreatedAt?.toISOString?.() || new Date().toISOString(),
   });
   return new Promise<void>((resolve, reject) =>
     fs.writeFile(

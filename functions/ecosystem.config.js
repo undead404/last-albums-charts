@@ -8,14 +8,20 @@ module.exports = {
     {
       autorestart: false,
       cron_restart: '45 * * * *',
+      env: {
+        APP_NAME: 'deploy',
+      },
       instances: 1,
       name: 'deploy',
-      script: '../deploy.sh',
+      script: '../deploy.sh 2>&1 | tee -a logs/deploy.log',
       watch: false,
     },
     {
       autorestart: true,
       cron_restart: '0/15 * * * *',
+      env: {
+        APP_NAME: 'gList',
+      },
       instances: 1,
       name: 'gList',
       script: 'lib/generate-list/run.js',
@@ -32,6 +38,9 @@ module.exports = {
     {
       cron_restart: '5 * * * *',
       instances: 1,
+      env: {
+        APP_NAME: 'paCover',
+      },
       name: 'paCover',
       restart_delay: 200,
       script: 'lib/populate-album-cover/run.js',
@@ -40,6 +49,9 @@ module.exports = {
     {
       cron_restart: '10 * * * *',
       instances: 1,
+      env: {
+        APP_NAME: 'paDate',
+      },
       name: 'paDate',
       restart_delay: 200,
       script: 'lib/populate-album-date/run.js',
@@ -48,6 +60,9 @@ module.exports = {
     {
       cron_restart: '15 * * * *',
       instances: 1,
+      env: {
+        APP_NAME: 'paStats',
+      },
       name: 'paStats',
       restart_delay: 200,
       script: 'lib/populate-album-stats/run.js',
@@ -56,20 +71,29 @@ module.exports = {
     {
       cron_restart: '20 * * * *',
       instances: 1,
+      env: {
+        APP_NAME: 'paTags',
+      },
       name: 'paTags',
       restart_delay: 200,
       script: 'lib/populate-album-tags/run.js',
       watch: false,
     },
     {
-      cron_restart: '25 * * * *',
+      cron_restart: '* * * * *',
       instances: 1,
+      env: {
+        APP_NAME: 'ptWeight',
+      },
       name: 'ptWeight',
       script: 'lib/populate-tag-weight/run.js',
       watch: false,
     },
     {
       cron_restart: '0 * * * *',
+      env: {
+        APP_NAME: 'sAlbums',
+      },
       instances: 1,
       name: 'sAlbums',
       script: 'lib/scrape-albums/run.js',

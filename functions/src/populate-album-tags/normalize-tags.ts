@@ -3,7 +3,6 @@ import mapValues from 'lodash/mapValues';
 import max from 'lodash/max';
 import pickBy from 'lodash/pickBy';
 import some from 'lodash/some';
-import toInteger from 'lodash/toInteger';
 import toLower from 'lodash/toLower';
 import values from 'lodash/values';
 
@@ -20,7 +19,7 @@ export default function normalizeTags(
       keyBy(tagsObjects, (tagObject) => toLower(tagObject.name)),
       'count',
     ),
-    (tagCount, tagName) => !isTagBlacklisted(tagName) && tagCount > 1,
+    (tagCount, tagName) => !isTagBlacklisted(tagName),
   );
   if (!some(result, (tagCount) => tagCount === DESIRED_MAX_TAG_COUNT)) {
     const maxTagCount = max(values(result));
@@ -28,7 +27,10 @@ export default function normalizeTags(
       return {};
     }
     const correction = DESIRED_MAX_TAG_COUNT / maxTagCount;
-    result = mapValues(result, (tagCount) => toInteger(tagCount * correction));
+    result = mapValues(result, (tagCount) => Math.floor(tagCount * correction));
   }
+  result = mapValues(result, (tagCount) =>
+    Math.floor((tagCount * tagCount) / DESIRED_MAX_TAG_COUNT),
+  );
   return result;
 }

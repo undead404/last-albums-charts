@@ -1,3 +1,4 @@
+import isEmpty from 'lodash/isEmpty';
 import map from 'lodash/map';
 
 import getAlbumTopTags from '../common/lastfm/get-album-top-tags';
@@ -23,25 +24,27 @@ export default async function populateAlbumTags(
     { artist: album.artist, name: album.name },
     { $set: albumUpdate },
   );
-  await mongoDatabase.tags.bulkWrite(
-    map(tags, (tagCount, tagName) => ({
-      updateOne: {
-        filter: {
-          name: tagName,
-        },
-        update: {
-          $setOnInsert: {
-            lastProcessedAt: null,
-            listCreatedAt: null,
+  if (!isEmpty(tags)) {
+    await mongoDatabase.tags.bulkWrite(
+      map(tags, (tagCount, tagName) => ({
+        updateOne: {
+          filter: {
             name: tagName,
-            power: 0,
           },
+          update: {
+            $setOnInsert: {
+              lastProcessedAt: null,
+              listCreatedAt: null,
+              name: tagName,
+              power: 0,
+            },
+          },
+          upsert: true,
         },
-        upsert: true,
+      })),
+      {
+        ordered: false,
       },
-    })),
-    {
-      ordered: false,
-    },
-  );
+    );
+  }
 }

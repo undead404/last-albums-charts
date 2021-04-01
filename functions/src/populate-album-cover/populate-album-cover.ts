@@ -1,12 +1,10 @@
-import find from 'lodash/find';
-import get from 'lodash/get';
-import size from 'lodash/size';
 import { UpdateWriteOpResult } from 'mongodb';
 
-import getCoverArtInfo from '../common/cover-art-archive/get-cover-art-info';
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import { AlbumRecord, SerializableAlbum } from '../common/types';
+import getFromCoverArtArchive from './get-from-cover-art-archive';
+import getFromDiscogs from './get-from-discogs';
 
 export type PopulateAlbumCoverPayload = Pick<
   SerializableAlbum,
@@ -30,36 +28,17 @@ export default async function populateAlbumCover(
   album: PopulateAlbumCoverPayload,
 ): Promise<void> {
   logger.info(`populateAlbumCover: ${album.artist} - ${album.name}`);
-  if (!album.mbid) {
-    await storeEmpty(album);
-    return;
+  let albumUpdate: null | Partial<AlbumRecord> = null;
+  if (album.mbid) {
+    albumUpdate = await getFromCoverArtArchive(album.mbid);
   }
-  const coverArtInfo = await getCoverArtInfo(album.mbid);
-  if (!coverArtInfo) {
-    await storeEmpty(album);
-    return;
+  if (!albumUpdate) {
+    albumUpdate = await getFromDiscogs(album.artist, album.name);
   }
-  const frontCoverInfo = find(
-    coverArtInfo.images,
-    (imageInfo) =>
-      size(imageInfo.types) === 1 && imageInfo.types[0] === 'Front',
-  );
-  if (!frontCoverInfo) {
-    await storeEmpty(album);
-    return;
-  }
-  const thumbnail = get(frontCoverInfo, 'thumbnails.small', null);
-  const large = get(frontCoverInfo, 'thumbnails.large', null);
-  if (!large && !thumbnail) {
-    await storeEmpty(album);
-    return;
-  }
-  const albumUpdate: Partial<AlbumRecord> = {
-    cover: large,
-    thumbnail,
-  };
-  await mongoDatabase.albums.updateOne(
-    { mbid: album.mbid },
-    { $set: albumUpdate },
-  );
+  await (albumUpdate
+    ? mongoDatabase.albums.updateOne(
+        { mbid: album.mbid },
+        { $set: albumUpdate },
+      )
+    : storeEmpty(album));
 }
