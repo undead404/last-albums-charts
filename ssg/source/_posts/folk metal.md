@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T16:25:25.524Z
+date: 2021-04-01T18:35:59.168Z
 title: folk metal
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -38,7 +38,7 @@ List of 100 - under the cut.
 20. <span title="#folk_metal">Finntroll - Jaktens Tid (2001-09-18)</span>
 21. <span title="#black_metal #viking_metal #folk_metal #melodic_black_metal">Windir - 1184 (2001-11-19)</span>
 22. <span title="#viking_metal #folk_metal #pagan_metal">Moonsorrow - Voimasta ja Kunniasta (2001-11-26)</span>
-23. <span title="#folk_metal #viking_metal">Týr - How Far to Asgaard (2001-12-31)</span>
+23. <span title="#folk_metal">Cruachan - Folk-Lore (2002-02-04)</span>
 24. <span title="#folk_metal #doom_metal">Agalloch - The Mantle (2002-08-13)</span>
 25. <span title="#folk_metal">Subway to Sally - Engelskrieger (2003-03-10)</span>
 26. <span title="#viking_metal #folk_metal">Moonsorrow - Kivenkantaja (2003-03-10)</span>
@@ -83,10 +83,10 @@ List of 100 - under the cut.
 65. <span title="#folk_metal #mittelalter_rock">Saltatio Mortis - Aus Der Asche (2007-08-31)</span>
 66. <span title="#folk_metal">Turisas - Rasputin (2007-08-31)</span>
 67. <span title="#folk_metal">Elvenking - The Scythe (2007-09-14)</span>
-68. <span title="#symphonic_metal #power_metal">Nightwish - Dark Passion Play (2007-09-26)</span>
-69. <span title="#folk_metal">Subway to Sally - Bastard (2007-10-19)</span>
-70. <span title="#folk_metal">Svartsot - Ravnenes Saga (2007-11-02)</span>
-71. <span title="#black_metal #pagan_metal">Primordial - To the Nameless Dead (2007-11-16)</span>
+68. <span title="#folk_metal">Subway to Sally - Bastard (2007-10-19)</span>
+69. <span title="#folk_metal">Svartsot - Ravnenes Saga (2007-11-02)</span>
+70. <span title="#black_metal #pagan_metal">Primordial - To the Nameless Dead (2007-11-16)</span>
+71. <span title="#folk_metal #power_metal">Alestorm - Leviathan (2008)</span>
 72. <span title="#folk_metal #pirate_metal">Alestorm - Captain Morgan's Revenge (2008-01-25)</span>
 73. <span title="#folk_metal">Eluveitie - Slania (2008-02-15)</span>
 74. <span title="#folk_metal">Korpiklaani - Korven Kuningas (2008-03-21)</span>
