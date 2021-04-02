@@ -1,8 +1,6 @@
 import get from 'lodash/get';
-import includes from 'lodash/includes';
 import startsWith from 'lodash/startsWith';
 import { MusicBrainzApi } from 'musicbrainz-api';
-import { publish } from '../common/amqp-broker';
 
 import logger from '../common/logger';
 import sleep from '../common/sleep';
@@ -19,14 +17,16 @@ let waiter = Promise.resolve();
 export default async function getFromMusicbrainz(
   album: Pick<SerializableAlbum, 'artist' | 'mbid' | 'name'>,
 ): Promise<string | null> {
-  await waiter;
+  logger.debug(`getFromMusicbrainz: ${album.artist} - ${album.name}`);
   if (!album.mbid) {
     return null;
   }
   try {
+    await waiter;
     const release = await musicbrainz.getRelease(album.mbid, [
       'release-groups',
     ]);
+    waiter = sleep(API_DELAY_MS);
     return (
       get(release, 'release-group.first-release-date') ||
       get(release, 'date') ||
@@ -40,13 +40,5 @@ export default async function getFromMusicbrainz(
       return null;
     }
     throw error;
-    if (includes(error.message, 'rate limit')) {
-      await sleep(API_DELAY_MS);
-      await publish('newAlbums', album);
-    }
-    logger.error(error.message);
-    logger.error(`Failed to get date for: ${album.artist} - ${album.name}`);
-  } finally {
-    waiter = sleep(API_DELAY_MS);
   }
 }

@@ -1,3 +1,4 @@
+import toString from 'lodash/toString';
 import {
   BrokerAsPromised,
   BrokerConfig,
@@ -99,7 +100,7 @@ function getBroker(): Promise<BrokerAsPromised> {
     });
     return brokerPromise;
   } catch (error) {
-    logger.error(error);
+    logger.error(toString(error));
     throw error;
   }
 }
@@ -122,7 +123,7 @@ export async function publish(
     // );
     return publication;
   } catch (error) {
-    logger.error(error);
+    logger.error(toString(error));
     throw error;
   }
 }
@@ -135,7 +136,7 @@ export async function subscribe(
     contentType: 'application/json',
   });
   subscription.on('error', (error) => {
-    logger.error(error);
+    logger.error(toString(error));
   });
   return subscription;
 }

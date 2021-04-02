@@ -36,6 +36,7 @@ export default async function pickTag(): Promise<TagRecord | undefined> {
             listCreatedAt: true,
             name: true,
             power: true,
+            topAlbums: true,
             weight: {
               $multiply: [
                 {
@@ -46,7 +47,7 @@ export default async function pickTag(): Promise<TagRecord | undefined> {
                     ],
                   },
                 },
-                '$power',
+                { $sqrt: '$power' },
               ],
             },
           },

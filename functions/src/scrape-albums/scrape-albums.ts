@@ -16,4 +16,5 @@ export default async function scrapeAlbums(): Promise<void> {
     lastProcessedAt: new Date(),
   };
   await mongodb.tags.updateOne({ name: tag.name }, { $set: tagUpdate });
+  logger.info(`scrapeAlbums: ${tag.name} - success`);
 }

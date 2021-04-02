@@ -2,8 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 import filenamify from 'filenamify';
-
-import differenceBy from 'lodash/differenceBy';
+import every from 'lodash/every';
 import find from 'lodash/find';
 import join from 'lodash/join';
 import map from 'lodash/map';
@@ -27,6 +26,29 @@ const template = fs
   .readFileSync(path.resolve('../post.md.mustache'))
   .toString();
 Mustache.parse(template);
+
+function areAlbumsListsEqual(
+  albumList1: AlbumRecord[],
+  albumList2: AlbumRecord[],
+): boolean {
+  if (size(albumList1) !== size(albumList2)) {
+    logger.debug(
+      `different by size: ${albumList1.length} !== ${albumList2.length}`,
+    );
+    return false;
+  }
+  return every(albumList1, (album1, index) => {
+    if (album1.artist !== albumList2[index].artist) {
+      logger.debug(`${album1.artist} !== ${albumList2[index].artist}`);
+      return false;
+    }
+    if (album1.name !== albumList2[index].name) {
+      logger.debug(`${album1.name} !== ${albumList2[index].name}`);
+      return false;
+    }
+    return true;
+  });
+}
 
 function hashtagify(s: string): string {
   return `#${snakeCase(s)}`;
@@ -58,15 +80,7 @@ export default async function generatePost(
   tag: TagRecord,
   albums: AlbumRecord[],
 ): Promise<void> {
-  if (
-    size(
-      differenceBy(
-        tag.topAlbums || [],
-        albums || [],
-        (album) => `${album.artist} - ${album.name}`,
-      ),
-    ) === 0
-  ) {
+  if (areAlbumsListsEqual(tag.topAlbums || [], albums)) {
     logger.warn(`No changes at ${tag.name}`);
     return Promise.resolve();
   }

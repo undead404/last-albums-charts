@@ -1,6 +1,7 @@
 import includes from 'lodash/includes';
-import { publish } from '../common/amqp-broker';
+import toString from 'lodash/toString';
 
+import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import sleep from '../common/sleep';
@@ -46,7 +47,7 @@ export default async function populateAlbumDate(
     } else {
       await storeEmpty(album);
     }
-    logger.error(error.message);
+    logger.error(toString(error));
     logger.error(`Failed to get date for: ${album.artist} - ${album.name}`);
   }
 }

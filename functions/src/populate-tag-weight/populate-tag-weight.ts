@@ -33,5 +33,7 @@ export default async function populateTagWeight(): Promise<void> {
       },
     ])
     .toArray();
-  await mongoDatabase.tags.updateOne({ _id: tag._id }, { $set: { power } });
+  await (power === 0
+    ? mongoDatabase.tags.deleteOne({ _id: tag._id })
+    : mongoDatabase.tags.updateOne({ _id: tag._id }, { $set: { power } }));
 }

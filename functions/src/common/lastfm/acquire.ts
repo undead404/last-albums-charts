@@ -1,5 +1,6 @@
 import axios from 'axios';
 import isEmpty from 'lodash/isEmpty';
+import toString from 'lodash/toString';
 import { stringify } from 'query-string';
 
 import { DEFAULT_PARAMS } from './api-constants';
@@ -36,7 +37,7 @@ export default async function acquire<T extends Payload>(
     waiter = sleep(API_DELAY_MS);
     return response.data;
   } catch (error) {
-    logger.error(error);
+    logger.error(toString(error));
     if (retry >= MAX_RETRIES) {
       throw error;
     }

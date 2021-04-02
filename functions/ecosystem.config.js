@@ -11,6 +11,7 @@ module.exports = {
       env: {
         APP_NAME: 'deploy',
       },
+      exec_mode: 'fork',
       instances: 1,
       name: 'deploy',
       script: '../deploy.sh 2>&1 | tee -a logs/deploy.log',
@@ -18,10 +19,11 @@ module.exports = {
     },
     {
       autorestart: true,
-      cron_restart: '0/15 * * * *',
+      cron_restart: '*/10 * * * *',
       env: {
         APP_NAME: 'gList',
       },
+      exec_mode: 'fork',
       instances: 1,
       name: 'gList',
       script: 'lib/generate-list/run.js',
@@ -37,10 +39,11 @@ module.exports = {
     // },
     {
       cron_restart: '5 * * * *',
-      instances: 1,
       env: {
         APP_NAME: 'paCover',
       },
+      exec_mode: 'fork',
+      instances: 1,
       name: 'paCover',
       restart_delay: 200,
       script: 'lib/populate-album-cover/run.js',
@@ -48,10 +51,11 @@ module.exports = {
     },
     {
       cron_restart: '10 * * * *',
-      instances: 1,
       env: {
         APP_NAME: 'paDate',
       },
+      exec_mode: 'fork',
+      instances: 1,
       name: 'paDate',
       restart_delay: 200,
       script: 'lib/populate-album-date/run.js',
@@ -63,6 +67,7 @@ module.exports = {
       env: {
         APP_NAME: 'paStats',
       },
+      exec_mode: 'fork',
       name: 'paStats',
       restart_delay: 200,
       script: 'lib/populate-album-stats/run.js',
@@ -70,10 +75,11 @@ module.exports = {
     },
     {
       cron_restart: '20 * * * *',
-      instances: 1,
       env: {
         APP_NAME: 'paTags',
       },
+      exec_mode: 'fork',
+      instances: 1,
       name: 'paTags',
       restart_delay: 200,
       script: 'lib/populate-album-tags/run.js',
@@ -81,19 +87,21 @@ module.exports = {
     },
     {
       cron_restart: '* * * * *',
-      instances: 1,
       env: {
         APP_NAME: 'ptWeight',
       },
+      exec_mode: 'fork',
+      instances: 1,
       name: 'ptWeight',
       script: 'lib/populate-tag-weight/run.js',
       watch: false,
     },
     {
-      cron_restart: '0 * * * *',
+      cron_restart: '0 */2 * * *',
       env: {
         APP_NAME: 'sAlbums',
       },
+      exec_mode: 'fork',
       instances: 1,
       name: 'sAlbums',
       script: 'lib/scrape-albums/run.js',

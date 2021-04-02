@@ -1,4 +1,5 @@
 import map from 'lodash/map';
+import toString from 'lodash/toString';
 
 import { publish } from '../common/amqp-broker';
 import getTagTopAlbums from '../common/lastfm/get-tag-top-albums';
@@ -32,7 +33,7 @@ export default async function scrapeAlbumsByTag(tag: TagRecord): Promise<void> {
         await publish('newAlbums', payload);
       }
     }),
-  ).catch((error) => logger.error(error));
+  ).catch((error) => logger.error(toString(error)));
   await mongodb.albums.bulkWrite(
     map(albumsRecords, (albumRecord) => ({
       updateOne: {
