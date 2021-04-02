@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T23:30:00.784Z
+date: 2021-04-02T03:00:00.761Z
 title: folk metal
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
