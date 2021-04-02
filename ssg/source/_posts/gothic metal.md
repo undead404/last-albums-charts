@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T22:00:00.920Z
+date: 2021-04-02T01:00:00.795Z
 title: gothic metal
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
