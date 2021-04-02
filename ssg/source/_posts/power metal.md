@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T11:15:00.999Z
+date: 2021-04-02T16:45:00.947Z
 title: power metal
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -9,10 +9,10 @@ title: power metal
 <li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
 <li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Silence (2001-01)</li>
 <li data-cover="http://coverartarchive.org/release/9f34075b-ed8f-4582-bc65-29c8cd0dd662/13245906998-500.jpg" data-tags="power metal" role="button">DragonForce - Sonic Firestorm (2004-03-24)</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Reckoning Night (2004-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">DragonForce - Inhuman Rampage (2005-12-28)</li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
 <li data-cover="https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg" data-tags="power metal" role="button">Sabaton - Coat of Arms (2010-05-21)</li>
-<li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">Sabaton - Carolus Rex (2012-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="2013, power metal" role="button">Amaranthe - The Nexus (2013-03-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -177,13 +177,13 @@ Children of Bodom - Hate Crew Deathroll (2003-01-06)
 <li data-cover="http://coverartarchive.org/release/4c5b22d5-e901-3e0c-89b1-ded24953449a/1287069532-500.jpg" data-tags="power metal" role="button">
 Kamelot - Epica (2003-01-13)
 </li>
-<li data-cover="https://img.discogs.com/rMFVUHIc2MduWXIPV2PvZwStR-o=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11628598-1519674020-4122.jpeg.jpg" data-tags="power metal" role="button">
+<li data-cover="https://img.discogs.com/EebFe5We3UO2zqXT6tD2nar8ZbQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3856397-1347059602-8973.jpeg.jpg" data-tags="power metal" role="button">
 Masterplan - Masterplan (2003-01-20)
 </li>
 <li data-cover="https://img.discogs.com/lTfVC2Yd0qirT1ojk-KSuJmIBlk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132626-1317270178.jpeg.jpg" data-tags="power metal" role="button">
 DragonForce - Valley of the Damned (2003-01-27)
 </li>
-<li data-cover="https://img.discogs.com/1fhgUNs-BErRSemsn-N-lu0Wbno=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9122261-1475159445-3963.jpeg.jpg" data-tags="power metal" role="button">
+<li data-cover="https://img.discogs.com/Etdg6NU8LjK3zc6LwzSxDu9oHzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3612442-1361530770-6064.jpeg.jpg" data-tags="power metal" role="button">
 Sonata Arctica - Winterheart's Guild (2003-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a451a0f9-d759-4fc6-8a10-3b9794e9216c/10591666065-500.jpg" data-tags="power metal" role="button">
@@ -204,7 +204,7 @@ Nightwish - Once (2004-06-04)
 <li data-cover="http://coverartarchive.org/release/b4f9f593-9df6-4b7c-90c9-94fac1e96ef5/24755686201-500.jpg" data-tags="melodic death metal" role="button">
 Wintersun - Wintersun (2004-08-25)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="whalecore, progressive metal, sludge metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal, sludge metal" role="button">
 Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
@@ -309,14 +309,14 @@ Powerwolf - Blood of the Saints (2011-07-29)
 <li data-cover="http://coverartarchive.org/release/d3be8704-1c5d-4d7b-a7c8-7688ca911fc9/4133899682-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Imaginaerum (2011-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">
-Sabaton - Carolus Rex (2012-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="2013, power metal" role="button">
 Amaranthe - The Nexus (2013-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1dee7c7-0896-480e-9d3b-a73fdfa4feb5/13186707091-500.jpg" data-tags="power metal" role="button">
 Sabaton - Heroes (2014-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/688c6472-0cb6-4f11-92be-c2685ce33702/8049734118-500.jpg" data-tags="folk metal, 2014, power metal" role="button">
+Alestorm - Sunset on the Golden Age (2014-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e9772d7-04c9-471d-b9e4-f5f90724b8ee/9026038350-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Beyond the Red Mirror (2015-01-28)
