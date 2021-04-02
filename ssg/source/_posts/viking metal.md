@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T20:15:55.506Z
+date: 2021-04-02T00:00:00.733Z
 title: viking metal
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
