@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T16:45:00.947Z
+date: 2021-04-02T21:30:00.885Z
 title: power metal
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -204,9 +204,6 @@ Nightwish - Once (2004-06-04)
 <li data-cover="http://coverartarchive.org/release/b4f9f593-9df6-4b7c-90c9-94fac1e96ef5/24755686201-500.jpg" data-tags="melodic death metal" role="button">
 Wintersun - Wintersun (2004-08-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal, sludge metal" role="button">
-Mastodon - Leviathan (2004-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
 Angra - Temple of Shadows (2004-09-06)
 </li>
@@ -227,6 +224,9 @@ Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/98ec9bed-7912-3faa-994d-39b045c2842d/4309139312-500.jpg" data-tags="power metal" role="button">
 Demons & Wizards - Touched by the Crimson King (2005-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/295a0816-ab5f-4fd0-a09f-c6055805ce16/14222280979-500.jpg" data-tags="power metal" role="button">
+Gamma Ray - Majestic (2005-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">
 DragonForce - Inhuman Rampage (2005-12-28)
