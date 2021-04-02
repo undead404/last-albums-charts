@@ -1,14 +1,14 @@
 ---
-date: 2021-04-01T20:45:38.873Z
+date: 2021-04-02T12:30:00.944Z
 title: dsbm
 ---
 ![Silencer - Death - Pierce Me (2001-10-30)](http://coverartarchive.org/release/ba6b23a4-01e1-4f26-ba66-8dc59cf9f0c8/20616059112-500.jpg "Silencer - Death - Pierce Me (2001-10-30)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/9642f427-dc28-4c06-81f3-0a4ef7c4de62/3763374815-500.jpg" data-tags="black metal" role="button">Burzum - Aske (1993-03)</li>
 <li data-cover="http://coverartarchive.org/release/ba6b23a4-01e1-4f26-ba66-8dc59cf9f0c8/20616059112-500.jpg" data-tags="suicidal black metal, black metal, depressive black metal" role="button">Silencer - Death - Pierce Me (2001-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/267aaf45-66c8-3b02-af27-63ea455e208f/5247875054-500.jpg" data-tags="black metal, depressive black metal, depressive rock, metal" role="button">Lifelover - Pulver (2006-07-24)</li>
 <li data-cover="http://coverartarchive.org/release/eddac426-6a41-4f99-9388-57f5f95d7e1d/1061800706-500.jpg" data-tags="depressive rock, depressive black metal, black metal, metal" role="button">Lifelover - Erotik (2007-02-24)</li>
 <li data-cover="https://img.discogs.com/PPzS5vxma0DIfuTXNTlIFpSDUHI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2786836-1301938676.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">Totalselfhatred - Totalselfhatred (2008)</li>
+<li data-cover="http://coverartarchive.org/release/70140bf8-220e-460b-a2a8-a53beae826b9/1061833576-500.jpg" data-tags="black metal, depressive black metal" role="button">Lifelover - Konkurs (2008-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="2009, goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/a2d2fd6f-9306-42b7-9708-e4572dfa5a72/1061891778-500.jpg" data-tags="depressive black metal" role="button">Lifelover - Dekadens (2009-09-28)</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">Justin Bieber - My Worlds (2010-03-22)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/9642f427-dc28-4c06-81f3-0a4ef7c4de62/3763374815-500.jpg" data-tags="black metal" role="button">
-Burzum - Aske (1993-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/46424e1a-57d9-42fb-b48b-f42ac7dc05f9/5448127715-500.jpg" data-tags="black metal, depressive black metal, true norwegian black metal" role="button">
 Forgotten Woods - As the Wolves Gather (1994-12)
 </li>
@@ -90,7 +87,7 @@ Forgotten Tomb - Love's Burial Ground (2004-09-11)
 <li data-cover="http://coverartarchive.org/release/2bdc3ee4-4461-41b9-bfe8-80d1370ac7f7/15104130412-500.jpg" data-tags="black metal" role="button">
 Endless Dismal Moan - Endless Dismal Moan (2004-12)
 </li>
-<li data-cover="https://img.discogs.com/zYzSlu-53lnn9xPIyOvZgsfYu58=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5303115-1390056894-5347.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
+<li data-cover="https://img.discogs.com/WY59uokg7nP4mzLoXfs1MWMHB2o=/fit-in/472x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736722-1153503088.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
 Xasthur - Subliminal Genocide (2005)
 </li>
 <li data-cover="https://img.discogs.com/U-LHwE1sISCa4W7J_T2dDYMiCoI=/fit-in/420x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11775077-1522166177-7844.jpeg.jpg" data-tags="black metal, melodic black metal, depressive black metal, dsbm, depressive suicidal black metal" role="button">
@@ -117,7 +114,7 @@ Anti - The Insignificance Of Life (2006-01-18)
 <li data-cover="http://coverartarchive.org/release/bca39192-4462-432b-b74f-3ad89468d708/2676421199-500.jpg" data-tags="black metal, depressive black metal" role="button">
 ColdWorld - The Stars Are Dead Now (2006-01-20)
 </li>
-<li data-cover="https://img.discogs.com/5k4-OBtUHeyJ8bAJw97g3BQvSos=/fit-in/600x917/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713819-1592821106-3416.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
+<li data-cover="https://img.discogs.com/RZQX5niX5EoX2PrLXxRuz1JBwxo=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2261305-1272981082.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
 Sterbend - Dwelling Lifeless (2006-04-13)
 </li>
 <li data-cover="https://img.discogs.com/27mlJX9j392klcCSKybNI1-EdW8=/fit-in/600x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1952843-1254678970.jpeg.jpg" data-tags="2008, dsbm" role="button">
@@ -311,6 +308,9 @@ An Autumn for Crippled Children - Hearts of Light | Blossoms (2013-02-11)
 </li>
 <li data-cover="https://img.discogs.com/tzeD9_8QLM8u3CAt0f_sBBBMT8E=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8530493-1566829774-4686.jpeg.jpg" data-tags="blackgaze" role="button">
 Thränenkind - The Elk (2013-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/40180106-bacb-4b02-bed9-aaa902185ee4/9288587732-500.jpg" data-tags="suicidal black metal, depressive black metal, dsbm" role="button">
+Ghost Bath - Ghost bath (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c3b778d-7372-491e-a73f-21136db65bf7/18285645023-500.jpg" data-tags="black metal" role="button">
 My Useless Life - Negative Memories (2014-01-04)
