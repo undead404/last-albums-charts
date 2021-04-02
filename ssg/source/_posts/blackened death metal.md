@@ -1,0 +1,122 @@
+---
+date: 2021-04-02T07:45:00.861Z
+title: blackened death metal
+---
+![Behemoth - Demigod (2004-11-08)](https://img.discogs.com/MNYLE23Q0oIxDAGjqM15Ef46BeY=/fit-in/300x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4001137-1351930041-7014.jpeg.jpg "Behemoth - Demigod (2004-11-08)")
+<ol>
+<li><span title="#thrash_metal #groove_metal #metal">Sepultura - Roots (1996-02-21)</span></li>
+<li><span title="#groove_metal #metalcore #metal #death_metal #thrash_metal">Lamb of God - New American Gospel (2000-09-26)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Behemoth - Zos Kia Cultus (2002-10-02)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Behemoth - Demigod (2004-11-08)</span></li>
+<li><span title="#death_metal">Behemoth - The Apostasy (2007-06-29)</span></li>
+<li><span title="#melodic_death_metal #death_metal">The Black Dahlia Murder - Nocturnal (2007-09-18)</span></li>
+<li><span title="#black_metal #blackened_death_metal">Belphegor - Bondage Goat Zombie (2008-04-11)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Behemoth - Evangelion (2009-08-07)</span></li>
+<li><span title="#justin_bieber #my_world #totec_radio">Justin Bieber - My World (2009-11-13)</span></li>
+<li><span title="#2014 #blackened_death_metal #black_metal #death_metal">Behemoth - The Satanist (2014-02-03)</span></li>
+</ol>
+List of 100 - under the cut.
+<!-- more -->
+-----
+<ol>
+<li><span title="#thrash_metal #black_metal #1985">Celtic Frost - To Mega Therion (1985)</span></li>
+<li><span title="#black_metal">Darkthrone - A Blaze in the Northern Sky (1992-03-02)</span></li>
+<li><span title="#black_metal">Marduk - Dark Endless (1992-12)</span></li>
+<li><span title="#black_metal #melodic_black_metal">Dissection - The Somberlain (1993-12-03)</span></li>
+<li><span title="#melodic_black_metal">Naglfar - Vittra (1995)</span></li>
+<li><span title="#black_metal #death_metal #blackened_death_metal">Belphegor - The Last Supper (1995-01)</span></li>
+<li><span title="#1995 #detroit">Insane Clown Posse - Riddle Box (1995-10-10)</span></li>
+<li><span title="#black_metal #melodic_black_metal">Dissection - Storm of the Light's Bane (1995-11-17)</span></li>
+<li><span title="#thrash_metal #groove_metal #metal">Sepultura - Roots (1996-02-21)</span></li>
+<li><span title="#black_metal">Belphegor - Blutsabbath (1997)</span></li>
+<li><span title="#black_metal">Immortal - Blizzard Beasts (1997-03-20)</span></li>
+<li><span title="#black_metal">Behemoth - Pandemonic Incantations (1998-03-02)</span></li>
+<li><span title="#thrash_metal">Slayer - Diabolus In Musica (1998-06-09)</span></li>
+<li><span title="#progressive_death_metal #progressive_metal">Opeth - My Arms, Your Hearse (1998-06-15)</span></li>
+<li><span title="#black_metal #melodic_black_metal">Naglfar - Diabolical (1998-07-28)</span></li>
+<li><span title="#black_metal">Marduk - Panzer Division Marduk (1999-03-05)</span></li>
+<li><span title="#melodic_death_metal">Arch Enemy - Burning Bridges (1999-05-21)</span></li>
+<li><span title="#juggalo #hip_hop">Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)</span></li>
+<li><span title="#metalcore">Underoath - Act of Depression (1999-07-04)</span></li>
+<li><span title="#black_metal">Anaal Nathrakh - Total Fucking Necro (1999-09)</span></li>
+<li><span title="#death_metal">Behemoth - Antichristian Phenomenon (2000)</span></li>
+<li><span title="#metalcore #death_metal">Underoath - Cries of the Past (2000-07-04)</span></li>
+<li><span title="#groove_metal #metalcore #metal #death_metal #thrash_metal">Lamb of God - New American Gospel (2000-09-26)</span></li>
+<li><span title="#thrash_metal">The Haunted - The Haunted Made Me Do It (2000-10-27)</span></li>
+<li><span title="#black_metal #blackened_death_metal">Belphegor - Necrodaemon Terrorsathan (2000-11-17)</span></li>
+<li><span title="#death_metal #blackened_death_metal #black_metal">Zyklon - World ov Worms (2001-02-12)</span></li>
+<li><span title="#thrash_metal">Sepultura - Nation (2001-03-02)</span></li>
+<li><span title="#black_metal #death_metal">Akercocke - The Goat of Mendes (2001-04)</span></li>
+<li><span title="#2002 #death_metal">Necrophobic - Bloodhymns (2002)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Behemoth - Zos Kia Cultus (2002-10-02)</span></li>
+<li><span title="#black_metal #symphonic_black_metal">Vesania - Firefrost Arcanum (2003)</span></li>
+<li><span title="#melodic_black_metal #black_metal">Naglfar - Sheol (2003-03-18)</span></li>
+<li><span title="#black_metal">1349 - Liberation (2003-04-07)</span></li>
+<li><span title="#black_metal #death_metal">Behemoth - Conjuration (2003-09-14)</span></li>
+<li><span title="#death_metal">Zyklon - Aeon (2003-10-08)</span></li>
+<li><span title="#death_metal #black_metal">Akercocke - Choronzon (2003-10-20)</span></li>
+<li><span title="#death_metal #black_metal #blackened_death_metal">Portal - Seepia (2003-11-12)</span></li>
+<li><span title="#blackened_death_metal #black_metal">Belphegor - Lucifer Incestus (2003-11-24)</span></li>
+<li><span title="#black_metal">Mayhem - Chimera (2004-03-29)</span></li>
+<li><span title="#black_metal #grindcore">Anaal Nathrakh - Domine Non Es Dignus (2004-11-02)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Behemoth - Demigod (2004-11-08)</span></li>
+<li><span title="#black_metal #melodic_black_metal #symphonic_black_metal">Graveworm - (N)utopia (2005-01-11)</span></li>
+<li><span title="#melodic_black_metal #black_metal">Naglfar - Pariah (2005-06-20)</span></li>
+<li><span title="#symphonic_black_metal #black_metal">Vesania - God the Lux (2005-07-25)</span></li>
+<li><span title="#melodic_death_metal #death_metal">Hypocrisy - Virus (2005-09-05)</span></li>
+<li><span title="#death_metal">Akercocke - Words That Go Unspoken, Deeds That Go Undone (2005-10-10)</span></li>
+<li><span title="#melodic_death_metal #black_metal">Dissection - Reinkaos (2006-03-23)</span></li>
+<li><span title="#death_metal">Zyklon - Disintegrate (2006-05-15)</span></li>
+<li><span title="#black_metal #death_metal #blackened_death_metal">Necrophobic - Hrimthursum (2006-05-22)</span></li>
+<li><span title="#black_metal #melodic_death_metal #melodic_black_metal #symphonic_black_metal">Shade Empire - Intoxicate O.S. (2006-05-24)</span></li>
+<li><span title="#black_metal #death_metal #blackened_death_metal">Goatwhore - A Haunting Curse (2006-09-05)</span></li>
+<li><span title="#black_metal #grindcore">Anaal Nathrakh - Eschaton (2006-10-16)</span></li>
+<li><span title="#female_vocalists #gay_metal">Katy Perry - Ur So Gay (2007-01-15)</span></li>
+<li><span title="#black_metal">Watain - Sworn to the Dark (2007-02-19)</span></li>
+<li><span title="#melodic_black_metal #black_metal">Naglfar - Harvest (2007-02-26)</span></li>
+<li><span title="#melodic_black_metal #black_metal">Graveworm - Collateral Defect (2007-04-10)</span></li>
+<li><span title="#death_metal #black_metal">Akercocke - Antichrist (2007-05-28)</span></li>
+<li><span title="#death_metal">Behemoth - The Apostasy (2007-06-29)</span></li>
+<li><span title="#black_metal #avant_garde_black_metal">Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)</span></li>
+<li><span title="#death_metal">Portal - Outre (2007-09-11)</span></li>
+<li><span title="#melodic_death_metal #death_metal">The Black Dahlia Murder - Nocturnal (2007-09-18)</span></li>
+<li><span title="#symphonic_black_metal #black_metal">Vesania - Distractive Killusions (2007-11-20)</span></li>
+<li><span title="#deathcore #symphonic_deathcore">Winds of Plague - Decimate The Weak (2008-02-05)</span></li>
+<li><span title="#black_metal #symphonic_black_metal #dark_metal">Shade Empire - Zero Nexus (2008-03-12)</span></li>
+<li><span title="#black_metal #blackened_death_metal">Belphegor - Bondage Goat Zombie (2008-04-11)</span></li>
+<li><span title="#metalcore">Bleeding Through - Declaration (2008-09-26)</span></li>
+<li><span title="#symphonic_black_metal">Abigail Williams - In the Shadow of a Thousand Suns (2008-10-20)</span></li>
+<li><span title="#black_metal">Behemoth - Ezkaton (2008-11-11)</span></li>
+<li><span title="#blackened_death_metal">Unanimated - In the Light of Darkness (2009-04-27)</span></li>
+<li><span title="#black_metal #melodic_black_metal">Old Man's Child - Slaves of the World (2009-05-18)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Azarath - Praise the Beast (2009-05-25)</span></li>
+<li><span title="#death_metal">Necrophobic - Death to All (2009-05-29)</span></li>
+<li><span title="#death_metal #black_metal #blackened_death_metal">Goatwhore - Carving Out The Eyes Of God (2009-06-23)</span></li>
+<li><span title="#black_metal #grindcore">Anaal Nathrakh - In the Constellation of the Black Widow (2009-06-29)</span></li>
+<li><span title="#k_pop #2_ne_1">2NE1 - 2NE1 (2009-07-08)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Behemoth - Evangelion (2009-08-07)</span></li>
+<li><span title="#2009 #goregrind #deathcore #brutal_death_metal #nsbm #deathgrind #brutal_deathcore #national_socialist_black_metal #moshcore">Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)</span></li>
+<li><span title="#black_metal">Marduk - Wormwood (2009-09-24)</span></li>
+<li><span title="#black_metal">Immortal - All Shall Fall (2009-09-25)</span></li>
+<li><span title="#black_metal">Dragged Into Sunlight - Hatred For Mankind (2009-09-25)</span></li>
+<li><span title="#death_metal #black_metal #blackened_death_metal">Belphegor - Walpurgis Rites - Hexenwahn (2009-10-09)</span></li>
+<li><span title="#justin_bieber #my_world #totec_radio">Justin Bieber - My World (2009-11-13)</span></li>
+<li><span title="#black_metal #death_metal #blackened_death_metal #symphonic_black_metal #melodic_black_metal">Dawn of Ashes - Genocide Chapters (2010)</span></li>
+<li><span title="#deathcore">Carnifex - Hell Chose Me (2010-02-16)</span></li>
+<li><span title="#totec_radio #justin_bieber #goregrind #justin_bieber_my_worlds">Justin Bieber - My Worlds (2010-03-22)</span></li>
+<li><span title="#black_metal">Melechesh - The Epigenesis (2010-10-01)</span></li>
+<li><span title="#death_metal #blackened_death_metal">Hate - Erebos (2010-11-15)</span></li>
+<li><span title="#totec_radio #justin_bieber">Justin Bieber - My Worlds Acoustic (2010-11-26)</span></li>
+<li><span title="#2011">Belphegor - Blood Magick Necromance (2011-01-14)</span></li>
+<li><span title="#black_metal #grindcore">Anaal Nathrakh - Passion (2011-05-17)</span></li>
+<li><span title="#technical_death_metal #progressive_death_metal">Fallujah - The Harvest Wombs (2011-11-22)</span></li>
+<li><span title="#blackened_death_metal #black_metal #death_metal">Goatwhore - Blood For The Master (2012-02-14)</span></li>
+<li><span title="#melodic_black_metal #blackened_death_metal #swedish">Naglfar - Téras (2012-03-23)</span></li>
+<li><span title="#black_metal #2012 #progressive_black_metal #progressive_metal">Deathspell Omega - Drought (2012-06-22)</span></li>
+<li><span title="#symphonic_black_metal #melodic_death_metal">Shade Empire - Omega Arcane (2013-05-06)</span></li>
+<li><span title="#2013 #death_metal #blackened_death_metal">Grave Miasma - Odori Sepulcrorum (2013-09-13)</span></li>
+<li><span title="#black_metal #death_metal #blackened_death_metal">Behemoth - Blow Your Trumpets Gabriel (2013-12-04)</span></li>
+<li><span title="#2014 #blackened_death_metal #black_metal #death_metal">Behemoth - The Satanist (2014-02-03)</span></li>
+<li><span title="#death_metal #2014">Belphegor - Conjuring The Dead (2014-08-06)</span></li>
+<li><span title="#black_metal #grindcore #2014 #industrial_black_metal">Anaal Nathrakh - Desideratum (2014-10-24)</span></li>
+</ol>

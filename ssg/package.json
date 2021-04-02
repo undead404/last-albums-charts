@@ -12,6 +12,12 @@
     "version": "5.4.0"
   },
   "dependencies": {
+    "bootstrap": "~4.6.0",
+    "jquery": "~3.6.0",
+    "popper.js": "~1.16.1"
+  },
+  "devDependencies": {
+    "css-loader": "~5.2.0",
     "hexo": "~5.4.0",
     "hexo-generator-archive": "~1.0.0",
     "hexo-generator-category": "~1.0.0",
@@ -21,6 +27,10 @@
     "hexo-renderer-marked": "~4.0.0",
     "hexo-renderer-stylus": "~2.0.1",
     "hexo-server": "~2.0.0",
-    "hexo-theme-landscape": "0.0.3"
+    "hexo-theme-landscape": "0.0.3",
+    "hexo-webpack": "~1.0.0",
+    "style-loader": "~2.0.0",
+    "ts-loader": "~8.1.0",
+    "typescript": "~4.2.3"
   }
 }
