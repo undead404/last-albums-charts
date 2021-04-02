@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T10:30:00.968Z
+date: 2021-04-02T18:00:00.993Z
 title: heavy metal
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -237,7 +237,7 @@ Metallica - Master of Puppets (2003)
 <li data-cover="http://coverartarchive.org/release/9521fd78-f33c-4bea-a1d6-f9248ba8a9fb/14971786451-500.jpg" data-tags="heavy metal" role="button">
 Black Label Society - The Blessed Hellride (2003-03-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative metal" role="button">
+<li data-cover="https://img.discogs.com/vlau61vpGX-YOKEj67EuCN9BpRM=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7066761-1432968460-8867.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="https://img.discogs.com/mTfwT4JCe43wbpCBxVbvPD1ZDLc=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15211201-1588165066-5840.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
@@ -249,11 +249,11 @@ Iron Maiden - Dance Of Death (2003-09-03)
 <li data-cover="http://coverartarchive.org/release/21478f60-2242-4c17-8fed-506581a14996/14503017209-500.jpg" data-tags="metal, alternative metal, heavy metal, hard rock, nu metal" role="button">
 Drowning Pool - Desensitized (2004-04-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal, alternative metal" role="button">
+Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, metal, thrash metal" role="button">
 Lamb of God - Ashes Of The Wake (2004-08-30)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal, sludge metal" role="button">
-Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/90eba311-3eee-4b46-8900-ad2e8fb7d8ba/14972006997-500.jpg" data-tags="heavy metal" role="button">
 Judas Priest - Angel Of Retribution (2005-02-23)
