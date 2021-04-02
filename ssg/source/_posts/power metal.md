@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T21:00:11.243Z
+date: 2021-04-01T22:30:00.817Z
 title: power metal
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
