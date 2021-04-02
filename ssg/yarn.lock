@@ -2,6 +2,21 @@
 # yarn lockfile v1
 
 
+"@types/bootstrap@~4.1.0":
+  version "4.1.4"
+  resolved "https://registry.yarnpkg.com/@types/bootstrap/-/bootstrap-4.1.4.tgz#dd1c890f11f036274405ad6608f18ac7a0c41311"
+  integrity sha512-B1UDJ3ye9YUc+GPDT4bFdJzyggCPleuJznlXPZJgMtf3tnvrS5iVy6qRZFfDJje/OwzKNncBwM3oUViptNZmxQ==
+  dependencies:
+    "@types/jquery" "*"
+    popper.js "^1.14.1"
+
+"@types/jquery@*":
+  version "3.5.5"
+  resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.5.5.tgz#2c63f47c9c8d96693d272f5453602afd8338c903"
+  integrity sha512-6RXU9Xzpc6vxNrS6FPPapN1SxSHgQ336WC6Jj/N8q30OiaBZ00l1GBgeP7usjVZPivSkGUfL1z/WW6TX989M+w==
+  dependencies:
+    "@types/sizzle" "*"
+
 "@types/jquery@~3.3.1":
   version "3.3.38"
   resolved "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.38.tgz#6385f1e1b30bd2bff55ae8ee75ea42a999cc3608"
@@ -2576,7 +2591,7 @@ pkg-dir@^3.0.0:
   dependencies:
     find-up "^3.0.0"
 
-popper.js@~1.16.1:
+popper.js@^1.14.1, popper.js@~1.16.1:
   version "1.16.1"
   resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.16.1.tgz#2a223cb3dc7b6213d740e40372be40de43e65b1b"
   integrity sha512-Wb4p1J4zyFTbM+u6WuO4XstYx4Ky9Cewe4DWrel7B0w6VVICvPwdOpotjzcf6eD8TsckVnIMNONQyPIUFOUbCQ==

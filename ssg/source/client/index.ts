@@ -1,8 +1,9 @@
-import 'bootstrap/js/src/modal';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import jQuery from 'jquery';
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 jQuery(() => {
+  console.info('init modal');
   const $body = jQuery('body');
   const $modal = jQuery(`<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modal-title" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
@@ -26,6 +27,7 @@ jQuery(() => {
   const $modalTitle = $modal.find('.modal-title');
   const $modalBody = $modal.find('.modal-body');
   jQuery(`.albums li`).on('click', (item) => {
+    console.debug('clicked');
     const $item = jQuery(item);
     const title = $item.text();
     const coverSource = $item.data('cover');
