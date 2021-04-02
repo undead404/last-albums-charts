@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T09:23:17.731Z
+date: 2021-04-02T10:30:00.968Z
 title: heavy metal
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -110,6 +110,9 @@ Motörhead - No Remorse (1984-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Somewhere In Time (1986-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/bfe9a0ff-3278-30f9-a731-d56924f32e18/17240393697-500.jpg" data-tags="heavy metal" role="button">
+Manowar - Fighting the World (1987-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4dede30f-58cf-4d43-a857-b342ad7be945/1810188979-500.jpg" data-tags="thrash metal" role="button">
 Metallica - ...and Justice for All (1988)
@@ -314,9 +317,6 @@ Black Sabbath - 13 (2013-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/91d39e40-b2ad-4b23-9c21-30e59e1db946/6669636332-500.jpg" data-tags="heavy metal, 2013" role="button">
 Avenged Sevenfold - Hail To The King (2013-07-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg" data-tags="melodic death metal, 2014" role="button">
-Arch Enemy - War Eternal (2014-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f66b0034-2511-4d5f-b0a7-345e330604d3/8142145163-500.jpg" data-tags="heavy metal, alternative metal, nu metal" role="button">
 Slipknot - .5: The Gray Chapter (Special Edition) (2014-10-15)
