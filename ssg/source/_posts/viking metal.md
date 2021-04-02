@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T11:33:42.555Z
+date: 2021-04-02T18:45:00.966Z
 title: viking metal
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
@@ -138,7 +138,7 @@ Moonsorrow - Kivenkantaja (2003-03-10)
 <li data-cover="http://coverartarchive.org/release/ac851e22-5058-4a07-bd1a-807e80d16b81/5428960021-500.jpg" data-tags="black metal" role="button">
 Windir - Likferd (2003-03-27)
 </li>
-<li data-cover="https://img.discogs.com/FmsUdjPe55twObS-ExmyGs7QddA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6062357-1410095128-5318.jpeg.jpg" data-tags="viking metal" role="button">
+<li data-cover="https://img.discogs.com/OKhcLZ0bBa1B9RzSVNrcZWMOXCk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243884-1289078603.jpeg.jpg" data-tags="viking metal" role="button">
 Bathory - Nordland II (2003-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/97442f7c-42da-4093-83a1-77d114ee9a63/20094925020-500.jpg" data-tags="folk, folk metal" role="button">
@@ -159,7 +159,7 @@ Falkenbach - Ok Nefna Tysvar Ty (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/ab6cf38c-90a4-4828-990c-21d4560a7057/6505885788-500.jpg" data-tags="folk metal" role="button">
 Korpiklaani - Spirit of the Forest (2003-11-10)
 </li>
-<li data-cover="https://img.discogs.com/w8Huzbeic2WTVeSMVUr8L2xjDC0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6293345-1415756538-2123.jpeg.jpg" data-tags="folk metal, viking metal" role="button">
+<li data-cover="https://img.discogs.com/AFREEw3HyHigM-nz8541zARYdVQ=/fit-in/244x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6067035-1410200229-3358.jpeg.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Eric The Red (2003-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/19128e9e-53ac-46a0-8e7b-22b85ca0bb73/19427551152-500.jpg" data-tags="viking metal" role="button">
@@ -303,8 +303,8 @@ Turisas - Stand Up and Fight (2011-02-23)
 <li data-cover="http://coverartarchive.org/release/1a599b32-363f-45e7-9712-29084a5855ee/13876171030-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Surtur Rising (2011-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f9fdeb0-31a8-414b-90b4-65bd29271b98/1823276547-500.jpg" data-tags="folk metal" role="button">
-Ensiferum - Unsung Heroes (2012-08-24)
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
+Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="2012, folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
