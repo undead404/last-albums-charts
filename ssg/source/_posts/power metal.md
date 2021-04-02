@@ -1,118 +1,324 @@
 ---
-date: 2021-04-02T04:00:00.807Z
+date: 2021-04-02T11:15:00.999Z
 title: power metal
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
-1. <span title="#symphonic_metal">Nightwish - Oceanborn (1998-12-07)</span>
-2. <span title="#power_metal">Sonata Arctica - Ecliptica (1999-08-29)</span>
-3. <span title="#symphonic_metal">Nightwish - Wishmaster (2000-05-02)</span>
-4. <span title="#power_metal">Sonata Arctica - Silence (2001-01)</span>
-5. <span title="#power_metal">DragonForce - Sonic Firestorm (2004-03-24)</span>
-6. <span title="#power_metal">DragonForce - Inhuman Rampage (2005-12-28)</span>
-7. <span title="#symphonic_metal">Nightwish - Dark Passion Play (2007-09-26)</span>
-8. <span title="#power_metal">Sabaton - Coat of Arms (2010-05-21)</span>
-9. <span title="#power_metal">Sabaton - Carolus Rex (2012-05-22)</span>
-10. <span title="#2013 #power_metal">Amaranthe - The Nexus (2013-03-13)</span>
+<ol class="albums">
+<li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Oceanborn (1998-12-07)</li>
+<li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Ecliptica (1999-08-29)</li>
+<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Silence (2001-01)</li>
+<li data-cover="http://coverartarchive.org/release/9f34075b-ed8f-4582-bc65-29c8cd0dd662/13245906998-500.jpg" data-tags="power metal" role="button">DragonForce - Sonic Firestorm (2004-03-24)</li>
+<li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">DragonForce - Inhuman Rampage (2005-12-28)</li>
+<li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
+<li data-cover="https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg" data-tags="power metal" role="button">Sabaton - Coat of Arms (2010-05-21)</li>
+<li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">Sabaton - Carolus Rex (2012-05-22)</li>
+<li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="2013, power metal" role="button">Amaranthe - The Nexus (2013-03-13)</li>
+</ol>
 List of 100 - under the cut.
 <!-- more -->
------
-1. <span title="#heavy_metal">Manowar - Kings of Metal (1988-11-18)</span>
-2. <span title="#power_metal">Gamma Ray - Heading For Tomorrow (1990-02-19)</span>
-3. <span title="#power_metal">Blind Guardian - Tales From The Twilight World (1990-09-21)</span>
-4. <span title="#power_metal #heavy_metal #thrash_metal">Iced Earth - Night of the Stormrider (1991-11-01)</span>
-5. <span title="#power_metal">Blind Guardian - Somewhere Far Beyond (1992-06-29)</span>
-6. <span title="#power_metal">Angra - Angels Cry (1993-11-03)</span>
-7. <span title="#power_metal #heavy_metal">Iced Earth - Burnt Offerings (1995-03)</span>
-8. <span title="#power_metal">Blind Guardian - Imaginations From The Other Side (1995-04-05)</span>
-9. <span title="#power_metal">Gamma Ray - Land of the Free (1995-05-29)</span>
-10. <span title="#power_metal">Helloween - The Time Of The Oath (1996-02-29)</span>
-11. <span title="#power_metal">Blind Guardian - The Forgotten Tales (1996-04-18)</span>
-12. <span title="#power_metal">Stratovarius - Episode (1996-04-24)</span>
-13. <span title="#power_metal">Iced Earth - The Dark Saga (1996-05-20)</span>
-14. <span title="#power_metal">Stratovarius - Visions (1997-04-23)</span>
-15. <span title="#power_metal">HammerFall - Glory to the Brave (1997-10-20)</span>
-16. <span title="#power_metal #symphonic_metal">Rhapsody - Legendary Tales (1997-10-27)</span>
-17. <span title="#symphonic_metal">Nightwish - Angels Fall First (1997-11-01)</span>
-18. <span title="#power_metal">Edguy - Vain Glory Opera (1998-01-15)</span>
-19. <span title="#power_metal">Helloween - Better Than Raw (1998-03-04)</span>
-20. <span title="#power_metal">Blind Guardian - Nightfall in Middle-Earth (1998-04-24)</span>
-21. <span title="#power_metal #heavy_metal">Iced Earth - Something Wicked This Way Comes (1998-06-17)</span>
-22. <span title="#power_metal">HammerFall - Legacy of Kings (1998-09-18)</span>
-23. <span title="#power_metal">Stratovarius - Destiny (1998-09-26)</span>
-24. <span title="#power_metal #symphonic_metal">Rhapsody - Symphony of Enchanted Lands (1998-10-05)</span>
-25. <span title="#symphonic_metal">Nightwish - Oceanborn (1998-12-07)</span>
-26. <span title="#power_metal">Kamelot - The Fourth Legacy (1999)</span>
-27. <span title="#melodic_death_metal">Children of Bodom - Hatebreeder (1999-04-21)</span>
-28. <span title="#power_metal">Sonata Arctica - Ecliptica (1999-08-29)</span>
-29. <span title="#power_metal">Demons & Wizards - Demons & Wizards (2000-01-11)</span>
-30. <span title="#power_metal">Stratovarius - Infinite (2000-02-23)</span>
-31. <span title="#symphonic_metal">Nightwish - Wishmaster (2000-05-02)</span>
-32. <span title="#power_metal">Sonata Arctica - Successor (2000-08-07)</span>
-33. <span title="#power_metal">HammerFall - Renegade (2000-08-21)</span>
-34. <span title="#power_metal">Helloween - The Dark Ride (2000-10-21)</span>
-35. <span title="#power_metal #symphonic_metal">Rhapsody - Dawn of Victory (2000-10-25)</span>
-36. <span title="#melodic_death_metal">Children of Bodom - Follow the Reaper (2000-10-30)</span>
-37. <span title="#power_metal">Sonata Arctica - Silence (2001-01)</span>
-38. <span title="#power_metal #symphonic_metal">Avantasia - The Metal Opera (2001-01-22)</span>
-39. <span title="#power_metal">Kamelot - Karma (2001-05-07)</span>
-40. <span title="#power_metal">Iced Earth - Horror Show (2001-06-21)</span>
-41. <span title="#power_metal">Gamma Ray - No World Order (2001-09-10)</span>
-42. <span title="#power_metal">Edguy - Mandrake (2001-09-24)</span>
-43. <span title="#power_metal">Angra - Rebirth (2001-10-24)</span>
-44. <span title="#power_metal #symphonic_metal">Rhapsody - Rain of a Thousand Flames (2001-12-19)</span>
-45. <span title="#power_metal">Blind Guardian - A Night at the Opera (2002-03-05)</span>
-46. <span title="#power_metal #symphonic_metal">Rhapsody - Power of the Dragonflame (2002-03-18)</span>
-47. <span title="#power_metal #heavy_metal">Dream Evil - Dragonslayer (2002-04-10)</span>
-48. <span title="#heavy_metal">Manowar - Warriors of the World (2002-05-27)</span>
-49. <span title="#symphonic_metal">Nightwish - Century Child (2002-06-24)</span>
-50. <span title="#power_metal #heavy_metal">HammerFall - Crimson Thunder (2002-10-23)</span>
-51. <span title="#melodic_death_metal">Children of Bodom - Hate Crew Deathroll (2003-01-06)</span>
-52. <span title="#power_metal">Kamelot - Epica (2003-01-13)</span>
-53. <span title="#power_metal">Masterplan - Masterplan (2003-01-20)</span>
-54. <span title="#power_metal">DragonForce - Valley of the Damned (2003-01-27)</span>
-55. <span title="#power_metal">Sonata Arctica - Winterheart's Guild (2003-02-21)</span>
-56. <span title="#power_metal">Sonata Arctica - Takatalvi (2003-11-21)</span>
-57. <span title="#power_metal #heavy_metal">Iced Earth - The Glorious Burden (2004-01-11)</span>
-58. <span title="#power_metal">Edguy - Hellfire Club (2004-03-15)</span>
-59. <span title="#power_metal">DragonForce - Sonic Firestorm (2004-03-24)</span>
-60. <span title="#symphonic_metal">Nightwish - Once (2004-06-04)</span>
-61. <span title="#melodic_death_metal">Wintersun - Wintersun (2004-08-25)</span>
-62. <span title="#whalecore #progressive_metal #sludge_metal">Mastodon - Leviathan (2004-08-31)</span>
-63. <span title="#power_metal">Angra - Temple of Shadows (2004-09-06)</span>
-64. <span title="#power_metal">Sonata Arctica - Reckoning Night (2004-10-06)</span>
-65. <span title="#power_metal">Kamelot - The Black Halo (2005-02-16)</span>
-66. <span title="#power_metal">HammerFall - Chapter V: Unbent, Unbowed, Unbroken (2005-03-02)</span>
-67. <span title="#power_metal">Sabaton - Primo Victoria (2005-03-04)</span>
-68. <span title="#metal #hard_rock">Avenged Sevenfold - City of Evil (2005-06-07)</span>
-69. <span title="#power_metal">Demons & Wizards - Touched by the Crimson King (2005-06-27)</span>
-70. <span title="#power_metal">DragonForce - Inhuman Rampage (2005-12-28)</span>
-71. <span title="#power_metal">Edguy - Rocket Ride (2006-01-20)</span>
-72. <span title="#power_metal">Sonata Arctica - For The Sake Of Revenge (2006-03-24)</span>
-73. <span title="#melodic_death_metal">Children of Bodom - Are You Dead Yet? (2006-06-06)</span>
-74. <span title="#power_metal">Sabaton - Attero Dominatus (2006-07-28)</span>
-75. <span title="#power_metal">HammerFall - Threshold (2006-08)</span>
-76. <span title="#power_metal">Blind Guardian - A Twist in the Myth (2006-08-30)</span>
-77. <span title="#symphonic_metal #epic_metal #power_metal">Rhapsody of Fire - Triumph or Agony (2006-09-25)</span>
-78. <span title="#power_metal #symphonic_metal">Kamelot - Ghost Opera (2007-03-29)</span>
-79. <span title="#power_metal">Sonata Arctica - Unia (2007-05-23)</span>
-80. <span title="#progressive_metal">Symphony X - Paradise Lost (2007-06-22)</span>
-81. <span title="#symphonic_metal">Nightwish - Dark Passion Play (2007-09-26)</span>
-82. <span title="#power_metal">Helloween - Gambling with the Devil (2007-10-23)</span>
-83. <span title="#power_metal">Avantasia - The Scarecrow (2008-01-23)</span>
-84. <span title="#power_metal">Sabaton - The Art of War (2008-05-30)</span>
-85. <span title="#power_metal">DragonForce - Ultra Beatdown (2008-08-20)</span>
-86. <span title="#power_metal #heavy_metal">HammerFall - No Sacrifice, No Victory (2009-02-18)</span>
-87. <span title="#folk_metal #power_metal #pirate_metal">Alestorm - Black Sails at Midnight (2009-04)</span>
-88. <span title="#power_metal">Powerwolf - Bible Of The Beast (2009-04-27)</span>
-89. <span title="#progressive_metal #symphonic_metal #power_metal">Sonata Arctica - The Days of Grays (2009-09-08)</span>
-90. <span title="#power_metal">Avantasia - Angel of Babylon (2010-03-31)</span>
-91. <span title="#power_metal">Avantasia - The Wicked Symphony (2010-03-31)</span>
-92. <span title="#power_metal">Sabaton - Coat of Arms (2010-05-21)</span>
-93. <span title="#power_metal">Blind Guardian - At the Edge of Time (2010-07-30)</span>
-94. <span title="#melodic_death_metal #modern_metal #power_metal">Amaranthe - Amaranthe (2011-04-11)</span>
-95. <span title="#power_metal">Powerwolf - Blood of the Saints (2011-07-29)</span>
-96. <span title="#symphonic_metal">Nightwish - Imaginaerum (2011-11-02)</span>
-97. <span title="#power_metal">Sabaton - Carolus Rex (2012-05-22)</span>
-98. <span title="#2013 #power_metal">Amaranthe - The Nexus (2013-03-13)</span>
-99. <span title="#power_metal">Sabaton - Heroes (2014-05-16)</span>
-100. <span title="#power_metal">Blind Guardian - Beyond the Red Mirror (2015-01-28)</span>
+
+_________________
+
+<ol class="albums">
+<li data-cover="https://img.discogs.com/EdSZbcoz4dxDT6m3xqQQA2bXWmk=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075050-1483092089-2650.jpeg.jpg" data-tags="heavy metal" role="button">
+Manowar - Kings of Metal (1988-11-18)
+</li>
+<li data-cover="https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg" data-tags="power metal" role="button">
+Gamma Ray - Heading For Tomorrow (1990-02-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae908c04-9df5-4f10-8036-95c6733e2aa5/1280872808-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - Tales From The Twilight World (1990-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/c31686ee-fa0c-3768-9339-09e913147253/1282237285-500.jpg" data-tags="power metal, heavy metal, thrash metal" role="button">
+Iced Earth - Night of the Stormrider (1991-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/99ea0a72-1d34-4172-95d9-36c8f305ab12/27527815932-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - Somewhere Far Beyond (1992-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/050e7238-9751-4521-91b6-89c672eac590/6734728782-500.jpg" data-tags="power metal" role="button">
+Angra - Angels Cry (1993-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ed7f38a-8560-3b38-9929-e16a068ec713/7490434909-500.jpg" data-tags="power metal, heavy metal" role="button">
+Iced Earth - Burnt Offerings (1995-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/de0d36bc-fce4-4e93-afd1-08f9ebbdd775/6867304773-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - Imaginations From The Other Side (1995-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/b77474b9-d4a5-4e54-9376-376be8f91e37/10070900174-500.jpg" data-tags="power metal" role="button">
+Gamma Ray - Land of the Free (1995-05-29)
+</li>
+<li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
+Helloween - The Time Of The Oath (1996-02-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4a4e75b-18cf-3da8-92e8-6dc0be5a9918/7844681438-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - The Forgotten Tales (1996-04-18)
+</li>
+<li data-cover="https://img.discogs.com/RZxk4Mg5bJrQ2rkerRu2buGvPGs=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3335168-1326266974.jpeg.jpg" data-tags="power metal" role="button">
+Stratovarius - Episode (1996-04-24)
+</li>
+<li data-cover="https://img.discogs.com/WeOpxeolCLMCOCFdIDxAM5TCnOk=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092807-1446529825-4734.jpeg.jpg" data-tags="power metal" role="button">
+Iced Earth - The Dark Saga (1996-05-20)
+</li>
+<li data-cover="https://img.discogs.com/9lJr_62oQ2YQN3J80Lq1L1Qitas=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5624976-1398299800-1407.jpeg.jpg" data-tags="power metal" role="button">
+Stratovarius - Visions (1997-04-23)
+</li>
+<li data-cover="https://img.discogs.com/zgQnPXdX_1IGwYpZaGUJ-15VAUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296588-1585598536-4340.jpeg.jpg" data-tags="power metal" role="button">
+HammerFall - Glory to the Brave (1997-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b038ec56-cf0e-48fd-90fd-123144995d17/1290590793-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Rhapsody - Legendary Tales (1997-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/2756c819-b6d7-3052-9ff8-8c05e65eb5df/8141541570-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Angels Fall First (1997-11-01)
+</li>
+<li data-cover="https://img.discogs.com/fQnwI0aU_V5W90p504QELel7gsQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614448-1328826638.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Vain Glory Opera (1998-01-15)
+</li>
+<li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="power metal" role="button">
+Helloween - Better Than Raw (1998-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a5c27001-6dba-31a8-9f71-d50d89b0348b/7450806557-500.jpg" data-tags="power metal, heavy metal" role="button">
+Iced Earth - Something Wicked This Way Comes (1998-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/f49c361e-fbac-4aac-b11d-a79dc7a8be73/1282074689-500.jpg" data-tags="power metal" role="button">
+HammerFall - Legacy of Kings (1998-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/3186a249-7d7a-495b-95c3-901877ed72c8/2137862723-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Destiny (1998-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ca0fbda-903c-4b64-a37b-8b69d179b227/2498043559-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Rhapsody - Symphony of Enchanted Lands (1998-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Oceanborn (1998-12-07)
+</li>
+<li data-cover="https://img.discogs.com/gSg58eDMiqGerChL-r4SeRDPI9U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12359483-1533657074-1211.jpeg.jpg" data-tags="power metal" role="button">
+Kamelot - The Fourth Legacy (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/704614f7-83f8-498a-b9ff-6ddec53300bf/4264295325-500.jpg" data-tags="melodic death metal" role="button">
+Children of Bodom - Hatebreeder (1999-04-21)
+</li>
+<li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Ecliptica (1999-08-29)
+</li>
+<li data-cover="https://img.discogs.com/DUuhcvDX-7L4TO6vwxhwHY79VtQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14373443-1573229582-5890.jpeg.jpg" data-tags="power metal" role="button">
+Demons & Wizards - Demons & Wizards (2000-01-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/82550065-2f56-4a1c-8b2a-c0362d499c05/1121197212-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Infinite (2000-02-23)
+</li>
+<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Wishmaster (2000-05-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/494fd0f7-5cb4-4e69-a1ad-f6df305e0ff6/8691948897-500.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Successor (2000-08-07)
+</li>
+<li data-cover="https://img.discogs.com/zgQnPXdX_1IGwYpZaGUJ-15VAUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296588-1585598536-4340.jpeg.jpg" data-tags="power metal" role="button">
+HammerFall - Renegade (2000-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/351e5578-2bdd-452e-b4ba-b2d13518eeb1/6834755855-500.jpg" data-tags="power metal" role="button">
+Helloween - The Dark Ride (2000-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/bea18014-d2f3-3443-bb02-8d8184321775/7270873048-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Rhapsody - Dawn of Victory (2000-10-25)
+</li>
+<li data-cover="https://img.discogs.com/Iuh_3hhVbLW2FRcA4SxICKl_OzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2962012-1310060734.jpeg.jpg" data-tags="melodic death metal" role="button">
+Children of Bodom - Follow the Reaper (2000-10-30)
+</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Silence (2001-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/1e787755-4982-49f6-8e35-cbb7656c1116/17513910022-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Avantasia - The Metal Opera (2001-01-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/dcaa1f02-3bad-4337-be7e-c769fd9df9e7/1287074936-500.jpg" data-tags="power metal" role="button">
+Kamelot - Karma (2001-05-07)
+</li>
+<li data-cover="https://img.discogs.com/WeOpxeolCLMCOCFdIDxAM5TCnOk=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092807-1446529825-4734.jpeg.jpg" data-tags="power metal" role="button">
+Iced Earth - Horror Show (2001-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ae31164-0811-48b4-85a3-5763dcf8493c/25711256662-500.jpg" data-tags="power metal" role="button">
+Gamma Ray - No World Order (2001-09-10)
+</li>
+<li data-cover="https://img.discogs.com/fQnwI0aU_V5W90p504QELel7gsQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614448-1328826638.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Mandrake (2001-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ba73082-04fe-3bf4-a601-ec0b26e083e9/1555934640-500.jpg" data-tags="power metal" role="button">
+Angra - Rebirth (2001-10-24)
+</li>
+<li data-cover="https://img.discogs.com/jJ7H6GhxKEh4vAMa6V4UTlPvgGE=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13473203-1554877656-8602.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
+Rhapsody - Rain of a Thousand Flames (2001-12-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb4a053e-7139-49e4-9aa6-bf1f29299b3c/1633190014-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - A Night at the Opera (2002-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Rhapsody - Power of the Dragonflame (2002-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/48f96bea-8bb4-4522-ad41-497590121c7b/14160241341-500.jpg" data-tags="power metal, heavy metal" role="button">
+Dream Evil - Dragonslayer (2002-04-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0d8f3e3-58f8-4990-908a-1158dd70d9c2/5961013286-500.jpg" data-tags="heavy metal" role="button">
+Manowar - Warriors of the World (2002-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Century Child (2002-06-24)
+</li>
+<li data-cover="https://img.discogs.com/zgQnPXdX_1IGwYpZaGUJ-15VAUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296588-1585598536-4340.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
+HammerFall - Crimson Thunder (2002-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/fa0410bd-35e3-43de-aa19-efa559a485b3/3192372073-500.jpg" data-tags="melodic death metal" role="button">
+Children of Bodom - Hate Crew Deathroll (2003-01-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/4c5b22d5-e901-3e0c-89b1-ded24953449a/1287069532-500.jpg" data-tags="power metal" role="button">
+Kamelot - Epica (2003-01-13)
+</li>
+<li data-cover="https://img.discogs.com/rMFVUHIc2MduWXIPV2PvZwStR-o=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11628598-1519674020-4122.jpeg.jpg" data-tags="power metal" role="button">
+Masterplan - Masterplan (2003-01-20)
+</li>
+<li data-cover="https://img.discogs.com/lTfVC2Yd0qirT1ojk-KSuJmIBlk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132626-1317270178.jpeg.jpg" data-tags="power metal" role="button">
+DragonForce - Valley of the Damned (2003-01-27)
+</li>
+<li data-cover="https://img.discogs.com/1fhgUNs-BErRSemsn-N-lu0Wbno=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9122261-1475159445-3963.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Winterheart's Guild (2003-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/a451a0f9-d759-4fc6-8a10-3b9794e9216c/10591666065-500.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Takatalvi (2003-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/67511813-9166-4d72-891d-a05e4cef108e/8414889362-500.jpg" data-tags="power metal, heavy metal" role="button">
+Iced Earth - The Glorious Burden (2004-01-11)
+</li>
+<li data-cover="https://img.discogs.com/fQnwI0aU_V5W90p504QELel7gsQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614448-1328826638.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Hellfire Club (2004-03-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f34075b-ed8f-4582-bc65-29c8cd0dd662/13245906998-500.jpg" data-tags="power metal" role="button">
+DragonForce - Sonic Firestorm (2004-03-24)
+</li>
+<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Once (2004-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/b4f9f593-9df6-4b7c-90c9-94fac1e96ef5/24755686201-500.jpg" data-tags="melodic death metal" role="button">
+Wintersun - Wintersun (2004-08-25)
+</li>
+<li data-cover="https://via.placeholder.com/150" data-tags="whalecore, progressive metal, sludge metal" role="button">
+Mastodon - Leviathan (2004-08-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
+Angra - Temple of Shadows (2004-09-06)
+</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Reckoning Night (2004-10-06)
+</li>
+<li data-cover="https://img.discogs.com/QwK-r1ldXQjtGj0UzIhY8bE2B1E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10881431-1505865280-5394.jpeg.jpg" data-tags="power metal" role="button">
+Kamelot - The Black Halo (2005-02-16)
+</li>
+<li data-cover="https://img.discogs.com/zgQnPXdX_1IGwYpZaGUJ-15VAUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296588-1585598536-4340.jpeg.jpg" data-tags="power metal" role="button">
+HammerFall - Chapter V: Unbent, Unbowed, Unbroken (2005-03-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/47332f21-e56f-485f-a353-df65e2478e49/5389029177-500.jpg" data-tags="power metal" role="button">
+Sabaton - Primo Victoria (2005-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
+Avenged Sevenfold - City of Evil (2005-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/98ec9bed-7912-3faa-994d-39b045c2842d/4309139312-500.jpg" data-tags="power metal" role="button">
+Demons & Wizards - Touched by the Crimson King (2005-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">
+DragonForce - Inhuman Rampage (2005-12-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ffeaf25-cb9c-4f23-a6e6-17079b91b3eb/3921954025-500.jpg" data-tags="power metal" role="button">
+Edguy - Rocket Ride (2006-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/05a01238-7c55-3350-b66d-f69f839f6cae/4742571296-500.jpg" data-tags="power metal" role="button">
+Sonata Arctica - For The Sake Of Revenge (2006-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/0c087098-f0ef-4291-b12f-55305d11cfc2/28879561332-500.jpg" data-tags="melodic death metal" role="button">
+Children of Bodom - Are You Dead Yet? (2006-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcc14526-b788-420f-9c40-58f1735e8053/4820480600-500.jpg" data-tags="power metal" role="button">
+Sabaton - Attero Dominatus (2006-07-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f2602ad-224e-42d1-ad43-186883766a95/22298558263-500.jpg" data-tags="power metal" role="button">
+HammerFall - Threshold (2006-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/aadad9c8-6abd-4b27-816b-1c904c58533d/1484443030-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - A Twist in the Myth (2006-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-500.jpg" data-tags="symphonic metal, epic metal, power metal" role="button">
+Rhapsody of Fire - Triumph or Agony (2006-09-25)
+</li>
+<li data-cover="https://img.discogs.com/gSg58eDMiqGerChL-r4SeRDPI9U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12359483-1533657074-1211.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
+Kamelot - Ghost Opera (2007-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/31f67aec-002f-4b54-9aec-ae39095c7992/22559397129-500.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Unia (2007-05-23)
+</li>
+<li data-cover="https://img.discogs.com/5vy2hHgKoje6nFvIPSpCvY2jMoA=/fit-in/600x439/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16490664-1608061264-7713.jpeg.jpg" data-tags="progressive metal" role="button">
+Symphony X - Paradise Lost (2007-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Dark Passion Play (2007-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3212ee8-b50d-3511-b830-19bad4070c3d/20719326770-500.jpg" data-tags="power metal" role="button">
+Helloween - Gambling with the Devil (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/cf68f77f-7e28-4afb-b51e-e15b42a86a3e/8143822806-500.jpg" data-tags="power metal" role="button">
+Avantasia - The Scarecrow (2008-01-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcb0bdfc-1a99-4478-9002-d6ab9e7353cc/24486169115-500.jpg" data-tags="power metal" role="button">
+Sabaton - The Art of War (2008-05-30)
+</li>
+<li data-cover="https://img.discogs.com/jhIpxvsl_DaZCKiuOs4P3s_ldbA=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14191914-1569597066-6966.jpeg.jpg" data-tags="power metal" role="button">
+DragonForce - Ultra Beatdown (2008-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/36039c76-34a4-4050-8498-07c56d2a41ae/1282071934-500.jpg" data-tags="power metal, heavy metal" role="button">
+HammerFall - No Sacrifice, No Victory (2009-02-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/385ad8b3-cee4-36c6-869d-61ee12a65648/15392267057-500.jpg" data-tags="folk metal, power metal, pirate metal" role="button">
+Alestorm - Black Sails at Midnight (2009-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b82be3f-5e1b-4e4b-b2f0-d6db9056b183/11058782239-500.jpg" data-tags="power metal" role="button">
+Powerwolf - Bible Of The Beast (2009-04-27)
+</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="progressive metal, symphonic metal, power metal" role="button">
+Sonata Arctica - The Days of Grays (2009-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/57948363-574a-4bd7-bdda-05e8621ef4dc/24801393195-500.jpg" data-tags="power metal" role="button">
+Avantasia - Angel of Babylon (2010-03-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/df5bf691-a022-4906-9b9e-b94902479ac5/17061803038-500.jpg" data-tags="power metal" role="button">
+Avantasia - The Wicked Symphony (2010-03-31)
+</li>
+<li data-cover="https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg" data-tags="power metal" role="button">
+Sabaton - Coat of Arms (2010-05-21)
+</li>
+<li data-cover="https://img.discogs.com/O58cLxHCB5x0heWdmiOUA4WGle8=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1926153-1481137640-6021.jpeg.jpg" data-tags="power metal" role="button">
+Blind Guardian - At the Edge of Time (2010-07-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5f25fc0-1041-494c-81bf-94cf6c84f11d/9774641652-500.jpg" data-tags="melodic death metal, modern metal, power metal" role="button">
+Amaranthe - Amaranthe (2011-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c0f0ece-6477-47f4-a158-4d21d809d007/11058813454-500.jpg" data-tags="power metal" role="button">
+Powerwolf - Blood of the Saints (2011-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3be8704-1c5d-4d7b-a7c8-7688ca911fc9/4133899682-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Imaginaerum (2011-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">
+Sabaton - Carolus Rex (2012-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="2013, power metal" role="button">
+Amaranthe - The Nexus (2013-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/f1dee7c7-0896-480e-9d3b-a73fdfa4feb5/13186707091-500.jpg" data-tags="power metal" role="button">
+Sabaton - Heroes (2014-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e9772d7-04c9-471d-b9e4-f5f90724b8ee/9026038350-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - Beyond the Red Mirror (2015-01-28)
+</li>
+</ol>

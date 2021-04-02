@@ -7,12 +7,12 @@ title: black
 <li data-cover="http://coverartarchive.org/release/c6e9caed-aeb3-4de7-b47e-0c9c9b91a1dc/6619076015-500.jpg" data-tags="black metal">Burzum - Burzum (1992-03)</li>
 <li data-cover="http://coverartarchive.org/release/c75ff366-2c7f-4c58-b900-391d2b5aaf33/7290226551-500.jpg" data-tags="black metal">Darkthrone - A Blaze in the Northern Sky (1992-03-02)</li>
 <li data-cover="http://coverartarchive.org/release/e2f25d41-736c-40e9-83b3-678f42873eb3/14548660035-500.jpg" data-tags="black metal">Darkthrone - Transilvanian Hunger (1994-02-17)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal, symphonic black metal">Emperor - In the Nightside Eclipse (1994-02-21)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">Satyricon - Dark Medieval Times (1994-03)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">Immortal - Sons of Northern Darkness (2002-02-05)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, symphonic black metal">Emperor - In the Nightside Eclipse (1994-02-21)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">Satyricon - Dark Medieval Times (1994-03)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">Immortal - Sons of Northern Darkness (2002-02-05)</li>
 <li data-cover="https://img.discogs.com/lR9OILM_9YX_f7xYHNGmT4wU7gw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2014630-1323624467.jpeg.jpg" data-tags="house, detroit, deep house">Moodymann - Black Mahogani (2004-05)</li>
 <li data-cover="http://coverartarchive.org/release/696527a2-2afc-4ba6-a5d7-c96f3f72aca5/6845856977-500.jpg" data-tags="black">Flipsyde - Happy Birthday (2005-11-11)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="deathcore">As Blood Runs Black - Allegiance (2006-06-05)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="deathcore">As Blood Runs Black - Allegiance (2006-06-05)</li>
 <li data-cover="http://coverartarchive.org/release/b58e040e-e64c-4d77-bbec-5dde4755de8a/28279457366-500.jpg" data-tags="black, yellow, wiz khalifa, and, blac a yel">Wiz Khalifa - Black And Yellow (2010-09-14)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol>
-<li data-cover="https://via.placeholder.com/150" data-tags="industrial">
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial">
 Skinny Puppy - Bites (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bb6a210-a5c3-34c6-8b15-6a1cfe1f06cc/15827303733-500.jpg" data-tags="thrash metal, black metal, 1985">
@@ -30,7 +30,7 @@ Celtic Frost - To Mega Therion (1985)
 <li data-cover="https://img.discogs.com/zheQEkzuYjv5U1gVz-Vr5rHuRtY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-517703-1274205528.jpeg.jpg" data-tags="80s, new wave">
 The Communards - Communards (1986)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Bathory - Under the Sign of the Black Mark (1987-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/682ac206-fba0-49ce-8a1c-37373b110ad1/7042253296-500.jpg" data-tags="80s">
@@ -51,10 +51,10 @@ Immortal - Pure Holocaust (1993-11-01)
 <li data-cover="http://coverartarchive.org/release/e2f25d41-736c-40e9-83b3-678f42873eb3/14548660035-500.jpg" data-tags="black metal">
 Darkthrone - Transilvanian Hunger (1994-02-17)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal, symphonic black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, symphonic black metal">
 Emperor - In the Nightside Eclipse (1994-02-21)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Satyricon - Dark Medieval Times (1994-03)
 </li>
 <li data-cover="https://img.discogs.com/TLuei5VFj9jikf-RXnvqh4ojR8U=/fit-in/600x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5956936-1407345856-2710.jpeg.jpg" data-tags="black metal">
@@ -96,7 +96,7 @@ Emperor - Reverence (1997-03-12)
 <li data-cover="https://img.discogs.com/BnsgRIQxGt6QN05UtwQIY9JL01Y=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17938378-1616291813-3629.jpeg.jpg" data-tags="black, notoriusbig">
 The Notorious B.I.G. - Mo Money Mo Problems (1997-07-21)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Gehenna - Adimiron Black (1998-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7008d864-5b99-4001-99c6-9f163caeeca2/21075778575-500.jpg" data-tags="viking metal, black metal">
@@ -111,7 +111,7 @@ Chic - Live At The Budokan (1999-02-23)
 <li data-cover="http://coverartarchive.org/release/32ebc0bd-4573-3a9b-9d6d-3a9e0556c166/3479063559-500.jpg" data-tags="symphonic black metal, black metal">
 Dimmu Borgir - Spiritual Black Dimensions (1999-03-01)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Kampfar - Fra Underverdenen (1999-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3016793-7d45-40fd-983d-f2c7134e278a/25200673286-500.jpg" data-tags="pop, female vocalists, dance, latin, brasil">
@@ -150,16 +150,16 @@ Nargaroth - Rasluka Part II (2002)
 <li data-cover="http://coverartarchive.org/release/1a0ba8b4-7e36-436f-8919-23911dabca90/4755919798-500.jpg" data-tags="black metal, symphonic black metal">
 Astarte - Quod Superius Sicut Inferius (2002-02-01)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Immortal - Sons of Northern Darkness (2002-02-05)
 </li>
 <li data-cover="https://img.discogs.com/_nhOTZTclsomWTCRVv2VpYGGha4=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681273-1147069300.jpeg.jpg" data-tags="depressive black metal, suicidal black metal, black metal, black doom metal">
 Forgotten Tomb - Songs to Leave (2002-08-04)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="grindcore, death metal, industrial death metal, 2002">
+<li data-cover="https://via.placeholder.com/450" data-tags="grindcore, death metal, industrial death metal, 2002">
 The Berzerker - Dissimulate (2002-08-26)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="symphonic black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic black metal">
 Tvangeste - FireStorm (2002-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9d5452a-e5b1-4281-8b42-07773144a1a9/19111696998-500.jpg" data-tags="black metal, melodic black metal, symphonic black metal">
@@ -171,7 +171,7 @@ Graveworm - Engraved in Black (2003-06-23)
 <li data-cover="http://coverartarchive.org/release/e3223417-298a-49af-80d5-e5c875a16183/13323516676-500.jpg" data-tags="indie rock, rock, interpol">
 Interpol - The Black EP (2003-08-12)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="namie amuro">
+<li data-cover="https://via.placeholder.com/450" data-tags="namie amuro">
 安室奈美恵 - STYLE (2003-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcd1474d-1242-3190-b8da-ed87a2547f58/25788869776-500.jpg" data-tags="avant-garde, avant-garde metal, experimental">
@@ -204,7 +204,7 @@ Graveworm - (N)utopia (2005-01-11)
 <li data-cover="https://img.discogs.com/85TRZwIpHvHvnD6DPnIt_16_7Hs=/fit-in/287x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4930855-1380135416-5744.jpeg.jpg" data-tags="black metal">
 Peccatum - The Moribund People (2005-07)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="namie amuro">
+<li data-cover="https://via.placeholder.com/450" data-tags="namie amuro">
 安室奈美恵 - Queen of Hip-Pop (2005-07-13)
 </li>
 <li data-cover="https://img.discogs.com/_4HN8z9XjaQh_3qSeTtjeHK7_DU=/fit-in/421x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6357018-1417261915-3747.jpeg.jpg" data-tags="pop, female vocalists">
@@ -216,19 +216,19 @@ Montreal - Alles auf Schwarz (2005-10-20)
 <li data-cover="http://coverartarchive.org/release/696527a2-2afc-4ba6-a5d7-c96f3f72aca5/6845856977-500.jpg" data-tags="black">
 Flipsyde - Happy Birthday (2005-11-11)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Darkthrone - The Cult Is Alive (2006-02-27)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal, melodic black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, melodic black metal">
 Keep of Kalessin - Armada (2006-04-03)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="progressive metal, progressive black metal, black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive black metal, black metal">
 Ihsahn - The Adversary (2006-04-10)
 </li>
 <li data-cover="https://img.discogs.com/pVa8ViN8xZ1a5LhIJQSwhwoTDNc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2840956-1572891029-1201.jpeg.jpg" data-tags="hip hop, dirty south, southern rap, south, gucci mane">
 Pastor Troy - Stay Tru (2006-04-18)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="deathcore">
+<li data-cover="https://via.placeholder.com/450" data-tags="deathcore">
 As Blood Runs Black - Allegiance (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/17a846de-17d7-4bba-b628-ffecf724d5e1/6237246119-500.jpg" data-tags="black metal">
@@ -252,7 +252,7 @@ Astarte - Demonized (2007-02-26)
 <li data-cover="https://img.discogs.com/rB2wIXWnbx0Juu5uQvv6HL7WeA8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1967254-1255597981.jpeg.jpg" data-tags="black metal">
 Arkhon Infaustus - Orthodoxyn (2007-05-31)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="death metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="death metal">
 Crionics - Neu Throne (2007-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/31d6e34e-48b8-4893-877c-fc9c736200c4/2411022826-500.jpg" data-tags="black metal">
@@ -273,7 +273,7 @@ Blutklinge - Reflection of a Bleak Mind (2007-12-22)
 <li data-cover="http://coverartarchive.org/release/226ded28-4f33-4067-81eb-815e81d93f7e/1060436836-500.jpg" data-tags="black metal, ambient, funeral doom">
 Nortt - Galgenfrist (2008-02-28)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="progressive metal, progressive black metal, black metal, 2008">
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive black metal, black metal, 2008">
 Ihsahn - angL (2008-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d99e08d4-7296-4caf-9aa8-def9985ad9a2/11356617677-500.jpg" data-tags="black metal">
@@ -312,7 +312,7 @@ Anaal Nathrakh - Passion (2011-05-17)
 <li data-cover="http://coverartarchive.org/release/5cd6b6d7-2e05-4099-ac57-34fff58628bb/15876222927-500.jpg" data-tags="progressive metal, 2012">
 Ihsahn - Eremita (2012-06-18)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="2012">
+<li data-cover="https://via.placeholder.com/450" data-tags="2012">
 Scott Walker - Bish Bosch (2012-12-03)
 </li>
 <li data-cover="https://img.discogs.com/GDdEqcI5FkWMcnhNnHMhPV26qkg=/fit-in/600x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11576948-1518854988-9070.jpeg.jpg" data-tags="2014">

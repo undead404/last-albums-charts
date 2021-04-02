@@ -8,7 +8,7 @@ title: electronic
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house">Daft Punk - Discovery (2001-02-26)</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout">Röyksopp - Melody A.M. (2001-10-08)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="indie, electronic">The Postal Service - Give Up (2003-02-18)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, electronic">The Postal Service - Give Up (2003-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic">Thom Yorke - The Eraser (2006-07-05)</li>
 <li data-cover="https://img.discogs.com/iuOQqNStC3sJ5-dAXbTifFD7gMc=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949614-1255264923.jpeg.jpg" data-tags="electronic, 2007">LCD Soundsystem - Sound Of Silver (2007-03-07)</li>
 <li data-cover="https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg" data-tags="electronic, breakbeat">The Prodigy - Invaders Must Die (2009-02-18)</li>
@@ -31,7 +31,7 @@ Björk - Debut (1993-07-12)
 <li data-cover="https://img.discogs.com/3iegZ_HzM2EWcgOWBaN3CfRedyo=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467428-1117836841.jpg.jpg" data-tags="electronic, 1993">
 Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="ambient">
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient">
 Global Communication - 76:14 (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock">
@@ -40,7 +40,7 @@ Nine Inch Nails - The Downward Spiral (1994-03-08)
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop">
 Portishead - Dummy (1994-08-22)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="trip-hop">
+<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop">
 Massive Attack - Protection (1994-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic">
@@ -55,7 +55,7 @@ The Chemical Brothers - Exit Planet Dust (1995-06-26)
 <li data-cover="http://coverartarchive.org/release/5992a7fd-6ade-3895-827a-a7dfdf6ebb51/26921224002-500.jpg" data-tags="1996, electronic, hip-hop">
 DJ Shadow - Endtroducing..... (1996-09-16)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="idm, electronic">
+<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic">
 Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house">
@@ -97,7 +97,7 @@ The Knife - The Knife (2001-02-05)
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house">
 Daft Punk - Discovery (2001-02-26)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="electronic">
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic">
 Depeche Mode - Exciter (2001-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop">
@@ -121,13 +121,13 @@ múm - Finally We are No One (2002-05-20)
 <li data-cover="https://img.discogs.com/dwUp27qEL88PzCYRgc2iUrDGMlc=/fit-in/464x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7045755-1437218119-3187.png.jpg" data-tags="electronic">
 The Chemical Brothers - Come With Us (2002-08)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="trip-hop">
+<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop">
 Massive Attack - 100th Window (2002-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica">
 The Knife - Deep Cuts (2003-01-17)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="indie, electronic">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, electronic">
 The Postal Service - Give Up (2003-02-18)
 </li>
 <li data-cover="https://img.discogs.com/NrK3oMKunCuLcMkPk0LhUo3yNnM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-355324-1266478513.jpeg.jpg" data-tags="electronic, shoegaze">
@@ -136,13 +136,13 @@ M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
 <li data-cover="https://img.discogs.com/3imtXcCuKRr84Iub2qWFt89sBlc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6008186-1441842527-6938.jpeg.jpg" data-tags="electronic">
 Four Tet - Rounds (2003-05-05)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="alternative rock, alternative, 2003">
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, alternative, 2003">
 Radiohead - Hail to the Thief (2003-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic">
 Air - Talkie Walkie (2004-01-21)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="pop, electronic, dance">
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, electronic, dance">
 Scissor Sisters - Scissor Sisters (2004-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental">
@@ -172,7 +172,7 @@ Ladytron - Witching Hour (2005-07)
 <li data-cover="https://img.discogs.com/mdQJI41QVmFaX3dPa_5FCmS3khM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316345-1361556119-5610.jpeg.jpg" data-tags="electronic">
 Goldfrapp - Supernature (2005-08-22)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="electronic, indie, brazilian">
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, indie, brazilian">
 CSS - Cansei De Ser Sexy (2005-10)
 </li>
 <li data-cover="https://img.discogs.com/hACsmNuKVI2lYc4fXTyMYUpXFYc=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-198971-1177311339.jpeg.jpg" data-tags="electronic, 2006">
@@ -241,7 +241,7 @@ Daft Punk - Alive 2007 (2007-11-14)
 <li data-cover="https://img.discogs.com/gQGPAyX3XU9hGeQVSyhUQou_K6s=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2348005-1297509387.jpeg.jpg" data-tags="electronic, indietronica">
 MGMT - Time To Pretend (2007-12-25)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="trip-hop">
+<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop">
 Portishead - Third (2008-04-08)
 </li>
 <li data-cover="https://img.discogs.com/4T2QJIfBUdOU4k2Bg-x7PNP3VDw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4206131-1358553230-4089.jpeg.jpg" data-tags="electronic">
@@ -286,7 +286,7 @@ Crystal Castles - Crystal Castles (2010-05-18)
 <li data-cover="http://coverartarchive.org/release/e31eec90-e341-3acd-8ba4-9e26e9fd7eea/9173931560-500.jpg" data-tags="electronic">
 The Chemical Brothers - Further (2010-06-09)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="2010, electronic, electro pop">
+<li data-cover="https://via.placeholder.com/450" data-tags="2010, electronic, electro pop">
 3OH!3 - Streets of Gold (2010-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg" data-tags="electronic, soundtrack">

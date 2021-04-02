@@ -39,7 +39,7 @@ Burzum - Aske (1993-03)
 <li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="pop, alternative rock, norwegian">
 a-ha - Memorial Beach (1993-06-14)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Darkthrone - Under a Funeral Moon (1993-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6aac0b23-142d-3568-8fdc-5154220be48d/8068709253-500.jpg" data-tags="black metal">
@@ -51,10 +51,10 @@ Seigmen - Total (1994)
 <li data-cover="http://coverartarchive.org/release/e2f25d41-736c-40e9-83b3-678f42873eb3/14548660035-500.jpg" data-tags="black metal">
 Darkthrone - Transilvanian Hunger (1994-02-17)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal, symphonic black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, symphonic black metal">
 Emperor - In the Nightside Eclipse (1994-02-21)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Satyricon - Dark Medieval Times (1994-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg" data-tags="black metal">
@@ -90,7 +90,7 @@ Madrugada - Industrial Silence (1999)
 <li data-cover="http://coverartarchive.org/release/9601f688-674e-3908-acdf-820214dd9a46/4819640448-500.jpg" data-tags="norwegian, approved, to check out, milestones, sleepless, favs of nocci, decent, gothcore, gothic-darkwave, handleliste, waahh i love it, nice and dark, coming summer melancholy, darksky fm">
 Seigmen - Monument (1999)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Immortal - At the Heart of Winter (1999-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/32ebc0bd-4573-3a9b-9d6d-3a9e0556c166/3479063559-500.jpg" data-tags="symphonic black metal, black metal">
@@ -135,13 +135,13 @@ Röyksopp - Melody A.M. (2001-10-08)
 <li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop">
 Kings of Convenience - Versus (2001-10-22)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Immortal - Sons of Northern Darkness (2002-02-05)
 </li>
 <li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="pop">
 a-ha - Lifelines (2002-04-02)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="avant-garde metal, progressive metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal, progressive metal">
 Arcturus - The Sham Mirrors (2002-04-22)
 </li>
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian">
@@ -237,7 +237,7 @@ I - Between Two Worlds (2006-11-03)
 <li data-cover="https://img.discogs.com/Hc-kerojMLeDgG8YtSZ7CD4DH1U=/fit-in/451x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1185361-1199497793.jpeg.jpg" data-tags="gothic metal">
 Tristania - Illumination (2007-01-19)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal">
 Mayhem - Ordo Ad Chao (2007-04-23)
 </li>
 <li data-cover="https://img.discogs.com/M-pFRuNirZcVM7Pn5OHuLqa6C8M=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6668617-1481961616-5739.jpeg.jpg" data-tags="symphonic black metal, black metal">

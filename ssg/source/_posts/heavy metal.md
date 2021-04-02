@@ -10,7 +10,7 @@ title: heavy metal
 <li data-cover="http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg" data-tags="heavy metal, metal" role="button">Metallica - Metallica (1991-08-12)</li>
 <li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">Metallica - Reload (1997-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/f64e95fb-5e84-42c7-90e6-6cad939d8eec/3309838336-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Brave New World (2000-05-30)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="thrash metal" role="button">Metallica - Master of Puppets (2003)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="thrash metal" role="button">Metallica - Master of Puppets (2003)</li>
 <li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">Avenged Sevenfold - Avenged Sevenfold (2007-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/a826c9d4-f35e-436d-b218-818fc9beb841/12869034085-500.jpg" data-tags="thrash metal" role="button">Metallica - Death Magnetic (2008-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, 2010, heavy metal" role="button">Avenged Sevenfold - Nightmare (2010-07-23)</li>
@@ -189,7 +189,7 @@ Manowar - Louder Than Hell (1996-04-29)
 <li data-cover="https://img.discogs.com/7uugyL7EKpmzcHsSIH9l3RzD1ZQ=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10088901-1491408211-3665.jpeg.jpg" data-tags="hard rock, heavy metal" role="button">
 Metallica - Load (1996-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="progressive metal, progressive rock, metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive rock, metal" role="button">
 Tool - Ænima (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal, industrial, metal" role="button">
@@ -222,7 +222,7 @@ Rammstein - Mutter (2001-04-02)
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Tool - Lateralus (2001-05-14)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="nu metal, metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cd9b940-9a40-43d0-a6b9-f0a715f1539a/14972077221-500.jpg" data-tags="heavy metal" role="button">
@@ -231,13 +231,13 @@ Ozzy Osbourne - Down To Earth (2001-10-11)
 <li data-cover="http://coverartarchive.org/release/a0d8f3e3-58f8-4990-908a-1158dd70d9c2/5961013286-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Warriors of the World (2002-05-27)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="thrash metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="thrash metal" role="button">
 Metallica - Master of Puppets (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/9521fd78-f33c-4bea-a1d6-f9248ba8a9fb/14971786451-500.jpg" data-tags="heavy metal" role="button">
 Black Label Society - The Blessed Hellride (2003-03-29)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="hard rock, alternative metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="https://img.discogs.com/mTfwT4JCe43wbpCBxVbvPD1ZDLc=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15211201-1588165066-5840.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
@@ -249,10 +249,10 @@ Iron Maiden - Dance Of Death (2003-09-03)
 <li data-cover="http://coverartarchive.org/release/21478f60-2242-4c17-8fed-506581a14996/14503017209-500.jpg" data-tags="metal, alternative metal, heavy metal, hard rock, nu metal" role="button">
 Drowning Pool - Desensitized (2004-04-20)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="metalcore, groove metal, metal, thrash metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, metal, thrash metal" role="button">
 Lamb of God - Ashes Of The Wake (2004-08-30)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="whalecore, progressive metal, sludge metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal, sludge metal" role="button">
 Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/90eba311-3eee-4b46-8900-ad2e8fb7d8ba/14972006997-500.jpg" data-tags="heavy metal" role="button">

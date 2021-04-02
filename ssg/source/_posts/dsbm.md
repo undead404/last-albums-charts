@@ -36,7 +36,7 @@ Insane Clown Posse - Riddle Box (1995-10-10)
 <li data-cover="http://coverartarchive.org/release/da82d909-87f8-498e-a19d-715ec3942506/9995860894-500.jpg" data-tags="black metal" role="button">
 I Shalt Become - Wanderings (1996)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal, dark metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, dark metal" role="button">
 Bethlehem - Dictius Te Necare (1996-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4adc5b1-57f0-4cce-810c-2e395d53257d/10372216202-500.jpg" data-tags="black metal" role="button">
@@ -201,7 +201,7 @@ Lifelover - Konkurs (2008-10-10)
 <li data-cover="https://img.discogs.com/iwSvsNoVk3HRYMzjD23RMUSj328=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1580689-1230479328.jpeg.jpg" data-tags="depressive black metal, dsbm, finnish black metal, creamed my pants" role="button">
 Arvet - Ihmiskärsimys (2008-12-16)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="black metal, suicidal black metal, depressive black metal, dsbm, depressive suicidal black metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="black metal, suicidal black metal, depressive black metal, dsbm, depressive suicidal black metal" role="button">
 ... - Somebody Save Me (2009)
 </li>
 <li data-cover="https://img.discogs.com/_r2JKhHTe8oqQ5FSjtqZRQWo1bI=/fit-in/243x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1557068-1228174720.jpeg.jpg" data-tags="depressive black metal" role="button">

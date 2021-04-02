@@ -5,7 +5,7 @@ title: dark folk
 ![Giles Corey - Giles Corey (2011-04-30)](http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg "Giles Corey - Giles Corey (2011-04-30)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/01644ef1-8e69-3ada-aec3-d5ab9054eb55/28801957432-500.jpg" data-tags="neofolk" role="button">Death in June - But, What Ends When the Symbols Shatter? (1992-06-25)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="progressive death metal, progressive metal" role="button">Opeth - Morningrise (1996-06-24)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">Opeth - Morningrise (1996-06-24)</li>
 <li data-cover="http://coverartarchive.org/release/c6918bbe-4343-4235-a8c5-ca6a79cf60ac/1009676795-500.jpg" data-tags="folk, acoustic, neofolk" role="button">Empyrium - Where at Night the Wood Grouse Plays (1999-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/21fc81a5-dd05-459c-b528-f25a1044d395/16084072468-500.jpg" data-tags="noise, experimental" role="button">Death in June - All Pigs Must Die (2001-11-23)</li>
 <li data-cover="http://coverartarchive.org/release/370bd996-a648-4b02-ad41-083df8a208cb/12560286434-500.jpg" data-tags="neofolk, folk, dark folk" role="button">Empyrium - Weiland (2002-04)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/150" data-tags="experimental, 1968, avant-garde, avant-folk" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, 1968, avant-garde, avant-folk" role="button">
 Nico - The Marble Index (1968-09-19)
 </li>
 <li data-cover="https://img.discogs.com/PIUyGoXmgaDsHQb3eSLKgxDqVjY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-446106-1401542136-5263.jpeg.jpg" data-tags="1970" role="button">
@@ -60,7 +60,7 @@ Death in June - Rose Clouds of Holocaust (1995-02-24)
 <li data-cover="http://coverartarchive.org/release/cd7a8fc4-9ef2-4f9f-b47f-2d6c3ac421ea/25356747530-500.jpg" data-tags="folk" role="button">
 Ulver - Kveldssanger (1996-03)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="progressive death metal, progressive metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Morningrise (1996-06-24)
 </li>
 <li data-cover="https://img.discogs.com/Uid9iWlf6Ld_DM3CPheHXZ-ohbg=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475406-1427529197-1851.jpeg.jpg" data-tags="folk" role="button">

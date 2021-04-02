@@ -10,7 +10,7 @@ title: german
 <li data-cover="http://coverartarchive.org/release/b18729d7-287e-4519-9397-b9f3e079cd3d/2981256085-500.jpg" data-tags="industrial metal" role="button">Rammstein - Mutter (2001-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/014ed961-6515-371e-80c9-e4ce89e08c0e/4819589657-500.jpg" data-tags="german" role="button">Wir sind Helden - Die Reklamation (2003-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/2f55fcce-b536-3ec4-92f7-54f5f8fa1edf/21713078387-500.jpg" data-tags="industrial metal" role="button">Rammstein - Reise, Reise (2004-09-27)</li>
-<li data-cover="https://via.placeholder.com/150" data-tags="german, pop" role="button">Wir sind Helden - Von hier an blind (2005-09-23)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="german, pop" role="button">Wir sind Helden - Von hier an blind (2005-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/74ebf682-b859-40f2-b912-49d4bf6edcaf/7101368668-500.jpg" data-tags="industrial metal" role="button">Rammstein - Rosenrot (2005-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/8208c422-13eb-4ade-98e4-fd551f3cd67a/12899177229-500.jpg" data-tags="hip hop, deutsch, german" role="button">Die Fantastischen Vier - Fornika (2007-04-07)</li>
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">Peter Fox - Stadtaffe (2008-09-26)</li>
@@ -36,7 +36,7 @@ Kraftwerk - Autobahn (1974-11)
 <li data-cover="http://coverartarchive.org/release/e38790fe-0b99-45ac-b540-9b7cf2742d94/19025705025-500.jpg" data-tags="german" role="button">
 Nena - 99 Luftballons (1983)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="80s, german" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, german" role="button">
 Nena - Nena (1983-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/24335da0-8587-3d50-931e-082b7cf42cd7/20733595394-500.jpg" data-tags="hard rock" role="button">
@@ -57,7 +57,7 @@ Fool's Garden - Dish Of The Day (1995-12-07)
 <li data-cover="http://coverartarchive.org/release/c57b9cc3-4f1b-4f2d-b815-e78126c659ff/24415350757-500.jpg" data-tags="industrial metal" role="button">
 Rammstein - Sehnsucht (1997-08-25)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="alternative rock" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Guano Apes - Proud Like a God (1997-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5136b498-769c-4a15-9989-f321d4a1723d/6278219503-500.jpg" data-tags="punk rock" role="button">
@@ -69,13 +69,13 @@ Böhse Onkelz - Viva Los Tioz (1998-09-04)
 <li data-cover="http://coverartarchive.org/release/8377002d-790b-41f4-a152-d2f6ba6ea736/3349699606-500.jpg" data-tags="german hip hop, german hip-hop" role="button">
 Absolute Beginner - Bambule (1998-11-10)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="german, die toten hosen, punk, punk rock" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="german, die toten hosen, punk, punk rock" role="button">
 Die Toten Hosen - Unsterblich (2000-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b18729d7-287e-4519-9397-b9f3e079cd3d/2981256085-500.jpg" data-tags="industrial metal" role="button">
 Rammstein - Mutter (2001-04-02)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="hip-hop, german, german hip hop" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, german, german hip hop" role="button">
 Samy Deluxe - Samy Deluxe (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa8f796b-28e8-4b46-92ab-ae4d74c6dfa0/11539914728-500.jpg" data-tags="reggae" role="button">
@@ -87,19 +87,19 @@ Oomph! - Ego (2001-07-06)
 <li data-cover="http://coverartarchive.org/release/81032d7f-3915-4016-b1f5-606926329bb0/3323486482-500.jpg" data-tags="deutsch, german, punk" role="button">
 Farin Urlaub - Endlich Urlaub! (2001-10-22)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="industrial metal, 2019" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial metal, 2019" role="button">
 Rammstein - Rammstein (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/11ab3e8d-b88b-44c0-9dd8-bbab70dd8e18/16320030785-500.jpg" data-tags="electronic, indie rock, indie, indie pop" role="button">
 The Notwist - Neon Golden (2002-01-14)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="deutschrock, rock, german" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="deutschrock, rock, german" role="button">
 Sportfreunde Stiller - Die gute Seite (2002-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b3d0e02-672d-4b1d-90f7-7bb9a17f8038/15564470706-500.jpg" data-tags="hard rock, german" role="button">
 Böhse Onkelz - Dopamin (2002-04-15)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="german, 2002" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="german, 2002" role="button">
 Herbert Grönemeyer - Mensch (2002-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9487dab6-a5df-4fce-b37e-b5d811eebafd/3366701687-500.jpg" data-tags="deutsch" role="button">
@@ -150,7 +150,7 @@ Fettes Brot - Am Wasser gebaut (2005-03-21)
 <li data-cover="http://coverartarchive.org/release/ee2ded2b-e706-4e20-9ae6-98bba2e4e291/8610003714-500.jpg" data-tags="punk rock" role="button">
 Farin Urlaub - Am Ende der Sonne (2005-03-29)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="germany, german, hollywood, liebe, tanzen, sucht, micha, maat, nur mit dir, micha maat, der moment" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="germany, german, hollywood, liebe, tanzen, sucht, micha, maat, nur mit dir, micha maat, der moment" role="button">
 Bosse - Kamikazeherz (2005-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2364d652-d633-411a-8c90-b1b9a42ca85b/3377113810-500.jpg" data-tags="rock" role="button">
@@ -162,19 +162,19 @@ In Extremo - Mein rasend Herz (2005-05-30)
 <li data-cover="http://coverartarchive.org/release/ba4905a7-3e02-4800-971b-6a7498634e62/14402305789-500.jpg" data-tags="german, reggae, berlin" role="button">
 Ohrbooten - Spieltrieb (2005-08-29)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="emo, german, gay metal, tokio hotel, rock" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="emo, german, gay metal, tokio hotel, rock" role="button">
 Tokio Hotel - Schrei (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6692240d-55c2-471f-8b9e-f4b5f575e2d1/16951049106-500.jpg" data-tags="german, rock" role="button">
 Revolverheld - Revolverheld (2005-09-23)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="german, pop" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="german, pop" role="button">
 Wir sind Helden - Von hier an blind (2005-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/054e623b-57ce-42fb-bb62-f1c82dfedf1d/4801247210-500.jpg" data-tags="german" role="button">
 Muff Potter - Von Wegen (2005-10-07)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="reggae, dancehall" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae, dancehall" role="button">
 Seeed - Next! (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/74ebf682-b859-40f2-b912-49d4bf6edcaf/7101368668-500.jpg" data-tags="industrial metal" role="button">
@@ -195,10 +195,10 @@ The Whitest Boy Alive - Dreams (2006-04-27)
 <li data-cover="http://coverartarchive.org/release/5debf44a-74f5-47cb-b32e-9ccbee99e76e/3376054171-500.jpg" data-tags="german, deutsch" role="button">
 Clueso - Weit weg (2006-05-19)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="reggae, german, funk" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae, german, funk" role="button">
 Jan Delay - Mercedes Dance (2006-08-04)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="hip hop, deutscher hiphop" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="hip hop, deutscher hiphop" role="button">
 Dendemann - Die Pfütze des Eisbergs (2006-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e399300-e2d0-4836-ade1-67783e8aba6c/1594214502-500.jpg" data-tags="german" role="button">
@@ -231,7 +231,7 @@ Egotronic - Lustprinzip (2007-10-26)
 <li data-cover="http://coverartarchive.org/release/6a81122a-d183-4008-ad9f-fcc8dd2b31b2/2140773824-500.jpg" data-tags="punk, deutschrock, punk rock, deutsch" role="button">
 Die Ärzte - Jazz Ist Anders (2007-11-02)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="indie" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Fotos - Nach Dem Goldrausch (2008-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9392213-eb4c-3872-8965-25386a97ad7d/16320043245-500.jpg" data-tags="indie" role="button">
@@ -270,10 +270,10 @@ The Baseballs - Strike! (2009-05-15)
 <li data-cover="http://coverartarchive.org/release/124251b9-057f-35ab-a0cf-8f9366482ced/17897598255-500.jpg" data-tags="electronic, 2009" role="button">
 Boys Noize - Power (2009-09-28)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="rock, humanoid, german, tokio hotel" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, humanoid, german, tokio hotel" role="button">
 Tokio Hotel - Humanoid (2009-10-06)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="industrial metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial metal" role="button">
 Rammstein - Liebe ist für alle da (2009-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/efd254da-374f-4e8b-a971-5c424b217f1d/9819901623-500.jpg" data-tags="rock, german" role="button">
@@ -285,10 +285,10 @@ Eisbrecher - Eiszeit (2010-04-16)
 <li data-cover="http://coverartarchive.org/release/6c677821-4dd5-30e8-b4db-0f4c9d622156/2660077026-500.jpg" data-tags="2010, new wave, german, electronic music, audiolith records, 2010s, tristan, studio album, akord, frittenbude, katzengold, micha maat, aggroschlager, les bummms boys, sun of a gun, milz, pyrite, k1r7m, jakob haeglsperger, johannes roegner, martin steer" role="button">
 Frittenbude - Katzengold (2010-05-28)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="2010" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="2010" role="button">
 Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="german" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="german" role="button">
 Prinz Pi - Rebell ohne Grund (2011-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/552d6679-bcb8-43ff-87f0-49bdd91ba44d/7565515877-500.jpg" data-tags="2011" role="button">
@@ -297,7 +297,7 @@ Digitalism - I Love You, Dude (2011-06-17)
 <li data-cover="http://coverartarchive.org/release/4584b888-befc-490a-bb2d-0c050fe27384/9157119468-500.jpg" data-tags="hip-hop, casper" role="button">
 Casper - XOXO (2011-07-08)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="indie rock" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Kraftklub - Mit K (2012-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6a50660-4288-44f4-8ad8-8d2e0b9bdfe9/24327738378-500.jpg" data-tags="2012, electronic, german, album, may, sony, neue deutsche härte, columbia records, 18 may, may 2012, eleventh, 18 may 2012, eleventh album" role="button">
@@ -312,7 +312,7 @@ Milky Chance - Sadnecessary (2013-05-31)
 <li data-cover="http://coverartarchive.org/release/219ba201-2af2-4dd0-923c-78a63a362950/5934586697-500.jpg" data-tags="rap, german, deutschrap, albums christian alexander tietgen owns" role="button">
 Alligatoah - Triebwerke (2013-08-02)
 </li>
-<li data-cover="https://via.placeholder.com/150" data-tags="german" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="german" role="button">
 Casper - Hinterland (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd0d7af2-1267-420b-97d0-d28c0c91c06f/10528062400-500.jpg" data-tags="indie, german" role="button">
