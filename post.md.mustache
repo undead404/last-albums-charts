@@ -5,12 +5,20 @@ title: {{ title }}
 {{#coverSource}}
 ![{{coverTitle}}]({{{coverSource}}} "{{{coverTitle}}}")
 {{/coverSource}}
+<ol class="albums">
 {{#previewAlbums}}
-{{number}}. <span title="{{{tooltip}}}">{{{artist}}} - {{{name}}} ({{date}})</span>
+<li data-cover="{{{cover}}}" data-tags="{{{tags}}}" role="button">{{{artist}}} - {{{name}}} ({{date}})</li>
 {{/previewAlbums}}
+</ol>
 List of 100 - under the cut.
 <!-- more -->
------
+
+_________________
+
+<ol class="albums">
 {{#albums}}
-{{number}}. <span title="{{{tooltip}}}">{{{artist}}} - {{{name}}} ({{date}})</span>
+<li data-cover="{{{cover}}}" data-tags="{{{tags}}}" role="button">
+{{{artist}}} - {{{name}}} ({{date}})
+</li>
 {{/albums}}
+</ol>

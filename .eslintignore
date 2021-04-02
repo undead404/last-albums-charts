@@ -33,3 +33,6 @@ client/config/**/*.js
 client/scripts/*.js
 **/react-app-env.d.ts
 **/*.min.js
+ssg/public
+ssg/webpack.config.js
+ssg/scripts/*

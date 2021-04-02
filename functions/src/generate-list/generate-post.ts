@@ -9,7 +9,6 @@ import map from 'lodash/map';
 import orderBy from 'lodash/orderBy';
 import lodashReject from 'lodash/reject';
 import size from 'lodash/size';
-import snakeCase from 'lodash/snakeCase';
 import sortBy from 'lodash/sortBy';
 import take from 'lodash/take';
 import toPairs from 'lodash/toPairs';
@@ -50,11 +49,8 @@ function areAlbumsListsEqual(
   });
 }
 
-function hashtagify(s: string): string {
-  return `#${snakeCase(s)}`;
-}
-function albumToView(album: AlbumRecord, index: number) {
-  const tooltip = join(
+function albumToView(album: AlbumRecord) {
+  const tags = join(
     map(
       sortBy(
         lodashReject(
@@ -63,16 +59,16 @@ function albumToView(album: AlbumRecord, index: number) {
         ),
         ([, tagCount]) => -tagCount,
       ),
-      ([tagName]) => hashtagify(tagName),
+      ([tagName]) => tagName,
     ),
-    ' ',
+    ', ',
   );
   return {
     artist: album.artist,
+    cover: album.cover || album.thumbnail || 'https://via.placeholder.com/150',
     date: album.date,
     name: album.name,
-    number: index + 1,
-    tooltip,
+    tags,
   };
 }
 
@@ -101,7 +97,7 @@ export default async function generatePost(
     coverSource,
     coverTitle,
     title: tag.name,
-    updated: tag.listCreatedAt?.toISOString?.() || new Date().toISOString(),
+    updated: new Date().toISOString(),
   });
   return new Promise<void>((resolve, reject) =>
     fs.writeFile(
