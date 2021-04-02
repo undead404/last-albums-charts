@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01T22:15:00.854Z
+date: 2021-04-01T23:00:00.832Z
 title: heavy metal
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
