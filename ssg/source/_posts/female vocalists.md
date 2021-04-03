@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:27:01.312Z
+date: 2021-04-03T22:15:01.331Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
@@ -60,7 +60,7 @@ Portishead - Dummy (1994-08-22)
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
 </li>
-<li data-cover="https://img.discogs.com/5_ByL8XMido7M7zA6tfDC7q248s=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15895402-1601066012-3348.jpeg.jpg" data-tags="90s, alternative, female vocalists, 1995" role="button">
+<li data-cover="https://img.discogs.com/5_ByL8XMido7M7zA6tfDC7q248s=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15895402-1601066012-3348.jpeg.jpg" data-tags="90s, alternative, female vocalists" role="button">
 PJ Harvey - To Bring You My Love (1995-02-22)
 </li>
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="90s, rock, female vocalists" role="button">
@@ -102,6 +102,9 @@ Whitney Houston - My Love Is Your Love (1999-06-21)
 <li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Christina Aguilera (1999-08-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop" role="button">
+Hooverphonic - The Magnificent Tree (2000-08-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
 PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 </li>
@@ -128,9 +131,6 @@ Beyoncé - Dangerously in Love (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
-Goldfrapp - Black Cherry (2003-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)

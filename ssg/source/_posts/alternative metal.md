@@ -1,13 +1,13 @@
 ---
-date: 2021-04-03T21:02:01.272Z
+date: 2021-04-03T22:40:01.184Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![Slipknot - All Hope Is Gone (2008-08-20)](https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg "Slipknot - All Hope Is Gone (2008-08-20)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, nu metal" role="button">Deftones - White Pony (2000-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">Stone Sour - Stone Sour (2002-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">Disturbed - Believe (2002-09-16)</li>
-<li data-cover="http://coverartarchive.org/release/ab6d3199-90d7-34de-8008-c6f072a5d43a/4766302340-500.jpg" data-tags="alternative metal" role="button">Deftones - Deftones (2003-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">Disturbed - Ten Thousand Fists (2005-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">Breaking Benjamin - Phobia (2006-08-08)</li>
@@ -48,9 +48,6 @@ Marilyn Manson - Portrait Of An American Family (1994-07-19)
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
 </li>
-<li data-cover="https://img.discogs.com/ucvUD-sDbK35og8mqC6aTXQ9SEc=/fit-in/420x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12878829-1543701567-1987.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
-Primus - Tales From The Punchbowl (1995-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Alice in Chains (1995-11-07)
 </li>
@@ -78,8 +75,17 @@ Staind - Dysfunction (1999-04-13)
 <li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
 Creed - Human Clay (1999-07-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+3 Doors Down - The Better Life (2000-02-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, rock" role="button">
+Linkin Park - Hybrid Theory (2000-05-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, nu metal" role="button">
+Deftones - White Pony (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
@@ -92,6 +98,9 @@ Soulfly - Primitive (2000-09-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Godsmack - Awake (2000-10-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Rage Against the Machine - Renegades (2000-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e00e40a3-5ed5-4ed3-9c22-0a8ff4119bdf/10210180067-500.jpg" data-tags="alternative rock, rock" role="button">
 Alien Ant Farm - Anthology (2001-03-06)
@@ -110,9 +119,6 @@ Papa Roach - LoveHateTragedy (2002-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
 Korn - Untouchables (2002-06-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, hard rock, alternative rock, alternative metal, hard nurock" role="button">
-TRUSTcompany - The Lonely Position Of Neutral (2002-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
 Stone Sour - Stone Sour (2002-08-19)
@@ -158,9 +164,6 @@ A Perfect Circle - Thirteenth Step (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3fad414-9b92-4d04-b703-9605d5d33bac/11826715727-500.jpg" data-tags="rock" role="button">
 Nickelback - The Long Road (2003-09-22)
-</li>
-<li data-cover="https://img.discogs.com/1ucQFFLyEGac38Auh5CP7q_LNJQ=/fit-in/600x698/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12660797-1539632930-1164.jpeg.jpg" data-tags="alternative metal" role="button">
-Sevendust - Seasons (2003-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ace5c1af-1fc8-43aa-9ff7-bced160a8859/8120232073-500.jpg" data-tags="alternative metal, metal, nu metal, mushroomhead" role="button">
 Mushroomhead - XIII (2003-10-14)
@@ -264,9 +267,6 @@ Scars on Broadway - Scars On Broadway (2008-07-26)
 <li data-cover="https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">
 Slipknot - All Hope Is Gone (2008-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
-DIR EN GREY - Uroboros (2008-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4e5b0bc-3e10-4245-a25c-10f5991bc930/10864980767-500.jpg" data-tags="alternative rock" role="button">
 Red - Innocence & Instinct (2009-02-05)
 </li>
@@ -306,7 +306,7 @@ In This Moment - Blood (2012-08-12)
 <li data-cover="http://coverartarchive.org/release/afad8b0f-9778-4134-9667-354a515fe2d5/2246569239-500.jpg" data-tags="alternative metal, rock" role="button">
 Three Days Grace - Transit of Venus (2012-10-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
+<li data-cover="http://coverartarchive.org/release/addcfdab-9c0d-44db-9292-41e918d20e16/2616543949-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Koi No Yokan (2012-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">

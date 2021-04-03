@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:20:01.234Z
+date: 2021-04-03T22:20:01.223Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -53,6 +53,9 @@ Rhapsody - Symphony of Enchanted Lands (1998-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Oceanborn (1998-12-07)
+</li>
+<li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Ecliptica (1999-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4943881b-cf46-3bb5-a9ad-26d19ab72f21/11162986699-500.jpg" data-tags="symphonic metal, metal, thrash metal" role="button">
 Metallica - S&M (1999-11-22)
@@ -116,9 +119,6 @@ Nightwish - Century Child (2002-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e80c5fef-6cd7-419b-9c2e-12c121400b89/25277398803-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Nightwish - Bless the Child (2002-07-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2195ff36-dd1a-3704-a13e-93a7b26494fb/24841719489-500.jpg" data-tags="symphonic metal" role="button">
-Nightwish - Nemo (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)

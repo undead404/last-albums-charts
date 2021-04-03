@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:49:01.261Z
+date: 2021-04-03T22:34:01.182Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -27,11 +27,11 @@ Paradise Lost - Paradise Lost (1988)
 <li data-cover="http://coverartarchive.org/release/5e9be7bb-460d-37f2-96f5-4d180f57f3cf/4051863729-500.jpg" data-tags="gothic metal" role="button">
 Type O Negative - Bloody Kisses (1993-08-17)
 </li>
-<li data-cover="https://img.discogs.com/LIWlyVwXfnrmgY46VP-dbPtaMUA=/fit-in/384x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-960859-1373840991-3683.jpeg.jpg" data-tags="doom metal, gothic metal" role="button">
-Paradise Lost - Icon (1993-09-23)
-</li>
 <li data-cover="https://img.discogs.com/SqSRvdU8Kh4fcRIL4UA4-99M2SQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6326827-1417759630-8193.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Tiamat - Wildhoney (1994-09-01)
+</li>
+<li data-cover="https://img.discogs.com/mdOxokszRESCVA-ORinn_2KmvG0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044179-1313107554.jpeg.jpg" data-tags="gothic metal" role="button">
+Moonspell - Wolfheart (1995-04-01)
 </li>
 <li data-cover="https://img.discogs.com/Hq60m52DaDiyfAvieUzv8EKKEtM=/fit-in/600x641/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8088705-1454920236-3817.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Paradise Lost - Draconian Times (1995-06-07)
@@ -83,6 +83,9 @@ Sentenced - Frozen (1998-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Oceanborn (1998-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/e12ca663-cfe8-4796-b6e2-7bf73cf23723/4972030151-500.jpg" data-tags="gothic metal" role="button">
+Lacuna Coil - In a Reverie (1999-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/77b9806c-2a9e-37b8-b6c9-543addcb157b/1078439108-500.jpg" data-tags="gothic metal" role="button">
 Tiamat - Skeleton Skeletron (1999-08-11)
@@ -224,9 +227,6 @@ Xandria - India (2005-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b66e9fbd-eab9-4df0-bb33-92cc4656a7e6/1119140087-500.jpg" data-tags="gothic metal" role="button">
 Charon - Songs for the Sinners (2005-08-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/17833e8d-8f2f-3a65-817c-9eaf73e4129f/13604487761-500.jpg" data-tags="gothic metal" role="button">
-Beseech - Sunless Days (2005-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)

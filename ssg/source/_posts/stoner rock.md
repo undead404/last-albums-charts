@@ -1,14 +1,14 @@
 ---
-date: 2021-04-03T20:18:01.197Z
+date: 2021-04-03T22:28:01.242Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Them Crooked Vultures - Them Crooked Vultures (2009-11-13)](http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg "Them Crooked Vultures - Them Crooked Vultures (2009-11-13)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/6205da21-55a9-457d-aa85-2f1262e25694/8267363147-500.jpg" data-tags="stoner rock" role="button">Kyuss - Welcome to Sky Valley (1994-06-27)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stoner rock" role="button">Queens of the Stone Age - Rated R (2000-06-05)</li>
 <li data-cover="http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg" data-tags="doom metal, stoner metal" role="button">Sleep - Dopesmoker (2003-04-22)</li>
 <li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">Eagles of Death Metal - Peace Love Death Metal (2004-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">Wolfmother - Wolfmother (2005-10-31)</li>
-<li data-cover="http://coverartarchive.org/release/9be388a8-425f-46d6-b7aa-b6cafb45d655/11089439848-500.jpg" data-tags="stoner metal, stoner rock, psychedelic" role="button">Om - Conference of the Birds (2006-02-24)</li>
 <li data-cover="https://img.discogs.com/nDU5i57nGNy3B1tOEVEu9SEeXrk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513229-1254450947.jpeg.jpg" data-tags="stoner rock, rock" role="button">Eagles of Death Metal - Heart On (2008-10-25)</li>
 <li data-cover="https://img.discogs.com/VhYpdoLF60HMd744Ts3Po_g2_9Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2303810-1557425250-3633.jpeg.jpg" data-tags="hard rock, rock, stoner rock" role="button">Wolfmother - Cosmic Egg (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
@@ -96,11 +96,20 @@ Dead Meadow - Dead Meadow (2000)
 <li data-cover="http://coverartarchive.org/release/085ca322-9ece-4c71-b936-1eae919c832e/20172723282-500.jpg" data-tags="stoner rock, hard rock, heavy metal" role="button">
 Monster Magnet - God Says No (2000)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stoner rock" role="button">
+Kyuss - Muchas Gracias: The Best of Kyuss (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/9e562937-1e92-37ae-8ac6-4591c54cfc5e/9744471681-500.jpg" data-tags="stoner rock, stoner metal" role="button">
 Orange Goblin - The Big Black (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2afba28e-4ba4-3947-9b01-e5552233da09/4301817433-500.jpg" data-tags="stoner rock, alternative, hard rock" role="button">
 Queens of the Stone Age - R (2000-06-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stoner rock" role="button">
+Queens of the Stone Age - Rated R (2000-06-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stoner rock" role="button">
+Spiritual Beggars - Ad Astra (2000-07-11)
 </li>
 <li data-cover="https://img.discogs.com/ZOXVY8Cd3vVht-dC6mYeTByXv48=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492889-1415126037-3771.jpeg.jpg" data-tags="doom metal" role="button">
 Electric Wizard - Dopethrone (2000-09-25)
@@ -147,9 +156,6 @@ Truckfighters - Gravity X (2005-04-12)
 <li data-cover="http://coverartarchive.org/release/ab4639dd-6ad2-446c-8582-f643c5c2e7db/13036032474-500.jpg" data-tags="stoner rock, psychedelic" role="button">
 Earthless - Sonic Prayer (2005-04-26)
 </li>
-<li data-cover="https://img.discogs.com/r4Ou2t79sl-LO2EMuKG8IASkIO4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2426589-1283459376.jpeg.jpg" data-tags="rock, alternative rock, hard rock" role="button">
-CKY - An Answer Can Be Found (2005-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/abd92415-25d2-3975-92cf-5714042083ad/25159035142-500.jpg" data-tags="stoner rock, hard rock" role="button">
 Priestess - Hello Master (2005-10-18)
 </li>
@@ -177,7 +183,7 @@ Black Stone Cherry - Black Stone Cherry (2006-07-17)
 <li data-cover="http://coverartarchive.org/release/5a014fc8-b030-491a-9dc1-e8cf74ace99c/4549690587-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
 Colour Haze - Tempel (2006-07-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="stoner rock, epic, headbangers ball, a senile animal, you know her life was saved by last fm free music player, some kind of gold, 21st century in music" role="button">
+<li data-cover="http://coverartarchive.org/release/86d31939-fbcc-429c-a0e3-1a5bb5330b75/18247492752-500.jpg" data-tags="stoner rock, epic, headbangers ball, a senile animal, you know her life was saved by last fm free music player, some kind of gold, 21st century in music" role="button">
 Melvins - A Senile Animal (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d578ccb4-dff9-4ecb-8c74-f161ddb7d722/9184150508-500.jpg" data-tags="stoner rock" role="button">
@@ -197,9 +203,6 @@ Graveyard - Graveyard (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2301c536-c102-460d-b055-584c2d082259/19940267441-500.jpg" data-tags="stoner rock" role="button">
 Witchcraft - The Alchemist (2007-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e5f042a-3b41-4370-872a-99b329757c16/18298565543-500.jpg" data-tags="doom metal, stoner metal" role="button">
-Electric Wizard - Witchcult Today (2007-11-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
 My Sleeping Karma - Satya (2008)
@@ -285,9 +288,6 @@ Uncle Acid & the Deadbeats - Blood Lust (2011-05-27)
 <li data-cover="http://coverartarchive.org/release/d9ee51cc-b309-4dbf-92f1-bfcbff8fd366/8172443737-500.jpg" data-tags="stoner rock" role="button">
 Stoned Jesus - Seven Thunders Roar (2012-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/50591ea5-ebd7-4885-9f7f-f0d1c16dee94/27930500937-500.jpg" data-tags="stoner rock" role="button">
-Royal Thunder - CVI (2012-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f14078e-cc9a-44c4-ac66-78dc4d182235/25038495680-500.jpg" data-tags="progressive metal" role="button">
 Baroness - Yellow & Green (2012-07-17)
 </li>
@@ -300,7 +300,7 @@ Witchcraft - Legend (2012-09-21)
 <li data-cover="http://coverartarchive.org/release/7ffd99fa-4e2b-4dd2-aca7-edbabf6803a5/3330588150-500.jpg" data-tags="rock, hard rock, stoner rock, psychedelic rock" role="button">
 Graveyard - Lights Out (2012-10-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="stoner rock" role="button">
+<li data-cover="http://coverartarchive.org/release/cb287b02-6d7d-4357-bfa7-be779a472672/4700085367-500.jpg" data-tags="stoner rock" role="button">
 True Widow - Circumambulation (2013-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/89a1bb84-f8e8-4cd5-83ca-a38317a41a98/6705416996-500.jpg" data-tags="alternative rock, indie rock, stoner rock, psychedelic, space rock, psychedelic rock, trip, lsd, ss, flightless records, flightless" role="button">

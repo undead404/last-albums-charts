@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:38:01.275Z
+date: 2021-04-03T22:23:01.265Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -27,16 +27,16 @@ The Beach Boys - Pet Sounds (1966-05-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
 Genesis - Invisible Touch (1986-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+<li data-cover="http://coverartarchive.org/release/bcf7537d-6b5d-4987-b022-074215f3f9fa/1619825734-500.jpg" data-tags="pop" role="button">
 Michael Jackson - Bad (1987-12-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, pop" role="button">
+<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="80s, pop" role="button">
 Madonna - Like a Prayer (1989-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae5efacd-f75f-432a-9f22-b35d3169d21f/8121279988-500.jpg" data-tags="pop" role="button">
@@ -51,9 +51,6 @@ Spice Girls - Spice (1996-09-19)
 <li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">
 Eagle-Eye Cherry - Desireless (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/7baa1b45-b60e-3ab0-8acf-3e42186c05ea/2444548035-500.jpg" data-tags="pop" role="button">
-Savage Garden - Savage Garden (1997-03-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
@@ -65,6 +62,9 @@ Backstreet Boys - Millennium (1999-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Christina Aguilera (1999-08-24)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="coldplay, britpop" role="button">
+Coldplay - Parachutes (2000-07-10)
 </li>
 <li data-cover="https://img.discogs.com/43jeN4e7fmSGVdiYcb6OLQV8a3I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3467332-1486342108-9043.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
@@ -78,7 +78,7 @@ Dido - Life for Rent (2003-09-26)
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, michael jackson" role="button">
+<li data-cover="http://coverartarchive.org/release/724049b1-c305-4968-9faf-3aae776183b1/2894378472-500.jpg" data-tags="pop, michael jackson" role="button">
 Michael Jackson - Number Ones (2003-11-17)
 </li>
 <li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">

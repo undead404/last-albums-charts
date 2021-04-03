@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:42:01.226Z
+date: 2021-04-03T22:25:01.235Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Muse - Absolution (2003-09-08)](https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg "Muse - Absolution (2003-09-08)")
@@ -21,10 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/1415ba1b-1208-4c4a-b711-65275b10ae05/24215425508-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Surfer Rosa (1988-03-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd797f26-ddc1-43ae-8950-1757e28753cb/7646216656-500.jpg" data-tags="1991, 90s, alternative rock, rock" role="button">
@@ -60,9 +57,6 @@ Foo Fighters - Foo Fighters (1995-06-26)
 <li data-cover="http://coverartarchive.org/release/095d9b71-6d0d-3ed6-b07d-4b618c8749ac/8732200006-500.jpg" data-tags="rock, 90s, alternative, alternative rock" role="button">
 Garbage - Garbage (1995-08-15)
 </li>
-<li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
-Red Hot Chili Peppers - One Hot Minute (1995-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
@@ -81,11 +75,32 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
 Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+3 Doors Down - The Better Life (2000-02-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, rock" role="button">
+Linkin Park - Hybrid Theory (2000-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="coldplay, britpop" role="button">
+Coldplay - Parachutes (2000-07-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, alternative, experimental" role="button">
+Radiohead - Kid A (2000-08-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Placebo - Black Market Music (2000-10-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
 PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, alternative" role="button">
+Lifehouse - No Name Face (2000-10-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Rage Against the Machine - Renegades (2000-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
@@ -98,9 +113,6 @@ Weezer - Weezer (2001-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
-Nickelback - Silver Side Up (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
@@ -189,9 +201,6 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
-Regina Spektor - Begin to Hope (2006-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Three Days Grace - One-X (2006-06-13)
 </li>
@@ -207,9 +216,6 @@ Papa Roach - The Paramour Sessions (2006-09-08)
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
-Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
@@ -219,7 +225,7 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, post-punk" role="button">
+<li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
@@ -314,11 +320,5 @@ Linkin Park - Living Things (2012-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
-Twenty One Pilots - Vessel (2012-12-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
-Arctic Monkeys - AM (2013-08-01)
 </li>
 </ol>

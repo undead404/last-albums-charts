@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:54:01.199Z
+date: 2021-04-03T21:53:01.214Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -38,6 +38,9 @@ Roxette - Joyride (1991-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c429421-ed50-3199-aeef-514590fa67e0/8355594906-500.jpg" data-tags="swedish, female vocalists, acoustic" role="button">
 Stina Nordenstam - And She Closed Her Eyes (1994)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="swedish" role="button">
+Kent - Kent (1995-03-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, 1996" role="button">
 Kent - Verkligen (1996-03-15)
@@ -123,9 +126,6 @@ Peter Bjorn and John - Falling Out (2004-10-20)
 <li data-cover="https://img.discogs.com/wqzWHSlPK9hGub5VD2q0Eti1E4s=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159224-1249246899.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
 Robyn - Robyn (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/a061a57a-9057-48cb-a24d-e32ba1ef680f/1503563272-500.jpg" data-tags="indie, 2005, swedish" role="button">
-Acid House Kings - Sing Along With Acid House Kings (2005)
-</li>
 <li data-cover="http://coverartarchive.org/release/217c3eef-272e-475b-9959-d9e6f092369c/3671648879-500.jpg" data-tags="indie" role="button">
 Håkan Hellström - Ett kolikbarns bekännelser (2005-02-09)
 </li>
@@ -140,9 +140,6 @@ Jens Lekman - Oh You're So Silent Jens (2005-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/de86fc39-c61d-3c1f-83fa-108827d12872/1991520366-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Doomsday Machine (2005-07-21)
-</li>
-<li data-cover="https://img.discogs.com/u7zgoPTxxOUDTbNte68PHVGgU_k=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-837943-1163946375.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Hello Saferide - Introducing... (2005-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="2005, indie, swedish" role="button">
 Tiger Lou - The Loyal (2005-10-26)
@@ -168,6 +165,12 @@ The Radio Dept. - Pet Grief (2006-04-12)
 <li data-cover="https://img.discogs.com/k0hr64G-d7eA6WlD7l0CC6xedeA=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-793834-1159431566.jpeg.jpg" data-tags="indie pop" role="button">
 I'm from Barcelona - Let Me Introduce My Friends (2006-04-26)
 </li>
+<li data-cover="https://img.discogs.com/uYeOKQjJxNJW-8cbGTjaqk4CKr0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189055-1199463190.jpeg.jpg" data-tags="melodic death metal" role="button">
+Sonic Syndicate - Only Inhuman (2007-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
+José González - In Our Nature (2007-09-21)
+</li>
 <li data-cover="https://img.discogs.com/W0MWLlxLuJqQ06UhJPcSog5899Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2160872-1271274610.jpeg.jpg" data-tags="indie, swedish" role="button">
 Sambassadeur - Migration (2007-10-24)
 </li>
@@ -182,9 +185,6 @@ The Cardigans - Best Of (2008-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
 Lykke Li - Youth Novels (2008-01-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/e67f8da1-88b9-3a9c-be1c-f40dbab896b2/20457737757-500.jpg" data-tags="melodic death metal" role="button">
-In Flames - A Sense of Purpose (2008-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4463075-8c72-4fda-978b-4055fdaef004/24898197306-500.jpg" data-tags="pop, rock" role="button">
 Håkan Hellström - För sent för edelweiss (2008-03-26)

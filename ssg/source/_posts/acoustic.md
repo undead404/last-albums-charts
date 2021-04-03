@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:41:01.228Z
+date: 2021-04-03T22:30:01.224Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -68,6 +68,9 @@ Dave Matthews & Tim Reynolds - Live At Luther College (1999-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic, rainy day, purchased 09, colin hay, l" role="button">
+Colin Hay - Going Somewhere (2000-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/124490a2-3b9a-4177-9f0e-5645a59e0092/20616806771-500.jpg" data-tags="rock, 90s" role="button">
 Vertical Horizon - Everything You Want (2000-08-14)
@@ -234,9 +237,6 @@ Good Old War - Only Way To Be Alone (2008-08-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Joshua Radin - Simple Times (2008-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/38c22892-07d3-4206-9796-3e10a173acab/18602356812-500.jpg" data-tags="pop, rock, folk, female vocalists, acoustic, adult alternative, singer/songwriter" role="button">
-Yuna - Yuna (2008-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">
 Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 </li>
@@ -270,9 +270,6 @@ The Head and the Heart - The Head and The Heart (2010-06-29)
 <li data-cover="https://img.discogs.com/9xjOUgnP8Bz4NDWDmotxkZ-MBk0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2629696-1301011049.jpeg.jpg" data-tags="vinyl, progressive folk, chamber folk" role="button">
 Sufjan Stevens - All Delighted People EP (2010-08-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
-Never Shout Never - Harmony (2010-08-24)
-</li>
 <li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, brilliant record, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
 Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
@@ -294,14 +291,14 @@ City and Colour - Little Hell (2011-06-07)
 <li data-cover="https://img.discogs.com/Soqna-vcIZw-BlpdTqjO_MFu6UI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-102752-1511670693-4317.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
 Fink - Perfect Darkness (2011-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/098d397a-6528-4a84-b282-14d19c02e647/5129304980-500.jpg" data-tags="pop, folk, acoustic" role="button">
-Colbie Caillat - All of You (2011-07-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a04148d-c342-47d8-8703-d51109b9dbc5/5046500846-500.jpg" data-tags="folk" role="button">
 Ben Howard - Every Kingdom (2011-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">
+John Mayer - Born and Raised (2012-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
@@ -311,6 +308,9 @@ Tom Odell - Songs from Another Love (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b32dc69b-cb78-4179-ad20-0d93e6e9be2d/6962674678-500.jpg" data-tags="folk, singer-songwriter, acoustic, male vocalists, fucking amazing, hairy chest, folk indie folk, us-singer" role="button">
 Gregory Alan Isakov - The Weatherman (2013-07-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, laptop, 10s, 2010s, 2013 albums, monochrome album covers, american group, grammy winner 2014" role="button">
+The Civil Wars - The Civil Wars (2013-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d1c2a68-1db2-4fa5-aa36-7d66a8e0d62f/8119387478-500.jpg" data-tags="acoustic" role="button">
 Fink - Hard Believer (2014-07-14)

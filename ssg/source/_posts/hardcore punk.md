@@ -1,18 +1,18 @@
 ---
-date: 2021-04-03T20:06:01.243Z
+date: 2021-04-03T21:58:01.279Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/33d6956e-3fb0-3a6b-8a47-cc2f3be2b183/20681910422-500.jpg" data-tags="punk" role="button">Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk, hardcore" role="button">Black Flag - Damaged (1981)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">Bad Brains - Bad Brains (1982)</li>
 <li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="punk rock, hardcore punk, punk" role="button">Descendents - Milo Goes to College (1982-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">Suicidal Tendencies - Suicidal Tendencies (1983-07-05)</li>
 <li data-cover="https://img.discogs.com/2aZjmaLdmcbq6nb2vawvtIr3LVI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5607482-1398788930-4308.jpeg.jpg" data-tags="hardcore punk, punk" role="button">Hüsker Dü - Zen Arcade (1984-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore, punk" role="button">Rise Against - The Unraveling (2001-04-24)</li>
 <li data-cover="https://img.discogs.com/54PHju_pBRbaDAAbP344C-jYO0Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383394-1108500259.jpg.jpg" data-tags="punk, punk rock, melodic hardcore" role="button">Rise Against - Revolutions Per Minute (2003-04-08)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk" role="button">Gallows - Orchestra of Wolves (2006)</li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - The Sufferer & the Witness (2006-07-03)</li>
 </ol>
 List of 100 - under the cut.
@@ -32,6 +32,9 @@ Circle Jerks - Group Sex (1980-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">
+Bad Brains - Bad Brains (1982)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk" role="button">
 GBH - City Baby Attacked by Rats (1982)
@@ -233,9 +236,6 @@ Rise Against - Revolutions Per Minute (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6677b3e-757b-38eb-9961-07799bc22215/4801803195-500.jpg" data-tags="punk rock, punk" role="button">
 NOFX - The War on Errorism (2003-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cba2469-abb2-4e4c-bbad-1f9d7f47cabf/15577300296-500.jpg" data-tags="hardcore, metal, thrash metal, sludge metal" role="button">
-Superjoint Ritual - A Lethal Dose of American Hatred (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bb80433-5a7e-4293-91a8-091255c5e305/10095596295-500.jpg" data-tags="hardcore punk" role="button">
 Король и Шут - Бунт на корабле (2004)
