@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:46:01.707Z
+date: 2021-04-03T18:37:01.409Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -11,7 +11,7 @@ title: "electronica: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Human After All (2005-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">Röyksopp - The Understanding (2005-06-22)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">Imogen Heap - Speak for Yourself (2005-07-18)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
+<li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">Gorillaz - Plastic Beach (2010-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">Crystal Castles - Crystal Castles (2010-05-18)</li>
 </ol>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative, 1993" role="button">
+<li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
@@ -50,9 +50,6 @@ The Chemical Brothers - Exit Planet Dust (1995-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
-Lamb - Lamb (1996-09-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
 Aphex Twin - Richard D. James Album (1996-11-04)
@@ -210,7 +207,7 @@ The Chemical Brothers - Brotherhood (2008-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, downtempo, idm" role="button">
 Jon Hopkins - Insides (2008-11-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic pop" role="button">
+<li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
 </li>
 <li data-cover="https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
@@ -219,13 +216,13 @@ The Prodigy - Invaders Must Die (2009-02-18)
 <li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronic" role="button">
 Röyksopp - Junior (2009-03-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, indie pop, indie" role="button">
+<li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronica, indie" role="button">
 Empire of the Sun - We Are The People (2009-05-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop, electropop" role="button">
+<li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
 Miike Snow - Miike Snow (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8552693-7f80-4fe6-981b-a988bfc47a43/4013850564-500.jpg" data-tags="electronica" role="button">
@@ -243,10 +240,10 @@ Little Dragon - Machine Dreams (2009-08-17)
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chillwave, electronica" role="button">
+<li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
 Memory Tapes - Seek Magic (2009-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+<li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
 Neon Indian - Psychic Chasms (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/49eefb52-d716-450c-a60d-115f1c4f4240/1472462701-500.jpg" data-tags="electronic, electronica, electropop, synthpop" role="button">
@@ -308,6 +305,9 @@ XXYYXX - XXYYXX (2012-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="2012, electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
+Stromae - Racine Carrée (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

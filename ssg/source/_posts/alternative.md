@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:08:01.443Z
+date: 2021-04-03T18:30:01.437Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -11,7 +11,7 @@ title: "alternative: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">Coldplay - Viva la Vida (2008-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock, indie rock" role="button">Yeah Yeah Yeahs - It's Blitz! (2009-03-08)</li>
+<li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">Yeah Yeah Yeahs - It's Blitz! (2009-03-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">Muse - The Resistance (2009-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">Gorillaz - Plastic Beach (2010-03-03)</li>
 </ol>
@@ -117,7 +117,7 @@ Weezer - Weezer (2001-04-24)
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, emo" role="button">
+<li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
@@ -195,10 +195,10 @@ Beck - Guero (2005-03-16)
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9599042a-34a9-39f2-a52d-c903a382515c/11212013097-500.jpg" data-tags="rock" role="button">
@@ -207,8 +207,11 @@ Nickelback - All The Right Reasons (2005-09-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
 Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, indie rock" role="button">
+The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
@@ -222,7 +225,7 @@ Silversun Pickups - Carnavas (2006-07-25)
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop punk, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
 Fall Out Boy - Infinity on High (2007-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
@@ -234,7 +237,7 @@ Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock" role="button">
+<li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
@@ -255,19 +258,19 @@ Kings of Leon - Only by the Night (2008-09-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock, indie rock" role="button">
+<li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, atmospheric" role="button">
+<li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Muse - The Resistance (2009-09-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk" role="button">
+<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
@@ -311,9 +314,6 @@ Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/24454dba-2bcc-479f-bb65-afde78e9845c/7721396837-500.jpg" data-tags="electronic, rock, alternative, alternative rock, britpop, coldplay" role="button">
-Coldplay - A Sky Full Of Stars (2014-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

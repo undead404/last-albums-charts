@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:44:01.290Z
+date: 2021-04-03T18:42:01.303Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -13,7 +13,7 @@ title: "rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk" role="button">Paramore - Brand New Eyes (2009-09-25)</li>
+<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">Paramore - Brand New Eyes (2009-09-25)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -38,9 +38,6 @@ Led Zeppelin - Led Zeppelin II (1969-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
-Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
@@ -135,7 +132,7 @@ Rammstein - Mutter (2001-04-02)
 <li data-cover="https://img.discogs.com/V6pdlLTilI4qE9xPoW01G6E89qc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494256-1591098542-4138.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, emo" role="button">
+<li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
@@ -231,7 +228,7 @@ Bloc Party - Silent Alarm (2005-02-02)
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9599042a-34a9-39f2-a52d-c903a382515c/11212013097-500.jpg" data-tags="rock" role="button">
@@ -246,8 +243,11 @@ Hinder - Extreme Behavior (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">
 Wolfmother - Wolfmother (2005-10-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, indie rock" role="button">
+The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
 <li data-cover="https://img.discogs.com/h6zZQTHVQ4QUBLe7aacMX-M4tgM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759992-1323225269.jpeg.jpg" data-tags="rock, indie, indie rock, british" role="button">
 Razorlight - Razorlight (2006-07-17)
@@ -258,7 +258,7 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop punk, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
 Fall Out Boy - Infinity on High (2007-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
@@ -273,7 +273,7 @@ Kings of Leon - Only by the Night (2008-09-19)
 <li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
 The Fray - The Fray (2009-01-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock, indie rock" role="button">
+<li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
@@ -282,13 +282,13 @@ Incubus - Monuments And Melodies (2009-06-12)
 <li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
 Skillet - Awake (2009-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">
 Muse - The Resistance (2009-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4/6689602780-500.jpg" data-tags="rock, alternative rock" role="button">
 Three Days Grace - Life Starts Now (2009-09-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk" role="button">
+<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
@@ -306,13 +306,13 @@ The Pretty Reckless - Light Me Up (2010-08-27)
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop" role="button">
+<li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock, indie" role="button">

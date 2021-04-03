@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:42:01.359Z
+date: 2021-04-03T18:32:01.688Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -153,9 +153,6 @@ Bon Jovi - Keep The Faith (1992-10-07)
 <li data-cover="http://coverartarchive.org/release/01caa837-59b9-487a-bc3f-a47f6cf7e345/9725073329-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Highway to Hell (1992-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/44598007-a40d-41de-a33b-a0dc09f0cd17/3889043593-500.jpg" data-tags="hard rock" role="button">
-Aerosmith - Get a Grip (1993-04-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock" role="button">
 Aerosmith - Big Ones (1994-10-31)
 </li>
@@ -243,6 +240,9 @@ Papa Roach - Getting Away With Murder (2004-07)
 <li data-cover="http://coverartarchive.org/release/d071fda0-f5cb-448f-9b90-c0f1cd2d116f/6320184240-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Alter Bridge - One Day Remains (2004-08-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, female vocalists" role="button">
+Flyleaf - Flyleaf (2004-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/05bcea44-73d4-4d78-979d-14f5a142816c/2279875362-500.jpg" data-tags="rock, hard rock" role="button">
 Seether - Karma & Effect (2005-05-24)
 </li>
@@ -288,7 +288,7 @@ Guns N' Roses - Chinese Democracy (2008-11-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
 Nickelback - Dark Horse (2008-11-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, rock, stoner rock" role="button">
+<li data-cover="https://img.discogs.com/VhYpdoLF60HMd744Ts3Po_g2_9Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2303810-1557425250-3633.jpeg.jpg" data-tags="hard rock, rock, stoner rock" role="button">
 Wolfmother - Cosmic Egg (2009-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, hard rock, rock" role="button">
@@ -318,7 +318,7 @@ Avenged Sevenfold - Nightmare (2010-07-23)
 <li data-cover="https://img.discogs.com/WdIYWs97kRpkarCFLQTJl5XCwQw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6659543-1424045661-2626.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
 </ol>

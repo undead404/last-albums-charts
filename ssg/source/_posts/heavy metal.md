@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:39:01.450Z
+date: 2021-04-03T18:29:06.661Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -26,9 +26,6 @@ Black Sabbath - Black Sabbath (1970-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Paranoid (1970-09-18)
-</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
-Black Sabbath - Master of Reality (1971-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/734f7ad8-4e20-435e-a27b-c3b7e0ff3e35/17989087737-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Sabbath Bloody Sabbath (1973)
@@ -167,9 +164,6 @@ Pantera - Vulgar Display of Power (1992-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b6f83c-8d1a-3e5f-aa26-e6c56324e393/10969475744-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Fear of the Dark (1992-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal, 1992, alternative" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Images and Words (1992-06-30)
@@ -311,6 +305,12 @@ Disturbed - Asylum (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a63ea96-27bb-36a1-a18f-82b5e6d9c928/3799827743-500.jpg" data-tags="heavy metal" role="button">
 Volbeat - Beyond Hell / Above Heaven (2010-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
+Ghost - Opus Eponymous (2010-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
+Ghost - Infestissumam (2013-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dbf4b1f-d3e9-47bc-9194-d15b31017bd6/11869295444-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - 13 (2013-06-07)

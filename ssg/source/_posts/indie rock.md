@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:10:01.339Z
+date: 2021-04-03T18:34:01.322Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -38,9 +38,6 @@ Modest Mouse - The Moon & Antarctica (2000-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
-</li>
-<li data-cover="https://img.discogs.com/V6pdlLTilI4qE9xPoW01G6E89qc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494256-1591098542-4138.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
-Weezer - Weezer (2001-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
@@ -123,7 +120,7 @@ Maxïmo Park - A Certain Trigger (2005-05-16)
 <li data-cover="http://coverartarchive.org/release/ba09c389-e2ed-4a80-ab56-6ff2a31ab5f3/16830848668-500.jpg" data-tags="indie rock, indie" role="button">
 The Subways - Young for Eternity (2005-07-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b002b0e-3d58-4fea-a980-4b0577b32508/15696520432-500.jpg" data-tags="indie, indie rock" role="button">
@@ -147,6 +144,9 @@ Band of Horses - Everything All the Time (2006-03-21)
 <li data-cover="http://coverartarchive.org/release/7e81cca2-fb08-4155-9bac-9d998b2ac952/27084035714-500.jpg" data-tags="indie rock, rock, british, indie" role="button">
 Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, indie rock" role="button">
+The Raconteurs - Broken Boy Soldiers (2006-05-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
@@ -161,6 +161,9 @@ Silversun Pickups - Carnavas (2006-07-25)
 </li>
 <li data-cover="https://img.discogs.com/8KrBpQesNQtYTtRGyViVBGE-wU0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785865-1169215288.jpeg.jpg" data-tags="indie rock" role="button">
 The Fratellis - Costello Music (2006-09-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+The Decemberists - The Crane Wife (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
@@ -207,13 +210,13 @@ Kings of Leon - Only by the Night (2008-09-19)
 <li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">
 Deerhunter - Microcastle (2008-10-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/7ymhqa2eFVP5TMYG5e5p3S1LUmM=/fit-in/526x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574748-1229522744.jpeg.jpg" data-tags="indie rock" role="button">
 White Lies - To Lose My Life (2009-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5229c40-d183-41b9-a88c-01b2059201b7/9832610394-500.jpg" data-tags="indie rock" role="button">
 Franz Ferdinand - Tonight: Franz Ferdinand (2009-01-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock, indie rock" role="button">
+<li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
@@ -222,7 +225,7 @@ Metric - Fantasies (2009-03-31)
 <li data-cover="http://coverartarchive.org/release/4eebfd89-df96-4017-b70f-795a0702d2c5/8690836098-500.jpg" data-tags="indie rock, shoegaze, alternative" role="button">
 Silversun Pickups - Swoon (2009-04-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
@@ -237,7 +240,7 @@ Bombay Bicycle Club - I Had the Blues But I Shook Them Loose (2009-06-07)
 <li data-cover="http://coverartarchive.org/release/2342ef67-07f8-4fc7-b7c5-a15d20bccac1/5908075333-500.jpg" data-tags="indie rock" role="button">
 The Temper Trap - Conditions (2009-06-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
@@ -278,9 +281,6 @@ The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">
-The Antlers - Burst Apart (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/00ee87de-e714-47ed-8197-314d43d5a6ad/3330596020-500.jpg" data-tags="indie rock, indie" role="button">
 Grouplove - Never Trust A Happy Song (2011-09-02)
