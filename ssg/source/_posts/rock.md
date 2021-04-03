@@ -1,10 +1,10 @@
 ---
-date: 2021-04-03T08:45:01.272Z
+date: 2021-04-03T09:25:18.500Z
 title: rock
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock, alternative rock" role="button">Audioslave - Audioslave (2002-11-15)</li>
+<li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - The Colour and the Shape (1997-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/bb29bd28-71e7-32d3-ab5f-c2d33b25434a/4817242679-500.jpg" data-tags="rock" role="button">The White Stripes - Elephant (2003-03-19)</li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">Linkin Park - Meteora (2003-03-24)</li>
@@ -12,8 +12,8 @@ title: rock
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, franz ferdinand, rock" role="button">Franz Ferdinand - Franz Ferdinand (2004-02-09)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, emo" role="button">Jimmy Eat World - Futures (2004-10-11)</li>
 <li data-cover="http://coverartarchive.org/release/b4eaadb3-b924-4fa3-8d6e-7fd016a86192/2293475396-500.jpg" data-tags="rock" role="button">My Chemical Romance - The Black Parade (2006-10-23)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">Linkin Park - Minutes to Midnight (2007-05-11)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -72,6 +72,9 @@ Nirvana - Nevermind (1991-09-23)
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal, 1992, alternative" role="button">
+Faith No More - Angel Dust (1992-06-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 R.E.M. - Automatic for the People (1992-10-06)
 </li>
@@ -101,6 +104,9 @@ Oasis - Definitely Maybe (1994-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Bon Jovi - Cross Road (1994-10-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
@@ -135,14 +141,23 @@ Cake - Fashion Nugget (1996-09-17)
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/1231824a-0e79-4306-8a6c-47b069bb72f9/7309778630-500.jpg" data-tags="britpop" role="button">
+Oasis - Be Here Now (1997-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
 Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
+The Offspring - Americana (1998-11-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock, rock, progressive rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
+PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Creed - Weathered (2001-01-19)
@@ -156,20 +171,11 @@ Rammstein - Mutter (2001-04-02)
 <li data-cover="https://img.discogs.com/V6pdlLTilI4qE9xPoW01G6E89qc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494256-1591098542-4138.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal, progressive rock" role="button">
-Tool - Lateralus (2001-05-14)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Nickelback - Silver Side Up (2001-09-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, comedy" role="button">
 Tenacious D - Tenacious D (2001-09-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
-3 Doors Down - Away from the Sun (2002-11-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock, alternative rock" role="button">
-Audioslave - Audioslave (2002-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Sleeping with Ghosts (2003-01-08)
@@ -288,14 +294,8 @@ My Chemical Romance - The Black Parade (2006-10-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Daughtry - Daughtry (2006-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a890e9a6-90cf-4665-8928-2123f792355f/2960964314-500.jpg" data-tags="rock, pop punk" role="button">
-Good Charlotte - Good Morning Revival (2007-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
-Linkin Park - Minutes to Midnight (2007-05-11)
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Lenny Kravitz - Greatest Hits (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
 Nickelback - Dark Horse (2008-11-17)

@@ -1,6 +1,9 @@
 import { Discojs, SearchTypeEnum } from 'discojs';
-import get from 'lodash/get';
+import { closest } from 'fastest-levenshtein';
+import forEach from 'lodash/forEach';
+import map from 'lodash/map';
 import toString from 'lodash/toString';
+import uniq from 'lodash/uniq';
 
 import { DISCOGS_ACCESS_TOKEN } from '../common/environment';
 import logger from '../common/logger';
@@ -13,6 +16,30 @@ const discojs = new Discojs({
 const API_DELAY_MS = 2000;
 
 let waiter = Promise.resolve();
+
+function getIdFromResponseResults(
+  responseResults: {
+    id: number;
+    title: string;
+  }[],
+  artistName: string,
+  albumName: string,
+): number | undefined {
+  const targetTitle = `${artistName} - ${albumName}`;
+  const titleToId = new Map<string, number>();
+  forEach(responseResults, (responseResult) => {
+    const previousId = titleToId.get(responseResult.title);
+    if (previousId) {
+      if (previousId > responseResult.id) {
+        titleToId.set(responseResult.title, responseResult.id);
+      }
+    } else {
+      titleToId.set(responseResult.title, responseResult.id);
+    }
+  });
+  const foundTitle = closest(targetTitle, uniq(map(responseResults, 'title')));
+  return titleToId.get(foundTitle);
+}
 
 export default async function getFromDiscogs(
   artistName: string,
@@ -27,8 +54,17 @@ export default async function getFromDiscogs(
       type: SearchTypeEnum.RELEASE,
     });
     waiter = sleep(API_DELAY_MS);
-    const releaseId = get(searchResponse.results[0], 'id');
+    const releaseId = getIdFromResponseResults(
+      searchResponse.results,
+      artistName,
+      albumName,
+    );
+    if (!releaseId) {
+      return null;
+    }
+    await waiter;
     const albumInfo = await discojs.getRelease(releaseId);
+    waiter = sleep(API_DELAY_MS);
     return albumInfo.released || null;
   } catch (error) {
     logger.error(toString(error));

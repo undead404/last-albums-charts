@@ -31,18 +31,13 @@ function areAlbumsListsEqual(
   albumList2: AlbumRecord[],
 ): boolean {
   if (size(albumList1) !== size(albumList2)) {
-    logger.debug(
-      `different by size: ${albumList1.length} !== ${albumList2.length}`,
-    );
     return false;
   }
   return every(albumList1, (album1, index) => {
     if (album1.artist !== albumList2[index].artist) {
-      logger.debug(`${album1.artist} !== ${albumList2[index].artist}`);
       return false;
     }
     if (album1.name !== albumList2[index].name) {
-      logger.debug(`${album1.name} !== ${albumList2[index].name}`);
       return false;
     }
     return true;
@@ -65,7 +60,7 @@ function albumToView(album: AlbumRecord) {
   );
   return {
     artist: album.artist,
-    cover: album.cover || album.thumbnail || 'https://via.placeholder.com/150',
+    cover: album.cover || album.thumbnail || 'https://via.placeholder.com/450',
     date: album.date,
     name: album.name,
     tags,

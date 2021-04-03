@@ -14,12 +14,12 @@ module.exports = {
       exec_mode: 'fork',
       instances: 1,
       name: 'deploy',
-      script: '../deploy.sh 2>&1 | tee -a logs/deploy.log',
+      script: 'lib/deploy/deploy.js',
       watch: false,
     },
     {
       autorestart: true,
-      cron_restart: '*/10 * * * *',
+      // cron_restart: '*/10 * * * *',
       env: {
         APP_NAME: 'gList',
       },
@@ -97,7 +97,8 @@ module.exports = {
       watch: false,
     },
     {
-      cron_restart: '0 */2 * * *',
+      autorestart: true,
+      // cron_restart: '0 */2 * * *',
       env: {
         APP_NAME: 'sAlbums',
       },
@@ -105,6 +106,17 @@ module.exports = {
       instances: 1,
       name: 'sAlbums',
       script: 'lib/scrape-albums/run.js',
+      watch: false,
+    },
+    {
+      // cron_restart: '0 */2 * * *',
+      env: {
+        APP_NAME: 'tPerf',
+      },
+      exec_mode: 'fork',
+      instances: 1,
+      name: 'tPerf',
+      script: 'lib/track-performance/run.js',
       watch: false,
     },
   ],

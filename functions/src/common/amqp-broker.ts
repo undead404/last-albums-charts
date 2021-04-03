@@ -18,12 +18,40 @@ import logger from './logger';
 const config: BrokerConfig = {
   vhosts: {
     [AMQP_VHOST]: {
-      bindings: [
-        'newAlbums -> populateAlbumCover',
-        'newAlbums -> populateAlbumDate',
-        'newAlbums -> populateAlbumStats',
-        'newAlbums -> populateAlbumTags',
-      ],
+      // bindings: [
+      //   'newAlbums -> populateAlbumCover',
+      //   'newAlbums -> populateAlbumDate',
+      //   'newAlbums -> populateAlbumStats',
+      //   'newAlbums -> populateAlbumTags',
+      //   'perf -> trackPerf',
+      // ],
+      bindings: {
+        trackPerf: {
+          destination: 'trackPerf',
+          destinationType: 'queue',
+          source: 'perf',
+        },
+        populateAlbumCover: {
+          destination: 'populateAlbumCover',
+          destinationType: 'queue',
+          source: 'newAlbums',
+        },
+        populateAlbumDate: {
+          destination: 'populateAlbumDate',
+          destinationType: 'queue',
+          source: 'newAlbums',
+        },
+        populateAlbumStats: {
+          destination: 'populateAlbumStats',
+          destinationType: 'queue',
+          source: 'newAlbums',
+        },
+        populateAlbumTags: {
+          destination: 'populateAlbumTags',
+          destinationType: 'queue',
+          source: 'newAlbums',
+        },
+      },
       connection: {
         hostname: AMQP_HOSTNAME,
         options: {
@@ -47,9 +75,18 @@ const config: BrokerConfig = {
       },
       exchanges: {
         newAlbums: {
+          assert: true,
           type: 'fanout',
         },
         newTags: {
+          assert: true,
+          type: 'fanout',
+        },
+        perf: {
+          assert: true,
+          options: {
+            durable: false,
+          },
           type: 'fanout',
         },
       },
@@ -57,17 +94,33 @@ const config: BrokerConfig = {
         newAlbums: {
           exchange: 'newAlbums',
         },
-        newTags: {
-          exchange: 'newTags',
+        perf: {
+          exchange: 'perf',
         },
       },
-      queues: [
-        'populateAlbumCover',
-        'populateAlbumDate',
-        'populateAlbumStats',
-        'populateAlbumTags',
-      ],
+      // queues: [
+      //   'trackPerf',
+      //   'populateAlbumCover',
+      //   'populateAlbumDate',
+      //   'populateAlbumStats',
+      //   'populateAlbumTags',
+      // ],
+      queues: {
+        populateAlbumCover: { assert: true },
+        populateAlbumDate: { assert: true },
+        populateAlbumStats: { assert: true },
+        populateAlbumTags: { assert: true },
+        trackPerf: {
+          assert: true,
+          options: {
+            durable: false,
+          },
+        },
+      },
       subscriptions: {
+        trackPerf: {
+          queue: 'trackPerf',
+        },
         populateAlbumCover: {
           queue: 'populateAlbumCover',
         },
