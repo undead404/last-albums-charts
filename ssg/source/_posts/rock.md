@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T20:15:01.097Z
+date: 2021-04-03T07:30:00.948Z
 title: rock
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -27,9 +27,6 @@ The Beatles - Revolver (1966-08-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, rock, 1967, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic, 60s, classic rock, rock" role="button">
-The Beatles - Magical Mystery Tour (1967-11-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1968)
 </li>
@@ -42,14 +39,26 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 1977, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+AC/DC - Back in Black (1980-07-25)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Bruce Springsteen - Born in the U.S.A. (1984-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+Guns N' Roses - Appetite for Destruction (1987-07-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Ten (1991-08-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+Guns N' Roses - Use Your Illusion I (1991-09-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+Guns N' Roses - Use Your Illusion II (1991-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg" data-tags="grunge" role="button">
 Nirvana - Nevermind (1991-09-23)
@@ -125,9 +134,6 @@ Dave Matthews Band - Crash (1996-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 1996, 90s" role="button">
-Weezer - Pinkerton (1996-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcdfaf16-ca69-37f8-9616-9f0c5dc2c903/1154789943-500.jpg" data-tags="rock, alternative, 90s" role="button">
 Cake - Fashion Nugget (1996-09-17)
@@ -261,12 +267,6 @@ Hinder - Extreme Behavior (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Tool - 10,000 Days (2006-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
-AFI - Decemberunderground (2006-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
-Regina Spektor - Begin to Hope (2006-06-13)
-</li>
 <li data-cover="https://img.discogs.com/h6zZQTHVQ4QUBLe7aacMX-M4tgM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759992-1323225269.jpeg.jpg" data-tags="rock, indie, indie rock, british" role="button">
 Razorlight - Razorlight (2006-07-17)
 </li>
@@ -300,6 +300,9 @@ Lenny Kravitz - Greatest Hits (2008)
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
+Nickelback - Dark Horse (2008-11-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
 The Fray - The Fray (2009-01-30)
 </li>
@@ -308,9 +311,6 @@ Green Day - 21st Century Breakdown (2009-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 Incubus - Monuments And Melodies (2009-06-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge, alternative rock, 2009" role="button">
-Pearl Jam - Backspacer (2009-09-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 Three Days Grace - Life Starts Now (2009-09-22)
