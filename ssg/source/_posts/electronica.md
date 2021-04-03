@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:21:01.231Z
+date: 2021-04-03T20:40:01.236Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -10,7 +10,7 @@ title: "electronica: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">The Postal Service - Give Up (2003-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Human After All (2005-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">Röyksopp - The Understanding (2005-06-22)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">Imogen Heap - Speak for Yourself (2005-07-18)</li>
+<li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">Imogen Heap - Speak for Yourself (2005-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">Gorillaz - Plastic Beach (2010-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">Crystal Castles - Crystal Castles (2010-05-18)</li>
@@ -32,9 +32,6 @@ Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop" role="button">
-Massive Attack - Protection (1994-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
@@ -69,8 +66,11 @@ The Crystal Method - Vegas (1997-08-26)
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock, metal" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, idm, electronic" role="button">
+Boards of Canada - Music Has the Right to Children (1998-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/768bb870-b958-49e9-a87b-a695b67aec1b/14288438323-500.jpg" data-tags="electronic, faithless" role="button">
+Faithless - Sunday 8PM (1998-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
@@ -102,13 +102,13 @@ Röyksopp - Melody A.M. (2001-10-08)
 <li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
 Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, electronic" role="button">
+<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/dwUp27qEL88PzCYRgc2iUrDGMlc=/fit-in/464x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7045755-1437218119-3187.png.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Come With Us (2002-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, chillout" role="button">
+<li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
 Lemon Jelly - Lost Horizons (2002-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
@@ -159,7 +159,7 @@ The Chemical Brothers - Push the Button (2004-12)
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica" role="button">
+<li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
 Lemon Jelly - '64-'95 (2005-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
@@ -171,7 +171,7 @@ Vitalic - OK Cowboy (2005-04-04)
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
 <li data-cover="https://img.discogs.com/mdQJI41QVmFaX3dPa_5FCmS3khM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316345-1361556119-5610.jpeg.jpg" data-tags="electronic" role="button">

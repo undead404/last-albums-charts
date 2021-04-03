@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:18:01.276Z
+date: 2021-04-03T20:37:01.284Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -141,9 +141,6 @@ Say Anything - Is A Real Boy (2004)
 <li data-cover="http://coverartarchive.org/release/ee76a845-926d-4120-b83e-a2d543918428/25969450171-500.jpg" data-tags="emo, post-hardcore" role="button">
 Hidden in Plain View - Life In Dreaming (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f5c0d54-e9fa-3957-ab67-4c30ddb53262/23390004827-500.jpg" data-tags="rock, pop punk" role="button">
-Sugarcult - Palm Trees and Power Lines (2004-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
 </li>
@@ -170,6 +167,9 @@ Plain White T's - All That We Needed (2005-01-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk, emo" role="button">
 The Academy Is... - Almost Here (2005-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/7de99e6a-9598-4dc6-97da-dba133c12a80/4889907703-500.jpg" data-tags="mae, rock, alternative, indie rock" role="button">
+MAE - The Everglow (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
@@ -219,9 +219,6 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/15a9cca2-cd9e-4aac-9828-b85f184b1f84/24240958685-500.jpg" data-tags="acoustic, emo" role="button">
 Secondhand Serenade - Awake (2005-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal, alternative metal" role="button">
-Korn - See You on the Other Side (2005-12-05)
-</li>
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
@@ -237,8 +234,8 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/53fcfff0-d654-4807-bbf6-1b6411d4e0d6/7900674334-500.jpg" data-tags="indie" role="button">
-Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)
+<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
+Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
 Fall Out Boy - Infinity on High (2007-02-05)
@@ -290,6 +287,9 @@ Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
+Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dafe15c2-5fb9-4a5f-9b12-df031d3b0e9b/2103470066-500.jpg" data-tags="alternative rock" role="button">
 Panic! at the Disco - Vices & Virtues (2011-03-18)

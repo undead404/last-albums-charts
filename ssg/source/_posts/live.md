@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:48:07.140Z
+date: 2021-04-03T20:09:01.233Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -87,7 +87,7 @@ Dire Straits - On The Night (1993-05-11)
 <li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
 Neil Young - Unplugged (1993-06-11)
 </li>
-<li data-cover="https://img.discogs.com/tk-DkgaPWp9YQnXXvWt_fYNvfeU=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1770669-1490737712-6789.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/lbgvX7bd4ShtlT_kfdk9Cb9rgrM=/fit-in/599x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515400-1225385807.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
 The Cure - Show (1993-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2d0b8ef-272a-46b9-8b99-3e6831318ad9/6329050674-500.jpg" data-tags="live, alternative, female vocalists" role="button">
@@ -111,7 +111,7 @@ Live - Throwing Copper (1994-04-19)
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
 </li>
-<li data-cover="https://img.discogs.com/kq6a2HzPvqw7g-kqYXZWdRIovD4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883176-1608795479-7067.jpeg.jpg" data-tags="rock, folk, 90s, live, 1995, acoustic, folk rock, bob dylan" role="button">
+<li data-cover="https://img.discogs.com/kq6a2HzPvqw7g-kqYXZWdRIovD4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883176-1608795479-7067.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
 Bob Dylan - MTV Unplugged (1995-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
@@ -119,9 +119,6 @@ Pink Floyd - Pulse (1995-05-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Dire Straits - Live At The BBC (1995-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
-Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/xOvnQ6hQZ0MYgUkFV7WGD5Z94bg=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652210-1338961582-8057.jpeg.jpg" data-tags="rock" role="button">
 Gin Blossoms - Follow You Down (1996-01-23)
@@ -149,6 +146,9 @@ Portishead - Roseland NYC Live (1998-11-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge, rock, live" role="button">
 Pearl Jam - Live On Two Legs (1998-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/e68bc44b-f410-35cc-bf84-c0abbbcc08b8/11497364966-500.jpg" data-tags="acoustic, unplugged, live" role="button">
+Alanis Morissette - MTV Unplugged (1998-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
 Sarah McLachlan - Mirrorball (1999-06-15)
@@ -186,13 +186,16 @@ Legião Urbana - Como é que se diz eu te amo (2001-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, acoustic, live" role="button">
 Jeff Mangum - Live at Jittery Joe's (2001-08-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc85b1de-cf7e-3241-9022-fea31857beab/16360798338-500.jpg" data-tags="electronic, electronica, french, electro, house, live, daft punk" role="button">
+Daft Punk - Alive 1997 (2001-10-01)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
 </li>
-<li data-cover="https://img.discogs.com/SJGfQpjn__fQln9HSBD1nYPsjso=/fit-in/600x926/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2976694-1419413692-8369.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
+<li data-cover="https://img.discogs.com/wsth58Vm-20-xd2QGRkYbUsXRfc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6369706-1418122645-1265.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
 Björk - Homogenic Live (2003-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3e5f94-ba19-32a5-a7c0-8787356a46f0/5960364405-500.jpg" data-tags="live" role="button">
@@ -207,7 +210,7 @@ Linkin Park - Live in Texas (2003-11-18)
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">
 Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="2004, live" role="button">
+<li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="live" role="button">
 Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c7f2328-df86-4d6b-a2ec-a96eeb28dfd3/5718688483-500.jpg" data-tags="rock, live" role="button">
@@ -305,9 +308,6 @@ David Bowie - A Reality Tour (2010-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
 The White Stripes - Under Great White Northern Lights (2010-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/3d51dab8-ace9-3a5c-8f0a-6f841a7b794d/1559544631-500.jpg" data-tags="live" role="button">
-Madonna - Sticky & Sweet Tour (2010-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/79a7bffc-fc7c-4df9-8b7f-03f7f4fcd3a3/10028163862-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Special Moves (2010-08-23)

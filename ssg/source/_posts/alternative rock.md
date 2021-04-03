@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:23:01.252Z
+date: 2021-04-03T20:42:01.226Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Muse - Absolution (2003-09-08)](https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg "Muse - Absolution (2003-09-08)")
@@ -11,9 +11,9 @@ title: "alternative rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">Jimmy Eat World - Futures (2004-10-11)</li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - A Beautiful Lie (2005-08-16)</li>
+<li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">Linkin Park - Minutes to Midnight (2007-05-11)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">Muse - The Resistance (2009-09-10)</li>
-<li data-cover="http://coverartarchive.org/release/6221bd54-033d-4876-b722-736b4e95686b/4193279921-500.jpg" data-tags="alternative rock" role="button">30 Seconds to Mars - This Is War (2009-12-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1415ba1b-1208-4c4a-b711-65275b10ae05/24215425508-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Surfer Rosa (1988-03-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Pixies - Doolittle (1989-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd797f26-ddc1-43ae-8950-1757e28753cb/7646216656-500.jpg" data-tags="1991, 90s, alternative rock, rock" role="button">
 R.E.M. - Out of Time (1991-03-08)
@@ -36,7 +39,7 @@ Nirvana - Nevermind (1991-09-23)
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal, 1992, alternative" role="button">
+<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
@@ -44,9 +47,6 @@ R.E.M. - Automatic for the People (1992-10-06)
 </li>
 <li data-cover="https://img.discogs.com/wuKGfBnlUDgGq5eJ4kf9VrAIJuk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7236404-1602232435-5640.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
 The Smashing Pumpkins - Siamese Dream (1993-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
-Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
@@ -63,10 +63,7 @@ Garbage - Garbage (1995-08-15)
 <li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e4c0a2dc-49cb-382b-9bb3-a40d09669583/14335985988-500.jpg" data-tags="alternative rock" role="button">
-The Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative, 90s, 1996, alternative rock, hard rock" role="button">
+<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
@@ -74,9 +71,6 @@ Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/fcdfaf16-ca69-37f8-9616-9f0c5dc2c903/1154789943-500.jpg" data-tags="rock, alternative, 90s" role="button">
-Cake - Fashion Nugget (1996-09-17)
 </li>
 <li data-cover="https://img.discogs.com/p4bN5vILQQzPkNFm1T3VpOsNT3E=/fit-in/308x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-495627-1403563640-8619.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
 Third Eye Blind - Third Eye Blind (1997-04-08)
@@ -198,11 +192,17 @@ The All-American Rejects - Move Along (2006)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="christian rock, alternative rock" role="button">
-Red - End Of Silence (2006-06-13)
+<li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
+Three Days Grace - One-X (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
+Breaking Benjamin - Phobia (2006-08-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, hard rock, rock" role="button">
+Papa Roach - The Paramour Sessions (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
@@ -213,11 +213,17 @@ Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
+Linkin Park - Minutes to Midnight (2007-05-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
+Alter Bridge - Blackbird (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/04e20dc5-cd0c-4315-9994-33d9856de5c6/14073861785-500.jpg" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
@@ -270,9 +276,6 @@ Paramore - Brand New Eyes (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/d608c081-dfdd-405c-ac27-d4b7442ad649/9406254911-500.jpg" data-tags="alternative rock" role="button">
 Breaking Benjamin - Dear Agony (2009-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c747c3f-877b-45cf-ab7e-89c15b0c98c0/3366550064-500.jpg" data-tags="rock, alternative rock, alternative, indie rock" role="button">
-Biffy Clyro - Only Revolutions (2009-11-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
 </li>
@@ -317,8 +320,5 @@ Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
-Coldplay - Ghost Stories (2014-05-16)
 </li>
 </ol>

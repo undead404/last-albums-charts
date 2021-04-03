@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:55:01.216Z
+date: 2021-04-03T19:57:01.245Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -171,6 +171,9 @@ Elvenking - The Winter Wake (2006-01-17)
 <li data-cover="http://coverartarchive.org/release/d982adb1-e0c0-43a5-95c4-1d5200555842/2996998812-500.jpg" data-tags="viking metal, folk metal" role="button">
 Ensiferum - Dragonheads (2006-02-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e9d0bb1-f8ef-4189-8a28-b42e32aded2a/13515723385-500.jpg" data-tags="folk metal, folk rock, german" role="button">
+Schandmaul - Mit Leib und Seele (2006-03-31)
+</li>
 <li data-cover="https://img.discogs.com/aE3345TwQXDkiZd3C3bdWSItwD8=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3308881-1325109190.jpeg.jpg" data-tags="folk metal" role="button">
 Korpiklaani - Tales Along This Road (2006-04-21)
 </li>
@@ -185,6 +188,9 @@ Die Apokalyptischen Reiter - Riders On The Storm (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b455705-d7a7-4857-8de3-c03e8e6ee61d/6523032214-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Ragnarok (2006-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/be330949-0a9d-481e-88a1-a5dc9e882589/21777987081-500.jpg" data-tags="folk metal" role="button">
+Moonsorrow - V: Hävitetty (2007-01-10)
 </li>
 <li data-cover="https://img.discogs.com/y7-txuGMmKU_rrCc8srybWylrxI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6938050-1429953673-4838.jpeg.jpg" data-tags="folk metal" role="button">
 Battlelore - Evernight (2007-02-14)
@@ -279,14 +285,8 @@ Korpiklaani - Ukon Wacka (2011-02-04)
 <li data-cover="https://img.discogs.com/T0W57vrf7Y9CAVlaN76garpbTNA=/fit-in/350x349/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4951775-1380390621-8347.gif.jpg" data-tags="folk metal, symphonic metal" role="button">
 Turisas - Stand Up and Fight (2011-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9de7172-8bee-4bd2-a978-1711770ea2cb/13630739784-500.jpg" data-tags="folk metal, progressive metal" role="button">
-Týr - The Lay of Thrym (2011-05-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/c60322e5-8598-41b4-b019-180a0080b335/27850943118-500.jpg" data-tags="folk metal" role="button">
 Alestorm - Back Through Time (2011-06-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/be8ecd6e-6acc-47e1-8f6a-335aecc85bd8/6320445358-500.jpg" data-tags="folk metal" role="button">
-Eluveitie - Vên (2012-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
 Wintersun - Time I (2012-10-19)

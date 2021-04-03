@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:52:01.239Z
+date: 2021-04-03T19:54:01.199Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -10,7 +10,7 @@ title: "swedish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">Caesars - Jerk It Out (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/2ae3ea06-a05a-4389-b2eb-551a3ec9a0ae/13097774396-500.jpg" data-tags="swedish" role="button">Kent - Du & jag döden (2005-03-15)</li>
-<li data-cover="http://coverartarchive.org/release/a2d9edb0-6131-4ca6-a574-0afafbcdfa48/23890573975-500.jpg" data-tags="2005, indie, pop, swedish, rock" role="button">Jens Lekman - Oh You're So Silent Jens (2005-06-08)</li>
+<li data-cover="http://coverartarchive.org/release/a2d9edb0-6131-4ca6-a574-0afafbcdfa48/23890573975-500.jpg" data-tags="indie, pop, swedish, rock" role="button">Jens Lekman - Oh You're So Silent Jens (2005-06-08)</li>
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">The Knife - Silent Shout (2006-02-15)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
@@ -93,9 +93,6 @@ The Cardigans - Long Gone Before Daylight (2003-03-24)
 <li data-cover="https://img.discogs.com/h-EXhG6VpurJgbKyYTL8rOdlAt8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335827-1483825501-7289.jpeg.jpg" data-tags="swedish, 00s, indie, rock" role="button">
 The Concretes - The Concretes (2003-05-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e65bc986-01bf-4561-87b9-ade631fa6617/15836900241-500.jpg" data-tags="bitpop" role="button">
-Slagsmålsklubben - Den svenske disco (2003-06-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 José González - Veneer (2003-10)
 </li>
@@ -105,7 +102,7 @@ Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
 <li data-cover="https://img.discogs.com/Q3E9hxvN7jdmBXzKP1yXA0x3WZ8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855250-1335035281.gif.jpg" data-tags="2003, electronic" role="button">
 The Knife - Hannah med H (2003-11-23)
 </li>
-<li data-cover="https://img.discogs.com/IS5V2qnm5VrH3GnH0l2LpIOWbY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620057-1139399009.jpeg.jpg" data-tags="2004, indie, alternative, swedish, folk, singer-songwriter, svenskt, 2000s, registret, need to check this out, hupin, part of my vinyl collection, records i consider buying, singing songwriters, my private work station, irack, schoene musik, d2004, tiger lou  ttttttttttttttttttttt, samipop" role="button">
+<li data-cover="https://img.discogs.com/IS5V2qnm5VrH3GnH0l2LpIOWbY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620057-1139399009.jpeg.jpg" data-tags="indie, alternative, swedish, folk, singer-songwriter, svenskt, 2000s, hupin, singing songwriters, irack, d2004, tiger lou  ttttttttttttttttttttt, samipop" role="button">
 Tiger Lou - Is my head still on? (2004-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bfa71ba-2e99-4145-bf6c-63861d04ea92/7301076123-500.jpg" data-tags="melodic death metal" role="button">
@@ -123,6 +120,9 @@ Mando Diao - Hurricane Bar (2004-09-08)
 <li data-cover="http://coverartarchive.org/release/33194adb-690c-4978-822b-a4e6e7c26b66/16406458688-500.jpg" data-tags="pop, swedish" role="button">
 Peter Bjorn and John - Falling Out (2004-10-20)
 </li>
+<li data-cover="https://img.discogs.com/wqzWHSlPK9hGub5VD2q0Eti1E4s=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159224-1249246899.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
+Robyn - Robyn (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/a061a57a-9057-48cb-a24d-e32ba1ef680f/1503563272-500.jpg" data-tags="indie, 2005, swedish" role="button">
 Acid House Kings - Sing Along With Acid House Kings (2005)
 </li>
@@ -135,7 +135,7 @@ Kent - Du & jag döden (2005-03-15)
 <li data-cover="http://coverartarchive.org/release/467ff2fa-879b-3dc1-8aa6-146c331c97f8/19520417064-500.jpg" data-tags="2005, swedish, synthpop, registret, new school, world as oyster" role="button">
 The Tough Alliance - The New School (2005-04-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2d9edb0-6131-4ca6-a574-0afafbcdfa48/23890573975-500.jpg" data-tags="2005, indie, pop, swedish, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/a2d9edb0-6131-4ca6-a574-0afafbcdfa48/23890573975-500.jpg" data-tags="indie, pop, swedish, rock" role="button">
 Jens Lekman - Oh You're So Silent Jens (2005-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/de86fc39-c61d-3c1f-83fa-108827d12872/1991520366-500.jpg" data-tags="melodic death metal" role="button">
@@ -167,9 +167,6 @@ The Radio Dept. - Pet Grief (2006-04-12)
 </li>
 <li data-cover="https://img.discogs.com/k0hr64G-d7eA6WlD7l0CC6xedeA=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-793834-1159431566.jpeg.jpg" data-tags="indie pop" role="button">
 I'm from Barcelona - Let Me Introduce My Friends (2006-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/dcc3e46f-b15c-4159-b294-5e37ea87ee12/3455676064-500.jpg" data-tags="hip hop, swedish, swedish hiphop" role="button">
-Snook - Är (2006-05-10)
 </li>
 <li data-cover="https://img.discogs.com/W0MWLlxLuJqQ06UhJPcSog5899Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2160872-1271274610.jpeg.jpg" data-tags="indie, swedish" role="button">
 Sambassadeur - Migration (2007-10-24)
@@ -204,7 +201,7 @@ Kleerup - Kleerup (2008-05-21)
 <li data-cover="https://img.discogs.com/gUZ66eRNlRILHIOS27nQXq05yuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423483-1420821003-7046.jpeg.jpg" data-tags="electronic" role="button">
 Air France - No Way Down (2008-06-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish, registret, dloved, on tour 2009" role="button">
+<li data-cover="https://img.discogs.com/1JrX-TW4TGpPS_HKoJbRML9q3oA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472895-1241973961.jpeg.jpg" data-tags="swedish, registret, dloved, on tour 2009" role="button">
 Hello Saferide - More Modern Short Stories From Hello Saferide (2008-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ab39158-1e64-4576-af54-9df29e2c9668/25606670378-500.jpg" data-tags="rock, swedish" role="button">
@@ -275,6 +272,9 @@ Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
+Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)

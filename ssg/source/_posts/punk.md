@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:22:01.235Z
+date: 2021-04-03T20:43:01.246Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -60,6 +60,9 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">
+Bad Brains - Bad Brains (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
 The Clash - Combat Rock (1982-05-14)
 </li>
@@ -77,9 +80,6 @@ Social Distortion - Social Distortion (1990-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/da173a7b-ba7a-4958-86d4-70d229217cd9/21926789326-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ignition (1992-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/fd4a7f6c-63cf-4b9f-885b-ada3032ccd88/3754348144-500.jpg" data-tags="punk rock" role="button">
-Bad Religion - Stranger Than Fiction (1994)
 </li>
 <li data-cover="https://img.discogs.com/FQAFxI3rrJZOiQQ1c37mdpHVy_Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8984704-1472761513-5434.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Dookie (1994-01-28)

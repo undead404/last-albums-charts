@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:49:01.619Z
+date: 2021-04-03T20:36:01.210Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -9,7 +9,7 @@ title: "male vocalists: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">Ray LaMontagne - Gossip In The Grain (2008-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg" data-tags="indie, male vocalists" role="button">Brandon Flowers - Flamingo (2010-09-03)</li>
-<li data-cover="https://img.discogs.com/Hg-rptamWsdjOsM0Eom2CUjQX_g=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6868296-1428342576-8699.png.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">Justice - Civilization (2011-03-30)</li>
+<li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">Justice - Civilization (2011-03-30)</li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">Passenger - All the Little Lights (2012-02-24)</li>
 <li data-cover="http://coverartarchive.org/release/b88cc724-d67c-47a1-bf7c-720e992c6b92/9371359026-500.jpg" data-tags="2012" role="button">Olly Murs - Right Place Right Time (2012-11-26)</li>
 <li data-cover="http://coverartarchive.org/release/613b3baf-852b-4424-9d50-770d9df2240f/22041304668-500.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists, domino" role="button">Arctic Monkeys - Why'd You Only Call Me When You're High? (2013-08-11)</li>
@@ -27,19 +27,13 @@ George Michael - Faith (1987-11-01)
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 1994, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
-Korn - Korn (1994-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/c93f6a84-0822-472f-ba7d-a49e475a9a43/4088021294-500.jpg" data-tags="nu metal, 1996" role="button">
-Korn - Life Is Peachy (1996-10-15)
 </li>
 <li data-cover="https://img.discogs.com/hRjEZRqC3Bh2WWbOs2VQ5ZFoyoc=/fit-in/500x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2997199-1579238129-6188.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/BYrRvmwDWEgqhFGsSii9CxtgiZs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1277652-1457476770-7073.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
 Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="male vocalists, new jack swing, faves, rap and hip hop, blackstreet, new songs" role="button">
@@ -54,6 +48,15 @@ Beck - Midnite Vultures (1999-11-20)
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
 </li>
+<li data-cover="https://img.discogs.com/zxQp8NHSvepBQGAdk_wijnPegEs=/fit-in/548x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-437496-1349778731-6583.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+Rob Dougan - Furious Angels (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
+Korn - Untouchables (2002-06-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
+Beck - Sea Change (2002-09-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
@@ -63,10 +66,7 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/YGAscfds6pyTRiBoj41srQKrZr0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1905478-1516219551-8553.jpeg.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists" role="button">
-Arctic Monkeys - demo (2004)
-</li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk, 2004" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
@@ -90,7 +90,7 @@ Beirut - Gulag Orkestar (2005)
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
 Omarion - O (2005-02-22)
 </li>
-<li data-cover="https://img.discogs.com/DufVgJTPPgluRqsRj3ZDUeFrj1M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2877147-1450375440-9871.jpeg.jpg" data-tags="electronic, electronica, alternative, rap, anticon, 00s, post-revolutionary pop song, avantgarde pop" role="button">
+<li data-cover="https://img.discogs.com/bYAV83fkUFWXBPjEVfOgUTIs-1o=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-438812-1413230572-7636.jpeg.jpg" data-tags="electronic, electronica, alternative, rap, anticon, 00s, post-revolutionary pop song, avantgarde pop" role="button">
 13 & God - 13 & God (2005-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7abad537-2974-3d4f-9b62-e5e5f03cd1a1/7544348813-500.jpg" data-tags="indie, rock, british, indie rock" role="button">
@@ -114,9 +114,6 @@ Robbie Williams - Intensive Care (2005-10-20)
 <li data-cover="http://coverartarchive.org/release/5ec29d87-ad4b-48ab-98b5-13ff6cffdc5c/10717310269-500.jpg" data-tags="country, male vocalists, country music" role="button">
 Jace Everett - Jace Everett (2005-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal, alternative metal" role="button">
-Korn - See You on the Other Side (2005-12-05)
-</li>
 <li data-cover="https://img.discogs.com/Y50-fvFuI1kOVdSPgY3Fs5Wp4rM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631942-1301164953.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Arctic Monkeys - When the Sun Goes Down (2005-12-09)
 </li>
@@ -135,9 +132,6 @@ Alexi Murdoch - Time Without Consequence (2006-06-06)
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
-ギルガメッシュ - 13's Reborn (2006-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
@@ -155,6 +149,9 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, experimental" role="button">
+Caribou - Andorra (2007-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
@@ -198,10 +195,13 @@ Owl City - Ocean Eyes (2009-07-14)
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
 </li>
+<li data-cover="https://img.discogs.com/p__qwB22Af-f2Y0Yr-lLPWyJ9JQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993310-1257429489.jpeg.jpg" data-tags="indie" role="button">
+Julian Casablancas - Phrazes For The Young (2009-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
 Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
-<li data-cover="https://img.discogs.com/4RE1-isPy9Q1chujpLEvpGwLOVc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6289564-1415681839-7549.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
 </li>
 <li data-cover="https://img.discogs.com/LpgTn_0p-KGSbeUana5uLiF8wIg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11667002-1520330340-3120.jpeg.jpg" data-tags="pop, rock, alternative, adult alternative, male vocalists, singer/songwriter, emusic download, albums i covet" role="button">
@@ -246,7 +246,7 @@ Marcelo Jeneci - Feito Pra Acabar (2010-12-01)
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)
 </li>
-<li data-cover="https://img.discogs.com/Hg-rptamWsdjOsM0Eom2CUjQX_g=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6868296-1428342576-8699.png.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">
+<li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">
 Justice - Civilization (2011-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/134d9dae-6935-46e3-b8fa-e057f9ca543b/6375116090-500.jpg" data-tags="alternative, indie rock, mat kearney" role="button">
@@ -282,8 +282,8 @@ Mumford & Sons - Babel (2012-09-13)
 <li data-cover="http://coverartarchive.org/release/b88cc724-d67c-47a1-bf7c-720e992c6b92/9371359026-500.jpg" data-tags="2012" role="button">
 Olly Murs - Right Place Right Time (2012-11-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="2013, pop" role="button">
-Justin Timberlake - The 20/20 Experience (2013-03-15)
+<li data-cover="https://img.discogs.com/U4LEEY3h2OyFyUuqg3AEwXgfbQA=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13752933-1582227292-3737.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
+Depeche Mode - Heaven (2013-01-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, australian, youtube, male vocalists" role="button">
 Troye Sivan - The Fault in Our Stars (2013-05-13)
@@ -293,6 +293,9 @@ Empire of the Sun - Alive (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/cab788d3-7e52-49d5-a4d8-7caaa1acbf48/4412443717-500.jpg" data-tags="alternative" role="button">
 Arctic Monkeys - Do I Wanna Know? (2013-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b32dc69b-cb78-4179-ad20-0d93e6e9be2d/6962674678-500.jpg" data-tags="folk, singer-songwriter, acoustic, male vocalists, fucking amazing, hairy chest, folk indie folk, us-singer" role="button">
+Gregory Alan Isakov - The Weatherman (2013-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/613b3baf-852b-4424-9d50-770d9df2240f/22041304668-500.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists, domino" role="button">
 Arctic Monkeys - Why'd You Only Call Me When You're High? (2013-08-11)
@@ -308,9 +311,6 @@ RuPaul - Born Naked (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/80baad45-ac14-4f4f-8344-c81e2d5e57d9/7114414678-500.jpg" data-tags="electronic, experimental pop" role="button">
 SOHN - Tremors (2014-04-07)
-</li>
-<li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
-Damon Albarn - Everyday Robots (2014-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/eaaf6a56-ee73-4227-812e-933eb0ec13a9/8574962668-500.jpg" data-tags="male vocalists" role="button">
 Pitbull - Fireball (2014-07-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:28:01.242Z
+date: 2021-04-03T20:39:01.247Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -24,14 +24,14 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, 80s" role="button">
 Sonic Youth - Daydream Nation (1988-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Pixies - Doolittle (1989-04-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg" data-tags="grunge" role="button">
 Nirvana - Nevermind (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal, 1992, alternative" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
@@ -57,9 +57,6 @@ Portishead - Dummy (1994-08-22)
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/756559fc-323b-3fad-968a-1d6a796fe3b5/15236932667-500.jpg" data-tags="90s, rock, alternative, grunge" role="button">
-Bush - Sixteen Stone (1994-12-06)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
 </li>
@@ -75,7 +72,7 @@ Björk - Post (1995-06-09)
 <li data-cover="http://coverartarchive.org/release/095d9b71-6d0d-3ed6-b07d-4b618c8749ac/8732200006-500.jpg" data-tags="rock, 90s, alternative, alternative rock" role="button">
 Garbage - Garbage (1995-08-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative, 90s, 1996, alternative rock, hard rock" role="button">
+<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
@@ -122,6 +119,9 @@ Jimmy Eat World - Bleed American (2001-07-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, alternative, 80s" role="button">
 The Cure - Greatest Hits (2001-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
+Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Sleeping with Ghosts (2003-01-08)
@@ -201,9 +201,6 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/9599042a-34a9-39f2-a52d-c903a382515c/11212013097-500.jpg" data-tags="rock" role="button">
-Nickelback - All The Right Reasons (2005-09-26)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
 Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 </li>
@@ -236,6 +233,9 @@ Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
+Linkin Park - Minutes to Midnight (2007-05-11)
 </li>
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:54:01.261Z
+date: 2021-04-03T20:24:01.488Z
 title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
@@ -71,9 +71,6 @@ Einherjer - Odin Owns Ye All (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5f91694-199e-3a0a-b4d9-9985c40a979c/18279167821-500.jpg" data-tags="black metal, viking metal" role="button">
 Enslaved - Blodhemn (1998-06-01)
-</li>
-<li data-cover="https://img.discogs.com/6-Ir8GHxyipCCoSgas9vj2hBvn0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8011752-1453560296-6777.jpeg.jpg" data-tags="black metal" role="button">
-Borknagar - The Archaic Course (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4ef0e9a-efd6-4f1c-a6cd-b88edc26cb32/11690344953-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Midnattens Widunder (1999)
@@ -224,6 +221,9 @@ Týr - Ragnarok (2006-09-22)
 </li>
 <li data-cover="https://img.discogs.com/TuNHQteGbYQl1AFFMRTQI_eS8rI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1869484-1520878173-2683.png.jpg" data-tags="viking metal" role="button">
 Myrkgrav - Trollskau, Skrømt og Kølabrenning (2006-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/be330949-0a9d-481e-88a1-a5dc9e882589/21777987081-500.jpg" data-tags="folk metal" role="button">
+Moonsorrow - V: Hävitetty (2007-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c2eec03-07b6-4ba8-80f0-da865591e029/2997012520-500.jpg" data-tags="viking metal" role="button">
 Ensiferum - One More Magic Potion (2007-02-07)

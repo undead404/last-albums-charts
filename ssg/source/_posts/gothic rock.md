@@ -1,19 +1,19 @@
 ---
-date: 2021-04-03T19:05:01.212Z
+date: 2021-04-03T20:35:01.211Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">The Cure - Pornography (1982-05-03)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">Bauhaus - Burning from the Inside (1983-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="80s, new wave" role="button">The Cure - Disintegration (1989-05-01)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic rock" role="button">The Sisters of Mercy - A Slight Case of Overbombing (1993-08-20)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock, gothic rock" role="button">The Cure - Bloodflowers (2000-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">Evanescence - Origin (2000-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="https://img.discogs.com/7NR2pL5hu23W8IOxq3buhXaCdO0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3853564-1346956630-4628.jpeg.jpg" data-tags="love metal, him" role="button">Him - Love Metal (2003-04-14)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">She Wants Revenge - She Wants Revenge (2005-12-13)</li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">Evanescence - The Open Door (2006-09-25)</li>
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">Kerli - Love Is Dead (2008-07-08)</li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -22,9 +22,6 @@ _________________
 
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
-Siouxsie and the Banshees - The Scream (1978-11-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 Joy Division - Love Will Tear Us Apart (1980-04-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
@@ -32,9 +29,6 @@ The Cure - Seventeen Seconds (1980-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 Joy Division - Closer (1980-07-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
-Joy Division - Atmosphere (1980-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - Kaleidoscope (1980-08-01)
@@ -54,6 +48,9 @@ Bauhaus - Mask (1981-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave" role="button">
 Joy Division - Still (1981-10-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="deathrock" role="button">
+Christian Death - Only Theatre of Pain (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/7981f14a-1bb5-3a36-99ce-a1377a17095b/26259040094-500.jpg" data-tags="post-punk, gothic rock" role="button">
 Bauhaus - The Sky's Gone Out (1982)
 </li>
@@ -69,6 +66,12 @@ Dead Can Dance - Dead Can Dance (1984-02-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
 Xmal Deutschland - Tocsin (1984-06)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic rock" role="button">
+The Sisters of Mercy - First and Last and Always (1985-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, rock" role="button">
+The Cult - Love (1985-08)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
 The Cure - The Head on the Door (1985-08-13)
 </li>
@@ -77,6 +80,9 @@ Siouxsie and the Banshees - Tinderbox (1986-04-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave, 80s, alternative" role="button">
 The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic rock" role="button">
+The Sisters of Mercy - Floodland (1987-11-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 Nick Cave & The Bad Seeds - Tender Prey (1988-04-25)
@@ -99,6 +105,15 @@ Swans - White Light From the Mouth of Infinity (1991-05-06)
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic rock" role="button">
+The Sisters of Mercy - Some Girls Wander by Mistake (1992-04-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic rock, darkwave, decadence, gothic" role="button">
+Агата Кристи - Позорная Звезда (1993)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic rock" role="button">
+The Sisters of Mercy - A Slight Case of Overbombing (1993-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
 Dead Can Dance - Into the Labyrinth (1993-09-13)
 </li>
@@ -117,23 +132,17 @@ Siouxsie and the Banshees - The Rapture (1995-01)
 <li data-cover="http://coverartarchive.org/release/73503b2d-538f-431b-9ff4-2c6af04f7beb/10401957300-500.jpg" data-tags="post-punk, industrial" role="button">
 Swans - The Great Annihilator (1995-01-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+Joy Division - Permanent (1995-06-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/db72b2a8-9a07-4bc6-b78c-d3dfe29a4eb4/25184996650-500.jpg" data-tags="90s, alternative, mute records" role="button">
 Nick Cave and the Bad Seeds - Murder Ballads (1996-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
-The Cure - Wild Mood Swings (1996-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal, industrial, metal" role="button">
-Marilyn Manson - Antichrist Superstar (1996-10-08)
 </li>
 <li data-cover="https://img.discogs.com/drEC4Qy-HSNgJ2g9Lo-wbWhccoY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891780-1477933367-4382.jpeg.jpg" data-tags="gothic metal, gothic rock" role="button">
 Paradise Lost - One Second (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b972e14-2e2f-4585-a428-644689de0e5a/3856728197-500.jpg" data-tags="gothic rock, gothic" role="button">
 Агата Кристи - Ураган (1997)
-</li>
-<li data-cover="https://img.discogs.com/t0-8IVorXdGcRGkzO9ipL9COpnM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102414-1424973682-3286.jpeg.jpg" data-tags="gothic metal" role="button">
-Tiamat - A Deeper Kind Of Slumber (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f6128f3-6638-40d2-b9cd-dc069dba18b6/2115320360-500.jpg" data-tags="gothic rock, gothic" role="button">
 Inkubus Sukkubus - Vampyre Erotica (1997-09-22)
@@ -153,20 +162,20 @@ The Smashing Pumpkins - Adore (1998-05-29)
 <li data-cover="https://img.discogs.com/poVRLtllDGFDnI4OBEX6WGO99vI=/fit-in/450x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1537761-1324245876.jpeg.jpg" data-tags="post-punk" role="button">
 Bauhaus - Crackle (1998-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock, metal" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
-</li>
 <li data-cover="https://img.discogs.com/WGzImFEZdQpnBKmE1CeuMpRmqGs=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7070471-1485671189-3103.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/77b9806c-2a9e-37b8-b6c9-543addcb157b/1078439108-500.jpg" data-tags="gothic metal" role="button">
-Tiamat - Skeleton Skeletron (1999-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c38d4983-987f-35b9-9683-932192d5e3c4/19881038050-500.jpg" data-tags="love metal" role="button">
 Him - Razorblade Romance (1999-12-19)
 </li>
 <li data-cover="https://img.discogs.com/edGEGZLOD16Kv6kByAo9_kEeeSg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130922-1194544860.jpeg.jpg" data-tags="gothic metal" role="button">
 Paradise Lost - Believe in Nothing (2000)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="deathrock, gothic rock" role="button">
+Cinema Strange - Cinema Strange (2000)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock, gothic rock" role="button">
+The Cure - Bloodflowers (2000-02-02)
 </li>
 <li data-cover="https://img.discogs.com/zj3F2CNjJwRu_aEDFdIpFG00lzY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6122498-1419101414-9922.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Blessed Be (2000-09-20)
@@ -210,12 +219,6 @@ Evanescence - Bring Me to Life (2003-04-14)
 <li data-cover="https://img.discogs.com/7NR2pL5hu23W8IOxq3buhXaCdO0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3853564-1346956630-4628.jpeg.jpg" data-tags="love metal, him" role="button">
 Him - Love Metal (2003-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/34de4124-76fd-4596-a891-82a9041612f9/6485727185-500.jpg" data-tags="radio radio radio" role="button">
-Ohgr - SunnyPsyOp (2003-07-01)
-</li>
-<li data-cover="https://img.discogs.com/mX38lkNFbxm2S0RMCeL-CPinhRg=/fit-in/332x332/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-377748-1105663763.jpg.jpg" data-tags="darkwave, gothic rock" role="button">
-Faith and the Muse - The Burning Season (2003-07-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/de3bd933-36b8-49aa-8d2d-55d0a86e64a9/27340748738-500.jpg" data-tags="doom metal, gothic metal, gothic rock, love metal, entwine" role="button">
 Entwine - Dieversity (2004-03-15)
 </li>
@@ -254,9 +257,6 @@ Lafee - LaFee (2006-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7b98a10-34b3-46c9-b596-5c1293befc91/1069103090-500.jpg" data-tags="gothic metal" role="button">
-Sirenia - Nine Destinies And A Downfall (2007-02-23)
 </li>
 <li data-cover="https://img.discogs.com/dEADnWZ22h2m69wsaK7UmA5euVs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8453695-1462473692-2954.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Angels (2007-02-27)

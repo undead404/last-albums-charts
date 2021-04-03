@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:35:01.287Z
+date: 2021-04-03T20:38:01.275Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -24,17 +24,26 @@ _________________
 <li data-cover="https://img.discogs.com/Jrb3lbZzH6HbC-_G5-WjfJovguM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7915575-1456169542-1746.jpeg.jpg" data-tags="60s, 1966, pop" role="button">
 The Beach Boys - Pet Sounds (1966-05-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, 80s, michael jackson" role="button">
+Michael Jackson - Thriller (1982-11-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 80s" role="button">
+Genesis - Invisible Touch (1986-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+Michael Jackson - Bad (1987-12-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, pop" role="button">
+Madonna - Like a Prayer (1989-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae5efacd-f75f-432a-9f22-b35d3169d21f/8121279988-500.jpg" data-tags="pop" role="button">
 Michael Jackson - Dangerous (1991-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Erotica (1992-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc4ae0a1-b3f9-4e40-aec5-22c937e935f1/6412412220-500.jpg" data-tags="pop" role="button">
-Mariah Carey - Daydream (1995-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b81d76f6-911e-4278-b8d9-cbac4ab3404b/17512583264-500.jpg" data-tags="pop" role="button">
 Spice Girls - Spice (1996-09-19)
@@ -45,9 +54,6 @@ Eagle-Eye Cherry - Desireless (1997)
 <li data-cover="http://coverartarchive.org/release/7baa1b45-b60e-3ab0-8acf-3e42186c05ea/2444548035-500.jpg" data-tags="pop" role="button">
 Savage Garden - Savage Garden (1997-03-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/02f8aca3-8bb3-44c4-abdf-26e4354d2e00/2137821691-500.jpg" data-tags="pop" role="button">
-Spice Girls - Spiceworld (1997-10-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
@@ -56,9 +62,6 @@ Madonna - Ray of Light (1998-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e99eb7b-0083-4053-81ab-b9ee0207bf1c/4358331297-500.jpg" data-tags="pop" role="button">
 Backstreet Boys - Millennium (1999-04-28)
-</li>
-<li data-cover="https://img.discogs.com/ljvDPVmweBOKTbge0p9t-V3mHJw=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6202448-1499001342-5565.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
-Whitney Houston - My Love Is Your Love (1999-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Christina Aguilera (1999-08-24)
@@ -69,14 +72,14 @@ Justin Timberlake - Justified (2002-11-04)
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
 </li>
-<li data-cover="https://img.discogs.com/OXVoM079mLpPeVMRCoTnxFAAlcU=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13663808-1558546223-9704.jpeg.jpg" data-tags="pop" role="button">
-Madonna - American Life (2003-04-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/398e0153-1af0-4052-a78d-d0120e80bc48/22471055903-500.jpg" data-tags="pop" role="button">
 Dido - Life for Rent (2003-09-26)
 </li>
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, michael jackson" role="button">
+Michael Jackson - Number Ones (2003-11-17)
 </li>
 <li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">
 Scissor Sisters - Scissor Sisters (2004-02-02)
@@ -132,10 +135,13 @@ James Morrison - Undiscovered (2006-07-31)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
+Metro Station - Metro Station (2007-09-18)
+</li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, pop" role="button">
+<li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
@@ -167,6 +173,9 @@ Jordin Sparks - Battlefield (2009-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
+Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
@@ -252,9 +261,6 @@ Britney Spears - Femme Fatale (2011-03-25)
 <li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
-Foster the People - Torches (2011-05-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
 </li>
@@ -288,14 +294,8 @@ Taylor Swift - Red (2012-10-22)
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="2012" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="2013, pop" role="button">
-Justin Timberlake - The 20/20 Experience (2013-03-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/e32719b7-0528-479c-992e-1b5ec4ebbb4a/9148397078-500.jpg" data-tags="2013, pop" role="button">
-Ariana Grande - Yours Truly (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

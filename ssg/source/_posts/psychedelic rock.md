@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:51:01.243Z
+date: 2021-04-03T20:02:01.194Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Ultraviolence (2014-06-13)](http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg "Lana Del Rey - Ultraviolence (2014-06-13)")
@@ -93,9 +93,6 @@ The Velvet Underground - White Light/White Heat (1968-01-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic, baroque pop, classic rock" role="button">
 The Zombies - Odessey and Oracle (1968-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">
-Os Mutantes - Os Mutantes (1968-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
 Pink Floyd - A Saucerful of Secrets (1968-06-29)
 </li>
@@ -165,9 +162,6 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
-Pink Floyd - The Wall (1979-11-30)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
@@ -180,11 +174,11 @@ Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 <li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8d42cff-a67c-4a29-9c31-e28ad8fcc32d/10611684247-500.jpg" data-tags="grunge, rock" role="button">
-Pearl Jam - No Code (1996-08-14)
-</li>
 <li data-cover="https://img.discogs.com/tz4d5Vb1kdA8_o1J_023wIxo1lk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4984292-1381345637-3685.jpeg.jpg" data-tags="britpop" role="button">
 Kula Shaker - K (1996-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
+Ween - The Mollusk (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a807034d-09ee-3d4c-9566-06d114c1fc6c/5710869185-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Standing on the Shoulder of Giants (2000-02-23)
@@ -198,6 +192,9 @@ The Doors - The Very Best of The Doors (2001-09-08)
 <li data-cover="https://img.discogs.com/IUnlfISlMxPX-VUpEFYyOit9Ous=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-626319-1495180521-5734.mpo.jpg" data-tags="psychedelic rock" role="button">
 Dungen - Ta det lugnt (2004-06-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
+Black Mountain - Black Mountain (2005-01-18)
+</li>
 <li data-cover="https://img.discogs.com/BLDys9EW5ZBJTLCPLsVhqGWNTWA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1823932-1245786549.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
@@ -207,7 +204,7 @@ The Flaming Lips - At War With The Mystics (2006-04-03)
 <li data-cover="http://coverartarchive.org/release/5a014fc8-b030-491a-9dc1-e8cf74ace99c/4549690587-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
 Colour Haze - Tempel (2006-07-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/c67bca1d-6300-445a-8140-d02e1ee335a2/24991340103-500.jpg" data-tags="psychedelic, psychedelic rock, tame impala" role="button">
@@ -225,13 +222,13 @@ Gang Gang Dance - Saint Dymphna (2008-10-20)
 <li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/p5gcgO8z7sqPBYA_fXlyR5EYT-s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3998207-1351841886-6993.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - Metamorphosis (2009-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a0d6f6b-0a2b-4449-880c-4529bdaec15d/16256226007-500.jpg" data-tags="blues rock" role="button">
 Radio Moscow - Brain Cycles (2009-04-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, alternative rock, indie rock, british" role="button">
+<li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
@@ -282,6 +279,9 @@ Arctic Monkeys - Suck It and See (2011-10-31)
 <li data-cover="http://coverartarchive.org/release/93be2c5f-b9e2-46da-8bc8-04ab3e384682/8450685693-500.jpg" data-tags="indie, british, alternative rock, space rock, psychedelic rock, 10s, fat possum, 2012 releases, double six, summer jams" role="button">
 Spiritualized - Sweet Heart Sweet Light (2012-04-16)
 </li>
+<li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
+Om - Advaitic Songs (2012-07-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="2012" role="button">
 Tame Impala - Lonerism (2012-10-05)
 </li>
@@ -291,11 +291,11 @@ Mac DeMarco - 2 (2012-10-16)
 <li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Infestissumam (2013-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2be2a198-cb9a-4f00-848f-bcfaebb034e3/5355867457-500.jpg" data-tags="garage rock, psychedelic rock" role="button">
+Fuzz - Fuzz (2013-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="2013" role="button">
 Cage the Elephant - Melophobia (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/0982a7ba-812d-4dd8-9c9f-fbf70841e1b5/7360844668-500.jpg" data-tags="rock, psychedelic rock" role="button">
-All Them Witches - Lightning At The Door (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)

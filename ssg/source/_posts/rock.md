@@ -1,19 +1,19 @@
 ---
-date: 2021-04-03T19:19:01.470Z
+date: 2021-04-03T20:33:01.368Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">The Strokes - Is This It (2001-01-27)</li>
-<li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/bb29bd28-71e7-32d3-ab5f-c2d33b25434a/4817242679-500.jpg" data-tags="rock" role="button">The White Stripes - Elephant (2003-03-19)</li>
-<li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">Linkin Park - Meteora (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">Muse - Absolution (2003-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">Franz Ferdinand - Franz Ferdinand (2004-02-09)</li>
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
+<li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - A Beautiful Lie (2005-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
+<li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">Paramore - Brand New Eyes (2009-09-25)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -39,14 +39,29 @@ Led Zeppelin - Led Zeppelin II (1969-10-22)
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
+Pink Floyd - Wish You Were Here (1975-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, queen" role="button">
+Queen - Greatest Hits (1981-11-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/88263b6a-1785-48a7-9397-851edcaed134/17787327511-500.jpg" data-tags="rock" role="button">
 Bruce Springsteen - Born in the U.S.A. (1984-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, dire straits" role="button">
+Dire Straits - Brothers in Arms (1985-05-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 80s" role="button">
+Genesis - Invisible Touch (1986-06-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 80s" role="button">
+Queen - A Kind Of Magic (1986-06-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
@@ -62,6 +77,9 @@ Nirvana - Nevermind (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
+R.E.M. - Automatic for the People (1992-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
@@ -102,9 +120,6 @@ Oasis - (What's the Story) Morning Glory? (1995-10-02)
 <li data-cover="https://img.discogs.com/vPogf6imFIvnpC4hJWa1pfk92wI=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15138378-1587179369-9583.jpeg.jpg" data-tags="90s, ska, rock" role="button">
 No Doubt - Tragic Kingdom (1995-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative, 90s, 1996, alternative rock, hard rock" role="button">
-Rage Against the Machine - Evil Empire (1996-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/fcdfaf16-ca69-37f8-9616-9f0c5dc2c903/1154789943-500.jpg" data-tags="rock, alternative, 90s" role="button">
 Cake - Fashion Nugget (1996-09-17)
 </li>
@@ -116,9 +131,6 @@ The Verve - Urban Hymns (1997-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
 Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
@@ -132,23 +144,14 @@ Weezer - Weezer (2001-04-24)
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
-Nickelback - Silver Side Up (2001-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg" data-tags="rock, comedy" role="button">
 Tenacious D - Tenacious D (2001-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Sleeping with Ghosts (2003-01-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
-Evanescence - Fallen (2003-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb29bd28-71e7-32d3-ab5f-c2d33b25434a/4817242679-500.jpg" data-tags="rock" role="button">
 The White Stripes - Elephant (2003-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
-Linkin Park - Meteora (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
@@ -168,9 +171,6 @@ Gavin DeGraw - Chariot (2003-07-22)
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">
 Yellowcard - Ocean Avenue (2003-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
-Three Days Grace - Three Days Grace (2003-07-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Kings of Leon - Youth & Young Manhood (2003-07-23)
 </li>
@@ -182,9 +182,6 @@ Jet - Get Born (2003-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Room on Fire (2003-10-16)
-</li>
-<li data-cover="https://img.discogs.com/Moc0yEcaE2TzFDWvJhAj62mELPQ=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885282-1353635920-8040.jpeg.jpg" data-tags="rock, alternative rock" role="button">
-Lostprophets - Start Something (2004-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
@@ -201,17 +198,11 @@ The Killers - Hot Fuss (2004-06-07)
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
 </li>
-<li data-cover="https://img.discogs.com/Y3ZrWLBHYpX5M-UGLTgRcVZIEvI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063213-1326676273.jpeg.jpg" data-tags="nu metal, rock, hard rock, alternative rock" role="button">
-Papa Roach - Getting Away With Murder (2004-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">
 Green Day - American Idiot (2004-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, female vocalists" role="button">
-Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
@@ -237,6 +228,9 @@ Nickelback - All The Right Reasons (2005-09-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
 Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/b70fff68-559c-4efd-a035-5974cac6bd87/14997468926-500.jpg" data-tags="rock, hinder" role="button">
+Hinder - Extreme Behavior (2005-09-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">
 Wolfmother - Wolfmother (2005-10-31)
 </li>
@@ -246,6 +240,9 @@ The All-American Rejects - Move Along (2006)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
+Three Days Grace - One-X (2006-06-13)
+</li>
 <li data-cover="https://img.discogs.com/h6zZQTHVQ4QUBLe7aacMX-M4tgM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759992-1323225269.jpeg.jpg" data-tags="rock, indie, indie rock, british" role="button">
 Razorlight - Razorlight (2006-07-17)
 </li>
@@ -254,6 +251,9 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/080a8940-dc1a-49f2-b295-d0c15de3b066/12716962971-500.jpg" data-tags="rock" role="button">
+Daughtry - Daughtry (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
 Fall Out Boy - Infinity on High (2007-02-05)
@@ -267,8 +267,14 @@ Feist - The Reminder (2007-04-23)
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, post-punk" role="button">
+Interpol - Our Love to Admire (2007-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
+Nickelback - Dark Horse (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
 The Fray - The Fray (2009-01-30)
@@ -279,14 +285,8 @@ Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 Incubus - Monuments And Melodies (2009-06-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
-Skillet - Awake (2009-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">
 Muse - The Resistance (2009-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4/6689602780-500.jpg" data-tags="rock, alternative rock" role="button">
-Three Days Grace - Life Starts Now (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)

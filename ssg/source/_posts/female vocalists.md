@@ -1,12 +1,12 @@
 ---
-date: 2021-04-03T19:40:01.219Z
+date: 2021-04-03T20:27:01.312Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">Beyoncé - Dangerously in Love (2003-03-10)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">Imogen Heap - Speak for Yourself (2005-07-18)</li>
+<li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">Imogen Heap - Speak for Yourself (2005-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
@@ -24,7 +24,10 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
 </li>
-<li data-cover="https://img.discogs.com/sjsdo-RuVRn6gSKzC6gq7hLUxOw=/fit-in/375x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14993069-1585233306-1033.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+Tracy Chapman - Tracy Chapman (1988-04-01)
+</li>
+<li data-cover="https://img.discogs.com/v0hIr7vDyXjRKtS19EkkTOWPUfU=/fit-in/600x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-948871-1400406370-4362.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
@@ -78,13 +81,13 @@ Fiona Apple - Tidal (1996-07-23)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/e427c52c-60f4-3df4-9493-2df0734d85aa/3198645256-500.jpg" data-tags="female vocalists" role="button">
 Sarah McLachlan - Surfacing (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, singer-songwriter, electronic" role="button">
+<li data-cover="https://img.discogs.com/IwRSWIId9ZGGotw8pJqMqNa1KuU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2950828-1340169040-3380.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
 Imogen Heap - I Megaphone (1998-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/91b161bf-275e-3b8f-9fab-643e9d7ab152/14179447399-500.jpg" data-tags="alternative, female vocalists" role="button">
@@ -92,9 +95,6 @@ PJ Harvey - Is This Desire? (1998-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
-</li>
-<li data-cover="https://img.discogs.com/uSFfb8FH9rL5Et1OR_oiCEfufoI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14059264-1567034490-9146.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
-The Cranberries - Bury The Hatchet (1999-04-19)
 </li>
 <li data-cover="https://img.discogs.com/ljvDPVmweBOKTbge0p9t-V3mHJw=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6202448-1499001342-5565.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
 Whitney Houston - My Love Is Your Love (1999-06-21)
@@ -111,7 +111,7 @@ Evanescence - Origin (2000-11-04)
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
 Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, electronic" role="button">
+<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
@@ -177,16 +177,16 @@ Kelly Clarkson - Breakaway (2004-11-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/2902PK3x3Cof9C89ygQuLVXw4Lc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-870788-1448852393-9906.jpeg.jpg" data-tags="female vocalists" role="button">
 Fiona Apple - Extraordinary Machine (2005-03)
 </li>
 <li data-cover="https://img.discogs.com/c7A30504kBHJSS6ryAX93omeUGk=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12828091-1542731827-4457.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
 Mariah Carey - The Emancipation of Mimi (2005-04-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
 Anna Nalick - Wreck of the Day (2005-04-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
@@ -210,7 +210,7 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
+<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
@@ -222,7 +222,7 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, pop" role="button">
+<li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
 </li>
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
@@ -231,7 +231,7 @@ The Asteroids Galaxy Tour - Fruit (2008)
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
 Lykke Li - Youth Novels (2008-01-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, hip hop" role="button">
+<li data-cover="https://img.discogs.com/vmOG8gWA1E0LtCFsj2A3WRsXfEc=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594382-1279055441.jpeg.jpg" data-tags="female vocalists, hip hop" role="button">
 M.I.A. - Paper Planes (2008-02-11)
 </li>
 <li data-cover="https://img.discogs.com/RthahH2HJj5B-I64sqBPuC6O_Q8=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12906768-1544273238-7314.jpeg.jpg" data-tags="trip-hop" role="button">
@@ -294,7 +294,7 @@ Sia - We Are Born (2010-06-07)
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, adele" role="button">
+<li data-cover="https://img.discogs.com/rszIWLAItrXcGoXSeyZLZDKLqew=/fit-in/500x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3143569-1373113252-1702.jpeg.jpg" data-tags="female vocalists, adele" role="button">
 Adele - Rolling in the Deep (2010-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:44:01.200Z
+date: 2021-04-03T20:17:01.389Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -35,6 +35,9 @@ The Clash - London Calling (1979-12-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="britpop, indie, madchester" role="button">
+The Stone Roses - The Stone Roses (1989-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
@@ -84,7 +87,7 @@ The Beatles - 1 (2000-11-13)
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, electronic" role="button">
+<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/24bd9621-0b64-4897-ac4d-50c7519d1017/21664410934-500.jpg" data-tags="indie rock, indie" role="button">
@@ -141,7 +144,7 @@ Bloc Party - Silent Alarm (2005-02-02)
 <li data-cover="http://coverartarchive.org/release/7abad537-2974-3d4f-9b62-e5e5f03cd1a1/7544348813-500.jpg" data-tags="indie, rock, british, indie rock" role="button">
 Arctic Monkeys - I Bet You Look Good on the Dancefloor (2005-05-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
 <li data-cover="https://img.discogs.com/Y50-fvFuI1kOVdSPgY3Fs5Wp4rM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631942-1301164953.jpeg.jpg" data-tags="indie, indie rock" role="button">
@@ -206,9 +209,6 @@ Oasis - Dig Out Your Soul (2008-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
-</li>
-<li data-cover="https://img.discogs.com/hPBi_tvsKOpa0IUmtVzQtKYmGgY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13487694-1555161652-4877.jpeg.jpg" data-tags="rock, british, indie rock, 00s" role="button">
-Peter Doherty - Grace/Wastelands (2009-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
 Paolo Nutini - Sunny Side Up (2009-05-29)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:25:01.289Z
+date: 2021-04-03T20:14:01.246Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Pixies - Doolittle (1989-04-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Neutral Milk Hotel - On Avery Island (1996-03-26)
 </li>
@@ -206,9 +209,6 @@ Bloc Party - Intimacy (2008-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">
-Deerhunter - Microcastle (2008-10-27)
 </li>
 <li data-cover="https://img.discogs.com/7ymhqa2eFVP5TMYG5e5p3S1LUmM=/fit-in/526x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574748-1229522744.jpeg.jpg" data-tags="indie rock" role="button">
 White Lies - To Lose My Life (2009-01-11)
