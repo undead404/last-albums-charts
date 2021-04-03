@@ -1,6 +1,6 @@
 ---
-date: 2021-04-03T10:58:28.868Z
-title: rock
+date: 2021-04-03T12:36:16.044Z
+title: 10&#x2F;100 rock albums you must listen before you die
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
 <ol class="albums">
@@ -12,8 +12,8 @@ title: rock
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, franz ferdinand, rock" role="button">Franz Ferdinand - Franz Ferdinand (2004-02-09)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, emo" role="button">Jimmy Eat World - Futures (2004-10-11)</li>
 <li data-cover="http://coverartarchive.org/release/b4eaadb3-b924-4fa3-8d6e-7fd016a86192/2293475396-500.jpg" data-tags="rock" role="button">My Chemical Romance - The Black Parade (2006-10-23)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,16 +21,16 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 60s, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/c7f648e2-9c6d-32df-b5ee-ccab3e696a51/16250684845-500.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Revolver (1966-08-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, rock, 1967, classic rock" role="button">
+<li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, 1967, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock, classic rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/_DMp2tmKmRIrJP34jl0FxF98YyM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845550-1357178199-9196.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1968)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, 1969, 60s, classic rock, psychedelic" role="button">
+<li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 1969, 60s, classic rock, psychedelic" role="button">
 The Velvet Underground - The Velvet Underground (1969-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock" role="button">
@@ -39,7 +39,7 @@ Led Zeppelin - Led Zeppelin II (1969-10-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
@@ -71,9 +71,6 @@ Nirvana - Nevermind (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal, 1992, alternative" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 R.E.M. - Automatic for the People (1992-10-06)
@@ -108,7 +105,7 @@ The Cranberries - No Need to Argue (1994-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="90s, rock, female vocalists" role="button">
@@ -126,9 +123,6 @@ No Doubt - Tragic Kingdom (1995-10-06)
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative, 90s, 1996, alternative rock, hard rock" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc41e65d-471e-37fb-a050-73393f0ba30a/1606468604-500.jpg" data-tags="90s, rock" role="button">
-Dave Matthews Band - Crash (1996-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
 </li>
@@ -138,9 +132,6 @@ Cake - Fashion Nugget (1996-09-17)
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/1231824a-0e79-4306-8a6c-47b069bb72f9/7309778630-500.jpg" data-tags="britpop" role="button">
-Oasis - Be Here Now (1997-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
 </li>
@@ -149,9 +140,6 @@ Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock, rock, progressive rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
-PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Creed - Weathered (2001-01-19)
@@ -249,6 +237,9 @@ Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, u2" role="button">
 U2 - How to Dismantle an Atomic Bomb (2004-11-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Bloc Party - Silent Alarm (2005-02-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
@@ -260,6 +251,9 @@ Hinder - Extreme Behavior (2005-09-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock" role="button">
 Wolfmother - Wolfmother (2005-10-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock" role="button">
+Yeah Yeah Yeahs - Show Your Bones (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Tool - 10,000 Days (2006-04-28)
@@ -288,8 +282,14 @@ My Chemical Romance - The Black Parade (2006-10-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Daughtry - Daughtry (2006-11-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
-Lenny Kravitz - Greatest Hits (2008)
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
+Feist - The Reminder (2007-04-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Kings of Leon - Only by the Night (2008-09-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
 Nickelback - Dark Horse (2008-11-17)
@@ -312,13 +312,13 @@ Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="garage rock" role="button">
-The Dead Weather - Sea of Cowards (2010-05-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
 The Pretty Reckless - Light Me Up (2010-08-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Arctic Monkeys - AM (2013-08-01)
 </li>
 </ol>
