@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T04:00:00.900Z
+date: 2021-04-03T09:04:59.147Z
 title: power metal
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -96,9 +96,6 @@ Rhapsody - Symphony of Enchanted Lands (1998-10-05)
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Oceanborn (1998-12-07)
 </li>
-<li data-cover="https://img.discogs.com/gSg58eDMiqGerChL-r4SeRDPI9U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12359483-1533657074-1211.jpeg.jpg" data-tags="power metal" role="button">
-Kamelot - The Fourth Legacy (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/704614f7-83f8-498a-b9ff-6ddec53300bf/4264295325-500.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Hatebreeder (1999-04-21)
 </li>
@@ -174,9 +171,6 @@ HammerFall - Crimson Thunder (2002-10-23)
 <li data-cover="http://coverartarchive.org/release/fa0410bd-35e3-43de-aa19-efa559a485b3/3192372073-500.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Hate Crew Deathroll (2003-01-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c5b22d5-e901-3e0c-89b1-ded24953449a/1287069532-500.jpg" data-tags="power metal" role="button">
-Kamelot - Epica (2003-01-13)
-</li>
 <li data-cover="https://img.discogs.com/EebFe5We3UO2zqXT6tD2nar8ZbQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3856397-1347059602-8973.jpeg.jpg" data-tags="power metal" role="button">
 Masterplan - Masterplan (2003-01-20)
 </li>
@@ -225,6 +219,9 @@ Avenged Sevenfold - City of Evil (2005-06-07)
 <li data-cover="http://coverartarchive.org/release/98ec9bed-7912-3faa-994d-39b045c2842d/4309139312-500.jpg" data-tags="power metal" role="button">
 Demons & Wizards - Touched by the Crimson King (2005-06-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/295a0816-ab5f-4fd0-a09f-c6055805ce16/14222280979-500.jpg" data-tags="power metal" role="button">
+Gamma Ray - Majestic (2005-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">
 DragonForce - Inhuman Rampage (2005-12-28)
 </li>
@@ -266,6 +263,9 @@ Helloween - Gambling with the Devil (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf68f77f-7e28-4afb-b51e-e15b42a86a3e/8143822806-500.jpg" data-tags="power metal" role="button">
 Avantasia - The Scarecrow (2008-01-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/4106c5e2-d1ec-47d8-9676-22167b3667b9/14972188877-500.jpg" data-tags="power metal" role="button">
+Firewind - The Premonition (2008-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcb0bdfc-1a99-4478-9002-d6ab9e7353cc/24486169115-500.jpg" data-tags="power metal" role="button">
 Sabaton - The Art of War (2008-05-30)
