@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T11:46:27.776Z
+date: 2021-04-03T09:38:47.979Z
 title: norwegian black metal
 ---
 ![Mayhem - De Mysteriis Dom Sathanas (1994-05-24)](http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg "Mayhem - De Mysteriis Dom Sathanas (1994-05-24)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/NFSBv5D5-cD35TZBCGvB5nR2yjA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1278994-1485596375-1950.jpeg.jpg" data-tags="black metal" role="button">
 Mayhem - Deathcrush (1987-03)
 </li>
-<li data-cover="https://img.discogs.com/QVRzBHKAVbhSe141OxfJQRn3mac=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4096915-1355112299-5303.jpeg.jpg" data-tags="black metal, norwegian, norwegian black metal" role="button">
+<li data-cover="https://img.discogs.com/GYYhYbaJgY55-3k7C7rWe33t35s=/fit-in/522x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6643240-1465769534-4661.jpeg.jpg" data-tags="black metal, norwegian, norwegian black metal" role="button">
 Carpathian Forest - Bloodlust and Perversion (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6e9caed-aeb3-4de7-b47e-0c9c9b91a1dc/6619076015-500.jpg" data-tags="black metal" role="button">
@@ -72,9 +72,6 @@ Burzum - Hvis lyset tar oss (1994-04)
 <li data-cover="http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg" data-tags="black metal" role="button">
 Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca7d60c3-7812-41c8-bfe9-0ca2aeb484e2/19073133350-500.jpg" data-tags="black metal" role="button">
-Enslaved - Frost (1994-08-04)
-</li>
 <li data-cover="https://img.discogs.com/TLuei5VFj9jikf-RXnvqh4ojR8U=/fit-in/600x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5956936-1407345856-2710.jpeg.jpg" data-tags="black metal" role="button">
 Satyricon - The Shadowthrone (1994-09-12)
 </li>
@@ -83,6 +80,12 @@ Gorgoroth - Pentagram (1994-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/02ded4d3-468e-472e-9084-a6a11543d34d/4602331519-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Dimmu Borgir - For All Tid (1994-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/3db1dbbf-ab3e-4b86-83c1-2c412b7d3488/9202398890-500.jpg" data-tags="black metal" role="button">
+Ancient - Svartalvheim (1994-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/839b2ab0-6e3d-466a-84b1-ceb4ce35ece7/14047887017-500.jpg" data-tags="black metal" role="button">
+Mayhem - Dawn of the Black Hearts (1995)
 </li>
 <li data-cover="https://img.discogs.com/6vENLNWBl3xz5YO7VRIoag7373A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1834012-1304289973.jpeg.jpg" data-tags="black metal" role="button">
 Immortal - Battles In The North (1995-05-15)
@@ -93,11 +96,14 @@ Darkthrone - Panzerfaust (1995-06-06)
 <li data-cover="https://img.discogs.com/KLsHPCXjeJ98_ZFMwg9mwAxc07k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6978183-1430847414-6989.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Isengard - Høstmørke (1995-07-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="thrash metal, blackened thrash metal, black metal" role="button">
+<li data-cover="https://img.discogs.com/o03u2ClTVcmOioTnbBhnHPatLkA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-624229-1383990036-6282.jpeg.jpg" data-tags="thrash metal, blackened thrash metal, black metal" role="button">
 Aura Noir - Black Thrash Attack (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb4f0856-9a19-4bd3-805a-585873013c16/2694369151-500.jpg" data-tags="black metal" role="button">
 Kvist - For Kunsten Maa Vi Evig Vike (1996-01-01)
+</li>
+<li data-cover="https://img.discogs.com/MPLtz71BsHLYzqnBBbvgH7WO_lc=/fit-in/600x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373140-1334654294.jpeg.jpg" data-tags="black metal" role="button">
+Darkthrone - Total Death (1996-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5f8f5dd-73cb-417e-aa88-a14f15619763/5166048158-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Dimmu Borgir - Stormblåst (1996-01-25)
@@ -144,6 +150,12 @@ Immortal - At the Heart of Winter (1999-02-28)
 <li data-cover="http://coverartarchive.org/release/32ebc0bd-4573-3a9b-9d6d-3a9e0556c166/3479063559-500.jpg" data-tags="symphonic black metal, black metal" role="button">
 Dimmu Borgir - Spiritual Black Dimensions (1999-03-01)
 </li>
+<li data-cover="https://img.discogs.com/cNhyGiPa18oIAK7F52ij5CIZrFM=/fit-in/562x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2133956-1348802991-3436.jpeg.jpg" data-tags="black metal" role="button">
+Satyricon - Intermezzo II (1999-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/62d86a75-0fa3-42ce-90d2-5759c3cd14ee/8236215428-500.jpg" data-tags="black metal, live" role="button">
+Mayhem - Mediolanum Capta Est (1999-06-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Satyricon - Rebel Extravaganza (1999-09-06)
 </li>
@@ -171,23 +183,14 @@ Thorns - Thorns (2001-03-05)
 <li data-cover="http://coverartarchive.org/release/69a8e3b3-eabb-4134-9b14-2ce42a1b6776/13136914759-500.jpg" data-tags="symphonic black metal, black metal" role="button">
 Dimmu Borgir - Puritanical Euphoric Misanthropia (2001-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/a00d18db-6a11-42a3-8be7-154fec03d87f/2676449294-500.jpg" data-tags="black metal" role="button">
-Darkthrone - Plaguewielder (2001-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ef6c1bc-ad49-4090-bc03-de89ce20b633/2651046663-500.jpg" data-tags="black metal" role="button">
-Tsjuder - Demonic Possession (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/14c24481-a899-405f-b2d3-bd1a820e3b46/3445290056-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Dimmu Borgir - World Misanthropy (2002)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
-Immortal - Sons of Northern Darkness (2002-02-05)
 </li>
 <li data-cover="https://img.discogs.com/TLuei5VFj9jikf-RXnvqh4ojR8U=/fit-in/600x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5956936-1407345856-2710.jpeg.jpg" data-tags="black metal, melodic black metal" role="button">
 Satyricon - Ten Horns - Ten Diadems (2002-06-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
-Satyricon - Volcano (2002-10-25)
+<li data-cover="https://img.discogs.com/OEYDD7JDirtSH4Eitu2pSlokHsE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6623328-1423316782-8204.jpeg.jpg" data-tags="norwegian, norwegian black metal" role="button">
+Massemord - Skogen Kaller (2003)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Urgehal - Through Thick Fog Til Death (2003)
@@ -198,10 +201,10 @@ Emperor - Scattered Ashes: A Decade Of Emperial Wrath (2003-01-27)
 <li data-cover="http://coverartarchive.org/release/7660b39d-04a6-421f-8b32-e32e1f85d4ed/14774566853-500.jpg" data-tags="black metal" role="button">
 Carpathian Forest - Defending the Throne of Evil (2003-03-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/_9f31SMDhfiROhONQAGwZWducoI=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5205854-1387423595-1842.jpeg.jpg" data-tags="black metal" role="button">
 Darkthrone - Hate Them (2003-03-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/iQp-Ht5jEpUpE-ze0VtCTw-x2sI=/fit-in/430x434/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6029975-1409244485-9444.jpeg.jpg" data-tags="black metal" role="button">
 Koldbrann - Nekrotisk Inkvisition (2003-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
@@ -215,6 +218,9 @@ Mayhem - Chimera (2004-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b3e6363-2d1b-4ea0-8bc5-ed849e3a8d75/13320177159-500.jpg" data-tags="black metal" role="button">
 1349 - Beyond the Apocalypse (2004-04-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="norwegian black metal" role="button">
+Dimmu Borgir - Vredesbyrd (2004-05-17)
 </li>
 <li data-cover="https://img.discogs.com/naHhlRqCszJzYDJl-EegDz-NcbY=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849582-1303856900.jpeg.jpg" data-tags="black metal" role="button">
 Vreid - Kraft (2004-10-07)
@@ -252,17 +258,8 @@ Throne of Katarsis - An Eternal Dark Horizon (2007-03-05)
 <li data-cover="http://coverartarchive.org/release/56a81f6d-c806-4cd9-a633-bf124b59f826/9017373488-500.jpg" data-tags="black metal" role="button">
 Taake - Nekro (2007-03-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
-Mayhem - Ordo Ad Chao (2007-04-23)
-</li>
-<li data-cover="https://img.discogs.com/M-pFRuNirZcVM7Pn5OHuLqa6C8M=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6668617-1481961616-5739.jpeg.jpg" data-tags="symphonic black metal, black metal" role="button">
-Dimmu Borgir - In Sorte Diaboli (2007-04-24)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal, melodic black metal, norwegian black metal" role="button">
 Iskald - Shades of Misery (2007-05-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal, black n roll" role="button">
-Darkthrone - F.O.A.D. (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/726c0064-5c7a-4076-89aa-2fb0252e4175/11585937673-500.jpg" data-tags="norwegian black metal, nidrosian black metal" role="button">
 Celestial Bloodshed - Cursed, Scarred And Forever Possessed (2008)
@@ -291,14 +288,14 @@ Gorgoroth - Quantos Possunt Ad Satanitatem Trahunt (2009-10-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Urgehal - Ikonoklast (2009-11-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/a93f1c95-5bf1-3a03-b309-2fe6f10c981a/26976211236-500.jpg" data-tags="black metal" role="button">
+Ov Hell - The Underworld Regime (2010-02-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/b43a420d-f4be-3e74-836f-a3732718c92b/1480049199-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Burzum - Belus (2010-03-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 1349 - Demonoir (2010-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb28ab0e-2206-301b-aa52-cec4e5f56002/2676810399-500.jpg" data-tags="progressive black metal, 2010, black metal, progressive metal" role="button">
-Enslaved - Axioma Ethica Odini (2010-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/79f5becc-31b7-4b47-a0b1-12a90b745c6e/9142497826-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Burzum - Fallen (2011-03-07)
@@ -314,6 +311,9 @@ God Seed - Live At Wacken (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3a50e4-db1f-45eb-9879-485c6a6523f3/3115251344-500.jpg" data-tags="2012, black metal" role="button">
 Vemod - Venter på stormene (2012-12-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="2013, black metal, norwegian black metal" role="button">
+Koldbrann - Vertigo (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5d0778c-5c37-4bf8-b556-1519e0f44016/5555601159-500.jpg" data-tags="black metal, 2013" role="button">
 Satyricon - Satyricon (2013-09-04)
