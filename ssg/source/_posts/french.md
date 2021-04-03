@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:38:01.185Z
+date: 2021-04-03T21:35:01.359Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -27,6 +27,9 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="80s, french" role="button">
 Vanessa Paradis - M & J (1987)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="french" role="button">
+Mylène Farmer - Ainsi soit je... (1988-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/1232c14a-4f9d-485f-8ed8-c6a129b037ad/5527911872-500.jpg" data-tags="french, alternative" role="button">
 Mano Negra - Patchanka (1990)
 </li>
@@ -39,7 +42,7 @@ Noir Désir - Tostaky (1992)
 <li data-cover="http://coverartarchive.org/release/6a60b0f5-9a20-385c-9972-a0a4cf89f729/24001891419-500.jpg" data-tags="instrumental" role="button">
 Yann Tiersen - La Valse Des Monstres (1995-06-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, french, pop, cute girl rock" role="button">
+<li data-cover="http://coverartarchive.org/release/2aec11c0-41e5-4c6d-9150-8ad73548bf62/5102658391-500.jpg" data-tags="female vocalists, french, pop, cute girl rock" role="button">
 April March - Chick Habit (1995-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/138e37ff-da80-450e-9844-5a6ac0f967af/1171636325-500.jpg" data-tags="french" role="button">
@@ -78,7 +81,7 @@ Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">
 Phoenix - United (2000-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, french" role="button">
+<li data-cover="http://coverartarchive.org/release/c6b3977c-b218-4395-933d-f79e175309d7/1269886261-500.jpg" data-tags="electronica, french" role="button">
 Daft Punk - One More Time (2000-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bf1d515-460a-4e91-9b2f-12c5f8a6f7c6/1763285484-500.jpg" data-tags="french" role="button">
@@ -141,13 +144,13 @@ Jane Birkin - RENDEZ-VOUS (2004-03-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="french, rock, rock francais" role="button">
 Luke - La Tête en Arrière (2004-04-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french, female vocalists, female vocalist, girl power, pifou station, rock francais, light pop, lolitas, chanteuse sexy, scene francaise" role="button">
+<li data-cover="http://coverartarchive.org/release/df3fac3a-e4fc-4d8c-954c-47e72ebd8db3/9951733908-500.jpg" data-tags="french, female vocalists, female vocalist, girl power, pifou station, rock francais, light pop, lolitas, chanteuse sexy, scene francaise" role="button">
 Superbus - Pop'N'Gum (2004-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/83d94aaf-599a-4733-b113-b556e1a99385/6462198209-500.jpg" data-tags="french, german, 00s, emusic, stereo total, frances, glittering raspberry dancefloors, disko b, 21st century, records and tapes, edge of the world radio, barturismooth, fransk electronic" role="button">
 Stereo Total - Do the Bambi (2005-01-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, french" role="button">
+<li data-cover="http://coverartarchive.org/release/7b502429-072f-4c58-97b4-6547310d9f4a/16183335644-500.jpg" data-tags="electronica, french" role="button">
 Tahiti 80 - Fosbury (2005-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
@@ -162,7 +165,7 @@ Syd Matters - Someday We Will Foresee Obstacles (2005-04-05)
 <li data-cover="https://img.discogs.com/Hg-rptamWsdjOsM0Eom2CUjQX_g=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6868296-1428342576-8699.png.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/09b990ff-80df-4475-86bb-d7cda3c50579/6459993627-500.jpg" data-tags="female vocalists" role="button">
 Céline Dion - On ne change pas (2005-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2293f622-6a63-4c3c-b816-4a5e136a7278/2461177010-500.jpg" data-tags="french" role="button">
@@ -218,9 +221,6 @@ Danger - 09/14 2007 (2007-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bb86f81-b5ba-471f-927e-1d7c81bcd4cb/2903088736-500.jpg" data-tags="indie, folk" role="button">
 The Dø - A Mouthful (2008-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4fa3df0a-7fc5-4eec-bed5-94126b7bf484/13298055618-500.jpg" data-tags="electronic, french, idm, ultimae records, tag for albums, mtltww" role="button">
-Hol Baumann - Human (2008-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/66db2af0-7d53-4ca4-80af-2ed8b115cd61/1269482564-500.jpg" data-tags="french" role="button">
 Alain Bashung - Bleu Pétrole (2008-03-24)
@@ -288,7 +288,7 @@ Stupeflip - The hypnoflip invasion (2011-01-02)
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/e2aa508e-dc3f-4213-8f61-2773536db7e4/23565453379-500.jpg" data-tags="female vocalists" role="button">
 Mélanie Laurent - En t'attendant (2011-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">

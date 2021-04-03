@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:45:01.851Z
+date: 2021-04-03T21:07:01.221Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -32,6 +32,9 @@ The Cure - Seventeen Seconds (1980-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 Bauhaus - In the Flat Field (1980-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic, new wave" role="button">
+Siouxsie and the Banshees - Once Upon a Time: The Singles (1981)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 The Cure - Faith (1981-04-11)
@@ -69,6 +72,9 @@ The Cult - Love (1985-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
 The Cure - The Head on the Door (1985-08-13)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
+Clan of Xymox - Medusa (1986-11-01)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave, 80s, alternative" role="button">
 The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
 </li>
@@ -96,9 +102,6 @@ Lacrimosa - Einsamkeit (1992)
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/db8289f4-3602-31f6-a59b-3f57a7393908/1154285194-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
-Nine Inch Nails - Broken (1992-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d09899b-e70a-3aa4-8dd1-d5c8631990e2/16583603472-500.jpg" data-tags="gothic" role="button">
 Lacrimosa - Satura (1993)
 </li>
@@ -116,6 +119,9 @@ Umbra Et Imago - Infantile Spiele (1993-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/67f8a8be-8314-449e-8f7e-992a60b99aed/9039558893-500.jpg" data-tags="gothic metal" role="button">
+Lacrimosa - Inferno (1995)
 </li>
 <li data-cover="https://img.discogs.com/94AmcQuU-obeUm1S7ozvoAqRriI=/fit-in/491x784/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1476341-1222540056.jpeg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
 London After Midnight - Psycho Magnet (1995)
@@ -135,9 +141,6 @@ Nine Inch Nails - The Perfect Drug (1996)
 <li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
 The Cure - Wild Mood Swings (1996-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal, industrial, metal" role="button">
-Marilyn Manson - Antichrist Superstar (1996-10-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b972e14-2e2f-4585-a428-644689de0e5a/3856728197-500.jpg" data-tags="gothic rock, gothic" role="button">
 Агата Кристи - Ураган (1997)
 </li>
@@ -152,9 +155,6 @@ Nightwish - Angels Fall First (1997-11-01)
 </li>
 <li data-cover="https://img.discogs.com/JHOHTyWyL2vysmIQG8aBqDviIrw=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6308314-1416126352-5825.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Aégis (1998-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock, metal" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b300725-35bf-4f41-b6fd-cec5d48f077b/8769345080-500.jpg" data-tags="darkwave, gothic, ebm" role="button">
 Blutengel - Child of Glass (1999-02-22)

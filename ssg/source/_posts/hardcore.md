@@ -1,12 +1,12 @@
 ---
-date: 2021-04-03T19:08:01.184Z
+date: 2021-04-03T20:48:01.213Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative, 90s, 1996, alternative rock, hard rock" role="button">Rage Against the Machine - Evil Empire (1996-02)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">Refused - The Shape of Punk to Come (1998-10-27)</li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">From Autumn To Ashes - The Fiction We Live (2003-09-09)</li>
+<li data-cover="https://img.discogs.com/_2fzUuJ_jaz2W5wMlLqKhffJVFY=/fit-in/505x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2699296-1297084410.jpeg.jpg" data-tags="metalcore" role="button">Atreyu - The Curse (2004-06-28)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - The Sufferer & the Witness (2006-07-03)</li>
@@ -27,6 +27,9 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">
+Bad Brains - Bad Brains (1982)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk, alternative rock, sst" role="button">
 Hüsker Dü - New Day Rising (1985-01)
 </li>
@@ -36,17 +39,8 @@ Hüsker Dü - Candy Apple Grey (1986-03-17)
 <li data-cover="http://coverartarchive.org/release/df11248d-6a31-3a7d-a7a8-d384e6b3765c/17273598522-500.jpg" data-tags="hardcore, hardcore punk" role="button">
 Gorilla Biscuits - Start Today (1989-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/db8289f4-3602-31f6-a59b-3f57a7393908/1154285194-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
-Nine Inch Nails - Broken (1992-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
-Korn - Korn (1994-10-11)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
 Refused - Songs to Fan the Flames of Discontent (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative, 90s, 1996, alternative rock, hard rock" role="button">
-Rage Against the Machine - Evil Empire (1996-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">
 2Pac - All Eyez on Me (1996-02-13)
@@ -56,9 +50,6 @@ Slayer - Undisputed Attitude (1996-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
 Snot - Get Some (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock, metal" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -107,6 +98,9 @@ Every Time I Die - Hot Damn! (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2aca165d-f4e3-4a66-ab19-57ed8007d943/15450380625-500.jpg" data-tags="hardcore" role="button">
 Poison the Well - You Come Before You (2003-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
+Thrice - The Artist In The Ambulance (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb53cf6-48b4-4422-b6ed-6e5554317011/20586495597-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Waking The Fallen (2003-08-26)
@@ -159,9 +153,6 @@ He Is Legend - I Am Hollywood (2004-11-02)
 <li data-cover="http://coverartarchive.org/release/def35f73-abc3-4296-b41e-fc51ef0e177b/6677597463-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Bullet For My Valentine (2004-11-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/4862e45e-127d-423a-a4bf-95b79197c84a/10796070605-500.jpg" data-tags="nu metal, alternative metal, metal" role="button">
-Mudvayne - Lost and Found (2005-03-28)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial jungle pussy punk" role="button">
 Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
 </li>
@@ -213,11 +204,20 @@ From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 <li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
 blessthefall - His Last Walk (2007-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">
+August Burns Red - Messengers (2007-06-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/5591c8e3-f52a-487c-b130-da267a13f759/22180030295-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Silverstein - Arrivals & Departures (2007-07-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, hardcore" role="button">
 Evergreen Terrace - Wolfbiker (2007-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
+Five Finger Death Punch - The Way Of The Fist (2007-07-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, hard rock" role="button">
+Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e15d287b-2688-3abe-9b24-b1cccf235467/8179828763-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Swan Songs (2008-09-02)

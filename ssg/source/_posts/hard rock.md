@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:04:01.208Z
+date: 2021-04-03T20:47:01.539Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -9,11 +9,11 @@ title: "hard rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">Guns N' Roses - Appetite for Destruction (1987-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/db34a2e2-e5d5-43f5-9d9a-140ac6d2a738/13666947317-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion I (1991-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion II (1991-09-17)</li>
-<li data-cover="http://coverartarchive.org/release/01caa837-59b9-487a-bc3f-a47f6cf7e345/9725073329-500.jpg" data-tags="hard rock" role="button">AC/DC - Highway to Hell (1992-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">Metallica - Reload (1997-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">Led Zeppelin - Led Zeppelin (2003-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/0618d2be-4b47-383c-b1f4-eca2dd88f866/5870438747-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Greatest Hits (2004-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">Avenged Sevenfold - City of Evil (2005-06-07)</li>
+<li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">Avenged Sevenfold - Avenged Sevenfold (2007-10-26)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -32,9 +32,6 @@ Black Sabbath - Paranoid (1970-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin III (1970-10-05)
-</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
-Black Sabbath - Master of Reality (1971-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
@@ -78,14 +75,8 @@ Queen - News Of The World (1977-10-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/afdd3554-a343-4139-b2bd-fb3e994465d8/1606570432-500.jpg" data-tags="classic rock" role="button">
-Deep Purple - Deepest Purple: The Very Best of Deep Purple (1980)
-</li>
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/e320cb0c-dce1-39e9-a528-88a2c6fea317/23422441958-500.jpg" data-tags="heavy metal" role="button">
-Ozzy Osbourne - Blizzard of Ozz (1980-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2bf2166-b17f-32d9-b853-1e53b9af9f67/11272365315-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Ace of Spades (1980-11-08)
@@ -95,9 +86,6 @@ Van Halen - 1984 (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/24335da0-8587-3d50-931e-082b7cf42cd7/20733595394-500.jpg" data-tags="hard rock" role="button">
 Scorpions - Love at First Sting (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/01fbfacb-9ef6-4377-85c7-897b57975aa8/5243576660-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Twisted Sister - Stay Hungry (1984-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/994822e7-7540-47bd-af14-a17ebdea73fd/9962706585-500.jpg" data-tags="hard rock, 80s" role="button">
 Europe - The Final Countdown (1986)
@@ -141,9 +129,6 @@ Guns N' Roses - Use Your Illusion I (1991-09-16)
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion II (1991-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal, 1992, alternative" role="button">
-Faith No More - Angel Dust (1992-06-08)
-</li>
 <li data-cover="https://img.discogs.com/8zNb0iCL-YTQuy8txDVArGfUSTE=/fit-in/405x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008786-1349737299-5085.jpeg.jpg" data-tags="grunge, 90s" role="button">
 Stone Temple Pilots - Core (1992-09-29)
 </li>
@@ -156,20 +141,11 @@ AC/DC - Highway to Hell (1992-10-08)
 <li data-cover="http://coverartarchive.org/release/44598007-a40d-41de-a33b-a0dc09f0cd17/3889043593-500.jpg" data-tags="hard rock" role="button">
 Aerosmith - Get a Grip (1993-04-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock" role="button">
-Aerosmith - Big Ones (1994-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative, 90s, 1996, alternative rock, hard rock" role="button">
+<li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
 <li data-cover="https://img.discogs.com/7uugyL7EKpmzcHsSIH9l3RzD1ZQ=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10088901-1491408211-3665.jpeg.jpg" data-tags="hard rock, heavy metal" role="button">
 Metallica - Load (1996-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a842eb6-a4ac-414d-b098-958cfb4a28b6/16291470934-500.jpg" data-tags="hard rock" role="button">
-Aerosmith - Nine Lives (1997-03-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
-Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d3e9ab1-2701-4818-ae2a-8fbc650cf824/5658890227-500.jpg" data-tags="post-grunge, hard rock, rock" role="button">
 Creed - My Own Prison (1997-06-24)
@@ -204,8 +180,17 @@ Nickelback - Silver Side Up (2001-09-11)
 <li data-cover="http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg" data-tags="rock, comedy" role="button">
 Tenacious D - Tenacious D (2001-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
+Stone Sour - Stone Sour (2002-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c94fb29-a822-4ea8-a995-c5a7aecf8cdb/15192894490-500.jpg" data-tags="hard rock, kiss, classic rock, rock" role="button">
 Kiss - The Very Best of Kiss (2002-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
+Disturbed - Believe (2002-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0381376-5583-4aa6-88fa-2984d25ef3a5/7915054343-500.jpg" data-tags="hard rock, rock" role="button">
+Trapt - Trapt (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)
@@ -243,9 +228,6 @@ Papa Roach - Getting Away With Murder (2004-07)
 <li data-cover="http://coverartarchive.org/release/d071fda0-f5cb-448f-9b90-c0f1cd2d116f/6320184240-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Alter Bridge - One Day Remains (2004-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/05bcea44-73d4-4d78-979d-14f5a142816c/2279875362-500.jpg" data-tags="rock, hard rock" role="button">
-Seether - Karma & Effect (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
 Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
@@ -264,11 +246,32 @@ Wolfmother - Wolfmother (2005-10-31)
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock, alternative rock" role="button">
 Red - End Of Silence (2006-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4154364-8616-4603-b823-406e01443884/13686171413-500.jpg" data-tags="alternative rock, hard rock" role="button">
-Sick Puppies - Dressed Up As Life (2007-04-03)
+<li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
+Three Days Grace - One-X (2006-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7547981-f332-4ccf-873c-4296dd21503e/7566294873-500.jpg" data-tags="hard rock" role="button">
+Stone Sour - Come What(ever) May (2006-07-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
+Breaking Benjamin - Phobia (2006-08-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, hard rock, rock" role="button">
+Papa Roach - The Paramour Sessions (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/54f48d91-12e8-48c1-9f84-292e07b9faaa/4216579078-500.jpg" data-tags="hard rock" role="button">
 Airbourne - Runnin' Wild (2007-06-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, hard rock" role="button">
+Atreyu - Lead Sails Paper Anchor (2007-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
+Alter Bridge - Blackbird (2007-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6c5189b-360f-460b-852e-909e21e6392d/7915181098-500.jpg" data-tags="rock, alternative rock, hard rock" role="button">
+Seether - Finding Beauty in Negative Spaces (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">
+Avenged Sevenfold - Avenged Sevenfold (2007-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bf771ef-dad7-4ff0-911a-d9661fee3df1/10702278185-500.jpg" data-tags="metal, hard rock, alternative metal" role="button">
 Disturbed - Indestructible (2008-04-29)
@@ -296,9 +299,6 @@ Papa Roach - Metamorphosis (2009-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
 Skillet - Awake (2009-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/613f418b-dea5-4cb5-b5dd-12df16c7d825/7275083560-500.jpg" data-tags="groove metal, alternative metal" role="button">
-Five Finger Death Punch - War Is the Answer (2009-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4/6689602780-500.jpg" data-tags="rock, alternative rock" role="button">
 Three Days Grace - Life Starts Now (2009-09-22)

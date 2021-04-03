@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:39:01.255Z
+date: 2021-04-03T21:03:01.211Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -27,7 +27,7 @@ Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Bark Psychosis - Hex (1994-02-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, ambient, dream pop" role="button">
+<li data-cover="https://img.discogs.com/xQmoB4fGbAPtgCeEJml_vjb8X60=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8881897-1470723564-5424.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">
 Slowdive - Pygmalion (1995-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/19d89c34-6a91-4e7a-8d8a-499159e781cf/4483481718-500.jpg" data-tags="post-rock" role="button">
@@ -44,6 +44,9 @@ Sigur Rós - Von (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">
+Labradford - Mi media naranja (1997-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">
 American Football - American Football (1999-09-14)
@@ -117,7 +120,7 @@ Jaga Jazzist - What We Must (2005-04-04)
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="math rock, post-rock, monotreme records" role="button">
+<li data-cover="http://coverartarchive.org/release/c602130f-51ae-4797-b2f4-842ad1453ee1/5416910313-500.jpg" data-tags="math rock, post-rock, monotreme records" role="button">
 65daysofstatic - Radio Protector (2006-02-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
@@ -138,6 +141,12 @@ Isis - In the Absence of Truth (2006-10-06)
 <li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
 Jesu - Conqueror (2007-02-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Amiina - Kurr (2007-03-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, instrumental" role="button">
+Balmorhea - Balmorhea (2007-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/beae99c0-6d98-4504-8989-21c0341a50fb/11870538298-500.jpg" data-tags="post-rock" role="button">
 Crippled Black Phoenix - A Love of Shared Disasters (2007-04-02)
 </li>
@@ -146,9 +155,6 @@ Pelican - City of Echoes (2007-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
 Liars - Liars (2007-08-20)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
-Immanu El - They'll Come, They Come (2007-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e532af05-792d-4fb4-88ce-1448a387e58b/19833156488-500.jpg" data-tags="post-rock" role="button">
 Efterklang - Parades (2007-10-15)
@@ -189,6 +195,9 @@ Maybeshewill - Sing the Word Hope in Four-Part Harmony (2009-06-08)
 <li data-cover="https://img.discogs.com/JhRuHIeV-Ggedh9wGYoRTiFLSHc=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818454-1517991354-4223.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock, atmospheric" role="button">
+The American Dollar - Ambient One (2009-06-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/cfcef241-4a2c-39d8-95ea-6be87a10f902/3323039609-500.jpg" data-tags="post-rock" role="button">
 Caspian - Tertia (2009-08-07)
 </li>
@@ -224,9 +233,6 @@ Balmorhea - Constellations (2010-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
 Alcest - Écailles de lune (2010-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/75042b9a-177d-4505-afd7-dcedef6ee585/4620291042-500.jpg" data-tags="post-rock" role="button">
-EF - Mourning Golden Morning (2010-04-01)
 </li>
 <li data-cover="https://img.discogs.com/4NIOxoT-a2t1ccQ8mYQowHC4qg8=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2210927-1296129905.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
@@ -267,9 +273,6 @@ Explosions in the Sky - Take Care, Take Care, Take Care (2011-04-18)
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
 </li>
-<li data-cover="https://img.discogs.com/BkKEu4MMHuBa2CXO7m8wRwMcobI=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2898815-1597585357-7614.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
-And So I Watch You From Afar - Gangs (2011-04-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/be65cd51-9d05-339f-8fd2-07c9f174c736/21716514907-500.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - Tunnel Blanket (2011-05-09)
 </li>
@@ -308,9 +311,6 @@ Foxing - The Albatross (2013-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/eac0fab9-d4d3-452a-a90e-12648c291187/8379301227-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Rave Tapes (2014-01-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
-Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)

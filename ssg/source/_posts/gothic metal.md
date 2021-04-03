@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:45:02.492Z
+date: 2021-04-03T20:49:01.261Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -27,11 +27,11 @@ Paradise Lost - Paradise Lost (1988)
 <li data-cover="http://coverartarchive.org/release/5e9be7bb-460d-37f2-96f5-4d180f57f3cf/4051863729-500.jpg" data-tags="gothic metal" role="button">
 Type O Negative - Bloody Kisses (1993-08-17)
 </li>
+<li data-cover="https://img.discogs.com/LIWlyVwXfnrmgY46VP-dbPtaMUA=/fit-in/384x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-960859-1373840991-3683.jpeg.jpg" data-tags="doom metal, gothic metal" role="button">
+Paradise Lost - Icon (1993-09-23)
+</li>
 <li data-cover="https://img.discogs.com/SqSRvdU8Kh4fcRIL4UA4-99M2SQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6326827-1417759630-8193.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Tiamat - Wildhoney (1994-09-01)
-</li>
-<li data-cover="https://img.discogs.com/mdOxokszRESCVA-ORinn_2KmvG0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3044179-1313107554.jpeg.jpg" data-tags="gothic metal" role="button">
-Moonspell - Wolfheart (1995-04-01)
 </li>
 <li data-cover="https://img.discogs.com/Hq60m52DaDiyfAvieUzv8EKKEtM=/fit-in/600x641/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8088705-1454920236-3817.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Paradise Lost - Draconian Times (1995-06-07)
@@ -51,9 +51,6 @@ Within Temptation - Enter (1996-09)
 <li data-cover="https://img.discogs.com/bnct50onG-ZKnwFjFRHlbnY1uq8=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3143954-1321109003.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Velvet Darkness They Fear (1996-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal, industrial, metal" role="button">
-Marilyn Manson - Antichrist Superstar (1996-10-08)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal, symphonic black metal, gothic metal" role="button">
 Cradle of Filth - Dusk... And Her Embrace (1996-10-28)
 </li>
@@ -63,7 +60,7 @@ Paradise Lost - One Second (1997)
 <li data-cover="https://img.discogs.com/t0-8IVorXdGcRGkzO9ipL9COpnM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102414-1424973682-3286.jpeg.jpg" data-tags="gothic metal" role="button">
 Tiamat - A Deeper Kind Of Slumber (1997-04-22)
 </li>
-<li data-cover="https://img.discogs.com/-19eyFKbKrKe9wITVHqsY70mWkk=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207611-1544185488-4226.jpeg.jpg" data-tags="progressive metal, gothic metal, 1997, metal, atmospheric metal" role="button">
+<li data-cover="https://img.discogs.com/-19eyFKbKrKe9wITVHqsY70mWkk=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207611-1544185488-4226.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
 The Gathering - Nighttime Birds (1997-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2756c819-b6d7-3052-9ff8-8c05e65eb5df/8141541570-500.jpg" data-tags="symphonic metal" role="button">
@@ -83,9 +80,6 @@ Theatre of Tragedy - Aégis (1998-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/02304f7c-d527-41f7-b978-78f02307d47d/6366191614-500.jpg" data-tags="gothic metal" role="button">
 Sentenced - Frozen (1998-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock, metal" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Oceanborn (1998-12-07)
@@ -231,8 +225,14 @@ Xandria - India (2005-08-22)
 <li data-cover="http://coverartarchive.org/release/b66e9fbd-eab9-4df0-bb33-92cc4656a7e6/1119140087-500.jpg" data-tags="gothic metal" role="button">
 Charon - Songs for the Sinners (2005-08-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/17833e8d-8f2f-3a65-817c-9eaf73e4129f/13604487761-500.jpg" data-tags="gothic metal" role="button">
+Beseech - Sunless Days (2005-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
+</li>
+<li data-cover="https://img.discogs.com/_qQlR2xDg62atljYRhPUICVpNEc=/fit-in/425x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-807589-1370510430-5707.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
+Katatonia - The Great Cold Distance (2006-03-13)
 </li>
 <li data-cover="https://img.discogs.com/aXCZQcOSa73njRvFAnF1Ep5jUTQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8125917-1489832489-1154.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Karmacode (2006-03-31)
@@ -306,7 +306,7 @@ Lacuna Coil - Shallow Life (2009-04-21)
 <li data-cover="http://coverartarchive.org/release/888e2e75-e1e8-4721-baaa-b92c7c86ea63/1048225534-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Njord (2009-08-26)
 </li>
-<li data-cover="https://img.discogs.com/n6zq_XsMYW7vcNj4NX3tzAOW-Xk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1939290-1351427201-7451.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/e8QX78mSfUFR2gkPviX9Kk2aPPg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2966779-1309550191.jpeg.jpg" data-tags="gothic metal" role="button">
 Paradise Lost - Faith Divides Us - Death Unites Us (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
@@ -315,10 +315,10 @@ Within Temptation - The Unforgiving (2011-03-25)
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/5b04e41d-136a-49ae-8788-4e57cf8747d8/14259140884-500.jpg" data-tags="2012, alternative metal" role="button">
+<li data-cover="http://coverartarchive.org/release/5b04e41d-136a-49ae-8788-4e57cf8747d8/14259140884-500.jpg" data-tags="alternative metal" role="button">
 Lacuna Coil - Dark Adrenaline (2012-01-20)
 </li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, gothic my ass, goth music for pussies, japanese, anime, j-pop, visual kei, not gothic, slut pop, fip, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, so bad its good, folklore intellectuel, hino, not darkwave, metal for teletubbies, poptron, hate my nation, very intelligent lyrics, darkwave my ass, gothic metal, humour, misogyny, lol, seiyuu, troll" role="button">
+<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 </ol>

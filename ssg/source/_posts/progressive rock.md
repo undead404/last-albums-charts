@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:20:02.089Z
+date: 2021-04-03T20:54:01.235Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -10,9 +10,9 @@ title: "progressive rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 80s" role="button">Genesis - Invisible Touch (1986-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Division Bell (1994-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">Tool - Lateralus (2001-05-14)</li>
-<li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">Opeth - Damnation (2003-04-07)</li>
-<li data-cover="https://img.discogs.com/komlby94frR-OIebYi2JCX_uCfI=/fit-in/544x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1140943-1195346718.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - Thirteenth Step (2003-09-15)</li>
+<li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">Tool - 10,000 Days (2006-04-28)</li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">Muse - The Resistance (2009-09-10)</li>
 </ol>
 List of 100 - under the cut.
@@ -138,7 +138,7 @@ Pink Floyd - Delicate Sound of Thunder (1988-11-22)
 <li data-cover="http://coverartarchive.org/release/6be0d2a6-67b2-4b57-b7a0-5d6366a1332d/21377405539-500.jpg" data-tags="rock, classic rock" role="button">
 Genesis - We Can't Dance (1991-11-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, alternative metal, progressive rock, 1992, rock" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
@@ -159,7 +159,7 @@ Pink Floyd - Pulse (1995-05-29)
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive rock, metal" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Tool - Ænima (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0990da86-916e-38d4-aa1c-7e2968703f97/22738717948-500.jpg" data-tags="progressive rock" role="button">
@@ -194,9 +194,6 @@ Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0df886b-c2ca-4971-8bb6-1df2326b5be6/7963927203-500.jpg" data-tags="progressive rock, peter gabriel" role="button">
-Peter Gabriel - Up (2002-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a90062eb-b2bb-3c39-9291-4684605a9313/19099262755-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - In Absentia (2002-09-24)
@@ -239,6 +236,9 @@ Circa Survive - Juturna (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
+Tool - 10,000 Days (2006-04-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)

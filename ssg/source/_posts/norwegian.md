@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:02:02.303Z
+date: 2021-04-03T21:32:01.424Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -63,6 +63,12 @@ Burzum - Filosofem (1996-01-31)
 <li data-cover="https://img.discogs.com/FA0sKAo13tvmM2Ajs_G6hBeWgs0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4225709-1359058284-9040.jpeg.jpg" data-tags="black metal" role="button">
 Satyricon - Nemesis Divina (1996-04-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/8bce7d2e-cddd-38d3-86b7-d2c53e9d17aa/6830358041-500.jpg" data-tags="black metal, symphonic black metal" role="button">
+Emperor - Anthems To The Welkin At Dusk (1997-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/c51f27b8-ffd7-4b53-aa4e-2687e213e30f/4798121885-500.jpg" data-tags="symphonic black metal, black metal" role="button">
+Dimmu Borgir - Enthrone Darkness Triumphant (1997-05-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/dd27c740-f61d-3b7a-a1b4-44d6834a791d/21056285792-500.jpg" data-tags="indie" role="button">
 Madrugada - Industrial Silence (1999)
 </li>
@@ -90,7 +96,7 @@ Dimmu Borgir - Puritanical Euphoric Misanthropia (2001-03-12)
 <li data-cover="https://img.discogs.com/ogQUwoOas8jPx7n8UFd0C56zMkw=/fit-in/550x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6852765-1428604389-3025.jpeg.jpg" data-tags="jazz, ninja tune" role="button">
 Jaga Jazzist - A Livingroom Hush (2001-05-21)
 </li>
-<li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
+<li data-cover="https://img.discogs.com/3nNMhEKDr8xPmDbod7m5_GHcpmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-167971-1302447497.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
 Röyksopp - Eple (2001-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-500.jpg" data-tags="norwegian, ompa" role="button">
@@ -150,7 +156,7 @@ Maria Mena - White Turns Blue (2004)
 <li data-cover="http://coverartarchive.org/release/43dc857a-5294-4655-971f-94ac37214343/15229606619-500.jpg" data-tags="norwegian" role="button">
 Minor Majority - Up for You & I (2004-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/52621b23-93b2-4e07-b807-e44e91472900/3989392425-500.jpg" data-tags="2004" role="button">
+<li data-cover="http://coverartarchive.org/release/52621b23-93b2-4e07-b807-e44e91472900/3989392425-500.jpg" data-tags="pop, norwegian, sweet, 2000s, favourite songs, maria mena" role="button">
 Maria Mena - Mellow (2004-03-01)
 </li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
@@ -164,9 +170,6 @@ Windir - Valfar, Ein Windir (2004-09-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
-Sirenia - Sirenian Shores (2004-10-11)
 </li>
 <li data-cover="https://img.discogs.com/LHHhi4U3WGT_XMhYyZnMCDlHtoc=/fit-in/459x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565321-1151310339.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Thomas Dybdahl - One Day You'll Dance For Me, New York City (2004-10-18)
@@ -221,9 +224,6 @@ Sondre Lerche - Phantom Punch (2006-08-28)
 </li>
 <li data-cover="https://img.discogs.com/N7Bp5jfIBr2hf6QiJeqIZYuRx_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5352829-1391801147-4466.jpeg.jpg" data-tags="black metal, heavy metal" role="button">
 I - Between Two Worlds (2006-11-03)
-</li>
-<li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
-Tristania - Illumination (2007-01-19)
 </li>
 <li data-cover="https://img.discogs.com/uIAfZ93GzL9QH5DKXUZbj6LUJ-Y=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4140032-1356738631-1349.jpeg.jpg" data-tags="norwegian, norsk" role="button">
 Postgirobygget - Tidløs (2007-06)
