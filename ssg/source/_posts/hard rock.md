@@ -1,6 +1,6 @@
 ---
 date: 2021-04-03T12:36:58.281Z
-title: 10&#x2F;100 hard rock albums you must listen to before you die
+title: "10/100 hard rock albums you must listen to before you die"
 ---
 ![Avenged Sevenfold - City of Evil (2005-06-07)](http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg "Avenged Sevenfold - City of Evil (2005-06-07)")
 <ol class="albums">
