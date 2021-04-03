@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:36:01.224Z
+date: 2021-04-03T22:55:01.417Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -72,6 +72,9 @@ The Strokes - Room on Fire (2003-10-16)
 <li data-cover="http://coverartarchive.org/release/735e9638-b555-49f5-b536-01ce8df1dbeb/22159704215-500.jpg" data-tags="indie, indie rock, the shins" role="button">
 The Shins - Chutes Too Narrow (2003-10-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+Broken Social Scene - Broken Social Scene (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
 </li>
@@ -114,9 +117,6 @@ The Bravery - The Bravery (2005-03-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
-Spoon - Gimme Fiction (2005-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">
 Maxïmo Park - A Certain Trigger (2005-05-16)
 </li>
@@ -125,9 +125,6 @@ The Subways - Young for Eternity (2005-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/4b002b0e-3d58-4fea-a980-4b0577b32508/15696520432-500.jpg" data-tags="indie, indie rock" role="button">
-Wolf Parade - Apologies to the Queen Mary (2005-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/84951a8e-abaa-4841-bbd5-35c2225ad91d/10658320296-500.jpg" data-tags="indie rock" role="button">
 Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (2005-10-11)
@@ -302,6 +299,9 @@ Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Foals - Holy Fire (2013-01-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)

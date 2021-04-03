@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:43:01.246Z
+date: 2021-04-03T23:18:01.253Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -33,7 +33,7 @@ Patti Smith - Horses (1975-11)
 <li data-cover="http://coverartarchive.org/release/aab3e6a1-3bf2-4c26-86ab-b496904d0128/9260401939-500.jpg" data-tags="punk, punk rock" role="button">
 Ramones - Ramones (1976-04-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 70s" role="button">
+<li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">
 Television - Marquee Moon (1977-02-08)
 </li>
 <li data-cover="https://img.discogs.com/9G4j9wU_FX-kUyU2ZmNpSJE-kSg=/fit-in/600x768/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-624192-1537987523-4947.jpeg.jpg" data-tags="punk" role="button">
@@ -69,7 +69,7 @@ The Clash - Combat Rock (1982-05-14)
 <li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="punk rock, hardcore punk, punk" role="button">
 Descendents - Milo Goes to College (1982-11-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, post-punk" role="button">
+<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
 Violent Femmes - Violent Femmes (1983-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
@@ -155,6 +155,9 @@ Green Day - International Superhits! (2001-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/56db4963-266b-4c39-8515-57ee7a11f0d1/14154529310-500.jpg" data-tags="punk, folk punk" role="button">
 Against Me! - Reinventing Axl Rose (2002-02-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg" data-tags="irish, punk" role="button">
+Flogging Molly - Drunken Lullabies (2002-03-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 Taking Back Sunday - Tell All Your Friends (2002-03-26)
@@ -302,9 +305,6 @@ The Gaslight Anthem - The '59 Sound (2008-08-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/af93aa3c-4046-40f1-8b84-c6cc95ab91a2/14099783969-500.jpg" data-tags="punk" role="button">
-The Offspring - You're Gonna Go Far, Kid (2008-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)

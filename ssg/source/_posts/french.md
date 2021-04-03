@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T21:35:01.359Z
+date: 2021-04-03T23:22:01.203Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -24,14 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/f4875bbd-b7f8-4df0-837c-89263f1c63e5/1150026001-500.jpg" data-tags="french" role="button">
 Édith Piaf - La vie en rose (1956)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, french" role="button">
+<li data-cover="http://coverartarchive.org/release/8619cf91-e23d-4621-971f-e9de7a5959bd/1227299847-500.jpg" data-tags="80s, french" role="button">
 Vanessa Paradis - M & J (1987)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french" role="button">
+<li data-cover="http://coverartarchive.org/release/c36e9428-8c2a-4536-b9a7-4e1e2b5bd28d/1171631272-500.jpg" data-tags="french" role="button">
 Mylène Farmer - Ainsi soit je... (1988-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/1232c14a-4f9d-485f-8ed8-c6a129b037ad/5527911872-500.jpg" data-tags="french, alternative" role="button">
-Mano Negra - Patchanka (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1ad7be1-8f4e-4de3-a062-d5c54d04343b/4058390511-500.jpg" data-tags="rock, rock francais" role="button">
 Noir Désir - Tostaky (1992)
@@ -63,17 +60,35 @@ Louise Attaque - Louise Attaque (1997-04-21)
 <li data-cover="http://coverartarchive.org/release/a8820a55-fd21-4300-880a-663799d7e4eb/27151523699-500.jpg" data-tags="electronic" role="button">
 Air - Premiers Symptômes (1997-07-29)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="lounge, electronic, post-rock" role="button">
+Stereolab - Dots and Loops (1997-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d7c82e6-c3bb-38a9-96f0-5626158e3276/6598464730-500.jpg" data-tags="french, rock, breton" role="button">
 Matmatah - La Ouache (1998-06-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="french, pop" role="button">
+Mylène Farmer - Innamoramento (1999-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
 Mr. Oizo - Analog Worms Attack (1999-10-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="french, rock" role="button">
 Saez - Jours Etranges (1999-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/f5d2768e-66ad-42a7-8bc4-f6fbfccfa81c/1230967625-500.jpg" data-tags="french, pop, french pop" role="button">
+Alizée - Gourmandises (2000)
+</li>
+<li data-cover="https://img.discogs.com/7N233gEnbaxt1uNa-VilU2dLUpg=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590712-1479801787-6505.jpeg.jpg" data-tags="french, rock" role="button">
+Louise Attaque - Comme On A Dit (2000-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/503cb223-719b-332f-bd81-8d3e182a0308/1171048477-500.jpg" data-tags="techno, electronic" role="button">
+Laurent Garnier - Unreasonable Behaviour (2000-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/ffb01eed-88d2-43da-baa8-f58391ae309f/21020293449-500.jpg" data-tags="french" role="button">
+Keren Ann - La biographie de Luka Philipsen (2000-04)
 </li>
 <li data-cover="https://img.discogs.com/r2SQuPuMEuoDJ-tZDZBbc0UuB_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467570-1225318253.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
 Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
@@ -84,14 +99,8 @@ Phoenix - United (2000-06)
 <li data-cover="http://coverartarchive.org/release/c6b3977c-b218-4395-933d-f79e175309d7/1269886261-500.jpg" data-tags="electronica, french" role="button">
 Daft Punk - One More Time (2000-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/6bf1d515-460a-4e91-9b2f-12c5f8a6f7c6/1763285484-500.jpg" data-tags="french" role="button">
-Tété - L'air de rien (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Discovery (2001-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/95dbc0e7-f869-4f63-be1d-1a40bf5dbd1d/1485603702-500.jpg" data-tags="electronic, shoegaze" role="button">
-M83 - M83 (2001-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
@@ -104,9 +113,6 @@ Daft Punk - Alive 1997 (2001-10-01)
 </li>
 <li data-cover="https://img.discogs.com/m6Uz3orsCT-QfcuvqYMeRFs0Xdc=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13226062-1550299154-1792.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
 Mylène Farmer - Les Mots (2001-11-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french, rock" role="button">
-Dionysos - Western Sous La Neige (2002-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/130786fd-24e3-4ef9-a6d2-8665cb2afdab/15467078716-500.jpg" data-tags="electronic, soundtrack, french" role="button">
 Thomas Bangalter - IRREVERSIBLE (2002-06-24)
@@ -255,17 +261,11 @@ Pony Pony Run Run - You Need Pony Pony Run Run (2009-06-08)
 <li data-cover="http://coverartarchive.org/release/dac5bddc-3197-4a8f-8149-e217794e451e/23384424884-500.jpg" data-tags="bossa nova, female vocalists, covers" role="button">
 Nouvelle Vague - 3 (2009-06-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
-椎名林檎 - 三文ゴシップ (2009-06-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d09651d7-63be-4603-9849-32781bfe5c70/6110608721-500.jpg" data-tags="electronic, french" role="button">
 Air - Love 2 (2009-10-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french, experimental, piano, acoustic, experimental rock, screamo" role="button">
-My Own Private Alaska - Amen (2010-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/851588f7-9cdb-473f-96d0-21680c4a383c/2466705356-500.jpg" data-tags="electronic" role="button">
 Kavinsky - Nightcall (2010-03-26)

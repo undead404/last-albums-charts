@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:36:01.210Z
+date: 2021-04-03T23:25:01.217Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -26,6 +26,9 @@ George Michael - Faith (1987-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 1994, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8828dbd-f2b2-30ed-ac2d-152341b10913/17553404705-500.jpg" data-tags="chillout, rock, alternative, folk, folk-rock, acoustic, romantic, guitar, male vocalists, twisted, meaningful, golden oldies, judely favourites, folky and acoustic stuff, casette, buenos" role="button">
+Del Amitri - Twisted (1995-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
@@ -150,7 +153,7 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, experimental" role="button">
+<li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
@@ -257,9 +260,6 @@ Ryan Adams - Ashes & Fire (2011-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b826444-d72d-42b3-b61d-ce116f57a7fe/6567572038-500.jpg" data-tags="pop, pop rock, 10s, alternative" role="button">
 Gavin DeGraw - Sweeter (2011-09-20)
-</li>
-<li data-cover="https://img.discogs.com/-jXh1HefuQF_oHQqAM62FjOkEkw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17056041-1611364067-9511.jpeg.jpg" data-tags="indie" role="button">
-Los Campesinos! - Hello Sadness (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf660192-9355-47f7-8e84-846291e5949f/2863685000-500.jpg" data-tags="usher" role="button">
 Usher - Climax (2012-02-22)

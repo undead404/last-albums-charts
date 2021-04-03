@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:09:01.233Z
+date: 2021-04-03T22:51:01.249Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -54,10 +54,10 @@ Queen - Live Killers (1979-06-22)
 <li data-cover="https://img.discogs.com/gePoYsDzzxogPjkJV5sr8PaDs2Q=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5078000-1383895502-4137.jpeg.jpg" data-tags="live, folk, classic rock" role="button">
 Simon & Garfunkel - The Concert in Central Park (1982)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, live, 80s" role="button">
+<li data-cover="https://img.discogs.com/tlJq_LHqFbQt-TvjI_8IhMb2VnM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3405280-1454651673-4542.jpeg.jpg" data-tags="new wave, live, 80s" role="button">
 Talking Heads - The Name of This Band Is Talking Heads (1982)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/mEROh5D5nn0FvcZrEKopwnQYZS8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3644792-1365379808-5746.jpeg.jpg" data-tags="80s, new wave" role="button">
 Talking Heads - Stop Making Sense (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/12aea57d-ab05-3bc2-8e05-e57230e1e2c9/13275371966-500.jpg" data-tags="heavy metal" role="button">
@@ -74,9 +74,6 @@ Depeche Mode - 101 (1989-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa9ec36b-2dcd-4b73-8125-0a767498e5b8/16324598896-500.jpg" data-tags="pop, soft rock, live, sting" role="button">
 Sting - All This Time (1991-01-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, alternative metal, progressive rock, 1992, rock" role="button">
-Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
@@ -119,6 +116,9 @@ Pink Floyd - Pulse (1995-05-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Dire Straits - Live At The BBC (1995-06-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
+Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/xOvnQ6hQZ0MYgUkFV7WGD5Z94bg=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652210-1338961582-8057.jpeg.jpg" data-tags="rock" role="button">
 Gin Blossoms - Follow You Down (1996-01-23)
@@ -246,9 +246,6 @@ Wilco - Kicking Television: Live in Chicago (2005-11-15)
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
 John Mayer Trio - Try! (2005-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal, alternative metal" role="button">
-Korn - See You on the Other Side (2005-12-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/8beeaf1d-dc8f-4a93-8f7e-2eb8e15bb671/27919718997-500.jpg" data-tags="live" role="button">
 My Chemical Romance - Life on the Murder Scene (2006-03-21)
 </li>
@@ -272,6 +269,9 @@ Megadeth - That One Night: Live in Buenos Aires (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/183922a5-a5fc-4b7e-b909-82231d3bd9e5/7751021680-500.jpg" data-tags="rock, live" role="button">
 Queen - Rock Montreal (2007-10-26)
+</li>
+<li data-cover="https://img.discogs.com/U4lHrq7JhjUM0oy1BCS0YiHCijU=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1814175-1289070438.jpeg.jpg" data-tags="live, progressive metal, progressive death metal" role="button">
+Opeth - The Roundhouse Tapes (2007-10-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)

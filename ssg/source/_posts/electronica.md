@@ -1,11 +1,11 @@
 ---
-date: 2021-04-03T22:08:01.450Z
+date: 2021-04-03T23:39:01.256Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, alternative, experimental" role="button">Radiohead - Kid A (2000-08-03)</li>
+<li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">Radiohead - Kid A (2000-08-03)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">The Postal Service - Give Up (2003-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Human After All (2005-03-09)</li>
@@ -81,10 +81,10 @@ The Chemical Brothers - Surrender (1999-06-07)
 <li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
 Broadcast - The Noise Made by People (2000-03-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, alternative, experimental" role="button">
+<li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop, electronic" role="button">
+<li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
@@ -101,6 +101,9 @@ Télépopmusik - Genetic World (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
 Four Tet - Pause (2001-05-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+Björk - Vespertine (2001-08-18)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
@@ -186,9 +189,6 @@ Goldfrapp - Supernature (2005-08-22)
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
 The Knife - Silent Shout (2006-02-15)
 </li>
-<li data-cover="https://img.discogs.com/PjmlRvRhOludN9TU2ttaSQLg104=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656724-1148757680.jpeg.jpg" data-tags="electronic" role="button">
-Hot Chip - The Warning (2006-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic" role="button">
 Thom Yorke - The Eraser (2006-07-05)
 </li>
@@ -197,6 +197,9 @@ Ratatat - Classics (2006-08-21)
 </li>
 <li data-cover="https://img.discogs.com/s9GcN6Oe0DjKA3Mm9jqB8drkYFo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4960971-1380837845-7097.jpeg.jpg" data-tags="electronic, emusic, electronica, acquire" role="button">
 Passion Pit - Chunk of Change (2007)
+</li>
+<li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
+Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d1ef500-7004-4756-a45d-8b1f43692dc5/10118092077-500.jpg" data-tags="electronic, electronica" role="button">
 The Chemical Brothers - We Are The Night (2007-05)
@@ -210,14 +213,8 @@ The Veronicas - Hook Me Up (2007-09-22)
 <li data-cover="http://coverartarchive.org/release/2c3837a1-6252-4774-9102-998cd68d8532/3230521809-500.jpg" data-tags="electronic, electronica" role="button">
 The Chemical Brothers - Brotherhood (2008-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, downtempo, idm" role="button">
-Jon Hopkins - Insides (2008-11-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/020caa02-e428-4c45-99f3-52a47a1466e7/5962732537-500.jpg" data-tags="idm, electronica" role="button">
-Telefon Tel Aviv - Immolate Yourself (2009-01-23)
 </li>
 <li data-cover="https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Invaders Must Die (2009-02-18)
@@ -291,20 +288,23 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
 Nicolas Jaar - Space Is Only Noise (2011-01-31)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+Justice - Audio, Video, Disco (2011-09-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/3747ee08-0566-448b-99d6-8fba88136a3e/5129551162-500.jpg" data-tags="electronic, electronica, indie, alternative, synthpop, alternative dance, everything, dark pop, coramao, bete gouveia" role="button">
 M.I.A. - Bad Girls (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/f71c093a-2791-455a-b30f-c9ce8b0701b6/9559450051-500.jpg" data-tags="2012, downtempo" role="button">
 XXYYXX - XXYYXX (2012-03-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
+Zedd - Clarity (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)

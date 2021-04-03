@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T19:27:01.187Z
+date: 2021-04-03T23:04:01.268Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
+<li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
@@ -57,7 +57,7 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/e427c52c-60f4-3df4-9493-2df0734d85aa/3198645256-500.jpg" data-tags="female vocalists" role="button">
 Sarah McLachlan - Surfacing (1997-07-15)
 </li>
 <li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
@@ -74,6 +74,9 @@ Whitney Houston - My Love Is Your Love (1999-06-21)
 </li>
 <li data-cover="https://img.discogs.com/Mc4VQjSmK_Ggix1ANr1W6L4gmEU=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125629-1281706221.jpeg.jpg" data-tags="pop, dance" role="button">
 Samantha Mumba - Gotta Tell You (2000-08-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="spanish, pop" role="button">
+La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a8f78f7-a680-358d-86f5-81409a2d0a72/24140320733-500.jpg" data-tags="female vocalist, pop, dance, jessica simpson" role="button">
 Jessica Simpson - Irresistible (2001-05-25)
@@ -180,10 +183,10 @@ Sia - Lady Croissant (2007-02-06)
 <li data-cover="https://img.discogs.com/9GwAEUu3_IZbi_fxbL665Lac9s8=/fit-in/590x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1405900-1336081977.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
 Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/25d9128e-8e2b-3b9e-9938-88f44b4c0ed4/24155867912-500.jpg" data-tags="folk, female vocalists" role="button">
 Kate Walsh - Tim's House (2007-03-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
+<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
@@ -192,7 +195,7 @@ Feist - The Reminder (2007-04-23)
 <li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Angus & Julia Stone - A Book Like This (2007-09-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, pop" role="button">
+<li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
 </li>
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
@@ -225,14 +228,11 @@ Keri Hilson - In a Perfect World... (2009-01-01)
 <li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
 Erin McCarley - Love, Save The Empty (2009-01-06)
 </li>
-<li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, gaycore, nazi, crimes against humanity, douchebag, national socialist black metal, what a waste of site resources, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, please assassinate, fellating the bottom of a bottle of wine, wanking and crying while running a marathon, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, torture for my ears, violates the geneva convention, no pubic hair, better die than listen to this, pile of plastic, music to have anal sex to, people i dont want to have sex with, homeless on the streets giving handjobs for crack, really violent sex that is not only extremely bloody but also can scar people forever as well as haunt people in their dreams and plus it can turn innocent people into bloodthirsty killers that have no mercy for their victims, you candle sniffing fuck fence go climb a wall of dicks you double nigger, why does this person have to haunt decent people even on last fm, sounds like a woman driving a vehicle with a manual transmission, my hatred of this is so thick and rich that you could drizzle it over pancakes, kept in freezer to be served as dinner, used at guantanamo bay, the victims of chernobyl, just put your what what deep in my butt butt and let juice fly and ill soak up the what what in the butt butt penis fish meat carebears, all aboard the failboat, satanic buttcore, my cat starts to vomit uncontrollably when listening to this" role="button">
+<li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
 <li data-cover="https://img.discogs.com/lN8Lb_czsjDIyono8baGlUiHhHY=/fit-in/599x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215174-1278679597.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
-</li>
-<li data-cover="https://img.discogs.com/oR1xTsEgSpIteuBduC1hBQfHXY0=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059688-1262550764.jpeg.jpg" data-tags="indie, zee avi" role="button">
-Zee Avi - Zee Avi (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
 Shakira - She Wolf (2009-10-09)
@@ -282,7 +282,7 @@ Jennifer Hudson - I Remember Me (2011-03-22)
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, laptop, 10s, swedish poprock, registret, signed album i own" role="button">
+<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, laptop, 10s, swedish poprock" role="button">
 Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">
@@ -318,7 +318,7 @@ Deafheaven - Sunbather (2013-05-28)
 <li data-cover="http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - War Eternal (2014-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, violates the geneva convention, kept in freezer to be served as dinner, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, gaycore, nazi, crimes against humanity, douchebag, national socialist black metal, what a waste of site resources, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, please assassinate, fellating the bottom of a bottle of wine, wanking and crying while running a marathon, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, torture for my ears, no pubic hair, better die than listen to this, pile of plastic, music to have anal sex to, people i dont want to have sex with, homeless on the streets giving handjobs for crack, gaygrind, really violent sex that is not only extremely bloody but also can scar people forever as well as haunt people in their dreams and plus it can turn innocent people into bloodthirsty killers that have no mercy for their victims, you candle sniffing fuck fence go climb a wall of dicks you double nigger, why does this person have to haunt decent people even on last fm, sounds like a woman driving a vehicle with a manual transmission, my hatred of this is so thick and rich that you could drizzle it over pancakes, used at guantanamo bay, the victims of chernobyl, just put your what what deep in my butt butt and let juice fly and ill soak up the what what in the butt butt penis fish meat carebears, all aboard the failboat, satanic buttcore, gay nigger black metal, my cat starts to vomit uncontrollably when listening to this, proud to be gay" role="button">
+<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Bring Me the Horizon - Drown (2014-11-03)
 </li>
 </ol>

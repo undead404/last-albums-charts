@@ -1,11 +1,10 @@
 ---
-date: 2021-04-03T21:06:01.202Z
+date: 2021-04-03T23:20:01.243Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">The Clash - London Calling (1979-12-14)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">N.W.A - Straight Outta Compton (1988-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
@@ -14,6 +13,7 @@ title: "classic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
+<li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">Kid Cudi - Man on the Moon: The End of Day (2009-07-15)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -26,9 +26,6 @@ Ornette Coleman - The Shape of Jazz to Come (1959-10)
 </li>
 <li data-cover="https://img.discogs.com/VfUPo4sEAT33NgmIB200N-9g2V8=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4601243-1369602202-5646.jpeg.jpg" data-tags="rock" role="button">
 The Kinks - You Really Got Me (1964-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9363b0f-8639-4185-a111-3172b30ab51e/8301206355-500.jpg" data-tags="mod" role="button">
-Small Faces - Small Faces (1967-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">
 Os Mutantes - Os Mutantes (1968-06)
@@ -51,7 +48,7 @@ Lou Reed - Berlin (1973-10)
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">
 The Clash - London Calling (1979-12-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
 Tom Waits - Heartattack and Vine (1980-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a881cc4-3553-4d01-a4d0-aff431bf05f0/22056730148-500.jpg" data-tags="classical, classic, instrumental, orchestra, avant-garde, female vocalist, favorite, faves, revisit, classical music, landscape, wanttobuy, gammarec, granka, worldmusik, je devrais avoir mon enfer de la caresse, quixotic sounds, freepurp1e, fabulous live act, fabulous orchestra, great cinema, music for the car, ssdsds" role="button">
@@ -63,10 +60,10 @@ The Who - Who's Greatest Hits (1983-05-08)
 <li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
 Billy Joel - An Innocent Man (1983-08-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
+<li data-cover="http://coverartarchive.org/release/88c30d58-617f-4092-98ba-49f10c243552/6323306000-500.jpg" data-tags="new wave" role="button">
 Frankie Goes to Hollywood - Relax (1983-10-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, pop" role="button">
+<li data-cover="https://img.discogs.com/xRNfBWi-1l71ZyJH-7Ivu7kf8FE=/fit-in/500x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2193288-1319384633.jpeg.jpg" data-tags="80s, pop" role="button">
 Prince & The Revolution - Purple Rain (1984-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a71607a1-99ac-4740-9c8a-1ce8b4089ac3/20523876603-500.jpg" data-tags="80s, alternative rock" role="button">
@@ -75,28 +72,28 @@ The Replacements - Let It Be (1984-10-02)
 <li data-cover="http://coverartarchive.org/release/bcbce6d9-6ec0-34c2-bf1f-503078ee2b1b/3253218339-500.jpg" data-tags="classic, 80s, punk, alternative, straight edge, punk rock, hardcore punk, yellow, total shit, non-visual, fun to skateboard to, i love singing along, 7seconds, ear, finely tailored, deek, planet kolob, grumpy still skin, muhammad had a penis, expected, deek deek, deek deek deek, mime of charisma, excreted from a bloody rectum" role="button">
 7Seconds - Walk Together, Rock Together (1985)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
+<li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
 Prefab Sprout - Steve McQueen (1985-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, hip hop" role="button">
+<li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues, singer-songwriter" role="button">
+<li data-cover="http://coverartarchive.org/release/541d890a-9ecd-4d75-8db3-883b706d434a/4010641500-500.jpg" data-tags="blues, singer-songwriter" role="button">
 Tom Waits - Franks Wild Years (1987-08-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="golden age hip hop" role="button">
+<li data-cover="http://coverartarchive.org/release/59328b49-e0a2-498d-be04-75c73fbb8711/15249861858-500.jpg" data-tags="golden age hip hop" role="button">
 EPMD - Strictly Business (1988-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
+<li data-cover="http://coverartarchive.org/release/7a9f29f2-f89e-433d-ac2f-7fb42d78fda5/28358228483-500.jpg" data-tags="80s" role="button">
 Crowded House - Temple Of Low Men (1988-07-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
+<li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chicago" role="button">
 Chicago - The Chicago Story (1989)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, 80s" role="button">
+<li data-cover="http://coverartarchive.org/release/c5470b73-b208-4f26-97d7-a6d8f50921ed/2236356187-500.jpg" data-tags="hip-hop, 80s" role="button">
 Beastie Boys - Paul's Boutique (1989-07-25)
 </li>
 <li data-cover="https://img.discogs.com/JDKbu-048mJ1CZw_OFWrui8pjEM=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6754610-1425931809-7517.jpeg.jpg" data-tags="rock" role="button">
@@ -189,9 +186,6 @@ Dean Martin - The Very Best of Dean Martin (1998-09-17)
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca729161-a44c-4c95-b6d1-599c8d244f1f/17456959732-500.jpg" data-tags="oldies" role="button">
-Andy Williams - The Very Best of Andy Williams (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
@@ -210,8 +204,11 @@ Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 <li data-cover="http://coverartarchive.org/release/2c3a5aca-26e7-4ab5-84be-9618750ad687/4046964167-500.jpg" data-tags="slow alternative" role="button">
 Songs: Ohia - The Lioness (2000-01-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/662c6d90-7244-4cba-9841-f11704995e6b/2579434865-500.jpg" data-tags="emo" role="button">
-Sunny Day Real Estate - The Rising Tide (2000-06-20)
+<li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, piano" role="button">
+Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a99dfdc-ae96-4a2d-86fe-0463445c8e8f/9828533799-500.jpg" data-tags="hip-hop" role="button">
+Jurassic 5 - Quality Control (2000-06-19)
 </li>
 <li data-cover="https://img.discogs.com/M8g9GCwgDVuE1QPP0beShcLsYLg=/fit-in/456x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588009-1337280111-7559.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
@@ -246,7 +243,7 @@ Ben Harper - Diamonds On The Inside (2003-03-05)
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+<li data-cover="http://coverartarchive.org/release/dab92633-793d-4d60-a9ee-54950070cfea/11124226539-500.jpg" data-tags="ambient" role="button">
 Entheogenic - Spontaneous Illumination (2003-06-21)
 </li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
@@ -264,7 +261,7 @@ Madvillain - Madvillainy (2004-03-19)
 <li data-cover="http://coverartarchive.org/release/0425b577-443a-4ad8-9d9a-a1e060860c8e/21055879662-500.jpg" data-tags="pitchfork top albums 2005" role="button">
 Cam'ron - Purple Haze (2004-12-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+<li data-cover="http://coverartarchive.org/release/ea9cd27f-d04a-4ecb-b93a-0a41afa06005/27631567351-500.jpg" data-tags="ambient" role="button">
 Entheogenic - Dialogue of the Speakers (2005-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3540c65f-cd1c-3575-ac0c-ccff3b57b053/15329187407-500.jpg" data-tags="00s" role="button">
@@ -293,6 +290,9 @@ Moderat - Moderat (2009-02)
 </li>
 <li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">
+Kid Cudi - Man on the Moon: The End of Day (2009-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5236f2b-ec9f-4b6b-a6d2-3cd85d048180/18248081257-500.jpg" data-tags="rap, fashawn" role="button">
 Fashawn - Boy Meets World (2009-10-20)

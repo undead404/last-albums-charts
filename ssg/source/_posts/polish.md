@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:21:01.404Z
+date: 2021-04-03T23:24:01.233Z
 title: "polish: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](http://coverartarchive.org/release/43342114-ec72-400c-a1ad-5c9580998361/4030501038-500.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -42,7 +42,7 @@ Kat - Ballady (1993)
 <li data-cover="http://coverartarchive.org/release/ab8e4983-19df-4ee1-b552-d8a2ce6af015/5692907290-500.jpg" data-tags="rock, grunge, polish rock" role="button">
 Hey - Fire (1993-02-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="polish rock, rock, polish" role="button">
+<li data-cover="https://img.discogs.com/ZGpGNfyyD5uQFsExh316TxfB7m4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8220304-1457383512-4817.jpeg.jpg" data-tags="polish rock, rock, polish" role="button">
 Kult - Tata Kazika (1993-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef8d8003-66fc-4b55-bd5c-852361376354/12618750019-500.jpg" data-tags="rock, polish rock, kult" role="button">
@@ -114,6 +114,9 @@ Hunter - Medeis (2003-03-07)
 <li data-cover="http://coverartarchive.org/release/b9e2fedb-3b06-4251-b839-23976fe0aff0/8337768197-500.jpg" data-tags="rock, female vocalists, hard rock, polish" role="button">
 Hey - Music Music (2003-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
+Riverside - Out Of Myself (2003-12-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, reggae, ska" role="button">
 Akurat - Prowincja (2004)
 </li>
@@ -140,6 +143,9 @@ happysad - Wszystko jedno (2004-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/92455303-57a4-4fbf-9d00-f283392f6594/4707388100-500.jpg" data-tags="punk rock" role="button">
 Pidżama Porno - Bułgarskie centrum (2004-09-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, progressive metal" role="button">
+Indukti - S.U.S.A.R. (2004-09-20)
 </li>
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Demigod (2004-11-08)
@@ -171,6 +177,9 @@ happysad - Podróże z i pod prąd (2005-10-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
 Maria Peszek - Miasto Mania (2005-10-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
+Riverside - Second Life Syndrome (2005-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/69e91eee-2bfb-4e7a-aba1-13c564194713/4185547054-500.jpg" data-tags="alternative rock" role="button">
 Strachy Na Lachy - Piła Tango (2005-11-07)
 </li>
@@ -185,6 +194,9 @@ Dubska - Avokado (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/e675808c-16ea-4bbc-9a73-fbbc6df7688b/4826405763-500.jpg" data-tags="pop, folk, polish, monica, brodka, moje piosenki" role="button">
 Brodka - Moje piosenki (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/a35ddd59-8fbd-4b38-add9-7db6a8010a80/16403358211-500.jpg" data-tags="rock" role="button">
+Coma - Zaprzepaszczone siły wielkiej armii świętych znaków (2006-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/73dc38c9-2f86-4295-ab2f-fddcc98877b5/4793338662-500.jpg" data-tags="ska" role="button">
 Akurat - Fantasmagorie (2006-05-31)
@@ -222,9 +234,6 @@ Maria Peszek - Maria Awaria (2008)
 <li data-cover="http://coverartarchive.org/release/c8a65ca3-bac3-4384-a13c-0cbb3baefc41/4267018674-500.jpg" data-tags="alternative rock" role="button">
 Lao Che - Gospel (2008-02-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f09ea4e-8365-4d58-a8e7-16454dfa0db7/2634516109-500.jpg" data-tags="alternative" role="button">
-Czesław Śpiewa - Debiut (2008-04-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/466e6aaf-b8da-484a-a772-c0702f91ffa1/3366571520-500.jpg" data-tags="polish, piano, alternative" role="button">
 Julia Marcell - It Might Like You (2008-05-14)
 </li>
@@ -239,9 +248,6 @@ Jamal - Urban Discotheque (2008-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c54c36bd-7a0e-4bcb-a8d5-8454ed4e3b5f/7101277809-500.jpg" data-tags="ska, polish, akurat, pol-ska" role="button">
 Akurat - Optymistyka (2008-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/8527a0fe-239b-40a8-be55-c6a47d1151ba/3430260994-500.jpg" data-tags="reggae, ragga, dancehall" role="button">
-Bob One - Jeden (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2aadaf8e-c2f8-4e4c-9525-7d4ff58600a6/8083602403-500.jpg" data-tags="alternative, fisz" role="button">
 Fisz Emade - Heavi Metal (2008-11-21)
@@ -285,14 +291,8 @@ Kim Nowak - Kim Nowak (2010-05-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
 The Throne - fig.2 (2010-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/57fe00aa-da01-4efb-ad28-e2f36f2f024f/1389120211-500.jpg" data-tags="reggae, polish, poland, starguardmuffin" role="button">
-Star Guard Muffin - Szanuj (2010-11-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/91b37789-68e5-4ea0-924a-ff95b8be5fd4/7326241081-500.jpg" data-tags="rap, polish" role="button">
 Łona i Webber - Cztery i pół (2011-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8a29bce-a03a-4490-a981-912065bcd56b/1331385176-500.jpg" data-tags="2012, hip-hop, rap, polish, dj haem, kohan, zorak, tabasko, ostatnia szansa tego rapu, asfalt recrods" role="button">
-Tabasko - Ostatnia Szansa Tego Rapu (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c0bab87-98cd-4ae4-b5be-c7ad362be69c/25643823281-500.jpg" data-tags="polish" role="button">
 Mela Koteluk - Spadochron (2012-05-08)

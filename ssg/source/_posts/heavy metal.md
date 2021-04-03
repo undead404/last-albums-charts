@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T21:05:01.363Z
+date: 2021-04-03T22:58:01.261Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -114,6 +114,9 @@ Motörhead - No Remorse (1984-09-15)
 <li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Somewhere In Time (1986-06-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/bfe9a0ff-3278-30f9-a731-d56924f32e18/17240393697-500.jpg" data-tags="heavy metal" role="button">
+Manowar - Fighting the World (1987-02-17)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
@@ -170,9 +173,6 @@ Pantera - Vulgar Display of Power (1992-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b6f83c-8d1a-3e5f-aa26-e6c56324e393/10969475744-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Fear of the Dark (1992-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
-Dream Theater - Images and Words (1992-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a77f8a7-54ab-4568-8003-42240cd29ab0/5571782400-500.jpg" data-tags="thrash metal, heavy metal" role="button">
 Megadeth - Countdown To Extinction (1992-07-06)

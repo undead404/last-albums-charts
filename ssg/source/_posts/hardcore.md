@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:48:01.213Z
+date: 2021-04-03T22:47:01.248Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -56,6 +56,9 @@ Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+Glassjaw - Everything You Ever Wanted To Know About Silence (2000-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a570d143-3749-42cb-84a1-63ab6e6f3b05/24579314447-500.jpg" data-tags="hardcore" role="button">
 Ignite - A Place Called Home (2000-05-30)
@@ -144,9 +147,6 @@ Converge - You Fail Me (2004-09-15)
 <li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/be2a16d3-c2e2-43be-99c8-1cfa37739130/7705738567-500.jpg" data-tags="hardcore" role="button">
-Have Heart - What Counts (2004-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
 He Is Legend - I Am Hollywood (2004-11-02)
 </li>
@@ -192,7 +192,7 @@ Rise Against - The Sufferer & the Witness (2006-07-03)
 <li data-cover="http://coverartarchive.org/release/b2ee2038-e999-4427-a85c-c63959fd2021/4783374073-500.jpg" data-tags="hardcore" role="button">
 Have Heart - The Things We Carry (2006-08-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, mathcore, hardcore" role="button">
+<li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - No Heroes (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
@@ -243,8 +243,14 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
 Motionless in White - When Love Met Destruction (2009-02-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
+The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
 August Burns Red - Constellations (2009-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
+Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d15f1f1c-4bba-4078-b586-88af765fd576/8879942542-500.jpg" data-tags="hardcore, metalcore" role="button">
 Hatebreed - Hatebreed (2009-09-29)
@@ -264,9 +270,6 @@ Casino Madrid - For Kings & Queens (2010-02-16)
 <li data-cover="http://coverartarchive.org/release/c862d2f0-caef-458d-b4f4-cfddc85b332e/6472023132-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - Of Mice & Men (2010-03-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/cb9705eb-6bbd-48d1-84c5-f958907c5daf/15103087494-500.jpg" data-tags="hardcore, metalcore" role="button">
-Stick to Your Guns - The Hope Division (2010-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4edf1492-cd7e-4aee-83d1-54e583d17958/1065442756-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Deep Blue (2010-06-05)
 </li>
@@ -281,9 +284,6 @@ The Word Alive - Deceiver (2010-08-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
 The Throne - fig.2 (2010-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/947b9b5d-5367-4d79-9535-985123a137b7/7069272752-500.jpg" data-tags="hardcore" role="button">
-Terror - Keepers Of The Faith (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdcee761-d794-45ee-90bb-a21f51b66bf6/11691630679-500.jpg" data-tags="hardcore" role="button">
 Your Demise - The Kids We Used To Be... (2010-09-20)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:12:01.225Z
+date: 2021-04-03T23:44:01.214Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -156,6 +156,9 @@ Blind Guardian - A Night at the Opera (2002-03-05)
 <li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Power of the Dragonflame (2002-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/48f96bea-8bb4-4522-ad41-497590121c7b/14160241341-500.jpg" data-tags="power metal, heavy metal" role="button">
+Dream Evil - Dragonslayer (2002-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/a0d8f3e3-58f8-4990-908a-1158dd70d9c2/5961013286-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Warriors of the World (2002-05-27)
 </li>
@@ -255,11 +258,11 @@ Symphony X - Paradise Lost (2007-06-22)
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Dark Passion Play (2007-09-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/c3212ee8-b50d-3511-b830-19bad4070c3d/20719326770-500.jpg" data-tags="power metal" role="button">
+Helloween - Gambling with the Devil (2007-10-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf68f77f-7e28-4afb-b51e-e15b42a86a3e/8143822806-500.jpg" data-tags="power metal" role="button">
 Avantasia - The Scarecrow (2008-01-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/4106c5e2-d1ec-47d8-9676-22167b3667b9/14972188877-500.jpg" data-tags="power metal" role="button">
-Firewind - The Premonition (2008-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcb0bdfc-1a99-4478-9002-d6ab9e7353cc/24486169115-500.jpg" data-tags="power metal" role="button">
 Sabaton - The Art of War (2008-05-30)
@@ -302,9 +305,6 @@ Nightwish - Imaginaerum (2011-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">
 Sabaton - Carolus Rex (2012-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
-Wintersun - Time I (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
 Amaranthe - The Nexus (2013-03-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:38:01.224Z
+date: 2021-04-03T23:13:01.231Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -159,9 +159,6 @@ Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic" role="button">
-Thom Yorke - The Eraser (2006-07-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">
 Lily Allen - Alright, Still (2006-07-17)
 </li>
@@ -299,6 +296,9 @@ Mumford & Sons - Babel (2012-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Foals - Holy Fire (2013-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)

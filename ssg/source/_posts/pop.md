@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:23:01.265Z
+date: 2021-04-03T23:17:01.292Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -63,7 +63,7 @@ Backstreet Boys - Millennium (1999-04-28)
 <li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Christina Aguilera (1999-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="coldplay, britpop" role="button">
+<li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
 </li>
 <li data-cover="https://img.discogs.com/43jeN4e7fmSGVdiYcb6OLQV8a3I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3467332-1486342108-9043.jpeg.jpg" data-tags="pop" role="button">
@@ -134,6 +134,9 @@ James Morrison - Undiscovered (2006-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
+</li>
+<li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
+Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
@@ -302,9 +305,6 @@ Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e005fa83-f67d-475d-bc17-8a147de390de/25244312194-500.jpg" data-tags="pop, soul" role="button">
 Sam Smith - In the Lonely Hour (2014-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
-Lana Del Rey - Ultraviolence (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

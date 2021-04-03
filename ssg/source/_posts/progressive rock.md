@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:54:01.235Z
+date: 2021-04-03T23:14:01.201Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -7,7 +7,7 @@ title: "progressive rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7acaa9ab-048c-3c82-8623-ea9b777137ac/2550522708-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Meddle (1971-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Wish You Were Here (1975-09-12)</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Animals (1977-01-23)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 80s" role="button">Genesis - Invisible Touch (1986-06-01)</li>
+<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">Genesis - Invisible Touch (1986-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Division Bell (1994-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
@@ -90,13 +90,10 @@ Pink Floyd - The Wall (1979-11-30)
 <li data-cover="http://coverartarchive.org/release/95cdd8d5-1e67-40ec-8775-6cb16e3cf631/986900014-500.jpg" data-tags="progressive rock" role="button">
 Rush - Permanent Waves (1980-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
-The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/985f059e-d503-378f-9e27-7c2f104653c5/18902154264-500.jpg" data-tags="classic rock, pink floyd, progressive rock" role="button">
 Pink Floyd - A Collection Of Great Dance Songs (1981-11-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="http://coverartarchive.org/release/9e1604a5-a7b1-46f4-adff-b5c5a8bd33b0/12748445063-500.jpg" data-tags="progressive rock" role="button">
 Asia - Asia (1982-03-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
@@ -105,28 +102,25 @@ The Alan Parsons Project - Eye In The Sky (1982-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Rush - Signals (1982-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/39d67214-cdbf-37bf-9262-f0bf1644f544/22945974880-500.jpg" data-tags="rock, classic rock" role="button">
-Dire Straits - Love Over Gold (1982-09-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="http://coverartarchive.org/release/c7d24b1b-213f-3271-a392-a17b3cdc0d49/9708066247-500.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Crises (1983-05-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Genesis - Genesis (1983-10-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="http://coverartarchive.org/release/8be613dc-5964-3dc0-9802-71c4eeccb125/11372138627-500.jpg" data-tags="progressive rock" role="button">
 Yes - 90125 (1983-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Rush - Grace Under Pressure (1984-04-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
 Genesis - Invisible Touch (1986-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
@@ -192,6 +186,9 @@ Anathema - A Fine Day to Exit (2001-10-01)
 <li data-cover="http://coverartarchive.org/release/2ab5fdc1-c24e-4f08-bc3b-ab291f515349/6572317296-500.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop" role="button">
+Archive - You All Look the Same to Me (2002-03-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
 </li>
@@ -234,6 +231,9 @@ Circa Survive - Juturna (2005-04-19)
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Oceansize - Everyone Into Position (2005-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
 </li>
@@ -254,6 +254,9 @@ Fair to Midland - Fables From a Mayfly: What I Tell You Three Times is True (200
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Riverside - Rapid Eye Movement (2007-09-24)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Oceansize - Frames (2007-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - The Bedlam in Goliath (2008-01-23)
@@ -299,9 +302,6 @@ The Dead Weather - Sea of Cowards (2010-05-10)
 </li>
 <li data-cover="https://img.discogs.com/S2G4EFJxpD6OTBvIXxxgNeWJgG4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4439616-1364920226-8476.jpeg.jpg" data-tags="progressive rock, atmospheric rock" role="button">
 Anathema - We're Here Because We're Here (2010-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
-Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
 <li data-cover="https://img.discogs.com/F9Thf9bsm8bLWtrEvfBbQg3objw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3115176-1356785998-5092.jpeg.jpg" data-tags="progressive rock" role="button">
 Opeth - Heritage (2011-09-14)
