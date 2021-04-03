@@ -1,17 +1,17 @@
 ---
-date: 2021-04-02T18:45:00.966Z
-title: viking metal
+date: 2021-04-03T17:54:01.261Z
+title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ae894b9c-8211-3dcd-ab3f-5c0960d2e4c6/13837179898-500.jpg" data-tags="black metal, viking metal" role="button">Bathory - Blood Fire Death (1988-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/d6dbc518-3ad6-39a5-ab01-1b24f87e2e45/19434936368-500.jpg" data-tags="viking metal" role="button">Bathory - Hammerheart (1990-04-16)</li>
 <li data-cover="http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Ensiferum (2001-07)</li>
+<li data-cover="https://img.discogs.com/6I28TAxCUoXkdWCSZFbVVuQE9_Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338887-1210954766.jpeg.jpg" data-tags="viking metal, folk metal, pagan metal" role="button">Moonsorrow - Voimasta ja Kunniasta (2001-11-26)</li>
 <li data-cover="http://coverartarchive.org/release/a8e692d6-1ebb-47b7-b41d-c508ba318263/16366579010-500.jpg" data-tags="melodic death metal" role="button">Amon Amarth - Versus The World (2002-11-18)</li>
 <li data-cover="https://img.discogs.com/6I28TAxCUoXkdWCSZFbVVuQE9_Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338887-1210954766.jpeg.jpg" data-tags="viking metal, folk metal" role="button">Moonsorrow - Kivenkantaja (2003-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/7c0561d3-5460-4b8d-8ff2-3076172c5d49/6506123080-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Iron (2004-04-15)</li>
 <li data-cover="http://coverartarchive.org/release/60447ee2-1289-30be-be08-5ce0cb82a3a7/8158297637-500.jpg" data-tags="melodic death metal" role="button">Amon Amarth - Fate of Norns (2004-09-06)</li>
-<li data-cover="http://coverartarchive.org/release/5e01dbe1-8b82-3607-a676-e1367454c0d7/14258097581-500.jpg" data-tags="melodic death metal" role="button">Amon Amarth - With Oden On Our Side (2006-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/6fe4d6ce-790c-3a29-a80c-b46823f722ff/4258363805-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Victory Songs (2007-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/96cf1767-5939-3713-9986-98979c3bcc1e/14258133969-500.jpg" data-tags="melodic death metal" role="button">Amon Amarth - Twilight of the Thunder God (2008-09-17)</li>
 </ol>
@@ -72,6 +72,9 @@ Einherjer - Odin Owns Ye All (1998-05-05)
 <li data-cover="http://coverartarchive.org/release/c5f91694-199e-3a0a-b4d9-9985c40a979c/18279167821-500.jpg" data-tags="black metal, viking metal" role="button">
 Enslaved - Blodhemn (1998-06-01)
 </li>
+<li data-cover="https://img.discogs.com/6-Ir8GHxyipCCoSgas9vj2hBvn0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8011752-1453560296-6777.jpeg.jpg" data-tags="black metal" role="button">
+Borknagar - The Archaic Course (1998-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/f4ef0e9a-efd6-4f1c-a6cd-b88edc26cb32/11690344953-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Midnattens Widunder (1999)
 </li>
@@ -83,9 +86,6 @@ Thyrfing - Valdr Galga (1999-03-15)
 </li>
 <li data-cover="https://img.discogs.com/tC3ji9850g493_yT5SJEJcw07Rg=/fit-in/600x1068/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11966123-1525637215-4198.jpeg.jpg" data-tags="viking metal" role="button">
 Mithotyn - Gathered Around the Oaken Table (1999-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/180ea4ec-efcb-3116-8571-74f3ea4d8c54/8541812052-500.jpg" data-tags="melodic death metal" role="button">
-Amon Amarth - The Avenger (1999-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/43e33729-569e-3500-86bd-b2067f3d163a/21922535473-500.jpg" data-tags="black metal, viking metal" role="button">
 Windir - Arntor (1999-10-11)
@@ -125,9 +125,6 @@ Moonsorrow - Voimasta ja Kunniasta (2001-11-26)
 </li>
 <li data-cover="https://img.discogs.com/PBZ1G8-uUSfimdtqpSozSZDeeug=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-648606-1602693361-6969.jpeg.jpg" data-tags="viking metal" role="button">
 Thyrfing - Vansinnesvisor (2002-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae0150c6-12fc-4ebe-acce-79148453c85a/15022383813-500.jpg" data-tags="viking metal" role="button">
-Bathory - Nordland I (2002-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8e692d6-1ebb-47b7-b41d-c508ba318263/16366579010-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Versus The World (2002-11-18)
@@ -195,8 +192,14 @@ Equilibrium - Turis Fratyr (2005-02-14)
 <li data-cover="https://img.discogs.com/6I28TAxCUoXkdWCSZFbVVuQE9_Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338887-1210954766.jpeg.jpg" data-tags="folk metal, viking metal, black metal, pagan metal" role="button">
 Moonsorrow - Verisäkeet (2005-02-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/6db4c9f1-1376-4502-bf32-b799362458da/2638094958-500.jpg" data-tags="pagan metal, folk metal" role="button">
+XIV Dark Centuries - Jul (2005-06-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/86ab957a-d7ce-473f-b38d-21fd0f3a3f3a/2460152201-500.jpg" data-tags="folk metal, viking metal" role="button">
 Månegarm - Vredens tid (2005-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/51121f7e-9a09-4f12-bb02-1dc6587575a1/7792795848-500.jpg" data-tags="heavy metal" role="button">
+Teräsbetoni - Metallitotuus (2005-11-16)
 </li>
 <li data-cover="https://img.discogs.com/dibiDz3joJFQKfsxNnrOeYXFDU8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559814-1248191928.jpeg.jpg" data-tags="viking metal" role="button">
 Thyrfing - Farsotstider (2005-11-21)
@@ -213,17 +216,14 @@ Korpiklaani - Tales Along This Road (2006-04-21)
 <li data-cover="http://coverartarchive.org/release/1e8dcfc6-302c-43cd-9807-d6251e358c65/2997123472-500.jpg" data-tags="black metal, progressive metal, progressive black metal" role="button">
 Enslaved - Ruun (2006-05-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e01dbe1-8b82-3607-a676-e1367454c0d7/14258097581-500.jpg" data-tags="melodic death metal" role="button">
-Amon Amarth - With Oden On Our Side (2006-09-20)
+<li data-cover="http://coverartarchive.org/release/3ad21303-6185-3378-bbd8-984d4f2047d7/8050005645-500.jpg" data-tags="folk metal" role="button">
+Eluveitie - Spirit (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b455705-d7a7-4857-8de3-c03e8e6ee61d/6523032214-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Ragnarok (2006-09-22)
 </li>
 <li data-cover="https://img.discogs.com/TuNHQteGbYQl1AFFMRTQI_eS8rI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1869484-1520878173-2683.png.jpg" data-tags="viking metal" role="button">
 Myrkgrav - Trollskau, Skrømt og Kølabrenning (2006-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/be330949-0a9d-481e-88a1-a5dc9e882589/21777987081-500.jpg" data-tags="folk metal" role="button">
-Moonsorrow - V: Hävitetty (2007-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c2eec03-07b6-4ba8-80f0-da865591e029/2997012520-500.jpg" data-tags="viking metal" role="button">
 Ensiferum - One More Magic Potion (2007-02-07)
@@ -243,17 +243,8 @@ Wolfchant - A Pagan Storm (2007-04-06)
 <li data-cover="http://coverartarchive.org/release/f8ac3213-5e9b-418d-915f-f04a35df5c49/7773757922-500.jpg" data-tags="viking metal" role="button">
 Turisas - To Holmgard And Beyond (2007-05-11)
 </li>
-<li data-cover="https://img.discogs.com/Vqv6pMwBtYIxDCIBlTIPwqWCe58=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930011-1448825137-4677.jpeg.jpg" data-tags="viking metal" role="button">
-Månegarm - Vargstenen (2007-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/23001cba-283e-4506-9f38-6086ab75ab5c/21896347692-500.jpg" data-tags="folk metal, viking metal" role="button">
 Turisas - The Varangian Way (2007-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/55af042a-e90b-3274-b3b5-b4d79ef8997d/5510657200-500.jpg" data-tags="folk metal" role="button">
-Korpiklaani - Tervaskanto (2007-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/a39235c3-f908-3bb5-8048-d5497ea5fa44/13452118930-500.jpg" data-tags="folk metal, viking metal" role="button">
-Finsterforst - Weltenkraft (2007-07-06)
 </li>
 <li data-cover="https://img.discogs.com/oSN6CwWhlKODuhH0tY65HZ_AMhY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14301732-1571832065-1801.jpeg.jpg" data-tags="folk metal" role="button">
 Turisas - Rasputin (2007-08-31)
@@ -273,13 +264,13 @@ Equilibrium - Sagas (2008-06-27)
 <li data-cover="http://coverartarchive.org/release/96cf1767-5939-3713-9986-98979c3bcc1e/14258133969-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Twilight of the Thunder God (2008-09-17)
 </li>
-<li data-cover="https://img.discogs.com/PBZ1G8-uUSfimdtqpSozSZDeeug=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-648606-1602693361-6969.jpeg.jpg" data-tags="2008, viking metal" role="button">
+<li data-cover="http://coverartarchive.org/release/309a86fc-7efa-4c7b-bef5-09fcae160518/21888065885-500.jpg" data-tags="viking metal" role="button">
 Thyrfing - Hels Vite (2008-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/650638c5-374e-4eb2-9f4d-7ab72f1e7d6e/6523036853-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - By the Light of the Northern Star (2009-05-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, experimental my ass, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
 椎名林檎 - 三文ゴシップ (2009-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf657a0d-4c46-4db9-8477-b685924c3964/19987067815-500.jpg" data-tags="folk metal" role="button">
@@ -294,8 +285,14 @@ Eluveitie - Everything Remains As It Never Was (2010-02-19)
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d76aca1-49c8-434e-88d8-983e6b09e277/19427746603-500.jpg" data-tags="2011, viking metal" role="button">
+<li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
+Justin Bieber - My Worlds Acoustic (2010-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/2d76aca1-49c8-434e-88d8-983e6b09e277/19427746603-500.jpg" data-tags="viking metal" role="button">
 Falkenbach - Tiurida (2011-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/933e061d-d45a-4b36-8a69-bdf3a239baf4/2631033047-500.jpg" data-tags="pagan metal, black metal" role="button">
+Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
 </li>
 <li data-cover="https://img.discogs.com/T0W57vrf7Y9CAVlaN76garpbTNA=/fit-in/350x349/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4951775-1380390621-8347.gif.jpg" data-tags="folk metal, symphonic metal" role="button">
 Turisas - Stand Up and Fight (2011-02-23)
@@ -303,10 +300,13 @@ Turisas - Stand Up and Fight (2011-02-23)
 <li data-cover="http://coverartarchive.org/release/1a599b32-363f-45e7-9712-29084a5855ee/13876171030-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Surtur Rising (2011-03-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
+Zola Jesus - Conatus (2011-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
 Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="2012, folk, andrew, ccm, donald trump, david orton" role="button">
+<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
@@ -315,7 +315,7 @@ Zara Larsson - Uncover (2013-05-13)
 <li data-cover="http://coverartarchive.org/release/c6a77c6d-fa8c-4786-bac3-a274a2acd2bf/11192355590-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Deceiver of the Gods (2013-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/737602b3-837f-4e30-8f61-9ba4584bc7e4/5252944434-500.jpg" data-tags="folk metal, 2013" role="button">
+<li data-cover="http://coverartarchive.org/release/737602b3-837f-4e30-8f61-9ba4584bc7e4/5252944434-500.jpg" data-tags="folk metal" role="button">
 Týr - Valkyrja (2013-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c759983d-e895-4b5a-a024-fdb215984977/5270130572-500.jpg" data-tags="folk metal, viking metal, 2013, black metal" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:40:01.326Z
+date: 2021-04-03T18:26:01.509Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -60,7 +60,7 @@ Black Flag - Damaged (1981)
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
 The Clash - Combat Rock (1982-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="1982, punk rock, hardcore punk, punk" role="button">
+<li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="punk rock, hardcore punk, punk" role="button">
 Descendents - Milo Goes to College (1982-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
@@ -141,9 +141,6 @@ The Offspring - Conspiracy of One (2000-11-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
 </li>
-<li data-cover="https://img.discogs.com/V6pdlLTilI4qE9xPoW01G6E89qc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494256-1591098542-4138.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
-Weezer - Weezer (2001-04-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)
 </li>
@@ -164,9 +161,6 @@ The Used - The Used (2002-06-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk, gypsy punk" role="button">
 Gogol Bordello - Multi Kontra Culti vs. Irony (2002-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/0adc628c-ad64-39cd-b882-3be9a2af1f1b/4783923651-500.jpg" data-tags="punk" role="button">
-Hot Water Music - Caution (2002-10-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk" role="button">
 Transplants - Transplants (2002-10-22)
@@ -273,8 +267,14 @@ The Offspring - Greatest Hits (2005-06-20)
 <li data-cover="http://coverartarchive.org/release/88447a5b-049f-4971-bed6-1798b9c8b9b7/18592316432-500.jpg" data-tags="punk, punk rock" role="button">
 Against Me! - Searching for a Former Clarity (2005-09-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
+Rise Against - The Sufferer & the Witness (2006-07-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
+The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)

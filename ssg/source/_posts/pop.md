@@ -1,8 +1,8 @@
 ---
-date: 2021-04-03T17:32:08.174Z
+date: 2021-04-03T18:06:01.254Z
 title: "pop: 100 albums you must listen to before you die"
 ---
-![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
+![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">Beyoncé - Dangerously in Love (2003-03-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="lady gaga, pop" role="button">Lady Gaga - The Fame Monster (2008-08-19)</li>
@@ -10,8 +10,8 @@ title: "pop: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">Adam Lambert - For Your Entertainment (2009-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">Rihanna - Loud (2010-08-18)</li>
 <li data-cover="http://coverartarchive.org/release/d610e36f-aae9-4703-9a9b-355c9e8de6c7/3403639089-500.jpg" data-tags="pop" role="button">Katy Perry - Teenage Dream (2010-08-24)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
+<li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
+<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">Beyoncé - 4 (2011-06-24)</li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">Flo Rida - Wild Ones (2012-06-22)</li>
 </ol>
@@ -27,9 +27,6 @@ The Beach Boys - Pet Sounds (1966-05-16)
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/aec86745-1482-42dc-b2e0-118caa53504b/1872074680-500.jpg" data-tags="pop, soul" role="button">
-Mariah Carey - Emotions (1991-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae5efacd-f75f-432a-9f22-b35d3169d21f/8121279988-500.jpg" data-tags="pop" role="button">
 Michael Jackson - Dangerous (1991-11-25)
 </li>
@@ -38,9 +35,6 @@ Madonna - Erotica (1992-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc4ae0a1-b3f9-4e40-aec5-22c937e935f1/6412412220-500.jpg" data-tags="pop" role="button">
 Mariah Carey - Daydream (1995-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
-Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b81d76f6-911e-4278-b8d9-cbac4ab3404b/17512583264-500.jpg" data-tags="pop" role="button">
 Spice Girls - Spice (1996-09-19)
@@ -59,6 +53,15 @@ Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
 <li data-cover="https://img.discogs.com/OXVoM079mLpPeVMRCoTnxFAAlcU=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13663808-1558546223-9704.jpeg.jpg" data-tags="pop, electronic" role="button">
 Madonna - Ray of Light (1998-04-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e99eb7b-0083-4053-81ab-b9ee0207bf1c/4358331297-500.jpg" data-tags="pop" role="button">
+Backstreet Boys - Millennium (1999-04-28)
+</li>
+<li data-cover="https://img.discogs.com/ljvDPVmweBOKTbge0p9t-V3mHJw=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6202448-1499001342-5565.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
+Whitney Houston - My Love Is Your Love (1999-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
+Christina Aguilera - Christina Aguilera (1999-08-24)
 </li>
 <li data-cover="https://img.discogs.com/43jeN4e7fmSGVdiYcb6OLQV8a3I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3467332-1486342108-9043.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
@@ -107,6 +110,9 @@ Daniel Powter - Daniel Powter (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
+Regina Spektor - Begin to Hope (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/74832c40-66da-4efa-acec-871e0a72aae2/3946571235-500.jpg" data-tags="pop" role="button">
 Fergie - The Dutchess (2006-06-19)
@@ -240,34 +246,31 @@ Ke$ha - Cannibal (2010-11-19)
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+<li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">
 Adele - 21 (2011-01-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+<li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
 Jessie J - Who You Are (2011-02-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, britney spears" role="button">
+<li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
-Foster the People - Torches (2011-05-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+<li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">
 Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+<li data-cover="http://coverartarchive.org/release/8567aef6-d979-464b-9e46-1dd664cd37dc/16779265525-500.jpg" data-tags="pop" role="button">
 Demi Lovato - Unbroken (2011-09-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop" role="button">
+<li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
 </li>
 <li data-cover="https://img.discogs.com/GKib7ra9RQBS0JoQDLJmYGD2isM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9374462-1479469272-1275.jpeg.jpg" data-tags="electronic, dance" role="button">
@@ -287,9 +290,6 @@ Taylor Swift - Red (2012-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="2012" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="2013, pop" role="button">
-Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)

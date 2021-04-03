@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:37:01.792Z
+date: 2021-04-03T18:05:06.759Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Muse - Absolution (2003-09-08)](https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg "Muse - Absolution (2003-09-08)")
@@ -78,17 +78,11 @@ Weezer - Pinkerton (1996-08-24)
 <li data-cover="http://coverartarchive.org/release/fcdfaf16-ca69-37f8-9616-9f0c5dc2c903/1154789943-500.jpg" data-tags="rock, alternative, 90s" role="button">
 Cake - Fashion Nugget (1996-09-17)
 </li>
-<li data-cover="https://img.discogs.com/S_mbPtJhhDqoIRIVdgxKQe8wf48=/fit-in/500x441/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-624087-1503894206-6066.jpeg.jpg" data-tags="britpop" role="button">
-Blur - Blur (1997-01-29)
-</li>
 <li data-cover="https://img.discogs.com/p4bN5vILQQzPkNFm1T3VpOsNT3E=/fit-in/308x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-495627-1403563640-8619.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
 Third Eye Blind - Third Eye Blind (1997-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - The Colour and the Shape (1997-05-10)
-</li>
-<li data-cover="https://img.discogs.com/oC80XbUu1pNPEjJuxSL9mIE4OAw=/fit-in/600x922/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500374-1332874280.jpeg.jpg" data-tags="alternative rock" role="button">
-Guano Apes - Proud Like a God (1997-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
 Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
@@ -183,6 +177,9 @@ Green Day - American Idiot (2004-09-20)
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, female vocalists" role="button">
+Flyleaf - Flyleaf (2004-10-26)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
@@ -204,11 +201,20 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
+Regina Spektor - Begin to Hope (2006-06-13)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock, alternative rock" role="button">
 Red - End Of Silence (2006-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
+The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
+Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
@@ -279,22 +285,19 @@ The Pretty Reckless - Light Me Up (2010-08-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/358818df-ed4e-43b9-8f34-dcd513934d50/6626320723-500.jpg" data-tags="indie rock, alternative rock" role="button">
-Young the Giant - Young the Giant (2010-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/15807529-d588-4c39-a865-dbda519db68f/26395613475-500.jpg" data-tags="alternative, alternative rock, rock, punk" role="button">
 My Chemical Romance - Danger Days: The True Lives of the Fabulous Killjoys (2010-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dafe15c2-5fb9-4a5f-9b12-df031d3b0e9b/2103470066-500.jpg" data-tags="alternative rock" role="button">
 Panic! at the Disco - Vices & Virtues (2011-03-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg" data-tags="funk rock, alternative rock, rock" role="button">
 Red Hot Chili Peppers - I'm With You (2011-08-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop" role="button">
+<li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">
@@ -317,8 +320,5 @@ Arctic Monkeys - AM (2013-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/56093d48-8af0-4b4a-8ebe-1d907b1e5c6c/8161333412-500.jpg" data-tags="indie, alternative rock, folk, soft rock, folk rock, indie folk, 2010s, reviewed, immortal albums" role="button">
-Ben Howard - I Forget Where We Were (2014-10-20)
 </li>
 </ol>

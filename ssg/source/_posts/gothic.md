@@ -1,13 +1,13 @@
 ---
-date: 2021-04-03T16:09:00.724Z
-title: "gothic&#58; 100 albums you must listen to before you die"
+date: 2021-04-03T18:25:01.475Z
+title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">The Cure - Pornography (1982-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal, industrial, metal" role="button">Marilyn Manson - Antichrist Superstar (1996-10-08)</li>
-<li data-cover="http://coverartarchive.org/release/c38d4983-987f-35b9-9683-932192d5e3c4/19881038050-500.jpg" data-tags="love metal, him, rock" role="button">Him - Razorblade Romance (1999-12-19)</li>
+<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock, metal" role="button">Marilyn Manson - Mechanical Animals (1998-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">Evanescence - Origin (2000-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
@@ -21,16 +21,22 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7981f14a-1bb5-3a36-99ce-a1377a17095b/26259040094-500.jpg" data-tags="post-punk, gothic rock" role="button">
+Bauhaus - The Sky's Gone Out (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">
 Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/c22581fb-8457-3e71-bf62-919ff444b929/21726902737-500.jpg" data-tags="80s, alternative, new wave, 90s" role="button">
+Peter Murphy - Deep (1989)
+</li>
 <li data-cover="https://img.discogs.com/m1dwY6LtNOUIrCh9N-Qx946OPhg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5173017-1388431936-8243.jpeg.jpg" data-tags="gothic, darkwave" role="button">
 Lacrimosa - Angst (1991)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="darkwave, ambient, gothic, 4ad" role="button">
+<li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
 Dead Can Dance - A Passage in Time (1991-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/fba3ddd3-6a38-4bc0-b428-e456f7cf3532/2107416724-500.jpg" data-tags="gothic, darkwave" role="button">
@@ -81,6 +87,9 @@ Arcana - Dark Age of Reason (1996)
 <li data-cover="http://coverartarchive.org/release/3f2839ae-170e-4351-9847-446ca5ce73d6/13453155769-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Perfect Drug (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
+The Cure - Wild Mood Swings (1996-05-07)
+</li>
 <li data-cover="https://img.discogs.com/6bXq_6w2NfZNJ0O0_pAAgQAsYWg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7079643-1433225094-8678.jpeg.jpg" data-tags="rasputina, gothic" role="button">
 Rasputina - Thanks For The Ether (1996-08-06)
 </li>
@@ -92,6 +101,9 @@ Marilyn Manson - Antichrist Superstar (1996-10-08)
 </li>
 <li data-cover="https://img.discogs.com/m1dwY6LtNOUIrCh9N-Qx946OPhg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5173017-1388431936-8243.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
 Lacrimosa - Stille (1997-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f6128f3-6638-40d2-b9cd-dc069dba18b6/2115320360-500.jpg" data-tags="gothic rock, gothic" role="button">
+Inkubus Sukkubus - Vampyre Erotica (1997-09-22)
 </li>
 <li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
@@ -105,9 +117,6 @@ The Crüxshadows - Telemetry of a Fallen Angel (1998)
 <li data-cover="https://img.discogs.com/JHOHTyWyL2vysmIQG8aBqDviIrw=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6308314-1416126352-5825.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Aégis (1998-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab30776c-8e8b-4554-858b-b0acd7cb74c1/27009518945-500.jpg" data-tags="industrial, industrial rock" role="button">
-Orgy - Candyass (1998-08-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock, metal" role="button">
 Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
@@ -117,14 +126,8 @@ Blutengel - Child of Glass (1999-02-22)
 <li data-cover="https://img.discogs.com/zj3F2CNjJwRu_aEDFdIpFG00lzY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6122498-1419101414-9922.jpeg.jpg" data-tags="gothic, finnish, gothic metal" role="button">
 The 69 Eyes - Wasting the Dawn (1999-02-22)
 </li>
-<li data-cover="https://img.discogs.com/kghbP0cZiuZgaQ_jVxLPPJPBXSI=/fit-in/478x742/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7173385-1435353547-9883.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
-Lacrimosa - Elodia (1999-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd62ba3a-945a-421a-b516-63149a6836fd/21657403755-500.jpg" data-tags="gothic, german" role="button">
 E Nomine - Das Testament (1999-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/c38d4983-987f-35b9-9683-932192d5e3c4/19881038050-500.jpg" data-tags="love metal, him, rock" role="button">
-Him - Razorblade Romance (1999-12-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="gothic" role="button">
 Queen Adreena - Taxidermy (2000-04-10)
@@ -147,7 +150,7 @@ Lacuna Coil - Unleashed Memories (2001-01-18)
 <li data-cover="http://coverartarchive.org/release/f5e9663a-ef6e-44ef-bb12-3d1035614a82/9279630913-500.jpg" data-tags="gothic, gothic rock" role="button">
 Letzte Instanz - Kalter Glanz (2001-03-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electrogoth, industrial, ebm, darkwave" role="button">
+<li data-cover="http://coverartarchive.org/release/2b18f9eb-b171-4fd6-ab1f-9801c4adc992/11392866472-500.jpg" data-tags="electrogoth, industrial, ebm, darkwave" role="button">
 Blutengel - Seelenschmerz (2001-03-19)
 </li>
 <li data-cover="https://img.discogs.com/YXJHpQW8y46vG7hRWW_9ANNY1LI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008477-1258239023.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
@@ -155,9 +158,6 @@ Lacrimosa - Fassade (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/80f70658-2074-4471-b1ab-11562a783cc0/2133707556-500.jpg" data-tags="rock, finnish, gothic rock, the 69 eyes" role="button">
 The 69 Eyes - Paris Kills (2002-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/544b94ff-da91-3efd-87fc-5ceddd1a125c/10709405994-500.jpg" data-tags="gothic metal" role="button">
-Sirenia - At Sixes and Sevens (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ffe5c6-3aa0-42bc-88bd-c4e31c83496a/10602738638-500.jpg" data-tags="alternative rock, gothic, goth, female vocalists" role="button">
 Queen Adreena - Drink Me (2002-08-05)
@@ -297,11 +297,11 @@ Unheilig - Puppenspiel (2008-02-22)
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
 Kerli - Love Is Dead (2008-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/67fd1cdd-1024-41e1-b103-fab82330a0b4/5674381799-500.jpg" data-tags="industrial metal" role="button">
-Deathstars - Night Electric Night (2009-01-30)
-</li>
 <li data-cover="https://img.discogs.com/LfBjYCCBm98bfW3TdVXhdeigAd0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334744-1599234149-9074.jpeg.jpg" data-tags="gothic, german, eisblume" role="button">
 Eisblume - Unter dem Eis (2009-03-06)
+</li>
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/68c04f2c-66dd-47d0-bc27-e289665f46d4/13805054818-500.jpg" data-tags="gothic" role="button">
 Mono Inc. - Voices Of Doom (2009-09-25)

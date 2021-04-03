@@ -1,6 +1,6 @@
 ---
-date: 2021-04-03T16:08:57.408Z
-title: "symphonic metal&#58; 100 albums you must listen to before you die"
+date: 2021-04-03T18:20:01.234Z
+title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
 <ol class="albums">
@@ -53,12 +53,6 @@ Rhapsody - Symphony of Enchanted Lands (1998-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Oceanborn (1998-12-07)
-</li>
-<li data-cover="https://img.discogs.com/kghbP0cZiuZgaQ_jVxLPPJPBXSI=/fit-in/478x742/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7173385-1435353547-9883.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
-Lacrimosa - Elodia (1999-08-21)
-</li>
-<li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">
-Sonata Arctica - Ecliptica (1999-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4943881b-cf46-3bb5-a9ad-26d19ab72f21/11162986699-500.jpg" data-tags="symphonic metal, metal, thrash metal" role="button">
 Metallica - S&M (1999-11-22)
@@ -122,6 +116,9 @@ Nightwish - Century Child (2002-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e80c5fef-6cd7-419b-9c2e-12c121400b89/25277398803-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Nightwish - Bless the Child (2002-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/2195ff36-dd1a-3704-a13e-93a7b26494fb/24841719489-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - Nemo (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
@@ -285,11 +282,14 @@ Rhapsody of Fire - The Frozen Tears Of Angels (2010-04-30)
 <li data-cover="http://coverartarchive.org/release/b711481c-af7a-48f5-8d66-d2c6c6c606d0/5647632242-500.jpg" data-tags="cello metal, symphonic metal" role="button">
 Apocalyptica - 7th Symphony (2010-08-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/8sZQNKE9oHBtEZ3Z5Nv6Ftbj_fU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4925290-1379608085-2951.jpeg.jpg" data-tags="symphonic metal" role="button">
 Tarja - What Lies Beneath (2010-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/83369e76-a177-475e-b193-f42e34026a95/4013802680-500.jpg" data-tags="symphonic black metal" role="button">
 Dimmu Borgir - Abrahadabra (2010-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
+Chelsea Wolfe - The Grime and the Glow (2010-12-28)
 </li>
 <li data-cover="https://img.discogs.com/T0W57vrf7Y9CAVlaN76garpbTNA=/fit-in/350x349/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4951775-1380390621-8347.gif.jpg" data-tags="folk metal, symphonic metal" role="button">
 Turisas - Stand Up and Fight (2011-02-23)
@@ -312,7 +312,7 @@ Wintersun - Time I (2012-10-19)
 <li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
 Amaranthe - The Nexus (2013-03-13)
 </li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, gothic my ass, goth music for pussies, japanese, anime, j-pop, visual kei, not gothic, slut pop, fip, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, so bad its good, folklore intellectuel, hino, not darkwave, metal for teletubbies, poptron, hate my nation, very intelligent lyrics, darkwave my ass, gothic metal, humour, misogyny, lol, seiyuu, troll" role="button">
+<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f93e14-2c2a-4ff9-96c1-52ce69b25216/6426874422-500.jpg" data-tags="symphonic metal" role="button">

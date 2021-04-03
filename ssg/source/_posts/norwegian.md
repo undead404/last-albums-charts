@@ -1,6 +1,6 @@
 ---
-date: 2021-04-03T09:40:06.527Z
-title: norwegian
+date: 2021-04-03T18:02:02.303Z
+title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
 <ol class="albums">
@@ -33,9 +33,6 @@ a-ha - East of the Sun West of the Moon (1990-10-12)
 <li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="pop, alternative rock, norwegian" role="button">
 a-ha - Memorial Beach (1993-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/53ae9c76-5e9e-4342-98db-5fdeb63af1d8/21058797776-500.jpg" data-tags="folk metal, viking metal" role="button">
-Storm - Nordavind (1994)
-</li>
 <li data-cover="http://coverartarchive.org/release/b69e215e-cf17-4624-afe2-01fe2cad4428/4820147028-500.jpg" data-tags="1994, metal, rock, norwegian, classic albums, bleak, skandinavisch, bra album, dice-throw: six" role="button">
 Seigmen - Total (1994)
 </li>
@@ -45,10 +42,10 @@ Darkthrone - Transilvanian Hunger (1994-02-17)
 <li data-cover="http://coverartarchive.org/release/a8843c8b-2b8f-44b7-be46-c5a78942849e/21866237801-500.jpg" data-tags="black metal" role="button">
 Mayhem - De Mysteriis Dom Sathanas (1994-05-24)
 </li>
-<li data-cover="https://img.discogs.com/OQmx0RbbQpScP92Gd3rXv486QR8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067468-1492435783-7287.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/a1V7CkzDIj6Kmf-GeWAy0pinooI=/fit-in/140x140/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370414-1104708010.jpg.jpg" data-tags="rock" role="button">
 Motorpsycho - Timothy's Monster (1994-08-06)
 </li>
-<li data-cover="https://img.discogs.com/KLsHPCXjeJ98_ZFMwg9mwAxc07k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6978183-1430847414-6989.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
+<li data-cover="https://img.discogs.com/vHrPCUPr-rw4bMXnjmrEgVAlmQ0=/fit-in/597x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381673-1334294432.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Isengard - Høstmørke (1995-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cc37560-1f83-4f58-ace6-01a69ea39f45/4819953174-500.jpg" data-tags="metal, rock, alternative, norwegian, industrial rock, post-grunge, bleak, handleliste" role="button">
@@ -63,20 +60,8 @@ Dimmu Borgir - Stormblåst (1996-01-25)
 <li data-cover="http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-500.jpg" data-tags="black metal" role="button">
 Burzum - Filosofem (1996-01-31)
 </li>
-<li data-cover="https://img.discogs.com/cNhyGiPa18oIAK7F52ij5CIZrFM=/fit-in/562x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2133956-1348802991-3436.jpeg.jpg" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/FA0sKAo13tvmM2Ajs_G6hBeWgs0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4225709-1359058284-9040.jpeg.jpg" data-tags="black metal" role="button">
 Satyricon - Nemesis Divina (1996-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c399f8d5-43a8-3e1a-98b7-0a6a5bb6ea52/2153622469-500.jpg" data-tags="1996, ambient, atmospheric, world music, ethereal, folk, ethnic, 4ad" role="button">
-Dead Can Dance - Spiritchaser (1996-06-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/8bce7d2e-cddd-38d3-86b7-d2c53e9d17aa/6830358041-500.jpg" data-tags="black metal, symphonic black metal" role="button">
-Emperor - Anthems To The Welkin At Dusk (1997-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c51f27b8-ffd7-4b53-aa4e-2687e213e30f/4798121885-500.jpg" data-tags="symphonic black metal, black metal" role="button">
-Dimmu Borgir - Enthrone Darkness Triumphant (1997-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/709f090c-6659-46af-a9ec-dbcd9ca4058c/19255822547-500.jpg" data-tags="jazz, trumpet" role="button">
-Nils Petter Molvær - Khmer (1997-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd27c740-f61d-3b7a-a1b4-44d6834a791d/21056285792-500.jpg" data-tags="indie" role="button">
 Madrugada - Industrial Silence (1999)
@@ -84,13 +69,7 @@ Madrugada - Industrial Silence (1999)
 <li data-cover="http://coverartarchive.org/release/9601f688-674e-3908-acdf-820214dd9a46/4819640448-500.jpg" data-tags="norwegian, approved, to check out, milestones, sleepless, favs of nocci, decent, gothcore, gothic-darkwave, handleliste, waahh i love it, nice and dark, coming summer melancholy, darksky fm" role="button">
 Seigmen - Monument (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5b9b486-65c7-41d4-82e1-3fe6a8fac5ef/8645595591-500.jpg" data-tags="lene marlin, pop" role="button">
-Lene Marlin - Playing My Game (1999-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/52e116bb-41bf-4631-bb16-13f9e9926b3e/26925759404-500.jpg" data-tags="electronic, norwegian, un, lovely electronica, gvs" role="button">
-Kim Hiorthøy - Hei (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1285710-bcd8-47c5-9ce3-d3df1f57a7d1/12016458800-500.jpg" data-tags="2000, pop, m2m" role="button">
+<li data-cover="http://coverartarchive.org/release/e1285710-bcd8-47c5-9ce3-d3df1f57a7d1/12016458800-500.jpg" data-tags="pop, m2m" role="button">
 M2M - Shades of Purple (2000-02-03)
 </li>
 <li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="80s, pop rock 80" role="button">
@@ -114,7 +93,7 @@ Jaga Jazzist - A Livingroom Hush (2001-05-21)
 <li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
 Röyksopp - Eple (2001-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-500.jpg" data-tags="norwegian, 2001, ompa" role="button">
+<li data-cover="http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-500.jpg" data-tags="norwegian, ompa" role="button">
 Kaizers Orchestra - Ompa til du dør (2001-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c523455-26fd-434d-873c-c4039606d0c3/24357097154-500.jpg" data-tags="indie pop, pop, norwegian" role="button">
@@ -122,6 +101,18 @@ Sondre Lerche - Faces Down (2001-09-10)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
+Kings of Convenience - Versus (2001-10-22)
+</li>
+<li data-cover="https://img.discogs.com/co9KmZHvtj5ElohkcqaLcEo-__s=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3729236-1342022284-7698.jpeg.jpg" data-tags="nu jazz, norwegian, guitar, jazz" role="button">
+Eivind Aarset - Light Extracts (2001-11-06)
+</li>
+<li data-cover="https://img.discogs.com/X65HTSq07NzoDMwRGJqsabo4dbE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6647265-1423796817-5285.jpeg.jpg" data-tags="pop" role="button">
+a-ha - Lifelines (2002-04-02)
+</li>
+<li data-cover="https://img.discogs.com/GYhZ7K6fOzCcdRdNDHBJZJ74sHU=/fit-in/280x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2349420-1278742285.jpeg.jpg" data-tags="avant-garde metal, progressive metal" role="button">
+Arcturus - The Sham Mirrors (2002-04-22)
 </li>
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
 Nils Petter Molvær - NP3 (2002-07-01)
@@ -132,7 +123,7 @@ Thomas Dybdahl - Stray Dogs (2003)
 <li data-cover="https://img.discogs.com/jgWeZQt-aFrwKZOJd6Hwy4n22NU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12669470-1539710071-8433.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
 </li>
-<li data-cover="https://img.discogs.com/aqY095O8l926vpNqzcfMLyvjFaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2021726-1260197579.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/fHAI9p_rX7ieIWjt9ZwdG2igyIs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108877-1370639233-7460.jpeg.jpg" data-tags="electronic" role="button">
 Erlend Øye - Unrest (2003-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/50527efa-4879-4418-8d86-4fffe01c29ad/14081022150-500.jpg" data-tags="norwegian" role="button">
@@ -149,9 +140,6 @@ Dimmu Borgir - Death Cult Armageddon (2003-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c293557-1a20-4cf6-80e8-5bb7d7ab4e55/16378712431-500.jpg" data-tags="pop, another day" role="button">
 Lene Marlin - Another Day (2003-09-18)
-</li>
-<li data-cover="https://img.discogs.com/WZsQSYa2ubtl0ZEgf9ZZTUEGa8c=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047409-1296707319.jpeg.jpg" data-tags="rock" role="button">
-Gåte - Iselilja (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
 Hanne Hukkelberg - Little Things (2004)
@@ -183,6 +171,9 @@ Sirenia - Sirenian Shores (2004-10-11)
 <li data-cover="https://img.discogs.com/LHHhi4U3WGT_XMhYyZnMCDlHtoc=/fit-in/459x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565321-1151310339.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Thomas Dybdahl - One Day You'll Dance For Me, New York City (2004-10-18)
 </li>
+<li data-cover="https://img.discogs.com/uKtmNQ6fx9K2W90T2e_AGmmob4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383109-1466835134-7529.png.jpg" data-tags="black metal" role="button">
+Strid - Strid (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="2005, folk, norwegian" role="button">
 Ane Brun - A Temporary Dive (2005-02-07)
 </li>
@@ -207,14 +198,14 @@ Kaizers Orchestra - Maestro (2005-08-15)
 <li data-cover="http://coverartarchive.org/release/c5272ece-c9ef-4b59-93e9-86933928e900/7826835304-500.jpg" data-tags="anja garbarek" role="button">
 Anja Garbarek - Briefly Shaking (2005-09-26)
 </li>
-<li data-cover="https://img.discogs.com/CkBSsvg2C8X1iWgsZLpkqZEGXq0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6141682-1412114317-4162.jpeg.jpg" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/MGgOnW6cyW-AEbNeqC9Vh3bh-Wo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-580058-1134050659.jpeg.jpg" data-tags="black metal" role="button">
 1349 - Hellfire (2005-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d87a354a-b0eb-44cc-bc09-cc966eb86df2/20833625751-500.jpg" data-tags="pop" role="button">
 a-ha - Analogue (2005-10-31)
 </li>
-<li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="downtempo" role="button">
-Röyksopp - Beautiful Day Without You (2006-03)
+<li data-cover="https://img.discogs.com/V_LElJRcjZuH-7qGNSUh-YBst8Y=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780230-1518613999-8834.jpeg.jpg" data-tags="pop" role="button">
+Maria Mena - Apparently Unaffected (2005-11-14)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
@@ -231,16 +222,19 @@ Sondre Lerche - Phantom Punch (2006-08-28)
 <li data-cover="https://img.discogs.com/N7Bp5jfIBr2hf6QiJeqIZYuRx_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5352829-1391801147-4466.jpeg.jpg" data-tags="black metal, heavy metal" role="button">
 I - Between Two Worlds (2006-11-03)
 </li>
+<li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
+Tristania - Illumination (2007-01-19)
+</li>
 <li data-cover="https://img.discogs.com/uIAfZ93GzL9QH5DKXUZbj6LUJ-Y=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4140032-1356738631-1349.jpeg.jpg" data-tags="norwegian, norsk" role="button">
 Postgirobygget - Tidløs (2007-06)
 </li>
 <li data-cover="https://img.discogs.com/yJojx2GIVhg6pOpvML9CR3svYkU=/fit-in/399x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1294420-1215387260.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Ane Brun - Changing of the Seasons (2008-03-10)
 </li>
-<li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="2009, indie" role="button">
+<li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
-<li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronic, 2009" role="button">
+<li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronic" role="button">
 Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="https://img.discogs.com/6uphE3rwnbdqKOH_S-t17bV8U00=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1873365-1249299759.jpeg.jpg" data-tags="pop" role="button">
@@ -282,8 +276,11 @@ Katzenjammer - A Kiss Before You Go (2011-09-09)
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="norwegian, jazz" role="button">
 Nils Petter Molvær - Baboon Moon (2011-09-16)
 </li>
-<li data-cover="https://img.discogs.com/NECvp4XItuaiu9ANZFCFqERRoq0=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9278141-1477831146-7510.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
+<li data-cover="https://img.discogs.com/eE2kVJmgUzz5HHPDhuHtfx5Shrk=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305596-1330446806.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Taake - Noregs Vaapen (2011-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/40ad926e-0aa5-476d-9640-fed5f95d8ede/3990865020-500.jpg" data-tags="maria mena" role="button">
+Maria Mena - Viktoria (2011-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c14cded-3867-4728-8267-551c4ac3c419/2406115549-500.jpg" data-tags="2012" role="button">
 Lindstrøm - Smalhans (2012-11-05)
@@ -300,25 +297,28 @@ Adelén - Bombo (2013-01-30)
 <li data-cover="http://coverartarchive.org/release/e3b02657-913b-4580-9fff-855f0e7cb8a5/11609849261-500.jpg" data-tags="2013, neofolk" role="button">
 Wardruna - Runaljod – Yggdrasil (2013-03-15)
 </li>
-<li data-cover="https://img.discogs.com/2biqLp7yaK8LXc5GWXhd6NHM1DA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8938479-1543259564-6928.jpeg.jpg" data-tags="2013, hardcore" role="button">
+<li data-cover="https://img.discogs.com/2biqLp7yaK8LXc5GWXhd6NHM1DA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8938479-1543259564-6928.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3929e5c-2287-43e9-879d-adc155e910c6/25194465215-500.jpg" data-tags="2013, electronic, downtempo, norwegian, warm, cold, nocturnal, merkliste, feels, acker bilk, proto-vaporwave" role="button">
 Röyksopp - Late Night Tales: Röyksopp (2013-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/9028aa2d-5482-4e82-bc8a-ff0cb1178842/8871578703-500.jpg" data-tags="2014, pop, norwegian, norway, norge" role="button">
+<li data-cover="http://coverartarchive.org/release/9028aa2d-5482-4e82-bc8a-ff0cb1178842/8871578703-500.jpg" data-tags="pop, norwegian, norway, norge" role="button">
 Donkeyboy - Crazy Something Normal (2014)
+</li>
+<li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
+Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/374bb533-2dc5-4b3c-ab06-679c82473de8/9208647489-500.jpg" data-tags="rock, hard rock, norwegian" role="button">
 Spidergawd - Spidergawd (2014-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9c5605d-d526-4222-86b9-c3adb2719d13/7037161308-500.jpg" data-tags="2014" role="button">
+<li data-cover="http://coverartarchive.org/release/a9c5605d-d526-4222-86b9-c3adb2719d13/7037161308-500.jpg" data-tags="electronic" role="button">
 Röyksopp & Robyn - Do It Again (2014-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/90c40569-5bc4-4577-8609-2934f5eb1b9d/11602582677-500.jpg" data-tags="2014, hip-hop, pop, norwegian, r&b, norway, norge" role="button">
+<li data-cover="http://coverartarchive.org/release/90c40569-5bc4-4577-8609-2934f5eb1b9d/11602582677-500.jpg" data-tags="hip-hop, pop, norwegian, r&b, norway, norge" role="button">
 Nico & Vinz - Black Star Elephant (2014-10-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="2014" role="button">
+<li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)
 </li>
 </ol>

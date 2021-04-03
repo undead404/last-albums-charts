@@ -1,19 +1,19 @@
 ---
-date: 2021-04-03T08:52:20.292Z
-title: progressive
+date: 2021-04-03T17:53:01.183Z
+title: "progressive: 100 albums you must listen to before you die"
 ---
-![Tool - 10,000 Days (2006-04-28)](http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg "Tool - 10,000 Days (2006-04-28)")
+![Tool - Undertow (1993-04-06)](http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg "Tool - Undertow (1993-04-06)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">Dream Theater - Images and Words (1992-06-30)</li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal, alternative metal" role="button">Tool - Undertow (1993-04-06)</li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">Korn - Korn (1994-10-11)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive rock, metal" role="button">Tool - Ænima (1996-09-17)</li>
-<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock, rock, progressive rock" role="button">A Perfect Circle - Mer De Noms (2000-05-23)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">Opeth - Deliverance (2002-11-04)</li>
+<li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">Tool - Lateralus (2001-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/4862e45e-127d-423a-a4bf-95b79197c84a/10796070605-500.jpg" data-tags="nu metal, alternative metal, metal" role="button">Mudvayne - Lost and Found (2005-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal, alternative metal" role="button">Korn - See You on the Other Side (2005-12-05)</li>
-<li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal, progressive rock" role="button">Tool - 10,000 Days (2006-04-28)</li>
-<li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental, alternative, indie rock, progressive rock" role="button">Circa Survive - On Letting Go (2007-05-29)</li>
+<li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">Opeth - Watershed (2008-05-28)</li>
+<li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">John Frusciante - The Empyrean (2009-01-14)</li>
+<li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">Calvin Harris - Motion (2014-10-31)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,8 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 1968, rock" role="button">
-Traffic - Traffic (1968-10)
+<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
+The Moody Blues - Days of Future Passed (1967-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/67f624cd-5ba1-4e14-90be-ba1bcacb0174/7926741336-500.jpg" data-tags="progressive rock, classic rock, psychedelic rock" role="button">
+The Moody Blues - In Search Of The Lost Chord (1968-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock, jazz fusion, fusion, jazz-rock, 1969" role="button">
 Frank Zappa - Hot Rats (1969-10-15)
@@ -30,29 +33,26 @@ Frank Zappa - Hot Rats (1969-10-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 King Crimson - Lizard (1970-12-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ea4b878-756e-3579-9c91-70623918c04c/9735906881-500.jpg" data-tags="1972, experimental, new age, krautrock, 70s, ambient" role="button">
-Popol Vuh - Hosianna Mantra (1972)
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, experimental" role="button">
+Frank Zappa - Apostrophe (') (1974-04-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-UFO - Phenomenon (1974-05)
+<li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
+Eloy - Ocean (1977)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 1974, canterbury scene" role="button">
-Robert Wyatt - Rock Bottom (1974-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab88edf0-7b79-443e-a5ac-b975d54b7a02/22807867217-500.jpg" data-tags="hard rock" role="button">
-Scorpions - Taken By Force (1977)
-</li>
-<li data-cover="http://coverartarchive.org/release/21d85c68-1f2d-3850-bb76-daae42445ba2/16754309204-500.jpg" data-tags="progressive rock" role="button">
-Rush - Hemispheres (1978-11)
+<li data-cover="http://coverartarchive.org/release/b4f7256c-bab4-4c4e-a536-6bf05af3b24e/3701983982-500.jpg" data-tags="progressive rock" role="button">
+The Alan Parsons Project - I Robot (1977-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/95cdd8d5-1e67-40ec-8775-6cb16e3cf631/986900014-500.jpg" data-tags="progressive rock" role="button">
 Rush - Permanent Waves (1980-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/70996c1f-4713-33ef-9f28-c3ec792d1526/16061268057-500.jpg" data-tags="post-punk, experimental rock" role="button">
-This Heat - Deceit (1981)
+<li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
+The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/9fca90af-8a6d-4177-b748-c0cc7b415686/16598806335-500.jpg" data-tags="80s, 1982, female vocalists" role="button">
-Kate Bush - The Dreaming (1982-09-13)
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+The Alan Parsons Project - Eye In The Sky (1982-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+The Alan Parsons Project - Ammonia Avenue (1984-02-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Rush - Grace Under Pressure (1984-04-12)
@@ -63,23 +63,17 @@ Rush - Power Windows (1985-10-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Rush - Hold Your Fire (1987-09-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e289506-bc59-48d8-8dc2-65575986ad0d/6859716930-500.jpg" data-tags="progressive metal" role="button">
-Queensrÿche - Operation: Mindcrime (1988-05-02)
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, 70s, progressive rock" role="button">
+Supertramp - The Very Best of Supertramp (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
-Rush - Presto (1989-11-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
 Primus - Sailing The Seas Of Cheese (1991-05-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
-Rush - Roll the Bones (1991-09-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/353e496e-e738-3f42-b2a2-c35d01db53f8/9402630851-500.jpg" data-tags="avant-garde, experimental, guitar, instrumental" role="button">
-Buckethead - Bucketheadland (1992)
+<li data-cover="http://coverartarchive.org/release/6be0d2a6-67b2-4b57-b7a0-5d6366a1332d/21377405539-500.jpg" data-tags="rock, classic rock" role="button">
+Genesis - We Can't Dance (1991-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, alternative metal, progressive rock, 1992, rock" role="button">
 Tool - Opiate (1992-03-10)
@@ -87,14 +81,11 @@ Tool - Opiate (1992-03-10)
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Images and Words (1992-06-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
+4 Non Blondes - Bigger, Better, Faster, More! (1992-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Undertow (1993-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/29383a47-4698-4141-80fc-1e1bf94231f2/16542007335-500.jpg" data-tags="progressive rock" role="button">
-Marillion - Brave (1994-02-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, 1994" role="button">
-Tortoise - Tortoise (1994-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6205da21-55a9-457d-aa85-2f1262e25694/8267363147-500.jpg" data-tags="stoner rock" role="button">
 Kyuss - Welcome to Sky Valley (1994-06-27)
@@ -102,62 +93,59 @@ Kyuss - Welcome to Sky Valley (1994-06-27)
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive rock" role="button">
-Ayreon - The Final Experiment (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/3940d3ef-36ee-4485-8b14-70a65f3906b9/26281067448-500.jpg" data-tags="metalcore, hardcore, mathcore" role="button">
-Converge - Petitioning the Empty Sky (1996)
+<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
+Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trance, dream, robert miles, chillout, dance" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental rock, guitar virtuoso" role="button">
-Steve Vai - Fire Garden (1996-09-17)
+<li data-cover="http://coverartarchive.org/release/7eb0aaaa-8c6d-4f00-8093-5a1ce4c2e53c/22731801358-500.jpg" data-tags="classic rock, rock, progressive rock, prog, epic, symphonic rock, atmospheric, art rock, progressive, symphonic prog" role="button">
+Manfred Mann's Earth Band - The Best of Manfred Mann's Earth Band (1996-06-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive rock, metal" role="button">
 Tool - Ænima (1996-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/864fea9e-14c2-4d91-af31-67c2a06d8622/26500496298-500.jpg" data-tags="mathcore, 1997" role="button">
-The Dillinger Escape Plan - The Dillinger Escape Plan (1997)
+<li data-cover="http://coverartarchive.org/release/c3821edb-ec09-443d-907f-0e88bc360f2d/9056068775-500.jpg" data-tags="britpop, progressive" role="button">
+Mansun - Six (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d8ce4ac-92a1-300c-88af-8f214ee2544b/5119636248-500.jpg" data-tags="progressive metal, progressive rock" role="button">
-Ayreon - Into the Electric Castle (1998)
+<li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">
+Refused - The Shape of Punk to Come (1998-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, avant-garde, mike patton" role="button">
+Mr. Bungle - California (1999-07-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, ambient, psychedelic" role="button">
-Porcupine Tree - Metanoia (1998-12)
+<li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
+Opeth - Still Life (1999-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/bfab7e90-c67b-433b-a365-a5c2fe4e31af/9456816625-500.jpg" data-tags="sludge, progressive metal" role="button">
-Isis - The Red Sea (1999-07)
+<li data-cover="https://img.discogs.com/gASmWmXXwLlJtVqyMkyY35nPPnU=/fit-in/457x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891746-1405549089-4313.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
+Mr. Big - Deep Cuts: The Best of the Ballads (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/09c705c0-00bb-47fb-8695-f2b83c0fd919/5282940005-500.jpg" data-tags="progressive metal" role="button">
-Spiral Architect - A Sceptic's Universe (1999-12-19)
+<li data-cover="https://img.discogs.com/E3zacTqfQNSLzHq_ESkjuevv5wc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816626-1244854064.jpeg.jpg" data-tags="sludge, post-metal" role="button">
+Isis - Celestial (2000-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/396efced-a5c5-4438-9dfd-96e1569d6843/1067444640-500.jpg" data-tags="experimental, electronic, trip-hop" role="button">
-Recoil - Liquid (2000-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock, rock, progressive rock" role="button">
-A Perfect Circle - Mer De Noms (2000-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
-Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e12bf981-852e-4df3-a9b8-307f38636f67/1118806197-500.jpg" data-tags="progressive metal" role="button">
-Dream Theater - Six Degrees of Inner Turbulence (2002-01-21)
-</li>
-<li data-cover="https://img.discogs.com/YcLJXGY0aOv7YZPgKWOtcRfIp8w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2445526-1478987766-2016.jpeg.jpg" data-tags="heavy metal" role="button">
-Black Label Society - 1919 Eternal (2002-03-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, math metal" role="button">
-Meshuggah - Nothing (2002-08-06)
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, alternative metal, metal" role="button">
+Mudvayne - L.D. 50 (2000-08-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
-Opeth - Deliverance (2002-11-04)
+Opeth - Blackwater Park (2001-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal, 2002" role="button">
-Mudvayne - The End of All Things to Come (2002-11-12)
+<li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
+Tool - Lateralus (2001-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
+Nicola Conte - Bossa Per Due (2001-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/8898d38e-d822-3649-9af1-0f1858ac3d68/2539178833-500.jpg" data-tags="progressive rock" role="button">
+Anathema - A Fine Day to Exit (2001-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
+Kings of Convenience - Versus (2001-10-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
+Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
@@ -165,44 +153,32 @@ Mew - Frengers (2003-04-07)
 <li data-cover="http://coverartarchive.org/release/85ffc0b7-1878-3ccb-9270-1d2f2d1595b3/24919226700-500.jpg" data-tags="rock, 2003" role="button">
 Jane's Addiction - Strays (2003-07-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="guitar, blues, guitar virtuoso, rock, fusion, allboutguitar" role="button">
-Jeff Beck - Jeff (2003-08-06)
-</li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="https://img.discogs.com/q7d1RA0Ry_qrNotfKnliNqSfzsw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1220643-1608712275-7055.jpeg.jpg" data-tags="progressive rock" role="button">
+Oceansize - Effloresce (2003-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e178e284-cbf6-30b2-8658-cb0111c78229/1118918783-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Train of Thought (2003-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/af8813af-0672-49c3-b18e-b24bd436bb8d/9244754627-500.jpg" data-tags="progressive metal" role="button">
-Evergrey - The Inner Circle (2004-04-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/6643b9b7-ffcd-47a8-be9d-d5c93a4b19d7/16345711720-500.jpg" data-tags="progressive metal" role="button">
 Ayreon - The Human Equation (2004-05-24)
 </li>
-<li data-cover="https://img.discogs.com/z2S_5gHnOplgRW32RtYNqoGmf-g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4188253-1358358245-1790.jpeg.jpg" data-tags="alternative" role="button">
-John Frusciante - The Will to Death (2004-06-22)
+<li data-cover="http://coverartarchive.org/release/8c21f963-8ca1-4d19-aed3-479495617eaa/3331901488-500.jpg" data-tags="post-hardcore" role="button">
+Sparta - Porcelain (2004-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/ec222ff7-7a52-4f24-b36e-336398c492dc/27836405436-500.jpg" data-tags="progressive metal" role="button">
-Fates Warning - FWX (2004-10-18)
+<li data-cover="http://coverartarchive.org/release/887f53f8-4a26-4281-a659-019b07fe829e/3263073661-500.jpg" data-tags="experimental" role="button">
+Ataxia - Automatic Writing (2004-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/87f61dc3-7f56-4db3-aed5-894413507758/3815436898-500.jpg" data-tags="black metal, progressive black metal, progressive metal" role="button">
-Enslaved - Isa (2004-11-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, progressive rock, rock, alternative, a perfect circle" role="button">
-A Perfect Circle - aMOTION (2004-11-15)
+<li data-cover="http://coverartarchive.org/release/a88389fc-df1f-4261-97a4-9f4cd17f6fdf/5620804804-500.jpg" data-tags="progressive rock" role="button">
+Arena - Pepper's Ghost (2005-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/30e40c47-f63f-4210-98ed-1c0a1b69a647/5340666843-500.jpg" data-tags="rock, alternative rock, finnish" role="button">
 Poets of the Fall - Signs of Life (2005-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/290c34b5-f56e-4fa9-8676-04a3e920eda5/15271585695-500.jpg" data-tags="guitar virtuoso, instrumental rock, rock, progressive metal" role="button">
-Steve Vai - Real Illusions: Reflections (2005-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/4862e45e-127d-423a-a4bf-95b79197c84a/10796070605-500.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - Lost and Found (2005-03-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
-Shadow Gallery - Room V (2005-05-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Circus Maximus - The 1st Chapter (2005-06-06)
@@ -210,115 +186,139 @@ Circus Maximus - The 1st Chapter (2005-06-06)
 <li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal, alternative metal" role="button">
 Korn - See You on the Other Side (2005-12-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal, progressive rock" role="button">
-Tool - 10,000 Days (2006-04-28)
+<li data-cover="http://coverartarchive.org/release/6e45a5ef-e2eb-4c4c-9c88-44cca007f224/26591053555-500.jpg" data-tags="indie rock" role="button">
+Anathallo - Floating World (2006-02-25)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/1ccacb7d-082c-4889-bf3e-bc424dfa5c49/26310137897-500.jpg" data-tags="metalcore, progressive metal" role="button">
-The Human Abstract - Nocturne (2006-06-22)
+<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
+Paolo Nutini - These Streets (2006-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d683762-19ec-4f8f-8714-ab3cabe115fe/7006792441-500.jpg" data-tags="progressive metal, sludge metal" role="button">
-Mastodon - Blood Mountain (2006-09-08)
+<li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
+Isis - In the Absence of Truth (2006-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b076a18-4dbc-4276-95df-51e20f278ac3/24431517178-500.jpg" data-tags="progressive metal, metal, experimental" role="button">
-Disillusion - Gloria (2006-10-20)
+<li data-cover="http://coverartarchive.org/release/35fbd275-fdc3-4450-9b34-e05c5d93bef0/7597192789-500.jpg" data-tags="ambient, female vocalists, new age" role="button">
+Lisa Gerrard - The Silver Tree (2006-11-21)
 </li>
-<li data-cover="https://img.discogs.com/m3r8qJcR7FdUcUZSRuLi0N34AJE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6422814-1419703949-2616.jpeg.jpg" data-tags="power metal" role="button">
-Angra - Aurora Consurgens (2006-10-24)
+<li data-cover="http://coverartarchive.org/release/17d31a0a-09c2-47ec-81d6-dd9c7543e388/2140018998-500.jpg" data-tags="indie rock" role="button">
+Say Anything - In Defense of the Genre (2007-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/57df139a-0e66-4810-9180-8e30948e29d5/16094167297-500.jpg" data-tags="progressive metal" role="button">
-Pain of Salvation - Scarsick (2007-01-22)
+<li data-cover="http://coverartarchive.org/release/e6d3c715-5567-3e6e-9fb9-6127cf62e6f6/27559170292-500.jpg" data-tags="experimental" role="button">
+Foxy Shazam - INTRODUCING (2008-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
-Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
+<li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
+Protest the Hero - Fortress (2008-01-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/8dcdef43-6ca6-45b8-90f9-9eefe8e038d0/16157041487-500.jpg" data-tags="post-rock, post-metal, 2007, instrumental" role="button">
-Pelican - City of Echoes (2007-04-27)
+<li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">
+Opeth - Watershed (2008-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental, alternative, indie rock, progressive rock" role="button">
-Circa Survive - On Letting Go (2007-05-29)
+<li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
+Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
-CMX - Talvikuningas (2007-09-05)
+<li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
+DIR EN GREY - Uroboros (2008-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">
-Between the Buried and Me - Colors (2007-09-18)
+<li data-cover="http://coverartarchive.org/release/a94365c2-0440-33f7-8278-bc3bf373243c/15037794641-500.jpg" data-tags="progressive rock" role="button">
+Steven Wilson - Insurgentes (2008-11-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/6b460d2a-ef8e-4874-905c-9f8956f017d1/2751410979-500.jpg" data-tags="progressive metal, technical death metal" role="button">
-Blotted Science - The Machinations Of Dementia (2007-09-18)
+<li data-cover="http://coverartarchive.org/release/df45d0f3-7ce4-4e18-8a59-6d87103829cc/8703023202-500.jpg" data-tags="progressive rock, progressive, post-hardcore" role="button">
+The Fall of Troy - Phantom on the Horizon (2008-11-28)
 </li>
-<li data-cover="https://img.discogs.com/VSc9YpfgLnHOxv7v0k5YDvM-5cg=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8590862-1607430322-6447.jpeg.jpg" data-tags="live, progressive metal, progressive death metal" role="button">
-Opeth - The Roundhouse Tapes (2007-10-29)
+<li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
+John Frusciante - The Empyrean (2009-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b06ee261-544b-49ff-acbb-d357b03523c6/16533782366-500.jpg" data-tags="progressive metal, sludge, 2007" role="button">
-The Ocean - Precambrian (2007-11-02)
+<li data-cover="http://coverartarchive.org/release/db71565d-11ad-3d2b-af48-ebb94f737e2b/7825355353-500.jpg" data-tags="indie rock" role="button">
+...And You Will Know Us by the Trail of Dead - The Century Of Self (2009-02-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/65390f0e-27ba-4cb0-b4e0-51097a73745f/1280756096-500.jpg" data-tags="progressive metal, progressive rock" role="button">
-Ayreon - 01011001 (2008-01-25)
+<li data-cover="http://coverartarchive.org/release/f1cf47b7-42f0-4797-a1bb-1df08faec7b8/28562142167-500.jpg" data-tags="indie" role="button">
+Paper Route - Absence (2009-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - ObZen (2008-02-27)
+<li data-cover="http://coverartarchive.org/release/cac6cd22-58bd-40fe-aaf6-4746bdb9a684/14740011088-500.jpg" data-tags="progressive rock" role="button">
+Karnivool - Sound Awake (2009-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/03090a8d-7c67-3029-a24c-b3e5447d25a6/9693353973-500.jpg" data-tags="progressive metal" role="button">
-Textures - Silhouettes (2008-04-21)
+<li data-cover="http://coverartarchive.org/release/a51d2c1c-358f-4a7f-8787-ad4e9079c3b7/1281683758-500.jpg" data-tags="progressive metal" role="button">
+Dream Theater - Black Clouds & Silver Linings (2009-06-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cdb01abd-8dbe-4efa-b2d3-fc54e4aed7e0/2911510358-500.jpg" data-tags="progressive rock" role="button">
-Demians - Building An Empire (2008-05-16)
+<li data-cover="http://coverartarchive.org/release/bc9236dd-b33e-4bd2-b82b-65d466086967/1024194515-500.jpg" data-tags="progressive rock" role="button">
+The Mars Volta - Octahedron (2009-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/89d8943c-507f-4476-8b61-dbfef0dce878/9150512902-500.jpg" data-tags="progressive metal" role="button">
-Cynic - Traced in Air (2008-10-22)
+<li data-cover="http://coverartarchive.org/release/53bcbfad-cf75-4844-bbc0-6b520a510a0f/2193826633-500.jpg" data-tags="indie, pop, experimental, indie rock, dream pop, progressive, exotica, progressive pop, neo-psychedelia, progressive-pop" role="button">
+Candy Claws - In the Dream of the Sea Life (2009-08-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal, 2009" role="button">
-Mastodon - Crack the Skye (2009-02-23)
+<li data-cover="http://coverartarchive.org/release/1c1be53d-29bd-40d1-a3d7-a87febf43c1c/20890429226-500.jpg" data-tags="progressive rock" role="button">
+Porcupine Tree - The Incident (2009-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/07d83db1-866b-40c0-9ec9-f2b18e43058c/28254616844-500.jpg" data-tags="progressive metal" role="button">
-Animals as Leaders - Animals As Leaders (2009-04-28)
+<li data-cover="http://coverartarchive.org/release/97f6f1d5-1c70-367d-a217-45cab7a31926/15654510735-500.jpg" data-tags="electronic" role="button">
+deadmau5 - For Lack of a Better Name (2009-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/e400988d-0041-4402-9f24-f72e5ab2aeac/1019690090-500.jpg" data-tags="progressive rock, 2009, progressive metal" role="button">
-Riverside - Anno Domini High Definition (2009-06-15)
+<li data-cover="http://coverartarchive.org/release/ff398e09-c0ce-4d06-ac4c-de78096b6551/24625583789-500.jpg" data-tags="progressive rock, post-hardcore, progressive" role="button">
+The Fall of Troy - In the Unlikely Event (2009-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Constellations (2009-07-14)
+<li data-cover="http://coverartarchive.org/release/72a22f5a-7872-4671-a732-db7cc76bb346/4251814788-500.jpg" data-tags="progressive metal" role="button">
+Between the Buried and Me - The Great Misdirect (2009-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/dec9614d-1255-4fae-b2b7-09d6267d6d5d/9561730108-500.jpg" data-tags="progressive metal, 2009, sludge, sludge metal" role="button">
-Baroness - Blue Record (2009-10-13)
+<li data-cover="https://img.discogs.com/ZC5xycarwTNqaLzU01OPjVpwX7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15902545-1599892724-9591.jpeg.jpg" data-tags="electro-techno" role="button">
+Nicolas Jaar - Time for Us EP (2010-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3dae6a2-1304-429e-a996-47c3ad5d0aed/12726092897-500.jpg" data-tags="progressive metal, deathcore, progressive deathcore" role="button">
-The Contortionist - Exoplanet (2010)
+<li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">
+Angels & Airwaves - LOVE (2010-02-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, djent" role="button">
-Periphery - Periphery (2010-04-20)
+<li data-cover="http://coverartarchive.org/release/25520815-b3b0-4629-ab57-6044df49e739/9757577597-500.jpg" data-tags="deathcore" role="button">
+Veil of Maya - [id] (2010-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/c52aecba-56ba-3d75-871b-87d4293b5420/25695966544-500.jpg" data-tags="industrial, 2010, electronic" role="button">
+<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
+Circa Survive - Blue Sky Noise (2010-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/a10f34d5-8afb-460e-b6d5-a442eb7c4a2c/9612740615-500.jpg" data-tags="indie rock" role="button">
+Portugal. The Man - American Ghetto (2010-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e5a3ea8-a96c-449d-b0ee-cc84e2451f9b/888507385-500.jpg" data-tags="alternative rock" role="button">
+Dead Letter Circus - This Is The Warning (2010-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/c52aecba-56ba-3d75-871b-87d4293b5420/25695966544-500.jpg" data-tags="industrial" role="button">
 How to Destroy Angels - How to Destroy Angels (2010-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, djent, math metal" role="button">
-TesseracT - One (2011-03-21)
+<li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
+Black Mountain - Wilderness Heart (2010-09-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, progressive death metal, 2011" role="button">
-Obscura - Omnivium (2011-03-23)
+<li data-cover="http://coverartarchive.org/release/17f23c51-feb7-4e84-b77e-00599724e0b5/15620501484-500.jpg" data-tags="indie, ambient, experimental, progressive rock, progressive, post-hardcore, albums that i might like to buy, progressive indie, progressive emopop" role="button">
+Tides of Man - Dreamhouse (2010-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/25d38669-25ce-4f15-84ee-2cdb3228e366/17547954563-500.jpg" data-tags="deathcore" role="button">
-All Shall Perish - This Is Where It Ends (2011-07-26)
+<li data-cover="https://img.discogs.com/_w_QBKjYNjvi9zCZ7SUls_sbEsE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2920198-1307356470.jpeg.jpg" data-tags="electronic, electro, progressive, synthpop" role="button">
+Goose - Synrise (2011-03-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, 2011" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Dream Theater - A Dramatic Turn of Events (2011-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/65bc450d-2304-47d9-b114-e84b8bc56811/3331814020-500.jpg" data-tags="post-metal, post-rock, 2011" role="button">
-Russian Circles - Empros (2011-10-25)
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Opeth - Heritage (2011-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/947d89bc-ab96-4a5a-9099-15a64f3071b5/3282688281-500.jpg" data-tags="metalcore, progressive metalcore, djent" role="button">
-Northlane - Discoveries (2011-11-11)
+<li data-cover="http://coverartarchive.org/release/f35fafbd-e4c4-4c87-ba54-ebc9b84c46f0/4801207996-500.jpg" data-tags="jazz" role="button">
+BADBADNOTGOOD - BBNG (2011-09-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012, progressive rock" role="button">
-The Mars Volta - Noctourniquet (2012-03-26)
+<li data-cover="http://coverartarchive.org/release/9219e5ac-f44e-4c62-bfe5-ac281e3eca5e/6456871239-500.jpg" data-tags="progressive metal" role="button">
+Animals as Leaders - Weightless (2011-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5d9b41a-1744-4be1-8996-3d1f16618a85/8418983308-500.jpg" data-tags="progressive deathcore, djent" role="button">
-Born of Osiris - Tomorrow We Die Alive (2013-08-20)
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Coheed and Cambria - The Afterman: Ascension (2012-10-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Dream Theater - Dream Theater (2013-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/9cb4a5bb-bc24-4b4d-b1f5-e5a07397d980/8395692349-500.jpg" data-tags="progressive rock" role="button">
+Opeth - Pale Communion (2014-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
+deadmau5 - while(1<2) (2014-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/dac46d09-412c-4e23-a3a6-9348ec554d7e/8779262560-500.jpg" data-tags="techno, icelandic" role="button">
+Kiasmos - Kiasmos (2014-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
+Calvin Harris - Motion (2014-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b86c0c7-e339-4634-b7b3-de1924eb7a4f/15837120602-500.jpg" data-tags="progressive rock, ambient" role="button">
+Pink Floyd - The Endless River (2014-11-07)
 </li>
 </ol>

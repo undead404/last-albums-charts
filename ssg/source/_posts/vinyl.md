@@ -1,19 +1,19 @@
 ---
-date: 2021-04-03T09:12:53.479Z
-title: vinyl
+date: 2021-04-03T18:00:01.657Z
+title: "vinyl: 100 albums you must listen to before you die"
 ---
-![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
+![The War on Drugs - Lost in the Dream (2014-03-18)](http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg "The War on Drugs - Lost in the Dream (2014-03-18)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
-<li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, 2005, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2007" role="button">Panda Bear - Person Pitch (2007-03-20)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, garage, vinyl" role="button">Ty Segall - Melted (2010-05-25)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2010" role="button">Deerhunter - Halcyon Digest (2010-09-22)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, dubstep, vinyl, bass music, covers and same song titles" role="button">James Blake - Limit to Your Love (2010-11)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012, indie pop" role="button">Of Monsters and Men - My Head Is an Animal (2011-09-20)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2013" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
+<li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
+<li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
+<li data-cover="https://img.discogs.com/tUf_katyLSzcD1NIIDFMLYvVYf4=/fit-in/368x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816946-1337370194-6038.jpeg.jpg" data-tags="indie rock, dream pop" role="button">Deerhunter - Halcyon Digest (2010-09-22)</li>
+<li data-cover="https://img.discogs.com/c94UBY8bWIZATrph5bsxzUyIVzA=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566056-1290802606.jpeg.jpg" data-tags="singer-songwriter, dubstep, vinyl, bass music, covers and same song titles" role="button">James Blake - Limit to Your Love (2010-11)</li>
+<li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">Destroyer - Kaputt (2011-01-25)</li>
+<li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">Washed Out - Within and Without (2011-07-06)</li>
+<li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock, vinyl" role="button">The War on Drugs - Lost in the Dream (2014-03-18)</li>
+<li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">alt-J - This Is All Yours (2014-09-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,56 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
-John Coltrane - A Love Supreme (1965-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock, jazz fusion, fusion, jazz-rock, 1969" role="button">
-Frank Zappa - Hot Rats (1969-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
-Miles Davis - Bitches Brew (1970)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
-Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soft rock, alt-country, vinyl, misc, all, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 9876543210, 3 and 5 and 7 and 9" role="button">
-John Denver - John Denver's Greatest Hits (1973)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="1975" role="button">
-Rod Stewart - Atlantic Crossing (1975)
-</li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, vinyl, 00s, laptop, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/9fca90af-8a6d-4177-b748-c0cc7b415686/16598806335-500.jpg" data-tags="80s, 1982, female vocalists" role="button">
-Kate Bush - The Dreaming (1982-09-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, 1987, noise rock, 80s, alternative" role="button">
-Sonic Youth - Sister (1987-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, alternative metal, progressive rock, 1992, rock" role="button">
-Tool - Opiate (1992-03-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Undertow (1993-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
-Drive Like Jehu - Yank Crime (1994-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/6205da21-55a9-457d-aa85-2f1262e25694/8267363147-500.jpg" data-tags="stoner rock" role="button">
-Kyuss - Welcome to Sky Valley (1994-06-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop" role="button">
-Massive Attack - Protection (1994-09-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="1995, singer-songwriter" role="button">
-Elliott Smith - Elliott Smith (1995-07-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk rock, vinyl" role="button">
-Jim Croce - I Got A Name (1995-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, 1996, lo-fi" role="button">
-Neutral Milk Hotel - On Avery Island (1996-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
@@ -81,244 +36,289 @@ Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter, 1997" role="button">
 Elliott Smith - Either/Or (1997-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/6aca9251-e534-3c3c-b146-35996ff4abdd/1224066898-500.jpg" data-tags="indie, indie rock" role="button">
-Modest Mouse - The Fruit That Ate Itself (1997-05-13)
+<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica, vinyl" role="button">
+The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="1998, emo, indiesoc album faves, vinyl, tobuy, awesomeness, midwest emo, own it, indie rock fave, albums i loved, braid awesomeness, derrotas" role="button">
-Braid - Frame and Canvas (1998-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="2000, indie rock" role="button">
-Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
-</li>
-<li data-cover="https://img.discogs.com/8VjHxEiAlwfy3Vtl8bAAejz7-ek=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1602988-1305237391.jpeg.jpg" data-tags="indie, shoegaze, 2003" role="button">
+<li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
 The Radio Dept. - Lesser Matters (2003-02-24)
 </li>
 <li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, 2004, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
-Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, 2005, indie" role="button">
 Animal Collective - Feels (2005-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/207d66ce-3699-30b2-99c0-4fa60daaf01c/11044411925-500.jpg" data-tags="experimental, 2006" role="button">
-Liars - Drum's Not Dead (2006-02-20)
+<li data-cover="http://coverartarchive.org/release/9bce96cc-8d4f-38f3-97d5-decb81ab7119/14968666106-500.jpg" data-tags="indie rock" role="button">
+The National - Boxer (2007-05-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, indie" role="button">
-The Radio Dept. - Pet Grief (2006-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/5297f60a-d4b7-4fab-9135-8807c86f757a/3727301446-500.jpg" data-tags="indie pop, 2006" role="button">
-Camera Obscura - Let's Get Out Of This Country (2006-05-29)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="country" role="button">
-Eric Church - Sinners Like Me (2006-07-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2007" role="button">
-Panda Bear - Person Pitch (2007-03-20)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2007, experimental" role="button">
-Animal Collective - Strawberry Jam (2007-09-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2007, vinyl" role="button">
-The Good Life - Help Wanted Nights (2007-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="2007, indie rock" role="button">
+<li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2007, pop, vinyl, synth-pop" role="button">
+<li data-cover="https://img.discogs.com/6JEnm5-Ck8x_HrCNIyiGuPIZ3aI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1172823-1198149175.jpeg.jpg" data-tags="pop, vinyl, synth-pop" role="button">
 John Maus - Love Is Real (2007-11-19)
 </li>
-<li data-cover="https://img.discogs.com/egtbZv0XrxEYS6SQQ3SEGGb1O_M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1176051-1228717518.jpeg.jpg" data-tags="vinyl" role="button">
-Rivers Cuomo - Alone- The Home Recordings Of Rivers Cuomo (2007-12-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - ObZen (2008-02-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2008" role="button">
+<li data-cover="http://coverartarchive.org/release/b675e1a6-c20a-45f8-bc42-a1eab608e803/15448582867-500.jpg" data-tags="folk, singer-songwriter" role="button">
 The Tallest Man on Earth - Shallow Grave (2008-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="2008" role="button">
+<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
 Fleet Foxes - Sun Giant (2008-03-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2008" role="button">
+<li data-cover="http://coverartarchive.org/release/90efb495-16f8-4b8d-acc0-ee90c5d17784/6204027712-500.jpg" data-tags="alternative" role="button">
+Panic! at the Disco - Pretty. Odd. (2008-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/2838cd2c-6f07-4633-b0c3-2e724beda5c6/3290332237-500.jpg" data-tags="vinyl, beggars banquet" role="button">
 The National - The Virginia EP (2008-05-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
-Blind Pilot - 3 Rounds and a Sound (2008-07-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2008" role="button">
+<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, vinyl, gigantic music" role="button">
 The Walkmen - You & Me (2008-07-29)
 </li>
-<li data-cover="https://img.discogs.com/AFJkwcCZu8DHAUnIBkTGxLMXokw=/fit-in/450x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1589430-1230579067.jpeg.jpg" data-tags="2008, alternative, indie rock" role="button">
-Ra Ra Riot - The Rhumb Line (2008-08-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2008" role="button">
+<li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">
 Deerhunter - Microcastle (2008-10-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2010, 2011, vinyl, my private work station, infinite best recordings, chillshoe and wavegaze, za darmo" role="button">
+<li data-cover="http://coverartarchive.org/release/a1469df3-d405-4708-86f4-c7007748ee06/28561482210-500.jpg" data-tags="vinyl, my private work station, infinite best recordings, chillshoe and wavegaze, za darmo" role="button">
 Twin Sister - Vampires with Dreaming Kids (2008-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3fd2cf8-068a-4990-ab98-20bf30a3ef6d/23270034564-500.jpg" data-tags="2009, indie, british, indie rock" role="button">
-The Joy Formidable - A Balloon Called Moaning (2008-12-17)
+<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic pop" role="button">
+Animal Collective - Merriweather Post Pavilion (2009-01-09)
 </li>
-<li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="2009, indie" role="button">
+<li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2009, rock, indie rock, vinyl, checkout, saddle creek records" role="button">
+<li data-cover="https://img.discogs.com/ErJC7bfOKCiSOD9jO4TJ9XSdJvU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3816625-1345554899-9819.jpeg.jpg" data-tags="rock, indie rock, vinyl, checkout, saddle creek records" role="button">
 Cursive - Mama, I'm Swollen (2009-03-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="country" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, haunting" role="button">
+The Antlers - Hospice (2009-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/4eb37ed2-0ada-4f38-926b-b7aee740220d/3743132785-500.jpg" data-tags="country" role="button">
 Eric Church - Carolina (2009-03-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/07d83db1-866b-40c0-9ec9-f2b18e43058c/28254616844-500.jpg" data-tags="progressive metal" role="button">
-Animals as Leaders - Animals As Leaders (2009-04-28)
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, indie pop, indie" role="button">
+Passion Pit - Manners (2009-05-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, great singer, slgdmbestof" role="button">
-Leonard Cohen - Greatest Hits (2009-07-13)
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Grizzly Bear - Veckatimest (2009-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
-Washed Out - Life of Leisure (2009-09-15)
+<li data-cover="http://coverartarchive.org/release/3c9d3437-baca-4b25-bf39-ea906977bb2a/15787070039-500.jpg" data-tags="indie rock, indie" role="button">
+Bombay Bicycle Club - I Had the Blues But I Shook Them Loose (2009-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/ba3a8677-8250-35e8-92e5-b7ef432ea467/4809510144-500.jpg" data-tags="2009, rock, punk, punk rock, pop punk, vinyl, skate punk, old school pop-punk" role="button">
-Teenage Bottlerocket - They Came From the Shadows (2009-09-15)
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Wild Beasts - Two Dancers (2009-08-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2009, indie" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+The xx - xx (2009-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/456df949-af50-4eaa-9249-dcf608fec488/2362768859-500.jpg" data-tags="indie" role="button">
 Girls - Album (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-500.jpg" data-tags="folk" role="button">
 Kings of Convenience - Declaration of Dependence (2009-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/dec9614d-1255-4fae-b2b7-09d6267d6d5d/9561730108-500.jpg" data-tags="progressive metal, 2009, sludge, sludge metal" role="button">
-Baroness - Blue Record (2009-10-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2009" role="button">
+<li data-cover="https://img.discogs.com/j_4O07I17SUQYM7RRn5vXX_eEnI=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970873-1255853655.jpeg.jpg" data-tags="4ad" role="button">
 Atlas Sound - Logos (2009-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, 2009, mathcore, hardcore" role="button">
-Converge - Axe to Fall (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="vinyl" role="button">
+<li data-cover="http://coverartarchive.org/release/b088db4d-6aee-4991-b888-b283b77f7ad0/15835480698-500.jpg" data-tags="indie rock, indie" role="button">
+Real Estate - Real Estate (2009-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/56a68268-dd4a-4d67-98f4-210541532c0a/13493610379-500.jpg" data-tags="vinyl" role="button">
 Real Estate - Reality (2010-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="vinyl, my gang 11" role="button">
-Dom - Sun Bronzed Greek Gods (2010-04-01)
+<li data-cover="http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg" data-tags="dream pop" role="button">
+Beach House - Teen Dream (2010-01-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2010" role="button">
+<li data-cover="https://img.discogs.com/P-zIsmK3NxlhlJG5Jz6o2lKvRxk=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2408524-1282398265.jpeg.jpg" data-tags="post-rock, 4ad" role="button">
+Efterklang - Magic Chairs (2010-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, garage, vinyl" role="button">
+<li data-cover="http://coverartarchive.org/release/a0ae9288-8038-3ed8-bfa8-5ea39ef7ecc8/4174517606-500.jpg" data-tags="indie rock" role="button">
+Foals - Total Life Forever (2010-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
+Tame Impala - Innerspeaker (2010-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg" data-tags="indie rock, surf rock" role="button">
+Beach Fossils - Beach Fossils (2010-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage, vinyl" role="button">
 Ty Segall - Melted (2010-05-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="downtempo, dubstep, vinyl, r&s, pitchfork: best new music" role="button">
+<li data-cover="https://img.discogs.com/919YIsbdDronYcWg-QlgI_A0hcA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2321464-1285252909.jpeg.jpg" data-tags="downtempo, dubstep, vinyl, r&s, pitchfork: best new music" role="button">
 James Blake - CMYK EP (2010-05-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2010" role="button">
+<li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
+Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
+</li>
+<li data-cover="https://img.discogs.com/9xjOUgnP8Bz4NDWDmotxkZ-MBk0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2629696-1301011049.jpeg.jpg" data-tags="vinyl, progressive folk, chamber folk" role="button">
 Sufjan Stevens - All Delighted People EP (2010-08-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
 The Pretty Reckless - Light Me Up (2010-08-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2010" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
+The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8f73bc2-4aa8-4465-8fb1-1fdc2173f072/2098679790-500.jpg" data-tags="folk, under the radar best of 2010" role="button">
+Sharon Van Etten - Epic (2010-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/77dfed1b-932e-4949-8ed0-9a7df0b8996a/12267119026-500.jpg" data-tags="vinyl, rivers all time favorite albums, my private work station, chillshoe and wavegaze" role="button">
+Twin Sister - Color Your Life (2010-09-10)
+</li>
+<li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">
+The Walkmen - Lisbon (2010-09-14)
+</li>
+<li data-cover="https://img.discogs.com/tUf_katyLSzcD1NIIDFMLYvVYf4=/fit-in/368x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816946-1337370194-6038.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="r&s" role="button">
-James Blake - Klavierwerke EP (2010-09-27)
+<li data-cover="http://coverartarchive.org/release/cb993d0e-2746-3983-8f7a-b2d1b270f4a2/27493644550-500.jpg" data-tags="electronic, indie" role="button">
+Twin Shadow - Forget (2010-09-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, dubstep, vinyl, bass music, covers and same song titles" role="button">
+<li data-cover="http://coverartarchive.org/release/ee142db3-6834-428f-8b89-16f665138b01/6801358842-500.jpg" data-tags="vinyl" role="button">
+Wild Nothing - Golden Haze (2010-10)
+</li>
+<li data-cover="https://img.discogs.com/c94UBY8bWIZATrph5bsxzUyIVzA=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566056-1290802606.jpeg.jpg" data-tags="singer-songwriter, dubstep, vinyl, bass music, covers and same song titles" role="button">
 James Blake - Limit to Your Love (2010-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, singer-songwriter, indie folk" role="button">
-The Civil Wars - Barton Hollow (2011-01-10)
+<li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
+Destroyer - Kaputt (2011-01-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011" role="button">
+<li data-cover="https://img.discogs.com/VE9CKGGUhU21t3LZuEmRzRMuaq0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697610-1297008713.jpeg.jpg" data-tags="rock, indie rock" role="button">
+Cold War Kids - Mine Is Yours (2011-01-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ba18379-ce3f-4e9d-b8cc-b081959ee44c/3858543129-500.jpg" data-tags="indie, 10s, captured tracks" role="button">
 Beach Fossils - What a Pleasure (2011-03-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011, vinyl, domino" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+The Strokes - Angles (2011-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi, vinyl" role="button">
+Dirty Beaches - Badlands (2011-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
+The Kills - Blood Pressures (2011-04-04)
+</li>
+<li data-cover="https://img.discogs.com/3p-bTfsJ8t-CEvSGyipk38-lJ3w=/fit-in/328x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3115746-1316515143.jpeg.jpg" data-tags="vinyl, domino" role="button">
 Cass McCombs - Wit's End (2011-04-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011" role="button">
+<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
+Panda Bear - Tomboy (2011-04-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, freak folk, 4ad" role="button">
+tUnE-yArDs - w h o k i l l (2011-04-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
+Fleet Foxes - Helplessness Blues (2011-04-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/b214b20c-86de-4fc6-ab51-3dce1554222f/3179752123-500.jpg" data-tags="dream pop, electronica, indie rock" role="button">
 Wild Beasts - Smother (2011-05-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011, garage rock" role="button">
-Black Lips - Arabia Mountain (2011-06-06)
+<li data-cover="http://coverartarchive.org/release/b026de9b-1d6a-492f-afa8-5a77e0db02b5/12248943745-500.jpg" data-tags="indie rock, indie" role="button">
+The Antlers - Burst Apart (2011-05-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011" role="button">
+<li data-cover="https://img.discogs.com/AETYHDDKdxXSjpjZa_790RqCcTE=/fit-in/539x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2925697-1310290516.jpeg.jpg" data-tags="vinyl, to check out later" role="button">
+White Denim - D (2011-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/cf68e696-91f1-4c7e-828e-349a918261d0/6610304430-500.jpg" data-tags="indie" role="button">
 Givers - In Light (2011-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="vinyl, listen to this, to check out later" role="button">
+<li data-cover="https://img.discogs.com/YA5O9bfYwUKr7koL_hrvz_RkeNA=/fit-in/520x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2936740-1308119587.jpeg.jpg" data-tags="vinyl, listen to this, to check out later" role="button">
 Dale Earnhardt Jr. Jr. - It's A Corporate World (2011-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="garage rock, vinyl, drag city, love the cd cover, pitchfork top 50 albums of 2011" role="button">
-Ty Segall - Goodbye Bread (2011-06-21)
+<li data-cover="http://coverartarchive.org/release/80d950a5-6b91-41f5-94f6-beb7eaa890ed/26218970688-500.jpg" data-tags="indie folk, folk" role="button">
+Bon Iver - Bon Iver, Bon Iver (2011-06-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011" role="button">
+<li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="country, 2011" role="button">
-Eric Church - Chief (2011-07-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="vinyl" role="button">
+<li data-cover="https://img.discogs.com/68Fm1wroQaruGhdx1E9542JX4iQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3125565-1600634550-6566.jpeg.jpg" data-tags="vinyl" role="button">
 Jonathan Wilson - Gentle Spirit (2011-08-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011" role="button">
+<li data-cover="http://coverartarchive.org/release/1bcfd709-92ec-4301-9fde-80400fb4ce96/26394081834-500.jpg" data-tags="vinyl, lp, essential albums, 2011 releases, fable, loved albums, 1st press, under the radar best of 2011, not youth lagoon" role="button">
+I Break Horses - Hearts (2011-08-22)
+</li>
+<li data-cover="https://img.discogs.com/xS_1Wc5NHgHgcct24F39nLQones=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5952254-1407225003-2204.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - Strange Mercy (2011-09-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012, indie pop" role="button">
+<li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011" role="button">
+<li data-cover="http://coverartarchive.org/release/cdd5d8c4-21c4-40cc-9dee-a32b96ccd672/27110182808-500.jpg" data-tags="new wave" role="button">
+Future Islands - On the Water (2011-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/68a6f03a-20ec-4bee-84a6-926f3a234e1f/15821020755-500.jpg" data-tags="indie rock, indie pop" role="button">
 Real Estate - Days (2011-10-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2011, dead oceans, vinyl" role="button">
-Gauntlet Hair - Gauntlet Hair (2011-10-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012" role="button">
-The Tallest Man on Earth - There's No Leaving Now (2012-06-11)
+<li data-cover="https://img.discogs.com/eter45RaHRFBjyMlpg69E_trNUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3506681-1336245635.jpeg.jpg" data-tags="shoegaze, dream pop, vinyl" role="button">
+Lotus Plaza - Spooky Action at a Distance (2012-04-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012, dream pop" role="button">
-Wild Nothing - Nocturne (2012-08-27)
+<li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">
+Japandroids - Celebration Rock (2012-06-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012" role="button">
-Grizzly Bear - Shields (2012-09-17)
+<li data-cover="http://coverartarchive.org/release/bd33b592-9208-49e5-b0dc-fec799689a5c/3325563092-500.jpg" data-tags="indie, electronic" role="button">
+The xx - Coexist (2012-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/70cbd2a6-3f4b-422e-aec8-8fb08adb2ede/28097015893-500.jpg" data-tags="2013" role="button">
-Fidlar - FIDLAR (2012-10)
+<li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
+Mumford & Sons - Babel (2012-09-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012, indie pop, jangle pop" role="button">
+<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
 Mac DeMarco - 2 (2012-10-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2012, hip hop" role="button">
+<li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="2012, hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2013" role="button">
+<li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2013, bass, vinyl" role="button">
-Bass Drum of Death - Bass Drum of Death (2013-06-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2013, indie, indie folk" role="button">
+<li data-cover="http://coverartarchive.org/release/bc10240b-ebb3-4174-a082-dedcc365d45d/6905764502-500.jpg" data-tags="2013, indie, indie folk" role="button">
 Courtney Barnett - The Double EP: A Sea of Split Peas (2013-10-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2013" role="button">
+<li data-cover="http://coverartarchive.org/release/dc513877-c9ca-4a9b-9d51-39727d8c2575/5431659408-500.jpg" data-tags="electronic, pop, experimental, indie electronic, trip hop, vinyl, neo-psychedelia, art pop, viking, vikings, my deepest desires, psychic album covers, alternative-indie rock" role="button">
 Son Lux - Lanterns (2013-10-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2014" role="button">
+<li data-cover="http://coverartarchive.org/release/4d4241d2-cd7e-46b2-a26e-e401cf0b9f61/17602906872-500.jpg" data-tags="vinyl" role="button">
+Timber Timbre - Hot Dreams (2014)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
+Warpaint - Warpaint (2014-01-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock, vinyl" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, 2014" role="button">
+<li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
+Mac DeMarco - Salad Days (2014-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
+Sharon Van Etten - Are We There (2014-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/36b69931-add2-4409-8d7a-939f277223f2/7183720847-500.jpg" data-tags="folk" role="button">
+First Aid Kit - Stay Gold (2014-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/4505fda5-80a6-4e0d-b0ac-129c11b4ba2f/7931527979-500.jpg" data-tags="indie rock, 10s, 2014: albums" role="button">
+Spoon - They Want My Soul (2014-08-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
+alt-J - This Is All Yours (2014-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/b15d9a20-5fe8-4b35-ad58-bf686787d950/11412700531-500.jpg" data-tags="pop" role="button">
 Taylor Swift - 1989 (2014-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
+Damien Rice - My Favourite Faded Fantasy (2014-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/08b57c0b-8558-4253-98e4-8728adc26e1d/8666562689-500.jpg" data-tags="hypnagogic pop, experimental, psychedelic" role="button">
+Ariel Pink - pom pom (2014-11-17)
 </li>
 </ol>

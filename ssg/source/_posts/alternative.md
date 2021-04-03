@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:38:01.291Z
+date: 2021-04-03T18:08:01.443Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -87,9 +87,6 @@ Fiona Apple - Tidal (1996-07-23)
 <li data-cover="http://coverartarchive.org/release/fcdfaf16-ca69-37f8-9616-9f0c5dc2c903/1154789943-500.jpg" data-tags="rock, alternative, 90s" role="button">
 Cake - Fashion Nugget (1996-09-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive rock, metal" role="button">
-Tool - Ænima (1996-09-17)
-</li>
 <li data-cover="https://img.discogs.com/p4bN5vILQQzPkNFm1T3VpOsNT3E=/fit-in/308x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-495627-1403563640-8619.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
 Third Eye Blind - Third Eye Blind (1997-04-08)
 </li>
@@ -126,6 +123,9 @@ Jimmy Eat World - Bleed American (2001-07-18)
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Sleeping with Ghosts (2003-01-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
+Evanescence - Fallen (2003-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/bb29bd28-71e7-32d3-ab5f-c2d33b25434a/4817242679-500.jpg" data-tags="rock" role="button">
 The White Stripes - Elephant (2003-03-19)
 </li>
@@ -158,9 +158,6 @@ Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae7e41d6-ea04-455b-9107-80a94a24443c/12241028609-500.jpg" data-tags="indie rock, indie" role="button">
 Modest Mouse - Good News For People Who Love Bad News (2004-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/6206d126-6938-3efd-b0a0-63877cd0a237/25696770339-500.jpg" data-tags="alternative, morrissey" role="button">
-Morrissey - You Are The Quarry (2004-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b3a7d38-3a84-368a-8609-e7486f203182/16097162874-500.jpg" data-tags="keane, britpop" role="button">
 Keane - Hopes and Fears (2004-05-10)
@@ -213,6 +210,9 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
+Regina Spektor - Begin to Hope (2006-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic" role="button">
 Thom Yorke - The Eraser (2006-07-05)
 </li>
@@ -230,6 +230,9 @@ Arcade Fire - Neon Bible (2007-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
+Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
@@ -258,9 +261,6 @@ Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
@@ -285,16 +285,16 @@ PJ Harvey - Let England Shake (2011-02-14)
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
 Foster the People - Torches (2011-05-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop" role="button">
+<li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, female vocalists" role="button">
+<li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="2012" role="button">
