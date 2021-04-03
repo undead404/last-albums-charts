@@ -1,6 +1,6 @@
 ---
 date: 2021-04-03T13:31:01.299Z
-title: alternative&#58; 100 albums you must listen to before you die
+title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Muse - Absolution (2003-09-08)](https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg "Muse - Absolution (2003-09-08)")
 <ol class="albums">
