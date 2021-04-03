@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:34:01.322Z
+date: 2021-04-03T19:25:01.289Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -87,9 +87,6 @@ Razorlight - Up All Night (2004-06-28)
 <li data-cover="http://coverartarchive.org/release/cf92d8e3-eaf4-4e10-b77a-81064a810cb0/8129222906-500.jpg" data-tags="indie rock" role="button">
 Kasabian - Kasabian (2004-08-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2004, indie rock, dance punk, rock" role="button">
-Death from Above 1979 - You're A Woman, I'm A Machine (2004-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
@@ -101,6 +98,9 @@ Jimmy Eat World - Futures (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Editors - The Back Room (2005-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Bloc Party - Silent Alarm (2005-02-02)
@@ -132,17 +132,11 @@ Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (2005-10-11)
 <li data-cover="https://img.discogs.com/GZj09Ik8oBlnkfsciUXe30xwx44=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600813-1137121798.jpeg.jpg" data-tags="indie rock" role="button">
 We Are Scientists - With Love And Squalor (2005-10-17)
 </li>
-<li data-cover="https://img.discogs.com/Y50-fvFuI1kOVdSPgY3Fs5Wp4rM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631942-1301164953.jpeg.jpg" data-tags="indie, indie rock" role="button">
-Arctic Monkeys - When the Sun Goes Down (2005-12-09)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Everything All the Time (2006-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e81cca2-fb08-4155-9bac-9d998b2ac952/27084035714-500.jpg" data-tags="indie rock, rock, british, indie" role="button">
-Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
@@ -168,6 +162,9 @@ The Decemberists - The Crane Wife (2006-10-03)
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
+Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
 </li>
@@ -185,6 +182,9 @@ The National - Boxer (2007-05-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Spoon - Ga Ga Ga Ga Ga (2007-07-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie, post-punk" role="button">
+Interpol - Our Love to Admire (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
@@ -231,7 +231,7 @@ Grizzly Bear - Veckatimest (2009-05-22)
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
 Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, alternative rock, indie rock, british" role="button">
+<li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c9d3437-baca-4b25-bf39-ea906977bb2a/15787070039-500.jpg" data-tags="indie rock, indie" role="button">

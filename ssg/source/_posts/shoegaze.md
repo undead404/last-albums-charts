@@ -1,18 +1,18 @@
 ---
-date: 2021-04-03T18:11:01.191Z
+date: 2021-04-03T19:12:01.192Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![M83 - Saturdays &#x3D; Youth (2008-04-14)](http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg "M83 - Saturdays = Youth (2008-04-14)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/915cb221-2355-4e0d-aaa9-27796abceb10/16412549193-500.jpg" data-tags="shoegaze" role="button">Slowdive - Slowdive (1990-11-05)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">My Bloody Valentine - Loveless (1991-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">M83 - Before the Dawn Heals Us (2005-01-24)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, shoegaze" role="button">Silversun Pickups - Carnavas (2006-07-25)</li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">Have a Nice Life - Deathconsciousness (2008-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">M83 - Saturdays = Youth (2008-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">Deerhunter - Microcastle (2008-10-27)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)</li>
+<li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)</li>
 <li data-cover="http://coverartarchive.org/release/4eebfd89-df96-4017-b70f-795a0702d2c5/8690836098-500.jpg" data-tags="indie rock, shoegaze, alternative" role="button">Silversun Pickups - Swoon (2009-04-14)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, post-punk" role="button">The Horrors - Primary Colours (2009-05-04)</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">M83 - Hurry Up, We're Dreaming (2011-10-14)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,8 +21,23 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="dream pop, shoegaze" role="button">
+Cocteau Twins - Head Over Heels (1983-10-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
+Cocteau Twins - Treasure (1984-10-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, shoegaze, noise pop" role="button">
+The Jesus and Mary Chain - Psychocandy (1985-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+My Bloody Valentine - You Made Me Realise (1987-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="slowcore, shoegaze" role="button">
 Galaxie 500 - Today (1988-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+My Bloody Valentine - Isn't Anything (1988-11-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="slowcore, dream pop, shoegaze" role="button">
 Galaxie 500 - On Fire (1989)
@@ -36,14 +51,14 @@ My Bloody Valentine - Glider (1990-04)
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
-<li data-cover="https://img.discogs.com/aq4Rfrfz_zUM-Uo_td2MhTq3Nls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10439756-1497467313-2269.jpeg.jpg" data-tags="shoegaze" role="button">
-Ride - Smile (1990-10-05)
+<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
+Cocteau Twins - Heaven or Las Vegas (1990-08-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+Ride - Nowhere (1990-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/915cb221-2355-4e0d-aaa9-27796abceb10/16412549193-500.jpg" data-tags="shoegaze" role="button">
 Slowdive - Slowdive (1990-11-05)
-</li>
-<li data-cover="https://img.discogs.com/g5Gmu9K8cvO4KwFzFj2LsbIjXU0=/fit-in/404x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7057517-1432709876-3632.jpeg.jpg" data-tags="shoegaze" role="button">
-Lush - Gala (1990-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/786ce79d-2423-3e62-acf2-a3bf6122f7a6/3031055925-500.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - Tremolo (1991-02-04)
@@ -51,11 +66,14 @@ My Bloody Valentine - Tremolo (1991-02-04)
 <li data-cover="http://coverartarchive.org/release/5834ce7b-007f-4e47-84bb-b4b66a6bdabf/4454840771-500.jpg" data-tags="britpop, alternative rock, 90s" role="button">
 Blur - Leisure (1991-08-26)
 </li>
-<li data-cover="https://img.discogs.com/UMBJGIOlHKIlyuDcv3xQGsGIxKA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15177157-1587702788-9526.jpeg.jpg" data-tags="shoegaze, alternative rock" role="button">
-The Jesus and Mary Chain - Honey's Dead (1992)
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+Slowdive - Just for a Day (1991-09-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
-Spiritualized - Lazer Guided Melodies (1992-04)
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+My Bloody Valentine - Loveless (1991-11-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+Ride - Going Blank Again (1992-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f87724c-5bb7-4f87-bd67-aa760960689c/5813395545-500.jpg" data-tags="shoegaze" role="button">
 The Verve - A Storm In Heaven (1993-06-15)
@@ -72,8 +90,8 @@ Yo La Tengo - Painful (1993-10-05)
 <li data-cover="http://coverartarchive.org/release/0021f266-489a-33a8-b91f-506e37b6385d/15755743126-500.jpg" data-tags="shoegaze" role="button">
 Lush - Split (1994-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/71e9d706-2ca4-4dc9-a0f7-bef5b9bf27aa/20863233971-500.jpg" data-tags="female vocalists, dream pop, shoegaze" role="button">
-Cranes - Loved (1994-09)
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, ambient, dream pop" role="button">
+Slowdive - Pygmalion (1995-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d40c2a5-dff3-376e-b255-2d6bc7df6cd2/17549832584-500.jpg" data-tags="alternative" role="button">
 Hum - You'd Prefer an Astronaut (1995-04-11)
@@ -96,12 +114,6 @@ Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 <li data-cover="http://coverartarchive.org/release/95dbc0e7-f869-4f63-be1d-1a40bf5dbd1d/1485603702-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - M83 (2001-04-18)
 </li>
-<li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
-Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad80d6e3-cb05-4447-b38a-0948f05a9c1d/15081445392-500.jpg" data-tags="shoegaze" role="button">
-Asobi Seksu - Asobi Seksu (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
 </li>
@@ -111,20 +123,11 @@ The Radio Dept. - Lesser Matters (2003-02-24)
 <li data-cover="https://img.discogs.com/o9fqJVAiCJtCpRF9G32DpHJ252Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1629918-1233260087.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
 </li>
-<li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
-Mew - Frengers (2003-04-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/4da446f6-d2c4-3c1d-bbd5-2827edd023a2/11858141676-500.jpg" data-tags="electronic, ambient" role="button">
 Ulrich Schnauss - A Strangely Isolated Place (2003-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
-Blonde Redhead - Misery Is a Butterfly (2004-03-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/3376bd98-51de-464c-a801-0bd4dc3d8256/24039927381-500.jpg" data-tags="shoegaze" role="button">
 Autolux - Future Perfect (2004-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/a3aa8a48-7b5b-475c-a713-442ea6c76871/10313121703-500.jpg" data-tags="shoegaze, shoegazer" role="button">
-Slowdive - Catch the Breeze (2004-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b091bcd-f336-3381-a7c3-8783dff901d7/2536665650-500.jpg" data-tags="shoegaze, sludge" role="button">
 Jesu - Jesu (2004-12-08)
@@ -132,20 +135,20 @@ Jesu - Jesu (2004-12-08)
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, shoegaze" role="button">
-Film School - Film School (2006-01-23)
-</li>
-<li data-cover="https://img.discogs.com/RDwiGfU_aS6WKW3gSkwWvAnK-rI=/fit-in/596x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1619218-1368969458-6977.jpeg.jpg" data-tags="shoegaze, indie rock" role="button">
-Toy - Toy (2006-02-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/b17b33e2-e1c4-49c1-85a7-7ea723ce0d3d/25109250377-500.jpg" data-tags="shoegaze, post-rock" role="button">
 Jesu - Silver (2006-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+Asobi Seksu - Citrus (2006-05-30)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, shoegaze" role="button">
 Silversun Pickups - Carnavas (2006-07-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+LSD and the Search for God - LSD and the Search For God (2007-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3aa7af7-abd0-4a63-b6b8-ea0a80355e1a/3472387381-500.jpg" data-tags="psychedelic, indie rock" role="button">
 Deerhunter - Cryptograms (2007-01-29)
@@ -153,19 +156,31 @@ Deerhunter - Cryptograms (2007-01-29)
 <li data-cover="http://coverartarchive.org/release/3a99332d-e326-46d6-acdc-f9935bdb9efb/26240956893-500.jpg" data-tags="post-rock, shoegaze, drone, experimental" role="button">
 Jesu - Conqueror (2007-02-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+A Sunny Day In Glasgow - Scribble Mural Comic Journal (2007-02-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, noise rock, shoegaze, god tier, 2007 fave albums, bobjebus16 owns this, jaarlijstje 2007, worn-out from overplay, no waste album, stand out albums of 2007" role="button">
+The Twilight Sad - Fourteen Autumns & Fifteen Winters (2007-04-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, indie rock, dream pop" role="button">
+Blonde Redhead - 23 (2007-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a8a652e-d32a-400c-ae58-16cdcdc547f1/2239776188-500.jpg" data-tags="shoegaze" role="button">
 Alcest - Souvenirs d'un autre Monde (2007-07-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
 A Place to Bury Strangers - A Place To Bury Strangers (2007-08-13)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, experimental" role="button">
+Caribou - Andorra (2007-08-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/07e26ae8-f0b9-41b1-9904-1221cdaf573d/4816706445-500.jpg" data-tags="shoegaze" role="button">
 The Raveonettes - Lust Lust Lust (2007-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/77a76a41-0893-4107-9085-aa71191f30ef/15479004276-500.jpg" data-tags="shoegaze, electronic" role="button">
-The Depreciation Guild - In Her Gentle Jaws (2007-12-05)
+<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
+Beach House - Devotion (2007-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
@@ -174,13 +189,16 @@ Have a Nice Life - Deathconsciousness (2008-02-21)
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dream pop, shoegaze" role="button">
+School of Seven Bells - Alpinisms (2008-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/c16ba271-f7e8-4a41-ac2c-c74d1dc37c5f/3942366505-500.jpg" data-tags="shoegaze, indie rock" role="button">
 Deerhunter - Microcastle (2008-10-27)
 </li>
-<li data-cover="https://img.discogs.com/LUwBH8Cl3tvVyfjnc4gJVXTy0lc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2804958-1304170588.jpeg.jpg" data-tags="indie rock" role="button">
-Deerhunter - Weird Era Cont. (2008-10-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+<li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">
 The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
 </li>
 <li data-cover="https://img.discogs.com/KNI8SuskkRGwKrtfM_dMQ9OksA4=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689877-1237125003.jpeg.jpg" data-tags="black metal, post-punk" role="button">
@@ -189,19 +207,19 @@ Amesoeurs - Amesoeurs (2009-03-27)
 <li data-cover="http://coverartarchive.org/release/4eebfd89-df96-4017-b70f-795a0702d2c5/8690836098-500.jpg" data-tags="indie rock, shoegaze, alternative" role="button">
 Silversun Pickups - Swoon (2009-04-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, post-punk" role="button">
+<li data-cover="http://coverartarchive.org/release/e5b17ab3-127d-476b-a4be-3d3c9e9d9e9a/24309818135-500.jpg" data-tags="shoegaze, post-punk" role="button">
 The Horrors - Primary Colours (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/01bd9e78-c8c8-4f06-a667-64d04bcf3267/16796743992-500.jpg" data-tags="dream pop, indie pop" role="button">
 Sweet Trip - You Will Never Know Why (2009-06-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/70a9ffba-a48f-3255-9b27-4c55f98e2f80/25306984045-500.jpg" data-tags="shoegaze, folk, drone" role="button">
-Mount Eerie - Wind's Poem (2009-07-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, 4ad" role="button">
+<li data-cover="https://img.discogs.com/UcT5cyCnvOuPGEKTcC8E2i6AMdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1922825-1256542182.jpeg.jpg" data-tags="shoegaze, 4ad" role="button">
 The Big Pink - A Brief History of Love (2009-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze, dream pop" role="button">
+A Sunny Day In Glasgow - Ashes Grammar (2009-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/23a44f09-a57b-433c-8cda-489939232238/2633863660-500.jpg" data-tags="shoegaze" role="button">
 A Place to Bury Strangers - Exploding Head (2009-10-05)
 </li>
 <li data-cover="https://img.discogs.com/j_4O07I17SUQYM7RRn5vXX_eEnI=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970873-1255853655.jpeg.jpg" data-tags="4ad" role="button">
@@ -237,26 +255,14 @@ Warpaint - The Fool (2010-10-25)
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/5034b14d-f27c-4773-bdbc-1e3ea0199287/4514257778-500.jpg" data-tags="shoegaze" role="button">
-Ringo Deathstarr - Colour Trip (2011-02-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
-Yuck - Yuck (2011-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/d29c2481-a2bb-4c85-883f-85fb54659ba3/10425432633-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Pains of Being Pure at Heart - Belong (2011-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/05bbf29b-b71a-4e55-a2d2-1eb01f7d1339/9390366569-500.jpg" data-tags="electronic, indie, indie rock, shoegaze, noise pop" role="button">
-The Raveonettes - Raven in the Grave (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcb2858e-81e4-456f-a59e-d0d2e1b9919e/7135784939-500.jpg" data-tags="shoegaze, new wave" role="button">
 The Horrors - Skying (2011-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/70b06391-f594-447e-925d-e6a75f822dd8/14981341481-500.jpg" data-tags="shoegaze, dream pop" role="button">
 Widowspeak - Widowspeak (2011-08-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
-The War on Drugs - Slave Ambient (2011-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
@@ -276,14 +282,8 @@ Phantogram - Nightlife (2011-11-01)
 <li data-cover="http://coverartarchive.org/release/4de22942-1416-409f-a242-47c329288dd5/2239835239-500.jpg" data-tags="shoegaze, post-rock" role="button">
 Alcest - Les voyages de l'Âme (2012-01-06)
 </li>
-<li data-cover="https://img.discogs.com/JVp-Oc4mxABc52Chxth6at_GCg4=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3333259-1326337431.png.jpg" data-tags="electronic, rock, british, indie rock, indietronica, shoegaze, 4ad, electronic rock" role="button">
-The Big Pink - Future This (2012-01-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/8cb682fd-5155-478f-9106-faadcab76731/1316089663-500.jpg" data-tags="shoegaze, dream pop" role="button">
 DIIV - Oshin (2012-01-30)
-</li>
-<li data-cover="https://img.discogs.com/kq317MTd7xcIwp6PXBS6sesrA5A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3934941-1349749081-5812.jpeg.jpg" data-tags="indie, emo, indie rock, shoegaze, xxx" role="button">
-Pity Sex - Dark World (2012-03-20)
 </li>
 <li data-cover="https://img.discogs.com/eter45RaHRFBjyMlpg69E_trNUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3506681-1336245635.jpeg.jpg" data-tags="shoegaze, dream pop, vinyl" role="button">
 Lotus Plaza - Spooky Action at a Distance (2012-04-02)
@@ -291,17 +291,20 @@ Lotus Plaza - Spooky Action at a Distance (2012-04-02)
 <li data-cover="https://img.discogs.com/yLi9D5JoVkZYd4wlNC9zSf98ELg=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3582491-1498500627-7361.jpeg.jpg" data-tags="indie rock" role="button">
 Silversun Pickups - Neck Of The Woods (2012-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/a0c7c9f4-7195-4e67-9128-f83edbd65cf7/3904773359-500.jpg" data-tags="shoegaze, noise rock" role="button">
-A Place to Bury Strangers - Worship (2012-06-11)
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+Black Marble - A Different Arrangement (2012-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
+Deftones - Koi No Yokan (2012-11-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="shoegaze" role="button">
+My Bloody Valentine - m b v (2013-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
 </li>
-<li data-cover="https://img.discogs.com/9LAqQfeQlQIe8lU2gEcKe_oW5oQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5314918-1616614242-1474.jpeg.jpg" data-tags="shoegaze" role="button">
-Alcest - Shelter (2014-01-17)
+<li data-cover="https://via.placeholder.com/450" data-tags="dream pop, shoegaze" role="button">
+Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)
@@ -317,8 +320,5 @@ Tycho - Awake (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock, vinyl" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/a219269b-2b2b-4130-a750-97fae2e7d054/7622781787-500.jpg" data-tags="shoegaze, dream pop" role="button">
-A Sunny Day In Glasgow - Sea When Absent (2014-06-24)
 </li>
 </ol>

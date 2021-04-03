@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:23:01.285Z
+date: 2021-04-03T19:39:01.255Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -39,20 +39,17 @@ Stereolab - Emperor Tomato Ketchup (1996-03-18)
 <li data-cover="http://coverartarchive.org/release/4e3e2b8a-adfb-3690-b0c3-03b78205049d/1958490670-500.jpg" data-tags="post-rock" role="button">
 Swans - Soundtracks For The Blind (1996-10-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">
+Sigur Rós - Von (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c46753ff-d972-4ebb-80f2-1c0074bf4640/21974980835-500.jpg" data-tags="post-rock" role="button">
-The Album Leaf - An Orchestrated Rise to Fall (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">
 American Football - American Football (1999-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/51838493-3a1b-48cf-b7d3-a1dd35aec471/1964934865-500.jpg" data-tags="post-rock, drone" role="button">
 Boris - Flood (2000-12-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b1b7509-7bff-4a95-9ee8-f5e050cf102e/27704658731-500.jpg" data-tags="post-hardcore" role="button">
-Unwound - Leaves Turn Inside You (2001-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/95dbc0e7-f869-4f63-be1d-1a40bf5dbd1d/1485603702-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - M83 (2001-04-18)
@@ -86,9 +83,6 @@ múm - Summer Make Good (2004-02)
 </li>
 <li data-cover="https://img.discogs.com/nKVi_E6KjzWjALypkTLexazuVyk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10521366-1499152013-3611.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
 Broken Social Scene - Bee Hives (2004-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/981ed403-dbf4-4506-bd12-73e6a496ff73/4483500791-500.jpg" data-tags="post-rock" role="button">
-Tortoise - It's All Around You (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ca1b1ba-3ded-3bdf-9b8e-7e07de09ebe0/3361337672-500.jpg" data-tags="post-rock" role="button">
 Mono - Walking Cloud and Deep Red Sky, Flag Fluttered and the Sun Shined (2004-04-14)
@@ -126,11 +120,11 @@ Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="math rock, post-rock, monotreme records" role="button">
 65daysofstatic - Radio Protector (2006-02-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+Gregor Samsa - 55:12 (2006-03-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/b17b33e2-e1c4-49c1-85a7-7ea723ce0d3d/25109250377-500.jpg" data-tags="shoegaze, post-rock" role="button">
 Jesu - Silver (2006-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/1fde8540-59cf-4c8d-8429-eb076d03fb05/21557052063-500.jpg" data-tags="post-metal, sludge" role="button">
-Cult of Luna - Somewhere Along The Highway (2006-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">
 Agalloch - Ashes Against the Grain (2006-08-08)
@@ -153,6 +147,9 @@ Pelican - City of Echoes (2007-04-27)
 <li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
 Liars - Liars (2007-08-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+Immanu El - They'll Come, They Come (2007-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/e532af05-792d-4fb4-88ce-1448a387e58b/19833156488-500.jpg" data-tags="post-rock" role="button">
 Efterklang - Parades (2007-10-15)
 </li>
@@ -162,13 +159,16 @@ Have a Nice Life - Deathconsciousness (2008-02-21)
 <li data-cover="http://coverartarchive.org/release/af17e2e2-6b02-44b8-a848-67c7f66f6803/17517986245-500.jpg" data-tags="drone, instrumental, post-rock" role="button">
 Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, shoegaze" role="button">
+Glowworm - The Coachlight Woods (2008-03-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
 </li>
 <li data-cover="https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg" data-tags="indie, haunting" role="button">
 The Antlers - Hospice (2009-03-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/4e8de062-6ed8-4431-8fd3-25f9eff4b538/5429889739-500.jpg" data-tags="post-rock" role="button">
 And So I Watch You From Afar - And So I Watch You From Afar (2009-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
@@ -183,31 +183,31 @@ Grizzly Bear - Veckatimest (2009-05-22)
 <li data-cover="http://coverartarchive.org/release/e2a8b46a-afac-468a-9006-589c588d09b3/19264487540-500.jpg" data-tags="post-rock" role="button">
 Tides From Nebula - Aura (2009-05-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/162892dc-49d4-4540-80f6-b7127a147ad4/3370180048-500.jpg" data-tags="post-rock" role="button">
 Maybeshewill - Sing the Word Hope in Four-Part Harmony (2009-06-08)
 </li>
 <li data-cover="https://img.discogs.com/JhRuHIeV-Ggedh9wGYoRTiFLSHc=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818454-1517991354-4223.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/cfcef241-4a2c-39d8-95ea-6be87a10f902/3323039609-500.jpg" data-tags="post-rock" role="button">
 Caspian - Tertia (2009-08-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/599a78e5-30ca-4821-a54a-3c1343eff113/18725254022-500.jpg" data-tags="post-rock" role="button">
 Balmorhea - All Is Wild, All Is Silent (2009-08-11)
 </li>
 <li data-cover="https://img.discogs.com/AJR2mCOi8-YyOmaUR6VgzkKqryA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1967297-1431603480-2723.jpeg.jpg" data-tags="noise, electronic, drone" role="button">
 Fuck Buttons - Tarot Sport (2009-10-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Pelican - What We All Come To Need (2009-10-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, post rock" role="button">
+<li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
 toe - For Long Tomorrow (2009-12-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/3ead5b02-bfb8-4a8e-87c5-80b1552eddeb/27862273102-500.jpg" data-tags="post-rock" role="button">
 pg.lost - In Never Out (2009-12-11)
 </li>
 <li data-cover="https://img.discogs.com/QrZz7ljgyLG2m3mMuE-D2Xlk7T0=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11476554-1517014471-7140.jpeg.jpg" data-tags="post-rock" role="button">
@@ -273,14 +273,14 @@ And So I Watch You From Afar - Gangs (2011-04-29)
 <li data-cover="http://coverartarchive.org/release/be65cd51-9d05-339f-8fd2-07c9f174c736/21716514907-500.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - Tunnel Blanket (2011-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/14a57c0d-b063-489b-bd42-8cb2c261c0e8/13555883183-500.jpg" data-tags="progressive metal, post-metal, post-rock" role="button">
-Sólstafir - Svartir Sandar (2011-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/65bc450d-2304-47d9-b114-e84b8bc56811/3331814020-500.jpg" data-tags="post-metal, post-rock" role="button">
 Russian Circles - Empros (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4de22942-1416-409f-a242-47c329288dd5/2239835239-500.jpg" data-tags="shoegaze, post-rock" role="button">
 Alcest - Les voyages de l'Âme (2012-01-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+pg.lost - Key (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:29:06.661Z
+date: 2021-04-03T18:59:01.739Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -26,6 +26,9 @@ Black Sabbath - Black Sabbath (1970-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Paranoid (1970-09-18)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
+Black Sabbath - Master of Reality (1971-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/734f7ad8-4e20-435e-a27b-c3b7e0ff3e35/17989087737-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Sabbath Bloody Sabbath (1973)
@@ -170,9 +173,6 @@ Dream Theater - Images and Words (1992-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a77f8a7-54ab-4568-8003-42240cd29ab0/5571782400-500.jpg" data-tags="thrash metal, heavy metal" role="button">
 Megadeth - Countdown To Extinction (1992-07-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal, alternative metal" role="button">
-Tool - Undertow (1993-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8acd31a2-8ccd-4374-af5d-937c0995868a/23022790916-500.jpg" data-tags="thrash metal, groove metal" role="button">
 Pantera - Far Beyond Driven (1994-03-18)

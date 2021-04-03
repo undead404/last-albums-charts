@@ -1,16 +1,16 @@
 ---
-date: 2021-04-03T18:19:01.260Z
+date: 2021-04-03T19:29:01.221Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Valtari (2012-05-23)](http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg "Sigur Rós - Valtari (2012-05-23)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">Global Communication - 76:14 (1994)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">Boards of Canada - Hi Scores (1996-12-09)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">Sigur Rós - Von (1997)</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
-<li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">Röyksopp - The Understanding (2005-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/3e1423e4-7651-4fc3-a23a-c75ff6dd323e/6273197886-500.jpg" data-tags="electronic" role="button">Fever Ray - Fever Ray (2009-01-12)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, icelandic" role="button">Jónsi & Alex - Riceboy Sleeps (2009-04-06)</li>
+<li data-cover="http://coverartarchive.org/release/06893018-03d4-3c87-9d87-93bb51881dc0/22358531244-500.jpg" data-tags="ambient, icelandic" role="button">Jónsi & Alex - Riceboy Sleeps (2009-04-06)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">Sigur Rós - Valtari (2012-05-23)</li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">Tycho - Awake (2014-03-18)</li>
@@ -60,11 +60,11 @@ Robert Miles - Dreamland (1996-06-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
 Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age, enigma, ambient" role="button">
-Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Boards of Canada - Hi Scores (1996-12-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">
+Sigur Rós - Von (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
@@ -77,6 +77,9 @@ Moby - Play (1999-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
+</li>
+<li data-cover="https://img.discogs.com/zxQp8NHSvepBQGAdk_wijnPegEs=/fit-in/548x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-437496-1349778731-6583.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/95dbc0e7-f869-4f63-be1d-1a40bf5dbd1d/1485603702-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - M83 (2001-04-18)
@@ -156,9 +159,6 @@ Röyksopp - The Understanding (2005-06-22)
 <li data-cover="http://coverartarchive.org/release/be5cc59e-366c-4354-943c-11b8b24c9a31/4847115971-500.jpg" data-tags="experimental, electronic, ambient, 2005, dark ambient, industrial" role="button">
 Coil - The Ape of Naples (2005-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
-Tim Hecker - Harmony In Ultraviolet (2006-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/35fbd275-fdc3-4450-9b34-e05c5d93bef0/7597192789-500.jpg" data-tags="ambient, female vocalists, new age" role="button">
 Lisa Gerrard - The Silver Tree (2006-11-21)
 </li>
@@ -167,6 +167,9 @@ Air - Pocket Symphony (2006-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
 Carbon Based Lifeforms - World of Sleepers (2006-12-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Ulrich Schnauss - Goodbye (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
@@ -180,6 +183,9 @@ Fleet Foxes - Sun Giant (2008-03-09)
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, downtempo, idm" role="button">
 Jon Hopkins - Insides (2008-11-30)
 </li>
@@ -189,13 +195,13 @@ Fever Ray - Fever Ray (2009-01-12)
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, icelandic" role="button">
+<li data-cover="http://coverartarchive.org/release/06893018-03d4-3c87-9d87-93bb51881dc0/22358531244-500.jpg" data-tags="ambient, icelandic" role="button">
 Jónsi & Alex - Riceboy Sleeps (2009-04-06)
 </li>
 <li data-cover="https://img.discogs.com/JhRuHIeV-Ggedh9wGYoRTiFLSHc=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818454-1517991354-4223.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, chillout, electronic" role="button">
+<li data-cover="http://coverartarchive.org/release/8e378c3e-0af4-373f-94fc-84c03e8b4374/7932628388-500.jpg" data-tags="ambient, chillout, electronic" role="button">
 Moby - Wait for Me (2009-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b51eeb1-ae6f-4264-913f-0626b86dca32/9194466428-500.jpg" data-tags="chillout, electronic, ambient, miike snow" role="button">
@@ -207,7 +213,7 @@ The xx - xx (2009-08-14)
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, psychedelic" role="button">
+<li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
 Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/51be8f43-dac9-4450-a588-9b91e6f98ea1/26757154347-500.jpg" data-tags="ambient" role="button">
@@ -261,9 +267,6 @@ Panda Bear - Tomboy (2011-04-12)
 <li data-cover="https://img.discogs.com/ahscDuBPtYtFMcx5aLRHNY-e3Rs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2812981-1401881185-7985.jpeg.jpg" data-tags="downtempo, dubstep" role="button">
 Holy Other - With U (2011-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2feb107-82ac-4bfd-b712-b956c335c978/2605423742-500.jpg" data-tags="ambient" role="button">
-Carbon Based Lifeforms - Twentythree (2011-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/b9e7127a-a18e-4b9e-8e9e-94f22d6d9b70/4524583924-500.jpg" data-tags="ambient, idm, wonky" role="button">
 Shlohmo - Bad Vibes (2011-08-09)
 </li>
@@ -302,9 +305,6 @@ Burial - Truant / Rough Sleeper (2012-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa076b82-9732-4b7f-a404-086fb4177d44/4100519731-500.jpg" data-tags="ambient, experimental, downtempo, drone, synth-pop, leftfield" role="button">
 Chrome Sparks - Sparks EP (2013-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/a721531b-4ca4-43e1-8614-221c70832339/5246915730-500.jpg" data-tags="electronic, ambient, downtempo" role="button">
-Moby - Innocents (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)

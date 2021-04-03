@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:26:01.509Z
+date: 2021-04-03T19:22:01.235Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -33,6 +33,9 @@ Patti Smith - Horses (1975-11)
 <li data-cover="http://coverartarchive.org/release/aab3e6a1-3bf2-4c26-86ab-b496904d0128/9260401939-500.jpg" data-tags="punk, punk rock" role="button">
 Ramones - Ramones (1976-04-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 70s" role="button">
+Television - Marquee Moon (1977-02-08)
+</li>
 <li data-cover="https://img.discogs.com/9G4j9wU_FX-kUyU2ZmNpSJE-kSg=/fit-in/600x768/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-624192-1537987523-4947.jpeg.jpg" data-tags="punk" role="button">
 The Clash - The Clash (1977-04-08)
 </li>
@@ -62,6 +65,9 @@ The Clash - Combat Rock (1982-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="punk rock, hardcore punk, punk" role="button">
 Descendents - Milo Goes to College (1982-11-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, post-punk" role="button">
+Violent Femmes - Violent Femmes (1983-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
@@ -162,9 +168,6 @@ The Used - The Used (2002-06-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="punk, gypsy punk" role="button">
 Gogol Bordello - Multi Kontra Culti vs. Irony (2002-09-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk" role="button">
-Transplants - Transplants (2002-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
 The Ataris - So Long, Astoria (2003-02-03)
 </li>
@@ -207,9 +210,6 @@ The Offspring - Splinter (2003-11-27)
 <li data-cover="http://coverartarchive.org/release/841ec76f-f536-468d-b8ab-069923b4db17/15998647154-500.jpg" data-tags="pop punk, punk rock" role="button">
 New Found Glory - Catalyst (2004-05-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
-Bad Religion - The Empire Strikes First (2004-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
 </li>
@@ -242,9 +242,6 @@ Sum 41 - Chuck (2004-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
 Simple Plan - Still Not Getting Any (2004-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/093e6d8b-bfc0-4ea3-bcd1-9a3f30d5cdc1/3331685844-500.jpg" data-tags="punk" role="button">
-NOFX - The Greatest Songs Ever Written (By Us) (2004-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6bda500-eac7-40c8-ab38-4a88a34da3e0/20975852434-500.jpg" data-tags="punk" role="button">
 Green Day - Holiday (2005-03-14)
@@ -287,6 +284,9 @@ The Clash - The Singles (2006-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1b91579-b873-45d2-a5cc-ac633a946791/4812682225-500.jpg" data-tags="punk" role="button">
 The Gaslight Anthem - Sink or Swim (2007-05-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
+Paramore - RIOT! (2007-06-11)
 </li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)

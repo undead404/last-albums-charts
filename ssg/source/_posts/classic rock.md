@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T17:33:02.081Z
+date: 2021-04-03T19:26:01.198Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![Led Zeppelin - Led Zeppelin IV (1971-11-08)](http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg "Led Zeppelin - Led Zeppelin IV (1971-11-08)")
@@ -71,9 +71,6 @@ The Doors - Waiting for the Sun (1968-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2540ce2-7f94-41c4-98ac-1295a7ef28b4/15832539133-500.jpg" data-tags="classic rock, 60s, psychedelic, rock" role="button">
 Big Brother & The Holding Company - Cheap Thrills (1968-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/653a898a-2988-4ffa-a492-555faed1e9ba/19740437818-500.jpg" data-tags="hard rock, classic rock" role="button">
-Deep Purple - Shades of Deep Purple (1968-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
@@ -216,6 +213,9 @@ AC/DC - Back in Black (1980-07-25)
 <li data-cover="http://coverartarchive.org/release/ab2c84bb-4ee7-4add-8349-f4d7ad243384/4389275722-500.jpg" data-tags="rock, 80s, classic rock" role="button">
 Journey - Escape (1981)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, classic rock, soft rock" role="button">
+Toto - Toto IV (1982-04-08)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock, rock" role="button">
 Survivor - Eye of the Tiger (1982-06)
 </li>
@@ -239,6 +239,9 @@ Bruce Springsteen - Born in the U.S.A. (1984-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, classic rock" role="button">
+Fleetwood Mac - Tango in the Night (1987-04-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
@@ -311,9 +314,6 @@ Led Zeppelin - Led Zeppelin (2003-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dc2f627-b12e-4a0b-9775-f88de9881061/18183886570-500.jpg" data-tags="rock, classic rock" role="button">
 Neil Young - Greatest Hits (2004-11-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/1eccc76d-a24a-3066-ab4f-85e2efffb251/7947210173-500.jpg" data-tags="rock, u2" role="button">
-U2 - How to Dismantle an Atomic Bomb (2004-11-17)
 </li>
 <li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="classic rock" role="button">
 The Beatles - Love (2006-11-17)
