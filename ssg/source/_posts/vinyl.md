@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T23:00:00.976Z
+date: 2021-04-03T09:12:53.479Z
 title: vinyl
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -29,6 +29,9 @@ Frank Zappa - Hot Rats (1969-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
 Miles Davis - Bitches Brew (1970)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
+Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soft rock, alt-country, vinyl, misc, all, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 9876543210, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
@@ -165,7 +168,7 @@ Twin Sister - Vampires with Dreaming Kids (2008-11-01)
 <li data-cover="http://coverartarchive.org/release/c3fd2cf8-068a-4990-ab98-20bf30a3ef6d/23270034564-500.jpg" data-tags="2009, indie, british, indie rock" role="button">
 The Joy Formidable - A Balloon Called Moaning (2008-12-17)
 </li>
-<li data-cover="https://img.discogs.com/1SKTxotmuCJe7Ne_8s4YkuXokrw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14995854-1585259685-1169.jpeg.jpg" data-tags="2009, indie" role="button">
+<li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="2009, indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="2009, rock, indie rock, vinyl, checkout, saddle creek records" role="button">
@@ -212,9 +215,6 @@ Dom - Sun Bronzed Greek Gods (2010-04-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="2010" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2010" role="button">
-Future Islands - In Evening Air (2010-05-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage, vinyl" role="button">
 Ty Segall - Melted (2010-05-25)
