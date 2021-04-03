@@ -1,6 +1,6 @@
 ---
 date: 2021-04-03T13:42:12.143Z
-title: "electronica&amp;#58; 100 albums you must listen to before you die"
+title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
 <ol class="albums">
