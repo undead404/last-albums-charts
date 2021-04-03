@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T09:25:18.500Z
+date: 2021-04-03T10:58:28.868Z
 title: rock
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -90,7 +90,7 @@ The Smashing Pumpkins - Siamese Dream (1993-07-26)
 <li data-cover="https://img.discogs.com/y1de0ztYqMG65fEGTcGt6Tb-SI8=/fit-in/297x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7504640-1442853783-5582.jpeg.jpg" data-tags="rock" role="button">
 Counting Crows - August And Everything After (1993-09-14)
 </li>
-<li data-cover="https://img.discogs.com/N9dISQHEADCeHwaxUkoKdiRUdsk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6266945-1415170040-7462.jpeg.jpg" data-tags="punk rock, punk" role="button">
+<li data-cover="https://img.discogs.com/FQAFxI3rrJZOiQQ1c37mdpHVy_Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8984704-1472761513-5434.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Dookie (1994-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
@@ -104,9 +104,6 @@ Oasis - Definitely Maybe (1994-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
-Bon Jovi - Cross Road (1994-10-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
@@ -149,9 +146,6 @@ The Verve - Urban Hymns (1997-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
 Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
-The Offspring - Americana (1998-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock, rock, progressive rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
@@ -276,7 +270,7 @@ Three Days Grace - One-X (2006-06-13)
 <li data-cover="https://img.discogs.com/h6zZQTHVQ4QUBLe7aacMX-M4tgM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759992-1323225269.jpeg.jpg" data-tags="rock, indie, indie rock, british" role="button">
 Razorlight - Razorlight (2006-07-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock, emo, screamo" role="button">
+<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
@@ -318,7 +312,13 @@ Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="garage rock" role="button">
+The Dead Weather - Sea of Cowards (2010-05-10)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Pretty Reckless - Light Me Up (2010-08-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock" role="button">
+Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
 </ol>
