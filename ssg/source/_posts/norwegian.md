@@ -1,5 +1,5 @@
 ---
-date: 2021-04-02T11:42:05.661Z
+date: 2021-04-03T02:00:00.852Z
 title: norwegian
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -81,9 +81,6 @@ Seigmen - Monument (1999)
 <li data-cover="http://coverartarchive.org/release/c5b9b486-65c7-41d4-82e1-3fe6a8fac5ef/8645595591-500.jpg" data-tags="lene marlin, pop" role="button">
 Lene Marlin - Playing My Game (1999-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/de0e3002-7860-38b5-927d-2f5716b12633/4360850904-500.jpg" data-tags="industrial metal" role="button">
-The Kovenant - Animatronic (1999-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/e1285710-bcd8-47c5-9ce3-d3df1f57a7d1/12016458800-500.jpg" data-tags="2000, pop, m2m" role="button">
 M2M - Shades of Purple (2000-02-03)
 </li>
@@ -93,7 +90,7 @@ a-ha - Minor Earth | Major Sky (2000-07-10)
 <li data-cover="https://img.discogs.com/lsz4cKVgVZ2Y5vbRL35Nv2_vGoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9784862-1526804148-7507.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">
 Kings of Convenience - Quiet Is the New Loud (2001-01-29)
 </li>
-<li data-cover="https://img.discogs.com/HQjOsPe7OsbOydJwKGiiJXBMNGk=/fit-in/417x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4823628-1376641253-9407.jpeg.jpg" data-tags="norwegian" role="button">
+<li data-cover="https://img.discogs.com/N2Po-LWYnpF9HTEgpVStQriE5XM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497938-1235598753.jpeg.jpg" data-tags="norwegian" role="button">
 Madrugada - The Nightly Disease (2001-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/69a8e3b3-eabb-4134-9b14-2ce42a1b6776/13136914759-500.jpg" data-tags="symphonic black metal, black metal" role="button">
@@ -120,7 +117,7 @@ Kings of Convenience - Versus (2001-10-22)
 <li data-cover="https://img.discogs.com/co9KmZHvtj5ElohkcqaLcEo-__s=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3729236-1342022284-7698.jpeg.jpg" data-tags="nu jazz, norwegian, guitar, jazz" role="button">
 Eivind Aarset - Light Extracts (2001-11-06)
 </li>
-<li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/X65HTSq07NzoDMwRGJqsabo4dbE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6647265-1423796817-5285.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Lifelines (2002-04-02)
 </li>
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
@@ -135,7 +132,7 @@ Madrugada - Grit (2003)
 <li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
 Thomas Dybdahl - Stray Dogs (2003)
 </li>
-<li data-cover="https://img.discogs.com/7XhJzXBQp1AorLI02C-p_q-_Ks8=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15752792-1597153491-9740.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
+<li data-cover="https://img.discogs.com/jgWeZQt-aFrwKZOJd6Hwy4n22NU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12669470-1539710071-8433.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
 </li>
 <li data-cover="https://img.discogs.com/aqY095O8l926vpNqzcfMLyvjFaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2021726-1260197579.jpeg.jpg" data-tags="electronic" role="button">
@@ -177,6 +174,9 @@ Kings of Convenience - Riot on an Empty Street (2004-06-21)
 <li data-cover="https://img.discogs.com/R2KPNE8FjVAEmIZcvCosLVuxVXY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7770212-1448411827-8581.jpeg.jpg" data-tags="the national bank" role="button">
 The National Bank - The National Bank (2004-08-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+Annie - Anniemal (2004-09-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 Sirenia - Sirenian Shores (2004-10-11)
 </li>
@@ -186,13 +186,13 @@ Thomas Dybdahl - One Day You'll Dance For Me, New York City (2004-10-18)
 <li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="2005, folk, norwegian" role="button">
 Ane Brun - A Temporary Dive (2005-02-07)
 </li>
-<li data-cover="https://img.discogs.com/ylTtn_j8xeLcU5sUGLCyFH8WkLo=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4262382-1360066605-4992.jpeg.jpg" data-tags="2005, rock, alternative rock, 00s" role="button">
+<li data-cover="https://img.discogs.com/pHUFbZBvlkPBGXTbAOaaxOt9eyU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041657-1517381113-4147.jpeg.jpg" data-tags="2005, rock, alternative rock, 00s" role="button">
 Madrugada - The Deep End (2005-02-28)
 </li>
-<li data-cover="https://img.discogs.com/ogQUwoOas8jPx7n8UFd0C56zMkw=/fit-in/550x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6852765-1428604389-3025.jpeg.jpg" data-tags="jazz, post-rock" role="button">
+<li data-cover="https://img.discogs.com/-YyqUn8QvswZvDVFekN-UgZRsuk=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432799-1533497663-5552.jpeg.jpg" data-tags="jazz, post-rock" role="button">
 Jaga Jazzist - What We Must (2005-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/123c1973-6bcf-4d65-9af9-77f0e16ec532/3357365837-500.jpg" data-tags="2005, rock, punk rock, death punk, punk, hard rock" role="button">
+<li data-cover="http://coverartarchive.org/release/123c1973-6bcf-4d65-9af9-77f0e16ec532/3357365837-500.jpg" data-tags="2005" role="button">
 Turbonegro - Party Animals (2005-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
@@ -219,7 +219,7 @@ Maria Mena - Apparently Unaffected (2005-11-14)
 <li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="downtempo" role="button">
 Röyksopp - Beautiful Day Without You (2006-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/28d51e3f-b12c-4948-b35b-c1f5aae76ed2/25531712079-500.jpg" data-tags="black metal" role="button">
@@ -240,16 +240,16 @@ Dimmu Borgir - In Sorte Diaboli (2007-04-24)
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient, experimental" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
 </li>
-<li data-cover="https://img.discogs.com/xUsBCV3OLHQ5JrytnvKfIrMrktQ=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-883057-1565104787-7464.jpeg.jpg" data-tags="singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/yJojx2GIVhg6pOpvML9CR3svYkU=/fit-in/399x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1294420-1215387260.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Ane Brun - Changing of the Seasons (2008-03-10)
 </li>
-<li data-cover="https://img.discogs.com/1SKTxotmuCJe7Ne_8s4YkuXokrw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14995854-1585259685-1169.jpeg.jpg" data-tags="2009, indie" role="button">
+<li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="2009, indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
 <li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronic, 2009" role="button">
 Röyksopp - Junior (2009-03-18)
 </li>
-<li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/6uphE3rwnbdqKOH_S-t17bV8U00=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1873365-1249299759.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Foot Of The Mountain (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/93010242-f99e-42ac-a632-bb4d8810c10b/2361230029-500.jpg" data-tags="eurovision, pop" role="button">
