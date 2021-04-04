@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:44:01.241Z
+date: 2021-04-04T09:56:25.539Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -60,7 +60,7 @@ Sarah McLachlan - Surfacing (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Homogenic (1997-09-22)
 </li>
-<li data-cover="https://img.discogs.com/GEEoOZtd2541_qWo6f3aULMkR-4=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860384-1193767375.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e242203e-fa5f-401e-ade9-ff12907ccd93/4017146272-500.jpg" data-tags="pop, celine dion" role="button">
@@ -105,13 +105,16 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 <li data-cover="http://coverartarchive.org/release/aec0aab6-e302-449e-8bd4-f1947b15297e/5686176057-500.jpg" data-tags="pop" role="button">
 Jessica Simpson - In This Skin (2003-08-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
+Jem - Finally Woken (2004-03-23)
+</li>
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6a1a1d-613f-43cd-98a4-005f07b6b3bc/23228455307-500.jpg" data-tags="hip-hop" role="button">
 Christina Milian - Dip It Low (2004-05-03)
 </li>
-<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
@@ -276,16 +279,13 @@ Yelle - Safari Disco Club (2011-03-14)
 <li data-cover="http://coverartarchive.org/release/5597fa83-0f6a-4eef-ac83-ee15f6eb9b2e/2524821065-500.jpg" data-tags="female vocalist, soul, r&b, jennifer hudson" role="button">
 Jennifer Hudson - I Remember Me (2011-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, laptop, 10s, swedish poprock" role="button">
+<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, 10s, swedish poprock" role="button">
 Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">
 Russian Red - Fuerteventura (2011-05-10)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/p3MtnxoTX8jrTBMlTjFg8lOa7yg=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3004645-1311324932.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
