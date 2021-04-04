@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:05:01.283Z
+date: 2021-04-04T02:37:01.259Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -59,9 +59,6 @@ Iron Maiden - Killers (1981-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/5073ba98-868e-43af-aa54-2e2b5b63fa04/7124923543-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Diary of a Madman (1981-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/304ecbca-cee0-3bba-af15-7e3c27f022b3/12567066048-500.jpg" data-tags="heavy metal" role="button">
-Manowar - Battle Hymns (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cc5c04c-3051-400a-bca7-09c8dbac0020/12220437049-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Iron Fist (1982-04-03)
@@ -263,6 +260,9 @@ Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
+</li>
+<li data-cover="https://img.discogs.com/Z-viEOR7s2i1cT81Kpr_xps8tcc=/fit-in/309x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3791648-1344580340-5919.jpeg.jpg" data-tags="heavy metal" role="button">
+Iron Maiden - A Matter of Life and Death (2006-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbb007ac-5f98-372d-a1cb-dc9da94a733e/20586655387-500.jpg" data-tags="hard rock" role="button">
 Avenged Sevenfold - Avenged Sevenfold (2007-10-26)

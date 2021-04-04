@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:39:01.296Z
+date: 2021-04-04T01:59:01.252Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -117,12 +117,6 @@ Kaiser Chiefs - Employment (2005-03-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">
-Maxïmo Park - A Certain Trigger (2005-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/ba09c389-e2ed-4a80-ab56-6ff2a31ab5f3/16830848668-500.jpg" data-tags="indie rock, indie" role="button">
-The Subways - Young for Eternity (2005-07-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
@@ -225,8 +219,11 @@ White Lies - To Lose My Life (2009-01-11)
 <li data-cover="http://coverartarchive.org/release/f5229c40-d183-41b9-a88c-01b2059201b7/9832610394-500.jpg" data-tags="indie rock" role="button">
 Franz Ferdinand - Tonight: Franz Ferdinand (2009-01-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eebfd89-df96-4017-b70f-795a0702d2c5/8690836098-500.jpg" data-tags="indie rock, shoegaze, alternative" role="button">
-Silversun Pickups - Swoon (2009-04-14)
+<li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
+Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
+Metric - Fantasies (2009-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
@@ -282,6 +279,9 @@ Young the Giant - Young the Giant (2010-10-25)
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+The Strokes - Angles (2011-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/00ee87de-e714-47ed-8197-314d43d5a6ad/3330596020-500.jpg" data-tags="indie rock, indie" role="button">
 Grouplove - Never Trust A Happy Song (2011-09-02)
 </li>
@@ -297,9 +297,6 @@ Arctic Monkeys - Suck It and See (2011-10-31)
 <li data-cover="http://coverartarchive.org/release/441adaa8-20b9-48f0-9c3c-ae7f264d3271/13109592638-500.jpg" data-tags="indie rock, imagine dragons, indie" role="button">
 Imagine Dragons - Continued Silence EP (2012-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="2012" role="button">
-Imagine Dragons - Night Visions (2012-09-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)
 </li>
@@ -311,6 +308,9 @@ The Strokes - Comedown Machine (2013-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
+The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock, vinyl" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)

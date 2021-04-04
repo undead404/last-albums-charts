@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T21:28:01.190Z
+date: 2021-04-04T02:39:01.225Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -30,11 +30,26 @@ The Moody Blues - Days of Future Passed (1967-11-11)
 <li data-cover="http://coverartarchive.org/release/dd8d891c-6664-41a5-8a59-8c82b5043068/16044068476-500.jpg" data-tags="rock, classic rock, 60s" role="button">
 The Who - The Who Sell Out (1967-12-16)
 </li>
+<li data-cover="https://img.discogs.com/KQQisbhZUwl8QSf4_VxYHbVmcsk=/fit-in/523x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435912-1219542672.jpeg.jpg" data-tags="rock opera, classic rock, rock" role="button">
+The Who - Tommy (1969-05-23)
+</li>
+<li data-cover="https://img.discogs.com/sQAZsaA_cZEcU9n-eSJam8BDU0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6029393-1409234353-8744.jpeg.jpg" data-tags="classic rock, rock, 70s" role="button">
+The Kinks - Lola Versus Powerman And The Moneygoround, Part One (1970-11-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">
+David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ed99b83-6abc-402e-b723-b036b9441fc4/12733158344-500.jpg" data-tags="progressive rock" role="button">
+Jethro Tull - A Passion Play (1973-07-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/db268a28-85a0-4afe-8779-609de7df4b9b/27745398432-500.jpg" data-tags="rock, classic rock, 70s, rock opera" role="button">
 The Who - Quadrophenia (1973-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac6a3bdd-4d2e-38e8-ba6e-33cecf128b18/14101003831-500.jpg" data-tags="glam rock, 70s" role="button">
+David Bowie - Diamond Dogs (1974-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/287a0f2c-53da-4fac-b254-f004e350fe82/14956557712-500.jpg" data-tags="hard rock, rock" role="button">
 Alice Cooper - Welcome to My Nightmare (1975-03-11)
@@ -54,13 +69,13 @@ The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 <li data-cover="http://coverartarchive.org/release/3b2d1c75-5ba2-44e1-8b09-449d893e229a/9699513967-500.jpg" data-tags="80s, symphonic rock, electric light orchestra" role="button">
 Electric Light Orchestra - Time (1981-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
+<li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
 A Flock of Seagulls - A Flock Of Seagulls (1982)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
-<li data-cover="https://img.discogs.com/8MwFjwQWbLCbUShM8mIf8Xfnb5A=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298979-1511917798-6436.jpeg.jpg" data-tags="80s, post-punk" role="button">
+<li data-cover="https://img.discogs.com/dTteLSb7e4YFLWuO7TNcx_yq5po=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58687-1467124625-9989.jpeg.jpg" data-tags="80s, post-punk" role="button">
 The The - Infected (1986-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dcf0812-3064-38d3-a234-74a7084ad634/23757549091-500.jpg" data-tags="heavy metal" role="button">
@@ -111,9 +126,6 @@ Ayreon - Into the Electric Castle (1998)
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e59050c-fbf2-4811-b177-c1dab9792b83/13963291476-500.jpg" data-tags="concept album, freestyle fellowship" role="button">
-Aceyalone - A Book of Human Language (1998-04-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
 </li>
@@ -125,9 +137,6 @@ Pain of Salvation - One Hour By The Concrete Lake (1998-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2412502a-559c-4e67-8602-ee42b0ba4e65/11585612900-500.jpg" data-tags="progressive metal, thrash metal" role="button">
 Nevermore - Dreaming Neon Black (1999-01-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec296c98-a954-4ae2-9e50-40ec6753c6c3/28727949293-500.jpg" data-tags="indie pop, indie rock" role="button">
-of Montreal - The Gay Parade (1999-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/005e2e79-00f3-3a98-9a7d-9a1ca42de150/11854796230-500.jpg" data-tags="progressive rock" role="button">
 dredg - Leitmotif (1999-05-30)
@@ -180,11 +189,8 @@ Kamelot - Epica (2003-01-13)
 <li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
 King Geedorah - Take Me to Your Leader (2003-06-16)
 </li>
-<li data-cover="https://img.discogs.com/bOKPfO0v3uFX2HZ90gpS5BZzZz0=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13316844-1551964040-1365.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
+<li data-cover="https://img.discogs.com/bBIQgR93PvsmBA1M-MKwGaSZIbU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10093870-1491496361-5615.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
 Neil Young & Crazy Horse - Greendale (2003-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/92b5faa0-7407-4224-9614-fb4188f99b6a/4238720764-500.jpg" data-tags="indie, indie rock, murder by death" role="button">
-Murder By Death - Who Will Survive, and What Will Be Left of Them? (2003-10-14)
 </li>
 <li data-cover="https://img.discogs.com/iYbsJyNF7d-XUXTD0Z9aEt-2BRU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11922057-1524800781-6056.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
@@ -267,9 +273,6 @@ Porcupine Tree - Fear of a Blank Planet (2007-04-13)
 <li data-cover="http://coverartarchive.org/release/2bb1997c-dcb4-4626-97ab-2233b4fb50c8/14774161222-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
 Funeral for a Friend - Tales Don't Tell Themselves (2007-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b93d88c0-0953-422a-8e8c-d0831cb8fe9c/26551890096-500.jpg" data-tags="alternative rock" role="button">
-ASHES dIVIDE - Keep Telling Myself It's Alright (2008-01-01)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
@@ -287,9 +290,6 @@ The Decemberists - The Hazards of Love (2009-03-16)
 </li>
 <li data-cover="https://img.discogs.com/U9Jn2NXxOsUmCAoL4u1P3zTb9w8=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1877212-1399495634-5871.jpeg.jpg" data-tags="progressive rock" role="button">
 The Dear Hunter - Act III: Life and Death (2009-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/729871ea-4ac9-3140-953c-b8861c47c9e3/13189984972-500.jpg" data-tags="cabaret, 2010s" role="button">
-Evelyn Evelyn - Evelyn Evelyn (2010-03-30)
 </li>
 <li data-cover="https://img.discogs.com/qcIKjGB-FH-3K7RIwl7Ik8UsLbE=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604977-1549321734-9052.jpeg.jpg" data-tags="soul" role="button">
 Plan B - The Defamation of Strickland Banks (2010-04-12)

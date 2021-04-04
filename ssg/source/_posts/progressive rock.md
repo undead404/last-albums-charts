@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:07:01.258Z
+date: 2021-04-04T02:23:01.215Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -69,7 +69,7 @@ Pink Floyd - Obscured by Clouds (1972-06-03)
 <li data-cover="http://coverartarchive.org/release/8777b21d-78b9-4cf8-87b9-3c9d9f89475d/10493893922-500.jpg" data-tags="progressive rock" role="button">
 Genesis - Foxtrot (1972-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, progressive rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/cmMfLyYPU0l1QJDZlfdmfmU7neU=/fit-in/600x902/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7522735-1443235897-4337.jpeg.jpg" data-tags="hard rock, progressive rock, classic rock" role="button">
 Rush - Rush (1974-03-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, experimental" role="button">
@@ -95,6 +95,15 @@ Boston - Boston (1976-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/36594124-8097-3af9-891a-8a03b154c79b/23541528287-500.jpg" data-tags="classic rock, 70s" role="button">
+Electric Light Orchestra - Out of the Blue (1977-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, classic rock" role="button">
+Kansas - Point of Know Return (1977-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/23bf913d-3709-4f84-a3df-f19d3928cb2b/5892233271-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
+Electric Light Orchestra - Discovery (1979-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Wall (1979-11-30)
@@ -123,6 +132,9 @@ Genesis - Genesis (1983-10-03)
 <li data-cover="http://coverartarchive.org/release/8be613dc-5964-3dc0-9802-71c4eeccb125/11372138627-500.jpg" data-tags="progressive rock" role="button">
 Yes - 90125 (1983-11-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
+Kansas - The Best of Kansas (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
 </li>
@@ -134,9 +146,6 @@ Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
 Pink Floyd - Delicate Sound of Thunder (1988-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/6be0d2a6-67b2-4b57-b7a0-5d6366a1332d/21377405539-500.jpg" data-tags="rock, classic rock" role="button">
-Genesis - We Can't Dance (1991-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
@@ -279,14 +288,8 @@ Toto - Toto (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">
 Opeth - Watershed (2008-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
-The Decemberists - The Hazards of Love (2009-03-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/cac6cd22-58bd-40fe-aaf6-4746bdb9a684/14740011088-500.jpg" data-tags="progressive rock" role="button">
 Karnivool - Sound Awake (2009-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a51d2c1c-358f-4a7f-8787-ad4e9079c3b7/1281683758-500.jpg" data-tags="progressive metal" role="button">
-Dream Theater - Black Clouds & Silver Linings (2009-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc9236dd-b33e-4bd2-b82b-65d466086967/1024194515-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Octahedron (2009-06-22)
@@ -296,9 +299,6 @@ Muse - The Resistance (2009-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c1be53d-29bd-40d1-a3d7-a87febf43c1c/20890429226-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - The Incident (2009-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/50714cf9-0f08-4632-b7ed-ea33cd05cc92/27723129384-500.jpg" data-tags="progressive rock" role="button">
-Coheed and Cambria - Year of the Black Rainbow (2010-04-12)
 </li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)

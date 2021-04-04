@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:13:01.255Z
+date: 2021-04-04T02:04:01.271Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -168,9 +168,6 @@ The Chemical Brothers - Push the Button (2004-12)
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
-Lemon Jelly - '64-'95 (2005-01-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
@@ -299,6 +296,9 @@ Justice - Audio, Video, Disco (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3747ee08-0566-448b-99d6-8fba88136a3e/5129551162-500.jpg" data-tags="electronic, electronica, indie, alternative, synthpop, alternative dance, everything, dark pop, coramao, bete gouveia" role="button">
 M.I.A. - Bad Girls (2012-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
+Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f71c093a-2791-455a-b30f-c9ce8b0701b6/9559450051-500.jpg" data-tags="2012, downtempo" role="button">
 XXYYXX - XXYYXX (2012-03-27)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T21:53:01.214Z
+date: 2021-04-04T02:34:01.211Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -10,8 +10,8 @@ title: "swedish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">Caesars - Jerk It Out (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/2ae3ea06-a05a-4389-b2eb-551a3ec9a0ae/13097774396-500.jpg" data-tags="swedish" role="button">Kent - Du & jag döden (2005-03-15)</li>
-<li data-cover="http://coverartarchive.org/release/a2d9edb0-6131-4ca6-a574-0afafbcdfa48/23890573975-500.jpg" data-tags="indie, pop, swedish, rock" role="button">Jens Lekman - Oh You're So Silent Jens (2005-06-08)</li>
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">The Knife - Silent Shout (2006-02-15)</li>
+<li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
 </ol>
@@ -153,6 +153,9 @@ The Embassy - Tacking (2005-11-16)
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
 The Knife - Silent Shout (2006-02-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">
+The Sounds - Dying to Say This to You (2006-03-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish" role="button">
 José González - Crosses (2006-04-10)
 </li>
@@ -243,9 +246,6 @@ The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 <li data-cover="http://coverartarchive.org/release/cc6f7a05-e1c4-4039-9eb3-8c8ccd37e6b1/13919864002-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Radio Dept. - Clinging to a Scheme (2010-04-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, swedish" role="button">
-Amanda Jenssen - Happyland (2010-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/90c1d0fe-95d7-4d72-b807-c69a2e99400f/24223192647-500.jpg" data-tags="swedish, indietronica, sincerely yours, pitchfork best new music, pitchfork: best new music" role="button">
 Ceo - White Magic (2010-06-28)
 </li>
@@ -267,7 +267,7 @@ Lykke Li - Wounded Rhymes (2011-02-28)
 <li data-cover="https://img.discogs.com/FR40N422nP5djNhesTfiTkMcSFQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916148-1307131262.jpeg.jpg" data-tags="indie, alternative, swedish, indie pop" role="button">
 Peter Bjorn and John - Gimme Some (2011-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, laptop, 10s, swedish poprock, registret, signed album i own" role="button">
+<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, laptop, 10s, swedish poprock" role="button">
 Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">

@@ -1,10 +1,9 @@
 ---
-date: 2021-04-03T23:20:01.243Z
+date: 2021-04-04T01:50:01.200Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">The Clash - London Calling (1979-12-14)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
@@ -13,6 +12,7 @@ title: "classic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, rap" role="button">Nas - Stillmatic (2001-12-08)</li>
 <li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">Kid Cudi - Man on the Moon: The End of Day (2009-07-15)</li>
 </ol>
 List of 100 - under the cut.
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, free jazz" role="button">
 Ornette Coleman - The Shape of Jazz to Come (1959-10)
-</li>
-<li data-cover="https://img.discogs.com/VfUPo4sEAT33NgmIB200N-9g2V8=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4601243-1369602202-5646.jpeg.jpg" data-tags="rock" role="button">
-The Kinks - You Really Got Me (1964-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">
 Os Mutantes - Os Mutantes (1968-06)
@@ -42,8 +39,14 @@ The Doors - The Soft Parade (1969-07)
 <li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
 Miles Davis - Bitches Brew (1970)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
+Van Morrison - Moondance (1970-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/761bc982-f445-4cc7-be4e-c71044debb01/13878419287-500.jpg" data-tags="classic rock" role="button">
+The Band - The Best of the Band (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">
 The Clash - London Calling (1979-12-14)
@@ -123,9 +126,6 @@ Nine Inch Nails - The Downward Spiral (1994-03-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/3827d42e-ae55-4d01-a4a8-699ffc750c30/28313173034-500.jpg" data-tags="90s, alternative rock" role="button">
-Hootie & The Blowfish - Cracked Rear View (1994-07-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
 </li>
@@ -189,17 +189,11 @@ OutKast - Aquemini (1998-09-28)
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
-<li data-cover="https://img.discogs.com/W9ghtkvM3_J0Q2wYRgL38T5Uua4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369442-1552533079-8145.png.jpg" data-tags="electronic, house" role="button">
-Les Rythmes Digitales - Darkdancer (1999-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
 The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/df9a8504-38c0-3df8-baf2-653c8037ef08/4782955873-500.jpg" data-tags="industrial" role="button">
 Rob Zombie - American Made Music To Strip By (1999-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
-Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c3a5aca-26e7-4ab5-84be-9618750ad687/4046964167-500.jpg" data-tags="slow alternative" role="button">
 Songs: Ohia - The Lioness (2000-01-17)
@@ -224,6 +218,12 @@ Nicola Conte - Bossa Per Due (2001-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
 Kings of Convenience - Versus (2001-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/4398f892-0bbd-4ccb-ba58-822026bc0580/4699250670-500.jpg" data-tags="hip-hop, hiphop, classic, east coast" role="button">
+Masta Ace - Disposable Arts (2001-10-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, rap" role="button">
+Nas - Stillmatic (2001-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
 The Mountain Goats - All Hail West Texas (2002-02-19)

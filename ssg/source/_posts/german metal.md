@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:35:01.163Z
+date: 2021-04-04T02:43:01.506Z
 title: "german metal: 100 albums you must listen to before you die"
 ---
 ![Gamma Ray - Heading For Tomorrow (1990-02-19)](https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg "Gamma Ray - Heading For Tomorrow (1990-02-19)")
@@ -74,9 +74,6 @@ Lunar Aurora - Weltengänger (1996-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdbf9-5a09-4e9c-947f-bbbb625c21c8/10691439731-500.jpg" data-tags="folk metal, melodic death metal, death metal, german metal" role="button">
 SuidAkrA - Lupine Essence (1997-06)
-</li>
-<li data-cover="https://img.discogs.com/swKjwnPuBJHutpP6k7Hl7yFtQVA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3412972-1477568231-7658.jpeg.jpg" data-tags="power metal" role="button">
-Iron Savior - Iron Savior (1997-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c666ffc2-1cbf-4a8c-801e-8fabd56ca062/22022063680-500.jpg" data-tags="rammstein" role="button">
 Rammstein - Du Hast (1997-07-18)
@@ -240,9 +237,6 @@ Misery Speaks - Misery Speaks (2006-06-23)
 <li data-cover="http://coverartarchive.org/release/15669334-3e44-468f-930e-22461dfd0bb7/2686989714-500.jpg" data-tags="black metal, german black metal" role="button">
 Katharsis - VVorldVVithoutEnd (2006-08-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7fc16c3-6611-4312-8bd1-ce7122deaad6/16103200312-500.jpg" data-tags="black metal, german black metal" role="button">
-Darkened Nocturn Slaughtercult - Hora Nocturna (2006-10-20)
-</li>
 <li data-cover="https://img.discogs.com/VNu3si4B-I4RDfrHVV1JW5z6FwE=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538380-1226925625.jpeg.jpg" data-tags="power metal, a cappella metal" role="button">
 Van Canto - A Storm to Come (2006-12-15)
 </li>
@@ -266,6 +260,9 @@ Primal Fear - New Religion (2007-09-21)
 </li>
 <li data-cover="https://img.discogs.com/6YZImha7DJe_HF3zRI5dCLWEytw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2027661-1302251188.jpeg.jpg" data-tags="black metal" role="button">
 Endstille - Endstilles Reich (2007-10-15)
+</li>
+<li data-cover="https://img.discogs.com/0dbWW9EL8iFtsqxnli3Htqnfymo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1353058-1426583073-5398.jpeg.jpg" data-tags="power metal" role="button">
+Axxis - Doom Of Destiny (2007-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c9154bf-62bd-47fb-83b7-0e029013a4b5/27051293670-500.jpg" data-tags="black metal, war metal" role="button">
 Truppensturm - Fields of Devastation (2007-12-12)
@@ -317,6 +314,9 @@ Ketzer - Endzeit Metropolis (2012-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d391310-0ece-448f-825d-1f8fee77aef5/6501230357-500.jpg" data-tags="power metal, heavy metal" role="button">
 Rage - 21 (2012-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c5a4057-3031-4214-a33d-ee94b2536077/10134406261-500.jpg" data-tags="folk metal, viking metal" role="button">
+Black Messiah - The Final Journey (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/adc0930f-a765-4d3c-90e3-c638973d7ae5/1803329658-500.jpg" data-tags="goregrind, psychopathic, deathgrind, pornogrind, cybergrind, porngrind, german metal, digital grindcore, mmfwcl, juggalo stylz" role="button">
 Insane Clown Posse - The Mighty Death Pop - Smothered, Covered, and Chunked - Red Pop (2012-08-14)
