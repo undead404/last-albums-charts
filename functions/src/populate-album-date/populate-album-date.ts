@@ -5,18 +5,13 @@ import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import sleep from '../common/sleep';
-import { SerializableAlbum } from '../common/types';
+import { AlbumAmqpPayload } from '../common/types';
 
 import getFromDiscogs from './get-from-discogs';
 import getFromMusicbrainz from './get-from-musicbrainz';
 
-export type PopulateAlbumDatePayload = Pick<
-  SerializableAlbum,
-  'artist' | 'mbid' | 'name'
->;
-
 const API_DELAY_MS = 5000;
-async function storeEmpty(album: PopulateAlbumDatePayload): Promise<void> {
+async function storeEmpty(album: AlbumAmqpPayload): Promise<void> {
   await mongoDatabase.albums.updateOne(
     { mbid: album.mbid },
     { $set: { date: null } },
@@ -24,7 +19,7 @@ async function storeEmpty(album: PopulateAlbumDatePayload): Promise<void> {
 }
 
 export default async function populateAlbumDate(
-  album: PopulateAlbumDatePayload,
+  album: AlbumAmqpPayload,
 ): Promise<void> {
   logger.info(`populateAlbumDate: ${album.artist} - ${album.name}`);
   if (!album.mbid) {

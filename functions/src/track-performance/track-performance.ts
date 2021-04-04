@@ -13,9 +13,17 @@ export interface PerformancePayload {
 export default function trackPerformance(payload: PerformancePayload): void {
   const start = parseISO(payload.start);
   const end = parseISO(payload.end);
-  logger.info(
-    `${payload.title} ${payload.success ? 'success' : 'failure'}: ${
-      payload.targetName
-    } - ${formatDuration(intervalToDuration({ end, start }))}`,
-  );
+  if (payload.success) {
+    logger.info(
+      `${payload.title} success: ${payload.targetName} - ${
+        formatDuration(intervalToDuration({ end, start })) || 'quick'
+      }`,
+    );
+  } else {
+    logger.error(
+      `${payload.title} failure: ${payload.targetName} - ${
+        formatDuration(intervalToDuration({ end, start })) || 'quick'
+      }`,
+    );
+  }
 }

@@ -18,8 +18,19 @@ module.exports = {
       watch: false,
     },
     {
+      cron_restart: '45 0 * * *',
+      env: {
+        APP_NAME: 'fAlbums',
+      },
+      exec_mode: 'fork',
+      instances: 1,
+      name: 'fAlbums',
+      script: 'lib/fix-albums/run.js',
+      watch: false,
+    },
+    {
       autorestart: true,
-      // cron_restart: '*/10 * * * *',
+      cron_restart: '* * * * *',
       env: {
         APP_NAME: 'gList',
       },
@@ -98,7 +109,7 @@ module.exports = {
     },
     {
       autorestart: true,
-      // cron_restart: '0 */2 * * *',
+      cron_restart: '*/15 * * * *',
       env: {
         APP_NAME: 'sAlbums',
       },

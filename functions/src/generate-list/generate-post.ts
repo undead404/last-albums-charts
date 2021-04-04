@@ -91,7 +91,7 @@ export default async function generatePost(
     albums: albumsViews,
     coverSource,
     coverTitle,
-    title: tag.name,
+    title: `${tag.name}: 100 albums you must listen to before you die`,
     updated: new Date().toISOString(),
   });
   return new Promise<void>((resolve, reject) =>

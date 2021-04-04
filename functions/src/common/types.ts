@@ -40,3 +40,5 @@ export type SerializableTag = Omit<
   listCreatedAt: null | string;
   topAlbums?: SerializableAlbum[];
 };
+
+export type AlbumAmqpPayload = Pick<AlbumRecord, 'artist' | 'mbid' | 'name'>;

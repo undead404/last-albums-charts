@@ -3,10 +3,9 @@ import toString from 'lodash/toString';
 import { publish, subscribe } from '../common/amqp-broker';
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
+import { AlbumAmqpPayload } from '../common/types';
 
-import populateAlbumTags, {
-  PopulateAlbumTagsPayload,
-} from './populate-album-tags';
+import populateAlbumTags from './populate-album-tags';
 
 export default async function main(): Promise<void> {
   if (!mongoDatabase.isConnected) {
@@ -15,7 +14,7 @@ export default async function main(): Promise<void> {
   const subscription = await subscribe('populateAlbumTags');
   subscription
     .on('message', async (message, content, ackOrNack) => {
-      const album: PopulateAlbumTagsPayload = content;
+      const album: AlbumAmqpPayload = content;
       const start = new Date();
       try {
         await populateAlbumTags(album);

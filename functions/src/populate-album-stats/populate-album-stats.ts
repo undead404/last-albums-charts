@@ -4,16 +4,11 @@ import toNumber from 'lodash/toNumber';
 
 import getAlbumInfo from '../common/lastfm/get-album-info';
 import mongoDatabase from '../common/mongo-database';
-import { AlbumRecord, SerializableAlbum } from '../common/types';
+import { AlbumAmqpPayload, AlbumRecord } from '../common/types';
 import logger from '../common/logger';
 
-export type PopulateAlbumStatsPayload = Pick<
-  SerializableAlbum,
-  'artist' | 'name'
->;
-
 export default async function populateAlbumStats(
-  album: PopulateAlbumStatsPayload,
+  album: AlbumAmqpPayload,
 ): Promise<void> {
   logger.info(`populateAlbumStats: ${album.artist} - ${album.name}`);
   const albumInfo = await getAlbumInfo(album.name, album.artist);

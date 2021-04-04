@@ -1,11 +1,12 @@
 import head from 'lodash/head';
+import isTagBlacklisted from '../common/is-tag-blacklisted';
 
 import logger from '../common/logger';
-import mongodb from '../common/mongo-database';
+import mongoDatabase from '../common/mongo-database';
 import { TagRecord, Weighted } from '../common/types';
 
 export default async function pickTag(): Promise<TagRecord | undefined> {
-  let [tag]: (TagRecord | undefined)[] = (await mongodb.tags
+  let [tag]: (TagRecord | undefined)[] = (await mongoDatabase.tags
     .find({
       listCreatedAt: null,
       lastProcessedAt: {
@@ -16,11 +17,15 @@ export default async function pickTag(): Promise<TagRecord | undefined> {
     .limit(1)
     .toArray()) as TagRecord[];
   if (tag) {
+    if (isTagBlacklisted(tag.name)) {
+      await mongoDatabase.tags.deleteOne({ name: tag.name });
+      return pickTag();
+    }
     logger.info(`Picked tag: ${tag.name}`);
     return tag;
   }
   tag = head(
-    await mongodb.tags
+    await mongoDatabase.tags
       .aggregate<Weighted<TagRecord>>([
         {
           $match: {
@@ -60,6 +65,10 @@ export default async function pickTag(): Promise<TagRecord | undefined> {
   if (!tag) {
     logger.warn('No tags picked');
   } else {
+    if (isTagBlacklisted(tag.name)) {
+      await mongoDatabase.tags.deleteOne({ name: tag.name });
+      return pickTag();
+    }
     logger.info(`Picked tag: ${tag.name}`);
   }
   return tag;

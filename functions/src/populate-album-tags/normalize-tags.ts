@@ -32,5 +32,6 @@ export default function normalizeTags(
   result = mapValues(result, (tagCount) =>
     Math.floor((tagCount * tagCount) / DESIRED_MAX_TAG_COUNT),
   );
+  result = pickBy(result, (tagCount) => tagCount > 0);
   return result;
 }
