@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:29:01.273Z
+date: 2021-04-04T01:07:01.258Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -42,8 +42,14 @@ Frank Zappa - Hot Rats (1969-10-15)
 <li data-cover="http://coverartarchive.org/release/53e9678a-90dd-3c32-8d28-1584b612f95f/9839280602-500.jpg" data-tags="psychedelic rock, progressive rock" role="button">
 Pink Floyd - Ummagumma (1969-10-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, 60s, glam rock" role="button">
+David Bowie - Space Oddity (1969-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/20f367e3-ab11-4dcd-9350-8ef410a126ef/10021296073-500.jpg" data-tags="progressive rock" role="button">
+Jethro Tull - Aqualung (1971-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80b4602-0a20-4ca4-a061-896959249abf/6012566391-500.jpg" data-tags="progressive rock" role="button">
 Caravan - In The Land Of Grey And Pink (1971-04-08)
@@ -60,11 +66,17 @@ Wishbone Ash - Argus (1972-04-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Pink Floyd - Obscured by Clouds (1972-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/8777b21d-78b9-4cf8-87b9-3c9d9f89475d/10493893922-500.jpg" data-tags="progressive rock" role="button">
+Genesis - Foxtrot (1972-10)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, progressive rock, classic rock" role="button">
 Rush - Rush (1974-03-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, experimental" role="button">
 Frank Zappa - Apostrophe (') (1974-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f33a793-2ca8-47e4-8efe-daa5bd03ff8f/5183196329-500.jpg" data-tags="progressive rock, classic rock" role="button">
+Supertramp - Crime of the Century (1974-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a63a9853-3575-4f6a-aa11-b205d24a272b/21986988027-500.jpg" data-tags="progressive rock, hard rock" role="button">
 Rush - Fly by Night (1975-02-15)
@@ -84,17 +96,11 @@ Boston - Boston (1976-09)
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, classic rock" role="button">
-Supertramp - Even In The Quietest Moments (1977-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Wall (1979-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/95cdd8d5-1e67-40ec-8775-6cb16e3cf631/986900014-500.jpg" data-tags="progressive rock" role="button">
 Rush - Permanent Waves (1980-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/985f059e-d503-378f-9e27-7c2f104653c5/18902154264-500.jpg" data-tags="classic rock, pink floyd, progressive rock" role="button">
-Pink Floyd - A Collection Of Great Dance Songs (1981-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e1604a5-a7b1-46f4-adff-b5c5a8bd33b0/12748445063-500.jpg" data-tags="progressive rock" role="button">
 Asia - Asia (1982-03-18)
@@ -162,9 +168,6 @@ Anathema - Alternative 4 (1998-06-17)
 <li data-cover="http://coverartarchive.org/release/19f28e19-238c-48ee-8c65-e8182019e1fc/5396844481-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - Stupid Dream (1999-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/005e2e79-00f3-3a98-9a7d-9a1ca42de150/11854796230-500.jpg" data-tags="progressive rock" role="button">
-dredg - Leitmotif (1999-05-30)
-</li>
 <li data-cover="https://img.discogs.com/lqdcerK4c8xbpCYjmTHXeMaMjdQ=/fit-in/389x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528881-1608936675-9430.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - Judgement (1999-06-21)
 </li>
@@ -204,9 +207,6 @@ Muse - Absolution (2003-09-08)
 <li data-cover="https://img.discogs.com/komlby94frR-OIebYi2JCX_uCfI=/fit-in/544x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1140943-1195346718.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Thirteenth Step (2003-09-15)
 </li>
-<li data-cover="https://img.discogs.com/q7d1RA0Ry_qrNotfKnliNqSfzsw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1220643-1608712275-7055.jpeg.jpg" data-tags="progressive rock" role="button">
-Oceansize - Effloresce (2003-09-29)
-</li>
 <li data-cover="https://img.discogs.com/FGPLF4s1qmg4p2ZD8e9fim49-88=/fit-in/599x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371685-1278657433.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - A Natural Disaster (2003-11-03)
 </li>
@@ -231,17 +231,26 @@ Circa Survive - Juturna (2005-04-19)
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/lwvpB0N1YbbL4pvfWsvdAUXJEmY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1259407-1254652496.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Everyone Into Position (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
 </li>
+<li data-cover="https://img.discogs.com/kTkE93U4Mhrw6hqBTCYmyjFYOwA=/fit-in/588x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120756-1193675519.jpeg.jpg" data-tags="progressive rock" role="button">
+David Gilmour - On an Island (2006-03-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a579c61-ced0-3dd4-b1cb-3539578c0163/24153332307-500.jpg" data-tags="progressive rock" role="button">
+Pure Reason Revolution - The Dark Third (2006-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
 Tool - 10,000 Days (2006-04-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/aefcf53b-5980-463b-b03d-a6c8da6a9432/2432254769-500.jpg" data-tags="alternative rock, rock" role="button">
+Muse - Black Holes and Revelations (2006-06-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)
@@ -270,9 +279,6 @@ Toto - Toto (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">
 Opeth - Watershed (2008-05-28)
 </li>
-<li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
-John Frusciante - The Empyrean (2009-01-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
 </li>
@@ -291,9 +297,6 @@ Muse - The Resistance (2009-09-10)
 <li data-cover="http://coverartarchive.org/release/1c1be53d-29bd-40d1-a3d7-a87febf43c1c/20890429226-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - The Incident (2009-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/6221bd54-033d-4876-b722-736b4e95686b/4193279921-500.jpg" data-tags="alternative rock" role="button">
-30 Seconds to Mars - This Is War (2009-12-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/50714cf9-0f08-4632-b7ed-ea33cd05cc92/27723129384-500.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - Year of the Black Rainbow (2010-04-12)
 </li>
@@ -311,9 +314,6 @@ Anathema - Weather Systems (2012-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/a3d68599-50b3-4da8-81b2-8ef13170596c/12641456593-500.jpg" data-tags="progressive rock" role="button">
-Riverside - Shrine of New Generation Slaves (2013-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb4a5bb-bc24-4b4d-b1f5-e5a07397d980/8395692349-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Pale Communion (2014-06-17)

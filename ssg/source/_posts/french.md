@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T23:22:01.203Z
+date: 2021-04-04T01:31:01.215Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -60,7 +60,7 @@ Louise Attaque - Louise Attaque (1997-04-21)
 <li data-cover="http://coverartarchive.org/release/a8820a55-fd21-4300-880a-663799d7e4eb/27151523699-500.jpg" data-tags="electronic" role="button">
 Air - Premiers Symptômes (1997-07-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="lounge, electronic, post-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
@@ -102,11 +102,17 @@ Daft Punk - One More Time (2000-11-13)
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Discovery (2001-02-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/e267e17d-167e-4327-942a-6265ff3fc557/1166410528-500.jpg" data-tags="french, yann tiersen" role="button">
+Yann Tiersen - L'absente (2001-04-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, french, rock francais" role="button">
 Noir Désir - des Visages des Figures (2001-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa48ac28-57e0-3019-ba97-db523a26471e/7733173920-500.jpg" data-tags="house, electronic" role="button">
+Modjo - Modjo (2001-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc85b1de-cf7e-3241-9022-fea31857beab/16360798338-500.jpg" data-tags="electronic, electronica, french, electro, house, live, daft punk" role="button">
 Daft Punk - Alive 1997 (2001-10-01)
@@ -162,9 +168,6 @@ Tahiti 80 - Fosbury (2005-02-23)
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
-<li data-cover="https://img.discogs.com/9ZGqCrRnBpYLH9e34YgP3h0IB7c=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6286569-1438926263-1019.jpeg.jpg" data-tags="electronic, electro" role="button">
-Vitalic - OK Cowboy (2005-04-04)
-</li>
 <li data-cover="https://img.discogs.com/HyWH94_-BHggUZGg_A6ezuWAcnQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478836-1119637408.jpg.jpg" data-tags="classic rock, french, indie, rock, alternative, alternative rock, folk, ambient, singer-songwriter, 00s, life is strange" role="button">
 Syd Matters - Someday We Will Foresee Obstacles (2005-04-05)
 </li>
@@ -179,9 +182,6 @@ Rose - Rose (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/78fc0451-98c4-4708-a0de-e9bdff492488/1529636690-500.jpg" data-tags="chillout, electronic, nu-jazz, triphop" role="button">
 Alif Tree - French Cuisine (2006-02-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, singer-songwriter, acoustic, alt-country, indie folk, americana, indie, guitar, new weird america, lyrics, country, quiet, calm, mellow, sad, songwriter, lo-fi, alt country, waterhouse records, vancouver, slow, short song" role="button">
-Flowers From the Man Who Shot Your Cousin - Hapless (2006-04-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
@@ -216,14 +216,14 @@ BB Brunes - Blonde Comme Moi (2007-03-19)
 <li data-cover="http://coverartarchive.org/release/92242aa8-401f-4518-9d92-c1cd1587637d/2228786168-500.jpg" data-tags="electronic, electro, french" role="button">
 Teenage Bad Girl - Cocotte (2007-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a8a652e-d32a-400c-ae58-16cdcdc547f1/2239776188-500.jpg" data-tags="shoegaze" role="button">
-Alcest - Souvenirs d'un autre Monde (2007-07-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d3647f9-399c-46d3-975e-69ce463e393b/1227119338-500.jpg" data-tags="french" role="button">
 Vanessa Paradis - Divinidylle (2007-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/250e7379-67ab-42db-a101-023269183bdf/5499913556-500.jpg" data-tags="electronic, electro" role="button">
 Danger - 09/14 2007 (2007-11-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/583f44a4-ed8e-3b76-85e1-b79736702166/19205144537-500.jpg" data-tags="pop, french" role="button">
+Alizée - Psychédélices (2007-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bb86f81-b5ba-471f-927e-1d7c81bcd4cb/2903088736-500.jpg" data-tags="indie, folk" role="button">
 The Dø - A Mouthful (2008-01-01)
@@ -242,9 +242,6 @@ Birdy Nam Nam - Manual for successful rioting (2009-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2643bef6-4d60-4d2f-89a9-ffe6c7bab7a1/2431344077-500.jpg" data-tags="electronic" role="button">
 Yuksek - Away From The Sea (2009-01-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/237da257-e914-4cf7-8294-1c49b3d0d236/15794266436-500.jpg" data-tags="hip-hop, french, hip hop, rap, 00s, france, lyrical genius, loved album" role="button">
-Orelsan - Perdu d'Avance (2009-02-16)
 </li>
 <li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
@@ -293,6 +290,9 @@ Mélanie Laurent - En t'attendant (2011-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
 Sebastian - Total (2011-05-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+Justice - Audio, Video, Disco (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)

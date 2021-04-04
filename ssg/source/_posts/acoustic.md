@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:24:01.202Z
+date: 2021-04-04T01:06:01.238Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -21,11 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/h8Q5zIvhJH42i-aTz6nXhmauoB0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695929-1387082547-7142.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+Nick Drake - Five Leaves Left (1969-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbab3550-2635-4f48-a459-8e29fcd48056/26741104951-500.jpg" data-tags="female vocalists, singer-songwriter, folk, acoustic" role="button">
-Tracy Chapman - Crossroads (1989-09-01)
+<li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Nick Drake - Bryter Layter (1970-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/3091801c-33ee-35fb-87f3-80bab24c50d1/4521356337-500.jpg" data-tags="folk, singer-songwriter, 70s" role="button">
+Cat Stevens - Tea For The Tillerman (1970-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
@@ -33,17 +39,11 @@ Eric Clapton - Unplugged (1992-08-21)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
-Jewel - Pieces of You (1994)
-</li>
 <li data-cover="https://img.discogs.com/b6ul-IreDGOVEhsw2pxmMQ5esWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1155467-1382981671-1946.jpeg.jpg" data-tags="1994, singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc74c8f9-b13c-40b1-a07d-fb3eb32966db/4229236342-500.jpg" data-tags="rock, alternative rock, acoustic, vertical horizon" role="button">
-Vertical Horizon - Running on Ice (1995-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
@@ -65,12 +65,6 @@ Dave Matthews & Tim Reynolds - Live At Luther College (1999-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic, rainy day, purchased 09, colin hay, l" role="button">
-Colin Hay - Going Somewhere (2000-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/124490a2-3b9a-4177-9f0e-5645a59e0092/20616806771-500.jpg" data-tags="rock, 90s" role="button">
-Vertical Horizon - Everything You Want (2000-08-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Dashboard Confessional - The Swiss Army Romance (2000-11-14)
@@ -153,8 +147,8 @@ William Fitzsimmons - Until When We Are Ghosts (2005)
 <li data-cover="http://coverartarchive.org/release/15a9cca2-cd9e-4aac-9828-b85f184b1f84/24240958685-500.jpg" data-tags="acoustic, emo" role="button">
 Secondhand Serenade - Awake (2005-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/7df49ccd-3a84-4424-8ffa-07f660ba4865/10866678503-500.jpg" data-tags="acoustic, progressive rock" role="button">
-Green Carnation - The Acoustic Verses (2006-01-24)
+<li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
+Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
@@ -172,13 +166,13 @@ Sufjan Stevens - The Avalanche (2006-07-10)
 Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
-Ray LaMontagne - Trouble (2006-07-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Horse Feathers - Words Are Dead (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dc3d8cb-900a-4816-9985-14be12cf989a/4421812716-500.jpg" data-tags="acoustic" role="button">
 Justin Nozuka - Holly (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
+Colbie Caillat - Coco (2007-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
@@ -186,10 +180,13 @@ Feist - The Reminder (2007-04-23)
 <li data-cover="http://coverartarchive.org/release/a1c9336f-c371-4af7-9cc3-4b65685a3345/17822792060-500.jpg" data-tags="rock, who you are" role="button">
 Cary Brothers - Who You Are (2007-05-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
+Sara Bareilles - Little Voice (2007-07-03)
+</li>
 <li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="british, uk, somgwriters" role="button">
+<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock, favorite" role="button">
@@ -206,6 +203,9 @@ Fink - Distance and Time (2007-10-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
 The Spill Canvas - No Really, I'm Fine (2007-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/123a7fa9-f179-43c9-9353-c4cf2625ed4a/15645014786-500.jpg" data-tags="folk" role="button">
+Laura Marling - Alas I Cannot Swim (2008-02-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
@@ -230,9 +230,6 @@ The Weepies - Hideaway (2008-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/180a76e8-efe0-4d2d-9bdf-3f5e51223460/18171634835-500.jpg" data-tags="indie, rock, folk, acoustic, music to start the day to" role="button">
-Good Old War - Only Way To Be Alone (2008-08-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Joshua Radin - Simple Times (2008-09-30)
@@ -297,6 +294,9 @@ Ed Sheeran - + (2011-09-09)
 <li data-cover="http://coverartarchive.org/release/9a04148d-c342-47d8-8703-d51109b9dbc5/5046500846-500.jpg" data-tags="folk" role="button">
 Ben Howard - Every Kingdom (2011-09-30)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, acoustic" role="button">
+Marina & the Diamonds - Primadonna (2012-03-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">
 John Mayer - Born and Raised (2012-05-18)
 </li>
@@ -306,8 +306,8 @@ Mumford & Sons - Babel (2012-09-13)
 <li data-cover="http://coverartarchive.org/release/3151b89c-bc33-4304-9b0c-04158417b641/11082339511-500.jpg" data-tags="chillout, indie, folk, acoustic, listen, another love, songs played on kslu" role="button">
 Tom Odell - Songs from Another Love (2012-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/b32dc69b-cb78-4179-ad20-0d93e6e9be2d/6962674678-500.jpg" data-tags="folk, singer-songwriter, acoustic, male vocalists, fucking amazing, hairy chest, folk indie folk, us-singer" role="button">
-Gregory Alan Isakov - The Weatherman (2013-07-09)
+<li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
+Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, laptop, 10s, 2010s, 2013 albums, monochrome album covers, american group, grammy winner 2014" role="button">
 The Civil Wars - The Civil Wars (2013-08-02)

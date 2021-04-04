@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:10:01.229Z
+date: 2021-04-04T01:29:01.393Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -11,7 +11,7 @@ title: "post-punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">The Cure - Disintegration (1989-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">The Cure - Greatest Hits (2001-11-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Interpol - Turn on the Bright Lights (2002-08-19)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
+<li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">Interpol - Our Love to Admire (2007-07-09)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 </ol>
@@ -47,9 +47,6 @@ Joy Division - Unknown Pleasures (1979-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c6edb25-3614-4f2c-ae90-54a8d0b39c8c/9635980660-500.jpg" data-tags="post-punk" role="button">
 Gang of Four - Entertainment! (1979-09-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jangle pop, post-punk, new wave" role="button">
-The Feelies - Crazy Rhythms (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a241913-d3ec-4a4f-a0bf-46c3f8555fd8/24532302261-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Love Will Tear Us Apart (1980-04-18)
@@ -108,9 +105,6 @@ New Order - Power, Corruption & Lies (1983-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
 Bauhaus - Burning from the Inside (1983-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/38ffbebe-8b4e-32df-a29e-ad755e09599a/16239953987-500.jpg" data-tags="post-punk" role="button">
-The Chameleons - Script of the Bridge (1983-08-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/0299e566-f951-440f-bb63-8d6608aff482/6126735758-500.jpg" data-tags="80s" role="button">
 The Smiths - The Smiths (1984-02-20)
 </li>
@@ -141,7 +135,7 @@ The Cure - The Head on the Door (1985-08-13)
 <li data-cover="http://coverartarchive.org/release/830cce8b-4ddd-4d1e-8773-2e896fddf88c/11626984147-500.jpg" data-tags="80s, post-punk" role="button">
 Echo & the Bunnymen - Songs to Learn & Sing (1985-11-15)
 </li>
-<li data-cover="https://img.discogs.com/AADSARbEdBru61fCWkDMVMk-nLs=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10405636-1496870670-3968.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/03a3acfb-67ee-3353-a3f9-65a1af3a626e/7947298813-500.jpg" data-tags="post-punk, new wave, 80s, alternative" role="button">
@@ -216,8 +210,14 @@ Interpol - Antics (2004-09-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Editors - The Back Room (2005-01-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">
 Bloc Party - Silent Alarm (2005-02-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+Kaiser Chiefs - Employment (2005-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">
+Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - She Wants Revenge (2005-12-13)
@@ -228,14 +228,14 @@ U2 - U218 Singles (2006-01-01)
 <li data-cover="http://coverartarchive.org/release/dbe1dc97-6b49-4393-8898-dcce1bc654cc/16182961071-500.jpg" data-tags="garage rock, garage punk, post-punk" role="button">
 The Horrors - Strange House (2007-03-05)
 </li>
+<li data-cover="https://img.discogs.com/nmM1U3DYX_Qh985bIxtRQL9zvuk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1002272-1460092546-5073.jpeg.jpg" data-tags="indie rock, indie" role="button">
+Editors - An End Has A Start (2007-04-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/9bce96cc-8d4f-38f3-97d5-decb81ab7119/14968666106-500.jpg" data-tags="indie rock" role="button">
 The National - Boxer (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
-Liars - Liars (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f214af9-7c6d-43b5-bb61-fd78ccffd805/9294779686-500.jpg" data-tags="indie rock, post-punk" role="button">
 The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)

@@ -1,10 +1,10 @@
 ---
-date: 2021-04-03T21:32:01.424Z
+date: 2021-04-04T01:00:01.265Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="80s" role="button">a-ha - Hunting High and Low (1985-06-01)</li>
+<li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">a-ha - Hunting High and Low (1985-06-01)</li>
 <li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="80s, pop rock 80" role="button">a-ha - Minor Earth | Major Sky (2000-07-10)</li>
 <li data-cover="https://img.discogs.com/lsz4cKVgVZ2Y5vbRL35Nv2_vGoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9784862-1526804148-7507.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">Kings of Convenience - Quiet Is the New Loud (2001-01-29)</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">Röyksopp - Melody A.M. (2001-10-08)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/opo5ssBjM3BzSO2P7t2NqLIY4Hs=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3505854-1333125364.jpeg.jpg" data-tags="norwegian" role="button">
 Madrugada - Madrugada (1974)
 </li>
-<li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">
 a-ha - Hunting High and Low (1985-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9271a6e7-d4e1-4c51-bce0-1277884214e3/23308406235-500.jpg" data-tags="a-ha" role="button">
@@ -111,14 +111,11 @@ Röyksopp - Melody A.M. (2001-10-08)
 <li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
 Kings of Convenience - Versus (2001-10-22)
 </li>
-<li data-cover="https://img.discogs.com/co9KmZHvtj5ElohkcqaLcEo-__s=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3729236-1342022284-7698.jpeg.jpg" data-tags="nu jazz, norwegian, guitar, jazz" role="button">
+<li data-cover="https://img.discogs.com/OfvEdmi3E2YwZjZcd56aDrIQ2_0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-700356-1601551545-4833.jpeg.jpg" data-tags="nu jazz, norwegian, guitar, jazz" role="button">
 Eivind Aarset - Light Extracts (2001-11-06)
 </li>
-<li data-cover="https://img.discogs.com/X65HTSq07NzoDMwRGJqsabo4dbE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6647265-1423796817-5285.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/MU7W1gbRrFb6gmf95p6SIwaTh0E=/fit-in/260x253/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3410307-1329326443.png.jpg" data-tags="pop" role="button">
 a-ha - Lifelines (2002-04-02)
-</li>
-<li data-cover="https://img.discogs.com/GYhZ7K6fOzCcdRdNDHBJZJ74sHU=/fit-in/280x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2349420-1278742285.jpeg.jpg" data-tags="avant-garde metal, progressive metal" role="button">
-Arcturus - The Sham Mirrors (2002-04-22)
 </li>
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
 Nils Petter Molvær - NP3 (2002-07-01)
@@ -135,7 +132,7 @@ Erlend Øye - Unrest (2003-02-10)
 <li data-cover="http://coverartarchive.org/release/50527efa-4879-4418-8d86-4fffe01c29ad/14081022150-500.jpg" data-tags="norwegian" role="button">
 Kaizers Orchestra - Evig pint (2003-03-07)
 </li>
-<li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="pop, 80s" role="button">
+<li data-cover="https://img.discogs.com/ai0y-shUNue13Ebf3Za1Hf2vIHE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2225856-1456197354-6151.jpeg.jpg" data-tags="pop, 80s" role="button">
 a-ha - How Can I Sleep With Your Voice in My Head (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c12cad5-bfca-4738-a06d-16b0b7b2679d/20294604785-500.jpg" data-tags="folk, singer-songwriter, female vocalists" role="button">
@@ -171,16 +168,16 @@ Windir - Valfar, Ein Windir (2004-09-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
+Sirenia - Sirenian Shores (2004-10-11)
+</li>
 <li data-cover="https://img.discogs.com/LHHhi4U3WGT_XMhYyZnMCDlHtoc=/fit-in/459x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565321-1151310339.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Thomas Dybdahl - One Day You'll Dance For Me, New York City (2004-10-18)
 </li>
-<li data-cover="https://img.discogs.com/uKtmNQ6fx9K2W90T2e_AGmmob4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383109-1466835134-7529.png.jpg" data-tags="black metal" role="button">
-Strid - Strid (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="2005, folk, norwegian" role="button">
+<li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
 Ane Brun - A Temporary Dive (2005-02-07)
 </li>
-<li data-cover="https://img.discogs.com/pHUFbZBvlkPBGXTbAOaaxOt9eyU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041657-1517381113-4147.jpeg.jpg" data-tags="2005, rock, alternative rock, 00s" role="button">
+<li data-cover="https://img.discogs.com/pHUFbZBvlkPBGXTbAOaaxOt9eyU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041657-1517381113-4147.jpeg.jpg" data-tags="rock, alternative rock, 00s" role="button">
 Madrugada - The Deep End (2005-02-28)
 </li>
 <li data-cover="https://img.discogs.com/-YyqUn8QvswZvDVFekN-UgZRsuk=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432799-1533497663-5552.jpeg.jpg" data-tags="jazz, post-rock" role="button">
@@ -225,6 +222,9 @@ Sondre Lerche - Phantom Punch (2006-08-28)
 <li data-cover="https://img.discogs.com/N7Bp5jfIBr2hf6QiJeqIZYuRx_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5352829-1391801147-4466.jpeg.jpg" data-tags="black metal, heavy metal" role="button">
 I - Between Two Worlds (2006-11-03)
 </li>
+<li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
+Tristania - Illumination (2007-01-19)
+</li>
 <li data-cover="https://img.discogs.com/uIAfZ93GzL9QH5DKXUZbj6LUJ-Y=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4140032-1356738631-1349.jpeg.jpg" data-tags="norwegian, norsk" role="button">
 Postgirobygget - Tidløs (2007-06)
 </li>
@@ -237,7 +237,7 @@ The Whitest Boy Alive - Rules (2009-02-27)
 <li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronic" role="button">
 Röyksopp - Junior (2009-03-18)
 </li>
-<li data-cover="https://img.discogs.com/6uphE3rwnbdqKOH_S-t17bV8U00=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1873365-1249299759.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/U8qA4obuxihZTVXjFl_0-55TJS0=/fit-in/591x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6019295-1500463165-2517.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Foot Of The Mountain (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/93010242-f99e-42ac-a632-bb4d8810c10b/2361230029-500.jpg" data-tags="eurovision, pop" role="button">
