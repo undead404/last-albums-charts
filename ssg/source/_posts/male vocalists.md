@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T23:25:01.217Z
+date: 2021-04-04T02:54:01.271Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -33,10 +33,10 @@ Del Amitri - Twisted (1995-02-28)
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
-<li data-cover="https://img.discogs.com/hRjEZRqC3Bh2WWbOs2VQ5ZFoyoc=/fit-in/500x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2997199-1579238129-6188.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
+<li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="https://img.discogs.com/BYrRvmwDWEgqhFGsSii9CxtgiZs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1277652-1457476770-7073.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/Huj-3hhR3RV6MvojZF3Bjx0FTEY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13088141-1547841438-1652.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
 Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="male vocalists, new jack swing, faves, rap and hip hop, blackstreet, new songs" role="button">
@@ -81,7 +81,7 @@ Hot Chip - Coming on Strong (2004-05-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock, male vocalists" role="button">
 McFly - Room on the 3rd Floor (2004-07-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="robbie williams, pop" role="button">
+<li data-cover="https://img.discogs.com/VWiA-jiSRLvMmF8jpyrMhZ1lovE=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546194-1289817660.jpeg.jpg" data-tags="robbie williams, pop" role="button">
 Robbie Williams - Greatest Hits (2004-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/aac73402-efd7-440b-be44-43183aa48f0d/28019403744-500.jpg" data-tags="pop" role="button">
@@ -117,7 +117,7 @@ Robbie Williams - Intensive Care (2005-10-20)
 <li data-cover="http://coverartarchive.org/release/5ec29d87-ad4b-48ab-98b5-13ff6cffdc5c/10717310269-500.jpg" data-tags="country, male vocalists, country music" role="button">
 Jace Everett - Jace Everett (2005-11-22)
 </li>
-<li data-cover="https://img.discogs.com/Y50-fvFuI1kOVdSPgY3Fs5Wp4rM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631942-1301164953.jpeg.jpg" data-tags="indie, indie rock" role="button">
+<li data-cover="https://img.discogs.com/0gHuTNiSB86CcDPGzwcxwNgElYo=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612218-1342467380-7833.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Arctic Monkeys - When the Sun Goes Down (2005-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/82ea1d21-2a81-408d-8645-b822ff061314/13200772331-500.jpg" data-tags="electrotasty" role="button">
@@ -131,6 +131,9 @@ The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
+Keane - Under the Iron Sea (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
@@ -153,9 +156,6 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
-Caribou - Andorra (2007-08-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
 </li>
@@ -177,6 +177,9 @@ Kings of Leon - Only by the Night (2008-09-19)
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
+Snow Patrol - A Hundred Million Suns (2008-10-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/1fdff2a1-1bdf-499a-a50c-e5d742958094/10875910782-500.jpg" data-tags="rock, alternative rock" role="button">
 David Cook - David Cook (2008-11-18)
 </li>
@@ -189,7 +192,7 @@ Mat Kearney - City Of Black & White (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/1ed7f5e9-d17c-4681-8854-6acdedc1e33b/6941293043-500.jpg" data-tags="folk" role="button">
 Timber Timbre - Timber Timbre (2009-06-30)
 </li>
-<li data-cover="https://img.discogs.com/mS2bzoEto4FmWsVDWscmAkBCvzU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13107797-1548508084-3447.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/6cPJqcC2X31gOA3sQU2Ggvrx3Lc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1887452-1250204748.jpeg.jpg" data-tags="rock" role="button">
 Arctic Monkeys - Crying Lightning (2009-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
@@ -270,9 +273,6 @@ Passenger - All the Little Lights (2012-02-24)
 <li data-cover="http://coverartarchive.org/release/0e46aa43-75b9-4792-9424-d091afa5f93b/6032835251-500.jpg" data-tags="2012" role="button">
 Arctic Monkeys - R U Mine? (2012-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/94fdd9eb-5394-4ca0-b12f-c4aff9660707/871610070-500.jpg" data-tags="alternative rock" role="button">
-Jason Mraz - Love Is A Four Letter Word (2012-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/b53e4314-b216-490b-b49f-911efeb6e2f0/4313790976-500.jpg" data-tags="pop, british, britpop, singer-songwriter" role="button">
 Robbie Williams - Candy (2012-09-11)
 </li>
@@ -315,7 +315,7 @@ SOHN - Tremors (2014-04-07)
 <li data-cover="http://coverartarchive.org/release/eaaf6a56-ee73-4227-812e-933eb0ec13a9/8574962668-500.jpg" data-tags="male vocalists" role="button">
 Pitbull - Fireball (2014-07-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, australian, youtube, male vocalists" role="button">
+<li data-cover="https://img.discogs.com/fi4jZ9ztLE3D36kuxCBPcZoQbAE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6857298-1428100499-3255.jpeg.jpg" data-tags="pop, australian, youtube, male vocalists" role="button">
 Troye Sivan - Happy Little Pill (2014-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8fe33d4-31a6-4394-941c-45fac8834322/8544237713-500.jpg" data-tags="pop, pop rock" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:16:01.201Z
+date: 2021-04-04T03:36:06.612Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Flogging Molly - Drunken Lullabies (2002-03-19)](http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg "Flogging Molly - Drunken Lullabies (2002-03-19)")
@@ -21,13 +21,19 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, 60s" role="button">
+Van Morrison - Astral Weeks (1968-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s, singer-songwriter, woodstock sounds" role="button">
+Van Morrison - His Band and The Street Choir (1970-10)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="blues rock, classic rock, blues" role="button">
 Rory Gallagher - Rory Gallagher (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/861b7aff-0ce6-47cc-b5f2-b6be19bd3abc/11393785643-500.jpg" data-tags="hard rock, irish" role="button">
 Thin Lizzy - Thin Lizzy (1971-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
+<li data-cover="https://img.discogs.com/SBryxM2DqyTdCJbF4rMHO_ghET4=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6687349-1424819915-1060.jpeg.jpg" data-tags="classic rock" role="button">
 Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
@@ -69,6 +75,9 @@ Clannad - Macalla (1985)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 60s, sunshine pop, irish, bubblegum, ageofaquarius63, doofusgoofus" role="button">
+The Cowsills - The Best Of The Cowsills (1988)
+</li>
 <li data-cover="https://img.discogs.com/v0hIr7vDyXjRKtS19EkkTOWPUfU=/fit-in/600x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-948871-1400406370-4362.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
@@ -99,9 +108,6 @@ Christy Moore - LIVE AT THE POINT (1994)
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/b52bf855-f75e-4c93-8d3d-7c5551f1bb76/14552277066-500.jpg" data-tags="rock, alternative, alternative rock, shoegaze, irish" role="button">
-Whipping Boy - Heartworm (1995-10-23)
-</li>
 <li data-cover="https://img.discogs.com/lxM6T7-ly0GhewxS23URDH07QZc=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5362095-1399930491-9304.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
 The Corrs - Forgiven, Not Forgotten (1996-02-02)
 </li>
@@ -129,9 +135,6 @@ B*Witched - B*Witched (1998-10-12)
 <li data-cover="http://coverartarchive.org/release/3b886671-04bb-4e6f-bc02-310823641fe9/9041409104-500.jpg" data-tags="rock, u2, classic rock" role="button">
 U2 - The Best of 1980-1990 (1998-10-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="irish, celtic" role="button">
-The Irish Rovers - The Best Of The Irish Rovers (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/108f2db5-8c8a-411c-9d10-cffa5969b349/3333907443-500.jpg" data-tags="punk" role="button">
 Dropkick Murphys - The Gang's All Here (1999-03-02)
 </li>
@@ -143,9 +146,6 @@ Westlife - Westlife (1999-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc1f2430-bdd5-4070-95a1-58fe9067811b/3600810436-500.jpg" data-tags="folk, pop, irish" role="button">
 The Corrs - Unplugged (1999-11-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, irish, i love it, cranberries, hmmmm" role="button">
-The Cranberries - The Very Best (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c27a860-f4f1-323f-9722-f3afd2114e4a/4773484086-500.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Swagger (2000-03-07)
@@ -261,10 +261,10 @@ U2 - Live From Paris (2008-07-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="the script" role="button">
 The Script - The Man Who Can't Be Moved (2008-07-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, female vocalists, singer-songwriter, indie" role="button">
+<li data-cover="https://img.discogs.com/aiVvspzzf0mNd9A_xGlClkEesig=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1669654-1567298142-1446.png.jpg" data-tags="folk, female vocalists, singer-songwriter, indie" role="button">
 Lisa Hannigan - Sea Sew (2008-09-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, female vocalist" role="button">
+<li data-cover="https://img.discogs.com/iMr4EtTmLjmeBSFTYJ31dNqmXdI=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716560-1417511195-4062.jpeg.jpg" data-tags="female vocalists, female vocalist" role="button">
 Sara Bareilles - Between The Lines: Sara Bareilles Live At The Fillmore (2008-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/650ed589-c6c2-3bdf-a132-e781020bcbff/1736631743-500.jpg" data-tags="rock" role="button">

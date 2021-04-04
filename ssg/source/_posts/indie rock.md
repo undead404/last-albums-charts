@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:59:01.252Z
+date: 2021-04-04T03:38:01.453Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -92,6 +92,9 @@ Razorlight - Up All Night (2004-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf92d8e3-eaf4-4e10-b77a-81064a810cb0/8129222906-500.jpg" data-tags="indie rock" role="button">
 Kasabian - Kasabian (2004-08-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, dance punk, rock" role="button">
+Death from Above 1979 - You're A Woman, I'm A Machine (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
@@ -293,9 +296,6 @@ Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/441adaa8-20b9-48f0-9c3c-ae7f264d3271/13109592638-500.jpg" data-tags="indie rock, imagine dragons, indie" role="button">
-Imagine Dragons - Continued Silence EP (2012-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)

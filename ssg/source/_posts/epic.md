@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:30:01.354Z
+date: 2021-04-04T03:25:01.208Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -27,8 +27,8 @@ Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
 <li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
 John Coltrane - A Love Supreme (1965-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, meat loaf" role="button">
-Meat Loaf - Bat Out Of Hell (1977)
+<li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
+Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
 Queen - News Of The World (1977-10-28)
@@ -57,9 +57,6 @@ Summoning - Minas Morgul (1995-10-16)
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age, enigma, ambient" role="button">
-Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/524c5a17-1f08-4d05-8bb5-bed5735dd96e/8073215669-500.jpg" data-tags="indie rock" role="button">
 Built to Spill - Perfect From Now On (1997-01-28)
 </li>
@@ -80,9 +77,6 @@ Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/f477086a-4bda-4855-8360-06752f1159f8/12525987749-500.jpg" data-tags="epic, 90s, brasil, live, brazilian rock, legiao urbana" role="button">
 Legião Urbana - Como é que se diz eu te amo (2001-03)
-</li>
-<li data-cover="https://img.discogs.com/7yhV1v0TDtmy_RrkWjA3NK7Cjjw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11368436-1515497346-2076.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
-Summoning - Let Mortal Heroes Sing Your Fame (2001-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2dec60d0-00a4-4ffd-ae4b-69e86f0601dc/2788181181-500.jpg" data-tags="fantasy, ethereal, darkwave, world fusion, female vocalists" role="button">
 Irfan - IRFAN (2003)
@@ -123,7 +117,7 @@ Why? - Elephant Eyelash (2005-10-04)
 <li data-cover="https://img.discogs.com/BLDys9EW5ZBJTLCPLsVhqGWNTWA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1823932-1245786549.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-500.jpg" data-tags="symphonic metal, epic metal, power metal" role="button">
@@ -162,7 +156,7 @@ Muse - HAARP (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff4c762d-ce33-423c-95d3-a09accd3b155/11432456532-500.jpg" data-tags="chill, progressive metal, prog, epic, boogie on down, not of this world, instrumental prog metal, god tier chill, legends of chill" role="button">
@@ -173,9 +167,6 @@ Mastodon - Crack the Skye (2009-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2caa5d2e-3729-4177-b07d-1e14f033d3c1/7393338289-500.jpg" data-tags="indie rock, progressive rock" role="button">
 As Cities Burn - Hell Or High Water (2009-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d290678-9d83-493e-b686-91a7351d70a7/2627971442-500.jpg" data-tags="ethereal, j-pop, yuki kajiura" role="button">
-Kalafina - Seventh Heaven (2009-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
@@ -252,8 +243,8 @@ Sufjan Stevens - The Age of Adz (2010-10-11)
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/f53a715b-ba92-4836-9192-5cab7c3abeb2/3223340863-500.jpg" data-tags="experimental, post-rock" role="button">
-Codes In The Clouds - As The Spirit Wanes (2011-01-14)
+<li data-cover="http://coverartarchive.org/release/84b25d29-4d51-4c2c-9f2b-137c58388fba/4492086066-500.jpg" data-tags="pop" role="button">
+Britney Spears - Hold It Against Me (2011-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de593ea-432e-4cec-addc-2a3ec28079ad/1708845679-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Goodbye Lullaby (2011-03-02)
@@ -273,14 +264,17 @@ The Rapture - How Deep Is Your Love? (2011-06)
 <li data-cover="http://coverartarchive.org/release/0f4bc096-5241-4160-b9b3-1e07e6262e40/5777589331-500.jpg" data-tags="post-rock, epic" role="button">
 *shels - Plains of the Purple Buffalo (2011-07-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdeb4647-5774-429a-88e3-da375cb540e1/8258911638-500.jpg" data-tags="classical, instrumental, epic, world, new age, symphonic metal, cd, neo-classical rock, album to check again" role="button">
-Globus - Break From This World (2011-08-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
+Marina & the Diamonds - Electra Heart (2012-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
+Chromatics - Kill for Love (2012-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f76db1d-4c84-48b1-b189-0d065ae3d79e/11644026853-500.jpg" data-tags="electronic, indie" role="button">
 Woodkid - Run Boy Run (2012-05-21)
@@ -300,8 +294,14 @@ Robbie Williams - Take The Crown (2012-11-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="chill, math rock, progressive metal, progressive rock, prog, epic, hot chocolate, not of this world, instrumental prog metal, god tier chill, legends of chill, not a word was spoken" role="button">
 CHON - Newborn Sun (2013-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f332dc1-bc91-422d-9f83-a95d0a818d61/17661352244-500.jpg" data-tags="electronic, dubstep, remix" role="button">
-Linkin Park - Recharged (2013-10-25)
+<li data-cover="http://coverartarchive.org/release/90529fbf-9972-49a8-ac03-4319d55a5277/5388170358-500.jpg" data-tags="pop, soul" role="button">
+John Newman - Tribute (2013-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
+Katy Perry - PRISM (2013-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/eec4bf03-c26a-48b8-ac6e-8948d4236c3a/6270680266-500.jpg" data-tags="pop" role="button">
+Lady Gaga - Venus (2013-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)

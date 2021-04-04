@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:23:01.215Z
+date: 2021-04-04T03:06:01.233Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -93,6 +93,9 @@ Queen - A Night at the Opera (1975-11-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Boston - Boston (1976-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/2c88f0ea-8d18-4207-87c3-9c5057198bf1/10058122210-500.jpg" data-tags="progressive rock" role="button">
+Kansas - Leftoverture (1976-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
@@ -167,9 +170,6 @@ Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Tool - Ænima (1996-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/0990da86-916e-38d4-aa1c-7e2968703f97/22738717948-500.jpg" data-tags="progressive rock" role="button">
-Porcupine Tree - Signify (1996-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a51b23b-4594-4abe-8c69-19b8cfa49184/8630651837-500.jpg" data-tags="doom metal, progressive rock, progressive metal" role="button">
 Anathema - Alternative 4 (1998-06-17)

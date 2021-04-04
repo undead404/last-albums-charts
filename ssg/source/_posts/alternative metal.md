@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:11:01.215Z
+date: 2021-04-04T03:41:01.264Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![Slipknot - All Hope Is Gone (2008-08-20)](https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg "Slipknot - All Hope Is Gone (2008-08-20)")
@@ -32,6 +32,9 @@ Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
+</li>
+<li data-cover="https://img.discogs.com/HjtlT-8YdluGQkJRxxpJMVGX2UU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3103302-1315903982.jpeg.jpg" data-tags="alternative metal" role="button">
+Helmet - Meantime (1992-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
 Tool - Undertow (1993-04-06)
@@ -108,7 +111,7 @@ Alien Ant Farm - Anthology (2001-03-06)
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
 Tool - Lateralus (2001-05-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
 Staind - Break the Cycle (2001-05-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
@@ -120,7 +123,7 @@ Slipknot - Iowa (2001-08-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
+<li data-cover="http://coverartarchive.org/release/6501d73a-ed76-4a7f-b8c0-2dcc255509ce/6163003116-500.jpg" data-tags="alternative metal" role="button">
 Soil - Scars (2001-09-11)
 </li>
 <li data-cover="https://img.discogs.com/iXhCbYKucXwX01SANUCdwZ3zpFE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622208-1598632234-7202.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
@@ -311,9 +314,6 @@ Deftones - Koi No Yokan (2012-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
 Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/75f44d76-a304-46c2-8dab-9d5912ab7dc4/7454084925-500.jpg" data-tags="alternative metal" role="button">
-Alter Bridge - Fortress (2013-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
 Linkin Park - The Hunting Party (2014-06-13)
