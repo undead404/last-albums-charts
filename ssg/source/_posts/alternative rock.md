@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:29:07.264Z
+date: 2021-04-04T08:49:01.317Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd797f26-ddc1-43ae-8950-1757e28753cb/7646216656-500.jpg" data-tags="90s, alternative rock, rock" role="button">
-R.E.M. - Out of Time (1991-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Ten (1991-08-27)
@@ -59,9 +56,6 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
-Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Without You I'm Nothing (1998-10-12)
@@ -122,6 +116,9 @@ Coldplay - A Rush of Blood to the Head (2002-08-12)
 </li>
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Songs for the Deaf (2002-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
+30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Sleeping with Ghosts (2003-01-08)
@@ -203,6 +200,9 @@ The All-American Rejects - Move Along (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
 Placebo - Meds (2006-03-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e2e513ef-b507-4319-9cb1-0f8be3cd561e/4563170382-500.jpg" data-tags="alternative rock" role="button">
+Angels & Airwaves - We Don't Need to Whisper (2006-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Three Days Grace - One-X (2006-06-13)

@@ -1,16 +1,16 @@
 ---
-date: 2021-04-04T06:07:01.226Z
+date: 2021-04-04T08:52:01.594Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Flogging Molly - Drunken Lullabies (2002-03-19)](http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg "Flogging Molly - Drunken Lullabies (2002-03-19)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/v0hIr7vDyXjRKtS19EkkTOWPUfU=/fit-in/600x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-948871-1400406370-4362.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)</li>
+<li data-cover="https://img.discogs.com/W8A4v5z88ipMQ4n14waX-E5rgY8=/fit-in/543x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841631-1359313838-7780.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">The Cranberries - No Need to Argue (1994-09)</li>
-<li data-cover="https://img.discogs.com/uSFfb8FH9rL5Et1OR_oiCEfufoI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14059264-1567034490-9146.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">The Cranberries - Bury The Hatchet (1999-04-19)</li>
+<li data-cover="https://img.discogs.com/zonqhzeLNgC07fqdcsZ5OrZ7h8k=/fit-in/565x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7768449-1448613040-9659.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">The Cranberries - Bury The Hatchet (1999-04-19)</li>
 <li data-cover="http://coverartarchive.org/release/9c27a860-f4f1-323f-9722-f3afd2114e4a/4773484086-500.jpg" data-tags="irish, punk" role="button">Flogging Molly - Swagger (2000-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg" data-tags="irish, punk" role="button">Flogging Molly - Drunken Lullabies (2002-03-19)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="irish, punk" role="button">Flogging Molly - Within a Mile of Home (2004-09-14)</li>
+<li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">Flogging Molly - Within a Mile of Home (2004-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">Dropkick Murphys - The Warrior's Code (2005-06-15)</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">Róisín Murphy - Overpowered (2007-05)</li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">The Script - Science & Faith (2010-09-13)</li>
@@ -39,7 +39,7 @@ Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
 </li>
-<li data-cover="https://img.discogs.com/LdWvbgL7F4VZYCmKD8GcwZea6CE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760825-1298491383.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/GMOqIE6U3wS6CuZhxQjxl3Zc210=/fit-in/439x434/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4465709-1365642250-3390.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Thin Lizzy - Vagabonds of the Western World (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/85dfbc75-c389-4c36-a0f2-4d7b41723478/11412752699-500.jpg" data-tags="hard rock" role="button">
@@ -60,14 +60,11 @@ U2 - War (1983-02-28)
 <li data-cover="http://coverartarchive.org/release/74e6f17b-f10f-3b17-a32f-8168b7cd377b/28078884733-500.jpg" data-tags="rock" role="button">
 U2 - Under A Blood Red Sky (1983-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="irish" role="button">
+<li data-cover="https://img.discogs.com/i-whs8CmWClzVz64pYewPjutsy8=/fit-in/237x213/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8618414-1465250648-6914.png.jpg" data-tags="irish" role="button">
 Christy Moore - Ride On (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/b268f8c3-a6ee-359f-8804-b2d2eba6f673/8126647993-500.jpg" data-tags="rock" role="button">
 U2 - The Unforgettable Fire (1984-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb533884-3d66-4945-955e-3c57e629b316/3722741186-500.jpg" data-tags="celtic, new age" role="button">
-Clannad - Macalla (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/75426382-d7f5-458e-b50d-370a21c430c9/10253435044-500.jpg" data-tags="new age" role="button">
 Enya - Enya (1986)
@@ -75,7 +72,13 @@ Enya - Enya (1986)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
 </li>
-<li data-cover="https://img.discogs.com/v0hIr7vDyXjRKtS19EkkTOWPUfU=/fit-in/600x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-948871-1400406370-4362.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
+<li data-cover="http://coverartarchive.org/release/4bfd1a30-268b-40ea-a675-1c6bb875e932/21762452337-500.jpg" data-tags="celtic" role="button">
+The Pogues - If I Should Fall From Grace With God (1988-01-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="irish" role="button">
+The Waterboys - Fisherman's Blues (1989-01-07)
+</li>
+<li data-cover="https://img.discogs.com/W8A4v5z88ipMQ4n14waX-E5rgY8=/fit-in/543x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841631-1359313838-7780.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb873617-caa5-43f9-8cdb-9cd02e17163a/15595471977-500.jpg" data-tags="irish, irish folk, folk" role="button">
@@ -102,7 +105,7 @@ The Cranberries - No Need to Argue (1994-09)
 <li data-cover="http://coverartarchive.org/release/c96068a9-9d40-3756-b624-a0a7e94cf0e4/22180420062-500.jpg" data-tags="new age, celtic" role="button">
 Enya - The Memory of Trees (1995-11-21)
 </li>
-<li data-cover="https://img.discogs.com/lxM6T7-ly0GhewxS23URDH07QZc=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5362095-1399930491-9304.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
+<li data-cover="https://img.discogs.com/tDcA9IOU66Qobh5urjCqmuvRP0I=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1955126-1426218437-4673.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
 The Corrs - Forgiven, Not Forgotten (1996-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3139e3a4-a7e7-40ee-a124-2d2830971c4e/14483468542-500.jpg" data-tags="indie, rock, alternative, irish, irish music" role="button">
@@ -135,7 +138,7 @@ U2 - The Best of 1980-1990 (1998-10-28)
 <li data-cover="http://coverartarchive.org/release/108f2db5-8c8a-411c-9d10-cffa5969b349/3333907443-500.jpg" data-tags="punk" role="button">
 Dropkick Murphys - The Gang's All Here (1999-03-02)
 </li>
-<li data-cover="https://img.discogs.com/uSFfb8FH9rL5Et1OR_oiCEfufoI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14059264-1567034490-9146.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
+<li data-cover="https://img.discogs.com/zonqhzeLNgC07fqdcsZ5OrZ7h8k=/fit-in/565x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7768449-1448613040-9659.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 The Cranberries - Bury The Hatchet (1999-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b8f11a0-ea81-44d0-a79b-726506b8e6b3/22647463025-500.jpg" data-tags="westlife, pop" role="button">
@@ -153,19 +156,19 @@ The Tossers - Long Dim Road (2000-05-16)
 <li data-cover="http://coverartarchive.org/release/feb68dfa-d6cd-4510-954f-7f6f33d996b7/9778545546-500.jpg" data-tags="rock, reamonn" role="button">
 Reamonn - Tuesday (2000-05-29)
 </li>
-<li data-cover="https://img.discogs.com/8zw1QCA-jTd-GicC6vYgpYW6wZo=/fit-in/578x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5810450-1403300044-4912.jpeg.jpg" data-tags="irish, 00s" role="button">
+<li data-cover="https://img.discogs.com/98PBEItYQtvgo5i3j5PPOTr2fZ8=/fit-in/535x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445887-1330696286.jpeg.jpg" data-tags="irish, 00s" role="button">
 Sinéad O'Connor - Faith and Courage (2000-06-13)
 </li>
-<li data-cover="https://img.discogs.com/k_8U6aG1blLk6ubb8yjpLC50tzw=/fit-in/600x698/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12779486-1541788372-6666.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/SFPzHAzX4ah4IFjPf-JRPl37kXU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-951267-1428563434-2020.jpeg.jpg" data-tags="pop" role="button">
 The Corrs - In Blue (2000-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ad25a36-8eda-3abd-ab57-b1db6cbfe0e7/27458441899-500.jpg" data-tags="pop" role="button">
 Ronan Keating - Ronan (2000-07-21)
 </li>
-<li data-cover="https://img.discogs.com/Mc4VQjSmK_Ggix1ANr1W6L4gmEU=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125629-1281706221.jpeg.jpg" data-tags="pop, dance" role="button">
+<li data-cover="https://img.discogs.com/jPxobYClW9cUSZGg2ceFcBZ3_l0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-121824-1281705849.jpeg.jpg" data-tags="pop, dance" role="button">
 Samantha Mumba - Gotta Tell You (2000-08-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/6fPIHwZMKFkV3URkXio12RZcE_A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-424360-1111542397.jpg.jpg" data-tags="indie" role="button">
 JJ72 - JJ72 (2000-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0cb6120-ad2e-4694-847f-664083bdc0e4/26537178398-500.jpg" data-tags="coast to coast, westlife, pop" role="button">
@@ -180,7 +183,7 @@ The Frames - For The Birds (2001-04-02)
 <li data-cover="http://coverartarchive.org/release/e5119f27-ef7f-392f-8d93-790a7b62ef59/19311203167-500.jpg" data-tags="rock" role="button">
 The Cranberries - Wake Up and Smell the Coffee (2001-10-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, irish, male vocalist, complete crap, dim, driving pop, mobloguk, ronan keating  -  destination" role="button">
+<li data-cover="https://img.discogs.com/9XAcjbi0LqNPb6e7-QIvYo8CdPs=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3077140-1534721784-8132.png.jpg" data-tags="pop, irish, male vocalist, complete crap, dim, driving pop, mobloguk, ronan keating  -  destination" role="button">
 Ronan Keating - Destination (2002)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="westlife, westlife world of our own" role="button">
@@ -213,7 +216,7 @@ Damien Rice - B-Sides (2004-08-03)
 <li data-cover="http://coverartarchive.org/release/790bd439-4ea8-4511-85a5-5b76a670c4a5/16250537668-500.jpg" data-tags="indie rock" role="button">
 The Thrills - Let's Bottle Bohemia (2004-09-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="irish, punk" role="button">
+<li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Within a Mile of Home (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7672ca3-e0f4-4701-94ad-9dc4c0043b8f/25419446052-500.jpg" data-tags="alternative rock" role="button">
@@ -222,7 +225,7 @@ The Frames - Burn the Maps (2004-09-17)
 <li data-cover="http://coverartarchive.org/release/1eccc76d-a24a-3066-ab4f-85e2efffb251/7947210173-500.jpg" data-tags="rock, u2" role="button">
 U2 - How to Dismantle an Atomic Bomb (2004-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists, avant pop" role="button">
+<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
 Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">
@@ -239,9 +242,6 @@ Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d368cd8d-f91c-4ffc-b4d4-5fb47213c8ac/17254341663-500.jpg" data-tags="celtic punk, folk punk" role="button">
 Dropkick Murphys - The Meanest of Times (2007-09-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, rock, indiepop, irish folk, full streamable albums" role="button">
-Wallis Bird - Spoons (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/82dc3ab4-361e-3b29-973d-f7f1abf1c436/13912011180-500.jpg" data-tags="black metal, pagan metal" role="button">
 Primordial - To the Nameless Dead (2007-11-16)
@@ -285,7 +285,7 @@ Enya - The Very Best of Enya (2009-11-20)
 <li data-cover="http://coverartarchive.org/release/2e748702-5e75-4a8a-8526-d0311a89d616/11826807120-500.jpg" data-tags="pop, irish, boybands" role="button">
 Westlife - Where We Are (2009-11-30)
 </li>
-<li data-cover="https://img.discogs.com/ILH1286lsrEg07jnVaY2uPkJIDk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4099250-1356929121-2681.jpeg.jpg" data-tags="folk, irish punk" role="button">
+<li data-cover="https://img.discogs.com/0EjyN9gwmpT9lgau73xUI1cBBs8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9677067-1616113193-5665.jpeg.jpg" data-tags="folk, irish punk" role="button">
 Flogging Molly - Live At The Greek Theatre (2010-02-23)
 </li>
 <li data-cover="https://img.discogs.com/ueyeKRiYHj1JYkO3qq17w3qm7lo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2277480-1460143032-4587.jpeg.jpg" data-tags="indie, boughtlist2010" role="button">

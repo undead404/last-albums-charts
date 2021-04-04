@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:10:01.240Z
+date: 2021-04-04T08:54:01.259Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -32,9 +32,6 @@ Rod Stewart - Atlantic Crossing (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/361fc46d-c888-445b-94af-bd0ff8a2e109/4732234980-500.jpg" data-tags="70s, rock" role="button">
 David Bowie - Young Americans (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/5904320c-f3ca-4320-bade-58215eda3e0c/1637049317-500.jpg" data-tags="70s" role="button">
-Elton John - Rock Of The Westies (1975-10-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
 Dire Straits - Dire Straits (1978-06-02)
@@ -81,7 +78,7 @@ Jamiroquai - Travelling Without Moving (1996-09-09)
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
 </li>
-<li data-cover="https://img.discogs.com/Ax_bZ6h8wyTDBUwUTVfKuGJXPLc=/fit-in/591x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14534599-1576526750-6048.jpeg.jpg" data-tags="progressive rock, uk, symphonic rock, 90s, compilation, laptop, english group, t m blues" role="button">
+<li data-cover="https://img.discogs.com/8EMQHLE5h6CzSausqSsp7PjbqCc=/fit-in/600x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9475836-1513592451-2145.jpeg.jpg" data-tags="progressive rock, uk, symphonic rock, 90s, compilation, laptop, english group, t m blues" role="button">
 The Moody Blues - The Very Best of The Moody Blues (1996-10-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
@@ -132,6 +129,9 @@ Blur - Think Tank (2002)
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb4d834e-c21a-4288-bbee-d9b86c6c3f8b/3772697596-500.jpg" data-tags="downtempo, jazz" role="button">
+The Cinematic Orchestra - Every Day (2002-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
@@ -150,16 +150,13 @@ Morrissey - You Are The Quarry (2004-05-03)
 <li data-cover="http://coverartarchive.org/release/ac140944-91f4-4035-bc46-187769f78e27/12401523730-500.jpg" data-tags="alternative, chamber pop, baroque pop" role="button">
 The Divine Comedy - Absent Friends (2004-06-14)
 </li>
-<li data-cover="https://img.discogs.com/76iDfcOdo3T6EVuxMLh6F0f0qAo=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2068634-1399311003-6017.jpeg.jpg" data-tags="alternative, indie rock" role="button">
-Editors - Bullets (2005-01-24)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, britpop" role="button">
 Starsailor - On The Outside (2005-10-14)
 </li>
-<li data-cover="https://img.discogs.com/8V5whur219Nvp63IwDsFXW-58TQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-523379-1575244390-4883.jpeg.jpg" data-tags="singer-songwriter, 00s" role="button">
+<li data-cover="https://img.discogs.com/mUAnfF6IFV0yK3Ft4S041WCce3w=/fit-in/469x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-574393-1201446700.jpeg.jpg" data-tags="singer-songwriter, 00s" role="button">
 Richard Hawley - Coles Corner (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/73c90aa6-3a82-3429-829a-7e319862232e/10436369674-500.jpg" data-tags="indie, british" role="button">
@@ -176,9 +173,6 @@ Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
-Oasis - Stop the Clocks (2006-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
@@ -201,6 +195,12 @@ Air Traffic - Fractured Life (2007-07-02)
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+M.I.A. - Kala (2007-08-08)
+</li>
+<li data-cover="https://img.discogs.com/FTTHg_Y2yuJm1djbSgGyuWeRLK0=/fit-in/453x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1915053-1252171973.jpeg.jpg" data-tags="rock, alternative, uk, acoustic, atmospheric, turin brakes, folk rock, my gang, my gang 08, reviewed in the guardian, my2008, grade a, fiftyplain" role="button">
+Turin Brakes - Dark On Fire (2007-09-17)
+</li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
 </li>
@@ -216,13 +216,13 @@ Katie Melua - The Katie Melua Collection (2008-10-27)
 <li data-cover="http://coverartarchive.org/release/80529b35-4d5b-4b6a-a101-124737b8d96c/15828000640-500.jpg" data-tags="indie, rock, alternative, 00s indie, indie rock, 00s" role="button">
 Razorlight - Slipway Fires (2008-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/fb2653a0-09ae-4fed-9684-545ef2941cc1/7693611149-500.jpg" data-tags="pop, british, uk, female vocalist, 00s, laptop, english, nice album art, cds i know i love" role="button">
+<li data-cover="http://coverartarchive.org/release/fb2653a0-09ae-4fed-9684-545ef2941cc1/7693611149-500.jpg" data-tags="pop, british, uk, female vocalist, 00s, english, nice album art, cds i know i love" role="button">
 Alesha Dixon - The Alesha Show (2008-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3fd2cf8-068a-4990-ab98-20bf30a3ef6d/23270034564-500.jpg" data-tags="indie, british, indie rock" role="button">
 The Joy Formidable - A Balloon Called Moaning (2008-12-17)
 </li>
-<li data-cover="https://img.discogs.com/nF9bZaO-ZkAnhCjS2ob_tSgxn1U=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1742268-1360662462-2807.jpeg.jpg" data-tags="british, uk, experimental rock, britannique" role="button">
+<li data-cover="https://img.discogs.com/cdME9ogwCFjzneZRa6xwKUCJ13s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3843600-1346600405-8970.jpeg.jpg" data-tags="british, uk, experimental rock, britannique" role="button">
 Super Furry Animals - Dark Days/Light Years (2009-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f48b7db-b2a9-4122-a631-4b49321c9af0/10270263185-500.jpg" data-tags="indie" role="button">
@@ -231,14 +231,11 @@ Fanfarlo - Reservoir (2009-06-08)
 <li data-cover="http://coverartarchive.org/release/6cde7482-d217-48af-b46b-3161cfd089b4/16043440516-500.jpg" data-tags="indie rock" role="button">
 Wild Beasts - Two Dancers (2009-08-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="british, alternative rock, uk, very british, memorial, britannique, self-released, not on my computer anymore" role="button">
+<li data-cover="https://img.discogs.com/xztDY2vVnT5UAi-rcmqXh7gZpAQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906637-1354623808-6956.jpeg.jpg" data-tags="british, alternative rock, uk, very british, memorial, britannique, self-released, not on my computer anymore" role="button">
 Radiohead - Harry Patch (In Memory Of) (2009-08-05)
 </li>
 <li data-cover="https://img.discogs.com/mTi9bBoVjAX4TqxdxLH3EhLLqu8=/fit-in/595x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1996333-1257597527.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
-Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d69e9013-4413-4051-92c8-1741b4534259/8127539569-500.jpg" data-tags="jazz" role="button">
 Jamie Cullum - The Pursuit (2009-11-13)
@@ -305,6 +302,9 @@ Laura Marling - Once I Was An Eagle (2013-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a708edc-1239-4957-8061-4c61692ac646/5233341702-500.jpg" data-tags="indie, alternative rock, indie pop, indie rock, uk, friend recommended,  shoegaze" role="button">
 Swim Deep - Where the Heaven Are We (2013-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/eb21b18b-a4d0-4990-89ed-2727a0bef2d7/5572801637-500.jpg" data-tags="pop rock" role="button">
+James Blunt - Moon Landing (2013-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6480be-d53a-4c46-bb7c-c5187ab99ff5/8207839327-500.jpg" data-tags="indie, british" role="button">
 The Kooks - Listen (2014-01-01)

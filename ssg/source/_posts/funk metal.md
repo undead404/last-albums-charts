@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:31:01.141Z
+date: 2021-04-04T08:58:01.294Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Primus - Sailing The Seas Of Cheese (1991-05-14)](http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg "Primus - Sailing The Seas Of Cheese (1991-05-14)")
@@ -33,7 +33,7 @@ Faith No More - We Care a Lot (1985)
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
+<li data-cover="https://img.discogs.com/RyjQvWuGyAVMl0Q1JV6X4qtNyEU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1307399-1424914171-5164.jpeg.jpg" data-tags="experimental" role="button">
 Mr. Bungle - Bowel of Chiley (1987)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, funk metal" role="button">
@@ -60,7 +60,7 @@ Bad Brains - The Youth Are Getting Restless (1990-05-10)
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - Lights... Camera... Revolution! (1990-07-03)
 </li>
-<li data-cover="https://img.discogs.com/bHFKHnc5I21o-oWdg_3Jje0h3kc=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-630981-1295387419.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
+<li data-cover="https://img.discogs.com/Czjx-Evs1ry3YEs-pyzuOBH6kqY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5915276-1406214919-8685.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
 Living Colour - Time's Up (1990-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/35a28722-a9ed-3bcd-975d-2a3fede3907b/5891797788-500.jpg" data-tags="hard rock" role="button">
@@ -75,7 +75,7 @@ Mr. Bungle - Mr. Bungle (1991-08-13)
 <li data-cover="http://coverartarchive.org/release/7e2c82ba-9ba4-4827-9a22-bcd7844f1a0b/7919566324-500.jpg" data-tags="hard rock, funk metal, wants, dr b tags" role="button">
 Ugly Kid Joe - As Ugly As They Wanna Be (1991-10-15)
 </li>
-<li data-cover="https://img.discogs.com/i9p8PXEl63ewZpVnbhhaT5UEHq8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10823300-1508266393-9583.jpeg.jpg" data-tags="primus, cover" role="button">
+<li data-cover="https://img.discogs.com/iC-Ikn0O8FhHOvItwMp3QkvAzvo=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1609168-1285912826.jpeg.jpg" data-tags="primus, cover" role="button">
 Primus - Miscellaneous Debris (1992-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
@@ -90,7 +90,10 @@ Praxis - Transmutation (Mutatis Mutandis) (1992-09-08)
 <li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
 4 Non Blondes - Bigger, Better, Faster, More! (1992-10-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk metal, rock" role="button">
+<li data-cover="https://img.discogs.com/rmZV3SP6fTF6UEK0Lw66yjbnMm0=/fit-in/600x635/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15223219-1588329994-4156.jpeg.jpg" data-tags="funk, funk metal" role="button">
+Infectious Grooves - Sarsippius' Ark (1993-02-09)
+</li>
+<li data-cover="https://img.discogs.com/uFsvsXPDcTVMLCHjduyXHbQakR0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2577412-1291341721.jpeg.jpg" data-tags="funk metal, rock" role="button">
 Living Colour - Stain (1993-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
@@ -156,11 +159,14 @@ Slipknot - Mate. Feed. Kill. Repeat. (1996-10-31)
 <li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
 Snot - Get Some (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/094da86c-017e-407d-a248-23abcaeca205/7167364978-500.jpg" data-tags="90s" role="button">
-Frankie hi-nrg mc - La morte dei miracoli (1997)
-</li>
-<li data-cover="https://img.discogs.com/vyQWHjqez5G_6CQbqagAf3JM1Yc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3581950-1336159275.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
+<li data-cover="https://img.discogs.com/5O5BuMP3o7ymYYOj8A29kTl6IV0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3006004-1331835359.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
 Incubus - Enjoy Incubus (1997-01-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
+Faith No More - Album of the Year (1997-06-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/7aa940e5-6128-4ed1-9d89-86458a1b5ec6/8008267577-500.jpg" data-tags="punk, alternative metal" role="button">
+Sugar Ray - Floored (1997-06-24)
 </li>
 <li data-cover="https://img.discogs.com/i9p8PXEl63ewZpVnbhhaT5UEHq8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10823300-1508266393-9583.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
 Primus - Brown Album (1997-07-08)
@@ -176,9 +182,6 @@ Primus - Rhinoplasty (1998-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/19af6bc8-81ca-4eb0-ba7e-3f0c6113eb66/2618609074-500.jpg" data-tags="rock" role="button">
 Faith No More - Who Cares a Lot? The Greatest Hits (1998-10-12)
-</li>
-<li data-cover="https://img.discogs.com/16qApHScNcFc1G9v9R35mr3cqIg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-857872-1174003739.jpeg.jpg" data-tags="stoner rock" role="button">
-Clutch - Jam Room (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e62337e-8efe-3c42-9777-6dee1ed07c25/5233844746-500.jpg" data-tags="hardcore punk, hardcore" role="button">
 Suicidal Tendencies - Freedumb (1999-04-16)
@@ -204,7 +207,7 @@ Praxis - Warszawa (2001-04-17)
 <li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
 Nicola Conte - Bossa Per Due (2001-06-12)
 </li>
-<li data-cover="https://img.discogs.com/19GjqaT8QQeAap1S0taf6ga5ySI=/fit-in/600x573/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8357290-1460167247-8787.jpeg.jpg" data-tags="heavy metal, metalcore, hardcore, funk metal, funk, alternative metal, rapcore, nu metal, reggae metal, rap-metal, killswitch engage, slipknot, korn, stone sour, poison the well, flaw, chimaira, hed planet earth, demon hunter, clawfinger, american head charge, hed pe, element eighty, mushroomhead, 40 below summer, primer 55, one minute silence, silent civilian, 36 crazy fists, primer55" role="button">
+<li data-cover="https://img.discogs.com/EXGSm1EU0mUb2U7BbV7FMl1QJ24=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2154770-1266960960.jpeg.jpg" data-tags="heavy metal, metalcore, hardcore, funk metal, funk, alternative metal, rapcore, nu metal, reggae metal, rap-metal, killswitch engage, slipknot, korn, stone sour, poison the well, flaw, chimaira, hed planet earth, demon hunter, clawfinger, american head charge, hed pe, element eighty, mushroomhead, 40 below summer, primer 55, one minute silence, silent civilian, 36 crazy fists, primer55" role="button">
 Primer 55 - (The) New Release (2001-08-14)
 </li>
 <li data-cover="https://img.discogs.com/SXFc2MlxPqDEkUfPPSHdgn70Enw=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501070-1356643028-2297.jpeg.jpg" data-tags="alternative" role="button">
@@ -246,9 +249,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/i9p8PXEl63ewZpVnbhhaT5UEHq8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10823300-1508266393-9583.jpeg.jpg" data-tags="funk metal" role="button">
 Primus - Animals Should Not Try To Act Like People (2003-10-17)
 </li>
-<li data-cover="https://img.discogs.com/FYUxf0CSJS0UVK8MICvcP__NJfQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4839639-1513546281-9338.png.jpg" data-tags="italian" role="button">
-Elisa - Lotus (2003-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/37ecd876-bccf-383d-8e78-b0f2cc13c964/19386733501-500.jpg" data-tags="stoner rock" role="button">
 Clutch - Blast Tyrant (2004-03-30)
 </li>
@@ -273,6 +273,9 @@ O'Funk'illo - No Te Cabe Na' (2005)
 <li data-cover="https://img.discogs.com/3qf9C-ACUFu7iTSyJlwbrqpSltg=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6407319-1418478192-2968.jpeg.jpg" data-tags="classic rock, classical, jazz, pop, rock, alternative, alternative rock, folk, experimental, hard rock, progressive rock, pop rock, acoustic, fusion, funk metal, funk, latin, blues, progressive, blues rock, acoustic rock, flamenco, funk rock, acoustic pop, progressive alternative rock, progressive funk rock, alternative funk rock, acoustic funk rock, progressive ambient rock, acoustic pop rock, acoustic folk rock, acoustic folk fusion, rock con pelotas" role="button">
 DramaGods - Love (2005-12-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/730e73f1-eba2-4466-abd1-7d33e16bf7f2/26439482444-500.jpg" data-tags="funk, rock, experimental, progressive rock, slap bass" role="button">
+Les Claypool - Of Whales And Woe (2006-05-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
@@ -291,9 +294,6 @@ Deep Purple - Live In Stuttgart 1993 (2007-01-08)
 <li data-cover="http://coverartarchive.org/release/886c3b42-b902-42b2-a413-5f6c4cd902d3/5083823028-500.jpg" data-tags="avant-garde, progressive metal" role="button">
 Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/c63950ef-39ec-498f-82e2-8c2eeb139619/21211516680-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, funk, retro, funky, groovy, italian, jecks, elettro-pop" role="button">
-Il Genio - Il Genio (2008-03-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6e6e18b-4838-491a-8f29-a313b94febca/9458129078-500.jpg" data-tags="funk rock, rock" role="button">
 Extreme - Saudades De Rock (2008-08-04)
 </li>
@@ -306,7 +306,7 @@ Bloodhound Gang - Show Us Your Hits (2010-12-03)
 <li data-cover="https://img.discogs.com/zvAFtFmy_e_YQYTVv4ZpCmMupqI=/fit-in/444x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-900364-1358775541-5248.jpeg.jpg" data-tags="black metal, swedish, funk metal, funk, funky, funk rock, dsbm, swedish black metal, true funk metal, trve funk metal" role="button">
 Woods of Infinity - Förlåt (2011)
 </li>
-<li data-cover="https://img.discogs.com/rI7B0kCWQJX4oObU4GgL0pj_PRc=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9541032-1482600439-9743.jpeg.jpg" data-tags="reggae" role="button">
+<li data-cover="https://img.discogs.com/ptMfzF6eBxxLkoyL0P2RM2OgcLQ=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000822-1311126100.jpeg.jpg" data-tags="reggae" role="button">
 311 - Universal Pulse (2011-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/da2fcd51-9339-463d-8b99-fdbb8dc68890/3350156802-500.jpg" data-tags="metal, experimental rock, funk metal, alternative metal" role="button">
