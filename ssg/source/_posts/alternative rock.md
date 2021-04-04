@@ -1,17 +1,17 @@
 ---
-date: 2021-04-03T22:25:01.235Z
+date: 2021-04-04T00:38:01.536Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Muse - Absolution (2003-09-08)](https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg "Muse - Absolution (2003-09-08)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">A Perfect Circle - Mer De Noms (2000-05-23)</li>
-<li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">Linkin Park - Meteora (2003-03-24)</li>
+<li data-cover="http://coverartarchive.org/release/1cc29145-b0e4-47bf-8bda-a1edef67dd1d/5632202392-500.jpg" data-tags="alternative rock" role="button">Muse - Origin of Symmetry (2001-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative, 2003" role="button">Radiohead - Hail to the Thief (2003-05-26)</li>
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">Muse - Absolution (2003-09-08)</li>
-<li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">Jimmy Eat World - Futures (2004-10-11)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">Coldplay - X&Y (2005-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - A Beautiful Lie (2005-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">Linkin Park - Minutes to Midnight (2007-05-11)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, alternative rock" role="button">Radiohead - In Rainbows (2007-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">Muse - The Resistance (2009-09-10)</li>
 </ol>
@@ -24,17 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd797f26-ddc1-43ae-8950-1757e28753cb/7646216656-500.jpg" data-tags="1991, 90s, alternative rock, rock" role="button">
-R.E.M. - Out of Time (1991-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Ten (1991-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg" data-tags="grunge" role="button">
-Nirvana - Nevermind (1991-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
-The Cure - Wish (1992-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
@@ -54,9 +45,6 @@ Sublime - Sublime (1995)
 <li data-cover="http://coverartarchive.org/release/6042a959-0a7e-3a7c-9339-58d4ab425f1f/4773551370-500.jpg" data-tags="rock, grunge, alternative rock" role="button">
 Foo Fighters - Foo Fighters (1995-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/095d9b71-6d0d-3ed6-b07d-4b618c8749ac/8732200006-500.jpg" data-tags="rock, 90s, alternative, alternative rock" role="button">
-Garbage - Garbage (1995-08-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
@@ -66,40 +54,37 @@ Placebo - Placebo (1996-06-12)
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
-<li data-cover="https://img.discogs.com/p4bN5vILQQzPkNFm1T3VpOsNT3E=/fit-in/308x276/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-495627-1403563640-8619.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
-Third Eye Blind - Third Eye Blind (1997-04-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
 Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
 3 Doors Down - The Better Life (2000-02-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="coldplay, britpop" role="button">
+<li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, alternative, experimental" role="button">
+<li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/80e125ef-2b91-4717-9e72-a99ac19c3f2c/6346167170-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Black Market Music (2000-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
 PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, alternative" role="button">
+<li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
@@ -111,8 +96,23 @@ Alien Ant Farm - Anthology (2001-03-06)
 <li data-cover="https://img.discogs.com/V6pdlLTilI4qE9xPoW01G6E89qc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494256-1591098542-4138.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
+Radiohead - Amnesiac (2001-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/1cc29145-b0e4-47bf-8bda-a1edef67dd1d/5632202392-500.jpg" data-tags="alternative rock" role="button">
+Muse - Origin of Symmetry (2001-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/58c2f29b-c284-344e-8cbb-a44f4ef7badf/2976602620-500.jpg" data-tags="rock, alternative rock" role="button">
+The White Stripes - White Blood Cells (2001-07-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">
+System of a Down - Toxicity (2001-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/af4f3859-4d53-4ccc-95e1-b1b00c0b24cf/17960714653-500.jpg" data-tags="rock, alternative rock, grunge" role="button">
+Puddle of Mudd - Come Clean (2001-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
@@ -140,9 +140,6 @@ Hoobastank - The Reason (2003-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
 Three Days Grace - Three Days Grace (2003-07-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
-Kings of Leon - Youth & Young Manhood (2003-07-23)
 </li>
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
@@ -186,8 +183,8 @@ Flyleaf - Flyleaf (2004-10-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
-Anberlin - Never Take Friendship Personal (2005-01-17)
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
+Coldplay - X&Y (2005-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
@@ -230,6 +227,9 @@ Interpol - Our Love to Admire (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
 Alter Bridge - Blackbird (2007-10-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, alternative rock" role="button">
+Radiohead - In Rainbows (2007-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/04e20dc5-cd0c-4315-9994-33d9856de5c6/14073861785-500.jpg" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
@@ -288,9 +288,6 @@ OneRepublic - Waking Up (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/6221bd54-033d-4876-b722-736b4e95686b/4193279921-500.jpg" data-tags="alternative rock" role="button">
 30 Seconds to Mars - This Is War (2009-12-04)
 </li>
-<li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
-The Dead Weather - Sea of Cowards (2010-05-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
 The Pretty Reckless - Light Me Up (2010-08-27)
 </li>
@@ -320,5 +317,8 @@ Linkin Park - Living Things (2012-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="british, rock, indietronica" role="button">
+Bastille - Bad Blood (2013-03-04)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:58:01.261Z
+date: 2021-04-04T00:05:01.283Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -114,9 +114,6 @@ Motörhead - No Remorse (1984-09-15)
 <li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Somewhere In Time (1986-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/bfe9a0ff-3278-30f9-a731-d56924f32e18/17240393697-500.jpg" data-tags="heavy metal" role="button">
-Manowar - Fighting the World (1987-02-17)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
@@ -215,6 +212,9 @@ Rammstein - Mutter (2001-04-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">
+System of a Down - Toxicity (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cd9b940-9a40-43d0-a6b9-f0a715f1539a/14972077221-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Down To Earth (2001-10-11)

@@ -1,10 +1,11 @@
 ---
-date: 2021-04-03T21:46:07.409Z
+date: 2021-04-04T00:30:01.354Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
+<li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">Yndi Halda - Enjoy Eternal Bliss (2005)</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">Brand New - The Devil and God Are Raging Inside Me (2006-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">Between the Buried and Me - Colors (2007-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">Matisyahu - Light (2009-08-25)</li>
@@ -12,7 +13,6 @@ title: "epic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">Florence + the Machine - Ceremonials (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">Lana Del Rey - Ultraviolence (2014-06-13)</li>
-<li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">Sia - 1000 Forms of Fear (2014-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/e5f65789-2b01-4a8c-adde-eae7602bd38c/8376081336-500.jpg" data-tags="pop, pop rock, epic, bad albums" role="button">The Script - No Sound Without Silence (2014-09-12)</li>
 </ol>
 List of 100 - under the cut.
@@ -93,9 +93,6 @@ Emilie Autumn - Enchant (2003-02-26)
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
-Emery - The Weak's End (2004-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/d1da7b66-a0ba-4f38-810b-079948379a51/13638314071-500.jpg" data-tags="live" role="button">
 Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
 </li>
@@ -111,6 +108,9 @@ Arcade Fire - Funeral (2004-09-13)
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
 Isis - Panopticon (2004-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">
+Yndi Halda - Enjoy Eternal Bliss (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/7de99e6a-9598-4dc6-97da-dba133c12a80/4889907703-500.jpg" data-tags="mae, rock, alternative, indie rock" role="button">
 MAE - The Everglow (2005-03-29)
 </li>
@@ -123,8 +123,8 @@ Why? - Elephant Eyelash (2005-10-04)
 <li data-cover="https://img.discogs.com/BLDys9EW5ZBJTLCPLsVhqGWNTWA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1823932-1245786549.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
-<li data-cover="https://img.discogs.com/dg_pKzx9fr9F01SA5AXNSbPSRQs=/fit-in/398x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057921-1188762334.jpeg.jpg" data-tags="indie, rock, british, indie rock, post-rock, epic, britpop, hupin, loudness race victim, beautiful indie music" role="button">
-Hope of the States - Left (2006-08-21)
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Muse - Black Holes & Revelations (2006-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c236486-4e13-3f6e-91e0-4c04981564af/4310979390-500.jpg" data-tags="symphonic metal, epic metal, power metal" role="button">
 Rhapsody of Fire - Triumph or Agony (2006-09-25)
@@ -144,6 +144,9 @@ Brandi Carlile - The Story (2007-04-03)
 <li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">
 August Burns Red - Messengers (2007-06-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
+Minus the Bear - Planet of Ice (2007-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Colors (2007-09-18)
 </li>
@@ -153,20 +156,14 @@ Blue Foundation - Life of a Ghost (2007-09-24)
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/1bdae9a8-1c33-310b-9f7a-a03bf9b24f66/12050743618-500.jpg" data-tags="progressive metal, progressive metalcore, mathcore, metalcore" role="button">
-Protest the Hero - Fortress (2008-01-29)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, christian" role="button">
-Secret And Whisper - Great White Whale (2008-02-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)
 </li>
-<li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
-Little Boots - Hands (2008-06-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff4c762d-ce33-423c-95d3-a09accd3b155/11432456532-500.jpg" data-tags="chill, progressive metal, prog, epic, boogie on down, not of this world, instrumental prog metal, god tier chill, legends of chill" role="button">
 CHON - Chon (2009)
@@ -182,6 +179,9 @@ Kalafina - Seventh Heaven (2009-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
+</li>
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bb79800-0644-4e8d-8274-0775a74de3ad/3302404966-500.jpg" data-tags="experimental" role="button">
 Dan Deacon - Bromst (2009-03-24)
@@ -273,11 +273,8 @@ The Rapture - How Deep Is Your Love? (2011-06)
 <li data-cover="http://coverartarchive.org/release/0f4bc096-5241-4160-b9b3-1e07e6262e40/5777589331-500.jpg" data-tags="post-rock, epic" role="button">
 *shels - Plains of the Purple Buffalo (2011-07-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classical, instrumental, epic, world, new age, symphonic metal, cd, neo-classical rock, album to check again" role="button">
+<li data-cover="http://coverartarchive.org/release/bdeb4647-5774-429a-88e3-da375cb540e1/8258911638-500.jpg" data-tags="classical, instrumental, epic, world, new age, symphonic metal, cd, neo-classical rock, album to check again" role="button">
 Globus - Break From This World (2011-08-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
-소녀시대 - The Boys (2011-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
@@ -293,6 +290,9 @@ Dead Can Dance - Anastasis (2012-08-13)
 </li>
 <li data-cover="https://img.discogs.com/3s282UlpBnD_rj261J4uF4RnMak=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3847638-1346738357-4401.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, vinyl, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
 Dan Deacon - America (2012-08-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d9e51a05-668b-450a-b8b0-778bbed89c76/1777618464-500.jpg" data-tags="post-rock" role="button">
+Mono - For My Parents (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b50bf968-1b2b-41ff-b1f3-b8bd7aa25884/3480184535-500.jpg" data-tags="rock, british, britpop" role="button">
 Robbie Williams - Take The Crown (2012-11-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:30:01.224Z
+date: 2021-04-04T00:24:01.202Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -51,9 +51,6 @@ Ben Harper - Fight For Your Mind (1995-07)
 <li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">
 Alice in Chains - MTV Unplugged (1996-04-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
-Mazzy Star - Among My Swan (1996-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
 </li>
@@ -86,6 +83,9 @@ Dashboard Confessional - The Places You Have Come To Fear The Most (2001-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ef070f-237d-423a-8984-fe1cbf7f35a8/1290637316-500.jpg" data-tags="rock, acoustic, classic rock, scorpions" role="button">
 Scorpions - Acoustica (2001-05-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="john mayer" role="button">
+John Mayer - Room for Squares (2001-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
 Nicola Conte - Bossa Per Due (2001-06-12)
@@ -150,9 +150,6 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 <li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
 William Fitzsimmons - Until When We Are Ghosts (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
-Anna Nalick - Wreck of the Day (2005-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/15a9cca2-cd9e-4aac-9828-b85f184b1f84/24240958685-500.jpg" data-tags="acoustic, emo" role="button">
 Secondhand Serenade - Awake (2005-10-27)
 </li>
@@ -191,6 +188,9 @@ Cary Brothers - Who You Are (2007-05-29)
 </li>
 <li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="british, uk, somgwriters" role="button">
+Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock, favorite" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T21:58:01.279Z
+date: 2021-04-03T23:58:01.502Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -99,9 +99,6 @@ Dead Kennedys - Bedtime for Democracy (1986)
 <li data-cover="http://coverartarchive.org/release/37fcb43f-37df-3173-a004-3f3ca4097e08/8145518568-500.jpg" data-tags="hardcore punk" role="button">
 Bad Brains - I Against I (1986)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d1d1960-884d-42d6-aa87-230424ab9ddf/19103392565-500.jpg" data-tags="alternative rock, rock, punk" role="button">
-Hüsker Dü - Candy Apple Grey (1986-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/85e7aa0d-b11b-41fc-b757-d8afc8eb2a13/28861968924-500.jpg" data-tags="hardcore punk, melodic hardcore" role="button">
 Dag Nasty - Can I Say (1986-06)
 </li>
@@ -116,9 +113,6 @@ Suicidal Tendencies - Join The Army (1987-06-21)
 </li>
 <li data-cover="https://img.discogs.com/R5_nLKDn0WAeQ9Mgm-cw3e5i0II=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8521275-1463390732-8360.jpeg.jpg" data-tags="hardcore punk" role="button">
 NOFX - Liberal Animation (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b2190ca-9c02-321e-8db4-0b5d80b5a00b/26393619109-500.jpg" data-tags="punk, punk rock" role="button">
-Bad Religion - Suffer (1988-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2af14d71-4333-494a-a981-7701897e3f1c/3035143260-500.jpg" data-tags="punk rock, punk" role="button">
 The Offspring - The Offspring (1989-03)
@@ -221,6 +215,12 @@ Dropkick Murphys - Sing Loud, Sing Proud! (2001-01-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="crack rock steady, punk, hardcore punk" role="button">
+Leftöver Crack - Mediocre Generica (2001-08-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, mathcore, hardcore" role="button">
+Converge - Jane Doe (2001-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/484a2a59-4b01-444a-b0f6-15d902c4d4fb/9105772933-500.jpg" data-tags="skate punk" role="button">
 Charlie Brown JR. - Bocas Ordinárias (2002)

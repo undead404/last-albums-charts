@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T23:09:01.240Z
+date: 2021-04-04T00:31:01.266Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="70s, female vocalists" role="button">
+Kate Bush - The Kick Inside (1978-02-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
 </li>
@@ -39,20 +42,11 @@ Tori Amos - Little Earthquakes (1992-01-13)
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
 </li>
-<li data-cover="https://img.discogs.com/gZB_azKT4gOHzE6rZOiCSBfAubg=/fit-in/250x266/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4664900-1371542219-8887.jpeg.jpg" data-tags="alternative, female vocalists, 90s, rock" role="button">
-PJ Harvey - Rid of Me (1993-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
-Björk - Debut (1993-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
 Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
-Jewel - Pieces of You (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
@@ -87,9 +81,6 @@ Sarah McLachlan - Surfacing (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
 Natalie Imbruglia - Left of the Middle (1997-11-24)
 </li>
-<li data-cover="https://img.discogs.com/IwRSWIId9ZGGotw8pJqMqNa1KuU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2950828-1340169040-3380.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
-Imogen Heap - I Megaphone (1998-06-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/91b161bf-275e-3b8f-9fab-643e9d7ab152/14179447399-500.jpg" data-tags="alternative, female vocalists" role="button">
 PJ Harvey - Is This Desire? (1998-09-28)
 </li>
@@ -111,6 +102,9 @@ Evanescence - Origin (2000-11-04)
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
 Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">
+Shakira - Laundry Service (2001-11-13)
+</li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
@@ -125,9 +119,6 @@ Evanescence - Fallen (2003-03-04)
 </li>
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
-The Cardigans - Long Gone Before Daylight (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
@@ -159,7 +150,7 @@ Rachael Yamagata - Happenstance (2004-06-08)
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
 Regina Spektor - Soviet Kitsch (2004-08-17)
 </li>
-<li data-cover="https://img.discogs.com/IXtl2Ix-eFYCMxkwWKWp682MMCA=/fit-in/419x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-544118-1566833133-9898.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/qkvDofuDAKamlVevQ6NpGVxtJCY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567304-1132414198.jpeg.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - Unwritten (2004-09-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
@@ -207,6 +198,9 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+Amy Winehouse - Back to Black (2006-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
@@ -228,6 +222,9 @@ Amy Macdonald - This Is the Life (2007-12-10)
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
 The Asteroids Galaxy Tour - Fruit (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d4e6692-5ecd-457b-bcd5-85baf51c5e10/5179841564-500.jpg" data-tags="soul" role="button">
+Adele - 19 (2008-01-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
 Lykke Li - Youth Novels (2008-01-30)
 </li>
@@ -236,6 +233,9 @@ M.I.A. - Paper Planes (2008-02-11)
 </li>
 <li data-cover="https://img.discogs.com/RthahH2HJj5B-I64sqBPuC6O_Q8=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12906768-1544273238-7314.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+The Ting Tings - We Started Nothing (2008-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)

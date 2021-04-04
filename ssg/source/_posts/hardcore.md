@@ -1,12 +1,12 @@
 ---
-date: 2021-04-03T22:47:01.248Z
+date: 2021-04-04T00:37:01.210Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">Refused - The Shape of Punk to Come (1998-10-27)</li>
+<li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">Converge - Jane Doe (2001-09-04)</li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">From Autumn To Ashes - The Fiction We Live (2003-09-09)</li>
-<li data-cover="https://img.discogs.com/_2fzUuJ_jaz2W5wMlLqKhffJVFY=/fit-in/505x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2699296-1297084410.jpeg.jpg" data-tags="metalcore" role="button">Atreyu - The Curse (2004-06-28)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - The Sufferer & the Witness (2006-07-03)</li>
@@ -29,9 +29,6 @@ Black Flag - Damaged (1981)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk, alternative rock, sst" role="button">
-Hüsker Dü - New Day Rising (1985-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d1d1960-884d-42d6-aa87-230424ab9ddf/19103392565-500.jpg" data-tags="alternative rock, rock, punk" role="button">
 Hüsker Dü - Candy Apple Grey (1986-03-17)
@@ -57,7 +54,7 @@ Refused - The Shape of Punk to Come (1998-10-27)
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+<li data-cover="http://coverartarchive.org/release/0fbf71bc-5530-35cb-be9e-fccb2ec2a9ca/19908311105-500.jpg" data-tags="post-hardcore" role="button">
 Glassjaw - Everything You Ever Wanted To Know About Silence (2000-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a570d143-3749-42cb-84a1-63ab6e6f3b05/24579314447-500.jpg" data-tags="hardcore" role="button">
@@ -66,11 +63,20 @@ Ignite - A Place Called Home (2000-05-30)
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/80e6be11-86f5-4d0b-9d55-0f1c62b7afb8/6514440841-500.jpg" data-tags="metalcore" role="button">
+Avenged Sevenfold - Sounding the Seventh Trumpet (2001)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metalcore, hardcore" role="button">
+Dry Kill Logic - The Darker Side of Nonsense (2001-06-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/1a741b0f-4e13-459f-a072-2e45e388061e/25444677554-500.jpg" data-tags="hardcore, metalcore" role="button">
 From Autumn To Ashes - Too Bad You're Beautiful (2001-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
+Converge - Jane Doe (2001-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b877e532-bf36-437d-84df-a1facb14e308/27477356880-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Suicide Notes And Butterfly Kisses (2002-06-04)
@@ -252,9 +258,6 @@ August Burns Red - Constellations (2009-07-14)
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/d15f1f1c-4bba-4078-b586-88af765fd576/8879942542-500.jpg" data-tags="hardcore, metalcore" role="button">
-Hatebreed - Hatebreed (2009-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
 </li>
@@ -311,9 +314,6 @@ Falling in Reverse - The Drug In Me Is You (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
 <li data-cover="https://img.discogs.com/2biqLp7yaK8LXc5GWXhd6NHM1DA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8938479-1543259564-6928.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)

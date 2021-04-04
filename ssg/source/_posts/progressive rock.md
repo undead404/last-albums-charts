@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T23:14:01.201Z
+date: 2021-04-04T00:29:01.273Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -84,6 +84,9 @@ Boston - Boston (1976-09)
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, classic rock" role="button">
+Supertramp - Even In The Quietest Moments (1977-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Wall (1979-11-30)
 </li>
@@ -114,9 +117,6 @@ Genesis - Genesis (1983-10-03)
 <li data-cover="http://coverartarchive.org/release/8be613dc-5964-3dc0-9802-71c4eeccb125/11372138627-500.jpg" data-tags="progressive rock" role="button">
 Yes - 90125 (1983-11-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
-Rush - Grace Under Pressure (1984-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
 </li>
@@ -137,9 +137,6 @@ Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Images and Words (1992-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/e7da58d2-bdf7-3712-b8a0-0fbff2c99b4a/2331547861-500.jpg" data-tags="progressive rock" role="button">
-Peter Gabriel - Us (1992-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
 Tool - Undertow (1993-04-06)
@@ -180,13 +177,16 @@ A Perfect Circle - Mer De Noms (2000-05-23)
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
 Tool - Lateralus (2001-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/1cc29145-b0e4-47bf-8bda-a1edef67dd1d/5632202392-500.jpg" data-tags="alternative rock" role="button">
+Muse - Origin of Symmetry (2001-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/8898d38e-d822-3649-9af1-0f1858ac3d68/2539178833-500.jpg" data-tags="progressive rock" role="button">
 Anathema - A Fine Day to Exit (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ab5fdc1-c24e-4f08-bc3b-ab291f515349/6572317296-500.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop" role="button">
+<li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
@@ -240,11 +240,11 @@ Riverside - Second Life Syndrome (2005-10-28)
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
 Tool - 10,000 Days (2006-04-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+Muse - Black Holes & Revelations (2006-06-28)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8553274-ae05-4031-8af1-12e6d4750b22/15299158990-500.jpg" data-tags="progressive rock" role="button">
-Rishloo - Eidolon (2007-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
 Circa Survive - On Letting Go (2007-05-29)

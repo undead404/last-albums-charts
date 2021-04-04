@@ -1,17 +1,17 @@
 ---
-date: 2021-04-03T22:40:01.184Z
+date: 2021-04-04T00:11:01.215Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![Slipknot - All Hope Is Gone (2008-08-20)](https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg "Slipknot - All Hope Is Gone (2008-08-20)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, nu metal" role="button">Deftones - White Pony (2000-05-16)</li>
+<li data-cover="http://coverartarchive.org/release/c7e82aec-f36b-45ef-9eb6-0721825b210b/1295812381-500.jpg" data-tags="alternative metal, nu metal" role="button">Deftones - White Pony (2000-05-16)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">Stone Sour - Stone Sour (2002-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">Disturbed - Believe (2002-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">Disturbed - Ten Thousand Fists (2005-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">Breaking Benjamin - Phobia (2006-08-08)</li>
-<li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">Alter Bridge - Blackbird (2007-10-09)</li>
 <li data-cover="https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">Slipknot - All Hope Is Gone (2008-08-20)</li>
 <li data-cover="https://img.discogs.com/WdIYWs97kRpkarCFLQTJl5XCwQw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6659543-1424045661-2626.jpeg.jpg" data-tags="alternative metal" role="button">Disturbed - Asylum (2010-08-20)</li>
 </ol>
@@ -66,41 +66,41 @@ Godsmack - Godsmack (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
 Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/70315537-2635-469c-bba6-267731b794ae/2968759370-500.jpg" data-tags="alternative metal" role="button">
-CKY - Volume 1 (1999-02-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
 Staind - Dysfunction (1999-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
 Creed - Human Clay (1999-07-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
 3 Doors Down - The Better Life (2000-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, nu metal" role="button">
+<li data-cover="http://coverartarchive.org/release/c7e82aec-f36b-45ef-9eb6-0721825b210b/1295812381-500.jpg" data-tags="alternative metal, nu metal" role="button">
 Deftones - White Pony (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, alternative metal, metal" role="button">
+<li data-cover="https://img.discogs.com/M4wxOo-EVaYaVlRI_dc_vS592no=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3589065-1428940273-7193.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal" role="button">
+<li data-cover="https://img.discogs.com/7Feb1iNB1Qh6XZJcwbxC1qwiNA8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492491-1416494673-8726.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Soulfly - Primitive (2000-09-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+<li data-cover="https://img.discogs.com/cUPf2HrcH73qKcgOQAKk8bHhHe8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-803198-1437228257-8825.jpeg.jpg" data-tags="hard rock" role="button">
 Godsmack - Awake (2000-10-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
+Ill Niño - Revolution Revolución (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/e00e40a3-5ed5-4ed3-9c22-0a8ff4119bdf/10210180067-500.jpg" data-tags="alternative rock, rock" role="button">
 Alien Ant Farm - Anthology (2001-03-06)
@@ -108,8 +108,20 @@ Alien Ant Farm - Anthology (2001-03-06)
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
 Tool - Lateralus (2001-05-14)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Staind - Break the Cycle (2001-05-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
+Drowning Pool - Sinner (2001-06-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">
+System of a Down - Toxicity (2001-08-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
+Soil - Scars (2001-09-11)
 </li>
 <li data-cover="https://img.discogs.com/iXhCbYKucXwX01SANUCdwZ3zpFE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622208-1598632234-7202.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Sevendust - Animosity (2001-11-13)
@@ -125,9 +137,6 @@ Stone Sour - Stone Sour (2002-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7c0f696-2917-4e85-abc4-2b3d599c4289/16956340178-500.jpg" data-tags="grunge, metal, hard rock" role="button">
 Seether - Disclaimer (2002-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
-30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/91d85c0e-319f-45c4-a863-026ef06774fd/9406265439-500.jpg" data-tags="alternative rock" role="button">
 Breaking Benjamin - Saturate (2002-08-27)
@@ -204,9 +213,6 @@ A Perfect Circle - eMOTIVe (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/4862e45e-127d-423a-a4bf-95b79197c84a/10796070605-500.jpg" data-tags="nu metal, alternative metal" role="button">
 Mudvayne - Lost and Found (2005-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/05bcea44-73d4-4d78-979d-14f5a142816c/2279875362-500.jpg" data-tags="rock, hard rock" role="button">
-Seether - Karma & Effect (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
 </li>
@@ -246,9 +252,6 @@ Drowning Pool - Full Circle (2007-07-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 Korn - Untitled (2007-07-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
-Five Finger Death Punch - The Way Of The Fist (2007-07-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
 Alter Bridge - Blackbird (2007-10-09)
 </li>
@@ -269,9 +272,6 @@ Slipknot - All Hope Is Gone (2008-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4e5b0bc-3e10-4245-a25c-10f5991bc930/10864980767-500.jpg" data-tags="alternative rock" role="button">
 Red - Innocence & Instinct (2009-02-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/03666113-97e0-44dc-a3fd-71f15b3bc1e7/14899098997-500.jpg" data-tags="gothic metal, alternative metal" role="button">
-Lacuna Coil - Shallow Life (2009-04-21)
 </li>
 <li data-cover="https://img.discogs.com/13ogAOaZUNiOwkT5VfcJJg8eQus=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12682558-1584909116-9673.jpeg.jpg" data-tags="alternative metal, alternative rock" role="button">
 Chevelle - Sci-Fi Crimes (2009-07-21)

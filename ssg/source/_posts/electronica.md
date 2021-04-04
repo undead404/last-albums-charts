@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T23:39:01.256Z
+date: 2021-04-04T00:26:01.225Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -102,7 +102,10 @@ Télépopmusik - Genetic World (2001-05-21)
 <li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
 Four Tet - Pause (2001-05-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
+Radiohead - Amnesiac (2001-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/441e153d-6ce6-3a75-aa4e-65f63b88d14f/3487982154-500.jpg" data-tags="electronic" role="button">
 Björk - Vespertine (2001-08-18)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
@@ -129,7 +132,7 @@ The Postal Service - Give Up (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
 Goldfrapp - Black Cherry (2003-04-23)
 </li>
-<li data-cover="https://img.discogs.com/MKeezPT90qBagLlZCraztxDJzJE=/fit-in/312x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1692920-1237320597.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/rHaFgXBXr2hDoBqA0sEKSuvtYa0=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-124722-1289212679.jpeg.jpg" data-tags="electronic" role="button">
 Four Tet - Rounds (2003-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4da446f6-d2c4-3c1d-bbd5-2827edd023a2/11858141676-500.jpg" data-tags="electronic, ambient" role="button">
@@ -213,6 +216,9 @@ The Veronicas - Hook Me Up (2007-09-22)
 <li data-cover="http://coverartarchive.org/release/2c3837a1-6252-4774-9102-998cd68d8532/3230521809-500.jpg" data-tags="electronic, electronica" role="button">
 The Chemical Brothers - Brotherhood (2008-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+Friendly Fires - Friendly Fires (2008-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
 </li>
@@ -237,14 +243,8 @@ Desire - II (2009-06-29)
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
-Calvin Harris - Ready for the Weekend (2009-08-09)
-</li>
 <li data-cover="https://img.discogs.com/5fhYAthYMO7Zk-qhzSStks4MKHk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1890282-1250423172.jpeg.jpg" data-tags="electronic, electronica, trip-hop" role="button">
 Little Dragon - Machine Dreams (2009-08-17)
-</li>
-<li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
-Imogen Heap - Ellipse (2009-08-24)
 </li>
 <li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
 Memory Tapes - Seek Magic (2009-08-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:55:01.417Z
+date: 2021-04-04T00:44:01.227Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -10,9 +10,9 @@ title: "indie rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">Kasabian - Empire (2006-08-25)</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
-<li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">Arctic Monkeys - AM (2013-08-01)</li>
 </ol>
 List of 100 - under the cut.
@@ -26,9 +26,6 @@ Pixies - Doolittle (1989-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Neutral Milk Hotel - On Avery Island (1996-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/4eac7bfa-5248-4d9c-9114-87d97d7fea31/27142893724-500.jpg" data-tags="indie, indie rock" role="button">
-Built to Spill - Keep It Like a Secret (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
@@ -60,6 +57,9 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 <li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Kings of Leon - Youth & Young Manhood (2003-07-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, alternative, indie rock, rock" role="button">
+Snow Patrol - Final Straw (2003-08-04)
+</li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
 Death Cab for Cutie - Transatlanticism (2003-09-01)
 </li>
@@ -72,7 +72,7 @@ The Strokes - Room on Fire (2003-10-16)
 <li data-cover="http://coverartarchive.org/release/735e9638-b555-49f5-b536-01ce8df1dbeb/22159704215-500.jpg" data-tags="indie, indie rock, the shins" role="button">
 The Shins - Chutes Too Narrow (2003-10-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+<li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">
 Broken Social Scene - Broken Social Scene (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
@@ -112,19 +112,16 @@ Editors - The Back Room (2005-01-01)
 Bloc Party - Silent Alarm (2005-02-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
-The Bravery - The Bravery (2005-03-14)
+Kaiser Chiefs - Employment (2005-03-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">
-Maxïmo Park - A Certain Trigger (2005-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/ba09c389-e2ed-4a80-ab56-6ff2a31ab5f3/16830848668-500.jpg" data-tags="indie rock, indie" role="button">
-The Subways - Young for Eternity (2005-07-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock" role="button">
+Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/84951a8e-abaa-4841-bbd5-35c2225ad91d/10658320296-500.jpg" data-tags="indie rock" role="button">
 Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (2005-10-11)
@@ -153,6 +150,9 @@ Razorlight - Razorlight (2006-07-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, shoegaze" role="button">
 Silversun Pickups - Carnavas (2006-07-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
+Kasabian - Empire (2006-08-25)
+</li>
 <li data-cover="https://img.discogs.com/8KrBpQesNQtYTtRGyViVBGE-wU0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785865-1169215288.jpeg.jpg" data-tags="indie rock" role="button">
 The Fratellis - Costello Music (2006-09-11)
 </li>
@@ -165,11 +165,17 @@ Cold War Kids - Robbers & Cowards (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock, britpop" role="button">
+Kaiser Chiefs - Yours Truly, Angry Mob (2007-02-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3329c6a-6ff9-4254-b82e-f4ac85e5e6dd/2514121509-500.jpg" data-tags="indie, indie rock" role="button">
 Vampire Weekend - Vampire Weekend (2007-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+Editors - An End Has A Start (2007-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
@@ -218,9 +224,6 @@ Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
 Metric - Fantasies (2009-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/4eebfd89-df96-4017-b70f-795a0702d2c5/8690836098-500.jpg" data-tags="indie rock, shoegaze, alternative" role="button">
-Silversun Pickups - Swoon (2009-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
@@ -288,20 +291,17 @@ Kasabian - Velociraptor! (2011-09-16)
 <li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock, indie" role="button">
+<li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/441adaa8-20b9-48f0-9c3c-ae7f264d3271/13109592638-500.jpg" data-tags="indie rock, imagine dragons, indie" role="button">
 Imagine Dragons - Continued Silence EP (2012-02-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="2012" role="button">
-Imagine Dragons - Night Visions (2012-09-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
-Twenty One Pilots - Vessel (2012-12-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
+Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)

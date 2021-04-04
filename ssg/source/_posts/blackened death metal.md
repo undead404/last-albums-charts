@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:22:01.623Z
+date: 2021-04-04T00:15:06.646Z
 title: "blackened death metal: 100 albums you must listen to before you die"
 ---
 ![Behemoth - The Satanist (2014-02-03)](https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg "Behemoth - The Satanist (2014-02-03)")
@@ -26,9 +26,6 @@ Darkthrone - A New Dimension (1988-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0122096d-9d63-45ac-80b7-91b1e27c3be1/17503960939-500.jpg" data-tags="black metal" role="button">
 Marduk - Dark Endless (1992-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6440d6f-f8d5-4588-aba5-09f5b3a4b237/5994880815-500.jpg" data-tags="black metal" role="button">
-Samael - Blood Ritual (1992-12-01)
 </li>
 <li data-cover="https://img.discogs.com/t0PDSlX4JxZS884NJB-f6WLeT2Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538113-1537963660-9400.jpeg.jpg" data-tags="death metal" role="button">
 Necrophobic - The Nocturnal Silence (1993-08-02)
@@ -65,6 +62,9 @@ Behemoth - Pandemonic Incantations (1998-03-02)
 </li>
 <li data-cover="https://img.discogs.com/Q6efqq1ZT4alDZT2vrJVpePFHKA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397423-1155066431.jpeg.jpg" data-tags="black metal, melodic black metal" role="button">
 Naglfar - Diabolical (1998-07-28)
+</li>
+<li data-cover="https://img.discogs.com/eThs5Jkv68GLA_7KJ-HE0sFAonU=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1192272-1199666296.jpeg.jpg" data-tags="thrash metal, groove metal" role="button">
+Sepultura - Against (1998-10-05)
 </li>
 <li data-cover="https://img.discogs.com/updqDDeOl9ZPg_msom6pOFfCnCg=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559329-1294277850.jpeg.jpg" data-tags="death metal" role="button">
 Vader - Live in Japan (1998-11-30)
@@ -294,7 +294,7 @@ Bölzer - Aura (2013-05-13)
 <li data-cover="http://coverartarchive.org/release/405ab77e-7f0b-42ee-a8db-f29a0a0c3056/19611318053-500.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Halo of Blood (2013-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/3093dc7c-ca5c-4d7a-92ea-ea376522519b/4490175495-500.jpg" data-tags="2013, progressive death metal" role="button">
+<li data-cover="http://coverartarchive.org/release/3093dc7c-ca5c-4d7a-92ea-ea376522519b/4490175495-500.jpg" data-tags="progressive death metal" role="button">
 Extol - Extol (2013-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f76d360-f38e-48ef-9769-f5ff0c8e7cc7/15355438210-500.jpg" data-tags="metalcore, grindcore, hardcore, crust" role="button">

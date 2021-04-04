@@ -1,15 +1,15 @@
 ---
-date: 2021-04-03T20:47:01.539Z
+date: 2021-04-04T00:19:01.244Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/fe0aec30-6538-4ff6-98e1-2af99e93ac1f/7549818228-500.jpg" data-tags="classic rock, hard rock" role="button">Led Zeppelin - Led Zeppelin II (1969-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">AC/DC - Back in Black (1980-07-25)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">Guns N' Roses - Appetite for Destruction (1987-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/db34a2e2-e5d5-43f5-9d9a-140ac6d2a738/13666947317-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion I (1991-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion II (1991-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">Metallica - Reload (1997-11-15)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">Led Zeppelin - Led Zeppelin (2003-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/0618d2be-4b47-383c-b1f4-eca2dd88f866/5870438747-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Greatest Hits (2004-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">Avenged Sevenfold - City of Evil (2005-06-07)</li>
@@ -93,7 +93,7 @@ Europe - The Final Countdown (1986)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 AC/DC - Who Made Who (1986-05-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/nOEna0s-x0VMH8RYTIGFaPXXoNE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7580053-1444472249-3116.jpeg.jpg" data-tags="hard rock, rock, 80s" role="button">
 Bon Jovi - Slippery When Wet (1986-08-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
@@ -165,7 +165,7 @@ Disturbed - The Sickness (2000-03-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, bon jovi, hard rock" role="button">
 Bon Jovi - Crush (2000-05-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+<li data-cover="https://img.discogs.com/cUPf2HrcH73qKcgOQAKk8bHhHe8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-803198-1437228257-8825.jpeg.jpg" data-tags="hard rock" role="button">
 Godsmack - Awake (2000-10-31)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="rock" role="button">
@@ -173,6 +173,9 @@ Creed - Weathered (2001-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b18729d7-287e-4519-9397-b9f3e079cd3d/2981256085-500.jpg" data-tags="industrial metal" role="button">
 Rammstein - Mutter (2001-04-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">
+System of a Down - Toxicity (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
 Nickelback - Silver Side Up (2001-09-11)
@@ -236,9 +239,6 @@ Disturbed - Ten Thousand Fists (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/9599042a-34a9-39f2-a52d-c903a382515c/11212013097-500.jpg" data-tags="rock" role="button">
 Nickelback - All The Right Reasons (2005-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/b70fff68-559c-4efd-a035-5974cac6bd87/14997468926-500.jpg" data-tags="rock, hinder" role="button">
-Hinder - Extreme Behavior (2005-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">
 Wolfmother - Wolfmother (2005-10-31)

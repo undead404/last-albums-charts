@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:30:01.276Z
+date: 2021-04-04T00:21:01.236Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![Led Zeppelin - Led Zeppelin IV (1971-11-08)](http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg "Led Zeppelin - Led Zeppelin IV (1971-11-08)")
@@ -10,7 +10,7 @@ title: "classic rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">Led Zeppelin - Led Zeppelin IV (1971-11-08)</li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Wish You Were Here (1975-09-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">Boston - Boston (1976-09)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, queen" role="button">Queen - Greatest Hits (1981-11-03)</li>
+<li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">Queen - Greatest Hits (1981-11-03)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, dire straits" role="button">Dire Straits - Brothers in Arms (1985-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">Led Zeppelin - Led Zeppelin (2003-05-26)</li>
@@ -78,6 +78,9 @@ The Velvet Underground - The Velvet Underground (1969-03)
 <li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
 The Doors - The Soft Parade (1969-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, blues rock" role="button">
+Blind Faith - Blind Faith (1969-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/fe0aec30-6538-4ff6-98e1-2af99e93ac1f/7549818228-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin II (1969-10-22)
 </li>
@@ -86,9 +89,6 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Morrison Hotel (1970-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4d6b8d9-413f-3aa6-9f4b-d51be1eb740c/9279003220-500.jpg" data-tags="heavy metal" role="button">
-Black Sabbath - Black Sabbath (1970-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
@@ -186,7 +186,7 @@ Pink Floyd - The Wall (1979-11-30)
 <li data-cover="http://coverartarchive.org/release/afdd3554-a343-4139-b2bd-fb3e994465d8/1606570432-500.jpg" data-tags="classic rock" role="button">
 Deep Purple - Deepest Purple: The Very Best of Deep Purple (1980)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/vC_Ab8YbYPrUPisG3AaW6-e3BG4=/fit-in/534x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236962-1431722480-6285.jpeg.jpg" data-tags="rock, classic rock, 80s" role="button">
 Queen - The Game (1980-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
@@ -195,10 +195,10 @@ AC/DC - Back in Black (1980-07-25)
 <li data-cover="http://coverartarchive.org/release/ab2c84bb-4ee7-4add-8349-f4d7ad243384/4389275722-500.jpg" data-tags="rock, 80s, classic rock" role="button">
 Journey - Escape (1981)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, queen" role="button">
+<li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, classic rock, soft rock" role="button">
+<li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">
 Toto - Toto IV (1982-04-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock, rock" role="button">
@@ -222,25 +222,25 @@ Bruce Springsteen - Born in the U.S.A. (1984-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, dire straits" role="button">
 Dire Straits - Brothers in Arms (1985-05-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
 Genesis - Invisible Touch (1986-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 80s" role="button">
+<li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
 Queen - A Kind Of Magic (1986-06-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, classic rock" role="button">
+<li data-cover="http://coverartarchive.org/release/ad3f2bf7-90d0-375f-aae1-9e49c1a7d93f/16482357177-500.jpg" data-tags="80s, classic rock" role="button">
 Fleetwood Mac - Tango in the Night (1987-04-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/27201ec2-e948-3a29-9411-363861e692b7/5516922690-500.jpg" data-tags="classic rock, rock" role="button">
 Dire Straits - Money for Nothing (1988-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, journey, 80s" role="button">
+<li data-cover="http://coverartarchive.org/release/03ffc721-3d27-4fb9-a394-c06da971ee5b/19269133764-500.jpg" data-tags="classic rock, journey, 80s" role="button">
 Journey - Greatest Hits (1988-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
@@ -261,7 +261,7 @@ Guns N' Roses - Use Your Illusion I (1991-09-16)
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion II (1991-09-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="queen, classic rock, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/92faa683-a1a5-4198-a55d-af3471f14c94/4160760603-500.jpg" data-tags="queen, classic rock, rock" role="button">
 Queen - Greatest Hits II (1991-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6be0d2a6-67b2-4b57-b7a0-5d6366a1332d/21377405539-500.jpg" data-tags="rock, classic rock" role="button">
@@ -285,13 +285,13 @@ Bruce Springsteen - Greatest Hits (1995-02-10)
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 80s, styx" role="button">
+<li data-cover="http://coverartarchive.org/release/bca301ba-e2d8-4c72-b25f-a5f6c4eb6f65/9725649123-500.jpg" data-tags="classic rock, 80s, styx" role="button">
 Styx - Greatest Hits (1995-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8852c9ed-af4a-31de-b77c-7e56364acd3b/11750233111-500.jpg" data-tags="john lennon, classic rock" role="button">
 John Lennon - Lennon Legend: The Very Best of John Lennon (1997-10-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, u2, classic rock" role="button">
+<li data-cover="http://coverartarchive.org/release/3b886671-04bb-4e6f-bc02-310823641fe9/9041409104-500.jpg" data-tags="rock, u2, classic rock" role="button">
 U2 - The Best of 1980-1990 (1998-10-28)
 </li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
