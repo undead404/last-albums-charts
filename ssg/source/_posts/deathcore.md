@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:52:01.228Z
+date: 2021-04-04T09:35:01.424Z
 title: "deathcore: 100 albums you must listen to before you die"
 ---
 ![Bring Me the Horizon - Suicide Season (2008-09-29)](http://coverartarchive.org/release/328619a0-b3fd-4fd3-8404-1c23228df4ad/26118015764-500.jpg "Bring Me the Horizon - Suicide Season (2008-09-29)")
@@ -42,11 +42,17 @@ The Black Dahlia Murder - Miasma (2005-07-12)
 <li data-cover="http://coverartarchive.org/release/56eda536-9545-4005-9924-7781af660bc1/7545947728-500.jpg" data-tags="death metal, nu metal, deathcore, teeheecore" role="button">
 Suicide Silence - Suicide Silence (2005-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/59fc3b3d-5eb4-44c3-82af-a1005d1a795a/27749874364-500.jpg" data-tags="deathcore" role="button">
+Through the Eyes of the Dead - Bloodlust (2005-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/69ea0616-e19f-4c92-bb80-405a1c1df445/27189691829-500.jpg" data-tags="deathcore, progressive metalcore, melodic metalcore, technical metalcore" role="button">
 After the Burial - Forging A Future Self (2006-05-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 As Blood Runs Black - Allegiance (2006-06-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec3befaf-ad5d-46e6-b5e5-67e1949c003e/26789786488-500.jpg" data-tags="metalcore" role="button">
+The Acacia Strain - The Dead Walk (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/0FXAaNOwwuczwJ789zuZ8kalrAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3297951-1613600745-7894.jpeg.jpg" data-tags="metalcore" role="button">
 Heaven Shall Burn - Deaf To Our Prayers (2006-08-25)
@@ -56,9 +62,6 @@ Veil of Maya - All Things Set Aside (2006-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b5990e-5608-4c93-9de3-ba16b0f3d212/10206508020-500.jpg" data-tags="technical death metal, death metal" role="button">
 The Faceless - Akeldama (2006-11-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
-My Bitter End - The Renovation (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/69204334-10ff-4b6d-b986-da242a9dcb0b/15294175612-500.jpg" data-tags="metalcore, deathcore" role="button">
 Emmure - Goodbye To The Gallows (2007-03-06)
@@ -228,7 +231,7 @@ The Devil Wears Prada - Zombie EP (2010-08-24)
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
 </li>
-<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/9a1VON74XBTu7wJGlvfziZuq1Ok=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930875-1517967292-9252.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5a7b21a-2ebc-4480-953c-88cab7f7e062/15294264800-500.jpg" data-tags="metalcore" role="button">
@@ -317,8 +320,5 @@ Betraying the Martyrs - Phantom (2014-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b180d8c3-d99c-400f-b3b1-296ba764ef27/8633185428-500.jpg" data-tags="deathcore, technical deathcore" role="button">
 Rings of Saturn - Lugal Ki En (2014-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/896c0f0f-4c7f-4359-96a6-d5c1e00627a2/8852141954-500.jpg" data-tags="female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, deathcore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay, metalcore, hair metal" role="button">
-Attila - Guilty Pleasure (2014-11-24)
 </li>
 </ol>
