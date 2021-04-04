@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:32:01.317Z
+date: 2021-04-04T16:53:01.289Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -39,7 +39,7 @@ Roxette - Joyride (1991-03-28)
 <li data-cover="http://coverartarchive.org/release/5c429421-ed50-3199-aeef-514590fa67e0/8355594906-500.jpg" data-tags="swedish, female vocalists, acoustic" role="button">
 Stina Nordenstam - And She Closed Her Eyes (1994)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish" role="button">
+<li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, 1996" role="button">
@@ -72,7 +72,7 @@ The Ark - We Are The Ark (2000-09-25)
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
 The Knife - The Knife (2001-02-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/vGIBafEprVpEk6Hin7hrq1C-S2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280090-1274122601.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Blackwater Park (2001-03-12)
 </li>
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
@@ -83,6 +83,9 @@ Koop - Waltz for Koop (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/f69b764c-3df8-4a32-9195-6868eb08b47a/5243122074-500.jpg" data-tags="industrial metal" role="button">
 Pain - Nothing Remains The Same (2002-01-23)
+</li>
+<li data-cover="https://img.discogs.com/81sbJ_evVaaWj-YpvigRUHot62Y=/fit-in/289x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6185789-1425292961-3289.jpeg.jpg" data-tags="indie" role="button">
+The Perishers - Let There Be Morning (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">
 Caesars - Jerk It Out (2003-03-24)
@@ -132,16 +135,19 @@ Kent - Du & jag döden (2005-03-15)
 <li data-cover="http://coverartarchive.org/release/467ff2fa-879b-3dc1-8aa6-146c331c97f8/19520417064-500.jpg" data-tags="swedish, synthpop, new school, world as oyster" role="button">
 The Tough Alliance - The New School (2005-04-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/a2d9edb0-6131-4ca6-a574-0afafbcdfa48/23890573975-500.jpg" data-tags="indie, pop, swedish, rock" role="button">
+Jens Lekman - Oh You're So Silent Jens (2005-06-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/de86fc39-c61d-3c1f-83fa-108827d12872/1991520366-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Doomsday Machine (2005-07-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">
+<li data-cover="https://img.discogs.com/DdZYV2t-d38dktIOnAPGFjKada8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567459-1225886493.jpeg.jpg" data-tags="indie, swedish" role="button">
 Tiger Lou - The Loyal (2005-10-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, sweden" role="button">
 Billie the Vision & the Dancers - The World According To Pablo (2005-11-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish" role="button">
+<li data-cover="https://img.discogs.com/6iPQWWUEX-cJYNfmmPitdiJZiv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594028-1235087316.jpeg.jpg" data-tags="swedish" role="button">
 The Embassy - Tacking (2005-11-16)
 </li>
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
@@ -195,7 +201,7 @@ Håkan Hellström - För sent för edelweiss (2008-03-26)
 <li data-cover="http://coverartarchive.org/release/b4e86d07-864b-4da7-ad26-0db964061e52/27167335261-500.jpg" data-tags="swedish" role="button">
 Veronica Maggio - Och vinnaren är... (2008-03-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish, buy, favorit, therapy, blandband, markusevangeliet" role="button">
+<li data-cover="https://img.discogs.com/ZxGTw8KEhq3xWQdeJ0PRYWxRpxQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780985-1335607167.jpeg.jpg" data-tags="swedish, buy, favorit, therapy, blandband, markusevangeliet" role="button">
 Markus Krunegård - Markusevangeliet (2008-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
@@ -221,9 +227,6 @@ Peter Bjorn and John - Living Thing (2009-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a95a890f-c2be-4edd-b98e-f86421d63dab/7888128153-500.jpg" data-tags="metalcore, pop metal, modern metal" role="button">
 Dead by April - Dead by April (2009-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer, sincerely yours" role="button">
-jj - jj n° 2 (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f48b7db-b2a9-4122-a631-4b49321c9af0/10270263185-500.jpg" data-tags="indie" role="button">
 Fanfarlo - Reservoir (2009-06-08)
@@ -269,9 +272,6 @@ Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)

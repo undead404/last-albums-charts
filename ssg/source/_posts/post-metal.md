@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:13:01.258Z
+date: 2021-04-04T17:05:01.389Z
 title: "post-metal: 100 albums you must listen to before you die"
 ---
 ![Isis - Panopticon (2004-10-19)](http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg "Isis - Panopticon (2004-10-19)")
@@ -9,9 +9,9 @@ title: "post-metal: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/cRuOXBvTzWZ1NiZrgHh2fWOA-rQ=/fit-in/300x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2795498-1301372915.jpeg.jpg" data-tags="sludge, post-metal" role="button">Cult of Luna - Salvation (2004-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">Isis - Panopticon (2004-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/1fde8540-59cf-4c8d-8429-eb076d03fb05/21557052063-500.jpg" data-tags="post-metal, sludge" role="button">Cult of Luna - Somewhere Along The Highway (2006-04-24)</li>
+<li data-cover="https://img.discogs.com/6ifi1redUdOzAAkz0gVZTZbrRvY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801151-1382705063-4726.jpeg.jpg" data-tags="post-rock, instrumental" role="button">Russian Circles - Enter (2006-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">Agalloch - Ashes Against the Grain (2006-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">Isis - In the Absence of Truth (2006-10-06)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, instrumental" role="button">Russian Circles - Station (2008-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">Isis - Wavering Radiant (2009-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/65bc450d-2304-47d9-b114-e84b8bc56811/3331814020-500.jpg" data-tags="post-metal, post-rock" role="button">Russian Circles - Empros (2011-10-25)</li>
 </ol>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/64bb2d1b-e4ab-4808-be16-5466264c2e65/20845677913-500.jpg" data-tags="sludge, sludge metal, post-metal" role="button">
+Neurosis - Souls at Zero (1992-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/2d7de606-9c1d-4faf-9d47-7f9c8912d3e4/7852290321-500.jpg" data-tags="post-metal, sludge, doom metal" role="button">
 Neurosis - Enemy Of The Sun (1993-08-17)
 </li>
@@ -72,7 +75,7 @@ Isis - Panopticon (2004-10-19)
 <li data-cover="http://coverartarchive.org/release/9b091bcd-f336-3381-a7c3-8783dff901d7/2536665650-500.jpg" data-tags="shoegaze, sludge" role="button">
 Jesu - Jesu (2004-12-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post rock" role="button">
+<li data-cover="https://img.discogs.com/4jl3rgS7nRrJuoG-_E3DESlcG5g=/fit-in/600x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484009-1128096295.jpeg.jpg" data-tags="post rock" role="button">
 Pelican - March Into the Sea (2005-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa271836-6784-4555-bc47-c2fa305c260e/25038392608-500.jpg" data-tags="post-metal, sludge" role="button">
@@ -87,11 +90,8 @@ Minsk - Out Of A Center Which Is Neither Dead Nor Alive (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/c2f2bf8f-68cc-3e30-a358-c9b4373af684/1842852910-500.jpg" data-tags="post-metal, post-rock" role="button">
 Bossk - .1 (2005-10)
 </li>
-<li data-cover="https://img.discogs.com/4RTFVf1AIn5YU7Cij7j-it5ZtfU=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14481201-1575398666-6794.jpeg.jpg" data-tags="post-metal, sludge" role="button">
+<li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/cccebdc4-11d7-4650-8bbc-d39c3be45e9b/6115422720-500.jpg" data-tags="post-black metal, progressive metal" role="button">
-Sólstafir - Masterpiece of Bitterness (2005-12-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c761839-5889-4b72-95a2-031619122e4a/20406280868-500.jpg" data-tags="avant-garde" role="button">
 Kayo Dot - Dowsing Anemone With Copper Tongue (2006-01-10)
@@ -107,6 +107,9 @@ Cult of Luna - Somewhere Along The Highway (2006-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a9d748f-03d6-484e-b45d-61cb6539a9f3/1118804524-500.jpg" data-tags="post-rock, post-metal" role="button">
 Callisto - Noir (2006-05-10)
+</li>
+<li data-cover="https://img.discogs.com/6ifi1redUdOzAAkz0gVZTZbrRvY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801151-1382705063-4726.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
+Russian Circles - Enter (2006-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">
 Agalloch - Ashes Against the Grain (2006-08-08)
@@ -153,6 +156,9 @@ Alcest - Souvenirs d'un autre Monde (2007-07-03)
 <li data-cover="http://coverartarchive.org/release/0f47ff75-3692-4c6a-bf97-46074cbc6455/2491484911-500.jpg" data-tags="instrumental, post-metal" role="button">
 Omega Massif - Geisterstadt (2007-07-16)
 </li>
+<li data-cover="https://img.discogs.com/GDh-Ng1HQYVhre6TKLq_XkU4qUM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101458-1597620920-6186.jpeg.jpg" data-tags="post-metal, crust, sludge" role="button">
+Fall of Efrafa - Elil (2007-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/233fc0af-b35a-4b06-887d-1059a9735452/18650274711-500.jpg" data-tags="sludge, post-metal" role="button">
 Rosetta - Wake/Lift (2007-10-02)
 </li>
@@ -171,6 +177,9 @@ Cult of Luna - Eternal Kingdom (2008-06-16)
 <li data-cover="http://coverartarchive.org/release/c2acdb03-954b-4afc-afd1-ebb9c873a5a8/9303163464-500.jpg" data-tags="sludge" role="button">
 Mouth of the Architect - Quietly (2008-07-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
+Underoath - Lost in the Sound of Separation (2008-09-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/2f4c11df-a540-44ff-bf55-280061b1c396/3230440049-500.jpg" data-tags="progressive metal, post-metal" role="button">
 Intronaut - Prehistoricisms (2008-09-16)
 </li>
@@ -180,7 +189,7 @@ Sólstafir - Köld (2009-01-21)
 <li data-cover="https://img.discogs.com/bKKaoaQCA2aak43BD1APQPJT5wk=/fit-in/371x416/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1921521-1252604182.jpeg.jpg" data-tags="post-metal, progressive metal, post-rock, sludge" role="button">
 Giant Squid - The Ichthyologist (2009-02-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post rock, post-metal" role="button">
+<li data-cover="https://img.discogs.com/lpe0lGKWFeBM_2lXfLFpd6c220Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1809786-1295736258.jpeg.jpg" data-tags="post rock, post-metal" role="button">
 Irepress - Sol Eye Sea I (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8630fe23-abc2-4eb2-b36d-855603ad6719/15855900571-500.jpg" data-tags="post-rock, post-metal" role="button">
@@ -188,9 +197,6 @@ Callisto - Providence (2009-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
-</li>
-<li data-cover="https://img.discogs.com/KNI8SuskkRGwKrtfM_dMQ9OksA4=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689877-1237125003.jpeg.jpg" data-tags="black metal, post-punk" role="button">
-Amesoeurs - Amesoeurs (2009-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/508cd265-21f1-4e9c-a995-ecc620bbd53f/2663399057-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Altar of Plagues - White Tomb (2009-04-13)
@@ -206,9 +212,6 @@ Pelican - Ephemeral (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/kFxILaeR0miu9E9n19Ohx9HL24E=/fit-in/350x314/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876339-1249498435.jpeg.jpg" data-tags="drone, post-metal" role="button">
 Jesu - Infinity (2009-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/dbc9ba41-5627-4c15-93a9-42a6e186e771/8293096366-500.jpg" data-tags="melodic death metal, progressive metal" role="button">
-Ghost Brigade - Isolation Songs (2009-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
@@ -249,9 +252,6 @@ The Ocean - Anthropocentric (2010-11-09)
 <li data-cover="https://img.discogs.com/GR2-kdW4iRzgKcL04flPhTNynbM=/fit-in/400x401/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546882-1289843562.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Underoath - Ø (Disambiguation) (2010-11-09)
 </li>
-<li data-cover="https://img.discogs.com/OXlq4ZPsy0aS_pTXqm9JNw27K1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783932-1486678149-1140.jpeg.jpg" data-tags="post-metal" role="button">
-Light Bearer - Lapsus (2011-03-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee4093b1-28e1-4482-875b-266ffc458b60/1118766922-500.jpg" data-tags="post-rock, post-metal" role="button">
 Exxasens - Eleven Miles (2011-09-11)
 </li>
@@ -273,11 +273,11 @@ If These Trees Could Talk - Red Forest (2012-03-20)
 <li data-cover="http://coverartarchive.org/release/3a28432f-5932-4106-9534-d5e7dbf622df/2904365048-500.jpg" data-tags="post-rock" role="button">
 pg.lost - Key (2012-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/160e5dd6-a49d-4dff-aed5-fe33b52f7476/2401541724-500.jpg" data-tags="german, atmospheric black metal, post-metal, post-black metal" role="button">
-Downfall of Gaia - Suffocating In The Swarm Of Cranes (2012-05-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/ceaa4406-4225-4e3a-89d5-8bbe69af9f47/5823934220-500.jpg" data-tags="post-metal" role="button">
 Toundra - III (2012-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c15eab1-0084-45f7-957d-1ca673472248/10878361310-500.jpg" data-tags="post-hardcore, post-metal" role="button">
+Devil Sold His Soul - Empire of Light (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/094d0e6b-6ebc-4885-b55f-4bd1fc4aee40/2773600365-500.jpg" data-tags="post-metal" role="button">
 Neurosis - Honor Found in Decay (2012-10-30)
@@ -297,7 +297,7 @@ Cult of Luna - Vertikal (2013-01-25)
 <li data-cover="http://coverartarchive.org/release/496e01dc-a9d8-4d30-9b17-569d56faae3f/3697237012-500.jpg" data-tags="progressive metal, post-metal" role="button">
 Intronaut - Habitual Levitations (Instilling Words With Tones) (2013-03-18)
 </li>
-<li data-cover="https://img.discogs.com/yU694wvCnPAQl-L_roF-H8liuUY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5072118-1383740400-3888.jpeg.jpg" data-tags="progressive metal, post-metal" role="button">
+<li data-cover="https://img.discogs.com/fgYdbxA8SDQEd8xdBXFp5QB86ew=/fit-in/388x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4655747-1371398329-7222.jpeg.jpg" data-tags="progressive metal, post-metal" role="button">
 The Ocean - Pelagial (2013-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
@@ -312,13 +312,13 @@ Rosetta - The Anaesthete (2013-08-08)
 <li data-cover="http://coverartarchive.org/release/74528c57-9768-419e-96c0-16b9be11bca4/24295139575-500.jpg" data-tags="post-metal" role="button">
 Pelican - Forever Becoming (2013-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/14e2923f-2344-4d4c-9d24-02d18245412d/5929733555-500.jpg" data-tags="post-metal, post-rock" role="button">
+Russian Circles - Memorial (2013-10-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/78335310-0a5c-4e11-8506-c107150e40d6/6611408756-500.jpg" data-tags="shoegaze, post-metal" role="button">
 Lantlôs - Melting Sun (2014-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6abb840-e434-44f9-8050-5f1be40cc77e/9113432674-500.jpg" data-tags="doom metal" role="button">
 YOB - Clearing the Path to Ascend (2014-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ddecc40-0a49-4651-93f9-37f56039c717/26273077269-500.jpg" data-tags="drone, stoner rock, psychedelic" role="button">
-Earth - Primitive and Deadly (2014-09-02)
 </li>
 </ol>

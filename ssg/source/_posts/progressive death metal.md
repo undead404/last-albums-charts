@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:06:01.235Z
+date: 2021-04-04T17:10:01.268Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -8,7 +8,7 @@ title: "progressive death metal: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/ssTddN9Dv7id16YvJKp3py6Hh64=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484202-1177170908.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - Morningrise (1996-06-24)</li>
 <li data-cover="https://img.discogs.com/r0C4rXz3rBa3T3zLbZpJbi0NwyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1672581-1236025320.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - My Arms, Your Hearse (1998-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">Opeth - Still Life (1999-10-18)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">Opeth - Blackwater Park (2001-03-12)</li>
+<li data-cover="https://img.discogs.com/vGIBafEprVpEk6Hin7hrq1C-S2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280090-1274122601.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - Blackwater Park (2001-03-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">Opeth - Deliverance (2002-11-04)</li>
 <li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">Opeth - Ghost Reveries (2005-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/a430ab40-b6ad-3add-98fe-276d5251a42b/22928954741-500.jpg" data-tags="whalecore, progressive death metal, progressive metal, death metal" role="button">Gojira - From Mars to Sirius (2005-09-27)</li>
@@ -33,7 +33,7 @@ Atheist - Unquestionable Presence (1991-08-30)
 <li data-cover="http://coverartarchive.org/release/c5ca70aa-d86b-4a0d-84fc-910ca6011881/4940989822-500.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Human (1991-10-22)
 </li>
-<li data-cover="https://img.discogs.com/BhrlX49Fo-xpMh4_WBwUE9cDV-0=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379047-1491822746-1283.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
+<li data-cover="https://img.discogs.com/-CYHDSmdGfkUXwMn4PAkiOJ2gzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777733-1584932974-5395.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Individual Thought Patterns (1993-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a3dab5a-2d3b-4c07-aef6-d806d6ea920d/23415824129-500.jpg" data-tags="technical death metal, death metal" role="button">
@@ -102,11 +102,14 @@ Disarmonia Mundi - Nebularium (2001)
 <li data-cover="http://coverartarchive.org/release/33e46b81-b597-4436-bca4-0d34957765bf/19303333985-500.jpg" data-tags="progressive metal" role="button">
 Meshuggah - Rare Trax (2001)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/vGIBafEprVpEk6Hin7hrq1C-S2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280090-1274122601.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Blackwater Park (2001-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b14c7eeb-8aea-3355-b098-329379366fed/18251365994-500.jpg" data-tags="death metal, progressive metal, progressive death metal" role="button">
 Gojira - Terra Incognita (2001-03-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+Meshuggah - Nothing (2002-08-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Deliverance (2002-11-04)
@@ -152,9 +155,6 @@ Cryptopsy - Once Was Not (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ab50207-be9d-4a21-a1bc-0b23e0984acd/16972065596-500.jpg" data-tags="progressive metal" role="button">
 Textures - Drawing Circles (2006-04-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, industrial metal, metal" role="button">
-Strapping Young Lad - The New Black (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b5990e-5608-4c93-9de3-ba16b0f3d212/10206508020-500.jpg" data-tags="technical death metal, death metal" role="button">
 The Faceless - Akeldama (2006-11-14)
@@ -252,7 +252,7 @@ Atheist - Jupiter (2010-11-08)
 <li data-cover="https://img.discogs.com/dnQ8QdfQTs7pw05T-zB6DXIZ8Lk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811868-1526357355-6120.jpeg.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Obscura - Omnivium (2011-03-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/rYU-6dj5pAiZDqP8E5_lczfZlaA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3214919-1320792509.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Beyond Creation - The Aura (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/8158ed9e-789c-4ed5-9e76-5a6fe41cd169/1463332421-500.jpg" data-tags="doom metal" role="button">

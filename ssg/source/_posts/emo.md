@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:30:01.384Z
+date: 2021-04-04T17:44:01.280Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -111,9 +111,6 @@ Armor for Sleep - Dream to Make Believe (2003-06-03)
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">
 Brand New - Deja Entendu (2003-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
-Three Days Grace - Three Days Grace (2003-07-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/a286be17-96f0-3dee-9c66-d8972a04d4e9/1742724035-500.jpg" data-tags="emo" role="button">
 Dashboard Confessional - A Mark, A Mission, A Brand, A Scar (2003-08-11)
 </li>
@@ -204,9 +201,6 @@ Death Cab for Cutie - Plans (2005-08-29)
 <li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
 Augustana - All The Stars and Boulevards (2005-09-06)
 </li>
-<li data-cover="https://img.discogs.com/e84VeEkaHXl-_E6C82BkIGBSJFQ=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1566386-1228911964.jpeg.jpg" data-tags="emo, german, gay metal, tokio hotel, rock" role="button">
-Tokio Hotel - Schrei (2005-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
 Cartel - Chroma (2005-09-20)
 </li>
@@ -231,11 +225,17 @@ Thursday - A City By The Light Divided (2006-05-02)
 <li data-cover="https://img.discogs.com/ClaLRHilRF2O_lgVuQuLzCdFvXM=/fit-in/400x402/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067318-1303565618.jpeg.jpg" data-tags="indie, emo" role="button">
 Plain White T's - Hey There Delilah (2006-05-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
+Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
+Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)

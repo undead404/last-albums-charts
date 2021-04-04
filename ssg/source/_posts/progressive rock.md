@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:45:01.634Z
+date: 2021-04-04T16:58:01.327Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -99,6 +99,9 @@ Electric Light Orchestra - Out of the Blue (1977-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, classic rock" role="button">
 Kansas - Point of Know Return (1977-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
+Supertramp - Breakfast In America (1979)
+</li>
 <li data-cover="http://coverartarchive.org/release/23bf913d-3709-4f84-a3df-f19d3928cb2b/5892233271-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Electric Light Orchestra - Discovery (1979-05-21)
 </li>
@@ -114,10 +117,10 @@ Rush - Moving Pictures (1981-02-06)
 <li data-cover="http://coverartarchive.org/release/9e1604a5-a7b1-46f4-adff-b5c5a8bd33b0/12748445063-500.jpg" data-tags="progressive rock" role="button">
 Asia - Asia (1982-03-18)
 </li>
-<li data-cover="https://img.discogs.com/Hb-VNYpZT5ZGgTAej-IrH4be7pM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2254121-1468077892-9269.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/1yjHvLYMmIOLd7BB7KIYkwd6P5c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5293717-1393691158-7029.jpeg.jpg" data-tags="progressive rock" role="button">
 Rush - Signals (1982-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
@@ -143,9 +146,6 @@ Genesis - Invisible Touch (1986-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
-Pink Floyd - Delicate Sound of Thunder (1988-11-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
@@ -180,7 +180,7 @@ Anathema - Alternative 4 (1998-06-17)
 <li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
 Archive - Take My Head (1999-04-20)
 </li>
-<li data-cover="https://img.discogs.com/lqdcerK4c8xbpCYjmTHXeMaMjdQ=/fit-in/389x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528881-1608936675-9430.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/bXYl9l3hLH72MLJyrk8HBCnYvW8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371766-1443128950-1064.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - Judgement (1999-06-21)
 </li>
 <li data-cover="https://img.discogs.com/gd992Sopc5CcVgIQtYheN6t7QBQ=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14219636-1570113574-4520.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -222,7 +222,7 @@ Muse - Absolution (2003-09-08)
 <li data-cover="https://img.discogs.com/txXCBCvtaF_tayG6iJRYDdx68Do=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367875-1425009360-9153.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Thirteenth Step (2003-09-15)
 </li>
-<li data-cover="https://img.discogs.com/FGPLF4s1qmg4p2ZD8e9fim49-88=/fit-in/599x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371685-1278657433.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/LShQc__qBHN_91LR5-Hs-Z24A24=/fit-in/488x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9404195-1479968090-3673.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - A Natural Disaster (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
@@ -237,7 +237,7 @@ A Perfect Circle - eMOTIVe (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/zg3cDss-LUQ4HxAnxEOLUfcVF0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206885-1590518555-8967.jpeg.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - Deadwing (2005-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:10:01.489Z
+date: 2021-04-04T17:24:01.595Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -237,9 +237,6 @@ Billy Idol - Rebel Yell (1991-04)
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
-<li data-cover="https://img.discogs.com/T1N1f1AXU1XTKd-IPo2E4YM5Cms=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1771648-1245254037.jpeg.jpg" data-tags="electronic" role="button">
-Depeche Mode - Songs of Faith and Devotion (1993-12-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/127b9b29-4252-463b-9d9a-30b888c19867/9417557840-500.jpg" data-tags="electronic, synthpop, 90s" role="button">
 Depeche Mode - Ultra (1997-04-10)
 </li>
@@ -254,6 +251,9 @@ New Order - Get Ready (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">
 The Cure - Greatest Hits (2001-11-12)
+</li>
+<li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
+Shiny Toy Guns - We Are Pilots (2005-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d502300a-494d-42f0-a63c-b66581116f87/7526465944-500.jpg" data-tags="electronic, synthpop" role="button">
 Depeche Mode - Playing the Angel (2005-10-11)

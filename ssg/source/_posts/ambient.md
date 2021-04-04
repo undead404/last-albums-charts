@@ -1,12 +1,12 @@
 ---
-date: 2021-04-04T15:40:01.413Z
+date: 2021-04-04T17:39:01.326Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">Global Communication - 76:14 (1994)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, idm, electronic" role="button">Boards of Canada - Music Has the Right to Children (1998-04-20)</li>
+<li data-cover="https://img.discogs.com/cyPiEmQuKpLEFJF5QLJbqs3lszI=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817322-1175615429.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">Boards of Canada - Music Has the Right to Children (1998-04-20)</li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">Sigur Rós - ágætis byrjun (1999-06)</li>
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - Geogaddi (2002-02-13)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
@@ -29,6 +29,9 @@ Brian Eno - Ambient 1: Music for Airports (1978)
 </li>
 <li data-cover="https://img.discogs.com/y69Li4KB2GZYffBULeD-Nv1LlF0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231002-1266250803.jpeg.jpg" data-tags="ambient" role="button">
 Brian Eno - Thursday Afternoon (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
+Enigma - MCMXC a.D. (1990-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/476d5ee1-266a-45d1-940a-d706663bb3f9/9717211777-500.jpg" data-tags="electronic, ambient" role="button">
 The Orb - The Orb's Adventures Beyond the Ultraworld (1991-04-15)
@@ -72,7 +75,7 @@ Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, idm, electronic" role="button">
+<li data-cover="https://img.discogs.com/cyPiEmQuKpLEFJF5QLJbqs3lszI=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817322-1175615429.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
@@ -210,9 +213,6 @@ Eluvium - Copia (2007-02-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Amiina - Kurr (2007-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea4878cf-aa0b-4763-8f22-4cfc7b4c2881/4158091289-500.jpg" data-tags="ambient, instrumental" role="button">
-Balmorhea - Balmorhea (2007-04)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
 </li>
@@ -282,7 +282,7 @@ Röyksopp - Senior (2010-09-08)
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
 Agnes Obel - Philharmonics (2010-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, drone" role="button">
+<li data-cover="https://img.discogs.com/bmbZJ8aWExCVwnl0YhjisV14knI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705982-1297366221.jpeg.jpg" data-tags="ambient, drone" role="button">
 Tim Hecker - Ravedeath, 1972 (2011-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">

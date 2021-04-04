@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:44:01.299Z
+date: 2021-04-04T16:50:01.326Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -69,7 +69,7 @@ Björk - Homogenic (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, idm, electronic" role="button">
+<li data-cover="https://img.discogs.com/cyPiEmQuKpLEFJF5QLJbqs3lszI=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817322-1175615429.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
@@ -168,8 +168,8 @@ The Chemical Brothers - Push the Button (2004-12)
 <li data-cover="https://img.discogs.com/iuOQqNStC3sJ5-dAXbTifFD7gMc=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949614-1255264923.jpeg.jpg" data-tags="electronic" role="button">
 LCD Soundsystem - LCD Soundsystem (2005-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
-M83 - Before the Dawn Heals Us (2005-01-24)
+<li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
+Shiny Toy Guns - We Are Pilots (2005-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
@@ -206,6 +206,9 @@ Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d1ef500-7004-4756-a45d-8b1f43692dc5/10118092077-500.jpg" data-tags="electronic, electronica" role="button">
 The Chemical Brothers - We Are The Night (2007-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
+New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
@@ -272,9 +275,6 @@ Massive Attack - Heligoland (2010-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">
-Bonobo - Black Sands (2010-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">
 Crystal Castles - Crystal Castles (2010-05-18)

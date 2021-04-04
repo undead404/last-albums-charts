@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:35:01.285Z
+date: 2021-04-04T17:35:01.744Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
+Enigma - MCMXC a.D. (1990-12-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a27363a-f565-33a3-bb1c-c55b5d24db84/2461231103-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Blue Lines (1991-04-08)
 </li>
@@ -98,9 +101,6 @@ Télépopmusik - Genetic World (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
-Nicola Conte - Bossa Per Due (2001-06-12)
 </li>
 <li data-cover="https://img.discogs.com/UVRE9KE-Ba7u4VKWfUvi9M4_PDw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377788-1460896455-8546.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)

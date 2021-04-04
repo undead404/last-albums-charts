@@ -1,11 +1,11 @@
 ---
-date: 2021-04-04T14:18:01.460Z
+date: 2021-04-04T17:03:07.538Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">Nirvana - MTV Unplugged in New York (1994-11-01)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
+<li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">José González - Veneer (2003-10)</li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/h8Q5zIvhJH42i-aTz6nXhmauoB0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695929-1387082547-7142.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/I5gfsIdYLJe5feIIUrJhjDfL3D4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3601686-1381225977-7375.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Five Leaves Left (1969-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
@@ -44,9 +44,6 @@ Eric Clapton - Unplugged (1992-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
-Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">
 Alice in Chains - MTV Unplugged (1996-04-10)
@@ -93,7 +90,7 @@ John Mayer - Room for Squares (2001-06-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="staind, acoustic" role="button">
 Staind - MTV Unplugged (2002)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic, singer-songwriter, folk" role="button">
+<li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
@@ -123,7 +120,7 @@ Sufjan Stevens - Seven Swans (2004-03-16)
 <li data-cover="http://coverartarchive.org/release/db367585-903f-4e9b-94f9-02093795dc2f/14971932845-500.jpg" data-tags="acoustic" role="button">
 Godsmack - The Other Side (2004-03-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
@@ -137,6 +134,9 @@ Fall Out Boy - My Heart Will Always Be the B-Side to My Tongue (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, 2004, acoustic, live" role="button">
+Damien Rice - B-Sides (2004-08-03)
 </li>
 <li data-cover="https://img.discogs.com/Vu7r-6u8MypHy1S1h641RlMKfGg=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8932867-1471756324-1394.mpo.jpg" data-tags="acoustic" role="button">
 John Frusciante - Curtains (2004-12-07)
@@ -168,9 +168,6 @@ Andy McKee - Art of Motion (2006-01-06)
 <li data-cover="http://coverartarchive.org/release/5bf551f7-96be-3f50-8ae4-9895eb26af9a/7965698121-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Sing-A-Longs and Lullabies For The Film Curious George (2006-02-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
-Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
-</li>
 <li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
@@ -188,9 +185,6 @@ Joshua Radin - We Were Here (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/84d537c0-bc24-43dc-ba55-377c25e9c17a/15824345226-500.jpg" data-tags="indie, acoustic" role="button">
 Sufjan Stevens - The Avalanche (2006-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
@@ -264,6 +258,9 @@ Kings of Convenience - Declaration of Dependence (2009-10)
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ad77ab2-75a0-48d1-a00b-745000a6614e/17601301658-500.jpg" data-tags="acoustic, less than 40 minutes" role="button">
+Never Shout Never - what is love? (2010-01-26)
+</li>
 <li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
@@ -273,16 +270,19 @@ The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 <li data-cover="http://coverartarchive.org/release/b9c43a32-116c-4b13-aee5-1b327f544334/23563622864-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - To The Sea (2010-05-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/Npwa0T0tKvmO7Q-4p78l4ELoTZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2832647-1303069251.jpeg.jpg" data-tags="folk" role="button">
 The Head and the Heart - The Head and The Heart (2010-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
 Agnes Obel - Philharmonics (2010-10-04)
 </li>
+<li data-cover="https://img.discogs.com/vRpvXCe6inE8vMVH0Qt7yzI7oM0=/fit-in/265x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713020-1297686499.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, indie folk, dirty hit, benjamin francis leftwich" role="button">
+Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)
 </li>
-<li data-cover="https://img.discogs.com/Soqna-vcIZw-BlpdTqjO_MFu6UI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-102752-1511670693-4317.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
+<li data-cover="https://img.discogs.com/9-ToslPLKgCDbzLLN4fn9MnPOjk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2946107-1506683308-1338.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
 Fink - Perfect Darkness (2011-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">

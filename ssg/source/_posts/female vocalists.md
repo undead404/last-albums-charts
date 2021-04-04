@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:57:01.319Z
+date: 2021-04-04T17:19:01.484Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -117,7 +117,7 @@ Jem - Finally Woken (2004-03-23)
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, indie, 2004" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
@@ -131,9 +131,6 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
-</li>
-<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
-Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
@@ -179,6 +176,9 @@ Regina Spektor - Begin to Hope (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/74832c40-66da-4efa-acec-871e0a72aae2/3946571235-500.jpg" data-tags="pop" role="button">
 Fergie - The Dutchess (2006-06-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">
+Lily Allen - Alright, Still (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)

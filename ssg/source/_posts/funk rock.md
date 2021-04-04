@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:05:01.373Z
+date: 2021-04-04T17:15:01.452Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - I&#39;m With You (2011-08-26)](http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg "Red Hot Chili Peppers - I'm With You (2011-08-26)")
@@ -99,7 +99,7 @@ Living Colour - Biscuits (1991-09-01)
 <li data-cover="https://img.discogs.com/u-J4mk2CvMjx2P9Lfjh9vCj62nA=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8817451-1469396738-5088.jpeg.jpg" data-tags="rock, alternative, alternative rock, funk, american, funk rock, rhcp" role="button">
 Red Hot Chili Peppers - Give It Away (1991-12-05)
 </li>
-<li data-cover="https://img.discogs.com/iC-Ikn0O8FhHOvItwMp3QkvAzvo=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1609168-1285912826.jpeg.jpg" data-tags="primus, cover" role="button">
+<li data-cover="https://img.discogs.com/3nNxy1l1TqsMwYj2Xh-ESidYL4w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-473273-1428439620-5239.jpeg.jpg" data-tags="primus, cover" role="button">
 Primus - Miscellaneous Debris (1992-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a02e8730-2374-330a-8e10-f5097b644982/9458120372-500.jpg" data-tags="hard rock, funk rock" role="button">
@@ -119,6 +119,9 @@ Can - Radio Waves (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
 Primus - Pork Soda (1993-04-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
+311 - Grassroots (1994-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/365f2bc6-b56c-460c-9ce9-cde7bb27e46d/10858606127-500.jpg" data-tags="rock, blues, classic rock" role="button">
 Blues Traveler - Four (1994-09-13)
@@ -168,7 +171,7 @@ Snot - Get Some (1997)
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 </li>
-<li data-cover="https://img.discogs.com/5O5BuMP3o7ymYYOj8A29kTl6IV0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3006004-1331835359.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
+<li data-cover="https://img.discogs.com/uTfnXClz16qG-TOpySujzCWkPY0=/fit-in/600x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11660734-1520198381-9486.png.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
 Incubus - Enjoy Incubus (1997-01-07)
 </li>
 <li data-cover="https://img.discogs.com/xNKw6drUH9yXDBMPpgfoC5wSydE=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710701-1341304554-5854.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
@@ -203,9 +206,6 @@ Turin Brakes - The Optimist LP (2001-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a19191e4-50fc-3d5a-8544-d9ed0adf9cfe/4082270241-500.jpg" data-tags="hip-hop, rap" role="button">
 N*E*R*D - In Search Of... (2001-08-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/11412523-2923-40fe-be4d-837c8c91ea65/5948810300-500.jpg" data-tags="progressive rock" role="button">
-Cire - Pleasure Is Our Enemy (2001-08-06)
 </li>
 <li data-cover="https://img.discogs.com/SXFc2MlxPqDEkUfPPSHdgn70Enw=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501070-1356643028-2297.jpeg.jpg" data-tags="alternative" role="button">
 Oysterhead - The Grand Pecking Order (2001-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:21:01.247Z
+date: 2021-04-04T17:33:01.276Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="1961, rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/9747d54b-1c5b-347e-b244-59c419cf900a/27094892626-500.jpg" data-tags="spaghetti western, western, film score" role="button">
-Ennio Morricone - The Good, The Bad & The Ugly (1966)
-</li>
 <li data-cover="https://img.discogs.com/fNpgPshETlRAfuku7ehyfn2Qy4g=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16242330-1605865595-9864.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
@@ -36,10 +33,10 @@ Pink Floyd - More (1969-06-13)
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/OmsxWs4-CmOFOsnpZDOij0PBi2Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754595-1377707976-4707.jpeg.jpg" data-tags="soundtrack" role="button">
 Queen - Flash Gordon (1980-12-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/2Ke4ZO9nYtPuT3szLTkan8M2_6w=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379321-1122460979.jpg.jpg" data-tags="soundtrack" role="button">
 Vangelis - Chariots Of Fire (1981)
 </li>
 <li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
@@ -66,16 +63,25 @@ Andrew Lloyd Webber - The Phantom of the Opera (1987-03-19)
 <li data-cover="http://coverartarchive.org/release/1f0e6c69-cd39-4a23-96b6-86bb77a003e1/4456245095-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Dirty Dancing (1987-08-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/653617f7-c764-4f52-a4ba-e6a130a6c87d/5409164245-500.jpg" data-tags="twin peaks, dream pop" role="button">
+Julee Cruise - Floating into the Night (1989-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/df7ea720-4e63-4de8-b6f6-b64a7776098b/15625632616-500.jpg" data-tags="soundtrack, 90s, jazz, pop" role="button">
 Madonna - I'm Breathless (1990-05-12)
 </li>
 <li data-cover="https://img.discogs.com/CC3T-htBU79wZAPVB6KNbpfM2QQ=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2304067-1275601230.jpeg.jpg" data-tags="rock, soundtrack, 90s" role="button">
 Jon Bon Jovi - Blaze Of Glory (1990-08-07)
 </li>
+<li data-cover="https://img.discogs.com/pDhLBqBs6D8ODY8kSrKc0iguskY=/fit-in/600x925/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585572-1431987750-2872.jpeg.jpg" data-tags="soundtrack" role="button">
+Angelo Badalamenti - Soundtrack From Twin Peaks (1990-08-31)
+</li>
+<li data-cover="https://img.discogs.com/Z_o-fThDRzoEzGIguGseUv7crhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5355130-1547207943-7011.jpeg.jpg" data-tags="soundtrack" role="button">
+Danny Elfman - Edward Scissorhands (1990-12-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/7550197e-2b87-370b-86c1-c6ef0d29ac85/11507691329-500.jpg" data-tags="soundtrack" role="button">
 Vangelis - 1492: Conquest of Paradise (1992-09-28)
 </li>
-<li data-cover="https://img.discogs.com/gTEDGoLxqfHTLNA3XVRTvvNkJOk=/fit-in/587x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596473-1369480484-5443.jpeg.jpg" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/tBpF-ixSSgM5xE1TqA0XgJcJ-Uc=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13411347-1555094420-6828.mpo.jpg" data-tags="soundtrack" role="button">
 John Williams - Jurassic Park (1993-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7074c5b5-1381-4e12-a596-cde003869cd2/10873806431-500.jpg" data-tags="new age, soundtrack" role="button">
@@ -102,7 +108,7 @@ Vonda Shepard - Songs From Ally McBeal (1998-05-05)
 <li data-cover="http://coverartarchive.org/release/37958dba-1767-4d8a-b242-11d6a0add333/1628998671-500.jpg" data-tags="rock" role="button">
 Aerosmith - Armageddon (1998-07-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/dTHgcizVpZSd0ruVNUP4Dh83Hsc=/fit-in/600x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930078-1432339957-5255.jpeg.jpg" data-tags="soundtrack" role="button">
 Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
@@ -117,7 +123,7 @@ Polaris - Music From The Adventures Of Pete & Pete (1999-04-06)
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
 </li>
-<li data-cover="https://img.discogs.com/50a-nOvBKEe9yer_0nYqGGaKUzg=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440243-1290069016.jpeg.jpg" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/mjjBxjilzai8Lg9Dc3Qq7gQqc04=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1861164-1256085468.jpeg.jpg" data-tags="soundtrack" role="button">
 Björk - Selmasongs (2000-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ffab8b0-49ff-41d4-aa5d-ad26a6601b61/11277532796-500.jpg" data-tags="soundtrack" role="button">
@@ -125,9 +131,6 @@ Various Artists - O Brother, Where Art Thou? (2000-10-23)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/aaeecf1c-207a-4f7d-9df2-5e8a70d9827a/3749023238-500.jpg" data-tags="soundtrack" role="button">
-John Williams - Harry Potter and the Philosopher's Stone (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/71932455-067b-4fcb-b9e4-2cb16da0bb96/1383827288-500.jpg" data-tags="soundtrack" role="button">
 Yann Tiersen - Amélie (2001-04-23)
@@ -138,7 +141,7 @@ Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/a5e56387-0ee3-4824-9e48-58babcb03363/7925565027-500.jpg" data-tags="soundtrack" role="button">
 Akira Yamaoka - Silent Hill 2 (2001-10-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="soundtrack" role="button">
 Badly Drawn Boy - About a Boy (2002-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
@@ -156,6 +159,9 @@ John Murphy - 28 Days Later (2002-11-04)
 <li data-cover="http://coverartarchive.org/release/ffacfd78-14f0-4d37-bcd2-84fbb65ef99d/6298274284-500.jpg" data-tags="soundtrack, ambient" role="button">
 Cliff Martinez - Solaris (2002-12-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/3a27798e-f3df-485d-b50d-5b2ddd3c908a/8838759820-500.jpg" data-tags="soundtrack" role="button">
+Various Artists - Lost in Translation (2003-09-09)
+</li>
 <li data-cover="https://img.discogs.com/1p0S0i7CoUBZT7Iv7NiRs03R29U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8116076-1455457650-7461.jpeg.jpg" data-tags="experimental" role="button">
 Jonny Greenwood - Bodysong (2003-10-27)
 </li>
@@ -167,9 +173,6 @@ The Knife - Hannah med H (2003-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">
 Counting Crows - Accidentally In Love (2004-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/32a158aa-a70e-4f52-8320-3ec7d1752927/1148821569-500.jpg" data-tags="soundtrack" role="button">
-Massive Attack - Danny the Dog (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/22a23fb5-dad5-42d3-b90f-98a7834c0fae/8147320447-500.jpg" data-tags="soundtrack, experimental" role="button">
 Björk - Drawing Restraint 9 (2005-07-25)
@@ -189,7 +192,7 @@ Globus - Epicon (2006-08-07)
 <li data-cover="https://img.discogs.com/wlpdR9G9uNwA73eCGfS9NIErWh8=/fit-in/560x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719826-1158229502.jpeg.jpg" data-tags="football" role="button">
 Mogwai - Zidane: A 21st Century Portrait (2006-10-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/Ou6nX6nIXNWMEzAp3nWybpEE5pw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16199810-1605146727-1040.jpeg.jpg" data-tags="soundtrack" role="button">
 Dario Marianelli - Atonement (2007-01-01)
 </li>
 <li data-cover="https://img.discogs.com/DqfsLu8GNPx_uz9SII_wYxJwZHQ=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2352150-1318498657.jpeg.jpg" data-tags="soundtrack" role="button">
@@ -237,13 +240,10 @@ Paul Kalkbrenner - Berlin Calling (2008-10-02)
 <li data-cover="http://coverartarchive.org/release/87fa0459-f9b1-4ed7-bbb1-95f032b24647/14506036638-500.jpg" data-tags="alternative, paramore, twilight, rock" role="button">
 Paramore - Decode (2008-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad226dcb-379e-48f0-b97e-094f86676951/4500156059-500.jpg" data-tags="soundtrack" role="button">
-Hans Zimmer - Sherlock Holmes (2009)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/EvzWlQmx35ulZwcexVdSEObUGSs=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15721185-1596559946-2217.jpeg.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - Moon (2009-07-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/WL6FOy4opP-7Qiv-i_sGolZlehk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2326183-1284616015.jpeg.jpg" data-tags="soundtrack" role="button">
 Karen O and the Kids - Where The Wild Things Are (2009-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">

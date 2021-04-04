@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:15:01.338Z
+date: 2021-04-04T16:47:01.303Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -57,11 +57,11 @@ The Clash - London Calling (1979-12-14)
 <li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
 Tom Waits - Heartattack and Vine (1980-09)
 </li>
+<li data-cover="https://img.discogs.com/ALWL6pUKpDjvVBD_87s_Ul9i73s=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3802835-1345029926-3937.jpeg.jpg" data-tags="classic, compilation, southern rock, c c r" role="button">
+Creedence Clearwater Revival - Creedence Country (1981)
+</li>
 <li data-cover="https://img.discogs.com/XU-E-eOHgwSQq_r1r81Oo2N0XGM=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10343421-1495673645-4449.jpeg.jpg" data-tags="classic rock, rock, slgdmbestof" role="button">
 The Who - Who's Greatest Hits (1983-05-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
-Billy Joel - An Innocent Man (1983-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/88c30d58-617f-4092-98ba-49f10c243552/6323306000-500.jpg" data-tags="new wave" role="button">
 Frankie Goes to Hollywood - Relax (1983-10-24)
@@ -77,6 +77,9 @@ N.W.A - Straight Outta Compton (1988-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
 Johann Strauss II - Vienna of My Dreams (1990)
+</li>
+<li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
+Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - The Low End Theory (1991-09-24)
@@ -264,11 +267,8 @@ Jens Lekman - Oh You're So Silent Jens (2005-06-08)
 <li data-cover="http://coverartarchive.org/release/5da2b75b-4b30-47ac-bbbb-86ad85a82508/27400864269-500.jpg" data-tags="classic, full tracks, fun to skateboard to, beats for days, excellent lyricism, battle rhymes" role="button">
 Eric B. & Rakim - Gold (2005-06-14)
 </li>
-<li data-cover="https://img.discogs.com/hVMuHLvpoBJRJAMwAdfyXIWycGM=/fit-in/420x421/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1907397-1297257244.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/wqTkBm7nyv0Jjd9K8-lFG4c2Thk=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694470-1520581573-8313.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
-Sublime - Gold (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3655e9f-3db1-434d-bb4b-3529d09b2989/1373313355-500.jpg" data-tags="instrumental hip-hop, hip-hop" role="button">
 J Dilla - Donuts (2006-02-07)

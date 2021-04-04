@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:24:01.522Z
+date: 2021-04-04T17:22:01.298Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -150,9 +150,6 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/e1ca2e07-a4c6-4845-8960-843bfc825d61/27232578190-500.jpg" data-tags="hard rock" role="button">
 Deep Purple - Machine Head (1972-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">
-David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
@@ -164,9 +161,6 @@ Led Zeppelin - Houses of the Holy (1973-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Goodbye Yellow Brick Road (1973-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/de402eab-3c08-4962-b02f-0790d4f35a26/1631010006-500.jpg" data-tags="elton john" role="button">
-Elton John - Greatest Hits (1974-11-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Physical Graffiti (1975-02-24)
@@ -219,6 +213,9 @@ The Rolling Stones - Some Girls (1978-06-09)
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Jazz (1978-11-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
+Supertramp - Breakfast In America (1979)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
 </li>
@@ -261,9 +258,6 @@ Queen - A Kind Of Magic (1986-06-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/27201ec2-e948-3a29-9411-363861e692b7/5516922690-500.jpg" data-tags="classic rock, rock" role="button">
-Dire Straits - Money for Nothing (1988-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/03ffc721-3d27-4fb9-a394-c06da971ee5b/19269133764-500.jpg" data-tags="classic rock, journey, 80s" role="button">
 Journey - Greatest Hits (1988-11-15)
 </li>
@@ -284,6 +278,9 @@ AC/DC - Highway to Hell (1992-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Division Bell (1994-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/29a89b27-ee52-4e84-a411-8b3ae971673d/5262713591-500.jpg" data-tags="eric clapton, blues rock" role="button">
+Eric Clapton - The Cream of Clapton (1994-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e78b3da-31a3-4d3c-b739-9e77c4d7e1f5/26696625551-500.jpg" data-tags="rock" role="button">
 Bon Jovi - Cross Road (1994-10-04)
@@ -317,6 +314,9 @@ David Bowie - Best of Bowie (2002-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Led Zeppelin (2003-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/7009e041-7b5b-4cd5-99d0-2d04830133a3/2271277285-500.jpg" data-tags="classic rock, blues rock, rock" role="button">
+ZZ Top - Greatest Hits (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/54e73133-8168-4400-a1fd-91f2017e701a/8118789895-500.jpg" data-tags="rock, classic rock" role="button">
 Tom Petty and The Heartbreakers - Greatest Hits (2010)
