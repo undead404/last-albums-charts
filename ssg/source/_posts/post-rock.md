@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:28:01.221Z
+date: 2021-04-04T13:29:01.279Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -36,7 +36,7 @@ Bark Psychosis - Hex (1994-02-14)
 <li data-cover="http://coverartarchive.org/release/19d89c34-6a91-4e7a-8d8a-499159e781cf/4483481718-500.jpg" data-tags="post-rock" role="button">
 Tortoise - Millions Now Living Will Never Die (1996-01-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">
+<li data-cover="https://img.discogs.com/4opvcXLy8bbXDmILdXxVQkmzQlM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-r_122593-001.jpg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
@@ -114,7 +114,7 @@ Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/71794ed3-3763-482b-b24e-7a6adf751aa9/22635557412-500.jpg" data-tags="post-rock, post-metal, sludge" role="button">
 Pelican - Australasia (2003-11-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/W6C-QpKrpalhXPs4aDLwy56iQek=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-558039-1131320823.jpeg.jpg" data-tags="post-rock" role="button">
 Red Sparowes - At The Soundless Dawn (2004)
 </li>
 <li data-cover="https://img.discogs.com/nKVi_E6KjzWjALypkTLexazuVyk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10521366-1499152013-3611.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
@@ -132,7 +132,7 @@ El Ten Eleven - El Ten Eleven (2004-08-07)
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
 Isis - Panopticon (2004-10-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, electronic" role="button">
+<li data-cover="https://img.discogs.com/xh711CJOlWSPk9O-Jju1XAL98qs=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467110-1117802145.jpg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">
@@ -168,6 +168,9 @@ Mogwai - Mr. Beast (2006-01)
 <li data-cover="http://coverartarchive.org/release/3bfa4c29-3425-320d-87ae-f6d0e9e83b75/3361339988-500.jpg" data-tags="post-rock" role="button">
 Mono - You Are There (2006-03-15)
 </li>
+<li data-cover="https://img.discogs.com/6ifi1redUdOzAAkz0gVZTZbrRvY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801151-1382705063-4726.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
+Russian Circles - Enter (2006-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c3fcbf5-4d4c-352f-9701-bc3e246e6c95/6533494753-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - If These Trees Could Talk (2006-09)
 </li>
@@ -191,6 +194,9 @@ Explosions in the Sky - All of a Sudden I Miss Everyone (2007-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccefc9af-1767-4fe2-80c9-3a8cfb33a2b3/4793919911-500.jpg" data-tags="post-rock" role="button">
 God Is An Astronaut - Far From Refuge (2007-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/2117afca-c69d-3225-bd8c-ac469ef043cd/14990944529-500.jpg" data-tags="post-rock" role="button">
+Caspian - The Four Trees (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/72bc36e5-6af1-4d62-b72d-ec60cfa5fea6/3248569775-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - The Destruction of Small Ideas (2007-04-25)
@@ -279,17 +285,8 @@ Explosions in the Sky - Take Care, Take Care, Take Care (2011-04-18)
 <li data-cover="http://coverartarchive.org/release/be65cd51-9d05-339f-8fd2-07c9f174c736/21716514907-500.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - Tunnel Blanket (2011-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd366e1c-8c46-487c-804f-664c21cc9e4a/3370183666-500.jpg" data-tags="post-rock" role="button">
-Maybeshewill - I Was Here for a Moment, Then I Was Gone (2011-05-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/65bc450d-2304-47d9-b114-e84b8bc56811/3331814020-500.jpg" data-tags="post-metal, post-rock" role="button">
 Russian Circles - Empros (2011-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/4de22942-1416-409f-a242-47c329288dd5/2239835239-500.jpg" data-tags="shoegaze, post-rock" role="button">
-Alcest - Les voyages de l'Âme (2012-01-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e2f5fb4-5c55-45c3-8e16-572c46a9ddcc/2884696107-500.jpg" data-tags="post-rock" role="button">
-If These Trees Could Talk - Red Forest (2012-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
@@ -303,7 +300,7 @@ Foals - Holy Fire (2013-01-31)
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="post-rock" role="button">
 Sigur Rós - Kveikur (2013-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4514530-80ec-4765-a903-6dac355031e1/5208050605-500.jpg" data-tags="indie, folk, post-rock, indie folk, 10s, 2010s, jagjaguwar, 2013 albums" role="button">
@@ -311,6 +308,9 @@ Volcano Choir - Repave (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6a2f498-410f-4227-9357-da436a70dbf6/7152725363-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - Wild Light (2013-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/af63df92-5839-4e40-9736-e7ef5d7fa66f/5180052800-500.jpg" data-tags="post-rock" role="button">
+God Is An Astronaut - Origins (2013-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/eac0fab9-d4d3-452a-a90e-12648c291187/8379301227-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Rave Tapes (2014-01-14)

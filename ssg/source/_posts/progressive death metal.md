@@ -1,16 +1,16 @@
 ---
-date: 2021-04-03T23:45:01.676Z
+date: 2021-04-04T13:06:01.235Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/IFGIDHvS6UoNFYdSDS-8N1xoaVk=/fit-in/507x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2063665-1397990029-7585.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - Orchid (1995-05-15)</li>
-<li data-cover="https://img.discogs.com/oS19e8grP87OUKD_a_JlYhgT03Y=/fit-in/388x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1814092-1245091235.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - Morningrise (1996-06-24)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">Opeth - My Arms, Your Hearse (1998-06-15)</li>
+<li data-cover="https://img.discogs.com/MuQi4oS9amEkBFoNemwC8s2Ry7E=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8958365-1472242895-3172.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - Orchid (1995-05-15)</li>
+<li data-cover="https://img.discogs.com/ssTddN9Dv7id16YvJKp3py6Hh64=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484202-1177170908.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - Morningrise (1996-06-24)</li>
+<li data-cover="https://img.discogs.com/r0C4rXz3rBa3T3zLbZpJbi0NwyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1672581-1236025320.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">Opeth - My Arms, Your Hearse (1998-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">Opeth - Still Life (1999-10-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">Opeth - Blackwater Park (2001-03-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">Opeth - Deliverance (2002-11-04)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive death metal" role="button">Opeth - Ghost Reveries (2005-08-26)</li>
+<li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">Opeth - Ghost Reveries (2005-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/a430ab40-b6ad-3add-98fe-276d5251a42b/22928954741-500.jpg" data-tags="whalecore, progressive death metal, progressive metal, death metal" role="button">Gojira - From Mars to Sirius (2005-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">Opeth - Watershed (2008-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/5de17f35-cac4-3be0-9b45-cc4ecfe4757a/1603337705-500.jpg" data-tags="progressive death metal, progressive metal, death metal" role="button">Gojira - The Way of All Flesh (2008-10-06)</li>
@@ -33,10 +33,7 @@ Atheist - Unquestionable Presence (1991-08-30)
 <li data-cover="http://coverartarchive.org/release/c5ca70aa-d86b-4a0d-84fc-910ca6011881/4940989822-500.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Human (1991-10-22)
 </li>
-<li data-cover="https://img.discogs.com/y5KMFkY7ROnnlMJCXx7KqV8Dhi0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12612705-1539012871-9836.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
-Demilich - Nespithe (1993-02-08)
-</li>
-<li data-cover="https://img.discogs.com/VYS9KW8PsOMvAv51cjr_J8pCVPA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12919634-1544535766-4033.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
+<li data-cover="https://img.discogs.com/BhrlX49Fo-xpMh4_WBwUE9cDV-0=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379047-1491822746-1283.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Individual Thought Patterns (1993-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a3dab5a-2d3b-4c07-aef6-d806d6ea920d/23415824129-500.jpg" data-tags="technical death metal, death metal" role="button">
@@ -45,7 +42,7 @@ Atheist - Elements (1993-08-30)
 <li data-cover="http://coverartarchive.org/release/a24fa7fe-60fe-44e0-9d2e-cd36f5188477/9660064135-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Pestilence - Spheres (1993-08-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/v9vPGaZNeinY7GV6aali6IVXQSI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1714253-1238695114.jpeg.jpg" data-tags="progressive metal" role="button">
 Cynic - Focus (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bebae7f3-e3be-4cb0-b6c3-9a676b5335e1/1244081839-500.jpg" data-tags="progressive death metal" role="button">
@@ -60,7 +57,7 @@ Edge of Sanity - Purgatory Afterglow (1994-10-01)
 <li data-cover="http://coverartarchive.org/release/321a3c33-9310-4b9f-b104-762e465ec60f/19740394528-500.jpg" data-tags="death metal" role="button">
 Death - Symbolic (1995-03-21)
 </li>
-<li data-cover="https://img.discogs.com/IFGIDHvS6UoNFYdSDS-8N1xoaVk=/fit-in/507x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2063665-1397990029-7585.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/MuQi4oS9amEkBFoNemwC8s2Ry7E=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8958365-1472242895-3172.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Orchid (1995-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a2905c1-90b1-4e1d-9aa8-f9e24cd9601b/14627283366-500.jpg" data-tags="progressive death metal" role="button">
@@ -69,20 +66,23 @@ Edge of Sanity - Crimson (1996-03-06)
 <li data-cover="http://coverartarchive.org/release/3bdb1157-8fc6-4e99-9a49-f4c792a25c59/4588703312-500.jpg" data-tags="progressive metal" role="button">
 Amorphis - Elegy (1996-05-14)
 </li>
-<li data-cover="https://img.discogs.com/oS19e8grP87OUKD_a_JlYhgT03Y=/fit-in/388x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1814092-1245091235.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/ssTddN9Dv7id16YvJKp3py6Hh64=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484202-1177170908.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Morningrise (1996-06-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/yUCs4GuhDFW5WX5X9UDisYQjl2E=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590184-1135687415.jpeg.jpg" data-tags="progressive death metal, progressive metal, death metal" role="button">
 Dan Swanö - Moontower (1998)
 </li>
 <li data-cover="https://img.discogs.com/_EXEd879PXcNdjYtdllk7zctlcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3755131-1468966762-1443.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Gorguts - Obscura (1998)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/r0C4rXz3rBa3T3zLbZpJbi0NwyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1672581-1236025320.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - My Arms, Your Hearse (1998-06-15)
 </li>
 <li data-cover="https://img.discogs.com/AbOZtsdj39rFsDoZ3eEiWLrGh0Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10844672-1508180070-4387.jpeg.jpg" data-tags="death metal, progressive death metal" role="button">
 Death - The Sound of Perseverance (1998-09-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="technical death metal" role="button">
+Necrophagist - Onset of Putrefaction (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/9be26763-808a-48e5-94b2-cbea9fd0b6ea/5877316887-500.jpg" data-tags="melodic death metal" role="button">
 Dark Tranquillity - Projector (1999-06-21)
@@ -120,7 +120,7 @@ The Project Hate MCMXCIX - Hate, Dominate, Congregate, Eliminate (2003-08-25)
 <li data-cover="https://img.discogs.com/vwWCTiSZnAC4Dgh7cJOVCCW8vXg=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10943377-1506940240-1195.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Lamentations (2003-11-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/PB1ilGWrlrbFoD1y2IfIt2qxaWg=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681337-1544038382-8883.jpeg.jpg" data-tags="progressive death metal, death metal" role="button">
 Augury - Concealed (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5dadbce-5ab6-4352-a1e4-5d02180e1337/7644002795-500.jpg" data-tags="progressive metal, melodic death metal" role="button">
@@ -129,8 +129,8 @@ Into Eternity - Buried In Oblivion (2004-02-10)
 <li data-cover="http://coverartarchive.org/release/1d68409b-dc2c-4206-8632-63f4e3428206/6424382802-500.jpg" data-tags="progressive metal" role="button">
 Disillusion - Back To Times of Splendor (2004-04-05)
 </li>
-<li data-cover="https://img.discogs.com/B-gtDafGTXJosxXNOmdbnQKa3ls=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820390-1265235936.jpeg.jpg" data-tags="melodic death metal, technical death metal" role="button">
-Quo Vadis - Defiant Imagination (2004-11-04)
+<li data-cover="http://coverartarchive.org/release/6fd013d6-d481-45fe-8746-e99de6cd6aeb/6127775279-500.jpg" data-tags="technical death metal" role="button">
+Necrophagist - Epitaph (2004-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/57af609b-0e67-39c0-ba78-6002f0681018/3089176096-500.jpg" data-tags="melodic death metal" role="button">
 Scar Symmetry - Symmetric in Design (2005-02-07)
@@ -138,7 +138,7 @@ Scar Symmetry - Symmetric in Design (2005-02-07)
 <li data-cover="http://coverartarchive.org/release/c9ca3d33-881c-41ad-8ad0-a6edd1aec185/15808991556-500.jpg" data-tags="progressive metal" role="button">
 Gojira - The Link Alive (2005-04-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive death metal" role="button">
+<li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Ghost Reveries (2005-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
@@ -147,11 +147,11 @@ Between the Buried and Me - Alaska (2005-09-06)
 <li data-cover="http://coverartarchive.org/release/a430ab40-b6ad-3add-98fe-276d5251a42b/22928954741-500.jpg" data-tags="whalecore, progressive death metal, progressive metal, death metal" role="button">
 Gojira - From Mars to Sirius (2005-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/0db7c2d5-0532-4471-a6b0-d13bfd683ce4/10420306473-500.jpg" data-tags="technical death metal, death metal" role="button">
+Cryptopsy - Once Was Not (2005-10-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/9ab50207-be9d-4a21-a1bc-0b23e0984acd/16972065596-500.jpg" data-tags="progressive metal" role="button">
 Textures - Drawing Circles (2006-04-17)
-</li>
-<li data-cover="https://img.discogs.com/Q9QI5NeJTC_IAIzzKO5dnG2CgwI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1182813-1578791442-3897.jpeg.jpg" data-tags="melodic death metal" role="button">
-Disarmonia Mundi - Mind Tricks (2006-06-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, industrial metal, metal" role="button">
 Strapping Young Lad - The New Black (2006-07-11)
@@ -162,7 +162,7 @@ The Faceless - Akeldama (2006-11-14)
 <li data-cover="http://coverartarchive.org/release/27a20bb8-4905-4599-bf6a-3c3e6d3d6f6f/8878190763-500.jpg" data-tags="melodic death metal" role="button">
 Be'lakor - The Frail Tide (2007-04-21)
 </li>
-<li data-cover="https://img.discogs.com/oF3Ao5LUzpIbRzrgJZLVGvf5hxU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6907940-1593346862-1623.jpeg.jpg" data-tags="melodic death metal, progressive death metal" role="button">
+<li data-cover="https://img.discogs.com/bMAhUNP3ite30A6Y3EnfSSpB49c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1142470-1499195765-4915.jpeg.jpg" data-tags="melodic death metal, progressive death metal" role="button">
 Becoming the Archetype - The Physics Of Fire (2007-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/36ecf488-9cdb-391a-9f51-d0c34254d045/19974817755-500.jpg" data-tags="mathcore" role="button">
@@ -191,6 +191,9 @@ Gojira - The Way of All Flesh (2008-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/89d8943c-507f-4476-8b61-dbfef0dce878/9150512902-500.jpg" data-tags="progressive metal" role="button">
 Cynic - Traced in Air (2008-10-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, progressive death metal" role="button">
+The Faceless - Planetary Duality (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/95a4f340-e792-42a2-b13f-95c7270c7174/15431927045-500.jpg" data-tags="progressive death metal" role="button">
 Becoming the Archetype - Dichotomy (2008-11-25)
@@ -225,7 +228,7 @@ Between the Buried and Me - The Great Misdirect (2009-10-26)
 <li data-cover="http://coverartarchive.org/release/321ba2e7-9476-4573-84c8-e138bd8561d9/1078403771-500.jpg" data-tags="doom metal, death doom metal" role="button">
 Swallow the Sun - New Moon (2009-11-04)
 </li>
-<li data-cover="https://img.discogs.com/GBfbwTtFYmTaWJSGHtr5-S89Xjs=/fit-in/360x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2812341-1302132786.jpeg.jpg" data-tags="japanese, progressive metal, death metal, j-rock, visual kei, progressive death metal, experimental metal" role="button">
+<li data-cover="https://img.discogs.com/y8tdS-CsxGXSM0fExwrKW3Lme3E=/fit-in/600x826/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8854784-1470165164-6699.jpeg.jpg" data-tags="japanese, progressive metal, death metal, j-rock, visual kei, progressive death metal, experimental metal" role="button">
 DIR EN GREY - 激しさと、この胸の中で絡み付いた灼熱の闇 (2009-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e1ce544-b97e-43e9-b225-7f6e7c3c31a9/10894091664-500.jpg" data-tags="death metal, brutal technical death metal, progressive death metal" role="button">
@@ -240,7 +243,7 @@ In Mourning - Monolith (2010-01-25)
 <li data-cover="http://coverartarchive.org/release/56baaa09-0d66-4f4c-82a1-7c7fc9f44779/2171692626-500.jpg" data-tags="melodic death metal, progressive death metal" role="button">
 Barren Earth - Curse Of The Red River (2010-03-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive death metal" role="button">
+<li data-cover="https://img.discogs.com/gfGcVd-jmw87T-EZIdc-U4gtIrg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6543301-1421626550-6530.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - In Live Concert At The Royal Albert Hall (2010-09-17)
 </li>
 <li data-cover="https://img.discogs.com/9JJxBqVTXBA17WOa9sti9vCGGSM=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2527272-1614454781-8698.jpeg.jpg" data-tags="technical death metal, progressive death metal, death metal" role="button">
@@ -248,9 +251,6 @@ Atheist - Jupiter (2010-11-08)
 </li>
 <li data-cover="https://img.discogs.com/dnQ8QdfQTs7pw05T-zB6DXIZ8Lk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811868-1526357355-6120.jpeg.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Obscura - Omnivium (2011-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ded68b3-fe23-43dc-8d84-2fb25c343c47/7574751526-500.jpg" data-tags="progressive death metal" role="button">
-Becoming the Archetype - Celestial Completion (2011-03-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, death metal" role="button">
 Beyond Creation - The Aura (2011-04-12)
@@ -261,7 +261,7 @@ Novembers Doom - Aphotic (2011-05-10)
 <li data-cover="http://coverartarchive.org/release/99c84ccf-8593-483f-9f3c-e7f16a6a0ddc/8684736002-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Fallujah - The Harvest Wombs (2011-11-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, progressive death metal" role="button">
+<li data-cover="https://img.discogs.com/roYZKmTRgm4QwF6Gne2ddG9aDiA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3487046-1332324660.jpeg.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Gorod - A Perfect Absolution (2012-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ad0e9b4-b69f-4e64-a677-ac0331f3b530/2458395785-500.jpg" data-tags="melodic death metal, progressive metal, progressive death metal" role="button">

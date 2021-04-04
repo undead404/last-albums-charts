@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:10:01.290Z
+date: 2021-04-04T13:15:01.338Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -75,9 +75,6 @@ Minor Threat - Salad Days (1985-04)
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5470b73-b208-4f26-97d7-a6d8f50921ed/2236356187-500.jpg" data-tags="hip-hop, 80s" role="button">
-Beastie Boys - Paul's Boutique (1989-07-25)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
 Johann Strauss II - Vienna of My Dreams (1990)
 </li>
@@ -137,6 +134,9 @@ Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/EXamPlwUDqixPmqrwB3cC3rueyM=/fit-in/590x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6961156-1430479331-7038.jpeg.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - Requiem (1995-10-02)
+</li>
+<li data-cover="https://img.discogs.com/zS6K-dUHisH0OBkxm8rMTE4JEq8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-176596-1160583262.jpeg.jpg" data-tags="hip-hop" role="button">
+GZA/Genius - Liquid Swords (1995-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/391339a8-de89-4817-80c3-08c0557941f5/15298625389-500.jpg" data-tags="classic, rap, real hip-hop, hiphop classic albums, my collection great 150 albumz of rap, hs-college, 5 star rap, pih-poh" role="button">
 LL Cool J - Mr. Smith (1995-11-20)

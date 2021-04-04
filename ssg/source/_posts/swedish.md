@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:08:01.245Z
+date: 2021-04-04T13:32:01.317Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -48,7 +48,7 @@ Kent - Verkligen (1996-03-15)
 <li data-cover="http://coverartarchive.org/release/6f7a28b7-c6e0-4a65-870e-7e9e82d33511/4520869611-500.jpg" data-tags="90s, pop" role="button">
 The Cardigans - First Band On The Moon (1996-08-10)
 </li>
-<li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/iKzxIfyvRbAxGW8RjrkLomw4Pf0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2111775-1349454043-3535.jpeg.jpg" data-tags="pop, 90s" role="button">
 Eagle-Eye Cherry - Desireless (1997)
 </li>
 <li data-cover="https://img.discogs.com/z2LDdrcrJCZrsCEHspi5LC0Ww_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418547-1274954407.jpeg.jpg" data-tags="swedish" role="button">
@@ -83,9 +83,6 @@ Koop - Waltz for Koop (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/f69b764c-3df8-4a32-9195-6868eb08b47a/5243122074-500.jpg" data-tags="industrial metal" role="button">
 Pain - Nothing Remains The Same (2002-01-23)
-</li>
-<li data-cover="https://img.discogs.com/81sbJ_evVaaWj-YpvigRUHot62Y=/fit-in/289x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6185789-1425292961-3289.jpeg.jpg" data-tags="indie" role="button">
-The Perishers - Let There Be Morning (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">
 Caesars - Jerk It Out (2003-03-24)
@@ -123,7 +120,7 @@ Mando Diao - Hurricane Bar (2004-09-08)
 <li data-cover="http://coverartarchive.org/release/33194adb-690c-4978-822b-a4e6e7c26b66/16406458688-500.jpg" data-tags="pop, swedish" role="button">
 Peter Bjorn and John - Falling Out (2004-10-20)
 </li>
-<li data-cover="https://img.discogs.com/wqzWHSlPK9hGub5VD2q0Eti1E4s=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159224-1249246899.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
+<li data-cover="https://img.discogs.com/beKc7sAiHUweEnNafpZsZziLVjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608223-1572388236-8158.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
 Robyn - Robyn (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/217c3eef-272e-475b-9959-d9e6f092369c/3671648879-500.jpg" data-tags="indie" role="button">
@@ -132,16 +129,13 @@ Håkan Hellström - Ett kolikbarns bekännelser (2005-02-09)
 <li data-cover="http://coverartarchive.org/release/2ae3ea06-a05a-4389-b2eb-551a3ec9a0ae/13097774396-500.jpg" data-tags="swedish" role="button">
 Kent - Du & jag döden (2005-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/467ff2fa-879b-3dc1-8aa6-146c331c97f8/19520417064-500.jpg" data-tags="2005, swedish, synthpop, registret, new school, world as oyster" role="button">
+<li data-cover="http://coverartarchive.org/release/467ff2fa-879b-3dc1-8aa6-146c331c97f8/19520417064-500.jpg" data-tags="swedish, synthpop, new school, world as oyster" role="button">
 The Tough Alliance - The New School (2005-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2d9edb0-6131-4ca6-a574-0afafbcdfa48/23890573975-500.jpg" data-tags="indie, pop, swedish, rock" role="button">
-Jens Lekman - Oh You're So Silent Jens (2005-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/de86fc39-c61d-3c1f-83fa-108827d12872/1991520366-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Doomsday Machine (2005-07-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="2005, indie, swedish" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">
 Tiger Lou - The Loyal (2005-10-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, sweden" role="button">
@@ -168,8 +162,14 @@ The Radio Dept. - Pet Grief (2006-04-12)
 <li data-cover="https://img.discogs.com/k0hr64G-d7eA6WlD7l0CC6xedeA=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-793834-1159431566.jpeg.jpg" data-tags="indie pop" role="button">
 I'm from Barcelona - Let Me Introduce My Friends (2006-04-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0fb27e8-5657-39a5-b416-9db725a8a759/4282962071-500.jpg" data-tags="nu jazz, jazz" role="button">
+Koop - Koop Islands (2006-09-27)
+</li>
 <li data-cover="https://img.discogs.com/uYeOKQjJxNJW-8cbGTjaqk4CKr0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189055-1199463190.jpeg.jpg" data-tags="melodic death metal" role="button">
 Sonic Syndicate - Only Inhuman (2007-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c1f9dc2-fb74-4e32-8f00-4fc1c9d530b2/5430078227-500.jpg" data-tags="trip-hop, chillout" role="button">
+Little Dragon - Little Dragon (2007-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
@@ -195,16 +195,16 @@ Håkan Hellström - För sent för edelweiss (2008-03-26)
 <li data-cover="http://coverartarchive.org/release/b4e86d07-864b-4da7-ad26-0db964061e52/27167335261-500.jpg" data-tags="swedish" role="button">
 Veronica Maggio - Och vinnaren är... (2008-03-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish, buy, favorit, therapy, registret, blandband, markusevangeliet" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="swedish, buy, favorit, therapy, blandband, markusevangeliet" role="button">
 Markus Krunegård - Markusevangeliet (2008-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
 Kleerup - Kleerup (2008-05-21)
 </li>
-<li data-cover="https://img.discogs.com/gUZ66eRNlRILHIOS27nQXq05yuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423483-1420821003-7046.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/1jNtSCaTsGHcrE8MP1dMy9Blc_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387021-1420820995-5154.jpeg.jpg" data-tags="electronic" role="button">
 Air France - No Way Down (2008-06-23)
 </li>
-<li data-cover="https://img.discogs.com/1JrX-TW4TGpPS_HKoJbRML9q3oA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472895-1241973961.jpeg.jpg" data-tags="swedish, registret, dloved, on tour 2009" role="button">
+<li data-cover="https://img.discogs.com/1JrX-TW4TGpPS_HKoJbRML9q3oA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472895-1241973961.jpeg.jpg" data-tags="swedish, dloved, on tour 2009" role="button">
 Hello Saferide - More Modern Short Stories From Hello Saferide (2008-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ab39158-1e64-4576-af54-9df29e2c9668/25606670378-500.jpg" data-tags="rock, swedish" role="button">
@@ -231,7 +231,7 @@ Fanfarlo - Reservoir (2009-06-08)
 <li data-cover="https://img.discogs.com/azrGozdNtE2YKltQspOG9n76ymA=/fit-in/389x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1894389-1251416847.jpeg.jpg" data-tags="pop, swedish" role="button">
 Sally Shapiro - My Guilty Pleasure (2009-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish, folk, laptop, female singer songwriter, svenska, melissa horn, skandinawien, m horn" role="button">
+<li data-cover="https://img.discogs.com/bp3QB6PymXeiI_Qej9FuLdAMmOw=/fit-in/408x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2912134-1311324602.jpeg.jpg" data-tags="swedish, folk, female singer songwriter, svenska, melissa horn, skandinawien, m horn" role="button">
 Melissa Horn - Säg ingenting till mig (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/57e289f1-eaf0-4adc-bd7a-d06577e739a7/973535414-500.jpg" data-tags="swedish" role="button">
@@ -264,7 +264,7 @@ Lykke Li - Wounded Rhymes (2011-02-28)
 <li data-cover="https://img.discogs.com/FR40N422nP5djNhesTfiTkMcSFQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916148-1307131262.jpeg.jpg" data-tags="indie, alternative, swedish, indie pop" role="button">
 Peter Bjorn and John - Gimme Some (2011-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, laptop, 10s, swedish poprock" role="button">
+<li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, 10s, swedish poprock" role="button">
 Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">

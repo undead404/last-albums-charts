@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:48:01.277Z
+date: 2021-04-04T12:57:01.296Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -8,7 +8,7 @@ title: "stoner rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1c6604be-6d67-3152-a7c5-ea526e377d41/12185159321-500.jpg" data-tags="stoner rock" role="button">Queens of the Stone Age - Queens of the Stone Age (1998-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/76acfd13-61b9-424b-9087-86b1f4e4f13c/7629907572-500.jpg" data-tags="stoner rock" role="button">Queens of the Stone Age - Rated R (2000-06-05)</li>
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">Queens of the Stone Age - Songs for the Deaf (2002-08-17)</li>
-<li data-cover="https://img.discogs.com/mLHsKWRrH4SZ9Kp11H0CjEo6fw0=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-597714-1136635325.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)</li>
+<li data-cover="https://img.discogs.com/jBzR_P3-JnpTBSU2IYwpLY9VZK4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5330495-1390727105-4933.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)</li>
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">Eagles of Death Metal - Death By Sexy (2006-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">Queens of the Stone Age - Era Vulgaris (2007-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
@@ -29,9 +29,6 @@ Black Sabbath - Master of Reality (1971-07-21)
 </li>
 <li data-cover="https://img.discogs.com/kOsQtwg93cIn5cQLz0MIvDpUssg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1674075-1474044330-8654.jpeg.jpg" data-tags="stoner rock" role="button">
 Kyuss - Wretch (1991-09-23)
-</li>
-<li data-cover="https://img.discogs.com/Q2rq_XlwSX_VPHleZ5J4BJilcyg=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565195-1132346436.jpeg.jpg" data-tags="stoner rock" role="button">
-Monster Magnet - Spine of God (1991-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/42869337-4390-39af-899e-c585daef89a4/3675943253-500.jpg" data-tags="stoner rock" role="button">
 Kyuss - Blues for the Red Sun (1992-06-30)
@@ -150,6 +147,9 @@ Fu Manchu - California Crossing (2001-10-23)
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Songs for the Deaf (2002-08-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/3e5e3a41-9d84-44c0-a574-48cda73cde95/7574819387-500.jpg" data-tags="rock" role="button">
+Chevelle - Wonder What's Next (2002-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/2b137ee7-971c-4f7a-8a6d-9add99ed0f0a/12622084383-500.jpg" data-tags="rock, dance punk" role="button">
 Death from Above 1979 - Heads Up (2002-12-15)
 </li>
@@ -174,7 +174,7 @@ Clutch - Blast Tyrant (2004-03-30)
 <li data-cover="http://coverartarchive.org/release/7f7bce4f-00b2-4284-8fff-50fc71c9cfe9/11089358340-500.jpg" data-tags="stoner rock, stoner metal" role="button">
 Om - Variations on a Theme (2005-02-15)
 </li>
-<li data-cover="https://img.discogs.com/mLHsKWRrH4SZ9Kp11H0CjEo6fw0=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-597714-1136635325.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/jBzR_P3-JnpTBSU2IYwpLY9VZK4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5330495-1390727105-4933.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">
 Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/52edab85-3956-4253-bd98-d42ace34e82c/1501069082-500.jpg" data-tags="stoner rock, heavy metal, metal" role="button">

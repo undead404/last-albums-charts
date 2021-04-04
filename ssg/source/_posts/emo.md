@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:51:01.481Z
+date: 2021-04-04T13:30:01.384Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -228,6 +228,9 @@ Taking Back Sunday - Louder Now (2006-04-24)
 <li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - A City By The Light Divided (2006-05-02)
 </li>
+<li data-cover="https://img.discogs.com/ClaLRHilRF2O_lgVuQuLzCdFvXM=/fit-in/400x402/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067318-1303565618.jpeg.jpg" data-tags="indie, emo" role="button">
+Plain White T's - Hey There Delilah (2006-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
@@ -317,8 +320,5 @@ The Hotelier - Home, Like Noplace Is There (2014-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcd35a02-5508-48ac-aed1-da82fae6287c/7870056008-500.jpg" data-tags="emo" role="button">
 Hawthorne Heights - The Silence in Black and White (2014-05-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
-Tove Lo - Queen of the Clouds (2014-09-24)
 </li>
 </ol>

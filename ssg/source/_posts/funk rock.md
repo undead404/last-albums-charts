@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:24:01.553Z
+date: 2021-04-04T13:05:01.373Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - I&#39;m With You (2011-08-26)](http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg "Red Hot Chili Peppers - I'm With You (2011-08-26)")
@@ -8,10 +8,10 @@ title: "funk rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">Red Hot Chili Peppers - Freaky Styley (1985-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/35a28722-a9ed-3bcd-975d-2a3fede3907b/5891797788-500.jpg" data-tags="hard rock" role="button">Extreme - Extreme II: Pornograffitti (1990-08-07)</li>
-<li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">Red Hot Chili Peppers - One Hot Minute (1995-09-08)</li>
+<li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">Red Hot Chili Peppers - One Hot Minute (1995-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/a19191e4-50fc-3d5a-8544-d9ed0adf9cfe/4082270241-500.jpg" data-tags="hip-hop, rap" role="button">N*E*R*D - In Search Of... (2001-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">The Heavy - The House That Dirt Built (2009-09-18)</li>
-<li data-cover="https://img.discogs.com/nirjoWfz4KbosdItc1grFg8cnc8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3098999-1504632132-4849.jpeg.jpg" data-tags="pop, maroon 5" role="button">Maroon 5 - Hands All Over (2010-09-15)</li>
+<li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">Maroon 5 - Hands All Over (2010-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg" data-tags="funk rock, alternative rock, rock" role="button">Red Hot Chili Peppers - I'm With You (2011-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">The 1975 - The 1975 (2013-08-30)</li>
 </ol>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/98392e46-ed13-38ce-af5f-0bc70db73587/2333519128-500.jpg" data-tags="the beatles, 60s, classic rock, beatles" role="button">
 The Beatles - Hey Jude (1970-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/f6f667eb-5729-495b-8cfc-bfe7b2f410de/11827369455-500.jpg" data-tags="soul, 70s" role="button">
-Ike & Tina Turner - Workin' Together (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/df2bb44c-c508-3499-8f6e-bbb942b30f5e/15629060205-500.jpg" data-tags="rock, classic rock" role="button">
 Jimi Hendrix - The Cry of Love (1971-03-05)
@@ -39,11 +36,11 @@ David Bowie - Station to Station (1976-01-23)
 <li data-cover="http://coverartarchive.org/release/c2d276a9-3765-3e0e-b42a-eeeb83622d64/20775348580-500.jpg" data-tags="classic rock, 70s" role="button">
 The Rolling Stones - Black And Blue (1976-04-23)
 </li>
+<li data-cover="https://img.discogs.com/LAA_tTIop6NOfDlDG_TN6NQ7v6Q=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6213722-1413886117-8326.jpeg.jpg" data-tags="70s, soul, funk" role="button">
+Earth, Wind & Fire - All 'N All (1977)
+</li>
 <li data-cover="https://img.discogs.com/32880biZR_MPzWMMIxKQOPOn0go=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405301-1133348183.jpeg.jpg" data-tags="funk" role="button">
 Eddie Hazel - Game, Dames And Guitar Thangs (1977)
-</li>
-<li data-cover="https://img.discogs.com/WyMik-9PyHKOrCL0ZzDM3dOtYkI=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7530870-1443697284-4526.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
-Japan - Adolescent Sex (1978-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
 Queen - Hot Space (1982-05-21)
@@ -51,7 +48,7 @@ Queen - Hot Space (1982-05-21)
 <li data-cover="https://img.discogs.com/nl-ZymI2pTJIvpx46sA72XyYSg0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1424847-1586294462-8253.jpeg.jpg" data-tags="punk, post-punk" role="button">
 Minutemen - Double Nickels on the Dime (1984-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">
+<li data-cover="https://img.discogs.com/P-IsgOwwUvBnHxQdrSfEQ9aY3mg=/fit-in/600x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12082107-1527936657-8458.jpeg.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
@@ -59,12 +56,6 @@ Red Hot Chili Peppers - Freaky Styley (1985-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2181c8e6-3444-3eb2-8955-bd5f3c27989e/10132334703-500.jpg" data-tags="80s, new wave" role="button">
 Duran Duran - Notorious (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/08b5f721-71e3-4a53-9b72-e0edbee1ddd2/8974871981-500.jpg" data-tags="rock, 80s" role="button">
-Titãs - Cabeça Dinossauro (1986-06)
-</li>
-<li data-cover="https://img.discogs.com/eFRu1fKhwJU8dzsFzJD4UmbQDjM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14504765-1575900847-3364.jpeg.jpg" data-tags="pop, rock, alternative, alternative rock, funk, latin, funk rock" role="button">
-Kobranocka - Sztuka jest skarpetką kulawego (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)
@@ -81,14 +72,23 @@ Cazuza - Burguesia (1989)
 <li data-cover="http://coverartarchive.org/release/b231929d-60f7-4768-b60b-2130b23447ce/9166547195-500.jpg" data-tags="instrumental, acoustic, acoustic rock, funk rock, progressive funk rock, acoustic funk rock" role="button">
 Blues Saraceno - Never Look Back (1989)
 </li>
-<li data-cover="https://img.discogs.com/lNO2jMj9eb9SFinvIiZlvSciFu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14198471-1569709171-6319.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">
+Faith No More - The Real Thing (1989-06-20)
+</li>
+<li data-cover="https://img.discogs.com/MvDKvPnaNPS-0SKTWSLrR53OHTA=/fit-in/381x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7564072-1444255615-2132.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Let Love Rule (1989-07-23)
+</li>
+<li data-cover="https://img.discogs.com/YqqCs70buzegtoFW7myFLVnsQ8U=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000806-1508266484-8892.jpeg.jpg" data-tags="funk metal" role="button">
+Primus - Frizzle Fry (1990-05-31)
 </li>
 <li data-cover="https://img.discogs.com/Czjx-Evs1ry3YEs-pyzuOBH6kqY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5915276-1406214919-8685.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
 Living Colour - Time's Up (1990-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/35a28722-a9ed-3bcd-975d-2a3fede3907b/5891797788-500.jpg" data-tags="hard rock" role="button">
 Extreme - Extreme II: Pornograffitti (1990-08-07)
+</li>
+<li data-cover="https://img.discogs.com/uWYZD9MKg_5lNw0iMtfhLJ27mwc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2155704-1267016268.jpeg.jpg" data-tags="funk" role="button">
+Fishbone - The Reality of My Surroundings (1991-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
 Primus - Sailing The Seas Of Cheese (1991-05-14)
@@ -105,13 +105,13 @@ Primus - Miscellaneous Debris (1992-03-12)
 <li data-cover="http://coverartarchive.org/release/a02e8730-2374-330a-8e10-f5097b644982/9458120372-500.jpg" data-tags="hard rock, funk rock" role="button">
 Extreme - III Sides To Every Story (1992-08-20)
 </li>
-<li data-cover="https://img.discogs.com/IKeEBc_KxpKHr6G3dsKx1_N6oaQ=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184039-1151888123.jpeg.jpg" data-tags="funk, metal" role="button">
+<li data-cover="https://img.discogs.com/WQZj-xfAaLTCC-eMXu8IxwYAaz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373112-1261422063.jpeg.jpg" data-tags="funk, metal" role="button">
 Praxis - Transmutation (Mutatis Mutandis) (1992-09-08)
 </li>
-<li data-cover="https://img.discogs.com/raOClX5o2JTdJW58CjwDsrzNTww=/fit-in/600x428/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300616-1450088648-3728.jpeg.jpg" data-tags="alternative, modern rock, live, funk rock, s doctors" role="button">
+<li data-cover="https://img.discogs.com/Mj55Tjo8nRZBvQXvyBoKzC28ptg=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359708-1444401250-7309.jpeg.jpg" data-tags="alternative, modern rock, live, funk rock, s doctors" role="button">
 Spin Doctors - HOMEBELLY GROOVE (1992-11-24)
 </li>
-<li data-cover="https://img.discogs.com/DkjQKIIUCshrsI6pS_ApP28e3es=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903871-1317585360.jpeg.jpg" data-tags="experimental, experimental rock, krautrock, psychedelic, 90s, bootleg, funk rock, avant-rock, improvised music, psych-rock" role="button">
+<li data-cover="https://img.discogs.com/ivb7lsw3Mjy5JjFlrh8_uNjL7og=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11169404-1549725553-1006.jpeg.jpg" data-tags="experimental, experimental rock, krautrock, psychedelic, 90s, bootleg, funk rock, avant-rock, improvised music, psych-rock" role="button">
 Can - Radio Waves (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/84e9071c-cac7-42f6-9043-4ee04d215eea/5609681827-500.jpg" data-tags="rock" role="button">
@@ -126,17 +126,23 @@ Blues Traveler - Four (1994-09-13)
 <li data-cover="http://coverartarchive.org/release/599d1dcd-bb96-4802-91c4-f7afcb0143e1/9742630617-500.jpg" data-tags="90s, rock" role="button">
 Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 </li>
-<li data-cover="https://img.discogs.com/7VFZc60pUuJK2_f12KjftKP4-5g=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6282880-1518359600-7884.jpeg.jpg" data-tags="rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/sjAIUHgRNNP_5VWsk81Sb3hA3nk=/fit-in/455x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2565901-1290861674.jpeg.jpg" data-tags="rock, 90s" role="button">
 Lenny Kravitz - Circus (1995)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="funk rock, rock" role="button">
+<li data-cover="https://img.discogs.com/olpaLCmR4tAYWJNW5zerpVyKDSA=/fit-in/467x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3526888-1378902025-7178.jpeg.jpg" data-tags="funk rock, rock" role="button">
 Extreme - Waiting For The Punchline (1995-01-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chile, rock chileno, rock en castellano" role="button">
 Los Tres - La Espada & la Pared (1995-03-17)
 </li>
-<li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
+<li data-cover="http://coverartarchive.org/release/28e7a3e1-b4ba-4f58-a9e5-fa6d5936d5bc/2038812187-500.jpg" data-tags="alternative rock, rock" role="button">
+311 - 311 (1995-07-25)
+</li>
+<li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
+Incubus - Fungus Amongus (1995-11-01)
 </li>
 <li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
 Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
@@ -165,8 +171,11 @@ Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 <li data-cover="https://img.discogs.com/5O5BuMP3o7ymYYOj8A29kTl6IV0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3006004-1331835359.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
 Incubus - Enjoy Incubus (1997-01-07)
 </li>
-<li data-cover="https://img.discogs.com/i9p8PXEl63ewZpVnbhhaT5UEHq8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10823300-1508266393-9583.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
+<li data-cover="https://img.discogs.com/xNKw6drUH9yXDBMPpgfoC5wSydE=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710701-1341304554-5854.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
 Primus - Brown Album (1997-07-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
+Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b3f8613-c204-4401-b16a-b503efd939d1/7081013392-500.jpg" data-tags="rock" role="button">
 Lenny Kravitz - 5 (1998-04-30)
@@ -180,14 +189,14 @@ I Mother Earth - Blue Green Orange (1999)
 <li data-cover="http://coverartarchive.org/release/fcdeed0f-4c5d-41b6-b7ae-9fa93bf3e9dc/1608622889-500.jpg" data-tags="rock, pop rock, brazil" role="button">
 O Rappa - Lado B Lado A (1999-09-15)
 </li>
+<li data-cover="https://img.discogs.com/70nzGEKuhTlPpAECU5c-tC_k2DQ=/fit-in/555x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8228500-1457541447-7515.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
+311 - Soundsystem (1999-10-12)
+</li>
 <li data-cover="https://img.discogs.com/fzRgl1_qWan58EQ2sode-Shk5DQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11742573-1521612866-9802.jpeg.jpg" data-tags="funk metal" role="button">
 Primus - Antipop (1999-10-18)
 </li>
 <li data-cover="https://img.discogs.com/990QvNo7eWnAzNhZ9wsWa9gDlf0=/fit-in/532x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6846409-1427854450-6351.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, groovy, funk rock, rap metal, jecks" role="button">
 O'Funk'illo - O'Funk'Illo (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ca0f1c9-d5f1-4001-ab83-e00a253133c3/5233810351-500.jpg" data-tags="hardcore" role="button">
-Suicidal Tendencies - Free Your Soul... and Save My Mind (2000-08-20)
 </li>
 <li data-cover="https://img.discogs.com/wtKU2GmzCRyfiEXOt9y_DHITZgM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314034-1239363048.jpeg.jpg" data-tags="indie, british, turin brakes, collection must" role="button">
 Turin Brakes - The Optimist LP (2001-03-05)
@@ -195,20 +204,17 @@ Turin Brakes - The Optimist LP (2001-03-05)
 <li data-cover="http://coverartarchive.org/release/a19191e4-50fc-3d5a-8544-d9ed0adf9cfe/4082270241-500.jpg" data-tags="hip-hop, rap" role="button">
 N*E*R*D - In Search Of... (2001-08-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/11412523-2923-40fe-be4d-837c8c91ea65/5948810300-500.jpg" data-tags="progressive rock" role="button">
+Cire - Pleasure Is Our Enemy (2001-08-06)
+</li>
 <li data-cover="https://img.discogs.com/SXFc2MlxPqDEkUfPPSHdgn70Enw=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501070-1356643028-2297.jpeg.jpg" data-tags="alternative" role="button">
 Oysterhead - The Grand Pecking Order (2001-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/00372afe-dfa1-4ddd-b1dd-087c1c47acae/2411324448-500.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Lenny (2001-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e7329d56-ec72-4cbb-a097-7eaf1ca35b77/11446651074-500.jpg" data-tags="black metal" role="button">
-Satanic Warmaster - Strength & Honour (2001-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/cf2f5de6-1eee-4c86-8362-3785643b9176/1853017669-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks" role="button">
 O'Funk'illo - En El Planeta Aseituna (2002)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, funk rock" role="button">
-Mother Tongue - Streetlight (2002)
 </li>
 <li data-cover="https://img.discogs.com/atNPJQE8YDqOjQSUSGKXAX58m3w=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1888876-1324824836.jpeg.jpg" data-tags="rock, fusion, progressive alternative metal, fk move" role="button">
 Freak Kitchen - Move (2002-10-23)
@@ -218,9 +224,6 @@ Freak Kitchen - Move (2002-10-23)
 </li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/350108bf-f2aa-4204-b327-42e5baf3f8e2/27074545882-500.jpg" data-tags="nu jazz, funk rock, single, film soundtrack" role="button">
-菅野よう子 - GET9 (2004-01-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="guitar, instrumental guitar" role="button">
 Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)
@@ -239,9 +242,6 @@ O'Funk'illo - No Te Cabe Na' (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
 Papa Roach - Live and Murderous in Chicago (2005-11-22)
-</li>
-<li data-cover="https://img.discogs.com/3qf9C-ACUFu7iTSyJlwbrqpSltg=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6407319-1418478192-2968.jpeg.jpg" data-tags="classic rock, classical, jazz, pop, rock, alternative, alternative rock, folk, experimental, hard rock, progressive rock, pop rock, acoustic, fusion, funk metal, funk, latin, blues, progressive, blues rock, acoustic rock, flamenco, funk rock, acoustic pop, progressive alternative rock, progressive funk rock, alternative funk rock, acoustic funk rock, progressive ambient rock, acoustic pop rock, acoustic folk rock, acoustic folk fusion, rock con pelotas" role="button">
-DramaGods - Love (2005-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/95a25406-ba49-41a5-8405-bdfc9db7842c/18755296964-500.jpg" data-tags="pop, alternative, psychedelic" role="button">
 Satellite Party - Ultra Payloaded (2007-05-15)
@@ -279,7 +279,7 @@ The Heavy - The House That Dirt Built (2009-09-18)
 <li data-cover="https://img.discogs.com/wEKekcRE7RqBzTKflOmhD_HVHY8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2105168-1600563941-7038.jpeg.jpg" data-tags="indie rock" role="button">
 OK Go - Of the Blue Colour of the Sky (2010-01-12)
 </li>
-<li data-cover="https://img.discogs.com/nirjoWfz4KbosdItc1grFg8cnc8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3098999-1504632132-4849.jpeg.jpg" data-tags="pop, maroon 5" role="button">
+<li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">

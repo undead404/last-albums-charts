@@ -1,18 +1,18 @@
 ---
-date: 2021-04-04T08:17:01.243Z
+date: 2021-04-04T13:10:01.276Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
-![Down - NOLA (1995-09-15)](http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg "Down - NOLA (1995-09-15)")
+![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/PyL0yruRYNuqkpe9YHdsjjod9d8=/fit-in/600x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11515346-1517703332-9906.jpeg.jpg" data-tags="grunge" role="button">Melvins - Houdini (1993-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">Down - NOLA (1995-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">Alice in Chains - Alice in Chains (1995-11-07)</li>
 <li data-cover="http://coverartarchive.org/release/75cf454a-8b47-49f4-8472-6ccd7ab19d6b/25054291801-500.jpg" data-tags="progressive metal" role="button">Mastodon - Remission (2002-05-28)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal" role="button">Mastodon - Leviathan (2004-08-31)</li>
+<li data-cover="https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">Mastodon - Leviathan (2004-08-31)</li>
 <li data-cover="http://coverartarchive.org/release/8d683762-19ec-4f8f-8714-ab3cabe115fe/7006792441-500.jpg" data-tags="progressive metal" role="button">Mastodon - Blood Mountain (2006-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/d5526d95-9288-4f45-ac86-9ff465792ecb/1369815832-500.jpg" data-tags="progressive metal, sludge metal, sludge" role="button">Baroness - Red Album (2007-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">Mastodon - Crack the Skye (2009-02-23)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Mastodon - The Hunter (2011-09-27)</li>
+<li data-cover="https://img.discogs.com/4q9bWTidDDNrB3Dh9G38gytyDCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121045-1316769235.jpeg.jpg" data-tags="progressive metal" role="button">Mastodon - The Hunter (2011-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)</li>
 </ol>
 List of 100 - under the cut.
@@ -53,9 +53,6 @@ Acid Bath - When the Kite String Pops (1994-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/450a2f27-bd33-439c-ac3b-1e6861076399/15857977884-500.jpg" data-tags="grunge, stoner rock" role="button">
 Melvins - Stoner Witch (1994-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/af588a1e-1077-431b-98b3-3e7291dac6c5/19675747596-500.jpg" data-tags="sludge" role="button">
-Crowbar - Time Heals Nothing (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">
 Down - NOLA (1995-09-15)
@@ -108,7 +105,7 @@ Neurosis - A Sun That Never Sets (2001-08-07)
 <li data-cover="http://coverartarchive.org/release/322c4126-ae27-4e4d-abe9-98b53df50621/19374614389-500.jpg" data-tags="sludge, sludge metal" role="button">
 Crowbar - Sonic Excess in Its Purest Form (2001-08-21)
 </li>
-<li data-cover="https://img.discogs.com/gV63mFZvf-5d7uDAm7aRt2jXhuc=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025856-1185466301.jpeg.jpg" data-tags="sludge metal, metal, stoner metal" role="button">
+<li data-cover="https://img.discogs.com/afHmL57RoKb4O9Mnz1qsED8lDh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554377-1310507886.jpeg.jpg" data-tags="sludge metal, metal, stoner metal" role="button">
 Superjoint Ritual - Use Once And Destroy (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/75cf454a-8b47-49f4-8472-6ccd7ab19d6b/25054291801-500.jpg" data-tags="progressive metal" role="button">
@@ -132,7 +129,7 @@ Baroness - First (2004-08-04)
 <li data-cover="http://coverartarchive.org/release/f0baba81-224e-4493-9e1d-6208669a1de0/9615154980-500.jpg" data-tags="progressive metal, post-metal" role="button">
 The Ocean - Fluxion (2004-08-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">
 Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
@@ -146,6 +143,9 @@ Kylesa - To Walk A Middle Course (2005-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/52edab85-3956-4253-bd98-d42ace34e82c/1501069082-500.jpg" data-tags="stoner rock, heavy metal, metal" role="button">
 Corrosion of Conformity - In the Arms of God (2005-04-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa271836-6784-4555-bc47-c2fa305c260e/25038392608-500.jpg" data-tags="post-metal, sludge" role="button">
+Amenra - Mass III (2005-05)
 </li>
 <li data-cover="https://img.discogs.com/4RTFVf1AIn5YU7Cij7j-it5ZtfU=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14481201-1575398666-6794.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
@@ -174,7 +174,7 @@ Isis - In the Absence of Truth (2006-10-06)
 <li data-cover="http://coverartarchive.org/release/2426b160-cf55-4ac7-b19d-1f8baf81c9af/14873258376-500.jpg" data-tags="sludge metal" role="button">
 Kylesa - Time Will Fuse Its Worth (2006-10-31)
 </li>
-<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
+<li data-cover="https://img.discogs.com/DxEE2symRN6DFUrDz3YYau5D3K4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4816908-1376419483-8542.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/248fe464-fbd4-4710-90ef-5d3fefa4b9c8/27407104772-500.jpg" data-tags="doom metal, sludge, sludge metal" role="button">
@@ -228,7 +228,7 @@ Buried Inside - Spoils of Failure (2009-03-03)
 <li data-cover="http://coverartarchive.org/release/0497aa67-d982-4355-8af6-f2f8c95c15f4/4857645763-500.jpg" data-tags="sludge metal" role="button">
 Zoroaster - Voice of Saturn (2009-03-10)
 </li>
-<li data-cover="https://img.discogs.com/AI7xRPGlQ_L4JE-arXLAVUV12eY=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709186-1265610910.jpeg.jpg" data-tags="sludge metal" role="button">
+<li data-cover="https://img.discogs.com/zPztsibNMG0_1WI-qrSwMurPO1c=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1856423-1589318076-9272.jpeg.jpg" data-tags="sludge metal" role="button">
 Kylesa - Static Tensions (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
@@ -249,7 +249,7 @@ Justin Bieber - My Worlds (2010-03-22)
 <li data-cover="http://coverartarchive.org/release/595b9588-f969-401b-b7ff-0d454e051616/3646610364-500.jpg" data-tags="black metal, black n roll" role="button">
 Kvelertak - Kvelertak (2010-06-21)
 </li>
-<li data-cover="https://img.discogs.com/FHIKpZYK5if_foi9NxHBoxi2pk8=/fit-in/224x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2530612-1296139284.jpeg.jpg" data-tags="sludge, doom metal, doom" role="button">
+<li data-cover="https://img.discogs.com/4eXy0sIWpoRa_oCXpu44OiNqI74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414844-1562770547-1307.jpeg.jpg" data-tags="sludge, doom metal, doom" role="button">
 Bongripper - Satan Worshipping Doom (2010-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d14260cf-ab41-4192-9644-22645285f2fe/26231459714-500.jpg" data-tags="stoner rock, pop rock, sludge, stoner, miami, sludge metal, 2010s, florida, extended play, torche, us-american, hydra head records, k1r7m, songs for singles, jonathan nunez, la casa nunez" role="button">
@@ -273,7 +273,7 @@ Light Bearer - Lapsus (2011-03-23)
 <li data-cover="http://coverartarchive.org/release/7e331663-97ff-48bb-a849-a9bf374fc4e8/15324908900-500.jpg" data-tags="sludge metal, southern metal, brass balls, albums owned on cd, mis albumes favoritos" role="button">
 Black Label Society - The Song Remains Not The Same (2011-05-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/4q9bWTidDDNrB3Dh9G38gytyDCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121045-1316769235.jpeg.jpg" data-tags="progressive metal" role="button">
 Mastodon - The Hunter (2011-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/81252c88-3bc5-4e53-8f0e-0ca3e469d5c7/3646455939-500.jpg" data-tags="sludge metal, stoner metal" role="button">
