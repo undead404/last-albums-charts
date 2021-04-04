@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:18:01.320Z
+date: 2021-04-04T12:02:01.333Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -68,9 +68,6 @@ Boston - Boston (1976-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/92746377-783d-3355-af9d-229a6edfd6ff/7383924116-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Let There Be Rock (1977-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
-Queen - News Of The World (1977-10-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
@@ -305,6 +302,9 @@ Three Days Grace - Life Starts Now (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a44f79f9-bfcf-4818-8fa5-702432de0ad1/9837113466-500.jpg" data-tags="grunge, hard rock" role="button">
 Alice in Chains - Black Gives Way to Blue (2009-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Greatest Hits (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
 Them Crooked Vultures - Them Crooked Vultures (2009-11-13)

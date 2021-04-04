@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:22:01.564Z
+date: 2021-04-04T11:53:01.399Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -105,9 +105,6 @@ Coldplay - Parachutes (2000-07-10)
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
-Rage Against the Machine - Renegades (2000-11-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
 </li>
@@ -116,9 +113,6 @@ Gorillaz - Gorillaz (2001-03-24)
 </li>
 <li data-cover="https://img.discogs.com/V6pdlLTilI4qE9xPoW01G6E89qc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494256-1591098542-4138.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
-Radiohead - Amnesiac (2001-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cc29145-b0e4-47bf-8bda-a1edef67dd1d/5632202392-500.jpg" data-tags="alternative rock" role="button">
 Muse - Origin of Symmetry (2001-06-13)
@@ -207,6 +201,9 @@ Bloc Party - Silent Alarm (2005-02-02)
 <li data-cover="https://img.discogs.com/mLHsKWRrH4SZ9Kp11H0CjEo6fw0=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-597714-1136635325.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">
 Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
+Lifehouse - Lifehouse (2005-03-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
@@ -293,6 +290,9 @@ Skillet - Awake (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Greatest Hits (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
 Them Crooked Vultures - Them Crooked Vultures (2009-11-13)

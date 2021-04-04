@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:51:01.216Z
+date: 2021-04-04T11:59:01.256Z
 title: "sludge: 100 albums you must listen to before you die"
 ---
 ![Isis - In the Absence of Truth (2006-10-06)](http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg "Isis - In the Absence of Truth (2006-10-06)")
@@ -57,6 +57,9 @@ Melvins - Stoner Witch (1994-10-28)
 <li data-cover="http://coverartarchive.org/release/af588a1e-1077-431b-98b3-3e7291dac6c5/19675747596-500.jpg" data-tags="sludge" role="button">
 Crowbar - Time Heals Nothing (1995-05-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">
+Down - NOLA (1995-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/72e57b50-67a3-4689-ac55-342e4341f697/19427677722-500.jpg" data-tags="sludge, sludge metal" role="button">
 Eyehategod - Dopesick (1996)
 </li>
@@ -93,11 +96,8 @@ Isis - Celestial (2000-07-19)
 <li data-cover="http://coverartarchive.org/release/76a71e8a-b523-4522-ad55-f76ad8d66eaa/4351757259-500.jpg" data-tags="sludge" role="button">
 Eyehategod - Confederacy Of Ruined Lives (2000-09-19)
 </li>
-<li data-cover="https://img.discogs.com/ZOXVY8Cd3vVht-dC6mYeTByXv48=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492889-1415126037-3771.jpeg.jpg" data-tags="doom metal" role="button">
+<li data-cover="https://img.discogs.com/ejUY4Xklt1sCK6kSJRMsvZPqJNA=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1301027-1219880756.jpeg.jpg" data-tags="doom metal" role="button">
 Electric Wizard - Dopethrone (2000-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd1456ae-d0fd-4e63-8efd-ac9a95936e5a/12829230668-500.jpg" data-tags="sludge" role="button">
-Neurosis - Sovereign (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/17432213-49df-4389-a05a-e2f91178792f/3927758235-500.jpg" data-tags="sludge" role="button">
 Cult of Luna - Cult of Luna (2001)
@@ -141,7 +141,7 @@ Neurosis - The Eye of Every Storm (2004-06-23)
 <li data-cover="http://coverartarchive.org/release/da2e11bc-924b-420e-8c94-395a68660cb6/4746584081-500.jpg" data-tags="sludge" role="button">
 Old Man Gloom - Christmas (2004-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">
 Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="https://img.discogs.com/cRuOXBvTzWZ1NiZrgHh2fWOA-rQ=/fit-in/300x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2795498-1301372915.jpeg.jpg" data-tags="sludge, post-metal" role="button">
@@ -156,8 +156,8 @@ YOB - The Illusion Of Motion (2004-11-29)
 <li data-cover="http://coverartarchive.org/release/9b091bcd-f336-3381-a7c3-8783dff901d7/2536665650-500.jpg" data-tags="shoegaze, sludge" role="button">
 Jesu - Jesu (2004-12-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/111b9760-852f-4a55-9c1a-981d38f6bf70/28704207369-500.jpg" data-tags="sludge, sludge metal" role="button">
-Crowbar - Lifesblood for the Downtrodden (2005-02-08)
+<li data-cover="http://coverartarchive.org/release/aa271836-6784-4555-bc47-c2fa305c260e/25038392608-500.jpg" data-tags="post-metal, sludge" role="button">
+Amenra - Mass III (2005-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
@@ -252,7 +252,7 @@ Sólstafir - Köld (2009-01-21)
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
 </li>
-<li data-cover="https://img.discogs.com/AI7xRPGlQ_L4JE-arXLAVUV12eY=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709186-1265610910.jpeg.jpg" data-tags="sludge metal" role="button">
+<li data-cover="https://img.discogs.com/zPztsibNMG0_1WI-qrSwMurPO1c=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1856423-1589318076-9272.jpeg.jpg" data-tags="sludge metal" role="button">
 Kylesa - Static Tensions (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
@@ -276,7 +276,7 @@ Year of No Light - Ausserwelt (2010-04-26)
 <li data-cover="http://coverartarchive.org/release/98823f71-c32e-47be-9651-9cf7ac9acff8/9300211466-500.jpg" data-tags="post-metal" role="button">
 Rosetta - A Determinism of Morality (2010-05-25)
 </li>
-<li data-cover="https://img.discogs.com/FHIKpZYK5if_foi9NxHBoxi2pk8=/fit-in/224x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2530612-1296139284.jpeg.jpg" data-tags="sludge, doom metal, doom" role="button">
+<li data-cover="https://img.discogs.com/4eXy0sIWpoRa_oCXpu44OiNqI74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414844-1562770547-1307.jpeg.jpg" data-tags="sludge, doom metal, doom" role="button">
 Bongripper - Satan Worshipping Doom (2010-08-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
@@ -297,7 +297,7 @@ Crowbar - Sever The Wicked Hand (2011-02-08)
 <li data-cover="http://coverartarchive.org/release/733c1191-652b-4c28-aedf-41954554cf70/8777985158-500.jpg" data-tags="sludge" role="button">
 Belzebong - Sonic Scapes & Weedy Grooves (2011-04-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/4q9bWTidDDNrB3Dh9G38gytyDCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121045-1316769235.jpeg.jpg" data-tags="progressive metal" role="button">
 Mastodon - The Hunter (2011-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/40cd83ab-165b-4fc2-85aa-5f1c0a2a06a5/26273231398-500.jpg" data-tags="sludge, sludge metal, atmospheric sludge metal" role="button">

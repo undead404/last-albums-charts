@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:23:01.220Z
+date: 2021-04-04T12:04:13.775Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -39,7 +39,7 @@ Siouxsie and the Banshees - Once Upon a Time: The Singles (1981)
 <li data-cover="http://coverartarchive.org/release/8d633474-f161-470b-b47c-cf6383f235a9/26974152489-500.jpg" data-tags="post-punk" role="button">
 The Cure - Faith (1981-04-11)
 </li>
-<li data-cover="https://img.discogs.com/wsU2qD-GwOXrvidQSnOi5rnO2Ko=/fit-in/283x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1744933-1257570871.jpeg.jpg" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/XOPyRLfC31I9Dm7U3IXpj-REJnI=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542812-1459165971-6457.jpeg.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - Juju (1981-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3834afa-e54b-467f-87fb-f0b744bdf3ab/26204900712-500.jpg" data-tags="post-punk, gothic rock" role="button">
@@ -60,7 +60,7 @@ Cocteau Twins - Garlands (1982-09-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
 Bauhaus - Burning from the Inside (1983-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic, psychedelic" role="button">
+<li data-cover="https://img.discogs.com/tD5eJQhYNFIPI8RLOBvS9hU0TCE=/fit-in/576x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-183321-1254073618.jpeg.jpg" data-tags="post-punk, gothic, psychedelic" role="button">
 The Glove - Blue Sunshine (1983-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/87ad4681-0652-4746-bb60-69cfa7964c35/14564351320-500.jpg" data-tags="gothic rock" role="button">
@@ -225,9 +225,6 @@ The Cure - The Cure (2004-06-25)
 <li data-cover="https://img.discogs.com/zEIappKoRWKEfPRe7TF-fpAMVJM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-486232-1458029331-8360.jpeg.jpg" data-tags="industrial" role="button">
 The Birthday Massacre - Violet (2004-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/844dba59-e6fd-4da8-b024-8b8dcb9d11ec/15850705428-500.jpg" data-tags="gothic metal, female fronted metal" role="button">
-Elis - Dark Clouds in a Perfect Sky (2004-10-04)
-</li>
 <li data-cover="https://img.discogs.com/wLL6jdexHEYPkLfE5VacuC0Suf0=/fit-in/578x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1802621-1244313442.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Devils (2004-10-22)
 </li>
@@ -261,7 +258,7 @@ She Wants Revenge - She Wants Revenge (2005-12-13)
 <li data-cover="http://coverartarchive.org/release/19e5917b-5989-3604-800f-92cf36f23d37/14903761907-500.jpg" data-tags="indie, punk cabaret" role="button">
 The Dresden Dolls - Yes, Virginia (2006-03-29)
 </li>
-<li data-cover="https://img.discogs.com/aXCZQcOSa73njRvFAnF1Ep5jUTQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8125917-1489832489-1154.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Karmacode (2006-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/db7a53e9-8865-4756-9d26-157e4f50d165/19887853784-500.jpg" data-tags="electronic" role="button">
@@ -276,7 +273,7 @@ Lisa Gerrard - The Silver Tree (2006-11-21)
 <li data-cover="https://img.discogs.com/-VFw6TC4whnLtPwVFicpMIyVN-8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1227342-1202121963.jpeg.jpg" data-tags="gothic, darkwave" role="button">
 Creature Feature - The Greatest Show Unearthed (2007-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
+<li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
 </li>
 <li data-cover="https://img.discogs.com/UUWYawx3KqOk9SuBUVwg2jCIJBY=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1262816-1204659055.jpeg.jpg" data-tags="gothic" role="button">
@@ -284,6 +281,9 @@ Emilie Autumn - A Bit O' This & That (2007-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 The Birthday Massacre - Walking With Strangers (2007-09-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, cello metal" role="button">
+Apocalyptica - Worlds Collide (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Dark Passion Play (2007-09-26)
@@ -315,7 +315,7 @@ Within Temptation - The Unforgiving (2011-03-25)
 <li data-cover="http://coverartarchive.org/release/bf01ac13-6952-4d74-b2b3-d768a2715276/18135728217-500.jpg" data-tags="rock, alternative, gothic" role="button">
 The Cure - Bestival Live 2011 (2011-12-03)
 </li>
-<li data-cover="https://img.discogs.com/Rfsy7OsRgbVtxmZpLSHfVBX-A2E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4580482-1386424208-5512.jpeg.jpg" data-tags="post-punk, gothic rock, gothic" role="button">
+<li data-cover="https://img.discogs.com/4U4FsAlx5bJw_M9SFpu3JIqAUZQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4242505-1364551957-2976.jpeg.jpg" data-tags="post-punk, gothic rock, gothic" role="button">
 She Past Away - Belirdi Gece (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">

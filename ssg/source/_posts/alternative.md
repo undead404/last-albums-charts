@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:19:01.339Z
+date: 2021-04-04T11:57:01.697Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -153,9 +153,6 @@ Snow Patrol - Final Straw (2003-08-04)
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
 </li>
-<li data-cover="https://img.discogs.com/txXCBCvtaF_tayG6iJRYDdx68Do=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367875-1425009360-9153.jpeg.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Thirteenth Step (2003-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Room on Fire (2003-10-16)
 </li>
@@ -185,6 +182,9 @@ Bloc Party - Silent Alarm (2005-02-02)
 </li>
 <li data-cover="https://img.discogs.com/WapkDvx93QsCQqFLEOW9Ymn-h7k=/fit-in/600x804/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428290-1460769577-1567.jpeg.jpg" data-tags="alternative, beck" role="button">
 Beck - Guero (2005-03-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
+Lifehouse - Lifehouse (2005-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)

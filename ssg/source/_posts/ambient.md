@@ -1,18 +1,18 @@
 ---
-date: 2021-04-04T10:11:01.574Z
+date: 2021-04-04T11:50:07.282Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">Global Communication - 76:14 (1994)</li>
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, idm, electronic" role="button">Boards of Canada - Music Has the Right to Children (1998-04-20)</li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">Sigur Rós - ágætis byrjun (1999-06)</li>
+<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - Geogaddi (2002-02-13)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Takk... (2005-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)</li>
-<li data-cover="http://coverartarchive.org/release/3e1423e4-7651-4fc3-a23a-c75ff6dd323e/6273197886-500.jpg" data-tags="electronic" role="button">Fever Ray - Fever Ray (2009-01-12)</li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">Sigur Rós - Valtari (2012-05-23)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,14 +24,17 @@ _________________
 <li data-cover="http://coverartarchive.org/release/edb5b432-6f54-41e5-af58-07d31668ef3a/11436345573-500.jpg" data-tags="ambient" role="button">
 Brian Eno - Another Green World (1975-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/b630124e-5ab3-3d10-aa10-be94c81b728b/5727942814-500.jpg" data-tags="ambient" role="button">
-Brian Eno - Discreet Music (1975-11)
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Brian Eno - Ambient 1: Music for Airports (1978)
 </li>
 <li data-cover="https://img.discogs.com/y69Li4KB2GZYffBULeD-Nv1LlF0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231002-1266250803.jpeg.jpg" data-tags="ambient" role="button">
 Brian Eno - Thursday Afternoon (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/476d5ee1-266a-45d1-940a-d706663bb3f9/9717211777-500.jpg" data-tags="electronic, ambient" role="button">
 The Orb - The Orb's Adventures Beyond the Ultraworld (1991-04-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Global Communication - 76:14 (1994)
@@ -47,6 +50,9 @@ Autechre - Amber (1994-11-07)
 </li>
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">
 Slowdive - Pygmalion (1995-02-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a95dbc6e-3066-46ea-91ed-cfb9539f0c7c/3483045674-500.jpg" data-tags="idm, electronic, downtempo, ambient" role="button">
+Boards of Canada - Twoism (1995-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e42d0f12-ff31-46a2-aa45-ffa99712f392/8102384247-500.jpg" data-tags="ambient, idm" role="button">
 Boards of Canada - Boc Maxima (1996)
@@ -87,9 +93,6 @@ Air - The Virgin Suicides (2000-02-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
-<li data-cover="https://img.discogs.com/gwvTAGoveHSOzhxtgiAKFwEUUGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9919962-1488561686-5945.jpeg.jpg" data-tags="ambient" role="button">
-Gas - Pop (2000-03-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
@@ -116,6 +119,9 @@ Röyksopp - Melody A.M. (2001-10-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
 Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
+Boards of Canada - Geogaddi (2002-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb4d834e-c21a-4288-bbee-d9b86c6c3f8b/3772697596-500.jpg" data-tags="downtempo, jazz" role="button">
 The Cinematic Orchestra - Every Day (2002-04-27)
@@ -158,6 +164,9 @@ Air - Talkie Walkie (2004-01-21)
 </li>
 <li data-cover="https://img.discogs.com/TntSDuGQXlbBnS7o3Jr44SA9rdQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244778-1458760798-4830.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg" data-tags="post-classical, contemporary classical, neoclassical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
+Max Richter - The Blue Notebooks (2004-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a402de73-a281-31ea-bcac-e747ea9ca7cc/21363838332-500.jpg" data-tags="electronic, ambient" role="button">
 Orbital - Blue Album (2004-06-21)
@@ -246,14 +255,11 @@ Moby - Wait for Me (2009-06-26)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
-<li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
-Imogen Heap - Ellipse (2009-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
 Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
-Emancipator - safe in the steep cliffs (2010-01-19)
+<li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">
+Nils Frahm - Wintermusik (2009-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)
@@ -294,9 +300,6 @@ Active Child - You Are All I See (2011-08-23)
 <li data-cover="https://img.discogs.com/GozW49NBtRGHP72sChmrFA69m7M=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309857-1170001126.jpeg.jpg" data-tags="electronic, ambient" role="button">
 Apparat - The Devil's Walk (2011-09-26)
 </li>
-<li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
-Tycho - Dive (2011-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2e019b9-720c-4db9-8604-244dff44c1db/3776643792-500.jpg" data-tags="experimental" role="button">
 Björk - Biophilia (2011-10-05)
 </li>
@@ -308,9 +311,6 @@ Oneohtrix Point Never - Replica (2011-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/36b1e2c4-14f2-4cb4-8aff-ae21f17c7dc5/9518509326-500.jpg" data-tags="ambient, dubstep" role="button">
-Burial - Truant / Rough Sleeper (2012-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)

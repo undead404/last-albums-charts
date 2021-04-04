@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:12:01.351Z
+date: 2021-04-04T12:04:01.808Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -26,9 +26,6 @@ Pixies - Doolittle (1989-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Ten (1991-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
@@ -186,6 +183,9 @@ A Perfect Circle - eMOTIVe (2004-11-01)
 <li data-cover="https://img.discogs.com/mLHsKWRrH4SZ9Kp11H0CjEo6fw0=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-597714-1136635325.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">
 Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
+Lifehouse - Lifehouse (2005-03-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
 </li>
@@ -264,9 +264,6 @@ The All-American Rejects - When the World Comes Down (2008-12-16)
 <li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
 The Fray - The Fray (2009-01-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
-Placebo - Battle for the Sun (2009-06-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
@@ -287,6 +284,9 @@ Three Days Grace - Life Starts Now (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Greatest Hits (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
