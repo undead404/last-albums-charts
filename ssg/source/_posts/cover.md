@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:04:01.310Z
+date: 2021-04-04T21:33:01.283Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
-Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, 80s, synthpop" role="button">
 Pet Shop Boys - Introspective (1988-04)
 </li>
@@ -45,11 +42,8 @@ Acid Drinkers - Fishdick (1994-06-01)
 <li data-cover="http://coverartarchive.org/release/9b1a6a6c-78e1-4262-9059-0d180b8dfa13/15738919203-500.jpg" data-tags="90s, covers, pop, female vocalists" role="button">
 Annie Lennox - Medusa (1995-03-08)
 </li>
-<li data-cover="https://img.discogs.com/NOH3fwgIB26sE5mq2qLSTn-J1Es=/fit-in/490x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7938494-1452033938-5653.jpeg.jpg" data-tags="cover, 90s, pop, new wave" role="button">
+<li data-cover="https://img.discogs.com/joY58Aj9ODH23a6RpC16nm95MwA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10615555-1500995662-3063.jpeg.jpg" data-tags="cover, 90s, pop, new wave" role="button">
 Duran Duran - Thank You (1995-03-27)
-</li>
-<li data-cover="https://img.discogs.com/y-WTOTdlGpJair_bINof60Gc4Ds=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6273239-1491354130-3015.jpeg.jpg" data-tags="thrash metal, heavy metal" role="button">
-Megadeth - Hidden Treasures (1995-03-30)
 </li>
 <li data-cover="https://img.discogs.com/pK-fcNJoNYQD_gQPUICgsgU1BFk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545596-1310903548.jpeg.jpg" data-tags="singer-songwriter, indie rock" role="button">
 Cat Power - Dear Sir (1995-10)
@@ -129,9 +123,6 @@ Shinedown - Simple Man (2004-06-29)
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
-<li data-cover="https://img.discogs.com/My1b03HhHcNV7OMiY2f-zwpQkPc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-698292-1554136772-7063.jpeg.jpg" data-tags="alternative, rock, alternative rock, cover, greg dulli" role="button">
-The Twilight Singers - She Loves You (2004-08-24)
-</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
@@ -141,19 +132,25 @@ Hellsongs - Hymns in the Key of 666 (2005)
 <li data-cover="https://img.discogs.com/uJAkravpA6GYyRtoqeEzAHmXLhE=/fit-in/180x184/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074934-1262549271.jpeg.jpg" data-tags="germany, german, hollywood, liebe, tanzen, sucht, micha, maat, nur mit dir, micha maat, der moment" role="button">
 Bosse - Kamikazeherz (2005-04-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="swing, covers" role="button">
+Paul Anka - Rock Swings (2005-06-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, cover, covers, covertown" role="button">
+Sun Kil Moon - Tiny Cities (2005-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - Under Cover (2005-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">
 Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic, cover, soft, accoustic, my record collection, josegonzales" role="button">
+<li data-cover="https://img.discogs.com/0XxcJs-SQFccsPcgqwF21-1sD_A=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602995-1141754942.jpeg.jpg" data-tags="acoustic, cover, soft, accoustic, my record collection, josegonzales" role="button">
 José González - Heartbeats (2006-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd9b5d63-d021-490e-ba53-3c1717fd0a8e/9167672848-500.jpg" data-tags="blues, blues covers, fat possum" role="button">
 The Black Keys - Chulahoma (2006-05-02)
 </li>
-<li data-cover="https://img.discogs.com/OWEu7ZWA73KAR1vY-ibRzMzb7OA=/fit-in/476x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352454-1212069412.jpeg.jpg" data-tags="cover" role="button">
+<li data-cover="https://img.discogs.com/rvnqyiHm6AibVJYr8a3v9ro1J2s=/fit-in/588x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7458346-1443578506-9462.jpeg.jpg" data-tags="cover" role="button">
 Def Leppard - Yeah! (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fe94139-df63-4e51-b2e7-a1d53535cdd9/7145334932-500.jpg" data-tags="lounge" role="button">
@@ -195,9 +192,6 @@ Jeffrey Lewis - 12 Crass Songs (2007-10-01)
 <li data-cover="http://coverartarchive.org/release/236a04ea-8349-4930-9647-186773164eb3/6655040734-500.jpg" data-tags="symphonic metal, cover, power metal" role="button">
 Northern Kings - Reborn (2007-10-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/6bfae325-47bb-47ea-94dc-59dc556e8439/2887550706-500.jpg" data-tags="briliant" role="button">
-Muse - Do We Need This: B-Sides & Rarities (1998-2007) (2007-12-07)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop-punk" role="button">
 Vanilla Sky - Umbrella (2007-12-07)
 </li>
@@ -231,7 +225,7 @@ The Baseballs - Strike! Back (2009-05-15)
 <li data-cover="http://coverartarchive.org/release/dac5bddc-3197-4a8f-8149-e217794e451e/23384424884-500.jpg" data-tags="bossa nova, female vocalists, covers" role="button">
 Nouvelle Vague - 3 (2009-06-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, acoustic, cover, george harrison, jim james" role="button">
+<li data-cover="https://img.discogs.com/1evj466Y2s6KLIdyDcL35NosbRQ=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11239152-1616373453-4498.png.jpg" data-tags="folk, acoustic, cover, george harrison, jim james" role="button">
 Yim Yames - Tribute To (2009-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6d933c9-dcb4-4270-95d4-42983ee6f988/4354631525-500.jpg" data-tags="acoustic, cover, covers" role="button">
@@ -242,9 +236,6 @@ Four Year Strong - Explains It All (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b6f00f6-87f6-409f-a710-7ba31157e4b9/15160044156-500.jpg" data-tags="melodic death metal, cover" role="button">
 Children of Bodom - Skeletons in the Closet (2009-09-09)
-</li>
-<li data-cover="https://img.discogs.com/zxDwxQWmMcLS0mfHLl7UCE0Ng40=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1923652-1613241764-7671.jpeg.jpg" data-tags="cover, coil" role="button">
-This Immortal Coil - The Dark Age of Love (2009-09-12)
 </li>
 <li data-cover="https://img.discogs.com/q0dclviwjWqm42hvQ-nJPhSoMmM=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6414304-1418611387-7131.jpeg.jpg" data-tags="cover, dfa, proud vinyl owner" role="button">
 LCD Soundsystem - Bye Bye Bayou (2009-11-12)
@@ -276,7 +267,7 @@ Laserkraft 3D - Nein, Mann! (2010-08-27)
 <li data-cover="http://coverartarchive.org/release/03b31a1c-03c0-4eee-930b-a4e565b3f7f6/9539591161-500.jpg" data-tags="hip-hop, swedish, mixtape, cover, balearic, miks" role="button">
 jj - Kills (2010-12-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="cover, the strokes, lets dance, darkness, rca records, under, coramao, coolwench, awesome :b" role="button">
+<li data-cover="https://img.discogs.com/3DVsrRHOvdvK8KvhzXgXdluXxcE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705009-1297332898.jpeg.jpg" data-tags="cover, the strokes, lets dance, darkness, rca records, under, coramao, coolwench, awesome :b" role="button">
 The Strokes - Under Cover of Darkness (2011-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e609f88c-c5e2-4f00-bd9a-a9b88f898149/3366583245-500.jpg" data-tags="rock, deutsch" role="button">
@@ -308,6 +299,15 @@ Lana Del Rey - Blue Velvet (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f823905a-102e-471f-b6aa-3ff6f575986c/9697439439-500.jpg" data-tags="pop rock" role="button">
 OneRepublic - Native (2013-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/da7c3e90-8db3-4ce8-a343-287eddf9b8b1/21616081666-500.jpg" data-tags="cover" role="button">
+Mark Lanegan - Imitations (2013-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/ebadad2b-e01f-432e-8059-1882128213c9/5552546040-500.jpg" data-tags="sad, cover" role="button">
+Glee Cast - The Quarterback (2013-10-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/7693404e-c0aa-4dd5-be23-a48555224552/6201054462-500.jpg" data-tags="cover" role="button">
+Russkaja - Barada (2013-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8c1a051-885b-40c5-8477-83c3adc03cd0/8283675865-500.jpg" data-tags="cover, punk rock, los angeles, 2010s, cover version, northridge, us-american, studio album, me first and the gimme gimmes, are we not men - we are diva, k1r7m, studio 606 west" role="button">
 Me First and the Gimme Gimmes - Are We Not Men? We Are Diva! (2014-05-13)

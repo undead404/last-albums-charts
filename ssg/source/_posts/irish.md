@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:14:01.269Z
+date: 2021-04-04T20:56:01.573Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Flogging Molly - Drunken Lullabies (2002-03-19)](http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg "Flogging Molly - Drunken Lullabies (2002-03-19)")
@@ -9,8 +9,8 @@ title: "irish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9c27a860-f4f1-323f-9722-f3afd2114e4a/4773484086-500.jpg" data-tags="irish, punk" role="button">Flogging Molly - Swagger (2000-03-07)</li>
 <li data-cover="https://img.discogs.com/U8okCdE93Q8KnJ5rBtnugutb8JM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198146-1211495932.jpeg.jpg" data-tags="u2, rock" role="button">U2 - All That You Can't Leave Behind (2000-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg" data-tags="irish, punk" role="button">Flogging Molly - Drunken Lullabies (2002-03-19)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">Flogging Molly - Within a Mile of Home (2004-09-14)</li>
+<li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">Dropkick Murphys - The Warrior's Code (2005-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">Róisín Murphy - Overpowered (2007-05)</li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">The Script - Science & Faith (2010-09-13)</li>
@@ -27,7 +27,7 @@ Van Morrison - Blowin' Your Mind! (1967)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, 60s" role="button">
 Van Morrison - Astral Weeks (1968-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues rock, classic rock, blues" role="button">
+<li data-cover="https://img.discogs.com/f1ZFte7q9L1-ZDl_pvNSLNFkCco=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2680042-1296298782.jpeg.jpg" data-tags="blues rock, classic rock, blues" role="button">
 Rory Gallagher - Rory Gallagher (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/861b7aff-0ce6-47cc-b5f2-b6be19bd3abc/11393785643-500.jpg" data-tags="hard rock, irish" role="button">
@@ -42,7 +42,7 @@ The Dubliners - The Best Of The Dubliners (1973)
 <li data-cover="https://img.discogs.com/3lMg394Yp43vjYeb4dqnD8Xl1Sg=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5966549-1407608547-5756.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Thin Lizzy - Vagabonds of the Western World (1973)
 </li>
-<li data-cover="https://img.discogs.com/W2Wg9PCWvMI0BDTucd6MNTm2a0k=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2345466-1278545921.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/37ab2177-339b-4f5d-affc-f1e5d468bf68/6741475248-500.jpg" data-tags="rock, 80s" role="button">
@@ -87,7 +87,7 @@ Enya - Shepherd Moons (1991-11-04)
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
 </li>
-<li data-cover="https://img.discogs.com/x9E2bul6tXqRK5CoV36oDxQ8__s=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-718195-1225999774.jpeg.jpg" data-tags="hip hop, rap, hip-hop, oldschool" role="button">
+<li data-cover="https://img.discogs.com/dPYgWwRyJsKpyepRH1RCOY7T2r8=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2020774-1362921141-6307.jpeg.jpg" data-tags="hip hop, rap, hip-hop, oldschool" role="button">
 House of Pain - House of Pain (1992-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
@@ -201,9 +201,6 @@ Flogging Molly - Drunken Lullabies (2002-03-19)
 <li data-cover="https://img.discogs.com/M39hBiXjfl2bPyfd88UkhSbF5vM=/fit-in/543x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203310-1349612467-3697.jpeg.jpg" data-tags="irish" role="button">
 Gemma Hayes - Night On My Side (2002-05-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic, singer-songwriter, folk" role="button">
-Damien Rice - O (2002-07-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/3d09f662-31e0-4f4b-b317-dd332bb03fcc/3333923376-500.jpg" data-tags="punk, irish, live, celtic punk, dropkick murphys" role="button">
 Dropkick Murphys - Live on St. Patrick's Day (2002-09-09)
 </li>
@@ -269,6 +266,9 @@ Flogging Molly - Float (2008-03-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 The Script - We Cry (2008-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
+The Script - The Script (2008-08-11)
 </li>
 <li data-cover="https://img.discogs.com/aiVvspzzf0mNd9A_xGlClkEesig=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1669654-1567298142-1446.png.jpg" data-tags="folk, female vocalists, singer-songwriter, indie" role="button">
 Lisa Hannigan - Sea Sew (2008-09-12)

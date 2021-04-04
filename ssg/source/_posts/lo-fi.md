@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:31:01.290Z
+date: 2021-04-04T21:40:01.399Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)](http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg "Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)")
@@ -65,9 +65,6 @@ Pavement - Brighten the Corners (1997-01-08)
 </li>
 <li data-cover="https://img.discogs.com/RfwYr-DoPVohJSbfqKRoUOxJVzk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675399-1424382705-4783.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur (1997-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
-Elliott Smith - Either/Or (1997-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
@@ -236,6 +233,9 @@ Cults - Cults (2011-05-30)
 </li>
 <li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">
 Clams Casino - Rainforest (2011-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/299589a0-fe31-4dd8-b343-fe362f9a3dbf/15701340234-500.jpg" data-tags="indie pop, indie rock" role="button">
+Unknown Mortal Orchestra - Unknown Mortal Orchestra (2011-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)

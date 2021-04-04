@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:22:01.384Z
+date: 2021-04-04T21:02:01.362Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
@@ -108,9 +108,6 @@ Belle and Sebastian - Tigermilk (1996-06-06)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
-Elliott Smith - Either/Or (1997-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/cef41ad3-9604-476f-8449-907e4a39072a/18916427598-500.jpg" data-tags="folk rock, folk, medieval" role="button">
 Blackmore's Night - Shadow Of The Moon (1997-04-23)
 </li>
@@ -123,9 +120,6 @@ Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e8c9658-be99-47a8-9b32-f49591b56fec/2628868943-500.jpg" data-tags="folk rock, folk, an danzza" role="button">
-Blackmore's Night - Fires at Midnight (2001-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
 The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
@@ -134,6 +128,9 @@ Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf1ee4a6-dc3a-451a-b7a6-8c3294a86879/5757136506-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Arcade Fire (2003-06-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8c60f11-28fb-45f5-8ba2-39514a237b0c/2077182623-500.jpg" data-tags="folk rock, folk" role="button">
+Blackmore's Night - Ghost Of A Rose (2003-06-23)
 </li>
 <li data-cover="https://img.discogs.com/0aoz5NdPGJFBjH26O1R2DMeUs_U=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4406699-1495594422-6621.jpeg.jpg" data-tags="pop, rock, 80s, folk, scottish, folk rock" role="button">
 The Proclaimers - Finest (2003-09-01)
@@ -155,6 +152,9 @@ Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
 Мельница - Перевал (2005-03-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
+Okkervil River - Black Sheep Boy (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
@@ -279,7 +279,7 @@ The Lumineers - The Lumineers (2012-04-03)
 <li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
 Train - California 37 (2012-04-13)
 </li>
-<li data-cover="https://img.discogs.com/O_iR6-ary4h_xPBD_naDOaS9hdE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3850611-1346932341-5871.jpeg.jpg" data-tags="bob dylan, folk rock" role="button">
+<li data-cover="https://img.discogs.com/CgHc93ICQl2tOGG2guJYiHcNFUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074743-1542287980-8027.jpeg.jpg" data-tags="bob dylan, folk rock" role="button">
 Bob Dylan - Tempest (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">

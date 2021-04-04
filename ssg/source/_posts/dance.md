@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:25:01.352Z
+date: 2021-04-04T21:16:06.750Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/44a64b8c-f20d-33f2-be25-88740e575f2c/10607932122-500.jpg" data-tags="pop" role="button">
-Madonna - The Immaculate Collection (1990-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
@@ -99,6 +96,15 @@ LCD Soundsystem - LCD Soundsystem (2005-01-19)
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/e127853e-861e-4e16-a952-807d6e47833f/1743532111-500.jpg" data-tags="electronic, dance" role="button">
+Basement Jaxx - The Singles (2005-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
+Gorillaz - Demon Days (2005-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
+The Pussycat Dolls - PCD (2005-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
 Cascada - Everytime We Touch (2006-02-21)
 </li>
@@ -107,9 +113,6 @@ Nelly Furtado - Loose (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
 Gwen Stefani - The Sweet Escape (2006-12-01)
@@ -125,9 +128,6 @@ The Chemical Brothers - We Are The Night (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg" data-tags="pop, rihanna, rnb" role="button">
 Rihanna - Good Girl Gone Bad (2007-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/1de12505-ac7b-49ab-a0ab-2aa189f0bf99/14541670596-500.jpg" data-tags="pop" role="button">
-Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
 </li>
 <li data-cover="https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg" data-tags="house, dance" role="button">
 David Guetta - Pop Life (2007-06-18)
@@ -147,6 +147,9 @@ The Veronicas - Hook Me Up (2007-09-22)
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">
+Kelly Rowland - Work (2008-02-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">
 Cut Copy - In Ghost Colours (2008-03-22)
 </li>
@@ -158,9 +161,6 @@ Madonna - Hard Candy (2008-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
 The Ting Tings - We Started Nothing (2008-05-16)
-</li>
-<li data-cover="https://img.discogs.com/toDQBN655WEt--WaLnCS0E5eWaU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760921-1515845507-8192.jpeg.jpg" data-tags="electronic, electropop, synthpop, dance" role="button">
-Little Boots - Hands (2008-06-08)
 </li>
 <li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
 Lady Gaga - Just Dance (2008-06-17)

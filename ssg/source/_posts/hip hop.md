@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:18:01.421Z
+date: 2021-04-04T21:12:02.010Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -54,13 +54,10 @@ A Tribe Called Quest - Midnight Marauders (1993-11-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
 </li>
-<li data-cover="https://img.discogs.com/rcnyFfGaGwEXy6j2wYScR3QcDmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7870718-1477229179-6641.jpeg.jpg" data-tags="hip-hop" role="button">
-Beastie Boys - Ill Communication (1994-05-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d2473f7-fd17-4158-b3da-623ee764cd2b/26112985625-500.jpg" data-tags="hip-hop, hip hop, sports, basketball, gin, g funk, abq, albums i had on cassette tape" role="button">
 Skee-Lo - I Wish (1995)
 </li>
-<li data-cover="https://img.discogs.com/1K6lz-ZQCyOIFSvuwGgQdZjNd5E=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5483553-1394539740-9475.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/4XeMGHq5Amyr3RTMy0iBdUOWRfc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309391-1450531695-7510.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/28d8288b-63fd-4995-aeb7-f95be8899795/19137757728-500.jpg" data-tags="hip hop, funk" role="button">
@@ -159,6 +156,9 @@ The Roots - The Tipping Point (2004-07-12)
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
 Omarion - O (2005-02-22)
 </li>
+<li data-cover="https://img.discogs.com/Bd2F0VtwjfQmcKiJxCS3LtP3fAs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10446978-1570403161-3128.jpeg.jpg" data-tags="hip-hop" role="button">
+Kanye West - Late Registration (2005-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)
 </li>
@@ -222,11 +222,11 @@ Ke$ha - TiK ToK (2009-08-07)
 <li data-cover="https://img.discogs.com/4b-rCTzer3nw7mF6FpBiT29Efwc=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3580560-1336101432.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
+Wale - Attention Deficit (2009-11-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/c74c559b-f79f-4f60-ab87-80cff2da8124/9375294375-500.jpg" data-tags="hip hop" role="button">
 Timbaland - Shock Value II (2009-12-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chris brown, hip hop" role="button">
-Chris Brown - Graffiti (2009-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ca7d52e-e60b-4a65-812b-95e268ca588e/2419336392-500.jpg" data-tags="hip hop" role="button">
 Diddy - Dirty Money - Last Train To Paris (2010-05-19)

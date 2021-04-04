@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:30:01.892Z
+date: 2021-04-04T21:25:01.282Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -51,10 +51,10 @@ The Smiths - Louder Than Bombs (1987-03-16)
 <li data-cover="http://coverartarchive.org/release/832c3cd6-effa-3e5f-a6e1-273cfd2d9c27/21363854627-500.jpg" data-tags="80s" role="button">
 The Smiths - Strangeways, Here We Come (1987-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/9df42f72-ae56-4f5b-8f35-53aa3e8665b6/7036450645-500.jpg" data-tags="classic rock, rock, 60s, 80s, uk, compilation, rock pop, laptop, english group" role="button">
+<li data-cover="http://coverartarchive.org/release/9df42f72-ae56-4f5b-8f35-53aa3e8665b6/7036450645-500.jpg" data-tags="classic rock, rock, 60s, 80s, uk, compilation, rock pop, english group" role="button">
 The Beatles - Past Masters, Volume One (1988-03-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/QCYd0wbBuBXY6Pa0PO9RI94p0oo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-679682-1146862594.jpeg.jpg" data-tags="indie rock" role="button">
 The Wedding Present - Seamonsters (1991-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9c5c09d-4c24-47de-bf43-c6ea218de29a/1637331973-500.jpg" data-tags="rock pop" role="button">
@@ -126,16 +126,13 @@ The Streets - Original Pirate Material (2002-03-25)
 <li data-cover="http://coverartarchive.org/release/bb4d834e-c21a-4288-bbee-d9b86c6c3f8b/3772697596-500.jpg" data-tags="downtempo, jazz" role="button">
 The Cinematic Orchestra - Every Day (2002-04-27)
 </li>
-<li data-cover="https://img.discogs.com/TieMjwKaIRqHgCPyaPA7tZtijss=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2505757-1287712074.jpeg.jpg" data-tags="rock" role="button">
-The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/68db5bae-192d-4f35-88fc-984d6a976ec7/1269152456-500.jpg" data-tags="alternative, experimental, uk, shoegaze, garage rock, gospel, 00s, freedom, ecstasy, 2000s, west midlands, sanctuary, rugby, midlands, fuzzy guitar goodness, superb song to drive to, i love singing along, where is my bong, warwickshire, compact discs i own, drunk tank singalong tune, glorify my drug usage, wintercase 07, its not indie assholes, spiritual radio" role="button">
+<li data-cover="http://coverartarchive.org/release/68db5bae-192d-4f35-88fc-984d6a976ec7/1269152456-500.jpg" data-tags="alternative, experimental, uk, shoegaze, garage rock, gospel, 00s, 2000s, west midlands, sanctuary, rugby, midlands, fuzzy guitar goodness, where is my bong, warwickshire, drunk tank singalong tune, wintercase 07, spiritual radio" role="button">
 Spiritualized - Amazing Grace (2003-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
@@ -147,7 +144,7 @@ Morrissey - You Are The Quarry (2004-05-03)
 <li data-cover="http://coverartarchive.org/release/ac140944-91f4-4035-bc46-187769f78e27/12401523730-500.jpg" data-tags="alternative, chamber pop, baroque pop" role="button">
 The Divine Comedy - Absent Friends (2004-06-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+<li data-cover="https://img.discogs.com/fx-3qtaLGu4XcxypfYKwWSLP_i0=/fit-in/549x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501014-1389844857-4827.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, britpop" role="button">
@@ -170,9 +167,6 @@ Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
-Oasis - Stop the Clocks (2006-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
@@ -198,7 +192,7 @@ Newton Faulkner - Hand Built By Robots (2007-07-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
 </li>
-<li data-cover="https://img.discogs.com/FTTHg_Y2yuJm1djbSgGyuWeRLK0=/fit-in/453x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1915053-1252171973.jpeg.jpg" data-tags="rock, alternative, uk, acoustic, atmospheric, turin brakes, folk rock, my gang, my gang 08, reviewed in the guardian, my2008, grade a, fiftyplain" role="button">
+<li data-cover="https://img.discogs.com/FTTHg_Y2yuJm1djbSgGyuWeRLK0=/fit-in/453x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1915053-1252171973.jpeg.jpg" data-tags="rock, alternative, uk, acoustic, atmospheric, turin brakes, folk rock, my2008, fiftyplain" role="button">
 Turin Brakes - Dark On Fire (2007-09-17)
 </li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
@@ -285,14 +279,14 @@ Peace - EP Delicious (2012-09-10)
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
 </li>
-<li data-cover="https://img.discogs.com/19gVmYS-jPeW1-fBtymMvrLh0aU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8364328-1461426128-5075.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
-FKA twigs - EP1 (2012-12-04)
-</li>
 <li data-cover="https://img.discogs.com/cz4EWTrah9eujJlY5c2SzT215uA=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238269-1326425279.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
 Depeche Mode - Heaven (2013-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
+</li>
+<li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
+James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, vinyl, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
 Public Service Broadcasting - Inform - Educate - Entertain (2013-05-06)
@@ -300,8 +294,14 @@ Public Service Broadcasting - Inform - Educate - Entertain (2013-05-06)
 <li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk, vinyl" role="button">
 Laura Marling - Once I Was An Eagle (2013-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
+Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/6a708edc-1239-4957-8061-4c61692ac646/5233341702-500.jpg" data-tags="indie, alternative rock, indie pop, indie rock, uk, friend recommended,  shoegaze" role="button">
 Swim Deep - Where the Heaven Are We (2013-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d9e9ec1a-8f79-4b92-8e43-da6603a43e34/5253500057-500.jpg" data-tags="trip-hop, electronic" role="button">
+FKA twigs - EP2 (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb21b18b-a4d0-4990-89ed-2727a0bef2d7/5572801637-500.jpg" data-tags="pop rock" role="button">
 James Blunt - Moon Landing (2013-10-18)

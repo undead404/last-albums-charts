@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:40:01.286Z
+date: 2021-04-04T21:35:01.289Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -8,8 +8,8 @@ title: "hardcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">Converge - Jane Doe (2001-09-04)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://img.discogs.com/g47MKA09F1QZH3rA38T8vzXChEY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4165539-1357434050-5425.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">A Day to Remember - And Their Name Was Treason (2005-05-10)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">Bullet for My Valentine - The Poison (2005-09-30)</li>
 <li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
-<li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - The Sufferer & the Witness (2006-07-03)</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">A Day to Remember - For Those Who Have Heart (2007-01-23)</li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Appeal to Reason (2008-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
@@ -41,9 +41,6 @@ Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fbf71bc-5530-35cb-be9e-fccb2ec2a9ca/19908311105-500.jpg" data-tags="post-hardcore" role="button">
-Glassjaw - Everything You Ever Wanted To Know About Silence (2000-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a570d143-3749-42cb-84a1-63ab6e6f3b05/24579314447-500.jpg" data-tags="hardcore" role="button">
 Ignite - A Place Called Home (2000-05-30)
@@ -144,6 +141,9 @@ A Day to Remember - And Their Name Was Treason (2005-05-10)
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
 Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/c558e640-ca93-410b-a925-6d88f844fcf8/944255554-500.jpg" data-tags="metalcore" role="button">
+As I Lay Dying - Shadows Are Security (2005-06-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/de118cde-2306-440f-a1f9-f849541c56ff/4933169441-500.jpg" data-tags="hardcore" role="button">
 Modern Life Is War - Witness (2005-06-21)
 </li>
@@ -159,8 +159,11 @@ Every Time I Die - Gutter Phenomenon (2005-08-23)
 <li data-cover="http://coverartarchive.org/release/823a4507-0214-4494-94b4-a412bea51fb3/26400961318-500.jpg" data-tags="mathcore, progressive metalcore" role="button">
 Protest the Hero - Kezia (2005-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9c2c83b-95e7-4889-82d7-65ff6bf7353c/26394820511-500.jpg" data-tags="nintendocore" role="button">
-HORSE the band - The Mechanical Hand (2005-09-20)
+<li data-cover="http://coverartarchive.org/release/cce39342-31fe-4e87-903f-6dfc1ab5d646/1065535590-500.jpg" data-tags="metalcore" role="button">
+Parkway Drive - Killing With a Smile (2005-09-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
+Bullet for My Valentine - The Poison (2005-09-30)
 </li>
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
@@ -218,9 +221,6 @@ Comeback Kid - Broadcasting (2007-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/69204334-10ff-4b6d-b986-da242a9dcb0b/15294175612-500.jpg" data-tags="metalcore, deathcore" role="button">
 Emmure - Goodbye To The Gallows (2007-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b67ab50-5a1f-4fbf-97bf-08a0147b465f/26758185520-500.jpg" data-tags="hardcore" role="button">
-Maylene and the Sons of Disaster - II (2007-03-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)

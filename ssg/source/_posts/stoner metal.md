@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:08:01.427Z
+date: 2021-04-04T21:23:01.388Z
 title: "stoner metal: 100 albums you must listen to before you die"
 ---
 ![Sleep - Dopesmoker (2003-04-22)](http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg "Sleep - Dopesmoker (2003-04-22)")
@@ -119,9 +119,6 @@ Black Label Society - The Blessed Hellride (2003-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Sleep - Dopesmoker (2003-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cba2469-abb2-4e4c-bbad-1f9d7f47cabf/15577300296-500.jpg" data-tags="hardcore, metal, thrash metal, sludge metal" role="button">
-Superjoint Ritual - A Lethal Dose of American Hatred (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/357a1b68-b66c-46c3-aced-e5e1fa812790/17674019626-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Electric Wizard - We Live (2004)
@@ -303,14 +300,17 @@ Om - Advaitic Songs (2012-07-24)
 <li data-cover="http://coverartarchive.org/release/e84643d8-f1ff-4014-9a57-406f1e5a09ae/15648466032-500.jpg" data-tags="stoner metal" role="button">
 The Sword - Apocryphon (2012-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1008433-df97-44b6-b91b-daebf2fc180c/19903307970-500.jpg" data-tags="stoner rock" role="button">
-Karma to Burn - Karma to Burn (2013-03-29)
+<li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">
+Queens of the Stone Age - ...Like Clockwork (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/694d7110-9373-4c35-8ac9-419aa0bfd752/6329214780-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Windhand - Soma (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0982a7ba-812d-4dd8-9c9f-fbf70841e1b5/7360844668-500.jpg" data-tags="rock, psychedelic rock" role="button">
 All Them Witches - Lightning At The Door (2013-11-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="stoner metal" role="button">
+Dopelord - Black Arts, Riff Worship & Weed Cult (2014-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/02296e21-5894-43d0-9e33-b31570165b3d/7305419871-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Once More 'Round the Sun (2014-06-20)

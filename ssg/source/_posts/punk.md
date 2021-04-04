@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:51:01.391Z
+date: 2021-04-04T21:13:01.364Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="proto-punk, 1970, garage rock, 70s" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="proto-punk, garage rock, 70s" role="button">
 The Stooges - Fun House (1970-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/3714201314-500.jpg" data-tags="1975, rock, punk, 70s" role="button">
@@ -258,6 +258,9 @@ Dropkick Murphys - The Warrior's Code (2005-06-15)
 <li data-cover="http://coverartarchive.org/release/3614a7b6-5158-4b9a-bf18-b03bce0ca8f4/8815559499-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Greatest Hits (2005-06-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/8ec80332-991e-43f4-9de0-7ca6a38899db/9408515476-500.jpg" data-tags="gypsy punk" role="button">
+Gogol Bordello - Gypsy Punks: Underdog World Strike (2005-08-09)
+</li>
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
@@ -278,9 +281,6 @@ New Found Glory - Coming Home (2006-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/f33e4eed-270b-3e51-8f04-d9c1eba4a8e6/7984535080-500.jpg" data-tags="punk rock, punk" role="button">
-The Clash - The Singles (2006-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1b91579-b873-45d2-a5cc-ac633a946791/4812682225-500.jpg" data-tags="punk" role="button">
 The Gaslight Anthem - Sink or Swim (2007-05-29)

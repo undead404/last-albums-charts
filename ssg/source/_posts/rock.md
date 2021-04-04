@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:42:01.430Z
+date: 2021-04-04T21:24:01.484Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -44,9 +44,6 @@ Nirvana - Nevermind (1991-09-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
-</li>
-<li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
-U2 - Achtung Baby (1991-11-18)
 </li>
 <li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
@@ -207,6 +204,12 @@ Lifehouse - Lifehouse (2005-03-22)
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
+Gorillaz - Demon Days (2005-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/780cd4e5-56f8-4ea1-94e0-6fb6368e0083/8618820927-500.jpg" data-tags="rock, alternative rock" role="button">
+Audioslave - Out of Exile (2005-05-23)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
 </li>
@@ -278,9 +281,6 @@ Kings of Leon - Only by the Night (2008-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b459cd86-0392-4166-a5d6-0dfa505976df/2584590181-500.jpg" data-tags="indie, indie rock, rock" role="button">
 The Killers - Day & Age (2008-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
-The Fray - The Fray (2009-01-30)
 </li>
 <li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)

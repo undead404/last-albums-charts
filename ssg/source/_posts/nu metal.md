@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:55:01.272Z
+date: 2021-04-04T21:09:01.300Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -32,6 +32,9 @@ Sepultura - Roots (1996-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c93f6a84-0822-472f-ba7d-a49e475a9a43/4088021294-500.jpg" data-tags="nu metal" role="button">
 Korn - Life Is Peachy (1996-10-15)
+</li>
+<li data-cover="https://img.discogs.com/5uTI-tZy_sChL6Hi6Xuugua-rP0=/fit-in/477x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437811-1330371553.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
+Limp Bizkit - Three Dollar Bill, Yall$ (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
@@ -293,9 +296,6 @@ Head - Save Me From Myself (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1683e78-37ec-478c-bc22-8c8c09a94244/7125564638-500.jpg" data-tags="alternative rock, transformers, nu metal, nu-metal" role="button">
 Linkin Park - New Divide (2009-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
-Skillet - Awake (2009-08-24)
 </li>
 <li data-cover="https://img.discogs.com/IKLe79N8VgR1VEcnJagD1tWrh8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3497267-1332751302.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)

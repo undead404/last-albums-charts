@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:28:01.594Z
+date: 2021-04-04T21:29:01.324Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -29,9 +29,6 @@ John Coltrane - A Love Supreme (1965-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f15114e-4bb6-4741-8b24-fbe8cfcbdf9b/10124261890-500.jpg" data-tags="soul, motown, stevie wonder" role="button">
 Stevie Wonder - For Once in My Life (1968)
-</li>
-<li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
-The Velvet Underground - White Light/White Heat (1968-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
@@ -87,10 +84,10 @@ Le Tigre - Le Tigre (1999-11-08)
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
 </li>
-<li data-cover="https://img.discogs.com/r2SQuPuMEuoDJ-tZDZBbc0UuB_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467570-1225318253.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
+<li data-cover="https://img.discogs.com/WT1wu71Vs82Vi4OEtAxWvSrG7zc=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640555-1491711277-5335.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
 Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, piano" role="button">
+<li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
 <li data-cover="https://img.discogs.com/3B1x2eMdyzozBWx9Cl5O0ZhL7Fw=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6040275-1409521282-8025.jpeg.jpg" data-tags="rock, alternative rock" role="button">
@@ -126,11 +123,14 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 </li>
-<li data-cover="https://img.discogs.com/iuOQqNStC3sJ5-dAXbTifFD7gMc=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949614-1255264923.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/w7HTqBIxHr1IaOv0g3fxyPoCNYs=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2372262-1280175880.jpeg.jpg" data-tags="electronic" role="button">
 LCD Soundsystem - LCD Soundsystem (2005-01-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 The National - Alligator (2005-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
+Dave Matthews Band - Stand Up (2005-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)
@@ -153,7 +153,7 @@ Band of Horses - Cease to Begin (2007-10-09)
 <li data-cover="http://coverartarchive.org/release/1511dd98-36f7-42d8-93d3-f2ffcd2d2850/26544747762-500.jpg" data-tags="indie rock" role="button">
 The Killers - Don't Shoot Me Santa (2007-11-27)
 </li>
-<li data-cover="https://img.discogs.com/gQGPAyX3XU9hGeQVSyhUQou_K6s=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2348005-1297509387.jpeg.jpg" data-tags="electronic, indietronica" role="button">
+<li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
@@ -183,9 +183,6 @@ The All-American Rejects - When the World Comes Down (2008-12-16)
 <li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
-Matt & Kim - Grand (2009-01-20)
-</li>
 <li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
 </li>
@@ -210,9 +207,6 @@ Devendra Banhart - What Will We Be (2009-10-26)
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/69115003-a563-4e9e-99d6-fce1ed9b141d/25465821647-500.jpg" data-tags="folk" role="button">
-Joanna Newsom - Have One on Me (2010-02-03)
-</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
 MGMT - Congratulations (2010-04-07)
 </li>
@@ -230,9 +224,6 @@ Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/689f26cd-b624-4bd2-a1bf-fd327f65f07b/9361302288-500.jpg" data-tags="electro hop" role="button">
 Mike Posner - 31 Minutes to Takeoff (2010-08-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f6b6a4d-36d4-472d-bdf0-f912bb2c1cbd/9103084649-500.jpg" data-tags="alternative rock, usa, american, male vocalists, americain, jacob" role="button">
-Plain White T's - Rhythm Of Love (2010-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c80ce6d-a9de-4dac-8d2c-69b1df44c9c0/18661854773-500.jpg" data-tags="indie, art pop, electronic" role="button">
 Sufjan Stevens - The Age of Adz (2010-10-11)
@@ -267,9 +258,6 @@ Lenny Kravitz - Black and White America (2011-08-19)
 <li data-cover="http://coverartarchive.org/release/1080fddb-aefa-413f-b5a1-11a945edd96a/20701467093-500.jpg" data-tags="rock, usa, compilation, alt rock, new york punk, 10s, female singer songwriter, compilation album, american musician, p smith" role="button">
 Patti Smith - Outside Society (2011-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">
-Car Seat Headrest - Twin Fantasy (2011-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/9c78e227-cedb-430f-b737-f1ea6bce6fa2/16131070980-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - El Camino (2011-12-01)
 </li>
@@ -291,8 +279,20 @@ Macklemore & Ryan Lewis - The Heist (2012-10-09)
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
 Alicia Keys - Girl on Fire (2012-11-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/306adcf4-39b2-4706-919a-f960cc7a1c48/2930110026-500.jpg" data-tags="indie, indie rock, 10s" role="button">
+Yo La Tengo - Fade (2013-01-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
+Phosphorescent - Muchacho (2013-03-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/30c6bed1-467f-41c9-93bf-12bf1251ea6e/28438481526-500.jpg" data-tags="usa, sadcore, slowcore, sadness" role="button">
+dandelion hands - It's All in Your Head (2013-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/2b84470d-84a0-453c-9459-b0276f3936ae/6488059324-500.jpg" data-tags="hip-hop, chillout, hip hop, soul, down tempo, downtempo, usa, solo, urban, moody, american, breaks, hiphop, bigbeat, chill-out, one-man band, colorado, chill out, big beat, american underground, down-tempo, 10s, lo fi, denver, solo artist, america, united states, one man band, fully streamable tracks, mood music, big-beat, one-man-band, sampledelic, bandcamp, solo project, free streamable albums, fully streamable album, one man project, self-released, urban music, usa underground, fully streamable track, free streamable album, one-man-project, one  man band" role="button">
 Pretty Lights - A Color Map of the Sun (2013-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a47e508-55f6-4d33-b18e-44e8f78785a3/6237120485-500.jpg" data-tags="pop, r&b" role="button">
+Ciara - Ciara (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a07df9fe-a276-44ed-99f8-41bfcd53daa3/4764876876-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Edward Sharpe & The Magnetic Zeros (2013-07-23)

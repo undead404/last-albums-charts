@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:59:01.257Z
+date: 2021-04-04T21:22:01.296Z
 title: "deathcore: 100 albums you must listen to before you die"
 ---
 ![Bring Me the Horizon - Suicide Season (2008-09-29)](http://coverartarchive.org/release/328619a0-b3fd-4fd3-8404-1c23228df4ad/26118015764-500.jpg "Bring Me the Horizon - Suicide Season (2008-09-29)")
@@ -102,6 +102,9 @@ Whitechapel - The Somatic Defilement (2007-07-31)
 <li data-cover="http://coverartarchive.org/release/1066b8f2-237c-4461-9dbb-540a5aecc540/15528876986-500.jpg" data-tags="deathcore" role="button">
 Arsonists Get All The Girls - The Game Of Life (2007-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
+The Devil Wears Prada - Plagues (2007-08-21)
+</li>
 <li data-cover="https://img.discogs.com/SXMY9TtYg2E3iEpMij1FAB_u5S0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1087368-1191066313.png.jpg" data-tags="death metal, metalcore" role="button">
 Divine Heresy - Bleed The Fifth (2007-08-27)
 </li>
@@ -138,8 +141,11 @@ Veil of Maya - The Common Man's Collapse (2008-04-01)
 <li data-cover="https://img.discogs.com/dFKicivjFeJ6Rhe-_csdrzdRSVY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1797901-1275538030.jpeg.jpg" data-tags="deathcore" role="button">
 Annotations of an Autopsy - Before The Throne of Infection (2008-04-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, deathcore" role="button">
+<li data-cover="https://img.discogs.com/ADeigc3d2KBvaxQ1WRf3hj9Bb_o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7715750-1447313945-5391.jpeg.jpg" data-tags="metalcore, deathcore" role="button">
 Sea Of Treachery - At Daggers Drawn (2008-04-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/7989cdba-74de-4b58-9ebc-23ca25681bf8/15294273903-500.jpg" data-tags="metalcore, moshcore" role="button">
+Emmure - The Respect Issue (2008-05-13)
 </li>
 <li data-cover="https://img.discogs.com/VUfRu6p7PL2-IWIKi5cQX1VCzYU=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2425433-1283416690.jpeg.jpg" data-tags="deathcore" role="button">
 Whitechapel - This Is Exile (2008-07-08)
@@ -219,9 +225,6 @@ Carnifex - Hell Chose Me (2010-02-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Suffokate - No Mercy, No Forgiveness (2010-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
-Justin Bieber - My Worlds (2010-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/25520815-b3b0-4629-ab57-6044df49e739/9757577597-500.jpg" data-tags="deathcore" role="button">
 Veil of Maya - [id] (2010-04-06)
 </li>
@@ -249,7 +252,7 @@ The Acacia Strain - Wormwood (2010-07-20)
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
 </li>
-<li data-cover="https://img.discogs.com/9a1VON74XBTu7wJGlvfziZuq1Ok=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930875-1517967292-9252.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f0ffb45-97f9-4b6e-9b47-ae78f4d74926/7274747242-500.jpg" data-tags="deathcore" role="button">
@@ -317,8 +320,5 @@ Chelsea Grin - Ashes To Ashes (2014-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/92cf015b-4bca-4b36-9eaf-0b66cdafc6c8/8030431455-500.jpg" data-tags="deathcore" role="button">
 Betraying the Martyrs - Phantom (2014-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b180d8c3-d99c-400f-b3b1-296ba764ef27/8633185428-500.jpg" data-tags="deathcore, technical deathcore" role="button">
-Rings of Saturn - Lugal Ki En (2014-10-14)
 </li>
 </ol>

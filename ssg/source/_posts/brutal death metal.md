@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:13:01.267Z
+date: 2021-04-04T20:59:01.374Z
 title: "brutal death metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/glSO_BJskIBehqGY-UevRv_AReQ=/fit-in/216x216/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1639772-1233897783.jpeg.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Eaten Back To Life (1990-08-16)
 </li>
-<li data-cover="https://img.discogs.com/kWLHCcXUNMt-vlmcEhJ1wDu9jTM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2893322-1586860460-8293.jpeg.jpg" data-tags="death metal" role="button">
+<li data-cover="https://img.discogs.com/IaZOSf_Tq27HSEywCm3fm-BtTx0=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5041433-1490470276-7462.jpeg.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Butchered at Birth (1991)
 </li>
 <li data-cover="https://img.discogs.com/C4M3Fa4WZDWnPGxrF59pcBoxAMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-427094-1480934536-5814.jpeg.jpg" data-tags="death metal" role="button">
@@ -195,6 +195,9 @@ Steel Panther - Feel the Steel (2009-06-08)
 <li data-cover="http://coverartarchive.org/release/98655166-b00e-4fe8-8ee1-bd36d6e85917/7576589725-500.jpg" data-tags="brutal death metal" role="button">
 Devourment - Unleash the Carnivore (2009-06-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/6119fca5-d6e4-4685-b5d8-dfd71fce3494/2142804827-500.jpg" data-tags="miley cyrus" role="button">
+Miley Cyrus - Party in the U.S.A. (2009-08-11)
+</li>
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
@@ -234,7 +237,7 @@ Black Veil Brides - We Stitch These Wounds (2010-07-20)
 <li data-cover="http://coverartarchive.org/release/ecd6ede3-f62b-4300-99a4-39e872e818f5/20678725230-500.jpg" data-tags="brutal death metal, death metal" role="button">
 Cerebral Bore - Maniacal Miscreation (2010-08-01)
 </li>
-<li data-cover="https://img.discogs.com/9a1VON74XBTu7wJGlvfziZuq1Ok=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930875-1517967292-9252.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
@@ -269,9 +272,6 @@ Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, gay metal, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
 King Dude - Love (2011-11-23)
-</li>
-<li data-cover="https://img.discogs.com/ibDZjXi2nitNp8paa8Q_w5TJCsE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16059186-1602706009-4478.jpeg.jpg" data-tags="racist country, similar to johnny rebel, kid rock, creed, kkk country, scat, racism, farts, racist, my nigga, fart, donald trump, sjw, farting, youngstar, little star" role="button">
-Dustin Lynch - Cowboys and Angels (2012-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/515f6a0e-3524-4509-a9f6-724f2235ad59/1132569608-500.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Torture (2012-03-09)

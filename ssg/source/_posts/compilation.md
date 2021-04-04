@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:40:01.295Z
+date: 2021-04-04T21:00:01.834Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
@@ -24,13 +24,10 @@ _________________
 <li data-cover="http://coverartarchive.org/release/5d9391fb-7d01-30c2-879f-7e21ca6daa7e/1636883977-500.jpg" data-tags="classic rock, 60s" role="button">
 The Rolling Stones - Big Hits (High Tide and Green Grass) (1966-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/4e179701-5308-3866-8b43-a70228f97495/930164328-500.jpg" data-tags="classic rock, progressive rock" role="button">
-Procol Harum - A Whiter Shade of Pale (1967)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ca49d65-dcca-3618-9e56-7a66e45879a5/21476831933-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Bob Dylan - Bob Dylan's Greatest Hits (1967-03-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 60s, the rolling stones" role="button">
+<li data-cover="https://img.discogs.com/Ov-HKWBtgTGF2CIxqVZN7aWFofs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13132616-1548618150-9001.jpeg.jpg" data-tags="classic rock, 60s, the rolling stones" role="button">
 The Rolling Stones - Hot Rocks 1964-1971 (1971-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/002e0056-22a5-45c6-9804-6e3eab21e660/1242995357-500.jpg" data-tags="heavy metal, hard rock" role="button">
@@ -93,6 +90,9 @@ Helloween - The Best, the Rest, the Rare (1991-08-21)
 <li data-cover="http://coverartarchive.org/release/4a4297fd-96f0-4614-b428-1ed7872ad963/16216791116-500.jpg" data-tags="rock, 80s, alternative rock" role="button">
 R.E.M. - The Best Of R.E.M. (1991-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
+Red Hot Chili Peppers - What Hits!? (1992-09-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/b713ebf1-0911-4575-b989-88d6743f964f/26393009369-500.jpg" data-tags="uk, 90s, compilation, laptop, duets, male singer songwriter, albums i own on cd, english musician, duets ej" role="button">
 Elton John - Duets (1993-11)
 </li>
@@ -147,7 +147,7 @@ Bill Withers - The Best Of Bill Withers: Lean On Me (2000-05-30)
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur: The Best Of (2000-10-23)
 </li>
-<li data-cover="https://img.discogs.com/x1CmBswbNg6SHy_jR-cQVPFuVzs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4921091-1379472083-5106.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/Adl1Wd3mszSdi5fs5d89d_LH3uU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1571931-1394783380-4954.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Bob Dylan - The Essential Bob Dylan (2000-10-31)
 </li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
@@ -165,7 +165,7 @@ Tracy Chapman - Collection (2001-09-17)
 <li data-cover="http://coverartarchive.org/release/00d3fb06-bb1c-4f92-b7b6-13b08afe7b89/12241150919-500.jpg" data-tags="indie rock, indie" role="button">
 Modest Mouse - Everywhere and His Nasty Parlour Tricks (2001-09-25)
 </li>
-<li data-cover="https://img.discogs.com/vWU0hRCyC-N_Rz0fU_HTX5UAcAU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5732522-1401169063-7564.jpeg.jpg" data-tags="folk, classic rock" role="button">
+<li data-cover="https://img.discogs.com/XfFYwIgsPgcIRN7ZFMQFQWnOrXY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4365396-1362939414-1904.jpeg.jpg" data-tags="folk, classic rock" role="button">
 Don McLean - The Best of Don McLean (2001-10-15)
 </li>
 <li data-cover="https://img.discogs.com/0q-kp50zBx_Bc9QxWgZ8YQUK6r4=/fit-in/583x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6850887-1427974206-7908.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
@@ -198,7 +198,7 @@ Neil Young - Greatest Hits (2004-11-16)
 <li data-cover="http://coverartarchive.org/release/0d7b0f4b-52ac-4142-b06b-1a536282030e/13319749125-500.jpg" data-tags="pop, 80s, usa, compilation, 00s, soulful pop, american group" role="button">
 Hall & Oates - The Essential Daryl Hall & John Oates (2005)
 </li>
-<li data-cover="https://img.discogs.com/GV6T9kb7uQvIW_vp-4p30UzurbY=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820132-1415893347-1032.jpeg.jpg" data-tags="classic rock, folk, csn" role="button">
+<li data-cover="https://img.discogs.com/knjaSnNxQ0KcisBhjyaU6_7421A=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089778-1191250136.jpeg.jpg" data-tags="classic rock, folk, csn" role="button">
 Crosby, Stills & Nash - Greatest Hits (2005-03-14)
 </li>
 <li data-cover="https://img.discogs.com/pPPWcvD_F9GXyGQxpOVeJsKQTLY=/fit-in/600x691/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8875473-1470585325-4745.jpeg.jpg" data-tags="pop, michael jackson" role="button">
@@ -279,7 +279,7 @@ Foo Fighters - Greatest Hits (2009-10-30)
 <li data-cover="https://img.discogs.com/4F9Co947WUj1ES6nImbNYK4a2Bw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2297316-1571117250-3558.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
 Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="compilation, rock n roll, greatest hits" role="button">
+<li data-cover="https://img.discogs.com/iBChasnJz7Yph41jWMq394G2ewo=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952837-1591705176-2117.jpeg.jpg" data-tags="compilation, rock n roll, greatest hits" role="button">
 Joan Jett and the Blackhearts - Greatest Hits (2010-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a02dd53-da90-464d-a1d6-08c45865eee7/10143368856-500.jpg" data-tags="canadian, pop" role="button">
