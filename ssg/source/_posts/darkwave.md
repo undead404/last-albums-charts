@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:28:06.671Z
+date: 2021-04-04T14:50:01.268Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![She Wants Revenge - She Wants Revenge (2005-12-13)](http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg "She Wants Revenge - She Wants Revenge (2005-12-13)")
@@ -150,7 +150,7 @@ Blutengel - Child of Glass (1999-02-22)
 <li data-cover="http://coverartarchive.org/release/330eb616-d958-40ea-a0c1-f923a8f66295/2106422638-500.jpg" data-tags="darkwave, dark wave" role="button">
 Deine Lakaien - Kasmodiah (1999-04-09)
 </li>
-<li data-cover="https://img.discogs.com/LIWlyVwXfnrmgY46VP-dbPtaMUA=/fit-in/384x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-960859-1373840991-3683.jpeg.jpg" data-tags="synthpop" role="button">
+<li data-cover="https://img.discogs.com/i7Mdiv7bhGP0Wki8_jUzVqvns_M=/fit-in/572x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6078419-1442913906-8783.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
 </li>
 <li data-cover="https://img.discogs.com/kghbP0cZiuZgaQ_jVxLPPJPBXSI=/fit-in/478x742/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7173385-1435353547-9883.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
@@ -161,6 +161,9 @@ Brendan Perry - Eye of the Hunter (1999-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e332bd88-d7a4-4ad0-844b-fb8063c6e0a0/3990451420-500.jpg" data-tags="futurepop" role="button">
 Covenant - United States of Mind (2000-02-02)
+</li>
+<li data-cover="https://img.discogs.com/NEaBBjoOiFs2tA1B0Qddv2b_4sI=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932608-1254816865.jpeg.jpg" data-tags="darkwave" role="button">
+Diary of Dreams - One Of 18 Angels (2000-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/516224a0-0c91-4b18-98e8-af3d0d66bdce/2216955296-500.jpg" data-tags="gothic" role="button">
 Collide - Chasing the Ghost (2000-10-31)
@@ -173,6 +176,9 @@ Chiasm - Disorder (2001-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2689a2ed-19b4-4095-8c77-f2e24e915962/22524388802-500.jpg" data-tags="electronic" role="button">
 Depeche Mode - Exciter (2001-05-10)
+</li>
+<li data-cover="https://img.discogs.com/TCfCFFygw_4fOymnI55HbWwp1u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445333-1305669402.png.jpg" data-tags="ambient, dark ambient" role="button">
+Antimatter - Saviour (2001-09-24)
 </li>
 <li data-cover="https://img.discogs.com/BGtl8NE3YxcijsK46nJgjOsJxyM=/fit-in/297x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-186089-002.jpg.jpg" data-tags="industrial" role="button">
 Mortiis - The Smell Of Rain (2001-10-22)
@@ -264,7 +270,7 @@ Patrick Wolf - The Bachelor (2009-06-01)
 <li data-cover="http://coverartarchive.org/release/46ba4661-8cf7-39ec-9661-cc1a93099f29/9656939428-500.jpg" data-tags="synth pop" role="button">
 Cold Cave - Love Comes Close (2009-07-21)
 </li>
-<li data-cover="https://img.discogs.com/mTi9bBoVjAX4TqxdxLH3EhLLqu8=/fit-in/595x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1996333-1257597527.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
+<li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/65a811b8-8b98-4642-8f25-48586fa93b10/8138480397-500.jpg" data-tags="experimental, dream pop, electronic, darkwave" role="button">
@@ -294,9 +300,6 @@ Austra - Feel It Break (2011-05-13)
 <li data-cover="http://coverartarchive.org/release/a89ea8b7-17cf-48dd-b253-d6a44c1ba5d9/28421550599-500.jpg" data-tags="darkwave, 10s, downwards, psychedelic snake venom" role="button">
 Tropic of Cancer - The End of All Things (2011-11-07)
 </li>
-<li data-cover="https://img.discogs.com/Rfsy7OsRgbVtxmZpLSHfVBX-A2E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4580482-1386424208-5512.jpeg.jpg" data-tags="post-punk, gothic rock, gothic" role="button">
-She Past Away - Belirdi Gece (2012-02-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg" data-tags="synthpop, darkwave, electronic" role="button">
 Trust - Trst (2012-02-28)
 </li>
@@ -314,9 +317,6 @@ BADBADNOTGOOD - III (2014-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/56ce8556-c0f9-4d8d-85a6-d873e9d4cec1/13225929306-500.jpg" data-tags="electronic, glitch" role="button">
 Baths - Ocean Death (2014-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/27d9c12b-95f6-46ae-afd1-5f42d7e23d68/9710589254-500.jpg" data-tags="synthwave, electronic" role="button">
-Perturbator - Dangerous Days (2014-06-16)
 </li>
 <li data-cover="https://img.discogs.com/aNaU17z_kgJr1ATCVe4dsyedENw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6334097-1416722384-6607.jpeg.jpg" data-tags="indie pop, american, darkwave, the voice, dead to me, dollhouse, gothic pop, carousel, bittersweet tragedy, melanie martinez" role="button">
 Melanie Martinez - Dollhouse (2014-07-24)

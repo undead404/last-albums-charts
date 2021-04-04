@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:43:01.282Z
+date: 2021-04-04T15:44:01.299Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -153,9 +153,6 @@ Jem - Finally Woken (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
 </li>
-<li data-cover="https://img.discogs.com/pWR5red6KiRm4n6SOdMh6mOySIM=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-252667-1597703699-7756.jpeg.jpg" data-tags="electronica, indietronica" role="button">
-Lali Puna - Faking The Books (2004-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
 </li>
@@ -203,6 +200,9 @@ Metronomy - Nights Out (2007)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
+Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d1ef500-7004-4756-a45d-8b1f43692dc5/10118092077-500.jpg" data-tags="electronic, electronica" role="button">
 The Chemical Brothers - We Are The Night (2007-05)

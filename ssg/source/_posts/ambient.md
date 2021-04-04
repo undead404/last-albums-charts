@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:50:01.313Z
+date: 2021-04-04T15:40:01.413Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -108,9 +108,6 @@ Broken Social Scene - Feel Good Lost (2001-03-06)
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
-Radiohead - Amnesiac (2001-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/52866029-e8eb-4cc1-9393-a1e495274480/2262005119-500.jpg" data-tags="ambient" role="button">
 Jon Hopkins - Opalescent (2001-07-30)
 </li>
@@ -189,9 +186,6 @@ Moby - Hotel (2005-03-09)
 <li data-cover="http://coverartarchive.org/release/7f1e0988-5fe2-4e4c-9a74-6b4136d451e3/1238392358-500.jpg" data-tags="ambient" role="button">
 Hammock - Kenotic (2005-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/df2e2fcb-444c-40cb-9a43-a0d7462f4aa7/23478128255-500.jpg" data-tags="alternative rock, ambient, alternative" role="button">
-Team Sleep - Team Sleep (2005-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
 </li>
@@ -204,6 +198,9 @@ Enya - Amarantine (2005-11-18)
 <li data-cover="http://coverartarchive.org/release/bdbeeba8-11c2-49aa-b01d-eb445af7f44c/4469616343-500.jpg" data-tags="ambient" role="button">
 Helios - Eingya (2006-06-15)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+The Album Leaf - Into The Blue Again (2006-09-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
 Carbon Based Lifeforms - World of Sleepers (2006-12-02)
 </li>
@@ -215,6 +212,9 @@ Amiina - Kurr (2007-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea4878cf-aa0b-4763-8f22-4cfc7b4c2881/4158091289-500.jpg" data-tags="ambient, instrumental" role="button">
 Balmorhea - Balmorhea (2007-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
+Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)

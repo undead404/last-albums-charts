@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:22:01.238Z
+date: 2021-04-04T15:45:01.560Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)](http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg "Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)")
@@ -13,7 +13,7 @@ title: "lo-fi: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">Kurt Vile - Smoke Ring for My Halo (2011-03-07)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">Youth Lagoon - The Year of Hibernation (2011-09-26)</li>
+<li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">Youth Lagoon - The Year of Hibernation (2011-09-26)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://img.discogs.com/y_9q13u3i-RUU0MzV58RFFibGlc=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1938750-1253736650.jpeg.jpg" data-tags="lo-fi, 90s" role="button">
+<li data-cover="https://img.discogs.com/CcjPgehxKKmnpj9yKdrvrHTN_1o=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660081-1410118023-7025.jpeg.jpg" data-tags="lo-fi, 90s" role="button">
 Daniel Johnston - 1990 (1990-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c89d898-e5f2-4685-a6b3-9431e69d149d/10672925625-500.jpg" data-tags="90s, indie rock" role="button">
@@ -42,7 +42,7 @@ Guided by Voices - Bee Thousand (1994-06-21)
 <li data-cover="https://img.discogs.com/Jq6H0etcMhAUKJT27hQnz0DVUG8=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12319764-1533062772-9140.jpeg.jpg" data-tags="lo-fi" role="button">
 Beck - One Foot In The Grave (1994-06-27)
 </li>
-<li data-cover="https://img.discogs.com/b6ul-IreDGOVEhsw2pxmMQ5esWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1155467-1382981671-1946.jpeg.jpg" data-tags="singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/DVO4ZrB4UcZ4oXzUSfxH1RjZutU=/fit-in/566x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2823240-1302635712.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
 </li>
 <li data-cover="https://img.discogs.com/9QjKfdamKZdB0lkuixAPIamFufc=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806796-1160753727.jpeg.jpg" data-tags="alternative, lo-fi, indie rock" role="button">
@@ -53,9 +53,6 @@ Neutral Milk Hotel - Everything Is (1995)
 </li>
 <li data-cover="https://img.discogs.com/XVQxz6IrnS2KGEuqcB7m1Wb-i9c=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8238317-1552105184-6434.jpeg.jpg" data-tags="90s, indie rock, lo-fi" role="button">
 Guided by Voices - Alien Lanes (1995-04-04)
-</li>
-<li data-cover="https://img.discogs.com/WUY9-bWAt7vedxNhoYktHbcRHMU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8541332-1463680390-9242.jpeg.jpg" data-tags="indie rock, 90s" role="button">
-Pavement - Wowee Zowee (1995-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Neutral Milk Hotel - On Avery Island (1996-03-26)
@@ -69,7 +66,7 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/e61f4d70-f7dc-3ac9-b1c6-69eeab74a263/28389930977-500.jpg" data-tags="indie rock, indie" role="button">
 Pavement - Brighten the Corners (1997-01-08)
 </li>
-<li data-cover="https://img.discogs.com/7IcGY9LB8hqBL8BBOXahm6I51_c=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2803010-1301735828.jpeg.jpg" data-tags="britpop" role="button">
+<li data-cover="https://img.discogs.com/RfwYr-DoPVohJSbfqKRoUOxJVzk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675399-1424382705-4783.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur (1997-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
@@ -102,13 +99,13 @@ The Mountain Goats - All Hail West Texas (2002-02-19)
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
@@ -117,10 +114,10 @@ Midlake - Bamnan and Slivercork (2004-06-08)
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
-<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
@@ -129,13 +126,13 @@ Regina Spektor - Begin to Hope (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
 </li>
-<li data-cover="https://img.discogs.com/2N3MNz4lsRa3HMI2YDtc4DeSUmQ=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792744-1159303619.jpeg.jpg" data-tags="indie, rock, alternative, 00s" role="button">
+<li data-cover="https://img.discogs.com/tCoMwW5jRW7yYNukR-EeMsRBcSo=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8261618-1458171027-3477.jpeg.jpg" data-tags="indie, rock, alternative, 00s" role="button">
 Sparklehorse - Dreamt For Light Years In The Belly Of A Mountain (2006-09-25)
 </li>
 <li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/8iYEQcyrAHvZjq1FcLRGn2y7urc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1575143-1249316875.jpeg.jpg" data-tags="dream pop" role="button">
 Beach House - Devotion (2007-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
@@ -144,7 +141,7 @@ J. Tillman - Cancer And Delirium (2008)
 <li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
 Fleet Foxes - Sun Giant (2008-03-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="garage rock" role="button">
+<li data-cover="https://img.discogs.com/SqSZu0EYpoWkG5ZZ2WxtzUCPi_8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466403-1221855839.jpeg.jpg" data-tags="garage rock" role="button">
 The Kills - Midnight Boom (2008-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/30515491-d256-4d20-b95f-8426fbbc1707/24614980522-500.jpg" data-tags="2008 fave albums, av2008, online ablum collection" role="button">
@@ -168,7 +165,7 @@ Yo La Tengo - Popular Songs (2009-09-04)
 <li data-cover="http://coverartarchive.org/release/456df949-af50-4eaa-9249-dcf608fec488/2362768859-500.jpg" data-tags="indie" role="button">
 Girls - Album (2009-09-22)
 </li>
-<li data-cover="https://img.discogs.com/Qw3SYhMdXJlWcbD7JFJ482NZ37c=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1950031-1254989968.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">
+<li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">
 Kurt Vile - Childish Prodigy (2009-10-05)
 </li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
@@ -177,7 +174,7 @@ Local Natives - Gorilla Manor (2009-11-02)
 <li data-cover="http://coverartarchive.org/release/b088db4d-6aee-4991-b888-b283b77f7ad0/15835480698-500.jpg" data-tags="indie rock, indie" role="button">
 Real Estate - Real Estate (2009-11-17)
 </li>
-<li data-cover="https://img.discogs.com/ulFUBoD_4YY3vUlQ2E8uIkWoKe0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2192948-1369173887-5649.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
+<li data-cover="https://img.discogs.com/4F9Co947WUj1ES6nImbNYK4a2Bw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2297316-1571117250-3558.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
 Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)
 </li>
 <li data-cover="https://img.discogs.com/effQFt9V8WfguC24ZL9B_NLx3bo=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2172968-1267952137.jpeg.jpg" data-tags="indie rock, punk rock" role="button">
@@ -255,7 +252,7 @@ Neon Indian - Era Extraña (2011-09-07)
 <li data-cover="https://img.discogs.com/p27o0tBl1ikRYxRKkIzIEg-P47I=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3104636-1403301392-3402.jpeg.jpg" data-tags="indie rock" role="button">
 Girls - Father, Son, Holy Ghost (2011-09-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9e56dc4-2154-4351-bbb5-da11a4b6db3f/21462298855-500.jpg" data-tags="lo-fi, indie rock" role="button">
@@ -296,6 +293,9 @@ Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/877221c2-a4fe-4c34-b89f-8d43adb31d80/3707477205-500.jpg" data-tags="indie, rock, indie rock, lo-fi, garage rock, psychedelic rock, san francisco, 10s, my collection, 2013 releases, castle face, rel-mnth:2013:april, got this one on vinyl, wfmu heavily played records" role="button">
 Thee Oh Sees - Floating Coffin (2013-04-16)
+</li>
+<li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">
+Washed Out - Paracosm (2013-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)

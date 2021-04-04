@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:30:01.569Z
+date: 2021-04-04T15:36:01.639Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -30,6 +30,9 @@ Miles Davis - Bitches Brew (1970)
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
+<li data-cover="https://img.discogs.com/BFUSEbU-knaLQUvxecAudh5BJFA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527462-1594368732-6937.jpeg.jpg" data-tags="funk" role="button">
+Incredible Bongo Band - Bongo Rock (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/22525db3-d015-4b93-aa02-337f89d425fc/8194680005-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jecks, rainbow, tony carey, mandatory, sacd" role="button">
 Rainbow - Rainbow Rising (1976)
 </li>
@@ -54,20 +57,26 @@ Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
+Incubus - Fungus Amongus (1995-11-01)
+</li>
 <li data-cover="https://img.discogs.com/gEhw9pey67pqM2oLZpQJD51Kf7I=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15824468-1598470865-3517.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age, enigma, ambient" role="button">
-Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
+<li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
+Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/73776da1-4a89-40cc-b679-f5ba786554e3/1394757653-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, 90s, funky, groovy, italian, jecks, italian rock, mycds, drivethruelvis knows this, drivethruelvis at 17, hotel pop, original cds" role="button">
 Afterhours - Non È Per Sempre (1999)
+</li>
+<li data-cover="https://img.discogs.com/70nzGEKuhTlPpAECU5c-tC_k2DQ=/fit-in/555x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8228500-1457541447-7515.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
+311 - Soundsystem (1999-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3647baa2-ca82-4df1-b760-b3486584b8ea/3082033572-500.jpg" data-tags="soul" role="button">
 Bill Withers - The Best Of Bill Withers: Lean On Me (2000-05-30)
@@ -92,6 +101,9 @@ Ms. Dynamite - A Little Deeper (2002-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="space cowboy" role="button">
+Space Cowboy - Across The Sky (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a8e12-f21a-47bd-992a-cd3ad8cf44fb/19991255154-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jecks" role="button">
 Gossip - Movement (2003)
@@ -132,16 +144,13 @@ Better Than Ezra - Before The Robots (2005-04-05)
 <li data-cover="http://coverartarchive.org/release/5768327e-cb12-3468-b383-db13f9591a03/11349737637-500.jpg" data-tags="electronic, experimental, avantgardener, avantgarde" role="button">
 The Books - Lost and Safe (2005-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/e15f6dce-4764-455e-a055-2845c21c3eee/8899000027-500.jpg" data-tags="future jazz, electronic, female vocalists" role="button">
-Róisín Murphy - Ruby Blue (2005-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Jason Mraz - Mr. A-Z (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/27DNyT9_2ip2Y1A-3RMFlA3FzuE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2192248-1269004643.jpeg.jpg" data-tags="soul, funky" role="button">
 Nate James - Set The Tone (2005-08-08)
 </li>
-<li data-cover="https://img.discogs.com/1oirp5OddE7zmQgAN3qtWSzpPXE=/fit-in/589x822/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912052-1172085253.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/7gY087YOdtc2jyjDk6RavVieYMk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1462353-1249391008.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, singer-songwriter" role="button">
 Ian Brown - The Greatest (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
@@ -194,9 +203,6 @@ Sam Sparro - Sam Sparro (2008-04-27)
 </li>
 <li data-cover="https://img.discogs.com/1yUYXbMd-1P7YRiS710HOsetOTw=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2159048-1267195191.jpeg.jpg" data-tags="nu jazz, chillout, electropop, indie, jazz, pop, chill, rock, instrumental, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, downtempo, dub, singer-songwriter, acoustic, fusion, world, post-punk, soft rock, funk, jazz-funk, blues, house, indietronica, lounge, drum and bass, dream pop, american, funky, mellow, nu-jazz, smooth, folktronica, rnb, groovy, female vocalist, rhythm and blues, greys anatomy, neo soul, neo-soul, jazzy hip hop, nu-bluz, nu-bluz funky grooves in the e-lounge, electronic-folk, bay area best, groovelife advocate" role="button">
 Anya Marina - Slow & Steady Seduction: Phase II (2008-11-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-Lee Fields & The Expressions - My World (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/a72f2070-169d-438e-9ed8-2e7bf800c271/15635587996-500.jpg" data-tags="pop, soul, funky, check it" role="button">
 General Elektriks - Good City for Dreamers (2009-02-23)
@@ -255,7 +261,7 @@ Duck Sauce - Barbra Streisand (2010-09-13)
 <li data-cover="https://img.discogs.com/QPBKF9KfoAp57G5s8VskAz9eFT8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475210-1286108215.jpeg.jpg" data-tags="electronic, funk" role="button">
 Chromeo - Business Casual (2010-09-14)
 </li>
-<li data-cover="https://img.discogs.com/nirjoWfz4KbosdItc1grFg8cnc8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3098999-1504632132-4849.jpeg.jpg" data-tags="pop, maroon 5" role="button">
+<li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)
 </li>
 <li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
@@ -267,13 +273,10 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">
 Awolnation - Megalithic Symphony (2011-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
-Katy B - On a Mission (2011-04-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/8164140b-6d5f-3a69-a19a-6785446191e9/852058673-500.jpg" data-tags="soul" role="button">
 Jamie Woon - Mirrorwriting (2011-04-14)
 </li>
-<li data-cover="https://img.discogs.com/p3MtnxoTX8jrTBMlTjFg8lOa7yg=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3004645-1311324932.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="https://img.discogs.com/3JJlYvSB0I_2zpEMhqc3yQF61k8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2960146-1497979777-4865.jpeg.jpg" data-tags="hip-hop, experimental hip-hop" role="button">
@@ -311,9 +314,6 @@ Ibrahim Maalouf - Illusions (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">
 Broken Bells - After the Disco (2014-01-30)
-</li>
-<li data-cover="https://img.discogs.com/5ML1CJp8Z_MMp6UUplVzZhjLyh8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594036-1136136960.jpeg.jpg" data-tags="pop" role="button">
-Kylie Minogue - Kiss Me Once (2014-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
 Todd Terje - It's Album Time (2014-04-07)

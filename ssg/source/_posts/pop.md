@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:05:07.001Z
+date: 2021-04-04T15:38:01.420Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, 80s, michael jackson" role="button">
+<li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
 </li>
 <li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
@@ -50,9 +50,6 @@ Destiny's Child - Survivor (2001-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">
-Shakira - Laundry Service (2001-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
 Coldplay - A Rush of Blood to the Head (2002-08-12)
@@ -132,6 +129,9 @@ Feist - The Reminder (2007-04-23)
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg" data-tags="pop, rihanna, rnb" role="button">
+Rihanna - Good Girl Gone Bad (2007-05-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/1de12505-ac7b-49ab-a0ab-2aa189f0bf99/14541670596-500.jpg" data-tags="pop" role="button">
 Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
 </li>
@@ -158,9 +158,6 @@ Madonna - Hard Candy (2008-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
-Coldplay - Viva la Vida (2008-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
 Katy Perry - One of the Boys (2008-06-17)
@@ -290,6 +287,9 @@ Rihanna - Talk That Talk (2011-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="2012" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
+Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">
 Flo Rida - Wild Ones (2012-06-22)

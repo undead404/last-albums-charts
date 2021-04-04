@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:06:01.244Z
+date: 2021-04-04T15:41:01.252Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -9,7 +9,7 @@ title: "funk metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">Faith No More - Angel Dust (1992-06-08)</li>
 <li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">Korn - Korn (1994-10-11)</li>
-<li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">Red Hot Chili Peppers - One Hot Minute (1995-09-08)</li>
+<li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">Red Hot Chili Peppers - One Hot Minute (1995-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">Incubus - Fungus Amongus (1995-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">Incubus - S.C.I.E.N.C.E. (1997-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">Rage Against the Machine - The Battle of Los Angeles (1999-09)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">
+<li data-cover="https://img.discogs.com/P-IsgOwwUvBnHxQdrSfEQ9aY3mg=/fit-in/600x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12082107-1527936657-8458.jpeg.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f6282a9-6b8f-4215-b61f-358ba8ebb9d0/2824608720-500.jpg" data-tags="alternative metal, post-punk, funk metal" role="button">
@@ -51,13 +51,13 @@ Extreme - Extreme (1989-05-21)
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">
 Faith No More - The Real Thing (1989-06-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk metal, alternative metal, primus" role="button">
+<li data-cover="https://img.discogs.com/fME9WDprVWO872Nj6MWYSu-qglM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-975806-1424371718-1856.jpeg.jpg" data-tags="funk metal, alternative metal, primus" role="button">
 Primus - Suck On This (1989-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec9814ab-85f9-41a8-80b5-0cdbbee19ec2/5343910937-500.jpg" data-tags="reggae, funk metal, bad brains, hardcore punk, youth, amsterdam, 1980s, 1990s, netherlands, live album, live recording, us-american, sst records, paradiso, heavy metal music, agitation, the youth are getting restless, k1r7m" role="button">
 Bad Brains - The Youth Are Getting Restless (1990-05-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk metal" role="button">
+<li data-cover="https://img.discogs.com/YqqCs70buzegtoFW7myFLVnsQ8U=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000806-1508266484-8892.jpeg.jpg" data-tags="funk metal" role="button">
 Primus - Frizzle Fry (1990-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
@@ -78,7 +78,7 @@ Mr. Bungle - Mr. Bungle (1991-08-13)
 <li data-cover="http://coverartarchive.org/release/7e2c82ba-9ba4-4827-9a22-bcd7844f1a0b/7919566324-500.jpg" data-tags="hard rock, funk metal, wants, dr b tags" role="button">
 Ugly Kid Joe - As Ugly As They Wanna Be (1991-10-15)
 </li>
-<li data-cover="https://img.discogs.com/iC-Ikn0O8FhHOvItwMp3QkvAzvo=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1609168-1285912826.jpeg.jpg" data-tags="primus, cover" role="button">
+<li data-cover="https://img.discogs.com/3nNxy1l1TqsMwYj2Xh-ESidYL4w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-473273-1428439620-5239.jpeg.jpg" data-tags="primus, cover" role="button">
 Primus - Miscellaneous Debris (1992-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
@@ -90,7 +90,7 @@ Rage Against the Machine - Rage Against the Machine (1992-06-11)
 <li data-cover="http://coverartarchive.org/release/a02e8730-2374-330a-8e10-f5097b644982/9458120372-500.jpg" data-tags="hard rock, funk rock" role="button">
 Extreme - III Sides To Every Story (1992-08-20)
 </li>
-<li data-cover="https://img.discogs.com/IKeEBc_KxpKHr6G3dsKx1_N6oaQ=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184039-1151888123.jpeg.jpg" data-tags="funk, metal" role="button">
+<li data-cover="https://img.discogs.com/WQZj-xfAaLTCC-eMXu8IxwYAaz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373112-1261422063.jpeg.jpg" data-tags="funk, metal" role="button">
 Praxis - Transmutation (Mutatis Mutandis) (1992-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
@@ -105,11 +105,14 @@ Living Colour - Stain (1993-02-22)
 <li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
 Primus - Pork Soda (1993-04-16)
 </li>
-<li data-cover="https://img.discogs.com/ozkN9SgHytfQqZU7BjIcakdShuU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4045040-1353401831-2363.jpeg.jpg" data-tags="funk metal" role="button">
+<li data-cover="https://img.discogs.com/pD3EZoOo0zMmGwpDhPRcXnbtJKI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-851367-1226056512.jpeg.jpg" data-tags="funk metal" role="button">
 Sausage - Riddles Are Abound Tonight (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
 P.O.D. - Snuff the Punk (1994-01-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
+311 - Grassroots (1994-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
@@ -126,7 +129,7 @@ Living Colour - Pride (1995)
 <li data-cover="http://coverartarchive.org/release/bdc38381-8c0e-4e56-b42b-fb49f4e37803/8311816749-500.jpg" data-tags="hard rock, funk metal, alternative metal, industrial metal, rapcore, nu-metal" role="button">
 Powerman 5000 - The Blood Splat Rating System (1995)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="funk rock, rock" role="button">
+<li data-cover="https://img.discogs.com/olpaLCmR4tAYWJNW5zerpVyKDSA=/fit-in/467x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3526888-1378902025-7178.jpeg.jpg" data-tags="funk rock, rock" role="button">
 Extreme - Waiting For The Punchline (1995-01-25)
 </li>
 <li data-cover="https://img.discogs.com/ucvUD-sDbK35og8mqC6aTXQ9SEc=/fit-in/420x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12878829-1543701567-1987.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
@@ -138,7 +141,7 @@ Ben Harper - Fight For Your Mind (1995-07)
 <li data-cover="http://coverartarchive.org/release/0ed5e9a0-8b60-45e3-aba6-2166bcc32e4c/8479500461-500.jpg" data-tags="alternative rock" role="button">
 Bloodhound Gang - Use Your Fingers (1995-07-28)
 </li>
-<li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
@@ -165,7 +168,7 @@ Slipknot - Mate. Feed. Kill. Repeat. (1996-10-31)
 <li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
 Snot - Get Some (1997)
 </li>
-<li data-cover="https://img.discogs.com/5O5BuMP3o7ymYYOj8A29kTl6IV0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3006004-1331835359.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
+<li data-cover="https://img.discogs.com/uTfnXClz16qG-TOpySujzCWkPY0=/fit-in/600x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11660734-1520198381-9486.png.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
 Incubus - Enjoy Incubus (1997-01-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
@@ -174,7 +177,7 @@ Faith No More - Album of the Year (1997-06-03)
 <li data-cover="http://coverartarchive.org/release/7aa940e5-6128-4ed1-9d89-86458a1b5ec6/8008267577-500.jpg" data-tags="punk, alternative metal" role="button">
 Sugar Ray - Floored (1997-06-24)
 </li>
-<li data-cover="https://img.discogs.com/i9p8PXEl63ewZpVnbhhaT5UEHq8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10823300-1508266393-9583.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
+<li data-cover="https://img.discogs.com/xNKw6drUH9yXDBMPpgfoC5wSydE=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710701-1341304554-5854.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
 Primus - Brown Album (1997-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6988fe8-843c-4800-b569-827885402c23/26961870135-500.jpg" data-tags="alternative rock, rap metal, rap rock" role="button">
@@ -261,7 +264,7 @@ Hot Action Cop - Hot Action Cop (2003-09-15)
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="https://img.discogs.com/i9p8PXEl63ewZpVnbhhaT5UEHq8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10823300-1508266393-9583.jpeg.jpg" data-tags="funk metal" role="button">
+<li data-cover="https://img.discogs.com/w8RV5w0KOWJ-jnk33h54PwvCHs8=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5811167-1403333245-2949.jpeg.jpg" data-tags="funk metal" role="button">
 Primus - Animals Should Not Try To Act Like People (2003-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/37ecd876-bccf-383d-8e78-b0f2cc13c964/19386733501-500.jpg" data-tags="stoner rock" role="button">
@@ -302,9 +305,6 @@ Deep Purple - Live In Stuttgart 1993 (2007-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/886c3b42-b902-42b2-a413-5f6c4cd902d3/5083823028-500.jpg" data-tags="avant-garde, progressive metal" role="button">
 Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c18246b-f3d1-45ae-b844-8b0c833f224a/17634236874-500.jpg" data-tags="experimental" role="button">
-Les Claypool - Of Fungi And Foe (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/92b9a826-e376-4ca7-99f4-6b91fb5fc741/8147662070-500.jpg" data-tags="rock, alternative rock, nice album art" role="button">
 Bloodhound Gang - Show Us Your Hits (2010-12-03)

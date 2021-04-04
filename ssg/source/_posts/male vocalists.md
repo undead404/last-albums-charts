@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:29:01.253Z
+date: 2021-04-04T14:52:01.272Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -33,11 +33,8 @@ Del Amitri - Twisted (1995-02-28)
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
-<li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
+<li data-cover="https://img.discogs.com/XUNaq78ggP0O4AcP8aVleP5g95w=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6627909-1423405986-8538.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
-</li>
-<li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
-Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="male vocalists, new jack swing, faves, rap and hip hop, blackstreet, new songs" role="button">
 Blackstreet - Girlfriend/Boyfriend (1999-04-05)
@@ -45,7 +42,7 @@ Blackstreet - Girlfriend/Boyfriend (1999-04-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
-<li data-cover="https://img.discogs.com/U0H1pO_Cfv1P8Aj9KaaaRSlK5fo=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11579720-1518865789-9597.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
+<li data-cover="https://img.discogs.com/JA12kplIqnlLiMxkTaPUSwLgaTY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8638808-1465677790-9122.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
@@ -57,6 +54,9 @@ Rob Dougan - Furious Angels (2001)
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/5c2e6103-520e-4459-b2d3-d74e86b608ae/17932879162-500.jpg" data-tags="indie, folk" role="button">
+Alexi Murdoch - Four Songs (2002-11-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
@@ -66,7 +66,7 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
@@ -81,7 +81,7 @@ McFly - Room on the 3rd Floor (2004-07-05)
 <li data-cover="http://coverartarchive.org/release/aac73402-efd7-440b-be44-43183aa48f0d/28019403744-500.jpg" data-tags="pop" role="button">
 Brian McFadden - Irish Son (2004-11-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
@@ -96,14 +96,11 @@ Daniel Powter - dp (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
 </li>
-<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
 Cartel - Chroma (2005-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
-Robbie Williams - Intensive Care (2005-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ec29d87-ad4b-48ab-98b5-13ff6cffdc5c/10717310269-500.jpg" data-tags="country, male vocalists, country music" role="button">
 Jace Everett - Jace Everett (2005-11-22)
@@ -216,7 +213,7 @@ Mike Posner - 31 Minutes to Takeoff (2010-08-10)
 <li data-cover="http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg" data-tags="indie, male vocalists" role="button">
 Brandon Flowers - Flamingo (2010-09-03)
 </li>
-<li data-cover="https://img.discogs.com/nirjoWfz4KbosdItc1grFg8cnc8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3098999-1504632132-4849.jpeg.jpg" data-tags="pop, maroon 5" role="button">
+<li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)
 </li>
 <li data-cover="https://img.discogs.com/HFo33p7UCC8e_4q_vT767itQUew=/fit-in/558x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2464141-1285509013.jpeg.jpg" data-tags="pop" role="button">
@@ -273,7 +270,7 @@ Allah-Las - Allah-Las (2012-09-18)
 <li data-cover="http://coverartarchive.org/release/b88cc724-d67c-47a1-bf7c-720e992c6b92/9371359026-500.jpg" data-tags="2012" role="button">
 Olly Murs - Right Place Right Time (2012-11-26)
 </li>
-<li data-cover="https://img.discogs.com/U4LEEY3h2OyFyUuqg3AEwXgfbQA=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13752933-1582227292-3737.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
+<li data-cover="https://img.discogs.com/cz4EWTrah9eujJlY5c2SzT215uA=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238269-1326425279.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
 Depeche Mode - Heaven (2013-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/57ede38a-7c87-468e-a33b-2fab6552a23c/21131305528-500.jpg" data-tags="indie, rock, alternative, alternative rock, male vocalists, stylus records, private:watchlist, czalbums, via:rdio, boughtlist2013" role="button">
@@ -320,5 +317,8 @@ Troye Sivan - Happy Little Pill (2014-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8fe33d4-31a6-4394-941c-45fac8834322/8544237713-500.jpg" data-tags="pop, pop rock" role="button">
 Maroon 5 - V (2014-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
+Father John Misty - I Love You, Honeybear (2015-02-09)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:31:07.050Z
+date: 2021-04-04T14:57:01.254Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -147,7 +147,7 @@ dredg - Leitmotif (1999-05-30)
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Still Life (1999-10-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/4Djmacr_gYJXbp9DIg8TdOQnFww=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3399277-1566270410-5717.jpeg.jpg" data-tags="indie rock" role="button">
 Grandaddy - The Sophtware Slump (2000-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e973d272-3f35-4b02-82e3-aa43f83031b2/19933342206-500.jpg" data-tags="indie rock" role="button">
@@ -192,7 +192,7 @@ Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 <li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
 King Geedorah - Take Me to Your Leader (2003-06-16)
 </li>
-<li data-cover="https://img.discogs.com/bBIQgR93PvsmBA1M-MKwGaSZIbU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10093870-1491496361-5615.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
+<li data-cover="https://img.discogs.com/ySx6hrOs07HvPwKTXdBRkBDb1l0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8617209-1465229526-9464.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
 Neil Young & Crazy Horse - Greendale (2003-08-18)
 </li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
@@ -219,7 +219,7 @@ Pain of Salvation - Be (2004-09-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
 </li>
-<li data-cover="https://img.discogs.com/QwK-r1ldXQjtGj0UzIhY8bE2B1E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10881431-1505865280-5394.jpeg.jpg" data-tags="power metal" role="button">
+<li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">
 Kamelot - The Black Halo (2005-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
@@ -276,9 +276,6 @@ Pain of Salvation - Scarsick (2007-01-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/2bb1997c-dcb4-4626-97ab-2233b4fb50c8/14774161222-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
-Funeral for a Friend - Tales Don't Tell Themselves (2007-05-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/80acdf88-f600-4ab6-9775-7e1a724b87f7/15388294239-500.jpg" data-tags="progressive rock" role="button">
 The Dear Hunter - Act II: The Meaning Of, And All Things Regarding Ms. Leading (2007-05-22)
 </li>
@@ -320,5 +317,8 @@ Danny Brown - Old (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ed2766c1-da1c-4ede-9869-e7ccbf86f7eb/9171345844-500.jpg" data-tags="indie rock, folk rock, blues rock, concept album, dez mona" role="button">
 Asaf Avidan - Gold Shadow (2015-01-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
+Father John Misty - I Love You, Honeybear (2015-02-09)
 </li>
 </ol>

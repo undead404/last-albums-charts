@@ -1,13 +1,13 @@
 ---
-date: 2021-04-04T13:22:01.335Z
+date: 2021-04-04T15:21:01.247Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/fNpgPshETlRAfuku7ehyfn2Qy4g=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16242330-1605865595-9864.jpeg.jpg" data-tags="rock, 60s" role="button">The Beatles - Yellow Submarine (1969-01-13)</li>
 <li data-cover="http://coverartarchive.org/release/41bb7cd9-f05f-4df3-a360-5ee2bd931325/12259794502-500.jpg" data-tags="soundtrack, 80s, unique, 1980s, film soundtrack, movie music, akrazia, princeprinceprince" role="button">Prince - Parade - Music From The Motion Picture Under The Cherry Moon (1986-03-31)</li>
+<li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">Philip Glass - Koyaanisqatsi (1998-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">Air - The Virgin Suicides (2000-02-25)</li>
-<li data-cover="https://img.discogs.com/50a-nOvBKEe9yer_0nYqGGaKUzg=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440243-1290069016.jpeg.jpg" data-tags="soundtrack" role="button">Björk - Selmasongs (2000-08-30)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
 <li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">Counting Crows - Accidentally In Love (2004-01-01)</li>
@@ -48,6 +48,9 @@ Basil Poledouris - Conan the Barbarian (1982)
 <li data-cover="http://coverartarchive.org/release/8aea6e91-424a-48de-8f72-83d8d6716fff/6868315355-500.jpg" data-tags="soundtrack, ghostbusters, pop" role="button">
 Ray Parker Jr. - Ghostbusters (1984)
 </li>
+<li data-cover="http://coverartarchive.org/release/17b6081f-cc8e-4dbd-b8da-ff89b6957e1a/13144429451-500.jpg" data-tags="celtic" role="button">
+Clannad - Legend (1984)
+</li>
 <li data-cover="https://img.discogs.com/xRNfBWi-1l71ZyJH-7Ivu7kf8FE=/fit-in/500x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2193288-1319384633.jpeg.jpg" data-tags="80s, pop" role="button">
 Prince & The Revolution - Purple Rain (1984-06-25)
 </li>
@@ -69,8 +72,8 @@ Madonna - I'm Breathless (1990-05-12)
 <li data-cover="https://img.discogs.com/CC3T-htBU79wZAPVB6KNbpfM2QQ=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2304067-1275601230.jpeg.jpg" data-tags="rock, soundtrack, 90s" role="button">
 Jon Bon Jovi - Blaze Of Glory (1990-08-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/ffa25aa5-3234-379e-ad6a-2d80a975e4ec/7792898582-500.jpg" data-tags="soundtrack, jazz, dark jazz" role="button">
-Angelo Badalamenti - Twin Peaks: Fire Walk with Me (1992-08-10)
+<li data-cover="http://coverartarchive.org/release/7550197e-2b87-370b-86c1-c6ef0d29ac85/11507691329-500.jpg" data-tags="soundtrack" role="button">
+Vangelis - 1492: Conquest of Paradise (1992-09-28)
 </li>
 <li data-cover="https://img.discogs.com/gTEDGoLxqfHTLNA3XVRTvvNkJOk=/fit-in/587x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596473-1369480484-5443.jpeg.jpg" data-tags="soundtrack" role="button">
 John Williams - Jurassic Park (1993-05-25)
@@ -87,9 +90,6 @@ Neil Young - Dead Man (1996-01-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
 坂本龍一 - 1996 (1996-05-17)
 </li>
-<li data-cover="https://img.discogs.com/FG3v40UkxmO-03samlAuBDQWBjg=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7717797-1447360971-3747.jpeg.jpg" data-tags="80s" role="button">
-Kenny Loggins - Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins (1997-03-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/01e97e43-dc06-4e7e-8541-976064584683/9301874559-500.jpg" data-tags="soundtrack, disney" role="button">
 Various Artists - The Lion King (1997-11-14)
 </li>
@@ -104,6 +104,9 @@ Aerosmith - Armageddon (1998-07-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack" role="button">
 Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
+Philip Glass - Koyaanisqatsi (1998-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2b99ec3-2761-4874-bd22-8890ef358119/3128751725-500.jpg" data-tags="soundtrack, post-hardcore" role="button">
 Fugazi - Instrument Soundtrack (1999-03-23)
@@ -210,6 +213,9 @@ Jonny Greenwood - There Will Be Blood (2007-12-17)
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/c76df01a-608b-4c4e-bc83-72c9adce1cf6/7275760181-500.jpg" data-tags="soundtrack" role="button">
+James Newton Howard - I Am Legend (2008-01-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
 </li>
@@ -218,6 +224,9 @@ The Black Ghosts - The Black Ghosts (2008-06-16)
 </li>
 <li data-cover="https://img.discogs.com/EO4tmF4L3bRSVSeSkTD5aNzF3Ak=/fit-in/506x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486045-1309206695.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/e376f404-5229-4774-b2b3-1aeed5aa6f7a/17796794761-500.jpg" data-tags="indie rock" role="button">
+The Airborne Toxic Event - The Airborne Toxic Event (2008-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Nightmare Revisited (2008-09-30)
@@ -240,12 +249,6 @@ Karen O and the Kids - Where The Wild Things Are (2009-09-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
 Glee Cast - Glee: The Music, Volume 1 (2009-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/b4d38da8-51db-370e-ae67-fd7c0f2dcd41/2139230405-500.jpg" data-tags="soundtrack" role="button">
-James Horner - Avatar (2009-12-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/74c47a96-9c8d-43cf-9f1d-601eede12611/8085316286-500.jpg" data-tags="soundtrack" role="button">
-Danny Elfman - Alice in Wonderland (2010-03-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c036feb-0a13-3cc9-9897-e4e125c63922/7360744850-500.jpg" data-tags="soundtrack" role="button">
 John Powell - How to Train Your Dragon (2010-03-23)
 </li>
@@ -267,6 +270,9 @@ Daft Punk - TRON: Legacy (2010-12-06)
 <li data-cover="http://coverartarchive.org/release/5e396e48-5bc1-4d28-ab34-ee77dc534fed/22120675980-500.jpg" data-tags="ambient" role="button">
 C418 - Minecraft - Volume Alpha (2011-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/87900fee-78c0-3d3b-951c-016fff9c93de/1111445815-500.jpg" data-tags="glee" role="button">
+Glee Cast - Glee: The Music Presents The Warblers (2011-04-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/8edf7d27-a94d-425a-9ce7-9b497b61e8e7/1210446198-500.jpg" data-tags="western" role="button">
 Danger Mouse & Daniele Luppi - Rome (2011-05-11)
 </li>
@@ -275,9 +281,6 @@ Henry Jackman - X-Men: First Class (2011-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/09b18d6a-da34-4671-b1a7-3ea4f8fe571d/3251479274-500.jpg" data-tags="soundtrack" role="button">
 Ramin Djawadi - Game of Thrones (2011-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/4825cfda-91f1-45eb-bade-064f60ffafb7/7168615000-500.jpg" data-tags="soundtrack, inspirational" role="button">
-Thomas Bergersen - Illusions (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
 Darren Korb - Bastion Original Soundtrack (2011-08-05)
@@ -317,8 +320,5 @@ Darren Korb - Transistor Original Soundtrack (2014-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/23b00a21-b663-4647-ab49-68f694d40776/8324756218-500.jpg" data-tags="soundtrack, pop, ballad, movie, adam levine" role="button">
 Adam Levine - Lost Stars (2014-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/ed809e0c-09cc-41bd-a4bc-9f78067fc450/8595143371-500.jpg" data-tags="soundtrack, instrumental, epic" role="button">
-Thomas Bergersen - Sun (2014-09-30)
 </li>
 </ol>

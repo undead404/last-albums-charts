@@ -1,12 +1,12 @@
 ---
-date: 2021-04-04T11:13:01.289Z
+date: 2021-04-04T15:27:01.259Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg" data-tags="drum and bass" role="button">Pendulum - In Silico (2008-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">Ratatat - LP3 (2008-07-07)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
+<li data-cover="https://img.discogs.com/Gkg0AEjfHhMQWW6H1vqt0WvFH8k=/fit-in/600x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315642-1209030156.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
@@ -69,7 +69,7 @@ Paradise Lost - Host (1999-04-28)
 <li data-cover="http://coverartarchive.org/release/33f0bb8d-c07f-406e-9146-a786f258e569/8345837686-500.jpg" data-tags="electronic, rock, alternative rock, soft rock, electronic rock" role="button">
 Nosowska - Sushi (2000-05-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, soft, electronic rock" role="button">
+<li data-cover="https://img.discogs.com/H7d9Z1IAa4sSAKiUTri6zDYdiC0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-375064-1557511438-7181.jpeg.jpg" data-tags="rock, soft, electronic rock" role="button">
 Teddybears STHLM - Rock 'n' Roll Highschool (2000-06-07)
 </li>
 <li data-cover="https://img.discogs.com/uFSSM5NNiwabWvmXZimpTwyjLkg=/fit-in/488x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-80637-1363860266-6734.jpeg.jpg" data-tags="electronic, electronic rock" role="button">
@@ -186,7 +186,7 @@ Linkin Park - The Catalyst (2010-08-02)
 <li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
 Klaxons - Surfing the Void (2010-08-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, electronic, rock" role="button">
+<li data-cover="https://img.discogs.com/Gkg0AEjfHhMQWW6H1vqt0WvFH8k=/fit-in/600x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315642-1209030156.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
 <li data-cover="https://img.discogs.com/Iugg7vm8-5jEl5QKHr6tDtvYxpI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494901-1399047156-6163.jpeg.jpg" data-tags="4 me, aggro synthpop" role="button">
@@ -264,9 +264,6 @@ Serj Tankian - Harakiri (2012-07-02)
 <li data-cover="http://coverartarchive.org/release/e9abd378-bb2c-4c66-af8a-ffef8e9d0a59/1924752901-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Beacon (2012-08-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
@@ -320,5 +317,8 @@ The Birthday Massacre - Superstition (2014-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b8dca06-99d1-48e1-b18c-7375f1b11bae/12157816350-500.jpg" data-tags="alternative, alternative rock, electronic rock" role="button">
 Angels & Airwaves - The Dream Walker (2014-12-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/2fe0a7ce-6876-44a6-b966-6f5fe466473b/9837934274-500.jpg" data-tags="alternative rock, hard rock, rock, blues rock" role="button">
+Marilyn Manson - The Pale Emperor (2015-01-16)
 </li>
 </ol>
