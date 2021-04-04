@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:50:01.252Z
+date: 2021-04-04T12:44:01.271Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Ultraviolence (2014-06-13)](http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg "Lana Del Rey - Ultraviolence (2014-06-13)")
@@ -99,9 +99,6 @@ The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, 1969, psychedelic" role="button">
-Quicksilver Messenger Service - Happy Trails (1969-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">
 The Velvet Underground - The Velvet Underground (1969-03)
 </li>
@@ -165,7 +162,7 @@ Pink Floyd - The Division Bell (1994-03-28)
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
-<li data-cover="https://img.discogs.com/loWhromO3IBMqsKdHrQB3Lx1auw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137981-1432430270-4442.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 </li>
 <li data-cover="https://img.discogs.com/tz4d5Vb1kdA8_o1J_023wIxo1lk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4984292-1381345637-3685.jpeg.jpg" data-tags="britpop" role="button">
@@ -246,7 +243,7 @@ Tame Impala - Innerspeaker (2010-05-21)
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Opus Eponymous (2010-10-18)
 </li>
-<li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/7NlxrsULvOY21UT1Bkz9r4c4ubc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2514342-1405535781-5094.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
@@ -273,6 +270,9 @@ Spiritualized - Sweet Heart Sweet Light (2012-04-16)
 <li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
 Om - Advaitic Songs (2012-07-24)
 </li>
+<li data-cover="https://img.discogs.com/LL8qc8Pj7OGoU4tCFKyGEPegwCo=/fit-in/300x270/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3747670-1342734819-9364.jpeg.jpg" data-tags="psychedelic rock, psychedelic, sweden, afro-beat" role="button">
+Goat - World Music (2012-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="2012" role="button">
 Tame Impala - Lonerism (2012-10-05)
 </li>
@@ -288,7 +288,7 @@ Thee Oh Sees - Floating Coffin (2013-04-16)
 <li data-cover="http://coverartarchive.org/release/caae6490-8ba4-4b39-8ad9-8913cfd662ba/4281390549-500.jpg" data-tags="experimental, indie rock, 2010s, incredible, the good shit" role="button">
 Portugal. The Man - Evil Friends (2013-05-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="neo-psychedelia, psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/xqle5qq7-W1STD03A53IKVevd8w=/fit-in/500x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8594395-1464727281-3643.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
 MGMT - MGMT (2013-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2be2a198-cb9a-4f00-848f-bcfaebb034e3/5355867457-500.jpg" data-tags="garage rock, psychedelic rock" role="button">
@@ -306,7 +306,7 @@ Temples - Sun Structures (2014-02-10)
 <li data-cover="http://coverartarchive.org/release/adf038cd-b349-48fe-b451-e110cda9c3f4/6705401704-500.jpg" data-tags="psychedelic rock" role="button">
 King Gizzard & The Lizard Wizard - Oddments (2014-03-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock, vinyl" role="button">
+<li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">

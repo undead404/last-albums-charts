@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:54:01.259Z
+date: 2021-04-04T12:30:01.892Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -39,7 +39,7 @@ Dire Straits - Dire Straits (1978-06-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, uk, pop rock, england, art rock, manchester, reggae rock, mercury records, north west, property, good times records 98" role="button">
 10cc - Bloody Tourists (1978-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, vinyl, 00s, laptop, disco pop" role="button">
+<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/553849ea-0c72-3239-af7a-f59a8e048f0b/2589359162-500.jpg" data-tags="80s" role="button">
@@ -66,9 +66,6 @@ Portishead - Dummy (1994-08-22)
 <li data-cover="http://coverartarchive.org/release/13c58395-5df0-4db3-8513-5c2d87bfbd7c/10359692033-500.jpg" data-tags="alternative rock, rock, radiohead" role="button">
 Radiohead - My Iron Lung (1994-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop, downtempo, chillout" role="button">
-Morcheeba - Who Can You Trust? (1996-04-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
 </li>
@@ -92,9 +89,6 @@ The Chemical Brothers - Dig Your Own Hole (1997-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/127b9b29-4252-463b-9d9a-30b888c19867/9417557840-500.jpg" data-tags="electronic, synthpop, 90s" role="button">
 Depeche Mode - Ultra (1997-04-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, trip-hop" role="button">
-Faithless - Reverence (1997-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcbc7ed8-6b81-31d3-85d5-7cca535210dd/17694457523-500.jpg" data-tags="britpop" role="button">
 Travis - The Man Who (1999-05-24)
@@ -131,6 +125,9 @@ The Streets - Original Pirate Material (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb4d834e-c21a-4288-bbee-d9b86c6c3f8b/3772697596-500.jpg" data-tags="downtempo, jazz" role="button">
 The Cinematic Orchestra - Every Day (2002-04-27)
+</li>
+<li data-cover="https://img.discogs.com/TieMjwKaIRqHgCPyaPA7tZtijss=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2505757-1287712074.jpeg.jpg" data-tags="rock" role="button">
+The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
@@ -173,6 +170,9 @@ Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
+Oasis - Stop the Clocks (2006-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
@@ -234,7 +234,7 @@ Wild Beasts - Two Dancers (2009-08-03)
 <li data-cover="https://img.discogs.com/xztDY2vVnT5UAi-rcmqXh7gZpAQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906637-1354623808-6956.jpeg.jpg" data-tags="british, alternative rock, uk, very british, memorial, britannique, self-released, not on my computer anymore" role="button">
 Radiohead - Harry Patch (In Memory Of) (2009-08-05)
 </li>
-<li data-cover="https://img.discogs.com/mTi9bBoVjAX4TqxdxLH3EhLLqu8=/fit-in/595x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1996333-1257597527.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
+<li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d69e9013-4413-4051-92c8-1741b4534259/8127539569-500.jpg" data-tags="jazz" role="button">
@@ -285,10 +285,10 @@ Peace - EP Delicious (2012-09-10)
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
 </li>
-<li data-cover="https://img.discogs.com/j6xQvRhqy6_5Kbhfg4xSKsROl8U=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7217189-1459621593-4852.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
+<li data-cover="https://img.discogs.com/19gVmYS-jPeW1-fBtymMvrLh0aU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8364328-1461426128-5075.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
 FKA twigs - EP1 (2012-12-04)
 </li>
-<li data-cover="https://img.discogs.com/U4LEEY3h2OyFyUuqg3AEwXgfbQA=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13752933-1582227292-3737.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
+<li data-cover="https://img.discogs.com/cz4EWTrah9eujJlY5c2SzT215uA=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238269-1326425279.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
 Depeche Mode - Heaven (2013-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">

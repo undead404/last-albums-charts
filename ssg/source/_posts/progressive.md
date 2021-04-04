@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:55:02.253Z
+date: 2021-04-04T12:42:01.251Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -39,6 +39,9 @@ Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
+<li data-cover="https://img.discogs.com/Hb-VNYpZT5ZGgTAej-IrH4be7pM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2254121-1468077892-9269.jpeg.jpg" data-tags="progressive rock" role="button">
+The Alan Parsons Project - Eye In The Sky (1982-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Genesis - Genesis (1983-10-03)
 </li>
@@ -72,7 +75,7 @@ Ben Harper - Fight For Your Mind (1995-07)
 <li data-cover="https://img.discogs.com/ssTddN9Dv7id16YvJKp3py6Hh64=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484202-1177170908.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Morningrise (1996-06-24)
 </li>
-<li data-cover="https://img.discogs.com/i9p8PXEl63ewZpVnbhhaT5UEHq8=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10823300-1508266393-9583.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
+<li data-cover="https://img.discogs.com/xNKw6drUH9yXDBMPpgfoC5wSydE=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710701-1341304554-5854.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
 Primus - Brown Album (1997-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3821edb-ec09-443d-907f-0e88bc360f2d/9056068775-500.jpg" data-tags="britpop, progressive" role="button">
@@ -174,6 +177,9 @@ Dream Theater - Octavarium (2005-06-06)
 <li data-cover="http://coverartarchive.org/release/b0c39138-47b2-41ec-82f8-636a66916317/4766487756-500.jpg" data-tags="progressive rock, alternative rock" role="button">
 dredg - Catch Without Arms (2005-06-21)
 </li>
+<li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
+Karnivool - Themata (2005-07-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Ghost Reveries (2005-08-26)
 </li>
@@ -228,8 +234,8 @@ Oceansize - Frames (2007-09-28)
 <li data-cover="http://coverartarchive.org/release/5d46a82b-b704-4536-a060-9070125526c9/15848831964-500.jpg" data-tags="progressive" role="button">
 House vs. Hurricane - Forfeiture (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6d3c715-5567-3e6e-9fb9-6127cf62e6f6/27559170292-500.jpg" data-tags="experimental" role="button">
-Foxy Shazam - INTRODUCING (2008-01-22)
+<li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
+Poets of the Fall - Revolution Roulette (2008-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">
 Opeth - Watershed (2008-05-28)
@@ -279,9 +285,6 @@ The Fall of Troy - In the Unlikely Event (2009-10-06)
 <li data-cover="https://img.discogs.com/ZC5xycarwTNqaLzU01OPjVpwX7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15902545-1599892724-9591.jpeg.jpg" data-tags="electro-techno" role="button">
 Nicolas Jaar - Time for Us EP (2010-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">
-Angels & Airwaves - LOVE (2010-02-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
 Circa Survive - Blue Sky Noise (2010-04-20)
 </li>
@@ -299,9 +302,6 @@ Tides of Man - Dreamhouse (2010-09-14)
 </li>
 <li data-cover="https://img.discogs.com/_w_QBKjYNjvi9zCZ7SUls_sbEsE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2920198-1307356470.jpeg.jpg" data-tags="electronic, electro, progressive, synthpop" role="button">
 Goose - Synrise (2011-03-29)
-</li>
-<li data-cover="https://img.discogs.com/etlmjyE_4cHe2bhbrS0VSExl_is=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4998495-1381729535-8807.jpeg.jpg" data-tags="progressive metal" role="button">
-Dream Theater - A Dramatic Turn of Events (2011-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
 Macklemore & Ryan Lewis - The Heist (2012-10-09)

@@ -1,17 +1,17 @@
 ---
-date: 2021-04-04T04:08:01.214Z
+date: 2021-04-04T12:28:01.513Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Oceanborn (1998-12-07)</li>
-<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
+<li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
 <li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Century Child (2002-06-24)</li>
 <li data-cover="https://img.discogs.com/wP0yO0OllDd5B0pVrdx06teWmnM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348455-1211722786.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Once (2004-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Silent Force (2004-11-15)</li>
-<li data-cover="http://coverartarchive.org/release/f070fbc3-adfe-496a-b1db-d253487d6158/5647069242-500.jpg" data-tags="symphonic metal" role="button">Apocalyptica - Apocalyptica (2005-01-24)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, cello metal" role="button">Apocalyptica - Worlds Collide (2007-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Unforgiving (2011-03-25)</li>
 </ol>
@@ -72,7 +72,7 @@ Haggard - Awaking The Centuries (2000-02-07)
 <li data-cover="http://coverartarchive.org/release/8dc54860-4a3b-4757-bbe4-a3e852525f3a/3885285137-500.jpg" data-tags="symphonic metal, rock opera" role="button">
 Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
-<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Wishmaster (2000-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/73fcbc7e-4945-4b33-bdc0-671a0aeffdc4/12525584454-500.jpg" data-tags="symphonic metal, cello metal" role="button">
@@ -96,7 +96,7 @@ Nightwish - From Wishes To Eternity (2001-03-12)
 <li data-cover="http://coverartarchive.org/release/dcaa1f02-3bad-4337-be7e-c769fd9df9e7/1287074936-500.jpg" data-tags="power metal" role="button">
 Kamelot - Karma (2001-05-07)
 </li>
-<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/k6nwq8unLw_b0w2OTfceJ7KnHYg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1235200-1551185779-4769.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Over the Hills and Far Away (2001-06-25)
 </li>
 <li data-cover="https://img.discogs.com/Hc-kerojMLeDgG8YtSZ7CD4DH1U=/fit-in/451x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1185361-1199497793.jpeg.jpg" data-tags="gothic metal" role="button">
@@ -107,9 +107,6 @@ Therion - Secret Of The Runes (2001-10-08)
 </li>
 <li data-cover="https://img.discogs.com/FF5DIMvzWA3_lYWAskJDZOq8kcE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12668200-1539691429-6474.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/fb4a053e-7139-49e4-9aa6-bf1f29299b3c/1633190014-500.jpg" data-tags="power metal" role="button">
-Blind Guardian - A Night at the Opera (2002-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Power of the Dragonflame (2002-03-18)
@@ -245,6 +242,9 @@ Nightwish - Amaranth (2007-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d9bf8c-1263-3826-999f-3793d6414234/4371819886-500.jpg" data-tags="symphonic metal" role="button">
 Epica - The Divine Conspiracy (2007-09-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, cello metal" role="button">
+Apocalyptica - Worlds Collide (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Dark Passion Play (2007-09-26)

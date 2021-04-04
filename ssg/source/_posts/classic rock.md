@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:35:01.503Z
+date: 2021-04-04T12:24:01.522Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -303,6 +303,9 @@ Jimi Hendrix - Experience Hendrix: The Best of Jimi Hendrix (1997)
 <li data-cover="http://coverartarchive.org/release/3b886671-04bb-4e6f-bc02-310823641fe9/9041409104-500.jpg" data-tags="rock, u2, classic rock" role="button">
 U2 - The Best of 1980-1990 (1998-10-28)
 </li>
+<li data-cover="https://img.discogs.com/U8okCdE93Q8KnJ5rBtnugutb8JM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198146-1211495932.jpeg.jpg" data-tags="u2, rock" role="button">
+U2 - All That You Can't Leave Behind (2000-10-30)
+</li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
 </li>
@@ -314,9 +317,6 @@ David Bowie - Best of Bowie (2002-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Led Zeppelin (2003-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/55265199-08f9-3e6a-8532-409b6caf6c5e/7794207792-500.jpg" data-tags="classic rock" role="button">
-The Who - Greatest Hits (2009-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/54e73133-8168-4400-a1fd-91f2017e701a/8118789895-500.jpg" data-tags="rock, classic rock" role="button">
 Tom Petty and The Heartbreakers - Greatest Hits (2010)

@@ -7,5 +7,5 @@
 }
 
 #page-nav a, #page-nav span {
-    height: auto;
+    height: auto!important;
 }

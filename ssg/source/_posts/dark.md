@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:16:02.234Z
+date: 2021-04-04T12:19:01.260Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
@@ -51,9 +51,6 @@ Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)
 <li data-cover="http://coverartarchive.org/release/2f1e71b1-8edf-4a5e-9d9d-9d4e98647daf/11735022667-500.jpg" data-tags="alternative, female vocalists, 90s, indie" role="button">
 Belly - Star (1993-01-25)
 </li>
-<li data-cover="https://img.discogs.com/s2Vuq3g-OducyVw_MddrXjsN0Dw=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1592275-1271786532.jpeg.jpg" data-tags="britpop" role="button">
-James - Laid (1993-11-01)
-</li>
 <li data-cover="https://img.discogs.com/T1N1f1AXU1XTKd-IPo2E4YM5Cms=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1771648-1245254037.jpeg.jpg" data-tags="electronic" role="button">
 Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 </li>
@@ -72,10 +69,10 @@ Tricky - Pre-Millennium Tension (1996-10-28)
 <li data-cover="https://img.discogs.com/-W5QN7_eVpe2JjMA_yNrTRvKHJs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-483031-1529428927-4680.jpeg.jpg" data-tags="goth, dark, industrial, electro-industrial" role="button">
 Velvet Acid Christ - Calling Ov The Dead (1997)
 </li>
-<li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
+<li data-cover="https://img.discogs.com/XUNaq78ggP0O4AcP8aVleP5g95w=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6627909-1423405986-8538.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="https://img.discogs.com/UQ5V28f8DqJANNaLg7CMi1ASFXE=/fit-in/600x842/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12411707-1534756813-2186.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
 Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2996ae5b-d50c-4278-bf43-9205d1d5f6b0/25001847121-500.jpg" data-tags="alternative, female vocalists, 90s" role="button">
@@ -108,7 +105,7 @@ Staind - Dysfunction (1999-04-13)
 <li data-cover="http://coverartarchive.org/release/b79c1285-1f52-36b7-adb8-b24491389644/2386244795-500.jpg" data-tags="post-punk" role="button">
 Rowland S. Howard - Teenage Snuff Film (1999-06-26)
 </li>
-<li data-cover="https://img.discogs.com/7671t6_gOUBXGxurdZRYDsPfb0Y=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-98180-1497133178-8372.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/U9LEG7nZ8JktYxlMgjZkfCNlWSM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66347-1374100615-6026.jpeg.jpg" data-tags="electronic" role="button">
 Death in Vegas - The Contino Sessions (1999-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
@@ -177,13 +174,16 @@ The Knife - Silent Shout (2006-02-15)
 <li data-cover="http://coverartarchive.org/release/9be388a8-425f-46d6-b7aa-b6cafb45d655/11089439848-500.jpg" data-tags="stoner metal, stoner rock, psychedelic" role="button">
 Om - Conference of the Birds (2006-02-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/cb5e68da-bf42-32e6-ae35-29d99f931960/10083770849-500.jpg" data-tags="dubstep" role="button">
+Burial - Burial (2006-05-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/a1e9ae9f-1c48-4ea7-9098-344442548807/2850451984-500.jpg" data-tags="neofolk" role="button">
 Spiritual Front - Armageddon Gigolo (2006-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf099799-3f91-4418-abbd-e9dec82b1a58/10599577358-500.jpg" data-tags="alternative, female vocalists, singer-songwriter" role="button">
 Charlotte Martin - Stromata (2006-09-12)
 </li>
-<li data-cover="https://img.discogs.com/fycjDLRNZNhLbpPXcsmw3U1tNdg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2435153-1283882962.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal, darksky fm" role="button">
+<li data-cover="https://img.discogs.com/fycjDLRNZNhLbpPXcsmw3U1tNdg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2435153-1283882962.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Jesus On Extasy - Holy Beauty (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">
@@ -207,7 +207,7 @@ Kerli - Love Is Dead (2008-07-08)
 <li data-cover="https://img.discogs.com/EO4tmF4L3bRSVSeSkTD5aNzF3Ak=/fit-in/506x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486045-1309206695.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
 </li>
-<li data-cover="https://img.discogs.com/CtImeukxtPy_3fXhz65a5hvdO1A=/fit-in/500x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5452819-1450905021-6311.jpeg.jpg" data-tags="dark, shoegaze" role="button">
+<li data-cover="https://img.discogs.com/fNf8Yg_GFHY9kV0bnnPZLjMSWYY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475568-1366628343-4088.jpeg.jpg" data-tags="dark, shoegaze" role="button">
 Mercury Rev - Snowflake Midnight (2008-09-29)
 </li>
 <li data-cover="https://img.discogs.com/-jXh1HefuQF_oHQqAM62FjOkEkw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17056041-1611364067-9511.jpeg.jpg" data-tags="indie" role="button">
@@ -237,7 +237,7 @@ Marilyn Manson - The High End Of Low (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/1ed7f5e9-d17c-4681-8854-6acdedc1e33b/6941293043-500.jpg" data-tags="folk" role="button">
 Timber Timbre - Timber Timbre (2009-06-30)
 </li>
-<li data-cover="https://img.discogs.com/mTi9bBoVjAX4TqxdxLH3EhLLqu8=/fit-in/595x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1996333-1257597527.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
+<li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f614e621-2378-48bb-b4ff-f266e5fd4830/2386236308-500.jpg" data-tags="post-punk" role="button">
