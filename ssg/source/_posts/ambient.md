@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:50:07.282Z
+date: 2021-04-04T13:50:01.313Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -126,6 +126,9 @@ Boards of Canada - Geogaddi (2002-02-13)
 <li data-cover="http://coverartarchive.org/release/bb4d834e-c21a-4288-bbee-d9b86c6c3f8b/3772697596-500.jpg" data-tags="downtempo, jazz" role="button">
 The Cinematic Orchestra - Every Day (2002-04-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/de88c422-1cf3-49cc-9095-3cda552b8727/4262680116-500.jpg" data-tags="electronic" role="button">
+Moby - 18 (2002-05-02)
+</li>
 <li data-cover="https://img.discogs.com/lXD8whyAYclV6eo5oxbFpF-BrwU=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902743-1251309415.jpeg.jpg" data-tags="electronic" role="button">
 múm - Finally We are No One (2002-05-20)
 </li>
@@ -134,9 +137,6 @@ Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1374cc9-4e6f-4ec8-9902-84ae1430d0a6/21618689737-500.jpg" data-tags="ambient, chillout" role="button">
 Conjure One - Conjure One (2002-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
-Lemon Jelly - Lost Horizons (2002-10-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Sigur Rós - ( ) (2002-10-23)
@@ -198,11 +198,11 @@ Röyksopp - The Understanding (2005-06-22)
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Takk... (2005-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
+Enya - Amarantine (2005-11-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/bdbeeba8-11c2-49aa-b01d-eb445af7f44c/4469616343-500.jpg" data-tags="ambient" role="button">
 Helios - Eingya (2006-06-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
-The Album Leaf - Into The Blue Again (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
 Carbon Based Lifeforms - World of Sleepers (2006-12-02)

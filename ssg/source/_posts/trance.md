@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:36:01.732Z
+date: 2021-04-04T14:07:01.288Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Ellie Goulding - Starry Eyed (2010-02-18)](https://img.discogs.com/N5uWvAJXzisPcRUyabNK0VMFtZI=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337514-1277924801.jpeg.jpg "Ellie Goulding - Starry Eyed (2010-02-18)")
@@ -21,26 +21,26 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/4ad5a316-064b-4086-8166-8d958d700877/9075781136-500.jpg" data-tags="trance" role="button">
-Jam & Spoon - Tripomatic Fairytales 2001 (1993-04-20)
+<li data-cover="https://img.discogs.com/SY78h9tw6yq25_eSqjrrucSjg3M=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11677-1206696011.jpeg.jpg" data-tags="electronic" role="button">
+The Future Sound of London - Accelerator (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c3f584f-dd01-445c-9fac-bbaf7a5abbba/24562001336-500.jpg" data-tags="trance, goa trance" role="button">
 Juno Reactor - Transmissions (1993-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/104199d5-f2f3-4fd0-be8b-fa6474551769/6617407330-500.jpg" data-tags="trance, 90s, euro trance, 90's, u96" role="button">
-U96 - Club Bizarre (1994)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
 Autechre - Amber (1994-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/dec5192b-d4de-4e2e-a77f-6f799c146eae/21860504858-500.jpg" data-tags="trance, 90s" role="button">
-Cold Storage - WipeOut (1995-09-11)
+<li data-cover="http://coverartarchive.org/release/c26ab134-529c-4b28-be59-8d1927f01738/9666653096-500.jpg" data-tags="female vocalists, trance, 80s, laura branigan, my favorites" role="button">
+Laura Branigan - The Best of Branigan (1995-06-06)
 </li>
-<li data-cover="https://img.discogs.com/mrYiUmopiiEbVRP90oG9nohsA0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4113488-1355676491-6205.jpeg.jpg" data-tags="trance, electronic" role="button">
-BT - Ima (1995-10-09)
+<li data-cover="http://coverartarchive.org/release/2e84f173-3c96-3fc0-8565-bfb85d8724a3/10752369965-500.jpg" data-tags="psytrance" role="button">
+Hallucinogen - Twisted (1995-09-14)
 </li>
-<li data-cover="https://img.discogs.com/MB7s4Pyk2PsJc95Z_yTqNIz703k=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31772-1366733878-7061.jpeg.jpg" data-tags="electronic" role="button">
-Orbital - In Sides (1996-03)
+<li data-cover="http://coverartarchive.org/release/9d869542-507d-3a9f-810e-2ff84af0891e/10744313145-500.jpg" data-tags="goa, psytrance, trance" role="button">
+Juno Reactor - Beyond The Infinite (1995-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd2da473-ec72-47a9-b6ca-5ecfe06a086b/5556123884-500.jpg" data-tags="trance, chillout, electronic, dance, funk, techno, progressive house, anorexic, faithless, levykokoelma" role="button">
+Faithless - Irreverence (1996)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trance, melodic" role="button">
 Robert Miles - Fable (1996-05-27)
@@ -48,14 +48,11 @@ Robert Miles - Fable (1996-05-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
-X-Perience - Magic Fields (1996-11-16)
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, trip-hop" role="button">
+Faithless - Reverence (1997-04-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age, enigma, ambient" role="button">
-Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/d56c1bd8-4707-4cea-a40a-f9201fc96dfa/1485039311-500.jpg" data-tags="trance" role="button">
-DJ Quicksilver - Quicksilver (1997-06-09)
+<li data-cover="http://coverartarchive.org/release/5a10bb6c-a45a-3a7c-8b3e-db564afae2f3/14512497121-500.jpg" data-tags="ambient" role="button">
+Delerium - Karma (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/59c9a570-4d4b-414e-90c1-f1f8c59fc21e/4225986565-500.jpg" data-tags="trance, psytrance, goa trance" role="button">
 Juno Reactor - Bible of Dreams (1997-06-18)
@@ -66,44 +63,47 @@ Way Out West - Way Out West (1997-09-01)
 <li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">
 BT - ESCM (1997-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
+<li data-cover="http://coverartarchive.org/release/079645c2-9164-40df-9905-a6287d8b1200/4111828289-500.jpg" data-tags="chicane, trance" role="button">
+Chicane - Far From The Maddening Crowds (1997-10-20)
 </li>
 <li data-cover="https://img.discogs.com/Tqn83-BQ8nxnYfVaBjOjbIEM43U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12596222-1538294517-8372.jpeg.jpg" data-tags="trance" role="button">
 Sash! - Life Goes On (1998-08-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
-Art of Trance - Voice of Earth (1999-04)
-</li>
 <li data-cover="https://img.discogs.com/i124lJe2x9EfxS6DADSLaANMlPI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-48125-1097318746.jpg.jpg" data-tags="trance" role="button">
 ATB - Movin' Melodies (1999-04-26)
 </li>
-<li data-cover="https://img.discogs.com/uFSSM5NNiwabWvmXZimpTwyjLkg=/fit-in/488x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-80637-1363860266-6734.jpeg.jpg" data-tags="trance, electronic" role="button">
-Apollo 440 - Stop the Rock (1999-08-16)
+<li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
+Moby - Play (1999-05-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/b92ca5de-c74c-36c1-9a0c-e5db91fdce8d/24147114073-500.jpg" data-tags="90s, electronic" role="button">
-Pet Shop Boys - Nightlife (1999-10-09)
+<li data-cover="https://img.discogs.com/hyad2aAcRcMtOKROruNv39zgCXM=/fit-in/585x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3053646-1313519523.jpeg.jpg" data-tags="electronic, trance" role="button">
+Sasha - Xpander EP (1999-07-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
 BT - Movement in Still Life (1999-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/97615d11-cda2-454a-abe3-5f56550fcce9/4579350238-500.jpg" data-tags="downtempo, electronic, chillout" role="button">
-Fila Brazillia - A Touch Of Cloth (1999-11-01)
+<li data-cover="https://img.discogs.com/nS0Ki-zjzw2hkc92SuWBm96N3Ac=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2814485-1508723241-5156.jpeg.jpg" data-tags="electronic, eurodance" role="button">
+Eiffel 65 - Europop (1999-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/d616c84c-bce4-499e-bb76-d452a8d67145/7614834168-500.jpg" data-tags="trance, electronic" role="button">
-Astral Projection - In the Mix (2000)
+<li data-cover="http://coverartarchive.org/release/931a2b12-037e-4dfc-8ced-017c4ec7837e/20650664259-500.jpg" data-tags="ambient, psychill" role="button">
+Asura - Code Eternity (2000)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
 Fragma - Toca (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/503cb223-719b-332f-bd81-8d3e182a0308/1171048477-500.jpg" data-tags="techno, electronic" role="button">
-Laurent Garnier - Unreasonable Behaviour (2000-02-14)
+<li data-cover="http://coverartarchive.org/release/16c9e950-dadb-4d50-a1ad-54c630b243e3/7594550991-500.jpg" data-tags="psytrance" role="button">
+Infected Mushroom - Classical Mushroom (2000-02-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
 Bomfunk MC's - Freestyler (2000-02-15)
 </li>
+<li data-cover="https://img.discogs.com/U85awjBc3AKoRJmIGS9WaKbCAzI=/fit-in/350x364/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498273-1396834503-2030.jpeg.jpg" data-tags="electronic, electro, electroclash" role="button">
+Fischerspooner - #1 (2000-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/2f0596b2-9760-3f65-be75-ccea095ce933/1257772770-500.jpg" data-tags="trance" role="button">
 Alice Deejay - Who Needs Guitars Anyway? (2000-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd08060d-bfe3-4ece-845f-6417e4adbc41/14104113696-500.jpg" data-tags="chillout, electronic dance" role="button">
+Spiller - Groovejet (If This Ain't Love) (2000-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/238adee4-f390-32ec-922c-5a46caee589b/5378433829-500.jpg" data-tags="trance, psytrance, electronic" role="button">
 Juno Reactor - Shango (2000-10-09)
@@ -111,23 +111,14 @@ Juno Reactor - Shango (2000-10-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
 ATB - Two Worlds (2000-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/effc271a-517f-4a1f-bb22-28553f8af8ae/13774033396-500.jpg" data-tags="trance" role="button">
-Cosmic Gate - Rhythm & Drums (2001-02-19)
+<li data-cover="http://coverartarchive.org/release/fb27e386-d568-4d46-a38b-ffa3ddac13c1/8890719356-500.jpg" data-tags="psytrance" role="button">
+Infected Mushroom - B.P. Empire (2001-03-01)
 </li>
-<li data-cover="https://img.discogs.com/UVRE9KE-Ba7u4VKWfUvi9M4_PDw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377788-1460896455-8546.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
-Kosheen - Resist (2001-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/f22b939a-80fc-4dee-90e5-3323894e84a2/17267419224-500.jpg" data-tags="trance, electronic, techno, tribal, goa, sought, cyberrr" role="button">
-Juno Reactor - Masters Of The Universe (2001-07-10)
+<li data-cover="https://via.placeholder.com/450" data-tags="chillout, electronica" role="button">
+Schiller - Weltreise (2001-07-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trance, electronic" role="button">
 Way Out West - Intensify (2001-08-20)
-</li>
-<li data-cover="https://img.discogs.com/LTfPOC1VxHvhymzkSOO-udUyY-M=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1050832-1188193703.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
-System 7 - Seventh Wave (2001-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
-Cornelius - Point (2001-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/655aa547-f1fa-49dd-9bba-de30f0aaef11/2106980504-500.jpg" data-tags="trance, e nomine" role="button">
 E Nomine - Finsternis (2002-01-21)
@@ -135,98 +126,125 @@ E Nomine - Finsternis (2002-01-21)
 <li data-cover="http://coverartarchive.org/release/207ea20b-a0a6-4148-b842-f0d9ffc3cb94/24473768644-500.jpg" data-tags="trance, ian van dahl" role="button">
 Ian Van Dahl - Ace (2002-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/b7db227f-d102-37cd-aad9-85923a56be99/26315639345-500.jpg" data-tags="electronic, trance, house, breakbeat, synthpop, progressive trance, john digweed" role="button">
+John Digweed - MMII (2002-06-04)
+</li>
 <li data-cover="https://img.discogs.com/qKZX-Kpc-1wPlB3HPdJ4B44mUYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11242062-1512574067-8739.jpeg.jpg" data-tags="trance, progressive trance, schiller" role="button">
 Cosmic Gate - No More Sleep (2002-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/3015394f-582f-489a-929b-5703e38899e1/14359900988-500.jpg" data-tags="trance, electronica, ambient, techno, tech house, minimal techno, -listen, -listen tech" role="button">
-Kaito - Special Life (2002-09-01)
+<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
+Underworld - A Hundred Days Off (2002-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/ece81cf6-df1e-410f-a01e-3a49fb051010/4540240567-500.jpg" data-tags="trance, hardcore, dance, techno, happy hardcore, j-rock, nightcore" role="button">
-Nightcore - Caliente (2003)
+<li data-cover="http://coverartarchive.org/release/b1374cc9-4e6f-4ec8-9902-84ae1430d0a6/21618689737-500.jpg" data-tags="ambient, chillout" role="button">
+Conjure One - Conjure One (2002-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/34e10a2d-bc95-4a83-93bf-6537a17d250a/8467051409-500.jpg" data-tags="trance, female vocalists" role="button">
-Venus Hum - Big Beautiful Sky (2003-04-01)
+<li data-cover="http://coverartarchive.org/release/533a718d-c202-4d82-b3e7-596e4f40bf18/20373139615-500.jpg" data-tags="techno, scooter" role="button">
+Scooter - 24 Carat Gold (2002-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/af5e9e60-0d51-4fb2-89d9-69fed83750b3/3658346948-500.jpg" data-tags="dance, electronic" role="button">
+Chicane - Easy to Assemble (2003)
+</li>
+<li data-cover="https://img.discogs.com/l-DO1_wHCvvz0T0LBozXqlTIE1U=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-239485-1222291253.jpeg.jpg" data-tags="trance, techno, 00s, sowaco" role="button">
+Kai Tracid - 4 Just 1 Day (2003-01-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
+Celldweller - Celldweller (2003-01-28)
+</li>
+<li data-cover="https://img.discogs.com/daq0YLc_PMnuCShEQdPC15z9zvw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3542360-1334568310.jpeg.jpg" data-tags="electronic, psytrance" role="button">
+Infected Mushroom - Converting Vegetarians (2003-04-09)
 </li>
 <li data-cover="https://img.discogs.com/v-b1QDFEyZlhvJhWBpI0gmty1j8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275098-1360495678-3373.jpeg.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
 </li>
-<li data-cover="https://img.discogs.com/lCcXkUQ3G6nD7sbHKMaqW5jYc0U=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-322385-1100938422.jpg.jpg" data-tags="trance" role="button">
+<li data-cover="http://coverartarchive.org/release/dff66b36-6169-450f-baf9-1cd67949900b/11012611573-500.jpg" data-tags="electronic, trance" role="button">
+ATB - Addicted to Music (2003-04-28)
+</li>
+<li data-cover="https://img.discogs.com/s8Jt9CR4eKjKoesBsj25gFRKUuk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-155004-1589060420-9538.jpeg.jpg" data-tags="trance" role="button">
 Darude - Rush (2003-05-12)
+</li>
+<li data-cover="https://img.discogs.com/yDMqhaqFNWaZKMwNengIRZAK6Uc=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-132383-1513437011-8438.jpeg.jpg" data-tags="trance, 00s, jumpstyle" role="button">
+Mark 'Oh - Stuck On You (2003-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bef0144-6bd9-3c54-b8e7-c1166ec1ed52/6955118811-500.jpg" data-tags="trance" role="button">
 BT - Emotional Technology (2003-08-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a80b68e3-227b-4536-9b25-9c0aa51c1359/6493811465-500.jpg" data-tags="electronic" role="button">
-Fluke - Puppy (2003-08-18)
+<li data-cover="http://coverartarchive.org/release/735c3912-b9dd-42a2-af44-f4f6d25fe6f4/3489309570-500.jpg" data-tags="electronic" role="button">
+Hybrid - Morning Sci-Fi (2003-09-15)
 </li>
-<li data-cover="https://img.discogs.com/4z4-wuMGb_2UerUnNf1O8nUyjCs=/fit-in/354x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10139722-1492328144-1298.jpeg.jpg" data-tags="trance, noise rock, power pop, shoegaze, dream pop" role="button">
-ART-SCHOOL - LOVE/HATE (2003-11-12)
+<li data-cover="https://img.discogs.com/UXdOLFbjrTHmR99ho13oUXYeAQ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4745513-1378170794-2257.jpeg.jpg" data-tags="electronic" role="button">
+Schiller - Leben (2003-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/7ebf5816-7084-464b-886a-8e405fe3083a/5438022732-500.jpg" data-tags="groove coverage" role="button">
+Groove Coverage - 7 Years And 50 Days (2004)
+</li>
+<li data-cover="https://img.discogs.com/o0gQ-ig7SkqDuCneLPQ35Y1wJNA=/fit-in/600x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-406424-1109191706.jpg.jpg" data-tags="dance, pop" role="button">
+Infernal - From Paris To Berlin (2004)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trance, female vocalists, dance, euro trance, favorite, eurotrance, cascada" role="button">
 Special D. - You (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad55ac7f-0ead-41da-8921-59ef6ad4eb49/7263878016-500.jpg" data-tags="trance, electronic, dance, euro trance, 90s dance, favorite, eurotrance, love fav, tagada" role="button">
-Gabry Ponte - Gabry Ponte (2004-02-24)
+<li data-cover="http://coverartarchive.org/release/1182aafc-c201-379d-ab99-52f604e25819/9749635411-500.jpg" data-tags="dance" role="button">
+Chromeo - She's In Control (2004-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d9879a9-accc-4283-9ac4-fc9bb069573d/25651133073-500.jpg" data-tags="trance, atb" role="button">
 ATB - No Silence (2004-05-24)
 </li>
+<li data-cover="https://img.discogs.com/3nNi10FEq5Isod7Slvw7MumBu4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-123215-1150505583.jpeg.jpg" data-tags="industrial rock, industrial, cyberpunk" role="button">
+Zeromancer - Eurotrash (2004-08-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
 Infected Mushroom - IM the Supervisor (2004-09-10)
+</li>
+<li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
+Eric Prydz - Call on Me (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f46f90f-b5e5-443d-bb0f-40151764a950/4043627444-500.jpg" data-tags="trance, electronic, goa, psytrance" role="button">
 Juno Reactor - Labyrinth (2004-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/be4239cc-b872-4922-a89a-606be49a924a/26326050533-500.jpg" data-tags="trance, dance" role="button">
-Lasgo - Far Away (2005-01-25)
+<li data-cover="http://coverartarchive.org/release/839570e0-dfe5-403f-b498-d6e6a08ab34f/28569193564-500.jpg" data-tags="electronic, dance" role="button">
+Faithless - Forever Faithless: The Greatest Hits (2005-05-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trance, c, techno, finnish, syksy, euro-trance" role="button">
-Chorale - Unimaailma (2005-02-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/05998956-a7bf-475c-8c1a-20bfa987366e/8312618887-500.jpg" data-tags="trance, electronic, psytrance" role="button">
-GMS - EMERGENCY BROADCAST SYSTEM (2005-11-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trance" role="button">
-DJ Shog - My Sound (2006-01-06)
+<li data-cover="http://coverartarchive.org/release/ced64954-3160-3e27-aefe-89c4c709d67f/21236770954-500.jpg" data-tags="ambient" role="button">
+Conjure One - Extraordinary Ways (2005-08-30)
 </li>
 <li data-cover="https://img.discogs.com/w0Sc4D7G_DefgVvh2ZTa4X0V-to=/fit-in/558x557/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-943224-1327012945.jpeg.jpg" data-tags="trance, electronic" role="button">
 Blank & Jones - The Singles (2006-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/6cbf0215-0171-3d6c-936c-5a99288d2c12/2272010777-500.jpg" data-tags="trance, electronic, progressive trance" role="button">
-Gabriel & Dresden - Gabriel & Dresden (2006-06-01)
+<li data-cover="http://coverartarchive.org/release/519b5a5e-139a-4924-93d3-4e3ca6f8fbff/10188105570-500.jpg" data-tags="trance, anjunabeats, progressive trance" role="button">
+Luminary - Amsterdam (2006-06-02)
 </li>
-<li data-cover="https://img.discogs.com/ChI7PbeWqTh3_R35q3Annt2vf-s=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-761956-1422439292-8261.jpeg.jpg" data-tags="trance, electronic" role="button">
-Cosmic Gate - Earth Mover (2006-07-29)
+<li data-cover="http://coverartarchive.org/release/689f013e-f404-31a6-8c86-b01e1f8b3ca4/8252727529-500.jpg" data-tags="trance, dance" role="button">
+Paul Oakenfold - A Lively Mind (2006-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a141c6d9-6116-4dde-92a6-7cd7f763d070/3406106230-500.jpg" data-tags="dance, electronic" role="button">
-Basement Jaxx - Crazy Itch Radio (2006-09-04)
+<li data-cover="http://coverartarchive.org/release/adff4c98-9914-4715-a675-9b61de4bd294/11700606085-500.jpg" data-tags="ambient" role="button">
+BT - This Binary Universe (2006-08-29)
 </li>
-<li data-cover="https://img.discogs.com/3OrYV7vDuHttlFZrqO9dsg3FliI=/fit-in/537x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3603344-1337006968-1126.jpeg.jpg" data-tags="ambient" role="button">
-Delerium - Nuages Du Monde (2006-10-02)
+<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
+Robbie Williams - Rudebox (2006-10-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trance, electronica, goa, psytrance, kim kardashian, pamela anderson, anna nicole smith, carmen electra, victoria silvstedt, jade laroche, jenny mccarthy" role="button">
-Cosmosis - Psychedelica Melodica (2007-06-06)
+<li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
+Carbon Based Lifeforms - World of Sleepers (2006-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e39d3578-2cdd-4fc4-9761-7a1946d20860/7223022655-500.jpg" data-tags="trance" role="button">
 Markus Schulz - Progression (2007-06-26)
 </li>
-<li data-cover="https://img.discogs.com/gJexrv8EUtSxENPbJNkKITntn5I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555634-1447172266-7234.jpeg.jpg" data-tags="melodic death metal" role="button">
-Blood Stain Child - Mozaiq (2007-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a6f86f2-65cf-4850-9dfe-fe493e63cc12/12494213750-500.jpg" data-tags="trance, electronic, psytrance, full-on" role="button">
-Ananda Shake - Inside The Sound (2007-09-27)
+<li data-cover="http://coverartarchive.org/release/913fd1ba-4f98-47b9-8e58-a495066f94c2/10298509218-500.jpg" data-tags="psychedelic, chillout" role="button">
+Younger Brother - The Last Days Of Gravity (2007-10-15)
 </li>
 <li data-cover="https://img.discogs.com/hPVupO0WrQD0Bdiw8iLFuxRoES4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2750604-1339649539-6681.jpeg.jpg" data-tags="trance, epic trance" role="button">
 Tiësto - Adagio For Strings (2007-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/cdb09763-f619-4017-a3d5-eb36db19a778/26134764452-500.jpg" data-tags="trance, electronic, progressive trance, uplifting trance" role="button">
-Various Artists - Trancemaster 5009 (2008-01-28)
+<li data-cover="http://coverartarchive.org/release/6cbdd132-ff95-44ed-ba64-8239070527f4/6618403033-500.jpg" data-tags="vocal trance" role="button">
+Oceanlab - Sirens of the Sea (2008-04-07)
 </li>
 <li data-cover="https://img.discogs.com/LyPMKVGe_U-7ijtQhpGfd2DaX4I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1571972-1229333521.jpeg.jpg" data-tags="trance, electronic, darude, armind" role="button">
 Mike Foyle - Pandora (2008-05-05)
 </li>
-<li data-cover="https://img.discogs.com/BkxGayoIIJDt9ogBoBIhWgyzTp4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444087-1349507008-6731.jpeg.jpg" data-tags="trance" role="button">
-Leon Bolier - Pictures (2008-09-26)
+<li data-cover="http://coverartarchive.org/release/a94a2faf-b5e4-33c9-953b-ca020418cddd/7267268374-500.jpg" data-tags="progressive house" role="button">
+deadmau5 - Random Album Title (2008-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
+Justice - A Cross The Universe (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f98182-7a57-44a8-adeb-5aecaaeac206/9823154784-500.jpg" data-tags="trance, dance, techno, german" role="button">
 Italobrothers - Stamp On The Ground (2009)
@@ -234,14 +252,8 @@ Italobrothers - Stamp On The Ground (2009)
 <li data-cover="http://coverartarchive.org/release/78bb9e5c-b1cf-4210-954d-58da5b5f23da/8161578340-500.jpg" data-tags="trance, electronic" role="button">
 Calvin Harris - I'm Not Alone (2009-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/392802a1-bcd6-47a4-9caf-6202d1779d19/6677039489-500.jpg" data-tags="trance, chillout, electronic, trip-hop, indie, alternative, ambient, downtempo, funk, techno, house, lounge" role="button">
-Planet Funk - Planet Funk (2009-03-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/8c37b58d-4ada-3629-b38e-17988ca14e55/7452696649-500.jpg" data-tags="trance, electronic, vocal trance" role="button">
 ATB - Future Memories (2009-05-01)
-</li>
-<li data-cover="https://img.discogs.com/wbCKutXKYFTyPBIeSHG7DTYzI0A=/fit-in/600x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33780-1234864551.jpeg.jpg" data-tags="trance, chillout, ambient, 00s, music i tried but didnt like, smooth chillout" role="button">
-William Orbit - My Oracle Lives Uptown (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0859310-5eee-40dc-88ac-9cd761f91d49/6576902413-500.jpg" data-tags="trance, electronic, dance, australian, house" role="button">
 Bag Raiders - Shooting Stars (2009-08-07)
@@ -249,8 +261,11 @@ Bag Raiders - Shooting Stars (2009-08-07)
 <li data-cover="http://coverartarchive.org/release/6b9798de-6288-4b51-87bb-de0bcc51e2d4/24711110047-500.jpg" data-tags="trance, hip hop, pop, dance, house, tinchy stryder" role="button">
 Tinchy Stryder - Catch 22 (2009-08-14)
 </li>
-<li data-cover="https://img.discogs.com/bBkhKswaguiD1CW8rm5exoflEVc=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15010350-1585474077-9177.jpeg.jpg" data-tags="trance, electronic, progressive trance, uplifting trance" role="button">
-Gaia - Tuvan (2009-10)
+<li data-cover="http://coverartarchive.org/release/7e734f4f-3215-3153-8fa7-376cf8a8172e/8562147990-500.jpg" data-tags="electronic, psytrance, psychedelic" role="button">
+Infected Mushroom - Legend Of The Black Shawarma (2009-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/97f6f1d5-1c70-367d-a217-45cab7a31926/15654510735-500.jpg" data-tags="electronic" role="button">
+deadmau5 - For Lack of a Better Name (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/194eeede-5333-42ac-96f3-1290a7aa0935/12527768502-500.jpg" data-tags="trance, electronic" role="button">
 Tiësto - Kaleidoscope (2009-12-15)
@@ -264,61 +279,46 @@ Ellie Goulding - Starry Eyed (2010-02-18)
 <li data-cover="http://coverartarchive.org/release/ca46bf9c-97e5-3592-8d1f-3f00592fc690/1133356400-500.jpg" data-tags="trance" role="button">
 Armin van Buuren - Mirage (2010-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/329af9b8-c39c-47b8-817e-96b913052960/4693469732-500.jpg" data-tags="trance, progressive trance, anjunabeats" role="button">
-Super8 & Tab - Empire (2010-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/9da472d1-6042-48e3-ae75-fcc0a9f364e2/1230594177-500.jpg" data-tags="trance, progressive trance, vocal trance, uplifting trance" role="button">
 Gareth Emery - Northern Lights (2010-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/e9115c35-6356-437d-a33b-971aff59160a/10191944200-500.jpg" data-tags="trance, electronic, dance, house, electro house, finnish, progressive house, anjunadeep, synthwave, music i want to check out, progressive electro house" role="button">
-Michael Cassette - Temporarity (2010-11-29)
+<li data-cover="https://img.discogs.com/c1ZMbrBIJGu3HhQOaJBawIoDJQw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3154062-1318245920.jpeg.jpg" data-tags="trance, electronic" role="button">
+araabMUZIK - Electronic Dream (2011-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5bd4a0b-6a0d-44e9-8961-94260e83e625/10177231187-500.jpg" data-tags="trance" role="button">
 Above & Beyond - Group Therapy (2011-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/89757436-84e4-4567-aa11-87d08c7ff35a/999438549-500.jpg" data-tags="trance" role="button">
-Allure - Kiss from the Past (2011-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/9541694c-8913-4a26-99c6-f44a0bbfa7b6/6945422643-500.jpg" data-tags="trance, chillout, electronic, ambient, techno, house, lounge, progressive trance" role="button">
-Blank & Jones - Relax Edition Six (2011-06-17)
+<li data-cover="http://coverartarchive.org/release/793eaae4-df0f-4218-a047-ab04574ecb4f/12814493452-500.jpg" data-tags="house, electronic" role="button">
+Benny Benassi - Electroman (2011-06-07)
 </li>
 <li data-cover="https://img.discogs.com/RiURtSiDgw8hCLlQefhEq6ze8B8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000800-1311122520.jpeg.jpg" data-tags="noise, trance, electronic, electro" role="button">
 Pictureplane - THEE PHYSICAL (2011-07-19)
 </li>
-<li data-cover="https://img.discogs.com/LBguTRR4iLYytpQCJv5yrjkbkA0=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436135-1605611803-3658.jpeg.jpg" data-tags="trance, electronic, pop, hardcore, dubstep, dance, techno, house, rave, eurodance, favorite, scooter, edm, hardstyle" role="button">
-Scooter - The Big Mash Up (2011-10-14)
+<li data-cover="http://coverartarchive.org/release/8a12a56e-f16a-49d1-b7a2-84528900ae04/17642272732-500.jpg" data-tags="pop, electropop, dance, electronic, house" role="button">
+Wanessa - DNA (2011-07-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e38fd295-b1bd-4d89-bdea-808ef5933615/5974818759-500.jpg" data-tags="trance, electropop, japanese, female vocalists, jpop, asian, anime, j-pop, electro-pop, i've, asian music, asian pop" role="button">
-KOTOKO - LIGHT MY FIRE (2011-11-16)
+<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
+Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="https://img.discogs.com/_3FUY2Kf6oacx8Ekl-KK565geR8=/fit-in/600x829/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8607903-1465036825-6104.jpeg.jpg" data-tags="trance, electronic, house, electro house, electro dance" role="button">
 Swedish House Mafia - Don't You Worry Child (2012)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4737fca-bb75-405a-bd64-6123b3c5fb68/2966751527-500.jpg" data-tags="trance, electronic, dance, progressive trance, vocal trance" role="button">
-Armin van Buuren - We Are Here to Make Some Noise (2012-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/58c86567-453f-466a-aa4c-1adc0b10d342/1781484416-500.jpg" data-tags="trance, dubstep, electro, house, progressive house" role="button">
 Zedd - Spectrum EP (2012-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/30483241-09a0-4f5b-90b2-46141956a2f2/4049288536-500.jpg" data-tags="trance, electronic, electro, dance, house, electro house" role="button">
-Italobrothers - My Life Is A Party (2012-07-27)
+<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
+Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
-<li data-cover="https://img.discogs.com/-eB_VO2lyZHrSFy_ip7slfls3DM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3985958-1351439856-6101.jpeg.jpg" data-tags="trance, electronica, vocal trance" role="button">
-Andain - You Once Told Me (2012-09-24)
+<li data-cover="http://coverartarchive.org/release/a066b065-cd76-4dd4-a975-f3812fcd3229/18848001906-500.jpg" data-tags="trance, dance, eurovision" role="button">
+Loreen - Heal (2012-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/7261b1d2-c848-445a-9119-a8bec4075ba0/3703335110-500.jpg" data-tags="trance, electronic, dance, house, hard trance" role="button">
-Italobrothers - This Is Nightlife (2013-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/6122ca09-a4ca-4d13-96c5-2b1ea502e7f5/3984827641-500.jpg" data-tags="trance, electronic, psychill" role="button">
-Abakus - Silent Geometry (2013-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/84d20b43-5e5a-44a1-a8e1-a4a8ad303e91/6311160220-500.jpg" data-tags="trance, vocal trance" role="button">
-ATB - Contact (2014-01-24)
+<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
+Zara Larsson - Uncover (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/57ae1538-5b8a-4ef8-b8a9-a47c809ea30d/7621866109-500.jpg" data-tags="trance, acoustic" role="button">
 Above & Beyond - Acoustic (2014-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/6ae1b57c-b981-4e1c-89fd-87c77a815ced/6836020925-500.jpg" data-tags="trance, electronic, progressive trance" role="button">
-Armin van Buuren - Ping Pong (2014-03-24)
+<li data-cover="http://coverartarchive.org/release/754ffe04-ae91-4b38-bebb-9a565a03eeb0/6830844142-500.jpg" data-tags="classical, dubstep, electronic, instrumental, violin" role="button">
+Lindsey Stirling - Shatter Me (2014-04-29)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:20:01.311Z
+date: 2021-04-04T14:20:01.299Z
 title: "polish: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](http://coverartarchive.org/release/43342114-ec72-400c-a1ad-5c9580998361/4030501038-500.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -7,11 +7,11 @@ title: "polish: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">Kult - Spokojnie (1988)</li>
 <li data-cover="https://img.discogs.com/V0xbJHSbaeQvvGyarxyn0FVZ5w0=/fit-in/458x328/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-907946-1488650324-9919.jpeg.jpg" data-tags="rock, alternative rock, polish" role="button">Myslovitz - Miłość w czasach popkultury (1999-10-25)</li>
 <li data-cover="http://coverartarchive.org/release/0fd5abdd-7a1a-4a09-933f-e620cc98cce2/4137110372-500.jpg" data-tags="ska, polish, rock" role="button">Akurat - Pomarańcza (2001)</li>
+<li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">Myslovitz - Korova Milky Bar (2002-05-27)</li>
 <li data-cover="http://coverartarchive.org/release/7f63e549-0273-406f-ab87-664b8d36a09b/4223291990-500.jpg" data-tags="rock, polish" role="button">Coma - Pierwsze wyjście z mroku (2004-05-17)</li>
 <li data-cover="http://coverartarchive.org/release/43342114-ec72-400c-a1ad-5c9580998361/4030501038-500.jpg" data-tags="happysad, polish, rock" role="button">happysad - Wszystko jedno (2004-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/92455303-57a4-4fbf-9d00-f283392f6594/4707388100-500.jpg" data-tags="punk rock" role="button">Pidżama Porno - Bułgarskie centrum (2004-09-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">Maria Peszek - Miasto Mania (2005-10-14)</li>
-<li data-cover="http://coverartarchive.org/release/5e745932-2538-4b2c-952d-2893b8c5b69f/5062074211-500.jpg" data-tags="polish" role="button">Strachy Na Lachy - DODEKAFONIA (2010-02-22)</li>
 <li data-cover="https://img.discogs.com/KFzVsWj8FUJho9RA9oMVqv0Athc=/fit-in/594x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223761-1271074986.jpeg.jpg" data-tags="alternative rock, folk, polish" role="button">Czesław Śpiewa - POP (2010-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/28ed3ff6-752c-479c-a142-5f3908e8f80d/14427406794-500.jpg" data-tags="indie, deep house, polish" role="button">XXANAXX - Triangles (2014-04-29)</li>
 </ol>
@@ -90,17 +90,17 @@ Akurat - Pomarańcza (2001)
 <li data-cover="http://coverartarchive.org/release/2409939a-290a-4d66-8742-59bc04e52122/2610150058-500.jpg" data-tags="punk rock, punk" role="button">
 Pidżama Porno - Marchef w butonierce (2001-04-23)
 </li>
-<li data-cover="https://img.discogs.com/G4RP02Gj7DRgDMJ27e74s8PwADs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880442-1305411904.jpeg.jpg" data-tags="electronic, chill out, downtempo, polish" role="button">
-Smolik - Smolik (2001-05-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/635daba9-5f20-4d78-9cf0-3ebfd77f41f0/12618624531-500.jpg" data-tags="alternative, alternative rock, polish, 2000s, kazik, kazik staszewski, kult salon recreativo, salon recreativo" role="button">
 Kult - Salon Recreativo (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e3a14f9-64e9-43a8-8073-85b79fef7a3b/3350995906-500.jpg" data-tags="rock, female vocalists, polish" role="button">
 Hey - [Sic!] (2001-10-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
+<li data-cover="https://img.discogs.com/l6cyrXRdVJ8A_AX1rvN1rqQY2XE=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-916580-1463687448-1242.jpeg.jpg" data-tags="polish" role="button">
 Lenny Valentino - Uwaga! Jedzie tramwaj (2001-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">
+Myslovitz - Korova Milky Bar (2002-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/13522c21-395a-422c-bb90-c375ecc1b72b/2362349046-500.jpg" data-tags="polish, polski rock, wilki" role="button">
 Wilki - 4 (2003-02-08)
@@ -114,7 +114,7 @@ Hey - Music Music (2003-11-17)
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, reggae, ska" role="button">
+<li data-cover="https://img.discogs.com/MSdFRkrA_XBkw_dEiS5f9MTrT4k=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1546079-1301302877.jpeg.jpg" data-tags="alternative, reggae, ska" role="button">
 Akurat - Prowincja (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ce55f84-eae1-46f8-b20d-1d7677f286ad/13977259823-500.jpg" data-tags="polish" role="button">
@@ -141,14 +141,17 @@ happysad - Wszystko jedno (2004-07-01)
 <li data-cover="http://coverartarchive.org/release/92455303-57a4-4fbf-9d00-f283392f6594/4707388100-500.jpg" data-tags="punk rock" role="button">
 Pidżama Porno - Bułgarskie centrum (2004-09-20)
 </li>
-<li data-cover="https://img.discogs.com/k_YqSOzSNRsXdQDyTNy7FZOU0No=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524441-1154632353.jpeg.jpg" data-tags="progressive rock, progressive metal" role="button">
-Indukti - S.U.S.A.R. (2004-09-20)
-</li>
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Demigod (2004-11-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rap, hip-hop, polish, polski hip hop" role="button">
 O.S.T.R. - Jazzurekcja (2004-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8976e14-3f6d-4e74-9b52-33eec8bbd45d/7101908827-500.jpg" data-tags="polish" role="button">
+Lao Che - Powstanie Warszawskie (2005-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/e29842c1-9c32-4108-a75c-763e0669abd4/10339964142-500.jpg" data-tags="nu-jazz, electronic jazz" role="button">
+Skalpel - 1958 Breaks (2005-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdfe45eb-0b2d-4c96-bfc9-9b5c8b479b9a/5876442790-500.jpg" data-tags="reggae" role="button">
 Vavamuffin - Vabang! (2005-04-06)
@@ -168,8 +171,14 @@ happysad - Podróże z i pod prąd (2005-10-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">
 Maria Peszek - Miasto Mania (2005-10-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
+Riverside - Second Life Syndrome (2005-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/69e91eee-2bfb-4e7a-aba1-13c564194713/4185547054-500.jpg" data-tags="alternative rock" role="button">
 Strachy Na Lachy - Piła Tango (2005-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/251c2702-7b04-4ace-8975-390bc78358e9/5058132429-500.jpg" data-tags="rock, polish" role="button">
+Hey - Echosystem (2005-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f832caf-7f82-406f-a469-27eb5fb98d20/5266084918-500.jpg" data-tags="polish, rock" role="button">
 Kult - Poligono Industrial (2005-12-05)
@@ -192,11 +201,11 @@ Gabriela Kulka - Out (2006-08)
 <li data-cover="https://img.discogs.com/_LYCyv4zrUDW3zxW28QnMoFpdAQ=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8075064-1454667772-7701.jpeg.jpg" data-tags="pop, chill out, polish" role="button">
 Ania - Kilka historii na ten sam temat (2006-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9c35e2b-f335-441a-804f-3c25093c48b5/6329876006-500.jpg" data-tags="jazz" role="button">
-Contemporary Noise Quintet - Pig Inside The Gentleman (2006-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/9cda42f9-ac1b-484f-bd02-9ff52507e41a/5062044543-500.jpg" data-tags="instrumental, polish" role="button">
 Jelonek - Jelonek (2007)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="polish, rock, alternative" role="button">
+Muchy - Galanteria (2007-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/11f22380-b4be-468a-b2f6-77d8ea5dd4f4/8084133829-500.jpg" data-tags="hip hop, rap, polish" role="button">
 Łona i Webber - Absurd I Nonsens (2007-03-23)
@@ -216,9 +225,6 @@ Maria Peszek - Maria Awaria (2008)
 <li data-cover="http://coverartarchive.org/release/c8a65ca3-bac3-4384-a13c-0cbb3baefc41/4267018674-500.jpg" data-tags="alternative rock" role="button">
 Lao Che - Gospel (2008-02-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f09ea4e-8365-4d58-a8e7-16454dfa0db7/2634516109-500.jpg" data-tags="alternative" role="button">
-Czesław Śpiewa - Debiut (2008-04-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/466e6aaf-b8da-484a-a772-c0702f91ffa1/3366571520-500.jpg" data-tags="polish, piano, alternative" role="button">
 Julia Marcell - It Might Like You (2008-05-14)
 </li>
@@ -233,9 +239,6 @@ Jamal - Urban Discotheque (2008-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c54c36bd-7a0e-4bcb-a8d5-8454ed4e3b5f/7101277809-500.jpg" data-tags="ska, polish, akurat, pol-ska" role="button">
 Akurat - Optymistyka (2008-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/8527a0fe-239b-40a8-be55-c6a47d1151ba/3430260994-500.jpg" data-tags="reggae, ragga, dancehall" role="button">
-Bob One - Jeden (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2aadaf8e-c2f8-4e4c-9525-7d4ff58600a6/8083602403-500.jpg" data-tags="alternative, fisz" role="button">
 Fisz Emade - Heavi Metal (2008-11-21)
@@ -257,9 +260,6 @@ GrubSon - O.R.S. (2009-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/9561f09b-6098-44a1-957b-e398a219b965/6357137255-500.jpg" data-tags="rock, polish, happysad, i want to have" role="button">
 happysad - Mów mi dobrze (2009-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/9da34265-9c5e-4d57-9d9e-8ee0e2c96ab2/15843844769-500.jpg" data-tags="hip hop, rap" role="button">
-Małpa - Kilka numerów o czymś (2009-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e745932-2538-4b2c-952d-2893b8c5b69f/5062074211-500.jpg" data-tags="polish" role="button">
 Strachy Na Lachy - DODEKAFONIA (2010-02-22)

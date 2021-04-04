@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:34:01.307Z
+date: 2021-04-04T13:49:02.773Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock, 1969" role="button">
+<li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="proto-punk, 1970, garage rock, 70s" role="button">
@@ -78,6 +78,9 @@ Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
 <li data-cover="http://coverartarchive.org/release/c2dab6ed-1a4e-49a6-9abc-6be95c03dbda/4804372334-500.jpg" data-tags="punk, punk rock" role="button">
 Social Distortion - Social Distortion (1990-03-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
+Sublime - 40 Oz. to Freedom (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/da173a7b-ba7a-4958-86d4-70d229217cd9/21926789326-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ignition (1992-10-16)
 </li>
@@ -116,9 +119,6 @@ Misfits - Static Age (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
-Dropkick Murphys - Do or Die (1998-01-13)
 </li>
 <li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -168,7 +168,7 @@ Box Car Racer - Box Car Racer (2002-05-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk, gypsy punk" role="button">
+<li data-cover="https://img.discogs.com/TVVLZVoxDWKwh96zF7_Ic7IRLkg=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3715413-1341480261-8033.jpeg.jpg" data-tags="punk, gypsy punk" role="button">
 Gogol Bordello - Multi Kontra Culti vs. Irony (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">

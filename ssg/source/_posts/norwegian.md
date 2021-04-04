@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:22:01.268Z
+date: 2021-04-04T14:12:01.272Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -33,7 +33,7 @@ a-ha - East of the Sun West of the Moon (1990-10-12)
 <li data-cover="https://img.discogs.com/dVolqH38Ke4APwcbCnBOFwS6p9U=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944511-1193264332.jpeg.jpg" data-tags="pop, alternative rock, norwegian" role="button">
 a-ha - Memorial Beach (1993-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b69e215e-cf17-4624-afe2-01fe2cad4428/4820147028-500.jpg" data-tags="1994, metal, rock, norwegian, classic albums, bleak, skandinavisch, bra album, dice-throw: six" role="button">
+<li data-cover="http://coverartarchive.org/release/b69e215e-cf17-4624-afe2-01fe2cad4428/4820147028-500.jpg" data-tags="metal, rock, norwegian, classic albums, bleak, skandinavisch, bra album, dice-throw: six" role="button">
 Seigmen - Total (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2f25d41-736c-40e9-83b3-678f42873eb3/14548660035-500.jpg" data-tags="black metal" role="button">
@@ -114,7 +114,7 @@ Kings of Convenience - Versus (2001-10-22)
 <li data-cover="https://img.discogs.com/OfvEdmi3E2YwZjZcd56aDrIQ2_0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-700356-1601551545-4833.jpeg.jpg" data-tags="nu jazz, norwegian, guitar, jazz" role="button">
 Eivind Aarset - Light Extracts (2001-11-06)
 </li>
-<li data-cover="https://img.discogs.com/MU7W1gbRrFb6gmf95p6SIwaTh0E=/fit-in/260x253/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3410307-1329326443.png.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/UDCO9kOGIhVx8slX_RxP1_5SQKk=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4075505-1360700989-4845.jpeg.jpg" data-tags="pop" role="button">
 a-ha - Lifelines (2002-04-02)
 </li>
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
@@ -165,7 +165,7 @@ Kings of Convenience - Riot on an Empty Street (2004-06-21)
 <li data-cover="https://img.discogs.com/R2KPNE8FjVAEmIZcvCosLVuxVXY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7770212-1448411827-8581.jpeg.jpg" data-tags="the national bank" role="button">
 The National Bank - The National Bank (2004-08-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
@@ -192,7 +192,7 @@ Röyksopp - The Understanding (2005-06-22)
 <li data-cover="http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-500.jpg" data-tags="norwegian, scandinavian, norway, noord-europa, noors, noorwegen" role="button">
 a-ha - Rhino Hi-Five: A-Ha (2005-07-19)
 </li>
-<li data-cover="https://img.discogs.com/i2gUdQ9LxXm5SPnpql-XSjW_2hk=/fit-in/387x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1749562-1240904512.jpeg.jpg" data-tags="norwegian, rock" role="button">
+<li data-cover="https://img.discogs.com/DLvIUEStL8uLkgYM_ghNRC8uZ04=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993425-1572536299-5521.png.jpg" data-tags="norwegian, rock" role="button">
 Kaizers Orchestra - Maestro (2005-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5272ece-c9ef-4b59-93e9-86933928e900/7826835304-500.jpg" data-tags="anja garbarek" role="button">
@@ -204,8 +204,11 @@ Anja Garbarek - Briefly Shaking (2005-09-26)
 <li data-cover="http://coverartarchive.org/release/d87a354a-b0eb-44cc-bc09-cc966eb86df2/20833625751-500.jpg" data-tags="pop" role="button">
 a-ha - Analogue (2005-10-31)
 </li>
-<li data-cover="https://img.discogs.com/V_LElJRcjZuH-7qGNSUh-YBst8Y=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780230-1518613999-8834.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/gTjcrtsEnKBE2Zf0MRXul-XVkZY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2722132-1298100377.jpeg.jpg" data-tags="pop" role="button">
 Maria Mena - Apparently Unaffected (2005-11-14)
+</li>
+<li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="downtempo" role="button">
+Röyksopp - Beautiful Day Without You (2006-03)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
@@ -221,9 +224,6 @@ I - Between Two Worlds (2006-11-03)
 </li>
 <li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Illumination (2007-01-19)
-</li>
-<li data-cover="https://img.discogs.com/uIAfZ93GzL9QH5DKXUZbj6LUJ-Y=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4140032-1356738631-1349.jpeg.jpg" data-tags="norwegian, norsk" role="button">
-Postgirobygget - Tidløs (2007-06)
 </li>
 <li data-cover="https://img.discogs.com/yJojx2GIVhg6pOpvML9CR3svYkU=/fit-in/399x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1294420-1215387260.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Ane Brun - Changing of the Seasons (2008-03-10)
@@ -297,7 +297,7 @@ Wardruna - Runaljod – Yggdrasil (2013-03-15)
 <li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)
 </li>
-<li data-cover="https://img.discogs.com/ty9yr895evOComp7fj1Y9KsVyuA=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6561067-1435155008-5211.png.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/-CD8U6Jo8-WEymHP7xq0RwEotzY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4648389-1371020360-8515.jpeg.jpg" data-tags="electronic" role="button">
 Todd Terje - Strandbar (2013-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3929e5c-2287-43e9-879d-adc155e910c6/25194465215-500.jpg" data-tags="electronic, downtempo, norwegian, warm, cold, nocturnal, merkliste, feels, acker bilk, proto-vaporwave" role="button">

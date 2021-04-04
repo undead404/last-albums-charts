@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:33:01.300Z
+date: 2021-04-04T14:35:01.285Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -7,10 +7,10 @@ title: "chillout: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">Moby - Play (1999-05-17)</li>
+<li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">Zero 7 - Simple Things (2001-04-23)</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">Röyksopp - Melody A.M. (2001-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">Sia - Colour the Small One (2004-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
-<li data-cover="https://img.discogs.com/TntSDuGQXlbBnS7o3Jr44SA9rdQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244778-1458760798-4830.jpeg.jpg" data-tags="chillout" role="button">Zero 7 - When It Falls (2004-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">Gotye - Making Mirrors (2011-08-19)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/9a27363a-f565-33a3-bb1c-c55b5d24db84/2461231103-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Blue Lines (1991-04-08)
 </li>
-<li data-cover="https://img.discogs.com/TwUt4MLWzfYJSLC1T4iXdHnjnMs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2568652-1583625019-6003.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/I5fvlW6nBIflOImPqtGD6LBw6_Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099999-1191992249.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
 Everything But the Girl - Amplified Heart (1994-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
@@ -36,7 +36,7 @@ Massive Attack - Protection (1994-09-26)
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trance, dream, robert miles" role="button">
+<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
@@ -90,6 +90,9 @@ Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 <li data-cover="https://img.discogs.com/lsz4cKVgVZ2Y5vbRL35Nv2_vGoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9784862-1526804148-7507.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">
 Kings of Convenience - Quiet Is the New Loud (2001-01-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
+Zero 7 - Simple Things (2001-04-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
@@ -125,6 +128,9 @@ Moby - 18 (2002-05-02)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
+</li>
+<li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
+Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1374cc9-4e6f-4ec8-9902-84ae1430d0a6/21618689737-500.jpg" data-tags="ambient, chillout" role="button">
 Conjure One - Conjure One (2002-09-17)
@@ -225,9 +231,6 @@ LCD Soundsystem - 45:33 (2006-10-17)
 <li data-cover="http://coverartarchive.org/release/d7548fbc-8cac-41e9-a59c-d286696ace9e/2402661758-500.jpg" data-tags="usa underground" role="button">
 Pretty Lights - Taking Up Your Precious Time (2006-10-23)
 </li>
-<li data-cover="https://img.discogs.com/pPLsZmTwJnHlPsZS8zlvFGa-GJY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8149275-1456064062-6023.jpeg.jpg" data-tags="chillout, electronic, electronica, dance, faithless" role="button">
-Faithless - To All New Arrivals (2006-11-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
 Air - Pocket Symphony (2006-12)
 </li>
@@ -251,9 +254,6 @@ Sia - Some People Have Real Problems (2008-01-08)
 </li>
 <li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/832a78ea-5be2-36b3-bcb7-107b77dfe674/23298175097-500.jpg" data-tags="electropop" role="button">
-La Roux - In for the Kill (2009-03-15)
 </li>
 <li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronic" role="button">
 Röyksopp - Junior (2009-03-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:41:01.272Z
+date: 2021-04-04T13:51:01.298Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -27,9 +27,6 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
-4 Non Blondes - Bigger, Better, Faster, More! (1992-10-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
 Autechre - Amber (1994-11-07)
 </li>
@@ -51,7 +48,7 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, post-rock" role="button">
+<li data-cover="https://img.discogs.com/cKxp04B3FUpkkN8mBZD5TG9HnDY=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385383-1493860512-1421.jpeg.jpg" data-tags="experimental, post-rock" role="button">
 Mark Hollis - Mark Hollis (1998-02-02)
 </li>
 <li data-cover="https://img.discogs.com/mChrEU4wn1jn11ewNOFPvpZ5joI=/fit-in/500x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495118-1398677026-9915.jpeg.jpg" data-tags="minimal, perfection, grapefruits and limes" role="button">
@@ -63,7 +60,7 @@ Isolée - Rest (2000)
 <li data-cover="http://coverartarchive.org/release/5e4df9cd-8d47-30ee-8dd0-ac9bf6222ddf/10342361630-500.jpg" data-tags="electronic, glitch, minimal" role="button">
 Vladislav Delay - Multila (2000-02-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/gwvTAGoveHSOzhxtgiAKFwEUUGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9919962-1488561686-5945.jpeg.jpg" data-tags="ambient" role="button">
 Gas - Pop (2000-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
@@ -126,16 +123,16 @@ Pantha du Prince - Diamond Daze (2004-03-01)
 <li data-cover="http://coverartarchive.org/release/3708b351-0680-45a8-a3a6-8776133bd79e/7739562068-500.jpg" data-tags="electronic, techno, minimal" role="button">
 Paul Kalkbrenner - Self (2004-03-01)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/mpF_Ox1Zzq43TumBN10EeSVTdA8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903546-1251349765.jpeg.jpg" data-tags="electronic, minimal, 00s, things i need to discover" role="button">
+<li data-cover="https://img.discogs.com/hmcOSXIagxdVi5x6eeLebYhWI9k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-356694-1497448350-9694.png.jpg" data-tags="electronic, minimal, 00s, things i need to discover" role="button">
 Alter Ego - Rocker (2004-05)
 </li>
-<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2e508d-a47c-4c8d-b030-93f08b9dd5aa/28509218674-500.jpg" data-tags="minimal, minimal techno" role="button">
@@ -153,16 +150,16 @@ Nathan Fake - The Sky Was Pink (2004-08-23)
 <li data-cover="http://coverartarchive.org/release/af306313-2138-48f3-922f-f96379a28ac1/17997644411-500.jpg" data-tags="electronic" role="button">
 Ada - Blondie (2004-09-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
-<li data-cover="https://img.discogs.com/KJBLrqEipp_HNEwxJn9buNvHNUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8102403-1455187160-8225.jpeg.jpg" data-tags="electronic, minimal, minimal techno, traum schallplatten" role="button">
+<li data-cover="https://img.discogs.com/yLinUrd2eL3h-aaka5HCrtuQi30=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4102182-1384723818-8516.jpeg.jpg" data-tags="electronic, minimal, minimal techno, traum schallplatten" role="button">
 Nathan Fake - Dinamo (2005-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/addb5e0a-8889-49fd-a615-b734425f6e27/15210128710-500.jpg" data-tags="electronic, ambient, dub, minimal" role="button">
 Deadbeat - New World Observer (2005-03-29)
 </li>
-<li data-cover="https://img.discogs.com/er9vS83or_qQEscZGm5zlTpU_h4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432843-1251623305.jpeg.jpg" data-tags="electronic, experimental, avantgardener, avantgarde" role="button">
+<li data-cover="http://coverartarchive.org/release/5768327e-cb12-3468-b383-db13f9591a03/11349737637-500.jpg" data-tags="electronic, experimental, avantgardener, avantgarde" role="button">
 The Books - Lost and Safe (2005-04-05)
 </li>
 <li data-cover="https://img.discogs.com/miSQF1ZEr8MuVJ4BUikC7w0adAM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458743-1504905798-8860.jpeg.jpg" data-tags="electronic, minimal" role="button">
@@ -171,7 +168,7 @@ Isolée - We Are Monster (2005-05-30)
 <li data-cover="https://img.discogs.com/S688Ot5CeRqIzeqt6V21COEqC2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12557676-1537612593-3353.jpeg.jpg" data-tags="electronic, techno, minimal" role="button">
 Oliver Koletzki - Der Mückenschwarm (2005-06)
 </li>
-<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/94f09962-8981-4bd6-a833-5630378ecbc9/13277619955-500.jpg" data-tags="electronica, ambient" role="button">
@@ -243,13 +240,16 @@ The xx - Crystalised (2009-04-27)
 <li data-cover="https://img.discogs.com/v9UM7jRWJbd8nrXTdNxvlLLbTz4=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1746152-1420354574-8025.jpeg.jpg" data-tags="techno, minimal, minimal techno, idm, kompakt, luisterpaal" role="button">
 The Field - Yesterday and Today (2009-05-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
+Marek Hemmann - Gemini EP (2009-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/fb255c42-b7da-4829-957b-83536a955ca9/22773473185-500.jpg" data-tags="electronic, indie, alternative, remix" role="button">
 The xx - Basic Space (2009-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
-<li data-cover="https://img.discogs.com/fRbYrNSqfm1W7aha5OzSppbdsjU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218197-1387805715-6492.jpeg.jpg" data-tags="electronic, electronica, techno, house, minimal, moby, electro-pop, 21st century" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="electronic, electronica, techno, house, minimal, moby, electro-pop, 21st century" role="button">
 Röyksopp - This Must Be It (2009-09-03)
 </li>
 <li data-cover="https://img.discogs.com/ZC5xycarwTNqaLzU01OPjVpwX7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15902545-1599892724-9591.jpeg.jpg" data-tags="electro-techno" role="button">

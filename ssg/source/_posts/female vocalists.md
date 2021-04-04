@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:33:01.532Z
+date: 2021-04-04T14:04:01.348Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -138,7 +138,7 @@ Flyleaf - Flyleaf (2004-10-26)
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
-<li data-cover="https://img.discogs.com/MuFObmq8DCdcU7yNZFIQex0ZWJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6800515-1426896315-6982.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/ly7RLMEKPSRmSN-evdNPH2XJW3I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463243-1421694038-7821.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="https://img.discogs.com/2902PK3x3Cof9C89ygQuLVXw4Lc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-870788-1448852393-9906.jpeg.jpg" data-tags="female vocalists" role="button">
@@ -155,6 +155,9 @@ Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
 Katie Melua - Piece by Piece (2005-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
+Enya - Amarantine (2005-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
 Norah Jones - Not Too Late (2006)
@@ -257,9 +260,6 @@ Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
-Keri Hilson - In a Perfect World... (2009-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)

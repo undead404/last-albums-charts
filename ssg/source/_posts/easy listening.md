@@ -1,10 +1,10 @@
 ---
-date: 2021-04-04T09:06:01.795Z
+date: 2021-04-04T14:25:01.479Z
 title: "easy listening: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, vinyl, 00s, laptop, disco pop" role="button">Bee Gees - Greatest (1979-10)</li>
+<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">Bee Gees - Greatest (1979-10)</li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">Jamiroquai - The Return Of The Space Cowboy (1994-10-17)</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">Stereolab - Dots and Loops (1997-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
@@ -27,7 +27,7 @@ Frank Sinatra - Songs for Young Lovers (1954)
 <li data-cover="http://coverartarchive.org/release/4434f894-ac26-306b-a25d-94d722e79735/15809302164-500.jpg" data-tags="jazz, easy listening" role="button">
 Julie London - Julie Is Her Name (1955-12)
 </li>
-<li data-cover="https://img.discogs.com/9_0VXlZEkeB1GWkXZthNSiAonYU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4117936-1355875644-9812.jpeg.jpg" data-tags="classic rock, pop, rock, 60s, progressive rock, pop rock, easy listening, psychedelic pop, beat, library, the hollies, albums to listen to" role="button">
+<li data-cover="https://img.discogs.com/41sFBvEMoxcNv-8leBZsTWK7fCc=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12621983-1538773164-5610.jpeg.jpg" data-tags="classic rock, pop, rock, 60s, progressive rock, pop rock, easy listening, psychedelic pop, beat, library, the hollies, albums to listen to" role="button">
 The Hollies - Hollies (1965-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/acbb0b21-0104-4f7f-9493-180126b9548e/25660575270-500.jpg" data-tags="60s, pop" role="button">
@@ -39,7 +39,7 @@ Simon & Garfunkel - Sounds of Silence (1966-01-17)
 <li data-cover="http://coverartarchive.org/release/7a436130-f945-42b2-93d0-1a9b9e3d6797/4732084267-500.jpg" data-tags="70s, vocalistas masculinos" role="button">
 Neil Diamond - Sweet Caroline (1969)
 </li>
-<li data-cover="https://img.discogs.com/y98bnzxyaxUiNv5HPvXiv_5axoM=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2548744-1608661804-5197.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
+<li data-cover="https://img.discogs.com/r8VdkDo3uNJSNdIgh6ZH2qkXHe0=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299747-1588947401-2352.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
 </li>
 <li data-cover="https://img.discogs.com/mfBUquz8EFF-YH4aHVrEVlCI3L4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119078-1193587084.jpeg.jpg" data-tags="oldies, 60s, classic rock" role="button">
@@ -48,14 +48,17 @@ Simon & Garfunkel - Greatest Hits (1972-06-14)
 <li data-cover="http://coverartarchive.org/release/297b5fd9-654c-3eb7-a41e-40fc4ae011c7/9800946084-500.jpg" data-tags="jazz, 70s, easy listening" role="button">
 Barbra Streisand - The Way We Were (1974-01)
 </li>
-<li data-cover="https://img.discogs.com/1bUVgn4_lhOQ1uNt2Qv2hUb44Ys=/fit-in/580x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5945378-1407074341-1993.jpeg.jpg" data-tags="soul, 70s, usa, easy listening, female vocalist, laptop, soul rnb, american musician, grammy winner 1976" role="button">
+<li data-cover="https://img.discogs.com/1bUVgn4_lhOQ1uNt2Qv2hUb44Ys=/fit-in/580x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5945378-1407074341-1993.jpeg.jpg" data-tags="soul, 70s, usa, easy listening, female vocalist, soul rnb, american musician, grammy winner 1976" role="button">
 Natalie Cole - Inseparable (1975)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, easy listening, misspent youth, my poprock" role="button">
 Aliotta Haynes Jeremiah - Lake Shore Drive (1976)
 </li>
-<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, vinyl, 00s, laptop, disco pop" role="button">
+<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/02f3e0d2-cd49-3883-8796-f34d47e3a6af/5959850736-500.jpg" data-tags="christopher cross, soft rock" role="button">
+Christopher Cross - Christopher Cross (1979-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5edf49b6-8364-42b2-ae25-611004289403/26886953373-500.jpg" data-tags="80s, yacht rock, wb recording" role="button">
 Michael McDonald - If That's What It Takes (1982)
@@ -126,7 +129,7 @@ Jim O'Rourke - Bad Timing (1997-08-25)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
-<li data-cover="https://img.discogs.com/GEEoOZtd2541_qWo6f3aULMkR-4=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860384-1193767375.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/ZXrsL-0EWr2DFZ12gNygf4qf7mI=/fit-in/532x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653654-1143763061.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/30ffc65a-6680-3956-bddb-1c4cd057a260/21207879625-500.jpg" data-tags="carpenters" role="button">
@@ -144,7 +147,10 @@ Silverchair - Neon Ballroom (1999-03-05)
 <li data-cover="http://coverartarchive.org/release/320d54a6-e1cf-4c5c-8e01-1fbe3b54d5eb/5436739445-500.jpg" data-tags="michael franks, easy listening" role="button">
 Michael Franks - Barefoot on the Beach (1999-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/183c692b-0431-4997-8a60-0b8970fcab11/4450882465-500.jpg" data-tags="pop, acoustic, female vocalist, megadeth" role="button">
+<li data-cover="http://coverartarchive.org/release/61e71ce1-830b-4492-a307-7d833e973a8f/3978922150-500.jpg" data-tags="stevie wonder, soul" role="button">
+Stevie Wonder - At The Close Of A Century (1999-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/183c692b-0431-4997-8a60-0b8970fcab11/4450882465-500.jpg" data-tags="pop, acoustic, female vocalist" role="button">
 Michelle Branch - Broken Bracelet (2000-06-01)
 </li>
 <li data-cover="https://img.discogs.com/3B1x2eMdyzozBWx9Cl5O0ZhL7Fw=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6040275-1409521282-8025.jpeg.jpg" data-tags="rock, alternative rock" role="button">
@@ -249,6 +255,9 @@ Gold Panda - Companion (2010)
 <li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">
 Morcheeba - Blood Like Lemonade (2010-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/ffb41af0-6f41-40a1-a98f-0ea5ac33b2c0/9890214632-500.jpg" data-tags="easy listening, modern, irish" role="button">
+The Script - For The First Time (2010-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/a54be848-c2a6-4282-8438-aa08fa6e648b/15941011609-500.jpg" data-tags="soul, easy listening, soft rock, mellow, pop soul, soft rock revival" role="button">
 Rumer - Seasons of My Soul (2010-08-23)
 </li>
@@ -270,14 +279,8 @@ The Ronettes - Be My Baby: The Very Best of The Ronettes (2011-02-22)
 <li data-cover="https://img.discogs.com/XuzGN0VstLhA-mtvArYZtdHx6is=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2942613-1570462277-2600.jpeg.jpg" data-tags="electronic" role="button">
 Owl City - All Things Bright and Beautiful (2011-06-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a12a56e-f16a-49d1-b7a2-84528900ae04/17642272732-500.jpg" data-tags="pop, electropop, dance, electronic, house" role="button">
-Wanessa - DNA (2011-07-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, gay metal, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
-King Dude - Love (2011-11-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
 La casa azul - La Polinesia Meridional (2011-11-28)
@@ -287,9 +290,6 @@ Nujabes - Spiritual State (2011-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc4d5817-e999-4717-86a4-28f8123bc7f8/5223594038-500.jpg" data-tags="easy listening, vocal jazz, romantic, swing, big band, smooth jazz, robbie williams" role="button">
 Robbie Williams - Beyond The Sea (2012-01-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/01845049-bfb8-4474-a40f-fd225645ffed/9495775187-500.jpg" data-tags="jazz" role="button">
-Paul McCartney - Kisses on the Bottom (2012-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)

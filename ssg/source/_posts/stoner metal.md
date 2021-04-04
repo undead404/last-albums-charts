@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:58:01.943Z
+date: 2021-04-04T14:08:01.427Z
 title: "stoner metal: 100 albums you must listen to before you die"
 ---
 ![Sleep - Dopesmoker (2003-04-22)](http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg "Sleep - Dopesmoker (2003-04-22)")
@@ -60,7 +60,7 @@ Sleep - Jerusalem (1996)
 <li data-cover="http://coverartarchive.org/release/2c342114-869e-404c-a43d-34a3a6247a8f/1587703828-500.jpg" data-tags="doom metal" role="button">
 Electric Wizard - Come My Fanatics... (1997-01)
 </li>
-<li data-cover="https://img.discogs.com/YS4zJED1AnOftISZc8JWjfjMaEc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2400812-1577810174-4117.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
+<li data-cover="https://img.discogs.com/ICFmioSxaMVyU9TswczADVZ0O94=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1181813-1255973996.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
 Orange Goblin - Frequencies From Planet Ten (1997-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b55114c5-e463-35cb-b86d-da284aefede5/24919222054-500.jpg" data-tags="hard rock, stoner rock, stoner metal" role="button">
@@ -99,7 +99,7 @@ Electric Wizard - Let Us Prey (2002)
 <li data-cover="https://img.discogs.com/YcLJXGY0aOv7YZPgKWOtcRfIp8w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2445526-1478987766-2016.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Label Society - 1919 Eternal (2002-03-04)
 </li>
-<li data-cover="https://img.discogs.com/gV63mFZvf-5d7uDAm7aRt2jXhuc=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025856-1185466301.jpeg.jpg" data-tags="sludge metal, metal, stoner metal" role="button">
+<li data-cover="https://img.discogs.com/afHmL57RoKb4O9Mnz1qsED8lDh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554377-1310507886.jpeg.jpg" data-tags="sludge metal, metal, stoner metal" role="button">
 Superjoint Ritual - Use Once And Destroy (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7914f47-2771-47ed-bc6b-332d8ef066b7/17479109345-500.jpg" data-tags="stoner metal" role="button">
@@ -108,8 +108,8 @@ High on Fire - Surrounded By Thieves (2002-05-28)
 <li data-cover="https://img.discogs.com/c_OxLc0e-L_SfFnE-7Xg7cvZ8pQ=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5012323-1382106857-3933.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
 Orange Goblin - Coup De Grace (2002-06-25)
 </li>
-<li data-cover="https://img.discogs.com/cIau8XQKiz2IZQaTHa87DphDtkU=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1704260-1478811702-2183.jpeg.jpg" data-tags="rock, stoner rock, stoner metal" role="button">
-Spiritual Beggars - On Fire (2002-10-08)
+<li data-cover="http://coverartarchive.org/release/c2e93d22-45d2-4336-afb2-6638fa7699f8/16693736407-500.jpg" data-tags="stoner metal" role="button">
+Bongzilla - Gateway (2002-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/26047e1f-ac8a-4ef0-bd65-d09543c07409/20094257552-500.jpg" data-tags="stoner metal" role="button">
 YOB - Catharsis (2003)
@@ -141,7 +141,7 @@ Ufomammut - Snailking (2004-04-19)
 <li data-cover="http://coverartarchive.org/release/8c5fe4ad-f3a2-4b2e-b781-df50f524887b/25736837933-500.jpg" data-tags="doom, sludge, stoner metal" role="button">
 YOB - The Illusion Of Motion (2004-11-29)
 </li>
-<li data-cover="https://img.discogs.com/vBEL67na75kZwaHoTuMRMdfPSB8=/fit-in/600x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4354397-1413373393-5809.jpeg.jpg" data-tags="metal, stoner metal" role="button">
+<li data-cover="https://img.discogs.com/L5EUmV74le0j_T3jhKLmWxzPSqM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590040-1580482587-7535.jpeg.jpg" data-tags="metal, stoner metal" role="button">
 High on Fire - Blessed Black Wings (2005-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f7bce4f-00b2-4284-8fff-50fc71c9cfe9/11089358340-500.jpg" data-tags="stoner rock, stoner metal" role="button">
@@ -219,7 +219,7 @@ Mastodon - Crack the Skye (2009-02-23)
 <li data-cover="http://coverartarchive.org/release/d5ae09cb-61a5-4d8b-a13f-c4759d5fb511/4758890682-500.jpg" data-tags="southern rock, stoner" role="button">
 Red Fang - Red Fang (2009-03-10)
 </li>
-<li data-cover="https://img.discogs.com/AI7xRPGlQ_L4JE-arXLAVUV12eY=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709186-1265610910.jpeg.jpg" data-tags="sludge metal" role="button">
+<li data-cover="https://img.discogs.com/zPztsibNMG0_1WI-qrSwMurPO1c=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1856423-1589318076-9272.jpeg.jpg" data-tags="sludge metal" role="button">
 Kylesa - Static Tensions (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ed892aa-f0a4-4443-b08a-f152be5e4aa0/2069980640-500.jpg" data-tags="doom metal, stoner metal" role="button">
@@ -276,7 +276,7 @@ Uncle Acid & the Deadbeats - Blood Lust (2011-05-27)
 <li data-cover="http://coverartarchive.org/release/aedf3e8a-db54-426b-8026-717017f6c8e7/20094613022-500.jpg" data-tags="doom metal" role="button">
 YOB - Atma (2011-08-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/4q9bWTidDDNrB3Dh9G38gytyDCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3121045-1316769235.jpeg.jpg" data-tags="progressive metal" role="button">
 Mastodon - The Hunter (2011-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa37fec4-b338-44ec-abbb-5f86da2a90c0/19809620577-500.jpg" data-tags="stoner metal" role="button">

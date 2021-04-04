@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:41:01.279Z
+date: 2021-04-04T14:43:01.282Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -35,9 +35,6 @@ Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
-Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
 Leftfield - Leftism (1995-01-30)
@@ -98,6 +95,9 @@ Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Discovery (2001-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
+Zero 7 - Simple Things (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
