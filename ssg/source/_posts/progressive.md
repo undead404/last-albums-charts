@@ -1,12 +1,12 @@
 ---
-date: 2021-04-04T12:42:01.251Z
+date: 2021-04-04T19:06:01.304Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">Tool - Lateralus (2001-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">The Mars Volta - Frances the Mute (2005-03-01)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">Porcupine Tree - Deadwing (2005-03-28)</li>
+<li data-cover="https://img.discogs.com/zg3cDss-LUQ4HxAnxEOLUfcVF0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206885-1590518555-8967.jpeg.jpg" data-tags="progressive rock" role="button">Porcupine Tree - Deadwing (2005-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/b0c39138-47b2-41ec-82f8-636a66916317/4766487756-500.jpg" data-tags="progressive rock, alternative rock" role="button">dredg - Catch Without Arms (2005-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">Tool - 10,000 Days (2006-04-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">The Mars Volta - Amputechture (2006-09-11)</li>
@@ -39,7 +39,7 @@ Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
-<li data-cover="https://img.discogs.com/Hb-VNYpZT5ZGgTAej-IrH4be7pM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2254121-1468077892-9269.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
@@ -66,16 +66,13 @@ Tool - Undertow (1993-04-06)
 <li data-cover="https://img.discogs.com/P0DzPhdfZ95KP8ESoJ0PJt99yXc=/fit-in/498x794/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11854047-1523523939-1617.jpeg.jpg" data-tags="progressive rock, instrumental" role="button">
 Mike Oldfield - Tubular Bells (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/6972609d-dd03-3089-9a86-697cb0d725c3/16362065745-500.jpg" data-tags="progressive rock" role="button">
-Porcupine Tree - The Sky Moves Sideways (1995-01-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/ssTddN9Dv7id16YvJKp3py6Hh64=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484202-1177170908.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Morningrise (1996-06-24)
 </li>
-<li data-cover="https://img.discogs.com/xNKw6drUH9yXDBMPpgfoC5wSydE=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710701-1341304554-5854.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
+<li data-cover="https://img.discogs.com/pT-kc2oSccre5hsiyhZfuraGNlA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13151417-1550929940-7194.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
 Primus - Brown Album (1997-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3821edb-ec09-443d-907f-0e88bc360f2d/9056068775-500.jpg" data-tags="britpop, progressive" role="button">
@@ -99,7 +96,7 @@ Isis - Celestial (2000-07-19)
 <li data-cover="https://img.discogs.com/M4wxOo-EVaYaVlRI_dc_vS592no=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3589065-1428940273-7193.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/vGIBafEprVpEk6Hin7hrq1C-S2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280090-1274122601.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Blackwater Park (2001-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
@@ -147,7 +144,7 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/7qNbLA9VfonNiIGO0lQbv-LrCpo=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426215-1438225450-3894.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Effloresce (2003-09-29)
 </li>
-<li data-cover="https://img.discogs.com/FGPLF4s1qmg4p2ZD8e9fim49-88=/fit-in/599x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371685-1278657433.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/LShQc__qBHN_91LR5-Hs-Z24A24=/fit-in/488x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9404195-1479968090-3673.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - A Natural Disaster (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e178e284-cbf6-30b2-8658-cb0111c78229/1118918783-500.jpg" data-tags="progressive metal" role="button">
@@ -165,7 +162,7 @@ Black Mountain - Black Mountain (2005-01-18)
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/zg3cDss-LUQ4HxAnxEOLUfcVF0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206885-1590518555-8967.jpeg.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - Deadwing (2005-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f9460ec-334d-4488-8e86-baa496381f8f/24459678223-500.jpg" data-tags="metal, progressive, screamo, post-hardcore" role="button">
@@ -180,7 +177,7 @@ dredg - Catch Without Arms (2005-06-21)
 <li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
 Karnivool - Themata (2005-07-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive death metal" role="button">
+<li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Ghost Reveries (2005-08-26)
 </li>
 <li data-cover="https://img.discogs.com/lwvpB0N1YbbL4pvfWsvdAUXJEmY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1259407-1254652496.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -210,6 +207,9 @@ Paolo Nutini - These Streets (2006-07-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - Amputechture (2006-09-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, post-hardcore" role="button">
+Fear Before The March Of Flames - The Always Open Mouth (2006-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
 Isis - In the Absence of Truth (2006-10-06)
 </li>
@@ -233,6 +233,9 @@ Oceansize - Frames (2007-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d46a82b-b704-4536-a060-9070125526c9/15848831964-500.jpg" data-tags="progressive" role="button">
 House vs. Hurricane - Forfeiture (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
+Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
 Poets of the Fall - Revolution Roulette (2008-03-26)
@@ -284,9 +287,6 @@ The Fall of Troy - In the Unlikely Event (2009-10-06)
 </li>
 <li data-cover="https://img.discogs.com/ZC5xycarwTNqaLzU01OPjVpwX7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15902545-1599892724-9591.jpeg.jpg" data-tags="electro-techno" role="button">
 Nicolas Jaar - Time for Us EP (2010-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
-Circa Survive - Blue Sky Noise (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a10f34d5-8afb-460e-b6d5-a442eb7c4a2c/9612740615-500.jpg" data-tags="indie rock" role="button">
 Portugal. The Man - American Ghetto (2010-05-11)

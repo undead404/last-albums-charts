@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:57:01.296Z
+date: 2021-04-04T19:08:01.295Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -9,11 +9,11 @@ title: "stoner rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/76acfd13-61b9-424b-9087-86b1f4e4f13c/7629907572-500.jpg" data-tags="stoner rock" role="button">Queens of the Stone Age - Rated R (2000-06-05)</li>
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">Queens of the Stone Age - Songs for the Deaf (2002-08-17)</li>
 <li data-cover="https://img.discogs.com/jBzR_P3-JnpTBSU2IYwpLY9VZK4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5330495-1390727105-4933.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)</li>
-<li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">Eagles of Death Metal - Death By Sexy (2006-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">Queens of the Stone Age - Era Vulgaris (2007-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">Them Crooked Vultures - Them Crooked Vultures (2009-11-13)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
+<li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">Queens of the Stone Age - ...Like Clockwork (2013-05-31)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -44,9 +44,6 @@ Melvins - Houdini (1993-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6205da21-55a9-457d-aa85-2f1262e25694/8267363147-500.jpg" data-tags="stoner rock" role="button">
 Kyuss - Welcome to Sky Valley (1994-06-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/14e8adef-dc7e-4f7b-9c79-80af627ea817/7846949504-500.jpg" data-tags="sludge, doom metal" role="button">
-Acid Bath - When the Kite String Pops (1994-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf88a9c4-2fcd-46c8-8412-3b06bf0abbfa/6512861185-500.jpg" data-tags="stoner rock" role="button">
 Corrosion of Conformity - Deliverance (1994-09-27)
@@ -87,7 +84,7 @@ Acid Bath - Paegan Terrorism Tactics (1996-11-12)
 <li data-cover="https://img.discogs.com/falbNQpWOuV7QBr8kHijrnU6r_s=/fit-in/588x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1446997-1360193584-3644.jpeg.jpg" data-tags="stoner rock" role="button">
 Fu Manchu - The Action Is Go (1997)
 </li>
-<li data-cover="https://img.discogs.com/YS4zJED1AnOftISZc8JWjfjMaEc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2400812-1577810174-4117.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
+<li data-cover="https://img.discogs.com/ICFmioSxaMVyU9TswczADVZ0O94=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1181813-1255973996.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
 Orange Goblin - Frequencies From Planet Ten (1997-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef5aa6bc-dfdf-4b1d-bf8d-96f785ef5dfc/18650235841-500.jpg" data-tags="stoner rock" role="button">
@@ -104,6 +101,9 @@ Orange Goblin - Time Travelling Blues (1998-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ade2b8b9-82ea-444f-83ff-0bf2880e025a/14521543056-500.jpg" data-tags="stoner metal, stoner doom" role="button">
 Acid King - Busse Woods (1999)
+</li>
+<li data-cover="https://img.discogs.com/iKg6hUVGnfSdWEkYQZjbVqscA2c=/fit-in/590x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1078025-1190410055.jpeg.jpg" data-tags="stoner rock" role="button">
+Fu Manchu - King Of The Road (1999-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fca8d42-4b65-4eb8-a8c6-2614b7d0232d/12135983823-500.jpg" data-tags="stoner rock" role="button">
 Unida - Coping with the Urban Coyote (1999-11-16)
@@ -131,9 +131,6 @@ Queens of the Stone Age - Rated R (2000-06-05)
 </li>
 <li data-cover="https://img.discogs.com/ejUY4Xklt1sCK6kSJRMsvZPqJNA=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1301027-1219880756.jpeg.jpg" data-tags="doom metal" role="button">
 Electric Wizard - Dopethrone (2000-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ff64a41-490f-4657-bf68-258a1eb96e87/28945562011-500.jpg" data-tags="heavy metal, stoner rock, hard rock" role="button">
-Corrosion of Conformity - America's Volume Dealer (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7c92eab-c53d-47d0-8ae4-92f22d5e3dd8/9285528262-500.jpg" data-tags="stoner rock" role="button">
 Clutch - Pure Rock Fury (2001-03-13)
@@ -231,9 +228,6 @@ Graveyard - Graveyard (2007-09-10)
 <li data-cover="http://coverartarchive.org/release/ab673930-34b2-426d-831d-0dd47caa26b0/4819325736-500.jpg" data-tags="stoner rock" role="button">
 Truckfighters - Phi (2007-10-08)
 </li>
-<li data-cover="https://img.discogs.com/Dkj1ny2hpfEv0tyauL2jnF89ffw=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824200-1245800516.jpeg.jpg" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
-My Sleeping Karma - Satya (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/17888dca-1e01-4f36-b6ed-8ac76a78b8f1/26507081984-500.jpg" data-tags="stoner rock, stoner metal" role="button">
 Torche - Meanderthal (2008-04-08)
 </li>
@@ -312,11 +306,17 @@ Clutch - Earth Rocker (2013-03-19)
 <li data-cover="http://coverartarchive.org/release/a1008433-df97-44b6-b91b-daebf2fc180c/19903307970-500.jpg" data-tags="stoner rock" role="button">
 Karma to Burn - Karma to Burn (2013-03-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">
+Queens of the Stone Age - ...Like Clockwork (2013-05-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb287b02-6d7d-4357-bfa7-be779a472672/4700085367-500.jpg" data-tags="stoner rock" role="button">
 True Widow - Circumambulation (2013-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/89a1bb84-f8e8-4cd5-83ca-a38317a41a98/6705416996-500.jpg" data-tags="alternative rock, indie rock, stoner rock, psychedelic, space rock, psychedelic rock, trip, lsd, ss, flightless records, flightless" role="button">
 King Gizzard & The Lizard Wizard - Float Along - Fill Your Lungs (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0dddeade-8f37-4413-8d3c-2db25e0e2e36/5478722467-500.jpg" data-tags="stoner rock" role="button">
+Earthless - From the Ages (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/30683b1f-e4df-46f7-a170-2de84a5f13bf/8137779784-500.jpg" data-tags="rock" role="button">
 Royal Blood - Royal Blood (2014-08-22)

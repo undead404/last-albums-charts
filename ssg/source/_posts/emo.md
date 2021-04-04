@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:44:01.280Z
+date: 2021-04-04T18:53:01.404Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/uGrRDsDRtzlAyjlcm-8l6zG0QHo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716513-1234055000.jpeg.jpg" data-tags="emo" role="button">
 Sunny Day Real Estate - Diary (1994-05-10)
 </li>
-<li data-cover="https://img.discogs.com/3nlRedvdsyGXMdU-Rtvejiw8j6Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1692681-1237311546.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
 </li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
@@ -135,9 +135,6 @@ Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee76a845-926d-4120-b83e-a2d543918428/25969450171-500.jpg" data-tags="emo, post-hardcore" role="button">
-Hidden in Plain View - Life In Dreaming (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
 </li>
@@ -216,14 +213,17 @@ Secondhand Serenade - Awake (2005-10-27)
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/d39b5760-18ad-4a8e-a625-ca128e69384a/2330331132-500.jpg" data-tags="emo" role="button">
+Hawthorne Heights - If Only You Were Lonely (2006-02-28)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 Taking Back Sunday - Louder Now (2006-04-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
-Thursday - A City By The Light Divided (2006-05-02)
-</li>
 <li data-cover="https://img.discogs.com/ClaLRHilRF2O_lgVuQuLzCdFvXM=/fit-in/400x402/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067318-1303565618.jpeg.jpg" data-tags="indie, emo" role="button">
 Plain White T's - Hey There Delilah (2006-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
+AFI - Decemberunderground (2006-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
@@ -231,11 +231,14 @@ Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
-New Found Glory - Coming Home (2006-09-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd4f60c8-d4b5-4c41-b200-a78dfe9e1aaf/25342698261-500.jpg" data-tags="post-hardcore, emo" role="button">
+Saosin - Saosin (2006-09-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+Senses Fail - Still Searching (2006-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
@@ -293,9 +296,6 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/dafe15c2-5fb9-4a5f-9b12-df031d3b0e9b/2103470066-500.jpg" data-tags="alternative rock" role="button">
-Panic! at the Disco - Vices & Virtues (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)

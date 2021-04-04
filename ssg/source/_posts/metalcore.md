@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:52:01.260Z
+date: 2021-04-04T18:58:01.273Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")
@@ -96,9 +96,6 @@ Lamb of God - Ashes Of The Wake (2004-08-30)
 <li data-cover="http://coverartarchive.org/release/14303fcb-f044-418e-8736-bb5fa39e7fd2/7461315604-500.jpg" data-tags="metalcore" role="button">
 Shadows Fall - The War Within (2004-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/abb6f5d6-83a9-485c-84c9-d9aff9d3fc26/6514191168-500.jpg" data-tags="deathcore" role="button">
-Bring Me the Horizon - This Is What the Edge of Your Seat Was Made For (2004-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/def35f73-abc3-4296-b41e-fc51ef0e177b/6677597463-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Bullet For My Valentine (2004-11-15)
 </li>
@@ -116,6 +113,9 @@ Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c51e4d5-15f4-37b0-8491-7daec3ec2932/962018489-500.jpg" data-tags="metalcore" role="button">
 Chimaira - Chimaira (2005-08-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/8bc8d446-5b5f-49de-b9c0-31ce46283831/26720885055-500.jpg" data-tags="metalcore, hardcore" role="button">
+Every Time I Die - Gutter Phenomenon (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Alaska (2005-09-06)

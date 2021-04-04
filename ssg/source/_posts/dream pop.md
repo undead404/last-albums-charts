@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:40:01.290Z
+date: 2021-04-04T19:01:01.293Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -95,9 +95,6 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
 The Radio Dept. - Lesser Matters (2003-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
-Broadcast - Haha Sound (2003-08-09)
 </li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
 Death Cab for Cutie - Transatlanticism (2003-09-01)
@@ -275,6 +272,9 @@ FKA twigs - EP1 (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b082f5cb-0783-48e0-aa41-03e7d49f7631/5180943987-500.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - Wondrous Bughouse (2013-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
+Daughter - If You Leave (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e2ce692-11cc-4c21-aacb-c95b4e2a2564/4326167172-500.jpg" data-tags="dream pop" role="button">
 Still Corners - Strange Pleasures (2013-05-06)

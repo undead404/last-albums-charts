@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:14:01.254Z
+date: 2021-04-04T19:14:01.308Z
 title: "hair metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -48,7 +48,7 @@ Ratt - Out of the Cellar (1984)
 <li data-cover="https://img.discogs.com/p0RivTvNvywCM_BAq9mPfz5a12I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592241-1420027673-8932.jpeg.jpg" data-tags="hair metal" role="button">
 Autograph - Sign In Please (1984)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, glam rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/r0ak_Yh6xKRBcUUns0L0D4JhhBg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2107356-1264386999.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/65f0ee57-c6e6-4e2a-8812-dfd2b2404b1b/13480467728-500.jpg" data-tags="rock, 80s, hard rock" role="button">
@@ -105,7 +105,7 @@ White Lion - Pride (1987-04)
 <li data-cover="http://coverartarchive.org/release/aec11206-49ce-48d9-8a2d-754a696cfb3a/20752832103-500.jpg" data-tags="glam metal" role="button">
 Great White - Once Bitten (1987-04-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, glam metal" role="button">
+<li data-cover="https://img.discogs.com/mIcFtqhNUyEutEFq0CLReELGlrc=/fit-in/600x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994663-1431258603-9027.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
 Mötley Crüe - Girls, Girls, Girls (1987-07-10)
 </li>
 <li data-cover="https://img.discogs.com/JfDrrPTDdS04dLR1uOC9OPCZ0bk=/fit-in/550x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5773474-1402468848-3667.jpeg.jpg" data-tags="hard rock" role="button">
@@ -204,9 +204,6 @@ Danger Danger - Screw It! (1991-09-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Mötley Crüe - Decade of Decadence '81-'91 (1991-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/1444bf34-b7af-49f4-9a4d-70e4fe22b993/14024249240-500.jpg" data-tags="hard rock, hair metal, glam" role="button">
-Slaughter - The Wild Life (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/40cf3757-eeac-4667-85c2-a5402cc07654/11408947389-500.jpg" data-tags="hard rock" role="button">
 Lita Ford - The Best of Lita Ford (1992-07-28)
 </li>
@@ -215,6 +212,9 @@ Warrant - Dog Eat Dog (1992-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/48fa9a40-45e2-41a7-959d-33fb98cda709/6894169311-500.jpg" data-tags="hard rock" role="button">
 Whitesnake - Greatest Hits (1994-07-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc7aa9b7-7257-4319-b6d7-b6beecf88f5a/19863082097-500.jpg" data-tags="hair metal" role="button">
+Tuff - Religious Fix (1995)
 </li>
 <li data-cover="https://img.discogs.com/96VoNiUX2iPKCeqVEQqiFweZUPM=/fit-in/469x711/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5293018-1389796471-4390.jpeg.jpg" data-tags="hard rock" role="button">
 Dokken - Dysfunctional (1995-05-16)
@@ -230,6 +230,9 @@ Dokken - Hell To Pay (2004)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Buckcherry - 15 (2006-04-11)
+</li>
+<li data-cover="https://img.discogs.com/C7aNz_51nt1zoOT95vkg1mgjYck=/fit-in/354x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2250049-1326980269.jpeg.jpg" data-tags="hair metal, xxx" role="button">
+Tigertailz - Bezerk 2.0 (2006-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
@@ -267,14 +270,11 @@ Deafheaven - Demo (2010-06-01)
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
-<li data-cover="https://img.discogs.com/9a1VON74XBTu7wJGlvfziZuq1Ok=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930875-1517967292-9252.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Opus Eponymous (2010-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
-Justin Bieber - My Worlds Acoustic (2010-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)

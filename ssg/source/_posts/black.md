@@ -1,16 +1,16 @@
 ---
-date: 2021-04-03T18:12:01.193Z
+date: 2021-04-04T19:26:01.293Z
 title: "black: 100 albums you must listen to before you die"
 ---
 ![Wiz Khalifa - Black And Yellow (2010-09-14)](http://coverartarchive.org/release/b58e040e-e64c-4d77-bbec-5dde4755de8a/28279457366-500.jpg "Wiz Khalifa - Black And Yellow (2010-09-14)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">Skinny Puppy - Bites (1985)</li>
 <li data-cover="http://coverartarchive.org/release/682ac206-fba0-49ce-8a1c-37373b110ad1/7042253296-500.jpg" data-tags="80s" role="button">Black - Wonderful Life (1987-09-13)</li>
 <li data-cover="https://img.discogs.com/FA0sKAo13tvmM2Ajs_G6hBeWgs0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4225709-1359058284-9040.jpeg.jpg" data-tags="black metal" role="button">Satyricon - Nemesis Divina (1996-04-22)</li>
+<li data-cover="http://coverartarchive.org/release/e3223417-298a-49af-80d5-e5c875a16183/13323516676-500.jpg" data-tags="indie rock, rock, interpol" role="button">Interpol - The Black EP (2003-08-12)</li>
 <li data-cover="https://img.discogs.com/lR9OILM_9YX_f7xYHNGmT4wU7gw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2014630-1323624467.jpeg.jpg" data-tags="house, detroit, deep house" role="button">Moodymann - Black Mahogani (2004-05)</li>
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">Samael - Reign of Light (2004-10-11)</li>
 <li data-cover="http://coverartarchive.org/release/696527a2-2afc-4ba6-a5d7-c96f3f72aca5/6845856977-500.jpg" data-tags="black" role="button">Flipsyde - Happy Birthday (2005-11-11)</li>
-<li data-cover="https://img.discogs.com/pVa8ViN8xZ1a5LhIJQSwhwoTDNc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2840956-1572891029-1201.jpeg.jpg" data-tags="hip hop, dirty south, southern rap, south, gucci mane" role="button">Pastor Troy - Stay Tru (2006-04-18)</li>
+<li data-cover="https://img.discogs.com/qLVIPRd9t_b1AqRUsMG4tu2051Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9697839-1484950380-8710.jpeg.jpg" data-tags="hip hop, dirty south, southern rap, south, gucci mane" role="button">Pastor Troy - Stay Tru (2006-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/b58e040e-e64c-4d77-bbec-5dde4755de8a/28279457366-500.jpg" data-tags="black, yellow, wiz khalifa, and, blac a yel" role="button">Wiz Khalifa - Black And Yellow (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">Deafheaven - Roads to Judah (2011-04-26)</li>
 <li data-cover="https://img.discogs.com/hUdv6nfYch9OMH5DHNjlp-RfriM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5632265-1398499172-2998.jpeg.jpg" data-tags="post-black metal" role="button">Harakiri for the Sky - Aokigahara (2014-04-21)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
-Skinny Puppy - Bites (1985)
-</li>
 <li data-cover="https://img.discogs.com/zheQEkzuYjv5U1gVz-Vr5rHuRtY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-517703-1274205528.jpeg.jpg" data-tags="80s, new wave" role="button">
 The Communards - Communards (1986)
 </li>
@@ -42,13 +39,13 @@ Satyricon - The Shadowthrone (1994-09-12)
 <li data-cover="http://coverartarchive.org/release/a892e0b9-743c-305f-818c-0140426f38ff/3171610927-500.jpg" data-tags="black metal" role="button">
 Rotting Christ - Non Serviam (1994-10-10)
 </li>
-<li data-cover="https://img.discogs.com/R5lBRpamSUPprFvwb7kaHlU-e-c=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13804159-1615272345-2900.jpeg.jpg" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/M2-VhHpx3Qcm3KLg1JA-djRp6xY=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1170363-1615272506-7808.jpeg.jpg" data-tags="black metal" role="button">
 Helheim - Jormundgand (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/f019b278-c76f-4d3a-832f-8dccb2498c05/19730960612-500.jpg" data-tags="rnb" role="button">
 Adina Howard - Do You Wanna Ride? (1995-02-28)
 </li>
-<li data-cover="https://img.discogs.com/arKiISUSV0qoRIy4AI46jwB4qkM=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2078979-1262790041.jpeg.jpg" data-tags="uk, gothic rock" role="button">
+<li data-cover="https://img.discogs.com/6jgPxuB4HXdgd1W3-YL2fyxZn5A=/fit-in/300x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-580552-1134407352.jpeg.jpg" data-tags="uk, gothic rock" role="button">
 Peter Murphy - Cascade (1995-04-11)
 </li>
 <li data-cover="https://img.discogs.com/vHrPCUPr-rw4bMXnjmrEgVAlmQ0=/fit-in/597x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381673-1334294432.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
@@ -63,7 +60,7 @@ SWV - New Beginning (1996-04-23)
 <li data-cover="http://coverartarchive.org/release/907532a7-6336-4a5c-ac8a-763074578e7a/19391893490-500.jpg" data-tags="black metal" role="button">
 Diabolical Masquerade - Ravendusk In My Heart (1996-12)
 </li>
-<li data-cover="https://img.discogs.com/oi4HGBr1manNRn5Q2y9NL12Lzx4=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12954081-1545244555-9253.jpeg.jpg" data-tags="hip-hop, underground rap, black, alternative rap, midwest, underground hiphop, alternative hiphop, hi tek" role="button">
+<li data-cover="https://img.discogs.com/WGokkJBfxq0Yn6eyLhPBxPjs5Qo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-427659-1393202789-1088.jpeg.jpg" data-tags="hip-hop, underground rap, black, alternative rap, midwest, underground hiphop, alternative hiphop, hi tek" role="button">
 Mood - Doom (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9a49fa5-b9a9-4db1-98ed-71061f582bf2/1122680644-500.jpg" data-tags="black metal" role="button">
@@ -75,23 +72,17 @@ Emperor - Reverence (1997-03-12)
 <li data-cover="https://img.discogs.com/BnsgRIQxGt6QN05UtwQIY9JL01Y=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17938378-1616291813-3629.jpeg.jpg" data-tags="black, notoriusbig" role="button">
 The Notorious B.I.G. - Mo Money Mo Problems (1997-07-21)
 </li>
-<li data-cover="https://img.discogs.com/TuDcXmNX_theIWcIRH3JVpM3RnQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5409696-1393570857-4937.jpeg.jpg" data-tags="black metal" role="button">
-Graveworm - Underneath the Crescent Moon (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/f80514c7-6513-4262-83d4-f8c89d56e54e/1122915430-500.jpg" data-tags="black metal, symphonic black metal" role="button">
-Agathodaimon - Blacken the Angel (1998-06-02)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Gehenna - Adimiron Black (1998-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1a807c4-544f-466f-b7fb-ee937cbd40fe/5475890539-500.jpg" data-tags="black metal" role="button">
 Bal-Sagoth - Battle Magic (1998-11-02)
 </li>
-<li data-cover="https://img.discogs.com/zUA89diuu3IBdddG6NO6JR07hdE=/fit-in/599x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397462-1283014680.jpeg.jpg" data-tags="black metal" role="button">
-Lord Belial - Unholy Crusade (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/436ea4da-befa-49be-8d75-66b22f261574/7443557677-500.jpg" data-tags="black metal, metal, melodic black metal" role="button">
 Rotting Christ - Sleep Of The Angels (1999-01-04)
+</li>
+<li data-cover="https://img.discogs.com/7W1ZPMBojNKLDGPRQycyTCOn9oE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62688-1429117982-7206.jpeg.jpg" data-tags="disco, funk, soul, dance" role="button">
+Chic - Live At The Budokan (1999-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3016793-7d45-40fd-983d-f2c7134e278a/25200673286-500.jpg" data-tags="pop, female vocalists, dance, latin, brasil" role="button">
 Ivete Sangalo - Ivete Sangalo (1999-10-11)
@@ -117,6 +108,9 @@ Profanum - Musaeum Esotericum (2001-03)
 <li data-cover="http://coverartarchive.org/release/8b3310df-e9ca-4ce9-ab5a-2090d7ba2aaf/19879101265-500.jpg" data-tags="black metal" role="button">
 Thorns - Thorns (2001-03-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/52d1c18b-7e00-4d59-90aa-ae41d5f9c8ca/7844092774-500.jpg" data-tags="viking metal" role="button">
+Ancient Rites - Dim Carcosa (2001-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/c5767704-3284-4b79-b19b-ce5aed07841b/17269026966-500.jpg" data-tags="hip hop, rap, dirty south, southern rap, south" role="button">
 Pastor Troy - Face Off (2001-05-22)
 </li>
@@ -140,6 +134,9 @@ Astarte - Quod Superius Sicut Inferius (2002-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0915fe22-4bc4-35bd-becf-2e393df651b2/2614876767-500.jpg" data-tags="ivete sangalo, spanish, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, hot, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
 Ivete Sangalo - Se Eu Não Te Amasse Tanto Assim (2002-07-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grindcore, death metal, industrial death metal" role="button">
+The Berzerker - Dissimulate (2002-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b7ff05b-65b4-4ca2-a10b-9957bf671083/14814598139-500.jpg" data-tags="black metal, electronic, doom metal, gothic, doom, gothic metal, female vocals, austria, black, dark metal, sexy album covers, extreme gothic metal" role="button">
 Golden Dawn - Masquerade (2003-02-24)
@@ -165,6 +162,9 @@ Akercocke - Choronzon (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/767f8859-64a3-4829-bc3d-836ee3e44462/17702702196-500.jpg" data-tags="pop, soul, female vocalists, singer-songwriter, dance, latin, brasil, rnb, hot, nelly furtado, shakira" role="button">
 Ivete Sangalo - MTV Ao Vivo (2004-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/bcd1474d-1242-3190-b8da-ed87a2547f58/25788869776-500.jpg" data-tags="avant-garde, avant-garde metal, experimental" role="button">
+Peccatum - Lost In Reverie (2004-04-19)
+</li>
 <li data-cover="https://img.discogs.com/lR9OILM_9YX_f7xYHNGmT4wU7gw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2014630-1323624467.jpeg.jpg" data-tags="house, detroit, deep house" role="button">
 Moodymann - Black Mahogani (2004-05)
 </li>
@@ -182,6 +182,9 @@ B5 - B5 (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/82d03e9a-c800-434b-9915-c0cb52f647b5/4878350488-500.jpg" data-tags="black metal, melodic black metal, symphonic black metal" role="button">
 Graveworm - (N)utopia (2005-01-11)
+</li>
+<li data-cover="https://img.discogs.com/7IZTE7qxONX01M2Bf-Dkcd0aJG8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1109128-1594336962-6421.jpeg.jpg" data-tags="progressive metal, avant-garde metal, progressive black metal" role="button">
+Ram-Zet - Intra (2005-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c8f4b63-5db4-43dc-bd8a-af4e45360a8a/945973128-500.jpg" data-tags="funeral doom metal, doom metal" role="button">
 Ataraxie - Slow Transcending Agony (2005-06)
@@ -210,7 +213,7 @@ w-inds. - THANKS (2006-03-15)
 <li data-cover="http://coverartarchive.org/release/e9301fb6-afaf-45e6-9ad6-86fab6c8790c/8024078138-500.jpg" data-tags="gothic, death, symphonic metal, black, dark metal, opera metal, french metal, metal opera, dark metal opera, interesting - need more listening" role="button">
 Mylidian - Birth of the prophet (2006-04-10)
 </li>
-<li data-cover="https://img.discogs.com/pVa8ViN8xZ1a5LhIJQSwhwoTDNc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2840956-1572891029-1201.jpeg.jpg" data-tags="hip hop, dirty south, southern rap, south, gucci mane" role="button">
+<li data-cover="https://img.discogs.com/qLVIPRd9t_b1AqRUsMG4tu2051Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9697839-1484950380-8710.jpeg.jpg" data-tags="hip hop, dirty south, southern rap, south, gucci mane" role="button">
 Pastor Troy - Stay Tru (2006-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/17a846de-17d7-4bba-b628-ffecf724d5e1/6237246119-500.jpg" data-tags="black metal" role="button">
@@ -228,9 +231,6 @@ Ben Frost - Theory of Machines (2006-11)
 <li data-cover="https://img.discogs.com/5dHkjVyXzUyl7ARTXSw_ndemQtk=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816952-1305798242.jpeg.jpg" data-tags="doom metal" role="button">
 Forgotten Tomb - Negative Megalomania (2007-01-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/264b616e-054c-435b-8d21-573fa874a311/1644652526-500.jpg" data-tags="black metal, black, ambient black metal" role="button">
-Striborg - Ghostwoodlands (2007-01-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab7801ce-90eb-4bf3-8997-f3973769b6ad/4755721443-500.jpg" data-tags="black metal" role="button">
 Astarte - Demonized (2007-02-26)
 </li>
@@ -243,10 +243,10 @@ Crionics - Neu Throne (2007-06-16)
 <li data-cover="http://coverartarchive.org/release/31d6e34e-48b8-4893-877c-fc9c736200c4/2411022826-500.jpg" data-tags="black metal" role="button">
 Peste Noire - Folkfuck Folie (2007-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/90b29336-d865-4ed6-a471-ac5722d86e4c/10079866413-500.jpg" data-tags="hip-hop, chillout, jazz, chill, soul, reggae, sexy, dance, funk, house, bass, club, rnb, fun, black, fucking great, test mt" role="button">
+<li data-cover="http://coverartarchive.org/release/90b29336-d865-4ed6-a471-ac5722d86e4c/10079866413-500.jpg" data-tags="hip-hop, chillout, jazz, chill, soul, reggae, dance, funk, house, bass, club, rnb, fun, black, fucking great, test mt" role="button">
 Smoove - Gravy: Remixes & Rarities (2007-06-25)
 </li>
-<li data-cover="https://img.discogs.com/mrqN6wdj-TZSWogh0iHECxcxJlo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11006966-1597106527-4900.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
+<li data-cover="https://img.discogs.com/O7UcjqX_88FLwE3R1guD5E8M9KY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2018175-1258835719.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Drudkh - Estrangement (2007-08-31)
 </li>
 <li data-cover="https://img.discogs.com/EmF4gPMDUoJI4AbWzcYj-xWgMLM=/fit-in/537x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130112-1194467176.png.jpg" data-tags="trip-hop, indie, experimental, shoegaze, cello, unique, finnish, intense, female vocalist, 00's, helsinki, black, dynamic, finland, deer, persuader, underplayed, great sound, pooma, raindeer, satumaa-tango" role="button">

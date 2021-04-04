@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:47:06.967Z
+date: 2021-04-04T19:22:01.384Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
@@ -90,14 +90,11 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/c23de1c0-9fe7-4d49-8eef-053f02bb5f97/27361541152-500.jpg" data-tags="60s, classic rock" role="button">
 Buffalo Springfield - Buffalo Springfield (1973-11-12)
 </li>
-<li data-cover="https://img.discogs.com/atWxK19u6hfECN79SM7o3WOb-mY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-992821-1181740835.jpeg.jpg" data-tags="70s, folk, folk rock, classic rock, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/r-MIHpJTdzNf_7CGO5ATqLzzbXo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2935178-1606097219-6523.jpeg.jpg" data-tags="70s, folk, folk rock, classic rock, singer-songwriter" role="button">
 Bob Dylan - Dylan (1973-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5f8794-44dc-3e77-8344-481d97f7545e/5260506449-500.jpg" data-tags="classic rock, folk rock" role="button">
 Crosby, Stills, Nash & Young - So Far (1974-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/761bc982-f445-4cc7-be4e-c71044debb01/13878419287-500.jpg" data-tags="classic rock" role="button">
-The Band - The Best of the Band (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
@@ -107,9 +104,6 @@ Jeff Buckley - Grace (1994-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
-Cat Power - What Would the Community Think (1996-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
@@ -126,6 +120,9 @@ Blackmore's Night - Under A Violet Moon (1999-04-21)
 <li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
 Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 </li>
+<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
+Gary Jules - Trading Snakeoil For Wolftickets (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/3e8c9658-be99-47a8-9b32-f49591b56fec/2628868943-500.jpg" data-tags="folk rock, folk, an danzza" role="button">
 Blackmore's Night - Fires at Midnight (2001-06-20)
 </li>
@@ -138,13 +135,10 @@ Beck - Sea Change (2002-09-21)
 <li data-cover="http://coverartarchive.org/release/bf1ee4a6-dc3a-451a-b7a6-8c3294a86879/5757136506-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Arcade Fire (2003-06-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8c60f11-28fb-45f5-8ba2-39514a237b0c/2077182623-500.jpg" data-tags="folk rock, folk" role="button">
-Blackmore's Night - Ghost Of A Rose (2003-06-23)
-</li>
 <li data-cover="https://img.discogs.com/0aoz5NdPGJFBjH26O1R2DMeUs_U=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4406699-1495594422-6621.jpeg.jpg" data-tags="pop, rock, 80s, folk, scottish, folk rock" role="button">
 The Proclaimers - Finest (2003-09-01)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -171,7 +165,7 @@ Regina Spektor - Begin to Hope (2006-06-13)
 <li data-cover="https://img.discogs.com/xMDl0TTkbhbcdH10siIS-JVxT4o=/fit-in/595x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1385920-1215152190.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, folk, singer-songwriter, folk rock" role="button">
+<li data-cover="https://img.discogs.com/tvXhSCSDJAEidRrxR-cGSWCRJqc=/fit-in/300x271/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767443-1157089908.jpeg.jpg" data-tags="indie, folk, singer-songwriter, folk rock" role="button">
 The Mountain Goats - Get Lonely (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/32bc0869-4cae-444a-8792-c17dd5d314fb/21233023204-500.jpg" data-tags="indie" role="button">
@@ -293,6 +287,12 @@ Mumford & Sons - Babel (2012-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
+Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/cffe4b7b-0f58-45e6-96be-91d4a3ead48c/4776296549-500.jpg" data-tags="folk, acoustic, folk rock, need to listen" role="button">
+Frank Turner - Tape Deck Heart (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a07df9fe-a276-44ed-99f8-41bfcd53daa3/4764876876-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Edward Sharpe & The Magnetic Zeros (2013-07-23)

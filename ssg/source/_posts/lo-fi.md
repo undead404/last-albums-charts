@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:45:01.560Z
+date: 2021-04-04T19:31:01.290Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)](http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg "Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)")
@@ -57,9 +57,6 @@ Guided by Voices - Alien Lanes (1995-04-04)
 <li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Neutral Milk Hotel - On Avery Island (1996-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/7edae664-8e14-3ca1-8c74-71b1d4413c1b/19949390521-500.jpg" data-tags="alternative" role="button">
-Beck - Odelay (1996-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
 </li>
@@ -87,9 +84,6 @@ The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/8381f1b2-33d0-4c43-a91a-2d83812edfbd/1436605758-500.jpg" data-tags="indie" role="button">
-Sparklehorse - It's A Wonderful Life (2001-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/194ba0b8-8f76-3122-b5bd-6e2e6d8937dc/7202965936-500.jpg" data-tags="lo-fi, for rainy days, 00s, minimal indie" role="button">
 Vincent Gallo - When (2001-10-01)
 </li>
@@ -99,10 +93,10 @@ The Mountain Goats - All Hail West Texas (2002-02-19)
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -168,6 +162,9 @@ Girls - Album (2009-09-22)
 <li data-cover="https://img.discogs.com/rqlDkWsIq0ZHk6TkEGNc8MldXxo=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8450189-1466516845-6583.jpeg.jpg" data-tags="indie, indie rock, lo-fi, singer songwriter, 00s, indie-folk, matador, matador records, bbc6" role="button">
 Kurt Vile - Childish Prodigy (2009-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/c0872afa-87f9-4272-a5c2-2f839b6b0793/6289001231-500.jpg" data-tags="lo-fi" role="button">
+Small Black - Small Black EP (2009-10-13)
+</li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
 </li>
@@ -213,9 +210,6 @@ Smith Westerns - Dye It Blonde (2011-01-18)
 <li data-cover="http://coverartarchive.org/release/88494ad8-a7aa-4fcf-8334-8b563f1db3a6/2094856309-500.jpg" data-tags="folk" role="button">
 Iron & Wine - Kiss Each Other Clean (2011-01-24)
 </li>
-<li data-cover="https://img.discogs.com/_pX56AIo9tfD9m8aM3BbTF3Ywf0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2724134-1298166628.jpeg.jpg" data-tags="indie rock, indie" role="button">
-Yuck - Yuck (2011-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
@@ -228,7 +222,7 @@ Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 <li data-cover="http://coverartarchive.org/release/d9990af1-9604-3324-bf90-9f6ea46a3b02/7201990812-500.jpg" data-tags="electronic, electronica, experimental, lo-fi, warp, reflective, insane, warp records, trippy, unorganized, mind bending, stephen wilkinson" role="button">
 Bibio - Mind Bokeh (2011-03-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi, vinyl" role="button">
+<li data-cover="http://coverartarchive.org/release/24c7ed54-6941-441d-aaa4-d06e51fc07e2/3936294274-500.jpg" data-tags="lo-fi" role="button">
 Dirty Beaches - Badlands (2011-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
@@ -242,9 +236,6 @@ Cults - Cults (2011-05-30)
 </li>
 <li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">
 Clams Casino - Rainforest (2011-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/299589a0-fe31-4dd8-b343-fe362f9a3dbf/15701340234-500.jpg" data-tags="indie pop, indie rock" role="button">
-Unknown Mortal Orchestra - Unknown Mortal Orchestra (2011-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
@@ -291,8 +282,17 @@ The Antlers - Undersea (2012-07-24)
 <li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
 Mac DeMarco - 2 (2012-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/c6f44f26-f8ec-4c0b-a4ba-b4211cb95f26/13489057096-500.jpg" data-tags="indie rock" role="button">
+Unknown Mortal Orchestra - II (2013-02-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
+Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/877221c2-a4fe-4c34-b89f-8d43adb31d80/3707477205-500.jpg" data-tags="indie, rock, indie rock, lo-fi, garage rock, psychedelic rock, san francisco, 10s, my collection, 2013 releases, castle face, rel-mnth:2013:april, got this one on vinyl, wfmu heavily played records" role="button">
 Thee Oh Sees - Floating Coffin (2013-04-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/55b6c7e0-a2f3-45d9-b4a1-e86f7292d17b/14492410043-500.jpg" data-tags="electronic, indie, indie pop, lo-fi, chillwave, jagjaguwar" role="button">
+Small Black - Limits Of Desire (2013-05-14)
 </li>
 <li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">
 Washed Out - Paracosm (2013-08-12)

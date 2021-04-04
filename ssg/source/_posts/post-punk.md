@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:29:01.393Z
+date: 2021-04-04T19:30:01.408Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -66,13 +66,13 @@ Bauhaus - In the Flat Field (1980-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
 </li>
-<li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/W2Wg9PCWvMI0BDTucd6MNTm2a0k=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2345466-1278545921.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d633474-f161-470b-b47c-cf6383f235a9/26974152489-500.jpg" data-tags="post-punk" role="button">
 The Cure - Faith (1981-04-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/XOPyRLfC31I9Dm7U3IXpj-REJnI=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542812-1459165971-6457.jpeg.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - Juju (1981-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3834afa-e54b-467f-87fb-f0b744bdf3ab/26204900712-500.jpg" data-tags="post-punk, gothic rock" role="button">
@@ -99,7 +99,7 @@ U2 - War (1983-02-28)
 <li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
 Violent Femmes - Violent Femmes (1983-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
+<li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
@@ -144,9 +144,6 @@ The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 80s" role="button">
 The Jesus and Mary Chain - Darklands (1987-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
-The Psychedelic Furs - All Of this And Nothing (1988)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd58e50b-bf7b-31a1-bd82-47e7d4a2a77c/2197413454-500.jpg" data-tags="80s, post-punk" role="button">
 The Church - Starfish (1988-02-16)
 </li>
@@ -162,7 +159,7 @@ The Cure - Disintegration (1989-05-01)
 <li data-cover="https://img.discogs.com/WOaRMRG6fv7SVBDgiWNapcJHm0M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404236-1301203330.jpeg.jpg" data-tags="post-punk" role="button">
 Swans - White Light From the Mouth of Infinity (1991-05-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/QCYd0wbBuBXY6Pa0PO9RI94p0oo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-679682-1146862594.jpeg.jpg" data-tags="indie rock" role="button">
 The Wedding Present - Seamonsters (1991-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
@@ -213,7 +210,7 @@ Editors - The Back Room (2005-01-01)
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">
 Bloc Party - Silent Alarm (2005-02-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+<li data-cover="https://img.discogs.com/fx-3qtaLGu4XcxypfYKwWSLP_i0=/fit-in/549x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501014-1389844857-4827.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">
@@ -243,13 +240,13 @@ The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/JE48EDzF9aL5pN0N4zcrQ9eW7aE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4433334-1376410430-7315.jpeg.jpg" data-tags="post-punk" role="button">
 Nick Cave & The Bad Seeds - Dig, Lazarus, Dig!!! (2008-02-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, post-punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/P_bW-u-kx2WhrGw0d88zMMvt9VY=/fit-in/300x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501047-1394994335-8706.jpeg.jpg" data-tags="alternative, post-punk, alternative rock" role="button">
 The Cure - 4:13 Dream (2008-10-24)
 </li>
 <li data-cover="https://img.discogs.com/7ymhqa2eFVP5TMYG5e5p3S1LUmM=/fit-in/526x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574748-1229522744.jpeg.jpg" data-tags="indie rock" role="button">
@@ -273,7 +270,7 @@ The xx - xx (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
 Arctic Monkeys - Humbug (2009-08-19)
 </li>
-<li data-cover="https://img.discogs.com/mTi9bBoVjAX4TqxdxLH3EhLLqu8=/fit-in/595x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1996333-1257597527.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
+<li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/daaa313f-2f30-39e7-a8f0-511276fc7341/19193385025-500.jpg" data-tags="indie rock" role="button">
@@ -320,5 +317,8 @@ Have a Nice Life - The Unnatural World (2014-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/abea24af-aad8-4596-80ce-2b367c2d88be/7446433453-500.jpg" data-tags="indie rock" role="button">
 Interpol - El Pintor (2014-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/5d5fc614-25fe-4b89-8747-f4357f7a7757/9260448034-500.jpg" data-tags="post-punk" role="button">
+Viet Cong - Viet Cong (2015-01-20)
 </li>
 </ol>

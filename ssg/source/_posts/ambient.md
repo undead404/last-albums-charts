@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:39:01.326Z
+date: 2021-04-04T19:42:01.352Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -93,9 +93,6 @@ Bohren & der Club of Gore - Sunset Mission (2000-02-25)
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, glitch, electronica, post-rock" role="button">
-múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
@@ -117,7 +114,7 @@ Jon Hopkins - Opalescent (2001-07-30)
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
+<li data-cover="https://img.discogs.com/fz2gCGNE1ZDPji-D3fcK8oKAzxQ=/fit-in/472x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577550-1256586457.jpeg.jpg" data-tags="ambient, electronic" role="button">
 Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
@@ -201,7 +198,7 @@ Enya - Amarantine (2005-11-18)
 <li data-cover="http://coverartarchive.org/release/bdbeeba8-11c2-49aa-b01d-eb445af7f44c/4469616343-500.jpg" data-tags="ambient" role="button">
 Helios - Eingya (2006-06-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/GPy5UWU-bunOlZMGD56Pky5MSg0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789533-1532239155-6833.jpeg.jpg" data-tags="post-rock" role="button">
 The Album Leaf - Into The Blue Again (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
@@ -311,6 +308,9 @@ Oneohtrix Point Never - Replica (2011-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/f7e3af8a-ce61-4388-9f68-ff73882203ad/15963196527-500.jpg" data-tags="idm" role="button">
+Jon Hopkins - Immunity (2013-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)

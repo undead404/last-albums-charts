@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:55:01.254Z
+date: 2021-04-04T18:54:01.316Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -7,7 +7,7 @@ title: "melancholic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">Eels - Beautiful Freak (1996-08-05)</li>
-<li data-cover="https://img.discogs.com/lqdcerK4c8xbpCYjmTHXeMaMjdQ=/fit-in/389x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528881-1608936675-9430.jpeg.jpg" data-tags="progressive rock" role="button">Anathema - Judgement (1999-06-21)</li>
+<li data-cover="https://img.discogs.com/bXYl9l3hLH72MLJyrk8HBCnYvW8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371766-1443128950-1064.jpeg.jpg" data-tags="progressive rock" role="button">Anathema - Judgement (1999-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">Antimatter - Planetary Confinement (2005-07-25)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
@@ -87,7 +87,7 @@ Cat Power - Moon Pix (1998-09-22)
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
 </li>
-<li data-cover="https://img.discogs.com/lqdcerK4c8xbpCYjmTHXeMaMjdQ=/fit-in/389x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528881-1608936675-9430.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/bXYl9l3hLH72MLJyrk8HBCnYvW8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371766-1443128950-1064.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - Judgement (1999-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0ff9610-23ad-4f33-b710-c28242482545/3596965456-500.jpg" data-tags="doom metal, depressive rock" role="button">
@@ -96,7 +96,7 @@ Katatonia - Tonight's Decision (1999-08-31)
 <li data-cover="https://img.discogs.com/nb1EnJcA86CFw7ZQDmNBBINP0CA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2947897-1442694714-5363.jpeg.jpg" data-tags="melancholic" role="button">
 Anathema - Resonance (2001-09-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, dark ambient" role="button">
+<li data-cover="https://img.discogs.com/TCfCFFygw_4fOymnI55HbWwp1u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445333-1305669402.png.jpg" data-tags="ambient, dark ambient" role="button">
 Antimatter - Saviour (2001-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">
@@ -152,6 +152,9 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/426b3f5f-9aeb-4978-9b33-1699ff208be7/21277413638-500.jpg" data-tags="piano, ambient" role="button">
 Goldmund - Corduroy Road (2005-02-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
+Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">
 Antimatter - Planetary Confinement (2005-07-25)
@@ -219,9 +222,6 @@ Sea Wolf - Leaves In The River (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/be0d3350-c06e-4f65-b43e-35454398d9d6/17591709960-500.jpg" data-tags="piano, ambient" role="button">
 Peter Broderick - Docile (2007-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/f7fda273-5504-47f0-a249-1d646ea3d517/5930060763-500.jpg" data-tags="neo-classical, contemporary classical, modern classical, neoclassical, post-classical, piano, neo classical, postclassical, post classical" role="button">
-Ólafur Arnalds - Variations of Static (2008-05-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
 Spiritualized - Songs In A&E (2008-05-26)
 </li>
@@ -234,7 +234,7 @@ Goldmund - The Malady Of Elegance (2008-07-28)
 <li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Anathema - Hindsight (2008-08-25)
 </li>
-<li data-cover="https://img.discogs.com/Llq58xhUxQGqEi0cWZG6ehU_Zu8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3596746-1337393999-5756.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/PGPkW2-5DksDRPDt1kwbFo5gMHM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515642-1230909448.jpeg.jpg" data-tags="folk" role="button">
 Peter Broderick - Home (2008-09-23)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">

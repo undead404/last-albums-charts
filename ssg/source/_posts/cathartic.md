@@ -1,16 +1,16 @@
 ---
-date: 2021-04-04T10:31:01.349Z
+date: 2021-04-04T18:46:01.477Z
 title: "cathartic: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">The Wedding Present - Seamonsters (1991-06-01)</li>
-<li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">A Tribe Called Quest - Midnight Marauders (1993-11-09)</li>
+<li data-cover="https://img.discogs.com/QCYd0wbBuBXY6Pa0PO9RI94p0oo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-679682-1146862594.jpeg.jpg" data-tags="indie rock" role="button">The Wedding Present - Seamonsters (1991-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">Jimmy Eat World - Bleed American (2001-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/ee76a845-926d-4120-b83e-a2d543918428/25969450171-500.jpg" data-tags="emo, post-hardcore" role="button">Hidden in Plain View - Life In Dreaming (2004)</li>
-<li data-cover="https://img.discogs.com/PgmxNwMFyiRVBRe3kVSG6V4Tx-E=/fit-in/144x144/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567537-1132425701.gif.jpg" data-tags="indie rock" role="button">Gossip - Standing in the Way of Control (2005)</li>
+<li data-cover="https://img.discogs.com/HskuMr3aSW8eNVDhMC6hxxwEzQ8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742862-1154197954.jpeg.jpg" data-tags="indie rock" role="button">Gossip - Standing in the Way of Control (2005)</li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
+<li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg" data-tags="punk, revolution, hard rock, energetic, angry, late night, passionate, fierce, intense, fiery, confrontational, earnest, snide, raucous, drinking, road trip, protest, nighttime, rebellious, joy, exuberant, empowerment, cathartic, rowdy, volatile, gutsy, sprawling, british punk, dance-rock, tgif, brash, guys night out, hanging out, reckless, night driving, open road" role="button">The Clash - Hits Back (2013-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/0dff2fd4-c291-446e-b53b-d95f8acfccdd/8030954467-500.jpg" data-tags="pop, epic, angular, late night, euphoric, confident, complex, uplifting, strong, yearning, youth, nocturnal, nighttime, exuberant, defiant, passion, cathartic, stylish, swaggering, lively, day driving, shimmering, visceral, sprawling, urgent, hanging out, night driving, kinetic, open road" role="button">Eliot Sumner - Information (2014-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">Perfume Genius - Too Bright (2014-09-22)</li>
@@ -24,31 +24,28 @@ _________________
 <li data-cover="http://coverartarchive.org/release/ffee886d-62d8-4bb3-a80c-82817020a1d8/3706327795-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Time Fades Away (1973-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
+<li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
 </li>
-<li data-cover="https://img.discogs.com/anF8KBS7q7rgxbwX13K8Y1FoS60=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361394-1363341201-9326.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
+<li data-cover="https://img.discogs.com/mcW4DnPI0AAvxBcUPFe5rcTHeTI=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6671642-1472371151-8679.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
 The Jam - In the City (1977-05-20)
 </li>
-<li data-cover="https://img.discogs.com/uuYhjMzHV6mIp89l0Z0d6h60dTw=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-444545-1482946886-3575.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
-Richard & Linda Thompson - Shoot Out the Lights (1982)
+<li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
+Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://img.discogs.com/vGEXEICi-_fw0vFYhU8RF8upqeM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501399-1310355464.jpeg.jpg" data-tags="rock" role="button">
-The Who - It's Hard (1982-09-04)
+<li data-cover="https://img.discogs.com/i2hjF3qQugwjM-CCzbXvKILk9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774793-1166295303.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
+Richard & Linda Thompson - Shoot Out the Lights (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6233602-7a77-4a1a-b405-d3d75a9c631c/14999562820-500.jpg" data-tags="psychedelic" role="button">
 The Dream Syndicate - The Days of Wine and Roses (1982-10-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk" role="button">
+<li data-cover="https://img.discogs.com/TGMozpDk06vIDR9MPg6QU2rNx2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12544002-1537317625-2915.jpeg.jpg" data-tags="punk" role="button">
 X - More Fun in the New World (1983-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/405b99d3-3157-49f9-a6d9-da8602d09d77/17671304804-500.jpg" data-tags="80s, rock" role="button">
 Legião Urbana - Legião Urbana (1985-01-02)
 </li>
-<li data-cover="https://img.discogs.com/nwQm0wnjkHpPAOn12ki3PZojC_k=/fit-in/593x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-535339-1268563129.jpeg.jpg" data-tags="alternative rock" role="button">
-Hüsker Dü - Flip Your Wig (1985-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, college rock, new zealand rock" role="button">
+<li data-cover="https://img.discogs.com/Z5QadLnYHdv_PkD9Kysp7TF0rXQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-572707-1154680371.jpeg.jpg" data-tags="80s, college rock, new zealand rock" role="button">
 The Chills - Kaleidoscope World (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/29ccd352-eefc-4301-9ad2-1662c0aba437/3173120841-500.jpg" data-tags="80s" role="button">
@@ -59,9 +56,6 @@ R.E.M. - Lifes Rich Pageant (1986-07-28)
 </li>
 <li data-cover="https://img.discogs.com/DWDDxYRoH5-1_AQ9NrCYFiaK7pc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667536-1471605208-1041.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
-</li>
-<li data-cover="https://img.discogs.com/k9mC-jgRRNbireimFGDNOpnsDgU=/fit-in/438x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3440928-1330486232.jpeg.jpg" data-tags="hardcore punk" role="button">
-Black Flag - Wasted...Again (1987-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a93c3163-90af-44cf-82bf-deacfdad55b6/18142550474-500.jpg" data-tags="indie rock, garage rock revival, searching, garage rock, intense, aggressive, menacing, confrontational, garage, yearning, garage punk, punk blues, spring, bitter, brooding, happiness, harsh, bleak, cathartic, volatile, visceral, urgent, angst-ridden, brash, destiny, victory, starting out, pogge" role="button">
 Dead Moon - In the Graveyard (1988)
@@ -78,35 +72,32 @@ Bob Mould - Workbook (1989-05-02)
 <li data-cover="https://img.discogs.com/W8A4v5z88ipMQ4n14waX-E5rgY8=/fit-in/543x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841631-1359313838-7780.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
-<li data-cover="https://img.discogs.com/juwf23D-lKs7bntAohRfeF9z58g=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4095548-1355074312-1904.jpeg.jpg" data-tags="punk, rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/r4kRB_nIAYMeR6D7iWuhvZBoNTY=/fit-in/600x334/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11705365-1520967247-1779.jpeg.jpg" data-tags="punk, rock, hard rock" role="button">
 Iggy Pop - Brick By Brick (1990-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c99e627-4a01-4429-9058-2c8dccc3ecef/20987488351-500.jpg" data-tags="hardcore punk" role="button">
 Negative Approach - Total Recall (1990-09-24)
 </li>
-<li data-cover="https://img.discogs.com/c9hBk6InKYntC6Do7Zg25NleCag=/fit-in/499x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419960-1448735609-8974.jpeg.jpg" data-tags="90s" role="button">
+<li data-cover="https://img.discogs.com/32qiQeab2R3RvWNXY3c_Lnfl4QU=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935904-1467031460-3503.jpeg.jpg" data-tags="90s" role="button">
 Dinosaur Jr. - Green Mind (1991-02-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/QCYd0wbBuBXY6Pa0PO9RI94p0oo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-679682-1146862594.jpeg.jpg" data-tags="indie rock" role="button">
 The Wedding Present - Seamonsters (1991-06-01)
 </li>
 <li data-cover="https://img.discogs.com/-PmmEbK1UmIcoAm2UVYx3FG8CT0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386314-1517480289-3879.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Sebadoh - III (1991-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/e_SslAmovhsXK1DpjlHEoktdC5Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081136-1192439541.jpeg.jpg" data-tags="post-punk" role="button">
 The Birthday Party - Hits (1992-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
 Jimi Hendrix - First Rays of the New Rising Sun (1993)
 </li>
-<li data-cover="https://img.discogs.com/IQG3sgS32e_kieO2gxmldpmYwHU=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4471475-1375312996-7026.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
+<li data-cover="https://img.discogs.com/BpORMXrTrP0_prtni1QOBOQl8zk=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423146-1237613420.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
 Dinosaur Jr. - Where You Been (1993-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/60fa0694-7239-33bb-9e93-2114e7f32ceb/9752304202-500.jpg" data-tags="rock, alternative rock" role="button">
 Urge Overkill - Saturation (1993-06-21)
-</li>
-<li data-cover="https://img.discogs.com/lbgvX7bd4ShtlT_kfdk9Cb9rgrM=/fit-in/599x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515400-1225385807.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
-The Cure - Show (1993-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Midnight Marauders (1993-11-09)
@@ -138,13 +129,13 @@ Modest Mouse - The Fruit That Ate Itself (1997-05-13)
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 </li>
-<li data-cover="https://img.discogs.com/ogAdxAzAVI3WHa9Twx-HxTIMmYM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-668910-1145575708.jpeg.jpg" data-tags="experimental, alternative" role="button">
+<li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
 Cat Power - Moon Pix (1998-09-22)
 </li>
-<li data-cover="https://img.discogs.com/yrgSllw4Li3wUsSIwqgxVh7zA2A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14721861-1580315448-5431.jpeg.jpg" data-tags="pop, folk, jewel" role="button">
+<li data-cover="https://img.discogs.com/yddcCoFsO9U_SADeJAtvIt7ZHBI=/fit-in/503x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445893-1330696514.jpeg.jpg" data-tags="pop, folk, jewel" role="button">
 Jewel - Spirit (1998-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bba6681-d372-4957-96ac-81c1a2f6519c/17160038685-500.jpg" data-tags="alternative rock, christian rock" role="button">
@@ -171,6 +162,9 @@ Sinéad O'Connor - Faith and Courage (2000-06-13)
 <li data-cover="http://coverartarchive.org/release/662c6d90-7244-4cba-9841-f11704995e6b/2579434865-500.jpg" data-tags="emo" role="button">
 Sunny Day Real Estate - The Rising Tide (2000-06-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/71789b50-3b8b-4601-a027-75b8c15bc2b7/12942561796-500.jpg" data-tags="alternative rock" role="button">
+Switchfoot - Learning to Breathe (2000-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/51bf08c8-b8dd-4f16-852e-0f19d6adb866/16566568638-500.jpg" data-tags="electronic, darkwave" role="button">
 Chiasm - Disorder (2001-03-27)
 </li>
@@ -195,7 +189,7 @@ The Microphones - Mount Eerie (2002-12-12)
 <li data-cover="http://coverartarchive.org/release/3e5e8698-8ed5-4807-ba58-dc91e1685a37/17600926681-500.jpg" data-tags="barsuk" role="button">
 The Long Winters - When I Pretend to Fall (2003-05-06)
 </li>
-<li data-cover="https://img.discogs.com/3cIorLliSL8Yqf4Re3N25koIc1M=/fit-in/230x226/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6387632-1417987339-2129.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/mmRaVbai-ToDt76_6__TagAYm7I=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1305762-1224905953.jpeg.jpg" data-tags="indie rock" role="button">
 British Sea Power - The Decline of British Sea Power (2003-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
@@ -216,10 +210,10 @@ John Frusciante - The Will to Death (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
 Antony and the Johnsons - The Lake (2004-11-02)
 </li>
-<li data-cover="https://img.discogs.com/PgmxNwMFyiRVBRe3kVSG6V4Tx-E=/fit-in/144x144/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567537-1132425701.gif.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/HskuMr3aSW8eNVDhMC6hxxwEzQ8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742862-1154197954.jpeg.jpg" data-tags="indie rock" role="button">
 Gossip - Standing in the Way of Control (2005)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+<li data-cover="https://img.discogs.com/N4mvgD15YeHivGbIYMtVpCzxz08=/fit-in/292x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243440-1285590526.jpeg.jpg" data-tags="indie rock, indie" role="button">
 British Sea Power - Open Season (2005-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8229113f-641b-3333-bd9e-faa23c4f75ef/12368351534-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
@@ -228,7 +222,7 @@ Aimee Mann - The Forgotten Arm (2005-04-27)
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
+<li data-cover="https://img.discogs.com/BfR23KCmeMY9SrhQ9fXmNBj4_ZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515157-1314050368.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Nada Surf - The Weight Is a Gift (2005-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4f84604-4903-3209-9d74-4228543297c6/22963410399-500.jpg" data-tags="neo-psychedelia, alternative pop/ rock" role="button">
@@ -246,10 +240,13 @@ D'espairsRay - MIRROR (2007-04-11)
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
 The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
+Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
 Spiritualized - Songs In A&E (2008-05-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rap" role="button">
+<li data-cover="https://img.discogs.com/7N8DM730_yMdGlGmCL7xI3tRUBc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464947-1221766171.jpeg.jpg" data-tags="rap" role="button">
 The Streets - Everything Is Borrowed (2008-09-15)
 </li>
 <li data-cover="https://img.discogs.com/hPBi_tvsKOpa0IUmtVzQtKYmGgY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13487694-1555161652-4877.jpeg.jpg" data-tags="rock, british, indie rock, 00s" role="button">
@@ -264,7 +261,10 @@ Dan Deacon - Bromst (2009-03-24)
 <li data-cover="http://coverartarchive.org/release/59ff8aaf-2ad1-4b1d-9e2a-771f1d154a33/21498444470-500.jpg" data-tags="alternative, indie, alternative rock" role="button">
 Dinosaur Jr. - Farm (2009-06-19)
 </li>
-<li data-cover="https://img.discogs.com/eUFZ_vYXW6oNQv7NSZanGGd1PoE=/fit-in/403x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6172993-1412884196-7226.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Greatest Hits (2009-10-30)
+</li>
+<li data-cover="https://img.discogs.com/UXgbqevfNeBqlilcwq4pyWKeH80=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5558208-1396520125-1881.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, volatile, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">
@@ -285,6 +285,9 @@ Divine Fits - A Thing Called Divine Fits (2012-08-28)
 <li data-cover="http://coverartarchive.org/release/cf928700-a3ca-463e-947c-e7e731bdaac4/4754067713-500.jpg" data-tags="folk" role="button">
 Angel Olsen - Half Way Home (2012-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/8a3be0f3-c237-4e0d-bdba-f82b3329a974/16252635324-500.jpg" data-tags="americana" role="button">
+Jason Isbell - Southeastern (2013-06-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
@@ -293,9 +296,6 @@ The Clash - Hits Back (2013-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ad46321-76b9-4a96-b453-2d5494e5d561/8268789783-500.jpg" data-tags="electronic" role="button">
 Factory Floor - Factory Floor (2013-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/7499421f-067f-444a-a5de-f3bb0184e659/5741834686-500.jpg" data-tags="christmas" role="button">
-Bad Religion - Christmas Songs (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1b2b691-5c29-4215-bf37-7ea9f1ee7bc3/7807345022-500.jpg" data-tags="angry, aggressive, fiery, raucous, playful, brooding, eccentric, cathartic, lively, plaintive, angst-ridden, girls night out, 2014 albums" role="button">
 Speedy Ortiz - Real Hair (2014-02-11)

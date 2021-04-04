@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:10:01.276Z
+date: 2021-04-04T18:49:01.519Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
 ![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
@@ -29,6 +29,9 @@ Corrosion of Conformity - Blind (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/12107471021-500.jpg" data-tags="doom metal, grunge, sludge" role="button">
 Melvins - Bullhead (1991)
+</li>
+<li data-cover="http://coverartarchive.org/release/64bb2d1b-e4ab-4808-be16-5466264c2e65/20845677913-500.jpg" data-tags="sludge, sludge metal, post-metal" role="button">
+Neurosis - Souls at Zero (1992-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d7de606-9c1d-4faf-9d47-7f9c8912d3e4/7852290321-500.jpg" data-tags="post-metal, sludge, doom metal" role="button">
 Neurosis - Enemy Of The Sun (1993-08-17)
@@ -60,14 +63,8 @@ Down - NOLA (1995-09-15)
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Alice in Chains (1995-11-07)
 </li>
-<li data-cover="https://img.discogs.com/kEBlKKGdcszM8rXvWvND4H6S5QE=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-364010-1616344597-5038.jpeg.jpg" data-tags="emo, noise rock, doom metal, doom, sludge metal, get the fuck away from me now" role="button">
-Harvey Milk - Courtesy And Good Will Toward Men (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/72e57b50-67a3-4689-ac55-342e4341f697/19427677722-500.jpg" data-tags="sludge, sludge metal" role="button">
 Eyehategod - Dopesick (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/77332629-7701-4c05-b133-6d7fd1ecb5c2/26845217716-500.jpg" data-tags="grunge" role="button">
-Melvins - Stag (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/867a9c66-d738-3857-b967-62b9367970fc/7697193187-500.jpg" data-tags="post-metal, sludge, sludge metal" role="button">
 Neurosis - Through Silver In Blood (1996-04-12)
@@ -77,9 +74,6 @@ Crowbar - Broken Glass (1996-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4512ec2a-f833-4be5-85d3-b2007639bcef/5651025580-500.jpg" data-tags="sludge" role="button">
 Acid Bath - Paegan Terrorism Tactics (1996-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0c61daa-9d43-4c54-a65e-825a49613238/7740798604-500.jpg" data-tags="sludge, sludge metal, doom metal" role="button">
-Iron Monkey - Iron Monkey (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
 Crowbar - Odd Fellows Rest (1998-07-06)
@@ -95,9 +89,6 @@ Isis - Celestial (2000-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/17432213-49df-4389-a05a-e2f91178792f/3927758235-500.jpg" data-tags="sludge" role="button">
 Cult of Luna - Cult of Luna (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e52cdda-60a9-43a0-9cb7-bdc9b00af901/19910121194-500.jpg" data-tags="sludge" role="button">
-Weedeater - ...And Justice For Y'all (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca11e9a4-cc91-46e4-99c1-68790f99edec/3104797376-500.jpg" data-tags="post-metal" role="button">
 Neurosis - A Sun That Never Sets (2001-08-07)
@@ -147,7 +138,7 @@ Corrosion of Conformity - In the Arms of God (2005-04-04)
 <li data-cover="http://coverartarchive.org/release/aa271836-6784-4555-bc47-c2fa305c260e/25038392608-500.jpg" data-tags="post-metal, sludge" role="button">
 Amenra - Mass III (2005-05)
 </li>
-<li data-cover="https://img.discogs.com/4RTFVf1AIn5YU7Cij7j-it5ZtfU=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14481201-1575398666-6794.jpeg.jpg" data-tags="post-metal, sludge" role="button">
+<li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
@@ -188,6 +179,9 @@ Bongripper - Hippie Killer (2007-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8051bb91-61b6-48b3-8a82-fb8762951829/19909510907-500.jpg" data-tags="stoner metal" role="button">
 Weedeater - God Luck and Good Speed (2007-07-31)
+</li>
+<li data-cover="https://img.discogs.com/GDh-Ng1HQYVhre6TKLq_XkU4qUM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101458-1597620920-6186.jpeg.jpg" data-tags="post-metal, crust, sludge" role="button">
+Fall of Efrafa - Elil (2007-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5526d95-9288-4f45-ac86-9ff465792ecb/1369815832-500.jpg" data-tags="progressive metal, sludge metal, sludge" role="button">
 Baroness - Red Album (2007-09-04)
@@ -279,6 +273,9 @@ Mastodon - The Hunter (2011-09-27)
 <li data-cover="http://coverartarchive.org/release/81252c88-3bc5-4e53-8f0e-0ca3e469d5c7/3646455939-500.jpg" data-tags="sludge metal, stoner metal" role="button">
 Black Tusk - Set the Dial (2011-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/48b186cf-e9e8-4ff1-abee-d1a58a2691f2/19911760036-500.jpg" data-tags="sludge metal" role="button">
+Eyehategod - New Orleans Is The New Vietnam (2012)
+</li>
 <li data-cover="http://coverartarchive.org/release/23a8f959-7763-42d1-8f13-7fcd7a199b49/3323071293-500.jpg" data-tags="hardcore punk, sludge metal" role="button">
 Cancer Bats - Dead Set On Living (2012-04-16)
 </li>
@@ -302,6 +299,9 @@ Inter Arma - Sky Burial (2013-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
 Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a725abf0-fcf8-4018-a694-e7ab87208d32/6036390526-500.jpg" data-tags="sludge metal" role="button">
+Kylesa - Ultraviolet (2013-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7900d2b9-0d98-4a66-92c1-c47d90750031/6631616700-500.jpg" data-tags="doom metal, sludge metal" role="button">
 SubRosa - More Constant Than The Gods (2013-09-17)
