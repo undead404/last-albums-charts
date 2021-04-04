@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:57:01.254Z
+date: 2021-04-04T18:44:01.274Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -177,6 +177,9 @@ Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 <li data-cover="http://coverartarchive.org/release/46fafbb5-a0cb-4530-86e4-f80d8396e576/3985509153-500.jpg" data-tags="indie rock" role="button">
 Ugly Casanova - Sharpen Your Teeth (2002-05-21)
 </li>
+<li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">
+The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
 dredg - El Cielo (2002-10-08)
 </li>
@@ -191,9 +194,6 @@ Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
 King Geedorah - Take Me to Your Leader (2003-06-16)
-</li>
-<li data-cover="https://img.discogs.com/ySx6hrOs07HvPwKTXdBRkBDb1l0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8617209-1465229526-9464.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
-Neil Young & Crazy Horse - Greendale (2003-08-18)
 </li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
@@ -234,7 +234,7 @@ The Mountain Goats - The Sunset Tree (2005-04-25)
 <li data-cover="http://coverartarchive.org/release/8229113f-641b-3333-bd9e-faa23c4f75ef/12368351534-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
 Aimee Mann - The Forgotten Arm (2005-04-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, indie" role="button">
+<li data-cover="https://img.discogs.com/b2iDTisa_5B2CiWUj6y3h0k1fL8=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9398451-1617054407-7570.jpeg.jpg" data-tags="rock, indie" role="button">
 The Hold Steady - Separation Sunday (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">

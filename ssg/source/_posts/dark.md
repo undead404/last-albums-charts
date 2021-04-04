@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:19:01.260Z
+date: 2021-04-04T18:31:06.650Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
@@ -33,7 +33,7 @@ Bauhaus - The Sky's Gone Out (1982)
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
-<li data-cover="https://img.discogs.com/Jck7nDrfimnCABZSxTaissy8D8U=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027072-1185612740.jpeg.jpg" data-tags="80s, post-punk, mute records" role="button">
+<li data-cover="https://img.discogs.com/ce2SgoLGUPVKnpR9ZUMqIh0-QUc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4445158-1365080842-7266.jpeg.jpg" data-tags="80s, post-punk, mute records" role="button">
 Nick Cave & The Bad Seeds - From Her To Eternity (1984-06-01)
 </li>
 <li data-cover="https://img.discogs.com/vx3Vhu6YBJACYuloYmM0uXmpSis=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12060190-1527514473-8801.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
@@ -66,10 +66,7 @@ Deine Lakaien - Acoustic (1995)
 <li data-cover="http://coverartarchive.org/release/4b994ee5-38c4-4fab-bc77-83fd172a3807/4890594100-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Tricky - Pre-Millennium Tension (1996-10-28)
 </li>
-<li data-cover="https://img.discogs.com/-W5QN7_eVpe2JjMA_yNrTRvKHJs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-483031-1529428927-4680.jpeg.jpg" data-tags="goth, dark, industrial, electro-industrial" role="button">
-Velvet Acid Christ - Calling Ov The Dead (1997)
-</li>
-<li data-cover="https://img.discogs.com/XUNaq78ggP0O4AcP8aVleP5g95w=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6627909-1423405986-8538.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
+<li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
 <li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
@@ -81,7 +78,7 @@ Tori Amos - From the Choirgirl Hotel (1998-05-04)
 <li data-cover="http://coverartarchive.org/release/dcae11f6-16e0-4efc-9b14-9a6497ca6150/8920454022-500.jpg" data-tags="alternative, 90s" role="button">
 The Smashing Pumpkins - Adore (1998-05-29)
 </li>
-<li data-cover="https://img.discogs.com/FHYmyt7PP_6gDfwR1wlovJlp-XE=/fit-in/573x557/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-589954-1170190224.jpeg.jpg" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/RSQPWodEiDmoouF1zpMyYetBs68=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9240622-1477196357-9049.jpeg.jpg" data-tags="post-punk" role="button">
 Bauhaus - Crackle (1998-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/91b161bf-275e-3b8f-9fab-643e9d7ab152/14179447399-500.jpg" data-tags="alternative, female vocalists" role="button">
@@ -156,6 +153,9 @@ Ataxia - Automatic Writing (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/ee2ded2b-e706-4e20-9ae6-98bba2e4e291/8610003714-500.jpg" data-tags="punk rock" role="button">
 Farin Urlaub - Am Ende der Sonne (2005-03-29)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
+Patrick Wolf - Wind in the Wires (2005-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/1680da29-0101-4ff1-94f7-6f0e6ae80b1c/9006066585-500.jpg" data-tags="shoegaze" role="button">
 Scarling. - So Long, Scarecrow (2005-08-23)
 </li>
@@ -183,7 +183,7 @@ Spiritual Front - Armageddon Gigolo (2006-06-23)
 <li data-cover="http://coverartarchive.org/release/cf099799-3f91-4418-abbd-e9dec82b1a58/10599577358-500.jpg" data-tags="alternative, female vocalists, singer-songwriter" role="button">
 Charlotte Martin - Stromata (2006-09-12)
 </li>
-<li data-cover="https://img.discogs.com/fycjDLRNZNhLbpPXcsmw3U1tNdg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2435153-1283882962.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
+<li data-cover="https://img.discogs.com/rIVAsTPF_RZxs9GCKYVjvWtjKkw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958210-1177507241.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Jesus On Extasy - Holy Beauty (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">
@@ -207,7 +207,7 @@ Kerli - Love Is Dead (2008-07-08)
 <li data-cover="https://img.discogs.com/EO4tmF4L3bRSVSeSkTD5aNzF3Ak=/fit-in/506x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486045-1309206695.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
 </li>
-<li data-cover="https://img.discogs.com/fNf8Yg_GFHY9kV0bnnPZLjMSWYY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475568-1366628343-4088.jpeg.jpg" data-tags="dark, shoegaze" role="button">
+<li data-cover="https://img.discogs.com/wz0yn2XqXYzmHJ5nwwlBxkfZsTs=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2557097-1364509041-6883.jpeg.jpg" data-tags="dark, shoegaze" role="button">
 Mercury Rev - Snowflake Midnight (2008-09-29)
 </li>
 <li data-cover="https://img.discogs.com/-jXh1HefuQF_oHQqAM62FjOkEkw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17056041-1611364067-9511.jpeg.jpg" data-tags="indie" role="button">

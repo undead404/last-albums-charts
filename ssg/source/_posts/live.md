@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:32:01.331Z
+date: 2021-04-04T18:05:01.323Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -54,7 +54,7 @@ Queen - Live Killers (1979-06-22)
 <li data-cover="https://img.discogs.com/CJUhQdKx8cnKYRTRFL7YEsrO8mo=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7540898-1466772398-1897.jpeg.jpg" data-tags="live, folk, classic rock" role="button">
 Simon & Garfunkel - The Concert in Central Park (1982)
 </li>
-<li data-cover="https://img.discogs.com/tlJq_LHqFbQt-TvjI_8IhMb2VnM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3405280-1454651673-4542.jpeg.jpg" data-tags="new wave, live, 80s" role="button">
+<li data-cover="https://img.discogs.com/WogGcC6KteU51OvvqSom3VOwn4U=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10604266-1500795889-2401.jpeg.jpg" data-tags="new wave, live, 80s" role="button">
 Talking Heads - The Name of This Band Is Talking Heads (1982)
 </li>
 <li data-cover="https://img.discogs.com/mEROh5D5nn0FvcZrEKopwnQYZS8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3644792-1365379808-5746.jpeg.jpg" data-tags="80s, new wave" role="button">
@@ -84,7 +84,7 @@ Dire Straits - On The Night (1993-05-11)
 <li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
 Neil Young - Unplugged (1993-06-11)
 </li>
-<li data-cover="https://img.discogs.com/EJM_wDtRPzaKlXRIqK1uXxJl7Q4=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2013178-1258537318.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/lbgvX7bd4ShtlT_kfdk9Cb9rgrM=/fit-in/599x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515400-1225385807.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
 The Cure - Show (1993-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2d0b8ef-272a-46b9-8b99-3e6831318ad9/6329050674-500.jpg" data-tags="live, alternative, female vocalists" role="button">
@@ -108,7 +108,7 @@ Live - Throwing Copper (1994-04-19)
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
 </li>
-<li data-cover="https://img.discogs.com/kq6a2HzPvqw7g-kqYXZWdRIovD4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883176-1608795479-7067.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
+<li data-cover="https://img.discogs.com/0U6pUCrrCLCQVQcwqD67klz4lCU=/fit-in/471x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3871769-1347592469-2775.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
 Bob Dylan - MTV Unplugged (1995-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
@@ -116,6 +116,9 @@ Pink Floyd - Pulse (1995-05-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Dire Straits - Live At The BBC (1995-06-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
+Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/xOvnQ6hQZ0MYgUkFV7WGD5Z94bg=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652210-1338961582-8057.jpeg.jpg" data-tags="rock" role="button">
 Gin Blossoms - Follow You Down (1996-01-23)
@@ -234,9 +237,6 @@ Alicia Keys - Unplugged (2005-10-11)
 <li data-cover="http://coverartarchive.org/release/c3bd3e15-556b-329c-8838-4444c9367aa9/8401417015-500.jpg" data-tags="nu metal" role="button">
 Slipknot - 9.0: Live (2005-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/303188c6-8c08-36e1-ab85-b7e9ba84d7ee/7919913330-500.jpg" data-tags="progressive rock" role="button">
-The Mars Volta - Scabdates (2005-11-07)
-</li>
 <li data-cover="https://img.discogs.com/yKgieSTKusIBpjtEwfMVZ4ALIx8=/fit-in/540x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3624187-1337812211-1856.jpeg.jpg" data-tags="punk rock, live" role="button">
 Green Day - Bullet in a Bible (2005-11-11)
 </li>
@@ -257,9 +257,6 @@ Seether - One Cold Night (2006-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
-The Used - Berth (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8032396-e76c-3a57-9d1c-4e92e5e0125c/3375659069-500.jpg" data-tags="live" role="button">
 City and Colour - Live (2007-03-06)
@@ -300,7 +297,7 @@ Leonard Cohen - Live In London (2009-03-31)
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">
 Coldplay - LeftRightLeftRightLeft (2009-05-15)
 </li>
-<li data-cover="https://img.discogs.com/eUFZ_vYXW6oNQv7NSZanGGd1PoE=/fit-in/403x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6172993-1412884196-7226.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/UXgbqevfNeBqlilcwq4pyWKeH80=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5558208-1396520125-1881.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/addacb4d-bb2e-4f66-9246-fd15bfdc3576/15497181552-500.jpg" data-tags="live" role="button">
@@ -308,6 +305,9 @@ David Bowie - A Reality Tour (2010-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
 The White Stripes - Under Great White Northern Lights (2010-03-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/3d51dab8-ace9-3a5c-8f0a-6f841a7b794d/1559544631-500.jpg" data-tags="live" role="button">
+Madonna - Sticky & Sweet Tour (2010-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/79a7bffc-fc7c-4df9-8b7f-03f7f4fcd3a3/10028163862-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Special Moves (2010-08-23)

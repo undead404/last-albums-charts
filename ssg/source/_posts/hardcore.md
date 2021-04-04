@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:54:01.343Z
+date: 2021-04-04T18:40:01.286Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -36,12 +36,6 @@ Black Flag - My War (1984-03)
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">
-2Pac - All Eyez on Me (1996-02-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6fe0f2d-2a88-438e-bc55-2e32c576bfa8/9247843471-500.jpg" data-tags="hardcore" role="button">
-Hatebreed - Satisfaction Is the Death of Desire (1997-11-11)
-</li>
 <li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
@@ -77,6 +71,9 @@ Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="https://img.discogs.com/aVnsDxh4RubSM_6eoKxO4jjSLKo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642107-1554908978-1846.jpeg.jpg" data-tags="hardcore" role="button">
 Hatebreed - Perseverance (2002-03-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
+Killswitch Engage - Alive or Just Breathing (2002-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b877e532-bf36-437d-84df-a1facb14e308/27477356880-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Suicide Notes And Butterfly Kisses (2002-06-04)
@@ -129,9 +126,6 @@ Lamb of God - Ashes Of The Wake (2004-08-30)
 <li data-cover="http://coverartarchive.org/release/e3f3dd24-798c-4d2e-8f34-7e97d3ced433/7264557525-500.jpg" data-tags="hardcore, metalcore, mathcore" role="button">
 Converge - You Fail Me (2004-09-15)
 </li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
-The Used - In Love and Death (2004-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
 He Is Legend - I Am Hollywood (2004-11-02)
 </li>
@@ -159,6 +153,9 @@ Chiodos - All's Well That Ends Well (2005-07-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore, metalcore" role="button">
 The Bled - Found In The Flood (2005-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/8bc8d446-5b5f-49de-b9c0-31ce46283831/26720885055-500.jpg" data-tags="metalcore, hardcore" role="button">
+Every Time I Die - Gutter Phenomenon (2005-08-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/823a4507-0214-4494-94b4-a412bea51fb3/26400961318-500.jpg" data-tags="mathcore, progressive metalcore" role="button">
 Protest the Hero - Kezia (2005-08-30)
 </li>
@@ -168,6 +165,9 @@ HORSE the band - The Mechanical Hand (2005-09-20)
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
+Killswitch Engage - As Daylight Dies (2006-01-21)
+</li>
 <li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
 </li>
@@ -176,6 +176,9 @@ Raised Fist - Sound of the Republic (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a373a0c-6529-4a1f-94f7-95bd49ee80e4/15045824943-500.jpg" data-tags="melodic hardcore" role="button">
 Ignite - Our Darkest Days (2006-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
+Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - The Sufferer & the Witness (2006-07-03)
@@ -198,6 +201,9 @@ Walls of Jericho - With Devils Amongst Us All (2006-08-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
 Hatebreed - Supremacy (2006-08-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
+Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - No Heroes (2006-10-23)
 </li>
@@ -213,6 +219,9 @@ Comeback Kid - Broadcasting (2007-02-20)
 <li data-cover="http://coverartarchive.org/release/69204334-10ff-4b6d-b986-da242a9dcb0b/15294175612-500.jpg" data-tags="metalcore, deathcore" role="button">
 Emmure - Goodbye To The Gallows (2007-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b67ab50-5a1f-4fbf-97bf-08a0147b465f/26758185520-500.jpg" data-tags="hardcore" role="button">
+Maylene and the Sons of Disaster - II (2007-03-20)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 </li>
@@ -227,6 +236,9 @@ Evergreen Terrace - Wolfbiker (2007-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
 Five Finger Death Punch - The Way Of The Fist (2007-07-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
+As I Lay Dying - An Ocean Between Us (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - Plagues (2007-08-21)
@@ -264,9 +276,6 @@ In Fear and Faith - Your World on Fire (2009-01-06)
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
-Motionless in White - When Love Met Destruction (2009-02-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
 </li>
@@ -284,9 +293,6 @@ We Came As Romans - To Plant a Seed (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4333310-ad10-4036-aacc-7f66c177d840/25544352121-500.jpg" data-tags="pop punk" role="button">
 Four Year Strong - Enemy of the World (2010-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c862d2f0-caef-458d-b4f4-cfddc85b332e/6472023132-500.jpg" data-tags="post-hardcore" role="button">
-Of Mice & Men - Of Mice & Men (2010-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4edf1492-cd7e-4aee-83d1-54e583d17958/1065442756-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Deep Blue (2010-06-05)
@@ -306,17 +312,11 @@ A Day to Remember - What Separates Me from You (2010-11-16)
 <li data-cover="http://coverartarchive.org/release/8b7be6b5-5c0f-40f0-8db2-140d0ee635be/4766286256-500.jpg" data-tags="hardcore" role="button">
 Defeater - Empty Days & Sleepless Nights (2011-03-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/7058d184-572c-494a-b694-77743cbc2547/3996533360-500.jpg" data-tags="rock opera" role="button">
-Fucked Up - David Comes To Life (2011-06-07)
-</li>
 <li data-cover="https://img.discogs.com/bhGbwgyMRfFNVYSLTVH0fgqdapQ=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3017388-1588358835-7785.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
 Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/44df54f1-4731-4340-9778-1164f47e94f9/4085458651-500.jpg" data-tags="post-hardcore" role="button">
 Falling in Reverse - The Drug In Me Is You (2011-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)

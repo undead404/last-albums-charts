@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:19:01.484Z
+date: 2021-04-04T18:42:01.328Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -57,14 +57,8 @@ Alanis Morissette - Jagged Little Pill (1995-06-09)
 <li data-cover="https://img.discogs.com/SJGfQpjn__fQln9HSBD1nYPsjso=/fit-in/600x926/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2976694-1419413692-8369.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
-<li data-cover="https://img.discogs.com/mLwjMdz3iGwslNg5YKQ1FbAUtmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6034085-1420330233-7216.jpeg.jpg" data-tags="90s, ska, rock" role="button">
-No Doubt - Tragic Kingdom (1995-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
-Mazzy Star - Among My Swan (1996-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e427c52c-60f4-3df4-9493-2df0734d85aa/3198645256-500.jpg" data-tags="female vocalists" role="button">
 Sarah McLachlan - Surfacing (1997-07-15)
@@ -132,6 +126,9 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
+<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
+Flyleaf - Flyleaf (2004-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
@@ -176,9 +173,6 @@ Regina Spektor - Begin to Hope (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/74832c40-66da-4efa-acec-871e0a72aae2/3946571235-500.jpg" data-tags="pop" role="button">
 Fergie - The Dutchess (2006-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">
-Lily Allen - Alright, Still (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)
@@ -314,6 +308,12 @@ Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
+Daughter - If You Leave (2013-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
+HAIM - Days Are Gone (2013-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)

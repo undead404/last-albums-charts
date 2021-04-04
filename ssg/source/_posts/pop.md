@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:01:01.333Z
+date: 2021-04-04T18:09:01.353Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -50,9 +50,6 @@ Destiny's Child - Survivor (2001-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
-Coldplay - A Rush of Blood to the Head (2002-08-12)
 </li>
 <li data-cover="https://img.discogs.com/43jeN4e7fmSGVdiYcb6OLQV8a3I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3467332-1486342108-9043.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
@@ -308,6 +305,9 @@ Katy Perry - PRISM (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
 Lady Gaga - ARTPOP (2013-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/f74c6ec2-7319-406b-9910-a6c3fe940176/9051815709-500.jpg" data-tags="rnb, pop" role="button">
+Beyoncé - Beyoncé (2013-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

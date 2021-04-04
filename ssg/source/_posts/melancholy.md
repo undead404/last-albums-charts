@@ -1,11 +1,11 @@
 ---
-date: 2021-04-04T15:03:01.279Z
+date: 2021-04-04T18:13:01.437Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
-<li data-cover="https://img.discogs.com/iKzxIfyvRbAxGW8RjrkLomw4Pf0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2111775-1349454043-3535.jpeg.jpg" data-tags="pop, 90s" role="button">Eagle-Eye Cherry - Desireless (1997)</li>
+<li data-cover="https://img.discogs.com/YsVqhvK0qV7-RerYVxQQFLD4FkI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070709-1369907392-5537.jpeg.jpg" data-tags="pop, 90s" role="button">Eagle-Eye Cherry - Desireless (1997)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/h8Q5zIvhJH42i-aTz6nXhmauoB0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695929-1387082547-7142.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/I5gfsIdYLJe5feIIUrJhjDfL3D4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3601686-1381225977-7375.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Five Leaves Left (1969-09)
 </li>
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
@@ -87,7 +87,7 @@ Mazzy Star - Among My Swan (1996-10-17)
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">
 Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
 </li>
-<li data-cover="https://img.discogs.com/iKzxIfyvRbAxGW8RjrkLomw4Pf0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2111775-1349454043-3535.jpeg.jpg" data-tags="pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/YsVqhvK0qV7-RerYVxQQFLD4FkI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070709-1369907392-5537.jpeg.jpg" data-tags="pop, 90s" role="button">
 Eagle-Eye Cherry - Desireless (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
@@ -102,7 +102,7 @@ Smog - Red Apple Falls (1997-05-20)
 <li data-cover="http://coverartarchive.org/release/ef8ffab3-2a8e-42d0-a208-5fef13716494/3558127143-500.jpg" data-tags="chamber pop, melancholy" role="button">
 Tindersticks - Curtains (1997-06-16)
 </li>
-<li data-cover="https://img.discogs.com/XUNaq78ggP0O4AcP8aVleP5g95w=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6627909-1423405986-8538.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
+<li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcae11f6-16e0-4efc-9b14-9a6497ca6150/8920454022-500.jpg" data-tags="alternative, 90s" role="button">
@@ -153,16 +153,13 @@ The National - Sad Songs for Dirty Lovers (2003-05)
 <li data-cover="http://coverartarchive.org/release/ef5e1eee-e57a-4c0e-ad5b-1f5aa9692fba/15299317711-500.jpg" data-tags="melancholy" role="button">
 Tindersticks - Waiting for the Moon (2003-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg" data-tags="post-classical, contemporary classical, neoclassical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-Max Richter - The Blue Notebooks (2004-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
 Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -170,9 +167,6 @@ Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2de859f9-b9d3-4512-ae9d-1bc8b70c60df/26658665691-500.jpg" data-tags="mellow, melancholy, my collection, diana picks, holy mountain, granka" role="button">
 Six Organs of Admittance - For Octavio Paz (2004-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/400ad7c8-d2cf-4fa7-be52-2d210274014e/20106904750-500.jpg" data-tags="indie rock" role="button">
-The Organ - Grab That Gun (2004-05-24)
 </li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
@@ -279,9 +273,6 @@ Manchester Orchestra - Simple Math (2011-05-06)
 <li data-cover="http://coverartarchive.org/release/b6b21d16-021f-48fe-a575-c46320cf3107/28325780282-500.jpg" data-tags="indie pop, new wave" role="button">
 The Drums - Portamento (2011-09-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/566e2e7c-9cc6-41f9-864c-2bb65f540436/3979522473-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-A Winged Victory for the Sullen - A Winged Victory for the Sullen (2011-09-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, contemporary classical, piano, cinematic, neoclassical, post-classical, melancholy, melancholic, modern classical, contemporary piano" role="button">
 Clem Leek - Lifenotes (2011-10)
 </li>
@@ -312,8 +303,17 @@ Clem Leek - Rest (2013-02-20)
 <li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
 Ólafur Arnalds - For Now I Am Winter (2013-02-25)
 </li>
+<li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
+James Blake - Overgrown (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4e57d35-d8f8-4302-bca4-534b6227e284/14478188805-500.jpg" data-tags="indie rock" role="button">
+The National - Trouble Will Find Me (2013-05-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
+CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/18992f07-6b19-4d6f-8083-4e5204a153de/7220911774-500.jpg" data-tags="piano, contemporary classical, post-classical, modern classical, neo-classical, neoclassical, ambient, alternative, cinematic, melancholy, minimalism, melancholic, experimental-ambient, minimal ambient, minimalist, modern composition, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
 Nils Frahm - Spaces (2013-11-18)

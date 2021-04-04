@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:45:01.727Z
+date: 2021-04-04T18:01:01.494Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -69,9 +69,6 @@ The Shins - Chutes Too Narrow (2003-10-21)
 <li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">
 Broken Social Scene - Broken Social Scene (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
-Say Anything - Is A Real Boy (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
@@ -81,14 +78,8 @@ Modest Mouse - Good News For People Who Love Bad News (2004-04-06)
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
 The Killers - Hot Fuss (2004-06-07)
 </li>
-<li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
-Razorlight - Up All Night (2004-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/cf92d8e3-eaf4-4e10-b77a-81064a810cb0/8129222906-500.jpg" data-tags="indie rock" role="button">
 Kasabian - Kasabian (2004-08-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, dance punk, rock" role="button">
-Death from Above 1979 - You're A Woman, I'm A Machine (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
@@ -261,9 +252,6 @@ Foals - Total Life Forever (2010-05-07)
 <li data-cover="http://coverartarchive.org/release/daaa313f-2f30-39e7-a8f0-511276fc7341/19193385025-500.jpg" data-tags="indie rock" role="button">
 The National - High Violet (2010-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/046d996d-e82a-3ad9-a550-4e903ce6f3bc/1601718947-500.jpg" data-tags="indie, indie rock" role="button">
-Band of Horses - Infinite Arms (2010-05-17)
-</li>
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
 </li>
@@ -306,11 +294,23 @@ Bastille - Bad Blood (2013-03-04)
 <li data-cover="https://img.discogs.com/oj94D1ou3UxDB55dmmdbi3H5jfo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4512821-1367002480-6236.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/74d2a13d-6b16-4e6d-9a3a-3c56b569741a/16339583300-500.jpg" data-tags="indie pop, alternative rock, indie rock" role="button">
+The Neighbourhood - I Love You. (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/35a7ea89-605b-466e-a5c5-1726f56f980f/4265527988-500.jpg" data-tags="indie rock" role="button">
+Vampire Weekend - Modern Vampires of the City (2013-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4e57d35-d8f8-4302-bca4-534b6227e284/14478188805-500.jpg" data-tags="indie rock" role="button">
+The National - Trouble Will Find Me (2013-05-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
-The 1975 - The 1975 (2013-08-30)
+<li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
+HAIM - Days Are Gone (2013-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
+Arcade Fire - Reflektor (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)

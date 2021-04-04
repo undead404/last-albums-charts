@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:18:01.311Z
+date: 2021-04-04T17:55:01.272Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -243,6 +243,9 @@ Papa Roach - Getting Away With Murder (2004-07)
 <li data-cover="https://img.discogs.com/IyRZRsUYrrVPGyj-0oUHHzT9QEc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912144-1510186921-6560.jpeg.jpg" data-tags="alternative rock" role="button">
 Chevelle - This Type of Thinking (Could Do Us In) (2004-09-21)
 </li>
+<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
+Flyleaf - Flyleaf (2004-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/94e45b3f-3669-3e9a-a53b-d7a104ac83e4/8707741692-500.jpg" data-tags="alternative metal, metal" role="button">
 Deftones - Saturday Night Wrist (2005)
 </li>
@@ -251,9 +254,6 @@ Mudvayne - Lost and Found (2005-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Mezmerize (2005-05-16)
-</li>
-<li data-cover="https://img.discogs.com/Ww1JvXSUgp60s5oPHc3EVia-Smc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7253244-1437235801-1398.jpeg.jpg" data-tags="industrial metal" role="button">
-Static-X - Start a War (2005-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
@@ -288,6 +288,9 @@ Disturbed - Indestructible (2008-04-29)
 <li data-cover="https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">
 Slipknot - All Hope Is Gone (2008-08-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/aa052d1e-374f-4aff-ab7c-23d3a6982949/16523540617-500.jpg" data-tags="nu metal, alternative metal" role="button">
+Head - Save Me From Myself (2008-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1683e78-37ec-478c-bc22-8c8c09a94244/7125564638-500.jpg" data-tags="alternative rock, transformers, nu metal, nu-metal" role="button">
 Linkin Park - New Divide (2009-05-18)
 </li>
@@ -299,9 +302,6 @@ Disturbed - Asylum (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bd6e65f-2584-4a20-a88d-695d32ed429d/7687347287-500.jpg" data-tags="rapcore, nu metal" role="button">
 Limp Bizkit - Gold Cobra (2011-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/30f616d8-ef16-4386-a702-f24dac4a9b94/1702849582-500.jpg" data-tags="dubstep" role="button">
-Korn - The Path of Totality (2011-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">
 Linkin Park - Living Things (2012-06-20)

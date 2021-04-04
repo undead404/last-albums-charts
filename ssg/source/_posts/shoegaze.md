@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:56:01.278Z
+date: 2021-04-04T18:21:01.279Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -303,11 +303,11 @@ Deftones - Koi No Yokan (2012-11-09)
 <li data-cover="http://coverartarchive.org/release/c8f1a34c-6ca3-482d-86a5-bc7ac7795e5a/3233313337-500.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - m b v (2013-02-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
+Daughter - If You Leave (2013-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
-Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:24:01.297Z
+date: 2021-04-04T18:11:01.357Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -204,6 +204,9 @@ The All-American Rejects - Move Along (2006)
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
 Placebo - Meds (2006-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
+AFI - Decemberunderground (2006-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2e513ef-b507-4319-9cb1-0f8be3cd561e/4563170382-500.jpg" data-tags="alternative rock" role="button">
 Angels & Airwaves - We Don't Need to Whisper (2006-05-22)
 </li>
@@ -294,12 +297,6 @@ OneRepublic - Waking Up (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/6221bd54-033d-4876-b722-736b4e95686b/4193279921-500.jpg" data-tags="alternative rock" role="button">
 30 Seconds to Mars - This Is War (2009-12-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
-The Pretty Reckless - Light Me Up (2010-08-27)
-</li>
-<li data-cover="https://img.discogs.com/Gkg0AEjfHhMQWW6H1vqt0WvFH8k=/fit-in/600x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315642-1209030156.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
-Linkin Park - A Thousand Suns (2010-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
@@ -320,5 +317,8 @@ Muse - The 2nd Law (2012-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">
+Queens of the Stone Age - ...Like Clockwork (2013-05-31)
 </li>
 </ol>

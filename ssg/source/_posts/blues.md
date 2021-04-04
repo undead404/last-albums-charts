@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:35:02.236Z
+date: 2021-04-04T18:30:01.326Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/2c89be9e-fb4f-4e6c-87ff-b569aa1ade17/24410065715-500.jpg" data-tags="jazz, blues, 60s" role="button">
-Nina Simone - Pastel Blues (1965)
-</li>
 <li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">
 Bob Dylan - Bringing It All Back Home (1965-03-22)
 </li>
@@ -96,9 +93,6 @@ Eric Clapton - Eric Clapton's Rainbow Concert (1973)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Fleetwood Mac (1975-07-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
-Dire Straits - Dire Straits (1978-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/77d38310-5392-4ac4-85fe-35c1a999210d/13858018994-500.jpg" data-tags="blues" role="button">
 Tom Waits - Swordfishtrombones (1983)
 </li>
@@ -117,9 +111,6 @@ Ray Charles - Anthology (1988-10-25)
 <li data-cover="http://coverartarchive.org/release/b96e7620-18b1-494b-a7c7-19faae798099/3291021954-500.jpg" data-tags="blues rock, blues" role="button">
 Gary Moore - Still Got the Blues (1990-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/83e57502-031c-4d0a-a659-7ebb1a134da6/2828195326-500.jpg" data-tags="classic rock, rock, 60s, british, blues" role="button">
-The Animals - The Complete Animals (1990-07-09)
-</li>
 <li data-cover="https://img.discogs.com/s54ApWn18BLeDr_qL2pc20EPrHI=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1249753-1204073396.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
 Bonnie Raitt - Luck Of The Draw (1991-06-25)
 </li>
@@ -131,6 +122,9 @@ Tom Waits - Bone Machine (1992-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/29a89b27-ee52-4e84-a411-8b3ae971673d/5262713591-500.jpg" data-tags="eric clapton, blues rock" role="button">
+Eric Clapton - The Cream of Clapton (1994-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2170f73-b861-3c58-8ba6-a66aff3f00d8/1013012160-500.jpg" data-tags="blues" role="button">
 Jimi Hendrix - Blues (1994-04-15)
@@ -162,11 +156,14 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://img.discogs.com/5QmbbzDRzxJgCIL2udVH42LGRZQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1143030-1310383269.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
+<li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
 <li data-cover="https://img.discogs.com/Apbx9EzXQEMtkw0tBjY4B8ZsDPc=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2950671-1312846576.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
+Eric Clapton - Clapton Chronicles: The Best of Eric Clapton (1999-10-12)
 </li>
 <li data-cover="https://img.discogs.com/eOIoN-rL9mXI3K_SgjWIWJU8-eA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4091170-1371850697-1461.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
 Morphine - The Night (2000-02-01)
@@ -186,7 +183,7 @@ Katie Melua - Call Off the Search (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
 The John Butler Trio - Sunrise Over Sea (2004-03-08)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -305,6 +302,9 @@ John Mayer - Paradise Valley (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c433abe-415f-47e5-9bfa-44fbafee151b/5084224967-500.jpg" data-tags="post-punk" role="button">
 King Krule - 6 Feet Beneath The Moon (2013-08-24)
+</li>
+<li data-cover="https://img.discogs.com/EP7SaYBb2f_XMz_KNuo8rYuTytU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6428431-1418994290-6330.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">
+Aloe Blacc - Wake Me Up (2013-09-24)
 </li>
 <li data-cover="https://img.discogs.com/CRb0Gk5Yo5pl0J6FZ1BqhuAcSw4=/fit-in/599x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5377841-1391891764-4561.jpeg.jpg" data-tags="indie rock, indie, indie pop" role="button">
 Bombay Bicycle Club - So Long, See You Tomorrow (2014-02-03)

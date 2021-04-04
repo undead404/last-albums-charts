@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:26:01.311Z
+date: 2021-04-04T18:18:01.421Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -57,14 +57,8 @@ Nas - Illmatic (1994-04-15)
 <li data-cover="https://img.discogs.com/rcnyFfGaGwEXy6j2wYScR3QcDmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7870718-1477229179-6641.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
 </li>
-<li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
-Cartel - Cartel (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d2473f7-fd17-4158-b3da-623ee764cd2b/26112985625-500.jpg" data-tags="hip-hop, hip hop, sports, basketball, gin, g funk, abq, albums i had on cassette tape" role="button">
 Skee-Lo - I Wish (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
-Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 </li>
 <li data-cover="https://img.discogs.com/1K6lz-ZQCyOIFSvuwGgQdZjNd5E=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5483553-1394539740-9475.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
@@ -101,9 +95,6 @@ MF DOOM - Operation: Doomsday (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a3422a3-bedc-3c7a-a984-b0fd51c0e5ec/9725720160-500.jpg" data-tags="hip hop, hip-hop, rap" role="button">
 The Roots - Things Fall Apart (1999-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/f305300d-d3ef-314f-a260-9b2cc12705d8/2587702528-500.jpg" data-tags="rap" role="button">
-Eminem - The Slim Shady LP (1999-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
 Mos Def - Black On Both Sides (1999-10-12)
@@ -192,9 +183,6 @@ M.I.A. - Kala (2007-08-08)
 <li data-cover="https://img.discogs.com/vmOG8gWA1E0LtCFsj2A3WRsXfEc=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594382-1279055441.jpeg.jpg" data-tags="female vocalists, hip hop" role="button">
 M.I.A. - Paper Planes (2008-02-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rap, hip-hop" role="button">
-Flo Rida - Mail On Sunday (2008-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/9e8bfc4a-e4cb-4e3c-be31-2d7b7070e642/5759701387-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)
 </li>
@@ -239,9 +227,6 @@ Timbaland - Shock Value II (2009-12-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chris brown, hip hop" role="button">
 Chris Brown - Graffiti (2009-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
-Gorillaz - Plastic Beach (2010-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ca7d52e-e60b-4a65-812b-95e268ca588e/2419336392-500.jpg" data-tags="hip hop" role="button">
 Diddy - Dirty Money - Last Train To Paris (2010-05-19)
@@ -300,11 +285,26 @@ Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/cfd78aa4-6938-439e-8be0-e9c51255d35c/5326272078-500.jpg" data-tags="drake, hip hop" role="button">
+Drake - Nothing Was the Same (2013-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">
+Tyler, the Creator - Wolf (2013-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ddd2084-2f0a-432d-a5ed-f14ad151ea87/3912567094-500.jpg" data-tags="electronica, hip hop, dance pop, hip house, electronic dance" role="button">
+will.i.am - #willpower (2013-04-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
 J. Cole - Born Sinner (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
 Kanye West - Yeezus (2013-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
+Childish Gambino - Because the Internet (2013-12-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/f74c6ec2-7319-406b-9910-a6c3fe940176/9051815709-500.jpg" data-tags="rnb, pop" role="button">
+Beyoncé - Beyoncé (2013-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a432f2d1-52cf-440b-bb69-74badf6befaa/25692677906-500.jpg" data-tags="hip-hop, electronic, hip hop" role="button">
 Die Antwoord - Donker Mag (2014-05-30)

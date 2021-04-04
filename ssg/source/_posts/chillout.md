@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:35:01.744Z
+date: 2021-04-04T18:41:01.803Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -47,9 +47,6 @@ Fiona Apple - Tidal (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, trip-hop" role="button">
-Faithless - Reverence (1997-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
@@ -117,7 +114,7 @@ Röyksopp - Melody A.M. (2001-10-08)
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
 Lamb - What Sound (2001-10-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
+<li data-cover="https://img.discogs.com/fz2gCGNE1ZDPji-D3fcK8oKAzxQ=/fit-in/472x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577550-1256586457.jpeg.jpg" data-tags="ambient, electronic" role="button">
 Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/55a3ba25-f854-3e65-bb2b-81fe43664fe9/8049313366-500.jpg" data-tags="jazz, nu jazz, electronic" role="button">
@@ -311,6 +308,9 @@ Bakermat - One Day (Vandaag) (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3151b89c-bc33-4304-9b0c-04158417b641/11082339511-500.jpg" data-tags="chillout, indie, folk, acoustic, listen, another love, songs played on kslu" role="button">
 Tom Odell - Songs from Another Love (2012-10-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
+Rhye - Woman (2013-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
 Indila - Mini World (2014-02-21)

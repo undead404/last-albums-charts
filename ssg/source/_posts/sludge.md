@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:59:01.256Z
+date: 2021-04-04T18:25:01.356Z
 title: "sludge: 100 albums you must listen to before you die"
 ---
 ![Isis - In the Absence of Truth (2006-10-06)](http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg "Isis - In the Absence of Truth (2006-10-06)")
@@ -35,6 +35,9 @@ Sleep - Sleep's Holy Mountain (1992-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf3fefe0-7734-43a9-a00e-4450e76a5401/19911040039-500.jpg" data-tags="sludge" role="button">
 Eyehategod - In The Name Of Suffering (1992-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/64bb2d1b-e4ab-4808-be16-5466264c2e65/20845677913-500.jpg" data-tags="sludge, sludge metal, post-metal" role="button">
+Neurosis - Souls at Zero (1992-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d7de606-9c1d-4faf-9d47-7f9c8912d3e4/7852290321-500.jpg" data-tags="post-metal, sludge, doom metal" role="button">
 Neurosis - Enemy Of The Sun (1993-08-17)
@@ -75,9 +78,6 @@ Crowbar - Broken Glass (1996-09-07)
 <li data-cover="http://coverartarchive.org/release/4512ec2a-f833-4be5-85d3-b2007639bcef/5651025580-500.jpg" data-tags="sludge" role="button">
 Acid Bath - Paegan Terrorism Tactics (1996-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
-Crowbar - Odd Fellows Rest (1998-07-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/62965196-d2ef-4200-92f3-6e67dad070cd/3847276873-500.jpg" data-tags="drone, doom metal" role="button">
 Boris - Amplifier Worship (1998-11-25)
 </li>
@@ -116,9 +116,6 @@ Crowbar - Sonic Excess in Its Purest Form (2001-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/649d1c49-3018-4a0b-b0cc-3ed64c39e373/7741304161-500.jpg" data-tags="sludge, doom metal" role="button">
 Cult of Luna - The Beyond (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/458a88e3-a2d8-49e3-94fa-e25f3b6ca5cf/19939671912-500.jpg" data-tags="sludge metal, sludge" role="button">
-Kylesa - Kylesa (2002-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e41d013a-b455-4359-84c5-c14b6112bba8/28540264236-500.jpg" data-tags="post-metal, sludge" role="button">
 Isis - Oceanic (2002-09-13)
@@ -165,7 +162,7 @@ Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 <li data-cover="http://coverartarchive.org/release/78abaae9-0305-4239-b27c-b0dba4ddb6b6/27838608221-500.jpg" data-tags="sludge" role="button">
 Corrupted - El Mundo Frio (2005-09-29)
 </li>
-<li data-cover="https://img.discogs.com/4RTFVf1AIn5YU7Cij7j-it5ZtfU=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14481201-1575398666-6794.jpeg.jpg" data-tags="post-metal, sludge" role="button">
+<li data-cover="https://img.discogs.com/TY--EiotMwrgw-L9b_HXkHvSPh8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3762871-1343401853-1173.jpeg.jpg" data-tags="post-metal, sludge" role="button">
 Rosetta - The Galilean Satellites (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/14c4ccd6-18df-4739-9ac1-d6ad00969d68/27820983490-500.jpg" data-tags="sludge, metal, progressive metal" role="button">
@@ -221,6 +218,9 @@ Bongripper - Hippie Killer (2007-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8051bb91-61b6-48b3-8a82-fb8762951829/19909510907-500.jpg" data-tags="stoner metal" role="button">
 Weedeater - God Luck and Good Speed (2007-07-31)
+</li>
+<li data-cover="https://img.discogs.com/GDh-Ng1HQYVhre6TKLq_XkU4qUM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101458-1597620920-6186.jpeg.jpg" data-tags="post-metal, crust, sludge" role="button">
+Fall of Efrafa - Elil (2007-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5526d95-9288-4f45-ac86-9ff465792ecb/1369815832-500.jpg" data-tags="progressive metal, sludge metal, sludge" role="button">
 Baroness - Red Album (2007-09-04)
