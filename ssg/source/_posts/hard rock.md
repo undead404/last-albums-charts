@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:59:01.278Z
+date: 2021-04-04T11:18:01.320Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -62,9 +62,6 @@ Led Zeppelin - Presence (1976-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb006e6-aa89-4938-b2b2-a14dcca08e59/13356578915-500.jpg" data-tags="hard rock" role="button">
 AC/DC - High Voltage (1976-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e498ca7-a8f3-342a-b782-8194eefb6da1/20961140989-500.jpg" data-tags="hard rock" role="button">
-Blue Öyster Cult - Agents of Fortune (1976-05-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Boston - Boston (1976-09)
@@ -132,6 +129,9 @@ Guns N' Roses - Use Your Illusion I (1991-09-16)
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion II (1991-09-17)
 </li>
+<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+Rage Against the Machine - Rage Against the Machine (1992-06-11)
+</li>
 <li data-cover="https://img.discogs.com/8zNb0iCL-YTQuy8txDVArGfUSTE=/fit-in/405x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008786-1349737299-5085.jpeg.jpg" data-tags="grunge, 90s" role="button">
 Stone Temple Pilots - Core (1992-09-29)
 </li>
@@ -158,6 +158,9 @@ Godsmack - Godsmack (1998-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
 Creed - Human Clay (1999-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
+Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
@@ -195,9 +198,6 @@ Disturbed - Believe (2002-09-16)
 <li data-cover="http://coverartarchive.org/release/e0381376-5583-4aa6-88fa-2984d25ef3a5/7915054343-500.jpg" data-tags="hard rock, rock" role="button">
 Trapt - Trapt (2002-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
-Linkin Park - Meteora (2003-03-24)
-</li>
 <li data-cover="https://img.discogs.com/vlau61vpGX-YOKEj67EuCN9BpRM=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7066761-1432968460-8867.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
@@ -209,9 +209,6 @@ The Darkness - Permission to Land (2003-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
 Three Days Grace - Three Days Grace (2003-07-22)
-</li>
-<li data-cover="https://img.discogs.com/hiJKhndS9YkCjjuZvxc1qzwGU10=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1471056-1413743577-2531.jpeg.jpg" data-tags="rock" role="button">
-Jet - Get Born (2003-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0618d2be-4b47-383c-b1f4-eca2dd88f866/5870438747-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Greatest Hits (2004-02-13)
@@ -230,6 +227,9 @@ Alter Bridge - One Day Remains (2004-08-10)
 </li>
 <li data-cover="https://img.discogs.com/mLHsKWRrH4SZ9Kp11H0CjEo6fw0=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-597714-1136635325.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">
 Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">
+System of a Down - Mezmerize (2005-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
 Avenged Sevenfold - City of Evil (2005-06-07)

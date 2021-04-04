@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:42:01.217Z
+date: 2021-04-04T11:36:01.291Z
 title: "oldies: 100 albums you must listen to before you die"
 ---
 ![Simon &amp; Garfunkel - Greatest Hits (1972-06-14)](https://img.discogs.com/mfBUquz8EFF-YH4aHVrEVlCI3L4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119078-1193587084.jpeg.jpg "Simon & Garfunkel - Greatest Hits (1972-06-14)")
@@ -51,9 +51,6 @@ The Drifters - Under the Boardwalk (1964)
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="oldies, schlageroldies" role="button">
-The Coasters - The Coasters (1965)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, oldies, 50s" role="button">
 The Everly Brothers - The Very Best of the Everly Brothers (1965)
 </li>
@@ -81,6 +78,9 @@ Scott McKenzie - San Francisco (1967-05-04)
 <li data-cover="http://coverartarchive.org/release/b5f953d6-5de4-4879-80ac-5d17b720c814/3818382603-500.jpg" data-tags="pop, soul, 60s, oldies" role="button">
 Dusty Springfield - Dusty... Definitely (1968)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="oldies, duets" role="button">
+Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, christmas, oldies, tony bennett, golden oldies, mastersinger, vocalistas masculinos, t bennett" role="button">
 Tony Bennett - Snowfall - The Tony Bennett Christmas Album (1968)
 </li>
@@ -99,7 +99,7 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, classic rock" role="button">
+<li data-cover="https://img.discogs.com/y98bnzxyaxUiNv5HPvXiv_5axoM=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2548744-1608661804-5197.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4e8276c-985e-4e0a-94cb-7e32563945fa/8765948339-500.jpg" data-tags="70s, pop, soft rock" role="button">
@@ -129,7 +129,7 @@ Neil Diamond - His 12 Greatest Hits (1974)
 <li data-cover="https://via.placeholder.com/450" data-tags="disco, 70s" role="button">
 George McCrae - Rock Your Baby (1974-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, elton john" role="button">
+<li data-cover="https://img.discogs.com/LGYl7GukKX0bogOBnhyrkWjNyh0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-811793-1161366924.jpeg.jpg" data-tags="rock, elton john" role="button">
 Elton John - Caribou (1974-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/17e2b2bf-2ccc-4592-9b32-d4fdf7d9423a/7297450107-500.jpg" data-tags="classic rock, rock, soft rock" role="button">
@@ -207,7 +207,7 @@ Boney M. - Daddy Cool (1991)
 <li data-cover="http://coverartarchive.org/release/d0c98e50-96b5-4339-be38-f62a76adfb11/13881837199-500.jpg" data-tags="oldies" role="button">
 Dion - Presenting Dion & The Belmonts, Runaround Sue (1991)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s" role="button">
+<li data-cover="https://img.discogs.com/IFM9TdKZVvtoiYJDfCr8SwgM5A8=/fit-in/592x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3314573-1325414018.jpeg.jpg" data-tags="60s" role="button">
 The Ronettes - The Best Of The Ronettes (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/f38d4719-5733-4545-8c02-22d7b820d6a9/4967179669-500.jpg" data-tags="abba" role="button">

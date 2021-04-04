@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:43:01.442Z
+date: 2021-04-04T11:21:02.253Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -27,9 +27,6 @@ The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock" role="button">
-The Beatles - Let It Be (1970-05-08)
-</li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
 </li>
@@ -47,6 +44,9 @@ Oasis - Definitely Maybe (1994-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg" data-tags="alternative rock, radiohead, rock" role="button">
+Radiohead - The Bends (1995-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6494c5a-a55a-45e3-a302-67bc721aadc7/10070793469-500.jpg" data-tags="britpop" role="button">
 Oasis - (What's the Story) Morning Glory? (1995-10-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:52:01.594Z
+date: 2021-04-04T11:17:06.760Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Flogging Molly - Drunken Lullabies (2002-03-19)](http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg "Flogging Molly - Drunken Lullabies (2002-03-19)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, 60s" role="button">
 Van Morrison - Astral Weeks (1968-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s, singer-songwriter, woodstock sounds" role="button">
+<li data-cover="https://img.discogs.com/lhDMFLm69AXY1uC7eHm5qn93pIM=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7667573-1446314734-5684.jpeg.jpg" data-tags="classic rock, 70s, singer-songwriter, woodstock sounds" role="button">
 Van Morrison - His Band and The Street Choir (1970-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="blues rock, classic rock, blues" role="button">
@@ -39,7 +39,7 @@ Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 <li data-cover="http://coverartarchive.org/release/6e48b834-8865-4a01-af1f-90a56751e9d2/1358975079-500.jpg" data-tags="folk, irish" role="button">
 Planxty - Planxty (1973)
 </li>
-<li data-cover="https://img.discogs.com/GMOqIE6U3wS6CuZhxQjxl3Zc210=/fit-in/439x434/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4465709-1365642250-3390.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/3lMg394Yp43vjYeb4dqnD8Xl1Sg=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5966549-1407608547-5756.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Thin Lizzy - Vagabonds of the Western World (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/85dfbc75-c389-4c36-a0f2-4d7b41723478/11412752699-500.jpg" data-tags="hard rock" role="button">
@@ -48,7 +48,7 @@ Thin Lizzy - Fighting (1975)
 <li data-cover="https://img.discogs.com/Ow-Gaovoa219SVHQbCTq-VoIkbA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-868401-1514550929-4213.jpeg.jpg" data-tags="punk" role="button">
 Stiff Little Fingers - Inflammable Material (1979-02-02)
 </li>
-<li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/W2Wg9PCWvMI0BDTucd6MNTm2a0k=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2345466-1278545921.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/37ab2177-339b-4f5d-affc-f1e5d468bf68/6741475248-500.jpg" data-tags="rock, 80s" role="button">
@@ -66,8 +66,8 @@ Christy Moore - Ride On (1984)
 <li data-cover="http://coverartarchive.org/release/b268f8c3-a6ee-359f-8804-b2d2eba6f673/8126647993-500.jpg" data-tags="rock" role="button">
 U2 - The Unforgettable Fire (1984-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/75426382-d7f5-458e-b50d-370a21c430c9/10253435044-500.jpg" data-tags="new age" role="button">
-Enya - Enya (1986)
+<li data-cover="http://coverartarchive.org/release/bb533884-3d66-4945-955e-3c57e629b316/3722741186-500.jpg" data-tags="celtic, new age" role="button">
+Clannad - Macalla (1985)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:34:01.272Z
+date: 2021-04-04T11:33:01.319Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -27,7 +27,7 @@ Black Sabbath - Black Sabbath (1970-02-13)
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Paranoid (1970-09-18)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/ufnpzsAn_QpNXewfMCVhseGe29Y=/fit-in/600x975/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15842342-1598801261-2743.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Master of Reality (1971-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/734f7ad8-4e20-435e-a27b-c3b7e0ff3e35/17989087737-500.jpg" data-tags="heavy metal" role="button">
@@ -84,7 +84,7 @@ Dio - Holy Diver (1983-05-25)
 <li data-cover="http://coverartarchive.org/release/c06ed440-f25d-3127-aadb-ebe9c685b3d8/6882618113-500.jpg" data-tags="thrash metal" role="button">
 Metallica - Kill 'Em All (1983-07-25)
 </li>
-<li data-cover="https://img.discogs.com/R2R8513nDJOhrhPIpSiPEy9WwU0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2934045-1307989333.jpeg.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">
+<li data-cover="https://img.discogs.com/zVzYi9Tf5FN88oLwKW85zTBOC_I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9308434-1478346924-6609.jpeg.jpg" data-tags="hard rock, glam metal, heavy metal" role="button">
 Mötley Crüe - Shout at the Devil (1983-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/366d8c45-e966-4c32-b259-87dcfcd7b8f1/19713925563-500.jpg" data-tags="heavy metal" role="button">
@@ -198,6 +198,9 @@ Metallica - Reload (1997-11-15)
 <li data-cover="https://img.discogs.com/RRh5JTOnAmsWr1WyvaG82fVff6Y=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3068807-1486190051-8831.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Virtual XI (1998-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/f149cf49-9364-365a-a9d5-b1ec5688075d/1068123055-500.jpg" data-tags="industrial metal" role="button">
+Rob Zombie - Hellbilly Deluxe (1998-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
 </li>
@@ -225,16 +228,13 @@ Disturbed - Believe (2002-09-16)
 <li data-cover="https://img.discogs.com/akYypPVwureTC5Kj_1MQmg24GcI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1755193-1564071870-9517.jpeg.jpg" data-tags="thrash metal" role="button">
 Metallica - Master of Puppets (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/9521fd78-f33c-4bea-a1d6-f9248ba8a9fb/14971786451-500.jpg" data-tags="heavy metal" role="button">
-Black Label Society - The Blessed Hellride (2003-03-29)
-</li>
 <li data-cover="https://img.discogs.com/vlau61vpGX-YOKEj67EuCN9BpRM=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7066761-1432968460-8867.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Led Zeppelin (2003-05-26)
 </li>
-<li data-cover="https://img.discogs.com/mTfwT4JCe43wbpCBxVbvPD1ZDLc=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15211201-1588165066-5840.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
+<li data-cover="https://img.discogs.com/kF9iKRsz7Si3aPgDV2T74KAXepE=/fit-in/450x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961563-1255210779.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
 Metallica - St. Anger (2003-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c1e204d-5753-4a12-9a27-f6cd70f296a1/15064785894-500.jpg" data-tags="heavy metal" role="button">

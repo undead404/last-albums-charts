@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:39:01.289Z
+date: 2021-04-04T11:31:07.050Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -56,6 +56,9 @@ Yes - Tales from Topographic Oceans (1973-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac6a3bdd-4d2e-38e8-ba6e-33cecf128b18/14101003831-500.jpg" data-tags="glam rock, 70s" role="button">
 David Bowie - Diamond Dogs (1974-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/5f85c80f-d33a-430f-be13-cec775a9bd04/6040849759-500.jpg" data-tags="progressive rock" role="button">
+Genesis - The Lamb Lies Down on Broadway (1974-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/287a0f2c-53da-4fac-b254-f004e350fe82/14956557712-500.jpg" data-tags="hard rock, rock" role="button">
 Alice Cooper - Welcome to My Nightmare (1975-03-11)
@@ -116,9 +119,6 @@ Die Ärzte - Le Frisur (1996-05-24)
 </li>
 <li data-cover="https://img.discogs.com/BDGD2HST67jkgfgyJtNnyChItTc=/fit-in/493x429/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2009258-1258293871.jpeg.jpg" data-tags="heavy metal" role="button">
 Grave Digger - Tunes of War (1996-09-16)
-</li>
-<li data-cover="https://img.discogs.com/tbjylQHNMnkvksgOHEZDsMYVdEc=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542928-1289825094.jpeg.jpg" data-tags="heavy metal" role="button">
-King Diamond - The Graveyard (1996-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a78dd31-7dbf-35d4-a658-b9f8c98e9b1d/2498103415-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Entropia (1997-08)
@@ -267,6 +267,9 @@ The Feeling - Twelve Stops And Home (2006-06-02)
 <li data-cover="http://coverartarchive.org/release/90f54514-f789-4835-b3e0-d1f14e9e766e/3820440959-500.jpg" data-tags="country" role="button">
 Eric Church - Sinners Like Me (2006-07-18)
 </li>
+<li data-cover="https://img.discogs.com/y3J1BJWu6hxUYGABSHnoVyX1VkA=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3040332-1312929855.jpeg.jpg" data-tags="acoustic" role="button">
+The Prize Fighter Inferno - My Brother's Blood Machine (2006-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/57df139a-0e66-4810-9180-8e30948e29d5/16094167297-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Scarsick (2007-01-22)
 </li>
@@ -308,9 +311,6 @@ Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Eddie Vedder - Ukulele Songs (2011-05-26)
-</li>
-<li data-cover="https://img.discogs.com/56SblfYt1FnJDZvcqJZ3ia3iOsk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5803344-1616011015-6176.jpeg.jpg" data-tags="indie, alternative rock, pop rock, easy listening, emotional, hypnotic, hauntingly beautiful, concept album, comforting, worth the wait, fucking good music, lyrically brilliant, relatable, conclusion, change in style, daybreak trilogy" role="button">
-Saves the Day - Daybreak (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">
 Car Seat Headrest - Twin Fantasy (2011-11-02)

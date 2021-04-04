@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:38:01.427Z
+date: 2021-04-04T10:29:01.253Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -36,7 +36,7 @@ Jamiroquai - Travelling Without Moving (1996-09-09)
 <li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="https://img.discogs.com/UQ5V28f8DqJANNaLg7CMi1ASFXE=/fit-in/600x842/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12411707-1534756813-2186.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
 Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="male vocalists, new jack swing, faves, rap and hip hop, blackstreet, new songs" role="button">
@@ -168,9 +168,6 @@ Kings of Leon - Only by the Night (2008-09-19)
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/1fdff2a1-1bdf-499a-a50c-e5d742958094/10875910782-500.jpg" data-tags="rock, alternative rock" role="button">
-David Cook - David Cook (2008-11-18)
-</li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
@@ -269,6 +266,9 @@ Robbie Williams - Candy (2012-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
+Allah-Las - Allah-Las (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b88cc724-d67c-47a1-bf7c-720e992c6b92/9371359026-500.jpg" data-tags="2012" role="button">
 Olly Murs - Right Place Right Time (2012-11-26)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:18:01.533Z
+date: 2021-04-04T11:23:01.461Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -177,7 +177,7 @@ Beyoncé - I Am... Sasha Fierce (2008-11-17)
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
-<li data-cover="https://img.discogs.com/D1oTozoiYJ-EzZHW9qE1m-usLac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9365377-1479312196-3021.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/PEP_ZS744KnxIEbpm0jJrasIlGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5081101-1383983724-1806.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - Circus (2008-11-28)
 </li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">

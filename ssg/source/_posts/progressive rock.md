@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:04:01.365Z
+date: 2021-04-04T10:45:01.634Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -131,6 +131,9 @@ Yes - 90125 (1983-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Kansas - The Best of Kansas (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
+Kate Bush - Hounds of Love (1985-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bc83ff3-ac0e-4fa5-8dfc-a5aa1bf57afd/15367001320-500.jpg" data-tags="progressive rock, 80s" role="button">
 Peter Gabriel - So (1986-05-19)
@@ -305,9 +308,6 @@ Opeth - Heritage (2011-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/75350c8b-eaed-4a0a-bf6a-50723295f977/3712915540-500.jpg" data-tags="2012, progressive rock" role="button">
 Anathema - Weather Systems (2012-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
-Muse - The 2nd Law (2012-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ac426a4-f2c0-4176-86d6-1453cab3f999/23741623778-500.jpg" data-tags="progressive rock" role="button">
 Steven Wilson - The Raven That Refused to Sing (and Other Stories) (2013-02-25)

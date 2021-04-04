@@ -1,11 +1,11 @@
 ---
-date: 2021-04-04T06:34:06.619Z
+date: 2021-04-04T11:02:01.947Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">Refused - The Shape of Punk to Come (1998-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">Converge - Jane Doe (2001-09-04)</li>
+<li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">From Autumn To Ashes - The Fiction We Live (2003-09-09)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="https://img.discogs.com/g47MKA09F1QZH3rA38T8vzXChEY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4165539-1357434050-5425.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">A Day to Remember - And Their Name Was Treason (2005-05-10)</li>
 <li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
@@ -33,7 +33,7 @@ Bad Brains - Bad Brains (1982)
 <li data-cover="http://coverartarchive.org/release/c04c7090-1bea-4852-a4c3-6d54065117d2/21545300582-500.jpg" data-tags="hardcore punk, punk, sludge" role="button">
 Black Flag - My War (1984-03)
 </li>
-<li data-cover="https://img.discogs.com/HjtlT-8YdluGQkJRxxpJMVGX2UU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3103302-1315903982.jpeg.jpg" data-tags="alternative metal" role="button">
+<li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">
@@ -41,9 +41,6 @@ Helmet - Meantime (1992-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6fe0f2d-2a88-438e-bc55-2e32c576bfa8/9247843471-500.jpg" data-tags="hardcore" role="button">
 Hatebreed - Satisfaction Is the Death of Desire (1997-11-11)
-</li>
-<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
-Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f16f6c63-40e7-4393-9c5c-6ef9163657c0/8039780020-500.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 AFI - Black Sails in the Sunset (1999-05-18)
@@ -80,6 +77,9 @@ Hatebreed - Perseverance (2002-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b877e532-bf36-437d-84df-a1facb14e308/27477356880-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Suicide Notes And Butterfly Kisses (2002-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/0adc628c-ad64-39cd-b882-3be9a2af1f1b/4783923651-500.jpg" data-tags="punk" role="button">
+Hot Water Music - Caution (2002-10-07)
 </li>
 <li data-cover="https://img.discogs.com/vZJp_NsfZ9gWVgB1b02nWTLnKMk=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1170925-1478395739-2078.jpeg.jpg" data-tags="screamo" role="button">
 Circle Takes the Square - As the Roots Undo (2003)
@@ -225,7 +225,7 @@ Evergreen Terrace - Wolfbiker (2007-07-20)
 <li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
 Five Finger Death Punch - The Way Of The Fist (2007-07-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, hard rock" role="button">
+<li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">

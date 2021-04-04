@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:50:01.375Z
+date: 2021-04-04T11:14:01.318Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -27,11 +27,11 @@ Françoise Hardy - Comment te dire adieu (1968-11)
 <li data-cover="http://coverartarchive.org/release/1f016a24-156b-4216-a145-3a0cb53eeb79/1158403439-500.jpg" data-tags="french" role="button">
 Serge Gainsbourg - Histoire de Melody Nelson (1971-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/c36e9428-8c2a-4536-b9a7-4e1e2b5bd28d/1171631272-500.jpg" data-tags="french" role="button">
+Mylène Farmer - Ainsi soit je... (1988-04)
+</li>
 <li data-cover="https://img.discogs.com/-Nw5rj7oFyxs-0Zrs6KpE5WQVJw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-499126-1451148309-9499.jpeg.jpg" data-tags="french" role="button">
 Vanessa Paradis - Vanessa Paradis (1992-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/86db16e8-deb7-492c-91f4-7dfdf7486644/4049316575-500.jpg" data-tags="french" role="button">
-Édith Piaf - 30e Anniversaire (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a60b0f5-9a20-385c-9972-a0a4cf89f729/24001891419-500.jpg" data-tags="instrumental" role="button">
 Yann Tiersen - La Valse Des Monstres (1995-06-13)
@@ -66,14 +66,14 @@ Yann Tiersen - Le Phare (1998-02-20)
 <li data-cover="http://coverartarchive.org/release/cb844a4d-c02f-3199-b949-1656b36722da/8145217760-500.jpg" data-tags="house" role="button">
 Cassius - 1999 (1999-01-25)
 </li>
+<li data-cover="https://img.discogs.com/ueHqVa2uBQeA-HuOllCR2Tgm4r8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8734758-1467658299-8227.jpeg.jpg" data-tags="french, pop" role="button">
+Mylène Farmer - Innamoramento (1999-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
 Mr. Oizo - Analog Worms Attack (1999-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d2768e-66ad-42a7-8bc4-f6fbfccfa81c/1230967625-500.jpg" data-tags="french, pop, french pop" role="button">
 Alizée - Gourmandises (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/503cb223-719b-332f-bd81-8d3e182a0308/1171048477-500.jpg" data-tags="techno, electronic" role="button">
-Laurent Garnier - Unreasonable Behaviour (2000-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
@@ -126,9 +126,6 @@ Carla Bruni - Quelqu'un m'a dit (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/2d41f2db-27fe-4bd8-af53-2f1a29435276/19380694738-500.jpg" data-tags="reggae, french" role="button">
 Tryo - Grain De Sable (2003-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e12e581-8166-487b-97e8-6373e736d77e/1670737064-500.jpg" data-tags="french, chanson francaise" role="button">
-CALI - L'amour Parfait (2003-08-19)
-</li>
 <li data-cover="https://img.discogs.com/IsfWljFvoNEBrzLWnVnAS7FChPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400254-1111878087.jpg.jpg" data-tags="french" role="button">
 Keren Ann - Not Going Anywhere (2003-11-25)
 </li>
@@ -180,8 +177,8 @@ Phoenix - It's Never Been Like That (2006-05-10)
 <li data-cover="http://coverartarchive.org/release/0fe94139-df63-4e51-b2e7-a1d53535cdd9/7145334932-500.jpg" data-tags="lounge" role="button">
 Nouvelle Vague - Bande à Part (2006-06-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/d48e31d3-cfa5-49f9-bd74-9b2b097c840a/6368005577-500.jpg" data-tags="french, ed banger, new rave, unique, mat payne" role="button">
-Mr. Flash - Champions (2006-07-04)
+<li data-cover="http://coverartarchive.org/release/be9453f4-23e8-46f1-863a-d3a63cdd6231/23498089082-500.jpg" data-tags="female vocalists, french" role="button">
+Charlotte Gainsbourg - 5:55 (2006-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/671c4c2b-ff73-3050-9a5a-83f538da8401/7109875918-500.jpg" data-tags="electronic, yelle" role="button">
 Yelle - Je Veux Te Voir (2006-08-28)
@@ -228,6 +225,9 @@ Surkin - Next of Kin EP (2008-03-31)
 <li data-cover="http://coverartarchive.org/release/3370576f-9236-30df-939a-bdb1760b308a/1633159472-500.jpg" data-tags="french, female vocalists" role="button">
 Camille - Music Hole (2008-04-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
+M83 - Saturdays = Youth (2008-04-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/df1412da-a353-4319-ba90-49c08c216a08/2941982804-500.jpg" data-tags="french, electro, new wave, valerie, 80s groove, electro synth rock, analog synth fetish, horstaxe, minitel rose french machine" role="button">
 Minitel Rose - The French Machine (2008-05-28)
 </li>
@@ -239,6 +239,9 @@ Caravan Palace - Caravan Palace (2008-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
+</li>
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
 Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
@@ -263,9 +266,6 @@ Zaz - Zaz (2010-05-10)
 </li>
 <li data-cover="https://img.discogs.com/WA0CEnoechp6NQSvei2aorzf5u4=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2907119-1581926315-2145.jpeg.jpg" data-tags="post-rock" role="button">
 Yann Tiersen - Dust Lane (2010-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5dcfc63-6c57-3ec1-8405-6e7a148e1cca/3825741259-500.jpg" data-tags="french" role="button">
-Cocoon - Where The Oceans End (2010-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)

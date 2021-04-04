@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:05:01.446Z
+date: 2021-04-04T11:19:01.339Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -33,6 +33,9 @@ Nirvana - Nevermind (1991-09-23)
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
+<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+Rage Against the Machine - Rage Against the Machine (1992-06-11)
+</li>
 <li data-cover="https://img.discogs.com/-t_yW2APNnohJ-C_nDFMMCcKRsg=/fit-in/587x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2744720-1381875626-3342.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
@@ -48,11 +51,11 @@ Mazzy Star - So Tonight That I Might See (1993-09-27)
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
-Nine Inch Nails - The Downward Spiral (1994-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg" data-tags="alternative rock, radiohead, rock" role="button">
+Radiohead - The Bends (1995-03-08)
 </li>
 <li data-cover="https://img.discogs.com/Q3yl1WI41mftREVRp0uoOeWmjpQ=/fit-in/454x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4576388-1369670400-5909.jpeg.jpg" data-tags="90s, rock, female vocalists" role="button">
 Alanis Morissette - Jagged Little Pill (1995-06-09)
@@ -98,9 +101,6 @@ Radiohead - Kid A (2000-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
 PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
-</li>
-<li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
-Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:50:01.234Z
+date: 2021-04-04T10:49:01.244Z
 title: "emotional: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -7,7 +7,7 @@ title: "emotional: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">Vashti Bunyan - Just Another Diamond Day (1970)</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
-<li data-cover="https://img.discogs.com/UQ5V28f8DqJANNaLg7CMi1ASFXE=/fit-in/600x842/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12411707-1534756813-2186.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">Robbie Williams - Angels (1997-11)</li>
+<li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">Robbie Williams - Angels (1997-11)</li>
 <li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
@@ -30,7 +30,7 @@ Bob Marley & The Wailers - Live! (1975-12-05)
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
-<li data-cover="https://img.discogs.com/J4CQrO-Lszt-IigQP7D8Mc2Wv5A=/fit-in/387x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1168565-1372073744-4767.jpeg.jpg" data-tags="pop, dance, funk, freestyle" role="button">
+<li data-cover="https://img.discogs.com/CBblT9cfKoNvmUrJMN0PpST207k=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1838313-1342335484-3426.jpeg.jpg" data-tags="pop, dance, funk, freestyle" role="button">
 Neneh Cherry - Raw Like Sushi (1989-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
@@ -63,10 +63,10 @@ Smog - Red Apple Falls (1997-05-20)
 <li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="https://img.discogs.com/UQ5V28f8DqJANNaLg7CMi1ASFXE=/fit-in/600x842/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12411707-1534756813-2186.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
 Robbie Williams - Angels (1997-11)
 </li>
-<li data-cover="https://img.discogs.com/J15B2jbVt9XWXJLHT5z4ZlLhpXs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5155758-1386007235-9377.jpeg.jpg" data-tags="gothic, 90s, soft, ethereal, emotional, darkwave, lycia, nihilism, dream, us, night time, to explore, existentialism, music and poetry, excruciatingly beautiful, autumn and winter, lauraann163" role="button">
+<li data-cover="https://img.discogs.com/-fSLehijsmulEhaSsuDk9hVRm5U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164232-1243812758.jpeg.jpg" data-tags="gothic, 90s, soft, ethereal, emotional, darkwave, lycia, nihilism, dream, us, night time, to explore, existentialism, music and poetry, excruciatingly beautiful, autumn and winter, lauraann163" role="button">
 Lycia - Estrella (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/0efb51b9-b587-4cc2-ae11-fda10fd157f8/2772677034-500.jpg" data-tags="indie, lo-fi" role="button">
@@ -105,7 +105,7 @@ Peter Gabriel - OVO (2000-06-12)
 <li data-cover="http://coverartarchive.org/release/b85f3519-c771-3267-92c0-cf509db2eba0/2454107403-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Sing When You're Winning (2000-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e70135c-379b-474e-9d91-72abc1fab102/20161665425-500.jpg" data-tags="indie, alternative, singer-songwriter, rock, country, alternative rock, folk, indie pop, indie rock, acoustic, blues, guitar" role="button">
+<li data-cover="https://img.discogs.com/tNvEtORexvhwwjmD-BiZJpncDAQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8862309-1470320486-5053.jpeg.jpg" data-tags="indie, alternative, singer-songwriter, rock, country, alternative rock, folk, indie pop, indie rock, acoustic, blues, guitar" role="button">
 Damien Jurado - Ghost of David (2000-09-19)
 </li>
 <li data-cover="https://img.discogs.com/28iN8SnXj2l8D2rFyM_lgpyeqVA=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030083-1531823005-1129.jpeg.jpg" data-tags="soft rock, singer-songwriter" role="button">
@@ -123,7 +123,7 @@ Peter Murphy - Dust (2002-04-23)
 <li data-cover="http://coverartarchive.org/release/f355ffd0-6e6f-4c78-9ad9-9fa7dc5bba1b/5603335089-500.jpg" data-tags="indie, alternative" role="button">
 Robbie Williams - Feel (2002-12-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/BeaO2ukjewjaMsNM-fHJkLxWvT0=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-848167-1380730032-6333.jpeg.jpg" data-tags="indie" role="button">
 Lampshade - Because Trees Can Fly (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
@@ -159,10 +159,10 @@ Sufjan Stevens - Seven Swans (2004-03-16)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
-<li data-cover="https://img.discogs.com/iVvwkqtoSnUexSg2FgDy1yZGPC4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453334-1243153042.jpeg.jpg" data-tags="indie, country, alternative, folk, indie pop, indie rock, sad, singer-songwriter, acoustic, blues, mellow, alt-country, melancholy, folk rock, slow, calm, lo-fi, americana, moody, songwriter, winter, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, country, alternative, folk, indie pop, indie rock, sad, singer-songwriter, acoustic, blues, mellow, alt-country, melancholy, folk rock, slow, calm, lo-fi, americana, moody, songwriter, winter, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
 Little Wings - Magic Wand (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, favorite, alt rock, independent, tracks, favourite songs, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
@@ -174,14 +174,11 @@ Beirut - Gulag Orkestar (2005)
 <li data-cover="http://coverartarchive.org/release/45807016-ee11-429e-aaa2-392eb9e38800/18781279674-500.jpg" data-tags="icelandic" role="button">
 Dikta - Hunting For Happiness (2005)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, instrumental, instrumental hip-hop, instrumental hip hop, hiphop, emotional, dramatic, spacey, uplifting, hungarian, ambient hip hop, secret room" role="button">
-DJ Bootsie - The Silent Partner (2005-03-10)
+<li data-cover="https://img.discogs.com/jBkFiVUsAuwP42hziwBXEx-C-vE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3125673-1316967147.jpeg.jpg" data-tags="progressive rock, rock" role="button">
+John Wesley - Shiver (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 British Sea Power - Open Season (2005-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/02942ebd-41d0-4868-a6aa-20f70ffee92b/7928073801-500.jpg" data-tags="metalcore, metal, mathcore" role="button">
-The Number Twelve Looks Like You - Nuclear. Sad. Nuclear (2005-06-07)
 </li>
 <li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
@@ -228,6 +225,9 @@ Lisa Gerrard - The Silver Tree (2006-11-21)
 <li data-cover="http://coverartarchive.org/release/389cd05b-7bed-4d1f-ac93-273b23936847/7592328592-500.jpg" data-tags="memory man" role="button">
 Aqualung - Memory Man (2007-03-13)
 </li>
+<li data-cover="https://img.discogs.com/UsTX6VX88iKYRG7ac2cMLojxbFg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1676580-1401460206-8106.jpeg.jpg" data-tags="progressive rock" role="button">
+Marillion - Somewhere Else (2007-04-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
@@ -249,6 +249,9 @@ M. Ward - Transfiguration of Vincent (2008)
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ed22f1e-5e36-46b6-be87-8fad8eda7175/7136533437-500.jpg" data-tags="classical, solo, piano, acoustic, melodic, emotional, melancholic, relax, free music" role="button">
+Maya Filipič - Between Two Worlds (2008-08-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Anathema - Hindsight (2008-08-25)
 </li>
@@ -258,10 +261,10 @@ Glasvegas - Glasvegas (2008-09-05)
 <li data-cover="https://img.discogs.com/OUmJv0COymM1h5yzdU2bhX5korQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263064-1204673409.jpeg.jpg" data-tags="pop" role="button">
 The Feeling - Join With Us (2008-09-05)
 </li>
-<li data-cover="https://img.discogs.com/Ni3gILRQlpYj17h-u6DPrQOiqzg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2726456-1298251273.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/ucsipSoZ2ymGp6L2uD3qPHKlxEE=/fit-in/440x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554147-1268223270.jpeg.jpg" data-tags="progressive rock" role="button">
 Marillion - Happiness is the Road, Volume 1: Essence (2008-09-10)
 </li>
-<li data-cover="https://img.discogs.com/TA9ys61yq9r2cSCSZzzr2Knd_nU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6416203-1418667418-6142.jpeg.jpg" data-tags="james morrison, pop" role="button">
+<li data-cover="https://img.discogs.com/n7B8FPNmhw_z8nfzEPh7euSPA4A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5523634-1395585630-8398.jpeg.jpg" data-tags="james morrison, pop" role="button">
 James Morrison - Songs for You, Truths for Me (2008-09-26)
 </li>
 <li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
@@ -303,14 +306,11 @@ The Pierces - You & I (2011-05-30)
 <li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
 Darren Korb - Bastion Original Soundtrack (2011-08-05)
 </li>
-<li data-cover="https://img.discogs.com/56SblfYt1FnJDZvcqJZ3ia3iOsk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5803344-1616011015-6176.jpeg.jpg" data-tags="indie, alternative rock, pop rock, easy listening, emotional, hypnotic, hauntingly beautiful, concept album, comforting, worth the wait, fucking good music, lyrically brilliant, relatable, conclusion, change in style, daybreak trilogy" role="button">
+<li data-cover="https://img.discogs.com/Y67Iv4lWN4ctWkoQ0oyCMYEtTQY=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13539589-1588906245-9723.jpeg.jpg" data-tags="indie, alternative rock, pop rock, easy listening, emotional, hypnotic, hauntingly beautiful, concept album, comforting, worth the wait, fucking good music, lyrically brilliant, relatable, conclusion, change in style, daybreak trilogy" role="button">
 Saves the Day - Daybreak (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/710c7f38-563a-48c1-b93c-740043697c0a/6393087014-500.jpg" data-tags="electronic, ambient, dreamy, 10s" role="button">
 Bvdub - Serenity (2012-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0cc38f0b-01fc-4131-baff-e6d7f24ea116/6953148524-500.jpg" data-tags="indie, pop, folk, female vocalists, medieval, metal, electronic, electronica, female, indie pop, dance, ethereal, gothic metal, recommended, female vocalist, symphonic metal, power metal, fantasy, misc, spam, all, stunning, islamic, akiko shikata, poptron, cringeworthy, eftos, total spambo, spambo" role="button">
-Erutan - A Bard's Side Quest (2013-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3e8d831-3a0c-48f3-bb2b-bcd3a4c3a85a/6365027914-500.jpg" data-tags="indie, rock, folk, singer-songwriter, acoustic, country-rock, guitar, build, emotional, country rock, travelling, emotive, build-up, travel music, travelling music" role="button">
 The Districts - The Districts (2014-01-28)

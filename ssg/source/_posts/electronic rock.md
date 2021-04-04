@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:17:01.264Z
+date: 2021-04-04T11:13:01.289Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -63,7 +63,7 @@ Marilyn Manson - Mechanical Animals (1998-09-14)
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
-<li data-cover="https://img.discogs.com/LIWlyVwXfnrmgY46VP-dbPtaMUA=/fit-in/384x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-960859-1373840991-3683.jpeg.jpg" data-tags="synthpop" role="button">
+<li data-cover="https://img.discogs.com/i7Mdiv7bhGP0Wki8_jUzVqvns_M=/fit-in/572x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6078419-1442913906-8783.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/33f0bb8d-c07f-406e-9146-a786f258e569/8345837686-500.jpg" data-tags="electronic, rock, alternative rock, soft rock, electronic rock" role="button">
@@ -98,9 +98,6 @@ The Faint - Wet From Birth (2004-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
-</li>
-<li data-cover="https://img.discogs.com/Qb1byW2yciR64JUZcsNJIeNdeN0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059143-1431553483-1453.jpeg.jpg" data-tags="electronic, make time, electrofusion" role="button">
-Whitey - The Light At The End Of The Tunnel Is A Train (2005-03-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="synthpop, ebm" role="button">
 Apoptygma Berzerk - You and Me Against the World (2005-09-12)
@@ -248,6 +245,9 @@ The Rasmus - The Rasmus (2012-04-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Dot Hacker - Inhibition (2012-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee805eba-996b-48c6-bccb-52b6ff5f4dd7/1017565236-500.jpg" data-tags="folk, indie, drone" role="button">
+Mount Eerie - Clear Moon (2012-05-22)
 </li>
 <li data-cover="https://img.discogs.com/2TkSVXGW0WrjZ5DL0i2wE3Js3lc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3862348-1347269597-1941.jpeg.jpg" data-tags="electronic rock, psb, post-dance edu-rock" role="button">
 Public Service Broadcasting - The War Room (2012-05-28)
