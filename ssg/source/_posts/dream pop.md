@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:39:01.228Z
+date: 2021-04-04T08:36:01.628Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -30,7 +30,7 @@ Cocteau Twins - Treasure (1984-10-01)
 <li data-cover="http://coverartarchive.org/release/c53d6f73-a312-457a-bafd-2d38ec4d1cce/8216198322-500.jpg" data-tags="dream pop, ethereal" role="button">
 Cocteau Twins - Victorialand (1986-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop, 80s, 4ad" role="button">
+<li data-cover="https://img.discogs.com/2KunWdANjetqmAeteAR32ZY_rcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1641215-1234035719.jpeg.jpg" data-tags="dream pop, 80s, 4ad" role="button">
 Cocteau Twins - Blue Bell Knoll (1988-09-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="slowcore, shoegaze" role="button">
@@ -99,9 +99,6 @@ Trespassers William - Different Stars (2002-09-28)
 <li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
 The Radio Dept. - Lesser Matters (2003-02-24)
 </li>
-<li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
-Mew - Frengers (2003-04-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
 Broadcast - Haha Sound (2003-08-09)
 </li>
@@ -123,6 +120,9 @@ Asobi Seksu - Citrus (2006-05-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, shoegaze" role="button">
 Silversun Pickups - Carnavas (2006-07-25)
 </li>
+<li data-cover="https://img.discogs.com/kAiO6KFJEB0AheBKPUCEyZjsueQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019630-1215843921.jpeg.jpg" data-tags="indie, female vocalists" role="button">
+Bat for Lashes - Fur and Gold (2006-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/58d3ecc6-f4ef-4455-bbe7-7d733e83d5aa/2073304739-500.jpg" data-tags="dream pop" role="button">
 Beach House - Beach House (2006-10-03)
 </li>
@@ -135,7 +135,7 @@ Beach House - Devotion (2007-12)
 <li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">

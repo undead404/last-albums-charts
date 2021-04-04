@@ -1,18 +1,18 @@
 ---
-date: 2021-04-04T00:57:01.339Z
+date: 2021-04-04T08:43:01.440Z
 title: "female fronted metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">Evanescence - Origin (2000-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
-<li data-cover="https://img.discogs.com/K3e0vs6Yxmp53Msysc0ehOA-prM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9261793-1492590501-8083.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Comalies (2002-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/e862e298-ccaf-4575-889a-3198571bb2ed/1048113221-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Leaves' Eyes - Lovelorn (2004-05-24)</li>
-<li data-cover="https://img.discogs.com/aXCZQcOSa73njRvFAnF1Ep5jUTQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8125917-1489832489-1154.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Karmacode (2006-03-31)</li>
+<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Karmacode (2006-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
+<li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 </ol>
 List of 100 - under the cut.
@@ -27,7 +27,7 @@ Nightwish - Angels Fall First (1997-11-01)
 <li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Lacuna Coil (1998-01-26)
 </li>
-<li data-cover="https://img.discogs.com/QvA7WE0GN9esy53o6jlg8R18Q2E=/fit-in/451x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8437592-1461599121-5143.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/S-sF-R4Gr14k9UmhSz2Ow5a3sqI=/fit-in/600x939/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5037376-1382797457-1575.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Widow's Weeds (1998-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
@@ -36,11 +36,8 @@ Nightwish - Oceanborn (1998-12-07)
 <li data-cover="http://coverartarchive.org/release/e12ca663-cfe8-4796-b6e2-7bf73cf23723/4972030151-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - In a Reverie (1999-02-16)
 </li>
-<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Wishmaster (2000-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9303fc8e-9186-4da0-a1a0-f73a44a6888c/8112390189-500.jpg" data-tags="female vocalists, rock" role="button">
-Jack Off Jill - Clear Hearts Grey Flowers (2000-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">
 Evanescence - Origin (2000-11-04)
@@ -54,7 +51,7 @@ After Forever - Decipher (2001)
 <li data-cover="http://coverartarchive.org/release/806f4fd4-46c1-47ab-ace0-6e9a8918b1f8/17661057834-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Unleashed Memories (2001-01-18)
 </li>
-<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/k6nwq8unLw_b0w2OTfceJ7KnHYg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1235200-1551185779-4769.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Over the Hills and Far Away (2001-06-25)
 </li>
 <li data-cover="https://img.discogs.com/Hc-kerojMLeDgG8YtSZ7CD4DH1U=/fit-in/451x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1185361-1199497793.jpeg.jpg" data-tags="gothic metal" role="button">
@@ -156,7 +153,7 @@ After Forever - Remagine (2005-09-09)
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
 </li>
-<li data-cover="https://img.discogs.com/aXCZQcOSa73njRvFAnF1Ep5jUTQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8125917-1489832489-1154.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Karmacode (2006-03-31)
 </li>
 <li data-cover="https://img.discogs.com/wGELB6yXOAnWtZBPj8M-OpxD-0o=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10249975-1494114475-8915.jpeg.jpg" data-tags="symphonic metal, female fronted metal" role="button">
@@ -261,7 +258,7 @@ Deafheaven - Demo (2010-06-01)
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
-<li data-cover="https://img.discogs.com/jbJwjEFiQgLuEPnu_spUVGUELE4=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10263991-1494332097-7440.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/9a1VON74XBTu7wJGlvfziZuq1Ok=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930875-1517967292-9252.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
@@ -273,7 +270,7 @@ Within Temptation - The Unforgiving (2011-03-25)
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
 </li>
-<li data-cover="https://img.discogs.com/V4-7f1ux4nzlrOXN29aNCMCaI5E=/fit-in/600x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3007315-1330945004.jpeg.jpg" data-tags="melodic death metal" role="button">
+<li data-cover="https://img.discogs.com/XLw4SFjMwkqfXrMTK9Is1wilpUM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11111294-1510053892-5608.jpeg.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Khaos Legions (2011-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
@@ -290,6 +287,9 @@ Nemesea - The Quiet Resistance (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b04e41d-136a-49ae-8788-4e57cf8747d8/14259140884-500.jpg" data-tags="alternative metal" role="button">
 Lacuna Coil - Dark Adrenaline (2012-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
+A$AP Rocky - Goldie (2012-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
