@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:23:01.336Z
+date: 2021-04-04T10:10:01.290Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">
 Bob Dylan - Bringing It All Back Home (1965-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg" data-tags="folk rock, folk" role="button">
+Bob Dylan - Blonde on Blonde (1966-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f566f8ce-c855-4339-beb6-94cc5ea2c253/20534504487-500.jpg" data-tags="rock, classic, fuzzy guitar goodness, have on vinyl, i love singing along, where is my bong, s faces" role="button">
 Small Faces - The Autumn Stone (1969)
@@ -261,7 +264,7 @@ Jens Lekman - Oh You're So Silent Jens (2005-06-08)
 <li data-cover="http://coverartarchive.org/release/5da2b75b-4b30-47ac-bbbb-86ad85a82508/27400864269-500.jpg" data-tags="classic, full tracks, fun to skateboard to, beats for days, excellent lyricism, battle rhymes" role="button">
 Eric B. & Rakim - Gold (2005-06-14)
 </li>
-<li data-cover="https://img.discogs.com/wqTkBm7nyv0Jjd9K8-lFG4c2Thk=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694470-1520581573-8313.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/hVMuHLvpoBJRJAMwAdfyXIWycGM=/fit-in/420x421/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1907397-1297257244.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
@@ -275,9 +278,6 @@ Soul Position - Things Go Better with RJ and Al (2006-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="vocal, josh groban, classical" role="button">
-Josh Groban - Awake (2006-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
 The Game - Doctor's Advocate (2006-11-11)

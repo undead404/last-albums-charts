@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:55:01.267Z
+date: 2021-04-04T10:11:01.574Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -57,7 +57,7 @@ Aphex Twin - Richard D. James Album (1996-11-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Boards of Canada - Hi Scores (1996-12-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">
+<li data-cover="https://img.discogs.com/4opvcXLy8bbXDmILdXxVQkmzQlM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-r_122593-001.jpg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
@@ -87,7 +87,7 @@ Air - The Virgin Suicides (2000-02-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/gwvTAGoveHSOzhxtgiAKFwEUUGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9919962-1488561686-5945.jpeg.jpg" data-tags="ambient" role="button">
 Gas - Pop (2000-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
@@ -116,6 +116,9 @@ Röyksopp - Melody A.M. (2001-10-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, electronic" role="button">
 Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb4d834e-c21a-4288-bbee-d9b86c6c3f8b/3772697596-500.jpg" data-tags="downtempo, jazz" role="button">
+The Cinematic Orchestra - Every Day (2002-04-27)
 </li>
 <li data-cover="https://img.discogs.com/lXD8whyAYclV6eo5oxbFpF-BrwU=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902743-1251309415.jpeg.jpg" data-tags="electronic" role="button">
 múm - Finally We are No One (2002-05-20)
@@ -210,7 +213,7 @@ Ulver - Shadows of the Sun (2007-10-01)
 <li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">
 Ólafur Arnalds - Eulogy for Evolution (2007-10-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
@@ -218,9 +221,6 @@ Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6db272a-22e6-485d-8d6b-e6d7f469a08c/15668674653-500.jpg" data-tags="ambient, instrumental, industrial" role="button">
 Nine Inch Nails - Ghosts I-IV (2008-03-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
-Fleet Foxes - Sun Giant (2008-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
