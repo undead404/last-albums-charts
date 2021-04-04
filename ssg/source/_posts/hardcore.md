@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:28:01.249Z
+date: 2021-04-04T15:54:01.343Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -27,7 +27,7 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 <li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
-<li data-cover="https://img.discogs.com/M5GJ_Sv0wxntVfNDwBDmgfaIQxg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13042608-1566037783-8859.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
+<li data-cover="https://img.discogs.com/eBfyVHFymkgNMNzLX9SCfbbkcGk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703430-1518836224-8197.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c04c7090-1bea-4852-a4c3-6d54065117d2/21545300582-500.jpg" data-tags="hardcore punk, punk, sludge" role="button">
@@ -168,9 +168,6 @@ HORSE the band - The Mechanical Hand (2005-09-20)
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
-<li data-cover="https://img.discogs.com/EInZAV_W02n2rIqFuuO7DXrcWzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878619-1249674773.jpeg.jpg" data-tags="hardcore punk" role="button">
-Gallows - Orchestra of Wolves (2006)
-</li>
 <li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
 </li>
@@ -192,6 +189,9 @@ Sky Eats Airplane - Everything Perfect On the Wrong Day (2006-08-06)
 <li data-cover="http://coverartarchive.org/release/b2ee2038-e999-4427-a85c-c63959fd2021/4783374073-500.jpg" data-tags="hardcore" role="button">
 Have Heart - The Things We Carry (2006-08-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
+The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore, metalcore" role="button">
 Walls of Jericho - With Devils Amongst Us All (2006-08-22)
 </li>
@@ -200,6 +200,9 @@ Hatebreed - Supremacy (2006-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - No Heroes (2006-10-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+Bring Me the Horizon - Count Your Blessings (2006-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
@@ -225,14 +228,14 @@ Evergreen Terrace - Wolfbiker (2007-07-20)
 <li data-cover="http://coverartarchive.org/release/83b6998e-f64d-4b73-8a1f-28ac995b9074/14899155964-500.jpg" data-tags="groove metal, metalcore, metal" role="button">
 Five Finger Death Punch - The Way Of The Fist (2007-07-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
+The Devil Wears Prada - Plagues (2007-08-21)
+</li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/cd201427-d0bd-4ffe-8a5e-0b17f998cb70/4848945374-500.jpg" data-tags="metalcore" role="button">
-The Ghost Inside - Fury And The Fallen Ones (2008-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/ea7d06da-8245-4edc-8e61-9b84f97ab1d1/4860339604-500.jpg" data-tags="hardcore, hardcore punk, sludge metal" role="button">
-Cancer Bats - Hail Destroyer (2008-04-21)
+<li data-cover="http://coverartarchive.org/release/5c784211-a4e9-4109-bfb2-02ad4d937c0c/15102345561-500.jpg" data-tags="metalcore" role="button">
+Parkway Drive - Horizons (2007-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/278bf0c5-7954-43ec-a0a3-1a15a0b05f61/4783384023-500.jpg" data-tags="hardcore" role="button">
 Have Heart - Songs to Scream at the Sun (2008-07-08)
@@ -240,11 +243,11 @@ Have Heart - Songs to Scream at the Sun (2008-07-08)
 <li data-cover="http://coverartarchive.org/release/97db5757-a7ee-4921-8f9b-f726f6433a62/27059737189-500.jpg" data-tags="hardcore, metalcore" role="button">
 Norma Jean - The Anti Mother (2008-08-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
+Underoath - Lost in the Sound of Separation (2008-09-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/e15d287b-2688-3abe-9b24-b1cccf235467/8179828763-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Swan Songs (2008-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d74eaf35-305c-4218-87a2-bf1f67ed9d5f/929423406-500.jpg" data-tags="metalcore" role="button">
-All That Remains - Overcome (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/048b7c34-bcc5-4d2f-8340-9ffb58be3a73/3366417314-500.jpg" data-tags="hardcore" role="button">
 Defeater - Travels (2008-09-16)
@@ -293,9 +296,6 @@ The Ghost Inside - Returners (2010-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
 Avenged Sevenfold - Nightmare (2010-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/67eec991-c21c-452b-b4c9-49f7df5699ba/15585755840-500.jpg" data-tags="metalcore, post-hardcore" role="button">
-The Word Alive - Deceiver (2010-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)

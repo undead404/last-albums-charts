@@ -1,13 +1,13 @@
 ---
-date: 2021-04-04T09:49:01.270Z
+date: 2021-04-04T16:28:01.277Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
 ![CSS - Cansei De Ser Sexy (2005-10)](https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg "CSS - Cansei De Ser Sexy (2005-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">Os Mutantes - Os Mutantes (1968-06)</li>
+<li data-cover="http://coverartarchive.org/release/c176c162-97c5-4e4e-b2a7-4730db8e06de/2974143985-500.jpg" data-tags="brazilian, 60s, brasil" role="button">Caetano Veloso - Caetano Veloso (1969)</li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">Mamonas Assassinas - Mamonas Assassinas (1995-06-23)</li>
 <li data-cover="http://coverartarchive.org/release/cda58eae-cb47-49d4-bb08-d1d8863ed647/2145382610-500.jpg" data-tags="bossa nova" role="button">Bebel Gilberto - Tanto Tempo (2000)</li>
-<li data-cover="http://coverartarchive.org/release/d43cc3b0-ace8-477e-b2f9-6d199d1678a1/13168195225-500.jpg" data-tags="mpb, brazilian, female vocalists, brazil" role="button">Maria Rita - Maria Rita (2003-09)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock nacional, rock, brazilian" role="button">Engenheiros Do Hawaii - Acústico MTV (2004-11-29)</li>
 <li data-cover="http://coverartarchive.org/release/ff4bf915-8a21-417d-8c09-04600a7deb41/18504588791-500.jpg" data-tags="brazilian, samba, poetry, mpb" role="button">Chico Buarque - Chico Buarque (2005)</li>
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">CSS - Cansei De Ser Sexy (2005-10)</li>
@@ -24,10 +24,13 @@ _________________
 <li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">
 Os Mutantes - Os Mutantes (1968-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/c176c162-97c5-4e4e-b2a7-4730db8e06de/2974143985-500.jpg" data-tags="brazilian, 60s, brasil" role="button">
+Caetano Veloso - Caetano Veloso (1969)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock, tropicalia, brazilian" role="button">
 Os Mutantes - A Divina Comédia ou Ando Meio Desligado (1970-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic" role="button">
+<li data-cover="https://img.discogs.com/jB6LDKfwnVDDuktlFuI3AaUKRo0=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2910552-1335222154.jpeg.jpg" data-tags="psychedelic" role="button">
 Os Mutantes - Jardim Elétrico (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8de53b9-e3b3-4ea4-b401-2caf175135c8/5743160437-500.jpg" data-tags="rock, psychedelic" role="button">
@@ -38,6 +41,9 @@ Caetano Veloso - Qualquer Coisa (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/acb32976-869f-374b-9985-1962678a3bc0/3446888597-500.jpg" data-tags="mpb, brazilian" role="button">
 Djavan - Luz (1982)
+</li>
+<li data-cover="http://coverartarchive.org/release/159f1322-9b75-42e8-aaf4-8ff59dd7aa8b/8848041710-500.jpg" data-tags="pop rock, new wave, brasil, mpb, brazilian, sophisti-pop" role="button">
+Marina Lima - Fullgás (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b71efac-ebc3-4172-bc0c-7a0a44c581d4/17505318869-500.jpg" data-tags="80s" role="button">
 Cazuza - Exagerado (1985)
@@ -63,9 +69,6 @@ Cazuza - Ideologia (1988)
 <li data-cover="http://coverartarchive.org/release/96738581-b059-48ca-ab60-7d6a71c4ffcc/17671355589-500.jpg" data-tags="rock, brazilian rock" role="button">
 Legião Urbana - As Quatro Estações (1989-10-26)
 </li>
-<li data-cover="https://img.discogs.com/UwOwfg_h5zdWQLO39c5GcthN6Wc=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3065486-1380389710-2124.jpeg.jpg" data-tags="80s, mpb, brazilian" role="button">
-Caetano Veloso - Estrangeiro (1989-11-12)
-</li>
 <li data-cover="https://img.discogs.com/8P9WGBkmZ8h_a1QjaUMpnKl6YUg=/fit-in/581x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7991437-1453060515-6491.jpeg.jpg" data-tags="rock, brazilian, rock nacional, engenheiros do hawaii" role="button">
 Engenheiros Do Hawaii - Filmes de guerra, canções de amor (1993)
 </li>
@@ -77,12 +80,6 @@ Angra - Angels Cry (1993-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c393c79d-693a-4f33-96da-7491c2be4db9/10069834947-500.jpg" data-tags="mpb, mangue beat" role="button">
 Chico Science & Nação Zumbi - Da Lama ao Caos (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/48043a43-e73c-4c58-a93b-60cbe8b14e75/1608666580-500.jpg" data-tags="rock, rap, brazilian, br4z1l14n f4nk7 k0r3" role="button">
-O Rappa - O Rappa (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/be38df02-c856-4c40-8dcd-66a4ea21eb52/10401784417-500.jpg" data-tags="rock brasileiro" role="button">
-Skank - Calango (1994-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">
 Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
@@ -98,6 +95,9 @@ Skank - O Samba Poconé (1996-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1905cafd-793b-4469-bb00-966cad7a9528/3014521958-500.jpg" data-tags="rock" role="button">
 Legião Urbana - A Tempestade (1996-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c61a099a-7501-46e3-8d13-d048c1216dfa/8301999638-500.jpg" data-tags="brazilian" role="button">
+Caetano Veloso - Livro (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
@@ -174,9 +174,6 @@ Maria Rita - Maria Rita (2003-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova, brazilian" role="button">
 Marcos Valle - Contrasts (2003-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/43039731-3972-4a66-b232-98b7cdf4e630/7216424214-500.jpg" data-tags="brazilian, rock brasileiro, rock nacional, rock gaucho" role="button">
-Ludov - Dois a Rodar (2003-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a353dbf8-4710-43f4-a3d8-a8a834cc1f13/8611094676-500.jpg" data-tags="mpb, ouvir com calma" role="button">
 O Teatro Mágico - Entrada para Raros (2003-12-13)
 </li>
@@ -201,7 +198,7 @@ Chico Buarque - Chico Buarque (2005)
 <li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">
 Fresno - O Rio A Cidade A Árvore (2005-05-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/tLv6zatFQdSRr6S8-rgHzee0Eww=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2160148-1267233116.jpeg.jpg" data-tags="rock" role="button">
 Pitty - Anacrônico (2005-08-21)
 </li>
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
@@ -215,6 +212,9 @@ Luxúria - Luxúria (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e8333d9-5421-4f6c-aaf8-895fb25e7892/7543594812-500.jpg" data-tags="rock, caetano, brazilian" role="button">
 Caetano Veloso - Cê (2006-01-01)
+</li>
+<li data-cover="https://img.discogs.com/WFAQTCADalno2HfmOHGjXkBJKfU=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5333945-1438021250-1667.jpeg.jpg" data-tags="hip hop, pop, bossa nova, mpb, brazilian, samba, latin grammy nominated, teenage years" role="button">
+Sérgio Mendes - Timeless (2006-02-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">
 Marisa Monte - Infinito Particular (2006-03-14)

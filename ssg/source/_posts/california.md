@@ -1,19 +1,19 @@
 ---
-date: 2021-04-04T09:17:01.656Z
+date: 2021-04-04T16:23:01.290Z
 title: "california: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, ben harper, 1994" role="button">Ben Harper - Welcome To The Cruel World (1994-02-08)</li>
+<li data-cover="http://coverartarchive.org/release/67cf905e-8e7c-4f29-8c17-753e3589328d/21901678802-500.jpg" data-tags="electronic, synth pop" role="button">Depeche Mode - Enjoy The Silence (1990-02-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/d6f37015-1c85-46dd-bceb-8c6919157196/11686735734-500.jpg" data-tags="punk, pop punk, california, melodic hardcore, aleister crowley, fat wreck chords, christopher lee, aleyster crowley, nu-punk, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, all-time-favorite, 90s punk rock, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley, approved by randy, records of yo" role="button">No Use for a Name - Making Friends (1997-08-19)</li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">The Game - The Documentary (2005-01-18)</li>
+<li data-cover="http://coverartarchive.org/release/6736dd14-d28a-3198-9416-f5f858400326/7010810256-500.jpg" data-tags="rock, indie, alternative, alternative rock, indie rock" role="button">Phantom Planet - The Guest (2002-02-26)</li>
+<li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">Slightly Stoopid - Everything You Need (2003-03-18)</li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">Cold War Kids - Robbers & Cowards (2006-10-10)</li>
-<li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
-<li data-cover="http://coverartarchive.org/release/766cf545-9651-4728-85e0-230d29adf83c/15868890607-500.jpg" data-tags="surf, usa, strange, psychedelic, california, garage, debut album, the desperate kingdom of love, 30 strand grass, 4jsfolk, q3jslfm, you cant be wise and then love at the same time, track to check again, stuff i still want to discover, 2unban" role="button">The Growlers - Are You In Or Out? (2009-10-06)</li>
+<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">Metro Station - Metro Station (2007-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
-<li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">Pierce The Veil - Collide With the Sky (2012-07-17)</li>
+<li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">Tycho - Dive (2011-10-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,47 +21,35 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/I1CnSzLcF4YRAjT301LH0ZJpvJQ=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4092606-1354985898-1184.jpeg.jpg" data-tags="classic rock, 60s, british, blues rock" role="button">
-The Animals - Animalisms (1966-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/40fdd8ff-ec57-4a30-8133-eaabfef1bfdd/1502201764-500.jpg" data-tags="disco, classic rock, pop, 60s, british, dance, album rock, psychedelic, california, british invasion, beatles, romance, shows, aleister crowley, rock 'n roll, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-The Beatles - Yesterday and Today (1966-06-14)
-</li>
-<li data-cover="https://img.discogs.com/6P4F1VBt3GAT-pusJx_JMVt6IEM=/fit-in/376x367/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3942451-1350001572-5149.jpeg.jpg" data-tags="rock, krautrock, california, german, aleister crowley, heavy prog, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, os putos brothers, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Birth Control - Birth Control (1970)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco, rock, dance, album rock, psychedelic, mpb, california, romance, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-Rita Lee - Build Up (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0bf289a-027a-442e-9e89-3ef768643799/8974591679-500.jpg" data-tags="country, country-rock, americana, oldies, folk rock, california, country-soul, glamorous album covers" role="button">
-Linda Ronstadt - Silk Purse (1970)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, british, uk, california, rock pop, bootleg, aleister crowley, live performance, male singer songwriter, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, djm records, familia, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, kricamorena, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, keyboard-player, thebestofaleystercrowley, banda metamorphosis, california rock clube" role="button">
-Elton John - 11-17-70 (1971)
-</li>
-<li data-cover="http://coverartarchive.org/release/b999e630-aa30-4b1d-abe0-3f06fcf198f3/21230226617-500.jpg" data-tags="pop, 70s, pop rock, easy listening, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Lobo - Of a Simple Man (1972)
+<li data-cover="http://coverartarchive.org/release/1aca4a06-8f21-4aaa-a049-d1758a111589/5814230484-500.jpg" data-tags="classic rock" role="button">
+Steppenwolf - 16 Greatest Hits (1973-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/f261421b-3b6f-3b8d-b1ab-98e87bbbea8c/23647063845-500.jpg" data-tags="disco, pop, dance, album rock, california, romance, shows, aleister crowley, christopher lee, blogs, mondiovision, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, radio paola, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
 Jeanette - Porque Te Vas (1974)
 </li>
+<li data-cover="https://img.discogs.com/8z-e2MwiciiuZZx75McxMAtuMyU=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268465-1323164977.jpeg.jpg" data-tags="rock, elton john" role="button">
+Elton John - Caribou (1974-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/5904320c-f3ca-4320-bade-58215eda3e0c/1637049317-500.jpg" data-tags="70s" role="button">
+Elton John - Rock Of The Westies (1975-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/115489f7-b1f2-4767-9691-497cb2b8c493/11090136805-500.jpg" data-tags="rock, raul seixas" role="button">
+Raul Seixas - Há 10 Mil Anos Atrás (1976-01-05)
+</li>
+<li data-cover="https://img.discogs.com/KP6Jrtjjo9O-3MIZFZVJzIGM9Eo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4381210-1363377723-5969.jpeg.jpg" data-tags="70s" role="button">
+Elton John - Blue Moves (1976-10-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/0a8ff48a-b432-4448-be65-fc45428a5b98/9307373507-500.jpg" data-tags="classic rock, rock, alternative, psychedelic, brasil, california, aleister crowley, brazilian rock, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
 Raul Seixas - O Dia Em Que a Terra Parou (1977)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco, female vocalists, dance, album rock, mpb, california, romance, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-Fafá de Belém - Água (1977)
+<li data-cover="http://coverartarchive.org/release/c5b897cd-1802-48ac-abae-b212695afba0/22190937325-500.jpg" data-tags="classic rock" role="button">
+Dire Straits - Sultans of Swing (1978)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5ce46a7-6cd5-4890-9cc9-e307d6b5189b/16396187399-500.jpg" data-tags="electronic, new wave" role="button">
-The Human League - Reproduction (1979-10)
+<li data-cover="https://img.discogs.com/fYhrZjK4pBaJRq3UhaO6Ydm3mmU=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681480-1474257866-6760.jpeg.jpg" data-tags="80s" role="button">
+Men at Work - Business As Usual (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/07a9c6c3-dc06-3e0f-b4e1-18008a72e066/3775539290-500.jpg" data-tags="80s, electronic" role="button">
-The Human League - Travelogue (1980-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/91aa57fc-ee4c-38d4-b680-38904c8dcabe/1872750504-500.jpg" data-tags="60s, 70s, 80s, 90s, california, 00s, 80s pop, elton john, aleister crowley, 90s rock, 60s pop, 70s rock, 60s rock, 80s rock, 00s pop, 90s pop, 70s pop, christopher lee, 00s rock, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, empty garden" role="button">
-Elton John - Jump Up (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/3fedc582-d43d-4048-90c7-c048de26c8b2/11913269777-500.jpg" data-tags="disco, 80s, dance, album rock, new wave, synthpop, california, romance, synth-pop, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, electropearls, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-The Twins - Modern Lifestyle (1982-09)
+<li data-cover="http://coverartarchive.org/release/2e3ad57d-da42-489f-8032-8b4b2b63478b/24154851314-500.jpg" data-tags="80s" role="button">
+Kim Carnes - Mistaken Identity (1981-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/da05c48d-63cd-49a4-8b77-6d72994597d7/14841840510-500.jpg" data-tags="80s, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
 Peter Schilling - Major Tom (1982-11)
@@ -69,23 +57,32 @@ Peter Schilling - Major Tom (1982-11)
 <li data-cover="http://coverartarchive.org/release/7a9017e4-cd8a-4375-803c-52edb9c173ce/23446264259-500.jpg" data-tags="female vocalists, 80s" role="button">
 Bonnie Tyler - Faster Than the Speed of Night (1983)
 </li>
+<li data-cover="http://coverartarchive.org/release/974cdb88-830c-4efc-8a9d-83e19b37ca90/21028345978-500.jpg" data-tags="disco, dance, don kalifa" role="button">
+Rockwell - Somebody's Watching Me (1983)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
 Billy Joel - An Innocent Man (1983-08-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco, rock, 80s, dance, album rock, brasil, punk rock, california, rock nacional, romance, shows, aleister crowley, brazilian rock, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-Camisa de Vênus - Batalhões de estranhos (1984)
+<li data-cover="https://img.discogs.com/wTV7SYtF-NvC28hD6nq5wahfBZw=/fit-in/600x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3170921-1367356730-6349.jpeg.jpg" data-tags="80s, soul" role="button">
+Lionel Richie - Can't Slow Down (1983-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a9eb555-6e1b-4d9a-8cc1-df00799f1085/1876568648-500.jpg" data-tags="pop, 80s, female vocalists, dance-pop, eighties, california, love songs, 1980s, hi-nrg, aleister crowley, hi nrg, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, pop albums, 1984 albums, amidio junior, albums i have on mp3, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
-Hazell Dean - Heart First (1984)
+<li data-cover="http://coverartarchive.org/release/9dad3316-e757-3f5f-88ee-84d7669d3b26/6512716541-500.jpg" data-tags="rock, 80s, folk" role="button">
+Bob Dylan - Infidels (1983-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd10863a-ae6e-4e5e-861c-7bc3a14147ae/12373541416-500.jpg" data-tags="80s, california, synth-pop, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, forbidden fruit, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro" role="button">
-Bronski Beat - Smalltown Boy (1984)
+<li data-cover="https://img.discogs.com/rF9vA8w0Ia-PikTiKwtSfvtp2_8=/fit-in/385x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492870-1122749794.jpg.jpg" data-tags="classic rock, aor" role="button">
+Foreigner - Agent Provocateur (1984)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, california, aleister crowley, aussie rock, surf music, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, iveldie best of 1984, familia, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, thebestofaleystercrowley, banda metamorphosis, california rock clube, oneofthebestever" role="button">
 Hoodoo Gurus - Stoneage Romeos (1984)
 </li>
-<li data-cover="http://coverartarchive.org/release/6bf6f27c-02a5-4698-848f-4ecc06b07111/25988988861-500.jpg" data-tags="80s, american, aor, california, my songs, 1980s, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, female vocalist with male band, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, in search of the lost genre, thebestofaleystercrowley, banda metamorphosis, california rock clube, albums in my vinyl collection, nice makeup" role="button">
-Scandal - Warrior (1984-08-25)
+<li data-cover="https://img.discogs.com/quKKnOn1r8LmF83q-1yOPi59axo=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466796-1221891007.jpeg.jpg" data-tags="80s, synthpop" role="button">
+Go West - Go West (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b07a6c8-a3a2-4f5e-abdc-c3c9359340be/3363166051-500.jpg" data-tags="party all the time" role="button">
+Eddie Murphy - How Could It Be (1985)
+</li>
+<li data-cover="https://img.discogs.com/AU2IBMNYo2AMkmNq8h0_VVlAPik=/fit-in/556x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345525-1227622010.jpeg.jpg" data-tags="pop, dance, 80s, italo disco, aleyster crowley, tarzan boy" role="button">
+Baltimora - Living In The Background (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/03f219bf-84a2-4427-9d46-0896f66daace/17103736151-500.jpg" data-tags="california" role="button">
 Camper Van Beethoven - Telephone Free Landslide Victory (1985)
@@ -93,77 +90,62 @@ Camper Van Beethoven - Telephone Free Landslide Victory (1985)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 The Doors - The Best of The Doors (1985)
 </li>
+<li data-cover="http://coverartarchive.org/release/405b99d3-3157-49f9-a6d9-da8602d09d77/17671304804-500.jpg" data-tags="80s, rock" role="button">
+Legião Urbana - Legião Urbana (1985-01-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">
 Mötley Crüe - Theatre Of Pain (1985-06-21)
 </li>
-<li data-cover="https://img.discogs.com/usA5WKVSDws5YsiVjoglAu1X5tM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254838-1390848588-3538.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
-Poison - Look What the Cat Dragged In (1986-05-23)
+<li data-cover="http://coverartarchive.org/release/7a372387-0df6-4da5-9e00-377790951e02/5899844777-500.jpg" data-tags="pop, 80s" role="button">
+Elton John - Ice On Fire (1985-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/388e1d01-bbd7-402a-a3a8-bf26cede791a/3741179321-500.jpg" data-tags="rock, live" role="button">
-Queen - Live Magic (1986-12-01)
+<li data-cover="https://img.discogs.com/zKCb9xAzpedn5mQGxfjhabqseTw=/fit-in/594x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-67833-1388458136-4441.jpeg.jpg" data-tags="california" role="button">
+Sigue Sigue Sputnik - Flaunt It (1986)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e06903d-7aa9-4fc0-a0bc-8137532301e4/28816848310-500.jpg" data-tags="disco, pop, dance, modern talking, euro dance" role="button">
+Modern Talking - Ready For Romance (1986-05-26)
+</li>
+<li data-cover="https://img.discogs.com/mIcFtqhNUyEutEFq0CLReELGlrc=/fit-in/600x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994663-1431258603-9027.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
+Mötley Crüe - Girls, Girls, Girls (1987-07-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/bfcbdba7-dfcd-4cdd-9a1a-3ca8685b33ad/17670955683-500.jpg" data-tags="brazilian rock" role="button">
+Legião Urbana - Que País É Este (1987-11)
 </li>
 <li data-cover="https://img.discogs.com/w76gwronmlIIHQ3ZWVl3W-uHhTU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4125112-1435248444-2347.jpeg.jpg" data-tags="rock, 70s, 80s, california, sympathy68, aleister crowley, rod stewart, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, os putos brothers, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
 Rod Stewart - Out of Order (1988-05-17)
 </li>
-<li data-cover="https://img.discogs.com/cPktUGHUz-6FPh7mlg2cwFqwYyM=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3467171-1331503455.jpeg.jpg" data-tags="classic rock, 70s, british, hard rock, progressive rock, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro" role="button">
-Uriah Heep - Demons and Wizards / High and mighty (1989)
+<li data-cover="https://img.discogs.com/NOH3fwgIB26sE5mq2qLSTn-J1Es=/fit-in/490x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7938494-1452033938-5653.jpeg.jpg" data-tags="new wave" role="button">
+Duran Duran - Decade (1989-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/f4b97ffa-c5a4-4fd9-afb8-26db55f8fd97/7620162165-500.jpg" data-tags="heavy metal, metal, rock, 80s, hard rock, california, glam rock, los angeles, sweden, 1980s, wants, hollywood, glam metal, skovde, 80s hard rock" role="button">
-Shotgun Messiah - Shotgun Messiah (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/96738581-b059-48ca-ab60-7d6a71c4ffcc/17671355589-500.jpg" data-tags="rock, brazilian rock" role="button">
-Legião Urbana - As Quatro Estações (1989-10-26)
-</li>
-<li data-cover="https://img.discogs.com/YinZUihIjdMnml8-Gyey9YH_SyI=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2133693-1423521533-4856.jpeg.jpg" data-tags="rock" role="button">
-John Lennon - The John Lennon Collection (1989-10-26)
-</li>
-<li data-cover="https://img.discogs.com/1NhEAQMIX2BYQNSDR_IK3cgEahQ=/fit-in/350x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1794097-1292467255.jpeg.jpg" data-tags="hair metal" role="button">
-Poison - Flesh & Blood (1990-06-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/3aabacfc-fa09-4b25-8ef9-e240a77627aa/22522684832-500.jpg" data-tags="disco, pop, british, singer-songwriter, dance, pop rock, album rock, 90s, california, female vocalist, romance, shows, aleister crowley, uk top 40, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, czalbums, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-Alison Moyet - Hoodoo (1991-04-22)
+<li data-cover="http://coverartarchive.org/release/67cf905e-8e7c-4f29-8c17-753e3589328d/21901678802-500.jpg" data-tags="electronic, synth pop" role="button">
+Depeche Mode - Enjoy The Silence (1990-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/092d2ab3-3162-43e5-86bb-91e7c1edf455/9715588605-500.jpg" data-tags="rock, 80s, california, ok, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, seligalex, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
 Starship - Greatest Hits (Ten Years And Change 1979-1991) (1991-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/386ac040-0ee9-42ca-9469-ce7070f67712/3266675625-500.jpg" data-tags="80s, hair metal, california, glam, glam rock, live, aleister crowley, glam metal, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Cinderella - Live Train to Heartbreak Station (1991-09-19)
+<li data-cover="https://via.placeholder.com/450" data-tags="patrick hernandez-born to be alive" role="button">
+Patrick Hernandez - Born to Be Alive (1992-08-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/37b83a51-256e-4872-a297-0baf93799511/5311880688-500.jpg" data-tags="pop, rock, soul" role="button">
-Tina Turner - Simply The Best (1991-09-30)
+<li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
+4 Non Blondes - Bigger, Better, Faster, More! (1992-10-13)
 </li>
-<li data-cover="https://img.discogs.com/Bjf1X4ySv6EO_1_YTuz1QspHmEc=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6132466-1411871278-5826.jpeg.jpg" data-tags="female, pop, 80s, easy listening, california, female vocalist, legends, cher, aleister crowley, 70's, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, fleewood mac" role="button">
-Cher - Greatest Hits (1992)
-</li>
-<li data-cover="https://img.discogs.com/Z-qLmYF2HX0loUjDQE8HLpW-eas=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105652-1460366131-7364.jpeg.jpg" data-tags="80s" role="button">
-Alphaville - First Harvest 1984-92 (1992-03-11)
+<li data-cover="https://img.discogs.com/8P9WGBkmZ8h_a1QjaUMpnKl6YUg=/fit-in/581x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7991437-1453060515-6491.jpeg.jpg" data-tags="rock, brazilian, rock nacional, engenheiros do hawaii" role="button">
+Engenheiros Do Hawaii - Filmes de guerra, canções de amor (1993)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, oldies, california, brazilian, aleister crowley, oi, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
 Raul Seixas - Maluco Beleza (1993)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, california, aleister crowley, cry, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Kim Carnes - Gypsy Honeymoon: The Best Of Kim Carnes (1993-02-09)
+<li data-cover="http://coverartarchive.org/release/e32208b3-dec0-4218-95b4-f3c200ea4146/25028213306-500.jpg" data-tags="rock, billy joel - river dreams" role="button">
+Billy Joel - River Of Dreams (1993-08-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/16962435-78af-464a-8d6f-d69262767d33/15739017647-500.jpg" data-tags="disco, classic rock, rock, dance, album rock, california, romance, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-Barão Vermelho - Carne Crua (1994)
+<li data-cover="http://coverartarchive.org/release/9617b3f9-b44d-4cb9-b30d-641146aa5c0b/19351060768-500.jpg" data-tags="60s, progressive rock" role="button">
+The Animals - The Singles Plus (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/f08a4e4b-cf8a-4978-92f9-ddcf4af31418/1398976118-500.jpg" data-tags="80s, california, aleister crowley, my favorite, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Twenty 4 Seven - I Wanna Show You (1994)
+<li data-cover="http://coverartarchive.org/release/97410570-1112-465d-9eff-2e721e57e738/1354051166-500.jpg" data-tags="new wave, california, electro funk, aleister crowley, gloomy, nina hagen, 90s rnb, cold core, christopher lee, black punk, nina hagen band, afterpunk, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, cold funk, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley, kappe fav, kappe hiphop, kappe mela, krautcold, zeru, zeru ta lur, zerutalur, funk cold wave" role="button">
+Da Brat - Funkdafied (1994-06-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/46b70f1e-b312-4cd2-9cd5-52fe30fb42ca/18781203565-500.jpg" data-tags="california, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Rita Lee - Meus Momentos (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/1993192d-782a-4867-8646-e2d6d6bbe11e/15527101461-500.jpg" data-tags="california, melodic hardcore, 1990s, debut album, riverside, ignite, us-american, studio album, alltime heroes, scarred for life, k1r7m, moonsong studios" role="button">
-Ignite - Scarred For Life (1994)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, ben harper, 1994" role="button">
-Ben Harper - Welcome To The Cruel World (1994-02-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/32b9610a-376c-48be-96b8-f6f18b9553c5/15828699378-500.jpg" data-tags="california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, kid abelha, aleister, raul seixas, amidio junior, haruka, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, morpheus songs, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, meio desligado, meio desligado ao vivo" role="button">
-Kid Abelha - Meio desligado (1994-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1b24c75-812a-4306-ad42-f88916b073f3/7555563442-500.jpg" data-tags="pop, dance, california, hot, aleister crowley, special, christopher lee, aleyster crowley, now available on last-fm radio 09q1, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, gia tunes, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, my mp3" role="button">
-Sandra - Fading Shades (1995)
+<li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
+The Mountain Goats - Zopilote Machine (1994-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
@@ -171,89 +153,110 @@ Sublime - Sublime (1995)
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">
-Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
+<li data-cover="http://coverartarchive.org/release/0f6fe239-d416-4dbb-9f80-86cd5d6428f9/22927814474-500.jpg" data-tags="rap" role="button">
+Funkdoobiest - Brothas Doobie (1995-07-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/103c9405-46c5-4254-b26d-823f97e16084/12447153134-500.jpg" data-tags="rock, brasil, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Camisa de Vênus - Quem é você? (1996)
+<li data-cover="http://coverartarchive.org/release/3784ca06-2bbb-4a33-918b-f35df8867049/9200748551-500.jpg" data-tags="stoner rock" role="button">
+Fu Manchu - Daredevil (1995-10-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="synthpop, california, aleister crowley, progressive electronic, art pop, christopher lee, favourite albums of all time, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, czalbums, self-titled album, thebestofaleystercrowley" role="button">
+Erasure - Erasure (1995-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="california, rare, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro" role="button">
-Scatman John - Everybody Jam! (1996-10-28)
+<li data-cover="http://coverartarchive.org/release/328bc43b-a81a-4dc0-844f-1a27880e5fb2/12059016173-500.jpg" data-tags="rock, 90s, alternative rock" role="button">
+Counting Crows - Recovering The Satellites (1996-10-14)
+</li>
+<li data-cover="https://img.discogs.com/lwNnZUQH2lfP6FNroCQBG0zauN4=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-739366-1153815315.jpeg.jpg" data-tags="80s, hard rock" role="button">
+Van Halen - Best of Volume 1 (1996-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7566242e-c2f6-46ab-8584-93c7da59d08c/3167170521-500.jpg" data-tags="classic rock, hard rock" role="button">
 Kiss - Greatest Kiss (1996-11-11)
 </li>
-<li data-cover="https://img.discogs.com/15DGg__IxWcZmwDGFYz7r0GnE7c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-757226-1178920082.jpeg.jpg" data-tags="electronic, pop, 80s, new wave, synthpop, california, depeche mode, aleister crowley, christopher lee, 1997 albums, flashback alternatives, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, synthpop albums, albums i have on mp3, 2 star albums, electropearls, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, erasure style, donkalifa, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, czalbums, thebestofaleystercrowley, erasure cowboy" role="button">
-Erasure - Cowboy (1997-03-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/d6f37015-1c85-46dd-bceb-8c6919157196/11686735734-500.jpg" data-tags="punk, pop punk, california, melodic hardcore, aleister crowley, fat wreck chords, christopher lee, aleyster crowley, nu-punk, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, all-time-favorite, 90s punk rock, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley, approved by randy, records of yo" role="button">
 No Use for a Name - Making Friends (1997-08-19)
 </li>
-<li data-cover="https://img.discogs.com/z_Leq-x3MaeNpNxEImylgrSCaqM=/fit-in/597x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16145182-1604193009-7453.jpeg.jpg" data-tags="heavy metal, ozzy osbourne" role="button">
-Ozzy Osbourne - The OZZman Cometh (1997-11-06)
+<li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
+Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco, rock, dance, pop rock, album rock, mpb, california, romance, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica" role="button">
-Rita Lee - Santa Rita De Sampa (1998)
+<li data-cover="https://img.discogs.com/-zBf9osNVGCeLDTWSfR_CoEA6Kc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056944-1345537982-9724.jpeg.jpg" data-tags="rock, singer-songwriter" role="button">
+Lou Reed - Perfect Day (1997-09-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-Kiss - Psycho Circus (1998-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="finnish" role="button">
-Ultra Bra - Kalifornia (1999-03-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro" role="button">
-Adrian Gurvitz - Classic (2000)
+<li data-cover="http://coverartarchive.org/release/59b9a182-90c1-4aba-94d3-27d1f67a89ac/10427980414-500.jpg" data-tags="mais do mesmo, legião urbana" role="button">
+Legião Urbana - Mais Do Mesmo (1998-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
 Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
 </li>
-<li data-cover="https://img.discogs.com/vPogf6imFIvnpC4hJWa1pfk92wI=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15138378-1587179369-9583.jpeg.jpg" data-tags="vocal, punk, 90s, retro, california, female vocalist, ex-girlfriend" role="button">
-No Doubt - Ex-Girlfriend (2000-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/e06b2fc1-ff78-4421-8cf3-ba3e89448a08/5219121672-500.jpg" data-tags="classic rock, rock, brasil, california, aleister crowley, my collection, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Ira! - MTV ao vivo (2000-09-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, usa, cafe del mar, american, california, west coast, psytrance, los angeles, elektronic beats, american artist, united states, from: usa, american brilliance, american indie, california artists, usa artists, california local, american dream, california dreaming, west coast underground, los angeles ca, west-coast, west coast chill, from california, usa underground, california sunshine, from: california, california usa, usa: california, american musician, los angeles music, los-angeles, california coast, flowmotion, location:us:ca:los angeles, los angeles underground" role="button">
-Electric Skychurch - Sonic Diary (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/fb2c4ffe-19da-4ae8-b03b-d8bab4af9eaf/26767251716-500.jpg" data-tags="indie, pop, rock, punk, alternative, alternative rock, indie rock, pop punk, california, pop-punk, san pedro, bidding jointly, chased credit, pavao velvel, several kits, truncated prey" role="button">
-Toys That Kill - The Citizen Abortion (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac46568e-7818-4351-8d8a-a59ce427e636/21974963842-500.jpg" data-tags="post-rock" role="button">
 The Album Leaf - One Day I'll Be on Time (2001-05-22)
 </li>
-<li data-cover="https://img.discogs.com/DLSbSHlqdrEO8tlPrnVT3kAXHWg=/fit-in/360x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12858181-1543306502-9007.jpeg.jpg" data-tags="classic rock, 70s, male vocalists" role="button">
-The Doobie Brothers - Greatest Hits (2001-09-04)
+<li data-cover="http://coverartarchive.org/release/9d66266b-541a-4918-a172-d2d0b83f93fa/3350220596-500.jpg" data-tags="punk rock" role="button">
+Pennywise - Land of the Free? (2001-06-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, psychedelic, brasil, folk rock, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, os putos brothers, aleyster, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Raul Seixas - Raul Seixas (2002)
+<li data-cover="http://coverartarchive.org/release/f59903bd-c8fc-4a06-8e70-f71b15465910/28061197967-500.jpg" data-tags="indie, female vocalists, indie rock" role="button">
+Rilo Kiley - Take Offs and Landings (2001-07-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/89b97486-f8bf-48c6-b7b4-d14dcaf108fb/5797797304-500.jpg" data-tags="disco, classic rock, dance, album rock, california, romance, 2000s, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, berlin - voyeur" role="button">
-Berlin - Voyeur (2002-08-20)
+<li data-cover="https://img.discogs.com/Ibc3g8neRWGeMlXTjKh7Ue6p2I8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1069108-1445584448-4000.jpeg.jpg" data-tags="indie pop, indie rock" role="button">
+Beulah - The Coast Is Never Clear (2001-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/444d9253-8487-4011-850e-519d85c36424/10373977416-500.jpg" data-tags="pop, rock, 80s, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Go West - The Best Of Go West (2003)
+<li data-cover="http://coverartarchive.org/release/305507e3-86a2-3a98-b0e9-697d64bb5424/15179568454-500.jpg" data-tags="pop, british" role="button">
+Elton John - Songs From The West Coast (2001-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/27b9ce41-b41a-40e4-84ed-8b8b0b05aced/17727060977-500.jpg" data-tags="reggae, california, live, 1970s, 2000s, live album, live recording, bob marley and the wailers, live at the roxy, west hollywood, surf puro, k1r7m, roxy theatre" role="button">
-Bob Marley & The Wailers - Live at the Roxy (2003-01-01)
+<li data-cover="http://coverartarchive.org/release/9e1c338f-5943-4841-9277-e7fa46f4b8b4/27059900433-500.jpg" data-tags="rock" role="button">
+Smash Mouth - Smash Mouth (2001-11-27)
 </li>
-<li data-cover="https://img.discogs.com/ai0y-shUNue13Ebf3Za1Hf2vIHE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2225856-1456197354-6151.jpeg.jpg" data-tags="pop, 80s" role="button">
-a-ha - How Can I Sleep With Your Voice in My Head (2003-03-24)
+<li data-cover="http://coverartarchive.org/release/6736dd14-d28a-3198-9416-f5f858400326/7010810256-500.jpg" data-tags="rock, indie, alternative, alternative rock, indie rock" role="button">
+Phantom Planet - The Guest (2002-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f5fe655-9e3f-4317-97dc-b6fd2ef31717/13143220557-500.jpg" data-tags="classic rock, rock, soul, funk, brazil, california, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley, t maia" role="button">
-Tim Maia - A Arte De Tim Maia (2004)
+<li data-cover="http://coverartarchive.org/release/46fafbb5-a0cb-4530-86e4-f80d8396e576/3985509153-500.jpg" data-tags="indie rock" role="button">
+Ugly Casanova - Sharpen Your Teeth (2002-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/698f60de-eebd-4bad-8c7b-ff98b5e64532/11537727418-500.jpg" data-tags="electronic, california, aleister crowley, christopher lee, aleyster crowley, ambient dreams, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, mystic hits" role="button">
-Michael Cretu - Mystic Hits (2004)
+<li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">
+Slightly Stoopid - Everything You Need (2003-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/0d0bd3d3-7c03-4a1d-a67a-198d6e1c08cf/3374974591-500.jpg" data-tags="ska" role="button">
+The Real McKenzies - Oot & Aboot (2003-05-20)
+</li>
+<li data-cover="https://img.discogs.com/47iechr2cQcRBiTF3kI0vStxk_s=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3532330-1334154973.jpeg.jpg" data-tags="trip-hop" role="button">
+Karmacoda - Evidence (2003-08)
+</li>
+<li data-cover="https://img.discogs.com/_l9ROJxkXfw03koShu0Anz2iJZI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588682-1446756166-6594.jpeg.jpg" data-tags="singer-songwriter, folk" role="button">
+Josh Ritter - Hello Starling (2003-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e441d80-ca54-35eb-b3df-42095796aff1/3880014705-500.jpg" data-tags="80s, synthpop" role="button">
+The Human League - The Very Best of The Human League (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c1a6b17-0dfc-3b58-bf41-3d60a76ab3b4/5607211411-500.jpg" data-tags="rock" role="button">
+Bruce Springsteen - The Essential Bruce Springsteen (2003-11-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="trip-hop, downtempo, usa, trip hop, american, california, west coast, bay area, from: usa, bay-area, us indie, american bands, bay area underground, bay area i like, sweet california, american brilliance, bay area bands, california indie, west coast sound, american indie, california artists, usa artists, us independent, us-american, sf bay area, california local, american dream, american singer, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, american life, san francisco ca, west-coast, san-francisco, usa music, west coast chill, from california, bay area indie, usa underground, california sunshine, san francisco summer, from: california, california usa, usa: california, san francisco indie, california coast, san francisco scene, sf bay area scene, amercian band, indie california, san francisco band, bay area best, from: sanfrancisco usa, san francisco music, city: san francisco" role="button">
 Karmacoda - Transitory Mini EP (2004-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/ec815da1-1eb9-4f7a-836b-cd07db690436/28399282774-500.jpg" data-tags="electronica, ambient, dub, american, california, west coast, 00s, the sound of san francisco, elektronic beats, american artist, bay area, from: usa, neu, bay-area, bay area underground, bay area i like, sweet california, bay area bands, california indie, west coast sound, american indie, california artists, sf bay area, california local, american dream, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, san francisco ca, west-coast, san-francisco, west coast chill, west coast indie, from california, bay area indie, california sunshine, san francisco summer, from: california, california usa, san francisco indie, american musician, california coast, san francisco scene, sf bay area scene, investig, san francisco band, bay area best, vaporvent, from: sanfrancisco usa, san francisco music" role="button">
-Waterjuice - Melbaphonics (2004-12)
+<li data-cover="http://coverartarchive.org/release/655ad7d5-f469-46f5-a818-c544ec2c5728/26402077613-500.jpg" data-tags="indie rock, indie folk, los angeles" role="button">
+The Elected - Me First (2004-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f5c0d54-e9fa-3957-ab67-4c30ddb53262/23390004827-500.jpg" data-tags="rock, pop punk" role="button">
+Sugarcult - Palm Trees and Power Lines (2004-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/8edf887c-f8ee-4663-af02-0a5117acc808/7941540099-500.jpg" data-tags="americana, alt-country" role="button">
+Calexico - Convict Pool (2004-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
+Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
+</li>
+<li data-cover="https://img.discogs.com/0X-qSTPg_-xJSoxRcp53mGMPHVM=/fit-in/387x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7199937-1452279474-1872.jpeg.jpg" data-tags="rock" role="button">
+Lenny Kravitz - Baptism (2004-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/df66511b-d830-4ab2-9eb4-c56f2f41713b/17643297700-500.jpg" data-tags="indie" role="button">
+Rogue Wave - Out of the Shadow (2004-07-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fce7b78-8d3c-4ff3-8926-80ec007ae895/15299180713-500.jpg" data-tags="progressive rock" role="button">
+Rishloo - Terras Fames (2004-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff4bf915-8a21-417d-8c09-04600a7deb41/18504588791-500.jpg" data-tags="brazilian, samba, poetry, mpb" role="button">
+Chico Buarque - Chico Buarque (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
@@ -261,64 +264,61 @@ Matt Costa - Songs We Sing (2005)
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
 The Game - The Documentary (2005-01-18)
 </li>
-<li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Death on the Road (2005-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2b358e9-7008-31b2-9983-06ddf5714a24/5901913185-500.jpg" data-tags="new wave" role="button">
-Eurythmics - Ultimate Collection (2005-11-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, hard rock, aor, california, survivor, aleister crowley, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
-Survivor - Reach (2006-04-26)
+<li data-cover="http://coverartarchive.org/release/3a099fee-61ad-442c-bebd-7e86bfa20bff/19868198062-500.jpg" data-tags="pop, rock, 80s, argeu california seixas" role="button">
+Chris Isaak - Best of Chris Isaak (2006-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
+<li data-cover="https://img.discogs.com/cuIkcBdTuIrRCi7WaxPEwF74I74=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1211990-1588552261-4809.jpeg.jpg" data-tags="indie, rock, singer-songwriter" role="button">
+Matt Costa - Unfamiliar Faces (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/17a635c3-c8ec-4dbd-a438-5e540d49e3a3/9446558812-500.jpg" data-tags="indie pop" role="button">
+The Bird and the Bee - The Bird and the Bee (2007-01-23)
+</li>
+<li data-cover="https://img.discogs.com/X_v6eci03aCEsI3LId02Wh75ROU=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2486885-1286710607.jpeg.jpg" data-tags="reggae-punk-acoustic-awesome" role="button">
+Slightly Stoopid - Chronchitis (2007-08-07)
+</li>
 <li data-cover="https://img.discogs.com/a3-2UCBs7IUzYNyk4S6SZ3v3m1Q=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2237637-1271588620.jpeg.jpg" data-tags="indie rock, california" role="button">
 Earlimart - Mentor Tormentor (2007-08-21)
 </li>
-<li data-cover="https://img.discogs.com/58m6T0daIM0TzKcigGlGi8KR15Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3832444-1370809627-1386.jpeg.jpg" data-tags="electronica, psychedelic, american, california, west coast, 00s, the sound of san francisco, elektronic beats, american artist, bay area, from: usa, bay-area, american bands, bay area underground, mesmerize, bay area i like, sweet california, bay area bands, california indie, west coast sound, american indie, california artists, sf bay area, california local, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, san francisco ca, west-coast, san-francisco, west coast chill, west coast indie, myfavo, from california, bay area indie, california sunshine, san francisco summer, from: california, california usa, san francisco indie, american musician, california coast, san francisco scene, sf bay area scene, amercian band, san francisco band, bay area best, vaporvent, faval bm, from: sanfrancisco usa, san francisco music" role="button">
-Waterjuice - Liquid Journeys (2008)
+<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
+Metro Station - Metro Station (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish, california, 2000s, sleaze, wants, united states, santa cruz, glam metal, sleaze rock" role="button">
-Dirty Penny - Young & Reckless (2009-04-09)
+<li data-cover="https://img.discogs.com/mkLY91OJiGwNvrwxERyq50J4Mz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404325-1580767308-9603.png.jpg" data-tags="alternative rock, rapcore" role="button">
+One Day as a Lion - One Day as a Lion (2008-07-19)
+</li>
+<li data-cover="https://img.discogs.com/hvwrsdt7Le86HEpqOvnSzL40b1Q=/fit-in/497x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488405-1223451575.jpeg.jpg" data-tags="indie pop" role="button">
+Jenny Lewis - Acid Tongue (2008-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/09941147-6845-43a4-bbff-a5168f8137c5/27063501163-500.jpg" data-tags="indie" role="button">
+M. Ward - Hold Time (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/766cf545-9651-4728-85e0-230d29adf83c/15868890607-500.jpg" data-tags="surf, usa, strange, psychedelic, california, garage, debut album, the desperate kingdom of love, 30 strand grass, 4jsfolk, q3jslfm, you cant be wise and then love at the same time, track to check again, stuff i still want to discover, 2unban" role="button">
 The Growlers - Are You In Or Out? (2009-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/a5236f2b-ec9f-4b6b-a6d2-3cd85d048180/18248081257-500.jpg" data-tags="rap, fashawn" role="button">
+Fashawn - Boy Meets World (2009-10-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/69115003-a563-4e9e-99d6-fce1ed9b141d/25465821647-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - Have One on Me (2010-02-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, usa, folk noir, california, new york city, 2010 releases" role="button">
-Nina Nastasia - Outlaster (2010-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb7fff40-f753-408a-919d-b2c70569ccd6/4769356302-500.jpg" data-tags="hardcore, usa, sludge, california, sludge metal, metallic hardcore" role="button">
-Seven Sisters of Sleep - Seven Sisters of Sleep (2011)
-</li>
-<li data-cover="http://coverartarchive.org/release/c37f72d2-dc47-4800-8699-9ea009a059b9/6053721753-500.jpg" data-tags="electronic, indie, experimental, usa, solo, lo-fi, experimental rock, minimal, krautrock, psychedelic, tape, avant-garde, american, drone, california, crossover, dark ambient, diy, los angeles, american underground, 10s, free music, psych-folk, solo artist, america, pyschedelic, netaudio, experimental indie, psych-rock, one-man-band, tape music, californian, avant-folk, bandcamp, experimental folk, drone folk, free albums, free album, solo project, webaudio, kosmische musik, post-psychedelic, experimentalism, self-released, usa underground, post-psychedelic electronica" role="button">
-Lee Noble - No Becoming (2011-01-01)
-</li>
-<li data-cover="https://img.discogs.com/OEgN7XgpisEQwZcZDcTZMAMU5tY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849479-1575548141-8921.jpeg.jpg" data-tags="groove metal, thrash metal" role="button">
-Cavalera Conspiracy - Blunt Force Trauma (2011-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc979fbb-8c6b-42df-9312-c370f7d6df0c/4724320692-500.jpg" data-tags="disco, electronic, indie, pop, soul, uk, electro, funk, psychedelic, london, cover, lounge, new orleans, california, 60's, duet, collaboration, thievery corporation, los feliz, echo park, 70's, esl, am, my gang 11, eighteenth street lounge music, shawn lee, clutchy hopkins" role="button">
-AM & Shawn Lee - Celestial Electric (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/d958ceee-0bc1-440c-98b7-6bd1e269b433/18238708000-500.jpg" data-tags="alternative rock, doom metal, experimental rock, california, sludge metal, 2000s, 2010s, melvins, live album, live recording, us-american, downey, sugar daddy live, k1r7m, busta-guts club" role="button">
-Melvins - Sugar Daddy Live (2011-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, singer-songwriter, country-rock, americana, alt-country, california, alternative country-rock, love these guy" role="button">
-Chuck Prophet - Temple Beautiful (2012-02-07)
+<li data-cover="http://coverartarchive.org/release/88a81e30-e4d8-4ffd-bb73-6fe9a2730796/1993617113-500.jpg" data-tags="electronic, electronica" role="button">
+You Love Her Coz She's Dead - You Love Her Coz She's Dead (2011-08-29)
+</li>
+<li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
+Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/8cbd2027-f1b6-42c3-a0e8-ff3c0df074f0/14448756090-500.jpg" data-tags="reggae, hardcore, ska, california, weed, skapunk, ballyhooligans" role="button">
-Ballyhoo! - Pineapple Grenade (2013-06-25)
+<li data-cover="https://img.discogs.com/QKyteu6iDEpCkQa1LyVPOYXPqzo=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3855360-1440433299-4605.jpeg.jpg" data-tags="alternative rock, punk rock" role="button">
+Billy Talent - Dead Silence (2012-09-07)
 </li>
 </ol>

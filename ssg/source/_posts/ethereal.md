@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T10:57:01.381Z
+date: 2021-04-04T15:47:01.331Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Cocteau Twins - Treasure (1984-10-01)](http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg "Cocteau Twins - Treasure (1984-10-01)")
@@ -7,13 +7,13 @@ title: "ethereal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">Cocteau Twins - Treasure (1984-10-01)</li>
 <li data-cover="https://img.discogs.com/48Ew-MwVKnCAuXoq8l5yXChIbqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62108-1400097344-5564.jpeg.jpg" data-tags="dream pop" role="button">Cocteau Twins - Heaven or Las Vegas (1990-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">Mazzy Star - So Tonight That I Might See (1993-09-27)</li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
+<li data-cover="https://img.discogs.com/ZXrsL-0EWr2DFZ12gNygf4qf7mI=/fit-in/532x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653654-1143763061.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">Emilie Autumn - Enchant (2003-02-26)</li>
 <li data-cover="https://img.discogs.com/kAiO6KFJEB0AheBKPUCEyZjsueQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019630-1215843921.jpeg.jpg" data-tags="indie, female vocalists" role="button">Bat for Lashes - Fur and Gold (2006-09-11)</li>
 <li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">Youth Lagoon - The Year of Hibernation (2011-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">Dead Can Dance - Anastasis (2012-08-13)</li>
-<li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, cd, vocal pop, better than expected, purchase list" role="button">Indila - Mini World (2014-02-21)</li>
+<li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">Indila - Mini World (2014-02-21)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -51,14 +51,14 @@ Clan of Xymox - Medusa (1986-11-01)
 <li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">
 Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)
 </li>
-<li data-cover="https://img.discogs.com/2KunWdANjetqmAeteAR32ZY_rcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1641215-1234035719.jpeg.jpg" data-tags="dream pop, 80s, 4ad" role="button">
-Cocteau Twins - Blue Bell Knoll (1988-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
 Dead Can Dance - Aion (1990-07-02)
 </li>
 <li data-cover="https://img.discogs.com/48Ew-MwVKnCAuXoq8l5yXChIbqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62108-1400097344-5564.jpeg.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Heaven or Las Vegas (1990-08-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="celtic" role="button">
+Loreena McKennitt - The Visit (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
 Dead Can Dance - A Passage in Time (1991-10-21)
@@ -78,6 +78,12 @@ Cocteau Twins - Four-Calendar Cafe (1993-11-02)
 <li data-cover="http://coverartarchive.org/release/cf042b54-74aa-41d8-a7a7-9f134e768b28/1782149775-500.jpg" data-tags="ethereal" role="button">
 Love Spirals Downwards - Ardor (1994)
 </li>
+<li data-cover="http://coverartarchive.org/release/37c6a72e-aabb-4c31-a35e-d3ebfec2550f/4138136542-500.jpg" data-tags="celtic" role="button">
+Loreena McKennitt - The Mask and Mirror (1994-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/241eeee9-802f-3bf4-85e2-733cdd209836/27181976185-500.jpg" data-tags="new age, celtic, secret garden" role="button">
+Secret Garden - Songs From a Secret Garden (1995)
+</li>
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">
 Slowdive - Pygmalion (1995-02-06)
 </li>
@@ -87,35 +93,26 @@ Lisa Gerrard - The Mirror Pool (1995-08-24)
 <li data-cover="http://coverartarchive.org/release/e74a9244-b5b4-3f25-8526-f9fb31fe52f7/11004417052-500.jpg" data-tags="trip-hop" role="button">
 Hooverphonic - A New Stereophonic Sound Spectacular (1996)
 </li>
-<li data-cover="https://img.discogs.com/eQiBxf4AD0GY2EHMECA8M1xxpYY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1042155-1187314597.jpeg.jpg" data-tags="ambient, ethereal, neo-classical" role="button">
-Angels Of Venice - Awake Inside A Dream (1996-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/c399f8d5-43a8-3e1a-98b7-0a6a5bb6ea52/2153622469-500.jpg" data-tags="ambient, atmospheric, world music" role="button">
 Dead Can Dance - Spiritchaser (1996-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age, enigma, ambient" role="button">
-Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
-</li>
 <li data-cover="https://img.discogs.com/4opvcXLy8bbXDmILdXxVQkmzQlM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-r_122593-001.jpg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
-<li data-cover="https://img.discogs.com/e1S0JSPHCdHy_zoQ8AnglE9dB18=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2016919-1474552325-5532.jpeg.jpg" data-tags="indie rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
 Broadcast - Work and Non Work (1997-06-09)
 </li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/ZXrsL-0EWr2DFZ12gNygf4qf7mI=/fit-in/532x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653654-1143763061.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/20fd8611-cffc-4a60-86c8-165e8a48100e/21747393696-500.jpg" data-tags="ethereal, music to drown in" role="button">
-Hannah Fury - The Thing That Feels (2000)
 </li>
 <li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
 Broadcast - The Noise Made by People (2000-03-20)
@@ -126,7 +123,10 @@ Goldfrapp - Felt Mountain (2000-09-11)
 <li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica, vinyl" role="button">
 The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 </li>
-<li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
+<li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
+Enya - A Day Without Rain (2000-11-11)
+</li>
+<li data-cover="https://img.discogs.com/4hkW0O5k2_6ro8Mrl1e1MYsLrwM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50825-1563917082-6248.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
 </li>
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
@@ -138,14 +138,11 @@ Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
 <li data-cover="http://coverartarchive.org/release/5e306f81-9a7c-3d3a-9393-43dd35440717/24893740190-500.jpg" data-tags="britpop, indie" role="button">
 Doves - The Last Broadcast (2002-04-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1df1c3e-2db3-4842-88d1-3c7e2d8adaef/1772855366-500.jpg" data-tags="greek, folk, ethereal, neofolk" role="button">
-Daemonia Nymphe - Daemonia Nymphe (2002-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/a90fcbea-f149-48c8-be31-9482b414b245/1748384200-500.jpg" data-tags="dark ambient, neoclassical, ambient, ethereal, gothic" role="button">
-Arcana - Inner Pale Sun (2002-12-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/2dec60d0-00a4-4ffd-ae4b-69e86f0601dc/2788181181-500.jpg" data-tags="fantasy, ethereal, darkwave, world fusion, female vocalists" role="button">
 Irfan - IRFAN (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/5fc78c2c-3ad2-4152-b7c8-0fb25d1316e7/11792823041-500.jpg" data-tags="new age, ambient" role="button">
+Amethystium - Aphelion (2003-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
 Emilie Autumn - Enchant (2003-02-26)
@@ -153,17 +150,17 @@ Emilie Autumn - Enchant (2003-02-26)
 <li data-cover="http://coverartarchive.org/release/4da446f6-d2c4-3c1d-bbd5-2827edd023a2/11858141676-500.jpg" data-tags="electronic, ambient" role="button">
 Ulrich Schnauss - A Strangely Isolated Place (2003-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/60a13ddd-9ea6-4426-b927-cb0e940450d7/5225689875-500.jpg" data-tags="goa" role="button">
-1200 Micrograms - Heroes Of The Imagination (2003-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/58f47cac-c702-4018-ba4a-7cf3a40941a2/2610903396-500.jpg" data-tags="ambient, ethereal, darkwave, female vocalists" role="button">
-Angelzoom - Angelzoom (2004-01-01)
+<li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
+Low - The Great Destroyer (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea9811df-915b-4d1b-8172-673b5cc4ce7d/4397578495-500.jpg" data-tags="ethereal" role="button">
 Flëur - Волшебство (2004-01-27)
 </li>
-<li data-cover="https://img.discogs.com/FtifmdyT-d_27e3Ai8TLA7WM4N0=/fit-in/600x557/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396405-1403732180-7045.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
+<li data-cover="https://img.discogs.com/nKVi_E6KjzWjALypkTLexazuVyk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10521366-1499152013-3611.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
 Broken Social Scene - Bee Hives (2004-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/3fb4021f-345e-4688-bc3a-126e30bdfb59/21574217184-500.jpg" data-tags="world music, ethereal, new age" role="button">
+Vas - Feast Of Silence (2004-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c73b2129-5e0a-4952-9524-0a9ec5f13593/4093089682-500.jpg" data-tags="chillout, downtempo" role="button">
 Bent - Ariels (2004-08-16)
@@ -179,9 +176,6 @@ Gang Gang Dance - God's Money (2005)
 </li>
 <li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
 Broadcast - Tender Buttons (2005-09-19)
-</li>
-<li data-cover="https://img.discogs.com/68m0_-Q770-uAHqgj9CiEAkXAew=/fit-in/400x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1064184-1189339453.jpeg.jpg" data-tags="ethereal, darkwave, neofolk" role="button">
-Narsilion - Arcadia (2006-04)
 </li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
@@ -201,11 +195,20 @@ Bat for Lashes - Fur and Gold (2006-09-11)
 <li data-cover="https://img.discogs.com/puejkqh-SaEpKYN6cldpw3JRDCY=/fit-in/426x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011062-1194177277.jpeg.jpg" data-tags="ambient, post-rock, progressive, ethereal, post rock, lsd, manjoh, de:bug album reviews 2007, try this, toad-tested mother-approved" role="button">
 APSE - Spirit (2006-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/6eeb86b8-b24b-3c08-909f-efd59f6d48c7/3362466019-500.jpg" data-tags="ethereal, the shins - phantom limb, gene loves, gene alt, folk-alt" role="button">
+The Shins - Phantom Limb (2006-11-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/35fbd275-fdc3-4450-9b34-e05c5d93bef0/7597192789-500.jpg" data-tags="ambient, female vocalists, new age" role="button">
 Lisa Gerrard - The Silver Tree (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac9ff732-814f-4c91-87eb-acc311c80c7d/2044549867-500.jpg" data-tags="ethereal, female vocalists" role="button">
 Irfan - Seraphim (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/432c164d-a9cc-4735-9f83-1507c289d569/11539678567-500.jpg" data-tags="new age" role="button">
+Achillea - Amadas Estrellas (2007-02-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f857ab9-6cd0-45e6-b618-93947c185cf5/13071763593-500.jpg" data-tags="neo-soul" role="button">
+Willow - Willow (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
@@ -224,9 +227,6 @@ Spiritualized - Songs In A&E (2008-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
 Chairlift - Does You Inspire You (2008-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/a12d12cc-c5a6-3a9c-b86a-3cf26909c31e/3020519925-500.jpg" data-tags="folk, ethereal, mainstream shit, hino, haters gonna hate, more talented than miley cyrus" role="button">
-Marissa Nadler - Little Hells (2009-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d290678-9d83-493e-b686-91a7351d70a7/2627971442-500.jpg" data-tags="ethereal, j-pop, yuki kajiura" role="button">
 Kalafina - Seventh Heaven (2009-03-04)
@@ -252,9 +252,6 @@ Brendan Perry - Ark (2010-06-07)
 <li data-cover="http://coverartarchive.org/release/c2529d41-26b6-4751-979d-ae0b19ec91a9/3754509342-500.jpg" data-tags="shoegaze" role="button">
 Tamaryn - The Waves (2010-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
-How to Dress Well - Love Remains (2010-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cf117937-2317-43b8-8b20-ba9a045e3a12/15963313413-500.jpg" data-tags="experimental, psychedelic" role="button">
 Glasser - Ring (2010-09-28)
 </li>
@@ -263,9 +260,6 @@ Grimes - Halfaxa (2010-10-05)
 </li>
 <li data-cover="https://img.discogs.com/7NlxrsULvOY21UT1Bkz9r4c4ubc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2514342-1405535781-5094.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/05fe8137-9c10-3486-933e-4c6abf32ae96/18818026407-500.jpg" data-tags="ambient, dream pop" role="button">
-Julianna Barwick - The Magic Place (2011-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/018e2e84-f12f-40a0-b9c3-083a7684347a/3178531758-500.jpg" data-tags="alternative, indie rock, female vocalists, ethereal, lungs, florence welch" role="button">
 Florence + the Machine - Lungs: The B-Sides (2011-02-27)
@@ -282,8 +276,8 @@ St. Vincent - Strange Mercy (2011-09-09)
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
 </li>
-<li data-cover="https://img.discogs.com/EE-4_n8QL36emI_yiIwHt5II-MI=/fit-in/467x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2419837-1283081937.jpeg.jpg" data-tags="synthpop, glam rock, electronic, folktronica" role="button">
-Goldfrapp - The Singles (2012-02-03)
+<li data-cover="http://coverartarchive.org/release/17b626dc-ff74-4e36-9352-6730e4497f78/1233373890-500.jpg" data-tags="ethereal" role="button">
+iamamiwhoami - sever (2012-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
@@ -297,8 +291,14 @@ Deptford Goth - Life After Defo (2012-09-04)
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
+<li data-cover="https://img.discogs.com/0ql8b3dLFazffFJrBCRFnqpVm_s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4566013-1368554865-9702.jpeg.jpg" data-tags="indie, alternative, indie pop, dream pop" role="button">
+MS MR - Secondhand Rapture (2013-05-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
+Agnes Obel - Aventine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)
@@ -306,7 +306,7 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 <li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
 Marissa Nadler - July (2014-02-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, cd, vocal pop, better than expected, purchase list" role="button">
+<li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
 Indila - Mini World (2014-02-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="art pop" role="button">

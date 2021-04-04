@@ -1,12 +1,12 @@
 ---
-date: 2021-04-04T10:53:01.282Z
+date: 2021-04-04T16:10:01.489Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">Joy Division - Unknown Pleasures (1979-06-15)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">Talking Heads - Remain in Light (1980-10-08)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">New Order - Power, Corruption & Lies (1983-05)</li>
+<li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">New Order - Power, Corruption & Lies (1983-05)</li>
 <li data-cover="https://img.discogs.com/LM8XDDJAl7zeJ_xrgMM4Kt7uMU8=/fit-in/372x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972448-1215538670.jpeg.jpg" data-tags="new wave" role="button">Talk Talk - It's My Life (1984-01-03)</li>
 <li data-cover="http://coverartarchive.org/release/714c8fa2-0a75-470b-a5d3-3709e41aa6dd/4361451627-500.jpg" data-tags="80s, new wave" role="button">Tears for Fears - Songs from the Big Chair (1985-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/bc1bf979-4889-3d5e-8edd-bf1bcffa80c3/23483858382-500.jpg" data-tags="new wave, 80s" role="button">The Cure - The Head on the Door (1985-08-13)</li>
@@ -29,6 +29,9 @@ Elvis Costello - My Aim Is True (1977-07-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Talking Heads: 77 (1977-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/270dca36-2e04-4efe-8698-16d574daf8fd/4921979307-500.jpg" data-tags="new wave, rock, 70s" role="button">
+The Cars - The Cars (1978-06-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
 Devo - Q: Are We Not Men? A: We Are Devo! (1978-07)
@@ -66,7 +69,7 @@ The Police - Reggatta De Blanc (1979-10-05)
 <li data-cover="http://coverartarchive.org/release/710f4e35-a355-45ba-b61f-2a969ff8e870/12483197648-500.jpg" data-tags="post-punk" role="button">
 The Cure - Seventeen Seconds (1980-04-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
+<li data-cover="https://img.discogs.com/t7pwLMqM92_uUguBID62XCxc0Lc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-568069-1447611008-6414.jpeg.jpg" data-tags="new wave" role="button">
 Devo - Freedom of Choice (1980-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/97d8bb43-f46f-3460-92dc-d6acdb3f1279/14969806130-500.jpg" data-tags="post-punk" role="button">
@@ -75,7 +78,7 @@ Joy Division - Closer (1980-07-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
 </li>
-<li data-cover="https://img.discogs.com/5INQkJ-YqonkcbHqAS2aeTb_TGg=/fit-in/317x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-771388-1157538601.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/fYhrZjK4pBaJRq3UhaO6Ydm3mmU=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681480-1474257866-6760.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="80s, new wave" role="button">
@@ -114,13 +117,13 @@ Visage - The Damned Don't Cry (1982-01-04)
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, 80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/RNz6Fg2CBe980HDyOrKIr_aAGhM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10242510-1494068814-4541.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
 Billy Idol - Billy Idol (1982-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
 Tears for Fears - The Hurting (1983-03-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
+<li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1da98992-f955-4de8-9efc-ac4d9a9cf047/5565481684-500.jpg" data-tags="new wave, 80s" role="button">
@@ -306,7 +309,7 @@ Santigold - Master of My Make-Believe (2012-04-21)
 <li data-cover="http://coverartarchive.org/release/5cc18898-c270-40c2-b319-9c5382261df0/1500340877-500.jpg" data-tags="new wave, 4ad" role="button">
 Twin Shadow - Confess (2012-07-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/oj94D1ou3UxDB55dmmdbi3H5jfo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4512821-1367002480-6236.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)
 </li>
 <li data-cover="https://img.discogs.com/gqV7z6TvbtaV1-ZYmoScs8X-Qc8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6018432-1408954698-5308.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
@@ -314,9 +317,6 @@ Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
-The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">
 Future Islands - Singles (2014-03-24)

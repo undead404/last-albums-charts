@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:27:45.634Z
+date: 2021-04-04T16:12:01.265Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Sonic Youth - Daydream Nation (1988-10)](http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg "Sonic Youth - Daydream Nation (1988-10)")
@@ -78,7 +78,7 @@ The Flaming Lips - In a Priest Driven Ambulance (1990-09-01)
 <li data-cover="http://coverartarchive.org/release/39768213-ed10-4cdb-a516-d8194f3ac3aa/22607601704-500.jpg" data-tags="noise rock, post-hardcore" role="button">
 The Jesus Lizard - Goat (1991-02-21)
 </li>
-<li data-cover="https://img.discogs.com/8Qmy81GuWZDtF1bqat4DA2bnPzg=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11240105-1512524485-4612.jpeg.jpg" data-tags="grunge" role="button">
+<li data-cover="https://img.discogs.com/f4P72BJdO1TNMPqS_VwPszoUmi8=/fit-in/346x343/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7279651-1437892064-9420.jpeg.jpg" data-tags="grunge" role="button">
 Hole - Pretty On The Inside (1991-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4dcea90-1d72-4141-8b18-68f0361258dd/14922151616-500.jpg" data-tags="indie rock, 90s" role="button">
@@ -87,8 +87,8 @@ Yo La Tengo - May I Sing With Me (1992-02-28)
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
-The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
+<li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
+The Jesus Lizard - Liar (1992-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/617e6155-432c-4c95-a9ab-b78e1c7838c2/11841421329-500.jpg" data-tags="rock, alternative rock, alternative, psychedelic" role="button">
 Butthole Surfers - Independent Worm Saloon (1993-03-23)
@@ -111,7 +111,7 @@ Sonic Youth - Washing Machine (1995-09-26)
 <li data-cover="https://img.discogs.com/ONy1490mq3ZqLfb7XUWkkSKnwqs=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371265-1237647823.jpeg.jpg" data-tags="indie rock, alternative" role="button">
 Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
 </li>
-<li data-cover="https://img.discogs.com/ogAdxAzAVI3WHa9Twx-HxTIMmYM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-668910-1145575708.jpeg.jpg" data-tags="experimental, alternative" role="button">
+<li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
