@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:51:01.818Z
+date: 2021-04-04T08:21:01.218Z
 title: "hair metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -12,7 +12,7 @@ title: "hair metal: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, hair metal" role="button">Warrant - Cherry Pie (1990)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">Steel Panther - Feel the Steel (2009-06-08)</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">Black Veil Brides - Set the World on Fire (2011-06-14)</li>
+<li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/20f10584-bc6d-3bf6-a110-e06491275f45/1287473342-500.jpg" data-tags="hard rock" role="button">
-Kiss - Dynasty (1979-05-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/f5790915-3547-4f03-866d-888f9b81c6cf/8843276119-500.jpg" data-tags="classic rock, 70s, hard rock" role="button">
 Styx - Cornerstone (1979-10)
 </li>
@@ -53,9 +50,6 @@ Autograph - Sign In Please (1984)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
-</li>
-<li data-cover="https://img.discogs.com/TzxHCZPzxNefiQSSfUwczy3DuiQ=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4031292-1468117673-7904.jpeg.jpg" data-tags="rock, 80s" role="button">
-REO Speedwagon - Wheels Are Turnin' (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/65f0ee57-c6e6-4e2a-8812-dfd2b2404b1b/13480467728-500.jpg" data-tags="rock, 80s, hard rock" role="button">
 Bon Jovi - Bon Jovi (1984-01)
@@ -147,9 +141,6 @@ Kix - Blow My Fuse (1988-09-06)
 <li data-cover="http://coverartarchive.org/release/6ebdf232-dbf2-44b1-afe1-e75ea34b8075/4450210837-500.jpg" data-tags="hard rock, rock" role="button">
 Bon Jovi - New Jersey (1988-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/2849834b-6496-4a01-abee-2e860b862a8e/19214456240-500.jpg" data-tags="classic rock, heavy metal, metal, 80s, hard rock, hair metal, glam rock, hair band, wants, mandatory, is ok, smooth up in ya" role="button">
-Bulletboys - Bulletboys (1988-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/23f9e674-cd59-4490-a875-8126f59fc353/7163136220-500.jpg" data-tags="hard rock" role="button">
 Kiss - Smashes, Thrashes & Hits (1988-11-14)
 </li>
@@ -210,9 +201,6 @@ Mr. Big - Lean Into It (1991-03-26)
 <li data-cover="http://coverartarchive.org/release/2465d015-28ef-45d7-beb4-0d6f8e5e6e59/11453551465-500.jpg" data-tags="rock, hair metal, glam rock" role="button">
 L.A. Guns - Hollywood Vampires (1991-06-25)
 </li>
-<li data-cover="https://img.discogs.com/MLod2rNI359gr-9aQD-7H0ZdqLM=/fit-in/600x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-523248-1193293371.jpeg.jpg" data-tags="hard rock, heavy metal, blues rock" role="button">
-Tesla - Psychotic Supper (1991-08-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/842baabe-bfef-431d-a24a-442f4bcc171e/20925766744-500.jpg" data-tags="hard rock, hair metal" role="button">
 Danger Danger - Screw It! (1991-09-12)
 </li>
@@ -249,6 +237,9 @@ Buckcherry - 15 (2006-04-11)
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ed04d65-ea30-49f9-813f-954a85713612/1939044716-500.jpg" data-tags="crunkcore, scremo" role="button">
+Brokencyde - BC13 (2008-03-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/60914155-ee9d-40f2-bb00-293477d3c7d9/3434927061-500.jpg" data-tags="hard rock" role="button">
 Mötley Crüe - Saints Of Los Angeles (2008-06-18)
 </li>
@@ -276,7 +267,7 @@ Deafheaven - Demo (2010-06-01)
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
-<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/9a1VON74XBTu7wJGlvfziZuq1Ok=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930875-1517967292-9252.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
@@ -300,11 +291,20 @@ Zola Jesus - Conatus (2011-09-26)
 <li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
+A$AP Rocky - Goldie (2012-04-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
 Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/39dcebcd-425c-4fa5-b6c9-32d14f896230/3036084307-500.jpg" data-tags="hard rock, glam metal" role="button">
+Black Veil Brides - Wretched And Divine: The Story Of The Wild Ones (2013-01-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">
+Bring Me the Horizon - Sempiternal (2013-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Infestissumam (2013-04-10)
@@ -315,10 +315,10 @@ Zara Larsson - Uncover (2013-05-13)
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
+Attila - About That Life (2013-06-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Bring Me the Horizon - Drown (2014-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/896c0f0f-4c7f-4359-96a6-d5c1e00627a2/8852141954-500.jpg" data-tags="female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, deathcore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay, metalcore, hair metal" role="button">
-Attila - Guilty Pleasure (2014-11-24)
 </li>
 </ol>

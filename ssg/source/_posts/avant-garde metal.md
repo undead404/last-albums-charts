@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:55:01.208Z
+date: 2021-04-04T08:15:01.309Z
 title: "avant-garde metal: 100 albums you must listen to before you die"
 ---
 ![Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2006-08-17)](http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-500.jpg "Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3d664bf1-22f3-4651-b4b1-83521ed4145d/14898575688-500.jpg" data-tags="thrash metal, avant-garde metal" role="button">
 Celtic Frost - Into The Pandemonium (1987-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/f860914b-82a5-39c1-a63b-7e1a77b58d53/15829726302-500.jpg" data-tags="industrial metal, industrial" role="button">
-Godflesh - Godflesh (1988)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
 Mr. Bungle - Mr. Bungle (1991-08-13)
@@ -108,9 +105,6 @@ Pinkly Smooth - Unfortunate Snort (2002)
 <li data-cover="https://img.discogs.com/GYhZ7K6fOzCcdRdNDHBJZJ74sHU=/fit-in/280x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2349420-1278742285.jpeg.jpg" data-tags="avant-garde metal, progressive metal" role="button">
 Arcturus - The Sham Mirrors (2002-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/fb617532-242d-4fb3-8c2f-99182c81c853/13549940233-500.jpg" data-tags="black metal, melodic black metal" role="button">
-Dornenreich - Her von welken Nächten (2002-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/020eafbd-3bc3-4497-891b-62445c51e22d/11228560145-500.jpg" data-tags="avant-garde metal, transym, take that demon burger" role="button">
 Unexpect - WE, Invaders (2003)
 </li>
@@ -141,7 +135,7 @@ Peccatum - Lost In Reverie (2004-04-19)
 <li data-cover="https://img.discogs.com/XFPiqyF_Qw3m-Te-ug57KyojzlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-847137-1241031913.jpeg.jpg" data-tags="progressive metal" role="button">
 Age of Silence - Acceleration (2004-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comic metal" role="button">
+<li data-cover="https://img.discogs.com/t8S5AQ1zJquPNwMvba-QTd0rQZU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1213871-1204667952.jpeg.jpg" data-tags="comic metal" role="button">
 Crotchduster - Big Fat Box of Shit (2004-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd9ddc75-db23-4d46-b748-a39e5d4c5a19/26723378277-500.jpg" data-tags="industrial metal" role="button">
@@ -189,8 +183,11 @@ Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal, experimental" role="button">
 Unexpect - In A Flesh Aquarium (2006-08-22)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
+<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="darkwave, avant-garde metal" role="button">
+Professor Fate - The Inferno (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/886c3b42-b902-42b2-a413-5f6c4cd902d3/5083823028-500.jpg" data-tags="avant-garde, progressive metal" role="button">
 Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)
@@ -294,10 +291,13 @@ Exotic Animal Petting Zoo - Tree of Tongues (2012-07-17)
 <li data-cover="http://coverartarchive.org/release/168700e3-0160-4793-b123-7abd8aafd86c/2220297744-500.jpg" data-tags="atmospheric black metal, post-black metal" role="button">
 Blut aus Nord - 777 - Cosmosophy (2012-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d896c48-f27b-4e73-8ecb-c17bbbe30638/4877036248-500.jpg" data-tags="black metal, avant-garde metal" role="button">
+Terra Tenebrosa - The Purging (2013-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/d668196f-0053-4faa-a844-4732943e03c9/4171250258-500.jpg" data-tags="avant-garde metal" role="button">
 Shining - One One One (2013-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/b48514ca-9ad8-48d7-a536-635d497acfae/4174329295-500.jpg" data-tags="progressive metal, 2013" role="button">
+<li data-cover="http://coverartarchive.org/release/b48514ca-9ad8-48d7-a536-635d497acfae/4174329295-500.jpg" data-tags="progressive metal" role="button">
 Leprous - Coal (2013-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fbd6978-4ba0-4f1f-b1fb-1ef7fb9eefd5/10787189786-500.jpg" data-tags="death metal, technical death metal, avant-garde death metal, progressive death metal" role="button">
@@ -306,7 +306,7 @@ Gorguts - Colored Sands (2013-08-30)
 <li data-cover="https://img.discogs.com/xNGsONC31H6m6LtJMt8puOke--I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4874646-1378145078-2434.jpeg.jpg" data-tags="black metal, progressive metal, post-rock, avant-garde metal" role="button">
 Kayo Dot - Hubardo (2013-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/681e36f2-442c-43dd-aad4-93ca98f14c14/7836195165-500.jpg" data-tags="progressive metal, 2013, avant-garde metal" role="button">
+<li data-cover="http://coverartarchive.org/release/681e36f2-442c-43dd-aad4-93ca98f14c14/7836195165-500.jpg" data-tags="progressive metal, avant-garde metal" role="button">
 Vulture Industries - The Tower (2013-09-27)
 </li>
 <li data-cover="https://img.discogs.com/TZTjYqiQbGDnsGgBENRMx-tS89Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949752-1412167722-7615.jpeg.jpg" data-tags="melodic death metal, alternative metal, nu metal, avant-garde metal" role="button">

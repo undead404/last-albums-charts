@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:42:01.327Z
+date: 2021-04-04T08:20:01.319Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -51,13 +51,13 @@ The Cranberries - No Need to Argue (1994-09)
 <li data-cover="https://img.discogs.com/5_ByL8XMido7M7zA6tfDC7q248s=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15895402-1601066012-3348.jpeg.jpg" data-tags="90s, alternative, female vocalists" role="button">
 PJ Harvey - To Bring You My Love (1995-02-22)
 </li>
-<li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="90s, rock, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/Q3yl1WI41mftREVRp0uoOeWmjpQ=/fit-in/454x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4576388-1369670400-5909.jpeg.jpg" data-tags="90s, rock, female vocalists" role="button">
 Alanis Morissette - Jagged Little Pill (1995-06-09)
 </li>
 <li data-cover="https://img.discogs.com/SJGfQpjn__fQln9HSBD1nYPsjso=/fit-in/600x926/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2976694-1419413692-8369.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
-<li data-cover="https://img.discogs.com/vPogf6imFIvnpC4hJWa1pfk92wI=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15138378-1587179369-9583.jpeg.jpg" data-tags="90s, ska, rock" role="button">
+<li data-cover="https://img.discogs.com/mLwjMdz3iGwslNg5YKQ1FbAUtmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6034085-1420330233-7216.jpeg.jpg" data-tags="90s, ska, rock" role="button">
 No Doubt - Tragic Kingdom (1995-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
@@ -86,9 +86,6 @@ Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
 Cat Power - You Are Free (2003-02-17)
@@ -189,6 +186,9 @@ The Pipettes - We Are The Pipettes (2006-07-17)
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
+<li data-cover="https://img.discogs.com/kAiO6KFJEB0AheBKPUCEyZjsueQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019630-1215843921.jpeg.jpg" data-tags="indie, female vocalists" role="button">
+Bat for Lashes - Fur and Gold (2006-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">
 Evanescence - The Open Door (2006-09-25)
 </li>
@@ -228,7 +228,7 @@ Adele - 19 (2008-01-27)
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
 Lykke Li - Youth Novels (2008-01-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/99eee7d3-a75a-41bd-826f-19a44c53e594/6085827998-500.jpg" data-tags="soul, female vocalists" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:22:01.293Z
+date: 2021-04-04T07:50:01.591Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -47,9 +47,6 @@ Dido - No Angel (1999-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Destiny's Child - Survivor (2001-04-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="john mayer" role="button">
-John Mayer - Room for Squares (2001-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
@@ -308,6 +305,9 @@ Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
+Lady Gaga - ARTPOP (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

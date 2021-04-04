@@ -1,10 +1,9 @@
 ---
-date: 2021-04-04T06:26:01.258Z
+date: 2021-04-04T07:51:01.338Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/7acaa9ab-048c-3c82-8623-ea9b777137ac/2550522708-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Meddle (1971-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Wish You Were Here (1975-09-12)</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Animals (1977-01-23)</li>
 <li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">Genesis - Invisible Touch (1986-06-01)</li>
@@ -12,6 +11,7 @@ title: "progressive rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">Tool - Lateralus (2001-05-14)</li>
+<li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">The Mars Volta - Frances the Mute (2005-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">Tool - 10,000 Days (2006-04-28)</li>
 <li data-cover="http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg" data-tags="alternative rock" role="button">Muse - The Resistance (2009-09-10)</li>
 </ol>
@@ -24,14 +24,8 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock, psychedelic" role="button">
 Pink Floyd - The Piper at the Gates of Dawn (1967-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
-The Moody Blues - Days of Future Passed (1967-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
 Pink Floyd - A Saucerful of Secrets (1968-06-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/653a898a-2988-4ffa-a492-555faed1e9ba/19740437818-500.jpg" data-tags="hard rock, classic rock" role="button">
-Deep Purple - Shades of Deep Purple (1968-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ac5a1f8-51d0-3db3-bfdc-c5803d8f2799/14207788461-500.jpg" data-tags="progressive rock, psychedelic rock, 60s, soundtrack" role="button">
 Pink Floyd - More (1969-06-13)
@@ -50,9 +44,6 @@ Pink Floyd - Atom Heart Mother (1970-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/20f367e3-ab11-4dcd-9350-8ef410a126ef/10021296073-500.jpg" data-tags="progressive rock" role="button">
 Jethro Tull - Aqualung (1971-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/a80b4602-0a20-4ca4-a061-896959249abf/6012566391-500.jpg" data-tags="progressive rock" role="button">
-Caravan - In The Land Of Grey And Pink (1971-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7acaa9ab-048c-3c82-8623-ea9b777137ac/2550522708-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Meddle (1971-10-30)
@@ -150,6 +141,9 @@ Tool - Opiate (1992-03-10)
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Images and Words (1992-06-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1b3f914-0b7f-3ee2-90ff-df83a62f4eb6/15706012837-500.jpg" data-tags="progressive rock" role="button">
+Roger Waters - Amused to Death (1992-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
 Tool - Undertow (1993-04-06)
 </li>
@@ -204,13 +198,19 @@ Archive - You All Look the Same to Me (2002-03-12)
 <li data-cover="http://coverartarchive.org/release/a90062eb-b2bb-3c39-9291-4684605a9313/19099262755-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - In Absentia (2002-09-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
+dredg - El Cielo (2002-10-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
 </li>
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
 </li>
-<li data-cover="https://img.discogs.com/komlby94frR-OIebYi2JCX_uCfI=/fit-in/544x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1140943-1195346718.jpeg.jpg" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/txXCBCvtaF_tayG6iJRYDdx68Do=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367875-1425009360-9153.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Thirteenth Step (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/FGPLF4s1qmg4p2ZD8e9fim49-88=/fit-in/599x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371685-1278657433.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -225,8 +225,11 @@ Riverside - Out Of Myself (2003-12-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Blackfield - Blackfield (2004-08-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - eMOTIVe (2004-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
+The Mars Volta - Frances the Mute (2005-03-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Deadwing (2005-03-28)
@@ -275,9 +278,6 @@ Oceansize - Frames (2007-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - The Bedlam in Goliath (2008-01-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
-Fleet Foxes - Sun Giant (2008-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)

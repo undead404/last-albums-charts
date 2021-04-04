@@ -1,17 +1,17 @@
 ---
-date: 2021-04-04T03:47:01.242Z
+date: 2021-04-04T08:17:01.243Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
-![Mastodon - Blood Mountain (2006-09-08)](http://coverartarchive.org/release/8d683762-19ec-4f8f-8714-ab3cabe115fe/7006792441-500.jpg "Mastodon - Blood Mountain (2006-09-08)")
+![Down - NOLA (1995-09-15)](http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg "Down - NOLA (1995-09-15)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/gJvTJ9lre8FmW_6WrG0763d40iE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332666-1210489026.jpeg.jpg" data-tags="grunge" role="button">Melvins - Houdini (1993-09-21)</li>
+<li data-cover="https://img.discogs.com/PyL0yruRYNuqkpe9YHdsjjod9d8=/fit-in/600x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11515346-1517703332-9906.jpeg.jpg" data-tags="grunge" role="button">Melvins - Houdini (1993-09-21)</li>
+<li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">Down - NOLA (1995-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">Alice in Chains - Alice in Chains (1995-11-07)</li>
 <li data-cover="http://coverartarchive.org/release/75cf454a-8b47-49f4-8472-6ccd7ab19d6b/25054291801-500.jpg" data-tags="progressive metal" role="button">Mastodon - Remission (2002-05-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="whalecore, progressive metal" role="button">Mastodon - Leviathan (2004-08-31)</li>
 <li data-cover="http://coverartarchive.org/release/8d683762-19ec-4f8f-8714-ab3cabe115fe/7006792441-500.jpg" data-tags="progressive metal" role="button">Mastodon - Blood Mountain (2006-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/d5526d95-9288-4f45-ac86-9ff465792ecb/1369815832-500.jpg" data-tags="progressive metal, sludge metal, sludge" role="button">Baroness - Red Album (2007-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">Mastodon - Crack the Skye (2009-02-23)</li>
-<li data-cover="https://img.discogs.com/AI7xRPGlQ_L4JE-arXLAVUV12eY=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709186-1265610910.jpeg.jpg" data-tags="sludge metal" role="button">Kylesa - Static Tensions (2009-03-17)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Mastodon - The Hunter (2011-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)</li>
 </ol>
@@ -36,7 +36,7 @@ Neurosis - Enemy Of The Sun (1993-08-17)
 <li data-cover="http://coverartarchive.org/release/4803c26f-053b-48e3-85c4-9e503b2dd59e/19911251305-500.jpg" data-tags="sludge" role="button">
 Eyehategod - Take As Needed For Pain (1993-09-09)
 </li>
-<li data-cover="https://img.discogs.com/gJvTJ9lre8FmW_6WrG0763d40iE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332666-1210489026.jpeg.jpg" data-tags="grunge" role="button">
+<li data-cover="https://img.discogs.com/PyL0yruRYNuqkpe9YHdsjjod9d8=/fit-in/600x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11515346-1517703332-9906.jpeg.jpg" data-tags="grunge" role="button">
 Melvins - Houdini (1993-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbd192a0-9e0b-497a-93f4-a3ae185857b9/18320649422-500.jpg" data-tags="sludge" role="button">
@@ -57,10 +57,13 @@ Melvins - Stoner Witch (1994-10-28)
 <li data-cover="http://coverartarchive.org/release/af588a1e-1077-431b-98b3-3e7291dac6c5/19675747596-500.jpg" data-tags="sludge" role="button">
 Crowbar - Time Heals Nothing (1995-05-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">
+Down - NOLA (1995-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Alice in Chains (1995-11-07)
 </li>
-<li data-cover="https://img.discogs.com/CbRu4OlLfO4zsZQx8b-g1x2O_jg=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816167-1163471329.jpeg.jpg" data-tags="emo, noise rock, doom metal, doom, sludge metal, get the fuck away from me now" role="button">
+<li data-cover="https://img.discogs.com/kEBlKKGdcszM8rXvWvND4H6S5QE=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-364010-1616344597-5038.jpeg.jpg" data-tags="emo, noise rock, doom metal, doom, sludge metal, get the fuck away from me now" role="button">
 Harvey Milk - Courtesy And Good Will Toward Men (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/72e57b50-67a3-4689-ac55-342e4341f697/19427677722-500.jpg" data-tags="sludge, sludge metal" role="button">
@@ -165,16 +168,13 @@ Cult of Luna - Somewhere Along The Highway (2006-04-24)
 <li data-cover="http://coverartarchive.org/release/8d683762-19ec-4f8f-8714-ab3cabe115fe/7006792441-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Blood Mountain (2006-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d792891-5e0f-4b83-bd4d-79902d314833/1624157817-500.jpg" data-tags="post-rock" role="button">
-Battle of Mice - A Day of Nights (2006-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
 Isis - In the Absence of Truth (2006-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2426b160-cf55-4ac7-b19d-1f8baf81c9af/14873258376-500.jpg" data-tags="sludge metal" role="button">
 Kylesa - Time Will Fuse Its Worth (2006-10-31)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
+<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/248fe464-fbd4-4710-90ef-5d3fefa4b9c8/27407104772-500.jpg" data-tags="doom metal, sludge, sludge metal" role="button">
@@ -204,14 +204,14 @@ Kingdom of Sorrow - Kingdom of Sorrow (2008-02-29)
 <li data-cover="http://coverartarchive.org/release/17888dca-1e01-4f36-b6ed-8ac76a78b8f1/26507081984-500.jpg" data-tags="stoner rock, stoner metal" role="button">
 Torche - Meanderthal (2008-04-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/ea7d06da-8245-4edc-8e61-9b84f97ab1d1/4860339604-500.jpg" data-tags="hardcore, hardcore punk, sludge metal" role="button">
+Cancer Bats - Hail Destroyer (2008-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/7aee5913-07fe-42dd-bd31-e9170fe6b631/20484635852-500.jpg" data-tags="post-metal, sludge, post-hardcore" role="button">
 Amenra - Mass IIII (2008-05-17)
 </li>
 <li data-cover="https://img.discogs.com/m3BJ7oHiD5cjLuZ_bdXPk56bJig=/fit-in/164x164/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1395980-1216066902.jpeg.jpg" data-tags="sludge metal, doom metal" role="button">
 A Storm of Light - And We Wept the Black Ocean Within (2008-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/7db4428f-f950-496a-a2c8-5773f0b42529/2311245727-500.jpg" data-tags="sludge, post-metal" role="button">
-Cult of Luna - Eternal Kingdom (2008-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b3593a4-953b-4d47-bd46-a366b8e2420e/8986894376-500.jpg" data-tags="grunge, stoner rock, sludge metal" role="button">
 Melvins - Nude With Boots (2008-07-08)
