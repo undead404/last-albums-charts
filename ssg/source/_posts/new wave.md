@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:56:01.237Z
+date: 2021-04-04T09:54:01.489Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -102,17 +102,11 @@ Blondie - The Best of Blondie (1981-10-31)
 <li data-cover="https://img.discogs.com/_W4tJSA3wZL_2eKIS2PwpID40ZE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605541-1438207160-6998.jpeg.jpg" data-tags="80s, new wave, synthpop" role="button">
 Soft Cell - Non-Stop Erotic Cabaret (1981-11-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
-A Flock of Seagulls - A Flock Of Seagulls (1982)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
 Eurythmics - Sweet Dreams (Are Made Of This) (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
-The Cure - Pornography (1982-05-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, 80s, new wave" role="button">
 Billy Idol - Billy Idol (1982-07-16)
@@ -210,6 +204,9 @@ The Smiths - Strangeways, Here We Come (1987-09-22)
 <li data-cover="http://coverartarchive.org/release/4577ed01-57ad-3826-800b-e0c4d4998611/9417546640-500.jpg" data-tags="synthpop, 80s, new wave, electronic" role="button">
 Depeche Mode - Music for the Masses (1987-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
+The Psychedelic Furs - All Of this And Nothing (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/baab3587-e387-32f0-b68e-6af5d73347e2/15851774994-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Substance (1988-06)
 </li>
@@ -251,6 +248,9 @@ New Order - Get Ready (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">
 The Cure - Greatest Hits (2001-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/f93f57ee-1901-4875-ab28-d764eed791a9/5375570311-500.jpg" data-tags="rock, new wave, 80s" role="button">
+Talking Heads - The Best of Talking Heads (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d502300a-494d-42f0-a63c-b66581116f87/7526465944-500.jpg" data-tags="electronic, synthpop" role="button">
 Depeche Mode - Playing the Angel (2005-10-11)
