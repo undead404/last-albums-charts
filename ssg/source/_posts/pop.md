@@ -1,15 +1,15 @@
 ---
-date: 2021-04-04T01:05:01.409Z
+date: 2021-04-04T04:40:01.329Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">Beyoncé - Dangerously in Love (2003-03-10)</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">Mika - Life in Cartoon Motion (2007-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">Katy Perry - One of the Boys (2008-06-17)</li>
+<li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">Lady Gaga - The Fame (2008-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">Lady Gaga - The Fame Monster (2008-08-19)</li>
+<li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">Beyoncé - I Am... Sasha Fierce (2008-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/86da059c-2af3-43f4-897e-d3f7fa3f5a75/2333307730-500.jpg" data-tags="pop" role="button">Adam Lambert - For Your Entertainment (2009-11-20)</li>
-<li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">Rihanna - Loud (2010-08-18)</li>
 <li data-cover="http://coverartarchive.org/release/d610e36f-aae9-4703-9a9b-355c9e8de6c7/3403639089-500.jpg" data-tags="pop" role="button">Katy Perry - Teenage Dream (2010-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
@@ -39,20 +39,11 @@ Madonna - Erotica (1992-10-19)
 <li data-cover="http://coverartarchive.org/release/b81d76f6-911e-4278-b8d9-cbac4ab3404b/17512583264-500.jpg" data-tags="pop" role="button">
 Spice Girls - Spice (1996-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/13e46e8d-b4c4-4669-b76c-3cc461569e56/25963924896-500.jpg" data-tags="pop" role="button">
-Natalie Imbruglia - Left of the Middle (1997-11-24)
-</li>
 <li data-cover="https://img.discogs.com/OXVoM079mLpPeVMRCoTnxFAAlcU=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13663808-1558546223-9704.jpeg.jpg" data-tags="pop, electronic" role="button">
 Madonna - Ray of Light (1998-04-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e99eb7b-0083-4053-81ab-b9ee0207bf1c/4358331297-500.jpg" data-tags="pop" role="button">
-Backstreet Boys - Millennium (1999-04-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">
 Dido - No Angel (1999-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
-Christina Aguilera - Christina Aguilera (1999-08-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Destiny's Child - Survivor (2001-04-25)
@@ -81,9 +72,6 @@ Dido - Life for Rent (2003-09-26)
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/724049b1-c305-4968-9faf-3aae776183b1/2894378472-500.jpg" data-tags="pop, michael jackson" role="button">
-Michael Jackson - Number Ones (2003-11-17)
-</li>
 <li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">
 Scissor Sisters - Scissor Sisters (2004-02-02)
 </li>
@@ -104,12 +92,6 @@ Britney Spears - Greatest Hits: My Prerogative (2004-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
-KT Tunstall - Eye to the Telescope (2004-12-13)
-</li>
-<li data-cover="https://img.discogs.com/c7A30504kBHJSS6ryAX93omeUGk=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12828091-1542731827-4457.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
-Mariah Carey - The Emancipation of Mimi (2005-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
@@ -153,6 +135,9 @@ Feist - The Reminder (2007-04-23)
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/1de12505-ac7b-49ab-a0ab-2aa189f0bf99/14541670596-500.jpg" data-tags="pop" role="button">
+Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
 </li>
@@ -171,6 +156,9 @@ Adele - 19 (2008-01-27)
 <li data-cover="http://coverartarchive.org/release/99eee7d3-a75a-41bd-826f-19a44c53e594/6085827998-500.jpg" data-tags="soul, female vocalists" role="button">
 Duffy - Rockferry (2008-03-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/4e36207e-afe8-4f0b-86fe-11df04332743/9668913960-500.jpg" data-tags="pop" role="button">
+Madonna - Hard Candy (2008-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
@@ -180,8 +168,23 @@ Coldplay - Viva la Vida (2008-06-11)
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
 Katy Perry - One of the Boys (2008-06-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
+Lady Gaga - The Fame (2008-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
+</li>
+<li data-cover="https://img.discogs.com/fo9GmT3m-1_8abG4fWGj-aNqCgM=/fit-in/600x328/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11798813-1522584823-5407.jpeg.jpg" data-tags="country" role="button">
+Taylor Swift - Fearless (2008-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
+Beyoncé - I Am... Sasha Fierce (2008-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
+Kanye West - 808s & Heartbreak (2008-11-21)
+</li>
+<li data-cover="https://img.discogs.com/D1oTozoiYJ-EzZHW9qE1m-usLac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9365377-1479312196-3021.jpeg.jpg" data-tags="pop" role="button">
+Britney Spears - Circus (2008-11-28)
 </li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
@@ -192,7 +195,7 @@ Keri Hilson - In a Perfect World... (2009-01-01)
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
-<li data-cover="https://img.discogs.com/lN8Lb_czsjDIyono8baGlUiHhHY=/fit-in/599x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215174-1278679597.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
+<li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d852f54a-eda3-4607-807d-545e697bc879/10008805165-500.jpg" data-tags="pop, rnb, battlefield" role="button">
@@ -206,6 +209,9 @@ Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+P!nk - Funhouse (2009-08)
 </li>
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="tik tok, pop" role="button">
 Ke$ha - TiK ToK (2009-08-07)
@@ -248,9 +254,6 @@ Rihanna - Loud (2010-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d610e36f-aae9-4703-9a9b-355c9e8de6c7/3403639089-500.jpg" data-tags="pop" role="button">
 Katy Perry - Teenage Dream (2010-08-24)
-</li>
-<li data-cover="https://img.discogs.com/nirjoWfz4KbosdItc1grFg8cnc8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3098999-1504632132-4849.jpeg.jpg" data-tags="pop, maroon 5" role="button">
-Maroon 5 - Hands All Over (2010-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
@@ -297,20 +300,17 @@ Flo Rida - Wild Ones (2012-06-22)
 <li data-cover="http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-500.jpg" data-tags="2012, pop, country" role="button">
 Taylor Swift - Red (2012-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="2012" role="button">
-Bruno Mars - Unorthodox Jukebox (2012-12-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
 Bastille - Bad Blood (2013-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="pop" role="button">
+Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/614c4513-4ac2-4bff-be50-1a35b57ac4c6/8034705450-500.jpg" data-tags="pop, shitty music, modinha, farofa, meghan trainor, chujowa muzyka" role="button">
-Meghan Trainor - All About That Bass (2014-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

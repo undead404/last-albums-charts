@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:38:01.453Z
+date: 2021-04-04T04:37:01.290Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -54,17 +54,11 @@ Broken Social Scene - You Forgot It In People (2002-10-15)
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
-Kings of Leon - Youth & Young Manhood (2003-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/054cda68-baca-455e-9fdb-8c9663be2280/21752177114-500.jpg" data-tags="indie, alternative, indie rock, rock" role="button">
 Snow Patrol - Final Straw (2003-08-04)
 </li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
 Death Cab for Cutie - Transatlanticism (2003-09-01)
-</li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Room on Fire (2003-10-16)
@@ -207,6 +201,9 @@ The Kooks - Konk (2008-04-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 The Last Shadow Puppets - The Age of the Understatement (2008-04-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
+Death Cab for Cutie - Narrow Stairs (2008-04-29)
+</li>
 <li data-cover="https://img.discogs.com/SyB2V5tRP58VnZy7Jv88JpwbCpQ=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677269-1583376530-7454.jpeg.jpg" data-tags="indie rock" role="button">
 Cage the Elephant - Cage the Elephant (2008-06-23)
 </li>
@@ -215,6 +212,9 @@ Bloc Party - Intimacy (2008-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b459cd86-0392-4166-a5d6-0dfa505976df/2584590181-500.jpg" data-tags="indie, indie rock, rock" role="button">
+The Killers - Day & Age (2008-11-18)
 </li>
 <li data-cover="https://img.discogs.com/7ymhqa2eFVP5TMYG5e5p3S1LUmM=/fit-in/526x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574748-1229522744.jpeg.jpg" data-tags="indie rock" role="button">
 White Lies - To Lose My Life (2009-01-11)
@@ -267,9 +267,6 @@ Band of Horses - Infinite Arms (2010-05-17)
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/26fbc081-fd04-3fd4-89c0-17ef5920fe09/21279734680-500.jpg" data-tags="indie rock, post-punk" role="button">
-Interpol - Interpol (2010-09-07)
-</li>
 <li data-cover="https://img.discogs.com/tUf_katyLSzcD1NIIDFMLYvVYf4=/fit-in/368x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816946-1337370194-6038.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
@@ -296,6 +293,9 @@ Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)

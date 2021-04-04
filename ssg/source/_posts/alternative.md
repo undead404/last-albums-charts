@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:42:01.291Z
+date: 2021-04-04T04:21:01.596Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -42,7 +42,7 @@ The Smashing Pumpkins - Siamese Dream (1993-07-26)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 1994, 90s" role="button">
+<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
@@ -80,9 +80,6 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/0caa32f8-85be-339f-ade9-d2ce32a6a1f7/5995318726-500.jpg" data-tags="90s, rock, alternative" role="button">
-Garbage - Version 2.0 (1998-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Without You I'm Nothing (1998-10-12)
@@ -234,9 +231,6 @@ Kasabian - Empire (2006-08-25)
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
-Fall Out Boy - Infinity on High (2007-02-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
 </li>
@@ -258,11 +252,14 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg" data-tags="indie, electronic" role="button">
+MGMT - Oracular Spectacular (2007-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/90efb495-16f8-4b8d-acc0-ee90c5d17784/6204027712-500.jpg" data-tags="alternative" role="button">
-Panic! at the Disco - Pretty. Odd. (2008-03-22)
+<li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
+Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
@@ -311,6 +308,9 @@ Florence + the Machine - Ceremonials (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="2012" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)

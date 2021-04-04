@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:31:01.215Z
+date: 2021-04-04T03:48:01.307Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -69,13 +69,13 @@ Air - Moon Safari (1998-01-16)
 <li data-cover="http://coverartarchive.org/release/2d7c82e6-c3bb-38a9-96f0-5626158e3276/6598464730-500.jpg" data-tags="french, rock, breton" role="button">
 Matmatah - La Ouache (1998-06-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french, pop" role="button">
+<li data-cover="https://img.discogs.com/nfpVLFLWCYukAEornjgubaLN84U=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418372-1359143251-5541.jpeg.jpg" data-tags="french, pop" role="button">
 Mylène Farmer - Innamoramento (1999-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
 Mr. Oizo - Analog Worms Attack (1999-10-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french, rock" role="button">
+<li data-cover="https://img.discogs.com/lpvWi9yGP9GViwHwX9DAAKZdiqc=/fit-in/407x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11035274-1508659217-5430.jpeg.jpg" data-tags="french, rock" role="button">
 Saez - Jours Etranges (1999-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d2768e-66ad-42a7-8bc4-f6fbfccfa81c/1230967625-500.jpg" data-tags="french, pop, french pop" role="button">
@@ -153,7 +153,7 @@ Phoenix - Alphabetical (2004-03-21)
 <li data-cover="http://coverartarchive.org/release/8ae59a90-6a70-3305-a527-6b8bfb1c39bd/8464425666-500.jpg" data-tags="french" role="button">
 Jane Birkin - RENDEZ-VOUS (2004-03-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french, rock, rock francais" role="button">
+<li data-cover="https://img.discogs.com/RW0QIUVFNHexMJIdXH0bli_becI=/fit-in/166x166/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1842257-1384389996-8644.jpeg.jpg" data-tags="french, rock, rock francais" role="button">
 Luke - La Tête en Arrière (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/df3fac3a-e4fc-4d8c-954c-47e72ebd8db3/9951733908-500.jpg" data-tags="french, female vocalists, female vocalist, girl power, pifou station, rock francais, light pop, lolitas, chanteuse sexy, scene francaise" role="button">
@@ -204,7 +204,7 @@ Darkel - Darkel (2006-09-19)
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
 Air - Pocket Symphony (2006-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="french" role="button">
+<li data-cover="https://img.discogs.com/BZV_v9Hb1f5_kQqNB3dw3JZxneo=/fit-in/591x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1197340-1244985314.jpeg.jpg" data-tags="french" role="button">
 Zazie - Totem (2007-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/15fc4503-bac1-4209-8082-2cee83b4a67c/28922662006-500.jpg" data-tags="electro, french" role="button">
@@ -228,6 +228,9 @@ Alizée - Psychédélices (2007-11-26)
 <li data-cover="http://coverartarchive.org/release/4bb86f81-b5ba-471f-927e-1d7c81bcd4cb/2903088736-500.jpg" data-tags="indie, folk" role="button">
 The Dø - A Mouthful (2008-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/e03c4b7c-8905-3a0f-88a0-39d3790d99ab/24223406985-500.jpg" data-tags="french" role="button">
+Sébastien Tellier - Sexuality (2008-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/66db2af0-7d53-4ca4-80af-2ed8b115cd61/1269482564-500.jpg" data-tags="french" role="button">
 Alain Bashung - Bleu Pétrole (2008-03-24)
 </li>
@@ -239,9 +242,6 @@ M83 - Saturdays = Youth (2008-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/2643bef6-4d60-4d2f-89a9-ffe6c7bab7a1/2431344077-500.jpg" data-tags="electronic" role="button">
-Yuksek - Away From The Sea (2009-01-26)
 </li>
 <li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)

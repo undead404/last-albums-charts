@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T23:18:01.253Z
+date: 2021-04-04T04:38:01.242Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -13,7 +13,7 @@ title: "punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">Fall Out Boy - From Under the Cork Tree (2005-05-03)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Appeal to Reason (2008-10-02)</li>
+<li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Appeal to Reason (2008-10-02)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -57,10 +57,10 @@ The Clash - London Calling (1979-12-14)
 <li data-cover="http://coverartarchive.org/release/33d6956e-3fb0-3a6b-8a47-cc2f3be2b183/20681910422-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk, hardcore" role="button">
+<li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">
+<li data-cover="https://img.discogs.com/M5GJ_Sv0wxntVfNDwBDmgfaIQxg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13042608-1566037783-8859.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
@@ -111,16 +111,13 @@ Placebo - Placebo (1996-06-12)
 <li data-cover="http://coverartarchive.org/release/1f0a1564-a748-302f-abc3-0a0b3f934a50/2349398736-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ixnay on the Hombre (1997-02-05)
 </li>
-<li data-cover="https://img.discogs.com/LgrHGV2iDjq0B9WwfTfiEskz8qI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2110951-1264605223.jpeg.jpg" data-tags="punk, horror punk" role="button">
+<li data-cover="https://img.discogs.com/vsTc1IwO1adM-ZsrfEogO76WWJs=/fit-in/588x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4261146-1360016088-9887.jpeg.jpg" data-tags="punk, horror punk" role="button">
 Misfits - Static Age (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
-Dropkick Murphys - Do or Die (1998-01-13)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="https://img.discogs.com/Ed6zur6V7QL3cQwSuhTSu7dIbiY=/fit-in/189x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596818-1448916413-5494.jpeg.jpg" data-tags="punk rock" role="button">
@@ -144,7 +141,7 @@ AFI - The Art of Drowning (2000-09-25)
 <li data-cover="https://img.discogs.com/LVxcuYsqdyqSVLvYpfkRq5cg1dQ=/fit-in/552x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-373635-1420148961-7286.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Conspiracy of One (2000-11-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore, punk" role="button">
+<li data-cover="https://img.discogs.com/v_WfhAU5pMNSSipcIC_cP8m8yho=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472525-1255362291.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
@@ -294,6 +291,9 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
+Simple Plan - Simple Plan (2008-02-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
 The Offspring - Rise and Fall, Rage and Grace (2008-06-11)
 </li>
@@ -303,7 +303,7 @@ Cage the Elephant - Cage the Elephant (2008-06-23)
 <li data-cover="http://coverartarchive.org/release/fdf6b106-a8d3-4cd0-80b7-98cdc786e0ee/3366899189-500.jpg" data-tags="punk rock" role="button">
 The Gaslight Anthem - The '59 Sound (2008-08-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore" role="button">
+<li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">

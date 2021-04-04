@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:41:01.276Z
+date: 2021-04-04T04:25:01.253Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -38,9 +38,6 @@ The Smashing Pumpkins - Siamese Dream (1993-07-26)
 </li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/6042a959-0a7e-3a7c-9339-58d4ab425f1f/4773551370-500.jpg" data-tags="rock, grunge, alternative rock" role="button">
-Foo Fighters - Foo Fighters (1995-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
@@ -111,9 +108,6 @@ The White Stripes - White Blood Cells (2001-07-03)
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">
-System of a Down - Toxicity (2001-08-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
 Coldplay - A Rush of Blood to the Head (2002-08-12)
 </li>
@@ -177,7 +171,7 @@ Green Day - American Idiot (2004-09-20)
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
@@ -236,6 +230,12 @@ Radiohead - In Rainbows (2007-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/04e20dc5-cd0c-4315-9994-33d9856de5c6/14073861785-500.jpg" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+The Raconteurs - Consolers of the Lonely (2008-03-24)
+</li>
+<li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
+Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
@@ -300,9 +300,6 @@ Panic! at the Disco - Vices & Virtues (2011-03-18)
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg" data-tags="funk rock, alternative rock, rock" role="button">
-Red Hot Chili Peppers - I'm With You (2011-08-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
 </li>
@@ -311,6 +308,9 @@ The Black Keys - Lonely Boy (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">
 Linkin Park - Living Things (2012-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)

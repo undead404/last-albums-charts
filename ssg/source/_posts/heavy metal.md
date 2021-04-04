@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:37:01.259Z
+date: 2021-04-04T04:34:01.272Z
 title: "heavy metal: 100 albums you must listen to before you die"
 ---
 ![Metallica - Metallica (1991-08-12)](http://coverartarchive.org/release/6e729716-c0eb-3f50-a740-96ac173be50d/15178306391-500.jpg "Metallica - Metallica (1991-08-12)")
@@ -315,7 +315,7 @@ Ghost - Infestissumam (2013-04-10)
 <li data-cover="http://coverartarchive.org/release/7dbf4b1f-d3e9-47bc-9194-d15b31017bd6/11869295444-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - 13 (2013-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/91d39e40-b2ad-4b23-9c21-30e59e1db946/6669636332-500.jpg" data-tags="heavy metal, 2013" role="button">
+<li data-cover="http://coverartarchive.org/release/91d39e40-b2ad-4b23-9c21-30e59e1db946/6669636332-500.jpg" data-tags="heavy metal" role="button">
 Avenged Sevenfold - Hail To The King (2013-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f66b0034-2511-4d5f-b0a7-345e330604d3/8142145163-500.jpg" data-tags="heavy metal, alternative metal, nu metal" role="button">

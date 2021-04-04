@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:04:01.271Z
+date: 2021-04-04T04:31:01.242Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -75,7 +75,7 @@ Faithless - Sunday 8PM (1998-09-21)
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
 </li>
-<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
+<li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
@@ -135,7 +135,7 @@ Four Tet - Rounds (2003-05-05)
 <li data-cover="http://coverartarchive.org/release/4da446f6-d2c4-3c1d-bbd5-2827edd023a2/11858141676-500.jpg" data-tags="electronic, ambient" role="button">
 Ulrich Schnauss - A Strangely Isolated Place (2003-06-09)
 </li>
-<li data-cover="https://img.discogs.com/plM0Re1HSNUkgca4IEeaA2_FXq8=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14474744-1575266046-8538.jpeg.jpg" data-tags="house, electronic" role="button">
+<li data-cover="https://img.discogs.com/I4FDLmN9PP2yZSrCL_aS2zXuPyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038509-1312922792.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">
@@ -213,11 +213,17 @@ The Veronicas - Hook Me Up (2007-09-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg" data-tags="drum and bass" role="button">
+Pendulum - In Silico (2008-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c3837a1-6252-4774-9102-998cd68d8532/3230521809-500.jpg" data-tags="electronic, electronica" role="button">
 The Chemical Brothers - Brotherhood (2008-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
+Chairlift - Does You Inspire You (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
@@ -291,17 +297,11 @@ Washed Out - Within and Without (2011-07-06)
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
-Justice - Audio, Video, Disco (2011-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/3747ee08-0566-448b-99d6-8fba88136a3e/5129551162-500.jpg" data-tags="electronic, electronica, indie, alternative, synthpop, alternative dance, everything, dark pop, coramao, bete gouveia" role="button">
 M.I.A. - Bad Girls (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/f71c093a-2791-455a-b30f-c9ce8b0701b6/9559450051-500.jpg" data-tags="2012, downtempo" role="button">
-XXYYXX - XXYYXX (2012-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)

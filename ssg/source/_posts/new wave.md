@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:26:01.230Z
+date: 2021-04-04T04:11:01.276Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -267,6 +267,9 @@ The Veronicas - Hook Me Up (2007-09-22)
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electropop" role="button">
+Ladyhawke - Ladyhawke (2008-09-15)
+</li>
 <li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 </li>
@@ -317,8 +320,5 @@ The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">
 Future Islands - Singles (2014-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
-Charli XCX - Sucker (2014-12-15)
 </li>
 </ol>

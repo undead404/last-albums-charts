@@ -1,16 +1,16 @@
 ---
-date: 2021-04-03T23:58:01.502Z
+date: 2021-04-04T04:22:01.218Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/33d6956e-3fb0-3a6b-8a47-cc2f3be2b183/20681910422-500.jpg" data-tags="punk" role="button">Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk, hardcore" role="button">Black Flag - Damaged (1981)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">Bad Brains - Bad Brains (1982)</li>
+<li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">Black Flag - Damaged (1981)</li>
+<li data-cover="https://img.discogs.com/M5GJ_Sv0wxntVfNDwBDmgfaIQxg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13042608-1566037783-8859.jpeg.jpg" data-tags="hardcore punk, punk" role="button">Bad Brains - Bad Brains (1982)</li>
 <li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="punk rock, hardcore punk, punk" role="button">Descendents - Milo Goes to College (1982-11-15)</li>
-<li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">Suicidal Tendencies - Suicidal Tendencies (1983-07-05)</li>
-<li data-cover="https://img.discogs.com/2aZjmaLdmcbq6nb2vawvtIr3LVI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5607482-1398788930-4308.jpeg.jpg" data-tags="hardcore punk, punk" role="button">Hüsker Dü - Zen Arcade (1984-07)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore, punk" role="button">Rise Against - The Unraveling (2001-04-24)</li>
+<li data-cover="http://coverartarchive.org/release/c04c7090-1bea-4852-a4c3-6d54065117d2/21545300582-500.jpg" data-tags="hardcore punk, punk, sludge" role="button">Black Flag - My War (1984-03)</li>
+<li data-cover="https://img.discogs.com/YsCZqJlVIiU2wcg1RufPyZyjKeE=/fit-in/340x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885936-1533861683-6427.png.jpg" data-tags="hardcore punk, punk" role="button">Hüsker Dü - Zen Arcade (1984-07)</li>
+<li data-cover="https://img.discogs.com/v_WfhAU5pMNSSipcIC_cP8m8yho=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472525-1255362291.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">Rise Against - The Unraveling (2001-04-24)</li>
 <li data-cover="https://img.discogs.com/54PHju_pBRbaDAAbP344C-jYO0Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383394-1108500259.jpg.jpg" data-tags="punk, punk rock, melodic hardcore" role="button">Rise Against - Revolutions Per Minute (2003-04-08)</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - Siren Song of the Counter Culture (2004-08-10)</li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">Rise Against - The Sufferer & the Witness (2006-07-03)</li>
@@ -30,20 +30,17 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 <li data-cover="http://coverartarchive.org/release/14b01a6f-18b4-40bf-b6a8-fed0b0834d0f/12578002659-500.jpg" data-tags="hardcore punk" role="button">
 Circle Jerks - Group Sex (1980-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk, hardcore" role="button">
+<li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, punk" role="button">
+<li data-cover="https://img.discogs.com/M5GJ_Sv0wxntVfNDwBDmgfaIQxg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13042608-1566037783-8859.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/yYJJ0GIh3NeY_oG1uK2C0p0aCp0=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952788-1350332620-8007.jpeg.jpg" data-tags="hardcore punk" role="button">
 GBH - City Baby Attacked by Rats (1982)
 </li>
-<li data-cover="https://img.discogs.com/BOD_7MHdZq10wYkeroes-MosIOo=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501002-1395184423-5314.jpeg.jpg" data-tags="punk, hardcore punk, hardcore, punk rock" role="button">
+<li data-cover="https://img.discogs.com/yBL8nuIw24ACh2MjsS48lZiJr70=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7124380-1452096358-7122.jpeg.jpg" data-tags="punk, hardcore punk, hardcore, punk rock" role="button">
 Black Flag - Everything Went Black (1982)
-</li>
-<li data-cover="https://img.discogs.com/zpeDFYy1IRRlINFn7hUN3ystYlY=/fit-in/573x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067536-1388871897-2487.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
-Circle Jerks - Wild in the Streets (1982)
 </li>
 <li data-cover="https://img.discogs.com/-9aur-FUw_JFzoUGGbCEAIeyroA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2994488-1320802130.jpeg.jpg" data-tags="hardcore punk" role="button">
 Bad Religion - How Could Hell Be Any Worse? (1982-01-12)
@@ -51,7 +48,7 @@ Bad Religion - How Could Hell Be Any Worse? (1982-01-12)
 <li data-cover="http://coverartarchive.org/release/d19f002c-2a67-46dc-ae48-60a1a624588a/4024514590-500.jpg" data-tags="horror punk, punk" role="button">
 Misfits - Walk Among Us (1982-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk, d-beat" role="button">
+<li data-cover="https://img.discogs.com/UG3Ze12CyT3431iNNxchOzQ6_jw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680738-1559402367-6694.jpeg.jpg" data-tags="hardcore punk, d-beat" role="button">
 Discharge - Hear Nothing See Nothing Say Nothing (1982-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3df6dce7-24c0-4d27-831d-8e0ab75e0e51/10891407209-500.jpg" data-tags="punk rock, hardcore punk" role="button">
@@ -72,19 +69,22 @@ Social Distortion - Mommy's Little Monster (1983-02-01)
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
 </li>
-<li data-cover="https://img.discogs.com/2aZjmaLdmcbq6nb2vawvtIr3LVI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5607482-1398788930-4308.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
+<li data-cover="http://coverartarchive.org/release/17100e50-ad87-4b4f-a919-010ed8fd98a8/2990767544-500.jpg" data-tags="hardcore punk" role="button">
+7Seconds - The Crew (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/c04c7090-1bea-4852-a4c3-6d54065117d2/21545300582-500.jpg" data-tags="hardcore punk, punk, sludge" role="button">
+Black Flag - My War (1984-03)
+</li>
+<li data-cover="https://img.discogs.com/YsCZqJlVIiU2wcg1RufPyZyjKeE=/fit-in/340x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885936-1533861683-6427.png.jpg" data-tags="hardcore punk, punk" role="button">
 Hüsker Dü - Zen Arcade (1984-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6b9cba2-c995-43ee-b980-371a7fe91f6f/25950572163-500.jpg" data-tags="hardcore punk, punk" role="button">
 Black Flag - Slip It In (1984-12)
 </li>
-<li data-cover="https://img.discogs.com/VwZW67FgLtliPR46rrIrOmJBOCE=/fit-in/197x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2917609-1307216127.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/8NJfXQWD7yZcBwRFqQRTnhem1oA=/fit-in/303x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-444637-1114335182.jpg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/bcbce6d9-6ec0-34c2-bf1f-503078ee2b1b/3253218339-500.jpg" data-tags="classic, 80s, punk, alternative, straight edge, punk rock, hardcore punk, yellow, total shit, non-visual, fun to skateboard to, i love singing along, 7seconds, ear, finely tailored, deek, planet kolob, grumpy still skin, muhammad had a penis, expected, deek deek, deek deek deek, mime of charisma, excreted from a bloody rectum" role="button">
-7Seconds - Walk Together, Rock Together (1985)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk, alternative rock, sst" role="button">
+<li data-cover="https://img.discogs.com/gtuAnw1wTBVau3JJmhyJh0sQLfg=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306971-1436375396-6823.jpeg.jpg" data-tags="punk, alternative rock, sst" role="button">
 Hüsker Dü - New Day Rising (1985-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcd918ec-55aa-4c63-bc3d-49f54c50134b/15174660043-500.jpg" data-tags="hardcore punk, sst" role="button">
@@ -102,7 +102,7 @@ Bad Brains - I Against I (1986)
 <li data-cover="http://coverartarchive.org/release/85e7aa0d-b11b-41fc-b757-d8afc8eb2a13/28861968924-500.jpg" data-tags="hardcore punk, melodic hardcore" role="button">
 Dag Nasty - Can I Say (1986-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
+<li data-cover="https://img.discogs.com/DWDDxYRoH5-1_AQ9NrCYFiaK7pc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667536-1471605208-1041.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
@@ -111,16 +111,16 @@ Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
 <li data-cover="http://coverartarchive.org/release/439148c3-0e6a-3f3d-81f3-fea3d09e5280/27077757196-500.jpg" data-tags="punk, crossover, hardcore punk, crossover thrash, hardcore, thrash metal" role="button">
 Suicidal Tendencies - Join The Army (1987-06-21)
 </li>
-<li data-cover="https://img.discogs.com/R5_nLKDn0WAeQ9Mgm-cw3e5i0II=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8521275-1463390732-8360.jpeg.jpg" data-tags="hardcore punk" role="button">
+<li data-cover="http://coverartarchive.org/release/90c6098d-7ce4-4a4a-b7b3-7a04d790b940/17273604846-500.jpg" data-tags="hardcore punk, straight edge" role="button">
+Gorilla Biscuits - Gorilla Biscuits (1988)
+</li>
+<li data-cover="https://img.discogs.com/iSwnYWbmktGzda4SurxUhoj9xPk=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7727951-1574738993-7778.jpeg.jpg" data-tags="hardcore punk" role="button">
 NOFX - Liberal Animation (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/2af14d71-4333-494a-a981-7701897e3f1c/3035143260-500.jpg" data-tags="punk rock, punk" role="button">
 The Offspring - The Offspring (1989-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
-Operation Ivy - Energy (1989-03-15)
-</li>
-<li data-cover="https://img.discogs.com/m8gMkP7Mn1jSXfEwT_KIW6ZwFqI=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1230764-1432802058-7063.jpeg.jpg" data-tags="punk rock, hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="punk rock, hardcore punk" role="button">
 NOFX - S&M Airlines (1989-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/df11248d-6a31-3a7d-a7a8-d384e6b3765c/17273598522-500.jpg" data-tags="hardcore, hardcore punk" role="button">
@@ -147,10 +147,10 @@ Reagan Youth - A Collection of Pop Classics (1994-07-22)
 <li data-cover="http://coverartarchive.org/release/e4e6f2b7-f503-4318-b2c1-70e9912d8e9d/5174404780-500.jpg" data-tags="punk, hardcore punk" role="button">
 AFI - Answer That and Stay Fashionable (1995-08-01)
 </li>
-<li data-cover="https://img.discogs.com/ITlvU9cXG5rXlmJltmevhiqKC4c=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15951960-1600800886-8199.jpeg.jpg" data-tags="punk, punk rock" role="button">
+<li data-cover="https://img.discogs.com/ysGX3tH4ubtm7Epy3LIFbGWBuXs=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215636-1270330574.jpeg.jpg" data-tags="punk, punk rock" role="button">
 Raimundos - Lavô Tá Novo (1995-11-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
+<li data-cover="https://img.discogs.com/ajbCmuEl-RNQomqJqx5nS1Z-Vnc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383630-1517771579-7197.jpeg.jpg" data-tags="hardcore" role="button">
 Refused - Songs to Fan the Flames of Discontent (1996)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock, punk, skate punk" role="button">
@@ -159,7 +159,7 @@ NOFX - Heavy Petting Zoo (1996-01-31)
 <li data-cover="https://img.discogs.com/dp14AGI9cDRKkyImm6-hNb2q6_s=/fit-in/425x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797804-1159826226.jpeg.jpg" data-tags="hardcore punk, punk, crossover, crossover thrash, punk rock" role="button">
 The Exploited - Beat the Bastards (1996-04-23)
 </li>
-<li data-cover="https://img.discogs.com/Zlt92VhtEVP9X3Yj4PDR9KWBLPQ=/fit-in/507x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4532805-1378340238-7729.jpeg.jpg" data-tags="thrash metal" role="button">
+<li data-cover="https://img.discogs.com/iXcClxEhvbS_Geid68lhF8j_SI0=/fit-in/320x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3727342-1341947943-5305.jpeg.jpg" data-tags="thrash metal" role="button">
 Slayer - Undisputed Attitude (1996-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/fac70476-1cf4-3ae7-947c-358d1d23affc/10107630201-500.jpg" data-tags="punk" role="button">
@@ -171,7 +171,7 @@ NOFX - So Long and Thanks for All the Shoes (1997-04-11)
 <li data-cover="http://coverartarchive.org/release/d54781c9-bb1b-4413-99c4-9891147bbfcb/21131442401-500.jpg" data-tags="horror punk, punk rock" role="button">
 Misfits - American Psycho (1997-05-13)
 </li>
-<li data-cover="https://img.discogs.com/LgrHGV2iDjq0B9WwfTfiEskz8qI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2110951-1264605223.jpeg.jpg" data-tags="punk, horror punk" role="button">
+<li data-cover="https://img.discogs.com/vsTc1IwO1adM-ZsrfEogO76WWJs=/fit-in/588x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4261146-1360016088-9887.jpeg.jpg" data-tags="punk, horror punk" role="button">
 Misfits - Static Age (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebfb4400-5eb5-490f-ac77-5dd0a7bae786/25627484482-500.jpg" data-tags="post-hardcore, hardcore punk" role="button">
@@ -186,7 +186,7 @@ AFI - Shut Your Mouth and Open Your Eyes (1997-11-11)
 <li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
 Dropkick Murphys - Do or Die (1998-01-13)
 </li>
-<li data-cover="https://img.discogs.com/7ukISExi4nGQqdnwJNiHDdy0PQE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-462425-1321168658.jpeg.jpg" data-tags="hardcore, hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/-fnFFqL9pv_VJLL1Hf0VDh4lkR4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2036844-1311183981.jpeg.jpg" data-tags="hardcore, hardcore punk" role="button">
 Agnostic Front - Something's Gotta Give (1998-07-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">
@@ -213,13 +213,13 @@ AFI - The Art of Drowning (2000-09-25)
 <li data-cover="http://coverartarchive.org/release/b5b41db5-72bc-3140-b571-998b14d0fced/4773453196-500.jpg" data-tags="punk rock, irish, celtic punk, dropkick murphys" role="button">
 Dropkick Murphys - Sing Loud, Sing Proud! (2001-01-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore, punk" role="button">
+<li data-cover="https://img.discogs.com/v_WfhAU5pMNSSipcIC_cP8m8yho=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472525-1255362291.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
 Rise Against - The Unraveling (2001-04-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="crack rock steady, punk, hardcore punk" role="button">
+<li data-cover="http://coverartarchive.org/release/ce3ca604-377b-4a04-8991-22e10f8b65a2/22979586770-500.jpg" data-tags="crack rock steady, punk, hardcore punk" role="button">
 Leftöver Crack - Mediocre Generica (2001-08-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore, mathcore, hardcore" role="button">
+<li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - Jane Doe (2001-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/484a2a59-4b01-444a-b0f6-15d902c4d4fb/9105772933-500.jpg" data-tags="skate punk" role="button">
@@ -227,9 +227,6 @@ Charlie Brown JR. - Bocas Ordinárias (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a79dd65-b83d-4c4c-966f-4d637b699a8d/3376076774-500.jpg" data-tags="hardcore" role="button">
 Comeback Kid - Turn It Around (2003-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/acd98f4b-8ef8-469d-b3bc-848b85007f88/10100191381-500.jpg" data-tags="melodic hardcore, hardcore punk" role="button">
-Rise Against - RPM10 (2003-04-08)
 </li>
 <li data-cover="https://img.discogs.com/54PHju_pBRbaDAAbP344C-jYO0Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383394-1108500259.jpg.jpg" data-tags="punk, punk rock, melodic hardcore" role="button">
 Rise Against - Revolutions Per Minute (2003-04-08)
@@ -240,7 +237,7 @@ NOFX - The War on Errorism (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/3bb80433-5a7e-4293-91a8-091255c5e305/10095596295-500.jpg" data-tags="hardcore punk" role="button">
 Король и Шут - Бунт на корабле (2004)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk, hardcore punk, streetpunk" role="button">
+<li data-cover="https://img.discogs.com/x7R8IqPO7NBA1PNaP6jeo2xQde4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376776-1246549682.jpeg.jpg" data-tags="punk, hardcore punk, streetpunk" role="button">
 The Casualties - On the Front Line (2004-02-17)
 </li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
@@ -252,23 +249,26 @@ Leftöver Crack - Fuck World Trade (2004-08-31)
 <li data-cover="http://coverartarchive.org/release/e3f3dd24-798c-4d2e-8f34-7e97d3ced433/7264557525-500.jpg" data-tags="hardcore, metalcore, mathcore" role="button">
 Converge - You Fail Me (2004-09-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk, street punk, hardcore punk" role="button">
+<li data-cover="http://coverartarchive.org/release/0dc65026-cbb4-4319-b83d-ba812a445e8c/3376078822-500.jpg" data-tags="hardcore" role="button">
+Comeback Kid - Wake The Dead (2005-02-28)
+</li>
+<li data-cover="https://img.discogs.com/slJpt5xpPcn6XgD-TLcUhWieYZg=/fit-in/495x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768340-1300979914.jpeg.jpg" data-tags="punk, street punk, hardcore punk" role="button">
 The Unseen - State of Discontent (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - The Warrior's Code (2005-06-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/EInZAV_W02n2rIqFuuO7DXrcWzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878619-1249674773.jpeg.jpg" data-tags="hardcore punk" role="button">
 Gallows - Orchestra of Wolves (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/4108b6d8-4fa7-40e1-83c4-c49d3c70203d/3267519172-500.jpg" data-tags="punk rock" role="button">
-NOFX - Wolves in Wolves' Clothing (2006-04-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
+<li data-cover="https://img.discogs.com/WeCa26YDRu8sGtgAkJxdw5Uc59Y=/fit-in/295x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305800-1324959925.jpeg.jpg" data-tags="hardcore" role="button">
 Cancer Bats - Birthing The Giant (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - The Sufferer & the Witness (2006-07-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1f8f3fb-a686-4945-9828-4ac22e756bce/3376080622-500.jpg" data-tags="hardcore" role="button">
+Comeback Kid - Broadcasting (2007-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/923a21ad-82b3-30d1-a6a8-77b2dec4e53f/8412859072-500.jpg" data-tags="punk rock, punk" role="button">
 Bad Religion - New Maps of Hell (2007-07-04)
@@ -276,11 +276,11 @@ Bad Religion - New Maps of Hell (2007-07-04)
 <li data-cover="http://coverartarchive.org/release/855ddbf1-f8f8-4801-b3ec-486768aba72f/10496597840-500.jpg" data-tags="rock, alternative rock, punk rock, nu metal, melodic hardcore, skate punk, hardcore punk, rap metal, oi, charlie brown" role="button">
 Charlie Brown JR. - Ritmo, Ritual e Responsa (2007-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/ea7d06da-8245-4edc-8e61-9b84f97ab1d1/4860339604-500.jpg" data-tags="hardcore, hardcore punk, sludge metal" role="button">
+Cancer Bats - Hail Destroyer (2008-04-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/2109dc19-1081-4827-8246-85f81bf833e2/4801823238-500.jpg" data-tags="punk rock" role="button">
-NOFX - Coaster (2009-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/46fff009-54a2-3951-aee0-82950f6a97ce/4781804499-500.jpg" data-tags="hardcore punk" role="button">
 Gallows - Grey Britain (2009-05-04)
@@ -291,11 +291,11 @@ Title Fight - The Last Thing You Forget (2009-07-01)
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/1579fa90-7fc4-4085-a571-3c32ae104334/4861062003-500.jpg" data-tags="hardcore punk" role="button">
-Cancer Bats - Bears, Mayors, Scraps and Bones (2010-04-12)
-</li>
-<li data-cover="https://img.discogs.com/k_VDNMKj2A5XtPY1VezfuGM6Wtw=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3385639-1328372906.jpeg.jpg" data-tags="hardcore, hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/Y6msCguUTjrFw5_FjkwDpLqd6tY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631943-1294161972.jpeg.jpg" data-tags="hardcore, hardcore punk" role="button">
 Sick of It All - Based On A True Story (2010-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/41748701-d7b4-449c-8d82-3cdba4c5325d/4827088619-500.jpg" data-tags="melodic hardcore, hardcore, hardcore punk" role="button">
+More Than Life - Love Let Me Go (2010-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/562510d4-fbba-4b16-a4da-dd13ee124b97/11321555505-500.jpg" data-tags="hardcore punk" role="button">
 Ceremony - Rohnert Park (2010-06-08)
@@ -309,7 +309,10 @@ Your Demise - The Kids We Used To Be... (2010-09-20)
 <li data-cover="http://coverartarchive.org/release/23e86ea3-1442-4e04-aaf2-8ff30e3f8347/4808024093-500.jpg" data-tags="punk rock, cowpunk, alternative rock, hardcore punk" role="button">
 Social Distortion - Hard Times and Nursery Rhymes (2011-01-14)
 </li>
-<li data-cover="https://img.discogs.com/2biqLp7yaK8LXc5GWXhd6NHM1DA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8938479-1543259564-6928.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
+<li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
+Sleigh Bells - Reign of Terror (2012-02-20)
+</li>
+<li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/310d5ce9-d7ed-477f-91d1-925520277f10/8198781351-500.jpg" data-tags="melodic hardcore, hardcore punk, punk rock" role="button">
@@ -317,8 +320,5 @@ Rise Against - Long Forgotten Songs: B-Sides & Covers 2000-2013 (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/13c203d1-c159-4cf1-b841-dbd580afb5d5/7635854563-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
 Rise Against - The Black Market (2014-07-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3238292-0cac-41cc-89dd-5db9952daf52/9439540585-500.jpg" data-tags="metalcore, hardcore, sludge, hardcore punk" role="button">
-Code Orange - I Am King (2014-09-02)
 </li>
 </ol>

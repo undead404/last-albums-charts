@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:58:01.273Z
+date: 2021-04-04T04:36:01.254Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -36,9 +36,6 @@ Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
 Tori Amos - Little Earthquakes (1992-01-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
-4 Non Blondes - Bigger, Better, Faster, More! (1992-10-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
 </li>
@@ -66,9 +63,6 @@ Björk - Post (1995-06-09)
 <li data-cover="https://img.discogs.com/vPogf6imFIvnpC4hJWa1pfk92wI=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15138378-1587179369-9583.jpeg.jpg" data-tags="90s, ska, rock" role="button">
 No Doubt - Tragic Kingdom (1995-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d843d873-faa9-4bbb-a080-df99935d46a6/6010071059-500.jpg" data-tags="female vocalists, indie, alternative" role="button">
-Cat Power - Myra Lee (1996-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
@@ -84,11 +78,8 @@ The Cardigans - Gran Turismo (1998-10-19)
 <li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">
 Dido - No Angel (1999-06-01)
 </li>
-<li data-cover="https://img.discogs.com/ljvDPVmweBOKTbge0p9t-V3mHJw=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6202448-1499001342-5565.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/5hjuHHLZXcacZEtlA42n_6q0VYI=/fit-in/599x459/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021712-1314454961.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
 Whitney Houston - My Love Is Your Love (1999-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
-Christina Aguilera - Christina Aguilera (1999-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
 PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
@@ -126,13 +117,10 @@ Sia - Colour the Small One (2004-01-01)
 <li data-cover="http://coverartarchive.org/release/d443845e-fd6a-43dd-a533-7ac239809cb6/19918684452-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Feels Like Home (2004-02-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
-Avril Lavigne - Under My Skin (2004-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
 Jem - Finally Woken (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/78ybbF4egR3pD1R5j-lun9BrECs=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10252653-1494155770-7959.jpeg.jpg" data-tags="rock, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, indie, 2004" role="button">
@@ -150,19 +138,19 @@ Natasha Bedingfield - Unwritten (2004-09-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/MuFObmq8DCdcU7yNZFIQex0ZWJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6800515-1426896315-6982.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="https://img.discogs.com/2902PK3x3Cof9C89ygQuLVXw4Lc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-870788-1448852393-9906.jpeg.jpg" data-tags="female vocalists" role="button">
 Fiona Apple - Extraordinary Machine (2005-03)
 </li>
-<li data-cover="https://img.discogs.com/c7A30504kBHJSS6ryAX93omeUGk=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12828091-1542731827-4457.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/ZB9c7-tmuK9P6zRfd92W2_UF2k0=/fit-in/600x858/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5419521-1602094564-5998.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
 Mariah Carey - The Emancipation of Mimi (2005-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
@@ -216,6 +204,9 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
 </li>
+<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
+Kate Nash - Made of Bricks (2007-08-06)
+</li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
@@ -243,8 +234,20 @@ Portishead - Third (2008-04-08)
 <li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
 The Ting Tings - We Started Nothing (2008-05-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
+Lady Gaga - The Fame (2008-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd049998-44f1-4ca1-9b38-853b25772a12/10361330463-500.jpg" data-tags="indie, female vocalists" role="button">
+Ingrid Michaelson - Be OK (2008-10-14)
+</li>
+<li data-cover="https://img.discogs.com/fo9GmT3m-1_8abG4fWGj-aNqCgM=/fit-in/600x328/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11798813-1522584823-5407.jpeg.jpg" data-tags="country" role="button">
+Taylor Swift - Fearless (2008-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
+Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
@@ -258,17 +261,17 @@ Florence + the Machine - Lungs (2009-01-01)
 <li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
 Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
-Metric - Fantasies (2009-03-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
-<li data-cover="https://img.discogs.com/lN8Lb_czsjDIyono8baGlUiHhHY=/fit-in/599x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215174-1278679597.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
+<li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+P!nk - Funhouse (2009-08)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
@@ -281,9 +284,6 @@ Shakira - She Wolf (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Rated R (2009-11-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/14d38ffd-a100-4865-998b-2a82e811ab86/3892189369-500.jpg" data-tags="experimental, female vocalists, synthpop" role="button">
-Oh Land - Oh Land (2010)
 </li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)

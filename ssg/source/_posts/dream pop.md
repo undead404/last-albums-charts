@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:10:01.220Z
+date: 2021-04-04T04:00:01.243Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -69,7 +69,7 @@ Slowdive - Pygmalion (1995-02-06)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://img.discogs.com/9IgsCGWFGPLHb-Uws5WMoGTJj-Q=/fit-in/600x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4612080-1500912766-1226.jpeg.jpg" data-tags="indie rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/6EMGtLTuHuJyHBuYpYBr98QxWPw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14309427-1574778319-3513.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
@@ -294,8 +294,8 @@ The xx - Fiction (2013-07-12)
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/c013d7b9-d988-4f3c-a96f-1df74370b541/9650252297-500.jpg" data-tags="electronic, indie, dream pop, folktronica, chillwave, electro-pop, alternative soul, art pop, rel-mnth:2014:may, never forget, owsla" role="button">
-Hundred Waters - The Moon Rang Like a Bell (2014-01-06)
+<li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
+Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)

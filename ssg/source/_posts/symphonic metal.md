@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T22:20:01.223Z
+date: 2021-04-04T04:08:01.214Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -33,7 +33,7 @@ Therion - Theli (1996-08-08)
 <li data-cover="http://coverartarchive.org/release/68a8223b-872d-465d-a86c-9c54f0b9910b/4664662125-500.jpg" data-tags="gothic metal" role="button">
 Within Temptation - Enter (1996-09)
 </li>
-<li data-cover="https://img.discogs.com/m1dwY6LtNOUIrCh9N-Qx946OPhg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5173017-1388431936-8243.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
 Lacrimosa - Stille (1997-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b038ec56-cf0e-48fd-90fd-123144995d17/1290590793-500.jpg" data-tags="power metal, symphonic metal" role="button">
@@ -53,6 +53,9 @@ Rhapsody - Symphony of Enchanted Lands (1998-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Oceanborn (1998-12-07)
+</li>
+<li data-cover="https://img.discogs.com/kghbP0cZiuZgaQ_jVxLPPJPBXSI=/fit-in/478x742/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7173385-1435353547-9883.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
+Lacrimosa - Elodia (1999-08-21)
 </li>
 <li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">
 Sonata Arctica - Ecliptica (1999-08-29)
@@ -147,7 +150,7 @@ Haggard - Eppur Si Muove (2004-04-26)
 <li data-cover="https://img.discogs.com/8Ha4rJOmrNPbxQQ8fxUQi-20L1I=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6228176-1414265293-2835.jpeg.jpg" data-tags="symphonic metal" role="button">
 Therion - Lemuria (2004-05-24)
 </li>
-<li data-cover="https://img.discogs.com/D_Zb3auSUwtmOSBOzEmPpgRKT2U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-914766-1172431343.jpeg.jpg" data-tags="symphonic metal, gothic metal" role="button">
+<li data-cover="http://coverartarchive.org/release/e862e298-ccaf-4575-889a-3198571bb2ed/1048113221-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Lovelorn (2004-05-24)
 </li>
 <li data-cover="https://img.discogs.com/6LUPajHGB58-8BLKNUJE31iNKWQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2973237-1309875480.jpeg.jpg" data-tags="gothic metal, symphonic metal" role="button">
@@ -287,9 +290,6 @@ Tarja - What Lies Beneath (2010-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/83369e76-a177-475e-b193-f42e34026a95/4013802680-500.jpg" data-tags="symphonic black metal" role="button">
 Dimmu Borgir - Abrahadabra (2010-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
-Chelsea Wolfe - The Grime and the Glow (2010-12-28)
 </li>
 <li data-cover="https://img.discogs.com/T0W57vrf7Y9CAVlaN76garpbTNA=/fit-in/350x349/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4951775-1380390621-8347.gif.jpg" data-tags="folk metal, symphonic metal" role="button">
 Turisas - Stand Up and Fight (2011-02-23)

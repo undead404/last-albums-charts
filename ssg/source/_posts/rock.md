@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:44:01.372Z
+date: 2021-04-04T04:27:01.335Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">
-The Velvet Underground - The Velvet Underground & Nico (1967-03)
-</li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
 </li>
@@ -35,9 +32,6 @@ Led Zeppelin - Led Zeppelin IV (1971-11-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
-</li>
-<li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">
-Fleetwood Mac - Rumours (1977-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
@@ -198,7 +192,7 @@ Green Day - American Idiot (2004-09-20)
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
@@ -276,8 +270,14 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
 </li>
+<li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
+Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b459cd86-0392-4166-a5d6-0dfa505976df/2584590181-500.jpg" data-tags="indie, indie rock, rock" role="button">
+The Killers - Day & Age (2008-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
 The Fray - The Fray (2009-01-30)

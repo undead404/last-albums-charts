@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:50:01.200Z
+date: 2021-04-04T04:28:01.239Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -27,6 +27,9 @@ Ornette Coleman - The Shape of Jazz to Come (1959-10)
 <li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">
 Os Mutantes - Os Mutantes (1968-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/7cf90a62-28e1-479e-beea-aec59d72a456/20530359400-500.jpg" data-tags="folk rock, 60s, classic rock" role="button">
+The Band - Music From Big Pink (1968-07-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/f566f8ce-c855-4339-beb6-94cc5ea2c253/20534504487-500.jpg" data-tags="rock, classic, fuzzy guitar goodness, have on vinyl, i love singing along, where is my bong, s faces" role="button">
 Small Faces - The Autumn Stone (1969)
 </li>
@@ -42,6 +45,9 @@ Miles Davis - Bitches Brew (1970)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
 Van Morrison - Moondance (1970-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">
+Lou Reed - Transformer (1972)
+</li>
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
 </li>
@@ -53,9 +59,6 @@ The Clash - London Calling (1979-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
 Tom Waits - Heartattack and Vine (1980-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/6a881cc4-3553-4d01-a4d0-aff431bf05f0/22056730148-500.jpg" data-tags="classical, classic, instrumental, orchestra, avant-garde, female vocalist, favorite, faves, revisit, classical music, landscape, wanttobuy, gammarec, granka, worldmusik, je devrais avoir mon enfer de la caresse, quixotic sounds, freepurp1e, fabulous live act, fabulous orchestra, great cinema, music for the car, ssdsds" role="button">
-Philip Glass - The Photographer (1983)
 </li>
 <li data-cover="https://img.discogs.com/DV6tJesEFqjRBkh-8pwDz9nG1jI=/fit-in/433x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1051734-1217798239.jpeg.jpg" data-tags="classic rock, rock, slgdmbestof" role="button">
 The Who - Who's Greatest Hits (1983-05-08)
@@ -192,9 +195,6 @@ Wilco - Summerteeth (1999-03-09)
 <li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
 The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/df9a8504-38c0-3df8-baf2-653c8037ef08/4782955873-500.jpg" data-tags="industrial" role="button">
-Rob Zombie - American Made Music To Strip By (1999-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c3a5aca-26e7-4ab5-84be-9618750ad687/4046964167-500.jpg" data-tags="slow alternative" role="button">
 Songs: Ohia - The Lioness (2000-01-17)
 </li>
@@ -254,6 +254,9 @@ Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
+Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a63ffa0d-d6f0-4941-9659-8e199ca14a60/4516429761-500.jpg" data-tags="hip-hop" role="button">
 Madvillain - Madvillainy (2004-03-19)
@@ -317,8 +320,5 @@ The Weeknd - Trilogy (2012-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/be504739-1ea3-48a6-b1d1-8f77510e9b40/4310278393-500.jpg" data-tags="classic, alternative rock, britpop, neo-psychedelia" role="button">
 Beady Eye - BE (2013-06-05)
-</li>
-<li data-cover="https://img.discogs.com/eUnbFSYm7rkRLOB_2a_3W100P0o=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5573663-1396929814-5726.jpeg.jpg" data-tags="classic, pop punk, inspirational, favorite, indie punk, vinyls, less than 40 minutes" role="button">
-Fireworks - Oh, Common Life (2014)
 </li>
 </ol>

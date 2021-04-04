@@ -1,18 +1,18 @@
 ---
-date: 2021-04-04T01:06:01.238Z
+date: 2021-04-04T04:41:01.441Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">Nirvana - MTV Unplugged in New York (1994-11-01)</li>
-<li data-cover="https://img.discogs.com/lsz4cKVgVZ2Y5vbRL35Nv2_vGoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9784862-1526804148-7507.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">Kings of Convenience - Quiet Is the New Loud (2001-01-29)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">Jack Johnson - On and On (2003-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">José González - Veneer (2003-10)</li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">José González - In Our Nature (2007-09-21)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">Jack Johnson - Sleep Through The Static (2008-02-01)</li>
+<li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
 </ol>
 List of 100 - under the cut.
@@ -39,7 +39,7 @@ Eric Clapton - Unplugged (1992-08-21)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="https://img.discogs.com/b6ul-IreDGOVEhsw2pxmMQ5esWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1155467-1382981671-1946.jpeg.jpg" data-tags="1994, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/b6ul-IreDGOVEhsw2pxmMQ5esWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1155467-1382981671-1946.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
@@ -90,14 +90,8 @@ Beck - Sea Change (2002-09-21)
 <li data-cover="https://img.discogs.com/WzbJDXRzzzM2cmt_BMVL8XTobkQ=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4105558-1407871165-2815.jpeg.jpg" data-tags="chill, acoustic, david gray" role="button">
 David Gray - A New Day At Midnight (2002-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
-John Mayer - Any Given Thursday (2003-02-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
 Ben Harper - Diamonds On The Inside (2003-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
-The Cardigans - Long Gone Before Daylight (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - On and On (2003-05-06)
@@ -138,7 +132,7 @@ Damien Rice - B-Sides (2004-08-03)
 <li data-cover="https://img.discogs.com/Vu7r-6u8MypHy1S1h641RlMKfGg=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8932867-1471756324-1394.mpo.jpg" data-tags="acoustic" role="button">
 John Frusciante - Curtains (2004-12-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/MuFObmq8DCdcU7yNZFIQex0ZWJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6800515-1426896315-6982.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
@@ -146,6 +140,9 @@ William Fitzsimmons - Until When We Are Ghosts (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/15a9cca2-cd9e-4aac-9828-b85f184b1f84/24240958685-500.jpg" data-tags="acoustic, emo" role="button">
 Secondhand Serenade - Awake (2005-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
+Fleet Foxes - Fleet Foxes (2006)
 </li>
 <li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
@@ -204,10 +201,13 @@ Fink - Distance and Time (2007-10-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
 The Spill Canvas - No Really, I'm Fine (2007-10-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+Jack Johnson - Sleep Through The Static (2008-02-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/123a7fa9-f179-43c9-9353-c4cf2625ed4a/15645014786-500.jpg" data-tags="folk" role="button">
 Laura Marling - Alas I Cannot Swim (2008-02-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+<li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="https://img.discogs.com/vwxoIJCM0ix4bNSbrNeDi9zXeaY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1839737-1265109088.jpeg.jpg" data-tags="emo, acoustic" role="button">
@@ -231,6 +231,9 @@ The Weepies - Hideaway (2008-04-22)
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
+Anathema - Hindsight (2008-08-25)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Joshua Radin - Simple Times (2008-09-30)
 </li>
@@ -252,7 +255,7 @@ John Mayer - Battle Studies (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/4ad77ab2-75a0-48d1-a00b-745000a6614e/17601301658-500.jpg" data-tags="acoustic, less than 40 minutes" role="button">
 Never Shout Never - what is love? (2010-01-26)
 </li>
-<li data-cover="https://img.discogs.com/2Ja3Yp-0smaCn7iOd2KjMiyzTgQ=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4094426-1482021440-4941.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
+<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
@@ -266,9 +269,6 @@ The Head and the Heart - The Head and The Heart (2010-06-29)
 </li>
 <li data-cover="https://img.discogs.com/9xjOUgnP8Bz4NDWDmotxkZ-MBk0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2629696-1301011049.jpeg.jpg" data-tags="vinyl, progressive folk, chamber folk" role="button">
 Sufjan Stevens - All Delighted People EP (2010-08-20)
-</li>
-<li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, brilliant record, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
-Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">
 Sara Bareilles - Kaleidoscope Heart (2010-09-06)
