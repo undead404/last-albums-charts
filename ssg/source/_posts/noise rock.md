@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:21:01.266Z
+date: 2021-04-04T09:27:45.634Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Sonic Youth - Daydream Nation (1988-10)](http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg "Sonic Youth - Daydream Nation (1988-10)")
@@ -29,6 +29,9 @@ The Velvet Underground - White Light/White Heat (1968-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/da11e4d0-97a2-3365-b510-3a3f05dbd34d/28361039757-500.jpg" data-tags="noise rock, no wave" role="button">
 Sonic Youth - Confusion Is Sex (1983)
+</li>
+<li data-cover="http://coverartarchive.org/release/96083093-8407-4c06-81c4-2852a67d8f2e/28131924716-500.jpg" data-tags="noise rock, no wave" role="button">
+Swans - Filth (1983-05-27)
 </li>
 <li data-cover="https://img.discogs.com/vx3Vhu6YBJACYuloYmM0uXmpSis=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12060190-1527514473-8801.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
 Sonic Youth - Bad Moon Rising (1985)
@@ -102,14 +105,11 @@ Shellac - At Action Park (1994-08)
 <li data-cover="http://coverartarchive.org/release/23ac0966-5414-4177-a599-6883e92964c4/7940049824-500.jpg" data-tags="indie rock" role="button">
 Blonde Redhead - Blonde Redhead (1995-01-19)
 </li>
-<li data-cover="https://img.discogs.com/shP5Cad9GgulW9A6Ovg9EdMVVzc=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5968287-1445604327-5831.jpeg.jpg" data-tags="noise rock" role="button">
-The Jesus Lizard - Shot (1996-04-16)
+<li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
+Sonic Youth - Washing Machine (1995-09-26)
 </li>
 <li data-cover="https://img.discogs.com/ONy1490mq3ZqLfb7XUWkkSKnwqs=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371265-1237647823.jpeg.jpg" data-tags="indie rock, alternative" role="button">
 Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 </li>
 <li data-cover="https://img.discogs.com/ogAdxAzAVI3WHa9Twx-HxTIMmYM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-668910-1145575708.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
@@ -156,6 +156,9 @@ Death from Above 1979 - You're A Woman, I'm A Machine (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/caee1003-ccd8-40bf-b682-d79f0054b36a/11799281268-500.jpg" data-tags="noise rock, noise" role="button">
 Lightning Bolt - Hypermagic Mountain (2005-10-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
+Boris - Pink (2005-11-12)
+</li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
 </li>
@@ -182,6 +185,9 @@ Spiritualized - Songs In A&E (2008-05-26)
 </li>
 <li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
 Women - WOMEN (2008-07-08)
+</li>
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)
@@ -225,7 +231,7 @@ Sleigh Bells - Treats (2010-05-11)
 <li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage, vinyl" role="button">
 Ty Segall - Melted (2010-05-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
+<li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
 Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
@@ -285,9 +291,6 @@ METZ - Metz (2012-10-08)
 <li data-cover="http://coverartarchive.org/release/735c3c9f-8317-44ab-ab71-826f51d10acc/3198810863-500.jpg" data-tags="post-punk" role="button">
 Iceage - You're Nothing (2013-02-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ff577c3-bfc6-4e63-b6e1-4cc953ebda50/3441153707-500.jpg" data-tags="noise rock, post-punk" role="button">
-The Men - New Moon (2013-03-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
 Sky Ferreira - Night Time, My Time (2013-10-29)
 </li>
@@ -296,9 +299,6 @@ Cloud Nothings - Here and Nowhere Else (2014-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/01430596-3eaa-4d2f-8198-8e15aac948bd/7269530596-500.jpg" data-tags="post-rock" role="button">
 Swans - To Be Kind (2014-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/3142baf1-e562-4759-9510-be1983e79e8e/7349660598-500.jpg" data-tags="indie rock, post-punk" role="button">
-Parquet Courts - Sunbathing Animal (2014-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a5b3b9-5e56-4f04-86fd-877c99cd720d/8102222224-500.jpg" data-tags="experimental, noise rock, shoegaze" role="button">
 Boris - Noise (2014-06-16)

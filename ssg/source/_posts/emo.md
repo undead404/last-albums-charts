@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T20:37:01.284Z
+date: 2021-04-04T09:00:07.082Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/uGrRDsDRtzlAyjlcm-8l6zG0QHo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716513-1234055000.jpeg.jpg" data-tags="emo" role="button">
 Sunny Day Real Estate - Diary (1994-05-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/3nlRedvdsyGXMdU-Rtvejiw8j6Y=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1692681-1237311546.jpeg.jpg" data-tags="rock" role="button">
 Jimmy Eat World - Jimmy Eat World (1994-12)
 </li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
@@ -140,6 +140,9 @@ Say Anything - Is A Real Boy (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee76a845-926d-4120-b83e-a2d543918428/25969450171-500.jpg" data-tags="emo, post-hardcore" role="button">
 Hidden in Plain View - Life In Dreaming (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f5c0d54-e9fa-3957-ab67-4c30ddb53262/23390004827-500.jpg" data-tags="rock, pop punk" role="button">
+Sugarcult - Palm Trees and Power Lines (2004-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
@@ -302,9 +305,6 @@ Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
-</li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
-Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)

@@ -1,0 +1,11 @@
+#nav-rss-link {
+    display: none;
+}
+
+#nav-search-btn {
+    width: auto;
+}
+
+#page-nav a, #page-nav span {
+    height: auto;
+}

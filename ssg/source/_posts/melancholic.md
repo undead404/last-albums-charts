@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:56:01.217Z
+date: 2021-04-04T09:15:01.429Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -10,9 +10,9 @@ title: "melancholic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
 <li data-cover="https://img.discogs.com/lqdcerK4c8xbpCYjmTHXeMaMjdQ=/fit-in/389x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528881-1608936675-9430.jpeg.jpg" data-tags="progressive rock" role="button">Anathema - Judgement (1999-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
+<li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">Antimatter - Planetary Confinement (2005-07-25)</li>
 <li data-cover="http://coverartarchive.org/release/336b5981-acbf-4993-9138-a15fa2b533b0/4577888247-500.jpg" data-tags="neoclassical, post-classical, piano, contemporary classical, neo-classical, ambient, modern classical" role="button">Goldmund - The Malady Of Elegance (2008-07-28)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
-<li data-cover="http://coverartarchive.org/release/8bd613e5-a2c5-4852-80c1-b45a0ea9232e/10917447319-500.jpg" data-tags="chillout, female vocalists, melancholic, celtic, native americans" role="button">First Aid Kit - Wolf (2012-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">Damien Rice - My Favourite Faded Fantasy (2014-10-31)</li>
 </ol>
 List of 100 - under the cut.
@@ -81,6 +81,9 @@ Katatonia - Discouraged Ones (1998-04-27)
 <li data-cover="http://coverartarchive.org/release/9a51b23b-4594-4abe-8c69-19b8cfa49184/8630651837-500.jpg" data-tags="doom metal, progressive rock, progressive metal" role="button">
 Anathema - Alternative 4 (1998-06-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
+Cat Power - Moon Pix (1998-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
 </li>
@@ -96,10 +99,7 @@ Madrugada - The Nightly Disease (2001-03-01)
 <li data-cover="https://img.discogs.com/wtKU2GmzCRyfiEXOt9y_DHITZgM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314034-1239363048.jpeg.jpg" data-tags="indie, british, turin brakes, collection must" role="button">
 Turin Brakes - The Optimist LP (2001-03-05)
 </li>
-<li data-cover="https://img.discogs.com/NQj-xcvn78uvo-R-IvOCY06ggpA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1024041-1316797680.jpeg.jpg" data-tags="british" role="button">
-I Am Kloot - Natural History (2001-03-26)
-</li>
-<li data-cover="https://img.discogs.com/nDy5cftWie8529Qq-C6xxW-Ov_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439568-1330440961.jpeg.jpg" data-tags="melancholic" role="button">
+<li data-cover="https://img.discogs.com/nb1EnJcA86CFw7ZQDmNBBINP0CA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2947897-1442694714-5363.jpeg.jpg" data-tags="melancholic" role="button">
 Anathema - Resonance (2001-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">
@@ -125,6 +125,9 @@ Thomas Dybdahl - Stray Dogs (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
+</li>
+<li data-cover="https://img.discogs.com/yTJ2t-oOJApxEaVPxI_k-iuaL4E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5719220-1404862392-1331.jpeg.jpg" data-tags="ambient, darkwave, dark ambient" role="button">
+Antimatter - Lights Out (2003-06-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, indie rock, dreamy, melancholic, lullaby, underappreciated, a, music for sleepless nights, the best of 2003, rozne takie sobie lubie, soft silly music, spokojnie tu jest, poznac to musze bardziej, painting inspirations" role="button">
 Lady & Bird - Lady & Bird (2003-09)
@@ -153,16 +156,16 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 <li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
 Ane Brun - A Temporary Dive (2005-02-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">
+Antimatter - Planetary Confinement (2005-07-25)
+</li>
 <li data-cover="https://img.discogs.com/Ea8FbKi9AUBh-cEGJXfLVl3YewY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591248-1184317356.jpeg.jpg" data-tags="pop, daniel powter" role="button">
 Daniel Powter - dp (2005-07-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock, alternative, finnish" role="button">
-The Rasmus - Hide From The Sun (2005-09-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, britpop" role="button">
 Starsailor - On The Outside (2005-10-14)
 </li>
-<li data-cover="https://img.discogs.com/8V5whur219Nvp63IwDsFXW-58TQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-523379-1575244390-4883.jpeg.jpg" data-tags="singer-songwriter, 00s" role="button">
+<li data-cover="https://img.discogs.com/mUAnfF6IFV0yK3Ft4S041WCce3w=/fit-in/469x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-574393-1201446700.jpeg.jpg" data-tags="singer-songwriter, 00s" role="button">
 Richard Hawley - Coles Corner (2005-10-31)
 </li>
 <li data-cover="https://img.discogs.com/ThguOkN1F1n8C2WWPuqf3c9XrS8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071179-1189934902.jpeg.jpg" data-tags="alternative, melancholic" role="button">
@@ -171,17 +174,11 @@ Vast - April (2006)
 <li data-cover="http://coverartarchive.org/release/7df49ccd-3a84-4424-8ffa-07f660ba4865/10866678503-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Green Carnation - The Acoustic Verses (2006-01-24)
 </li>
-<li data-cover="https://img.discogs.com/_qQlR2xDg62atljYRhPUICVpNEc=/fit-in/425x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-807589-1370510430-5707.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/Wt7pTVZhLSxj2iE59N8os6Pdt8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2944076-1467306082-9527.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
 Katatonia - The Great Cold Distance (2006-03-13)
-</li>
-<li data-cover="https://img.discogs.com/MlXMcJTbuCQZv0IYQDz_Pk34DUA=/fit-in/500x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-808924-1160948367.jpeg.jpg" data-tags="indie, experimental, 00s, guillemots" role="button">
-Guillemots - From the Cliffs (2006-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg" data-tags="doom metal, folk metal, progressive metal" role="button">
 Agalloch - Ashes Against the Grain (2006-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/0178f62c-7662-46d9-9870-d331c21d290f/1087682353-500.jpg" data-tags="alternative, piano, new age, dreamy, melancholic, relaxing" role="button">
-Frozen Silence - Heart of Winter (2006-12-01)
 </li>
 <li data-cover="https://img.discogs.com/ELv5YSUUhr236Fzcw1gjHK5YiT8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-976306-1182091235.jpeg.jpg" data-tags="ambient" role="button">
 Stafrænn Hákon - Gummi (2007-03-07)
@@ -194,6 +191,9 @@ Blonde Redhead - 23 (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/301832d9-f503-4e5f-945c-f77e66c4cd59/936789634-500.jpg" data-tags="progressive rock" role="button">
 Antimatter - Leaving Eden (2007-04-13)
+</li>
+<li data-cover="https://img.discogs.com/lU-jb1-v8HnHNIeuFYS8UuKtkNY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9832099-1487024275-2085.jpeg.jpg" data-tags="singer-songwriter, indie, indie rock" role="button">
+Elliott Smith - New Moon (2007-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ab7278a-20f0-49b2-b157-0a6baf1052c5/1951082691-500.jpg" data-tags="mellow" role="button">
 Sea Wolf - Get To The River Before It Runs Too Low (2007-05-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:50:01.218Z
+date: 2021-04-04T09:22:01.268Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -96,7 +96,7 @@ Dimmu Borgir - Puritanical Euphoric Misanthropia (2001-03-12)
 <li data-cover="https://img.discogs.com/ogQUwoOas8jPx7n8UFd0C56zMkw=/fit-in/550x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6852765-1428604389-3025.jpeg.jpg" data-tags="jazz, ninja tune" role="button">
 Jaga Jazzist - A Livingroom Hush (2001-05-21)
 </li>
-<li data-cover="https://img.discogs.com/3nNMhEKDr8xPmDbod7m5_GHcpmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-167971-1302447497.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
+<li data-cover="https://img.discogs.com/QtrKyHBzq9WNVp2DsA78gMXg1l4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62522-1568473794-5514.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
 Röyksopp - Eple (2001-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-500.jpg" data-tags="norwegian, ompa" role="button">
@@ -119,6 +119,9 @@ a-ha - Lifelines (2002-04-02)
 </li>
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
 Nils Petter Molvær - NP3 (2002-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/65d25b64-1ee5-4b23-aae0-f2b081990496/23725235843-500.jpg" data-tags="rock, norwegian" role="button">
+Madrugada - Grit (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
 Thomas Dybdahl - Stray Dogs (2003)
@@ -189,7 +192,7 @@ Röyksopp - The Understanding (2005-06-22)
 <li data-cover="http://coverartarchive.org/release/4c86af92-4f02-4223-bfae-85d613acd078/8650256385-500.jpg" data-tags="norwegian, scandinavian, norway, noord-europa, noors, noorwegen" role="button">
 a-ha - Rhino Hi-Five: A-Ha (2005-07-19)
 </li>
-<li data-cover="https://img.discogs.com/i2gUdQ9LxXm5SPnpql-XSjW_2hk=/fit-in/387x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1749562-1240904512.jpeg.jpg" data-tags="norwegian, 2005, rock" role="button">
+<li data-cover="https://img.discogs.com/i2gUdQ9LxXm5SPnpql-XSjW_2hk=/fit-in/387x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1749562-1240904512.jpeg.jpg" data-tags="norwegian, rock" role="button">
 Kaizers Orchestra - Maestro (2005-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5272ece-c9ef-4b59-93e9-86933928e900/7826835304-500.jpg" data-tags="anja garbarek" role="button">
@@ -209,9 +212,6 @@ Kate Havnevik - Melankton (2006-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/28d51e3f-b12c-4948-b35b-c1f5aae76ed2/25531712079-500.jpg" data-tags="black metal" role="button">
 Satyricon - Now, Diabolical (2006-04-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/fe94655c-ac68-4a7f-a76e-4709bd941d55/14971782039-500.jpg" data-tags="hard rock, rock'n'roll" role="button">
-Chrome Division - Doomsday Rock'n'Roll (2006-07-21)
 </li>
 <li data-cover="https://img.discogs.com/jgWeZQt-aFrwKZOJd6Hwy4n22NU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12669470-1539710071-8433.jpeg.jpg" data-tags="norwegian" role="button">
 Sondre Lerche - Phantom Punch (2006-08-28)
