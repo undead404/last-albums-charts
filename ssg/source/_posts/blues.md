@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:30:01.326Z
+date: 2021-04-04T20:34:01.360Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -10,7 +10,7 @@ title: "blues: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">Katie Melua - Piece by Piece (2005-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
+<li data-cover="https://img.discogs.com/xuq3MPlDpFXj4QApHfhHmHEgElw=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3249551-1322327457.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
 <li data-cover="http://coverartarchive.org/release/54ae2614-7ddb-4c11-b251-231929556b55/4911466037-500.jpg" data-tags="blues" role="button">John Mayer - Paradise Valley (2013-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg" data-tags="blues, folk rock, alternative pop, vicky, in my vinyl collection" role="button">George Ezra - Wanted on Voyage (2014-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg" data-tags="soul, indie rock, blues" role="button">Hozier - Hozier (2014-06-10)</li>
@@ -93,6 +93,9 @@ Eric Clapton - Eric Clapton's Rainbow Concert (1973)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Fleetwood Mac (1975-07-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
+Dire Straits - Dire Straits (1978-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/77d38310-5392-4ac4-85fe-35c1a999210d/13858018994-500.jpg" data-tags="blues" role="button">
 Tom Waits - Swordfishtrombones (1983)
 </li>
@@ -143,9 +146,6 @@ Joan Osborne - Relish (1995-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/db72b2a8-9a07-4bc6-b78c-d3dfe29a4eb4/25184996650-500.jpg" data-tags="90s, alternative, mute records" role="button">
-Nick Cave and the Bad Seeds - Murder Ballads (1996-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
@@ -282,7 +282,7 @@ Hugh Laurie - Let Them Talk (2011-04-29)
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">
+<li data-cover="https://img.discogs.com/xuq3MPlDpFXj4QApHfhHmHEgElw=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3249551-1322327457.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">
 The Black Keys - Lonely Boy (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">

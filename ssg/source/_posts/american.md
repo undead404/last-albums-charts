@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:20:01.874Z
+date: 2021-04-04T20:01:01.315Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -36,13 +36,13 @@ R.E.M. - Automatic for the People (1992-10-06)
 <li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Erotica (1992-10-19)
 </li>
-<li data-cover="https://img.discogs.com/1Ccoebx77SiSwqlTds0ZditwzM0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-592798-1380735611-8840.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/QYwxSdn4KsgCk3juno4AEzEqtN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204994-1358497086-7715.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
 Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
-<li data-cover="https://img.discogs.com/XCplQuezqTz0DbPQDQfYxmFHYLc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1953989-1577338995-9744.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/AOoYKT-Gk3RLqdjQJmWTzIWXuSM=/fit-in/580x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745597-1154516372.jpeg.jpg" data-tags="rock" role="button">
 Counting Crows - August And Everything After (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
@@ -75,9 +75,6 @@ Mazzy Star - Among My Swan (1996-10-17)
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - The Colour and the Shape (1997-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
-Will Smith - Big Willie Style (1997-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
@@ -102,16 +99,13 @@ Stone Sour - Stone Sour (2002-08-19)
 <li data-cover="http://coverartarchive.org/release/b4559308-a761-3279-8243-35952f3aeb7a/19438296770-500.jpg" data-tags="country" role="button">
 Faith Hill - Cry (2002-10-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
-Kings of Leon - Youth & Young Manhood (2003-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -180,10 +174,7 @@ Metro Station - Metro Station (2007-09-18)
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee8ebad3-834c-4588-996d-088f08b9c12a/25180352483-500.jpg" data-tags="hip-hop, rnb" role="button">
-Mario - Go (2007-12-10)
-</li>
-<li data-cover="https://img.discogs.com/gQGPAyX3XU9hGeQVSyhUQou_K6s=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2348005-1297509387.jpeg.jpg" data-tags="electronic, indietronica" role="button">
+<li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b76a7d36-f707-44c3-9274-786929552cf4/6658448923-500.jpg" data-tags="indie, rock" role="button">
@@ -255,7 +246,7 @@ Band of Horses - Infinite Arms (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/Npwa0T0tKvmO7Q-4p78l4ELoTZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2832647-1303069251.jpeg.jpg" data-tags="folk" role="button">
 The Head and the Heart - The Head and The Heart (2010-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/689f26cd-b624-4bd2-a1bf-fd327f65f07b/9361302288-500.jpg" data-tags="electro hop" role="button">
@@ -273,7 +264,7 @@ Kings of Leon - Come Around Sundown (2010-10-15)
 <li data-cover="http://coverartarchive.org/release/a4e8c0a1-52b1-4737-be06-374758361a96/24554182813-500.jpg" data-tags="electronica, indie rock, indie electronic, usa, american, alternative dance, dance-punk, lcd soundsystem, where is my bong, weightlifting music, music to play on mdma, has me dancing even now, casa cubo" role="button">
 LCD Soundsystem - London Sessions (2010-11-05)
 </li>
-<li data-cover="https://img.discogs.com/Wp3ZxisyF_PDDPrN38BOndQ6dng=/fit-in/554x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677282-1339971717-8879.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, american" role="button">
+<li data-cover="https://img.discogs.com/qMHluBLlGky3s4DVN_6TUIF21T0=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3205463-1582999779-8695.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, american" role="button">
 Cage the Elephant - Thank You, Happy Birthday (2011-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
@@ -306,8 +297,17 @@ The Lumineers - The Lumineers (2012-04-03)
 <li data-cover="http://coverartarchive.org/release/c42aa1fb-a930-4d93-9b8f-1ee6a6b03f73/26941915089-500.jpg" data-tags="indie" role="button">
 Walk the Moon - Walk the Moon (2012-06-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/43bd1c61-c8a2-4877-a57f-93cdf262c761/3773290861-500.jpg" data-tags="indie rock" role="button">
+Local Natives - Hummingbird (2013-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4e57d35-d8f8-4302-bca4-534b6227e284/14478188805-500.jpg" data-tags="indie rock" role="button">
+The National - Trouble Will Find Me (2013-05-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
 Kanye West - Yeezus (2013-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
+Darkside - Psychic (2013-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)

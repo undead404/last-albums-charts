@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:36:02.526Z
+date: 2021-04-04T20:25:01.352Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -99,6 +99,9 @@ LCD Soundsystem - LCD Soundsystem (2005-01-19)
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
+Cascada - Everytime We Touch (2006-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc8e84c6-c841-321c-ba2a-3dec63126872/17919825722-500.jpg" data-tags="pop" role="button">
 Nelly Furtado - Loose (2006-06-07)
 </li>
@@ -152,9 +155,6 @@ The Presets - Apocalypso (2008-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e36207e-afe8-4f0b-86fe-11df04332743/9668913960-500.jpg" data-tags="pop" role="button">
 Madonna - Hard Candy (2008-04-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dance, funk, synthpop" role="button">
-Sam Sparro - Sam Sparro (2008-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
 The Ting Tings - We Started Nothing (2008-05-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:33:01.303Z
+date: 2021-04-04T20:37:01.310Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -36,9 +36,6 @@ Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 <li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
 Queen - News Of The World (1977-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
-The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
-</li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
@@ -51,16 +48,13 @@ Dead Can Dance - Into the Labyrinth (1993-09-13)
 <li data-cover="https://img.discogs.com/aVYuTaYK98DSZWc_VPlisrjNk-c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832189-1527491587-2668.jpeg.jpg" data-tags="rock, japanese, alternative rock, progressive rock, epic, post-punk, melodic, jpop, dream pop, japan, japanese rock, j, j-rock, j-pop, jrock, legends, japanese music, j-music, to explore, luna sea, pure beauty, loved albums, sugizo, ryuichi kawamura, inoran, legends of rock, in future, fxxing masterpiece, there is no tag for this masterpiece" role="button">
 Luna Sea - MOTHER (1994-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/9bf29e42-a5c4-44fe-a3e0-29b11c2e8091/5877225471-500.jpg" data-tags="atmospheric black metal, epic black metal" role="button">
-Summoning - Minas Morgul (1995-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/524c5a17-1f08-4d05-8bb5-bed5735dd96e/8073215669-500.jpg" data-tags="indie rock" role="button">
 Built to Spill - Perfect From Now On (1997-01-28)
 </li>
-<li data-cover="https://img.discogs.com/GEEoOZtd2541_qWo6f3aULMkR-4=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860384-1193767375.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
@@ -122,9 +116,6 @@ Melvins - A Senile Animal (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
-</li>
-<li data-cover="https://img.discogs.com/yscyxocBpf7kngxBp-Z8hT5_XmE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306901-1597678021-8727.jpeg.jpg" data-tags="rock, punk, epic, punk rock, awesome lyrics" role="button">
-I Hate Kate - Embrace The Curse (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
@@ -273,6 +264,12 @@ ONE OK ROCK - The Beginning (2012-08-22)
 <li data-cover="https://img.discogs.com/SialTdLqfIVngta-WfhyvKRLeMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826540-1345940532-4427.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, vinyl, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
 Dan Deacon - America (2012-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
+Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
+Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/ddf07d7e-3261-481d-82b4-1bd7663ba979/2805075649-500.jpg" data-tags="indie, symphonic pop" role="button">
 Woodkid - The Golden Age (2013-03-14)
 </li>
@@ -282,8 +279,11 @@ Quadron - Avalanche (2013-05-31)
 <li data-cover="https://img.discogs.com/pscnaQIdudebvxaNvSMSI0KzdJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5012392-1524398620-5370.jpeg.jpg" data-tags="chill, math rock, progressive metal, progressive rock, prog, epic, hot chocolate, not of this world, instrumental prog metal, god tier chill, legends of chill, not a word was spoken" role="button">
 CHON - Newborn Sun (2013-06-11)
 </li>
-<li data-cover="https://img.discogs.com/CZKb-OBaJPeaIcVkm6gFsDrUjus=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6302936-1415994537-5066.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/Rf7xcLv4s1ZnEzT9v5a_hiMf_5E=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13298519-1581526054-7498.png.jpg" data-tags="pop" role="button">
 Justin Timberlake - The 20/20 Experience - 2 of 2 (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
+Darkside - Psychic (2013-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)
@@ -309,7 +309,7 @@ Lana Del Rey - Ultraviolence (2014-06-13)
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/0dff2fd4-c291-446e-b53b-d95f8acfccdd/8030954467-500.jpg" data-tags="pop, epic, angular, late night, euphoric, confident, rousing, complex, uplifting, strong, yearning, youth, nocturnal, nighttime, exuberant, defiant, passion, cathartic, stylish, swaggering, lively, day driving, shimmering, visceral, sprawling, urgent, hanging out, night driving, kinetic, open road" role="button">
+<li data-cover="http://coverartarchive.org/release/0dff2fd4-c291-446e-b53b-d95f8acfccdd/8030954467-500.jpg" data-tags="pop, epic, angular, late night, euphoric, confident, complex, uplifting, strong, yearning, youth, nocturnal, nighttime, exuberant, defiant, passion, cathartic, stylish, swaggering, lively, day driving, shimmering, visceral, sprawling, urgent, hanging out, night driving, kinetic, open road" role="button">
 Eliot Sumner - Information (2014-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5f65789-2b01-4a8c-adde-eae7602bd38c/8376081336-500.jpg" data-tags="pop, pop rock, epic, bad albums" role="button">

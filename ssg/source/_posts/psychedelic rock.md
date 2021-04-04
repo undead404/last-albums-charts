@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:44:01.271Z
+date: 2021-04-04T20:08:01.408Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Ultraviolence (2014-06-13)](http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg "Lana Del Rey - Ultraviolence (2014-06-13)")
@@ -48,16 +48,16 @@ The Jimi Hendrix Experience - Are You Experienced (1967-05-12)
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">
 The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock, psychedelic" role="button">
+<li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="psychedelic rock, psychedelic" role="button">
 Pink Floyd - The Piper at the Gates of Dawn (1967-07-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic, 1967" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic" role="button">
 Captain Beefheart & His Magic Band - Safe As Milk (1967-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/64026228-12c3-4532-b220-4da206ce02bd/1920531008-500.jpg" data-tags="psychedelic rock" role="button">
 The Doors - Strange Days (1967-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="1967, psychedelic, psychedelic rock, 60s" role="button">
+<li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
 </li>
 <li data-cover="https://img.discogs.com/34VtR4zu1Giq8UuOPkQ_GGQVU30=/fit-in/600x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8564762-1464133683-4151.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
@@ -153,7 +153,7 @@ The Doors - Greatest Hits (1980)
 <li data-cover="https://img.discogs.com/_DMp2tmKmRIrJP34jl0FxF98YyM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845550-1357178199-9196.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1991-02-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">
@@ -179,9 +179,6 @@ Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/475b6b91-86e9-40ba-bb98-c6a65bd1339e/15595445952-500.jpg" data-tags="classic rock, rock, psychedelic rock" role="button">
 The Doors - The Very Best of The Doors (2001-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
-The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
 <li data-cover="https://img.discogs.com/IUnlfISlMxPX-VUpEFYyOit9Ous=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-626319-1495180521-5734.mpo.jpg" data-tags="psychedelic rock" role="button">
 Dungen - Ta det lugnt (2004-06-02)
@@ -213,7 +210,7 @@ Oasis - Dig Out Your Soul (2008-10-01)
 <li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
 </li>
-<li data-cover="https://img.discogs.com/p5gcgO8z7sqPBYA_fXlyR5EYT-s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3998207-1351841886-6993.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/cOr9_PnJLoxg0kEqR36HW6-c1TM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14235820-1570434895-8882.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - Metamorphosis (2009-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a0d6f6b-0a2b-4449-880c-4529bdaec15d/16256226007-500.jpg" data-tags="blues rock" role="button">
@@ -278,6 +275,9 @@ Tame Impala - Lonerism (2012-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
 Mac DeMarco - 2 (2012-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
+Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Infestissumam (2013-04-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:16:01.283Z
+date: 2021-04-04T20:31:01.339Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -219,6 +219,9 @@ From First to Last - From First To Last (2008-05-06)
 <li data-cover="http://coverartarchive.org/release/4697991e-b4f2-48f4-bbf3-552ae81ed05d/17979922684-500.jpg" data-tags="post-hardcore" role="button">
 Emarosa - Relativity (2008-07-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
+Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
@@ -260,9 +263,6 @@ blessthefall - Witness (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bb07dbb-644e-4cb1-a533-7b68086db950/15585578070-500.jpg" data-tags="post-hardcore" role="button">
 We Came As Romans - To Plant a Seed (2009-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/11c90d9e-3e34-45d6-817e-13beddc9e827/8461512951-500.jpg" data-tags="emocore, post-hardcore" role="button">
-Alesana - The Emptiness (2010-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c862d2f0-caef-458d-b4f4-cfddc85b332e/6472023132-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - Of Mice & Men (2010-03-09)

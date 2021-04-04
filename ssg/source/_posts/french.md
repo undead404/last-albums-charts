@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:14:01.318Z
+date: 2021-04-04T20:07:01.665Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -78,7 +78,7 @@ Alizée - Gourmandises (2000)
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
 </li>
-<li data-cover="https://img.discogs.com/r2SQuPuMEuoDJ-tZDZBbc0UuB_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467570-1225318253.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
+<li data-cover="https://img.discogs.com/WT1wu71Vs82Vi4OEtAxWvSrG7zc=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640555-1491711277-5335.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
 Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3000089-a5ec-4d2a-b749-1fbbe7c9a134/1285984528-500.jpg" data-tags="acid jazz, electronic" role="button">
@@ -167,9 +167,6 @@ Céline Dion - On ne change pas (2005-10-03)
 </li>
 <li data-cover="https://img.discogs.com/5NzomrBRvZRiL8RXz2gj4fs24dQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2056303-1303495712.gif.jpg" data-tags="french, chanson francaise, female vocalists" role="button">
 Olivia Ruiz - La Femme Chocolat (2005-11-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/78fc0451-98c4-4708-a0de-e9bdff492488/1529636690-500.jpg" data-tags="chillout, electronic, nu-jazz, triphop" role="button">
-Alif Tree - French Cuisine (2006-02-03)
 </li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
@@ -308,6 +305,9 @@ Zaz - Recto Verso (2013-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
+Daft Punk - Random Access Memories (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/73e0b6cc-cc6e-4a94-acfb-328d70e4ccef/4486917629-500.jpg" data-tags="french, hip hop, french montana" role="button">
 French Montana - Excuse My French (2013-05-21)

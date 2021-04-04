@@ -1,15 +1,15 @@
 ---
-date: 2021-04-04T18:19:01.463Z
+date: 2021-04-04T20:39:01.321Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
-![Stars - Set Yourself on Fire (2004-09-14)](https://img.discogs.com/Nu62y-9xJri6rIofwmyBZtXFpmk=/fit-in/600x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7396177-1516478624-1174.jpeg.jpg "Stars - Set Yourself on Fire (2004-09-14)")
+![Feist - Let It Die (2004-05-18)](https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg "Feist - Let It Die (2004-05-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4a62cd38-0405-33c0-ade2-6be951f7b777/8606673911-500.jpg" data-tags="indie, indie rock" role="button">Broken Social Scene - You Forgot It In People (2002-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">Broken Social Scene - Broken Social Scene (2004)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
+<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="https://img.discogs.com/Nu62y-9xJri6rIofwmyBZtXFpmk=/fit-in/600x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7396177-1516478624-1174.jpeg.jpg" data-tags="indie, indie pop" role="button">Stars - Set Yourself on Fire (2004-09-14)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie pop, canadian" role="button">Islands - Return to the Sea (2006-04-03)</li>
+<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">Islands - Return to the Sea (2006-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">Mother Mother - O My Heart (2008-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">Metric - Fantasies (2009-03-31)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/jWl-Fk-vUu6wG8HqjOlgzK9H1-Y=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682585-1456347702-6916.jpeg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">
+<li data-cover="https://img.discogs.com/OBP3ccIMyteTupJgt8c_mg8-bEs=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347775-1100284787.jpg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">
 Men Without Hats - The Safety Dance (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c54a5b4e-c8c9-4e4f-bcf9-487a349d2a29/8933970594-500.jpg" data-tags="rock, 80s" role="button">
@@ -39,7 +39,7 @@ Barenaked Ladies - Gordon (1992-07-28)
 <li data-cover="http://coverartarchive.org/release/5cebccf5-04fe-35dd-b87f-021ae43ba0c0/17846613252-500.jpg" data-tags="leonard cohen, 90s" role="button">
 Leonard Cohen - The Future (1992-11-24)
 </li>
-<li data-cover="https://img.discogs.com/936U7vcv0JhUIFMUnvPTDgtAhao=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8488622-1462614891-1432.jpeg.jpg" data-tags="canadian, 90s" role="button">
+<li data-cover="https://img.discogs.com/XXSfeh_wEGxQXFb4uUG3AgDqOQA=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1135997-1194956439.jpeg.jpg" data-tags="canadian, 90s" role="button">
 Snow - 12 Inches of Snow (1993-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b6aeba7-272c-4299-af0c-ecbfbf487298/2535580481-500.jpg" data-tags="rock" role="button">
@@ -63,7 +63,7 @@ Barenaked Ladies - Stunt (1998-07-07)
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
@@ -81,7 +81,7 @@ Default - The Fallout (2001-10-01)
 <li data-cover="http://coverartarchive.org/release/9a1e5f83-4be0-48ff-8477-dce2e73a2ace/11716165288-500.jpg" data-tags="indie pop, indie" role="button">
 Stars - Heart (2002)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="celine dion, pop" role="button">
+<li data-cover="https://img.discogs.com/LpWfFwFZQzH36xcj-eoXMpjLS70=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6745844-1591846017-8819.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - A New Day Has Come (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a62cd38-0405-33c0-ade2-6be951f7b777/8606673911-500.jpg" data-tags="indie, indie rock" role="button">
@@ -114,13 +114,13 @@ Broken Social Scene - Broken Social Scene (2004)
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
 Avril Lavigne - Under My Skin (2004-03)
 </li>
-<li data-cover="https://img.discogs.com/nKVi_E6KjzWjALypkTLexazuVyk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10521366-1499152013-3611.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
+<li data-cover="https://img.discogs.com/aa2ZwdTxBhChGMOEqNwyJLoi3mw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393970-1215889453.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
 Broken Social Scene - Bee Hives (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, indie" role="button">
+<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rap, k-os, hip-hop, hip hop, canadian, hiphop" role="button">
@@ -135,7 +135,7 @@ Arcade Fire - Funeral (2004-09-13)
 <li data-cover="https://img.discogs.com/Nu62y-9xJri6rIofwmyBZtXFpmk=/fit-in/600x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7396177-1516478624-1174.jpeg.jpg" data-tags="indie, indie pop" role="button">
 Stars - Set Yourself on Fire (2004-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/xMiFWJwEphLDMr-wOSPFShm1G4A=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-971954-1179329185.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/I-94HK-qcR7LdLDe6E-CVFZJH7o=/fit-in/288x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428552-1112127581.jpg.jpg" data-tags="indie" role="button">
@@ -162,7 +162,7 @@ Jason Collett - Idols of Exile (2006-02-07)
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
 Destroyer - Destroyer's Rubies (2006-02-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie pop, canadian" role="button">
+<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
@@ -210,7 +210,7 @@ Simple Plan - Simple Plan (2008-02-06)
 <li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
-<li data-cover="https://img.discogs.com/6u4EZaZlCoPbS8iiVPcLwGX94rk=/fit-in/200x174/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336987-1210781067.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
 Tokyo Police Club - Elephant Shell (2008-04-22)
 </li>
 <li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
@@ -243,9 +243,6 @@ Sunset Rubdown - Dragonslayer (2009-06-23)
 <li data-cover="http://coverartarchive.org/release/feefbeb7-79eb-4a0d-a215-04990a186465/28888010781-500.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent III (2009-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/5da5751a-4f95-3021-b5db-888b158a72a6/4809566954-500.jpg" data-tags="indie pop" role="button">
-Tegan and Sara - Sainthood (2009-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">
 Caribou - Swim (2010-04-16)
 </li>
@@ -276,7 +273,7 @@ Mother Mother - Eureka (2011-03-15)
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
-<li data-cover="https://img.discogs.com/z9f81NG8CjM29-HgnG9nFV63g-c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9861750-1487608973-7636.jpeg.jpg" data-tags="chillout, electronic, electropop, indie, indie electronic, indietronica, minimal, canadian, synthpop, alternative dance, synth-pop, domino, stealth, de cumparat" role="button">
+<li data-cover="https://img.discogs.com/ytbgbIEY2PduHyxuc6jlyLUufTM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4546400-1370714661-1858.jpeg.jpg" data-tags="chillout, electronic, electropop, indie, indie electronic, indietronica, minimal, canadian, synthpop, alternative dance, synth-pop, domino, stealth, de cumparat" role="button">
 Junior Boys - It's All True (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
@@ -284,6 +281,9 @@ Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
 Feist - Metals (2011-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">
+Michael Bublé - Christmas (2011-10-14)
 </li>
 <li data-cover="https://img.discogs.com/jRfBIhtBcTh2B_KqFB7V82Pe1b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237331-1360341702-7706.jpeg.jpg" data-tags="alternative rock, pop rock, canadian, modern rock" role="button">
 Marianas Trench - Ever After (2011-11-21)

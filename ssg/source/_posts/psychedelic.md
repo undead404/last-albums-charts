@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:01:01.288Z
+date: 2021-04-04T20:44:01.323Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -9,7 +9,7 @@ title: "psychedelic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">The Beatles - Magical Mystery Tour (1967-11-27)</li>
 <li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">The Velvet Underground - The Velvet Underground (1969-03)</li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Wish You Were Here (1975-09-12)</li>
-<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">Primal Scream - Screamadelica (1991-09-23)</li>
+<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">Primal Scream - Screamadelica (1991-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg" data-tags="indie, electronic" role="button">MGMT - Oracular Spectacular (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">MGMT - Congratulations (2010-04-07)</li>
@@ -29,9 +29,6 @@ The Beach Boys - Pet Sounds (1966-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f648e2-9c6d-32df-b5ee-ccab3e696a51/16250684845-500.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Revolver (1966-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a258d87b-aee3-32f3-a5f4-c5d89dfa9405/26359202786-500.jpg" data-tags="60s, psychedelic" role="button">
-Donovan - Sunshine Superman (1966-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock, psychedelic, 60s" role="button">
 13th Floor Elevators - The Psychedelic Sounds of the 13th Floor Elevators (1966-11)
@@ -102,7 +99,7 @@ The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
 </li>
-<li data-cover="https://img.discogs.com/fNpgPshETlRAfuku7ehyfn2Qy4g=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16242330-1605865595-9864.jpeg.jpg" data-tags="rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">
@@ -123,7 +120,7 @@ The Doors - Morrison Hotel (1970-02)
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic, psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/F0RPIYylQvA8yahC4nozNlelv4c=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1731774-1572553558-8862.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg" data-tags="krautrock" role="button">
@@ -153,7 +150,7 @@ The Doors - Greatest Hits (1980)
 <li data-cover="https://img.discogs.com/_DMp2tmKmRIrJP34jl0FxF98YyM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845550-1357178199-9196.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1991-02-25)
 </li>
-<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
@@ -180,7 +177,7 @@ The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
 <li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
-<li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, 2004, freak folk" role="button">
+<li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
 </li>
 <li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
@@ -210,6 +207,9 @@ Deerhunter - Cryptograms (2007-01-29)
 <li data-cover="http://coverartarchive.org/release/bbdb139d-13c8-4327-914e-8ada7bf09b17/27880110565-500.jpg" data-tags="psychedelic" role="button">
 Black Moth Super Rainbow - Dandelion Gum (2007-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/18b7c0cb-97e6-45a8-b756-e05bf953db66/3326217013-500.jpg" data-tags="experimental" role="button">
+Animal Collective - Strawberry Jam (2007-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/48479a6c-734a-4adc-ac78-cecfa94ca894/11089774828-500.jpg" data-tags="psychedelic, stoner metal" role="button">
 Om - Pilgrimage (2007-09-13)
 </li>
@@ -222,7 +222,7 @@ Younger Brother - The Last Days Of Gravity (2007-10-15)
 <li data-cover="http://coverartarchive.org/release/55318661-9673-4bab-91cf-421c84b8701f/8635805656-500.jpg" data-tags="indie, rock, indie rock" role="button">
 Yeasayer - All Hour Cymbals (2007-10-23)
 </li>
-<li data-cover="https://img.discogs.com/gQGPAyX3XU9hGeQVSyhUQou_K6s=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2348005-1297509387.jpeg.jpg" data-tags="electronic, indietronica" role="button">
+<li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/48b36c2e-6cbe-492c-bb8c-0a80ddbf3cbe/25351184261-500.jpg" data-tags="psychedelic, rock" role="button">
@@ -255,7 +255,7 @@ Infected Mushroom - Legend Of The Black Shawarma (2009-09-08)
 <li data-cover="http://coverartarchive.org/release/4d62e8fb-5371-33b0-aac7-c5ab0d956329/11089715437-500.jpg" data-tags="stoner rock, psychedelic, stoner metal" role="button">
 Om - God Is Good (2009-09-29)
 </li>
-<li data-cover="https://img.discogs.com/D4c9wyhaXLvGOdGItp1r3AjjevA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16216021-1605421774-2548.jpeg.jpg" data-tags="psychedelic" role="button">
+<li data-cover="https://img.discogs.com/M9Zz4UUTfEefTcsq3Pb2VE1vxFo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9105272-1490561619-4529.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">

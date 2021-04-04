@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:41:01.803Z
+date: 2021-04-04T19:46:06.667Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -96,9 +96,6 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
-Air - 10 000 Hz Legend (2001-05-23)
-</li>
 <li data-cover="https://img.discogs.com/UVRE9KE-Ba7u4VKWfUvi9M4_PDw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377788-1460896455-8546.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)
 </li>
@@ -183,6 +180,9 @@ Zero 7 - When It Falls (2004-02-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, trip-hop, ninja tune" role="button">
 Blockhead - Music By Cavelight (2004-03-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c024f86-043c-49c6-ad12-112efe4dea11/6700699996-500.jpg" data-tags="chillout, lounge" role="button">
+Afterlife - Speck Of Gold (2004-05-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
 Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
@@ -216,7 +216,7 @@ Helios - Eingya (2006-06-15)
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/GPy5UWU-bunOlZMGD56Pky5MSg0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789533-1532239155-6833.jpeg.jpg" data-tags="post-rock" role="button">
 The Album Leaf - Into The Blue Again (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">

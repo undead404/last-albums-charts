@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:47:01.303Z
+date: 2021-04-04T20:40:01.321Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -39,7 +39,7 @@ The Doors - The Soft Parade (1969-07)
 <li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
 Miles Davis - Bitches Brew (1970)
 </li>
-<li data-cover="https://img.discogs.com/sE0VG-0sdTLQB3q8UTuR7KjthJE=/fit-in/550x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341352-1396052519-4623.jpeg.jpg" data-tags="classic rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/FyTyNg0l2oiiALzvNZVMfxZc6C8=/fit-in/599x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11276140-1513251517-1765.jpeg.jpg" data-tags="classic rock, 70s" role="button">
 Van Morrison - Moondance (1970-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">
@@ -93,7 +93,7 @@ Ice Cube - The Predator (1992-11-17)
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
 </li>
-<li data-cover="https://img.discogs.com/1Ccoebx77SiSwqlTds0ZditwzM0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-592798-1380735611-8840.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/QYwxSdn4KsgCk3juno4AEzEqtN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204994-1358497086-7715.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/77fad998-2e9b-4e4f-a960-1c5b9d2a7b34/15715288051-500.jpg" data-tags="hip-hop, east coast rap" role="button">
@@ -143,9 +143,6 @@ GZA/Genius - Liquid Swords (1995-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/391339a8-de89-4817-80c3-08c0557941f5/15298625389-500.jpg" data-tags="classic, rap, real hip-hop, hiphop classic albums, my collection great 150 albumz of rap, hs-college, 5 star rap, pih-poh" role="button">
 LL Cool J - Mr. Smith (1995-11-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/db72b2a8-9a07-4bc6-b78c-d3dfe29a4eb4/25184996650-500.jpg" data-tags="90s, alternative, mute records" role="button">
-Nick Cave and the Bad Seeds - Murder Ballads (1996-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">
 2Pac - All Eyez on Me (1996-02-13)
@@ -317,6 +314,9 @@ Bruno Mars - Locked Out Of Heaven (2012-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="2012" role="button">
 The Weeknd - Trilogy (2012-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">
+Queens of the Stone Age - ...Like Clockwork (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/be504739-1ea3-48a6-b1d1-8f77510e9b40/4310278393-500.jpg" data-tags="classic, alternative rock, britpop, neo-psychedelia" role="button">
 Beady Eye - BE (2013-06-05)

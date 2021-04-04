@@ -1,16 +1,16 @@
 ---
-date: 2021-04-04T17:33:01.276Z
+date: 2021-04-04T19:54:01.294Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/fNpgPshETlRAfuku7ehyfn2Qy4g=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16242330-1605865595-9864.jpeg.jpg" data-tags="rock, 60s" role="button">The Beatles - Yellow Submarine (1969-01-13)</li>
+<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="rock, 60s" role="button">The Beatles - Yellow Submarine (1969-01-13)</li>
 <li data-cover="http://coverartarchive.org/release/41bb7cd9-f05f-4df3-a360-5ee2bd931325/12259794502-500.jpg" data-tags="soundtrack, 80s, unique, 1980s, film soundtrack, movie music, akrazia, princeprinceprince" role="button">Prince - Parade - Music From The Motion Picture Under The Cherry Moon (1986-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">Philip Glass - Koyaanisqatsi (1998-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">Air - The Virgin Suicides (2000-02-25)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
 <li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)</li>
-<li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">Counting Crows - Accidentally In Love (2004-01-01)</li>
+<li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - The Pick of Destiny (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/dc77999c-ebb4-4ad0-a8d4-8a3aa503eaaa/5502447388-500.jpg" data-tags="soundtrack" role="button">Hans Zimmer - Inception (2010-07-13)</li>
 <li data-cover="http://coverartarchive.org/release/998e28f9-ed94-4de1-af8e-8dc544c1ab31/10072281735-500.jpg" data-tags="soundtrack" role="button">Trent Reznor and Atticus Ross - The Social Network (2010-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg" data-tags="electronic, soundtrack" role="button">Daft Punk - TRON: Legacy (2010-12-06)</li>
@@ -21,23 +21,26 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/50b212ff-cea7-379d-8bb4-340b985e1dd4/3204990971-500.jpg" data-tags="soundtrack" role="button">
+Henry Mancini - Breakfast At Tiffany's (1961)
+</li>
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="1961, rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
-<li data-cover="https://img.discogs.com/fNpgPshETlRAfuku7ehyfn2Qy4g=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16242330-1605865595-9864.jpeg.jpg" data-tags="rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ac5a1f8-51d0-3db3-bfdc-c5803d8f2799/14207788461-500.jpg" data-tags="progressive rock, psychedelic rock, 60s, soundtrack" role="button">
 Pink Floyd - More (1969-06-13)
+</li>
+<li data-cover="https://img.discogs.com/dil9fF22pZEREMhk4s8IIoSNiLM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4041433-1383441666-5549.jpeg.jpg" data-tags="soundtrack, folk" role="button">
+Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
 </li>
 <li data-cover="https://img.discogs.com/OmsxWs4-CmOFOsnpZDOij0PBi2Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754595-1377707976-4707.jpeg.jpg" data-tags="soundtrack" role="button">
 Queen - Flash Gordon (1980-12-08)
-</li>
-<li data-cover="https://img.discogs.com/2Ke4ZO9nYtPuT3szLTkan8M2_6w=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379321-1122460979.jpg.jpg" data-tags="soundtrack" role="button">
-Vangelis - Chariots Of Fire (1981)
 </li>
 <li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
 Basil Poledouris - Conan the Barbarian (1982)
@@ -47,9 +50,6 @@ Ray Parker Jr. - Ghostbusters (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/17b6081f-cc8e-4dbd-b8da-ff89b6957e1a/13144429451-500.jpg" data-tags="celtic" role="button">
 Clannad - Legend (1984)
-</li>
-<li data-cover="https://img.discogs.com/xRNfBWi-1l71ZyJH-7Ivu7kf8FE=/fit-in/500x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2193288-1319384633.jpeg.jpg" data-tags="80s, pop" role="button">
-Prince & The Revolution - Purple Rain (1984-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/41bb7cd9-f05f-4df3-a360-5ee2bd931325/12259794502-500.jpg" data-tags="soundtrack, 80s, unique, 1980s, film soundtrack, movie music, akrazia, princeprinceprince" role="button">
 Prince - Parade - Music From The Motion Picture Under The Cherry Moon (1986-03-31)
@@ -74,9 +74,6 @@ Jon Bon Jovi - Blaze Of Glory (1990-08-07)
 </li>
 <li data-cover="https://img.discogs.com/pDhLBqBs6D8ODY8kSrKc0iguskY=/fit-in/600x925/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585572-1431987750-2872.jpeg.jpg" data-tags="soundtrack" role="button">
 Angelo Badalamenti - Soundtrack From Twin Peaks (1990-08-31)
-</li>
-<li data-cover="https://img.discogs.com/Z_o-fThDRzoEzGIguGseUv7crhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5355130-1547207943-7011.jpeg.jpg" data-tags="soundtrack" role="button">
-Danny Elfman - Edward Scissorhands (1990-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7550197e-2b87-370b-86c1-c6ef0d29ac85/11507691329-500.jpg" data-tags="soundtrack" role="button">
 Vangelis - 1492: Conquest of Paradise (1992-09-28)
@@ -132,6 +129,9 @@ Various Artists - O Brother, Where Art Thou? (2000-10-23)
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
+<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
+Gary Jules - Trading Snakeoil For Wolftickets (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/71932455-067b-4fcb-b9e4-2cb16da0bb96/1383827288-500.jpg" data-tags="soundtrack" role="button">
 Yann Tiersen - Amélie (2001-04-23)
 </li>
@@ -180,14 +180,14 @@ Björk - Drawing Restraint 9 (2005-07-25)
 <li data-cover="http://coverartarchive.org/release/65c64965-14bd-40d4-929a-23d8ee62a623/8183556387-500.jpg" data-tags="soundtrack" role="button">
 Harry Gregson-Williams - The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005-12-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">
-宇多田ヒカル - Passion (2005-12-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/5bf551f7-96be-3f50-8ae4-9895eb26af9a/7965698121-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Sing-A-Longs and Lullabies For The Film Curious George (2006-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e514a7f6-34a6-4327-b218-8e490e99b5c0/8258928983-500.jpg" data-tags="soundtrack, orchestral, globus" role="button">
 Globus - Epicon (2006-08-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">
+Tenacious D - The Pick of Destiny (2006-09-26)
 </li>
 <li data-cover="https://img.discogs.com/wlpdR9G9uNwA73eCGfS9NIErWh8=/fit-in/560x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719826-1158229502.jpeg.jpg" data-tags="football" role="button">
 Mogwai - Zidane: A 21st Century Portrait (2006-10-23)
@@ -221,9 +221,6 @@ James Newton Howard - I Am Legend (2008-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
-</li>
-<li data-cover="https://img.discogs.com/z9cGbp_KC4qv_H655zcFF9TMEIM=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5386079-1415292136-2085.jpeg.jpg" data-tags="electronic" role="button">
-The Black Ghosts - The Black Ghosts (2008-06-16)
 </li>
 <li data-cover="https://img.discogs.com/EO4tmF4L3bRSVSeSkTD5aNzF3Ak=/fit-in/506x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486045-1309206695.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
@@ -276,9 +273,6 @@ Glee Cast - Glee: The Music Presents The Warblers (2011-04-19)
 <li data-cover="http://coverartarchive.org/release/8edf7d27-a94d-425a-9ce7-9b497b61e8e7/1210446198-500.jpg" data-tags="western" role="button">
 Danger Mouse & Daniele Luppi - Rome (2011-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/3d6778bb-8189-4a6b-bd17-fcff45c1302b/7406048154-500.jpg" data-tags="soundtrack, x-men, marvel, score, superhero" role="button">
-Henry Jackman - X-Men: First Class (2011-05-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/09b18d6a-da34-4671-b1a7-3ea4f8fe571d/3251479274-500.jpg" data-tags="soundtrack" role="button">
 Ramin Djawadi - Game of Thrones (2011-06-14)
 </li>
@@ -311,6 +305,12 @@ Howard Shore - The Hobbit: An Unexpected Journey (2012-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8b1da1c-0680-44e5-bcf5-71aec47c8d46/19983444195-500.jpg" data-tags="soundtrack, instrumental, post-rock" role="button">
 Mogwai - Les Revenants (2013-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8440d67b-e5f6-4836-8496-fa3c8f207ea5/5344526170-500.jpg" data-tags="soundtrack" role="button">
+Gustavo Santaolalla - The Last of Us (2013-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b157b7a4-32d7-476d-8012-3aaefe1fa6b3/6585909620-500.jpg" data-tags="orange is the new black" role="button">
+Regina Spektor - You've Got Time (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cebfc2b0-df0c-4a02-bde8-589a1c1b55ff/4755938155-500.jpg" data-tags="soundtrack" role="button">
 Explosions In The Sky & David Wingo - Prince Avalanche: An Original Motion Picture Soundtrack (2013-08-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:51:02.099Z
+date: 2021-04-04T20:38:01.455Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg" data-tags="alternative, 80s" role="button">
-Sonic Youth - Daydream Nation (1988-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
 </li>
@@ -90,6 +87,9 @@ Björk - Homogenic (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Without You I'm Nothing (1998-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
+Red Hot Chili Peppers - Californication (1999-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
 </li>
@@ -125,6 +125,9 @@ System of a Down - Toxicity (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">
 The Cure - Greatest Hits (2001-11-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Red Hot Chili Peppers - By the Way (2002-06-08)
 </li>
 <li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
@@ -207,11 +210,11 @@ The All-American Rejects - Move Along (2006)
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
 Placebo - Meds (2006-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
+Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
-Keane - Under the Iron Sea (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
@@ -239,9 +242,6 @@ Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
 Linkin Park - Minutes to Midnight (2007-05-11)
-</li>
-<li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
-The Used - Lies For The Liars (2007-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">
 Biffy Clyro - Puzzle (2007-05-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:04:01.285Z
+date: 2021-04-04T20:06:02.135Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -117,7 +117,7 @@ José González - Veneer (2003-10)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/db367585-903f-4e9b-94f9-02093795dc2f/14971932845-500.jpg" data-tags="acoustic" role="button">
@@ -131,9 +131,6 @@ James Blunt - Back to Bedlam (2004-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
 Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/fc2b4c7a-a7e3-4756-bcec-cd3e9a2ce4b7/28392699788-500.jpg" data-tags="acoustic" role="button">
-Fall Out Boy - My Heart Will Always Be the B-Side to My Tongue (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
@@ -245,6 +242,9 @@ She & Him - Volume One (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
+The Script - The Script (2008-08-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Joshua Radin - Simple Times (2008-09-30)

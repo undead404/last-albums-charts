@@ -1,9 +1,10 @@
 ---
-date: 2021-04-04T16:38:01.423Z
+date: 2021-04-04T20:42:01.430Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">Red Hot Chili Peppers - Californication (1999-06-07)</li>
 <li data-cover="https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">Coldplay - A Rush of Blood to the Head (2002-08-12)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
@@ -11,7 +12,6 @@ title: "rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/aefcf53b-5980-463b-b03d-a6c8da6a9432/2432254769-500.jpg" data-tags="alternative rock, rock" role="button">Muse - Black Holes and Revelations (2006-06-28)</li>
-<li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">Linkin Park - Minutes to Midnight (2007-05-11)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
 </ol>
@@ -30,9 +30,6 @@ The Rolling Stones - Let It Bleed (1969-11-29)
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
-Iggy Pop - Lust For Life (1977-08-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
@@ -44,6 +41,9 @@ Pearl Jam - Ten (1991-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg" data-tags="grunge" role="button">
 Nirvana - Nevermind (1991-09-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
+Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
 </li>
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
@@ -75,11 +75,11 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
-Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Without You I'm Nothing (1998-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
+Red Hot Chili Peppers - Californication (1999-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
@@ -108,9 +108,6 @@ Radiohead - Kid A (2000-08-03)
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
-Gorillaz - Gorillaz (2001-03-24)
-</li>
 <li data-cover="https://img.discogs.com/V6pdlLTilI4qE9xPoW01G6E89qc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494256-1591098542-4138.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
 </li>
@@ -131,6 +128,9 @@ P.O.D. - Satellite (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
 Nickelback - Silver Side Up (2001-09-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Red Hot Chili Peppers - By the Way (2002-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
 Coldplay - A Rush of Blood to the Head (2002-08-12)
@@ -207,9 +207,6 @@ Lifehouse - Lifehouse (2005-03-22)
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">
-System of a Down - Mezmerize (2005-05-16)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
 </li>
@@ -233,6 +230,9 @@ The All-American Rejects - Move Along (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
 Placebo - Meds (2006-03-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
+Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
@@ -267,6 +267,9 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/b95d3a86-6640-4a02-850a-2b842ad601d3/2663904426-500.jpg" data-tags="rock" role="button">
+Red Hot Chili Peppers - Greatest Hits (2008)
+</li>
 <li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
 Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
 </li>
@@ -299,9 +302,6 @@ Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/6221bd54-033d-4876-b722-736b4e95686b/4193279921-500.jpg" data-tags="alternative rock" role="button">
-30 Seconds to Mars - This Is War (2009-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)

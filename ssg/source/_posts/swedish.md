@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:53:01.289Z
+date: 2021-04-04T20:27:01.290Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -48,7 +48,7 @@ Kent - Verkligen (1996-03-15)
 <li data-cover="http://coverartarchive.org/release/6f7a28b7-c6e0-4a65-870e-7e9e82d33511/4520869611-500.jpg" data-tags="90s, pop" role="button">
 The Cardigans - First Band On The Moon (1996-08-10)
 </li>
-<li data-cover="https://img.discogs.com/iKzxIfyvRbAxGW8RjrkLomw4Pf0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2111775-1349454043-3535.jpeg.jpg" data-tags="pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/YsVqhvK0qV7-RerYVxQQFLD4FkI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070709-1369907392-5537.jpeg.jpg" data-tags="pop, 90s" role="button">
 Eagle-Eye Cherry - Desireless (1997)
 </li>
 <li data-cover="https://img.discogs.com/z2LDdrcrJCZrsCEHspi5LC0Ww_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418547-1274954407.jpeg.jpg" data-tags="swedish" role="button">
@@ -180,9 +180,6 @@ Little Dragon - Little Dragon (2007-08-15)
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
 </li>
-<li data-cover="https://img.discogs.com/W0MWLlxLuJqQ06UhJPcSog5899Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2160872-1271274610.jpeg.jpg" data-tags="indie, swedish" role="button">
-Sambassadeur - Migration (2007-10-24)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, swedish" role="button">
 Mando Diao - Never Seen The Light Of Day (2007-10-24)
 </li>
@@ -272,6 +269,9 @@ Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
+Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)

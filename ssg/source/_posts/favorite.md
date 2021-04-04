@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:48:01.298Z
+date: 2021-04-04T20:22:01.332Z
 title: "favorite: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
-Cocteau Twins - Treasure (1984-10-01)
 </li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
@@ -90,9 +87,6 @@ Lifehouse - No Name Face (2000-10-31)
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">
 Evanescence - Origin (2000-11-04)
 </li>
-<li data-cover="https://img.discogs.com/Ibc3g8neRWGeMlXTjKh7Ue6p2I8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1069108-1445584448-4000.jpeg.jpg" data-tags="indie pop, indie rock" role="button">
-Beulah - The Coast Is Never Clear (2001-09-11)
-</li>
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
 Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
@@ -153,7 +147,7 @@ Animal Liberation Orchestra - Fly Between Falls (2004)
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -201,11 +195,11 @@ Valencia - This Could Be A Possibility (2005-10-25)
 <li data-cover="http://coverartarchive.org/release/c476a6f5-c19a-4b3b-980e-d55d9bc04f5b/6626840041-500.jpg" data-tags="indie rock, favorite" role="button">
 Grizzly Bear - Sorry for the Delay (2006-05-08)
 </li>
+<li data-cover="https://img.discogs.com/0g8A8Ic0qyE1JbqnSZo3mewZPl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-707924-1198936469.gif.jpg" data-tags="singer-songwriter" role="button">
+Kimya Dawson - Remember That I Love You (2006-05-09)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Format - Dog Problems (2006-05-18)
-</li>
-<li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
-Sonic Youth - Rather Ripped (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
@@ -311,6 +305,12 @@ Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e32719b7-0528-479c-992e-1b5ec4ebbb4a/9148397078-500.jpg" data-tags="pop" role="button">
 Ariana Grande - Yours Truly (2013-08-30)
+</li>
+<li data-cover="https://img.discogs.com/bgj3yiaNp1C_Oxny3snUdFmPM9w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4921269-1407753374-6918.jpeg.jpg" data-tags="pop" role="button">
+Zendaya - Zendaya (2013-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0601aa6-6ce3-43fd-be1a-9e72193baa91/5673050664-500.jpg" data-tags="favorite" role="button">
+Keane - The Best of Keane (2013-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)

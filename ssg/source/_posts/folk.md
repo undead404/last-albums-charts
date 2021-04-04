@@ -1,10 +1,10 @@
 ---
-date: 2021-04-04T19:10:01.353Z
+date: 2021-04-04T20:20:01.346Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
+<li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">Nick Drake - Pink Moon (1972-02-25)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">Fleet Foxes - Fleet Foxes (2006)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
@@ -29,6 +29,9 @@ Bob Dylan - Blonde on Blonde (1966-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/25e398a4-8a0a-4ab3-9d0d-128dc6106511/23069826567-500.jpg" data-tags="60s, art rock" role="button">
 Nico - Chelsea Girl (1967-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/4fd118e2-1298-3a33-b870-839e336472f3/20585904865-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, 60s" role="button">
 Van Morrison - Astral Weeks (1968-11)
@@ -57,14 +60,11 @@ Nick Drake - Pink Moon (1972-02-25)
 <li data-cover="http://coverartarchive.org/release/477bb8aa-5413-37c5-8f1a-f9ca7a36c9d3/22089606298-500.jpg" data-tags="james taylor, folk" role="button">
 James Taylor - Greatest Hits (1976-11-01)
 </li>
-<li data-cover="https://img.discogs.com/f1eLTUp1bvgCyg5_q--1Zn8ve2o=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3899366-1348948231-6112.jpeg.jpg" data-tags="80s, folk" role="button">
+<li data-cover="https://img.discogs.com/5W_wJIAniozRh5IbN774huX2nns=/fit-in/416x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4769978-1375003538-8396.jpeg.jpg" data-tags="80s, folk" role="button">
 Paul Simon - Graceland (1986-08-29)
 </li>
 <li data-cover="https://img.discogs.com/RpS2IyO3bvCmc5pKPmtFwkQyvTk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539880-1367879495-2791.jpeg.jpg" data-tags="folk" role="button">
 Tracy Chapman - Tracy Chapman (1988-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
-Elliott Smith - Either/Or (1997-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
@@ -74,9 +74,6 @@ Elliott Smith - Figure 8 (2000-04-17)
 </li>
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
 Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
-</li>
-<li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
-Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
@@ -108,10 +105,10 @@ Iron & Wine - Our Endless Numbered Days (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, 2004, freak folk" role="button">
+<li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, indie" role="button">
+<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
@@ -122,6 +119,9 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/e1eb508e-06ac-4f4d-949d-e836726ac258/10364697005-500.jpg" data-tags="folk, acoustic, indie" role="button">
+Iron & Wine - Woman King (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
 Мельница - Перевал (2005-03-25)
