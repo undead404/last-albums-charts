@@ -1,17 +1,17 @@
 ---
-date: 2021-04-04T03:48:01.307Z
+date: 2021-04-04T06:13:01.224Z
 title: "french: 100 albums you must listen to before you die"
 ---
-![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
+![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">Phoenix - United (2000-06)</li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Discovery (2001-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/15f6f9f4-7777-37d6-96fa-94128984a887/15915400773-500.jpg" data-tags="french" role="button">Carla Bruni - Quelqu'un m'a dit (2002-11-05)</li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">Phoenix - Alphabetical (2004-03-21)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, french" role="button">Phoenix - It's Never Been Like That (2006-05-10)</li>
-<li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)</li>
-<li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">David Guetta - One Love (2009-08-21)</li>
+<li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
+<li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">Phoenix - It's Never Been Like That (2006-05-10)</li>
+<li data-cover="http://coverartarchive.org/release/114af478-2f11-4832-8db2-f52b04ec90e1/6440753475-500.jpg" data-tags="french" role="button">Yelle - Pop Up (2007-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/851588f7-9cdb-473f-96d0-21680c4a383c/2466705356-500.jpg" data-tags="electronic" role="button">Kavinsky - Nightcall (2010-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">Stromae - Racine Carrée (2013-08-16)</li>
 </ol>
@@ -21,20 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f4875bbd-b7f8-4df0-837c-89263f1c63e5/1150026001-500.jpg" data-tags="french" role="button">
-Édith Piaf - La vie en rose (1956)
+<li data-cover="http://coverartarchive.org/release/9ff37092-613f-4016-a999-474e2e8bff19/21185090361-500.jpg" data-tags="french" role="button">
+Françoise Hardy - Comment te dire adieu (1968-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8619cf91-e23d-4621-971f-e9de7a5959bd/1227299847-500.jpg" data-tags="80s, french" role="button">
-Vanessa Paradis - M & J (1987)
+<li data-cover="http://coverartarchive.org/release/1f016a24-156b-4216-a145-3a0cb53eeb79/1158403439-500.jpg" data-tags="french" role="button">
+Serge Gainsbourg - Histoire de Melody Nelson (1971-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36e9428-8c2a-4536-b9a7-4e1e2b5bd28d/1171631272-500.jpg" data-tags="french" role="button">
 Mylène Farmer - Ainsi soit je... (1988-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1ad7be1-8f4e-4de3-a062-d5c54d04343b/4058390511-500.jpg" data-tags="rock, rock francais" role="button">
-Noir Désir - Tostaky (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/86db16e8-deb7-492c-91f4-7dfdf7486644/4049316575-500.jpg" data-tags="french" role="button">
-Édith Piaf - 30e Anniversaire (1994)
+<li data-cover="https://img.discogs.com/-Nw5rj7oFyxs-0Zrs6KpE5WQVJw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-499126-1451148309-9499.jpeg.jpg" data-tags="french" role="button">
+Vanessa Paradis - Vanessa Paradis (1992-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a60b0f5-9a20-385c-9972-a0a4cf89f729/24001891419-500.jpg" data-tags="instrumental" role="button">
 Yann Tiersen - La Valse Des Monstres (1995-06-13)
@@ -51,23 +48,23 @@ Noir Désir - 666.667 Club (1996-11)
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f1d1cd5-9d9c-40cb-ad6c-ef84b622d1af/1149227374-500.jpg" data-tags="chillout, electronic, electronica, french, ambient, sun and moon and stars and outer space" role="button">
-Air - Le Soleil Est Près De Moi (1997-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/d93681aa-2216-3c88-92c4-552d943c9226/1166895013-500.jpg" data-tags="rock, french" role="button">
 Louise Attaque - Louise Attaque (1997-04-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8820a55-fd21-4300-880a-663799d7e4eb/27151523699-500.jpg" data-tags="electronic" role="button">
-Air - Premiers Symptômes (1997-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">
+Pink Martini - Sympathique (1997-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d7c82e6-c3bb-38a9-96f0-5626158e3276/6598464730-500.jpg" data-tags="french, rock, breton" role="button">
-Matmatah - La Ouache (1998-06-05)
+<li data-cover="http://coverartarchive.org/release/4e7853d8-15a1-3615-ade4-ca49952c87a1/1166430931-500.jpg" data-tags="french" role="button">
+Yann Tiersen - Le Phare (1998-02-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/cb844a4d-c02f-3199-b949-1656b36722da/8145217760-500.jpg" data-tags="house" role="button">
+Cassius - 1999 (1999-01-25)
 </li>
 <li data-cover="https://img.discogs.com/nfpVLFLWCYukAEornjgubaLN84U=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418372-1359143251-5541.jpeg.jpg" data-tags="french, pop" role="button">
 Mylène Farmer - Innamoramento (1999-06-02)
@@ -75,23 +72,17 @@ Mylène Farmer - Innamoramento (1999-06-02)
 <li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
 Mr. Oizo - Analog Worms Attack (1999-10-19)
 </li>
-<li data-cover="https://img.discogs.com/lpvWi9yGP9GViwHwX9DAAKZdiqc=/fit-in/407x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11035274-1508659217-5430.jpeg.jpg" data-tags="french, rock" role="button">
-Saez - Jours Etranges (1999-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/f5d2768e-66ad-42a7-8bc4-f6fbfccfa81c/1230967625-500.jpg" data-tags="french, pop, french pop" role="button">
 Alizée - Gourmandises (2000)
 </li>
-<li data-cover="https://img.discogs.com/7N233gEnbaxt1uNa-VilU2dLUpg=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590712-1479801787-6505.jpeg.jpg" data-tags="french, rock" role="button">
-Louise Attaque - Comme On A Dit (2000-01-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/503cb223-719b-332f-bd81-8d3e182a0308/1171048477-500.jpg" data-tags="techno, electronic" role="button">
-Laurent Garnier - Unreasonable Behaviour (2000-02-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/ffb01eed-88d2-43da-baa8-f58391ae309f/21020293449-500.jpg" data-tags="french" role="button">
-Keren Ann - La biographie de Luka Philipsen (2000-04)
+<li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
+Air - The Virgin Suicides (2000-02-25)
 </li>
 <li data-cover="https://img.discogs.com/r2SQuPuMEuoDJ-tZDZBbc0UuB_8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467570-1225318253.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
 Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3000089-a5ec-4d2a-b749-1fbbe7c9a134/1285984528-500.jpg" data-tags="acid jazz, electronic" role="button">
+St. Germain - Tourist (2000-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">
 Phoenix - United (2000-06)
@@ -105,10 +96,16 @@ Daft Punk - Discovery (2001-02-26)
 <li data-cover="http://coverartarchive.org/release/e267e17d-167e-4327-942a-6265ff3fc557/1166410528-500.jpg" data-tags="french, yann tiersen" role="button">
 Yann Tiersen - L'absente (2001-04-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/71932455-067b-4fcb-b9e4-2cb16da0bb96/1383827288-500.jpg" data-tags="soundtrack" role="button">
+Yann Tiersen - Amélie (2001-04-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">
+Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, french, rock francais" role="button">
+<li data-cover="https://img.discogs.com/53Tz0CJG4X9gV8LqzeDCjhd-JRg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930839-1607373839-6824.jpeg.jpg" data-tags="rock, french, rock francais" role="button">
 Noir Désir - des Visages des Figures (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa48ac28-57e0-3019-ba97-db523a26471e/7733173920-500.jpg" data-tags="house, electronic" role="button">
@@ -117,29 +114,20 @@ Modjo - Modjo (2001-09-19)
 <li data-cover="http://coverartarchive.org/release/cc85b1de-cf7e-3241-9022-fea31857beab/16360798338-500.jpg" data-tags="electronic, electronica, french, electro, house, live, daft punk" role="button">
 Daft Punk - Alive 1997 (2001-10-01)
 </li>
-<li data-cover="https://img.discogs.com/m6Uz3orsCT-QfcuvqYMeRFs0Xdc=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13226062-1550299154-1792.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
-Mylène Farmer - Les Mots (2001-11-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/130786fd-24e3-4ef9-a6d2-8665cb2afdab/15467078716-500.jpg" data-tags="electronic, soundtrack, french" role="button">
 Thomas Bangalter - IRREVERSIBLE (2002-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/cb150add-fee7-4dc6-a725-030fe6e93ae4/1512679712-500.jpg" data-tags="rock" role="button">
-Kyo - Le Chemin (2002-11)
+<li data-cover="https://img.discogs.com/W0wwkHI4D6k-4T5qrNxcWdPphBM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522360-1427056574-2698.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
+Camille - Le Sac Des Filles (2002-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/15f6f9f4-7777-37d6-96fa-94128984a887/15915400773-500.jpg" data-tags="french" role="button">
 Carla Bruni - Quelqu'un m'a dit (2002-11-05)
 </li>
-<li data-cover="https://img.discogs.com/o9fqJVAiCJtCpRF9G32DpHJ252Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1629918-1233260087.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
-M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
+<li data-cover="http://coverartarchive.org/release/2d41f2db-27fe-4bd8-af53-2f1a29435276/19380694738-500.jpg" data-tags="reggae, french" role="button">
+Tryo - Grain De Sable (2003-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e01caaab-6482-4134-abde-84acb3d5a0ae/13381384015-500.jpg" data-tags="electronic, electroclash, synthpop, electro, electro-pop" role="button">
-Vive La Fête - Nuit Blanche (2003-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e12e581-8166-487b-97e8-6373e736d77e/1670737064-500.jpg" data-tags="french, chanson francaise" role="button">
-CALI - L'amour Parfait (2003-08-19)
-</li>
-<li data-cover="https://img.discogs.com/plM0Re1HSNUkgca4IEeaA2_FXq8=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14474744-1575266046-8538.jpeg.jpg" data-tags="house, electronic" role="button">
-Daft Punk - Daft Club (2003-11-27)
+<li data-cover="https://img.discogs.com/IsfWljFvoNEBrzLWnVnAS7FChPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400254-1111878087.jpg.jpg" data-tags="french" role="button">
+Keren Ann - Not Going Anywhere (2003-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/12bb0541-cfd9-42dc-b883-b81c5aa7a2c8/1331165096-500.jpg" data-tags="electronic, french" role="button">
 Sébastien Tellier - Politics (2004-01-05)
@@ -150,20 +138,20 @@ Air - Talkie Walkie (2004-01-21)
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ae59a90-6a70-3305-a527-6b8bfb1c39bd/8464425666-500.jpg" data-tags="french" role="button">
-Jane Birkin - RENDEZ-VOUS (2004-03-29)
-</li>
 <li data-cover="https://img.discogs.com/RW0QIUVFNHexMJIdXH0bli_becI=/fit-in/166x166/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1842257-1384389996-8644.jpeg.jpg" data-tags="french, rock, rock francais" role="button">
 Luke - La Tête en Arrière (2004-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/df3fac3a-e4fc-4d8c-954c-47e72ebd8db3/9951733908-500.jpg" data-tags="french, female vocalists, female vocalist, girl power, pifou station, rock francais, light pop, lolitas, chanteuse sexy, scene francaise" role="button">
-Superbus - Pop'N'Gum (2004-06)
+<li data-cover="http://coverartarchive.org/release/a7835a07-5b53-442e-91aa-4c567949e946/23636817684-500.jpg" data-tags="chanson francaise, french" role="button">
+Georges Brassens - Les copains d'abord (2004-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/83d94aaf-599a-4733-b113-b556e1a99385/6462198209-500.jpg" data-tags="french, german, 00s, emusic, stereo total, frances, glittering raspberry dancefloors, disko b, 21st century, records and tapes, edge of the world radio, barturismooth, fransk electronic" role="button">
-Stereo Total - Do the Bambi (2005-01-25)
+<li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
+Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/7b502429-072f-4c58-97b4-6547310d9f4a/16183335644-500.jpg" data-tags="electronica, french" role="button">
-Tahiti 80 - Fosbury (2005-02-23)
+<li data-cover="https://img.discogs.com/UgT_AXSIrCgrDwDdeLAm2fbsARM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1561726-1327096380.jpeg.jpg" data-tags="french" role="button">
+Camille - Le Fil (2005-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/e423f7c7-05ed-446f-9c62-73f9d1d17da0/2220219941-500.jpg" data-tags="french" role="button">
+Pauline Croze - Pauline Croze (2005-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
@@ -171,19 +159,19 @@ Daft Punk - Human After All (2005-03-09)
 <li data-cover="https://img.discogs.com/HyWH94_-BHggUZGg_A6ezuWAcnQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478836-1119637408.jpg.jpg" data-tags="classic rock, french, indie, rock, alternative, alternative rock, folk, ambient, singer-songwriter, 00s, life is strange" role="button">
 Syd Matters - Someday We Will Foresee Obstacles (2005-04-05)
 </li>
-<li data-cover="https://img.discogs.com/Hg-rptamWsdjOsM0Eom2CUjQX_g=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6868296-1428342576-8699.png.jpg" data-tags="electronic" role="button">
-Justice - Justice (2005-08-02)
+<li data-cover="http://coverartarchive.org/release/489287ff-44ee-4e14-9653-3a257980d728/2716213344-500.jpg" data-tags="instrumental, french" role="button">
+Yann Tiersen - Les Retrouvailles (2005-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/09b990ff-80df-4475-86bb-d7cda3c50579/6459993627-500.jpg" data-tags="female vocalists" role="button">
 Céline Dion - On ne change pas (2005-10-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/2293f622-6a63-4c3c-b816-4a5e136a7278/2461177010-500.jpg" data-tags="french" role="button">
-Rose - Rose (2006)
+<li data-cover="https://img.discogs.com/5NzomrBRvZRiL8RXz2gj4fs24dQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2056303-1303495712.gif.jpg" data-tags="french, chanson francaise, female vocalists" role="button">
+Olivia Ruiz - La Femme Chocolat (2005-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/78fc0451-98c4-4708-a0de-e9bdff492488/1529636690-500.jpg" data-tags="chillout, electronic, nu-jazz, triphop" role="button">
 Alif Tree - French Cuisine (2006-02-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, french" role="button">
+<li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fe94139-df63-4e51-b2e7-a1d53535cdd9/7145334932-500.jpg" data-tags="lounge" role="button">
@@ -195,38 +183,35 @@ Charlotte Gainsbourg - 5:55 (2006-08-11)
 <li data-cover="http://coverartarchive.org/release/671c4c2b-ff73-3050-9a5a-83f538da8401/7109875918-500.jpg" data-tags="electronic, yelle" role="button">
 Yelle - Je Veux Te Voir (2006-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2395452-5ff5-3db7-a472-396e9ff994bf/25664690442-500.jpg" data-tags="electro, disco, dance, 00s" role="button">
-Cassius - 15 Again (2006-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/fa8e3a29-566b-41bb-a7b9-a9e8f9a9bebe/18292135864-500.jpg" data-tags="electronic, french" role="button">
-Darkel - Darkel (2006-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
 Air - Pocket Symphony (2006-12)
 </li>
-<li data-cover="https://img.discogs.com/BZV_v9Hb1f5_kQqNB3dw3JZxneo=/fit-in/591x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1197340-1244985314.jpeg.jpg" data-tags="french" role="button">
-Zazie - Totem (2007-02-12)
+<li data-cover="https://img.discogs.com/37zEKcr5vX98EmnB-RdqKF8wH4I=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1292030-1206984639.jpeg.jpg" data-tags="chanson" role="button">
+Carla Bruni - No Promises (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/15fc4503-bac1-4209-8082-2cee83b4a67c/28922662006-500.jpg" data-tags="electro, french" role="button">
 Kavinsky - 1986 (2007-03-04)
 </li>
-<li data-cover="https://img.discogs.com/M5XoAihsoC5sX0_DB5py0UhnGug=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1569471-1507134506-2210.jpeg.jpg" data-tags="french, rock francais" role="button">
-BB Brunes - Blonde Comme Moi (2007-03-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/92242aa8-401f-4518-9d92-c1cd1587637d/2228786168-500.jpg" data-tags="electronic, electro, french" role="button">
 Teenage Bad Girl - Cocotte (2007-03-26)
+</li>
+<li data-cover="https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg" data-tags="house, dance" role="button">
+David Guetta - Pop Life (2007-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d3647f9-399c-46d3-975e-69ce463e393b/1227119338-500.jpg" data-tags="french" role="button">
 Vanessa Paradis - Divinidylle (2007-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/114af478-2f11-4832-8db2-f52b04ec90e1/6440753475-500.jpg" data-tags="french" role="button">
+Yelle - Pop Up (2007-09-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/59af82be-93cb-4216-922f-ca0a88ab7d95/1331122437-500.jpg" data-tags="french, chanson francaise, chanson" role="button">
+Benjamin Biolay - Trash yéyé (2007-09-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/250e7379-67ab-42db-a101-023269183bdf/5499913556-500.jpg" data-tags="electronic, electro" role="button">
 Danger - 09/14 2007 (2007-11-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/583f44a4-ed8e-3b76-85e1-b79736702166/19205144537-500.jpg" data-tags="pop, french" role="button">
-Alizée - Psychédélices (2007-11-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/4bb86f81-b5ba-471f-927e-1d7c81bcd4cb/2903088736-500.jpg" data-tags="indie, folk" role="button">
-The Dø - A Mouthful (2008-01-01)
+<li data-cover="https://img.discogs.com/xJl7hV5NKM9p40y46f46oOR7Xm4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1312120-1208717633.jpeg.jpg" data-tags="french" role="button">
+Sexy Sushi - Marre marre marre (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/e03c4b7c-8905-3a0f-88a0-39d3790d99ab/24223406985-500.jpg" data-tags="french" role="button">
 Sébastien Tellier - Sexuality (2008-02-25)
@@ -234,11 +219,23 @@ Sébastien Tellier - Sexuality (2008-02-25)
 <li data-cover="http://coverartarchive.org/release/66db2af0-7d53-4ca4-80af-2ed8b115cd61/1269482564-500.jpg" data-tags="french" role="button">
 Alain Bashung - Bleu Pétrole (2008-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/6ae38486-afd2-4125-98a8-36f2e7dd50bd/2461174137-500.jpg" data-tags="french" role="button">
+Surkin - Next of Kin EP (2008-03-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/3370576f-9236-30df-939a-bdb1760b308a/1633159472-500.jpg" data-tags="french, female vocalists" role="button">
 Camille - Music Hole (2008-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/df1412da-a353-4319-ba90-49c08c216a08/2941982804-500.jpg" data-tags="french, electro, new wave, valerie, 80s groove, electro synth rock, analog synth fetish, horstaxe, minitel rose french machine" role="button">
+Minitel Rose - The French Machine (2008-05-28)
+</li>
+<li data-cover="https://img.discogs.com/oT3kqpCSdKyBDBrlXht_-sEp190=/fit-in/470x415/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6851137-1427979077-9579.jpeg.jpg" data-tags="french, pop" role="button">
+Mylène Farmer - Point De Suture (2008-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b6c0feb9-0ab2-4251-95ea-031beb543bd5/3273909214-500.jpg" data-tags="electro-swing" role="button">
+Caravan Palace - Caravan Palace (2008-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
@@ -246,17 +243,11 @@ Birdy Nam Nam - Manual for successful rioting (2009-01-01)
 <li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f1174b8-078e-3f61-af37-1cc8ff4d35bd/25786408085-500.jpg" data-tags="french, folk" role="button">
-Yodelice - Tree Of Life (2009-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
 Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/34375ad9-5765-4894-810c-bb457f60b702/3832887948-500.jpg" data-tags="french, electropop, horses and ponies and unicorns too" role="button">
 Pony Pony Run Run - You Need Pony Pony Run Run (2009-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/dac5bddc-3197-4a8f-8149-e217794e451e/23384424884-500.jpg" data-tags="bossa nova, female vocalists, covers" role="button">
-Nouvelle Vague - 3 (2009-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
@@ -273,14 +264,8 @@ CocoRosie - Grey Oceans (2010-04-30)
 <li data-cover="http://coverartarchive.org/release/9703802c-0108-40fb-865c-0bbf17960c98/6816205914-500.jpg" data-tags="jazz, chanson" role="button">
 Zaz - Zaz (2010-05-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/WA0CEnoechp6NQSvei2aorzf5u4=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2907119-1581926315-2145.jpeg.jpg" data-tags="post-rock" role="button">
 Yann Tiersen - Dust Lane (2010-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5dcfc63-6c57-3ec1-8405-6e7a148e1cca/3825741259-500.jpg" data-tags="french" role="button">
-Cocoon - Where The Oceans End (2010-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/861f19ad-1239-3326-a7ce-53cc4b6d3f3a/8128774189-500.jpg" data-tags="hip-hop, french, punk, alternative rap, stupéfiant" role="button">
-Stupeflip - The hypnoflip invasion (2011-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
@@ -291,17 +276,17 @@ Mélanie Laurent - En t'attendant (2011-05-02)
 <li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
 Sebastian - Total (2011-05-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Audio, Video, Disco (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
 </li>
-<li data-cover="https://img.discogs.com/NExlwrQxfUa_WnlXcdO9b3RxWzk=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3296111-1324464033.jpeg.jpg" data-tags="french, pop" role="button">
-Lescop - Lescop (2011-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d38eff7e-ba07-45f1-8e46-9b4e230628cb/3005956305-500.jpg" data-tags="french, female vocalist" role="button">
 Cœur de Pirate - Blonde (2011-11-07)
+</li>
+<li data-cover="https://img.discogs.com/EgPzLwYLXSptMO8AE23vB27jK2U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6150173-1412369108-9486.jpeg.jpg" data-tags="french, sexion" role="button">
+Sexion d'Assaut - Avant qu'elle parte (2012-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0bed13e-2607-4c6d-93f0-d4ad26e962a8/1549011683-500.jpg" data-tags="electronic, french, dance, house, disco house, poptron, madeon" role="button">
 Madeon - Finale (2012-07-16)
@@ -309,8 +294,23 @@ Madeon - Finale (2012-07-16)
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/44217cae-f225-4d3c-919b-cd6d70fe392c/3452445494-500.jpg" data-tags="electronic, synthwave" role="button">
+Kavinsky - OutRun (2013-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/ddf07d7e-3261-481d-82b4-1bd7663ba979/2805075649-500.jpg" data-tags="indie, symphonic pop" role="button">
+Woodkid - The Golden Age (2013-03-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
+Phoenix - Bankrupt! (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/df9faff1-73c8-4446-a231-81760b634c9d/22396315891-500.jpg" data-tags="french, jazz" role="button">
+Zaz - Recto Verso (2013-05-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/73e0b6cc-cc6e-4a94-acfb-328d70e4ccef/4486917629-500.jpg" data-tags="french, hip hop, french montana" role="button">
+French Montana - Excuse My French (2013-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)

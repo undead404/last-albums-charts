@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:04:01.275Z
+date: 2021-04-04T06:26:01.258Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -57,10 +57,7 @@ Caravan - In The Land Of Grey And Pink (1971-04-08)
 <li data-cover="http://coverartarchive.org/release/7acaa9ab-048c-3c82-8623-ea9b777137ac/2550522708-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Meddle (1971-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
-Led Zeppelin - Led Zeppelin IV (1971-11-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/H5oODcDFqsTdAgHElEeZewNX7oo=/fit-in/562x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1579909-1229893753.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Wishbone Ash - Argus (1972-04-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
@@ -114,7 +111,7 @@ Rush - Permanent Waves (1980-01-01)
 <li data-cover="http://coverartarchive.org/release/9e1604a5-a7b1-46f4-adff-b5c5a8bd33b0/12748445063-500.jpg" data-tags="progressive rock" role="button">
 Asia - Asia (1982-03-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/Hb-VNYpZT5ZGgTAej-IrH4be7pM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2254121-1468077892-9269.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
@@ -237,6 +234,9 @@ Porcupine Tree - Deadwing (2005-03-28)
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c12794e-79df-4be1-997e-ad100efe8b08/1118860247-500.jpg" data-tags="progressive metal" role="button">
+Dream Theater - Octavarium (2005-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
 </li>
@@ -270,7 +270,7 @@ Fair to Midland - Fables From a Mayfly: What I Tell You Three Times is True (200
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Riverside - Rapid Eye Movement (2007-09-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/AV8GwJYonKfaGh9sRKE_xdNlqFM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101010-1466781999-2255.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Frames (2007-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">

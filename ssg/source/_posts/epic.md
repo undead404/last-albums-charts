@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:25:01.208Z
+date: 2021-04-04T06:29:01.237Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -36,7 +36,7 @@ Queen - News Of The World (1977-10-28)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/Hb-VNYpZT5ZGgTAej-IrH4be7pM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2254121-1468077892-9269.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
@@ -60,7 +60,7 @@ Weezer - Pinkerton (1996-08-24)
 <li data-cover="http://coverartarchive.org/release/524c5a17-1f08-4d05-8bb5-bed5735dd96e/8073215669-500.jpg" data-tags="indie rock" role="button">
 Built to Spill - Perfect From Now On (1997-01-28)
 </li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/GEEoOZtd2541_qWo6f3aULMkR-4=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860384-1193767375.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
@@ -69,17 +69,17 @@ Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
 <li data-cover="http://coverartarchive.org/release/228f0a8f-01a2-3d80-a04c-f19848360e0b/3732943726-500.jpg" data-tags="atmospheric black metal" role="button">
 Summoning - Stronghold (1999-05-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
+The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica, vinyl" role="button">
 The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 </li>
-<li data-cover="https://img.discogs.com/zxQp8NHSvepBQGAdk_wijnPegEs=/fit-in/548x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-437496-1349778731-6583.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/f477086a-4bda-4855-8360-06752f1159f8/12525987749-500.jpg" data-tags="epic, 90s, brasil, live, brazilian rock, legiao urbana" role="button">
 Legião Urbana - Como é que se diz eu te amo (2001-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/2dec60d0-00a4-4ffd-ae4b-69e86f0601dc/2788181181-500.jpg" data-tags="fantasy, ethereal, darkwave, world fusion, female vocalists" role="button">
-Irfan - IRFAN (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
 Emilie Autumn - Enchant (2003-02-26)
@@ -93,7 +93,7 @@ Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
 <li data-cover="http://coverartarchive.org/release/7c0561d3-5460-4b8d-8ff2-3076172c5d49/6506123080-500.jpg" data-tags="folk metal, viking metal" role="button">
 Ensiferum - Iron (2004-04-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+<li data-cover="https://img.discogs.com/zphqQjpNjmUdgLuLC0n9Kw6J3RY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457091-1134415065.jpeg.jpg" data-tags="indie rock, indie" role="button">
 The Fiery Furnaces - Blueberry Boat (2004-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
@@ -150,8 +150,11 @@ Blue Foundation - Life of a Ghost (2007-09-24)
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="live, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/TIttQypuxRcxPI6DIC_3V-p1rpQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783763-1441055360-1612.jpeg.jpg" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="epic, modern hardcore" role="button">
+The Carrier - No Love Can Save Me (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
 Glasvegas - Glasvegas (2008-09-05)
@@ -225,9 +228,6 @@ The White Stripes - Under Great White Northern Lights (2010-03-15)
 <li data-cover="https://img.discogs.com/4NIOxoT-a2t1ccQ8mYQowHC4qg8=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2210927-1296129905.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
-Circa Survive - Blue Sky Noise (2010-04-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
 </li>
@@ -267,9 +267,6 @@ The Rapture - How Deep Is Your Love? (2011-06)
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
-Kate Bush - 50 Words for Snow (2011-11-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/4a6438cd-304a-4240-b118-b8e7b00b252d/1068336894-500.jpg" data-tags="pop" role="button">
 Marina & the Diamonds - Electra Heart (2012-03)
 </li>
@@ -282,16 +279,16 @@ Woodkid - Run Boy Run (2012-05-21)
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
 Dead Can Dance - Anastasis (2012-08-13)
 </li>
-<li data-cover="https://img.discogs.com/3s282UlpBnD_rj261J4uF4RnMak=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3847638-1346738357-4401.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, vinyl, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
+<li data-cover="https://img.discogs.com/SialTdLqfIVngta-WfhyvKRLeMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826540-1345940532-4427.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, vinyl, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
 Dan Deacon - America (2012-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9e51a05-668b-450a-b8b0-778bbed89c76/1777618464-500.jpg" data-tags="post-rock" role="button">
-Mono - For My Parents (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b50bf968-1b2b-41ff-b1f3-b8bd7aa25884/3480184535-500.jpg" data-tags="rock, british, britpop" role="button">
 Robbie Williams - Take The Crown (2012-11-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chill, math rock, progressive metal, progressive rock, prog, epic, hot chocolate, not of this world, instrumental prog metal, god tier chill, legends of chill, not a word was spoken" role="button">
+<li data-cover="http://coverartarchive.org/release/ddf07d7e-3261-481d-82b4-1bd7663ba979/2805075649-500.jpg" data-tags="indie, symphonic pop" role="button">
+Woodkid - The Golden Age (2013-03-14)
+</li>
+<li data-cover="https://img.discogs.com/pscnaQIdudebvxaNvSMSI0KzdJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5012392-1524398620-5370.jpeg.jpg" data-tags="chill, math rock, progressive metal, progressive rock, prog, epic, hot chocolate, not of this world, instrumental prog metal, god tier chill, legends of chill, not a word was spoken" role="button">
 CHON - Newborn Sun (2013-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/90529fbf-9972-49a8-ac03-4319d55a5277/5388170358-500.jpg" data-tags="pop, soul" role="button">
@@ -302,6 +299,9 @@ Katy Perry - PRISM (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/eec4bf03-c26a-48b8-ac6e-8948d4236c3a/6270680266-500.jpg" data-tags="pop" role="button">
 Lady Gaga - Venus (2013-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8e3ca07-71c4-4c15-8675-c49543813138/5643082410-500.jpg" data-tags="pop" role="button">
+Céline Dion - Loved Me Back to Life (2013-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)

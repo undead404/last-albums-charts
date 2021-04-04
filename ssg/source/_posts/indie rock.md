@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:37:01.290Z
+date: 2021-04-04T06:43:01.262Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -126,7 +126,7 @@ Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (2005-10-11)
 <li data-cover="https://img.discogs.com/GZj09Ik8oBlnkfsciUXe30xwx44=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600813-1137121798.jpeg.jpg" data-tags="indie rock" role="button">
 We Are Scientists - With Love And Squalor (2005-10-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/PCmkZ2NyDReemZdjRlMy8WVF6ZU=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-849535-1432632499-7270.jpeg.jpg" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">

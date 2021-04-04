@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:38:01.242Z
+date: 2021-04-04T06:23:01.423Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -116,6 +116,9 @@ Misfits - Static Age (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
+Dropkick Murphys - Do or Die (1998-01-13)
 </li>
 <li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -245,9 +248,6 @@ Simple Plan - Still Not Getting Any (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6bda500-eac7-40c8-ab38-4a88a34da3e0/20975852434-500.jpg" data-tags="punk" role="button">
 Green Day - Holiday (2005-03-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial jungle pussy punk" role="button">
-Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)

@@ -1,13 +1,13 @@
 ---
-date: 2021-04-04T04:49:01.428Z
+date: 2021-04-04T06:37:01.762Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![Slipknot - All Hope Is Gone (2008-08-20)](https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg "Slipknot - All Hope Is Gone (2008-08-20)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
+<li data-cover="http://coverartarchive.org/release/cf33646a-d030-3144-ba3d-234e13634e15/10553190492-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">Deftones - Around the Fur (1997-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/c7e82aec-f36b-45ef-9eb6-0721825b210b/1295812381-500.jpg" data-tags="alternative metal, nu metal" role="button">Deftones - White Pony (2000-05-16)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
-<li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">Stone Sour - Stone Sour (2002-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">Disturbed - Believe (2002-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">Disturbed - Ten Thousand Fists (2005-09-19)</li>
@@ -62,6 +62,12 @@ Tool - Ænima (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal" role="button">
 Marilyn Manson - Antichrist Superstar (1996-10-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
+Faith No More - Album of the Year (1997-06-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/cf33646a-d030-3144-ba3d-234e13634e15/10553190492-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
+Deftones - Around the Fur (1997-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/14971935502-500.jpg" data-tags="hard rock, metal" role="button">
 Godsmack - Godsmack (1998-08-25)
@@ -198,9 +204,6 @@ Drowning Pool - Desensitized (2004-04-20)
 <li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
 Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
-Breaking Benjamin - We Are Not Alone (2004-06-08)
-</li>
 <li data-cover="https://img.discogs.com/Y3ZrWLBHYpX5M-UGLTgRcVZIEvI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063213-1326676273.jpeg.jpg" data-tags="nu metal, rock, hard rock, alternative rock" role="button">
 Papa Roach - Getting Away With Murder (2004-07)
 </li>
@@ -311,9 +314,6 @@ In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/addcfdab-9c0d-44db-9292-41e918d20e16/2616543949-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Koi No Yokan (2012-11-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
-Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
 Linkin Park - The Hunting Party (2014-06-13)

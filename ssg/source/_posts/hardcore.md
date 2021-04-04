@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:33:01.272Z
+date: 2021-04-04T06:34:06.619Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -140,9 +140,6 @@ Bullet for My Valentine - Bullet For My Valentine (2004-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dc65026-cbb4-4319-b83d-ba812a445e8c/3376078822-500.jpg" data-tags="hardcore" role="button">
 Comeback Kid - Wake The Dead (2005-02-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial jungle pussy punk" role="button">
-Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/38a7b60f-5a57-426e-86a5-fa13b3374571/12966651970-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Hand of Blood (2005-04-25)
@@ -317,6 +314,9 @@ Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/44df54f1-4731-4340-9778-1164f47e94f9/4085458651-500.jpg" data-tags="post-hardcore" role="button">
 Falling in Reverse - The Drug In Me Is You (2011-06-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
+Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)

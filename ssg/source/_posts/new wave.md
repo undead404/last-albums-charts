@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:11:01.276Z
+date: 2021-04-04T06:04:01.239Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -231,7 +231,7 @@ Billy Idol - Rebel Yell (1991-04)
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
-<li data-cover="https://img.discogs.com/k-lY7gev3mso8XIlXXCEZfUftec=/fit-in/231x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-425608-1273860225.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/T1N1f1AXU1XTKd-IPo2E4YM5Cms=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1771648-1245254037.jpeg.jpg" data-tags="electronic" role="button">
 Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/127b9b29-4252-463b-9d9a-30b888c19867/9417557840-500.jpg" data-tags="electronic, synthpop, 90s" role="button">
@@ -249,9 +249,6 @@ New Order - Get Ready (2001-06-18)
 <li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">
 The Cure - Greatest Hits (2001-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
-The Cure - The Cure (2004-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/f93f57ee-1901-4875-ab28-d764eed791a9/5375570311-500.jpg" data-tags="rock, new wave, 80s" role="button">
 Talking Heads - The Best of Talking Heads (2004-08-17)
 </li>
@@ -267,7 +264,7 @@ The Veronicas - Hook Me Up (2007-09-22)
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electropop" role="button">
+<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
 Ladyhawke - Ladyhawke (2008-09-15)
 </li>
 <li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">
@@ -314,6 +311,9 @@ The Strokes - Comedown Machine (2013-03-22)
 </li>
 <li data-cover="https://img.discogs.com/gqV7z6TvbtaV1-ZYmoScs8X-Qc8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6018432-1408954698-5308.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
 Paramore - Paramore (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
+Phoenix - Bankrupt! (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)

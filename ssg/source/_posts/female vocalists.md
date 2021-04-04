@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:38:01.305Z
+date: 2021-04-04T06:42:01.327Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -126,11 +126,11 @@ Feist - Let It Die (2004-05-18)
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
 Rachael Yamagata - Happenstance (2004-06-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
+Nouvelle Vague - Nouvelle Vague (2004-08-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
 Regina Spektor - Soviet Kitsch (2004-08-17)
-</li>
-<li data-cover="https://img.discogs.com/qkvDofuDAKamlVevQ6NpGVxtJCY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567304-1132414198.jpeg.jpg" data-tags="pop" role="button">
-Natasha Bedingfield - Unwritten (2004-09-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
@@ -161,6 +161,9 @@ Katie Melua - Piece by Piece (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
 Norah Jones - Not Too Late (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a4edbc4-9f12-456c-bdbe-126923ad262c/8974984510-500.jpg" data-tags="female vocalists, indie" role="button">
+Cat Power - The Greatest (2006-01-07)
 </li>
 <li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
@@ -269,9 +272,6 @@ Bat for Lashes - Two Suns (2009-04-03)
 </li>
 <li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)

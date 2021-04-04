@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:21:01.596Z
+date: 2021-04-04T06:11:01.298Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -36,7 +36,7 @@ The Cure - Wish (1992-04-07)
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
-<li data-cover="https://img.discogs.com/wuKGfBnlUDgGq5eJ4kf9VrAIJuk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7236404-1602232435-5640.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/Dfn7D5B0m4g0smYVNzc905-GXwM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021337-1243356062.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
 The Smashing Pumpkins - Siamese Dream (1993-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
@@ -81,6 +81,9 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
+Björk - Homogenic (1997-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Without You I'm Nothing (1998-10-12)
 </li>
@@ -99,7 +102,7 @@ PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
 </li>
-<li data-cover="https://img.discogs.com/zxQp8NHSvepBQGAdk_wijnPegEs=/fit-in/548x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-437496-1349778731-6583.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
@@ -170,9 +173,6 @@ The Killers - Hot Fuss (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf92d8e3-eaf4-4e10-b77a-81064a810cb0/8129222906-500.jpg" data-tags="indie rock" role="button">
-Kasabian - Kasabian (2004-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)

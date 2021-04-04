@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:54:01.271Z
+date: 2021-04-04T06:38:01.427Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 1994, 90s" role="button">
+<li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8828dbd-f2b2-30ed-ac2d-152341b10913/17553404705-500.jpg" data-tags="chillout, rock, alternative, folk, folk-rock, acoustic, romantic, guitar, male vocalists, twisted, meaningful, golden oldies, judely favourites, folky and acoustic stuff, casette, buenos" role="button">
@@ -36,7 +36,7 @@ Jamiroquai - Travelling Without Moving (1996-09-09)
 <li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="https://img.discogs.com/Huj-3hhR3RV6MvojZF3Bjx0FTEY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13088141-1547841438-1652.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/UQ5V28f8DqJANNaLg7CMi1ASFXE=/fit-in/600x842/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12411707-1534756813-2186.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
 Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="male vocalists, new jack swing, faves, rap and hip hop, blackstreet, new songs" role="button">
@@ -45,17 +45,14 @@ Blackstreet - Girlfriend/Boyfriend (1999-04-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
-<li data-cover="https://img.discogs.com/Jq6H0etcMhAUKJT27hQnz0DVUG8=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12319764-1533062772-9140.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
+<li data-cover="https://img.discogs.com/U0H1pO_Cfv1P8Aj9KaaaRSlK5fo=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11579720-1518865789-9597.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
 </li>
-<li data-cover="https://img.discogs.com/zxQp8NHSvepBQGAdk_wijnPegEs=/fit-in/548x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-437496-1349778731-6583.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
-Korn - Untouchables (2002-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
@@ -81,9 +78,6 @@ Hot Chip - Coming on Strong (2004-05-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock, male vocalists" role="button">
 McFly - Room on the 3rd Floor (2004-07-05)
 </li>
-<li data-cover="https://img.discogs.com/VWiA-jiSRLvMmF8jpyrMhZ1lovE=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546194-1289817660.jpeg.jpg" data-tags="robbie williams, pop" role="button">
-Robbie Williams - Greatest Hits (2004-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/aac73402-efd7-440b-be44-43183aa48f0d/28019403744-500.jpg" data-tags="pop" role="button">
 Brian McFadden - Irish Son (2004-11-22)
 </li>
@@ -92,9 +86,6 @@ Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
 Omarion - O (2005-02-22)
-</li>
-<li data-cover="https://img.discogs.com/bYAV83fkUFWXBPjEVfOgUTIs-1o=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-438812-1413230572-7636.jpeg.jpg" data-tags="electronic, electronica, alternative, rap, anticon, 00s, post-revolutionary pop song, avantgarde pop" role="button">
-13 & God - 13 & God (2005-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7abad537-2974-3d4f-9b62-e5e5f03cd1a1/7544348813-500.jpg" data-tags="indie, rock, british, indie rock" role="button">
 Arctic Monkeys - I Bet You Look Good on the Dancefloor (2005-05-10)
@@ -162,7 +153,7 @@ Minus the Bear - Planet of Ice (2007-08-21)
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+<li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
@@ -176,9 +167,6 @@ Kings of Leon - Only by the Night (2008-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
-Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fdff2a1-1bdf-499a-a50c-e5d742958094/10875910782-500.jpg" data-tags="rock, alternative rock" role="button">
 David Cook - David Cook (2008-11-18)
@@ -273,6 +261,9 @@ Passenger - All the Little Lights (2012-02-24)
 <li data-cover="http://coverartarchive.org/release/0e46aa43-75b9-4792-9424-d091afa5f93b/6032835251-500.jpg" data-tags="2012" role="button">
 Arctic Monkeys - R U Mine? (2012-02-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/b53e4314-b216-490b-b49f-911efeb6e2f0/4313790976-500.jpg" data-tags="pop, british, britpop, singer-songwriter" role="button">
 Robbie Williams - Candy (2012-09-11)
 </li>
@@ -284,6 +275,15 @@ Olly Murs - Right Place Right Time (2012-11-26)
 </li>
 <li data-cover="https://img.discogs.com/U4LEEY3h2OyFyUuqg3AEwXgfbQA=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13752933-1582227292-3737.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
 Depeche Mode - Heaven (2013-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/57ede38a-7c87-468e-a33b-2fab6552a23c/21131305528-500.jpg" data-tags="indie, rock, alternative, alternative rock, male vocalists, stylus records, private:watchlist, czalbums, via:rdio, boughtlist2013" role="button">
+Stereophonics - Graffiti on the Train (2013-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/873fb668-89e2-46c6-bfa6-33bc4dfeee4c/4135969932-500.jpg" data-tags="folk, indie rock" role="button">
+John Grant - Pale Green Ghosts (2013-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="pop" role="button">
+Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, australian, youtube, male vocalists" role="button">
 Troye Sivan - The Fault in Our Stars (2013-05-13)

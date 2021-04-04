@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:31:01.242Z
+date: 2021-04-04T06:16:01.310Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -63,14 +63,14 @@ The Prodigy - The Fat Of The Land (1997-06-30)
 <li data-cover="http://coverartarchive.org/release/7a664645-ab08-4ffe-9ad2-a34c47029bb2/10125792528-500.jpg" data-tags="electronic, breakbeat" role="button">
 The Crystal Method - Vegas (1997-08-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
+Björk - Homogenic (1997-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/768bb870-b958-49e9-a87b-a695b67aec1b/14288438323-500.jpg" data-tags="electronic, faithless" role="button">
-Faithless - Sunday 8PM (1998-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
@@ -90,7 +90,7 @@ Goldfrapp - Felt Mountain (2000-09-11)
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
 The Avalanches - Since I Left You (2000-11-27)
 </li>
-<li data-cover="https://img.discogs.com/zxQp8NHSvepBQGAdk_wijnPegEs=/fit-in/548x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-437496-1349778731-6583.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg" data-tags="electronic, house" role="button">

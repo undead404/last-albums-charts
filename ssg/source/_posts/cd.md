@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:54:01.225Z
+date: 2021-04-04T05:56:01.208Z
 title: "cd: 100 albums you must listen to before you die"
 ---
 ![Neon Trees - Picture Show (2012-04-17)](http://coverartarchive.org/release/b660188a-4cef-46fa-80f4-58b8bdb4bfc9/16737771714-500.jpg "Neon Trees - Picture Show (2012-04-17)")
@@ -8,9 +8,9 @@ title: "cd: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/851588f7-9cdb-473f-96d0-21680c4a383c/2466705356-500.jpg" data-tags="electronic" role="button">Kavinsky - Nightcall (2010-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">James Blunt - Some Kind of Trouble (2010-11-03)</li>
-<li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">Bombay Bicycle Club - A Different Kind of Fix (2011-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/b660188a-4cef-46fa-80f4-58b8bdb4bfc9/16737771714-500.jpg" data-tags="rock, alternative rock, cd, listen, alternative pop/rock, alternative-indie rock" role="button">Neon Trees - Picture Show (2012-04-17)</li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
 <li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, cd, vocal pop, better than expected, purchase list" role="button">Indila - Mini World (2014-02-21)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/63538c42-9462-4146-8993-8d754c66cb15/23152862032-500.jpg" data-tags="pop, rockabilly, rock, 60s, singer-songwriter, oldies, male vocalists, vinyl, nashville, cd, tennessee, stereo, boudleaux bryant, july, lp, mono, monument, orbison, remastered, legacy, classic records, london records, monument records, hendersonville, sony bmg music entertainment, reissued, fred foster, cbs special products, london recordings, ken robertson, 45rpm single, july 1963, multiple releases under same name, cbs records inc, monument record corporation, 200g, 200g vinyl, bernie grundman" role="button">
 Roy Orbison - In Dreams (1963)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, easy listening, cd, easy list, lp24192, hd24192, lapoubelle, cds i know i love" role="button">
-Lionel Richie - Lionel Richie (1982-10-06)
 </li>
 <li data-cover="https://img.discogs.com/zYejjplWg6e-Pcpv9YMc3SHbsCA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9687805-1484779587-4740.jpeg.jpg" data-tags="80s, classic rock" role="button">
 Elton John - Too Low For Zero (1983-05-23)
@@ -57,26 +54,14 @@ Eagle-Eye Cherry - Desireless (1997)
 <li data-cover="http://coverartarchive.org/release/44614c54-926f-4f34-b69d-57f563e9b94d/9609881944-500.jpg" data-tags="rock" role="button">
 Counting Crows - This Desert Life (1999-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/6c552a41-0787-4fac-9a47-c57189f4cb3e/3045265515-500.jpg" data-tags="punk rock" role="button">
-Alkaline Trio - From Here to Infirmary (2001-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/413fac94-55fe-46f8-8bf7-1ab3b2fcd265/13573638270-500.jpg" data-tags="mellow, melancholy, cd, great album, post-britpop, paracuandoquieradormir" role="button">
-Embrace - If You've Never Been (2001-09-03)
-</li>
-<li data-cover="https://img.discogs.com/m6Uz3orsCT-QfcuvqYMeRFs0Xdc=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13226062-1550299154-1792.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
+<li data-cover="https://img.discogs.com/0q-kp50zBx_Bc9QxWgZ8YQUK6r4=/fit-in/583x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6850887-1427974206-7908.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
 Mylène Farmer - Les Mots (2001-11-27)
 </li>
 <li data-cover="https://img.discogs.com/N28YyM7Tyx-0frbV55UY-6NSMbU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2010700-1437772790-9013.jpeg.jpg" data-tags="indie, plotters albums" role="button">
 Andrew Bird - Weather Systems (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ffc46db-44b8-403a-9c98-a8f56118bbf3/3515876411-500.jpg" data-tags="instrumental, yann tiersen" role="button">
-Yann Tiersen - C'était Ici (2002-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/34297eba-8c7c-4690-b393-bdecf448848c/14145598374-500.jpg" data-tags="richard ashcroft" role="button">
 Richard Ashcroft - Human Conditions (2002-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/884cee1b-ee29-3bc2-9a4d-a9e24cbd021f/7321348087-500.jpg" data-tags="rnb" role="button">
-R. Kelly - Chocolate Factory (2003-02-17)
 </li>
 <li data-cover="https://img.discogs.com/Zoonmlmxf09dk5UODPb_qVtaf5g=/fit-in/345x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2879894-1305392651.jpeg.jpg" data-tags="00s, radio arcadia" role="button">
 The Libertines - Don't Look Back Into the Sun (2003-08-18)
@@ -105,8 +90,8 @@ Jason Mraz - Mr. A-Z (2005-07-26)
 <li data-cover="https://img.discogs.com/b29a09209c9095efe2cef167197b819419b78d0b/images/spacer.gif" data-tags="singer-songwriter" role="button">
 Josh Ritter - The Animal Years (2006-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/17a635c3-c8ec-4dbd-a438-5e540d49e3a3/9446558812-500.jpg" data-tags="indie pop" role="button">
-The Bird and the Bee - The Bird and the Bee (2007-01-23)
+<li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
+Grizzly Bear - Yellow House (2006-09-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, rock, male vocalists, cd, iheart, coolwench" role="button">
 McFly - The Heart Never Lies (2007-10-21)
@@ -116,6 +101,15 @@ The Cardigans - Best Of (2008-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">
+Frightened Rabbit - The Midnight Organ Fight (2008-04-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan, cd" role="button">
+DJ Okawari - Diorama (2008-05-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="metal, rock, punk, indie rock, cd, would love to see live, sophomore album, altaround, not on my computer anymore" role="button">
+Dirty Pretty Things - Romance At Short Notice (2008-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c3837a1-6252-4774-9102-998cd68d8532/3230521809-500.jpg" data-tags="electronic, electronica" role="button">
 The Chemical Brothers - Brotherhood (2008-07)
@@ -219,14 +213,17 @@ The Dirty Heads - Cabin By The Sea (2012-06-19)
 <li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">
 C2C - Tetra (2012-08-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
 Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a700029-ee4e-442b-89fc-7d408edf9983/13521412902-500.jpg" data-tags="electronic" role="button">
-Flume - Flume (2012-11-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/44217cae-f225-4d3c-919b-cd6d70fe392c/3452445494-500.jpg" data-tags="electronic, synthwave" role="button">
+Kavinsky - OutRun (2013-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
 Bastille - All This Bad Blood (2013-03-04)
@@ -237,14 +234,20 @@ Fall Out Boy - Save Rock and Roll (2013-04-12)
 <li data-cover="http://coverartarchive.org/release/8077f6cd-1c02-484f-a19f-30833734edf2/11593007264-500.jpg" data-tags="indie, indie pop, indie folk, folk" role="button">
 Milky Chance - Sadnecessary (2013-05-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/001e6c1b-c0ba-4455-b784-2a9ee9ae91e7/6355720082-500.jpg" data-tags="2013, industrial, industrial rock" role="button">
-Nine Inch Nails - Hesitation Marks (2013-08-27)
+<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">
+Avicii - True (2013-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f332dc1-bc91-422d-9f83-a95d0a818d61/17661352244-500.jpg" data-tags="electronic, dubstep, remix" role="button">
 Linkin Park - Recharged (2013-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/6585b0ce-3570-413f-be0f-385d2caae101/5250767763-500.jpg" data-tags="pop rock, rock" role="button">
+Avril Lavigne - Avril Lavigne (2013-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8e3ca07-71c4-4c15-8675-c49543813138/5643082410-500.jpg" data-tags="pop" role="button">
+Céline Dion - Loved Me Back to Life (2013-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5adeb0cd-f15c-447c-82a4-2d6fb5279436/6728311268-500.jpg" data-tags="indie pop, british" role="button">
 Metronomy - Love Letters (2013-12-06)
@@ -302,9 +305,6 @@ Johnny Cash - Out Among The Stars (2014-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3be8bd29-a036-4906-b668-030aa6b21c1f/7123167778-500.jpg" data-tags="soul, funk" role="button">
 Paolo Nutini - Caustic Love (2014-04-11)
-</li>
-<li data-cover="https://img.discogs.com/rQXpQu-C7FAb1pPVIzd_U6TZ2TI=/fit-in/518x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5630093-1398435489-3436.jpeg.jpg" data-tags="rock, alternative rock" role="button">
-Pixies - Indie Cindy (2014-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/754ffe04-ae91-4b38-bebb-9a565a03eeb0/6830844142-500.jpg" data-tags="classical, dubstep, electronic, instrumental, violin" role="button">
 Lindsey Stirling - Shatter Me (2014-04-29)

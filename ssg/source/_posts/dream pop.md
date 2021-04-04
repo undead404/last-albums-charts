@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:51:01.221Z
+date: 2021-04-04T06:39:01.228Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -57,6 +57,9 @@ Slowdive - Just for a Day (1991-09-02)
 <li data-cover="http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - Loveless (1991-11-04)
 </li>
+<li data-cover="https://img.discogs.com/Fid09w9PQ1VknaBa3Hh6jH41yq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567225-1462718622-5639.jpeg.jpg" data-tags="shoegaze" role="button">
+Slowdive - Souvlaki (1993-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
@@ -75,7 +78,7 @@ Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
 Mercury Rev - Deserter's Songs (1998-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
@@ -308,9 +311,6 @@ Lykke Li - I Never Learn (2014-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/e461c1b4-4eb5-46c2-8eb1-1b29e1befdf4/25780951101-500.jpg" data-tags="indie pop" role="button">
-TV Girl - French Exit (2014-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
 Lana Del Rey - Ultraviolence (2014-06-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:26:01.214Z
+date: 2021-04-04T06:41:01.272Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -8,12 +8,12 @@ title: "minimal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5c89b423-8b51-4532-a5e6-2e077a76d6ed/3201197255-500.jpg" data-tags="electronic, electro, minimal" role="button">Booka Shade - Movements (2006-05-12)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="minimal, electronic" role="button">Booka Shade - The Sun & The Neon Light (2008-05-26)</li>
 <li data-cover="https://img.discogs.com/v9UM7jRWJbd8nrXTdNxvlLLbTz4=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1746152-1420354574-8025.jpeg.jpg" data-tags="techno, minimal, minimal techno, idm, kompakt, luisterpaal" role="button">The Field - Yesterday and Today (2009-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/1c0cb4a3-0233-43de-9b81-8afe0f682b8b/16337903830-500.jpg" data-tags="electronic, techno, minimal, minimal techno, rough trade" role="button">Pantha du Prince - Black Noise (2010-02-08)</li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">Nicolas Jaar - Space Is Only Noise (2011-01-31)</li>
 <li data-cover="http://coverartarchive.org/release/bd33b592-9208-49e5-b0dc-fec799689a5c/3325563092-500.jpg" data-tags="indie, electronic" role="button">The xx - Coexist (2012-09-05)</li>
-<li data-cover="http://coverartarchive.org/release/910f52ac-6f28-4ea3-9946-c10526357f18/24086155537-500.jpg" data-tags="electronic, indie, alternative, indie pop, indie rock, post-punk, minimal, dream pop, lush, minimal pop" role="button">The xx - Fiction (2013-07-12)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -71,9 +71,6 @@ Elliott Smith - Figure 8 (2000-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/83989bd9-e1bb-4d46-a23f-db62e29ffae1/8216806379-500.jpg" data-tags="microhouse, minimal" role="button">
 Luomo - Vocalcity (2000-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b875053-f818-3656-8c8f-3be6fbffe445/4504650557-500.jpg" data-tags="electronic, techno" role="button">
-Swayzak - Himawari (2000-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6e0508a-98ee-4b11-86e3-951d8ef77480/19860844363-500.jpg" data-tags="electronica, experimental, minimal, glitch, basic channel, listen, luomo, uusitalo, vladislav delay, nice nait, swayzak, moje nice, vladel" role="button">
 Uusitalo - Vapaa muurari (2000-10-07)
@@ -180,11 +177,11 @@ Devendra Banhart - Cripple Crow (2005-09-13)
 <li data-cover="http://coverartarchive.org/release/94f09962-8981-4bd6-a833-5630378ecbc9/13277619955-500.jpg" data-tags="electronica, ambient" role="button">
 Murcof - Remembranza (2005-10-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/be5cc59e-366c-4354-943c-11b8b24c9a31/4847115971-500.jpg" data-tags="experimental, electronic, ambient, 2005, dark ambient, industrial" role="button">
-Coil - The Ape of Naples (2005-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/54d97e69-69cb-4d83-923b-adcb5179d2b9/3985038465-500.jpg" data-tags="electronic, minimal" role="button">
 Ellen Allien & Apparat - Orchestra of Bubbles (2006-01)
+</li>
+<li data-cover="https://img.discogs.com/jTC7qZ-gN5xQ8tj_fj-OE-J7Tk4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-648476-1186571700.jpeg.jpg" data-tags="kompakt extra" role="button">
+Oxia - Speicher 34 (2006-03-18)
 </li>
 <li data-cover="https://img.discogs.com/_fE394TED48YHcujtOfuZqzMynM=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3850383-1347381209-7086.jpeg.jpg" data-tags="electronic" role="button">
 The Field - Sun & Ice (2006-04-27)
@@ -216,11 +213,20 @@ Mujuice - Cool Cool Death (2007-06-22)
 <li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/2acb5d66-d57a-43b9-ac5a-c5e7afe38ace/7750351827-500.jpg" data-tags="techno" role="button">
+Sascha Funke - Mango (2008-02-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/8cb378a3-124f-4213-be5d-eebda83d05d4/15635845028-500.jpg" data-tags="electronic, minimal, get physical, my virtual music shelf, nasmy" role="button">
 Nôze - Songs On The Rocks (2008-04-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="minimal, electronic" role="button">
+Booka Shade - The Sun & The Neon Light (2008-05-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/3beed398-780c-401f-b588-d29178e6862c/2178317994-500.jpg" data-tags="soundtrack, electronic, techno, minimal techno" role="button">
 Paul Kalkbrenner - Berlin Calling (2008-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/a82126c3-447c-46f2-b91a-3acbc660a736/6462956973-500.jpg" data-tags="minimal" role="button">
+Extrawelt - Schöne Neue Extrawelt (2008-10-24)
 </li>
 <li data-cover="https://img.discogs.com/Ybk8O5Z9dS9ella2Ro8eLusdpIg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9451174-1480801580-3697.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
 Max Cooper - Harmonisch Serie (2009-01-12)
@@ -248,9 +254,6 @@ Röyksopp - This Must Be It (2009-09-03)
 </li>
 <li data-cover="https://img.discogs.com/ZC5xycarwTNqaLzU01OPjVpwX7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15902545-1599892724-9591.jpeg.jpg" data-tags="electro-techno" role="button">
 Nicolas Jaar - Time for Us EP (2010-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/fbf3ab79-2a43-421f-b390-44c0b591b95f/22773483593-500.jpg" data-tags="electronic, remix" role="button">
-The xx - VCR (2010-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)
@@ -287,9 +290,6 @@ Modeselektor - Monkeytown (2011-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab007771-0fcf-4bc1-9f62-9a46e986278f/4853071277-500.jpg" data-tags="electronic" role="button">
 The Field - Looping State of Mind (2011-10-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/580f7002-4718-4dd9-8bdc-6bf49248bb57/2088223186-500.jpg" data-tags="chillout, electronic, electro, techno, minimal, deep house" role="button">
-Niconé & Sascha Braemer - Romantic Thrills (2011-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/01d3df2a-0aab-4af7-bcaa-86c1f58d6a84/3988645001-500.jpg" data-tags="electronic, electronica, techno, minimal, minimal techno" role="button">
 Extrawelt - In Aufruhr (2011-11-04)

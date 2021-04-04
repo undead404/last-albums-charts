@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:46:07.619Z
+date: 2021-04-04T06:28:01.221Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -36,9 +36,6 @@ Bark Psychosis - Hex (1994-02-14)
 <li data-cover="http://coverartarchive.org/release/19d89c34-6a91-4e7a-8d8a-499159e781cf/4483481718-500.jpg" data-tags="post-rock" role="button">
 Tortoise - Millions Now Living Will Never Die (1996-01-30)
 </li>
-<li data-cover="https://img.discogs.com/MJbVWtnvnsX3ZclSbItY9MRiDFg=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5772-1505273927-1527.jpeg.jpg" data-tags="electronic, experimental" role="button">
-Stereolab - Emperor Tomato Ketchup (1996-03-18)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
@@ -53,6 +50,9 @@ Mogwai - Young Team (1997-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/db2b85d1-912d-3965-bd5e-7c9dc18e2af1/22029271309-500.jpg" data-tags="post-rock" role="button">
 Tortoise - TNT (1998-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/745cec89-d876-4e34-9b26-281d6a8d7cac/1667179400-500.jpg" data-tags="post-rock" role="button">
+Godspeed You! Black Emperor - Slow Riot for New Zero Kanada (1999-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e24ce0c-8c65-3d11-a595-bd404d8695cc/6096170352-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Come On Die Young (1999-03-29)
@@ -111,8 +111,11 @@ Do Make Say Think - Winter Hymn Country Hymn Secret Hymn (2003-10-06)
 <li data-cover="http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">
-Broken Social Scene - Broken Social Scene (2004)
+<li data-cover="http://coverartarchive.org/release/71794ed3-3763-482b-b24e-7a6adf751aa9/22635557412-500.jpg" data-tags="post-rock, post-metal, sludge" role="button">
+Pelican - Australasia (2003-11-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+Red Sparowes - At The Soundless Dawn (2004)
 </li>
 <li data-cover="https://img.discogs.com/nKVi_E6KjzWjALypkTLexazuVyk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10521366-1499152013-3611.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
 Broken Social Scene - Bee Hives (2004-03-23)
@@ -125,6 +128,9 @@ El Ten Eleven - El Ten Eleven (2004-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0e6f524-90b3-400a-aa4c-ab89e9c172f0/13891715369-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - The Fall of Math (2004-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
+Isis - Panopticon (2004-10-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
@@ -144,6 +150,9 @@ God Is An Astronaut - All Is Violent, All Is Bright (2005-02-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 The Evpatoria Report - Golevka (2005-04-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
+Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Takk... (2005-08-22)
 </li>
@@ -155,9 +164,6 @@ toe - the book about my idle plot on a vague anxiety (2005-08-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Mogwai - Mr. Beast (2006-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
-Gregor Samsa - 55:12 (2006-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bfa4c29-3425-320d-87ae-f6d0e9e83b75/3361339988-500.jpg" data-tags="post-rock" role="button">
 Mono - You Are There (2006-03-15)
@@ -171,8 +177,8 @@ The Album Leaf - Into The Blue Again (2006-09-08)
 <li data-cover="http://coverartarchive.org/release/3c1a6130-416f-4d8d-8731-98a7f11b8b2a/2884904467-500.jpg" data-tags="post-rock" role="button">
 Jakob - Solace (2006-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b5559fd-2ef6-451f-ad05-c7f80d8a5f1b/9546365317-500.jpg" data-tags="post-rock" role="button">
-Moving Mountains - Pneuma (2007)
+<li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
+Isis - In the Absence of Truth (2006-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa3740d6-5283-4d47-99ab-9837937e743c/8957154758-500.jpg" data-tags="post-rock" role="button">
 pg.lost - Yes I Am (2007-01-01)
@@ -189,14 +195,8 @@ God Is An Astronaut - Far From Refuge (2007-04-05)
 <li data-cover="http://coverartarchive.org/release/72bc36e5-6af1-4d62-b72d-ec60cfa5fea6/3248569775-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - The Destruction of Small Ideas (2007-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/cd9f69f3-90ab-44c4-a243-0d0796300882/5860863096-500.jpg" data-tags="post-rock" role="button">
-Joy Wants Eternity - You Who Pretend to Sleep (2007-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/55318661-9673-4bab-91cf-421c84b8701f/8635805656-500.jpg" data-tags="indie, rock, indie rock" role="button">
-Yeasayer - All Hour Cymbals (2007-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
-Sigur Rós - Hvarf - Heim (2007-11-05)
+<li data-cover="http://coverartarchive.org/release/8dcdef43-6ca6-45b8-90f9-9eefe8e038d0/16157041487-500.jpg" data-tags="post-rock" role="button">
+Pelican - City of Echoes (2007-04-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, folk, post-rock, indie folk" role="button">
 The Middle East - The Recordings Of The Middle East (2008)
@@ -204,14 +204,14 @@ The Middle East - The Recordings Of The Middle East (2008)
 <li data-cover="http://coverartarchive.org/release/d0625be2-7d18-4ed8-a121-352ba282bd78/3370136741-500.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - This Will Destroy You (2008-01-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
-Balmorhea - Rivers Arms (2008-02-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/af17e2e2-6b02-44b8-a848-67c7f66f6803/17517986245-500.jpg" data-tags="drone, instrumental, post-rock" role="button">
 Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, instrumental" role="button">
+Russian Circles - Station (2008-05-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Maybeshewill - Not for Want of Trying (2008-05-12)
@@ -221,9 +221,6 @@ Radiohead - The Best Of (2008-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a5af92f-5593-4488-aaba-f9035faa77fa/10649760786-500.jpg" data-tags="post-rock, instrumental" role="button">
-The Evpatoria Report - Maar (2008-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Mogwai - The Hawk is Howling (2008-08-23)
@@ -237,6 +234,9 @@ The Antlers - Hospice (2009-03-03)
 <li data-cover="http://coverartarchive.org/release/d28d9760-c79b-432f-a9dd-54442f2caf45/9526718277-500.jpg" data-tags="post-rock" role="button">
 Mono - Hymn to the Immortal Wind (2009-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
+If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/4e8de062-6ed8-4431-8fd3-25f9eff4b538/5429889739-500.jpg" data-tags="post-rock" role="button">
 And So I Watch You From Afar - And So I Watch You From Afar (2009-04-13)
 </li>
@@ -246,11 +246,8 @@ Long Distance Calling - Avoid The Light (2009-04-24)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
-<li data-cover="https://img.discogs.com/JhRuHIeV-Ggedh9wGYoRTiFLSHc=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818454-1517991354-4223.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
-Bibio - Ambivalence Avenue (2009-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
-toe - For Long Tomorrow (2009-12-09)
+<li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
+Russian Circles - Geneva (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ead5b02-bfb8-4a8e-87c5-80b1552eddeb/27862273102-500.jpg" data-tags="post-rock" role="button">
 pg.lost - In Never Out (2009-12-11)
@@ -258,11 +255,14 @@ pg.lost - In Never Out (2009-12-11)
 <li data-cover="https://img.discogs.com/QrZz7ljgyLG2m3mMuE-D2Xlk7T0=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11476554-1517014471-7140.jpeg.jpg" data-tags="post-rock" role="button">
 The Album Leaf - A Chorus of Storytellers (2010-02-01)
 </li>
-<li data-cover="https://img.discogs.com/P-zIsmK3NxlhlJG5Jz6o2lKvRxk=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2408524-1282398265.jpeg.jpg" data-tags="post-rock, 4ad" role="button">
-Efterklang - Magic Chairs (2010-02-22)
+<li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
+Alcest - Écailles de lune (2010-03-26)
 </li>
 <li data-cover="https://img.discogs.com/4NIOxoT-a2t1ccQ8mYQowHC4qg8=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2210927-1296129905.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+Red Sparowes - The Fear Is Excruciating, But Therein Lies The Answer (2010-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/248b104a-4865-41bc-9635-7f2edade8c9d/3248579787-500.jpg" data-tags="post-rock, electronic" role="button">
 65daysofstatic - We Were Exploding Anyway (2010-04-26)
@@ -270,14 +270,8 @@ Jónsi - Go (2010-04-02)
 <li data-cover="http://coverartarchive.org/release/a36ab113-612d-4e2d-92f0-47ffda893f6a/4793906460-500.jpg" data-tags="post-rock" role="button">
 God Is An Astronaut - Age of the Fifth Sun (2010-05-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3468ed3-ebae-475b-932e-5578336ce72b/1944402956-500.jpg" data-tags="post-rock, experimental" role="button">
-Swans - My Father Will Guide Me Up a Rope to the Sky (2010-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/94f4bf51-b0be-4fd3-bfd0-0f744bc18a93/25713773260-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Hardcore Will Never Die, But You Will (2011-02-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec34795-7691-3451-b9ce-fc53ad901420/11793213169-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - Take Care, Take Care, Take Care (2011-04-18)
@@ -288,8 +282,14 @@ This Will Destroy You - Tunnel Blanket (2011-05-09)
 <li data-cover="http://coverartarchive.org/release/dd366e1c-8c46-487c-804f-664c21cc9e4a/3370183666-500.jpg" data-tags="post-rock" role="button">
 Maybeshewill - I Was Here for a Moment, Then I Was Gone (2011-05-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
-Balmorhea - Stranger (2012-02-10)
+<li data-cover="http://coverartarchive.org/release/65bc450d-2304-47d9-b114-e84b8bc56811/3331814020-500.jpg" data-tags="post-metal, post-rock" role="button">
+Russian Circles - Empros (2011-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/4de22942-1416-409f-a242-47c329288dd5/2239835239-500.jpg" data-tags="shoegaze, post-rock" role="button">
+Alcest - Les voyages de l'Âme (2012-01-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e2f5fb4-5c55-45c3-8e16-572c46a9ddcc/2884696107-500.jpg" data-tags="post-rock" role="button">
+If These Trees Could Talk - Red Forest (2012-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
@@ -299,6 +299,9 @@ Swans - The Seer (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
+Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Sigur Rós - Kveikur (2013-06-12)
@@ -317,8 +320,5 @@ Tycho - Awake (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/01430596-3eaa-4d2f-8198-8e15aac948bd/7269530596-500.jpg" data-tags="post-rock" role="button">
 Swans - To Be Kind (2014-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/63c2c235-892a-4bd5-8439-57a3357c7689/8394637579-500.jpg" data-tags="post-rock" role="button">
-This Will Destroy You - Another Language (2014-09-16)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:36:06.612Z
+date: 2021-04-04T06:07:01.226Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Flogging Molly - Drunken Lullabies (2002-03-19)](http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg "Flogging Molly - Drunken Lullabies (2002-03-19)")
@@ -48,9 +48,6 @@ Thin Lizzy - Fighting (1975)
 <li data-cover="https://img.discogs.com/Ow-Gaovoa219SVHQbCTq-VoIkbA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-868401-1514550929-4213.jpeg.jpg" data-tags="punk" role="button">
 Stiff Little Fingers - Inflammable Material (1979-02-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3d6480b-e431-40e7-84c7-160923940b60/12764953075-500.jpg" data-tags="punk rock, punk" role="button">
-The Undertones - The Undertones (1979-05)
-</li>
 <li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
 </li>
@@ -72,20 +69,17 @@ U2 - The Unforgettable Fire (1984-10-01)
 <li data-cover="http://coverartarchive.org/release/bb533884-3d66-4945-955e-3c57e629b316/3722741186-500.jpg" data-tags="celtic, new age" role="button">
 Clannad - Macalla (1985)
 </li>
+<li data-cover="http://coverartarchive.org/release/75426382-d7f5-458e-b50d-370a21c430c9/10253435044-500.jpg" data-tags="new age" role="button">
+Enya - Enya (1986)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 60s, sunshine pop, irish, bubblegum, ageofaquarius63, doofusgoofus" role="button">
-The Cowsills - The Best Of The Cowsills (1988)
 </li>
 <li data-cover="https://img.discogs.com/v0hIr7vDyXjRKtS19EkkTOWPUfU=/fit-in/600x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-948871-1400406370-4362.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb873617-caa5-43f9-8cdb-9cd02e17163a/15595471977-500.jpg" data-tags="irish, irish folk, folk" role="button">
 The Pogues - The Best of The Pogues (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a094da9-ae4f-41d3-a8e7-c88c71daaea7/15557075572-500.jpg" data-tags="classic rock, rock, irish" role="button">
-Van Morrison - Bang Masters (1991-02-26)
 </li>
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
@@ -99,14 +93,14 @@ The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
 <li data-cover="http://coverartarchive.org/release/c8a3ad14-933f-308c-866e-b28dd14403a7/3770659611-500.jpg" data-tags="rock, 90s, u2" role="button">
 U2 - Zooropa (1993-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/b316b66f-8f7a-4899-a045-4d734272e60d/16160191520-500.jpg" data-tags="alternative, folk rock, irish, irish folk, tamole likes it, kvlt, irish punk" role="button">
-The Pogues - Waiting For Herb (1993-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/24c4d72b-fd9c-463a-802d-aebd5e8f2a0a/15396072186-500.jpg" data-tags="irish" role="button">
 Christy Moore - LIVE AT THE POINT (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c96068a9-9d40-3756-b624-a0a7e94cf0e4/22180420062-500.jpg" data-tags="new age, celtic" role="button">
+Enya - The Memory of Trees (1995-11-21)
 </li>
 <li data-cover="https://img.discogs.com/lxM6T7-ly0GhewxS23URDH07QZc=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5362095-1399930491-9304.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
 The Corrs - Forgiven, Not Forgotten (1996-02-02)
@@ -125,6 +119,9 @@ U2 - Rattle And Hum (1997-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/259ef148-90a3-44ab-87b2-1252c46febd5/5356649895-500.jpg" data-tags="pop" role="button">
 The Corrs - Talk On Corners (1997-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ef2d01b-02bf-35b6-949a-0666edbdc839/6637250207-500.jpg" data-tags="enya" role="button">
+Enya - Paint the Sky With Stars: The Best of Enya (1997-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
 Dropkick Murphys - Do or Die (1998-01-13)
@@ -207,9 +204,6 @@ Bell X1 - Music In Mouth (2003-08-19)
 <li data-cover="http://coverartarchive.org/release/524f982f-8870-4893-b4bc-878ff99577c7/11516428847-500.jpg" data-tags="pop, boy band, male vocalist, turnaround" role="button">
 Westlife - Turnaround (2003-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8a438cd-8718-430a-b8dc-589f17816dc0/14762285093-500.jpg" data-tags="alternative" role="button">
-Jape - The Monkeys In The Zoo Have More Fun Than Me (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/09ead843-23c8-3ee2-9094-1cf78b3a2408/10962966051-500.jpg" data-tags="pop" role="button">
 The Corrs - Borrowed Heaven (2004-05-04)
 </li>
@@ -233,6 +227,9 @@ Róisín Murphy - Ruby Blue (2005-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - The Warrior's Code (2005-06-15)
+</li>
+<li data-cover="https://img.discogs.com/fYjxUVlfj9RRrEg6GM0tF2l-b3A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2625293-1293867158.jpeg.jpg" data-tags="indie" role="button">
+Bell X1 - Flock (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/50960a67-c4cc-4845-b722-cf2372d7e5f9/7165424755-500.jpg" data-tags="rock, u2" role="button">
 U2 - U218 Singles (2006-01-01)
@@ -299,6 +296,9 @@ Villagers - Becoming a Jackal (2010-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">
 The Script - Science & Faith (2010-09-13)
+</li>
+<li data-cover="https://img.discogs.com/gGvo29mIV8rtAGgFsDiglFiSqGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181009-1487336547-2725.jpeg.jpg" data-tags="singer-songwriter, rock, folk, folk rock" role="button">
+Lisa Hannigan - Passenger (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/WxSFo_G5KKmSy_MocIWWQDov-NI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3676446-1339945405-2309.jpeg.jpg" data-tags="folk" role="button">
 Glen Hansard - Rhythm and Repose (2012-06-19)

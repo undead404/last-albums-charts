@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:24:01.210Z
+date: 2021-04-04T06:33:01.495Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Cocteau Twins - Treasure (1984-10-01)](http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg "Cocteau Twins - Treasure (1984-10-01)")
@@ -7,7 +7,7 @@ title: "ethereal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">Cocteau Twins - Treasure (1984-10-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">Cocteau Twins - Heaven or Las Vegas (1990-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">Mazzy Star - So Tonight That I Might See (1993-09-27)</li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
+<li data-cover="https://img.discogs.com/GEEoOZtd2541_qWo6f3aULMkR-4=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860384-1193767375.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">Sigur Rós - ágætis byrjun (1999-06)</li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">Emilie Autumn - Enchant (2003-02-26)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
@@ -27,7 +27,7 @@ Miles Davis - Bitches Brew (1970)
 <li data-cover="http://coverartarchive.org/release/9a7f2097-1800-3978-afc2-e5971f24b536/8212967312-500.jpg" data-tags="post-punk" role="button">
 Cocteau Twins - Garlands (1982-09-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop, shoegaze" role="button">
+<li data-cover="https://img.discogs.com/ezwhpRjWJSd95Sa4d4SD12XFfTM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4871939-1427568709-6185.jpeg.jpg" data-tags="dream pop, shoegaze" role="button">
 Cocteau Twins - Head Over Heels (1983-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd6e9f5e-1c0a-4adc-b640-7d2d855a6091/3539596195-500.jpg" data-tags="4ad, alternative" role="button">
@@ -99,17 +99,14 @@ Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
-<li data-cover="https://img.discogs.com/9IgsCGWFGPLHb-Uws5WMoGTJj-Q=/fit-in/600x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4612080-1500912766-1226.jpeg.jpg" data-tags="indie rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/6EMGtLTuHuJyHBuYpYBr98QxWPw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14309427-1574778319-3513.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
 Broadcast - Work and Non Work (1997-06-09)
 </li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/GEEoOZtd2541_qWo6f3aULMkR-4=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-860384-1193767375.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/3dbf556a-b3b2-48a7-867d-71d8346c1ed7/1782308984-500.jpg" data-tags="electronica, downtempo, dream pop, ethereal, love spirals downwards, ambient chill" role="button">
-Love Spirals Downwards - Flux (1998-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
@@ -222,6 +219,9 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
 Spiritualized - Songs In A&E (2008-05-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
+Chairlift - Does You Inspire You (2008-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/a12d12cc-c5a6-3a9c-b86a-3cf26909c31e/3020519925-500.jpg" data-tags="folk, ethereal, mainstream shit, hino, haters gonna hate, more talented than miley cyrus" role="button">
 Marissa Nadler - Little Hells (2009-03-03)
 </li>
@@ -288,9 +288,6 @@ Goldfrapp - The Singles (2012-02-03)
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
-<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
-iamamiwhoami - kin (2012-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
 Dead Can Dance - Anastasis (2012-08-13)
 </li>
@@ -302,6 +299,9 @@ Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
+Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
 Marissa Nadler - July (2014-02-04)
