@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:25:01.253Z
+date: 2021-04-04T05:00:01.287Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -33,7 +33,7 @@ Faith No More - Angel Dust (1992-06-08)
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 R.E.M. - Automatic for the People (1992-10-06)
 </li>
-<li data-cover="https://img.discogs.com/wuKGfBnlUDgGq5eJ4kf9VrAIJuk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7236404-1602232435-5640.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/Dfn7D5B0m4g0smYVNzc905-GXwM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021337-1243356062.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
 The Smashing Pumpkins - Siamese Dream (1993-07-26)
 </li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
@@ -59,6 +59,9 @@ Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Without You I'm Nothing (1998-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/333eee3e-6a8f-4072-b66e-3cf902037e83/6995177317-500.jpg" data-tags="alternative rock, rock" role="button">
+Foo Fighters - There Is Nothing Left to Lose (1999-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
 3 Doors Down - The Better Life (2000-02-08)
@@ -293,9 +296,6 @@ The Pretty Reckless - Light Me Up (2010-08-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/dafe15c2-5fb9-4a5f-9b12-df031d3b0e9b/2103470066-500.jpg" data-tags="alternative rock" role="button">
-Panic! at the Disco - Vices & Virtues (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)

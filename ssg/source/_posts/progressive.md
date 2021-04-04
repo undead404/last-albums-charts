@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:21:01.224Z
+date: 2021-04-04T04:47:01.241Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![John Frusciante - The Empyrean (2009-01-14)](https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg "John Frusciante - The Empyrean (2009-01-14)")
@@ -23,6 +23,12 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
 The Moody Blues - Days of Future Passed (1967-11-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, experimental" role="button">
+Frank Zappa - Apostrophe (') (1974-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
+Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
@@ -75,10 +81,10 @@ Mansun - Six (1998)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - My Arms, Your Hearse (1998-06-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, avant-garde, mike patton" role="button">
+<li data-cover="https://img.discogs.com/OoYqRaioExYwRVxBBVILXXa8h8g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381539-1234352618.jpeg.jpg" data-tags="experimental, avant-garde, mike patton" role="button">
 Mr. Bungle - California (1999-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
@@ -86,9 +92,6 @@ Opeth - Still Life (1999-10-18)
 </li>
 <li data-cover="https://img.discogs.com/gASmWmXXwLlJtVqyMkyY35nPPnU=/fit-in/457x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891746-1405549089-4313.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
 Mr. Big - Deep Cuts: The Best of the Ballads (2000)
-</li>
-<li data-cover="https://img.discogs.com/E3zacTqfQNSLzHq_ESkjuevv5wc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816626-1244854064.jpeg.jpg" data-tags="sludge, post-metal" role="button">
-Isis - Celestial (2000-07-19)
 </li>
 <li data-cover="https://img.discogs.com/M4wxOo-EVaYaVlRI_dc_vS592no=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3589065-1428940273-7193.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
@@ -189,9 +192,6 @@ The Feeling - Twelve Stops And Home (2006-06-02)
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
-Isis - In the Absence of Truth (2006-10-06)
-</li>
 <li data-cover="https://img.discogs.com/puejkqh-SaEpKYN6cldpw3JRDCY=/fit-in/426x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011062-1194177277.jpeg.jpg" data-tags="ambient, post-rock, progressive, ethereal, post rock, lsd, manjoh, de:bug album reviews 2007, try this, toad-tested mother-approved" role="button">
 APSE - Spirit (2006-10-24)
 </li>
@@ -213,6 +213,9 @@ Oceansize - Frames (2007-09-28)
 <li data-cover="http://coverartarchive.org/release/094ea63a-a754-43f1-8e79-3a6957e2d077/26813532876-500.jpg" data-tags="electronic" role="button">
 Moonbootica - Moonlight Welfare (2007-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d46a82b-b704-4536-a060-9070125526c9/15848831964-500.jpg" data-tags="progressive" role="button">
+House vs. Hurricane - Forfeiture (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/e6d3c715-5567-3e6e-9fb9-6127cf62e6f6/27559170292-500.jpg" data-tags="experimental" role="button">
 Foxy Shazam - INTRODUCING (2008-01-22)
 </li>
@@ -222,14 +225,14 @@ Protest the Hero - Fortress (2008-01-29)
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">
 Opeth - Watershed (2008-05-28)
 </li>
+<li data-cover="https://img.discogs.com/COEhQswRqj3w291QCfboU3vY4Ww=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4182836-1606578090-2128.jpeg.jpg" data-tags="electronicore, hardcore" role="button">
+Sky Eats Airplane - Sky Eats Airplane (2008-07-22)
+</li>
 <li data-cover="https://img.discogs.com/RR1m20Px8ayDmzEjfkI5XSMd08A=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2219823-1270751567.jpeg.jpg" data-tags="progressive rock, post-hardcore, progressive" role="button">
 The Sound of Animals Fighting - The Ocean And The Sun (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
 DIR EN GREY - Uroboros (2008-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/df45d0f3-7ce4-4e18-8a59-6d87103829cc/8703023202-500.jpg" data-tags="progressive rock, progressive, post-hardcore" role="button">
-The Fall of Troy - Phantom on the Horizon (2008-11-28)
 </li>
 <li data-cover="https://img.discogs.com/Ybk8O5Z9dS9ella2Ro8eLusdpIg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9451174-1480801580-3697.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
 Max Cooper - Harmonisch Serie (2009-01-12)
@@ -302,9 +305,6 @@ Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Karnivool - Asymmetry (2013-07-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
-Dream Theater - Dream Theater (2013-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb4a5bb-bc24-4b4d-b1f5-e5a07397d980/8395692349-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Pale Communion (2014-06-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:27:01.335Z
+date: 2021-04-04T04:59:01.338Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -54,10 +54,10 @@ Nirvana - Nevermind (1991-09-23)
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
 </li>
-<li data-cover="https://img.discogs.com/wuKGfBnlUDgGq5eJ4kf9VrAIJuk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7236404-1602232435-5640.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/Dfn7D5B0m4g0smYVNzc905-GXwM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021337-1243356062.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
 The Smashing Pumpkins - Siamese Dream (1993-07-26)
 </li>
-<li data-cover="https://img.discogs.com/WRe_k-5S7EqgzldV_w_dCVn41pA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027633-1338400471-2982.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/XCplQuezqTz0DbPQDQfYxmFHYLc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1953989-1577338995-9744.jpeg.jpg" data-tags="rock" role="button">
 Counting Crows - August And Everything After (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
@@ -86,6 +86,9 @@ Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Without You I'm Nothing (1998-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/333eee3e-6a8f-4072-b66e-3cf902037e83/6995177317-500.jpg" data-tags="alternative rock, rock" role="button">
+Foo Fighters - There Is Nothing Left to Lose (1999-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
 3 Doors Down - The Better Life (2000-02-08)
@@ -209,9 +212,6 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">
-Paramore - All We Know Is Falling (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)

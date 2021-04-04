@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:00:01.243Z
+date: 2021-04-04T04:51:01.221Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="dream pop, shoegaze" role="button">
+<li data-cover="https://img.discogs.com/ezwhpRjWJSd95Sa4d4SD12XFfTM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4871939-1427568709-6185.jpeg.jpg" data-tags="dream pop, shoegaze" role="button">
 Cocteau Twins - Head Over Heels (1983-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
@@ -141,14 +141,14 @@ M83 - Saturdays = Youth (2008-04-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="dream pop, shoegaze" role="button">
 School of Seven Bells - Alpinisms (2008-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
+Chairlift - Does You Inspire You (2008-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">
 The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0dcf76f-2d23-4274-92cc-90ae3e9402f4/3062545324-500.jpg" data-tags="indie pop, indie" role="button">
-Au Revoir Simone - Still Night, Still Light (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/01bd9e78-c8c8-4f06-a667-64d04bcf3267/16796743992-500.jpg" data-tags="dream pop, indie pop" role="button">
 Sweet Trip - You Will Never Know Why (2009-06-30)

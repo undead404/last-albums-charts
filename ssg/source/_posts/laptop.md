@@ -1,17 +1,17 @@
 ---
-date: 2021-04-04T01:36:01.433Z
+date: 2021-04-04T05:28:01.232Z
 title: "laptop: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, vinyl, 00s, laptop, disco pop" role="button">Bee Gees - Greatest (1979-10)</li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
-<li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, rousing, raucous, blues rock, trippy, compilation, 00s, laptop, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">Keri Hilson - In a Perfect World... (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/14d38ffd-a100-4865-998b-2a82e811ab86/3892189369-500.jpg" data-tags="experimental, female vocalists, synthpop" role="button">Oh Land - Oh Land (2010)</li>
 <li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, laptop, 10s, swedish poprock" role="button">Veronica Maggio - Satan i gatan (2011-04-27)</li>
 <li data-cover="https://img.discogs.com/LN7xTqiFG8kCIyI7k2HuAlX-mTg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4561828-1609830140-3973.jpeg.jpg" data-tags="laptop, danish, 10s, soul pop, dk, danish poprock, danish group" role="button">Lukas Graham - Lukas Graham (2012-01-01)</li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, laptop, 10s, 2010s, 2013 albums, monochrome album covers, american group, grammy winner 2014" role="button">The Civil Wars - The Civil Wars (2013-08-02)</li>
 </ol>
@@ -36,11 +36,11 @@ Jimi Hendrix - Hendrix In The West (1971)
 <li data-cover="http://coverartarchive.org/release/17e2b2bf-2ccc-4592-9b32-d4fdf7d9423a/7297450107-500.jpg" data-tags="classic rock, rock, soft rock" role="button">
 Rod Stewart - Atlantic Crossing (1975)
 </li>
+<li data-cover="https://img.discogs.com/FgfTALyEVUaWa-4TeS8Fkn_EJ2U=/fit-in/448x706/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10877252-1505796171-6974.jpeg.jpg" data-tags="soul, 70s, usa, easy listening, female vocalist, laptop, soul rnb, american musician, grammy winner 1976" role="button">
+Natalie Cole - Inseparable (1975)
+</li>
 <li data-cover="http://coverartarchive.org/release/5904320c-f3ca-4320-bade-58215eda3e0c/1637049317-500.jpg" data-tags="70s" role="button">
 Elton John - Rock Of The Westies (1975-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/874cb9b2-f63e-4b58-83bd-3b45a2fd4c28/20426393023-500.jpg" data-tags="classic rock, chicago" role="button">
-Chicago - Chicago X (1976-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, vinyl, 00s, laptop, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
@@ -48,7 +48,7 @@ Bee Gees - Greatest (1979-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
 Dolly Parton - 9 To 5 And Odd Jobs (1980-11)
 </li>
-<li data-cover="https://img.discogs.com/E-XIZX6szT6SNly6aXkCwEIKXmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3555237-1486241301-4757.jpeg.jpg" data-tags="80s, classic rock" role="button">
+<li data-cover="https://img.discogs.com/zYejjplWg6e-Pcpv9YMc3SHbsCA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9687805-1484779587-4740.jpeg.jpg" data-tags="80s, classic rock" role="button">
 Elton John - Too Low For Zero (1983-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9df42f72-ae56-4f5b-8f35-53aa3e8665b6/7036450645-500.jpg" data-tags="classic rock, rock, 60s, 80s, uk, compilation, rock pop, laptop, english group" role="button">
@@ -56,6 +56,9 @@ The Beatles - Past Masters, Volume One (1988-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/894b0861-c15d-454d-a8d1-7d704281dd9a/7763048886-500.jpg" data-tags="60s" role="button">
 The Beatles - Past Masters, Volume Two (1988-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/98b7a796-0f0f-4319-8948-f250d14d6bbc/2800476658-500.jpg" data-tags="70s, classic rock, rock" role="button">
+Mott the Hoople - All The Young Dudes (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9c5c09d-4c24-47de-bf43-c6ea218de29a/1637331973-500.jpg" data-tags="rock pop" role="button">
 Elton John - Rocket Man (1994)
@@ -65,9 +68,6 @@ G. Love & Special Sauce - G. Love & Special Sauce (1994-05-10)
 </li>
 <li data-cover="https://img.discogs.com/Ta5fV2_XRgIOypdY7TRHapf6Quo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369831-1314644207.jpeg.jpg" data-tags="singer-songwriter, indie rock" role="button">
 Cat Power - Dear Sir (1995-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/df661f80-08f8-41b3-9025-af22297dbd15/11244597832-500.jpg" data-tags="soul, usa, 90s, rnb, compilation, laptop, commodores, soul funk, soul tag, soul peppermint" role="button">
-Commodores - The Very Best Of The Commodores (1995-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative, rock" role="button">
 Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
@@ -99,17 +99,11 @@ The Dandy Warhols - The Dandy Warhols Come Down (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/01a242ca-e319-3cf4-b3d4-97116e465f61/8716711551-500.jpg" data-tags="pop, latin, spanish, female vocalists, rock en espanol" role="button">
 Shakira - MTV Unplugged (2000-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
-The National - The National (2001-07-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/606b6e98-c195-4752-9024-3fd568f1dc42/21267333260-500.jpg" data-tags="00s, leftfield" role="button">
 The Beta Band - Hot Shots II (2001-07-07)
 </li>
-<li data-cover="https://img.discogs.com/Gz80FdfDGwAmiKFhJht1saTQ57Y=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5302341-1495824565-9401.jpeg.jpg" data-tags="folk, classic rock" role="button">
+<li data-cover="https://img.discogs.com/XfFYwIgsPgcIRN7ZFMQFQWnOrXY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4365396-1362939414-1904.jpeg.jpg" data-tags="folk, classic rock" role="button">
 Don McLean - The Best of Don McLean (2001-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/77163e86-1f3c-456c-89c4-3ac165199264/11923727743-500.jpg" data-tags="indie, rock, hard rock, 00s, laptop, danish, sharp, dk, danish rock, cn, danish group" role="button">
-Carpark North - Carpark North (2003-05-22)
 </li>
 <li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
 Dave Matthews - Some Devil (2003-09-22)
@@ -125,9 +119,6 @@ Jessica Simpson - A Public Affair (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a858891c-0031-4b75-a1dd-2a443c00269f/5344167323-500.jpg" data-tags="svenskt, female vocalist, 00s, laptop, swedish poprock, veronica maggio" role="button">
 Veronica Maggio - Vatten och bröd (2006-09-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, swedish, scandinavian, jazz fusion, nordic, jazz rock, laptop, sweden, scandinavia, i own this album, svenskprov" role="button">
-Bo Kaspers Orkester - Hund (2006-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c50b88cf-46db-45de-820e-f0a957eb36df/21431695590-500.jpg" data-tags="vocal, soul, 60s, 80s, usa, blues, american, gospel, female vocalist, laptop, female jazz vocalist, soul rnb, grammy nominated, american musician, grammy winner 1988" role="button">
 Aretha Franklin - Aretha (2007)
@@ -183,7 +174,7 @@ Morrissey - Years of Refusal (2009-02-13)
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)
 </li>
-<li data-cover="https://img.discogs.com/lN8Lb_czsjDIyono8baGlUiHhHY=/fit-in/599x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215174-1278679597.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
+<li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/993dd992-cc0b-36a6-b9b9-a2a582c141fe/13700643173-500.jpg" data-tags="00s" role="button">
@@ -288,6 +279,9 @@ Lianne La Havas - Is Your Love Big Enough? (2012-08-07)
 <li data-cover="https://img.discogs.com/15GASDSAgsvDQNdxezpPwf14UWI=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3902116-1348631551-3475.jpeg.jpg" data-tags="folk, experimental, indie pop, post-rock, danish, 10s, efterklang" role="button">
 Efterklang - Piramida (2012-08-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
 </li>
@@ -300,11 +294,20 @@ Beth Hart - Bang Bang Boom Boom (2012-10-08)
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
 Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk, vinyl" role="button">
+Laura Marling - Once I Was An Eagle (2013-05-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, laptop, 10s, 2010s, 2013 albums, monochrome album covers, american group, grammy winner 2014" role="button">
 The Civil Wars - The Civil Wars (2013-08-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/dd0f3669-98f7-4ef2-baf1-52f2b1a773a3/4900825867-500.jpg" data-tags="usa, blues, blues rock, female vocalist, laptop, 10s, american group" role="button">
+Tedeschi Trucks Band - Made Up Mind (2013-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/018c99d8-d95d-48c2-8caa-c8bb75184a89/5059807512-500.jpg" data-tags="pop" role="button">
 Veronica Maggio - Handen i fickan fast jag bryr mig (2013-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8e3ca07-71c4-4c15-8675-c49543813138/5643082410-500.jpg" data-tags="pop" role="button">
+Céline Dion - Loved Me Back to Life (2013-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)
@@ -317,8 +320,5 @@ Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="https://img.discogs.com/wMRcKMwJ0nFz2KOlX53qQBdGAXM=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5059198-1383400313-8885.jpeg.jpg" data-tags="rock, usa, psychedelia, roots, garage rock, laptop, 10s, male singer songwriter, albums i have on vinyl, merkliste, my gang 14, american group" role="button">
 Tom Petty and The Heartbreakers - Hypnotic Eye (2014-07-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/2e28942e-51d2-48bd-8ef0-3c9d80af4b2f/8893849827-500.jpg" data-tags="pop, country, usa, compilation, laptop, 10s, female singer songwriter, american musician" role="button">
-Carrie Underwood - Greatest Hits: Decade #1 (2014-12-09)
 </li>
 </ol>

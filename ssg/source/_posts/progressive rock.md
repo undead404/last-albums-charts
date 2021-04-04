@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:23:01.230Z
+date: 2021-04-04T05:04:01.275Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -174,6 +174,9 @@ Anathema - Alternative 4 (1998-06-17)
 <li data-cover="http://coverartarchive.org/release/19f28e19-238c-48ee-8c65-e8182019e1fc/5396844481-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - Stupid Dream (1999-04-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
+Archive - Take My Head (1999-04-20)
+</li>
 <li data-cover="https://img.discogs.com/lqdcerK4c8xbpCYjmTHXeMaMjdQ=/fit-in/389x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528881-1608936675-9430.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - Judgement (1999-06-21)
 </li>
@@ -278,9 +281,6 @@ Fleet Foxes - Sun Giant (2008-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">
-Opeth - Watershed (2008-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/af8722d8-6248-4b9c-9d30-2183eafa2ed9/7955669731-500.jpg" data-tags="rock, alternative, alternative rock, indie" role="button">
 Radiohead - The Best Of (2008-06-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:00:01.265Z
+date: 2021-04-04T04:50:01.218Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/opo5ssBjM3BzSO2P7t2NqLIY4Hs=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3505854-1333125364.jpeg.jpg" data-tags="norwegian" role="button">
+<li data-cover="https://img.discogs.com/usYj9CbiJnPwv9DvaKruUaBhhc8=/fit-in/485x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125275-1350224639-4039.jpeg.jpg" data-tags="norwegian" role="button">
 Madrugada - Madrugada (1974)
 </li>
 <li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">
@@ -30,7 +30,7 @@ a-ha - Hunting High and Low (1985-06-01)
 <li data-cover="http://coverartarchive.org/release/9271a6e7-d4e1-4c51-bce0-1277884214e3/23308406235-500.jpg" data-tags="a-ha" role="button">
 a-ha - East of the Sun West of the Moon (1990-10-12)
 </li>
-<li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="pop, alternative rock, norwegian" role="button">
+<li data-cover="https://img.discogs.com/dVolqH38Ke4APwcbCnBOFwS6p9U=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944511-1193264332.jpeg.jpg" data-tags="pop, alternative rock, norwegian" role="button">
 a-ha - Memorial Beach (1993-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b69e215e-cf17-4624-afe2-01fe2cad4428/4820147028-500.jpg" data-tags="1994, metal, rock, norwegian, classic albums, bleak, skandinavisch, bra album, dice-throw: six" role="button">
@@ -162,9 +162,6 @@ Kings of Convenience - Riot on an Empty Street (2004-06-21)
 <li data-cover="https://img.discogs.com/R2KPNE8FjVAEmIZcvCosLVuxVXY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7770212-1448411827-8581.jpeg.jpg" data-tags="the national bank" role="button">
 The National Bank - The National Bank (2004-08-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/23b41920-7678-47a6-9125-62f62c1a144a/5428905986-500.jpg" data-tags="in memory of valfar" role="button">
-Windir - Valfar, Ein Windir (2004-09-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
 </li>
@@ -285,7 +282,7 @@ Maria Mena - Viktoria (2011-09-23)
 <li data-cover="http://coverartarchive.org/release/9c14cded-3867-4728-8267-551c4ac3c419/2406115549-500.jpg" data-tags="2012" role="button">
 Lindstrøm - Smalhans (2012-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/b20edb01-2408-4d2e-bb8f-aa234e7fa9d9/24892778444-500.jpg" data-tags="2013, electronic, norwegian, 10s, oslo, olsen" role="button">
+<li data-cover="http://coverartarchive.org/release/b20edb01-2408-4d2e-bb8f-aa234e7fa9d9/24892778444-500.jpg" data-tags="electronic, norwegian, 10s, oslo, olsen" role="button">
 Lindstrøm & Todd Terje - Lanzarote (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/efdb4c51-4eee-4379-afc9-ef44e1b6560f/3284275912-500.jpg" data-tags="electronic, ambient, experimental, tech house" role="button">
@@ -294,13 +291,16 @@ Pantha du Prince & The Bell Laboratory - Elements of Light (2013-01-15)
 <li data-cover="http://coverartarchive.org/release/6f9dc0ce-3139-48c9-9d90-a9c5592baddc/10099907545-500.jpg" data-tags="norwegian" role="button">
 Adelén - Bombo (2013-01-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3b02657-913b-4580-9fff-855f0e7cb8a5/11609849261-500.jpg" data-tags="2013, neofolk" role="button">
+<li data-cover="http://coverartarchive.org/release/e3b02657-913b-4580-9fff-855f0e7cb8a5/11609849261-500.jpg" data-tags="neofolk" role="button">
 Wardruna - Runaljod – Yggdrasil (2013-03-15)
 </li>
-<li data-cover="https://img.discogs.com/2biqLp7yaK8LXc5GWXhd6NHM1DA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8938479-1543259564-6928.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
+<li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3929e5c-2287-43e9-879d-adc155e910c6/25194465215-500.jpg" data-tags="2013, electronic, downtempo, norwegian, warm, cold, nocturnal, merkliste, feels, acker bilk, proto-vaporwave" role="button">
+<li data-cover="https://img.discogs.com/ty9yr895evOComp7fj1Y9KsVyuA=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6561067-1435155008-5211.png.jpg" data-tags="electronic" role="button">
+Todd Terje - Strandbar (2013-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3929e5c-2287-43e9-879d-adc155e910c6/25194465215-500.jpg" data-tags="electronic, downtempo, norwegian, warm, cold, nocturnal, merkliste, feels, acker bilk, proto-vaporwave" role="button">
 Röyksopp - Late Night Tales: Röyksopp (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9028aa2d-5482-4e82-bc8a-ff0cb1178842/8871578703-500.jpg" data-tags="pop, norwegian, norway, norge" role="button">

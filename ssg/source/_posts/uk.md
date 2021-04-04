@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:51:01.221Z
+date: 2021-04-04T05:10:01.240Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -35,6 +35,9 @@ David Bowie - Young Americans (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/5904320c-f3ca-4320-bade-58215eda3e0c/1637049317-500.jpg" data-tags="70s" role="button">
 Elton John - Rock Of The Westies (1975-10-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
+Dire Straits - Dire Straits (1978-06-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, uk, pop rock, england, art rock, manchester, reggae rock, mercury records, north west, property, good times records 98" role="button">
 10cc - Bloody Tourists (1978-09)
@@ -96,16 +99,13 @@ Depeche Mode - Ultra (1997-04-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic, trip-hop" role="button">
 Faithless - Reverence (1997-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b890a84c-e4d7-4d4c-9130-4f8406bfd459/6682931356-500.jpg" data-tags="indie, rock, britpop, hupin, psrock, compact discs i own" role="button">
-The Verve - Bitter Sweet Symphony (1997-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/bcbc7ed8-6b81-31d3-85d5-7cca535210dd/17694457523-500.jpg" data-tags="britpop" role="button">
 Travis - The Man Who (1999-05-24)
 </li>
-<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
+<li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
-<li data-cover="https://img.discogs.com/7671t6_gOUBXGxurdZRYDsPfb0Y=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-98180-1497133178-8372.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/U9LEG7nZ8JktYxlMgjZkfCNlWSM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66347-1374100615-6026.jpeg.jpg" data-tags="electronic" role="button">
 Death in Vegas - The Contino Sessions (1999-09-13)
 </li>
 <li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
@@ -222,9 +222,6 @@ Alesha Dixon - The Alesha Show (2008-11-21)
 <li data-cover="http://coverartarchive.org/release/c3fd2cf8-068a-4990-ab98-20bf30a3ef6d/23270034564-500.jpg" data-tags="indie, british, indie rock" role="button">
 The Joy Formidable - A Balloon Called Moaning (2008-12-17)
 </li>
-<li data-cover="https://img.discogs.com/O0WD3ekeZtIODoSmnfQ7g7i4-O0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1733477-1282996272.jpeg.jpg" data-tags="female, soul, uk, female vocalist, 00s, all the best, vile, idol, favoritas, my favorite music, my travel 29, jessica mauboy, love muzik, austrailion, austrailion idol" role="button">
-Jessica Mauboy - Been Waiting (2009-03-06)
-</li>
 <li data-cover="https://img.discogs.com/nF9bZaO-ZkAnhCjS2ob_tSgxn1U=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1742268-1360662462-2807.jpeg.jpg" data-tags="british, uk, experimental rock, britannique" role="button">
 Super Furry Animals - Dark Days/Light Years (2009-03-16)
 </li>
@@ -302,6 +299,9 @@ Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, vinyl, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
 Public Service Broadcasting - Inform - Educate - Entertain (2013-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk, vinyl" role="button">
+Laura Marling - Once I Was An Eagle (2013-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a708edc-1239-4957-8061-4c61692ac646/5233341702-500.jpg" data-tags="indie, alternative rock, indie pop, indie rock, uk, friend recommended,  shoegaze" role="button">
 Swim Deep - Where the Heaven Are We (2013-08-05)

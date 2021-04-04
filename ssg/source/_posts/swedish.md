@@ -1,12 +1,11 @@
 ---
-date: 2021-04-04T02:34:01.211Z
+date: 2021-04-04T05:08:01.245Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">ABBA - Arrival (1976-10-11)</li>
 <li data-cover="http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg" data-tags="garage rock" role="button">The Hives - Veni Vidi Vicious (2000-04-10)</li>
-<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">The Knife - The Knife (2001-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">Caesars - Jerk It Out (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/2ae3ea06-a05a-4389-b2eb-551a3ec9a0ae/13097774396-500.jpg" data-tags="swedish" role="button">Kent - Du & jag döden (2005-03-15)</li>
@@ -14,6 +13,7 @@ title: "swedish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
+<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">Avicii - True (2013-08-13)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -51,7 +51,7 @@ The Cardigans - First Band On The Moon (1996-08-10)
 <li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">
 Eagle-Eye Cherry - Desireless (1997)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish" role="button">
+<li data-cover="https://img.discogs.com/z2LDdrcrJCZrsCEHspi5LC0Ww_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418547-1274954407.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Isola (1997-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
@@ -93,7 +93,7 @@ Caesars - Jerk It Out (2003-03-24)
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
 </li>
-<li data-cover="https://img.discogs.com/h-EXhG6VpurJgbKyYTL8rOdlAt8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335827-1483825501-7289.jpeg.jpg" data-tags="swedish, 00s, indie, rock" role="button">
+<li data-cover="https://img.discogs.com/JG_x2H9jOeZNUhx8S_2zunh0yg4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-409223-1109569656.jpg.jpg" data-tags="swedish, 00s, indie, rock" role="button">
 The Concretes - The Concretes (2003-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
@@ -237,9 +237,6 @@ Melissa Horn - Säg ingenting till mig (2009-10-09)
 <li data-cover="http://coverartarchive.org/release/57e289f1-eaf0-4adc-bd7a-d06577e739a7/973535414-500.jpg" data-tags="swedish" role="button">
 Kent - Röd (2009-11-05)
 </li>
-<li data-cover="https://img.discogs.com/3wW1NU9OkASJ2FIC95rBnP2ndDY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199841-1303595201.jpeg.jpg" data-tags="indie" role="button">
-Shout Out Louds - Work (2010-02-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 </li>
@@ -291,8 +288,11 @@ Sabaton - Carolus Rex (2012-05-22)
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="2013" role="button">
+<li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/e263e701-da41-4ea3-a73c-4636fafc1a1d/3894310297-500.jpg" data-tags="indie, indie rock, 10s" role="button">
+Junip - Junip (2013-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, female vocalists" role="button">
 Say Lou Lou - Julian (2013-05-03)
@@ -300,14 +300,14 @@ Say Lou Lou - Julian (2013-05-03)
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="2013" role="button">
+<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">
 Avicii - True (2013-08-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5baa187-0ebd-4738-8b37-2499adb0a6ac/5267464883-500.jpg" data-tags="pop" role="button">
+Icona Pop - This Is... Icona Pop (2013-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3584b83-aac2-43ae-a706-4d2f712e236a/6851479419-500.jpg" data-tags="pop" role="button">
 Tove Lo - Truth Serum (2014-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/65c40061-a510-4b35-b26b-c23acb386d30/6908247974-500.jpg" data-tags="swedish, 2014 albums, elliphant" role="button">
-Elliphant - Look Like You Love It (2014-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0191b484-34a2-4e81-b359-efd5fe5aced7/27549744046-500.jpg" data-tags="swedish" role="button">
 Kent - Tigerdrottningen (2014-04-30)

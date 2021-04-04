@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:52:01.275Z
+date: 2021-04-04T05:24:01.481Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -93,7 +93,7 @@ Radiohead - Kid A (2000-08-03)
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 </li>
-<li data-cover="https://img.discogs.com/zxQp8NHSvepBQGAdk_wijnPegEs=/fit-in/548x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-437496-1349778731-6583.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
@@ -135,7 +135,7 @@ Massive Attack - 100th Window (2002-12)
 <li data-cover="http://coverartarchive.org/release/f47cfcd8-140d-4293-892f-572f2965b585/18484792876-500.jpg" data-tags="ambient" role="button">
 William Basinski - The Disintegration Loops I (2003-02)
 </li>
-<li data-cover="https://img.discogs.com/o9fqJVAiCJtCpRF9G32DpHJ252Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1629918-1233260087.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
+<li data-cover="https://img.discogs.com/cPOAGSV5Ub7EhGwDZKsrFmxKs00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711857-1362859603-3556.jpeg.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4da446f6-d2c4-3c1d-bbd5-2827edd023a2/11858141676-500.jpg" data-tags="electronic, ambient" role="button">
@@ -216,6 +216,9 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/a6db272a-22e6-485d-8d6b-e6d7f469a08c/15668674653-500.jpg" data-tags="ambient, instrumental, industrial" role="button">
+Nine Inch Nails - Ghosts I-IV (2008-03-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
 Fleet Foxes - Sun Giant (2008-03-09)
 </li>
@@ -227,9 +230,6 @@ Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/ca36b962-175b-468e-abe8-8b46d54f882b/4158600799-500.jpg" data-tags="ambient" role="button">
-Helios - Caesura (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e1423e4-7651-4fc3-a23a-c75ff6dd323e/6273197886-500.jpg" data-tags="electronic" role="button">
 Fever Ray - Fever Ray (2009-01-12)

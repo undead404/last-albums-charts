@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:41:01.264Z
+date: 2021-04-04T04:49:01.428Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![Slipknot - All Hope Is Gone (2008-08-20)](https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg "Slipknot - All Hope Is Gone (2008-08-20)")
@@ -72,11 +72,14 @@ Marilyn Manson - Mechanical Animals (1998-09-14)
 <li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
 Staind - Dysfunction (1999-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/8a069e1f-3866-3b9a-941c-c20e984bf89f/18823687691-500.jpg" data-tags="nu metal, metal" role="button">
+Slipknot - Slipknot (1999-06-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
 Creed - Human Clay (1999-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
-3 Doors Down - The Better Life (2000-02-08)
+<li data-cover="https://img.discogs.com/1YmWLUI6_1W2R2UkOKPP7NX6l7U=/fit-in/281x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1038221-1186910793.jpeg.jpg" data-tags="nu metal" role="button">
+Korn - Issues (1999-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
@@ -207,7 +210,7 @@ Alter Bridge - One Day Remains (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/931a0ad7-8770-47ba-8e41-028310c91921/1091413978-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Chuck (2004-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
@@ -305,9 +308,6 @@ In Flames - Sounds of a Playground Fading (2011-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/afad8b0f-9778-4134-9667-354a515fe2d5/2246569239-500.jpg" data-tags="alternative metal, rock" role="button">
-Three Days Grace - Transit of Venus (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/addcfdab-9c0d-44db-9292-41e918d20e16/2616543949-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Koi No Yokan (2012-11-09)

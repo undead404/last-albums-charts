@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:36:01.254Z
+date: 2021-04-04T05:38:01.305Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -38,9 +38,6 @@ Tori Amos - Little Earthquakes (1992-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
-Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
@@ -159,8 +156,17 @@ Anna Nalick - Wreck of the Day (2005-04-19)
 <li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
+Katie Melua - Piece by Piece (2005-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
+Norah Jones - Not Too Late (2006)
+</li>
 <li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">
+Ingrid Michaelson - Girls and Boys (2006-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc8e84c6-c841-321c-ba2a-3dec63126872/17919825722-500.jpg" data-tags="pop" role="button">
 Nelly Furtado - Loose (2006-06-07)
@@ -222,9 +228,6 @@ Lykke Li - Youth Novels (2008-01-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
-<li data-cover="https://img.discogs.com/vmOG8gWA1E0LtCFsj2A3WRsXfEc=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594382-1279055441.jpeg.jpg" data-tags="female vocalists, hip hop" role="button">
-M.I.A. - Paper Planes (2008-02-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/99eee7d3-a75a-41bd-826f-19a44c53e594/6085827998-500.jpg" data-tags="soul, female vocalists" role="button">
 Duffy - Rockferry (2008-03-03)
 </li>
@@ -269,9 +272,6 @@ Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
-P!nk - Funhouse (2009-08)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)

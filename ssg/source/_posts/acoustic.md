@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:41:01.441Z
+date: 2021-04-04T05:26:01.258Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -54,6 +54,9 @@ Alice in Chains - MTV Unplugged (1996-04-10)
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
+Cat Power - Moon Pix (1998-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
 </li>
@@ -62,6 +65,9 @@ Alanis Morissette - MTV Unplugged (1998-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/79e912db-4f71-4fcb-b5be-aced98234ed3/23716283658-500.jpg" data-tags="acoustic" role="button">
 Dave Matthews & Tim Reynolds - Live At Luther College (1999-01-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac22031b-15c1-4323-a3f2-f6cfe61b9b9c/13116115117-500.jpg" data-tags="acoustic, john mayer" role="button">
+John Mayer - Inside Wants Out (1999-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
@@ -162,9 +168,6 @@ Sufjan Stevens - The Avalanche (2006-07-10)
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
-Horse Feathers - Words Are Dead (2006-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/7dc3d8cb-900a-4816-9985-14be12cf989a/4421812716-500.jpg" data-tags="acoustic" role="button">
 Justin Nozuka - Holly (2007)
 </li>
@@ -173,9 +176,6 @@ Colbie Caillat - Coco (2007-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1c9336f-c371-4af7-9cc3-4b65685a3345/17822792060-500.jpg" data-tags="rock, who you are" role="button">
-Cary Brothers - Who You Are (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
@@ -204,9 +204,6 @@ The Spill Canvas - No Really, I'm Fine (2007-10-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Jack Johnson - Sleep Through The Static (2008-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/123a7fa9-f179-43c9-9353-c4cf2625ed4a/15645014786-500.jpg" data-tags="folk" role="button">
-Laura Marling - Alas I Cannot Swim (2008-02-11)
-</li>
 <li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
@@ -230,6 +227,9 @@ The Weepies - Hideaway (2008-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
+Priscilla Ahn - A Good Day (2008-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Anathema - Hindsight (2008-08-25)

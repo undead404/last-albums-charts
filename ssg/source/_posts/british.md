@@ -1,12 +1,12 @@
 ---
-date: 2021-04-04T01:04:01.233Z
+date: 2021-04-04T04:55:01.246Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">Coldplay - X&Y (2005-06-01)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">Kasabian - Empire (2006-08-25)</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)</li>
+<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">Kate Nash - Made of Bricks (2007-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">Radiohead - In Rainbows (2007-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
@@ -56,9 +56,6 @@ Radiohead - OK Computer (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
-Placebo - Without You I'm Nothing (1998-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
@@ -216,6 +213,9 @@ Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
+<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
+Kate Nash - Made of Bricks (2007-08-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
 </li>
@@ -236,6 +236,9 @@ The Last Shadow Puppets - The Age of the Understatement (2008-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
 The Ting Tings - We Started Nothing (2008-05-16)
+</li>
+<li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
+Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
@@ -266,9 +269,6 @@ Mumford & Sons - Sigh No More (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">
 Adele - 21 (2011-01-19)
-</li>
-<li data-cover="https://img.discogs.com/zISmz0HwlQ-907occ8hezhzkFic=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3340517-1326505885.jpeg.jpg" data-tags="alternative, political" role="button">
-PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
 Jessie J - Who You Are (2011-02-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:40:01.329Z
+date: 2021-04-04T05:22:01.293Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")

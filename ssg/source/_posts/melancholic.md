@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T01:15:01.304Z
+date: 2021-04-04T04:56:01.217Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -10,8 +10,8 @@ title: "melancholic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
 <li data-cover="https://img.discogs.com/lqdcerK4c8xbpCYjmTHXeMaMjdQ=/fit-in/389x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7528881-1608936675-9430.jpeg.jpg" data-tags="progressive rock" role="button">Anathema - Judgement (1999-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
+<li data-cover="http://coverartarchive.org/release/336b5981-acbf-4993-9138-a15fa2b533b0/4577888247-500.jpg" data-tags="neoclassical, post-classical, piano, contemporary classical, neo-classical, ambient, modern classical" role="button">Goldmund - The Malady Of Elegance (2008-07-28)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
-<li data-cover="https://img.discogs.com/2Ja3Yp-0smaCn7iOd2KjMiyzTgQ=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4094426-1482021440-4941.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">Angus & Julia Stone - Down the Way (2010-03-12)</li>
 <li data-cover="http://coverartarchive.org/release/8bd613e5-a2c5-4852-80c1-b45a0ea9232e/10917447319-500.jpg" data-tags="chillout, female vocalists, melancholic, celtic, native americans" role="button">First Aid Kit - Wolf (2012-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">Damien Rice - My Favourite Faded Fantasy (2014-10-31)</li>
 </ol>
@@ -27,7 +27,7 @@ John Coltrane - A Love Supreme (1965-01)
 <li data-cover="http://coverartarchive.org/release/d9ad5347-9829-4fab-ace3-57eba05e7054/20462935528-500.jpg" data-tags="argentina, rock" role="button">
 Pescado Rabioso - Artaud (1973-10)
 </li>
-<li data-cover="https://img.discogs.com/opo5ssBjM3BzSO2P7t2NqLIY4Hs=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3505854-1333125364.jpeg.jpg" data-tags="norwegian" role="button">
+<li data-cover="https://img.discogs.com/usYj9CbiJnPwv9DvaKruUaBhhc8=/fit-in/485x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125275-1350224639-4039.jpeg.jpg" data-tags="norwegian" role="button">
 Madrugada - Madrugada (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e3742f2-5591-3754-a1b1-6ccae9eeee01/6548227474-500.jpg" data-tags="ambient, contemporary classical, minimalism, piano, minimalist, neoclassical, post-classical, piano ambient, ambient piano" role="button">
@@ -66,7 +66,7 @@ Anathema - Eternity (1996-11-11)
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">
 Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
+<li data-cover="https://img.discogs.com/83FV2O-WHKJolCZiykX-kCQWca0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1293819-1207141930.jpeg.jpg" data-tags="darkwave" role="button">
 Clan of Xymox - Hidden Faces (1997-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
@@ -192,6 +192,9 @@ Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 <li data-cover="http://coverartarchive.org/release/dbf7a1c7-d89c-3823-b2d1-6cf2515e3c31/8173020368-500.jpg" data-tags="shoegaze, indie rock, dream pop" role="button">
 Blonde Redhead - 23 (2007-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/301832d9-f503-4e5f-945c-f77e66c4cd59/936789634-500.jpg" data-tags="progressive rock" role="button">
+Antimatter - Leaving Eden (2007-04-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/4ab7278a-20f0-49b2-b157-0a6baf1052c5/1951082691-500.jpg" data-tags="mellow" role="button">
 Sea Wolf - Get To The River Before It Runs Too Low (2007-05-08)
 </li>
@@ -209,6 +212,12 @@ The Fray - Heartless (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
 Spiritualized - Songs In A&E (2008-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/336b5981-acbf-4993-9138-a15fa2b533b0/4577888247-500.jpg" data-tags="neoclassical, post-classical, piano, contemporary classical, neo-classical, ambient, modern classical" role="button">
+Goldmund - The Malady Of Elegance (2008-07-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
+Anathema - Hindsight (2008-08-25)
 </li>
 <li data-cover="https://img.discogs.com/Llq58xhUxQGqEi0cWZG6ehU_Zu8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3596746-1337393999-5756.jpeg.jpg" data-tags="folk" role="button">
 Peter Broderick - Home (2008-09-23)
@@ -237,14 +246,11 @@ Nicolas Jaar - Time for Us EP (2010-01)
 <li data-cover="https://img.discogs.com/x9XMWnzLUqK38h1-TgIrjtyadck=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2101763-1264100030.jpeg.jpg" data-tags="indie, rock" role="button">
 Eels - End Times (2010-01-18)
 </li>
-<li data-cover="https://img.discogs.com/2Ja3Yp-0smaCn7iOd2KjMiyzTgQ=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4094426-1482021440-4941.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
+<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
 Ólafur Arnalds - ...and they have escaped the weight of darkness (2010-05-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="piano, contemporary classical, minimalism" role="button">
-Clem Leek - Holly Lane (2010-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/93922dd3-28a6-329a-ab40-a8c63535f743/3717426092-500.jpg" data-tags="indie, dream pop, 4ad" role="button">
 Blonde Redhead - Penny Sparkle (2010-09-10)
@@ -266,9 +272,6 @@ A Winged Victory for the Sullen - A Winged Victory for the Sullen (2011-09-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
-</li>
-<li data-cover="https://img.discogs.com/G2HX-s4LLwhSEV6SJ8F2NszvbQw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3133691-1352857377-6864.jpeg.jpg" data-tags="ambient, piano, contemporary classical, neoclassical, post-classical, cinematic, melancholy, minimalism, melancholic, modern classical, minimalist, piano ambient, contemporary piano, ambient piano, neo-classical, alternative, experimental-ambient, minimal ambient, modern composition, minimal piano" role="button">
-Harold Budd - In The Mist (2011-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4cfc997-a4d0-4703-8058-9ffef127d537/16424727978-500.jpg" data-tags="singer-songwriter, canadian, melancholic, lieblingslied, play on words, lieblingssongs, webrecced" role="button">
 Dan Mangan - Oh Fortune (2011-09-27)
@@ -308,9 +311,6 @@ London Grammar - If You Wait (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5adeb0cd-f15c-447c-82a4-2d6fb5279436/6728311268-500.jpg" data-tags="indie pop, british" role="button">
 Metronomy - Love Letters (2013-12-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/aaed190c-fc3a-43c2-acdd-aa06b390b9cf/10369854892-500.jpg" data-tags="ambient" role="button">
-Grouper - Ruins (2014-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Damien Rice - My Favourite Faded Fantasy (2014-10-31)
