@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T06:23:01.423Z
+date: 2021-04-04T09:59:01.473Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -117,14 +117,14 @@ Misfits - Static Age (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
-Dropkick Murphys - Do or Die (1998-01-13)
-</li>
 <li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="https://img.discogs.com/Ed6zur6V7QL3cQwSuhTSu7dIbiY=/fit-in/189x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596818-1448916413-5494.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
+Bloodhound Gang - Hooray for Boobies (1999-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg" data-tags="horror punk, punk" role="button">
 Misfits - Famous Monsters (1999-10-05)
@@ -228,7 +228,7 @@ Bowling for Soup - A Hangover You Don't Deserve (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">
 Senses Fail - Let It Enfold You (2004-09-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="irish, punk" role="button">
+<li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Within a Mile of Home (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">
@@ -270,9 +270,6 @@ The All-American Rejects - Move Along (2006)
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - The Sufferer & the Witness (2006-07-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
-The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)
 </li>
@@ -305,6 +302,9 @@ The Gaslight Anthem - The '59 Sound (2008-08-18)
 </li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/af93aa3c-4046-40f1-8b84-c6cc95ab91a2/14099783969-500.jpg" data-tags="punk" role="button">
+The Offspring - You're Gonna Go Far, Kid (2008-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)

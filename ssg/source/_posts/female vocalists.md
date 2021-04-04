@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:20:01.319Z
+date: 2021-04-04T10:01:07.759Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -24,13 +24,10 @@ _________________
 <li data-cover="https://img.discogs.com/fBTVUA1oeZEdGlBzNS200O1__yM=/fit-in/600x1013/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12214678-1530648799-2411.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
-Kate Bush - Hounds of Love (1985-09-16)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Tracy Chapman - Tracy Chapman (1988-04-01)
 </li>
-<li data-cover="https://img.discogs.com/v0hIr7vDyXjRKtS19EkkTOWPUfU=/fit-in/600x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-948871-1400406370-4362.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/W8A4v5z88ipMQ4n14waX-E5rgY8=/fit-in/543x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841631-1359313838-7780.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
@@ -86,6 +83,9 @@ Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
+Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
 Cat Power - You Are Free (2003-02-17)
@@ -183,9 +183,6 @@ Lily Allen - Alright, Still (2006-07-17)
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
-The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
-</li>
 <li data-cover="https://img.discogs.com/kAiO6KFJEB0AheBKPUCEyZjsueQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019630-1215843921.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
 </li>
@@ -272,6 +269,9 @@ Bat for Lashes - Two Suns (2009-04-03)
 </li>
 <li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
+Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
