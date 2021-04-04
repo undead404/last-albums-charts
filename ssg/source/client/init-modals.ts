@@ -1,8 +1,9 @@
 import jQuery from 'jquery';
 
 export default function initModals(): void {
-  const $body = jQuery('body');
-  const $modal = jQuery(`<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modal-title" aria-hidden="true">
+  jQuery(() => {
+    const $body = jQuery('body');
+    const $modal = jQuery(`<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modal-title" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
         <div class="modal-header">
@@ -17,18 +18,19 @@ export default function initModals(): void {
       </div>
     </div>
     </div>`).appendTo($body);
-  const $modalTitle = $modal.find('.modal-title');
-  const $modalBody = $modal.find('.modal-body');
-  jQuery(`.albums li`).on('click', (event) => {
-    const $item = jQuery(event.target);
-    const title = $item.text();
-    const coverSource = $item.data('cover');
-    $modalTitle.text(title);
-    const tags = $item.data('tags');
-    $modalBody.html(`<div class="text-center">
+    const $modalTitle = $modal.find('.modal-title');
+    const $modalBody = $modal.find('.modal-body');
+    jQuery(`.albums li`).on('click', (event) => {
+      const $item = jQuery(event.target);
+      const title = $item.text();
+      const coverSource = $item.data('cover');
+      $modalTitle.text(title);
+      const tags = $item.data('tags');
+      $modalBody.html(`<div class="text-center">
     <img src="${coverSource}" class="rounded mx-auto d-block w-100" alt="${title}">
     <p class="text-justify">${tags}</p>
     </div>`);
-    $modal.modal();
+      $modal.modal();
+    });
   });
 }

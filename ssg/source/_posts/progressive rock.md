@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:21:01.612Z
+date: 2021-04-04T10:04:01.365Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -24,14 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
 Pink Floyd - A Saucerful of Secrets (1968-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ac5a1f8-51d0-3db3-bfdc-c5803d8f2799/14207788461-500.jpg" data-tags="progressive rock, psychedelic rock, 60s, soundtrack" role="button">
-Pink Floyd - More (1969-06-13)
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+King Crimson - In the Court of the Crimson King (1969-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock" role="button">
 Frank Zappa - Hot Rats (1969-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/53e9678a-90dd-3c32-8d28-1584b612f95f/9839280602-500.jpg" data-tags="psychedelic rock, progressive rock" role="button">
-Pink Floyd - Ummagumma (1969-10-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, 60s, glam rock" role="button">
 David Bowie - Space Oddity (1969-11-04)
@@ -39,11 +36,17 @@ David Bowie - Space Oddity (1969-11-04)
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/dad08647-abd1-39f8-a7aa-8151f7032465/22645703666-500.jpg" data-tags="progressive rock" role="button">
+Emerson, Lake & Palmer - Emerson, Lake & Palmer (1970-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/20f367e3-ab11-4dcd-9350-8ef410a126ef/10021296073-500.jpg" data-tags="progressive rock" role="button">
 Jethro Tull - Aqualung (1971-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7acaa9ab-048c-3c82-8623-ea9b777137ac/2550522708-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Meddle (1971-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7328e28-9d79-4025-a804-21362e0465a6/7295032524-500.jpg" data-tags="progressive rock" role="button">
+Yes - Fragile (1971-11-12)
 </li>
 <li data-cover="https://img.discogs.com/H5oODcDFqsTdAgHElEeZewNX7oo=/fit-in/562x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1579909-1229893753.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Wishbone Ash - Argus (1972-04-28)
@@ -51,14 +54,23 @@ Wishbone Ash - Argus (1972-04-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Pink Floyd - Obscured by Clouds (1972-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b9b5b13-5639-4645-b89b-e5ea555f9a65/7295017114-500.jpg" data-tags="progressive rock" role="button">
+Yes - Close to the Edge (1972-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/8777b21d-78b9-4cf8-87b9-3c9d9f89475d/10493893922-500.jpg" data-tags="progressive rock" role="button">
 Genesis - Foxtrot (1972-10)
 </li>
-<li data-cover="https://img.discogs.com/cmMfLyYPU0l1QJDZlfdmfmU7neU=/fit-in/600x902/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7522735-1443235897-4337.jpeg.jpg" data-tags="hard rock, progressive rock, classic rock" role="button">
-Rush - Rush (1974-03-01)
+<li data-cover="http://coverartarchive.org/release/d7876fcb-c629-4b17-b973-de9824279360/23147950347-500.jpg" data-tags="progressive rock" role="button">
+Genesis - Selling England by the Pound (1973-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/3eed3f3e-ec3d-4789-a1eb-8c92f102ff0a/5478242459-500.jpg" data-tags="progressive rock" role="button">
+Camel - Mirage (1974-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f33a793-2ca8-47e4-8efe-daa5bd03ff8f/5183196329-500.jpg" data-tags="progressive rock, classic rock" role="button">
 Supertramp - Crime of the Century (1974-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/b75af773-cd7b-4470-8446-af8aa89a24ae/3114542174-500.jpg" data-tags="progressive rock" role="button">
+King Crimson - Red (1974-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a63a9853-3575-4f6a-aa11-b205d24a272b/21986988027-500.jpg" data-tags="progressive rock, hard rock" role="button">
 Rush - Fly by Night (1975-02-15)
@@ -66,11 +78,8 @@ Rush - Fly by Night (1975-02-15)
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8fd628c-9cb7-37ef-a3e8-7c02d81bac73/1203761440-500.jpg" data-tags="progressive rock" role="button">
-Rush - Caress of Steel (1975-09-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">
-Queen - A Night at the Opera (1975-11-21)
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Rush - 2112 (1976-04-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Boston - Boston (1976-09)
@@ -80,6 +89,9 @@ Kansas - Leftoverture (1976-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Rush - A Farewell to Kings (1977-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/36594124-8097-3af9-891a-8a03b154c79b/23541528287-500.jpg" data-tags="classic rock, 70s" role="button">
 Electric Light Orchestra - Out of the Blue (1977-10)
@@ -96,6 +108,9 @@ Pink Floyd - The Wall (1979-11-30)
 <li data-cover="http://coverartarchive.org/release/95cdd8d5-1e67-40ec-8775-6cb16e3cf631/986900014-500.jpg" data-tags="progressive rock" role="button">
 Rush - Permanent Waves (1980-01-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+Rush - Moving Pictures (1981-02-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/9e1604a5-a7b1-46f4-adff-b5c5a8bd33b0/12748445063-500.jpg" data-tags="progressive rock" role="button">
 Asia - Asia (1982-03-18)
 </li>
@@ -108,9 +123,6 @@ Rush - Signals (1982-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7d24b1b-213f-3271-a392-a17b3cdc0d49/9708066247-500.jpg" data-tags="progressive rock" role="button">
-Mike Oldfield - Crises (1983-05-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Genesis - Genesis (1983-10-03)
 </li>
@@ -119,9 +131,6 @@ Yes - 90125 (1983-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Kansas - The Best of Kansas (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
-Kate Bush - Hounds of Love (1985-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bc83ff3-ac0e-4fa5-8dfc-a5aa1bf57afd/15367001320-500.jpg" data-tags="progressive rock, 80s" role="button">
 Peter Gabriel - So (1986-05-19)
@@ -150,6 +159,9 @@ Tool - Undertow (1993-04-06)
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Division Bell (1994-03-28)
 </li>
+<li data-cover="https://img.discogs.com/P0DzPhdfZ95KP8ESoJ0PJt99yXc=/fit-in/498x794/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11854047-1523523939-1617.jpeg.jpg" data-tags="progressive rock, instrumental" role="button">
+Mike Oldfield - Tubular Bells (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Pulse (1995-05-29)
 </li>
@@ -161,9 +173,6 @@ Tool - Ænima (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a51b23b-4594-4abe-8c69-19b8cfa49184/8630651837-500.jpg" data-tags="doom metal, progressive rock, progressive metal" role="button">
 Anathema - Alternative 4 (1998-06-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/19f28e19-238c-48ee-8c65-e8182019e1fc/5396844481-500.jpg" data-tags="progressive rock" role="button">
-Porcupine Tree - Stupid Dream (1999-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
 Archive - Take My Head (1999-04-20)
@@ -189,9 +198,6 @@ Anathema - A Fine Day to Exit (2001-10-01)
 <li data-cover="http://coverartarchive.org/release/2ab5fdc1-c24e-4f08-bc3b-ab291f515349/6572317296-500.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
-Archive - You All Look the Same to Me (2002-03-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
 </li>
@@ -216,9 +222,6 @@ A Perfect Circle - Thirteenth Step (2003-09-15)
 <li data-cover="https://img.discogs.com/FGPLF4s1qmg4p2ZD8e9fim49-88=/fit-in/599x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371685-1278657433.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - A Natural Disaster (2003-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/e178e284-cbf6-30b2-8658-cb0111c78229/1118918783-500.jpg" data-tags="progressive metal" role="button">
-Dream Theater - Train of Thought (2003-11-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
 </li>
@@ -240,8 +243,8 @@ Circa Survive - Juturna (2005-04-19)
 <li data-cover="http://coverartarchive.org/release/9c12794e-79df-4be1-997e-ad100efe8b08/1118860247-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Octavarium (2005-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
-30 Seconds to Mars - A Beautiful Lie (2005-08-16)
+<li data-cover="http://coverartarchive.org/release/b0c39138-47b2-41ec-82f8-636a66916317/4766487756-500.jpg" data-tags="progressive rock, alternative rock" role="button">
+dredg - Catch Without Arms (2005-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
@@ -255,20 +258,17 @@ Pure Reason Revolution - The Dark Third (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
 Tool - 10,000 Days (2006-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
-Muse - Black Holes & Revelations (2006-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/aefcf53b-5980-463b-b03d-a6c8da6a9432/2432254769-500.jpg" data-tags="alternative rock, rock" role="button">
 Muse - Black Holes and Revelations (2006-06-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+The Mars Volta - Amputechture (2006-09-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
 Circa Survive - On Letting Go (2007-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fbd9c3d-c46d-4242-85f4-7d11961edb74/8259450872-500.jpg" data-tags="progressive rock" role="button">
-Fair to Midland - Fables From a Mayfly: What I Tell You Three Times is True (2007-06-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Riverside - Rapid Eye Movement (2007-09-24)
@@ -281,9 +281,6 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/af8722d8-6248-4b9c-9d30-2183eafa2ed9/7955669731-500.jpg" data-tags="rock, alternative, alternative rock, indie" role="button">
-Radiohead - The Best Of (2008-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac6cd22-58bd-40fe-aaf6-4746bdb9a684/14740011088-500.jpg" data-tags="progressive rock" role="button">
 Karnivool - Sound Awake (2009-06-05)
@@ -311,6 +308,9 @@ Anathema - Weather Systems (2012-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ac426a4-f2c0-4176-86d6-1453cab3f999/23741623778-500.jpg" data-tags="progressive rock" role="button">
+Steven Wilson - The Raven That Refused to Sing (and Other Stories) (2013-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/caae6490-8ba4-4b39-8ad9-8913cfd662ba/4281390549-500.jpg" data-tags="experimental, indie rock, 2010s, incredible, the good shit" role="button">
 Portugal. The Man - Evil Friends (2013-05-31)

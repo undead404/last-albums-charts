@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T09:37:01.278Z
+date: 2021-04-04T10:07:01.287Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Meteora (2003-03-24)](http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg "Linkin Park - Meteora (2003-03-24)")
@@ -153,9 +153,6 @@ Soulfly - 3 (2002-06-24)
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
 Stone Sour - Stone Sour (2002-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/91d85c0e-319f-45c4-a863-026ef06774fd/9406265439-500.jpg" data-tags="alternative rock" role="button">
-Breaking Benjamin - Saturate (2002-08-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Believe (2002-09-16)
 </li>
@@ -173,6 +170,9 @@ Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
 <li data-cover="https://img.discogs.com/iDdlLIrLmoqxcFi0YfgTSWoiuio=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3519602-1333668651.jpeg.jpg" data-tags="metalcore" role="button">
 36 Crazyfists - A Snow Capped Romance (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
+Celldweller - Celldweller (2003-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/40e7c84f-309b-4d2e-b93c-c9d56f682665/17105713835-500.jpg" data-tags="alternative rock" role="button">
 Guano Apes - Walking on a Thin Line (2003-02-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:20:01.814Z
+date: 2021-04-04T10:02:01.512Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -30,9 +30,6 @@ The Rolling Stones - Let It Bleed (1969-11-29)
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">
-Lou Reed - Transformer (1972)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
 </li>
@@ -56,6 +53,9 @@ Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="https://img.discogs.com/Dfn7D5B0m4g0smYVNzc905-GXwM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021337-1243356062.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
 The Smashing Pumpkins - Siamese Dream (1993-07-26)
+</li>
+<li data-cover="https://img.discogs.com/XCplQuezqTz0DbPQDQfYxmFHYLc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1953989-1577338995-9744.jpeg.jpg" data-tags="rock" role="button">
+Counting Crows - August And Everything After (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
