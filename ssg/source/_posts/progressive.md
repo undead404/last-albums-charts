@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:06:01.304Z
+date: 2021-04-04T22:41:01.347Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -77,9 +77,6 @@ Primus - Brown Album (1997-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3821edb-ec09-443d-907f-0e88bc360f2d/9056068775-500.jpg" data-tags="britpop, progressive" role="button">
 Mansun - Six (1998)
-</li>
-<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
-Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="https://img.discogs.com/OoYqRaioExYwRVxBBVILXXa8h8g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381539-1234352618.jpeg.jpg" data-tags="experimental, avant-garde, mike patton" role="button">
 Mr. Bungle - California (1999-07-13)
@@ -177,11 +174,17 @@ dredg - Catch Without Arms (2005-06-21)
 <li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
 Karnivool - Themata (2005-07-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/45641120-9137-3d9b-bb47-8915b1541a3d/17802812575-500.jpg" data-tags="post-hardcore" role="button">
+The Fall of Troy - Doppelganger (2005-08-15)
+</li>
 <li data-cover="https://img.discogs.com/MSW7lWwYCopRI-EnvQDU9DY9yWw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822750-1325251581.jpeg.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Ghost Reveries (2005-08-26)
 </li>
 <li data-cover="https://img.discogs.com/lwvpB0N1YbbL4pvfWsvdAUXJEmY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1259407-1254652496.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Everyone Into Position (2005-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">
+Thrice - Vheissu (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
@@ -207,7 +210,7 @@ Paolo Nutini - These Streets (2006-07-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - Amputechture (2006-09-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/BKQAPLK38OM1WFyHhEvQevfnUz8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039025-1494295675-6819.jpeg.jpg" data-tags="experimental, post-hardcore" role="button">
 Fear Before The March Of Flames - The Always Open Mouth (2006-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
@@ -284,9 +287,6 @@ deadmau5 - For Lack of a Better Name (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff398e09-c0ce-4d06-ac4c-de78096b6551/24625583789-500.jpg" data-tags="progressive rock, post-hardcore, progressive" role="button">
 The Fall of Troy - In the Unlikely Event (2009-10-06)
-</li>
-<li data-cover="https://img.discogs.com/ZC5xycarwTNqaLzU01OPjVpwX7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15902545-1599892724-9591.jpeg.jpg" data-tags="electro-techno" role="button">
-Nicolas Jaar - Time for Us EP (2010-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a10f34d5-8afb-460e-b6d5-a442eb7c4a2c/9612740615-500.jpg" data-tags="indie rock" role="button">
 Portugal. The Man - American Ghetto (2010-05-11)

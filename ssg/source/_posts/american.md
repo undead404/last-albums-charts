@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:01:01.315Z
+date: 2021-04-04T22:32:02.104Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -126,8 +126,14 @@ Kelly Clarkson - Breakaway (2004-11-30)
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
-Devendra Banhart - Cripple Crow (2005-09-13)
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock, alternative" role="button">
+Weezer - Make Believe (2005-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">
+Foo Fighters - In Your Honor (2005-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
+The Pussycat Dolls - PCD (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
@@ -137,6 +143,9 @@ The All-American Rejects - Move Along (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
+Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
@@ -255,14 +264,8 @@ Mike Posner - 31 Minutes to Takeoff (2010-08-10)
 <li data-cover="https://img.discogs.com/9xjOUgnP8Bz4NDWDmotxkZ-MBk0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2629696-1301011049.jpeg.jpg" data-tags="progressive folk, chamber folk" role="button">
 Sufjan Stevens - All Delighted People EP (2010-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
-The Pretty Reckless - Light Me Up (2010-08-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/a4e8c0a1-52b1-4737-be06-374758361a96/24554182813-500.jpg" data-tags="electronica, indie rock, indie electronic, usa, american, alternative dance, dance-punk, lcd soundsystem, where is my bong, weightlifting music, music to play on mdma, has me dancing even now, casa cubo" role="button">
-LCD Soundsystem - London Sessions (2010-11-05)
 </li>
 <li data-cover="https://img.discogs.com/qMHluBLlGky3s4DVN_6TUIF21T0=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3205463-1582999779-8695.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, american" role="button">
 Cage the Elephant - Thank You, Happy Birthday (2011-01-11)
@@ -308,9 +311,6 @@ Kanye West - Yeezus (2013-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
-Banks - Goddess (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)

@@ -1,16 +1,16 @@
 ---
-date: 2021-04-04T19:54:01.294Z
+date: 2021-04-04T22:22:01.279Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="rock, 60s" role="button">The Beatles - Yellow Submarine (1969-01-13)</li>
-<li data-cover="http://coverartarchive.org/release/41bb7cd9-f05f-4df3-a360-5ee2bd931325/12259794502-500.jpg" data-tags="soundtrack, 80s, unique, 1980s, film soundtrack, movie music, akrazia, princeprinceprince" role="button">Prince - Parade - Music From The Motion Picture Under The Cherry Moon (1986-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">Philip Glass - Koyaanisqatsi (1998-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">Air - The Virgin Suicides (2000-02-25)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
 <li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - The Pick of Destiny (2006-09-26)</li>
+<li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/dc77999c-ebb4-4ad0-a8d4-8a3aa503eaaa/5502447388-500.jpg" data-tags="soundtrack" role="button">Hans Zimmer - Inception (2010-07-13)</li>
 <li data-cover="http://coverartarchive.org/release/998e28f9-ed94-4de1-af8e-8dc544c1ab31/10072281735-500.jpg" data-tags="soundtrack" role="button">Trent Reznor and Atticus Ross - The Social Network (2010-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg" data-tags="electronic, soundtrack" role="button">Daft Punk - TRON: Legacy (2010-12-06)</li>
@@ -33,7 +33,7 @@ The Beatles - Yellow Submarine (1969-01-13)
 <li data-cover="http://coverartarchive.org/release/3ac5a1f8-51d0-3db3-bfdc-c5803d8f2799/14207788461-500.jpg" data-tags="progressive rock, psychedelic rock, 60s, soundtrack" role="button">
 Pink Floyd - More (1969-06-13)
 </li>
-<li data-cover="https://img.discogs.com/dil9fF22pZEREMhk4s8IIoSNiLM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4041433-1383441666-5549.jpeg.jpg" data-tags="soundtrack, folk" role="button">
+<li data-cover="https://img.discogs.com/dLvUBeaGRpebiGSGlXElAfBzW7E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2884262-1305639329.jpeg.jpg" data-tags="soundtrack, folk" role="button">
 Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
@@ -123,9 +123,6 @@ Air - The Virgin Suicides (2000-02-25)
 <li data-cover="https://img.discogs.com/mjjBxjilzai8Lg9Dc3Qq7gQqc04=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1861164-1256085468.jpeg.jpg" data-tags="soundtrack" role="button">
 Björk - Selmasongs (2000-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ffab8b0-49ff-41d4-aa5d-ad26a6601b61/11277532796-500.jpg" data-tags="soundtrack" role="button">
-Various Artists - O Brother, Where Art Thou? (2000-10-23)
-</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
@@ -191,6 +188,9 @@ Tenacious D - The Pick of Destiny (2006-09-26)
 </li>
 <li data-cover="https://img.discogs.com/wlpdR9G9uNwA73eCGfS9NIErWh8=/fit-in/560x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719826-1158229502.jpeg.jpg" data-tags="football" role="button">
 Mogwai - Zidane: A 21st Century Portrait (2006-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">
+Clint Mansell - The Fountain (2006-11-21)
 </li>
 <li data-cover="https://img.discogs.com/Ou6nX6nIXNWMEzAp3nWybpEE5pw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16199810-1605146727-1040.jpeg.jpg" data-tags="soundtrack" role="button">
 Dario Marianelli - Atonement (2007-01-01)

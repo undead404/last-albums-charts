@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T11:21:02.253Z
+date: 2021-04-04T21:53:01.304Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -126,11 +126,14 @@ Editors - The Back Room (2005-01-01)
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">
 Bloc Party - Silent Alarm (2005-02-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
+<li data-cover="https://img.discogs.com/fx-3qtaLGu4XcxypfYKwWSLP_i0=/fit-in/549x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501014-1389844857-4827.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7abad537-2974-3d4f-9b62-e5e5f03cd1a1/7544348813-500.jpg" data-tags="indie, rock, british, indie rock" role="button">
 Arctic Monkeys - I Bet You Look Good on the Dancefloor (2005-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
+Gorillaz - Demon Days (2005-05-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
@@ -308,9 +311,6 @@ Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c6480be-d53a-4c46-bb7c-c5187ab99ff5/8207839327-500.jpg" data-tags="indie, british" role="button">
-The Kooks - Listen (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)

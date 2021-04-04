@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:49:01.263Z
+date: 2021-04-04T22:43:01.345Z
 title: "late night: 100 albums you must listen to before you die"
 ---
 ![Chromatics - Kill for Love (2012-03-26)](http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg "Chromatics - Kill for Love (2012-03-26)")
@@ -8,10 +8,10 @@ title: "late night: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">Cat Power - Moon Pix (1998-09-22)</li>
 <li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock, favorite" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
-<li data-cover="http://coverartarchive.org/release/c375731f-f692-46e8-bef2-227c4bd1b346/2094797722-500.jpg" data-tags="indie" role="button">Andrew Bird - Noble Beast (2009-01-20)</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">Little Dragon - Ritual Union (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">Chromatics - Kill for Love (2012-03-26)</li>
+<li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg" data-tags="punk, revolution, hard rock, energetic, angry, late night, passionate, fierce, intense, fiery, confrontational, earnest, snide, raucous, drinking, road trip, protest, nighttime, rebellious, joy, exuberant, empowerment, cathartic, rowdy, volatile, gutsy, sprawling, british punk, dance-rock, tgif, brash, guys night out, hanging out, reckless, night driving, open road" role="button">The Clash - Hits Back (2013-08-26)</li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">The War on Drugs - Lost in the Dream (2014-03-18)</li>
 </ol>
@@ -27,11 +27,11 @@ Ravi Shankar - The Sounds of India (1958)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, free jazz" role="button">
 Ornette Coleman - The Shape of Jazz to Come (1959-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/b080958a-f13b-4be3-b02d-7537f9a14735/14838055580-500.jpg" data-tags="jazz" role="button">
+Grant Green - Idle Moments (1964)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
 Miles Davis - Bitches Brew (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a10b3a4-4c2d-37f7-8eb5-472ea6bfff2d/15959429311-500.jpg" data-tags="fusion, jazz, funk, 70s, avant-garde" role="button">
-Miles Davis - On the Corner (1972-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/20a3b21d-5d06-4db7-a737-cce696fd763e/10723116989-500.jpg" data-tags="classic rock, rock" role="button">
 Faces - Ooh La La (1973)
@@ -39,14 +39,11 @@ Faces - Ooh La La (1973)
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/29025146-1efd-4637-b939-d06340499917/14995029278-500.jpg" data-tags="classic rock" role="button">
-Steve Miller Band - Fly Like An Eagle (1976-05)
+<li data-cover="http://coverartarchive.org/release/07659b32-36b3-4ff8-91c3-7c9edbe6c4a5/1339538879-500.jpg" data-tags="classic rock" role="button">
+Billy Joel - 52nd Street (1978-10-13)
 </li>
 <li data-cover="https://img.discogs.com/PW_RrZFLR6yk8e3eKT1Qxw_F73I=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7475809-1499953694-6246.jpeg.jpg" data-tags="80s, robert palmer, pop, rock" role="button">
 Robert Palmer - Clues (1980)
-</li>
-<li data-cover="https://img.discogs.com/lkFFtR4ihpsGjOhW892olMwVJl0=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336217-1433823041-9294.jpeg.jpg" data-tags="jangle pop, post-punk, new wave" role="button">
-The Feelies - Crazy Rhythms (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6b61a32-aded-477b-97e9-aa77756afe82/1857195645-500.jpg" data-tags="pop, new wave" role="button">
 Grace Jones - Warm Leatherette (1980)
@@ -62,6 +59,9 @@ Billy Joel - An Innocent Man (1983-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/512b72ed-014d-4e35-b49b-8265e5a64442/25984864434-500.jpg" data-tags="alternative, 80s" role="button">
 The Sugarcubes - Life's Too Good (1988-04)
+</li>
+<li data-cover="https://img.discogs.com/pDhLBqBs6D8ODY8kSrKc0iguskY=/fit-in/600x925/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585572-1431987750-2872.jpeg.jpg" data-tags="soundtrack" role="button">
+Angelo Badalamenti - Soundtrack From Twin Peaks (1990-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a51280da-bfc8-3572-95ab-f56b6549592f/3973690036-500.jpg" data-tags="hip-hop" role="button">
 Pete Rock & C.L. Smooth - Mecca and the Soul Brother (1992-06-09)
@@ -81,9 +81,6 @@ Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
 Autechre - Amber (1994-11-07)
 </li>
-<li data-cover="https://img.discogs.com/rskzeijYKyUBSp_3O6sDj3NSOrM=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926785-1173647488.jpeg.jpg" data-tags="indie, rock, chamber pop" role="button">
-Tindersticks - Tindersticks [II] (1995-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/7086c733-4ced-4f36-b024-74404bb7ab80/3357063370-500.jpg" data-tags="punk" role="button">
 Jawbreaker - Dear You (1995-09-12)
 </li>
@@ -93,10 +90,7 @@ Cat Power - Myra Lee (1996-03-04)
 <li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
 Broadcast - Work and Non Work (1997-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
-Alpha - Come From Heaven (1997-09-15)
-</li>
-<li data-cover="https://img.discogs.com/5QmbbzDRzxJgCIL2udVH42LGRZQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1143030-1310383269.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
+<li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
 <li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
@@ -111,20 +105,23 @@ Boards of Canada - Peel Session - EP (1998-06-16)
 <li data-cover="http://coverartarchive.org/release/21841c6d-80db-4005-a2e2-cfcf0dc6f237/21761342218-500.jpg" data-tags="indie rock" role="button">
 Sparklehorse - Good Morning Spider (1998-07-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/74d7fb15-4230-3fbd-8b00-2f296c8c3d0c/21228220316-500.jpg" data-tags="downtempo, electronica" role="button">
-Fila Brazillia - Power Clown (1998-08)
-</li>
 <li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
 Mercury Rev - Deserter's Songs (1998-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
 Cat Power - Moon Pix (1998-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/83473368-c1e7-457f-876e-0f1661be6a08/21916554438-500.jpg" data-tags="jazz" role="button">
+Peggy Lee - The Best Of Miss Peggy Lee (1998-10-08)
+</li>
 <li data-cover="https://img.discogs.com/CHNcPnuEh8wXeeCBy4GdJMTqGDQ=/fit-in/363x363/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2262560-1362436506-6613.gif.jpg" data-tags="kranky" role="button">
 Low - Secret Name (1999-03-30)
 </li>
 <li data-cover="https://img.discogs.com/D2NdV8erfsfu9n6z_4MvJzdqrI4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10882504-1505895149-5695.jpeg.jpg" data-tags="electronic, electronica, indie rock, indie electronic, post-rock, downtempo, druggy, ambient pop, psychedelic pop, dreamy, reflective, atmospheric, whimsical, late night, dream pop, clinical, literate, ethereal, fractured, wry, dramatic, introspection, reflection, eerie, hypnotic, spacey, psychedelic rock, trippy, sophisticated, poignant, detached, playful, sunday afternoon, sweet, solitude, delicate, light, background music, nocturnal, imagination, avant-pop, refined, stylish, wintry, hanging out, restrained, sparkling, circular, innocent, spiked-candy radio, space-age, retro-futuristic, julian house album art, ashich party" role="button">
 Broadcast - Echo's Answer (1999-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
+Eric Clapton - Clapton Chronicles: The Best of Eric Clapton (1999-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/deae19bf-fbbd-4e49-9324-7ab0ae2db342/15203666279-500.jpg" data-tags="hip hop, hip-hop" role="button">
 A Tribe Called Quest - The Anthology (1999-10-25)
@@ -140,9 +137,6 @@ Calla - Scavengers (2001-01-16)
 </li>
 <li data-cover="https://img.discogs.com/KUhhFJ6QRaMquXb4TG38FaAe9_g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680208-1240508379.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/aa48ac28-57e0-3019-ba97-db523a26471e/7733173920-500.jpg" data-tags="house, electronic" role="button">
-Modjo - Modjo (2001-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/194ba0b8-8f76-3122-b5bd-6e2e6d8937dc/7202965936-500.jpg" data-tags="lo-fi, for rainy days, 00s, minimal indie" role="button">
 Vincent Gallo - When (2001-10-01)
@@ -186,10 +180,7 @@ Gossip - Standing in the Way of Control (2005)
 <li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
 Lemon Jelly - '64-'95 (2005-01-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
-DIR EN GREY - Withering to death (2005-03-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
+<li data-cover="https://img.discogs.com/BfR23KCmeMY9SrhQ9fXmNBj4_ZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515157-1314050368.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Nada Surf - The Weight Is a Gift (2005-09-05)
 </li>
 <li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
@@ -210,7 +201,7 @@ D'espairsRay - MIRROR (2007-04-11)
 <li data-cover="http://coverartarchive.org/release/39179293-13af-457b-86f8-5aa593cb280b/2363973540-500.jpg" data-tags="rock, alternative rock, happy, tranquility, angry, late night, mysterious, 00s, mute records, want, album, great production, sternenlieder, a song for the end of the world, like passing clouds, sometimes divine - sometimes devilish, another gem of a solo album by mick harvey, hopes for a solo career now an ex-bad seed" role="button">
 Mick Harvey - Two of Diamonds (2007-04-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, soul, british, indie rock, romantic, quirky, afternoon, late night, sunday, literate, melancholy, rainy day, wry, dramatic, bittersweet, introspection, reflection, sophisticated, playful, heartache, solitude, breakup, autumn, brooding, liverpool, debut album, feeling blue, witty, enigmatic, theatrical, long walk, in love, the creative side, stay in bed, romantic evening, reminiscing, alternative pop/ rock, loss/grief, candie payne, no56 uk" role="button">
+<li data-cover="https://img.discogs.com/fszlzqwRTVdoVhdF_tVxB8H4xH0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993001-1593539257-4700.jpeg.jpg" data-tags="indie, soul, british, indie rock, romantic, quirky, afternoon, late night, sunday, literate, melancholy, rainy day, wry, dramatic, bittersweet, introspection, reflection, sophisticated, playful, heartache, solitude, breakup, autumn, brooding, liverpool, debut album, feeling blue, witty, enigmatic, theatrical, long walk, in love, the creative side, stay in bed, romantic evening, reminiscing, alternative pop/ rock, loss/grief, candie payne, no56 uk" role="button">
 Candie Payne - I Wish I Could Have Loved You More (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock, favorite" role="button">
@@ -221,9 +212,6 @@ Chromatics - Night Drive (2007-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a9846ec-ef18-4b12-88fb-4350e84a3b46/10158523186-500.jpg" data-tags="chillout, late night" role="button">
 Alpha - The Sky Is Mine (2007-09-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/973392df-e7d6-4860-8c2b-71040bb879a3/10977543533-500.jpg" data-tags="ambient" role="button">
-Helios - Ayres (2007-09-10)
 </li>
 <li data-cover="https://img.discogs.com/cfZubMxXa-kMYSbL_pr1XWD-YJI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1369273-1220479145.jpeg.jpg" data-tags="cover, late night, 00s, cover songs, after hours, beyondwithin, winter 2012, get later, aural fixation - best of 2007, wmbr, february 2012, music for cloudy days" role="button">
 Japancakes - Loveless (2007-11-13)
@@ -264,9 +252,6 @@ Atlas Sound - Logos (2009-10-19)
 <li data-cover="https://img.discogs.com/-GkWG45qF0RFwPY6xXnRV_BMyWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455118-1284997260.jpeg.jpg" data-tags="singer-songwriter, late night, the good stuff" role="button">
 Peter Broderick - How They Are (2010-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
-No Age - Everything in Between (2010-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
 The Kills - Blood Pressures (2011-04-04)
 </li>
@@ -275,9 +260,6 @@ Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1f9ca0a-c300-45b5-b62c-ae24c53da1bc/1329874155-500.jpg" data-tags="electronic, remix" role="button">
 Radiohead - TKOL RMX 1234567 (2011-09-21)
-</li>
-<li data-cover="https://img.discogs.com/cQc9ophfUfT5OcrG9oLEYgW12XE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2028166-1273563548.jpeg.jpg" data-tags="soul" role="button">
-Bobby Womack - The Bravest Man in the Universe (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdcfa60a-672c-457b-8af1-555d26c9a930/6937966748-500.jpg" data-tags="cold wave" role="button">
 Linea Aspera - Linea Aspera (2012-01-28)
@@ -291,8 +273,26 @@ Chromatics - Kill for Love (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/a770df1f-6401-41fe-b59c-e9a101062158/2987321136-500.jpg" data-tags="hip hop, soul, searching, atmospheric, late night, uncompromising, introspection, reflection, uplifting, cerebral, neo-soul, sub pop, sparse, solitude, alternative rap, rebellious, enigmatic, defiant, empowerment, experimental hip-hop, brash, street-smart, hanging out, knotty, scattered, left-field rap" role="button">
 THEESatisfaction - awE naturalE (2012-03-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/9b4d2898-3184-4c91-afa9-adf630ce3d20/6656923283-500.jpg" data-tags="country, americana, quirky, energetic, late night, earthy, warm, road trip, nighttime, rollicking, red dirt, gritty, ramshackle, maverick, hanging out, rambunctious, night driving, alternative country-rock, open road, country life, fourth of july" role="button">
+Turnpike Troubadours - Goodbye Normal Street (2012-05-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/ebc6e131-2301-480c-ad3f-4e0b790dcf05/5974509150-500.jpg" data-tags="software" role="button">
+Autre Ne Veut - Anxiety (2013-02-26)
+</li>
 <li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
 The Flaming Lips - The Terror (2013-04-01)
+</li>
+<li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
+James Blake - Overgrown (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
+Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/0cdaedb7-00d5-4c7b-9d15-556a6fdc98e4/6003309054-500.jpg" data-tags="matador records" role="button">
+Majical Cloudz - Impersonator (2013-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a47e508-55f6-4d33-b18e-44e8f78785a3/6237120485-500.jpg" data-tags="pop, r&b" role="button">
+Ciara - Ciara (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg" data-tags="punk, revolution, hard rock, energetic, angry, late night, passionate, fierce, intense, fiery, confrontational, earnest, snide, raucous, drinking, road trip, protest, nighttime, rebellious, joy, exuberant, empowerment, cathartic, rowdy, volatile, gutsy, sprawling, british punk, dance-rock, tgif, brash, guys night out, hanging out, reckless, night driving, open road" role="button">
 The Clash - Hits Back (2013-08-26)
@@ -300,11 +300,11 @@ The Clash - Hits Back (2013-08-26)
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/6ad46321-76b9-4a96-b453-2d5494e5d561/8268789783-500.jpg" data-tags="electronic" role="button">
-Factory Floor - Factory Floor (2013-09-09)
+<li data-cover="http://coverartarchive.org/release/af5c546c-b840-40b0-905c-24dbff1c09fd/5166426291-500.jpg" data-tags="synthpop" role="button">
+Jessy Lanza - Pull My Hair Back (2013-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
-Suede - Dog Man Star (2013-10-21)
+<li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
+CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/eaf12e7e-3234-41a1-8b75-f2678fdf97ce/5491253416-500.jpg" data-tags="experimental, techno, idm, hyperdub, 10s, monochrome album covers" role="button">
 Laurel Halo - Chance Of Rain (2013-10-28)

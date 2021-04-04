@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:12:02.010Z
+date: 2021-04-04T22:14:01.315Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -159,17 +159,23 @@ Omarion - O (2005-02-22)
 <li data-cover="https://img.discogs.com/Bd2F0VtwjfQmcKiJxCS3LtP3fAs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10446978-1570403161-3128.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
+50 Cent - The Massacre (2005-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
+Gorillaz - Demon Days (2005-05-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)
+</li>
+<li data-cover="https://img.discogs.com/5qZBClNrEglDQ9x5e1y8Boqy9jY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567992-1249683041.jpeg.jpg" data-tags="hip-hop" role="button">
+Fort Minor - The Rising Tied (2005-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3655e9f-3db1-434d-bb4b-3529d09b2989/1373313355-500.jpg" data-tags="instrumental hip-hop, hip-hop" role="button">
 J Dilla - Donuts (2006-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/f3e2c681-a117-478f-bba4-d3afa0872c11/889689286-500.jpg" data-tags="hip-hop, wiz khalifa" role="button">
-Wiz Khalifa - Show And Prove (2006-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4397ed86-d649-4a01-8320-b9c55f898ed1/8569081609-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Food & Liquor (2006-09-19)
@@ -182,9 +188,6 @@ M.I.A. - Kala (2007-08-08)
 </li>
 <li data-cover="https://img.discogs.com/vmOG8gWA1E0LtCFsj2A3WRsXfEc=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594382-1279055441.jpeg.jpg" data-tags="female vocalists, hip hop" role="button">
 M.I.A. - Paper Planes (2008-02-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e8bfc4a-e4cb-4e3c-be31-2d7b7070e642/5759701387-500.jpg" data-tags="hip-hop, hip hop" role="button">
-Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 N*E*R*D - Seeing Sounds (2008-06-09)
@@ -314,9 +317,6 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5673a1-f435-4a02-9e32-8741397969c8/10297212424-500.jpg" data-tags="hip-hop, rap, hip hop, hardcore hip hop" role="button">
 Run the Jewels - Run the Jewels 2 (2014-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
-Pitbull - Globalization (2014-11-21)
 </li>
 <li data-cover="https://img.discogs.com/BTRRlKipAt0FyCxkVtpr38OZ1RU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6433698-1476283514-3609.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
 Nicki Minaj - The Pinkprint (2014-12-12)

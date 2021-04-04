@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:42:01.352Z
+date: 2021-04-04T22:00:01.401Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -12,7 +12,7 @@ title: "ambient: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Takk... (2005-08-22)</li>
-<li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)</li>
+<li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - The Campfire Headphase (2005-10-12)</li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">Sigur Rós - Valtari (2012-05-23)</li>
 </ol>
 List of 100 - under the cut.
@@ -69,9 +69,6 @@ Boards of Canada - Hi Scores (1996-12-09)
 <li data-cover="https://img.discogs.com/4opvcXLy8bbXDmILdXxVQkmzQlM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-r_122593-001.jpg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
@@ -122,9 +119,6 @@ Boards of Canada - Geogaddi (2002-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb4d834e-c21a-4288-bbee-d9b86c6c3f8b/3772697596-500.jpg" data-tags="downtempo, jazz" role="button">
 The Cinematic Orchestra - Every Day (2002-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/de88c422-1cf3-49cc-9095-3cda552b8727/4262680116-500.jpg" data-tags="electronic" role="button">
-Moby - 18 (2002-05-02)
 </li>
 <li data-cover="https://img.discogs.com/lXD8whyAYclV6eo5oxbFpF-BrwU=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902743-1251309415.jpeg.jpg" data-tags="electronic" role="button">
 múm - Finally We are No One (2002-05-20)
@@ -192,6 +186,9 @@ Röyksopp - The Understanding (2005-06-22)
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Takk... (2005-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
+Boards of Canada - The Campfire Headphase (2005-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
 </li>
@@ -257,6 +254,9 @@ Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">
 Nils Frahm - Wintermusik (2009-12-07)
+</li>
+<li data-cover="https://img.discogs.com/eCOpfxGhvdeed_47XS5gu28Gzno=/fit-in/350x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-76375-1224235030.jpeg.jpg" data-tags="idm, electronic" role="button">
+Aphex Twin - Windowlicker (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)

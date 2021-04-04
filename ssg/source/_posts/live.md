@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:05:01.323Z
+date: 2021-04-04T22:20:02.158Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -108,7 +108,7 @@ Live - Throwing Copper (1994-04-19)
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
 </li>
-<li data-cover="https://img.discogs.com/0U6pUCrrCLCQVQcwqD67klz4lCU=/fit-in/471x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3871769-1347592469-2775.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
+<li data-cover="https://img.discogs.com/7pCi2rLlkkewxnV_BiAT9ukt6gI=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2718382-1297923395.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
 Bob Dylan - MTV Unplugged (1995-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
@@ -116,9 +116,6 @@ Pink Floyd - Pulse (1995-05-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Dire Straits - Live At The BBC (1995-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
-Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/xOvnQ6hQZ0MYgUkFV7WGD5Z94bg=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652210-1338961582-8057.jpeg.jpg" data-tags="rock" role="button">
 Gin Blossoms - Follow You Down (1996-01-23)
@@ -237,6 +234,9 @@ Alicia Keys - Unplugged (2005-10-11)
 <li data-cover="http://coverartarchive.org/release/c3bd3e15-556b-329c-8838-4444c9367aa9/8401417015-500.jpg" data-tags="nu metal" role="button">
 Slipknot - 9.0: Live (2005-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/303188c6-8c08-36e1-ab85-b7e9ba84d7ee/7919913330-500.jpg" data-tags="progressive rock" role="button">
+The Mars Volta - Scabdates (2005-11-07)
+</li>
 <li data-cover="https://img.discogs.com/yKgieSTKusIBpjtEwfMVZ4ALIx8=/fit-in/540x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3624187-1337812211-1856.jpeg.jpg" data-tags="punk rock, live" role="button">
 Green Day - Bullet in a Bible (2005-11-11)
 </li>
@@ -257,6 +257,9 @@ Seether - One Cold Night (2006-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
+</li>
+<li data-cover="https://img.discogs.com/pFFecob40VP1dxGso8TVmZHV4jA=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4897340-1545558377-6427.jpeg.jpg" data-tags="live" role="button">
+The Used - Berth (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8032396-e76c-3a57-9d1c-4e92e5e0125c/3375659069-500.jpg" data-tags="live" role="button">
 City and Colour - Live (2007-03-06)
@@ -305,9 +308,6 @@ David Bowie - A Reality Tour (2010-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
 The White Stripes - Under Great White Northern Lights (2010-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/3d51dab8-ace9-3a5c-8f0a-6f841a7b794d/1559544631-500.jpg" data-tags="live" role="button">
-Madonna - Sticky & Sweet Tour (2010-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/79a7bffc-fc7c-4df9-8b7f-03f7f4fcd3a3/10028163862-500.jpg" data-tags="post-rock" role="button">
 Mogwai - Special Moves (2010-08-23)

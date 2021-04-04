@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:34:01.360Z
+date: 2021-04-04T22:40:01.309Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -48,9 +48,6 @@ Big Brother & The Holding Company - Cheap Thrills (1968-08-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
-The Doors - The Soft Parade (1969-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/4945c044-d742-433b-b8ff-eb5b28d14249/25081651246-500.jpg" data-tags="blues, blues rock" role="button">
 Janis Joplin - I Got Dem Ol' Kozmic Blues Again Mama! (1969-10)
 </li>
@@ -92,9 +89,6 @@ Eric Clapton - Eric Clapton's Rainbow Concert (1973)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Fleetwood Mac (1975-07-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
-Dire Straits - Dire Straits (1978-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/77d38310-5392-4ac4-85fe-35c1a999210d/13858018994-500.jpg" data-tags="blues" role="button">
 Tom Waits - Swordfishtrombones (1983)
@@ -159,7 +153,7 @@ Mazzy Star - Among My Swan (1996-10-17)
 <li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
-<li data-cover="https://img.discogs.com/Apbx9EzXQEMtkw0tBjY4B8ZsDPc=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2950671-1312846576.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
+<li data-cover="https://img.discogs.com/E7UtJyItYvk5AJ7YnjG_hxrhppo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4959254-1380618088-4627.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
@@ -203,6 +197,12 @@ Tom Waits - Real Gone (2004-10-04)
 </li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
+Amos Lee - Amos Lee (2005-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b63123a-f122-4feb-bce2-a3c02dc79a7b/4619205570-500.jpg" data-tags="indie, rock, indie rock" role="button">
+Black Rebel Motorcycle Club - Howl (2005-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
 Katie Melua - Piece by Piece (2005-09-26)

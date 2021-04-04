@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:44:01.274Z
+date: 2021-04-04T22:45:01.571Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -39,7 +39,7 @@ The Kinks - Lola Versus Powerman And The Moneygoround, Part One (1970-11-27)
 <li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">
 David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)
 </li>
-<li data-cover="https://img.discogs.com/AFP294PSYnx-xDFZNcmGXM5m4Yc=/fit-in/500x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5456952-1393924915-7816.jpeg.jpg" data-tags="concept album, italy" role="button">
+<li data-cover="https://img.discogs.com/bUu-_Iz8X7FYDg_zFwsCL5q2rRc=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8787282-1468764805-5076.jpeg.jpg" data-tags="concept album, italy" role="button">
 Fabrizio De André - Storia Di Un Impiegato (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ed99b83-6abc-402e-b723-b036b9441fc4/12733158344-500.jpg" data-tags="progressive rock" role="button">
@@ -195,6 +195,9 @@ Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 <li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
 King Geedorah - Take Me to Your Leader (2003-06-16)
 </li>
+<li data-cover="https://img.discogs.com/ThUdCCIWjcnDuqwzIdkmvJPtBuE=/fit-in/600x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9712809-1485183244-7714.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
+Neil Young & Crazy Horse - Greendale (2003-08-18)
+</li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
 </li>
@@ -266,9 +269,6 @@ The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f54514-f789-4835-b3e0-d1f14e9e766e/3820440959-500.jpg" data-tags="country" role="button">
 Eric Church - Sinners Like Me (2006-07-18)
-</li>
-<li data-cover="https://img.discogs.com/y3J1BJWu6hxUYGABSHnoVyX1VkA=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3040332-1312929855.jpeg.jpg" data-tags="acoustic" role="button">
-The Prize Fighter Inferno - My Brother's Blood Machine (2006-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/57df139a-0e66-4810-9180-8e30948e29d5/16094167297-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Scarsick (2007-01-22)

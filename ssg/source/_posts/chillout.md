@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:55:01.390Z
+date: 2021-04-04T22:10:01.352Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
 Enigma - MCMXC a.D. (1990-12-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a27363a-f565-33a3-bb1c-c55b5d24db84/2461231103-500.jpg" data-tags="trip-hop" role="button">
-Massive Attack - Blue Lines (1991-04-08)
 </li>
 <li data-cover="https://img.discogs.com/I5fvlW6nBIflOImPqtGD6LBw6_Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099999-1191992249.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
 Everything But the Girl - Amplified Heart (1994-06-13)
@@ -95,9 +92,6 @@ Zero 7 - Simple Things (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
-Air - 10 000 Hz Legend (2001-05-23)
 </li>
 <li data-cover="https://img.discogs.com/UVRE9KE-Ba7u4VKWfUvi9M4_PDw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377788-1460896455-8546.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)
@@ -195,6 +189,12 @@ Husky Rescue - Country Falls (2004-10-11)
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/75735819-6bca-42bf-a807-5d456f277dbd/11778363663-500.jpg" data-tags="chillout, electronica" role="button">
+Brazilian Girls - Brazilian Girls (2005-02-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
+Télépopmusik - Angel Milk (2005-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
@@ -203,6 +203,9 @@ Röyksopp - The Understanding (2005-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Speak for Yourself (2005-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
+Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)
@@ -257,9 +260,6 @@ Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e378c3e-0af4-373f-94fc-84c03e8b4374/7932628388-500.jpg" data-tags="ambient, chillout, electronic" role="button">
 Moby - Wait for Me (2009-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b51eeb1-ae6f-4264-913f-0626b86dca32/9194466428-500.jpg" data-tags="chillout, electronic, ambient, miike snow" role="button">
-Miike Snow - Animal (2009-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)

@@ -1,19 +1,19 @@
 ---
-date: 2021-04-04T14:50:01.268Z
+date: 2021-04-04T22:21:01.446Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![She Wants Revenge - She Wants Revenge (2005-12-13)](http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg "She Wants Revenge - She Wants Revenge (2005-12-13)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">The Cure - Pornography (1982-05-03)</li>
-<li data-cover="https://img.discogs.com/GROXvyXYNKr5uIydjfWHzA2oLZg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448007-1336127526.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">Depeche Mode - Black Celebration (1986-03-17)</li>
+<li data-cover="https://img.discogs.com/vn3oqwAIyPBmRz-wFXXrgAb9N04=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442377-1287321146.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">Depeche Mode - Black Celebration (1986-03-17)</li>
 <li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)</li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">The Cure - Wish (1992-04-07)</li>
 <li data-cover="http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg" data-tags="darkwave" role="button">She Wants Revenge - She Wants Revenge (2005-12-13)</li>
-<li data-cover="https://img.discogs.com/61hSIII3z-x_7WS7PQ6rarCSrOE=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9999060-1489918569-2715.jpeg.jpg" data-tags="darkwave" role="button">She Wants Revenge - This Is Forever (2007-10-09)</li>
+<li data-cover="https://img.discogs.com/2GswDWVRxpZQ_xKFt5y6JVcER-o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099636-1567270267-9611.jpeg.jpg" data-tags="darkwave" role="button">She Wants Revenge - This Is Forever (2007-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/65a811b8-8b98-4642-8f25-48586fa93b10/8138480397-500.jpg" data-tags="experimental, dream pop, electronic, darkwave" role="button">Grimes - Geidi Primes (2010-01-10)</li>
 <li data-cover="http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg" data-tags="synthpop, darkwave, electronic" role="button">Trust - Trst (2012-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">Dead Can Dance - Anastasis (2012-08-13)</li>
-<li data-cover="http://coverartarchive.org/release/6c433abe-415f-47e5-9bfa-44fbafee151b/5084224967-500.jpg" data-tags="post-punk" role="button">King Krule - 6 Feet Beneath The Moon (2013-08-24)</li>
+<li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">The Weeknd - Kiss Land (2013-09-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -51,10 +51,13 @@ Depeche Mode - Some Great Reward (1984-09-24)
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
+Clan of Xymox - Clan of Xymox (1985-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/853ee016-b10d-3118-86ed-d9c3b797eebc/15258704059-500.jpg" data-tags="darkwave" role="button">
 Dead Can Dance - Spleen and Ideal (1985-11-25)
 </li>
-<li data-cover="https://img.discogs.com/GROXvyXYNKr5uIydjfWHzA2oLZg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448007-1336127526.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/vn3oqwAIyPBmRz-wFXXrgAb9N04=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442377-1287321146.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
 Depeche Mode - Black Celebration (1986-03-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
@@ -108,7 +111,7 @@ Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
 Autechre - Amber (1994-11-07)
 </li>
-<li data-cover="https://img.discogs.com/DOo5qD4LXlBErJz8wHhRKB5B0bE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491973-1617008494-7725.jpeg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
+<li data-cover="https://img.discogs.com/m5KiK7XWzOVx8wYaDJvv0eBzJws=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419432-1110896476.jpg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
 London After Midnight - Psycho Magnet (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6344fea-c768-4ed7-bc93-90f413507d5d/7389186733-500.jpg" data-tags="darkwave, gothic" role="button">
@@ -132,14 +135,8 @@ Depeche Mode - Ultra (1997-04-10)
 <li data-cover="https://img.discogs.com/83FV2O-WHKJolCZiykX-kCQWca0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1293819-1207141930.jpeg.jpg" data-tags="darkwave" role="button">
 Clan of Xymox - Hidden Faces (1997-10-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc28a1e5-3497-4b59-9163-7bf78651a0e6/3856745463-500.jpg" data-tags="gothic rock, darkwave, dark electro" role="button">
-Агата Кристи - Чудеса (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f8949d4-fd67-3d8a-85d3-2f9f3ca70317/19430444042-500.jpg" data-tags="electronic, new wave, 80s" role="button">
 Depeche Mode - The Singles 86>98 (1998-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/c6a14879-b04f-40dc-95e9-618e00be615d/2152586650-500.jpg" data-tags="dark ambient, darkwave" role="button">
-Dargaard - Eternity Rites (1998-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/88e92f78-5c3f-4f03-9f43-9eba6c46b4a4/928108006-500.jpg" data-tags="darkwave, gothic, gothic metal, symphonic metal" role="button">
 Aesma Daeva - Here Lies One whose Name was Written in Water (1999)
@@ -170,9 +167,6 @@ Collide - Chasing the Ghost (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b18f9eb-b171-4fd6-ab1f-9801c4adc992/11392866472-500.jpg" data-tags="electrogoth, industrial, ebm, darkwave" role="button">
 Blutengel - Seelenschmerz (2001-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/51bf08c8-b8dd-4f16-852e-0f19d6adb866/16566568638-500.jpg" data-tags="electronic, darkwave" role="button">
-Chiasm - Disorder (2001-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2689a2ed-19b4-4095-8c77-f2e24e915962/22524388802-500.jpg" data-tags="electronic" role="button">
 Depeche Mode - Exciter (2001-05-10)
@@ -246,7 +240,10 @@ Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
 <li data-cover="http://coverartarchive.org/release/8cb54f27-51f3-4185-9772-e4dcf84cbe30/13038051479-500.jpg" data-tags="electronica, synthpop" role="button">
 Blaqk Audio - CexCells (2007-08-14)
 </li>
-<li data-cover="https://img.discogs.com/61hSIII3z-x_7WS7PQ6rarCSrOE=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9999060-1489918569-2715.jpeg.jpg" data-tags="darkwave" role="button">
+<li data-cover="http://coverartarchive.org/release/3ff912aa-20d0-41a3-9cdf-cf6db07787a0/15567368286-500.jpg" data-tags="darkwave, futurepop" role="button">
+Blutengel - Labyrinth (2007-09-14)
+</li>
+<li data-cover="https://img.discogs.com/2GswDWVRxpZQ_xKFt5y6JVcER-o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099636-1567270267-9611.jpeg.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - This Is Forever (2007-10-09)
 </li>
 <li data-cover="https://img.discogs.com/VXCvuCumC0ijDr74rXKN30wzjGU=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1127655-1385493166-4294.jpeg.jpg" data-tags="darkwave" role="button">
@@ -308,6 +305,9 @@ Dead Can Dance - Anastasis (2012-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c433abe-415f-47e5-9bfa-44fbafee151b/5084224967-500.jpg" data-tags="post-punk" role="button">
 King Krule - 6 Feet Beneath The Moon (2013-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">
+The Weeknd - Kiss Land (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c4db4be-9c79-443c-824c-9b8edbe5b573/6950823276-500.jpg" data-tags="electronic, synthpop, darkwave" role="button">
 Trust - Joyland (2014-03-04)

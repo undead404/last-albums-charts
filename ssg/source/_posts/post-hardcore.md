@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:31:01.339Z
+date: 2021-04-04T21:50:01.291Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -87,7 +87,7 @@ Thursday - War All The Time (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/04f0fa1d-018e-4138-8359-26618b763fbf/13876313910-500.jpg" data-tags="emo, post-hardcore" role="button">
 Story of the Year - Page Avenue (2003-09-16)
 </li>
-<li data-cover="https://img.discogs.com/ePg5BfQBI6UJwmtLgxNH22c_dYs=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470570-1601982291-5066.jpeg.jpg" data-tags="post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/f_Z5jf9GxipomA3X7zmUykQpHOk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122839-1316854929.jpeg.jpg" data-tags="post-hardcore" role="button">
 Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
@@ -117,8 +117,11 @@ The Mars Volta - Frances the Mute (2005-03-01)
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
 </li>
-<li data-cover="https://img.discogs.com/g47MKA09F1QZH3rA38T8vzXChEY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4165539-1357434050-5425.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
+<li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
+</li>
+<li data-cover="https://img.discogs.com/MI2oAl7q5Ttmn7G4Yejrv7o-Hzw=/fit-in/489x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1802683-1422876109-1198.jpeg.jpg" data-tags="post-hardcore" role="button">
+Finch - Say Hello to Sunshine (2005-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
@@ -132,6 +135,9 @@ Chiodos - All's Well That Ends Well (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/45641120-9137-3d9b-bb47-8915b1541a3d/17802812575-500.jpg" data-tags="post-hardcore" role="button">
+The Fall of Troy - Doppelganger (2005-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7b89f8a-6b62-4e5b-8675-492ecc731336/7181118799-500.jpg" data-tags="post-hardcore" role="button">
 Silverstein - Discovering the Waterfront (2005-08-16)
 </li>
@@ -144,6 +150,9 @@ Aiden - Nightmare Anatomy (2005-10-04)
 <li data-cover="https://img.discogs.com/DUVXwVMT8cYWLtohg9zJPOoxmvI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1369586-1213869780.jpeg.jpg" data-tags="post-hardcore" role="button">
 Story of the Year - In the Wake of Determination (2005-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">
+Thrice - Vheissu (2005-10-18)
+</li>
 <li data-cover="https://img.discogs.com/RQAamW3AUlk7W1EO5pPjjLsJTjI=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651354-1314227271.jpeg.jpg" data-tags="post-hardcore" role="button">
 Fightstar - Grand Unification (2006-03-10)
 </li>
@@ -152,9 +161,6 @@ From First to Last - Heroine (2006-03-20)
 </li>
 <li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
-Taking Back Sunday - Louder Now (2006-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - A City By The Light Divided (2006-05-02)
@@ -171,7 +177,7 @@ Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 <li data-cover="https://img.discogs.com/3X7zBsn8NDw5TLYqTy43PlCL0hI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2467899-1285701452.jpeg.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent II (2006-06-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/BKQAPLK38OM1WFyHhEvQevfnUz8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039025-1494295675-6819.jpeg.jpg" data-tags="experimental, post-hardcore" role="button">
 Fear Before The March Of Flames - The Always Open Mouth (2006-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
@@ -189,7 +195,7 @@ A Day to Remember - For Those Who Have Heart (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore, metalcore, hardcore" role="button">
+<li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
@@ -219,9 +225,6 @@ From First to Last - From First To Last (2008-05-06)
 <li data-cover="http://coverartarchive.org/release/4697991e-b4f2-48f4-bbf3-552ae81ed05d/17979922684-500.jpg" data-tags="post-hardcore" role="button">
 Emarosa - Relativity (2008-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
-Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
@@ -243,10 +246,10 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/42d9fa8b-db09-4dfc-982c-6928471096fb/11692241662-500.jpg" data-tags="post-hardcore" role="button">
 Adept - Another Year of Disaster (2009-02-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/ZgZLbGkGqrQGRuYinT2A0hCv8js=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3572382-1502046421-7512.jpeg.jpg" data-tags="post-hardcore" role="button">
 Isles & Glaciers - The Hearts of Lonely People (2009-03-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/wVvQZsZIbXmB5WoO8KH9wW7fwWQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828314-1550360653-9051.jpeg.jpg" data-tags="post-hardcore" role="button">
 Alexisonfire - Old Crows / Young Cardinals (2009-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb08444-26c6-48e8-a0a9-b30126895e7e/19429003524-500.jpg" data-tags="post-hardcore" role="button">
@@ -287,9 +290,6 @@ Escape the Fate - Escape The Fate (2010-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - What Separates Me from You (2010-11-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/200d55ff-6df5-46f9-82c5-896196ab0f35/17988411404-500.jpg" data-tags="post-hardcore" role="button">
-Destroy Rebuild Until God Shows - D.R.U.G.S. (2011-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9646d5f9-08c9-43a2-bebf-c80a3b86368f/7273863258-500.jpg" data-tags="post-hardcore" role="button">
 Asking Alexandria - Reckless & Relentless (2011-04-05)

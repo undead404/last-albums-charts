@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:21:01.279Z
+date: 2021-04-04T22:11:01.300Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -108,9 +108,6 @@ Hum - You'd Prefer an Astronaut (1995-04-11)
 <li data-cover="http://coverartarchive.org/release/14d10939-087c-4fb3-8741-859f774d4d5a/19368707018-500.jpg" data-tags="shoegaze" role="button">
 The Brian Jonestown Massacre - Methodrone (1995-08-25)
 </li>
-<li data-cover="https://img.discogs.com/MS8e20gJS70SvNwQESZFSm7wfD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3134-1499498900-2488.jpeg.jpg" data-tags="shoegaze" role="button">
-Bowery Electric - Beat (1996-11-12)
-</li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 </li>
@@ -140,6 +137,9 @@ Jesu - Jesu (2004-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Before the Dawn Heals Us (2005-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
+Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b17b33e2-e1c4-49c1-85a7-7ea723ce0d3d/25109250377-500.jpg" data-tags="shoegaze, post-rock" role="button">
 Jesu - Silver (2006-04-11)
