@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:33:01.264Z
+date: 2021-04-04T07:35:01.503Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -99,7 +99,7 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Morrison Hotel (1970-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/sE0VG-0sdTLQB3q8UTuR7KjthJE=/fit-in/550x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341352-1396052519-4623.jpeg.jpg" data-tags="classic rock, 70s" role="button">
 Van Morrison - Moondance (1970-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
@@ -234,9 +234,6 @@ The Doors - Greatest Hits (1980)
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab2c84bb-4ee7-4add-8349-f4d7ad243384/4389275722-500.jpg" data-tags="rock, 80s, classic rock" role="button">
-Journey - Escape (1981)
-</li>
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
@@ -317,6 +314,9 @@ David Bowie - Best of Bowie (2002-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Led Zeppelin (2003-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/55265199-08f9-3e6a-8532-409b6caf6c5e/7794207792-500.jpg" data-tags="classic rock" role="button">
+The Who - Greatest Hits (2009-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/54e73133-8168-4400-a1fd-91f2017e701a/8118789895-500.jpg" data-tags="rock, classic rock" role="button">
 Tom Petty and The Heartbreakers - Greatest Hits (2010)

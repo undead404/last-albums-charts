@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:24:01.481Z
+date: 2021-04-04T06:55:01.267Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -80,6 +80,9 @@ Explosions in the Sky - How Strange, Innocence (2000-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e41015a1-90c0-47b3-9ca5-2b1055f1e3d6/6762804815-500.jpg" data-tags="jazz, ambient, noir jazz, doom jazz" role="button">
 Bohren & der Club of Gore - Sunset Mission (2000-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
+Air - The Virgin Suicides (2000-02-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
@@ -168,6 +171,9 @@ M83 - Before the Dawn Heals Us (2005-01-24)
 <li data-cover="http://coverartarchive.org/release/0eab1347-285e-465a-ab35-dfbd0fa70287/2311092549-500.jpg" data-tags="ambient" role="button">
 Eluvium - Talk Amongst the Trees (2005-03-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/7a1033d0-e3f6-3dd4-993f-9df5f2f634c5/7932201661-500.jpg" data-tags="electronic" role="button">
+Moby - Hotel (2005-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/7f1e0988-5fe2-4e4c-9a74-6b4136d451e3/1238392358-500.jpg" data-tags="ambient" role="button">
 Hammock - Kenotic (2005-03-29)
 </li>
@@ -180,17 +186,11 @@ Röyksopp - The Understanding (2005-06-22)
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Takk... (2005-08-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/be5cc59e-366c-4354-943c-11b8b24c9a31/4847115971-500.jpg" data-tags="experimental, electronic, ambient, 2005, dark ambient, industrial" role="button">
-Coil - The Ape of Naples (2005-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/bdbeeba8-11c2-49aa-b01d-eb445af7f44c/4469616343-500.jpg" data-tags="ambient" role="button">
 Helios - Eingya (2006-06-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 The Album Leaf - Into The Blue Again (2006-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
-Air - Pocket Symphony (2006-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
 Carbon Based Lifeforms - World of Sleepers (2006-12-02)

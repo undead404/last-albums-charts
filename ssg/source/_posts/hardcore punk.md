@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:22:01.218Z
+date: 2021-04-04T06:46:06.631Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -33,6 +33,9 @@ Circle Jerks - Group Sex (1980-11)
 <li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
+<li data-cover="http://coverartarchive.org/release/67b74b51-16e8-38f7-ba61-3ce62d9adea2/24579374409-500.jpg" data-tags="hardcore punk" role="button">
+Adolescents - Adolescents (1981-05)
+</li>
 <li data-cover="https://img.discogs.com/M5GJ_Sv0wxntVfNDwBDmgfaIQxg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13042608-1566037783-8859.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
@@ -63,8 +66,14 @@ Descendents - Milo Goes to College (1982-11-15)
 <li data-cover="http://coverartarchive.org/release/507bb61e-c7fa-3dd5-ba2d-d6f0f6e2f792/6010164584-500.jpg" data-tags="hardcore, punk, hardcore punk" role="button">
 Minor Threat - Out of Step (1983)
 </li>
+<li data-cover="https://img.discogs.com/lr2CqUnKR3Bpn6hauTVnF_d0RsQ=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8621123-1465313133-6994.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
+Black Flag - The First Four Years (1983)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf35360c-9bfb-4459-926f-e686bbde68da/10191233331-500.jpg" data-tags="punk rock, hardcore punk, alternative rock" role="button">
 Social Distortion - Mommy's Little Monster (1983-02-01)
+</li>
+<li data-cover="https://img.discogs.com/COVdWulBX_gX2ECie-y6ClMY-WY=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-578000-1437202802-6144.jpeg.jpg" data-tags="hardcore punk" role="button">
+Bad Brains - Rock for Light (1983-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
@@ -86,12 +95,6 @@ Dead Kennedys - Frankenchrist (1985)
 </li>
 <li data-cover="https://img.discogs.com/gtuAnw1wTBVau3JJmhyJh0sQLfg=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306971-1436375396-6823.jpeg.jpg" data-tags="punk, alternative rock, sst" role="button">
 Hüsker Dü - New Day Rising (1985-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/bcd918ec-55aa-4c63-bc3d-49f54c50134b/15174660043-500.jpg" data-tags="hardcore punk, sst" role="button">
-Black Flag - Loose Nut (1985-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1050ce1-b246-4fd5-9bd1-ec3c56473243/5953239158-500.jpg" data-tags="punk, hardcore punk" role="button">
-Black Flag - In My Head (1985-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddc418f4-afd9-4974-97b0-d84e2a23b664/8425717529-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Bedtime for Democracy (1986)
@@ -117,6 +120,9 @@ Gorilla Biscuits - Gorilla Biscuits (1988)
 <li data-cover="https://img.discogs.com/iSwnYWbmktGzda4SurxUhoj9xPk=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7727951-1574738993-7778.jpeg.jpg" data-tags="hardcore punk" role="button">
 NOFX - Liberal Animation (1988)
 </li>
+<li data-cover="http://coverartarchive.org/release/65d5b49f-cf1b-3651-9fdd-ed54ce1a9a85/3837064934-500.jpg" data-tags="hardcore punk, punk" role="button">
+Minor Threat - Complete Discography (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/2af14d71-4333-494a-a981-7701897e3f1c/3035143260-500.jpg" data-tags="punk rock, punk" role="button">
 The Offspring - The Offspring (1989-03)
 </li>
@@ -126,7 +132,7 @@ NOFX - S&M Airlines (1989-06-13)
 <li data-cover="http://coverartarchive.org/release/df11248d-6a31-3a7d-a7a8-d384e6b3765c/17273598522-500.jpg" data-tags="hardcore, hardcore punk" role="button">
 Gorilla Biscuits - Start Today (1989-06-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, punk" role="button">
+<li data-cover="https://img.discogs.com/mCYOZDBEcuVVw32N09qfYfPxRMM=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1080141-1447207385-1518.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Bad Religion - No Control (1989-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2dab6ed-1a4e-49a6-9abc-6be95c03dbda/4804372334-500.jpg" data-tags="punk, punk rock" role="button">
@@ -147,23 +153,17 @@ Reagan Youth - A Collection of Pop Classics (1994-07-22)
 <li data-cover="http://coverartarchive.org/release/e4e6f2b7-f503-4318-b2c1-70e9912d8e9d/5174404780-500.jpg" data-tags="punk, hardcore punk" role="button">
 AFI - Answer That and Stay Fashionable (1995-08-01)
 </li>
-<li data-cover="https://img.discogs.com/ysGX3tH4ubtm7Epy3LIFbGWBuXs=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215636-1270330574.jpeg.jpg" data-tags="punk, punk rock" role="button">
-Raimundos - Lavô Tá Novo (1995-11-03)
-</li>
 <li data-cover="https://img.discogs.com/ajbCmuEl-RNQomqJqx5nS1Z-Vnc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383630-1517771579-7197.jpeg.jpg" data-tags="hardcore" role="button">
 Refused - Songs to Fan the Flames of Discontent (1996)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, punk, skate punk" role="button">
+<li data-cover="https://img.discogs.com/fxgFiSmDljjgFreblPtMLRLFjhs=/fit-in/504x798/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9733231-1505643316-1348.jpeg.jpg" data-tags="punk rock, punk, skate punk" role="button">
 NOFX - Heavy Petting Zoo (1996-01-31)
-</li>
-<li data-cover="https://img.discogs.com/dp14AGI9cDRKkyImm6-hNb2q6_s=/fit-in/425x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797804-1159826226.jpeg.jpg" data-tags="hardcore punk, punk, crossover, crossover thrash, punk rock" role="button">
-The Exploited - Beat the Bastards (1996-04-23)
 </li>
 <li data-cover="https://img.discogs.com/iXcClxEhvbS_Geid68lhF8j_SI0=/fit-in/320x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3727342-1341947943-5305.jpeg.jpg" data-tags="thrash metal" role="button">
 Slayer - Undisputed Attitude (1996-05-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/fac70476-1cf4-3ae7-947c-358d1d23affc/10107630201-500.jpg" data-tags="punk" role="button">
-AFI - Very Proud of Ya (1996-06-18)
+<li data-cover="http://coverartarchive.org/release/87d8297b-b01e-4eab-861b-e6d4e782830d/3397017644-500.jpg" data-tags="hardcore punk" role="button">
+Bad Brains - Black Dots (1996-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8409d6a-9a04-396d-95e4-e70ed27ecd68/10621864235-500.jpg" data-tags="punk rock, punk, skate punk" role="button">
 NOFX - So Long and Thanks for All the Shoes (1997-04-11)
@@ -189,8 +189,11 @@ Dropkick Murphys - Do or Die (1998-01-13)
 <li data-cover="https://img.discogs.com/-fnFFqL9pv_VJLL1Hf0VDh4lkR4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2036844-1311183981.jpeg.jpg" data-tags="hardcore, hardcore punk" role="button">
 Agnostic Front - Something's Gotta Give (1998-07-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/5492c6d0-f588-4d9a-b759-bc373e861ee2/2146337925-500.jpg" data-tags="skate punk, hardcore punk, charlie brown" role="button">
+Charlie Brown JR. - Preço Curto, Prazo Longo (1999-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5df4817-0c95-4e61-8bf2-cb18ea19a161/25101643073-500.jpg" data-tags="ska punk, hardcore punk, albums everyone should own" role="button">
 Choking Victim - No Gods / No Managers (1999-03-23)
@@ -204,7 +207,7 @@ AFI - Black Sails in the Sunset (1999-05-18)
 <li data-cover="http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg" data-tags="horror punk, punk" role="button">
 Misfits - Famous Monsters (1999-10-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, skate punk" role="button">
+<li data-cover="https://img.discogs.com/3caNBDbeMd1cANFbqmxIvUfMuRs=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8882673-1470740925-4755.jpeg.jpg" data-tags="punk rock, skate punk" role="button">
 NOFX - Pump Up the Valuum (2000-05-30)
 </li>
 <li data-cover="https://img.discogs.com/ynkIV5e6ooV3FxRjhI-w29dTG3Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492672-1443803935-1654.png.jpg" data-tags="punk" role="button">
@@ -252,9 +255,6 @@ Converge - You Fail Me (2004-09-15)
 <li data-cover="http://coverartarchive.org/release/0dc65026-cbb4-4319-b83d-ba812a445e8c/3376078822-500.jpg" data-tags="hardcore" role="button">
 Comeback Kid - Wake The Dead (2005-02-28)
 </li>
-<li data-cover="https://img.discogs.com/slJpt5xpPcn6XgD-TLcUhWieYZg=/fit-in/495x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768340-1300979914.jpeg.jpg" data-tags="punk, street punk, hardcore punk" role="button">
-The Unseen - State of Discontent (2005-05-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - The Warrior's Code (2005-06-15)
 </li>
@@ -279,7 +279,7 @@ Charlie Brown JR. - Ritmo, Ritual e Responsa (2007-11-07)
 <li data-cover="http://coverartarchive.org/release/ea7d06da-8245-4edc-8e61-9b84f97ab1d1/4860339604-500.jpg" data-tags="hardcore, hardcore punk, sludge metal" role="button">
 Cancer Bats - Hail Destroyer (2008-04-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock, melodic hardcore" role="button">
+<li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/46fff009-54a2-3951-aee0-82950f6a97ce/4781804499-500.jpg" data-tags="hardcore punk" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:19:01.506Z
+date: 2021-04-04T07:40:01.265Z
 title: "speed metal: 100 albums you must listen to before you die"
 ---
 ![Megadeth - Rust In Peace (1990-09-21)](http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg "Megadeth - Rust In Peace (1990-09-21)")
@@ -276,8 +276,8 @@ Motörhead - Kiss of Death (2006-08-25)
 <li data-cover="http://coverartarchive.org/release/cf8cd704-686f-417b-be9d-a049d233f259/4731911358-500.jpg" data-tags="thrash metal, heavy metal" role="button">
 Megadeth - That One Night: Live in Buenos Aires (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2a2100c2-6a41-3c94-8783-b126ead423f5/3031932035-500.jpg" data-tags="industrial metal, metal" role="button">
-Static-X - Cannibal (2007-04-03)
+<li data-cover="http://coverartarchive.org/release/2e327023-ec02-3650-82fa-5fa79ddaa08a/23704616687-500.jpg" data-tags="thrash metal" role="button">
+Megadeth - United Abominations (2007-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3212ee8-b50d-3511-b830-19bad4070c3d/20719326770-500.jpg" data-tags="power metal" role="button">
 Helloween - Gambling with the Devil (2007-10-23)

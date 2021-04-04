@@ -1,19 +1,19 @@
 ---
-date: 2021-04-04T06:32:01.396Z
+date: 2021-04-04T07:03:01.261Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
-![Disturbed - The Sickness (2000-03-07)](http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg "Disturbed - The Sickness (2000-03-07)")
+![Linkin Park - Meteora (2003-03-24)](http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg "Linkin Park - Meteora (2003-03-24)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">Korn - Korn (1994-10-11)</li>
-<li data-cover="https://img.discogs.com/1YmWLUI6_1W2R2UkOKPP7NX6l7U=/fit-in/281x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1038221-1186910793.jpeg.jpg" data-tags="nu metal" role="button">Korn - Issues (1999-11-15)</li>
+<li data-cover="http://coverartarchive.org/release/cf33646a-d030-3144-ba3d-234e13634e15/10553190492-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">Deftones - Around the Fur (1997-10-24)</li>
+<li data-cover="http://coverartarchive.org/release/8a069e1f-3866-3b9a-941c-c20e984bf89f/18823687691-500.jpg" data-tags="nu metal, metal" role="button">Slipknot - Slipknot (1999-06-29)</li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">Disturbed - The Sickness (2000-03-07)</li>
+<li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">Linkin Park - Hybrid Theory (2000-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">Drowning Pool - Sinner (2001-06-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal" role="button">Slipknot - Iowa (2001-08-21)</li>
-<li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">Korn - Untouchables (2002-06-10)</li>
-<li data-cover="https://img.discogs.com/hkqZHK4p8SVjJgEhihAxlSAZoJY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764338-1525944750-8491.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">Limp Bizkit - Results May Vary (2003-05-28)</li>
-<li data-cover="http://coverartarchive.org/release/4862e45e-127d-423a-a4bf-95b79197c84a/10796070605-500.jpg" data-tags="nu metal, alternative metal" role="button">Mudvayne - Lost and Found (2005-03-28)</li>
-<li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal" role="button">Korn - See You on the Other Side (2005-12-05)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
+<li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">Linkin Park - Meteora (2003-03-24)</li>
+<li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">Linkin Park - Minutes to Midnight (2007-05-11)</li>
+<li data-cover="https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">Slipknot - All Hope Is Gone (2008-08-20)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,44 +21,62 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
-P.O.D. - Snuff the Punk (1994-01-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1b96e5e-41d4-302a-903e-ed8d87b2ee96/20102454104-500.jpg" data-tags="nu metal" role="button">
-P.O.D. - Brown (1996)
+<li data-cover="http://coverartarchive.org/release/98e90fe5-2364-46fd-9a41-0b8d71be8a92/8871803526-500.jpg" data-tags="thrash metal, groove metal" role="button">
+Sepultura - Roots (1996-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c93f6a84-0822-472f-ba7d-a49e475a9a43/4088021294-500.jpg" data-tags="nu metal" role="button">
 Korn - Life Is Peachy (1996-10-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/ce4722b7-7d58-4f7d-b76d-cb4b37fb661b/1069838540-500.jpg" data-tags="metal, nu metal" role="button">
+Slipknot - Mate. Feed. Kill. Repeat. (1996-10-31)
+</li>
 <li data-cover="https://img.discogs.com/4F4KwZq_NSCdIZB9Y2eO0Oh60Dw=/fit-in/483x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1265549-1204880173.jpeg.jpg" data-tags="nu metal" role="button">
 Coal Chamber - Coal Chamber (1997-02-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/ff1f54ea-6e5d-4b61-b1e8-64371bbe3d44/1735086782-500.jpg" data-tags="rapcore, nu metal" role="button">
-Papa Roach - Old Friends From Young Years (1997-12-04)
+<li data-cover="https://img.discogs.com/oC80XbUu1pNPEjJuxSL9mIE4OAw=/fit-in/600x922/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500374-1332874280.jpeg.jpg" data-tags="alternative rock" role="button">
+Guano Apes - Proud Like a God (1997-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c6432b0-3e0a-468f-88c3-4736c41b38a1/17554675157-500.jpg" data-tags="nu metal, industrial metal" role="button">
-Spineshank - Strictly Diesel (1998-09-22)
+<li data-cover="http://coverartarchive.org/release/cf33646a-d030-3144-ba3d-234e13634e15/10553190492-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
+Deftones - Around the Fur (1997-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/14971935502-500.jpg" data-tags="hard rock, metal" role="button">
+Godsmack - Godsmack (1998-08-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial metal" role="button">
+Static-X - Wisconsin Death Trip (1999-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
+Staind - Dysfunction (1999-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/be3e00aa-368a-3f09-ac96-cd094e9a7151/3234514330-500.jpg" data-tags="nu metal" role="button">
+Limp Bizkit - Significant Other (1999-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/8a069e1f-3866-3b9a-941c-c20e984bf89f/18823687691-500.jpg" data-tags="nu metal, metal" role="button">
+Slipknot - Slipknot (1999-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/20e07279-c06b-3f99-8c47-caf048c9345f/10973639948-500.jpg" data-tags="nu metal, groove metal" role="button">
 Machine Head - The Burning Red (1999-07-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/b878a6cb-2cbb-4c51-8356-8e8d89d04e77/13895458368-500.jpg" data-tags="industrial metal, nu metal" role="button">
+Dope - Felons and Revolutionaries (1999-09-14)
+</li>
 <li data-cover="https://img.discogs.com/1YmWLUI6_1W2R2UkOKPP7NX6l7U=/fit-in/281x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1038221-1186910793.jpeg.jpg" data-tags="nu metal" role="button">
 Korn - Issues (1999-11-15)
-</li>
-<li data-cover="https://img.discogs.com/VR0OfEo67gwMzJXcddkofbuHFr0=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3109318-1327696127.jpeg.jpg" data-tags="nu metal, metalcore, alternative metal" role="button">
-Chimaira - This Present Darkness (2000-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
-Taproot - Gift (2000-06-16)
+<li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
+Linkin Park - Hybrid Theory (2000-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/60756568-81d9-4f4e-be72-44b020d83538/16427116968-500.jpg" data-tags="industrial metal, nu metal, metal, hard rock" role="button">
-The Union Underground - ...An Education In Rebellion (2000-07-18)
+<li data-cover="http://coverartarchive.org/release/c7e82aec-f36b-45ef-9eb6-0721825b210b/1295812381-500.jpg" data-tags="alternative metal, nu metal" role="button">
+Deftones - White Pony (2000-05-16)
+</li>
+<li data-cover="https://img.discogs.com/iYLwOxh7VXggVh0wKh6ACOy0tpc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368241-1186356382.jpeg.jpg" data-tags="nu metal" role="button">
+Taproot - Gift (2000-06-16)
 </li>
 <li data-cover="https://img.discogs.com/M4wxOo-EVaYaVlRI_dc_vS592no=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3589065-1428940273-7193.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
@@ -66,230 +84,212 @@ Mudvayne - L.D. 50 (2000-08-29)
 <li data-cover="https://img.discogs.com/7Feb1iNB1Qh6XZJcwbxC1qwiNA8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492491-1416494673-8726.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Soulfly - Primitive (2000-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c49f6f9e-10cb-40fa-adec-9c34e0de46c2/23681226146-500.jpg" data-tags="nu metal, hardcore, alternative metal" role="button">
-Nothingface - Violence (2000-10-10)
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial metal, nu metal" role="button">
+Spineshank - The Height of Callousness (2000-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/52ac8260-43d1-49b2-8589-0827ad114894/10843717147-500.jpg" data-tags="nu metal" role="button">
+Lostprophets - The Fake Sound of Progress (2000-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)
 </li>
-<li data-cover="https://img.discogs.com/Te2PpmgTNUoSjMrB-3K8aARcgEs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021366-1396658358-3471.jpeg.jpg" data-tags="nu metal" role="button">
-Deftones - Back to School (Mini Maggit) (2000-12-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/841b85f1-b88c-4b55-adc6-a675e1482e9c/16182675188-500.jpg" data-tags="heavy metal, metal, alternative metal, nu metal" role="button">
-Nonpoint - Development (2001)
+<li data-cover="https://img.discogs.com/cUPf2HrcH73qKcgOQAKk8bHhHe8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-803198-1437228257-8825.jpeg.jpg" data-tags="hard rock" role="button">
+Godsmack - Awake (2000-10-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 Ill Niño - Revolution Revolución (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/104b5bb4-4750-4823-8a1f-ac57de3fccac/16776231275-500.jpg" data-tags="industrial metal, nu metal" role="button">
-Crossbreed - Synthetic Division (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/41de15ee-e9d8-4336-aa14-03ea5be4016f/15537492906-500.jpg" data-tags="alternative metal, nu metal, lovecore" role="button">
-Boy Hits Car - Boy Hits Car (2001-01-09)
+<li data-cover="http://coverartarchive.org/release/e00e40a3-5ed5-4ed3-9c22-0a8ff4119bdf/10210180067-500.jpg" data-tags="alternative rock, rock" role="button">
+Alien Ant Farm - Anthology (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/f38a8e29-3c4f-438b-809d-afd2ac0b603b/16490273372-500.jpg" data-tags="nu metal, hard rock" role="button">
 Saliva - Every Six Seconds (2001-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/3a145bc0-6ba6-4c7c-9dc9-a85b6235b36e/2479170585-500.jpg" data-tags="nu metal" role="button">
-4Lyn - 4LYN (2001-05-21)
+<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
+Staind - Break the Cycle (2001-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/57d61f02-3923-4e3f-8ea0-af878ffa6086/4993807159-500.jpg" data-tags="industrial metal" role="button">
+Static-X - Machine (2001-05-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 Drowning Pool - Sinner (2001-06-05)
 </li>
-<li data-cover="https://img.discogs.com/Vk8ymzmZ-BENC91WcKZiWGiInU8=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765128-1158620783.jpeg.jpg" data-tags="nu metal, metalcore, hardcore" role="button">
-Dry Kill Logic - The Darker Side of Nonsense (2001-06-19)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial metal, nu metal" role="button">
-Spineshank - New Disease (2001-09-10)
+<li data-cover="https://via.placeholder.com/450" data-tags="metal, nu metal, industrial metal" role="button">
+American Head Charge - The War Of Art (2001-08-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, metal" role="button">
+System of a Down - Toxicity (2001-08-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 40 Below Summer - Invitation to the Dance (2001-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/6501d73a-ed76-4a7f-b8c0-2dcc255509ce/6163003116-500.jpg" data-tags="alternative metal" role="button">
+Soil - Scars (2001-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/219b9a86-faf5-43b4-b3b7-45444aff5070/4262581087-500.jpg" data-tags="nu metal, metal" role="button">
 Machine Head - Supercharger (2001-09-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
-Emil Bulls - Angel Delivery Service (2001-12-03)
+<li data-cover="https://img.discogs.com/FlOqofoomJvha7VnJuHNkZ69DyI=/fit-in/327x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8597585-1464800959-6303.jpeg.jpg" data-tags="industrial metal, nu metal" role="button">
+Dope - Life (2001-11-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/58073fbb-c380-337a-ac6c-40048c3ba83c/25753837881-500.jpg" data-tags="alternative metal, nu metal" role="button">
-Five Pointe O - Untitled (2002)
+<li data-cover="https://img.discogs.com/iXhCbYKucXwX01SANUCdwZ3zpFE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622208-1598632234-7202.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
+Sevendust - Animosity (2001-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd419d6f-c509-4558-a2dd-660facad5877/2922393105-500.jpg" data-tags="nu metal" role="button">
-Coal Chamber - Dark Days (2002-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab50c769-ea51-479c-9e5e-0c1ed8ed9237/17482009574-500.jpg" data-tags="alternative, hard rock, alternative metal, nu metal, 5 star albums, tommy lee" role="button">
-Tommy Lee - Never A Dull Moment (2002-05-21)
+<li data-cover="http://coverartarchive.org/release/33c4add2-117c-3bc3-adc4-4527b4d7e0ff/11704753059-500.jpg" data-tags="nu metal, rock, hard rock" role="button">
+Papa Roach - LoveHateTragedy (2002-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7e040aa-579b-4a77-8659-37dfb09b5cef/13566328860-500.jpg" data-tags="nu metal" role="button">
 Korn - Untouchables (2002-06-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d82f63a0-52da-4f49-b4e4-2c2c15766707/5822889413-500.jpg" data-tags="alternative metal, industrial metal, nu metal" role="button">
-Sweet Noise - Czas ludzi cienia (2002-08-05)
+<li data-cover="http://coverartarchive.org/release/26b922bd-a931-4938-93f5-b9a09d227c10/9831908947-500.jpg" data-tags="metal, nu metal" role="button">
+Otep - Sevas Tra (2002-06-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="thrash metal, nu metal, groove metal, alternative metal" role="button">
+Soulfly - 3 (2002-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
+Stone Sour - Stone Sour (2002-08-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
+Disturbed - Believe (2002-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd2bc17-cd42-4347-9b61-68d62f6566df/4637421071-500.jpg" data-tags="alternative rock, hard rock, nu metal, metal, rock" role="button">
 Adema - Insomniac's Dream (2002-11-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0381376-5583-4aa6-88fa-2984d25ef3a5/7915054343-500.jpg" data-tags="hard rock, rock" role="button">
+Trapt - Trapt (2002-11-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
 Saliva - Back Into Your System (2002-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/c02fb0de-e35e-4c7d-916f-fff2637e87d8/15545331220-500.jpg" data-tags="alternative metal, nu metal" role="button">
-Ünloco - Becoming I (2003-03-08)
+<li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
+Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e22cde7-18cd-4114-90e6-234136f8bd71/5561315287-500.jpg" data-tags="industrial metal" role="button">
-Marilyn Manson - The Golden Age of Grotesque (2003-05-07)
+<li data-cover="https://img.discogs.com/iDdlLIrLmoqxcFi0YfgTSWoiuio=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3519602-1333668651.jpeg.jpg" data-tags="metalcore" role="button">
+36 Crazyfists - A Snow Capped Romance (2003)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
-Motograter - Motograter (2003-05-27)
+<li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
+Celldweller - Celldweller (2003-01-28)
 </li>
-<li data-cover="https://img.discogs.com/hkqZHK4p8SVjJgEhihAxlSAZoJY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764338-1525944750-8491.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/40e7c84f-309b-4d2e-b93c-c9d56f682665/17105713835-500.jpg" data-tags="alternative rock" role="button">
+Guano Apes - Walking on a Thin Line (2003-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
+Linkin Park - Meteora (2003-03-24)
+</li>
+<li data-cover="https://img.discogs.com/vlau61vpGX-YOKEj67EuCN9BpRM=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7066761-1432968460-8867.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
+Godsmack - Faceless (2003-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab6d3199-90d7-34de-8008-c6f072a5d43a/4766302340-500.jpg" data-tags="alternative metal" role="button">
+Deftones - Deftones (2003-05-19)
+</li>
+<li data-cover="https://img.discogs.com/Zpi9stbQqkyHyOEATAeCpxNBSi4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7196724-1492812925-6155.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
 Limp Bizkit - Results May Vary (2003-05-28)
+</li>
+<li data-cover="https://img.discogs.com/kF9iKRsz7Si3aPgDV2T74KAXepE=/fit-in/450x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961563-1255210779.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
+Metallica - St. Anger (2003-06-23)
 </li>
 <li data-cover="https://img.discogs.com/w60FI3WrMqY_cyk8c-8KzOZz5Wo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3923619-1360361475-3004.jpeg.jpg" data-tags="industrial metal, nu metal" role="button">
 Spineshank - Self-Destructive Pattern (2003-07-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/70f4008b-209b-4735-99f6-276dd9f4f26a/1331537609-500.jpg" data-tags="alternative metal, nu metal" role="button">
-Pleymo - Rock (2003-10)
+<li data-cover="http://coverartarchive.org/release/08902a42-9afa-3337-8267-b333a89dd5da/24702019693-500.jpg" data-tags="alternative rock" role="button">
+Thousand Foot Krutch - Phenomenon (2003-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf2e6803-5014-41ec-9ae5-c688818d0dac/1537440951-500.jpg" data-tags="hard rock, christian, christian rock, nu metal, orthodox christian, orthodox christian rock, russian christian, russian christian rock" role="button">
-АлисА - Сейчас позднее, чем ты думаешь (2003-10-15)
+<li data-cover="http://coverartarchive.org/release/a8dd3f57-4760-4127-a7fe-ee21b6ff2d04/14818545514-500.jpg" data-tags="nu metal" role="button">
+P.O.D. - Payable on Death (2003-10-04)
+</li>
+<li data-cover="https://img.discogs.com/p58mdDNi8-zXW5dI5bDWiI-LMwM=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7220441-1436464508-9956.jpeg.jpg" data-tags="industrial metal" role="button">
+Static-X - Shadow Zone (2003-10-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/ace5c1af-1fc8-43aa-9ff7-bced160a8859/8120232073-500.jpg" data-tags="alternative metal, metal, nu metal, mushroomhead" role="button">
+Mushroomhead - XIII (2003-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/201168d1-ca56-4b6e-9bb2-f37deb6bf045/28275822140-500.jpg" data-tags="industrial metal, nu metal" role="button">
+Dope - Group Therapy (2003-10-21)
 </li>
 <li data-cover="https://img.discogs.com/Aps8rjlwnJWV4Gu-tfAkYEFZnlM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065022-1212577271.jpeg.jpg" data-tags="nu metal" role="button">
 Element Eighty - Element Eighty (2003-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/64dca84b-0bdf-43ba-b800-feb37943786a/15564151691-500.jpg" data-tags="nu metal" role="button">
-40 Below Summer - The Mourning After (2003-10-28)
+<li data-cover="http://coverartarchive.org/release/0edb5cf7-aaff-4376-8a6b-373a0f08ce39/15089945297-500.jpg" data-tags="nu metal" role="button">
+Linkin Park - Live in Texas (2003-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d294a5f4-eb5d-31f3-b895-6bcb3bc147ba/4266344000-500.jpg" data-tags="nu metal" role="button">
 Korn - Take a Look in the Mirror (2003-11-21)
 </li>
-<li data-cover="https://img.discogs.com/Moc0yEcaE2TzFDWvJhAj62mELPQ=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885282-1353635920-8040.jpeg.jpg" data-tags="rock, alternative rock" role="button">
-Lostprophets - Start Something (2004-01-15)
+<li data-cover="http://coverartarchive.org/release/21478f60-2242-4c17-8fed-506581a14996/14503017209-500.jpg" data-tags="metal, alternative metal, heavy metal, hard rock, nu metal" role="button">
+Drowning Pool - Desensitized (2004-04-20)
 </li>
-<li data-cover="https://img.discogs.com/a69GkwSsaKjGDp9P1XSJzN1u4Eg=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-703668-1493036586-1116.jpeg.jpg" data-tags="nu metal" role="button">
-Exilia - Unleashed (2004-05-24)
+<li data-cover="http://coverartarchive.org/release/9c20d207-b383-47ab-8c60-a9a2a92b8f34/12966446504-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
+Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
+</li>
+<li data-cover="https://img.discogs.com/Y3ZrWLBHYpX5M-UGLTgRcVZIEvI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063213-1326676273.jpeg.jpg" data-tags="nu metal, rock, hard rock, alternative rock" role="button">
+Papa Roach - Getting Away With Murder (2004-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e2b5730-22e4-4731-9b36-07f3ea04769e/12918785727-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
 Nonpoint - Recoil (2004-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/26338abf-dead-4ef9-b34f-5a66a251c790/1583361561-500.jpg" data-tags="rock, alternative, alternative rock, nu metal, turkish, turkish rock" role="button">
-Manga - Manga (2004-12-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nu metal, metal, industrial metal" role="button">
-American Head Charge - The Feeding (2005-02-15)
+<li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
+Flyleaf - Flyleaf (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4862e45e-127d-423a-a4bf-95b79197c84a/10796070605-500.jpg" data-tags="nu metal, alternative metal" role="button">
 Mudvayne - Lost and Found (2005-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b50b21f-f12c-49d3-8880-964e29686992/23154266732-500.jpg" data-tags="alternative, alternative metal, nu metal" role="button">
-Taproot - Blue-Sky Research (2005-08-15)
+<li data-cover="https://img.discogs.com/Ww1JvXSUgp60s5oPHc3EVia-Smc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7253244-1437235801-1398.jpeg.jpg" data-tags="industrial metal" role="button">
+Static-X - Start a War (2005-06-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metal, nu metal" role="button">
-Nonpoint - To the Pain (2005-09-07)
+<li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
+Disturbed - Ten Thousand Fists (2005-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/56eda536-9545-4005-9924-7781af660bc1/7545947728-500.jpg" data-tags="death metal, nu metal, deathcore, teeheecore" role="button">
-Suicide Silence - Suicide Silence (2005-09-30)
+<li data-cover="http://coverartarchive.org/release/c3bd3e15-556b-329c-8838-4444c9367aa9/8401417015-500.jpg" data-tags="nu metal" role="button">
+Slipknot - 9.0: Live (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal" role="button">
 Korn - See You on the Other Side (2005-12-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c0c646f-0f0c-4c10-b5e2-3f40d9317b30/5684022212-500.jpg" data-tags="metal, alternative, alternative rock, russian, alternative metal, nu metal, russian alternative" role="button">
-Tracktor Bowling - Шаги По Стеклу (2006)
+<li data-cover="http://coverartarchive.org/release/c7547981-f332-4ccf-873c-4296dd21503e/7566294873-500.jpg" data-tags="hard rock" role="button">
+Stone Sour - Come What(ever) May (2006-07-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/ec32c303-0afa-4205-be55-900803c954fe/25188888029-500.jpg" data-tags="alternative rock, hard rock, alternative metal, christian, christian rock, rapcore, nu metal, christian metal, christian nu metal, christian rapcore, pendientes, albums to own" role="button">
-P.O.D. - Greatest Hits: The Atlantic Years (2006-11-21)
+<li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
+Papa Roach - The Paramour Sessions (2006-09-08)
 </li>
-<li data-cover="https://img.discogs.com/0RZt4xlLorjREo0dvsKP-JPawg8=/fit-in/319x335/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15112702-1586824877-5860.jpeg.jpg" data-tags="hard rock, alternative metal, industrial metal, nu metal, trash metal, kick ass, bra metal, unsraw" role="button">
-UnsraW - Spiral Circle (2006-12-20)
+<li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
+Linkin Park - Minutes to Midnight (2007-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/32ec17a3-6572-4261-8306-b93719dc80a8/9198237118-500.jpg" data-tags="metal, alternative metal, nu metal" role="button">
-55 Escape - Closing In (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c0a7be2-da94-4cb1-ae3e-8fe7f9a03c23/10104860517-500.jpg" data-tags="nu metal" role="button">
-Maximum the Hormone - BU-IKIKAESU (2007-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d06a3f4-3c76-4209-96c4-8e17c78c6cf1/22131577988-500.jpg" data-tags="nu metal" role="button">
-Linkin Park - What I've Done (2007-04-02)
-</li>
-<li data-cover="https://img.discogs.com/K65TxDmX1r8hBNgvfbS5EvXzzms=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102386-1266479094.jpeg.jpg" data-tags="alternative, nu metal" role="button">
-Nevada Tan - Niemand hört dich (2007-04-20)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
-Marilyn Manson - Eat Me, Drink Me (2007-06-01)
+<li data-cover="http://coverartarchive.org/release/4ace409a-cbe9-40b3-9965-ac6b30851467/16826669217-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
+Drowning Pool - Full Circle (2007-07-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 Korn - Untitled (2007-07-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/04dde72c-8a02-4359-84db-ef6f221f759e/15129440307-500.jpg" data-tags="metal, alternative, reggae, alternative metal, rapcore, nu metal, reggae metal, ragga metal, raggae, raggae metal" role="button">
-Skindred - Ratrace (2007-10-29)
+<li data-cover="http://coverartarchive.org/release/8bf771ef-dad7-4ff0-911a-d9661fee3df1/10702278185-500.jpg" data-tags="metal, hard rock, alternative metal" role="button">
+Disturbed - Indestructible (2008-04-29)
 </li>
-<li data-cover="https://img.discogs.com/FbH3NN5Z_UxUAHJG5W8FWqvXQz0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8529859-1464362067-4028.jpeg.jpg" data-tags="nu metal" role="button">
-Otep - The Ascension (2007-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/855ddbf1-f8f8-4801-b3ec-486768aba72f/10496597840-500.jpg" data-tags="rock, alternative rock, punk rock, nu metal, melodic hardcore, skate punk, hardcore punk, rap metal, oi, charlie brown" role="button">
-Charlie Brown JR. - Ritmo, Ritual e Responsa (2007-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/98e0a41e-232b-4ec0-a3da-4e678b88acab/9466078309-500.jpg" data-tags="nu metal" role="button">
-Ill Niño - Enigma (2008-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c5951a6-9c3c-4d7d-bd7a-49c9701a416e/27275892478-500.jpg" data-tags="alternative metal, nu metal, hardcore" role="button">
-Emil Bulls - The Black Path (2008-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/8313f2d7-58d0-46c4-96c3-a3486db44dde/10150601846-500.jpg" data-tags="nu metal, christian rock" role="button">
-P.O.D. - When Angels & Serpents Dance (2008-04-08)
+<li data-cover="https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">
+Slipknot - All Hope Is Gone (2008-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa052d1e-374f-4aff-ab7c-23d3a6982949/16523540617-500.jpg" data-tags="nu metal, alternative metal" role="button">
 Head - Save Me From Myself (2008-09-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="breakbeat, industrial metal, nu metal, mathcore, music, music with beats" role="button">
-ギルガメッシュ - MUSIC (2008-11-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative metal, nu metal" role="button">
-the GazettE - Leech (2008-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/fdc51fc2-e038-4df2-bf3a-c0838c4be681/7392496735-500.jpg" data-tags="nu metal" role="button">
-Linkin Park - Songs From The Underground (2008-11-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a11e0cc-f7bb-4fc6-8616-6164784b3e4b/15810402996-500.jpg" data-tags="metal, alternative metal, nu metal, modern metal, korn" role="button">
-Korn - Collected (2009-03-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/d18b6802-87e3-49de-98bf-40ab18190f97/3946167060-500.jpg" data-tags="nu metal" role="button">
 Dope - No Regrets (2009-03-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/79b4d36d-595a-4afd-b10e-b53f71ef802f/1061656674-500.jpg" data-tags="metal, nu metal" role="button">
-Otep - Smash the Control Machine (2009-08-18)
+<li data-cover="http://coverartarchive.org/release/d1683e78-37ec-478c-bc22-8c8c09a94244/7125564638-500.jpg" data-tags="alternative rock, transformers, nu metal, nu-metal" role="button">
+Linkin Park - New Divide (2009-05-18)
 </li>
-<li data-cover="https://img.discogs.com/sVGLa02JnfuUSwzXbKKWeJa69Xo=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3912550-1568649510-3178.jpeg.jpg" data-tags="hardcore, nu metal, metal" role="button">
-Emil Bulls - Phoenix (2009-09-25)
+<li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
+Skillet - Awake (2009-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/18f1e8e4-9dc9-48c2-a90a-a66dc02afb8d/10610269786-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
 Mudvayne - Mudvayne (2009-12-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5b38099-da58-4226-ad80-a881232b52cb/5684048623-500.jpg" data-tags="rock, alternative, nu metal" role="button">
-Tracktor Bowling - Tracktor Bowling (2010-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, nu metal, nu-metal" role="button">
-Nonpoint - Miracle (2010-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/4334d3cc-f755-3d68-8486-cee2e2b8be70/4499486854-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn III: Remember Who You Are (2010-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/007ec48d-04a2-4e85-bdf2-8c1ac888f8ed/17554292692-500.jpg" data-tags="nu metal, alternative metal, industrial metal" role="button">
-Mushroomhead - Beautiful Stories for Ugly Children (2010-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e4777ad-5c07-3c27-a582-8c3d651fdf2e/6062606298-500.jpg" data-tags="nu metal, nu-metal" role="button">
-Ill Niño - Dead New World (2010-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - American Tragedy (2011-04-04)
-</li>
-<li data-cover="https://img.discogs.com/cJUuTCOKhEpD_a5L6tiWurK-y-M=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3157973-1573720974-4987.jpeg.jpg" data-tags="nu metal, alternative metal" role="button">
-Emil Bulls - Oceanic (2011-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/52151fe3-2223-4bfd-8ab2-f8ce150735a3/15810419787-500.jpg" data-tags="nu metal" role="button">
-Korn - The Essential Korn (2011-05-10)
+<li data-cover="https://img.discogs.com/WdIYWs97kRpkarCFLQTJl5XCwQw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6659543-1424045661-2626.jpeg.jpg" data-tags="alternative metal" role="button">
+Disturbed - Asylum (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bd6e65f-2584-4a20-a88d-695d32ed429d/7687347287-500.jpg" data-tags="rapcore, nu metal" role="button">
 Limp Bizkit - Gold Cobra (2011-06-24)
@@ -297,14 +297,17 @@ Limp Bizkit - Gold Cobra (2011-06-24)
 <li data-cover="http://coverartarchive.org/release/129c3643-d83e-45cc-a8d3-190e2f1ef0bc/2590580927-500.jpg" data-tags="hard rock, nu metal" role="button">
 Disturbed - The Lost Children (2011-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/452d3be3-11b8-4328-8504-65ad210666b7/8401508200-500.jpg" data-tags="nu metal" role="button">
-Slipknot - Antennas To Hell (2012-07-23)
+<li data-cover="http://coverartarchive.org/release/30f616d8-ef16-4386-a702-f24dac4a9b94/1702849582-500.jpg" data-tags="dubstep" role="button">
+Korn - The Path of Totality (2011-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/35870a7e-3d69-464f-b044-3b5664826909/5851863231-500.jpg" data-tags="nu metal" role="button">
-Otep - Hydra (2013-01-22)
+<li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
+Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca45d88a-015c-4b77-9a46-99c9c39b6d70/4979621261-500.jpg" data-tags="metalcore, nu metal, groove metal" role="button">
-Butcher Babies - Goliath (2013-07-09)
+<li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">
+Linkin Park - Living Things (2012-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
+In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f44d182-e925-448b-98b7-a525314079a0/7969942055-500.jpg" data-tags="nu metal" role="button">
 Korn - The Paradigm Shift (2013-10-04)
@@ -312,11 +315,8 @@ Korn - The Paradigm Shift (2013-10-04)
 <li data-cover="http://coverartarchive.org/release/3e4e3a75-da30-46e9-a2a7-db5c31e812b6/5853479926-500.jpg" data-tags="nu metal" role="button">
 Of Mice & Men - Restoring Force (2014-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/95a7bf38-f603-4757-91a1-1f771216c2b5/8660661844-500.jpg" data-tags="alternative metal, nu metal" role="button">
-Emil Bulls - Sacrifice to Venus (2014-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/8bbaf0c6-9cdb-47e2-b2c1-b0660b33000f/8303323694-500.jpg" data-tags="nu metal" role="button">
-King 810 - Memoirs of a Murderer (2014-08-15)
+<li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
+Linkin Park - The Hunting Party (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f66b0034-2511-4d5f-b0a7-345e330604d3/8142145163-500.jpg" data-tags="heavy metal, alternative metal, nu metal" role="button">
 Slipknot - .5: The Gray Chapter (Special Edition) (2014-10-15)

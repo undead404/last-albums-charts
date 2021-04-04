@@ -1,15 +1,15 @@
 ---
-date: 2021-04-04T03:31:01.128Z
+date: 2021-04-04T07:17:01.264Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">Celldweller - Celldweller (2003-01-28)</li>
+<li data-cover="http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg" data-tags="drum and bass" role="button">Pendulum - In Silico (2008-05-09)</li>
+<li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">Ratatat - LP3 (2008-07-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">Radiohead - Supercollider / The Butcher (2011-04-16)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
+<li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">Coldplay - Mylo Xyloto (2011-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">Phantogram - Nightlife (2011-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">Linkin Park - Living Things (2012-06-20)</li>
@@ -44,9 +44,6 @@ Babylon Zoo - The Boy With the X-Ray Eyes (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4ce056e-beeb-3c9f-82aa-84aadb1c98d8/2542527843-500.jpg" data-tags="punk" role="button">
 Moby - Animal Rights (1996-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
-Republica - Republica (1996-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6da3c2e5-cfe5-458f-a202-8d4dc6473981/13803321396-500.jpg" data-tags="electronic" role="button">
 Apollo 440 - Electro Glide In Blue (1997-02-27)
@@ -105,9 +102,6 @@ Daft Punk - Human After All (2005-03-09)
 <li data-cover="https://img.discogs.com/Qb1byW2yciR64JUZcsNJIeNdeN0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059143-1431553483-1453.jpeg.jpg" data-tags="electronic, make time, electrofusion" role="button">
 Whitey - The Light At The End Of The Tunnel Is A Train (2005-03-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial jungle pussy punk" role="button">
-Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="synthpop, ebm" role="button">
 Apoptygma Berzerk - You and Me Against the World (2005-09-12)
 </li>
@@ -134,6 +128,12 @@ Dragonette - Galore (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg" data-tags="drum and bass" role="button">
+Pendulum - In Silico (2008-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
+Ratatat - LP3 (2008-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
 Kerli - Love Is Dead (2008-07-08)
@@ -222,7 +222,7 @@ Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="indietronica, synthpop, electro-rock, electronic rock" role="button">
 Housse de Racket - Alésia (2011-08-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Audio, Video, Disco (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3d38348-6cec-47da-92ad-49969812116b/28429823396-500.jpg" data-tags="alternative rock, experimental" role="button">
@@ -267,14 +267,14 @@ Two Door Cinema Club - Beacon (2012-08-02)
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df96417-e066-4b6c-b436-e44508fa40c4/22299675586-500.jpg" data-tags="alternative rock" role="button">
 Papa Roach - The Connection (2012-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b2426c4-bf0b-48bc-9a73-160f42c1003f/2859176153-500.jpg" data-tags="electronic, dubstep, industrial, industrial rock, electronic rock" role="button">
-Blue Stahli - Antisleep Vol. 03 (2012-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
 Bastille - All This Bad Blood (2013-03-04)
@@ -282,7 +282,7 @@ Bastille - All This Bad Blood (2013-03-04)
 <li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, vinyl, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
 Public Service Broadcasting - Inform - Educate - Entertain (2013-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/001e6c1b-c0ba-4455-b784-2a9ee9ae91e7/6355720082-500.jpg" data-tags="2013, industrial, industrial rock" role="button">
+<li data-cover="http://coverartarchive.org/release/001e6c1b-c0ba-4455-b784-2a9ee9ae91e7/6355720082-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 Nine Inch Nails - Hesitation Marks (2013-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">

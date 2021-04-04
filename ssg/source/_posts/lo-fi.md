@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T05:49:01.241Z
+date: 2021-04-04T07:22:01.238Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)](http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg "Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)")
@@ -51,7 +51,7 @@ Sebadoh - Bakesale (1994-08-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="lo-fi" role="button">
 Neutral Milk Hotel - Everything Is (1995)
 </li>
-<li data-cover="https://img.discogs.com/H_s2q2tKfcYXZS8iRD6LVNbAiag=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4058347-1353849248-4687.jpeg.jpg" data-tags="90s, indie rock, lo-fi" role="button">
+<li data-cover="https://img.discogs.com/XVQxz6IrnS2KGEuqcB7m1Wb-i9c=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8238317-1552105184-6434.jpeg.jpg" data-tags="90s, indie rock, lo-fi" role="button">
 Guided by Voices - Alien Lanes (1995-04-04)
 </li>
 <li data-cover="https://img.discogs.com/WUY9-bWAt7vedxNhoYktHbcRHMU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8541332-1463680390-9242.jpeg.jpg" data-tags="indie rock, 90s" role="button">
@@ -59,9 +59,6 @@ Pavement - Wowee Zowee (1995-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Neutral Milk Hotel - On Avery Island (1996-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/cddfbb16-95ba-4eef-8468-29d0128bdc93/21562810344-500.jpg" data-tags="indie rock" role="button">
-Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About (1996-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7edae664-8e14-3ca1-8c74-71b1d4413c1b/19949390521-500.jpg" data-tags="alternative" role="button">
 Beck - Odelay (1996-06-17)
@@ -128,6 +125,9 @@ Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
+Grizzly Bear - Yellow House (2006-09-04)
 </li>
 <li data-cover="https://img.discogs.com/2N3MNz4lsRa3HMI2YDtc4DeSUmQ=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792744-1159303619.jpeg.jpg" data-tags="indie, rock, alternative, 00s" role="button">
 Sparklehorse - Dreamt For Light Years In The Belly Of A Mountain (2006-09-25)

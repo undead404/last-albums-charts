@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T03:54:01.224Z
+date: 2021-04-04T06:50:01.252Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Ultraviolence (2014-06-13)](http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg "Lana Del Rey - Ultraviolence (2014-06-13)")
@@ -77,9 +77,6 @@ Iron Butterfly - In-A-Gadda-Da-Vida (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6e3a5a2-d2be-4806-9afb-9e2fd4914d32/7717083844-500.jpg" data-tags="blues rock" role="button">
 Cream - Wheels Of Fire (1968)
-</li>
-<li data-cover="https://img.discogs.com/SUusc-NTMfXwLMhK1tBr1N_9B2Q=/fit-in/495x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2614831-1293361220.jpeg.jpg" data-tags="hard rock" role="button">
-Steppenwolf - Steppenwolf (1968-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/473711eb-af58-3041-852f-652554dd67a0/19844937707-500.jpg" data-tags="blues rock, psychedelic rock, 60s, hard rock" role="button">
 Blue Cheer - Vincebus Eruptum (1968-01-16)
@@ -203,6 +200,9 @@ The Flaming Lips - At War With The Mystics (2006-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a014fc8-b030-491a-9dc1-e8cf74ace99c/4549690587-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
 Colour Haze - Tempel (2006-07-18)
+</li>
+<li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
+Warpaint - Exquisite Corpse (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/c67bca1d-6300-445a-8140-d02e1ee335a2/24991340103-500.jpg" data-tags="psychedelic, psychedelic rock, tame impala" role="button">
 Tame Impala - Tame Impala (2008-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T04:24:01.301Z
+date: 2021-04-04T07:32:01.331Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -84,7 +84,7 @@ Dire Straits - On The Night (1993-05-11)
 <li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
 Neil Young - Unplugged (1993-06-11)
 </li>
-<li data-cover="https://img.discogs.com/lbgvX7bd4ShtlT_kfdk9Cb9rgrM=/fit-in/599x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515400-1225385807.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/EJM_wDtRPzaKlXRIqK1uXxJl7Q4=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2013178-1258537318.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
 The Cure - Show (1993-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2d0b8ef-272a-46b9-8b99-3e6831318ad9/6329050674-500.jpg" data-tags="live, alternative, female vocalists" role="button">
@@ -116,9 +116,6 @@ Pink Floyd - Pulse (1995-05-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Dire Straits - Live At The BBC (1995-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
-Ben Harper - Fight For Your Mind (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/xOvnQ6hQZ0MYgUkFV7WGD5Z94bg=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3652210-1338961582-8057.jpeg.jpg" data-tags="rock" role="button">
 Gin Blossoms - Follow You Down (1996-01-23)
@@ -237,10 +234,13 @@ Alicia Keys - Unplugged (2005-10-11)
 <li data-cover="http://coverartarchive.org/release/c3bd3e15-556b-329c-8838-4444c9367aa9/8401417015-500.jpg" data-tags="nu metal" role="button">
 Slipknot - 9.0: Live (2005-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/303188c6-8c08-36e1-ab85-b7e9ba84d7ee/7919913330-500.jpg" data-tags="progressive rock" role="button">
+The Mars Volta - Scabdates (2005-11-07)
+</li>
 <li data-cover="https://img.discogs.com/yKgieSTKusIBpjtEwfMVZ4ALIx8=/fit-in/540x474/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3624187-1337812211-1856.jpeg.jpg" data-tags="punk rock, live" role="button">
 Green Day - Bullet in a Bible (2005-11-11)
 </li>
-<li data-cover="https://img.discogs.com/gQbSyOJ5pxQiPDxD2qSl7HxIj7k=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-677050-1584810876-7476.jpeg.jpg" data-tags="2005, live, at this concert" role="button">
+<li data-cover="https://img.discogs.com/gQbSyOJ5pxQiPDxD2qSl7HxIj7k=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-677050-1584810876-7476.jpeg.jpg" data-tags="live, at this concert" role="button">
 Wilco - Kicking Television: Live in Chicago (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
@@ -273,7 +273,7 @@ Queen - Rock Montreal (2007-10-26)
 <li data-cover="https://img.discogs.com/U4lHrq7JhjUM0oy1BCS0YiHCijU=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1814175-1289070438.jpeg.jpg" data-tags="live, progressive metal, progressive death metal" role="button">
 Opeth - The Roundhouse Tapes (2007-10-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="live, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/TIttQypuxRcxPI6DIC_3V-p1rpQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783763-1441055360-1612.jpeg.jpg" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">
