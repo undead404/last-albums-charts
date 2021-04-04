@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:39:01.321Z
+date: 2021-04-04T23:03:01.993Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -53,9 +53,6 @@ Alanis Morissette - Jagged Little Pill (1995-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e427c52c-60f4-3df4-9493-2df0734d85aa/3198645256-500.jpg" data-tags="female vocalists" role="button">
 Sarah McLachlan - Surfacing (1997-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">
-Shania Twain - Come on Over (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/003e4113-6dac-445a-889c-62668ec9f675/10660252617-500.jpg" data-tags="rock, 90s, alternative" role="button">
 Barenaked Ladies - Stunt (1998-07-07)
@@ -138,8 +135,14 @@ Stars - Set Yourself on Fire (2004-09-14)
 <li data-cover="https://img.discogs.com/xMiFWJwEphLDMr-wOSPFShm1G4A=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-971954-1179329185.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1cd87a1-5dac-483d-b330-1c6ed2549ae1/5262868955-500.jpg" data-tags="canadian, alt-country" role="button">
+Kathleen Edwards - Back To Me (2005-03-01)
+</li>
 <li data-cover="https://img.discogs.com/I-94HK-qcR7LdLDe6E-CVFZJH7o=/fit-in/288x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428552-1112127581.jpg.jpg" data-tags="indie" role="button">
 Final Fantasy - Has A Good Home (2005-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">
+Hot Hot Heat - Elevator (2005-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/59445953-1f4d-4c63-b1f4-df5e3a83c7a8/20161653105-500.jpg" data-tags="electronic" role="button">
 Caribou - The Milk of Human Kindness (2005-04-18)
@@ -155,6 +158,9 @@ The New Pornographers - Twin Cinema (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b002b0e-3d58-4fea-a980-4b0577b32508/15696520432-500.jpg" data-tags="indie, indie rock" role="button">
 Wolf Parade - Apologies to the Queen Mary (2005-09-27)
+</li>
+<li data-cover="https://img.discogs.com/ira-32f2pdIu0VH1_fzBSr6wiP4=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726446-1473984149-8606.jpeg.jpg" data-tags="indie, indie rock" role="button">
+Metric - Live It Out (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/57ed610e-fa13-41c8-a274-5a438cdaa304/18292512936-500.jpg" data-tags="indie, singer-songwriter, canadian, collett" role="button">
 Jason Collett - Idols of Exile (2006-02-07)
@@ -207,7 +213,7 @@ Sunset Rubdown - Random Spirit Lover (2007-10-09)
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)
 </li>
-<li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">
+<li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
@@ -240,9 +246,6 @@ Japandroids - Post-Nothing (2009-04-28)
 <li data-cover="http://coverartarchive.org/release/3256f5bb-0bb1-4ac4-b581-43803afd0573/18799589016-500.jpg" data-tags="indie rock, rock" role="button">
 Sunset Rubdown - Dragonslayer (2009-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/feefbeb7-79eb-4a0d-a215-04990a186465/28888010781-500.jpg" data-tags="punk rock" role="button">
-Billy Talent - Billy Talent III (2009-07-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">
 Caribou - Swim (2010-04-16)
 </li>
@@ -254,9 +257,6 @@ The New Pornographers - Together (2010-05-03)
 </li>
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a690e839-b3b7-43fb-9575-6a1db2155841/15449530643-500.jpg" data-tags="folk, indie, canadian" role="button">
-Dan Mangan - Nice, Nice, Very Nice (2010-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
 Black Mountain - Wilderness Heart (2010-09-10)

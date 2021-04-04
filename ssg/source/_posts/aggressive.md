@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:09:01.270Z
+date: 2021-04-04T23:12:01.299Z
 title: "aggressive: 100 albums you must listen to before you die"
 ---
 ![Kanye West - Yeezus (2013-06-18)](http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg "Kanye West - Yeezus (2013-06-18)")
@@ -36,8 +36,8 @@ The Real Kids - The Real Kids (1977)
 <li data-cover="https://img.discogs.com/mcW4DnPI0AAvxBcUPFe5rcTHeTI=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6671642-1472371151-8679.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
 The Jam - In the City (1977-05-20)
 </li>
-<li data-cover="https://img.discogs.com/BbPNN4exoTtfqWZkqTREHvWTnyA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2757319-1299675179.jpeg.jpg" data-tags="punk, 70s" role="button">
-Johnny Thunders - So Alone (1978-10-06)
+<li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
+Lou Reed - Street Hassle (1978)
 </li>
 <li data-cover="https://img.discogs.com/c4yp6W2A8-h2NjykAnVPnWtbkTc=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1141285-1195395232.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
 The Jam - All Mod Cons (1978-11-03)
@@ -57,11 +57,11 @@ Bad Brains - Rock for Light (1983-03)
 <li data-cover="https://img.discogs.com/NseMBmtrdlnhg6TNWfpXgsYslaU=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5152641-1385919652-9267.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
 Lou Reed - New Sensations (1984)
 </li>
-<li data-cover="https://img.discogs.com/8FRHIyqjhLIHC9MXTfLhx1IWGck=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490689-1209891693.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Boogie Down Productions - Criminal Minded (1987)
-</li>
 <li data-cover="https://img.discogs.com/w8diz5YoUxWV59Xg236HyKpSmRk=/fit-in/280x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1451301-1340758392-7222.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/38f354d3-7148-41ae-96d3-8574a9c71287/14748841978-500.jpg" data-tags="hip-hop, east coast rap, rap" role="button">
+Public Enemy - Yo! Bum Rush the Show (1987-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2be302b8-5c4a-47ae-ac83-0f08777982ab/12312200491-500.jpg" data-tags="80s, sst" role="button">
 Descendents - All (1987-06)
@@ -72,9 +72,6 @@ Dead Moon - In the Graveyard (1988)
 <li data-cover="https://img.discogs.com/CZrVtz_7R__JBijMbczu8QJ6emQ=/fit-in/400x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5298274-1395450542-2585.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
 L.A. Guns - L.A. Guns (1988-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/920af7b1-3a8b-4129-a881-7c9c6877b0ef/5880914168-500.jpg" data-tags="golden age hip hop, hip-hop, rap" role="button">
-Big Daddy Kane - Long Live the Kane (1988-06-21)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial metal" role="button">
 Ministry - The Land of Rape and Honey (1988-10-11)
 </li>
@@ -84,16 +81,16 @@ Dream Theater - When Dream And Day Unite (1989-03-06)
 <li data-cover="https://img.discogs.com/r4kRB_nIAYMeR6D7iWuhvZBoNTY=/fit-in/600x334/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11705365-1520967247-1779.jpeg.jpg" data-tags="punk, rock, hard rock" role="button">
 Iggy Pop - Brick By Brick (1990-06-28)
 </li>
-<li data-cover="https://img.discogs.com/1-vAjCXwRYElP8xjd1U3RTWQj9o=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15818231-1598365907-4816.jpeg.jpg" data-tags="90s" role="button">
+<li data-cover="http://coverartarchive.org/release/d012b269-86de-4a3e-9d7c-5d0ab45a633b/23499818550-500.jpg" data-tags="golden age hip hop" role="button">
+LL Cool J - Mama Said Knock You Out (1990-09-18)
+</li>
+<li data-cover="https://img.discogs.com/32qiQeab2R3RvWNXY3c_Lnfl4QU=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935904-1467031460-3503.jpeg.jpg" data-tags="90s" role="button">
 Dinosaur Jr. - Green Mind (1991-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/2dd2608a-9dab-3048-bf9a-60a1f5715bf4/17222744547-500.jpg" data-tags="punk, sst" role="button">
-Descendents - Somery (1991-07-16)
-</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/JY4yp4v-GT7lPLGG-wmhZ1S_nCU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-633788-1467719795-9392.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Das EFX - Dead Serious (1992-04-07)
 </li>
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
@@ -101,9 +98,6 @@ Helmet - Meantime (1992-06-23)
 </li>
 <li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
 The Jesus Lizard - Liar (1992-09-16)
-</li>
-<li data-cover="https://img.discogs.com/e_SslAmovhsXK1DpjlHEoktdC5Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081136-1192439541.jpeg.jpg" data-tags="post-punk" role="button">
-The Birthday Party - Hits (1992-10-12)
 </li>
 <li data-cover="https://img.discogs.com/BpORMXrTrP0_prtni1QOBOQl8zk=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423146-1237613420.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
 Dinosaur Jr. - Where You Been (1993-02-09)
@@ -114,11 +108,11 @@ Butthole Surfers - Independent Worm Saloon (1993-03-23)
 <li data-cover="http://coverartarchive.org/release/23df2316-7e0a-3fad-a7fd-9f63379e4120/1674549008-500.jpg" data-tags="hip-hop, rap" role="button">
 Jeru the Damaja - The Sun Rises In The East (1994-05-24)
 </li>
-<li data-cover="https://img.discogs.com/2Rkc66ogrNVnmoRtUCN5nlp1acE=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60008-1176554356.jpeg.jpg" data-tags="rap" role="button">
+<li data-cover="https://img.discogs.com/YgpHNzX8N5naVrHQJJN-Eo7SfKk=/fit-in/477x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8251321-1499979577-8542.png.jpg" data-tags="rap" role="button">
 Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc8d4f67-b395-4675-b668-7a067e574ae6/22507217638-500.jpg" data-tags="grunge, riot grrrl, 1994" role="button">
-L7 - Hungry for Stink (1994-07-12)
+<li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
+311 - Grassroots (1994-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
 Dinosaur Jr. - Without a Sound (1994-08-01)
@@ -131,9 +125,6 @@ Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/7086c733-4ced-4f36-b024-74404bb7ab80/3357063370-500.jpg" data-tags="punk" role="button">
 Jawbreaker - Dear You (1995-09-12)
-</li>
-<li data-cover="https://img.discogs.com/CVZUmcAnV1QFixSx2Gyb4aAvRyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3032954-1400790839-1761.jpeg.jpg" data-tags="rap, hip-hop" role="button">
-Busta Rhymes - The Coming (1996-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
@@ -195,14 +186,20 @@ M.I.A. - Arular (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/1cda9ed6-4088-42af-9c3d-a1d118680a37/26455762564-500.jpg" data-tags="thrash metal" role="button">
 Stam1na - Stam1na (2005-03-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/88c20f02-4a7b-45d3-bdf1-511032a10784/10237138189-500.jpg" data-tags="dark electro, aggressive, aggrotech, shit i techniawa" role="button">
+Grendel - Soilbleed (2005-04-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)
+</li>
+<li data-cover="https://img.discogs.com/-3c1H_uELwr2N788wMTMZCyywyI=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-556259-1131086352.jpeg.jpg" data-tags="energetic, aggressive, raucous, exuberant, boisterous, party/ celebratory, weekly top albums" role="button">
+Hedley - Hedley (2005-09-06)
 </li>
 <li data-cover="https://img.discogs.com/wqTkBm7nyv0Jjd9K8-lFG4c2Thk=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694470-1520581573-8313.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
-<li data-cover="https://img.discogs.com/giNZH8F_a4Lq_kp-oI4fXVZdqhQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659495-1171225004.jpeg.jpg" data-tags="industrial" role="button">
-Android Lust - Devour, Rise, and Take Flight (2006-02-21)
+<li data-cover="http://coverartarchive.org/release/3c6e82f4-865d-3657-9d65-86737b208aff/2850609992-500.jpg" data-tags="dark electro, ebm, industrial and ebm" role="button">
+Tamtrum - Elektronic Blakc Mess (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/eab06683-0a36-4897-85b4-07e363a6769d/13095340713-500.jpg" data-tags="hard rock, college rock, jangle pop, reflective, melancholy, irreverent, aggressive, freewheeling, wry, bittersweet, intimate, raucous, yearning, sleazy, silly, poignant, american underground, bitter, rebellious, wistful, rollicking, exuberant, rowdy, volatile, ramshackle, messy, angst-ridden, brash, rambunctious, reckless, iveldie albums" role="button">
 The Replacements - Don't You Know Who I Think I Was?: The Best Of The Replacements (2006-06-13)
@@ -216,6 +213,9 @@ Jesus On Extasy - Holy Beauty (2007-03-30)
 <li data-cover="https://img.discogs.com/SXMY9TtYg2E3iEpMij1FAB_u5S0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1087368-1191066313.png.jpg" data-tags="death metal, metalcore" role="button">
 Divine Heresy - Bleed The Fifth (2007-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/06ea2510-c899-40cb-a30b-ea8c6c76678a/12948969271-500.jpg" data-tags="aggressive, freewheeling, raucous, broodje halfom" role="button">
+Black Francis - Bluefinger (2007-09-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/c9c75060-fc57-490d-9709-682412bd6a81/1431643782-500.jpg" data-tags="rap" role="button">
 Rick Ross - Trilla (2008-01-01)
 </li>
@@ -227,9 +227,6 @@ Drive-By Truckers - Brighter Than Creation's Dark (2008-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
 The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
-</li>
-<li data-cover="https://img.discogs.com/USydrwKp4ZXsS1MwQ4ER9_tEKEw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16278016-1606460378-9188.jpeg.jpg" data-tags="heavy metal, rock, japanese, alternative rock, indie rock, hard rock, experimental rock, energetic, alternative metal, asian, confident, aggressive, fiery, freewheeling, dramatic, uplifting, male vocalists, 00s, visual kei, motivation, swaggering, lively, visceral, sprawling, boisterous, guys night out, street-smart, hanging out, rambunctious, alternative indie-rock" role="button">
-ムック - 志恩 (2008-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b43a144-f4be-4365-b376-947d93586550/4507021160-500.jpg" data-tags="techno, minimal techno, ominous, late night, club, clinical, winter, intense, hypnotic, paranoid, cold, cerebral, detached, sparse, nocturnal, bleak, unsettling, urgent, night driving" role="button">
 Basic Channel - BCD-2 (2008-05)
@@ -243,13 +240,16 @@ I Will Never Be The Same - Standby (2009-04)
 <li data-cover="http://coverartarchive.org/release/08bb705b-658a-3bfc-9421-82feb249ab21/1024659588-500.jpg" data-tags="progressive metal" role="button">
 OSI - Blood (2009-04-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/1f59e8c0-860b-45c0-a332-c2fba39e972b/28149027777-500.jpg" data-tags="rap" role="button">
+Busta Rhymes - Back On My B.S. (2009-05-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/59ff8aaf-2ad1-4b1d-9e2a-771f1d154a33/21498444470-500.jpg" data-tags="alternative, indie, alternative rock" role="button">
 Dinosaur Jr. - Farm (2009-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/BbAKxokmQqQcfKTFSWH71H21iOU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2659685-1423044299-6410.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/UXgbqevfNeBqlilcwq4pyWKeH80=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5558208-1396520125-1881.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="https://img.discogs.com/180eSVrmFqEx84A9MljgGmJieto=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220760-1543694776-5834.jpeg.jpg" data-tags="mute, 10s" role="button">
@@ -294,6 +294,9 @@ Tenacious D - Rize of the Fenix (2012-05-14)
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
 Kanye West - Yeezus (2013-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/cf018964-9465-4dea-922b-98c55812e06f/5594631960-500.jpg" data-tags="electronic, juke" role="button">
+DJ Rashad - Double Cup (2013-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/b1b2b691-5c29-4215-bf37-7ea9f1ee7bc3/7807345022-500.jpg" data-tags="angry, aggressive, fiery, raucous, playful, brooding, eccentric, cathartic, lively, plaintive, angst-ridden, girls night out, 2014 albums" role="button">
 Speedy Ortiz - Real Hair (2014-02-11)
 </li>
@@ -317,8 +320,5 @@ Jack White - Lazaretto (2014-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6b275f9-8b57-4668-a9cc-d0fe76effcd1/20840907999-500.jpg" data-tags="emo, pop punk" role="button">
 Joyce Manor - Never Hungover Again (2014-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd6358fb-084f-46c6-810d-9a3085095318/9043181228-500.jpg" data-tags="indie rock, thoughtful, energetic, searching, reflective, passionate, explosive, confident, aggressive, dramatic, introspection, majestic, strong, yearning, powerful, triumphant, bombastic, thrilling, defiant, empowerment, cathartic, suspenseful, desperate, elaborate, visceral, sprawling, urgent, boisterous, ambitious, affirmation, serious, relationships, animated, everyday life, outraged, mighty" role="button">
-Restorations - LP3 (2014-10-27)
 </li>
 </ol>

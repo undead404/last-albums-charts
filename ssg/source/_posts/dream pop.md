@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:32:01.311Z
+date: 2021-04-04T22:47:01.327Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -78,6 +78,9 @@ Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
+<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
+Mercury Rev - Deserter's Songs (1998-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
 </li>
@@ -92,9 +95,6 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
 The Radio Dept. - Lesser Matters (2003-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
-Broadcast - Haha Sound (2003-08-09)
 </li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
 Death Cab for Cutie - Transatlanticism (2003-09-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T16:56:01.297Z
+date: 2021-04-04T23:33:01.277Z
 title: "emotional: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -8,7 +8,7 @@ title: "emotional: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
 <li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">Robbie Williams - Angels (1997-11)</li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -42,6 +42,9 @@ Sophie B. Hawkins - Tongues and Tails (1992-04-07)
 <li data-cover="http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg" data-tags="slowcore" role="button">
 Low - I Could Live in Hope (1994-02-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
+Ernest Ranglin - Below The Bassline (1996-06-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
 </li>
@@ -65,9 +68,6 @@ Lycia - Estrella (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/0efb51b9-b587-4cc2-ae11-fda10fd157f8/2772677034-500.jpg" data-tags="indie, lo-fi" role="button">
 Bright Eyes - A Collection of Songs Written and Recorded 1995-1997 (1998-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/922a4808-890b-4313-8211-874f36c7f45b/6677759219-500.jpg" data-tags="male, pop, rock, country, easy listening, soft rock, 90s, brazil, portuguese, mellow, soft, emotional, brazilian, male vocalists, country rock, sertanejo, leonardo" role="button">
 Leandro & Leonardo - Um Sonhador (1998-07-15)
@@ -123,11 +123,8 @@ Lampshade - Because Trees Can Fly (2003)
 <li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
 Copeland - Beneath Medicine Tree (2003-03-25)
 </li>
-<li data-cover="https://img.discogs.com/v-b1QDFEyZlhvJhWBpI0gmty1j8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275098-1360495678-3373.jpeg.jpg" data-tags="trance, dance" role="button">
+<li data-cover="https://img.discogs.com/n3wdRuLdRNb59IB_Qv4Dvc1amk0=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207196-1234422929.jpeg.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
-</li>
-<li data-cover="https://img.discogs.com/PPB3MdLUrIN7afWvEXQ4Zr-UyUI=/fit-in/400x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1928630-1337992486-8207.jpeg.jpg" data-tags="electronic, depeche mode" role="button">
-Dave Gahan - Paper Monsters (2003-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
@@ -144,7 +141,10 @@ Robbie Williams - Live Summer 2003 (2003-09-24)
 <li data-cover="http://coverartarchive.org/release/46c65355-be9d-479f-9d14-82c294dd6136/25689193092-500.jpg" data-tags="post-hardcore" role="button">
 Letter Kills - The Bridge (2004)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
+Xiu Xiu - Fabulous Muscles (2004-02-17)
+</li>
+<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -153,7 +153,7 @@ Iron & Wine - Our Endless Numbered Days (2004-03-23)
 <li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, country, alternative, folk, indie pop, indie rock, sad, singer-songwriter, acoustic, blues, mellow, alt-country, melancholy, folk rock, slow, calm, lo-fi, americana, moody, songwriter, winter, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
+<li data-cover="https://img.discogs.com/iVvwkqtoSnUexSg2FgDy1yZGPC4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453334-1243153042.jpeg.jpg" data-tags="indie, country, alternative, folk, indie pop, indie rock, sad, singer-songwriter, acoustic, blues, mellow, alt-country, melancholy, folk rock, slow, calm, lo-fi, americana, moody, songwriter, winter, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
 Little Wings - Magic Wand (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, favorite, alt rock, independent, tracks, favourite songs, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
@@ -273,9 +273,6 @@ Soap&Skin - Lovetune for Vacuum (2009-03-13)
 <li data-cover="https://img.discogs.com/69CuUkIJSZnowWjQ8B85R_IfC-I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11629954-1519696742-5842.jpeg.jpg" data-tags="indie, experimental, emotional, 00s, post-everything, jagjaguwar, beyondwithin, newbreed" role="button">
 Oneida - Rated O (2009-07-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="christmas" role="button">
-Sting - If On A Winter's Night (2009-09-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/af7ba85c-383e-4167-9e1d-c3d40b49c02d/2892953747-500.jpg" data-tags="post-rock, emotional" role="button">
 Immanu El - Moen (2009-12-10)
 </li>
@@ -305,6 +302,9 @@ Saves the Day - Daybreak (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/710c7f38-563a-48c1-b93c-740043697c0a/6393087014-500.jpg" data-tags="electronic, ambient, dreamy, 10s" role="button">
 Bvdub - Serenity (2012-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
+Daughter - If You Leave (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8840e34-e10b-46da-9fe1-8e6a293afb85/4193295801-500.jpg" data-tags="emotional, aoty" role="button">
 Yung Lean - sadboys2001 (2013-05-24)

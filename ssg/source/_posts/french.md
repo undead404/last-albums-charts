@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:07:01.665Z
+date: 2021-04-04T23:29:01.294Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -153,8 +153,14 @@ Camille - Le Fil (2005-02-14)
 <li data-cover="http://coverartarchive.org/release/e423f7c7-05ed-446f-9c62-73f9d1d17da0/2220219941-500.jpg" data-tags="french" role="button">
 Pauline Croze - Pauline Croze (2005-02-14)
 </li>
+<li data-cover="https://img.discogs.com/HiH-kZ1r4FDn0PJHnPgoCxSbUN0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204312-1200534622.jpeg.jpg" data-tags="french" role="button">
+Coralie Clément - Bye Bye Beauté (2005-02-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/0606d8e8-1a2b-30ec-9adf-9e54ae08975a/1171662410-500.jpg" data-tags="french" role="button">
+Mylène Farmer - Avant que l'ombre... (2005-04-04)
 </li>
 <li data-cover="https://img.discogs.com/HyWH94_-BHggUZGg_A6ezuWAcnQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478836-1119637408.jpg.jpg" data-tags="classic rock, french, indie, rock, alternative, alternative rock, folk, ambient, singer-songwriter, 00s, life is strange" role="button">
 Syd Matters - Someday We Will Foresee Obstacles (2005-04-05)
@@ -170,9 +176,6 @@ Olivia Ruiz - La Femme Chocolat (2005-11-14)
 </li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/0fe94139-df63-4e51-b2e7-a1d53535cdd9/7145334932-500.jpg" data-tags="lounge" role="button">
-Nouvelle Vague - Bande à Part (2006-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/be9453f4-23e8-46f1-863a-d3a63cdd6231/23498089082-500.jpg" data-tags="female vocalists, french" role="button">
 Charlotte Gainsbourg - 5:55 (2006-08-11)
@@ -236,9 +239,6 @@ Caravan Palace - Caravan Palace (2008-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
 Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)

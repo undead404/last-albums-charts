@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:42:01.338Z
+date: 2021-04-04T23:26:01.285Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -50,9 +50,6 @@ Marilyn Manson - Portrait Of An American Family (1994-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/b05760ff-5db4-4586-b3e4-26110b6f3fb1/13860776533-500.jpg" data-tags="alternative rock, alternative metal" role="button">
-Faith No More - King for a Day, Fool for a Lifetime (1995-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Alice in Chains (1995-11-07)
@@ -161,6 +158,9 @@ System of a Down - Steal This Album! (2002-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
 Mudvayne - The End of All Things to Come (2002-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
+Audioslave - Audioslave (2002-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)

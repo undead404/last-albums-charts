@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T02:43:01.506Z
+date: 2021-04-04T23:38:02.018Z
 title: "german metal: 100 albums you must listen to before you die"
 ---
 ![Gamma Ray - Heading For Tomorrow (1990-02-19)](https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg "Gamma Ray - Heading For Tomorrow (1990-02-19)")
@@ -13,7 +13,7 @@ title: "german metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/8f9630af-1876-4a77-a33e-9d4cdca35ec0/17223666119-500.jpg" data-tags="power metal" role="button">Freedom Call - Eternity (2002-06-03)</li>
 <li data-cover="http://coverartarchive.org/release/bce6e4d9-096d-4f59-9b70-30db1dc49b3d/5372712419-500.jpg" data-tags="power metal, heavy metal" role="button">Powerwolf - Return in Bloodred (2005-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/51121f7e-9a09-4f12-bb02-1dc6587575a1/7792795848-500.jpg" data-tags="heavy metal" role="button">Teräsbetoni - Metallitotuus (2005-11-16)</li>
-<li data-cover="https://img.discogs.com/VNu3si4B-I4RDfrHVV1JW5z6FwE=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1538380-1226925625.jpeg.jpg" data-tags="power metal, a cappella metal" role="button">Van Canto - A Storm to Come (2006-12-15)</li>
+<li data-cover="https://img.discogs.com/DTjfHpkVraRAE3pwpH3TLezKXCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4130913-1356308132-6161.jpeg.jpg" data-tags="metalcore" role="button">Caliban - The Awakening (2007-05-23)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/7ba0fd7f-4443-4284-8748-fd75d4449a09/3039751372-500.jpg" data-tags="speed metal, heavy metal" role="button">
 Running Wild - Gates to Purgatory (1984)
 </li>
-<li data-cover="https://img.discogs.com/fURN7_fQfJbr2f6kxt-6Rab07cw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412510-1193757651.jpeg.jpg" data-tags="hard rock" role="button">
+<li data-cover="https://img.discogs.com/PmildqSWUnVWNx3SGzmK_NfWWD8=/fit-in/150x134/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6100010-1411061199-6549.jpeg.jpg" data-tags="hard rock" role="button">
 Scorpions - World Wide Live (1985-06)
 </li>
 <li data-cover="https://img.discogs.com/FEHGU8ljmc9enmMypgEakKpY1x0=/fit-in/593x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2600365-1292536791.jpeg.jpg" data-tags="speed metal" role="button">
@@ -41,9 +41,6 @@ Helloween - Keepers Live (1989-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7b23612-a3f3-41d4-8293-167532ad1b6f/21718519556-500.jpg" data-tags="rock" role="button">
 Michael Schenker Group - Save Yourself (1989-10-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b6ae345-cbc6-4efe-8eb3-0f3514b9c378/15332954939-500.jpg" data-tags="heavy metal" role="button">
-Axel Rudi Pell - Wild Obsession (1989-12-01)
 </li>
 <li data-cover="https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg" data-tags="power metal" role="button">
 Gamma Ray - Heading For Tomorrow (1990-02-19)
@@ -99,7 +96,7 @@ Gamma Ray - Powerplant (1999-03-20)
 <li data-cover="http://coverartarchive.org/release/fccce690-ea43-4ecd-9bc3-21e44f3319f6/21606407612-500.jpg" data-tags="death metal" role="button">
 Die Apokalyptischen Reiter - Allegro Barbaro (1999-03-29)
 </li>
-<li data-cover="https://img.discogs.com/K-kRhVEUf8xpDX9euVWs2M8DDH8=/fit-in/600x922/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7172778-1435341370-6468.jpeg.jpg" data-tags="power metal" role="button">
+<li data-cover="https://img.discogs.com/F7zNx70njpazkXxJ8wMdpcWhZX0=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418284-1477953943-3899.jpeg.jpg" data-tags="power metal" role="button">
 Metalium - Millennium Metal: Chapter One (1999-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0272e44-eef1-4a7d-a68b-593d09ec1c68/15537876129-500.jpg" data-tags="gothic, german, metal" role="button">
@@ -108,7 +105,7 @@ Letzte Instanz - Das Spiel sich im Kreise dreht (1999-08-27)
 <li data-cover="http://coverartarchive.org/release/eb98eecd-7938-475e-98df-e3e00ef09140/10691425514-500.jpg" data-tags="folk metal, melodic death metal" role="button">
 SuidAkrA - Lays from Afar (1999-12-04)
 </li>
-<li data-cover="https://img.discogs.com/zdH0fSrVWyPSDOyLlwNfeOTMe-E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5350220-1391220355-7733.jpeg.jpg" data-tags="metalcore" role="button">
+<li data-cover="https://img.discogs.com/gJiKVu89VeeBrPPxo-6CUC6hI20=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2150722-1266764550.jpeg.jpg" data-tags="metalcore" role="button">
 Caliban - A Small Boy And A Grey Heaven (1999-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebd0f359-882e-433e-853d-e7e9ea8d5481/28935874202-500.jpg" data-tags="melodic death metal" role="button">
@@ -132,7 +129,7 @@ Cock and Ball Torture - Sadochismo (2001)
 <li data-cover="http://coverartarchive.org/release/d430e4e4-ed7d-45d1-aeea-7dc093106010/22849845060-500.jpg" data-tags="heavy metal, power metal" role="button">
 Rage - Welcome To The Other Side (2001-02-26)
 </li>
-<li data-cover="https://img.discogs.com/oCDJZLUkPUzON-HsOA5m9UsLQkY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605029-1137951132.jpeg.jpg" data-tags="metal, alternative metal, post-hardcore, german metal" role="button">
+<li data-cover="https://img.discogs.com/lIaCJavhNaMtGuPtlni23CbXNJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-741367-1589322447-5265.jpeg.jpg" data-tags="metal, alternative metal, post-hardcore, german metal" role="button">
 Waterdown - Never Kill The Boy On The First Date (2001-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2af7a61-5d58-4c79-b91c-7c0620b6bd2e/19653758240-500.jpg" data-tags="pagan metal" role="button">
@@ -153,11 +150,8 @@ SuidAkrA - Emprise To Avalon (2002-07-26)
 <li data-cover="http://coverartarchive.org/release/0e3003e6-88b8-468b-96f7-c869e57b22e9/9106635700-500.jpg" data-tags="power metal" role="button">
 At Vance - The Evil in You (2003-05-19)
 </li>
-<li data-cover="https://img.discogs.com/dd1shCW_2gR5DPiDTdlCzxWBH0E=/fit-in/600x785/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13558081-1556473161-4788.jpeg.jpg" data-tags="power metal, live" role="button">
+<li data-cover="https://img.discogs.com/7-SKo4aywocvVo6kw328DiDmOGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11060626-1509120055-1245.jpeg.jpg" data-tags="power metal, live" role="button">
 Blind Guardian - Live (2003-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9c2285e-1178-4de2-bdac-5863e9f200fe/6241900041-500.jpg" data-tags="post-hardcore" role="button">
-Waterdown - The Files You Have on Me (2003-05-23)
 </li>
 <li data-cover="https://img.discogs.com/LOudhndVV3_3OQOZ8QFlXxdHSHY=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1931603-1358611194-3430.jpeg.jpg" data-tags="heavy metal, power metal" role="button">
 Brainstorm - Soul Temptation (2003-06-24)
@@ -243,11 +237,17 @@ Van Canto - A Storm to Come (2006-12-15)
 <li data-cover="http://coverartarchive.org/release/c4431e00-95ef-4f9a-8c6e-df20e34442b9/9477920575-500.jpg" data-tags="viking metal" role="button">
 Obscurity - Schlachten & Legenden (2007)
 </li>
+<li data-cover="https://img.discogs.com/ZR1YmHifKXNprkErJyLSbm7mvMk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2573921-1291153982.jpeg.jpg" data-tags="melodic death metal" role="button">
+Fear My Thoughts - Vulcanus (2007-01-12)
+</li>
 <li data-cover="https://img.discogs.com/jEVv-VvBgkO5X9fpeyLxDpGHz-o=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15063158-1586189257-6181.jpeg.jpg" data-tags="death metal" role="button">
 Disbelief - Navigator (2007-02-23)
 </li>
 <li data-cover="https://img.discogs.com/wsbGzSO_6BZPgSphLvL60XoGgCI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2176684-1268143536.jpeg.jpg" data-tags="pagan metal, folk metal" role="button">
 Wolfchant - A Pagan Storm (2007-04-06)
+</li>
+<li data-cover="https://img.discogs.com/DTjfHpkVraRAE3pwpH3TLezKXCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4130913-1356308132-6161.jpeg.jpg" data-tags="metalcore" role="button">
+Caliban - The Awakening (2007-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a9bd34c-e572-416d-a9de-e29a3aedb401/11541859642-500.jpg" data-tags="power metal" role="button">
 Ride The Sky - New Protection (2007-07-25)

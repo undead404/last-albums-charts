@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:14:01.315Z
+date: 2021-04-04T23:13:01.292Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -84,11 +84,11 @@ Will Smith - Big Willie Style (1997-11-24)
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
+Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c37d04dc-a185-334d-ae9d-f30d27e40488/21122683366-500.jpg" data-tags="hip-hop, hip hop, underground hip-hop" role="button">
-MF DOOM - Operation: Doomsday (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a3422a3-bedc-3c7a-a984-b0fd51c0e5ec/9725720160-500.jpg" data-tags="hip hop, hip-hop, rap" role="button">
 The Roots - Things Fall Apart (1999-02-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:55:01.329Z
+date: 2021-04-04T23:00:01.389Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -153,9 +153,6 @@ Natalia Lafourcade - Natalia Lafourcade (2002-07-08)
 <li data-cover="http://coverartarchive.org/release/2e557f9b-9954-477d-a4c2-5dd7bd945fda/4672249676-500.jpg" data-tags="rock, latin rock" role="button">
 Santana - Shaman (2002-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/b78fc5a2-d3ba-4d86-9c22-08999ff1df34/18333551452-500.jpg" data-tags="rock en espanol" role="button">
-Gustavo Cerati - Siempre Es Hoy (2002-11-26)
-</li>
 <li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">
 Tribalistas - Tribalistas (2002-12-17)
 </li>
@@ -189,7 +186,7 @@ Sergent Garcia - La Semilla Escondida (2003-09-30)
 <li data-cover="http://coverartarchive.org/release/ddc66967-95b4-4870-86b4-7908d019935a/23824057797-500.jpg" data-tags="latin, belgian" role="button">
 Gabriel Rios - Ghostboy (2004-05-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="bossa nova, brazilian" role="button">
+<li data-cover="https://img.discogs.com/I0SWT3S8uigi0AFlNC8acIVz4_U=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304407-1099749564.jpg.jpg" data-tags="bossa nova, brazilian" role="button">
 Bebel Gilberto - Bebel Gilberto (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c55aa5c-ec1f-4758-82a5-244866c06f69/4521382366-500.jpg" data-tags="latin" role="button">
@@ -213,6 +210,9 @@ Reik - Reik (2005-05-24)
 <li data-cover="https://img.discogs.com/_4HN8z9XjaQh_3qSeTtjeHK7_DU=/fit-in/421x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6357018-1417261915-3747.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Ivete Sangalo - As Super Novas (2005-08-05)
 </li>
+<li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
+The Cat Empire - Two Shoes (2005-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
 Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
 </li>
@@ -234,7 +234,7 @@ Jorge Drexler - 12 segundos de oscuridad (2006-09-18)
 <li data-cover="https://img.discogs.com/Z_95p86awdMUY5aK1hskS2J3avM=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2535109-1565157036-9612.jpeg.jpg" data-tags="pop rock" role="button">
 Belinda - Utopía (2006-10-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
+<li data-cover="http://coverartarchive.org/release/ae79c52b-8ed3-45dd-a208-a4bac7c21fb6/28993094834-500.jpg" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
 Jarabe de Palo - Adelantando (2007-05-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock, latin, latin grammy nominated" role="button">
@@ -257,6 +257,9 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c9225e9-06d8-4258-8fe4-0bb06ec270ee/8865945973-500.jpg" data-tags="pop" role="button">
 Ximena Sariñana - Mediocre (2008-02-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e995f30-22d3-439e-a93b-99122c75916e/28033260251-500.jpg" data-tags="rock en espanol, latin rock, babasonicos" role="button">
+Babasónicos - Mucho (2008-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf3dc753-6a43-41a6-9df6-bd9c3757f1f1/3574760050-500.jpg" data-tags="calle 13, hip-hop" role="button">
 Calle 13 - Los De Atrás Vienen Conmigo (2008-10-07)
@@ -314,9 +317,6 @@ Natalia Lafourcade - Mujer Divina - Homenaje a Agustín Lara (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/959e0932-42fd-4811-8388-87eb6b899244/6457959227-500.jpg" data-tags="electronic, pop, alternative rock, experimental, synth pop, latin, folktronica, folk rock, indie folk, 2013 releases, my gang 13, 2013: favourite albums,  folk,  world music,  indie electronic, favourite albums everrr" role="button">
 Juana Molina - Wed 21 (2013-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
-Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0bda96c-c37c-475e-a14f-b0db0f0aca8e/9030115039-500.jpg" data-tags="latin" role="button">
 Mariachi El Bronx - Mariachi El Bronx (2014-10-31)
