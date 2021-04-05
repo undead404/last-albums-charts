@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T06:32:01.305Z
+date: 2021-04-05T12:58:01.700Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
-![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
+![Beck - Sea Change (2002-09-21)](http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg "Beck - Sea Change (2002-09-21)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">Eels - Beautiful Freak (1996-08-05)</li>
+<li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
 <li data-cover="https://img.discogs.com/bXYl9l3hLH72MLJyrk8HBCnYvW8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371766-1443128950-1064.jpeg.jpg" data-tags="progressive rock" role="button">Anathema - Judgement (1999-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">Antimatter - Planetary Confinement (2005-07-25)</li>
@@ -51,14 +51,14 @@ Tindersticks - Tindersticks (1993-10-07)
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/26ed17a4-e022-4abc-a11f-23437715f4f8/15399938306-500.jpg" data-tags="doom metal" role="button">
 My Dying Bride - The Angel and the Dark River (1995-05-22)
 </li>
 <li data-cover="https://img.discogs.com/mXmbUGbg8s-pnwDZnxsR5EARqq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950111-1433873709-1968.jpeg.jpg" data-tags="gothic metal, progressive metal, atmospheric metal" role="button">
 The Gathering - Mandylion (1995-08-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/92170779-0baf-31f4-930d-8213c7462eac/3435477482-500.jpg" data-tags="trip-hop" role="button">
+Archive - Londinium (1996-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
@@ -180,7 +180,7 @@ Agalloch - Ashes Against the Grain (2006-08-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="broken social scene and friends" role="button">
 The Dears - Gang Of Losers (2006-08-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="piano, contemporary classical, neoclassical, post-classical, neo-classical, modern classical" role="button">
+<li data-cover="https://img.discogs.com/NvmRufaO2RAjrDAztOYOP4V7aso=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-956459-1177242914.jpeg.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, neo-classical, modern classical" role="button">
 Dustin O'Halloran - Piano Solos Vol. 2 (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg" data-tags="piano, contemporary classical, neoclassical" role="button">

@@ -1,12 +1,12 @@
 ---
-date: 2021-04-04T18:53:01.404Z
+date: 2021-04-05T13:08:01.350Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">American Football - American Football (1999-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">Jimmy Eat World - Bleed American (2001-07-18)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">Taking Back Sunday - Tell All Your Friends (2002-03-26)</li>
+<li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">Taking Back Sunday - Tell All Your Friends (2002-03-26)</li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">Brand New - Deja Entendu (2003-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">Jimmy Eat World - Futures (2004-10-11)</li>
@@ -75,7 +75,7 @@ Brand New - Your Favorite Weapon (2001-10-09)
 <li data-cover="http://coverartarchive.org/release/1981ba90-cdff-4385-95f9-e2b72b2c6803/27079506039-500.jpg" data-tags="post-hardcore" role="button">
 Finch - What It Is to Burn (2002-03-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
+<li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Tell All Your Friends (2002-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2dac1fd4-94ec-390a-985d-c7440c647a99/11024423754-500.jpg" data-tags="piano rock" role="button">
@@ -96,7 +96,7 @@ The Early November - For All Of This (2002-11-05)
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
 </li>
-<li data-cover="https://img.discogs.com/zgND8o4VXNDounHkrrG5b5pd0s0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501912-1444050760-9836.png.jpg" data-tags="punk rock, punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
@@ -129,11 +129,14 @@ Story of the Year - Page Avenue (2003-09-16)
 <li data-cover="https://img.discogs.com/K2yyNsA_34niNo9BnGVhxfuwviI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7568257-1584320183-6792.jpeg.jpg" data-tags="emo" role="button">
 Matchbook Romance - Stories and Alibis (2003-09-22)
 </li>
-<li data-cover="https://img.discogs.com/ePg5BfQBI6UJwmtLgxNH22c_dYs=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470570-1601982291-5066.jpeg.jpg" data-tags="post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/f_Z5jf9GxipomA3X7zmUykQpHOk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122839-1316854929.jpeg.jpg" data-tags="post-hardcore" role="button">
 Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
+</li>
+<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
@@ -143,9 +146,6 @@ Taking Back Sunday - Where You Want to Be (2004-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">
 Senses Fail - Let It Enfold You (2004-09-07)
-</li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
-The Used - In Love and Death (2004-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
@@ -216,10 +216,10 @@ The All-American Rejects - Move Along (2006)
 <li data-cover="http://coverartarchive.org/release/d39b5760-18ad-4a8e-a625-ca128e69384a/2330331132-500.jpg" data-tags="emo" role="button">
 Hawthorne Heights - If Only You Were Lonely (2006-02-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
+<li data-cover="https://img.discogs.com/jXHEqpkzaiZYX3BIWucVSpVCSiQ=/fit-in/479x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067528-1262096038.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Louder Now (2006-04-24)
 </li>
-<li data-cover="https://img.discogs.com/ClaLRHilRF2O_lgVuQuLzCdFvXM=/fit-in/400x402/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067318-1303565618.jpeg.jpg" data-tags="indie, emo" role="button">
+<li data-cover="https://img.discogs.com/1JIpB6-DUXl_5rRKkvgcAkkVu4Q=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1091223-1197729002.jpeg.jpg" data-tags="indie, emo" role="button">
 Plain White T's - Hey There Delilah (2006-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
@@ -237,7 +237,7 @@ Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 <li data-cover="http://coverartarchive.org/release/dd4f60c8-d4b5-4c41-b200-a78dfe9e1aaf/25342698261-500.jpg" data-tags="post-hardcore, emo" role="button">
 Saosin - Saosin (2006-09-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
 Senses Fail - Still Searching (2006-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">

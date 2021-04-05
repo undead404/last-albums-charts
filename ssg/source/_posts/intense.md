@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T05:22:01.293Z
+date: 2021-04-05T13:06:01.370Z
 title: "intense: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -24,13 +24,10 @@ _________________
 <li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
 John Coltrane - A Love Supreme (1965-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
-Miles Davis - Bitches Brew (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/a3e5370f-28e0-488c-b5d1-6f5e2b73ceec/3683681968-500.jpg" data-tags="vocal, jazz, sad, torch songs, vocal jazz, blues, reflective, passionate, melancholy, organic, intense, confident, aggressive, fiery, freewheeling, provocative, uncompromising, dramatic, bittersweet, introspection, intimate, earthy, elegant, standards, yearning, sophisticated, poignant, autumnal, autumn, delicate, brooding, feeling blue, empowerment, gritty, volatile, refined, theatrical, difficult, plaintive, austere, ambitious, rca victor, simone, gammarec, dr nina simone, freepurp1e, modern jazz vocals" role="button">
 Nina Simone - Black Gold (1970)
 </li>
-<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, druggy, folk-rock, intense, fiery, fractured, trippy, paranoid, autumnal, manic, brooding, eccentric, wistful, volatile, brittle, maverick" role="button">
@@ -120,6 +117,9 @@ Destroyer - Streethawk: A Seduction (2001-04-26)
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/18c63072-bf6e-44ba-b5b8-006c6b1643d3/22178870400-500.jpg" data-tags="dub" role="button">
+Rhythm & Sound - Rhythm & Sound (2001-10-01)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Music - The Music (2002-08-19)
 </li>
@@ -144,7 +144,7 @@ Low - The Great Destroyer (2004)
 <li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="https://img.discogs.com/utQpesooOWGqr5QTiCPJlvyhYeY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367366-1460862888-8240.jpeg.jpg" data-tags="indie, 00s" role="button">

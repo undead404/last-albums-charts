@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T05:55:01.302Z
+date: 2021-04-05T13:07:01.362Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
-Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/18492d6e-b040-30c3-9d7c-e082ec2963fe/23559347519-500.jpg" data-tags="rock, classic rock, southern rock, 60s" role="button">
 Creedence Clearwater Revival - Bayou Country (1969-01-05)
 </li>
@@ -284,6 +281,9 @@ Lucero - 1372 Overton Park (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/02c4e4be-f3ac-49a8-8157-f0b1106b80a4/7913085249-500.jpg" data-tags="southern rock" role="button">
+Brother Dege - Folk Songs of the American Longhair (2010-03-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, americana, alt-country, southern rock" role="button">
 Drive-By Truckers - The Big To-Do (2010-03-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:35:01.689Z
+date: 2021-04-05T13:37:01.360Z
 title: "dreamy: 100 albums you must listen to before you die"
 ---
 ![Little Dragon - Ritual Union (2011-05-13)](https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg "Little Dragon - Ritual Union (2011-05-13)")
@@ -35,9 +35,6 @@ Kate Bush - Hounds of Love (1985-09-16)
 </li>
 <li data-cover="https://img.discogs.com/gIEXBDkViv4S-DJVJte-0k8dIok=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3954977-1359846494-2137.jpeg.jpg" data-tags="britpop, 90s" role="button">
 Saint Etienne - Foxbase Alpha (1991-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="1996, folk, singer-songwriter" role="button">
-Beth Orton - Trailer Park (1996-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/41be7979-d96e-4d3c-b360-2eb2c8ee6446/22174539193-500.jpg" data-tags="indie, shoegaze, dreamy" role="button">
 Mew - A Triumph for Man (1997-04)
@@ -89,6 +86,9 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 </li>
 <li data-cover="https://img.discogs.com/J1nQVSd6Kw41GvClK2lIQYyt2fM=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725811-1239432666.jpeg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/1fea8701-af43-403c-b1ad-7b38ac9ed054/23085815141-500.jpg" data-tags="ambient, experimental" role="button">
+Colleen - The Golden Morning Breaks (2005-05-23)
 </li>
 <li data-cover="https://img.discogs.com/63_F7EW19GYUj130dTT_4h1HPYo=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-677963-1146663712.jpeg.jpg" data-tags="indie, indie pop, singer-songwriter, dreamy, searching, reflective, literate, earnest, dramatic, bittersweet, reflection, intimate, cerebral, detached, 2000s, gin, stylish, plaintive, the creative side, austere, radio 2005, refined - mannered, vinyl collection, good album, dans ma discotheque, should buy, recent favorite albums, girlygil altrock, second-favorite album, albums acquired in 2011" role="button">
 John Vanderslice - Pixel Revolt (2005-08-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:38:01.466Z
+date: 2021-04-05T12:52:01.524Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -9,7 +9,7 @@ title: "ambient: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/cyPiEmQuKpLEFJF5QLJbqs3lszI=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817322-1175615429.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">Boards of Canada - Music Has the Right to Children (1998-04-20)</li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">Sigur Rós - ágætis byrjun (1999-06)</li>
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - Geogaddi (2002-02-13)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
+<li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg" data-tags="post-rock" role="button">Sigur Rós - Takk... (2005-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - The Campfire Headphase (2005-10-12)</li>
@@ -63,7 +63,7 @@ Aphex Twin - Richard D. James Album (1996-11-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Boards of Canada - Hi Scores (1996-12-09)
 </li>
-<li data-cover="https://img.discogs.com/4opvcXLy8bbXDmILdXxVQkmzQlM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-r_122593-001.jpg.jpg" data-tags="ambient, post-rock" role="button">
+<li data-cover="https://img.discogs.com/xDoLKS9K6k-_LsoyHCli65KIfo0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5800452-1403020958-1511.jpeg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
@@ -132,7 +132,7 @@ Frou Frou - Details (2002-06-04)
 <li data-cover="http://coverartarchive.org/release/b1374cc9-4e6f-4ec8-9902-84ae1430d0a6/21618689737-500.jpg" data-tags="ambient, chillout" role="button">
 Conjure One - Conjure One (2002-09-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ( ) (2002-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
@@ -156,7 +156,7 @@ Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">
 Air - Talkie Walkie (2004-01-21)
 </li>
-<li data-cover="https://img.discogs.com/TntSDuGQXlbBnS7o3Jr44SA9rdQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244778-1458760798-4830.jpeg.jpg" data-tags="chillout" role="button">
+<li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a402de73-a281-31ea-bcac-e747ea9ca7cc/21363838332-500.jpg" data-tags="electronic, ambient" role="button">
@@ -204,11 +204,8 @@ Carbon Based Lifeforms - World of Sleepers (2006-12-02)
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/p8ekxYH2ZEiI6ylivtCAFCEb-lA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937597-1180461208.jpeg.jpg" data-tags="ambient" role="button">
 Amiina - Kurr (2007-03-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
-Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
@@ -311,6 +308,9 @@ Sigur Rós - Valtari (2012-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7e3af8a-ce61-4388-9f68-ff73882203ad/15963196527-500.jpg" data-tags="idm" role="button">
 Jon Hopkins - Immunity (2013-06-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad249aa2-bf79-4042-8a49-ae10547203d9/4332528130-500.jpg" data-tags="ambient, idm" role="button">
+Boards of Canada - Tomorrow's Harvest (2013-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)

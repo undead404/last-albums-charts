@@ -1,10 +1,10 @@
 ---
-date: 2021-04-05T02:49:01.373Z
+date: 2021-04-05T13:05:01.428Z
 title: "debut album: 100 albums you must listen to before you die"
 ---
-![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
+![Allah-Las - Allah-Las (2012-09-18)](http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg "Allah-Las - Allah-Las (2012-09-18)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
+<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">Ray Charles - Ray Charles (1987)</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">Razorlight - Up All Night (2004-06-28)</li>
@@ -54,6 +54,9 @@ Buffalo Springfield - Buffalo Springfield (1973-11-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Talking Heads: 77 (1977-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
+Buggles - The Age of Plastic (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/5dcae226-0fff-37eb-b060-e753ccc13582/4710860981-500.jpg" data-tags="new wave" role="button">
 Dexys Midnight Runners - Searching For The Young Soul Rebels (1980-07)
 </li>
@@ -78,6 +81,9 @@ Big Audio Dynamite - This Is Big Audio Dynamite (1985)
 <li data-cover="http://coverartarchive.org/release/58622554-579e-461b-86b7-2f91a6d8b958/26663082236-500.jpg" data-tags="indie" role="button">
 Dinosaur Jr. - Dinosaur (1985-07-05)
 </li>
+<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">
+Ray Charles - Ray Charles (1987)
+</li>
 <li data-cover="https://img.discogs.com/GCA2x6MG0TfP_Dot0OCgWBmro1Q=/fit-in/600x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-756678-1436111517-3414.jpeg.jpg" data-tags="80s" role="button">
 Morrissey - Viva Hate (1988-03-14)
 </li>
@@ -99,14 +105,11 @@ Morphine - Good (1992)
 <li data-cover="https://img.discogs.com/GQLcU8u1ZNMwfInUdtY2_Uz6nQ0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3688303-1471467370-3560.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - Generation Terrorists (1992-02-10)
 </li>
-<li data-cover="https://img.discogs.com/dPYgWwRyJsKpyepRH1RCOY7T2r8=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2020774-1362921141-6307.jpeg.jpg" data-tags="hip hop, rap, hip-hop, oldschool" role="button">
+<li data-cover="https://img.discogs.com/MNRI9dhlFUlqLB7hucmvpk9bZmU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8753012-1514033005-1413.png.jpg" data-tags="hip hop, rap, hip-hop, oldschool" role="button">
 House of Pain - House of Pain (1992-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/95bc2a23-82a7-4489-8f56-8c11f04c79b1/16992304109-500.jpg" data-tags="canadian, 1990s, celtic punk, debut album, traditional irish, studio album, weallgetold, the mahones, t mahones, draggin the days, k1r7m" role="button">
 The Mahones - Draggin' the Days (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
@@ -200,9 +203,6 @@ The Duke Spirit - Cuts Across the Land (2004-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
 Black Mountain - Black Mountain (2005-01-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc930f49-ee54-46cc-a3d2-4d5bdd778a9a/7741562142-500.jpg" data-tags="metalcore, hardcore, melodic hardcore" role="button">
-Stick to Your Guns - For What It's Worth (2005-08-30)
 </li>
 <li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
 Jim Noir - Tower Of Love (2005-12-05)

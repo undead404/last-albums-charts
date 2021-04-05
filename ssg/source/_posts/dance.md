@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T05:16:06.724Z
+date: 2021-04-05T12:48:01.396Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -48,7 +48,7 @@ Cher - Believe (1998-10-12)
 <li data-cover="http://coverartarchive.org/release/6f829bf7-163b-49e5-84ba-fb44c2ad88e8/9560869252-500.jpg" data-tags="electronic" role="button">
 Fatboy Slim - You've Come a Long Way, Baby (1998-10-12)
 </li>
-<li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
+<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
@@ -89,9 +89,6 @@ Eric Prydz - Call on Me (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ee6bc56-f959-3474-a1c1-dad054e6a02d/10309050413-500.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Push the Button (2004-12)
-</li>
-<li data-cover="https://img.discogs.com/beKc7sAiHUweEnNafpZsZziLVjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608223-1572388236-8158.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
-Robyn - Robyn (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
@@ -210,6 +207,9 @@ deadmau5 - For Lack of a Better Name (2009-09-22)
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">
 Selena Gomez & the Scene - Kiss & Tell (2009-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/05a6a896-ac01-3c38-9e18-837c51e4b2fc/26334511184-500.jpg" data-tags="pop, dance" role="button">
+Britney Spears - 3 (2009-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
 Shakira - She Wolf (2009-10-09)
 </li>
@@ -227,6 +227,9 @@ Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">
+Enrique Iglesias - Euphoria (2010-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
@@ -284,9 +287,6 @@ Calvin Harris - 18 Months (2012-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
 Daft Punk - Random Access Memories (2013-05-17)
-</li>
-<li data-cover="https://img.discogs.com/dbN6n83BE7ZXSQn9w7nqnvVaB0U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4960708-1380744325-6489.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
-Selena Gomez - Come & Get It (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
 Selena Gomez - Stars Dance (2013-07-19)

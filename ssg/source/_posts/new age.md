@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:45:02.214Z
+date: 2021-04-05T13:36:01.364Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -123,6 +123,9 @@ Era - Era (1996)
 <li data-cover="https://img.discogs.com/9qS5kbixRguzBDHqPqoIzy-kDus=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102903-1617390014-2123.jpeg.jpg" data-tags="new age, enigma" role="button">
 Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/d4d8f4fa-2133-453e-b020-61bc6e2c66e0/18247329152-500.jpg" data-tags="new age" role="button">
+Medwyn Goodall - Ancient Nazca - Inca Mysteries (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a10bb6c-a45a-3a7c-8b3e-db564afae2f3/14512497121-500.jpg" data-tags="ambient" role="button">
 Delerium - Karma (1997-04-22)
 </li>
@@ -170,6 +173,9 @@ Karunesh - Global Spirit (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/387f7c8c-3c49-4601-af97-c7db2ba52593/20872496494-500.jpg" data-tags="new age, folk, celtic" role="button">
 Clannad - Greatest Hits (2000)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new age, relaxing" role="button">
+Anugama - Shamanic Dream II (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0a44af5-13fb-303c-9df3-5ec23029c928/1171318298-500.jpg" data-tags="new age" role="button">
 Era - Era 2 (2000-05-15)
@@ -219,9 +225,6 @@ Era - The Mass (2003-03-18)
 <li data-cover="http://coverartarchive.org/release/84f907d1-719d-442b-853e-36f1d05c79b1/26569542426-500.jpg" data-tags="gregorian chant, lesiem, new age" role="button">
 Lesiëm - Auracle (2003-04-11)
 </li>
-<li data-cover="https://img.discogs.com/XRNMoTkID3Igd_KNFYhMxOhV0ZE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6246860-1414683603-8850.jpeg.jpg" data-tags="ambient" role="button">
-Delerium - Chimera (2003-06-13)
-</li>
 <li data-cover="https://img.discogs.com/8cVaQakbPbZi1w0IaTpeVchpGW4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-207489-1617390721-6016.jpeg.jpg" data-tags="new age, enigma" role="button">
 Enigma - Voyageur (2003-09-08)
 </li>
@@ -243,17 +246,14 @@ Amethystium - Evermind (2004-10-05)
 <li data-cover="https://img.discogs.com/vpS3Dc-Yhl7f8JH5pPpPDsqHPIg=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849622-1303857829.jpeg.jpg" data-tags="singer-songwriter, new age, 00s, 2000s, my favorites, my-alt-c, traumhaft, honeycomb, 20 favorite albums of 2005, make me happy now, lieblings2, arbeitsmusik" role="button">
 Frank Black - Honeycomb (2005-07-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/220c52d7-1ad6-4936-bfff-6a16de5fa277/18755922533-500.jpg" data-tags="new age" role="button">
-Bernward Koch - Walking Through Clouds (2005-08-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/dab03d71-aa7b-4d89-aa1d-20132a70c1af/11537775771-500.jpg" data-tags="new age" role="button">
 Achillea - The Nine Worlds (2005-08-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new age, meditation, relax" role="button">
+Deuter - East of the Full Moon (2005-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
-</li>
-<li data-cover="https://img.discogs.com/jHAwF2obSvLb60gyHjO5nELWdME=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125967-1265452903.jpeg.jpg" data-tags="new age, ambient, electronic, trip-hop, world fusion, chillout" role="button">
-Modus - The Colour of Love (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/0365ca74-954f-4722-8248-21475ecc3fdc/26547972403-500.jpg" data-tags="new age, chillout breathe, ambient" role="button">
 Blue Stone - Breathe (2006-01-31)
@@ -315,7 +315,7 @@ Zara Larsson - Uncover (2013-05-13)
 <li data-cover="http://coverartarchive.org/release/fbfa4f47-088e-4957-9a10-5f61bd5f2341/14081906186-500.jpg" data-tags="pop, new age, english, mike oldfield" role="button">
 Mike Oldfield - Man On The Rocks (2014-03-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/2JCXbfqFDWFav56WJUrklnssQDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949963-1495276980-6815.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">

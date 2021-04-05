@@ -1,16 +1,16 @@
 ---
-date: 2021-04-05T05:40:02.242Z
+date: 2021-04-05T13:41:01.358Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Mezzanine (1998-04-17)</li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">Moby - Play (1999-05-17)</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">Zero 7 - Simple Things (2001-04-23)</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">Röyksopp - Melody A.M. (2001-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">Sia - Colour the Small One (2004-01-01)</li>
+<li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">Gotye - Making Mirrors (2011-08-19)</li>
@@ -33,7 +33,7 @@ Everything But the Girl - Amplified Heart (1994-06-13)
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/KduDRCveZa3suz6NUVTCw5Cffek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2423609-1513393936-3333.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
@@ -180,7 +180,7 @@ Air - Talkie Walkie (2004-01-21)
 <li data-cover="http://coverartarchive.org/release/d443845e-fd6a-43dd-a533-7ac239809cb6/19918684452-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Feels Like Home (2004-02-06)
 </li>
-<li data-cover="https://img.discogs.com/TntSDuGQXlbBnS7o3Jr44SA9rdQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244778-1458760798-4830.jpeg.jpg" data-tags="chillout" role="button">
+<li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, trip-hop, ninja tune" role="button">
@@ -297,9 +297,6 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
-James Blunt - Some Kind of Trouble (2010-11-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)
 </li>
@@ -320,5 +317,8 @@ Tom Odell - Songs from Another Love (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
+</li>
+<li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
+Bonobo - The North Borders (2013-03-21)
 </li>
 </ol>

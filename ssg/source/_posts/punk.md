@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T09:29:01.328Z
+date: 2021-04-05T13:09:01.392Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -71,6 +71,9 @@ Descendents - Milo Goes to College (1982-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f426cdf-6f8c-305f-92a3-4d9b551d8f31/9199906189-500.jpg" data-tags="post-hardcore, punk" role="button">
+Fugazi - 13 Songs (1989-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2dab6ed-1a4e-49a6-9abc-6be95c03dbda/4804372334-500.jpg" data-tags="punk, punk rock" role="button">
 Social Distortion - Social Distortion (1990-03-27)
@@ -204,6 +207,9 @@ Against Me! - As the Eternal Cowboy (2003-11-04)
 <li data-cover="https://img.discogs.com/VMlw4etb_MKW7fx8nWrleVNRzTE=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6772967-1426336219-8764.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Splinter (2003-11-27)
 </li>
+<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+The Used - In Love and Death (2004-01-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/841ec76f-f536-468d-b8ab-069923b4db17/15998647154-500.jpg" data-tags="pop punk, punk rock" role="button">
 New Found Glory - Catalyst (2004-05-18)
 </li>
@@ -227,9 +233,6 @@ Flogging Molly - Within a Mile of Home (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">
 Green Day - American Idiot (2004-09-20)
-</li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
-The Used - In Love and Death (2004-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3504efad-2457-3242-8ae1-08285008365c/21857657060-500.jpg" data-tags="pop punk" role="button">
 Good Charlotte - The Chronicles of Life and Death (2004-09-28)
@@ -272,9 +275,6 @@ Rise Against - The Sufferer & the Witness (2006-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
-New Found Glory - Coming Home (2006-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)

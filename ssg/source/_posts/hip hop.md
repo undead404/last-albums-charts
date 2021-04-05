@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T09:02:01.532Z
+date: 2021-04-05T13:35:01.478Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -150,9 +150,6 @@ Omarion - O (2005-02-22)
 <li data-cover="https://img.discogs.com/Bd2F0VtwjfQmcKiJxCS3LtP3fAs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10446978-1570403161-3128.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
-50 Cent - The Massacre (2005-03-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
@@ -293,6 +290,9 @@ Tyler, the Creator - Wolf (2013-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ddd2084-2f0a-432d-a5ed-f14ad151ea87/3912567094-500.jpg" data-tags="electronica, hip hop, dance pop, hip house, electronic dance" role="button">
 will.i.am - #willpower (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/4125216283-500.jpg" data-tags="hip hop" role="button">
+Chance the Rapper - Acid Rap (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
 J. Cole - Born Sinner (2013-06-14)
