@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:27:01.722Z
+date: 2021-04-05T13:49:02.134Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -27,7 +27,7 @@ Black Box - Dreamland (1990-05)
 <li data-cover="https://img.discogs.com/WHOsOq14G_MLTGUX6rk144B4hgE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2403279-1586795709-8239.jpeg.jpg" data-tags="house, eurodance, snap, 90s" role="button">
 Snap! - World Power (1990-05-14)
 </li>
-<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/8_VITtiq1PT34Nu2z90mIoTcsW0=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060350-1612101702-4362.jpeg.jpg" data-tags="chillout, electronic, funk, house" role="button">
@@ -57,7 +57,7 @@ Basement Jaxx - Remedy (1999-05-10)
 <li data-cover="http://coverartarchive.org/release/d52d6d37-f6cb-417d-b32a-284222400fac/8042015899-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Vertigo (1999-05-24)
 </li>
-<li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
+<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce51e568-6070-4d8c-b798-c5c25e4fc9e5/15820257420-500.jpg" data-tags="dance, house" role="button">
@@ -102,6 +102,9 @@ Mylo - Destroy Rock & Roll (2004-05-24)
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/29d5ee18-17ba-4eac-9080-cd1d3bb0ffc6/4640374883-500.jpg" data-tags="dance, house" role="button">
+Eric Prydz - Eric Prydz (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
@@ -117,9 +120,6 @@ Justice - Justice (2005-08-02)
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c89b423-8b51-4532-a5e6-2e077a76d6ed/3201197255-500.jpg" data-tags="electronic, electro, minimal" role="button">
-Booka Shade - Movements (2006-05-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac11d670-4254-4769-81e7-8891ad4fde4f/25025769283-500.jpg" data-tags="electro, dance, house" role="button">
 Fedde Le Grand - Put Your Hands Up For Detroit (2006-10-23)
 </li>
@@ -129,17 +129,11 @@ Róisín Murphy - Overpowered (2007-05)
 <li data-cover="http://coverartarchive.org/release/02814ccf-042f-47ac-acd0-36a5855d783f/10401043883-500.jpg" data-tags="electronic, chillout" role="button">
 Groove Armada - Soundboy Rock (2007-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/2846bdd5-2b37-34ca-ba50-cebfe76c299a/20853604238-500.jpg" data-tags="electronic" role="button">
-Simian Mobile Disco - Attack Decay Sustain Release (2007-06-13)
-</li>
 <li data-cover="https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg" data-tags="house, dance" role="button">
 David Guetta - Pop Life (2007-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">
 Kanye West - Stronger (2007-07-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/250e7379-67ab-42db-a101-023269183bdf/5499913556-500.jpg" data-tags="electronic, electro" role="button">
-Danger - 09/14 2007 (2007-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f08b488c-7526-4c7f-8e12-5a317cf600b7/16531192090-500.jpg" data-tags="electronic" role="button">
 Moby - Last Night (2008-03-13)
@@ -167,6 +161,9 @@ Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3dd8f19b-c870-4373-95b2-14117b09358a/12942567005-500.jpg" data-tags="dance" role="button">
+David Guetta - One More Love (2009-08-21)
 </li>
 <li data-cover="https://img.discogs.com/jBj3QGbg5SrmsfLqQXY7UXYsTKo=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2593294-1292173552.jpeg.jpg" data-tags="electronic, house, electro, dance" role="button">
 The Bloody Beetroots - Romborama (2009-08-21)
@@ -200,6 +197,9 @@ The Hundred in the Hands - The Hundred in the Hands (2010-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2af49440-6cc2-45c6-bcdc-4a65f3a86ece/6978324804-500.jpg" data-tags="electronic, house" role="button">
 Bag Raiders - Bag Raiders (2010-10-01)
+</li>
+<li data-cover="https://img.discogs.com/H6jd7m1UvIKTLjkRqzYr8noQMy0=/fit-in/600x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11987064-1526053747-5977.jpeg.jpg" data-tags="dance, house, electro hop, swedish house mafia" role="button">
+Swedish House Mafia - Miami 2 Ibiza (2010-10-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)

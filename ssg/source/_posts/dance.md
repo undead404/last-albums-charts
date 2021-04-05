@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:48:01.396Z
+date: 2021-04-05T13:47:01.443Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -35,9 +35,6 @@ Aqua - Aquarium (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">
 The Prodigy - The Fat Of The Land (1997-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/02f8aca3-8bb3-44c4-abdf-26e4354d2e00/2137821691-500.jpg" data-tags="pop" role="button">
-Spice Girls - Spiceworld (1997-10-31)
 </li>
 <li data-cover="https://img.discogs.com/OXVoM079mLpPeVMRCoTnxFAAlcU=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13663808-1558546223-9704.jpeg.jpg" data-tags="pop, electronic" role="button">
 Madonna - Ray of Light (1998-04-27)
@@ -90,6 +87,9 @@ Eric Prydz - Call on Me (2004-09-13)
 <li data-cover="http://coverartarchive.org/release/7ee6bc56-f959-3474-a1c1-dad054e6a02d/10309050413-500.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Push the Button (2004-12)
 </li>
+<li data-cover="https://img.discogs.com/beKc7sAiHUweEnNafpZsZziLVjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608223-1572388236-8158.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
+Robyn - Robyn (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
@@ -119,9 +119,6 @@ Mika - Life in Cartoon Motion (2007-02-05)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d1ef500-7004-4756-a45d-8b1f43692dc5/10118092077-500.jpg" data-tags="electronic, electronica" role="button">
-The Chemical Brothers - We Are The Night (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg" data-tags="pop, rihanna, rnb" role="button">
 Rihanna - Good Girl Gone Bad (2007-05-30)
@@ -183,6 +180,9 @@ Keri Hilson - In a Perfect World... (2009-01-01)
 <li data-cover="https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Invaders Must Die (2009-02-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/593de430-1ce9-4934-a46c-d168bf9d1653/25512976161-500.jpg" data-tags="dance, cascada, pop" role="button">
+Cascada - Evacuate the Dancefloor (2009-05)
+</li>
 <li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
 </li>
@@ -207,14 +207,14 @@ deadmau5 - For Lack of a Better Name (2009-09-22)
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">
 Selena Gomez & the Scene - Kiss & Tell (2009-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/05a6a896-ac01-3c38-9e18-837c51e4b2fc/26334511184-500.jpg" data-tags="pop, dance" role="button">
-Britney Spears - 3 (2009-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
 Shakira - She Wolf (2009-10-09)
 </li>
 <li data-cover="https://img.discogs.com/4b-rCTzer3nw7mF6FpBiT29Efwc=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3580560-1336101432.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/7fbdc38d-c8fd-425b-99c6-bffe038d03ce/6746612299-500.jpg" data-tags="dance" role="button">
+Stromae - Alors On Danse (2009-12-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Animal (2010-01-01)
@@ -227,9 +227,6 @@ Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">
-Enrique Iglesias - Euphoria (2010-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
@@ -279,6 +276,9 @@ Neon Trees - Everybody Talks (2011-12-20)
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">
 Flo Rida - Wild Ones (2012-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b16a2ad-44b4-4e6d-8529-076ef93acd77/1967160750-500.jpg" data-tags="dance, avicii" role="button">
+Avicii - Silhouettes (2012-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
 </li>
@@ -287,6 +287,9 @@ Calvin Harris - 18 Months (2012-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
 Daft Punk - Random Access Memories (2013-05-17)
+</li>
+<li data-cover="https://img.discogs.com/dbN6n83BE7ZXSQn9w7nqnvVaB0U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4960708-1380744325-6489.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
+Selena Gomez - Come & Get It (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
 Selena Gomez - Stars Dance (2013-07-19)
@@ -302,9 +305,6 @@ Avicii - Wake Me Up (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
 Lady Gaga - ARTPOP (2013-11-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/53856cea-f434-4333-93c1-015f9f3e3658/11593248401-500.jpg" data-tags="pop, dance" role="button">
-Rita Ora - I Will Never Let You Down (2014-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f3d115c-ba1f-4e39-bb2f-bc44b24cbe77/28215387054-500.jpg" data-tags="electronic, dance" role="button">
 Calvin Harris - Summer (2014-04-27)

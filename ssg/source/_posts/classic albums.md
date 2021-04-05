@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:45:01.614Z
+date: 2021-04-05T14:40:01.314Z
 title: "classic albums: 100 albums you must listen to before you die"
 ---
 ![Jeff Buckley - Grace (1994-08-15)](https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg "Jeff Buckley - Grace (1994-08-15)")
@@ -90,6 +90,9 @@ Bruce Springsteen - The Wild, the Innocent & the E Street Shuffle (1973-11-05)
 <li data-cover="http://coverartarchive.org/release/2194aff6-e485-4385-a790-c13f9922be6d/23185893218-500.jpg" data-tags="70s, folk, folk rock" role="button">
 Richard & Linda Thompson - I Want To See The Bright Lights Tonight (1974-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
+Neil Young - On the Beach (1974-07-19)
+</li>
 <li data-cover="https://img.discogs.com/RKYTfObf6yj-ks-46I-6ptDbmrk=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11069254-1563716202-1188.jpeg.jpg" data-tags="singer-songwriter, soft rock, 70s" role="button">
 Jackson Browne - Late For The Sky (1974-09)
 </li>
@@ -138,7 +141,7 @@ Big Star - Third - Sister Lovers (1978)
 <li data-cover="http://coverartarchive.org/release/07659b32-36b3-4ff8-91c3-7c9edbe6c4a5/1339538879-500.jpg" data-tags="classic rock" role="button">
 Billy Joel - 52nd Street (1978-10-13)
 </li>
-<li data-cover="https://img.discogs.com/c4yp6W2A8-h2NjykAnVPnWtbkTc=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1141285-1195395232.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
+<li data-cover="https://img.discogs.com/AKPaFMnpQ6NHjR7q15RUXpWkGYI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7050936-1432563994-2047.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
 The Jam - All Mod Cons (1978-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/02f3e0d2-cd49-3883-8796-f34d47e3a6af/5959850736-500.jpg" data-tags="christopher cross, soft rock" role="button">
@@ -182,9 +185,6 @@ Hüsker Dü - Zen Arcade (1984-07)
 </li>
 <li data-cover="https://img.discogs.com/x5rzMxIRtPfUeEnjSGsDejuUNUs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371261-1385836726-2954.jpeg.jpg" data-tags="punk, alternative rock, sst" role="button">
 Hüsker Dü - New Day Rising (1985-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
-Prefab Sprout - Steve McQueen (1985-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
@@ -234,7 +234,7 @@ Public Enemy - Fear of a Black Planet (1990-03-20)
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - Lights... Camera... Revolution! (1990-07-03)
 </li>
-<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/2H7ZiilvF7LSZQrDv__unEhyLxY=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1796928-1243941742.jpeg.jpg" data-tags="funk, soul" role="button">

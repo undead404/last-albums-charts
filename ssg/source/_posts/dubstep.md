@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:09:06.758Z
+date: 2021-04-05T14:22:01.304Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![SBTRKT - SBTRKT (2011-06-27)](http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg "SBTRKT - SBTRKT (2011-06-27)")
@@ -32,9 +32,6 @@ Kode9 & The Spaceape - Memories of the Future (2006-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/331161c2-7b97-43a8-b4f9-88c0e6a01127/8090852961-500.jpg" data-tags="electronic, dubstep, tribal fusion" role="button">
 Bassnectar - Underground Communication (2007-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/fccab1be-d6b2-4eca-a4ff-513bd01f0d47/2819936375-500.jpg" data-tags="electronic, twilight" role="button">
-Blue Foundation - Life of a Ghost (2007-09-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Benga - Diary of an Afro Warrior (2008-03-10)
@@ -236,6 +233,9 @@ Korn - The Path of Totality (2011-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/13b61bbf-67ad-4a0b-9f68-85b425061968/1984353512-500.jpg" data-tags="dubstep" role="button">
 Skrillex - Bangarang (2011-12-23)
+</li>
+<li data-cover="https://img.discogs.com/rbBMP4M9Grh7ch-qedABfsJJZgU=/fit-in/600x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3365410-1329385926.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
+Enter Shikari - A Flash Flood of Colour (2012-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f71c093a-2791-455a-b30f-c9ce8b0701b6/9559450051-500.jpg" data-tags="downtempo, electronic, electronica" role="button">
 XXYYXX - XXYYXX (2012-03-27)

@@ -1,19 +1,19 @@
 ---
-date: 2021-04-05T04:40:01.294Z
+date: 2021-04-05T13:57:01.971Z
 title: "j-pop: 100 albums you must listen to before you die"
 ---
 ![Perfume - GAME (2008-04-16)](http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg "Perfume - GAME (2008-04-16)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/0d2be387-28e2-4637-bba4-54d24d3a4e71/18954010886-500.jpg" data-tags="j-pop, japanese" role="button">YUI - FROM ME TO YOU (2006-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/472ca960-0441-470d-b2c9-b68777ec10e6/3988184111-500.jpg" data-tags="j-pop, japanese" role="button">宇多田ヒカル - ULTRA BLUE (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/39c898e0-6cb4-4f40-8d33-d7d29280361a/4005393117-500.jpg" data-tags="j-pop, japanese" role="button">宇多田ヒカル - HEART STATION (2008-03-19)</li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">Perfume - GAME (2008-04-16)</li>
-<li data-cover="http://coverartarchive.org/release/11ce296b-5499-439b-8e1c-092b0e35557e/22270460633-500.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, sucks, chiant, asian music, chevre, asian pop, things i will never listen to, better than ayu, better than akiko shikata, more talented than akiko shikata, talentless people, voix de chevre, chiante, chiantissime, this is why jpop in the 2000s sucked" role="button">YUI - again (2009-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">Chelsea Wolfe - The Grime and the Glow (2010-12-28)</li>
 <li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">Perfume - JPN (2011-11-30)</li>
-<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
+<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/b4b2db00-1b79-422e-a909-5e8271c7ec4c/6115445993-500.jpg" data-tags="j-pop" role="button">Kero Kero Bonito - Intro Bonito (2013-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
+<li data-cover="https://img.discogs.com/2JCXbfqFDWFav56WJUrklnssQDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949963-1495276980-6815.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -126,8 +126,8 @@ Boris - Pink (2005-11-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">
 宇多田ヒカル - Passion (2005-12-14)
 </li>
-<li data-cover="https://img.discogs.com/_ReOz2Eg5OLNoovgXmZfvgchvfs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13986322-1565521811-3863.webp.jpg" data-tags="japanese" role="button">
-GACKT - Love Letter (2006-03-01)
+<li data-cover="http://coverartarchive.org/release/0d2be387-28e2-4637-bba4-54d24d3a4e71/18954010886-500.jpg" data-tags="j-pop, japanese" role="button">
+YUI - FROM ME TO YOU (2006-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a73f09e4-0136-44c4-a3ee-9dff4617d7f9/3462461101-500.jpg" data-tags="jpop, j-rock, j-pop, jrock" role="button">
 ASIAN KUNG-FU GENERATION - ファンクラブ (2006-03-15)
@@ -231,6 +231,9 @@ Capsule - PLAYER (2010-03-03)
 <li data-cover="http://coverartarchive.org/release/c901475e-8840-44f5-a017-dcabffa0175b/1777817826-500.jpg" data-tags="j-pop, akb48, japanese, girl groups, idol" role="button">
 AKB48 - 神曲たち (2010-04-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/4467860a-0faf-477a-ad90-897fe7944615/8250459831-500.jpg" data-tags="hip hop, electronica" role="button">
+Far East Movement - Free Wired (2010-10-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/fc652ef5-d721-4a4a-a977-c021bebd33ab/5773948092-500.jpg" data-tags="electronic, japanese, female vocalists, techno, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
 Perfume - ねぇ (2010-11-10)
 </li>
@@ -255,7 +258,7 @@ Lady Gaga - Judas (2011-04-15)
 <li data-cover="http://coverartarchive.org/release/f170a5dd-8dd5-4a17-bbf3-a69e1719116d/6305470317-500.jpg" data-tags="j-pop" role="button">
 きゃりーぱみゅぱみゅ - もしもし原宿 (2011-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, gay metal, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
+<li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
 King Dude - Love (2011-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
@@ -288,16 +291,13 @@ Shugo Tokumaru - In Focus? (2012-11-07)
 <li data-cover="http://coverartarchive.org/release/92e45294-7c6e-485c-8707-8b655dbc11bd/3058792717-500.jpg" data-tags="japanese" role="button">
 YUI - GREEN GARDEN POP (2012-12-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/605aecef-6784-47bd-9cec-e2dd835a016b/3000052159-500.jpg" data-tags="japanese, dream pop, anime, j-pop, anison" role="button">
-matryoshka - Laideronnette (2012-12-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/59da3287-974e-49cc-b30d-1551149c204b/7972942521-500.jpg" data-tags="japanese, jpop, j-pop" role="button">
 きゃりーぱみゅぱみゅ - なんだこれくしょん (2013-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/55337971-7618-45f8-aa57-304b339a029b/19508607303-500.jpg" data-tags="japanese, jpop, male vocalists, anime, j-pop, asian pop" role="button">
 Linked Horizon - 自由への進撃 (2013-07-10)
 </li>
-<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
+<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4b2db00-1b79-422e-a909-5e8271c7ec4c/6115445993-500.jpg" data-tags="j-pop" role="button">
@@ -312,13 +312,13 @@ Lisa - LANDSPACE (2013-10-30)
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/2JCXbfqFDWFav56WJUrklnssQDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949963-1495276980-6815.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, gay metal, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
+<li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
 Zola Jesus - Taiga (2014-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, gay metal, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
+<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
 Marissa Nadler - Before July: Demos & Unreleased Songs (2014-12-01)
 </li>
 </ol>

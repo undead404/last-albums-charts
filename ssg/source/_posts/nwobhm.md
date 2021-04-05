@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:07:01.290Z
+date: 2021-04-05T14:09:01.321Z
 title: "nwobhm: 100 albums you must listen to before you die"
 ---
 ![Iron Maiden - The Number of the Beast (1982-04-26)](https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg "Iron Maiden - The Number of the Beast (1982-04-26)")
@@ -90,9 +90,6 @@ Saxon - Denim And Leather (1981)
 <li data-cover="https://img.discogs.com/D2Ej7Ja7-ICLVJsOk24e4WPK-nk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5460785-1395091656-2095.jpeg.jpg" data-tags="heavy metal, nwobhm, hard rock" role="button">
 Girlschool - Hit and Run (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/e21413d7-a38e-4614-a1ed-0dc7306d06dc/12432668802-500.jpg" data-tags="heavy metal, nwobhm" role="button">
-Samson - Shock Tactics (1981)
-</li>
 <li data-cover="http://coverartarchive.org/release/d422bb5f-9869-3cf6-93f3-f9c0176caf47/25177133890-500.jpg" data-tags="heavy metal" role="button">
 Tygers of Pan Tang - Spellbound (1981)
 </li>
@@ -125,6 +122,9 @@ Witchfinder General - Death Penalty (1982)
 </li>
 <li data-cover="https://img.discogs.com/PCA2iTE5gjSKdmF01b29ZPLl3Uo=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3872592-1418767961-7154.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
 Tank - Filth Hounds of Hades (1982)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nwobhm" role="button">
+Demon - The Unexpected Guest (1982)
 </li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - The Number of the Beast (1982-04-26)
@@ -192,9 +192,6 @@ Iron Maiden - Live After Death (1985-10-14)
 <li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Somewhere In Time (1986-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/cec02646-2fbe-452c-abc7-53d1cf9d5f0d/9500420141-500.jpg" data-tags="megadeth" role="button">
-Diamond Head - Behold The Beginning (1987)
-</li>
 <li data-cover="http://coverartarchive.org/release/60bfea78-ff90-40cf-8b95-4c85a4f7241e/13271258691-500.jpg" data-tags="heavy metal, nwobhm" role="button">
 Grim Reaper - Rock You to Hell (1987-08)
 </li>
@@ -237,11 +234,14 @@ Iron Maiden - Best of the Beast (1996-09-23)
 <li data-cover="https://img.discogs.com/8yroNY38ZR3IeozC_DGjKg77OUQ=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5315001-1597551502-1782.jpeg.jpg" data-tags="metal, nwobhm" role="button">
 Angel Witch - Resurrection (1998)
 </li>
-<li data-cover="https://img.discogs.com/RRh5JTOnAmsWr1WyvaG82fVff6Y=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3068807-1486190051-8831.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Virtual XI (1998-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4e18f8d-d6b9-4053-8b0e-eb78b38cbd0e/19510559380-500.jpg" data-tags="heavy metal, spanish metal" role="button">
 Avalanch - Llanto de un héroe (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ac7deec-5c97-4995-a763-26a20b860394/27867007413-500.jpg" data-tags="ms-echo-a-favourite-album" role="button">
+Demon - Midnight Funk (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec286378-1430-41ae-b851-5e1bb50d57e7/7123321703-500.jpg" data-tags="heavy metal, metal" role="button">
 Iron Maiden - Ed Hunter (1999-07)

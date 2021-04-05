@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T10:03:01.313Z
+date: 2021-04-05T14:04:01.321Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -50,6 +50,9 @@ Alpha - Come From Heaven (1997-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
+Thievery Corporation - Lebanese Blonde (1998-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
@@ -108,7 +111,7 @@ Alexi Murdoch - Four Songs (2002-11-06)
 <li data-cover="https://img.discogs.com/81sbJ_evVaaWj-YpvigRUHot62Y=/fit-in/289x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6185789-1425292961-3289.jpeg.jpg" data-tags="indie" role="button">
 The Perishers - Let There Be Morning (2003)
 </li>
-<li data-cover="https://img.discogs.com/jgWeZQt-aFrwKZOJd6Hwy4n22NU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12669470-1539710071-8433.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
+<li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
@@ -125,9 +128,6 @@ Teitur - Poetry & Aeroplanes (2003-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f24ad9df-f70d-438c-a3d7-abe55b40eb73/4438170513-500.jpg" data-tags="hip-hop" role="button">
 Hieroglyphics - Full Circle (2003-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
-Howie Day - Stop All The World Now (2003-10-07)
 </li>
 <li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
@@ -225,9 +225,6 @@ Minus the Bear - Planet of Ice (2007-08-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Jack Johnson - Sleep Through The Static (2008-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
-Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
@@ -239,6 +236,9 @@ Ratatat - LP3 (2008-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d3aa863-b420-4e4b-a8ea-0868c80fc60d/6438594786-500.jpg" data-tags="folk rock" role="button">
 Conor Oberst - Conor Oberst (2008-08-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ba037d-1622-434a-bd91-cc4583a6e53b/26542085606-500.jpg" data-tags="hip-hop, hip hop, chill, underground rap, southern rap" role="button">
 CunninLynguists - Strange Journey Volume One (2009-04-10)

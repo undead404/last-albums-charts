@@ -1,11 +1,11 @@
 ---
-date: 2021-04-05T05:57:01.428Z
+date: 2021-04-05T14:42:01.431Z
 title: "haunting: 100 albums you must listen to before you die"
 ---
 ![The Antlers - Hospice (2009-03-03)](https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg "The Antlers - Hospice (2009-03-03)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
+<li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/82ea1d21-2a81-408d-8645-b822ff061314/13200772331-500.jpg" data-tags="electrotasty" role="button">Casiotone for the Painfully Alone - Etiquette (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">PJ Harvey - White Chalk (2007-09-19)</li>
 <li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
@@ -30,9 +30,6 @@ Linda Perhacs - Parallelograms (1970)
 <li data-cover="https://img.discogs.com/rgRyAKI8DUhrlKcUD0KtNUTC5u4=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243100-1299316097.jpeg.jpg" data-tags="experimental, avant-folk, 70s" role="button">
 Nico - Desertshore (1970-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a10b3a4-4c2d-37f7-8eb5-472ea6bfff2d/15959429311-500.jpg" data-tags="fusion, jazz, funk, 70s, avant-garde" role="button">
-Miles Davis - On the Corner (1972-10-11)
-</li>
 <li data-cover="https://img.discogs.com/1Zujvro9LZft-woUrC-PoE5GNDE=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789775-1300432434.jpeg.jpg" data-tags="krautrock, ambient" role="button">
 Popol Vuh - Aguirre (1975)
 </li>
@@ -41,6 +38,9 @@ The Birthday Party - Mutiny (1983-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
 Dead Can Dance - Aion (1990-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/333f53bf-e4f8-32f4-b06a-d3666db232b7/26188864986-500.jpg" data-tags="canadian" role="button">
+Crash Test Dummies - The Ghosts That Haunt Me (1991-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
 Dead Can Dance - A Passage in Time (1991-10-21)
@@ -126,7 +126,7 @@ Neko Case - Blacklisted (2002-08-20)
 <li data-cover="http://coverartarchive.org/release/e1df1c3e-2db3-4842-88d1-3c7e2d8adaef/1772855366-500.jpg" data-tags="greek, folk, ethereal, neofolk" role="button">
 Daemonia Nymphe - Daemonia Nymphe (2002-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ( ) (2002-10-23)
 </li>
 <li data-cover="https://img.discogs.com/kyed8Ac8ox-g8H098_P4gtGh_gQ=/fit-in/300x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-209259-001.jpg.jpg" data-tags="post-rock" role="button">
@@ -138,10 +138,10 @@ Björk - Homogenic Live (2003-08-18)
 <li data-cover="http://coverartarchive.org/release/c13efc9c-999e-4fa2-9454-bcabae807400/10901282813-500.jpg" data-tags="electronic, idm" role="button">
 Chris Clark - Empty the Bones of You (2003-08-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="romantic, haunting, nostalgic, dramatic, j-rock, visual kei, batcave music, vampy goodness" role="button">
+<li data-cover="https://img.discogs.com/njhX4CxlR4wQAO65EeAyPbE0gFM=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2151466-1266791302.jpeg.jpg" data-tags="romantic, haunting, nostalgic, dramatic, j-rock, visual kei, batcave music, vampy goodness" role="button">
 D - Paradox (2004-01-07)
 </li>
-<li data-cover="https://img.discogs.com/2HrWnELsHmxmzpK3FkVmM7XdAs8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13597506-1557222451-7908.jpeg.jpg" data-tags="icelandic" role="button">
+<li data-cover="https://img.discogs.com/YJb6_IwqUpEEuvv-XIZOJRj-AN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12961274-1545393598-6983.jpeg.jpg" data-tags="icelandic" role="button">
 Sigur Rós - Ba Ba Ti Ki Di Do (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
@@ -318,7 +318,7 @@ Forss - Ecclesia (2012-06-12)
 <li data-cover="http://coverartarchive.org/release/cf928700-a3ca-463e-947c-e7e731bdaac4/4754067713-500.jpg" data-tags="folk" role="button">
 Angel Olsen - Half Way Home (2012-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/0cc38f0b-01fc-4131-baff-e6d7f24ea116/6953148524-500.jpg" data-tags="indie, pop, folk, female vocalists, medieval, metal, electronic, electronica, female, indie pop, dance, ethereal, gothic metal, recommended, female vocalist, symphonic metal, power metal, fantasy, misc, spam, all, stunning, islamic, akiko shikata, poptron, cringeworthy, eftos, total spambo, spambo" role="button">
+<li data-cover="http://coverartarchive.org/release/0cc38f0b-01fc-4131-baff-e6d7f24ea116/6953148524-500.jpg" data-tags="indie, pop, folk, female vocalists, medieval, metal, electronic, electronica, female, indie pop, dance, ethereal, gothic metal, recommended, female vocalist, symphonic metal, power metal, fantasy, misc, spam, stunning, islamic, akiko shikata, poptron, cringeworthy, eftos, total spambo, spambo" role="button">
 Erutan - A Bard's Side Quest (2013-01-18)
 </li>
 </ol>

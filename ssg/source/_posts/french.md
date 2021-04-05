@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:29:01.294Z
+date: 2021-04-05T14:25:01.342Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -30,8 +30,11 @@ Serge Gainsbourg - Histoire de Melody Nelson (1971-03-24)
 <li data-cover="http://coverartarchive.org/release/c36e9428-8c2a-4536-b9a7-4e1e2b5bd28d/1171631272-500.jpg" data-tags="french" role="button">
 Mylène Farmer - Ainsi soit je... (1988-04)
 </li>
-<li data-cover="https://img.discogs.com/-Nw5rj7oFyxs-0Zrs6KpE5WQVJw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-499126-1451148309-9499.jpeg.jpg" data-tags="french" role="button">
+<li data-cover="https://img.discogs.com/lFqFvsVrVivYTjK1aXLW5kfUKWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841679-1608312074-2416.jpeg.jpg" data-tags="french" role="button">
 Vanessa Paradis - Vanessa Paradis (1992-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/86db16e8-deb7-492c-91f4-7dfdf7486644/4049316575-500.jpg" data-tags="french" role="button">
+Édith Piaf - 30e Anniversaire (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a60b0f5-9a20-385c-9972-a0a4cf89f729/24001891419-500.jpg" data-tags="instrumental" role="button">
 Yann Tiersen - La Valse Des Monstres (1995-06-13)
@@ -117,7 +120,7 @@ Daft Punk - Alive 1997 (2001-10-01)
 <li data-cover="http://coverartarchive.org/release/130786fd-24e3-4ef9-a6d2-8665cb2afdab/15467078716-500.jpg" data-tags="electronic, soundtrack, french" role="button">
 Thomas Bangalter - IRREVERSIBLE (2002-06-24)
 </li>
-<li data-cover="https://img.discogs.com/W0wwkHI4D6k-4T5qrNxcWdPphBM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522360-1427056574-2698.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
+<li data-cover="https://img.discogs.com/wHqKk-a8u2HzI1npv8y9RjVRkyA=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4398098-1363812561-8961.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
 Camille - Le Sac Des Filles (2002-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/15f6f9f4-7777-37d6-96fa-94128984a887/15915400773-500.jpg" data-tags="french" role="button">
@@ -137,9 +140,6 @@ Air - Talkie Walkie (2004-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
-</li>
-<li data-cover="https://img.discogs.com/RW0QIUVFNHexMJIdXH0bli_becI=/fit-in/166x166/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1842257-1384389996-8644.jpeg.jpg" data-tags="french, rock, rock francais" role="button">
-Luke - La Tête en Arrière (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7835a07-5b53-442e-91aa-4c567949e946/23636817684-500.jpg" data-tags="chanson francaise, french" role="button">
 Georges Brassens - Les copains d'abord (2004-05-10)
@@ -174,8 +174,14 @@ Céline Dion - On ne change pas (2005-10-03)
 <li data-cover="https://img.discogs.com/5NzomrBRvZRiL8RXz2gj4fs24dQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2056303-1303495712.gif.jpg" data-tags="french, chanson francaise, female vocalists" role="button">
 Olivia Ruiz - La Femme Chocolat (2005-11-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/78fc0451-98c4-4708-a0de-e9bdff492488/1529636690-500.jpg" data-tags="chillout, electronic, nu-jazz, triphop" role="button">
+Alif Tree - French Cuisine (2006-02-03)
+</li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fe94139-df63-4e51-b2e7-a1d53535cdd9/7145334932-500.jpg" data-tags="lounge" role="button">
+Nouvelle Vague - Bande à Part (2006-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/be9453f4-23e8-46f1-863a-d3a63cdd6231/23498089082-500.jpg" data-tags="female vocalists, french" role="button">
 Charlotte Gainsbourg - 5:55 (2006-08-11)
@@ -198,17 +204,11 @@ Teenage Bad Girl - Cocotte (2007-03-26)
 <li data-cover="https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg" data-tags="house, dance" role="button">
 David Guetta - Pop Life (2007-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d3647f9-399c-46d3-975e-69ce463e393b/1227119338-500.jpg" data-tags="french" role="button">
-Vanessa Paradis - Divinidylle (2007-08-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/114af478-2f11-4832-8db2-f52b04ec90e1/6440753475-500.jpg" data-tags="french" role="button">
 Yelle - Pop Up (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/59af82be-93cb-4216-922f-ca0a88ab7d95/1331122437-500.jpg" data-tags="french, chanson francaise, chanson" role="button">
 Benjamin Biolay - Trash yéyé (2007-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/250e7379-67ab-42db-a101-023269183bdf/5499913556-500.jpg" data-tags="electronic, electro" role="button">
-Danger - 09/14 2007 (2007-11-19)
 </li>
 <li data-cover="https://img.discogs.com/xJl7hV5NKM9p40y46f46oOR7Xm4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1312120-1208717633.jpeg.jpg" data-tags="french" role="button">
 Sexy Sushi - Marre marre marre (2008)
@@ -237,8 +237,8 @@ Mylène Farmer - Point De Suture (2008-08-20)
 <li data-cover="http://coverartarchive.org/release/b6c0feb9-0ab2-4251-95ea-031beb543bd5/3273909214-500.jpg" data-tags="electro-swing" role="button">
 Caravan Palace - Caravan Palace (2008-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
-Birdy Nam Nam - Manual for successful rioting (2009-01-01)
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
 Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)

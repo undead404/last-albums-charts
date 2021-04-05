@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:38:01.292Z
+date: 2021-04-05T14:15:01.685Z
 title: "angry: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -8,7 +8,7 @@ title: "angry: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">The Jesus Lizard - Liar (1992-09-16)</li>
 <li data-cover="https://img.discogs.com/sYExHmI1c1t5zfX3eJfT9qpeqQ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1774536-1461366495-5045.jpeg.jpg" data-tags="alternative, female vocalists, 90s, rock" role="button">PJ Harvey - Rid of Me (1993-04-05)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
-<li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">Bright Eyes - Fevers and Mirrors (2000-03-23)</li>
+<li data-cover="http://coverartarchive.org/release/6f7c7802-e8c7-4482-bb00-a0a7157a520a/10348779959-500.jpg" data-tags="hip hop, angry, rhymesayers, paid dues, next to greatness, motival" role="button">Brother Ali - Champion EP (2004-05-11)</li>
 <li data-cover="http://coverartarchive.org/release/39179293-13af-457b-86f8-5aa593cb280b/2363973540-500.jpg" data-tags="rock, alternative rock, happy, tranquility, angry, late night, mysterious, 00s, mute records, want, album, great production, sternenlieder, a song for the end of the world, like passing clouds, sometimes divine - sometimes devilish, another gem of a solo album by mick harvey, hopes for a solo career now an ex-bad seed" role="button">Mick Harvey - Two of Diamonds (2007-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/37fa53b0-68d3-4c01-84df-5e90ae340317/7018137300-500.jpg" data-tags="energetic, angry, searching, spooky, literate, winter, organic, ethereal, folk rock, earnest, bittersweet, reflection, intimate, indie folk, warm, lyrical, poignant, regret, bitter, wintry, 2009 releases, relationships, kinetic, pure, self-conscious, sharon van etten, language of stone" role="button">Sharon Van Etten - Because I Was in Love (2009-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg" data-tags="punk, revolution, hard rock, energetic, angry, late night, passionate, fierce, intense, fiery, confrontational, earnest, snide, raucous, drinking, road trip, protest, nighttime, rebellious, joy, exuberant, empowerment, cathartic, rowdy, volatile, gutsy, sprawling, british punk, dance-rock, tgif, brash, guys night out, hanging out, reckless, night driving, open road" role="button">The Clash - Hits Back (2013-08-26)</li>
@@ -57,7 +57,7 @@ Billy Joel - Glass Houses (1980-03-12)
 <li data-cover="https://img.discogs.com/XwFJhIDTPbRjE8veFo2dFL1dDq0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644617-1266692393.jpeg.jpg" data-tags="80s, punk, post-punk" role="button">
 Wipers - Youth of America (1981)
 </li>
-<li data-cover="https://img.discogs.com/Qut1kkYYdTkY97sp-YhMPSg9s7o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558646-1299264913.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
+<li data-cover="https://img.discogs.com/bzOcK7gS9Wk_DPbrbwLf4sQJc7U=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1710728-1260374538.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
 Stiff Little Fingers - Go for It (1981-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/16d7edc2-59e7-32a8-b99e-15739992099e/17712348752-500.jpg" data-tags="hardcore punk, sst" role="button">
@@ -69,7 +69,7 @@ Eric Burdon - Crawling King Snake (1982)
 <li data-cover="http://coverartarchive.org/release/16e3e24e-28df-4715-9c20-0806d489a1e8/19490167266-500.jpg" data-tags="revolution, angry, irreverent, comedy, confrontational, freewheeling, provocative, bittersweet, earthy, partying, standup comedy, rebellious, exuberant, humorous, rowdy, volatile, rofl, outrageous, political comedy, mischief, grammy nominated, blue humor, huggy" role="button">
 Richard Pryor - Live on the Sunset Strip (1982-03-24)
 </li>
-<li data-cover="https://img.discogs.com/3w2Y_M8A92HM2fkZcPBkTW__Jz8=/fit-in/600x647/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3431362-1443081171-1766.jpeg.jpg" data-tags="punk, new wave, energetic, angry, reflective, passionate, literate, intense, confident, aggressive, fiery, confrontational, earnest, rebellious, exuberant, cathartic, volatile, urgent, british punk, mod revival, brash, my lps, dig the new breed" role="button">
+<li data-cover="https://img.discogs.com/Roq6H4lB5LX1DxF4_AVMgqq38lM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3567279-1505828259-7238.jpeg.jpg" data-tags="punk, new wave, energetic, angry, reflective, passionate, literate, intense, confident, aggressive, fiery, confrontational, earnest, rebellious, exuberant, cathartic, volatile, urgent, british punk, mod revival, brash, my lps, dig the new breed" role="button">
 The Jam - Dig The New Breed (1982-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/507bb61e-c7fa-3dd5-ba2d-d6f0f6e2f792/6010164584-500.jpg" data-tags="hardcore, punk, hardcore punk" role="button">
@@ -99,11 +99,8 @@ Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 <li data-cover="http://coverartarchive.org/release/38f354d3-7148-41ae-96d3-8574a9c71287/14748841978-500.jpg" data-tags="hip-hop, east coast rap, rap" role="button">
 Public Enemy - Yo! Bum Rush the Show (1987-02-10)
 </li>
-<li data-cover="https://img.discogs.com/6oi7xYtpPVwuwh0Sg-spbJL7-go=/fit-in/463x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374586-1169420223.jpeg.jpg" data-tags="hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/VTLjytTqc_37lZfKmxhBTQmviyg=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695833-1237536579.jpeg.jpg" data-tags="hardcore punk" role="button">
 Black Flag - Wasted...Again (1987-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
-Skinny Puppy - VIVIsectVI (1988-04-28)
 </li>
 <li data-cover="https://img.discogs.com/3gYsLm00nQztE7_0aLS1TpV7LrU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5760022-1571689696-7596.jpeg.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - How Will I Laugh Tomorrow When I Can't Even Smile Today (1988-09-13)
@@ -147,7 +144,7 @@ Babes in Toyland - Fontanelle (1992-08-11)
 <li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
 The Jesus Lizard - Liar (1992-09-16)
 </li>
-<li data-cover="https://img.discogs.com/Q3YgFVr0it0DzumxTvRaVZdOH7o=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555091-1228056185.jpeg.jpg" data-tags="punk, new wave, energetic, angry, reflective, passionate, literate, intense, confident, aggressive, fiery, confrontational, earnest, raucous, rebellious, exuberant, cathartic, volatile, stylish, swaggering, visceral, urgent, british punk, mod revival, angst-ridden, brash" role="button">
+<li data-cover="https://img.discogs.com/ftsmFEw5SMRewDWgYtzIjlegG5o=/fit-in/380x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935598-1255604300.jpeg.jpg" data-tags="punk, new wave, energetic, angry, reflective, passionate, literate, intense, confident, aggressive, fiery, confrontational, earnest, raucous, rebellious, exuberant, cathartic, volatile, stylish, swaggering, visceral, urgent, british punk, mod revival, angst-ridden, brash" role="button">
 The Jam - Live Jam (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/e54f5104-4087-478a-85af-77033fbdbe7e/8306558791-500.jpg" data-tags="comedy" role="button">
@@ -245,6 +242,9 @@ Betty X - Dystopia (2004-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d98f76ad-79e5-47b4-89ac-8de754859de2/4851163536-500.jpg" data-tags="thrash metal" role="button">
 Annihilator - All for You (2004-04-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f7c7802-e8c7-4482-bb00-a0a7157a520a/10348779959-500.jpg" data-tags="hip hop, angry, rhymesayers, paid dues, next to greatness, motival" role="button">
+Brother Ali - Champion EP (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca02e2ee-999a-422a-b0dc-54ee291392e6/4229259940-500.jpg" data-tags="alternative rock" role="button">
 Seether - Disclaimer II (2004-06-08)
