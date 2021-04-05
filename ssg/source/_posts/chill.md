@@ -1,13 +1,13 @@
 ---
-date: 2021-04-05T18:11:01.323Z
+date: 2021-04-05T23:18:01.341Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">Jamiroquai - The Return Of The Space Cowboy (1994-10-17)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">Röyksopp - Melody A.M. (2001-10-08)</li>
+<li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">Norah Jones - Come Away with Me (2002-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">Jack Johnson - On and On (2003-05-06)</li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">The Whitest Boy Alive - Dreams (2006-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">Colbie Caillat - Coco (2007-01-01)</li>
@@ -27,29 +27,17 @@ Kruder & Dorfmeister - G-Stoned (1993-09-02)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
-Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
-Jamiroquai - Travelling Without Moving (1996-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/fb8647ff-066b-4e9e-b9b0-791f39bcfa13/4530526778-500.jpg" data-tags="dub, chill" role="button">
 Tosca - Fuck Dub (1997-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
 Alpha - Come From Heaven (1997-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
-The Cardigans - Gran Turismo (1998-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
-Thievery Corporation - Lebanese Blonde (1998-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
@@ -93,8 +81,14 @@ Nicola Conte - Bossa Per Due (2001-06-12)
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
+Norah Jones - Come Away with Me (2002-02-26)
+</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
+Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
@@ -123,8 +117,8 @@ Eels - Shootenanny! (2003-05-28)
 <li data-cover="http://coverartarchive.org/release/8dc17780-6a26-4ccb-91c9-23d568de83d4/27879377982-500.jpg" data-tags="teitur" role="button">
 Teitur - Poetry & Aeroplanes (2003-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/f24ad9df-f70d-438c-a3d7-abe55b40eb73/4438170513-500.jpg" data-tags="hip-hop" role="button">
-Hieroglyphics - Full Circle (2003-10-07)
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
+John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
@@ -132,11 +126,11 @@ Aqualung - Still Life (2003-10-27)
 <li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">
 Broken Social Scene - Broken Social Scene (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/394546f4-2c4f-4f67-a8ad-137b6ca3edec/13313814649-500.jpg" data-tags="heavy metal, chill, rock, punk, reggae, dub, ska, boogie on down, love songs that rock" role="button">
+The Expendables - Gettin' Filthy (2004)
+</li>
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
-Jem - Finally Woken (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
@@ -171,9 +165,6 @@ Maria Taylor - 11:11 (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
 Augustana - All The Stars and Boulevards (2005-09-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="david gray" role="button">
-David Gray - Life In Slow Motion (2005-09-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, britpop" role="button">
 Starsailor - On The Outside (2005-10-14)
 </li>
@@ -198,6 +189,9 @@ The Whitest Boy Alive - Dreams (2006-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 Zero 7 - The Garden (2006-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ce7c0ae-82d9-469d-88ed-a8875175633e/17321336815-500.jpg" data-tags="indie, the hush sound" role="button">
+The Hush Sound - Like Vines (2006-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
 </li>
@@ -213,17 +207,20 @@ Colbie Caillat - Coco (2007-01-01)
 <li data-cover="http://coverartarchive.org/release/6e9fad42-8fbe-48db-b423-6a2118ca8e28/8501407907-500.jpg" data-tags="indie rock, electro, leftfield" role="button">
 Dntel - Dumb Luck (2007-04-24)
 </li>
+<li data-cover="https://img.discogs.com/lwkGNhHJvvJVL1mkDqV5DD_js8g=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065389-1189602288.jpeg.jpg" data-tags="surf, australian" role="button">
+Xavier Rudd - White Moth (2007-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="flying upside down" role="button">
+Griffin House - Flying Upside Down (2007-10-17)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Jack Johnson - Sleep Through The Static (2008-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
-Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
@@ -252,8 +249,11 @@ Memory Tapes - Seek Magic (2009-08-24)
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/f3a962e3-0c46-4c3a-aeb9-a8efa29b4d51/1766802436-500.jpg" data-tags="electronic" role="button">
-Pretty Lights - Making Up a Changing Mind (2010-03-02)
+<li data-cover="https://img.discogs.com/Ine1l8ofiCWrwMeOgpFSVXheyys=/fit-in/595x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914517-1307048549.jpeg.jpg" data-tags="chill, reggae, summer" role="button">
+Rebelution - Bright Side Of Life (2009-09-04)
+</li>
+<li data-cover="https://img.discogs.com/n_6Gxp6npqCzgf6SSrF6K5exuqo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913206-1275933926.jpeg.jpg" data-tags="synth" role="button">
+Grum - Heartbeats (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9c43a32-116c-4b13-aee5-1b327f544334/23563622864-500.jpg" data-tags="acoustic, jack johnson" role="button">
 Jack Johnson - To The Sea (2010-05-26)
@@ -285,8 +285,8 @@ Nujabes - Spiritual State (2011-12-03)
 <li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
 Of Monsters and Men - Into The Woods (2011-12-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
-Balmorhea - Stranger (2012-02-10)
+<li data-cover="http://coverartarchive.org/release/b266751b-2c9e-4a15-90f0-226bf0019e54/3301797137-500.jpg" data-tags="chill" role="button">
+Sammy Adams - All Night Longer (2012-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cb19f06-ce08-44d2-9b07-ffef4ac20216/10096389953-500.jpg" data-tags="folk, indie folk" role="button">
 Lucy Rose - Like I Used To (2012-09-24)

@@ -1,15 +1,15 @@
 ---
-date: 2021-04-05T18:31:01.278Z
+date: 2021-04-05T23:33:01.357Z
 title: "lady gaga: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame Monster (2008-08-19)](http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg "Lady Gaga - The Fame Monster (2008-08-19)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">Lady Gaga - Just Dance (2008-06-17)</li>
+<li data-cover="https://img.discogs.com/7p8Mv0TOo4AnRMSWSKtPxyywb-k=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594236-1328968105.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">Lady Gaga - Just Dance (2008-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">Lady Gaga - The Fame (2008-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">Lady Gaga - The Fame Monster (2008-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/04f101f9-ec94-44e5-ada0-ad008e4ba143/11915919334-500.jpg" data-tags="lady gaga" role="button">Lady Gaga - Bad Romance (2009-10-26)</li>
 <li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">Lady Gaga - Judas (2011-04-15)</li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">Rihanna - Talk That Talk (2011-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">Calvin Harris - 18 Months (2012-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/c15c3529-0e8e-4cca-a478-1ee3c29bff15/4882899899-500.jpg" data-tags="pop" role="button">Lady Gaga - Applause (2013-08-13)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/u-jORfJqhyaImGZUXTd0XRGdGqE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7280865-1572251514-7382.jpeg.jpg" data-tags="stevie wonder, pop" role="button">
+<li data-cover="https://img.discogs.com/wSKz63gUzQiiFApVEtnulz9he-0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1676393-1236202560.jpeg.jpg" data-tags="stevie wonder, pop" role="button">
 Stevie Wonder - Stevie Wonder (1968)
 </li>
 <li data-cover="https://img.discogs.com/T8a5B1VDIRtjvkIa2XKTxNFtH0o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-909727-1447496518-6506.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -30,7 +30,7 @@ Gentle Giant - The Missing Piece (1977-08)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
 U.D.O. - Animal House (1987)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="rock, italian rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/qw-VJs7tBLUFvxKZGA07A6iYCPI=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299781-1346227192-6886.jpeg.jpg" data-tags="rock, italian rock, 90s" role="button">
 Litfiba - El Diablo (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa63a5bd-d36a-43a3-a622-c813e72da497/14482581925-500.jpg" data-tags="lo-fi" role="button">
@@ -171,7 +171,7 @@ Marcus Miller - Free (2007-06-25)
 <li data-cover="http://coverartarchive.org/release/c63950ef-39ec-498f-82e2-8c2eeb139619/21211516680-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, funk, retro, funky, groovy, italian, jecks, elettro-pop" role="button">
 Il Genio - Il Genio (2008-03-21)
 </li>
-<li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
+<li data-cover="https://img.discogs.com/7p8Mv0TOo4AnRMSWSKtPxyywb-k=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594236-1328968105.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
 Lady Gaga - Just Dance (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
@@ -180,8 +180,11 @@ Lady Gaga - The Fame (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
 </li>
-<li data-cover="https://img.discogs.com/JgPngyj-PQU-HvcwJ2Czz92nuas=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4928478-1379701133-9283.jpeg.jpg" data-tags="synthpop" role="button">
+<li data-cover="https://img.discogs.com/wL4ntc5MZJxEjkA_uo1-cn5gg9M=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4894597-1510131370-7818.jpeg.jpg" data-tags="synthpop" role="button">
 Parralox - Electricity (2008-09-08)
+</li>
+<li data-cover="https://img.discogs.com/sZY9_lGeAuxWpMuqFAEe3j6AaK4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3738702-1500142099-9450.jpeg.jpg" data-tags="poker face, lady gaga" role="button">
+Lady Gaga - Poker Face (2008-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/93921eed-8ffa-498f-a60e-1115e09f3bb3/2025422296-500.jpg" data-tags="darkwave, neoclassical, gothic, ethereal" role="button">
 Artesia - Llydaw (2009-02)
@@ -213,16 +216,13 @@ Rihanna - Rated R: Remixed (2010-01-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="electropop, lady gaga, gaga" role="button">
 Lady Gaga - The Remix (2010-01-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dance, techno, lady gaga, electronic music, rihanna, lights, christina aguilera, cher, katy perry, orchestral pop, pop music, celine dion, owl city, electronica pop" role="button">
+<li data-cover="https://img.discogs.com/-FckrvnLRR7QKMmyXZWP_Wss43U=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13201390-1549830477-6544.jpeg.jpg" data-tags="dance, techno, lady gaga, electronic music, rihanna, lights, christina aguilera, cher, katy perry, orchestral pop, pop music, celine dion, owl city, electronica pop" role="button">
 Charmaine - Love Reality (2010-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d54d06f-c2ca-4a21-a1b5-4cebc68ca707/27147713228-500.jpg" data-tags="classical crossover, experimental, world, ethereal, neoclassical" role="button">
 志方あきこ - 祈りの彼方 (2010-04-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
-西野カナ - 会いたくて 会いたくて (2010-05-19)
-</li>
-<li data-cover="https://img.discogs.com/m35rdl6AfWNn6-fN1pDnFaI8uEY=/fit-in/590x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2327180-1277161213.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Alejandro (2010-05-24)
 </li>
 <li data-cover="https://img.discogs.com/5m9X-BuG9NQBvtyIuT_gl4zotkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15766318-1597407950-4490.jpeg.jpg" data-tags="post-hardcore" role="button">
@@ -240,7 +240,7 @@ Lady Gaga - Judas (2011-04-15)
 <li data-cover="http://coverartarchive.org/release/1d22ce5b-26b9-496d-840a-e1d18bbc76d8/3167458608-500.jpg" data-tags="pop, lady gaga, born this way" role="button">
 Lady Gaga - The Edge Of Glory (2011-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/de9296a6-63ce-4aaf-80db-3b3755ec641e/14567835673-500.jpg" data-tags="dance, pop, latin, latin pop" role="button">
@@ -270,7 +270,7 @@ Rihanna - Talk That Talk (2011-11-18)
 <li data-cover="http://coverartarchive.org/release/14857973-e45d-4c98-8a41-720f2174046a/9318639689-500.jpg" data-tags="christmas, lady gaga, jazz, acoustic" role="button">
 Lady Gaga - A Very Gaga Holiday (2011-11-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dance, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/72uLIyBDep0NFuH6AYLougvN-pQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17623738-1614594795-2479.jpeg.jpg" data-tags="dance, female vocalists" role="button">
 Lady Gaga - Marry The Night (2011-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/43405c16-9b59-4ec9-966d-9422c6853faf/2970280037-500.jpg" data-tags="latin, brazilian, pop, dance, mpb, axe" role="button">

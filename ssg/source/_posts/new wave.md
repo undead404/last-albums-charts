@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:24:01.466Z
+date: 2021-04-05T23:22:01.354Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -58,9 +58,6 @@ The B-52's - The B-52's (1979-07-12)
 Talking Heads - Fear of Music (1979-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-XTC - Drums And Wires (1979-08-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Gary Numan - The Pleasure Principle (1979-09-07)
 </li>
 <li data-cover="https://img.discogs.com/k-QwkREeQewXLVcGgVKoWyYvokk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7544260-1486822877-2868.jpeg.jpg" data-tags="rock, new wave, classic rock" role="button">
@@ -81,7 +78,7 @@ Joy Division - Closer (1980-07-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
 </li>
-<li data-cover="https://img.discogs.com/fYhrZjK4pBaJRq3UhaO6Ydm3mmU=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681480-1474257866-6760.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/TxLsEOQafZcd7-FZAUgQAAYb720=/fit-in/567x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952873-1193960761.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="80s, new wave" role="button">
@@ -198,11 +195,20 @@ Talk Talk - The Colour of Spring (1986-03)
 <li data-cover="https://img.discogs.com/vn3oqwAIyPBmRz-wFXXrgAb9N04=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442377-1287321146.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
 Depeche Mode - Black Celebration (1986-03-17)
 </li>
+<li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
+The Smiths - The Queen Is Dead (1986-06-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/0bbb5a12-42f2-4bc2-81af-2a895e2e2572/26059563062-500.jpg" data-tags="80s, new wave" role="button">
 New Order - Brotherhood (1986-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/c0da7fda-06a8-452c-b25b-9aa320f7409d/4734396063-500.jpg" data-tags="80s" role="button">
+The Smiths - Louder Than Bombs (1987-03-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/03a3acfb-67ee-3353-a3f9-65a1af3a626e/7947298813-500.jpg" data-tags="post-punk, new wave, 80s, alternative" role="button">
 The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/832c3cd6-effa-3e5f-a6e1-273cfd2d9c27/21363854627-500.jpg" data-tags="80s" role="button">
+The Smiths - Strangeways, Here We Come (1987-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4577ed01-57ad-3826-800b-e0c4d4998611/9417546640-500.jpg" data-tags="synthpop, 80s, new wave, electronic" role="button">
 Depeche Mode - Music for the Masses (1987-09-28)
@@ -230,9 +236,6 @@ Billy Idol - Rebel Yell (1991-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
-</li>
-<li data-cover="https://img.discogs.com/T1N1f1AXU1XTKd-IPo2E4YM5Cms=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1771648-1245254037.jpeg.jpg" data-tags="electronic" role="button">
-Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/127b9b29-4252-463b-9d9a-30b888c19867/9417557840-500.jpg" data-tags="electronic, synthpop, 90s" role="button">
 Depeche Mode - Ultra (1997-04-10)
@@ -314,9 +317,6 @@ Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
-The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">
 Future Islands - Singles (2014-03-24)

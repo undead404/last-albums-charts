@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T10:50:01.323Z
+date: 2021-04-05T23:29:01.532Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -21,14 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
-Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/decbc9c9-02bb-4d2c-8998-90775a2266e8/13474985144-500.jpg" data-tags="hard rock, female vocalist, 80s, glam metal, heavy metal, hair metal" role="button">
 Lita Ford - Lita (1988-02-02)
@@ -84,6 +81,9 @@ Shakira - Laundry Service (2001-11-13)
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
+Norah Jones - Come Away with Me (2002-02-26)
+</li>
 <li data-cover="https://img.discogs.com/LpWfFwFZQzH36xcj-eoXMpjLS70=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6745844-1591846017-8819.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - A New Day Has Come (2002-03-25)
 </li>
@@ -108,7 +108,7 @@ Alanis Morissette - So-Called Chaos (2004-04-21)
 <li data-cover="http://coverartarchive.org/release/9e6a1a1d-613f-43cd-98a4-005f07b6b3bc/23228455307-500.jpg" data-tags="hip-hop" role="button">
 Christina Milian - Dip It Low (2004-05-03)
 </li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
@@ -258,6 +258,9 @@ Sade - Soldier of Love (2010-02-05)
 <li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/da7f308f-d48c-41a4-9101-cdc062857ad5/7002612016-500.jpg" data-tags="pop, female vocalist" role="button">
+Katie Melua - The House (2010-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
@@ -269,9 +272,6 @@ Beth Ditto - EP (2011-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/5597fa83-0f6a-4eef-ac83-ee15f6eb9b2e/2524821065-500.jpg" data-tags="female vocalist, soul, r&b, jennifer hudson" role="button">
-Jennifer Hudson - I Remember Me (2011-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)

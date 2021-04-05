@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:16:08.034Z
+date: 2021-04-05T23:10:01.421Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -135,6 +135,9 @@ The Streets - Original Pirate Material (2002-03-25)
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
 </li>
+<li data-cover="https://img.discogs.com/Aab9_aytQknwScesF1hS3ABE3Oc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-103380-1576205114-8321.jpeg.jpg" data-tags="hip-hop, electronic" role="button">
+RJD2 - Deadringer (2002-07-23)
+</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
 </li>
@@ -164,9 +167,6 @@ MF DOOM - MM..Food (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
 The Game - The Documentary (2005-01-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
-M.I.A. - Arular (2005-02-22)
 </li>
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)

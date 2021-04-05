@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:03:01.365Z
+date: 2021-04-05T23:20:01.384Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -48,13 +48,16 @@ Archive - Londinium (1996-05-20)
 <li data-cover="http://coverartarchive.org/release/2bb1f14a-893d-3392-839e-79838118213c/6557357686-500.jpg" data-tags="trip-hop, electronic, 90s" role="button">
 Everything But the Girl - Walking Wounded (1996-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
+Sneaker Pimps - Becoming X (1996-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/5992a7fd-6ade-3895-827a-a7dfdf6ebb51/26921224002-500.jpg" data-tags="electronic, hip-hop" role="button">
 DJ Shadow - Endtroducing..... (1996-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/Ux7JgAR8NZmQa7h00g1EMp7FNc0=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5489624-1477073588-1316.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Faithless - Reverence (1997-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">
@@ -74,9 +77,6 @@ Kid Loco - A Grand Love Story (1997-11-25)
 </li>
 <li data-cover="https://img.discogs.com/XMY4ZtiuNErL1mPBnUuOi4CiN6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13711-1180502340.jpeg.jpg" data-tags="trip-hop" role="button">
 Esthero - Breath From Another (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
-Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Big Calm (1998-03-16)
@@ -153,6 +153,9 @@ Sneaker Pimps - Bloodsport (2002-01-22)
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
 </li>
+<li data-cover="https://img.discogs.com/wbkOKKDg0V32KUpZheck3npIxCk=/fit-in/320x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-551960-1138319224.jpeg.jpg" data-tags="trip-hop, electronic, hip-hop" role="button">
+DJ Shadow - The Private Press (2002-05-22)
+</li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
@@ -216,9 +219,6 @@ Gorillaz - Demon Days (2005-05-11)
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
 </li>
-<li data-cover="https://img.discogs.com/wGPXjhM9s0n64Jl-9DR16diSS8Y=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887196-1178185061.jpeg.jpg" data-tags="trip-hop" role="button">
-Pati Yang - Silent Treatment (2005-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f59c5f9-10f2-4a7e-bbad-1a9ba66cfd58/26309277066-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Yonderboi - SPLENDID ISOLATION (2005-10-21)
 </li>
@@ -264,9 +264,6 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="https://img.discogs.com/cjor1bKuea5JybWWyyJakFaqgVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362662-1212954452.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
-Martina Topley-Bird - The Blue God (2008-05-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c6c8607-a528-4497-bb7b-436914cf7512/2094787478-500.jpg" data-tags="pop, alternative" role="button">
 Emilíana Torrini - Me And Armini (2008-09-06)
 </li>
@@ -305,6 +302,9 @@ Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d47f2080-8c2a-4f20-b81f-9dad7c2c84fc/2570423040-500.jpg" data-tags="dream pop, trip-hop, alternative" role="button">
+Lana Del Rey - Paradise (2012-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:15:01.572Z
+date: 2021-04-05T23:24:01.383Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -27,7 +27,7 @@ Pixies - Doolittle (1989-04-17)
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Ten (1991-08-27)
 </li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T10:56:01.302Z
+date: 2021-04-05T23:26:01.338Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -21,11 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/fYhrZjK4pBaJRq3UhaO6Ydm3mmU=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681480-1474257866-6760.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/TxLsEOQafZcd7-FZAUgQAAYb720=/fit-in/567x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952873-1193960761.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
 <li data-cover="https://img.discogs.com/I7mB_KrCVjLfzV9fjw9vMuKK9Ec=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2856067-1306599148.jpeg.jpg" data-tags="hard rock" role="button">
 AC/DC - '74 Jailbreak (1984-10-15)
+</li>
+<li data-cover="https://img.discogs.com/BKUnzmFqbvcnSwjiJB8gea1s5y4=/fit-in/592x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588932-1292031961.jpeg.jpg" data-tags="pop rock, australian, rca victor, needs to be played more, aussie classic, john farnham-pressure down, whispering jack" role="button">
+John Farnham - Whispering Jack (1986)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 AC/DC - Who Made Who (1986-05-12)
@@ -39,7 +42,7 @@ Midnight Oil - Diesel and Dust (1987-06-22)
 <li data-cover="http://coverartarchive.org/release/160806d7-651d-3470-a09b-40d1b7b21d26/2115338140-500.jpg" data-tags="80s, rock" role="button">
 INXS - Kick (1987-10-02)
 </li>
-<li data-cover="https://img.discogs.com/v4iK3CI3_NGEZi_X7FlpIZVNpto=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-688383-1575785318-6268.jpeg.jpg" data-tags="rock, australian" role="button">
+<li data-cover="https://img.discogs.com/NNbz_etOnTxezUQlh22yJ7iCBIg=/fit-in/419x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7671797-1446401663-8058.jpeg.jpg" data-tags="rock, australian" role="button">
 Icehouse - Great Southern Land (1989-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c280af5a-666b-3221-9d1f-a12b674ddf54/11350701340-500.jpg" data-tags="hard rock" role="button">
@@ -56,6 +59,9 @@ AC/DC - Ballbreaker (1995-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2c5c7c4-1d76-3172-9ca7-21a164b3dd11/15464992021-500.jpg" data-tags="grunge" role="button">
 Silverchair - Freak Show (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/1477c584-2fa9-3408-a06c-a0f2f3d3830f/4160803700-500.jpg" data-tags="australian, very good" role="button">
+Crowded House - Recurring Dream: The Very Best of Crowded House (1996-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7baa1b45-b60e-3ab0-8acf-3e42186c05ea/2444548035-500.jpg" data-tags="pop" role="button">
 Savage Garden - Savage Garden (1997-03-24)
@@ -77,12 +83,6 @@ AC/DC - Stiff Upper Lip (2000-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/acacc842-6066-4b8b-83b4-b378509a82c9/14132799564-500.jpg" data-tags="chillout, electronic, trip-hop, 80s, alternative, dance, australian, funk, turntablism, whimsical, fun, 00s, aussie, bootleg, fake, summery, soothing, rusbeh" role="button">
 The Avalanches - When I Met You (2000-07)
-</li>
-<li data-cover="https://img.discogs.com/ACdDBfOmzhFhtqqk19ZxAy_n6-c=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1308402-1555946464-7528.jpeg.jpg" data-tags="rock, australian rock, powderfinger" role="button">
-Powderfinger - Odyssey Number Five (2000-09-04)
-</li>
-<li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="pop, dance" role="button">
-Kylie Minogue - Light Years (2000-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
 The Avalanches - Since I Left You (2000-11-27)
@@ -120,8 +120,8 @@ Xavier Rudd - Solace (2004-03-28)
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2514ebd-7da2-4a31-9ff2-2ab6678e3676/21353841090-500.jpg" data-tags="australian" role="button">
-Eskimo Joe - A Song Is a City (2004-05-16)
+<li data-cover="http://coverartarchive.org/release/3d650482-252d-46e5-959f-30ad72876e81/2067452907-500.jpg" data-tags="electro, australian, the presets, the bees knees" role="button">
+The Presets - Girl And The Sea (2004-11-01)
 </li>
 <li data-cover="https://img.discogs.com/gWFyjWkLviBQ9l-TDlEN58Gw2hk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2659818-1295384136.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Natalie Imbruglia - Counting Down the Days (2005)
@@ -137,9 +137,6 @@ Karnivool - Themata (2005-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef2b7550-bb44-4289-9088-4daa37593f10/20024492143-500.jpg" data-tags="rock, australian" role="button">
-End of Fashion - End of Fashion (2005-08-20)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
@@ -174,11 +171,17 @@ Silverchair - Young Modern (2007-03-31)
 <li data-cover="http://coverartarchive.org/release/17fd9c64-1dbc-3d5c-ba53-4086991c81cd/4921652324-500.jpg" data-tags="australian" role="button">
 Powderfinger - Dream Days At The Hotel Existence (2007-06-02)
 </li>
+<li data-cover="https://img.discogs.com/lwkGNhHJvvJVL1mkDqV5DD_js8g=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065389-1189602288.jpeg.jpg" data-tags="surf, australian" role="button">
+Xavier Rudd - White Moth (2007-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/54f48d91-12e8-48c1-9f84-292e07b9faaa/4216579078-500.jpg" data-tags="hard rock" role="button">
 Airbourne - Runnin' Wild (2007-06-25)
 </li>
 <li data-cover="https://img.discogs.com/XQFgarS1rd6AyUnHdYccjgyBx40=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6175437-1518968810-3549.jpeg.jpg" data-tags="australian, alternative rock" role="button">
 Crowded House - Time On Earth (2007-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/3962f99b-8d61-469a-b6d0-b4f1ca14f668/19552680044-500.jpg" data-tags="indie pop" role="button">
+Architecture in Helsinki - Places Like This (2007-07-28)
 </li>
 <li data-cover="https://img.discogs.com/f1ZtFzXpOWkuJM7_t-ivbz8FCR4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047786-1389507683-6088.jpeg.jpg" data-tags="electronic" role="button">
 Midnight Juggernauts - Dystopia (2007-08-04)
@@ -209,6 +212,9 @@ Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
 </li>
 <li data-cover="https://img.discogs.com/dbCaE2fItl8dqZ1SH3_ToeurATU=/fit-in/545x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311782-1354267437-5929.jpeg.jpg" data-tags="electronic" role="button">
 The Presets - Apocalypso (2008-04-12)
+</li>
+<li data-cover="https://img.discogs.com/FEQN95Zhrj2P1AbzV-25QcLbtig=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6129122-1445205253-2692.jpeg.jpg" data-tags="indie, singer-songwriter, australian" role="button">
+Josh Pyke - Chimney's Afire (2008-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/701340f6-dea7-3f37-acb6-808950f5299b/13904108948-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Black Ice (2008-10-17)
@@ -279,9 +285,6 @@ The Presets - Pacifica (2012-09-07)
 <li data-cover="https://img.discogs.com/JOuh7PkOyZ19us8N9fnE9_l69PU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4331972-1361978900-9552.jpeg.jpg" data-tags="electronic, indie pop, synthpop" role="button">
 Strange Talk - Cast Away (2012-09-21)
 </li>
-<li data-cover="https://img.discogs.com/ZSSpwNgPbPXgEvYmpKmnalc1cLA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4308432-1361336307-1104.jpeg.jpg" data-tags="indie rock" role="button">
-Atlas Genius - When It Was Now (2013-02-19)
-</li>
 <li data-cover="https://img.discogs.com/hrp-6Fz0OaU2mKzq9x5BQf8NPaY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11445111-1516463745-7281.jpeg.jpg" data-tags="pop, australian, youtube, male vocalists" role="button">
 Troye Sivan - The Fault in Our Stars (2013-05-13)
 </li>
@@ -290,9 +293,6 @@ Jagwar Ma - Howlin (2013-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
 Empire of the Sun - Ice on the Dune (2013-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
-Karnivool - Asymmetry (2013-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/87efb798-d326-49e9-9905-65f9bfb45f44/7339492732-500.jpg" data-tags="australian" role="button">
 Violent Soho - Hungry Ghost (2013-09-06)

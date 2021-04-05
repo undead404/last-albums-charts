@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:30:01.621Z
+date: 2021-04-05T23:09:01.510Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -42,6 +42,9 @@ The Strokes - Is This It (2001-01-27)
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
+Wilco - Yankee Hotel Foxtrot (2002-04-22)
+</li>
 <li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
@@ -81,7 +84,7 @@ The Shins - Chutes Too Narrow (2003-10-21)
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae7e41d6-ea04-455b-9107-80a94a24443c/12241028609-500.jpg" data-tags="indie rock, indie" role="button">
@@ -317,8 +320,5 @@ Arctic Monkeys - AM (2013-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
 Lana Del Rey - Ultraviolence (2014-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
-alt-J - This Is All Yours (2014-09-18)
 </li>
 </ol>

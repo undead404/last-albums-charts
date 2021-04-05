@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:46:06.864Z
+date: 2021-04-05T23:12:01.379Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -147,9 +147,6 @@ Genesis - Invisible Touch (1986-06-01)
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
-Pink Floyd - Delicate Sound of Thunder (1988-11-22)
-</li>
 <li data-cover="https://img.discogs.com/yhsafRWLca1rLfuG7gevzfc935Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468462-1359981319-9678.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
@@ -203,6 +200,9 @@ Anathema - A Fine Day to Exit (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ab5fdc1-c24e-4f08-bc3b-ab291f515349/6572317296-500.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
+30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a90062eb-b2bb-3c39-9291-4684605a9313/19099262755-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - In Absentia (2002-09-24)

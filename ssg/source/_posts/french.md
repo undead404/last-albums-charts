@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:25:01.342Z
+date: 2021-04-05T23:34:01.370Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -32,9 +32,6 @@ Mylène Farmer - Ainsi soit je... (1988-04)
 </li>
 <li data-cover="https://img.discogs.com/lFqFvsVrVivYTjK1aXLW5kfUKWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841679-1608312074-2416.jpeg.jpg" data-tags="french" role="button">
 Vanessa Paradis - Vanessa Paradis (1992-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/86db16e8-deb7-492c-91f4-7dfdf7486644/4049316575-500.jpg" data-tags="french" role="button">
-Édith Piaf - 30e Anniversaire (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a60b0f5-9a20-385c-9972-a0a4cf89f729/24001891419-500.jpg" data-tags="instrumental" role="button">
 Yann Tiersen - La Valse Des Monstres (1995-06-13)
@@ -174,9 +171,6 @@ Céline Dion - On ne change pas (2005-10-03)
 <li data-cover="https://img.discogs.com/5NzomrBRvZRiL8RXz2gj4fs24dQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2056303-1303495712.gif.jpg" data-tags="french, chanson francaise, female vocalists" role="button">
 Olivia Ruiz - La Femme Chocolat (2005-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/78fc0451-98c4-4708-a0de-e9bdff492488/1529636690-500.jpg" data-tags="chillout, electronic, nu-jazz, triphop" role="button">
-Alif Tree - French Cuisine (2006-02-03)
-</li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
 </li>
@@ -210,6 +204,9 @@ Yelle - Pop Up (2007-09-03)
 <li data-cover="http://coverartarchive.org/release/59af82be-93cb-4216-922f-ca0a88ab7d95/1331122437-500.jpg" data-tags="french, chanson francaise, chanson" role="button">
 Benjamin Biolay - Trash yéyé (2007-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/250e7379-67ab-42db-a101-023269183bdf/5499913556-500.jpg" data-tags="electronic, electro" role="button">
+Danger - 09/14 2007 (2007-11-19)
+</li>
 <li data-cover="https://img.discogs.com/xJl7hV5NKM9p40y46f46oOR7Xm4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1312120-1208717633.jpeg.jpg" data-tags="french" role="button">
 Sexy Sushi - Marre marre marre (2008)
 </li>
@@ -236,6 +233,9 @@ Mylène Farmer - Point De Suture (2008-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6c0feb9-0ab2-4251-95ea-031beb543bd5/3273909214-500.jpg" data-tags="electro-swing" role="button">
 Caravan Palace - Caravan Palace (2008-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
+Birdy Nam Nam - Manual for successful rioting (2009-01-01)
 </li>
 <li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
@@ -318,7 +318,7 @@ Stromae - Racine Carrée (2013-08-16)
 <li data-cover="http://coverartarchive.org/release/dcc44d38-7b10-4c61-af3a-413df2a3b3e9/7437861623-500.jpg" data-tags="pop" role="button">
 Christine and the Queens - Chaleur humaine (2014-05-27)
 </li>
-<li data-cover="https://img.discogs.com/OVL6hMc9ncseoTqGJXl7AazXJZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6132483-1411916509-5804.jpeg.jpg" data-tags="electronic, french, electropop, synthpop, rel-mnth:2014:september, 2014: albums, purchase list" role="button">
+<li data-cover="https://img.discogs.com/OVL6hMc9ncseoTqGJXl7AazXJZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6132483-1411916509-5804.jpeg.jpg" data-tags="electronic, french, electropop, synthpop, rel-mnth:2014:september, purchase list" role="button">
 Yelle - Complètement Fou (2014-09-24)
 </li>
 </ol>

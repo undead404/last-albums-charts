@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:07:02.179Z
+date: 2021-04-05T22:55:01.410Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -39,6 +39,9 @@ Leftfield - Leftism (1995-01-30)
 <li data-cover="https://img.discogs.com/RTuwujrJx3ttlEzr-9UPPjAC7rY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3091194-1315302428.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
+Sneaker Pimps - Becoming X (1996-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
 </li>
@@ -63,7 +66,7 @@ Massive Attack - Mezzanine (1998-04-17)
 <li data-cover="https://img.discogs.com/cyPiEmQuKpLEFJF5QLJbqs3lszI=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817322-1175615429.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/330c3637-e90a-4dc6-8f1f-2a08b367702a/13513499886-500.jpg" data-tags="electronica, alternative, indie pop, indie rock, driving music, original, innovative, 90's, great album, shore, hyllan i mitt huvud, excellent albums, sveglia dolce, encenacoes sobre o tema, dormindo na praia, i will now proceed to sell three copies of  the three eps by the beta band, scottish ergo the best, memories of undergrad, indigolab, le pietre miliari: ovvero come imparai a non preoccuparmi e ad amare la musica" role="button">
+<li data-cover="http://coverartarchive.org/release/330c3637-e90a-4dc6-8f1f-2a08b367702a/13513499886-500.jpg" data-tags="electronica, alternative, indie pop, indie rock, driving music, original, innovative, 90's, shore, hyllan i mitt huvud, excellent albums, sveglia dolce, encenacoes sobre o tema, dormindo na praia, i will now proceed to sell three copies of  the three eps by the beta band, scottish ergo the best, memories of undergrad, indigolab, le pietre miliari: ovvero come imparai a non preoccuparmi e ad amare la musica" role="button">
 The Beta Band - The Three E.P.'s (1998-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f829bf7-163b-49e5-84ba-fb44c2ad88e8/9560869252-500.jpg" data-tags="electronic" role="button">
@@ -242,9 +245,6 @@ Passion Pit - Manners (2009-05-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronica, indie" role="button">
 Empire of the Sun - We Are The People (2009-05-31)
-</li>
-<li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
-Miike Snow - Miike Snow (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:00:01.399Z
+date: 2021-04-05T22:51:01.392Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")
@@ -147,7 +147,7 @@ Killswitch Engage - As Daylight Dies (2006-01-21)
 <li data-cover="http://coverartarchive.org/release/87b752fc-7f21-4887-8746-019ec0a4eba8/11692006058-500.jpg" data-tags="metalcore" role="button">
 Caliban - The Undying Darkness (2006-02-22)
 </li>
-<li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
+<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6e27378-13d1-48a1-b6c7-52264dfd8001/1293739909-500.jpg" data-tags="metalcore" role="button">
@@ -203,9 +203,6 @@ The Devil Wears Prada - Plagues (2007-08-21)
 </li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ad7a74e-95cc-44c3-96da-856810245982/18258092157-500.jpg" data-tags="metalcore" role="button">
-Every Time I Die - The Big Dirty (2007-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Colors (2007-09-18)
@@ -311,6 +308,9 @@ Trivium - In Waves (2011-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/83e6ecc2-662d-45fd-bdea-585d94303cce/2421759627-500.jpg" data-tags="metalcore" role="button">
+Parkway Drive - Atlas (2012-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Bring Me the Horizon - Sempiternal (2013-03-29)

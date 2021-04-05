@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:53:01.393Z
+date: 2021-04-05T22:48:01.502Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -207,6 +207,9 @@ Patton Oswalt - Werewolves and Lollipops (2007-07-10)
 <li data-cover="https://img.discogs.com/T8utANq8MXWCH5GNg-KJPuxJJ6A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056126-1536182769-7526.jpeg.jpg" data-tags="comedy, guitar-based digi-bongo acapella-rap-funk-comedy folk duo" role="button">
 Flight of the Conchords - The Distant Future (2007-08-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
+Modeselektor - Happy Birthday! (2007-09-10)
+</li>
 <li data-cover="https://img.discogs.com/ZDP_nF4dCh7gy821SmATJqAFfXc=/fit-in/592x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159328-1196992633.jpeg.jpg" data-tags="stand-up" role="button">
 Michael Ian Black - I Am A Wonderful Man (2007-09-25)
 </li>
@@ -251,9 +254,6 @@ Steel Panther - Feel the Steel (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">
 Flight of the Conchords - I Told You I Was Freaky (2009-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f9c1e69-ea54-401c-9157-55366794af2a/7940878656-500.jpg" data-tags="comedy" role="button">
-Hannibal Buress - My Name is Hannibal (2010-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
 Chelsea Wolfe - The Grime and the Glow (2010-12-28)

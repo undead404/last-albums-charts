@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:11:01.343Z
+date: 2021-04-05T23:11:01.391Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -105,6 +105,9 @@ Jack Johnson - On and On (2003-05-06)
 <li data-cover="http://coverartarchive.org/release/a286be17-96f0-3dee-9c66-d8972a04d4e9/1742724035-500.jpg" data-tags="emo" role="button">
 Dashboard Confessional - A Mark, A Mission, A Brand, A Scar (2003-08-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
+John Mayer - Heavier Things (2003-09-09)
+</li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
@@ -114,11 +117,8 @@ José González - Veneer (2003-10)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/db367585-903f-4e9b-94f9-02093795dc2f/14971932845-500.jpg" data-tags="acoustic" role="button">
-Godsmack - The Other Side (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
@@ -210,7 +210,7 @@ Sara Bareilles - Little Voice (2007-07-03)
 <li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock, favorite" role="button">
+<li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">

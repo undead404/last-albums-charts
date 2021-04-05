@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:47:01.327Z
+date: 2021-04-05T22:56:01.381Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -45,7 +45,7 @@ Julee Cruise - Floating into the Night (1989-09-12)
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
-<li data-cover="https://img.discogs.com/48Ew-MwVKnCAuXoq8l5yXChIbqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62108-1400097344-5564.jpeg.jpg" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/5uifsmzRHUP9y3nqtNoMLVzogjw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-189894-1297620821.jpeg.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Heaven or Las Vegas (1990-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/915cb221-2355-4e0d-aaa9-27796abceb10/16412549193-500.jpg" data-tags="shoegaze" role="button">
@@ -63,7 +63,7 @@ Slowdive - Souvlaki (1993-06-01)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/646c6f8d-64bd-38ec-8cf3-3a5f5008cf88/7946166850-500.jpg" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/ct_HonlxsxKwu7CCIr1igOCStbc=/fit-in/600x979/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6784702-1436621833-4556.jpeg.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Four-Calendar Cafe (1993-11-02)
 </li>
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">
@@ -90,7 +90,7 @@ Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
 Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
-<li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
@@ -147,9 +147,6 @@ School of Seven Bells - Alpinisms (2008-09)
 <li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
 Chairlift - Does You Inspire You (2008-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">
-The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
@@ -189,7 +186,7 @@ Lower Dens - Twin-Hand Movement (2010-07-20)
 <li data-cover="http://coverartarchive.org/release/93922dd3-28a6-329a-ab40-a8c63535f743/3717426092-500.jpg" data-tags="indie, dream pop, 4ad" role="button">
 Blonde Redhead - Penny Sparkle (2010-09-10)
 </li>
-<li data-cover="https://img.discogs.com/tUf_katyLSzcD1NIIDFMLYvVYf4=/fit-in/368x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816946-1337370194-6038.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
+<li data-cover="https://img.discogs.com/R4jvnnJPoOAgWpqqOdawRWaV0nQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d12fe86c-4e91-4b2f-98ca-c7045c195a3b/6735333223-500.jpg" data-tags="dream pop, experimental" role="button">
@@ -243,9 +240,6 @@ DIIV - Oshin (2012-01-30)
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/21fe0978-2169-4739-8170-e676deb84fff/3982008386-500.jpg" data-tags="indie, indie rock, dream pop" role="button">
-Frankie Rose - Interstellar (2012-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
 Chromatics - Kill for Love (2012-03-26)
 </li>
@@ -269,6 +263,12 @@ Ellie Goulding - Halcyon (2012-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/d47f2080-8c2a-4f20-b81f-9dad7c2c84fc/2570423040-500.jpg" data-tags="dream pop, trip-hop, alternative" role="button">
+Lana Del Rey - Paradise (2012-11-12)
+</li>
+<li data-cover="https://img.discogs.com/b1v4BAUy18Khnvd-P_C17krvQX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9780833-1487975534-7197.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
+FKA twigs - EP1 (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b082f5cb-0783-48e0-aa41-03e7d49f7631/5180943987-500.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - Wondrous Bughouse (2013-03-05)
