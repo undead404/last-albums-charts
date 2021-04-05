@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:34:01.363Z
+date: 2021-04-05T02:42:01.309Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -53,9 +53,6 @@ Alice in Chains - MTV Unplugged (1996-04-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dispatch, rock" role="button">
 Dispatch - Bang Bang (1997-09-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
-Cat Power - Moon Pix (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
@@ -168,6 +165,9 @@ Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
 <li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">
+The Weepies - Say I Am You (2006-03-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
 </li>
@@ -212,6 +212,9 @@ Angus & Julia Stone - A Book Like This (2007-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
+Iron & Wine - The Shepherd's Dog (2007-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/565ecac2-2a18-3f3e-9026-b3cb7b7e567e/15591829201-500.jpg" data-tags="acoustic, ninja tune" role="button">
 Fink - Distance and Time (2007-10-01)
@@ -302,9 +305,6 @@ Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c66e5f4-b6d6-4c21-85c5-442efa031936/7109966435-500.jpg" data-tags="acoustic" role="button">
 Vance Joy - God Loves You When You're Dancing (2013-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d8997b1d-3345-4750-a7e6-fe19b96a96f3/4436735162-500.jpg" data-tags="indie, chill, singer-songwriter, acoustic, columbia records, sony music, in my vinyl collection" role="button">
-Tom Odell - Long Way Down (2013-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, 10s, 2010s, 2013 albums, monochrome album covers, american group, grammy winner 2014" role="button">
 The Civil Wars - The Civil Wars (2013-08-02)

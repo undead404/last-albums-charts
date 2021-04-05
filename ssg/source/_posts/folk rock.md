@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:02:01.362Z
+date: 2021-04-05T02:18:01.297Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
@@ -41,6 +41,9 @@ The Byrds - Fifth Dimension (1966-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/de8b370c-711c-432b-8032-eb94b5d5757f/7469535323-500.jpg" data-tags="folk rock, 60s" role="button">
 Simon & Garfunkel - Parsley, Sage, Rosemary And Thyme (1966-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc80e529-7e82-4c85-896d-5b182e5e1c9f/7472772380-500.jpg" data-tags="folk" role="button">
+Bob Dylan - John Wesley Harding (1967-12-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cf90a62-28e1-479e-beea-aec59d72a456/20530359400-500.jpg" data-tags="folk rock, 60s, classic rock" role="button">
 The Band - Music From Big Pink (1968-07-01)
@@ -93,8 +96,11 @@ Buffalo Springfield - Buffalo Springfield (1973-11-12)
 <li data-cover="https://img.discogs.com/r-MIHpJTdzNf_7CGO5ATqLzzbXo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2935178-1606097219-6523.jpeg.jpg" data-tags="70s, folk, folk rock, classic rock, singer-songwriter" role="button">
 Bob Dylan - Dylan (1973-11-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e5f8794-44dc-3e77-8344-481d97f7545e/5260506449-500.jpg" data-tags="classic rock, folk rock" role="button">
-Crosby, Stills, Nash & Young - So Far (1974-08-19)
+<li data-cover="https://img.discogs.com/WoEirPVqnQkq5sUJo7kNj_mW2s4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2338776-1428240241-6991.jpeg.jpg" data-tags="folk" role="button">
+Bob Dylan - Blood on the Tracks (1975-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b88fb862-2ba4-321e-a44c-3e0a9f5be948/9119459573-500.jpg" data-tags="folk" role="button">
+Bob Dylan - The Times They Are A-Changin' (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
@@ -177,6 +183,9 @@ Brandi Carlile - The Story (2007-04-03)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
+Iron & Wine - The Shepherd's Dog (2007-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/060d2f99-5f82-488a-9f0a-b6b1a8112026/10151905692-500.jpg" data-tags="folk rock, americana" role="button">
 Robert Plant & Alison Krauss - Raising Sand (2007-10-23)
 </li>
@@ -197,9 +206,6 @@ Paolo Nutini - Sunny Side Up (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ad8860f-6b97-49c8-a631-811ef3c4b5a7/10428820326-500.jpg" data-tags="folk" role="button">
-Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/_bzQfuUArrqz6xSjVfDCNK4Pwp4=/fit-in/555x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1926366-1330810865.jpeg.jpg" data-tags="indie, folk, folk rock, psych folk, 00's, awesomeness, loved at first listen, makes me happy, beatlesque, dodos, under the radar best of 2009, d 2009" role="button">
 The Dodos - Time To Die (2009-07-27)
@@ -233,9 +239,6 @@ The Decemberists - The King Is Dead (2011-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/88494ad8-a7aa-4fcf-8334-8b563f1db3a6/2094856309-500.jpg" data-tags="folk" role="button">
 Iron & Wine - Kiss Each Other Clean (2011-01-24)
-</li>
-<li data-cover="https://img.discogs.com/zISmz0HwlQ-907occ8hezhzkFic=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3340517-1326505885.jpeg.jpg" data-tags="alternative, political" role="button">
-PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
 Kurt Vile - Smoke Ring for My Halo (2011-03-07)
@@ -290,9 +293,6 @@ Jake Bugg - Jake Bugg (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/cffe4b7b-0f58-45e6-96be-91d4a3ead48c/4776296549-500.jpg" data-tags="folk, acoustic, folk rock, need to listen" role="button">
-Frank Turner - Tape Deck Heart (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a07df9fe-a276-44ed-99f8-41bfcd53daa3/4764876876-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Edward Sharpe & The Magnetic Zeros (2013-07-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:14:01.635Z
+date: 2021-04-05T02:40:01.291Z
 title: "winter: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -54,9 +54,6 @@ Plastikman - Musik (1994-11-07)
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
 </li>
-<li data-cover="https://img.discogs.com/5GVoB3A1kYVBV9MQ2QSt7Fdb6rk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-512322-1292210098.jpeg.jpg" data-tags="power pop, 90s" role="button">
-Teenage Fanclub - Grand Prix (1995-05-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce2ebf1c-1132-4fbf-8064-956f468c5b0b/6731049183-500.jpg" data-tags="yann tiersen, contemporary classical" role="button">
 Yann Tiersen - Rue Des Cascades (1996-04-01)
 </li>
@@ -93,11 +90,11 @@ The 69 Eyes - Wasting the Dawn (1999-02-22)
 <li data-cover="http://coverartarchive.org/release/cad3c04b-0d25-4daa-8254-e4d65117f880/16977541773-500.jpg" data-tags="emo, alternative rock" role="button">
 Jimmy Eat World - Clarity (1999-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/50c66e29-6913-45e1-9646-d9b4fae2393a/6898888323-500.jpg" data-tags="electronic, idm, electronica" role="button">
-Plaid - Rest Proof Clockwork (1999-06-19)
-</li>
 <li data-cover="https://img.discogs.com/7weuNBvhQq1kasHoK8Qkey0wnpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7996-1214076463.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Nitin Sawhney - Beyond Skin (1999-09-13)
+</li>
+<li data-cover="https://img.discogs.com/nHTpM2iNFe_ieR9WlIT7WYck7WY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7860499-1589151037-6233.jpeg.jpg" data-tags="guster" role="button">
+Guster - Lost and Gone Forever (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c94fe8a6-d734-4730-98bd-aa92884c2e4d/16371697276-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Shivaree - I Oughtta Give You A Shot In The Head For Making Me Live In This Dump (1999-10-19)
@@ -119,9 +116,6 @@ The Black Heart Procession - Three (2000-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e70135c-379b-474e-9d91-72abc1fab102/20161665425-500.jpg" data-tags="indie, alternative, singer-songwriter, rock, country, alternative rock, folk, indie pop, indie rock, acoustic, blues, guitar" role="button">
 Damien Jurado - Ghost of David (2000-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/4aacec70-87db-457e-96dc-59020c412e46/6212339784-500.jpg" data-tags="electronic, trip-hop, dark, winter, 2000s, for rainy days, nice nait" role="button">
-DJ Shadow - Dark Days (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccad03b6-c236-488f-9e9a-271449f88bdf/16938333495-500.jpg" data-tags="rock, alternative rock, 2000s, mute records" role="button">
 Nick Cave & The Bad Seeds - No More Shall We Part (2001-04-02)
@@ -147,10 +141,13 @@ Modest Mouse - Everywhere and His Nasty Parlour Tricks (2001-09-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, indietronica" role="button">
 Dntel - Life Is Full of Possibilities (2001-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f37e0bf-5f79-42e8-be0b-1782bc788355/1475380053-500.jpg" data-tags="christmas" role="button">
+Jimmy Eat World - Last Christmas (2001-12-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf6af256-9114-452c-a699-f7103285cbfc/11692310343-500.jpg" data-tags="ambient, minimal, winter" role="button">
 Yagya - Rhythm of Snow (2002)
 </li>
-<li data-cover="https://img.discogs.com/xrCSS7GM6WUPR8R9Sg5vxmNghn4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-582869-1401722073-7898.jpeg.jpg" data-tags="soul" role="button">
+<li data-cover="https://img.discogs.com/kBCt5tibFrqSk7XJbUsrTSoiNMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-403193-1108749175.jpg.jpg" data-tags="soul" role="button">
 Tweet - Southern Hummingbird (2002-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0cd8b400-95e2-4be5-af82-dcf40540cdfa/2960113401-500.jpg" data-tags="slowcore" role="button">
@@ -185,6 +182,9 @@ Stina Nordenstam - The World Is Saved (2004-10-11)
 </li>
 <li data-cover="https://img.discogs.com/xh711CJOlWSPk9O-Jju1XAL98qs=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467110-1117802145.jpg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef77304f-302c-4ab3-8303-79914646e7a9/26411107989-500.jpg" data-tags="constantly in circulation" role="button">
+I Can Make a Mess Like Nobody's Business - I Can Make A Mess Like Nobody's Business (2004-10-26)
 </li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
@@ -228,14 +228,14 @@ Regina Spektor - Begin to Hope (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/a3be0b9b-874e-44ff-8054-d4dc6ec189d0/10720411555-500.jpg" data-tags="singer-songwriter, indie, country, alternative, folk, indie pop, indie rock, sad, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 Jason Molina - Let Me Go, Let Me Go, Let Me Go (2006-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/c64999b0-8a0c-4085-96dd-7e4eab22c481/14990985445-500.jpg" data-tags="indie" role="button">
+Copeland - Eat, Sleep, Repeat (2006-08-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/6477df3d-e390-4bec-849c-1a45cd73039b/25010408029-500.jpg" data-tags="alternative, folk, indie, country, indie pop, indie rock, sad, singer-songwriter, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 Damien Jurado - And Now That I'm In Your Shadow (2006-10-10)
 </li>
 <li data-cover="https://img.discogs.com/o7PApQWqwex4qoVskm9UeQrNjOI=/fit-in/252x251/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-869242-1167392515.jpeg.jpg" data-tags="folk, indie, country, alternative, indie pop, indie rock, sad, singer-songwriter, slow, calm, acoustic, americana, blues, songwriter, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, emotional, indie folk, singer songwriter, alt rock, lo-fi, moody, winter, folk noir, slowcore, quiet, alt country, alternative folk, singer-songwriters, short song, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
 Norfolk & Western - The Unsung Colony (2006-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/0178f62c-7662-46d9-9870-d331c21d290f/1087682353-500.jpg" data-tags="alternative, piano, new age, dreamy, melancholic, relaxing" role="button">
-Frozen Silence - Heart of Winter (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a7b7dd9-700e-41bf-a5d0-1dca120e2ca7/2904746115-500.jpg" data-tags="ambient, mellow" role="button">
 Slow Dancing Society - The Slow and Steady Winter (2007)
@@ -297,6 +297,9 @@ Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)
 <li data-cover="http://coverartarchive.org/release/1cc92903-8a5b-4e92-a801-d7d446939e75/21355577605-500.jpg" data-tags="dubstep" role="button">
 Phaeleh - The Cold in You (2011-08-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">
+Michael Bublé - Christmas (2011-10-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
@@ -311,9 +314,6 @@ Connect.Ohm - 9980 (2012-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6c6d7a9-3093-4c7c-9e41-87a7cf0a38bd/5163933768-500.jpg" data-tags="christmas" role="button">
 Tracey Thorn - Tinsel and Lights (2012-10-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/072d227a-c19e-481c-9d4e-48cf05bab079/4499107497-500.jpg" data-tags="ambient, hypnotic" role="button">
-Tim Hecker & Daniel Lopatin - Instrumental Tourist (2012-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d1dc16a-a854-4589-b78b-f008af493aac/4871200031-500.jpg" data-tags="art pop, chamber pop" role="button">
 Julia Holter - Loud City Song (2013-08-19)

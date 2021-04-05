@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:25:01.282Z
+date: 2021-04-05T02:39:01.298Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -117,9 +117,6 @@ The Beta Band - Hot Shots II (2001-07-07)
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
 Lamb - What Sound (2001-10-08)
 </li>
-<li data-cover="https://img.discogs.com/JYweVK-MP3wZ3FKa9znVYZ8HtjU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-665319-1214141347.jpeg.jpg" data-tags="britpop" role="button">
-Blur - Think Tank (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
 </li>
@@ -198,6 +195,9 @@ Turin Brakes - Dark On Fire (2007-09-17)
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="uk, pop-rock, tom1, coolwench" role="button">
+Franz Ferdinand - Lucid Dreams (2008-08-19)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
 </li>
@@ -237,13 +237,13 @@ Jamie Cullum - The Pursuit (2009-11-13)
 <li data-cover="http://coverartarchive.org/release/d45da67a-e3c5-3c6d-985e-03d421cfd624/17589986362-500.jpg" data-tags="british, uk" role="button">
 Portishead - Chase the Tear (2009-12-09)
 </li>
-<li data-cover="https://img.discogs.com/HLmep_hn5J1mfYA-6lu9ZihrsJ8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10891897-1516034765-6001.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/AuQbDbqh0wsAU44L70pOYbHgbh4=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7866744-1450529565-9975.jpeg.jpg" data-tags="folk" role="button">
 Laura Marling - I Speak Because I Can (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/2992f808-a51a-4a85-82a9-2a90ff78249a/1818593672-500.jpg" data-tags="british" role="button">
 James Morrison - The Awakening (2011-01-01)
 </li>
-<li data-cover="https://img.discogs.com/zISmz0HwlQ-907occ8hezhzkFic=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3340517-1326505885.jpeg.jpg" data-tags="alternative, political" role="button">
+<li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
 PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
@@ -279,7 +279,7 @@ Peace - EP Delicious (2012-09-10)
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
 </li>
-<li data-cover="https://img.discogs.com/cz4EWTrah9eujJlY5c2SzT215uA=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238269-1326425279.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
+<li data-cover="https://img.discogs.com/cQoovfK_D3KJkLdj0TUKQzhspPI=/fit-in/405x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4640643-1371215721-2104.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
 Depeche Mode - Heaven (2013-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">
@@ -288,7 +288,7 @@ Bastille - Bad Blood (2013-03-04)
 <li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, vinyl, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
 Public Service Broadcasting - Inform - Educate - Entertain (2013-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk, vinyl" role="button">

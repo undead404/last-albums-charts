@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:21:01.363Z
+date: 2021-04-05T02:41:01.414Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -51,17 +51,29 @@ Cat Stevens - Tea For The Tillerman (1970-11-23)
 <li data-cover="https://img.discogs.com/r8VdkDo3uNJSNdIgh6ZH2qkXHe0=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299747-1588947401-2352.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
 </li>
+<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Leonard Cohen - Songs of Love and Hate (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/243fb7b0-e7f3-42e8-bdfc-a66fd9e23d0e/11322846424-500.jpg" data-tags="folk" role="button">
+Joni Mitchell - Blue (1971-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
 Neil Young - Harvest (1972-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
+<li data-cover="https://img.discogs.com/WoEirPVqnQkq5sUJo7kNj_mW2s4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2338776-1428240241-6991.jpeg.jpg" data-tags="folk" role="button">
+Bob Dylan - Blood on the Tracks (1975-01-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/477bb8aa-5413-37c5-8f1a-f9ca7a36c9d3/22089606298-500.jpg" data-tags="james taylor, folk" role="button">
 James Taylor - Greatest Hits (1976-11-01)
 </li>
 <li data-cover="https://img.discogs.com/5W_wJIAniozRh5IbN774huX2nns=/fit-in/416x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4769978-1375003538-8396.jpeg.jpg" data-tags="80s, folk" role="button">
 Paul Simon - Graceland (1986-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/b88fb862-2ba4-321e-a44c-3e0a9f5be948/9119459573-500.jpg" data-tags="folk" role="button">
+Bob Dylan - The Times They Are A-Changin' (1988)
 </li>
 <li data-cover="https://img.discogs.com/RpS2IyO3bvCmc5pKPmtFwkQyvTk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539880-1367879495-2791.jpeg.jpg" data-tags="folk" role="button">
 Tracy Chapman - Tracy Chapman (1988-04-01)
@@ -80,9 +92,6 @@ Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
-Beck - Sea Change (2002-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e270a453-a6c5-4bbc-91d7-5e4378e7d08c/2500642993-500.jpg" data-tags="folk, indie, acoustic" role="button">
 Iron & Wine - The Creek Drank the Cradle (2002-09-24)
@@ -111,9 +120,6 @@ Animal Collective - Sung Tongs (2004-05-03)
 <li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
-Kings of Convenience - Riot on an Empty Street (2004-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
@@ -138,6 +144,9 @@ Fleet Foxes - Fleet Foxes (2006)
 <li data-cover="http://coverartarchive.org/release/9a4edbc4-9f12-456c-bdbe-126923ad262c/8974984510-500.jpg" data-tags="female vocalists, indie" role="button">
 Cat Power - The Greatest (2006-01-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">
+The Weepies - Say I Am You (2006-03-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
 </li>
@@ -150,8 +159,8 @@ Joshua Radin - We Were Here (2006-06-13)
 <li data-cover="https://img.discogs.com/BvnnVUfIyE34Bdrb4fOFdMHTU54=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675273-1147465062.jpeg.jpg" data-tags="folk" role="button">
 Ray LaMontagne - Trouble (2006-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
-M. Ward - Post-War (2006-08-22)
+<li data-cover="http://coverartarchive.org/release/2c5176e5-b75c-4cba-ab30-ca74fa9acb0a/14396282999-500.jpg" data-tags="folk, ray lamontagne, singer-songwriter" role="button">
+Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
@@ -168,8 +177,8 @@ Feist - The Reminder (2007-04-23)
 <li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
-<li data-cover="https://img.discogs.com/UBd7YqXMjTGwZKEQrXE1EotW9co=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1944687-1546335869-8526.jpeg.jpg" data-tags="indie, folk, post-rock, indie folk" role="button">
-The Middle East - The Recordings Of The Middle East (2008)
+<li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
+Iron & Wine - The Shepherd's Dog (2007-09-23)
 </li>
 <li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
@@ -201,9 +210,6 @@ Ray LaMontagne - Gossip In The Grain (2008-10-14)
 <li data-cover="http://coverartarchive.org/release/045bd22e-b181-4b67-8fda-dbb47a66cef6/2333024859-500.jpg" data-tags="folk, indie" role="button">
 Bon Iver - Blood Bank (2009-01-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/58173200-3e0a-47c7-b5c0-a6af53880506/10364552769-500.jpg" data-tags="indie, folk" role="button">
-Iron & Wine - Around the Well (2009-05-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
@@ -231,7 +237,7 @@ James Vincent McMorrow - Early in the Morning (2010-02-26)
 <li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
-<li data-cover="https://img.discogs.com/HLmep_hn5J1mfYA-6lu9ZihrsJ8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10891897-1516034765-6001.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/AuQbDbqh0wsAU44L70pOYbHgbh4=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7866744-1450529565-9975.jpeg.jpg" data-tags="folk" role="button">
 Laura Marling - I Speak Because I Can (2010-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
@@ -242,9 +248,6 @@ The Head and the Heart - The Head and The Heart (2010-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/686e0436-f911-3fe7-a685-3a3e155c9b78/25329344693-500.jpg" data-tags="folk, folk rock" role="button">
 Bombay Bicycle Club - Flaws (2010-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
-Bruce Springsteen - Nebraska (2010-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3acc2ee-9411-45e4-b1da-f3ed28fd26a2/6115532371-500.jpg" data-tags="folktronica, folk, indietronica, alternative dance" role="button">
 Crystal Fighters - Star of Love (2010-10-04)
@@ -293,9 +296,6 @@ Milky Chance - Sadnecessary (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a07df9fe-a276-44ed-99f8-41bfcd53daa3/4764876876-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Edward Sharpe & The Magnetic Zeros (2013-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a4514530-80ec-4765-a903-6dac355031e1/5208050605-500.jpg" data-tags="indie, folk, post-rock, indie folk, 10s, 2010s, jagjaguwar, 2013 albums" role="button">
-Volcano Choir - Repave (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)

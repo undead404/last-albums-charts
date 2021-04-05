@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:00:01.389Z
+date: 2021-04-05T02:19:01.286Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -29,6 +29,9 @@ Arthur Verocai - Arthur Verocai (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
+</li>
+<li data-cover="https://img.discogs.com/YHgXwbHqD2xYiuGnAy52TY9Q0UQ=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8527975-1463414197-4048.jpeg.jpg" data-tags="latin, salsa, latinjazz" role="button">
+Ray Barretto - La Cuna (1981)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="flamenco" role="button">
 Gipsy Kings - Gipsy Kings (1988-02)
@@ -95,6 +98,9 @@ Sergent Garcia - Un Poquito Quema'o (1999-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">
 Ricky Martin - Ricky Martin (1999-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf14483b-bf13-3737-a2e8-da77ee76e2e5/5853577553-500.jpg" data-tags="cuban" role="button">
+Ibrahim Ferrer - Buena Vista Social Club Presents Ibrahim Ferrer (1999-05-24)
 </li>
 <li data-cover="https://img.discogs.com/1DR0jBQzGVXuAlwXyBIu_fdIF3E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13762857-1560590339-1299.jpeg.jpg" data-tags="pop" role="button">
 Jennifer Lopez - On the 6 (1999-06-01)
@@ -308,12 +314,6 @@ Shakira - Live From Paris (2011-11-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
 La casa azul - La Polinesia Meridional (2011-11-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/84be76c9-41b9-4c2f-900b-9323334a10ae/1526397780-500.jpg" data-tags="black metal, pop, dance, latin, reggaeton, brutal death metal, latin grammy nominated, mierda" role="button">
-Wisin & Yandel - Líderes (2012-07-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/306e8bef-d684-4e0a-882f-f6fe388e0023/10168123588-500.jpg" data-tags="alternative" role="button">
-Natalia Lafourcade - Mujer Divina - Homenaje a Agustín Lara (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/959e0932-42fd-4811-8388-87eb6b899244/6457959227-500.jpg" data-tags="electronic, pop, alternative rock, experimental, synth pop, latin, folktronica, folk rock, indie folk, 2013 releases, my gang 13, 2013: favourite albums,  folk,  world music,  indie electronic, favourite albums everrr" role="button">
 Juana Molina - Wed 21 (2013-10-28)

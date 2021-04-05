@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:41:01.347Z
+date: 2021-04-05T02:38:01.310Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -123,6 +123,9 @@ Opeth - Deliverance (2002-11-04)
 <li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
 Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/c203d7cd-4d3c-4035-b6f0-a4e9c719515a/10899843201-500.jpg" data-tags="progressive" role="button">
+Vibrasphere - Lime Structure (2003-01-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
 Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
@@ -131,9 +134,6 @@ Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 </li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/85ffc0b7-1878-3ccb-9270-1d2f2d1595b3/24919226700-500.jpg" data-tags="rock" role="button">
-Jane's Addiction - Strays (2003-07-21)
 </li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
@@ -219,7 +219,7 @@ Isis - In the Absence of Truth (2006-10-06)
 <li data-cover="https://img.discogs.com/puejkqh-SaEpKYN6cldpw3JRDCY=/fit-in/426x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011062-1194177277.jpeg.jpg" data-tags="ambient, post-rock, progressive, ethereal, post rock, lsd, manjoh, de:bug album reviews 2007, try this, toad-tested mother-approved" role="button">
 APSE - Spirit (2006-10-24)
 </li>
-<li data-cover="https://img.discogs.com/bY-m83uV6RlhVdayY4vVROI8bAU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963490-1178296553.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
+<li data-cover="https://img.discogs.com/OHjLBybbfnlzpvsRZklXpjBw9UE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-735479-1550615717-2469.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
 Extrawelt - Soopertrack (2007-03-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
@@ -258,7 +258,7 @@ DIR EN GREY - Uroboros (2008-11-11)
 <li data-cover="http://coverartarchive.org/release/df45d0f3-7ce4-4e18-8a59-6d87103829cc/8703023202-500.jpg" data-tags="progressive rock, progressive, post-hardcore" role="button">
 The Fall of Troy - Phantom on the Horizon (2008-11-28)
 </li>
-<li data-cover="https://img.discogs.com/Ybk8O5Z9dS9ella2Ro8eLusdpIg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9451174-1480801580-3697.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
+<li data-cover="https://img.discogs.com/FgrZPMfgM1Qq9YQ9zOifBhSRLHI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1598959-1231265362.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
 Max Cooper - Harmonisch Serie (2009-01-12)
 </li>
 <li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">

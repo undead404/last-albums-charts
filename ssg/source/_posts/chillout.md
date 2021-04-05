@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:33:01.318Z
+date: 2021-04-05T01:49:02.462Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -39,6 +39,9 @@ Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 <li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
+Fiona Apple - Tidal (1996-07-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
@@ -77,6 +80,9 @@ Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d2317a8-c9f5-413e-a154-5690a4a0d4fd/25350299399-500.jpg" data-tags="trip-hop" role="button">
 Hooverphonic - The Magnificent Tree (2000-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
+Goldfrapp - Felt Mountain (2000-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
@@ -270,9 +276,6 @@ Little Dragon - Machine Dreams (2009-08-17)
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">
-Bonobo - Black Sands (2010-03-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/d5d1fce6-e9e1-4565-976d-f046c3d5d252/4500932243-500.jpg" data-tags="ambient, chillout" role="button">
 Carbon Based Lifeforms - Interloper (2010-05-03)
 </li>
@@ -308,9 +311,6 @@ Bakermat - One Day (Vandaag) (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3151b89c-bc33-4304-9b0c-04158417b641/11082339511-500.jpg" data-tags="chillout, indie, folk, acoustic, listen, another love, songs played on kslu" role="button">
 Tom Odell - Songs from Another Love (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
-Rhye - Woman (2013-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
 Indila - Mini World (2014-02-21)

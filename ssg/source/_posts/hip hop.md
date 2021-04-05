@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:13:01.292Z
+date: 2021-04-05T02:22:01.292Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -207,9 +207,6 @@ Keri Hilson - In a Perfect World... (2009-01-01)
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/9123d325-bf8e-4423-be98-98478dccee20/3602906301-500.jpg" data-tags="electronic, hip hop, pop, rap, flo rida right round" role="button">
-Flo Rida - Right Round (2009-03-23)
-</li>
 <li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
 </li>
@@ -275,6 +272,9 @@ Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/3686162c-6a36-47ce-b6fe-18a4bb41a0ca/2805738352-500.jpg" data-tags="experimental, experimental hip-hop, experimental hip hop" role="button">
+Death Grips - The Money Store (2012-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">
 Flo Rida - Wild Ones (2012-06-22)

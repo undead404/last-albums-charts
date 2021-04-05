@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:31:06.650Z
+date: 2021-04-05T01:54:01.290Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
@@ -13,7 +13,7 @@ title: "dark: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/xRbUsGDMGuxfDu0TWkcy2s4B0U0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2821863-1400635729-2592.jpeg.jpg" data-tags="indie pop, dark, night, gentle, merkliste" role="button">Timber Timbre - Creep On Creepin' On (2011-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">Austra - Feel It Break (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">Zola Jesus - Conatus (2011-09-26)</li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
+<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -42,7 +42,7 @@ Sonic Youth - Bad Moon Rising (1985)
 <li data-cover="http://coverartarchive.org/release/853ee016-b10d-3118-86ed-d9c3b797eebc/15258704059-500.jpg" data-tags="darkwave" role="button">
 Dead Can Dance - Spleen and Ideal (1985-11-25)
 </li>
-<li data-cover="https://img.discogs.com/GROXvyXYNKr5uIydjfWHzA2oLZg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448007-1336127526.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/vn3oqwAIyPBmRz-wFXXrgAb9N04=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442377-1287321146.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
 Depeche Mode - Black Celebration (1986-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">
@@ -90,9 +90,6 @@ The Cardigans - Gran Turismo (1998-10-19)
 <li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
 Robbie Williams - I've Been Expecting You (1998-10-26)
 </li>
-<li data-cover="https://img.discogs.com/i46qB3mQKhVEKWlKlWPbDtFSMhM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9906320-1488305512-4362.jpeg.jpg" data-tags="blues" role="button">
-Junior Kimbrough - Meet Me in the City (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
 Silverchair - Neon Ballroom (1999-03-05)
 </li>
@@ -101,9 +98,6 @@ Staind - Dysfunction (1999-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b79c1285-1f52-36b7-adb8-b24491389644/2386244795-500.jpg" data-tags="post-punk" role="button">
 Rowland S. Howard - Teenage Snuff Film (1999-06-26)
-</li>
-<li data-cover="https://img.discogs.com/U9LEG7nZ8JktYxlMgjZkfCNlWSM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66347-1374100615-6026.jpeg.jpg" data-tags="electronic" role="button">
-Death in Vegas - The Contino Sessions (1999-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Every Day and Every Night (1999-11-01)
@@ -144,6 +138,9 @@ Robbie Williams - Escapology (2002-11-18)
 <li data-cover="https://img.discogs.com/VJB1rFlOG6ZH8Uq_T0r9BxdfUTQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7107450-1433888454-3100.jpeg.jpg" data-tags="2003, rock" role="button">
 My Morning Jacket - It Still Moves (2003-09-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
+Xiu Xiu - Fabulous Muscles (2004-02-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
 </li>
@@ -152,6 +149,9 @@ Ataxia - Automatic Writing (2004-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee2ded2b-e706-4e20-9ae6-98bba2e4e291/8610003714-500.jpg" data-tags="punk rock" role="button">
 Farin Urlaub - Am Ende der Sonne (2005-03-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
+Okkervil River - Black Sheep Boy (2005-04-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
@@ -189,7 +189,7 @@ Jesus On Extasy - Holy Beauty (2007-03-30)
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">
 PJ Harvey - White Chalk (2007-09-19)
 </li>
-<li data-cover="https://img.discogs.com/61hSIII3z-x_7WS7PQ6rarCSrOE=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9999060-1489918569-2715.jpeg.jpg" data-tags="darkwave" role="button">
+<li data-cover="https://img.discogs.com/2GswDWVRxpZQ_xKFt5y6JVcER-o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099636-1567270267-9611.jpeg.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - This Is Forever (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
@@ -312,7 +312,7 @@ Soap&Skin - Sugarbread (2013-03-11)
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
 </li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
+<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">

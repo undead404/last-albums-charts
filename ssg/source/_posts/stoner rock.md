@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:35:01.312Z
+date: 2021-04-05T02:25:01.409Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -71,9 +71,6 @@ Sleep - Jerusalem (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac665057-4edf-4e12-9157-aa57abdc32c7/6513527640-500.jpg" data-tags="stoner rock, heavy metal" role="button">
 Corrosion of Conformity - Wiseblood (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/3475c257-246f-36f4-88f4-196dbf7bbed1/10281836755-500.jpg" data-tags="grunge, alternative rock" role="button">
-Soundgarden - Down on the Upside (1996-05-13)
 </li>
 <li data-cover="https://img.discogs.com/pe80Ii1unpA-pe7WB1eUUXU_zps=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10226360-1501304641-6236.jpeg.jpg" data-tags="stoner rock" role="button">
 Earth - Pentastar: In the Style of Demons (1996-07-23)
@@ -320,5 +317,8 @@ King Gizzard & The Lizard Wizard - Float Along - Fill Your Lungs (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dddeade-8f37-4413-8d3c-2db25e0e2e36/5478722467-500.jpg" data-tags="stoner rock" role="button">
 Earthless - From the Ages (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/30683b1f-e4df-46f7-a170-2de84a5f13bf/8137779784-500.jpg" data-tags="rock" role="button">
+Royal Blood - Royal Blood (2014-08-22)
 </li>
 </ol>

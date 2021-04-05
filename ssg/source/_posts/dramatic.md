@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:29:01.429Z
+date: 2021-04-05T02:10:01.329Z
 title: "dramatic: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -48,6 +48,9 @@ Cocteau Twins - Treasure (1984-10-01)
 <li data-cover="http://coverartarchive.org/release/941d8ace-2faf-46de-a77b-dff1a063e2ce/28587380435-500.jpg" data-tags="rock, uk, country-rock, passionate, literate, melancholy, fierce, intense, confrontational, earnest, wry, dramatic, bittersweet, intimate, elegant, yearning, sophisticated, autumnal, sympathy68, emusic, nocturnal, brooding, sentimental, acerbic, weary, bleak, theatrical, ambitious, m faithfull, lauraann163" role="button">
 Marianne Faithfull - Rich Kid Blues (1985)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="vocal, traditional pop, romantic, reflective, smooth, earnest, dramatic, elegant, showtunes, crooners, sophisticated, warm, poignant, relaxation, lush, sentimental, soothing, joyous, cast recordings, show tunes, refined, theatrical, gutsy, in love, reserved, romantic evening, vocal pop, dinner ambiance, american popular song, vic damone, vic soothest veteran sings the great love song, vic veteran smooth romantic sings great love songs, vic damone sings the great love songs" role="button">
+Vic Damone - 16 Most Requested Songs (1992)
+</li>
 <li data-cover="https://img.discogs.com/tZfcL2-KdFu2N0tTwz_0NL1DCjQ=/fit-in/600x417/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-932272-1175062058.jpeg.jpg" data-tags="britpop" role="button">
 James - Laid (1993-11-01)
 </li>
@@ -81,9 +84,6 @@ Smog - Red Apple Falls (1997-05-20)
 <li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
 Broadcast - Work and Non Work (1997-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/5f067622-b426-4879-a9f0-8c1efb117f55/5813270799-500.jpg" data-tags="electronic, alternative, experimental" role="button">
-Vast - Visual Audio Sensory Theater (1998-04-28)
-</li>
 <li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
@@ -92,6 +92,9 @@ Sparklehorse - Good Morning Spider (1998-07-20)
 </li>
 <li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
 Mercury Rev - Deserter's Songs (1998-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/83473368-c1e7-457f-876e-0f1661be6a08/21916554438-500.jpg" data-tags="jazz" role="button">
+Peggy Lee - The Best Of Miss Peggy Lee (1998-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ede6b70-7a1a-3708-a2fa-c452461b190e/9376384670-500.jpg" data-tags="indie rock, 90s" role="button">
 Smog - Knock Knock (1999-01-12)
@@ -114,7 +117,7 @@ Broadcast - The Noise Made by People (2000-03-20)
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, piano" role="button">
+<li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/662c6d90-7244-4cba-9841-f11704995e6b/2579434865-500.jpg" data-tags="emo" role="button">
@@ -153,9 +156,6 @@ Sufjan Stevens - Seven Swans (2004-03-16)
 <li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
-<li data-cover="https://img.discogs.com/IUnlfISlMxPX-VUpEFYyOit9Ous=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-626319-1495180521-5734.mpo.jpg" data-tags="psychedelic rock" role="button">
-Dungen - Ta det lugnt (2004-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/8f46f90f-b5e5-443d-bb0f-40151764a950/4043627444-500.jpg" data-tags="trance, electronic, goa, psytrance" role="button">
 Juno Reactor - Labyrinth (2004-09-29)
 </li>
@@ -164,6 +164,9 @@ Culture Club - Greatest Hits (2005)
 </li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, bossa nova, latin, dramatic, intimate, samba, sophisticated, guitar virtuoso, summery, enigmatic, international, brazilian jazz, bright, samba cancao, bresil, brazilian traditions, global jazz" role="button">
+Luiz Bonfá - Solo in Rio 1959 (2005)
 </li>
 <li data-cover="https://img.discogs.com/N4mvgD15YeHivGbIYMtVpCzxz08=/fit-in/292x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243440-1285590526.jpeg.jpg" data-tags="indie rock, indie" role="button">
 British Sea Power - Open Season (2005-03-30)
@@ -179,6 +182,9 @@ Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="https://img.discogs.com/BLDys9EW5ZBJTLCPLsVhqGWNTWA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1823932-1245786549.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/cec076e7-e6f3-4a0c-8b3d-907dd0f2f2d3/3246614950-500.jpg" data-tags="pitchfork top albums 2005" role="button">
+Silver Jews - Tanglewood Numbers (2005-10-05)
 </li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
@@ -267,14 +273,8 @@ Robyn - Body Talk (2010-11-22)
 <li data-cover="https://img.discogs.com/lnbpDTN0xZ_UFcLRkuJzqvdVGN8=/fit-in/270x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067295-1262075607.png.jpg" data-tags="my gang 11" role="button">
 The Go! Team - Rolling Blackouts (2011-01-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/216dc68b-c7db-4c5f-b054-753d6d3fd1d1/12911239802-500.jpg" data-tags="black metal, metal" role="button">
-Liturgy - Aesthethica (2011-05-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
-</li>
-<li data-cover="https://img.discogs.com/3I59Z86o81mIRB7n8i02pWtpY24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541257-1465358987-5424.jpeg.jpg" data-tags="country, hell on heels" role="button">
-Pistol Annies - Hell On Heels (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e4aff7-f1cf-48ce-a1aa-7df074c5ebd8/1940757230-500.jpg" data-tags="female vocalists, indie" role="button">
 Florence + the Machine - What the Water Gave Me (2011-08-23)

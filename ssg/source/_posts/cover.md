@@ -1,11 +1,11 @@
 ---
-date: 2021-04-04T21:33:01.283Z
+date: 2021-04-05T02:33:01.515Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/58186008-1efd-4c79-8658-65e58ef1be4c/5646849448-500.jpg" data-tags="instrumental, cover, symphonic metal, metal, cello" role="button">Apocalyptica - Plays Metallica By Four Cellos (1996)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="covers" role="button">Cat Power - The Covers Record (2000-03-10)</li>
+<li data-cover="https://img.discogs.com/Ntqb_aIA0zir6JoDFEDEYm9Crzs=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130448-1308770059.jpeg.jpg" data-tags="covers" role="button">Cat Power - The Covers Record (2000-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, 80s, synthpop" role="button">
-Pet Shop Boys - Introspective (1988-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/eeafb0aa-d6ef-48bc-b030-d9cb856e387a/26742132095-500.jpg" data-tags="90s" role="button">
 Yo La Tengo - Fakebook (1990)
 </li>
@@ -75,7 +72,7 @@ Tom Jones - Reload (1999-09-09)
 <li data-cover="http://coverartarchive.org/release/5cfe5238-649e-492a-9335-863783cb9c5b/15454353410-500.jpg" data-tags="jazz, george michael" role="button">
 George Michael - Songs from the Last Century (1999-12-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="covers" role="button">
+<li data-cover="https://img.discogs.com/Ntqb_aIA0zir6JoDFEDEYm9Crzs=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130448-1308770059.jpeg.jpg" data-tags="covers" role="button">
 Cat Power - The Covers Record (2000-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b3d9bef-c686-4656-a19e-d46040af1db5/15841193375-500.jpg" data-tags="pop punk" role="button">
@@ -84,7 +81,7 @@ New Found Glory - From The Screen To Your Stereo (2000-03-28)
 <li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
 Built to Spill - Live (2000-04-18)
 </li>
-<li data-cover="https://img.discogs.com/QW2VRv66xlRbJB1DIDTBytypE38=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8756705-1519582678-1405.jpeg.jpg" data-tags="death metal" role="button">
+<li data-cover="https://img.discogs.com/2nFR611ZN3rcXnw1SE3kDjVg-5U=/fit-in/600x413/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9409314-1480069976-7900.jpeg.jpg" data-tags="death metal" role="button">
 Six Feet Under - Graveyard Classics (2000-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
@@ -146,6 +143,9 @@ Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)
 </li>
 <li data-cover="https://img.discogs.com/0XxcJs-SQFccsPcgqwF21-1sD_A=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602995-1141754942.jpeg.jpg" data-tags="acoustic, cover, soft, accoustic, my record collection, josegonzales" role="button">
 José González - Heartbeats (2006-01-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e83ea65-df0b-431a-9c62-42a5b53f9ce2/8213237332-500.jpg" data-tags="cover" role="button">
+Tortoise & Bonnie "Prince" Billy - The Brave And The Bold (2006-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd9b5d63-d021-490e-ba53-3c1717fd0a8e/9167672848-500.jpg" data-tags="blues, blues covers, fat possum" role="button">
 The Black Keys - Chulahoma (2006-05-02)

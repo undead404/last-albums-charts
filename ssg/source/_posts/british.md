@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:53:01.304Z
+date: 2021-04-05T01:52:01.373Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -27,13 +27,16 @@ The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock" role="button">
+The Beatles - Let It Be (1970-05-08)
+</li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">
 The Stone Roses - The Stone Roses (1989-04)
 </li>
-<li data-cover="https://img.discogs.com/-t_yW2APNnohJ-C_nDFMMCcKRsg=/fit-in/587x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2744720-1381875626-3342.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+<li data-cover="https://img.discogs.com/SbiREqGVqtJpp9IWTupHfJ06aZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13068383-1547486816-4724.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
@@ -279,9 +282,6 @@ Jessie J - Who You Are (2011-02-28)
 <li data-cover="http://coverartarchive.org/release/0aa504b0-fcd0-4238-9227-06f716c63947/6574183605-500.jpg" data-tags="british, indie rock" role="button">
 Miles Kane - Colour Of The Trap (2011-05-02)
 </li>
-<li data-cover="https://img.discogs.com/vjwVB4XXn3Y3-5HLULMX4DE4uXU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12606672-1538485792-3152.jpeg.jpg" data-tags="indie, british" role="button">
-The Kooks - Junk of the Heart (2011-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
 </li>
@@ -293,9 +293,6 @@ Coldplay - Mylo Xyloto (2011-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
-</li>
-<li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
-Arctic Monkeys - Suck It and See (2011-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2b9813-5cc3-4408-b222-2a3f5b0768f6/4081358348-500.jpg" data-tags="british, folk" role="button">
 Birdy - Birdy (2011-11-07)
@@ -311,6 +308,9 @@ Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c6480be-d53a-4c46-bb7c-c5187ab99ff5/8207839327-500.jpg" data-tags="indie, british" role="button">
+The Kooks - Listen (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)
