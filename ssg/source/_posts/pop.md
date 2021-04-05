@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:20:01.540Z
+date: 2021-04-05T05:18:01.376Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -78,9 +78,6 @@ Jesse McCartney - Beautiful Soul (2004-08-12)
 <li data-cover="https://img.discogs.com/qkvDofuDAKamlVevQ6NpGVxtJCY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567304-1132414198.jpeg.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - Unwritten (2004-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/27d2ccc7-c263-498b-9f05-ad6c511829b9/21658064503-500.jpg" data-tags="pop" role="button">
-Britney Spears - Greatest Hits: My Prerogative (2004-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
@@ -114,6 +111,9 @@ James Morrison - Undiscovered (2006-07-31)
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
+Beyoncé - B'Day (2006-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
 Gwen Stefani - The Sweet Escape (2006-12-01)
 </li>
@@ -140,6 +140,9 @@ Sara Bareilles - Little Voice (2007-07-03)
 </li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+Britney Spears - Blackout (2007-10-25)
 </li>
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
@@ -246,7 +249,7 @@ Katy Perry - Teenage Dream (2010-08-24)
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
 </li>
-<li data-cover="https://img.discogs.com/tNOtLmMEoCq5oM4CR-y2BdyrYWc=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9156882-1612598557-2739.jpeg.jpg" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/2-R0Ld1_9SzXqKBomZqtyOoAofQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8820861-1469469848-2185.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Speak Now (2010-10-25)
 </li>
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="pop, dance" role="button">
@@ -272,9 +275,6 @@ Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
-</li>
-<li data-cover="https://img.discogs.com/GKib7ra9RQBS0JoQDLJmYGD2isM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9374462-1479469272-1275.jpeg.jpg" data-tags="electronic, dance" role="button">
-Avicii - Levels (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">
 Rihanna - Talk That Talk (2011-11-18)

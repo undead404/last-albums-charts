@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:19:01.316Z
+date: 2021-04-05T05:16:06.724Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -114,6 +114,9 @@ Nelly Furtado - Loose (2006-06-07)
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
+Beyoncé - B'Day (2006-08-29)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
 </li>
@@ -141,6 +144,12 @@ Metro Station - Metro Station (2007-09-18)
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+Britney Spears - Blackout (2007-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/c253de39-d431-3576-8471-a94d72edc3fa/16785422694-500.jpg" data-tags="pop, dance" role="button">
+Kylie Minogue - X (2007-11-21)
+</li>
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
@@ -149,9 +158,6 @@ Kelly Rowland - Work (2008-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">
 Cut Copy - In Ghost Colours (2008-03-22)
-</li>
-<li data-cover="https://img.discogs.com/4T2QJIfBUdOU4k2Bg-x7PNP3VDw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4206131-1358553230-4089.jpeg.jpg" data-tags="electronic" role="button">
-The Presets - Apocalypso (2008-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e36207e-afe8-4f0b-86fe-11df04332743/9668913960-500.jpg" data-tags="pop" role="button">
 Madonna - Hard Candy (2008-04-25)
@@ -204,9 +210,6 @@ deadmau5 - For Lack of a Better Name (2009-09-22)
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">
 Selena Gomez & the Scene - Kiss & Tell (2009-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/05a6a896-ac01-3c38-9e18-837c51e4b2fc/26334511184-500.jpg" data-tags="pop, dance" role="button">
-Britney Spears - 3 (2009-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
 Shakira - She Wolf (2009-10-09)
 </li>
@@ -224,9 +227,6 @@ Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">
-Enrique Iglesias - Euphoria (2010-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)

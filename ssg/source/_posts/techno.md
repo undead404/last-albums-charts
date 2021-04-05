@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:20:02.084Z
+date: 2021-04-05T04:49:01.435Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -29,9 +29,6 @@ The Future Sound of London - Accelerator (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/add1a7a9-670a-4338-ab75-7e87465ee01b/23436390503-500.jpg" data-tags="techno, electronic" role="button">
 LFO - Frequencies (1991-07-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f315e99-933f-4891-abb9-0b33757a3e08/28961245825-500.jpg" data-tags="techno" role="button">
-Moby - Moby (1992-06)
 </li>
 <li data-cover="https://img.discogs.com/z54mf66uPKA31KXdKQl5b-9QONA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657214-1234996679.jpeg.jpg" data-tags="electronic, breakbeat, rave, techno" role="button">
 The Prodigy - Experience (1992-09-21)
@@ -69,7 +66,7 @@ Orbital - In Sides (1996-03)
 <li data-cover="http://coverartarchive.org/release/91c4f715-6327-4057-beda-031a32e5d707/5345049101-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - Second Toughest in the Infants (1996-03-04)
 </li>
-<li data-cover="https://img.discogs.com/A31dygA25l3JZaQ4LmESWf5R6gQ=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106716-1169815867.jpeg.jpg" data-tags="electronic, techno, electronica" role="button">
+<li data-cover="https://img.discogs.com/WV8r1hxh4Ekgc3SnT9ZFrF_rQEY=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-57002-1369870508-3881.jpeg.jpg" data-tags="electronic, techno, electronica" role="button">
 Underworld - Pearl's Girl (1996-05-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
@@ -89,6 +86,9 @@ The Prodigy - The Fat Of The Land (1997-06-30)
 </li>
 <li data-cover="https://img.discogs.com/KZIWKEacVnSO0weDD_3RgbHiiGQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3113949-1316431273.jpeg.jpg" data-tags="electronic, electronica, techno" role="button">
 Moby - I Like to Score (1997-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/44d079fa-5ecc-4a02-b5d5-fd37f98e6f8b/4655099055-500.jpg" data-tags="techno" role="button">
+Scooter - No Time to Chill (1998-07-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="breakbeat" role="button">
 Bomfunk MC's - In Stereo (1999)
@@ -122,9 +122,6 @@ Daft Punk - Discovery (2001-02-26)
 </li>
 <li data-cover="https://img.discogs.com/dwUp27qEL88PzCYRgc2iUrDGMlc=/fit-in/464x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7045755-1437218119-3187.png.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Come With Us (2002-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cd0c7a7-cb6f-4753-b2e5-f29ca120e87b/4599270957-500.jpg" data-tags="trance" role="button">
-DJ Sammy - Heaven (2002-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
@@ -162,7 +159,7 @@ Daft Punk - Human After All (2005-03-09)
 <li data-cover="https://img.discogs.com/9ZGqCrRnBpYLH9e34YgP3h0IB7c=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6286569-1438926263-1019.jpeg.jpg" data-tags="electronic, electro" role="button">
 Vitalic - OK Cowboy (2005-04-04)
 </li>
-<li data-cover="https://img.discogs.com/S688Ot5CeRqIzeqt6V21COEqC2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12557676-1537612593-3353.jpeg.jpg" data-tags="electronic, techno, minimal" role="button">
+<li data-cover="https://img.discogs.com/6Ttp5OPuMz_hxK-8mw_vP3t0A70=/fit-in/454x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-469993-1118248432.jpg.jpg" data-tags="electronic, techno, minimal" role="button">
 Oliver Koletzki - Der Mückenschwarm (2005-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/54d97e69-69cb-4d83-923b-adcb5179d2b9/3985038465-500.jpg" data-tags="electronic, minimal" role="button">
@@ -293,6 +290,9 @@ Clark - Iradelphic (2012-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a20caa4-0c92-4a93-ae11-953c30b78267/18765648315-500.jpg" data-tags="electronic, techno, dub techno" role="button">
+Andy Stott - Luxury Problems (2012-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d59c9abd-b825-4aa7-b270-c86598ba73d0/3670901622-500.jpg" data-tags="electronic" role="button">
 DJ Koze - Amygdala (2013-03-22)

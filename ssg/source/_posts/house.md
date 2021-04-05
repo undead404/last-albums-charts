@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:35:01.342Z
+date: 2021-04-05T05:00:01.342Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -53,6 +53,9 @@ Mr. Oizo - Flat Beat (1999-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/af94b45e-7f1f-3789-a04f-e990501c4833/9608980039-500.jpg" data-tags="electronic, house" role="button">
 Basement Jaxx - Remedy (1999-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/d52d6d37-f6cb-417d-b32a-284222400fac/8042015899-500.jpg" data-tags="chillout, electronic" role="button">
+Groove Armada - Vertigo (1999-05-24)
 </li>
 <li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
@@ -225,9 +228,6 @@ Benny Benassi - Electroman (2011-06-07)
 <li data-cover="http://coverartarchive.org/release/552d6679-bcb8-43ff-87f0-49bdd91ba44d/7565515877-500.jpg" data-tags="electronic, house" role="button">
 Digitalism - I Love You, Dude (2011-06-17)
 </li>
-<li data-cover="https://img.discogs.com/O_YLFoHps1L9t86KZJv5fNuLkSI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4004913-1352042722-3624.jpeg.jpg" data-tags="house" role="button">
-Martin Solveig - Smash (2011-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg" data-tags="dubstep" role="button">
 SBTRKT - SBTRKT (2011-06-27)
 </li>
@@ -245,9 +245,6 @@ David Guetta - Nothing but the Beat 2.0 (2011-08-24)
 </li>
 <li data-cover="https://img.discogs.com/eIDxMJGvk7zOAU0aOmRbfHX0c0w=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275403-1606596468-9054.jpeg.jpg" data-tags="electropop, indie rock, alternative dance, dfa" role="button">
 The Rapture - In the Grace of Your Love (2011-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/88ffbbe2-bcce-4bfd-912d-2d1998173e4a/11697782536-500.jpg" data-tags="dubstep, electronic, electro house" role="button">
-Porter Robinson - Spitfire (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
@@ -284,6 +281,9 @@ Daphni - Jiaolong (2012-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/3635ce51-ff95-4656-a8d0-3931a09573aa/7045624028-500.jpg" data-tags="house" role="button">
 Swedish House Mafia - Until Now (2012-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b1b8672-c7ab-4284-9ba3-9bdb9706ae9d/4393928338-500.jpg" data-tags="chillout, house, disco house, to, so" role="button">
+Chris Malinchak - So Good to Me (2012-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="2012" role="button">
 Calvin Harris - 18 Months (2012-10-26)

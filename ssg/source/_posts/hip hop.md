@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:33:01.302Z
+date: 2021-04-05T05:39:01.361Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -71,9 +71,6 @@ Nas - It Was Written (1996-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5992a7fd-6ade-3895-827a-a7dfdf6ebb51/26921224002-500.jpg" data-tags="1996, electronic, hip-hop" role="button">
 DJ Shadow - Endtroducing..... (1996-09-16)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip hop" role="button">
-The Roots - Illadelph Halflife (1996-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
 Will Smith - Big Willie Style (1997-11-24)
@@ -320,5 +317,8 @@ Run the Jewels - Run the Jewels 2 (2014-10-24)
 </li>
 <li data-cover="https://img.discogs.com/8tV-jeGS-LkKSw-b1Auxivn7HZI=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6900964-1549092882-5261.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
 Nicki Minaj - The Pinkprint (2014-12-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
+Rae Sremmurd - SremmLife (2015-01-06)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:54:01.263Z
+date: 2021-04-05T05:23:06.750Z
 title: "technical death metal: 100 albums you must listen to before you die"
 ---
 ![Death - Symbolic (1995-03-21)](http://coverartarchive.org/release/321a3c33-9310-4b9f-b104-762e465ec60f/19740394528-500.jpg "Death - Symbolic (1995-03-21)")
@@ -168,9 +168,6 @@ Beneath the Massacre - Mechanics of Dysfunction (2007-02-20)
 <li data-cover="https://img.discogs.com/XdqLJmvm2bPOEIAp6G5hA8ECRbU=/fit-in/483x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-922770-1388153901-4381.jpeg.jpg" data-tags="death metal" role="button">
 Dying Fetus - War of Attrition (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/024c3656-3151-3068-96bd-06f3706ce81b/23535428008-500.jpg" data-tags="death metal" role="button">
-Vital Remains - Icons Of Evil (2007-04-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/35985e83-a02d-46e4-a71d-808d4d7ea3e6/27198261885-500.jpg" data-tags="death metal, grindcore" role="button">
 Cephalic Carnage - Xenosapien (2007-05-29)
 </li>
@@ -278,6 +275,9 @@ Childish Gambino - Camp (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/99c84ccf-8593-483f-9f3c-e7f16a6a0ddc/8684736002-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Fallujah - The Harvest Wombs (2011-11-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/df74836c-447a-44d1-a9e3-b737a06a8d2c/21814797648-500.jpg" data-tags="technical death metal" role="button">
+Spawn of Possession - Incurso (2012-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b46b9b39-7d56-4e00-ba33-d8bf8fc59889/3235678346-500.jpg" data-tags="progressive metal" role="button">
 Meshuggah - Koloss (2012-03-23)

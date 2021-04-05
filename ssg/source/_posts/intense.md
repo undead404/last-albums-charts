@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:59:01.291Z
+date: 2021-04-05T05:22:01.293Z
 title: "intense: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -30,7 +30,7 @@ Miles Davis - Bitches Brew (1970)
 <li data-cover="http://coverartarchive.org/release/a3e5370f-28e0-488c-b5d1-6f5e2b73ceec/3683681968-500.jpg" data-tags="vocal, jazz, sad, torch songs, vocal jazz, blues, reflective, passionate, melancholy, organic, intense, confident, aggressive, fiery, freewheeling, provocative, uncompromising, dramatic, bittersweet, introspection, intimate, earthy, elegant, standards, yearning, sophisticated, poignant, autumnal, autumn, delicate, brooding, feeling blue, empowerment, gritty, volatile, refined, theatrical, difficult, plaintive, austere, ambitious, rca victor, simone, gammarec, dr nina simone, freepurp1e, modern jazz vocals" role="button">
 Nina Simone - Black Gold (1970)
 </li>
-<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, druggy, folk-rock, intense, fiery, fractured, trippy, paranoid, autumnal, manic, brooding, eccentric, wistful, volatile, brittle, maverick" role="button">
@@ -39,19 +39,19 @@ Ted Lucas - Ted Lucas (1975-10-25)
 <li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
 Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://img.discogs.com/NseMBmtrdlnhg6TNWfpXgsYslaU=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5152641-1385919652-9267.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
+<li data-cover="https://img.discogs.com/-uQXTgptD9DRrPLeTdC3bvjg8Tk=/fit-in/600x370/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14120305-1568218368-3661.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
 Lou Reed - New Sensations (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/941d8ace-2faf-46de-a77b-dff1a063e2ce/28587380435-500.jpg" data-tags="rock, uk, country-rock, passionate, literate, melancholy, fierce, intense, confrontational, earnest, wry, dramatic, bittersweet, intimate, elegant, yearning, sophisticated, autumnal, sympathy68, emusic, nocturnal, brooding, sentimental, acerbic, weary, bleak, theatrical, ambitious, m faithfull, lauraann163" role="button">
 Marianne Faithfull - Rich Kid Blues (1985)
 </li>
-<li data-cover="https://img.discogs.com/KY5HF-kik_0L1WVZ1-4Am7_Hr78=/fit-in/500x975/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4065480-1365638023-9249.jpeg.jpg" data-tags="robert palmer" role="button">
+<li data-cover="https://img.discogs.com/JbDOJ-lPd8GLyo26dkqZD_9pdA4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533200-1572403506-7379.jpeg.jpg" data-tags="robert palmer" role="button">
 Robert Palmer - Riptide (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
 R.E.M. - Lifes Rich Pageant (1986-07-28)
 </li>
-<li data-cover="https://img.discogs.com/w8diz5YoUxWV59Xg236HyKpSmRk=/fit-in/280x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1451301-1340758392-7222.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
+<li data-cover="https://img.discogs.com/DWDDxYRoH5-1_AQ9NrCYFiaK7pc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667536-1471605208-1041.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 </li>
 <li data-cover="https://img.discogs.com/ZvMMEHPiNjXM13TgFELnL2SKlhk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600698-1137035784.jpeg.jpg" data-tags="rock" role="button">
@@ -62,9 +62,6 @@ The Animals - The Complete Animals (1990-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc8d4f67-b395-4675-b668-7a067e574ae6/22507217638-500.jpg" data-tags="grunge, riot grrrl, 1994" role="button">
-L7 - Hungry for Stink (1994-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
 Dinosaur Jr. - Without a Sound (1994-08-01)
@@ -117,7 +114,7 @@ Ludacris - Back For The First Time (2000-10-17)
 <li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
 John Frusciante - To Record Only Water For Ten Days (2001-02-13)
 </li>
-<li data-cover="https://img.discogs.com/KUhhFJ6QRaMquXb4TG38FaAe9_g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680208-1240508379.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/RWtrCfF6nCrrt3rNcF1ivzYF7W0=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289844-1327093892.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
@@ -144,7 +141,7 @@ Against Me! - As the Eternal Cowboy (2003-11-04)
 <li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
 Low - The Great Destroyer (2004)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -291,7 +288,10 @@ Chromatics - Kill for Love (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/09fade80-bd8a-4c08-9a00-cf1dcc7bc91c/9068009686-500.jpg" data-tags="dreamy, relaxed, reflective, whimsical, passionate, introspective, spiritual, intense, dramatic, reflection, hypnotic, intimate, uplifting, meditative, precious, cerebral, relaxation, lively, shimmering, knotty, daydreaming, sony music, flying buddha, livesoncoffee-getit" role="button">
 Hiatus Kaiyote - Tawk Tomahawk (2012-04-01)
 </li>
-<li data-cover="https://img.discogs.com/SialTdLqfIVngta-WfhyvKRLeMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826540-1345940532-4427.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, vinyl, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
+<li data-cover="http://coverartarchive.org/release/3686162c-6a36-47ce-b6fe-18a4bb41a0ca/2805738352-500.jpg" data-tags="experimental, experimental hip-hop, experimental hip hop" role="button">
+Death Grips - The Money Store (2012-04-13)
+</li>
+<li data-cover="https://img.discogs.com/SialTdLqfIVngta-WfhyvKRLeMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826540-1345940532-4427.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
 Dan Deacon - America (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffa84772-242d-4e86-b18c-d4a333a9242e/5338540959-500.jpg" data-tags="trance" role="button">

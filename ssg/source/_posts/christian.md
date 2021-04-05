@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:01:01.292Z
+date: 2021-04-05T05:24:01.293Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -90,7 +90,7 @@ Skillet - Collide (2003-11-18)
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
 Emery - The Weak's End (2004-01-27)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
@@ -195,9 +195,6 @@ As I Lay Dying - An Ocean Between Us (2007-08-21)
 <li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - Plagues (2007-08-21)
 </li>
-<li data-cover="https://img.discogs.com/SHD0Wk_ObbWZNSXgkyEN8OX0ygA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7321066-1438828737-7553.jpeg.jpg" data-tags="rock, christian, contemporary christian, discoverockult" role="button">
-Robbie Seay Band - Give Yourself Away (2007-08-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/82d3592b-2745-4175-b71f-cab0ac6d2cc1/9025593466-500.jpg" data-tags="christian rock, contemporary christian, christian" role="button">
 Casting Crowns - The Altar and The Door (2007-08-28)
 </li>
@@ -254,6 +251,9 @@ August Burns Red - Constellations (2009-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a889c4bc-eb48-433e-a249-611ce2d8a5ea/15536962713-500.jpg" data-tags="metalcore" role="button">
 Confide - Shout The Truth (2009-08-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/68453bb1-969e-4960-8eaf-a2a1a35306eb/16546439880-500.jpg" data-tags="acoustic, christian, discoverockult, tyde moore radio" role="button">
+NEEDTOBREATHE - The Outsiders (2009-08-24)
 </li>
 <li data-cover="https://img.discogs.com/WJcbBkWtLJzEhYalcvG8wpD2H_k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1960413-1255130824.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Oh, Sleeper - Son Of The Morning (2009-08-25)

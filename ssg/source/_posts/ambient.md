@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:00:01.401Z
+date: 2021-04-05T05:09:01.419Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -69,6 +69,9 @@ Boards of Canada - Hi Scores (1996-12-09)
 <li data-cover="https://img.discogs.com/4opvcXLy8bbXDmILdXxVQkmzQlM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-r_122593-001.jpg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
+<li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
+Smoke City - Flying Away (1997-06-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
@@ -80,6 +83,9 @@ Moby - Play (1999-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd/9767397785-500.jpg" data-tags="chillout, electronic, downtempo, ambient" role="button">
+Peace Orchestra - Peace Orchestra (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cf540c3-fed6-3e22-9b9c-404927874050/2835781208-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - How Strange, Innocence (2000-01-17)
@@ -156,9 +162,6 @@ Air - Talkie Walkie (2004-01-21)
 <li data-cover="https://img.discogs.com/TntSDuGQXlbBnS7o3Jr44SA9rdQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244778-1458760798-4830.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg" data-tags="post-classical, contemporary classical, neoclassical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-Max Richter - The Blue Notebooks (2004-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/a402de73-a281-31ea-bcac-e747ea9ca7cc/21363838332-500.jpg" data-tags="electronic, ambient" role="button">
 Orbital - Blue Album (2004-06-21)
 </li>
@@ -206,9 +209,6 @@ Eluvium - Copia (2007-02-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Amiina - Kurr (2007-03-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
-Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
