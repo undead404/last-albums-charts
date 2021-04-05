@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:43:01.322Z
+date: 2021-04-05T15:56:01.326Z
 title: "cathartic: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ffee886d-62d8-4bb3-a80c-82817020a1d8/3706327795-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Time Fades Away (1973-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
+Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="https://img.discogs.com/8NqNnwTW0-Y7pkW9IykrYjwa4EA=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321861-1462013452-9042.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
@@ -213,9 +216,6 @@ Gossip - Standing in the Way of Control (2005)
 <li data-cover="https://img.discogs.com/N4mvgD15YeHivGbIYMtVpCzxz08=/fit-in/292x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243440-1285590526.jpeg.jpg" data-tags="indie rock, indie" role="button">
 British Sea Power - Open Season (2005-03-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/8229113f-641b-3333-bd9e-faa23c4f75ef/12368351534-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
-Aimee Mann - The Forgotten Arm (2005-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)
 </li>
@@ -315,10 +315,10 @@ Eliot Sumner - Information (2014-08-05)
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/9402055f-3c29-437f-873a-1e0635c2028c/8775735119-500.jpg" data-tags="post-rock" role="button">
-Mono - Rays of Darkness (2014-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd6358fb-084f-46c6-810d-9a3085095318/9043181228-500.jpg" data-tags="indie rock, thoughtful, energetic, searching, reflective, passionate, explosive, confident, aggressive, dramatic, introspection, majestic, strong, yearning, powerful, triumphant, bombastic, thrilling, defiant, empowerment, cathartic, suspenseful, desperate, elaborate, visceral, sprawling, urgent, boisterous, ambitious, affirmation, serious, relationships, animated, everyday life, outraged, mighty" role="button">
 Restorations - LP3 (2014-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d49f64c-ac5a-4d94-8486-6aceaba59046/8701541128-500.jpg" data-tags="indie rock, 2015 releases" role="button">
+Sleater-Kinney - No Cities to Love (2015-01-14)
 </li>
 </ol>

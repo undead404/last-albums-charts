@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:57:01.298Z
+date: 2021-04-05T15:58:01.331Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![She Wants Revenge - She Wants Revenge (2005-12-13)](http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg "She Wants Revenge - She Wants Revenge (2005-12-13)")
@@ -207,8 +207,8 @@ The Crüxshadows - Ethernaut (2003-11-04)
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg" data-tags="industrial, ebm" role="button">
-Combichrist - Everybody Hates You (2005-02-21)
+<li data-cover="http://coverartarchive.org/release/a15b234a-7564-36a1-ada8-ba3f1a3c3138/7000808882-500.jpg" data-tags="darkwave" role="button">
+Diary of Dreams - Nigredo (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5ff0d70-f6e0-43be-bd5e-bb4db2a64889/3166613483-500.jpg" data-tags="darkwave" role="button">
 Deine Lakaien - April Skies (2005-03-14)

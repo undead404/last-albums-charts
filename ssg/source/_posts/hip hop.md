@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:35:01.478Z
+date: 2021-04-05T16:03:01.325Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -59,9 +59,6 @@ The Pharcyde - Labcabincalifornia (1995-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">
-2Pac - All Eyez on Me (1996-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
 Nas - It Was Written (1996-07-01)
@@ -149,6 +146,9 @@ Omarion - O (2005-02-22)
 </li>
 <li data-cover="https://img.discogs.com/Bd2F0VtwjfQmcKiJxCS3LtP3fAs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10446978-1570403161-3128.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
+50 Cent - The Massacre (2005-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)

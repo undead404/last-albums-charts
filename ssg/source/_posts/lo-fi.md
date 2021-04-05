@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:40:01.399Z
+date: 2021-04-05T16:39:01.329Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)](http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg "Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://img.discogs.com/CcjPgehxKKmnpj9yKdrvrHTN_1o=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660081-1410118023-7025.jpeg.jpg" data-tags="lo-fi, 90s" role="button">
+<li data-cover="https://img.discogs.com/ZTY1Wn37CYHrZfrfqyiTqGhd9gU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1705000-1468395690-4240.jpeg.jpg" data-tags="lo-fi, 90s" role="button">
 Daniel Johnston - 1990 (1990-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c89d898-e5f2-4685-a6b3-9431e69d149d/10672925625-500.jpg" data-tags="90s, indie rock" role="button">
@@ -63,7 +63,7 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/e61f4d70-f7dc-3ac9-b1c6-69eeab74a263/28389930977-500.jpg" data-tags="indie rock, indie" role="button">
 Pavement - Brighten the Corners (1997-01-08)
 </li>
-<li data-cover="https://img.discogs.com/RfwYr-DoPVohJSbfqKRoUOxJVzk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675399-1424382705-4783.jpeg.jpg" data-tags="britpop" role="button">
+<li data-cover="https://img.discogs.com/19Ohn_Om1CiWhELG3lzXVkC8F-M=/fit-in/600x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5351520-1391257193-7836.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur (1997-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
@@ -75,7 +75,7 @@ Bright Eyes - Letting Off the Happiness (1998-09-02)
 <li data-cover="https://img.discogs.com/ao63WS3XQIJ0lXjA6niQ-_Df8cI=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6251355-1438338265-1581.jpeg.jpg" data-tags="indie pop" role="button">
 The Magnetic Fields - 69 Love Songs (1999-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica, vinyl" role="button">
+<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
 The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
@@ -90,13 +90,13 @@ The Mountain Goats - All Hail West Texas (2002-02-19)
 <li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
 The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
@@ -234,9 +234,6 @@ Cults - Cults (2011-05-30)
 <li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">
 Clams Casino - Rainforest (2011-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/299589a0-fe31-4dd8-b343-fe362f9a3dbf/15701340234-500.jpg" data-tags="indie pop, indie rock" role="button">
-Unknown Mortal Orchestra - Unknown Mortal Orchestra (2011-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
 </li>
@@ -281,6 +278,9 @@ The Antlers - Undersea (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
 Mac DeMarco - 2 (2012-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/9eb5d651-ebf5-438b-a025-65c621c50782/11665155343-500.jpg" data-tags="lo-fi, lo-fi indie, depressing indie bullshit" role="button">
+Alex G - TRICK (2012-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6f44f26-f8ec-4c0b-a4ba-b4211cb95f26/13489057096-500.jpg" data-tags="indie rock" role="button">
 Unknown Mortal Orchestra - II (2013-02-04)
