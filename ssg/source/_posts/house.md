@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:33:01.415Z
+date: 2021-04-05T20:20:01.390Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -123,6 +123,9 @@ Justice - Justice (2005-08-02)
 <li data-cover="http://coverartarchive.org/release/2608235d-85a1-4361-8d15-14569ad61b9a/7227622788-500.jpg" data-tags="house" role="button">
 Bob Sinclar - Western Dream (2006-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/fcc15e13-55f9-4e65-a19d-d1649e4a8985/3596711954-500.jpg" data-tags="electronic, electro" role="button">
+MSTRKRFT - The Looks (2006-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac11d670-4254-4769-81e7-8891ad4fde4f/25025769283-500.jpg" data-tags="electro, dance, house" role="button">
 Fedde Le Grand - Put Your Hands Up For Detroit (2006-10-23)
 </li>
@@ -137,6 +140,9 @@ David Guetta - Pop Life (2007-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">
 Kanye West - Stronger (2007-07-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/250e7379-67ab-42db-a101-023269183bdf/5499913556-500.jpg" data-tags="electronic, electro" role="button">
+Danger - 09/14 2007 (2007-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f08b488c-7526-4c7f-8e12-5a317cf600b7/16531192090-500.jpg" data-tags="electronic" role="button">
 Moby - Last Night (2008-03-13)
@@ -210,9 +216,6 @@ Feed Me - Feed Me's Big Adventure (2010-12-25)
 <li data-cover="http://coverartarchive.org/release/7cb3d98c-83d9-406e-99be-1a010f92929b/6426974407-500.jpg" data-tags="dance, house, saxophone, i love it, saxobeat, alexandra stan, el vrother, danial" role="button">
 Alexandra Stan - Mr. Saxobeat (2011-02-14)
 </li>
-<li data-cover="https://img.discogs.com/EpRvGueOxq-8gObb3dhLJ8bWabs=/fit-in/521x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072615-1314599825.jpeg.jpg" data-tags="pop, dance" role="button">
-Havana Brown - We Run the Night (2011-04-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f7c2d8a-2fdb-498c-9470-f3f0a4d38d43/2411561207-500.jpg" data-tags="electronic, house, electro house, 10s, edm, complextro, sun and moon and stars and outer space" role="button">
 Feed Me - To The Stars (2011-05-27)
 </li>
@@ -284,9 +287,6 @@ Daft Punk - Random Access Memories (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">
 Avicii - True (2013-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
-Trentemøller - Lost (2013-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/439a15ad-b0f4-46a9-bd7a-923e2af1283f/5446427490-500.jpg" data-tags="house, idm" role="button">
 Daniel Avery - Drone Logic (2013-10-07)

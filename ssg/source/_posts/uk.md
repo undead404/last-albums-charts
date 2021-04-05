@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:55:02.277Z
+date: 2021-04-05T19:52:01.372Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, 60s, glam rock" role="button">
+<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
 David Bowie - Space Oddity (1969-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/17e2b2bf-2ccc-4592-9b32-d4fdf7d9423a/7297450107-500.jpg" data-tags="classic rock, rock, soft rock" role="button">
@@ -66,17 +66,11 @@ Radiohead - My Iron Lung (1994-09-26)
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
-Jamiroquai - Travelling Without Moving (1996-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
 </li>
 <li data-cover="https://img.discogs.com/8EMQHLE5h6CzSausqSsp7PjbqCc=/fit-in/600x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9475836-1513592451-2145.jpeg.jpg" data-tags="progressive rock, uk, symphonic rock, 90s, compilation, laptop, english group, t m blues" role="button">
 The Moody Blues - The Very Best of The Moody Blues (1996-10-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
-Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">
 Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
@@ -116,6 +110,9 @@ The Beta Band - Hot Shots II (2001-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
 Lamb - What Sound (2001-10-08)
+</li>
+<li data-cover="https://img.discogs.com/JYweVK-MP3wZ3FKa9znVYZ8HtjU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-665319-1214141347.jpeg.jpg" data-tags="britpop" role="button">
+Blur - Think Tank (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
@@ -164,6 +161,9 @@ Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
+Oasis - Stop the Clocks (2006-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)

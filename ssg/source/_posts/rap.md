@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:25:01.369Z
+date: 2021-04-05T20:33:01.436Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -93,6 +93,9 @@ The Notorious B.I.G. - Life After Death (1997-03-25)
 <li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
 Will Smith - Big Willie Style (1997-11-24)
 </li>
+<li data-cover="https://img.discogs.com/i3Plihomtgk6DMmhTt8bs2BjIxo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2051207-1597799463-5023.jpeg.jpg" data-tags="rap, dmx" role="button">
+DMX - It's Dark And Hell Is Hot (1998-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
 </li>
@@ -137,9 +140,6 @@ Clipse - Lord Willin' (2002-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b9a30a1-9a94-49dd-a004-a7ee5c38126b/16759780312-500.jpg" data-tags="rap, nelly" role="button">
 Nelly - Nellyville (2002-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/6a9eed90-52b8-3b50-a04b-a7f0370ca32c/23646585321-500.jpg" data-tags="rap, hip-hop" role="button">
-Missy Elliott - Under Construction (2002-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/912b3373-5da4-4386-817a-38ba4d3865aa/4657231218-500.jpg" data-tags="rap, rnb, hip hop, akon" role="button">
 Akon - Trouble (2003)

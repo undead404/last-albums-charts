@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:41:01.787Z
+date: 2021-04-05T20:41:01.517Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -21,14 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/d20a18df-c71f-484c-8d41-fdea1abb1f26/18584699933-500.jpg" data-tags="minimalism" role="button">
 Steve Reich - Music for 18 Musicians (1978-04-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
-Autechre - Amber (1994-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/56a05885-5961-3073-ba52-73821983c2e5/21512115727-500.jpg" data-tags="techno, minimal" role="button">
 Basic Channel - BCD (1995-02-04)
@@ -114,7 +111,7 @@ Sufjan Stevens - Seven Swans (2004-03-16)
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
@@ -276,6 +273,9 @@ Lena - Satellite (2010-03-13)
 <li data-cover="http://coverartarchive.org/release/f94c8e34-1c57-4f83-b6bb-f1095aee51f7/12501105197-500.jpg" data-tags="techno, minimal, electronic" role="button">
 Booka Shade - More! (2010-04-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/8e4ae230-51e1-436e-9f83-f5b7740f03d4/3472151542-500.jpg" data-tags="electronic, minimal, deep house" role="button">
+Nicolas Jaar - Love You Gotta Lose Again (2010-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/8aa7e7a2-d6f1-4627-83d7-4ab7b9a63dcc/4931837965-500.jpg" data-tags="minimal" role="button">
 Fritz Kalkbrenner - Here Today Gone Tomorrow (2010-10-15)
 </li>
@@ -297,7 +297,7 @@ Modeselektor - Monkeytown (2011-09-30)
 <li data-cover="http://coverartarchive.org/release/ab007771-0fcf-4bc1-9f62-9a46e986278f/4853071277-500.jpg" data-tags="electronic" role="button">
 The Field - Looping State of Mind (2011-10-10)
 </li>
-<li data-cover="https://img.discogs.com/4TaxJzpe3MiRKBfe2qmlmSfo64U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2728486-1302849709.jpeg.jpg" data-tags="electronic, sacramento" role="button">
+<li data-cover="https://img.discogs.com/lBCWmWde6a9k4L8f85TJVg6A-8A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3264309-1322964033.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">

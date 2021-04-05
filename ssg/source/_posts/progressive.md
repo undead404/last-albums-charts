@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:21:01.322Z
+date: 2021-04-05T20:24:01.458Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -174,9 +174,6 @@ Dream Theater - Octavarium (2005-06-06)
 <li data-cover="http://coverartarchive.org/release/b0c39138-47b2-41ec-82f8-636a66916317/4766487756-500.jpg" data-tags="progressive rock, alternative rock" role="button">
 dredg - Catch Without Arms (2005-06-21)
 </li>
-<li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
-Karnivool - Themata (2005-07-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/45641120-9137-3d9b-bb47-8915b1541a3d/17802812575-500.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - Doppelganger (2005-08-15)
 </li>
@@ -185,6 +182,9 @@ Opeth - Ghost Reveries (2005-08-26)
 </li>
 <li data-cover="https://img.discogs.com/lwvpB0N1YbbL4pvfWsvdAUXJEmY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1259407-1254652496.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Everyone Into Position (2005-09-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
+Fonzerelli - Moonlight Party (2005-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - Vheissu (2005-10-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:22:01.526Z
+date: 2021-04-05T20:37:01.824Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -258,6 +258,9 @@ Incubus - Light Grenades (2006-11-22)
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
 Fall Out Boy - Infinity on High (2007-02-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/d48a2606-2876-449e-8d7f-a6b52b42c54c/17035663031-500.jpg" data-tags="rock" role="button">
+Kings of Leon - Because of the Times (2007-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 </li>
@@ -299,9 +302,6 @@ Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
-Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)

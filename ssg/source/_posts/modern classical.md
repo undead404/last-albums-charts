@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:13:01.463Z
+date: 2021-04-05T20:39:01.431Z
 title: "modern classical: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -24,11 +24,20 @@ _________________
 <li data-cover="http://coverartarchive.org/release/9e3742f2-5591-3754-a1b1-6ccae9eeee01/6548227474-500.jpg" data-tags="ambient, contemporary classical, minimalism, piano, minimalist, neoclassical, post-classical, piano ambient, ambient piano" role="button">
 Harold Budd - The Pavilion Of Dreams (1978)
 </li>
+<li data-cover="https://img.discogs.com/KD5bINrX2-SlZ4f6OAZdudfLfMg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515050-1289489104.jpeg.jpg" data-tags="minimalism, minimalist" role="button">
+Arvo Pärt - Tabula Rasa (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/f1da6792-3a6a-4e4c-97fc-fc2477b183ef/2906121265-500.jpg" data-tags="ambient, piano, contemporary classical, cinematic, melancholy, minimalism, melancholic, neoclassical, post-classical, piano ambient, contemporary piano, ambient piano" role="button">
 Harold Budd - Lovely Thunder (1986-10)
 </li>
+<li data-cover="https://img.discogs.com/_aTYiSJ07RfLYrlYmV5po4aVsb4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5522861-1395595380-8890.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
+Philip Glass - Solo Piano (1989-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
 Dead Can Dance - Aion (1990-07-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
+Ludovico Einaudi - Le Onde (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/224114b2-161f-4c9e-a56f-c10a4af1b97f/16026434551-500.jpg" data-tags="ambient" role="button">
 Harold Budd - The Room (2000-08-15)
@@ -44,9 +53,6 @@ Max Richter - Memoryhouse (2002-05-27)
 </li>
 <li data-cover="https://img.discogs.com/xcibiYm-WU7S-iCmxUscTJGcPqw=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1762242-1241719094.jpeg.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
 Jóhann Jóhannsson - Englabörn (2002-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/8153b800-96b6-4244-9e70-6c39c6a4d09e/9286778739-500.jpg" data-tags="piano, contemporary classical" role="button">
-Ludovico Einaudi - La Scala: Concert 03 03 03 (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg" data-tags="post-classical, contemporary classical, neoclassical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
 Max Richter - The Blue Notebooks (2004-02-26)
@@ -71,9 +77,6 @@ Goldmund - Corduroy Road (2005-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e80bfc5b-e880-4509-91bf-089c9b7d7839/2573781324-500.jpg" data-tags="breakcore" role="button">
 Venetian Snares - Rossz csillag alatt született (2005-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1c6fd72-ca46-496e-9688-a8891bc9aca5/13252083985-500.jpg" data-tags="ambient, electronica" role="button">
-Alva Noto + Ryuichi Sakamoto - Insen (2005-03-20)
 </li>
 <li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Saltillo - Ganglion (2006-06-01)
@@ -129,6 +132,9 @@ Yasushi Yoshida - Little Grace (2008-04-25)
 <li data-cover="https://img.discogs.com/1QWVFl1r62QR_z8cDL-xr-o9Or4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1303144-1208022392.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical, neo classical" role="button">
 Peter Broderick - Float (2008-05-12)
 </li>
+<li data-cover="https://img.discogs.com/yDtTdZKVFEVpV-aKPCXiwX6QedA=/fit-in/355x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5155265-1385998208-6626.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, postclassical, post classical" role="button">
+Peter Broderick - Float 2013 (2008-05-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/f7fda273-5504-47f0-a249-1d646ea3d517/5930060763-500.jpg" data-tags="neo-classical, contemporary classical, modern classical, neoclassical, post-classical, piano, neo classical, postclassical, post classical" role="button">
 Ólafur Arnalds - Variations of Static (2008-05-19)
 </li>
@@ -153,9 +159,6 @@ Library Tapes - a summer beneath the trees (2008-11-24)
 <li data-cover="http://coverartarchive.org/release/797590a0-b8bc-4f8c-bb6c-123c6bdf1fee/5943473266-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, neo-classical, post-classical, neo classical" role="button">
 Jóhann Jóhannsson - And in the endless pause there came the sound of bees (2009)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
-Sylvain Chauveau - Touching Down Lightly (2009)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c48ecde-bde3-4a26-9d55-edfd21555f62/9823776819-500.jpg" data-tags="alternative, 00s" role="button">
 Antony and the Johnsons - The Crying Light (2009-01-06)
 </li>
@@ -170,9 +173,6 @@ Nils Frahm - The Bells (2009-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b9d907e-72ee-4420-82e9-daf39f19750f/6068721390-500.jpg" data-tags="post-rock, post rock, ambient" role="button">
 Message To Bears - Departures (2009-07-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b361668a-2c27-49d1-9d76-d5ad374c789b/6674977315-500.jpg" data-tags="piano" role="button">
-Akira Kosemura - Polaroid Piano (2009-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/044fdea5-38f8-4c54-9f1b-e343c66f5410/24527462350-500.jpg" data-tags="soundtrack, japanese, ambient, modern classical" role="button">
 坂本龍一 - Playing The Piano (2009-09-23)
@@ -246,9 +246,6 @@ Nils Frahm - Juno (2011-11-07)
 <li data-cover="http://coverartarchive.org/release/56a15cf2-a435-48c9-8fdc-642e24aff561/4237979092-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">
 Ólafur Arnalds - Living Room Songs (2011-12-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/29379b6a-1212-4b54-a848-dff5978f21cc/1947453626-500.jpg" data-tags="ambient, piano, contemporary classical, post-classical, cinematic, melancholy, melancholic, modern classical, neoclassical, contemporary piano" role="button">
-Fabrizio Paterlini - Autumn Stories (2012-02-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/209df9e5-23ea-4acd-875c-43f4b1372371/3358488097-500.jpg" data-tags="ambient, contemporary classical, modern classical, neoclassical, post-classical, piano, cinematic, melancholic, melancholy, neo-classical, contemporary piano" role="button">
 Greg Haines - Digressions (2012-03-12)
 </li>
@@ -260,6 +257,9 @@ Moon Ate the Dark - Moon Ate the Dark (2012-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/99c79c92-cc87-474f-8e95-5ec03e3bbc87/20058977817-500.jpg" data-tags="piano" role="button">
+Sophie Hutchings - Night Sky (2012-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/79c3dd7e-01e0-414e-88f4-045d88bec4c1/20197407108-500.jpg" data-tags="contemporary classical" role="button">
 Max Richter - Recomposed by Max Richter: Vivaldi, The Four Seasons (2012-08-31)
@@ -297,9 +297,6 @@ Clem Leek - Rest (2013-02-20)
 <li data-cover="http://coverartarchive.org/release/5530b6d8-24ef-40c8-9e3a-5e8329c33ae5/13322786969-500.jpg" data-tags="ambient, modern classical" role="button">
 Ben Lukas Boysen - Gravity (2013-06-17)
 </li>
-<li data-cover="https://img.discogs.com/VhSMhxPAX0ohlN01LrEVL1QdZBw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5303874-1390141495-9498.jpeg.jpg" data-tags="experimental" role="button">
-Zola Jesus - Versions (2013-08-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/18992f07-6b19-4d6f-8083-4e5204a153de/7220911774-500.jpg" data-tags="piano, contemporary classical, post-classical, modern classical, neo-classical, neoclassical, ambient, alternative, cinematic, melancholy, minimalism, melancholic, experimental-ambient, minimal ambient, minimalist, modern composition, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
 Nils Frahm - Spaces (2013-11-18)
 </li>
@@ -317,6 +314,9 @@ Keaton Henson - Romantic Works (2014-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
 deadmau5 - while(1<2) (2014-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f96d633-b1f1-433c-b431-a840c77e2cdd/7905492600-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neo classical, neoclassical, post-classical, postclassical, post classical" role="button">
+Hugar - Hugar (2014-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/25638566-eff3-4215-8930-0c262986c857/9101735659-500.jpg" data-tags="modern classical, contemporary classical, neo-classical, neoclassical, post-classical, neo classical, postclassical, post classical" role="button">
 A Winged Victory for the Sullen - Atomos (2014-10-06)

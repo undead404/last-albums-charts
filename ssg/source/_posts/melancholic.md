@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:58:01.700Z
+date: 2021-04-05T20:43:01.624Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![Beck - Sea Change (2002-09-21)](http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg "Beck - Sea Change (2002-09-21)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
-John Coltrane - A Love Supreme (1965-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
@@ -234,6 +231,9 @@ Anathema - Hindsight (2008-08-25)
 <li data-cover="http://coverartarchive.org/release/89b522b0-9e00-3d90-a068-182ad410c00b/1149714168-500.jpg" data-tags="contemporary classical, neoclassical, ambient, piano, modern classical, post-classical, contemporary piano" role="button">
 Hauschka - Ferndorf (2008-09-08)
 </li>
+<li data-cover="https://img.discogs.com/PGPkW2-5DksDRPDt1kwbFo5gMHM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515642-1230909448.jpeg.jpg" data-tags="folk" role="button">
+Peter Broderick - Home (2008-09-23)
+</li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)
 </li>
@@ -276,7 +276,7 @@ Youth Lagoon - The Year of Hibernation (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/b4cfc997-a4d0-4703-8058-9ffef127d537/16424727978-500.jpg" data-tags="singer-songwriter, canadian, melancholic, lieblingslied, play on words, lieblingssongs, webrecced" role="button">
 Dan Mangan - Oh Fortune (2011-09-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, contemporary classical, piano, cinematic, neoclassical, post-classical, melancholy, melancholic, modern classical, contemporary piano" role="button">
+<li data-cover="https://img.discogs.com/XGz9Vc-PF6vTLKgGgN_g1cc0ZiY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3174469-1365210613-9560.jpeg.jpg" data-tags="ambient, contemporary classical, piano, cinematic, neoclassical, post-classical, melancholy, melancholic, modern classical, contemporary piano" role="button">
 Clem Leek - Lifenotes (2011-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/def95a4a-16c7-4c32-bd31-b947222e3be3/2750964464-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano" role="button">
@@ -294,7 +294,7 @@ First Aid Kit - Wolf (2012-09-07)
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/0hGXhQAlB4Hm_uuPq_nkTLYUUhw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3936421-1349802747-6513.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/72d8365e-491d-4e5e-b20b-eb689cb34b88/21944987702-500.jpg" data-tags="ambient, alternative, piano, cinematic, contemporary classical, melancholy, minimalism, melancholic, modern classical, neo-classical, experimental-ambient, minimal ambient, minimalist, neoclassical, modern composition, post-classical, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">

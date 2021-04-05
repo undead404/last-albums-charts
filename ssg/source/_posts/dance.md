@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:55:01.393Z
+date: 2021-04-05T20:04:01.416Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -11,7 +11,7 @@ title: "dance: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">Shakira - She Wolf (2009-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">Ke$ha - Animal (2010-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">Rihanna - Loud (2010-08-18)</li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="https://img.discogs.com/0Ba-ECqNBzo9W0nAl3Paw_5vwRk=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3974761-1351107048-1039.jpeg.jpg" data-tags="electronic, dance" role="button">Avicii - Levels (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">Flo Rida - Wild Ones (2012-06-22)</li>
 </ol>
@@ -105,6 +105,9 @@ Cascada - Everytime We Touch (2006-02-21)
 <li data-cover="http://coverartarchive.org/release/bc8e84c6-c841-321c-ba2a-3dec63126872/17919825722-500.jpg" data-tags="pop" role="button">
 Nelly Furtado - Loose (2006-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/fcc15e13-55f9-4e65-a19d-d1649e4a8985/3596711954-500.jpg" data-tags="electronic, electro" role="button">
+MSTRKRFT - The Looks (2006-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
@@ -159,7 +162,7 @@ Guru Josh Project - Infinity 2008 (2008-05-07)
 <li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
 The Ting Tings - We Started Nothing (2008-05-16)
 </li>
-<li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
+<li data-cover="https://img.discogs.com/7p8Mv0TOo4AnRMSWSKtPxyywb-k=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594236-1328968105.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
 Lady Gaga - Just Dance (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg" data-tags="pop" role="button">
@@ -167,9 +170,6 @@ Lady Gaga - The Fame (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
-Justice - A Cross The Universe (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)
@@ -249,7 +249,7 @@ Lady Gaga - Judas (2011-04-15)
 <li data-cover="https://img.discogs.com/abIZqGPCH1J_m4xN2KxbqD9yVPU=/fit-in/529x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3029115-1312423981.jpeg.jpg" data-tags="dance, pop" role="button">
 Jennifer Lopez - Love? (2011-05-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9197df9f-7f26-4498-af10-4eb5e67d6c8b/25513914939-500.jpg" data-tags="lmfao, electronic" role="button">

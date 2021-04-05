@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:23:01.505Z
+date: 2021-04-05T20:44:01.509Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -162,6 +162,9 @@ Kaiser Chiefs - Yours Truly, Angry Mob (2007-02-23)
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d48a2606-2876-449e-8d7f-a6b52b42c54c/17035663031-500.jpg" data-tags="rock" role="button">
+Kings of Leon - Because of the Times (2007-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/e3329c6a-6ff9-4254-b82e-f4ac85e5e6dd/2514121509-500.jpg" data-tags="indie, indie rock" role="button">
 Vampire Weekend - Vampire Weekend (2007-04)
 </li>
@@ -264,9 +267,6 @@ Deerhunter - Halcyon Digest (2010-09-22)
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/358818df-ed4e-43b9-8f34-dcd513934d50/6626320723-500.jpg" data-tags="indie rock, alternative rock" role="button">
-Young the Giant - Young the Giant (2010-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
@@ -284,9 +284,6 @@ Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
-The Shins - Port of Morrow (2012-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
@@ -308,6 +305,9 @@ The National - Trouble Will Find Me (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
+HAIM - Days Are Gone (2013-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Reflektor (2013-09-09)

@@ -1,8 +1,8 @@
 ---
-date: 2021-04-05T04:49:01.435Z
+date: 2021-04-05T20:23:01.347Z
 title: "techno: 100 albums you must listen to before you die"
 ---
-![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
+![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">Daft Punk - Homework (1997-01-20)</li>
 <li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">The Prodigy - The Fat Of The Land (1997-06-30)</li>
@@ -10,7 +10,7 @@ title: "techno: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal, electronic" role="button">Trentemøller - The Last Resort (2006-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">Kanye West - Stronger (2007-07-31)</li>
 <li data-cover="http://coverartarchive.org/release/e74b4ee5-8c1e-44fd-89ca-e680dd568711/1655559415-500.jpg" data-tags="techno, idm" role="button">Moderat - Moderat (2009-02)</li>
-<li data-cover="https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg" data-tags="electronic, breakbeat" role="button">The Prodigy - Invaders Must Die (2009-02-18)</li>
+<li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">The Prodigy - Invaders Must Die (2009-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/1c0cb4a3-0233-43de-9b81-8afe0f682b8b/16337903830-500.jpg" data-tags="electronic, techno, minimal, minimal techno, rough trade" role="button">Pantha du Prince - Black Noise (2010-02-08)</li>
 <li data-cover="https://img.discogs.com/0Ba-ECqNBzo9W0nAl3Paw_5vwRk=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3974761-1351107048-1039.jpeg.jpg" data-tags="electronic, dance" role="button">Avicii - Levels (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/dac46d09-412c-4e23-a3a6-9348ec554d7e/8779262560-500.jpg" data-tags="techno, icelandic" role="button">Kiasmos - Kiasmos (2014-10-27)</li>
@@ -30,7 +30,7 @@ The Future Sound of London - Accelerator (1991)
 <li data-cover="http://coverartarchive.org/release/add1a7a9-670a-4338-ab75-7e87465ee01b/23436390503-500.jpg" data-tags="techno, electronic" role="button">
 LFO - Frequencies (1991-07-22)
 </li>
-<li data-cover="https://img.discogs.com/z54mf66uPKA31KXdKQl5b-9QONA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657214-1234996679.jpeg.jpg" data-tags="electronic, breakbeat, rave, techno" role="button">
+<li data-cover="https://img.discogs.com/MnsQhYpIj6RqM11BewSgBfapYBc=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2552331-1290095231.jpeg.jpg" data-tags="electronic, breakbeat, rave, techno" role="button">
 The Prodigy - Experience (1992-09-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
@@ -48,8 +48,8 @@ Underworld - Dubnobasswithmyheadman (1993-09-20)
 <li data-cover="http://coverartarchive.org/release/e1cfae23-df33-4a58-be49-5d34c6a5563e/3035311470-500.jpg" data-tags="electronic, techno" role="button">
 The Prodigy - More Music For The Jilted Generation (1994-07-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
-Autechre - Amber (1994-11-07)
+<li data-cover="https://via.placeholder.com/450" data-tags="idm" role="button">
+Aphex Twin - Classics (1994-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
 Leftfield - Leftism (1995-01-30)
@@ -66,11 +66,8 @@ Orbital - In Sides (1996-03)
 <li data-cover="http://coverartarchive.org/release/91c4f715-6327-4057-beda-031a32e5d707/5345049101-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - Second Toughest in the Infants (1996-03-04)
 </li>
-<li data-cover="https://img.discogs.com/WV8r1hxh4Ekgc3SnT9ZFrF_rQEY=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-57002-1369870508-3881.jpeg.jpg" data-tags="electronic, techno, electronica" role="button">
+<li data-cover="https://img.discogs.com/DGAWyKL1-brThsLCrbd1SbobNZ4=/fit-in/547x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-109690-1273878201.jpeg.jpg" data-tags="electronic, techno, electronica" role="button">
 Underworld - Pearl's Girl (1996-05-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
-Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
@@ -84,19 +81,16 @@ Fluke - Risotto (1997-05-26)
 <li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">
 The Prodigy - The Fat Of The Land (1997-06-30)
 </li>
-<li data-cover="https://img.discogs.com/KZIWKEacVnSO0weDD_3RgbHiiGQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3113949-1316431273.jpeg.jpg" data-tags="electronic, electronica, techno" role="button">
+<li data-cover="https://img.discogs.com/YfTvKHCIL-pbKkhS1-xIWAhKRcI=/fit-in/537x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1374536-1430797048-3816.jpeg.jpg" data-tags="electronic, electronica, techno" role="button">
 Moby - I Like to Score (1997-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/44d079fa-5ecc-4a02-b5d5-fd37f98e6f8b/4655099055-500.jpg" data-tags="techno" role="button">
 Scooter - No Time to Chill (1998-07-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="breakbeat" role="button">
-Bomfunk MC's - In Stereo (1999)
-</li>
 <li data-cover="https://img.discogs.com/nD10hJOZwmEpHF7a0SrvyQV1AYY=/fit-in/450x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-43257-1187900153.jpeg.jpg" data-tags="electronic, techno" role="button">
 Underworld - Beaucoup Fish (1999-02-20)
 </li>
-<li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
+<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
@@ -128,6 +122,9 @@ Underworld - A Hundred Days Off (2002-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/533a718d-c202-4d82-b3e7-596e4f40bf18/20373139615-500.jpg" data-tags="techno, scooter" role="button">
 Scooter - 24 Carat Gold (2002-11-04)
+</li>
+<li data-cover="https://img.discogs.com/dYA8iHe_Huc5awOwYkgCtQ5aN1g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136949-1515841853-9853.jpeg.jpg" data-tags="techno" role="button">
+Scooter - The Stadium Techno Experience (2003-03-31)
 </li>
 <li data-cover="https://img.discogs.com/Kl6E9UxW0Z8vEHtUu7VG3WE4ZoA=/fit-in/363x364/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-176553-1245772384.jpeg.jpg" data-tags="electronic, techno" role="button">
 Ellen Allien - Berlinette (2003-04-07)
@@ -201,6 +198,9 @@ Sascha Funke - Mango (2008-02-11)
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="techno, albums in my collection" role="button">
+Hyper Crush - The Arcade (2008-05-01)
+</li>
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)
 </li>
@@ -216,7 +216,7 @@ Italobrothers - Stamp On The Ground (2009)
 <li data-cover="http://coverartarchive.org/release/e74b4ee5-8c1e-44fd-89ca-e680dd568711/1655559415-500.jpg" data-tags="techno, idm" role="button">
 Moderat - Moderat (2009-02)
 </li>
-<li data-cover="https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
+<li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Invaders Must Die (2009-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4386b945-5fb5-3421-b210-e15474089938/4164621033-500.jpg" data-tags="techno, electronic" role="button">
@@ -249,7 +249,7 @@ Four Tet - There Is Love in You (2010-01-25)
 <li data-cover="http://coverartarchive.org/release/1c0cb4a3-0233-43de-9b81-8afe0f682b8b/16337903830-500.jpg" data-tags="electronic, techno, minimal, minimal techno, rough trade" role="button">
 Pantha du Prince - Black Noise (2010-02-08)
 </li>
-<li data-cover="https://img.discogs.com/N5uWvAJXzisPcRUyabNK0VMFtZI=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337514-1277924801.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
+<li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
 Ellie Goulding - Starry Eyed (2010-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f94c8e34-1c57-4f83-b6bb-f1095aee51f7/12501105197-500.jpg" data-tags="techno, minimal, electronic" role="button">

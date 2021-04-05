@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:22:01.531Z
+date: 2021-04-05T20:34:01.491Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg" data-tags="alternative, 80s" role="button">
-Sonic Youth - Daydream Nation (1988-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
 </li>
@@ -102,9 +99,6 @@ Coldplay - Parachutes (2000-07-10)
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/64f0edbd-fcd5-46bc-9437-8f29f412c0c5/15755637501-500.jpg" data-tags="alternative rock, rock" role="button">
-PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
 </li>
@@ -116,6 +110,9 @@ Radiohead - Amnesiac (2001-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cc29145-b0e4-47bf-8bda-a1edef67dd1d/5632202392-500.jpg" data-tags="alternative rock" role="button">
 Muse - Origin of Symmetry (2001-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
+Jimmy Eat World - Bleed American (2001-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/91abe8c0-f1c9-3427-9c68-361762c6c33f/2401859250-500.jpg" data-tags="alternative, rock" role="button">
 Cake - Comfort Eagle (2001-07-24)
@@ -192,6 +189,9 @@ Bloc Party - Silent Alarm (2005-02-02)
 <li data-cover="https://img.discogs.com/WapkDvx93QsCQqFLEOW9Ymn-h7k=/fit-in/600x804/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428290-1460769577-1567.jpeg.jpg" data-tags="alternative, beck" role="button">
 Beck - Guero (2005-03-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
+Lifehouse - Lifehouse (2005-03-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
@@ -207,6 +207,9 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">
 Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 </li>
+<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
+The All-American Rejects - Move Along (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
 Placebo - Meds (2006-03-10)
 </li>
@@ -215,9 +218,6 @@ Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
-Keane - Under the Iron Sea (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
@@ -237,6 +237,9 @@ Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d48a2606-2876-449e-8d7f-a6b52b42c54c/17035663031-500.jpg" data-tags="rock" role="button">
+Kings of Leon - Because of the Times (2007-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 </li>
@@ -249,8 +252,8 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 <li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">
 Biffy Clyro - Puzzle (2007-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
-Paramore - RIOT! (2007-06-11)
+<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
+Metro Station - Metro Station (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg" data-tags="indie, electronic" role="button">
 MGMT - Oracular Spectacular (2007-10-02)
@@ -287,9 +290,6 @@ Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/15807529-d588-4c39-a865-dbda519db68f/26395613475-500.jpg" data-tags="alternative, alternative rock, rock, punk" role="button">
-My Chemical Romance - Danger Days: The True Lives of the Fabulous Killjoys (2010-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)

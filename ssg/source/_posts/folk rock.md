@@ -1,13 +1,13 @@
 ---
-date: 2021-04-05T17:55:01.425Z
+date: 2021-04-05T20:15:01.485Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
-![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
+![Bob Dylan - Highway 61 Revisited (1995)](https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg "Bob Dylan - Highway 61 Revisited (1995)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">Bob Dylan - Bringing It All Back Home (1965-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg" data-tags="folk rock, folk" role="button">Bob Dylan - Blonde on Blonde (1966-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">Bob Dylan - Desire (1976-01-05)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">Bob Dylan - Highway 61 Revisited (1995)</li>
+<li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">Bob Dylan - Highway 61 Revisited (1995)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">Mumford & Sons - Babel (2012-09-13)</li>
@@ -48,7 +48,7 @@ Bob Dylan - John Wesley Harding (1967-12-27)
 <li data-cover="http://coverartarchive.org/release/7cf90a62-28e1-479e-beea-aec59d72a456/20530359400-500.jpg" data-tags="folk rock, 60s, classic rock" role="button">
 The Band - Music From Big Pink (1968-07-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, 60s" role="button">
+<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
 Van Morrison - Astral Weeks (1968-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">
@@ -63,6 +63,12 @@ Nick Drake - Five Leaves Left (1969-09)
 <li data-cover="http://coverartarchive.org/release/2ff35d4e-5623-4723-929c-bff2e0a5eb37/9925745196-500.jpg" data-tags="classic rock, rock" role="button">
 The Band - The Band (1969-09-22)
 </li>
+<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
+David Bowie - Space Oddity (1969-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
+Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 </li>
@@ -74,6 +80,9 @@ Bob Dylan - New Morning (1970-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/20f367e3-ab11-4dcd-9350-8ef410a126ef/10021296073-500.jpg" data-tags="progressive rock" role="button">
+Jethro Tull - Aqualung (1971-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
@@ -105,14 +114,11 @@ Neil Young - Harvest Moon (1992-10-27)
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">
 Bob Dylan - Highway 61 Revisited (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
-Mazzy Star - Among My Swan (1996-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cef41ad3-9604-476f-8449-907e4a39072a/18916427598-500.jpg" data-tags="folk rock, folk, medieval" role="button">
 Blackmore's Night - Shadow Of The Moon (1997-04-23)
@@ -122,9 +128,6 @@ Blackmore's Night - Under A Violet Moon (1999-04-21)
 </li>
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
-The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
@@ -146,9 +149,6 @@ Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/0dc2f627-b12e-4a0b-9775-f88de9881061/18183886570-500.jpg" data-tags="rock, classic rock" role="button">
-Neil Young - Greatest Hits (2004-11-16)
 </li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:09:01.392Z
+date: 2021-04-05T20:14:01.398Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -27,7 +27,7 @@ The Stooges - The Stooges (1969-08-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="proto-punk, garage rock, 70s" role="button">
 The Stooges - Fun House (1970-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/3714201314-500.jpg" data-tags="1975, rock, punk, 70s" role="button">
+<li data-cover="http://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/3714201314-500.jpg" data-tags="rock, punk, 70s" role="button">
 Patti Smith - Horses (1975-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/aab3e6a1-3bf2-4c26-86ab-b496904d0128/9260401939-500.jpg" data-tags="punk, punk rock" role="button">
@@ -279,6 +279,9 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/a890e9a6-90cf-4665-8928-2123f792355f/2960964314-500.jpg" data-tags="rock, pop punk" role="button">
+Good Charlotte - Good Morning Revival (2007-03-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
 </li>
@@ -287,9 +290,6 @@ The Gaslight Anthem - Sink or Swim (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
-</li>
-<li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
-The Veronicas - Hook Me Up (2007-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)
