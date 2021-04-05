@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:53:01.331Z
+date: 2021-04-05T00:10:01.305Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -8,7 +8,7 @@ title: "relaxing: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
-<li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
+<li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">Morcheeba - Blood Like Lemonade (2010-06-07)</li>
@@ -26,9 +26,6 @@ Visage - The Damned Don't Cry (1982-01-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e552cd6-a616-495d-8473-aaf79ad26c81/21884715670-500.jpg" data-tags="classical" role="button">
 Arvo Pärt - Arbos (1987-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/38bac9bb-1580-4ae5-86cd-f97e5e022b3a/2964592289-500.jpg" data-tags="ambient, new age, melodic, relaxing" role="button">
-Medwyn Goodall - Eagle Spirit (1993)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
@@ -72,9 +69,6 @@ Modest Mouse - Night on the Sun (1999)
 <li data-cover="http://coverartarchive.org/release/4bd15a42-66f1-4e59-9157-d11e288ce5d2/5350079388-500.jpg" data-tags="trip-hop" role="button">
 Thievery Corporation - Abductions and Reconstructions (1999-04-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="guster" role="button">
-Guster - Lost and Gone Forever (1999-09-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
@@ -89,6 +83,9 @@ Magna Canta - Enchanted Spirits (2000-11-20)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce1299dc-d33b-44b2-86cd-303bb7db9583/10962586081-500.jpg" data-tags="amidio junior, donkalifa, krica morena bela, argeu, krica morena" role="button">
+Tears for Fears - Shout: The Very Best Of Tears For Fears (2001-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/194ba0b8-8f76-3122-b5bd-6e2e6d8937dc/7202965936-500.jpg" data-tags="lo-fi, for rainy days, 00s, minimal indie" role="button">
 Vincent Gallo - When (2001-10-01)
@@ -141,9 +138,6 @@ Kings of Convenience - Riot on an Empty Street (2004-06-21)
 <li data-cover="https://img.discogs.com/LHHhi4U3WGT_XMhYyZnMCDlHtoc=/fit-in/459x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565321-1151310339.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Thomas Dybdahl - One Day You'll Dance For Me, New York City (2004-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
-Thievery Corporation - Babylon Rewound (2004-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/58f2d266-b4ad-483c-abd0-d36dc25e0c02/11944292045-500.jpg" data-tags="relaxing, beautiful piano, piano, new age" role="button">
 David Nevue - Overcome (2005)
 </li>
@@ -162,11 +156,11 @@ Team Sleep - Team Sleep (2005-05-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="relaxing" role="button">
 Rilo Kiley - 2005-06-18: The Grand Ballroom, San Francisco, CA, USA (2005-06-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/435b1bb9-f18f-463f-9df0-d9e41b1337e6/12035415500-500.jpg" data-tags="piano" role="button">
+Kevin Kern - Imagination's Light (2005-07-19)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/518bef52-22e2-4150-b426-790a66b4c5f3/2211817944-500.jpg" data-tags="electronic, electronica, french, female, female vocalists, electro pop, relaxing, france, electro-pop, emusic, independant, french touch, frenchtastic, beat oq, little love" role="button">
-Villeneuve - First Date (2005-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
@@ -216,7 +210,7 @@ Eluvium - Copia (2007-02-20)
 <li data-cover="https://img.discogs.com/dOJa60os90Lct4y51jcn90hTkmA=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17672506-1614793975-6393.jpeg.jpg" data-tags="rnb" role="button">
 Amerie - Because I Love It (2007-05-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
+<li data-cover="http://coverartarchive.org/release/ae79c52b-8ed3-45dd-a208-a4bac7c21fb6/28993094834-500.jpg" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
 Jarabe de Palo - Adelantando (2007-05-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental, acoustic, relaxing, fingerstyle" role="button">
@@ -228,7 +222,7 @@ Raheem DeVaughn - Love Behind The Melody (2008-01-15)
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
 </li>
-<li data-cover="https://img.discogs.com/6RZ0wASz1DyoPcJEe8mimgeooyc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2766594-1300096055.jpeg.jpg" data-tags="acoustic" role="button">
+<li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
@@ -240,7 +234,10 @@ Oceanlab - Sirens of the Sea (2008-04-07)
 <li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
 Priscilla Ahn - A Good Day (2008-06-10)
 </li>
-<li data-cover="https://img.discogs.com/i-LYBPsmYzZuxgU_j1lR93cbA7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725077-1239385066.jpeg.jpg" data-tags="indie, downtempo, idm" role="button">
+<li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
+Shwayze - Shwayze (2008-08-19)
+</li>
+<li data-cover="https://img.discogs.com/gLtasc4YdPfhI_cAO0cFnxYY834=/fit-in/514x441/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2190931-1328925033.jpeg.jpg" data-tags="indie, downtempo, idm" role="button">
 Jon Hopkins - Insides (2008-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e0a9494-7532-41c5-9088-9f97e2c41477/18229199776-500.jpg" data-tags="pop, soft, relaxing, pl, female vocalist, myf, wielkie albumy, po prostu  urocze, jest melancholijnie" role="button">
@@ -302,6 +299,9 @@ Thievery Corporation - Culture of Fear (2011-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b424996c-b0a7-4c6f-9d7c-561fc760640f/4101040746-500.jpg" data-tags="dreamy, dream pop" role="button">
 Memoryhouse - The Slideshow Effect (2012-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/5d99a7b7-edc7-4b75-914c-248e0b02c5ea/1371441962-500.jpg" data-tags="chill, dreamy, atmospheric, relaxing, sleepy, drifting, dreaming, ocean, enchanting, undersea, the antlers" role="button">
+The Antlers - Drift Dive (2012-06-26)
 </li>
 <li data-cover="https://img.discogs.com/Jq7gMQVGNCbLqV777SnVdkzmCC0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4179816-1366282469-7746.jpeg.jpg" data-tags="art pop" role="button">
 Deptford Goth - Life After Defo (2012-09-04)

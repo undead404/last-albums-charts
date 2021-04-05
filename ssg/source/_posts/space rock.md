@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:27:01.289Z
+date: 2021-04-05T00:15:01.414Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -30,16 +30,13 @@ Pink Floyd - A Saucerful of Secrets (1968-06-29)
 <li data-cover="http://coverartarchive.org/release/53e9678a-90dd-3c32-8d28-1584b612f95f/9839280602-500.jpg" data-tags="psychedelic rock, progressive rock" role="button">
 Pink Floyd - Ummagumma (1969-10-25)
 </li>
-<li data-cover="https://img.discogs.com/874NukBYCdqTEKT_qwspzrJDuBg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1792931-1243686225.jpeg.jpg" data-tags="hard rock, space rock" role="button">
-UFO - UFO 1 (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd5fa9ed-411e-4bf3-be7b-1c81b8c3fbad/4836127874-500.jpg" data-tags="space rock, psychedelic rock" role="button">
 Hawkwind - Hawkwind (1970-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e964b19-62ce-4ab4-a67c-e183586560a9/9916032528-500.jpg" data-tags="krautrock" role="button">
 Ash Ra Tempel - Ash Ra Tempel (1971)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="krautrock, space rock" role="button">
+<li data-cover="https://img.discogs.com/lpAdjslazdKLH3LP74C0MNU8IHk=/fit-in/571x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413420-1499619823-2280.jpeg.jpg" data-tags="krautrock, space rock" role="button">
 Brainticket - Cottonwoodhill (1971-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/24dd5402-4f63-3648-bcd2-edcb91896d6c/14265700473-500.jpg" data-tags="psychedelic rock, psychedelic, pink floyd" role="button">
@@ -47,9 +44,6 @@ Pink Floyd - Relics (1971-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c183a94b-2172-36a7-bc2d-a6710542b049/10052283540-500.jpg" data-tags="space rock" role="button">
 Hawkwind - In Search of Space (1971-10)
-</li>
-<li data-cover="https://img.discogs.com/sQHHN7DXseUc00GAZIg6WaUxNSo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-599254-1570094747-1832.jpeg.jpg" data-tags="progressive rock" role="button">
-Nektar - A Tab in the Ocean (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/4996990d-5082-3c38-9c97-e5347d2005d1/20450810893-500.jpg" data-tags="space rock, psychedelic rock" role="button">
 Hawkwind - Doremi Fasol Latido (1972-11)
@@ -69,7 +63,7 @@ Hawkwind - Warrior on the Edge of Time (1975-05)
 <li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Ocean (1977)
 </li>
-<li data-cover="https://img.discogs.com/Hebi0Np4ZkRx9n9y52EgIPIDse4=/fit-in/370x370/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13193328-1549714280-8482.jpeg.jpg" data-tags="psychedelic, space rock, neo-psychedelia" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, space rock, neo-psychedelia" role="button">
 Spacemen 3 - Sound of Confusion (1986)
 </li>
 <li data-cover="https://img.discogs.com/rmgsvZxF7sliFJ7oRzeckMwh0hs=/fit-in/358x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542509-1129462073.jpeg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
@@ -78,7 +72,7 @@ Spacemen 3 - The Perfect Prescription (1987)
 <li data-cover="http://coverartarchive.org/release/c5867117-a1ed-4b49-8278-da11638ac7d6/20343897065-500.jpg" data-tags="shoegaze, space rock" role="button">
 Loop - Heaven's End (1987-11)
 </li>
-<li data-cover="https://img.discogs.com/zQWezKpHzaACC9A36QYud6FDIoo=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492996-1122755211.jpg.jpg" data-tags="neo-psychedelia, 80s, space rock" role="button">
+<li data-cover="https://img.discogs.com/uPstLYEjXAOIXI9NSKE-J_D8JIg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542398-1257579125.jpeg.jpg" data-tags="neo-psychedelia, 80s, space rock" role="button">
 Spacemen 3 - Playing With Fire (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
@@ -195,6 +189,9 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ef8d874-a2ed-4dc2-9262-cc66b0120818/15485269083-500.jpg" data-tags="psychedelia, space rock, neo-psychedelia, dream, tremolo radio" role="button">
+Spiritualized - The Complete Works Vol. 1 (2003-04-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
 Dead Meadow - Shivering King And Others (2003-06-03)
 </li>
@@ -218,6 +215,9 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
 Black Mountain - Black Mountain (2005-01-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
+Mew - and the Glass Handed Kites (2005-09-14)
 </li>
 <li data-cover="https://img.discogs.com/IzOnZ7a1QRE6MIyUb0Gp12_eP1s=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1028391-1253696432.jpeg.jpg" data-tags="alternative rock, indie rock, space rock" role="button">
 Mutemath - MuteMath (2006-01-29)
@@ -270,7 +270,7 @@ We Fell to Earth - We Fell To Earth (2009-07-13)
 <li data-cover="http://coverartarchive.org/release/3b7453da-f435-4e22-9e33-15c78727fd90/1984961533-500.jpg" data-tags="alternative rock" role="button">
 Radiohead - These Are My Twisted Words (2009-08-17)
 </li>
-<li data-cover="https://img.discogs.com/D4c9wyhaXLvGOdGItp1r3AjjevA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16216021-1605421774-2548.jpeg.jpg" data-tags="psychedelic" role="button">
+<li data-cover="https://img.discogs.com/M9Zz4UUTfEefTcsq3Pb2VE1vxFo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9105272-1490561619-4529.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">

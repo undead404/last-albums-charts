@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:40:01.321Z
+date: 2021-04-05T00:44:07.243Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -74,9 +74,6 @@ Minor Threat - Salad Days (1985-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
-Johann Strauss II - Vienna of My Dreams (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
@@ -168,11 +165,11 @@ The Kinks - The Singles Collection (1997-09-29)
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
+Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
-The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
@@ -218,9 +215,6 @@ Secret Garden - Once in a Red Moon (2002-03-21)
 </li>
 <li data-cover="https://img.discogs.com/u2GGB8hwYJVv9qRLO6ArdnvbwCo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-848895-1378832579-6347.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/d43ec83c-bcc9-4504-81fe-6fd92083a0c6/4371043204-500.jpg" data-tags="latin" role="button">
-Juanes - Un Día Normal (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e04601a-8f61-4cca-8568-466f695e8209/1448754274-500.jpg" data-tags="hip hop, 9th wonder" role="button">
 Little Brother - The Listening (2003-02-25)
@@ -269,6 +263,9 @@ Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3655e9f-3db1-434d-bb4b-3529d09b2989/1373313355-500.jpg" data-tags="instrumental hip-hop, hip-hop" role="button">
 J Dilla - Donuts (2006-02-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">
+T.I. - King (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b19677b-0edd-4c9f-b7e5-0303934c220b/4774377778-500.jpg" data-tags="hip-hop, hip hop, classic, dj, underground, mc" role="button">
 Soul Position - Things Go Better with RJ and Al (2006-04-04)
@@ -320,5 +317,8 @@ Queens of the Stone Age - ...Like Clockwork (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/be504739-1ea3-48a6-b1d1-8f77510e9b40/4310278393-500.jpg" data-tags="classic, alternative rock, britpop, neo-psychedelia" role="button">
 Beady Eye - BE (2013-06-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/7232a37e-9f53-4551-9a8e-3f11f53c831f/6506883340-500.jpg" data-tags="hello" role="button">
+MKTO - Classic (2013-06-20)
 </li>
 </ol>

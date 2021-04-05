@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T15:56:01.290Z
+date: 2021-04-05T00:07:01.294Z
 title: "sex: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -8,9 +8,9 @@ title: "sex: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
-<li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, sex, neo soul, soul revival" role="button">Mayer Hawthorne - How Do You Do (2011-10-04)</li>
 <li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">Bruno Mars - Locked Out Of Heaven (2012-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/362e4026-4c4c-44ed-80ad-c2adf4b1f439/4102931199-500.jpg" data-tags="female, soul, alternative, indie rock, kurt, c, song, girls, g, nu soul, k, plop, sex, f, numbers, buy, j, hot, r, book, genesis, second, lost, porn, monday, e, woman, misc, rac, pee pee, vagina, media, abc, breasts, sounds, ladies, tits, first, proverbs, i, tag, sentences, o, everything, kings, thursday, bananas" role="button">HAIM - Don't Save Me (2012-11-13)</li>
+<li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">HAIM - Days Are Gone (2013-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/347d9365-927d-4404-a0d7-65e4916e464e/11438983255-500.jpg" data-tags="female, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, lovely, lost, porn, e, misc, pee pee, music, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend, bats, beef" role="button">Selena Gomez - The Heart Wants What It Wants (2014-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/d8ee3fb5-e02f-4459-a26f-e4301beb32f1/8796970047-500.jpg" data-tags="pop, ariana grande" role="button">Ariana Grande - Break Free (2014-07-02)</li>
 <li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, lovely, electro rock, greatest hits, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend" role="button">Selena Gomez - For You (2014-11-24)</li>
@@ -51,15 +51,6 @@ The Wedding Present - Seamonsters (1991-06-01)
 <li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
 Madonna - Erotica (1992-10-19)
 </li>
-<li data-cover="https://img.discogs.com/1L3F6UEIUzzI61DUFSNRtrzfWec=/fit-in/574x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328967-1361784708-6869.jpeg.jpg" data-tags="funk, 80s, prince" role="button">
-Prince - Controversy (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/7295dee6-7401-4235-a853-9d6aad253589/26223337157-500.jpg" data-tags="indie rock" role="button">
-Archers of Loaf - Icky Mettle (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/397dce0c-4cb6-3a14-bf04-06cc4776d1a1/17460087873-500.jpg" data-tags="new age, ambient" role="button">
-Mike Oldfield - The Songs of Distant Earth (1994-11-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/591bf9e3-0a19-42c7-8b09-5454760edfd9/11192122485-500.jpg" data-tags="all" role="button">
 Traci Lords - 1000 Fires (1995-02-28)
 </li>
@@ -87,20 +78,11 @@ The Faint - Blank-Wave Arcade (1999-11-01)
 <li data-cover="https://img.discogs.com/JA12kplIqnlLiMxkTaPUSwLgaTY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8638808-1465677790-9122.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
 </li>
-<li data-cover="https://img.discogs.com/qF45uLMFzfK3uXWD7xO_b9kORuw=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4873280-1378113188-6953.jpeg.jpg" data-tags="trip-hop, indie, female, male, rock, alternative, folk, female vocalists, dance, c, happy, fantastic, afternoon, girls, outsider, friendly, long, friend, pretty, my, like, soft, random, christian, why, poetic, provocative, sex, f, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, recommended, game, guilty pleasure, inspirational, out, smart, worship, warm, north, hot, place, depression, r, beach, pleasant, now, commercial, heart, lovely, visual, traditional, women, years, work, misogyny, sensual, lost, porn, monday, what, e, leaf, woman, upcoming, single, fantasy, misc, pink, penis, tracks, sexual, girl, pee pee, pleasing, good stuff, music, vagina, touch, flower, zero, smell, babe, stars, breasts, bibles, no, dates, months, verbal" role="button">
-Felicia Michaels - Lewd Awakenings (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2283103-9c78-4778-96f1-002dc86626be/12059807281-500.jpg" data-tags="pop" role="button">
 Billie Piper - Walk of Life (2000-07-12)
 </li>
-<li data-cover="https://img.discogs.com/tXkxfd-CEdXxpgTDoCULqOVjQR0=/fit-in/424x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194130-1141596448.jpeg.jpg" data-tags="ambient" role="button">
-Goldfrapp - Utopia (2000-11-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac46568e-7818-4351-8d8a-a59ce427e636/21974963842-500.jpg" data-tags="post-rock" role="button">
 The Album Leaf - One Day I'll Be on Time (2001-05-22)
-</li>
-<li data-cover="https://img.discogs.com/oPEnUIumiP-VoRc_STI_2mFJTkA=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7468415-1509061937-1312.jpeg.jpg" data-tags="indie, female, alternative, female vocalists, singer-songwriter, c, day, sunday, g, k, sex, f, quiet, chicks, j, hot, r, second, staff, comfort, friday, march, colors, monday, saturday, e, november, woman, though, august, misc, pink, three, girl, vagina, orange, zero, name, blue, red, green, yellow, first, he, december, i, richard, february, o, you, thursday, too, guides, not, oil, x, makes, shade, bats, september, january, july, tuesday, enemies, awareness, sing, miscellaneous, head, idols, all, d, can, seven, shady, four, two, chick, bands that would eat children if only they could fit a whole one inside their mouths, purple, s, b, rainbow, alternative media, h, one, a" role="button">
-Sam Phillips - Fan Dance (2001-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dab8857-3a60-4f03-9700-0c3cb04c3e09/2478079610-500.jpg" data-tags="rap" role="button">
 Afroman - The Good Times (2001-08-28)
@@ -110,6 +92,9 @@ Vincent Gallo - When (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/7fd1004c-5116-4323-84e5-2e8b2a23f736/10583997394-500.jpg" data-tags="soundtrack, easy listening" role="button">
+Kate Winslet - What If (2001-11-09)
 </li>
 <li data-cover="https://img.discogs.com/FF5DIMvzWA3_lYWAskJDZOq8kcE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12668200-1539691429-6474.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
@@ -129,11 +114,8 @@ Groove Coverage - God Is A Girl (2002-11-11)
 <li data-cover="http://coverartarchive.org/release/6a9eed90-52b8-3b50-a04b-a7f0370ca32c/23646585321-500.jpg" data-tags="rap, hip-hop" role="button">
 Missy Elliott - Under Construction (2002-11-11)
 </li>
-<li data-cover="https://img.discogs.com/Fd0IWiBk-qIwAbj32P3eeSWOjAw=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10967125-1507371822-8438.jpeg.jpg" data-tags="country pop, pop, country" role="button">
+<li data-cover="https://img.discogs.com/MOMwHVe2p5W1t2C_WX2_dUESRmM=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-908095-1423688575-5624.jpeg.jpg" data-tags="country pop, pop, country" role="button">
 Shania Twain - Up! (2002-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/8727ea53-5ef7-4b33-ba84-bfb9cba2bb46/11401769928-500.jpg" data-tags="hip-hop, german hiphop, hip hop" role="button">
-Fettes Brot - Amnesie (2002-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b137ee7-971c-4f7a-8a6d-9add99ed0f0a/12622084383-500.jpg" data-tags="rock, dance punk" role="button">
 Death from Above 1979 - Heads Up (2002-12-15)
@@ -153,11 +135,20 @@ Death from Above 1979 - Romantic Rights EP (2004-04-13)
 <li data-cover="http://coverartarchive.org/release/bdea53a4-7fab-409b-b70f-6ec3f8a06029/24728786897-500.jpg" data-tags="indie, female, alternative, female vocalists, singer-songwriter, c, day, sunday, g, k, sex, f, quiet, chicks, j, hot, r, second, staff, comfort, friday, march, colors, monday, saturday, e, november, woman, though, august, misc, pink, three, girl, vagina, orange, zero, name, blue, red, green, yellow, first, he, december, i, richard, february, o, you, thursday, too, guides, not, oil, x, makes, shade, bats, september, january, july, tuesday, enemies, awareness, sing, miscellaneous, head, idols, all, d, can, seven, shady, four, two, chick, bands that would eat children if only they could fit a whole one inside their mouths, purple, s, b, rainbow, alternative media, h, one, a" role="button">
 Sam Phillips - A Boot and a Shoe (2004-04-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
+Shania Twain - Greatest Hits (2004-11-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/515953ae-536a-4b3a-b211-ee5bdea3203a/28743679556-500.jpg" data-tags="alternative, rock, alternative rock, indie rock" role="button">
 Louis XIV - Illegal Tender (2005-01-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="garage rock" role="button">
+The Kills - No Wow (2005-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/7caecf9e-6fb2-4def-95ef-5cdf6dd05410/7479710791-500.jpg" data-tags="hip hop, german, deutsch" role="button">
 Fettes Brot - Am Wasser gebaut (2005-03-21)
+</li>
+<li data-cover="https://img.discogs.com/uFtKA1Fa55YLewy2sy8fbdEuAjw=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-424988-1304173670.jpeg.jpg" data-tags="sex, sexy album covers" role="button">
+Louis XIV - The Best Little Secrets Are Kept (2005-03-21)
 </li>
 <li data-cover="https://img.discogs.com/uJAkravpA6GYyRtoqeEzAHmXLhE=/fit-in/180x184/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074934-1262549271.jpeg.jpg" data-tags="germany, german, hollywood, liebe, tanzen, sucht, micha, maat, nur mit dir, micha maat, der moment" role="button">
 Bosse - Kamikazeherz (2005-04-22)
@@ -168,20 +159,23 @@ The Starting Line - Based on a True Story (2005-05-10)
 <li data-cover="http://coverartarchive.org/release/2eef9042-98bb-428e-9c2e-7b24f934ef29/25703433714-500.jpg" data-tags="indie rock, the spill canvas" role="button">
 The Spill Canvas - One Fell Swoop (2005-08-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
+The Pussycat Dolls - PCD (2005-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/08cd745b-46cf-4a65-8fa7-7bdcd8eb7004/5393612455-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, nuggets, bananas, x" role="button">
 Robyn - Det Bästa Med Robyn (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/d16253ce-a5be-489a-9d5e-8bc5413b31b4/11537954694-500.jpg" data-tags="ambient, downtempo" role="button">
-Jens Gad - Le Spa Sonique (2006-04-04)
+<li data-cover="http://coverartarchive.org/release/4b520816-0154-4435-ac2f-abfa1014d90c/28990513098-500.jpg" data-tags="twilight ost, rock" role="button">
+Muse - Supermassive Black Hole (2006-05-23)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
 Lily Allen - Smile (2006-07-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/39435b39-2faa-4d28-b2df-f7885ceedecb/7152713003-500.jpg" data-tags="female vocalists" role="button">
-Chelsea Wolfe - Mistake in Parting (2006-09-01)
+<li data-cover="https://img.discogs.com/WK7kItudmSg3rnMR8UnqqTCmsMU=/fit-in/600x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764877-1268008291.jpeg.jpg" data-tags="electroclash" role="button">
+Peaches - Impeach My Bush (2006-07-08)
 </li>
-<li data-cover="https://img.discogs.com/pPcjS9_A40-oXUGihJ-P0FIEJ5g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-957854-1177445829.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
-Cornelius - Sensuous (2006-10-25)
+<li data-cover="http://coverartarchive.org/release/635a5b7b-8e8d-48a6-9a94-5c7f1be00514/25471457716-500.jpg" data-tags="sex, have this lp" role="button">
+Grinderman - Get It On (2007-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc1bc121-6078-4413-954e-c394c2df0e6b/7997586808-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, nuggets, bananas, x, meat" role="button">
 Robyn - With Every Heartbeat (2007-08-06)
@@ -198,11 +192,11 @@ Nadia Oh - Hot Like Wow (2008-04-28)
 <li data-cover="http://coverartarchive.org/release/2ca906ab-42c6-4742-946d-1f85da952504/2634411437-500.jpg" data-tags="jazz" role="button">
 Esperanza Spalding - Esperanza (2008-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/e8659dc0-57e9-4f8e-b9ac-76d65a2c7582/9287989182-500.jpg" data-tags="deutsch" role="button">
-Philipp Poisel - Wo Fängt Dein Himmel An? (2008-06-13)
+<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, lovely, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend, bats, beef, batman" role="button">
+Katy Perry - Katy Perry (2008-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/a13d083b-0feb-4f33-abb2-361436edea85/27425373317-500.jpg" data-tags="hard rock, hair metal, sex, glam rock, brass balls, mötley crüe" role="button">
-Mötley Crüe - SEX (2008-06-24)
+<li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">
+Kevin Rudolf - In The City (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e606d644-7c0b-44cf-a03f-3dcb15bf9f32/8408242325-500.jpg" data-tags="electronic, indie pop" role="button">
 Starfucker - Jupiter (2009)
@@ -225,8 +219,8 @@ The xx - xx (2009-08-14)
 <li data-cover="https://img.discogs.com/L9imxs0W875JvMTeTlahqdp2_xA=/fit-in/398x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3036699-1312762940.jpeg.jpg" data-tags="female vocalists" role="button">
 Kina Grannis - Stairwells (2010-02-23)
 </li>
-<li data-cover="https://img.discogs.com/IA9Jo0o_1rz61KdcdWGby9_Pqw8=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300583-1300116208.jpeg.jpg" data-tags="hip hop, deutsch" role="button">
-Die Fantastischen Vier - Für Dich Immer Noch Fanta Sie (2010-05-14)
+<li data-cover="https://img.discogs.com/beKc7sAiHUweEnNafpZsZziLVjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608223-1572388236-8158.jpeg.jpg" data-tags="robyn" role="button">
+Robyn - Fembot (2010-04-13)
 </li>
 <li data-cover="https://img.discogs.com/Z8czKdd8IZiPB5S4Vg5zr3A3CxA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5089550-1398468985-9627.jpeg.jpg" data-tags="robyn" role="button">
 Robyn - Dancing on My Own (2010-06-01)
@@ -236,9 +230,6 @@ Robyn - Hang With Me (2010-08-09)
 </li>
 <li data-cover="https://img.discogs.com/taDtlTZGurPZNj5nLm347NAROPI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2432619-1283765901.jpeg.jpg" data-tags="soundtrack, hip-hop, electronic, electronica, trip-hop, electropop, hip hop, pop, chill, rock, soul, punk, alternative rock, reggae, folk, indie pop, indie rock, female vocalists, downtempo, dub, singer-songwriter, electro, dance, new wave, funk, house, minimal, canadian, idm, guitar, drum, bass, cover, song, germany, atmospheric, deutsch, punk rock, deutschrock, dnb, german, dancehall, sex, deutschpunk, liedermacher, indietronic, deutschrap, dub step, deutsch pop, nu-metal, cola, hollywood, german artists, deutschpop, german rap, liebe, 80er, chillhouse, singel, gitarre, electronic hip-hop, synthie, rostock, ich und du, helden, liebeskummer, geschichte, wir sind helden, herz, tanzen, rockmusik, augen, ich und ich, aggropop, sucht, liebeslieder, in your eyes, entspannung, stimmung, micha, durchdrehen, tierpark, underscrobbled, zweifel, soundtrack meines lebens, die kranken schwestern, nihao, mitsnakker, nur mit dir, erinnnerungen, chillaholic, micha maat, das zweite gesicht, aggroschlager, augensex, stille der nacht" role="button">
 Laserkraft 3D - Nein, Mann! (2010-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/f00156ab-a9a7-4c3b-b080-638ead47767d/17361936501-500.jpg" data-tags="rock" role="button">
-Kings of Leon - Radioactive (2010-09-10)
 </li>
 <li data-cover="https://img.discogs.com/zOFR07WQ9U9NlWsaJlrsLchcLcY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2486394-1312626804.jpeg.jpg" data-tags="electronic, chillout, downtempo" role="button">
 Teebs - Ardour (2010-10-19)
@@ -273,6 +264,9 @@ Mayer Hawthorne - How Do You Do (2011-10-04)
 <li data-cover="https://img.discogs.com/VakWVeVIeJoQeQjrgYg_u8sQvY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6418028-1576032078-4567.jpeg.jpg" data-tags="christmas" role="button">
 Justin Bieber - Under the Mistletoe (2011-11-01)
 </li>
+<li data-cover="https://img.discogs.com/lIDWKWAgcrAxjP7aDHCW6KN_1N4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2485631-1286637103.jpeg.jpg" data-tags="sex" role="button">
+My Darkest Days - Casual Sex (2012-01-17)
+</li>
 <li data-cover="https://img.discogs.com/EE-4_n8QL36emI_yiIwHt5II-MI=/fit-in/467x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2419837-1283081937.jpeg.jpg" data-tags="synthpop, glam rock, electronic, folktronica" role="button">
 Goldfrapp - The Singles (2012-02-03)
 </li>
@@ -297,11 +291,17 @@ HAIM - Don't Save Me (2012-11-13)
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
 Alicia Keys - Girl on Fire (2012-11-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/551e3ae7-a8a0-48e5-a739-4e436da3b70b/3327967040-500.jpg" data-tags="indie" role="button">
+HAIM - Falling (2013-02-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
 </li>
-<li data-cover="https://img.discogs.com/NkvkQQUdzpUS9UJgUiPmqjkwIQ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14307535-1571913740-8911.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/dbN6n83BE7ZXSQn9w7nqnvVaB0U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4960708-1380744325-6489.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
 Selena Gomez - Come & Get It (2013-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
+HAIM - Days Are Gone (2013-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)

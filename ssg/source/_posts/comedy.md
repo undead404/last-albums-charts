@@ -1,12 +1,12 @@
 ---
-date: 2021-04-04T21:44:01.279Z
+date: 2021-04-05T00:27:01.293Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0630e8a9-eca5-4028-b831-073341863532/16318842143-500.jpg" data-tags="comedy" role="button">"Weird Al" Yankovic - Bad Hair Day (1996-03-12)</li>
 <li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">Bloodhound Gang - Hooray for Boobies (1999-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - Tenacious D (2001-09-25)</li>
+<li data-cover="https://img.discogs.com/p8_cLCOZTh4qyzbyLYxSmBIJSRs=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2351207-1278866751.jpeg.jpg" data-tags="alternative, rock, comedy" role="button">Bloodhound Gang - Hefty Fine (2005-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - The Pick of Destiny (2006-09-26)</li>
 <li data-cover="https://img.discogs.com/T8utANq8MXWCH5GNg-KJPuxJJ6A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056126-1536182769-7526.jpeg.jpg" data-tags="comedy, guitar-based digi-bongo acapella-rap-funk-comedy folk duo" role="button">Flight of the Conchords - The Distant Future (2007-08-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">Flight of the Conchords - Flight of the Conchords (2008-04-21)</li>
@@ -29,9 +29,6 @@ Richard Pryor - That Nigger's Crazy (1974-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, comedy, monty python" role="button">
 Monty Python - Monty Python And The Holy Grail (1975-07-28)
-</li>
-<li data-cover="https://img.discogs.com/pS_tlTcCbqc5suQF0HKMzIw0m_8=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-705273-1152483199.jpeg.jpg" data-tags="comedy" role="button">
-Eddie Murphy - Eddie Murphy (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b07a6c8-a3a2-4f5e-abdc-c3c9359340be/3363166051-500.jpg" data-tags="party all the time" role="button">
 Eddie Murphy - How Could It Be (1985)
@@ -126,6 +123,9 @@ Tenacious D - Tenacious D (2001-09-25)
 <li data-cover="https://img.discogs.com/FF5DIMvzWA3_lYWAskJDZOq8kcE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12668200-1539691429-6474.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/41c58eb5-c31d-46ce-9fda-dffc2c35cf75/13632205461-500.jpg" data-tags="comedy" role="button">
+Flight of the Conchords - Folk the World Tour (2002-11-14)
+</li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
@@ -153,6 +153,9 @@ We Are Scientists - The Wolf's Hour (2004-12-01)
 <li data-cover="http://coverartarchive.org/release/a5226cf6-cefe-4017-b2b5-4976c32d7a9a/9436020974-500.jpg" data-tags="comedy, stand-up" role="button">
 Jim Gaffigan - Doing My Time (2004-12-07)
 </li>
+<li data-cover="https://img.discogs.com/p8_cLCOZTh4qyzbyLYxSmBIJSRs=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2351207-1278866751.jpeg.jpg" data-tags="alternative, rock, comedy" role="button">
+Bloodhound Gang - Hefty Fine (2005-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/f0b0e961-6a14-4538-99d4-a10ad29017f5/8093681591-500.jpg" data-tags="comedy" role="button">
 Dane Cook - Retaliation (2005-07-26)
 </li>
@@ -173,9 +176,6 @@ Helge Schneider - I Brake Together (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/edb3ef60-9f1e-46e9-a50f-b1ea5f5e7f9d/8104569816-500.jpg" data-tags="hip-hop, electronic, rap, experimental" role="button">
 2H Company - Искусство ухода за АК-47 (2007-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/74978338-9891-3189-9b07-e5555f41d207/3293405306-500.jpg" data-tags="alternative" role="button">
-They Might Be Giants - The Else (2007-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bc3ef86-36dd-4546-96ff-c644156b7b67/5384639454-500.jpg" data-tags="finnish, power metal, tokio hotel" role="button">
 Ari Koivunen - Fuel For The Fire (2007-05-24)

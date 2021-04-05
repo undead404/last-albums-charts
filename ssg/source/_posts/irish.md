@@ -1,16 +1,16 @@
 ---
-date: 2021-04-04T20:56:01.573Z
+date: 2021-04-05T00:31:01.477Z
 title: "irish: 100 albums you must listen to before you die"
 ---
-![Flogging Molly - Drunken Lullabies (2002-03-19)](http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg "Flogging Molly - Drunken Lullabies (2002-03-19)")
+![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">The Cranberries - No Need to Argue (1994-09)</li>
 <li data-cover="http://coverartarchive.org/release/9c27a860-f4f1-323f-9722-f3afd2114e4a/4773484086-500.jpg" data-tags="irish, punk" role="button">Flogging Molly - Swagger (2000-03-07)</li>
 <li data-cover="https://img.discogs.com/U8okCdE93Q8KnJ5rBtnugutb8JM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198146-1211495932.jpeg.jpg" data-tags="u2, rock" role="button">U2 - All That You Can't Leave Behind (2000-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg" data-tags="irish, punk" role="button">Flogging Molly - Drunken Lullabies (2002-03-19)</li>
+<li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">Flogging Molly - Within a Mile of Home (2004-09-14)</li>
-<li data-cover="http://coverartarchive.org/release/8200c418-1bc8-4231-902e-9de9d5fb08c4/3333959005-500.jpg" data-tags="punk, punk rock" role="button">Dropkick Murphys - The Warrior's Code (2005-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">Róisín Murphy - Overpowered (2007-05)</li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">The Script - Science & Faith (2010-09-13)</li>
@@ -138,9 +138,6 @@ The Dubliners - The Dubliners (1998)
 <li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
 Dropkick Murphys - Do or Die (1998-01-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f423674-98e5-4f80-9e70-9691dc13567e/15317941128-500.jpg" data-tags="irish, celtic" role="button">
-Gaelic Storm - Gaelic Storm (1998-07-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b886671-04bb-4e6f-bc02-310823641fe9/9041409104-500.jpg" data-tags="rock, u2, classic rock" role="button">
 U2 - The Best of 1980-1990 (1998-10-28)
 </li>
@@ -171,7 +168,7 @@ The Corrs - In Blue (2000-07-10)
 <li data-cover="http://coverartarchive.org/release/3ad25a36-8eda-3abd-ab57-b1db6cbfe0e7/27458441899-500.jpg" data-tags="pop" role="button">
 Ronan Keating - Ronan (2000-07-21)
 </li>
-<li data-cover="https://img.discogs.com/jPxobYClW9cUSZGg2ceFcBZ3_l0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-121824-1281705849.jpeg.jpg" data-tags="pop, dance" role="button">
+<li data-cover="https://img.discogs.com/Mc4VQjSmK_Ggix1ANr1W6L4gmEU=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125629-1281706221.jpeg.jpg" data-tags="pop, dance" role="button">
 Samantha Mumba - Gotta Tell You (2000-08-08)
 </li>
 <li data-cover="https://img.discogs.com/U8okCdE93Q8KnJ5rBtnugutb8JM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198146-1211495932.jpeg.jpg" data-tags="u2, rock" role="button">
@@ -200,6 +197,9 @@ Flogging Molly - Drunken Lullabies (2002-03-19)
 </li>
 <li data-cover="https://img.discogs.com/M39hBiXjfl2bPyfd88UkhSbF5vM=/fit-in/543x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203310-1349612467-3697.jpeg.jpg" data-tags="irish" role="button">
 Gemma Hayes - Night On My Side (2002-05-27)
+</li>
+<li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
+Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d09f662-31e0-4f4b-b317-dd332bb03fcc/3333923376-500.jpg" data-tags="punk, irish, live, celtic punk, dropkick murphys" role="button">
 Dropkick Murphys - Live on St. Patrick's Day (2002-09-09)

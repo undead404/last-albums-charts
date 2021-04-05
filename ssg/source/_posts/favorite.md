@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:22:01.332Z
+date: 2021-04-04T23:59:01.293Z
 title: "favorite: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -38,9 +38,6 @@ Sublime - Sublime (1995)
 </li>
 <li data-cover="https://img.discogs.com/mLwjMdz3iGwslNg5YKQ1FbAUtmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6034085-1420330233-7216.jpeg.jpg" data-tags="90s, ska, rock" role="button">
 No Doubt - Tragic Kingdom (1995-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/3475c257-246f-36f4-88f4-196dbf7bbed1/10281836755-500.jpg" data-tags="grunge, alternative rock" role="button">
-Soundgarden - Down on the Upside (1996-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
@@ -132,9 +129,6 @@ Kings of Leon - Youth & Young Manhood (2003-07-23)
 <li data-cover="http://coverartarchive.org/release/d5f37363-87f2-4e6c-90e6-3e7ea7a75a28/17213440528-500.jpg" data-tags="dance-punk, indie rock" role="button">
 The Rapture - Echoes (2003-09-08)
 </li>
-<li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
-Dave Matthews - Some Devil (2003-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/735e9638-b555-49f5-b536-01ce8df1dbeb/22159704215-500.jpg" data-tags="indie, indie rock, the shins" role="button">
 The Shins - Chutes Too Narrow (2003-10-21)
 </li>
@@ -177,11 +171,17 @@ Beirut - Gulag Orkestar (2005)
 <li data-cover="http://coverartarchive.org/release/568dcbcb-4711-4be7-a7a0-119cd5b057b0/18399816020-500.jpg" data-tags="pop" role="button">
 Daniel Powter - Bad Day (2005-03-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">
+Hot Hot Heat - Elevator (2005-03-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, favorite, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bcea44-73d4-4d78-979d-14f5a142816c/2279875362-500.jpg" data-tags="rock, hard rock" role="button">
 Seether - Karma & Effect (2005-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
+Sufjan Stevens - Illinois (2005-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
 Augustana - All The Stars and Boulevards (2005-09-06)
