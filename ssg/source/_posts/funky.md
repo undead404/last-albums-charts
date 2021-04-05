@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:07:01.289Z
+date: 2021-04-05T11:57:01.324Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/e436d0c0-008b-3656-b7db-a8d228352f0d/7498580143-500.jpg" data-tags="african, africa" role="button">
 Miriam Makeba - Pata Pata (1967)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
-Miles Davis - Bitches Brew (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
@@ -320,5 +317,8 @@ Broken Bells - After the Disco (2014-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/527c41b5-78a5-4975-989e-38416f9c976b/7041430564-500.jpg" data-tags="disco, dance, house, funky, disco house" role="button">
 Duck Sauce - Quack (2014-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
+Mark Ronson - Uptown Special (2015-01-12)
 </li>
 </ol>

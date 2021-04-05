@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T09:53:01.366Z
+date: 2021-04-05T12:27:01.469Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -246,6 +246,9 @@ Taylor Swift - Fearless (2008-11-11)
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Melody Gardot - My One And Only Thrill (2008-12-16)
+</li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
 </li>
@@ -278,9 +281,6 @@ Ellie Goulding - Lights (2010-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/851588f7-9cdb-473f-96d0-21680c4a383c/2466705356-500.jpg" data-tags="electronic" role="button">
 Kavinsky - Nightcall (2010-03-26)
-</li>
-<li data-cover="https://img.discogs.com/Wn2kWKIAhfX-dW93ZaehnSF0AtE=/fit-in/596x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2322548-1277654720.jpeg.jpg" data-tags="female vocalists, pop" role="button">
-Sia - We Are Born (2010-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T10:06:01.451Z
+date: 2021-04-05T12:30:01.573Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -144,9 +144,6 @@ Blues Traveler - Four (1994-09-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">
 Bob Dylan - Highway 61 Revisited (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee/2125238082-500.jpg" data-tags="rock" role="button">
-Joan Osborne - Relish (1995-03-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
 </li>
@@ -257,6 +254,9 @@ John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, jazz, rock, blues" role="button">
 The Verve - Love Is Noise (2008-08-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/218ff81b-3e00-387f-91e3-80ac7885789d/15457622056-500.jpg" data-tags="blues-rock, blues, blues rock" role="button">
 Dan Auerbach - Keep It Hid (2009-02-09)

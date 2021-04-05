@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:01:01.314Z
+date: 2021-04-05T12:11:01.343Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -171,6 +171,9 @@ Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 <li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">
 The Weepies - Say I Am You (2006-03-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="mat kearney" role="button">
+Mat Kearney - Nothing Left To Lose (2006-04-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)
 </li>
@@ -236,9 +239,6 @@ Secondhand Serenade - A Twist in My Story (2008-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
 Fleet Foxes - Sun Giant (2008-03-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
-She & Him - Volume One (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)

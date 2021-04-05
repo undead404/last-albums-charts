@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T10:42:01.362Z
+date: 2021-04-05T12:35:01.619Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -69,7 +69,7 @@ Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
 </li>
-<li data-cover="https://img.discogs.com/S28q1tvobiEdD92pTQ3SHsWSsaI=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196321-1587587662-8545.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
+<li data-cover="https://img.discogs.com/zknpTPXg1Vz4n4LW42A2yv4dTT0=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6649984-1423858680-7360.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
 Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
 <li data-cover="https://img.discogs.com/4XeMGHq5Amyr3RTMy0iBdUOWRfc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309391-1450531695-7510.jpeg.jpg" data-tags="hip-hop, rap" role="button">
@@ -125,9 +125,6 @@ Afroman - The Good Times (2001-08-28)
 </li>
 <li data-cover="https://img.discogs.com/wQGMKQQUqOyYIDIUtiO8oeaqYBI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-436576-1616625932-9387.jpeg.jpg" data-tags="rap" role="button">
 Fabolous - Ghetto Fabolous (2001-09-11)
-</li>
-<li data-cover="https://img.discogs.com/tGHlmKMFiBb3NIT2hGICAqydWmc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-262745-1212104777.jpeg.jpg" data-tags="rap, hip-hop, ludacris" role="button">
-Ludacris - Word of Mouf (2001-11-06)
 </li>
 <li data-cover="https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Nas - Stillmatic (2001-12-08)
@@ -290,6 +287,9 @@ Drake - Nothing Was the Same (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">
 Tyler, the Creator - Wolf (2013-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/4125216283-500.jpg" data-tags="hip hop" role="button">
+Chance the Rapper - Acid Rap (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
 Kanye West - Yeezus (2013-06-18)

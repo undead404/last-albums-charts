@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:45:01.571Z
+date: 2021-04-05T12:00:01.341Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -71,6 +71,9 @@ The Alan Parsons Project - I Robot (1977-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Wall (1979-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
+Buggles - The Age of Plastic (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
@@ -177,7 +180,7 @@ Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 <li data-cover="http://coverartarchive.org/release/46fafbb5-a0cb-4530-86e4-f80d8396e576/3985509153-500.jpg" data-tags="indie rock" role="button">
 Ugly Casanova - Sharpen Your Teeth (2002-05-21)
 </li>
-<li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
@@ -194,9 +197,6 @@ Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
 King Geedorah - Take Me to Your Leader (2003-06-16)
-</li>
-<li data-cover="https://img.discogs.com/ThUdCCIWjcnDuqwzIdkmvJPtBuE=/fit-in/600x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9712809-1485183244-7714.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
-Neil Young & Crazy Horse - Greendale (2003-08-18)
 </li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
@@ -306,7 +306,7 @@ Janelle Monáe - The ArchAndroid (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/933e061d-d45a-4b36-8a69-bdf3a239baf4/2631033047-500.jpg" data-tags="pagan metal, black metal" role="button">
 Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/VM40UbKDAi6J9rBcwVkWnc35urc=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5820535-1515078520-6172.jpeg.jpg" data-tags="folk" role="button">
 Eddie Vedder - Ukulele Songs (2011-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">

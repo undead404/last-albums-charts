@@ -1,16 +1,16 @@
 ---
-date: 2021-04-05T09:47:01.342Z
+date: 2021-04-05T12:28:01.417Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
-![Stars - Set Yourself on Fire (2004-09-14)](https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg "Stars - Set Yourself on Fire (2004-09-14)")
+![Feist - Let It Die (2004-05-18)](https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg "Feist - Let It Die (2004-05-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4a62cd38-0405-33c0-ade2-6be951f7b777/8606673911-500.jpg" data-tags="indie, indie rock" role="button">Broken Social Scene - You Forgot It In People (2002-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">Broken Social Scene - Broken Social Scene (2004)</li>
+<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">Stars - Set Yourself on Fire (2004-09-14)</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">Islands - Return to the Sea (2006-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
-<li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">Simple Plan - Simple Plan (2008-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">Mother Mother - O My Heart (2008-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">Metric - Fantasies (2009-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">Caribou - Swim (2010-04-16)</li>
@@ -120,8 +120,8 @@ Avril Lavigne - Under My Skin (2004-03)
 <li data-cover="https://img.discogs.com/aa2ZwdTxBhChGMOEqNwyJLoi3mw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393970-1215889453.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
 Broken Social Scene - Bee Hives (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
-Alanis Morissette - So-Called Chaos (2004-04-21)
+<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
+Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/yQfpMS6r_tvt7ANKPGGxEejdxmo=/fit-in/370x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538934-1288646845.jpeg.jpg" data-tags="rap, k-os, hip-hop, hip hop, canadian, hiphop" role="button">
 K-OS - Joyful Rebellion (2004-08-24)
@@ -165,9 +165,6 @@ Metric - Live It Out (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/57ed610e-fa13-41c8-a274-5a438cdaa304/18292512936-500.jpg" data-tags="indie, singer-songwriter, canadian, collett" role="button">
 Jason Collett - Idols of Exile (2006-02-07)
 </li>
-<li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
-Destroyer - Destroyer's Rubies (2006-02-21)
-</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
 </li>
@@ -200,6 +197,9 @@ You Say Party! We Say Die! - Lose All Time (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
+Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T09:35:02.175Z
+date: 2021-04-05T12:08:01.340Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -162,6 +162,9 @@ Keane - Under the Iron Sea (2006-06-07)
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
+Vienna Teng - Dreaming Through The Noise (2006-07-25)
+</li>
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
 Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 </li>
@@ -275,9 +278,6 @@ Nils Frahm - Felt (2011-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2b9813-5cc3-4408-b222-2a3f5b0768f6/4081358348-500.jpg" data-tags="british, folk" role="button">
 Birdy - Birdy (2011-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
-Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/56a15cf2-a435-48c9-8fdc-642e24aff561/4237979092-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">
 Ólafur Arnalds - Living Room Songs (2011-12-02)

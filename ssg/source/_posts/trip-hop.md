@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:32:01.541Z
+date: 2021-04-05T12:25:01.375Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -144,9 +144,6 @@ Télépopmusik - Genetic World (2001-05-21)
 <li data-cover="http://coverartarchive.org/release/86064722-1df6-3ade-ae5f-30cb7542c7a9/28689862312-500.jpg" data-tags="electronic" role="button">
 Faithless - Outrospective (2001-06-08)
 </li>
-<li data-cover="https://img.discogs.com/Qzb8p_yANgwSKZYx9PuAuo8WoO8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7951-1369675269-9326.jpeg.jpg" data-tags="trip-hop" role="button">
-Tricky - Blowback (2001-06-20)
-</li>
 <li data-cover="https://img.discogs.com/UVRE9KE-Ba7u4VKWfUvi9M4_PDw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377788-1460896455-8546.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)
 </li>
@@ -239,6 +236,9 @@ Archive - Lights (2006-05-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 Zero 7 - The Garden (2006-05-22)
+</li>
+<li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
+Saltillo - Ganglion (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0526cd89-0e9f-4fd1-bf29-c349091396f4/15207616068-500.jpg" data-tags="electronic, trip-hop, female vocalists" role="button">
 Moloko - Catalogue (2006-06-23)
