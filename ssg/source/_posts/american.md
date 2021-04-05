@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:49:01.493Z
+date: 2021-04-05T22:23:01.367Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -29,6 +29,9 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/e68f23df-61e3-4264-bfc3-17ac3a6f856b/5132812481-500.jpg" data-tags="classic rock, psychedelic rock" role="button">
 The Doors - L.A. Woman (1971-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg" data-tags="jazz" role="button">
+Louis Armstrong - What A Wonderful World (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 R.E.M. - Automatic for the People (1992-10-06)
@@ -89,9 +92,6 @@ No Doubt - Rock Steady (2001-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Busted Stuff (2002-07-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
-Stone Sour - Stone Sour (2002-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4559308-a761-3279-8243-35952f3aeb7a/19438296770-500.jpg" data-tags="country" role="button">
 Faith Hill - Cry (2002-10-14)

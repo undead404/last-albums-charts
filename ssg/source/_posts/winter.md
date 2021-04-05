@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:17:01.370Z
+date: 2021-04-05T22:05:01.533Z
 title: "winter: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -122,9 +122,6 @@ Unwound - Leaves Turn Inside You (2001-04-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Elbow - Asleep in the Back (2001-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/e756a547-b6f3-349a-aa9a-ef0c39a50979/28763105730-500.jpg" data-tags="shivaree" role="button">
-Shivaree - Rough Dreams (2001-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/441e153d-6ce6-3a75-aa4e-65f63b88d14f/3487982154-500.jpg" data-tags="electronic" role="button">
 Björk - Vespertine (2001-08-18)
@@ -314,6 +311,9 @@ Connect.Ohm - 9980 (2012-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6c6d7a9-3093-4c7c-9e41-87a7cf0a38bd/5163933768-500.jpg" data-tags="christmas" role="button">
 Tracey Thorn - Tinsel and Lights (2012-10-29)
+</li>
+<li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
+Bonobo - The North Borders (2013-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d1dc16a-a854-4589-b78b-f008af493aac/4871200031-500.jpg" data-tags="art pop, chamber pop" role="button">
 Julia Holter - Loud City Song (2013-08-19)

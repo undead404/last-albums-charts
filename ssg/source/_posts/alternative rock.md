@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:06:02.528Z
+date: 2021-04-05T22:15:01.572Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -132,14 +132,14 @@ Foo Fighters - One by One (2002-10-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Nirvana - Nirvana (2002-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/d2c4953c-08f2-49cb-9050-8f39b6f3803d/1018107254-500.jpg" data-tags="rock" role="button">
+3 Doors Down - Away from the Sun (2002-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d086e03-5984-489a-b628-a42c4560c1ad/8118136213-500.jpg" data-tags="alternative rock" role="button">
 Placebo - Sleeping with Ghosts (2003-01-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb29bd28-71e7-32d3-ab5f-c2d33b25434a/4817242679-500.jpg" data-tags="rock" role="button">
-The White Stripes - Elephant (2003-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)

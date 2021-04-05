@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T16:16:01.290Z
+date: 2021-04-05T21:50:01.342Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
@@ -7,7 +7,7 @@ title: "west coast rap: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">N.W.A - Straight Outta Compton (1988-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="https://img.discogs.com/wHALtqV28PDDCFeP_xQgXUm1tM0=/fit-in/319x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501300-1394997957-3919.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
-<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
+<li data-cover="https://img.discogs.com/EIkoXBp69PD7BgsBmMtxLt2XUF0=/fit-in/473x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4476951-1365964683-8178.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">2Pac - Loyal To The Game (2004-12-14)</li>
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">Ice Cube - Laugh Now, Cry Later (2006-06-06)</li>
@@ -30,9 +30,6 @@ N.W.A - Straight Outta Compton (1988-08-08)
 <li data-cover="https://img.discogs.com/C9Rgce-qiJV2TjWngrU6hR9jhYM=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-360884-1321488048.jpeg.jpg" data-tags="gangsta rap" role="button">
 Above the Law - Livin' Like Hustlers (1989-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/3bd285c0-a681-4f31-90a8-1f17584302b8/5071690990-500.jpg" data-tags="hip hop, chill, old school rap, gangsta rap, west coast, los angeles, west coast rap, westcoast rap, king tee" role="button">
-King Tee - At Your Own Risk (1990)
-</li>
 <li data-cover="https://img.discogs.com/bMQZZ6RfG-4SrQU2Mpmy0cjU9NI=/fit-in/600x945/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-589836-1464200717-8050.jpeg.jpg" data-tags="west coast rap, alternative hip hop, golden age hip hop, hip hop" role="button">
 Digital Underground - Sex Packets (1990)
 </li>
@@ -48,17 +45,11 @@ DJ Quik - Quik Is The Name (1991-07-01)
 <li data-cover="https://img.discogs.com/8Q2MyEyygKokpcWqLKQTn9b3BpI=/fit-in/450x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393110-1216743138.jpeg.jpg" data-tags="hip-hop, hip hop, rap, chicago, west coast rap, 50 cent" role="button">
 2nd II None - 2nd II None (1991-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c3147f3-cc42-4d39-aa6a-b3ab89838a2c/13680566673-500.jpg" data-tags="west coast rap" role="button">
-Digital Underground - Sons of the P (1991-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/291a821a-f1f3-4205-9abe-4a037c2b76ad/5860290031-500.jpg" data-tags="gangsta rap, golden age, rap, west coast" role="button">
 Ice Cube - Death Certificate (1991-10-29)
 </li>
-<li data-cover="https://img.discogs.com/7KZDZT4pqsFlPizQEUAz-U4NUUg=/fit-in/600x571/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-359853-1216759650.jpeg.jpg" data-tags="west coast rap" role="button">
-Above the Law - Black Mafia Life (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6312187-8513-4a82-bf3a-6b5d11c959c6/5729852366-500.jpg" data-tags="gangsta rap" role="button">
-X-Raided - Psycho Active (1992-04-16)
+<li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">
+2Pac - 2Pacalypse Now (1991-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/60aca4ff-ef2d-481d-af88-0902412e9963/7052463164-500.jpg" data-tags="hip-hop, 90s, west coast rap, white rap, collected, lastfm needs this, a sick honky straight goin donkey" role="button">
 N2DEEP - Back to the Hotel (1992-06-01)
@@ -105,6 +96,9 @@ Above the Law - Uncle Sam's Curse (1994-07-12)
 <li data-cover="http://coverartarchive.org/release/cb7ed05e-0466-42af-8f0e-9766f46c1c17/1408354865-500.jpg" data-tags="rap" role="button">
 Coolio - It Takes a Thief (1994-07-19)
 </li>
+<li data-cover="https://img.discogs.com/Intk6rY3WdV8CLu13rPAXKps-2E=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-800105-1188291332.jpeg.jpg" data-tags="hip-hop, chill, rap, underground rap, gangsta rap, san francisco, west coast rap, oakland, bay area, g-funk" role="button">
+Rappin' 4-Tay - Don't Fight The Feelin' (1994-09-13)
+</li>
 <li data-cover="https://img.discogs.com/f2XwaG8e7mH14L1Tgt3ZtKgHuRU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491718-1404084227-4320.jpeg.jpg" data-tags="black metal, rap, gangsta rap, sacramento, horrorcore, west coast rap" role="button">
 Sicx - Dead 4 Life (1995)
 </li>
@@ -126,9 +120,6 @@ Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 <li data-cover="https://img.discogs.com/4XeMGHq5Amyr3RTMy0iBdUOWRfc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309391-1450531695-7510.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/f883fc5d-eed0-4820-8e12-d9c96ad5ef60/21232931492-500.jpg" data-tags="g-funk, gangsta rap" role="button">
-B.G. Knocc Out & Dresta - Real Brothas (1995-08-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ca68cf0-608a-426b-9572-bcbfe0ae40be/16648702520-500.jpg" data-tags="crossover, hardcore" role="button">
 Body Count - Body Count (1996)
 </li>
@@ -138,16 +129,13 @@ Westside Connection - Bow Down (1996)
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/2b25262f-19d8-4c4d-979c-4a7f93bdb7ab/2359434092-500.jpg" data-tags="west coast rap" role="button">
-Dr. Dre - First Round Knock Out (1996-05-26)
-</li>
 <li data-cover="https://img.discogs.com/I9KSM5KKO4wuY7RxxkAU9y8Oze0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179746-1319325662.jpeg.jpg" data-tags="rap, gangsta rap" role="button">
 N.W.A - Greatest Hits (1996-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/de3957cd-8960-4737-92be-985c62003e51/4410563298-500.jpg" data-tags="west coast rap" role="button">
 Delinquent Habits - Delinquent Habits (1996-06-04)
 </li>
-<li data-cover="https://img.discogs.com/SiNxgK07Qq50cyr_QkpGPuDJHPk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11577249-1518811940-4502.jpeg.jpg" data-tags="hip-hop, alternative hip-hop, 1990s, west coast rap, cypress hill, extended play, deze heb ik, soul assassins, own it, us-american, columbia records, hip hop music, unreleased and revamped, ruffhouse records, k1r7m" role="button">
+<li data-cover="https://img.discogs.com/U9fR6m6qibaohhlV3TPlqZIhPAo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5637044-1398611167-1061.jpeg.jpg" data-tags="hip-hop, alternative hip-hop, 1990s, west coast rap, cypress hill, extended play, deze heb ik, soul assassins, own it, us-american, columbia records, hip hop music, unreleased and revamped, ruffhouse records, k1r7m" role="button">
 Cypress Hill - Unreleased & Revamped (1996-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f42f670-812f-4a93-bbbb-e4d081d3609a/15007041788-500.jpg" data-tags="west coast rap" role="button">
@@ -165,14 +153,14 @@ House of Pain - Truth Crushed to Earth Shall Rise Again (1996-10-22)
 <li data-cover="http://coverartarchive.org/release/b5a1d882-9a24-4c7b-afec-68c8abe8cfa7/15839004118-500.jpg" data-tags="west coast rap" role="button">
 E-40 - Tha Hall Of Game (1996-10-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/5f29de3a-321b-4d08-a0c7-bfbd771f0ea1/10258418145-500.jpg" data-tags="hip-hop, chill, rap, west coast rap, long beach, g-funk" role="button">
+Warren G - Take A Look Over Your Shoulder (Reality) (1997-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/622cb13b-dde2-4028-a00e-9f8fa6d4cbb2/6721093908-500.jpg" data-tags="chill, gangsta rap, los angeles, west coast rap, g-funk, ol school" role="button">
 South Central Cartel - All Day Everyday (1997-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c40fc782-74ae-461c-babf-c659fd09bdcb/5889126359-500.jpg" data-tags="rap, west coast rap, hiphop classic albums, my collection great 150 albumz of rap" role="button">
 Tha Alkaholiks - Likwidation (1997-08-26)
-</li>
-<li data-cover="https://img.discogs.com/2pJLCBhRJtyXvx_Zy9W-r0Z2tm4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1540807-1521982845-9362.jpeg.jpg" data-tags="rap" role="button">
-Coolio - My Soul (1997-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cb7e36a-21ca-41c5-a67f-b5ab8697f3b2/6670711958-500.jpg" data-tags="hip-hop" role="button">
 The Psycho Realm - The Psycho Realm (1997-10-28)
@@ -192,14 +180,14 @@ Cypress Hill - IV (1998-10-06)
 <li data-cover="http://coverartarchive.org/release/01a98e51-cc5b-4244-9aec-6c3552d1e774/14285343454-500.jpg" data-tags="gangsta rap" role="button">
 Kurupt - Kuruption! (1998-10-06)
 </li>
+<li data-cover="https://img.discogs.com/EIkoXBp69PD7BgsBmMtxLt2XUF0=/fit-in/473x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4476951-1365964683-8178.jpeg.jpg" data-tags="rap, 2pac" role="button">
+2Pac - Greatest Hits (1998-11-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/4ebe759e-22b8-4cbf-a54a-2b73f4830ecb/4765825574-500.jpg" data-tags="stones throw, turntablism" role="button">
 Peanut Butter Wolf - My Vinyl Weighs a Ton (1999-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdfbf57-5e2b-44f8-938c-c30c76de4bad/10735639975-500.jpg" data-tags="gangsta rap, g-funk, rap, west coast rap" role="button">
 Snoop Dogg - No Limit Top Dogg (1999-05-11)
-</li>
-<li data-cover="https://img.discogs.com/lrL8WIh1A8qmWeSrQ-b5OpowPFo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1197863-1327429370.jpeg.jpg" data-tags="west coast rap, g-funk" role="button">
-2nd II None - Classic 220 (1999-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/87981701-cc00-3c5c-af07-00050c115435/24559007750-500.jpg" data-tags="hip-hop, funk, underground hip-hop, funk-hop" role="button">
 Blackalicious - A2G EP (1999-10-26)
@@ -219,14 +207,17 @@ Tha Eastsidaz - Snoop Dogg Presents Tha Eastsidaz (2000-02-01)
 <li data-cover="http://coverartarchive.org/release/05a01d85-ea57-4b35-a7cd-f1ae18437328/3420809133-500.jpg" data-tags="ice cube, gangsta rap" role="button">
 Ice Cube - War & Peace, Volume 2 (The Peace disc) (2000-03-21)
 </li>
-<li data-cover="https://img.discogs.com/ukqQZYcDivgcvv1PJGX_TW0wh7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490124-1603833975-6701.jpeg.jpg" data-tags="hip-hop, rap, underground hip-hop, east coast rap" role="button">
+<li data-cover="http://coverartarchive.org/release/7cfeebb6-9d0f-4c27-9af1-e2af81fb1f58/18898916089-500.jpg" data-tags="rap, west coast rap" role="button">
+DJ Quik - Balance & Options (2000-05-16)
+</li>
+<li data-cover="https://img.discogs.com/ifUhk2XhKqUg5JtpeAvy9iCBDaI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2614760-1293356882.jpeg.jpg" data-tags="hip-hop, rap, underground hip-hop, east coast rap" role="button">
 Dilated Peoples - The Platform (2000-05-20)
 </li>
 <li data-cover="https://img.discogs.com/qGOK9mTz16ga2l2a1apbDJtIGk8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3728751-1400553821-4614.jpeg.jpg" data-tags="rap" role="button">
 Snoop Dogg - Tha Last Meal (2000-12-19)
 </li>
-<li data-cover="https://img.discogs.com/gR2kpxeO75XJxv2c6ugK3pfD-Bc=/fit-in/385x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-425858-1169041129.jpeg.jpg" data-tags="west coast rap" role="button">
-Kurupt - Space Boogie: Smoke Oddessey (2001-07-10)
+<li data-cover="http://coverartarchive.org/release/3c9822ef-2188-4b78-93f2-67540352b45c/4402762632-500.jpg" data-tags="rap" role="button">
+Coolio - Fantastic Voyage: The Greatest Hits (2001-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d2b68f-d527-498a-94cf-8a2683439fc0/22404891783-500.jpg" data-tags="hip-hop, political, political rap" role="button">
 The Coup - Party Music (2001-11-06)
@@ -240,11 +231,14 @@ Cypress Hill - Stoned Raiders (2001-12-01)
 <li data-cover="http://coverartarchive.org/release/f68c4733-b716-4173-ad90-57bb48b34f5c/28502832824-500.jpg" data-tags="g-funk" role="button">
 Nate Dogg - Music & Me (2001-12-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/9e3e9586-f946-4895-8d09-7ddba20a6a38/8619050284-500.jpg" data-tags="rap" role="button">
+Xzibit - Man Vs. Machine (2002-10-01)
+</li>
 <li data-cover="https://img.discogs.com/fTrzU8dYMxdwGRMwLrwQMc6kr1c=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426669-1142683123.jpeg.jpg" data-tags="rap, g-funk" role="button">
 Snoop Dogg - Paid Tha Cost To Be Da Bo$$ (2002-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/b94883cc-6716-4b9d-b72c-719cac2bc124/6257284345-500.jpg" data-tags="hip hop" role="button">
-Wildchild - Secondary Protocol (2003)
+<li data-cover="http://coverartarchive.org/release/105029c7-f9c6-4009-99ef-3649ee2f9657/6771386158-500.jpg" data-tags="rap, 2pac" role="button">
+2Pac - Better Dayz (2002-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/723dea4c-3a6d-4d21-9d2c-548eb5dc54d7/17201983621-500.jpg" data-tags="hip-hop" role="button">
 Murs - ....The End Of The Beginning (2003-02-25)
@@ -264,26 +258,32 @@ Cypress Hill - Till Death Do Us Part (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
 The Game - The Documentary (2005-01-18)
 </li>
-<li data-cover="https://img.discogs.com/LbNledP0SokmLzPoEsEY1ASpKv8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2099620-1365534293-8632.jpeg.jpg" data-tags="hip hop, g-funk" role="button">
+<li data-cover="https://img.discogs.com/Gz8fgdb8aRzaW9DvlXvOiCCn2Es=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955499-1380750118-1937.jpeg.jpg" data-tags="rap, hiphop, gangsta rap, west coast rap, bone thugs, silentangel" role="button">
+Layzie Bone - It's Not a Game (2005-05-31)
+</li>
+<li data-cover="https://img.discogs.com/Tp-bxsQEfib8cVvrDVnd2JOOdrY=/fit-in/560x1082/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9282217-1480849326-7871.png.jpg" data-tags="hip hop, g-funk" role="button">
 DJ Quik - Trauma (2005-09-13)
 </li>
-<li data-cover="https://img.discogs.com/gomAIXmJVwyL-atr530FO95TlYQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-985239-1290031170.jpeg.jpg" data-tags="hip hop, p-funk, hell" role="button">
+<li data-cover="https://img.discogs.com/MqcwGwndyMuPGcNa1fnwmuNTJjI=/fit-in/530x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169472-1141848342.jpeg.jpg" data-tags="hip hop, p-funk, hell" role="button">
 Digital Underground - Playwutchyalike: The Best Of Digital Underground (2006-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2d5ecfb-8a23-4b92-9300-8a46eded458a/15839008495-500.jpg" data-tags="rap, west coast rap, e-40" role="button">
+E-40 - My Ghetto Report Card (2006-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">
 Ice Cube - Laugh Now, Cry Later (2006-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/bed68de2-1e9d-4617-845c-355843d54989/22349860110-500.jpg" data-tags="hip hop, rap, gangsta rap" role="button">
-Tha Dogg Pound - Cali Iz Active (2006-06-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
 The Game - Doctor's Advocate (2006-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
+Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c5ea6f2-1f26-4945-a19d-067aa887c55c/22629239985-500.jpg" data-tags="gangsta rap" role="button">
 Daz Dillinger - Only On The Left Side (2008-08-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/d86a17d7-77c0-45e5-87cc-7a0ea351d260/14768323100-500.jpg" data-tags="west coast rap" role="button">
-Sen Dog - Diary Of A Mad Dog (2008-09-30)
+<li data-cover="https://img.discogs.com/tULKVSGN0Ku-rrMWAyhz3JIZBcs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2010194-1567369008-2985.jpeg.jpg" data-tags="rap" role="button">
+The Game - LAX (2008-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f24bf1-b934-4037-9430-75c498b25abb/20376297689-500.jpg" data-tags="hip-hop, west coast rap, pf09, pitchfork top 50 albums of 2009" role="button">
 DJ Quik & Kurupt - BlaQKout (2009-06-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:00:01.341Z
+date: 2021-04-05T22:38:01.353Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
-John Coltrane - A Love Supreme (1965-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
 The Moody Blues - Days of Future Passed (1967-11-11)
 </li>
@@ -198,6 +195,9 @@ Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 <li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
 King Geedorah - Take Me to Your Leader (2003-06-16)
 </li>
+<li data-cover="https://img.discogs.com/ThUdCCIWjcnDuqwzIdkmvJPtBuE=/fit-in/600x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9712809-1485183244-7714.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
+Neil Young & Crazy Horse - Greendale (2003-08-18)
+</li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
 </li>
@@ -219,7 +219,7 @@ Arcade Fire - Funeral (2004-09-13)
 <li data-cover="https://img.discogs.com/BOfifoLmDttVwiJV2tdm9sKm6Zg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9175804-1550518049-6963.jpeg.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Be (2004-09-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/ZC5qdddgiu7nfI2pBeS7HkRj3mQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4431342-1565229212-6023.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
 </li>
 <li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">
@@ -237,7 +237,7 @@ The Mountain Goats - The Sunset Tree (2005-04-25)
 <li data-cover="http://coverartarchive.org/release/8229113f-641b-3333-bd9e-faa23c4f75ef/12368351534-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
 Aimee Mann - The Forgotten Arm (2005-04-27)
 </li>
-<li data-cover="https://img.discogs.com/b2iDTisa_5B2CiWUj6y3h0k1fL8=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9398451-1617054407-7570.jpeg.jpg" data-tags="rock, indie" role="button">
+<li data-cover="https://img.discogs.com/zglsbKAcHiIS-ejfAIagUpjrYMo=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-660171-1499753855-2263.jpeg.jpg" data-tags="rock, indie" role="button">
 The Hold Steady - Separation Sunday (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">

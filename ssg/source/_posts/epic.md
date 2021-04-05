@@ -1,8 +1,8 @@
 ---
-date: 2021-04-04T20:37:01.310Z
+date: 2021-04-05T21:51:01.382Z
 title: "epic: 100 albums you must listen to before you die"
 ---
-![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
+![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">Yndi Halda - Enjoy Eternal Bliss (2005)</li>
@@ -10,7 +10,7 @@ title: "epic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/99bda8a2-35d6-4534-b256-a9e103046240/3375102080-500.jpg" data-tags="alternative, rock, alternative rock" role="button">Biffy Clyro - Puzzle (2007-05-28)</li>
 <li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">Matisyahu - Light (2009-08-25)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">Lady Gaga - ARTPOP (2013-11-05)</li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">Lana Del Rey - Ultraviolence (2014-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/e5f65789-2b01-4a8c-adde-eae7602bd38c/8376081336-500.jpg" data-tags="pop, pop rock, epic, bad albums" role="button">The Script - No Sound Without Silence (2014-09-12)</li>
@@ -21,12 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e9a8f2de-5145-3d5b-9787-9344f15b72ad/10118746823-500.jpg" data-tags="jazz, avant-garde jazz" role="button">
-Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
-John Coltrane - A Love Supreme (1965-01)
-</li>
 <li data-cover="https://img.discogs.com/5kt54xbpjkIEZPaqLtSJVyXpslY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-822032-1162315250.jpeg.jpg" data-tags="soul, 70s, epic, legacy recordings, s otis" role="button">
 Shuggie Otis - Freedom Flight (1971-09)
 </li>
@@ -117,6 +111,9 @@ Melvins - A Senile Animal (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
+<li data-cover="https://img.discogs.com/yscyxocBpf7kngxBp-Z8hT5_XmE=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306901-1597678021-8727.jpeg.jpg" data-tags="rock, punk, epic, punk rock, awesome lyrics" role="button">
+I Hate Kate - Embrace The Curse (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
@@ -159,7 +156,7 @@ As Cities Burn - Hell Or High Water (2009-03)
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
 </li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/QATndLAJ0CgPpLsFsJAb1ZBL3no=/fit-in/484x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1715921-1305867861.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bb79800-0644-4e8d-8274-0775a74de3ad/3302404966-500.jpg" data-tags="experimental" role="button">
@@ -201,7 +198,7 @@ E.S. Posthumus - Makara (2010-02-02)
 <li data-cover="http://coverartarchive.org/release/58145268-9ecd-42f5-9f1c-4e7968c7d285/4828304228-500.jpg" data-tags="folk, epic, contemporary folk, romantic, melodic, quirky, soundtracks, energetic, narrative, passionate, literate, musical, irreverent, organic, rainy day, confident, earnest, provocative, uncompromising, dramatic, bittersweet, eerie, intimate, earthy, elegant, alternative folk, yearning, warm, lyrical, flowing, poignant, detached, playful, sensual, delicate, lush, wistful, witty, enigmatic, tender, philosophical, unsettling, desperate, graceful, elaborate, gutsy, lively, 2010 releases, desert island albums, flawless albums, ambitious, elegiac, serious, kinetic, desert island discs, cosmopolitan, folk opera, physical cds i actually own, the perfect record" role="button">
 Anaïs Mitchell - Hadestown (2010-03-09)
 </li>
-<li data-cover="https://img.discogs.com/4NIOxoT-a2t1ccQ8mYQowHC4qg8=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2210927-1296129905.jpeg.jpg" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
@@ -231,7 +228,7 @@ Britney Spears - Femme Fatale (2011-03-25)
 <li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
 Lady Gaga - Judas (2011-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/44f51496-6f52-4ed1-b8a9-0f81a9f04b3b/1242603301-500.jpg" data-tags="indie, clean, epic, summer, dfa" role="button">
@@ -261,11 +258,14 @@ Dead Can Dance - Anastasis (2012-08-13)
 <li data-cover="http://coverartarchive.org/release/cefbfa99-d262-4f3e-a98d-23fff5c0b316/25315519841-500.jpg" data-tags="epic, j-rock, oneokrock" role="button">
 ONE OK ROCK - The Beginning (2012-08-22)
 </li>
-<li data-cover="https://img.discogs.com/SialTdLqfIVngta-WfhyvKRLeMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826540-1345940532-4427.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, vinyl, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
+<li data-cover="https://img.discogs.com/SialTdLqfIVngta-WfhyvKRLeMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826540-1345940532-4427.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">
 Dan Deacon - America (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
+Calvin Harris - 18 Months (2012-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
@@ -318,7 +318,7 @@ The Script - No Sound Without Silence (2014-09-12)
 <li data-cover="http://coverartarchive.org/release/ed809e0c-09cc-41bd-a4bc-9f78067fc450/8595143371-500.jpg" data-tags="soundtrack, instrumental, epic" role="button">
 Thomas Bergersen - Sun (2014-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, gay metal, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
+<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
 Marissa Nadler - Before July: Demos & Unreleased Songs (2014-12-01)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:44:01.335Z
+date: 2021-04-05T22:40:01.336Z
 title: "goth rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -96,7 +96,7 @@ The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
 <li data-cover="http://coverartarchive.org/release/da754b66-e53f-4de6-b76b-78865fcd5a2f/14564374105-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - Floodland (1987-11-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, psychedelic rock, goth rock" role="button">
+<li data-cover="https://img.discogs.com/DkLC_R8dMB-DgyEFJcUdHVhoQD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655082-1367099970-4074.jpeg.jpg" data-tags="post-punk, psychedelic rock, goth rock" role="button">
 Red Temple Spirits - Dancing to Restore an Eclipsed Moon (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fb0b77e-55a7-475a-9f36-c30ef7d50c26/9152173206-500.jpg" data-tags="80s" role="button">
@@ -117,7 +117,7 @@ The Cure - Entreat (1989)
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/9170d3c7-6de3-4909-8661-02c5460e34e6/3073878169-500.jpg" data-tags="alternative, alternative rock, new wave, favorite, goth rock, dead rockstars, favourite records in my collection,  post-punk" role="button">
+<li data-cover="http://coverartarchive.org/release/9170d3c7-6de3-4909-8661-02c5460e34e6/3073878169-500.jpg" data-tags="alternative, alternative rock, new wave, goth rock, dead rockstars, favourite records in my collection,  post-punk" role="button">
 The Birthday Party - Mutiny / The Bad Seed E.P. (1989-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcbdb949-1460-38e8-86ca-b8ab843347ef/14998047234-500.jpg" data-tags="post-punk" role="button">
@@ -141,8 +141,8 @@ London After Midnight - Selected Scenes From the End of the World (1992)
 <li data-cover="https://img.discogs.com/-jepZ8ySOhoza_Xbl2DH53k4Ryc=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-453794-1216748755.jpeg.jpg" data-tags="gothic rock" role="button">
 The Merry Thoughts - Millenium Done I: Empire Songs (1993)
 </li>
-<li data-cover="https://img.discogs.com/8M519oL2CK6vII-QBH0TTkN5CBs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-568248-1375002519-8906.jpeg.jpg" data-tags="gothic rock" role="button">
-The March Violets - The Botanic Verses (1993)
+<li data-cover="http://coverartarchive.org/release/eb66ad3f-03b3-47e1-abaf-a665ea6b847d/4820047755-500.jpg" data-tags="metal, goth rock" role="button">
+Seigmen - Ameneon (1993-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6938225-87a0-4c23-929f-278b61f93fca/5718773240-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - A Slight Case of Overbombing (1993-08-20)
@@ -255,9 +255,6 @@ Scary Bitches - Creepy Crawlies (2004)
 <li data-cover="http://coverartarchive.org/release/32924277-c4c4-4271-857e-663fca31cc79/6644994021-500.jpg" data-tags="shoegaze, rock, alternative" role="button">
 Scarling. - Sweet Heart Dealer (2004-02-17)
 </li>
-<li data-cover="https://img.discogs.com/u90wQR6gBl7YIo2I39HVljTLrX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6920374-1498485913-2816.jpeg.jpg" data-tags="darkwave, electronic, visual kei" role="button">
-Schwarz Stein - Artificial Hallucination (2004-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/8bca7844-ea2d-46ac-9105-3087ab8f7b0a/22898798052-500.jpg" data-tags="gothic metal, female fronted metal" role="button">
 Flowing Tears - Razorbliss (2004-03-22)
 </li>
@@ -284,6 +281,9 @@ Charon - Songs for the Sinners (2005-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - She Wants Revenge (2005-12-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
+Godhead - The Shadow Line (2006-08-29)
 </li>
 <li data-cover="https://img.discogs.com/dEADnWZ22h2m69wsaK7UmA5euVs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8453695-1462473692-2954.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Angels (2007-02-27)

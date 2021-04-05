@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:06:01.370Z
+date: 2021-04-05T22:28:01.422Z
 title: "intense: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
-John Coltrane - A Love Supreme (1965-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/a3e5370f-28e0-488c-b5d1-6f5e2b73ceec/3683681968-500.jpg" data-tags="vocal, jazz, sad, torch songs, vocal jazz, blues, reflective, passionate, melancholy, organic, intense, confident, aggressive, fiery, freewheeling, provocative, uncompromising, dramatic, bittersweet, introspection, intimate, earthy, elegant, standards, yearning, sophisticated, poignant, autumnal, autumn, delicate, brooding, feeling blue, empowerment, gritty, volatile, refined, theatrical, difficult, plaintive, austere, ambitious, rca victor, simone, gammarec, dr nina simone, freepurp1e, modern jazz vocals" role="button">
 Nina Simone - Black Gold (1970)
 </li>
@@ -60,6 +57,9 @@ The Animals - The Complete Animals (1990-07-09)
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
+<li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
+Helmet - Meantime (1992-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
 Dinosaur Jr. - Without a Sound (1994-08-01)
 </li>
@@ -69,17 +69,11 @@ Slint - Slint (1994-08-29)
 <li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
 dEUS - Worst Case Scenario (1994-09-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
-Autechre - Amber (1994-11-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
-Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
@@ -125,6 +119,9 @@ The Music - The Music (2002-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2a314ab-986e-40af-8cab-04806ab68ce9/7927220552-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - Tallahassee (2002-11-05)
+</li>
+<li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
+Nas - God's Son (2002-12-16)
 </li>
 <li data-cover="https://img.discogs.com/mmRaVbai-ToDt76_6__TagAYm7I=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1305762-1224905953.jpeg.jpg" data-tags="indie rock" role="button">
 British Sea Power - The Decline of British Sea Power (2003-06-02)
@@ -203,6 +200,9 @@ Matrix & Futurebound - Universal Truth (2007-04-09)
 </li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
+</li>
+<li data-cover="https://img.discogs.com/QMupNKCRuTDehPuY3w_KUTgQF5A=/fit-in/437x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518761-1305094303.jpeg.jpg" data-tags="indie pop, indie" role="button">
+Eisley - Combinations (2007-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/28eb699a-f254-4873-8afb-557aea44c884/5614369854-500.jpg" data-tags="italians do it better, electronic, electronica, synthpop" role="button">
 Chromatics - Night Drive (2007-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:37:01.824Z
+date: 2021-04-05T22:11:01.519Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -135,6 +135,9 @@ Foo Fighters - One by One (2002-10-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Nirvana - Nirvana (2002-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/d2c4953c-08f2-49cb-9050-8f39b6f3803d/1018107254-500.jpg" data-tags="rock" role="button">
+3 Doors Down - Away from the Sun (2002-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
 </li>
@@ -152,9 +155,6 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative, 2003" role="button">
 Radiohead - Hail to the Thief (2003-05-26)
-</li>
-<li data-cover="https://img.discogs.com/F2cpcdILzz-YBjRBN9JCs-TkyB0=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1107422-1251012254.jpeg.jpg" data-tags="rock, alternative rock" role="button">
-Hoobastank - The Reason (2003-06-30)
 </li>
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">
 Yellowcard - Ocean Avenue (2003-07-22)

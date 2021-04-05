@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:14:01.398Z
+date: 2021-04-05T22:33:01.386Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -120,9 +120,6 @@ Misfits - Static Age (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
 </li>
-<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
-Refused - The Shape of Punk to Come (1998-10-27)
-</li>
 <li data-cover="https://img.discogs.com/Ed6zur6V7QL3cQwSuhTSu7dIbiY=/fit-in/189x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596818-1448916413-5494.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
 </li>
@@ -165,11 +162,14 @@ Taking Back Sunday - Tell All Your Friends (2002-03-26)
 <li data-cover="http://coverartarchive.org/release/3b24f4f3-5617-47fd-ac30-e82282d7621f/11149812820-500.jpg" data-tags="punk rock" role="button">
 Box Car Racer - Box Car Racer (2002-05-21)
 </li>
+<li data-cover="https://img.discogs.com/EEctr5TwNHN6kK0zJTkPBdmzFPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4098241-1590334404-2830.jpeg.jpg" data-tags="pop punk" role="button">
+New Found Glory - Sticks and Stones (2002-06-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
-The Ataris - So Long, Astoria (2003-02-03)
+<li data-cover="http://coverartarchive.org/release/29911ee4-301b-4192-924e-24db9e973227/15248581026-500.jpg" data-tags="punk rock" role="button">
+Sum 41 - Does This Look Infected? (2002-11-25)
 </li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
@@ -182,9 +182,6 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/d09eb97a-d4d9-4aec-ac81-524f4ee1c09d/6140037439-500.jpg" data-tags="punk rock" role="button">
-Alkaline Trio - Good Mourning (2003-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/41c645e2-dc4d-3a56-ac30-1d1e55946c62/4773391073-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - Blackout (2003-06-10)
@@ -243,9 +240,6 @@ Sum 41 - Chuck (2004-10-04)
 <li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
 Simple Plan - Still Not Getting Any (2004-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6bda500-eac7-40c8-ab38-4a88a34da3e0/20975852434-500.jpg" data-tags="punk" role="button">
-Green Day - Holiday (2005-03-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
@@ -263,6 +257,9 @@ Gogol Bordello - Gypsy Punks: Underdog World Strike (2005-08-09)
 </li>
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
+Anti-Flag - For Blood and Empire (2006-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
@@ -290,6 +287,9 @@ The Gaslight Anthem - Sink or Swim (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/060e7fec-7984-313d-a76d-493354106e7d/14523195786-500.jpg" data-tags="punk rock, punk" role="button">
+Sum 41 - Underclass Hero (2007-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)

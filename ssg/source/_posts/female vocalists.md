@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:27:01.469Z
+date: 2021-04-05T22:08:01.395Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -71,6 +71,9 @@ PJ Harvey - Stories from the City, Stories from the Sea (2000-10-22)
 </li>
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
 Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
+Norah Jones - Come Away with Me (2002-02-26)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
@@ -264,9 +267,6 @@ Bat for Lashes - Two Suns (2009-04-03)
 <li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
 </li>
-<li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
-Imogen Heap - Ellipse (2009-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
 </li>
@@ -294,7 +294,7 @@ Adele - 21 (2011-01-19)
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
 Jessie J - Who You Are (2011-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">

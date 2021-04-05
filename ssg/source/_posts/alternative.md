@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:34:01.491Z
+date: 2021-04-05T22:24:01.426Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -159,9 +159,6 @@ Snow Patrol - Final Straw (2003-08-04)
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
-The Strokes - Room on Fire (2003-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
@@ -308,6 +305,9 @@ Florence + the Machine - Ceremonials (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
+alt-J - An Awesome Wave (2012-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)

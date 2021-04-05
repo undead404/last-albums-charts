@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:56:01.448Z
+date: 2021-04-05T22:34:01.375Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - The Best Damn Thing (2007-04-13)](http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg "Avril Lavigne - The Best Damn Thing (2007-04-13)")
@@ -65,6 +65,9 @@ Hilary Duff - Metamorphosis (2003-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d95118-de70-4ce2-9296-c0a919834e47/6247612410-500.jpg" data-tags="rock, pop rock" role="button">
 Gavin DeGraw - Chariot (2003-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
+John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg" data-tags="rock, female vocalists, pop rock, p!nk" role="button">
 P!nk - Try This (2003-11-10)
@@ -239,9 +242,6 @@ Gavin DeGraw - Sweeter (2011-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae13c2c9-0d87-4653-9cc3-379a9602714a/10152453902-500.jpg" data-tags="pop rock" role="button">
-Kelly Clarkson - Stronger (2011-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
 Gym Class Heroes - The Papercut Chronicles II (2011-11-11)

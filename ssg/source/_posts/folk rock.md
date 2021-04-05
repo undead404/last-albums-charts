@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:15:01.485Z
+date: 2021-04-05T22:39:01.368Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Highway 61 Revisited (1995)](https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg "Bob Dylan - Highway 61 Revisited (1995)")
@@ -117,9 +117,6 @@ Jeff Buckley - Grace (1994-08-15)
 <li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">
 Bob Dylan - Highway 61 Revisited (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
-Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/cef41ad3-9604-476f-8449-907e4a39072a/18916427598-500.jpg" data-tags="folk rock, folk, medieval" role="button">
 Blackmore's Night - Shadow Of The Moon (1997-04-23)
 </li>
@@ -128,6 +125,9 @@ Blackmore's Night - Under A Violet Moon (1999-04-21)
 </li>
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
+The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)

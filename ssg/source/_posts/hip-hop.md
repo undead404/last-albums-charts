@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:27:01.514Z
+date: 2021-04-05T22:16:08.034Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -177,9 +177,6 @@ Gorillaz - Demon Days (2005-05-11)
 <li data-cover="http://coverartarchive.org/release/077940e5-0912-38be-bf3c-699b38daa323/4402686825-500.jpg" data-tags="hip-hop" role="button">
 Common - Be (2005-05-23)
 </li>
-<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
-Beastie Boys - Solid Gold Hits (2005-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)
 </li>
@@ -209,6 +206,9 @@ M.I.A. - Kala (2007-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">
 Aesop Rock - None Shall Pass (2007-08-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
+Flobots - Fight With Tools (2007-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/af5f8d32-47b1-4715-b6b4-5a00e411adfb/17404962418-500.jpg" data-tags="hip-hop, indie" role="button">
 Why? - Alopecia (2008-02-25)

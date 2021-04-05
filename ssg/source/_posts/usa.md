@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:11:01.346Z
+date: 2021-04-05T21:57:01.421Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -21,12 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e9a8f2de-5145-3d5b-9787-9344f15b72ad/10118746823-500.jpg" data-tags="jazz, avant-garde jazz" role="button">
-Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
-John Coltrane - A Love Supreme (1965-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f15114e-4bb6-4741-8b24-fbe8cfcbdf9b/10124261890-500.jpg" data-tags="soul, motown, stevie wonder" role="button">
 Stevie Wonder - For Once in My Life (1968)
 </li>
@@ -51,14 +45,14 @@ Nine Inch Nails - The Downward Spiral (1994-03-08)
 <li data-cover="http://coverartarchive.org/release/a9bc984c-c725-4fc7-8864-7835b7bc255b/9576050460-500.jpg" data-tags="mellow" role="button">
 G. Love & Special Sauce - G. Love & Special Sauce (1994-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
+Dinosaur Jr. - Without a Sound (1994-08-01)
+</li>
 <li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bce126e-92a6-3e36-8777-baa8f2c296d3/8615407273-500.jpg" data-tags="folk" role="button">
 Tracy Chapman - New Beginning (1995-11-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative, rock" role="button">
-Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
@@ -183,7 +177,10 @@ The All-American Rejects - When the World Comes Down (2008-12-16)
 <li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
 </li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
+Matt & Kim - Grand (2009-01-20)
+</li>
+<li data-cover="https://img.discogs.com/QATndLAJ0CgPpLsFsJAb1ZBL3no=/fit-in/484x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1715921-1305867861.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/p5ooF-LwxzLieYYcqjoGEmuP8ho=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5236928-1388374251-4979.jpeg.jpg" data-tags="indie, usa, memories, americana, alt-country, 00s, luisterpaal, new album, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
@@ -251,6 +248,9 @@ The Kills - Blood Pressures (2011-04-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">
+fun. - Some Nights (2011-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/002ac98a-b6f5-460f-9ff2-8aa2ca5a2722/14502876960-500.jpg" data-tags="funk" role="button">
 Lenny Kravitz - Black and White America (2011-08-19)

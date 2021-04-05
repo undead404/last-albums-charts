@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:37:01.360Z
+date: 2021-04-05T21:58:06.886Z
 title: "dreamy: 100 albums you must listen to before you die"
 ---
 ![Little Dragon - Ritual Union (2011-05-13)](https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg "Little Dragon - Ritual Union (2011-05-13)")
@@ -86,9 +86,6 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 </li>
 <li data-cover="https://img.discogs.com/J1nQVSd6Kw41GvClK2lIQYyt2fM=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725811-1239432666.jpeg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/1fea8701-af43-403c-b1ad-7b38ac9ed054/23085815141-500.jpg" data-tags="ambient, experimental" role="button">
-Colleen - The Golden Morning Breaks (2005-05-23)
 </li>
 <li data-cover="https://img.discogs.com/63_F7EW19GYUj130dTT_4h1HPYo=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-677963-1146663712.jpeg.jpg" data-tags="indie, indie pop, singer-songwriter, dreamy, searching, reflective, literate, earnest, dramatic, bittersweet, reflection, intimate, cerebral, detached, 2000s, gin, stylish, plaintive, the creative side, austere, radio 2005, refined - mannered, vinyl collection, good album, dans ma discotheque, should buy, recent favorite albums, girlygil altrock, second-favorite album, albums acquired in 2011" role="button">
 John Vanderslice - Pixel Revolt (2005-08-15)
@@ -198,7 +195,7 @@ Wild Nothing - Gemini (2010-05-21)
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
-<li data-cover="https://img.discogs.com/tUf_katyLSzcD1NIIDFMLYvVYf4=/fit-in/368x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816946-1337370194-6038.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
+<li data-cover="https://img.discogs.com/R4jvnnJPoOAgWpqqOdawRWaV0nQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf117937-2317-43b8-8b20-ba9a045e3a12/15963313413-500.jpg" data-tags="experimental, psychedelic" role="button">
@@ -314,6 +311,9 @@ Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/15a991b2-c3ef-4475-ae96-fcff38406305/8837373509-500.jpg" data-tags="japanese, new age, dreamy, boobs on cover" role="button">
+Lamp - ゆめ (2014-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c93c34bc-163f-49c8-974e-c9895f03851e/6478054219-500.jpg" data-tags="indie rock" role="button">
 Real Estate - Atlas (2014-03-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:00:01.371Z
+date: 2021-04-05T21:49:12.438Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -108,6 +108,9 @@ Faunts - M4 (2006-09)
 <li data-cover="http://coverartarchive.org/release/e1058f8d-d271-492b-8a18-d625b2f65d54/26595077311-500.jpg" data-tags="alternative rock" role="button">
 Angels & Airwaves - I-Empire (2007-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/a890e9a6-90cf-4665-8928-2123f792355f/2960964314-500.jpg" data-tags="rock, pop punk" role="button">
+Good Charlotte - Good Morning Revival (2007-03-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/09b6385e-472c-3037-8867-3aa4cd86d84a/4406297639-500.jpg" data-tags="electro" role="button">
 Black Strobe - Burn Your Own Church (2007-05-23)
 </li>
@@ -122,9 +125,6 @@ Dragonette - Galore (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5f7d155-695d-4a0e-a384-6c1fddb7dbee/9472199885-500.jpg" data-tags="electronic pop, electronic rock, pop rock alternativo, descubierto en 2013, discovered in 2013, facto delafe y las flores azules" role="button">
 Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/45ad92a5-5e62-40d5-ac94-f31865c312ef/15648453076-500.jpg" data-tags="depeche mode, electronic" role="button">
-Dave Gahan - Hourglass (2007-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:33:02.153Z
+date: 2021-04-05T22:20:01.522Z
 title: "confrontational: 100 albums you must listen to before you die"
 ---
 ![The Clash - Hits Back (2013-08-26)](http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg "The Clash - Hits Back (2013-08-26)")
@@ -35,6 +35,9 @@ Alice Cooper - Killer (1971-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a90349b2-2bee-3751-91d7-b09abc77e21b/27985066278-500.jpg" data-tags="afrobeat" role="button">
 Fela Kuti - Shakara (1972)
+</li>
+<li data-cover="http://coverartarchive.org/release/70d95ff0-d859-4dfa-85ab-3a12088139ce/18557256651-500.jpg" data-tags="passionate, confident, afrobeat, confrontational, provocative, hypnotic, earthy, afro-pop, international, afro-beat, west african, boisterous, highlife, fela kuti, odeon records, african traditions" role="button">
+Fela Kuti - Afrodisiac (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffee886d-62d8-4bb3-a80c-82817020a1d8/3706327795-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Time Fades Away (1973-09)
@@ -72,7 +75,7 @@ The Jam - Sound Affects (1980-11-28)
 <li data-cover="https://img.discogs.com/bzOcK7gS9Wk_DPbrbwLf4sQJc7U=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1710728-1260374538.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
 Stiff Little Fingers - Go for It (1981-04-17)
 </li>
-<li data-cover="https://img.discogs.com/ny_zKfTxim7DV90AWC0djl6EGmc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2749521-1299315553.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
+<li data-cover="https://img.discogs.com/i2hjF3qQugwjM-CCzbXvKILk9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774793-1166295303.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
 Richard & Linda Thompson - Shoot Out the Lights (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/16e3e24e-28df-4715-9c20-0806d489a1e8/19490167266-500.jpg" data-tags="revolution, angry, irreverent, comedy, confrontational, freewheeling, provocative, bittersweet, earthy, partying, standup comedy, rebellious, exuberant, humorous, rowdy, volatile, rofl, outrageous, political comedy, mischief, grammy nominated, blue humor, huggy" role="button">
@@ -90,7 +93,7 @@ Lou Reed - Legendary Hearts (1983-03)
 <li data-cover="https://img.discogs.com/rVcJgZl1QoNtdkzGuNUw5uSx2tM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454775-1174321560.jpeg.jpg" data-tags="hardcore punk" role="button">
 Bad Brains - Rock for Light (1983-03)
 </li>
-<li data-cover="https://img.discogs.com/gO32Wybhh0m8gtuum1XTPCEUycE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10568259-1500053808-5737.jpeg.jpg" data-tags="jazz, funk, passionate, organic, fierce, confident, aggressive, fiery, afrobeat, confrontational, provocative, hypnotic, raucous, earthy, afro-pop, sensual, rebellious, celebratory, exuberant, international, rowdy, afro-beat, west african, boisterous, highlife, fela kuti, celluloid records, african traditions" role="button">
+<li data-cover="https://img.discogs.com/ViC0hKg4vXBcMrJZcgZvCUBPXHE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4405070-1364025894-7136.jpeg.jpg" data-tags="jazz, funk, passionate, organic, fierce, confident, aggressive, fiery, afrobeat, confrontational, provocative, hypnotic, raucous, earthy, afro-pop, sensual, rebellious, celebratory, exuberant, international, rowdy, afro-beat, west african, boisterous, highlife, fela kuti, celluloid records, african traditions" role="button">
 Fela Kuti - Army Arrangement (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/941d8ace-2faf-46de-a77b-dff1a063e2ce/28587380435-500.jpg" data-tags="rock, uk, country-rock, passionate, literate, melancholy, fierce, intense, confrontational, earnest, wry, dramatic, bittersweet, intimate, elegant, yearning, sophisticated, autumnal, sympathy68, emusic, nocturnal, brooding, sentimental, acerbic, weary, bleak, theatrical, ambitious, m faithfull, lauraann163" role="button">
@@ -99,7 +102,7 @@ Marianne Faithfull - Rich Kid Blues (1985)
 <li data-cover="http://coverartarchive.org/release/675c2793-dd25-430c-a7f1-e79a66cdfcc5/5538329105-500.jpg" data-tags="metal, punk, hardcore, post-punk, intense, aggressive, confrontational, post-hardcore, american underground, hardcore punk, bleak, cathartic, volatile, visceral, angst-ridden, great album cover" role="button">
 Die Kreuzen - October File (1986-05)
 </li>
-<li data-cover="https://img.discogs.com/Cpjd63LBHCwNl3lIr2wVjvqmFsc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-176704-1112367408.jpg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/v90ZRkS_OC6BV4gDjA4eJ1bQ2z0=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1394019-1216322293.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Boogie Down Productions - Criminal Minded (1987)
 </li>
 <li data-cover="https://img.discogs.com/DWDDxYRoH5-1_AQ9NrCYFiaK7pc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667536-1471605208-1041.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
@@ -174,10 +177,10 @@ Denis Leary - No Cure For Cancer (1993-01-12)
 <li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
 311 - Grassroots (1994-07-12)
 </li>
-<li data-cover="https://img.discogs.com/UB6DL3QO8USDq2UKC7q1rRl8yvY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2934447-1328113507.jpeg.jpg" data-tags="classic rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/QJNTQi5y3mBfYaqck4jTX5PpEzg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-938318-1224849239.jpeg.jpg" data-tags="classic rock, post-punk" role="button">
 Blondie - The Platinum Collection (1994-11-01)
 </li>
-<li data-cover="https://img.discogs.com/CVZUmcAnV1QFixSx2Gyb4aAvRyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3032954-1400790839-1761.jpeg.jpg" data-tags="rap, hip-hop" role="button">
+<li data-cover="https://img.discogs.com/Ep2WBbInbC2bG8xoeU1wQAib4BE=/fit-in/600x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9271053-1508447984-8509.jpeg.jpg" data-tags="rap, hip-hop" role="button">
 Busta Rhymes - The Coming (1996-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/87d8297b-b01e-4eab-861b-e6d4e782830d/3397017644-500.jpg" data-tags="hardcore punk" role="button">
@@ -284,9 +287,6 @@ Robyn - Body Talk (2010-11-22)
 </li>
 <li data-cover="https://img.discogs.com/3I59Z86o81mIRB7n8i02pWtpY24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541257-1465358987-5424.jpeg.jpg" data-tags="country, hell on heels" role="button">
 Pistol Annies - Hell On Heels (2011-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/cfac8488-17f6-49ee-8172-020f80a8d4c7/6890866619-500.jpg" data-tags="grunge" role="button">
-Nirvana - Live at the Paramount (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a23b683f-5d70-4250-94e3-5b8de2281283/6656877434-500.jpg" data-tags="country, 2010s" role="button">
 Miranda Lambert - Four the Record (2011-11-01)

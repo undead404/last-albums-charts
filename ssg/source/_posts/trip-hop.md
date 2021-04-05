@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:25:01.375Z
+date: 2021-04-05T22:03:01.365Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -141,9 +141,6 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/86064722-1df6-3ade-ae5f-30cb7542c7a9/28689862312-500.jpg" data-tags="electronic" role="button">
-Faithless - Outrospective (2001-06-08)
-</li>
 <li data-cover="https://img.discogs.com/UVRE9KE-Ba7u4VKWfUvi9M4_PDw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377788-1460896455-8546.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)
 </li>
@@ -161,6 +158,9 @@ Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
+Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
 Beth Gibbons & Rustin Man - Out of Season (2002-10-28)

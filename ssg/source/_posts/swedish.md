@@ -1,18 +1,18 @@
 ---
-date: 2021-04-05T08:19:01.602Z
+date: 2021-04-05T21:59:01.453Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">ABBA - Arrival (1976-10-11)</li>
-<li data-cover="http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg" data-tags="garage rock" role="button">The Hives - Veni Vidi Vicious (2000-04-10)</li>
+<li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">The Knife - Deep Cuts (2003-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">Caesars - Jerk It Out (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
-<li data-cover="http://coverartarchive.org/release/2ae3ea06-a05a-4389-b2eb-551a3ec9a0ae/13097774396-500.jpg" data-tags="swedish" role="button">Kent - Du & jag döden (2005-03-15)</li>
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">The Knife - Silent Shout (2006-02-15)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">Peter Bjorn and John - Writer's Block (2006-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
+<li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">Miike Snow - Happy To You (2012-03-13)</li>
 <li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">Avicii - True (2013-08-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -48,7 +48,7 @@ Kent - Verkligen (1996-03-15)
 <li data-cover="http://coverartarchive.org/release/6f7a28b7-c6e0-4a65-870e-7e9e82d33511/4520869611-500.jpg" data-tags="90s, pop" role="button">
 The Cardigans - First Band On The Moon (1996-08-10)
 </li>
-<li data-cover="https://img.discogs.com/YsVqhvK0qV7-RerYVxQQFLD4FkI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070709-1369907392-5537.jpeg.jpg" data-tags="pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">
 Eagle-Eye Cherry - Desireless (1997)
 </li>
 <li data-cover="https://img.discogs.com/z2LDdrcrJCZrsCEHspi5LC0Ww_g=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418547-1274954407.jpeg.jpg" data-tags="swedish" role="button">
@@ -78,11 +78,11 @@ Opeth - Blackwater Park (2001-03-12)
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
 Sahara Hotnights - Jennie Bomb (2001-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/55a3ba25-f854-3e65-bb2b-81fe43664fe9/8049313366-500.jpg" data-tags="jazz, nu jazz, electronic" role="button">
-Koop - Waltz for Koop (2002)
+<li data-cover="http://coverartarchive.org/release/1e8a5e99-021d-4737-9ddc-c8c1fec08fe0/3370038331-500.jpg" data-tags="indie rock, rock, swedish" role="button">
+The Sounds - Living in America (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/f69b764c-3df8-4a32-9195-6868eb08b47a/5243122074-500.jpg" data-tags="industrial metal" role="button">
-Pain - Nothing Remains The Same (2002-01-23)
+<li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
+The Knife - Deep Cuts (2003-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">
 Caesars - Jerk It Out (2003-03-24)
@@ -99,9 +99,6 @@ José González - Veneer (2003-10)
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">
 Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
 </li>
-<li data-cover="https://img.discogs.com/Q3E9hxvN7jdmBXzKP1yXA0x3WZ8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855250-1335035281.gif.jpg" data-tags="2003, electronic" role="button">
-The Knife - Hannah med H (2003-11-23)
-</li>
 <li data-cover="https://img.discogs.com/IS5V2qnm5VrH3GnH0l2LpIOWbY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620057-1139399009.jpeg.jpg" data-tags="indie, alternative, swedish, folk, singer-songwriter, svenskt, 2000s, hupin, singing songwriters, irack, d2004, tiger lou  ttttttttttttttttttttt, samipop" role="button">
 Tiger Lou - Is my head still on? (2004-03-10)
 </li>
@@ -110,9 +107,6 @@ In Flames - Soundtrack to Your Escape (2004-03-17)
 </li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c50d3d01-3f3a-3685-9ad6-58d7942a31be/3374165987-500.jpg" data-tags="garage rock, 2004" role="button">
-The Hives - Tyrannosaurus Hives (2004-07-19)
 </li>
 <li data-cover="https://img.discogs.com/CJ861fOtI0Gng33HQE_sqE5PSSA=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3566995-1521526336-9419.jpeg.jpg" data-tags="rock, indie rock" role="button">
 Mando Diao - Hurricane Bar (2004-09-08)
@@ -162,14 +156,20 @@ El Perro del Mar - El Perro Del Mar (2006-04-10)
 <li data-cover="https://img.discogs.com/k0hr64G-d7eA6WlD7l0CC6xedeA=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-793834-1159431566.jpeg.jpg" data-tags="indie pop" role="button">
 I'm from Barcelona - Let Me Introduce My Friends (2006-04-26)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">
+Peter Bjorn and John - Writer's Block (2006-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0fb27e8-5657-39a5-b416-9db725a8a759/4282962071-500.jpg" data-tags="nu jazz, jazz" role="button">
 Koop - Koop Islands (2006-09-27)
 </li>
-<li data-cover="https://img.discogs.com/uYeOKQjJxNJW-8cbGTjaqk4CKr0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189055-1199463190.jpeg.jpg" data-tags="melodic death metal" role="button">
-Sonic Syndicate - Only Inhuman (2007-04-25)
+<li data-cover="http://coverartarchive.org/release/48285a22-9815-3364-bde5-223aadbdac2c/1399815641-500.jpg" data-tags="indie" role="button">
+Shout Out Louds - Our Ill Wills (2007-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c1f9dc2-fb74-4e32-8f00-4fc1c9d530b2/5430078227-500.jpg" data-tags="trip-hop, chillout" role="button">
 Little Dragon - Little Dragon (2007-08-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/4bae6b93-7d34-4abe-984f-61487858e8fa/4890223091-500.jpg" data-tags="indie pop, indie" role="button">
+Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
@@ -273,7 +273,7 @@ Zola Jesus - Conatus (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
-<li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="2012" role="button">
+<li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">
 Miike Snow - Happy To You (2012-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">

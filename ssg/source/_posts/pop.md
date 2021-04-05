@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:42:01.460Z
+date: 2021-04-05T22:21:01.431Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -57,6 +57,9 @@ Justin Timberlake - Justified (2002-11-04)
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
+John Mayer - Heavier Things (2003-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/398e0153-1af0-4052-a78d-d0120e80bc48/22471055903-500.jpg" data-tags="pop" role="button">
 Dido - Life for Rent (2003-09-26)
 </li>
@@ -104,9 +107,6 @@ Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)
-</li>
-<li data-cover="https://img.discogs.com/4fV88R-4UZfICgS7tZ9HaXL4pNk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929730-1174010117.jpeg.jpg" data-tags="pop" role="button">
-James Morrison - Undiscovered (2006-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
