@@ -1,11 +1,10 @@
 ---
-date: 2021-04-05T03:40:01.295Z
+date: 2021-04-05T10:59:01.312Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">The Smiths - Hatful of Hollow (1984-11-12)</li>
-<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">Pixies - Death to the Pixies (1997-10-06)</li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">Blur - Blur: The Best Of (2000-10-23)</li>
 <li data-cover="https://img.discogs.com/0q-kp50zBx_Bc9QxWgZ8YQUK6r4=/fit-in/583x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6850887-1427974206-7908.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">Mylène Farmer - Les Mots (2001-11-27)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
@@ -14,6 +13,7 @@ title: "compilation: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/9bcc6dd4-3edd-45ba-a7ab-08f67191036f/16645104299-500.jpg" data-tags="sade, soul, romantic" role="button">Sade - The Ultimate Collection (2011-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/1080fddb-aefa-413f-b5a1-11a945edd96a/20701467093-500.jpg" data-tags="rock, usa, compilation, alt rock, new york punk, 10s, female singer songwriter, compilation album, american musician, p smith" role="button">Patti Smith - Outside Society (2011-09-12)</li>
+<li data-cover="http://coverartarchive.org/release/5c80910d-2033-4ac3-bd56-898e9c3e4267/1340461051-500.jpg" data-tags="jazz, swing, compilation, frank sinatra, capitol records, the lizards lounge" role="button">Frank Sinatra - Sinatra: Best of the Best (2011-11-15)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -147,7 +147,7 @@ Bill Withers - The Best Of Bill Withers: Lean On Me (2000-05-30)
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur: The Best Of (2000-10-23)
 </li>
-<li data-cover="https://img.discogs.com/Adl1Wd3mszSdi5fs5d89d_LH3uU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1571931-1394783380-4954.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/dCbDgiMYsVT0ek_VR4V9g2W4pCE=/fit-in/600x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4329123-1410622881-2217.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Bob Dylan - The Essential Bob Dylan (2000-10-31)
 </li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
@@ -159,7 +159,7 @@ Queen - The Platinum Collection (2000-11-13)
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)
 </li>
-<li data-cover="https://img.discogs.com/ZJj_F4wOoTxK5WEViNl9DXeQh3Y=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3524039-1417545846-6783.jpeg.jpg" data-tags="folk, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/_qEK7EyniShwF1YHueLUb8JW6ck=/fit-in/600x683/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5770246-1579941830-3015.jpeg.jpg" data-tags="folk, female vocalists" role="button">
 Tracy Chapman - Collection (2001-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d3fb06-bb1c-4f92-b7b6-13b08afe7b89/12241150919-500.jpg" data-tags="indie rock, indie" role="button">
@@ -171,14 +171,8 @@ Don McLean - The Best of Don McLean (2001-10-15)
 <li data-cover="https://img.discogs.com/0q-kp50zBx_Bc9QxWgZ8YQUK6r4=/fit-in/583x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6850887-1427974206-7908.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
 Mylène Farmer - Les Mots (2001-11-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc8ebbad-3380-4c6b-ac02-2ec147d09bea/9484209323-500.jpg" data-tags="new wave" role="button">
-The Cars - Complete Greatest Hits (2002-02-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc3802fb-b98b-4fe2-8709-c09700dd2483/20718037945-500.jpg" data-tags="pop, rock, female vocalists" role="button">
 Blondie - Greatest Hits (2002-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/15e5e346-666b-47d6-950b-d71f49ba6c7d/28137644101-500.jpg" data-tags="60s, usa, oldies, compilation, 00s, rock pop, american group" role="button">
-Three Dog Night - The Collection (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e047053-4405-3566-9960-9633955062fa/16740713365-500.jpg" data-tags="hip hop" role="button">
 Fugees - Greatest Hits (2003-03-25)
@@ -210,7 +204,10 @@ Michael Jackson - The Essential Michael Jackson (2005-07-18)
 <li data-cover="http://coverartarchive.org/release/3517700c-cd8d-3382-8b1d-e22d2684e179/11542841861-500.jpg" data-tags="compilation" role="button">
 Public Enemy - Power To The People And The Beats: Public Enemy's Greatest Hits (2005-08-01)
 </li>
-<li data-cover="https://img.discogs.com/wqTkBm7nyv0Jjd9K8-lFG4c2Thk=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694470-1520581573-8313.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="http://coverartarchive.org/release/177fcfee-525a-46c6-9c58-d6a82cf9cc8d/14885026677-500.jpg" data-tags="rnb" role="button">
+Destiny's Child - #1's (2005-10-24)
+</li>
+<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2b358e9-7008-31b2-9983-06ddf5714a24/5901913185-500.jpg" data-tags="new wave" role="button">
@@ -239,9 +236,6 @@ Spice Girls - Greatest Hits (2007-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/65dd730e-e124-4b95-9e54-55640b24b8cc/4889498679-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Lost Songs (2007-11-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d66a821-481a-4abd-b56b-de6f123f6b64/17263278835-500.jpg" data-tags="spanish, folk, compilation, alternative pop, latin pop, mexican, accordion" role="button">
-Julieta Venegas - Realmente Lo Mejor (2007-12-18)
 </li>
 <li data-cover="https://img.discogs.com/Kv1_QDZQNyKYE23zZAdIq4zcyv8=/fit-in/600x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1220671-1428050065-9770.jpeg.jpg" data-tags="alternative rock" role="button">
 Eels - Meet the Eels: Essential Eels 1996-2006 Vol. 1 (2008-01-15)
@@ -308,6 +302,12 @@ Manic Street Preachers - National Treasures - The Complete Singles (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffad013a-4f64-44dd-bfb3-c6360fbd042d/9564325968-500.jpg" data-tags="hard rock" role="button">
 Scorpions - Comeblack (2011-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c80910d-2033-4ac3-bd56-898e9c3e4267/1340461051-500.jpg" data-tags="jazz, swing, compilation, frank sinatra, capitol records, the lizards lounge" role="button">
+Frank Sinatra - Sinatra: Best of the Best (2011-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/48924fb0-54fc-4dff-a242-e5bcbe4ceba9/8458484651-500.jpg" data-tags="pop, female vocalists" role="button">
+Kylie Minogue - The Best of Kylie Minogue (2012-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, greatest hits, collection" role="button">
 Girls Aloud - Ten (2012-11-23)

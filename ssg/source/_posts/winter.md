@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:40:01.291Z
+date: 2021-04-05T11:17:01.370Z
 title: "winter: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -8,8 +8,8 @@ title: "winter: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/ccad03b6-c236-488f-9e9a-271449f88bdf/16938333495-500.jpg" data-tags="rock, alternative rock, 2000s, mute records" role="button">Nick Cave & The Bad Seeds - No More Shall We Part (2001-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/441e153d-6ce6-3a75-aa4e-65f63b88d14f/3487982154-500.jpg" data-tags="electronic" role="button">Björk - Vespertine (2001-08-18)</li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">Mirah - C'mon Miracle (2004-05-04)</li>
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">Mirah - C'mon Miracle (2004-05-04)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">Kate Bush - 50 Words for Snow (2011-11-21)</li>
@@ -26,9 +26,6 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
-Skinny Puppy - Cleanse Fold And Manipulate (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/6595d3dc-31ac-4623-81da-228baebb2268/3845316790-500.jpg" data-tags="alternative, new wave, post-punk" role="button">
 The Cure - Entreat (1989)
@@ -90,7 +87,7 @@ The 69 Eyes - Wasting the Dawn (1999-02-22)
 <li data-cover="http://coverartarchive.org/release/cad3c04b-0d25-4daa-8254-e4d65117f880/16977541773-500.jpg" data-tags="emo, alternative rock" role="button">
 Jimmy Eat World - Clarity (1999-02-23)
 </li>
-<li data-cover="https://img.discogs.com/7weuNBvhQq1kasHoK8Qkey0wnpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7996-1214076463.jpeg.jpg" data-tags="chillout, downtempo" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="chillout, downtempo" role="button">
 Nitin Sawhney - Beyond Skin (1999-09-13)
 </li>
 <li data-cover="https://img.discogs.com/nHTpM2iNFe_ieR9WlIT7WYck7WY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7860499-1589151037-6233.jpeg.jpg" data-tags="guster" role="button">
@@ -147,7 +144,7 @@ Jimmy Eat World - Last Christmas (2001-12-10)
 <li data-cover="http://coverartarchive.org/release/cf6af256-9114-452c-a699-f7103285cbfc/11692310343-500.jpg" data-tags="ambient, minimal, winter" role="button">
 Yagya - Rhythm of Snow (2002)
 </li>
-<li data-cover="https://img.discogs.com/kBCt5tibFrqSk7XJbUsrTSoiNMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-403193-1108749175.jpg.jpg" data-tags="soul" role="button">
+<li data-cover="https://img.discogs.com/xrCSS7GM6WUPR8R9Sg5vxmNghn4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-582869-1401722073-7898.jpeg.jpg" data-tags="soul" role="button">
 Tweet - Southern Hummingbird (2002-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0cd8b400-95e2-4be5-af82-dcf40540cdfa/2960113401-500.jpg" data-tags="slowcore" role="button">
@@ -162,16 +159,16 @@ Antimatter - Lights Out (2003-06-28)
 <li data-cover="http://coverartarchive.org/release/a906761e-47e4-46a5-b509-6f60f46fa1e9/8731132141-500.jpg" data-tags="progressive rock, classic rock, rock, christmas, folk rock, jethro tull" role="button">
 Jethro Tull - The Jethro Tull Christmas Album (2003-09-30)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="https://img.discogs.com/iVvwkqtoSnUexSg2FgDy1yZGPC4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453334-1243153042.jpeg.jpg" data-tags="indie, country, alternative, folk, indie pop, indie rock, sad, singer-songwriter, acoustic, blues, mellow, alt-country, melancholy, folk rock, slow, calm, lo-fi, americana, moody, songwriter, winter, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
 Little Wings - Magic Wand (2004-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, favorite, alt rock, independent, tracks, favourite songs, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
+<li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, alt rock, independent, tracks, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
 Julie Doiron - Goodnight Nobody (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
@@ -239,6 +236,9 @@ Norfolk & Western - The Unsung Colony (2006-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a7b7dd9-700e-41bf-a5d0-1dca120e2ca7/2904746115-500.jpg" data-tags="ambient, mellow" role="button">
 Slow Dancing Society - The Slow and Steady Winter (2007)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
+Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/69f898f9-3fe4-4111-ad11-81fccf55df8e/5791775997-500.jpg" data-tags="country" role="button">
 Miranda Lambert - Crazy Ex-Girlfriend (2007-05-01)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:50:01.291Z
+date: 2021-04-05T11:31:01.642Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -66,7 +66,7 @@ My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-0
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Alexisonfire - Alexisonfire (2002-10-29)
 </li>
-<li data-cover="https://img.discogs.com/zgND8o4VXNDounHkrrG5b5pd0s0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501912-1444050760-9836.png.jpg" data-tags="punk rock, punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
@@ -120,9 +120,6 @@ Circa Survive - Juturna (2005-04-19)
 <li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
-<li data-cover="https://img.discogs.com/MI2oAl7q5Ttmn7G4Yejrv7o-Hzw=/fit-in/489x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1802683-1422876109-1198.jpeg.jpg" data-tags="post-hardcore" role="button">
-Finch - Say Hello to Sunshine (2005-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
 </li>
@@ -165,6 +162,9 @@ Underoath - Define the Great Line (2006-03-25)
 <li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - A City By The Light Divided (2006-05-02)
 </li>
+<li data-cover="https://img.discogs.com/A60KFnwDmdd6gD9592hAgjboZGU=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2886358-1305706040.jpeg.jpg" data-tags="post-hardcore" role="button">
+Drop Dead, Gorgeous - In Vogue (2006-05-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
 </li>
@@ -174,7 +174,7 @@ Escape the Fate - There's No Sympathy For The Dead (2006-05-23)
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
-<li data-cover="https://img.discogs.com/3X7zBsn8NDw5TLYqTy43PlCL0hI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2467899-1285701452.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/FRZ3gNetLCW2_nAvk5ktVtBgHzU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7274424-1575807464-9451.jpeg.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent II (2006-06-23)
 </li>
 <li data-cover="https://img.discogs.com/BKQAPLK38OM1WFyHhEvQevfnUz8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039025-1494295675-6819.jpeg.jpg" data-tags="experimental, post-hardcore" role="button">
@@ -186,7 +186,7 @@ Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 <li data-cover="http://coverartarchive.org/release/dd4f60c8-d4b5-4c41-b200-a78dfe9e1aaf/25342698261-500.jpg" data-tags="post-hardcore, emo" role="button">
 Saosin - Saosin (2006-09-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
 Senses Fail - Still Searching (2006-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
@@ -297,6 +297,9 @@ Asking Alexandria - Reckless & Relentless (2011-04-05)
 <li data-cover="http://coverartarchive.org/release/143fbcad-b633-4b98-a553-3a54b78d989c/6997936845-500.jpg" data-tags="post-hardcore" role="button">
 Sleeping with Sirens - Let's Cheers to This (2011-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/244a59a9-9b52-48cf-923c-91fa4f37a875/6472045000-500.jpg" data-tags="post-hardcore" role="button">
+Of Mice & Men - The Flood (2011-06-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/44df54f1-4731-4340-9778-1164f47e94f9/4085458651-500.jpg" data-tags="post-hardcore" role="button">
 Falling in Reverse - The Drug In Me Is You (2011-06-28)
 </li>
@@ -308,9 +311,6 @@ Cloud Nothings - Attack on Memory (2012-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/69658667-208f-4688-ada0-4420dc066c4e/3370168609-500.jpg" data-tags="post-hardcore" role="button">
-Title Fight - Floral Green (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Bring Me the Horizon - Sempiternal (2013-03-29)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:38:01.310Z
+date: 2021-04-05T10:48:01.307Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -78,14 +78,14 @@ Primus - Brown Album (1997-07-08)
 <li data-cover="http://coverartarchive.org/release/c3821edb-ec09-443d-907f-0e88bc360f2d/9056068775-500.jpg" data-tags="britpop, progressive" role="button">
 Mansun - Six (1998)
 </li>
+<li data-cover="http://coverartarchive.org/release/6c20d297-121e-47d0-aa3a-8f27c7a06553/1987152110-500.jpg" data-tags="progressive metal" role="button">
+Liquid Tension Experiment - Liquid Tension Experiment 2 (1999-06-15)
+</li>
 <li data-cover="https://img.discogs.com/OoYqRaioExYwRVxBBVILXXa8h8g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381539-1234352618.jpeg.jpg" data-tags="experimental, avant-garde, mike patton" role="button">
 Mr. Bungle - California (1999-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Still Life (1999-10-18)
-</li>
-<li data-cover="https://img.discogs.com/gASmWmXXwLlJtVqyMkyY35nPPnU=/fit-in/457x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891746-1405549089-4313.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
-Mr. Big - Deep Cuts: The Best of the Ballads (2000)
 </li>
 <li data-cover="https://img.discogs.com/E3zacTqfQNSLzHq_ESkjuevv5wc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-816626-1244854064.jpeg.jpg" data-tags="sludge, post-metal" role="button">
 Isis - Celestial (2000-07-19)

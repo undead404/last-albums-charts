@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T05:11:01.294Z
+date: 2021-04-05T11:13:01.544Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -21,17 +21,26 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Leonard Cohen - Songs of Love and Hate (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/30f4bea8-27a1-3f55-b436-a804e45fa701/22612433836-500.jpg" data-tags="70s, psychedelic pop, most depressing album cover ever" role="button">
+The Beach Boys - Surf's Up (1971-08-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
+Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c91f3331-2413-3ad7-b8a0-7bf2eb4d4998/18288386494-500.jpg" data-tags="pop" role="button">
 ABBA - Super Trouper (1980-11-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3f463683-6fb2-4598-8335-f6a8d77da8f4/5520130272-500.jpg" data-tags="sad, new wave, english club" role="button">
+The Police - Every Breath You Take (1983-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
@@ -66,9 +75,6 @@ Mazzy Star - Among My Swan (1996-10-17)
 <li data-cover="http://coverartarchive.org/release/27d99673-cdc9-4172-bdf6-d3bd0620c0ee/15960021076-500.jpg" data-tags="singer-songwriter, 90s, indie, folk, lo-fi, mellow, slowcore" role="button">
 Smog - Red Apple Falls (1997-05-20)
 </li>
-<li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
-Bob Dylan - Time Out of Mind (1997-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/8cbd9b78-2e57-4b3b-8d01-f768e4a9785c/11228936512-500.jpg" data-tags="pop" role="button">
 Sixpence None the Richer - Sixpence None the Richer (1997-11-22)
 </li>
@@ -84,10 +90,10 @@ Bright Eyes - Letting Off the Happiness (1998-09-02)
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
 Cat Power - Moon Pix (1998-09-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chill, eerie" role="button">
+<li data-cover="https://img.discogs.com/JWuw0UE5HpiFwbNxrVzNNAPGvzY=/fit-in/600x634/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533033-1395824414-7881.jpeg.jpg" data-tags="chill, eerie" role="button">
 Air - Playground Love (2000-01-17)
 </li>
-<li data-cover="https://img.discogs.com/Ntqb_aIA0zir6JoDFEDEYm9Crzs=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130448-1308770059.jpeg.jpg" data-tags="covers" role="button">
+<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
 Cat Power - The Covers Record (2000-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
@@ -120,9 +126,6 @@ The Early November - For All Of This (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/d2a314ab-986e-40af-8cab-04806ab68ce9/7927220552-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - Tallahassee (2002-11-05)
 </li>
-<li data-cover="https://img.discogs.com/E5_hooWVbZtRFHjLevOh4QK5K9Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493485-1598683609-9129.jpeg.jpg" data-tags="folk, sad, slowcore, kal cahoone, allmusicl, motdmusic, motdsadsongs" role="button">
-Lilium - Short Stories (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
 Cat Power - You Are Free (2003-02-17)
 </li>
@@ -141,14 +144,11 @@ Sufjan Stevens - Seven Swans (2004-03-16)
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/697776ac-f4ca-4de4-b3ec-0dff13fed33a/26485028742-500.jpg" data-tags="british hip hop" role="button">
 The Streets - Dry Your Eyes (2004-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
-Narsilion - Nerbeleth (2004-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -182,9 +182,6 @@ Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
-</li>
-<li data-cover="https://img.discogs.com/jHAwF2obSvLb60gyHjO5nELWdME=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125967-1265452903.jpeg.jpg" data-tags="new age, ambient, electronic, trip-hop, world fusion, chillout" role="button">
-Modus - The Colour of Love (2006)
 </li>
 <li data-cover="https://img.discogs.com/-vRLqy0OkPeNfxANrLYevcqFPa0=/fit-in/337x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1327632-1209967985.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, alt-country, indie folk, americana, indie, guitar, new weird america, lyrics, country, quiet, calm, mellow, sad, songwriter, lo-fi, alt country, waterhouse records, vancouver, slow, short song" role="button">
 Flowers From the Man Who Shot Your Cousin - Hapless (2006-04-19)
@@ -233,6 +230,9 @@ Yasemin Mori - Hayvanlar (2008-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/29367888-10ce-4c58-a2ef-fd461f439c6b/17322326617-500.jpg" data-tags="folk, indie" role="button">
 Blind Pilot - 3 Rounds and a Sound (2008-07-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+Iron & Wine - 9/20/02 (2008-12-00)
 </li>
 <li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)

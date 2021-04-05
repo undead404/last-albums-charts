@@ -1,11 +1,11 @@
 ---
-date: 2021-04-05T00:08:01.323Z
+date: 2021-04-05T10:50:01.323Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
+<li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">Destiny's Child - Survivor (2001-04-25)</li>
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">Rachael Yamagata - Happenstance (2004-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -21,11 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
+Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/decbc9c9-02bb-4d2c-8998-90775a2266e8/13474985144-500.jpg" data-tags="hard rock, female vocalist, 80s, glam metal, heavy metal, hair metal" role="button">
 Lita Ford - Lita (1988-02-02)
@@ -35,9 +38,6 @@ Tori Amos - Little Earthquakes (1992-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee/2125238082-500.jpg" data-tags="rock" role="button">
 Joan Osborne - Relish (1995-03-21)
@@ -69,7 +69,7 @@ Natalie Imbruglia - Left of the Middle (1997-11-24)
 <li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">
 Dido - No Angel (1999-06-01)
 </li>
-<li data-cover="https://img.discogs.com/5hjuHHLZXcacZEtlA42n_6q0VYI=/fit-in/599x459/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021712-1314454961.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/wcbeSKP_aB4pvG4rgyduqbSndRQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10368880-1496116674-5471.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
 Whitney Houston - My Love Is Your Love (1999-06-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
@@ -240,7 +240,7 @@ Keri Hilson - In a Perfect World... (2009-01-01)
 <li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
 Erin McCarley - Love, Save The Empty (2009-01-06)
 </li>
-<li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
+<li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
 <li data-cover="https://img.discogs.com/seNp3NoWnr-TUnz9tjaaEhLFeSk=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2038279-1260197851.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
@@ -318,7 +318,7 @@ FKA twigs - EP2 (2013-09-17)
 <li data-cover="http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - War Eternal (2014-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
+<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Bring Me the Horizon - Drown (2014-11-03)
 </li>
 </ol>

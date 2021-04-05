@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:26:01.358Z
+date: 2021-04-05T11:14:06.982Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -66,7 +66,7 @@ Deuter - Reiki: Hands of Light (1998-10-25)
 <li data-cover="http://coverartarchive.org/release/d98d60d4-51a6-4647-a92f-195af796599e/24147288966-500.jpg" data-tags="rock, alternative" role="button">
 Modest Mouse - Night on the Sun (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/5NUxp9OIUfM-toTymrimzsYfa9Y=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726191-1171729618.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/df1cbbc3-1f49-4f22-95c7-96618000c58f/1436194084-500.jpg" data-tags="relaxing, vocal, new age, enya" role="button">
@@ -132,6 +132,9 @@ Dilated Peoples - Neighborhood Watch (2004-04-06)
 <li data-cover="http://coverartarchive.org/release/d38a0e2e-cf35-47ad-85ae-a87c4f321d3b/13298022685-500.jpg" data-tags="idm, glitch" role="button">
 edIT - Crying Over Pros for No Reason (2004-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/d7b02e44-1533-4cc5-830b-3e8c96d528c3/1578981308-500.jpg" data-tags="soul, blues" role="button">
+Alicia Keys - If I Ain't Got You (2004-04-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/2790dbb6-91ff-4e71-982c-78fbb1ab3d7e/8364942432-500.jpg" data-tags="instrumental, bond - classified, new age, violin, classical crossover" role="button">
 Bond - Classified (2004-05-08)
 </li>
@@ -141,7 +144,7 @@ Kings of Convenience - Riot on an Empty Street (2004-06-21)
 <li data-cover="http://coverartarchive.org/release/58f2d266-b4ad-483c-abd0-d36dc25e0c02/11944292045-500.jpg" data-tags="relaxing, beautiful piano, piano, new age" role="button">
 David Nevue - Overcome (2005)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="piano, relaxing, ambient, new age" role="button">
+<li data-cover="https://img.discogs.com/K7Fog8UtERpvhu4EfJ9lKGwq--M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7110579-1433940600-1305.jpeg.jpg" data-tags="piano, relaxing, ambient, new age" role="button">
 Fiona Joy Hawkins - Portrait of a Waterfall (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
@@ -311,9 +314,6 @@ Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
 Daughter - If You Leave (2013-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
-Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)

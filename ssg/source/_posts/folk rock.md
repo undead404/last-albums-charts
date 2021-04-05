@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T09:51:06.803Z
+date: 2021-04-05T11:43:06.989Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
@@ -129,9 +129,6 @@ Blackmore's Night - Under A Violet Moon (1999-04-21)
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
-The Mountain Goats - All Hail West Texas (2002-02-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
 </li>
@@ -153,9 +150,6 @@ Iron & Wine - Our Endless Numbered Days (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/0dc2f627-b12e-4a0b-9775-f88de9881061/18183886570-500.jpg" data-tags="rock, classic rock" role="button">
-Neil Young - Greatest Hits (2004-11-16)
-</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
@@ -176,6 +170,9 @@ The Mountain Goats - Get Lonely (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/32bc0869-4cae-444a-8792-c17dd5d314fb/21233023204-500.jpg" data-tags="indie" role="button">
 The Decemberists - The Crane Wife (2006-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
+Andrew Bird - Armchair Apocrypha (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
@@ -290,6 +287,9 @@ Mumford & Sons - Babel (2012-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/4914b6a7-b95f-4ed7-82df-fc85c3a1e682/4281607299-500.jpg" data-tags="folk, mellow, folk rock, bittersweet, depressing, music to fall asleep to" role="button">
+Keaton Henson - Birthdays (2013-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)

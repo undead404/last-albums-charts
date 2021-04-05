@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:23:01.391Z
+date: 2021-04-05T11:00:01.399Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")
@@ -56,9 +56,6 @@ Lamb of God - As the Palaces Burn (2003-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/be477226-1f7e-4bd5-89d6-09232bad1427/944238133-500.jpg" data-tags="metalcore" role="button">
 As I Lay Dying - Frail Words Collapse (2003-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/290d2027-935a-4650-b41e-03716559c364/4441324397-500.jpg" data-tags="metalcore, hardcore" role="button">
-Every Time I Die - Hot Damn! (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb53cf6-48b4-4422-b6ed-6e5554317011/20586495597-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Waking The Fallen (2003-08-26)
@@ -132,6 +129,9 @@ Bullet for My Valentine - The Poison (2005-09-30)
 <li data-cover="https://img.discogs.com/EwIKaNEBHF3RZGSevNm8aR7dtLA=/fit-in/332x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097142-1191788205.jpeg.jpg" data-tags="metalcore, metal, death metal, thrash metal" role="button">
 Roadrunner United - The All-Star Sessions (2005-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
+August Burns Red - Thrill Seeker (2005-11-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c16704e7-6827-4eb7-a81b-35b1dc868de4/15472469630-500.jpg" data-tags="metalcore" role="button">
 Killswitch Engage - (Set This) World Ablaze (2005-11-22)
 </li>
@@ -143,6 +143,9 @@ All That Remains - The Fall of Ideals (2006-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Killswitch Engage - As Daylight Dies (2006-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/87b752fc-7f21-4887-8746-019ec0a4eba8/11692006058-500.jpg" data-tags="metalcore" role="button">
+Caliban - The Undying Darkness (2006-02-22)
 </li>
 <li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
@@ -161,9 +164,6 @@ The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, thrash metal" role="button">
 Lamb of God - Sacrament (2006-08-22)
-</li>
-<li data-cover="https://img.discogs.com/0FXAaNOwwuczwJ789zuZ8kalrAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3297951-1613600745-7894.jpeg.jpg" data-tags="metalcore" role="button">
-Heaven Shall Burn - Deaf To Our Prayers (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)

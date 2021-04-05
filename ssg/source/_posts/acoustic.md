@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T09:48:01.368Z
+date: 2021-04-05T11:01:01.314Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -177,6 +177,9 @@ Alexi Murdoch - Time Without Consequence (2006-06-06)
 <li data-cover="http://coverartarchive.org/release/b1f237d6-edf1-46f8-971c-a7280b53bdc6/1068689504-500.jpg" data-tags="acoustic" role="button">
 Seether - One Cold Night (2006-06-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
+Regina Spektor - Begin to Hope (2006-06-13)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic, folk, joshua radin" role="button">
 Joshua Radin - We Were Here (2006-06-13)
 </li>
@@ -314,9 +317,6 @@ Jack Johnson - From Here To Now To You (2013-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d1c2a68-1db2-4fa5-aa36-7d66a8e0d62f/8119387478-500.jpg" data-tags="acoustic" role="button">
 Fink - Hard Believer (2014-07-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/32269431-0747-4ec2-a2b9-84abfaa499ee/8007239303-500.jpg" data-tags="indie, indie folk" role="button">
-Vance Joy - Dream Your Life Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Damien Rice - My Favourite Faded Fantasy (2014-10-31)
