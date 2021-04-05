@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:52:01.316Z
+date: 2021-04-05T08:15:07.900Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -35,9 +35,6 @@ The Stone Roses - The Stone Roses (1989-04)
 </li>
 <li data-cover="https://img.discogs.com/SbiREqGVqtJpp9IWTupHfJ06aZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13068383-1547486816-4724.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9822581d-98bf-3f97-a94c-4b1350d090aa/1435221321-500.jpg" data-tags="britpop" role="button">
 Oasis - Definitely Maybe (1994-08-30)
@@ -311,6 +308,9 @@ Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf584cf2-dc33-433e-b8b2-b85578822726/7915352231-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - AM (2013-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c6480be-d53a-4c46-bb7c-c5187ab99ff5/8207839327-500.jpg" data-tags="indie, british" role="button">
+The Kooks - Listen (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)

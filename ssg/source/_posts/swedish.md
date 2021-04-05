@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:14:01.298Z
+date: 2021-04-05T08:19:01.602Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -83,9 +83,6 @@ Koop - Waltz for Koop (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/f69b764c-3df8-4a32-9195-6868eb08b47a/5243122074-500.jpg" data-tags="industrial metal" role="button">
 Pain - Nothing Remains The Same (2002-01-23)
-</li>
-<li data-cover="https://img.discogs.com/81sbJ_evVaaWj-YpvigRUHot62Y=/fit-in/289x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6185789-1425292961-3289.jpeg.jpg" data-tags="indie" role="button">
-The Perishers - Let There Be Morning (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">
 Caesars - Jerk It Out (2003-03-24)
@@ -284,6 +281,9 @@ Icona Pop - I Love It (2012-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">
 Sabaton - Carolus Rex (2012-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/b204ad72-f666-427d-82ee-de4add53c7ab/5331069642-500.jpg" data-tags="rock, garage rock" role="button">
+The Hives - Lex Hives (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)

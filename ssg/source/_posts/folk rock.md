@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:13:01.294Z
+date: 2021-04-05T07:58:01.359Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
@@ -7,7 +7,7 @@ title: "folk rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">Bob Dylan - Bringing It All Back Home (1965-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg" data-tags="folk rock, folk" role="button">Bob Dylan - Blonde on Blonde (1966-05-16)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, 60s, glam rock" role="button">David Bowie - Space Oddity (1969-11-04)</li>
-<li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">Neil Young - Harvest (1972-02-14)</li>
+<li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">Bob Dylan - Desire (1976-01-05)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">Mumford & Sons - Babel (2012-09-13)</li>
@@ -96,8 +96,11 @@ Buffalo Springfield - Buffalo Springfield (1973-11-12)
 <li data-cover="https://img.discogs.com/r-MIHpJTdzNf_7CGO5ATqLzzbXo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2935178-1606097219-6523.jpeg.jpg" data-tags="70s, folk, folk rock, classic rock, singer-songwriter" role="button">
 Bob Dylan - Dylan (1973-11-16)
 </li>
-<li data-cover="https://img.discogs.com/WoEirPVqnQkq5sUJo7kNj_mW2s4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2338776-1428240241-6991.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/CYW6Y317xlXq4ziqGYF1R4xOfFk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8980958-1498015910-8188.jpeg.jpg" data-tags="folk" role="button">
 Bob Dylan - Blood on the Tracks (1975-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">
+Bob Dylan - Desire (1976-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b88fb862-2ba4-321e-a44c-3e0a9f5be948/9119459573-500.jpg" data-tags="folk" role="button">
 Bob Dylan - The Times They Are A-Changin' (1988)
@@ -120,9 +123,6 @@ Blackmore's Night - Shadow Of The Moon (1997-04-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk rock, folk" role="button">
 Blackmore's Night - Under A Violet Moon (1999-04-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
-Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
-</li>
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
@@ -141,7 +141,7 @@ Blackmore's Night - Ghost Of A Rose (2003-06-23)
 <li data-cover="https://img.discogs.com/0aoz5NdPGJFBjH26O1R2DMeUs_U=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4406699-1495594422-6621.jpeg.jpg" data-tags="pop, rock, 80s, folk, scottish, folk rock" role="button">
 The Proclaimers - Finest (2003-09-01)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -165,7 +165,7 @@ Fleet Foxes - Fleet Foxes (2006)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/xMDl0TTkbhbcdH10siIS-JVxT4o=/fit-in/595x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1385920-1215152190.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
+<li data-cover="https://img.discogs.com/48co00Mgnt-oJ4DG0aQbKDS1Rsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8536683-1465209501-6206.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
 </li>
 <li data-cover="https://img.discogs.com/tvXhSCSDJAEidRrxR-cGSWCRJqc=/fit-in/300x271/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767443-1157089908.jpeg.jpg" data-tags="indie, folk, singer-songwriter, folk rock" role="button">

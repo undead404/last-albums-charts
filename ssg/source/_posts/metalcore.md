@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:28:01.291Z
+date: 2021-04-05T08:23:01.391Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")
@@ -84,7 +84,7 @@ Heaven Shall Burn - Antigone (2004-04-20)
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Underoath - They're Only Chasing Safety (2004-06-15)
 </li>
-<li data-cover="https://img.discogs.com/cTfRoX3lz_VIcqqJsDpFB_CWSvg=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1322035-1586954476-5324.jpeg.jpg" data-tags="metalcore" role="button">
+<li data-cover="https://img.discogs.com/cWR2FLmDxIP9CqQFQJ6uGQxSU94=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321507-1396947908-2763.jpeg.jpg" data-tags="metalcore" role="button">
 Atreyu - The Curse (2004-06-28)
 </li>
 <li data-cover="https://img.discogs.com/nrCa417qO0TUZwDHswG9ABtgD0w=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877725-1168305294.jpeg.jpg" data-tags="metalcore" role="button">
@@ -153,6 +153,9 @@ Atreyu - A Death-Grip on Yesterday (2006-03-28)
 <li data-cover="http://coverartarchive.org/release/86682a5b-ffe8-3662-9aae-e45c906422a4/5936187593-500.jpg" data-tags="metalcore" role="button">
 36 Crazyfists - Rest Inside The Flames (2006-06-12)
 </li>
+<li data-cover="https://img.discogs.com/No9xytAjXz9R7kubNbLG0MdRZr4=/fit-in/600x690/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364969-1584757965-7364.jpeg.jpg" data-tags="metalcore" role="button">
+I Killed the Prom Queen - Music For The Recently Deceased (2006-07-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
 </li>
@@ -162,16 +165,13 @@ Lamb of God - Sacrament (2006-08-22)
 <li data-cover="https://img.discogs.com/0FXAaNOwwuczwJ789zuZ8kalrAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3297951-1613600745-7894.jpeg.jpg" data-tags="metalcore" role="button">
 Heaven Shall Burn - Deaf To Our Prayers (2006-08-25)
 </li>
-<li data-cover="https://img.discogs.com/tyWc16V9BxwvWEIocD7PeSuJ7C0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12102410-1528428097-3156.jpeg.jpg" data-tags="metalcore" role="button">
-Norma Jean - Redeemer (2006-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - No Heroes (2006-10-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/sQw0cTRb0aPCGSgjMrqGPfRWnn8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970717-1515106686-7186.jpeg.jpg" data-tags="deathcore" role="button">
 Bring Me the Horizon - Count Your Blessings (2006-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">

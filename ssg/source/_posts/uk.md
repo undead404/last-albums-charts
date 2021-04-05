@@ -1,14 +1,14 @@
 ---
-date: 2021-04-05T02:39:01.298Z
+date: 2021-04-05T07:55:02.277Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">Jungle - Jungle (1969)</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">Radiohead - Amnesiac (2001-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">Newton Faulkner - Hand Built By Robots (2007-07-30)</li>
+<li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">Foals - Antidotes (2008-03-23)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">Friendly Fires - Friendly Fires (2008-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">Arctic Monkeys - Suck It and See (2011-10-31)</li>
@@ -60,9 +60,6 @@ The Wedding Present - Seamonsters (1991-06-01)
 <li data-cover="http://coverartarchive.org/release/f9c5c09d-4c24-47de-bf43-c6ea218de29a/1637331973-500.jpg" data-tags="rock pop" role="button">
 Elton John - Rocket Man (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/13c58395-5df0-4db3-8513-5c2d87bfbd7c/10359692033-500.jpg" data-tags="alternative rock, rock, radiohead" role="button">
 Radiohead - My Iron Lung (1994-09-26)
 </li>
@@ -90,10 +87,13 @@ The Chemical Brothers - Dig Your Own Hole (1997-03-25)
 <li data-cover="http://coverartarchive.org/release/127b9b29-4252-463b-9d9a-30b888c19867/9417557840-500.jpg" data-tags="electronic, synthpop, 90s" role="button">
 Depeche Mode - Ultra (1997-04-10)
 </li>
+<li data-cover="https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg" data-tags="alternative rock, britpop" role="button">
+Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/bcbc7ed8-6b81-31d3-85d5-7cca535210dd/17694457523-500.jpg" data-tags="britpop" role="button">
 Travis - The Man Who (1999-05-24)
 </li>
-<li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
+<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="https://img.discogs.com/U9LEG7nZ8JktYxlMgjZkfCNlWSM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66347-1374100615-6026.jpeg.jpg" data-tags="electronic" role="button">

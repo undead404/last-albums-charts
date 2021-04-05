@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:49:01.519Z
+date: 2021-04-05T08:32:21.191Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
 ![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
@@ -120,6 +120,9 @@ Baroness - First (2004-08-04)
 <li data-cover="http://coverartarchive.org/release/f0baba81-224e-4493-9e1d-6208669a1de0/9615154980-500.jpg" data-tags="progressive metal, post-metal" role="button">
 The Ocean - Fluxion (2004-08-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/e49980be-ea93-4d03-ab54-e64e3443a2ba/1049941326-500.jpg" data-tags="experimental rock, dark ambient, sludge metal" role="button">
+Melvins & Lustmord - Pigs of the Roman Empire (2004-08-23)
+</li>
 <li data-cover="https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">
 Mastodon - Leviathan (2004-08-31)
 </li>
@@ -165,7 +168,7 @@ Isis - In the Absence of Truth (2006-10-06)
 <li data-cover="http://coverartarchive.org/release/2426b160-cf55-4ac7-b19d-1f8baf81c9af/14873258376-500.jpg" data-tags="sludge metal" role="button">
 Kylesa - Time Will Fuse Its Worth (2006-10-31)
 </li>
-<li data-cover="https://img.discogs.com/DxEE2symRN6DFUrDz3YYau5D3K4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4816908-1376419483-8542.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
+<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/248fe464-fbd4-4710-90ef-5d3fefa4b9c8/27407104772-500.jpg" data-tags="doom metal, sludge, sludge metal" role="button">
@@ -216,7 +219,7 @@ Mouth of the Architect - Quietly (2008-07-22)
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="sludge metal" role="button">
+<li data-cover="https://img.discogs.com/GiT-DzVcc0ckVTmIMmIqwHy9toI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1675413-1500133971-3022.jpeg.jpg" data-tags="sludge metal" role="button">
 Buried Inside - Spoils of Failure (2009-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0497aa67-d982-4355-8af6-f2f8c95c15f4/4857645763-500.jpg" data-tags="sludge metal" role="button">
@@ -257,9 +260,6 @@ The Ocean - Anthropocentric (2010-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
 Justin Bieber - My Worlds Acoustic (2010-11-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/d5fb82fe-17ee-44fb-ba14-6edd516b94e3/1505255440-500.jpg" data-tags="sludge" role="button">
-Crowbar - Sever The Wicked Hand (2011-02-08)
 </li>
 <li data-cover="https://img.discogs.com/OXlq4ZPsy0aS_pTXqm9JNw27K1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783932-1486678149-1140.jpeg.jpg" data-tags="post-metal" role="button">
 Light Bearer - Lapsus (2011-03-23)

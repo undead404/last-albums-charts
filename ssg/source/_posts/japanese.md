@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:46:01.341Z
+date: 2021-04-05T08:13:01.841Z
 title: "japanese: 100 albums you must listen to before you die"
 ---
 ![Perfume - GAME (2008-04-16)](http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg "Perfume - GAME (2008-04-16)")
@@ -156,11 +156,17 @@ Nujabes - Modal Soul (2005-11-11)
 <li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
 Boris - Pink (2005-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/72301ba2-c6e8-4cbb-a766-675b3df2bbe5/3772124101-500.jpg" data-tags="soundtrack" role="button">
+John Williams - Memoirs Of A Geisha (2005-11-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">
 宇多田ヒカル - Passion (2005-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3c4087a-dcc9-3cea-a50a-5acd052e71af/11254027972-500.jpg" data-tags="j-rock" role="button">
 the GazettE - NIL (2006-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/0d2be387-28e2-4637-bba4-54d24d3a4e71/18954010886-500.jpg" data-tags="j-pop, japanese" role="button">
+YUI - FROM ME TO YOU (2006-02-22)
 </li>
 <li data-cover="https://img.discogs.com/_ReOz2Eg5OLNoovgXmZfvgchvfs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13986322-1565521811-3863.webp.jpg" data-tags="japanese" role="button">
 GACKT - Love Letter (2006-03-01)
@@ -186,7 +192,7 @@ Asobi Seksu - Citrus (2006-05-30)
 <li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
 ギルガメッシュ - 13's Reborn (2006-09-27)
 </li>
-<li data-cover="https://img.discogs.com/fYvnH9PdmGtTlbGyly9NW-Ulv_c=/fit-in/450x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949737-1189947436.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
+<li data-cover="https://img.discogs.com/pPcjS9_A40-oXUGihJ-P0FIEJ5g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-957854-1177445829.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
 Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="https://img.discogs.com/lD9hgbJ9j1I31uA-U_5Oi7wHpKE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3221297-1321091639.jpeg.jpg" data-tags="rock, japanese, j-rock" role="button">
@@ -234,9 +240,6 @@ Perfume - GAME (2008-04-16)
 <li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan" role="button">
 DJ Okawari - Diorama (2008-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/85fced87-8d19-413d-bef1-a6e327399625/24985752759-500.jpg" data-tags="electronic, japanese, female vocalists, j-pop" role="button">
-Meg - STEP (2008-06-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
 DIR EN GREY - Uroboros (2008-11-11)
 </li>
@@ -251,6 +254,9 @@ YUI - again (2009-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electropop, electronic, j-pop" role="button">
 Perfume - ⊿ (2009-07-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/a54a4387-263e-4799-ba7e-02a2dda3d08c/11228615759-500.jpg" data-tags="visual kei, japanese" role="button">
+the GazettE - DIM (2009-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a7922e0-b976-4d75-98a9-bb16585e7b8e/12665202859-500.jpg" data-tags="japanese, female vocalists, jpop, asian, band, anime, j-pop, female fronted, group, asian music, asian pop" role="button">
 fripSide - only my railgun (2009-11-04)
@@ -270,14 +276,14 @@ ONE OK ROCK - Nicheシンドローム (2010-06-09)
 <li data-cover="http://coverartarchive.org/release/33264336-40b5-3017-a8ae-146e5a3ad5bb/3433245640-500.jpg" data-tags="japanese" role="button">
 D'espairsRay - MONSTERS (2010-07-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/4467860a-0faf-477a-ad90-897fe7944615/8250459831-500.jpg" data-tags="hip hop, electronica" role="button">
+Far East Movement - Free Wired (2010-10-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
 Chelsea Wolfe - The Grime and the Glow (2010-12-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
-Perfume - JPN (2011-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ce26deb-207e-49d4-8054-e79184e1456b/4799003889-500.jpg" data-tags="hip-hop, jazz, japanese, downtempo" role="button">
 Nujabes - Spiritual State (2011-12-03)
@@ -294,9 +300,6 @@ YUI - GREEN GARDEN POP (2012-12-05)
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/55337971-7618-45f8-aa57-304b339a029b/19508607303-500.jpg" data-tags="japanese, jpop, male vocalists, anime, j-pop, asian pop" role="button">
-Linked Horizon - 自由への進撃 (2013-07-10)
-</li>
 <li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
@@ -305,9 +308,6 @@ Kero Kero Bonito - Intro Bonito (2013-09-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, japanese, alternative, math rock, experimental, female vocalists, ss, these vocals are killing me with joy" role="button">
 tricot - T H E (2013-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/f9e703bd-dabe-463c-8826-3a6657748e19/5511772198-500.jpg" data-tags="electronic, japanese, hard rock, alternative metal, j-rock" role="button">
-the GazettE - Beautiful Deformity (2013-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf57108a-858c-40c7-91c1-f279b706a7fd/27815880367-500.jpg" data-tags="japanese, female vocalists, jpop, j-pop, asian pop" role="button">
 Lisa - LANDSPACE (2013-10-30)

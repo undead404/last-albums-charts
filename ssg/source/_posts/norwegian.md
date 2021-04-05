@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:39:01.285Z
+date: 2021-04-05T08:03:01.759Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -48,9 +48,6 @@ Motorpsycho - Timothy's Monster (1994-08-06)
 <li data-cover="https://img.discogs.com/vHrPCUPr-rw4bMXnjmrEgVAlmQ0=/fit-in/597x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381673-1334294432.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Isengard - Høstmørke (1995-07-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/9cc37560-1f83-4f58-ace6-01a69ea39f45/4819953174-500.jpg" data-tags="metal, rock, alternative, norwegian, industrial rock, post-grunge, bleak, handleliste" role="button">
-Seigmen - Metropolis (1995-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/47f9dabf-b68b-4b0f-acdb-5ec5735f8b8e/9250966360-500.jpg" data-tags="norwegian" role="button">
 Postgirobygget - Melis (1996)
 </li>
@@ -93,7 +90,7 @@ Dimmu Borgir - Puritanical Euphoric Misanthropia (2001-03-12)
 <li data-cover="https://img.discogs.com/ogQUwoOas8jPx7n8UFd0C56zMkw=/fit-in/550x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6852765-1428604389-3025.jpeg.jpg" data-tags="jazz, ninja tune" role="button">
 Jaga Jazzist - A Livingroom Hush (2001-05-21)
 </li>
-<li data-cover="https://img.discogs.com/3nNMhEKDr8xPmDbod7m5_GHcpmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-167971-1302447497.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
+<li data-cover="https://img.discogs.com/qmkgutIptIKpEcPqzVFYpjNxg9g=/fit-in/480x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29025-1114802300.jpg.jpg" data-tags="electronica, royksopp eple" role="button">
 Röyksopp - Eple (2001-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-500.jpg" data-tags="norwegian, ompa" role="button">
@@ -135,8 +132,14 @@ Kaizers Orchestra - Evig pint (2003-03-07)
 <li data-cover="https://img.discogs.com/ai0y-shUNue13Ebf3Za1Hf2vIHE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2225856-1456197354-6151.jpeg.jpg" data-tags="pop, 80s" role="button">
 a-ha - How Can I Sleep With Your Voice in My Head (2003-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/022b3015-30f8-4145-8cae-edad117dca8e/9294207380-500.jpg" data-tags="electronic, lounge" role="button">
+Ralph Myerz And The Jack Herren Band - A Special Album (2003-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c12cad5-bfca-4738-a06d-16b0b7b2679d/20294604785-500.jpg" data-tags="folk, singer-songwriter, female vocalists" role="button">
 Ane Brun - Spending Time With Morgan (2003-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef4db55b-e485-4279-bcbf-cd624db295dd/9167065307-500.jpg" data-tags="electronic, trip-hop, norwegian, idm, trip hop, breaks, english, xanbaldaio-baile" role="button">
+Ugress - Resound (2003-06-06)
 </li>
 <li data-cover="https://img.discogs.com/M-pFRuNirZcVM7Pn5OHuLqa6C8M=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6668617-1481961616-5739.jpeg.jpg" data-tags="symphonic black metal" role="button">
 Dimmu Borgir - Death Cult Armageddon (2003-09-08)
@@ -149,9 +152,6 @@ Hanne Hukkelberg - Little Things (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c1208a3-e4e8-4b86-987f-2c17f27e05b7/21329941175-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Maria Mena - White Turns Blue (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/43dc857a-5294-4655-971f-94ac37214343/15229606619-500.jpg" data-tags="norwegian" role="button">
-Minor Majority - Up for You & I (2004-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/52621b23-93b2-4e07-b807-e44e91472900/3989392425-500.jpg" data-tags="pop, norwegian, sweet, 2000s, favourite songs, maria mena" role="button">
 Maria Mena - Mellow (2004-03-01)
@@ -279,7 +279,7 @@ Taake - Noregs Vaapen (2011-09-19)
 <li data-cover="http://coverartarchive.org/release/40ad926e-0aa5-476d-9640-fed5f95d8ede/3990865020-500.jpg" data-tags="maria mena" role="button">
 Maria Mena - Viktoria (2011-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c14cded-3867-4728-8267-551c4ac3c419/2406115549-500.jpg" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/9c14cded-3867-4728-8267-551c4ac3c419/2406115549-500.jpg" data-tags="electronic, norwegian, 10s, oslo, smalltown supersound, feedelity" role="button">
 Lindstrøm - Smalhans (2012-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b20edb01-2408-4d2e-bb8f-aa234e7fa9d9/24892778444-500.jpg" data-tags="electronic, norwegian, 10s, oslo, olsen" role="button">
@@ -297,7 +297,7 @@ Wardruna - Runaljod – Yggdrasil (2013-03-15)
 <li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)
 </li>
-<li data-cover="https://img.discogs.com/-CD8U6Jo8-WEymHP7xq0RwEotzY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4648389-1371020360-8515.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/Nt2mYovMieKJyp1o0X0hIhn-Xmo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4648401-1371021140-9807.jpeg.jpg" data-tags="electronic" role="button">
 Todd Terje - Strandbar (2013-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3929e5c-2287-43e9-879d-adc155e910c6/25194465215-500.jpg" data-tags="electronic, downtempo, norwegian, warm, cold, nocturnal, merkliste, feels, acker bilk, proto-vaporwave" role="button">

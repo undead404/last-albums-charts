@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:48:01.353Z
+date: 2021-04-05T08:11:01.819Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -39,9 +39,6 @@ The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
 </li>
@@ -51,7 +48,7 @@ PJ Harvey - To Bring You My Love (1995-02-22)
 <li data-cover="https://img.discogs.com/Q3yl1WI41mftREVRp0uoOeWmjpQ=/fit-in/454x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4576388-1369670400-5909.jpeg.jpg" data-tags="90s, rock, female vocalists" role="button">
 Alanis Morissette - Jagged Little Pill (1995-06-09)
 </li>
-<li data-cover="https://img.discogs.com/SJGfQpjn__fQln9HSBD1nYPsjso=/fit-in/600x926/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2976694-1419413692-8369.jpeg.jpg" data-tags="electronic, alternative" role="button">
+<li data-cover="https://img.discogs.com/RTuwujrJx3ttlEzr-9UPPjAC7rY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3091194-1315302428.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
@@ -153,6 +150,9 @@ Katie Melua - Piece by Piece (2005-09-26)
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
+Norah Jones - Not Too Late (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a4edbc4-9f12-456c-bdbe-126923ad262c/8974984510-500.jpg" data-tags="female vocalists, indie" role="button">
 Cat Power - The Greatest (2006-01-07)
 </li>
@@ -228,7 +228,7 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="http://coverartarchive.org/release/99eee7d3-a75a-41bd-826f-19a44c53e594/6085827998-500.jpg" data-tags="soul, female vocalists" role="button">
 Duffy - Rockferry (2008-03-03)
 </li>
-<li data-cover="https://img.discogs.com/RthahH2HJj5B-I64sqBPuC6O_Q8=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12906768-1544273238-7314.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/cjor1bKuea5JybWWyyJakFaqgVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362662-1212954452.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
@@ -303,7 +303,7 @@ Feist - Metals (2011-09-30)
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">

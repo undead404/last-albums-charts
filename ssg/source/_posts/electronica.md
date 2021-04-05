@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:44:01.315Z
+date: 2021-04-05T07:46:01.391Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -32,9 +32,6 @@ Global Communication - 76:14 (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
 Leftfield - Leftism (1995-01-30)
@@ -113,6 +110,9 @@ Röyksopp - Melody A.M. (2001-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - Geogaddi (2002-02-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
+Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)

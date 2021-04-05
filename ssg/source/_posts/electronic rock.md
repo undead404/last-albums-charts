@@ -1,14 +1,14 @@
 ---
-date: 2021-04-04T20:35:01.328Z
+date: 2021-04-05T08:00:01.371Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="90s, albums i own on cd" role="button">Soulwax - Much Against Everyone's Advice (1999-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">Ratatat - LP3 (2008-07-07)</li>
 <li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">Kevin Rudolf - In The City (2008-11-24)</li>
 <li data-cover="https://img.discogs.com/Gkg0AEjfHhMQWW6H1vqt0WvFH8k=/fit-in/600x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315642-1209030156.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">Coldplay - Mylo Xyloto (2011-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">Phantogram - Nightlife (2011-11-01)</li>
@@ -60,13 +60,16 @@ Marilyn Manson - Mechanical Animals (1998-09-14)
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="90s, albums i own on cd" role="button">
+Soulwax - Much Against Everyone's Advice (1999-03-15)
+</li>
 <li data-cover="https://img.discogs.com/i7Mdiv7bhGP0Wki8_jUzVqvns_M=/fit-in/572x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6078419-1442913906-8783.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
 </li>
 <li data-cover="https://img.discogs.com/H7d9Z1IAa4sSAKiUTri6zDYdiC0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-375064-1557511438-7181.jpeg.jpg" data-tags="rock, soft, electronic rock" role="button">
 Teddybears STHLM - Rock 'n' Roll Highschool (2000-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/9FQ13EQw4x6vzutUmK8AKwkAPOk=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820944-1165896636.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Bloodsport (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
@@ -162,9 +165,6 @@ The Big Pink - A Brief History of Love (2009-09-14)
 <li data-cover="http://coverartarchive.org/release/36ad94a0-82f6-3eec-9fe6-209567941044/4945792946-500.jpg" data-tags="synthpop, electropop, new wave" role="button">
 Dragonette - Fixin to Thrill (2009-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/fad2af28-b836-4304-82aa-1cfdd3626588/8298746171-500.jpg" data-tags="alternative rock, rock" role="button">
-Dead By Sunrise - Out of Ashes (2009-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">
 Angels & Airwaves - LOVE (2010-02-14)
 </li>
@@ -237,7 +237,7 @@ Breton - Other People's Problems (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/88b326d1-7b63-4304-b403-d7ff46d56109/2491087347-500.jpg" data-tags="pop, alternative rock, soft rock" role="button">
 The Rasmus - The Rasmus (2012-04-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/hjGA7Jy4uN5ae32xic_A5matwbc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3565560-1335516191.jpeg.jpg" data-tags="alternative rock" role="button">
 Dot Hacker - Inhibition (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee805eba-996b-48c6-bccb-52b6ff5f4dd7/1017565236-500.jpg" data-tags="folk, indie, drone" role="button">
@@ -270,7 +270,7 @@ Papa Roach - The Connection (2012-10-01)
 <li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
 Bastille - All This Bad Blood (2013-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, vinyl, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
+<li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
 Public Service Broadcasting - Inform - Educate - Entertain (2013-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/efb5dd61-f5ea-4b24-b5d9-2db78ff449b7/4400428039-500.jpg" data-tags="alternative rock" role="button">
