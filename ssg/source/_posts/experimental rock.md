@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:09:01.316Z
+date: 2021-04-05T19:28:01.364Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -38,6 +38,12 @@ Pink Floyd - Atom Heart Mother (1970-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg" data-tags="krautrock" role="button">
 Can - Tago Mago (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/8397e602-0d10-4f6e-a6c3-2db7cd97f7e8/10060657210-500.jpg" data-tags="krautrock" role="button">
+Faust - Faust IV (1973)
+</li>
+<li data-cover="http://coverartarchive.org/release/3669ceae-11bf-49ef-b8f2-b5724d24a6f9/1331058877-500.jpg" data-tags="experimental, art rock, 70s" role="button">
+David Bowie - Low (1977-01-14)
 </li>
 <li data-cover="https://img.discogs.com/VR6bL9ac2osRz0l695Mcab3L6PI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4138809-1432750625-8432.jpeg.jpg" data-tags="electronic, 70s" role="button">
 Brian Eno - Before and After Science (1977-12)
@@ -246,9 +252,6 @@ The Flaming Lips - Embryonic (2009-10-09)
 <li data-cover="https://img.discogs.com/j_4O07I17SUQYM7RRn5vXX_eEnI=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970873-1255853655.jpeg.jpg" data-tags="4ad" role="button">
 Atlas Sound - Logos (2009-10-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/d45da67a-e3c5-3c6d-985e-03d421cfd624/17589986362-500.jpg" data-tags="british, uk" role="button">
-Portishead - Chase the Tear (2009-12-09)
-</li>
 <li data-cover="https://img.discogs.com/-8aBOmFQ8fB3TokkT7RCF20_3uk=/fit-in/471x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7332044-1439106554-9938.jpeg.jpg" data-tags="singer-songwriter, rock" role="button">
 Peter Gabriel - Scratch My Back (2010-02-12)
 </li>
@@ -264,7 +267,7 @@ Linkin Park - A Thousand Suns (2010-09-08)
 <li data-cover="http://coverartarchive.org/release/b3468ed3-ebae-475b-932e-5578336ce72b/1944402956-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - My Father Will Guide Me Up a Rope to the Sky (2010-09-21)
 </li>
-<li data-cover="https://img.discogs.com/tUf_katyLSzcD1NIIDFMLYvVYf4=/fit-in/368x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816946-1337370194-6038.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
+<li data-cover="https://img.discogs.com/R4jvnnJPoOAgWpqqOdawRWaV0nQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="https://img.discogs.com/BmSVv2To___mOLq7WviCbbYBWs0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506826-1287774795.jpeg.jpg" data-tags="experimental" role="button">
@@ -291,16 +294,13 @@ Sleigh Bells - Reign of Terror (2012-02-20)
 <li data-cover="http://coverartarchive.org/release/e321b99f-0f97-48a8-a63a-95e077f4fdb6/3955573848-500.jpg" data-tags="experimental, experimental rock, 10s" role="button">
 Liars - WIXIW (2012-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d7d74f6-0053-4d5f-a48e-183ba418269f/1509338950-500.jpg" data-tags="alternative rock" role="button">
-Serj Tankian - Harakiri (2012-07-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/b339cbf7-e9c2-481d-a308-9b0fe690db70/2978767869-500.jpg" data-tags="experimental rock" role="button">
 Dirty Projectors - Swing Lo Magellan (2012-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4a636f1-4732-4bc0-8559-66b8b3bc345f/1940789966-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - The Seer (2012-08-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, atmospheric" role="button">
+<li data-cover="https://img.discogs.com/kW8zRdivEsPUFc1V0RfFoYPOtXk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4459358-1365448675-9839.jpeg.jpg" data-tags="alternative rock, atmospheric" role="button">
 Circa Survive - Violent Waves (2012-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/46e3ced9-47b3-4bdb-9515-9ab3c655a8be/1932609966-500.jpg" data-tags="neo-psychedelia, burrito-core, experimental" role="button">

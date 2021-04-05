@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:59:01.382Z
+date: 2021-04-05T18:57:01.374Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -30,7 +30,7 @@ Otis Redding - The Dock of the Bay (1968-02-23)
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
 </li>
-<li data-cover="https://img.discogs.com/2fMMXt6hGv6-Ysd3559lBYDavj8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7527335-1443336101-5374.jpeg.jpg" data-tags="soul, 60s" role="button">
+<li data-cover="https://img.discogs.com/8B57iuhKpQ7wz_rNHE0Hu0IoHeY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8569418-1464237108-6054.jpeg.jpg" data-tags="soul, 60s" role="button">
 Dusty Springfield - Dusty In Memphis (1969-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
@@ -69,17 +69,11 @@ Michael Jackson - Dangerous (1991-11-25)
 <li data-cover="http://coverartarchive.org/release/448bd78a-9674-425c-8cf6-7e6de719551d/11371804410-500.jpg" data-tags="soul" role="button">
 Sade - Love Deluxe (1992-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
-Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/e69dbabd-5a61-4147-914b-7e683f096cbc/15210098631-500.jpg" data-tags="soul" role="button">
 Maxwell - Maxwell's Urban Hang Suite (1996-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
 Toni Braxton - Secrets (1996-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
-Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/52d8d6a4-5e94-4200-8b02-530940f1ee1d/22530873406-500.jpg" data-tags="soul" role="button">
 Erykah Badu - Baduizm (1997-02-11)
@@ -107,6 +101,9 @@ Destiny's Child - Survivor (2001-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
 Alicia Keys - Songs in A Minor (2001-06-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
+Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
@@ -143,6 +140,9 @@ Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
+Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
 Beyoncé - B'Day (2006-08-29)

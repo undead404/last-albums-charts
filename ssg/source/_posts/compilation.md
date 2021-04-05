@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T10:59:01.312Z
+date: 2021-04-05T19:17:01.345Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">The Smiths - Hatful of Hollow (1984-11-12)</li>
+<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">Pixies - Death to the Pixies (1997-10-06)</li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">Blur - Blur: The Best Of (2000-10-23)</li>
-<li data-cover="https://img.discogs.com/0q-kp50zBx_Bc9QxWgZ8YQUK6r4=/fit-in/583x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6850887-1427974206-7908.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">Mylène Farmer - Les Mots (2001-11-27)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
 <li data-cover="http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg" data-tags="pop" role="button">Madonna - Celebration (2009-09-18)</li>
@@ -168,11 +168,11 @@ Modest Mouse - Everywhere and His Nasty Parlour Tricks (2001-09-25)
 <li data-cover="https://img.discogs.com/XfFYwIgsPgcIRN7ZFMQFQWnOrXY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4365396-1362939414-1904.jpeg.jpg" data-tags="folk, classic rock" role="button">
 Don McLean - The Best of Don McLean (2001-10-15)
 </li>
-<li data-cover="https://img.discogs.com/0q-kp50zBx_Bc9QxWgZ8YQUK6r4=/fit-in/583x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6850887-1427974206-7908.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
-Mylène Farmer - Les Mots (2001-11-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc3802fb-b98b-4fe2-8709-c09700dd2483/20718037945-500.jpg" data-tags="pop, rock, female vocalists" role="button">
 Blondie - Greatest Hits (2002-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/15e5e346-666b-47d6-950b-d71f49ba6c7d/28137644101-500.jpg" data-tags="60s, usa, oldies, compilation, 00s, rock pop, american group" role="button">
+Three Dog Night - The Collection (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e047053-4405-3566-9960-9633955062fa/16740713365-500.jpg" data-tags="hip hop" role="button">
 Fugees - Greatest Hits (2003-03-25)
@@ -237,7 +237,7 @@ Spice Girls - Greatest Hits (2007-11-09)
 <li data-cover="http://coverartarchive.org/release/65dd730e-e124-4b95-9e54-55640b24b8cc/4889498679-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Lost Songs (2007-11-20)
 </li>
-<li data-cover="https://img.discogs.com/Kv1_QDZQNyKYE23zZAdIq4zcyv8=/fit-in/600x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1220671-1428050065-9770.jpeg.jpg" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/a8-rnlP1hyWgyz2lFT3xzeChCvY=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9238583-1477167057-8071.jpeg.jpg" data-tags="alternative rock" role="button">
 Eels - Meet the Eels: Essential Eels 1996-2006 Vol. 1 (2008-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">

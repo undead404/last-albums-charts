@@ -1,8 +1,8 @@
 ---
-date: 2021-04-05T18:29:01.555Z
+date: 2021-04-05T19:42:01.460Z
 title: "pop: 100 albums you must listen to before you die"
 ---
-![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
+![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">Beyoncé - Dangerously in Love (2003-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">Katy Perry - One of the Boys (2008-06-17)</li>
@@ -12,7 +12,7 @@ title: "pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/86da059c-2af3-43f4-897e-d3f7fa3f5a75/2333307730-500.jpg" data-tags="pop" role="button">Adam Lambert - For Your Entertainment (2009-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/d610e36f-aae9-4703-9a9b-355c9e8de6c7/3403639089-500.jpg" data-tags="pop" role="button">Katy Perry - Teenage Dream (2010-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">Flo Rida - Wild Ones (2012-06-22)</li>
 </ol>
 List of 100 - under the cut.
@@ -150,9 +150,6 @@ Britney Spears - Blackout (2007-10-25)
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
-Amy Macdonald - This Is the Life (2007-12-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d4e6692-5ecd-457b-bcd5-85baf51c5e10/5179841564-500.jpg" data-tags="soul" role="button">
 Adele - 19 (2008-01-27)
 </li>
@@ -264,7 +261,7 @@ Jessie J - Who You Are (2011-02-28)
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">
@@ -288,7 +285,10 @@ Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">
 Flo Rida - Wild Ones (2012-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-500.jpg" data-tags="2012, pop, country" role="button">
+<li data-cover="http://coverartarchive.org/release/743972ad-fd14-4588-9acc-d4660410c9b9/8033030587-500.jpg" data-tags="pop, pop rock" role="button">
+P!nk - The Truth About Love (2012-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-500.jpg" data-tags="pop, country" role="button">
 Taylor Swift - Red (2012-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg" data-tags="british, rock, indietronica" role="button">

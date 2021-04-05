@@ -1,10 +1,10 @@
 ---
-date: 2021-04-05T10:44:01.308Z
+date: 2021-04-05T19:06:01.351Z
 title: "easy listening: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">Jamiroquai - The Return Of The Space Cowboy (1994-10-17)</li>
+<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">Bee Gees - Greatest (1979-10)</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">Stereolab - Dots and Loops (1997-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">Michael Bublé - It's Time (2005-02-08)</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
@@ -54,7 +54,7 @@ Simon & Garfunkel - Greatest Hits (1972-06-14)
 <li data-cover="http://coverartarchive.org/release/297b5fd9-654c-3eb7-a41e-40fc4ae011c7/9800946084-500.jpg" data-tags="jazz, 70s, easy listening" role="button">
 Barbra Streisand - The Way We Were (1974-01)
 </li>
-<li data-cover="https://img.discogs.com/NCcq_13kzwG7oVheA4UkaZ_j-OA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6588081-1477908221-1233.jpeg.jpg" data-tags="soul, 70s, usa, easy listening, female vocalist, soul rnb, american musician, grammy winner 1976" role="button">
+<li data-cover="https://img.discogs.com/2feb5cd2d5742e21de717aad67ad8b8c4ae27eeb/images/spacer.gif" data-tags="soul, 70s, usa, easy listening, female vocalist, soul rnb, american musician, grammy winner 1976" role="button">
 Natalie Cole - Inseparable (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/72746f33-d114-403c-b023-8c19cc57fd21/6506893297-500.jpg" data-tags="easy listening, lounge" role="button">
@@ -77,6 +77,9 @@ Bee Gees - Greatest (1979-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/02f3e0d2-cd49-3883-8796-f34d47e3a6af/5959850736-500.jpg" data-tags="christopher cross, soft rock" role="button">
 Christopher Cross - Christopher Cross (1979-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funk, soul" role="button">
+Quincy Jones - The Dude (1981-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca85d53b-a6c5-4da1-9b73-dfa6f45eccb6/20227568818-500.jpg" data-tags="folk, easy listening, dan fogelberg" role="button">
 Dan Fogelberg - Greatest Hits (1982)
@@ -108,11 +111,11 @@ Lenny Kravitz - Mama Said (1991-04-01)
 <li data-cover="http://coverartarchive.org/release/98b7a796-0f0f-4319-8948-f250d14d6bbc/2800476658-500.jpg" data-tags="70s, classic rock, rock" role="button">
 Mott the Hoople - All The Young Dudes (1992)
 </li>
+<li data-cover="https://img.discogs.com/Ly4QGPiWjak8YqAmq0VWNDXlt9w=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2306411-1375095177-5467.jpeg.jpg" data-tags="easy listening" role="button">
+The Champs - Tequila (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
 Dead Can Dance - Into the Labyrinth (1993-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
-Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="easy listening" role="button">
 Blessid Union Of Souls - Home (1995-03-21)
@@ -281,9 +284,6 @@ The Ronettes - Be My Baby: The Very Best of The Ronettes (2011-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco, indie, pop, indie pop, twee, easy listening, soft rock, adult contemporary, latin, mellow, europop, orchestral pop, hipster, la casa azul, la polinesia meridional" role="button">
-La casa azul - La Polinesia Meridional (2011-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ce26deb-207e-49d4-8054-e79184e1456b/4799003889-500.jpg" data-tags="hip-hop, jazz, japanese, downtempo" role="button">
 Nujabes - Spiritual State (2011-12-03)

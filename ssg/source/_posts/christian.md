@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:48:01.391Z
+date: 2021-04-05T19:10:01.368Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -21,14 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, c, g, f, e, misc, pink, blue, green, yellow, i, all, d, shady, purple, b, h, w, m, l, n, v, grady, u, shady grady, clsid not unique" role="button">
+<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, c, g, e, misc, pink, blue, green, yellow, i, d, shady, purple, b, h, w, m, l, n, v, grady, u, shady grady, clsid not unique" role="button">
 Bob Dylan - New Morning (1970-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d8aa5dd-b518-49e4-a074-473d18a3a691/15278425909-500.jpg" data-tags="gospel, rock, christian rock, bob dylan, christian" role="button">
 Bob Dylan - Slow Train Coming (1979-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/68f06eb3-6929-4dae-8a58-be921cb56805/9682843009-500.jpg" data-tags="rap, 90s, new jack swing, golden age hip hop" role="button">
-MC Hammer - Please Hammer Don't Hurt 'Em (1990-01-30)
 </li>
 <li data-cover="https://img.discogs.com/3ies72jDlfQNFDHEBoTxRKW6xHI=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3711536-1341513339-4771.jpeg.jpg" data-tags="christian, christian rock" role="button">
 Jars of Clay - Jars of Clay (1995-10-24)
@@ -54,6 +51,9 @@ Switchfoot - Learning to Breathe (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/97c7c9a2-c3c1-4aae-bed2-d2407a339a41/8288946939-500.jpg" data-tags="worship" role="button">
+Michael W. Smith - Worship (2000-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">
 P.O.D. - Satellite (2001-09-11)
 </li>
@@ -62,9 +62,6 @@ P.O.D. - Satellite (2001-09-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian" role="button">
 Pillar - Fireproof (2002-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/2e6fddc2-065c-4fdc-af93-4363a5412c06/4889900805-500.jpg" data-tags="indie rock" role="button">
-MAE - Destination: Beautiful (2003-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
@@ -102,9 +99,6 @@ MercyMe - Undone (2004-04-20)
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Underoath - They're Only Chasing Safety (2004-06-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/814233a9-f6b0-4722-b4de-c9d60c015f45/2164745129-500.jpg" data-tags="christian rock" role="button">
-Pillar - Where Do We Go From Here (2004-06-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/9a9ed321-8fb6-4d98-9dae-408af1259e2d/25598338604-500.jpg" data-tags="christian, worship" role="button">
 Shawn McDonald - Simply Nothing (2004-08-10)
 </li>
@@ -120,11 +114,11 @@ Flyleaf - Flyleaf (2004-10-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian, pop punk, rock" role="button">
 Relient K - Mmhmm (2004-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/069e6afe-bbc0-4599-bb83-5bb63d40ced4/11111317856-500.jpg" data-tags="christian rock, christian" role="button">
+Jeremy Camp - Restored (2004-11-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
 Kari Jobe - Kari Jobe (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/a0b40968-f389-48b1-a4e3-4ec6df5ec8d3/24383110980-500.jpg" data-tags="rock, christian" role="button">
-Spoken - Last Chance To Breathe (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
@@ -144,20 +138,26 @@ Denison Witmer - Are You a Dreamer? (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
-Switchfoot - Nothing Is Sound (2005-09-13)
+<li data-cover="http://coverartarchive.org/release/dc76da18-de4d-4f4f-a946-d0f073a4a5ee/9420403008-500.jpg" data-tags="christian rock, christian, contemporary christian" role="button">
+Casting Crowns - Lifesong (2005-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
 August Burns Red - Thrill Seeker (2005-11-08)
 </li>
-<li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
+<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="mat kearney" role="button">
+Mat Kearney - Nothing Left To Lose (2006-04-18)
 </li>
 <li data-cover="https://img.discogs.com/Xxy0yj6KswjbbC2jaOkO0VwFOns=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4133493-1356444424-8753.jpeg.jpg" data-tags="indie, rock, acoustic, christian, christian rock, songs i love, 2000s, available on emusic, 2006 albums, after z" role="button">
 Sleeping at Last - Keep No Score (2006-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">
+Skillet - Comatose (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e00b053-583a-4c48-a7ad-e88eb6805f5e/4786555443-500.jpg" data-tags="christian, christian rock, contemporary christian" role="button">
 Jeremy Camp - Beyond Measure (2006-10-31)
@@ -185,6 +185,9 @@ blessthefall - His Last Walk (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/215df49a-3a03-4b20-8ecd-f482e238acf6/9243496569-500.jpg" data-tags="christian" role="button">
 Hillsong United - All Of The Above (2007-04-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/cacd3e8f-1ac4-4328-9472-159693664f6d/24227116275-500.jpg" data-tags="christian rock" role="button">
+Building 429 - Iris To Iris (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a12d1805-794f-4744-ba79-c9e7dd7ffb5f/12049773567-500.jpg" data-tags="post-hardcore" role="button">
 Before Their Eyes - Before Their Eyes (2007-05-15)
@@ -258,12 +261,6 @@ Mat Kearney - City Of Black & White (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/b0c8d591-6aa6-49ef-8a6a-bcd2de9b6285/26643366789-500.jpg" data-tags="metalcore, christian" role="button">
 For Today - Portraits (2009-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
-August Burns Red - Constellations (2009-07-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/a889c4bc-eb48-433e-a249-611ce2d8a5ea/15536962713-500.jpg" data-tags="metalcore" role="button">
-Confide - Shout The Truth (2009-08-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/68453bb1-969e-4960-8eaf-a2a1a35306eb/16546439880-500.jpg" data-tags="acoustic, christian, discoverockult, tyde moore radio" role="button">
 NEEDTOBREATHE - The Outsiders (2009-08-24)
 </li>
@@ -275,6 +272,9 @@ Matt Maher - Alive Again (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bef45c7f-fbc8-4cbc-af6e-c011c0efd28f/7587678218-500.jpg" data-tags="rock, christian rock, alternative, alternative rock" role="button">
 Switchfoot - Hello Hurricane (2009-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/f050074f-abd5-4d24-9d29-a3787f99b23a/9420443118-500.jpg" data-tags="christian rock, christian, contemporary christian" role="button">
+Casting Crowns - Until The Whole World Hears (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/664b7677-9bb8-4d0a-9cda-62d47af5b748/5765668851-500.jpg" data-tags="christian, boy in love" role="button">
 Ben Rector - Into the Morning (2010-02-16)

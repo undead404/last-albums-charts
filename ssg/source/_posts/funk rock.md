@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:01:06.756Z
+date: 2021-04-05T19:26:01.399Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -68,6 +68,9 @@ Fishbone - Truth And Soul (1988-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/245c9588-b4f8-33df-98f4-4b29b3775916/11571156452-500.jpg" data-tags="hard rock, 80s" role="button">
 Living Colour - Vivid (1988-09-18)
+</li>
+<li data-cover="https://img.discogs.com/F-dBq6_1ySmA0SNJVwMn36-u2Ck=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1620656-1276789100.jpeg.jpg" data-tags="funk rock, red hot chili peppers, portalternativo, sun stoner, rhcp singles" role="button">
+Red Hot Chili Peppers - B-Sides (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">
 Faith No More - The Real Thing (1989-06-20)
@@ -153,7 +156,7 @@ Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
 <li data-cover="http://coverartarchive.org/release/daef1b89-8925-4043-a8f9-4e597d6de044/1608366923-500.jpg" data-tags="reggae, rock, 90s, brasil" role="button">
 O Rappa - Rappa Mundi (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
 Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/981dbbfc-0b08-372b-a0b9-a8e15232d484/15456224654-500.jpg" data-tags="rock, alternative, alternative rock, progressive rock, acoustic, funk metal, funk, latin, blues, progressive, blues rock, funk rock, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal, good album" role="button">
@@ -240,9 +243,6 @@ Papa Roach - Live and Murderous in Chicago (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
 </li>
-<li data-cover="https://img.discogs.com/Xojl4yyVbda7B-_xAFBH8sj49pI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2634029-1590398049-8768.jpeg.jpg" data-tags="funk, soul" role="button">
-Robert Randolph & The Family Band - Colorblind (2006-10-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/c96335b2-2429-4990-a1c8-ff5a4904aa73/2839113560-500.jpg" data-tags="instrumental, funk" role="button">
 Beastie Boys - The Mix-Up (2007-06-22)
 </li>
@@ -258,7 +258,7 @@ Red Hot Chili Peppers - Greatest Hits (2008)
 <li data-cover="http://coverartarchive.org/release/46a01402-c284-4141-bbfe-1d8a5896dce2/17640822148-500.jpg" data-tags="rock" role="button">
 Lenny Kravitz - It Is Time for a Love Revolution (2008-02-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/sAHiZ1GQVMxSrV1dwSAi5FPOqL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646806-1516228829-9542.jpeg.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Seeing Sounds (2008-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6e6e18b-4838-491a-8f29-a313b94febca/9458129078-500.jpg" data-tags="funk rock, rock" role="button">

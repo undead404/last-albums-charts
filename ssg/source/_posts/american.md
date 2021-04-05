@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:31:01.351Z
+date: 2021-04-05T18:49:01.493Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -32,9 +32,6 @@ The Doors - L.A. Woman (1971-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 R.E.M. - Automatic for the People (1992-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/865ee489-de17-4cba-afd0-3294ba59a23f/27974579905-500.jpg" data-tags="pop, 90s" role="button">
-Madonna - Erotica (1992-10-19)
 </li>
 <li data-cover="https://img.discogs.com/QYwxSdn4KsgCk3juno4AEzEqtN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204994-1358497086-7715.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
@@ -128,6 +125,9 @@ Weezer - Make Believe (2005-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">
 Foo Fighters - In Your Honor (2005-05-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, indie" role="button">
+OK Go - Oh No (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
@@ -270,9 +270,6 @@ Sufjan Stevens - All Delighted People EP (2010-08-20)
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
-<li data-cover="https://img.discogs.com/qMHluBLlGky3s4DVN_6TUIF21T0=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3205463-1582999779-8695.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, american" role="button">
-Cage the Elephant - Thank You, Happy Birthday (2011-01-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
@@ -296,6 +293,9 @@ Poliça - Give You The Ghost (2011-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">
 The Lumineers - The Lumineers (2012-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/c2174e3e-6c49-4262-8965-36a173a9ebc0/1194862110-500.jpg" data-tags="indie pop" role="button">
+Passion Pit - Gossamer (2012-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/43bd1c61-c8a2-4877-a57f-93cdf262c761/3773290861-500.jpg" data-tags="indie rock" role="button">
 Local Natives - Hummingbird (2013-01-28)

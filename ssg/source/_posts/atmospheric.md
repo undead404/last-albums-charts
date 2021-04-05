@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:48:01.371Z
+date: 2021-04-05T19:30:01.408Z
 title: "atmospheric: 100 albums you must listen to before you die"
 ---
 ![Bat for Lashes - Two Suns (2009-04-03)](http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg "Bat for Lashes - Two Suns (2009-04-03)")
@@ -21,29 +21,26 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
-Miles Davis - Bitches Brew (1970)
-</li>
 <li data-cover="http://coverartarchive.org/release/edb5b432-6f54-41e5-af58-07d31668ef3a/11436345573-500.jpg" data-tags="ambient" role="button">
 Brian Eno - Another Green World (1975-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
 </li>
-<li data-cover="https://img.discogs.com/nmcOp56fWWI2vyTb5JXdSsOBEmc=/fit-in/567x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420896-1305212323.jpeg.jpg" data-tags="atmospheric, electronic, electronica, krautrock" role="button">
+<li data-cover="https://img.discogs.com/hpZzT2piQLq9EgTc1URCh5HnClE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-535938-1286242445.jpeg.jpg" data-tags="atmospheric, electronic, electronica, krautrock" role="button">
 Tangerine Dream - Stratosfear (1976-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
+</li>
+<li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
+The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1134c9a9-18eb-4930-933a-48bd0c1f0d57/22276388543-500.jpg" data-tags="jazz, 90s, low rock" role="button">
 Morphine - Cure for Pain (1994-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/71e9d706-2ca4-4dc9-a0f7-bef5b9bf27aa/20863233971-500.jpg" data-tags="female vocalists, dream pop, shoegaze" role="button">
 Cranes - Loved (1994-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
-Autechre - Amber (1994-11-07)
 </li>
 <li data-cover="https://img.discogs.com/mXmbUGbg8s-pnwDZnxsR5EARqq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950111-1433873709-1968.jpeg.jpg" data-tags="gothic metal, progressive metal, atmospheric metal" role="button">
 The Gathering - Mandylion (1995-08-28)
@@ -200,6 +197,9 @@ Fever Ray - Fever Ray (2009-01-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/11b2eb6b-6ecb-4cfc-b814-8ebc80dccd88/9907441763-500.jpg" data-tags="folk, dark folk, neofolk" role="button">
 Wardruna - Runaljod - gap var Ginnunga (2009-01-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/c375731f-f692-46e8-bef2-227c4bd1b346/2094797722-500.jpg" data-tags="indie" role="button">
+Andrew Bird - Noble Beast (2009-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)

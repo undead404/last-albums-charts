@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:47:01.443Z
+date: 2021-04-05T18:55:01.393Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
+<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b81d76f6-911e-4278-b8d9-cbac4ab3404b/17512583264-500.jpg" data-tags="pop" role="button">
@@ -66,14 +66,11 @@ Britney Spears - Britney (2001-10-31)
 <li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">
 Shakira - Laundry Service (2001-11-13)
 </li>
-<li data-cover="https://img.discogs.com/43jeN4e7fmSGVdiYcb6OLQV8a3I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3467332-1486342108-9043.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/qxgwFHl0e4SNcLNsz6pLjL1g1no=/fit-in/500x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5551829-1396331428-5028.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
 </li>
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
-Black Eyed Peas - Elephunk (2003-06-24)
 </li>
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
@@ -177,7 +174,7 @@ Justice - A Cross The Universe (2008-11-24)
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)
 </li>
-<li data-cover="https://img.discogs.com/I5S4U78EbYb5KMa33qtUewbBf38=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2852691-1304010999.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
+<li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Invaders Must Die (2009-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/593de430-1ce9-4934-a46c-d168bf9d1653/25512976161-500.jpg" data-tags="dance, cascada, pop" role="button">
@@ -240,6 +237,9 @@ Duck Sauce - Barbra Streisand (2010-09-13)
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Cannibal (2010-11-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/7cb3d98c-83d9-406e-99be-1a010f92929b/6426974407-500.jpg" data-tags="dance, house, saxophone, i love it, saxobeat, alexandra stan, el vrother, danial" role="button">
+Alexandra Stan - Mr. Saxobeat (2011-02-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
 </li>
@@ -282,7 +282,7 @@ Avicii - Silhouettes (2012-09-05)
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">

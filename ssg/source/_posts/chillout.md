@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:03:01.418Z
+date: 2021-04-05T19:34:01.354Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -35,12 +35,6 @@ Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="https://img.discogs.com/KduDRCveZa3suz6NUVTCw5Cffek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2423609-1513393936-3333.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
-Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
-Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
@@ -111,9 +105,6 @@ Télépopmusik - Genetic World (2001-05-21)
 <li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">
 Boozoo Bajou - Satta (2001-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cbf9bb5-6b4d-4b4e-843e-0db79f8f3a58/4396377486-500.jpg" data-tags="downtempo" role="button">
-Quantic - The 5th Exotic (2001-06-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 </li>
@@ -134,6 +125,9 @@ Koop - Waltz for Koop (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/de88c422-1cf3-49cc-9095-3cda552b8727/4262680116-500.jpg" data-tags="electronic" role="button">
 Moby - 18 (2002-05-02)
+</li>
+<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
+Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)
@@ -216,6 +210,9 @@ Jack Johnson - In Between Dreams (2005-02-28)
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
+Imogen Heap - Speak for Yourself (2005-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
@@ -272,6 +269,9 @@ Sia - Some People Have Real Problems (2008-01-08)
 </li>
 <li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
+</li>
+<li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="electronic" role="button">
+Röyksopp - Junior (2009-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e378c3e-0af4-373f-94fc-84c03e8b4374/7932628388-500.jpg" data-tags="ambient, chillout, electronic" role="button">
 Moby - Wait for Me (2009-06-26)

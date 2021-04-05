@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:22:01.458Z
+date: 2021-04-05T19:25:01.369Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -96,6 +96,9 @@ Will Smith - Big Willie Style (1997-11-24)
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
+OutKast - Aquemini (1998-09-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/1a3422a3-bedc-3c7a-a984-b0fd51c0e5ec/9725720160-500.jpg" data-tags="hip hop, hip-hop, rap" role="button">
 The Roots - Things Fall Apart (1999-02-22)
 </li>
@@ -111,17 +114,17 @@ Dr. Dre - 2001 (1999-11-16)
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
 </li>
+<li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
+OutKast - Stankonia (2000-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/a19191e4-50fc-3d5a-8544-d9ed0adf9cfe/4082270241-500.jpg" data-tags="hip-hop, rap" role="button">
+N*E*R*D - In Search Of... (2001-08-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/0dab8857-3a60-4f03-9700-0c3cb04c3e09/2478079610-500.jpg" data-tags="rap" role="button">
 Afroman - The Good Times (2001-08-28)
 </li>
 <li data-cover="https://img.discogs.com/162722db579554db812b537fc8fbe8021fb40203/images/spacer.gif" data-tags="rap" role="button">
 Fabolous - Ghetto Fabolous (2001-09-11)
-</li>
-<li data-cover="https://img.discogs.com/tGHlmKMFiBb3NIT2hGICAqydWmc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-262745-1212104777.jpeg.jpg" data-tags="rap, hip-hop, ludacris" role="button">
-Ludacris - Word of Mouf (2001-11-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c61954d-6496-421c-a3a5-95d3f6015320/2434216412-500.jpg" data-tags="rap" role="button">
-Ice Cube - Greatest Hits (2001-12-03)
 </li>
 <li data-cover="https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Nas - Stillmatic (2001-12-08)
@@ -230,9 +233,6 @@ Drake - Thank Me Later (2010-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
-</li>
-<li data-cover="https://img.discogs.com/dStg3beJhz2BjjG1r7hydZZYQq4=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2605105-1483568416-9401.png.jpg" data-tags="hip-hop" role="button">
-Kid Cudi - Man on the Moon II: The Legend of Mr. Rager (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)

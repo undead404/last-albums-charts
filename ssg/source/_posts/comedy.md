@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:27:01.471Z
+date: 2021-04-05T18:53:01.393Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -207,9 +207,6 @@ Patton Oswalt - Werewolves and Lollipops (2007-07-10)
 <li data-cover="https://img.discogs.com/T8utANq8MXWCH5GNg-KJPuxJJ6A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056126-1536182769-7526.jpeg.jpg" data-tags="comedy, guitar-based digi-bongo acapella-rap-funk-comedy folk duo" role="button">
 Flight of the Conchords - The Distant Future (2007-08-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
-Modeselektor - Happy Birthday! (2007-09-10)
-</li>
 <li data-cover="https://img.discogs.com/ZDP_nF4dCh7gy821SmATJqAFfXc=/fit-in/592x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159328-1196992633.jpeg.jpg" data-tags="stand-up" role="button">
 Michael Ian Black - I Am A Wonderful Man (2007-09-25)
 </li>
@@ -254,6 +251,9 @@ Steel Panther - Feel the Steel (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">
 Flight of the Conchords - I Told You I Was Freaky (2009-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/5f9c1e69-ea54-401c-9157-55366794af2a/7940878656-500.jpg" data-tags="comedy" role="button">
+Hannibal Buress - My Name is Hannibal (2010-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
 Chelsea Wolfe - The Grime and the Glow (2010-12-28)
@@ -309,7 +309,7 @@ Starbomb - Starbomb (2013-12-17)
 <li data-cover="http://coverartarchive.org/release/76d0b2ef-4095-4d4c-a8c6-5b80f862a7a2/12309934751-500.jpg" data-tags="comedy rock" role="button">
 "Weird Al" Yankovic - Mandatory Fun (2014-07-15)
 </li>
-<li data-cover="https://img.discogs.com/2JCXbfqFDWFav56WJUrklnssQDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949963-1495276980-6815.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">

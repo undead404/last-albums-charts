@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:26:01.437Z
+date: 2021-04-05T19:36:01.418Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -111,9 +111,6 @@ Ciara - Goodies (2004)
 <li data-cover="http://coverartarchive.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f/21521356369-500.jpg" data-tags="rnb" role="button">
 Usher - Confessions (2004-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e6a1a1d-613f-43cd-98a4-005f07b6b3bc/23228455307-500.jpg" data-tags="hip-hop" role="button">
-Christina Milian - Dip It Low (2004-05-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
 JoJo - JoJo (2004-06-22)
 </li>
@@ -203,6 +200,9 @@ Chris Brown - Forever (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b4f8392-566f-48eb-9c79-da2d02e7d74a/1637719561-500.jpg" data-tags="pop, rnb, mariah carey" role="button">
 Mariah Carey - E=MC² (2008-01-01)
+</li>
+<li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
+Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Jay Sean - My Own Way (2008-05-12)
