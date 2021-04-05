@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:07:01.310Z
+date: 2021-04-05T08:51:01.913Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -195,6 +195,9 @@ Lupe Fiasco - Food & Liquor (2006-09-19)
 <li data-cover="https://img.discogs.com/UjouSGXxKlP4g4Hum9jK-pooyXw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1596006-1297856519.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
 Clipse - Hell Hath No Fury (2006-11-28)
 </li>
+<li data-cover="https://img.discogs.com/Q3QKu3J2VeBIW5V5ooDaBdb1ayc=/fit-in/460x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4700961-1372697120-8879.jpeg.jpg" data-tags="rap" role="button">
+Wale - Nike Boots (2007-11-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/f2218578-270a-4339-9943-a9d38876f30d/10313891153-500.jpg" data-tags="rap" role="button">
 Birdman - 5 * Stunna (2007-12-11)
 </li>
@@ -233,9 +236,6 @@ Drake - Thank Me Later (2010-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
-Kid Cudi - Man on the Moon II: The Legend of Mr. Rager (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)

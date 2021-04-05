@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:06:01.289Z
+date: 2021-04-05T09:04:01.308Z
 title: "spanish: 100 albums you must listen to before you die"
 ---
 ![Shakira - Pies Descalzos (1995)](https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg "Shakira - Pies Descalzos (1995)")
@@ -45,9 +45,6 @@ Gipsy Kings - Greatest Hits (1994-06-28)
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
 Shakira - Pies Descalzos (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/8798a86f-8890-422a-b06a-65fbefc4d09f/2021812068-500.jpg" data-tags="spanish, pop, 90s" role="button">
-Los Piratas - Poligamia (1995)
-</li>
 <li data-cover="https://img.discogs.com/5BNTN4LPruLLumYAlYWwaQzyL2E=/fit-in/550x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3110736-1476626650-7877.jpeg.jpg" data-tags="spanish, pop, dance, flamenco, my collection, fiesta gitana, explore this artist, listen to this album, g kings, gipsy kings-the best of, the best of gipsy kings" role="button">
 Gipsy Kings - The Best Of (1995)
 </li>
@@ -78,6 +75,9 @@ Big Punisher - Capital Punishment (1998-04-28)
 <li data-cover="http://coverartarchive.org/release/31e185d2-2f85-4fdd-ba61-e4928eb9c6ab/13189115365-500.jpg" data-tags="spanish" role="button">
 La Oreja de Van Gogh - Dile al sol (1998-05-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/ddcc0477-d4b6-4201-85d1-df5e10482c16/28801509453-500.jpg" data-tags="ska, ska punk" role="button">
+Ska-P - Eurosis (1998-07-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/d0f72e80-43c1-4b6f-bafb-befb3b049b80/15836875362-500.jpg" data-tags="reggae, latin, salsa, spanish" role="button">
 Sergent Garcia - Un Poquito Quema'o (1999-02-22)
 </li>
@@ -87,9 +87,6 @@ Santana - Supernatural (1999-06-15)
 <li data-cover="http://coverartarchive.org/release/8a36348d-c96b-46c3-adc6-faf765597a07/15933513236-500.jpg" data-tags="rock argentino, rock en espanol, electronic" role="button">
 Gustavo Cerati - Bocanada (1999-06-28)
 </li>
-<li data-cover="https://img.discogs.com/RXuQnq2w4JiBSY2Oo0e0-g3IX9w=/fit-in/538x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-935668-1174689191.jpeg.jpg" data-tags="rock, alternative rock, punk rock" role="button">
-Dover - Late at Night (1999-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/64cfc603-3ce2-4a8f-85b6-647fb181a991/4653672920-500.jpg" data-tags="latin, pop" role="button">
 Enrique Iglesias - Enrique (1999-11-22)
 </li>
@@ -98,9 +95,6 @@ Shakira - MTV Unplugged (2000-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cc492ce-ff7f-4433-b969-2fd46365294c/10454277903-500.jpg" data-tags="spanish, amaral" role="button">
 Amaral - Una pequeña parte del mundo (2000-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/6deb7fec-ffcd-3209-b78b-406b7a50deb0/2385699242-500.jpg" data-tags="spanish, female vocalists, songwriter" role="button">
-Mónica Naranjo - Minage (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e1b3d08-3af2-43ac-8010-64a801b45d25/10003126515-500.jpg" data-tags="spanish, pop" role="button">
 La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
@@ -114,9 +108,6 @@ La casa azul - El Sonido Efervescente de La Casa Azul (2000-10)
 <li data-cover="http://coverartarchive.org/release/afd09c19-87f1-368e-8e9a-738186154f7f/25137146393-500.jpg" data-tags="ska punk, ska" role="button">
 Ska-P - Planeta Eskoria (2000-10-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, spanish indie pop" role="button">
-Los Piratas - Ultrasónica (2001)
-</li>
 <li data-cover="https://img.discogs.com/NpUMPAzfKUR2IrkXMWUFL16oXVk=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6659741-1456946586-8626.jpeg.jpg" data-tags="spanish, pop, pop rock, rock en espanol, latin rock, latin pop, latin grammy nominated, rock alternativo, latin pop rock, hecho en mexico" role="button">
 Elefante - El que busca encuentra (2001-09-04)
 </li>
@@ -125,9 +116,6 @@ Enrique Iglesias - Escape (2001-10-24)
 </li>
 <li data-cover="https://img.discogs.com/FF5DIMvzWA3_lYWAskJDZOq8kcE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12668200-1539691429-6474.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/42b951f4-868a-47d8-9437-1c095a0532dc/2186737397-500.jpg" data-tags="rock" role="button">
-Marea - Besos De Perro (2002)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="spanish" role="button">
 Estopa - Destrangis (2002)
@@ -153,14 +141,14 @@ Belinda - Belinda (2003-08-05)
 <li data-cover="http://coverartarchive.org/release/07a7dcb9-402f-45b2-ac17-28321b407163/15594205278-500.jpg" data-tags="folk metal" role="button">
 Mägo de Oz - gaia (2003-09-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/8472ac8d-284a-3504-8e36-7e1456f54f0a/18885750436-500.jpg" data-tags="world, latin" role="button">
+Lhasa - The Living Road (2003-10-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/76df3695-a644-3b06-b36b-8e60494a04c2/3334255387-500.jpg" data-tags="ska" role="button">
 Ska-P - Incontrolable (2003-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc1e4a4a-6962-46d5-af09-1a985555b047/3847020956-500.jpg" data-tags="pop, i love this album" role="button">
 La casa azul - Tan Simple Como El Amor (2003-11)
-</li>
-<li data-cover="https://img.discogs.com/Oe8hRpi1qKgNaFF_PyrgydUC91Q=/fit-in/498x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2231119-1271198557.jpeg.jpg" data-tags="spanish, latin, mexico, spanish rock, alternative pop, pop-rock, latin pop, mexican, latin grammy nominated, my whole damn collection, julietta venegas okay" role="button">
-Julieta Venegas - Sí (2003-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b544a67-5aef-4ec5-a6c4-470e45338362/4799388238-500.jpg" data-tags="spanish, rock, uruguay" role="button">
 La Vela Puerca - A Contraluz (2004)
@@ -192,6 +180,9 @@ Narsilion - Nerbeleth (2004-10)
 <li data-cover="http://coverartarchive.org/release/cc18ef53-bcf2-4877-bed1-f180433aa0e0/2186707785-500.jpg" data-tags="spanish, pop" role="button">
 Pereza - Animales (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/dc6df332-e07f-4366-b8fa-40c7a635c6e3/8120090788-500.jpg" data-tags="flamenco" role="button">
+Chambao - Pokito a Poko (2005)
+</li>
 <li data-cover="https://img.discogs.com/2KjH5VWoCZWfH2vvjz9g1vdZaZc=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3487682-1332343967.jpeg.jpg" data-tags="latin folk" role="button">
 Jorge Drexler - Eco (2005-03-01)
 </li>
@@ -201,14 +192,17 @@ Aventura - God's Project (2005-04-12)
 <li data-cover="http://coverartarchive.org/release/d95751d8-e622-4fa1-b745-b69c4596889c/15019413195-500.jpg" data-tags="pop, reik" role="button">
 Reik - Reik (2005-05-24)
 </li>
-<li data-cover="https://img.discogs.com/_4HN8z9XjaQh_3qSeTtjeHK7_DU=/fit-in/421x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6357018-1417261915-3747.jpeg.jpg" data-tags="pop, female vocalists" role="button">
-Ivete Sangalo - As Super Novas (2005-08-05)
+<li data-cover="http://coverartarchive.org/release/66f1b72f-dc0f-477f-961d-40367089ec17/10672987179-500.jpg" data-tags="rock chileno" role="button">
+Los Bunkers - Vida de Perros (2005-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5874e1d-1c1b-4b28-ab35-cf38e4e8bde7/2954384034-500.jpg" data-tags="reggaeton" role="button">
 Calle 13 - Calle 13 (2005-11-29)
 </li>
 <li data-cover="https://img.discogs.com/27WtP5eKHGRLvixRGaquoNnFK14=/fit-in/320x310/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5350420-1391270456-5238.jpeg.jpg" data-tags="spanish, pop, tianguiscore" role="button">
 Allison - Allison (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/fad57385-6e8d-4213-b82e-6adfea8e2d69/18994007660-500.jpg" data-tags="nina pastori" role="button">
+Niña Pastori - Joyas Prestadas (2006-02-21)
 </li>
 <li data-cover="https://img.discogs.com/_RV0vXEoj0u9BHFwPdLnRnGDUGw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9079636-1474401172-9536.jpeg.jpg" data-tags="pop" role="button">
 La Oreja de Van Gogh - Guapa (2006-04-23)
@@ -230,6 +224,12 @@ Deluxe - Fin De Un Viaje Infinito (2007-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0beeda5-9725-40d7-ae0d-83e92a493743/17656218587-500.jpg" data-tags="spanish, pop rock" role="button">
 The Sunday Drivers - Tiny Telephone (2007-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/c0c3e343-4ad3-4551-8dc7-9bee366d537b/10194948769-500.jpg" data-tags="spanish, folk, celtic, pop-rock, conchi" role="button">
+El Sueño de Morfeo - Nos vemos en el camino (2007-04-17)
+</li>
+<li data-cover="https://img.discogs.com/C8bGdw4A8DntxOI8ftqRAYjutEg=/fit-in/585x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-962458-1178209324.jpeg.jpg" data-tags="hip hop" role="button">
+Mala Rodríguez - Malamarismo (2007-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae79c52b-8ed3-45dd-a208-a4bac7c21fb6/28993094834-500.jpg" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
 Jarabe de Palo - Adelantando (2007-05-22)
@@ -282,6 +282,9 @@ Crystal Fighters - Star of Love (2010-10-04)
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
 Shakira - Sale el Sol (2010-10-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/6fb164ce-031e-488b-b5b6-7090932e7621/28304456586-500.jpg" data-tags="reggaeton" role="button">
+Don Omar - Meet the Orphans (2010-11-16)
+</li>
 <li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">
 Russian Red - Fuerteventura (2011-05-10)
 </li>
@@ -300,7 +303,7 @@ Pablo Alborán - Tanto (2012-09-09)
 <li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
 Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
-<li data-cover="https://img.discogs.com/kzt0Yo7Ks4KdyLfFvL2PN96gAtA=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3956184-1353962799-5227.jpeg.jpg" data-tags="misc, all, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, easy listening, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast" role="button">
+<li data-cover="https://img.discogs.com/_Z7XV9EksMIgmDfskJV2RhZHWrg=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3951265-1350294126-5466.jpeg.jpg" data-tags="misc, all, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, easy listening, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast" role="button">
 King Dude - Burning Daylight (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
@@ -314,9 +317,6 @@ Ska-P - 99% (2013-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc72e202-626b-4d43-802b-d4c363726953/5110712454-500.jpg" data-tags="alternative dance, true panther sounds" role="button">
-Delorean - Apar (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/948c3f7f-5c26-49d2-9b0e-0281a8394517/16241880584-500.jpg" data-tags="electropop, synthpop, alternative" role="button">
 Javiera Mena - Otra Era (2014-10-28)

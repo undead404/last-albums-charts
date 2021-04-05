@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:54:01.290Z
+date: 2021-04-05T09:44:01.383Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
@@ -8,7 +8,7 @@ title: "dark: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">The Cure - Pornography (1982-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">The Knife - Silent Shout (2006-02-15)</li>
-<li data-cover="https://img.discogs.com/RthahH2HJj5B-I64sqBPuC6O_Q8=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12906768-1544273238-7314.jpeg.jpg" data-tags="trip-hop" role="button">Portishead - Third (2008-04-08)</li>
+<li data-cover="https://img.discogs.com/cjor1bKuea5JybWWyyJakFaqgVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362662-1212954452.jpeg.jpg" data-tags="trip-hop" role="button">Portishead - Third (2008-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">Rihanna - Rated R (2009-11-16)</li>
 <li data-cover="https://img.discogs.com/xRbUsGDMGuxfDu0TWkcy2s4B0U0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2821863-1400635729-2592.jpeg.jpg" data-tags="indie pop, dark, night, gentle, merkliste" role="button">Timber Timbre - Creep On Creepin' On (2011-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">Austra - Feel It Break (2011-05-13)</li>
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
+Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
 New Order - Movement (1981-11-13)
@@ -63,9 +66,6 @@ Manic Street Preachers - The Holy Bible (1994-08-29)
 <li data-cover="http://coverartarchive.org/release/64bcdda1-f6f4-4d8e-877d-5c2253297462/2106453048-500.jpg" data-tags="electronic, dark, acoustic, gothic, psychedelic, live, infinite loop, schwarz, alexander veljanov, kuscheldunkel, dunkelbunnt, chrom records, d lakalen" role="button">
 Deine Lakaien - Acoustic (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b994ee5-38c4-4fab-bc77-83fd172a3807/4890594100-500.jpg" data-tags="trip-hop, downtempo" role="button">
-Tricky - Pre-Millennium Tension (1996-10-28)
-</li>
 <li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
@@ -95,9 +95,6 @@ Silverchair - Neon Ballroom (1999-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
 Staind - Dysfunction (1999-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/b79c1285-1f52-36b7-adb8-b24491389644/2386244795-500.jpg" data-tags="post-punk" role="button">
-Rowland S. Howard - Teenage Snuff Film (1999-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Every Day and Every Night (1999-11-01)
@@ -183,6 +180,9 @@ Spiritual Front - Armageddon Gigolo (2006-06-23)
 <li data-cover="http://coverartarchive.org/release/cf099799-3f91-4418-abbd-e9dec82b1a58/10599577358-500.jpg" data-tags="alternative, female vocalists, singer-songwriter" role="button">
 Charlotte Martin - Stromata (2006-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">
+Amon Tobin - Foley Room (2007-02-26)
+</li>
 <li data-cover="https://img.discogs.com/rIVAsTPF_RZxs9GCKYVjvWtjKkw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958210-1177507241.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Jesus On Extasy - Holy Beauty (2007-03-30)
 </li>
@@ -198,7 +198,7 @@ Have a Nice Life - Deathconsciousness (2008-02-21)
 <li data-cover="https://img.discogs.com/IbMuPSU7awPxdRyUdt_Nl1rAHlg=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1225596-1329953361.jpeg.jpg" data-tags="ambient, downtempo" role="button">
 Subheim - Approach (2008-04-01)
 </li>
-<li data-cover="https://img.discogs.com/RthahH2HJj5B-I64sqBPuC6O_Q8=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12906768-1544273238-7314.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/cjor1bKuea5JybWWyyJakFaqgVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362662-1212954452.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:45:01.734Z
+date: 2021-04-05T09:16:01.362Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -9,7 +9,7 @@ title: "psychedelic: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">The Beatles - Magical Mystery Tour (1967-11-27)</li>
 <li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">The Velvet Underground - The Velvet Underground (1969-03)</li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Wish You Were Here (1975-09-12)</li>
-<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">Primal Scream - Screamadelica (1991-09-23)</li>
+<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">Primal Scream - Screamadelica (1991-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg" data-tags="indie, electronic" role="button">MGMT - Oracular Spectacular (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">MGMT - Congratulations (2010-04-07)</li>
@@ -141,16 +141,13 @@ Pink Floyd - Meddle (1971-10-30)
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
-Pink Floyd - Animals (1977-01-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, the doors" role="button">
 The Doors - Greatest Hits (1980)
 </li>
 <li data-cover="https://img.discogs.com/_DMp2tmKmRIrJP34jl0FxF98YyM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845550-1357178199-9196.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1991-02-25)
 </li>
-<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
@@ -168,6 +165,9 @@ Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/5cfd4082-fb5e-4629-b734-4d2a7b62542c/2572934147-500.jpg" data-tags="psychedelic" role="button">
+Shpongle - Are You Shpongled? (1998-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
@@ -177,7 +177,7 @@ The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
 <li data-cover="https://img.discogs.com/Dv7Pgio7LPFqdKat1yi0UynK8g4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-73839-1477425849-1942.jpeg.jpg" data-tags="psychedelic" role="button">
 Shpongle - Tales of the Inexpressible (2001-05-30)
 </li>
-<li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, freak folk" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:34:01.299Z
+date: 2021-04-05T08:48:01.371Z
 title: "atmospheric: 100 albums you must listen to before you die"
 ---
 ![Bat for Lashes - Two Suns (2009-04-03)](http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg "Bat for Lashes - Two Suns (2009-04-03)")
@@ -35,9 +35,6 @@ Tangerine Dream - Stratosfear (1976-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
-</li>
-<li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
-The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1134c9a9-18eb-4930-933a-48bd0c1f0d57/22276388543-500.jpg" data-tags="jazz, 90s, low rock" role="button">
 Morphine - Cure for Pain (1994-01-18)
@@ -126,7 +123,7 @@ Team Sleep - Team Sleep (2005-05-09)
 <li data-cover="http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg" data-tags="rock, alternative rock, jimmy eat world" role="button">
 Jimmy Eat World - Stay On My Side Tonight (2005-10-04)
 </li>
-<li data-cover="https://img.discogs.com/wqTkBm7nyv0Jjd9K8-lFG4c2Thk=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694470-1520581573-8313.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb71e741-6836-4803-8ef4-acf941a09cff/20604365596-500.jpg" data-tags="ambient, atmospheric" role="button">
@@ -270,6 +267,9 @@ Rocket Juice & The Moon - Rocket Juice & the Moon (2012-02)
 <li data-cover="http://coverartarchive.org/release/b424996c-b0a7-4c6f-9d7c-561fc760640f/4101040746-500.jpg" data-tags="dreamy, dream pop" role="button">
 Memoryhouse - The Slideshow Effect (2012-02-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
+The Shins - Port of Morrow (2012-03-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
 Chromatics - Kill for Love (2012-03-26)
 </li>
@@ -279,7 +279,7 @@ Sigur Rós - Valtari (2012-05-23)
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, atmospheric" role="button">
+<li data-cover="https://img.discogs.com/kW8zRdivEsPUFc1V0RfFoYPOtXk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4459358-1365448675-9839.jpeg.jpg" data-tags="alternative rock, atmospheric" role="button">
 Circa Survive - Violent Waves (2012-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd33b592-9208-49e5-b0dc-fec799689a5c/3325563092-500.jpg" data-tags="indie, electronic" role="button">

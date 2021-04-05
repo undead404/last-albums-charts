@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:07:01.294Z
+date: 2021-04-05T09:22:02.059Z
 title: "sex: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -69,7 +69,7 @@ Placebo - Placebo (1996-06-12)
 <li data-cover="http://coverartarchive.org/release/179eda34-3645-44ab-923f-02f58c078a32/10119685924-500.jpg" data-tags="electronica" role="button">
 The Chemical Brothers - Setting Sun (1996-09-30)
 </li>
-<li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="female, soul, dance, girls, sex, guilty pleasure, lovely, porn, misc, vagina, breasts, tits, moisture, girlfriend, miscellaneous, all, boobs, shady, pleasure, girls girls girls, boobies, i want to make out with her so bad, titties, mammal, vaginal, jugs, imaginary, i would like to spend an afternoon rubbing her breasts with warm mineral oil, mammaries, camel toe, sex stuff, finely tailored, lady love, a fashionable likeness of cylindrical awareness, smell of female, maternal, vagina possession, feminine cavern of love, boneriffic, and such, grumpy still skin, lady parts, soft and moist, masturbation fodder, female lady, lady female, hie to kolob, cylindrical awareness, cavern of love, the smell of female, you can if you want to, imaginary girlfriend, unclean thoughts, woman lady, prophetess, maternal prophetess, juglets, jiggles, broadish" role="button">
+<li data-cover="https://img.discogs.com/fmt94kfcRan6s8ni7WKm0nxvSMs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164910-1275419640.jpeg.jpg" data-tags="female, soul, dance, girls, sex, guilty pleasure, lovely, porn, misc, vagina, breasts, tits, moisture, girlfriend, miscellaneous, all, boobs, shady, pleasure, girls girls girls, boobies, i want to make out with her so bad, titties, mammal, vaginal, jugs, imaginary, i would like to spend an afternoon rubbing her breasts with warm mineral oil, mammaries, camel toe, sex stuff, finely tailored, lady love, a fashionable likeness of cylindrical awareness, smell of female, maternal, vagina possession, feminine cavern of love, boneriffic, and such, grumpy still skin, lady parts, soft and moist, masturbation fodder, female lady, lady female, hie to kolob, cylindrical awareness, cavern of love, the smell of female, you can if you want to, imaginary girlfriend, unclean thoughts, woman lady, prophetess, maternal prophetess, juglets, jiggles, broadish" role="button">
 Robyn - My Truth (1999-05-19)
 </li>
 <li data-cover="https://img.discogs.com/AYueZ6gu7lScq94O5Ew4nSGf9es=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6560663-1422031634-4236.jpeg.jpg" data-tags="indie" role="button">
@@ -128,6 +128,9 @@ Combichrist - The Joy of Gunz (2003-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/241b9b86-92c8-49c6-aa2a-358ab146a9dc/2846374896-500.jpg" data-tags="belge, rock" role="button">
 Ghinzu - Blow (2004-02-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/165deaa5-a5ba-4170-842d-03496202c04a/1529579124-500.jpg" data-tags="c, e, misc, pink, i, tags, d, shady, b, h, w, m, l, n, v, grady, u, shady grady, possibly auditory, clsid not unique, trip-hop, indie, female, male, rock, alternative, folk, female vocalists, dance, happy, fantastic, afternoon, girls, outsider, friendly, long, friend, pretty, my, like, soft, random, christian, why, poetic, provocative, sex, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, recommended, game, guilty pleasure, inspirational, out, smart, worship, warm, north, hot, place, depression, beach, pleasant, now, commercial, heart, lovely, visual, traditional, women, years, work, misogyny, sensual, lost, porn, monday, what, leaf, hole, woman, upcoming, single, fantasy, penis, tracks, sexual" role="button">
+Brigitte Bardot - The Best Of Bardot (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/20ebb6b1-63f1-4889-8169-c49494a9cc54/2139829032-500.jpg" data-tags="indie, post-punk, sex, sound virus, 679 recordings" role="button">
 Death from Above 1979 - Romantic Rights EP (2004-04-13)
@@ -192,7 +195,7 @@ Nadia Oh - Hot Like Wow (2008-04-28)
 <li data-cover="http://coverartarchive.org/release/2ca906ab-42c6-4742-946d-1f85da952504/2634411437-500.jpg" data-tags="jazz" role="button">
 Esperanza Spalding - Esperanza (2008-05-20)
 </li>
-<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, lovely, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend, bats, beef, batman" role="button">
+<li data-cover="https://img.discogs.com/g90Gp17zqd67CoxpF26Dt9-_a9I=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5359407-1396606694-2649.jpeg.jpg" data-tags="female, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, lovely, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend, bats, beef, batman" role="button">
 Katy Perry - Katy Perry (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">
@@ -240,7 +243,7 @@ Robyn - Body Talk (2010-11-22)
 <li data-cover="http://coverartarchive.org/release/db805c04-16c1-4464-9811-74488445339b/9613183966-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, f, guilty pleasure, buy, j, r, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, nuggets, bananas, x, meat" role="button">
 Robyn - Indestructible (2010-12)
 </li>
-<li data-cover="https://img.discogs.com/Is_8wIzreaiToVfCOsdOJOmBupM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2802792-1301711040.jpeg.jpg" data-tags="new wave" role="button">
+<li data-cover="https://img.discogs.com/KS3kIYhXny1Jdfv0A6Wvsm4cpAg=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4248695-1359666920-9595.jpeg.jpg" data-tags="new wave" role="button">
 The Sounds - Something to Die For (2011-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e609f88c-c5e2-4f00-bd9a-a9b88f898149/3366583245-500.jpg" data-tags="rock, deutsch" role="button">
@@ -261,9 +264,6 @@ HTRK - Work (Work, Work) (2011-09-06)
 <li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, sex, neo soul, soul revival" role="button">
 Mayer Hawthorne - How Do You Do (2011-10-04)
 </li>
-<li data-cover="https://img.discogs.com/VakWVeVIeJoQeQjrgYg_u8sQvY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6418028-1576032078-4567.jpeg.jpg" data-tags="christmas" role="button">
-Justin Bieber - Under the Mistletoe (2011-11-01)
-</li>
 <li data-cover="https://img.discogs.com/lIDWKWAgcrAxjP7aDHCW6KN_1N4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2485631-1286637103.jpeg.jpg" data-tags="sex" role="button">
 My Darkest Days - Casual Sex (2012-01-17)
 </li>
@@ -279,7 +279,7 @@ Christina Aguilera - Your Body (2012-09-17)
 <li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">
 Bruno Mars - Locked Out Of Heaven (2012-10-01)
 </li>
-<li data-cover="https://img.discogs.com/kzt0Yo7Ks4KdyLfFvL2PN96gAtA=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3956184-1353962799-5227.jpeg.jpg" data-tags="misc, all, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, easy listening, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast" role="button">
+<li data-cover="https://img.discogs.com/_Z7XV9EksMIgmDfskJV2RhZHWrg=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3951265-1350294126-5466.jpeg.jpg" data-tags="misc, all, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, easy listening, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast" role="button">
 King Dude - Burning Daylight (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/242f6935-a79a-432d-81c5-d015c64b05eb/7648976992-500.jpg" data-tags="electronic, ambient" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:46:01.391Z
+date: 2021-04-05T09:09:01.528Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -36,7 +36,7 @@ Nine Inch Nails - The Downward Spiral (1994-03-08)
 <li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
 Leftfield - Leftism (1995-01-30)
 </li>
-<li data-cover="https://img.discogs.com/SJGfQpjn__fQln9HSBD1nYPsjso=/fit-in/600x926/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2976694-1419413692-8369.jpeg.jpg" data-tags="electronic, alternative" role="button">
+<li data-cover="https://img.discogs.com/RTuwujrJx3ttlEzr-9UPPjAC7rY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3091194-1315302428.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
@@ -75,7 +75,7 @@ Fatboy Slim - You've Come a Long Way, Baby (1998-10-12)
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
 </li>
-<li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
+<li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
@@ -111,9 +111,6 @@ Röyksopp - Melody A.M. (2001-10-08)
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - Geogaddi (2002-02-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
-Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
-</li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
@@ -141,7 +138,7 @@ Daft Punk - Daft Club (2003-11-27)
 <li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">
 Air - Talkie Walkie (2004-01-21)
 </li>
-<li data-cover="https://img.discogs.com/TntSDuGQXlbBnS7o3Jr44SA9rdQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-244778-1458760798-4830.jpeg.jpg" data-tags="chillout" role="button">
+<li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
@@ -278,6 +275,9 @@ Crystal Castles - Crystal Castles (2010-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg" data-tags="drum and bass" role="button">
 Pendulum - Immersion (2010-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/4467860a-0faf-477a-ad90-897fe7944615/8250459831-500.jpg" data-tags="hip hop, electronica" role="button">
+Far East Movement - Free Wired (2010-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
 Nicolas Jaar - Space Is Only Noise (2011-01-31)

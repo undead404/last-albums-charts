@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:13:01.364Z
+date: 2021-04-05T09:29:01.328Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -8,7 +8,7 @@ title: "punk: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/FQAFxI3rrJZOiQQ1c37mdpHVy_Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8984704-1472761513-5434.jpeg.jpg" data-tags="punk rock, punk" role="button">Green Day - Dookie (1994-01-28)</li>
 <li data-cover="https://img.discogs.com/Ed6zur6V7QL3cQwSuhTSu7dIbiY=/fit-in/189x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596818-1448916413-5494.jpeg.jpg" data-tags="punk rock" role="button">The Offspring - Americana (1998-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">Sum 41 - All Killer No Filler (2001-05-08)</li>
-<li data-cover="https://img.discogs.com/zgND8o4VXNDounHkrrG5b5pd0s0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501912-1444050760-9836.png.jpg" data-tags="punk rock, punk, alternative rock" role="button">AFI - Sing the Sorrow (2003-03-10)</li>
+<li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">AFI - Sing the Sorrow (2003-03-10)</li>
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">Yellowcard - Ocean Avenue (2003-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
@@ -68,9 +68,6 @@ The Clash - Combat Rock (1982-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5c4aa9d-b58e-3d37-b1bd-6ceb6e825156/21129363908-500.jpg" data-tags="punk rock, hardcore punk, punk" role="button">
 Descendents - Milo Goes to College (1982-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/9afa664c-9829-43d9-89fd-ce698e6f9068/1485761876-500.jpg" data-tags="80s, post-punk" role="button">
-Violent Femmes - Violent Femmes (1983-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90d3fdc2-70e1-437c-ae56-0e97314ff684/21652369834-500.jpg" data-tags="punk" role="button">
 Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
@@ -159,7 +156,7 @@ Against Me! - Reinventing Axl Rose (2002-02-02)
 <li data-cover="http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Drunken Lullabies (2002-03-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
+<li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Tell All Your Friends (2002-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b24f4f3-5617-47fd-ac30-e82282d7621f/11149812820-500.jpg" data-tags="punk rock" role="button">
@@ -171,7 +168,7 @@ The Used - The Used (2002-06-25)
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
 The Ataris - So Long, Astoria (2003-02-03)
 </li>
-<li data-cover="https://img.discogs.com/zgND8o4VXNDounHkrrG5b5pd0s0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2501912-1444050760-9836.png.jpg" data-tags="punk rock, punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="https://img.discogs.com/54PHju_pBRbaDAAbP344C-jYO0Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383394-1108500259.jpg.jpg" data-tags="punk, punk rock, melodic hardcore" role="button">
@@ -267,7 +264,7 @@ The All-American Rejects - Move Along (2006)
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
 </li>
-<li data-cover="https://img.discogs.com/3X7zBsn8NDw5TLYqTy43PlCL0hI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2467899-1285701452.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/FRZ3gNetLCW2_nAvk5ktVtBgHzU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7274424-1575807464-9451.jpeg.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent II (2006-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
@@ -281,6 +278,9 @@ New Found Glory - Coming Home (2006-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
+Avril Lavigne - The Best Damn Thing (2007-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1b91579-b873-45d2-a5cc-ac633a946791/4812682225-500.jpg" data-tags="punk" role="button">
 The Gaslight Anthem - Sink or Swim (2007-05-29)

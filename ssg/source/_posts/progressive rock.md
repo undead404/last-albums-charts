@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:48:01.477Z
+date: 2021-04-05T08:52:01.594Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -147,9 +147,6 @@ Genesis - Invisible Touch (1986-06-01)
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
-Pink Floyd - Delicate Sound of Thunder (1988-11-22)
-</li>
 <li data-cover="https://img.discogs.com/yhsafRWLca1rLfuG7gevzfc935Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468462-1359981319-9678.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
@@ -272,6 +269,9 @@ The Mars Volta - Amputechture (2006-09-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
+Circa Survive - On Letting Go (2007-05-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Riverside - Rapid Eye Movement (2007-09-24)

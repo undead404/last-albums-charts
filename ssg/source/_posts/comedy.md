@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:06:01.300Z
+date: 2021-04-05T09:10:02.127Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -7,8 +7,8 @@ title: "comedy: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">Bloodhound Gang - Hooray for Boobies (1999-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - Tenacious D (2001-09-25)</li>
 <li data-cover="https://img.discogs.com/p8_cLCOZTh4qyzbyLYxSmBIJSRs=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2351207-1278866751.jpeg.jpg" data-tags="alternative, rock, comedy" role="button">Bloodhound Gang - Hefty Fine (2005-01-01)</li>
+<li data-cover="http://coverartarchive.org/release/838aecec-8a2c-43fd-8036-9016f8d78aa0/5121395588-500.jpg" data-tags="comedy" role="button">"Weird Al" Yankovic - Straight Outta Lynwood (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - The Pick of Destiny (2006-09-26)</li>
-<li data-cover="https://img.discogs.com/T8utANq8MXWCH5GNg-KJPuxJJ6A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056126-1536182769-7526.jpeg.jpg" data-tags="comedy, guitar-based digi-bongo acapella-rap-funk-comedy folk duo" role="button">Flight of the Conchords - The Distant Future (2007-08-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">Flight of the Conchords - Flight of the Conchords (2008-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/e74d81e5-7e35-4566-9722-aeb9a796beae/9813552225-500.jpg" data-tags="comedy" role="button">The Lonely Island - Incredibad (2009-02-10)</li>
 <li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">Flight of the Conchords - I Told You I Was Freaky (2009-10-20)</li>
@@ -35,6 +35,12 @@ Eddie Murphy - How Could It Be (1985)
 </li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
+"Weird Al" Yankovic - Dare To Be Stupid (1985-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/11a5139e-b82b-3280-ae0b-128f884315e4/2909604669-500.jpg" data-tags="comedy" role="button">
+"Weird Al" Yankovic - Even Worse (1988-04-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Monty Python - Monty Python Sings (1989-12-11)
@@ -117,6 +123,9 @@ Liam Lynch - Fake Songs (2000)
 <li data-cover="https://img.discogs.com/WlY6RcBtAclXLRjwmdBWwT4TrYg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025013-1213235451.jpeg.jpg" data-tags="metal, rock, comedy, industrial metal, fun metal, knorkator" role="button">
 Knorkator - Tribute to uns selbst (2000-08-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up" role="button">
+Lewis Black - The White Album (2000-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/2748414e-5f9d-470b-b748-9f98e6f51581/22141635600-500.jpg" data-tags="deutsch, comedy, german, a capella" role="button">
 Wise Guys - Ganz weit vorne (2001-08-27)
 </li>
@@ -174,11 +183,11 @@ Daniel Tosh - True Stories I Made Up (2005-11-08)
 <li data-cover="http://coverartarchive.org/release/dcc3e46f-b15c-4159-b294-5e37ea87ee12/3455676064-500.jpg" data-tags="hip hop, swedish, swedish hiphop" role="button">
 Snook - Är (2006-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/838aecec-8a2c-43fd-8036-9016f8d78aa0/5121395588-500.jpg" data-tags="comedy" role="button">
+"Weird Al" Yankovic - Straight Outta Lynwood (2006-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">
 Tenacious D - The Pick of Destiny (2006-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a2091d2-70eb-4464-8a32-67488a85a312/19499347108-500.jpg" data-tags="jazz, comedy, helge schneider" role="button">
-Helge Schneider - I Brake Together (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bc3ef86-36dd-4546-96ff-c644156b7b67/5384639454-500.jpg" data-tags="finnish, power metal, tokio hotel" role="button">
 Ari Koivunen - Fuel For The Fire (2007-05-24)
@@ -237,9 +246,6 @@ Psychostick - Sandwich (2009-05-05)
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/6962a5f0-5687-3375-a966-c05fd15784db/996874208-500.jpg" data-tags="death metal, melodic death metal" role="button">
-Dethklok - Dethalbum II (2009-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">
 Flight of the Conchords - I Told You I Was Freaky (2009-10-20)
 </li>
@@ -248,9 +254,6 @@ Grimes - Geidi Primes (2010-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f9c1e69-ea54-401c-9157-55366794af2a/7940878656-500.jpg" data-tags="comedy" role="button">
 Hannibal Buress - My Name is Hannibal (2010-07-27)
-</li>
-<li data-cover="https://img.discogs.com/5m9X-BuG9NQBvtyIuT_gl4zotkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15766318-1597407950-4490.jpeg.jpg" data-tags="post-hardcore" role="button">
-MASS OF THE FERMENTING DREGS - ゼロコンマ、色とりどりの世界 (2010-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
 Chelsea Wolfe - The Grime and the Glow (2010-12-28)
@@ -279,7 +282,7 @@ Zola Jesus - Conatus (2011-09-26)
 <li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, gay metal, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
+<li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
 King Dude - Love (2011-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f127f560-c021-49e6-992c-be629566f025/948429328-500.jpg" data-tags="rock, hard rock" role="button">
@@ -306,9 +309,6 @@ Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 <li data-cover="http://coverartarchive.org/release/ce1adb07-6bf7-4a45-83d8-d7220c4a473a/6015501620-500.jpg" data-tags="rap, comedy, synthpop, video games" role="button">
 Starbomb - Starbomb (2013-12-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/823b94ae-e7ad-4a15-ae93-62677d278752/26273097777-500.jpg" data-tags="hipster, pop, visual kei, japanese, emo, anime, j-pop, emocore, not music, anison, not gothic, not experimental, jpop, spam, decadence, spammer, worst song ever, church of satan, not darkwave, uninteresting, mag es von hinten, amatue, metal, female vocalists, comedy, humour, symphonic metal, power metal, meme, seiyuu, spammers, lolicore, bland, shite, achingly intelligent, spamcore, folklore intellectuel, mainstream shit, miserable failure" role="button">
-King Dude - Fear (2014-05-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/76d0b2ef-4095-4d4c-a8c6-5b80f862a7a2/12309934751-500.jpg" data-tags="comedy rock" role="button">
 "Weird Al" Yankovic - Mandatory Fun (2014-07-15)
 </li>
@@ -318,7 +318,7 @@ Nicki Minaj - Anaconda (2014-08-04)
 <li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, gay metal, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
 Zola Jesus - Taiga (2014-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, gay metal, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
+<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
 Marissa Nadler - Before July: Demos & Unreleased Songs (2014-12-01)
 </li>
 </ol>

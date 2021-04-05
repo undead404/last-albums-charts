@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:22:01.298Z
+date: 2021-04-05T09:42:01.349Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -99,7 +99,7 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Morrison Hotel (1970-02)
 </li>
-<li data-cover="https://img.discogs.com/sE0VG-0sdTLQB3q8UTuR7KjthJE=/fit-in/550x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341352-1396052519-4623.jpeg.jpg" data-tags="classic rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/FyTyNg0l2oiiALzvNZVMfxZc6C8=/fit-in/599x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11276140-1513251517-1765.jpeg.jpg" data-tags="classic rock, 70s" role="button">
 Van Morrison - Moondance (1970-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
@@ -195,9 +195,6 @@ Iggy Pop - Lust For Life (1977-08-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, classic rock" role="button">
 Steely Dan - Aja (1977-09-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
-Billy Joel - The Stranger (1977-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/36594124-8097-3af9-891a-8a03b154c79b/23541528287-500.jpg" data-tags="classic rock, 70s" role="button">
 Electric Light Orchestra - Out of the Blue (1977-10)
 </li>
@@ -287,6 +284,9 @@ Bon Jovi - Cross Road (1994-10-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, eagles" role="button">
 Eagles - Hell Freezes Over (1994-11-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">
+Bob Dylan - Highway 61 Revisited (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a/2959937821-500.jpg" data-tags="rock, classic rock" role="button">
 Bruce Springsteen - Greatest Hits (1995-02-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:15:07.900Z
+date: 2021-04-05T09:21:01.938Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -26,6 +26,9 @@ The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 </li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock" role="button">
+The Beatles - Let It Be (1970-05-08)
 </li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
@@ -155,9 +158,6 @@ Placebo - Meds (2006-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e81cca2-fb08-4155-9bac-9d998b2ac952/27084035714-500.jpg" data-tags="indie rock, rock, british, indie" role="button">
 Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
-</li>
-<li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
-The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)

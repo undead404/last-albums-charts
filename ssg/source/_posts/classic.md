@@ -1,17 +1,17 @@
 ---
-date: 2021-04-05T00:44:07.243Z
+date: 2021-04-05T09:40:01.328Z
 title: "classic: 100 albums you must listen to before you die"
 ---
-![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
+![Big L - Lifestylez Ov Da Poor &amp; Dangerous (1995-03-28)](http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg "Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg" data-tags="hip-hop, rap" role="button">Nas - Stillmatic (2001-12-08)</li>
+<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">The Game - The Documentary (2005-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">Kid Cudi - Man on the Moon: The End of Day (2009-07-15)</li>
 <li data-cover="https://img.discogs.com/Rdx_KXC8YYZz0d2vPVqImSkVzxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3918460-1349197715-1410.jpeg.jpg" data-tags="locked out of heaven, bruno mars" role="button">Bruno Mars - Locked Out Of Heaven (2012-10-01)</li>
 </ol>
@@ -35,9 +35,6 @@ The Velvet Underground - The Velvet Underground (1969-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
 The Doors - The Soft Parade (1969-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
-Miles Davis - Bitches Brew (1970)
 </li>
 <li data-cover="https://img.discogs.com/FyTyNg0l2oiiALzvNZVMfxZc6C8=/fit-in/599x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11276140-1513251517-1765.jpeg.jpg" data-tags="classic rock, 70s" role="button">
 Van Morrison - Moondance (1970-03)
@@ -75,6 +72,9 @@ Minor Threat - Salad Days (1985-04)
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
+Johann Strauss II - Vienna of My Dreams (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
@@ -96,17 +96,11 @@ Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
 <li data-cover="http://coverartarchive.org/release/77fad998-2e9b-4e4f-a960-1c5b9d2a7b34/15715288051-500.jpg" data-tags="hip-hop, east coast rap" role="button">
 Black Moon - Enta Da Stage (1993-10-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ad64552-1b61-4a7d-97cf-c8ec1cf46530/5216864402-500.jpg" data-tags="reggae, punk, dub, 1994" role="button">
-Sublime - Robbin' The Hood (1994-02-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd351957-3aaf-48ba-ad53-a6baee00ef64/14583668157-500.jpg" data-tags="hip hop" role="button">
 Pete Rock & C.L. Smooth - The Main Ingredient (1994-11-08)
@@ -150,7 +144,7 @@ Nas - It Was Written (1996-07-01)
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/5992a7fd-6ade-3895-827a-a7dfdf6ebb51/26921224002-500.jpg" data-tags="1996, electronic, hip-hop" role="button">
+<li data-cover="http://coverartarchive.org/release/5992a7fd-6ade-3895-827a-a7dfdf6ebb51/26921224002-500.jpg" data-tags="electronic, hip-hop" role="button">
 DJ Shadow - Endtroducing..... (1996-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/82e96230-b09b-4eed-90bf-87922b031a08/15595475285-500.jpg" data-tags="hip-hop, classic, rap, underground rap, political, west coast, stuff to check out, conscious hip-hop, west coast rap, conscious, underground hiphop, west coast hiphop, listen carefully, jbtv recommendation, excellent lyricism, hot to def, check the wordplay, educate yourself, real life rhymes, lyrics to learn from, mixed memories" role="button">
@@ -170,6 +164,9 @@ Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
+The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
@@ -216,6 +213,9 @@ Secret Garden - Once in a Red Moon (2002-03-21)
 <li data-cover="https://img.discogs.com/u2GGB8hwYJVv9qRLO6ArdnvbwCo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-848895-1378832579-6347.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/d43ec83c-bcc9-4504-81fe-6fd92083a0c6/4371043204-500.jpg" data-tags="latin" role="button">
+Juanes - Un Día Normal (2002-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e04601a-8f61-4cca-8568-466f695e8209/1448754274-500.jpg" data-tags="hip hop, 9th wonder" role="button">
 Little Brother - The Listening (2003-02-25)
 </li>
@@ -258,7 +258,7 @@ Jens Lekman - Oh You're So Silent Jens (2005-06-08)
 <li data-cover="http://coverartarchive.org/release/5da2b75b-4b30-47ac-bbbb-86ad85a82508/27400864269-500.jpg" data-tags="classic, full tracks, fun to skateboard to, beats for days, excellent lyricism, battle rhymes" role="button">
 Eric B. & Rakim - Gold (2005-06-14)
 </li>
-<li data-cover="https://img.discogs.com/wqTkBm7nyv0Jjd9K8-lFG4c2Thk=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694470-1520581573-8313.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3655e9f-3db1-434d-bb4b-3529d09b2989/1373313355-500.jpg" data-tags="instrumental hip-hop, hip-hop" role="button">

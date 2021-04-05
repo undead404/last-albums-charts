@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T05:18:01.376Z
+date: 2021-04-05T09:31:01.410Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](http://coverartarchive.org/release/b695de30-91da-4cd4-8491-5740a4bbb6fb/6892667738-500.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -122,6 +122,9 @@ Colbie Caillat - Coco (2007-01-01)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
+Avril Lavigne - The Best Damn Thing (2007-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
@@ -249,9 +252,6 @@ Katy Perry - Teenage Dream (2010-08-24)
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
 </li>
-<li data-cover="https://img.discogs.com/2-R0Ld1_9SzXqKBomZqtyOoAofQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8820861-1469469848-2185.jpeg.jpg" data-tags="country" role="button">
-Taylor Swift - Speak Now (2010-10-25)
-</li>
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Cannibal (2010-11-19)
 </li>
@@ -279,7 +279,7 @@ Ed Sheeran - + (2011-09-09)
 <li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">
 Rihanna - Talk That Talk (2011-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:08:01.408Z
+date: 2021-04-05T09:12:01.301Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Ultraviolence (2014-06-13)](http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg "Lana Del Rey - Ultraviolence (2014-06-13)")
@@ -72,7 +72,7 @@ The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
 <li data-cover="http://coverartarchive.org/release/7217595f-d6be-4bde-9289-6636243f9eda/15863951043-500.jpg" data-tags="psychedelic rock" role="button">
 Jefferson Airplane - Crown Of Creation (1968)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/7fa16UEhu2xGgbfeI5CS-0gi7dA=/fit-in/320x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1397034-1286031876.jpeg.jpg" data-tags="psychedelic rock, classic rock" role="button">
 Iron Butterfly - In-A-Gadda-Da-Vida (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6e3a5a2-d2be-4806-9afb-9e2fd4914d32/7717083844-500.jpg" data-tags="blues rock" role="button">
@@ -123,7 +123,7 @@ The Doors - Morrison Hotel (1970-02)
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic, psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/F0RPIYylQvA8yahC4nozNlelv4c=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1731774-1572553558-8862.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e68f23df-61e3-4264-bfc3-17ac3a6f856b/5132812481-500.jpg" data-tags="classic rock, psychedelic rock" role="button">
@@ -153,7 +153,7 @@ The Doors - Greatest Hits (1980)
 <li data-cover="https://img.discogs.com/_DMp2tmKmRIrJP34jl0FxF98YyM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845550-1357178199-9196.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1991-02-25)
 </li>
-<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">
@@ -194,6 +194,9 @@ The Flaming Lips - At War With The Mystics (2006-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a014fc8-b030-491a-9dc1-e8cf74ace99c/4549690587-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
 Colour Haze - Tempel (2006-07-18)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
+Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
@@ -236,9 +239,6 @@ MGMT - Congratulations (2010-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Tame Impala - Innerspeaker (2010-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
-Ghost - Opus Eponymous (2010-10-18)
 </li>
 <li data-cover="https://img.discogs.com/7NlxrsULvOY21UT1Bkz9r4c4ubc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2514342-1405535781-5094.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
@@ -288,7 +288,7 @@ Thee Oh Sees - Floating Coffin (2013-04-16)
 <li data-cover="http://coverartarchive.org/release/caae6490-8ba4-4b39-8ad9-8913cfd662ba/4281390549-500.jpg" data-tags="experimental, indie rock, 2010s, incredible, the good shit" role="button">
 Portugal. The Man - Evil Friends (2013-05-31)
 </li>
-<li data-cover="https://img.discogs.com/xqle5qq7-W1STD03A53IKVevd8w=/fit-in/500x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8594395-1464727281-3643.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/lGAChHi9miFP_i1bHlNneNO3LpQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4904237-1378997377-6191.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
 MGMT - MGMT (2013-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2be2a198-cb9a-4f00-848f-bcfaebb034e3/5355867457-500.jpg" data-tags="garage rock, psychedelic rock" role="button">
