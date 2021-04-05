@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:12:01.295Z
+date: 2021-04-05T08:41:01.787Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/d20a18df-c71f-484c-8d41-fdea1abb1f26/18584699933-500.jpg" data-tags="minimalism" role="button">
@@ -108,7 +108,7 @@ Plastikman - Closer (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/3708b351-0680-45a8-a3a6-8776133bd79e/7739562068-500.jpg" data-tags="electronic, techno, minimal" role="button">
 Paul Kalkbrenner - Self (2004-03-01)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -127,10 +127,10 @@ Ricardo Villalobos - Alcachofa (2004-05-24)
 Hot Chip - Coming on Strong (2004-05-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
-Mathew Jonson - Decompression EP (2004-07-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Nathan Fake - The Sky Was Pink (2004-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf35338e-157c-44f5-98a3-f2483e474c04/26411254851-500.jpg" data-tags="minimal, minimal techno, electronic" role="button">
+Dominik Eulberg - Flora & Fauna (2004-09-30)
 </li>
 <li data-cover="https://img.discogs.com/tWpzVn3s7OCXwKavuy1RRzbzYEk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2699079-1413714535-2207.jpeg.jpg" data-tags="minimal, music for robots" role="button">
 Mathew Jonson - Marionette (2004-11-03)
@@ -144,7 +144,7 @@ The Books - Lost and Safe (2005-04-05)
 <li data-cover="https://img.discogs.com/miSQF1ZEr8MuVJ4BUikC7w0adAM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458743-1504905798-8860.jpeg.jpg" data-tags="electronic, minimal" role="button">
 Isolée - We Are Monster (2005-05-30)
 </li>
-<li data-cover="https://img.discogs.com/S688Ot5CeRqIzeqt6V21COEqC2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12557676-1537612593-3353.jpeg.jpg" data-tags="electronic, techno, minimal" role="button">
+<li data-cover="https://img.discogs.com/6Ttp5OPuMz_hxK-8mw_vP3t0A70=/fit-in/454x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-469993-1118248432.jpg.jpg" data-tags="electronic, techno, minimal" role="button">
 Oliver Koletzki - Der Mückenschwarm (2005-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3ff0522-15e9-4cad-a834-0b8deb71e74c/6479493393-500.jpg" data-tags="minimal, electronic, electro, minimal techno" role="button">
@@ -165,6 +165,9 @@ Audion - Suckfish (2005-10-04)
 <li data-cover="https://img.discogs.com/OadjJ860wTDjSM64syba3Esh-_8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14236527-1570450856-1614.jpeg.jpg" data-tags="minimal" role="button">
 Robert Babicz - Mister Head (2005-11-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
+Oliver Koletzki - Mückenschwarm Remixes (2005-12-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/54d97e69-69cb-4d83-923b-adcb5179d2b9/3985038465-500.jpg" data-tags="electronic, minimal" role="button">
 Ellen Allien & Apparat - Orchestra of Bubbles (2006-01)
 </li>
@@ -177,13 +180,16 @@ Gui Boratto - Sozinho (2006-03-07)
 <li data-cover="http://coverartarchive.org/release/1c3faf09-e157-36c1-8e07-5b376ea6eae6/2838812727-500.jpg" data-tags="minimal" role="button">
 Nathan Fake - Drowning in a Sea of Love (2006-03-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
+SCSI-9 - The Line of Nine (2006-04)
+</li>
 <li data-cover="https://img.discogs.com/_fE394TED48YHcujtOfuZqzMynM=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3850383-1347381209-7086.jpeg.jpg" data-tags="electronic" role="button">
 The Field - Sun & Ice (2006-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f456f5e8-bbc7-477e-85a6-bc6639bfd9f0/10887019108-500.jpg" data-tags="house, minimal" role="button">
 Gui Boratto - Like You (2006-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="techno, minimal" role="button">
+<li data-cover="https://img.discogs.com/E-z4K99rl4NcZhOc6WyDFrzHU7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-729757-1183562328.jpeg.jpg" data-tags="techno, minimal" role="button">
 Claude VonStroke - Beware of the Bird (2006-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c89b423-8b51-4532-a5e6-2e077a76d6ed/3201197255-500.jpg" data-tags="electronic, electro, minimal" role="button">
@@ -204,7 +210,7 @@ Pantha du Prince - This Bliss (2007-01-29)
 <li data-cover="http://coverartarchive.org/release/5f25c249-5bbf-442a-b937-abb6c41973a9/4164610298-500.jpg" data-tags="minimal" role="button">
 Gui Boratto - Chromophobia (2007-02-23)
 </li>
-<li data-cover="https://img.discogs.com/bY-m83uV6RlhVdayY4vVROI8bAU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963490-1178296553.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
+<li data-cover="https://img.discogs.com/OHjLBybbfnlzpvsRZklXpjBw9UE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-735479-1550615717-2469.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
 Extrawelt - Soopertrack (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
@@ -255,9 +261,6 @@ The xx - Basic Space (2009-08-02)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="electronic, electronica, techno, house, minimal, moby, electro-pop, 21st century" role="button">
-Röyksopp - This Must Be It (2009-09-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="minimal" role="button">
 Marek Hemmann - In Between (2009-10-26)
 </li>
@@ -273,9 +276,6 @@ Lena - Satellite (2010-03-13)
 <li data-cover="http://coverartarchive.org/release/f94c8e34-1c57-4f83-b6bb-f1095aee51f7/12501105197-500.jpg" data-tags="techno, minimal, electronic" role="button">
 Booka Shade - More! (2010-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e4ae230-51e1-436e-9f83-f5b7740f03d4/3472151542-500.jpg" data-tags="electronic, minimal, deep house" role="button">
-Nicolas Jaar - Love You Gotta Lose Again (2010-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/8aa7e7a2-d6f1-4627-83d7-4ab7b9a63dcc/4931837965-500.jpg" data-tags="minimal" role="button">
 Fritz Kalkbrenner - Here Today Gone Tomorrow (2010-10-15)
 </li>
@@ -288,7 +288,7 @@ Bodi Bill - What? (2011-03-18)
 <li data-cover="http://coverartarchive.org/release/dea95d67-cf54-472c-807e-55c7d03b436a/2178302965-500.jpg" data-tags="minimal" role="button">
 Paul Kalkbrenner - Icke Wieder (2011-06-03)
 </li>
-<li data-cover="https://img.discogs.com/z9f81NG8CjM29-HgnG9nFV63g-c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9861750-1487608973-7636.jpeg.jpg" data-tags="chillout, electronic, electropop, indie, indie electronic, indietronica, minimal, canadian, synthpop, alternative dance, synth-pop, domino, stealth, de cumparat" role="button">
+<li data-cover="https://img.discogs.com/ytbgbIEY2PduHyxuc6jlyLUufTM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4546400-1370714661-1858.jpeg.jpg" data-tags="chillout, electronic, electropop, indie, indie electronic, indietronica, minimal, canadian, synthpop, alternative dance, synth-pop, domino, stealth, de cumparat" role="button">
 Junior Boys - It's All True (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/313362c0-0f9f-4559-8337-8daf9a640d56/5275367063-500.jpg" data-tags="idm, experimental, techno" role="button">

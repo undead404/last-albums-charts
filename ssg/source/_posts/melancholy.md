@@ -1,10 +1,10 @@
 ---
-date: 2021-04-05T04:47:01.302Z
+date: 2021-04-05T08:34:01.345Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
+<li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
 <li data-cover="https://img.discogs.com/YsVqhvK0qV7-RerYVxQQFLD4FkI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070709-1369907392-5537.jpeg.jpg" data-tags="pop, 90s" role="button">Eagle-Eye Cherry - Desireless (1997)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
@@ -53,9 +53,6 @@ Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
 Dinosaur Jr. - Without a Sound (1994-08-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ba9ae5c-96fd-36ee-a2f7-cee595043e2c/1588124958-500.jpg" data-tags="indie, indie pop, 90s, melancholy, synthpop" role="button">
 The Magnetic Fields - Holiday (1994-09-27)
@@ -311,6 +308,9 @@ James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4e57d35-d8f8-4302-bca4-534b6227e284/14478188805-500.jpg" data-tags="indie rock" role="button">
 The National - Trouble Will Find Me (2013-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
+Goldfrapp - Tales of Us (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - The Bones of What You Believe (2013-09-20)

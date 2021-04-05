@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:00:01.363Z
+date: 2021-04-05T08:43:06.906Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
 ![CSS - Cansei De Ser Sexy (2005-10)](https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg "CSS - Cansei De Ser Sexy (2005-10)")
@@ -71,9 +71,6 @@ Legião Urbana - Legião Urbana (1985-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/49adee94-0cc6-4719-9afa-ef0b9ec5d51c/20509358981-500.jpg" data-tags="rock, 80s, punk, reggae, new wave, post-punk, ska, punk rock, brazilian, brazilian rock, my collection, rock gaucho, engenheiros do hawaii, morpheus songs, nei lisboa, humberto gessinger, carlos maltz, manito, marcelo pitz" role="button">
 Engenheiros Do Hawaii - Longe Demais Das Capitais (1986-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/d423a4cf-7ec3-4d84-9e9d-9240a7c6e3b4/20509711014-500.jpg" data-tags="post-punk, folk rock" role="button">
-Engenheiros Do Hawaii - A revolta dos Dândis (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfcbdba7-dfcd-4cdd-9a1a-3ca8685b33ad/17670955683-500.jpg" data-tags="brazilian rock" role="button">
 Legião Urbana - Que País É Este (1987-11)
@@ -245,6 +242,9 @@ Skank - Carrossel (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a77ce2f-4b51-4467-b5cd-5c8eab82ef4d/14102000439-500.jpg" data-tags="jazz, latin jazz" role="button">
 Eliane Elias - Around The City (2006-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d290376-6cdd-423d-985e-a3004f7aebc3/5739976268-500.jpg" data-tags="bossa nova, chillout" role="button">
+Bebel Gilberto - Momento (2007-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c53476ae-47d7-4606-b535-06cf4c7823da/6459701337-500.jpg" data-tags="indie, brasil, brazilian" role="button">
 Pato Fu - Daqui Pro Futuro (2007-08-10)
