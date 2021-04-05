@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T12:30:01.573Z
+date: 2021-04-05T15:03:01.360Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">Tom Waits - Closing Time (1973-05)</li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">Eric Clapton - Unplugged (1992-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">Ben Harper - Fight For Your Mind (1995-07)</li>
-<li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">Katie Melua - Piece by Piece (2005-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
 <li data-cover="https://img.discogs.com/xuq3MPlDpFXj4QApHfhHmHEgElw=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3249551-1322327457.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
@@ -80,6 +80,9 @@ The Rolling Stones - Exile on Main St. (1972-05-12)
 </li>
 <li data-cover="https://img.discogs.com/swjQP0NRI3WM4nR0gjmRDXm3bsc=/fit-in/300x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3141213-1327063773.jpeg.jpg" data-tags="classic rock, blues" role="button">
 Eric Clapton - Eric Clapton's Rainbow Concert (1973)
+</li>
+<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
+Tom Waits - Closing Time (1973-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
@@ -161,9 +164,6 @@ Cat Power - What Would the Community Think (1996-09-10)
 </li>
 <li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1fac05f-bf5f-405c-8e3a-5b704c6970d8/19486232768-500.jpg" data-tags="blues" role="button">
-B.B. King - Deuces Wild (1997-11-04)
 </li>
 <li data-cover="https://img.discogs.com/E7UtJyItYvk5AJ7YnjG_hxrhppo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4959254-1380618088-4627.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T08:03:01.759Z
+date: 2021-04-05T15:02:01.325Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -114,13 +114,16 @@ a-ha - Lifelines (2002-04-02)
 <li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
 Nils Petter Molvær - NP3 (2002-07-01)
 </li>
+<li data-cover="https://img.discogs.com/WGLaVhpPvFyPcDfnniUoLpha67o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-859906-1166292358.jpeg.jpg" data-tags="jazz" role="button">
+Jaga Jazzist - The Stix (2002-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/65d25b64-1ee5-4b23-aae0-f2b081990496/23725235843-500.jpg" data-tags="rock, norwegian" role="button">
 Madrugada - Grit (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
 Thomas Dybdahl - Stray Dogs (2003)
 </li>
-<li data-cover="https://img.discogs.com/jgWeZQt-aFrwKZOJd6Hwy4n22NU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12669470-1539710071-8433.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
+<li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
 </li>
 <li data-cover="https://img.discogs.com/fHAI9p_rX7ieIWjt9ZwdG2igyIs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108877-1370639233-7460.jpeg.jpg" data-tags="electronic" role="button">
@@ -168,7 +171,7 @@ Annie - Anniemal (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 Sirenia - Sirenian Shores (2004-10-11)
 </li>
-<li data-cover="https://img.discogs.com/LHHhi4U3WGT_XMhYyZnMCDlHtoc=/fit-in/459x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565321-1151310339.jpeg.jpg" data-tags="singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/Impzbm60gbiHkVxjnMVDoQJ1ngo=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-628417-1491329002-1590.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Thomas Dybdahl - One Day You'll Dance For Me, New York City (2004-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
@@ -299,9 +302,6 @@ Kvelertak - Meir (2013-03-22)
 </li>
 <li data-cover="https://img.discogs.com/Nt2mYovMieKJyp1o0X0hIhn-Xmo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4648401-1371021140-9807.jpeg.jpg" data-tags="electronic" role="button">
 Todd Terje - Strandbar (2013-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3929e5c-2287-43e9-879d-adc155e910c6/25194465215-500.jpg" data-tags="electronic, downtempo, norwegian, warm, cold, nocturnal, merkliste, feels, acker bilk, proto-vaporwave" role="button">
-Röyksopp - Late Night Tales: Röyksopp (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9028aa2d-5482-4e82-bc8a-ff0cb1178842/8871578703-500.jpg" data-tags="pop, norwegian, norway, norge" role="button">
 Donkeyboy - Crazy Something Normal (2014)

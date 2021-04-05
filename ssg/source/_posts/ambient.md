@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:52:01.524Z
+date: 2021-04-05T15:37:01.366Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -30,14 +30,14 @@ Brian Eno - Ambient 1: Music for Airports (1978)
 <li data-cover="https://img.discogs.com/y69Li4KB2GZYffBULeD-Nv1LlF0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231002-1266250803.jpeg.jpg" data-tags="ambient" role="button">
 Brian Eno - Thursday Afternoon (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
-Enigma - MCMXC a.D. (1990-12-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/476d5ee1-266a-45d1-940a-d706663bb3f9/9717211777-500.jpg" data-tags="electronic, ambient" role="button">
 The Orb - The Orb's Adventures Beyond the Ultraworld (1991-04-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
+Enigma - The Cross of Changes (1993-12-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Global Communication - 76:14 (1994)
@@ -258,7 +258,7 @@ Aphex Twin - Windowlicker (2010)
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)
 </li>
-<li data-cover="https://img.discogs.com/N5uWvAJXzisPcRUyabNK0VMFtZI=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337514-1277924801.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
+<li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
 Ellie Goulding - Starry Eyed (2010-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5d1fce6-e9e1-4565-976d-f046c3d5d252/4500932243-500.jpg" data-tags="ambient, chillout" role="button">

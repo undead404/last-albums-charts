@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:38:02.018Z
+date: 2021-04-05T14:57:01.305Z
 title: "german metal: 100 albums you must listen to before you die"
 ---
 ![Gamma Ray - Heading For Tomorrow (1990-02-19)](https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg "Gamma Ray - Heading For Tomorrow (1990-02-19)")
@@ -84,9 +84,6 @@ Gamma Ray - Somewhere Out in Space (1997-08-21)
 <li data-cover="http://coverartarchive.org/release/1e21ea40-21dc-4365-8736-26fb0be6ce9d/2192435340-500.jpg" data-tags="black metal" role="button">
 Eisregen - Krebskolonie (1998)
 </li>
-<li data-cover="https://img.discogs.com/XjrnnfwZs6VnA1UlYK3KqbIyRLA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2952818-1308860725.jpeg.jpg" data-tags="power metal" role="button">
-Iron Savior - Unification (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/66087fff-0c62-438c-9dde-4173119c63fa/17501065184-500.jpg" data-tags="melodic death metal" role="button">
 SuidAkrA - Auld Lang Syne (1998-04-06)
 </li>
@@ -146,6 +143,9 @@ Freedom Call - Eternity (2002-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b01408-2e64-4cff-a18e-27b986b892d1/21801729303-500.jpg" data-tags="melodic death metal, folk metal" role="button">
 SuidAkrA - Emprise To Avalon (2002-07-26)
+</li>
+<li data-cover="https://img.discogs.com/urhrGXtVZcD9_Gsgevbdmb1m09Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878560-1249649985.jpeg.jpg" data-tags="metalcore" role="button">
+Caliban - Shadow Hearts (2003-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3003e6-88b8-468b-96f7-c869e57b22e9/9106635700-500.jpg" data-tags="power metal" role="button">
 At Vance - The Evil in You (2003-05-19)
@@ -270,7 +270,7 @@ Truppensturm - Fields of Devastation (2007-12-12)
 <li data-cover="http://coverartarchive.org/release/f4498272-4120-4dd4-90d1-f78f69f0f882/6138571783-500.jpg" data-tags="melodic death metal" role="button">
 Aeveron - Existential Dead End (2008)
 </li>
-<li data-cover="https://img.discogs.com/0seS9C9t49XFtVWChZYXdzIMVJ4=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885027-1250080213.jpeg.jpg" data-tags="heavy metal, metal, progressive metal, power metal" role="button">
+<li data-cover="https://img.discogs.com/cxTRgPhNu93PWSreuaM1Du5bTCQ=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950641-1417546845-5293.jpeg.jpg" data-tags="heavy metal, metal, progressive metal, power metal" role="button">
 Rage - Carved In Stone (2008-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5117ebc9-e847-4049-b7cc-8fdbeba55422/28864295278-500.jpg" data-tags="heavy metal, power metal" role="button">

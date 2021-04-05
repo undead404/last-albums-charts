@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T10:48:01.307Z
+date: 2021-04-05T15:21:01.322Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -153,6 +153,9 @@ Riverside - Out Of Myself (2003-12-22)
 <li data-cover="https://img.discogs.com/BOfifoLmDttVwiJV2tdm9sKm6Zg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9175804-1550518049-6963.jpeg.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Be (2004-09-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/fcaeef84-bddf-4370-83c8-d5f0cfb7569d/4713203915-500.jpg" data-tags="post-hardcore, rawk n roll" role="button">
+Biffy Clyro - Infinity Land (2004-10-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
 Black Mountain - Black Mountain (2005-01-18)
 </li>
@@ -225,6 +228,9 @@ Extrawelt - Soopertrack (2007-03-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)
 </li>
+<li data-cover="https://img.discogs.com/F0PJpap4eBWr5cbsS72NJ-CgUBo=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071802-1215843325.jpeg.jpg" data-tags="post-hardcore" role="button">
+The Fall of Troy - Manipulator (2007-05-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c8553274-ae05-4031-8af1-12e6d4750b22/15299158990-500.jpg" data-tags="progressive rock" role="button">
 Rishloo - Eidolon (2007-05-22)
 </li>
@@ -258,9 +264,6 @@ DIR EN GREY - Uroboros (2008-11-11)
 <li data-cover="http://coverartarchive.org/release/df45d0f3-7ce4-4e18-8a59-6d87103829cc/8703023202-500.jpg" data-tags="progressive rock, progressive, post-hardcore" role="button">
 The Fall of Troy - Phantom on the Horizon (2008-11-28)
 </li>
-<li data-cover="https://img.discogs.com/FgrZPMfgM1Qq9YQ9zOifBhSRLHI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1598959-1231265362.jpeg.jpg" data-tags="electronic, electro, techno, minimal, minimal techno, progressive" role="button">
-Max Cooper - Harmonisch Serie (2009-01-12)
-</li>
 <li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
 </li>
@@ -293,9 +296,6 @@ Portugal. The Man - American Ghetto (2010-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e5a3ea8-a96c-449d-b0ee-cc84e2451f9b/888507385-500.jpg" data-tags="alternative rock" role="button">
 Dead Letter Circus - This Is The Warning (2010-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
-Black Mountain - Wilderness Heart (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/17f23c51-feb7-4e84-b77e-00599724e0b5/15620501484-500.jpg" data-tags="indie, ambient, experimental, progressive rock, progressive, post-hardcore, progressive indie, progressive emopop" role="button">
 Tides of Man - Dreamhouse (2010-09-14)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:19:01.419Z
+date: 2021-04-05T14:53:01.335Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -65,6 +65,9 @@ Queen - A Kind Of Magic (1986-06-02)
 </li>
 <li data-cover="https://img.discogs.com/F654PH-V0T2HKRiFwpsL4eyYF2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182988-1162275487.jpeg.jpg" data-tags="soundtrack, miami vice" role="button">
 Jan Hammer - Escape From Television (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/120f31f2-923a-37f7-ad9e-9f0f2eb0cc5e/24068894402-500.jpg" data-tags="instrumental, soundtrack" role="button">
+Vangelis - Themes (1989-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/653617f7-c764-4f52-a4ba-e6a130a6c87d/5409164245-500.jpg" data-tags="twin peaks, dream pop" role="button">
 Julee Cruise - Floating into the Night (1989-09-12)
@@ -155,9 +158,6 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="soundtrack" role="button">
 Badly Drawn Boy - About a Boy (2002-04-08)
-</li>
-<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack" role="button">
-Various Artists - 8 Mile (2002-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)

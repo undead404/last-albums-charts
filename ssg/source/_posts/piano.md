@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:08:01.340Z
+date: 2021-04-05T14:55:01.453Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -21,8 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/642a717c-a54b-4791-891c-845715100ef7/17623615234-500.jpg" data-tags="elton john, 70s" role="button">
-Elton John - Don't Shoot Me I'm Only The Piano Player (1972)
+<li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
+Tom Waits - Closing Time (1973-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Goodbye Yellow Brick Road (1973-10-05)
@@ -32,9 +32,6 @@ Billy Joel - Piano Man (1973-11-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Billy Joel - The Stranger (1977-09-29)
-</li>
-<li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
-Bruce Hornsby & the Range - The Way It Is (1986-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1da6792-3a6a-4e4c-97fc-fc2477b183ef/2906121265-500.jpg" data-tags="ambient, piano, contemporary classical, cinematic, melancholy, minimalism, melancholic, neoclassical, post-classical, piano ambient, contemporary piano, ambient piano" role="button">
 Harold Budd - Lovely Thunder (1986-10)
@@ -86,6 +83,9 @@ Tori Amos - Strange Little Girls (2001-09-17)
 </li>
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/4c843654-e93a-4145-b623-14e6df9e294f/13289739357-500.jpg" data-tags="yiruma, piano" role="button">
+Yiruma - First Love (2001-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
@@ -282,7 +282,7 @@ Birdy - Birdy (2011-11-07)
 <li data-cover="http://coverartarchive.org/release/56a15cf2-a435-48c9-8fdc-642e24aff561/4237979092-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">
 Ólafur Arnalds - Living Room Songs (2011-12-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/0hGXhQAlB4Hm_uuPq_nkTLYUUhw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3936421-1349802747-6513.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">

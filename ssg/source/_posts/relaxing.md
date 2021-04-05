@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:14:06.982Z
+date: 2021-04-05T15:26:01.311Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -10,8 +10,8 @@ title: "relaxing: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Melody Gardot - My One And Only Thrill (2008-12-16)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
-<li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">Morcheeba - Blood Like Lemonade (2010-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">Agnes Obel - Philharmonics (2010-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 </ol>
@@ -24,23 +24,17 @@ _________________
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e552cd6-a616-495d-8473-aaf79ad26c81/21884715670-500.jpg" data-tags="classical" role="button">
-Arvo Pärt - Arbos (1987-05-01)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Secrets of Life (1995)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/645c5d80-c673-4f92-91c0-f7b03f5c22fe/4485701379-500.jpg" data-tags="instrumental, relax, flute, relaxing, labels - real music" role="button">
+Nicholas Gunn - The Music of the Grand Canyon (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/2202896d-35df-41c2-9dfe-957973a3669e/1674613187-500.jpg" data-tags="hip-hop, hiphop classic albums" role="button">
 KRS-One - KRS-One (1995-10-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/79680a33-313c-4304-a9b5-7124ef4f4d9e/27881197599-500.jpg" data-tags="female vocalists, alternative, 90s, aimee mann" role="button">
-Aimee Mann - I'm With Stupid (1995-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/c96068a9-9d40-3756-b624-a0a7e94cf0e4/22180420062-500.jpg" data-tags="new age, celtic" role="button">
-Enya - The Memory of Trees (1995-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6ad5820-ad0a-3a8d-9dc8-5588aa4643d9/9943104925-500.jpg" data-tags="era, new age" role="button">
 Era - Era (1996)
@@ -63,11 +57,23 @@ David Arkenstone - The Celtic Book Of Days (1998-02-10)
 <li data-cover="http://coverartarchive.org/release/a56a49c4-2da9-41f1-a719-3d45b796b3e6/15413881867-500.jpg" data-tags="relaxing, reiki" role="button">
 Deuter - Reiki: Hands of Light (1998-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
+Thievery Corporation - Lebanese Blonde (1998-11-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="downtempo" role="button">
+Thievery Corporation - It Takes a Thief (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/d98d60d4-51a6-4647-a92f-195af796599e/24147288966-500.jpg" data-tags="rock, alternative" role="button">
 Modest Mouse - Night on the Sun (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/05a2e11a-bccb-4069-8e20-2d545d2e1669/9738556984-500.jpg" data-tags="yanni" role="button">
+Yanni - Love Songs (1999-04-13)
+</li>
 <li data-cover="https://img.discogs.com/5NUxp9OIUfM-toTymrimzsYfa9Y=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726191-1171729618.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new age, relaxing" role="button">
+Anugama - Shamanic Dream II (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/df1cbbc3-1f49-4f22-95c7-96618000c58f/1436194084-500.jpg" data-tags="relaxing, vocal, new age, enya" role="button">
 Adiemus - Adiemus IV - The Eternal Knot (2000-09-25)
@@ -114,7 +120,7 @@ Gregor Samsa - 27:36 (2003-03-18)
 <li data-cover="http://coverartarchive.org/release/1b33c647-97b8-4e0a-b3d0-fc349c4da9cb/27009716539-500.jpg" data-tags="rap" role="button">
 CunninLynguists - Southernunderground (2003-04-01)
 </li>
-<li data-cover="https://img.discogs.com/Up9LIhGkxe2Lrm9U1lQmM9ltlew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8468540-1462203264-5483.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/SSBq17gy1dGf0BGacoUNxgE3wA4=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4721359-1373382641-6460.jpeg.jpg" data-tags="pop" role="button">
 Annie Lennox - Bare (2003-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dab92633-793d-4d60-a9ee-54950070cfea/11124226539-500.jpg" data-tags="ambient" role="button">
@@ -123,17 +129,11 @@ Entheogenic - Spontaneous Illumination (2003-06-21)
 <li data-cover="https://img.discogs.com/WI9xr-R4aOltg2LSAy8x77FKfQg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4662538-1371466720-1362.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ebf5816-7084-464b-886a-8e405fe3083a/5438022732-500.jpg" data-tags="groove coverage" role="button">
-Groove Coverage - 7 Years And 50 Days (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/961a9baf-2171-3502-93cd-81ad0408a0f4/15794565428-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - Neighborhood Watch (2004-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d38a0e2e-cf35-47ad-85ae-a87c4f321d3b/13298022685-500.jpg" data-tags="idm, glitch" role="button">
 edIT - Crying Over Pros for No Reason (2004-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7b02e44-1533-4cc5-830b-3e8c96d528c3/1578981308-500.jpg" data-tags="soul, blues" role="button">
-Alicia Keys - If I Ain't Got You (2004-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/2790dbb6-91ff-4e71-982c-78fbb1ab3d7e/8364942432-500.jpg" data-tags="instrumental, bond - classified, new age, violin, classical crossover" role="button">
 Bond - Classified (2004-05-08)
@@ -144,20 +144,17 @@ Kings of Convenience - Riot on an Empty Street (2004-06-21)
 <li data-cover="http://coverartarchive.org/release/58f2d266-b4ad-483c-abd0-d36dc25e0c02/11944292045-500.jpg" data-tags="relaxing, beautiful piano, piano, new age" role="button">
 David Nevue - Overcome (2005)
 </li>
-<li data-cover="https://img.discogs.com/K7Fog8UtERpvhu4EfJ9lKGwq--M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7110579-1433940600-1305.jpeg.jpg" data-tags="piano, relaxing, ambient, new age" role="button">
-Fiona Joy Hawkins - Portrait of a Waterfall (2005)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/cb36441c-ebc5-4d94-90d0-e856a9c32182/8041982355-500.jpg" data-tags="relaxing" role="button">
+Shad - When This Is Over (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="relaxing" role="button">
 Rilo Kiley - 2005-06-18: The Grand Ballroom, San Francisco, CA, USA (2005-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/435b1bb9-f18f-463f-9df0-d9e41b1337e6/12035415500-500.jpg" data-tags="piano" role="button">
-Kevin Kern - Imagination's Light (2005-07-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="david gray" role="button">
 David Gray - Life In Slow Motion (2005-09-12)
@@ -170,6 +167,9 @@ Modus - The Colour of Love (2006)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
+</li>
+<li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
+Saltillo - Ganglion (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c10d1d4e-b5fd-421f-b3d7-425bce705b49/11124033595-500.jpg" data-tags="ambient, easy listening, new age, mellow, psychill, relaxing, goa, u2, magic male voice, newage, progressive psytrance, magic female voice, new age and ambient, new age rythm, nice new age, rich new age and chill, torquemada, -new-age-and-ambient-, -favorites-, new age influences, new age aesthetics, new age favorites, collective sonance, new age collection, ethereal new age, chill new age, new age electronic, getmegetme, genre: new age, etheogenic, 15oooo, new age ambiant, 9p" role="button">
 Entheogenic - Golden Cap (2006-06-05)
@@ -192,9 +192,6 @@ Celestial Aeon Project - Aeon (2006-12-01)
 <li data-cover="http://coverartarchive.org/release/0178f62c-7662-46d9-9870-d331c21d290f/1087682353-500.jpg" data-tags="alternative, piano, new age, dreamy, melancholic, relaxing" role="button">
 Frozen Silence - Heart of Winter (2006-12-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, rock, retro, relaxing, eclectic, 1940s, 1920s, coffee shop, british pop, lily allen, pop music, singles i own, cafe, black and white, bohemian, new faves, annymix, f singer-songwriter, audrey hepburn, joni radio, 1920's, bohemia, pop music tag, luda kokoshka, bohemic" role="button">
-Lily Allen - Littlest Things (2006-12-11)
-</li>
 <li data-cover="https://img.discogs.com/GOBQZE2ox2Kt3bl4iBk0FbCVgiU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895370-1506110433-6785.jpeg.jpg" data-tags="owl city" role="button">
 Owl City - Of June (2007)
 </li>
@@ -215,6 +212,9 @@ Jarabe de Palo - Adelantando (2007-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/60e82431-7430-45db-a02d-b7e13646f760/8259283262-500.jpg" data-tags="chillout, dance, house" role="button">
 Groove Armada - Greatest Hits (2007-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/3964b0f8-6868-4f2e-bbf7-e28a1a0d54cd/4457858158-500.jpg" data-tags="opera, classical" role="button">
+Andrea Bocelli - The Best of Andrea Bocelli - 'Vivere' (2007-10-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental, acoustic, relaxing, fingerstyle" role="button">
 Antoine Dufour - Existence (2008)
@@ -240,11 +240,14 @@ Priscilla Ahn - A Good Day (2008-06-10)
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/c6d4826a-6976-453e-a3a7-177bd5833763/8263011923-500.jpg" data-tags="christian, relaxing" role="button">
+Downhere - Ending Is Beginning (2008-09-23)
+</li>
 <li data-cover="https://img.discogs.com/gLtasc4YdPfhI_cAO0cFnxYY834=/fit-in/514x441/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2190931-1328925033.jpeg.jpg" data-tags="indie, downtempo, idm" role="button">
 Jon Hopkins - Insides (2008-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e0a9494-7532-41c5-9088-9f97e2c41477/18229199776-500.jpg" data-tags="pop, soft, relaxing, pl, female vocalist, myf, wielkie albumy, po prostu  urocze, jest melancholijnie" role="button">
-Anita Lipnicka - Hard Land of Wonder (2009)
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, sex, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
@@ -296,9 +299,6 @@ Lamb - 5 (2011-05-05)
 </li>
 <li data-cover="https://img.discogs.com/tFUUHU1HSp59vZwf1e1hgGAeV1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888359-1306884250.jpeg.jpg" data-tags="acoustic, indie, post-punk" role="button">
 Thurston Moore - Demolished Thoughts (2011-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
-Thievery Corporation - Culture of Fear (2011-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b424996c-b0a7-4c6f-9d7c-561fc760640f/4101040746-500.jpg" data-tags="dreamy, dream pop" role="button">
 Memoryhouse - The Slideshow Effect (2012-02-24)

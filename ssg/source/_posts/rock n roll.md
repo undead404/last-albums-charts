@@ -1,14 +1,14 @@
 ---
-date: 2021-04-05T04:29:01.307Z
+date: 2021-04-05T15:32:12.293Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="rock n roll, 50s" role="button">Elvis Presley - Elvis Presley (1956-03-23)</li>
+<li data-cover="https://img.discogs.com/_iGXGCkaRTo6ww-fqqWFQu-9bSM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2507558-1287827584.jpeg.jpg" data-tags="rock n roll" role="button">Bill Haley & His Comets - Rock Around The Clock (1956-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">Elvis Presley - Elvis' Golden Records (1958-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">Del Shannon - Little Town Flirt (1963)</li>
 <li data-cover="https://img.discogs.com/i9hz9LCoOKTx3TIL0zSFCmr9uLw=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055944-1357028433-5421.jpeg.jpg" data-tags="80s" role="button">The J. Geils Band - Freeze Frame (1981-10-26)</li>
-<li data-cover="https://img.discogs.com/QqifwM957aH9czKrZA3cHBHeJXc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1865841-1474827466-9598.jpeg.jpg" data-tags="surf, rock n roll" role="button">The Beach Boys - Greatest Hits (1996)</li>
 <li data-cover="http://coverartarchive.org/release/b79a134e-5a94-4b14-9abc-fbe0a22b39a6/25479635311-500.jpg" data-tags="oldies, 50s, buddy holly, rock n roll" role="button">Buddy Holly - Greatest Hits (1996-09-24)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/e2a63170-71c4-4563-bc6d-bd182ea8741c/27117150755-500.jpg" data-tags="heavy metal" role="button">Motörhead - Kiss of Death (2006-08-25)</li>
@@ -24,10 +24,13 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="rock n roll, 50s" role="button">
 Elvis Presley - Elvis Presley (1956-03-23)
 </li>
+<li data-cover="https://img.discogs.com/_iGXGCkaRTo6ww-fqqWFQu-9bSM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2507558-1287827584.jpeg.jpg" data-tags="rock n roll" role="button">
+Bill Haley & His Comets - Rock Around The Clock (1956-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/b07ee81a-3e84-446e-a22c-7c2141fd1f3d/9961514130-500.jpg" data-tags="rock n roll" role="button">
 Elvis Presley - Loving You (1957-07-01)
 </li>
-<li data-cover="https://img.discogs.com/UNMFqFAQ3wmAOCS8y538iY4KBII=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5950468-1407171312-5303.jpeg.jpg" data-tags="christmas" role="button">
+<li data-cover="https://img.discogs.com/HYKvdizEzDpmnAU1DGDaiDKrAn4=/fit-in/350x362/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4999038-1385813760-4727.jpeg.jpg" data-tags="christmas" role="button">
 Elvis Presley - Elvis' Christmas Album (1957-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">
@@ -69,14 +72,8 @@ Wings - Wings at the Speed of Sound (1976-03-25)
 <li data-cover="http://coverartarchive.org/release/90323744-6881-47fe-9795-4318af253f14/3367930981-500.jpg" data-tags="classic rock, hard rock" role="button">
 Ram Jam - Ram Jam (1977)
 </li>
-<li data-cover="https://img.discogs.com/FBTTValXfoLMcKRGWWJdsReDyAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5094652-1384334579-2574.jpeg.jpg" data-tags="power pop, rock, classic rock, 70s" role="button">
-Cheap Trick - Heaven Tonight (1978)
-</li>
 <li data-cover="http://coverartarchive.org/release/e09a65ef-48db-42bc-8b86-b02e8a26bca6/14927972078-500.jpg" data-tags="rock, rock n roll, 1970s, sound city records, sound city, largefish" role="button">
 REO Speedwagon - You Can Tune A Piano, But You Can't Tuna Fish (1978)
-</li>
-<li data-cover="http://coverartarchive.org/release/d8ebfc01-5126-454b-ab6b-cfb3cbf0018d/4535198958-500.jpg" data-tags="jazz, rock, rock n roll, kiss, crates of vinyl, david, scott, crass commercialism, moyer" role="button">
-Peter Criss - Peter Criss (1978-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
 Motörhead - On Parole (1979-12-08)
@@ -143,6 +140,9 @@ Dion & The Belmonts - The Wanderer (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d9f426d-acdc-4e54-a620-c096450f10c2/13528044887-500.jpg" data-tags="hair metal" role="button">
 White Lion - Big Game (1989-07-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/7d010922-9359-409a-b97b-b8532cd8bec7/3825656497-500.jpg" data-tags="rockabilly, blues, rock n roll" role="button">
+Chuck Berry - The Best Of Chuck Berry (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/886168ed-9fd3-430e-8129-93539907fbaa/4199078719-500.jpg" data-tags="classic rock, the rolling stones" role="button">
 The Rolling Stones - Flashpoint (1991-04-02)
