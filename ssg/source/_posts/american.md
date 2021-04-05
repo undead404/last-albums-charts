@@ -1,11 +1,10 @@
 ---
-date: 2021-04-04T22:32:02.104Z
+date: 2021-04-05T06:49:01.325Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg" data-tags="60s, classic rock" role="button">The Turtles - Happy Together (1966)</li>
-<li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -14,6 +13,7 @@ title: "american: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">The Lumineers - The Lumineers (2012-04-03)</li>
+<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">Rae Sremmurd - SremmLife (2015-01-06)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg" data-tags="60s, classic rock" role="button">
 The Turtles - Happy Together (1966)
 </li>
-<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/e68f23df-61e3-4264-bfc3-17ac3a6f856b/5132812481-500.jpg" data-tags="classic rock, psychedelic rock" role="button">
@@ -102,7 +102,7 @@ Faith Hill - Cry (2002-10-14)
 <li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -113,9 +113,6 @@ Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
 The Killers - Hot Fuss (2004-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
-JoJo - JoJo (2004-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d071fda0-f5cb-448f-9b90-c0f1cd2d116f/6320184240-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Alter Bridge - One Day Remains (2004-08-10)
@@ -165,6 +162,9 @@ Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)
 <li data-cover="http://coverartarchive.org/release/d7548fbc-8cac-41e9-a59c-d286696ace9e/2402661758-500.jpg" data-tags="usa underground" role="button">
 Pretty Lights - Taking Up Your Precious Time (2006-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">
+Incubus - Light Grenades (2006-11-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
@@ -173,6 +173,9 @@ Chevelle - Vena Sera (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
+Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
@@ -183,6 +186,9 @@ Metro Station - Metro Station (2007-09-18)
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/f7ef43c1-7387-43c7-8782-5d57237d9e74/27058238714-500.jpg" data-tags="rap, american, dream, the, mike jones" role="button">
+Mike Jones - The American Dream (2007-11-20)
+</li>
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
 </li>
@@ -191,9 +197,6 @@ Nada Surf - Lucky (2008-02-04)
 </li>
 <li data-cover="https://img.discogs.com/Q2IHdszmdJODyjtNQF6_RfI7oqY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382098-1604161579-9613.jpeg.jpg" data-tags="indie, folk, american, 00s" role="button">
 Shearwater - Rook (2008-06-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/353704b1-1868-4588-a19f-d7423a486e07/15273330827-500.jpg" data-tags="rock, indie rock" role="button">
-The Hold Steady - Stay Positive (2008-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e376f404-5229-4774-b2b3-1aeed5aa6f7a/17796794761-500.jpg" data-tags="indie rock" role="button">
 The Airborne Toxic Event - The Airborne Toxic Event (2008-08-05)
@@ -215,9 +218,6 @@ Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/d221a019-b04f-4378-aacc-4d93ca3032a9/6514078556-500.jpg" data-tags="hip hop for faggots" role="button">
-Asher Roth - Asleep in the Bread Aisle (2009-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
@@ -285,9 +285,6 @@ Okkervil River - I Am Very Far (2011-05-06)
 <li data-cover="http://coverartarchive.org/release/cf68e696-91f1-4c7e-828e-349a918261d0/6610304430-500.jpg" data-tags="indie" role="button">
 Givers - In Light (2011-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
-Washed Out - Within and Without (2011-07-06)
-</li>
 <li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
 Tycho - Dive (2011-10-04)
 </li>
@@ -309,16 +306,19 @@ The National - Trouble Will Find Me (2013-05-17)
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
 Kanye West - Yeezus (2013-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
-Darkside - Psychic (2013-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">
 A Great Big World - Is There Anybody Out There? (2014-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/77e3b871-155d-4b8e-ba19-8af12ace9ad7/6723882290-500.jpg" data-tags="selfie" role="button">
+The Chainsmokers - #SELFIE (2014-03-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
 Walk the Moon - Talking Is Hard (2014-11-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
+Rae Sremmurd - SremmLife (2015-01-06)
 </li>
 </ol>

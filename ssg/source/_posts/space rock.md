@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:15:01.414Z
+date: 2021-04-05T07:01:06.713Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -9,7 +9,7 @@ title: "space rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
 <li data-cover="https://img.discogs.com/4Djmacr_gYJXbp9DIg8TdOQnFww=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3399277-1566270410-5717.jpeg.jpg" data-tags="indie rock" role="button">Grandaddy - The Sophtware Slump (2000-05-08)</li>
-<li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
+<li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/e2e513ef-b507-4319-9cb1-0f8be3cd561e/4563170382-500.jpg" data-tags="alternative rock" role="button">Angels & Airwaves - We Don't Need to Whisper (2006-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
@@ -183,7 +183,7 @@ Spiritualized - Let It Come Down (2001-09-16)
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
 </li>
-<li data-cover="https://img.discogs.com/94w6TDY4MCO48yyh9Km-xTXmKnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775288-1409948428-4454.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
@@ -191,9 +191,6 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ef8d874-a2ed-4dc2-9262-cc66b0120818/15485269083-500.jpg" data-tags="psychedelia, space rock, neo-psychedelia, dream, tremolo radio" role="button">
 Spiritualized - The Complete Works Vol. 1 (2003-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
-Dead Meadow - Shivering King And Others (2003-06-03)
 </li>
 <li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
 Grandaddy - Sumday (2003-06-09)
@@ -236,6 +233,9 @@ Dope Stars Inc. - Gigahearts (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1058f8d-d271-492b-8a18-d625b2f65d54/26595077311-500.jpg" data-tags="alternative rock" role="button">
 Angels & Airwaves - I-Empire (2007-01-01)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
+Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)

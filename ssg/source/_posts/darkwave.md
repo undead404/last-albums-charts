@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:21:01.446Z
+date: 2021-04-05T06:57:01.298Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![She Wants Revenge - She Wants Revenge (2005-12-13)](http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg "She Wants Revenge - She Wants Revenge (2005-12-13)")
@@ -183,6 +183,9 @@ Deine Lakaien - White Lies (2002)
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
 Diary of Dreams - Freak Perfume (2002-06-03)
 </li>
+<li data-cover="https://img.discogs.com/4_L3HUqm0-MBZfi33XPORGfmCyY=/fit-in/550x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-192361-1161082014.jpeg.jpg" data-tags="darkwave, electronic, industrial" role="button">
+Android Lust - The Dividing (2002-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/2dec60d0-00a4-4ffd-ae4b-69e86f0601dc/2788181181-500.jpg" data-tags="fantasy, ethereal, darkwave, world fusion, female vocalists" role="button">
 Irfan - IRFAN (2003)
 </li>
@@ -201,14 +204,8 @@ Antimatter - Lights Out (2003-06-28)
 <li data-cover="http://coverartarchive.org/release/8ba46ce8-65b9-453f-8007-0f2d9841766c/2099083698-500.jpg" data-tags="darkwave" role="button">
 The Crüxshadows - Ethernaut (2003-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/e0f303f5-8dcd-4aa7-8c91-916e6eeed2d3/27796148982-500.jpg" data-tags="dark ambient" role="button">
-Dargaard - Rise and Fall (2004-03-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a15b234a-7564-36a1-ada8-ba3f1a3c3138/7000808882-500.jpg" data-tags="darkwave" role="button">
-Diary of Dreams - Nigredo (2004-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg" data-tags="industrial, ebm" role="button">
 Combichrist - Everybody Hates You (2005-02-21)
@@ -296,6 +293,9 @@ Austra - Feel It Break (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a89ea8b7-17cf-48dd-b253-d6a44c1ba5d9/28421550599-500.jpg" data-tags="darkwave, 10s, downwards, psychedelic snake venom" role="button">
 Tropic of Cancer - The End of All Things (2011-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/26a6d832-8412-4776-8169-85a0dbd8513b/5257873633-500.jpg" data-tags="neoclassical" role="button">
+Soap&Skin - Narrow (2012-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg" data-tags="synthpop, darkwave, electronic" role="button">
 Trust - Trst (2012-02-28)

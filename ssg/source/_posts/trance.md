@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:47:01.299Z
+date: 2021-04-05T06:58:01.297Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="trance" role="button">
 Paul van Dyk - 45 RPM (1994-10-04)
 </li>
+<li data-cover="https://img.discogs.com/iKPsz5HAZ_YSskrUF1vPn7iLQds=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33293-1603313013-1939.jpeg.jpg" data-tags="trance, chillout, electronic" role="button">
+Robert Miles - Children (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/c26ab134-529c-4b28-be59-8d1927f01738/9666653096-500.jpg" data-tags="female vocalists, trance, 80s, laura branigan, my favorites" role="button">
 Laura Branigan - The Best of Branigan (1995-06-06)
 </li>
@@ -33,7 +36,7 @@ Juno Reactor - Beyond The Infinite (1995-09-18)
 <li data-cover="http://coverartarchive.org/release/724f81e5-6913-30d3-b979-0b9c87142d23/17511200093-500.jpg" data-tags="psytrance, goa" role="button">
 Astral Projection - Trust In Trance (1996-05-10)
 </li>
-<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
+<li data-cover="https://img.discogs.com/5yYmwaKosO62y-ibHwTCmi-CqMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34783-001.jpg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic, trip-hop" role="button">
@@ -317,8 +320,5 @@ Loreen - Heal (2012-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffa84772-242d-4e86-b18c-d4a333a9242e/5338540959-500.jpg" data-tags="trance" role="button">
 Armin van Buuren - Intense (2013-05-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
 </li>
 </ol>

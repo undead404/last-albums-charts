@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:14:01.328Z
+date: 2021-04-05T07:15:01.434Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -66,14 +66,11 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/2079f767-51df-45bf-8c56-86faf2f7286e/4645426278-500.jpg" data-tags="electronic, electronica" role="button">
-Hot Chip - Coming on Strong (2004-05-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock, male vocalists" role="button">
 McFly - Room on the 3rd Floor (2004-07-05)
@@ -135,6 +132,9 @@ Cold War Kids - Robbers & Cowards (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">
+Incubus - Light Grenades (2006-11-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/1138469b-30b2-4400-acdc-b84340d1b8ad/26393913064-500.jpg" data-tags="alternative rock, post-grunge" role="button">
 Switchfoot - Oh! Gravity. (2006-12-26)
 </li>
@@ -143,9 +143,6 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
@@ -257,6 +254,9 @@ Passenger - All the Little Lights (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e46aa43-75b9-4792-9424-d091afa5f93b/6032835251-500.jpg" data-tags="2012" role="button">
 Arctic Monkeys - R U Mine? (2012-02-28)
+</li>
+<li data-cover="https://img.discogs.com/UiCt42DRo0EjITs5xoV909xqKNM=/fit-in/576x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3748971-1342803920-8632.jpeg.jpg" data-tags="country, folk, male vocalists, 10s, 2010s, hairy chest, hunks, 2012 albums, tolle alben, nice fur, heavy pelt" role="button">
+Angus Stone - Broken Brights (2012-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
