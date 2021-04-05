@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:03:01.360Z
+date: 2021-04-05T17:34:02.470Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -21,20 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">
-Bob Dylan - Bringing It All Back Home (1965-03-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues rock, classic rock, 60s" role="button">
-Cream - Fresh Cream (1966-12-09)
-</li>
-<li data-cover="https://img.discogs.com/34VtR4zu1Giq8UuOPkQ_GGQVU30=/fit-in/600x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8564762-1464133683-4151.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
-Cream - Disraeli Gears (1967-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2662ae2-f06b-3cdd-892f-596646c03558/4119591705-500.jpg" data-tags="psychedelic, rock, psychedelic rock, classic rock" role="button">
-The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-Otis Redding - The Dock of the Bay (1968-02-23)
+<li data-cover="http://coverartarchive.org/release/8086b4f8-5365-45b7-872c-798d0626f237/3712022059-500.jpg" data-tags="jazz, blues" role="button">
+Nina Simone - Ne me quitte pas (1967)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
@@ -42,20 +30,11 @@ The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 <li data-cover="http://coverartarchive.org/release/b6f83b06-9cf1-4e39-81ed-5bd1ce9c44c3/19273846900-500.jpg" data-tags="blues" role="button">
 Albert King - King Of The Blues Guitar (1969)
 </li>
-<li data-cover="http://coverartarchive.org/release/4945c044-d742-433b-b8ff-eb5b28d14249/25081651246-500.jpg" data-tags="blues, blues rock" role="button">
-Janis Joplin - I Got Dem Ol' Kozmic Blues Again Mama! (1969-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/fe0aec30-6538-4ff6-98e1-2af99e93ac1f/7549818228-500.jpg" data-tags="classic rock, hard rock" role="button">
-Led Zeppelin - Led Zeppelin II (1969-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/b2ca3b22-f3cc-40c0-b2d3-f4e1d6602106/3010820345-500.jpg" data-tags="classic rock, 60s, rock" role="button">
-The Rolling Stones - Let It Bleed (1969-11-29)
+<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/57caa6ba-fe76-44e8-a98f-85ccece1214b/8474383108-500.jpg" data-tags="blues" role="button">
 Robert Johnson - King Of The Delta Blues Singers (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
-The Doors - Morrison Hotel (1970-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin III (1970-10-05)
@@ -65,12 +44,6 @@ Derek and the Dominos - Layla And Other Assorted Love Songs (1970-11)
 </li>
 <li data-cover="https://img.discogs.com/mic1l-p28zoqxQguKjabmbJV5Hg=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9031515-1473598344-7417.mpo.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
-</li>
-<li data-cover="http://coverartarchive.org/release/d3d7922d-6933-35cd-97f5-f81ca68c6f92/25035349368-500.jpg" data-tags="blues rock, classic rock, blues" role="button">
-Janis Joplin - Pearl (1971-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/e68f23df-61e3-4264-bfc3-17ac3a6f856b/5132812481-500.jpg" data-tags="classic rock, psychedelic rock" role="button">
-The Doors - L.A. Woman (1971-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
 Nina Simone - Here Comes The Sun (1971-09)
@@ -90,8 +63,8 @@ Neil Young - On the Beach (1974-07-19)
 <li data-cover="http://coverartarchive.org/release/1828741e-e2b7-382e-968e-bc536eb154e2/6505242178-500.jpg" data-tags="blues" role="button">
 Tom Waits - The Heart of Saturday Night (1974-10-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
-Fleetwood Mac - Fleetwood Mac (1975-07-11)
+<li data-cover="https://img.discogs.com/ymPc3BTxcHv-Rac8BVndC4oggy8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5586175-1397305591-1748.jpeg.jpg" data-tags="blues" role="button">
+J.J. Cale - Troubadour (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
 Tom Waits - Small Change (1976-10)
@@ -104,9 +77,6 @@ Stevie Ray Vaughan and Double Trouble - Texas Flood (1983-06-13)
 </li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/072d8ed1-464f-48d1-a136-9de871c365c9/9495317046-500.jpg" data-tags="rock, blues, classic rock, 60s" role="button">
-Canned Heat - The Best of Canned Heat (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/541d890a-9ecd-4d75-8db3-883b706d434a/4010641500-500.jpg" data-tags="blues, singer-songwriter" role="button">
 Tom Waits - Franks Wild Years (1987-08-17)
@@ -135,23 +105,17 @@ Eric Clapton - Unplugged (1992-08-21)
 <li data-cover="http://coverartarchive.org/release/29a89b27-ee52-4e84-a411-8b3ae971673d/5262713591-500.jpg" data-tags="eric clapton, blues rock" role="button">
 Eric Clapton - The Cream of Clapton (1994-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2170f73-b861-3c58-8ba6-a66aff3f00d8/1013012160-500.jpg" data-tags="blues" role="button">
-Jimi Hendrix - Blues (1994-04-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9bc984c-c725-4fc7-8864-7835b7bc255b/9576050460-500.jpg" data-tags="mellow" role="button">
 G. Love & Special Sauce - G. Love & Special Sauce (1994-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/365f2bc6-b56c-460c-9ce9-cde7bb27e46d/10858606127-500.jpg" data-tags="rock, blues, classic rock" role="button">
 Blues Traveler - Four (1994-09-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">
-Bob Dylan - Highway 61 Revisited (1995)
+<li data-cover="http://coverartarchive.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee/2125238082-500.jpg" data-tags="rock" role="button">
+Joan Osborne - Relish (1995-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f66e9df-ee19-475b-8f0b-3e1f27c2c8af/7086920950-500.jpg" data-tags="blues, blues rock" role="button">
-Stevie Ray Vaughan and Double Trouble - Greatest Hits (1995-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e341073-f4b4-4362-9f73-72aafe3b46c7/21892739181-500.jpg" data-tags="blues" role="button">
 Elmore James - Dust My Broom (1996)
@@ -164,6 +128,12 @@ Cat Power - What Would the Community Think (1996-09-10)
 </li>
 <li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1fac05f-bf5f-405c-8e3a-5b704c6970d8/19486232768-500.jpg" data-tags="blues" role="button">
+B.B. King - Deuces Wild (1997-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/e8eb987c-7514-4ee1-a052-f09458b8f8db/15337426460-500.jpg" data-tags="blues" role="button">
+Muddy Waters - The Best Of Muddy Waters (1999)
 </li>
 <li data-cover="https://img.discogs.com/E7UtJyItYvk5AJ7YnjG_hxrhppo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4959254-1380618088-4627.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
@@ -186,8 +156,8 @@ Ben Harper - Diamonds On The Inside (2003-03-05)
 <li data-cover="http://coverartarchive.org/release/36b58cd2-2a2f-36ad-81b3-7ab044d01d19/9200502912-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Thickfreakness (2003-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
-Led Zeppelin - Led Zeppelin (2003-05-26)
+<li data-cover="https://img.discogs.com/MjzMDHbXVom57VN0y1T5FdqxLEI=/fit-in/500x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4612040-1369923028-1886.jpeg.jpg" data-tags="blues, blues rock" role="button">
+Joe Bonamassa - Blues Deluxe (2003-08-26)
 </li>
 <li data-cover="https://img.discogs.com/WI9xr-R4aOltg2LSAy8x77FKfQg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4662538-1371466720-1362.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
@@ -197,6 +167,12 @@ The John Butler Trio - Sunrise Over Sea (2004-03-08)
 </li>
 <li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
+</li>
+<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
+Iron & Wine - Our Endless Numbered Days (2004-03-23)
+</li>
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ea6d063-de17-3423-80f1-ed21563c47b2/22164226793-500.jpg" data-tags="soul, blues, jazz" role="button">
 Ray Charles - Genius Loves Company (2004-08-27)
@@ -225,6 +201,12 @@ John Mayer Trio - Try! (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
 Norah Jones - Not Too Late (2006)
 </li>
+<li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
+Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/8aae5c08-f0aa-4568-b240-a43b4c1fa4ee/19223128466-500.jpg" data-tags="ben harper, blues" role="button">
+Ben Harper - Both Sides Of The Gun (2006-03-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/cd9b5d63-d021-490e-ba53-3c1717fd0a8e/9167672848-500.jpg" data-tags="blues, blues covers, fat possum" role="button">
 The Black Keys - Chulahoma (2006-05-02)
 </li>
@@ -239,6 +221,9 @@ Bob Dylan - Modern Times (2006-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd4537c4-4faf-4b20-b4eb-e4807c7d085a/26946880719-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Magic Potion (2006-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
+Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
 <li data-cover="https://img.discogs.com/dKC_ba-hfahXXfAu-PyUPnaqW4w=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830764-1517972935-2117.jpeg.jpg" data-tags="blues, m singer-songwriter" role="button">
 Scott Matthews - Passing Stranger (2007-03-12)
@@ -273,6 +258,12 @@ Blakroc - Blakroc (2009-09-09)
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/8325dce3-1f7c-4684-abd7-0df079f0c146/6630289075-500.jpg" data-tags="jazz" role="button">
+Norah Jones - The Fall (2009-11-11)
+</li>
+<li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
+John Mayer - Battle Studies (2009-11-17)
+</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)
 </li>
@@ -300,6 +291,12 @@ Alabama Shakes - Boys & Girls (2012-04-03)
 <li data-cover="http://coverartarchive.org/release/08d68658-0834-4dea-9914-8146cf4b9907/15222093874-500.jpg" data-tags="rock" role="button">
 Jack White - Blunderbuss (2012-04-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">
+John Mayer - Born and Raised (2012-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/2410cedd-3a9e-4822-8acf-158542f367ea/2745548084-500.jpg" data-tags="blues, blues rock, warner music, hotwire unlimited" role="button">
+Gary Clark Jr. - Blak and Blu (2012-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/54ae2614-7ddb-4c11-b251-231929556b55/4911466037-500.jpg" data-tags="blues" role="button">
 John Mayer - Paradise Valley (2013-08-16)
 </li>
@@ -317,6 +314,9 @@ George Ezra - Wanted on Voyage (2014-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg" data-tags="soul, indie rock, blues" role="button">
 Hozier - Hozier (2014-06-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/c089a4bd-dfc4-4583-a381-2c4b4541808d/10650592968-500.jpg" data-tags="pop" role="button">
+Shawn Mendes - Shawn Mendes (2014-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb190725-4680-4a92-9c48-14c6b0feba5a/8118702494-500.jpg" data-tags="blues" role="button">
 Leonard Cohen - Popular Problems (2014-09-23)

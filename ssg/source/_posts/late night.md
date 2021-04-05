@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:37:01.455Z
+date: 2021-04-05T17:04:01.350Z
 title: "late night: 100 albums you must listen to before you die"
 ---
 ![Chromatics - Kill for Love (2012-03-26)](http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg "Chromatics - Kill for Love (2012-03-26)")
@@ -21,14 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/8415536b-cc0f-46b5-bfd4-95f87ec0b7ca/20559607098-500.jpg" data-tags="sitar, raga" role="button">
+Ravi Shankar - The Sounds of India (1958)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, free jazz" role="button">
 Ornette Coleman - The Shape of Jazz to Come (1959-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b080958a-f13b-4be3-b02d-7537f9a14735/14838055580-500.jpg" data-tags="jazz" role="button">
 Grant Green - Idle Moments (1964)
-</li>
-<li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion, fusion" role="button">
-Miles Davis - Bitches Brew (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/20a3b21d-5d06-4db7-a737-cce696fd763e/10723116989-500.jpg" data-tags="classic rock, rock" role="button">
 Faces - Ooh La La (1973)

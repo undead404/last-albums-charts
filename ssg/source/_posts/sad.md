@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:13:01.544Z
+date: 2021-04-05T17:20:07.962Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -35,6 +35,9 @@ Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c91f3331-2413-3ad7-b8a0-7bf2eb4d4998/18288386494-500.jpg" data-tags="pop" role="button">
 ABBA - Super Trouper (1980-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-500.jpg" data-tags="solo piano" role="button">
+George Winston - December (1982)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
@@ -74,6 +77,9 @@ Mazzy Star - Among My Swan (1996-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/27d99673-cdc9-4172-bdf6-d3bd0620c0ee/15960021076-500.jpg" data-tags="singer-songwriter, 90s, indie, folk, lo-fi, mellow, slowcore" role="button">
 Smog - Red Apple Falls (1997-05-20)
+</li>
+<li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
+Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cbd9b78-2e57-4b3b-8d01-f768e4a9785c/11228936512-500.jpg" data-tags="pop" role="button">
 Sixpence None the Richer - Sixpence None the Richer (1997-11-22)
@@ -183,9 +189,6 @@ Devendra Banhart - Cripple Crow (2005-09-13)
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
 </li>
-<li data-cover="https://img.discogs.com/-vRLqy0OkPeNfxANrLYevcqFPa0=/fit-in/337x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1327632-1209967985.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, alt-country, indie folk, americana, indie, guitar, new weird america, lyrics, country, quiet, calm, mellow, sad, songwriter, lo-fi, alt country, waterhouse records, vancouver, slow, short song" role="button">
-Flowers From the Man Who Shot Your Cousin - Hapless (2006-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
@@ -219,6 +222,9 @@ J. Tillman - Cancer And Delirium (2008)
 <li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
+<li data-cover="https://img.discogs.com/P77tgw8KeCdkYtdn-B3LP_5eJPk=/fit-in/589x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1536049-1227293535.jpeg.jpg" data-tags="sad" role="button">
+White Lies - Unfinished Business (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/38e8460a-efc3-4d42-8011-e80205284699/21551757575-500.jpg" data-tags="sad, 2008 favorites, my short list, 2008 fave albums, mtce not really, favourite albums 2008, 2008ott" role="button">
 Evangelicals - The Evening Descends (2008-01-22)
 </li>
@@ -233,9 +239,6 @@ Blind Pilot - 3 Rounds and a Sound (2008-07-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Iron & Wine - 9/20/02 (2008-12-00)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
 Noisettes - Wild Young Hearts (2009-04-19)
@@ -314,9 +317,6 @@ Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f6fffcd-92a4-4d48-9518-b5e4c757c179/8473647967-500.jpg" data-tags="cloud rap" role="button">
 Yung Lean - Unknown Memory (2014-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/3cf2098d-5f98-437c-b826-439105443e4a/8488195612-500.jpg" data-tags="pop, rock, soul, sad, rnb, macy gray, czalbums" role="button">
-Macy Gray - The Way (2014-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3b9547-7a3c-49aa-af8a-40329db86b07/14478533949-500.jpg" data-tags="emo" role="button">
 Moose Blood - I'll Keep You In Mind, From Time to Time (2014-10-06)

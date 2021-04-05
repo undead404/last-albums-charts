@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T10:41:01.308Z
+date: 2021-04-05T17:25:06.984Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Cocteau Twins - Treasure (1984-10-01)](http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg "Cocteau Twins - Treasure (1984-10-01)")
@@ -69,7 +69,7 @@ Dead Can Dance - Into the Labyrinth (1993-09-13)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/646c6f8d-64bd-38ec-8cf3-3a5f5008cf88/7946166850-500.jpg" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/ct_HonlxsxKwu7CCIr1igOCStbc=/fit-in/600x979/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6784702-1436621833-4556.jpeg.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Four-Calendar Cafe (1993-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf042b54-74aa-41d8-a7a7-9f134e768b28/1782149775-500.jpg" data-tags="ethereal" role="button">
@@ -116,6 +116,9 @@ Broadcast - The Noise Made by People (2000-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
+Enya - A Day Without Rain (2000-11-11)
 </li>
 <li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
@@ -314,9 +317,6 @@ St. Vincent - St. Vincent (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/a50f9ba3-5891-4f22-b5da-edf84cc04b0c/7598730014-500.jpg" data-tags="electronic, alternative rnb" role="button">
-FKA twigs - LP1 (2014-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)

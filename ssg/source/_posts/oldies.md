@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:37:01.304Z
+date: 2021-04-05T17:07:01.372Z
 title: "oldies: 100 albums you must listen to before you die"
 ---
 ![Simon &amp; Garfunkel - Greatest Hits (1972-06-14)](https://img.discogs.com/mfBUquz8EFF-YH4aHVrEVlCI3L4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119078-1193587084.jpeg.jpg "Simon & Garfunkel - Greatest Hits (1972-06-14)")
@@ -42,20 +42,17 @@ Del Shannon - Little Town Flirt (1963)
 <li data-cover="http://coverartarchive.org/release/b60a2517-687f-414c-89fe-ad89a875ecd6/15628266907-500.jpg" data-tags="60s" role="button">
 The Beatles - Please Please Me (1963-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/e9a8f2de-5145-3d5b-9787-9344f15b72ad/10118746823-500.jpg" data-tags="jazz, avant-garde jazz" role="button">
-Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/cab36420-f696-4ce1-9e83-3b5914d9aad3/12464534192-500.jpg" data-tags="soul, oldies" role="button">
 The Drifters - Under the Boardwalk (1964)
 </li>
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="oldies, schlageroldies" role="button">
-The Coasters - The Coasters (1965)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, oldies, 50s" role="button">
 The Everly Brothers - The Very Best of the Everly Brothers (1965)
+</li>
+<li data-cover="https://img.discogs.com/cGDgH5FLk7mCUmrTk4j1S6PquLI=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785839-1230210908.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+The Easybeats - Friday on My Mind (1966)
 </li>
 <li data-cover="https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg" data-tags="60s, classic rock" role="button">
 The Turtles - Happy Together (1966)
@@ -81,10 +78,13 @@ Scott McKenzie - San Francisco (1967-05-04)
 <li data-cover="http://coverartarchive.org/release/b5f953d6-5de4-4879-80ac-5d17b720c814/3818382603-500.jpg" data-tags="pop, soul, 60s, oldies" role="button">
 Dusty Springfield - Dusty... Definitely (1968)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="oldies, duets" role="button">
+<li data-cover="https://img.discogs.com/mUm9DwkQpO9ahIHNQa3P9_CC2p8=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3834340-1346239106-1725.jpeg.jpg" data-tags="oldies, doo wop, soul" role="button">
+The Platters - High Profile (1968)
+</li>
+<li data-cover="https://img.discogs.com/qfz12rfTVq_4j1tFyijcQEL-9iw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1874920-1317312054.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, christmas, oldies, tony bennett, golden oldies, mastersinger, vocalistas masculinos, t bennett" role="button">
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="jazz, christmas, oldies, tony bennett, golden oldies, mastersinger, vocalistas masculinos, t bennett" role="button">
 Tony Bennett - Snowfall - The Tony Bennett Christmas Album (1968)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
@@ -138,9 +138,6 @@ Elton John - Caribou (1974-06-24)
 <li data-cover="http://coverartarchive.org/release/17e2b2bf-2ccc-4592-9b32-d4fdf7d9423a/7297450107-500.jpg" data-tags="classic rock, rock, soft rock" role="button">
 Rod Stewart - Atlantic Crossing (1975)
 </li>
-<li data-cover="https://img.discogs.com/mUm9DwkQpO9ahIHNQa3P9_CC2p8=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3834340-1346239106-1725.jpeg.jpg" data-tags="oldies, doo wop, soul" role="button">
-The Platters - High Profile (1975)
-</li>
 <li data-cover="http://coverartarchive.org/release/5904320c-f3ca-4320-bade-58215eda3e0c/1637049317-500.jpg" data-tags="70s" role="button">
 Elton John - Rock Of The Westies (1975-10-04)
 </li>
@@ -164,6 +161,9 @@ Sam Cooke - The Man and His Music (1986-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/072d8ed1-464f-48d1-a136-9de871c365c9/9495317046-500.jpg" data-tags="rock, blues, classic rock, 60s" role="button">
 Canned Heat - The Best of Canned Heat (1987)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="oldies, 60s" role="button">
+Herman's Hermits - Their Greatest Hits (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/06bebfb0-a1c0-4ce2-bf07-c51912d8cadc/9120686874-500.jpg" data-tags="rock, roy orbison" role="button">
 Roy Orbison - Mystery Girl (1988)
@@ -189,7 +189,7 @@ The Beach Boys - Still Cruisin' (1989-08-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, oldies" role="button">
 Tommy James & The Shondells - Anthology (1989-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/cda3e777-5c0a-4c23-bdea-ad070782655d/25245885727-500.jpg" data-tags="60s, oldies" role="button">
+<li data-cover="https://img.discogs.com/z0Y4pYtIgKtcg1t-JCoVER7bfAw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3660719-1543453098-1041.jpeg.jpg" data-tags="60s, oldies" role="button">
 Gene Pitney - Backstage (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/9df5fb11-9d7e-443d-8522-6ffd8ce7746c/12078707246-500.jpg" data-tags="soul, 60s, oldies, male vocalists" role="button">

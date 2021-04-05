@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:37:01.360Z
+date: 2021-04-05T17:21:01.447Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -81,9 +81,6 @@ Van Halen - 1984 (1983)
 <li data-cover="http://coverartarchive.org/release/24335da0-8587-3d50-931e-082b7cf42cd7/20733595394-500.jpg" data-tags="hard rock" role="button">
 Scorpions - Love at First Sting (1984)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-AC/DC - Who Made Who (1986-05-12)
-</li>
 <li data-cover="https://img.discogs.com/nOEna0s-x0VMH8RYTIGFaPXXoNE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7580053-1444472249-3116.jpeg.jpg" data-tags="hard rock, rock, 80s" role="button">
 Bon Jovi - Slippery When Wet (1986-08-25)
 </li>
@@ -92,9 +89,6 @@ Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Hysteria (1987-11-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/656243aa-0033-448c-91e1-ae50a0f5ac0d/16084924681-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Danzig - Danzig (1988-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/50bfd176-df4e-4808-87a7-2d4dd7dc3e2e/5514872783-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - G N' R Lies (1988-11-30)
@@ -180,6 +174,9 @@ Stone Sour - Stone Sour (2002-08-19)
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Believe (2002-09-16)
 </li>
+<li data-cover="https://img.discogs.com/cgFX-8nmXkGyOZoCjG4tPTtprtg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854823-1304132381.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+Foo Fighters - One by One (2002-10-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0381376-5583-4aa6-88fa-2984d25ef3a5/7915054343-500.jpg" data-tags="hard rock, rock" role="button">
 Trapt - Trapt (2002-11-05)
 </li>
@@ -248,6 +245,9 @@ Stone Sour - Come What(ever) May (2006-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - Phobia (2006-08-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, hard rock" role="button">
+Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - The Paramour Sessions (2006-09-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:29:01.425Z
+date: 2021-04-05T17:22:01.526Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -24,14 +24,8 @@ _________________
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/b2ca3b22-f3cc-40c0-b2d3-f4e1d6602106/3010820345-500.jpg" data-tags="classic rock, 60s, rock" role="button">
-The Rolling Stones - Let It Bleed (1969-11-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Led Zeppelin IV (1971-11-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
-Queen - Greatest Hits (1981-11-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
@@ -135,6 +129,12 @@ Coldplay - A Rush of Blood to the Head (2002-08-12)
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Songs for the Deaf (2002-08-17)
 </li>
+<li data-cover="https://img.discogs.com/cgFX-8nmXkGyOZoCjG4tPTtprtg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854823-1304132381.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+Foo Fighters - One by One (2002-10-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+Nirvana - Nirvana (2002-10-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
 </li>
@@ -165,7 +165,7 @@ Three Days Grace - Three Days Grace (2003-07-22)
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
 </li>
-<li data-cover="https://img.discogs.com/hiJKhndS9YkCjjuZvxc1qzwGU10=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1471056-1413743577-2531.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/VukbmouW37McBrWp8ZiCt4gYChw=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-984322-1614531766-2603.jpeg.jpg" data-tags="rock" role="button">
 Jet - Get Born (2003-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">

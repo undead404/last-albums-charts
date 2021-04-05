@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T08:43:06.906Z
+date: 2021-04-05T17:26:01.389Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
 ![CSS - Cansei De Ser Sexy (2005-10)](https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg "CSS - Cansei De Ser Sexy (2005-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">Os Mutantes - Os Mutantes (1968-06)</li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">Mamonas Assassinas - Mamonas Assassinas (1995-06-23)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock nacional, rock, brazilian" role="button">Engenheiros Do Hawaii - Acústico MTV (2004-11-29)</li>
+<li data-cover="https://img.discogs.com/Z1wUas6SuxWv66SAV5HxXKTZa-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999111-1453207563-8577.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">Engenheiros Do Hawaii - Acústico MTV (2004-11-29)</li>
 <li data-cover="http://coverartarchive.org/release/e53c3877-01db-4cd0-99ef-f379b2b99d66/11450096982-500.jpg" data-tags="brazilian" role="button">Los Hermanos - 4 (2005)</li>
 <li data-cover="http://coverartarchive.org/release/ff4bf915-8a21-417d-8c09-04600a7deb41/18504588791-500.jpg" data-tags="brazilian, samba, poetry, mpb" role="button">Chico Buarque - Chico Buarque (2005)</li>
 <li data-cover="http://coverartarchive.org/release/333bb712-ba43-4887-bf0d-0bb8f8fdc764/15739034587-500.jpg" data-tags="brazilian, female vocalists" role="button">Céu - CéU (2005)</li>
@@ -126,11 +126,11 @@ Suba - Sao Paulo Confessions (1999-09-27)
 <li data-cover="http://coverartarchive.org/release/aa6c218d-edf7-4293-9ce9-731756e0dd6e/6756058530-500.jpg" data-tags="rock, rap, brazilian, br4z1l14n f4nk7 k0r3" role="button">
 Planet Hemp - A invasão do sagaz homem fumaça (2000)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, adriana calcanhotto" role="button">
+Adriana Calcanhotto - Público (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/cda58eae-cb47-49d4-bb08-d1d8863ed647/2145382610-500.jpg" data-tags="bossa nova" role="button">
 Bebel Gilberto - Tanto Tempo (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac3cc2de-61d7-48c3-99fc-d3ad7d3a848b/2146281950-500.jpg" data-tags="rock, brasil, charlie brown jr" role="button">
-Charlie Brown JR. - 100% Charlie Brown JR - Abalando A Sua Fábrica (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/1adf6e49-e74c-444f-b005-af3dd69757e1/10496581130-500.jpg" data-tags="cassia, mpb" role="button">
 Cássia Eller - Acústico MTV (2001)
@@ -147,7 +147,7 @@ Angra - Rebirth (2001-10-24)
 <li data-cover="http://coverartarchive.org/release/484a2a59-4b01-444a-b0f6-15d902c4d4fb/9105772933-500.jpg" data-tags="skate punk" role="button">
 Charlie Brown JR. - Bocas Ordinárias (2002)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="bossa nova, brazilian" role="button">
+<li data-cover="https://img.discogs.com/qGrB1yQKQNPAD0jS4MJDYSWuqaw=/fit-in/258x258/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711866-1150706483.jpeg.jpg" data-tags="bossa nova, brazilian" role="button">
 Rosalia De Souza - Garota moderna (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa39c1c8-4879-4a76-99d3-de31c36bc212/2901966078-500.jpg" data-tags="alternative, 90s, mpb, brazilian, great songs, minhas musicas, mpb - 2000" role="button">
@@ -198,7 +198,7 @@ Bebel Gilberto - Bebel Gilberto (2004-06-07)
 <li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
 Angra - Temple of Shadows (2004-09-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock nacional, rock, brazilian" role="button">
+<li data-cover="https://img.discogs.com/Z1wUas6SuxWv66SAV5HxXKTZa-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999111-1453207563-8577.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">
 Engenheiros Do Hawaii - Acústico MTV (2004-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e53c3877-01db-4cd0-99ef-f379b2b99d66/11450096982-500.jpg" data-tags="brazilian" role="button">
@@ -209,6 +209,9 @@ Chico Buarque - Chico Buarque (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/333bb712-ba43-4887-bf0d-0bb8f8fdc764/15739034587-500.jpg" data-tags="brazilian, female vocalists" role="button">
 Céu - CéU (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/920a21ae-5b89-4797-9a5a-5a2cf6666076/6306595448-500.jpg" data-tags="brasil, brazilian, ouvir com calma" role="button">
+Móveis Coloniais de Acaju - Idem (2005)
 </li>
 <li data-cover="https://img.discogs.com/WD5IyN13ahJzm2GYZXCpraQyoTE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644391-1142622697.jpeg.jpg" data-tags="brazilian rock, rock" role="button">
 Cachorro Grande - Pista Livre (2005-05)
@@ -278,9 +281,6 @@ Thiago Pethit - Berlim, Texas (2010)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb" role="button">
 Tulipa Ruiz - Efêmera (2010)
-</li>
-<li data-cover="http://coverartarchive.org/release/25401cf6-0e7e-4156-991e-ce0aec3fd0ab/992490598-500.jpg" data-tags="female vocalists, brazilian" role="button">
-Karina Buhr - Eu Menti pra Você (2010-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8a9c11d-03a2-4f31-96e0-8283fe9fe5b7/10615151610-500.jpg" data-tags="bossa nova, brazilian, indie, folk" role="button">
 Cícero - Canções de Apartamento (2011)

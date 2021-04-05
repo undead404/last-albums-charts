@@ -1,19 +1,19 @@
 ---
-date: 2021-04-05T04:03:01.280Z
+date: 2021-04-05T17:41:01.374Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/d3d44548-b2ed-3ddc-a9e0-3f5ee544c1c9/6624483913-500.jpg" data-tags="grunge" role="button">Nirvana - Bleach (1989-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/c63ad92b-19d7-41d9-83e6-607202ceba07/1623379853-500.jpg" data-tags="grunge" role="button">Alice in Chains - Facelift (1990-08-28)</li>
-<li data-cover="http://coverartarchive.org/release/b0ce1c97-728d-379e-b3e1-2a4a1f6417b1/15135704076-500.jpg" data-tags="grunge" role="button">Temple of the Dog - Temple of the Dog (1991-03)</li>
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">Pearl Jam - Ten (1991-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg" data-tags="grunge" role="button">Nirvana - Nevermind (1991-09-23)</li>
 <li data-cover="https://img.discogs.com/8zNb0iCL-YTQuy8txDVArGfUSTE=/fit-in/405x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008786-1349737299-5085.jpeg.jpg" data-tags="grunge, 90s" role="button">Stone Temple Pilots - Core (1992-09-29)</li>
-<li data-cover="https://img.discogs.com/Dfn7D5B0m4g0smYVNzc905-GXwM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021337-1243356062.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">The Smashing Pumpkins - Siamese Dream (1993-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/dc02c14f-b3f2-40c2-a32b-4349f8d5a51f/24810241421-500.jpg" data-tags="grunge" role="button">Nirvana - In Utero (1993-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">Pearl Jam - Vs. (1993-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/9d005b9c-fd45-412c-970b-3e64a59f84cd/13263179887-500.jpg" data-tags="grunge" role="button">Soundgarden - Superunknown (1994-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">Nirvana - MTV Unplugged in New York (1994-11-01)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">Nirvana - Nirvana (2002-10-28)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,11 +30,14 @@ Dinosaur Jr. - Bug (1988-10-31)
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3d44548-b2ed-3ddc-a9e0-3f5ee544c1c9/6624483913-500.jpg" data-tags="grunge" role="button">
+Nirvana - Bleach (1989-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c63ad92b-19d7-41d9-83e6-607202ceba07/1623379853-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Facelift (1990-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/12107471021-500.jpg" data-tags="doom metal, grunge, sludge" role="button">
-Melvins - Bullhead (1991)
+<li data-cover="http://coverartarchive.org/release/215ca43e-982e-499d-852f-6898cc929410/12606679128-500.jpg" data-tags="grunge" role="button">
+Green River - Dry As A Bone/Rehab Doll (1990-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/aed59883-6069-4921-b569-d463ac58547f/3076600303-500.jpg" data-tags="rock, 90s" role="button">
 Pearl Jam - Jeremy (1991)
@@ -56,9 +59,6 @@ Nirvana - Nevermind (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/pT_kB-IGymMlAZZ7PmxEHRbp41A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434125-1155723074.jpeg.jpg" data-tags="grunge" role="button">
 Soundgarden - Badmotorfinger (1991-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/00430071-491d-4ca3-a61e-634cbc483021/13220151098-500.jpg" data-tags="rock, grunge, pearl jam" role="button">
-Pearl Jam - MTV Unplugged (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/250bd8f0-9c77-4318-b14c-0684ce5f9b75/24751455111-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Sap (1992-02-04)
@@ -165,9 +165,6 @@ Alice in Chains - Alice in Chains (1995-11-07)
 <li data-cover="http://coverartarchive.org/release/b2c5c7c4-1d76-3172-9ca7-21a164b3dd11/15464992021-500.jpg" data-tags="grunge" role="button">
 Silverchair - Freak Show (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/56c89902-b579-4fb6-8fa5-e2fef546b051/15667496184-500.jpg" data-tags="rock" role="button">
-Stone Temple Pilots - Tiny Music...Songs From The Vatican Gift Shop (1996-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">
 Alice in Chains - MTV Unplugged (1996-04-10)
 </li>
@@ -192,9 +189,6 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="http://coverartarchive.org/release/8843d2b4-f584-46a4-9c3c-f082b7eb39c4/9233096986-500.jpg" data-tags="grunge, 90s, rock, alternative" role="button">
 Days of the New - Days Of The New (1997-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d3e9ab1-2701-4818-ae2a-8fbc650cf824/5658890227-500.jpg" data-tags="post-grunge, hard rock, rock" role="button">
-Creed - My Own Prison (1997-06-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/a1384642-7aa5-4f3a-9839-5e7ad4ab0f23/10132446474-500.jpg" data-tags="grunge, rock" role="button">
 Soundgarden - A-Sides (1997-11-04)
 </li>
@@ -216,9 +210,6 @@ Silverchair - Neon Ballroom (1999-03-05)
 <li data-cover="https://img.discogs.com/n8IeQKlL1AkpY4WaZ5akx0X88EA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-631417-1400879404-2317.jpeg.jpg" data-tags="rock, grunge, 90s, covers, flashback alternatives" role="button">
 Pearl Jam - Last Kiss (1999-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
-Creed - Human Clay (1999-07-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/33c3f176-d1f7-3e76-83ef-b03dc30e57d6/14086233637-500.jpg" data-tags="rock, alternative" role="button">
 Chris Cornell - Euphoria Morning (1999-09-21)
 </li>
@@ -237,9 +228,6 @@ Pearl Jam - Binaural (2000-05-16)
 <li data-cover="https://img.discogs.com/zKrm-b4jrZ-oY-VyfDdSxcmDZ6A=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5449544-1595955921-2024.jpeg.jpg" data-tags="rock" role="button">
 Creed - Weathered (2001-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
-Staind - Break the Cycle (2001-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)
 </li>
@@ -252,11 +240,23 @@ Bush - Golden State (2001-10-23)
 <li data-cover="http://coverartarchive.org/release/d7c0f696-2917-4e85-abc4-2b3d599c4289/16956340178-500.jpg" data-tags="grunge, metal, hard rock" role="button">
 Seether - Disclaimer (2002-08-20)
 </li>
+<li data-cover="https://img.discogs.com/cgFX-8nmXkGyOZoCjG4tPTtprtg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854823-1304132381.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+Foo Fighters - One by One (2002-10-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+Nirvana - Nirvana (2002-10-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge" role="button">
+Pearl Jam - Riot Act (2002-11-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
 </li>
 <li data-cover="https://img.discogs.com/KQxoGUUY2tsV3iX6K46Y643VDrs=/fit-in/479x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1589349-1230573596.jpeg.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Lost Dogs (2003-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6cbe405-cb68-449e-b882-f8c2145a949f/7710002716-500.jpg" data-tags="grunge" role="button">
+Stone Temple Pilots - Thank You (2003-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/77d5fc59-6d52-4070-b31a-b4841f86179b/3759468978-500.jpg" data-tags="grunge, rock" role="button">
 Courtney Love - America's Sweetheart (2004-02-10)
@@ -276,11 +276,11 @@ Seether - Karma & Effect (2005-05-24)
 <li data-cover="https://img.discogs.com/vibUbZr3RQMgJ9moqUW4ELcrFO8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494144-1419701996-1992.jpeg.jpg" data-tags="grunge, indie rock" role="button">
 Nine Black Alps - Everything Is (2005-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/b1f237d6-edf1-46f8-971c-a7280b53bdc6/1068689504-500.jpg" data-tags="acoustic" role="button">
-Seether - One Cold Night (2006-06-11)
+<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+Pearl Jam - Pearl Jam (2006-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/936cf678-1522-3e57-8144-727398834390/5553048453-500.jpg" data-tags="grunge" role="button">
-Alice in Chains - The Essential Alice In Chains (2006-09-05)
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, hard rock" role="button">
+Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a3a8867-9461-3ed3-b78a-47dfc939829d/26491153487-500.jpg" data-tags="rock, grunge" role="button">
 Chris Cornell - Carry On (2007-06-05)

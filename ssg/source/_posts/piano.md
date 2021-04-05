@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:55:01.453Z
+date: 2021-04-05T17:40:01.350Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -146,6 +146,9 @@ Fiona Apple - Extraordinary Machine (2005-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c960edc-6d64-4224-91cb-ad5d190687a4/13095766194-500.jpg" data-tags="piano, singer-songwriter, piano rock" role="button">
 Ben Folds - Songs For Silverman (2005-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">
+The White Stripes - Get Behind Me Satan (2005-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ef93fc8-79d2-411e-a999-a2bc1a310f5b/6514416116-500.jpg" data-tags="pop" role="button">
 Daniel Powter - Daniel Powter (2005-07-26)
@@ -317,8 +320,5 @@ Keaton Henson - Romantic Works (2014-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/aaed190c-fc3a-43c2-acdd-aa06b390b9cf/10369854892-500.jpg" data-tags="ambient" role="button">
 Grouper - Ruins (2014-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d72cb62-da0c-4706-a59f-7209ff571f6b/8989466671-500.jpg" data-tags="jazz, soul, piano" role="button">
-Benjamin Clementine - At Least For Now (2015-01-12)
 </li>
 </ol>
