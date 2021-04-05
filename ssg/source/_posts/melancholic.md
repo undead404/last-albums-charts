@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:17:01.301Z
+date: 2021-04-05T06:32:01.305Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![Portishead - Dummy (1994-08-22)](http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg "Portishead - Dummy (1994-08-22)")
@@ -60,9 +60,6 @@ My Dying Bride - The Angel and the Dark River (1995-05-22)
 <li data-cover="https://img.discogs.com/mXmbUGbg8s-pnwDZnxsR5EARqq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950111-1433873709-1968.jpeg.jpg" data-tags="gothic metal, progressive metal, atmospheric metal" role="button">
 The Gathering - Mandylion (1995-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/92170779-0baf-31f4-930d-8213c7462eac/3435477482-500.jpg" data-tags="trip-hop" role="button">
-Archive - Londinium (1996-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
 </li>
@@ -92,6 +89,9 @@ Anathema - Resonance (2001-09-24)
 </li>
 <li data-cover="https://img.discogs.com/TCfCFFygw_4fOymnI55HbWwp1u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445333-1305669402.png.jpg" data-tags="ambient, dark ambient" role="button">
 Antimatter - Saviour (2001-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad3244de-1c41-4eb2-a090-7ac797ed4b0a/20032202540-500.jpg" data-tags="melancholic, autumn, favorites ever, skiver, albums 2, maarts, bobjebus16 owns this, dice-throw: six, go get it" role="button">
+Thomas Dybdahl - That great october sound (2001-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">
 Myslovitz - Korova Milky Bar (2002-05-27)

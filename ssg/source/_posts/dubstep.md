@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:33:01.330Z
+date: 2021-04-05T06:09:06.758Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![SBTRKT - SBTRKT (2011-06-27)](http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg "SBTRKT - SBTRKT (2011-06-27)")
@@ -237,9 +237,6 @@ Korn - The Path of Totality (2011-11-30)
 <li data-cover="http://coverartarchive.org/release/13b61bbf-67ad-4a0b-9f68-85b425061968/1984353512-500.jpg" data-tags="dubstep" role="button">
 Skrillex - Bangarang (2011-12-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/d0b08b92-285a-45c4-a4f1-0e05192d4656/1068691657-500.jpg" data-tags="dubstep" role="button">
-Rusko - Songs (2012-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/f71c093a-2791-455a-b30f-c9ce8b0701b6/9559450051-500.jpg" data-tags="downtempo, electronic, electronica" role="button">
 XXYYXX - XXYYXX (2012-03-27)
 </li>
@@ -254,6 +251,9 @@ Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
+Odesza - Summer's Gone (2012-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc51ba52-59a7-49a3-8d55-92540d64d8d4/5933544596-500.jpg" data-tags="dubstep" role="button">
 Lindsey Stirling - Lindsey Stirling (2012-09-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:34:01.292Z
+date: 2021-04-05T06:19:01.419Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -36,6 +36,9 @@ The Beatles - Yellow Submarine (1969-01-13)
 <li data-cover="http://coverartarchive.org/release/3ac5a1f8-51d0-3db3-bfdc-c5803d8f2799/14207788461-500.jpg" data-tags="progressive rock, psychedelic rock, 60s, soundtrack" role="button">
 Pink Floyd - More (1969-06-13)
 </li>
+<li data-cover="https://img.discogs.com/mVBeuas1TPmxCxdFlblvU9VHdww=/fit-in/600x568/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16180998-1605970515-8344.jpeg.jpg" data-tags="soundtrack" role="button">
+Ennio Morricone - Once Upon a Time in the West (1970)
+</li>
 <li data-cover="https://img.discogs.com/q6XwdY197YGTMsvdFkDHumI5Eak=/fit-in/358x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903097-1251310171.jpeg.jpg" data-tags="soundtrack, soul, funk" role="button">
 Isaac Hayes - Shaft (1971-07-02)
 </li>
@@ -47,9 +50,6 @@ Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
-</li>
-<li data-cover="https://img.discogs.com/OmsxWs4-CmOFOsnpZDOij0PBi2Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754595-1377707976-4707.jpeg.jpg" data-tags="soundtrack" role="button">
-Queen - Flash Gordon (1980-12-08)
 </li>
 <li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
 Basil Poledouris - Conan the Barbarian (1982)
@@ -65,9 +65,6 @@ Queen - A Kind Of Magic (1986-06-02)
 </li>
 <li data-cover="https://img.discogs.com/F654PH-V0T2HKRiFwpsL4eyYF2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182988-1162275487.jpeg.jpg" data-tags="soundtrack, miami vice" role="button">
 Jan Hammer - Escape From Television (1987)
-</li>
-<li data-cover="http://coverartarchive.org/release/256007d2-4ac6-45ba-8053-e3e497cfd66c/2839903465-500.jpg" data-tags="soundtrack" role="button">
-Prince - Batman (1989-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/653617f7-c764-4f52-a4ba-e6a130a6c87d/5409164245-500.jpg" data-tags="twin peaks, dream pop" role="button">
 Julee Cruise - Floating into the Night (1989-09-12)
@@ -89,6 +86,9 @@ Vangelis - Blade Runner (1993-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bf88b0f-9999-4a7f-b4be-cd7f9e2a8599/28293994702-500.jpg" data-tags="soundtrack, piano" role="button">
 Michael Nyman - The Piano (1993-12-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfdabaeb-c1c8-4f73-8d4e-1c83e1a7057f/12666505545-500.jpg" data-tags="soundtrack" role="button">
+James Horner - Legends of the Fall (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/adccd851-a871-4f32-997d-2b19819b16d2/14178336019-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Pulp Fiction (1994-09-27)
@@ -135,6 +135,9 @@ Michael Andrews - Donnie Darko (2001)
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
+<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack, covers" role="button">
+Various Artists - I Am Sam (2001)
+</li>
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
@@ -152,6 +155,9 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="soundtrack" role="button">
 Badly Drawn Boy - About a Boy (2002-04-08)
+</li>
+<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack" role="button">
+Various Artists - 8 Mile (2002-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
@@ -180,7 +186,7 @@ Various Artists - Lost in Translation (2003-09-09)
 <li data-cover="https://img.discogs.com/1p0S0i7CoUBZT7Iv7NiRs03R29U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8116076-1455457650-7461.jpeg.jpg" data-tags="experimental" role="button">
 Jonny Greenwood - Bodysong (2003-10-27)
 </li>
-<li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="2003, soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
+<li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/38bbd5dc-b26c-49ea-96d5-7a39be22776b/21076376416-500.jpg" data-tags="soundtrack" role="button">
@@ -194,9 +200,6 @@ Counting Crows - Accidentally In Love (2004-01-01)
 </li>
 <li data-cover="https://img.discogs.com/H5Fl6i75kvP3PVId2ZOKtedunCs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13692055-1559136400-9381.jpeg.jpg" data-tags="soundtrack" role="button">
 Jon Brion - Eternal Sunshine of the Spotless Mind (2004-03-16)
-</li>
-<li data-cover="https://img.discogs.com/taIy7Oii-_uBKwT_4AEEiYiKP3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3928109-1349801224-8323.jpeg.jpg" data-tags="soundtrack, harry potter" role="button">
-John Williams - Harry Potter and the Prisoner of Azkaban (2004-05-25)
 </li>
 <li data-cover="https://img.discogs.com/Z6aX9VIjM95v_om-rchATZmxrP0=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9517332-1482011560-9180.jpeg.jpg" data-tags="soundtrack" role="button">
 Harry Gregson-Williams - Kingdom of Heaven (2005-04-26)
@@ -227,9 +230,6 @@ Hans Zimmer - Pirates of the Caribbean: At World's End (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/38102be2-fb5d-4dca-bae3-e9586c5bb8a9/9163744995-500.jpg" data-tags="soundtrack" role="button">
 John Powell - The Bourne Ultimatum (2007-07-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/15ad26f8-465a-37e2-b201-f8fd1d5fa48b/19388240200-500.jpg" data-tags="hard rock" role="button">
-Sixx:A.M. - The Heroin Diaries Soundtrack (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/683bf534-5ce1-4818-be2d-38ddcd864eb3/7196832280-500.jpg" data-tags="soundtrack" role="button">
 Eddie Vedder - Into the Wild (2007-09-14)

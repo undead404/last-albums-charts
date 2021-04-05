@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:16:01.205Z
+date: 2021-04-05T05:57:01.428Z
 title: "haunting: 100 albums you must listen to before you die"
 ---
 ![The Antlers - Hospice (2009-03-03)](https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg "The Antlers - Hospice (2009-03-03)")
@@ -36,7 +36,7 @@ Miles Davis - On the Corner (1972-10-11)
 <li data-cover="https://img.discogs.com/1Zujvro9LZft-woUrC-PoE5GNDE=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789775-1300432434.jpeg.jpg" data-tags="krautrock, ambient" role="button">
 Popol Vuh - Aguirre (1975)
 </li>
-<li data-cover="https://img.discogs.com/i22fEG2WXem-o8r1008ZDc6kOMI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8834944-1469771356-9484.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
+<li data-cover="https://img.discogs.com/e_SslAmovhsXK1DpjlHEoktdC5Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081136-1192439541.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
 The Birthday Party - Mutiny (1983-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
@@ -72,9 +72,6 @@ Tori Amos - Boys for Pele (1996-01-16)
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
-<li data-cover="https://img.discogs.com/6bXq_6w2NfZNJ0O0_pAAgQAsYWg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7079643-1433225094-8678.jpeg.jpg" data-tags="rasputina, gothic" role="button">
-Rasputina - Thanks For The Ether (1996-08-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/ceab4f42-e973-470d-bc83-12ca82166581/2705249174-500.jpg" data-tags="progressive rock, psychedelic, space rock" role="button">
 Ozric Tentacles - Curious Corn (1997-05-01)
 </li>
@@ -90,7 +87,7 @@ Cat Power - Moon Pix (1998-09-22)
 <li data-cover="http://coverartarchive.org/release/c2b99ec3-2761-4874-bd22-8890ef358119/3128751725-500.jpg" data-tags="soundtrack, post-hardcore" role="button">
 Fugazi - Instrument Soundtrack (1999-03-23)
 </li>
-<li data-cover="https://img.discogs.com/-Vw93pOaGOJjU1QjZY1hcQ2EB3E=/fit-in/444x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2023073-1284578470.jpeg.jpg" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/4t-j7R8w-Ul0JuSuJpKRI8b-LCw=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2877410-1305265586.jpeg.jpg" data-tags="ambient" role="button">
 David Sylvian - Dead Bees on a Cake (1999-03-29)
 </li>
 <li data-cover="https://img.discogs.com/aX3zG8n5AQQA-8vAyRHX4qrULOQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182949-1447010819-2515.jpeg.jpg" data-tags="pop, haunting, vacuum, good times, kitty5, vacuum - culture of night" role="button">
@@ -144,11 +141,8 @@ Chris Clark - Empty the Bones of You (2003-08-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="romantic, haunting, nostalgic, dramatic, j-rock, visual kei, batcave music, vampy goodness" role="button">
 D - Paradox (2004-01-07)
 </li>
-<li data-cover="https://img.discogs.com/FF4OGff43bOjMQju5WmohNErIGU=/fit-in/569x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-722178-1343770982-7506.jpeg.jpg" data-tags="icelandic" role="button">
+<li data-cover="https://img.discogs.com/2HrWnELsHmxmzpK3FkVmM7XdAs8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13597506-1557222451-7908.jpeg.jpg" data-tags="icelandic" role="button">
 Sigur Rós - Ba Ba Ti Ki Di Do (2004-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb36ae6a-88dd-45d7-8e3f-46706708d220/1644198280-500.jpg" data-tags="black metal" role="button">
-Xasthur - Telepathic With the Deceased (2004-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d13fd35-fbdb-4184-a8e4-83d8e5a2806a/5034520916-500.jpg" data-tags="indie, lo-fi" role="button">
 Midlake - Bamnan and Slivercork (2004-06-08)
@@ -203,6 +197,9 @@ Lisa Gerrard - The Silver Tree (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f3ad312-7440-4490-956f-a7606ae03175/2121742544-500.jpg" data-tags="ambient, new age, relaxing" role="button">
 Celestial Aeon Project - Aeon (2006-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/f6870af9-8d28-4153-8adf-22fed99fde25/1238446256-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Mariee Sioux - Faces In The Rocks (2007)
 </li>
 <li data-cover="https://img.discogs.com/eDmhlAx369Pg66-8PjteCcGQ-HI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1857909-1248242287.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 The Battle of Land and Sea - The Battle of Land and Sea (2007-01-01)
@@ -305,6 +302,9 @@ HTRK - Work (Work, Work) (2011-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ce3a448-728b-4b55-ac66-00ff6bbc7bde/5228097583-500.jpg" data-tags="indie, folk" role="button">
+Laura Gibson - La Grande (2012-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)

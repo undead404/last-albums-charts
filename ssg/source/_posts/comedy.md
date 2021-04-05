@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:12:01.296Z
+date: 2021-04-05T06:06:01.300Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -96,11 +96,11 @@ Jack Off Jill - Sexless Demons and Scars (1997-09-09)
 <li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
-<li data-cover="https://img.discogs.com/lkyVwhjRCNPtZksCjxDlGInGpVk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055910-1521855719-7213.jpeg.jpg" data-tags="comedy, stand-up" role="button">
-Eddie Izzard - Glorious (1997-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/0052d858-ec26-48cd-bc52-0ddd9dd275fb/24397212007-500.jpg" data-tags="comedy, humor" role="button">
 Denis Leary - Lock 'N Load (1997-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a860bab-cacf-4809-bb8c-7cdb5a8e4c08/3772985033-500.jpg" data-tags="comedy, stand up, stand-up comedy" role="button">
+Jerry Seinfeld - I'm Telling You for the Last Time (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a362876-84a2-4e96-b941-a1d1dd118445/16203893118-500.jpg" data-tags="comedy" role="button">
 Mitch Hedberg - Strategic Grill Locations (1999)
@@ -158,6 +158,9 @@ Jim Gaffigan - Doing My Time (2004-12-07)
 </li>
 <li data-cover="https://img.discogs.com/p8_cLCOZTh4qyzbyLYxSmBIJSRs=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2351207-1278866751.jpeg.jpg" data-tags="alternative, rock, comedy" role="button">
 Bloodhound Gang - Hefty Fine (2005-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/1cc0d5d5-794e-408e-b6ec-23489f206d40/3430234580-500.jpg" data-tags="jazz, lounge, comedy" role="button">
+Richard Cheese - Aperitif for Destruction (2005-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0b0e961-6a14-4538-99d4-a10ad29017f5/8093681591-500.jpg" data-tags="comedy" role="button">
 Dane Cook - Retaliation (2005-07-26)
@@ -242,9 +245,6 @@ Flight of the Conchords - I Told You I Was Freaky (2009-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/65a811b8-8b98-4642-8f25-48586fa93b10/8138480397-500.jpg" data-tags="experimental, dream pop, electronic, darkwave" role="button">
 Grimes - Geidi Primes (2010-01-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/50bab0df-1762-49d2-b766-f6b20b63394c/3225570861-500.jpg" data-tags="metal, comedy, stand-up comedy, allmusicb, allmusicp" role="button">
-Brian Posehn - Fart and Wiener Jokes (2010-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f9c1e69-ea54-401c-9157-55366794af2a/7940878656-500.jpg" data-tags="comedy" role="button">
 Hannibal Buress - My Name is Hannibal (2010-07-27)
