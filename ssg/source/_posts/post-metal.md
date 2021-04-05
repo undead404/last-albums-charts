@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:05:01.389Z
+date: 2021-04-05T01:16:01.300Z
 title: "post-metal: 100 albums you must listen to before you die"
 ---
 ![Isis - Panopticon (2004-10-19)](http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg "Isis - Panopticon (2004-10-19)")
@@ -165,7 +165,7 @@ Rosetta - Wake/Lift (2007-10-02)
 <li data-cover="http://coverartarchive.org/release/b06ee261-544b-49ff-acbb-d357b03523c6/16533782366-500.jpg" data-tags="progressive metal, sludge" role="button">
 The Ocean - Precambrian (2007-11-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, instrumental" role="button">
+<li data-cover="https://img.discogs.com/WeMm4fW-DXjuCRJ7rbJgEVB51UI=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358916-1532781976-1391.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
 Russian Circles - Station (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aee5913-07fe-42dd-bd31-e9170fe6b631/20484635852-500.jpg" data-tags="post-metal, sludge, post-hardcore" role="button">
@@ -198,9 +198,6 @@ Callisto - Providence (2009-02-18)
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/508cd265-21f1-4e9c-a995-ecc620bbd53f/2663399057-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
-Altar of Plagues - White Tomb (2009-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
 Isis - Wavering Radiant (2009-04-21)
 </li>
@@ -216,7 +213,7 @@ Jesu - Infinity (2009-07)
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/A6IZatfSjgXpd9quXV2Rds5oL5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2218780-1270510016.jpeg.jpg" data-tags="post-rock" role="button">
 Pelican - What We All Come To Need (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae532ee3-e084-34cb-a3ca-9e2d97f0c4d5/20106337426-500.jpg" data-tags="sludge, post-metal" role="button">
@@ -251,6 +248,9 @@ The Ocean - Anthropocentric (2010-11-09)
 </li>
 <li data-cover="https://img.discogs.com/GR2-kdW4iRzgKcL04flPhTNynbM=/fit-in/400x401/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546882-1289843562.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Underoath - Ø (Disambiguation) (2010-11-09)
+</li>
+<li data-cover="https://img.discogs.com/OXlq4ZPsy0aS_pTXqm9JNw27K1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783932-1486678149-1140.jpeg.jpg" data-tags="post-metal" role="button">
+Light Bearer - Lapsus (2011-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee4093b1-28e1-4482-875b-266ffc458b60/1118766922-500.jpg" data-tags="post-rock, post-metal" role="button">
 Exxasens - Eleven Miles (2011-09-11)

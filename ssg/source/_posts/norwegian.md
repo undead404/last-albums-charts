@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:12:01.272Z
+date: 2021-04-05T01:39:01.285Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -30,7 +30,7 @@ a-ha - Hunting High and Low (1985-06-01)
 <li data-cover="http://coverartarchive.org/release/9271a6e7-d4e1-4c51-bce0-1277884214e3/23308406235-500.jpg" data-tags="a-ha" role="button">
 a-ha - East of the Sun West of the Moon (1990-10-12)
 </li>
-<li data-cover="https://img.discogs.com/dVolqH38Ke4APwcbCnBOFwS6p9U=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944511-1193264332.jpeg.jpg" data-tags="pop, alternative rock, norwegian" role="button">
+<li data-cover="https://img.discogs.com/O6Ym0fnt2rWQqjw3WiOffIoii6Y=/fit-in/553x867/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4453585-1530635226-8797.jpeg.jpg" data-tags="pop, alternative rock, norwegian" role="button">
 a-ha - Memorial Beach (1993-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b69e215e-cf17-4624-afe2-01fe2cad4428/4820147028-500.jpg" data-tags="metal, rock, norwegian, classic albums, bleak, skandinavisch, bra album, dice-throw: six" role="button">
@@ -81,9 +81,6 @@ M2M - Shades of Purple (2000-02-03)
 <li data-cover="https://img.discogs.com/sny9r4IKs2i7rmUkAlLbEHqXY9I=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15935169-1600498389-9149.jpeg.jpg" data-tags="80s, pop rock 80" role="button">
 a-ha - Minor Earth | Major Sky (2000-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/419228fc-d6a4-4b24-b6bb-9315d0727abd/6436913950-500.jpg" data-tags="female vocalists, female jazz vocalists, jazz" role="button">
-Silje Nergaard - At First Light (2001)
-</li>
 <li data-cover="https://img.discogs.com/lsz4cKVgVZ2Y5vbRL35Nv2_vGoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9784862-1526804148-7507.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">
 Kings of Convenience - Quiet Is the New Loud (2001-01-29)
 </li>
@@ -96,7 +93,7 @@ Dimmu Borgir - Puritanical Euphoric Misanthropia (2001-03-12)
 <li data-cover="https://img.discogs.com/ogQUwoOas8jPx7n8UFd0C56zMkw=/fit-in/550x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6852765-1428604389-3025.jpeg.jpg" data-tags="jazz, ninja tune" role="button">
 Jaga Jazzist - A Livingroom Hush (2001-05-21)
 </li>
-<li data-cover="https://img.discogs.com/QtrKyHBzq9WNVp2DsA78gMXg1l4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62522-1568473794-5514.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
+<li data-cover="https://img.discogs.com/3nNMhEKDr8xPmDbod7m5_GHcpmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-167971-1302447497.jpeg.jpg" data-tags="electronica, royksopp eple" role="button">
 Röyksopp - Eple (2001-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b6186a-845d-4b39-be26-e2c5ef762fb5/14681498497-500.jpg" data-tags="norwegian, ompa" role="button">
@@ -180,6 +177,9 @@ Ane Brun - A Temporary Dive (2005-02-07)
 <li data-cover="https://img.discogs.com/pHUFbZBvlkPBGXTbAOaaxOt9eyU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1041657-1517381113-4147.jpeg.jpg" data-tags="rock, alternative rock, 00s" role="button">
 Madrugada - The Deep End (2005-02-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/251009a7-5aef-4dae-8ae9-01835f29dc58/18362230912-500.jpg" data-tags="new rave, electronic, datarock" role="button">
+Datarock - Datarock Datarock (2005-04-04)
+</li>
 <li data-cover="https://img.discogs.com/-YyqUn8QvswZvDVFekN-UgZRsuk=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432799-1533497663-5552.jpeg.jpg" data-tags="jazz, post-rock" role="button">
 Jaga Jazzist - What We Must (2005-04-04)
 </li>
@@ -207,7 +207,7 @@ a-ha - Analogue (2005-10-31)
 <li data-cover="https://img.discogs.com/gTjcrtsEnKBE2Zf0MRXul-XVkZY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2722132-1298100377.jpeg.jpg" data-tags="pop" role="button">
 Maria Mena - Apparently Unaffected (2005-11-14)
 </li>
-<li data-cover="https://img.discogs.com/MUumR8qjnx5I3u-Cbrj7FijELMQ=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-485126-1337177339-9006.jpeg.jpg" data-tags="downtempo" role="button">
+<li data-cover="https://img.discogs.com/F6ELpm4D0TSO_HlumF4uup4lhmk=/fit-in/594x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-700964-1268167968.jpeg.jpg" data-tags="downtempo" role="button">
 Röyksopp - Beautiful Day Without You (2006-03)
 </li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
