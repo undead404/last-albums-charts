@@ -1,13 +1,13 @@
 ---
-date: 2021-04-05T07:58:01.359Z
+date: 2021-04-05T09:51:06.803Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">Bob Dylan - Bringing It All Back Home (1965-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg" data-tags="folk rock, folk" role="button">Bob Dylan - Blonde on Blonde (1966-05-16)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, 60s, glam rock" role="button">David Bowie - Space Oddity (1969-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">Bob Dylan - Desire (1976-01-05)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">Bob Dylan - Highway 61 Revisited (1995)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">Mumford & Sons - Babel (2012-09-13)</li>
@@ -36,11 +36,11 @@ Simon & Garfunkel - Sounds of Silence (1966-01-17)
 <li data-cover="http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg" data-tags="folk rock, folk" role="button">
 Bob Dylan - Blonde on Blonde (1966-05-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk rock, 60s" role="button">
-The Byrds - Fifth Dimension (1966-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/de8b370c-711c-432b-8032-eb94b5d5757f/7469535323-500.jpg" data-tags="folk rock, 60s" role="button">
 Simon & Garfunkel - Parsley, Sage, Rosemary And Thyme (1966-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fad07f2-1535-39e3-b9d0-29b53b35de86/12085663222-500.jpg" data-tags="folk, 60s, folk rock" role="button">
+Tim Buckley - Goodbye and Hello (1967-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc80e529-7e82-4c85-896d-5b182e5e1c9f/7472772380-500.jpg" data-tags="folk" role="button">
 Bob Dylan - John Wesley Harding (1967-12-27)
@@ -96,6 +96,9 @@ Buffalo Springfield - Buffalo Springfield (1973-11-12)
 <li data-cover="https://img.discogs.com/r-MIHpJTdzNf_7CGO5ATqLzzbXo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2935178-1606097219-6523.jpeg.jpg" data-tags="70s, folk, folk rock, classic rock, singer-songwriter" role="button">
 Bob Dylan - Dylan (1973-11-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
+Neil Young - On the Beach (1974-07-19)
+</li>
 <li data-cover="https://img.discogs.com/CYW6Y317xlXq4ziqGYF1R4xOfFk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8980958-1498015910-8188.jpeg.jpg" data-tags="folk" role="button">
 Bob Dylan - Blood on the Tracks (1975-01-20)
 </li>
@@ -111,11 +114,11 @@ Neil Young - Harvest Moon (1992-10-27)
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">
 Jeff Buckley - Grace (1994-08-15)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">
+Bob Dylan - Highway 61 Revisited (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
-Mazzy Star - Among My Swan (1996-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cef41ad3-9604-476f-8449-907e4a39072a/18916427598-500.jpg" data-tags="folk rock, folk, medieval" role="button">
 Blackmore's Night - Shadow Of The Moon (1997-04-23)
@@ -251,9 +254,6 @@ Frank Turner - England Keep My Bones (2011-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)
-</li>
-<li data-cover="https://img.discogs.com/uj1y6oFjiTNsCVha0VswmeaN-6M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12942733-1545003522-4167.jpeg.jpg" data-tags="soft rock, folk rock, 2010s, soft rock revival" role="button">
-Dawes - Nothing Is Wrong (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7efc496-d268-4eb5-8cf9-02b3c07de04a/3502908841-500.jpg" data-tags="australian, folk rock" role="button">
 Boy & Bear - Moonfire (2011-08-05)

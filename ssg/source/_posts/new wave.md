@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:24:01.595Z
+date: 2021-04-05T10:00:01.350Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -58,13 +58,13 @@ The B-52's - The B-52's (1979-07-12)
 Talking Heads - Fear of Music (1979-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
-XTC - Drums And Wires (1979-08-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Gary Numan - The Pleasure Principle (1979-09-07)
 </li>
-<li data-cover="https://img.discogs.com/U2nZ8iSH36bCCN6lvbTeeRi4tLk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5740095-1401357060-1280.jpeg.jpg" data-tags="rock, new wave, classic rock" role="button">
+<li data-cover="https://img.discogs.com/k-QwkREeQewXLVcGgVKoWyYvokk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7544260-1486822877-2868.jpeg.jpg" data-tags="rock, new wave, classic rock" role="button">
 The Police - Reggatta De Blanc (1979-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
+Buggles - The Age of Plastic (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/710f4e35-a355-45ba-b61f-2a969ff8e870/12483197648-500.jpg" data-tags="post-punk" role="button">
 The Cure - Seventeen Seconds (1980-04-22)
@@ -99,7 +99,7 @@ Joy Division - Still (1981-10-08)
 <li data-cover="http://coverartarchive.org/release/32dbc785-9a03-4603-9a77-930332a4334c/8018255801-500.jpg" data-tags="new wave, 80s" role="button">
 The Human League - Dare! (1981-10-16)
 </li>
-<li data-cover="https://img.discogs.com/_HCeQlTaMB12MISn_0Ct3y7xXHw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564813-1368600329-9036.png.jpg" data-tags="80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/ckqT9HtX76T70w2B4kNcts20Gig=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1543566-1395412068-9914.jpeg.jpg" data-tags="80s, new wave" role="button">
 Blondie - The Best of Blondie (1981-10-31)
 </li>
 <li data-cover="https://img.discogs.com/_W4tJSA3wZL_2eKIS2PwpID40ZE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605541-1438207160-6998.jpeg.jpg" data-tags="80s, new wave, synthpop" role="button">
@@ -192,7 +192,7 @@ The Cure - The Head on the Door (1985-08-13)
 <li data-cover="http://coverartarchive.org/release/053fc4d5-34e8-4757-9e16-29c91b36253b/23804216681-500.jpg" data-tags="80s, new wave, art pop" role="button">
 Talk Talk - The Colour of Spring (1986-03)
 </li>
-<li data-cover="https://img.discogs.com/GROXvyXYNKr5uIydjfWHzA2oLZg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448007-1336127526.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/vn3oqwAIyPBmRz-wFXXrgAb9N04=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442377-1287321146.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
 Depeche Mode - Black Celebration (1986-03-17)
 </li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
@@ -285,7 +285,7 @@ Neon Trees - Habits (2010-03-16)
 <li data-cover="http://coverartarchive.org/release/5ce79023-6a71-4a92-bf65-eaa6213c4944/8377341613-500.jpg" data-tags="new wave" role="button">
 Future Islands - In Evening Air (2010-05-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/fjkqLjXigy3tZo2ZAyynt2QXjj0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13360887-1552756400-8491.png.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">

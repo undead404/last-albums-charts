@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T09:42:01.349Z
+date: 2021-04-05T10:27:01.433Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -279,14 +279,14 @@ Pink Floyd - The Division Bell (1994-03-28)
 <li data-cover="http://coverartarchive.org/release/29a89b27-ee52-4e84-a411-8b3ae971673d/5262713591-500.jpg" data-tags="eric clapton, blues rock" role="button">
 Eric Clapton - The Cream of Clapton (1994-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e78b3da-31a3-4d3c-b739-9e77c4d7e1f5/26696625551-500.jpg" data-tags="rock" role="button">
-Bon Jovi - Cross Road (1994-10-04)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, eagles" role="button">
 Eagles - Hell Freezes Over (1994-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">
 Bob Dylan - Highway 61 Revisited (1995)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
+Eagles - Hotel California (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a/2959937821-500.jpg" data-tags="rock, classic rock" role="button">
 Bruce Springsteen - Greatest Hits (1995-02-10)

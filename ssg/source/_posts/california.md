@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:34:01.302Z
+date: 2021-04-05T09:50:01.451Z
 title: "california: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
@@ -45,6 +45,9 @@ Raul Seixas - O Dia Em Que a Terra Parou (1977)
 <li data-cover="http://coverartarchive.org/release/c5b897cd-1802-48ac-abae-b212695afba0/22190937325-500.jpg" data-tags="classic rock" role="button">
 Dire Straits - Sultans of Swing (1978)
 </li>
+<li data-cover="http://coverartarchive.org/release/5345137c-dc6e-4d56-9bf8-19d270c27155/2823550916-500.jpg" data-tags="80s" role="button">
+Buggles - The Age of Plastic (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/36a69014-a603-4ee8-abd0-075b3ad8855d/18781130799-500.jpg" data-tags="rita lee" role="button">
 Rita Lee - Rita Lee (1980-09-25)
 </li>
@@ -60,7 +63,7 @@ Rockwell - Somebody's Watching Me (1983)
 <li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
 Billy Joel - An Innocent Man (1983-08-08)
 </li>
-<li data-cover="https://img.discogs.com/wTV7SYtF-NvC28hD6nq5wahfBZw=/fit-in/600x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3170921-1367356730-6349.jpeg.jpg" data-tags="80s, soul" role="button">
+<li data-cover="https://img.discogs.com/QVCd8u3VpGVbSvcpayiy0t4N404=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5678154-1399693332-3593.jpeg.jpg" data-tags="80s, soul" role="button">
 Lionel Richie - Can't Slow Down (1983-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/9dad3316-e757-3f5f-88ee-84d7669d3b26/6512716541-500.jpg" data-tags="rock, 80s, folk" role="button">
@@ -83,9 +86,6 @@ Camper Van Beethoven - Telephone Free Landslide Victory (1985)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 The Doors - The Best of The Doors (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a372387-0df6-4da5-9e00-377790951e02/5899844777-500.jpg" data-tags="pop, 80s" role="button">
-Elton John - Ice On Fire (1985-11-04)
 </li>
 <li data-cover="https://img.discogs.com/zKCb9xAzpedn5mQGxfjhabqseTw=/fit-in/594x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-67833-1388458136-4441.jpeg.jpg" data-tags="california" role="button">
 Sigue Sigue Sputnik - Flaunt It (1986)
@@ -114,7 +114,7 @@ Patrick Hernandez - Born to Be Alive (1992-08-31)
 <li data-cover="https://img.discogs.com/8P9WGBkmZ8h_a1QjaUMpnKl6YUg=/fit-in/581x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7991437-1453060515-6491.jpeg.jpg" data-tags="rock, brazilian, rock nacional, engenheiros do hawaii" role="button">
 Engenheiros Do Hawaii - Filmes de guerra, canções de amor (1993)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, oldies, california, brazilian, aleister crowley, oi, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
+<li data-cover="https://img.discogs.com/PgNgJ8pTzKKtaRNkw8QQQ0-L02M=/fit-in/491x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8024109-1453669525-7005.jpeg.jpg" data-tags="rock, oldies, california, brazilian, aleister crowley, oi, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
 Raul Seixas - Maluco Beleza (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/e32208b3-dec0-4218-95b4-f3c200ea4146/25028213306-500.jpg" data-tags="rock, billy joel - river dreams" role="button">
@@ -132,7 +132,7 @@ The Mountain Goats - Zopilote Machine (1994-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="california, r, aleister crowley, italiana, christopher lee, italiani, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
+<li data-cover="https://img.discogs.com/cO_Su6PKOIDwgyH_jmoavs4X5II=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9310556-1478373645-5881.jpeg.jpg" data-tags="california, r, aleister crowley, italiana, christopher lee, italiani, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
 Gianluca Grignani - Destinazione Paradiso (1995-02-24)
 </li>
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
@@ -165,7 +165,7 @@ Legião Urbana - Mais Do Mesmo (1998-03)
 <li data-cover="http://coverartarchive.org/release/918f15b6-00b5-3611-ab8f-0e87a79139d8/2727366195-500.jpg" data-tags="alternative hip hop, hip-hop" role="button">
 Jurassic 5 - Jurassic 5 LP (1998-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
+<li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
 Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac46568e-7818-4351-8d8a-a59ce427e636/21974963842-500.jpg" data-tags="post-rock" role="button">
@@ -195,7 +195,7 @@ Slightly Stoopid - Everything You Need (2003-03-18)
 <li data-cover="http://coverartarchive.org/release/0d0bd3d3-7c03-4a1d-a67a-198d6e1c08cf/3374974591-500.jpg" data-tags="ska" role="button">
 The Real McKenzies - Oot & Aboot (2003-05-20)
 </li>
-<li data-cover="https://img.discogs.com/47iechr2cQcRBiTF3kI0vStxk_s=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3532330-1334154973.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/y9vdMvfbQ15Co3EgaNgbM6xiXec=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772466-1157211587.jpeg.jpg" data-tags="trip-hop" role="button">
 Karmacoda - Evidence (2003-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e441d80-ca54-35eb-b3df-42095796aff1/3880014705-500.jpg" data-tags="80s, synthpop" role="button">
@@ -240,7 +240,7 @@ Weezer - Make Believe (2005-05-09)
 <li data-cover="http://coverartarchive.org/release/cd297b59-fd00-4c18-b03a-f130d2d64dff/18507685272-500.jpg" data-tags="indie, indie rock" role="button">
 Rogue Wave - Descended Like Vultures (2005-10-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
+<li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/abc685a8-6339-4b71-bd30-1fb9b4b48ae1/2203270543-500.jpg" data-tags="chill, reggae, surf, summer, california, beach, reggae-rock, bally, happy music for work" role="button">
