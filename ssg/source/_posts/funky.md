@@ -1,19 +1,19 @@
 ---
-date: 2021-04-05T11:57:01.324Z
+date: 2021-04-05T20:47:01.381Z
 title: "funky: 100 albums you must listen to before you die"
 ---
-![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
+![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">Jamiroquai - The Return Of The Space Cowboy (1994-10-17)</li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">Jamiroquai - Travelling Without Moving (1996-09-09)</li>
+<li data-cover="http://coverartarchive.org/release/43874469-e28e-4f7f-94fa-f99e4017bbf1/17944378972-500.jpg" data-tags="easy listening, funky, silly, geffen records, albums to listen to" role="button">Rupert Holmes - Partners In Crime (1979)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - A Funk Odyssey (2001-08-29)</li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">Paolo Nutini - These Streets (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">Kelly Rowland - Work (2008-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/c9003d52-4214-422d-a0a2-4343fe9e75e0/6164086297-500.jpg" data-tags="classic rock, pop, rock, 80s, funky, breakbeat, underground" role="button">Gossip - Heavy Cross (2009-06-05)</li>
 <li data-cover="https://img.discogs.com/98tNSm3zZhZn4UAGlv68_EoCTck=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057953-1261415919.png.jpg" data-tags="indie, rock, soul, indie rock, american, funky, need to ch-ch-check out" role="button">Generationals - Con Law (2009-07-21)</li>
-<li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
+<li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">Duck Sauce - Barbra Streisand (2010-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
+<li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, sex, neo soul, soul revival" role="button">Mayer Hawthorne - How Do You Do (2011-10-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -27,6 +27,9 @@ Miriam Makeba - Pata Pata (1967)
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/dc689536-49ad-32bd-97ba-975643b46e38/9667967278-500.jpg" data-tags="new orleans, rhythm and blues" role="button">
+Dr. John - In the Right Place (1973-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
 </li>
@@ -39,7 +42,7 @@ Rupert Holmes - Partners In Crime (1979)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
 </li>
-<li data-cover="https://img.discogs.com/wqTkBm7nyv0Jjd9K8-lFG4c2Thk=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694470-1520581573-8313.jpeg.jpg" data-tags="hip-hop, 90s" role="button">
+<li data-cover="https://img.discogs.com/m15oz1ykPo5UrmHUY_7AmCna-u0=/fit-in/178x178/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-582885-1216830321.jpeg.jpg" data-tags="hip-hop, 90s" role="button">
 Beastie Boys - Check Your Head (1992-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
@@ -48,20 +51,14 @@ Beastie Boys - Check Your Head (1992-04-21)
 <li data-cover="http://coverartarchive.org/release/a9bc984c-c725-4fc7-8864-7835b7bc255b/9576050460-500.jpg" data-tags="mellow" role="button">
 G. Love & Special Sauce - G. Love & Special Sauce (1994-05-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
-Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/599d1dcd-bb96-4802-91c4-f7afcb0143e1/9742630617-500.jpg" data-tags="90s, rock" role="button">
 Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
 </li>
-<li data-cover="https://img.discogs.com/gEhw9pey67pqM2oLZpQJD51Kf7I=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15824468-1598470865-3517.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
-Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
@@ -72,8 +69,8 @@ John Scofield - A Go Go (1998-03-18)
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/87981701-cc00-3c5c-af07-00050c115435/24559007750-500.jpg" data-tags="hip-hop, funk, underground hip-hop, funk-hop" role="button">
-Blackalicious - A2G EP (1999-10-26)
+<li data-cover="http://coverartarchive.org/release/73776da1-4a89-40cc-b679-f5ba786554e3/1394757653-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, 90s, funky, groovy, italian, jecks, italian rock, mycds, drivethruelvis knows this, drivethruelvis at 17, hotel pop, original cds" role="button">
+Afterhours - Non È Per Sempre (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/3647baa2-ca82-4df1-b760-b3486584b8ea/3082033572-500.jpg" data-tags="soul" role="button">
 Bill Withers - The Best Of Bill Withers: Lean On Me (2000-05-30)
@@ -96,7 +93,7 @@ Ms. Dynamite - A Little Deeper (2002-06-10)
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
 </li>
-<li data-cover="https://img.discogs.com/ozz0utlOa_aaOwpUNG8dyC34TCQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6225377-1414166523-8650.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/Vi6DJF26ppyF1Rn0nbMhw_KJuhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2014627-1258618585.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Will Smith - Greatest Hits (2002-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a8e12-f21a-47bd-992a-cd3ad8cf44fb/19991255154-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jecks" role="button">
@@ -128,6 +125,9 @@ Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bcf401a-cc47-3dcb-b4e6-0d03db5016f4/11671958921-500.jpg" data-tags="downtempo" role="button">
 Diplo - Florida (2004-08-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul, funky" role="button">
+Nostalgia 77 - Seven Nation Army EP (2004-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
 Amos Lee - Amos Lee (2005-01-01)
@@ -186,6 +186,9 @@ Gogol Bordello - Super Taranta! (2007-07-09)
 <li data-cover="https://img.discogs.com/J3QelBBCQzUMTyfU6BitSs6CaO8=/fit-in/320x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1523150-1283957985.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Black Kids - Wizard of Ahhhs (2007-08-11)
 </li>
+<li data-cover="https://img.discogs.com/Ekhpoc-K1J5POmMeD1yq68TTTCA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681569-1236768592.jpeg.jpg" data-tags="soul, vocal jazz, acid jazz, lounge, jazz fusion, funky, sun, post-jazz, indie jazz, soul vocal" role="button">
+SunSay - SunSay (2007-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/aea336b8-1c7f-3e9b-9d0b-bec2194f3419/28649007939-500.jpg" data-tags="indie, 00s, heavy rotation" role="button">
 The Go! Team - Proof of Youth (2007-09-10)
 </li>
@@ -239,9 +242,6 @@ Generationals - Con Law (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a513fa8-3fea-4366-a290-b27c9fc5df19/15199998026-500.jpg" data-tags="soul, alternative, indie rock, funky, eternal love" role="button">
 Ramona Falls - Intuit (2009-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
-Wale - Attention Deficit (2009-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/54dcaa7b-fbec-3b9d-845a-542598ff0eed/22997559585-500.jpg" data-tags="hip-hop, trip-hop" role="button">
 RJD2 - The Colossus (2010-01-19)

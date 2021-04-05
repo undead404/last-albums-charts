@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:40:01.350Z
+date: 2021-04-05T20:55:01.429Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -36,6 +36,9 @@ Billy Joel - The Stranger (1977-09-29)
 <li data-cover="http://coverartarchive.org/release/f1da6792-3a6a-4e4c-97fc-fc2477b183ef/2906121265-500.jpg" data-tags="ambient, piano, contemporary classical, cinematic, melancholy, minimalism, melancholic, neoclassical, post-classical, piano ambient, contemporary piano, ambient piano" role="button">
 Harold Budd - Lovely Thunder (1986-10)
 </li>
+<li data-cover="https://img.discogs.com/_aTYiSJ07RfLYrlYmV5po4aVsb4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5522861-1395595380-8890.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
+Philip Glass - Solo Piano (1989-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
 Tori Amos - Little Earthquakes (1992-01-13)
 </li>
@@ -51,6 +54,9 @@ Frédéric Chopin - Chopin (1995)
 <li data-cover="http://coverartarchive.org/release/e701999d-416c-43c2-a369-0f7a13296c86/26825295448-500.jpg" data-tags="90s, piano rock, ben folds" role="button">
 Ben Folds Five - Ben Folds Five (1995-07-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
+Ludovico Einaudi - Le Onde (1996)
+</li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
 </li>
@@ -62,6 +68,9 @@ Ben Folds Five - Whatever and Ever Amen (1997-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2996ae5b-d50c-4278-bf43-9205d1d5f6b0/25001847121-500.jpg" data-tags="alternative, female vocalists, 90s" role="button">
 Tori Amos - From the Choirgirl Hotel (1998-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/96aedd99-3e56-423b-a5d7-b9d813b160fd/9237060116-500.jpg" data-tags="piano" role="button">
+Ludovico Einaudi - Eden Roc (1999)
 </li>
 <li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
@@ -246,9 +255,6 @@ Regina Spektor - Far (2009-06-09)
 <li data-cover="http://coverartarchive.org/release/d1dc2a35-d7c3-3523-97c6-8e452d483b06/3629230950-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical" role="button">
 Nils Frahm - The Bells (2009-06-12)
 </li>
-<li data-cover="https://img.discogs.com/3Vr534L95-Y9u9gnP-aCv6gUaX4=/fit-in/600x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981264-1256500365.jpeg.jpg" data-tags="pop, marit larsen" role="button">
-Marit Larsen - If A Song Could Get Me You (2009-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/d69e9013-4413-4051-92c8-1741b4534259/8127539569-500.jpg" data-tags="jazz" role="button">
 Jamie Cullum - The Pursuit (2009-11-13)
 </li>
@@ -279,9 +285,6 @@ A Winged Victory for the Sullen - A Winged Victory for the Sullen (2011-09-12)
 <li data-cover="http://coverartarchive.org/release/def95a4a-16c7-4c32-bd31-b947222e3be3/2750964464-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano" role="button">
 Nils Frahm - Felt (2011-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d2b9813-5cc3-4408-b222-2a3f5b0768f6/4081358348-500.jpg" data-tags="british, folk" role="button">
-Birdy - Birdy (2011-11-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/56a15cf2-a435-48c9-8fdc-642e24aff561/4237979092-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">
 Ólafur Arnalds - Living Room Songs (2011-12-02)
 </li>
@@ -290,9 +293,6 @@ Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
 Ólafur Arnalds - For Now I Am Winter (2013-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/b157b7a4-32d7-476d-8012-3aaefe1fa6b3/6585909620-500.jpg" data-tags="orange is the new black" role="button">
-Regina Spektor - You've Got Time (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - The Blessed Unrest (2013-07-16)

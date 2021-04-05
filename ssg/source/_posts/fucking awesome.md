@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:31:01.702Z
+date: 2021-04-05T21:10:01.890Z
 title: "fucking awesome: 100 albums you must listen to before you die"
 ---
 ![Rae Sremmurd - SremmLife (2015-01-06)](http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg "Rae Sremmurd - SremmLife (2015-01-06)")
@@ -24,13 +24,13 @@ _________________
 <li data-cover="http://coverartarchive.org/release/eef51645-7e49-40ce-8fb5-f30bfb2b3550/9351995905-500.jpg" data-tags="60s" role="button">
 Scott Walker - Scott 2 (1968-03)
 </li>
-<li data-cover="https://img.discogs.com/DDma9E02mWCtBfM7jwH3_rmnw9U=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1118201-1255427826.jpeg.jpg" data-tags="punk, post-punk, punk rock" role="button">
+<li data-cover="https://img.discogs.com/enB5TE7RTYe377rZ-luhWS3Hick=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130320-1194532058.jpeg.jpg" data-tags="punk, post-punk, punk rock" role="button">
 Wipers - Is This Real? (1979)
 </li>
 <li data-cover="https://img.discogs.com/iB0fNNBO_TLRNphhZXlwhkwJLcE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2661558-1339204912-5434.jpeg.jpg" data-tags="hard rock, glam rock, fucking awesome" role="button">
 Hanoi Rocks - Bangkok Shocks, Saigon Shakes (1981-02)
 </li>
-<li data-cover="https://img.discogs.com/E9yvr2odxxWhcwlOaZdA-DopFVo=/fit-in/472x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955590-1309007655.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/fqAGJPgwOhZR2f6l49pHNdtlY3Q=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3060454-1333002897.jpeg.jpg" data-tags="heavy metal" role="button">
 W.A.S.P. - The Last Command (1985-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/378a58e5-d366-3177-bae7-e63c33c1443b/21974040049-500.jpg" data-tags="industrial, experimental" role="button">
@@ -39,7 +39,7 @@ Coil - Horse Rotorvator (1986)
 <li data-cover="https://via.placeholder.com/450" data-tags="80s, rock, female vocalists" role="button">
 Pat Benatar - Best Shots (1987)
 </li>
-<li data-cover="https://img.discogs.com/8qBCSDglV36CDJIkLUyK-iQvivk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2726323-1416259057-1716.jpeg.jpg" data-tags="alternative, noise rock" role="button">
+<li data-cover="https://img.discogs.com/LfD2ptRiUPbcVVBXvPWBhoyqyk4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1090155-1441697756-2704.jpeg.jpg" data-tags="alternative, noise rock" role="button">
 Butthole Surfers - Hairway to Steven (1988-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6e4aa38-c98e-4c8d-bc62-c722cf59d0b1/26006485918-500.jpg" data-tags="punk" role="button">
@@ -63,7 +63,7 @@ Yo La Tengo - Painful (1993-10-05)
 <li data-cover="http://coverartarchive.org/release/7c861a9d-6bfd-46e4-81a1-00241e1e9a86/26006606993-500.jpg" data-tags="punk rock, punk" role="button">
 Jawbreaker - 24 Hour Revenge Therapy (1994-02-07)
 </li>
-<li data-cover="https://img.discogs.com/fUvhoN_KQqSurSQFDNCkXAKm37s=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4869681-1402460780-3425.jpeg.jpg" data-tags="post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/w13hb973prrSsKGNq2H51WX0D5E=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1140127-1253941957.jpeg.jpg" data-tags="post-hardcore" role="button">
 Unwound - New Plastic Ideas (1994-03-21)
 </li>
 <li data-cover="https://img.discogs.com/OxpKYbrhZ3KHspkh8FSM6GNuFuI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-634565-1247275956.jpeg.jpg" data-tags="indie" role="button">
@@ -83,9 +83,6 @@ Apocalyptica - Plays Metallica By Four Cellos (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
-Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee4e070f-6034-428f-bcc9-3a72ffb3c258/28236313921-500.jpg" data-tags="post-hardcore, fucking awesome" role="button">
 The Dismemberment Plan - The Dismemberment Plan Is Terrified (1997-03-17)
@@ -156,6 +153,9 @@ Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
 <li data-cover="http://coverartarchive.org/release/de811c20-f2b1-395a-a377-6ea2f1aa0ba6/24647170363-500.jpg" data-tags="post-hardcore" role="button">
 Scary Kids Scaring Kids - The City Sleeps in Flames (2005-06-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/42b6f3af-65bb-4ef3-bbdc-32100fcf2ba8/6220268517-500.jpg" data-tags="post-hardcore" role="button">
+Reuben - Very Fast Very Dangerous (2005-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/de92f6d3-8d9a-3152-abdf-f6e723c3d1ac/16839853239-500.jpg" data-tags="hip-hop" role="button">
 DANGERDOOM - The Mouse and the Mask (2005-10-11)
 </li>
@@ -201,7 +201,7 @@ Cut Copy - In Ghost Colours (2008-03-22)
 <li data-cover="http://coverartarchive.org/release/b17e6b10-ae72-4f39-8484-8053401ff764/1452613792-500.jpg" data-tags="progressive metal, stoner rock, doom metal, psychedelic rock, stoner metal, fucking awesome, big, psychedelic doom, new world fair, headbangers ball, soundweave, when we were older and our hair was longer" role="button">
 Ancestors - Neptune With Fire (2008-03-24)
 </li>
-<li data-cover="https://img.discogs.com/hD9UofiC-zy7KZuXdVkXWcZmnNY=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9074291-1474307826-1246.jpeg.jpg" data-tags="power metal" role="button">
+<li data-cover="https://img.discogs.com/dd-8PGu3WmGOeEpchOP_HQCmgZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2066868-1460725068-4281.jpeg.jpg" data-tags="power metal" role="button">
 Revolution Renaissance - New Era (2008-05)
 </li>
 <li data-cover="https://img.discogs.com/RlV03oCuf5K1OsL9Ho8p7sengrY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2111641-1476532495-2662.jpeg.jpg" data-tags="swedish" role="button">
@@ -267,7 +267,7 @@ Cancer Bats - Bears, Mayors, Scraps and Bones (2010-04-12)
 <li data-cover="http://coverartarchive.org/release/4e5a3ea8-a96c-449d-b0ee-cc84e2451f9b/888507385-500.jpg" data-tags="alternative rock" role="button">
 Dead Letter Circus - This Is The Warning (2010-05-14)
 </li>
-<li data-cover="https://img.discogs.com/EEBEgD9jXYisVdgaKEyRhO6_BNc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2468131-1285711948.jpeg.jpg" data-tags="alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/LWh_oQb7EG0KtAKkssoE_AWK1-E=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2752340-1299436862.jpeg.jpg" data-tags="alternative, alternative rock" role="button">
 Jimmy Eat World - Invented (2010-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd47de10-60e8-4e5a-8e23-1a4ad095d122/17260640811-500.jpg" data-tags="experimental, sludge, fucking awesome, post metal" role="button">

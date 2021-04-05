@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:39:01.310Z
+date: 2021-04-05T20:54:01.454Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -36,14 +36,14 @@ Faith No More - Introduce Yourself (1987)
 <li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/797d256e-c1a8-4b79-b8c8-7220461ae2db/13222015293-500.jpg" data-tags="funk metal, mike patton" role="button">
+Mr. Bungle - Goddammit I Love America! (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/04a29c62-4cb6-48b4-8be3-484774ee1adf/23490334229-500.jpg" data-tags="80s, funk rock" role="button">
 Fishbone - Truth And Soul (1988-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/245c9588-b4f8-33df-98f4-4b29b3775916/11571156452-500.jpg" data-tags="hard rock, 80s" role="button">
 Living Colour - Vivid (1988-09-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska punk" role="button">
-Fishbone - Fishbone (1988-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a87dca1-6046-4204-842c-022126631eaa/18837963279-500.jpg" data-tags="funk metal" role="button">
 Mr. Bungle - OU818 (1989)
@@ -180,7 +180,7 @@ Slipknot - Mate. Feed. Kill. Repeat. (1996-10-31)
 <li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
 Snot - Get Some (1997)
 </li>
-<li data-cover="https://img.discogs.com/vyQWHjqez5G_6CQbqagAf3JM1Yc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3581950-1336159275.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
+<li data-cover="https://img.discogs.com/wCEnXoRmGZQh1Q_cj9ptF_8OsrQ=/fit-in/152x152/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17975878-1616515957-6013.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
 Incubus - Enjoy Incubus (1997-01-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative metal, alternative, alternative rock" role="button">

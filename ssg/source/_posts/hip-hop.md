@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T16:50:02.358Z
+date: 2021-04-05T21:27:01.514Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg" data-tags="hip-hop, rap, 80s" role="button">
 Beastie Boys - Licensed to Ill (1986-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/2de67fb3-7ef5-4242-b31d-b28ffc9ecf27/9114999793-500.jpg" data-tags="hip-hop" role="button">
-Public Enemy - It Takes a Nation of Millions to Hold Us Back (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
@@ -99,6 +96,9 @@ Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
 </li>
+<li data-cover="https://img.discogs.com/EIkoXBp69PD7BgsBmMtxLt2XUF0=/fit-in/473x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4476951-1365964683-8178.jpeg.jpg" data-tags="rap, 2pac" role="button">
+2Pac - Greatest Hits (1998-11-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/1a3422a3-bedc-3c7a-a984-b0fd51c0e5ec/9725720160-500.jpg" data-tags="hip hop, hip-hop, rap" role="button">
 The Roots - Things Fall Apart (1999-02-22)
 </li>
@@ -113,9 +113,6 @@ Common - Like Water for Chocolate (2000-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/63d2c002-3b39-4e6a-9cad-50bb5f86a701/20658908646-500.jpg" data-tags="hip-hop" role="button">
-Nelly - Country Grammar (2000-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fcef022-76ae-441a-bade-728151531db9/23997227452-500.jpg" data-tags="hip-hop" role="button">
 Deltron 3030 - Deltron 3030 (2000-10-17)
@@ -134,6 +131,9 @@ Aesop Rock - Labor Days (2001-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
+Eminem - The Eminem Show (2002-05-27)
 </li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
@@ -156,13 +156,10 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 Beastie Boys - To the 5 Boroughs (2004-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3675fc3-f348-3d6d-970f-faa19f32c4ca/9725751296-500.jpg" data-tags="hip-hop, hip hop" role="button">
-The Roots - The Tipping Point (2004-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/93b725a3-5e68-45e5-9798-5afb29922c5b/2121195763-500.jpg" data-tags="rap, hip-hop, eminem" role="button">
 Eminem - Encore (2004-11-12)
 </li>
-<li data-cover="https://img.discogs.com/zJXIChY2HOJcsXD0M412_-2pfIE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-356592-1185972354.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/ZC5qdddgiu7nfI2pBeS7HkRj3mQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4431342-1565229212-6023.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
@@ -209,6 +206,9 @@ Lupe Fiasco - Food & Liquor (2006-09-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
 M.I.A. - Kala (2007-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">
+Aesop Rock - None Shall Pass (2007-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/af5f8d32-47b1-4715-b6b4-5a00e411adfb/17404962418-500.jpg" data-tags="hip-hop, indie" role="button">
 Why? - Alopecia (2008-02-25)

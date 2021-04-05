@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:08:01.350Z
+date: 2021-04-05T20:58:01.509Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -38,9 +38,6 @@ Weezer - Pinkerton (1996-08-24)
 </li>
 <li data-cover="https://img.discogs.com/OzJqQd_Z2UC4hcePk7B5Pa3Rg58=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747340-1369185112-9391.jpeg.jpg" data-tags="emo, indie rock" role="button">
 Mineral - The Power of Failing (1997-02)
-</li>
-<li data-cover="https://img.discogs.com/D9QATnRLIAKrHwy-ZLgk7OXhQyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-853287-1312821508.jpeg.jpg" data-tags="emo" role="button">
-Cap'n Jazz - Analphabetapolothology (1998-01-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
@@ -228,8 +225,17 @@ AFI - Decemberunderground (2006-05-19)
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
+Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/61710908-1bb8-4fd9-99b0-f9e0ad6f7d7f/9587442144-500.jpg" data-tags="pop punk" role="button">
+Boys Like Girls - Boys Like Girls (2006-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/e14d082d-64ee-4d42-9f1e-8b1d7423ed08/15998776082-500.jpg" data-tags="indie, rock, pop punk, emo" role="button">
+Plain White T's - Every Second Counts (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
@@ -297,9 +303,6 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
-Pierce The Veil - Collide With the Sky (2012-07-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
@@ -308,9 +311,6 @@ Fall Out Boy - Save Rock and Roll (2013-04-12)
 </li>
 <li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
-Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3c71198-ebc5-44b3-b076-88fb8dd4bc0f/6960652013-500.jpg" data-tags="emo" role="button">
 Modern Baseball - You're Gonna Miss It All (2013-10-30)

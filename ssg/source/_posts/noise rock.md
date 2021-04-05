@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:11:01.312Z
+date: 2021-04-05T20:46:07.666Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Sonic Youth - Daydream Nation (1988-10)](http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg "Sonic Youth - Daydream Nation (1988-10)")
@@ -33,7 +33,7 @@ Sonic Youth - Confusion Is Sex (1983)
 <li data-cover="http://coverartarchive.org/release/96083093-8407-4c06-81c4-2852a67d8f2e/28131924716-500.jpg" data-tags="noise rock, no wave" role="button">
 Swans - Filth (1983-05-27)
 </li>
-<li data-cover="https://img.discogs.com/vx3Vhu6YBJACYuloYmM0uXmpSis=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12060190-1527514473-8801.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
+<li data-cover="https://img.discogs.com/r1cfeH7W_7pfbpF47Ke0OU4b2L4=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852849-1281371771.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
 Sonic Youth - Bad Moon Rising (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3442347-3e3d-3705-bae9-42c48d5b575c/23448711507-500.jpg" data-tags="noise rock" role="button">
@@ -105,6 +105,9 @@ Blonde Redhead - Blonde Redhead (1995-01-19)
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
 </li>
+<li data-cover="https://img.discogs.com/QbOGME9neSAEBQ38pvCK6hx9384=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5654867-1522892618-9463.jpeg.jpg" data-tags="indie rock, alternative" role="button">
+Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
+</li>
 <li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
@@ -138,7 +141,7 @@ Lightning Bolt - Wonderful Rainbow (2003-03-04)
 <li data-cover="http://coverartarchive.org/release/34bec82a-41c0-35a5-aa99-9b94517b9d0a/9544109904-500.jpg" data-tags="indie rock, indie" role="button">
 Deerhoof - Apple O' (2003-03-18)
 </li>
-<li data-cover="https://img.discogs.com/lppLvjv4rALkQRGCBvSlerTDPPc=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719425-1244135921.jpeg.jpg" data-tags="noise, noise rock, dischord, real post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/TBm7vC3JofCKchB53enM7W5iJbo=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490309-1540925911-8076.jpeg.jpg" data-tags="noise, noise rock, dischord, real post-hardcore" role="button">
 Black Eyes - Black Eyes (2003-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d60edd1-f1d0-4c29-a2a3-f9ad2d3f2de7/4808033952-500.jpg" data-tags="alternative rock" role="button">
@@ -185,9 +188,6 @@ Spiritualized - Songs In A&E (2008-05-26)
 </li>
 <li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
 Women - WOMEN (2008-07-08)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)
@@ -246,7 +246,7 @@ No Age - Everything in Between (2010-09-15)
 <li data-cover="http://coverartarchive.org/release/b3468ed3-ebae-475b-932e-5578336ce72b/1944402956-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - My Father Will Guide Me Up a Rope to the Sky (2010-09-21)
 </li>
-<li data-cover="https://img.discogs.com/tUf_katyLSzcD1NIIDFMLYvVYf4=/fit-in/368x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2816946-1337370194-6038.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
+<li data-cover="https://img.discogs.com/R4jvnnJPoOAgWpqqOdawRWaV0nQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/03a05ce9-6a91-4126-bad3-d53d1807c69a/9563885219-500.jpg" data-tags="noise rock" role="button">
@@ -276,7 +276,7 @@ Japandroids - Celebration Rock (2012-06-05)
 <li data-cover="http://coverartarchive.org/release/a0c7c9f4-7195-4e67-9128-f83edbd65cf7/3904773359-500.jpg" data-tags="shoegaze, noise rock" role="button">
 A Place to Bury Strangers - Worship (2012-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/ff152346-3015-4217-9a45-e129be095a7e/2442485330-500.jpg" data-tags="noise, indie, rock, indie rock, noise rock, garage rock, garage, vinyl, san francisco, garage punk, 10s, legendary, in the red, burger, 2012 albums, great album artwork, wfmu heavily played records" role="button">
+<li data-cover="http://coverartarchive.org/release/ff152346-3015-4217-9a45-e129be095a7e/2442485330-500.jpg" data-tags="noise, indie, rock, indie rock, noise rock, garage rock, garage, san francisco, garage punk, 10s, legendary, in the red, burger, 2012 albums, great album artwork, wfmu heavily played records" role="button">
 Ty Segall Band - Slaughterhouse (2012-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4a636f1-4732-4bc0-8559-66b8b3bc345f/1940789966-500.jpg" data-tags="post-rock, experimental" role="button">

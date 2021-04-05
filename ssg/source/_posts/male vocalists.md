@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:15:01.434Z
+date: 2021-04-05T20:53:01.437Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -7,10 +7,10 @@ title: "male vocalists: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
-<li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">Ray LaMontagne - Gossip In The Grain (2008-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg" data-tags="indie, male vocalists" role="button">Brandon Flowers - Flamingo (2010-09-03)</li>
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">Justice - Civilization (2011-03-30)</li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">Passenger - All the Little Lights (2012-02-24)</li>
+<li data-cover="http://coverartarchive.org/release/0e46aa43-75b9-4792-9424-d091afa5f93b/6032835251-500.jpg" data-tags="indie, rock, alternative, alternative rock, pop rock, male vocalists, domino, hapi, empe" role="button">Arctic Monkeys - R U Mine? (2012-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/b88cc724-d67c-47a1-bf7c-720e992c6b92/9371359026-500.jpg" data-tags="2012" role="button">Olly Murs - Right Place Right Time (2012-11-26)</li>
 <li data-cover="http://coverartarchive.org/release/613b3baf-852b-4424-9d50-770d9df2240f/22041304668-500.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists, domino" role="button">Arctic Monkeys - Why'd You Only Call Me When You're High? (2013-08-11)</li>
 <li data-cover="http://coverartarchive.org/release/eaaf6a56-ee73-4227-812e-933eb0ec13a9/8574962668-500.jpg" data-tags="male vocalists" role="button">Pitbull - Fireball (2014-07-23)</li>
@@ -30,9 +30,6 @@ Beck - Mellow Gold (1994-03-01)
 <li data-cover="http://coverartarchive.org/release/b8828dbd-f2b2-30ed-ac2d-152341b10913/17553404705-500.jpg" data-tags="chillout, rock, alternative, folk, folk-rock, acoustic, romantic, guitar, male vocalists, twisted, meaningful, golden oldies, judely favourites, folky and acoustic stuff, casette, buenos" role="button">
 Del Amitri - Twisted (1995-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk, acid jazz" role="button">
-Jamiroquai - Travelling Without Moving (1996-09-09)
-</li>
 <li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
@@ -42,7 +39,7 @@ Blackstreet - Girlfriend/Boyfriend (1999-04-05)
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
-<li data-cover="https://img.discogs.com/JA12kplIqnlLiMxkTaPUSwLgaTY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8638808-1465677790-9122.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
+<li data-cover="https://img.discogs.com/NBCvY5cCvelAfmxcLXs258JUzvM=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7137188-1497941590-2757.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
@@ -144,6 +141,9 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
+Minus the Bear - Planet of Ice (2007-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
 </li>
@@ -195,7 +195,7 @@ John Mayer - Battle Studies (2009-11-17)
 <li data-cover="https://img.discogs.com/LpgTn_0p-KGSbeUana5uLiF8wIg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11667002-1520330340-3120.jpeg.jpg" data-tags="pop, rock, alternative, adult alternative, male vocalists, singer/songwriter, emusic download, albums i covet" role="button">
 Wakey!Wakey! - Almost Everything I Wish I'd Said The Last Time I Saw You... (2010-02-02)
 </li>
-<li data-cover="https://img.discogs.com/2v7aBAVWSbkXvTtharz-JOGmFUo=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1783869-1243086609.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/IErtkOYoYpjE8zXXwHUtrICxdFA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2363328-1279733574.jpeg.jpg" data-tags="rock" role="button">
 Arctic Monkeys - My Propeller (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
@@ -252,7 +252,7 @@ Usher - Climax (2012-02-22)
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e46aa43-75b9-4792-9424-d091afa5f93b/6032835251-500.jpg" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/0e46aa43-75b9-4792-9424-d091afa5f93b/6032835251-500.jpg" data-tags="indie, rock, alternative, alternative rock, pop rock, male vocalists, domino, hapi, empe" role="button">
 Arctic Monkeys - R U Mine? (2012-02-28)
 </li>
 <li data-cover="https://img.discogs.com/UiCt42DRo0EjITs5xoV909xqKNM=/fit-in/576x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3748971-1342803920-8632.jpeg.jpg" data-tags="country, folk, male vocalists, 10s, 2010s, hairy chest, hunks, 2012 albums, tolle alben, nice fur, heavy pelt" role="button">
@@ -282,7 +282,7 @@ John Grant - Pale Green Ghosts (2013-03-08)
 <li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, australian, youtube, male vocalists" role="button">
+<li data-cover="https://img.discogs.com/hrp-6Fz0OaU2mKzq9x5BQf8NPaY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11445111-1516463745-7281.jpeg.jpg" data-tags="pop, australian, youtube, male vocalists" role="button">
 Troye Sivan - The Fault in Our Stars (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbfa5713-c9ce-4077-b826-a1c913b0ca04/12750739359-500.jpg" data-tags="electronic" role="button">

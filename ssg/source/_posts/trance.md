@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:58:01.297Z
+date: 2021-04-05T21:03:01.478Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -13,7 +13,7 @@ title: "trance: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/IJ_Zfo5IM2HMmVI0txi5yV42BNk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14343254-1572619728-7891.jpeg.jpg" data-tags="trance" role="button">Tiësto - Elements of Life (2007-04-06)</li>
 <li data-cover="http://coverartarchive.org/release/56a006b0-e615-314b-9b45-86455f0d757b/2419858107-500.jpg" data-tags="trance" role="button">Armin van Buuren - Imagine (2008-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/194eeede-5333-42ac-96f3-1290a7aa0935/12527768502-500.jpg" data-tags="trance, electronic" role="button">Tiësto - Kaleidoscope (2009-12-15)</li>
-<li data-cover="https://img.discogs.com/N5uWvAJXzisPcRUyabNK0VMFtZI=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337514-1277924801.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">Ellie Goulding - Starry Eyed (2010-02-18)</li>
+<li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">Ellie Goulding - Starry Eyed (2010-02-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="trance" role="button">
-Paul van Dyk - 45 RPM (1994-10-04)
-</li>
 <li data-cover="https://img.discogs.com/iKPsz5HAZ_YSskrUF1vPn7iLQds=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33293-1603313013-1939.jpeg.jpg" data-tags="trance, chillout, electronic" role="button">
 Robert Miles - Children (1995)
 </li>
@@ -87,9 +84,6 @@ Infected Mushroom - Classical Mushroom (2000-02-01)
 <li data-cover="https://img.discogs.com/vok-pww6XUx5QFygj9FX9zAfMXs=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106523-1258962168.jpeg.jpg" data-tags="trance" role="button">
 Bomfunk MC's - Freestyler (2000-02-15)
 </li>
-<li data-cover="https://img.discogs.com/U85awjBc3AKoRJmIGS9WaKbCAzI=/fit-in/350x364/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498273-1396834503-2030.jpeg.jpg" data-tags="electronic, electro, electroclash" role="button">
-Fischerspooner - #1 (2000-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/92ad3ecb-1185-4cb9-8781-98f862951be2/6229377108-500.jpg" data-tags="trance" role="button">
 Chicane - Behind The Sun (2000-03-27)
 </li>
@@ -114,6 +108,9 @@ Shpongle - Tales of the Inexpressible (2001-05-30)
 <li data-cover="http://coverartarchive.org/release/77bfd13a-40b0-41ec-afd6-15f0ca904e5b/2335812387-500.jpg" data-tags="trance, electronic, dance" role="button">
 Safri Duo - Episode II (2001-06-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae18b56c-335d-466c-bffd-dcd77fe9e1c4/13035536593-500.jpg" data-tags="trance" role="button">
+DJ Tiësto - In My Memory (2001-08-08)
+</li>
 <li data-cover="https://img.discogs.com/b0v5ExS2IleBxCHtXRVmjCt_0uE=/fit-in/600x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-37097-1240257147.jpeg.jpg" data-tags="trance, electronic" role="button">
 Way Out West - Intensify (2001-08-20)
 </li>
@@ -122,6 +119,9 @@ Lasgo - Some Things (2001-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e919cd5-0feb-40cb-bbd8-8e4406e61bdd/7792440486-500.jpg" data-tags="dance, electronic" role="button">
 Planet Funk - Non Zero Sumness (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/b805ffa3-20f0-4710-a40a-24fcf40e7977/25642508331-500.jpg" data-tags="trance" role="button">
+ATB - Dedicated (2002-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ca8795a-bdec-43c8-85f7-f82e46965f74/8316915392-500.jpg" data-tags="trance" role="button">
 Rank 1 - Symsonic (2002-03-20)
@@ -162,6 +162,9 @@ Infected Mushroom - Converting Vegetarians (2003-04-09)
 <li data-cover="https://img.discogs.com/n3wdRuLdRNb59IB_Qv4Dvc1amk0=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207196-1234422929.jpeg.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/d63f901b-d232-4814-84d4-eeef097bb0ee/5454987213-500.jpg" data-tags="trance" role="button">
+Armin van Buuren - 76 (2003-06-30)
+</li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
 </li>
@@ -182,9 +185,6 @@ Tiësto - Parade Of The Athletes (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
 Infected Mushroom - IM the Supervisor (2004-09-10)
-</li>
-<li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
-Eric Prydz - Call on Me (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f46f90f-b5e5-443d-bb0f-40151764a950/4043627444-500.jpg" data-tags="trance, electronic, goa, psytrance" role="button">
 Juno Reactor - Labyrinth (2004-09-29)
@@ -255,9 +255,6 @@ Scooter - Jumping All Over The World (2008-02-01)
 <li data-cover="http://coverartarchive.org/release/56a006b0-e615-314b-9b45-86455f0d757b/2419858107-500.jpg" data-tags="trance" role="button">
 Armin van Buuren - Imagine (2008-04-18)
 </li>
-<li data-cover="https://img.discogs.com/dl2jp6KSJ-s-5VI0Fcn-kkan-M8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345444-1264955769.jpeg.jpg" data-tags="trance, electronic, darude, armind" role="button">
-Mike Foyle - Pandora (2008-05-05)
-</li>
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)
 </li>
@@ -285,10 +282,13 @@ Infected Mushroom - Legend Of The Black Shawarma (2009-09-08)
 <li data-cover="http://coverartarchive.org/release/97f6f1d5-1c70-367d-a217-45cab7a31926/15654510735-500.jpg" data-tags="electronic" role="button">
 deadmau5 - For Lack of a Better Name (2009-09-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/d0978e3d-f799-4dc5-b994-12548a9e8916/6980243612-500.jpg" data-tags="trance" role="button">
+Dash Berlin - The New Daylight (2009-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/194eeede-5333-42ac-96f3-1290a7aa0935/12527768502-500.jpg" data-tags="trance, electronic" role="button">
 Tiësto - Kaleidoscope (2009-12-15)
 </li>
-<li data-cover="https://img.discogs.com/N5uWvAJXzisPcRUyabNK0VMFtZI=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337514-1277924801.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
+<li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
 Ellie Goulding - Starry Eyed (2010-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca46bf9c-97e5-3592-8d1f-3f00592fc690/1133356400-500.jpg" data-tags="trance" role="button">

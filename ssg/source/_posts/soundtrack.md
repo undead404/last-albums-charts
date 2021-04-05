@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:54:01.381Z
+date: 2021-04-05T21:33:01.708Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -27,7 +27,7 @@ Henry Mancini - Breakfast At Tiffany's (1961)
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
-<li data-cover="https://img.discogs.com/IZr2sOyIZQx4g59kA_LAWsky8vg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7736871-1491835748-8438.jpeg.jpg" data-tags="soundtrack" role="button">
+<li data-cover="https://img.discogs.com/QuHQV7LM6dvPZAnjzVOc77o2UlU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13116777-1548348613-7143.jpeg.jpg" data-tags="soundtrack" role="button">
 Simon & Garfunkel - The Graduate (1968-02)
 </li>
 <li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="rock, 60s" role="button">
@@ -39,17 +39,17 @@ Pink Floyd - More (1969-06-13)
 <li data-cover="https://img.discogs.com/mVBeuas1TPmxCxdFlblvU9VHdww=/fit-in/600x568/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16180998-1605970515-8344.jpeg.jpg" data-tags="soundtrack" role="button">
 Ennio Morricone - Once Upon a Time in the West (1970)
 </li>
-<li data-cover="https://img.discogs.com/q6XwdY197YGTMsvdFkDHumI5Eak=/fit-in/358x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903097-1251310171.jpeg.jpg" data-tags="soundtrack, soul, funk" role="button">
+<li data-cover="https://img.discogs.com/swGT1nv0ioAMaziS63UYEO4l9xs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057089-1278573014.jpeg.jpg" data-tags="soundtrack, soul, funk" role="button">
 Isaac Hayes - Shaft (1971-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b307451c-46e8-403c-8a6c-21bce789b649/16084309080-500.jpg" data-tags="soundtrack" role="button">
 Nino Rota - The Godfather (1972)
 </li>
+<li data-cover="https://img.discogs.com/dLvUBeaGRpebiGSGlXElAfBzW7E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2884262-1305639329.jpeg.jpg" data-tags="soundtrack, folk" role="button">
+Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
-</li>
-<li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
-Basil Poledouris - Conan the Barbarian (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aea6e91-424a-48de-8f72-83d8d6716fff/6868315355-500.jpg" data-tags="soundtrack, ghostbusters, pop" role="button">
 Ray Parker Jr. - Ghostbusters (1984)
@@ -93,6 +93,9 @@ James Horner - Legends of the Fall (1994)
 <li data-cover="http://coverartarchive.org/release/adccd851-a871-4f32-997d-2b19819b16d2/14178336019-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Pulp Fiction (1994-09-27)
 </li>
+<li data-cover="https://img.discogs.com/i8NZiY7KlpLABimO7S5O3cQH9eA=/fit-in/600x808/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7636878-1595014027-9723.jpeg.jpg" data-tags="soundtrack" role="button">
+James Horner - Braveheart (1995-05-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/01e97e43-dc06-4e7e-8541-976064584683/9301874559-500.jpg" data-tags="soundtrack, disney" role="button">
 Various Artists - The Lion King (1997-11-14)
 </li>
@@ -105,11 +108,17 @@ Vonda Shepard - Songs From Ally McBeal (1998-05-05)
 <li data-cover="http://coverartarchive.org/release/37958dba-1767-4d8a-b242-11d6a0add333/1628998671-500.jpg" data-tags="rock" role="button">
 Aerosmith - Armageddon (1998-07-29)
 </li>
+<li data-cover="https://img.discogs.com/dTHgcizVpZSd0ruVNUP4Dh83Hsc=/fit-in/600x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930078-1432339957-5255.jpeg.jpg" data-tags="soundtrack" role="button">
+Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
 Philip Glass - Koyaanisqatsi (1998-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2b99ec3-2761-4874-bd22-8890ef358119/3128751725-500.jpg" data-tags="soundtrack, post-hardcore" role="button">
 Fugazi - Instrument Soundtrack (1999-03-23)
+</li>
+<li data-cover="https://img.discogs.com/sh4355luPnsoXEhirFa_Yujk7g4=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137239-1266343818.jpeg.jpg" data-tags="soundtrack" role="button">
+The Dust Brothers - Fight Club (1999-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc8ab829-5388-4640-bb64-c41c4c1caea8/18688508262-500.jpg" data-tags="soundtrack" role="button">
 Thomas Newman - American Beauty (2000-01-11)
@@ -152,9 +161,6 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="soundtrack" role="button">
 Badly Drawn Boy - About a Boy (2002-04-08)
-</li>
-<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack" role="button">
-Various Artists - 8 Mile (2002-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
@@ -237,9 +243,6 @@ Nick Cave & Warren Ellis - The Assassination of Jesse James By the Coward Robert
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
-The Cab - Whisper War (2008-04-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/b49fef96-5b9c-4656-9b99-82cd80472706/8265525094-500.jpg" data-tags="soundtrack" role="button">
 Two Steps from Hell - Legend (2008-07-01)
 </li>
@@ -263,9 +266,6 @@ Karen O and the Kids - Where The Wild Things Are (2009-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
 Glee Cast - Glee: The Music, Volume 1 (2009-11-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
-Glee Cast - Glee: The Music, Volume 2 (2009-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1da05321-a8ba-436e-a1a6-98822ea28e94/23564387481-500.jpg" data-tags="soundtrack, hard rock" role="button">
 AC/DC - Iron Man 2 (2010-04-16)

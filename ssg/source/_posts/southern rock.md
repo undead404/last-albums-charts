@@ -1,15 +1,15 @@
 ---
-date: 2021-04-05T13:07:01.362Z
+date: 2021-04-05T21:31:01.413Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/6b089cd4-24de-430b-bcdb-5f3485c7a9e7/8749872309-500.jpg" data-tags="southern rock, classic rock, 60s" role="button">Creedence Clearwater Revival - Green River (1969-08-03)</li>
-<li data-cover="http://coverartarchive.org/release/6d7a7eae-5b6d-482e-a81f-484681aee4ba/11456627147-500.jpg" data-tags="classic rock, southern rock" role="button">Creedence Clearwater Revival - Willy and the Poor Boys (1969-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/be1fba3d-6f56-4441-bd88-d41f5140231f/20152394682-500.jpg" data-tags="southern rock" role="button">Lynyrd Skynyrd - Second Helping (1974)</li>
 <li data-cover="http://coverartarchive.org/release/20f8ccf4-09cf-4607-a955-720ccbb2789e/14697523448-500.jpg" data-tags="blues rock, southern rock" role="button">ZZ Top - Eliminator (1983-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">Kings of Leon - Youth & Young Manhood (2003-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">Kings of Leon - Aha Shake Heartbreak (2004-10-30)</li>
+<li data-cover="http://coverartarchive.org/release/d48a2606-2876-449e-8d7f-a6b52b42c54c/17035663031-500.jpg" data-tags="rock" role="button">Kings of Leon - Because of the Times (2007-03-30)</li>
 <li data-cover="http://coverartarchive.org/release/678909a4-a946-492c-8df1-8d92cad22da1/10713247283-500.jpg" data-tags="alternative rock, hard rock, southern rock" role="button">Shinedown - Devour (2008-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">Kings of Leon - Come Around Sundown (2010-10-15)</li>
@@ -123,6 +123,9 @@ The Allman Brothers Band - A Decade Of Hits 1969-1979 (1991-10-22)
 <li data-cover="http://coverartarchive.org/release/bf287e16-4467-4b6c-8e5c-a0250d3d0b2b/6314862970-500.jpg" data-tags="southern rock, rock" role="button">
 The Black Crowes - The Southern Harmony and Musical Companion (1992-05-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="southern rock, lynyrd skynyrd-a retrospective" role="button">
+Lynyrd Skynyrd - A Retrospective (1993)
+</li>
 <li data-cover="https://img.discogs.com/xtKEBW6zi6Fj5YjYmDZU3mcGlLY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274536-1533325888-1294.jpeg.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - The Last Rebel (1993)
 </li>
@@ -144,11 +147,14 @@ The Allman Brothers Band - The Allman Brothers Band (1995)
 <li data-cover="http://coverartarchive.org/release/7533b1fc-d328-4ee5-8b50-bbf4c3edb6ed/9020709713-500.jpg" data-tags="southern rock, rock" role="button">
 Zakk Wylde - Book of Shadows (1996-06-19)
 </li>
-<li data-cover="https://img.discogs.com/3d3MF3FJtZBvKR9i1ISBj3AVsXg=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716101-1537716021-8009.jpeg.jpg" data-tags="southern rock, rock" role="button">
-The Black Crowes - Three Snakes and One Charm (1996-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae6c7d58-8258-486b-8637-15bff91302b2/24578672105-500.jpg" data-tags="southern rock" role="button">
 The Black Crowes - By Your Side (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a2c4afd-d30a-428c-968d-de082494d9a8/28967153015-500.jpg" data-tags="blues rock" role="button">
+Gov't Mule - Dose (1998-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/4349c38b-1430-4a91-a001-051afb3669c1/18103461953-500.jpg" data-tags="country" role="button">
+Clay Walker - Greatest Hits (1998-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d998987-ab6d-4ffc-a5db-255436bb415a/3333569644-500.jpg" data-tags="classic rock, southern rock, 70s" role="button">
 Lynyrd Skynyrd - The Essential Lynyrd Skynyrd (1998-08-25)
@@ -173,9 +179,6 @@ Drive-By Truckers - Southern Rock Opera (2001-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/649f134d-d733-4908-9004-d3d8edd506b0/24447477256-500.jpg" data-tags="alternative rock, edgy, queer, queercore, southern rock, beer, kid rock, male vocals, based, scat, brutal death metal, creepy, racism, moisture, bananas, trump, treble, cracked, farts, creed, racist, nickelback, girls girls girls, my nigga, poopy, hebo, hillary clinton, jihad, fart, donald trump, fecal, flatulence, coprogrind, sjw, genderqueer, grady, maga, farting, youngstar, kkk country, racist country, little star, politically correct, moist, i would like to spend an afternoon rubbing her breasts with warm mineral oil, scat goregrind, pissgore, rei do pop, agender, n word, queer metal, shady grady, seahawks, scatgrind, beste country musik wo gibt, fart rock, music to fart to, post-post-grunge, 2edgy4me, mitch mcconnell, brayden, jayden, fecalgrind, non-binary, planet kolob, where gods began, grumpy still skin, soft and moist, without artistic merit, dake-bonoism, masturbation fodder, squeeze the boobies, listen to u2, beneficial, conforms to dake-bonoistic doctrine, they always conform to dake-bonoistic doctrine, imaginary girlfriend, it starts with one thing i dont know why it doesnt even matter how hard you try keep that in mind i designed this rhyme, make america great again, fart pop, plopper, deekles, hollow monkey, poopy-man, you can listen on a thursday, adsfghjklmn, fuck me daddy, similar to johnny rebel, pwr bttm, too much swearing, kayden, dustin lynch " role="button">
 Uncle Kracker - No Stranger to Shame (2002-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
-Saliva - Back Into Your System (2002-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d7c7392-6a8c-4f38-ac16-c1304bc12d09/9304189949-500.jpg" data-tags="southern rock" role="button">
 The Allman Brothers Band - Hittin' the Note (2003-03-18)
@@ -207,6 +210,9 @@ Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 <li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
 He Is Legend - I Am Hollywood (2004-11-02)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">
+Lucero - Nobody's Darlings (2005-05-24)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
 Maylene and the Sons of Disaster - Maylene and the Sons of Disaster (2005-10-25)
 </li>
@@ -230,6 +236,9 @@ Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ceeb1158-9507-4ee3-8af8-057ac3a803a2/8360071975-500.jpg" data-tags="hard rock, southern rock" role="button">
 Black Stone Cherry - Hell And High Water (2007-03-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d48a2606-2876-449e-8d7f-a6b52b42c54c/17035663031-500.jpg" data-tags="rock" role="button">
+Kings of Leon - Because of the Times (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/dda0115c-affb-42fc-a24e-98d4661accf5/1038954356-500.jpg" data-tags="metal, heavy metal, groove metal" role="button">
 Hellyeah - HELLYEAH (2007-04-07)
@@ -276,20 +285,11 @@ Memphis May Fire - Sleepwalking (2009-07-21)
 <li data-cover="http://coverartarchive.org/release/da29d084-1a4e-4131-b583-41160ebef119/27714452702-500.jpg" data-tags="rock, southern rock, classic rock" role="button">
 Lynyrd Skynyrd - God & Guns (2009-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
-Lucero - 1372 Overton Park (2009-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/02c4e4be-f3ac-49a8-8157-f0b1106b80a4/7913085249-500.jpg" data-tags="southern rock" role="button">
 Brother Dege - Folk Songs of the American Longhair (2010-03-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, americana, alt-country, southern rock" role="button">
-Drive-By Truckers - The Big To-Do (2010-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a71c547-1757-4695-8d15-be0a59ab096c/27339835378-500.jpg" data-tags="classic rock, acoustic, blues rock, southern rock" role="button">
-The Black Crowes - Croweology (2010-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
@@ -315,7 +315,7 @@ John Mayer - Paradise Valley (2013-08-16)
 <li data-cover="http://coverartarchive.org/release/edb1ad5b-af30-49ba-aa0b-a4628a606087/5493473864-500.jpg" data-tags="rock, southern rock" role="button">
 Kings of Leon - Mechanical Bull (2013-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e4c8d51-a9c8-4356-803b-a33bfdbb1f18/6921187973-500.jpg" data-tags="alternative rock, indie rock, adult alternative, christian rock, folk rock, southern rock, christian & gospel, 2014: albums" role="button">
+<li data-cover="http://coverartarchive.org/release/6e4c8d51-a9c8-4356-803b-a33bfdbb1f18/6921187973-500.jpg" data-tags="alternative rock, indie rock, adult alternative, christian rock, folk rock, southern rock, christian & gospel" role="button">
 NEEDTOBREATHE - Rivers in the Wasteland (2014-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
