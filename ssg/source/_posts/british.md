@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:24:01.438Z
+date: 2021-04-05T18:36:01.348Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -42,9 +42,6 @@ Radiohead - Pablo Honey (1993-02-22)
 <li data-cover="http://coverartarchive.org/release/9822581d-98bf-3f97-a94c-4b1350d090aa/1435221321-500.jpg" data-tags="britpop" role="button">
 Oasis - Definitely Maybe (1994-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
-Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg" data-tags="alternative rock, radiohead, rock" role="button">
 Radiohead - The Bends (1995-03-08)
 </li>
@@ -71,9 +68,6 @@ Radiohead - Kid A (2000-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
-Radiohead - Amnesiac (2001-06-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="britpop, travis" role="button">
 Travis - The Invisible Band (2001-06-10)
@@ -119,6 +113,9 @@ Razorlight - Up All Night (2004-06-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock" role="button">
 The Libertines - The Libertines (2004-08-30)
+</li>
+<li data-cover="https://img.discogs.com/qkvDofuDAKamlVevQ6NpGVxtJCY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567304-1132414198.jpeg.jpg" data-tags="pop" role="button">
+Natasha Bedingfield - Unwritten (2004-09-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Editors - The Back Room (2005-01-01)
@@ -188,6 +185,9 @@ Kasabian - Empire (2006-08-25)
 </li>
 <li data-cover="https://img.discogs.com/8KrBpQesNQtYTtRGyViVBGE-wU0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785865-1169215288.jpeg.jpg" data-tags="indie rock" role="button">
 The Fratellis - Costello Music (2006-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b0ca6cc-f793-3dd8-9329-611a9fb08ae2/6136527070-500.jpg" data-tags="soul" role="button">
+Amy Winehouse - Back to Black (2006-10-30)
 </li>
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)

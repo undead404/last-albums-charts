@@ -1,15 +1,15 @@
 ---
-date: 2021-04-05T07:32:01.395Z
+date: 2021-04-05T18:19:01.472Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/58186008-1efd-4c79-8658-65e58ef1be4c/5646849448-500.jpg" data-tags="instrumental, cover, symphonic metal, metal, cello" role="button">Apocalyptica - Plays Metallica By Four Cellos (1996)</li>
-<li data-cover="https://img.discogs.com/Ntqb_aIA0zir6JoDFEDEYm9Crzs=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130448-1308770059.jpeg.jpg" data-tags="covers" role="button">Cat Power - The Covers Record (2000-03-10)</li>
+<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">Cat Power - The Covers Record (2000-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
-<li data-cover="https://img.discogs.com/6IhrhN8e8KQjvX1MkALI2e60_5g=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11724612-1521308193-7517.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">Placebo - Covers (2007-03-05)</li>
+<li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">Placebo - Covers (2007-03-05)</li>
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">Mark Ronson - Version (2007-04-14)</li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">Cat Power - Jukebox (2008-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/1d2b9813-5cc3-4408-b222-2a3f5b0768f6/4081358348-500.jpg" data-tags="british, folk" role="button">Birdy - Birdy (2011-11-07)</li>
@@ -63,7 +63,7 @@ Tom Jones - Reload (1999-09-09)
 <li data-cover="http://coverartarchive.org/release/5cfe5238-649e-492a-9335-863783cb9c5b/15454353410-500.jpg" data-tags="jazz, george michael" role="button">
 George Michael - Songs from the Last Century (1999-12-06)
 </li>
-<li data-cover="https://img.discogs.com/Ntqb_aIA0zir6JoDFEDEYm9Crzs=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130448-1308770059.jpeg.jpg" data-tags="covers" role="button">
+<li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
 Cat Power - The Covers Record (2000-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b3d9bef-c686-4656-a19e-d46040af1db5/15841193375-500.jpg" data-tags="pop punk" role="button">
@@ -71,6 +71,9 @@ New Found Glory - From The Screen To Your Stereo (2000-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8eb5fba9-e6fe-46db-8ff4-1ab77e1096f4/7940771884-500.jpg" data-tags="indie, rock" role="button">
 Built to Spill - Live (2000-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/4fecbf14-179d-41fb-9a39-7eb44a4c4634/15556280068-500.jpg" data-tags="lounge" role="button">
+Richard Cheese - Lounge Against The Machine (2000-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
@@ -165,10 +168,10 @@ Chris Cornell - Unplugged in Sweden (2006-09-07)
 <li data-cover="https://img.discogs.com/v43z72x70mwmbYZkVxGZWHST-6c=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683980-1342639891-4559.jpeg.jpg" data-tags="pop" role="button">
 Westlife - The Love Album (2006-11-20)
 </li>
-<li data-cover="https://img.discogs.com/6IhrhN8e8KQjvX1MkALI2e60_5g=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11724612-1521308193-7517.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
 Placebo - Covers (2007-03-05)
 </li>
-<li data-cover="https://img.discogs.com/-Y4hfYaIUA2MoEEzJ8G2ez2von8=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16666224-1609164708-5709.jpeg.jpg" data-tags="covers" role="button">
+<li data-cover="https://img.discogs.com/QO7zFM0tva2c9T7Mv2WKmzHED2g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-966497-1469987494-2664.jpeg.jpg" data-tags="covers" role="button">
 Patti Smith - Twelve (2007-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">
@@ -182,9 +185,6 @@ Cake - B-Sides and Rarities (2007-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/dccee35f-1660-4f40-8522-ffc6927ba1c7/2588215795-500.jpg" data-tags="electronica, cover, remix, getit" role="button">
 Gotye - Mixed Blood (2007-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/938a4f90-c248-4794-8ceb-e8e48b396cb0/8778440610-500.jpg" data-tags="cover" role="button">
-Jeffrey Lewis - 12 Crass Songs (2007-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/236a04ea-8349-4930-9647-186773164eb3/6655040734-500.jpg" data-tags="symphonic metal, cover, power metal" role="button">
 Northern Kings - Reborn (2007-10-29)
@@ -258,7 +258,7 @@ Fever Ray - Mercy Street (2010-08-18)
 <li data-cover="https://img.discogs.com/taDtlTZGurPZNj5nLm347NAROPI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2432619-1283765901.jpeg.jpg" data-tags="soundtrack, hip-hop, electronic, electronica, trip-hop, electropop, hip hop, pop, chill, rock, soul, punk, alternative rock, reggae, folk, indie pop, indie rock, female vocalists, downtempo, dub, singer-songwriter, electro, dance, new wave, funk, house, minimal, canadian, idm, guitar, drum, bass, cover, song, germany, atmospheric, deutsch, punk rock, deutschrock, dnb, german, dancehall, sex, deutschpunk, liedermacher, indietronic, deutschrap, dub step, deutsch pop, nu-metal, cola, hollywood, german artists, deutschpop, german rap, liebe, 80er, chillhouse, singel, gitarre, electronic hip-hop, synthie, rostock, ich und du, helden, liebeskummer, geschichte, wir sind helden, herz, tanzen, rockmusik, augen, ich und ich, aggropop, sucht, liebeslieder, in your eyes, entspannung, stimmung, micha, durchdrehen, tierpark, underscrobbled, zweifel, soundtrack meines lebens, die kranken schwestern, nihao, mitsnakker, nur mit dir, erinnnerungen, chillaholic, micha maat, das zweite gesicht, aggroschlager, augensex, stille der nacht" role="button">
 Laserkraft 3D - Nein, Mann! (2010-08-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="christmas" role="button">
+<li data-cover="https://img.discogs.com/7HQ42g8c1uZ39AudB3-Cw51xGmA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631982-1351175466-2472.jpeg.jpg" data-tags="christmas" role="button">
 Glee Cast - Glee: The Music, The Christmas Album (2010-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/03b31a1c-03c0-4eee-930b-a4e565b3f7f6/9539591161-500.jpg" data-tags="hip-hop, swedish, mixtape, cover, balearic, miks" role="button">

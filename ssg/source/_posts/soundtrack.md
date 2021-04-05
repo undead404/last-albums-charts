@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:53:01.335Z
+date: 2021-04-05T17:54:01.381Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/50b212ff-cea7-379d-8bb4-340b985e1dd4/3204990971-500.jpg" data-tags="soundtrack" role="button">
 Henry Mancini - Breakfast At Tiffany's (1961)
 </li>
-<li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="1961, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
 <li data-cover="https://img.discogs.com/IZr2sOyIZQx4g59kA_LAWsky8vg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7736871-1491835748-8438.jpeg.jpg" data-tags="soundtrack" role="button">
@@ -44,9 +44,6 @@ Isaac Hayes - Shaft (1971-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b307451c-46e8-403c-8a6c-21bce789b649/16084309080-500.jpg" data-tags="soundtrack" role="button">
 Nino Rota - The Godfather (1972)
-</li>
-<li data-cover="https://img.discogs.com/dLvUBeaGRpebiGSGlXElAfBzW7E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2884262-1305639329.jpeg.jpg" data-tags="soundtrack, folk" role="button">
-Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
@@ -108,9 +105,6 @@ Vonda Shepard - Songs From Ally McBeal (1998-05-05)
 <li data-cover="http://coverartarchive.org/release/37958dba-1767-4d8a-b242-11d6a0add333/1628998671-500.jpg" data-tags="rock" role="button">
 Aerosmith - Armageddon (1998-07-29)
 </li>
-<li data-cover="https://img.discogs.com/dTHgcizVpZSd0ruVNUP4Dh83Hsc=/fit-in/600x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930078-1432339957-5255.jpeg.jpg" data-tags="soundtrack" role="button">
-Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
 Philip Glass - Koyaanisqatsi (1998-10-19)
 </li>
@@ -158,6 +152,9 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="soundtrack" role="button">
 Badly Drawn Boy - About a Boy (2002-04-08)
+</li>
+<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack" role="button">
+Various Artists - 8 Mile (2002-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
@@ -266,6 +263,9 @@ Karen O and the Kids - Where The Wild Things Are (2009-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
 Glee Cast - Glee: The Music, Volume 1 (2009-11-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
+Glee Cast - Glee: The Music, Volume 2 (2009-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1da05321-a8ba-436e-a1a6-98822ea28e94/23564387481-500.jpg" data-tags="soundtrack, hard rock" role="button">
 AC/DC - Iron Man 2 (2010-04-16)
