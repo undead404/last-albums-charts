@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:46:01.477Z
+date: 2021-04-05T04:43:01.322Z
 title: "cathartic: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -24,16 +24,16 @@ _________________
 <li data-cover="http://coverartarchive.org/release/ffee886d-62d8-4bb3-a80c-82817020a1d8/3706327795-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Time Fades Away (1973-09)
 </li>
-<li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
+<li data-cover="https://img.discogs.com/8NqNnwTW0-Y7pkW9IykrYjwa4EA=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321861-1462013452-9042.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
 </li>
-<li data-cover="https://img.discogs.com/mcW4DnPI0AAvxBcUPFe5rcTHeTI=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6671642-1472371151-8679.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
+<li data-cover="https://img.discogs.com/ftsmFEw5SMRewDWgYtzIjlegG5o=/fit-in/380x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935598-1255604300.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
 The Jam - In the City (1977-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
 Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://img.discogs.com/i2hjF3qQugwjM-CCzbXvKILk9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774793-1166295303.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
+<li data-cover="https://img.discogs.com/ny_zKfTxim7DV90AWC0djl6EGmc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2749521-1299315553.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
 Richard & Linda Thompson - Shoot Out the Lights (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6233602-7a77-4a1a-b405-d3d75a9c631c/14999562820-500.jpg" data-tags="psychedelic" role="button">
@@ -78,16 +78,16 @@ Iggy Pop - Brick By Brick (1990-06-28)
 <li data-cover="http://coverartarchive.org/release/2c99e627-4a01-4429-9058-2c8dccc3ecef/20987488351-500.jpg" data-tags="hardcore punk" role="button">
 Negative Approach - Total Recall (1990-09-24)
 </li>
-<li data-cover="https://img.discogs.com/32qiQeab2R3RvWNXY3c_Lnfl4QU=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935904-1467031460-3503.jpeg.jpg" data-tags="90s" role="button">
+<li data-cover="https://img.discogs.com/Jk0Whc-eYBquMSkcPm3eMlDBv-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5053665-1525646913-3868.jpeg.jpg" data-tags="90s" role="button">
 Dinosaur Jr. - Green Mind (1991-02-18)
 </li>
 <li data-cover="https://img.discogs.com/QCYd0wbBuBXY6Pa0PO9RI94p0oo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-679682-1146862594.jpeg.jpg" data-tags="indie rock" role="button">
 The Wedding Present - Seamonsters (1991-06-01)
 </li>
-<li data-cover="https://img.discogs.com/-PmmEbK1UmIcoAm2UVYx3FG8CT0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386314-1517480289-3879.jpeg.jpg" data-tags="indie rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/xWYxRFiO6Ero2qeLyqFOScqSyo8=/fit-in/577x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-623167-1147543358.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Sebadoh - III (1991-09)
 </li>
-<li data-cover="https://img.discogs.com/e_SslAmovhsXK1DpjlHEoktdC5Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081136-1192439541.jpeg.jpg" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/33Tl1TJGobql0oXCSj2tlR9HZe0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027191-1185627117.jpeg.jpg" data-tags="post-punk" role="button">
 The Birthday Party - Hits (1992-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
@@ -104,9 +104,6 @@ A Tribe Called Quest - Midnight Marauders (1993-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc8d4f67-b395-4675-b668-7a067e574ae6/22507217638-500.jpg" data-tags="grunge, riot grrrl, 1994" role="button">
-L7 - Hungry for Stink (1994-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
 Dinosaur Jr. - Without a Sound (1994-08-01)
@@ -126,6 +123,9 @@ The Jam - The Very Best of The Jam (1997)
 <li data-cover="http://coverartarchive.org/release/6aca9251-e534-3c3c-b146-35996ff4abdd/1224066898-500.jpg" data-tags="indie, indie rock" role="button">
 Modest Mouse - The Fruit That Ate Itself (1997-05-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/1797161d-28d1-430a-bd7c-0a6f268cab6e/17160061727-500.jpg" data-tags="alternative rock" role="button">
+Switchfoot - The Legend Of Chin (1997-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 </li>
@@ -140,9 +140,6 @@ Jewel - Spirit (1998-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bba6681-d372-4957-96ac-81c1a2f6519c/17160038685-500.jpg" data-tags="alternative rock, christian rock" role="button">
 Switchfoot - New Way To Be Human (1999-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1541b77-4199-49fb-9024-3425d343c387/26635991993-500.jpg" data-tags="rock, alternative" role="button">
-Echo & the Bunnymen - What Are You Going To Do With Your Life? (1999-04)
 </li>
 <li data-cover="https://img.discogs.com/ibMAfiLArBOVU-faP4LftnwZ_fE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2956612-1441393650-3407.jpeg.jpg" data-tags="britpop, 90s" role="button">
 Suede - Head Music (1999-04-28)
@@ -168,7 +165,7 @@ Switchfoot - Learning to Breathe (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/51bf08c8-b8dd-4f16-852e-0f19d6adb866/16566568638-500.jpg" data-tags="electronic, darkwave" role="button">
 Chiasm - Disorder (2001-03-27)
 </li>
-<li data-cover="https://img.discogs.com/KUhhFJ6QRaMquXb4TG38FaAe9_g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680208-1240508379.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/RWtrCfF6nCrrt3rNcF1ivzYF7W0=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289844-1327093892.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
@@ -225,6 +222,9 @@ Sleater-Kinney - The Woods (2005-05-24)
 <li data-cover="https://img.discogs.com/BfR23KCmeMY9SrhQ9fXmNBj4_ZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515157-1314050368.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Nada Surf - The Weight Is a Gift (2005-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
+Switchfoot - Nothing Is Sound (2005-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/b4f84604-4903-3209-9d74-4228543297c6/22963410399-500.jpg" data-tags="neo-psychedelia, alternative pop/ rock" role="button">
 Echo & the Bunnymen - Siberia (2005-09-19)
 </li>
@@ -264,7 +264,7 @@ Dinosaur Jr. - Farm (2009-06-19)
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/UXgbqevfNeBqlilcwq4pyWKeH80=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5558208-1396520125-1881.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, volatile, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">

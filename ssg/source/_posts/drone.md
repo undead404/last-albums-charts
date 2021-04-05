@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:45:02.319Z
+date: 2021-04-05T04:42:01.301Z
 title: "drone: 100 albums you must listen to before you die"
 ---
 ![Have a Nice Life - Deathconsciousness (2008-02-21)](http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg "Have a Nice Life - Deathconsciousness (2008-02-21)")
@@ -33,7 +33,7 @@ Earth - Earth 2: Special Low Frequency Version (1993-02-05)
 <li data-cover="http://coverartarchive.org/release/5da5b6e4-a53e-40bb-a2dc-66619605355c/1099619698-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - Music For Nitrous Oxide (1994)
 </li>
-<li data-cover="https://img.discogs.com/95JUU6k0__pa-k_64C7zVX2_wHo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-700875-1254818988.jpeg.jpg" data-tags="drone" role="button">
+<li data-cover="https://img.discogs.com/NF1Av-gjTTdMYEU73RdJH-u0_PE=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16150803-1604299125-5521.jpeg.jpg" data-tags="drone" role="button">
 Earth - Phase 3: Thrones and Dominions (1995-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/0cbb0772-d07f-4d50-9ad2-daefa57515de/12833237719-500.jpg" data-tags="drone" role="button">
@@ -80,6 +80,9 @@ Khanate - Khanate (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/eddc2843-d3dd-48ba-b1c9-2ad509570aaa/3048332836-500.jpg" data-tags="ambient" role="button">
 Stars of the Lid - The Tired Sounds of Stars of the Lid (2001-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c2f966d-4037-4132-9fd7-9b144ef42326/28239694354-500.jpg" data-tags="drone, ambient, experimental" role="button">
+Keith Fullerton Whitman - Playthroughs (2002-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/06d9c01f-1a2d-4466-a653-6279376fc003/16162158180-500.jpg" data-tags="avant-folk, psychedelic folk" role="button">
 The Microphones - Mount Eerie (2002-12-12)
@@ -186,7 +189,7 @@ Grouper - Dragging a Dead Deer Up a Hill (2008-06-16)
 <li data-cover="http://coverartarchive.org/release/23e49586-fa2e-43ab-8b57-9e56b9221954/16445937734-500.jpg" data-tags="drone, live, drone doom" role="button">
 Sunn O))) - Dømkirke (2008-09-22)
 </li>
-<li data-cover="https://img.discogs.com/i-LYBPsmYzZuxgU_j1lR93cbA7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725077-1239385066.jpeg.jpg" data-tags="indie, downtempo, idm" role="button">
+<li data-cover="https://img.discogs.com/gLtasc4YdPfhI_cAO0cFnxYY834=/fit-in/514x441/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2190931-1328925033.jpeg.jpg" data-tags="indie, downtempo, idm" role="button">
 Jon Hopkins - Insides (2008-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/63a1accf-dc05-4031-91a7-2dcf7853a586/19647004657-500.jpg" data-tags="ambient, drone" role="button">
@@ -200,9 +203,6 @@ Tim Hecker - An Imaginary Country (2009-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/50f53ceb-8e3c-3508-8c4e-80479bf93040/21129584187-500.jpg" data-tags="drone" role="button">
 Sunn O))) - Monoliths & Dimensions (2009-05-18)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
-椎名林檎 - 三文ゴシップ (2009-06-24)
 </li>
 <li data-cover="https://img.discogs.com/kFxILaeR0miu9E9n19Ohx9HL24E=/fit-in/350x314/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876339-1249498435.jpeg.jpg" data-tags="drone, post-metal" role="button">
 Jesu - Infinity (2009-07)

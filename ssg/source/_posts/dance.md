@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:39:01.305Z
+date: 2021-04-05T04:19:01.316Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -44,6 +44,9 @@ Madonna - Ray of Light (1998-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/63b3a8ca-26f2-4e2b-b867-647a6ec2bebd/11266341757-500.jpg" data-tags="pop, 90s, dance" role="button">
 Cher - Believe (1998-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f829bf7-163b-49e5-84ba-fb44c2ad88e8/9560869252-500.jpg" data-tags="electronic" role="button">
+Fatboy Slim - You've Come a Long Way, Baby (1998-10-12)
 </li>
 <li data-cover="https://img.discogs.com/pBJk69a_xXoMi9cdRjfO1n16yjw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2434428-1283854633.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
@@ -110,9 +113,6 @@ Nelly Furtado - Loose (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
-Gwen Stefani - The Sweet Escape (2006-12-01)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)

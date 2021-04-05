@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:05:02.240Z
+date: 2021-04-05T04:40:01.294Z
 title: "j-pop: 100 albums you must listen to before you die"
 ---
 ![Perfume - GAME (2008-04-16)](http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg "Perfume - GAME (2008-04-16)")
@@ -42,7 +42,7 @@ Loreena McKennitt - The Book Of Secrets (1997-09-30)
 <li data-cover="http://coverartarchive.org/release/49ee5606-261b-4efe-a96c-71c2221c4a36/4012896167-500.jpg" data-tags="j-pop" role="button">
 安室奈美恵 - 181920 (1998-01-28)
 </li>
-<li data-cover="https://img.discogs.com/JE0Pzf3zOz0qb3CnC8yLkprFWXM=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2049201-1260820079.jpeg.jpg" data-tags="japanese, anime, j-pop, visual kei, emo, hipster, hino, very intelligent lyrics, korean, k-pop, artpop, art pop, folklore intellectuel, satanic pop, poptron, not art pop, pooptron" role="button">
+<li data-cover="https://img.discogs.com/tVw_4A6dRoIUNb2RXNBJkEYG1kE=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328406-1096290290.gif.jpg" data-tags="japanese, anime, j-pop, visual kei, emo, hipster, hino, very intelligent lyrics, korean, k-pop, artpop, art pop, folklore intellectuel, satanic pop, poptron, not art pop, pooptron" role="button">
 Diamanda Galás - Malediction And Prayer (1998-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5588dfca-c011-4f66-9899-dcaa5f4efed5/11441887072-500.jpg" data-tags="rock, j-pop, japanese, 90s" role="button">
@@ -102,7 +102,7 @@ Nujabes - Metaphorical Music (2003-08-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, j-pop" role="button">
 Mr.Children - シフクノオト (2004-04-07)
 </li>
-<li data-cover="https://img.discogs.com/kRGG9CiEe0QwK2FtDwtyOZIWf5g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9065963-1474176395-7169.jpeg.jpg" data-tags="japanese, jpop, j-rock, j-pop, mr ownership deal, in my possession, scryed edward tracks power, suavesfabio power, orangehappy" role="button">
+<li data-cover="https://img.discogs.com/kRGG9CiEe0QwK2FtDwtyOZIWf5g=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9065963-1474176395-7169.jpeg.jpg" data-tags="japanese, jpop, j-rock, j-pop, mr ownership deal, in my possession, orangehappy" role="button">
 ORANGE RANGE - musiQ (2004-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c770da0-8b3b-3b17-a944-bef8ddd0174d/18053130482-500.jpg" data-tags="j-pop, jpop" role="button">
@@ -110,6 +110,9 @@ ORANGE RANGE - musiQ (2004-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/181a72af-121c-4d11-a26c-ef5e19d2668e/13679420383-500.jpg" data-tags="j-pop" role="button">
 YUKI - joy (2005-01-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/6fc0a98a-9589-4038-accb-78fe82966184/2210587831-500.jpg" data-tags="uverworld" role="button">
+UVERworld - D-tecnoLife (2005-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/49239fa8-d4cf-4870-a61a-8849557203e6/13872961723-500.jpg" data-tags="japanese, j-pop" role="button">
 YUI - LIFE (2005-11-09)
@@ -137,9 +140,6 @@ BACK-ON - Chain (2006-06-07)
 </li>
 <li data-cover="https://img.discogs.com/mRvI0tregQqeJYC5h2Fj_cjXrns=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3553932-1335046366.jpeg.jpg" data-tags="j-pop" role="button">
 Mell - Red fraction (2006-06-24)
-</li>
-<li data-cover="https://img.discogs.com/pPcjS9_A40-oXUGihJ-P0FIEJ5g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-957854-1177445829.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
-Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/35fbd275-fdc3-4450-9b34-e05c5d93bef0/7597192789-500.jpg" data-tags="ambient, female vocalists, new age" role="button">
 Lisa Gerrard - The Silver Tree (2006-11-21)
@@ -186,6 +186,9 @@ Meg - STEP (2008-06-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, j-pop" role="button">
 安室奈美恵 - BEST FICTION (2008-07-30)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop, asian, male vocalists, anime, j-rock, j-pop, group, boy band, asian music, asian pop" role="button">
+Flow - WORLD END (2008-08-13)
+</li>
 <li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
 Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
 </li>
@@ -218,9 +221,6 @@ Perfume - ⊿ (2009-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a7922e0-b976-4d75-98a9-bb16585e7b8e/12665202859-500.jpg" data-tags="japanese, female vocalists, jpop, asian, band, anime, j-pop, female fronted, group, asian music, asian pop" role="button">
 fripSide - only my railgun (2009-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/65a811b8-8b98-4642-8f25-48586fa93b10/8138480397-500.jpg" data-tags="experimental, dream pop, electronic, darkwave" role="button">
-Grimes - Geidi Primes (2010-01-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, jpop, asian, j-pop, x, asian music, asian pop" role="button">
 YUKI - うれしくって抱きあうよ (2010-02-17)

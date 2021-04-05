@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:26:01.274Z
+date: 2021-04-05T04:29:01.307Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
@@ -24,6 +24,12 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="rock n roll, 50s" role="button">
 Elvis Presley - Elvis Presley (1956-03-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/b07ee81a-3e84-446e-a22c-7c2141fd1f3d/9961514130-500.jpg" data-tags="rock n roll" role="button">
+Elvis Presley - Loving You (1957-07-01)
+</li>
+<li data-cover="https://img.discogs.com/UNMFqFAQ3wmAOCS8y538iY4KBII=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5950468-1407171312-5303.jpeg.jpg" data-tags="christmas" role="button">
+Elvis Presley - Elvis' Christmas Album (1957-10-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">
 Elvis Presley - Elvis' Golden Records (1958-03-21)
 </li>
@@ -44,12 +50,6 @@ Chuck Berry - St. Louis to Liverpool (1964)
 </li>
 <li data-cover="http://coverartarchive.org/release/1697c288-fc02-4f69-adc0-a620ed877124/21286054887-500.jpg" data-tags="classic rock, rock n roll" role="button">
 Elvis Presley - Viva Las Vegas (1964-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf5aaf72-a9ca-4d81-b622-888ee228aa11/1503464212-500.jpg" data-tags="rock, 60s" role="button">
-The Rolling Stones - The Rolling Stones (1969)
-</li>
-<li data-cover="http://coverartarchive.org/release/23b89c7e-e26e-3cfa-ab49-76fb5a63c17f/20896396142-500.jpg" data-tags="oldies" role="button">
-Roy Orbison - The All-Time Greatest Hits of Roy Orbison (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/e28b9cba-289e-47a8-a8c0-8bf5c0c93f19/3987340872-500.jpg" data-tags="hard rock, classic rock" role="button">
 Alice Cooper - School's Out (1972-06)
@@ -99,8 +99,8 @@ Motörhead - Another Perfect Day (1983-06-04)
 <li data-cover="https://img.discogs.com/r0ak_Yh6xKRBcUUns0L0D4JhhBg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2107356-1264386999.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
 </li>
-<li data-cover="http://coverartarchive.org/release/740f215a-34aa-4d20-9eec-b92e1cfca5d4/22317633580-500.jpg" data-tags="60s" role="button">
-Buddy Holly - The Best Of Buddy Holly (1985)
+<li data-cover="http://coverartarchive.org/release/abdfb480-f68e-4857-bc39-9d76aad4eaff/26871575044-500.jpg" data-tags="rock n roll" role="button">
+Curtis Lee - Pretty Little Angel Eyes (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/677b08b3-93ba-43c1-aa67-390c1647fa04/8018278557-500.jpg" data-tags="60s, energetic, summer, literate, oldies, cheerful, irreverent, organic, confident, freewheeling, raucous, fun, 50s, rock n roll, road trip, playful, reunion, chuck, rollicking, celebratory, witty, joyous, humorous, rowdy, swaggering, tgif, boisterous, rambunctious, bravado, icmusick, rockaroundthebunker" role="button">
 Chuck Berry - Rock 'N' Roll Rarities (1986)
@@ -186,11 +186,8 @@ The Sundays - Static & Silence (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/da2b642f-e1e9-3fb1-8d31-e067204b2351/15341628025-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Snake Bite Love (1998-03-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues" role="button">
+<li data-cover="https://img.discogs.com/gvKjRCQVgHAV4Fo2rCHdTmx2jJk=/fit-in/599x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5884393-1405370229-7180.jpeg.jpg" data-tags="blues" role="button">
 Bo Diddley - 500% More Man (1999)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b1750c7-fb89-4449-939e-29b88181f5c9/15519168646-500.jpg" data-tags="rock, hard rock" role="button">
-Scorpions - Eye II Eye (1999-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7198451b-594d-4d80-9a6e-9276ac6c7766/14180333568-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 Faces - The Best Of Faces: Good Boys When They're Asleep (1999-08-17)
@@ -207,6 +204,9 @@ Elvis Presley - ELV1S 30 #1 Hits (2001)
 <li data-cover="https://img.discogs.com/kLgDkbo1ZHiaykphjDXWzniCWIo=/fit-in/458x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6499693-1500325239-2139.jpeg.jpg" data-tags="thrash metal, rock n roll" role="button">
 Megadeth - Capitol Punishment (2001-05-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/7898e51d-fb9f-46c2-b029-94be73b4d824/3379346129-500.jpg" data-tags="horror punk, good shit, rock n roll, punkrock, on vinyl" role="button">
+The Bones - Bigger Than Jesus (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/b3c0782e-1e68-4c54-b620-9f1163e7bd3d/23738211370-500.jpg" data-tags="50s, rockabilly, rock n roll, rhythm blues" role="button">
 Fats Domino - Walking To New Orleans (2002-03-12)
 </li>
@@ -218,6 +218,9 @@ The Donnas - Spend the Night (2002-10-22)
 </li>
 <li data-cover="https://img.discogs.com/7ERFzwE3l67e3gNzjZC4-BchYBk=/fit-in/600x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15651557-1595260889-1038.jpeg.jpg" data-tags="punk, finnish, rock n roll" role="button">
 Hanoi Rocks - Twelve Shots On the Rocks (2002-11-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8f04778-d093-412f-a03b-e344941a256a/3349072856-500.jpg" data-tags="rockabilly, psychobilly, good shit, rock n roll" role="button">
+The Kings of Nuthin' - Get Busy Livin' or Get Busy Dyin' (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/95af8ca5-8f40-42c3-815b-461f36018d24/4803477506-500.jpg" data-tags="rock" role="button">
 Ryan Adams - Rock N Roll (2003-11-03)
@@ -234,14 +237,17 @@ The 69 Eyes - Devils (2004-10-22)
 <li data-cover="http://coverartarchive.org/release/0cb0d731-2781-4fcf-99cd-133d079b7d31/9379278772-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - Stand My Ground (2004-10-25)
 </li>
-<li data-cover="https://img.discogs.com/YVYsIAJ21KuI21SNW1CbgVWw9-k=/fit-in/336x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3509485-1373047449-3190.jpeg.jpg" data-tags="symphonic metal" role="button">
-Within Temptation - Memories (2005-01-31)
+<li data-cover="https://img.discogs.com/psfDkQJszLm5z4Emvrqa6d97Kos=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4156149-1357159852-8861.jpeg.jpg" data-tags="ray charles" role="button">
+Ray Charles - Georgia On My Mind (2005)
+</li>
+<li data-cover="https://img.discogs.com/WD5IyN13ahJzm2GYZXCpraQyoTE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644391-1142622697.jpeg.jpg" data-tags="brazilian rock, rock" role="button">
+Cachorro Grande - Pista Livre (2005-05)
+</li>
+<li data-cover="https://img.discogs.com/OI_UeOh6RXaam0IO6-DpsMEo8yc=/fit-in/418x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352360-1212061414.jpeg.jpg" data-tags="rock n roll, pissed off, chicks that rock, things to check out more closely" role="button">
+Bif Naked - Superbeautifulmonster (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/14acfbcf-3a1b-4dad-bf31-fae0525aeed2/22195854394-500.jpg" data-tags="pop, alternative, alternative rock" role="button">
 Aly & AJ - Into the Rush (2005-08-16)
-</li>
-<li data-cover="https://img.discogs.com/F2eAWVrmp3MOy3Rq6l7CqmOVdhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2073478-1326175098.jpeg.jpg" data-tags="rock n roll, power metal" role="button">
-Twilight Guardians - Sintrade (2006-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/171b8f80-d9c7-3946-832d-381ee4e76e18/14994320946-500.jpg" data-tags="hard rock" role="button">
 Danko Jones - Sleep Is the Enemy (2006-02-17)
@@ -264,9 +270,6 @@ Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)
 <li data-cover="http://coverartarchive.org/release/69af4cf7-7f7a-4844-b90f-ddf7dad55f11/11099611837-500.jpg" data-tags="thrash metal" role="button">
 Megadeth - Warchest (2007-10-09)
 </li>
-<li data-cover="https://img.discogs.com/TKWIFOsJ8MJpHQi5aUrNwfHQEj4=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2736528-1539780877-1452.jpeg.jpg" data-tags="rock, rock n roll" role="button">
-Melissa Etheridge - The Awakening (2007-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
 Spiritualized - Songs In A&E (2008-05-26)
 </li>
@@ -288,6 +291,9 @@ The Baseballs - Strike! (2009-05-15)
 <li data-cover="http://coverartarchive.org/release/1ee17f89-66f8-3ce2-8b11-68e088f988bd/6791775045-500.jpg" data-tags="rock n roll" role="button">
 The Baseballs - Strike! Back (2009-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/205f316f-33dc-4296-b8c5-c2d0aa20b83f/2568022947-500.jpg" data-tags="rockabilly, country, rock n roll, sympathy68, j l lewis" role="button">
+Jerry Lee Lewis - Mean Old Man (2009-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc54b301-80ca-442f-9d06-f9e1ddad0a67/27649916153-500.jpg" data-tags="progressive metal, rock n roll, symphonic metal, neoclassical metal, neo-classical metal, 2009 albums, neoclassic metal, neo-classic metal" role="button">
 Trans-Siberian Orchestra - Night Castle (2009-10-26)
 </li>
@@ -300,9 +306,6 @@ Joan Jett and the Blackhearts - Greatest Hits (2010-03-09)
 <li data-cover="http://coverartarchive.org/release/1da05321-a8ba-436e-a1a6-98822ea28e94/23564387481-500.jpg" data-tags="soundtrack, hard rock" role="button">
 AC/DC - Iron Man 2 (2010-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/86910e75-022e-466e-bdaf-1d99ac1ec918/15824613772-500.jpg" data-tags="classic rock, alternative rock, hard rock, blues, blues rock, rock and roll, rock n roll, retro rock, retro hard rock" role="button">
-The Sheepdogs - Learn & Burn (2010-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/595b9588-f969-401b-b7ff-0d454e051616/3646610364-500.jpg" data-tags="black metal, black n roll" role="button">
 Kvelertak - Kvelertak (2010-06-21)
 </li>
@@ -314,9 +317,6 @@ Halestorm - ReAnimate: The Covers EP (2011-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac8d04e7-27df-4e7c-bfaa-c8366b9b9cdc/22171835478-500.jpg" data-tags="hard rock, rock" role="button">
 Halestorm - The Strange Case Of... (2012-04-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/270c1cab-5265-4dad-b7fc-e2678ea363db/2407023243-500.jpg" data-tags="alternative rock, hard rock" role="button">
 Flyleaf - New Horizons (2012-10-30)

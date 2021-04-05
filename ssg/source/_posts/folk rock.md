@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:18:01.297Z
+date: 2021-04-05T04:13:01.294Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Blonde on Blonde (1966-05-16)](http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg "Bob Dylan - Blonde on Blonde (1966-05-16)")
@@ -159,9 +159,6 @@ Beirut - Gulag Orkestar (2005)
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
 Мельница - Перевал (2005-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
-Okkervil River - Black Sheep Boy (2005-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
 </li>
@@ -182,6 +179,9 @@ Brandi Carlile - The Story (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/683bf534-5ce1-4818-be2d-38ddcd864eb3/7196832280-500.jpg" data-tags="soundtrack" role="button">
+Eddie Vedder - Into the Wild (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)

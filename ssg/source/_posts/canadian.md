@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:03:01.993Z
+date: 2021-04-05T04:21:01.314Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Leonard Cohen - Songs of Love and Hate (1971)
+</li>
 <li data-cover="https://img.discogs.com/OBP3ccIMyteTupJgt8c_mg8-bEs=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347775-1100284787.jpg.jpg" data-tags="pop, 80s, dance, new wave, synth pop, canadian, synthpop" role="button">
 Men Without Hats - The Safety Dance (1982)
 </li>
@@ -66,7 +69,7 @@ Bryan Adams - The Best of Me (1999-11-17)
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
 Broken Social Scene - Feel Good Lost (2001-03-06)
 </li>
-<li data-cover="https://img.discogs.com/KUhhFJ6QRaMquXb4TG38FaAe9_g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680208-1240508379.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/RWtrCfF6nCrrt3rNcF1ivzYF7W0=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289844-1327093892.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
@@ -120,7 +123,7 @@ Alanis Morissette - So-Called Chaos (2004-04-21)
 <li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rap, k-os, hip-hop, hip hop, canadian, hiphop" role="button">
+<li data-cover="https://img.discogs.com/yQfpMS6r_tvt7ANKPGGxEejdxmo=/fit-in/370x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538934-1288646845.jpeg.jpg" data-tags="rap, k-os, hip-hop, hip hop, canadian, hiphop" role="button">
 K-OS - Joyful Rebellion (2004-08-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, dance punk, rock" role="button">
@@ -189,9 +192,6 @@ Three Days Grace - One-X (2006-06-13)
 <li data-cover="https://img.discogs.com/y1pYVw6lZ04_XZutemNiYkglQEI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9587631-1483307473-8708.jpeg.jpg" data-tags="canadian" role="button">
 Apostle of Hustle - National Anthem of Nowhere (2007-02-06)
 </li>
-<li data-cover="https://img.discogs.com/StLDaXwPWadF-nVGQT1bR70M_HY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-844172-1464663430-8189.jpeg.jpg" data-tags="canadian, indie rock, 00s" role="button">
-The Besnard Lakes - The Besnard Lakes Are The Dark Horse (2007-02-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/53418c3e-466b-4108-b074-563250282ba4/15336772745-500.jpg" data-tags="alternative, canadian, heavy rotation, alternative indie, fucking fantastic album, the greatest album" role="button">
 Mother Mother - Touch Up (2007-02-27)
 </li>
@@ -252,7 +252,7 @@ Caribou - Swim (2010-04-16)
 <li data-cover="https://img.discogs.com/nbedH4NYJi3OoHqX_jMnvbgFjcs=/fit-in/600x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2275611-1588471881-8667.jpeg.jpg" data-tags="indie rock" role="button">
 Broken Social Scene - Forgiveness Rock Record (2010-04-30)
 </li>
-<li data-cover="https://img.discogs.com/QEcqGoyCMgxYWZR2d8p_KSmIux4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2451137-1517901337-3548.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/T42E1w-uOL4Lc5Wadj7YgU695kg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2819988-1475596982-1741.jpeg.jpg" data-tags="indie" role="button">
 The New Pornographers - Together (2010-05-03)
 </li>
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">

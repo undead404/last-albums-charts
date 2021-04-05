@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:42:01.309Z
+date: 2021-04-05T03:51:01.328Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -53,6 +53,9 @@ Alice in Chains - MTV Unplugged (1996-04-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dispatch, rock" role="button">
 Dispatch - Bang Bang (1997-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
+Elliott Smith - XO (1998-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
@@ -314,9 +317,6 @@ Jack Johnson - From Here To Now To You (2013-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d1c2a68-1db2-4fa5-aa36-7d66a8e0d62f/8119387478-500.jpg" data-tags="acoustic" role="button">
 Fink - Hard Believer (2014-07-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/32269431-0747-4ec2-a2b9-84abfaa499ee/8007239303-500.jpg" data-tags="indie, indie folk" role="button">
-Vance Joy - Dream Your Life Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Damien Rice - My Favourite Faded Fantasy (2014-10-31)

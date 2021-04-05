@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T13:34:01.510Z
+date: 2021-04-05T04:28:01.374Z
 title: "post rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -10,7 +10,7 @@ title: "post rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg" data-tags="post-rock" role="button">Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/7e456c3a-0987-445b-869d-f3402ccdbbc0/4679537098-500.jpg" data-tags="post-rock" role="button">God Is An Astronaut - All Is Violent, All Is Bright (2005-02-04)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, instrumental" role="button">Russian Circles - Station (2008-05-06)</li>
+<li data-cover="https://img.discogs.com/WeMm4fW-DXjuCRJ7rbJgEVB51UI=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358916-1532781976-1391.jpeg.jpg" data-tags="post-rock, instrumental" role="button">Russian Circles - Station (2008-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/4e8de062-6ed8-4431-8fd3-25f9eff4b538/5429889739-500.jpg" data-tags="post-rock" role="button">And So I Watch You From Afar - And So I Watch You From Afar (2009-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">toe - For Long Tomorrow (2009-12-09)</li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">Tycho - Awake (2014-03-18)</li>
@@ -114,7 +114,7 @@ Pelican - Australasia (2003-11-04)
 <li data-cover="https://img.discogs.com/W6C-QpKrpalhXPs4aDLwy56iQek=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-558039-1131320823.jpeg.jpg" data-tags="post-rock" role="button">
 Red Sparowes - At The Soundless Dawn (2004)
 </li>
-<li data-cover="https://img.discogs.com/FF4OGff43bOjMQju5WmohNErIGU=/fit-in/569x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-722178-1343770982-7506.jpeg.jpg" data-tags="icelandic" role="button">
+<li data-cover="https://img.discogs.com/2HrWnELsHmxmzpK3FkVmM7XdAs8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13597506-1557222451-7908.jpeg.jpg" data-tags="icelandic" role="button">
 Sigur Rós - Ba Ba Ti Ki Di Do (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/db3eebbe-4d38-4cf9-8e70-2ee2643bcac1/23731746910-500.jpg" data-tags="post-rock" role="button">
@@ -132,7 +132,7 @@ Efterklang - Tripper (2004-10-25)
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">
 Yndi Halda - Enjoy Eternal Bliss (2005)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/hTywSIGX36GrVMcBP_DkZUS9sJ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269964-1235539919.jpeg.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - Young Mountain (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/db85c244-53e7-441c-bab0-52c9c0d27450/1485479058-500.jpg" data-tags="electronic, shoegaze" role="button">
@@ -165,19 +165,16 @@ The Samuel Jackson Five - Easily Misunderstood (2005-09-14)
 <li data-cover="http://coverartarchive.org/release/8363ad80-e692-404b-bcc8-033d10a3b8ad/6512878333-500.jpg" data-tags="post rock" role="button">
 Grails - Black Tar Prophecies Vol's 1, 2, & 3 (2006)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/x6SWrlbfsNYQ1w-fyD5DPOiuwpY=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-699064-1599320517-4791.jpeg.jpg" data-tags="post-rock" role="button">
 Mogwai - Mr. Beast (2006-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0db988-56e4-49fd-810e-da9115f36555/27541791129-500.jpg" data-tags="indie rock, shoegaze" role="button">
 Film School - Film School (2006-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/b620cb98-9918-360e-a46f-cbe0b0ee7da3/4794001807-500.jpg" data-tags="post-rock" role="button">
-God Is An Astronaut - A Moment Of Stillness (2006-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/3bfa4c29-3425-320d-87ae-f6d0e9e83b75/3361339988-500.jpg" data-tags="post-rock" role="button">
 Mono - You Are There (2006-03-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/jsyRYZIO_SWcfGfCe75NLPZNx5Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-812741-1161366713.jpeg.jpg" data-tags="alternative rock" role="button">
 Khoma - The Second Wave (2006-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b17b33e2-e1c4-49c1-85a7-7ea723ce0d3d/25109250377-500.jpg" data-tags="shoegaze, post-rock" role="button">
@@ -198,6 +195,9 @@ APSE - Spirit (2006-10-24)
 <li data-cover="https://img.discogs.com/-sQM2uQRM3m_5-0uWj65utbfHbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-840259-1164169514.jpeg.jpg" data-tags="electronica, swedish, post rock, ambiental, electro indie, oceanic, balearic beat, reviewed in the guardian, information records, favourite releases, resident advisor top 100 albums 00s" role="button">
 Studio - West Coast (2006-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="icelandic, instrumental, post rock" role="button">
+Amiina - Seoul (2006-11-07)
+</li>
 <li data-cover="https://img.discogs.com/CzdVKGQDs_AFe9HJeDtjxe50GPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5109425-1385812382-6557.jpeg.jpg" data-tags="electronic, jazz, japanese, instrumental, math rock, emo, experimental, fusion, japan, post rock, play this at my funeral, noodly, dem drums" role="button">
 toe - New Sentimentality (2006-12-06)
 </li>
@@ -206,9 +206,6 @@ Do Make Say Think - You, You're A History In Rust (2007-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccefc9af-1767-4fe2-80c9-3a8cfb33a2b3/4793919911-500.jpg" data-tags="post-rock" role="button">
 God Is An Astronaut - Far From Refuge (2007-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/2117afca-c69d-3225-bd8c-ac469ef043cd/14990944529-500.jpg" data-tags="post-rock" role="button">
-Caspian - The Four Trees (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dcdef43-6ca6-45b8-90f9-9eefe8e038d0/16157041487-500.jpg" data-tags="post-rock" role="button">
 Pelican - City of Echoes (2007-04-27)
@@ -228,10 +225,13 @@ Leech - The Stolen View (2007-10-26)
 <li data-cover="http://coverartarchive.org/release/77a76a41-0893-4107-9085-aa71191f30ef/15479004276-500.jpg" data-tags="shoegaze, electronic" role="button">
 The Depreciation Guild - In Her Gentle Jaws (2007-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
+Trifonic - Emergence (2008-02-26)
+</li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock, instrumental" role="button">
+<li data-cover="https://img.discogs.com/WeMm4fW-DXjuCRJ7rbJgEVB51UI=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1358916-1532781976-1391.jpeg.jpg" data-tags="post-rock, instrumental" role="button">
 Russian Circles - Station (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d94f03b3-c41a-3915-80e0-53b014ce5c89/9832280586-500.jpg" data-tags="post-rock" role="button">
@@ -261,7 +261,7 @@ Long Distance Calling - Avoid The Light (2009-04-24)
 <li data-cover="http://coverartarchive.org/release/2b9d907e-72ee-4420-82e9-daf39f19750f/6068721390-500.jpg" data-tags="post-rock, post rock, ambient" role="button">
 Message To Bears - Departures (2009-07-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/A6IZatfSjgXpd9quXV2Rds5oL5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2218780-1270510016.jpeg.jpg" data-tags="post-rock" role="button">
 Pelican - What We All Come To Need (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">

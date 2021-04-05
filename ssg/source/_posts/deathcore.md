@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:22:01.296Z
+date: 2021-04-05T04:37:01.407Z
 title: "deathcore: 100 albums you must listen to before you die"
 ---
 ![Bring Me the Horizon - Suicide Season (2008-09-29)](http://coverartarchive.org/release/328619a0-b3fd-4fd3-8404-1c23228df4ad/26118015764-500.jpg "Bring Me the Horizon - Suicide Season (2008-09-29)")
@@ -270,6 +270,9 @@ Black Veil Brides - Set the World on Fire (2011-06-14)
 <li data-cover="http://coverartarchive.org/release/9b79f5ad-eccd-4e2f-ad52-2ddd7c28f4c9/5843906320-500.jpg" data-tags="deathcore" role="button">
 Suicide Silence - The Black Crown (2011-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/fc085595-a8d1-4bc0-a79b-72c5c594777f/25862016757-500.jpg" data-tags="deathcore" role="button">
+Chelsea Grin - My Damnation (2011-07-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/25d38669-25ce-4f15-84ee-2cdb3228e366/17547954563-500.jpg" data-tags="deathcore" role="button">
 All Shall Perish - This Is Where It Ends (2011-07-26)
 </li>
@@ -287,9 +290,6 @@ Childish Gambino - Camp (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/655b09ce-dd8f-4adc-8312-3bdb7ff24049/9757565500-500.jpg" data-tags="deathcore, progressive deathcore" role="button">
 Veil of Maya - Eclipse (2012-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/18b4dccc-88f4-4e8c-9e43-6d83ec3f10a9/9559949103-500.jpg" data-tags="deathcore" role="button">
-Upon a Burning Body - Red. White. Green. (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
 A$AP Rocky - Goldie (2012-04-27)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T20:27:01.290Z
+date: 2021-04-05T04:14:01.298Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
@@ -162,9 +162,6 @@ José González - Crosses (2006-04-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish, female vocalists" role="button">
 El Perro del Mar - El Perro Del Mar (2006-04-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
-The Radio Dept. - Pet Grief (2006-04-12)
-</li>
 <li data-cover="https://img.discogs.com/k0hr64G-d7eA6WlD7l0CC6xedeA=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-793834-1159431566.jpeg.jpg" data-tags="indie pop" role="button">
 I'm from Barcelona - Let Me Introduce My Friends (2006-04-26)
 </li>
@@ -236,6 +233,9 @@ Melissa Horn - Säg ingenting till mig (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/57e289f1-eaf0-4adc-bd7a-d06577e739a7/973535414-500.jpg" data-tags="swedish" role="button">
 Kent - Röd (2009-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/c2976410-2b8f-460d-97cc-6763e28c9e16/20863616353-500.jpg" data-tags="indie, swedish" role="button">
+jj - jj n° 3 (2010-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:30:01.335Z
+date: 2021-04-05T04:08:01.323Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -51,9 +51,6 @@ Clannad - Legend (1984)
 <li data-cover="http://coverartarchive.org/release/29194d09-f4c5-4578-b41c-cbe976e6f330/15874058610-500.jpg" data-tags="ambient" role="button">
 Steve Roach - Structures From Silence (1984)
 </li>
-<li data-cover="https://img.discogs.com/v4UGajqzHWsZSyHZGbTqJ0wFlQo=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13876365-1563109546-8393.jpeg.jpg" data-tags="electronic" role="button">
-Jean Michel Jarre - Zoolook (1984)
-</li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
@@ -90,9 +87,6 @@ Clannad - Banba (1993)
 <li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
 Dead Can Dance - Into the Labyrinth (1993-09-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, new age, sleep, dream, night time, theta inducing, anesthesia" role="button">
-Liquid Mind - Ambience Minimus (1994)
-</li>
 <li data-cover="http://coverartarchive.org/release/37c6a72e-aabb-4c31-a35e-d3ebfec2550f/4138136542-500.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Mask and Mirror (1994-03-22)
 </li>
@@ -116,6 +110,12 @@ Mike Oldfield - Tubular Bells (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/07febcf2-196f-4822-af0f-c18b25644eeb/11671565491-500.jpg" data-tags="piano, new age" role="button">
 Jim Brickman - By Heart - Piano Solos (1995-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3cd63b6-ee9d-33ff-9aad-d49311880ff8/4554695782-500.jpg" data-tags="new age, adiemus" role="button">
+Adiemus - Songs of Sanctuary (1995-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a1234c0-0c18-3394-bbe1-1204f616bec2/1270264448-500.jpg" data-tags="new age, world" role="button">
+Deep Forest - Boheme (1995-06-08)
 </li>
 <li data-cover="https://img.discogs.com/7eJ3USNNSSUZMxdKkVRN37HAhYk=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12141343-1552154146-8781.jpeg.jpg" data-tags="ambient" role="button">
 Vangelis - Voices (1995-10-06)
@@ -159,6 +159,9 @@ David Arkenstone - The Celtic Book Of Days (1998-02-10)
 <li data-cover="http://coverartarchive.org/release/235cb0ac-d357-49f6-acb6-d36fbb940daa/15886844101-500.jpg" data-tags="new age, instrumental, peaceful" role="button">
 2002 - Land Of Forever (1998-05-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/8e5fe11f-78a9-438d-9be0-657af14d2f97/15394369338-500.jpg" data-tags="instrumental, progressive rock" role="button">
+Mike Oldfield - Tubular Bells III (1998-08-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/749f4d3e-14ac-42bf-a5e6-f308ffd080fb/10375802721-500.jpg" data-tags="new age, gregorian chant" role="button">
 Gregorian - Masters of Chant (1999)
 </li>
@@ -177,9 +180,6 @@ Deva Premal - Love Is Space (2000-02-15)
 <li data-cover="https://img.discogs.com/WBGoRzK4akcX8-UdXERvvN-Bzh0=/fit-in/549x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6501862-1420728498-5863.jpeg.jpg" data-tags="sarah brightman, female vocalists" role="button">
 Sarah Brightman - La Luna (2000-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/59657bc4-37cc-4d12-803b-f1f4a5355d0e/27179619369-500.jpg" data-tags="new age" role="button">
-Yanni - If I Could Tell You (2000-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
 Enya - A Day Without Rain (2000-11-11)
 </li>
@@ -188,9 +188,6 @@ Deep Forest - Pacifique (2000-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/c747a0e1-009d-4980-85c5-ceaf58679817/24233601886-500.jpg" data-tags="new age" role="button">
-Secret Garden - Dreamcatcher (2001-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dde58df-e662-499d-9a9a-deed5f551bc0/26128597853-500.jpg" data-tags="new age" role="button">
 Diane Arkenstone - Aquaria: A Liquid Blue Trancescape (2001-10-02)
@@ -236,6 +233,9 @@ Vas - Feast Of Silence (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/vpS3Dc-Yhl7f8JH5pPpPDsqHPIg=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849622-1303857829.jpeg.jpg" data-tags="singer-songwriter, new age, 00s, 2000s, my favorites, my-alt-c, traumhaft, honeycomb, 20 favorite albums of 2005, make me happy now, lieblings2, arbeitsmusik" role="button">
 Frank Black - Honeycomb (2005-07-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="trance, new age, vocal trance" role="button">
+Above & Beyond vs. Andy Moor - Air For Life (2005-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)

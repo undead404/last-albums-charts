@@ -1,16 +1,16 @@
 ---
-date: 2021-04-05T03:03:01.300Z
+date: 2021-04-05T04:22:01.348Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">Portishead - Dummy (1994-08-22)</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">Air - Moon Safari (1998-01-16)</li>
+<li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Mezzanine (1998-04-17)</li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">Moby - Play (1999-05-17)</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">Zero 7 - Simple Things (2001-04-23)</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">Röyksopp - Melody A.M. (2001-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">Sia - Colour the Small One (2004-01-01)</li>
-<li data-cover="http://coverartarchive.org/release/b8f3c647-89b1-4cd6-bb71-a91072380e46/2979651729-500.jpg" data-tags="electronic" role="button">Air - Talkie Walkie (2004-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">Gotye - Making Mirrors (2011-08-19)</li>
@@ -45,6 +45,12 @@ Jamiroquai - Travelling Without Moving (1996-09-09)
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
+Morcheeba - Big Calm (1998-03-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
+Massive Attack - Mezzanine (1998-04-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
 </li>
@@ -53,9 +59,6 @@ Dido - No Angel (1999-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/182495fd-ffe5-4a2d-bf68-43661285a0dc/3879149413-500.jpg" data-tags="chillout" role="button">
 Aim - Cold Water Music (1999-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
-Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
@@ -314,9 +317,6 @@ Rhye - Woman (2013-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
 Indila - Mini World (2014-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
-Tycho - Awake (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

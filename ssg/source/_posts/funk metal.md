@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:53:01.279Z
+date: 2021-04-05T04:39:01.310Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -122,6 +122,9 @@ Sausage - Riddles Are Abound Tonight (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
 P.O.D. - Snuff the Punk (1994-01-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f4fc8ee-2c54-4796-ae65-cd935c86c52f/4851188326-500.jpg" data-tags="funk metal, funk" role="button">
+Infectious Grooves - Groove Family Cyco (1994-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
 311 - Grassroots (1994-07-12)
@@ -281,9 +284,6 @@ Colonel Claypool's Bucket of Bernie Brains - The Big Eyeball In The Sky (2004-09
 </li>
 <li data-cover="http://coverartarchive.org/release/41a71be2-4c3d-43f5-a7f7-f7ea91541bc8/12638055306-500.jpg" data-tags="avant-garde, avant-prog" role="button">
 Sleepytime Gorilla Museum - Of Natural History (2004-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/178d4ed8-ab44-456b-8c56-a8736e8e9ae9/2903015576-500.jpg" data-tags="depressive black metal" role="button">
-Mortifera - Vastiia Tenebrd Mortifera (2004-12)
 </li>
 <li data-cover="https://img.discogs.com/cW_1No87FdJZUbHMb_11wNPb5pk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6694333-1424781381-4411.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, reggae, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks, alternativo, regge, my cds, opelmelange, flamenkeando con gracia" role="button">
 O'Funk'illo - No Te Cabe Na' (2005)

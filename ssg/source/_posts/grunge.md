@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:48:01.386Z
+date: 2021-04-05T04:03:01.280Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -93,7 +93,7 @@ Mother Love Bone - Mother Love Bone (1992-11-10)
 <li data-cover="http://coverartarchive.org/release/0ed52431-7c63-459f-9b9c-69ba2be98aa2/2868789715-500.jpg" data-tags="grunge" role="button">
 Nirvana - Incesticide (1992-12-14)
 </li>
-<li data-cover="https://img.discogs.com/-t_yW2APNnohJ-C_nDFMMCcKRsg=/fit-in/587x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2744720-1381875626-3342.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+<li data-cover="https://img.discogs.com/SbiREqGVqtJpp9IWTupHfJ06aZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13068383-1547486816-4724.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
@@ -201,6 +201,9 @@ Soundgarden - A-Sides (1997-11-04)
 <li data-cover="http://coverartarchive.org/release/ce0af920-bbf3-33e1-8133-6c72aebe30dd/2550464717-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Yield (1998-01-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+Jerry Cantrell - Boggy Depot (1998-04-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/699e38f0-fb3b-306c-95d7-3e5f68e543aa/23334775352-500.jpg" data-tags="90s, grunge, rock" role="button">
 Hole - Celebrity Skin (1998-09-02)
 </li>
@@ -236,9 +239,6 @@ Creed - Weathered (2001-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
 Staind - Break the Cycle (2001-05-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
-Stone Temple Pilots - Shangri-La Dee Da (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)
@@ -297,7 +297,7 @@ Alice in Chains - Black Gives Way to Blue (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/UXgbqevfNeBqlilcwq4pyWKeH80=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5558208-1396520125-1881.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0653ea23-f0e6-4708-b090-d9afcb4ed7c2/23042689021-500.jpg" data-tags="grunge" role="button">

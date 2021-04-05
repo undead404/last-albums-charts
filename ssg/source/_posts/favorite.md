@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:59:01.293Z
+date: 2021-04-05T04:00:01.419Z
 title: "favorite: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -7,13 +7,13 @@ title: "favorite: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="90s, albums i own on cd" role="button">Soulwax - Much Against Everyone's Advice (1999-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock, favorite" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk, pitchfork best new music" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/14d38ffd-a100-4865-998b-2a82e811ab86/3892189369-500.jpg" data-tags="experimental, female vocalists, synthpop" role="button">Oh Land - Oh Land (2010)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
-<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -26,9 +26,6 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b6ffacd-0db8-33cb-952b-7a8f3fd9b8a9/21176995158-500.jpg" data-tags="90s" role="button">
-Sophie B. Hawkins - Tongues and Tails (1992-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
@@ -65,6 +62,9 @@ Cake - Prolonging the Magic (1998-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/aaa3c223-902d-48a6-b139-f3e0489b1089/28587170633-500.jpg" data-tags="90s" role="button">
 Jets to Brazil - Orange Rhyming Dictionary (1998-10-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="90s, albums i own on cd" role="button">
+Soulwax - Much Against Everyone's Advice (1999-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
@@ -282,7 +282,7 @@ Enrique Iglesias - Euphoria (2010-07-05)
 <li data-cover="http://coverartarchive.org/release/41b525c2-1a94-491c-8676-620f8d84e8e6/4099041526-500.jpg" data-tags="alternative" role="button">
 Foster the People - Pumped Up Kicks (2010-09-14)
 </li>
-<li data-cover="https://img.discogs.com/tNOtLmMEoCq5oM4CR-y2BdyrYWc=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9156882-1612598557-2739.jpeg.jpg" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/2-R0Ld1_9SzXqKBomZqtyOoAofQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8820861-1469469848-2185.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Speak Now (2010-10-25)
 </li>
 <li data-cover="https://img.discogs.com/7NlxrsULvOY21UT1Bkz9r4c4ubc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2514342-1405535781-5094.jpeg.jpg" data-tags="psychedelic rock" role="button">
