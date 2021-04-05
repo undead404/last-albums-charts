@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:14:01.314Z
+date: 2021-04-05T03:35:01.342Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -38,6 +38,9 @@ Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Homework (1997-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/afa098e6-7ec7-4860-b39e-0855ce28e0b4/5883652581-500.jpg" data-tags="house" role="button">
+Stardust - Music Sounds Better With You (1998-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/768bb870-b958-49e9-a87b-a695b67aec1b/14288438323-500.jpg" data-tags="electronic, faithless" role="button">
 Faithless - Sunday 8PM (1998-09-21)
@@ -86,9 +89,6 @@ Metro Area - Metro Area (2002-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/11b4dd78-3fc1-48b7-ab89-3f2fcccac8fd/4379929819-500.jpg" data-tags="electronic, house" role="button">
 Audio Bullys - Ego War (2003-06-02)
-</li>
-<li data-cover="https://img.discogs.com/tqX3layOzgc4myPG6MOsVN5biOA=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-609523-1373519340-7763.jpeg.jpg" data-tags="electronic, dance" role="button">
-Basement Jaxx - Kish Kash (2003-10-20)
 </li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)

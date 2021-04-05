@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:10:01.305Z
+date: 2021-04-05T03:41:01.319Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -51,9 +51,6 @@ Vangelis - Oceanic (1996-10-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient, new age, melodic, gentle, relaxing, nature, soothing, natural, beach radio" role="button">
 Medwyn Goodall - The Dolphin Quest (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/db18ce9e-4bd5-43b7-869f-35e4e83423ab/3460033404-500.jpg" data-tags="world, ethnic, ethereal" role="button">
-Vas - Sunyata (1997-04-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/3068ed18-5a81-42b1-875e-3a97486695ea/26215295371-500.jpg" data-tags="easy listening, soft rock, favorite artists, good shit, relaxing, awesomeness, thinking, graduation, all music, as i lay dying, sister hazel, all american rejects, if everyone cared, self-reflect, blessid union of souls - blessid union of souls" role="button">
 Blessid Union Of Souls - Blessid Union Of Souls (1997-05-20)
 </li>
@@ -75,12 +72,6 @@ Sneaker Pimps - Splinter (1999-10-25)
 <li data-cover="http://coverartarchive.org/release/793d727d-ed85-45b4-880e-3c4f5349499f/13988764360-500.jpg" data-tags="punk rock, punk, pop punk" role="button">
 MxPx - The Ever Passing Moment (2000-05-16)
 </li>
-<li data-cover="https://img.discogs.com/j0FQumDbcqm26TdAsL4XozS-7Mo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7986861-1455870347-9686.jpeg.jpg" data-tags="electronic, trip-hop, downtempo, downbeat, relaxing, thievery corporation, ladytronica" role="button">
-Thievery Corporation - Shadows of Ourselves (2000-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb41d085-f38b-48cc-919f-377ee0fb2fe9/16112159503-500.jpg" data-tags="gregoriano" role="button">
-Magna Canta - Enchanted Spirits (2000-11-20)
-</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
@@ -93,8 +84,14 @@ Vincent Gallo - When (2001-10-01)
 <li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
 Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/9e919cd5-0feb-40cb-bbd8-8e4406e61bdd/7792440486-500.jpg" data-tags="dance, electronic" role="button">
+Planet Funk - Non Zero Sumness (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/d191264d-ffdc-4816-9564-fc2b149eab14/1496309090-500.jpg" data-tags="new age" role="button">
 Balligomingo - Beneath The Surface (2002-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8562bbcb-8d19-4c2e-a24b-24a3e50fe0d6/3671487812-500.jpg" data-tags="vocal trance, trance" role="button">
+Andain - Summer Calling (2002-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/abb636a3-eb45-4489-a659-c6ec032c0b5a/11201614922-500.jpg" data-tags="rnb" role="button">
 Amerie - All I Have (2002-07-30)
@@ -104,6 +101,9 @@ Underworld - A Hundred Days Off (2002-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2a314ab-986e-40af-8cab-04806ab68ce9/7927220552-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - Tallahassee (2002-11-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dj trance" role="button">
+System F - Together (2003-01-29)
 </li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
 Gregor Samsa - 27:36 (2003-03-18)
@@ -146,9 +146,6 @@ Matt Costa - Songs We Sing (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/ea9cd27f-d04a-4ecb-b93a-0a41afa06005/27631567351-500.jpg" data-tags="ambient" role="button">
-Entheogenic - Dialogue of the Speakers (2005-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/df2e2fcb-444c-40cb-9a43-a0d7462f4aa7/23478128255-500.jpg" data-tags="alternative rock, ambient, alternative" role="button">
 Team Sleep - Team Sleep (2005-05-09)
@@ -195,7 +192,7 @@ Frozen Silence - Heart of Winter (2006-12-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, rock, retro, relaxing, eclectic, 1940s, 1920s, coffee shop, british pop, lily allen, pop music, singles i own, cafe, black and white, bohemian, new faves, annymix, f singer-songwriter, audrey hepburn, joni radio, 1920's, bohemia, pop music tag, luda kokoshka, bohemic" role="button">
 Lily Allen - Littlest Things (2006-12-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="owl city" role="button">
+<li data-cover="https://img.discogs.com/GOBQZE2ox2Kt3bl4iBk0FbCVgiU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895370-1506110433-6785.jpeg.jpg" data-tags="owl city" role="button">
 Owl City - Of June (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="piano solo, new age, relaxing" role="button">
@@ -206,6 +203,9 @@ Katharine McPhee - Katharine McPhee (2007-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
+</li>
+<li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
+Nic Chagall - What You Need (2007-03-05)
 </li>
 <li data-cover="https://img.discogs.com/dOJa60os90Lct4y51jcn90hTkmA=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17672506-1614793975-6393.jpeg.jpg" data-tags="rnb" role="button">
 Amerie - Because I Love It (2007-05-14)

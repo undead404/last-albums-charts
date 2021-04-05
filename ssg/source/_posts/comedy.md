@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:27:01.293Z
+date: 2021-04-05T03:12:01.296Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -39,8 +39,14 @@ Tom Waits - Rain Dogs (1985)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Monty Python - Monty Python Sings (1989-12-11)
 </li>
+<li data-cover="https://img.discogs.com/dEhpFDSE3Q_XE2cghfto_iCNS-M=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600994-1438746211-5121.jpeg.jpg" data-tags="comedy, stand-up" role="button">
+Bill Hicks - Dangerous (1990)
+</li>
 <li data-cover="https://img.discogs.com/Kkq0SBlqb4dKcbXzkRVF-0EP1YU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-391109-1475824375-7290.jpeg.jpg" data-tags="comedy, soundtrack, blues" role="button">
 The Simpsons - The Simpsons Sing The Blues (1990-02-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/127c75c2-095a-4e25-bcdd-240c9e1087e3/6538986056-500.jpg" data-tags="comedy" role="button">
+Bill Hicks - Relentless (1992)
 </li>
 <li data-cover="https://img.discogs.com/Yp8TOts2zNCwhqKlxQgr8u_lNzQ=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1966780-1346838683-9156.jpeg.jpg" data-tags="comedy" role="button">
 Spinal Tap - Break Like The Wind (1992-03-17)
@@ -95,9 +101,6 @@ Eddie Izzard - Glorious (1997-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0052d858-ec26-48cd-bc52-0ddd9dd275fb/24397212007-500.jpg" data-tags="comedy, humor" role="button">
 Denis Leary - Lock 'N Load (1997-11-18)
-</li>
-<li data-cover="https://img.discogs.com/ivfHy7DrGtxr7pgz4bubBMmcUYo=/fit-in/282x267/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2708244-1297471438.jpeg.jpg" data-tags="japanese, emo, anime, j-pop, visual kei, art pop, folklore intellectuel, poptron, comedy, humour, lolicore, hipster, hipsterish, not art pop, pooptron, pop, dark, gothic metal, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, totec radio, artpop, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, not epic, horny voice, amatue, post-barneycore, all boobs and no brains, miami bass, hino" role="button">
-GG Allin - Hated in the Nation (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a362876-84a2-4e96-b941-a1d1dd118445/16203893118-500.jpg" data-tags="comedy" role="button">
 Mitch Hedberg - Strategic Grill Locations (1999)
@@ -173,9 +176,6 @@ Tenacious D - The Pick of Destiny (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a2091d2-70eb-4464-8a32-67488a85a312/19499347108-500.jpg" data-tags="jazz, comedy, helge schneider" role="button">
 Helge Schneider - I Brake Together (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/edb3ef60-9f1e-46e9-a50f-b1ea5f5e7f9d/8104569816-500.jpg" data-tags="hip-hop, electronic, rap, experimental" role="button">
-2H Company - Искусство ухода за АК-47 (2007-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bc3ef86-36dd-4546-96ff-c644156b7b67/5384639454-500.jpg" data-tags="finnish, power metal, tokio hotel" role="button">
 Ari Koivunen - Fuel For The Fire (2007-05-24)
@@ -291,7 +291,7 @@ Dead Can Dance - Anastasis (2012-08-13)
 <li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
 Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
-<li data-cover="https://img.discogs.com/kzt0Yo7Ks4KdyLfFvL2PN96gAtA=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3956184-1353962799-5227.jpeg.jpg" data-tags="misc, all, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, easy listening, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast" role="button">
+<li data-cover="https://img.discogs.com/_Z7XV9EksMIgmDfskJV2RhZHWrg=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3951265-1350294126-5466.jpeg.jpg" data-tags="misc, all, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, easy listening, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast" role="button">
 King Dude - Burning Daylight (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:00:01.834Z
+date: 2021-04-05T03:40:01.295Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
@@ -201,6 +201,9 @@ Hall & Oates - The Essential Daryl Hall & John Oates (2005)
 <li data-cover="https://img.discogs.com/knjaSnNxQ0KcisBhjyaU6_7421A=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1089778-1191250136.jpeg.jpg" data-tags="classic rock, folk, csn" role="button">
 Crosby, Stills & Nash - Greatest Hits (2005-03-14)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie pop, indie, 00s" role="button">
+Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
+</li>
 <li data-cover="https://img.discogs.com/pPPWcvD_F9GXyGQxpOVeJsKQTLY=/fit-in/600x691/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8875473-1470585325-4745.jpeg.jpg" data-tags="pop, michael jackson" role="button">
 Michael Jackson - The Essential Michael Jackson (2005-07-18)
 </li>
@@ -305,9 +308,6 @@ Manic Street Preachers - National Treasures - The Complete Singles (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffad013a-4f64-44dd-bfb3-c6360fbd042d/9564325968-500.jpg" data-tags="hard rock" role="button">
 Scorpions - Comeblack (2011-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8dc0bf1-c974-4f1b-9d70-bd132bc2bf84/9149605530-500.jpg" data-tags="rock" role="button">
-The Rolling Stones - GRRR! (2012-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, greatest hits, collection" role="button">
 Girls Aloud - Ten (2012-11-23)

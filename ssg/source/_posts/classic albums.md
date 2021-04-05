@@ -1,14 +1,14 @@
 ---
-date: 2021-04-04T18:23:01.318Z
+date: 2021-04-05T03:45:01.614Z
 title: "classic albums: 100 albums you must listen to before you die"
 ---
 ![Jeff Buckley - Grace (1994-08-15)](https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg "Jeff Buckley - Grace (1994-08-15)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">John Coltrane - A Love Supreme (1965-01)</li>
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">The Velvet Underground - The Velvet Underground & Nico (1967-03)</li>
+<li data-cover="https://img.discogs.com/_9ng2B8Jgtq2R1FzwZZBmRu2WCQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9984176-1558329508-1528.jpeg.jpg" data-tags="soul" role="button">Marvin Gaye - What's Going On (1971-05-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
 <li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">Television - Marquee Moon (1977-02-08)</li>
-<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">Kate Bush - Hounds of Love (1985-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/832c3cd6-effa-3e5f-a6e1-273cfd2d9c27/21363854627-500.jpg" data-tags="80s" role="button">The Smiths - Strangeways, Here We Come (1987-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">The Stone Roses - The Stone Roses (1989-04)</li>
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">Pixies - Doolittle (1989-04-17)</li>
@@ -51,6 +51,9 @@ Janis Joplin - I Got Dem Ol' Kozmic Blues Again Mama! (1969-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock" role="button">
 Jefferson Airplane - Volunteers (1969-11)
 </li>
+<li data-cover="https://img.discogs.com/_9ng2B8Jgtq2R1FzwZZBmRu2WCQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9984176-1558329508-1528.jpeg.jpg" data-tags="soul" role="button">
+Marvin Gaye - What's Going On (1971-05-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/2b5ecc67-95dd-412f-9b1b-4ff7a7dd2d35/18378592123-500.jpg" data-tags="pop rock" role="button">
 Carly Simon - No Secrets (1972)
 </li>
@@ -69,6 +72,9 @@ Steely Dan - Can't Buy A Thrill (1972-10)
 <li data-cover="http://coverartarchive.org/release/72e14f2a-bd30-3310-b498-fc309203d08a/24031827549-500.jpg" data-tags="70s, funk, soul" role="button">
 Sly & The Family Stone - Fresh (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/346d6784-4108-4ec2-a40b-3500c56d4f08/16612065220-500.jpg" data-tags="reggae" role="button">
+Bob Marley & The Wailers - Catch A Fire (1973-04-13)
+</li>
 <li data-cover="https://img.discogs.com/7idxMRMZmdYjVlxrITv-ynxh6yE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10686817-1546367036-5135.jpeg.jpg" data-tags="70s" role="button">
 Steely Dan - Countdown To Ecstasy (1973-07)
 </li>
@@ -84,7 +90,7 @@ Bruce Springsteen - The Wild, the Innocent & the E Street Shuffle (1973-11-05)
 <li data-cover="http://coverartarchive.org/release/2194aff6-e485-4385-a790-c13f9922be6d/23185893218-500.jpg" data-tags="70s, folk, folk rock" role="button">
 Richard & Linda Thompson - I Want To See The Bright Lights Tonight (1974-04)
 </li>
-<li data-cover="https://img.discogs.com/1TuvqFckt73HKDcnvtzlJotKBN8=/fit-in/600x911/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1688760-1237050525.jpeg.jpg" data-tags="singer-songwriter, soft rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/RKYTfObf6yj-ks-46I-6ptDbmrk=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11069254-1563716202-1188.jpeg.jpg" data-tags="singer-songwriter, soft rock, 70s" role="button">
 Jackson Browne - Late For The Sky (1974-09)
 </li>
 <li data-cover="https://img.discogs.com/50lU9b6pQPI9VE1kE8e8QVUy2Kk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1911688-1251934808.jpeg.jpg" data-tags="classic rock" role="button">
@@ -162,9 +168,6 @@ Billy Squier - Don't Say No (1981)
 <li data-cover="http://coverartarchive.org/release/eed37c46-a7ba-4b5e-b818-888f63fa58d2/10574982971-500.jpg" data-tags="rock, 80s, swedish, classic albums, color bands" role="button">
 Ebba Grön - Ebba Grön (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/65ec332d-4ae4-4870-b61d-392808954a70/11525291838-500.jpg" data-tags="80s, new wave" role="button">
-ABC - The Lexicon Of Love (1982)
-</li>
 <li data-cover="https://img.discogs.com/n8TRA44U-Li7z0pwAK9fq1szb04=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084078-1481223166-2282.jpeg.jpg" data-tags="jazz rock, donald fagen" role="button">
 Donald Fagen - The Nightfly (1982-10)
 </li>
@@ -191,9 +194,6 @@ Hüsker Dü - Candy Apple Grey (1986-03-17)
 </li>
 <li data-cover="https://img.discogs.com/X8UnwwfvWYkYC-6gAfOsJJPi2ew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1036392-1393217616-5940.jpeg.jpg" data-tags="music for the revolution, the eighties were not that bad" role="button">
 Billy Bragg - Talking With the Taxman About Poetry (1986-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/830bc0f4-ece7-4a2c-9816-587e06a13e84/19863108125-500.jpg" data-tags="rock, hard rock, hair metal, melodic rock, classic albums, glam metal, lps i own, face book" role="button">
-TNT - Tell No Tales (1987-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/832c3cd6-effa-3e5f-a6e1-273cfd2d9c27/21363854627-500.jpg" data-tags="80s" role="button">
 The Smiths - Strangeways, Here We Come (1987-09-22)
@@ -234,10 +234,10 @@ Public Enemy - Fear of a Black Planet (1990-03-20)
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - Lights... Camera... Revolution! (1990-07-03)
 </li>
-<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/3q0CK6pR9XUhuTMDPvPFauGAV9k=/fit-in/600x701/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206344-1409608147-5948.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
-<li data-cover="https://img.discogs.com/-4bAIImLJqlscAd9wpQVNcw_MGw=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747952-1297035924.jpeg.jpg" data-tags="funk, soul" role="button">
+<li data-cover="https://img.discogs.com/2H7ZiilvF7LSZQrDv__unEhyLxY=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1796928-1243941742.jpeg.jpg" data-tags="funk, soul" role="button">
 Sly & The Family Stone - Greatest Hits (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a88cc8-2ce3-4ca3-afd7-d2411844b122/18759016208-500.jpg" data-tags="classic rock, rock" role="button">
@@ -306,9 +306,6 @@ Nikka Costa - Everybody Got Their Something (2001-05-22)
 <li data-cover="http://coverartarchive.org/release/c9b684e7-1820-4f91-a43b-ebf12c580d9f/6624706040-500.jpg" data-tags="noise rock" role="button">
 mclusky - mclusky Do Dallas (2002-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/62bdb67c-10aa-48c0-b7c6-f8147ffa12e8/27119798376-500.jpg" data-tags="post-hardcore" role="button">
-Hot Snakes - Suicide Invoice (2002-06-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
 </li>
@@ -320,5 +317,8 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
 The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
+Bruce Springsteen - Nebraska (2010-08-13)
 </li>
 </ol>
