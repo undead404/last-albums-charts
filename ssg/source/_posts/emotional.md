@@ -1,14 +1,14 @@
 ---
-date: 2021-04-04T23:33:01.277Z
+date: 2021-04-05T07:21:02.068Z
 title: "emotional: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">Vashti Bunyan - Just Another Diamond Day (1970)</li>
+<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">Vashti Bunyan - Just Another Diamond Day (1970)</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
 <li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">Robbie Williams - Angels (1997-11)</li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
@@ -78,6 +78,9 @@ Dishwalla - And You Think You Know What Life's About (1998-08-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
 </li>
+<li data-cover="https://img.discogs.com/uIjAHLlHTOPWsyeSt8OeDiyNSp4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949110-1608819307-6647.jpeg.jpg" data-tags="alternative rock, britpop" role="button">
+Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
 Robbie Williams - I've Been Expecting You (1998-10-26)
 </li>
@@ -123,9 +126,6 @@ Lampshade - Because Trees Can Fly (2003)
 <li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
 Copeland - Beneath Medicine Tree (2003-03-25)
 </li>
-<li data-cover="https://img.discogs.com/n3wdRuLdRNb59IB_Qv4Dvc1amk0=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207196-1234422929.jpeg.jpg" data-tags="trance, dance" role="button">
-4 Strings - Believe (2003-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
@@ -144,7 +144,7 @@ Letter Kills - The Bridge (2004)
 <li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
 Xiu Xiu - Fabulous Muscles (2004-02-17)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">

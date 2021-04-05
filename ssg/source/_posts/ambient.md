@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T05:09:01.419Z
+date: 2021-04-05T07:38:01.466Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -44,9 +44,6 @@ Global Communication - 76:14 (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
-Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
 Autechre - Amber (1994-11-07)
@@ -209,6 +206,9 @@ Eluvium - Copia (2007-02-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Amiina - Kurr (2007-03-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
+Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)

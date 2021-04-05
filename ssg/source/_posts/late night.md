@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:43:01.345Z
+date: 2021-04-05T07:37:01.455Z
 title: "late night: 100 albums you must listen to before you die"
 ---
 ![Chromatics - Kill for Love (2012-03-26)](http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg "Chromatics - Kill for Love (2012-03-26)")
@@ -8,8 +8,8 @@ title: "late night: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">Cat Power - Moon Pix (1998-09-22)</li>
 <li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock, favorite" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
+<li data-cover="http://coverartarchive.org/release/a2f68207-3f59-4bdc-a672-1c30f6ee16ab/15535338504-500.jpg" data-tags="electronic" role="button">Cobra Starship - ¡Viva La Cobra! (2007-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">Little Dragon - Ritual Union (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">Chromatics - Kill for Love (2012-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg" data-tags="punk, revolution, hard rock, energetic, angry, late night, passionate, fierce, intense, fiery, confrontational, earnest, snide, raucous, drinking, road trip, protest, nighttime, rebellious, joy, exuberant, empowerment, cathartic, rowdy, volatile, gutsy, sprawling, british punk, dance-rock, tgif, brash, guys night out, hanging out, reckless, night driving, open road" role="button">The Clash - Hits Back (2013-08-26)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/8415536b-cc0f-46b5-bfd4-95f87ec0b7ca/20559607098-500.jpg" data-tags="sitar, raga" role="button">
-Ravi Shankar - The Sounds of India (1958)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, free jazz" role="button">
 Ornette Coleman - The Shape of Jazz to Come (1959-10)
 </li>
@@ -135,7 +132,7 @@ Broadcast - The Noise Made by People (2000-03-20)
 <li data-cover="http://coverartarchive.org/release/6d8a9b40-4b93-4c89-9891-4798356c0483/14483846468-500.jpg" data-tags="post-rock" role="button">
 Calla - Scavengers (2001-01-16)
 </li>
-<li data-cover="https://img.discogs.com/KUhhFJ6QRaMquXb4TG38FaAe9_g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680208-1240508379.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/RWtrCfF6nCrrt3rNcF1ivzYF7W0=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289844-1327093892.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/194ba0b8-8f76-3122-b5bd-6e2e6d8937dc/7202965936-500.jpg" data-tags="lo-fi, for rainy days, 00s, minimal indie" role="button">
@@ -195,6 +192,9 @@ Sonic Youth - Rather Ripped (2006-06-05)
 <li data-cover="https://img.discogs.com/iCPdPnfWNtr23gzqCpSNdXWLMOY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-888565-1370121938-7859.jpeg.jpg" data-tags="alternative, downtempo" role="button">
 Husky Rescue - Ghost Is Not Real (2006-09)
 </li>
+<li data-cover="https://img.discogs.com/7BgE7BHzEQnLAU7Wx_uxnCVAXQc=/fit-in/600x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190782-1379163694-6244.jpeg.jpg" data-tags="rnb, rap" role="button">
+Pretty Ricky - Late Night Special (2007-01-23)
+</li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
 </li>
@@ -212,6 +212,9 @@ Chromatics - Night Drive (2007-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a9846ec-ef18-4b12-88fb-4350e84a3b46/10158523186-500.jpg" data-tags="chillout, late night" role="button">
 Alpha - The Sky Is Mine (2007-09-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2f68207-3f59-4bdc-a672-1c30f6ee16ab/15535338504-500.jpg" data-tags="electronic" role="button">
+Cobra Starship - ¡Viva La Cobra! (2007-10-23)
 </li>
 <li data-cover="https://img.discogs.com/cfZubMxXa-kMYSbL_pr1XWD-YJI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1369273-1220479145.jpeg.jpg" data-tags="cover, late night, 00s, cover songs, after hours, beyondwithin, winter 2012, get later, aural fixation - best of 2007, wmbr, february 2012, music for cloudy days" role="button">
 Japancakes - Loveless (2007-11-13)
@@ -278,9 +281,6 @@ Turnpike Troubadours - Goodbye Normal Street (2012-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebc6e131-2301-480c-ad3f-4e0b790dcf05/5974509150-500.jpg" data-tags="software" role="button">
 Autre Ne Veut - Anxiety (2013-02-26)
-</li>
-<li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
-The Flaming Lips - The Terror (2013-04-01)
 </li>
 <li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)

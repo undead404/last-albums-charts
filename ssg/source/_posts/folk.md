@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T06:00:01.392Z
+date: 2021-04-05T07:24:02.372Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -62,6 +62,9 @@ Nick Drake - Pink Moon (1972-02-25)
 </li>
 <li data-cover="https://img.discogs.com/CYW6Y317xlXq4ziqGYF1R4xOfFk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8980958-1498015910-8188.jpeg.jpg" data-tags="folk" role="button">
 Bob Dylan - Blood on the Tracks (1975-01-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">
+Bob Dylan - Desire (1976-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/477bb8aa-5413-37c5-8f1a-f9ca7a36c9d3/22089606298-500.jpg" data-tags="james taylor, folk" role="button">
 James Taylor - Greatest Hits (1976-11-01)
@@ -248,9 +251,6 @@ The Head and the Heart - The Head and The Heart (2010-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/686e0436-f911-3fe7-a685-3a3e155c9b78/25329344693-500.jpg" data-tags="folk, folk rock" role="button">
 Bombay Bicycle Club - Flaws (2010-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3acc2ee-9411-45e4-b1da-f3ed28fd26a2/6115532371-500.jpg" data-tags="folktronica, folk, indietronica, alternative dance" role="button">
-Crystal Fighters - Star of Love (2010-10-04)
 </li>
 <li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
 The Civil Wars - Barton Hollow (2011-01-10)

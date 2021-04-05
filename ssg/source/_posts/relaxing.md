@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:41:01.319Z
+date: 2021-04-05T07:26:01.358Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -27,6 +27,9 @@ Visage - The Damned Don't Cry (1982-01-04)
 <li data-cover="http://coverartarchive.org/release/9e552cd6-a616-495d-8473-aaf79ad26c81/21884715670-500.jpg" data-tags="classical" role="button">
 Arvo Pärt - Arbos (1987-05-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
+Karunesh - Secrets of Life (1995)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
 Sublime - Sublime (1995)
 </li>
@@ -42,7 +45,7 @@ Enya - The Memory of Trees (1995-11-21)
 <li data-cover="http://coverartarchive.org/release/e6ad5820-ad0a-3a8d-9dc8-5588aa4643d9/9943104925-500.jpg" data-tags="era, new age" role="button">
 Era - Era (1996)
 </li>
-<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
+<li data-cover="https://img.discogs.com/5yYmwaKosO62y-ibHwTCmi-CqMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34783-001.jpg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8711c67-1203-35db-8312-83b772b00307/9734071071-500.jpg" data-tags="electronic" role="button">
@@ -63,17 +66,17 @@ Deuter - Reiki: Hands of Light (1998-10-25)
 <li data-cover="http://coverartarchive.org/release/d98d60d4-51a6-4647-a92f-195af796599e/24147288966-500.jpg" data-tags="rock, alternative" role="button">
 Modest Mouse - Night on the Sun (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/4bd15a42-66f1-4e59-9157-d11e288ce5d2/5350079388-500.jpg" data-tags="trip-hop" role="button">
-Thievery Corporation - Abductions and Reconstructions (1999-04-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/793d727d-ed85-45b4-880e-3c4f5349499f/13988764360-500.jpg" data-tags="punk rock, punk, pop punk" role="button">
-MxPx - The Ever Passing Moment (2000-05-16)
+<li data-cover="http://coverartarchive.org/release/df1cbbc3-1f49-4f22-95c7-96618000c58f/1436194084-500.jpg" data-tags="relaxing, vocal, new age, enya" role="button">
+Adiemus - Adiemus IV - The Eternal Knot (2000-09-25)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a4d245c-f596-4ea5-91ef-0c5761b0f826/2308134752-500.jpg" data-tags="new age, ambient" role="button">
+Amethystium - Odonata (2001-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce1299dc-d33b-44b2-86cd-303bb7db9583/10962586081-500.jpg" data-tags="amidio junior, donkalifa, krica morena bela, argeu, krica morena" role="button">
 Tears for Fears - Shout: The Very Best Of Tears For Fears (2001-09-25)
@@ -135,20 +138,17 @@ Bond - Classified (2004-05-08)
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
-<li data-cover="https://img.discogs.com/LHHhi4U3WGT_XMhYyZnMCDlHtoc=/fit-in/459x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565321-1151310339.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Thomas Dybdahl - One Day You'll Dance For Me, New York City (2004-10-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/58f2d266-b4ad-483c-abd0-d36dc25e0c02/11944292045-500.jpg" data-tags="relaxing, beautiful piano, piano, new age" role="button">
 David Nevue - Overcome (2005)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="piano, relaxing, ambient, new age" role="button">
+Fiona Joy Hawkins - Portrait of a Waterfall (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">
 Matt Costa - Songs We Sing (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/df2e2fcb-444c-40cb-9a43-a0d7462f4aa7/23478128255-500.jpg" data-tags="alternative rock, ambient, alternative" role="button">
-Team Sleep - Team Sleep (2005-05-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="relaxing" role="button">
 Rilo Kiley - 2005-06-18: The Grand Ballroom, San Francisco, CA, USA (2005-06-18)
@@ -204,14 +204,14 @@ Katharine McPhee - Katharine McPhee (2007-01-30)
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
 </li>
-<li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
-Nic Chagall - What You Need (2007-03-05)
-</li>
 <li data-cover="https://img.discogs.com/dOJa60os90Lct4y51jcn90hTkmA=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17672506-1614793975-6393.jpeg.jpg" data-tags="rnb" role="button">
 Amerie - Because I Love It (2007-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae79c52b-8ed3-45dd-a208-a4bac7c21fb6/28993094834-500.jpg" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
 Jarabe de Palo - Adelantando (2007-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/60e82431-7430-45db-a02d-b7e13646f760/8259283262-500.jpg" data-tags="chillout, dance, house" role="button">
+Groove Armada - Greatest Hits (2007-10-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental, acoustic, relaxing, fingerstyle" role="button">
 Antoine Dufour - Existence (2008)
@@ -243,11 +243,11 @@ Jon Hopkins - Insides (2008-11-30)
 <li data-cover="http://coverartarchive.org/release/5e0a9494-7532-41c5-9088-9f97e2c41477/18229199776-500.jpg" data-tags="pop, soft, relaxing, pl, female vocalist, myf, wielkie albumy, po prostu  urocze, jest melancholijnie" role="button">
 Anita Lipnicka - Hard Land of Wonder (2009)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chillout, indie, swedish, dreamy, dream pop, folktronica, relaxing, emusic, balearic beat" role="button">
-jj - jj n° 1 (2009-03-26)
-</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, sex, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="mpb, chillout, brasil, relaxing" role="button">
+Maria Gadú - Maria Gadú (2009-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)

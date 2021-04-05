@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T03:04:01.300Z
+date: 2021-04-05T07:43:06.871Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -57,7 +57,7 @@ Led Zeppelin - Led Zeppelin II (1969-10-22)
 <li data-cover="http://coverartarchive.org/release/b2ca3b22-f3cc-40c0-b2d3-f4e1d6602106/3010820345-500.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Rolling Stones - Let It Bleed (1969-11-29)
 </li>
-<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
@@ -98,6 +98,9 @@ Canned Heat - The Best of Canned Heat (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/541d890a-9ecd-4d75-8db3-883b706d434a/4010641500-500.jpg" data-tags="blues, singer-songwriter" role="button">
 Tom Waits - Franks Wild Years (1987-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/f47f86e9-7d68-4ecf-b4a2-2b2fd4d25e11/27504086072-500.jpg" data-tags="jazz" role="button">
+Nina Simone - I Put a Spell on You (1988)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, soul, blues" role="button">
 Ray Charles - Anthology (1988-10-25)
@@ -144,9 +147,6 @@ Fiona Apple - Tidal (1996-07-23)
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
-Mazzy Star - Among My Swan (1996-10-17)
-</li>
 <li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
@@ -177,7 +177,7 @@ Katie Melua - Call Off the Search (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
 The John Butler Trio - Sunrise Over Sea (2004-03-08)
 </li>
-<li data-cover="https://img.discogs.com/HXVEVRZBJYhE21IL01KdjDy_6hU=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4564691-1455027145-3960.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -225,7 +225,7 @@ The Raconteurs - Broken Boy Soldiers (2006-05-15)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/xMDl0TTkbhbcdH10siIS-JVxT4o=/fit-in/595x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1385920-1215152190.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
+<li data-cover="https://img.discogs.com/48co00Mgnt-oJ4DG0aQbKDS1Rsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8536683-1465209501-6206.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd4537c4-4faf-4b20-b4eb-e4807c7d085a/26946880719-500.jpg" data-tags="blues rock" role="button">
