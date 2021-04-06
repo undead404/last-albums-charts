@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:46:07.666Z
+date: 2021-04-06T03:38:01.361Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Sonic Youth - Daydream Nation (1988-10)](http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg "Sonic Youth - Daydream Nation (1988-10)")
@@ -105,9 +105,6 @@ Blonde Redhead - Blonde Redhead (1995-01-19)
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
 </li>
-<li data-cover="https://img.discogs.com/QbOGME9neSAEBQ38pvCK6hx9384=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5654867-1522892618-9463.jpeg.jpg" data-tags="indie rock, alternative" role="button">
-Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
-</li>
 <li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
@@ -188,6 +185,9 @@ Spiritualized - Songs In A&E (2008-05-26)
 </li>
 <li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
 Women - WOMEN (2008-07-08)
+</li>
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:19:01.477Z
+date: 2021-04-06T03:43:01.348Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -27,7 +27,7 @@ Nancy Sinatra - Boots (1966)
 <li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
 Nina Simone - Here Comes The Sun (1971-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="glam rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/j5N5tm6b-Sr4oIIIYLp-pDBcAHI=/fit-in/599x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670674-1237574217.jpeg.jpg" data-tags="glam rock, 70s" role="button">
 David Bowie - Pin Ups (1973-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
@@ -35,9 +35,6 @@ Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6604008-c088-3091-ae2e-a9a15e7cc327/21251538374-500.jpg" data-tags="industrial, martial industrial" role="button">
 Laibach - Let It Be (1988-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed/13989672545-500.jpg" data-tags="singer-songwriter, acoustic, 90s" role="button">
-Everything But the Girl - Acoustic (1992-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c18b8cbc-49d9-4c26-a031-f15cc8153a4d/2044386287-500.jpg" data-tags="covers, contemporary classical, kraftwerk" role="button">
 Balanescu Quartet - Possessed (1992-09-21)
@@ -50,9 +47,6 @@ Ramones - Acid Eaters (1993-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b1a6a6c-78e1-4262-9059-0d180b8dfa13/15738919203-500.jpg" data-tags="90s, covers, pop, female vocalists" role="button">
 Annie Lennox - Medusa (1995-03-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, female vocalists, cover" role="button">
-Holly Cole - Temptation (1995-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/2aec11c0-41e5-4c6d-9150-8ad73548bf62/5102658391-500.jpg" data-tags="female vocalists, french, pop, cute girl rock" role="button">
 April March - Chick Habit (1995-10-20)
@@ -111,6 +105,9 @@ Rasputina - The Lost & Found (2001)
 <li data-cover="https://img.discogs.com/LVgMCcBV6nXU1KmjvUWcYGS6H70=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-701826-1332343303.jpeg.jpg" data-tags="covers, punk" role="button">
 Me First and the Gimme Gimmes - Blow In The Wind (2001-03-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/1ff95f7b-9f42-4ea4-8382-ebc2ffeae6c5/10697926901-500.jpg" data-tags="covers" role="button">
+Train - Ramble On (2001-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7ccb022-f437-4492-8eee-8f85d85cdb96/2098090328-500.jpg" data-tags="covers, cover" role="button">
 Tori Amos - Strange Little Girls (2001-09-17)
 </li>
@@ -126,6 +123,9 @@ Marilyn Manson - Tainted Love (2002)
 <li data-cover="http://coverartarchive.org/release/9cdba68c-8d15-4b97-8d1e-2023509bdca9/12262547683-500.jpg" data-tags="covers" role="button">
 Joan Osborne - How Sweet It Is (2002-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/b7190ac4-8887-3bda-ac14-e5fa58dfd493/6599635653-500.jpg" data-tags="covers" role="button">
+Café Tacvba - Vale Callampa (2002-10-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/47140ecd-72e3-4ef9-b523-3af3c4e3e9ef/2204544011-500.jpg" data-tags="country" role="button">
 Johnny Cash - American IV: The Man Comes Around (2002-11-05)
 </li>
@@ -135,7 +135,7 @@ Death Cab for Cutie - Title And Registration (2003)
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
 Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 </li>
-<li data-cover="https://img.discogs.com/2pDAESGIPh0bJyPEmQdp87f1x9k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12160722-1529518747-4391.jpeg.jpg" data-tags="punk, punk rock" role="button">
+<li data-cover="https://img.discogs.com/lbsHmkgxJBPocVx-_6m_DT9m3Fc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814858-1384984127-9089.jpeg.jpg" data-tags="punk, punk rock" role="button">
 Me First and the Gimme Gimmes - Take A Break (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">
@@ -195,6 +195,9 @@ Ozzy Osbourne - Under Cover (2005-11-01)
 <li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">
 Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/4b2fcbdd-6fb5-40bd-ae9e-0698cce97d8f/2044947282-500.jpg" data-tags="covers, ana torroja" role="button">
+Ana Torroja - Me Cuesta Tanto Olvidarte (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9271b01-ea2e-4532-973b-4b6b9e72308f/14376277837-500.jpg" data-tags="lounge" role="button">
 Richard Cheese - The Sunny Side of the Moon: The Best of Richard Cheese (2006-02-07)
 </li>
@@ -212,6 +215,9 @@ Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d4e00e8-d552-373e-ba74-f0323e0a5ad9/4800012154-500.jpg" data-tags="punk, punk rock, fat wreck chords, covers" role="button">
 Me First and the Gimme Gimmes - Love Their Country (2006-10-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/06baafe3-f311-45f1-bab7-97d6aaa7ea64/10383788528-500.jpg" data-tags="rock, singer-songwriter, piano" role="button">
+Ben Folds - supersunnyspeedgraphic, the lp (2006-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ec9a669-c9e6-4264-ba9c-dffda926c1b5/3094233548-500.jpg" data-tags="covers, synthpop" role="button">
 Apoptygma Berzerk - Sonic Diary (2006-12-01)
@@ -252,11 +258,11 @@ Glen Campbell - Meet Glen Campbell (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Nightmare Revisited (2008-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/225d81f3-a2f7-46df-af4c-a38b3122528b/2985759093-500.jpg" data-tags="downtempo, covers, stage and screen, ambient ram, cudawianki, popyram" role="button">
+Hollywood, Mon Amour - Hollywood, Mon Amour (2008-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/c41290ff-2f1a-47b3-ac26-34f8bf5911b7/3167826207-500.jpg" data-tags="soul" role="button">
 Seal - Soul (2008-11-07)
-</li>
-<li data-cover="https://img.discogs.com/q0Dmj0woajufdLLu2coXY3MUVmk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1559735-1228403765.jpeg.jpg" data-tags="folk" role="button">
-Headless Heroes - The Silence of Love (2008-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dac5bddc-3197-4a8f-8149-e217794e451e/23384424884-500.jpg" data-tags="bossa nova, female vocalists, covers" role="button">
 Nouvelle Vague - 3 (2009-06-15)
@@ -267,11 +273,11 @@ Boyce Avenue - Influential Sessions (2009-07-14)
 <li data-cover="https://img.discogs.com/psnedMiqs-kBCpV-RnZZqtYRhbw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4088597-1354843135-7509.jpeg.jpg" data-tags="pop punk" role="button">
 Four Year Strong - Explains It All (2009-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b6f00f6-87f6-409f-a710-7ba31157e4b9/15160044156-500.jpg" data-tags="melodic death metal, cover" role="button">
-Children of Bodom - Skeletons in the Closet (2009-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8632916-fb97-41bb-83fc-e76417000025/8199039341-500.jpg" data-tags="covers" role="button">
 Zebrahead - Panty Raid (2009-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e941977-9736-3db7-b5df-558df691908a/1895500073-500.jpg" data-tags="jazz, bossa nova" role="button">
+Nouvelle Vague - Best Of (2010)
 </li>
 <li data-cover="https://img.discogs.com/GeLc6T8KiWMgmExhSw0KqbpHN4k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5365365-1468265458-7020.jpeg.jpg" data-tags="pop, covers" role="button">
 Pato Fu - Música de Brinquedo (2010)
@@ -294,17 +300,14 @@ Mike Patton - Mondo cane (2010-05-04)
 <li data-cover="http://coverartarchive.org/release/ddd15036-d7d0-4a76-b9d6-a3be99e346ab/2720295799-500.jpg" data-tags="cover, singer-songwriter, ukulele" role="button">
 Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele (2010-07-20)
 </li>
-<li data-cover="https://img.discogs.com/ONEGx5rwfZfrcmmtezlz_CC-Y2w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730175-1298416691.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
-Glee Cast - Don't Go Breaking My Heart (Glee Cast Version) (2010-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/c63ef8ef-6cbd-4887-b28b-668b11e6b758/2231453276-500.jpg" data-tags="chillout, jazz, bossa nova, easy listening, blues, covers, relaxing, meaningful lyrics, kneiter" role="button">
 Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8f50118-3d3c-4826-a4b3-cf6228a97515/14969136552-500.jpg" data-tags="mixtape, covers, good music" role="button">
+Bastille - Other People's Heartache (2012-02-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8dc7308-86fe-4f27-bdfb-aefb526b081c/4782759842-500.jpg" data-tags="black metal, progressive metal, doom metal, covers, suicidal black metal" role="button">
 Shining - Lots of Girls Gonna Get Hurt (2012-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/87b1a636-fe96-416b-944c-bd86353acf15/14691802957-500.jpg" data-tags="covers" role="button">
-Clan of Xymox - Kindred Spirits (2012-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebadad2b-e01f-432e-8059-1882128213c9/5552546040-500.jpg" data-tags="sad, cover" role="button">
 Glee Cast - The Quarterback (2013-10-07)
@@ -314,9 +317,6 @@ Annie Lennox - Nostalgia (2014-09-30)
 </li>
 <li data-cover="https://img.discogs.com/hjBxgIfKXDPjY8iU6UeI3KMi76Q=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6355650-1417678081-1682.jpeg.jpg" data-tags="covers, albums i have on vinyl, albumsiown" role="button">
 She & Him - Classics (2014-11-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e4eb6ac-0f1f-4c68-8524-4a2ad2e960a6/9130003088-500.jpg" data-tags="jazz, traditional pop, 10s" role="button">
-Bob Dylan - Shadows in the Night (2015-01-30)
 </li>
 <li data-cover="https://img.discogs.com/-CJI-9RJeEPzbuxKEp8VefjSt7Q=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2828551-1360103323-5548.jpeg.jpg" data-tags="covers" role="button">
 Deftones - Covers (2016-04-08)

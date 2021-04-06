@@ -1,11 +1,11 @@
 ---
-date: 2021-04-05T08:34:01.345Z
+date: 2021-04-06T02:50:01.422Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">Belle and Sebastian - If You're Feeling Sinister (1996-11-18)</li>
-<li data-cover="https://img.discogs.com/YsVqhvK0qV7-RerYVxQQFLD4FkI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070709-1369907392-5537.jpeg.jpg" data-tags="pop, 90s" role="button">Eagle-Eye Cherry - Desireless (1997)</li>
+<li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">The Cure - Disintegration (1989-05-01)</li>
+<li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">Eagle-Eye Cherry - Desireless (1997)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
@@ -27,7 +27,7 @@ Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
 <li data-cover="https://img.discogs.com/I5gfsIdYLJe5feIIUrJhjDfL3D4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3601686-1381225977-7375.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Five Leaves Left (1969-09)
 </li>
-<li data-cover="https://img.discogs.com/yYgQwNCzvpZvhAGO-FUxeMHD41k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-711475-1237826005.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
+<li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
@@ -63,9 +63,6 @@ Elliott Smith - Elliott Smith (1995-07-10)
 <li data-cover="http://coverartarchive.org/release/e4c0a2dc-49cb-382b-9bb3-a40d09669583/14335985988-500.jpg" data-tags="alternative rock" role="button">
 The Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
-Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
 </li>
@@ -78,10 +75,7 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">
-Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
-</li>
-<li data-cover="https://img.discogs.com/YsVqhvK0qV7-RerYVxQQFLD4FkI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070709-1369907392-5537.jpeg.jpg" data-tags="pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/rCaNhr_34D521yNmbQrdiMBrlMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10436054-1497386385-2041.jpeg.jpg" data-tags="pop, 90s" role="button">
 Eagle-Eye Cherry - Desireless (1997)
 </li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
@@ -150,13 +144,13 @@ Tindersticks - Waiting for the Moon (2003-06-09)
 <li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
 Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/9iCqld8floRZO0PL89ZiE2_RBgw=/fit-in/319x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2645568-1406812746-9521.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
+<li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2de859f9-b9d3-4512-ae9d-1bc8b70c60df/26658665691-500.jpg" data-tags="mellow, melancholy, my collection, diana picks, holy mountain, granka" role="button">
@@ -186,7 +180,7 @@ Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 <li data-cover="http://coverartarchive.org/release/18bba5fe-2c2c-3d48-bf5b-8b19b2aaabf1/4806600464-500.jpg" data-tags="folk" role="button">
 Great Lake Swimmers - Bodies And Minds (2005-04-02)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ff69c39-fa91-4f79-ab99-82a92df23b79/15473309640-500.jpg" data-tags="hip-hop, alternative" role="button">
@@ -198,7 +192,7 @@ Regina Spektor - Begin to Hope (2006-06-13)
 <li data-cover="https://img.discogs.com/RG3jbpCybPXAwBSkqGgwMGAfrvs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380355-1265690428.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Fionn Regan - The End Of History (2006-08-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="piano, contemporary classical, neoclassical, post-classical, neo-classical, modern classical" role="button">
+<li data-cover="https://img.discogs.com/NvmRufaO2RAjrDAztOYOP4V7aso=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-956459-1177242914.jpeg.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, neo-classical, modern classical" role="button">
 Dustin O'Halloran - Piano Solos Vol. 2 (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg" data-tags="piano, contemporary classical, neoclassical" role="button">
@@ -216,13 +210,16 @@ Elliott Smith - New Moon (2007-05-07)
 <li data-cover="http://coverartarchive.org/release/9bce96cc-8d4f-38f3-97d5-decb81ab7119/14968666106-500.jpg" data-tags="indie rock" role="button">
 The National - Boxer (2007-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
+Stars - In Our Bedroom After the War (2007-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">
 Ólafur Arnalds - Eulogy for Evolution (2007-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 J. Tillman - Cancer And Delirium (2008)
 </li>
-<li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/YFt6y2qbfMSvFeznJ9pBCJqSSlI=/fit-in/448x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583195-1163087126.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
@@ -261,7 +258,7 @@ Foo Fighters - Greatest Hits (2009-10-30)
 <li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">
 Nils Frahm - Wintermusik (2009-12-07)
 </li>
-<li data-cover="https://img.discogs.com/ljxpxTe9s-ze-oe0sLwEJapRRbU=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14764477-1581542473-4562.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
+<li data-cover="https://img.discogs.com/-0O4p9AqqjSpbkHhZotoEBz1Efg=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267354-1458916937-8797.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
 Ólafur Arnalds - ...and they have escaped the weight of darkness (2010-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b970bb34-96bd-4cce-8e63-d7cf0f7a36f2/27689058661-500.jpg" data-tags="folk, singer-songwriter, melancholy" role="button">
@@ -276,7 +273,7 @@ Manchester Orchestra - Simple Math (2011-05-06)
 <li data-cover="http://coverartarchive.org/release/b6b21d16-021f-48fe-a575-c46320cf3107/28325780282-500.jpg" data-tags="indie pop, new wave" role="button">
 The Drums - Portamento (2011-09-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, contemporary classical, piano, cinematic, neoclassical, post-classical, melancholy, melancholic, modern classical, contemporary piano" role="button">
+<li data-cover="https://img.discogs.com/XGz9Vc-PF6vTLKgGgN_g1cc0ZiY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3174469-1365210613-9560.jpeg.jpg" data-tags="ambient, contemporary classical, piano, cinematic, neoclassical, post-classical, melancholy, melancholic, modern classical, contemporary piano" role="button">
 Clem Leek - Lifenotes (2011-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/def95a4a-16c7-4c32-bd31-b947222e3be3/2750964464-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano" role="button">
@@ -291,13 +288,16 @@ Kate Bush - 50 Words for Snow (2011-11-21)
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
+Chromatics - Kill for Love (2012-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/12860ae7-5d2a-4df7-99df-875efcdd885e/14813410350-500.jpg" data-tags="4ad" role="button">
 Ariel Pink's Haunted Graffiti - Mature Themes (2012-08-20)
 </li>
 <li data-cover="https://img.discogs.com/1k47wZTRhC9GmAdBrDV3FpW84l0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3887693-1456163738-5026.jpeg.jpg" data-tags="sad, hard rock, melancholy, my love, blues rock, songs to play at my funeral, road trip, nostalgia, makes me cry, sound poetry, sleepless nights, when im sad, whiskey and cigarettes, great song played at the right time, shes a rainbow, beautiful depressive songs, guille, solo en el puto mundo, guillerainbow, diciembre 2012, maisi 2013" role="button">
 Rival Sons - Head Down (2012-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/jzn8NpXiPqWvdYqiPwB-tI6wN7o=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17365675-1613058960-1298.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">

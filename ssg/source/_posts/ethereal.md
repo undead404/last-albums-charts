@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:25:06.984Z
+date: 2021-04-06T03:07:01.355Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Cocteau Twins - Treasure (1984-10-01)](http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg "Cocteau Twins - Treasure (1984-10-01)")
@@ -7,7 +7,7 @@ title: "ethereal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">Cocteau Twins - Treasure (1984-10-01)</li>
 <li data-cover="https://img.discogs.com/5uifsmzRHUP9y3nqtNoMLVzogjw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-189894-1297620821.jpeg.jpg" data-tags="dream pop" role="button">Cocteau Twins - Heaven or Las Vegas (1990-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">Mazzy Star - So Tonight That I Might See (1993-09-27)</li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
+<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">Emilie Autumn - Enchant (2003-02-26)</li>
 <li data-cover="https://img.discogs.com/kAiO6KFJEB0AheBKPUCEyZjsueQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019630-1215843921.jpeg.jpg" data-tags="indie, female vocalists" role="button">Bat for Lashes - Fur and Gold (2006-09-11)</li>
 <li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
@@ -105,20 +105,17 @@ Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
 Broadcast - Work and Non Work (1997-06-09)
 </li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
 </li>
-<li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
+<li data-cover="https://img.discogs.com/Wb2clSHhJ4_ZOv69eP7kTPBiBOw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3194-1145339641.jpeg.jpg" data-tags="electronica, warp" role="button">
 Broadcast - The Noise Made by People (2000-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
-Enya - A Day Without Rain (2000-11-11)
 </li>
 <li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
@@ -267,6 +264,9 @@ St. Vincent - Strange Mercy (2011-09-09)
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
 </li>
+<li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
+Chairlift - Something (2012-01-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/17b626dc-ff74-4e36-9352-6730e4497f78/1233373890-500.jpg" data-tags="ethereal" role="button">
 iamamiwhoami - sever (2012-02-15)
 </li>
@@ -312,11 +312,11 @@ Marissa Nadler - July (2014-02-04)
 <li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
 Indila - Mini World (2014-02-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="art pop" role="button">
-St. Vincent - St. Vincent (2014-02-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/a50f9ba3-5891-4f22-b5da-edf84cc04b0c/7598730014-500.jpg" data-tags="electronic, alternative rnb" role="button">
+FKA twigs - LP1 (2014-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:35:01.407Z
+date: 2021-04-06T03:00:01.917Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -39,6 +39,9 @@ Pearls Before Swine - Balaklava (1968)
 <li data-cover="http://coverartarchive.org/release/7019a733-495d-43a3-b756-c3bfb0f26169/9088400014-500.jpg" data-tags="folk" role="button">
 The Incredible String Band - The Hangman's Beautiful Daughter (1968-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/2d48a243-551a-4fdd-958c-d266181e960a/6961041648-500.jpg" data-tags="psychedelic folk" role="button">
+Dave Bixby - Ode To Quetzalcoatl (1969)
+</li>
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
 David Bowie - Space Oddity (1969-11-04)
 </li>
@@ -75,13 +78,10 @@ Luis Alberto Spinetta - Kamikaze (1982)
 <li data-cover="https://via.placeholder.com/450" data-tags="holophonic" role="button">
 Psychic TV - Dreams Less Sweet (1983-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/171c3eca-b519-4d95-9463-a6b7656509e6/19264439793-500.jpg" data-tags="experimental, experimental rock, post-punk, psychedelic, avant-garde" role="button">
-Sun City Girls - Torch of the Mystics (1990)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="lo-fi" role="button">
+<li data-cover="https://img.discogs.com/MomQPvUrJUxe4ajEGkeW_dkZ1w4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-536252-1167768415.jpeg.jpg" data-tags="lo-fi" role="button">
 Neutral Milk Hotel - Everything Is (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
@@ -138,6 +138,9 @@ Devendra Banhart - Nino Rojo (2004-09-13)
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
+<li data-cover="https://img.discogs.com/WkoXThSBS1kO0x2aoxmPcZSy31E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270364-1273529219.jpeg.jpg" data-tags="folk, psychedelic folk, jonasmusik" role="button">
+Diane Cluck - Countless Times (2005)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Feathers - Feathers (2005)
 </li>
@@ -156,7 +159,7 @@ Paavoharju - Yhä hämärää (2005-07-27)
 <li data-cover="http://coverartarchive.org/release/79b6435c-ac43-3b7c-a601-60f409895e4d/6833210892-500.jpg" data-tags="electro-folk" role="button">
 Shugo Tokumaru - L.S.T. (2005-08-25)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
@@ -165,8 +168,8 @@ Animal Collective - Feels (2005-10-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, psychedelic" role="button">
 Espers - The Weed Tree (2005-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/fe9e6281-d68a-4063-8c09-230d212dff50/23816680860-500.jpg" data-tags="rewind 2006" role="button">
-Charalambides - A Vintage Burden (2006-05-22)
+<li data-cover="https://img.discogs.com/0xiqV6N7EDWZSQNzyZ-WkoYrPrY=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-718461-1594567993-7158.jpeg.jpg" data-tags="folk-rock, psychedelic folk, new world fair, uncut06" role="button">
+Espers - II (2006-05-16)
 </li>
 <li data-cover="https://img.discogs.com/IUsZAcv8gO4fEUVHcU_tmTruVvU=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716724-1271344403.jpeg.jpg" data-tags="folk" role="button">
 Vetiver - To Find Me Gone (2006-05-23)
@@ -219,7 +222,7 @@ Woods - Songs of Shame (2009-04-14)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
-<li data-cover="https://img.discogs.com/JhRuHIeV-Ggedh9wGYoRTiFLSHc=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818454-1517991354-4223.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
+<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/70a9ffba-a48f-3255-9b27-4c55f98e2f80/25306984045-500.jpg" data-tags="shoegaze, folk, drone" role="button">
@@ -260,9 +263,6 @@ Hexvessel - Dawnbearer (2011-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
 Kurt Vile - Smoke Ring for My Halo (2011-03-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/e567f596-bdbf-49c7-be64-6552c3e2bd90/12151127870-500.jpg" data-tags="lo-fi" role="button">
-Neutral Milk Hotel - Ferris Wheel on Fire (2011-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)

@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T13:05:01.428Z
+date: 2021-04-06T03:19:06.963Z
 title: "debut album: 100 albums you must listen to before you die"
 ---
 ![Allah-Las - Allah-Las (2012-09-18)](http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg "Allah-Las - Allah-Las (2012-09-18)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">Ray Charles - Ray Charles (1987)</li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
+<li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">Razorlight - Up All Night (2004-06-28)</li>
 <li data-cover="https://img.discogs.com/jlp63LH5DqAjOlda_wvcAXwwwsA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806157-1485267725-5412.jpeg.jpg" data-tags="indie, rock, british" role="button">The Rifles - No Love Lost (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
@@ -21,11 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/HFQfHYswDJeJe2rhkJ7hDuOzUbc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12001675-1526333690-5824.jpeg.jpg" data-tags="rock, 60s, garage rock, debut album" role="button">
+<li data-cover="https://img.discogs.com/9I7JTrWnsRh-S4yqoQIaiWEGATQ=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8828583-1469717205-5431.jpeg.jpg" data-tags="rock, 60s, garage rock, debut album" role="button">
 The Kinks - Kinks (1964-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dac32141-814d-3f11-817b-5ca3be10fe4f/22681733219-500.jpg" data-tags="folk rock, psychedelic rock" role="button">
 Jefferson Airplane - Jefferson Airplane Takes Off (1966-08-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/643eb27d-87af-49c2-a6c5-4192db8736df/19705565467-500.jpg" data-tags="60s, folk, singer-songwriter, scottish, british folk, debut album, on-demand, j martyn" role="button">
+John Martyn - London Conversation (1967-10)
 </li>
 <li data-cover="https://img.discogs.com/GgrP5R36QMMRWmtgFI97UUoaVY8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043933-1478316548-9643.jpeg.jpg" data-tags="hard rock" role="button">
 Steppenwolf - Steppenwolf (1968-01)
@@ -123,9 +126,6 @@ Morcheeba - Who Can You Trust? (1996-04-08)
 <li data-cover="http://coverartarchive.org/release/93a5bd38-2a30-43a1-9ed5-fa8532794a9b/24580352774-500.jpg" data-tags="welsh, power pop, 90s" role="button">
 Super Furry Animals - Fuzzy Logic (1996-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
-Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
 </li>
@@ -135,7 +135,7 @@ Flogging Molly - Alive Behind the Green Door (1997)
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 </li>
-<li data-cover="https://img.discogs.com/4xHpwLLV8_N9Ea7AjpQoNbA9mys=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4906190-1379058352-8884.jpeg.jpg" data-tags="indie, rock, british, britpop, debut album, great album, recommendations and such, sonic fetish, self-titled album, no11 uk" role="button">
+<li data-cover="https://img.discogs.com/j_50PY08W0-VduZMvLKp1D5hpe0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296463-1463654637-9097.jpeg.jpg" data-tags="indie, rock, british, britpop, debut album, recommendations and such, sonic fetish, self-titled album, no11 uk" role="button">
 Hurricane #1 - Hurricane #1 (1997-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
@@ -150,7 +150,7 @@ My Morning Jacket - The Tennessee Fire (1999-05-25)
 <li data-cover="http://coverartarchive.org/release/ac22031b-15c1-4323-a3f2-f6cfe61b9b9c/13116115117-500.jpg" data-tags="acoustic, john mayer" role="button">
 John Mayer - Inside Wants Out (1999-09-24)
 </li>
-<li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
+<li data-cover="https://img.discogs.com/Wb2clSHhJ4_ZOv69eP7kTPBiBOw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3194-1145339641.jpeg.jpg" data-tags="electronica, warp" role="button">
 Broadcast - The Noise Made by People (2000-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/24a64ce9-3aa5-4be9-a98f-deaf501a0690/6677248625-500.jpg" data-tags="hip-hop, luda" role="button">

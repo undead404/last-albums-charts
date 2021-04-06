@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:48:01.502Z
+date: 2021-04-06T03:12:01.357Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -90,7 +90,7 @@ Bill Hicks - Rant in E-Minor (1997-02-25)
 <li data-cover="http://coverartarchive.org/release/0202e76d-5859-4e4d-b26e-7ea828ca0962/5459181140-500.jpg" data-tags="hip hop, political, comedy, brazilian, parody, pop rap, sarcastic, conscious hip hop, pagode, comedy rap" role="button">
 Gabriel O Pensador - Quebra - Cabeça (1997-07)
 </li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0052d858-ec26-48cd-bc52-0ddd9dd275fb/24397212007-500.jpg" data-tags="comedy, humor" role="button">
@@ -141,6 +141,9 @@ Flight of the Conchords - Folk the World Tour (2002-11-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Stephen Lynch - Superhero (2002-12-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/d69eb24f-b9aa-4683-8c69-d29d5fd8e5a9/9436016741-500.jpg" data-tags="comedy, stand-up" role="button">
+Dave Attell - Skanks for the Memories (2003-02-04)
+</li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
@@ -180,8 +183,8 @@ Stephen Lynch - The Craig Machine (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/2d3fc783-03a0-4884-8d09-7374b17c08b1/9436016105-500.jpg" data-tags="comedy, stand-up, daniel tosh" role="button">
 Daniel Tosh - True Stories I Made Up (2005-11-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up" role="button">
-Ron White - You Can't Fix Stupid (2006-02-07)
+<li data-cover="https://img.discogs.com/wdxEs4AJXp867Jakhzj0RlL5FN4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670428-1495594011-3480.jpeg.jpg" data-tags="comedy" role="button">
+Jim Gaffigan - Beyond the Pale (2006-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/838aecec-8a2c-43fd-8036-9016f8d78aa0/5121395588-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Straight Outta Lynwood (2006-09-26)
@@ -191,9 +194,6 @@ Tenacious D - The Pick of Destiny (2006-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy, funny, stand-up" role="button">
 Demetri Martin - These Are Jokes (2006-09-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="stand-up" role="button">
-Greg Giraldo - Good Day To Cross A River (2006-10-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, stand-up" role="button">
 Joe Rogan - Shiny Happy Jihad (2007-04-10)
@@ -219,6 +219,9 @@ Mike Birbiglia - My Secret Public Journal Live (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/3ff4e6a8-52a9-49a5-b264-986a772fdddf/996842836-500.jpg" data-tags="melodic death metal, death metal, blacker than the blackest black times infinity" role="button">
 Dethklok - The Dethalbum (2007-09-25)
 </li>
+<li data-cover="https://img.discogs.com/gYhHxjYIW6Y4L4Gzdjwc7ckLNfY=/fit-in/592x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222978-1201816871.jpeg.jpg" data-tags="comedy" role="button">
+Nick Swardson - Party (2007-10-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2326f84-9e6b-42b1-9b6f-88fb1ab90a4e/14428015137-500.jpg" data-tags="comedy, revival, sting, midgets, oasis, moaning, complaining, self-important, mor, out of tune, special, sexist, paul weller, rough trade, libertines, cockney, hard-fi, misogynistic, pete doherty, can't sing, wannabes, landfill indie, self-righteous, hates women, pub-rock, capitalist, i need, mockney, tories, lad-rock, anti-feminist, blokey, pendientes, post-oasis, epic-fail, arrogant singer, comercialist, tory boys, x factor hopefuls" role="button">
 The Libertines - Time for Heroes: The Best of The Libertines (2007-10-29)
 </li>
@@ -242,9 +245,6 @@ The Lonely Island - Incredibad (2009-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a12d12cc-c5a6-3a9c-b86a-3cf26909c31e/3020519925-500.jpg" data-tags="folk, ethereal, mainstream shit, hino, haters gonna hate, more talented than miley cyrus" role="button">
 Marissa Nadler - Little Hells (2009-03-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
-Stephen Lynch - 3 Balloons (2009-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b27f072-53e1-41ca-88c3-c20788e19839/2924119522-500.jpg" data-tags="comedy, comedy metal, foodcore" role="button">
 Psychostick - Sandwich (2009-05-05)
@@ -276,7 +276,7 @@ The Lonely Island - Turtleneck & Chain (2011-05-09)
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
 </li>
-<li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
+<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">

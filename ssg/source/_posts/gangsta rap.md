@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:47:01.408Z
+date: 2021-04-06T02:52:01.364Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -8,7 +8,7 @@ title: "gangsta rap: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">The Notorious B.I.G. - Ready to Die (1994-09-13)</li>
-<li data-cover="https://img.discogs.com/wHALtqV28PDDCFeP_xQgXUm1tM0=/fit-in/319x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501300-1394997957-3919.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
+<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
@@ -30,7 +30,7 @@ Above the Law - Livin' Like Hustlers (1989-12)
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
 </li>
-<li data-cover="https://img.discogs.com/2_Q9T34u4H9p2-w4pl0syJNUY40=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11179291-1511329170-2821.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/uVN8iytnTNWlfeqgvdpldiz2954=/fit-in/599x941/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8267521-1458306048-2645.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Whodini - Greatest Hits (1990-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
@@ -84,7 +84,7 @@ Scarface - The Diary (1994-10-18)
 <li data-cover="http://coverartarchive.org/release/e000804e-5320-445a-8ee1-d6d285e44a0f/4774292059-500.jpg" data-tags="gangsta rap" role="button">
 Spice 1 - AmeriKKKa's Nightmare (1994-11-22)
 </li>
-<li data-cover="https://img.discogs.com/wHALtqV28PDDCFeP_xQgXUm1tM0=/fit-in/319x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501300-1394997957-3919.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
@@ -102,7 +102,7 @@ Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 <li data-cover="https://img.discogs.com/4XeMGHq5Amyr3RTMy0iBdUOWRfc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309391-1450531695-7510.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
-<li data-cover="https://img.discogs.com/vwTD1j_bhLl9STCAasoRhUO15TU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-365963-1544624881-5586.jpeg.jpg" data-tags="gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/eaR3Fnbm7IsPzKlzCcMa9VD6OA4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764064-1427488790-6905.jpeg.jpg" data-tags="gangsta rap" role="button">
 Westside Connection - Bow Down (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
@@ -122,9 +122,6 @@ Mobb Deep - Hell on Earth (1996-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f7b946b-66ec-4dd8-9b1d-73a19d1dff1d/4659557524-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Life After Death (1997-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/f26284b3-367d-430d-96ec-a70ec73bdc43/18893059393-500.jpg" data-tags="rap, 90s, gangsta rap, when the smoke clears" role="button">
-Three 6 Mafia - Chapter 2: World Domination (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
@@ -200,6 +197,9 @@ Ja Rule - The Last Temptation (2002-11-19)
 </li>
 <li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
 Nas - God's Son (2002-12-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2463ee8-ddcb-4d8d-93ee-36835456d144/1630449680-500.jpg" data-tags="hip hop" role="button">
+50 Cent - The New Breed (2003)
 </li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
@@ -282,7 +282,7 @@ Lil Wayne - No Ceilings (2009-10-31)
 <li data-cover="http://coverartarchive.org/release/2e4ac0c8-0188-4fb6-a2ed-211cf6e3f95d/13970824493-500.jpg" data-tags="hip-hop, rap" role="button">
 DMX - The Best Of DMX (2010-01-26)
 </li>
-<li data-cover="https://img.discogs.com/mw26sFekGNv3pYYw4R-BNujWKmg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2430691-1572267212-8483.jpeg.jpg" data-tags="west coast hip hop" role="button">
+<li data-cover="https://img.discogs.com/jQvH2RM7qJ2k7LqOYPG_-vpFGio=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9917019-1490040312-5311.jpeg.jpg" data-tags="west coast hip hop" role="button">
 Ice Cube - I Am The West (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/cabee5ec-293f-449a-a962-195b7020f14e/6041741387-500.jpg" data-tags="trap rap" role="button">
@@ -291,7 +291,7 @@ Waka Flocka Flame - Flockaveli (2010-10-05)
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
 </li>
-<li data-cover="https://img.discogs.com/lBCWmWde6a9k4L8f85TJVg6A-8A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3264309-1322964033.jpeg.jpg" data-tags="electronic, sacramento" role="button">
+<li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbb952f0-cb95-427e-8189-50f29ae2c34f/5259694807-500.jpg" data-tags="rap" role="button">

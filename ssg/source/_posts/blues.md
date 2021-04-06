@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:49:01.416Z
+date: 2021-04-06T03:18:01.452Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/aULfwfaaNDjPl0xS-H-bzbEUNg0=/fit-in/301x302/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7092588-1433541747-5659.jpeg.jpg" data-tags="blues" role="button">
+Etta James - At Last (1960-11-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">
 Bob Dylan - Bringing It All Back Home (1965-03-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues rock, classic rock, 60s" role="button">
-Cream - Fresh Cream (1966-12-09)
 </li>
 <li data-cover="https://img.discogs.com/48VEXkrs6Ee4C_syqGcqckXbx3s=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1268501-1205101177.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Disraeli Gears (1967-11-02)
@@ -56,9 +56,6 @@ The Doors - Morrison Hotel (1970-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin III (1970-10-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues rock" role="button">
-Derek and the Dominos - Layla And Other Assorted Love Songs (1970-11)
 </li>
 <li data-cover="https://img.discogs.com/mic1l-p28zoqxQguKjabmbJV5Hg=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9031515-1473598344-7417.mpo.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
@@ -159,14 +156,14 @@ Fiona Apple - Tidal (1996-07-23)
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
 </li>
-<li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
-Bob Dylan - Time Out of Mind (1997-09-26)
-</li>
 <li data-cover="https://img.discogs.com/E7UtJyItYvk5AJ7YnjG_hxrhppo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4959254-1380618088-4627.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
 Eric Clapton - Clapton Chronicles: The Best of Eric Clapton (1999-10-12)
+</li>
+<li data-cover="https://img.discogs.com/eOIoN-rL9mXI3K_SgjWIWJU8-eA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4091170-1371850697-1461.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
+Morphine - The Night (2000-02-01)
 </li>
 <li data-cover="https://img.discogs.com/blVarIDnIHpERCIOUvAoP4618FU=/fit-in/509x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855656-1606850367-2438.jpeg.jpg" data-tags="blues" role="button">
 B.B. King & Eric Clapton - Riding with the King (2000-06-07)
@@ -176,6 +173,9 @@ Norah Jones - Come Away with Me (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/71fce908-8a23-41bd-8de5-b8eba0fb00c7/7130829837-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - The Big Come Up (2002-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
+Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b58cd2-2a2f-36ad-81b3-7ab044d01d19/9200502912-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Thickfreakness (2003-04-08)

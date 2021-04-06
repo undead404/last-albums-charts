@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:52:01.333Z
+date: 2021-04-06T03:10:01.400Z
 title: "emotional: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -8,7 +8,7 @@ title: "emotional: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
 <li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">Robbie Williams - Angels (1997-11)</li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -32,9 +32,6 @@ Cocteau Twins - Treasure (1984-10-01)
 </li>
 <li data-cover="https://img.discogs.com/CBblT9cfKoNvmUrJMN0PpST207k=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1838313-1342335484-3426.jpeg.jpg" data-tags="pop, dance, funk, freestyle" role="button">
 Neneh Cherry - Raw Like Sushi (1989-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
-Dead Can Dance - Aion (1990-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b6ffacd-0db8-33cb-952b-7a8f3fd9b8a9/21176995158-500.jpg" data-tags="90s" role="button">
 Sophie B. Hawkins - Tongues and Tails (1992-04-07)
@@ -120,14 +117,14 @@ Peter Murphy - Dust (2002-04-23)
 <li data-cover="http://coverartarchive.org/release/f355ffd0-6e6f-4c78-9ad9-9fa7dc5bba1b/5603335089-500.jpg" data-tags="indie, alternative" role="button">
 Robbie Williams - Feel (2002-12-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/c9d5ef78-b211-4b79-a69a-9ad6b9057c02/15458769817-500.jpg" data-tags="pop, rnb" role="button">
+Mariah Carey - Charmbracelet (2002-12-03)
+</li>
 <li data-cover="https://img.discogs.com/BeaO2ukjewjaMsNM-fHJkLxWvT0=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-848167-1380730032-6333.jpeg.jpg" data-tags="indie" role="button">
 Lampshade - Because Trees Can Fly (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/11f0018d-ea5d-40d9-85a7-680370e99d74/10394507182-500.jpg" data-tags="indie rock" role="button">
 Copeland - Beneath Medicine Tree (2003-03-25)
-</li>
-<li data-cover="https://img.discogs.com/n3wdRuLdRNb59IB_Qv4Dvc1amk0=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207196-1234422929.jpeg.jpg" data-tags="trance, dance" role="button">
-4 Strings - Believe (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
@@ -147,7 +144,7 @@ Letter Kills - The Bridge (2004)
 <li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
 Xiu Xiu - Fabulous Muscles (2004-02-17)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -174,7 +171,7 @@ British Sea Power - Open Season (2005-03-30)
 <li data-cover="https://img.discogs.com/tcVjgT8mgj8IjFtVvSpQnt0pCAg=/fit-in/544x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2335479-1277777859.jpeg.jpg" data-tags="playful, carefree, relaxed, lush, summertime" role="button">
 Saint Etienne - Tales from Turnpike House (2005-06-13)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
@@ -188,6 +185,9 @@ Modus - The Colour of Love (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dde8415-7145-470f-9a3d-21382ef4bf2f/4786479859-500.jpg" data-tags="pop punk" role="button">
 Hawk Nelson - Smile, It's The End Of The World (2006-04-04)
+</li>
+<li data-cover="https://img.discogs.com/-vRLqy0OkPeNfxANrLYevcqFPa0=/fit-in/337x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1327632-1209967985.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, alt-country, indie folk, americana, indie, guitar, new weird america, lyrics, country, quiet, calm, mellow, sad, songwriter, lo-fi, alt country, waterhouse records, vancouver, slow, short song" role="button">
+Flowers From the Man Who Shot Your Cousin - Hapless (2006-04-19)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
@@ -234,7 +234,7 @@ Agua de Annique - Air (2007-10-26)
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 J. Tillman - Cancer And Delirium (2008)
 </li>
-<li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/YFt6y2qbfMSvFeznJ9pBCJqSSlI=/fit-in/448x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583195-1163087126.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/c76df01a-608b-4c4e-bc83-72c9adce1cf6/7275760181-500.jpg" data-tags="soundtrack" role="button">
