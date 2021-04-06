@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:21:01.447Z
+date: 2021-04-06T15:09:01.403Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -72,9 +72,6 @@ Led Zeppelin - In Through the Out Door (1979-08-15)
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2bf2166-b17f-32d9-b853-1e53b9af9f67/11272365315-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Motörhead - Ace of Spades (1980-11-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/eb0a5483-5a09-4f0f-90f1-417135985e0f/28871095408-500.jpg" data-tags="hard rock" role="button">
 Van Halen - 1984 (1983)
 </li>
@@ -114,7 +111,7 @@ Guns N' Roses - Use Your Illusion I (1991-09-16)
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion II (1991-09-17)
 </li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="https://img.discogs.com/8zNb0iCL-YTQuy8txDVArGfUSTE=/fit-in/405x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008786-1349737299-5085.jpeg.jpg" data-tags="grunge, 90s" role="button">
@@ -183,7 +180,7 @@ Trapt - Trapt (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
 </li>
-<li data-cover="https://img.discogs.com/vlau61vpGX-YOKEj67EuCN9BpRM=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7066761-1432968460-8867.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
+<li data-cover="https://img.discogs.com/KRMTwE7qWAZAHT2B0pdhwNqZyXc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297711-1207470861.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
@@ -261,6 +258,9 @@ Queens of the Stone Age - Era Vulgaris (2007-06-08)
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
 Alter Bridge - Blackbird (2007-10-09)
 </li>
@@ -288,7 +288,7 @@ Nickelback - Dark Horse (2008-11-17)
 <li data-cover="https://img.discogs.com/VhYpdoLF60HMd744Ts3Po_g2_9Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2303810-1557425250-3633.jpeg.jpg" data-tags="hard rock, rock, stoner rock" role="button">
 Wolfmother - Cosmic Egg (2009-01-01)
 </li>
-<li data-cover="https://img.discogs.com/cOr9_PnJLoxg0kEqR36HW6-c1TM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14235820-1570434895-8882.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/eHjqePMXJt9CAC02XTYPOgRuOM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2754782-1385772773-8148.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - Metamorphosis (2009-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
@@ -312,7 +312,7 @@ Slash - Slash (2010-03-31)
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
 Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
-<li data-cover="https://img.discogs.com/IKLe79N8VgR1VEcnJagD1tWrh8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3497267-1332751302.jpeg.jpg" data-tags="alternative metal" role="button">
+<li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">

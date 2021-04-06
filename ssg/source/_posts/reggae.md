@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:26:02.021Z
+date: 2021-04-06T15:30:01.547Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -237,6 +237,9 @@ K-OS - Atlantis - Hymns for Disco (2006-10-10)
 <li data-cover="https://img.discogs.com/DxDHEIZFw_PJ11diIBAnj9JGMEQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1309206-1497531301-1710.jpeg.jpg" data-tags="reggae, rap" role="button">
 Kapten Röd - Stjärnorna Finns Här (2007)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0628139-bdef-4cb1-aaa1-5ecf073ffcb4/15635147931-500.jpg" data-tags="reggae" role="button">
+Stephen Marley - Mind Control (2007-03-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ef12e2b-5c2b-4312-a510-7f3f886c6562/26476184196-500.jpg" data-tags="reggae" role="button">
 Collie Buddz - Collie Buddz (2007-06-29)
 </li>
@@ -252,11 +255,8 @@ Gentleman - Another Intensity (2007-08-24)
 <li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">
 Culcha Candela - Culcha Candela (2007-08-31)
 </li>
-<li data-cover="https://img.discogs.com/pb51h1WEIxxEdn8r9qgii2P-SbM=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1050300-1365315769-2069.jpeg.jpg" data-tags="latin" role="button">
+<li data-cover="https://img.discogs.com/qVjBD2zNd7yt8T2nhZpyzlDXRmM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061809-1511883604-1888.jpeg.jpg" data-tags="latin" role="button">
 Manu Chao - La Radiolina (2007-09-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
-Raappana - Päivä On Nuori (2007-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)

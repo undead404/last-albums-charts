@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:21:01.443Z
+date: 2021-04-06T15:32:01.403Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -33,14 +33,11 @@ Kraftwerk - Tour de France (1983)
 <li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
 Mr. Oizo - Analog Worms Attack (1999-10-19)
 </li>
-<li data-cover="https://img.discogs.com/U85awjBc3AKoRJmIGS9WaKbCAzI=/fit-in/350x364/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498273-1396834503-2030.jpeg.jpg" data-tags="electronic, electro, electroclash" role="button">
+<li data-cover="https://img.discogs.com/PL25gslqJlmHhOpFM9qTYumzXL4=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-142743-1613858050-5421.jpeg.jpg" data-tags="electronic, electro, electroclash" role="button">
 Fischerspooner - #1 (2000-03)
 </li>
 <li data-cover="https://img.discogs.com/IlMUkavlOonlS5zmsCFNOrJCrsA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-220194-1158742588.jpeg.jpg" data-tags="electronic, electroclash" role="button">
 Ladytron - 604 (2001-02-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="house, electro" role="button">
-Felix da Housecat - Kittenz and Thee Glitz (2001-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d0b6eb0-8d92-3ec1-a6ae-f939a7980426/7587631086-500.jpg" data-tags="indie, electronic" role="button">
 The Faint - Danse MacAbre (2001-08-21)
@@ -90,14 +87,14 @@ Goldfrapp - Supernature (2005-08-22)
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
 The Presets - Beams (2005-09-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae39aa8d-3955-412f-8801-fd57b624ed8b/7754380019-500.jpg" data-tags="electronic, dance, electro" role="button">
+Soulwax - Nite Versions (2005-09-19)
+</li>
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">
 CSS - Cansei De Ser Sexy (2005-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e80f3c9e-4a58-4ec7-9f36-965a7861afdd/8302138919-500.jpg" data-tags="turntablism, electronic, electro" role="button">
 Birdy Nam Nam - Birdy Nam Nam (2005-10-24)
-</li>
-<li data-cover="https://img.discogs.com/3JGfB3UQUJtgVrmAP8yv1bXyK0g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-633527-1245340902.jpeg.jpg" data-tags="electronic, electro" role="button">
-Hot Chip - Over and Over (2005-11-29)
 </li>
 <li data-cover="https://img.discogs.com/7sLCjpeXls9RLMT-P-unVY8f3rI=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704553-1149877523.jpeg.jpg" data-tags="electro" role="button">
 Tiga - Sexor (2005-12)
@@ -188,6 +185,9 @@ Ratatat - LP3 (2008-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b023d9-9703-4b4f-b931-5015122e2158/1439139825-500.jpg" data-tags="electronic, indie, electro, 00s, indie electro, aggro, harsh, dance-rock, refreshing, hard electro, whos got the clap, aggro techno, aggro electro, industro, in queue no tracks, discos que debo comprar, aggro synthpop, wikus, ds co, aggro synth" role="button">
 Van She - V (2008-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/94ef17ff-7c33-4ab7-90fb-58842b6fc457/3979727531-500.jpg" data-tags="indie, electro, in queue" role="button">
+Grafton Primary - Eon (2008-09-13)
 </li>
 <li data-cover="https://img.discogs.com/olFbg6hzQQuhFbc8tRLnYmHQBWs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864079-1573610715-7989.jpeg.jpg" data-tags="lmfao" role="button">
 LMFAO - Party Rock (2008-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T01:08:06.907Z
+date: 2021-04-06T15:01:06.922Z
 title: "hypnotic: 100 albums you must listen to before you die"
 ---
 ![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
@@ -27,13 +27,13 @@ The Allman Brothers Band - At Fillmore East (1971)
 <li data-cover="http://coverartarchive.org/release/70d95ff0-d859-4dfa-85ab-3a12088139ce/18557256651-500.jpg" data-tags="passionate, confident, afrobeat, confrontational, provocative, hypnotic, earthy, afro-pop, international, afro-beat, west african, boisterous, highlife, fela kuti, odeon records, african traditions" role="button">
 Fela Kuti - Afrodisiac (1973)
 </li>
+<li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
+Bob Marley & The Wailers - Live! (1975-12-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/d20a18df-c71f-484c-8d41-fdea1abb1f26/18584699933-500.jpg" data-tags="minimalism" role="button">
 Steve Reich - Music for 18 Musicians (1978-04-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
-Throbbing Gristle - 20 Jazz Funk Greats (1979-12)
-</li>
-<li data-cover="https://img.discogs.com/i2hjF3qQugwjM-CCzbXvKILk9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774793-1166295303.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
+<li data-cover="https://img.discogs.com/iJoht-GM1PJ17vaicaggcMaEd7s=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2176551-1360702775-3112.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
 Richard & Linda Thompson - Shoot Out the Lights (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/de648d37-7c2d-3736-aa58-96c6063a2bc5/16234492222-500.jpg" data-tags="80s, alternative rock, indie" role="button">
@@ -87,7 +87,7 @@ Broadcast - Work and Non Work (1997-06-09)
 <li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/hjR-SntUXesfMsJl8QZ9hC2jUlM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3193896-1579926468-6100.jpeg.jpg" data-tags="dream pop" role="button">
 Mercury Rev - Deserter's Songs (1998-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
@@ -102,10 +102,10 @@ Low - Secret Name (1999-03-30)
 <li data-cover="http://coverartarchive.org/release/8a36348d-c96b-46c3-adc6-faf765597a07/15933513236-500.jpg" data-tags="rock argentino, rock en espanol, electronic" role="button">
 Gustavo Cerati - Bocanada (1999-06-28)
 </li>
-<li data-cover="https://img.discogs.com/D2NdV8erfsfu9n6z_4MvJzdqrI4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10882504-1505895149-5695.jpeg.jpg" data-tags="electronic, electronica, indie rock, indie electronic, post-rock, downtempo, druggy, ambient pop, psychedelic pop, dreamy, reflective, atmospheric, whimsical, late night, dream pop, clinical, literate, ethereal, fractured, wry, dramatic, introspection, reflection, eerie, hypnotic, spacey, psychedelic rock, trippy, sophisticated, poignant, detached, playful, sunday afternoon, sweet, solitude, delicate, light, background music, nocturnal, imagination, avant-pop, refined, stylish, wintry, hanging out, restrained, sparkling, circular, innocent, spiked-candy radio, space-age, retro-futuristic, julian house album art, ashich party" role="button">
+<li data-cover="https://img.discogs.com/uAijLGtWlJXfh--0l2ljVkXPBrk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668-1468409952-1004.jpeg.jpg" data-tags="electronic, electronica, indie rock, indie electronic, post-rock, downtempo, druggy, ambient pop, psychedelic pop, dreamy, reflective, atmospheric, whimsical, late night, dream pop, clinical, literate, ethereal, fractured, wry, dramatic, introspection, reflection, eerie, hypnotic, spacey, psychedelic rock, trippy, sophisticated, poignant, detached, playful, sunday afternoon, sweet, solitude, delicate, light, background music, nocturnal, imagination, avant-pop, refined, stylish, wintry, hanging out, restrained, sparkling, circular, innocent, spiked-candy radio, space-age, retro-futuristic, julian house album art, ashich party" role="button">
 Broadcast - Echo's Answer (1999-10-01)
 </li>
-<li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
+<li data-cover="https://img.discogs.com/Wb2clSHhJ4_ZOv69eP7kTPBiBOw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3194-1145339641.jpeg.jpg" data-tags="electronica, warp" role="button">
 Broadcast - The Noise Made by People (2000-03-20)
 </li>
 <li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
@@ -153,7 +153,7 @@ The Verve - This Is Music: The Singles 92-98 (2004-11-01)
 <li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
 Lemon Jelly - '64-'95 (2005-01-31)
 </li>
-<li data-cover="https://img.discogs.com/tcVjgT8mgj8IjFtVvSpQnt0pCAg=/fit-in/544x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2335479-1277777859.jpeg.jpg" data-tags="playful, carefree, relaxed, lush, summertime" role="button">
+<li data-cover="https://img.discogs.com/zgyOYjzQV34L8Y59OmN5rxKF5o0=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-610332-1243877892.jpeg.jpg" data-tags="playful, carefree, relaxed, lush, summertime" role="button">
 Saint Etienne - Tales from Turnpike House (2005-06-13)
 </li>
 <li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
@@ -189,7 +189,7 @@ Om - Pilgrimage (2007-09-13)
 <li data-cover="http://coverartarchive.org/release/27726944-0886-3373-b692-0e9324637870/4083569167-500.jpg" data-tags="soundtrack" role="button">
 Nick Cave & Warren Ellis - The Assassination of Jesse James By the Coward Robert Ford (2007-10-23)
 </li>
-<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0abc19a9-af51-41c5-88e3-0dd4a5f40ae8/27829592789-500.jpg" data-tags="00s" role="button">
@@ -198,7 +198,7 @@ Atlas Sound - Let the Blind Lead Those Who Can See but Cannot Feel (2008-02-18)
 <li data-cover="http://coverartarchive.org/release/1b43a144-f4be-4365-b376-947d93586550/4507021160-500.jpg" data-tags="techno, minimal techno, ominous, late night, club, clinical, winter, intense, hypnotic, paranoid, cold, cerebral, detached, sparse, nocturnal, bleak, unsettling, urgent, night driving" role="button">
 Basic Channel - BCD-2 (2008-05)
 </li>
-<li data-cover="https://img.discogs.com/a_GKwVNPv_eLRFXXqePferRrGZU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1431926-1388687760-5207.jpeg.jpg" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/qCPATWg5xOhhsoUkUZ36dlYlKFE=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1789141-1243419380.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Chemical Chords (2008-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0588edb2-ac4f-4b71-bca5-faeb0947ec4c/24650516354-500.jpg" data-tags="electronic" role="button">
@@ -267,7 +267,7 @@ Atlas Sound - Parallax (2011-10-26)
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
 </li>
-<li data-cover="https://img.discogs.com/vC9tjkGlYxP28fPtZY_DF-h0qgU=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13663763-1558545594-6084.jpeg.jpg" data-tags="dance, pop" role="button">
+<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="dance, pop" role="button">
 Madonna - Girl Gone Wild (2012-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:56:01.494Z
+date: 2021-04-06T15:40:01.365Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/mLwjMdz3iGwslNg5YKQ1FbAUtmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6034085-1420330233-7216.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")
@@ -29,9 +29,6 @@ The Clash - London Calling (1979-12-14)
 </li>
 <li data-cover="https://img.discogs.com/GZTNxEFdR7Y4ZR0JiuMiR_FvYp0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17882959-1615988212-9837.jpeg.jpg" data-tags="ska, two-tone" role="button">
 The English Beat - I Just Can't Stop It (1980-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/922ded3b-38d8-4814-922d-85e8cc7491f5/5858926036-500.jpg" data-tags="ska" role="button">
-The Beat - I Just Can't Stop It (1980-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9604a153-5a40-35c0-ba5c-72019a5df380/22902123804-500.jpg" data-tags="ska" role="button">
 The Specials - More Specials (1980-10-04)
@@ -201,6 +198,9 @@ Less Than Jake - Anthem (2003-05-19)
 <li data-cover="http://coverartarchive.org/release/0d0bd3d3-7c03-4a1d-a67a-198d6e1c08cf/3374974591-500.jpg" data-tags="ska" role="button">
 The Real McKenzies - Oot & Aboot (2003-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/d1acd38d-e01b-4de2-a929-ac1b72ec7d7c/3412654508-500.jpg" data-tags="ska" role="button">
+Suburban Legends - Rump Shaker (2003-06-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg" data-tags="ska, ska punk" role="button">
 Streetlight Manifesto - Everything Goes Numb (2003-08-26)
 </li>
@@ -288,7 +288,7 @@ Mad Caddies - Keep It Going (2007-05-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="ska, roots, california, roots reggae, aleister crowley, christopher lee, acoustic ska, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, california reggae, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
 Rebelution - Courage To Grow (2007-06-08)
 </li>
-<li data-cover="https://img.discogs.com/pb51h1WEIxxEdn8r9qgii2P-SbM=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1050300-1365315769-2069.jpeg.jpg" data-tags="latin" role="button">
+<li data-cover="https://img.discogs.com/qVjBD2zNd7yt8T2nhZpyzlDXRmM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061809-1511883604-1888.jpeg.jpg" data-tags="latin" role="button">
 Manu Chao - La Radiolina (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a02a6d0b-cd51-4938-ab72-32efdc56acf8/6936491369-500.jpg" data-tags="punk, punk rock, plattensammlung" role="button">

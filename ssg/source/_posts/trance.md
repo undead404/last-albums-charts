@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:01:06.831Z
+date: 2021-04-06T15:44:01.382Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -33,7 +33,7 @@ Juno Reactor - Beyond The Infinite (1995-09-18)
 <li data-cover="http://coverartarchive.org/release/724f81e5-6913-30d3-b979-0b9c87142d23/17511200093-500.jpg" data-tags="psytrance, goa" role="button">
 Astral Projection - Trust In Trance (1996-05-10)
 </li>
-<li data-cover="https://img.discogs.com/5yYmwaKosO62y-ibHwTCmi-CqMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34783-001.jpg.jpg" data-tags="trance, dream, robert miles" role="button">
+<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="https://img.discogs.com/Ux7JgAR8NZmQa7h00g1EMp7FNc0=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5489624-1477073588-1316.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
@@ -159,7 +159,7 @@ Special D. - Come With Me (2003-03-24)
 <li data-cover="https://img.discogs.com/G_lQGAvP2uMhUYgKP2sny3aAodE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019236-1464300306-9378.jpeg.jpg" data-tags="electronic, psytrance" role="button">
 Infected Mushroom - Converting Vegetarians (2003-04-09)
 </li>
-<li data-cover="https://img.discogs.com/n3wdRuLdRNb59IB_Qv4Dvc1amk0=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207196-1234422929.jpeg.jpg" data-tags="trance, dance" role="button">
+<li data-cover="https://img.discogs.com/APHgx08XpE6Ibo5PpefExBGxkE8=/fit-in/236x236/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-625263-1144884929.gif.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d63f901b-d232-4814-84d4-eeef097bb0ee/5454987213-500.jpg" data-tags="trance" role="button">
@@ -177,6 +177,9 @@ Paul van Dyk - Reflections (2003-10-07)
 <li data-cover="https://img.discogs.com/boA_i52ri9qokCW21I2qe_b56iQ=/fit-in/466x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737145-1317817070.jpeg.jpg" data-tags="trance" role="button">
 Ferry Corsten - Right Of Way (2003-11-11)
 </li>
+<li data-cover="https://img.discogs.com/o0gQ-ig7SkqDuCneLPQ35Y1wJNA=/fit-in/600x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-406424-1109191706.jpg.jpg" data-tags="dance, pop" role="button">
+Infernal - From Paris To Berlin (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d9879a9-accc-4283-9ac4-fc9bb069573d/25651133073-500.jpg" data-tags="trance, atb" role="button">
 ATB - No Silence (2004-05-24)
 </li>
@@ -188,9 +191,6 @@ Infected Mushroom - IM the Supervisor (2004-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f46f90f-b5e5-443d-bb0f-40151764a950/4043627444-500.jpg" data-tags="trance, electronic, goa, psytrance" role="button">
 Juno Reactor - Labyrinth (2004-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/5c054155-b21f-4831-9acd-dd40029b53d7/4702925224-500.jpg" data-tags="psytrance" role="button">
-Astrix - Artcore (2004-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7005a05e-76de-4777-809b-6afad9c45b2a/11655498373-500.jpg" data-tags="vocal trance, trance" role="button">
 iio - Poetica (2005-02-25)

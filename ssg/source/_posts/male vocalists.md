@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:53:01.437Z
+date: 2021-04-06T14:54:01.409Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -33,13 +33,16 @@ Del Amitri - Twisted (1995-02-28)
 <li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
+<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+Robbie Williams - Angels (1997-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="male vocalists, new jack swing, faves, rap and hip hop, blackstreet, new songs" role="button">
 Blackstreet - Girlfriend/Boyfriend (1999-04-05)
 </li>
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
-<li data-cover="https://img.discogs.com/NBCvY5cCvelAfmxcLXs258JUzvM=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7137188-1497941590-2757.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
+<li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
@@ -63,7 +66,7 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
@@ -75,7 +78,7 @@ McFly - Room on the 3rd Floor (2004-07-05)
 <li data-cover="http://coverartarchive.org/release/aac73402-efd7-440b-be44-43183aa48f0d/28019403744-500.jpg" data-tags="pop" role="button">
 Brian McFadden - Irish Son (2004-11-22)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
@@ -93,7 +96,7 @@ Daniel Powter - dp (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
@@ -138,11 +141,8 @@ Switchfoot - Oh! Gravity. (2006-12-26)
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="british, indie rock, indie" role="button">
+<li data-cover="https://img.discogs.com/EyfjXvBzxyGUHbxuO-HscInI-rg=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025037-1342478511-5778.jpeg.jpg" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
@@ -303,7 +303,7 @@ Arctic Monkeys - One for the Road (2013-12-09)
 <li data-cover="http://coverartarchive.org/release/36b65834-9455-498f-bce1-4b037b4a65e3/7464470016-500.jpg" data-tags="electronic, indie, pop, uk, male vocalists, radio mirror park" role="button">
 Dan Croll - Sweet Disarray (2014-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fabdf6d-33be-4096-ba20-0a882ba7df0d/7144107814-500.jpg" data-tags="pop, dance-pop, contemporary, house, synthpop, christian, male vocalists, tagged, sweet, spam, orange, drunk, people, chelsea, tags, tag, everything, andy, david, trump, scott, over, ccm, de, the, galas, king, dude, likes, this, diamanda, so, and, make, again, total, some, target, tagging, donald, commercialism, much, wolfe, carman, mairena, fuct, dulukk, yellow things, dulukkcore, nationstates, spambo, sevdaliza, jpoptrasher, jpoptrashercore, jpoptrasher-core, dulukk-core, lenushiromiya, lenushiromiyacore, lenushiromiya-core, contemporary muslim, animegirl77, animegirl77core, animegirl77-core, moyer, david scott, farbel, orange people, could be more out, non-favorite" role="button">
+<li data-cover="http://coverartarchive.org/release/5fabdf6d-33be-4096-ba20-0a882ba7df0d/7144107814-500.jpg" data-tags="pop, dance-pop, contemporary, house, synthpop, christian, male vocalists, tagged, sweet, spam, orange, drunk, people, chelsea, tags, tag, andy, david, trump, scott, over, ccm, de, the, galas, king, dude, likes, this, diamanda, so, and, make, again, total, some, target, tagging, donald, commercialism, much, wolfe, carman, mairena, fuct, dulukk, yellow things, dulukkcore, nationstates, spambo, sevdaliza, jpoptrasher, jpoptrashercore, jpoptrasher-core, dulukk-core, lenushiromiya, lenushiromiyacore, lenushiromiya-core, contemporary muslim, animegirl77, animegirl77core, animegirl77-core, moyer, david scott, farbel, orange people, could be more out, non-favorite" role="button">
 RuPaul - Born Naked (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/80baad45-ac14-4f4f-8344-c81e2d5e57d9/7114414678-500.jpg" data-tags="electronic, experimental pop" role="button">

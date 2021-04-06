@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:53:01.578Z
+date: 2021-04-06T15:13:01.659Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -29,9 +29,6 @@ Popol Vuh - Hosianna Mantra (1972)
 </li>
 <li data-cover="https://img.discogs.com/A8Q1FjBMKODKL1WWbAaHEsGrkE0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501853-1219671378.jpeg.jpg" data-tags="new age, chillout" role="button">
 Mythos - Mythos (1972)
-</li>
-<li data-cover="https://img.discogs.com/LFU49Frc3pzG0uWJwi4SlJPETaU=/fit-in/590x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1243696-1500064351-6876.jpeg.jpg" data-tags="progressive rock" role="button">
-Mike Oldfield - Hergest Ridge (1974-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe768488-bf44-4fee-8309-1e010f5e31a3/11969072130-500.jpg" data-tags="progressive rock, new age" role="button">
 Mike Oldfield - Ommadawn (1975-10-21)
@@ -69,7 +66,7 @@ Vangelis - Themes (1989-09-01)
 <li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
 Enigma - MCMXC a.D. (1990-12-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/2TVIvMUyZEKm_2lDGtfUeXKJWJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736152-1401249094-3734.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Visit (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
@@ -134,6 +131,9 @@ Delerium - Karma (1997-04-22)
 </li>
 <li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/017f86a2-097c-432c-9ecd-7f3ebf6e8eef/22110454730-500.jpg" data-tags="new age" role="button">
+Yanni - Tribute (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/281397de-fa8e-491a-b664-f03d5eb49c19/15932053701-500.jpg" data-tags="new age, enya, storms in africa, boadicea, only if" role="button">
 Enya - Paint The Sky With Stars (1997-11-10)
@@ -240,7 +240,7 @@ Karunesh - Call of the Mystic (2004-05-11)
 <li data-cover="http://coverartarchive.org/release/540ad2af-01ee-492c-b9de-7bc8dffb7cd3/6752013943-500.jpg" data-tags="new age" role="button">
 Amethystium - Evermind (2004-10-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age, meditation, relax" role="button">
+<li data-cover="https://img.discogs.com/zrHhI4AAuvdXMs0udXX1cObnsyg=/fit-in/597x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2865155-1304634115.jpeg.jpg" data-tags="new age, meditation, relax" role="button">
 Deuter - East of the Full Moon (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">

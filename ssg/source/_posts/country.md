@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:36:01.447Z
+date: 2021-04-06T15:20:01.408Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/YZX7t4Ix6JqNxJlqMRpFTi8lDVg=/fit-in/450x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15576050-1613367279-2968.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -41,9 +41,6 @@ Townes Van Zandt - Townes Van Zandt (1969-09)
 </li>
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
-</li>
-<li data-cover="https://img.discogs.com/lBoZBxwEhUdHIy0AVxhUhR0Kz_4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9284153-1477932849-6111.jpeg.jpg" data-tags="folk" role="button">
-James Taylor - Sweet Baby James (1970-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
 Neil Young - Harvest (1972-02-14)
@@ -111,6 +108,9 @@ Faith Hill - There You'll Be (2001-10-08)
 <li data-cover="https://img.discogs.com/LDodnhH5hRxBvecYs65tpSQverg=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558075-1290358712.jpeg.jpg" data-tags="country" role="button">
 Joe Nichols - Man With A Memory (2002-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d65493ed-9fae-3381-b57d-8e50596c72cd/14014357566-500.jpg" data-tags="country" role="button">
+Dixie Chicks - Home (2002-08-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/23e97699-2bee-4456-8bfe-61306ac41b11/22072482935-500.jpg" data-tags="country" role="button">
 Keith Urban - Golden Road (2002-10-08)
 </li>
@@ -144,9 +144,6 @@ Sufjan Stevens - Seven Swans (2004-03-16)
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cb847e2-d768-3644-a892-e56fd9d9de61/21381901373-500.jpg" data-tags="country" role="button">
-Loretta Lynn - Van Lear Rose (2004-04-27)
-</li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
@@ -159,7 +156,7 @@ Keith Urban - Be Here (2004-09-21)
 <li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
 Shania Twain - Greatest Hits (2004-11-08)
 </li>
-<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/aae883ce-905d-4b1b-8440-037e4102bf7a/10037462392-500.jpg" data-tags="country" role="button">
@@ -167,6 +164,9 @@ Miranda Lambert - Kerosene (2005-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/67747899-e291-49f7-bf83-d88854230386/4259252736-500.jpg" data-tags="country" role="button">
 Dierks Bentley - Modern Day Drifter (2005-05-10)
+</li>
+<li data-cover="https://img.discogs.com/euPgMPOhkaUG4hkmQxHl-UUVdcI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528063-1333984291.jpeg.jpg" data-tags="country, cash" role="button">
+Johnny Cash - The Legend (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/538329ea-1087-4ef6-800e-d9069cabd299/19388646151-500.jpg" data-tags="country" role="button">
 Little Big Town - The Road to Here (2005-10-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:07:01.420Z
+date: 2021-04-06T15:24:01.408Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -81,9 +81,6 @@ Bob Dylan - Blood on the Tracks (1975-01-20)
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c20f8cc-7b31-32de-8c44-2d28d1c07b9f/12662111311-500.jpg" data-tags="leonard cohen, 80s, singer-songwriter" role="button">
-Leonard Cohen - I'm Your Man (1988-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
 </li>
@@ -125,6 +122,9 @@ Jack Johnson - Brushfire Fairytales (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
+</li>
+<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
+Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
 <li data-cover="https://img.discogs.com/s8iZgcvR9NwhB90U0C2tsRNllf0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10666243-1586957390-2202.png.jpg" data-tags="singer-songwriter" role="button">
 Rufus Wainwright - Poses (2001-06-04)

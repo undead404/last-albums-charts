@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T00:33:01.346Z
+date: 2021-04-06T15:02:07.130Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -11,7 +11,7 @@ title: "post-grunge: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/zKrm-b4jrZ-oY-VyfDdSxcmDZ6A=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5449544-1595955921-2024.jpeg.jpg" data-tags="rock" role="button">Creed - Weathered (2001-01-19)</li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">Audioslave - Audioslave (2002-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">Three Days Grace - Three Days Grace (2003-07-22)</li>
-<li data-cover="http://coverartarchive.org/release/d071fda0-f5cb-448f-9b90-c0f1cd2d116f/6320184240-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">Alter Bridge - One Day Remains (2004-08-10)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">Nickelback - Dark Horse (2008-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Wasting Light (2011-04-08)</li>
 </ol>
@@ -48,7 +48,7 @@ Dishwalla - Counting Blue Cars (1996-02-27)
 <li data-cover="http://coverartarchive.org/release/dd51cabe-c150-38cf-b0cd-ebc9e5c9994f/27541946371-500.jpg" data-tags="alternative rock, rock" role="button">
 Tonic - Lemon Parade (1996-07-16)
 </li>
-<li data-cover="https://img.discogs.com/tOZgjs__kTawPBj0_vYIb8vvrTg=/fit-in/498x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573265-1140881062.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
+<li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecef0212-b8c5-459f-8fd7-47f8c775a798/8886801506-500.jpg" data-tags="alternative rock, indie rock, space rock, rock, alternative, post-grunge" role="button">
@@ -69,7 +69,7 @@ Bush - Razorblade Suitcase (1996-11-19)
 <li data-cover="https://img.discogs.com/NUfTBfEx2BBxfztmnBVTGjFDQMA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1931798-1310345177.jpeg.jpg" data-tags="alternative rock, 90s, alternative" role="button">
 Marcy Playground - Marcy Playground (1997-02-25)
 </li>
-<li data-cover="https://img.discogs.com/lolOKT55BWO7otwvTcXdtj5w3SI=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-878404-1171132297.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/i81K-_1Sfz6SdPBzp9yI9KI3m8c=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1813262-1250820614.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
 Third Eye Blind - Third Eye Blind (1997-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/692dccec-444b-489b-bfd3-4cf8d490e3a2/5588282462-500.jpg" data-tags="rock, alternative rock" role="button">
@@ -83,9 +83,6 @@ Godsmack - Godsmack (1998-08-25)
 </li>
 <li data-cover="https://img.discogs.com/MeVNWQf5LDxJQ_CUtg5RrCZxgkA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15461683-1591908472-1392.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Nickelback - The State (1999-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
-Silverchair - Neon Ballroom (1999-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
 Creed - Human Clay (1999-07-24)
@@ -162,7 +159,7 @@ Audioslave - Audioslave (2002-11-15)
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
 </li>
-<li data-cover="https://img.discogs.com/vlau61vpGX-YOKEj67EuCN9BpRM=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7066761-1432968460-8867.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
+<li data-cover="https://img.discogs.com/KRMTwE7qWAZAHT2B0pdhwNqZyXc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297711-1207470861.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/1075497696-500.jpg" data-tags="alternative rock, rock" role="button">
@@ -231,6 +228,9 @@ Three Days Grace - One-X (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - Phobia (2006-08-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-grunge, crossfade" role="button">
+Crossfade - Falling Away (2006-08-29)
+</li>
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - The Paramour Sessions (2006-09-08)
 </li>
@@ -246,8 +246,8 @@ Finger Eleven - Them vs. You vs. Me (2007-03-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Puddle of Mudd - Famous (2007-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/31edc597-2f6a-4466-8e79-2f7ad5eae2fb/9227459438-500.jpg" data-tags="rock, alternative rock" role="button">
-12 Stones - Anthem For The Underdog (2007-08-14)
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/1282e884-15ba-45bf-8600-728e2c195da9/5892345639-500.jpg" data-tags="hard rock, alternative metal, alternative rock" role="button">
 Alter Bridge - Blackbird (2007-10-09)

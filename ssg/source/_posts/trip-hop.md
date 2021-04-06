@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:26:01.390Z
+date: 2021-04-06T14:58:01.373Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -30,7 +30,7 @@ Björk - Debut (1993-07-12)
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
 </li>
-<li data-cover="https://img.discogs.com/KduDRCveZa3suz6NUVTCw5Cffek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2423609-1513393936-3333.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2780fb0-8280-3b8e-9159-81613d63f71d/1936069114-500.jpg" data-tags="trip-hop" role="button">
@@ -78,9 +78,6 @@ Kid Loco - A Grand Love Story (1997-11-25)
 <li data-cover="https://img.discogs.com/XMY4ZtiuNErL1mPBnUuOi4CiN6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13711-1180502340.jpeg.jpg" data-tags="trip-hop" role="button">
 Esthero - Breath From Another (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
-Air - Moon Safari (1998-01-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Big Calm (1998-03-16)
 </li>
@@ -93,7 +90,7 @@ Hooverphonic - Blue Wonder Power Milk (1998-05-11)
 <li data-cover="http://coverartarchive.org/release/994207cd-403e-3d5f-9149-1299390545ae/16038719610-500.jpg" data-tags="trip-hop, electronic" role="button">
 Moloko - I Am Not a Doctor (1998-07-27)
 </li>
-<li data-cover="https://img.discogs.com/Rh0ap33N594OAeQT7MJDnGwE7g0=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1026344-1185522026.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/Kbzc-pUTQrxLWHcbM20uuukPyfg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071075-1189923687.jpeg.jpg" data-tags="trip-hop" role="button">
 UNKLE - Psyence Fiction (1998-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/768bb870-b958-49e9-a87b-a695b67aec1b/14288438323-500.jpg" data-tags="electronic, faithless" role="button">
@@ -108,7 +105,7 @@ Archive - Take My Head (1999-04-20)
 <li data-cover="https://img.discogs.com/tKpF3PRI2pdUpFV0sxG5aEFchiY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-175406-1186470303.jpeg.jpg" data-tags="trip-hop" role="button">
 Lamb - Fear Of Fours (1999-05-17)
 </li>
-<li data-cover="https://img.discogs.com/5NUxp9OIUfM-toTymrimzsYfa9Y=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726191-1171729618.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
 <li data-cover="https://img.discogs.com/YCFztdICySQEZ6VJPuQmnF_7joE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-50408-1264860782.jpeg.jpg" data-tags="trip-hop, uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz" role="button">
@@ -144,7 +141,7 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
-<li data-cover="https://img.discogs.com/UVRE9KE-Ba7u4VKWfUvi9M4_PDw=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377788-1460896455-8546.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/jmWEyDO16kNXmvl9evyBzsUdK0g=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2876887-1584239708-8952.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
@@ -156,7 +153,7 @@ Sneaker Pimps - Bloodsport (2002-01-22)
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
 Archive - You All Look the Same to Me (2002-03-12)
 </li>
-<li data-cover="https://img.discogs.com/wbkOKKDg0V32KUpZheck3npIxCk=/fit-in/320x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-551960-1138319224.jpeg.jpg" data-tags="trip-hop, electronic, hip-hop" role="button">
+<li data-cover="https://img.discogs.com/H66EvinqildWqIFOtN3fCnZnKJo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49824-1553253750-6396.jpeg.jpg" data-tags="trip-hop, electronic, hip-hop" role="button">
 DJ Shadow - The Private Press (2002-05-22)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
@@ -186,7 +183,7 @@ Martina Topley-Bird - Quixotic (2003-06)
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
 </li>
-<li data-cover="https://img.discogs.com/Oc4yGalPnKUxZj3RCW2RpDxQCwA=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159354-1493361266-8256.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="http://coverartarchive.org/release/65ae7726-7129-4456-ac20-e3e0e84e1f05/26300515610-500.jpg" data-tags="trip-hop" role="button">
 UNKLE - Never, Never, Land (2003-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2b78290-b041-4cdb-8355-7f8090ff7485/21687038310-500.jpg" data-tags="trip-hop" role="button">
@@ -252,13 +249,16 @@ Emancipator - Soon it Will be Cold Enough (2006-12-06)
 <li data-cover="http://coverartarchive.org/release/5a2161b8-0ce9-4452-812e-94d0b40d2c01/15293691504-500.jpg" data-tags="trip-hop" role="button">
 Elsiane - Hybrid (2007-04-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/176834c5-0a32-31b1-aa5e-ada3037202e5/22417025585-500.jpg" data-tags="trip-hop, electronic" role="button">
+UNKLE - War Stories (2007-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c1f9dc2-fb74-4e32-8f00-4fc1c9d530b2/5430078227-500.jpg" data-tags="trip-hop, chillout" role="button">
 Little Dragon - Little Dragon (2007-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a188e6af-c574-4702-972d-1942eeb9cf8b/4196199949-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Dive Deep (2008-02-04)
 </li>
-<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="https://img.discogs.com/cjor1bKuea5JybWWyyJakFaqgVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362662-1212954452.jpeg.jpg" data-tags="trip-hop" role="button">

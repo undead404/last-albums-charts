@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:56:01.517Z
+date: 2021-04-06T15:37:01.390Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -26,9 +26,6 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
-Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/decbc9c9-02bb-4d2c-8998-90775a2266e8/13474985144-500.jpg" data-tags="hard rock, female vocalist, 80s, glam metal, heavy metal, hair metal" role="button">
 Lita Ford - Lita (1988-02-02)
@@ -129,7 +126,7 @@ Flyleaf - Flyleaf (2004-10-26)
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
-<li data-cover="https://img.discogs.com/ly7RLMEKPSRmSN-evdNPH2XJW3I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463243-1421694038-7821.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="https://img.discogs.com/ZB9c7-tmuK9P6zRfd92W2_UF2k0=/fit-in/600x858/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5419521-1602094564-5998.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
@@ -143,9 +140,6 @@ The Veronicas - The Secret Life of... (2005-08-08)
 </li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">
-Marisa Monte - Infinito Particular (2006-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
@@ -180,8 +174,14 @@ Sarah Brightman - Symphony (2007)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 Ashley Tisdale - Headstrong (2007-02-06)
 </li>
+<li data-cover="https://img.discogs.com/9GwAEUu3_IZbi_fxbL665Lac9s8=/fit-in/590x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1405900-1336081977.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
+Tracey Thorn - Out Of The Woods (2007-03-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a2161b8-0ce9-4452-812e-94d0b40d2c01/15293691504-500.jpg" data-tags="trip-hop" role="button">
+Elsiane - Hybrid (2007-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)

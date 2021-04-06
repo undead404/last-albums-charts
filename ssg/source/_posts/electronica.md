@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:58:01.405Z
+date: 2021-04-06T15:05:01.443Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -29,9 +29,6 @@ Björk - Debut (1993-07-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Global Communication - 76:14 (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
-Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
 Leftfield - Leftism (1995-01-30)
@@ -251,6 +248,9 @@ Owl City - Ocean Eyes (2009-07-14)
 </li>
 <li data-cover="https://img.discogs.com/5fhYAthYMO7Zk-qhzSStks4MKHk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1890282-1250423172.jpeg.jpg" data-tags="electronic, electronica, trip-hop" role="button">
 Little Dragon - Machine Dreams (2009-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/49eefb52-d716-450c-a60d-115f1c4f4240/1472462701-500.jpg" data-tags="electronic, electronica, electropop, synthpop" role="button">
+Miami Horror - Sometimes (2009-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)

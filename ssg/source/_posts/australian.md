@@ -1,11 +1,11 @@
 ---
-date: 2021-04-05T23:26:01.338Z
+date: 2021-04-06T15:15:01.487Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/VukbmouW37McBrWp8ZiCt4gYChw=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-984322-1614531766-2603.jpeg.jpg" data-tags="rock" role="button">Jet - Get Born (2003-09-14)</li>
-<li data-cover="https://img.discogs.com/0JmrZimIK0OjtV-P3ZMmtmg-SmE=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-441851-1342256427-1794.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
+<li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">Wolfmother - Wolfmother (2005-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/adb359a8-a6d7-442b-a231-6005dc5e9a32/2588181873-500.jpg" data-tags="indie, australian, electronic" role="button">Gotye - Like Drawing Blood (2006-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">The Temper Trap - Sweet Disposition (2008)</li>
@@ -26,9 +26,6 @@ Men at Work - Business As Usual (1981)
 </li>
 <li data-cover="https://img.discogs.com/I7mB_KrCVjLfzV9fjw9vMuKK9Ec=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2856067-1306599148.jpeg.jpg" data-tags="hard rock" role="button">
 AC/DC - '74 Jailbreak (1984-10-15)
-</li>
-<li data-cover="https://img.discogs.com/BKUnzmFqbvcnSwjiJB8gea1s5y4=/fit-in/592x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588932-1292031961.jpeg.jpg" data-tags="pop rock, australian, rca victor, needs to be played more, aussie classic, john farnham-pressure down, whispering jack" role="button">
-John Farnham - Whispering Jack (1986)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 AC/DC - Who Made Who (1986-05-12)
@@ -81,9 +78,6 @@ Savage Garden - Affirmation (2000-01-09)
 <li data-cover="http://coverartarchive.org/release/49e0129a-3401-3850-9c5b-27646356b106/2425079924-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Stiff Upper Lip (2000-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/acacc842-6066-4b8b-83b4-b378509a82c9/14132799564-500.jpg" data-tags="chillout, electronic, trip-hop, 80s, alternative, dance, australian, funk, turntablism, whimsical, fun, 00s, aussie, bootleg, fake, summery, soothing, rusbeh" role="button">
-The Avalanches - When I Met You (2000-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
 The Avalanches - Since I Left You (2000-11-27)
 </li>
@@ -129,7 +123,7 @@ Natalie Imbruglia - Counting Down the Days (2005)
 <li data-cover="http://coverartarchive.org/release/7f1caad2-d40e-4568-b316-a6b58bfaf03b/22120885010-500.jpg" data-tags="australian" role="button">
 Ben Lee - Awake Is The New Sleep (2005-02-22)
 </li>
-<li data-cover="https://img.discogs.com/0JmrZimIK0OjtV-P3ZMmtmg-SmE=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-441851-1342256427-1794.jpeg.jpg" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
 </li>
 <li data-cover="https://img.discogs.com/fYMk7WFU_R0oTNAUEX9IYGN308Y=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698236-1237679298.jpeg.jpg" data-tags="alternative rock, metal, progressive rock, karnivool" role="button">
@@ -189,6 +183,9 @@ Midnight Juggernauts - Dystopia (2007-08-04)
 <li data-cover="https://img.discogs.com/qp-fSXy8to2EneFsoGOXf99Fle0=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2210804-1595306896-2248.jpeg.jpg" data-tags="australian, pop" role="button">
 Darren Hayes - This Delicate Thing We've Made (2007-08-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/a1caffde-a45e-43d6-bcae-631164058a97/16176453167-500.jpg" data-tags="indie, country, alternative, folk, singer-songwriter, australian, happy music, my cd collection" role="button">
+Ben Lee - Ripe (2007-09-04)
+</li>
 <li data-cover="https://img.discogs.com/5CSR2ZexE31wNBuqOnv9HvTMq1A=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2664115-1334722692.jpeg.jpg" data-tags="australian" role="button">
 The Panics - Cruel Guards (2007-10-13)
 </li>
@@ -246,8 +243,11 @@ Bag Raiders - Shooting Stars (2009-08-07)
 <li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="folk, australian, jbt, john butler" role="button">
+<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="folk, australian, jbt, john butler" role="button">
 The John Butler Trio - April Uprising (2010-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/1da05321-a8ba-436e-a1a6-98822ea28e94/23564387481-500.jpg" data-tags="soundtrack, hard rock" role="button">
+AC/DC - Iron Man 2 (2010-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4edf1492-cd7e-4aee-83d1-54e583d17958/1065442756-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Deep Blue (2010-06-05)
