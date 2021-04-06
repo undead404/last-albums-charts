@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:52:01.372Z
+date: 2021-04-06T17:48:01.394Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -26,9 +26,6 @@ Whitney Houston - Whitney Houston (1985-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec86745-1482-42dc-b2e0-118caa53504b/1872074680-500.jpg" data-tags="pop, soul" role="button">
 Mariah Carey - Emotions (1991-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/78a92425-589a-351b-86bd-4409ae3e9968/9668287036-500.jpg" data-tags="pop, 90s" role="button">
-Madonna - Bedtime Stories (1994-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/821cfaab-a24e-4274-80d5-4b7eb96734f0/1925883052-500.jpg" data-tags="rnb, 90s" role="button">
 TLC - CrazySexyCool (1994-11-14)
@@ -84,9 +81,6 @@ Usher - 8701 (2001-07-09)
 <li data-cover="http://coverartarchive.org/release/055b91e9-9d5f-4cf6-a6f1-75d9956a1f50/17315382405-500.jpg" data-tags="rnb" role="button">
 Aaliyah - Aaliyah (2001-07-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/6b9a30a1-9a94-49dd-a004-a7ee5c38126b/16759780312-500.jpg" data-tags="rap, nelly" role="button">
-Nelly - Nellyville (2002-06-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a0c6963-683e-4275-bebb-0279092ee772/2081207603-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Stripped (2002-10-28)
 </li>
@@ -108,7 +102,7 @@ Alicia Keys - The Diary of Alicia Keys (2003-12-01)
 <li data-cover="http://coverartarchive.org/release/458e1a8d-c9b1-418d-ab5d-376ea1954942/3766526343-500.jpg" data-tags="rnb" role="button">
 Kelis - Tasty (2003-12-08)
 </li>
-<li data-cover="https://img.discogs.com/o6XLlpJk9HcoS5S4MKgnqBwjt38=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-424075-1386798043-3144.jpeg.jpg" data-tags="rnb" role="button">
+<li data-cover="https://img.discogs.com/26HBMwoKo7cvLxxeYKSfmR_JVVM=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-799422-1501524692-4284.jpeg.jpg" data-tags="rnb" role="button">
 Ciara - Goodies (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9c7cbfa-bc5a-3183-a01b-28ed5817164f/21521356369-500.jpg" data-tags="rnb" role="button">
@@ -159,6 +153,9 @@ Nelly Furtado - Loose (2006-06-07)
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
+<li data-cover="https://img.discogs.com/kjGzDdFEwP482Xkk-xA0mT6plDc=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877348-1327239643.jpeg.jpg" data-tags="rnb, cassie" role="button">
+Cassie - Cassie (2006-08-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
 Christina Aguilera - Back to Basics (2006-08-14)
 </li>
@@ -189,6 +186,9 @@ Sean Kingston - Sean Kingston (2007-07-31)
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, keyshia cole" role="button">
 Keyshia Cole - Just Like You (2007-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b11dae0-5b4b-4c90-96dc-dc7e345c9f6d/22158725009-500.jpg" data-tags="rnb, recent hot" role="button">
+J. Holiday - Back Of My Lac' (2007-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">
 Trey Songz - Trey Day (2007-10-02)
 </li>
@@ -197,6 +197,9 @@ Jordin Sparks - Jordin Sparks (2007-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a15778b-a633-4325-a03b-0bc528c87f31/4474111699-500.jpg" data-tags="rnb, chris brown" role="button">
 Chris Brown - Exclusive (2007-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/95bcbbcb-af3e-3304-8f16-0b8db7ce10f1/17669063042-500.jpg" data-tags="soul, rnb" role="button">
+Alicia Keys - As I Am (2007-11-09)
 </li>
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
@@ -210,7 +213,7 @@ Chris Brown - Forever (2008)
 <li data-cover="http://coverartarchive.org/release/1b4f8392-566f-48eb-9c79-da2d02e7d74a/1637719561-500.jpg" data-tags="pop, rnb, mariah carey" role="button">
 Mariah Carey - E=MC² (2008-01-01)
 </li>
-<li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
+<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
@@ -224,9 +227,6 @@ Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
 Akon - Freedom (2008-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/761530f2-5a87-440e-ad76-39a1b036479d/4387425940-500.jpg" data-tags="rnb" role="button">
-Jamie Foxx - Intuition (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)

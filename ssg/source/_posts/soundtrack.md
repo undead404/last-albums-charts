@@ -1,13 +1,13 @@
 ---
-date: 2021-04-06T01:19:01.397Z
+date: 2021-04-06T18:22:02.163Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
-![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
+![Gary Jules - Trading Snakeoil For Wolftickets (2001)](https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg "Gary Jules - Trading Snakeoil For Wolftickets (2001)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/MC6Qr43m3UtgFc1YvkWW2AI4mRQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2966893-1415299360-3990.jpeg.jpg" data-tags="soundtrack" role="button">Vangelis - Blade Runner (1993-12)</li>
 <li data-cover="http://coverartarchive.org/release/fc8ab829-5388-4640-bb64-c41c4c1caea8/18688508262-500.jpg" data-tags="soundtrack" role="button">Thomas Newman - American Beauty (2000-01-11)</li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">Air - The Virgin Suicides (2000-02-25)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
+<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">Gary Jules - Trading Snakeoil For Wolftickets (2001)</li>
 <li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - The Pick of Destiny (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/50b212ff-cea7-379d-8bb4-340b985e1dd4/3204990971-500.jpg" data-tags="soundtrack" role="button">
-Henry Mancini - Breakfast At Tiffany's (1961)
-</li>
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
@@ -45,8 +42,11 @@ Isaac Hayes - Shaft (1971-07-02)
 <li data-cover="http://coverartarchive.org/release/b307451c-46e8-403c-8a6c-21bce789b649/16084309080-500.jpg" data-tags="soundtrack" role="button">
 Nino Rota - The Godfather (1972)
 </li>
-<li data-cover="https://img.discogs.com/dLvUBeaGRpebiGSGlXElAfBzW7E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2884262-1305639329.jpeg.jpg" data-tags="soundtrack, folk" role="button">
+<li data-cover="https://img.discogs.com/qJq-j_vLsSPn81CJE6s7dJid1rg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2114910-1286191109.jpeg.jpg" data-tags="soundtrack, folk" role="button">
 Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f691532-5308-3416-9796-9935c7952557/4372324970-500.jpg" data-tags="musical, soundtrack" role="button">
+Richard O'Brien - The Rocky Horror Picture Show (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
@@ -186,7 +186,7 @@ Various Artists - Lost in Translation (2003-09-09)
 <li data-cover="https://img.discogs.com/1p0S0i7CoUBZT7Iv7NiRs03R29U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8116076-1455457650-7461.jpeg.jpg" data-tags="experimental" role="button">
 Jonny Greenwood - Bodysong (2003-10-27)
 </li>
-<li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
+<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/38bbd5dc-b26c-49ea-96d5-7a39be22776b/21076376416-500.jpg" data-tags="soundtrack" role="button">

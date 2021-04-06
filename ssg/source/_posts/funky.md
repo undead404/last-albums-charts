@@ -1,17 +1,17 @@
 ---
-date: 2021-04-06T07:15:01.688Z
+date: 2021-04-06T18:21:01.379Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/43874469-e28e-4f7f-94fa-f99e4017bbf1/17944378972-500.jpg" data-tags="easy listening, funky, silly, geffen records, albums to listen to" role="button">Rupert Holmes - Partners In Crime (1979)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - A Funk Odyssey (2001-08-29)</li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">Paolo Nutini - These Streets (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">Kelly Rowland - Work (2008-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/c9003d52-4214-422d-a0a2-4343fe9e75e0/6164086297-500.jpg" data-tags="classic rock, pop, rock, 80s, funky, breakbeat, underground" role="button">Gossip - Heavy Cross (2009-06-05)</li>
 <li data-cover="https://img.discogs.com/98tNSm3zZhZn4UAGlv68_EoCTck=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057953-1261415919.png.jpg" data-tags="indie, rock, soul, indie rock, american, funky, need to ch-ch-check out" role="button">Generationals - Con Law (2009-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
+<li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">Duck Sauce - Barbra Streisand (2010-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, sex, neo soul, soul revival" role="button">Mayer Hawthorne - How Do You Do (2011-10-04)</li>
 </ol>
@@ -81,6 +81,9 @@ Jamiroquai - A Funk Odyssey (2001-08-29)
 <li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
 Kings of Convenience - Versus (2001-10-22)
 </li>
+<li data-cover="https://img.discogs.com/l3mTKkE6hsnL-gY-Tex3HJXECQ4=/fit-in/308x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3166659-1318779583.jpeg.jpg" data-tags="jazz, rock, funk, funky, groovy, rhythm and blues, jecks, louis armstrong, larmstrong, l armstrong" role="button">
+Louis Armstrong - C'est Si Bon (2001-11-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
 Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
@@ -105,10 +108,7 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/85ffc0b7-1878-3ccb-9270-1d2f2d1595b3/24919226700-500.jpg" data-tags="rock" role="button">
 Jane's Addiction - Strays (2003-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/a14d0a2d-6132-447e-8d32-7aecfbea27e3/5597516047-500.jpg" data-tags="rock, alternative rock, favorite" role="button">
-311 - Evolver (2003-07-22)
-</li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5ad949c-a2c5-35d0-86c8-7a54cde44ba1/15258576861-500.jpg" data-tags="funk, neo-soul, funky" role="button">
@@ -138,7 +138,7 @@ The Books - Lost and Safe (2005-04-05)
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">
 Fat Freddy's Drop - Based on a True Story (2005-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
+<li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
@@ -150,7 +150,7 @@ Nate James - Set The Tone (2005-08-08)
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
 </li>
-<li data-cover="https://img.discogs.com/gQtF__jMDi6r1WvNz3mB7sfCess=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2930041-1312706498.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/FNLNEnZStWdakQ3gzI_d-rIxBn8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2099124-1263935082.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, singer-songwriter" role="button">
 Ian Brown - The Greatest (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c0fdc8c-8913-464b-b5fc-90a151b7553c/1363185432-500.jpg" data-tags="robin thicke, rnb, soul" role="button">
@@ -183,9 +183,6 @@ Gogol Bordello - Super Taranta! (2007-07-09)
 <li data-cover="https://img.discogs.com/J3QelBBCQzUMTyfU6BitSs6CaO8=/fit-in/320x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1523150-1283957985.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Black Kids - Wizard of Ahhhs (2007-08-11)
 </li>
-<li data-cover="https://img.discogs.com/Ekhpoc-K1J5POmMeD1yq68TTTCA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681569-1236768592.jpeg.jpg" data-tags="soul, vocal jazz, acid jazz, lounge, jazz fusion, funky, sun, post-jazz, indie jazz, soul vocal" role="button">
-SunSay - SunSay (2007-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/aea336b8-1c7f-3e9b-9d0b-bec2194f3419/28649007939-500.jpg" data-tags="indie, 00s, heavy rotation" role="button">
 The Go! Team - Proof of Youth (2007-09-10)
 </li>
@@ -207,7 +204,7 @@ Kelly Rowland - Work (2008-02-26)
 <li data-cover="https://img.discogs.com/JE48EDzF9aL5pN0N4zcrQ9eW7aE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4433334-1376410430-7315.jpeg.jpg" data-tags="post-punk" role="button">
 Nick Cave & The Bad Seeds - Dig, Lazarus, Dig!!! (2008-02-29)
 </li>
-<li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
+<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dance, funk, synthpop" role="button">
@@ -308,6 +305,9 @@ Matthew E. White - Big Inner (2012-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/051df6e9-2ffd-4d6c-85d8-bac27b0dd711/2932845844-500.jpg" data-tags="electronic, soul, alternative, experimental, funk, funky, must have" role="button">
 Łąki Łan - Armanda (2012-11-13)
+</li>
+<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
+The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f48c834-23b7-4e5c-a4f8-9f1cf9e45c33/5700304800-500.jpg" data-tags="jazz, epic, trumpet, jazz fusion, jazz funk, funky, world jazz, this album saved my life, fav albums of all time, the very embodiment of musical eclecticism and creativity" role="button">
 Ibrahim Maalouf - Illusions (2013-11-05)

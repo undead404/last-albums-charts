@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:30:01.434Z
+date: 2021-04-06T18:34:01.393Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -237,7 +237,7 @@ Jimmy Eat World - Chase This Light (2007-10-06)
 <li data-cover="http://coverartarchive.org/release/f71927b9-bfa3-4e6b-8d3e-38d8712ecb20/6195960547-500.jpg" data-tags="poppunk" role="button">
 We the Kings - We the Kings (2007-10-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
+<li data-cover="https://img.discogs.com/lNju4-4GTTVLQU-MEOp2glgPq8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2406287-1284085702.jpeg.jpg" data-tags="pop punk" role="button">
 The Maine - The Way We Talk (2007-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
@@ -288,6 +288,9 @@ Paramore - Brand New Eyes (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/24ff3bfc-19aa-4440-bd03-36df63b55a93/14793758946-500.jpg" data-tags="alternative rock, indie, indie rock" role="button">
+Say Anything - Say Anything (2009-11-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa345686-b9cf-47d4-9862-e37e9199c4e5/8250454850-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Believers Never Die - Greatest Hits (2009-11-17)
 </li>
@@ -296,9 +299,6 @@ Four Year Strong - Enemy of the World (2010-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/26db9427-8483-406c-9a19-a88579c70cd4/15128576400-500.jpg" data-tags="pop punk" role="button">
 You Me at Six - Hold Me Down (2010-01-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b1ef682-bbd9-4389-b1ae-90bc4b15f5cb/9773916022-500.jpg" data-tags="pop punk" role="button">
-Motion City Soundtrack - My Dinosaur Life (2010-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - What Separates Me from You (2010-11-16)

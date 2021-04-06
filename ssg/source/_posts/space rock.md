@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T07:01:06.713Z
+date: 2021-04-06T18:35:01.409Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -8,7 +8,7 @@ title: "space rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
-<li data-cover="https://img.discogs.com/4Djmacr_gYJXbp9DIg8TdOQnFww=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3399277-1566270410-5717.jpeg.jpg" data-tags="indie rock" role="button">Grandaddy - The Sophtware Slump (2000-05-08)</li>
+<li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">Grandaddy - The Sophtware Slump (2000-05-08)</li>
 <li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/e2e513ef-b507-4319-9cb1-0f8be3cd561e/4563170382-500.jpg" data-tags="alternative rock" role="button">Angels & Airwaves - We Don't Need to Whisper (2006-05-22)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="psychedelic rock, psychedelic" role="button">
+<li data-cover="https://img.discogs.com/N-POZvhiJDjoIAmJFs3zunAdVxc=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2436741-1448794563-6047.jpeg.jpg" data-tags="psychedelic rock, psychedelic" role="button">
 Pink Floyd - The Piper at the Gates of Dawn (1967-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
@@ -36,7 +36,7 @@ Hawkwind - Hawkwind (1970-08)
 <li data-cover="http://coverartarchive.org/release/7e964b19-62ce-4ab4-a67c-e183586560a9/9916032528-500.jpg" data-tags="krautrock" role="button">
 Ash Ra Tempel - Ash Ra Tempel (1971)
 </li>
-<li data-cover="https://img.discogs.com/lpAdjslazdKLH3LP74C0MNU8IHk=/fit-in/571x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413420-1499619823-2280.jpeg.jpg" data-tags="krautrock, space rock" role="button">
+<li data-cover="https://img.discogs.com/zk8XmG1nJYgY9y3FKEIFwBkkp8g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-541526-1348322724-7985.jpeg.jpg" data-tags="krautrock, space rock" role="button">
 Brainticket - Cottonwoodhill (1971-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/24dd5402-4f63-3648-bcd2-edcb91896d6c/14265700473-500.jpg" data-tags="psychedelic rock, psychedelic, pink floyd" role="button">
@@ -72,7 +72,7 @@ Spacemen 3 - The Perfect Prescription (1987)
 <li data-cover="http://coverartarchive.org/release/c5867117-a1ed-4b49-8278-da11638ac7d6/20343897065-500.jpg" data-tags="shoegaze, space rock" role="button">
 Loop - Heaven's End (1987-11)
 </li>
-<li data-cover="https://img.discogs.com/uPstLYEjXAOIXI9NSKE-J_D8JIg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542398-1257579125.jpeg.jpg" data-tags="neo-psychedelia, 80s, space rock" role="button">
+<li data-cover="https://img.discogs.com/zQWezKpHzaACC9A36QYud6FDIoo=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492996-1122755211.jpg.jpg" data-tags="neo-psychedelia, 80s, space rock" role="button">
 Spacemen 3 - Playing With Fire (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
@@ -129,9 +129,6 @@ The Verve - A Northern Soul (1995-07-03)
 <li data-cover="http://coverartarchive.org/release/d92fcf47-6e06-4e5f-b6c7-55bfe93b2c2f/13811062740-500.jpg" data-tags="90s, space rock, electronic rock" role="button">
 Babylon Zoo - The Boy With the X-Ray Eyes (1996)
 </li>
-<li data-cover="https://img.discogs.com/qjIJpWeXcRW6WATBzDzuNbfVmPE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4426176-1523097446-8851.jpeg.jpg" data-tags="psychedelic rock" role="button">
-Bardo Pond - Amanita (1996-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/ecef0212-b8c5-459f-8fd7-47f8c775a798/8886801506-500.jpg" data-tags="alternative rock, indie rock, space rock, rock, alternative, post-grunge" role="button">
 Failure - Fantastic Planet (1996-08-13)
 </li>
@@ -165,7 +162,7 @@ The Flaming Lips - The Soft Bulletin (1999-05-17)
 <li data-cover="http://coverartarchive.org/release/413e60c9-6de0-4a1c-a1fb-e37655bfc1d2/7022558425-500.jpg" data-tags="psychedelic" role="button">
 Boredoms - Vision Creation Newsun (1999-10-27)
 </li>
-<li data-cover="https://img.discogs.com/4Djmacr_gYJXbp9DIg8TdOQnFww=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3399277-1566270410-5717.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">
 Grandaddy - The Sophtware Slump (2000-05-08)
 </li>
 <li data-cover="https://img.discogs.com/o-VuGtQLwGU1wSkBcNilwsdTz5w=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6834426-1427614329-9558.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -174,7 +171,7 @@ Porcupine Tree - Voyage 34: The Complete Trip (2000-06-06)
 <li data-cover="http://coverartarchive.org/release/84f521a4-ee77-418f-8ee8-21dd6c5d97a8/7575440808-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
 Cave In - Jupiter (2000-08-08)
 </li>
-<li data-cover="https://img.discogs.com/W-jmnX8sMr1lYW6vz0uYY7TfLLE=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1326482-1209885169.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
 Mercury Rev - All Is Dream (2001-08-27)
 </li>
 <li data-cover="https://img.discogs.com/eywTsZh4E1zkFu4gpvcYDFvjoTk=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12676458-1539859593-7554.jpeg.jpg" data-tags="rock, 00s" role="button">
@@ -191,6 +188,9 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ef8d874-a2ed-4dc2-9262-cc66b0120818/15485269083-500.jpg" data-tags="psychedelia, space rock, neo-psychedelia, dream, tremolo radio" role="button">
 Spiritualized - The Complete Works Vol. 1 (2003-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
+Dead Meadow - Shivering King And Others (2003-06-03)
 </li>
 <li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
 Grandaddy - Sumday (2003-06-09)

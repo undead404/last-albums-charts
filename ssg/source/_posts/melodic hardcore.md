@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:38:01.534Z
+date: 2021-04-06T17:46:06.848Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -71,6 +71,9 @@ Pennywise - Land of the Free? (2001-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/60191e09-e44d-4773-81ce-4a00f1f72765/3331939378-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
 Strike Anywhere - Change Is A Sound (2001-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/da1c0df9-9771-47e5-9b7c-38cfe876e077/20636697554-500.jpg" data-tags="melodic hardcore" role="button">
+CPM 22 - Chegou A Hora De Recomeçar (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
 Underoath - The Changing of Times (2002-02-26)
@@ -167,9 +170,6 @@ Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad7487f1-fb31-4085-a954-3675dbcb4718/3376998660-500.jpg" data-tags="punk rock, pop punk, melodic hardcore" role="button">
-Lifetime - Lifetime (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1f8f3fb-a686-4945-9828-4ac22e756bce/3376080622-500.jpg" data-tags="hardcore" role="button">
 Comeback Kid - Broadcasting (2007-02-20)

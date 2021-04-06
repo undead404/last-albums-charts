@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:20:01.408Z
+date: 2021-04-06T18:07:01.392Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/YZX7t4Ix6JqNxJlqMRpFTi8lDVg=/fit-in/450x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15576050-1613367279-2968.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/X4dMCWyqeHLwcMRvRFnUzTfMTd4=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8246490-1457886416-5222.jpeg.jpg" data-tags="western, country" role="button">
+<li data-cover="https://img.discogs.com/EGOkGRsgmL_vDdsk47QKCe1RcUE=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17519131-1613914397-8183.jpeg.jpg" data-tags="western, country" role="button">
 Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8b551f6-e07a-4cc2-ac33-e35758d88796/19682269114-500.jpg" data-tags="country, female vocalists" role="button">
@@ -264,6 +264,9 @@ Carrie Underwood - Play On (2009-11-03)
 <li data-cover="http://coverartarchive.org/release/15657b2a-8635-37e1-981d-12ec8c852ca3/18264758290-500.jpg" data-tags="country" role="button">
 Johnny Cash - American VI: Ain't No Grave (2010-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b041e25-e0e9-480d-8f65-b7ac56ecf3d4/14666618913-500.jpg" data-tags="country" role="button">
+Lee Brice - Love Like Crazy (2010-06-08)
+</li>
 <li data-cover="https://img.discogs.com/n57UBeTOXTMdmtzPnYbayghIguI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2122525-1266174670.jpeg.jpg" data-tags="country" role="button">
 Lady Antebellum - Need You Now (2010-06-29)
 </li>
@@ -302,9 +305,6 @@ Carrie Underwood - Blown Away (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee5f108b-107c-4e4d-970b-f6d544801301/7445076901-500.jpg" data-tags="country, country rock" role="button">
 Zac Brown Band - Uncaged (2012-07-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
-Mumford & Sons - Babel (2012-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)

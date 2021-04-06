@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:55:01.453Z
+date: 2021-04-06T18:12:01.433Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -50,6 +50,9 @@ Pink Floyd - The Piper at the Gates of Dawn (1967-07-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic" role="button">
 Captain Beefheart & His Magic Band - Safe As Milk (1967-09)
+</li>
+<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
+The Doors - The Doors (1967-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/25e398a4-8a0a-4ab3-9d0d-128dc6106511/23069826567-500.jpg" data-tags="60s, art rock" role="button">
 Nico - Chelsea Girl (1967-10)
@@ -143,9 +146,6 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, the doors" role="button">
 The Doors - Greatest Hits (1980)
-</li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
-The Doors - The Doors (1991-02-25)
 </li>
 <li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)

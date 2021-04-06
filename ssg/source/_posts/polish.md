@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T14:20:01.299Z
+date: 2021-04-06T17:55:01.454Z
 title: "polish: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](http://coverartarchive.org/release/43342114-ec72-400c-a1ad-5c9580998361/4030501038-500.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -12,8 +12,8 @@ title: "polish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/43342114-ec72-400c-a1ad-5c9580998361/4030501038-500.jpg" data-tags="happysad, polish, rock" role="button">happysad - Wszystko jedno (2004-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/92455303-57a4-4fbf-9d00-f283392f6594/4707388100-500.jpg" data-tags="punk rock" role="button">Pidżama Porno - Bułgarskie centrum (2004-09-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="polish" role="button">Maria Peszek - Miasto Mania (2005-10-14)</li>
+<li data-cover="http://coverartarchive.org/release/a2b5d0a1-b5fe-4206-9780-5cdb54e93060/6357252031-500.jpg" data-tags="rock, alternative rock" role="button">Myslovitz - Happiness Is Easy (2006-05-19)</li>
 <li data-cover="https://img.discogs.com/KFzVsWj8FUJho9RA9oMVqv0Athc=/fit-in/594x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223761-1271074986.jpeg.jpg" data-tags="alternative rock, folk, polish" role="button">Czesław Śpiewa - POP (2010-04-12)</li>
-<li data-cover="http://coverartarchive.org/release/28ed3ff6-752c-479c-a142-5f3908e8f80d/14427406794-500.jpg" data-tags="indie, deep house, polish" role="button">XXANAXX - Triangles (2014-04-29)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="blues, blues rock, rock" role="button">
+<li data-cover="https://img.discogs.com/fM_Shxjk5x536rO29QAcuEk-Z1k=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3729455-1453664404-5443.jpeg.jpg" data-tags="blues, blues rock, rock" role="button">
 Dżem - Cegła (1985-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/eec9f8da-9bda-352f-93ea-35d4aeb1b924/12618949767-500.jpg" data-tags="new wave" role="button">
@@ -144,7 +144,7 @@ Pidżama Porno - Bułgarskie centrum (2004-09-20)
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Demigod (2004-11-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rap, hip-hop, polish, polski hip hop" role="button">
+<li data-cover="https://img.discogs.com/Oequ4GFRlKrC0XdPWf59qZbMm50=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2130412-1265672789.jpeg.jpg" data-tags="rap, hip-hop, polish, polski hip hop" role="button">
 O.S.T.R. - Jazzurekcja (2004-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8976e14-3f6d-4e74-9b52-33eec8bbd45d/7101908827-500.jpg" data-tags="polish" role="button">
@@ -188,6 +188,9 @@ Dubska - Avokado (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/e675808c-16ea-4bbc-9a73-fbbc6df7688b/4826405763-500.jpg" data-tags="pop, folk, polish, monica, brodka, moje piosenki" role="button">
 Brodka - Moje piosenki (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2b5d0a1-b5fe-4206-9780-5cdb54e93060/6357252031-500.jpg" data-tags="rock, alternative rock" role="button">
+Myslovitz - Happiness Is Easy (2006-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a35ddd59-8fbd-4b38-add9-7db6a8010a80/16403358211-500.jpg" data-tags="rock" role="button">
 Coma - Zaprzepaszczone siły wielkiej armii świętych znaków (2006-05-29)
@@ -273,10 +276,7 @@ Ania - Ania Movie (2010-04-02)
 <li data-cover="https://img.discogs.com/KFzVsWj8FUJho9RA9oMVqv0Athc=/fit-in/594x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223761-1271074986.jpeg.jpg" data-tags="alternative rock, folk, polish" role="button">
 Czesław Śpiewa - POP (2010-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/8afbbf3f-39b0-4a5e-a1ba-6aeb77dbb82a/2790682576-500.jpg" data-tags="polish, fisz" role="button">
-Kim Nowak - Kim Nowak (2010-05-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
+<li data-cover="https://img.discogs.com/B_myDAaZe2IV_hWhJ4BJZtnRuyQ=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2668637-1295789080.jpeg.jpg" data-tags="hardcore" role="button">
 The Throne - fig.2 (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/91b37789-68e5-4ea0-924a-ff95b8be5fd4/7326241081-500.jpg" data-tags="rap, polish" role="button">

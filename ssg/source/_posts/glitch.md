@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:42:01.416Z
+date: 2021-04-06T17:51:01.410Z
 title: "glitch: 100 albums you must listen to before you die"
 ---
 ![The Glitch Mob - Drink the Sea (2010-05-25)](http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg "The Glitch Mob - Drink the Sea (2010-05-25)")
@@ -42,7 +42,7 @@ Vladislav Delay - Multila (2000-02-18)
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6e0508a-98ee-4b11-86e3-951d8ef77480/19860844363-500.jpg" data-tags="electronica, experimental, minimal, glitch, basic channel, listen, luomo, uusitalo, vladislav delay, nice nait, swayzak, moje nice, vladel" role="button">
+<li data-cover="http://coverartarchive.org/release/d6e0508a-98ee-4b11-86e3-951d8ef77480/19860844363-500.jpg" data-tags="electronica, experimental, minimal, glitch, basic channel, luomo, uusitalo, vladislav delay, nice nait, swayzak, moje nice, vladel" role="button">
 Uusitalo - Vapaa muurari (2000-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a0f094c-d000-4b5c-be75-9b21b239f500/4855545791-500.jpg" data-tags="electronic, ambient, japanese, experimental, glitch" role="button">
@@ -84,6 +84,9 @@ Fennesz - Venice (2004-03)
 <li data-cover="http://coverartarchive.org/release/d38a0e2e-cf35-47ad-85ae-a87c4f321d3b/13298022685-500.jpg" data-tags="idm, glitch" role="button">
 edIT - Crying Over Pros for No Reason (2004-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/65b49750-f298-4167-a5d0-68cdb6a043d8/2580368338-500.jpg" data-tags="glitch" role="button">
+Venetian Snares - Huge Chrome Cylinder Box Unfolding (2004-06-11)
+</li>
 <li data-cover="https://img.discogs.com/xh711CJOlWSPk9O-Jju1XAL98qs=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467110-1117802145.jpg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
 </li>
@@ -101,9 +104,6 @@ The Flashbulb - Kirlian Selections (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/02db3e35-5816-415e-aa09-1f9c2f348269/6348375283-500.jpg" data-tags="indie, alternative, experimental, strange, glitch, hand claps, tropical, otherworldly, arty, alienation, whos got the clap, glitch opera, skittish, eastern tonality, intentional skipping, testing 1-2-3" role="button">
 Dirty Projectors - The Getty Address (2005-04-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/c88b62ac-0033-473f-a410-eca33c76d67d/19860870110-500.jpg" data-tags="ambient, glitch" role="button">
-Vladislav Delay - The Four Quarters (2005-09)
 </li>
 <li data-cover="https://img.discogs.com/n6RxQIreY_P_N3D2pi38CmQNLmU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15454907-1591804356-3077.jpeg.jpg" data-tags="warp, idm, glitch" role="button">
 Jackson and His Computer Band - Smash (2005-09-19)
@@ -126,7 +126,7 @@ KASHIWA Daisuke - Program Music I (2007-08-24)
 <li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">
 Modeselektor - Happy Birthday! (2007-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/c70c8b80-7d09-4825-a65f-0d7e51f04507/3281018006-500.jpg" data-tags="idm, glitch, glitch-hop" role="button">
+<li data-cover="https://img.discogs.com/0K-Ue2JeXzf-LqRsZPa_BAUP3RM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477127-1119370842.jpg.jpg" data-tags="idm, glitch, glitch-hop" role="button">
 edIT - Certified Air Raid Material (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd554851-acbd-31c8-8bf1-61a297e55fb7/3653298333-500.jpg" data-tags="idm" role="button">
@@ -219,7 +219,7 @@ Pretty Lights - Spilling Over Every Side (2010-07-29)
 <li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
 Gold Panda - Lucky Shiner (2010-09-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
+<li data-cover="https://img.discogs.com/egaaPeRB9-npRc_5YD_ZhkGIp0E=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455773-1388689574-3577.jpeg.jpg" data-tags="dubstep" role="button">
 Beats Antique - Blind Threshold (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/950b3c72-e447-4b73-968a-a42fb4cd2aa1/3410361482-500.jpg" data-tags="glitch, downtempo" role="button">
