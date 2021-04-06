@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:44:01.509Z
+date: 2021-04-06T07:26:01.562Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -129,9 +129,6 @@ Band of Horses - Everything All the Time (2006-03-21)
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
-Regina Spektor - Begin to Hope (2006-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/3c7f5b38-1f43-417e-bf31-75dd238a7516/10669073258-500.jpg" data-tags="indie rock, indie" role="button">
 TV on the Radio - Return To Cookie Mountain (2006-07-03)
 </li>
@@ -173,9 +170,6 @@ Editors - An End Has A Start (2007-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bce96cc-8d4f-38f3-97d5-decb81ab7119/14968666106-500.jpg" data-tags="indie rock" role="button">
 The National - Boxer (2007-05-21)
@@ -267,6 +261,9 @@ Deerhunter - Halcyon Digest (2010-09-22)
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/358818df-ed4e-43b9-8f34-dcd513934d50/6626320723-500.jpg" data-tags="indie rock, alternative rock" role="button">
+Young the Giant - Young the Giant (2010-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
@@ -284,6 +281,9 @@ Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
+The Shins - Port of Morrow (2012-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)

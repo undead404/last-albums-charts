@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:15:01.309Z
+date: 2021-04-06T07:36:01.445Z
 title: "avant-garde metal: 100 albums you must listen to before you die"
 ---
 ![Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2006-08-17)](http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-500.jpg "Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3d664bf1-22f3-4651-b4b1-83521ed4145d/14898575688-500.jpg" data-tags="thrash metal, avant-garde metal" role="button">
 Celtic Frost - Into The Pandemonium (1987-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/f860914b-82a5-39c1-a63b-7e1a77b58d53/15829726302-500.jpg" data-tags="industrial metal, industrial" role="button">
+Godflesh - Godflesh (1988)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
 Mr. Bungle - Mr. Bungle (1991-08-13)
@@ -57,7 +60,7 @@ Arcturus - La Masquerade Infernale (1997-10-27)
 <li data-cover="http://coverartarchive.org/release/50b9a8dc-fb9b-4872-839d-44ce9ec5a978/25640443565-500.jpg" data-tags="black metal, progressive metal, avant-garde metal" role="button">
 Sigh - Hail Horror Hail (1997-12)
 </li>
-<li data-cover="https://img.discogs.com/_EXEd879PXcNdjYtdllk7zctlcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3755131-1468966762-1443.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/1dLwgWdsGCizmX_h-ORJEJZLDJU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4622724-1370221867-8825.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Gorguts - Obscura (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b33c05d-62f7-4a42-9e1e-155499ba9534/14113644758-500.jpg" data-tags="black metal, melodic black metal" role="button">
@@ -183,9 +186,6 @@ Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal, experimental" role="button">
 Unexpect - In A Flesh Aquarium (2006-08-22)
 </li>
-<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
-Katy Perry - Ur So Gay (2007-01-15)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave, avant-garde metal" role="button">
 Professor Fate - The Inferno (2007-03)
 </li>
@@ -279,7 +279,7 @@ Avatar - Black Waltz (2012-01-23)
 <li data-cover="http://coverartarchive.org/release/0a4f291c-49a1-4fae-be85-1358b76af9ce/6766463757-500.jpg" data-tags="black metal, progressive metal, avant-garde metal" role="button">
 Sigh - In Somniphobia (2012-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/b46b9b39-7d56-4e00-ba33-d8bf8fc59889/3235678346-500.jpg" data-tags="progressive metal, 2012" role="button">
+<li data-cover="http://coverartarchive.org/release/b46b9b39-7d56-4e00-ba33-d8bf8fc59889/3235678346-500.jpg" data-tags="progressive metal" role="button">
 Meshuggah - Koloss (2012-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bffe6c4-5f7f-42f6-b0af-4014cee6fa18/7957344650-500.jpg" data-tags="avant-garde metal, progressive metal" role="button">

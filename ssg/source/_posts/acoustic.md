@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T02:31:06.853Z
+date: 2021-04-06T07:38:01.494Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/I5gfsIdYLJe5feIIUrJhjDfL3D4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3601686-1381225977-7375.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/oTROP7ENuO6MR-lunRvDA3YRu1U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383008-1240998303.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Five Leaves Left (1969-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
@@ -117,10 +117,13 @@ José González - Veneer (2003-10)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="http://coverartarchive.org/release/db367585-903f-4e9b-94f9-02093795dc2f/14971932845-500.jpg" data-tags="acoustic" role="button">
+Godsmack - The Other Side (2004-03-16)
+</li>
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
@@ -165,7 +168,7 @@ Jack Johnson - Sing-A-Longs and Lullabies For The Film Curious George (2006-02-0
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
 Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
 </li>
-<li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
+<li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">
@@ -188,9 +191,6 @@ Joshua Radin - We Were Here (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/84d537c0-bc24-43dc-ba55-377c25e9c17a/15824345226-500.jpg" data-tags="indie, acoustic" role="button">
 Sufjan Stevens - The Avalanche (2006-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)

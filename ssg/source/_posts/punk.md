@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T22:33:01.386Z
+date: 2021-04-06T07:34:02.502Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">The Clash - London Calling (1979-12-14)</li>
 <li data-cover="https://img.discogs.com/FQAFxI3rrJZOiQQ1c37mdpHVy_Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8984704-1472761513-5434.jpeg.jpg" data-tags="punk rock, punk" role="button">Green Day - Dookie (1994-01-28)</li>
-<li data-cover="https://img.discogs.com/Ed6zur6V7QL3cQwSuhTSu7dIbiY=/fit-in/189x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596818-1448916413-5494.jpeg.jpg" data-tags="punk rock" role="button">The Offspring - Americana (1998-11-16)</li>
+<li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">The Offspring - Americana (1998-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">Sum 41 - All Killer No Filler (2001-05-08)</li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">AFI - Sing the Sorrow (2003-03-10)</li>
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">Yellowcard - Ocean Avenue (2003-07-22)</li>
@@ -60,9 +60,6 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 <li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
-<li data-cover="https://img.discogs.com/eBfyVHFymkgNMNzLX9SCfbbkcGk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703430-1518836224-8197.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
-Bad Brains - Bad Brains (1982)
-</li>
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
 The Clash - Combat Rock (1982-05-14)
 </li>
@@ -78,9 +75,6 @@ Fugazi - 13 Songs (1989-09)
 <li data-cover="http://coverartarchive.org/release/c2dab6ed-1a4e-49a6-9abc-6be95c03dbda/4804372334-500.jpg" data-tags="punk, punk rock" role="button">
 Social Distortion - Social Distortion (1990-03-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
-Sublime - 40 Oz. to Freedom (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/da173a7b-ba7a-4958-86d4-70d229217cd9/21926789326-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ignition (1992-10-16)
 </li>
@@ -90,14 +84,11 @@ Green Day - Dookie (1994-01-28)
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
-<li data-cover="https://img.discogs.com/VMlw4etb_MKW7fx8nWrleVNRzTE=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6772967-1426336219-8764.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/G10f0vfWTuqHmrI8mBKghB3JA0E=/fit-in/400x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750928-1401639124-9520.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Smash (1994-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7167fb50-0fc1-3735-82bd-83b5069e77c4/4801784404-500.jpg" data-tags="punk, punk rock" role="button">
 NOFX - Punk in Drublic (1994-07-19)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
-Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/20b3efeb-255a-3fde-8275-401bcf506489/3947787054-500.jpg" data-tags="punk" role="button">
 Rancid - ...And Out Come the Wolves (1995-08-21)
@@ -120,7 +111,7 @@ Misfits - Static Age (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
 </li>
-<li data-cover="https://img.discogs.com/Ed6zur6V7QL3cQwSuhTSu7dIbiY=/fit-in/189x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596818-1448916413-5494.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg" data-tags="horror punk, punk" role="button">
@@ -138,7 +129,7 @@ Green Day - Warning (2000-03-21)
 <li data-cover="https://img.discogs.com/ynkIV5e6ooV3FxRjhI-w29dTG3Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492672-1443803935-1654.png.jpg" data-tags="punk" role="button">
 AFI - The Art of Drowning (2000-09-25)
 </li>
-<li data-cover="https://img.discogs.com/LVxcuYsqdyqSVLvYpfkRq5cg1dQ=/fit-in/552x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-373635-1420148961-7286.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/DzSRpfWcAvx-iUK79RT6gwicSsM=/fit-in/408x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5539456-1395998068-8223.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Conspiracy of One (2000-11-01)
 </li>
 <li data-cover="https://img.discogs.com/v_WfhAU5pMNSSipcIC_cP8m8yho=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472525-1255362291.jpeg.jpg" data-tags="punk rock, melodic hardcore, punk" role="button">
@@ -171,6 +162,9 @@ The Used - The Used (2002-06-25)
 <li data-cover="http://coverartarchive.org/release/29911ee4-301b-4192-924e-24db9e973227/15248581026-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Does This Look Infected? (2002-11-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
+The Ataris - So Long, Astoria (2003-02-03)
+</li>
 <li data-cover="https://img.discogs.com/DmrGqQLFUrLoC-xhHEnLUml8Ldk=/fit-in/600x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2811694-1604423801-9427.jpeg.jpg" data-tags="punk rock, punk, alternative rock" role="button">
 AFI - Sing the Sorrow (2003-03-10)
 </li>
@@ -182,6 +176,9 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d09eb97a-d4d9-4aec-ac81-524f4ee1c09d/6140037439-500.jpg" data-tags="punk rock" role="button">
+Alkaline Trio - Good Mourning (2003-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/41c645e2-dc4d-3a56-ac30-1d1e55946c62/4773391073-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - Blackout (2003-06-10)
@@ -201,7 +198,7 @@ The Distillers - Coral Fang (2003-10-13)
 <li data-cover="http://coverartarchive.org/release/a216cc04-6983-4962-9e5b-c1c1674895f7/12671876579-500.jpg" data-tags="punk" role="button">
 Against Me! - As the Eternal Cowboy (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/VMlw4etb_MKW7fx8nWrleVNRzTE=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6772967-1426336219-8764.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/bqkKb5NmWkom_PixHUISylq1FC8=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5568581-1396792201-1770.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Splinter (2003-11-27)
 </li>
 <li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
@@ -239,6 +236,9 @@ Sum 41 - Chuck (2004-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
 Simple Plan - Still Not Getting Any (2004-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6bda500-eac7-40c8-ab38-4a88a34da3e0/20975852434-500.jpg" data-tags="punk" role="button">
+Green Day - Holiday (2005-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
@@ -294,7 +294,7 @@ Sum 41 - Underclass Hero (2007-07-18)
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/5hPv59RCy9mW9A2VqdCv_0Q-sMo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7761668-1448227472-3546.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Rise and Fall, Rage and Grace (2008-06-11)
 </li>
 <li data-cover="https://img.discogs.com/SyB2V5tRP58VnZy7Jv88JpwbCpQ=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677269-1583376530-7454.jpeg.jpg" data-tags="indie rock" role="button">

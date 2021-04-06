@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:12:01.346Z
+date: 2021-04-06T07:23:02.712Z
 title: "aggressive: 100 albums you must listen to before you die"
 ---
 ![Kanye West - Yeezus (2013-06-18)](http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg "Kanye West - Yeezus (2013-06-18)")
@@ -66,7 +66,7 @@ Descendents - All (1987-06)
 <li data-cover="http://coverartarchive.org/release/a93c3163-90af-44cf-82bf-deacfdad55b6/18142550474-500.jpg" data-tags="indie rock, garage rock revival, searching, garage rock, intense, aggressive, menacing, confrontational, garage, yearning, garage punk, punk blues, spring, bitter, brooding, happiness, harsh, bleak, cathartic, volatile, visceral, urgent, angst-ridden, brash, destiny, victory, starting out, pogge" role="button">
 Dead Moon - In the Graveyard (1988)
 </li>
-<li data-cover="https://img.discogs.com/WTFOmD885u-4nCG6bZMtFvDffmk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5162555-1443447164-6324.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
+<li data-cover="https://img.discogs.com/FKTGAQvwr4FJf0yvNyk0VOsbtX8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-808145-1357517035-3919.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
 L.A. Guns - L.A. Guns (1988-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
@@ -92,6 +92,9 @@ Helmet - Meantime (1992-06-23)
 </li>
 <li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
 The Jesus Lizard - Liar (1992-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/e54f5104-4087-478a-85af-77033fbdbe7e/8306558791-500.jpg" data-tags="comedy" role="button">
+Denis Leary - No Cure For Cancer (1993-01-12)
 </li>
 <li data-cover="https://img.discogs.com/BpORMXrTrP0_prtni1QOBOQl8zk=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423146-1237613420.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
 Dinosaur Jr. - Where You Been (1993-02-09)
@@ -269,9 +272,6 @@ The Walkmen - Lisbon (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, volatile, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">
 Superchunk - Majesty Shredding (2010-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e2946e1-a9a5-44be-8308-c8486726f2ab/21158108480-500.jpg" data-tags="fuck me daddy" role="button">
-Kid Rock - Born Free (2010-11-15)
 </li>
 <li data-cover="https://img.discogs.com/mATVZH7mUI6F402DQkW0zJMvNKs=/fit-in/288x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2906361-1306648453.jpeg.jpg" data-tags="indie rock, energetic, passionate, intense, aggressive, earnest, raucous, earthy, fun, strong, drinking, garage punk, playful, partying, exuberant, campy, volatile, swaggering, lively, ramshackle, plaintive, brash, rambunctious, need, gleeful, mischief" role="button">
 Those Darlins - Screws Get Loose (2011-03-09)

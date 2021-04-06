@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T01:58:01.343Z
+date: 2021-04-06T07:30:01.451Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -62,6 +62,9 @@ AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
 Silverstein - When Broken Is Easily Fixed (2003-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
+Thrice - The Artist In The Ambulance (2003-07-22)
 </li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)
@@ -231,9 +234,6 @@ Silverstein - Arrivals & Departures (2007-07-03)
 <li data-cover="http://coverartarchive.org/release/1ea46d2e-a7a3-4199-8f71-9897b4ef06e5/26813472714-500.jpg" data-tags="screamo, post-hardcore" role="button">
 Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">
-Chiodos - Bone Palace Ballet (2007-09-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/b4b4ed17-323e-4104-a850-d0fab83a6c6f/1631198569-500.jpg" data-tags="emocore" role="button">
 Taking Back Sunday - Notes From The Past (2007-10-30)
 </li>
@@ -312,7 +312,7 @@ Pierce The Veil - Collide With the Sky (2012-07-17)
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
 </li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
+<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">

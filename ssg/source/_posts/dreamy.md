@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:58:06.886Z
+date: 2021-04-06T07:31:01.384Z
 title: "dreamy: 100 albums you must listen to before you die"
 ---
 ![Little Dragon - Ritual Union (2011-05-13)](https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg "Little Dragon - Ritual Union (2011-05-13)")
@@ -48,10 +48,10 @@ Stereolab - Dots and Loops (1997-09-22)
 <li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/hjR-SntUXesfMsJl8QZ9hC2jUlM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3193896-1579926468-6100.jpeg.jpg" data-tags="dream pop" role="button">
 Mercury Rev - Deserter's Songs (1998-09-19)
 </li>
-<li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
+<li data-cover="https://img.discogs.com/Wb2clSHhJ4_ZOv69eP7kTPBiBOw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3194-1145339641.jpeg.jpg" data-tags="electronica, warp" role="button">
 Broadcast - The Noise Made by People (2000-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1aa80e1-659b-4d0f-9c76-1589a535567c/15393777768-500.jpg" data-tags="female vocalists" role="button">
@@ -90,8 +90,11 @@ The Raveonettes - Pretty in Black (2005-05-03)
 <li data-cover="https://img.discogs.com/63_F7EW19GYUj130dTT_4h1HPYo=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-677963-1146663712.jpeg.jpg" data-tags="indie, indie pop, singer-songwriter, dreamy, searching, reflective, literate, earnest, dramatic, bittersweet, reflection, intimate, cerebral, detached, 2000s, gin, stylish, plaintive, the creative side, austere, radio 2005, refined - mannered, vinyl collection, good album, dans ma discotheque, should buy, recent favorite albums, girlygil altrock, second-favorite album, albums acquired in 2011" role="button">
 John Vanderslice - Pixel Revolt (2005-08-15)
 </li>
-<li data-cover="https://img.discogs.com/BLDys9EW5ZBJTLCPLsVhqGWNTWA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1823932-1245786549.jpeg.jpg" data-tags="indie, indie rock" role="button">
+<li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
+Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
@@ -146,9 +149,6 @@ Air France - No Way Down (2008-06-23)
 </li>
 <li data-cover="https://img.discogs.com/nNLW6oyibILj-etyre1Ws6Qf9HY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1568374-1229053540.jpeg.jpg" data-tags="alternative, indie rock" role="button">
 Ra Ra Riot - The Rhumb Line (2008-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
-Glasvegas - Glasvegas (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
 Chairlift - Does You Inspire You (2008-09-30)

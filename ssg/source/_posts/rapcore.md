@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:20:01.394Z
+date: 2021-04-06T07:33:07.897Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -27,7 +27,7 @@ Biohazard - Urban Discipline (1992)
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
-<li data-cover="https://img.discogs.com/LPiIGgaGvTmI7NSGQDkeyUXpCL0=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640504-1142166563.jpeg.jpg" data-tags="crossover, rap metal" role="button">
+<li data-cover="https://img.discogs.com/DJMNsVbbAmqpb2pyttl8st3xo70=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369994-1362438913-5417.jpeg.jpg" data-tags="crossover, rap metal" role="button">
 Clawfinger - Deaf Dumb Blind (1993-04-21)
 </li>
 <li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">
@@ -42,6 +42,9 @@ P.O.D. - Snuff the Punk (1994-01-25)
 <li data-cover="http://coverartarchive.org/release/4592d54c-c3d4-4128-81b3-9acc1377d35a/10430050533-500.jpg" data-tags="rapcore" role="button">
 Dog Eat Dog - All Boro Kings (1994-05-24)
 </li>
+<li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">
+Clawfinger - Use Your Brain (1995-03-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/ff040c58-bc69-4fc6-a6b1-34da0d16dd0e/7231670487-500.jpg" data-tags="crossover, rapcore, nu metal, rap metal, litza" role="button">
 Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
 </li>
@@ -51,7 +54,7 @@ Cypress Hill - III - Temples Of Boom (1995-10-30)
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
-<li data-cover="https://img.discogs.com/tOZgjs__kTawPBj0_vYIb8vvrTg=/fit-in/498x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573265-1140881062.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
+<li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aa940e5-6128-4ed1-9d89-86458a1b5ec6/8008267577-500.jpg" data-tags="punk, alternative metal" role="button">
@@ -93,14 +96,11 @@ Molotov - Apocalypshit (1999-09-01)
 <li data-cover="http://coverartarchive.org/release/9cc4a6cf-e830-4971-abe9-1af4f17061e3/9628896082-500.jpg" data-tags="rock, alternative, alternative rock" role="button">
 Bloodhound Gang - Hooray for Boobies (1999-10-04)
 </li>
-<li data-cover="https://img.discogs.com/ewL98j0yttnWlaGVXHdIDgNys78=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-807244-1600935554-2368.jpeg.jpg" data-tags="rapcore" role="button">
+<li data-cover="https://img.discogs.com/00JxH-GC78GMdkj_qkb47ZwJ3OE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420449-1364407920-8248.jpeg.jpg" data-tags="rapcore" role="button">
 Crazy Town - The Gift of Game (1999-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/98a300a4-a705-4716-8630-27713f443017/14485832908-500.jpg" data-tags="rap-metal" role="button">
 Methods Of Mayhem - Methods Of Mayhem (1999-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/514c96f1-f9fd-437f-bb9d-c8f7e066338d/1644108090-500.jpg" data-tags="reggae, rapcore, tihuana" role="button">
-Tihuana - Ilegal (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab8dadc1-9c12-4649-992a-64cad3c3b30e/27436513350-500.jpg" data-tags="crossover, rapcore" role="button">
 Primer 55 - Introduction To Mayhem (2000-01-25)
@@ -119,9 +119,6 @@ Crazy Town - Butterfly (2000-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/db66e6ec-b295-4f64-bd96-9311186d0df0/5571534834-500.jpg" data-tags="pop punk, punk rock, rapcore" role="button">
 Zebrahead - Playmate of the Year (2000-08-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e248a9d-0170-3794-a978-f4c7af69f2cf/15248751850-500.jpg" data-tags="alternative" role="button">
-OPM - Menace To Sobriety (2000-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)
@@ -171,7 +168,7 @@ Guano Apes - Walking on a Thin Line (2003-02-03)
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rapcore" role="button">
+<li data-cover="https://img.discogs.com/TmQbV913FVbIEhOfGX5fJDdJLhY=/fit-in/300x306/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6560574-1422026632-2911.jpeg.jpg" data-tags="rapcore" role="button">
 Tribal Ink - Surrounded By Freaks (2003-03-26)
 </li>
 <li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
@@ -200,9 +197,6 @@ Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
 </li>
 <li data-cover="https://img.discogs.com/Qdu-fTfhHNWPsvMCia2uNmTX-YA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15081361-1597612494-9801.jpeg.jpg" data-tags="pop punk, rapcore" role="button">
 Zebrahead - Waste of MFZB (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7968320-e985-48b1-8424-64dccccf1503/5157859126-500.jpg" data-tags="hip hop" role="button">
-Cypress Hill - Till Death Do Us Part (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/nEiPjnWWHbgDBoEG-dLKMaCsprY=/fit-in/475x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765131-1156726876.jpeg.jpg" data-tags="alternative metal, nu metal, hard rock" role="button">
 Flaw - Endangered Species (2004-05-04)
@@ -245,6 +239,9 @@ Saliva - Blood Stained Love Story (2007-01-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1b2a42d-bf7a-3675-bdd4-87bec88019de/10920904348-500.jpg" data-tags="industrial metal, rapcore" role="button">
 Clawfinger - Life Will Kill You (2007-07-27)
+</li>
+<li data-cover="https://img.discogs.com/7eg3JKB0uiyCJBmK1Iow2nnWjZc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4061379-1353946167-4335.jpeg.jpg" data-tags="rock" role="button">
+H-Blockx - Open Letter To A Friend (2007-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/94006a09-b053-4591-af5a-1b98c5223af2/2924087406-500.jpg" data-tags="rap" role="button">
 Tech N9ne - Killer (2008-07-01)
@@ -308,6 +305,9 @@ Noize MC - Новый альбом (2012-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/545d64b7-ea63-4de4-a36b-1cfae8a04c1c/1438400323-500.jpg" data-tags="nu metal" role="button">
+P.O.D. - Murdered Love (2012-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df96417-e066-4b6c-b436-e44508fa40c4/22299675586-500.jpg" data-tags="alternative rock" role="button">
 Papa Roach - The Connection (2012-10-01)
