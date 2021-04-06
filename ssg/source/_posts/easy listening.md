@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:06:01.351Z
+date: 2021-04-06T05:42:01.363Z
 title: "easy listening: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -87,9 +87,6 @@ Dan Fogelberg - Greatest Hits (1982)
 <li data-cover="http://coverartarchive.org/release/5edf49b6-8364-42b2-ae25-611004289403/26886953373-500.jpg" data-tags="80s, yacht rock, wb recording" role="button">
 Michael McDonald - If That's What It Takes (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
-Billy Joel - An Innocent Man (1983-08-08)
-</li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
@@ -135,11 +132,8 @@ Jim O'Rourke - Bad Timing (1997-08-25)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/30ffc65a-6680-3956-bddb-1c4cd057a260/21207879625-500.jpg" data-tags="carpenters" role="button">
-Carpenters - Love Songs (1997-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca729161-a44c-4c95-b6d1-599c8d244f1f/17456959732-500.jpg" data-tags="oldies" role="button">
 Andy Williams - The Very Best of Andy Williams (1999)
@@ -204,6 +198,9 @@ Barefoot Truth - Changes in the Weather (2005-06)
 <li data-cover="http://coverartarchive.org/release/a927bd04-5be9-4f27-b780-57b1278aa94f/15755910553-500.jpg" data-tags="real rnb" role="button">
 Charlie Wilson - Charlie, Last Name Wilson (2005-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
+Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)
 </li>
@@ -237,7 +234,7 @@ Eisley - Combinations (2007-08-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, easy listening, soft rock, keller like" role="button">
 Barefoot Truth - Walk Softly (2007-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/bcb103ed-1dc1-4679-ad43-ea23b77a2264/7081619659-500.jpg" data-tags="classical, singer-songwriter, easy listening, folktronica, lost, misc, richard, bananas, bats, miscellaneous, all, alt, rich, shady, special, must-listen, baroque folk, grady, zap, partial, dick, xian, missionary, shady grady, finis, deek, kolob, planet kolob, deek deek, deek deek deek, finis dake, ploppy, hie to kolob, this is something you can listen to, missionaries, sometimes auditory, jibby, finis jennings dake" role="button">
+<li data-cover="http://coverartarchive.org/release/bcb103ed-1dc1-4679-ad43-ea23b77a2264/7081619659-500.jpg" data-tags="classical, singer-songwriter, easy listening, folktronica, lost, misc, richard, bananas, bats, miscellaneous, alt, rich, shady, special, must-listen, baroque folk, grady, zap, partial, dick, xian, missionary, shady grady, finis, deek, kolob, planet kolob, deek deek, deek deek deek, finis dake, ploppy, hie to kolob, this is something you can listen to, missionaries, sometimes auditory, jibby, finis jennings dake" role="button">
 Emily Wells - The Symphonies: Dreams Memories & Parties (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb6113e8-a324-455c-b428-f5ed5bb5544a/13180765072-500.jpg" data-tags="never forget" role="button">
@@ -302,6 +299,9 @@ Dead Can Dance - Anastasis (2012-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
+Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)

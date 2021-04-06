@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T00:44:01.355Z
+date: 2021-04-06T05:41:01.482Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -56,9 +56,6 @@ Jewel - Pieces of You (1994)
 </li>
 <li data-cover="https://img.discogs.com/A0hMPwgAEFnq8ZyMLIxdAwQg-JA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319978-1580194098-1708.jpeg.jpg" data-tags="90s, heather nova" role="button">
 Heather Nova - Oyster (1994-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/7bce126e-92a6-3e36-8777-baa8f2c296d3/8615407273-500.jpg" data-tags="folk" role="button">
-Tracy Chapman - New Beginning (1995-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/16b92612-7634-4053-8464-b1b0e18847f2/5641031475-500.jpg" data-tags="female" role="button">
 Dar Williams - Mortal City (1996)
@@ -278,6 +275,9 @@ Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2b9813-5cc3-4408-b222-2a3f5b0768f6/4081358348-500.jpg" data-tags="british, folk" role="button">
 Birdy - Birdy (2011-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
+Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)

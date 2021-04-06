@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:36:01.418Z
+date: 2021-04-06T05:20:01.510Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -35,9 +35,6 @@ TLC - CrazySexyCool (1994-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc4ae0a1-b3f9-4e40-aec5-22c937e935f1/6412412220-500.jpg" data-tags="pop" role="button">
 Mariah Carey - Daydream (1995-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
-Toni Braxton - Secrets (1996-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca0f7485-b03e-4be5-afda-3e587e062efb/3938634835-500.jpg" data-tags="pop, rnb" role="button">
 Mariah Carey - Butterfly (1997)
@@ -81,13 +78,16 @@ Destiny's Child - Survivor (2001-04-25)
 <li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
 Alicia Keys - Songs in A Minor (2001-06-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
+Usher - 8701 (2001-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/055b91e9-9d5f-4cf6-a6f1-75d9956a1f50/17315382405-500.jpg" data-tags="rnb" role="button">
 Aaliyah - Aaliyah (2001-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b9a30a1-9a94-49dd-a004-a7ee5c38126b/16759780312-500.jpg" data-tags="rap, nelly" role="button">
 Nelly - Nellyville (2002-06-24)
 </li>
-<li data-cover="https://img.discogs.com/qxgwFHl0e4SNcLNsz6pLjL1g1no=/fit-in/500x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5551829-1396331428-5028.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/YQMw_efcU3ZprKX5aaBYiNZwdAw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1489732-1568269324-8805.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/912b3373-5da4-4386-817a-38ba4d3865aa/4657231218-500.jpg" data-tags="rap, rnb, hip hop, akon" role="button">
@@ -113,6 +113,9 @@ Usher - Confessions (2004-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
 JoJo - JoJo (2004-06-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
+Mario - Turning Point (2004-08-06)
 </li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)
@@ -141,8 +144,8 @@ The Pussycat Dolls - PCD (2005-09-12)
 <li data-cover="http://coverartarchive.org/release/177fcfee-525a-46c6-9c58-d6a82cf9cc8d/14885026677-500.jpg" data-tags="rnb" role="button">
 Destiny's Child - #1's (2005-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a6d6b9b-02f8-413c-a672-9bbe535b36d8/14936523706-500.jpg" data-tags="rnb, hip-hop" role="button">
-Mattafix - Signs of a Struggle (2005-10-30)
+<li data-cover="http://coverartarchive.org/release/7ae25feb-39ca-484b-80c0-ad8fe871b0ce/2980605648-500.jpg" data-tags="rnb, chris brown" role="button">
+Chris Brown - Chris Brown (2005-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ce13bf4-cc67-4afe-8b3d-0c37158389e9/21658474332-500.jpg" data-tags="rnb" role="button">
 Mary J. Blige - The Breakthrough (2005-12-09)
@@ -156,9 +159,6 @@ Rihanna - A Girl Like Me (2006-04-19)
 <li data-cover="http://coverartarchive.org/release/bc8e84c6-c841-321c-ba2a-3dec63126872/17919825722-500.jpg" data-tags="pop" role="button">
 Nelly Furtado - Loose (2006-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/74832c40-66da-4efa-acec-871e0a72aae2/3946571235-500.jpg" data-tags="pop" role="button">
-Fergie - The Dutchess (2006-06-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
@@ -171,6 +171,12 @@ John Legend - Once Again (2006-10-21)
 <li data-cover="http://coverartarchive.org/release/0b0ca6cc-f793-3dd8-9329-611a9fb08ae2/6136527070-500.jpg" data-tags="soul" role="button">
 Amy Winehouse - Back to Black (2006-10-30)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
+Lloyd - Street Love (2007-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/13296bd3-44e7-4a11-9032-4ef8f226c13a/3789938355-500.jpg" data-tags="timbaland, hip-hop, rnb" role="button">
+Timbaland - Shock Value (2007-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg" data-tags="pop, rihanna, rnb" role="button">
 Rihanna - Good Girl Gone Bad (2007-05-30)
 </li>
@@ -179,6 +185,9 @@ Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bf24b86-8ec0-4348-af99-d919057ed774/12243482446-500.jpg" data-tags="rnb, hip-hop, sean kingston" role="button">
 Sean Kingston - Sean Kingston (2007-07-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rnb, keyshia cole" role="button">
+Keyshia Cole - Just Like You (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">
 Trey Songz - Trey Day (2007-10-02)
@@ -204,8 +213,8 @@ Mariah Carey - E=MC² (2008-01-01)
 <li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
-Jay Sean - My Own Way (2008-05-12)
+<li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
+Jazmine Sullivan - Fearless (2008-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)
@@ -215,6 +224,9 @@ Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
 Akon - Freedom (2008-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/761530f2-5a87-440e-ad76-39a1b036479d/4387425940-500.jpg" data-tags="rnb" role="button">
+Jamie Foxx - Intuition (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)
@@ -234,11 +246,11 @@ Mariah Carey - Memoirs of an Imperfect Angel (2009-09-29)
 <li data-cover="https://img.discogs.com/4b-rCTzer3nw7mF6FpBiT29Efwc=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3580560-1336101432.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc24f37f-ee6f-48f3-b0f2-b07e14481af0/10892266022-500.jpg" data-tags="pop" role="button">
-Leona Lewis - Echo (2009-11-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Rated R (2009-11-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
+Jay Sean - All or Nothing (2009-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a34aaf89-1aeb-31e7-847d-ec3223ccb2ff/1577578205-500.jpg" data-tags="rnb, soul" role="button">
 Alicia Keys - The Element of Freedom (2009-11-27)
@@ -261,9 +273,6 @@ Nicki Minaj - Pink Friday (2010-11-21)
 <li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">
 Miguel - All I Want Is You (2010-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/634b4f91-c75c-4dd4-a182-fe61d7287a84/13542819897-500.jpg" data-tags="rnb" role="button">
-Keri Hilson - No Boys Allowed (2010-12-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
@@ -276,9 +285,6 @@ Demi Lovato - Unbroken (2011-09-20)
 <li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
 Drake - Take Care (2011-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">
-Rihanna - Talk That Talk (2011-11-18)
-</li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">
 Frank Ocean - channel ORANGE (2012-07-10)
 </li>
@@ -290,9 +296,6 @@ Rihanna - Unapologetic (2012-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
 Alicia Keys - Girl on Fire (2012-11-23)
-</li>
-<li data-cover="https://img.discogs.com/3fpP2kLdPCVQ9PnNb0f9PpOpe8k=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4174227-1357688507-9575.jpeg.jpg" data-tags="soul, rnb" role="button">
-Solange - True (2012-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/74d2a13d-6b16-4e6d-9a3a-3c56b569741a/16339583300-500.jpg" data-tags="indie pop, alternative rock, indie rock" role="button">
 The Neighbourhood - I Love You. (2013-04-19)
@@ -311,9 +314,6 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f74c6ec2-7319-406b-9910-a6c3fe940176/9051815709-500.jpg" data-tags="rnb, pop" role="button">
 Beyoncé - Beyoncé (2013-12-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/c089a4bd-dfc4-4583-a381-2c4b4541808d/10650592968-500.jpg" data-tags="pop" role="button">
-Shawn Mendes - Shawn Mendes (2014-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b682fd6-372c-4990-b60d-b4e00bf9c046/8504061137-500.jpg" data-tags="rnb, r&b" role="button">
 Tinashe - Aquarius (2014-10-03)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:59:01.414Z
+date: 2021-04-06T05:26:01.347Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -9,7 +9,7 @@ title: "female vocals: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">Mirah - C'mon Miracle (2004-05-04)</li>
-<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
+<li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">Braids - Native Speaker (2011-01-18)</li>
@@ -51,7 +51,7 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://img.discogs.com/-19eyFKbKrKe9wITVHqsY70mWkk=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207611-1544185488-4226.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
+<li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
 The Gathering - Nighttime Birds (1997-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5ff89d9-de0d-4743-b5df-691779bea19e/19888103027-500.jpg" data-tags="90s, dream pop" role="button">
@@ -69,10 +69,13 @@ Eva Cassidy - Songbird (1998-03-31)
 <li data-cover="http://coverartarchive.org/release/ba62578d-6e37-462c-99a9-561fb60b14ca/24754125331-500.jpg" data-tags="singer-songwriter, acoustic, americana" role="button">
 Mary Gauthier - Drag Queens in Limousines (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/de75f45c-44b0-4ab1-829f-12077a27bc3a/24951821000-500.jpg" data-tags="ska punk, female vocals, pop-punk" role="button">
+Dance Hall Crashers - Purr (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/476bc43d-bbeb-43c2-8779-44125a37bc1e/4048928428-500.jpg" data-tags="80s, synthpop" role="button">
 Yazoo - The Best of Yaz (1999-09-06)
 </li>
-<li data-cover="https://img.discogs.com/zqagmH4HGlzKNUhlQ73YjoFZX3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30900-1217701986.jpeg.jpg" data-tags="electronica, warp" role="button">
+<li data-cover="https://img.discogs.com/Wb2clSHhJ4_ZOv69eP7kTPBiBOw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3194-1145339641.jpeg.jpg" data-tags="electronica, warp" role="button">
 Broadcast - The Noise Made by People (2000-03-20)
 </li>
 <li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
@@ -83,6 +86,9 @@ All Saints - Saints & Sinners (2000-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0a0039f-bca0-3e36-8e29-cc1ccc5e6929/10262136041-500.jpg" data-tags="indie" role="button">
 Antony and the Johnsons - I Fell in Love With a Dead Boy (2001-01-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/76f8746d-a740-4257-ac68-ed15065a8313/3045375914-500.jpg" data-tags="female vocals, girlgroup" role="button">
+All Saints - All Hits (2001-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cdd5f4-825e-4711-a415-d9aa9c436301/22898731132-500.jpg" data-tags="gothic metal" role="button">
 Flowing Tears - Serpentine (2002-01-21)
@@ -123,7 +129,7 @@ Sarah Harmer - All of Our Names (2004-03-23)
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
-<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
+<li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/6LUPajHGB58-8BLKNUJE31iNKWQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2973237-1309875480.jpeg.jpg" data-tags="gothic metal, symphonic metal" role="button">
@@ -134,6 +140,9 @@ Asrai - Touch in the Dark (2004-05-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">
 Ashlee Simpson - Autobiography (2004-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
+Charlotte Martin - On Your Shore (2004-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, alt rock, independent, tracks, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
 Julie Doiron - Goodnight Nobody (2004-09-07)
@@ -174,9 +183,6 @@ Ashlee Simpson - I Am Me (2005-10-13)
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
 </li>
-<li data-cover="https://img.discogs.com/wm92ihyFSPP-PCJO4ew4Zoc5Xpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-976636-1427519353-9627.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
-Girls Aloud - Chemistry (2005-12-05)
-</li>
 <li data-cover="https://img.discogs.com/jHAwF2obSvLb60gyHjO5nELWdME=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125967-1265452903.jpeg.jpg" data-tags="new age, ambient, electronic, trip-hop, world fusion, chillout" role="button">
 Modus - The Colour of Love (2006)
 </li>
@@ -194,6 +200,9 @@ Jolie Holland - Springtime Can Kill You (2006-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/21382ed0-8ca4-4996-97bf-89366fff9a6c/1048410702-500.jpg" data-tags="symphonic metal" role="button">
 Leaves' Eyes - Legend Land (2006-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/2589a841-4a4e-4f6b-8f73-cddf22622cf5/15170727677-500.jpg" data-tags="female vocals, 100 percent, indie emo, emopop, my top 100 albums, allmusicf" role="button">
+The Forecast - In The Shadow of Two Gunmen (2006-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
@@ -221,9 +230,6 @@ Sexy Sushi - Marre marre marre (2008)
 </li>
 <li data-cover="https://img.discogs.com/CuXlFDXlqe-RGcwXjauuNs9pJOQ=/fit-in/400x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2824878-1379939167-9196.jpeg.jpg" data-tags="indie, alternative, singer-songwriter, female vocals, 00s, san francisco, bike ride, great titles, thao with the get down stay down" role="button">
 Thao - We Brave Bee Stings And All (2008-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/85c9715c-4df9-4f66-afa4-9295b9dbd4da/15035339489-500.jpg" data-tags="christian rock" role="button">
-Addison Road - Addison Road (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/LRrBYq722d1HPJP0X1vv5nErA9I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1694191-1237412201.jpeg.jpg" data-tags="female vocalists, female vocalist" role="button">
 Lights - Lights (2008-04-22)
@@ -288,9 +294,6 @@ Amaranthe - Amaranthe (2011-04-11)
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
 </li>
-<li data-cover="https://img.discogs.com/-VozAvvrdxz4Se51bjLoS9eJW54=/fit-in/320x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2734395-1298630675.jpeg.jpg" data-tags="female vocals, trippy, 10s, not not fun, redhot, recommendations and such, not not fun records, hypnotic redhot siren, i love all the songs and the album" role="button">
-Maria Minerva - Cabaret Cixous (2011-08-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/245eebec-4344-426e-9039-bb7ddfd1286b/3116867787-500.jpg" data-tags="icelandic, indie rock" role="button">
 Sóley - We Sink (2011-09-02)
 </li>
@@ -314,9 +317,6 @@ Odesza - Summer's Gone (2012-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f63f608-a4c4-42e5-9689-134f3e9b1704/2864996407-500.jpg" data-tags="indie pop" role="button">
 MS MR - Candy Bar Creep Show (2012-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/3688b2a9-3d34-4093-bebd-de46a5249d0b/16069645317-500.jpg" data-tags="rock, christian rock, female vocals, 2010s rock, tyde moore radio" role="button">
-Plumb - Need You Now (2013-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - The Blessed Unrest (2013-07-16)

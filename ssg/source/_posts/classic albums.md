@@ -1,19 +1,19 @@
 ---
-date: 2021-04-05T14:40:01.314Z
+date: 2021-04-06T05:09:01.338Z
 title: "classic albums: 100 albums you must listen to before you die"
 ---
 ![Jeff Buckley - Grace (1994-08-15)](https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg "Jeff Buckley - Grace (1994-08-15)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">John Coltrane - A Love Supreme (1965-01)</li>
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">The Velvet Underground - The Velvet Underground & Nico (1967-03)</li>
 <li data-cover="https://img.discogs.com/_9ng2B8Jgtq2R1FzwZZBmRu2WCQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9984176-1558329508-1528.jpeg.jpg" data-tags="soul" role="button">Marvin Gaye - What's Going On (1971-05-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
+<li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">Neil Young - Harvest (1972-02-14)</li>
 <li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">Television - Marquee Moon (1977-02-08)</li>
+<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">Kate Bush - Hounds of Love (1985-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/832c3cd6-effa-3e5f-a6e1-273cfd2d9c27/21363854627-500.jpg" data-tags="80s" role="button">The Smiths - Strangeways, Here We Come (1987-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">The Stone Roses - The Stone Roses (1989-04)</li>
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">Pixies - Doolittle (1989-04-17)</li>
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">Jeff Buckley - Grace (1994-08-15)</li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ad745ba9-c885-44d4-ab4f-07e77ac316b1/28699341657-500.jpg" data-tags="swing, jazz" role="button">
 Frank Sinatra - Songs for Swingin' Lovers (1956-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">
-John Coltrane - A Love Supreme (1965-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c96d6546-25e4-4717-b514-62684245675f/16555897275-500.jpg" data-tags="folk rock, folk" role="button">
 Bob Dylan - Blonde on Blonde (1966-05-16)
@@ -42,8 +39,11 @@ The Velvet Underground - White Light/White Heat (1968-01-30)
 <li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
 Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
 </li>
-<li data-cover="https://img.discogs.com/2fMMXt6hGv6-Ysd3559lBYDavj8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7527335-1443336101-5374.jpeg.jpg" data-tags="soul, 60s" role="button">
+<li data-cover="https://img.discogs.com/8B57iuhKpQ7wz_rNHE0Hu0IoHeY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8569418-1464237108-6054.jpeg.jpg" data-tags="soul, 60s" role="button">
 Dusty Springfield - Dusty In Memphis (1969-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e517042-0af2-45b0-bdbb-aae20ae1bec8/15170398619-500.jpg" data-tags="funk" role="button">
+Sly & The Family Stone - Stand! (1969-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4945c044-d742-433b-b8ff-eb5b28d14249/25081651246-500.jpg" data-tags="blues, blues rock" role="button">
 Janis Joplin - I Got Dem Ol' Kozmic Blues Again Mama! (1969-10)
@@ -93,7 +93,7 @@ Richard & Linda Thompson - I Want To See The Bright Lights Tonight (1974-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
 </li>
-<li data-cover="https://img.discogs.com/RKYTfObf6yj-ks-46I-6ptDbmrk=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11069254-1563716202-1188.jpeg.jpg" data-tags="singer-songwriter, soft rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/0sptSL6utc9wbTX_SpatSRJ8q04=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6877424-1616691914-8706.jpeg.jpg" data-tags="singer-songwriter, soft rock, 70s" role="button">
 Jackson Browne - Late For The Sky (1974-09)
 </li>
 <li data-cover="https://img.discogs.com/50lU9b6pQPI9VE1kE8e8QVUy2Kk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1911688-1251934808.jpeg.jpg" data-tags="classic rock" role="button">
@@ -186,6 +186,9 @@ Hüsker Dü - Zen Arcade (1984-07)
 <li data-cover="https://img.discogs.com/x5rzMxIRtPfUeEnjSGsDejuUNUs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371261-1385836726-2954.jpeg.jpg" data-tags="punk, alternative rock, sst" role="button">
 Hüsker Dü - New Day Rising (1985-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
+Prefab Sprout - Steve McQueen (1985-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
 Kate Bush - Hounds of Love (1985-09-16)
 </li>
@@ -194,6 +197,9 @@ Hüsker Dü - Candy Apple Grey (1986-03-17)
 </li>
 <li data-cover="https://img.discogs.com/X8UnwwfvWYkYC-6gAfOsJJPi2ew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1036392-1393217616-5940.jpeg.jpg" data-tags="music for the revolution, the eighties were not that bad" role="button">
 Billy Bragg - Talking With the Taxman About Poetry (1986-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/830bc0f4-ece7-4a2c-9816-587e06a13e84/19863108125-500.jpg" data-tags="rock, hard rock, hair metal, melodic rock, classic albums, glam metal, lps i own, face book" role="button">
+TNT - Tell No Tales (1987-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/832c3cd6-effa-3e5f-a6e1-273cfd2d9c27/21363854627-500.jpg" data-tags="80s" role="button">
 The Smiths - Strangeways, Here We Come (1987-09-22)
@@ -228,7 +234,7 @@ De La Soul - 3 Feet High and Rising (1989-05-14)
 <li data-cover="https://img.discogs.com/2lhYE7rrEQRceUNZ9L28IKE5uws=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-862079-1432144988-4084.jpeg.jpg" data-tags="indie, indie pop, dream pop, jangle pop, noise pop" role="button">
 The House of Love - The House of Love (1990-03-06)
 </li>
-<li data-cover="https://img.discogs.com/z0xBeBzYetrVhdILAnjUri4DfOc=/fit-in/600x428/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13859634-1562742894-6417.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/xYv9oqQix5EA4uhZtoyUhmZ_8o4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4870461-1442166097-6503.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Public Enemy - Fear of a Black Planet (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
@@ -267,14 +273,8 @@ The Verve - A Northern Soul (1995-07-03)
 <li data-cover="http://coverartarchive.org/release/e701999d-416c-43c2-a369-0f7a13296c86/26825295448-500.jpg" data-tags="90s, piano rock, ben folds" role="button">
 Ben Folds Five - Ben Folds Five (1995-07-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
-Belle and Sebastian - Tigermilk (1996-06-06)
-</li>
 <li data-cover="https://img.discogs.com/7JibQ80pGkxzTyFYF-AYde8vsck=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2986939-1310522611.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Type O Negative - October Rust (1996-08-20)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
-Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)

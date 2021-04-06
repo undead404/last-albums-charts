@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:41:01.374Z
+date: 2021-04-06T05:29:01.407Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -32,6 +32,9 @@ Pixies - Doolittle (1989-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3d44548-b2ed-3ddc-a9e0-3f5ee544c1c9/6624483913-500.jpg" data-tags="grunge" role="button">
 Nirvana - Bleach (1989-06-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+Soundgarden - Louder Than Love (1989-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c63ad92b-19d7-41d9-83e6-607202ceba07/1623379853-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Facelift (1990-08-28)
@@ -93,7 +96,7 @@ Mother Love Bone - Mother Love Bone (1992-11-10)
 <li data-cover="http://coverartarchive.org/release/0ed52431-7c63-459f-9b9c-69ba2be98aa2/2868789715-500.jpg" data-tags="grunge" role="button">
 Nirvana - Incesticide (1992-12-14)
 </li>
-<li data-cover="https://img.discogs.com/SbiREqGVqtJpp9IWTupHfJ06aZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13068383-1547486816-4724.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+<li data-cover="https://img.discogs.com/xqf09tHFSiPR9_WfaJUpGLq_MFw=/fit-in/485x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660270-1433472219-9062.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
@@ -113,9 +116,6 @@ Nirvana - In Utero (1993-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Vs. (1993-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/557393d4-74ae-4833-8c72-822ed1a10175/3803039786-500.jpg" data-tags="grunge" role="button">
-Nirvana - The Very Best (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4434c0f-4a25-3c88-9138-f4fffa8ddf88/17628103152-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Jar of Flies (1994-01-18)
