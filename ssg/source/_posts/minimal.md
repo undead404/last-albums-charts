@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:41:01.517Z
+date: 2021-04-06T12:14:01.474Z
 title: "minimal: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -105,10 +105,10 @@ Plastikman - Closer (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/3708b351-0680-45a8-a3a6-8776133bd79e/7739562068-500.jpg" data-tags="electronic, techno, minimal" role="button">
 Paul Kalkbrenner - Self (2004-03-01)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -132,7 +132,7 @@ Dominik Eulberg - Flora & Fauna (2004-09-30)
 <li data-cover="https://img.discogs.com/tWpzVn3s7OCXwKavuy1RRzbzYEk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2699079-1413714535-2207.jpeg.jpg" data-tags="minimal, music for robots" role="button">
 Mathew Jonson - Marionette (2004-11-03)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/5768327e-cb12-3468-b383-db13f9591a03/11349737637-500.jpg" data-tags="electronic, experimental, avantgardener, avantgarde" role="button">
@@ -150,7 +150,7 @@ Extrawelt - Soopertrack / Zu Fuss (2005-06-13)
 <li data-cover="http://coverartarchive.org/release/d8ebf515-a038-449b-9924-cf1d047b6845/7975007770-500.jpg" data-tags="minimal" role="button">
 DJ Koze - Kosi Comes Around (2005-09-12)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/94f09962-8981-4bd6-a833-5630378ecbc9/13277619955-500.jpg" data-tags="electronica, ambient" role="button">
@@ -273,9 +273,6 @@ Lena - Satellite (2010-03-13)
 <li data-cover="http://coverartarchive.org/release/f94c8e34-1c57-4f83-b6bb-f1095aee51f7/12501105197-500.jpg" data-tags="techno, minimal, electronic" role="button">
 Booka Shade - More! (2010-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e4ae230-51e1-436e-9f83-f5b7740f03d4/3472151542-500.jpg" data-tags="electronic, minimal, deep house" role="button">
-Nicolas Jaar - Love You Gotta Lose Again (2010-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/8aa7e7a2-d6f1-4627-83d7-4ab7b9a63dcc/4931837965-500.jpg" data-tags="minimal" role="button">
 Fritz Kalkbrenner - Here Today Gone Tomorrow (2010-10-15)
 </li>
@@ -297,11 +294,14 @@ Modeselektor - Monkeytown (2011-09-30)
 <li data-cover="http://coverartarchive.org/release/ab007771-0fcf-4bc1-9f62-9a46e986278f/4853071277-500.jpg" data-tags="electronic" role="button">
 The Field - Looping State of Mind (2011-10-10)
 </li>
-<li data-cover="https://img.discogs.com/lBCWmWde6a9k4L8f85TJVg6A-8A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3264309-1322964033.jpeg.jpg" data-tags="electronic, sacramento" role="button">
+<li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
 Poliça - Give You The Ghost (2011-12-20)
+</li>
+<li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
+Perfume Genius - Put Your Back N 2 It (2012-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
 Chromatics - Kill for Love (2012-03-26)

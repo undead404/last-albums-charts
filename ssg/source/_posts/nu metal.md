@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:52:01.277Z
+date: 2021-04-06T12:41:01.677Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -33,7 +33,7 @@ Sepultura - Roots (1996-02-21)
 <li data-cover="http://coverartarchive.org/release/c93f6a84-0822-472f-ba7d-a49e475a9a43/4088021294-500.jpg" data-tags="nu metal" role="button">
 Korn - Life Is Peachy (1996-10-15)
 </li>
-<li data-cover="https://img.discogs.com/5uTI-tZy_sChL6Hi6Xuugua-rP0=/fit-in/477x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437811-1330371553.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
+<li data-cover="https://img.discogs.com/FgdEQBXFd7GTQi4f9CjkNGRTPis=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6088542-1410770631-6518.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Three Dollar Bill, Yall$ (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
@@ -75,7 +75,7 @@ Rage Against the Machine - The Battle of Los Angeles (1999-09)
 <li data-cover="http://coverartarchive.org/release/b878a6cb-2cbb-4c51-8356-8e8d89d04e77/13895458368-500.jpg" data-tags="industrial metal, nu metal" role="button">
 Dope - Felons and Revolutionaries (1999-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rapcore" role="button">
+<li data-cover="https://img.discogs.com/00JxH-GC78GMdkj_qkb47ZwJ3OE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420449-1364407920-8248.jpeg.jpg" data-tags="rapcore" role="button">
 Crazy Town - The Gift of Game (1999-11-09)
 </li>
 <li data-cover="https://img.discogs.com/LWvn6SvyvvcqFOHSDgXxiW3vK6k=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256710-1270904362.jpeg.jpg" data-tags="nu metal" role="button">
@@ -186,7 +186,7 @@ Saliva - Back Into Your System (2002-11-12)
 <li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
 Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
-<li data-cover="https://img.discogs.com/iDdlLIrLmoqxcFi0YfgTSWoiuio=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3519602-1333668651.jpeg.jpg" data-tags="metalcore" role="button">
+<li data-cover="https://img.discogs.com/pm-60Tvy_j9gK6y5tjizOkt2Jm4=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1121453-1401953708-5066.jpeg.jpg" data-tags="metalcore" role="button">
 36 Crazyfists - A Snow Capped Romance (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/40e7c84f-309b-4d2e-b93c-c9d56f682665/17105713835-500.jpg" data-tags="alternative rock" role="button">
@@ -201,7 +201,7 @@ Godsmack - Faceless (2003-04-08)
 <li data-cover="http://coverartarchive.org/release/ab6d3199-90d7-34de-8008-c6f072a5d43a/4766302340-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Deftones (2003-05-19)
 </li>
-<li data-cover="https://img.discogs.com/CZ98DHeqsH0mZ2iSMwvdfpVi6VM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4392504-1363673624-8869.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
+<li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
 Limp Bizkit - Results May Vary (2003-05-28)
 </li>
 <li data-cover="https://img.discogs.com/Or2_qLd29JC7Tk2mfFQ6lxxTIjE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2046370-1398872842-3751.jpeg.jpg" data-tags="nu metal" role="button">
@@ -210,7 +210,7 @@ Adema - Unstable (2003-06-11)
 <li data-cover="https://img.discogs.com/kF9iKRsz7Si3aPgDV2T74KAXepE=/fit-in/450x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961563-1255210779.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
 Metallica - St. Anger (2003-06-23)
 </li>
-<li data-cover="https://img.discogs.com/Dg9qap8ukJJ71EVAMumvwKqp9U8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-779027-1157883179.jpeg.jpg" data-tags="industrial metal, nu metal" role="button">
+<li data-cover="https://img.discogs.com/61pR2y8_a7JYJnm2AAtaPpZNeFY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2805110-1501822761-5526.jpeg.jpg" data-tags="industrial metal, nu metal" role="button">
 Spineshank - Self-Destructive Pattern (2003-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/042269cc-85b8-4be7-be7b-f0d824b87605/8544129324-500.jpg" data-tags="nu metal" role="button">
@@ -264,9 +264,6 @@ Disturbed - Ten Thousand Fists (2005-09-19)
 <li data-cover="https://img.discogs.com/ONYklrs-TeesouaNwVJmODaBZQk=/fit-in/317x314/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1748082-1240787802.jpeg.jpg" data-tags="nu metal" role="button">
 Ill Niño - One Nation Underground (2005-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3bd3e15-556b-329c-8838-4444c9367aa9/8401417015-500.jpg" data-tags="nu metal" role="button">
-Slipknot - 9.0: Live (2005-10-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/79784f58-98d1-4a7b-b5b1-74a27b880d26/6374695874-500.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Greatest Hitz (2005-11-04)
 </li>
@@ -306,11 +303,14 @@ Linkin Park - New Divide (2009-05-18)
 <li data-cover="http://coverartarchive.org/release/7da1c848-8b3a-4143-a889-5d293c502150/5036652486-500.jpg" data-tags="nu metal" role="button">
 Awolnation - Back From Earth (2010-05-18)
 </li>
-<li data-cover="https://img.discogs.com/IKLe79N8VgR1VEcnJagD1tWrh8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3497267-1332751302.jpeg.jpg" data-tags="alternative metal" role="button">
+<li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bd6e65f-2584-4a20-a88d-695d32ed429d/7687347287-500.jpg" data-tags="rapcore, nu metal" role="button">
 Limp Bizkit - Gold Cobra (2011-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">
+Linkin Park - Living Things (2012-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f44d182-e925-448b-98b7-a525314079a0/7969942055-500.jpg" data-tags="nu metal" role="button">
 Korn - The Paradigm Shift (2013-10-04)

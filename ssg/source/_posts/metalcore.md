@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:51:01.392Z
+date: 2021-04-06T12:03:01.529Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")
@@ -116,9 +116,6 @@ Chimaira - Chimaira (2005-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc8d446-5b5f-49de-b9c0-31ce46283831/26720885055-500.jpg" data-tags="metalcore, hardcore" role="button">
 Every Time I Die - Gutter Phenomenon (2005-08-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
-Between the Buried and Me - Alaska (2005-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/cce39342-31fe-4e87-903f-6dfc1ab5d646/1065535590-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Killing With a Smile (2005-09-12)
@@ -299,6 +296,9 @@ A Day to Remember - What Separates Me from You (2010-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/27f2d3c5-50b6-4a97-a2d1-2da283881fe3/20002674834-500.jpg" data-tags="metalcore" role="button">
 Architects - The Here And Now (2011-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/244a59a9-9b52-48cf-923c-91fa4f37a875/6472045000-500.jpg" data-tags="post-hardcore" role="button">
+Of Mice & Men - The Flood (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0520029-633b-422b-a226-0813b0cc9b61/5727174202-500.jpg" data-tags="metalcore" role="button">
 August Burns Red - Leveler (2011-06-21)

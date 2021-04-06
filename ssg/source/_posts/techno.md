@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:23:01.347Z
+date: 2021-04-06T11:59:01.739Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -12,7 +12,7 @@ title: "techno: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e74b4ee5-8c1e-44fd-89ca-e680dd568711/1655559415-500.jpg" data-tags="techno, idm" role="button">Moderat - Moderat (2009-02)</li>
 <li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">The Prodigy - Invaders Must Die (2009-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/1c0cb4a3-0233-43de-9b81-8afe0f682b8b/16337903830-500.jpg" data-tags="electronic, techno, minimal, minimal techno, rough trade" role="button">Pantha du Prince - Black Noise (2010-02-08)</li>
-<li data-cover="https://img.discogs.com/0Ba-ECqNBzo9W0nAl3Paw_5vwRk=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3974761-1351107048-1039.jpeg.jpg" data-tags="electronic, dance" role="button">Avicii - Levels (2011-10-28)</li>
+<li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">Avicii - Levels (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/dac46d09-412c-4e23-a3a6-9348ec554d7e/8779262560-500.jpg" data-tags="techno, icelandic" role="button">Kiasmos - Kiasmos (2014-10-27)</li>
 </ol>
 List of 100 - under the cut.
@@ -132,9 +132,6 @@ Ellen Allien - Berlinette (2003-04-07)
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ebf5816-7084-464b-886a-8e405fe3083a/5438022732-500.jpg" data-tags="groove coverage" role="button">
-Groove Coverage - 7 Years And 50 Days (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/3708b351-0680-45a8-a3a6-8776133bd79e/7739562068-500.jpg" data-tags="electronic, techno, minimal" role="button">
 Paul Kalkbrenner - Self (2004-03-01)
 </li>
@@ -185,6 +182,9 @@ Kanye West - Stronger (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/85d1196a-3ab8-462f-8a4e-c3e7baab93c4/12705761849-500.jpg" data-tags="minimal" role="button">
 Dominik Eulberg - Bionik (2007-11-16)
+</li>
+<li data-cover="https://img.discogs.com/9qwkMMhrr1lNWPMdchCIxZ0xqkM=/fit-in/570x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196874-1200003112.jpeg.jpg" data-tags="techno" role="button">
+Basshunter - Now You're Gone (2007-12-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
@@ -279,7 +279,7 @@ Zola Jesus - Conatus (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/313362c0-0f9f-4559-8337-8daf9a640d56/5275367063-500.jpg" data-tags="idm, experimental, techno" role="button">
 Modeselektor - Monkeytown (2011-09-30)
 </li>
-<li data-cover="https://img.discogs.com/0Ba-ECqNBzo9W0nAl3Paw_5vwRk=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3974761-1351107048-1039.jpeg.jpg" data-tags="electronic, dance" role="button">
+<li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4213b5bf-e5bd-4949-8366-e3c08340c1ff/4754005350-500.jpg" data-tags="electronic, techno, idm" role="button">

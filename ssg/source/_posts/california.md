@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T21:47:01.494Z
+date: 2021-04-06T12:06:01.474Z
 title: "california: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="http://coverartarchive.org/release/6736dd14-d28a-3198-9416-f5f858400326/7010810256-500.jpg" data-tags="rock, indie, alternative, alternative rock, indie rock" role="button">Phantom Planet - The Guest (2002-02-26)</li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">Slightly Stoopid - Everything You Need (2003-03-18)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock, alternative" role="button">Weezer - Make Believe (2005-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/cd297b59-fd00-4c18-b03a-f130d2d64dff/18507685272-500.jpg" data-tags="indie, indie rock" role="button">Rogue Wave - Descended Like Vultures (2005-10-25)</li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">The Supervillains - Grow Yer Own (2006)</li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">Cold War Kids - Robbers & Cowards (2006-10-10)</li>
@@ -51,7 +51,7 @@ Buggles - The Age of Plastic (1980)
 <li data-cover="http://coverartarchive.org/release/36a69014-a603-4ee8-abd0-075b3ad8855d/18781130799-500.jpg" data-tags="rita lee" role="button">
 Rita Lee - Rita Lee (1980-09-25)
 </li>
-<li data-cover="https://img.discogs.com/fYhrZjK4pBaJRq3UhaO6Ydm3mmU=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681480-1474257866-6760.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/TxLsEOQafZcd7-FZAUgQAAYb720=/fit-in/567x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952873-1193960761.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e3ad57d-da42-489f-8032-8b4b2b63478b/24154851314-500.jpg" data-tags="80s" role="button">
@@ -132,11 +132,11 @@ Da Brat - Funkdafied (1994-06-28)
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
-Sublime - Sublime (1995)
-</li>
 <li data-cover="https://img.discogs.com/cO_Su6PKOIDwgyH_jmoavs4X5II=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9310556-1478373645-5881.jpeg.jpg" data-tags="california, r, aleister crowley, italiana, christopher lee, italiani, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley" role="button">
 Gianluca Grignani - Destinazione Paradiso (1995-02-24)
+</li>
+<li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
+Everclear - Sparkle And Fade (1995-05-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="synthpop, california, aleister crowley, progressive electronic, art pop, christopher lee, favourite albums of all time, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, czalbums, self-titled album, thebestofaleystercrowley" role="button">
 Erasure - Erasure (1995-10-24)
@@ -195,9 +195,6 @@ The Real McKenzies - Oot & Aboot (2003-05-20)
 <li data-cover="https://img.discogs.com/y9vdMvfbQ15Co3EgaNgbM6xiXec=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772466-1157211587.jpeg.jpg" data-tags="trip-hop" role="button">
 Karmacoda - Evidence (2003-08)
 </li>
-<li data-cover="https://img.discogs.com/_l9ROJxkXfw03koShu0Anz2iJZI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588682-1446756166-6594.jpeg.jpg" data-tags="singer-songwriter, folk" role="button">
-Josh Ritter - Hello Starling (2003-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/2e441d80-ca54-35eb-b3df-42095796aff1/3880014705-500.jpg" data-tags="80s, synthpop" role="button">
 The Human League - The Very Best of The Human League (2003-09-15)
 </li>
@@ -207,7 +204,7 @@ Bruce Springsteen - The Essential Bruce Springsteen (2003-11-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="california, brazilian, aleister crowley, latin grammy nominated, christopher lee, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, favorite albums of all time, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade" role="button">
 Barão Vermelho - Barão Vermelho (2004)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="trip-hop, downtempo, usa, trip hop, american, california, west coast, bay area, from: usa, bay-area, us indie, american bands, bay area underground, bay area i like, sweet california, american brilliance, bay area bands, california indie, west coast sound, american indie, california artists, usa artists, us independent, us-american, sf bay area, california local, american dream, american singer, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, american life, san francisco ca, west-coast, san-francisco, usa music, west coast chill, from california, bay area indie, usa underground, california sunshine, san francisco summer, from: california, california usa, usa: california, san francisco indie, california coast, san francisco scene, sf bay area scene, amercian band, indie california, san francisco band, bay area best, from: sanfrancisco usa, san francisco music, city: san francisco" role="button">
+<li data-cover="https://img.discogs.com/_jG2oyI1VFTFM3NJfHFKOtwXVgg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-285277-1113400555.jpg.jpg" data-tags="trip-hop, downtempo, usa, trip hop, american, california, west coast, bay area, from: usa, bay-area, us indie, american bands, bay area underground, bay area i like, sweet california, american brilliance, bay area bands, california indie, west coast sound, american indie, california artists, usa artists, us independent, us-american, sf bay area, california local, american dream, american singer, bay area music, california dreaming, west coast underground, san francisco bay area, san francisco bands, american life, san francisco ca, west-coast, san-francisco, usa music, west coast chill, from california, bay area indie, usa underground, california sunshine, san francisco summer, from: california, california usa, usa: california, san francisco indie, california coast, san francisco scene, sf bay area scene, amercian band, indie california, san francisco band, bay area best, from: sanfrancisco usa, san francisco music, city: san francisco" role="button">
 Karmacoda - Transitory Mini EP (2004-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f5c0d54-e9fa-3957-ab67-4c30ddb53262/23390004827-500.jpg" data-tags="rock, pop punk" role="button">
@@ -320,5 +317,8 @@ Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)
+</li>
+<li data-cover="https://img.discogs.com/QKyteu6iDEpCkQa1LyVPOYXPqzo=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3855360-1440433299-4605.jpeg.jpg" data-tags="alternative rock, punk rock" role="button">
+Billy Talent - Dead Silence (2012-09-07)
 </li>
 </ol>

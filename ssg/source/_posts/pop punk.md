@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:37:01.414Z
+date: 2021-04-06T11:54:01.739Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -231,6 +231,9 @@ The Spill Canvas - No Really, I'm Fine (2007-10-02)
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
 Jimmy Eat World - Chase This Light (2007-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/f71927b9-bfa3-4e6b-8d3e-38d8712ecb20/6195960547-500.jpg" data-tags="poppunk" role="button">
+We the Kings - We the Kings (2007-10-08)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
 The Maine - The Way We Talk (2007-12-11)
 </li>
@@ -242,9 +245,6 @@ Forever the Sickest Kids - Underdog Alma Mater (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
-</li>
-<li data-cover="https://img.discogs.com/5hPv59RCy9mW9A2VqdCv_0Q-sMo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7761668-1448227472-3546.jpeg.jpg" data-tags="punk rock" role="button">
-The Offspring - Rise and Fall, Rage and Grace (2008-06-11)
 </li>
 <li data-cover="https://img.discogs.com/j2MoP6SK9iBD4f999fvO6250Zp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852912-1555314130-3540.jpeg.jpg" data-tags="pop punk" role="button">
 The Academy Is... - Fast Times At Barrington High (2008-08-18)

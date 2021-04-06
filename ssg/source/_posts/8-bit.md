@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:18:01.391Z
+date: 2021-04-06T11:53:01.512Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -153,14 +153,14 @@ Caparezza - Le Dimensioni Del Mio Caos (2008-04-11)
 <li data-cover="http://coverartarchive.org/release/878f95a1-ecc7-438e-aad9-aaf4be90653f/11291022040-500.jpg" data-tags="8bit, 8-bit, psychedelic, chiptune, 8 bit, micromusic, chiptunes, 8bitpeoples" role="button">
 Yerzmyey - FREAKuencies (2008-04-18)
 </li>
+<li data-cover="https://img.discogs.com/55UBK6Rc1T5uRdiqzJ466ky0Ehc=/fit-in/359x359/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1359447-1231262811.png.jpg" data-tags="electro, 8-bit, robots" role="button">
+Sputnik Booster - Robot Science (2008-05-03)
+</li>
 <li data-cover="https://img.discogs.com/fTLPRiyaKkpMtK53wuEvhxQkTh4=/fit-in/500x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1367758-1213433523.jpeg.jpg" data-tags="nintendocore" role="button">
 iamerror - Trout Yogurt (2008-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5aa226f-ccd0-474b-acb2-484afbb4fc8e/13233367721-500.jpg" data-tags="electronic, chiptune" role="button">
 Animal Style - Gameboy Madrigals (2008-05-12)
-</li>
-<li data-cover="https://img.discogs.com/IDsL5x0doCaZtEd0yaC-fFxgjes=/fit-in/600x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352525-1212075128.jpeg.jpg" data-tags="industrial, 8-bit, chiptune, ebm, powernoise, free albums, ryhythmic noise" role="button">
-NaRick - Pixel Universe (2008-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/38a991aa-9cd6-4f23-9820-318827235e29/2060561870-500.jpg" data-tags="synthpop" role="button">
 Thermostatic - Humanizer (2008-05-30)
@@ -176,6 +176,12 @@ She - coloris (2008-06-17)
 </li>
 <li data-cover="https://img.discogs.com/iY4qsKLK9EO0mvlF07nMQBxqvGM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4769399-1374940089-3019.jpeg.jpg" data-tags="electronica, nintendocore" role="button">
 Motionless Battle - The Fortress of Discord (2008-07-22)
+</li>
+<li data-cover="https://img.discogs.com/jOMPPxwQQ0vHpPws-KM9HHVWZ7o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698591-1237721342.jpeg.jpg" data-tags="8-bit, idm, chiptune, jungle, breakcore" role="button">
+Swampyboy - Summer Spent Indoors (2008-08-07)
+</li>
+<li data-cover="https://img.discogs.com/RG5K3I4-XPNg7SM6Oo4X2mS_cww=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554053-1236455615.png.jpg" data-tags="electro, 8-bit, chiptune, gameboy" role="button">
+SIDABITBALL - Grotesque (2008-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ade91c4-67e2-4f3b-a52d-0be0653548d5/6709617117-500.jpg" data-tags="electronic, chiptune" role="button">
 She - chiptek (2008-11-01)
@@ -237,9 +243,6 @@ Ozzed - Cor Metallicum (2010)
 <li data-cover="https://img.discogs.com/gwKl9qhzA10jVBozp1RrZtpuhlo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10662773-1501939211-4990.jpeg.jpg" data-tags="electronic, 8bit, 8-bit, chiptune, albums i got because of the album art" role="button">
 spamtron - D-PAD (2010)
 </li>
-<li data-cover="https://img.discogs.com/l6tZFxVrZlP9Z9BCJnNBGlQ4siY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12002473-1526354004-8019.jpeg.jpg" data-tags="electronica, 8-bit, chiptune, progressive, electrorock, chiprock, progressive electronica, progtronica, chiptronica" role="button">
-OxygenStar - Sassy Wisdom (2010-01-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/0063c6b9-5376-36c8-9b51-a053ebbb270c/2097577050-500.jpg" data-tags="8-bit, chiptune" role="button">
 mind.in.a.box - R.E.T.R.O. (2010-02-26)
 </li>
@@ -255,17 +258,11 @@ Ikonika - Contact, Love, Want, Have (2010-04-05)
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">
 Crystal Castles - Crystal Castles (2010-05-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/2e2acc48-2fc6-4f13-869c-c73aff5217b9/5475532881-500.jpg" data-tags="electro, free, free download" role="button">
-Disko-ions - Genealogy Bytes EP (2010-05-30)
-</li>
-<li data-cover="https://img.discogs.com/QcYsc7BTRzdsMTH4uDYAQlTT-Lg=/fit-in/384x384/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894886-1306095003.png.jpg" data-tags="8-bit, idm, glitch, chiptune, progressive, chipmusic" role="button">
-Zan-zan-zawa-veia - N0De-claw (2010-06-01)
+<li data-cover="http://coverartarchive.org/release/71b9806a-7fab-4fe9-bc9a-36f8b00e2d1b/4330649701-500.jpg" data-tags="8-bit" role="button">
+Disasterpeace - Midnight Orphans (2010-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d52c016f-7a08-4a78-abc9-1331c5e3666b/11724503080-500.jpg" data-tags="ambient" role="button">
 C418 - life changing moments seem minor in pictures (2010-08-12)
-</li>
-<li data-cover="https://img.discogs.com/H8VGf-kmKz2lcHhZfVzDRU3GHos=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-111354-1238962583.jpeg.jpg" data-tags="soundtrack, noise, chillout, electronic, electronica, trip-hop, electropop, indie, chill, instrumental, ambient, experimental, indie electronic, post-rock, downtempo, electro, dance, unsigned, canada, calm, piano, epic, industrial, easy listening, synth pop, ambient pop, new age, indietronica, shoegaze, canadian, 8-bit, melodic, idm, psychedelic, night, guitar, strings, dreamy, cinematic, film, moody, synth, driving, glitch, morning, reflective, atmospheric, haunting, dream pop, drone, space, breakbeat, progressive, winter, mellow, psychill, melancholy, sleep, beats, synthpop, electronic ambient, nostalgic, soft, ethereal, loop, intense, illbient, intelligent, relaxing, eerie, hypnotic, ebm, darkwave, space music, experimental electronica, bigbeat, chill-out, dark ambient, ghostly, 00s, mood, cold, dreampop, shoegazer, alternative dance, night music, ambient techno, chill out, toronto, bitpop, dark wave, film score, independent, piano music, nostalgia, indietronic, film music, b-sides, spring" role="button">
-Aetherius - FallPast EP (2010-08-17)
 </li>
 <li data-cover="https://img.discogs.com/yzM_zP5EcbFy6OQwhjOoZqDEUSc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2473870-1286096331.jpeg.jpg" data-tags="dubstep, 8-bit, chiptune, wonky, zelda" role="button">
 Rustie - Sunburst EP (2010-10-04)
@@ -284,6 +281,9 @@ Mujuice - Downshifting (2011-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba2930a9-ed5c-45f6-a89e-8c937cf97d19/8566158876-500.jpg" data-tags="8-bit" role="button">
 Lich King - Super Retro Thrash (2011-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/a1ba1063-7a41-4ccf-a527-e93bd78767af/5512070799-500.jpg" data-tags="chiptune" role="button">
+LukHash - Digital Memories (2011-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5eabfd7b-638c-4d0d-8e0b-e358e1a1251f/17978515250-500.jpg" data-tags="chiptune" role="button">
 047 - Elva (2011-05-30)

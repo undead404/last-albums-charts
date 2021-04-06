@@ -1,15 +1,15 @@
 ---
-date: 2021-04-05T23:01:01.430Z
+date: 2021-04-06T12:42:02.556Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
-![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
+![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">Faith No More - The Real Thing (1989-06-20)</li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">Rage Against the Machine - Evil Empire (1996-02)</li>
 <li data-cover="http://coverartarchive.org/release/be3e00aa-368a-3f09-ac96-cd094e9a7151/3234514330-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Significant Other (1999-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">Rage Against the Machine - The Battle of Los Angeles (1999-09)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rapcore" role="button">Crazy Town - The Gift of Game (1999-11-09)</li>
+<li data-cover="https://img.discogs.com/00JxH-GC78GMdkj_qkb47ZwJ3OE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420449-1364407920-8248.jpeg.jpg" data-tags="rapcore" role="button">Crazy Town - The Gift of Game (1999-11-09)</li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">Linkin Park - Hybrid Theory (2000-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
@@ -21,22 +21,22 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, funk metal" role="button">
+<li data-cover="https://img.discogs.com/Qo-yFDhFRNOsBEjGJJ0bpwFX5ik=/fit-in/587x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709098-1421535721-3732.jpeg.jpg" data-tags="alternative metal, funk metal" role="button">
 Faith No More - Introduce Yourself (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">
 Faith No More - The Real Thing (1989-06-20)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="thrash metal" role="button">
+<li data-cover="https://img.discogs.com/VzN45zXImahjUa_1jCEsDLm65mY=/fit-in/600x431/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9819339-1486826461-9725.jpeg.jpg" data-tags="thrash metal" role="button">
 Anthrax - Attack Of The Killer B's (1991-06-25)
 </li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/84e9071c-cac7-42f6-9043-4ee04d215eea/5609681827-500.jpg" data-tags="rock" role="button">
 311 - Music (1993-02-09)
 </li>
-<li data-cover="https://img.discogs.com/LPiIGgaGvTmI7NSGQDkeyUXpCL0=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640504-1142166563.jpeg.jpg" data-tags="crossover, rap metal" role="button">
+<li data-cover="https://img.discogs.com/DJMNsVbbAmqpb2pyttl8st3xo70=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369994-1362438913-5417.jpeg.jpg" data-tags="crossover, rap metal" role="button">
 Clawfinger - Deaf Dumb Blind (1993-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
@@ -84,7 +84,7 @@ Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 <li data-cover="https://img.discogs.com/8ToUybb-vm5Jzb9vQ39DUMOzl00=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2574245-1336478814.jpeg.jpg" data-tags="rapcore, rap metal" role="button">
 One Minute Silence - Available In All Colours (1997-03-17)
 </li>
-<li data-cover="https://img.discogs.com/5uTI-tZy_sChL6Hi6Xuugua-rP0=/fit-in/477x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3437811-1330371553.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
+<li data-cover="https://img.discogs.com/FgdEQBXFd7GTQi4f9CjkNGRTPis=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6088542-1410770631-6518.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Three Dollar Bill, Yall$ (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8be21f84-ba80-4195-8a28-3562b8439476/10151203461-500.jpg" data-tags="rock" role="button">
@@ -105,7 +105,10 @@ Clawfinger - Clawfinger (1997-09-29)
 <li data-cover="http://coverartarchive.org/release/ff1f54ea-6e5d-4b61-b1e8-64371bbe3d44/1735086782-500.jpg" data-tags="rapcore, nu metal" role="button">
 Papa Roach - Old Friends From Young Years (1997-12-04)
 </li>
-<li data-cover="https://img.discogs.com/H8FE9T-K58qprWT4Nh9EALfj6rI=/fit-in/467x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-462379-1135167755.jpeg.jpg" data-tags="rock, hard rock" role="button">
+<li data-cover="http://coverartarchive.org/release/0b726e79-5a5f-48d5-941e-430c89d979c1/1545188225-500.jpg" data-tags="funk, pop punk, rap metal" role="button">
+Zebrahead - Zebrahead (1998)
+</li>
+<li data-cover="https://img.discogs.com/WxfrcTp_H4S6YtLNXKYoACQtjmY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372960-1119523483.jpg.jpg" data-tags="rock, hard rock" role="button">
 Kid Rock - Devil Without a Cause (1998-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/353d95fc-d4a9-45aa-9d7f-2f0a4b911412/1545454230-500.jpg" data-tags="pop punk" role="button">
@@ -126,7 +129,7 @@ P.O.D. - The Fundamental Elements of Southtown (1999-08-24)
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rapcore" role="button">
+<li data-cover="https://img.discogs.com/00JxH-GC78GMdkj_qkb47ZwJ3OE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420449-1364407920-8248.jpeg.jpg" data-tags="rapcore" role="button">
 Crazy Town - The Gift of Game (1999-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/98a300a4-a705-4716-8630-27713f443017/14485832908-500.jpg" data-tags="rap-metal" role="button">
@@ -222,7 +225,7 @@ Taproot - Welcome (2002-09-30)
 <li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
 Saliva - Back Into Your System (2002-11-12)
 </li>
-<li data-cover="https://img.discogs.com/9jd7NIBdN7fhEhA58QJk0XjQ-FY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-853791-1165621180.jpeg.jpg" data-tags="alternative rock, nu metal" role="button">
+<li data-cover="https://img.discogs.com/VcU3dNkwSmv2PuzUX0KXgPHttx8=/fit-in/600x944/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3956878-1350481267-7256.jpeg.jpg" data-tags="alternative rock, nu metal" role="button">
 Crazy Town - Darkhorse (2002-11-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal, nu-metal" role="button">
@@ -252,7 +255,7 @@ Future Leaders of the World - LVL IV (2004-10-05)
 <li data-cover="https://img.discogs.com/jToqEeCgPTGMDrb8sLl4SCMycRQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-765138-1184439787.jpeg.jpg" data-tags="metal, rap, australian, alternative metal, nu metal, rap metal, rap-metal, no-screamo" role="button">
 Full Scale - Full Scale (2005-03-08)
 </li>
-<li data-cover="https://img.discogs.com/nnLcMRGYhUjnanR9vPYwHC3Kyeo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2473297-1368783374-1668.jpeg.jpg" data-tags="nu metal" role="button">
+<li data-cover="https://img.discogs.com/F6aOVv8C-vDYnIl_4GVgzevGdus=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4588605-1435672439-3852.jpeg.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - The Unquestionable Truth (Part 1) (2005-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/da8feb92-7d12-4bab-8c40-6f770cd2fdde/2220731409-500.jpg" data-tags="alternative rock" role="button">
@@ -281,9 +284,6 @@ Zebrahead - Phoenix (2008-07-09)
 </li>
 <li data-cover="https://img.discogs.com/TNY7hpyvi3I9ls-EX7EXpLdX9MA=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1481907-1369062249-5190.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Ill Bill - The Hour Of Reprisal (2008-09-16)
-</li>
-<li data-cover="https://img.discogs.com/NkaY54qOuNqp8mIHY-QNp8ZIA9o=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2861822-1304452223.jpeg.jpg" data-tags="rapcore, nu metal, rap metal, reveille, genuflect" role="button">
-Genuflect - The Shadow Side (2009-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)

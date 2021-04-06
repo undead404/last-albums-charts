@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:48:01.546Z
+date: 2021-04-06T12:11:01.654Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -116,9 +116,6 @@ Nirvana - In Utero (1993-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Vs. (1993-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/557393d4-74ae-4833-8c72-822ed1a10175/3803039786-500.jpg" data-tags="grunge" role="button">
-Nirvana - The Very Best (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4434c0f-4a25-3c88-9138-f4fffa8ddf88/17628103152-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Jar of Flies (1994-01-18)
@@ -299,6 +296,9 @@ Alice in Chains - Black Gives Way to Blue (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
+</li>
+<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
+Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0653ea23-f0e6-4708-b090-d9afcb4ed7c2/23042689021-500.jpg" data-tags="grunge" role="button">
 Soundgarden - Telephantasm (2010-09-23)

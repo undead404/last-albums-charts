@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:38:01.353Z
+date: 2021-04-06T12:30:01.818Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -78,7 +78,7 @@ The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 <li data-cover="http://coverartarchive.org/release/3b2d1c75-5ba2-44e1-8b09-449d893e229a/9699513967-500.jpg" data-tags="80s, symphonic rock, electric light orchestra" role="button">
 Electric Light Orchestra - Time (1981-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
@@ -195,9 +195,6 @@ Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
 <li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
 King Geedorah - Take Me to Your Leader (2003-06-16)
 </li>
-<li data-cover="https://img.discogs.com/ThUdCCIWjcnDuqwzIdkmvJPtBuE=/fit-in/600x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9712809-1485183244-7714.jpeg.jpg" data-tags="rock, classic rock, neil young" role="button">
-Neil Young & Crazy Horse - Greendale (2003-08-18)
-</li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
 </li>
@@ -275,6 +272,9 @@ Pain of Salvation - Scarsick (2007-01-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/2bb1997c-dcb4-4626-97ab-2233b4fb50c8/14774161222-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
+Funeral for a Friend - Tales Don't Tell Themselves (2007-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/80acdf88-f600-4ab6-9775-7e1a724b87f7/15388294239-500.jpg" data-tags="progressive rock" role="button">
 The Dear Hunter - Act II: The Meaning Of, And All Things Regarding Ms. Leading (2007-05-22)

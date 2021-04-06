@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:38:01.455Z
+date: 2021-04-06T12:27:01.429Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -29,6 +29,9 @@ Brian Eno - Ambient 1: Music for Airports (1978)
 </li>
 <li data-cover="https://img.discogs.com/y69Li4KB2GZYffBULeD-Nv1LlF0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231002-1266250803.jpeg.jpg" data-tags="ambient" role="button">
 Brian Eno - Thursday Afternoon (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/edf41191-f9ae-4eeb-9285-adbb1e1080f4/5899686673-500.jpg" data-tags="new age, enigma" role="button">
+Enigma - MCMXC a.D. (1990-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/476d5ee1-266a-45d1-940a-d706663bb3f9/9717211777-500.jpg" data-tags="electronic, ambient" role="button">
 The Orb - The Orb's Adventures Beyond the Ultraworld (1991-04-15)
@@ -77,9 +80,6 @@ Moby - Play (1999-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ágætis byrjun (1999-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd/9767397785-500.jpg" data-tags="chillout, electronic, downtempo, ambient" role="button">
-Peace Orchestra - Peace Orchestra (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cf540c3-fed6-3e22-9b9c-404927874050/2835781208-500.jpg" data-tags="post-rock" role="button">
 Explosions in the Sky - How Strange, Innocence (2000-01-17)
@@ -156,9 +156,6 @@ Air - Talkie Walkie (2004-01-21)
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/a402de73-a281-31ea-bcac-e747ea9ca7cc/21363838332-500.jpg" data-tags="electronic, ambient" role="button">
-Orbital - Blue Album (2004-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cc681229-1e2a-306d-b01c-c6f058f229bf/27655285092-500.jpg" data-tags="post-rock, instrumental" role="button">
 The Album Leaf - In A Safe Place (2004-06-22)
 </li>
@@ -213,7 +210,7 @@ Ulver - Shadows of the Sun (2007-10-01)
 <li data-cover="http://coverartarchive.org/release/715d4a00-2ad5-4882-b1be-24853344315e/2606794745-500.jpg" data-tags="dubstep" role="button">
 Burial - Untrue (2007-11-05)
 </li>
-<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
@@ -305,6 +302,9 @@ Oneohtrix Point Never - Replica (2011-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/36b1e2c4-14f2-4cb4-8aff-ae21f17c7dc5/9518509326-500.jpg" data-tags="ambient, dubstep" role="button">
+Burial - Truant / Rough Sleeper (2012-12-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7e3af8a-ce61-4388-9f68-ff73882203ad/15963196527-500.jpg" data-tags="idm" role="button">
 Jon Hopkins - Immunity (2013-06-03)

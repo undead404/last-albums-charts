@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:53:01.492Z
+date: 2021-04-06T12:36:01.447Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/YZX7t4Ix6JqNxJlqMRpFTi8lDVg=/fit-in/450x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15576050-1613367279-2968.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -240,9 +240,6 @@ Darius Rucker - Learn To Live (2008-09-16)
 <li data-cover="https://img.discogs.com/YZX7t4Ix6JqNxJlqMRpFTi8lDVg=/fit-in/450x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15576050-1613367279-2968.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Fearless (2008-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
-Neko Case - Middle Cyclone (2009-02-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/4eb37ed2-0ada-4f38-926b-b7aee740220d/3743132785-500.jpg" data-tags="country" role="button">
 Eric Church - Carolina (2009-03-24)
 </li>
@@ -269,6 +266,9 @@ Johnny Cash - American VI: Ain't No Grave (2010-02-22)
 </li>
 <li data-cover="https://img.discogs.com/n57UBeTOXTMdmtzPnYbayghIguI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2122525-1266174670.jpeg.jpg" data-tags="country" role="button">
 Lady Antebellum - Need You Now (2010-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/33df508c-d3d1-4103-857d-4d146d1efe8d/2865859583-500.jpg" data-tags="country, sugarland" role="button">
+Sugarland - Stuck Like Glue (2010-07-23)
 </li>
 <li data-cover="https://img.discogs.com/3yy887BvfPEfE5k3RHSh3QoJmsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11763442-1521967500-3255.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Speak Now (2010-10-25)
