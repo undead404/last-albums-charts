@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T05:14:01.370Z
+date: 2021-04-06T09:10:01.476Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -33,14 +33,8 @@ Bryan Adams - Reckless (1984-11-05)
 <li data-cover="http://coverartarchive.org/release/4c07f596-4963-33df-adb1-55d01dab800d/15456874551-500.jpg" data-tags="80s" role="button">
 Leonard Cohen - Various Positions (1984-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c20f8cc-7b31-32de-8c44-2d28d1c07b9f/12662111311-500.jpg" data-tags="leonard cohen, 80s, singer-songwriter" role="button">
-Leonard Cohen - I'm Your Man (1988-02-21)
-</li>
 <li data-cover="https://img.discogs.com/kEM4w-q5ZI5j_NB4Ibtu4hLE-oc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3150823-1318106448.jpeg.jpg" data-tags="rock, canadian" role="button">
 Barenaked Ladies - Gordon (1992-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cebccf5-04fe-35dd-b87f-021ae43ba0c0/17846613252-500.jpg" data-tags="leonard cohen, 90s" role="button">
-Leonard Cohen - The Future (1992-11-24)
 </li>
 <li data-cover="https://img.discogs.com/XXSfeh_wEGxQXFb4uUG3AgDqOQA=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1135997-1194956439.jpeg.jpg" data-tags="canadian, 90s" role="button">
 Snow - 12 Inches of Snow (1993-01-19)
@@ -69,11 +63,11 @@ Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/2af92ddc-2457-3ccb-ba1c-a8ac103c1b8d/6079267084-500.jpg" data-tags="rock, female vocalists" role="button">
+Alanis Morissette - Under Rug Swept (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
 Broken Social Scene - Feel Good Lost (2001-03-06)
-</li>
-<li data-cover="https://img.discogs.com/RWtrCfF6nCrrt3rNcF1ivzYF7W0=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289844-1327093892.jpeg.jpg" data-tags="canadian, 00s" role="button">
-Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)
@@ -159,6 +153,9 @@ Wolf Parade - Apologies to the Queen Mary (2005-09-27)
 <li data-cover="https://img.discogs.com/ira-32f2pdIu0VH1_fzBSr6wiP4=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726446-1473984149-8606.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Metric - Live It Out (2005-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/57ed610e-fa13-41c8-a274-5a438cdaa304/18292512936-500.jpg" data-tags="indie, singer-songwriter, canadian, collett" role="button">
+Jason Collett - Idols of Exile (2006-02-07)
+</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
 </li>
@@ -180,8 +177,8 @@ Three Days Grace - One-X (2006-06-13)
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
 Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/e78cf01f-333e-4211-ae80-a41748961d3f/4812141654-500.jpg" data-tags="singer-songwriter, canadian" role="button">
-Patrick Watson - Close To Paradise (2006-09-25)
+<li data-cover="https://img.discogs.com/y1pYVw6lZ04_XZutemNiYkglQEI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9587631-1483307473-8708.jpeg.jpg" data-tags="canadian" role="button">
+Apostle of Hustle - National Anthem of Nowhere (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/53418c3e-466b-4108-b074-563250282ba4/15336772745-500.jpg" data-tags="alternative, canadian, heavy rotation, alternative indie, fucking fantastic album, the greatest album" role="button">
 Mother Mother - Touch Up (2007-02-27)
@@ -239,6 +236,9 @@ The Rural Alberta Advantage - Hometowns (2008-11-11)
 </li>
 <li data-cover="https://img.discogs.com/GJfy06J2LGkCqqKGNZO7OQxor3g=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657826-1235012805.jpeg.jpg" data-tags="hip-hop" role="button">
 K'naan - Troubadour (2009-02-24)
+</li>
+<li data-cover="https://img.discogs.com/6vNWvebpOi0t-kaUCyMGPv5P_wU=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1692447-1237299375.jpeg.jpg" data-tags="indie rock, canadian" role="button">
+Handsome Furs - Face Control (2009-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
 Metric - Fantasies (2009-03-31)

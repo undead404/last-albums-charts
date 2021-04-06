@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:24:06.884Z
+date: 2021-04-06T09:07:02.309Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Awake (2009-08-24)](http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg "Skillet - Awake (2009-08-24)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/5d8aa5dd-b518-49e4-a074-473d18a3a691/15278425909-500.jpg" data-tags="gospel, rock, christian rock, bob dylan, christian" role="button">
-Bob Dylan - Slow Train Coming (1979-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/68f06eb3-6929-4dae-8a58-be921cb56805/9682843009-500.jpg" data-tags="rap, 90s, new jack swing, golden age hip hop" role="button">
 MC Hammer - Please Hammer Don't Hurt 'Em (1990-01-30)
 </li>
@@ -32,6 +29,9 @@ Jars of Clay - Jars of Clay (1995-10-24)
 </li>
 <li data-cover="https://img.discogs.com/Dqwqcs8xc25b4YSU2kZS9GmKamo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557815-1181586260.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - Jesus Freak (1995-11-21)
+</li>
+<li data-cover="https://img.discogs.com/6l-EtTTWaDrWkUIAyEKfiHq4i6A=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1564431-1590019803-6829.jpeg.jpg" data-tags="christian, christian rock, contemporary christian" role="button">
+Newsboys - Take Me To Your Leader (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e6eae39-faee-4787-af72-4bd9b61c7724/17811076744-500.jpg" data-tags="christian rock" role="button">
 Skillet - Skillet (1996-10-29)
@@ -104,9 +104,6 @@ Kutless - Sea of Faces (2004-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/73159ac5-152a-436d-97a5-306a684ec6aa/9419903972-500.jpg" data-tags="christian, christian rock" role="button">
 MercyMe - Undone (2004-04-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
-The Calling - Two (2004-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/88992508-e1b2-44c9-910f-3c3b1ce7fd67/24219569474-500.jpg" data-tags="christian rock" role="button">
 Sanctus Real - Fight The Tide (2004-06-15)
@@ -221,6 +218,9 @@ MercyMe - All That Is Within Me (2007-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/94da1f64-ef0a-41fd-a0ae-bfdf2f83a935/19390174685-500.jpg" data-tags="metalcore, christian metal" role="button">
 Demon Hunter - Storm the Gates of Hell (2007-11-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2d333dd-bccd-4b87-8d24-e884fdc954ea/23547812365-500.jpg" data-tags="80s, christian, solo album" role="button">
+Jon Foreman - Fall (2007-11-20)
 </li>
 <li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
 The Lonely Island - Jizz In My Pants (2008)

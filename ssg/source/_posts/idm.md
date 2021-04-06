@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:25:01.803Z
+date: 2021-04-06T09:08:01.502Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - Music Has the Right to Children (1998-04-20)](https://img.discogs.com/cyPiEmQuKpLEFJF5QLJbqs3lszI=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817322-1175615429.jpeg.jpg "Boards of Canada - Music Has the Right to Children (1998-04-20)")
@@ -99,9 +99,6 @@ Mr. Oizo - Analog Worms Attack (1999-10-19)
 <li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
 Amon Tobin - Supermodified (2000-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a749354-b840-4f1e-b05b-fb83799712ff/3146287748-500.jpg" data-tags="idm" role="button">
-Arovane - Tides (2000-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
 </li>
@@ -165,8 +162,14 @@ Ellen Allien & Apparat - Orchestra of Bubbles (2006-01)
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
 The Knife - Silent Shout (2006-02-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/588c6bc0-7428-4753-8f6d-8e7a9320077a/2226497555-500.jpg" data-tags="idm, electronic" role="button">
+AFX - Chosen Lords (2006-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/760a9ad2-1468-373c-9e02-5748a34f89d1/8211061706-500.jpg" data-tags="electronic" role="button">
 Boards of Canada - Trans Canada Highway (2006-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/be3ee5d2-98ff-46af-bf7f-b5aafc2dbcee/5303829713-500.jpg" data-tags="idm, electronic" role="button">
+Clark - Body Riddle (2006-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4f4cd9a-a019-4bc8-8ced-2cbc10fac174/6263849322-500.jpg" data-tags="downtempo, instrumental hip-hop, electronic, idm, flipflow" role="button">
 Flying Lotus - 1983 (2006-10-03)
@@ -213,7 +216,7 @@ The Field - Yesterday and Today (2009-05-18)
 <li data-cover="http://coverartarchive.org/release/d1b46266-0c14-4e82-856a-4ce9e900fa06/23064993362-500.jpg" data-tags="idm, glitch-hop, electronic, glitch" role="button">
 Nosaj Thing - Drift (2009-05-26)
 </li>
-<li data-cover="https://img.discogs.com/JhRuHIeV-Ggedh9wGYoRTiFLSHc=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818454-1517991354-4223.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
+<li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a509a88-2d08-39a8-a6b6-aec83ead870b/17390032491-500.jpg" data-tags="experimental, idm, drum and bass" role="button">
@@ -230,9 +233,6 @@ Four Tet - There Is Love in You (2010-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c0cb4a3-0233-43de-9b81-8afe0f682b8b/16337903830-500.jpg" data-tags="electronic, techno, minimal, minimal techno, rough trade" role="button">
 Pantha du Prince - Black Noise (2010-02-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm" role="button">
-Autechre - Oversteps (2010-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7369257e-2346-4fe6-8810-c92c409d6671/2454875002-500.jpg" data-tags="idm" role="button">
 Flying Lotus - Cosmogramma (2010-04-21)

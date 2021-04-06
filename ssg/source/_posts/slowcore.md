@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T00:31:01.393Z
+date: 2021-04-06T09:30:01.446Z
 title: "slowcore: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -80,9 +80,6 @@ Low - Long Division (1995-05-23)
 </li>
 <li data-cover="https://img.discogs.com/76f2Sz1dBaWYLvDuDsOz9VmsdWM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-249138-1250931247.jpeg.jpg" data-tags="slowcore" role="button">
 Spain - The Blue Moods of Spain (1995-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/08972b3b-a5ce-3e51-9085-8a12f2753879/25713863330-500.jpg" data-tags="folk" role="button">
-Mojave 3 - Ask Me Tomorrow (1995-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d843d873-faa9-4bbb-a080-df99935d46a6/6010071059-500.jpg" data-tags="female vocalists, indie, alternative" role="button">
 Cat Power - Myra Lee (1996-03-04)
@@ -165,6 +162,9 @@ My Morning Jacket - At Dawn (2001-04-05)
 <li data-cover="http://coverartarchive.org/release/e1fddb1f-4387-445b-b5de-e92095d88dc8/26223664831-500.jpg" data-tags="slowcore, 4ad, indie rock, slow alternative" role="button">
 Red House Painters - Old Ramon (2001-04-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
+Elbow - Asleep in the Back (2001-05-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/49afde89-898e-42ad-a5bd-34c488b7b5d9/7786651414-500.jpg" data-tags="indie" role="button">
 The American Analog Set - Know by Heart (2001-09-04)
 </li>
@@ -198,7 +198,7 @@ Saves the Day - In Reverie (2003-09-16)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -216,7 +216,7 @@ Great Lake Swimmers - Bodies And Minds (2005-04-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The American Analog Set - Set Free (2005-09-05)
 </li>
-<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="https://img.discogs.com/zIJ7sGWerdVlZ6ooYg7_ZAvSzHA=/fit-in/591x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12232842-1531053986-3326.jpeg.jpg" data-tags="slowcore" role="button">

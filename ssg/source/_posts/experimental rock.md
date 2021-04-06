@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:52:01.366Z
+date: 2021-04-06T09:28:01.370Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -101,9 +101,6 @@ Primus - Tales From The Punchbowl (1995-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e3e2b8a-adfb-3690-b0c3-03b78205049d/1958490670-500.jpg" data-tags="post-rock" role="button">
-Swans - Soundtracks For The Blind (1996-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)
@@ -264,7 +261,7 @@ Circa Survive - Blue Sky Noise (2010-04-20)
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
-<li data-cover="https://img.discogs.com/Gkg0AEjfHhMQWW6H1vqt0WvFH8k=/fit-in/600x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315642-1209030156.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
+<li data-cover="https://img.discogs.com/OIhCyHMoOgvc2Lvx-nKK6HLaItA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2465284-1288473096.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3468ed3-ebae-475b-932e-5578336ce72b/1944402956-500.jpg" data-tags="post-rock, experimental" role="button">
@@ -308,6 +305,9 @@ Circa Survive - Violent Waves (2012-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/46e3ced9-47b3-4bdb-9515-9ab3c655a8be/1932609966-500.jpg" data-tags="neo-psychedelia, burrito-core, experimental" role="button">
 Animal Collective - Centipede Hz (2012-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
+Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="https://img.discogs.com/LDZ4xPzGgrzq0VCslP4dBxvdrqE=/fit-in/598x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4298618-1361919180-9465.jpeg.jpg" data-tags="electronic" role="button">
 Atoms for Peace - AMOK (2013-02-25)

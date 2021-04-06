@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:53:01.473Z
+date: 2021-04-06T09:38:01.425Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Bob Dylan - Highway 61 Revisited (1995)](https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg "Bob Dylan - Highway 61 Revisited (1995)")
@@ -72,6 +72,9 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/e42901c5-74f0-3055-9c70-54cc5fb2516c/26463389609-500.jpg" data-tags="classic rock, folk rock" role="button">
+Grateful Dead - Workingman's Dead (1970-06-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin III (1970-10-05)
 </li>
@@ -93,7 +96,7 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/c23de1c0-9fe7-4d49-8eef-053f02bb5f97/27361541152-500.jpg" data-tags="60s, classic rock" role="button">
 Buffalo Springfield - Buffalo Springfield (1973-11-12)
 </li>
-<li data-cover="https://img.discogs.com/r-MIHpJTdzNf_7CGO5ATqLzzbXo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2935178-1606097219-6523.jpeg.jpg" data-tags="70s, folk, folk rock, classic rock, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/YUVBxPKmnZ18tIHlDl07gf8_I88=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3543772-1334635107.jpeg.jpg" data-tags="70s, folk, folk rock, classic rock, singer-songwriter" role="button">
 Bob Dylan - Dylan (1973-11-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
@@ -150,7 +153,7 @@ Iron & Wine - Our Endless Numbered Days (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
@@ -162,7 +165,7 @@ Fleet Foxes - Fleet Foxes (2006)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/48co00Mgnt-oJ4DG0aQbKDS1Rsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8536683-1465209501-6206.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
+<li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
 </li>
 <li data-cover="https://img.discogs.com/tvXhSCSDJAEidRrxR-cGSWCRJqc=/fit-in/300x271/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767443-1157089908.jpeg.jpg" data-tags="indie, folk, singer-songwriter, folk rock" role="button">
@@ -278,9 +281,6 @@ The Lumineers - The Lumineers (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
 Train - California 37 (2012-04-13)
-</li>
-<li data-cover="https://img.discogs.com/CgHc93ICQl2tOGG2guJYiHcNFUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074743-1542287980-8027.jpeg.jpg" data-tags="bob dylan, folk rock" role="button">
-Bob Dylan - Tempest (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)

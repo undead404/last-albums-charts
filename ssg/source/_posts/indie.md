@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:52:01.670Z
+date: 2021-04-06T09:17:01.431Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")

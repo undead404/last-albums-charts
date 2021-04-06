@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T16:18:01.313Z
+date: 2021-04-06T08:50:01.418Z
 title: "brash: 100 albums you must listen to before you die"
 ---
 ![The Clash - Hits Back (2013-08-26)](http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg "The Clash - Hits Back (2013-08-26)")
@@ -57,7 +57,7 @@ Billy Squier - Don't Say No (1981)
 <li data-cover="https://img.discogs.com/bzOcK7gS9Wk_DPbrbwLf4sQJc7U=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1710728-1260374538.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
 Stiff Little Fingers - Go for It (1981-04-17)
 </li>
-<li data-cover="https://img.discogs.com/ny_zKfTxim7DV90AWC0djl6EGmc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2749521-1299315553.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
+<li data-cover="https://img.discogs.com/i2hjF3qQugwjM-CCzbXvKILk9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774793-1166295303.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
 Richard & Linda Thompson - Shoot Out the Lights (1982)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="80s, r&b, post-disco" role="button">
@@ -87,16 +87,19 @@ Dead Moon - In the Graveyard (1988)
 <li data-cover="http://coverartarchive.org/release/44eb139f-abd1-4c92-8b2d-29b416c0315b/2179533989-500.jpg" data-tags="golden age hip hop" role="button">
 Slick Rick - The Great Adventures of Slick Rick (1988)
 </li>
-<li data-cover="https://img.discogs.com/WTFOmD885u-4nCG6bZMtFvDffmk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5162555-1443447164-6324.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
+<li data-cover="https://img.discogs.com/FKTGAQvwr4FJf0yvNyk0VOsbtX8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-808145-1357517035-3919.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
 L.A. Guns - L.A. Guns (1988-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/245c9588-b4f8-33df-98f4-4b29b3775916/11571156452-500.jpg" data-tags="hard rock, 80s" role="button">
 Living Colour - Vivid (1988-09-18)
 </li>
-<li data-cover="https://img.discogs.com/bMQZZ6RfG-4SrQU2Mpmy0cjU9NI=/fit-in/600x945/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-589836-1464200717-8050.jpeg.jpg" data-tags="west coast rap, alternative hip hop, golden age hip hop, hip hop" role="button">
+<li data-cover="http://coverartarchive.org/release/28891417-ec89-31df-9b4f-181f04c915be/9518330602-500.jpg" data-tags="hip-hop, east coast rap" role="button">
+Biz Markie - The Biz Never Sleeps (1989-10-10)
+</li>
+<li data-cover="https://img.discogs.com/ONiXFykEvGzimEVKa81GZgUfR1U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-387597-1445700059-9212.jpeg.jpg" data-tags="west coast rap, alternative hip hop, golden age hip hop, hip hop" role="button">
 Digital Underground - Sex Packets (1990)
 </li>
-<li data-cover="https://img.discogs.com/2_Q9T34u4H9p2-w4pl0syJNUY40=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11179291-1511329170-2821.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/uVN8iytnTNWlfeqgvdpldiz2954=/fit-in/599x941/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8267521-1458306048-2645.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Whodini - Greatest Hits (1990-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/83e57502-031c-4d0a-a659-7ebb1a134da6/2828195326-500.jpg" data-tags="classic rock, rock, 60s, british, blues" role="button">
@@ -111,10 +114,7 @@ Geto Boys - We Can't Be Stopped (1991-07-01)
 <li data-cover="http://coverartarchive.org/release/4787bb54-a53f-4a0a-b80e-5df0b44e271f/4765095514-500.jpg" data-tags="east coast hip hop, rap" role="button">
 Naughty By Nature - Naughty By Nature (1991-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c6b376f-0357-4683-a1d8-2a5df30f0ad0/5555186081-500.jpg" data-tags="soul, funk" role="button">
-James Brown - 20 All Time Greatest Hits! (1991-10-22)
-</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/162722db579554db812b537fc8fbe8021fb40203/images/spacer.gif" data-tags="hip-hop, rap" role="button">
 Das EFX - Dead Serious (1992-04-07)
 </li>
 <li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
@@ -144,7 +144,7 @@ Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
 <li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
 311 - Grassroots (1994-07-12)
 </li>
-<li data-cover="https://img.discogs.com/CVZUmcAnV1QFixSx2Gyb4aAvRyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3032954-1400790839-1761.jpeg.jpg" data-tags="rap, hip-hop" role="button">
+<li data-cover="https://img.discogs.com/Ep2WBbInbC2bG8xoeU1wQAib4BE=/fit-in/600x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9271053-1508447984-8509.jpeg.jpg" data-tags="rap, hip-hop" role="button">
 Busta Rhymes - The Coming (1996-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c15b933d-04b1-46f5-ae32-2eeffebd652a/28714176915-500.jpg" data-tags="punk" role="button">
@@ -186,6 +186,9 @@ Destroyer - This Night (2002-10-07)
 <li data-cover="http://coverartarchive.org/release/6a9eed90-52b8-3b50-a04b-a7f0370ca32c/23646585321-500.jpg" data-tags="rap, hip-hop" role="button">
 Missy Elliott - Under Construction (2002-11-11)
 </li>
+<li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
+Nas - God's Son (2002-12-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/20480e5c-369a-442f-b39f-9c14a83a4cdf/3798919747-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Gang Starr - The Ownerz (2003-06-24)
 </li>
@@ -219,7 +222,7 @@ The Replacements - Don't You Know Who I Think I Was?: The Best Of The Replacemen
 <li data-cover="http://coverartarchive.org/release/8ef85275-d18a-43c5-85c6-462c80efd7d9/17201611369-500.jpg" data-tags="hip-hop, urban, pop, rap, dance" role="button">
 Missy Elliott - Respect M.E. (2006-09-04)
 </li>
-<li data-cover="https://img.discogs.com/UjouSGXxKlP4g4Hum9jK-pooyXw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1596006-1297856519.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
+<li data-cover="https://img.discogs.com/-XnFkV2hRHI2Iu3E3Kb1jH9Y0eM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845159-1269046384.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
 Clipse - Hell Hath No Fury (2006-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/430447b5-e207-4637-90c4-d7c8cccdb3f9/7965367982-500.jpg" data-tags="blues, energetic, crunchy, intense, aggressive, fiery, confrontational, dramatic, raucous, drinking, punk blues, road trip, rebellious, rollicking, gritty, rowdy, volatile, gutsy, lively, visceral, ramshackle, messy, boisterous, brash, guys night out, street-smart, hanging out, rambunctious, reckless, soundweave, dirtiest wall of surround sound ever" role="button">
@@ -227,9 +230,6 @@ Left Lane Cruiser - Bring Yo' Ass to the Table (2008-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
 The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1e4028a-cfc4-4ce8-ad70-2105059b4ea7/4436431630-500.jpg" data-tags="hip-hop, rap" role="button">
-GZA/Genius - Pro Tools (2008-08-19)
 </li>
 <li data-cover="https://img.discogs.com/7N8DM730_yMdGlGmCL7xI3tRUBc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464947-1221766171.jpeg.jpg" data-tags="rap" role="button">
 The Streets - Everything Is Borrowed (2008-09-15)

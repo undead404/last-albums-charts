@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:02:01.325Z
+date: 2021-04-06T09:21:01.387Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -71,6 +71,9 @@ Madrugada - Industrial Silence (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/9601f688-674e-3908-acdf-820214dd9a46/4819640448-500.jpg" data-tags="norwegian, approved, to check out, milestones, sleepless, favs of nocci, decent, gothcore, gothic-darkwave, handleliste, waahh i love it, nice and dark, coming summer melancholy, darksky fm" role="button">
 Seigmen - Monument (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/c5b9b486-65c7-41d4-82e1-3fe6a8fac5ef/8645595591-500.jpg" data-tags="lene marlin, pop" role="button">
+Lene Marlin - Playing My Game (1999-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1285710-bcd8-47c5-9ce3-d3df1f57a7d1/12016458800-500.jpg" data-tags="pop, m2m" role="button">
 M2M - Shades of Purple (2000-02-03)
@@ -207,14 +210,11 @@ Anja Garbarek - Briefly Shaking (2005-09-26)
 <li data-cover="http://coverartarchive.org/release/d87a354a-b0eb-44cc-bc09-cc966eb86df2/20833625751-500.jpg" data-tags="pop" role="button">
 a-ha - Analogue (2005-10-31)
 </li>
-<li data-cover="https://img.discogs.com/gTjcrtsEnKBE2Zf0MRXul-XVkZY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2722132-1298100377.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/87L0U85HDJCJXteeVhKbsmje318=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-724168-1220105117.jpeg.jpg" data-tags="pop" role="button">
 Maria Mena - Apparently Unaffected (2005-11-14)
 </li>
 <li data-cover="https://img.discogs.com/F6ELpm4D0TSO_HlumF4uup4lhmk=/fit-in/594x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-700964-1268167968.jpeg.jpg" data-tags="downtempo" role="button">
 Röyksopp - Beautiful Day Without You (2006-03)
-</li>
-<li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
-Kate Havnevik - Melankton (2006-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/28d51e3f-b12c-4948-b35b-c1f5aae76ed2/25531712079-500.jpg" data-tags="black metal" role="button">
 Satyricon - Now, Diabolical (2006-04-14)
