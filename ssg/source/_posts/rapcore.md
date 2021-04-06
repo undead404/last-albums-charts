@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T01:07:06.924Z
+date: 2021-04-06T04:20:01.394Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -41,9 +41,6 @@ P.O.D. - Snuff the Punk (1994-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4592d54c-c3d4-4128-81b3-9acc1377d35a/10430050533-500.jpg" data-tags="rapcore" role="button">
 Dog Eat Dog - All Boro Kings (1994-05-24)
-</li>
-<li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">
-Clawfinger - Use Your Brain (1995-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff040c58-bc69-4fc6-a6b1-34da0d16dd0e/7231670487-500.jpg" data-tags="crossover, rapcore, nu metal, rap metal, litza" role="button">
 Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
@@ -266,6 +263,9 @@ Deez Nuts - Stay True (2008-10-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, saliva" role="button">
 Saliva - Cinco Diablo (2008-12-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac9ccb92-586b-4b57-97fa-d653a7ea5be3/22983989074-500.jpg" data-tags="hip-hop" role="button">
+Noize MC - OST Розыгрыш (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/53417254-fc89-4bd4-9b2b-10830617f628/15185164247-500.jpg" data-tags="rap, la coka nostra, rock, underground hip-hop, house of pain" role="button">
 La Coka Nostra - A Brand You Can Trust (2009-07-14)

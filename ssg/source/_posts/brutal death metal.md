@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:58:01.320Z
+date: 2021-04-06T03:55:01.358Z
 title: "brutal death metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -66,6 +66,9 @@ Uncle Kracker - Follow Me (2000)
 <li data-cover="https://img.discogs.com/Tp-D7LZY9JT4eU3cxIDpyQGpw9Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7293017-1438181127-5042.jpeg.jpg" data-tags="death metal, brutal death metal" role="button">
 Dying Fetus - Grotesque Impalement (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/cf54eea5-b411-42e0-9a74-d8c140ef34e3/7409943029-500.jpg" data-tags="pifou station" role="button">
+Uncle Kracker - Double Wide (2000-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc155c4e-0747-44c8-8d16-3ba11759a864/9692621053-500.jpg" data-tags="death metal" role="button">
 Nile - Black Seeds of Vengeance (2000-09-05)
 </li>
@@ -86,9 +89,6 @@ Uncle Kracker - No Stranger to Shame (2002-09-24)
 </li>
 <li data-cover="https://img.discogs.com/Hj6SqOwU4svfM1D0YtDtOzLgmtk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877031-1168212023.jpeg.jpg" data-tags="death metal" role="button">
 Vital Remains - Dechristianize (2003-08-22)
-</li>
-<li data-cover="https://img.discogs.com/kRTwgg6_Rxvi2OX0zN3C84_0IFo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1908255-1366974603-3379.jpeg.jpg" data-tags="death metal" role="button">
-Deicide - Scars Of The Crucifix (2004-02-23)
 </li>
 <li data-cover="https://img.discogs.com/72wAZhK1q-JdzsBdsvN6bOmBNw8=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5422392-1463330353-9026.jpeg.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - The Wretched Spawn (2004-02-24)
@@ -264,7 +264,7 @@ Attila - Outlawed (2011-08-16)
 <li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
 </li>
-<li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
+<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
@@ -306,7 +306,7 @@ Attila - About That Life (2013-06-25)
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
-<li data-cover="https://img.discogs.com/2JCXbfqFDWFav56WJUrklnssQDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949963-1495276980-6815.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/479a71e8-54e5-4d6b-a728-c16790088282/9929378348-500.jpg" data-tags="post-hardcore" role="button">

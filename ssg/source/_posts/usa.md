@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:57:01.421Z
+date: 2021-04-06T04:28:01.380Z
 title: "usa: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -32,9 +32,6 @@ Bob Dylan - Desire (1976-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
-</li>
-<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">
-Ray Charles - Ray Charles (1987)
 </li>
 <li data-cover="https://img.discogs.com/RpS2IyO3bvCmc5pKPmtFwkQyvTk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539880-1367879495-2791.jpeg.jpg" data-tags="folk" role="button">
 Tracy Chapman - Tracy Chapman (1988-04-01)
@@ -180,7 +177,7 @@ John Frusciante - The Empyrean (2009-01-14)
 <li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
 Matt & Kim - Grand (2009-01-20)
 </li>
-<li data-cover="https://img.discogs.com/QATndLAJ0CgPpLsFsJAb1ZBL3no=/fit-in/484x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1715921-1305867861.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
 MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/p5ooF-LwxzLieYYcqjoGEmuP8ho=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5236928-1388374251-4979.jpeg.jpg" data-tags="indie, usa, memories, americana, alt-country, 00s, luisterpaal, new album, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
@@ -305,6 +302,9 @@ John Mayer - Paradise Valley (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e32719b7-0528-479c-992e-1b5ec4ebbb4a/9148397078-500.jpg" data-tags="pop" role="button">
 Ariana Grande - Yours Truly (2013-08-30)
+</li>
+<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">
+Ray Charles - Ray Charles (2014)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)

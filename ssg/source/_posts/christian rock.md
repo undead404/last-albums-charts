@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:51:01.478Z
+date: 2021-04-06T04:24:06.884Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Awake (2009-08-24)](http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg "Skillet - Awake (2009-08-24)")
@@ -33,9 +33,6 @@ Jars of Clay - Jars of Clay (1995-10-24)
 <li data-cover="https://img.discogs.com/Dqwqcs8xc25b4YSU2kZS9GmKamo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557815-1181586260.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - Jesus Freak (1995-11-21)
 </li>
-<li data-cover="https://img.discogs.com/6l-EtTTWaDrWkUIAyEKfiHq4i6A=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1564431-1590019803-6829.jpeg.jpg" data-tags="christian, christian rock, contemporary christian" role="button">
-Newsboys - Take Me To Your Leader (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e6eae39-faee-4787-af72-4bd9b61c7724/17811076744-500.jpg" data-tags="christian rock" role="button">
 Skillet - Skillet (1996-10-29)
 </li>
@@ -59,6 +56,9 @@ Skillet - Alien Youth (2001)
 </li>
 <li data-cover="https://img.discogs.com/n-Z-6D4PDBr4UKPSLmbsP1Uujdw=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2180119-1268334982.jpeg.jpg" data-tags="christian rock" role="button">
 Starfield - Starfield (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/6626dd4a-9967-452d-910f-ec37be4a3d58/19387998661-500.jpg" data-tags="christian rock" role="button">
+Third Day - Come Together (2001-11-06)
 </li>
 <li data-cover="https://img.discogs.com/4iVcdo_rEcq6zrSE5BjHjlyH1qQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1593962-1586191495-6359.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 12 Stones - 12 Stones (2002-04-23)
@@ -216,11 +216,11 @@ Phil Wickham - Cannons (2007-10-02)
 <li data-cover="http://coverartarchive.org/release/fc0b0811-de22-44fd-8628-48c5351c7e1a/4786441908-500.jpg" data-tags="alternative rock, christian rock" role="button">
 Falling Up - Captiva (2007-10-02)
 </li>
+<li data-cover="https://img.discogs.com/DRrlwV0JifXY4WEcEJgEmT2uMMo=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6024039-1409083474-2124.jpeg.jpg" data-tags="christian, christian rock, gospel, contemporary christian, christian contemporary, religious, cross2life, contemporary praise and worship" role="button">
+MercyMe - All That Is Within Me (2007-10-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/94da1f64-ef0a-41fd-a0ae-bfdf2f83a935/19390174685-500.jpg" data-tags="metalcore, christian metal" role="button">
 Demon Hunter - Storm the Gates of Hell (2007-11-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2d333dd-bccd-4b87-8d24-e884fdc954ea/23547812365-500.jpg" data-tags="80s, christian, solo album" role="button">
-Jon Foreman - Fall (2007-11-20)
 </li>
 <li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
 The Lonely Island - Jizz In My Pants (2008)

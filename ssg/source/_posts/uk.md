@@ -1,11 +1,11 @@
 ---
-date: 2021-04-05T19:52:01.372Z
+date: 2021-04-06T03:53:01.382Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">Jungle - Jungle (1969)</li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">Belle and Sebastian - Tigermilk (1996-06-06)</li>
+<li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">Bee Gees - Greatest (1979-10)</li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">Radiohead - Amnesiac (2001-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">Newton Faulkner - Hand Built By Robots (2007-07-30)</li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">Foals - Antidotes (2008-03-23)</li>
@@ -63,7 +63,7 @@ Elton John - Rocket Man (1994)
 <li data-cover="http://coverartarchive.org/release/13c58395-5df0-4db3-8513-5c2d87bfbd7c/10359692033-500.jpg" data-tags="alternative rock, rock, radiohead" role="button">
 Radiohead - My Iron Lung (1994-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, 1996, indie pop" role="button">
+<li data-cover="http://coverartarchive.org/release/dbd2e4d7-ad8f-3b53-9184-9c1554fb3b09/18848392355-500.jpg" data-tags="indie, indie pop" role="button">
 Belle and Sebastian - Tigermilk (1996-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
@@ -71,9 +71,6 @@ Lamb - Lamb (1996-09-30)
 </li>
 <li data-cover="https://img.discogs.com/8EMQHLE5h6CzSausqSsp7PjbqCc=/fit-in/600x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9475836-1513592451-2145.jpeg.jpg" data-tags="progressive rock, uk, symphonic rock, 90s, compilation, laptop, english group, t m blues" role="button">
 The Moody Blues - The Very Best of The Moody Blues (1996-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">
-Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/79f2fb40-1e55-4a56-b749-89a9c73d8cb6/19177871704-500.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Dig Your Own Hole (1997-03-25)
@@ -278,6 +275,9 @@ Peace - EP Delicious (2012-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
+</li>
+<li data-cover="https://img.discogs.com/b1v4BAUy18Khnvd-P_C17krvQX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9780833-1487975534-7197.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
+FKA twigs - EP1 (2012-12-04)
 </li>
 <li data-cover="https://img.discogs.com/cQoovfK_D3KJkLdj0TUKQzhspPI=/fit-in/405x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4640643-1371215721-2104.jpeg.jpg" data-tags="electronic, rock, uk, synthpop, male vocalists, electro-rock, 2010s, mute records, 2013 releases" role="button">
 Depeche Mode - Heaven (2013-01-31)

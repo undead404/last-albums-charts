@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:10:01.368Z
+date: 2021-04-06T04:19:01.358Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -27,13 +27,13 @@ Bob Dylan - New Morning (1970-10-21)
 <li data-cover="http://coverartarchive.org/release/5d8aa5dd-b518-49e4-a074-473d18a3a691/15278425909-500.jpg" data-tags="gospel, rock, christian rock, bob dylan, christian" role="button">
 Bob Dylan - Slow Train Coming (1979-08-20)
 </li>
-<li data-cover="https://img.discogs.com/3ies72jDlfQNFDHEBoTxRKW6xHI=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3711536-1341513339-4771.jpeg.jpg" data-tags="christian, christian rock" role="button">
+<li data-cover="https://img.discogs.com/mpe3E7LXu6m3UwIUpsbV-LZ53vc=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2603096-1292697581.jpeg.jpg" data-tags="christian, christian rock" role="button">
 Jars of Clay - Jars of Clay (1995-10-24)
 </li>
 <li data-cover="https://img.discogs.com/Dqwqcs8xc25b4YSU2kZS9GmKamo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557815-1181586260.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - Jesus Freak (1995-11-21)
 </li>
-<li data-cover="https://img.discogs.com/dgHF7tVmqV2wDBNa2ln-jpjWP1k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-718371-1582686875-8140.jpeg.jpg" data-tags="christian" role="button">
+<li data-cover="https://img.discogs.com/2xIDb6k7VziS9T8IMom0TvRhY-w=/fit-in/471x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2874405-1387157216-9289.jpeg.jpg" data-tags="christian" role="button">
 Jars of Clay - Much Afraid (1997-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cbd9b78-2e57-4b3b-8d01-f768e4a9785c/11228936512-500.jpg" data-tags="pop" role="button">
@@ -87,7 +87,7 @@ Casting Crowns - Casting Crowns (2003-09-30)
 <li data-cover="http://coverartarchive.org/release/6281f0d7-1aa6-43b1-abd9-ee0ca999fb26/2220888510-500.jpg" data-tags="christian rock" role="button">
 Skillet - Collide (2003-11-18)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
@@ -155,6 +155,9 @@ Sleeping at Last - Keep No Score (2006-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/e60d732d-7ed9-4663-9ebd-5761f8857e9f/9062724912-500.jpg" data-tags="christian, contemporary christian" role="button">
+Chris Tomlin - See The Morning (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Skillet - Comatose (2006-10-03)
@@ -302,9 +305,6 @@ Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="https://img.discogs.com/3nCzyviiL87c9IgTi3hhQDUpP2g=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930069-1592203831-1191.jpeg.jpg" data-tags="electronica, pop, dubstep, synthpop, lights, siberia" role="button">
 Lights - Siberia (2011-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/249fff88-c722-492c-9c2c-5057fde75de2/6779333944-500.jpg" data-tags="metalcore, christian, melodic metalcore" role="button">
-Demon Hunter - True Defiance (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)

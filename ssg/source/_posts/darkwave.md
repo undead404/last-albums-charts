@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:58:01.331Z
+date: 2021-04-06T04:08:01.359Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![She Wants Revenge - She Wants Revenge (2005-12-13)](http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg "She Wants Revenge - She Wants Revenge (2005-12-13)")
@@ -108,9 +108,6 @@ Dead Can Dance - Into the Labyrinth (1993-09-13)
 <li data-cover="https://img.discogs.com/T1N1f1AXU1XTKd-IPo2E4YM5Cms=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1771648-1245254037.jpeg.jpg" data-tags="electronic" role="button">
 Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, ambient, electronic" role="button">
-Autechre - Amber (1994-11-07)
-</li>
 <li data-cover="https://img.discogs.com/m5KiK7XWzOVx8wYaDJvv0eBzJws=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419432-1110896476.jpg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
 London After Midnight - Psycho Magnet (1995)
 </li>
@@ -203,6 +200,9 @@ Antimatter - Lights Out (2003-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ba46ce8-65b9-453f-8007-0f2d9841766c/2099083698-500.jpg" data-tags="darkwave" role="button">
 The Crüxshadows - Ethernaut (2003-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0f303f5-8dcd-4aa7-8c91-916e6eeed2d3/27796148982-500.jpg" data-tags="dark ambient" role="button">
+Dargaard - Rise and Fall (2004-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)

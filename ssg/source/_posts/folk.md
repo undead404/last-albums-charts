@@ -1,10 +1,10 @@
 ---
-date: 2021-04-05T10:09:01.358Z
+date: 2021-04-06T04:22:01.405Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">Bob Dylan - Highway 61 Revisited (1995)</li>
+<li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">Bob Dylan - Highway 61 Revisited (1995)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">Fleet Foxes - Fleet Foxes (2006)</li>
@@ -33,7 +33,7 @@ Nico - Chelsea Girl (1967-10)
 <li data-cover="http://coverartarchive.org/release/4fd118e2-1298-3a33-b870-839e336472f3/20585904865-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, 60s" role="button">
+<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
 Van Morrison - Astral Weeks (1968-11)
 </li>
 <li data-cover="https://img.discogs.com/I5gfsIdYLJe5feIIUrJhjDfL3D4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3601686-1381225977-7375.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
@@ -78,7 +78,7 @@ Bob Dylan - The Times They Are A-Changin' (1988)
 <li data-cover="https://img.discogs.com/RpS2IyO3bvCmc5pKPmtFwkQyvTk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539880-1367879495-2791.jpeg.jpg" data-tags="folk" role="button">
 Tracy Chapman - Tracy Chapman (1988-04-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, 60s, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">
 Bob Dylan - Highway 61 Revisited (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
@@ -111,17 +111,14 @@ José González - Veneer (2003-10)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
-</li>
-<li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, freak folk" role="button">
-Animal Collective - Sung Tongs (2004-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -138,7 +135,7 @@ Okkervil River - Black Sheep Boy (2005-04-05)
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
@@ -164,6 +161,9 @@ Ray LaMontagne - Trouble (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c5176e5-b75c-4cba-ab30-ca74fa9acb0a/14396282999-500.jpg" data-tags="folk, ray lamontagne, singer-songwriter" role="button">
 Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf580567-2c5a-447a-9943-30d8291ac559/7436314867-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Brett Dennen - So Much More (2006-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)

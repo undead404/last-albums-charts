@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:10:01.421Z
+date: 2021-04-06T03:51:01.400Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -7,12 +7,12 @@ title: "hip-hop: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">Kanye West - Late Registration (2005-03)</li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">Gorillaz - Demon Days (2005-05-11)</li>
+<li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">Kanye West - Graduation (2007-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">Kanye West - 808s & Heartbreak (2008-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">Kid Cudi - Man on the Moon: The End of Day (2009-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">Eminem - Recovery (2010-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg" data-tags="hip-hop" role="button">Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">Flo Rida - Wild Ones (2012-06-22)</li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">Kanye West - Yeezus (2013-06-18)</li>
 </ol>
 List of 100 - under the cut.
@@ -96,11 +96,8 @@ Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
 </li>
-<li data-cover="https://img.discogs.com/EIkoXBp69PD7BgsBmMtxLt2XUF0=/fit-in/473x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4476951-1365964683-8178.jpeg.jpg" data-tags="rap, 2pac" role="button">
+<li data-cover="https://img.discogs.com/er8VFrLJbfJGIdzycc7iLmWXs_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1702214-1237940370.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a3422a3-bedc-3c7a-a984-b0fd51c0e5ec/9725720160-500.jpg" data-tags="hip hop, hip-hop, rap" role="button">
-The Roots - Things Fall Apart (1999-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
 Mos Def - Black On Both Sides (1999-10-12)
@@ -207,6 +204,9 @@ M.I.A. - Kala (2007-08-08)
 <li data-cover="http://coverartarchive.org/release/b0885908-cbe2-4e51-95d8-c4f3b9721ad6/2386174869-500.jpg" data-tags="hip-hop" role="button">
 Aesop Rock - None Shall Pass (2007-08-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
+Kanye West - Graduation (2007-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
 </li>
@@ -230,9 +230,6 @@ Drake - So Far Gone (2009-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/25130d2d-8a82-4956-99e7-30efd0f9ff89/5871235568-500.jpg" data-tags="rap, hip-hop" role="button">
 Eminem - Relapse (2009-05-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/c131cfbf-5024-4a50-a27b-366f04d3fcd8/1674181130-500.jpg" data-tags="hip hop, hip-hop" role="button">
-Mos Def - The Ecstatic (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">
 Kid Cudi - Man on the Moon: The End of Day (2009-07-15)
@@ -269,6 +266,9 @@ Kendrick Lamar - Section.80 (2011-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e08a3b6c-22ff-423a-8706-adbd45203698/1585327827-500.jpg" data-tags="hip-hop, rap" role="button">
 Jay-Z & Kanye West - Watch the Throne (2011-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/657bb677-62f8-4b0a-a562-cc40ab943970/1921800445-500.jpg" data-tags="hip-hop, tumblr, aarmando, flor rider, flo rida - good feeling" role="button">
+Flo Rida - Good Feeling (2011-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
 Gym Class Heroes - The Papercut Chronicles II (2011-11-11)

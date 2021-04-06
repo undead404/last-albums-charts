@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:11:01.366Z
+date: 2021-04-06T04:29:01.525Z
 title: "spanish: 100 albums you must listen to before you die"
 ---
 ![Shakira - Pies Descalzos (1995)](https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg "Shakira - Pies Descalzos (1995)")
@@ -38,9 +38,6 @@ Shakira - Pies Descalzos (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6420c2c-7ada-4a92-a16f-0ca0ced49290/14955445741-500.jpg" data-tags="gypsy flame, guitar, spanish, flamenco" role="button">
 Armik - Gypsy Flame (1995-04-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/c44bb12f-d076-3d12-ba4c-61d3e1a55143/19521958729-500.jpg" data-tags="hard rock" role="button">
-Héroes del Silencio - Avalancha (1995-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3414cb5d-d3bc-37b8-9392-8c525fa1af52/3334214007-500.jpg" data-tags="ska, ska punk" role="button">
 Ska-P - El Vals Del Obrero (1996)
@@ -174,8 +171,8 @@ Juanes - Mi Sangre (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/cc18ef53-bcf2-4877-bed1-f180433aa0e0/2186707785-500.jpg" data-tags="spanish, pop" role="button">
 Pereza - Animales (2005)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="spanish, spanish pop, rock español, rumba flamenca, spanish - pop rock" role="button">
-Melendi - Que El Cielo Espere Sentao (2005)
+<li data-cover="http://coverartarchive.org/release/fade4392-4b7c-4e21-861c-16bb795253ca/8895468005-500.jpg" data-tags="spanish indie pop" role="button">
+Love of Lesbian - Maniobras de escapismo (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b0c0780-d551-4378-9a60-1ede2a9ded6d/14269202127-500.jpg" data-tags="spanish, fusion" role="button">
 Muchachito Bombo Infierno - Vamos que nos vamos (2005)
@@ -185,6 +182,9 @@ Jorge Drexler - Eco (2005-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/592be524-d370-401a-840f-c40e54e7e981/10167662777-500.jpg" data-tags="spanish" role="button">
 El Sueño de Morfeo - El Sueño de Morfeo (2005-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/59aee56c-1a3a-46d2-9d6e-b8fb96aec57e/7502252886-500.jpg" data-tags="spanish, amaral" role="button">
+Amaral - Pájaros en la cabeza (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d95751d8-e622-4fa1-b745-b69c4596889c/15019413195-500.jpg" data-tags="pop, reik" role="button">
 Reik - Reik (2005-05-24)
@@ -252,11 +252,11 @@ Sidonie - Costa Azul (2007-06-19)
 <li data-cover="https://img.discogs.com/hkRBEmiizqwHJfmHOuSUBuFlFHM=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5228379-1486413422-9331.jpeg.jpg" data-tags="spanish, pop, pop-rock, jonas brothers, spanisch pop, absurda cenicienta chenoa" role="button">
 Chenoa - Absurda Cenicienta (2007-10-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="spanish, neofolk, bacelona" role="button">
-Giulia y Los Tellarini - Eusebio (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/3c4b4019-e51b-4334-811f-ca2621f32187/20956673504-500.jpg" data-tags="singer-songwriter, female vocalist, can you hear the rain" role="button">
 Russian Red - I Love Your Glasses (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/8181818a-b06f-495d-a781-7ddd106441c7/16017606800-500.jpg" data-tags="spanish, personas" role="button">
+El Canto del Loco - Personas (2008-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d14fad49-a3dc-488d-b928-0402fadd5996/4370204433-500.jpg" data-tags="pop" role="button">
 La Oreja de Van Gogh - A las cinco en el Astoria (2008-09-02)
