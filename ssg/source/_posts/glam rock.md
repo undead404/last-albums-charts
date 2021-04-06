@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T02:19:01.340Z
+date: 2021-04-06T06:11:01.353Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![David Bowie - Space Oddity (1969-11-04)](https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg "David Bowie - Space Oddity (1969-11-04)")
@@ -195,9 +195,6 @@ Mott the Hoople - All The Young Dudes (1992)
 <li data-cover="http://coverartarchive.org/release/24540263-d929-4cac-ba53-584a90f65fb1/12113877365-500.jpg" data-tags="glam rock" role="button">
 David Bowie - Ziggy Stardust (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/240bf826-f94b-406b-8995-4ab2e9ad404c/2516926514-500.jpg" data-tags="pop, rock, 80s, new wave, synthpop, glam rock" role="button">
-Bryan Ferry - More Than This - The Best of Bryan Ferry and Roxy Music (1995-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
 </li>
@@ -209,6 +206,9 @@ Kiss - Greatest Kiss (1996-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
 Marilyn Manson - Mechanical Animals (1998-09-14)
+</li>
+<li data-cover="https://img.discogs.com/__6gSCDAgw0muUSRQAW6vBXOrpw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332347-1539483819-1778.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+The Easybeats - Friday on My Mind (2000)
 </li>
 <li data-cover="https://img.discogs.com/kqRN-zCX6xcbe2idK_IDCANsMXo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822578-1355881869-9489.jpeg.jpg" data-tags="gothic rock" role="button">
 The 69 Eyes - Blessed Be (2000-09-20)

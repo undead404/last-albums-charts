@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:40:01.570Z
+date: 2021-04-06T06:42:01.367Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -92,6 +92,9 @@ Avenged Sevenfold - Waking The Fallen (2003-08-26)
 </li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/9423fbcf-c2ac-49ee-a967-76f2ca97d6f3/1074828919-500.jpg" data-tags="nintendocore, hardcore" role="button">
+HORSE the band - R. Borlax (2003-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/5dcadd78-4d53-3751-a96b-7911444e1934/20441659819-500.jpg" data-tags="hardcore" role="button">
 Hatebreed - The Rise Of Brutality (2003-10-28)
@@ -243,9 +246,6 @@ The Devil Wears Prada - Plagues (2007-08-21)
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">
-Chiodos - Bone Palace Ballet (2007-09-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/5c784211-a4e9-4109-bfb2-02ad4d937c0c/15102345561-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Horizons (2007-10-06)
 </li>
@@ -312,7 +312,7 @@ A Day to Remember - What Separates Me from You (2010-11-16)
 <li data-cover="http://coverartarchive.org/release/8b7be6b5-5c0f-40f0-8db2-140d0ee635be/4766286256-500.jpg" data-tags="hardcore" role="button">
 Defeater - Empty Days & Sleepless Nights (2011-03-08)
 </li>
-<li data-cover="https://img.discogs.com/bhGbwgyMRfFNVYSLTVH0fgqdapQ=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3017388-1588358835-7785.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/a7EhVIhvtpD057G3QIb6CYE4IBs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2977626-1310092097.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
 Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/44df54f1-4731-4340-9778-1164f47e94f9/4085458651-500.jpg" data-tags="post-hardcore" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:16:01.295Z
+date: 2021-04-06T05:58:01.348Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/gDRF0Ba6hVcyn2KxUHS_d2Pmp5M=/fit-in/300x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-183643-1155911467.jpeg.jpg" data-tags="britpop, indie, indie pop" role="button">
+<li data-cover="https://img.discogs.com/0LkZjEmYSwlaaPWIAI81rR5yEFo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-438206-1167320032.jpeg.jpg" data-tags="britpop, indie, indie pop" role="button">
 Black Box Recorder - England Made Me (1998-07-06)
 </li>
 <li data-cover="https://img.discogs.com/BgT9I7SK742iKlFoXpvvVLqJTCA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-294541-1582727741-1185.jpeg.jpg" data-tags="post-rock, icelandic" role="button">
@@ -60,7 +60,7 @@ Neon Indian - Psychic Chasms (2009-10-13)
 <li data-cover="http://coverartarchive.org/release/c0872afa-87f9-4272-a5c2-2f839b6b0793/6289001231-500.jpg" data-tags="lo-fi" role="button">
 Small Black - Small Black EP (2009-10-13)
 </li>
-<li data-cover="https://img.discogs.com/ZC5xycarwTNqaLzU01OPjVpwX7g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15902545-1599892724-9591.jpeg.jpg" data-tags="electro-techno" role="button">
+<li data-cover="https://img.discogs.com/TIqxnoTpA7z5LauoG5w4AhA-pJs=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1298485-1247495388.jpeg.jpg" data-tags="electro-techno" role="button">
 Nicolas Jaar - Time for Us EP (2010-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a475ed3c-a989-49de-92ec-4e7c1f2fed68/7868018573-500.jpg" data-tags="chillwave" role="button">
@@ -90,6 +90,9 @@ Teen Daze - Four More Years (2010-07-27)
 <li data-cover="https://img.discogs.com/GD9AL-kV5ex5f4e-0Hg9Bn8ObY0=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2395663-1583879733-7591.jpeg.jpg" data-tags="witch house" role="button">
 Balam Acab - See Birds (2010-08-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
+Gold Panda - Lucky Shiner (2010-09-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">
 How to Dress Well - Love Remains (2010-09-21)
 </li>
@@ -102,7 +105,7 @@ Houses - All Night (2010-10-19)
 <li data-cover="http://coverartarchive.org/release/cf751843-9bc7-3181-b9cf-b3fcbf75b058/18692762001-500.jpg" data-tags="indie, jagjaguwar" role="button">
 Small Black - New Chain (2010-10-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, abstract, chillwave, synth-pop, witch house, glo-fi, witch chill, newbreed, chill witch, 2010 faves" role="button">
+<li data-cover="https://img.discogs.com/aUrgLxIHY9fkjIO8m4LghC4z0_I=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531250-1293487636.jpeg.jpg" data-tags="experimental, abstract, chillwave, synth-pop, witch house, glo-fi, witch chill, newbreed, chill witch, 2010 faves" role="button">
 Laurel Halo - King Felix (2010-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc46474b-67bb-4858-bdb0-7a30ac4d5e5c/4809278289-500.jpg" data-tags="hip-hop, rap, alternative hip-hop, chillwave, alternative rap, cloud rap" role="button">
@@ -180,7 +183,7 @@ Work Drugs - Aurora Lies (2011-11-07)
 <li data-cover="http://coverartarchive.org/release/a2d52ccf-3e64-49f2-8b06-47003ab9c90d/9304121540-500.jpg" data-tags="80s, chillwave" role="button">
 Mitch Murder - Current Events (2011-11-15)
 </li>
-<li data-cover="https://img.discogs.com/lBCWmWde6a9k4L8f85TJVg6A-8A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3264309-1322964033.jpeg.jpg" data-tags="electronic, sacramento" role="button">
+<li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
 <li data-cover="https://img.discogs.com/PpnqdJLTsIH_Qm384AfKvR-Db68=/fit-in/300x291/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4240352-1370399174-5609.jpeg.jpg" data-tags="indie, soul, alternative, singer-songwriter, canada, solo, canadian, psychedelic, dreamy, montreal, singer songwriter, alternative pop, quebec, chillwave, 10s, free music, hypnagogic pop, solo artist, edmonton, one man band, netaudio, one-man-band, glo-fi, new weird, bandcamp, free album, solo project, webaudio, weird canada, new weird canada, indie soul, hypnagogic, one man project, arbutus records, canadian underground, one-man-project, arbutus, one  man band, glo-soul" role="button">
@@ -228,9 +231,6 @@ Holy Other - Held (2012-08-28)
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9ec740f-66f8-4699-af30-8399f77f794f/3845172666-500.jpg" data-tags="indie, scottish, glasgow, chillwave, 10s, rock action" role="button">
-Errors - New Relics (2012-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/a03d6b49-77c1-4d92-a164-9153ade42d5d/2415026232-500.jpg" data-tags="electronica" role="button">
 Teen Daze - The Inner Mansions (2012-11-06)
 </li>
@@ -264,9 +264,6 @@ Baths - Obsidian (2013-05-28)
 <li data-cover="http://coverartarchive.org/release/b7e59944-880b-471a-af13-85ce7107cfbb/4398354897-500.jpg" data-tags="electronic, brainfeeder" role="button">
 Thundercat - Apocalypse (2013-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
-Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/1bc155a9-6ac6-462b-9c57-95f0ed54d407/7097385936-500.jpg" data-tags="electronic" role="button">
 Samaris - Samaris (2013-07-29)
 </li>
@@ -297,6 +294,9 @@ C418 - Minecraft - Volume Beta (2013-11-09)
 <li data-cover="http://coverartarchive.org/release/514f371d-3d5c-4850-bf5e-27841abd533b/6417152158-500.jpg" data-tags="downtempo, house, deep house, chillwave, tropical house, kygo, kyla la grange" role="button">
 Kyla La Grange - Cut Your Teeth (Kygo Remix) (2014-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/c013d7b9-d988-4f3c-a96f-1df74370b541/9650252297-500.jpg" data-tags="electronic, indie, dream pop, folktronica, chillwave, electro-pop, alternative soul, art pop, rel-mnth:2014:may, never forget, owsla" role="button">
+Hundred Waters - The Moon Rang Like a Bell (2014-01-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/82309c98-bdda-428b-b309-94fa9b060a97/6655564810-500.jpg" data-tags="indie, alternative, mpb, synthpop" role="button">
 Silva - Vista Pro Mar (2014-03-17)
 </li>
@@ -306,14 +306,14 @@ Young Magic - Breathing Statues (2014-05-05)
 <li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
 Coldplay - Ghost Stories (2014-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee51594f-d326-4489-8d37-92ff18ec511b/8740029795-500.jpg" data-tags="chillwave, witch house, weedwave, nightdrag" role="button">
-Summer of Haze - Jessica (2014-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/a6fadf39-4dae-4ef5-a4fd-b9cf5272534e/8684765155-500.jpg" data-tags="chillout, electronic, electronica, indie, alternative, indie pop, dubstep, dance, new wave, dance-pop, psychedelic pop, indietronica, trip hop, noise pop, dream pop, synthpop, alternative pop, alternative dance, trap, chillwave, neo-psychedelia, bubblegum pop, post-dubstep, art pop, urban pop, intelligent dance, idm pop" role="button">
 Slow Magic - How To Run Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/25354d1d-8ef4-478a-a639-08d66d257c1d/8622560639-500.jpg" data-tags="chillwave" role="button">
 Lemonade - Minus Tide (2014-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ba516d5-dcaa-46bd-85e1-54a747aa36ad/9623766426-500.jpg" data-tags="indie pop, columbia records" role="button">
+Haerts - HAERTS (2014-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/54471c6f-f3be-4c52-9868-6a253afc0185/11060604035-500.jpg" data-tags="experimental, idm, glitch" role="button">
 Arca - Xen (2014-10-29)

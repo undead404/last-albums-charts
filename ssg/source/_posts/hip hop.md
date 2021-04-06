@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:51:01.358Z
+date: 2021-04-06T06:30:01.433Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -165,6 +165,9 @@ Gnarls Barkley - St. Elsewhere (2006-04-24)
 <li data-cover="http://coverartarchive.org/release/4397ed86-d649-4a01-8320-b9c55f898ed1/8569081609-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Food & Liquor (2006-09-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/13296bd3-44e7-4a11-9032-4ef8f226c13a/3789938355-500.jpg" data-tags="timbaland, hip-hop, rnb" role="button">
+Timbaland - Shock Value (2007-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/8208c422-13eb-4ade-98e4-fd551f3cd67a/12899177229-500.jpg" data-tags="hip hop, deutsch, german" role="button">
 Die Fantastischen Vier - Fornika (2007-04-07)
 </li>
@@ -239,9 +242,6 @@ Nicki Minaj - Pink Friday (2010-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/045fcd31-c7eb-45b3-af2c-05bf0cbf5868/5259726167-500.jpg" data-tags="hip hop, crunk, mp3, white rap, tate, weezy f aka yancy tate, good in 2010, mr toxic, yelawolf pak, yancy tate, yancy" role="button">
-Yelawolf - Trunk Muzik 0-60 (2010-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)

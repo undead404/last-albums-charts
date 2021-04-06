@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:55:01.410Z
+date: 2021-04-06T06:07:01.374Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -57,6 +57,9 @@ Stevie Wonder - Innervisions (1973-08-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Marvin Gaye - Let's Get It On (1973-08-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/6258e39d-bef4-4d5a-a654-440cf4c4c29a/5349015874-500.jpg" data-tags="pop, disco" role="button">
+Michael Jackson - Off the Wall (1979-08-10)
+</li>
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
 </li>
@@ -98,6 +101,9 @@ Macy Gray - On How Life Is (1999-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5386e7b7-f4a1-3e5d-ad03-7608f3696bd9/13088515497-500.jpg" data-tags="soul, sade" role="button">
 Sade - Lovers Rock (1999-11-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="joe, my name is joe, soul, rnb" role="button">
+Joe - My Name Is Joe (2000-04-17)
 </li>
 <li data-cover="https://img.discogs.com/cI253ZuOEPTNkGR-8v0UfkiHBUQ=/fit-in/600x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7900776-1451262150-7233.jpeg.jpg" data-tags="soul, neo-soul" role="button">
 Erykah Badu - Mama's Gun (2000-11-21)
@@ -156,6 +162,9 @@ Gnarls Barkley - St. Elsewhere (2006-04-24)
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
+Christina Aguilera - Back to Basics (2006-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
 Beyoncé - B'Day (2006-08-29)
 </li>
@@ -194,9 +203,6 @@ Gnarls Barkley - The Odd Couple (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-John Legend - Evolver (2008-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)
@@ -252,9 +258,6 @@ Alex Clare - The Lateness Of the Hour (2011-07-08)
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
-Florence + the Machine - Ceremonials (2011-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/157f27fb-7f7f-4ea9-9674-fd84ed9db612/5113102481-500.jpg" data-tags="soul" role="button">
 Amy Winehouse - Lioness: Hidden Treasures (2011-12-02)
 </li>
@@ -275,9 +278,6 @@ Jessie Ware - Devotion (2012-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2dd3c28-468d-44f8-af28-04d84eb14b0b/2367021425-500.jpg" data-tags="soul, rnb" role="button">
 Miguel - Kaleidoscope Dream (2012-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/362e4026-4c4c-44ed-80ad-c2adf4b1f439/4102931199-500.jpg" data-tags="female, soul, alternative, indie rock, kurt, c, song, girls, g, nu soul, k, plop, sex, numbers, buy, j, hot, book, genesis, second, lost, porn, monday, e, woman, misc, rac, pee pee, vagina, media, abc, breasts, sounds, ladies, tits, first, proverbs, i, tag, sentences, o, everything, kings, thursday, bananas" role="button">
-HAIM - Don't Save Me (2012-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
 Alicia Keys - Girl on Fire (2012-11-23)

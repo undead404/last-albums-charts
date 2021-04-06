@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:31:01.314Z
+date: 2021-04-06T06:15:01.497Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -10,7 +10,7 @@ title: "pink floyd: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Wish You Were Here (1975-09-12)</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Animals (1977-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Wall (1979-11-30)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">Pink Floyd - The Final Cut (1983-03-21)</li>
+<li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Final Cut (1983-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - A Momentary Lapse of Reason (1987-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Division Bell (1994-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
@@ -51,7 +51,7 @@ Pink Floyd - Meddle (1971-10-30)
 <li data-cover="https://img.discogs.com/A76BtJnp-ODkjHzOl2WcKHq0ljU=/fit-in/400x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7579028-1444437556-8397.jpeg.jpg" data-tags="lou reed, 70s, david bowie, space oddity, velvet underground, bowie, davidbowie, nothing beats barrett" role="button">
 Lou Reed - Lou Reed (1972)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/zc3ziFn38yiirxhkQ69ag_DjLe0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-643604-1280147837.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Obscured by Clouds (1972-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ca5c7fd-6293-413d-b096-92c00a2e0587/8680012182-500.jpg" data-tags="classic rock" role="button">
@@ -62,6 +62,9 @@ Pink Floyd - Masters of Rock (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/d011dd70-c261-3ddf-a871-fef5f4542ed6/6899806480-500.jpg" data-tags="rock, singer-songwriter" role="button">
+Lou Reed - Coney Island Baby (1975-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/58484da2-44b0-3e58-b91d-9a3a5de90afa/20137032991-500.jpg" data-tags="jazz, instrumental, progressive rock, prog, acoustic, fusion, contemporary classical, humour, minimalist, fabulous, marianne velvart, jrcrichardson, duncan parsons, jrc richardson, marc catley, paleys watch" role="button">
 Penguin Cafe Orchestra - Music From The Penguin Cafe (1976)
@@ -87,7 +90,7 @@ Pink Floyd - A Collection Of Great Dance Songs (1981-11-23)
 <li data-cover="http://coverartarchive.org/release/0304caae-7e73-4edd-b807-174735911ff5/14452443858-500.jpg" data-tags="pink floyd, progressive rock" role="button">
 Pink Floyd - Works (1983)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f273d9d-9b02-33a6-94bf-92b4a3e0a94d/6600826888-500.jpg" data-tags="progressive rock" role="button">
@@ -102,7 +105,7 @@ Pink Floyd - Best Ballads (1985-09-21)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
 U.D.O. - Animal House (1987)
 </li>
-<li data-cover="https://img.discogs.com/V2kvbAE25-9KbHnz5tnQMXNj_N8=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208563-1338450371-4866.jpeg.jpg" data-tags="progressive rock, rock" role="button">
+<li data-cover="https://img.discogs.com/sNgRvuxw78AEWk7TH4f_-1Y28C4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760586-1334719012.jpeg.jpg" data-tags="progressive rock, rock" role="button">
 Roger Waters - Radio K.A.O.S. (1987-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
@@ -126,7 +129,7 @@ Kris Kristofferson - SONGS OF KRISTOFFERSON (1990)
 <li data-cover="http://coverartarchive.org/release/42dc95e4-975f-4c81-8d27-b9b324fc33cf/16327686467-500.jpg" data-tags="classic rock, pink floyd" role="button">
 Pink Floyd - The Man & the Journey (1990)
 </li>
-<li data-cover="https://img.discogs.com/aH8Wv91PyDfovF4veMdjzhkSPko=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2792326-1301239046.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/Mjh5jJ8qNpv2T1qOlUxjHImWDRM=/fit-in/598x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1267372-1205017850.jpeg.jpg" data-tags="progressive rock" role="button">
 Roger Waters - The Wall: Live In Berlin (1990-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b1c878-9518-4f7c-842e-5445e6c70f69/26927826204-500.jpg" data-tags="pink floyd" role="button">
@@ -207,10 +210,7 @@ Roger Waters - In the Flesh (2000-12-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 宇多田ヒカル - Distance (2001-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/1ec16d9d-f953-4ca2-add5-a0af5e3d855b/16251209190-500.jpg" data-tags="soundtrack, pink floyd" role="button">
-Pink Floyd - Zabriskie Point (2001-05-25)
-</li>
-<li data-cover="https://img.discogs.com/nb1EnJcA86CFw7ZQDmNBBINP0CA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2947897-1442694714-5363.jpeg.jpg" data-tags="melancholic" role="button">
+<li data-cover="https://img.discogs.com/zE1g7EfR92bN-uRdWuFEdTw8lvQ=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3695431-1552089588-2064.jpeg.jpg" data-tags="melancholic" role="button">
 Anathema - Resonance (2001-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
@@ -231,16 +231,13 @@ Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 <li data-cover="http://coverartarchive.org/release/7452c152-d926-4ab4-838a-ebe4dbe406f8/20002864986-500.jpg" data-tags="rock, japanese, japan, male vocalist, male vocalists, cornelius" role="button">
 Cornelius - CM2 (2003-06-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="delta blues, vblues" role="button">
+<li data-cover="https://img.discogs.com/2db7W1kyzQ9ocVZ88XzDb4NfJ-w=/fit-in/591x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905319-1362137952-5607.jpeg.jpg" data-tags="delta blues, vblues" role="button">
 Eric Sardinas - Black Pearls (2003-08-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/78024696-94c3-4b4e-a616-241c476e7f2c/14744891302-500.jpg" data-tags="progressive rock" role="button">
-Unitopia - More Than a Dream (2005-10)
+<li data-cover="https://img.discogs.com/h4kBVI540ZBhL0I8a_dRz_E7J9Q=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6606995-1422976966-4447.jpeg.jpg" data-tags="mark knopfler, rock, singer-songwriter" role="button">
+Mark Knopfler - Shangri-La (2004-09-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental, progressive rock, oldfield, pink floyd, mike oldfield, gilmour" role="button">
-Christopher Nardozza - In The Dead Of Night (2006)
-</li>
-<li data-cover="https://img.discogs.com/kTkE93U4Mhrw6hqBTCYmyjFYOwA=/fit-in/588x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120756-1193675519.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/j1cw6tuQlOTPr5DUd7X3pffrDkI=/fit-in/483x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2602279-1292652149.jpeg.jpg" data-tags="progressive rock" role="button">
 David Gilmour - On an Island (2006-03-06)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
@@ -252,14 +249,17 @@ Buzz Carlton - Just This Side of the Blues (2006-07-11)
 <li data-cover="http://coverartarchive.org/release/39435b39-2faa-4d28-b2df-f7885ceedecb/7152713003-500.jpg" data-tags="female vocalists" role="button">
 Chelsea Wolfe - Mistake in Parting (2006-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1ec16d9d-f953-4ca2-add5-a0af5e3d855b/16251209190-500.jpg" data-tags="soundtrack, pink floyd" role="button">
+Pink Floyd - Zabriskie Point (2006-09-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/8c6f861e-c347-4c5c-aed1-eae205297c67/8906628497-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
 カヒミ・カリィ - Nunki (2006-10-25)
 </li>
-<li data-cover="https://img.discogs.com/pPcjS9_A40-oXUGihJ-P0FIEJ5g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-957854-1177445829.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
+<li data-cover="https://img.discogs.com/fYvnH9PdmGtTlbGyly9NW-Ulv_c=/fit-in/450x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949737-1189947436.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
 Cornelius - Sensuous (2006-10-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
-David Gilmour - Arnold Layne (2006-12-25)
+<li data-cover="http://coverartarchive.org/release/b603c9dc-b1f8-4282-883f-4cbd051ef5d3/20156050715-500.jpg" data-tags="indie, pop" role="button">
+Scouting for Girls - Scouting for Girls (2007-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
 Poets of the Fall - Revolution Roulette (2008-03-26)

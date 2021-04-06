@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:32:12.293Z
+date: 2021-04-06T06:14:01.367Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
@@ -93,9 +93,6 @@ Electric Light Orchestra - Secret Messages (1983)
 <li data-cover="https://img.discogs.com/_p3QUw0m77DTQhUWU4dedNgXc2k=/fit-in/551x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4900916-1378902915-8466.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
 </li>
-<li data-cover="https://img.discogs.com/r0ak_Yh6xKRBcUUns0L0D4JhhBg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2107356-1264386999.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
-Hanoi Rocks - Two Steps From the Move (1984)
-</li>
 <li data-cover="http://coverartarchive.org/release/abdfb480-f68e-4857-bc39-9d76aad4eaff/26871575044-500.jpg" data-tags="rock n roll" role="button">
 Curtis Lee - Pretty Little Angel Eyes (1986)
 </li>
@@ -177,16 +174,13 @@ Buddy Holly - Greatest Hits (1996-09-24)
 <li data-cover="http://coverartarchive.org/release/d44ae919-ecca-4587-b460-97c2f1c9042d/10187158587-500.jpg" data-tags="rock, rock n roll, turkish rock, debut, benimmm, s ferah" role="button">
 Şebnem Ferah - Kadın (1996-11-15)
 </li>
-<li data-cover="https://img.discogs.com/hQlc92pvhyAQT5tNcTWTpje6BMM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-555746-1159611219.jpeg.jpg" data-tags="easy listening" role="button">
-Bic Runga - Drive (1997-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/a5ff89d9-de0d-4743-b5df-691779bea19e/19888103027-500.jpg" data-tags="90s, dream pop" role="button">
 The Sundays - Static & Silence (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/da2b642f-e1e9-3fb1-8d31-e067204b2351/15341628025-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Snake Bite Love (1998-03-03)
 </li>
-<li data-cover="https://img.discogs.com/gvKjRCQVgHAV4Fo2rCHdTmx2jJk=/fit-in/599x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5884393-1405370229-7180.jpeg.jpg" data-tags="blues" role="button">
+<li data-cover="https://img.discogs.com/Q_Vk_icVH4r3cMGa2Ch6MgrgebM=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10597885-1574973437-3506.jpeg.jpg" data-tags="blues" role="button">
 Bo Diddley - 500% More Man (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/7198451b-594d-4d80-9a6e-9276ac6c7766/14180333568-500.jpg" data-tags="classic rock, rock, 70s" role="button">
@@ -198,7 +192,7 @@ Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
 <li data-cover="http://coverartarchive.org/release/de21d173-ee38-4161-8717-8cd64fb12382/12501120405-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Motörhead (2000-10-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="oldies" role="button">
+<li data-cover="https://img.discogs.com/7jIJHMgRUZolLo1X2Xz6LfaHuXk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1163960-1592140151-3721.jpeg.jpg" data-tags="oldies" role="button">
 Elvis Presley - ELV1S 30 #1 Hits (2001)
 </li>
 <li data-cover="https://img.discogs.com/kLgDkbo1ZHiaykphjDXWzniCWIo=/fit-in/458x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6499693-1500325239-2139.jpeg.jpg" data-tags="thrash metal, rock n roll" role="button">
@@ -206,6 +200,9 @@ Megadeth - Capitol Punishment (2001-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7898e51d-fb9f-46c2-b029-94be73b4d824/3379346129-500.jpg" data-tags="horror punk, good shit, rock n roll, punkrock, on vinyl" role="button">
 The Bones - Bigger Than Jesus (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/1e8a5e99-021d-4737-9ddc-c8c1fec08fe0/3370038331-500.jpg" data-tags="indie rock, rock, swedish" role="button">
+The Sounds - Living in America (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3c0782e-1e68-4c54-b620-9f1163e7bd3d/23738211370-500.jpg" data-tags="50s, rockabilly, rock n roll, rhythm blues" role="button">
 Fats Domino - Walking To New Orleans (2002-03-12)
@@ -221,6 +218,9 @@ Hanoi Rocks - Twelve Shots On the Rocks (2002-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8f04778-d093-412f-a03b-e344941a256a/3349072856-500.jpg" data-tags="rockabilly, psychobilly, good shit, rock n roll" role="button">
 The Kings of Nuthin' - Get Busy Livin' or Get Busy Dyin' (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/f883bcc3-206d-4788-9674-0bfe09735888/19263212495-500.jpg" data-tags="soul, blues" role="button">
+Ray Charles - The Very Best of Ray Charles (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/95af8ca5-8f40-42c3-815b-461f36018d24/4803477506-500.jpg" data-tags="rock" role="button">
 Ryan Adams - Rock N Roll (2003-11-03)
