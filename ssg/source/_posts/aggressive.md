@@ -1,16 +1,16 @@
 ---
-date: 2021-04-06T07:23:02.712Z
+date: 2021-04-06T23:00:01.464Z
 title: "aggressive: 100 albums you must listen to before you die"
 ---
 ![Kanye West - Yeezus (2013-06-18)](http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg "Kanye West - Yeezus (2013-06-18)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/UmAW3Ky8RixkWUQ3TiMy4xN2x8I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-439361-1277068552.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">Slint - Slint (1994-08-29)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - Sublime (1995)</li>
+<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">Slint - Slint (1994-08-29)</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">Weezer - Pinkerton (1996-08-24)</li>
-<li data-cover="https://img.discogs.com/HskuMr3aSW8eNVDhMC6hxxwEzQ8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742862-1154197954.jpeg.jpg" data-tags="indie rock" role="button">Gossip - Standing in the Way of Control (2005)</li>
+<li data-cover="https://img.discogs.com/pqHGjbiJ-g74HIVrPmjtwynSmVs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926857-1186771250.jpeg.jpg" data-tags="indie rock" role="button">Gossip - Standing in the Way of Control (2005)</li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
+<li data-cover="https://img.discogs.com/MzZG6cMrhBfOTkA7_fHYJur4-Fc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666348-1235572725.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
+<li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">The Walkmen - Lisbon (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">Kanye West - Yeezus (2013-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/b5139eff-0ce6-428e-a96f-6653a68af7a2/8249629063-500.jpg" data-tags="alternative rock, blues rock, rock, garage rock" role="button">Jack White - Lazaretto (2014-06-06)</li>
@@ -27,16 +27,16 @@ Nina Simone - Black Gold (1970)
 <li data-cover="http://coverartarchive.org/release/b60e6f2c-e569-4ffb-83b7-cd23d66fc1c4/20406235434-500.jpg" data-tags="70s, rock, art rock" role="button">
 John Cale - Fear (1974)
 </li>
-<li data-cover="https://img.discogs.com/8NqNnwTW0-Y7pkW9IykrYjwa4EA=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321861-1462013452-9042.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
+<li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
 </li>
-<li data-cover="https://img.discogs.com/ftsmFEw5SMRewDWgYtzIjlegG5o=/fit-in/380x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935598-1255604300.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
+<li data-cover="https://img.discogs.com/UUNlY7aGuwzbHB9z-HDvfDa0AZM=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880014-1305396308.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
 The Jam - In the City (1977-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
 Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://img.discogs.com/AKPaFMnpQ6NHjR7q15RUXpWkGYI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7050936-1432563994-2047.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
+<li data-cover="https://img.discogs.com/7WoO9lL0mpePsn4rAlhus_urvEE=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4053438-1353689533-6958.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
 The Jam - All Mod Cons (1978-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
@@ -48,13 +48,13 @@ Throbbing Gristle - 20 Jazz Funk Greats (1979-12)
 <li data-cover="http://coverartarchive.org/release/507bb61e-c7fa-3dd5-ba2d-d6f0f6e2f792/6010164584-500.jpg" data-tags="hardcore, punk, hardcore punk" role="button">
 Minor Threat - Out of Step (1983)
 </li>
-<li data-cover="https://img.discogs.com/rVcJgZl1QoNtdkzGuNUw5uSx2tM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454775-1174321560.jpeg.jpg" data-tags="hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/Yc3Jvzj03NdvSN519QWmDWVXFg4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641014-1165603074.jpeg.jpg" data-tags="hardcore punk" role="button">
 Bad Brains - Rock for Light (1983-03)
 </li>
-<li data-cover="https://img.discogs.com/-uQXTgptD9DRrPLeTdC3bvjg8Tk=/fit-in/600x370/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14120305-1568218368-3661.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
+<li data-cover="https://img.discogs.com/caUGzB28LZRoCVHzY8K4ndFRrgU=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15722309-1596684649-9108.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
 Lou Reed - New Sensations (1984)
 </li>
-<li data-cover="https://img.discogs.com/DWDDxYRoH5-1_AQ9NrCYFiaK7pc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667536-1471605208-1041.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
+<li data-cover="https://img.discogs.com/hq0nx8-puTRvn9QWkR0fkGER6qU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4397266-1455225511-8126.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/38f354d3-7148-41ae-96d3-8574a9c71287/14748841978-500.jpg" data-tags="hip-hop, east coast rap, rap" role="button">
@@ -78,7 +78,7 @@ Iggy Pop - Brick By Brick (1990-06-28)
 <li data-cover="http://coverartarchive.org/release/d012b269-86de-4a3e-9d7c-5d0ab45a633b/23499818550-500.jpg" data-tags="golden age hip hop" role="button">
 LL Cool J - Mama Said Knock You Out (1990-09-18)
 </li>
-<li data-cover="https://img.discogs.com/Jk0Whc-eYBquMSkcPm3eMlDBv-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5053665-1525646913-3868.jpeg.jpg" data-tags="90s" role="button">
+<li data-cover="https://img.discogs.com/ARdheJRsRhkAwP6lGT8aH5MBcio=/fit-in/600x936/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2539010-1494682460-4807.jpeg.jpg" data-tags="90s" role="button">
 Dinosaur Jr. - Green Mind (1991-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
@@ -90,13 +90,13 @@ Das EFX - Dead Serious (1992-04-07)
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
 </li>
-<li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
+<li data-cover="https://img.discogs.com/wZ1f5ziVacSnZ0-3kb9pgaFEzhU=/fit-in/473x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646830-1338737473-2748.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
 The Jesus Lizard - Liar (1992-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e54f5104-4087-478a-85af-77033fbdbe7e/8306558791-500.jpg" data-tags="comedy" role="button">
 Denis Leary - No Cure For Cancer (1993-01-12)
 </li>
-<li data-cover="https://img.discogs.com/BpORMXrTrP0_prtni1QOBOQl8zk=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423146-1237613420.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
+<li data-cover="https://img.discogs.com/EnB18VVg3uHpKbJ9BzaS7v463SQ=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1088570-1193674425.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
 Dinosaur Jr. - Where You Been (1993-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/617e6155-432c-4c95-a9ab-b78e1c7838c2/11841421329-500.jpg" data-tags="rock, alternative rock, alternative, psychedelic" role="button">
@@ -114,11 +114,8 @@ Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
 <li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
 Dinosaur Jr. - Without a Sound (1994-08-01)
 </li>
-<li data-cover="https://img.discogs.com/UmAW3Ky8RixkWUQ3TiMy4xN2x8I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-439361-1277068552.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
+<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
 Slint - Slint (1994-08-29)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
-Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/7086c733-4ced-4f36-b024-74404bb7ab80/3357063370-500.jpg" data-tags="punk" role="button">
 Jawbreaker - Dear You (1995-09-12)
@@ -171,7 +168,7 @@ Sahara Hotnights - Kiss & Tell (2004-05-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="2004, alternative, female vocalists, alternative rock, rock" role="button">
 PJ Harvey - Uh Huh Her (2004-05-31)
 </li>
-<li data-cover="https://img.discogs.com/HskuMr3aSW8eNVDhMC6hxxwEzQ8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742862-1154197954.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/pqHGjbiJ-g74HIVrPmjtwynSmVs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926857-1186771250.jpeg.jpg" data-tags="indie rock" role="button">
 Gossip - Standing in the Way of Control (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab1e8e68-9978-4025-9912-28bfd7c296a8/6976726288-500.jpg" data-tags="aggressive" role="button">
@@ -195,7 +192,7 @@ Ayria - My Revenge On The World (2005-06-06)
 <li data-cover="https://img.discogs.com/-3c1H_uELwr2N788wMTMZCyywyI=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-556259-1131086352.jpeg.jpg" data-tags="energetic, aggressive, raucous, exuberant, boisterous, party/ celebratory, weekly top albums" role="button">
 Hedley - Hedley (2005-09-06)
 </li>
-<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/HdqR2t5Zyrn-jtdZKeihRDft8JM=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4471963-1481024097-5978.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6e82f4-865d-3657-9d65-86737b208aff/2850609992-500.jpg" data-tags="dark electro, ebm, industrial and ebm" role="button">
@@ -234,7 +231,7 @@ The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
 <li data-cover="http://coverartarchive.org/release/1b43a144-f4be-4365-b376-947d93586550/4507021160-500.jpg" data-tags="techno, minimal techno, ominous, late night, club, clinical, winter, intense, hypnotic, paranoid, cold, cerebral, detached, sparse, nocturnal, bleak, unsettling, urgent, night driving" role="button">
 Basic Channel - BCD-2 (2008-05)
 </li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
+<li data-cover="https://img.discogs.com/MzZG6cMrhBfOTkA7_fHYJur4-Fc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666348-1235572725.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
 The Walkmen - You & Me (2008-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9376a0eb-85cc-490c-bac5-27d234082c13/26623138612-500.jpg" data-tags="electronic, rock, electronic rock, synth rock" role="button">
@@ -252,7 +249,7 @@ Dinosaur Jr. - Farm (2009-06-19)
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/F7kAv-USBoD_V75FxbB-pJnbkJM=/fit-in/450x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369487-1280026294.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="https://img.discogs.com/180eSVrmFqEx84A9MljgGmJieto=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220760-1543694776-5834.jpeg.jpg" data-tags="mute, 10s" role="button">
@@ -272,6 +269,9 @@ The Walkmen - Lisbon (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, volatile, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">
 Superchunk - Majesty Shredding (2010-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e2946e1-a9a5-44be-8308-c8486726f2ab/21158108480-500.jpg" data-tags="fuck me daddy" role="button">
+Kid Rock - Born Free (2010-11-15)
 </li>
 <li data-cover="https://img.discogs.com/mATVZH7mUI6F402DQkW0zJMvNKs=/fit-in/288x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2906361-1306648453.jpeg.jpg" data-tags="indie rock, energetic, passionate, intense, aggressive, earnest, raucous, earthy, fun, strong, drinking, garage punk, playful, partying, exuberant, campy, volatile, swaggering, lively, ramshackle, plaintive, brash, rambunctious, need, gleeful, mischief" role="button">
 Those Darlins - Screws Get Loose (2011-03-09)
@@ -309,7 +309,7 @@ My Chemical Romance - May Death Never Stop You (2014-03-21)
 <li data-cover="https://img.discogs.com/B8fNe0Std0KTC4YJ5lxx0_l-DgQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6424434-1418882682-5706.jpeg.jpg" data-tags="indie rock, british" role="button">
 Kaiser Chiefs - Education, Education, Education & War (2014-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b8f2b17-4e04-46e3-aa57-19be9b9f7e4e/7532759610-500.jpg" data-tags="indie rock, post-punk, energetic, angry, irreverent, fierce, aggressive, confrontational, freewheeling, provocative, snide, raucous, flowing, vulgar, rebellious, word play, rollicking, witty, cathartic, gritty, unsettling, sarcastic, gutsy, visceral, savage, angst-ridden, 2014 releases, maverick, brash, guys night out, street-smart, hanging out, bravado, extroverted, tough, animated, everyday life, outraged, city life, brassy, harbinger sound, belligerent, just cant hate enough, world view" role="button">
+<li data-cover="http://coverartarchive.org/release/3b8f2b17-4e04-46e3-aa57-19be9b9f7e4e/7532759610-500.jpg" data-tags="indie rock, post-punk, energetic, angry, irreverent, fierce, aggressive, confrontational, freewheeling, provocative, snide, raucous, flowing, vulgar, rebellious, word play, rollicking, witty, cathartic, gritty, unsettling, sarcastic, gutsy, visceral, savage, angst-ridden, maverick, brash, guys night out, street-smart, hanging out, bravado, extroverted, tough, animated, everyday life, outraged, city life, brassy, harbinger sound, belligerent, just cant hate enough, world view" role="button">
 Sleaford Mods - Divide And Exit (2014-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/64d09ddc-daf5-4ed3-9ecf-d949f951fada/7514082952-500.jpg" data-tags="revolution, indie rock, post-rock, reflective, literate, aggressive, fiery, provocative, uncompromising, dramatic, raucous, post-hardcore, cerebral, rebellious, matador records, eccentric, volatile, gutsy, visceral, ramshackle, maverick, brash, rambunctious, outrageous, reckless, nihilistic" role="button">

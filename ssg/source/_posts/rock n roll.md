@@ -1,19 +1,19 @@
 ---
-date: 2021-04-06T06:14:01.367Z
+date: 2021-04-06T23:24:01.429Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="rock n roll, 50s" role="button">Elvis Presley - Elvis Presley (1956-03-23)</li>
-<li data-cover="https://img.discogs.com/_iGXGCkaRTo6ww-fqqWFQu-9bSM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2507558-1287827584.jpeg.jpg" data-tags="rock n roll" role="button">Bill Haley & His Comets - Rock Around The Clock (1956-06-01)</li>
+<li data-cover="https://img.discogs.com/dODqkQEQC6xTAQi4vr4gdvGQm6k=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797849-1160845445.jpeg.jpg" data-tags="rock n roll" role="button">Bill Haley & His Comets - Rock Around The Clock (1956-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">Elvis Presley - Elvis' Golden Records (1958-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">Del Shannon - Little Town Flirt (1963)</li>
 <li data-cover="https://img.discogs.com/i9hz9LCoOKTx3TIL0zSFCmr9uLw=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055944-1357028433-5421.jpeg.jpg" data-tags="80s" role="button">The J. Geils Band - Freeze Frame (1981-10-26)</li>
+<li data-cover="https://img.discogs.com/QqifwM957aH9czKrZA3cHBHeJXc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1865841-1474827466-9598.jpeg.jpg" data-tags="surf, rock n roll" role="button">The Beach Boys - Greatest Hits (1996)</li>
 <li data-cover="http://coverartarchive.org/release/b79a134e-5a94-4b14-9abc-fbe0a22b39a6/25479635311-500.jpg" data-tags="oldies, 50s, buddy holly, rock n roll" role="button">Buddy Holly - Greatest Hits (1996-09-24)</li>
+<li data-cover="http://coverartarchive.org/release/de21d173-ee38-4161-8717-8cd64fb12382/12501120405-500.jpg" data-tags="heavy metal, hard rock" role="button">Motörhead - Motörhead (2000-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
-<li data-cover="http://coverartarchive.org/release/e2a63170-71c4-4563-bc6d-bd182ea8741c/27117150755-500.jpg" data-tags="heavy metal" role="button">Motörhead - Kiss of Death (2006-08-25)</li>
 <li data-cover="https://img.discogs.com/9vR92UVNv5yr5tRfOQnqwnJJAoM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1201224-1539899298-7399.jpeg.jpg" data-tags="rock" role="button">Juliette and the Licks - Four On The Floor (2006-10-02)</li>
-<li data-cover="http://coverartarchive.org/release/1ee17f89-66f8-3ce2-8b11-68e088f988bd/6791775045-500.jpg" data-tags="rock" role="button">The Baseballs - Strike! (2009-05-15)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://via.placeholder.com/450" data-tags="rock n roll, 50s" role="button">
 Elvis Presley - Elvis Presley (1956-03-23)
 </li>
-<li data-cover="https://img.discogs.com/_iGXGCkaRTo6ww-fqqWFQu-9bSM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2507558-1287827584.jpeg.jpg" data-tags="rock n roll" role="button">
+<li data-cover="https://img.discogs.com/dODqkQEQC6xTAQi4vr4gdvGQm6k=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797849-1160845445.jpeg.jpg" data-tags="rock n roll" role="button">
 Bill Haley & His Comets - Rock Around The Clock (1956-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b07ee81a-3e84-446e-a22c-7c2141fd1f3d/9961514130-500.jpg" data-tags="rock n roll" role="button">
@@ -54,6 +54,9 @@ Chuck Berry - St. Louis to Liverpool (1964)
 <li data-cover="http://coverartarchive.org/release/1697c288-fc02-4f69-adc0-a620ed877124/21286054887-500.jpg" data-tags="classic rock, rock n roll" role="button">
 Elvis Presley - Viva Las Vegas (1964-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/740f215a-34aa-4d20-9eec-b92e1cfca5d4/22317633580-500.jpg" data-tags="60s" role="button">
+Buddy Holly - The Best Of Buddy Holly (1966)
+</li>
 <li data-cover="http://coverartarchive.org/release/e28b9cba-289e-47a8-a8c0-8bf5c0c93f19/3987340872-500.jpg" data-tags="hard rock, classic rock" role="button">
 Alice Cooper - School's Out (1972-06)
 </li>
@@ -78,7 +81,7 @@ REO Speedwagon - You Can Tune A Piano, But You Can't Tuna Fish (1978)
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
 Motörhead - On Parole (1979-12-08)
 </li>
-<li data-cover="https://img.discogs.com/MCMx2oIPEePwwe7a_MtzaI55bPQ=/fit-in/400x356/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10344355-1593106325-9061.jpeg.jpg" data-tags="rock, 80s, experimental" role="button">
+<li data-cover="https://img.discogs.com/UWlMaIvkWtQrup7XfmRBZNGXaeQ=/fit-in/505x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-344584-1186921831.jpeg.jpg" data-tags="rock, 80s, experimental" role="button">
 Paul McCartney - McCartney II (1980-05-16)
 </li>
 <li data-cover="https://img.discogs.com/i9hz9LCoOKTx3TIL0zSFCmr9uLw=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055944-1357028433-5421.jpeg.jpg" data-tags="80s" role="button">
@@ -114,14 +117,8 @@ Heart - Bad Animals (1987-06-05)
 <li data-cover="http://coverartarchive.org/release/7fc944af-cbd7-4fe7-a85a-9f9743a3b5c0/27099866666-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Rock 'n' Roll (1987-09-05)
 </li>
-<li data-cover="https://img.discogs.com/n7OEyQXUWcEbD6zfIl0cP6G8O8g=/fit-in/510x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481954-1339922767-2405.jpeg.jpg" data-tags="rock and roll" role="button">
-Ritchie Valens - La Bamba (1988)
-</li>
 <li data-cover="http://coverartarchive.org/release/06bebfb0-a1c0-4ce2-bf07-c51912d8cadc/9120686874-500.jpg" data-tags="rock, roy orbison" role="button">
 Roy Orbison - Mystery Girl (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/d106214e-94ce-4765-819c-2294f3f39f24/15016593060-500.jpg" data-tags="power pop" role="button">
-Cheap Trick - Lap of Luxury (1988-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ac01278-4769-422f-8a0c-57c9c7c1159f/5802112191-500.jpg" data-tags="rock" role="button">
 Joan Jett and the Blackhearts - Up Your Alley (1988-05-23)
@@ -192,11 +189,14 @@ Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
 <li data-cover="http://coverartarchive.org/release/de21d173-ee38-4161-8717-8cd64fb12382/12501120405-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Motörhead (2000-10-02)
 </li>
-<li data-cover="https://img.discogs.com/7jIJHMgRUZolLo1X2Xz6LfaHuXk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1163960-1592140151-3721.jpeg.jpg" data-tags="oldies" role="button">
+<li data-cover="https://img.discogs.com/t9V5IKOOYHyN0eXnwumaxvcIqYI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1243797-1542808643-8274.jpeg.jpg" data-tags="oldies" role="button">
 Elvis Presley - ELV1S 30 #1 Hits (2001)
 </li>
 <li data-cover="https://img.discogs.com/kLgDkbo1ZHiaykphjDXWzniCWIo=/fit-in/458x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6499693-1500325239-2139.jpeg.jpg" data-tags="thrash metal, rock n roll" role="button">
 Megadeth - Capitol Punishment (2001-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/42680bd0-54d5-4f68-9b4a-187861ff634f/15999540484-500.jpg" data-tags="reggae, alternative rock, rock" role="button">
+311 - From Chaos (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7898e51d-fb9f-46c2-b029-94be73b4d824/3379346129-500.jpg" data-tags="horror punk, good shit, rock n roll, punkrock, on vinyl" role="button">
 The Bones - Bigger Than Jesus (2002)

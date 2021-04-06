@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:07:01.507Z
+date: 2021-04-06T23:12:01.391Z
 title: "funny: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -32,6 +32,9 @@ Frank Zappa - Studio Tan (1978-09-15)
 </li>
 <li data-cover="https://img.discogs.com/3dZyLnwxjgWOCcwzGsXQ8ztVpuE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4263175-1360083590-4766.jpeg.jpg" data-tags="comedy" role="button">
 George Carlin - Killer Carlin (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/d9acb1d2-04ec-3f3c-909a-436ec6f6f7db/6297135716-500.jpg" data-tags="comedy" role="button">
+"Weird Al" Yankovic - In 3-D (1984-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b07a6c8-a3a2-4f5e-abdc-c3c9359340be/3363166051-500.jpg" data-tags="party all the time" role="button">
 Eddie Murphy - How Could It Be (1985)
@@ -245,9 +248,6 @@ Larry The Cable Guy - Morning Constitutions (2007-04-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, stand-up" role="button">
 Joe Rogan - Shiny Happy Jihad (2007-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/61e00766-49cd-4398-a793-767de9c9fc6b/2461432564-500.jpg" data-tags="french" role="button">
-Fatal Bazooka - T'as Vu (2007-05-28)
 </li>
 <li data-cover="https://img.discogs.com/T8utANq8MXWCH5GNg-KJPuxJJ6A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1056126-1536182769-7526.jpeg.jpg" data-tags="comedy, guitar-based digi-bongo acapella-rap-funk-comedy folk duo" role="button">
 Flight of the Conchords - The Distant Future (2007-08-07)

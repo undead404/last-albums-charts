@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:36:01.388Z
+date: 2021-04-06T23:38:01.365Z
 title: "8-bit: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -48,11 +48,11 @@ Puss - We Are Puss (2001)
 <li data-cover="http://coverartarchive.org/release/88ad5891-50e0-4a66-bc84-6b684bd0009d/7749047425-500.jpg" data-tags="chiptune" role="button">
 Nullsleep - The Gameboy Singles 2002 (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6f556b8-931d-48e1-93bc-9aac6724c9ce/3064708426-500.jpg" data-tags="chiptune" role="button">
-Minusbaby - Monkey Patch (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/64e3ab24-cb54-4828-83bf-a98f950d5633/1003890682-500.jpg" data-tags="electronica, 8-bit, russian, nintendocore, videogamecore, russian 8 bit" role="button">
 777minus111 - children of DOS (2004-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/6fc31b65-d3ed-4c0a-8da8-5217d66f9350/8425115741-500.jpg" data-tags="8-bit, chiptune" role="button">
+YMCK - Family Music (2004-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/de7fa22f-59ea-4a13-9794-ef103e9b8c62/6758388835-500.jpg" data-tags="8-bit, breakcore, chiptune" role="button">
 Sabrepulse - Famicom Connection (2005)
@@ -156,14 +156,14 @@ The Depreciation Guild - In Her Gentle Jaws (2007-12-05)
 <li data-cover="http://coverartarchive.org/release/717ad3d8-f8b3-4a6c-8a5e-4ab04fd63d31/27501129924-500.jpg" data-tags="8-bit, chiptune" role="button">
 Stu - GreateST HITs (2007-12-31)
 </li>
-<li data-cover="https://img.discogs.com/k5cjajImifWAbrZFZLfK0T7QgP4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1752382-1241054224.jpeg.jpg" data-tags="electronic, 8bit, 8-bit, chiptune, capcom, megaman, chrono trigger" role="button">
-spamtron - Never Say Die! (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/fbdabeee-669a-40c9-b4af-7bb587e38cf4/11102006899-500.jpg" data-tags="8-bit" role="button">
 Sabrepulse - Turbo City (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/985187e6-482c-4b54-a158-15a0cd38f9df/6510177665-500.jpg" data-tags="electronic, electronica, 8-bit, chiptune, 8 bit, free download" role="button">
 Girljoy - casioromance (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/c361ccc6-446f-4b8b-b02b-8461ddfe82ac/8431621724-500.jpg" data-tags="8-bit" role="button">
+YMCK - FAMILY GENESIS (2008-01-16)
 </li>
 <li data-cover="https://img.discogs.com/K0DEDa1Dl_ANvDKPTQn0fFIv7M0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1384280-1402024140-1626.jpeg.jpg" data-tags="8-bit, chiptune, progressive electronica" role="button">
 Disasterpeace - Level (2008-01-31)

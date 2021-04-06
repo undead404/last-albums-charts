@@ -1,15 +1,15 @@
 ---
-date: 2021-04-05T21:59:01.453Z
+date: 2021-04-06T23:35:01.387Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
-![Lykke Li - Youth Novels (2008-01-30)](http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg "Lykke Li - Youth Novels (2008-01-30)")
+![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">The Knife - Deep Cuts (2003-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/5b014530-0a48-4055-9c76-439920b4a110/15395210012-500.jpg" data-tags="swedish" role="button">Caesars - Jerk It Out (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)</li>
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">The Knife - Silent Shout (2006-02-15)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">Peter Bjorn and John - Writer's Block (2006-08-14)</li>
+<li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">Peter Bjorn and John - Writer's Block (2006-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">Lykke Li - Youth Novels (2008-01-30)</li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">Miike Snow - Happy To You (2012-03-13)</li>
@@ -102,9 +102,6 @@ Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
 <li data-cover="https://img.discogs.com/IS5V2qnm5VrH3GnH0l2LpIOWbY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620057-1139399009.jpeg.jpg" data-tags="indie, alternative, swedish, folk, singer-songwriter, svenskt, 2000s, hupin, singing songwriters, irack, d2004, tiger lou  ttttttttttttttttttttt, samipop" role="button">
 Tiger Lou - Is my head still on? (2004-03-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/2bfa71ba-2e99-4145-bf6c-63861d04ea92/7301076123-500.jpg" data-tags="melodic death metal" role="button">
-In Flames - Soundtrack to Your Escape (2004-03-17)
-</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
@@ -156,11 +153,14 @@ El Perro del Mar - El Perro Del Mar (2006-04-10)
 <li data-cover="https://img.discogs.com/k0hr64G-d7eA6WlD7l0CC6xedeA=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-793834-1159431566.jpeg.jpg" data-tags="indie pop" role="button">
 I'm from Barcelona - Let Me Introduce My Friends (2006-04-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">
+<li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">
 Peter Bjorn and John - Writer's Block (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0fb27e8-5657-39a5-b416-9db725a8a759/4282962071-500.jpg" data-tags="nu jazz, jazz" role="button">
 Koop - Koop Islands (2006-09-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
+The Hives - The Black and White Album (2007-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/48285a22-9815-3364-bde5-223aadbdac2c/1399815641-500.jpg" data-tags="indie" role="button">
 Shout Out Louds - Our Ill Wills (2007-04-25)
@@ -270,7 +270,7 @@ Little Dragon - Ritual Union (2011-05-13)
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">

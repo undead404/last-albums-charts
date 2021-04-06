@@ -1,14 +1,14 @@
 ---
-date: 2021-04-06T12:31:07.275Z
+date: 2021-04-06T23:33:01.426Z
 title: "classical: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/4260cb0b-1fc0-4bdb-a409-e9c934b767f7/15621832418-500.jpg" data-tags="classical" role="button">Carl Orff - Carmina Burana (1990-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/f1a4d60a-8910-421c-b4b2-a2ceee5608ce/14901757804-500.jpg" data-tags="classical" role="button">Frédéric Chopin - Chopin (1995)</li>
 <li data-cover="https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg" data-tags="classical" role="button">Wolfgang Amadeus Mozart - Requiem (1995-10-02)</li>
-<li data-cover="https://img.discogs.com/Te9_fj5vzJMkjIXpG2nSPAdglpQ=/fit-in/600x823/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16839945-1610140678-8429.jpeg.jpg" data-tags="classical" role="button">Sergei Prokofiev - Romeo and Juliet (1997)</li>
-<li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">Philip Glass - Koyaanisqatsi (1998-10-19)</li>
-<li data-cover="http://coverartarchive.org/release/f084b2b3-63ff-3f6c-b8eb-0a13f4ab9cc9/6768833257-500.jpg" data-tags="minimalism" role="button">Arvo Pärt - Alina (1999-10-18)</li>
+<li data-cover="https://img.discogs.com/6m5eiVRe2WNSw8lrf66tMBR_Gvs=/fit-in/225x222/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15102498-1586713760-6077.jpeg.jpg" data-tags="classical" role="button">Sergei Prokofiev - Romeo and Juliet (1997)</li>
+<li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">Maurice Ravel - Piano Concerto (2004)</li>
 <li data-cover="http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg" data-tags="piano, contemporary classical, neoclassical" role="button">Ludovico Einaudi - Divenire (2006-11-07)</li>
 <li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">Ólafur Arnalds - Eulogy for Evolution (2007-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/bc51ba52-59a7-49a3-8d55-92540d64d8d4/5933544596-500.jpg" data-tags="dubstep" role="button">Lindsey Stirling - Lindsey Stirling (2012-09-18)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/hQrEryubvbJQdogI92q3mU7QYrY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13961000-1564967452-5475.jpeg.jpg" data-tags="classical, piano" role="button">
+Wolfgang Amadeus Mozart - Mozart: Piano Sonatas (1978)
+</li>
 <li data-cover="http://coverartarchive.org/release/06a37eaa-38d0-41a9-a77c-d13aa5762b9d/26656368226-500.jpg" data-tags="classical, instrumental, easy listening, cinema, movie score composers, easylistening jazz" role="button">
 Ennio Morricone - Ennio Morricone (1979)
 </li>
@@ -30,11 +33,23 @@ Philip Glass - Glassworks (1982)
 <li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
 Billy Joel - An Innocent Man (1983-08-08)
 </li>
+<li data-cover="https://img.discogs.com/uVsWOFiG60AnaU4Vpldkw-d8n8s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2020366-1435888583-6830.jpeg.jpg" data-tags="classical, opera" role="button">
+Giuseppe Verdi - Nabucco (1983-11-07)
+</li>
+<li data-cover="https://img.discogs.com/92IOMhi2WE_vg_IGpVr2O11W9zU=/fit-in/600x847/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11037058-1558453784-9891.jpeg.jpg" data-tags="classical, symphonic, 20th century classical, 20th century, ravel, classical orchestral" role="button">
+Maurice Ravel - Ravel (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/39746e0d-3a1b-45e6-af11-7efc04a00e0a/23077300994-500.jpg" data-tags="classical" role="button">
+Gabriel Fauré - Requiem & Cantique de Jean Racine - Cambridge Singers City of London Sinfonia John Rutter (1984)
+</li>
 <li data-cover="https://img.discogs.com/KD5bINrX2-SlZ4f6OAZdudfLfMg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515050-1289489104.jpeg.jpg" data-tags="minimalism, minimalist" role="button">
 Arvo Pärt - Tabula Rasa (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/5aa79793-78c9-4e09-ba3a-74fe2bbdab0d/15813550697-500.jpg" data-tags="classical, ambient, ambient chill" role="button">
 Penguin Cafe Orchestra - Signs of Life (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/65b5c48f-89c9-4be9-b7a0-2e18692db80e/19147437194-500.jpg" data-tags="classical, beethoven" role="button">
+Ludwig van Beethoven - The Best of Beethoven (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e552cd6-a616-495d-8473-aaf79ad26c81/21884715670-500.jpg" data-tags="classical" role="button">
 Arvo Pärt - Arbos (1987-05-01)
@@ -42,17 +57,20 @@ Arvo Pärt - Arbos (1987-05-01)
 <li data-cover="https://img.discogs.com/-GN-JQ2oRtEsLWjyv1fd_VXV5dw=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8846463-1469993526-8129.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
 Philip Glass - Solo Piano (1989-08-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classical" role="button">
+Ludwig van Beethoven - Best Of Beethoven (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/55555fce-af44-4e93-a170-7554ed1e932d/4879800403-500.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - The Four Seasons (1990)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
 Johann Strauss II - Vienna of My Dreams (1990)
 </li>
-<li data-cover="http://coverartarchive.org/release/c405f2d0-f522-4d61-8812-c0f8422d124f/12252644242-500.jpg" data-tags="classical" role="button">
-Richard Strauss - Also Sprach Zarathustra (1991)
+<li data-cover="http://coverartarchive.org/release/4260cb0b-1fc0-4bdb-a409-e9c934b767f7/15621832418-500.jpg" data-tags="classical" role="button">
+Carl Orff - Carmina Burana (1990-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
-Enya - Shepherd Moons (1991-11-04)
+<li data-cover="http://coverartarchive.org/release/5792cb35-3a32-4c25-9f9f-5bc3580cf97e/2634536845-500.jpg" data-tags="classical" role="button">
+Pyotr Ilyich Tchaikovsky - The Very Best of Tchaikovsky (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/f835ced9-a60a-4ebb-ad2a-6be11ccf7dfb/2634582164-500.jpg" data-tags="classical" role="button">
 Johann Sebastian Bach - The Very Best of Bach (1993-03)
@@ -60,20 +78,17 @@ Johann Sebastian Bach - The Very Best of Bach (1993-03)
 <li data-cover="http://coverartarchive.org/release/4bf88b0f-9999-4a7f-b4be-cd7f9e2a8599/28293994702-500.jpg" data-tags="soundtrack, piano" role="button">
 Michael Nyman - The Piano (1993-12-08)
 </li>
+<li data-cover="https://img.discogs.com/6WF7BbJPuJYHJy1auqoTLxLM2aw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622610-1594727362-1064.jpeg.jpg" data-tags="classical, baroque, violin, antonio vivaldi" role="button">
+Antonio Vivaldi - Vivaldi: The Four Seasons (1994)
+</li>
 <li data-cover="https://img.discogs.com/EWzbnUme8VF5W-GJmra-d4Ee9Ig=/fit-in/600x633/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18108076-1617300663-8425.jpeg.jpg" data-tags="classical, opera, vocal, romantic" role="button">
 Andrea Bocelli - Bocelli (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1a4d60a-8910-421c-b4b2-a2ceee5608ce/14901757804-500.jpg" data-tags="classical" role="button">
 Frédéric Chopin - Chopin (1995)
 </li>
-<li data-cover="https://img.discogs.com/AEcPN3xbgGP-QuO_q4A_u64fiM0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393240-1328652413.jpeg.jpg" data-tags="classical, sarah brightman, female vocalists" role="button">
-Sarah Brightman - Fly (1995)
-</li>
 <li data-cover="https://img.discogs.com/6WF7BbJPuJYHJy1auqoTLxLM2aw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622610-1594727362-1064.jpeg.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - Tranquillity: The Seasons (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/1cd797a6-f065-4ee0-a880-fb91c3b85b05/8644457586-500.jpg" data-tags="classical" role="button">
-Carl Orff - Orff: Carmina Burana (1995-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3cd63b6-ee9d-33ff-9aad-d49311880ff8/4554695782-500.jpg" data-tags="new age, adiemus" role="button">
 Adiemus - Songs of Sanctuary (1995-05-15)
@@ -84,13 +99,10 @@ Vanessa-Mae - The Violin Player (1995-05-16)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="electronic, ambient" role="button">
 William Orbit - Pieces in a Modern Style (1995-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/de43ed42-ae46-4aab-86bf-d044fb49a6e3/26672610950-500.jpg" data-tags="classical" role="button">
-Wolfgang Amadeus Mozart - Mozart for Meditation (1995-09-01)
-</li>
 <li data-cover="https://img.discogs.com/YBOWHoHgOigC8Xm2ecyi43E5LaQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7175124-1445541877-2351.jpeg.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - Requiem (1995-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
+<li data-cover="https://img.discogs.com/ILPIzP6NQlyA2Bf4MgVV7FCUpco=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-997207-1230324129.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
 Ludovico Einaudi - Le Onde (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/58186008-1efd-4c79-8658-65e58ef1be4c/5646849448-500.jpg" data-tags="instrumental, cover, symphonic metal, metal, cello" role="button">
@@ -105,7 +117,10 @@ Rachel's - Music for Egon Schiele (1996-02-20)
 <li data-cover="http://coverartarchive.org/release/ce2ebf1c-1132-4fbf-8064-956f468c5b0b/6731049183-500.jpg" data-tags="yann tiersen, contemporary classical" role="button">
 Yann Tiersen - Rue Des Cascades (1996-04-01)
 </li>
-<li data-cover="https://img.discogs.com/Te9_fj5vzJMkjIXpG2nSPAdglpQ=/fit-in/600x823/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16839945-1610140678-8429.jpeg.jpg" data-tags="classical" role="button">
+<li data-cover="https://img.discogs.com/MEqmjRXOi-WQUGEs-7tOX8wca4c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596687-1493645830-5425.jpeg.jpg" data-tags="classical" role="button">
+Ludwig van Beethoven - Classical Beethoven (1996-09)
+</li>
+<li data-cover="https://img.discogs.com/6m5eiVRe2WNSw8lrf66tMBR_Gvs=/fit-in/225x222/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15102498-1586713760-6077.jpeg.jpg" data-tags="classical" role="button">
 Sergei Prokofiev - Romeo and Juliet (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c95eaab-27ad-4da6-950f-59fd8cec6740/6171851259-500.jpg" data-tags="electronic, instrumental, chillout, ambient" role="button">
@@ -123,11 +138,17 @@ Apocalyptica - Inquisition Symphony (1998-09-22)
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
 Philip Glass - Koyaanisqatsi (1998-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/0bc86aed-5e64-4a15-bef6-666a09c9236a/14160170707-500.jpg" data-tags="classical" role="button">
+Johannes Brahms - Classical Masters: Brahms (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/96aedd99-3e56-423b-a5d7-b9d813b160fd/9237060116-500.jpg" data-tags="piano" role="button">
 Ludovico Einaudi - Eden Roc (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/f084b2b3-63ff-3f6c-b8eb-0a13f4ab9cc9/6768833257-500.jpg" data-tags="minimalism" role="button">
 Arvo Pärt - Alina (1999-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ebe8cc4-ee3e-4eb1-ae7d-b1fc09b49646/13435578387-500.jpg" data-tags="classical, wagner" role="button">
+Richard Wagner - The Royal Philharmonic Collection (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc8ab829-5388-4640-bb64-c41c4c1caea8/18688508262-500.jpg" data-tags="soundtrack" role="button">
 Thomas Newman - American Beauty (2000-01-11)
@@ -138,17 +159,11 @@ Apocalyptica - Cult (2000-08-24)
 <li data-cover="http://coverartarchive.org/release/aa6ad077-6428-4d8f-a779-6ff7ef6b7f5b/7766810050-500.jpg" data-tags="piano" role="button">
 Ludovico Einaudi - I Giorni (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
-E.S. Posthumus - Unearthed (2001-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/e267e17d-167e-4327-942a-6265ff3fc557/1166410528-500.jpg" data-tags="french, yann tiersen" role="button">
 Yann Tiersen - L'absente (2001-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/71932455-067b-4fcb-b9e4-2cb16da0bb96/1383827288-500.jpg" data-tags="soundtrack" role="button">
 Yann Tiersen - Amélie (2001-04-23)
-</li>
-<li data-cover="https://img.discogs.com/7KM22na095l5J8k-dZajEuCAKq0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1209151-1421431829-9161.jpeg.jpg" data-tags="classical, violin" role="button">
-Vanessa-Mae - Subject To Change (2001-05-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sarah brightman, female vocalists" role="button">
 Sarah Brightman - The Very Best Of 1990-2000 (2001-05-28)
@@ -162,17 +177,17 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 <li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/de303c46-f1b4-404b-9216-fb65002f858f/16223376046-500.jpg" data-tags="female vocalists, emma shapplin" role="button">
-Emma Shapplin - Etterna (2002-05-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
 Emilie Autumn - Enchant (2003-02-26)
 </li>
-<li data-cover="https://img.discogs.com/xMvs19vm_u-7ZjpvSKfZXUvs9TU=/fit-in/583x893/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3047818-1457889649-9376.jpeg.jpg" data-tags="classical" role="button">
-Johann Sebastian Bach - Chill with Bach (2003-09)
+<li data-cover="https://img.discogs.com/rX0rFXm9Ngs9mJov-Nuk-MBTcjE=/fit-in/599x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4846896-1377355013-5168.jpeg.jpg" data-tags="classical, josh groban" role="button">
+Josh Groban - Closer (2003-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4190b11-26fe-4a7e-a667-bae88a9634c2/9519022390-500.jpg" data-tags="piano" role="button">
 Myleene Klass - Moving On (2003-10-20)
+</li>
+<li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">
+Maurice Ravel - Piano Concerto (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbb6fa2e-393f-39a4-94cc-21caa3baf782/4514952186-500.jpg" data-tags="piano" role="button">
 Gonzales - Solo Piano (2004)
@@ -186,10 +201,7 @@ Max Richter - The Blue Notebooks (2004-02-26)
 <li data-cover="https://img.discogs.com/Saz_x58NtQ5n8_VRdBN2BLUO-Dw=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-710994-1150607422.jpeg.jpg" data-tags="classical, hayley westenra, contemporary classical, beautiful voice" role="button">
 Hayley Westenra - Pure (2004-04-06)
 </li>
-<li data-cover="https://img.discogs.com/A0xnIeXlwz77ePlAGkFq49JKVEE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652279-1330338099.jpeg.jpg" data-tags="classical, essential" role="button">
-Hayden - Elk-Lake Serenade (2004-05-18)
-</li>
-<li data-cover="https://img.discogs.com/aRHSTnnwrcCSv7RuEhHwX7optH8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7466748-1442062087-3335.jpeg.jpg" data-tags="instrumental, vanessa" role="button">
+<li data-cover="https://img.discogs.com/Pw4M5NgpfqHOI3kkHlfmWmUhMaQ=/fit-in/490x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477311-1125291134.jpg.jpg" data-tags="instrumental, vanessa" role="button">
 Vanessa-Mae - Choreography (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/ZHAPNEM-OI8MJhZrxLHI3leDKv0=/fit-in/500x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13908747-1563825490-6490.jpeg.jpg" data-tags="il divo, classical" role="button">
@@ -198,11 +210,11 @@ Il Divo - Il Divo (2004-11-01)
 <li data-cover="https://img.discogs.com/ERfXYMnxwSp6Ox6HkcIND2bqOjM=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2012472-1578852282-4021.jpeg.jpg" data-tags="classical, female vocalists" role="button">
 Hayley Westenra - Odyssey (2005-08-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="sitar" role="button">
-Anoushka Shankar - Rise (2005-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/db7a53e9-8865-4756-9d26-157e4f50d165/19887853784-500.jpg" data-tags="electronic" role="button">
 Emilie Autumn - Opheliac (2006-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/20e1927a-3703-4fa5-96d2-a027db1737ee/16785820466-500.jpg" data-tags="classical" role="button">
+Franz Liszt - The Very Best of Liszt (2006-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0257cd0d-999b-426b-b098-3902c691996a/11322636619-500.jpg" data-tags="christmas" role="button">
 Tarja - Henkäys Ikuisuudesta (2006-10-10)
@@ -219,9 +231,6 @@ Sarah Brightman - Symphony (2007)
 <li data-cover="https://img.discogs.com/VrMQPjBC62daox6swpVFW8xWAsM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-746488-1373094418-1552.jpeg.jpg" data-tags="classical" role="button">
 Gustav Holst - The Planets (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b3ee7b7-a91e-4b70-bcc2-2669d1bf013d/16302212379-500.jpg" data-tags="classical, singer-songwriter" role="button">
-Michael Cashmore - The Snow Abides (2007)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classical, instrumental, violin, victoriandustrial" role="button">
 Emilie Autumn - Laced/Unlaced (Double Disc) (2007-03-30)
 </li>
@@ -231,26 +240,17 @@ David Garrett - Virtuoso (2007-04-12)
 <li data-cover="http://coverartarchive.org/release/a0ab7460-dc52-44ff-8566-4b78730d0ccd/16682270227-500.jpg" data-tags="opera" role="button">
 Paul Potts - One Chance (2007-07-13)
 </li>
-<li data-cover="https://img.discogs.com/D_MMSYhBp_Ag28Z9lZXV4gLKKoc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626668-1486233031-1009.jpeg.jpg" data-tags="classical, male vocalists, duets, ryandan, canadian vocals, ryandan-ryandan" role="button">
-RyanDan - RyanDan (2007-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">
 Ólafur Arnalds - Eulogy for Evolution (2007-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3964b0f8-6868-4f2e-bbf7-e28a1a0d54cd/4457858158-500.jpg" data-tags="opera, classical" role="button">
 Andrea Bocelli - The Best of Andrea Bocelli - 'Vivere' (2007-10-30)
 </li>
-<li data-cover="https://img.discogs.com/KYEqn02LdGFfnMIKLYNyJHv0myY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2382326-1280766630.jpeg.jpg" data-tags="piano" role="button">
-Fabrizio Paterlini - Viaggi in aeromobile (2007-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/bcb103ed-1dc1-4679-ad43-ea23b77a2264/7081619659-500.jpg" data-tags="classical, singer-songwriter, easy listening, folktronica, lost, misc, richard, bananas, bats, miscellaneous, alt, rich, shady, special, must-listen, baroque folk, grady, zap, partial, dick, xian, missionary, shady grady, finis, deek, kolob, planet kolob, deek deek, deek deek deek, finis dake, ploppy, hie to kolob, this is something you can listen to, missionaries, sometimes auditory, jibby, finis jennings dake" role="button">
 Emily Wells - The Symphonies: Dreams Memories & Parties (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/29aa8ea1-2a36-46da-8443-29dfd363a754/2124955046-500.jpg" data-tags="classical, instrumental" role="button">
 Mike Oldfield - Music Of The Spheres (2008-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/466e6aaf-b8da-484a-a772-c0702f91ffa1/3366571520-500.jpg" data-tags="polish, piano, alternative" role="button">
-Julia Marcell - It Might Like You (2008-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3404e78-5b3f-4e2e-948f-4b8addc60419/9770396922-500.jpg" data-tags="classical, instrumental, violin" role="button">
 David Garrett - Encore (2008-10-24)
@@ -300,9 +300,6 @@ Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/5b08a32c-b1b1-41af-80aa-b278ee3b2cbd/4241397444-500.jpg" data-tags="breakcore" role="button">
-Igorrr - Hallelujah (2012-12-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/01a25c93-4628-42fc-af91-ef53c835be68/7238880970-500.jpg" data-tags="contemporary jazz" role="button">
 GoGo Penguin - v2.0 (2013)
 </li>
@@ -320,5 +317,8 @@ Lindsey Stirling - Shatter Me (2014-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c976f66-b784-4e09-be74-455f150a8082/7586223644-500.jpg" data-tags="house, classical crossover, electronic" role="button">
 Clean Bandit - New Eyes (2014-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/0d1f5f0e-a46b-455c-b518-1e9b79aab3db/8033025698-500.jpg" data-tags="classical, jazz, contemporary jazz, modal" role="button">
+Mammal Hands - Animalia (2014-09-15)
 </li>
 </ol>

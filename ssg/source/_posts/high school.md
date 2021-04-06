@@ -1,16 +1,16 @@
 ---
-date: 2021-04-06T03:24:01.359Z
+date: 2021-04-06T22:55:01.379Z
 title: "high school: 100 albums you must listen to before you die"
 ---
 ![Dirty Projectors - Bitte Orca (2009-06-08)](http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg "Dirty Projectors - Bitte Orca (2009-06-08)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="http://coverartarchive.org/release/6fdb3127-2e84-490d-b96d-6d255cc146a6/25675716252-500.jpg" data-tags="90s" role="button">The Wallflowers - Bringing Down The Horse (1996-05-21)</li>
 <li data-cover="https://img.discogs.com/fg6xREr7Ri5etCQwVkwN251aD64=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745026-1561988603-4040.png.jpg" data-tags="pop" role="button">OMC - How Bizarre (1996-10-16)</li>
 <li data-cover="http://coverartarchive.org/release/8e8a352f-7734-375a-8a6f-ef51429efef2/3275196261-500.jpg" data-tags="high school, mase, top25, old faves, hs-college" role="button">Mase - Harlem World (1997-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/4d3db5e0-83f7-45d2-8c59-4a0c36c85598/8655861797-500.jpg" data-tags="rock, indie rock, high school, fuck yeah, heroes and villains, vagrant records, rad, indie punk, yeah yeah yeah, designing, emo-tastic, prinnit-exclamationpoint, albums i loved, have a copy" role="button">The Anniversary - Designing A Nervous Breakdown (2000-01-25)</li>
 <li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">Sondre Lerche - Two Way Monologue (2003)</li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">Motion City Soundtrack - Commit This to Memory (2005-06-07)</li>
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk, pitchfork best new music" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/9e5f8261-6513-4a90-91c9-76c0562a27f5/13719785746-500.jpg" data-tags="indie rock, high school, folk punk" role="button">The Front Bottoms - The Front Bottoms (2011-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/87b091a1-c5b8-4ac3-a2d5-e9a6f7e19f6f/7548157736-500.jpg" data-tags="indie, indie rock, high school, names of people" role="button">The Front Bottoms - Rose (2014-06-17)</li>
@@ -105,9 +105,6 @@ Soul Coughing - Ruby Vroom (1994-09-27)
 <li data-cover="http://coverartarchive.org/release/599d1dcd-bb96-4802-91c4-f7afcb0143e1/9742630617-500.jpg" data-tags="90s, rock" role="button">
 Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
-Sublime - Sublime (1995)
-</li>
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
 </li>
@@ -162,7 +159,7 @@ Less Than Jake - Losing Streak (1996-11-12)
 <li data-cover="http://coverartarchive.org/release/4b6b7fc2-39e7-4986-88ab-aa165a6f79c0/16054483460-500.jpg" data-tags="alternative, rock" role="button">
 Blind Melon - Nico (1996-11-12)
 </li>
-<li data-cover="https://img.discogs.com/hQlc92pvhyAQT5tNcTWTpje6BMM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-555746-1159611219.jpeg.jpg" data-tags="easy listening" role="button">
+<li data-cover="https://img.discogs.com/8_zs1rwhyuZmunrNHaMa5Ex_fLY=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3551863-1334978409.jpeg.jpg" data-tags="easy listening" role="button">
 Bic Runga - Drive (1997-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5407adc7-55e8-4aff-b4aa-8d58935822b7/15147108613-500.jpg" data-tags="alternative rock, alternative, 90s" role="button">
@@ -182,9 +179,6 @@ Mase - Harlem World (1997-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5e939ce-217e-3501-82d9-e89514cbeed0/21943957318-500.jpg" data-tags="90s, female vocalist, high school, growing, one-hit-wonder, living in oblivion, driving tunes, weallgetold, pains, albums in my cd rack" role="button">
 Billie Myers - Growing, Pains (1997-11-18)
-</li>
-<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="painted black, rollinstones" role="button">
-The Rolling Stones - Paint It Black (1998-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee01592b-5da1-3dea-a289-d2b0906b7d5a/5679112410-500.jpg" data-tags="rock" role="button">
 Fuel - Sunburn (1998-03-31)
@@ -252,7 +246,7 @@ Acid House Kings - Mondays are like Tuesdays and Tuesdays are like Wednesdays (2
 <li data-cover="http://coverartarchive.org/release/a8d5ab9a-5c40-4364-af80-f2337b91fb9a/18080007064-500.jpg" data-tags="pop, female vocalists, trip hop, australia, high school, road trip, from mark, buzakara luvs music, perth03, cristal voice, female - george" role="button">
 George - Polyserena (2002-03-04)
 </li>
-<li data-cover="https://img.discogs.com/TlU4oJ_UvJSaPXLZmtpyZPdUpnM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-441517-1194227261.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/sChwWEWGF9sNNtfqj4pPsW7uYUk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311222-1527696300-4246.jpeg.jpg" data-tags="indie" role="button">
 The Walkmen - Everyone Who Pretended to Like Me Is Gone (2002-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c1d5131-ab01-4451-ada7-eb3850f6a196/14766541965-500.jpg" data-tags="indie, rock, pop rock, singer, songwriter, high school, producer, discoverockult, just another folk singer" role="button">
@@ -260,6 +254,9 @@ Butch Walker - Left Of Self-Centered (2002-07-09)
 </li>
 <li data-cover="https://img.discogs.com/BiVl7pKwXe3Az0ioKn7NqZIZit8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-85535-1374551650-2056.jpeg.jpg" data-tags="alternative, electronic, synthpop" role="button">
 New Order - International (2002-10)
+</li>
+<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="painted black, rollinstones" role="button">
+The Rolling Stones - Paint It Black (2003)
 </li>
 <li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
@@ -305,6 +302,9 @@ Dope - American Apathy (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b1aec1d-b598-46e4-9ae6-9788567df2b8/5831128979-500.jpg" data-tags="pop, rock, singer-songwriter, pop rock, 90s, adult alternative, male vocalists, college, high school, 00s, hootie and the blowfish, i own, four dollar cds" role="button">
 Hootie & The Blowfish - Looking For Lucky (2005-08-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
+Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk, pitchfork best new music" role="button">
 Dirty Projectors - Bitte Orca (2009-06-08)
