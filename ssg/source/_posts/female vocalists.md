@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:34:01.564Z
+date: 2021-04-06T20:59:01.527Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -72,9 +72,6 @@ Norah Jones - Come Away with Me (2002-02-26)
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
-Avril Lavigne - Let Go (2002-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a0c6963-683e-4275-bebb-0279092ee772/2081207603-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Stripped (2002-10-28)
 </li>
@@ -86,6 +83,9 @@ Evanescence - Fallen (2003-03-04)
 </li>
 <li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
+Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/398e0153-1af0-4052-a78d-d0120e80bc48/22471055903-500.jpg" data-tags="pop" role="button">
 Dido - Life for Rent (2003-09-26)
@@ -147,14 +147,14 @@ The Pussycat Dolls - PCD (2005-09-12)
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
 Katie Melua - Piece by Piece (2005-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
-Enya - Amarantine (2005-11-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/9a4edbc4-9f12-456c-bdbe-126923ad262c/8974984510-500.jpg" data-tags="female vocalists, indie" role="button">
 Cat Power - The Greatest (2006-01-07)
 </li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/238e03d1-2a43-4d87-8608-6f2e8a5a66a6/5835269563-500.jpg" data-tags="indie rock, rock" role="button">
+Yeah Yeah Yeahs - Show Your Bones (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">
 Ingrid Michaelson - Girls and Boys (2006-05-16)

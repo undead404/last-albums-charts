@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:24:01.375Z
+date: 2021-04-06T21:44:01.461Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -138,6 +138,9 @@ Rage Against the Machine - Renegades (2000-11-28)
 <li data-cover="http://coverartarchive.org/release/f38a8e29-3c4f-438b-809d-afd2ac0b603b/16490273372-500.jpg" data-tags="nu metal, hard rock" role="button">
 Saliva - Every Six Seconds (2001-03-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/42680bd0-54d5-4f68-9b4a-187861ff634f/15999540484-500.jpg" data-tags="reggae, alternative rock, rock" role="button">
+311 - From Chaos (2001-06-19)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 40 Below Summer - Invitation to the Dance (2001-09-11)
 </li>
@@ -152,9 +155,6 @@ Cypress Hill - Stoned Raiders (2001-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca90a458-54af-341b-8057-9f281774bdd0/3948496093-500.jpg" data-tags="rapcore, rock" role="button">
 Molotov - Dance And Dense Denso (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a64d85a-ae57-41f7-ac17-13228ff0eaea/20928284068-500.jpg" data-tags="rapcore, nu metal" role="button">
-Jane Air - Pull Ya? Let it doll go (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/d74363e7-3b88-43b2-8c0e-07b1e2387fe7/11181792802-500.jpg" data-tags="3rd strike" role="button">
 3rd Strike - Lost Angel (2002-05-14)

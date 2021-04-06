@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:32:01.403Z
+date: 2021-04-06T21:05:01.442Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -38,6 +38,9 @@ Fischerspooner - #1 (2000-03)
 </li>
 <li data-cover="https://img.discogs.com/IlMUkavlOonlS5zmsCFNOrJCrsA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-220194-1158742588.jpeg.jpg" data-tags="electronic, electroclash" role="button">
 Ladytron - 604 (2001-02-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house, electro" role="button">
+Felix da Housecat - Kittenz and Thee Glitz (2001-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d0b6eb0-8d92-3ec1-a6ae-f939a7980426/7587631086-500.jpg" data-tags="indie, electronic" role="button">
 The Faint - Danse MacAbre (2001-08-21)
@@ -263,9 +266,6 @@ Far East Movement - Free Wired (2010-10-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
-Sebastian - Total (2011-05-27)
 </li>
 <li data-cover="https://img.discogs.com/0ZPRLT6yZCcmbeRD0RYkuUiDkE4=/fit-in/590x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3031107-1312506095.jpeg.jpg" data-tags="future garage" role="button">
 Totally Enormous Extinct Dinosaurs - Trouble (2011-07-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T18:48:01.567Z
+date: 2021-04-06T20:47:01.528Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -147,6 +147,9 @@ Matt Costa - Songs We Sing (2005)
 <li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">
 William Fitzsimmons - Until When We Are Ghosts (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1eb508e-06ac-4f4d-949d-e836726ac258/10364697005-500.jpg" data-tags="folk, acoustic, indie" role="button">
+Iron & Wine - Woman King (2005-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
@@ -158,6 +161,9 @@ City and Colour - Sometimes (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/27a0c006-98f3-428a-a945-56a2ab39f070/15577024250-500.jpg" data-tags="acoustic, guitar" role="button">
+Andy McKee - Art of Motion (2006-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bf551f7-96be-3f50-8ae4-9895eb26af9a/7965698121-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Sing-A-Longs and Lullabies For The Film Curious George (2006-02-06)
@@ -180,9 +186,6 @@ Alexi Murdoch - Time Without Consequence (2006-06-06)
 <li data-cover="http://coverartarchive.org/release/b1f237d6-edf1-46f8-971c-a7280b53bdc6/1068689504-500.jpg" data-tags="acoustic" role="button">
 Seether - One Cold Night (2006-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
-Regina Spektor - Begin to Hope (2006-06-13)
-</li>
 <li data-cover="https://img.discogs.com/XvPfiUyNYnGMcQ3sgYiddCGTqLc=/fit-in/453x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735564-1299014714.jpeg.jpg" data-tags="acoustic, folk, joshua radin" role="button">
 Joshua Radin - We Were Here (2006-06-13)
 </li>
@@ -201,14 +204,14 @@ Justin Nozuka - Holly (2007)
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Coco (2007-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
 </li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
+Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Angus & Julia Stone - A Book Like This (2007-09-08)
@@ -275,9 +278,6 @@ The Head and the Heart - The Head and The Heart (2010-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1782be70-4a31-4ff8-a0a8-33a72a2ae7a4/11006677943-500.jpg" data-tags="folk, rock" role="button">
 Bruce Springsteen - Nebraska (2010-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
-Agnes Obel - Philharmonics (2010-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)

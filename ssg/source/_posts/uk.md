@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:29:01.426Z
+date: 2021-04-06T21:28:01.518Z
 title: "uk: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -51,7 +51,7 @@ The Smiths - Strangeways, Here We Come (1987-09-22)
 <li data-cover="http://coverartarchive.org/release/9df42f72-ae56-4f5b-8f35-53aa3e8665b6/7036450645-500.jpg" data-tags="classic rock, rock, 60s, 80s, uk, compilation, rock pop, english group" role="button">
 The Beatles - Past Masters, Volume One (1988-03-07)
 </li>
-<li data-cover="https://img.discogs.com/QCYd0wbBuBXY6Pa0PO9RI94p0oo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-679682-1146862594.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/_mk6UeLI52uNeSScGOuT4u94rbo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649918-1221129835.jpeg.jpg" data-tags="indie rock" role="button">
 The Wedding Present - Seamonsters (1991-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9c5c09d-4c24-47de-bf43-c6ea218de29a/1637331973-500.jpg" data-tags="rock pop" role="button">
@@ -84,7 +84,7 @@ Travis - The Man Who (1999-05-24)
 <li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
-<li data-cover="https://img.discogs.com/U9LEG7nZ8JktYxlMgjZkfCNlWSM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66347-1374100615-6026.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/CJhJ45koC9gGnmGp9RYo4t_6yCQ=/fit-in/296x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339637-1303975891.jpeg.jpg" data-tags="electronic" role="button">
 Death in Vegas - The Contino Sessions (1999-09-13)
 </li>
 <li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
@@ -120,8 +120,14 @@ The Coral - The Coral (2002-07-29)
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">
+Pulp - Hits (2002-11-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
+</li>
+<li data-cover="https://img.discogs.com/BIFFlFcgE_WXsUFm1iEBDRLvtko=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460634-1602939219-3786.jpeg.jpg" data-tags="rock, indie rock, igneoustempest" role="button">
+Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/68db5bae-192d-4f35-88fc-984d6a976ec7/1269152456-500.jpg" data-tags="alternative, experimental, uk, shoegaze, garage rock, gospel, 00s, 2000s, west midlands, sanctuary, rugby, midlands, fuzzy guitar goodness, where is my bong, warwickshire, drunk tank singalong tune, wintercase 07, spiritual radio" role="button">
 Spiritualized - Amazing Grace (2003-09-08)
@@ -159,9 +165,6 @@ Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4cba698-1145-443b-9c5e-83217f0607b6/5375956926-500.jpg" data-tags="rock" role="button">
-Oasis - Stop the Clocks (2006-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
 </li>
@@ -192,13 +195,13 @@ Turin Brakes - Dark On Fire (2007-09-17)
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="uk, pop-rock, tom1, coolwench" role="button">
+<li data-cover="https://img.discogs.com/Y-Yi_ggmQSrqk6fzQ8ZlIHcG2IA=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813412-1333386623.jpeg.jpg" data-tags="uk, pop-rock, tom1, coolwench" role="button">
 Franz Ferdinand - Lucid Dreams (2008-08-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
 </li>
-<li data-cover="https://img.discogs.com/dOJ1AHm2GhNiNfXVb-R0Hv_kODY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1710478-1270906698.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
+<li data-cover="https://img.discogs.com/kJ4wLalFEADFJLPeMcKLqSchBdc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541080-1576383388-7770.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
 Kaiser Chiefs - Off with Their Heads (2008-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5660fc5b-afca-4a23-9693-2ae2c90d9782/7003010587-500.jpg" data-tags="pop" role="button">
@@ -251,9 +254,6 @@ Elbow - Build a Rocket Boys! (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/51d5b8ae-a65b-4e0f-b324-a3cb263ba705/1425942008-500.jpg" data-tags="electronic, dubstep" role="button">
 Katy B - On a Mission (2011-04-01)
-</li>
-<li data-cover="https://img.discogs.com/_my-Nm99tDlCvFGBTKyhGAR_yHo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10471813-1498130631-5231.jpeg.jpg" data-tags="disco, chillout, soul, uk, dance, motown, funk, house, indietronica, 90s, funky, groovy, soulful house, beach house, lp, chic, hh" role="button">
-Crazy P - When We On (2011-09-19)
 </li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)

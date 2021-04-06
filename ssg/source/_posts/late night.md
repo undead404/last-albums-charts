@@ -1,15 +1,15 @@
 ---
-date: 2021-04-06T06:10:01.648Z
+date: 2021-04-06T21:11:01.425Z
 title: "late night: 100 albums you must listen to before you die"
 ---
 ![Chromatics - Kill for Love (2012-03-26)](http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg "Chromatics - Kill for Love (2012-03-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">Cat Power - Moon Pix (1998-09-22)</li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
+<li data-cover="http://coverartarchive.org/release/c47258f3-f09a-48e2-8eb1-726e7ef7436b/15648762840-500.jpg" data-tags="alternative rock, pop punk" role="button">Cobra Starship - While The City Sleeps, We Rule The Streets (2006-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/a2f68207-3f59-4bdc-a672-1c30f6ee16ab/15535338504-500.jpg" data-tags="electronic" role="button">Cobra Starship - ¡Viva La Cobra! (2007-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">Little Dragon - Ritual Union (2011-05-13)</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">Chromatics - Kill for Love (2012-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg" data-tags="punk, revolution, hard rock, energetic, angry, late night, passionate, fierce, intense, fiery, confrontational, earnest, snide, raucous, drinking, road trip, protest, nighttime, rebellious, joy, exuberant, empowerment, cathartic, rowdy, volatile, gutsy, sprawling, british punk, dance-rock, tgif, brash, guys night out, hanging out, reckless, night driving, open road" role="button">The Clash - Hits Back (2013-08-26)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/8415536b-cc0f-46b5-bfd4-95f87ec0b7ca/20559607098-500.jpg" data-tags="sitar, raga" role="button">
 Ravi Shankar - The Sounds of India (1958)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, free jazz" role="button">
-Ornette Coleman - The Shape of Jazz to Come (1959-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b080958a-f13b-4be3-b02d-7537f9a14735/14838055580-500.jpg" data-tags="jazz" role="button">
 Grant Green - Idle Moments (1964)
@@ -45,7 +42,7 @@ Robert Palmer - Clues (1980)
 <li data-cover="http://coverartarchive.org/release/b6b61a32-aded-477b-97e9-aa77756afe82/1857195645-500.jpg" data-tags="pop, new wave" role="button">
 Grace Jones - Warm Leatherette (1980)
 </li>
-<li data-cover="https://img.discogs.com/qcSOQbLUPx2Niz8UmABtFKjross=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243906-1380281119-8873.jpeg.jpg" data-tags="classic rock, soft rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/KtKDgTR6V8xLnPoZw5VFJHg9sjY=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3901444-1349127596-8686.jpeg.jpg" data-tags="classic rock, soft rock, 70s" role="button">
 Steely Dan - Gaucho (1980-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ea949d3-1de7-3f1e-84c1-f7e4c02971b8/1096667456-500.jpg" data-tags="ambient" role="button">
@@ -63,10 +60,10 @@ Angelo Badalamenti - Soundtrack From Twin Peaks (1990-08-31)
 <li data-cover="http://coverartarchive.org/release/a51280da-bfc8-3572-95ab-f56b6549592f/3973690036-500.jpg" data-tags="hip-hop" role="button">
 Pete Rock & C.L. Smooth - Mecca and the Soul Brother (1992-06-09)
 </li>
-<li data-cover="https://img.discogs.com/I5fvlW6nBIflOImPqtGD6LBw6_Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099999-1191992249.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/O9-ZpQpvt3gsm9dlgCRXDOCfeDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10046-1573154029-6024.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
 Everything But the Girl - Amplified Heart (1994-06-13)
 </li>
-<li data-cover="https://img.discogs.com/DVO4ZrB4UcZ4oXzUSfxH1RjZutU=/fit-in/566x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2823240-1302635712.jpeg.jpg" data-tags="singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/-h70gyn79TN3tHRHIc-2oEjO8g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1011028-1183849404.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Roman Candle (1994-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
@@ -81,10 +78,10 @@ Cat Power - Myra Lee (1996-03-04)
 <li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
 Broadcast - Work and Non Work (1997-06-09)
 </li>
-<li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
+<li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
-<li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0709c446-e190-4dce-b469-908e51267770/4058092546-500.jpg" data-tags="electronica, idm, boards of canada, electronic, downtempo" role="button">
@@ -108,7 +105,7 @@ Peggy Lee - The Best Of Miss Peggy Lee (1998-10-08)
 <li data-cover="https://img.discogs.com/CHNcPnuEh8wXeeCBy4GdJMTqGDQ=/fit-in/363x363/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2262560-1362436506-6613.gif.jpg" data-tags="kranky" role="button">
 Low - Secret Name (1999-03-30)
 </li>
-<li data-cover="https://img.discogs.com/D2NdV8erfsfu9n6z_4MvJzdqrI4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10882504-1505895149-5695.jpeg.jpg" data-tags="electronic, electronica, indie rock, indie electronic, post-rock, downtempo, druggy, ambient pop, psychedelic pop, dreamy, reflective, atmospheric, whimsical, late night, dream pop, clinical, literate, ethereal, fractured, wry, dramatic, introspection, reflection, eerie, hypnotic, spacey, psychedelic rock, trippy, sophisticated, poignant, detached, playful, sunday afternoon, sweet, solitude, delicate, light, background music, nocturnal, imagination, avant-pop, refined, stylish, wintry, hanging out, restrained, sparkling, circular, innocent, spiked-candy radio, space-age, retro-futuristic, julian house album art, ashich party" role="button">
+<li data-cover="https://img.discogs.com/uAijLGtWlJXfh--0l2ljVkXPBrk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668-1468409952-1004.jpeg.jpg" data-tags="electronic, electronica, indie rock, indie electronic, post-rock, downtempo, druggy, ambient pop, psychedelic pop, dreamy, reflective, atmospheric, whimsical, late night, dream pop, clinical, literate, ethereal, fractured, wry, dramatic, introspection, reflection, eerie, hypnotic, spacey, psychedelic rock, trippy, sophisticated, poignant, detached, playful, sunday afternoon, sweet, solitude, delicate, light, background music, nocturnal, imagination, avant-pop, refined, stylish, wintry, hanging out, restrained, sparkling, circular, innocent, spiked-candy radio, space-age, retro-futuristic, julian house album art, ashich party" role="button">
 Broadcast - Echo's Answer (1999-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
@@ -126,7 +123,7 @@ Broadcast - The Noise Made by People (2000-03-20)
 <li data-cover="http://coverartarchive.org/release/6d8a9b40-4b93-4c89-9891-4798356c0483/14483846468-500.jpg" data-tags="post-rock" role="button">
 Calla - Scavengers (2001-01-16)
 </li>
-<li data-cover="https://img.discogs.com/RWtrCfF6nCrrt3rNcF1ivzYF7W0=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289844-1327093892.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/nhSSbBGCHt-vCasZukQpBin2kns=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3049050-1313331841.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/194ba0b8-8f76-3122-b5bd-6e2e6d8937dc/7202965936-500.jpg" data-tags="lo-fi, for rainy days, 00s, minimal indie" role="button">
@@ -165,7 +162,7 @@ Jem - Finally Woken (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/66a1302d-2a98-4333-84a3-a2d24c398205/2568731266-500.jpg" data-tags="electronic, indie, synthpop, electro-pop" role="button">
 Junior Boys - Last Exit (2004-06-07)
 </li>
-<li data-cover="https://img.discogs.com/HskuMr3aSW8eNVDhMC6hxxwEzQ8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742862-1154197954.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/pqHGjbiJ-g74HIVrPmjtwynSmVs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926857-1186771250.jpeg.jpg" data-tags="indie rock" role="button">
 Gossip - Standing in the Way of Control (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbb9cd2c-6cb4-34f6-b0cc-cd8cc63bf06d/3431742462-500.jpg" data-tags="electronica" role="button">
@@ -174,7 +171,7 @@ Lemon Jelly - '64-'95 (2005-01-31)
 <li data-cover="https://img.discogs.com/BfR23KCmeMY9SrhQ9fXmNBj4_ZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515157-1314050368.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Nada Surf - The Weight Is a Gift (2005-09-05)
 </li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
 Broadcast - Tender Buttons (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0db988-56e4-49fd-810e-da9115f36555/27541791129-500.jpg" data-tags="indie rock, shoegaze" role="button">
@@ -185,6 +182,9 @@ Sonic Youth - Rather Ripped (2006-06-05)
 </li>
 <li data-cover="https://img.discogs.com/iCPdPnfWNtr23gzqCpSNdXWLMOY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-888565-1370121938-7859.jpeg.jpg" data-tags="alternative, downtempo" role="button">
 Husky Rescue - Ghost Is Not Real (2006-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c47258f3-f09a-48e2-8eb1-726e7ef7436b/15648762840-500.jpg" data-tags="alternative rock, pop punk" role="button">
+Cobra Starship - While The City Sleeps, We Rule The Streets (2006-10-10)
 </li>
 <li data-cover="https://img.discogs.com/-oH9r0aXPuq17kCyFhG80rDsv_Y=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1384076-1566684981-9622.jpeg.jpg" data-tags="rnb, rap" role="button">
 Pretty Ricky - Late Night Special (2007-01-23)
@@ -249,9 +249,6 @@ Atlas Sound - Logos (2009-10-19)
 <li data-cover="https://img.discogs.com/-GkWG45qF0RFwPY6xXnRV_BMyWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455118-1284997260.jpeg.jpg" data-tags="singer-songwriter, late night, the good stuff" role="button">
 Peter Broderick - How They Are (2010-09-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
-No Age - Everything in Between (2010-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
 The Kills - Blood Pressures (2011-04-04)
 </li>
@@ -260,6 +257,9 @@ Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1f9ca0a-c300-45b5-b62c-ae24c53da1bc/1329874155-500.jpg" data-tags="electronic, remix" role="button">
 Radiohead - TKOL RMX 1234567 (2011-09-21)
+</li>
+<li data-cover="https://img.discogs.com/3eXRYIwql3bqKRebawNgqXRnoFU=/fit-in/454x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7069252-1432995919-5786.jpeg.jpg" data-tags="soul" role="button">
+Bobby Womack - The Bravest Man in the Universe (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdcfa60a-672c-457b-8af1-555d26c9a930/6937966748-500.jpg" data-tags="cold wave" role="button">
 Linea Aspera - Linea Aspera (2012-01-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:05:01.478Z
+date: 2021-04-06T20:51:01.632Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -138,7 +138,7 @@ Robbie Williams - Sing When You're Winning (2000-08-21)
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur: The Best Of (2000-10-23)
 </li>
-<li data-cover="https://img.discogs.com/hbOAG3Ic7GeK9dMEWfMYOzKBJgM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684540-1435487995-6290.jpeg.jpg" data-tags="britpop, rock, indie rock" role="button">
+<li data-cover="https://img.discogs.com/R3So1-sky63DhEQ1Mm8y7zbCOgw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702238-1490701455-2106.jpeg.jpg" data-tags="britpop, rock, indie rock" role="button">
 Stereophonics - Just Enough Education to Perform (2001-04-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="britpop, travis" role="button">
@@ -162,13 +162,16 @@ Coldplay - A Rush of Blood to the Head (2002-08-12)
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">
+Pulp - Hits (2002-11-18)
+</li>
 <li data-cover="https://img.discogs.com/hbOAG3Ic7GeK9dMEWfMYOzKBJgM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684540-1435487995-6290.jpeg.jpg" data-tags="rock, indie rock, indie, britpop" role="button">
 Stereophonics - You Gotta Go There to Come Back (2003-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/054cda68-baca-455e-9fdb-8c9663be2280/21752177114-500.jpg" data-tags="indie, alternative, indie rock, rock" role="button">
 Snow Patrol - Final Straw (2003-08-04)
 </li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/47a1f944-e46f-4a7e-b882-1632c9397176/15016689641-500.jpg" data-tags="britpop, indie" role="button">
@@ -189,7 +192,7 @@ Keane - Hopes and Fears (2004-05-10)
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
-<li data-cover="https://img.discogs.com/L1ndZqocmj1wFU2YV5H-YWyR8zM=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3395867-1363193635-6386.jpeg.jpg" data-tags="britpop" role="button">
+<li data-cover="https://img.discogs.com/bCvo0u-fI1fMoH0mlxLYtvXgbiQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386356-1503234124-5162.jpeg.jpg" data-tags="britpop" role="button">
 Embrace - Out of Nothing (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
@@ -252,7 +255,7 @@ Oasis - Stop the Clocks (2006-11-15)
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/FJRuQ-u_ekJz7axuWvYJow0CTTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326266-1508526547-8034.jpeg.jpg" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock, britpop" role="button">
@@ -288,9 +291,6 @@ Radiohead - The Best Of (2008-06-02)
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab89d81d-9744-4dae-84df-33b8ce644035/28302499242-500.jpg" data-tags="indie, rock, british, indie pop, indie rock, britpop" role="button">
-Bombay Bicycle Club - Evening/Morning (2008-08-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
 </li>
@@ -300,7 +300,7 @@ The Verve - Forth (2008-08-25)
 <li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Dig Out Your Soul (2008-10-01)
 </li>
-<li data-cover="https://img.discogs.com/dOJ1AHm2GhNiNfXVb-R0Hv_kODY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1710478-1270906698.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
+<li data-cover="https://img.discogs.com/kJ4wLalFEADFJLPeMcKLqSchBdc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541080-1576383388-7770.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
 Kaiser Chiefs - Off with Their Heads (2008-10-17)
 </li>
 <li data-cover="https://img.discogs.com/YsK8Ta9EizoLHPgxNAi6-gEzA9Y=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1494954-1223975134.jpeg.jpg" data-tags="britpop" role="button">

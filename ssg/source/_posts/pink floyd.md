@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:15:01.497Z
+date: 2021-04-06T21:33:01.597Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -75,7 +75,7 @@ Pink Floyd - Animals (1977-01-23)
 <li data-cover="http://coverartarchive.org/release/8793ad9f-ed81-4355-afcb-4b663ff14f86/1965116372-500.jpg" data-tags="progressive rock" role="button">
 David Gilmour - David Gilmour (1978-05-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soft rock, progressive rock, rockstar, wright is never wrong" role="button">
+<li data-cover="https://img.discogs.com/0yrEiyDsOslpS69MvvW1tG-RK5I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-409930-1506580136-9788.jpeg.jpg" data-tags="soft rock, progressive rock, rockstar, wright is never wrong" role="button">
 Richard Wright - Wet Dream (1978-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/72854a57-88e6-33e2-b899-f0777a83e3b3/13560221832-500.jpg" data-tags="leonard cohen, folk" role="button">
@@ -99,23 +99,29 @@ David Gilmour - About Face (1984-03-05)
 <li data-cover="http://coverartarchive.org/release/6511241e-4e87-4bed-ac22-a012523c58b8/2978187379-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - The Pros and Cons of Hitch Hiking (1984-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/62ab0e3d-eecc-4e3a-807d-7dcd28aee4d9/1612145208-500.jpg" data-tags="pink floyd" role="button">
-Pink Floyd - Best Ballads (1985-09-21)
-</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
-U.D.O. - Animal House (1987)
-</li>
 <li data-cover="https://img.discogs.com/sNgRvuxw78AEWk7TH4f_-1Y28C4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760586-1334719012.jpeg.jpg" data-tags="progressive rock, rock" role="button">
 Roger Waters - Radio K.A.O.S. (1987-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
 </li>
+<li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Double Hits Collection, Volume 1 (1987-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/23ae9ee1-2caa-48f4-8daf-e51174e4f61a/8272749947-500.jpg" data-tags="trance, remix, pink floyd, chilled out, good reading or napping music" role="button">
+Pink Floyd - Meddle: Limited Edition Trance Remix (1987-10-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/45e99e44-c955-4d44-94b9-8f0e1593fa12/23911853040-500.jpg" data-tags="psychedelic rock, classic rock, psychedelic" role="button">
 Syd Barrett - Opel (1988-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
 Pink Floyd - Delicate Sound of Thunder (1988-11-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/f350379e-932c-4337-898b-c7184a1b677c/26730463901-500.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Music for Architectural Students (1989)
+</li>
+<li data-cover="https://img.discogs.com/y2OasXXRniX6TG_Awj_xHPxwwvw=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2466411-1455885631-3300.jpeg.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Amsterdam '69 (1990)
 </li>
 <li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="progressive rock, classic rock, psychedelic rock" role="button">
 Pink Floyd - Dark Side of the Sky (1990)
@@ -129,11 +135,17 @@ Kris Kristofferson - SONGS OF KRISTOFFERSON (1990)
 <li data-cover="http://coverartarchive.org/release/42dc95e4-975f-4c81-8d27-b9b324fc33cf/16327686467-500.jpg" data-tags="classic rock, pink floyd" role="button">
 Pink Floyd - The Man & the Journey (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d0d77aa-b955-4ca6-9c26-d4db1e358329/9433620776-500.jpg" data-tags="pink floyd, psychedelic-space rock" role="button">
+Pink Floyd - Welcome to the Machine (1990)
+</li>
 <li data-cover="https://img.discogs.com/Mjh5jJ8qNpv2T1qOlUxjHImWDRM=/fit-in/598x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1267372-1205017850.jpeg.jpg" data-tags="progressive rock" role="button">
 Roger Waters - The Wall: Live In Berlin (1990-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b1c878-9518-4f7c-842e-5445e6c70f69/26927826204-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Pompeii (1990-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/62e97212-44dd-489e-8dba-c6db7f24cff5/20596913976-500.jpg" data-tags="excellent, pink floyd, bootleg, wish you were here" role="button">
+Pink Floyd - Live USA (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/78f029f2-6f17-4530-bcd8-1c5a281fab53/8917963033-500.jpg" data-tags="classic rock, metal, rock, punk, alternative rock, progressive rock, psychedelic, pink floyd, garage rock, glam rock, powerpop, chameleon, proto punk, qogf, rock-protopunk, prog related, my prog rock favs" role="button">
 David Gilmour - New Game (1992)
@@ -156,9 +168,6 @@ Pink Floyd - The Division Bell (1994-03-28)
 <li data-cover="http://coverartarchive.org/release/f0411191-e6d2-487e-b90b-f19bd2030bae/9587789382-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Stranger Than Fiction (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ef275e7-74f2-48e0-bada-1f9419b98cce/27980960079-500.jpg" data-tags="pop, japanese, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy" role="button">
-カヒミ・カリィ - My First Karie (1995-01-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Pulse (1995-05-29)
 </li>
@@ -180,14 +189,11 @@ Rick Wright - Broken China (1996-10-07)
 <li data-cover="http://coverartarchive.org/release/47d05d4d-f62e-48c5-aa8c-09597cb52616/25985902238-500.jpg" data-tags="60s" role="button">
 Pink Floyd - 1967: The First 3 Singles (1997-08-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/0db42e94-f7dd-4dbf-b441-60503e558b87/6477181486-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
-カヒミ・カリィ - the best of trattoria years plus more (1998-09-30)
-</li>
 <li data-cover="https://img.discogs.com/sJv05ptl6uDOLZhc1dobWbBCy7c=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2056247-1261314219.jpeg.jpg" data-tags="folk, pink floyd, smooth instrumental violin, rolling stones live" role="button">
 The Albion Band - Before Us Stands Yesterday (1999)
 </li>
-<li data-cover="https://img.discogs.com/pZtovo9k-ZmVlcbTzx-_13uOYHU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2527357-1476306978-1191.jpeg.jpg" data-tags="pink floyd" role="button">
-Pink Floyd - Pink Floyd Golden Collection 2000 (1999)
+<li data-cover="http://coverartarchive.org/release/e726d02c-b61f-476f-99ed-5bf2574a6047/1223044263-500.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Legendary Rock Stars Greatest Hits (1999)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, ringo, j-pop" role="button">
 椎名林檎 - Muzai Moratorium (1999-02-24)
@@ -234,7 +240,7 @@ Cornelius - CM2 (2003-06-25)
 <li data-cover="https://img.discogs.com/2db7W1kyzQ9ocVZ88XzDb4NfJ-w=/fit-in/591x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905319-1362137952-5607.jpeg.jpg" data-tags="delta blues, vblues" role="button">
 Eric Sardinas - Black Pearls (2003-08-26)
 </li>
-<li data-cover="https://img.discogs.com/h4kBVI540ZBhL0I8a_dRz_E7J9Q=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6606995-1422976966-4447.jpeg.jpg" data-tags="mark knopfler, rock, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/MT-1suKG8vhwq8vHsLH6yddH9LI=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1111972-1192902598.jpeg.jpg" data-tags="mark knopfler, rock, singer-songwriter" role="button">
 Mark Knopfler - Shangri-La (2004-09-27)
 </li>
 <li data-cover="https://img.discogs.com/j1cw6tuQlOTPr5DUd7X3pffrDkI=/fit-in/483x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2602279-1292652149.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -249,13 +255,16 @@ Buzz Carlton - Just This Side of the Blues (2006-07-11)
 <li data-cover="http://coverartarchive.org/release/39435b39-2faa-4d28-b2df-f7885ceedecb/7152713003-500.jpg" data-tags="female vocalists" role="button">
 Chelsea Wolfe - Mistake in Parting (2006-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/62ab0e3d-eecc-4e3a-807d-7dcd28aee4d9/1612145208-500.jpg" data-tags="pink floyd" role="button">
+Pink Floyd - Best Ballads (2006-09-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ec16d9d-f953-4ca2-add5-a0af5e3d855b/16251209190-500.jpg" data-tags="soundtrack, pink floyd" role="button">
 Pink Floyd - Zabriskie Point (2006-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c6f861e-c347-4c5c-aed1-eae205297c67/8906628497-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
 カヒミ・カリィ - Nunki (2006-10-25)
 </li>
-<li data-cover="https://img.discogs.com/fYvnH9PdmGtTlbGyly9NW-Ulv_c=/fit-in/450x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949737-1189947436.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
+<li data-cover="https://img.discogs.com/9YoeendwzP_Ar8nuyLvxeESzQU8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14414334-1574083367-6594.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
 Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b603c9dc-b1f8-4282-883f-4cbd051ef5d3/20156050715-500.jpg" data-tags="indie, pop" role="button">
@@ -264,7 +273,7 @@ Scouting for Girls - Scouting for Girls (2007-09-16)
 <li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
 Poets of the Fall - Revolution Roulette (2008-03-26)
 </li>
-<li data-cover="https://img.discogs.com/OUmJv0COymM1h5yzdU2bhX5korQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263064-1204673409.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/uN485-X0IYVORSFOlEjM7nq0D7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1476472-1465036567-3372.jpeg.jpg" data-tags="pop" role="button">
 The Feeling - Join With Us (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/93921eed-8ffa-498f-a60e-1115e09f3bb3/2025422296-500.jpg" data-tags="darkwave, neoclassical, gothic, ethereal" role="button">
@@ -287,15 +296,6 @@ Boris - New Album (2011-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/15ef7a30-d0f0-4cee-80fc-5dc2a95e1422/14567248094-500.jpg" data-tags="psychedelic, pink floyd, japan, the doors, acid mothers temple, kawabata makoto, chinese flying saucer" role="button">
-Acid Mothers Temple & The Melting Paraiso U.F.O. - The Ripper At The Heaven's Gates Of Dark (2011-10-31)
-</li>
-<li data-cover="https://img.discogs.com/HxEAwUTH_IUqAHj7f0OIwRDU49c=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270839-1541979152-1545.jpeg.jpg" data-tags="progressive rock" role="button">
-Edison's Children - In the Last Waking Moments... (2011-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/048b6c9b-3260-4472-b4df-4ba81e74d832/15474445895-500.jpg" data-tags="classical, easy listening, new age, ethereal" role="button">
-Trobar de Morte - The Silver Wheel (2012-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1878453-6875-4d83-a8b2-d380e7e70342/7764522281-500.jpg" data-tags="classic rock, rock, soul, grunge, alternative, alternative rock, heavy, pop rock, sleezy, solo, catchy, epic, intro, industrial, blues, psychedelic, moody, soundscape, nineties, space, progressive, muse, a perfect circle, pink floyd, aerosmith, melancholic, stoner, dutch, brass, nine inch nails, 90's, holland, netherlands, seventies, led zeppelin, tool, debut, scream, the netherlands, lowlands, the rolling stones, rage against the machine, deep purple, pearl jam, audioslave, soundgarden, rolling stones, guitar solo, ratm, high vocals, 70's, chris cornell, synthbass, the black crowes, guitarsolo, navarone" role="button">
 Navarone - A Darker Shade of White (2012-09-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:25:01.441Z
+date: 2021-04-06T20:46:06.990Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -27,7 +27,7 @@ Enigma - MCMXC a.D. (1990-12-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
-<li data-cover="https://img.discogs.com/I5fvlW6nBIflOImPqtGD6LBw6_Q=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099999-1191992249.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/O9-ZpQpvt3gsm9dlgCRXDOCfeDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10046-1573154029-6024.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
 Everything But the Girl - Amplified Heart (1994-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
@@ -108,6 +108,9 @@ Boozoo Bajou - Satta (2001-06)
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/31053210-b40e-4105-a27f-0b8e83e77b94/8594647165-500.jpg" data-tags="chillout, electronica" role="button">
+Kid Loco - Kill Your Darlings (2001-10)
+</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
@@ -122,9 +125,6 @@ Koop - Waltz for Koop (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/de88c422-1cf3-49cc-9095-3cda552b8727/4262680116-500.jpg" data-tags="electronic" role="button">
 Moby - 18 (2002-05-02)
-</li>
-<li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
-Frou Frou - Details (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/aZ43XFv17lKf2kNgfR7SQWhQRjA=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690290-1505163356-4965.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Morcheeba - Charango (2002-07-01)
@@ -189,8 +189,8 @@ Afterlife - Speck Of Gold (2004-05-04)
 <li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
 Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
-Nouvelle Vague - Nouvelle Vague (2004-08-09)
+<li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
+Husky Rescue - Country Falls (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
