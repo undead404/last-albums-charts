@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:22:01.464Z
+date: 2021-04-06T17:37:01.377Z
 title: "ambient black metal: 100 albums you must listen to before you die"
 ---
 ![Burzum - Filosofem (1996-01-31)](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-500.jpg "Burzum - Filosofem (1996-01-31)")
@@ -30,7 +30,7 @@ Burzum - Hvis lyset tar oss (1994-04)
 <li data-cover="http://coverartarchive.org/release/84a47d99-343a-4081-9602-cea02048ae2b/2883291854-500.jpg" data-tags="black metal" role="button">
 Burzum - Burzum / Aske (1995)
 </li>
-<li data-cover="https://img.discogs.com/iHzwmYhHJYE2KUzVWXZIDvSTDI4=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3869735-1347532175-2066.jpeg.jpg" data-tags="black metal, atmospheric black metal, 1996" role="button">
+<li data-cover="https://img.discogs.com/3iqmMZQJccEwqLYWLgxQEhsZhxY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3013772-1434963339-4996.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Blut aus Nord - Memoria Vetusta I: Fathers of the Icy Age (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/da82d909-87f8-498e-a19d-715ec3942506/9995860894-500.jpg" data-tags="black metal" role="button">
@@ -66,7 +66,7 @@ Paysage d'Hiver - Winterkälte (2001)
 <li data-cover="https://img.discogs.com/vg34NfRJndt6LrB3BHO9J9_jKBA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673087-1582543004-1914.jpeg.jpg" data-tags="black metal" role="button">
 Velvet Cacoon - Dextronaut (2002)
 </li>
-<li data-cover="https://img.discogs.com/46lsWdprvA8eo3m5oWsnki_b0Yk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15377018-1590537488-1275.jpeg.jpg" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/UuU6RtzgjVqevgz9dJ7pHzDp-W0=/fit-in/333x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584965-1134764118.jpeg.jpg" data-tags="black metal" role="button">
 Lurker of Chalice - Lurker of Chalice (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/aac39768-cf0e-40e8-987a-a0afdf6cce4d/1644186662-500.jpg" data-tags="black metal" role="button">
@@ -264,9 +264,6 @@ Wolves in the Throne Room - Celestial Lineage (2011-09-13)
 <li data-cover="http://coverartarchive.org/release/86b1ce07-43e3-451f-9796-67bb825a563c/26443325911-500.jpg" data-tags="psychedelic black metal" role="button">
 Oranssi Pazuzu - Kosmonument (2011-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/3fe30449-cd88-4abb-bd5f-4832273aa3d2/14994176576-500.jpg" data-tags="avant-garde metal" role="button">
-Thy Catafalque - Rengeteg (2011-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/4d180ea4-b84f-47d3-bed6-3aa248f3dccf/1933074975-500.jpg" data-tags="black metal, russian, russian metal, ambient black metal, atmospheric black metal, suicidal black metal, depressive black metal, dsbm, depressive, russian black metal, russian depressive black metal" role="button">
 Wintercult - Neverending Selfhatred (2012-02-16)
 </li>
@@ -278,6 +275,9 @@ Lustre - Of Strength and Solace (2012-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/727d5e31-3b00-4d6a-b602-6ce689afce1a/1638373024-500.jpg" data-tags="ambient black metal" role="button">
 Basarabian Hills - Spirit of the Native Land (2012-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/11ec50fa-bce4-473d-bd3d-37e18715ef58/11927511039-500.jpg" data-tags="blackgrass" role="button">
+Panopticon - Kentucky (2012-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6e58cf3-1ad3-4852-82a8-f711b4c6e4e8/10512482000-500.jpg" data-tags="2012, ambient black metal, atmospheric black metal" role="button">
 Borgne - Royaume des Ombres (2012-06-12)
@@ -297,7 +297,7 @@ Fauna - Avifauna (2012-12-17)
 <li data-cover="http://coverartarchive.org/release/d28ad635-1d22-48f7-96d0-7713c4bde6a4/3405108163-500.jpg" data-tags="ambient black metal, atmospheric black metal" role="button">
 Paysage d'Hiver - Das Tor (2013-02-22)
 </li>
-<li data-cover="https://img.discogs.com/TXrIC2Hyo6mEpKJH6M6Jg40QQmQ=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2176446-1268130465.jpeg.jpg" data-tags="black metal, ambient black metal, atmospheric black metal, melancholic black metal, epic as fuck, melodic dark metal, the best of 2013" role="button">
+<li data-cover="https://img.discogs.com/BP-m4nRDuDAPPaxo4cm3-4ZnvQM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4370951-1363187464-6910.jpeg.jpg" data-tags="black metal, ambient black metal, atmospheric black metal, melancholic black metal, epic as fuck, melodic dark metal, the best of 2013" role="button">
 October Falls - The Plague of a Coming Age (2013-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1956e044-ef94-4e60-87c2-2ae74dcc156a/4143463712-500.jpg" data-tags="ambient, dark ambient" role="button">

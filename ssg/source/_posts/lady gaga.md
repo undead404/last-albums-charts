@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:51:01.430Z
+date: 2021-04-06T16:54:01.707Z
 title: "lady gaga: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame Monster (2008-08-19)](http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg "Lady Gaga - The Fame Monster (2008-08-19)")
@@ -48,7 +48,7 @@ Jestofunk - Love in a Black Dimension (1995)
 <li data-cover="http://coverartarchive.org/release/7f605f56-c629-4ace-a731-a453850eb045/17719093389-500.jpg" data-tags="funk, soul, tower of power" role="button">
 Tower of Power - Souled Out (1995)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, japanese, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy" role="button">
+<li data-cover="http://coverartarchive.org/release/4ef275e7-74f2-48e0-bada-1f9419b98cce/27980960079-500.jpg" data-tags="pop, japanese, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy" role="button">
 カヒミ・カリィ - My First Karie (1995-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
@@ -95,6 +95,9 @@ Deep Purple - 30: Very Best Of (1998-10-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 宇多田ヒカル - Distance (2001-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
+Nicola Conte - Bossa Per Due (2001-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
 Kings of Convenience - Versus (2001-10-22)
@@ -150,7 +153,7 @@ Chelsea Wolfe - Mistake in Parting (2006-09-01)
 <li data-cover="http://coverartarchive.org/release/8c6f861e-c347-4c5c-aed1-eae205297c67/8906628497-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
 カヒミ・カリィ - Nunki (2006-10-25)
 </li>
-<li data-cover="https://img.discogs.com/fYvnH9PdmGtTlbGyly9NW-Ulv_c=/fit-in/450x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949737-1189947436.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
+<li data-cover="https://img.discogs.com/9YoeendwzP_Ar8nuyLvxeESzQU8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14414334-1574083367-6594.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
 Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf53d07b-3e5a-4aa6-b039-6b3af603e685/24471994616-500.jpg" data-tags="rock" role="button">
@@ -182,6 +185,9 @@ Parralox - Electricity (2008-09-08)
 </li>
 <li data-cover="https://img.discogs.com/sZY9_lGeAuxWpMuqFAEe3j6AaK4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3738702-1500142099-9450.jpeg.jpg" data-tags="poker face, lady gaga" role="button">
 Lady Gaga - Poker Face (2008-12-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/93921eed-8ffa-498f-a60e-1115e09f3bb3/2025422296-500.jpg" data-tags="darkwave, neoclassical, gothic, ethereal" role="button">
+Artesia - Llydaw (2009-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbc1d866-7ea2-4162-91a9-e10b96bbcc5d/17582664206-500.jpg" data-tags="lady gaga" role="button">
 Lady Gaga - Eh, Eh (Nothing Else I Can Say) (2009-02-02)
@@ -215,9 +221,6 @@ Charmaine - Love Reality (2010-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d54d06f-c2ca-4a21-a1b5-4cebc68ca707/27147713228-500.jpg" data-tags="classical crossover, experimental, world, ethereal, neoclassical" role="button">
 志方あきこ - 祈りの彼方 (2010-04-28)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
-西野カナ - 会いたくて 会いたくて (2010-05-19)
 </li>
 <li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Alejandro (2010-05-24)
@@ -272,9 +275,6 @@ Lady Gaga - A Very Gaga Holiday (2011-11-24)
 </li>
 <li data-cover="https://img.discogs.com/72uLIyBDep0NFuH6AYLougvN-pQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17623738-1614594795-2479.jpeg.jpg" data-tags="dance, female vocalists" role="button">
 Lady Gaga - Marry The Night (2011-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/43405c16-9b59-4ec9-966d-9422c6853faf/2970280037-500.jpg" data-tags="latin, brazilian, pop, dance, mpb, axe" role="button">
-Ivete Sangalo - Real Fantasia (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d4598ed-49ef-4a6f-a6ae-d7b370512a39/11362627561-500.jpg" data-tags="electropop, pop, female vocalists, christian pop" role="button">
 Britt Nicole - Gold (2012-03-26)

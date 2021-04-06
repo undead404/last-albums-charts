@@ -1,11 +1,11 @@
 ---
-date: 2021-04-06T11:44:01.560Z
+date: 2021-04-06T17:10:01.465Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">Shakira - Pies Descalzos (1995)</li>
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">Buena Vista Social Club - Buena Vista Social Club (1997-06-23)</li>
+<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">Pink Martini - Sympathique (1997-11-11)</li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">Manu Chao - Clandestino (1998-04-30)</li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">Ricky Martin - Ricky Martin (1999-05-04)</li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">Santana - Supernatural (1999-06-15)</li>
@@ -42,7 +42,7 @@ Gloria Estefan - Mi Tierra (1993-06-22)
 <li data-cover="https://img.discogs.com/as7sw2U6YM_pqGw0a7tzsR8_NTI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8553345-1463927658-7075.jpeg.jpg" data-tags="tejano, selena" role="button">
 Selena - Amor Prohibido (1994-03-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="gipsy kings" role="button">
+<li data-cover="https://img.discogs.com/CymqfUebWk6JIhMNkp2cRtMF6mU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10597828-1500660748-7245.jpeg.jpg" data-tags="gipsy kings" role="button">
 Gipsy Kings - Greatest Hits (1994-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c07c0e12-e8e4-416d-bad2-6458aee6c0d8/14938677749-500.jpg" data-tags="quirky, energetic, playful" role="button">
@@ -78,7 +78,7 @@ Pink Martini - Sympathique (1997-11-11)
 <li data-cover="http://coverartarchive.org/release/ca4499f3-cb74-4709-bbe1-540bfcda0a78/1866423682-500.jpg" data-tags="latin, ska, patchanka" role="button">
 Mano Negra - Best Of (1998)
 </li>
-<li data-cover="https://img.discogs.com/9Lo6ocKA0uPWCJ7poBkU2hMJyDg=/fit-in/600x955/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5840998-1601401609-2009.jpeg.jpg" data-tags="latin" role="button">
+<li data-cover="https://img.discogs.com/uhtWtyjsps4qpye-jxhAj7uNpAE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843072-1396451672-1423.jpeg.jpg" data-tags="latin" role="button">
 Ricky Martin - Vuelve (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">
@@ -113,9 +113,6 @@ Santana - Supernatural (1999-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8888f5a-c1a7-4d8c-9c43-41fb128332a1/2940270825-500.jpg" data-tags="pop, rock, acoustic, latin, live, sunday morning, latin grammy nominated, all, alles, -all-" role="button">
 Maná - MTV Unplugged (1999-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b8acc-ca4e-3136-b5c6-9d1a9a4badcd/21568717801-500.jpg" data-tags="mambo, pop" role="button">
-Lou Bega - A Little Bit Of Mambo (1999-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/42579a94-0d4b-3138-8e4f-cc618643d87f/8121657097-500.jpg" data-tags="cuban" role="button">
 Orishas - A Lo Cubano (1999-09)
@@ -186,7 +183,7 @@ Jarabe de Palo - Bonito (2003-04-01)
 <li data-cover="http://coverartarchive.org/release/3f7202ed-f84c-4011-8f3a-0ff2857d63f4/6599454390-500.jpg" data-tags="latin, energetic, irreverent, confident, freewheeling, drinking, playful, partying, enigmatic, latin grammy nominated, day driving, alternative latin" role="button">
 Café Tacvba - Cuatro Caminos (2003-06-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="sin bandera" role="button">
+<li data-cover="https://img.discogs.com/2vYhM-bwoVriaTPeRjmK0z1GalY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11749483-1521731526-1286.jpeg.jpg" data-tags="sin bandera" role="button">
 Sin Bandera - De Viaje (2003-08-21)
 </li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
@@ -264,7 +261,7 @@ Pink Martini - Hey Eugene! (2007-05-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="enrique iglesias, enrique" role="button">
 Enrique Iglesias - Insomniac (2007-06-11)
 </li>
-<li data-cover="https://img.discogs.com/pb51h1WEIxxEdn8r9qgii2P-SbM=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1050300-1365315769-2069.jpeg.jpg" data-tags="latin" role="button">
+<li data-cover="https://img.discogs.com/qVjBD2zNd7yt8T2nhZpyzlDXRmM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061809-1511883604-1888.jpeg.jpg" data-tags="latin" role="button">
 Manu Chao - La Radiolina (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/33dfe630-be9d-4251-9955-bd6163dd58df/16062479844-500.jpg" data-tags="downtempo, chillout, latin" role="button">
@@ -312,7 +309,7 @@ Enrique Iglesias - Euphoria (2010-07-05)
 <li data-cover="https://img.discogs.com/W3rrkSVJal2IKVaQ8LkewX36T-U=/fit-in/600x854/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9330007-1567446183-1508.png.jpg" data-tags="pop" role="button">
 Enrique Iglesias - I Like It (2010-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1155ca2-d814-4f17-9426-743189f8d853/15396503893-500.jpg" data-tags="pop, c, latin, g, k, j, e, misc, i, o, bananas, x, d, shady, s, b, h, a, w, dolce, m, t, l, y, z, n, p, q, v, grady, partial, u, music to listen to in 2010, shady grady, deek, auditory, deek deek, deek deek deek, dake, ploppy, dake-bonoism, bonoism, jibby, specific generalities, specificity, generality, plopper, male or female, non-zero" role="button">
+<li data-cover="http://coverartarchive.org/release/d1155ca2-d814-4f17-9426-743189f8d853/15396503893-500.jpg" data-tags="pop, c, latin, g, k, j, e, misc, i, o, bananas, x, d, shady, s, b, h, w, dolce, m, t, l, y, z, n, p, q, v, grady, partial, u, music to listen to in 2010, shady grady, deek, auditory, deek deek, deek deek deek, dake, ploppy, dake-bonoism, bonoism, jibby, specific generalities, specificity, generality, plopper, male or female, non-zero" role="button">
 El Guincho - Pop Negro (2010-09-13)
 </li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
@@ -320,5 +317,8 @@ Shakira - Sale el Sol (2010-10-14)
 </li>
 <li data-cover="https://img.discogs.com/abIZqGPCH1J_m4xN2KxbqD9yVPU=/fit-in/529x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3029115-1312423981.jpeg.jpg" data-tags="dance, pop" role="button">
 Jennifer Lopez - Love? (2011-05-02)
+</li>
+<li data-cover="https://img.discogs.com/2Q2uyR6MeY09UOYicMOrErDKrA8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9179624-1476173102-9219.jpeg.jpg" data-tags="spanish, latin, pop, rock, female vocalists" role="button">
+Shakira - Live From Paris (2011-11-01)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:29:01.525Z
+date: 2021-04-06T17:09:01.398Z
 title: "spanish: 100 albums you must listen to before you die"
 ---
 ![Shakira - Pies Descalzos (1995)](https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg "Shakira - Pies Descalzos (1995)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="flamenco" role="button">
+<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="flamenco" role="button">
 Paco de Lucía - Entre Dos Aguas (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
@@ -116,9 +116,6 @@ Los Planetas - Encuentros con entidades (2002-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="spanish, my albums spanish" role="button">
-Efecto Mariposa - Efecto Mariposa (2002-11-08)
 </li>
 <li data-cover="https://img.discogs.com/rniixT0KyLXm7Y4H6bayTeVVRlc=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1918939-1281404573.jpeg.jpg" data-tags="spanish, fusion, latin, mestizo" role="button">
 Amparanoia - Enchilao (2003)
@@ -216,7 +213,7 @@ Ojos de Brujo - Techari (2006-02)
 <li data-cover="http://coverartarchive.org/release/fad57385-6e8d-4213-b82e-6adfea8e2d69/18994007660-500.jpg" data-tags="nina pastori" role="button">
 Niña Pastori - Joyas Prestadas (2006-02-21)
 </li>
-<li data-cover="https://img.discogs.com/_RV0vXEoj0u9BHFwPdLnRnGDUGw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9079636-1474401172-9536.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/sG02uyzgW4DxRtHYyWKOKNAeRFY=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6454043-1419641891-1907.jpeg.jpg" data-tags="pop" role="button">
 La Oreja de Van Gogh - Guapa (2006-04-23)
 </li>
 <li data-cover="https://img.discogs.com/cOP6xm-3k2oCYf05vZHqYJ-eaL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314544-1602976567-6600.jpeg.jpg" data-tags="spanish, pop, rock, alternative, latin, mexico, ballad, mexican, mexicano, mierda" role="button">
@@ -230,6 +227,9 @@ Jorge Drexler - 12 segundos de oscuridad (2006-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/785febd6-84e4-4cca-b7ef-f95f9f598b17/15638856505-500.jpg" data-tags="spanish" role="button">
 Melendi - Mientras No Cueste Trabajo (2006-11-13)
+</li>
+<li data-cover="https://img.discogs.com/_UuJPD-kMkkxSzVZJjQEOie3MM0=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12534406-1537134754-1202.jpeg.jpg" data-tags="pop en espanol" role="button">
+Miguel Bosé - Papito (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop latino, spanish, latina" role="button">
 Conchita - Nada Más (2007-02-04)
@@ -276,9 +276,6 @@ Natalia Lafourcade - HU HU HU (2009-05-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
 椎名林檎 - 三文ゴシップ (2009-06-24)
 </li>
-<li data-cover="https://img.discogs.com/GRdLj9VQTH8q4-BbEDIasPD3_-Y=/fit-in/446x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6930291-1429756923-9470.jpeg.jpg" data-tags="pop" role="button">
-Nelly Furtado - Mi Plan (2009-09-11)
-</li>
 <li data-cover="https://img.discogs.com/srObQIiZMh0cR-pRX8Hb8IWTVrc=/fit-in/497x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2318055-1276538109.jpeg.jpg" data-tags="indie" role="button">
 Delorean - Subiza (2010-03-09)
 </li>
@@ -314,6 +311,9 @@ Shakira - Live From Paris (2011-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6478b2f9-b369-47fc-a96f-cadb157d8991/1027308038-500.jpg" data-tags="spanish, indie" role="button">
 Love of Lesbian - La noche eterna. Los días no vividos (2012-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
+Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)

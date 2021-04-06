@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:19:35.937Z
+date: 2021-04-06T17:33:01.420Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -32,9 +32,6 @@ Otis Redding - The Dock of the Bay (1968-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
-</li>
-<li data-cover="https://img.discogs.com/8B57iuhKpQ7wz_rNHE0Hu0IoHeY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8569418-1464237108-6054.jpeg.jpg" data-tags="soul, 60s" role="button">
-Dusty Springfield - Dusty In Memphis (1969-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Bill Withers - Just As I Am (1971-05)
@@ -137,6 +134,9 @@ JoJo - JoJo (2004-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
 Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
+</li>
+<li data-cover="https://img.discogs.com/xjXtgPCXzzzLiZenM1wS2GrYZO4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-916692-1307431903.jpeg.jpg" data-tags="soul" role="button">
+Joss Stone - Mind Body & Soul (2004-09-27)
 </li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)

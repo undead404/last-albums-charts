@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:08:01.359Z
+date: 2021-04-06T17:29:01.400Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![She Wants Revenge - She Wants Revenge (2005-12-13)](http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg "She Wants Revenge - She Wants Revenge (2005-12-13)")
@@ -9,7 +9,7 @@ title: "darkwave: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)</li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">The Cure - Wish (1992-04-07)</li>
 <li data-cover="http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg" data-tags="darkwave" role="button">She Wants Revenge - She Wants Revenge (2005-12-13)</li>
-<li data-cover="https://img.discogs.com/2GswDWVRxpZQ_xKFt5y6JVcER-o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099636-1567270267-9611.jpeg.jpg" data-tags="darkwave" role="button">She Wants Revenge - This Is Forever (2007-10-09)</li>
+<li data-cover="https://img.discogs.com/Sxo4nFriUAdS19t0_jH9wXD3j7Q=/fit-in/570x562/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684711-1340284168-9057.jpeg.jpg" data-tags="darkwave" role="button">She Wants Revenge - This Is Forever (2007-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/65a811b8-8b98-4642-8f25-48586fa93b10/8138480397-500.jpg" data-tags="experimental, dream pop, electronic, darkwave" role="button">Grimes - Geidi Primes (2010-01-10)</li>
 <li data-cover="http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg" data-tags="synthpop, darkwave, electronic" role="button">Trust - Trst (2012-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">Dead Can Dance - Anastasis (2012-08-13)</li>
@@ -108,7 +108,7 @@ Dead Can Dance - Into the Labyrinth (1993-09-13)
 <li data-cover="https://img.discogs.com/T1N1f1AXU1XTKd-IPo2E4YM5Cms=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1771648-1245254037.jpeg.jpg" data-tags="electronic" role="button">
 Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 </li>
-<li data-cover="https://img.discogs.com/m5KiK7XWzOVx8wYaDJvv0eBzJws=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419432-1110896476.jpg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
+<li data-cover="https://img.discogs.com/yPObFg9KYqKXzYR5KCVBb95NkEc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1172126-1198088260.jpeg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
 London After Midnight - Psycho Magnet (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6344fea-c768-4ed7-bc93-90f413507d5d/7389186733-500.jpg" data-tags="darkwave, gothic" role="button">
@@ -134,6 +134,9 @@ Clan of Xymox - Hidden Faces (1997-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f8949d4-fd67-3d8a-85d3-2f9f3ca70317/19430444042-500.jpg" data-tags="electronic, new wave, 80s" role="button">
 Depeche Mode - The Singles 86>98 (1998-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6a14879-b04f-40dc-95e9-618e00be615d/2152586650-500.jpg" data-tags="dark ambient, darkwave" role="button">
+Dargaard - Eternity Rites (1998-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/88e92f78-5c3f-4f03-9f43-9eba6c46b4a4/928108006-500.jpg" data-tags="darkwave, gothic, gothic metal, symphonic metal" role="button">
 Aesma Daeva - Here Lies One whose Name was Written in Water (1999)
@@ -170,9 +173,6 @@ Depeche Mode - Exciter (2001-05-10)
 </li>
 <li data-cover="https://img.discogs.com/TCfCFFygw_4fOymnI55HbWwp1u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445333-1305669402.png.jpg" data-tags="ambient, dark ambient" role="button">
 Antimatter - Saviour (2001-09-24)
-</li>
-<li data-cover="https://img.discogs.com/BGtl8NE3YxcijsK46nJgjOsJxyM=/fit-in/297x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-186089-002.jpg.jpg" data-tags="industrial" role="button">
-Mortiis - The Smell Of Rain (2001-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/cacbd6c9-7136-4ed8-9695-24243064d47d/3166622070-500.jpg" data-tags="darkwave" role="button">
 Deine Lakaien - White Lies (2002)
@@ -240,7 +240,7 @@ Blaqk Audio - CexCells (2007-08-14)
 <li data-cover="http://coverartarchive.org/release/3ff912aa-20d0-41a3-9cdf-cf6db07787a0/15567368286-500.jpg" data-tags="darkwave, futurepop" role="button">
 Blutengel - Labyrinth (2007-09-14)
 </li>
-<li data-cover="https://img.discogs.com/2GswDWVRxpZQ_xKFt5y6JVcER-o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099636-1567270267-9611.jpeg.jpg" data-tags="darkwave" role="button">
+<li data-cover="https://img.discogs.com/Sxo4nFriUAdS19t0_jH9wXD3j7Q=/fit-in/570x562/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684711-1340284168-9057.jpeg.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - This Is Forever (2007-10-09)
 </li>
 <li data-cover="https://img.discogs.com/VXCvuCumC0ijDr74rXKN30wzjGU=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1127655-1385493166-4294.jpeg.jpg" data-tags="darkwave" role="button">

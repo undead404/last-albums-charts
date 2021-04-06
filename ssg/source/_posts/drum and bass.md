@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:35:01.494Z
+date: 2021-04-06T17:22:01.429Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - In Silico (2008-05-09)](http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg "Pendulum - In Silico (2008-05-09)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d7b14a96-778a-4d67-b561-567d92bd4720/9743055384-500.jpg" data-tags="drum and bass" role="button">
 Goldie - Timeless (1995-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f2839ae-170e-4351-9847-446ca5ce73d6/13453155769-500.jpg" data-tags="industrial, industrial rock" role="button">
-Nine Inch Nails - The Perfect Drug (1996)
 </li>
 <li data-cover="https://img.discogs.com/2QdsXx1tiBpDeOzGRvotWF7GHAI=/fit-in/450x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1219892-1232363362.jpeg.jpg" data-tags="drum and bass, dj rap, barturismooth, f1 approved" role="button">
 Origin Unknown - Valley of the Shadows (1996)
@@ -215,6 +212,9 @@ Dub Fx - Everythinks a Ripple (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa1c5fc1-cc8b-4f19-9c8e-fa47d97d77d5/17754393267-500.jpg" data-tags="dubstep, drum and bass" role="button">
 Mistabishi - Drop (2009-02-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
+High Contrast - Confidential (2009-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/07081aff-4ffc-49e4-8a2a-ffdeb2cf6ac3/6285528613-500.jpg" data-tags="drum and bass" role="button">
 Spor - Aztec / Do Not Shake (2009-05-08)

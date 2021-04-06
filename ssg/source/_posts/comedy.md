@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T03:12:01.357Z
+date: 2021-04-06T17:05:01.533Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -24,17 +24,20 @@ _________________
 <li data-cover="http://coverartarchive.org/release/b9e76f86-e868-3817-ab2b-133a71d330c6/27475468077-500.jpg" data-tags="comedy" role="button">
 Tom Lehrer - That Was The Year That Was (1965)
 </li>
-<li data-cover="https://img.discogs.com/IcxYObp5h91X-VyMFqaYUjCrG_Y=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2292377-1475487908-2847.jpeg.jpg" data-tags="comedy" role="button">
+<li data-cover="https://img.discogs.com/UiGwLpmsYId3ZnagQfyTLLABCUI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5875285-1405112043-9513.jpeg.jpg" data-tags="comedy" role="button">
 Monty Python - Monty Python's Previous Record (1972-12-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, comedy, monty python" role="button">
 Monty Python - Monty Python And The Holy Grail (1975-07-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
+<li data-cover="https://img.discogs.com/3dZyLnwxjgWOCcwzGsXQ8ztVpuE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4263175-1360083590-4766.jpeg.jpg" data-tags="comedy" role="button">
 George Carlin - Killer Carlin (1981)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Weird Al Yankovic (1983-04-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d9acb1d2-04ec-3f3c-909a-436ec6f6f7db/6297135716-500.jpg" data-tags="comedy" role="button">
+"Weird Al" Yankovic - In 3-D (1984-02-28)
 </li>
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
@@ -51,7 +54,7 @@ Robin Williams - A Night at the Met (1986)
 <li data-cover="https://img.discogs.com/rvhYpR9vwuSGNUzpIVRNdG58sS8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600834-1183286497.jpeg.jpg" data-tags="comedy" role="button">
 Monty Python - Monty Python Sings (1989-12-11)
 </li>
-<li data-cover="https://img.discogs.com/Kkq0SBlqb4dKcbXzkRVF-0EP1YU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-391109-1475824375-7290.jpeg.jpg" data-tags="comedy, soundtrack, blues" role="button">
+<li data-cover="https://img.discogs.com/nKvU-PeqCLF6Ny4VCySeMfLEsxg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972997-1185325725.jpeg.jpg" data-tags="comedy, soundtrack, blues" role="button">
 The Simpsons - The Simpsons Sing The Blues (1990-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a649759-c3af-48ae-8e52-e159965eb262/6290570162-500.jpg" data-tags="comedy" role="button">
@@ -81,7 +84,7 @@ The Rutles - Archaeology (1996)
 <li data-cover="http://coverartarchive.org/release/0630e8a9-eca5-4028-b831-073341863532/16318842143-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Bad Hair Day (1996-03-12)
 </li>
-<li data-cover="https://img.discogs.com/tOZgjs__kTawPBj0_vYIb8vvrTg=/fit-in/498x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573265-1140881062.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
+<li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/51ed2b71-1e7a-4c1a-8781-0aa4d3b17d73/5734856436-500.jpg" data-tags="comedy, stand-up" role="button">
@@ -95,9 +98,6 @@ Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0052d858-ec26-48cd-bc52-0ddd9dd275fb/24397212007-500.jpg" data-tags="comedy, humor" role="button">
 Denis Leary - Lock 'N Load (1997-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a860bab-cacf-4809-bb8c-7cdb5a8e4c08/3772985033-500.jpg" data-tags="comedy, stand up, stand-up comedy" role="button">
-Jerry Seinfeld - I'm Telling You for the Last Time (1998-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a362876-84a2-4e96-b941-a1d1dd118445/16203893118-500.jpg" data-tags="comedy" role="button">
 Mitch Hedberg - Strategic Grill Locations (1999)
@@ -132,7 +132,7 @@ Wise Guys - Ganz weit vorne (2001-08-27)
 <li data-cover="http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg" data-tags="rock, comedy" role="button">
 Tenacious D - Tenacious D (2001-09-25)
 </li>
-<li data-cover="https://img.discogs.com/FF5DIMvzWA3_lYWAskJDZOq8kcE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12668200-1539691429-6474.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/41c58eb5-c31d-46ce-9fda-dffc2c35cf75/13632205461-500.jpg" data-tags="comedy" role="button">
@@ -309,7 +309,7 @@ Starbomb - Starbomb (2013-12-17)
 <li data-cover="http://coverartarchive.org/release/76d0b2ef-4095-4d4c-a8c6-5b80f862a7a2/12309934751-500.jpg" data-tags="comedy rock" role="button">
 "Weird Al" Yankovic - Mandatory Fun (2014-07-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">

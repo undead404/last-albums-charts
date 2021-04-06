@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T07:40:01.265Z
+date: 2021-04-06T16:46:06.881Z
 title: "speed metal: 100 albums you must listen to before you die"
 ---
 ![Megadeth - Rust In Peace (1990-09-21)](http://coverartarchive.org/release/2b904e74-daba-397c-a151-bafb125ceb44/5045035371-500.jpg "Megadeth - Rust In Peace (1990-09-21)")
@@ -30,7 +30,7 @@ Motörhead - On Parole (1979-12-08)
 <li data-cover="http://coverartarchive.org/release/c2bf2166-b17f-32d9-b853-1e53b9af9f67/11272365315-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Ace of Spades (1980-11-08)
 </li>
-<li data-cover="https://img.discogs.com/svdSmPwiLIWLzQGWmUuAMFEGab8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2306006-1275754761.jpeg.jpg" data-tags="black metal, heavy metal, thrash metal" role="button">
+<li data-cover="https://img.discogs.com/ExoDgcltmEJ1RKQvzCGW1nPBgmU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215401-1394312962-6379.jpeg.jpg" data-tags="black metal, heavy metal, thrash metal" role="button">
 Venom - Welcome To Hell (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce84f01d-696e-42ad-bdcd-d38ddbb61b25/24451282989-500.jpg" data-tags="black metal, speed metal" role="button">
@@ -42,7 +42,7 @@ Accept - Restless and Wild (1982)
 <li data-cover="http://coverartarchive.org/release/4cc5c04c-3051-400a-bca7-09c8dbac0020/12220437049-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Iron Fist (1982-04-03)
 </li>
-<li data-cover="https://img.discogs.com/2Asy1UA9cGzGE3HrzuKN27psno4=/fit-in/600x945/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14697481-1579861569-8438.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/_p3QUw0m77DTQhUWU4dedNgXc2k=/fit-in/551x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4900916-1378902915-8466.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c06ed440-f25d-3127-aadb-ebe9c685b3d8/6882618113-500.jpg" data-tags="thrash metal" role="button">
@@ -63,7 +63,7 @@ Anthrax - Fistful of Metal (1984-01)
 <li data-cover="http://coverartarchive.org/release/85f98f87-9653-40e9-bfed-035447e78785/17905397407-500.jpg" data-tags="heavy metal" role="button">
 Judas Priest - Defenders of the Faith (1984-01-04)
 </li>
-<li data-cover="https://img.discogs.com/mhID7FoWLUsdbDkvrf7KynmmXSU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6680914-1424513453-6483.jpeg.jpg" data-tags="black metal, heavy metal, nwobhm, speed metal" role="button">
+<li data-cover="https://img.discogs.com/is7w4T162a5Jq-i8TGe8IjGzb9o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1654753-1375750936-4827.jpeg.jpg" data-tags="black metal, heavy metal, nwobhm, speed metal" role="button">
 Venom - At War With Satan (1984-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac4f4ff5-e94d-48b2-a99d-33ee251c2c34/9516015595-500.jpg" data-tags="heavy metal" role="button">
@@ -105,13 +105,16 @@ Anthrax - Among the Living (1987-03-22)
 <li data-cover="https://img.discogs.com/qRo6exGBLcFNmpLCkJcK_jX9c0g=/fit-in/595x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13252702-1554858155-4978.jpeg.jpg" data-tags="thrash metal" role="button">
 Overkill - Taking Over (1987-09-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/7fc944af-cbd7-4fe7-a85a-9f9743a3b5c0/27099866666-500.jpg" data-tags="heavy metal" role="button">
+Motörhead - Rock 'n' Roll (1987-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/1efc2fa2-7535-3751-aa9c-70d63dcb5912/26677518395-500.jpg" data-tags="heavy metal" role="button">
 Pantera - Power Metal (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/7365bb36-ce85-4472-9cd2-8aaf6e793e6e/7844379965-500.jpg" data-tags="speed metal" role="button">
 Blind Guardian - Battalions Of Fear (1988-02-15)
 </li>
-<li data-cover="https://img.discogs.com/vJCHnkYl7OOLjw28PSQLQ_dDAwQ=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3806081-1468859046-9612.jpeg.jpg" data-tags="heavy metal, speed metal" role="button">
+<li data-cover="https://img.discogs.com/ro7jDzyIDJPqpBE_vS-tK3I4k_s=/fit-in/400x386/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7621590-1445336368-2323.jpeg.jpg" data-tags="heavy metal, speed metal" role="button">
 Riot - Thundersteel (1988-03-24)
 </li>
 <li data-cover="https://img.discogs.com/bmBVbI2fRTQkwkq9ZoUncBoe3ko=/fit-in/540x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3763116-1343408204-7156.jpeg.jpg" data-tags="speed metal" role="button">
@@ -150,7 +153,7 @@ Blind Guardian - Tales From The Twilight World (1990-09-21)
 <li data-cover="https://img.discogs.com/PMxJFkPg4vN2dICtZvExGHBEN-U=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668938-1426441628-1401.jpeg.jpg" data-tags="thrash metal" role="button">
 Annihilator - Never, Neverland (1991)
 </li>
-<li data-cover="https://img.discogs.com/67KhfobdL38psLKIIgP-HYS-fcI=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2417358-1482019010-1004.jpeg.jpg" data-tags="heavy metal, metal, speed metal, compilation, power metal, pifou station, helloween" role="button">
+<li data-cover="https://img.discogs.com/oA0fRRGHqYwLEPTYGs3f7apMdXU=/fit-in/415x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-475493-1362068945-1555.jpeg.jpg" data-tags="heavy metal, metal, speed metal, compilation, power metal, pifou station, helloween" role="button">
 Helloween - The Best, the Rest, the Rare (1991-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/99ea0a72-1d34-4172-95d9-36c8f305ab12/27527815932-500.jpg" data-tags="power metal" role="button">
@@ -165,9 +168,6 @@ Motörhead - March or Die (1992-08-14)
 <li data-cover="http://coverartarchive.org/release/c620324e-579e-4c24-9acc-fb89651624bc/6600147183-500.jpg" data-tags="thrash metal" role="button">
 Anthrax - Sound of White Noise (1993-05-17)
 </li>
-<li data-cover="https://img.discogs.com/D9BEuBfKQxIRRc9X5Qk3cY2E2PY=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2472409-1561575077-6356.jpeg.jpg" data-tags="speed metal, power metal, trash metal" role="button">
-Rage - The Missing Link (1993-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/e527e46c-f68b-4d36-8f61-15dd6a94cdc5/15341538872-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Motörhead - Bastards (1993-10-10)
 </li>
@@ -177,7 +177,7 @@ Slayer - Divine Intervention (1994-09-27)
 <li data-cover="http://coverartarchive.org/release/0b0195b1-4e7d-49a7-9866-73b566fbf1dc/1288516582-500.jpg" data-tags="heavy metal, thrash metal" role="button">
 Megadeth - Youthanasia (1994-10-24)
 </li>
-<li data-cover="https://img.discogs.com/WOIebcjSFCbBuYzVXM-CsWZaRdE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10474756-1613314568-3247.jpeg.jpg" data-tags="thrash metal, heavy metal" role="button">
+<li data-cover="https://img.discogs.com/y-WTOTdlGpJair_bINof60Gc4Ds=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6273239-1491354130-3015.jpeg.jpg" data-tags="thrash metal, heavy metal" role="button">
 Megadeth - Hidden Treasures (1995-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/de0d36bc-fce4-4e93-afd1-08f9ebbdd775/6867304773-500.jpg" data-tags="power metal" role="button">
@@ -297,7 +297,7 @@ Megadeth - Endgame (2009-09-09)
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
-<li data-cover="https://img.discogs.com/QijR0RkWDEGQgZldqJa6M-hDj5k=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1679339-1236432115.jpeg.jpg" data-tags="heavy metal, speed metal" role="button">
+<li data-cover="https://img.discogs.com/C6VgnyR1E2NMY7MuPfciei5Qjes=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2614011-1297133717.jpeg.jpg" data-tags="heavy metal, speed metal" role="button">
 Enforcer - Diamonds (2010-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b78372ef-5775-4f27-bc2d-2b1b383cea81/27837555255-500.jpg" data-tags="heavy metal, metal" role="button">

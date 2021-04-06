@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:16:01.343Z
+date: 2021-04-06T17:12:01.747Z
 title: "queen: 100 albums you must listen to before you die"
 ---
 ![Queen - Greatest Hits (1981-11-03)](http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg "Queen - Greatest Hits (1981-11-03)")
@@ -45,7 +45,7 @@ Queen - News Of The World (1977-10-28)
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Jazz (1978-11-10)
 </li>
-<li data-cover="https://img.discogs.com/OwaFvaIRlbWu_D8-8oePe8iy-C8=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8896513-1471013760-8193.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/BqQyg5HhgZVpvQnPD7CfslpF9dQ=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1138814-1405512986-5230.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
 Queen - Live Killers (1979-06-22)
 </li>
 <li data-cover="https://img.discogs.com/vC_Ab8YbYPrUPisG3AaW6-e3BG4=/fit-in/534x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236962-1431722480-6285.jpeg.jpg" data-tags="rock, classic rock, 80s" role="button">
@@ -60,7 +60,7 @@ Roger Taylor - Fun In Space (1981-04-06)
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
-<li data-cover="https://img.discogs.com/LMcwJZYLPgRkaZpRnLCJGI3ggkM=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9113475-1475049773-5813.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
+<li data-cover="https://img.discogs.com/RZbIVr1EsFVtbSwASwyHhqtJer0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3463860-1454516743-3408.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
 Eric Burdon - Crawling King Snake (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
@@ -146,6 +146,9 @@ Roger Taylor - Happiness? (1994-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0377c76a-25c1-4531-a0de-8103cdea35bc/10988872788-500.jpg" data-tags="rock, alternative" role="button">
 Veruca Salt - American Thighs (1994-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4e98d02-3056-4cea-904f-8f0d554d4b29/7070758222-500.jpg" data-tags="queen, glam rock, in nuce" role="button">
+Queen - In Nuce (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/3762407e-5460-4f5e-a4ea-1c2ae1a879c7/4045338413-500.jpg" data-tags="rock" role="button">
 Queen - Made In Heaven (1995-10-24)
@@ -272,9 +275,6 @@ Glee Cast - Glee: The Music, The Power of Madonna (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/01913716-97da-4658-b840-8229bd31317d/7688358758-500.jpg" data-tags="party all goddamn night" role="button">
-Andrew W.K. - The "Party All Goddamn Night" EP (2011-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2070e5-6bb0-44aa-a80e-2f855cbe4846/9313227759-500.jpg" data-tags="dance, queen, jpop, r&b, rnb, j-pop, must listen, badass, addicting, collab, j-urban, j-hiphop, j-rnb, queen of j-pop, j-r&b, random tags, um tesao de album" role="button">
 安室奈美恵 - Checkmate! (2011-04-27)

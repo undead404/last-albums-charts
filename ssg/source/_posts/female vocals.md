@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:21:01.618Z
+date: 2021-04-06T17:38:01.489Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -41,9 +41,6 @@ Berlin - Best Of Berlin 1979-1988 (1988-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/2aec11c0-41e5-4c6d-9150-8ad73548bf62/5102658391-500.jpg" data-tags="female vocalists, french, pop, cute girl rock" role="button">
-April March - Chick Habit (1995-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
@@ -174,7 +171,7 @@ The Forecast - Late Night Conversations (2005-05-17)
 <li data-cover="http://coverartarchive.org/release/9483e9ed-b96e-4e93-bb29-12d6a37bf9d8/5217790189-500.jpg" data-tags="acoustic, mellow" role="button">
 Antony and the Johnsons - Hope There's Someone (2005-06-07)
 </li>
-<li data-cover="https://img.discogs.com/ira-32f2pdIu0VH1_fzBSr6wiP4=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726446-1473984149-8606.jpeg.jpg" data-tags="indie, indie rock" role="button">
+<li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Metric - Live It Out (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ce5441e-ea49-4ba3-879b-faff3b547d2b/11183169551-500.jpg" data-tags="pop, pop rock" role="button">
@@ -311,6 +308,9 @@ Brandi Carlile - Bear Creek (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fea40923-0beb-4be6-aafe-29349adfe9c2/8344484122-500.jpg" data-tags="symphonic metal" role="button">
 Delain - We Are the Others (2012-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">
+Azealia Banks - Fantasea (2012-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)

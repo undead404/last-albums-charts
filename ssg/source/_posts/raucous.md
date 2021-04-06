@@ -1,10 +1,10 @@
 ---
-date: 2021-04-06T00:43:01.394Z
+date: 2021-04-06T17:24:01.461Z
 title: "raucous: 100 albums you must listen to before you die"
 ---
 ![The Clash - Hits Back (2013-08-26)](http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg "The Clash - Hits Back (2013-08-26)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/48co00Mgnt-oJ4DG0aQbKDS1Rsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8536683-1465209501-6206.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">Bob Dylan - Modern Times (2006-08-06)</li>
+<li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">Bob Dylan - Modern Times (2006-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
 <li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
@@ -42,7 +42,7 @@ Faces - Ooh La La (1973)
 <li data-cover="http://coverartarchive.org/release/904c5a3d-99a5-4087-bce9-0cbe7009b195/5792525507-500.jpg" data-tags="classic rock, hard rock" role="button">
 Alice Cooper - Alice Cooper's Greatest Hits (1974)
 </li>
-<li data-cover="https://img.discogs.com/8NqNnwTW0-Y7pkW9IykrYjwa4EA=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321861-1462013452-9042.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
+<li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
 </li>
 <li data-cover="https://img.discogs.com/ftsmFEw5SMRewDWgYtzIjlegG5o=/fit-in/380x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935598-1255604300.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
@@ -54,10 +54,10 @@ Cheap Trick - Heaven Tonight (1978)
 <li data-cover="http://coverartarchive.org/release/c40cb4ab-ce16-4816-9df3-b512db7f8516/10645292811-500.jpg" data-tags="classic rock, live, 70s, rock" role="button">
 Cheap Trick - At Budokan (1978-10)
 </li>
-<li data-cover="https://img.discogs.com/AKPaFMnpQ6NHjR7q15RUXpWkGYI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7050936-1432563994-2047.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
+<li data-cover="https://img.discogs.com/IeGfMkw1YYtylUZr1r9EWH0rqDU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1984507-1450606837-5574.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
 The Jam - All Mod Cons (1978-11-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
 </li>
 <li data-cover="https://img.discogs.com/Z0bah7U2c75Kd7gklDpeCMUwOZE=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4166033-1384283975-4252.jpeg.jpg" data-tags="new wave" role="button">
@@ -93,16 +93,13 @@ Chuck Berry - Rock 'N' Roll Rarities (1986)
 <li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
 R.E.M. - Lifes Rich Pageant (1986-07-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/29c5e9fd-f6fd-309c-9d51-f6bc7c082734/2645057763-500.jpg" data-tags="hard rock" role="button">
-The Cult - Electric (1987)
-</li>
 <li data-cover="http://coverartarchive.org/release/38f354d3-7148-41ae-96d3-8574a9c71287/14748841978-500.jpg" data-tags="hip-hop, east coast rap, rap" role="button">
 Public Enemy - Yo! Bum Rush the Show (1987-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/44eb139f-abd1-4c92-8b2d-29b416c0315b/2179533989-500.jpg" data-tags="golden age hip hop" role="button">
 Slick Rick - The Great Adventures of Slick Rick (1988)
 </li>
-<li data-cover="https://img.discogs.com/WTFOmD885u-4nCG6bZMtFvDffmk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5162555-1443447164-6324.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
+<li data-cover="https://img.discogs.com/FKTGAQvwr4FJf0yvNyk0VOsbtX8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-808145-1357517035-3919.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
 L.A. Guns - L.A. Guns (1988-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/245c9588-b4f8-33df-98f4-4b29b3775916/11571156452-500.jpg" data-tags="hard rock, 80s" role="button">
@@ -159,6 +156,9 @@ Bad Brains - Black Dots (1996-09-30)
 <li data-cover="http://coverartarchive.org/release/c15b933d-04b1-46f5-ae32-2eeffebd652a/28714176915-500.jpg" data-tags="punk" role="button">
 The Jam - The Very Best of The Jam (1997)
 </li>
+<li data-cover="http://coverartarchive.org/release/c00f3b82-b650-42a5-a686-84f8afa243f9/21856003405-500.jpg" data-tags="hardcore punk" role="button">
+Bad Brains - Omega Sessions (1997-11-11)
+</li>
 <li data-cover="https://img.discogs.com/szu-NSZl7KGzTRwrgan7ERmsDvQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3755542-1372377379-1711.jpeg.jpg" data-tags="trip-hop" role="button">
 Tricky - Angels With Dirty Faces (1998-05-25)
 </li>
@@ -189,7 +189,7 @@ Beastie Boys - Solid Gold Hits (2005-11-02)
 <li data-cover="http://coverartarchive.org/release/eab06683-0a36-4897-85b4-07e363a6769d/13095340713-500.jpg" data-tags="hard rock, college rock, jangle pop, reflective, melancholy, irreverent, aggressive, freewheeling, wry, bittersweet, intimate, raucous, yearning, sleazy, silly, poignant, american underground, bitter, rebellious, wistful, rollicking, exuberant, rowdy, volatile, ramshackle, messy, angst-ridden, brash, rambunctious, reckless, iveldie albums" role="button">
 The Replacements - Don't You Know Who I Think I Was?: The Best Of The Replacements (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/48co00Mgnt-oJ4DG0aQbKDS1Rsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8536683-1465209501-6206.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
+<li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/28eb699a-f254-4873-8afb-557aea44c884/5614369854-500.jpg" data-tags="italians do it better, electronic, electronica, synthpop" role="button">
@@ -303,7 +303,7 @@ Kaiser Chiefs - Education, Education, Education & War (2014-03-31)
 <li data-cover="http://coverartarchive.org/release/28ea5a8e-a4a3-42bc-abb6-fa0afe7d7fa5/7523917349-500.jpg" data-tags="post-punk" role="button">
 Protomartyr - Under Color of Official Right (2014-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b8f2b17-4e04-46e3-aa57-19be9b9f7e4e/7532759610-500.jpg" data-tags="indie rock, post-punk, energetic, angry, irreverent, fierce, aggressive, confrontational, freewheeling, provocative, snide, raucous, flowing, vulgar, rebellious, word play, rollicking, witty, cathartic, gritty, unsettling, sarcastic, gutsy, visceral, savage, angst-ridden, 2014 releases, maverick, brash, guys night out, street-smart, hanging out, bravado, extroverted, tough, animated, everyday life, outraged, city life, brassy, harbinger sound, belligerent, just cant hate enough, world view" role="button">
+<li data-cover="http://coverartarchive.org/release/3b8f2b17-4e04-46e3-aa57-19be9b9f7e4e/7532759610-500.jpg" data-tags="indie rock, post-punk, energetic, angry, irreverent, fierce, aggressive, confrontational, freewheeling, provocative, snide, raucous, flowing, vulgar, rebellious, word play, rollicking, witty, cathartic, gritty, unsettling, sarcastic, gutsy, visceral, savage, angst-ridden, maverick, brash, guys night out, street-smart, hanging out, bravado, extroverted, tough, animated, everyday life, outraged, city life, brassy, harbinger sound, belligerent, just cant hate enough, world view" role="button">
 Sleaford Mods - Divide And Exit (2014-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/64d09ddc-daf5-4ed3-9ecf-d949f951fada/7514082952-500.jpg" data-tags="revolution, indie rock, post-rock, reflective, literate, aggressive, fiery, provocative, uncompromising, dramatic, raucous, post-hardcore, cerebral, rebellious, matador records, eccentric, volatile, gutsy, visceral, ramshackle, maverick, brash, rambunctious, outrageous, reckless, nihilistic" role="button">

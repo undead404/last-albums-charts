@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T02:08:01.398Z
+date: 2021-04-06T16:52:01.385Z
 title: "minimalist: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/pf8iKN0REnWdz19AiwuhuSLX2SE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-281938-1421011953-8014.jpeg.jpg" data-tags="minimalism" role="button">
 Terry Riley - In C (1968)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="minimalism" role="button">
+<li data-cover="https://img.discogs.com/-FFnKH4iPlXtYub7IRoQIaFp8xw=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-130654-1294606569.jpeg.jpg" data-tags="minimalism" role="button">
 Terry Riley - A Rainbow in Curved Air (1969)
 </li>
 <li data-cover="https://img.discogs.com/zqibEwMsjab8q7Ph-C6zj_ufN94=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1078494-1190462193.jpeg.jpg" data-tags="minimalism" role="button">
@@ -69,19 +69,25 @@ Gavin Bryars - The Sinking Of The Titanic (1990)
 <li data-cover="http://coverartarchive.org/release/9a0e9aed-5aab-457c-bd8f-d3c5dafbaecf/15568336503-500.jpg" data-tags="minimalism" role="button">
 Morton Feldman - Rothko Chapel + Why Patterns? (1991)
 </li>
+<li data-cover="https://img.discogs.com/-To9FU1uEauVAD7A_qF1OI9p6UI=/fit-in/374x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1188090-1199393493.jpeg.jpg" data-tags="minimalism" role="button">
+Philip Glass - The Essential Philip Glass (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/836b0d2e-65c7-474b-b047-8949938b8864/5882984071-500.jpg" data-tags="minimalism, minimalist" role="button">
 Arvo Pärt - Fratres (1994-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
+<li data-cover="https://img.discogs.com/ILPIzP6NQlyA2Bf4MgVV7FCUpco=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-997207-1230324129.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
 Ludovico Einaudi - Le Onde (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
 Philip Glass - Koyaanisqatsi (1998-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/f084b2b3-63ff-3f6c-b8eb-0a13f4ab9cc9/6768833257-500.jpg" data-tags="minimalism" role="button">
+Arvo Pärt - Alina (1999-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c6cd35a-a86e-4ad5-97e9-b36d568bf6a7/22386593905-500.jpg" data-tags="ambient" role="button">
 Labradford - fixed::context (2000)
 </li>
-<li data-cover="https://img.discogs.com/eOIoN-rL9mXI3K_SgjWIWJU8-eA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4091170-1371850697-1461.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
+<li data-cover="https://img.discogs.com/cWE18EBpsnlVsw9MwYjvb9ztRlE=/fit-in/600x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11521502-1521627633-2305.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
 Morphine - The Night (2000-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/224114b2-161f-4c9e-a56f-c10a4af1b97f/16026434551-500.jpg" data-tags="ambient" role="button">
@@ -216,9 +222,6 @@ Dustin O'Halloran - Vorleben (2010-04-16)
 <li data-cover="https://img.discogs.com/EErTSBuKWQ3gubWED84owFjCzFE=/fit-in/317x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2355709-1279321276.jpeg.jpg" data-tags="neoclassical, post-classical, contemporary classical, ambient, melancholy, melancholic, contemporary piano, piano, cinematic, modern classical, neo-classical" role="button">
 Nils Frahm & Anne Müller - 7fingers (2010-07-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5552e1a-0449-46df-b9ed-5ed826b311cb/19291635041-500.jpg" data-tags="alternative, ambient, piano, cinematic, contemporary classical, melancholy, minimalism, melancholic, modern classical, neo-classical, experimental-ambient, minimal ambient, minimalist, neoclassical, modern composition, post-classical, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
-Nils Frahm - Unter | Über (2010-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/61103ca9-cdce-4c1d-9800-3bb352c8486c/18272741831-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, contemporary piano, ambient, piano, cinematic, melancholy, melancholic" role="button">
 Rafael Anton Irisarri - The North Bend (2010-08-31)
 </li>
@@ -276,7 +279,7 @@ Moon Ate the Dark - Moon Ate the Dark (2012-06-08)
 <li data-cover="http://coverartarchive.org/release/79c3dd7e-01e0-414e-88f4-045d88bec4c1/20197407108-500.jpg" data-tags="contemporary classical" role="button">
 Max Richter - Recomposed by Max Richter: Vivaldi, The Four Seasons (2012-08-31)
 </li>
-<li data-cover="https://img.discogs.com/jzn8NpXiPqWvdYqiPwB-tI6wN7o=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17365675-1613058960-1298.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/Djv5b13QAyfy5eLM5VjnWXwJMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5746150-1586903982-4077.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e545a5-e07a-4e80-843a-9cf96e5ad809/6675043726-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, neo-classical, modern classical" role="button">
@@ -296,9 +299,6 @@ Clem Leek - Rest (2013-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
 Ólafur Arnalds - For Now I Am Winter (2013-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/1b1341e7-aa5d-4567-a713-c6bec8d74149/5553546025-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical" role="button">
-Ólafur Arnalds - Broadchurch (2013-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e11ce0c-97cc-4fa7-82ee-ba6ca13cf54e/5758014693-500.jpg" data-tags="alternative, ambient, piano, cinematic, contemporary classical, melancholy, minimalism, electroacoustic, melancholic, modern classical, neo-classical, experimental-ambient, neo classical, minimal ambient, minimalist, neoclassical, electro-acoustic, modern composition, post-classical, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
 Nils Frahm - Juno Reworked (2013-07-15)

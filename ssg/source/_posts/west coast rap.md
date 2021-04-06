@@ -1,13 +1,13 @@
 ---
-date: 2021-04-06T04:06:01.345Z
+date: 2021-04-06T17:31:07.932Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">N.W.A - Straight Outta Compton (1988-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
-<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
-<li data-cover="https://img.discogs.com/er8VFrLJbfJGIdzycc7iLmWXs_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1702214-1237940370.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
+<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
+<li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">2Pac - Loyal To The Game (2004-12-14)</li>
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">Ice Cube - Laugh Now, Cry Later (2006-06-06)</li>
@@ -99,7 +99,7 @@ Sicx - Dead 4 Life (1995)
 <li data-cover="http://coverartarchive.org/release/1d839287-fc18-4515-b9e6-5a1694d3869d/15197555065-500.jpg" data-tags="gangsta rap, west coast rap, yay area" role="button">
 Celly Cel - Killa Kali (1995)
 </li>
-<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/854240fb-881f-416e-add7-06f632abc77d/9375489329-500.jpg" data-tags="west coast rap, oakland, 50 cent, 90s rap, rich finck, 90s bay rap, real life rhymes, lyrics to learn from, too short cocktails, to short cocktals" role="button">
@@ -174,7 +174,7 @@ Kurupt - Kuruption! (1998-10-06)
 <li data-cover="http://coverartarchive.org/release/b9486f1f-2205-4601-81dd-17dcb879e589/17095332282-500.jpg" data-tags="west coast rap" role="button">
 DJ Quik - rhythm-al-ism (1998-11-10)
 </li>
-<li data-cover="https://img.discogs.com/er8VFrLJbfJGIdzycc7iLmWXs_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1702214-1237940370.jpeg.jpg" data-tags="rap, 2pac" role="button">
+<li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ebe759e-22b8-4cbf-a54a-2b73f4830ecb/4765825574-500.jpg" data-tags="stones throw, turntablism" role="button">
@@ -209,6 +209,9 @@ Xzibit - Restless (2000-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/939a559e-dede-4e0a-9e62-164c2a6fafe5/4411214806-500.jpg" data-tags="hip-hop" role="button">
 Delinquent Habits - Merry Go Round (2001-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/835a431b-81d8-4440-8157-d3efa65a8a39/955224994-500.jpg" data-tags="2pac, rap" role="button">
+2Pac - Until The End Of Time (2001-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d2b68f-d527-498a-94cf-8a2683439fc0/22404891783-500.jpg" data-tags="hip-hop, political, political rap" role="button">
 The Coup - Party Music (2001-11-06)
@@ -278,9 +281,6 @@ The Game - Doctor's Advocate (2006-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
 Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/6c5ea6f2-1f26-4945-a19d-067aa887c55c/22629239985-500.jpg" data-tags="gangsta rap" role="button">
-Daz Dillinger - Only On The Left Side (2008-08-12)
 </li>
 <li data-cover="https://img.discogs.com/A-puL6JADoR33d8_7qVAAFfqiiI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1620739-1295005337.jpeg.jpg" data-tags="rap" role="button">
 The Game - LAX (2008-08-22)
