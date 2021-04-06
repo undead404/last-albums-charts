@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:12:01.461Z
+date: 2021-04-06T00:08:01.366Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -116,6 +116,9 @@ The Streets - Original Pirate Material (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
+</li>
+<li data-cover="https://img.discogs.com/Aab9_aytQknwScesF1hS3ABE3Oc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-103380-1576205114-8321.jpeg.jpg" data-tags="hip-hop, electronic" role="button">
+RJD2 - Deadringer (2002-07-23)
 </li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
@@ -314,9 +317,6 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5673a1-f435-4a02-9e32-8741397969c8/10297212424-500.jpg" data-tags="hip-hop, rap, hip hop, hardcore hip hop" role="button">
 Run the Jewels - Run the Jewels 2 (2014-10-24)
-</li>
-<li data-cover="https://img.discogs.com/8tV-jeGS-LkKSw-b1Auxivn7HZI=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6900964-1549092882-5261.jpeg.jpg" data-tags="rap, hip-hop, hip hop" role="button">
-Nicki Minaj - The Pinkprint (2014-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
 Rae Sremmurd - SremmLife (2015-01-06)

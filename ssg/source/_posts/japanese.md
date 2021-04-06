@@ -1,19 +1,19 @@
 ---
-date: 2021-04-05T15:04:01.381Z
+date: 2021-04-05T23:48:01.466Z
 title: "japanese: 100 albums you must listen to before you die"
 ---
 ![Perfume - GAME (2008-04-16)](http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg "Perfume - GAME (2008-04-16)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/17fd0913-2ba6-428c-b7f6-5891f4a63bbd/8130259037-500.jpg" data-tags="japanese, trip hop" role="button">Cibo Matto - VIVA! La Woman (1996-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">Cornelius - Point (2001-10-24)</li>
-<li data-cover="http://coverartarchive.org/release/941a3f75-661f-4e89-8381-cbf851bea6b6/4765069290-500.jpg" data-tags="hip-hop, chillout, japanese" role="button">Nujabes - Metaphorical Music (2003-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">DIR EN GREY - Vulgar (2003-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">DIR EN GREY - Withering to death (2005-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/9c27b3e5-ccd0-4524-8e6c-0c35adb41771/13198374240-500.jpg" data-tags="math rock, post-rock" role="button">toe - the book about my idle plot on a vague anxiety (2005-08-31)</li>
+<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">Boris - Pink (2005-11-12)</li>
+<li data-cover="http://coverartarchive.org/release/5d43e329-315e-33c5-bba5-81d033e266c9/11644533393-500.jpg" data-tags="metalcore, alternative metal, japanese" role="button">DIR EN GREY - The Marrow Of A Bone (2007-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">the GazettE - STACKED RUBBISH (2007-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">Perfume - GAME (2008-04-16)</li>
-<li data-cover="http://coverartarchive.org/release/5ce26deb-207e-49d4-8054-e79184e1456b/4799003889-500.jpg" data-tags="hip-hop, jazz, japanese, downtempo" role="button">Nujabes - Spiritual State (2011-12-03)</li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
+<li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -57,9 +57,6 @@ DJ Krush - Kakusei (1998-09-09)
 <li data-cover="http://coverartarchive.org/release/62965196-d2ef-4200-92f3-6e67dad070cd/3847276873-500.jpg" data-tags="drone, doom metal" role="button">
 Boris - Amplifier Worship (1998-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/5588dfca-c011-4f66-9899-dcaa5f4efed5/11441887072-500.jpg" data-tags="rock, j-pop, japanese, 90s" role="button">
-椎名林檎 - 無罪モラトリアム (1999-02-24)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop, utada hikaru" role="button">
 宇多田ヒカル - First Love (1999-03-10)
 </li>
@@ -93,8 +90,8 @@ Cornelius - Point (2001-10-24)
 <li data-cover="http://coverartarchive.org/release/32bb9998-3d8d-4e4e-a8e5-6e77be38610a/14049826100-500.jpg" data-tags="ambient, electronic, instrumental" role="button">
 World's End Girlfriend - farewell kingdom (2001-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Power of the Dragonflame (2002-03-18)
+<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
+宇多田ヒカル - DEEP RIVER (2002-06-19)
 </li>
 <li data-cover="https://img.discogs.com/Vj3TukFvs6zz--uCXJXtgEiLBoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3061945-1366202611-8370.jpeg.jpg" data-tags="j-rock, japanese" role="button">
 GACKT - MOON (2002-06-19)
@@ -111,8 +108,8 @@ Emilie Autumn - Enchant (2003-02-26)
 <li data-cover="https://img.discogs.com/C4OWeeu2VPCD2uGfHBC_42-0UKo=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-619586-1235261403.jpeg.jpg" data-tags="japanese, visual kei, gothic metal" role="button">
 Moi dix Mois - Dix infernal (2003-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/941a3f75-661f-4e89-8381-cbf851bea6b6/4765069290-500.jpg" data-tags="hip-hop, chillout, japanese" role="button">
-Nujabes - Metaphorical Music (2003-08-21)
+<li data-cover="https://img.discogs.com/ljx6tIkLYQ8OWBDSC4ufBslIcRw=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4726214-1456417005-3234.jpeg.jpg" data-tags="j-rock, jrock" role="button">
+ASIAN KUNG-FU GENERATION - Houkai Amplifier (2003-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">
 DIR EN GREY - Vulgar (2003-09-10)
@@ -120,7 +117,7 @@ DIR EN GREY - Vulgar (2003-09-10)
 <li data-cover="https://img.discogs.com/YhI2VTY_PbG29E7wQ7KwGbYGksM=/fit-in/320x317/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4141608-1356703260-4041.jpeg.jpg" data-tags="j-rock, japanese, hyde" role="button">
 Hyde - 666 (2003-12-03)
 </li>
-<li data-cover="https://img.discogs.com/Vj3TukFvs6zz--uCXJXtgEiLBoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3061945-1366202611-8370.jpeg.jpg" data-tags="j-rock" role="button">
+<li data-cover="https://img.discogs.com/lSbcfxhsZGPy283mAeWm4ogPwDc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2928666-1307764118.jpeg.jpg" data-tags="j-rock" role="button">
 GACKT - Crescent (2003-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
@@ -129,11 +126,20 @@ Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 <li data-cover="http://coverartarchive.org/release/a693d277-4f62-4cdb-b5cc-8539cc5b0c46/14805551856-500.jpg" data-tags="j-pop, utada hikaru, japanese" role="button">
 宇多田ヒカル - Utada Hikaru SINGLE COLLECTION VOL.1 (2004-03-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/9d953482-6014-4ff1-8015-7240746fc24a/19402623897-500.jpg" data-tags="hip-hop, japanese, j-pop" role="button">
+RIP SLYME - GALAXY (2004-07-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/d7e4964d-e384-4af4-9d9c-9d904d17ac82/8008200343-500.jpg" data-tags="japanese, symphonic metal, loved albums" role="button">
 Moi dix Mois - NOCTURNAL OPERA (2004-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8208be7-1045-4ed3-8ce1-d036dc44ae9b/12986873248-500.jpg" data-tags="alternative rock" role="button">
 ASIAN KUNG-FU GENERATION - ソルファ (2004-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b08eaad5-28f9-4404-b3b7-90067c092d1d/6692942777-500.jpg" data-tags="japanese" role="button">
+東京事変 - 教育 (2004-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/515c3a3c-05ec-4a16-8e1c-ca1a9ef34e02/6155875688-500.jpg" data-tags="experimental, ambient, post-rock" role="button">
+World's End Girlfriend - The Lie Lay Land (2005-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)
@@ -189,9 +195,6 @@ Asobi Seksu - Citrus (2006-05-30)
 <li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
 ギルガメッシュ - 13's Reborn (2006-09-27)
 </li>
-<li data-cover="https://img.discogs.com/pPcjS9_A40-oXUGihJ-P0FIEJ5g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-957854-1177445829.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
-Cornelius - Sensuous (2006-10-25)
-</li>
 <li data-cover="https://img.discogs.com/lD9hgbJ9j1I31uA-U_5Oi7wHpKE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3221297-1321091639.jpeg.jpg" data-tags="rock, japanese, j-rock" role="button">
 ELLEGARDEN - Eleven Fire Crackers (2006-11-08)
 </li>
@@ -212,6 +215,9 @@ the GazettE - STACKED RUBBISH (2007-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3af2f2ee-49bd-4a02-9dd0-02abab0a8426/3000000518-500.jpg" data-tags="female vocalists, japanese" role="button">
 matryoshka - Zatracenie (2007-07-07)
+</li>
+<li data-cover="https://img.discogs.com/V-y_zlb78r3oMes1n6M8dEzwc8M=/fit-in/500x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616432-1337518222-7816.jpeg.jpg" data-tags="japanese" role="button">
+abingdon boys school - abingdon boys school (2007-10-17)
 </li>
 <li data-cover="https://img.discogs.com/oe4oEGANAqpevhEEBCKC44k72bo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1964284-1255380595.jpeg.jpg" data-tags="japanese" role="button">
 Versailles - Lyrical Sympathy (2007-10-31)
@@ -234,14 +240,20 @@ YUI - I LOVED YESTERDAY (2008-04-09)
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan" role="button">
+DJ Okawari - Diorama (2008-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/85fced87-8d19-413d-bef1-a6e327399625/24985752759-500.jpg" data-tags="electronic, japanese, female vocalists, j-pop" role="button">
+Meg - STEP (2008-06-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
 DIR EN GREY - Uroboros (2008-11-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop, voice actress" role="button">
+坂本真綾 - かぜよみ (2009-01-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/d28d9760-c79b-432f-a9dd-54442f2caf45/9526718277-500.jpg" data-tags="post-rock" role="button">
 Mono - Hymn to the Immortal Wind (2009-03-04)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/11ce296b-5499-439b-8e1c-092b0e35557e/22270460633-500.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, sucks, chiant, asian music, chevre, asian pop, things i will never listen to, better than ayu, better than akiko shikata, more talented than akiko shikata, talentless people, voix de chevre, chiante, chiantissime, this is why jpop in the 2000s sucked" role="button">
 YUI - again (2009-06-01)
@@ -276,29 +288,20 @@ Far East Movement - Free Wired (2010-10-09)
 <li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
 Chelsea Wolfe - The Grime and the Glow (2010-12-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/5ce26deb-207e-49d4-8054-e79184e1456b/4799003889-500.jpg" data-tags="hip-hop, jazz, japanese, downtempo" role="button">
-Nujabes - Spiritual State (2011-12-03)
+<li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
+Perfume - JPN (2011-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
 Dead Can Dance - Anastasis (2012-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/92e45294-7c6e-485c-8707-8b655dbc11bd/3058792717-500.jpg" data-tags="japanese" role="button">
 YUI - GREEN GARDEN POP (2012-12-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
+<li data-cover="http://coverartarchive.org/release/55337971-7618-45f8-aa57-304b339a029b/19508607303-500.jpg" data-tags="japanese, jpop, male vocalists, anime, j-pop, asian pop" role="button">
+Linked Horizon - 自由への進撃 (2013-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/134c12c6-7c5b-4366-a72a-a33e85cf5907/12685631277-500.jpg" data-tags="japanese, jpop, j-pop, female fronted, asian pop" role="button">
 相対性理論 - TOWN AGE (2013-07-24)
-</li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
-Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4b2db00-1b79-422e-a909-5e8271c7ec4c/6115445993-500.jpg" data-tags="j-pop" role="button">
 Kero Kero Bonito - Intro Bonito (2013-09-30)
@@ -314,9 +317,6 @@ Lamp - ゆめ (2014-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
-</li>
-<li data-cover="https://img.discogs.com/2JCXbfqFDWFav56WJUrklnssQDQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949963-1495276980-6815.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
-Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
 Zola Jesus - Taiga (2014-10-06)

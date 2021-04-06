@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:28:01.364Z
+date: 2021-04-05T23:52:01.366Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -137,6 +137,9 @@ Radiohead - Amnesiac (2001-06-04)
 </li>
 <li data-cover="https://img.discogs.com/_OtoSqYCltIa6c55GSK0SNGDCCM=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339496-1326052398.jpeg.jpg" data-tags="00s" role="button">
 Xiu Xiu - Knife Play (2002-02-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
+Wilco - Yankee Hotel Foxtrot (2002-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f626b8d5-67a6-4bc7-82cd-4a0c24c8ed5d/11799177283-500.jpg" data-tags="noise rock" role="button">
 Lightning Bolt - Wonderful Rainbow (2003-03-04)
@@ -314,9 +317,6 @@ The Flaming Lips - The Terror (2013-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/01430596-3eaa-4d2f-8198-8e15aac948bd/7269530596-500.jpg" data-tags="post-rock" role="button">
 Swans - To Be Kind (2014-05-03)
-</li>
-<li data-cover="https://img.discogs.com/gRK9qXxMhL4A8iR9BH6UhZ0qAds=/fit-in/494x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5951182-1447146079-7615.jpeg.jpg" data-tags="2014 releases, 2014: albums" role="button">
-Blonde Redhead - Barragán (2014-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
 alt-J - This Is All Yours (2014-09-18)

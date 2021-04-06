@@ -1,14 +1,14 @@
 ---
-date: 2021-04-05T10:01:06.710Z
+date: 2021-04-06T00:43:01.394Z
 title: "raucous: 100 albums you must listen to before you die"
 ---
 ![The Clash - Hits Back (2013-08-26)](http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg "The Clash - Hits Back (2013-08-26)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">Aphex Twin - Richard D. James Album (1996-11-04)</li>
 <li data-cover="https://img.discogs.com/48co00Mgnt-oJ4DG0aQbKDS1Rsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8536683-1465209501-6206.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">Bob Dylan - Modern Times (2006-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
 <li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
+<li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, volatile, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">Superchunk - Majesty Shredding (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">Chromatics - Kill for Love (2012-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/35a7ea89-605b-466e-a5c5-1726f56f980f/4265527988-500.jpg" data-tags="indie rock" role="button">Vampire Weekend - Modern Vampires of the City (2013-05-06)</li>
@@ -126,7 +126,7 @@ James Brown - 20 All Time Greatest Hits! (1991-10-22)
 <li data-cover="http://coverartarchive.org/release/98b7a796-0f0f-4319-8948-f250d14d6bbc/2800476658-500.jpg" data-tags="70s, classic rock, rock" role="button">
 Mott the Hoople - All The Young Dudes (1992)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/162722db579554db812b537fc8fbe8021fb40203/images/spacer.gif" data-tags="hip-hop, rap" role="button">
 Das EFX - Dead Serious (1992-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/906fb3fb-f8fe-44db-8976-93652c3a0ad6/3879224429-500.jpg" data-tags="indie rock, energetic, melancholy, intense, confident, aggressive, fiery, menacing, earnest, raucous, yearning, playful, heartache, manic, empowerment, cathartic, motivation, rowdy, volatile, visceral, plaintive, angst-ridden, boisterous, rambunctious, innocent, fuzzy guitar goodness, fun to skateboard to, where is my bong, lp i own, tugs at me heart strings, classic american indie rock" role="button">
@@ -141,6 +141,9 @@ Beat Happening - You Turn Me On (1992-10-02)
 <li data-cover="https://img.discogs.com/33Tl1TJGobql0oXCSj2tlR9HZe0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027191-1185627117.jpeg.jpg" data-tags="post-punk" role="button">
 The Birthday Party - Hits (1992-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/2c1080d0-d6dc-4470-8bf3-884d7c4b7de2/15897612975-500.jpg" data-tags="metal, alternative rock, hard rock, psychedelic rock" role="button">
+Motorpsycho - Demon Box (1993-09-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
 Ramones - Acid Eaters (1993-12-01)
 </li>
@@ -152,9 +155,6 @@ Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/87d8297b-b01e-4eab-861b-e6d4e782830d/3397017644-500.jpg" data-tags="hardcore punk" role="button">
 Bad Brains - Black Dots (1996-09-30)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronic" role="button">
-Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c15b933d-04b1-46f5-ae32-2eeffebd652a/28714176915-500.jpg" data-tags="punk" role="button">
 The Jam - The Very Best of The Jam (1997)

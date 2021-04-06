@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:12:01.535Z
+date: 2021-04-06T00:06:01.346Z
 title: "slow: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -7,7 +7,7 @@ title: "slow: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">Vashti Bunyan - Just Another Diamond Day (1970)</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">Mirah - C'mon Miracle (2004-05-04)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
@@ -24,6 +24,12 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
+<li data-cover="https://img.discogs.com/50SvCXAaz3Oxef37kRAI3Az63lw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043609-1584320985-5784.jpeg.jpg" data-tags="jazz, instrumental, slow, fusion, experimental jazz, basically bass, woebotjazz, zawinul, j zawinul" role="button">
+Joe Zawinul - Zawinul (1971)
+</li>
+<li data-cover="https://img.discogs.com/okStQxQrtctX4v0VpkLKm8HeuMI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775753-1157553303.jpeg.jpg" data-tags="slow, psychedelic pop, funk, summer, brasil, mpb, sleepy, swimming, evening, rhodes, lazy, analog synths, dew, samba soul, ware" role="button">
+Marcos Valle - Previsão Do Tempo (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/76d63bc7-3946-46da-8836-c6e0e4584f0a/4753254286-500.jpg" data-tags="pop, rock, 70s, uk" role="button">
 Joe Cocker - I Can Stand A Little Rain (1974)
 </li>
@@ -32,6 +38,12 @@ Rick James - Bustin' Out of L Seven (1979)
 </li>
 <li data-cover="https://img.discogs.com/YBNpgYneJSwwajwHe_0EIA2JD_o=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-931174-1510508816-2800.jpeg.jpg" data-tags="electronica, ambient" role="button">
 Vangelis - Antarctica (1983)
+</li>
+<li data-cover="https://img.discogs.com/k9OEcTH6CLyqErLa-mP_B3Fx8Bs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-353260-1169305778.jpeg.jpg" data-tags="rnb" role="button">
+Mtume - JUICY FRUIT (1983)
+</li>
+<li data-cover="https://img.discogs.com/khrzei5hEuuxoXoxHoibAB7dMoQ=/fit-in/220x214/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328646-1096336946.jpg.jpg" data-tags="soul" role="button">
+Mtume - You, Me And He (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
@@ -51,17 +63,17 @@ My Bloody Valentine - Glider (1990-04)
 <li data-cover="https://img.discogs.com/UMBJGIOlHKIlyuDcv3xQGsGIxKA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15177157-1587702788-9526.jpeg.jpg" data-tags="shoegaze, alternative rock" role="button">
 The Jesus and Mary Chain - Honey's Dead (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7245946-b87a-49a9-abdc-1b65b4410404/1604062677-500.jpg" data-tags="sludge, drone, doom metal" role="button">
-Melvins - Lysol (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/303d108a-8b3c-4dbe-97bf-e070b5d36d01/3994580625-500.jpg" data-tags="shoegaze" role="button">
 Slowdive - Blue Day (1992-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/176d8d74-12ed-42df-8940-0c95eafbe38f/11799596585-500.jpg" data-tags="soundtrack, rock, philadelphia, slow, lyrical, single, akustik, springsteen, sountrack, story song, cd single, soundtrack single" role="button">
+Bruce Springsteen - Streets of Philadelphia (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf38cc51-5436-4dce-a94f-c235e07b5656/15428647616-500.jpg" data-tags="cyberpunk" role="button">
 Billy Idol - Cyberpunk (1993-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/fa31d376-e52b-4635-9282-4d8fc1f0975b/15365515098-500.jpg" data-tags="illbient" role="button">
-Scorn - Evanescence (1994-07-01)
+<li data-cover="http://coverartarchive.org/release/28c5e021-1801-4783-bcee-c906745a7e98/1100068819-500.jpg" data-tags="jazz, louis armstrong" role="button">
+Louis Armstrong - La Vie En Rose (1995)
 </li>
 <li data-cover="https://img.discogs.com/y2olKQ62QYPn5PGJ_EhdS33EkWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097273-1191794769.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
 Sleep - Jerusalem (1996)
@@ -84,8 +96,8 @@ Smog - Red Apple Falls (1997-05-20)
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
 Grandaddy - Under The Western Freeway (1997-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/d768f402-e6ad-443b-9551-5c9e2f25ab9d/12162231602-500.jpg" data-tags="rock, 90s, alternative" role="button">
-Мумий Тролль - Икра (1997-11-21)
+<li data-cover="https://via.placeholder.com/450" data-tags="slow" role="button">
+Volumia! - Volumia! (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7bb368c-4760-40d1-8244-8b42729125d1/2337163551-500.jpg" data-tags="electronic, trip-hop" role="button">
 Bang Gang - You (1998)
@@ -99,8 +111,8 @@ Hayden - The Closer I Get (1998-05-12)
 <li data-cover="http://coverartarchive.org/release/067a1e41-bae3-30d6-a797-d256e96c94f6/5072584211-500.jpg" data-tags="indie, indie rock" role="button">
 Blonde Redhead - In an Expression of the Inexpressible (1998-09-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/4448537f-fa4a-41ec-b1ea-8d6fcc96fd89/17011711593-500.jpg" data-tags="ecm, jazz, jazz fusion" role="button">
-John Abercrombie - Open Land (1999-09-06)
+<li data-cover="https://img.discogs.com/KWzsBYcckIMVuawdV9BqdoJw-WU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2719857-1553338687-3549.jpeg.jpg" data-tags="soul, r&b, rnb" role="button">
+Silk - Tonight (1999-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
@@ -114,14 +126,14 @@ Vanessa Paradis - Bliss (2000-10-14)
 <li data-cover="http://coverartarchive.org/release/ea6fb991-3f79-4b7e-8712-986fd51dbcfb/2893856591-500.jpg" data-tags="manguebeat, otto" role="button">
 Otto - Condom Black (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/918ce11f-a9fb-4d3c-be10-c0b55e510145/11462273056-500.jpg" data-tags="doom metal, drone metal" role="button">
-Khanate - Khanate (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/2e8cb32b-7341-486e-8543-3e87910555f6/3576613641-500.jpg" data-tags="pop" role="button">
 Dido - One Step Too Far (2001)
 </li>
 <li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/1dacf76b-e450-4945-b877-c7db83bbadce/5126117704-500.jpg" data-tags="slow, pligaa" role="button">
+Maija Vilkkumaa - Meikit, ketjut ja vyöt (2001-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9378a6bd-2bfb-4a6f-bee1-6129cbd9d62d/23357986514-500.jpg" data-tags="alternative, slow, flashback alternatives, czalbums" role="button">
 The Church - After Everything Now This (2002)
@@ -135,11 +147,11 @@ Tweet - Southern Hummingbird (2002-04-02)
 <li data-cover="http://coverartarchive.org/release/39ded298-59ee-4eb2-8449-aa81ac46b18e/9544144082-500.jpg" data-tags="noise pop" role="button">
 Deerhoof - Reveille (2002-06-04)
 </li>
-<li data-cover="https://img.discogs.com/1svphMqyDyv14BWhgqPP6x1oBbI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9005957-1473134252-4987.jpeg.jpg" data-tags="jazz, trumpet, nu jazz, norwegian" role="button">
-Nils Petter Molvær - NP3 (2002-07-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/02861688-ff83-4f84-98dd-d2b1bb498135/9420205565-500.jpg" data-tags="christian" role="button">
 MercyMe - Spoken for (2002-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/173148fb-41a5-4766-b3cf-dd7b115c3271/4628443179-500.jpg" data-tags="jazz" role="button">
+Chet Baker - But not For Me (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f923947-12e9-4669-8254-8b7386646e8a/7749962464-500.jpg" data-tags="indie, indie pop, maximilian hecker" role="button">
 Maximilian Hecker - Rose (2003)
@@ -147,23 +159,17 @@ Maximilian Hecker - Rose (2003)
 <li data-cover="https://img.discogs.com/XUtvyd4Ml4s2Vc0IQCDPzDOKsbw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-728631-1451798018-6889.jpeg.jpg" data-tags="alternative rock, post-rock" role="button">
 Aereogramme - Sleep and Release (2003-02-10)
 </li>
+<li data-cover="https://img.discogs.com/9HAj09-jiw0Jc6stKfjRmASsX20=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470759-1593084905-5043.jpeg.jpg" data-tags="piano, slow" role="button">
+Danny Wright - Healer of Hearts (2003-03-11)
+</li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
 Gregor Samsa - 27:36 (2003-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/cab61b59-3181-4b51-8dac-d47794cab312/2675845192-500.jpg" data-tags="ambient, space" role="button">
-Dreams of Dying Stars - Stardance (2003-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/74aaef49-e032-42be-9567-08c79fa2f08b/13404138040-500.jpg" data-tags="metal" role="button">
 Blind Guardian - The Bard's Song (In the Forest) (2003-05-05)
 </li>
 <li data-cover="https://img.discogs.com/wsth58Vm-20-xd2QGRkYbUsXRfc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6369706-1418122645-1265.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
 Björk - Homogenic Live (2003-08-18)
-</li>
-<li data-cover="https://img.discogs.com/5eV2OHcD9IHoE2xLUEKlg_R7zZU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-389778-1560438385-1200.jpeg.jpg" data-tags="noise, metal, doom metal, slow, drone, industrial metal, drone doom, darkness, sludge doom, drone metal, industrial doom metal, heavy as fuck, crushing, drone doom metal, torture, sludge doom metal, noise metal, grinding noise, a hint of swans, industrial sludge doom metal, heaviest albums ever" role="button">
-Halo - Body of Light (2003-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/10238f70-4b01-4d39-b793-617185352e1b/11345500658-500.jpg" data-tags="drone, drone metal" role="button">
-Boris - Boris At Last -Feedbacker- (2003-12-25)
 </li>
 <li data-cover="https://img.discogs.com/2pmcZrViIglazE1B20EN20LJY9U=/fit-in/450x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1184688-1199127294.gif.jpg" data-tags="folk, indie, singer-songwriter, female vocalists, acoustic, female, country, alternative, alternative rock, indie pop, indie rock, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, guitar, girls, songwriter, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, female vocals, indie folk, female vocalist, singer songwriter, 00s, female artists, female vocal, alt rock, female voices, female singers, independent, female singer-songwriter, tracks, singer songwriters, slow-coustic, alt, quiet music, quiet voices, pop, rock, indie-rock, indie-pop" role="button">
 Tara Jane O'Neil - Bones (2004)
@@ -174,7 +180,7 @@ Low - The Great Destroyer (2004)
 <li data-cover="https://img.discogs.com/AL05ulVbvk9rcJb39tc3RBd2wj0=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-335775-1187366372.jpeg.jpg" data-tags="female vocalists, posteverything" role="button">
 Susanna and the Magical Orchestra - List of Lights and Buoys (2004-01-26)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -183,17 +189,11 @@ Iron & Wine - Our Endless Numbered Days (2004-03-23)
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/c18080bf-0d4c-4ad5-890d-1945fec2d62d/12359574398-500.jpg" data-tags="post-rock" role="button">
-School of Emotional Engineering - School of Emotional Engineering (2004-08-16)
-</li>
 <li data-cover="https://img.discogs.com/iVvwkqtoSnUexSg2FgDy1yZGPC4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453334-1243153042.jpeg.jpg" data-tags="indie, country, alternative, folk, indie pop, indie rock, sad, singer-songwriter, acoustic, blues, mellow, alt-country, melancholy, folk rock, slow, calm, lo-fi, americana, moody, songwriter, winter, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
 Little Wings - Magic Wand (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, alt rock, independent, tracks, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
 Julie Doiron - Goodnight Nobody (2004-09-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/de3872f2-0313-48dc-b359-ed611e5ada08/3199890061-500.jpg" data-tags="slow, calm, canadian, melancholy, dramatic, male vocalists, autumnal, great voice, adult, great vocal, czalbums" role="button">
-Crash Test Dummies - Songs of the Unforgiven (2004-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/91c58174-3280-4169-baa1-507b07c074db/7448901261-500.jpg" data-tags="rnb" role="button">
 Ashanti - Concrete Rose (2004-12-13)
@@ -204,10 +204,7 @@ Beirut - Gulag Orkestar (2005)
 <li data-cover="https://img.discogs.com/IHVjfRS3zDK4TJprEp1vCwyKWnI=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2391407-1281339009.jpeg.jpg" data-tags="pop, rock, slow, melodic, winter albums, ships ahoy" role="button">
 Shapes and Sizes - Shapes and Sizes (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/fe110d50-71d2-47ca-8101-56f07d07fb66/15671147481-500.jpg" data-tags="minimal" role="button">
-AGF/Delay - Explode (2005-02-14)
-</li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sitar" role="button">
@@ -249,8 +246,8 @@ Norfolk & Western - The Unsung Colony (2006-10-24)
 <li data-cover="http://coverartarchive.org/release/622ac912-8b5d-463a-bad4-52dc1616c118/15785742859-500.jpg" data-tags="ambient, electronic, experimental" role="button">
 Ben Frost - Theory of Machines (2006-11)
 </li>
-<li data-cover="https://img.discogs.com/5ja5O8hrZnBx8K2d9te-_8DSy6o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16002181-1601674716-2297.jpeg.jpg" data-tags="experimental, space, krautrock, avantgarde, postrock" role="button">
-Killflavour - the flavour of 51 golden mandingos (2007)
+<li data-cover="https://img.discogs.com/6FkW1KzUrN75xjI2oFNGc77Y6zs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14816707-1582161933-7535.jpeg.jpg" data-tags="vocal, slow, industrial pop, synth-punk, shinys" role="button">
+Shiny Toy Guns - Stripped (2007-01-01)
 </li>
 <li data-cover="https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg" data-tags="pop, singer-songwriter, usa, slow, contralto, political, live, 00s, ballad, protest song, pink, english lyrics, p!nk, bush, critical, open letter, coolwench, george w, arcoustic" role="button">
 P!nk - Dear Mr. President (2007-04-02)
@@ -294,6 +291,12 @@ Patricia Kaas - Kabaret (2008-12-17)
 <li data-cover="http://coverartarchive.org/release/a0820b4a-63b4-4f21-9db0-356f18b3c3ed/26563344382-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Breakthrough (2009-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/8953f25b-6c3e-413e-b286-a66a58c468ca/14919707035-500.jpg" data-tags="country" role="button">
+Jason Aldean - Wide Open (2009-04-07)
+</li>
+<li data-cover="https://img.discogs.com/O-YGZUyq38q18d9orZ5NruCTpm4=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2358169-1279304123.jpeg.jpg" data-tags="boughtlist2010" role="button">
+Tired Pony - The Place We Ran From (2010-07-12)
+</li>
 <li data-cover="https://img.discogs.com/-OeMxMirkw9tuOHA20C_dby__Kw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2451540-1284816267.jpeg.jpg" data-tags="electronic" role="button">
 Teengirl Fantasy - 7AM (2010-09-13)
 </li>
@@ -314,9 +317,6 @@ Evan Caminiti - Dreamless Sleep (2012-08-20)
 </li>
 <li data-cover="https://img.discogs.com/gF6znKvR4GQAundC8RPFY_ewyvA=/fit-in/600x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9822984-1486887638-1941.jpeg.jpg" data-tags="k-pop, dance" role="button">
 Trouble Maker - Chemistry (2013-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/f795f5e4-2deb-445e-9701-8f256fb35715/8048742898-500.jpg" data-tags="korean, k-pop, male vocalist, beast, asian music, junhyung" role="button">
-용준형 - Flower (2013-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/809fc9e5-4029-43d7-97f9-2ef75802a03a/8080482580-500.jpg" data-tags="dance, kpop, shinee, taemin" role="button">
 태민 - ACE (2014-08-18)

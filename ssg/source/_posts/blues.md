@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:35:01.559Z
+date: 2021-04-05T23:49:01.416Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -7,11 +7,11 @@ title: "blues: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">Tom Waits - Closing Time (1973-05)</li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">Eric Clapton - Unplugged (1992-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">Ben Harper - Fight For Your Mind (1995-07)</li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
 <li data-cover="https://img.discogs.com/xuq3MPlDpFXj4QApHfhHmHEgElw=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3249551-1322327457.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
 <li data-cover="https://img.discogs.com/Sx2GoX-oNB9S0Hba5pduTHWZE7A=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521164-1378815509-2198.jpeg.jpg" data-tags="blues, rock, soul, 10s" role="button">Alabama Shakes - Boys & Girls (2012-04-03)</li>
-<li data-cover="http://coverartarchive.org/release/54ae2614-7ddb-4c11-b251-231929556b55/4911466037-500.jpg" data-tags="blues" role="button">John Mayer - Paradise Valley (2013-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg" data-tags="blues, folk rock, alternative pop, vicky, in my vinyl collection" role="button">George Ezra - Wanted on Voyage (2014-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg" data-tags="soul, indie rock, blues" role="button">Hozier - Hozier (2014-06-10)</li>
 </ol>
@@ -168,17 +168,14 @@ Tom Waits - Mule Variations (1999-04-14)
 <li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
 Eric Clapton - Clapton Chronicles: The Best of Eric Clapton (1999-10-12)
 </li>
-<li data-cover="https://img.discogs.com/eOIoN-rL9mXI3K_SgjWIWJU8-eA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4091170-1371850697-1461.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
-Morphine - The Night (2000-02-01)
-</li>
 <li data-cover="https://img.discogs.com/blVarIDnIHpERCIOUvAoP4618FU=/fit-in/509x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855656-1606850367-2438.jpeg.jpg" data-tags="blues" role="button">
 B.B. King & Eric Clapton - Riding with the King (2000-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
+Norah Jones - Come Away with Me (2002-02-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/71fce908-8a23-41bd-8de5-b8eba0fb00c7/7130829837-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - The Big Come Up (2002-05-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
-Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b58cd2-2a2f-36ad-81b3-7ab044d01d19/9200502912-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Thickfreakness (2003-04-08)
@@ -186,13 +183,16 @@ The Black Keys - Thickfreakness (2003-04-08)
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Led Zeppelin (2003-05-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
+John Mayer - Heavier Things (2003-09-09)
+</li>
 <li data-cover="https://img.discogs.com/WI9xr-R4aOltg2LSAy8x77FKfQg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4662538-1371466720-1362.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
 The John Butler Trio - Sunrise Over Sea (2004-03-08)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ea6d063-de17-3423-80f1-ed21563c47b2/22164226793-500.jpg" data-tags="soul, blues, jazz" role="button">

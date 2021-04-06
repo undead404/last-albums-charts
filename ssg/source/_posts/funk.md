@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:13:01.350Z
+date: 2021-04-06T00:10:01.551Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -10,9 +10,9 @@ title: "funk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">Jamiroquai - Travelling Without Moving (1996-09-09)</li>
 <li data-cover="https://img.discogs.com/NBCvY5cCvelAfmxcLXs258JUzvM=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7137188-1497941590-2757.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">Beck - Midnite Vultures (1999-11-20)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - A Funk Odyssey (2001-08-29)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - Dynamite (2005-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">Gnarls Barkley - St. Elsewhere (2006-04-24)</li>
 <li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)</li>
+<li data-cover="http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg" data-tags="jazz, funk" role="button">Herbie Hancock - Head Hunters (2010-06-28)</li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">Daft Punk - Random Access Memories (2013-05-17)</li>
 </ol>
 List of 100 - under the cut.
@@ -183,9 +183,6 @@ Chromeo - She's In Control (2004-02-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
-Supergrass - Road to Rouen (2005-08-15)
-</li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
 </li>
@@ -254,6 +251,9 @@ Wale - Attention Deficit (2009-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg" data-tags="jazz, funk" role="button">
+Herbie Hancock - Head Hunters (2010-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/df4b1069-8b30-4ac5-86ff-99fe6f0e80b0/23256585874-500.jpg" data-tags="electronic, hip hop, experimental, funk, glitch, trip hop, instrumental hip-hop, wonky" role="button">
 Pretty Lights - Spilling Over Every Side (2010-07-29)

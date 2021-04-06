@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:55:01.429Z
+date: 2021-04-06T00:36:01.356Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -30,13 +30,13 @@ Elton John - Goodbye Yellow Brick Road (1973-10-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, billy joel" role="button">
 Billy Joel - Piano Man (1973-11-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
-Billy Joel - The Stranger (1977-09-29)
+<li data-cover="http://coverartarchive.org/release/dfc0a733-c158-4eb7-9e4b-2a98492857af/8671054041-500.jpg" data-tags="jazz, piano" role="button">
+Bill Evans - You Must Believe in Spring (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1da6792-3a6a-4e4c-97fc-fc2477b183ef/2906121265-500.jpg" data-tags="ambient, piano, contemporary classical, cinematic, melancholy, minimalism, melancholic, neoclassical, post-classical, piano ambient, contemporary piano, ambient piano" role="button">
 Harold Budd - Lovely Thunder (1986-10)
 </li>
-<li data-cover="https://img.discogs.com/_aTYiSJ07RfLYrlYmV5po4aVsb4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5522861-1395595380-8890.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
+<li data-cover="https://img.discogs.com/-GN-JQ2oRtEsLWjyv1fd_VXV5dw=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8846463-1469993526-8129.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
 Philip Glass - Solo Piano (1989-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
@@ -108,14 +108,17 @@ Max Richter - Memoryhouse (2002-05-27)
 <li data-cover="https://img.discogs.com/73BdnpsuWQGksqOP1uxii3rMTx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6230561-1489031293-8189.jpeg.jpg" data-tags="piano rock" role="button">
 Ben Folds - Ben Folds Live (2002-10-08)
 </li>
-<li data-cover="https://img.discogs.com/jXjGr0E0xoSAHMFgxlKNoa7ZHfQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083211-1287229519.jpeg.jpg" data-tags="jazz" role="button">
-The Bad Plus - These Are The Vistas (2003-02-10)
+<li data-cover="http://coverartarchive.org/release/1d089bd9-3344-4de7-bf3f-678d3cf70a76/9205163692-500.jpg" data-tags="piano" role="button">
+Vienna Teng - Waking Hour (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d1aa57c-5145-4fc9-803d-13638827fe31/6324371592-500.jpg" data-tags="cabaret" role="button">
 The Dresden Dolls - A Is for Accident (2003-05-27)
 </li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbb6fa2e-393f-39a4-94cc-21caa3baf782/4514952186-500.jpg" data-tags="piano" role="button">
+Gonzales - Solo Piano (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab94f081-aff2-4b3b-ad08-0b410fd80654/11066105660-500.jpg" data-tags="pop, female vocalists, piano" role="button">
 Vanessa Carlton - Harmonium (2004-01-01)
@@ -183,8 +186,11 @@ Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 <li data-cover="https://img.discogs.com/NvmRufaO2RAjrDAztOYOP4V7aso=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-956459-1177242914.jpeg.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, neo-classical, modern classical" role="button">
 Dustin O'Halloran - Piano Solos Vol. 2 (2006-10-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="contemporary classical, modern classical, post-classical, neoclassical, neo-classical, piano, neo classical, postclassical, post classical, modern composition" role="button">
+<li data-cover="https://img.discogs.com/m-GbEPGVNLAPvBNA65BD69r9CgA=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8593894-1464720109-1900.jpeg.jpg" data-tags="contemporary classical, modern classical, post-classical, neoclassical, neo-classical, piano, neo classical, postclassical, post classical, modern composition" role="button">
 Max Richter - Songs From Before (2006-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/06baafe3-f311-45f1-bab7-97d6aaa7ea64/10383788528-500.jpg" data-tags="rock, singer-songwriter, piano" role="button">
+Ben Folds - supersunnyspeedgraphic, the lp (2006-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg" data-tags="piano, contemporary classical, neoclassical" role="button">
 Ludovico Einaudi - Divenire (2006-11-07)
@@ -194,9 +200,6 @@ Roberto Cacciapaglia - Quarto Tempo (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop rock, pop punk" role="button">
-The Rocket Summer - Do You Feel (2007-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">
 The Starting Line - Direction (2007-07-31)
@@ -218,6 +221,9 @@ Fabrizio Paterlini - Viaggi in aeromobile (2007-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/be0d3350-c06e-4f65-b43e-35454398d9d6/17591709960-500.jpg" data-tags="piano, ambient" role="button">
 Peter Broderick - Docile (2007-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d716046-80f2-4bc7-9a74-27838a8e4460/5825272609-500.jpg" data-tags="piano" role="button">
+Philip Wesley - Dark Night of the Soul (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
 Balmorhea - Rivers Arms (2008-02-12)
@@ -261,7 +267,7 @@ Jamie Cullum - The Pursuit (2009-11-13)
 <li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">
 Nils Frahm - Wintermusik (2009-12-07)
 </li>
-<li data-cover="https://img.discogs.com/ljxpxTe9s-ze-oe0sLwEJapRRbU=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14764477-1581542473-4562.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
+<li data-cover="https://img.discogs.com/-0O4p9AqqjSpbkHhZotoEBz1Efg=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267354-1458916937-8797.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
 Ólafur Arnalds - ...and they have escaped the weight of darkness (2010-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e788f8b4-7458-4d40-8169-4d6a642b4c33/3387689214-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, neo-classical, post-classical, neo classical, piano, postclassical, post classical, modern composition" role="button">
@@ -288,14 +294,14 @@ Nils Frahm - Felt (2011-10-07)
 <li data-cover="http://coverartarchive.org/release/56a15cf2-a435-48c9-8fdc-642e24aff561/4237979092-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, neo-classical, modern classical, piano" role="button">
 Ólafur Arnalds - Living Room Songs (2011-12-02)
 </li>
-<li data-cover="https://img.discogs.com/0hGXhQAlB4Hm_uuPq_nkTLYUUhw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3936421-1349802747-6513.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
+Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
+</li>
+<li data-cover="https://img.discogs.com/jzn8NpXiPqWvdYqiPwB-tI6wN7o=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17365675-1613058960-1298.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
 Ólafur Arnalds - For Now I Am Winter (2013-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">
-Sara Bareilles - The Blessed Unrest (2013-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/da998b90-83d6-43ea-9a46-55ce0fba83e4/5554522707-500.jpg" data-tags="soul" role="button">
 John Legend - Love in the Future (2013-08-30)
@@ -312,13 +318,7 @@ A Great Big World - Is There Anybody Out There? (2014-01-14)
 <li data-cover="http://coverartarchive.org/release/8c976f66-b784-4e09-be74-455f150a8082/7586223644-500.jpg" data-tags="house, classical crossover, electronic" role="button">
 Clean Bandit - New Eyes (2014-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
-Coldplay - Ghost Stories (2014-05-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/d06faeb4-4ca4-4552-938c-66516e11f161/9582088894-500.jpg" data-tags="contemporary classical" role="button">
 Keaton Henson - Romantic Works (2014-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/aaed190c-fc3a-43c2-acdd-aa06b390b9cf/10369854892-500.jpg" data-tags="ambient" role="button">
-Grouper - Ruins (2014-10-27)
 </li>
 </ol>
