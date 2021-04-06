@@ -1,11 +1,11 @@
 ---
-date: 2021-04-06T15:40:01.365Z
+date: 2021-04-06T19:35:01.388Z
 title: "ska: 100 albums you must listen to before you die"
 ---
-![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/mLwjMdz3iGwslNg5YKQ1FbAUtmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6034085-1420330233-7216.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")
+![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - 40 Oz. to Freedom (1992)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
+<li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">Sublime - 40 Oz. to Freedom (1992)</li>
+<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="https://img.discogs.com/mLwjMdz3iGwslNg5YKQ1FbAUtmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6034085-1420330233-7216.jpeg.jpg" data-tags="90s, ska, rock" role="button">No Doubt - Tragic Kingdom (1995-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/c7c20200-53d7-49a0-9133-4259b442ff72/7695999165-500.jpg" data-tags="ska, ska punk" role="button">Reel Big Fish - Turn the Radio Off (1996-08-13)</li>
 <li data-cover="http://coverartarchive.org/release/e58d27fb-e833-4bdf-a742-65c5fc45648a/3374874042-500.jpg" data-tags="ska, ska punk" role="button">The Mighty Mighty Bosstones - Let's Face It (1997-03-11)</li>
@@ -45,13 +45,10 @@ Operation Ivy - Energy (1989-03-15)
 <li data-cover="http://coverartarchive.org/release/f6a6d520-d743-4c71-bff3-299da409f34d/4895309608-500.jpg" data-tags="classic rock, reggae, ska, roots, roots reggae, lion" role="button">
 Bob Marley & The Wailers - Gold (1991)
 </li>
-<li data-cover="http://coverartarchive.org/release/46869c1b-94d7-4bc3-9774-0455e1109f92/988882362-500.jpg" data-tags="punk, reggae, ska" role="button">
-Sublime - Jah Won't Pay the Bills (1991)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4a285a0-80ec-489d-86b2-d1666d2d99b0/6124024513-500.jpg" data-tags="ska" role="button">
 The Specials - The Singles Collection (1991-01-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
+<li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">
 Sublime - 40 Oz. to Freedom (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e5b985d-85d3-4597-a1c1-6b2050fb0281/4134625438-500.jpg" data-tags="ska" role="button">
@@ -69,7 +66,7 @@ Sublime - Robbin' The Hood (1994-02-08)
 <li data-cover="http://coverartarchive.org/release/7167fb50-0fc1-3735-82bd-83b5069e77c4/4801784404-500.jpg" data-tags="punk, punk rock" role="button">
 NOFX - Punk in Drublic (1994-07-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska" role="button">
+<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">
 Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b64eb5cf-ec72-3cf7-b3a7-d663583f40b7/4867481081-500.jpg" data-tags="ska" role="button">
@@ -204,6 +201,9 @@ Suburban Legends - Rump Shaker (2003-06-28)
 <li data-cover="http://coverartarchive.org/release/c2fc3871-3ca1-4c00-b0a6-3297822b2662/3942852858-500.jpg" data-tags="ska, ska punk" role="button">
 Streetlight Manifesto - Everything Goes Numb (2003-08-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/18230503-dc0a-4822-b7bc-7822a769d4e8/28086874897-500.jpg" data-tags="ska, russian" role="button">
+Ленинград - Для миллионов (2003-10-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/84ae99a9-0cd3-4b13-ac6a-f05d41460912/15840373056-500.jpg" data-tags="ska" role="button">
 The Cat Empire - The Cat Empire (2003-10-27)
 </li>
@@ -252,6 +252,9 @@ The Cat Empire - Two Shoes (2005-09)
 <li data-cover="http://coverartarchive.org/release/267e744d-4019-4d40-b176-12afcec5a40b/4723780103-500.jpg" data-tags="ska, ska punk, diy" role="button">
 Bomb the Music Industry! - To Leave or Die in Long Island (2005-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae, dub, ska, dub reggae, roots, jamband, indierock, jbb" role="button">
+10 Ft. Ganja Plant - Bass Chalice (2005-10-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
 Sublime - Gold (2005-11-15)
 </li>
@@ -290,9 +293,6 @@ Rebelution - Courage To Grow (2007-06-08)
 </li>
 <li data-cover="https://img.discogs.com/qVjBD2zNd7yt8T2nhZpyzlDXRmM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061809-1511883604-1888.jpeg.jpg" data-tags="latin" role="button">
 Manu Chao - La Radiolina (2007-09-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/a02a6d0b-cd51-4938-ab72-32efdc56acf8/6936491369-500.jpg" data-tags="punk, punk rock, plattensammlung" role="button">
-The Flatliners - The Great Awake (2007-09-04)
 </li>
 <li data-cover="https://img.discogs.com/95Km-qqD29mML7rgPetQ-ehaClw=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2587197-1464457762-7603.jpeg.jpg" data-tags="british" role="button">
 The Rumble Strips - Girls and Weather (2007-09-17)

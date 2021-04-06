@@ -1,19 +1,19 @@
 ---
-date: 2021-04-06T10:18:02.272Z
+date: 2021-04-06T19:14:01.481Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/d7f10f30-50ae-402e-a50f-af7c3c6b6e57/4596446793-500.jpg" data-tags="dub" role="button">Massive Attack - No Protection (1995-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">Gorillaz - Gorillaz (2001-03-24)</li>
+<li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">Boozoo Bajou - Satta (2001-06)</li>
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/99e39642-cae5-4061-9800-751108bc650b/6477557415-500.jpg" data-tags="dub, ambient" role="button">Ott - Blumenkraft (2003-05-13)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">Bedouin Soundclash - Sounding A Mosaic (2004-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">Fat Freddy's Drop - Based on a True Story (2005-05)</li>
 <li data-cover="http://coverartarchive.org/release/b7bfc318-2b99-40f0-9052-58fc57c2417e/10298830949-500.jpg" data-tags="dub" role="button">Ott - Skylon (2008-01-25)</li>
-<li data-cover="http://coverartarchive.org/release/852a8638-6fc2-4be6-be9b-b7509d23ba2a/12148653044-500.jpg" data-tags="dub, dubstep, dance" role="button">Flux Pavilion - Got 2 Know / Normalize (2010-05-20)</li>
-<li data-cover="http://coverartarchive.org/release/df9256e8-1956-4ce5-b93c-1be551d4075a/2349275927-500.jpg" data-tags="ambient, dub" role="button">Ott - Mir (2011-03-15)</li>
+<li data-cover="http://coverartarchive.org/release/744ae359-3156-4b4a-b0ac-38c3e160b64c/1242688139-500.jpg" data-tags="beatbox, reggae, dub, dubstep" role="button">Dub Fx - Everythinks a Ripple (2009)</li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">King Krule - King Krule (2011-11-08)</li>
+<li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">Santigold - Master of My Make-Believe (2012-04-21)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,44 +21,38 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Live! (1975-12-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
-Augustus Pablo - King Tubbys Meets Rockers Uptown (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/258b807c-f1dd-43b1-9777-478c0cf39cfb/4301423098-500.jpg" data-tags="dub" role="button">
-King Tubby - King Tubbys Meets Rockers Uptown (1976)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 The Upsetters - Super Ape (1976)
 </li>
-<li data-cover="http://coverartarchive.org/release/612e6bb6-873d-30cd-9a7c-f218e9b73fab/26173236311-500.jpg" data-tags="dub" role="button">
-Scientist - Heavyweight Dub Champion (1980)
+<li data-cover="https://img.discogs.com/NB6MT1rB6twKTfgyBiQMRJKAd6I=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-222956-1598288698-9582.jpeg.jpg" data-tags="post-punk" role="button">
+The Slits - Cut (1979-09)
 </li>
-<li data-cover="https://img.discogs.com/zSnXCDdsPS38skxZGubdF0HJ4J0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280264-1360514452-9192.jpeg.jpg" data-tags="reggae, dub" role="button">
-Scientist - Scientific Dub (1981)
+<li data-cover="http://coverartarchive.org/release/bd75a130-7ee1-4b68-940b-592b5f21c605/11523292523-500.jpg" data-tags="punk, dub" role="button">
+The Clash - Sandinista! (1980-12-12)
 </li>
-<li data-cover="https://img.discogs.com/a76ZUflMP81iS_lERkKYRpJ5CNI=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-569515-1174412401.jpeg.jpg" data-tags="dub" role="button">
-Prince Jammy - Destroys The Invaders (1982)
+<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
+Scientist - Scientist Rids the World of the Evil Curse of the Vampires (1981)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub, roots reggae" role="button">
-Black Uhuru - The Dub Factor (1983-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/701ce273-d0e6-4e6c-8b77-fa9b441ac8f8/23255877013-500.jpg" data-tags="reggae, dub, roots reggae, own on cassette" role="button">
-Augustus Pablo - Original Rockers (1987)
-</li>
-<li data-cover="http://coverartarchive.org/release/81af43bf-9a91-492e-8f0e-f7c39cff2eae/6766903757-500.jpg" data-tags="dub" role="button">
-African Head Charge - Songs of Praise (1990-01-01)
+<li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
+Gregory Isaacs - Night Nurse (1982)
 </li>
 <li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
+<li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">
+Sublime - 40 Oz. to Freedom (1992)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
 Dub Syndicate - Stoned Immaculate (1992-02-07)
 </li>
-<li data-cover="https://img.discogs.com/jtAgTh9Ntw_eLRs689BfRJnJ-bM=/fit-in/588x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-129927-1417601324-2964.jpeg.jpg" data-tags="dub" role="button">
-Zion Train - Homegrown Fantasy (1995)
+<li data-cover="https://img.discogs.com/Mk3Ff6v2TwuIv_NWEJNcvksKaE8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15619-1194241559.jpeg.jpg" data-tags="downtempo, ambient" role="button">
+Seefeel - Quique (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/8ad64552-1b61-4a7d-97cf-c8ec1cf46530/5216864402-500.jpg" data-tags="reggae, punk, dub" role="button">
+Sublime - Robbin' The Hood (1994-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
+Leftfield - Leftism (1995-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f10f30-50ae-402e-a50f-af7c3c6b6e57/4596446793-500.jpg" data-tags="dub" role="button">
 Massive Attack - No Protection (1995-02-17)
@@ -66,44 +60,59 @@ Massive Attack - No Protection (1995-02-17)
 <li data-cover="http://coverartarchive.org/release/536470f1-1f45-4033-aca8-a4c0bda277cc/4480718201-500.jpg" data-tags="dub" role="button">
 Massive Attack vs. Mad Professor - No Protection (1995-02-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/053f516b-bfd5-42a3-a19b-b77cde16ca00/8318365523-500.jpg" data-tags="dub" role="button">
-Mad Professor & Lee Perry - Dub take the Voodoo out of Reggae (1996)
-</li>
 <li data-cover="https://img.discogs.com/ZxOyV_5ITeXdUQrDn0IWjAIKljA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-54444-1494833577-4517.jpeg.jpg" data-tags="dub" role="button">
 Rockers Hi-Fi - Mish Mash (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/62cb3656-fafc-47ea-a86c-5bceb579cdd0/2505288273-500.jpg" data-tags="trip-hop, dub, drum and bass" role="button">
-Anima Sound System - Anima (1997)
-</li>
-<li data-cover="https://img.discogs.com/HdfQ_VElB2LbSZPu9Gj_RNJ11jY=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-206110-1105384659.jpg.jpg" data-tags="ambient, dub, house, 90s, electro dub, ambient dub, world music" role="button">
-Dreadzone - Biological Radio (1997-07-28)
+<li data-cover="https://via.placeholder.com/450" data-tags="downtempo" role="button">
+Thievery Corporation - Sounds From the Thievery Hi-Fi (1997-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb8647ff-066b-4e9e-b9b0-791f39bcfa13/4530526778-500.jpg" data-tags="dub, chill" role="button">
 Tosca - Fuck Dub (1997-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/683c5a6a-8917-42b0-8000-fa3f430c321e/4455009849-500.jpg" data-tags="dub" role="button">
-Primal Scream - Echo Dek (1997-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/c6d963bd-a3f3-445f-a3c6-6f9abdad6e5d/6328191275-500.jpg" data-tags="dub" role="button">
-Zenzile - Dub Promozione (1998)
+<li data-cover="http://coverartarchive.org/release/70eabfa6-e06a-4dbb-8e51-c84fc6e77dae/15081827680-500.jpg" data-tags="electronic" role="button">
+Asian Dub Foundation - Rafi's Revenge (1998-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/90ed1872-bc4c-4717-8705-dafae22ee15d/8666209623-500.jpg" data-tags="dub" role="button">
 Dub Pistols - Point Blank (1998-10-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="downtempo" role="button">
+Thievery Corporation - It Takes a Thief (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/6cfa81a9-b642-414e-a846-495d111db4f1/9733980416-500.jpg" data-tags="big dada, hip-hop" role="button">
+Roots Manuva - Brand New Second Hand (1999-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb7e58c5-3a35-3c1e-85ae-72d2f89974d2/5253266309-500.jpg" data-tags="electronic, downtempo, electronica, dub" role="button">
+Sofa Surfers - Cargo (1999-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd/9767397785-500.jpg" data-tags="chillout, electronic, downtempo, ambient" role="button">
+Peace Orchestra - Peace Orchestra (1999-09-01)
+</li>
+<li data-cover="https://img.discogs.com/CJhJ45koC9gGnmGp9RYo4t_6yCQ=/fit-in/296x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339637-1303975891.jpeg.jpg" data-tags="electronic" role="button">
+Death in Vegas - The Contino Sessions (1999-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/47324ee9-729b-4114-87c0-39769b231456/17528939244-500.jpg" data-tags="dub" role="button">
 Pole - 3 (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/2de2916a-3597-45c1-a6b6-c5f49ae9dc5e/4817256557-500.jpg" data-tags="electronic, dub" role="button">
+Asian Dub Foundation - Community Music (2000-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d78a16f-edcb-4d38-a566-acc6a6e6cf97/1373820421-500.jpg" data-tags="dub" role="button">
 High Tone - Opus Incertum (2000-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/f995972d-f98c-460b-b1fb-d48b285bea94/9185489091-500.jpg" data-tags="dub" role="button">
-Dub Trees - Nature Never Did Betray the Heart that Loved Her (2000-11-13)
+<li data-cover="https://via.placeholder.com/450" data-tags="chillout, trip-hop, downtempo" role="button">
+Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
-<li data-cover="https://img.discogs.com/di17FQTAy0z6QQGdqogHWm_U1X8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24390-1166498499.jpeg.jpg" data-tags="dub" role="button">
+<li data-cover="https://img.discogs.com/2JaGRr6_dykZYDIeg1crnZdO1Wo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-130154-1172557750.jpeg.jpg" data-tags="electronic, downtempo, dub" role="button">
+Tosca - Suzuki In Dub (2000-10-23)
+</li>
+<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="dub" role="button">
 Dub Pistols - Six Million Ways to Live (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">
+Boozoo Bajou - Satta (2001-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
@@ -117,74 +126,71 @@ High Tone - Bass Temperature (2001-10-15)
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
 </li>
-<li data-cover="https://img.discogs.com/fBvJcOP8K7ynx4x8jkue-IVEgLw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270590-1546872784-9751.jpeg.jpg" data-tags="reggae, dub, ska" role="button">
-The Upsetters - Return of Django: The Best of The Upsetters (2002)
-</li>
-<li data-cover="https://img.discogs.com/HrDvAbI0CIj-3pvm7gAW28rZTZw=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-470351-1362581167-5662.jpeg.jpg" data-tags="dub" role="button">
-Zenzile - Totem (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/82442a54-eaf8-497d-9910-67540dacb001/4524332801-500.jpg" data-tags="dub" role="button">
 Roots Manuva - Dub Come Save Me (2002-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/2cba6d73-eb6c-49b7-ab13-1a51428c3811/9454683491-500.jpg" data-tags="dub" role="button">
-Salmonella Dub - One Drop East (2003)
+<li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
+Thievery Corporation - The Richest Man in Babylon (2002-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/401f1131-8509-4c25-bbfe-a7cff4b0705e/10313386444-500.jpg" data-tags="psydub, dub" role="button">
+Hallucinogen - In Dub (2002-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/78e9cf95-993f-4539-83d2-9372465cc03b/5582287019-500.jpg" data-tags="dub, trip-hop" role="button">
 EZ3kiel - Barb4ry (2003-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/1c51d061-6a91-438f-925d-35e499d23a49/17933370289-500.jpg" data-tags="electronic, dub" role="button">
+Asian Dub Foundation - Enemy Of The Enemy (2003-02-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
 Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
-</li>
-<li data-cover="https://img.discogs.com/GT1s4ON2jeD8sV3RT6RdQtxf__w=/fit-in/281x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2534311-1289237282.jpeg.jpg" data-tags="dub" role="button">
-The Bug - Pressure (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/99e39642-cae5-4061-9800-751108bc650b/6477557415-500.jpg" data-tags="dub, ambient" role="button">
 Ott - Blumenkraft (2003-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/f58039ea-c54b-47e3-8b59-a435bade90a9/4524160929-500.jpg" data-tags="dub" role="button">
-Rhythm & Sound - The Versions (2003-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/720cfd47-fc81-4286-9b47-f1cec5accd46/4679224653-500.jpg" data-tags="dub" role="button">
 Rhythm & Sound - w/ the Artists (2003-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/4c2fc2d3-de10-4e10-9150-15f99cc215df/15210143825-500.jpg" data-tags="dub, electronic" role="button">
-Deadbeat - Something Borrowed, Something Blue (2004-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a7ff0db-50da-4ecd-9c05-f1cf1012633d/17271266987-500.jpg" data-tags="dub" role="button">
-Iration Steppas - Dubz From De Higher Regionz (2004-03-22)
+<li data-cover="http://coverartarchive.org/release/394546f4-2c4f-4f67-a8ad-137b6ca3edec/13313814649-500.jpg" data-tags="heavy metal, chill, rock, punk, reggae, dub, ska, boogie on down, love songs that rock" role="button">
+The Expendables - Gettin' Filthy (2004)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
 Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4ba40f9-a0f5-4684-b0d1-c5be37a6ed0f/8355576251-500.jpg" data-tags="ambient, dub" role="button">
-Sounds from the Ground - Luminal (2004-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7e29218-e94e-47ec-8a23-b80688cc06f7/11812641396-500.jpg" data-tags="dub" role="button">
-Kukan dUb Lagan - Life Is Nice (2004-11-02)
+<li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
+Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/394616df-4fa3-4799-a354-933063050392/4289639683-500.jpg" data-tags="dub, reggae" role="button">
 Groundation - Dub Wars (2005-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3a01172-1e30-4850-9ffa-8b0eddac0b82/1331359766-500.jpg" data-tags="hip-hop, trip-hop, dub, electronic" role="button">
-Le Peuple de l'Herbe - Cube (2005-01-10)
+<li data-cover="http://coverartarchive.org/release/d96527fa-899f-42c1-b751-ec1314b81f1b/10125609916-500.jpg" data-tags="trip-hop, indie" role="button">
+Death in Vegas - Milk It (2005-02-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c56ca37-f14c-4e38-9448-38e0a12e745b/21314526758-500.jpg" data-tags="dub" role="button">
-Rhythm & Sound - See Mi Yah (2005-01-17)
+<li data-cover="http://coverartarchive.org/release/761a55cd-0505-4874-9fdc-bb711e8643c8/6755037078-500.jpg" data-tags="electronic, dub, drum and bass" role="button">
+Asian Dub Foundation - Tank (2005-02-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
-Kanka - Don't Stop Dub (2005-04-11)
+<li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
+Thievery Corporation - The Cosmic Game (2005-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/addb5e0a-8889-49fd-a615-b734425f6e27/15210128710-500.jpg" data-tags="electronic, ambient, dub, minimal" role="button">
+Deadbeat - New World Observer (2005-03-29)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Slightly Stoopid - Closer To The Sun (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">
 Fat Freddy's Drop - Based on a True Story (2005-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a082cc32-7c12-4f17-9d5d-4c73a4e82abe/1895628765-500.jpg" data-tags="dub, electro, drum and bass" role="button">
-La Phaze - Fin de Cycle (2005-06-06)
+<li data-cover="http://coverartarchive.org/release/f5e76ae6-1a5a-3eb9-8e0a-3e7588e16496/4812030096-500.jpg" data-tags="dub, ska, indie rock" role="button">
+The Dead 60s - The Dead 60s (2005-05-31)
 </li>
-<li data-cover="https://img.discogs.com/7hBvtSGXXfpx63GGx4RykOdukKI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-819892-1428613859-2436.jpeg.jpg" data-tags="dub, fusion" role="button">
-Bombay Dub Orchestra - Bombay Dub Orchestra (2006-02-28)
+<li data-cover="http://coverartarchive.org/release/1bdc7ea1-8d62-4861-8a10-daa08f6d6af9/4136848887-500.jpg" data-tags="reggae, ragga, jamal, dancehall" role="button">
+Jamal - Rewolucje (2005-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/6a4d4f24-ea93-4e3d-a2da-135fc4a6675b/4275886560-500.jpg" data-tags="ambient, downtempo, dub" role="button">
-Desert Dwellers - DownTemple Dub: Waves (2006-03-21)
+<li data-cover="http://coverartarchive.org/release/4a6d6b9b-02f8-413c-a672-9bbe535b36d8/14936523706-500.jpg" data-tags="rnb, hip-hop" role="button">
+Mattafix - Signs of a Struggle (2005-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
+Nujabes - Modal Soul (2005-11-11)
 </li>
 <li data-cover="https://img.discogs.com/lguPJnH5Khsos0mzOgWcCCf7UKU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7648501-1445894176-6010.jpeg.jpg" data-tags="chill, reggae, dub, drinking, summer music, good to smoke to" role="button">
 Rebelution - Rebelution (2006-05-04)
@@ -192,35 +198,23 @@ Rebelution - Rebelution (2006-05-04)
 <li data-cover="http://coverartarchive.org/release/cb5e68da-bf42-32e6-ae35-29d99f931960/10083770849-500.jpg" data-tags="dubstep" role="button">
 Burial - Burial (2006-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/86fdaaa0-09db-480c-ad77-7b2a58aed2be/14746157740-500.jpg" data-tags="rock, experimental, dub" role="button">
-Dub Trio - New Heavy (2006-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e98539ca-4108-4d70-878c-0b3d069547a5/5501512773-500.jpg" data-tags="hip-hop, dub, beatbox" role="button">
-Dub Fx - Live in the Street (2007)
+<li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
+Easy Star All-Stars - Radiodread (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/886cec60-6270-4309-9ca6-d30919ae8622/18235266008-500.jpg" data-tags="dub" role="button">
 Dub Pistols - Speakers and Tweeters (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/3361f7a7-1319-4b1f-8168-c1a358e7c65c/4511988555-500.jpg" data-tags="hip-hop, electronica, dub, left-field hip-hop, downbeat, hibbedi hop" role="button">
-DJ Vadim - The SoundCatcher (2007-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/77d602b4-2469-46d1-b570-59ac12c58a4a/23358454401-500.jpg" data-tags="dub" role="button">
-Disrupt - Foundation Bit (2007-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8f83c74-bac2-4efb-ab55-4cf3e7a69051/1330658682-500.jpg" data-tags="dub" role="button">
-Zenzile - Living in Monochrome (2007-09-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/0502de68-1bd3-3e76-a375-5e8ba2cee596/17965853791-500.jpg" data-tags="electronic, alternative" role="button">
 Gorillaz - D-Sides (2007-11-05)
 </li>
-<li data-cover="https://img.discogs.com/aw35X62k25wmJ-2NmmK3F_gNIQg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464663-1224554071.png.jpg" data-tags="hip hop, alternative, dub, funk, breakbeat, groovy, big beat, uutta jazzia, acid lounge, lounge groove, shambles 2008, city lounge, my-love, acoustic groove, alternative lounge, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, ouahhhhh, tropcool, chillounge1, jazzy vibes, epic lounge, sexy sounding, uuta jazzia, uutta jazziz" role="button">
-Fort Knox Five - Radio Free DC (2008)
+<li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
+The Cat Empire - So Many Nights (2007-12-08)
+</li>
+<li data-cover="https://img.discogs.com/JuFemSOUd6S9llhZTiYCX3WJznA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1990973-1376919315-7630.jpeg.jpg" data-tags="electronic" role="button">
+Lulu Rouge - Bless You (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7bfc318-2b99-40f0-9052-58fc57c2417e/10298830949-500.jpg" data-tags="dub" role="button">
 Ott - Skylon (2008-01-25)
-</li>
-<li data-cover="https://img.discogs.com/O1QLUqNZne9BwUwaE25mYOcq_KQ=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357175-1415475211-6253.jpeg.jpg" data-tags="rock, experimental, dub" role="button">
-Dub Trio - Another Sound Is Dying (2008-01-29)
 </li>
 <li data-cover="https://img.discogs.com/9oW_iQe5oaMlfy2ISVBDq3Osn00=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1223162-1302674885.jpeg.jpg" data-tags="dub, dubstep" role="button">
 Ikonika - Please / Simulacrum (2008-02-04)
@@ -228,14 +222,11 @@ Ikonika - Please / Simulacrum (2008-02-04)
 <li data-cover="http://coverartarchive.org/release/7f2a38ed-c90a-4f68-acfc-aad5804cf0f9/6755003734-500.jpg" data-tags="electronic, electronica, trip-hop, dub" role="button">
 Asian Dub Foundation - Punkara (2008-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/8529351f-f6fa-4a45-9d9e-6080a30e6245/18633574220-500.jpg" data-tags="dub" role="button">
-Quantic Presenta Flowering Inferno - Death Of The Revolution (2008-07-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/f68d456e-118a-4d6a-9df3-a48a327bfbd8/15764470897-500.jpg" data-tags="experimental, dub, psychedelic, psychedelia, 00s, tropical, neo-psychedelia, stoned, flawless, hazy, tropical drone, tropical break" role="button">
 Sun Araw - Beach Head (2008-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/757baea8-3139-4b1a-b289-2349c1f935eb/6993841874-500.jpg" data-tags="dub, techno" role="button">
-Deadbeat - Roots and Wire (2008-10-13)
+<li data-cover="http://coverartarchive.org/release/cd6d719b-10ca-4092-bde1-0ba2b3428b45/23912438078-500.jpg" data-tags="electronic, soul, alternative, new wave, 00s" role="button">
+Grace Jones - Hurricane (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/48b2c662-c92d-4a98-98d3-bdd4527bfdc4/5372404333-500.jpg" data-tags="dub" role="button">
 Forfun - Polisenso (2008-11-15)
@@ -243,59 +234,74 @@ Forfun - Polisenso (2008-11-15)
 <li data-cover="https://img.discogs.com/1yUYXbMd-1P7YRiS710HOsetOTw=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2159048-1267195191.jpeg.jpg" data-tags="nu jazz, chillout, electropop, indie, jazz, pop, chill, rock, instrumental, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, downtempo, dub, singer-songwriter, acoustic, fusion, world, post-punk, soft rock, funk, jazz-funk, blues, house, indietronica, lounge, drum and bass, dream pop, american, funky, mellow, nu-jazz, smooth, folktronica, rnb, groovy, female vocalist, rhythm and blues, greys anatomy, neo soul, neo-soul, jazzy hip hop, nu-bluz, nu-bluz funky grooves in the e-lounge, electronic-folk, bay area best, groovelife advocate" role="button">
 Anya Marina - Slow & Steady Seduction: Phase II (2008-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/1fa3e5de-3aee-445f-94de-20d51796816f/21676034251-500.jpg" data-tags="reggae, dub, electro, world, norteño, aj playlist" role="button">
-Bomba Estéreo - Blow Up (2009)
+<li data-cover="https://img.discogs.com/2wHgErh9rpwN8kMCZ9BGO-IVRpg=/fit-in/262x289/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2385059-1280930932.jpeg.jpg" data-tags="downtempo" role="button">
+Thievery Corporation - Radio Retaliation (2008-12-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/080bb1a1-589f-462f-ad1b-423cbbb7a65d/6858130099-500.jpg" data-tags="dub, ambient" role="button">
-Demdike Stare - Symbiosis (2009)
+<li data-cover="http://coverartarchive.org/release/744ae359-3156-4b4a-b0ac-38c3e160b64c/1242688139-500.jpg" data-tags="beatbox, reggae, dub, dubstep" role="button">
+Dub Fx - Everythinks a Ripple (2009)
 </li>
-<li data-cover="https://img.discogs.com/QdBFjm1v0ln48I83zJ0mbt5YRPM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-151256-1235750294.jpeg.jpg" data-tags="pop, synthpop" role="button">
-Pet Shop Boys - Yes (2009-03-18)
+<li data-cover="http://coverartarchive.org/release/34f60ad7-1d10-4573-8e56-1674ea78310c/24557608344-500.jpg" data-tags="mpb" role="button">
+Céu - Vagarosa (2009-07-07)
 </li>
-<li data-cover="https://img.discogs.com/sRQKgMS34jKehFXW3Hr8CvNCW24=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2295692-1275102446.jpeg.jpg" data-tags="hip hop, dub" role="button">
-Laurent Garnier - Tales of a Kleptomaniac (2009-05-08)
+<li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
+SOJA - Born In Babylon (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/cd523cb4-7750-4e03-8a04-86e94c20bf17/6609097470-500.jpg" data-tags="dub, dubstep" role="button">
-Liquid Stranger - The Intergalactic Slapstick (2009-10-16)
+<li data-cover="http://coverartarchive.org/release/093fa384-c4aa-4437-a736-4b45bb32e432/1220302176-500.jpg" data-tags="dubstep" role="button">
+Bassnectar - Cozza Frenzy (2009-09-29)
 </li>
-<li data-cover="https://img.discogs.com/w9cd3UpEjo7qVNa25W6pqdgEWns=/fit-in/315x317/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2171816-1268222661.jpeg.jpg" data-tags="experimental" role="button">
-Gonjasufi - A Sufi and a Killer (2010-03-08)
+<li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
+Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/47cd1818-ff1b-3960-9e50-52d2a20749b2/15764509550-500.jpg" data-tags="psychedelic" role="button">
+Sun Araw - On Patrol (2010-03)
+</li>
+<li data-cover="https://img.discogs.com/EyE6WzAJ3yPxoqVHnWLdmmBbeyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420330-1530364845-6925.jpeg.jpg" data-tags="lena" role="button">
+Lena - Satellite (2010-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/c0254828-029b-4006-8a14-8464b09cbc40/14987408388-500.jpg" data-tags="dubstep" role="button">
+Rusko - O.M.G.! (2010-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/852a8638-6fc2-4be6-be9b-b7509d23ba2a/12148653044-500.jpg" data-tags="dub, dubstep, dance" role="button">
 Flux Pavilion - Got 2 Know / Normalize (2010-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/f572f22d-2336-43dd-bee7-b91d4bdd9ca7/1783742366-500.jpg" data-tags="downtempo, dub, cumbia, boogaloo, you are welcome in poland, descarga" role="button">
-Quantic Presenta Flowering Inferno - Dog With A Rope (2010-07-19)
+<li data-cover="http://coverartarchive.org/release/58735be6-4372-4191-8fe0-f49cb2442456/3596366369-500.jpg" data-tags="electronic" role="button">
+Pretty Lights - Glowing In The Darkest Night (2010-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/815463db-aece-4093-a38e-018183ac16b8/6754942400-500.jpg" data-tags="electronic, dub, asian dub foundation, a history of now" role="button">
-Asian Dub Foundation - A History of Now (2011-02-06)
+<li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
+Anika - Anika (2010-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1329a36-0ad1-4bb9-8024-b579c15c4d17/1266208666-500.jpg" data-tags="dub" role="button">
+Peaking Lights - 936 (2011-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/df9256e8-1956-4ce5-b93c-1be551d4075a/2349275927-500.jpg" data-tags="ambient, dub" role="button">
 Ott - Mir (2011-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/165ac34b-6b79-48cb-9d14-cb92775cdef9/1348809060-500.jpg" data-tags="dubstep" role="button">
-Burial - Street Halo (2011-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/8164140b-6d5f-3a69-a19a-6785446191e9/852058673-500.jpg" data-tags="soul" role="button">
-Jamie Woon - Mirrorwriting (2011-04-14)
+<li data-cover="http://coverartarchive.org/release/56dd32d4-ad92-4bb5-9167-676457ef1f05/5573848218-500.jpg" data-tags="rap" role="button">
+Criolo - Nó Na Orelha (2011-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/09afe29a-8c97-48fd-8751-1fb708c61ef3/5770579552-500.jpg" data-tags="rock, reggae, dub, brasil, rock alternativo" role="button">
 Forfun - Alegria Compartilhada (2011-04-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f4b1f1e-0413-4282-aad1-b9eeddf66545/6609129976-500.jpg" data-tags="dub, dubstep" role="button">
-Liquid Stranger - The Arcane Terrain (2011-05-22)
+<li data-cover="http://coverartarchive.org/release/892a058c-21ea-426c-b8d3-427f8f6728ec/6676037981-500.jpg" data-tags="dub, techno, ambient techno" role="button">
+Andy Stott - Passed Me By (2011-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1a2192a-6708-495e-8a19-c4ba13a4fd89/20369918463-500.jpg" data-tags="reggae, dub" role="button">
-Hollie Cook - Hollie Cook (2011-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
-Thievery Corporation - Culture of Fear (2011-06-26)
+<li data-cover="https://img.discogs.com/9-ToslPLKgCDbzLLN4fn9MnPOjk=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2946107-1506683308-1338.jpeg.jpg" data-tags="folk, acoustic, alternative" role="button">
+Fink - Perfect Darkness (2011-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/86d5b293-5c4c-4b4d-a87b-76c1c3c822bc/7292354826-500.jpg" data-tags="dub, minimal techno" role="button">
 Andy Stott - We Stay Together (2011-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">
 King Krule - King Krule (2011-11-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">
+Santigold - Master of My Make-Believe (2012-04-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfdfb309-1a97-4436-8029-4bce887447f7/1492502467-500.jpg" data-tags="experimental, abstract hip hop" role="button">
+Aesop Rock - Skelethon (2012-07-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a20caa4-0c92-4a93-ae11-953c30b78267/18765648315-500.jpg" data-tags="electronic, techno, dub techno" role="button">
+Andy Stott - Luxury Problems (2012-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9908e1ef-2ec0-40c7-baeb-68c1754441db/22886156272-500.jpg" data-tags="dub, house, electro house" role="button">
 OVERWERK - After Hours (2012-11-28)
@@ -306,17 +312,11 @@ James Blake - Overgrown (2013-04-05)
 <li data-cover="http://coverartarchive.org/release/d75eeba0-03d7-4d04-8913-6473464f3fa3/5242134093-500.jpg" data-tags="hip-hop, rap, dub, brazil, eletronic" role="button">
 Karol Conka - Batuk Freak (2013-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/3746e7a0-b546-4a67-8e72-6ab9761069e4/28676581407-500.jpg" data-tags="trip-hop" role="button">
-Emika - Dva (2013-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/62626e7f-a10e-409c-a4fc-36deaf4f5a13/5750409674-500.jpg" data-tags="dub" role="button">
 Fat Freddy's Drop - Blackbird (2013-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8c1fb1f-a2d2-439f-9977-5b4b32e34dc5/7184188146-500.jpg" data-tags="reggae, dub, purchase, 2014 albums" role="button">
-Hollie Cook - Twice (2014-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/1918d939-c0c0-4f15-a394-cc87c8b1f104/9947565067-500.jpg" data-tags="reggae, dub, 10s, soja" role="button">
-SOJA - Amid The Noise And Haste (2014-08-12)
+<li data-cover="http://coverartarchive.org/release/8a5b0abf-f6a4-442c-8deb-478091d4523e/8853472262-500.jpg" data-tags="art pop" role="button">
+Dean Blunt - Black Metal (2014-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
 Andy Stott - Faith In Strangers (2014-11-17)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:30:01.446Z
+date: 2021-04-06T19:25:01.469Z
 title: "slowcore: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -10,7 +10,7 @@ title: "slowcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg" data-tags="slowcore" role="button">Low - I Could Live in Hope (1994-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/4d8225c8-ee55-4fff-8d4b-bb9f81348593/21727440618-500.jpg" data-tags="slowcore" role="button">Red House Painters - Songs For A Blue Guitar (1996-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/79acc86e-b12b-4a4a-ad7d-7c9f928438a3/20197835084-500.jpg" data-tags="slowcore" role="button">Duster - Stratosphere (1998-02-24)</li>
-<li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">Low - Things We Lost In the Fire (2001-01-21)</li>
+<li data-cover="https://img.discogs.com/cHUskTMOXpjFZxo6YoARZwH1iwY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2118329-1293876009.jpeg.jpg" data-tags="slowcore" role="button">Low - Things We Lost In the Fire (2001-01-21)</li>
 <li data-cover="http://coverartarchive.org/release/948a8a4c-23f3-4bf2-b201-dcb68a89b897/22908767075-500.jpg" data-tags="slowcore" role="button">Carissa's Wierd - Songs about Leaving (2002-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg" data-tags="dark folk, slowcore" role="button">Giles Corey - Giles Corey (2011-04-30)</li>
@@ -150,26 +150,20 @@ Duster - Contemporary Movement (2000-08-22)
 <li data-cover="http://coverartarchive.org/release/ed2a8c94-5c76-43aa-ad15-7bddb39a671b/2867665745-500.jpg" data-tags="indie pop" role="button">
 Carissa's Wierd - You Should Be at Home Here (2001)
 </li>
-<li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
+<li data-cover="https://img.discogs.com/cHUskTMOXpjFZxo6YoARZwH1iwY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2118329-1293876009.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
 </li>
 <li data-cover="https://img.discogs.com/LZ8-73VlT8wpXEuQA524BWL4e6Q=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545860-1227433151.jpeg.jpg" data-tags="slowcore, sadcore, somber" role="button">
 Arab Strap - The Red Thread (2001-02-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, alt-country" role="button">
+<li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1fddb1f-4387-445b-b5de-e92095d88dc8/26223664831-500.jpg" data-tags="slowcore, 4ad, indie rock, slow alternative" role="button">
 Red House Painters - Old Ramon (2001-04-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
-Elbow - Asleep in the Back (2001-05-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/49afde89-898e-42ad-a5bd-34c488b7b5d9/7786651414-500.jpg" data-tags="indie" role="button">
 The American Analog Set - Know by Heart (2001-09-04)
-</li>
-<li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
-Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdc4b9f6-9dba-4635-adea-fd87d274fc02/20929020497-500.jpg" data-tags="indie, indie pop, slowcore" role="button">
 Grandaddy - Concrete Dunes (2002-02-19)
@@ -183,6 +177,9 @@ Carissa's Wierd - Songs about Leaving (2002-08-06)
 <li data-cover="http://coverartarchive.org/release/0cd8b400-95e2-4be5-af82-dcf40540cdfa/2960113401-500.jpg" data-tags="slowcore" role="button">
 Low - Trust (2002-09-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d2b8c075-56dd-4630-84c5-3211e09fcbbe/20411989914-500.jpg" data-tags="indie, folk, sadcore, slowcore, sad and beautiful, moody nighttime, ctfo, island albums, ctfo:group" role="button">
+Shearwater - Everybody Makes Mistakes (2002-10-01)
+</li>
 <li data-cover="https://img.discogs.com/i9584y28ConNp5D5Dh_AIYB996g=/fit-in/474x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030535-1207227733.jpeg.jpg" data-tags="slowcore, post-rock, ambient pop" role="button">
 The White Birch - Star Is Just A Sun (2002-11-04)
 </li>
@@ -192,7 +189,7 @@ Lilium - Short Stories (2003)
 <li data-cover="http://coverartarchive.org/release/7eb024c5-b79f-30da-9ec3-545a85730a72/26179529246-500.jpg" data-tags="indie, slowcore" role="button">
 The American Analog Set - Promise of Love (2003-06-23)
 </li>
-<li data-cover="https://img.discogs.com/euerc5eBdFXgKtFsdqimgdJktmU=/fit-in/300x281/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223015-1389537890-6461.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/mGkUaVwkEPSyW92Ls_yp1mWo2IQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764161-1379971553-7990.jpeg.jpg" data-tags="indie" role="button">
 Saves the Day - In Reverie (2003-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
@@ -207,7 +204,7 @@ Mirah - C'mon Miracle (2004-05-04)
 <li data-cover="https://img.discogs.com/Bmmzl0DXSlEHMkdIZxbyb1OFzBU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-630807-1152809288.jpeg.jpg" data-tags="acoustic, slowcore, timeless" role="button">
 Carissa's Wierd - I Before E (2004-11-09)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/18bba5fe-2c2c-3d48-bf5b-8b19b2aaabf1/4806600464-500.jpg" data-tags="folk" role="button">
@@ -228,7 +225,7 @@ George Dorn Screams - Snow Lovers Are Dancing (2006)
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="post-rock" role="button">
 Gregor Samsa - 55:12 (2006-03-07)
 </li>
-<li data-cover="https://img.discogs.com/UnI35wZMtY8dO7pGaqhbx2LwQbc=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1927246-1292367656.jpeg.jpg" data-tags="folk-rock, americana, slowcore, alt country" role="button">
+<li data-cover="https://img.discogs.com/JJCGU26dgcI_lACTCKqze9n3Aw8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453357-1494394846-1731.jpeg.jpg" data-tags="folk-rock, americana, slowcore, alt country" role="button">
 Willard Grant Conspiracy - Let It Roll (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
@@ -240,7 +237,7 @@ Kaki King - ...Until We Felt Red (2006-08-08)
 <li data-cover="http://coverartarchive.org/release/a3be0b9b-874e-44ff-8054-d4dc6ec189d0/10720411555-500.jpg" data-tags="singer-songwriter, indie, country, alternative, folk, indie pop, indie rock, sad, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 Jason Molina - Let Me Go, Let Me Go, Let Me Go (2006-08-22)
 </li>
-<li data-cover="https://img.discogs.com/tCoMwW5jRW7yYNukR-EeMsRBcSo=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8261618-1458171027-3477.jpeg.jpg" data-tags="indie, rock, alternative, 00s" role="button">
+<li data-cover="https://img.discogs.com/8VXMq7gacLENuqcDSENoWrm1UfU=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6100287-1413657498-1477.jpeg.jpg" data-tags="indie, rock, alternative, 00s" role="button">
 Sparklehorse - Dreamt For Light Years In The Belly Of A Mountain (2006-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6477df3d-e390-4bec-849c-1a45cd73039b/25010408029-500.jpg" data-tags="alternative, folk, indie, country, indie pop, indie rock, sad, singer-songwriter, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
@@ -251,6 +248,9 @@ Low - Drums and Guns (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/881ededb-4f7b-342d-91c9-940073a0360b/12248888345-500.jpg" data-tags="indie, indie rock, indie folk, the antlers" role="button">
 The Antlers - In The Attic of The Universe (2007-03-31)
+</li>
+<li data-cover="https://img.discogs.com/libNtdcj6hLceig8ZQ-xWWBeakc=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545857-1367957996-8114.png.jpg" data-tags="slowcore, the antlers" role="button">
+The Antlers - Cold War (2007-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 J. Tillman - Cancer And Delirium (2008)

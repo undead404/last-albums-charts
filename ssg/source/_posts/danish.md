@@ -1,15 +1,15 @@
 ---
-date: 2021-04-06T03:03:01.346Z
+date: 2021-04-06T19:42:01.370Z
 title: "danish: 100 albums you must listen to before you die"
 ---
 ![Mew - Frengers (2003-04-07)](https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg "Mew - Frengers (2003-04-07)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4e4523bd-c035-4f79-a031-9055e06970fb/26379919825-500.jpg" data-tags="indie, pop, rock, danish, somehow very nostalgic" role="button">Mew - Half the World Is Watching Me (2000-05-04)</li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">Mew - Frengers (2003-04-07)</li>
+<li data-cover="https://img.discogs.com/J1nQVSd6Kw41GvClK2lIQYyt2fM=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725811-1239432666.jpeg.jpg" data-tags="rock" role="button">The Raveonettes - Pretty in Black (2005-05-03)</li>
 <li data-cover="https://img.discogs.com/U6PIy5GUjVerWh65ewZtq1k8eyU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10744118-1503509646-4309.jpeg.jpg" data-tags="electronic, pop, danish" role="button">Junior Senior - Hey Hey My My Yo Yo (2005-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">Mew - and the Glass Handed Kites (2005-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/fccab1be-d6b2-4eca-a4ff-513bd01f0d47/2819936375-500.jpg" data-tags="electronic, twilight" role="button">Blue Foundation - Life of a Ghost (2007-09-24)</li>
-<li data-cover="http://coverartarchive.org/release/fd57d406-6d9b-483d-be8d-75a377e757fe/2524009497-500.jpg" data-tags="electronic, electropop, pop, dance, happy, synthpop, fun, danish, europop, danish poprock" role="button">Alphabeat - The Spell (2009-10-26)</li>
 <li data-cover="https://img.discogs.com/95iylV2MI3QPfDlGj5MWdSac9No=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4552944-1467374348-1565.jpeg.jpg" data-tags="danish, 10s, soul pop, dk, danish poprock, danish group" role="button">Lukas Graham - Lukas Graham (2012-01-01)</li>
 <li data-cover="https://img.discogs.com/15GASDSAgsvDQNdxezpPwf14UWI=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3902116-1348631551-3475.jpeg.jpg" data-tags="folk, experimental, indie pop, post-rock, danish, 10s, efterklang" role="button">Efterklang - Piramida (2012-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">Rhye - Woman (2013-01)</li>
@@ -69,7 +69,7 @@ King Diamond - Voodoo (1998-02-23)
 <li data-cover="https://img.discogs.com/f04pi1tnGnC0Ogm0OlLvsweCT7k=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072369-1364024368-6654.jpeg.jpg" data-tags="rock" role="button">
 Kashmir - The Good Life (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/5b44657a-b0d1-4f99-97a3-3f53665e8da0/12596134090-500.jpg" data-tags="electronic, contemporary folk, folktronica, danish, nordic ethno grooves" role="button">
+<li data-cover="https://img.discogs.com/Ml-6I6WahV2APenMDE174XKwDWk=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-239945-1281218815.jpeg.jpg" data-tags="electronic, contemporary folk, folktronica, danish, nordic ethno grooves" role="button">
 Sorten Muld - III (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/785b406d-fc4c-4323-861d-fb973d652fa3/19545063480-500.jpg" data-tags="pop, dance" role="button">
@@ -111,6 +111,9 @@ Mew - Frengers (2003-04-07)
 <li data-cover="http://coverartarchive.org/release/77163e86-1f3c-456c-89c4-3ac165199264/11923727743-500.jpg" data-tags="indie, rock, hard rock, 00s, danish, sharp, dk, danish rock, cn, danish group" role="button">
 Carpark North - Carpark North (2003-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/01087dd6-0289-4616-bd8b-4be17cf76526/3374955413-500.jpg" data-tags="noise, noise pop, garage rock, 00s" role="button">
+The Raveonettes - Chain Gang of Love (2003-07-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/a1a8984b-1590-4d8c-837c-15b20fef7d09/5729678084-500.jpg" data-tags="rock, acoustic" role="button">
 Tim Christensen - Honeyburst (2003-09)
 </li>
@@ -140,9 +143,6 @@ Nephew - USADSB (2004-06-30)
 </li>
 <li data-cover="https://img.discogs.com/NTVviIXrJ8KVvXXcCANylQznQ3w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-398648-1267036060.jpeg.jpg" data-tags="melodic death metal" role="button">
 Mercenary - 11 Dreams (2004-08-23)
-</li>
-<li data-cover="https://img.discogs.com/c12TWiMs2tPrc2e3I5IJFettDX4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8570537-1474414152-5196.jpeg.jpg" data-tags="death metal" role="button">
-Illdisposed - 1-800 Vindication (2004-10-04)
 </li>
 <li data-cover="https://img.discogs.com/xh711CJOlWSPk9O-Jju1XAL98qs=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467110-1117802145.jpg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)

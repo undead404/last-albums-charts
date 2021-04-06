@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:29:01.403Z
+date: 2021-04-06T19:06:01.516Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -47,6 +47,9 @@ The Jimi Hendrix Experience - Are You Experienced (1967-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">
 The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
+</li>
+<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
+The Doors - The Doors (1967-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/64026228-12c3-4532-b220-4da206ce02bd/1920531008-500.jpg" data-tags="psychedelic rock" role="button">
 The Doors - Strange Days (1967-10)
@@ -174,6 +177,9 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">
 Queen - A Night at the Opera (1975-11-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
+Eagles - Hotel California (1976)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c1032af-2d86-424b-963e-dd9e65f7281b/1287531128-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Presence (1976-03-31)
 </li>
@@ -258,9 +264,6 @@ Journey - Greatest Hits (1988-11-15)
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
 Tom Petty - Full Moon Fever (1989-04-25)
 </li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
-The Doors - The Doors (1991-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/db34a2e2-e5d5-43f5-9d9a-140ac6d2a738/13666947317-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion I (1991-09-16)
 </li>
@@ -281,9 +284,6 @@ Eagles - Hell Freezes Over (1994-11-07)
 </li>
 <li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">
 Bob Dylan - Highway 61 Revisited (1995)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
-Eagles - Hotel California (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a/2959937821-500.jpg" data-tags="rock, classic rock" role="button">
 Bruce Springsteen - Greatest Hits (1995-02-10)

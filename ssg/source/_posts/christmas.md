@@ -1,10 +1,10 @@
 ---
-date: 2021-04-06T02:10:01.454Z
+date: 2021-04-06T19:40:06.944Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/6852857f-c2d6-426c-8910-912a9e956da2/3098412625-500.jpg" data-tags="christmas" role="button">Frank Sinatra - Christmas Songs By Sinatra (1948)</li>
+<li data-cover="https://img.discogs.com/gEBeFW57oa8O72k4DjGXkm3pafM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005930-1486291972-1552.jpeg.jpg" data-tags="christmas" role="button">Bing Crosby - White Christmas (1977-11)</li>
 <li data-cover="https://img.discogs.com/4k4NqDtP1V_DUXGk2oUtrCS4K14=/fit-in/358x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1073305-1255968213.jpeg.jpg" data-tags="christmas" role="button">Wham! - Last Christmas (1984-12-03)</li>
 <li data-cover="http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg" data-tags="christmas" role="button">Mariah Carey - Merry Christmas (1994-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/35009a6d-3c48-4180-a6dc-81d4734a97a6/2755304343-500.jpg" data-tags="christmas" role="button">Christina Aguilera - My Kind of Christmas (2000-10-24)</li>
@@ -60,6 +60,9 @@ Vince Guaraldi Trio - A Charlie Brown Christmas (1965)
 <li data-cover="http://coverartarchive.org/release/197300c5-078b-4c9b-a9e8-e1a84ace7f83/14781383971-500.jpg" data-tags="christmas" role="button">
 Vince Guaraldi - A Charlie Brown Christmas (1965)
 </li>
+<li data-cover="http://coverartarchive.org/release/93385ea0-1c33-4808-9b5b-aabb2a070683/13489783345-500.jpg" data-tags="christmas" role="button">
+Burl Ives - Have A Holly Jolly Christmas (1965)
+</li>
 <li data-cover="https://img.discogs.com/TDWGzEU49-WhTXnflPEkdHvNEho=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6563329-1591075238-9601.jpeg.jpg" data-tags="christmas, andy williams" role="button">
 Andy Williams - Merry Christmas (1965)
 </li>
@@ -81,11 +84,11 @@ José Feliciano - Feliz Navidad (1970-11)
 <li data-cover="https://img.discogs.com/8z-e2MwiciiuZZx75McxMAtuMyU=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268465-1323164977.jpeg.jpg" data-tags="rock, elton john" role="button">
 Elton John - Caribou (1974-06-24)
 </li>
+<li data-cover="https://img.discogs.com/gEBeFW57oa8O72k4DjGXkm3pafM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005930-1486291972-1552.jpeg.jpg" data-tags="christmas" role="button">
+Bing Crosby - White Christmas (1977-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/64b70335-8be0-4832-af41-99cd1517bb4c/4264678579-500.jpg" data-tags="christmas" role="button">
 Carpenters - Christmas Portrait (1978-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/be764a48-83f3-4de2-a68e-7692b47c0f77/25801878656-500.jpg" data-tags="christmas, xmas" role="button">
-Elmo & Patsy - Grandma Got Run Over By A Reindeer (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-500.jpg" data-tags="solo piano" role="button">
 George Winston - December (1982)
@@ -108,6 +111,9 @@ Frank Sinatra - The Sinatra Christmas Album (1987)
 <li data-cover="http://coverartarchive.org/release/34586eb6-5c79-4a70-a837-1b122525f690/18644421186-500.jpg" data-tags="christmas" role="button">
 Various Artists - A Very Special Christmas (1987-10-12)
 </li>
+<li data-cover="https://img.discogs.com/qU3-G6IoO7XFOP_QtLEq21_uBzk=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3729303-1484306507-4330.jpeg.jpg" data-tags="christmas" role="button">
+The Pogues - Fairytale Of New York (1987-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d53a1fc-598d-4ebf-b340-6d6db81c964c/27371205271-500.jpg" data-tags="christmas" role="button">
 Mannheim Steamroller - A Fresh Aire Christmas (1988)
 </li>
@@ -128,6 +134,9 @@ Luther Vandross - This Is Christmas (1995-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d09e9d94-6c49-4e1e-bb12-4cbe4201ba79/12071824817-500.jpg" data-tags="christmas" role="button">
 Carpenters - Christmas Collection (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/5619d408-c548-4a46-aefa-1d4dd233d821/5842303816-500.jpg" data-tags="christmas" role="button">
+Trans-Siberian Orchestra - Christmas Eve and Other Stories (1996-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a347c3d-a77e-4ae7-81df-331e96a16455/16665174665-500.jpg" data-tags="christmas" role="button">
 Hanson - Snowed In (1997-11-18)
@@ -192,6 +201,9 @@ Band Aid 20 - Do They Know It's Christmas? (2004-11-18)
 <li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="christmas" role="button">
 Kylie Minogue - Santa Baby (2005-03-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/5bad1920-311a-444b-972f-a955b498a268/15508077705-500.jpg" data-tags="christmas" role="button">
+Dean Martin - Christmas With Dino (2006-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/dd71e647-22fa-3975-803a-3df38034ca37/1339635847-500.jpg" data-tags="christmas" role="button">
 Celtic Woman - A Christmas Celebration (2006-10-03)
 </li>
@@ -231,20 +243,11 @@ The Maine - ...And A Happy New Year (2008-12-09)
 <li data-cover="http://coverartarchive.org/release/3ba5ab28-11fa-4e0b-b444-7ac23c20f148/3352621585-500.jpg" data-tags="christmas" role="button">
 Weezer - Christmas With Weezer (2008-12-16)
 </li>
-<li data-cover="https://img.discogs.com/8gVZvS6OciDIanms37HA5tB0wM4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2843937-1447702961-4660.jpeg.jpg" data-tags="christmas, my gang 09, absolute favourite, george michael lust" role="button">
-George Michael - December Song (I Dreamed Of Christmas) (2009)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
-</li>
 <li data-cover="https://img.discogs.com/TqHoppCselVVzOlRXazFz6FmckM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1809556-1244749887.jpeg.jpg" data-tags="christmas" role="button">
 Sting - If On A Winter's Night (2009-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a128c8-9d86-3fbd-8aca-9f66226b7687/5726973508-500.jpg" data-tags="christmas" role="button">
 Bob Dylan - Christmas In The Heart (2009-10-09)
-</li>
-<li data-cover="https://img.discogs.com/5Ccmm49mCuRG3C6ibe1AAyU9z2c=/fit-in/421x372/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3286140-1323996209.jpeg.jpg" data-tags="christmas" role="button">
-David Archuleta - Christmas From The Heart (2009-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/140fb0d5-2f68-4fe6-a12e-ff5feb790a80/2576250976-500.jpg" data-tags="christmas" role="button">
 Tori Amos - Midwinter Graces (2009-11-10)
@@ -278,9 +281,6 @@ Justin Bieber - Under the Mistletoe (2011-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4e4afd0-c779-4f6d-a184-01c84e5e80a8/21527480162-500.jpg" data-tags="pop, christmas" role="button">
 Natasha Bedingfield - Shake up Christmas 2011 (Official Coca-Cola Christmas Song) (2011-11-08)
-</li>
-<li data-cover="https://img.discogs.com/kKKfMdFzI0DuDQhBMb3-_9gEa2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4888160-1382439394-5269.jpeg.jpg" data-tags="christmas" role="button">
-Glee Cast - Glee: The Music, The Christmas Album Volume 2 (2011-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)

@@ -1,12 +1,11 @@
 ---
-date: 2021-04-06T03:19:06.963Z
+date: 2021-04-06T19:23:06.960Z
 title: "debut album: 100 albums you must listen to before you die"
 ---
 ![Allah-Las - Allah-Las (2012-09-18)](http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg "Allah-Las - Allah-Las (2012-09-18)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">Ray Charles - Ray Charles (1987)</li>
+<li data-cover="https://img.discogs.com/9I7JTrWnsRh-S4yqoQIaiWEGATQ=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8828583-1469717205-5431.jpeg.jpg" data-tags="rock, 60s, garage rock, debut album" role="button">The Kinks - Kinks (1964-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
-<li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">Razorlight - Up All Night (2004-06-28)</li>
 <li data-cover="https://img.discogs.com/jlp63LH5DqAjOlda_wvcAXwwwsA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806157-1485267725-5412.jpeg.jpg" data-tags="indie, rock, british" role="button">The Rifles - No Love Lost (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
@@ -14,6 +13,7 @@ title: "debut album: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7d48bbf8-6ce7-4fe8-be42-c5dc8ddfa5ae/6441498616-500.jpg" data-tags="schoolboy q" role="button">ScHoolboy Q - Habits & Contradictions (2012-01-14)</li>
 <li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">Breakbot - By Your Side (2012-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">Allah-Las - Allah-Las (2012-09-18)</li>
+<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">Ray Charles - Ray Charles (2014)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -84,9 +84,6 @@ Big Audio Dynamite - This Is Big Audio Dynamite (1985)
 <li data-cover="http://coverartarchive.org/release/58622554-579e-461b-86b7-2f91a6d8b958/26663082236-500.jpg" data-tags="indie" role="button">
 Dinosaur Jr. - Dinosaur (1985-07-05)
 </li>
-<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">
-Ray Charles - Ray Charles (1987)
-</li>
 <li data-cover="https://img.discogs.com/GCA2x6MG0TfP_Dot0OCgWBmro1Q=/fit-in/600x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-756678-1436111517-3414.jpeg.jpg" data-tags="80s" role="button">
 Morrissey - Viva Hate (1988-03-14)
 </li>
@@ -117,7 +114,7 @@ The Mahones - Draggin' the Days (1994)
 <li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
 </li>
-<li data-cover="https://img.discogs.com/S3eJ1NSnAn3ZhJdyoELNYM7dY_g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6300040-1443666487-7671.jpeg.jpg" data-tags="britpop" role="button">
+<li data-cover="https://img.discogs.com/5uid0TUmf5dxeMAtig1Jpbskto8=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-562043-1539083308-5696.jpeg.jpg" data-tags="britpop" role="button">
 The Bluetones - Expecting To Fly (1996-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
@@ -168,14 +165,14 @@ I Am Kloot - Natural History (2001-03-26)
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
 Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
-<li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
-Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6298a1f-c1c0-4984-acb5-fad7c760d5ed/17401757531-500.jpg" data-tags="folk, indie" role="button">
 Okkervil River - Don't Fall in Love With Everyone You See (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/71fce908-8a23-41bd-8de5-b8eba0fb00c7/7130829837-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - The Big Come Up (2002-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/bba2f329-e4c3-3410-bffd-5172f2aae8f8/23645786082-500.jpg" data-tags="indie" role="button">
+The Coral - The Coral (2002-07-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Music - The Music (2002-08-19)
@@ -189,9 +186,6 @@ The Thrills - So Much for the City (2003-05-27)
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/f88d6be7-cfa3-4f09-be00-c6b3ebd0b361/26583559993-500.jpg" data-tags="street punk" role="button">
-Street Dogs - Savin Hill (2003-09-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
 Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 </li>
@@ -203,6 +197,9 @@ The Duke Spirit - Cuts Across the Land (2004-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
 Black Mountain - Black Mountain (2005-01-18)
+</li>
+<li data-cover="https://img.discogs.com/YincNxus0vUEnRihj6mDNgGTu0o=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565281-1299234423.jpeg.jpg" data-tags="indie rock" role="button">
+The Paddingtons - First Comes First (2005-10-31)
 </li>
 <li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
 Jim Noir - Tower Of Love (2005-12-05)
@@ -320,5 +317,8 @@ Allah-Las - Allah-Las (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/89585afb-b491-4a3b-9150-fc9c1a7f38de/3936295706-500.jpg" data-tags="indie" role="button">
 Jake Bugg - Jake Bugg (2012-10-15)
+</li>
+<li data-cover="https://img.discogs.com/WvdP1-wH7umjo-QMHZmshwBTyag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864443-1377871491-8960.jpeg.jpg" data-tags="soul" role="button">
+Ray Charles - Ray Charles (2014)
 </li>
 </ol>

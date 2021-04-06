@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:18:01.569Z
+date: 2021-04-06T18:59:01.515Z
 title: "electro house: 100 albums you must listen to before you die"
 ---
 ![Calvin Harris - Motion (2014-10-31)](http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg "Calvin Harris - Motion (2014-10-31)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/32aa71d7-5d29-464d-9cfa-2dbb48a50086/6350918032-500.jpg" data-tags="electronic, house, electro house, madonna, singles i own on vinyl" role="button">
 Mr. Oizo - Flat Beat (1999-03-22)
 </li>
-<li data-cover="https://img.discogs.com/5t64Z46YBF0ipuNZ2KHJ0nUKGRI=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6342-1332314679.jpeg.jpg" data-tags="electronic, house" role="button">
+<li data-cover="https://img.discogs.com/XnOevX32P4WASUaM3CgU1RYAfDQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87846-1188506978.jpeg.jpg" data-tags="electronic, house" role="button">
 Les Rythmes Digitales - Darkdancer (1999-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
@@ -32,12 +32,6 @@ Mr. Oizo - Analog Worms Attack (1999-10-19)
 </li>
 <li data-cover="https://img.discogs.com/vEmL8ZSsMGePbRhkNCv-x_s3fsg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-279604-1458355450-8628.jpeg.jpg" data-tags="electro house" role="button">
 Télépopmusik - Da Hoola (Remixes) (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/859e1b39-674b-4aa6-afd0-35af150ff649/15701501195-500.jpg" data-tags="house" role="button">
-David Guetta - Just A Little More Love (2002-06-10)
-</li>
-<li data-cover="https://img.discogs.com/kS0RiToufqyFNNqKDtRDH-I2uYs=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-292548-1319110655.jpeg.jpg" data-tags="electro, house" role="button">
-Benassi Bros. - Pumphonia (2004-04-14)
 </li>
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
@@ -48,11 +42,11 @@ The Presets - Beams (2005-09-12)
 <li data-cover="http://coverartarchive.org/release/1226bbd9-f60e-4399-a3a5-14071fc7c13d/14242541008-500.jpg" data-tags="electro, ed banger" role="button">
 Justice - Waters of Nazareth (2005-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/77444caf-efe3-4e79-b280-4694a70e8a44/954163464-500.jpg" data-tags="trance" role="button">
-Marco V - 200V (2005-10-03)
-</li>
 <li data-cover="https://img.discogs.com/7sLCjpeXls9RLMT-P-unVY8f3rI=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704553-1149877523.jpeg.jpg" data-tags="electro" role="button">
 Tiga - Sexor (2005-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/b27d398e-c63a-4b2a-abe7-de8992788ee7/2887466962-500.jpg" data-tags="electro house" role="button">
+MSTRKRFT - Easy Love (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a00cdce-1a2b-48f3-adbb-ca1b5ad779b9/3951479046-500.jpg" data-tags="electronic, electropop, japanese, capsule" role="button">
 Capsule - FRUITS CLiPPER (2006-05-10)
@@ -63,8 +57,8 @@ MSTRKRFT - The Looks (2006-07-18)
 <li data-cover="https://img.discogs.com/z9VKRjLaJO5alTq_svOYj03-NTA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1115042-1193180138.jpeg.jpg" data-tags="electro, house, electro house" role="button">
 Dada Life - Fun Fun Fun (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/587a702e-acf6-418b-b034-053080ac7eea/6367927492-500.jpg" data-tags="electro dance" role="button">
-Justice - D.A.N.C.E. (2007-04-23)
+<li data-cover="https://img.discogs.com/iac1_GWzQdf7e_OSVN8mFXe7keg=/fit-in/313x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5455858-1393891689-3370.jpeg.jpg" data-tags="electro house" role="button">
+Justice - D.A.N.C.E (2007-04-23)
 </li>
 <li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
 Digitalism - Idealism (2007-05-09)
@@ -93,11 +87,11 @@ deadmau5 - Random Album Title (2008-09-16)
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)
 </li>
+<li data-cover="https://img.discogs.com/ZP1Td2EdYkTd9yTbLelrAodx4nc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8800657-1469037194-9536.jpeg.jpg" data-tags="electro house" role="button">
+MSTRKRFT - Heartbreaker (2009)
+</li>
 <li data-cover="https://img.discogs.com/3AuOfzttp6c5coNcDn4WiaHYRVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2019036-1258978077.jpeg.jpg" data-tags="electronic, dance" role="button">
 Example - Won't Go Quietly (2009)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/QJAAG1_fgUM82slexCWqSydm7Gs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2232652-1277744631.jpeg.jpg" data-tags="electro house" role="button">
 Dada Life - Just Do The Dada (2009-06-13)
@@ -231,6 +225,9 @@ Icona Pop - I Love It (2012-05-09)
 <li data-cover="https://img.discogs.com/4gK4uLUGNNdcsL3ZqnR6RAfnmgA=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904519-1535063439-7245.jpeg.jpg" data-tags="indie rock, electro, electro house, scream" role="button">
 The Bloody Beetroots - Rocksteady (2012-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/3b0190cc-b415-46fc-9bad-ce0c63243d2e/3459319440-500.jpg" data-tags="electro house" role="button">
+Wolfgang Gartner - Flexx (2012-06-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/30483241-09a0-4f5b-90b2-46141956a2f2/4049288536-500.jpg" data-tags="trance, electronic, electro, dance, house, electro house" role="button">
 Italobrothers - My Life Is A Party (2012-07-27)
 </li>
@@ -264,14 +261,14 @@ Savant - Alchemist (2012-12-12)
 <li data-cover="http://coverartarchive.org/release/44217cae-f225-4d3c-919b-cd6d70fe392c/3452445494-500.jpg" data-tags="electronic, synthwave" role="button">
 Kavinsky - OutRun (2013-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5faa285-8ca0-4d2e-bb1f-471dcef00db5/3790506518-500.jpg" data-tags="new rave, dubstep" role="button">
-Hadouken! - Every Weekend (2013-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/7f248756-f2bc-41dd-b943-d1a55ce046a4/11784134774-500.jpg" data-tags="electro house" role="button">
 Knife Party - Haunted House (2013-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/05c617c7-7512-4a0b-9c4e-a3fcc2bf5c03/7456741432-500.jpg" data-tags="chiptune, electronic, bitpop" role="button">
 Anamanaguchi - Endless Fantasy (2013-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/f595101f-9bc1-4e39-9909-7dc0dfa576e6/12255416150-500.jpg" data-tags="marting garrix animals" role="button">
+Martin Garrix - Animals (2013-06-17)
 </li>
 <li data-cover="https://img.discogs.com/X56TsAaQVcGJByBtuBvgWIlUTDc=/fit-in/392x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1565810-1228855541.jpeg.jpg" data-tags="synthpop" role="button">
 Pet Shop Boys - Electric (2013-07-12)
@@ -288,7 +285,7 @@ Stromae - Racine Carrée (2013-08-16)
 <li data-cover="http://coverartarchive.org/release/d46cb428-7455-4dbc-b0f5-905ca2d6e8c8/5145357162-500.jpg" data-tags="electronic, dance, electro house" role="button">
 The Bloody Beetroots - HIDE (2013-09-16)
 </li>
-<li data-cover="https://img.discogs.com/Xud_fDHca0GjUdbaNUuK3GnwpGA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5231620-1528513873-7380.jpeg.jpg" data-tags="dubstep" role="button">
+<li data-cover="https://img.discogs.com/I8KJkhh1Y205o8fx29B_Xx-g0Rg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5023308-1382396199-7898.jpeg.jpg" data-tags="dubstep" role="button">
 Krewella - Get Wet (2013-09-20)
 </li>
 <li data-cover="https://img.discogs.com/fK_SBnhk_3gYkaQuDn1Mcg2Ro2E=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145641-1494989212-6727.jpeg.jpg" data-tags="electronic, electropop, j-pop" role="button">
@@ -320,5 +317,8 @@ Knife Party - Abandon Ship (2014-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
 David Guetta - Listen (2014-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/51f3f496-01b9-46f6-a3a3-54da87db0b71/9240189573-500.jpg" data-tags="dance-pop, electro house, deep house, nu-disco" role="button">
+The Avener - The Wanderings of the Avener (2015-01-19)
 </li>
 </ol>

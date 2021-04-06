@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:05:01.434Z
+date: 2021-04-06T19:21:01.402Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Awake (2009-08-24)](http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg "Skillet - Awake (2009-08-24)")
@@ -180,6 +180,9 @@ P.O.D. - Greatest Hits: The Atlantic Years (2006-11-21)
 <li data-cover="http://coverartarchive.org/release/04a93f62-fd7f-4e5b-a0ce-7ca314b44874/4889479113-500.jpg" data-tags="rock, christian rock" role="button">
 Anberlin - Cities (2007-02-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/302c5159-19cd-4da7-b4b0-f36092b3cccb/15682288680-500.jpg" data-tags="christian rock" role="button">
+TobyMac - Portable Sounds (2007-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
@@ -209,9 +212,6 @@ Falling Up - Captiva (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/94da1f64-ef0a-41fd-a0ae-bfdf2f83a935/19390174685-500.jpg" data-tags="metalcore, christian metal" role="button">
 Demon Hunter - Storm the Gates of Hell (2007-11-06)
-</li>
-<li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
-The Lonely Island - Jizz In My Pants (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4c303b5-fdcf-4bf6-9198-b5205cc45249/4889844357-500.jpg" data-tags="rock, christian rock" role="button">
 Ivoryline - There Came A Lion (2008-02-05)

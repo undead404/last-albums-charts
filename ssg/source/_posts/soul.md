@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:33:01.420Z
+date: 2021-04-06T18:54:01.504Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -135,7 +135,7 @@ JoJo - JoJo (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
 Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 </li>
-<li data-cover="https://img.discogs.com/xjXtgPCXzzzLiZenM1wS2GrYZO4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-916692-1307431903.jpeg.jpg" data-tags="soul" role="button">
+<li data-cover="https://img.discogs.com/FmHghlUxV8FHoIwIHACv3ZBgGVk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1275629-1547400630-6964.jpeg.jpg" data-tags="soul" role="button">
 Joss Stone - Mind Body & Soul (2004-09-27)
 </li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
@@ -177,6 +177,9 @@ Amy Winehouse - Back to Black (2006-10-30)
 <li data-cover="http://coverartarchive.org/release/7f6744e0-893a-300c-a091-89cd68a795f9/4191054363-500.jpg" data-tags="soul" role="button">
 Joss Stone - Introducing Joss Stone (2007-03-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/95bcbbcb-af3e-3304-8f16-0b8db7ce10f1/17669063042-500.jpg" data-tags="soul, rnb" role="button">
+Alicia Keys - As I Am (2007-11-09)
+</li>
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
 </li>
@@ -201,7 +204,7 @@ Duffy - Rockferry (2008-03-03)
 <li data-cover="http://coverartarchive.org/release/8cf0b731-8d1c-37d7-9a03-a2734df4c22b/5685858560-500.jpg" data-tags="soul, funk" role="button">
 Gnarls Barkley - The Odd Couple (2008-03-18)
 </li>
-<li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
+<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
@@ -296,9 +299,6 @@ James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/da998b90-83d6-43ea-9a46-55ce0fba83e4/5554522707-500.jpg" data-tags="soul" role="button">
 John Legend - Love in the Future (2013-08-30)
-</li>
-<li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
-Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)

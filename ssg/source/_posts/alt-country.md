@@ -1,14 +1,14 @@
 ---
-date: 2021-04-06T13:52:01.462Z
+date: 2021-04-06T19:18:01.521Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">Ryan Adams - Heartbreaker (2000-09-05)</li>
+<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">Gary Jules - Trading Snakeoil For Wolftickets (2001)</li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">Ryan Adams - Gold (2001-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">Wilco - Yankee Hotel Foxtrot (2002-04-22)</li>
 <li data-cover="https://img.discogs.com/ke5mv5j3Qr9m9GEBBC-a_zc-UYw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994709-1561738115-2240.jpeg.jpg" data-tags="alt-country, rock" role="button">Ryan Adams - Love Is Hell (2003)</li>
-<li data-cover="https://img.discogs.com/beowalMRNZmW5GIaRtWKWjFu_fc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682006-1147158422.jpeg.jpg" data-tags="alt-country" role="button">Neko Case - Fox Confessor Brings the Flood (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">Band of Horses - Everything All the Time (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
-Townes Van Zandt - Our Mother the Mountain (1969-04)
-</li>
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
@@ -39,8 +36,8 @@ Steve Earle - Copperhead Road (1988)
 <li data-cover="http://coverartarchive.org/release/ec5b0fbf-aa84-4538-9bb7-ae14e54f7e46/4464452202-500.jpg" data-tags="alt-country" role="button">
 Cowboy Junkies - The Trinity Session (1988-11-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/4aa7a6c1-367b-4e0d-92de-f167cc0c636e/17245905852-500.jpg" data-tags="alt-country" role="button">
-Uncle Tupelo - March 16-20, 1992 (1992-08-03)
+<li data-cover="http://coverartarchive.org/release/10ff1941-aa22-416b-b646-58138f63d236/23148816933-500.jpg" data-tags="alt-country" role="button">
+Uncle Tupelo - No Depression (1990)
 </li>
 <li data-cover="https://img.discogs.com/sEbcJNTcu4AeNf-qhWuojcgO5QQ=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540401-1303186739.jpeg.jpg" data-tags="alt-country" role="button">
 Uncle Tupelo - Anodyne (1993-05)
@@ -66,6 +63,9 @@ Gillian Welch - Revival (1996-04-09)
 <li data-cover="http://coverartarchive.org/release/c48fa5ac-a16f-435b-88f3-179a668a40ad/6848496966-500.jpg" data-tags="country, americana, alt-country" role="button">
 Ween - 12 Golden Country Greats (1996-05-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/7fe6a811-5c22-4211-b0b6-a7b8e0a270bd/28840033761-500.jpg" data-tags="singer-songwriter, alt-country, female vocalists" role="button">
+Patty Griffin - Living With Ghosts (1996-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
 </li>
@@ -80,9 +80,6 @@ Smog - Red Apple Falls (1997-05-20)
 </li>
 <li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
 Whiskeytown - Strangers Almanac (1997-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/41396e8b-5000-336e-a089-7a8ea6e8180b/19777899159-500.jpg" data-tags="americana" role="button">
-Calexico - The Black Light (1998-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0491813b-1bad-3340-84af-278d44db4f0d/22765524703-500.jpg" data-tags="alt-country" role="button">
 Billy Bragg & Wilco - Mermaid Avenue (1998-06-23)
@@ -168,6 +165,9 @@ Drive-By Truckers - Decoration Day (2003-06-17)
 <li data-cover="https://img.discogs.com/okJGG8uLdDFFDZV-gNoKZgOklwk=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1528233-1493375981-7883.jpeg.jpg" data-tags="alt-country, folk noir, americana" role="button">
 The Handsome Family - Singing Bones (2003-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/1a400f03-445e-4510-a9d3-04aa625f3209/6253846025-500.jpg" data-tags="bluegrass" role="button">
+Old Crow Medicine Show - O.C.M.S. (2004-02-24)
+</li>
 <li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
@@ -186,9 +186,6 @@ Wilco - A Ghost is Born (2004-06-21)
 <li data-cover="http://coverartarchive.org/release/48239f74-e24f-4e0b-a4e6-019c266ec905/15448138762-500.jpg" data-tags="alt-country, southern rock" role="button">
 Drive-By Truckers - The Dirty South (2004-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/727b7e85-75b1-4aec-8e55-069d1d13acf0/7887577823-500.jpg" data-tags="alt-country" role="button">
-Woven Hand - Consider the Birds (2004-09-20)
-</li>
 <li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
@@ -200,6 +197,9 @@ Kathleen Edwards - Back To Me (2005-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
+</li>
+<li data-cover="https://img.discogs.com/euPgMPOhkaUG4hkmQxHl-UUVdcI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528063-1333984291.jpeg.jpg" data-tags="country, cash" role="button">
+Johnny Cash - The Legend (2005-08-16)
 </li>
 <li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
@@ -240,11 +240,11 @@ Brandi Carlile - The Story (2007-04-03)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
-<li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
-Wilco - Sky Blue Sky (2007-05-14)
-</li>
 <li data-cover="https://img.discogs.com/UDV_1TtRN_gR1czRTs-EoUbP8Ic=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2712279-1431256710-1520.jpeg.jpg" data-tags="alt-country" role="button">
 The Avett Brothers - Emotionalism (2007-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/bda6aac6-046b-485d-9ad6-644466157152/13142114048-500.jpg" data-tags="singer-songwriter" role="button">
+Ryan Adams - Easy Tiger (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a471459a-0f9e-4a2f-9525-4179ba3baf36/2012803900-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Josh Ritter - The Historical Conquests Of Josh Ritter (2007-08-21)
