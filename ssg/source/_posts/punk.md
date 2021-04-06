@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:32:01.667Z
+date: 2021-04-06T16:00:01.997Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -87,9 +87,6 @@ The Offspring - Ignition (1992-10-16)
 <li data-cover="https://img.discogs.com/FQAFxI3rrJZOiQQ1c37mdpHVy_Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8984704-1472761513-5434.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Dookie (1994-01-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
-Nine Inch Nails - The Downward Spiral (1994-03-08)
-</li>
 <li data-cover="https://img.discogs.com/G10f0vfWTuqHmrI8mBKghB3JA0E=/fit-in/400x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750928-1401639124-9520.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Smash (1994-03-22)
 </li>
@@ -107,6 +104,9 @@ Jawbreaker - Dear You (1995-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/37037911-c633-4ec8-9793-2c80cdbfedac/5690341799-500.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Insomniac (1995-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
+Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f0a1564-a748-302f-abc3-0a0b3f934a50/2349398736-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ixnay on the Hombre (1997-02-05)

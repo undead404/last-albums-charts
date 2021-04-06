@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:40:01.336Z
+date: 2021-04-06T16:10:01.397Z
 title: "goth rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -9,7 +9,7 @@ title: "goth rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/03a3acfb-67ee-3353-a3f9-65a1af3a626e/7947298813-500.jpg" data-tags="post-punk, new wave, 80s, alternative" role="button">The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)</li>
 <li data-cover="http://coverartarchive.org/release/da754b66-e53f-4de6-b76b-78865fcd5a2f/14564374105-500.jpg" data-tags="gothic rock" role="button">The Sisters of Mercy - Floodland (1987-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">The Cure - Disintegration (1989-05-01)</li>
-<li data-cover="https://img.discogs.com/m5KiK7XWzOVx8wYaDJvv0eBzJws=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419432-1110896476.jpg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">London After Midnight - Psycho Magnet (1995)</li>
+<li data-cover="https://img.discogs.com/yPObFg9KYqKXzYR5KCVBb95NkEc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1172126-1198088260.jpeg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">London After Midnight - Psycho Magnet (1995)</li>
 <li data-cover="http://coverartarchive.org/release/2e8cd5ae-2caf-4d4d-99ec-300c7fd57656/7799815972-500.jpg" data-tags="alternative, rock, gothic rock" role="button">The Cure - Bloodflowers (2000-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg" data-tags="darkwave" role="button">She Wants Revenge - She Wants Revenge (2005-12-13)</li>
@@ -165,7 +165,7 @@ Inkubus Sukkubus - Wytches (1994-04)
 <li data-cover="http://coverartarchive.org/release/4ae797bf-8661-4a7f-928e-a9d3408374a3/5292269292-500.jpg" data-tags="french, goth, dark, gothic, goth rock" role="button">
 Corpus Delicti - Obsessions (1995)
 </li>
-<li data-cover="https://img.discogs.com/m5KiK7XWzOVx8wYaDJvv0eBzJws=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419432-1110896476.jpg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
+<li data-cover="https://img.discogs.com/yPObFg9KYqKXzYR5KCVBb95NkEc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1172126-1198088260.jpeg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
 London After Midnight - Psycho Magnet (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6344fea-c768-4ed7-bc93-90f413507d5d/7389186733-500.jpg" data-tags="darkwave, gothic" role="button">
@@ -176,9 +176,6 @@ Corpus Delicti - Sarabands (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
 The Cure - Wild Mood Swings (1996-05-07)
-</li>
-<li data-cover="https://img.discogs.com/vMOzb1Gzb6Fao3WqNYHL5YYEh1M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-956281-1177203891.jpeg.jpg" data-tags="gothic, gothic rock" role="button">
-Big Electric Cat - Eyelash (1997)
 </li>
 <li data-cover="https://img.discogs.com/l8g6QiI5ORRUt4fIHPsT2HshcT0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-188258-1449200649-3322.jpeg.jpg" data-tags="darkwave, goth" role="button">
 Switchblade Symphony - Bread and Jam for Frances (1997-09-16)
@@ -255,6 +252,9 @@ Scary Bitches - Creepy Crawlies (2004)
 <li data-cover="http://coverartarchive.org/release/32924277-c4c4-4271-857e-663fca31cc79/6644994021-500.jpg" data-tags="shoegaze, rock, alternative" role="button">
 Scarling. - Sweet Heart Dealer (2004-02-17)
 </li>
+<li data-cover="https://img.discogs.com/N75r7alEGpGq0tYoyIu-IjGlNpc=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-606785-1137741511.jpeg.jpg" data-tags="darkwave, electronic, visual kei" role="button">
+Schwarz Stein - Artificial Hallucination (2004-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/8bca7844-ea2d-46ac-9105-3087ab8f7b0a/22898798052-500.jpg" data-tags="gothic metal, female fronted metal" role="button">
 Flowing Tears - Razorbliss (2004-03-22)
 </li>
@@ -282,7 +282,7 @@ Charon - Songs for the Sinners (2005-08-31)
 <li data-cover="http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - She Wants Revenge (2005-12-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
+<li data-cover="https://img.discogs.com/QbdIOTtr9_xMUqZ5JAZzxlWsE20=/fit-in/595x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1318054-1209213504.jpeg.jpg" data-tags="industrial rock" role="button">
 Godhead - The Shadow Line (2006-08-29)
 </li>
 <li data-cover="https://img.discogs.com/dEADnWZ22h2m69wsaK7UmA5euVs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8453695-1462473692-2954.jpeg.jpg" data-tags="gothic rock" role="button">
@@ -291,7 +291,7 @@ The 69 Eyes - Angels (2007-02-27)
 <li data-cover="http://coverartarchive.org/release/5515ee75-3a9f-31af-8952-35233a62b114/14997969344-500.jpg" data-tags="post-punk, siouxsie, alternative" role="button">
 Siouxsie - Mantaray (2007-09-03)
 </li>
-<li data-cover="https://img.discogs.com/2GswDWVRxpZQ_xKFt5y6JVcER-o=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099636-1567270267-9611.jpeg.jpg" data-tags="darkwave" role="button">
+<li data-cover="https://img.discogs.com/Sxo4nFriUAdS19t0_jH9wXD3j7Q=/fit-in/570x562/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684711-1340284168-9057.jpeg.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - This Is Forever (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a84e64da-c7be-4bfc-a389-8313df84c8fc/8493534865-500.jpg" data-tags="darkwave, electronic, gothic" role="button">

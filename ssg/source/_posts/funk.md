@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:50:01.451Z
+date: 2021-04-06T16:16:06.849Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -9,7 +9,7 @@ title: "funk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">Jamiroquai - The Return Of The Space Cowboy (1994-10-17)</li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">Jamiroquai - Travelling Without Moving (1996-09-09)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - A Funk Odyssey (2001-08-29)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - Dynamite (2005-05-20)</li>
+<li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">Jamiroquai - Dynamite (2005-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">Gnarls Barkley - St. Elsewhere (2006-04-24)</li>
 <li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)</li>
 <li data-cover="http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg" data-tags="jazz, funk" role="button">Herbie Hancock - Head Hunters (2010-06-28)</li>
@@ -38,9 +38,6 @@ Sly & The Family Stone - There's A Riot Goin' On (1971-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/18d980d4-43f6-4d22-a6df-50ce7a3a6757/15600546210-500.jpg" data-tags="funk" role="button">
 Cymande - Cymande (1972)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-Bill Withers - Still Bill (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
@@ -174,6 +171,9 @@ Beck - Midnite Vultures (1999-11-20)
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
+Nicola Conte - Bossa Per Due (2001-06-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/4866a1ef-8eb3-420b-9e21-de6d66fdbda8/13535180696-500.jpg" data-tags="funk, prince" role="button">
 Prince - The Very Best of Prince (2001-07-30)
 </li>
@@ -195,7 +195,7 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/84ae99a9-0cd3-4b13-ac6a-f05d41460912/15840373056-500.jpg" data-tags="ska" role="button">
 The Cat Empire - The Cat Empire (2003-10-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
+<li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
@@ -228,6 +228,9 @@ Chromeo - Fancy Footwork (2007-04-12)
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">
 Mark Ronson - Version (2007-04-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
+The Cat Empire - So Many Nights (2007-12-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/b95d3a86-6640-4a02-850a-2b842ad601d3/2663904426-500.jpg" data-tags="rock" role="button">
 Red Hot Chili Peppers - Greatest Hits (2008)
 </li>
@@ -254,9 +257,6 @@ Herbie Hancock - Head Hunters (2010-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/df4b1069-8b30-4ac5-86ff-99fe6f0e80b0/23256585874-500.jpg" data-tags="electronic, hip hop, experimental, funk, glitch, trip hop, instrumental hip-hop, wonky" role="button">
 Pretty Lights - Spilling Over Every Side (2010-07-29)
-</li>
-<li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
-Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
 <li data-cover="https://img.discogs.com/QPBKF9KfoAp57G5s8VskAz9eFT8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475210-1286108215.jpeg.jpg" data-tags="electronic, funk" role="button">
 Chromeo - Business Casual (2010-09-14)

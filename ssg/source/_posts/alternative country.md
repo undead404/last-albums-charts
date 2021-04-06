@@ -1,12 +1,12 @@
 ---
-date: 2021-04-06T03:31:01.321Z
+date: 2021-04-06T16:21:01.393Z
 title: "alternative country: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">Calexico - Carried To Dust (2008-09-08)</li>
@@ -42,7 +42,7 @@ Uncle Tupelo - March 16-20, 1992 (1992-08-03)
 <li data-cover="http://coverartarchive.org/release/d94714a4-7fe9-4c5f-88d3-7a8abfa01b97/2265287768-500.jpg" data-tags="90s, steve earle" role="button">
 Steve Earle - Train a Comin' (1995-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eb2ecb0-0749-48c7-976b-f3c8e5dfef27/4421207756-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, acoustic, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, alt-country, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alt country, alternative country, alternative pop, hot, new folk, ohio, sxsw, fivestar, lovely, visual, female voices, addictive, sweet, i like this, truth, misc, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, listen, anima, alt-pop, front porch, adult, people who are freakier and folkier than motherfucking devendra banhart, shady, special, river, north america, girls girls girls, i have seen live, relationships, really good" role="button">
+<li data-cover="http://coverartarchive.org/release/4eb2ecb0-0749-48c7-976b-f3c8e5dfef27/4421207756-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, acoustic, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, alt-country, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alt country, alternative country, alternative pop, hot, new folk, ohio, sxsw, fivestar, lovely, visual, female voices, addictive, sweet, i like this, truth, misc, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, anima, alt-pop, front porch, adult, people who are freakier and folkier than motherfucking devendra banhart, shady, special, river, north america, girls girls girls, i have seen live, relationships, really good" role="button">
 Over the Rhine - Good Dog Bad Dog: The Home Recordings (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/75d92172-7a2f-4a9e-89da-8eca082c25e0/2186095398-500.jpg" data-tags="alt-country" role="button">
@@ -90,20 +90,20 @@ Golden Smog - Weird Tales (1998-10-13)
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/493d677c-992b-444f-8fab-88e83e5a016a/6151380588-500.jpg" data-tags="rockabilly, country, alternative country" role="button">
+Hank Williams III - Risin' Outlaw (1999-09-07)
+</li>
 <li data-cover="https://img.discogs.com/xLjJmTV4fqIaWYmglniyqRuC2CE=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1177465-1198531874.jpeg.jpg" data-tags="alternative country, shady, grady, spelling lobotomy correctly, free range caucasians, shady grady, liver and onions" role="button">
 The Handsome Family - In the Air (2000-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/857f4b2c-b396-4291-bdfe-78de6dac4828/23504502964-500.jpg" data-tags="alt-country" role="button">
 16 Horsepower - Hoarse (2000-04-01)
 </li>
-<li data-cover="https://img.discogs.com/YvPYH1JWR9eEILfdKtyFN96YZLY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1251314-1203848085.jpeg.jpg" data-tags="alt-country, americana" role="button">
+<li data-cover="https://img.discogs.com/KYq8BFt639w64kh_qkmjWTnhtnY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-500503-1406232209-1601.jpeg.jpg" data-tags="alt-country, americana" role="button">
 16 Horsepower - Secret South (2000-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/dde94639-5748-39bd-8bdd-08c31467c766/2265252669-500.jpg" data-tags="country" role="button">
-Steve Earle - Transcendental Blues (2000-06-05)
 </li>
 <li data-cover="https://img.discogs.com/u2gohfVXXQQqUL7Xa1D-QjiqWPA=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2128677-1613917896-9017.jpeg.jpg" data-tags="americana, alt-country, southern rock, alternative country, altcountry, slobberbone" role="button">
 Slobberbone - Everything You Thought Was Right Was Wrong Today (2000-07-25)
@@ -120,10 +120,10 @@ The National - The National (2001-07-03)
 <li data-cover="http://coverartarchive.org/release/094d238f-d444-3acf-959a-4b3d989651cd/6139721909-500.jpg" data-tags="00s" role="button">
 Gillian Welch - Time (The Revelator) (2001-07-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/waW8T2jsCoViVLbRXfoS6qFQQnw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1351645-1543660417-5834.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - Biggest Bluest Hi-Fi (2001-10-20)
 </li>
-<li data-cover="https://img.discogs.com/UoRMXBDja25Zto5nrgyI3ZIdDds=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1407278-1297519798.jpeg.jpg" data-tags="folk, alt-country, folk rock" role="button">
+<li data-cover="https://img.discogs.com/cyx6SdCv46Ve4nTcPAXPeicUutw=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4863180-1378064624-7806.jpeg.jpg" data-tags="folk, alt-country, folk rock" role="button">
 Josh Ritter - Golden Age Of Radio (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a871728-6021-4a23-8dbd-1b4ffdb18715/4812704033-500.jpg" data-tags="indie rock" role="button">
@@ -131,6 +131,9 @@ The Get Up Kids - On a Wire (2002-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/394f0d25-3372-4d53-abbb-1871689b9960/18662254403-500.jpg" data-tags="rock, alternative country, alt, own it" role="button">
 Gordon Gano - Hitting the Ground (2002-08-20)
+</li>
+<li data-cover="https://img.discogs.com/vecytgqzWxBvaEwx_qVztpPTlJY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904457-1410644217-3055.jpeg.jpg" data-tags="americana, alt-country, alternative country, allmusics" role="button">
+Slobberbone - Slippage (2002-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d22deda-5427-4b32-83c3-d36a369c2070/15971902789-500.jpg" data-tags="americana" role="button">
 Calexico - Feast of Wire (2003-02-10)
@@ -150,10 +153,10 @@ Counting Crows - Films About Ghosts: The Best of... (2003-11-24)
 <li data-cover="https://img.discogs.com/JXaLMhJYJVL7tqQHgpYmv60fUqY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454482-1333877155.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -165,17 +168,14 @@ Little Wings - Magic Wand (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, alt rock, independent, tracks, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
 Julie Doiron - Goodnight Nobody (2004-09-07)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="https://img.discogs.com/UO82ClUQ_4jxr8YO2pdiPuu5zvc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1007162-1183363008.jpeg.jpg" data-tags="indie, folk rock, alternative country, the devil and the deep blue sea, the merch grrls, teh typos" role="button">
 Steel Train - Twilight Tales From The Prairies Of The Sun (2005-08-24)
 </li>
-<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
-</li>
-<li data-cover="https://img.discogs.com/v7iOPgCNJr1LJH3aCwVouhXXg7o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-839565-1497454177-4570.jpeg.jpg" data-tags="rock, country, alternative, college rock, psychedelic, adult alternative, folk rock, alternative country, singer/songwriter" role="button">
-James William Hindle - Town Feeling (2005-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/62332a08-7f1f-40d5-bd69-8ffa8d01cb51/24839986890-500.jpg" data-tags="spaghetti western" role="button">
 Murder By Death - In Bocca Al Lupo (2006-05-23)
@@ -186,7 +186,7 @@ Greg Graffin - Cold As The Clay (2006-06-11)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/gg4fuEuq25IWEz--UgoLBKu6ygM=/fit-in/280x281/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2430649-1287388581.jpeg.jpg" data-tags="00s" role="button">
+<li data-cover="https://img.discogs.com/JhUAsrEBHEws0Wo9Cvx0v_n8qb8=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3157450-1353704307-1308.jpeg.jpg" data-tags="00s" role="button">
 Lambchop - Damaged (2006-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3be0b9b-874e-44ff-8054-d4dc6ec189d0/10720411555-500.jpg" data-tags="singer-songwriter, indie, country, alternative, folk, indie pop, indie rock, sad, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
@@ -207,13 +207,13 @@ Norfolk & Western - The Unsung Colony (2006-10-24)
 <li data-cover="http://coverartarchive.org/release/e6c83654-eca9-44d9-9f5c-a77ae9de5f93/26393895109-500.jpg" data-tags="singer-songwriter, kurt, acoustic, abuse, virginia, ralph, harvey, miscellaneous, std, evan, curt, evans, peterson, dustin, mustard, marti, weinstein, partitioned, sandifur, rolph" role="button">
 Dustin Kensrue - Please Come Home (2007-01-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+<li data-cover="https://img.discogs.com/WOF7raIoLouZaJKqPANneAjx6o8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3999652-1351882712-6546.jpeg.jpg" data-tags="acoustic" role="button">
 Dashboard Confessional - The Shade Of Poison Trees (2007-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 J. Tillman - Cancer And Delirium (2008)
 </li>
-<li data-cover="https://img.discogs.com/YFt6y2qbfMSvFeznJ9pBCJqSSlI=/fit-in/448x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583195-1163087126.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
 <li data-cover="https://img.discogs.com/wvDQ99wpF9w7yZlWSUriAnajL0s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256926-1204232683.jpeg.jpg" data-tags="allmusicm" role="button">
@@ -237,10 +237,10 @@ The White Buffalo - Hogtied Revisited (2009-03-24)
 <li data-cover="http://coverartarchive.org/release/f5e83da8-678d-4d54-b3ae-c2e051167a4c/9233011263-500.jpg" data-tags="essential" role="button">
 Bill Callahan - Sometimes I Wish We Were an Eagle (2009-04-14)
 </li>
-<li data-cover="https://img.discogs.com/JHy8ZvEN2no-o61buK3VwkX-V5M=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1758491-1264449281.jpeg.jpg" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/o8_V-hTUs1ECCKn6hzsWwStkPAs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7314256-1438690931-2167.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - My Maudlin Career (2009-04-20)
 </li>
-<li data-cover="https://img.discogs.com/5fXCJa-y1u1T8T4DAhYzcJce8SY=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1956322-1438667169-1259.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/_nkDGFiiCX2DmpU1qb2z0asOd20=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125606-1612992046-9556.jpeg.jpg" data-tags="folk" role="button">
 Brandi Carlile - Give Up The Ghost (2009-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
@@ -257,6 +257,9 @@ Justin Bieber - My Worlds (2010-03-22)
 </li>
 <li data-cover="https://img.discogs.com/5Um2ENy9Xwy5VnuPaSqpAQt0W8s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654148-1295133019.jpeg.jpg" data-tags="folk, folk rock, alternative country, apocalyptic folk" role="button">
 Woven Hand - The Threshingfloor (2010-05-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/b44b8c8c-7ec2-49c0-8086-af4db6a4d46a/5763262967-500.jpg" data-tags="outlaw country" role="button">
+Hank Williams III - Rebel Within (2010-05-25)
 </li>
 <li data-cover="https://img.discogs.com/WE5AGDmRHdFAZp_Q199gdQXWT-o=/fit-in/226x226/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089749-1315233050.jpeg.jpg" data-tags="country, alternative rock, ambient, americana, alt-country, alternative country, post-country" role="button">
 Richard Buckner - Our Blood (2011)
@@ -317,8 +320,5 @@ Drive-By Truckers - English Oceans (2014-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/812300e3-fd7e-47aa-9bcf-2ea9029a18d0/7258820497-500.jpg" data-tags="alternative country" role="button">
 Casualties of Cool - Casualties of Cool (2014-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c66b4176-f220-43c5-ade7-587e612f97b2/14452077784-500.jpg" data-tags="alternative country, gothic country, gothic americana" role="button">
-Those Poor Bastards - Vicious Losers (2014-10-07)
 </li>
 </ol>

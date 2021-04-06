@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:51:01.681Z
+date: 2021-04-06T16:19:01.394Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -56,9 +56,6 @@ Jewel - Pieces of You (1994)
 </li>
 <li data-cover="https://img.discogs.com/A0hMPwgAEFnq8ZyMLIxdAwQg-JA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319978-1580194098-1708.jpeg.jpg" data-tags="90s, heather nova" role="button">
 Heather Nova - Oyster (1994-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/7bce126e-92a6-3e36-8777-baa8f2c296d3/8615407273-500.jpg" data-tags="folk" role="button">
-Tracy Chapman - New Beginning (1995-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/16b92612-7634-4053-8464-b1b0e18847f2/5641031475-500.jpg" data-tags="female" role="button">
 Dar Williams - Mortal City (1996)
@@ -240,6 +237,9 @@ Kina Grannis - Stairwells (2010-02-23)
 <li data-cover="http://coverartarchive.org/release/a487484a-7cb9-481b-b2c3-eef160de32b7/25696440606-500.jpg" data-tags="female, 2010s, xl recordings, 2010 releases, alben, black background album covers, vintage album covers, collage album covers, fantasy album covers, moon album covers" role="button">
 Karen Elson - The Ghost Who Walks (2010-05-24)
 </li>
+<li data-cover="https://img.discogs.com/Z8czKdd8IZiPB5S4Vg5zr3A3CxA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5089550-1398468985-9627.jpeg.jpg" data-tags="robyn" role="button">
+Robyn - Dancing on My Own (2010-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/2f98fe9b-b0ff-4cbe-a364-0d2c817121aa/14397468250-500.jpg" data-tags="lissie" role="button">
 Lissie - Catching A Tiger (2010-06-18)
 </li>
@@ -252,7 +252,7 @@ Robyn - Hang With Me (2010-08-09)
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/db805c04-16c1-4464-9811-74488445339b/9613183966-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, guilty pleasure, buy, j, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, nuggets, bananas, x, meat" role="button">
+<li data-cover="http://coverartarchive.org/release/db805c04-16c1-4464-9811-74488445339b/9613183966-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, buy, j, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, nuggets, bananas, x, meat" role="button">
 Robyn - Indestructible (2010-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a63484c0-7f7c-41c8-9f9d-64b1aaebea26/17946332248-500.jpg" data-tags="willow smith" role="button">
@@ -297,7 +297,7 @@ Daughter - If You Leave (2013-03-18)
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
 </li>
-<li data-cover="https://img.discogs.com/dbN6n83BE7ZXSQn9w7nqnvVaB0U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4960708-1380744325-6489.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/W-s2RzVMFNqn7fldhLM6BPtsXnQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12351444-1533493817-5998.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
 Selena Gomez - Come & Get It (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
