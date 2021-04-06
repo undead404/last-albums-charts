@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:42:01.431Z
+date: 2021-04-06T02:00:01.421Z
 title: "haunting: 100 albums you must listen to before you die"
 ---
 ![The Antlers - Hospice (2009-03-03)](https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg "The Antlers - Hospice (2009-03-03)")
@@ -33,7 +33,10 @@ Nico - Desertshore (1970-12)
 <li data-cover="https://img.discogs.com/1Zujvro9LZft-woUrC-PoE5GNDE=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789775-1300432434.jpeg.jpg" data-tags="krautrock, ambient" role="button">
 Popol Vuh - Aguirre (1975)
 </li>
-<li data-cover="https://img.discogs.com/e_SslAmovhsXK1DpjlHEoktdC5Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081136-1192439541.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="haunting, vangelis" role="button">
+Vangelis - Ignacio (1975)
+</li>
+<li data-cover="https://img.discogs.com/9WWUjiFWsOtUHL-mRU3JGZBLzeQ=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9654585-1549759640-3366.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
 The Birthday Party - Mutiny (1983-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
@@ -72,9 +75,6 @@ Tori Amos - Boys for Pele (1996-01-16)
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/ceab4f42-e973-470d-bc83-12ca82166581/2705249174-500.jpg" data-tags="progressive rock, psychedelic, space rock" role="button">
-Ozric Tentacles - Curious Corn (1997-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/72b14bd8-05f8-4cd3-8510-b2f637a14693/8137290813-500.jpg" data-tags="pop, alternative, ambient, haunting, magical, kitty5" role="button">
 Vacuum - Seance at the Chaebol (1998)
 </li>
@@ -87,7 +87,7 @@ Cat Power - Moon Pix (1998-09-22)
 <li data-cover="http://coverartarchive.org/release/c2b99ec3-2761-4874-bd22-8890ef358119/3128751725-500.jpg" data-tags="soundtrack, post-hardcore" role="button">
 Fugazi - Instrument Soundtrack (1999-03-23)
 </li>
-<li data-cover="https://img.discogs.com/4t-j7R8w-Ul0JuSuJpKRI8b-LCw=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2877410-1305265586.jpeg.jpg" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/MBujGYUFhu_ybu1QuhwEbUyFA6I=/fit-in/597x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1790355-1243493488.jpeg.jpg" data-tags="ambient" role="button">
 David Sylvian - Dead Bees on a Cake (1999-03-29)
 </li>
 <li data-cover="https://img.discogs.com/aX3zG8n5AQQA-8vAyRHX4qrULOQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182949-1447010819-2515.jpeg.jpg" data-tags="pop, haunting, vacuum, good times, kitty5, vacuum - culture of night" role="button">
@@ -123,9 +123,6 @@ Alias - The Other Side Of The Looking Glass (2002-05-28)
 <li data-cover="https://img.discogs.com/8M6BkDTG3KIUapd4JKOCMic_cjE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199115-1543624095-1762.jpeg.jpg" data-tags="alt-country" role="button">
 Neko Case - Blacklisted (2002-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1df1c3e-2db3-4842-88d1-3c7e2d8adaef/1772855366-500.jpg" data-tags="greek, folk, ethereal, neofolk" role="button">
-Daemonia Nymphe - Daemonia Nymphe (2002-09)
-</li>
 <li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">
 Sigur Rós - ( ) (2002-10-23)
 </li>
@@ -150,6 +147,9 @@ Midlake - Bamnan and Slivercork (2004-06-08)
 <li data-cover="http://coverartarchive.org/release/ac140944-91f4-4035-bc46-187769f78e27/12401523730-500.jpg" data-tags="alternative, chamber pop, baroque pop" role="button">
 The Divine Comedy - Absent Friends (2004-06-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/33748406-1a76-4222-a933-90ad7fb71be7/2887420479-500.jpg" data-tags="acid lounge, lounge groove, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, downtempo lounge, acoustic groove, chillout downtempo, lounge downtempo, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, lounge electronic, my lounge room, sweet downtempo, ouahhhhh, tropcool, lounge vibe, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, served chilled, sexy sounding, 1st vine acid, chilllounge1, down-tempo vibe, downtempo vibe, lounge jazz vibe, trip-hop, jazz-trip, electronic lounge jazz, lounge uptempo, acid jazz vibe, jazzy down tempo vibe, jazzy down-tempo vibe, jazzy downtempo vibe, jazzy trip" role="button">
+Martina Topley-Bird - Anything (2004-07-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
 Narsilion - Nerbeleth (2004-10)
 </li>
@@ -158,9 +158,6 @@ Stellamara - The Seven Valleys (2004-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ecb0e31-2521-4eff-a5eb-e1002c92d507/10262260410-500.jpg" data-tags="genital panic" role="button">
 Antony and the Johnsons - The Lake (2004-11-02)
-</li>
-<li data-cover="https://img.discogs.com/Ra409h3OF_x9ro9ZqlbxjEdaeAA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-389942-1357888143-7484.jpeg.jpg" data-tags="idm, electronic, ambient" role="button">
-Deru - Trying to Remember (2004-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4a6ef09-5b44-47da-965f-fb36774d48ca/3651521402-500.jpg" data-tags="world, persian" role="button">
 Niyaz - Niyaz (2005-04-19)
@@ -183,8 +180,14 @@ The Sound of Animals Fighting - Lover, The Lord Has Left Us... (2006-05-16)
 <li data-cover="https://img.discogs.com/RG3jbpCybPXAwBSkqGgwMGAfrvs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380355-1265690428.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Fionn Regan - The End Of History (2006-08-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pure awesome, great album top to bottom" role="button">
+As Tall As Lions - As Tall As Lions (2006-08-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/db7a53e9-8865-4756-9d26-157e4f50d165/19887853784-500.jpg" data-tags="electronic" role="button">
 Emilie Autumn - Opheliac (2006-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/e78cf01f-333e-4211-ae80-a41748961d3f/4812141654-500.jpg" data-tags="singer-songwriter, canadian" role="button">
+Patrick Watson - Close To Paradise (2006-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcbcef2e-5199-4652-8025-0e831360bd6f/12658357114-500.jpg" data-tags="indie" role="button">
 Bad Astronaut - Twelve Small Steps, One Giant Disappointment (2006-11-14)
@@ -273,9 +276,6 @@ Oneohtrix Point Never - Rifts (2009-10-20)
 <li data-cover="https://img.discogs.com/UTll5FKnEKbNTMF25QUB202FbEI=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681886-1302035746.jpeg.jpg" data-tags="haunting, dark folk, erotic, amazing voice, aurgasm, very trippy, beautiful vocalist, katie jane garside is redhot, bring the sea to my ankles" role="button">
 Ruby Throat - Out of A Black Cloud Came A Bird (2009-11-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/e39a7d41-39be-44b8-8d66-03fd02fc3023/15711725859-500.jpg" data-tags="drone" role="button">
-Black To Comm - Alphabet 1968 (2009-11-23)
-</li>
 <li data-cover="https://img.discogs.com/ujy_Z4rPIjTCLJp6ZfsaU00QGV8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2166288-1267583927.jpeg.jpg" data-tags="electronic, experimental, idm, glitch, ambient" role="button">
 Deru - Say Goodbye To Useless (2010-03-09)
 </li>
@@ -285,7 +285,7 @@ We Are the Fallen - Tear The World Down (2010-05-07)
 <li data-cover="http://coverartarchive.org/release/d12fe86c-4e91-4b2f-98ca-c7045c195a3b/6735333223-500.jpg" data-tags="dream pop, experimental" role="button">
 Grimes - Halfaxa (2010-10-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, haunting, to listen list" role="button">
+<li data-cover="https://img.discogs.com/GOT-h6fZScrjoYFp62sK8Itorx4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3480435-1339642223-7480.jpeg.jpg" data-tags="indie, haunting, to listen list" role="button">
 Forest Fire - Staring At the X (2011)
 </li>
 <li data-cover="https://img.discogs.com/QQ5PeCZFtM8w8mfWep4zgaF5U6A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2747395-1299228310.jpeg.jpg" data-tags="electronic" role="button">

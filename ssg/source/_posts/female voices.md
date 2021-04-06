@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:16:01.279Z
+date: 2021-04-06T02:07:01.388Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -54,7 +54,7 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://img.discogs.com/-19eyFKbKrKe9wITVHqsY70mWkk=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207611-1544185488-4226.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
+<li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
 The Gathering - Nighttime Birds (1997-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/03546bfc-3a7f-47a7-86ec-e4d44d5d64c2/5263609419-500.jpg" data-tags="pop, soul, female voices, girlgroup, the remix album" role="button">
@@ -95,6 +95,9 @@ Lucinda Williams - Essence (2001-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9da0b125-dd59-4934-acb7-cc59b07d4a70/14746157674-500.jpg" data-tags="soul, pop, mariah carey, soundtrack, hip-hop" role="button">
 Mariah Carey - Glitter (2001-08-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="country" role="button">
+Kasey Chambers - Barricades & Brickwalls (2001-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/60ba810a-a944-4649-b1f6-081a6afd8047/8198458307-500.jpg" data-tags="canadian, singer-songwriter, americana" role="button">
 Kathleen Edwards - Failer (2002)
@@ -150,7 +153,7 @@ Stereolab - Margerine Eclipse (2004-01-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Diana Krall - The Girl In The Other Room (2004-03-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="worship" role="button">
+<li data-cover="https://img.discogs.com/e912qrOd4otrTGXFzAlyA8eDNc8=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2926815-1307657118.jpeg.jpg" data-tags="worship" role="button">
 Bethany Dillon - Bethany Dillon (2004-04-20)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -173,9 +176,6 @@ Geri Halliwell - Passion (2005-06-06)
 </li>
 <li data-cover="https://img.discogs.com/jHAwF2obSvLb60gyHjO5nELWdME=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125967-1265452903.jpeg.jpg" data-tags="new age, ambient, electronic, trip-hop, world fusion, chillout" role="button">
 Modus - The Colour of Love (2006)
-</li>
-<li data-cover="https://img.discogs.com/giNZH8F_a4Lq_kp-oI4fXVZdqhQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659495-1171225004.jpeg.jpg" data-tags="industrial" role="button">
-Android Lust - Devour, Rise, and Take Flight (2006-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e4299ab-59b0-4eba-b110-56138bada793/7340888848-500.jpg" data-tags="jazz vocal, jazz, soul, female vocalists" role="button">
 Cassandra Wilson - thunderbird (2006-04-04)

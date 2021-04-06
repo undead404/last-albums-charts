@@ -1,13 +1,13 @@
 ---
-date: 2021-04-05T09:40:01.328Z
+date: 2021-04-06T02:03:01.368Z
 title: "classic: 100 albums you must listen to before you die"
 ---
-![Big L - Lifestylez Ov Da Poor &amp; Dangerous (1995-03-28)](http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg "Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)")
+![Nas - Illmatic (1994-04-15)](https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg "Nas - Illmatic (1994-04-15)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
+<li data-cover="https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
 <li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)</li>
-<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
+<li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg" data-tags="hip-hop, rap" role="button">Nas - Stillmatic (2001-12-08)</li>
@@ -99,7 +99,7 @@ Black Moon - Enta Da Stage (1993-10-19)
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - The Downward Spiral (1994-03-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/7gv4UVFJgVYB_fSUk7ydvQvY3NI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-229631-1471505614-7018.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd351957-3aaf-48ba-ad53-a6baee00ef64/14583668157-500.jpg" data-tags="hip hop" role="button">
@@ -129,13 +129,13 @@ Ben Harper - Fight For Your Mind (1995-07)
 <li data-cover="https://img.discogs.com/EXamPlwUDqixPmqrwB3cC3rueyM=/fit-in/590x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6961156-1430479331-7038.jpeg.jpg" data-tags="classical" role="button">
 Wolfgang Amadeus Mozart - Requiem (1995-10-02)
 </li>
-<li data-cover="https://img.discogs.com/zS6K-dUHisH0OBkxm8rMTE4JEq8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-176596-1160583262.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/Z3sXopc4WkOrNBIhD335GlnmkWY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-208109-1418654298-6845.jpeg.jpg" data-tags="hip-hop" role="button">
 GZA/Genius - Liquid Swords (1995-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/391339a8-de89-4817-80c3-08c0557941f5/15298625389-500.jpg" data-tags="classic, rap, real hip-hop, hiphop classic albums, my collection great 150 albumz of rap, hs-college, 5 star rap, pih-poh" role="button">
 LL Cool J - Mr. Smith (1995-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap, west coast" role="button">
+<li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
@@ -149,9 +149,6 @@ DJ Shadow - Endtroducing..... (1996-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/82e96230-b09b-4eed-90bf-87922b031a08/15595475285-500.jpg" data-tags="hip-hop, classic, rap, underground rap, political, west coast, stuff to check out, conscious hip-hop, west coast rap, conscious, underground hiphop, west coast hiphop, listen carefully, jbtv recommendation, excellent lyricism, hot to def, check the wordplay, educate yourself, real life rhymes, lyrics to learn from, mixed memories" role="button">
 Ras Kass - Soul On Ice (1996-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, 1996, indie" role="button">
-Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c32f859-d4e0-4ee5-a7cd-326465de2df2/25761719374-500.jpg" data-tags="classic rock" role="button">
 The Kinks - The Singles Collection (1997-09-29)
@@ -180,7 +177,7 @@ Songs: Ohia - The Lioness (2000-01-17)
 <li data-cover="http://coverartarchive.org/release/0a99dfdc-ae96-4a2d-86fe-0463445c8e8f/9828533799-500.jpg" data-tags="hip-hop" role="button">
 Jurassic 5 - Quality Control (2000-06-19)
 </li>
-<li data-cover="https://img.discogs.com/M8g9GCwgDVuE1QPP0beShcLsYLg=/fit-in/456x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588009-1337280111-7559.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
@@ -260,6 +257,9 @@ Eric B. & Rakim - Gold (2005-06-14)
 </li>
 <li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
+Sublime - Gold (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3655e9f-3db1-434d-bb4b-3529d09b2989/1373313355-500.jpg" data-tags="instrumental hip-hop, hip-hop" role="button">
 J Dilla - Donuts (2006-02-07)

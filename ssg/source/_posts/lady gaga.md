@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:33:01.357Z
+date: 2021-04-06T02:15:01.469Z
 title: "lady gaga: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame Monster (2008-08-19)](http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg "Lady Gaga - The Fame Monster (2008-08-19)")
@@ -30,7 +30,7 @@ Gentle Giant - The Missing Piece (1977-08)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="heavy metal" role="button">
 U.D.O. - Animal House (1987)
 </li>
-<li data-cover="https://img.discogs.com/qw-VJs7tBLUFvxKZGA07A6iYCPI=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299781-1346227192-6886.jpeg.jpg" data-tags="rock, italian rock, 90s" role="button">
+<li data-cover="https://img.discogs.com/MKP0yinQN_77bfT9964s9iLB6-Q=/fit-in/242x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2707105-1297430288.jpeg.jpg" data-tags="rock, italian rock, 90s" role="button">
 Litfiba - El Diablo (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa63a5bd-d36a-43a3-a622-c813e72da497/14482581925-500.jpg" data-tags="lo-fi" role="button">
@@ -168,6 +168,9 @@ Deep Purple - Live In Stuttgart 1993 (2007-01-08)
 <li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
 Marcus Miller - Free (2007-06-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/5cf6b377-657c-4faf-96b9-57c736cbc5ae/12437174575-500.jpg" data-tags="lady gaga" role="button">
+Lady Gaga - Christmas Tree (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/c63950ef-39ec-498f-82e2-8c2eeb139619/21211516680-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, funk, retro, funky, groovy, italian, jecks, elettro-pop" role="button">
 Il Genio - Il Genio (2008-03-21)
 </li>
@@ -245,9 +248,6 @@ Lady Gaga - Born This Way (2011-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/de9296a6-63ce-4aaf-80db-3b3755ec641e/14567835673-500.jpg" data-tags="dance, pop, latin, latin pop" role="button">
 Dulce María - Extranjera - Primera Parte (2011-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/38c90ad7-1f91-4c8e-8481-ae19ab9a284e/1982400038-500.jpg" data-tags="experimental, rock, alternative" role="button">
-志方あきこ - 空蝉 (2011-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2dafb146-aa42-48b5-9d1f-333371a5a2eb/11636647163-500.jpg" data-tags="jazz, tony bennett" role="button">
 Tony Bennett - Duets II (2011-09-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:24:01.458Z
+date: 2021-04-06T02:04:01.347Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -80,9 +80,6 @@ Mansun - Six (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c20d297-121e-47d0-aa3a-8f27c7a06553/1987152110-500.jpg" data-tags="progressive metal" role="button">
 Liquid Tension Experiment - Liquid Tension Experiment 2 (1999-06-15)
-</li>
-<li data-cover="https://img.discogs.com/OoYqRaioExYwRVxBBVILXXa8h8g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381539-1234352618.jpeg.jpg" data-tags="experimental, avant-garde, mike patton" role="button">
-Mr. Bungle - California (1999-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Still Life (1999-10-18)
@@ -192,7 +189,7 @@ Thrice - Vheissu (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
 </li>
-<li data-cover="https://img.discogs.com/kTkE93U4Mhrw6hqBTCYmyjFYOwA=/fit-in/588x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120756-1193675519.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/j1cw6tuQlOTPr5DUd7X3pffrDkI=/fit-in/483x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2602279-1292652149.jpeg.jpg" data-tags="progressive rock" role="button">
 David Gilmour - On an Island (2006-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/93fe8df9-69d1-4bfb-8957-c08882b10450/3576020946-500.jpg" data-tags="trip-hop, ambient, indie pop, downbeat, progressive, soft, nice, indie folk, lovely, leftfield, hupin, from beginning to end" role="button">
@@ -300,7 +297,7 @@ Dead Letter Circus - This Is The Warning (2010-05-14)
 <li data-cover="http://coverartarchive.org/release/17f23c51-feb7-4e84-b77e-00599724e0b5/15620501484-500.jpg" data-tags="indie, ambient, experimental, progressive rock, progressive, post-hardcore, progressive indie, progressive emopop" role="button">
 Tides of Man - Dreamhouse (2010-09-14)
 </li>
-<li data-cover="https://img.discogs.com/_w_QBKjYNjvi9zCZ7SUls_sbEsE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2920198-1307356470.jpeg.jpg" data-tags="electronic, electro, progressive, synthpop" role="button">
+<li data-cover="https://img.discogs.com/VAvDJ2Y0DjTdcd0JEA1Jlpzx-Ls=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3166660-1424964604-2996.jpeg.jpg" data-tags="electronic, electro, progressive, synthpop" role="button">
 Goose - Synrise (2011-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
@@ -308,6 +305,9 @@ Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Karnivool - Asymmetry (2013-07-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/4d284c99-9d7a-4c79-bf16-ceffd78c32b4/6732933359-500.jpg" data-tags="jazz fusion" role="button">
+Snarky Puppy - We Like It Here (2014-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb4a5bb-bc24-4b4d-b1f5-e5a07397d980/8395692349-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Pale Communion (2014-06-17)
