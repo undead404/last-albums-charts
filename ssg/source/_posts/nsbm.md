@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:54:01.317Z
+date: 2021-04-06T08:29:01.532Z
 title: "nsbm: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -29,9 +29,6 @@ Scorpions - Virgin Killer (1976-10-09)
 </li>
 <li data-cover="https://img.discogs.com/bJonz8HoYkbzy08B85fViJP0zA8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4798971-1593743753-7149.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
 Insane Clown Posse - Carnival of Carnage (1992-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4454341-8ae3-4339-b176-ab8c5a1d5a63/3555034678-500.jpg" data-tags="black metal" role="button">
-Graveland - In the Glare of Burning Churches (1993-06)
 </li>
 <li data-cover="https://img.discogs.com/rYGnelHsce98oMbmyt_XL6img-g=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15680849-1595798643-8925.jpeg.jpg" data-tags="hip-hop, detroit, second wave black metal" role="button">
 Insane Clown Posse - Ringmaster (1994-03-08)
@@ -117,8 +114,8 @@ Avril Lavigne - My World (2003-11-03)
 <li data-cover="https://img.discogs.com/JXaLMhJYJVL7tqQHgpYmv60fUqY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454482-1333877155.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e6e245c-c3f8-4979-8695-932f850527ab/4823942271-500.jpg" data-tags="finnish black metal" role="button">
-Goatmoon - Death Before Dishonour (2004)
+<li data-cover="http://coverartarchive.org/release/db5378bf-9c01-4e0b-bb94-7c513702628d/5286642160-500.jpg" data-tags="nsbm" role="button">
+Absurd - Raubritter (2004)
 </li>
 <li data-cover="https://img.discogs.com/BDgL5nX1Jl1xxDtrcJRoeXNV-gM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5448073-1513592837-9784.jpeg.jpg" data-tags="black metal, folk metal, nsbm" role="button">
 Nokturnal Mortum - Weltanschauung (2004)
@@ -140,9 +137,6 @@ Jonas Brothers - It's About Time (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
-</li>
-<li data-cover="https://img.discogs.com/8FpU6Unpcf7Iy4UX_8bfdogAdBw=/fit-in/325x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044015-1187498923.jpeg.jpg" data-tags="nsbm, greek, national socialist, adolf hitler" role="button">
-Der Stürmer - A Banner Greater than Death (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
 Paris Hilton - Paris (2006-08-14)
@@ -171,6 +165,9 @@ Peste Noire - Folkfuck Folie (2007-06-18)
 <li data-cover="http://coverartarchive.org/release/3fa69ffc-f152-3fcc-870e-5c3dbef29e04/19154247481-500.jpg" data-tags="rock, alternative, russian, russian rock" role="button">
 Мумий Тролль - Амба (2007-07-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop" role="button">
+Jonas Brothers - Jonas Brothers (2007-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/11d79e6c-e76c-4e77-82e7-22acd02f8c8a/5367819571-500.jpg" data-tags="pop, finnish, grim, nsbm" role="button">
 Anna Abreu - Anna Abreu (2007-08-16)
 </li>
@@ -183,7 +180,7 @@ Absurd - Der Fünfzehnjährige Krieg (2008-03)
 <li data-cover="http://coverartarchive.org/release/5ed04d65-ea30-49f9-813f-954a85713612/1939044716-500.jpg" data-tags="crunkcore, scremo" role="button">
 Brokencyde - BC13 (2008-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d61f004-5a17-4202-a209-cedbedfe9bf1/28731825492-500.jpg" data-tags="hip-hop, pop, urban, female voices, nsbm, gay metal, mallcore, kircore, chuck norris does not approve, useless, virgin metal, fag metal, approved by satan, slutcore, things i will never listen to, hitlercore, florida hip-hop, nazicore, symphonic gay metal, worst albums of 2008, worst songs of 2008, things i am not responsible for, useless people, droopy eyed bitch" role="button">
+<li data-cover="http://coverartarchive.org/release/1d61f004-5a17-4202-a209-cedbedfe9bf1/28731825492-500.jpg" data-tags="hip-hop, pop, urban, female voices, nsbm, mallcore, kircore, chuck norris does not approve, useless, virgin metal, fag metal, approved by satan, slutcore, things i will never listen to, hitlercore, florida hip-hop, nazicore, symphonic gay metal, worst albums of 2008, worst songs of 2008, things i am not responsible for, useless people, droopy eyed bitch" role="button">
 Trina - Still Da Baddest (2008-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/51eab306-8240-4c4c-83a8-b320b3651815/9668781634-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm" role="button">
@@ -195,7 +192,7 @@ Blood on the Dance Floor - It's Hard to Be a Diamond in a Rhinestone World (2008
 <li data-cover="http://coverartarchive.org/release/944c0440-8285-4a98-bcea-238e51f534e3/2512771498-500.jpg" data-tags="crunkcore" role="button">
 Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
-<li data-cover="https://img.discogs.com/FjLGaTafIscM8hQMlZ18AdraIVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7271769-1437699076-6523.jpeg.jpg" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/37592a76-6878-331b-a8c8-5d3bcad37b6e/15565825641-500.jpg" data-tags="electronic, synthrock" role="button">
@@ -204,8 +201,11 @@ Apoptygma Berzerk - Rocket Science (2009-01-23)
 <li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
-<li data-cover="https://img.discogs.com/iUPdTMhg_pQTayrBR7f7ocas4-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1705288-1560024195-9679.jpeg.jpg" data-tags="electronic, goth, electro, industrial, synth, gangsta rap, asian, dark electro, darkwave, j-pop, hippie, lulz, nsbm, satan, fascist, gay metal, lolicore, cute music, mallcore, racist, shemale fronted metal, pedometal, kawaii, moron, marry me, failed at life, mai waifu, even emos are not so gay, trollcore, blackened j-pop, musik mit niveau, national socialism, deep and touching lyrics as deep as a ten year old girl vagina, looks like my grandma, king harkinian would not be proud, i will eat your babies, makes me vomit, post kircore, brutal lolicore, does not look like my grandma, even emos are not so gay although i hate emos, joey de moron, rhapsody is so much better than this crap, h8ers only make her stronger, only gays dont like this music, not a colossal faggot, loli fucker" role="button">
+<li data-cover="https://img.discogs.com/iUPdTMhg_pQTayrBR7f7ocas4-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1705288-1560024195-9679.jpeg.jpg" data-tags="electronic, goth, electro, industrial, synth, gangsta rap, asian, dark electro, darkwave, j-pop, hippie, lulz, nsbm, satan, fascist, lolicore, cute music, mallcore, racist, shemale fronted metal, pedometal, kawaii, moron, marry me, failed at life, mai waifu, even emos are not so gay, trollcore, blackened j-pop, musik mit niveau, national socialism, deep and touching lyrics as deep as a ten year old girl vagina, looks like my grandma, king harkinian would not be proud, i will eat your babies, makes me vomit, post kircore, brutal lolicore, does not look like my grandma, even emos are not so gay although i hate emos, joey de moron, rhapsody is so much better than this crap, h8ers only make her stronger, only gays dont like this music, not a colossal faggot, loli fucker" role="button">
 GPKISM - Atheos (2009-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/5912f8e6-fa41-481b-a434-e766a17df497/4767018368-500.jpg" data-tags="miley cyrus" role="button">
+Miley Cyrus - The Climb (2009-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
@@ -273,7 +273,7 @@ Attila - Outlawed (2011-08-16)
 <li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
 </li>
-<li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
+<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="https://img.discogs.com/bvJSnQIcsE1DsaE1x0l2hu7_j0Y=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4970814-1380972078-3562.jpeg.jpg" data-tags="single, nsbm, anarchist black metal, rabm, national socialist black metal, how you remind me, communist black metal, nickelback cover" role="button">

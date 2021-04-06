@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:34:01.375Z
+date: 2021-04-06T07:49:01.435Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - The Best Damn Thing (2007-04-13)](http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg "Avril Lavigne - The Best Damn Thing (2007-04-13)")
@@ -10,8 +10,8 @@ title: "pop rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - The Best Damn Thing (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">Katy Perry - One of the Boys (2008-06-17)</li>
-<li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">The Script - The Script (2008-08-11)</li>
 <li data-cover="http://coverartarchive.org/release/86da059c-2af3-43f4-897e-d3f7fa3f5a75/2333307730-500.jpg" data-tags="pop" role="button">Adam Lambert - For Your Entertainment (2009-11-20)</li>
+<li data-cover="http://coverartarchive.org/release/5de593ea-432e-4cec-addc-2a3ec28079ad/1708845679-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - Goodbye Lullaby (2011-03-02)</li>
 <li data-cover="http://coverartarchive.org/release/f823905a-102e-471f-b6aa-3ff6f575986c/9697439439-500.jpg" data-tags="pop rock" role="button">OneRepublic - Native (2013-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">Fall Out Boy - Save Rock and Roll (2013-04-12)</li>
 </ol>
@@ -75,9 +75,6 @@ P!nk - Try This (2003-11-10)
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
 Avril Lavigne - Under My Skin (2004-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
-James Blunt - Back to Bedlam (2004-04-15)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">
 Ashlee Simpson - Autobiography (2004-07-20)
 </li>
@@ -101,9 +98,6 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
-McFly - Wonderland (2005-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
 Cartel - Chroma (2005-09-20)
@@ -159,11 +153,11 @@ Toto - Toto (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/e6454561-2af7-460b-9b8c-d482b7c8a49d/15751521122-500.jpg" data-tags="pop, pop rock, male vocalists" role="button">
+Gavin DeGraw - Gavin DeGraw (2008-05-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
 Katy Perry - One of the Boys (2008-06-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
-The Script - The Script (2008-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/82f35278-fef9-4543-919f-838dd8b5ab35/14358628966-500.jpg" data-tags="pop rock, pop, demi lovato" role="button">
 Demi Lovato - Don't Forget (2008-09-23)
@@ -243,6 +237,9 @@ Gavin DeGraw - Sweeter (2011-09-20)
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae13c2c9-0d87-4653-9cc3-379a9602714a/10152453902-500.jpg" data-tags="pop rock" role="button">
+Kelly Clarkson - Stronger (2011-10-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
 Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
 </li>
@@ -287,6 +284,9 @@ The Neighbourhood - I Love You. (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cab788d3-7e52-49d5-a4d8-7caaa1acbf48/4412443717-500.jpg" data-tags="alternative" role="button">
 Arctic Monkeys - Do I Wanna Know? (2013-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">
+Sara Bareilles - The Blessed Unrest (2013-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)

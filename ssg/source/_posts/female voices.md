@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T02:07:01.388Z
+date: 2021-04-06T08:18:01.780Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -30,12 +30,6 @@ Joan Baez - Greatest Hits (1983)
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/25eb2735-82dc-4503-bd33-82fbe8c4722f/3167361145-500.jpg" data-tags="ska, ska punk" role="button">
-No Doubt - No Doubt (1992-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc3092e3-d095-4fcb-85a9-89cbef7c3c74/15352415252-500.jpg" data-tags="country" role="button">
-Mary Chapin Carpenter - Come On Come On (1992-06-30)
-</li>
 <li data-cover="https://img.discogs.com/WlmK366nWzaikCSrtbbNmYzpHBw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-989220-1509823212-1559.jpeg.jpg" data-tags="rock, pop" role="button">
 Edyta Bartosiewicz - Sen (1994)
 </li>
@@ -45,7 +39,7 @@ Björk - Hyperballad (1995)
 <li data-cover="http://coverartarchive.org/release/052f365f-beb2-4794-90e0-f272c266e973/18446288488-500.jpg" data-tags="country, skeeter davis" role="button">
 Skeeter Davis - The Essential Skeeter Davis (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eb2ecb0-0749-48c7-976b-f3c8e5dfef27/4421207756-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, acoustic, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, alt-country, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alt country, alternative country, alternative pop, hot, new folk, ohio, sxsw, fivestar, lovely, visual, female voices, addictive, sweet, i like this, truth, misc, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, listen, anima, alt-pop, front porch, adult, people who are freakier and folkier than motherfucking devendra banhart, shady, special, river, north america, girls girls girls, i have seen live, relationships, really good" role="button">
+<li data-cover="http://coverartarchive.org/release/4eb2ecb0-0749-48c7-976b-f3c8e5dfef27/4421207756-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, acoustic, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, alt-country, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alt country, alternative country, alternative pop, hot, new folk, ohio, sxsw, fivestar, lovely, visual, female voices, addictive, sweet, i like this, truth, misc, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, anima, alt-pop, front porch, adult, people who are freakier and folkier than motherfucking devendra banhart, shady, special, river, north america, girls girls girls, i have seen live, relationships, really good" role="button">
 Over the Rhine - Good Dog Bad Dog: The Home Recordings (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
@@ -66,7 +60,7 @@ Lacuna Coil - Lacuna Coil (1998-01-26)
 <li data-cover="http://coverartarchive.org/release/4b5a8b95-b166-4430-b783-2e9c8b4e9314/28517502581-500.jpg" data-tags="pop, soul, urban, female voices, 90s female rnb, albums i worked on" role="button">
 Monifah - Mo'Hogany (1998-08-25)
 </li>
-<li data-cover="https://img.discogs.com/83AKxVsG4U0H2H6CXE_mZ4hAYDw=/fit-in/460x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12799374-1542177077-2049.jpeg.jpg" data-tags="country, bluegrass" role="button">
+<li data-cover="https://img.discogs.com/PjLIfmOWjgDGPiyxfzieYy-zAUY=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1895046-1256156961.jpeg.jpg" data-tags="country, bluegrass" role="button">
 Alison Krauss - Forget About It (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb39ca06-62d7-46a4-867d-a66d9757fcd7/18717539752-500.jpg" data-tags="goth, darkwave, female voices, old memories, albums i own digitally, recommendations and such, meowgasmic favorite, gloomy music, t ascenslon" role="button">
@@ -96,7 +90,7 @@ Lucinda Williams - Essence (2001-06-05)
 <li data-cover="http://coverartarchive.org/release/9da0b125-dd59-4934-acb7-cc59b07d4a70/14746157674-500.jpg" data-tags="soul, pop, mariah carey, soundtrack, hip-hop" role="button">
 Mariah Carey - Glitter (2001-08-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/iQa0M6yl1b4O_8-jj37_XjYh2K4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2610804-1293076653.jpeg.jpg" data-tags="country" role="button">
 Kasey Chambers - Barricades & Brickwalls (2001-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/60ba810a-a944-4649-b1f6-081a6afd8047/8198458307-500.jpg" data-tags="canadian, singer-songwriter, americana" role="button">
@@ -249,6 +243,9 @@ Annie - Don't Stop (2008-08)
 <li data-cover="https://img.discogs.com/hvwrsdt7Le86HEpqOvnSzL40b1Q=/fit-in/497x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488405-1223451575.jpeg.jpg" data-tags="indie pop" role="button">
 Jenny Lewis - Acid Tongue (2008-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
+Jazmine Sullivan - Fearless (2008-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd049998-44f1-4ca1-9b38-853b25772a12/10361330463-500.jpg" data-tags="indie, female vocalists" role="button">
 Ingrid Michaelson - Be OK (2008-10-14)
 </li>
@@ -300,7 +297,7 @@ Shontelle - No Gravity (2010-01-01)
 <li data-cover="https://img.discogs.com/uckogPE9fvq75RkU-_4_rjdrAVc=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2427564-1452873241-2767.jpeg.jpg" data-tags="indie, jazz, bossa nova, female vocalists, singer-songwriter, singersongwriter, acoustic, deutsch, german, berlin, female vocalist, liedermacher, female voices" role="button">
 Dota und die Stadtpiraten - Bis auf den Grund (2010-04-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/82f002b0-6da7-42d4-9ad5-1aea3e4b65d3/6624527259-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alternative pop, warm, hot, new folk, ohio, sxsw, lovely, visual, female voices, addictive, sweet, i like this, truth, misc, cross rhythms, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, listen, anima, front porch, people who are freakier and folkier than motherfucking devendra banhart, shady, special, 2011 releases, river, north america, girls girls girls, i have seen live, relationships, really good, cosmic american music, husband and wife, down to earth, filtered, amazing vocals, real music" role="button">
+<li data-cover="http://coverartarchive.org/release/82f002b0-6da7-42d4-9ad5-1aea3e4b65d3/6624527259-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alternative pop, warm, hot, new folk, ohio, sxsw, lovely, visual, female voices, addictive, sweet, i like this, truth, misc, cross rhythms, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, anima, front porch, people who are freakier and folkier than motherfucking devendra banhart, shady, special, 2011 releases, river, north america, girls girls girls, i have seen live, relationships, really good, cosmic american music, husband and wife, down to earth, filtered, amazing vocals, real music" role="button">
 Over the Rhine - The Long Surrender (2010-04-23)
 </li>
 <li data-cover="https://img.discogs.com/iUEJeR71OP0CcXpMOPGfx5BLPoE=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2613942-1293296975.jpeg.jpg" data-tags="soul, female vocalists, rnb" role="button">
@@ -311,6 +308,9 @@ Natasha Bedingfield - Strip Me (2010-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5f6df4b-ae7f-4ef4-8e30-bc5d66dcd495/7229454847-500.jpg" data-tags="60s" role="button">
 The Crystals - Da Doo Ron Ron: The Very Best of The Crystals (2011-02-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+Kelly Rowland - Grown Woman (2011-07-27)
 </li>
 <li data-cover="https://img.discogs.com/cXWg8j0UYlRLsOvjKEW9mwzWqIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5189733-1459317279-9995.jpeg.jpg" data-tags="electronic, electropop, synth-pop" role="button">
 Ladytron - Gravity the Seducer (2011-08-25)

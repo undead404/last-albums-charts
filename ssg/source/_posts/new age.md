@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:47:01.359Z
+date: 2021-04-06T07:53:01.578Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -30,7 +30,7 @@ Popol Vuh - Hosianna Mantra (1972)
 <li data-cover="https://img.discogs.com/A8Q1FjBMKODKL1WWbAaHEsGrkE0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501853-1219671378.jpeg.jpg" data-tags="new age, chillout" role="button">
 Mythos - Mythos (1972)
 </li>
-<li data-cover="https://img.discogs.com/jsxWVE28Otena8r1miNmaZHcWdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2285116-1274730951.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/LFU49Frc3pzG0uWJwi4SlJPETaU=/fit-in/590x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1243696-1500064351-6876.jpeg.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Hergest Ridge (1974-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe768488-bf44-4fee-8309-1e010f5e31a3/11969072130-500.jpg" data-tags="progressive rock, new age" role="button">
@@ -123,7 +123,7 @@ Enya - The Memory of Trees (1995-11-21)
 <li data-cover="http://coverartarchive.org/release/e6ad5820-ad0a-3a8d-9dc8-5588aa4643d9/9943104925-500.jpg" data-tags="era, new age" role="button">
 Era - Era (1996)
 </li>
-<li data-cover="https://img.discogs.com/9qS5kbixRguzBDHqPqoIzy-kDus=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102903-1617390014-2123.jpeg.jpg" data-tags="new age, enigma" role="button">
+<li data-cover="https://img.discogs.com/jx5m4pm_mFGOSp11wc5sJ6RpPkc=/fit-in/495x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5082908-1384022908-1977.jpeg.jpg" data-tags="new age, enigma" role="button">
 Enigma - Le Roi Est Mort, Vive Le Roi! (1996-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4d8f4fa-2133-453e-b020-61bc6e2c66e0/18247329152-500.jpg" data-tags="new age" role="button">
@@ -132,11 +132,8 @@ Medwyn Goodall - Ancient Nazca - Inca Mysteries (1997)
 <li data-cover="http://coverartarchive.org/release/5a10bb6c-a45a-3a7c-8b3e-db564afae2f3/14512497121-500.jpg" data-tags="ambient" role="button">
 Delerium - Karma (1997-04-22)
 </li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/017f86a2-097c-432c-9ecd-7f3ebf6e8eef/22110454730-500.jpg" data-tags="new age" role="button">
-Yanni - Tribute (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/281397de-fa8e-491a-b664-f03d5eb49c19/15932053701-500.jpg" data-tags="new age, enya, storms in africa, boadicea, only if" role="button">
 Enya - Paint The Sky With Stars (1997-11-10)
@@ -146,9 +143,6 @@ Enya - Paint the Sky With Stars: The Best of Enya (1997-11-10)
 </li>
 <li data-cover="https://img.discogs.com/0dqJNyMxVbY0B5AkQ9bLnZSv2Ks=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-507038-1125071981.jpg.jpg" data-tags="new age, female vocalists, classical crossover" role="button">
 Sarah Brightman - Eden (1998)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chorus of tribes-myth, electronic" role="button">
-Chorus of Tribes - Myth (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a623c8d-7878-3d2a-8d87-60b5a31340e8/12921336614-500.jpg" data-tags="world, new age" role="button">
 Deep Forest - Comparsa (1998-01-14)
@@ -206,6 +200,9 @@ Enigma - Love Sensuality Devotion: The Greatest Hits (2001-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c27a6d1f-bfca-4515-b963-bebc3f3c97ed/24417188994-500.jpg" data-tags="new age" role="button">
 Diane Arkenstone - Jewel in the Sun (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f02bc5e-8100-4acc-8c02-b128c496b90e/11637455866-500.jpg" data-tags="new age" role="button">
+2002 - Across an Ocean of Dreams (2002-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d191264d-ffdc-4816-9564-fc2b149eab14/1496309090-500.jpg" data-tags="new age" role="button">
 Balligomingo - Beneath The Surface (2002-06-11)
@@ -305,6 +302,9 @@ Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
 Dead Can Dance - Anastasis (2012-08-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
+Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:30:01.433Z
+date: 2021-04-06T08:11:01.597Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -267,8 +267,8 @@ Drake - Take Care (2011-11-14)
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f13d918-249a-45d7-987e-8f15099d0432/3905116455-500.jpg" data-tags="hip hop, danny brown, cartoon album covers" role="button">
-Danny Brown - Grown Up (2012-03-22)
+<li data-cover="http://coverartarchive.org/release/60be6325-85c2-4523-bd0d-5f6b5d05098b/1369426454-500.jpg" data-tags="hip hop, pop, reggae, r&b, sean paul" role="button">
+Sean Paul - Tomahawk Technique (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3686162c-6a36-47ce-b6fe-18a4bb41a0ca/2805738352-500.jpg" data-tags="experimental, experimental hip-hop, experimental hip hop" role="button">
 Death Grips - The Money Store (2012-04-13)

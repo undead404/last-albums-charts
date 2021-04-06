@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:09:01.353Z
+date: 2021-04-06T08:01:01.436Z
 title: "reggaeton: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -27,14 +27,11 @@ Fulanito - El Hombre Mas Famoso De La Tierra (1997-11-17)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="reggae, dancehall, ragga, mr vegas" role="button">
 Mr. Vegas - Heads High (1999)
 </li>
-<li data-cover="https://img.discogs.com/ffJo-s_CggbAV_8Mxyv8ZUyObRE=/fit-in/450x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565631-1160235948.jpeg.jpg" data-tags="hip-hop, reggae, urban, latin, house, 90s, american, reggaeton, latino, merengue, dominican, merenhouse, merenrap, salsa-merengue" role="button">
-Fulanito - El Padrino (1999-09-15)
+<li data-cover="http://coverartarchive.org/release/3de6fac0-fa8b-4bf6-94f2-655e6f6df53c/14271051779-500.jpg" data-tags="hip-hop, tony touch, remix master, del bronx" role="button">
+Tony Touch - The Piece Maker (2000-04-18)
 </li>
 <li data-cover="https://img.discogs.com/tYnkNfkQp_3KCQsJUPt3MhWKYnE=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1437934-1219696801.jpeg.jpg" data-tags="merengue" role="button">
 Fulanito - The Remixes (2001-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/3129e164-9696-48c5-9eff-950152d328a9/17356050481-500.jpg" data-tags="hip-hop, reggae, urban, latin, house, american, reggaeton, latino, 00s, merengue, dominican, merenhouse, merenrap" role="button">
-Fulanito - Americanizao (2001-11-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, krautrock, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, reggaeton, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, folklore, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, fucking awesome, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech" role="button">
 新居昭乃 - RGB (2002-04-24)
@@ -71,6 +68,9 @@ Aventura - God's Project (2005-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/50aa8f93-1a1c-44ff-8d9b-825458b87cf0/17781979335-500.jpg" data-tags="reggaeton" role="button">
 Wisin & Yandel - Pa'l Mundo (2005-11-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/f183e120-edac-4a0f-b1e0-28a03cf4382c/2009302187-500.jpg" data-tags="hip-hop, rap" role="button">
+Pitbull - Money Is Still A Major Issue (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/99210be3-5afa-4697-9c3e-ea31bcca84b5/1216273762-500.jpg" data-tags="reggaeton" role="button">
 Alexis & Fido - The Pitbulls (2005-11-15)
@@ -177,7 +177,7 @@ Yomo - My Destiny (2008-11-25)
 <li data-cover="http://coverartarchive.org/release/944c0440-8285-4a98-bcea-238e51f534e3/2512771498-500.jpg" data-tags="crunkcore" role="button">
 Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
-<li data-cover="https://img.discogs.com/FjLGaTafIscM8hQMlZ18AdraIVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7271769-1437699076-6523.jpeg.jpg" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
 </li>
 <li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
@@ -185,9 +185,6 @@ The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d841250-9f3b-4d34-8d88-b5c5bfe5eb6c/872455810-500.jpg" data-tags="reggaeton" role="button">
 Don Omar - Virtual Diva (2009-02-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/34775cb2-1d72-409f-bb5e-ea5d436bbe54/17397604507-500.jpg" data-tags="reggaeton, cumbia, merengue, bachata, latin grammy nominated" role="button">
-Tito El Bambino - El Patrón (2009-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d932ab9-fc15-4536-b70b-67670fa6e88e/28174666638-500.jpg" data-tags="electronic, reggaeton, cyberpunk, puerto rico, discos 2009, grammy latino 2009" role="button">
 Don Omar - iDon (2009-04-28)
@@ -218,6 +215,9 @@ Tony Dize - La Melodia De La Calle (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/786bf250-76f1-4179-b1de-4429618d3990/7549448874-500.jpg" data-tags="spanish, reggaeton, latin pop, vallenato, 10s" role="button">
 Dyland & Lenny - My World (2010-03-01)
+</li>
+<li data-cover="https://img.discogs.com/lJ9agdMkf31zZfJOj0nbcAhQSvo=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11509746-1517611609-4601.jpeg.jpg" data-tags="bachata" role="button">
+Prince Royce - Prince Royce (2010-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
 Attila - Rage (2010-05-11)
@@ -273,7 +273,7 @@ Attila - Outlawed (2011-08-16)
 <li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
 </li>
-<li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
+<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">

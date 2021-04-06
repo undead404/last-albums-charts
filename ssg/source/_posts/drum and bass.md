@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:05:01.451Z
+date: 2021-04-06T07:46:01.422Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - In Silico (2008-05-09)](http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg "Pendulum - In Silico (2008-05-09)")
@@ -249,8 +249,8 @@ The Qemists - Spirit In The System (2010-07-07)
 <li data-cover="http://coverartarchive.org/release/9620c8cd-3858-4d62-9245-a7083601cfcd/20420006931-500.jpg" data-tags="drum and bass, dubstep" role="button">
 DJ Fresh - Kryptonite (2010-08-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/ba26f16f-9a6a-4c53-94f3-251902072c8e/15290215878-500.jpg" data-tags="dubstep, drum and bass" role="button">
-Liquid Stranger - Mechanoid Meltdown (2010-11-29)
+<li data-cover="http://coverartarchive.org/release/819bcfc2-1a31-443b-9415-26410a130121/20166816121-500.jpg" data-tags="dubstep" role="button">
+Black Sun Empire - Lights And Wires (2010-11-15)
 </li>
 <li data-cover="https://img.discogs.com/sVNmw-zFlPY39DEorIjqZUTJpDY=/fit-in/500x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713155-1297691471.jpeg.jpg" data-tags="drum and bass" role="button">
 Chase & Status - No More Idols (2011-01-28)

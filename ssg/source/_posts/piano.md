@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T00:36:01.356Z
+date: 2021-04-06T07:58:01.560Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Chick Corea - Now He Sings, Now He Sobs (1968)
+</li>
 <li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
 Tom Waits - Closing Time (1973-05)
 </li>
@@ -269,9 +272,6 @@ Nils Frahm - Wintermusik (2009-12-07)
 </li>
 <li data-cover="https://img.discogs.com/-0O4p9AqqjSpbkHhZotoEBz1Efg=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267354-1458916937-8797.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
 Ólafur Arnalds - ...and they have escaped the weight of darkness (2010-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/e788f8b4-7458-4d40-8169-4d6a642b4c33/3387689214-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, neo-classical, post-classical, neo classical, piano, postclassical, post classical, modern composition" role="button">
-Max Richter - Infra (2010-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
 Agnes Obel - Philharmonics (2010-10-04)

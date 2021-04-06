@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T01:10:01.432Z
+date: 2021-04-06T08:36:01.427Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -165,6 +165,9 @@ Easy Star All-Stars - Radiodread (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
 Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
+<li data-cover="https://img.discogs.com/v43z72x70mwmbYZkVxGZWHST-6c=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683980-1342639891-4559.jpeg.jpg" data-tags="pop" role="button">
+Westlife - The Love Album (2006-11-20)
+</li>
 <li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
 Placebo - Covers (2007-03-05)
 </li>
@@ -254,9 +257,6 @@ Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magi
 </li>
 <li data-cover="http://coverartarchive.org/release/9ef4e801-2e92-4689-8f8d-e17642d52423/23553460199-500.jpg" data-tags="feverray" role="button">
 Fever Ray - Mercy Street (2010-08-18)
-</li>
-<li data-cover="https://img.discogs.com/taDtlTZGurPZNj5nLm347NAROPI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2432619-1283765901.jpeg.jpg" data-tags="soundtrack, hip-hop, electronic, electronica, trip-hop, electropop, hip hop, pop, chill, rock, soul, punk, alternative rock, reggae, folk, indie pop, indie rock, female vocalists, downtempo, dub, singer-songwriter, electro, dance, new wave, funk, house, minimal, canadian, idm, guitar, drum, bass, cover, song, germany, atmospheric, deutsch, punk rock, deutschrock, dnb, german, dancehall, sex, deutschpunk, liedermacher, indietronic, deutschrap, dub step, deutsch pop, nu-metal, cola, hollywood, german artists, deutschpop, german rap, liebe, 80er, chillhouse, singel, gitarre, electronic hip-hop, synthie, rostock, ich und du, helden, liebeskummer, geschichte, wir sind helden, herz, tanzen, rockmusik, augen, ich und ich, aggropop, sucht, liebeslieder, in your eyes, entspannung, stimmung, micha, durchdrehen, tierpark, underscrobbled, zweifel, soundtrack meines lebens, die kranken schwestern, nihao, mitsnakker, nur mit dir, erinnnerungen, chillaholic, micha maat, das zweite gesicht, aggroschlager, augensex, stille der nacht" role="button">
-Laserkraft 3D - Nein, Mann! (2010-08-27)
 </li>
 <li data-cover="https://img.discogs.com/7HQ42g8c1uZ39AudB3-Cw51xGmA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2631982-1351175466-2472.jpeg.jpg" data-tags="christmas" role="button">
 Glee Cast - Glee: The Music, The Christmas Album (2010-11-16)

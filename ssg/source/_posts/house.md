@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:20:01.390Z
+date: 2021-04-06T08:31:01.394Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -44,9 +44,6 @@ Cassius - 1999 (1999-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/32aa71d7-5d29-464d-9cfa-2dbb48a50086/6350918032-500.jpg" data-tags="electronic, house, electro house, madonna, singles i own on vinyl" role="button">
 Mr. Oizo - Flat Beat (1999-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/af94b45e-7f1f-3789-a04f-e990501c4833/9608980039-500.jpg" data-tags="electronic, house" role="button">
-Basement Jaxx - Remedy (1999-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d52d6d37-f6cb-417d-b32a-284222400fac/8042015899-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Vertigo (1999-05-24)
@@ -120,6 +117,12 @@ deadmau5 - Get Scraped (2005-07-26)
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
+John Mayer Trio - Try! (2005-11-22)
+</li>
+<li data-cover="https://img.discogs.com/7sLCjpeXls9RLMT-P-unVY8f3rI=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704553-1149877523.jpeg.jpg" data-tags="electro" role="button">
+Tiga - Sexor (2005-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/2608235d-85a1-4361-8d15-14569ad61b9a/7227622788-500.jpg" data-tags="house" role="button">
 Bob Sinclar - Western Dream (2006-04-10)
 </li>
@@ -153,7 +156,7 @@ Kaskade - Strobelite Seduction (2008-05-20)
 <li data-cover="http://coverartarchive.org/release/a94a2faf-b5e4-33c9-953b-ca020418cddd/7267268374-500.jpg" data-tags="progressive house" role="button">
 deadmau5 - Random Album Title (2008-09-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="lmfao" role="button">
+<li data-cover="https://img.discogs.com/olFbg6hzQQuhFbc8tRLnYmHQBWs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864079-1573610715-7989.jpeg.jpg" data-tags="lmfao" role="button">
 LMFAO - Party Rock (2008-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9e6ec9b-a293-4e4b-a0f2-d00d1be13aa2/8669884061-500.jpg" data-tags="electronic, house" role="button">
@@ -246,7 +249,7 @@ The Rapture - In the Grace of Your Love (2011-08-26)
 <li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
 Tycho - Dive (2011-10-04)
 </li>
-<li data-cover="https://img.discogs.com/0Ba-ECqNBzo9W0nAl3Paw_5vwRk=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3974761-1351107048-1039.jpeg.jpg" data-tags="electronic, dance" role="button">
+<li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8340c926-b42f-47af-80e2-0ea2b7108f6e/13881863727-500.jpg" data-tags="house, melodic electronica, melodic house, melodic electronic music, classically influenced electronica, melody driven electronica" role="button">
@@ -290,9 +293,6 @@ Avicii - True (2013-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/439a15ad-b0f4-46a9-bd7a-923e2af1283f/5446427490-500.jpg" data-tags="house, idm" role="button">
 Daniel Avery - Drone Logic (2013-10-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
-What So Not - High You Are (Remixes) (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/514f371d-3d5c-4850-bf5e-27841abd533b/6417152158-500.jpg" data-tags="downtempo, house, deep house, chillwave, tropical house, kygo, kyla la grange" role="button">
 Kyla La Grange - Cut Your Teeth (Kygo Remix) (2014-01)
