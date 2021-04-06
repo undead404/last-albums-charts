@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:32:01.368Z
+date: 2021-04-06T06:50:01.461Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -45,7 +45,7 @@ Bill Withers - Still Bill (1972)
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
 </li>
-<li data-cover="https://img.discogs.com/BFUSEbU-knaLQUvxecAudh5BJFA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527462-1594368732-6937.jpeg.jpg" data-tags="funk" role="button">
+<li data-cover="https://img.discogs.com/BYkp0xyKnzrj0VyV3HhNvCDDYVk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-833075-1163431469.jpeg.jpg" data-tags="funk" role="button">
 Incredible Bongo Band - Bongo Rock (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/72e14f2a-bd30-3310-b498-fc309203d08a/24031827549-500.jpg" data-tags="70s, funk, soul" role="button">
@@ -72,8 +72,14 @@ Funkadelic - One Nation Under A Groove (1978-10)
 <li data-cover="http://coverartarchive.org/release/d0a62df6-09ed-4b59-b0d9-43dd09ec2562/13401784321-500.jpg" data-tags="70s, funk, soul" role="button">
 Prince - Prince (1979)
 </li>
+<li data-cover="http://coverartarchive.org/release/00a01883-c17d-3a1e-8aa3-f468e45465df/7228002110-500.jpg" data-tags="70s, funk" role="button">
+Chic - Risque (1979)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, funk, 70s, disco" role="button">
 Earth, Wind & Fire - I Am (1979-07-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/6258e39d-bef4-4d5a-a654-440cf4c4c29a/5349015874-500.jpg" data-tags="pop, disco" role="button">
+Michael Jackson - Off the Wall (1979-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/281e42d6-389e-4224-9bc6-84220a62d50f/13390957803-500.jpg" data-tags="funk" role="button">
 Prince - Dirty Mind (1980)
@@ -216,9 +222,6 @@ Mark Ronson - Version (2007-04-14)
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/c96335b2-2429-4990-a1c8-ff5a4904aa73/2839113560-500.jpg" data-tags="instrumental, funk" role="button">
-Beastie Boys - The Mix-Up (2007-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)
 </li>
@@ -233,9 +236,6 @@ Ohio Players - Gold (2008-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cf0b731-8d1c-37d7-9a03-a2734df4c22b/5685858560-500.jpg" data-tags="soul, funk" role="button">
 Gnarls Barkley - The Odd Couple (2008-03-18)
-</li>
-<li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
-Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dance, funk, synthpop" role="button">
 Sam Sparro - Sam Sparro (2008-04-27)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T04:42:01.301Z
+date: 2021-04-06T07:08:01.371Z
 title: "drone: 100 albums you must listen to before you die"
 ---
 ![Have a Nice Life - Deathconsciousness (2008-02-21)](http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg "Have a Nice Life - Deathconsciousness (2008-02-21)")
@@ -12,8 +12,8 @@ title: "drone: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/50f53ceb-8e3c-3508-8c4e-80479bf93040/21129584187-500.jpg" data-tags="drone" role="button">Sunn O))) - Monoliths & Dimensions (2009-05-18)</li>
 <li data-cover="https://img.discogs.com/AJR2mCOi8-YyOmaUR6VgzkKqryA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1967297-1431603480-2723.jpeg.jpg" data-tags="noise, electronic, drone" role="button">Fuck Buttons - Tarot Sport (2009-10-12)</li>
 <li data-cover="https://img.discogs.com/bmbZJ8aWExCVwnl0YhjisV14knI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2705982-1297366221.jpeg.jpg" data-tags="ambient, drone" role="button">Tim Hecker - Ravedeath, 1972 (2011-01)</li>
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/aa076b82-9732-4b7f-a404-086fb4177d44/4100519731-500.jpg" data-tags="ambient, experimental, downtempo, drone, synth-pop, leftfield" role="button">Chrome Sparks - Sparks EP (2013-03-04)</li>
-<li data-cover="http://coverartarchive.org/release/5983b723-c46b-417c-ba5d-dedb5fde9e6b/21907065051-500.jpg" data-tags="post-punk, shoegaze, drone" role="button">Have a Nice Life - The Unnatural World (2014-01-27)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -74,9 +74,6 @@ Sunn O))) - ØØ Void (2000-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/51838493-3a1b-48cf-b7d3-a1dd35aec471/1964934865-500.jpg" data-tags="post-rock, drone" role="button">
 Boris - Flood (2000-12-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/918ce11f-a9fb-4d3c-be10-c0b55e510145/11462273056-500.jpg" data-tags="doom metal, drone metal" role="button">
-Khanate - Khanate (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/eddc2843-d3dd-48ba-b1c9-2ad509570aaa/3048332836-500.jpg" data-tags="ambient" role="button">
 Stars of the Lid - The Tired Sounds of Stars of the Lid (2001-10-29)
@@ -203,6 +200,9 @@ Tim Hecker - An Imaginary Country (2009-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/50f53ceb-8e3c-3508-8c4e-80479bf93040/21129584187-500.jpg" data-tags="drone" role="button">
 Sunn O))) - Monoliths & Dimensions (2009-05-18)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
+椎名林檎 - 三文ゴシップ (2009-06-24)
 </li>
 <li data-cover="https://img.discogs.com/kFxILaeR0miu9E9n19Ohx9HL24E=/fit-in/350x314/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876339-1249498435.jpeg.jpg" data-tags="drone, post-metal" role="button">
 Jesu - Infinity (2009-07)

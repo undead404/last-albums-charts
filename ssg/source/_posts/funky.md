@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:47:01.381Z
+date: 2021-04-06T07:15:01.688Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -11,7 +11,7 @@ title: "funky: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">Kelly Rowland - Work (2008-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/c9003d52-4214-422d-a0a2-4343fe9e75e0/6164086297-500.jpg" data-tags="classic rock, pop, rock, 80s, funky, breakbeat, underground" role="button">Gossip - Heavy Cross (2009-06-05)</li>
 <li data-cover="https://img.discogs.com/98tNSm3zZhZn4UAGlv68_EoCTck=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057953-1261415919.png.jpg" data-tags="indie, rock, soul, indie rock, american, funky, need to ch-ch-check out" role="button">Generationals - Con Law (2009-07-21)</li>
-<li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">Duck Sauce - Barbra Streisand (2010-09-13)</li>
+<li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/15a0d39a-586d-4b1e-94ca-953f4cabacdc/10642154772-500.jpg" data-tags="hip-hop, electronic, trip-hop, pop, soul, female vocalists, funky, sex, neo soul, soul revival" role="button">Mayer Hawthorne - How Do You Do (2011-10-04)</li>
 </ol>
@@ -27,9 +27,6 @@ Miriam Makeba - Pata Pata (1967)
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc689536-49ad-32bd-97ba-975643b46e38/9667967278-500.jpg" data-tags="new orleans, rhythm and blues" role="button">
-Dr. John - In the Right Place (1973-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
 </li>
@@ -42,7 +39,7 @@ Rupert Holmes - Partners In Crime (1979)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
 </li>
-<li data-cover="https://img.discogs.com/m15oz1ykPo5UrmHUY_7AmCna-u0=/fit-in/178x178/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-582885-1216830321.jpeg.jpg" data-tags="hip-hop, 90s" role="button">
+<li data-cover="https://img.discogs.com/gGw3vTuZWZQCWuQAHcJoaTinw5I=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1349099-1211775760.jpeg.jpg" data-tags="hip-hop, 90s" role="button">
 Beastie Boys - Check Your Head (1992-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
@@ -69,8 +66,8 @@ John Scofield - A Go Go (1998-03-18)
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/73776da1-4a89-40cc-b679-f5ba786554e3/1394757653-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, 90s, funky, groovy, italian, jecks, italian rock, mycds, drivethruelvis knows this, drivethruelvis at 17, hotel pop, original cds" role="button">
-Afterhours - Non È Per Sempre (1999)
+<li data-cover="http://coverartarchive.org/release/87981701-cc00-3c5c-af07-00050c115435/24559007750-500.jpg" data-tags="hip-hop, funk, underground hip-hop, funk-hop" role="button">
+Blackalicious - A2G EP (1999-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/3647baa2-ca82-4df1-b760-b3486584b8ea/3082033572-500.jpg" data-tags="soul" role="button">
 Bill Withers - The Best Of Bill Withers: Lean On Me (2000-05-30)
@@ -147,13 +144,13 @@ Jamiroquai - Dynamite (2005-05-20)
 <li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Jason Mraz - Mr. A-Z (2005-07-26)
 </li>
-<li data-cover="https://img.discogs.com/27DNyT9_2ip2Y1A-3RMFlA3FzuE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2192248-1269004643.jpeg.jpg" data-tags="soul, funky" role="button">
+<li data-cover="https://img.discogs.com/JASTebqUfqURhoVhAQtRWgrEpuM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-591095-1212799290.jpeg.jpg" data-tags="soul, funky" role="button">
 Nate James - Set The Tone (2005-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
 </li>
-<li data-cover="https://img.discogs.com/7gY087YOdtc2jyjDk6RavVieYMk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1462353-1249391008.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/gQtF__jMDi6r1WvNz3mB7sfCess=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2930041-1312706498.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, singer-songwriter" role="button">
 Ian Brown - The Greatest (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c0fdc8c-8913-464b-b5fc-90a151b7553c/1363185432-500.jpg" data-tags="robin thicke, rnb, soul" role="button">
@@ -243,6 +240,9 @@ Generationals - Con Law (2009-07-21)
 <li data-cover="http://coverartarchive.org/release/9a513fa8-3fea-4366-a290-b27c9fc5df19/15199998026-500.jpg" data-tags="soul, alternative, indie rock, funky, eternal love" role="button">
 Ramona Falls - Intuit (2009-08-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
+Wale - Attention Deficit (2009-11-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/54dcaa7b-fbec-3b9d-845a-542598ff0eed/22997559585-500.jpg" data-tags="hip-hop, trip-hop" role="button">
 RJD2 - The Colossus (2010-01-19)
 </li>
@@ -273,7 +273,7 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">
 Awolnation - Megalithic Symphony (2011-03-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="motivation" role="button">
+<li data-cover="https://img.discogs.com/dzFOFAb3GnzRBHL8LeD3OB1SjY8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1746120-1421272827-1176.jpeg.jpg" data-tags="motivation" role="button">
 Kelly Rowland - Motivation (2011-04-12)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">

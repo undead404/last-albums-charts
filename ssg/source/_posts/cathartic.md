@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:56:01.326Z
+date: 2021-04-06T07:10:01.421Z
 title: "cathartic: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -36,11 +36,8 @@ The Jam - In the City (1977-05-20)
 <li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
 Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://img.discogs.com/ny_zKfTxim7DV90AWC0djl6EGmc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2749521-1299315553.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
+<li data-cover="https://img.discogs.com/i2hjF3qQugwjM-CCzbXvKILk9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774793-1166295303.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
 Richard & Linda Thompson - Shoot Out the Lights (1982)
-</li>
-<li data-cover="http://coverartarchive.org/release/c6233602-7a77-4a1a-b405-d3d75a9c631c/14999562820-500.jpg" data-tags="psychedelic" role="button">
-The Dream Syndicate - The Days of Wine and Roses (1982-10-28)
 </li>
 <li data-cover="https://img.discogs.com/TGMozpDk06vIDR9MPg6QU2rNx2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12544002-1537317625-2915.jpeg.jpg" data-tags="punk" role="button">
 X - More Fun in the New World (1983-09)
@@ -77,9 +74,6 @@ Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
 <li data-cover="https://img.discogs.com/r4kRB_nIAYMeR6D7iWuhvZBoNTY=/fit-in/600x334/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11705365-1520967247-1779.jpeg.jpg" data-tags="punk, rock, hard rock" role="button">
 Iggy Pop - Brick By Brick (1990-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c99e627-4a01-4429-9058-2c8dccc3ecef/20987488351-500.jpg" data-tags="hardcore punk" role="button">
-Negative Approach - Total Recall (1990-09-24)
 </li>
 <li data-cover="https://img.discogs.com/Jk0Whc-eYBquMSkcPm3eMlDBv-w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5053665-1525646913-3868.jpeg.jpg" data-tags="90s" role="button">
 Dinosaur Jr. - Green Mind (1991-02-18)
@@ -249,6 +243,9 @@ Spiritualized - Songs In A&E (2008-05-26)
 <li data-cover="https://img.discogs.com/7N8DM730_yMdGlGmCL7xI3tRUBc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464947-1221766171.jpeg.jpg" data-tags="rap" role="button">
 The Streets - Everything Is Borrowed (2008-09-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
+Jazmine Sullivan - Fearless (2008-09-23)
+</li>
 <li data-cover="https://img.discogs.com/hPBi_tvsKOpa0IUmtVzQtKYmGgY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13487694-1555161652-4877.jpeg.jpg" data-tags="rock, british, indie rock, 00s" role="button">
 Peter Doherty - Grace/Wastelands (2009-03-04)
 </li>
@@ -284,6 +281,9 @@ Divine Fits - A Thing Called Divine Fits (2012-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf928700-a3ca-463e-947c-e7e731bdaac4/4754067713-500.jpg" data-tags="folk" role="button">
 Angel Olsen - Half Way Home (2012-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d46e2cc-1ae9-44aa-81bc-89e90eef410e/10240022979-500.jpg" data-tags="pop" role="button">
+Tegan and Sara - Heartthrob (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a3be0f3-c237-4e0d-bdba-f82b3329a974/16252635324-500.jpg" data-tags="americana" role="button">
 Jason Isbell - Southeastern (2013-06-11)

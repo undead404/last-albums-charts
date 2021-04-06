@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T16:25:01.360Z
+date: 2021-04-06T07:09:01.512Z
 title: "j-rock: 100 albums you must listen to before you die"
 ---
 ![DIR EN GREY - Vulgar (2003-09-10)](http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg "DIR EN GREY - Vulgar (2003-09-10)")
@@ -126,6 +126,9 @@ ASIAN KUNG-FU GENERATION - Sol-fa (2004-10-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="j-rock" role="button">
 フジファブリック - フジファブリック (2004-11-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/b08eaad5-28f9-4404-b3b7-90067c092d1d/6692942777-500.jpg" data-tags="japanese" role="button">
+東京事変 - 教育 (2004-11-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)
 </li>
@@ -204,8 +207,8 @@ Aqua Timez - Alones (2007-08-01)
 <li data-cover="http://coverartarchive.org/release/6308416e-2d30-4abf-8242-f859272c8e71/24763633254-500.jpg" data-tags="post-hardcore, j-rock" role="button">
 凛として時雨 - Inspiration is DEAD (2007-08-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/26bd077b-bb06-4f4b-8180-326d93229ea3/1049228507-500.jpg" data-tags="female vocalists, pop rock, japanese rock, 00s, j-rock, girl rock, seimeiryoku" role="button">
-チャットモンチー - 生命力 (2007-10-24)
+<li data-cover="https://img.discogs.com/V-y_zlb78r3oMes1n6M8dEzwc8M=/fit-in/500x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616432-1337518222-7816.jpeg.jpg" data-tags="japanese" role="button">
+abingdon boys school - abingdon boys school (2007-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/85b4cb62-1c88-4e2d-8c3e-f1760f47e11e/16180804812-500.jpg" data-tags="j-rock" role="button">
 9mm Parabellum Bullet - Termination (2007-11-14)
@@ -311,9 +314,6 @@ the GazettE - Beautiful Deformity (2013-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/9aeb9804-c7ac-4598-907b-832c2a3ae553/7825800795-500.jpg" data-tags="j-rock" role="button">
-TK from 凛として時雨 - unravel (2014-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)

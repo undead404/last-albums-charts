@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T05:20:01.510Z
+date: 2021-04-06T06:52:01.372Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -45,9 +45,6 @@ Usher - My Way (1997-09-16)
 <li data-cover="http://coverartarchive.org/release/5c0f94d0-6e7c-4547-bf52-eba96b14e3d3/8121259237-500.jpg" data-tags="rnb, pop, 90s" role="button">
 Janet Jackson - The Velvet Rope (1997-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
-Will Smith - Big Willie Style (1997-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
 Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 </li>
@@ -65,6 +62,9 @@ Mariah Carey - Rainbow (1999-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f9c9d8-a4f9-4976-ba90-8620e9bd7696/19759823405-500.jpg" data-tags="rnb" role="button">
 Mary J. Blige - Family Affair (2000)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="joe, my name is joe, soul, rnb" role="button">
+Joe - My Name Is Joe (2000-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/73e755b4-4e81-3fa9-ad43-8bb42e7fdef5/15837197671-500.jpg" data-tags="rnb" role="button">
 Craig David - Born to Do It (2000-08-12)
@@ -86,6 +86,9 @@ Aaliyah - Aaliyah (2001-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b9a30a1-9a94-49dd-a004-a7ee5c38126b/16759780312-500.jpg" data-tags="rap, nelly" role="button">
 Nelly - Nellyville (2002-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/6a0c6963-683e-4275-bebb-0279092ee772/2081207603-500.jpg" data-tags="pop" role="button">
+Christina Aguilera - Stripped (2002-10-28)
 </li>
 <li data-cover="https://img.discogs.com/YQMw_efcU3ZprKX5aaBYiNZwdAw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1489732-1568269324-8805.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
@@ -126,9 +129,6 @@ Destiny's Child - Destiny Fulfilled (2004-11-15)
 <li data-cover="http://coverartarchive.org/release/b516f21b-ea72-4c56-b10f-92c76b7f84e5/19827025699-500.jpg" data-tags="omarion" role="button">
 Omarion - O (2005-02-22)
 </li>
-<li data-cover="https://img.discogs.com/loqCR9di_kyq2hhzGT2D4lcCzEM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858208-1377681398-5115.jpeg.jpg" data-tags="pop, rnb" role="button">
-Jennifer Lopez - Rebirth (2005-02-28)
-</li>
 <li data-cover="https://img.discogs.com/ZB9c7-tmuK9P6zRfd92W2_UF2k0=/fit-in/600x858/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5419521-1602094564-5998.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
 Mariah Carey - The Emancipation of Mimi (2005-04-04)
 </li>
@@ -140,9 +140,6 @@ Rihanna - Music of the Sun (2005-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/177fcfee-525a-46c6-9c58-d6a82cf9cc8d/14885026677-500.jpg" data-tags="rnb" role="button">
-Destiny's Child - #1's (2005-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ae25feb-39ca-484b-80c0-ad8fe871b0ce/2980605648-500.jpg" data-tags="rnb, chris brown" role="button">
 Chris Brown - Chris Brown (2005-11-29)
@@ -161,6 +158,9 @@ Nelly Furtado - Loose (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
+Christina Aguilera - Back to Basics (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
 Beyoncé - B'Day (2006-08-29)
