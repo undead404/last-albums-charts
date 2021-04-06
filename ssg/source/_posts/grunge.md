@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:11:01.654Z
+date: 2021-04-06T13:36:01.439Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -71,9 +71,6 @@ Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9c52cf2-9f23-4986-8ce2-5e0015cdef27/8559192703-500.jpg" data-tags="grunge" role="button">
 L7 - Bricks Are Heavy (1992-04-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
-Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
@@ -284,6 +281,9 @@ Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a3a8867-9461-3ed3-b78a-47dfc939829d/26491153487-500.jpg" data-tags="rock, grunge" role="button">
 Chris Cornell - Carry On (2007-06-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6c5189b-360f-460b-852e-909e21e6392d/7915181098-500.jpg" data-tags="rock, alternative rock, hard rock" role="button">
 Seether - Finding Beauty in Negative Spaces (2007-10-23)

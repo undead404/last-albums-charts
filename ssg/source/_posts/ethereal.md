@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T03:07:01.355Z
+date: 2021-04-06T13:44:01.401Z
 title: "ethereal: 100 albums you must listen to before you die"
 ---
 ![Cocteau Twins - Treasure (1984-10-01)](http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg "Cocteau Twins - Treasure (1984-10-01)")
@@ -10,7 +10,7 @@ title: "ethereal: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">Emilie Autumn - Enchant (2003-02-26)</li>
 <li data-cover="https://img.discogs.com/kAiO6KFJEB0AheBKPUCEyZjsueQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019630-1215843921.jpeg.jpg" data-tags="indie, female vocalists" role="button">Bat for Lashes - Fur and Gold (2006-09-11)</li>
-<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
+<li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">Youth Lagoon - The Year of Hibernation (2011-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">Daughter - If You Leave (2013-03-18)</li>
 <li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">Indila - Mini World (2014-02-21)</li>
@@ -69,7 +69,7 @@ Dead Can Dance - Into the Labyrinth (1993-09-13)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="https://img.discogs.com/ct_HonlxsxKwu7CCIr1igOCStbc=/fit-in/600x979/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6784702-1436621833-4556.jpeg.jpg" data-tags="dream pop" role="button">
+<li data-cover="https://img.discogs.com/yI44NzOohz8x8zGkGCIFnprNe7k=/fit-in/249x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3297001-1324499322.jpeg.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Four-Calendar Cafe (1993-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf042b54-74aa-41d8-a7a7-9f134e768b28/1782149775-500.jpg" data-tags="ethereal" role="button">
@@ -93,9 +93,6 @@ Hooverphonic - A New Stereophonic Sound Spectacular (1996)
 <li data-cover="http://coverartarchive.org/release/c399f8d5-43a8-3e1a-98b7-0a6a5bb6ea52/2153622469-500.jpg" data-tags="ambient, atmospheric, world music" role="button">
 Dead Can Dance - Spiritchaser (1996-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
-Fiona Apple - Tidal (1996-07-23)
-</li>
 <li data-cover="https://img.discogs.com/xDoLKS9K6k-_LsoyHCli65KIfo0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5800452-1403020958-1511.jpeg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
 </li>
@@ -116,6 +113,9 @@ Broadcast - The Noise Made by People (2000-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/76d53e8d-a605-3a57-a188-450d6884fff5/13737540134-500.jpg" data-tags="new age, celtic, enya" role="button">
+Enya - A Day Without Rain (2000-11-11)
 </li>
 <li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
@@ -162,9 +162,6 @@ Bent - Ariels (2004-08-16)
 <li data-cover="http://coverartarchive.org/release/540ad2af-01ee-492c-b9de-7bc8dffb7cd3/6752013943-500.jpg" data-tags="new age" role="button">
 Amethystium - Evermind (2004-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
-The Verve - This Is Music: The Singles 92-98 (2004-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/07986a78-38e5-46ea-9cf9-6bd4284b2a51/23900051902-500.jpg" data-tags="experimental, post-rock, psychedelic, the social registry" role="button">
 Gang Gang Dance - God's Money (2005)
 </li>
@@ -210,7 +207,7 @@ Amiina - Kurr (2007-03-21)
 <li data-cover="https://img.discogs.com/mlqlmJcBoErSPvGnR7arWK58sMQ=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314444-1208912306.jpeg.jpg" data-tags="ethereal" role="button">
 Hannah Fury - Through The Gash (2007-08-07)
 </li>
-<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
@@ -311,6 +308,9 @@ Marissa Nadler - July (2014-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
 Indila - Mini World (2014-02-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="art pop" role="button">
+St. Vincent - St. Vincent (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:24:01.383Z
+date: 2021-04-06T13:45:01.723Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -33,7 +33,7 @@ Rage Against the Machine - Rage Against the Machine (1992-06-11)
 <li data-cover="http://coverartarchive.org/release/499a3e93-235a-4b60-a124-dee9bf8bebec/12060372742-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 R.E.M. - Automatic for the People (1992-10-06)
 </li>
-<li data-cover="https://img.discogs.com/SbiREqGVqtJpp9IWTupHfJ06aZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13068383-1547486816-4724.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+<li data-cover="https://img.discogs.com/xqf09tHFSiPR9_WfaJUpGLq_MFw=/fit-in/485x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660270-1433472219-9062.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="https://img.discogs.com/Dfn7D5B0m4g0smYVNzc905-GXwM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021337-1243356062.jpeg.jpg" data-tags="90s, alternative, rock, alternative rock" role="button">
@@ -249,6 +249,9 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)
 </li>
@@ -278,9 +281,6 @@ Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 Incubus - Monuments And Melodies (2009-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
-Arctic Monkeys - Humbug (2009-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
 Skillet - Awake (2009-08-24)

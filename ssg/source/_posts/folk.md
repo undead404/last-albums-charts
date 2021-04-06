@@ -1,14 +1,14 @@
 ---
-date: 2021-04-06T09:23:01.423Z
+date: 2021-04-06T13:39:01.452Z
 title: "folk: 100 albums you must listen to before you die"
 ---
-![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
+![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">Fleet Foxes - Fleet Foxes (2006)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
-<li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
+<li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
 <li data-cover="http://coverartarchive.org/release/045bd22e-b181-4b67-8fda-dbb47a66cef6/2333024859-500.jpg" data-tags="folk, indie" role="button">Bon Iver - Blood Bank (2009-01-20)</li>
 <li data-cover="http://coverartarchive.org/release/d751cba4-242e-46d8-b230-3ca1d4e59b85/2484431634-500.jpg" data-tags="folk" role="button">Mumford & Sons - Sigh No More (2009-10-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">Fleet Foxes - Helplessness Blues (2011-04-29)</li>
@@ -81,6 +81,9 @@ Tracy Chapman - Tracy Chapman (1988-04-01)
 <li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">
 Bob Dylan - Highway 61 Revisited (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
+Elliott Smith - Either/Or (1997-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
@@ -123,7 +126,7 @@ Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
@@ -153,7 +156,7 @@ Alexi Murdoch - Time Without Consequence (2006-06-06)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic, folk, joshua radin" role="button">
+<li data-cover="https://img.discogs.com/XvPfiUyNYnGMcQ3sgYiddCGTqLc=/fit-in/453x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735564-1299014714.jpeg.jpg" data-tags="acoustic, folk, joshua radin" role="button">
 Joshua Radin - We Were Here (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/BvnnVUfIyE34Bdrb4fOFdMHTU54=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675273-1147465062.jpeg.jpg" data-tags="folk" role="button">
@@ -177,13 +180,13 @@ Andrew Bird - Armchair Apocrypha (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
-<li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)
 </li>
-<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/123a7fa9-f179-43c9-9353-c4cf2625ed4a/15645014786-500.jpg" data-tags="folk" role="button">
@@ -296,9 +299,6 @@ Milky Chance - Sadnecessary (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a07df9fe-a276-44ed-99f8-41bfcd53daa3/4764876876-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Edward Sharpe & The Magnetic Zeros (2013-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
-Agnes Obel - Aventine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)

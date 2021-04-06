@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T01:54:01.627Z
+date: 2021-04-06T13:38:01.534Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -77,9 +77,6 @@ Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a523bcb6-4d68-3854-b159-82fd53f9655d/24573949978-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Strung Out - An American Paradox (2002-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d614abb-8191-46ec-b58a-22aaaf5f4de1/11783603546-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
-Dillinger Four - Situationist Comedy (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/klcWXJGcipcwMGBjApfyG2e5Ztk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810275-1608482333-3173.jpeg.jpg" data-tags="post-hardcore, melodic hardcore" role="button">
 Hopesfall - The Satellite Years (2002-10-15)
@@ -183,8 +180,11 @@ Strung Out - Blackhawks Over Los Angeles (2007-06-12)
 <li data-cover="http://coverartarchive.org/release/fa7ea6f2-f2d9-4dd3-9236-5287a6b56272/7163668976-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - A Flair for the Dramatic (2007-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/923a21ad-82b3-30d1-a6a8-77b2dec4e53f/8412859072-500.jpg" data-tags="punk rock, punk" role="button">
+<li data-cover="https://img.discogs.com/zHQ3JvmNkZNqoHiqBj26RChYOvA=/fit-in/495x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1195867-1226914346.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Bad Religion - New Maps of Hell (2007-07-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b7f764c-178e-4846-a95d-5e4e45358c68/25544318506-500.jpg" data-tags="pop punk" role="button">
+Four Year Strong - Rise or Die Trying (2007-07-18)
 </li>
 <li data-cover="https://img.discogs.com/m3TuXrv1VWiXGgiiZuzrH1UdRuM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2708804-1594585064-2171.jpeg.jpg" data-tags="melodic hardcore" role="button">
 A Wilhelm Scream - Career Suicide (2007-10-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T23:26:01.285Z
+date: 2021-04-06T12:46:06.856Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -13,7 +13,7 @@ title: "alternative metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Mezmerize (2005-05-16)</li>
 <li data-cover="https://img.discogs.com/h8ByPmcSurZuRDUQWqgDOfW7txQ=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1837801-1527882448-6557.png.jpg" data-tags="alternative metal" role="button">System of a Down - Hypnotize (2005-11-18)</li>
 <li data-cover="https://img.discogs.com/4GCoKWffL01v0-Y5af8inAOb6xo=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14659888-1579100989-6077.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">Slipknot - All Hope Is Gone (2008-08-20)</li>
-<li data-cover="https://img.discogs.com/IKLe79N8VgR1VEcnJagD1tWrh8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3497267-1332751302.jpeg.jpg" data-tags="alternative metal" role="button">Disturbed - Asylum (2010-08-20)</li>
+<li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">Disturbed - Asylum (2010-08-20)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -36,7 +36,7 @@ Tool - Opiate (1992-03-10)
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
 </li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
@@ -80,6 +80,9 @@ Korn - Follow the Leader (1998-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
 Marilyn Manson - Mechanical Animals (1998-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
+Staind - Dysfunction (1999-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a069e1f-3866-3b9a-941c-c20e984bf89f/18823687691-500.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Slipknot (1999-06-29)
@@ -192,7 +195,7 @@ Mushroomhead - XIII (2003-10-14)
 <li data-cover="http://coverartarchive.org/release/d294a5f4-eb5d-31f3-b895-6bcb3bc147ba/4266344000-500.jpg" data-tags="nu metal" role="button">
 Korn - Take a Look in the Mirror (2003-11-21)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="hard rock, alternative metal" role="button">
+<li data-cover="http://coverartarchive.org/release/99b24ab3-0614-4556-b4a7-49fd66c022a4/6548688633-500.jpg" data-tags="hard rock, alternative metal" role="button">
 Soil - Redefine (2004)
 </li>
 <li data-cover="https://img.discogs.com/Moc0yEcaE2TzFDWvJhAj62mELPQ=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885282-1353635920-8040.jpeg.jpg" data-tags="rock, alternative rock" role="button">
@@ -245,9 +248,6 @@ Stone Sour - Come What(ever) May (2006-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - Phobia (2006-08-08)
-</li>
-<li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
-Papa Roach - The Paramour Sessions (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcffd66c-4f07-486f-91f3-204dd60462dc/2100279999-500.jpg" data-tags="alternative metal, hard rock" role="button">
 Chevelle - Vena Sera (2007-04-03)
@@ -303,7 +303,7 @@ Deftones - Diamond Eyes (2010-03-24)
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
 Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
-<li data-cover="https://img.discogs.com/IKLe79N8VgR1VEcnJagD1tWrh8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3497267-1332751302.jpeg.jpg" data-tags="alternative metal" role="button">
+<li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8539a56b-10d5-4ad5-9b6f-4d71b5506efb/6751981907-500.jpg" data-tags="alternative metal, alternative rock, post-grunge" role="button">

@@ -1,17 +1,17 @@
 ---
-date: 2021-04-06T01:11:01.344Z
+date: 2021-04-06T12:59:01.393Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">Sublime - Sublime (1995)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
-<li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
+<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Melody Gardot - My One And Only Thrill (2008-12-16)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
+<li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">Morcheeba - Blood Like Lemonade (2010-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">Agnes Obel - Philharmonics (2010-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 </ol>
@@ -27,9 +27,6 @@ Visage - The Damned Don't Cry (1982-01-04)
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Secrets of Life (1995)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
-Sublime - Sublime (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/645c5d80-c673-4f92-91c0-f7b03f5c22fe/4485701379-500.jpg" data-tags="instrumental, relax, flute, relaxing, labels - real music" role="button">
 Nicholas Gunn - The Music of the Grand Canyon (1995)
 </li>
@@ -39,7 +36,7 @@ KRS-One - KRS-One (1995-10-10)
 <li data-cover="http://coverartarchive.org/release/e6ad5820-ad0a-3a8d-9dc8-5588aa4643d9/9943104925-500.jpg" data-tags="era, new age" role="button">
 Era - Era (1996)
 </li>
-<li data-cover="https://img.discogs.com/5yYmwaKosO62y-ibHwTCmi-CqMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-34783-001.jpg.jpg" data-tags="trance, dream, robert miles" role="button">
+<li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8711c67-1203-35db-8312-83b772b00307/9734071071-500.jpg" data-tags="electronic" role="button">
@@ -66,7 +63,7 @@ Thievery Corporation - It Takes a Thief (1999)
 <li data-cover="http://coverartarchive.org/release/d98d60d4-51a6-4647-a92f-195af796599e/24147288966-500.jpg" data-tags="rock, alternative" role="button">
 Modest Mouse - Night on the Sun (1999)
 </li>
-<li data-cover="https://img.discogs.com/5NUxp9OIUfM-toTymrimzsYfa9Y=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726191-1171729618.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new age, relaxing" role="button">
@@ -138,7 +135,7 @@ edIT - Crying Over Pros for No Reason (2004-04-12)
 <li data-cover="http://coverartarchive.org/release/2790dbb6-91ff-4e71-982c-78fbb1ab3d7e/8364942432-500.jpg" data-tags="instrumental, bond - classified, new age, violin, classical crossover" role="button">
 Bond - Classified (2004-05-08)
 </li>
-<li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
+<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/58f2d266-b4ad-483c-abd0-d36dc25e0c02/11944292045-500.jpg" data-tags="relaxing, beautiful piano, piano, new age" role="button">
@@ -203,6 +200,9 @@ Katharine McPhee - Katharine McPhee (2007-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
+</li>
+<li data-cover="https://img.discogs.com/1u5cg-1Wd65aHJfWZfaMTZNNpDM=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-950281-1456038327-8586.jpeg.jpg" data-tags="nu jazz, downtempo, nostalgia 77, jazz, nu-jazz" role="button">
+Nostalgia 77 - Everything Under the Sun (2007-03-19)
 </li>
 <li data-cover="https://img.discogs.com/dOJa60os90Lct4y51jcn90hTkmA=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17672506-1614793975-6393.jpeg.jpg" data-tags="rnb" role="button">
 Amerie - Because I Love It (2007-05-14)

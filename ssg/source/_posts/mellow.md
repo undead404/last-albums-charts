@@ -1,19 +1,19 @@
 ---
-date: 2021-04-06T08:40:01.439Z
+date: 2021-04-06T12:56:01.405Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">Yo La Tengo - And Then Nothing Turned Itself Inside-Out (2000-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">Coldplay - Parachutes (2000-07-10)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
-<li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
+<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">Damien Rice - 9 (2006-11-06)</li>
+<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -33,9 +33,6 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/053fc4d5-34e8-4757-9e16-29c91b36253b/23804216681-500.jpg" data-tags="80s, new wave, art pop" role="button">
-Talk Talk - The Colour of Spring (1986-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
@@ -51,7 +48,7 @@ Lighthouse Family - Ocean Drive (1996-02)
 <li data-cover="http://coverartarchive.org/release/cc41e65d-471e-37fb-a050-73393f0ba30a/1606468604-500.jpg" data-tags="90s, rock" role="button">
 Dave Matthews Band - Crash (1996-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
+<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
@@ -171,7 +168,7 @@ Feist - Let It Die (2004-05-18)
 <li data-cover="http://coverartarchive.org/release/8265675c-28ee-4ed4-80ff-86f87e8c9229/27696792367-500.jpg" data-tags="indie, rock, alternative, seattle, indie rock, mellow, huh, bleak, northwest, ships ahoy, franny, gloeiworm, cat covers, have a copy" role="button">
 Pedro the Lion - Achilles Heel (2004-05-25)
 </li>
-<li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
+<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
@@ -183,7 +180,7 @@ Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f1caad2-d40e-4568-b316-a6b58bfaf03b/22120885010-500.jpg" data-tags="australian" role="button">
@@ -192,11 +189,11 @@ Ben Lee - Awake Is The New Sleep (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
-The Decemberists - Picaresque (2005-03-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb2bd2f4-33c1-3659-b7ab-20f475ec6814/10281446683-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - Brett Dennen (2005-07-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
+The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
@@ -219,6 +216,9 @@ Ingrid Michaelson - Girls and Boys (2006-05-16)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/ceeb60bd-f3d2-4b9e-988f-86555d894a21/19686688331-500.jpg" data-tags="indie, mellow" role="button">
+Death Cab for Cutie - I Will Follow You into the Dark (2006-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/c64999b0-8a0c-4085-96dd-7e4eab22c481/14990985445-500.jpg" data-tags="indie" role="button">
 Copeland - Eat, Sleep, Repeat (2006-08-31)
 </li>
@@ -231,9 +231,6 @@ Pretty Lights - Taking Up Your Precious Time (2006-10-23)
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
 </li>
-<li data-cover="https://img.discogs.com/dKC_ba-hfahXXfAu-PyUPnaqW4w=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830764-1517972935-2117.jpeg.jpg" data-tags="blues, m singer-songwriter" role="button">
-Scott Matthews - Passing Stranger (2007-03-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
@@ -242,6 +239,9 @@ Elliott Smith - New Moon (2007-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ab7278a-20f0-49b2-b157-0a6baf1052c5/1951082691-500.jpg" data-tags="mellow" role="button">
 Sea Wolf - Get To The River Before It Runs Too Low (2007-05-08)
+</li>
+<li data-cover="https://img.discogs.com/7EiCleCukimlnMSiRJ3HetVL9aI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-988152-1307744259.jpeg.jpg" data-tags="indie, indie pop, mellow, ghettotech, paredes de coura 2007, czalbums, ccano" role="button">
+Architecture in Helsinki - Heart It Races (2007-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f6d5d5-dc60-495b-ab0e-57752fff5303/17901386044-500.jpg" data-tags="indie, indie rock, mellow, rock" role="button">
 Band of Horses - The Funeral (2007-05-21)
@@ -260,9 +260,6 @@ Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/1f535139-1a00-4da7-89cc-94cb50ceb44d/3886056504-500.jpg" data-tags="indie folk, indie, indie rock, singer-songwriter, autumn" role="button">
-Sea Wolf - Leaves In The River (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Cease to Begin (2007-10-09)
@@ -305,6 +302,9 @@ Rumer - Seasons of My Soul (2010-08-23)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/2df28d24-51e2-4b2a-85cb-ce4f58fb4d6b/11616367011-500.jpg" data-tags="indie" role="button">
+Blind Pilot - We Are The Tide (2011-09-13)
 </li>
 <li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
 Tycho - Dive (2011-10-04)

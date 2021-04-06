@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:40:01.435Z
+date: 2021-04-06T13:10:01.454Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -26,6 +26,9 @@ The Stone Roses - The Stone Roses (1989-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg" data-tags="alternative rock, radiohead, rock" role="button">
 Radiohead - The Bends (1995-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
+Elliott Smith - Either/Or (1997-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
@@ -105,7 +108,7 @@ Arcade Fire - Funeral (2004-09-13)
 <li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">
 Stars - Set Yourself on Fire (2004-09-14)
 </li>
-<li data-cover="https://img.discogs.com/xMiFWJwEphLDMr-wOSPFShm1G4A=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-971954-1179329185.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/H-q1Do_SA1FUZzOWja6dHyPOdiw=/fit-in/456x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176911-1319213405.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
@@ -159,16 +162,13 @@ Keane - Under the Iron Sea (2006-06-07)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c7f5b38-1f43-417e-bf31-75dd238a7516/10669073258-500.jpg" data-tags="indie rock, indie" role="button">
-TV on the Radio - Return To Cookie Mountain (2006-07-03)
-</li>
 <li data-cover="https://img.discogs.com/h6zZQTHVQ4QUBLe7aacMX-M4tgM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759992-1323225269.jpeg.jpg" data-tags="rock, indie, indie rock, british" role="button">
 Razorlight - Razorlight (2006-07-17)
 </li>
 <li data-cover="https://img.discogs.com/CJ5ybWE_YZQ5YPt9B9MfsnffsSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958025-1523171606-6172.jpeg.jpg" data-tags="indie, indie rock, shoegaze" role="button">
 Silversun Pickups - Carnavas (2006-07-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">
+<li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">
 Peter Bjorn and John - Writer's Block (2006-08-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
@@ -183,11 +183,11 @@ The Decemberists - The Crane Wife (2006-10-03)
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
-Damien Rice - 9 (2006-11-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b585fc51-4f54-32d7-89a5-a5d57b3840dd/21173965740-500.jpg" data-tags="indie, indie rock" role="button">
+The Shins - Wincing the Night Away (2007-01-22)
 </li>
 <li data-cover="https://img.discogs.com/swhvMXzxFWhVCisSb0vI8ljApwI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-914722-1313695743.jpeg.jpg" data-tags="new rave, indie" role="button">
 Klaxons - Myths of the Near Future (2007-01-29)

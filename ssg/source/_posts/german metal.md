@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:57:01.305Z
+date: 2021-04-06T13:12:01.476Z
 title: "german metal: 100 albums you must listen to before you die"
 ---
 ![Gamma Ray - Heading For Tomorrow (1990-02-19)](https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg "Gamma Ray - Heading For Tomorrow (1990-02-19)")
@@ -198,9 +198,6 @@ Powerwolf - Return in Bloodred (2005-04-04)
 <li data-cover="https://img.discogs.com/TRezJga-iHjcvS0r1rRK26aRjyE=/fit-in/600x372/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15312541-1589572939-4842.jpeg.jpg" data-tags="melodic death metal" role="button">
 SuidAkrA - Command to Charge (2005-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/4347b6b4-91e4-4c32-9b9e-f3a2a0269617/9727404079-500.jpg" data-tags="pagan metal" role="button">
-Black Messiah - Oath of a Warrior (2005-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">
 Krypteria - In Medias Res (2005-07-25)
 </li>
@@ -248,6 +245,9 @@ Wolfchant - A Pagan Storm (2007-04-06)
 </li>
 <li data-cover="https://img.discogs.com/DTjfHpkVraRAE3pwpH3TLezKXCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4130913-1356308132-6161.jpeg.jpg" data-tags="metalcore" role="button">
 Caliban - The Awakening (2007-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/a39235c3-f908-3bb5-8048-d5497ea5fa44/13452118930-500.jpg" data-tags="folk metal, viking metal" role="button">
+Finsterforst - Weltenkraft (2007-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a9bd34c-e572-416d-a9de-e29a3aedb401/11541859642-500.jpg" data-tags="power metal" role="button">
 Ride The Sky - New Protection (2007-07-25)

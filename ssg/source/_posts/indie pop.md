@@ -1,17 +1,17 @@
 ---
-date: 2021-04-06T02:47:07.336Z
+date: 2021-04-06T12:49:01.640Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">The Postal Service - Give Up (2003-02-18)</li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">Death Cab for Cutie - Transatlanticism (2003-09-01)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">Kate Nash - Made of Bricks (2007-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">Foster the People - Torches (2011-05-23)</li>
-<li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">fun. - Some Nights (2011-07-12)</li>
 <li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">Of Monsters and Men - My Head Is an Animal (2011-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">Lorde - Pure Heroine (2013-09-27)</li>
 </ol>
@@ -39,9 +39,6 @@ The Shins - Oh, Inverted World (2001-06-19)
 <li data-cover="http://coverartarchive.org/release/9a1e5f83-4be0-48ff-8477-dce2e73a2ace/11716165288-500.jpg" data-tags="indie pop, indie" role="button">
 Stars - Heart (2002)
 </li>
-<li data-cover="https://img.discogs.com/WE01r_GQ0rGlSeYf9q4g7PeEpLo=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929475-1174326177.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Architecture in Helsinki - Fingers Crossed (2003-02-10)
-</li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
 </li>
@@ -54,19 +51,19 @@ The Shins - Chutes Too Narrow (2003-10-21)
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
+<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">
 Stars - Set Yourself on Fire (2004-09-14)
 </li>
-<li data-cover="https://img.discogs.com/xMiFWJwEphLDMr-wOSPFShm1G4A=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-971954-1179329185.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/H-q1Do_SA1FUZzOWja6dHyPOdiw=/fit-in/456x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176911-1319213405.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
-<li data-cover="https://img.discogs.com/T8BUzIK6AQ_RCFEBGt0slIEAC9I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15419742-1591252900-3265.jpeg.jpg" data-tags="indie pop, indie" role="button">
+<li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - The Sunlandic Twins (2005-02-23)
 </li>
-<li data-cover="https://img.discogs.com/0JmrZimIK0OjtV-P3ZMmtmg-SmE=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-441851-1342256427-1794.jpeg.jpg" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
@@ -84,8 +81,11 @@ Camera Obscura - Let's Get Out Of This Country (2006-05-29)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, swedish" role="button">
+<li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">
 Peter Bjorn and John - Writer's Block (2006-08-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
+of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3329c6a-6ff9-4254-b82e-f4ac85e5e6dd/2514121509-500.jpg" data-tags="indie, indie rock" role="button">
 Vampire Weekend - Vampire Weekend (2007-04)
@@ -141,7 +141,7 @@ Florence + the Machine - Lungs (2009-01-01)
 <li data-cover="http://coverartarchive.org/release/aed31f11-8501-3480-a3c7-208bac483618/2142624847-500.jpg" data-tags="indie pop" role="button">
 Matt & Kim - Grand (2009-01-20)
 </li>
-<li data-cover="https://img.discogs.com/JHy8ZvEN2no-o61buK3VwkX-V5M=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1758491-1264449281.jpeg.jpg" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/o8_V-hTUs1ECCKn6hzsWwStkPAs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7314256-1438690931-2167.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - My Maudlin Career (2009-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e1786e5-c6da-3bcf-961d-3b21a49ee9dc/13204157353-500.jpg" data-tags="indie pop, art pop, indie" role="button">
@@ -168,7 +168,7 @@ fun. - Aim and Ignite (2009-08-25)
 <li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
 Phantogram - Eyelid Movies (2009-09)
 </li>
-<li data-cover="https://img.discogs.com/09ag45PmimhGNcH3FpGy17J5IeM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2086171-1263341389.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
+<li data-cover="https://img.discogs.com/WsRvEbzvbUUk83b9XmAPKAaAzBQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2058189-1536693069-9605.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
 Vampire Weekend - Contra (2010-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg" data-tags="dream pop" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:54:01.739Z
+date: 2021-04-06T13:13:01.416Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -44,9 +44,6 @@ Green Day - Warning (2000-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bbf8886-9d39-44b7-b6ed-c7ad6180fca3/15993145575-500.jpg" data-tags="pop punk" role="button">
 Good Charlotte - Good Charlotte (2000-04-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/db66e6ec-b295-4f64-bd96-9311186d0df0/5571534834-500.jpg" data-tags="pop punk, punk rock, rapcore" role="button">
-Zebrahead - Playmate of the Year (2000-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/20d8fdf6-d08c-4384-8204-abdb87408aec/10858824360-500.jpg" data-tags="pop punk" role="button">
 Bowling for Soup - Drunk Enough to Dance (2000-08-20)
@@ -186,6 +183,9 @@ New Found Glory - Coming Home (2006-09-18)
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
+Mayday Parade - Tales Told By Dead Friends (2006-11-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
 </li>
@@ -216,11 +216,11 @@ The Rocket Summer - Do You Feel (2007-07-17)
 <li data-cover="http://coverartarchive.org/release/fce84812-b235-3b88-ac39-9e682c3642de/11117857971-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Even If It Kills Me (2007-07-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/9b7f764c-178e-4846-a95d-5e4e45358c68/25544318506-500.jpg" data-tags="pop punk" role="button">
+Four Year Strong - Rise or Die Trying (2007-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/060e7fec-7984-313d-a76d-493354106e7d/14523195786-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - Underclass Hero (2007-07-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">
-The Starting Line - Direction (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b97c7de1-616c-40bf-a8d7-9ceb84ab8552/7273638872-500.jpg" data-tags="pop punk" role="button">
 All Time Low - So Wrong, It's Right (2007-09-25)
@@ -276,6 +276,9 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/d2c866fb-356d-4d5c-a1f3-6ad8e0695e3e/3370165259-500.jpg" data-tags="pop punk, melodic hardcore" role="button">
+Title Fight - The Last Thing You Forget (2009-07-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
 Boys Like Girls - Love Drunk (2009-09-08)
 </li>
@@ -314,9 +317,6 @@ Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/89c35108-4695-4b3f-b1e9-ce2a1d38bcfc/11327787575-500.jpg" data-tags="emo, pop punk" role="button">
-The Hotelier - Home, Like Noplace Is There (2014-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
 Charli XCX - Sucker (2014-12-15)

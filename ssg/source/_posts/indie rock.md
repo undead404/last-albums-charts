@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:15:02.090Z
+date: 2021-04-06T13:17:01.438Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
-Neutral Milk Hotel - On Avery Island (1996-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
@@ -156,6 +153,9 @@ Cold War Kids - Robbers & Cowards (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/b585fc51-4f54-32d7-89a5-a5d57b3840dd/21173965740-500.jpg" data-tags="indie, indie rock" role="button">
+The Shins - Wincing the Night Away (2007-01-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock, britpop" role="button">
 Kaiser Chiefs - Yours Truly, Angry Mob (2007-02-23)
 </li>
@@ -246,7 +246,7 @@ The xx - xx (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
 Arctic Monkeys - Humbug (2009-08-19)
 </li>
-<li data-cover="https://img.discogs.com/09ag45PmimhGNcH3FpGy17J5IeM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2086171-1263341389.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
+<li data-cover="https://img.discogs.com/WsRvEbzvbUUk83b9XmAPKAaAzBQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2058189-1536693069-9605.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
 Vampire Weekend - Contra (2010-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9abf895-1404-43d7-8125-fb83b1a8bf34/7456433094-500.jpg" data-tags="indie rock" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T05:58:01.348Z
+date: 2021-04-06T13:11:01.372Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -21,11 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/0LkZjEmYSwlaaPWIAI81rR5yEFo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-438206-1167320032.jpeg.jpg" data-tags="britpop, indie, indie pop" role="button">
+<li data-cover="https://img.discogs.com/gDRF0Ba6hVcyn2KxUHS_d2Pmp5M=/fit-in/300x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-183643-1155911467.jpeg.jpg" data-tags="britpop, indie, indie pop" role="button">
 Black Box Recorder - England Made Me (1998-07-06)
 </li>
 <li data-cover="https://img.discogs.com/BgT9I7SK742iKlFoXpvvVLqJTCA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-294541-1582727741-1185.jpeg.jpg" data-tags="post-rock, icelandic" role="button">
 Slowblow - Slowblow (2004-07-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae39aa8d-3955-412f-8801-fd57b624ed8b/7754380019-500.jpg" data-tags="electronic, dance, electro" role="button">
+Soulwax - Nite Versions (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/be17da0c-a4fe-4c52-9d61-b5af0b6f54a2/5227824032-500.jpg" data-tags="electronic" role="button">
 Joey Fehrenbach - Mellowdrama (2006-06-06)
@@ -150,9 +153,6 @@ Washed Out - Within and Without (2011-07-06)
 <li data-cover="http://coverartarchive.org/release/14990136-0c6a-49a2-befb-09b3703aa01a/3393506050-500.jpg" data-tags="experimental" role="button">
 XXYYXX - Still Sound (2011-07-08)
 </li>
-<li data-cover="https://img.discogs.com/LBHfqPcsHoFGPaAS5JH8hVHZaYw=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3581845-1336155290.jpeg.jpg" data-tags="ambient, downtempo" role="button">
-Slow Magic - ▲ (2011-08-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
 </li>
@@ -188,6 +188,9 @@ Darkside - Darkside (2011-11-17)
 </li>
 <li data-cover="https://img.discogs.com/PpnqdJLTsIH_Qm384AfKvR-Db68=/fit-in/300x291/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4240352-1370399174-5609.jpeg.jpg" data-tags="indie, soul, alternative, singer-songwriter, canada, solo, canadian, psychedelic, dreamy, montreal, singer songwriter, alternative pop, quebec, chillwave, 10s, free music, hypnagogic pop, solo artist, edmonton, one man band, netaudio, one-man-band, glo-fi, new weird, bandcamp, free album, solo project, webaudio, weird canada, new weird canada, indie soul, hypnagogic, one man project, arbutus records, canadian underground, one-man-project, arbutus, one  man band, glo-soul" role="button">
 Sean Nicholas Savage - Flamingo (2011-12-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/697082bd-a67e-453a-a63c-6696b06ac98d/2985165419-500.jpg" data-tags="house" role="button">
+John Talabot - ƒin (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
@@ -269,9 +272,6 @@ Samaris - Samaris (2013-07-29)
 </li>
 <li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">
 Washed Out - Paracosm (2013-08-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/e4fe6f5d-bde5-485c-bb4a-5addaa880a4e/4862260304-500.jpg" data-tags="dream pop" role="button">
-Pure Bathing Culture - Moon Tides (2013-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdbb13cc-dd9b-42a4-828d-50b2dc434ee4/5199358578-500.jpg" data-tags="synthpop" role="button">
 Keep Shelly In Athens - At Home (2013-09-17)
