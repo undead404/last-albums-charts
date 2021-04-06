@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T05:26:01.347Z
+date: 2021-04-06T11:21:01.618Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -210,7 +210,7 @@ Regina Spektor - Begin to Hope (2006-06-13)
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
 Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 </li>
-<li data-cover="https://img.discogs.com/L6fNWkhATYnQN1BLSSJwhP7MTjM=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12000620-1526319246-8566.jpeg.jpg" data-tags="spanish, electronic, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, hot, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
+<li data-cover="https://img.discogs.com/KrjLwDirjXVBN_U-SW2TdL3G7Uc=/fit-in/480x417/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093043-1384333688-9589.jpeg.jpg" data-tags="spanish, electronic, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, hot, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
 Ivete Sangalo - Berimbau Metalizado (2006-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
@@ -243,9 +243,6 @@ sToa - Silmand (2008-09-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, female vocalists" role="button">
 Anna Ternheim - Leaving On A Mayday (2008-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/b88dbd5b-9d4e-49d8-a4ea-1634b9dfa5e1/14885682991-500.jpg" data-tags="jazz" role="button">
-Madeleine Peyroux - Bare Bones (2009-01-01)
-</li>
 <li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
 Erin McCarley - Love, Save The Empty (2009-01-06)
 </li>
@@ -275,6 +272,9 @@ We Are the Fallen - Tear The World Down (2010-05-07)
 </li>
 <li data-cover="https://img.discogs.com/F2YZ4Dh4vvEiZi_oOF0xWERWW38=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2340236-1467352790-1220.jpeg.jpg" data-tags="indie, pop, country, female vocals, debut album, chillax, butra pjeva, self-titled album" role="button">
 Allo Darlin' - Allo Darlin' (2010-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/33df508c-d3d1-4103-857d-4d146d1efe8d/2865859583-500.jpg" data-tags="country, sugarland" role="button">
+Sugarland - Stuck Like Glue (2010-07-23)
 </li>
 <li data-cover="https://img.discogs.com/SK3puEoGJMQ3i0MZoQ2f8LkJTuQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2540429-1289518744.jpeg.jpg" data-tags="female vocalists" role="button">
 Lolene - The Electrick Hotel (2010-08)
@@ -306,7 +306,7 @@ Mint Julep - Save Your Season (2011-11-21)
 <li data-cover="https://img.discogs.com/sAPQvsbSpvYXxK_JX1o1i9SE7z4=/fit-in/600x310/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16088212-1603982964-4456.jpeg.jpg" data-tags="psychedelic rock, blues rock" role="button">
 Blues Pills - Bliss (2012-05-25)
 </li>
-<li data-cover="https://img.discogs.com/RE87irgVcWLmlUauW4HUMHo3ys8=/fit-in/527x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3650162-1338878453-2109.jpeg.jpg" data-tags="female vocalists, singer-songwriter, indie, folk" role="button">
+<li data-cover="https://img.discogs.com/U2u1IJX-wxO7HQ0SZXpU4HL0Pis=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14117028-1568174135-7777.jpeg.jpg" data-tags="female vocalists, singer-songwriter, indie, folk" role="button">
 Brandi Carlile - Bear Creek (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fea40923-0beb-4be6-aafe-29349adfe9c2/8344484122-500.jpg" data-tags="symphonic metal" role="button">

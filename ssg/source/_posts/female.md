@@ -1,11 +1,11 @@
 ---
-date: 2021-04-06T05:41:01.482Z
+date: 2021-04-06T10:51:01.681Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
+<li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">Feist - Let It Die (2004-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">Brandi Carlile - The Story (2007-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
@@ -57,11 +57,11 @@ Jewel - Pieces of You (1994)
 <li data-cover="https://img.discogs.com/A0hMPwgAEFnq8ZyMLIxdAwQg-JA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319978-1580194098-1708.jpeg.jpg" data-tags="90s, heather nova" role="button">
 Heather Nova - Oyster (1994-10-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/7bce126e-92a6-3e36-8777-baa8f2c296d3/8615407273-500.jpg" data-tags="folk" role="button">
+Tracy Chapman - New Beginning (1995-11-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/16b92612-7634-4053-8464-b1b0e18847f2/5641031475-500.jpg" data-tags="female" role="button">
 Dar Williams - Mortal City (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
-Fiona Apple - Tidal (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
@@ -72,7 +72,10 @@ Mazzy Star - Among My Swan (1996-10-17)
 <li data-cover="http://coverartarchive.org/release/cd2699c3-5825-45fa-9133-facb02651524/14670573584-500.jpg" data-tags="female vocalists" role="button">
 Lisa Loeb - Firecracker (1997-10-27)
 </li>
-<li data-cover="https://img.discogs.com/IwRSWIId9ZGGotw8pJqMqNa1KuU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2950828-1340169040-3380.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="female, mariah carey, lovesongs, carey" role="button">
+Mariah Carey - I Still Believe (1998)
+</li>
+<li data-cover="https://img.discogs.com/kGuGCCZ034rIDSKbObK6wxpjOWg=/fit-in/480x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784092-1296992310.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
 Imogen Heap - I Megaphone (1998-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
@@ -159,7 +162,7 @@ Britney Spears - Greatest Hits: My Prerogative (2004-11-04)
 <li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
 Shania Twain - Greatest Hits (2004-11-08)
 </li>
-<li data-cover="https://img.discogs.com/ly7RLMEKPSRmSN-evdNPH2XJW3I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463243-1421694038-7821.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="https://img.discogs.com/beKc7sAiHUweEnNafpZsZziLVjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608223-1572388236-8158.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
@@ -213,9 +216,6 @@ Sia - Some People Have Real Problems (2008-01-08)
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
-Perfume - GAME (2008-04-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/8cf43ee9-65c3-407e-863d-cdb7b8bbad39/28864635475-500.jpg" data-tags="tom waits, alternative, cover" role="button">
 Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 </li>
@@ -267,7 +267,7 @@ Little Dragon - Ritual Union (2011-05-13)
 <li data-cover="https://img.discogs.com/xS_1Wc5NHgHgcct24F39nLQones=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5952254-1407225003-2204.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - Strange Mercy (2011-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/0c10bdf4-5c7c-4d36-89e4-8e00d8c1d95b/12472896155-500.jpg" data-tags="indie, female, male, alternative, folk, singer-songwriter, c, fantastic, girls, day, g, pretty, k, my, recommended, game, sometimes, inspirational, j, hot, vocalists, pleasant, afrique, lovely, visual, women, lost, what, e, leaf, woman, single, misc, girl, pleasing, something, afterlife, babe, no, verbal, ladies, when, where, satisfaction, i, richard, o, myself, you, else, everything, oh, thoughts, bananas, darlings, go, somewhere, x, bats, true, variable, awareness, miscellaneous, every, tasty, be, d, proper, the, alt, rich, listen, can, shady, s, b, planet, h, only, one, a, swag, lady, is" role="button">
+<li data-cover="http://coverartarchive.org/release/0c10bdf4-5c7c-4d36-89e4-8e00d8c1d95b/12472896155-500.jpg" data-tags="indie, female, male, alternative, folk, singer-songwriter, c, fantastic, girls, day, g, pretty, k, my, recommended, game, sometimes, inspirational, j, hot, vocalists, pleasant, afrique, lovely, visual, women, lost, what, e, leaf, woman, single, misc, girl, pleasing, something, afterlife, babe, no, verbal, ladies, when, where, satisfaction, i, richard, o, myself, you, else, oh, thoughts, bananas, darlings, go, somewhere, x, bats, true, variable, awareness, miscellaneous, every, tasty, be, d, proper, the, alt, rich, can, shady, s, b, planet, h, only, one, swag, lady, is" role="button">
 Fatoumata Diawara - Fatou (2011-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">

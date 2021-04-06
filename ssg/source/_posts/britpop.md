@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:53:01.454Z
+date: 2021-04-06T11:05:01.478Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -96,7 +96,7 @@ Robbie Williams - Life Thru a Lens (1997-09-10)
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
 </li>
-<li data-cover="https://img.discogs.com/OvPu5nWsA_XD7zeGP6WGdhK0FHA=/fit-in/600x625/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2404540-1578898843-1716.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
 Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="https://img.discogs.com/oM7KNuQxHiQ928Pu0wPwuEnxyyM=/fit-in/306x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1588511-1230506858.jpeg.jpg" data-tags="britpop" role="button">
@@ -174,7 +174,7 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/47a1f944-e46f-4a7e-b882-1632c9397176/15016689641-500.jpg" data-tags="britpop, indie" role="button">
 Travis - 12 Memories (2003-10-08)
 </li>
-<li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
+<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
@@ -215,9 +215,6 @@ Coldplay - X&Y (2005-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
 Supergrass - Road to Rouen (2005-08-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/745378c5-be6e-4500-b507-c50c6e175970/15823905696-500.jpg" data-tags="coldplay, rock, alternative rock, britpop" role="button">
-Coldplay - Fix You (2005-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
 Elbow - Leaders of the Free World (2005-09-07)
@@ -266,6 +263,9 @@ Editors - An End Has A Start (2007-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/9531dc7b-dca8-373c-b41f-94bee7b4c661/25387153577-500.jpg" data-tags="britpop" role="button">
 Travis - The Boy With No Name (2007-05-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="james blunt, pop" role="button">
+James Blunt - All the Lost Souls (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/78a30a53-7278-4aa2-bee5-dbfe741a3675/21188045762-500.jpg" data-tags="rock, britpop" role="button">
 Stereophonics - Pull the Pin (2007-10-10)

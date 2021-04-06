@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T03:43:01.348Z
+date: 2021-04-06T11:03:01.383Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -32,9 +32,6 @@ David Bowie - Pin Ups (1973-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
 Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6604008-c088-3091-ae2e-a9a15e7cc327/21251538374-500.jpg" data-tags="industrial, martial industrial" role="button">
-Laibach - Let It Be (1988-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c18b8cbc-49d9-4c26-a031-f15cc8153a4d/2044386287-500.jpg" data-tags="covers, contemporary classical, kraftwerk" role="button">
 Balanescu Quartet - Possessed (1992-09-21)
@@ -203,6 +200,9 @@ Richard Cheese - The Sunny Side of the Moon: The Best of Richard Cheese (2006-02
 </li>
 <li data-cover="http://coverartarchive.org/release/cd9b5d63-d021-490e-ba53-3c1717fd0a8e/9167672848-500.jpg" data-tags="blues, blues covers, fat possum" role="button">
 The Black Keys - Chulahoma (2006-05-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fe94139-df63-4e51-b2e7-a1d53535cdd9/7145334932-500.jpg" data-tags="lounge" role="button">
+Nouvelle Vague - Bande à Part (2006-06-12)
 </li>
 <li data-cover="https://img.discogs.com/3R_3eseeU1DRE2C9CNShYQT-NrA=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4589144-1377381584-7238.jpeg.jpg" data-tags="covers" role="button">
 Grant-Lee Phillips - Nineteeneighties (2006-06-27)

@@ -1,17 +1,17 @@
 ---
-date: 2021-04-06T09:40:01.411Z
+date: 2021-04-06T11:43:01.425Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - Let Go (2002-06-04)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">Avril Lavigne - Under My Skin (2004-03)</li>
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">Kelly Clarkson - Breakaway (2004-11-30)</li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - The Best Damn Thing (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">Katy Perry - One of the Boys (2008-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">The Script - The Script (2008-08-11)</li>
-<li data-cover="http://coverartarchive.org/release/86da059c-2af3-43f4-897e-d3f7fa3f5a75/2333307730-500.jpg" data-tags="pop" role="button">Adam Lambert - For Your Entertainment (2009-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/f823905a-102e-471f-b6aa-3ff6f575986c/9697439439-500.jpg" data-tags="pop rock" role="button">OneRepublic - Native (2013-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">Fall Out Boy - Save Rock and Roll (2013-04-12)</li>
 </ol>
@@ -57,6 +57,9 @@ Jimmy Eat World - Bleed American (2001-07-18)
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
+Maroon 5 - Songs About Jane (2002-06-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/198b344c-7455-4a9e-b32b-6d06ce77c41f/6358368858-500.jpg" data-tags="singer-songwriter, jason mraz" role="button">
 Jason Mraz - Waiting for My Rocket to Come (2002-10-15)
 </li>
@@ -87,10 +90,7 @@ Jesse McCartney - Beautiful Soul (2004-08-12)
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e79e742e-49c6-4f11-964e-ed89212c9736/28281473613-500.jpg" data-tags="emo, pop" role="button">
-Lindsay Lohan - Speak (2004-12-07)
-</li>
-<li data-cover="https://img.discogs.com/_7bxSXVw6ckhPnAtU7D3pbRtPZ0=/fit-in/496x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4293261-1391798392-3861.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/F7_vX7cpN29uV2NF4Xt4kSvyYc0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254198-1423920499-1926.jpeg.jpg" data-tags="rock" role="button">
 Plain White T's - All That We Needed (2005-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
@@ -98,6 +98,9 @@ Lifehouse - Lifehouse (2005-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
+The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
@@ -114,14 +117,17 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/3ce5441e-ea49-4ba3-879b-faff3b547d2b/11183169551-500.jpg" data-tags="pop, pop rock" role="button">
 Ashlee Simpson - I Am Me (2005-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
-Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
-</li>
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+P!nk - I'm Not Dead (2006-03-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/61710908-1bb8-4fd9-99b0-f9e0ad6f7d7f/9587442144-500.jpg" data-tags="pop punk" role="button">
 Boys Like Girls - Boys Like Girls (2006-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/67db7446-023c-482c-881d-90501a6637a1/28025724057-500.jpg" data-tags="mcfly, pop rock, rock" role="button">
+McFly - Motion in the Ocean (2006-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">
 Fall Out Boy - Infinity on High (2007-02-05)
@@ -132,11 +138,17 @@ Good Charlotte - Good Morning Revival (2007-03-14)
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/b3de7a77-8de8-44f2-9830-a757d87ccf46/6488476227-500.jpg" data-tags="pop, maroon 5, rock" role="button">
+Maroon 5 - It Won't Be Soon Before Long (2007-05-16)
+</li>
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a386125-77d2-4f40-8533-b9fb7bcf9717/9805970120-500.jpg" data-tags="pop, rock, pop rock" role="button">
+Kelly Clarkson - My December (2007-06-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop rock, pop punk" role="button">
 The Rocket Summer - Do You Feel (2007-07-17)
@@ -152,6 +164,9 @@ The Spill Canvas - No Really, I'm Fine (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/04e20dc5-cd0c-4315-9994-33d9856de5c6/14073861785-500.jpg" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
+Jonas Brothers - A Little Bit Longer (2008-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
@@ -182,9 +197,6 @@ Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9b36ee2-1f4f-4d01-ab6d-9ed975189ac9/21455987147-500.jpg" data-tags="alternative rock, pop rock, pop punk, russian roulette, j adore, ripped, posted to half, no cure1, red city pt2, from dreams to life, no cure, definition of fantabulous, you cant illustrate while you suffocate, for everything youve done, enjoy your stay isaac, no cure band" role="button">
 Anarbor - Free Your Mind (2009-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
-Paolo Nutini - Sunny Side Up (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
@@ -228,9 +240,6 @@ James Blunt - Some Kind of Trouble (2010-11-03)
 <li data-cover="https://img.discogs.com/0CtNv-CkWzbIf-mjvX-enIBKBto=/fit-in/313x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6930395-1429761871-5094.jpeg.jpg" data-tags="pop, pop rock, gi, yo" role="button">
 Jessie J - Domino (2011-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/76cbcc56-63ca-49a5-acae-e51dbdffc21a/12051865740-500.jpg" data-tags="pop rock, rock, female vocalists" role="button">
-Avril Lavigne - What The Hell (2011-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/5de593ea-432e-4cec-addc-2a3ec28079ad/1708845679-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Goodbye Lullaby (2011-03-02)
 </li>
@@ -251,9 +260,6 @@ Arctic Monkeys - R U Mine? (2012-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
 Train - California 37 (2012-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/94fdd9eb-5394-4ca0-b12f-c4aff9660707/871610070-500.jpg" data-tags="alternative rock" role="button">
-Jason Mraz - Love Is A Four Letter Word (2012-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff633079-f4de-4d2f-83ea-24e0d5d3f411/3212315956-500.jpg" data-tags="pop" role="button">
 Maroon 5 - Overexposed (2012-06-20)
@@ -285,9 +291,6 @@ Fall Out Boy - Save Rock and Roll (2013-04-12)
 <li data-cover="http://coverartarchive.org/release/74d2a13d-6b16-4e6d-9a3a-3c56b569741a/16339583300-500.jpg" data-tags="indie pop, alternative rock, indie rock" role="button">
 The Neighbourhood - I Love You. (2013-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cab788d3-7e52-49d5-a4d8-7caaa1acbf48/4412443717-500.jpg" data-tags="alternative" role="button">
-Arctic Monkeys - Do I Wanna Know? (2013-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
 </li>
@@ -296,9 +299,6 @@ Arctic Monkeys - Why'd You Only Call Me When You're High? (2013-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
-Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6585b0ce-3570-413f-be0f-385d2caae101/5250767763-500.jpg" data-tags="pop rock, rock" role="button">
 Avril Lavigne - Avril Lavigne (2013-11-01)

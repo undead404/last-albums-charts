@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T01:28:01.347Z
+date: 2021-04-06T11:44:01.560Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -105,6 +105,9 @@ Ricky Martin - Ricky Martin (1999-05-04)
 <li data-cover="https://img.discogs.com/1DR0jBQzGVXuAlwXyBIu_fdIF3E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13762857-1560590339-1299.jpeg.jpg" data-tags="pop" role="button">
 Jennifer Lopez - On the 6 (1999-06-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative" role="button">
+Smash Mouth - Astro Lounge (1999-06-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">
 Santana - Supernatural (1999-06-15)
 </li>
@@ -206,9 +209,6 @@ Pink Martini - Hang On Little Tomato (2004-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a271195e-6004-4766-a825-1fe0c2a9bab0/8225146325-500.jpg" data-tags="cuban, orishas" role="button">
 Orishas - El Kilo (2005)
-</li>
-<li data-cover="https://img.discogs.com/loqCR9di_kyq2hhzGT2D4lcCzEM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858208-1377681398-5115.jpeg.jpg" data-tags="pop, rnb" role="button">
-Jennifer Lopez - Rebirth (2005-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d95751d8-e622-4fa1-b745-b69c4596889c/15019413195-500.jpg" data-tags="pop, reik" role="button">
 Reik - Reik (2005-05-24)

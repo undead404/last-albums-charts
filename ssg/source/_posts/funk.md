@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:06:01.959Z
+date: 2021-04-06T11:22:01.528Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -38,9 +38,6 @@ Sly & The Family Stone - There's A Riot Goin' On (1971-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/18d980d4-43f6-4d22-a6df-50ce7a3a6757/15600546210-500.jpg" data-tags="funk" role="button">
 Cymande - Cymande (1972)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-Bill Withers - Still Bill (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
@@ -117,9 +114,6 @@ A Man Called Adam - Bread, Love And Dreams (1992)
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
 </li>
-<li data-cover="https://img.discogs.com/1L3F6UEIUzzI61DUFSNRtrzfWec=/fit-in/574x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328967-1361784708-6869.jpeg.jpg" data-tags="funk, 80s, prince" role="button">
-Prince - Controversy (1993)
-</li>
 <li data-cover="https://img.discogs.com/QYwxSdn4KsgCk3juno4AEzEqtN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204994-1358497086-7715.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
 </li>
@@ -186,6 +180,9 @@ Jamiroquai - A Funk Odyssey (2001-08-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Red Hot Chili Peppers - By the Way (2002-06-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
+Maroon 5 - Songs About Jane (2002-06-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
 Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
@@ -207,6 +204,9 @@ Gnarls Barkley - St. Elsewhere (2006-04-24)
 <li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
+Paolo Nutini - These Streets (2006-07-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/3a589980-607d-466e-b17d-41778d5effc5/2693377789-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Idlewild (2006-08-19)
 </li>
@@ -224,9 +224,6 @@ Chromeo - Fancy Footwork (2007-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">
 Mark Ronson - Version (2007-04-14)
-</li>
-<li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
-Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)
@@ -308,6 +305,9 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/3be8bd29-a036-4906-b668-030aa6b21c1f/7123167778-500.jpg" data-tags="soul, funk" role="button">
 Paolo Nutini - Caustic Love (2014-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/11628a0e-99ad-433b-9259-6de49e72ca24/7668980421-500.jpg" data-tags="pop" role="button">
+Michael Jackson - XSCAPE (2014-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d5301ae-ffe9-4088-b2b1-37651ca776c8/7469915996-500.jpg" data-tags="disco, electronic, funk, house, indietronica, canadian, synthpop, alternative dance, electro funk, yacht rock, nu disco, electrofunk, albumsiown, vinyl collection, 2014 albums, yacht rock revival" role="button">
 Chromeo - White Women (2014-05-12)

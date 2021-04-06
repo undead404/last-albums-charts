@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T19:26:01.399Z
+date: 2021-04-06T10:54:01.992Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -39,7 +39,7 @@ David Bowie - Station to Station (1976-01-23)
 <li data-cover="http://coverartarchive.org/release/c2d276a9-3765-3e0e-b42a-eeeb83622d64/20775348580-500.jpg" data-tags="classic rock, 70s" role="button">
 The Rolling Stones - Black And Blue (1976-04-23)
 </li>
-<li data-cover="https://img.discogs.com/SmEOHtl5BV3oC3eHobyo1qbDQjE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4570866-1572091079-8496.jpeg.jpg" data-tags="70s, soul, funk" role="button">
+<li data-cover="https://img.discogs.com/74ikicIbqafU4HHcDFA3KZmQ6Z8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3509079-1335371754.jpeg.jpg" data-tags="70s, soul, funk" role="button">
 Earth, Wind & Fire - All 'N All (1977)
 </li>
 <li data-cover="https://img.discogs.com/32880biZR_MPzWMMIxKQOPOn0go=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405301-1133348183.jpeg.jpg" data-tags="funk" role="button">
@@ -54,7 +54,7 @@ Queen - Hot Space (1982-05-21)
 <li data-cover="https://img.discogs.com/tfL5Hn2co3lZUhKGw6yYN7rKzDg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-617385-1488577819-6558.jpeg.jpg" data-tags="punk, post-punk" role="button">
 Minutemen - Double Nickels on the Dime (1984-07)
 </li>
-<li data-cover="https://img.discogs.com/B80wGyITBZP1Onj9AbqLE-v2k7U=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721905-1354726244-1607.jpeg.jpg" data-tags="funk rock" role="button">
+<li data-cover="https://img.discogs.com/vXkEoXsQV1UElskxuI9qUErajOc=/fit-in/468x477/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13023556-1546656092-1004.jpeg.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
@@ -165,16 +165,13 @@ I Mother Earth - Scenery and Fish (1996-07-09)
 <li data-cover="http://coverartarchive.org/release/5bb9015d-6d4b-4226-b4d8-196397e59554/20311788316-500.jpg" data-tags="heavy metal, metal, jazz, rock, alternative, alternative rock, experimental, progressive metal, hard rock, progressive rock, fusion, funk metal, funk, progressive, funk rock, wants, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal, spanking hour" role="button">
 Freak Kitchen - Spanking Hour (1996-08-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental rock, guitar virtuoso" role="button">
-Steve Vai - Fire Garden (1996-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/e918ad34-b3d8-4f34-a5f7-2347f02d0425/10622308237-500.jpg" data-tags="funk metal, hardcore, nu metal" role="button">
 Snot - Get Some (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 </li>
-<li data-cover="https://img.discogs.com/vyQWHjqez5G_6CQbqagAf3JM1Yc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3581950-1336159275.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
+<li data-cover="https://img.discogs.com/wCEnXoRmGZQh1Q_cj9ptF_8OsrQ=/fit-in/152x152/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17975878-1616515957-6013.jpeg.jpg" data-tags="alternative rock, funk metal, rock, funk" role="button">
 Incubus - Enjoy Incubus (1997-01-07)
 </li>
 <li data-cover="https://img.discogs.com/pT-kc2oSccre5hsiyhZfuraGNlA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13151417-1550929940-7194.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
@@ -195,7 +192,7 @@ Red Hot Chili Peppers - Californication (1999-06-07)
 <li data-cover="http://coverartarchive.org/release/fcdeed0f-4c5d-41b6-b7ae-9fa93bf3e9dc/1608622889-500.jpg" data-tags="rock, pop rock, brazil" role="button">
 O Rappa - Lado B Lado A (1999-09-15)
 </li>
-<li data-cover="https://img.discogs.com/70nzGEKuhTlPpAECU5c-tC_k2DQ=/fit-in/555x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8228500-1457541447-7515.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/BOVm2LL9AWwaxhS-ebRuyVisVcY=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602393-1137205374.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
 311 - Soundsystem (1999-10-12)
 </li>
 <li data-cover="https://img.discogs.com/fzRgl1_qWan58EQ2sode-Shk5DQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11742573-1521612866-9802.jpeg.jpg" data-tags="funk metal" role="button">
@@ -243,6 +240,9 @@ Papa Roach - Live and Murderous in Chicago (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/b3de7a77-8de8-44f2-9830-a757d87ccf46/6488476227-500.jpg" data-tags="pop, maroon 5, rock" role="button">
+Maroon 5 - It Won't Be Soon Before Long (2007-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/c96335b2-2429-4990-a1c8-ff5a4904aa73/2839113560-500.jpg" data-tags="instrumental, funk" role="button">
 Beastie Boys - The Mix-Up (2007-06-22)
 </li>
@@ -279,7 +279,7 @@ The Heavy - The House That Dirt Built (2009-09-18)
 <li data-cover="https://img.discogs.com/wEKekcRE7RqBzTKflOmhD_HVHY8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2105168-1600563941-7038.jpeg.jpg" data-tags="indie rock" role="button">
 OK Go - Of the Blue Colour of the Sky (2010-01-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, rock, pop rock, soft rock, blues rock, funk rock, ok, 10s, nick jonas, wrkut, who i am, lo mejor del momento" role="button">
+<li data-cover="https://img.discogs.com/LFXcNnQuWWQKvKA9bXg0KopqGjU=/fit-in/554x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440214-1600174985-6208.jpeg.jpg" data-tags="pop, rock, pop rock, soft rock, blues rock, funk rock, ok, 10s, nick jonas, wrkut, who i am, lo mejor del momento" role="button">
 Nick Jonas & the Administration - Who I Am (2010-02-01)
 </li>
 <li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:54:01.454Z
+date: 2021-04-06T11:12:01.394Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -7,7 +7,7 @@ title: "funk metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">Faith No More - The Real Thing (1989-06-20)</li>
 <li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">Primus - Sailing The Seas Of Cheese (1991-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">Faith No More - Angel Dust (1992-06-08)</li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">Korn - Korn (1994-10-11)</li>
 <li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">Red Hot Chili Peppers - One Hot Minute (1995-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">Incubus - Fungus Amongus (1995-11-01)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/B80wGyITBZP1Onj9AbqLE-v2k7U=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721905-1354726244-1607.jpeg.jpg" data-tags="funk rock" role="button">
+<li data-cover="https://img.discogs.com/vXkEoXsQV1UElskxuI9qUErajOc=/fit-in/468x477/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13023556-1546656092-1004.jpeg.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Red Hot Chili Peppers (1984-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f6282a9-6b8f-4215-b61f-358ba8ebb9d0/2824608720-500.jpg" data-tags="alternative metal, post-punk, funk metal" role="button">
@@ -30,7 +30,7 @@ Faith No More - We Care a Lot (1985)
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, funk metal" role="button">
+<li data-cover="https://img.discogs.com/Qo-yFDhFRNOsBEjGJJ0bpwFX5ik=/fit-in/587x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709098-1421535721-3732.jpeg.jpg" data-tags="alternative metal, funk metal" role="button">
 Faith No More - Introduce Yourself (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">
@@ -44,6 +44,9 @@ Fishbone - Truth And Soul (1988-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/245c9588-b4f8-33df-98f4-4b29b3775916/11571156452-500.jpg" data-tags="hard rock, 80s" role="button">
 Living Colour - Vivid (1988-09-18)
+</li>
+<li data-cover="https://img.discogs.com/LkFZ2HDcMq295kZFRY62KxUZ8Vw=/fit-in/500x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5612008-1397959056-8959.jpeg.jpg" data-tags="ska punk" role="button">
+Fishbone - Fishbone (1988-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a87dca1-6046-4204-842c-022126631eaa/18837963279-500.jpg" data-tags="funk metal" role="button">
 Mr. Bungle - OU818 (1989)
@@ -96,7 +99,7 @@ Primus - Miscellaneous Debris (1992-03-12)
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
 </li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a02e8730-2374-330a-8e10-f5097b644982/9458120372-500.jpg" data-tags="hard rock, funk rock" role="button">
@@ -167,9 +170,6 @@ I Mother Earth - Scenery and Fish (1996-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bb9015d-6d4b-4226-b4d8-196397e59554/20311788316-500.jpg" data-tags="heavy metal, metal, jazz, rock, alternative, alternative rock, experimental, progressive metal, hard rock, progressive rock, fusion, funk metal, funk, progressive, funk rock, wants, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal, spanking hour" role="button">
 Freak Kitchen - Spanking Hour (1996-08-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental rock, guitar virtuoso" role="button">
-Steve Vai - Fire Garden (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c93f6a84-0822-472f-ba7d-a49e475a9a43/4088021294-500.jpg" data-tags="nu metal" role="button">
 Korn - Life Is Peachy (1996-10-15)
@@ -285,6 +285,9 @@ Colonel Claypool's Bucket of Bernie Brains - The Big Eyeball In The Sky (2004-09
 <li data-cover="http://coverartarchive.org/release/41a71be2-4c3d-43f5-a7f7-f7ea91541bc8/12638055306-500.jpg" data-tags="avant-garde, avant-prog" role="button">
 Sleepytime Gorilla Museum - Of Natural History (2004-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/178d4ed8-ab44-456b-8c56-a8736e8e9ae9/2903015576-500.jpg" data-tags="depressive black metal" role="button">
+Mortifera - Vastiia Tenebrd Mortifera (2004-12)
+</li>
 <li data-cover="https://img.discogs.com/cW_1No87FdJZUbHMb_11wNPb5pk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6694333-1424781381-4411.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, reggae, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks, alternativo, regge, my cds, opelmelange, flamenkeando con gracia" role="button">
 O'Funk'illo - No Te Cabe Na' (2005)
 </li>
@@ -302,9 +305,6 @@ Buckethead - Crime Slunk Scene (2006-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8900b70-48c1-49c3-b162-c223d5c9a35e/12574350007-500.jpg" data-tags="experimental, singer-songwriter, funk metal, funk, opelmelange" role="button">
 That 1 Guy - The Moon Is Disgusting (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/e8544e43-20fa-4f99-b1a3-5b7a7fb7ff96/16705318697-500.jpg" data-tags="jazz, funk, bass" role="button">
-Marcus Miller - Free (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/92b9a826-e376-4ca7-99f4-6b91fb5fc741/8147662070-500.jpg" data-tags="rock, alternative rock" role="button">
 Bloodhound Gang - Show Us Your Hits (2010-12-03)

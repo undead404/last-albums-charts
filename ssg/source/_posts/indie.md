@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:13:01.528Z
+date: 2021-04-06T11:40:01.435Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
-The Smiths - The Queen Is Dead (1986-06-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">
 The Stone Roses - The Stone Roses (1989-04)
 </li>
@@ -99,7 +96,7 @@ Feist - Let It Die (2004-05-18)
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
 The Killers - Hot Fuss (2004-06-07)
 </li>
-<li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
+<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
@@ -287,6 +284,9 @@ Fleet Foxes - Helplessness Blues (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
 Foster the People - Torches (2011-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/16f3fcf2-4511-4c8c-93bb-b4c8910aa9db/5792635582-500.jpg" data-tags="indie, frank ocean" role="button">
+Frank Ocean - Novacane (2011-05-31)
 </li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">
 Gotye - Making Mirrors (2011-08-19)

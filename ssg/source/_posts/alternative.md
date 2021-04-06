@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:08:01.592Z
+date: 2021-04-06T10:52:02.094Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -228,9 +228,6 @@ Muse - Black Holes and Revelations (2006-06-28)
 <li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic" role="button">
 Thom Yorke - The Eraser (2006-07-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
-Kasabian - Empire (2006-08-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
@@ -242,6 +239,9 @@ Kings of Leon - Because of the Times (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
+Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
 Linkin Park - Minutes to Midnight (2007-05-11)

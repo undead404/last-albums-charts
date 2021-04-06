@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T00:38:01.406Z
+date: 2021-04-06T11:07:01.507Z
 title: "funny: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -21,19 +21,16 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/IcxYObp5h91X-VyMFqaYUjCrG_Y=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2292377-1475487908-2847.jpeg.jpg" data-tags="comedy" role="button">
+<li data-cover="https://img.discogs.com/UiGwLpmsYId3ZnagQfyTLLABCUI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5875285-1405112043-9513.jpeg.jpg" data-tags="comedy" role="button">
 Monty Python - Monty Python's Previous Record (1972-12-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, comedy, monty python" role="button">
 Monty Python - Monty Python And The Holy Grail (1975-07-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/cb83e516-e998-4cc4-ba61-e820e2e5d5a4/3810845873-500.jpg" data-tags="classic rock" role="button">
-The Animals - Before We Were So Rudely Interrupted (1977)
-</li>
 <li data-cover="http://coverartarchive.org/release/d4c70280-2a81-42f7-af80-890f9f2b1cda/27697077076-500.jpg" data-tags="rock, 70s, experimental, avant-garde, zappa" role="button">
 Frank Zappa - Studio Tan (1978-09-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
+<li data-cover="https://img.discogs.com/3dZyLnwxjgWOCcwzGsXQ8ztVpuE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4263175-1360083590-4766.jpeg.jpg" data-tags="comedy" role="button">
 George Carlin - Killer Carlin (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b07a6c8-a3a2-4f5e-abdc-c3c9359340be/3363166051-500.jpg" data-tags="party all the time" role="button">
@@ -42,16 +39,19 @@ Eddie Murphy - How Could It Be (1985)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Dare To Be Stupid (1985-06-18)
 </li>
+<li data-cover="https://img.discogs.com/LMcle6q3ud3h3oGjRTc7ct4ECkw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467355-1422632237-6972.jpeg.jpg" data-tags="comedy, funny, standup comedy" role="button">
+Billy Connolly - Billy And Albert (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/11a5139e-b82b-3280-ae0b-128f884315e4/2909604669-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Even Worse (1988-04-12)
 </li>
-<li data-cover="https://img.discogs.com/OgtH8c06ViN-ocLNx_VWVNoyJJw=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1749672-1240912340.jpeg.jpg" data-tags="rock, folk, indie rock, lo-fi, funny, queer, mind-melting, sailors, alt, the frogs, own it, the greatest albums, awkward to listen to in front of other people, scaruffi, bleat, lovely breakdowns, tanned, fag folk, cobaintop50" role="button">
+<li data-cover="https://img.discogs.com/Kj3YXZj2z5sIq4NcojzwKiX-ags=/fit-in/488x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1344324-1400333212-7813.jpeg.jpg" data-tags="rock, folk, indie rock, lo-fi, funny, queer, mind-melting, sailors, alt, the frogs, own it, the greatest albums, awkward to listen to in front of other people, scaruffi, bleat, lovely breakdowns, tanned, fag folk, cobaintop50" role="button">
 The Frogs - It's Only Right and Natural (1989)
 </li>
 <li data-cover="https://img.discogs.com/rvhYpR9vwuSGNUzpIVRNdG58sS8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600834-1183286497.jpeg.jpg" data-tags="comedy" role="button">
 Monty Python - Monty Python Sings (1989-12-11)
 </li>
-<li data-cover="https://img.discogs.com/4A1gvj_T3PAPaFVwp_Rq3iE_uDE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3956296-1350457912-2233.jpeg.jpg" data-tags="pop, 90s, swedish, dance" role="button">
+<li data-cover="https://img.discogs.com/nfQIVPXc-OqRcKUSkuN_d403rCU=/fit-in/257x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-223394-1466806638-1948.jpeg.jpg" data-tags="pop, 90s, swedish, dance" role="button">
 Army of Lovers - Massive Luxury Overdose (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a649759-c3af-48ae-8e52-e159965eb262/6290570162-500.jpg" data-tags="comedy" role="button">
@@ -80,9 +80,6 @@ Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/54a1b1e5-0657-45a0-bd76-61cc09b17c43/8139166377-500.jpg" data-tags="britpop" role="button">
 Menswear - Nuisance (1995-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9ebf61a-db25-45ea-ac98-98b53895acad/13888678204-500.jpg" data-tags="classic rock, comedy, parody, a bit of fun" role="button">
-The Rutles - Archaeology (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/fdea323b-a920-4c24-a924-2ddbe3730582/15149628080-500.jpg" data-tags="french, les wriggles" role="button">
 Les Wriggles - Justice Avec Des Saucisses (1997)
@@ -153,7 +150,7 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/7d3e58ba-633c-4314-af46-49402436ea1f/15800453103-500.jpg" data-tags="comedy" role="button">
 Lewis Black - The End of The Universe (2003-05-27)
 </li>
-<li data-cover="https://img.discogs.com/2pDAESGIPh0bJyPEmQdp87f1x9k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12160722-1529518747-4391.jpeg.jpg" data-tags="punk, punk rock" role="button">
+<li data-cover="https://img.discogs.com/lbsHmkgxJBPocVx-_6m_DT9m3Fc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814858-1384984127-9089.jpeg.jpg" data-tags="punk, punk rock" role="button">
 Me First and the Gimme Gimmes - Take A Break (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f98da90-6f32-4f17-986c-a5b0d3aeada5/15055776877-500.jpg" data-tags="comedy, stand-up" role="button">
@@ -180,9 +177,6 @@ Hard 'n Phirm - Horses and Grasses (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
 50 Cent - The Massacre (2005-03-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/df5737cb-7ed8-40dd-970f-74950703f68c/2755131902-500.jpg" data-tags="electronic" role="button">
-65daysofstatic - Unreleased/Unreleasable, Volume 2: How I Fucked Off All My Friends (2005-03-14)
-</li>
 <li data-cover="https://img.discogs.com/uI0_qW1nyppmFODSJooOdJ8CtWY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3201651-1451166164-9489.jpeg.jpg" data-tags="electronic" role="button">
 Reggie and the Full Effect - Songs Not To Get Married To (2005-03-29)
 </li>
@@ -201,10 +195,16 @@ Suburban Kids with Biblical Names - #3 (2005-10-12)
 <li data-cover="http://coverartarchive.org/release/2d3fc783-03a0-4884-8d09-7374b17c08b1/9436016105-500.jpg" data-tags="comedy, stand-up, daniel tosh" role="button">
 Daniel Tosh - True Stories I Made Up (2005-11-08)
 </li>
+<li data-cover="https://img.discogs.com/wdxEs4AJXp867Jakhzj0RlL5FN4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670428-1495594011-3480.jpeg.jpg" data-tags="comedy" role="button">
+Jim Gaffigan - Beyond the Pale (2006-02-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9271b01-ea2e-4532-973b-4b6b9e72308f/14376277837-500.jpg" data-tags="lounge" role="button">
 Richard Cheese - The Sunny Side of the Moon: The Best of Richard Cheese (2006-02-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up" role="button">
+<li data-cover="http://coverartarchive.org/release/d1e5ccb7-44cb-4ff9-a1f5-4bf568a1e28a/9436224600-500.jpg" data-tags="stand-up" role="button">
+Mike Birbiglia - Two Drink Mike (2006-02-07)
+</li>
+<li data-cover="https://img.discogs.com/uIX58kDKC91WZIRaB9wOOUc2GZs=/fit-in/420x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2161664-1267481590.jpeg.jpg" data-tags="comedy, stand-up" role="button">
 Ron White - You Can't Fix Stupid (2006-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dda512d4-c4c4-45ae-80dc-c3e201f429af/4474234850-500.jpg" data-tags="gnarls barkley, experimental funk" role="button">
@@ -218,9 +218,6 @@ Kyle Cease - One Dimple (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6090e1b1-7659-486f-9926-e91bb9cc6c9c/6642632596-500.jpg" data-tags="funny, novelty, nerdcore, 2000s, fuckin awesome, kann nicht singen - aber geil, totally fully" role="button">
 Lemon Demon - Dinosaurchestra (2006-07-20)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central" role="button">
-The Whitest Kids U' Know - The Whitest Kids U' Know (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7326cd00-5c21-4760-8947-532d10f48502/27842480738-500.jpg" data-tags="comedy, funny, stand-up, standup, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central, ograstamon comedy" role="button">
 Norm MacDonald - Ridiculous (2006-09-12)
@@ -240,7 +237,7 @@ Maria Bamford - How To WIN! (2007-01-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="standup comedy" role="button">
 Greg Proops - Joke Book (2007-02-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="country, comedy, funny" role="button">
+<li data-cover="https://img.discogs.com/iwy2jWPyDBgHLZY3TNwIqr3ZSkI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8230762-1457579628-1135.jpeg.jpg" data-tags="country, comedy, funny" role="button">
 Rodney Carrington - King Of The Mountains (2007-04-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedian" role="button">
@@ -266,6 +263,9 @@ Mike Birbiglia - My Secret Public Journal Live (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b863f673-fc57-41e6-823a-b2237bd45bba/22094724666-500.jpg" data-tags="progressive rock, funny" role="button">
 Puscifer - Cuntry Boner (2007-10-03)
+</li>
+<li data-cover="https://img.discogs.com/gYhHxjYIW6Y4L4Gzdjwc7ckLNfY=/fit-in/592x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222978-1201816871.jpeg.jpg" data-tags="comedy" role="button">
+Nick Swardson - Party (2007-10-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central" role="button">
 Ralphie May - Prime Cut (2007-11-13)
@@ -312,7 +312,7 @@ Scouting for Girls - Everybody Wants To Be On TV (2010-04-12)
 <li data-cover="http://coverartarchive.org/release/8c79a4ef-9bf3-4ee1-8e60-5f337a90e07b/5473780452-500.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hell Is What You Make It (2011-07-12)
 </li>
-<li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
+<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d998de47-12d7-4698-b83a-e4c57e56a506/20453213598-500.jpg" data-tags="alternative rock, acoustic, mellow, funny, live, footloose, yodeling" role="button">
