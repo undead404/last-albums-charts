@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:45:01.854Z
+date: 2021-04-06T13:51:01.430Z
 title: "lady gaga: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame Monster (2008-08-19)](http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg "Lady Gaga - The Fame Monster (2008-08-19)")
@@ -48,7 +48,7 @@ Jestofunk - Love in a Black Dimension (1995)
 <li data-cover="http://coverartarchive.org/release/7f605f56-c629-4ace-a731-a453850eb045/17719093389-500.jpg" data-tags="funk, soul, tower of power" role="button">
 Tower of Power - Souled Out (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ef275e7-74f2-48e0-bada-1f9419b98cce/27980960079-500.jpg" data-tags="pop, japanese, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, japanese, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy" role="button">
 カヒミ・カリィ - My First Karie (1995-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
@@ -63,10 +63,10 @@ Frankie hi-nrg mc - La morte dei miracoli (1997)
 <li data-cover="https://via.placeholder.com/450" data-tags="anime, j-pop, anime music, arai akino" role="button">
 新居昭乃 - 空の森 (1997-08-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip hop, 60s, hard, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, idm, singer, germany, singers, energetic, death, surreal, improvisation, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, female vocalist, powerpop, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, loneliness, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, ponies, fucking awesome, rac, loneliness after dusk, friendsofthekingofrummelpop, wonderland, czech, good lyrics, vulgar, praise, utada hikaru, tech, softcore, seiyuu, surrealist, hard trance, vagina, martial industrial, martial, always, violinists" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="hip hop, 60s, hard, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, idm, singer, germany, singers, energetic, death, surreal, improvisation, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, female vocalist, powerpop, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, loneliness, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, ponies, rac, loneliness after dusk, friendsofthekingofrummelpop, wonderland, czech, good lyrics, vulgar, praise, utada hikaru, tech, softcore, seiyuu, surrealist, hard trance, vagina, martial industrial, martial, always, violinists" role="button">
 新居昭乃 - そらの庭 (1997-10-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/10b2819f-8755-4bbd-a852-858623bc497a/6477262342-500.jpg" data-tags="japanese, j-pop, pop, jpop, hipster, not experimental, noise, heavy metal, black metal, metalcore, metal, hip-hop, electronic, electronica, classical, hip hop, rock, brutal, revolution, emo, rap, ambient, female vocalists, dance, dark, easy listening, new age, insane, lady gaga, excellent, comedy, japan, death metal, rnb, gothic metal, intelligent, humour, korean, k-pop, recommended, satanic, anime, guilty pleasure, 00s, gothic rock, symphonic metal, j-rock, parody, guilty pleasures, tagged, kanye west, polish, drugs, cheesy, emocore, power metal, evil, bdsm, porn, ass" role="button">
+<li data-cover="http://coverartarchive.org/release/10b2819f-8755-4bbd-a852-858623bc497a/6477262342-500.jpg" data-tags="japanese, j-pop, pop, jpop, hipster, not experimental, noise, heavy metal, black metal, metalcore, metal, hip-hop, electronic, electronica, classical, hip hop, rock, brutal, revolution, emo, rap, ambient, female vocalists, dance, dark, easy listening, new age, insane, lady gaga, excellent, comedy, japan, death metal, rnb, gothic metal, intelligent, humour, korean, k-pop, recommended, satanic, anime, 00s, gothic rock, symphonic metal, j-rock, parody, guilty pleasures, tagged, kanye west, polish, drugs, cheesy, emocore, power metal, evil, bdsm, porn, ass" role="button">
 カヒミ・カリィ - Kahimi Karie (1998-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db42e94-f7dd-4dbf-b441-60503e558b87/6477181486-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
@@ -87,17 +87,14 @@ Deep Purple - 30: Very Best Of (1998-10-27)
 <li data-cover="http://coverartarchive.org/release/62d3e37a-468f-445b-b053-af628f5a3965/18275995946-500.jpg" data-tags="j-rock, j-pop, rock, art pop" role="button">
 椎名林檎 - 勝訴ストリップ (2000-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/1376bded-5785-4e92-b180-6f573db164e8/21309456070-500.jpg" data-tags="hipster, art pop, not experimental, noise, trance, classic rock, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, grindcore, hardcore, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, cheese, easy listening, funk, new age, techno, house, schlager, 90s, russian, jpop, mashup, african, radio, party, skinhead, gangsta rap, lady gaga, punk rock, excellent, crunk, asian, japan, rnb, christian, gothic metal, why, brazilian, sex, nice, korean, k-pop, garage, eurodance, recommended, satanic, male vocalists, female vocalist, game, anime, guilty pleasure, wacky" role="button">
+<li data-cover="http://coverartarchive.org/release/1376bded-5785-4e92-b180-6f573db164e8/21309456070-500.jpg" data-tags="hipster, art pop, not experimental, noise, trance, classic rock, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, grindcore, hardcore, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, cheese, easy listening, funk, new age, techno, house, schlager, 90s, russian, jpop, mashup, african, radio, party, skinhead, gangsta rap, lady gaga, punk rock, excellent, crunk, asian, japan, rnb, christian, gothic metal, why, brazilian, sex, nice, korean, k-pop, garage, eurodance, recommended, satanic, male vocalists, female vocalist, game, anime, wacky" role="button">
 カヒミ・カリィ - tilt (2000-05-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, nouvelle scene francaise, j-pop, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, fucking awesome, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech, good lyrics, vulgar, praise, utada hikaru" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, nouvelle scene francaise, j-pop, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech, good lyrics, vulgar, praise, utada hikaru" role="button">
 新居昭乃 - 降るプラチナ (2000-05-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 宇多田ヒカル - Distance (2001-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
-Nicola Conte - Bossa Per Due (2001-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
 Kings of Convenience - Versus (2001-10-22)
@@ -108,10 +105,10 @@ Cornelius - Point (2001-10-24)
 <li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, krautrock, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, reggaeton, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, folklore, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, fucking awesome, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, krautrock, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, reggaeton, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, folklore, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech" role="button">
 新居昭乃 - RGB (2002-04-24)
 </li>
-<li data-cover="https://img.discogs.com/AeZ_KTwNt9wmaa3eySyoTaRwCbQ=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-79629-1602638872-9634.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, funk, funky, groovy, jamiroquai, jecks" role="button">
+<li data-cover="https://img.discogs.com/tPCD5KwmzE20PltuFHvGsuarPP0=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9741165-1485635697-4882.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, funk, funky, groovy, jamiroquai, jecks" role="button">
 Jamiroquai - Corner of the Earth (2002-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f06127ae-163d-47b0-9252-f27bebc43688/5632710137-500.jpg" data-tags="classic rock, jazz, pop, rock, soul, instrumental, acoustic, funk, funky, groovy, jecks" role="button">
@@ -120,7 +117,7 @@ Jimi Hendrix - Hey Joe (2002-09-02)
 <li data-cover="http://coverartarchive.org/release/5383db3b-792a-48ba-8241-91cd0f7bc9bd/15507776758-500.jpg" data-tags="pop, female vocalists, chamber pop, japan, j-pop, art pop" role="button">
 椎名林檎 - 加爾基 精液 栗ノ花 (2003-02-23)
 </li>
-<li data-cover="https://img.discogs.com/nClrUO33Yh4IpnfrNoMeQk3ZZno=/fit-in/500x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8633138-1465567296-8423.jpeg.jpg" data-tags="rock, italian" role="button">
+<li data-cover="https://img.discogs.com/ERX15O6_h3-hww4_qWf3QzM-bGA=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2832864-1550871618-3583.jpeg.jpg" data-tags="rock, italian" role="button">
 Negrita - Ehi! Negrita (2003-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
@@ -186,9 +183,6 @@ Parralox - Electricity (2008-09-08)
 <li data-cover="https://img.discogs.com/sZY9_lGeAuxWpMuqFAEe3j6AaK4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3738702-1500142099-9450.jpeg.jpg" data-tags="poker face, lady gaga" role="button">
 Lady Gaga - Poker Face (2008-12-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/93921eed-8ffa-498f-a60e-1115e09f3bb3/2025422296-500.jpg" data-tags="darkwave, neoclassical, gothic, ethereal" role="button">
-Artesia - Llydaw (2009-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/bbc1d866-7ea2-4162-91a9-e10b96bbcc5d/17582664206-500.jpg" data-tags="lady gaga" role="button">
 Lady Gaga - Eh, Eh (Nothing Else I Can Say) (2009-02-02)
 </li>
@@ -221,6 +215,9 @@ Charmaine - Love Reality (2010-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d54d06f-c2ca-4a21-a1b5-4cebc68ca707/27147713228-500.jpg" data-tags="classical crossover, experimental, world, ethereal, neoclassical" role="button">
 志方あきこ - 祈りの彼方 (2010-04-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
+西野カナ - 会いたくて 会いたくて (2010-05-19)
 </li>
 <li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Alejandro (2010-05-24)
@@ -275,6 +272,9 @@ Lady Gaga - A Very Gaga Holiday (2011-11-24)
 </li>
 <li data-cover="https://img.discogs.com/72uLIyBDep0NFuH6AYLougvN-pQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17623738-1614594795-2479.jpeg.jpg" data-tags="dance, female vocalists" role="button">
 Lady Gaga - Marry The Night (2011-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/43405c16-9b59-4ec9-966d-9422c6853faf/2970280037-500.jpg" data-tags="latin, brazilian, pop, dance, mpb, axe" role="button">
+Ivete Sangalo - Real Fantasia (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d4598ed-49ef-4a6f-a6ae-d7b370512a39/11362627561-500.jpg" data-tags="electropop, pop, female vocalists, christian pop" role="button">
 Britt Nicole - Gold (2012-03-26)

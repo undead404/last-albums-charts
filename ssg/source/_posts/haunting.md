@@ -1,10 +1,9 @@
 ---
-date: 2021-04-06T02:00:01.421Z
+date: 2021-04-06T14:19:01.380Z
 title: "haunting: 100 albums you must listen to before you die"
 ---
 ![The Antlers - Hospice (2009-03-03)](https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg "The Antlers - Hospice (2009-03-03)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
 <li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/82ea1d21-2a81-408d-8645-b822ff061314/13200772331-500.jpg" data-tags="electrotasty" role="button">Casiotone for the Painfully Alone - Etiquette (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">PJ Harvey - White Chalk (2007-09-19)</li>
@@ -14,6 +13,7 @@ title: "haunting: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">Bat for Lashes - Two Suns (2009-04-03)</li>
 <li data-cover="https://img.discogs.com/r0fkm8WbpbuQ8DnGA4FpJ_aCxAU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1957447-1293950675.jpeg.jpg" data-tags="indie, haunting" role="button">As Tall As Lions - You Can't Take It With You (2009-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">Grimes - Visions (2012-02-20)</li>
+<li data-cover="http://coverartarchive.org/release/cf928700-a3ca-463e-947c-e7e731bdaac4/4754067713-500.jpg" data-tags="folk" role="button">Angel Olsen - Half Way Home (2012-09-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -36,7 +36,7 @@ Popol Vuh - Aguirre (1975)
 <li data-cover="https://via.placeholder.com/450" data-tags="haunting, vangelis" role="button">
 Vangelis - Ignacio (1975)
 </li>
-<li data-cover="https://img.discogs.com/9WWUjiFWsOtUHL-mRU3JGZBLzeQ=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9654585-1549759640-3366.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
+<li data-cover="https://img.discogs.com/jZzommZBP9LrWLeHhKFlZpNyM_E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5847955-1404373402-5216.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
 The Birthday Party - Mutiny (1983-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
@@ -72,13 +72,13 @@ Poe - Hello (1995-10-17)
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
-Fiona Apple - Tidal (1996-07-23)
+<li data-cover="http://coverartarchive.org/release/ceab4f42-e973-470d-bc83-12ca82166581/2705249174-500.jpg" data-tags="progressive rock, psychedelic, space rock" role="button">
+Ozric Tentacles - Curious Corn (1997-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/72b14bd8-05f8-4cd3-8510-b2f637a14693/8137290813-500.jpg" data-tags="pop, alternative, ambient, haunting, magical, kitty5" role="button">
 Vacuum - Seance at the Chaebol (1998)
 </li>
-<li data-cover="https://img.discogs.com/IwRSWIId9ZGGotw8pJqMqNa1KuU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2950828-1340169040-3380.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
+<li data-cover="https://img.discogs.com/kGuGCCZ034rIDSKbObK6wxpjOWg=/fit-in/480x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784092-1296992310.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
 Imogen Heap - I Megaphone (1998-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
@@ -177,7 +177,7 @@ Casiotone for the Painfully Alone - Etiquette (2006-03-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
 The Sound of Animals Fighting - Lover, The Lord Has Left Us... (2006-05-16)
 </li>
-<li data-cover="https://img.discogs.com/RG3jbpCybPXAwBSkqGgwMGAfrvs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380355-1265690428.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/UTfPdDO7yKlna4J-8s7oIndKMmc=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2024101-1259182598.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Fionn Regan - The End Of History (2006-08-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pure awesome, great album top to bottom" role="button">

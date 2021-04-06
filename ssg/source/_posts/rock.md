@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:11:01.724Z
+date: 2021-04-06T13:57:01.541Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -77,9 +77,6 @@ Incubus - Make Yourself (1999-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/333eee3e-6a8f-4072-b66e-3cf902037e83/6995177317-500.jpg" data-tags="alternative rock, rock" role="button">
 Foo Fighters - There Is Nothing Left to Lose (1999-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
-3 Doors Down - The Better Life (2000-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
@@ -272,6 +269,9 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - RIOT! (2007-06-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">
 Radiohead - In Rainbows (2007-10-10)

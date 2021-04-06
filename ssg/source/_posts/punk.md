@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:54:01.428Z
+date: 2021-04-06T14:32:01.667Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -108,9 +108,6 @@ Jawbreaker - Dear You (1995-09-12)
 <li data-cover="http://coverartarchive.org/release/37037911-c633-4ec8-9793-2c80cdbfedac/5690341799-500.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Insomniac (1995-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f0a1564-a748-302f-abc3-0a0b3f934a50/2349398736-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ixnay on the Hombre (1997-02-05)
 </li>
@@ -204,7 +201,7 @@ Against Me! - As the Eternal Cowboy (2003-11-04)
 <li data-cover="https://img.discogs.com/bqkKb5NmWkom_PixHUISylq1FC8=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5568581-1396792201-1770.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Splinter (2003-11-27)
 </li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/841ec76f-f536-468d-b8ab-069923b4db17/15998647154-500.jpg" data-tags="pop punk, punk rock" role="button">
@@ -257,6 +254,9 @@ Gogol Bordello - Gypsy Punks: Underdog World Strike (2005-08-09)
 </li>
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">
+Yellowcard - Lights and Sounds (2006-01-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
 Anti-Flag - For Blood and Empire (2006-03-21)

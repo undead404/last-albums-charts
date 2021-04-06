@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T04:19:01.358Z
+date: 2021-04-06T14:14:07.104Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -105,9 +105,6 @@ Shawn McDonald - Simply Nothing (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/1e336a49-093b-4328-85b9-dab7ebf2af41/8247802796-500.jpg" data-tags="christian" role="button">
 Chris Tomlin - Arriving (2004-09-21)
 </li>
-<li data-cover="https://img.discogs.com/-18P4YAewkV2DDOOgt88XoAQ0Wk=/fit-in/415x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5819517-1421347472-6986.jpeg.jpg" data-tags="christian, worship, praise, praise & worship, indeliblegrace" role="button">
-Shane & Shane - Clean (2004-10-19)
-</li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
 </li>
@@ -140,6 +137,9 @@ Emery - The Question (2005-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc76da18-de4d-4f4f-a946-d0f073a4a5ee/9420403008-500.jpg" data-tags="christian rock, christian, contemporary christian" role="button">
 Casting Crowns - Lifesong (2005-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
+Switchfoot - Nothing Is Sound (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
 August Burns Red - Thrill Seeker (2005-11-08)
@@ -177,8 +177,8 @@ Oren Lavie - The Opposite Side of the Sea (2007-02-02)
 <li data-cover="http://coverartarchive.org/release/04a93f62-fd7f-4e5b-a0ce-7ca314b44874/4889479113-500.jpg" data-tags="rock, christian rock" role="button">
 Anberlin - Cities (2007-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e426fa8-74fb-47ec-93df-944efb0d92df/4786675611-500.jpg" data-tags="christian, discoverockult, i love this band" role="button">
-Seventh Day Slumber - Finally Awake (2007-03-20)
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
+Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)

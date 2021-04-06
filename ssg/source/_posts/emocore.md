@@ -1,10 +1,10 @@
 ---
-date: 2021-04-06T07:30:01.451Z
+date: 2021-04-06T13:46:01.419Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">A Day to Remember - And Their Name Was Treason (2005-05-10)</li>
+<li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">A Day to Remember - And Their Name Was Treason (2005-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">Funeral for a Friend - Hours (2005-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">Emery - The Question (2005-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/b7b89f8a-6b62-4e5b-8675-492ecc731336/7181118799-500.jpg" data-tags="post-hardcore" role="button">Silverstein - Discovering the Waterfront (2005-08-16)</li>
@@ -63,9 +63,6 @@ AFI - Sing the Sorrow (2003-03-10)
 <li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
 Silverstein - When Broken Is Easily Fixed (2003-05-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
-Thrice - The Artist In The Ambulance (2003-07-22)
-</li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)
 </li>
@@ -78,7 +75,7 @@ Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 <li data-cover="http://coverartarchive.org/release/696c25bd-c5a5-474a-9123-e1904610130a/19086105215-500.jpg" data-tags="post-hardcore, emo, emocore" role="button">
 Funeral for a Friend - Seven Ways to Scream Your Name (2003-10-21)
 </li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
@@ -117,7 +114,7 @@ A Static Lullaby - Faso Latido (2005-04-05)
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
 </li>
-<li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
+<li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="https://img.discogs.com/jBca7lJ1wuYRhTgMmcBUr8FKnd4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2700504-1570357216-7488.jpeg.jpg" data-tags="post-hardcore" role="button">
@@ -179,6 +176,9 @@ Escape the Fate - There's No Sympathy For The Dead (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/006eeb56-6f1d-4950-af5f-31d5428bd594/15423019229-500.jpg" data-tags="metal, metalcore, emo" role="button">
+Bullet for My Valentine - Tears Don't Fall (2006-06-23)
 </li>
 <li data-cover="https://img.discogs.com/9mNRDBfMxg-ccMi1IvZEIqyzFJs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709392-1566235854-9761.jpeg.jpg" data-tags="metalcore, hardcore, screamo, emocore" role="button">
 Across Five Aprils - Collapse (2006-07-11)
@@ -312,7 +312,7 @@ Pierce The Veil - Collide With the Sky (2012-07-17)
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
 </li>
-<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
+<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">

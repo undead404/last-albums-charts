@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:07:02.309Z
+date: 2021-04-06T14:05:01.434Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Awake (2009-08-24)](http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg "Skillet - Awake (2009-08-24)")
@@ -12,8 +12,8 @@ title: "christian rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/ebPU9RWHmh53VwUrHRTV_TpGxbU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6790253-1426685131-5495.jpeg.jpg" data-tags="christian rock, alternative rock" role="button">Red - End Of Silence (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">Skillet - Comatose (2006-10-03)</li>
 <li data-cover="http://coverartarchive.org/release/04a93f62-fd7f-4e5b-a0ce-7ca314b44874/4889479113-500.jpg" data-tags="rock, christian rock" role="button">Anberlin - Cities (2007-02-20)</li>
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
 <li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">Skillet - Awake (2009-08-24)</li>
-<li data-cover="http://coverartarchive.org/release/285bd6f4-5a65-416d-84ba-acce90bc8e70/2220652461-500.jpg" data-tags="christian rock, alternative rock" role="button">Red - Until We Have Faces (2011-01-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,17 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/68f06eb3-6929-4dae-8a58-be921cb56805/9682843009-500.jpg" data-tags="rap, 90s, new jack swing, golden age hip hop" role="button">
-MC Hammer - Please Hammer Don't Hurt 'Em (1990-01-30)
+<li data-cover="http://coverartarchive.org/release/5d8aa5dd-b518-49e4-a074-473d18a3a691/15278425909-500.jpg" data-tags="gospel, rock, christian rock, bob dylan, christian" role="button">
+Bob Dylan - Slow Train Coming (1979-08-20)
 </li>
 <li data-cover="https://img.discogs.com/mpe3E7LXu6m3UwIUpsbV-LZ53vc=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2603096-1292697581.jpeg.jpg" data-tags="christian, christian rock" role="button">
 Jars of Clay - Jars of Clay (1995-10-24)
-</li>
-<li data-cover="https://img.discogs.com/Dqwqcs8xc25b4YSU2kZS9GmKamo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557815-1181586260.jpeg.jpg" data-tags="christian" role="button">
-DC Talk - Jesus Freak (1995-11-21)
-</li>
-<li data-cover="https://img.discogs.com/6l-EtTTWaDrWkUIAyEKfiHq4i6A=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1564431-1590019803-6829.jpeg.jpg" data-tags="christian, christian rock, contemporary christian" role="button">
-Newsboys - Take Me To Your Leader (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e6eae39-faee-4787-af72-4bd9b61c7724/17811076744-500.jpg" data-tags="christian rock" role="button">
 Skillet - Skillet (1996-10-29)
@@ -75,9 +69,6 @@ Jeremy Camp - Stay (2002-09-24)
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/af158d94-eb6f-4f1f-a8a2-f685b60b132e/5502763714-500.jpg" data-tags="christian rock" role="button">
-Relient K - Two Lefts Don't Make a Right... But Three Do (2003-03-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d26724d4-cabd-4629-9583-e459051de88b/2278050105-500.jpg" data-tags="rock, alternative rock" role="button">
 Anberlin - Blueprints For The Black Market (2003-04-24)
 </li>
@@ -114,6 +105,9 @@ Pillar - Where Do We Go From Here (2004-06-15)
 <li data-cover="http://coverartarchive.org/release/7d1db442-c07a-4b25-90ca-aa2386b7a78b/16961523622-500.jpg" data-tags="christian rock" role="button">
 TobyMac - Welcome to Diverse City (2004-09-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d73640b7-0737-4792-bf04-e707bfff2316/26392983705-500.jpg" data-tags="christian rock" role="button">
+Day of Fire - Day of Fire (2004-10-26)
+</li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
 </li>
@@ -132,6 +126,9 @@ Anberlin - Never Take Friendship Personal (2005-01-17)
 <li data-cover="http://coverartarchive.org/release/0ad1d493-7f72-46de-872a-73d0e46ca1a6/4786680617-500.jpg" data-tags="christian rock" role="button">
 Seventh Day Slumber - Once Upon A Shattered Life (2005-02-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/466db66a-76be-4409-8429-c4bf29dfbf09/24219190810-500.jpg" data-tags="christian rock" role="button">
+The Afters - I Wish We All Could Win (2005-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/d21053ad-f1fa-4534-a065-00965d1e4a16/4786624633-500.jpg" data-tags="christian, kutless, christian rock" role="button">
 Kutless - Strong Tower (2005-03-01)
 </li>
@@ -147,17 +144,11 @@ Casting Crowns - Lifesong (2005-08-30)
 <li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Switchfoot - Nothing Is Sound (2005-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/0304ed39-b22f-4883-9e26-06a908c3b7c7/10702054793-500.jpg" data-tags="christian, christian rock" role="button">
-Todd Agnew - Reflection of Something (2005-09-16)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock" role="button">
 Third Day - Wherever You Are (2005-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/36d3bd4f-9203-466c-a2c8-38f091874277/4889671995-500.jpg" data-tags="pop punk" role="button">
 FM Static - Critically Ashamed (2006-01-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b364240-2d5f-43dd-8120-9cd490a41221/15039745511-500.jpg" data-tags="rock" role="button">
-Plumb - Chaotic Resolve (2006-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a3210c8-5c3e-48c8-8e8b-4e91d9610256/2220936532-500.jpg" data-tags="christian rock" role="button">
 Kutless - Hearts of the Innocent (2006-03-21)
@@ -165,14 +156,14 @@ Kutless - Hearts of the Innocent (2006-03-21)
 <li data-cover="http://coverartarchive.org/release/52618222-85c4-4763-b4ee-ee323972536c/1630450537-500.jpg" data-tags="christian rock, christian male vocals" role="button">
 Phil Wickham - Phil Wickham (2006-04-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b0c5410-f931-4586-bed3-c15e141c6aab/26518893572-500.jpg" data-tags="christian rock" role="button">
+Decyfer Down - End of Grey (2006-06-06)
+</li>
 <li data-cover="https://img.discogs.com/ebPU9RWHmh53VwUrHRTV_TpGxbU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6790253-1426685131-5495.jpeg.jpg" data-tags="christian rock, alternative rock" role="button">
 Red - End Of Silence (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/Xxy0yj6KswjbbC2jaOkO0VwFOns=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4133493-1356444424-8753.jpeg.jpg" data-tags="indie, rock, acoustic, christian, christian rock, songs i love, 2000s, available on emusic, 2006 albums, after z" role="button">
 Sleeping at Last - Keep No Score (2006-06-21)
-</li>
-<li data-cover="https://img.discogs.com/yLGXaRoMDWHDU-X_6l1jVGK4D5U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6128965-1411801548-8523.jpeg.jpg" data-tags="spiritual" role="button">
-Jars of Clay - Good Monsters (2006-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Skillet - Comatose (2006-10-03)
@@ -188,6 +179,9 @@ P.O.D. - Greatest Hits: The Atlantic Years (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/04a93f62-fd7f-4e5b-a0ce-7ca314b44874/4889479113-500.jpg" data-tags="rock, christian rock" role="button">
 Anberlin - Cities (2007-02-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
+Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
@@ -213,14 +207,8 @@ Phil Wickham - Cannons (2007-10-02)
 <li data-cover="http://coverartarchive.org/release/fc0b0811-de22-44fd-8628-48c5351c7e1a/4786441908-500.jpg" data-tags="alternative rock, christian rock" role="button">
 Falling Up - Captiva (2007-10-02)
 </li>
-<li data-cover="https://img.discogs.com/DRrlwV0JifXY4WEcEJgEmT2uMMo=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6024039-1409083474-2124.jpeg.jpg" data-tags="christian, christian rock, gospel, contemporary christian, christian contemporary, religious, cross2life, contemporary praise and worship" role="button">
-MercyMe - All That Is Within Me (2007-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/94da1f64-ef0a-41fd-a0ae-bfdf2f83a935/19390174685-500.jpg" data-tags="metalcore, christian metal" role="button">
 Demon Hunter - Storm the Gates of Hell (2007-11-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/a2d333dd-bccd-4b87-8d24-e884fdc954ea/23547812365-500.jpg" data-tags="80s, christian, solo album" role="button">
-Jon Foreman - Fall (2007-11-20)
 </li>
 <li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
 The Lonely Island - Jizz In My Pants (2008)
@@ -228,8 +216,14 @@ The Lonely Island - Jizz In My Pants (2008)
 <li data-cover="http://coverartarchive.org/release/a4c303b5-fdcf-4bf6-9198-b5205cc45249/4889844357-500.jpg" data-tags="rock, christian rock" role="button">
 Ivoryline - There Came A Lion (2008-02-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/2bb65710-9e8d-4447-b959-40b3beb25c96/26393839297-500.jpg" data-tags="christian rock" role="button">
+Sanctus Real - We Need Each Other (2008-02-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ba18634-618b-4fdc-861b-b02b0530f358/26393748143-500.jpg" data-tags="alternative rock, christian rock" role="button">
 Pillar - For The Love Of The Game (2008-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a4d2546-cfaa-49c2-85d8-10c796271619/25354989799-500.jpg" data-tags="christian rock" role="button">
+The Afters - Never Going Back to OK (2008-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2ac6303-90bd-4286-8c74-dfa9235a8e93/8887519155-500.jpg" data-tags="christian rock" role="button">
 Fireflight - Unbreakable (2008-03-04)
@@ -240,14 +234,20 @@ Carolina Liar - Coming To Terms (2008-03-05)
 <li data-cover="http://coverartarchive.org/release/8313f2d7-58d0-46c4-96c3-a3486db44dde/10150601846-500.jpg" data-tags="nu metal, christian rock" role="button">
 P.O.D. - When Angels & Serpents Dance (2008-04-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, emo, pop punk, christian rock, emo pop, pablo10" role="button">
+<li data-cover="https://img.discogs.com/EJss2sKU2kksOAVOknHXXBGgYFA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3805315-1345118319-9539.jpeg.jpg" data-tags="alternative rock, emo, pop punk, christian rock, emo pop, pablo10" role="button">
 Run Kid Run - Love At The Core (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5deeaeca-3c3d-4a26-bfb6-3c35e46f239c/16397739294-500.jpg" data-tags="christian rock" role="button">
 Tenth Avenue North - Over And Underneath (2008-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/97b7642b-f572-46c9-aebc-c1200b4e4ce6/25696373504-500.jpg" data-tags="christian rock, gospel, revelation" role="button">
+Third Day - Revelation (2008-07-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/34d72f54-991e-4162-a8a9-624279a6950f/6596602468-500.jpg" data-tags="christian" role="button">
 Chris Tomlin - Hello Love (2008-09-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa3ee071-a1ef-41c6-a1d1-ba9b7739dece/17811132570-500.jpg" data-tags="christian rock, skillet" role="button">
+Skillet - Comatose Comes Alive (2008-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d71f2f6-4ab8-423c-be17-861fc1a3a988/15784546493-500.jpg" data-tags="rock, alternative" role="button">
 Switchfoot - The Best Yet (2008-11-04)
@@ -264,6 +264,9 @@ Skillet - Awake (2009-08-24)
 <li data-cover="http://coverartarchive.org/release/60192b98-c51c-4c83-a6ff-5ad25914a5b1/24702000446-500.jpg" data-tags="rock, christian rock, alternative rock" role="button">
 Thousand Foot Krutch - Welcome To The Masquerade (2009-09-08)
 </li>
+<li data-cover="https://img.discogs.com/gDHZFWXneIQAYGT0torKq2LbqMI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494522-1287104812.jpeg.jpg" data-tags="christian rock" role="button">
+Pillar - Confessions (2009-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/d1d2cb2e-6ed3-4ce2-9fc1-ebc99c9d9d47/8510946592-500.jpg" data-tags="alternative rock, christian rock" role="button">
 Relient K - Forget and Not Slow Down (2009-10-05)
 </li>
@@ -278,9 +281,6 @@ Casting Crowns - Until The Whole World Hears (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a86e678a-7c87-4f31-8f88-732879b49d84/8887573089-500.jpg" data-tags="rock, alternative rock, hard rock, christian rock, fireflight" role="button">
 Fireflight - For Those Who Wait (2010-02-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/94d24e69-2766-49cb-9ce1-addfc5157ab0/1797669855-500.jpg" data-tags="christian rock, hip-hop, christian, contemporary christian" role="button">
-TobyMac - Tonight (2010-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c72a398e-6cc9-4b27-ae48-c83e9c1d2e13/6986721749-500.jpg" data-tags="alternative rock, hard rock, christian, christian rock, rock, female vocalists, gothic metal" role="button">
 The Letter Black - Hanging On By A Thread (2010-04-30)

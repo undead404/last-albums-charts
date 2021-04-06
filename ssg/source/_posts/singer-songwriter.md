@@ -1,13 +1,13 @@
 ---
-date: 2021-04-06T11:33:01.851Z
+date: 2021-04-06T14:07:01.420Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/s3bLVDhoffEqJ7TkNeCnKhNqMnM=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12645414-1548449142-6531.jpeg.jpg" data-tags="singer-songwriter, 90s" role="button">Jeff Buckley - Grace (1994-08-15)</li>
 <li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">Bob Dylan - Highway 61 Revisited (1995)</li>
+<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">Elliott Smith - Either/Or (1997-02-25)</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">Damien Rice - O (2002-07-22)</li>
-<li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">Beck - Sea Change (2002-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">José González - Veneer (2003-10)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -108,6 +108,9 @@ Elliott Smith - Elliott Smith (1995-07-10)
 <li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
+Elliott Smith - Either/Or (1997-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
 </li>
@@ -122,9 +125,6 @@ Jack Johnson - Brushfire Fairytales (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
-Bright Eyes - Motion Sickness (2001-01-26)
 </li>
 <li data-cover="https://img.discogs.com/s8iZgcvR9NwhB90U0C2tsRNllf0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10666243-1586957390-2202.png.jpg" data-tags="singer-songwriter" role="button">
 Rufus Wainwright - Poses (2001-06-04)
@@ -186,7 +186,7 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 <li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
 KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
-<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, acoustic" role="button">

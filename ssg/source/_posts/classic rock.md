@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:12:01.673Z
+date: 2021-04-06T14:29:01.403Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -62,9 +62,6 @@ The Doors - Waiting for the Sun (1968-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
-</li>
-<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
-Van Morrison - Astral Weeks (1968-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8345dc9c-b9c4-3d11-9a29-828b6e235c6a/22775211332-500.jpg" data-tags="classic rock, rock, 60s" role="button">
 The Rolling Stones - Beggars Banquet (1968-12-06)
@@ -305,6 +302,9 @@ U2 - All That You Can't Leave Behind (2000-10-30)
 </li>
 <li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
+</li>
+<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
+Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/475b6b91-86e9-40ba-bb98-c6a65bd1339e/15595445952-500.jpg" data-tags="classic rock, rock, psychedelic rock" role="button">
 The Doors - The Very Best of The Doors (2001-09-08)

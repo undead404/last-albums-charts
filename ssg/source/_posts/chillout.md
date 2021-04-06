@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:25:01.597Z
+date: 2021-04-06T14:25:01.441Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -92,6 +92,9 @@ Hooverphonic - The Magnificent Tree (2000-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
+</li>
+<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
+Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
@@ -188,9 +191,6 @@ Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
-Husky Rescue - Country Falls (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)

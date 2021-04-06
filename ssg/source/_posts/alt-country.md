@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T03:36:01.459Z
+date: 2021-04-06T13:52:01.462Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -7,8 +7,8 @@ title: "alt-country: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">Ryan Adams - Heartbreaker (2000-09-05)</li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">Ryan Adams - Gold (2001-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">Wilco - Yankee Hotel Foxtrot (2002-04-22)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country, rock" role="button">Ryan Adams - Love Is Hell (2003)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">Neko Case - Fox Confessor Brings the Flood (2006-03-07)</li>
+<li data-cover="https://img.discogs.com/ke5mv5j3Qr9m9GEBBC-a_zc-UYw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994709-1561738115-2240.jpeg.jpg" data-tags="alt-country, rock" role="button">Ryan Adams - Love Is Hell (2003)</li>
+<li data-cover="https://img.discogs.com/beowalMRNZmW5GIaRtWKWjFu_fc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682006-1147158422.jpeg.jpg" data-tags="alt-country" role="button">Neko Case - Fox Confessor Brings the Flood (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">Band of Horses - Everything All the Time (2006-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, americana" role="button">
+<li data-cover="https://img.discogs.com/5GB_YywyYox8jr8m1MAseKxL940=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120652-1485622460-8194.jpeg.jpg" data-tags="singer-songwriter, folk, americana" role="button">
 Townes Van Zandt - Our Mother the Mountain (1969-04)
 </li>
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
@@ -30,10 +30,10 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 <li data-cover="https://img.discogs.com/XsiIb9On1QdSQzK6fNywYRLAtaE=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2699158-1500832417-2727.jpeg.jpg" data-tags="soft rock, alt-country, misc, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
+<li data-cover="https://img.discogs.com/suq3IxcjtFIdegVNCFooUaJu26w=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597651-1369585841-4715.jpeg.jpg" data-tags="alt-country" role="button">
 Steve Earle - Guitar Town (1986-03-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country, country rock" role="button">
+<li data-cover="https://img.discogs.com/Leqx3yU5iZllLDbrJPL3OcEFjQ4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878669-1548227195-2232.jpeg.jpg" data-tags="alt-country, country rock" role="button">
 Steve Earle - Copperhead Road (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec5b0fbf-aa84-4538-9bb7-ae14e54f7e46/4464452202-500.jpg" data-tags="alt-country" role="button">
@@ -48,7 +48,7 @@ Uncle Tupelo - Anodyne (1993-05)
 <li data-cover="http://coverartarchive.org/release/b402178b-e511-4340-9002-3dc2cbe31b5b/24710309425-500.jpg" data-tags="alt-country, americana" role="button">
 The Jayhawks - Tomorrow The Green Grass (1995-02-14)
 </li>
-<li data-cover="https://img.discogs.com/syYhh8fq67to9UIFnNxdVupjIbg=/fit-in/503x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1985410-1256769426.jpeg.jpg" data-tags="alt-country" role="button">
+<li data-cover="https://img.discogs.com/-AdtvsE-oHdu5agpfmDPGVfemRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682662-1490494434-8100.png.jpg" data-tags="alt-country" role="button">
 Wilco - A.M. (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/acc90ba4-b75c-4b2a-8095-8d1d7c168373/5103117214-500.jpg" data-tags="alt-country" role="button">
@@ -60,7 +60,7 @@ Emmylou Harris - Wrecking Ball (1995-09-26)
 <li data-cover="http://coverartarchive.org/release/75d92172-7a2f-4a9e-89da-8eca082c25e0/2186095398-500.jpg" data-tags="alt-country" role="button">
 16 Horsepower - Sackcloth 'N' Ashes (1996-02-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="americana, alt-country" role="button">
+<li data-cover="https://img.discogs.com/cMK3nWewwhq4rsy67g2jbnJf8SI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736313-1153473870.jpeg.jpg" data-tags="americana, alt-country" role="button">
 Gillian Welch - Revival (1996-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c48fa5ac-a16f-435b-88f3-179a668a40ad/6848496966-500.jpg" data-tags="country, americana, alt-country" role="button">
@@ -120,10 +120,10 @@ Bright Eyes - Motion Sickness (2001-01-26)
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">
 Ryan Adams - Gold (2001-02-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, alt-country" role="button">
+<li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
 </li>
-<li data-cover="https://img.discogs.com/5Vpc21OoEJFbs5cAM6-ry1_65vI=/fit-in/553x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1952301-1289062726.jpeg.jpg" data-tags="singer-songwriter, alt-country" role="button">
+<li data-cover="https://img.discogs.com/fd8s0bGop6cSW6gtMG9KtK1O0EU=/fit-in/300x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497106-1260966944.jpeg.jpg" data-tags="singer-songwriter, alt-country" role="button">
 M. Ward - End of Amnesia (2001-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b63f6d8e-3e82-47c2-bb85-06034cbddbed/2259711816-500.jpg" data-tags="country, alt-country, americana" role="button">
@@ -150,7 +150,10 @@ Beck - Sea Change (2002-09-21)
 <li data-cover="http://coverartarchive.org/release/d15bdbc1-11ac-3c28-8619-c445ffbe390a/2986614652-500.jpg" data-tags="alt-country, 2000s" role="button">
 Ryan Adams - Demolition (2002-09-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country, rock" role="button">
+<li data-cover="http://coverartarchive.org/release/67ad4896-9942-4db8-947f-811fe7cafd99/23881737845-500.jpg" data-tags="indie rock" role="button">
+Rilo Kiley - The Execution of All Things (2002-10-01)
+</li>
+<li data-cover="https://img.discogs.com/ke5mv5j3Qr9m9GEBBC-a_zc-UYw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994709-1561738115-2240.jpeg.jpg" data-tags="alt-country, rock" role="button">
 Ryan Adams - Love Is Hell (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f82a5a3-d049-3cf9-a38f-c2250b1e228d/6723481969-500.jpg" data-tags="alt-country" role="button">
@@ -162,11 +165,8 @@ Gillian Welch - Soul Journey (2003-06-03)
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
-<li data-cover="https://img.discogs.com/m9cPM0P2MM_seZKdNEtfqbEr7fY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1350475-1454274588-2699.jpeg.jpg" data-tags="alt-country, folk noir, americana" role="button">
+<li data-cover="https://img.discogs.com/okJGG8uLdDFFDZV-gNoKZgOklwk=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1528233-1493375981-7883.jpeg.jpg" data-tags="alt-country, folk noir, americana" role="button">
 The Handsome Family - Singing Bones (2003-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
-Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
 <li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
@@ -189,8 +189,11 @@ Drive-By Truckers - The Dirty South (2004-08-24)
 <li data-cover="http://coverartarchive.org/release/727b7e85-75b1-4aec-8e55-069d1d13acf0/7887577823-500.jpg" data-tags="alt-country" role="button">
 Woven Hand - Consider the Birds (2004-09-20)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/97d5185a-0762-41b4-b7d4-59d72fcf0afe/14002995629-500.jpg" data-tags="indie, alt-country" role="button">
+Jenny Lewis with The Watson Twins - Rabbit Fur Coat (2005-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cd87a1-5dac-483d-b330-1c6ed2549ae1/5262868955-500.jpg" data-tags="canadian, alt-country" role="button">
 Kathleen Edwards - Back To Me (2005-03-01)
@@ -207,10 +210,7 @@ Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, cover, covers, covertown" role="button">
-Sun Kil Moon - Tiny Cities (2005-10-31)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
+<li data-cover="https://img.discogs.com/beowalMRNZmW5GIaRtWKWjFu_fc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682006-1147158422.jpeg.jpg" data-tags="alt-country" role="button">
 Neko Case - Fox Confessor Brings the Flood (2006-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
@@ -240,7 +240,7 @@ Brandi Carlile - The Story (2007-04-03)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
-<li data-cover="https://img.discogs.com/ygsrUo2N5u-5i5LBJWxf3UcleuY=/fit-in/488x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6221558-1414072205-7012.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">
 Wilco - Sky Blue Sky (2007-05-14)
 </li>
 <li data-cover="https://img.discogs.com/UDV_1TtRN_gR1czRTs-EoUbP8Ic=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2712279-1431256710-1520.jpeg.jpg" data-tags="alt-country" role="button">
@@ -258,7 +258,7 @@ Band of Horses - Cease to Begin (2007-10-09)
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 J. Tillman - Cancer And Delirium (2008)
 </li>
-<li data-cover="https://img.discogs.com/YFt6y2qbfMSvFeznJ9pBCJqSSlI=/fit-in/448x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583195-1163087126.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d3aa863-b420-4e4b-a8ea-0868c80fc60d/6438594786-500.jpg" data-tags="folk rock" role="button">

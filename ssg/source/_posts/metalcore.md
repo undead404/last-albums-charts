@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:03:01.529Z
+date: 2021-04-06T14:04:01.406Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")
@@ -102,7 +102,7 @@ Trivium - Ascendancy (2005-03-07)
 <li data-cover="http://coverartarchive.org/release/38a7b60f-5a57-426e-86a5-fa13b3374571/12966651970-500.jpg" data-tags="metalcore" role="button">
 Bullet for My Valentine - Hand of Blood (2005-04-25)
 </li>
-<li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
+<li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">
@@ -116,6 +116,9 @@ Chimaira - Chimaira (2005-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc8d446-5b5f-49de-b9c0-31ce46283831/26720885055-500.jpg" data-tags="metalcore, hardcore" role="button">
 Every Time I Die - Gutter Phenomenon (2005-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/470507f1-c04b-4401-b6db-33ef1ad2d0f7/27965748643-500.jpg" data-tags="progressive metal" role="button">
+Between the Buried and Me - Alaska (2005-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/cce39342-31fe-4e87-903f-6dfc1ab5d646/1065535590-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Killing With a Smile (2005-09-12)
@@ -140,9 +143,6 @@ All That Remains - The Fall of Ideals (2006-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
 Killswitch Engage - As Daylight Dies (2006-01-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/87b752fc-7f21-4887-8746-019ec0a4eba8/11692006058-500.jpg" data-tags="metalcore" role="button">
-Caliban - The Undying Darkness (2006-02-22)
 </li>
 <li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)

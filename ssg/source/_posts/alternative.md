@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:52:02.094Z
+date: 2021-04-06T13:56:01.969Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -210,6 +210,9 @@ Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">
+Yellowcard - Lights and Sounds (2006-01-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
 Placebo - Meds (2006-03-10)
 </li>
@@ -236,9 +239,6 @@ Arcade Fire - Neon Bible (2007-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d48a2606-2876-449e-8d7f-a6b52b42c54c/17035663031-500.jpg" data-tags="rock" role="button">
 Kings of Leon - Because of the Times (2007-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
-Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:22:01.528Z
+date: 2021-04-06T13:50:01.451Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -38,6 +38,9 @@ Sly & The Family Stone - There's A Riot Goin' On (1971-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/18d980d4-43f6-4d22-a6df-50ce7a3a6757/15600546210-500.jpg" data-tags="funk" role="button">
 Cymande - Cymande (1972)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+Bill Withers - Still Bill (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
@@ -114,6 +117,9 @@ A Man Called Adam - Bread, Love And Dreams (1992)
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
 </li>
+<li data-cover="https://img.discogs.com/1L3F6UEIUzzI61DUFSNRtrzfWec=/fit-in/574x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328967-1361784708-6869.jpeg.jpg" data-tags="funk, 80s, prince" role="button">
+Prince - Controversy (1993)
+</li>
 <li data-cover="https://img.discogs.com/QYwxSdn4KsgCk3juno4AEzEqtN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204994-1358497086-7715.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
 </li>
@@ -168,9 +174,6 @@ Beck - Midnite Vultures (1999-11-20)
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
-Nicola Conte - Bossa Per Due (2001-06-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/4866a1ef-8eb3-420b-9e21-de6d66fdbda8/13535180696-500.jpg" data-tags="funk, prince" role="button">
 Prince - The Very Best of Prince (2001-07-30)
 </li>
@@ -224,9 +227,6 @@ Chromeo - Fancy Footwork (2007-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">
 Mark Ronson - Version (2007-04-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
-The Cat Empire - So Many Nights (2007-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b95d3a86-6640-4a02-850a-2b842ad601d3/2663904426-500.jpg" data-tags="rock" role="button">
 Red Hot Chili Peppers - Greatest Hits (2008)

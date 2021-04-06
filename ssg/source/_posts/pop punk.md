@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:13:01.416Z
+date: 2021-04-06T14:30:01.434Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -8,8 +8,8 @@ title: "pop punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">Fall Out Boy - From Under the Cork Tree (2005-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">Paramore - All We Know Is Falling (2005-07-26)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)</li>
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">The All-American Rejects - Move Along (2006)</li>
+<li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">Yellowcard - Lights and Sounds (2006-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">Fall Out Boy - Infinity on High (2007-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">Fall Out Boy - Folie à deux (2008-12-10)</li>
@@ -132,7 +132,7 @@ The Academy Is... - Almost Here (2005-02-08)
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
-<li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
+<li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1b2df38-f294-4b48-ae26-9fe5c6fe1639/6819001689-500.jpg" data-tags="pop punk" role="button">
@@ -156,14 +156,14 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">
+Yellowcard - Lights and Sounds (2006-01-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/d6cd5fc3-53b3-475c-90e1-a967e999ad4a/15586885193-500.jpg" data-tags="pop punk" role="button">
 Zebrahead - Broadcast To The World (2006-02-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
 Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/4c48cfa2-ae58-4ada-8f9f-5519b2f02612/25999493974-500.jpg" data-tags="hardcore, pop punk, easycore, the best albums ever, my top 100 albums, albums that i fucking love" role="button">
-Set Your Goals - Mutiny! (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d75d73f2-b776-40a0-8379-8d5d2ac84920/10226803952-500.jpg" data-tags="pop punk" role="button">
 All Time Low - Put Up or Shut Up (2006-07-25)
@@ -182,6 +182,9 @@ New Found Glory - Coming Home (2006-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/c47258f3-f09a-48e2-8eb1-726e7ef7436b/15648762840-500.jpg" data-tags="alternative rock, pop punk" role="button">
+Cobra Starship - While The City Sleeps, We Rule The Streets (2006-10-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
 Mayday Parade - Tales Told By Dead Friends (2006-11-07)
@@ -225,7 +228,7 @@ Sum 41 - Underclass Hero (2007-07-18)
 <li data-cover="http://coverartarchive.org/release/b97c7de1-616c-40bf-a8d7-9ceb84ab8552/7273638872-500.jpg" data-tags="pop punk" role="button">
 All Time Low - So Wrong, It's Right (2007-09-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
+<li data-cover="https://img.discogs.com/AFN3DwuD-MUBC5fmATDT49nCQXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2437292-1283994785.jpeg.jpg" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
 The Spill Canvas - No Really, I'm Fine (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
@@ -257,9 +260,6 @@ You Me at Six - Take Off Your Colours (2008-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb62259a-db3c-4b42-81de-55aebc7934a8/17601500085-500.jpg" data-tags="powerpop, pop punk" role="button">
 Hey Monday - Hold On Tight (2008-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/87fa0459-f9b1-4ed7-bbb1-95f032b24647/14506036638-500.jpg" data-tags="alternative, paramore, twilight, rock" role="button">
-Paramore - Decode (2008-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Folie à deux (2008-12-10)

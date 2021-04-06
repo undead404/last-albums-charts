@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:03:01.680Z
+date: 2021-04-06T14:11:01.406Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![David Bowie - Space Oddity (1969-11-04)](https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg "David Bowie - Space Oddity (1969-11-04)")
@@ -93,7 +93,7 @@ Queen - Sheer Heart Attack (1974-11-01)
 <li data-cover="http://coverartarchive.org/release/3fec9754-a836-3ed6-acc3-4333b057684b/5896624158-500.jpg" data-tags="glam rock, 70s" role="button">
 Roxy Music - Country Life (1974-11-15)
 </li>
-<li data-cover="https://img.discogs.com/EZnSdYql9Jdf8tFQ3osP_2y7kx0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3919427-1349230432-8179.jpeg.jpg" data-tags="70s" role="button">
+<li data-cover="https://img.discogs.com/9ivDdU1RMuE8NdipVBpDpf0bok0=/fit-in/598x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7911286-1454884459-7960.jpeg.jpg" data-tags="70s" role="button">
 Roxy Music - Siren (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/361fc46d-c888-445b-94af-bd0ff8a2e109/4732234980-500.jpg" data-tags="70s, rock" role="button">
@@ -104,9 +104,6 @@ Queen - A Night at the Opera (1975-11-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">
 David Bowie - Station to Station (1976-01-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f6502ca-e8b0-4793-959f-05fe956be7ca/11444653105-500.jpg" data-tags="hard rock" role="button">
-Kiss - Destroyer (1976-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b305835-4b56-434d-9913-df94a72b2b8f/9111517208-500.jpg" data-tags="classic rock, rock" role="button">
 Queen - A Day at the Races (1976-12-10)
@@ -174,9 +171,6 @@ Def Leppard - Hysteria (1987-11-23)
 <li data-cover="https://img.discogs.com/dkbqDxhqvsiV_SgBhK9b8xHQTBs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3085750-1518194666-6785.jpeg.jpg" data-tags="80s, hard rock, hair metal, glam, glam rock" role="button">
 Danger Danger - Danger Danger (1989-06-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7d17108-0217-36e6-9110-b7f24ab6da8f/15488113760-500.jpg" data-tags="hard rock" role="button">
-Alice Cooper - Trash (1989-07-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/a6aef477-83a9-42a1-81da-36ddd6d9eb8e/21763670163-500.jpg" data-tags="rock, glam rock" role="button">
 David Bowie - Sound And Vision (1989-09-19)
 </li>
@@ -216,7 +210,7 @@ Kiss - Greatest Kiss (1996-11-11)
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
 Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
-<li data-cover="https://img.discogs.com/__6gSCDAgw0muUSRQAW6vBXOrpw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1332347-1539483819-1778.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+<li data-cover="https://img.discogs.com/tLxPzs6lDnBK-KVqGcFCDefuJGY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2953368-1316419473.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
 The Easybeats - Friday on My Mind (2000)
 </li>
 <li data-cover="https://img.discogs.com/kqRN-zCX6xcbe2idK_IDCANsMXo=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3822578-1355881869-9489.jpeg.jpg" data-tags="gothic rock" role="button">
@@ -270,6 +264,15 @@ Tokio Hotel - Schrei (2005-09-19)
 <li data-cover="https://img.discogs.com/jOyhah04yl7I6tXvQJI2x5PtcLM=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1042848-1187370726.jpeg.jpg" data-tags="classic rock, rock, 70s, glam rock, david bowie" role="button">
 David Bowie - The Best of David Bowie 1969-1974 (2005-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/d644af71-93e6-4d49-835a-3e13cd681cee/24225700511-500.jpg" data-tags="pop, 00s, alternative, favouritestreamablealbums" role="button">
+Scissor Sisters - Ta Dah (2006-09-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
+of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, glam rock, the ark" role="button">
+The Ark - Prayer For The Weekend (2007-04-12)
+</li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
 </li>
@@ -282,9 +285,6 @@ of Montreal - Skeletal Lamping (2008-10-07)
 <li data-cover="http://coverartarchive.org/release/a4659f71-2c62-4aa4-813a-b9e2924d8a50/2554039402-500.jpg" data-tags="industrial rock, alternative rock" role="button">
 Marilyn Manson - The High End Of Low (2009-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
-Patrick Wolf - The Bachelor (2009-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/c71b28a2-d8fb-4900-a5fd-81573fde7872/10315463887-500.jpg" data-tags="hard rock" role="button">
 Kiss - Sonic Boom (2009-09-09)
 </li>
@@ -294,7 +294,7 @@ Adam Lambert - For Your Entertainment (2009-11-20)
 <li data-cover="http://coverartarchive.org/release/7e9abe81-ca3e-4710-adb7-7dabfb7afef1/16703206620-500.jpg" data-tags="indie rock, glam rock, dfa, albums to buy, listen once" role="button">
 Free Energy - Stuck On Nothing (2010-05-04)
 </li>
-<li data-cover="https://img.discogs.com/EE-4_n8QL36emI_yiIwHt5II-MI=/fit-in/467x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2419837-1283081937.jpeg.jpg" data-tags="synthpop, glam rock, electronic, folktronica" role="button">
+<li data-cover="https://img.discogs.com/lhXM99XSk5_uBW_B3SBU3hpTprw=/fit-in/491x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3300050-1324799991.jpeg.jpg" data-tags="synthpop, glam rock, electronic, folktronica" role="button">
 Goldfrapp - The Singles (2012-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">

@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T01:18:01.292Z
+date: 2021-04-06T14:22:01.434Z
 title: "crossover: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Renegades (2000-11-28)](http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg "Rage Against the Machine - Renegades (2000-11-28)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">Faith No More - The Real Thing (1989-06-20)</li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">Faith No More - Angel Dust (1992-06-08)</li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">Rage Against the Machine - Rage Against the Machine (1992-06-11)</li>
 <li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">Clawfinger - Use Your Brain (1995-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">Rage Against the Machine - Evil Empire (1996-02)</li>
 <li data-cover="https://img.discogs.com/oC80XbUu1pNPEjJuxSL9mIE4OAw=/fit-in/600x922/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500374-1332874280.jpeg.jpg" data-tags="alternative rock" role="button">Guano Apes - Proud Like a God (1997-10-06)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/8a59e142-c96f-4e66-ac78-b65679811421/26006542659-500.jpg" data-tags="hardcore punk" role="button">
 Suicidal Tendencies - Suicidal Tendencies (1983-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/1123d279-5441-49c4-a953-347a2a58ef3a/6512939821-500.jpg" data-tags="shady, hardcore, no core, shady grady, thrash metal, all, grady" role="button">
+<li data-cover="http://coverartarchive.org/release/1123d279-5441-49c4-a953-347a2a58ef3a/6512939821-500.jpg" data-tags="shady, hardcore, no core, shady grady, thrash metal, grady" role="button">
 Corrosion of Conformity - Animosity (1985-08)
 </li>
 <li data-cover="https://img.discogs.com/Nl0AMnKzBy9ICJrT2I_EZERASs8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719025-1369587904-1058.jpeg.jpg" data-tags="hardcore, crossover, thrash" role="button">
@@ -54,7 +54,7 @@ Neurosis - The Word As Law (1990)
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - Lights... Camera... Revolution! (1990-07-03)
 </li>
-<li data-cover="https://img.discogs.com/Czjx-Evs1ry3YEs-pyzuOBH6kqY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5915276-1406214919-8685.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
+<li data-cover="https://img.discogs.com/wgsZzw3GsQaWrZM7cdm-_1Tox6M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2474682-1286066218.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
 Living Colour - Time's Up (1990-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/aae239f9-aadc-4fbc-97a1-8ee7d6ab3068/15785109020-500.jpg" data-tags="chillout, hip hop, classic, dreamy, cinematic, crossover, eclectic, faves, favs, primary, geniaal, wonderschoon, jazzy hip hop, tutka, beats for days, excellent lyricism, verschiedenes, 4nas, nadh, vemu, better than 2pac" role="button">
@@ -72,13 +72,13 @@ Biohazard - Urban Discipline (1992)
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
 Faith No More - Angel Dust (1992-06-08)
 </li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/418ace3a-6dcc-448a-82df-96d6f20b91f9/18440508329-500.jpg" data-tags="hardcore" role="button">
 Suicidal Tendencies - The Art Of Rebellion (1992-06-30)
 </li>
-<li data-cover="https://img.discogs.com/LPiIGgaGvTmI7NSGQDkeyUXpCL0=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640504-1142166563.jpeg.jpg" data-tags="crossover, rap metal" role="button">
+<li data-cover="https://img.discogs.com/DJMNsVbbAmqpb2pyttl8st3xo70=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369994-1362438913-5417.jpeg.jpg" data-tags="crossover, rap metal" role="button">
 Clawfinger - Deaf Dumb Blind (1993-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/88ca8048-cec7-4e47-ace1-11ded524e901/8709934417-500.jpg" data-tags="90s, crossover" role="button">
@@ -129,11 +129,8 @@ The Exploited - Beat the Bastards (1996-04-23)
 <li data-cover="https://img.discogs.com/iXcClxEhvbS_Geid68lhF8j_SI0=/fit-in/320x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3727342-1341947943-5305.jpeg.jpg" data-tags="thrash metal" role="button">
 Slayer - Undisputed Attitude (1996-05-18)
 </li>
-<li data-cover="https://img.discogs.com/tOZgjs__kTawPBj0_vYIb8vvrTg=/fit-in/498x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573265-1140881062.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
+<li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental rock, guitar virtuoso" role="button">
-Steve Vai - Fire Garden (1996-09-17)
 </li>
 <li data-cover="https://img.discogs.com/USwNakBWNfeSE5o1_IJWEqzeX8E=/fit-in/550x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798464-1344874277-3190.jpeg.jpg" data-tags="crossover" role="button">
 H-Blockx - Discover My Soul (1996-09-30)
@@ -261,7 +258,7 @@ Les Claypool - Of Whales And Woe (2006-05-30)
 <li data-cover="http://coverartarchive.org/release/73dc38c9-2f86-4295-ab2f-fddcc98877b5/4793338662-500.jpg" data-tags="ska" role="button">
 Akurat - Fantasmagorie (2006-05-31)
 </li>
-<li data-cover="https://img.discogs.com/6IhrhN8e8KQjvX1MkALI2e60_5g=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11724612-1521308193-7517.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
 Placebo - Covers (2007-03-05)
 </li>
 <li data-cover="https://img.discogs.com/K65TxDmX1r8hBNgvfbS5EvXzzms=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102386-1266479094.jpeg.jpg" data-tags="alternative, nu metal" role="button">
@@ -320,5 +317,8 @@ Power Trip - Manifest Decimation (2013-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/063be074-7705-40b5-afe5-eba6f2f7417e/9751685057-500.jpg" data-tags="hardcore" role="button">
 Body Count - Manslaughter (2014-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0818f77-a295-42ac-b0a3-fba8b2605bbd/8489707726-500.jpg" data-tags="metalcore, crossover, metallic hardcore" role="button">
+Cold World - How the Gods Chill (2014-08-05)
 </li>
 </ol>

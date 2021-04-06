@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:57:01.379Z
+date: 2021-04-06T14:24:01.375Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -159,7 +159,7 @@ Jane Air - Pull Ya? Let it doll go (2002)
 <li data-cover="http://coverartarchive.org/release/d74363e7-3b88-43b2-8c0e-07b1e2387fe7/11181792802-500.jpg" data-tags="3rd strike" role="button">
 3rd Strike - Lost Angel (2002-05-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk" role="button">
+<li data-cover="https://img.discogs.com/1YbCa_LUFfTJlv-EsKzNe_4WaF0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1325572-1429907599-1947.jpeg.jpg" data-tags="punk" role="button">
 Transplants - Transplants (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/40e7c84f-309b-4d2e-b93c-c9d56f682665/17105713835-500.jpg" data-tags="alternative rock" role="button">
@@ -270,9 +270,6 @@ Noize MC - OST Розыгрыш (2009)
 <li data-cover="http://coverartarchive.org/release/53417254-fc89-4bd4-9b2b-10830617f628/15185164247-500.jpg" data-tags="rap, la coka nostra, rock, underground hip-hop, house of pain" role="button">
 La Coka Nostra - A Brand You Can Trust (2009-07-14)
 </li>
-<li data-cover="https://img.discogs.com/tXkKA1LKqgg1Z3chelWxJaAgwBQ=/fit-in/600x660/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14479846-1575376462-6127.jpeg.jpg" data-tags="german, crossover, rapcore" role="button">
-Panik - Panik (2009-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
 </li>
@@ -308,6 +305,9 @@ Noize MC - Новый альбом (2012-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/c42909b1-9750-4a9c-9431-170a2583d794/28722232870-500.jpg" data-tags="rapcore" role="button">
+Deuce - Nine Lives (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df96417-e066-4b6c-b436-e44508fa40c4/22299675586-500.jpg" data-tags="alternative rock" role="button">
 Papa Roach - The Connection (2012-10-01)

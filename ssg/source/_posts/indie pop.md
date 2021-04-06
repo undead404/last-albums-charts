@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:49:01.640Z
+date: 2021-04-06T13:54:01.494Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -83,6 +83,9 @@ Regina Spektor - Begin to Hope (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">
 Peter Bjorn and John - Writer's Block (2006-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/b585fc51-4f54-32d7-89a5-a5d57b3840dd/21173965740-500.jpg" data-tags="indie, indie rock" role="button">
+The Shins - Wincing the Night Away (2007-01-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
@@ -311,9 +314,6 @@ Bombay Bicycle Club - So Long, See You Tomorrow (2014-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
-Lana Del Rey - Ultraviolence (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/32269431-0747-4ec2-a2b9-84abfaa499ee/8007239303-500.jpg" data-tags="indie, indie folk" role="button">
 Vance Joy - Dream Your Life Away (2014-09-09)

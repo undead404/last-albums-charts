@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T22:20:02.158Z
+date: 2021-04-06T14:20:01.434Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -10,9 +10,9 @@ title: "live: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/647617b9-2792-34ed-8c1c-307dcc046fdf/24652265801-500.jpg" data-tags="industrial, live, industrial metal" role="button">Marilyn Manson - The Last Tour On Earth (1999-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">Bright Eyes - Motion Sickness (2001-01-26)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)</li>
-<li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)</li>
+<li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">John Mayer Trio - Try! (2005-11-22)</li>
+<li data-cover="http://coverartarchive.org/release/41310cf5-55c1-4571-86fb-4f80de835ca3/16200657682-500.jpg" data-tags="live" role="button">Stereophonics - Live From Dakota (2006-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)</li>
-<li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">Coldplay - LeftRightLeftRightLeft (2009-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">The White Stripes - Under Great White Northern Lights (2010-03-15)</li>
 </ol>
 List of 100 - under the cut.
@@ -48,13 +48,13 @@ Led Zeppelin - The Song Remains The Same (1976-09-28)
 <li data-cover="http://coverartarchive.org/release/c40cb4ab-ce16-4816-9df3-b512db7f8516/10645292811-500.jpg" data-tags="classic rock, live, 70s, rock" role="button">
 Cheap Trick - At Budokan (1978-10)
 </li>
-<li data-cover="https://img.discogs.com/vC_Ab8YbYPrUPisG3AaW6-e3BG4=/fit-in/534x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236962-1431722480-6285.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/BqQyg5HhgZVpvQnPD7CfslpF9dQ=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1138814-1405512986-5230.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
 Queen - Live Killers (1979-06-22)
 </li>
 <li data-cover="https://img.discogs.com/CJUhQdKx8cnKYRTRFL7YEsrO8mo=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7540898-1466772398-1897.jpeg.jpg" data-tags="live, folk, classic rock" role="button">
 Simon & Garfunkel - The Concert in Central Park (1982)
 </li>
-<li data-cover="https://img.discogs.com/WogGcC6KteU51OvvqSom3VOwn4U=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10604266-1500795889-2401.jpeg.jpg" data-tags="new wave, live, 80s" role="button">
+<li data-cover="https://img.discogs.com/FYpf5FjntvV0MdIIdy2ogrAVNrc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4298151-1362259173-8211.jpeg.jpg" data-tags="new wave, live, 80s" role="button">
 Talking Heads - The Name of This Band Is Talking Heads (1982)
 </li>
 <li data-cover="https://img.discogs.com/mEROh5D5nn0FvcZrEKopwnQYZS8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3644792-1365379808-5746.jpeg.jpg" data-tags="80s, new wave" role="button">
@@ -96,9 +96,6 @@ The Cure - Paris (1993-10-25)
 <li data-cover="http://coverartarchive.org/release/7c94535f-a010-332f-bfe7-bafe559a5aa8/15723258334-500.jpg" data-tags="thrash metal, live" role="button">
 Metallica - Live Shit: Binge & Purge (1993-11-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bb19235-b385-4a98-8390-f4204fd43521/20376603471-500.jpg" data-tags="live" role="button">
-Jeff Buckley - Live at Sin-é (1993-11-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/77497f39-a9b2-4044-9ade-ff3bb959e52f/11171713706-500.jpg" data-tags="alternative, postrock, live" role="button">
 Pavement - Stuff Up the Cracks (1994)
 </li>
@@ -108,7 +105,7 @@ Live - Throwing Copper (1994-04-19)
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">
 Nirvana - MTV Unplugged in New York (1994-11-01)
 </li>
-<li data-cover="https://img.discogs.com/7pCi2rLlkkewxnV_BiAT9ukt6gI=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2718382-1297923395.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
+<li data-cover="https://img.discogs.com/bj7nBdOIBkg-hNYkMCgnNlGA75o=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1640922-1331948327.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
 Bob Dylan - MTV Unplugged (1995-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc9ed97b-4551-4a5b-8ab5-5776b5d75600/26944550465-500.jpg" data-tags="progressive rock" role="button">
@@ -213,7 +210,7 @@ Modest Mouse - Baron Von Bullshit Rides Again (2004-04-06)
 <li data-cover="http://coverartarchive.org/release/7c7f2328-df86-4d6b-a2ec-a96eeb28dfd3/5718688483-500.jpg" data-tags="rock, live" role="button">
 Red Hot Chili Peppers - Live in Hyde Park (2004-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, 2004, acoustic, live" role="button">
+<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
 Damien Rice - B-Sides (2004-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/415d1dea-4107-49e0-8fbe-cba8cf607d86/9469978707-500.jpg" data-tags="rock, evanescence, live" role="button">
@@ -251,6 +248,9 @@ My Chemical Romance - Life on the Murder Scene (2006-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/05a01238-7c55-3350-b66d-f69f839f6cae/4742571296-500.jpg" data-tags="power metal" role="button">
 Sonata Arctica - For The Sake Of Revenge (2006-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/41310cf5-55c1-4571-86fb-4f80de835ca3/16200657682-500.jpg" data-tags="live" role="button">
+Stereophonics - Live From Dakota (2006-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1f237d6-edf1-46f8-971c-a7280b53bdc6/1068689504-500.jpg" data-tags="acoustic" role="button">
 Seether - One Cold Night (2006-06-11)
@@ -300,7 +300,7 @@ Leonard Cohen - Live In London (2009-03-31)
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">
 Coldplay - LeftRightLeftRightLeft (2009-05-15)
 </li>
-<li data-cover="https://img.discogs.com/UXgbqevfNeBqlilcwq4pyWKeH80=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5558208-1396520125-1881.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/addacb4d-bb2e-4f66-9246-fd15bfdc3576/15497181552-500.jpg" data-tags="live" role="button">
