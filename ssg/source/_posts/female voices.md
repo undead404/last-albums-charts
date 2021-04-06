@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:52:01.440Z
+date: 2021-04-06T21:50:01.471Z
 title: "female voices: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -41,6 +41,9 @@ Björk - Hyperballad (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/052f365f-beb2-4794-90e0-f272c266e973/18446288488-500.jpg" data-tags="country, skeeter davis" role="button">
 Skeeter Davis - The Essential Skeeter Davis (1995)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Diana Krall - Only Trust Your Heart (1995-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4eb2ecb0-0749-48c7-976b-f3c8e5dfef27/4421207756-500.jpg" data-tags="indie, vocal, female, jazz, pop, rock, country, favorite bands, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, singer-songwriter, piano, folk-rock, acoustic, americana, romantic, fantastic, dreamy, feel good, voice, girls, american, radio, cosmic, mellow, pretty, alt-country, melancholy, unique, soft, ethereal, spiritual, folk rock, poetic, intelligent, earthy, nice, female vocals, female vocalist, alt country, alternative country, alternative pop, hot, new folk, ohio, sxsw, fivestar, lovely, visual, female voices, addictive, sweet, i like this, truth, misc, girl, music, visionary, jesus, babe, the rhine, dusk, cincinnati, good music, seductive, alternative gospel, over, proper, anima, alt-pop, front porch, adult, people who are freakier and folkier than motherfucking devendra banhart, shady, special, river, north america, girls girls girls, i have seen live, relationships, really good" role="button">
 Over the Rhine - Good Dog Bad Dog: The Home Recordings (1996)
@@ -95,9 +98,6 @@ Kasey Chambers - Barricades & Brickwalls (2001-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/60ba810a-a944-4649-b1f6-081a6afd8047/8198458307-500.jpg" data-tags="canadian, singer-songwriter, americana" role="button">
 Kathleen Edwards - Failer (2002)
-</li>
-<li data-cover="https://img.discogs.com/YEVE9vggwaPFLvXbJOSjxEdHhoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4916990-1379355770-6548.jpeg.jpg" data-tags="piano, acoustic" role="button">
-Allison Crowe - Lisa's Song + 6 Songs (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/863d6f97-4c29-46ad-ac35-03c6aaf8a6cd/17753189978-500.jpg" data-tags="jazz, female vocalists" role="button">
 Diana Krall - Live In Paris (2002-04-02)
@@ -177,7 +177,7 @@ Kuba - Inside Out (2006-06-24)
 <li data-cover="http://coverartarchive.org/release/5cfb1f76-e542-4acf-875c-91d4af82d09e/4729456852-500.jpg" data-tags="world music, ethnic, world" role="button">
 Azam Ali - Elysium For The Brave (2006-07-25)
 </li>
-<li data-cover="https://img.discogs.com/qSe39o4vNoaauzz8cyZOBOx-G3U=/fit-in/594x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440163-1282667787.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
+<li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ad5a85b-f3c9-4cef-92fa-04318c1a2e7c/20096631190-500.jpg" data-tags="electronic, pop, female vocalists, synthpop, female voices, frauen und technik, soprano, x-perience, seligalex" role="button">

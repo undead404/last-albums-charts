@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:22:01.354Z
+date: 2021-04-06T21:55:01.406Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -56,6 +56,9 @@ The B-52's - The B-52's (1979-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/621b308e-ef79-4c7a-aa87-1f47885a709b/9312152547-500.jpg" data-tags="new wave" role="button">
 Talking Heads - Fear of Music (1979-08-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
+XTC - Drums And Wires (1979-08-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Gary Numan - The Pleasure Principle (1979-09-07)
@@ -117,7 +120,7 @@ Visage - The Damned Don't Cry (1982-01-04)
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
-<li data-cover="https://img.discogs.com/RNz6Fg2CBe980HDyOrKIr_aAGhM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10242510-1494068814-4541.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/6f2arQmOvhprFonrzs0tkxWGCRg=/fit-in/596x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372943-1363547814-5889.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
 Billy Idol - Billy Idol (1982-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
@@ -224,9 +227,6 @@ The B-52's - Cosmic Thing (1989-06-06)
 </li>
 <li data-cover="https://img.discogs.com/3iegZ_HzM2EWcgOWBaN3CfRedyo=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467428-1117836841.jpg.jpg" data-tags="synthpop, new wave, 90s" role="button">
 Depeche Mode - Violator (1990-02-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/b1bad019-ee7b-437a-a587-d314d4541892/2461283124-500.jpg" data-tags="new wave, alternative, remix" role="button">
-The Cure - Mixed Up (1990-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/28bb674b-dc21-3a26-92a9-ced106a4165c/2633457554-500.jpg" data-tags="pop, 80s" role="button">
 Eurythmics - Greatest Hits (1991-02-28)

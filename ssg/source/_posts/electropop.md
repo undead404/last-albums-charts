@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:05:02.868Z
+date: 2021-04-06T21:47:01.549Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/8d9e290e-1001-4616-9de2-67fa69bfc9cd/13761995776-500.jpg" data-tags="electro, electronic, electropop, electroclash" role="button">
-Ladytron - Light & Magic (2002-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
 </li>
@@ -56,9 +53,6 @@ Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
 New Young Pony Club - Fantastic Playroom (2007-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
-Metro Station - Metro Station (2007-09-18)
 </li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
@@ -111,9 +105,6 @@ Marina & the Diamonds - The Family Jewels (2009)
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/832a78ea-5be2-36b3-bcb7-107b77dfe674/23298175097-500.jpg" data-tags="electropop" role="button">
-La Roux - In for the Kill (2009-03-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
@@ -134,6 +125,9 @@ Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
+</li>
+<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
+Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
@@ -279,6 +273,9 @@ Avicii - True (2013-08-13)
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/d5baa187-0ebd-4738-8b37-2499adb0a6ac/5267464883-500.jpg" data-tags="pop" role="button">
+Icona Pop - This Is... Icona Pop (2013-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
@@ -290,6 +287,9 @@ Lady Gaga - ARTPOP (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, listen, ouvir" role="button">
+MØ - Don't Wanna Dance (2014-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/77fe735b-a0ce-4f69-8825-866795db205a/10503497516-500.jpg" data-tags="electronic, electropop, indie, alternative, experimental, indie pop, folktronica, 2010s" role="button">
 Sylvan Esso - Sylvan Esso (2014-05-12)

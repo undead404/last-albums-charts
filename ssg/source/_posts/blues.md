@@ -1,14 +1,14 @@
 ---
-date: 2021-04-06T10:33:01.497Z
+date: 2021-04-06T22:00:07.184Z
 title: "blues: 100 albums you must listen to before you die"
 ---
-![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
+![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">Tom Waits - Closing Time (1973-05)</li>
-<li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">Eric Clapton - Unplugged (1992-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">John Mayer Trio - Try! (2005-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
+<li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">John Mayer - Continuum (2006-08-01)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
 <li data-cover="https://img.discogs.com/xuq3MPlDpFXj4QApHfhHmHEgElw=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3249551-1322327457.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
 <li data-cover="https://img.discogs.com/Sx2GoX-oNB9S0Hba5pduTHWZE7A=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521164-1378815509-2198.jpeg.jpg" data-tags="blues, rock, soul, 10s" role="button">Alabama Shakes - Boys & Girls (2012-04-03)</li>
@@ -123,7 +123,7 @@ Buddy Guy - Damn Right, I've Got The Blues (1991)
 <li data-cover="https://img.discogs.com/s54ApWn18BLeDr_qL2pc20EPrHI=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1249753-1204073396.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
 Bonnie Raitt - Luck Of The Draw (1991-06-25)
 </li>
-<li data-cover="https://img.discogs.com/qFq64TpTw5QiJVkDzY4Lck_xFTU=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10799399-1504518831-3588.jpeg.jpg" data-tags="eric clapton" role="button">
+<li data-cover="https://img.discogs.com/K2IAnrX1dwsD3gucstErNMR_zmY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664306-1593630845-8226.jpeg.jpg" data-tags="eric clapton" role="button">
 Eric Clapton - Tears in Heaven (1992-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c507e78c-4f02-4765-8ca4-1d919bbde08c/9574171273-500.jpg" data-tags="blues, experimental, singer-songwriter" role="button">
@@ -162,7 +162,7 @@ Tom Waits - Mule Variations (1999-04-14)
 <li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
 Eric Clapton - Clapton Chronicles: The Best of Eric Clapton (1999-10-12)
 </li>
-<li data-cover="https://img.discogs.com/eOIoN-rL9mXI3K_SgjWIWJU8-eA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4091170-1371850697-1461.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
+<li data-cover="https://img.discogs.com/cWE18EBpsnlVsw9MwYjvb9ztRlE=/fit-in/600x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11521502-1521627633-2305.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
 Morphine - The Night (2000-02-01)
 </li>
 <li data-cover="https://img.discogs.com/blVarIDnIHpERCIOUvAoP4618FU=/fit-in/509x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855656-1606850367-2438.jpeg.jpg" data-tags="blues" role="button">
@@ -186,7 +186,7 @@ Led Zeppelin - Led Zeppelin (2003-05-26)
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
-<li data-cover="https://img.discogs.com/WI9xr-R4aOltg2LSAy8x77FKfQg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4662538-1371466720-1362.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
+<li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
@@ -204,7 +204,7 @@ The Black Keys - Rubber Factory (2004-09-07)
 <li data-cover="https://img.discogs.com/gcvh_G1cU7K2nvX7-zDztowbVh4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438161-1558967298-3250.jpeg.jpg" data-tags="blues, experimental" role="button">
 Tom Waits - Real Gone (2004-10-04)
 </li>
-<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
@@ -230,6 +230,9 @@ The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
+John Mayer - Continuum (2006-08-01)
 </li>
 <li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
@@ -258,14 +261,11 @@ Melody Gardot - My One And Only Thrill (2008-12-16)
 <li data-cover="http://coverartarchive.org/release/218ff81b-3e00-387f-91e3-80ac7885789d/15457622056-500.jpg" data-tags="blues-rock, blues, blues rock" role="button">
 Dan Auerbach - Keep It Hid (2009-02-09)
 </li>
-<li data-cover="https://img.discogs.com/5wsLRawalXpIWVQ1HFlYAy2yuRQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125909-1425232433-8311.jpeg.jpg" data-tags="alternative, garage rock, indie, blues rock" role="button">
+<li data-cover="https://img.discogs.com/QSdZcenKf5ZGnTWJfrOB8B0d27A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299291-1290887410.jpeg.jpg" data-tags="alternative, garage rock, indie, blues rock" role="button">
 Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
-</li>
-<li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
-Blakroc - Blakroc (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:24:01.408Z
+date: 2021-04-06T22:03:01.474Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -174,9 +174,6 @@ James Blunt - Back to Bedlam (2004-04-15)
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
-<li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
-Feist - Let It Die (2004-05-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
 Regina Spektor - Soviet Kitsch (2004-08-17)
 </li>
@@ -236,6 +233,9 @@ Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="https://img.discogs.com/BvnnVUfIyE34Bdrb4fOFdMHTU54=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675273-1147465062.jpeg.jpg" data-tags="folk" role="button">
 Ray LaMontagne - Trouble (2006-07-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
+John Mayer - Continuum (2006-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c5176e5-b75c-4cba-ab30-ca74fa9acb0a/14396282999-500.jpg" data-tags="folk, ray lamontagne, singer-songwriter" role="button">
 Ray LaMontagne - Till The Sun Turns Black (2006-08-29)

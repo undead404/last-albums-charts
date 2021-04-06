@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:19:01.394Z
+date: 2021-04-06T21:59:01.591Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -54,8 +54,8 @@ Sarah McLachlan - Fumbling Towards Ecstasy (1993-10-22)
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
 </li>
-<li data-cover="https://img.discogs.com/A0hMPwgAEFnq8ZyMLIxdAwQg-JA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319978-1580194098-1708.jpeg.jpg" data-tags="90s, heather nova" role="button">
-Heather Nova - Oyster (1994-10-17)
+<li data-cover="http://coverartarchive.org/release/7bce126e-92a6-3e36-8777-baa8f2c296d3/8615407273-500.jpg" data-tags="folk" role="button">
+Tracy Chapman - New Beginning (1995-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/16b92612-7634-4053-8464-b1b0e18847f2/5641031475-500.jpg" data-tags="female" role="button">
 Dar Williams - Mortal City (1996)
@@ -177,7 +177,7 @@ Rihanna - A Girl Like Me (2006-04-19)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/qSe39o4vNoaauzz8cyZOBOx-G3U=/fit-in/594x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440163-1282667787.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
+<li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
 </li>
 <li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists" role="button">
@@ -246,7 +246,7 @@ Lissie - Catching A Tiger (2010-06-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="female, lala, new school" role="button">
 Eliza Doolittle - Pack Up (2010-07-05)
 </li>
-<li data-cover="https://img.discogs.com/HzaUfKleOynSZGfMrwfzhzEz4BY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1287439-1215189066.jpeg.jpg" data-tags="female, pop, alternative, dance, c, synth pop, girls, g, k, sex, guilty pleasure, buy, j, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, nuggets, bananas" role="button">
+<li data-cover="https://img.discogs.com/13c_rn7hXGWMSdAwmbvMZrmJfYY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1200596-1215188260.jpeg.jpg" data-tags="female, pop, alternative, dance, c, synth pop, girls, g, k, sex, buy, j, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, nuggets, bananas" role="button">
 Robyn - Hang With Me (2010-08-09)
 </li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">

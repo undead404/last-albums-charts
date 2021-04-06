@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:02:01.392Z
+date: 2021-04-06T21:57:01.476Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -13,7 +13,7 @@ title: "acid jazz: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/95f6463e-98a6-3350-87ef-1c72ede3ef7a/3772653936-500.jpg" data-tags="jazz" role="button">The Cinematic Orchestra - Man With a Movie Camera (2003-05-31)</li>
 <li data-cover="http://coverartarchive.org/release/941a3f75-661f-4e89-8381-cbf851bea6b6/4765069290-500.jpg" data-tags="hip-hop, chillout, japanese" role="button">Nujabes - Metaphorical Music (2003-08-21)</li>
 <li data-cover="http://coverartarchive.org/release/456b5bed-4c96-4903-a0bb-1f25d9560b0b/10339586003-500.jpg" data-tags="ninja tune, acid jazz, jazz, nu jazz" role="button">Skalpel - Skalpel (2004-03)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - Dynamite (2005-05-20)</li>
+<li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">Jamiroquai - Dynamite (2005-05-20)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -99,9 +99,6 @@ Jamiroquai - Travelling Without Moving (1996-09-09)
 <li data-cover="http://coverartarchive.org/release/55b4d834-4916-4530-a184-f10f899e138e/20794420950-500.jpg" data-tags="chillout, downtempo" role="button">
 Koop - Sons Of Koop (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b7f3557-4cdb-4196-9da2-1326f83f38d2/2572665131-500.jpg" data-tags="idm, electronic" role="button">
-Squarepusher - Hard Normal Daddy (1997-04-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">
 Amon Tobin - Bricolage (1997-04-25)
 </li>
@@ -120,14 +117,14 @@ Kid Loco - A Grand Love Story (1997-11-25)
 <li data-cover="https://img.discogs.com/xV_5SyTRYyFYU9dUJbkiggU1kh4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-133675-1261228874.jpeg.jpg" data-tags="acid jazz" role="button">
 The Brand New Heavies - Shelter (1997-12-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/d45b934f-1c9e-4d38-bf35-abf0b5329be0/7639358018-500.jpg" data-tags="acid jazz, nu jazz, jazzrock" role="button">
+Jazzanova - Jazzanova EP (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/dce876a0-9d4f-4dbe-9426-f2f7b23927cb/9517798134-500.jpg" data-tags="electronic, ninja tune" role="button">
 Amon Tobin - Permutation (1998-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/aef8d258-c78e-4417-b34e-89f939557658/6976315353-500.jpg" data-tags="acid jazz" role="button">
 Red Snapper - Making Bones (1998-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a5f11bb-7382-4179-9ed4-813868b8e402/17345379894-500.jpg" data-tags="acid jazz, funk and turku" role="button">
-Brooklyn Funk Essentials - In the Buzzbag (1998-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/53699e6e-fb1d-4fc7-b7db-c7995c9c4123/21761368883-500.jpg" data-tags="jazz, acid jazz" role="button">
 Squarepusher - Music Is Rotted One Note (1998-10-12)
@@ -135,8 +132,8 @@ Squarepusher - Music Is Rotted One Note (1998-10-12)
 <li data-cover="http://coverartarchive.org/release/3a64846e-bcc5-46f1-895f-67144b4babea/23264193650-500.jpg" data-tags="lounge, downtempo, groovy" role="button">
 Mo' Horizons - Come Touch the Sun (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/602d13e3-bbff-32cf-afda-14efd353ba45/8125992983-500.jpg" data-tags="lounge, downtempo" role="button">
-De-Phazz - Godsdog (1999)
+<li data-cover="http://coverartarchive.org/release/6b089d58-60e5-4ccd-acbb-81e96cfe4d14/8125766683-500.jpg" data-tags="acid jazz" role="button">
+United Future Organization - Bon Voyage (1999-05-19)
 </li>
 <li data-cover="https://img.discogs.com/MJaGbv-d3pFnroMLPVfW7cpBhbU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5680041-1466762180-5272.jpeg.jpg" data-tags="ninja tune, electronic" role="button">
 Mr. Scruff - Keep It Unreal (1999-06-01)
@@ -201,17 +198,17 @@ Jazzanova - In Between (2002-04-29)
 <li data-cover="https://img.discogs.com/oB0kkbHejswg9n5RxYYpK9nL-KM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55197-1155240715.jpeg.jpg" data-tags="my-love, uutta jazzia, smooth lounge, chillout downtempo, jazz-trip, alternative lounge, lounge chill, lounge-tech, smoothly sexy sounding, lounge electronic, my lounge room, sweet downtempo, tropcool, chill chill, lounge at home tres, chillair, jazzy flavoured, downtempo influences, acoustic groove, groove lounge, electronic lounge jazz, lounge uptempo, chillounge1, awesome downtempo, epic lounge, sexy sounding, acid lounge, serve chilled, city lounge, lounge downtempo, jazzy vibes, lounge at home two, genre: downtempo, ouahhhhh, 1st vine, genre:downtempo, uuta jazzia, uutta jazziz, downtempo groove, jazzy female vocal" role="button">
 Nuspirit Helsinki - Nuspirit Helsinki (2002-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/bdb52d96-167e-4b6a-ac9c-21b8a9e7a74c/4393837188-500.jpg" data-tags="nu-jazz, my lounge room, lounge, lounge electronic, chillounge1, uutta jazzia, my-love, alternative lounge, smooth lounge, jazz-trip, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, tropcool, chill chill, lounge at home tres, chillair, epic lounge, electrocool, lounge uptempo, sexy sounding" role="button">
-Minus 8 - Minuit (2002-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/e61973b7-9cce-4620-802d-d71099fb6010/13581337932-500.jpg" data-tags="ninja tune" role="button">
-Mr. Scruff - Trouser Jazz (2002-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
 Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="my-love, jazz-trip, lounge-tech, smoothly sexy sounding, tropcool, chill chill, chillair, uutta jazzia, smooth lounge, city lounge, alternative lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, chillounge1, lounge at home tres, epic lounge, sexy sounding, acid lounge, serve chilled, chillout downtempo, lounge chill, groove lounge, uutta jazziz, jazzy flavoured, downtempo influences, acoustic groove, lounge downtempo, sweet downtempo, ouahhhhh, jazzy vibes, lounge at home two, uuta jazzia, genre: downtempo, 1st vine, genre:downtempo, awesome downtempo, chilllounge1, served chilled, 1st vine acid, nu jazz vibe, nu-jazz vibe, nujazz vibe" role="button">
+Kyoto Jazz Massive - Spirit of the Sun (2002-10-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f2d7299-3c26-38a2-8d81-95ca297ef0a1/8250295476-500.jpg" data-tags="jazz, lounge" role="button">
 Gabin - Gabin (2002-11-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="my-love, uutta jazzia, jazz-trip, electronic lounge jazz, my lounge room, lounge at home tres, acid jazz, lounge-tech, smoothly sexy sounding, tropcool" role="button">
+Metropolitan Jazz Affair - Mja (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/69230c58-6618-4b7e-871e-153fd1a39acb/6082658600-500.jpg" data-tags="acid jazz, electronic" role="button">
 Xploding Plastix - The Donca Matic Singalongs (2003)
@@ -225,9 +222,6 @@ Massive Attack - Special Cases (2003-02-24)
 <li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
 Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/72480b42-a4af-4a16-8a18-1fdeaa56188b/6514747177-500.jpg" data-tags="electronic, acid jazz" role="button">
-Xploding Plastix - The Benevolent Volume Lurkings EP (2003-03-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/95f6463e-98a6-3350-87ef-1c72ede3ef7a/3772653936-500.jpg" data-tags="jazz" role="button">
 The Cinematic Orchestra - Man With a Movie Camera (2003-05-31)
 </li>
@@ -237,8 +231,11 @@ The Cinematic Orchestra - Man With a Movie Camera (2003-05-31)
 <li data-cover="http://coverartarchive.org/release/941a3f75-661f-4e89-8381-cbf851bea6b6/4765069290-500.jpg" data-tags="hip-hop, chillout, japanese" role="button">
 Nujabes - Metaphorical Music (2003-08-21)
 </li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/69096593-df2f-41ed-9747-a2de98a388ba/4014995375-500.jpg" data-tags="downtempo, acid jazz, softjazz" role="button">
+Koop - Waltz for Koop: Alternative Takes (2003-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea91fb49-70e8-4b21-ab82-9b85e52bc236/5349865375-500.jpg" data-tags="tru thoughts, acid jazz" role="button">
 The Limp Twins - Tales From Beyond The Groove (2003-11-17)
@@ -261,7 +258,10 @@ Flevans - Make New Friends (2004-11-02)
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="lounge" role="button">
+De-Phazz - Natural Fake (2005-03-07)
+</li>
+<li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ninja tune" role="button">
@@ -288,17 +288,17 @@ Nostalgia 77 - Everything Under the Sun (2007-03-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="lounge, jazz, downtempo, acid jazz" role="button">
 De-Phazz - Days Of Twang (2007-03-23)
 </li>
-<li data-cover="https://img.discogs.com/Ekhpoc-K1J5POmMeD1yq68TTTCA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681569-1236768592.jpeg.jpg" data-tags="soul, vocal jazz, acid jazz, lounge, jazz fusion, funky, sun, post-jazz, indie jazz, soul vocal" role="button">
-SunSay - SunSay (2007-09)
+<li data-cover="http://coverartarchive.org/release/ada029f9-7554-4199-969c-74edf50e775d/6977681474-500.jpg" data-tags="my-love, my lounge room, nu-jazz, uutta jazzia, jazz-trip, lounge-tech, smoothly sexy sounding, tropcool, chill chill, lounge at home tres, chillair, acid lounge, smooth lounge, serve chilled, city lounge, alternative lounge, lounge chill, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, lounge at home two, epic lounge, sexy sounding" role="button">
+Metropolitan Jazz Affair - Bird of Spring (2007-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/17db2a43-5d90-45d6-afcf-729248ff40c0/4399091778-500.jpg" data-tags="nu jazz, acid jazz, trip hop" role="button">
+Free the Robots - Free The Robots EP (2007-10-16)
 </li>
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
 The Asteroids Galaxy Tour - Fruit (2008)
 </li>
 <li data-cover="https://img.discogs.com/67YIH3oqKP8L628qNK9n5nyp4TM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1407744-1356179950-7996.jpeg.jpg" data-tags="soul" role="button">
 Jamie Lidell - Jim (2008-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/e09d8453-874a-4270-b50c-1100fbcff43c/7523095509-500.jpg" data-tags="acid jazz" role="button">
-The Brand New Heavies - Get Used To It (2008-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/388edb27-1184-491c-9959-156d05eea272/954857367-500.jpg" data-tags="lounge, electro-swing, electronic" role="button">
 Parov Stelar - That Swing (2009)

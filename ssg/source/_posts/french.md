@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:27:01.618Z
+date: 2021-04-06T22:41:01.508Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -66,7 +66,7 @@ Yann Tiersen - Le Phare (1998-02-20)
 <li data-cover="http://coverartarchive.org/release/cb844a4d-c02f-3199-b949-1656b36722da/8145217760-500.jpg" data-tags="house" role="button">
 Cassius - 1999 (1999-01-25)
 </li>
-<li data-cover="https://img.discogs.com/ueHqVa2uBQeA-HuOllCR2Tgm4r8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8734758-1467658299-8227.jpeg.jpg" data-tags="french, pop" role="button">
+<li data-cover="https://img.discogs.com/3F9dToiY88b1bo3ZdloKum4KYyk=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6843853-1537184046-7342.jpeg.jpg" data-tags="french, pop" role="button">
 Mylène Farmer - Innamoramento (1999-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
@@ -261,14 +261,14 @@ CocoRosie - Grey Oceans (2010-04-30)
 <li data-cover="http://coverartarchive.org/release/9703802c-0108-40fb-865c-0bbf17960c98/6816205914-500.jpg" data-tags="jazz, chanson" role="button">
 Zaz - Zaz (2010-05-10)
 </li>
+<li data-cover="https://img.discogs.com/WA0CEnoechp6NQSvei2aorzf5u4=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2907119-1581926315-2145.jpeg.jpg" data-tags="post-rock" role="button">
+Yann Tiersen - Dust Lane (2010-10-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2aa508e-dc3f-4213-8f61-2773536db7e4/23565453379-500.jpg" data-tags="female vocalists" role="button">
 Mélanie Laurent - En t'attendant (2011-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
-Sebastian - Total (2011-05-27)
 </li>
 <li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Audio, Video, Disco (2011-09-21)

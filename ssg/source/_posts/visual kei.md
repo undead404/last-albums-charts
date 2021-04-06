@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T03:15:01.498Z
+date: 2021-04-06T22:42:01.372Z
 title: "visual kei: 100 albums you must listen to before you die"
 ---
 ![Chelsea Wolfe - Pain Is Beauty (2013-09-03)](https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg "Chelsea Wolfe - Pain Is Beauty (2013-09-03)")
@@ -78,7 +78,7 @@ Loreena McKennitt - The Book Of Secrets (1997-09-30)
 <li data-cover="https://img.discogs.com/EhT0vxrjitaVdDgfQbAioxR-zfQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17899222-1616084849-2764.jpeg.jpg" data-tags="japanese, j-rock, visual kei, jrock, buck-tick, awesome albums i own" role="button">
 BUCK-TICK - SEXY STREAM LINER (1997-12-10)
 </li>
-<li data-cover="https://img.discogs.com/ivfHy7DrGtxr7pgz4bubBMmcUYo=/fit-in/282x267/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2708244-1297471438.jpeg.jpg" data-tags="japanese, emo, anime, j-pop, visual kei, art pop, folklore intellectuel, poptron, comedy, humour, lolicore, hipster, hipsterish, not art pop, pooptron, pop, dark, gothic metal, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, totec radio, artpop, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, not epic, horny voice, amatue, post-barneycore, all boobs and no brains, miami bass, hino" role="button">
+<li data-cover="https://img.discogs.com/0kdH9367EpbagTWVtU2MCxmFeVI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832630-1424075819-3321.jpeg.jpg" data-tags="japanese, emo, anime, j-pop, visual kei, art pop, folklore intellectuel, poptron, comedy, humour, lolicore, hipster, hipsterish, not art pop, pooptron, pop, dark, gothic metal, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, totec radio, artpop, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, not epic, horny voice, amatue, post-barneycore, all boobs and no brains, miami bass, hino" role="button">
 GG Allin - Hated in the Nation (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/4747688c-7dfa-449e-8f3c-230d15efb809/22396052125-500.jpg" data-tags="chillout, pop, japanese, emo, female vocalists, dance, cute, epic, easy listening, gothic, new age, comedy, ethereal, humour, anime, dark ambient, j-rock, parody, j-pop, relax, halloween, bdsm, porn, what, based, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, joke, lucifer, the only true metal of steel, pretentious bullshit, doujin, nazi, racist, unoriginal, not music, wannabe, manowar, weeaboo, swag, chuck norris does not approve, fuck that shit, kawaii, 4chan, anison, folklore intellectuel, poser, lmao, worst song ever, posers, lgbt, doujin ongaku, true metal of steel, donald trump, child molester, rechtsrock" role="button">
@@ -87,7 +87,7 @@ Dark Sanctuary - Funeral Cry (1998-02)
 <li data-cover="http://coverartarchive.org/release/7d3b9817-b46c-46e7-a94a-3675134fbcf9/21937152600-500.jpg" data-tags="visual kei, j-rock" role="button">
 Malice Mizer - merveilles (1998-03-18)
 </li>
-<li data-cover="https://img.discogs.com/tVw_4A6dRoIUNb2RXNBJkEYG1kE=/fit-in/224x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328406-1096290290.gif.jpg" data-tags="japanese, anime, j-pop, visual kei, emo, hipster, hino, very intelligent lyrics, korean, k-pop, artpop, art pop, folklore intellectuel, satanic pop, poptron, not art pop, pooptron" role="button">
+<li data-cover="https://img.discogs.com/JE0Pzf3zOz0qb3CnC8yLkprFWXM=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2049201-1260820079.jpeg.jpg" data-tags="japanese, anime, j-pop, visual kei, emo, hipster, hino, very intelligent lyrics, korean, k-pop, artpop, art pop, folklore intellectuel, satanic pop, poptron, not art pop, pooptron" role="button">
 Diamanda Galás - Malediction And Prayer (1998-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/971063a5-159c-47f9-98d0-4b978f2f7d29/25201617268-500.jpg" data-tags="metal, visual kei, jrock, j-indie, j-metal, vk" role="button">
@@ -132,7 +132,7 @@ DIR EN GREY - six Ugly (2002-07-31)
 <li data-cover="http://coverartarchive.org/release/2dec60d0-00a4-4ffd-ae4b-69e86f0601dc/2788181181-500.jpg" data-tags="fantasy, ethereal, darkwave, world fusion, female vocalists" role="button">
 Irfan - IRFAN (2003)
 </li>
-<li data-cover="https://img.discogs.com/C4OWeeu2VPCD2uGfHBC_42-0UKo=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-619586-1235261403.jpeg.jpg" data-tags="japanese, visual kei, gothic metal" role="button">
+<li data-cover="http://coverartarchive.org/release/7bc4696d-ad5a-4205-a48f-4a6b05fc8545/20532112310-500.jpg" data-tags="japanese, visual kei, gothic metal" role="button">
 Moi dix Mois - Dix infernal (2003-03-19)
 </li>
 <li data-cover="https://img.discogs.com/ljx6tIkLYQ8OWBDSC4ufBslIcRw=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4726214-1456417005-3234.jpeg.jpg" data-tags="j-rock, jrock" role="button">
@@ -150,7 +150,7 @@ ASIAN KUNG-FU GENERATION - Kimi Tsunagi Five M (2003-11-19)
 <li data-cover="http://coverartarchive.org/release/f5d13ed6-7e6e-43a0-b772-0bd13566d6c8/17685613236-500.jpg" data-tags="asian kung-fu generation" role="button">
 ASIAN KUNG-FU GENERATION - 君繋ファイブエム (2003-11-19)
 </li>
-<li data-cover="https://img.discogs.com/u90wQR6gBl7YIo2I39HVljTLrX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6920374-1498485913-2816.jpeg.jpg" data-tags="darkwave, electronic, visual kei" role="button">
+<li data-cover="https://img.discogs.com/N75r7alEGpGq0tYoyIu-IjGlNpc=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-606785-1137741511.jpeg.jpg" data-tags="darkwave, electronic, visual kei" role="button">
 Schwarz Stein - Artificial Hallucination (2004-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7e4964d-e384-4af4-9d9c-9d904d17ac82/8008200343-500.jpg" data-tags="japanese, symphonic metal, loved albums" role="button">
@@ -222,9 +222,6 @@ the GazettE - STACKED RUBBISH (2007-07-04)
 <li data-cover="https://img.discogs.com/CR4qJVhguaACbpJemIxJbyKfQYU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1191456-1459661360-7835.jpeg.jpg" data-tags="surprisingly good german glamrock, rock" role="button">
 Cinema Bizarre - Final Attraction (2007-10-12)
 </li>
-<li data-cover="https://img.discogs.com/oe4oEGANAqpevhEEBCKC44k72bo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1964284-1255380595.jpeg.jpg" data-tags="japanese" role="button">
-Versailles - Lyrical Sympathy (2007-10-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae6aca30-f982-3104-8cf0-3eae112f4e0d/5051736126-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock, visual kei" role="button">
 Kagrra, - Core (2008-01-09)
 </li>
@@ -234,14 +231,17 @@ Kagrra, - Core (2008-01-09)
 <li data-cover="https://img.discogs.com/USydrwKp4ZXsS1MwQ4ER9_tEKEw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16278016-1606460378-9188.jpeg.jpg" data-tags="heavy metal, rock, japanese, alternative rock, indie rock, hard rock, experimental rock, energetic, alternative metal, asian, confident, aggressive, fiery, freewheeling, dramatic, uplifting, male vocalists, 00s, visual kei, motivation, swaggering, lively, visceral, sprawling, boisterous, guys night out, street-smart, hanging out, rambunctious, alternative indie-rock" role="button">
 ムック - 志恩 (2008-03-25)
 </li>
-<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
-Versailles - NOBLE (2008-07-16)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, power metal" role="button">
 Versailles -Philharmonic Quintet- - NOBLE (2008-07-16)
 </li>
+<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
+Versailles - NOBLE (2008-07-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
 DIR EN GREY - Uroboros (2008-11-11)
+</li>
+<li data-cover="https://img.discogs.com/VKIJzKsZanT1j_nhklYxVgKXV-0=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5704521-1400417992-7120.png.jpg" data-tags="visual kei" role="button">
+the GazettE - DISTRESS AND COMA (2009-03-25)
 </li>
 <li data-cover="https://img.discogs.com/--NUi4kncbWIAW3OfC7-SRwJHHk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132741-1317283989.jpeg.jpg" data-tags="rock, instrumental, instrumental rock, rock pop, j-rock, visual kei" role="button">
 GACKT - Flower (2009-07-01)
@@ -306,7 +306,7 @@ Dead Can Dance - Anastasis (2012-08-13)
 <li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
-<li data-cover="https://img.discogs.com/73ZwOiVWf4s3l_TtcL76cmNc24A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5121717-1386434067-8829.jpeg.jpg" data-tags="worst albums of 2013, pop, japanese, emo, female vocalists, power pop, dance, jpop, why, anime, j-pop, nerdcore, cheesy, bad grammar, sucks, visual kei, engrish, shame, assholes, trump, embarrassing, bland, not metal, not rock, pompous, hipster, vocaloid, kircore, achingly intelligent, bad english, paris hilton, pop metal, unoriginal, over the top, not music, over-the-top, shameless, fucking garbage, really bad, anison, facepalm, stupid lyrics, stinks, hates america, poser, not gothic, worst song ever, hipster metal, posers, mainstream shit, immature, merda, iconic, poser metal, bs, flatulence, unimaginable brilliance, post-kircore, not darkwave, turd, not experimental, laughable, shameful, thumbs down" role="button">
+<li data-cover="https://img.discogs.com/hiWZeqeM5k9xCyjWyXAZI4ubfrw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5116555-1406384345-2667.jpeg.jpg" data-tags="worst albums of 2013, pop, japanese, emo, female vocalists, power pop, dance, jpop, why, anime, j-pop, nerdcore, cheesy, bad grammar, sucks, visual kei, engrish, shame, assholes, trump, embarrassing, bland, not metal, not rock, pompous, hipster, vocaloid, kircore, achingly intelligent, bad english, paris hilton, pop metal, unoriginal, over the top, not music, over-the-top, shameless, fucking garbage, really bad, anison, facepalm, stupid lyrics, stinks, hates america, poser, not gothic, worst song ever, hipster metal, posers, mainstream shit, immature, merda, iconic, poser metal, bs, flatulence, unimaginable brilliance, post-kircore, not darkwave, turd, not experimental, laughable, shameful, thumbs down" role="button">
 Rhapsody of Fire - Dark Wings of Steel (2013-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/823b94ae-e7ad-4a15-ae93-62677d278752/26273097777-500.jpg" data-tags="hipster, pop, visual kei, japanese, emo, anime, j-pop, emocore, not music, anison, not gothic, not experimental, jpop, spam, decadence, spammer, worst song ever, church of satan, not darkwave, uninteresting, mag es von hinten, amatue, metal, female vocalists, comedy, humour, symphonic metal, power metal, meme, seiyuu, spammers, lolicore, bland, shite, achingly intelligent, spamcore, folklore intellectuel, mainstream shit, miserable failure" role="button">

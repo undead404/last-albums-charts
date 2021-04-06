@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:24:01.765Z
+date: 2021-04-06T22:12:01.473Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -117,6 +117,9 @@ The Pipettes - We Are The Pipettes (2006-07-17)
 <li data-cover="http://coverartarchive.org/release/695b4a0e-985d-49a8-a315-7c7831a60ff2/6877532648-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
+John Mayer - Continuum (2006-08-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
 Christina Aguilera - Back to Basics (2006-08-14)
 </li>
@@ -129,7 +132,7 @@ Gwen Stefani - The Sweet Escape (2006-12-01)
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">
 Colbie Caillat - Coco (2007-01-01)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/FJRuQ-u_ekJz7axuWvYJow0CTTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326266-1508526547-8034.jpeg.jpg" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
@@ -299,9 +302,6 @@ Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
-Katy Perry - PRISM (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
 Lady Gaga - ARTPOP (2013-11-05)

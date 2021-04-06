@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T20:27:01.450Z
+date: 2021-04-06T21:58:01.450Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -177,6 +177,9 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/d6677b3e-757b-38eb-9961-07799bc22215/4801803195-500.jpg" data-tags="punk rock, punk" role="button">
+NOFX - The War on Errorism (2003-05-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/41c645e2-dc4d-3a56-ac30-1d1e55946c62/4773391073-500.jpg" data-tags="punk, punk rock" role="button">
 Dropkick Murphys - Blackout (2003-06-10)
 </li>
@@ -191,9 +194,6 @@ Billy Talent - Billy Talent (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c55a62e-765a-3478-a150-9032f9d0170c/2556187115-500.jpg" data-tags="punk rock, punk" role="button">
 The Distillers - Coral Fang (2003-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/a216cc04-6983-4962-9e5b-c1c1674895f7/12671876579-500.jpg" data-tags="punk" role="button">
-Against Me! - As the Eternal Cowboy (2003-11-04)
 </li>
 <li data-cover="https://img.discogs.com/bqkKb5NmWkom_PixHUISylq1FC8=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5568581-1396792201-1770.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Splinter (2003-11-27)

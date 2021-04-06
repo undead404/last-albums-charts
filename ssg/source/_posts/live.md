@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:20:01.434Z
+date: 2021-04-06T22:33:01.455Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -60,9 +60,6 @@ Talking Heads - The Name of This Band Is Talking Heads (1982)
 <li data-cover="https://img.discogs.com/mEROh5D5nn0FvcZrEKopwnQYZS8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3644792-1365379808-5746.jpeg.jpg" data-tags="80s, new wave" role="button">
 Talking Heads - Stop Making Sense (1984)
 </li>
-<li data-cover="http://coverartarchive.org/release/12aea57d-ab05-3bc2-8e05-e57230e1e2c9/13275371966-500.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Live After Death (1985-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/388e1d01-bbd7-402a-a3a8-bf26cede791a/3741179321-500.jpg" data-tags="rock, live" role="button">
 Queen - Live Magic (1986-12-01)
 </li>
@@ -84,7 +81,7 @@ Dire Straits - On The Night (1993-05-11)
 <li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
 Neil Young - Unplugged (1993-06-11)
 </li>
-<li data-cover="https://img.discogs.com/lbgvX7bd4ShtlT_kfdk9Cb9rgrM=/fit-in/599x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515400-1225385807.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/RgbqEhPKCKecYV945duutEIKhrc=/fit-in/334x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2115067-1267962741.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
 The Cure - Show (1993-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2d0b8ef-272a-46b9-8b99-3e6831318ad9/6329050674-500.jpg" data-tags="live, alternative, female vocalists" role="button">
@@ -147,6 +144,9 @@ Alanis Morissette - MTV Unplugged (1998-11-23)
 <li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
 Sarah McLachlan - Mirrorball (1999-06-15)
 </li>
+<li data-cover="https://img.discogs.com/BY-XJu7phA_MewyemqyuGNdDpec=/fit-in/600x940/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9225995-1476990220-6207.jpeg.jpg" data-tags="industrial metal" role="button">
+Rammstein - Live aus Berlin (1999-08-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/e69bca05-e478-43b6-8072-760c2cf37d8b/1140237382-500.jpg" data-tags="live" role="button">
 Yann Tiersen - Black Session (1999-10)
 </li>
@@ -186,6 +186,9 @@ Daft Punk - Alive 1997 (2001-10-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/3d039a02-231c-3c6c-a9ac-f89e60bf0329/1154225975-500.jpg" data-tags="industrial" role="button">
+Nine Inch Nails - And All That Could Have Been (2002-01-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
 </li>
@@ -194,9 +197,6 @@ Björk - Homogenic Live (2003-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3e5f94-ba19-32a5-a7c0-8787356a46f0/5960364405-500.jpg" data-tags="live" role="button">
 Coldplay - Live 2003 (2003-11-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, live" role="button">
-Avril Lavigne - My World (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0edb5cf7-aaff-4376-8a6b-373a0f08ce39/15089945297-500.jpg" data-tags="nu metal" role="button">
 Linkin Park - Live in Texas (2003-11-18)
@@ -300,7 +300,7 @@ Leonard Cohen - Live In London (2009-03-31)
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">
 Coldplay - LeftRightLeftRightLeft (2009-05-15)
 </li>
-<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/F7kAv-USBoD_V75FxbB-pJnbkJM=/fit-in/450x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369487-1280026294.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/addacb4d-bb2e-4f66-9246-fd15bfdc3576/15497181552-500.jpg" data-tags="live" role="button">
