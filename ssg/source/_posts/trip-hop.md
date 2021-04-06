@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:20:01.384Z
+date: 2021-04-06T10:26:01.390Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -77,6 +77,9 @@ Kid Loco - A Grand Love Story (1997-11-25)
 </li>
 <li data-cover="https://img.discogs.com/XMY4ZtiuNErL1mPBnUuOi4CiN6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13711-1180502340.jpeg.jpg" data-tags="trip-hop" role="button">
 Esthero - Breath From Another (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
+Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Big Calm (1998-03-16)
@@ -182,9 +185,6 @@ Martina Topley-Bird - Quixotic (2003-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0cd2528-ed2e-3f74-bcda-8c7e97e9f221/21326685665-500.jpg" data-tags="chillout, trip-hop, morcheeba" role="button">
-Morcheeba - Parts of the Process (2003-06-30)
 </li>
 <li data-cover="https://img.discogs.com/Oc4yGalPnKUxZj3RCW2RpDxQCwA=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159354-1493361266-8256.jpeg.jpg" data-tags="trip-hop" role="button">
 UNKLE - Never, Never, Land (2003-09-22)

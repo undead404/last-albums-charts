@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T03:35:01.341Z
+date: 2021-04-06T10:34:01.914Z
 title: "underground hip-hop: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -60,7 +60,7 @@ Blackalicious - A2G EP (1999-10-26)
 <li data-cover="http://coverartarchive.org/release/cc644430-21bf-474a-9fff-8372c62ecc93/4208319151-500.jpg" data-tags="hip hop, underground hip-hop, definitive jux" role="button">
 Aesop Rock - Appleseed (1999-11-01)
 </li>
-<li data-cover="https://img.discogs.com/ifUhk2XhKqUg5JtpeAvy9iCBDaI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2614760-1293356882.jpeg.jpg" data-tags="hip-hop, rap, underground hip-hop, east coast rap" role="button">
+<li data-cover="https://img.discogs.com/CFxnuJL6e6tYnUautoJ9-IiHPN8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1938276-1263664672.jpeg.jpg" data-tags="hip-hop, rap, underground hip-hop, east coast rap" role="button">
 Dilated Peoples - The Platform (2000-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
@@ -98,6 +98,9 @@ Saul Williams - Amethyst Rock Star (2001-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
 Dilated Peoples - Expansion Team (2001-10-23)
+</li>
+<li data-cover="https://img.discogs.com/VxVupMsCbMZbAcAbyL5sPUDZMcw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-107949-1180462115.jpeg.jpg" data-tags="hip-hop, underground hip-hop" role="button">
+Sage Francis - Personal Journals (2002-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/beca37c6-9b32-4ac4-ac2a-e480cd71d46c/10906963096-500.jpg" data-tags="1live fiehe, underground hip-hop, industrial hip-hop" role="button">
 Dälek - From Filthy Tongue of Gods and Griots (2002-08-05)
@@ -137,9 +140,6 @@ Madvillain - Madvillainy (2004-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8849ef4e-2c34-3323-90e0-fbece131181e/4377182327-500.jpg" data-tags="hip-hop, instrumental hip-hop" role="button">
 RJD2 - Since We Last Spoke (2004-05-17)
-</li>
-<li data-cover="https://img.discogs.com/yQfpMS6r_tvt7ANKPGGxEejdxmo=/fit-in/370x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538934-1288646845.jpeg.jpg" data-tags="rap, k-os, hip-hop, hip hop, canadian, hiphop" role="button">
-K-OS - Joyful Rebellion (2004-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/34b6fdf8-d1be-416f-a676-f1656291dd8c/5271373354-500.jpg" data-tags="hip hop, underground hip-hop, east coast hip hop, jedi mind tricks" role="button">
 Jedi Mind Tricks - Legacy of Blood (2004-08-24)
@@ -198,6 +198,9 @@ Army of the Pharaohs - The Torture Papers (2006-03-21)
 <li data-cover="https://img.discogs.com/Bw-kP5b1LsRbDEGbGZNQFDs0wgw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-847584-1413996308-9959.jpeg.jpg" data-tags="hip-hop, chillout, electronica, female vocalists, underground hip-hop, monochrome album covers" role="button">
 Bonobo - Nightlite (2006-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/183ccd80-b998-429f-95ce-6e89010b0397/21277220123-500.jpg" data-tags="hip-hop" role="button">
+Jurassic 5 - Feedback (2006-07-24)
+</li>
 <li data-cover="https://img.discogs.com/eosoIGUy1Bc1EO9ptCkQzHIpM90=/fit-in/450x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1960900-1255181091.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
 J Dilla - The Shining (2006-08-22)
 </li>
@@ -209,9 +212,6 @@ Aesop Rock - None Shall Pass (2007-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/30f6c065-6413-4df5-a6a9-93f7230683bd/25210931510-500.jpg" data-tags="hip-hop" role="button">
-CunninLynguists - Dirty Acres (2007-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3a25663-a59c-456f-8ca8-8dcc22d34692/6980376718-500.jpg" data-tags="hip-hop, pop" role="button">
 Kid Cudi - Day 'N' Nite (2008-02-08)
@@ -237,9 +237,6 @@ Tech N9ne - Killer (2008-07-01)
 <li data-cover="https://img.discogs.com/TNY7hpyvi3I9ls-EX7EXpLdX9MA=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1481907-1369062249-5190.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Ill Bill - The Hour Of Reprisal (2008-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/9bfb0888-079c-4928-96ff-0a8fbf4e0092/2201133972-500.jpg" data-tags="hip-hop" role="button">
-Astronautalis - Pomegranate (2008-09-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/d64cf4bc-b652-4299-8075-f8646e7477bb/18878574058-500.jpg" data-tags="underground hiphop" role="button">
 Jedi Mind Tricks - A History of Violence (2008-11-11)
 </li>
@@ -260,6 +257,9 @@ Eyedea & Abilities - By the Throat (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
 Wale - Attention Deficit (2009-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/672775d4-cc8b-4af8-8f5f-134e5676d608/2367827712-500.jpg" data-tags="hip-hop" role="button">
+Macklemore - The Unplanned Mixtape (2009-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e4ac0c8-0188-4fb6-a2ed-211cf6e3f95d/13970824493-500.jpg" data-tags="hip-hop, rap" role="button">
 DMX - The Best Of DMX (2010-01-26)

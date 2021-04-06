@@ -1,17 +1,17 @@
 ---
-date: 2021-04-06T08:05:03.052Z
+date: 2021-04-06T10:06:01.921Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/eb5f77b4-1201-4df8-9d5c-76bc417ebd66/14047816005-500.jpg" data-tags="jazz" role="button">John Coltrane - A Love Supreme (1965-01)</li>
-<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">Nicola Conte - Bossa Per Due (2001-06-12)</li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">Norah Jones - Come Away with Me (2002-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/187e5a40-e083-43d6-bdc3-d472a35622e5/5112992648-500.jpg" data-tags="jazz, soul" role="button">Amy Winehouse - Frank (2003-10-20)</li>
 <li data-cover="http://coverartarchive.org/release/d443845e-fd6a-43dd-a533-7ac239809cb6/19918684452-500.jpg" data-tags="jazz" role="button">Norah Jones - Feels Like Home (2004-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">Katie Melua - Piece by Piece (2005-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/0b0ca6cc-f793-3dd8-9329-611a9fb08ae2/6136527070-500.jpg" data-tags="soul" role="button">Amy Winehouse - Back to Black (2006-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Melody Gardot - My One And Only Thrill (2008-12-16)</li>
 <li data-cover="http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg" data-tags="jazz, funk" role="button">Herbie Hancock - Head Hunters (2010-06-28)</li>
 </ol>
@@ -45,9 +45,6 @@ Oliver Nelson - The Blues and the Abstract Truth (1961)
 <li data-cover="http://coverartarchive.org/release/e9a8f2de-5145-3d5b-9787-9344f15b72ad/10118746823-500.jpg" data-tags="jazz" role="button">
 Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/b080958a-f13b-4be3-b02d-7537f9a14735/14838055580-500.jpg" data-tags="jazz" role="button">
-Grant Green - Idle Moments (1964)
-</li>
 <li data-cover="http://coverartarchive.org/release/9a5852aa-8292-4d8b-bbeb-f1ab05b50a82/4228524456-500.jpg" data-tags="jazz" role="button">
 Wayne Shorter - Speak No Evil (1965)
 </li>
@@ -62,6 +59,9 @@ Nina Simone - Ne me quitte pas (1967)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Chick Corea - Now He Sings, Now He Sobs (1968)
+</li>
+<li data-cover="http://coverartarchive.org/release/df151c91-79cf-49a6-9bab-374dec6a1812/8654400318-500.jpg" data-tags="jazz" role="button">
+Pharoah Sanders - Karma (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/47873c43-4337-4d3b-9bf2-959f85a7cec1/23109799066-500.jpg" data-tags="jazz" role="button">
 Miles Davis - In A Silent Way (1969-07-30)
@@ -78,7 +78,7 @@ Chick Corea - Return To Forever (1972)
 <li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
 Tom Waits - Closing Time (1973-05)
 </li>
-<li data-cover="https://img.discogs.com/QFusiLPLj0EmauMa6xu-VXP0h0o=/fit-in/600x959/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1530642-1518912089-8756.jpeg.jpg" data-tags="jazz, fusion" role="button">
+<li data-cover="https://img.discogs.com/Lqi0FlOkjCdBSpOBQlXqURgU1oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4939913-1380041719-7816.jpeg.jpg" data-tags="jazz, fusion" role="button">
 Weather Report - Black Market (1976-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
@@ -105,9 +105,6 @@ Morphine - Cure for Pain (1994-01-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 John Coltrane - My Favorite Things (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
-Fiona Apple - Tidal (1996-07-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, bass, fusion" role="button">
 Jaco Pastorius - Jaco Pastorius (1997)
 </li>
@@ -116,9 +113,6 @@ Buena Vista Social Club - Buena Vista Social Club (1997-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">
 Pink Martini - Sympathique (1997-11-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-John Scofield - A Go Go (1998-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/48ecf3c7-ece1-3616-abf6-b9600870a08e/3270895967-500.jpg" data-tags="female vocalists, jazz" role="button">
 Eva Cassidy - Songbird (1998-03-31)
@@ -129,8 +123,8 @@ The Cinematic Orchestra - Motion (1999-09-01)
 <li data-cover="https://img.discogs.com/Al6I_Wo8AkPXWtrbgyyQl3lEz3E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4063692-1354023335-6957.jpeg.jpg" data-tags="jazz, nat king cole sings the ultimate love songs" role="button">
 Nat King Cole - The Ultimate Collection (1999-11-08)
 </li>
-<li data-cover="https://img.discogs.com/eOIoN-rL9mXI3K_SgjWIWJU8-eA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4091170-1371850697-1461.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
-Morphine - The Night (2000-02-01)
+<li data-cover="http://coverartarchive.org/release/08263e20-f4dc-464a-99d4-ea0a3380694a/8619198393-500.jpg" data-tags="jazz" role="button">
+Joni Mitchell - Both Sides Now (2000-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e41015a1-90c0-47b3-9ca5-2b1055f1e3d6/6762804815-500.jpg" data-tags="jazz, ambient, noir jazz, doom jazz" role="button">
 Bohren & der Club of Gore - Sunset Mission (2000-02-25)
@@ -144,8 +138,8 @@ Jaga Jazzist - A Livingroom Hush (2001-05-21)
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
-Nicola Conte - Bossa Per Due (2001-06-12)
+<li data-cover="http://coverartarchive.org/release/df05a613-0cde-4f9c-bf69-59bd3b76be3e/5817135757-500.jpg" data-tags="jazz, piano, anti-folk" role="button">
+Regina Spektor - 11:11 (2001-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ed0855b-ae5d-4eff-a10c-00b4e18d0b4b/22972644479-500.jpg" data-tags="swing" role="button">
 Robbie Williams - Swing When You're Winning (2001-11-19)
@@ -186,16 +180,13 @@ The Cinematic Orchestra - Man With a Movie Camera (2003-05-31)
 <li data-cover="http://coverartarchive.org/release/941a3f75-661f-4e89-8381-cbf851bea6b6/4765069290-500.jpg" data-tags="hip-hop, chillout, japanese" role="button">
 Nujabes - Metaphorical Music (2003-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
-John Mayer - Heavier Things (2003-09-09)
-</li>
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/187e5a40-e083-43d6-bdc3-d472a35622e5/5112992648-500.jpg" data-tags="jazz, soul" role="button">
 Amy Winehouse - Frank (2003-10-20)
 </li>
-<li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
+<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="https://img.discogs.com/WI9xr-R4aOltg2LSAy8x77FKfQg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4662538-1371466720-1362.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
@@ -212,6 +203,9 @@ Diana Krall - The Girl In The Other Room (2004-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0a25ed6-4e4f-4e22-8036-6c9d756a3848/2844767728-500.jpg" data-tags="jazz, lounge" role="button">
 Pink Martini - Hang On Little Tomato (2004-10-19)
+</li>
+<li data-cover="https://img.discogs.com/Df7dnfSlhEvSP1C1Tn7CaTRj33Y=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12940332-1544971330-8500.jpeg.jpg" data-tags="jazz, fusion" role="button">
+Pat Metheny Group - The Way Up (2005-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - It's Time (2005-02-08)
@@ -258,11 +252,17 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/8ccfba1d-72f5-4614-90fd-3c5056106622/15809143912-500.jpg" data-tags="jazz" role="button">
+Pink Martini - Hey Eugene! (2007-05-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7acfb37-4c1e-4133-954e-b3b55fc2c058/3766598907-500.jpg" data-tags="katie melua, jazz, singer-songwriter" role="button">
 Katie Melua - Pictures (2007-09-19)
 </li>
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
 The Asteroids Galaxy Tour - Fruit (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d7d6b80-d802-41f0-bc81-2127a5a1603a/3089784007-500.jpg" data-tags="jazz" role="button">
+Louis Armstrong - Greatest Hits (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)

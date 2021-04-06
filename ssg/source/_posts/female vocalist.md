@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T23:29:01.532Z
+date: 2021-04-06T09:56:01.517Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">Destiny's Child - Survivor (2001-04-25)</li>
+<li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">Rachael Yamagata - Happenstance (2004-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
@@ -27,6 +27,9 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
+Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
+</li>
 <li data-cover="http://coverartarchive.org/release/decbc9c9-02bb-4d2c-8998-90775a2266e8/13474985144-500.jpg" data-tags="hard rock, female vocalist, 80s, glam metal, heavy metal, hair metal" role="button">
 Lita Ford - Lita (1988-02-02)
 </li>
@@ -39,7 +42,7 @@ Björk - Debut (1993-07-12)
 <li data-cover="http://coverartarchive.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee/2125238082-500.jpg" data-tags="rock" role="button">
 Joan Osborne - Relish (1995-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
+<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
@@ -53,9 +56,6 @@ Sarah McLachlan - Surfacing (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Homogenic (1997-09-22)
-</li>
-<li data-cover="https://img.discogs.com/Kdoz6GrGBVRAtTOTYE-637_sBbc=/fit-in/599x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719266-1447377438-2187.jpeg.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e242203e-fa5f-401e-ade9-ff12907ccd93/4017146272-500.jpg" data-tags="pop, celine dion" role="button">
 Céline Dion - Let's Talk About Love (1997-11-14)
@@ -72,7 +72,7 @@ Whitney Houston - My Love Is Your Love (1999-06-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Destiny's Child - Survivor (2001-04-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/2Q7yBavtKprmJuGM2-2N9VSLyow=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4010103-1372561683-8385.jpeg.jpg" data-tags="rnb, female vocalists" role="button">
 Mary J. Blige - No More Drama (2001-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">
@@ -90,6 +90,9 @@ Céline Dion - A New Day Has Come (2002-03-25)
 <li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
 Vanessa Carlton - Be Not Nobody (2002-04-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
+Avril Lavigne - Let Go (2002-06-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
 </li>
@@ -101,9 +104,6 @@ Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec0aab6-e302-449e-8bd4-f1947b15297e/5686176057-500.jpg" data-tags="pop" role="button">
 Jessica Simpson - In This Skin (2003-08-19)
-</li>
-<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
-Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6a1a1d-613f-43cd-98a4-005f07b6b3bc/23228455307-500.jpg" data-tags="hip-hop" role="button">
 Christina Milian - Dip It Low (2004-05-03)
@@ -141,7 +141,7 @@ Maria Taylor - 11:11 (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
 </li>
-<li data-cover="https://img.discogs.com/nKRFVJxoxDulyvpa5mDrhXSW5pE=/fit-in/550x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199963-1200235428.jpeg.jpg" data-tags="soul" role="button">
+<li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">
@@ -165,6 +165,9 @@ Moloko - Catalogue (2006-06-23)
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
+Christina Aguilera - Back to Basics (2006-08-14)
+</li>
 <li data-cover="https://img.discogs.com/F7NdB3AiaY8hk3T_jOsqSELwcIc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-800221-1160064522.jpeg.jpg" data-tags="alternative, electro, female vocalist" role="button">
 Dead Disco - Automatic (2006-09-11)
 </li>
@@ -174,14 +177,11 @@ Evanescence - The Open Door (2006-09-25)
 <li data-cover="https://img.discogs.com/yN1TDls6ZCOnqUGsiJ48a5Yfk2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393131-1523761238-6659.jpeg.jpg" data-tags="opera, female vocalist, classical symphony, sarah brightman" role="button">
 Sarah Brightman - Symphony (2007)
 </li>
-<li data-cover="https://img.discogs.com/9GwAEUu3_IZbi_fxbL665Lac9s8=/fit-in/590x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1405900-1336081977.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
-Tracey Thorn - Out Of The Woods (2007-03-02)
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+Ashley Tisdale - Headstrong (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a2161b8-0ce9-4452-812e-94d0b40d2c01/15293691504-500.jpg" data-tags="trip-hop" role="button">
-Elsiane - Hybrid (2007-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)

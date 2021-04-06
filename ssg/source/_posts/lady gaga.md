@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T02:15:01.469Z
+date: 2021-04-06T10:45:01.854Z
 title: "lady gaga: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame Monster (2008-08-19)](http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg "Lady Gaga - The Fame Monster (2008-08-19)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/wSKz63gUzQiiFApVEtnulz9he-0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1676393-1236202560.jpeg.jpg" data-tags="stevie wonder, pop" role="button">
+<li data-cover="https://img.discogs.com/Iui6jd8ETs5zz_516gpRpXGz4HY=/fit-in/400x410/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426987-1112125399.jpg.jpg" data-tags="stevie wonder, pop" role="button">
 Stevie Wonder - Stevie Wonder (1968)
 </li>
 <li data-cover="https://img.discogs.com/T8a5B1VDIRtjvkIa2XKTxNFtH0o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-909727-1447496518-6506.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -105,10 +105,7 @@ Kings of Convenience - Versus (2001-10-22)
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e611d55-2152-4653-b59a-25c5958defc3/10619386465-500.jpg" data-tags="ethereal, medieval, darkwave, neoclassical darkwave, folk, experimental, avant-garde, celtic, classical, gothic, neofolk, indie, poetry, freak folk, indie folk, fantasy, heavenly voices, art pop" role="button">
-志方あきこ - 緑の森で眠ル鳥 (2001-11-28)
-</li>
-<li data-cover="https://img.discogs.com/FF5DIMvzWA3_lYWAskJDZOq8kcE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12668200-1539691429-6474.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, krautrock, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, reggaeton, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, folklore, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, fucking awesome, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech" role="button">
@@ -135,7 +132,7 @@ Cornelius - CM2 (2003-06-25)
 <li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
-<li data-cover="https://img.discogs.com/FYUxf0CSJS0UVK8MICvcP__NJfQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4839639-1513546281-9338.png.jpg" data-tags="italian" role="button">
+<li data-cover="https://img.discogs.com/XHm0db7jOiE2lp1McPD7IzvtSIw=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14707845-1580053628-6355.jpeg.jpg" data-tags="italian" role="button">
 Elisa - Lotus (2003-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9a781d3-a65c-48ce-a0e2-9c778c1dbfa4/26131955106-500.jpg" data-tags="hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk" role="button">
@@ -156,7 +153,7 @@ Chelsea Wolfe - Mistake in Parting (2006-09-01)
 <li data-cover="http://coverartarchive.org/release/8c6f861e-c347-4c5c-aed1-eae205297c67/8906628497-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
 カヒミ・カリィ - Nunki (2006-10-25)
 </li>
-<li data-cover="https://img.discogs.com/pPcjS9_A40-oXUGihJ-P0FIEJ5g=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-957854-1177445829.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
+<li data-cover="https://img.discogs.com/fYvnH9PdmGtTlbGyly9NW-Ulv_c=/fit-in/450x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949737-1189947436.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
 Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf53d07b-3e5a-4aa6-b039-6b3af603e685/24471994616-500.jpg" data-tags="rock" role="button">
@@ -228,8 +225,14 @@ Charmaine - Love Reality (2010-03-16)
 <li data-cover="https://img.discogs.com/wcXeA5aY7peE_nXUi5bK4M3RIco=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9371429-1588493595-7482.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Alejandro (2010-05-24)
 </li>
+<li data-cover="https://img.discogs.com/llncpdi-j1xrq0ktU32ejza4kJA=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2448367-1284613449.jpeg.jpg" data-tags="queer" role="button">
+Semi Precious Weapons - You Love You (2010-06-21)
+</li>
 <li data-cover="https://img.discogs.com/5m9X-BuG9NQBvtyIuT_gl4zotkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15766318-1597407950-4490.jpeg.jpg" data-tags="post-hardcore" role="button">
 MASS OF THE FERMENTING DREGS - ゼロコンマ、色とりどりの世界 (2010-07-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/75e4e9c9-484d-4045-92c5-d0773c78dc87/21426280625-500.jpg" data-tags="strings, lady gaga, misc, string quartet, vsq" role="button">
+Vitamin String Quartet - VSQ Performs Lady Gaga (2010-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/961d3932-9ffe-4124-bdad-d2957f89bebe/4393849536-500.jpg" data-tags="electropop, dance, lady gaga" role="button">
 Lady Gaga - The Singles (2010-12-08)
@@ -261,7 +264,7 @@ Zola Jesus - Conatus (2011-09-26)
 <li data-cover="https://img.discogs.com/HxEAwUTH_IUqAHj7f0OIwRDU49c=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270839-1541979152-1545.jpeg.jpg" data-tags="progressive rock" role="button">
 Edison's Children - In the Last Waking Moments... (2011-11-18)
 </li>
-<li data-cover="https://img.discogs.com/k2qXF84bKfBAl3IPB6P7_9f_hVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3252562-1475326947-1012.jpeg.jpg" data-tags="pop, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/Hp2-oZC8Rjs0YhwkldZpVh8MoaY=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5787762-1402669449-5415.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 The Saturdays - On Your Radar (2011-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">
@@ -272,9 +275,6 @@ Lady Gaga - A Very Gaga Holiday (2011-11-24)
 </li>
 <li data-cover="https://img.discogs.com/72uLIyBDep0NFuH6AYLougvN-pQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17623738-1614594795-2479.jpeg.jpg" data-tags="dance, female vocalists" role="button">
 Lady Gaga - Marry The Night (2011-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/43405c16-9b59-4ec9-966d-9422c6853faf/2970280037-500.jpg" data-tags="latin, brazilian, pop, dance, mpb, axe" role="button">
-Ivete Sangalo - Real Fantasia (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d4598ed-49ef-4a6f-a6ae-d7b370512a39/11362627561-500.jpg" data-tags="electropop, pop, female vocalists, christian pop" role="button">
 Britt Nicole - Gold (2012-03-26)

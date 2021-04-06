@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:21:01.404Z
+date: 2021-04-06T10:19:01.723Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -63,9 +63,6 @@ Groove Armada - Vertigo (1999-05-24)
 <li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">
 Dido - No Angel (1999-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd/9767397785-500.jpg" data-tags="chillout, electronic, downtempo, ambient" role="button">
-Peace Orchestra - Peace Orchestra (1999-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/182495fd-ffe5-4a2d-bf68-43661285a0dc/3879149413-500.jpg" data-tags="chillout" role="button">
 Aim - Cold Water Music (1999-10-11)
 </li>
@@ -84,14 +81,14 @@ St. Germain - Tourist (2000-05-05)
 <li data-cover="http://coverartarchive.org/release/040fccf3-f78e-40ff-8584-dcb022f539e7/3516392955-500.jpg" data-tags="downtempo, trip-hop" role="button">
 Bonobo - Animal Magic (2000-07-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chillout, trip-hop, downtempo" role="button">
-Thievery Corporation - The Mirror Conspiracy (2000-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d2317a8-c9f5-413e-a154-5690a4a0d4fd/25350299399-500.jpg" data-tags="trip-hop" role="button">
 Hooverphonic - The Magnificent Tree (2000-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
 Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c382e7a-1efa-46fb-9fcf-fca60599fe71/6110111109-500.jpg" data-tags="chillout" role="button">
+Citizen Cope - Citizen Cope (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
@@ -99,8 +96,8 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2a7d53a-8e31-49c8-9319-9fbbe34a6f09/3245971888-500.jpg" data-tags="chillout, lounge, downtempo" role="button">
-Boozoo Bajou - Satta (2001-06)
+<li data-cover="http://coverartarchive.org/release/5cbf9bb5-6b4d-4b4e-843e-0db79f8f3a58/4396377486-500.jpg" data-tags="downtempo" role="button">
+Quantic - The 5th Exotic (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Goodbye Country (Hello Nightclub) (2001-09-10)
@@ -132,14 +129,14 @@ Morcheeba - Charango (2002-07-01)
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">
-Thievery Corporation - The Richest Man in Babylon (2002-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
 Lemon Jelly - Lost Horizons (2002-10-07)
 </li>
 <li data-cover="https://img.discogs.com/LYfy5Lw_DC6m1bFKPY2y8Sexm1I=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1501838-1609502393-1221.jpeg.jpg" data-tags="electronic, chillout, dance" role="button">
 Groove Armada - Lovebox (2002-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
+Massive Attack - 100th Window (2002-12)
 </li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
@@ -192,6 +189,9 @@ Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
+Husky Rescue - Country Falls (2004-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
 </li>
@@ -200,9 +200,6 @@ Brazilian Girls - Brazilian Girls (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
 Télépopmusik - Angel Milk (2005-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
-Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
@@ -215,9 +212,6 @@ Imogen Heap - Speak for Yourself (2005-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
-Nujabes - Modal Soul (2005-11-11)
 </li>
 <li data-cover="https://img.discogs.com/Ow3Afko6fXG3TxPVpaAT7myTh_k=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751304-1278286208.jpeg.jpg" data-tags="chillout, trip-hop, female vocalists, downtempo" role="button">
 Bitter:Sweet - The Mating Game (2006)
@@ -282,6 +276,9 @@ Moby - Wait for Me (2009-06-26)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
+<li data-cover="https://img.discogs.com/5fhYAthYMO7Zk-qhzSStks4MKHk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1890282-1250423172.jpeg.jpg" data-tags="electronic, electronica, trip-hop" role="button">
+Little Dragon - Machine Dreams (2009-08-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
@@ -296,6 +293,9 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
+James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)

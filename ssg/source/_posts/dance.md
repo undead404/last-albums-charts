@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:59:01.438Z
+date: 2021-04-06T10:23:01.587Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -125,6 +125,9 @@ Ashley Tisdale - Headstrong (2007-02-06)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
+</li>
+<li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
+Digitalism - Idealism (2007-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg" data-tags="pop, rihanna, rnb" role="button">
 Rihanna - Good Girl Gone Bad (2007-05-30)
@@ -317,8 +320,5 @@ Sia - 1000 Forms of Fear (2014-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
 Calvin Harris - Motion (2014-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/79fd65e4-d145-46be-b8fa-b098c2ba5f12/10014987904-500.jpg" data-tags="pop, ariana grande" role="button">
-Ariana Grande - Santa Tell Me (2014-11-24)
 </li>
 </ol>

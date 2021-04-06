@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:37:02.274Z
+date: 2021-04-06T10:24:01.765Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -54,6 +54,12 @@ Destiny's Child - Survivor (2001-04-25)
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
+Avril Lavigne - Let Go (2002-06-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
+Maroon 5 - Songs About Jane (2002-06-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/6a0c6963-683e-4275-bebb-0279092ee772/2081207603-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Stripped (2002-10-28)
 </li>
@@ -68,9 +74,6 @@ Dido - Life for Rent (2003-09-26)
 </li>
 <li data-cover="https://img.discogs.com/ghqUuHw_4P9nR11YZx3NOnGPx50=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12672709-1539779810-1045.jpeg.jpg" data-tags="pop" role="button">
 Britney Spears - In the Zone (2003-11-13)
-</li>
-<li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">
-Scissor Sisters - Scissor Sisters (2004-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
 Avril Lavigne - Under My Skin (2004-03)
@@ -141,6 +144,9 @@ Feist - The Reminder (2007-04-23)
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/b3de7a77-8de8-44f2-9830-a757d87ccf46/6488476227-500.jpg" data-tags="pop, maroon 5, rock" role="button">
+Maroon 5 - It Won't Be Soon Before Long (2007-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0d582b5-5f0b-4dda-b1c2-3c34b7ecab8c/14541378138-500.jpg" data-tags="pop, rihanna, rnb" role="button">
 Rihanna - Good Girl Gone Bad (2007-05-30)
 </li>
@@ -158,9 +164,6 @@ Britney Spears - Blackout (2007-10-25)
 </li>
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
-Amy Macdonald - This Is the Life (2007-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d4e6692-5ecd-457b-bcd5-85baf51c5e10/5179841564-500.jpg" data-tags="soul" role="button">
 Adele - 19 (2008-01-27)
@@ -230,9 +233,6 @@ Rihanna - Rated R (2009-11-16)
 </li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
-OneRepublic - Waking Up (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/86da059c-2af3-43f4-897e-d3f7fa3f5a75/2333307730-500.jpg" data-tags="pop" role="button">
 Adam Lambert - For Your Entertainment (2009-11-20)

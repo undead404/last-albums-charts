@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:18:01.341Z
+date: 2021-04-06T10:28:01.413Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -27,17 +27,14 @@ Kruder & Dorfmeister - G-Stoned (1993-09-02)
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
-Sublime - Sublime (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
-Fiona Apple - Tidal (1996-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/fb8647ff-066b-4e9e-b9b0-791f39bcfa13/4530526778-500.jpg" data-tags="dub, chill" role="button">
 Tosca - Fuck Dub (1997-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
 Alpha - Come From Heaven (1997-09-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
+Thievery Corporation - Lebanese Blonde (1998-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
@@ -120,7 +117,7 @@ Teitur - Poetry & Aeroplanes (2003-06-22)
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
-<li data-cover="https://img.discogs.com/gYxoN-72kWeAh8P9r1tU-E_cU0Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6565879-1422128249-5189.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
+<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">
@@ -132,7 +129,10 @@ The Expendables - Gettin' Filthy (2004)
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
-<li data-cover="https://img.discogs.com/PbW7pPCB95KZV-mSTmzkOCqkbQI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725864-1372499219-6764.jpeg.jpg" data-tags="female vocalists, indie" role="button">
+<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
+Jem - Finally Woken (2004-03-23)
+</li>
+<li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/qujVQnyyIoDNuPzQbRJ56YU_7ZM=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-675181-1563564124-2088.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
@@ -216,7 +216,7 @@ Newton Faulkner - Hand Built By Robots (2007-07-30)
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="flying upside down" role="button">
+<li data-cover="https://img.discogs.com/KR2icblwxBD7a9YMMOR8JUAkRNk=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3742890-1342555718-8961.jpeg.jpg" data-tags="flying upside down" role="button">
 Griffin House - Flying Upside Down (2007-10-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:25:01.661Z
+date: 2021-04-06T10:11:01.724Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -66,9 +66,6 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
-Placebo - Without You I'm Nothing (1998-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
 </li>
@@ -86,9 +83,6 @@ Foo Fighters - There Is Nothing Left to Lose (1999-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
@@ -120,8 +114,14 @@ P.O.D. - Satellite (2001-09-11)
 <li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
 Nickelback - Silver Side Up (2001-09-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
+Avril Lavigne - Let Go (2002-06-04)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Red Hot Chili Peppers - By the Way (2002-06-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
+Maroon 5 - Songs About Jane (2002-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
 Coldplay - A Rush of Blood to the Head (2002-08-12)
@@ -152,9 +152,6 @@ Linkin Park - Meteora (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative, 2003" role="button">
-Radiohead - Hail to the Thief (2003-05-26)
 </li>
 <li data-cover="https://img.discogs.com/jCDFsFc5A4EexPTBIhz_IhkuNSU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210100-1511845527-5848.jpeg.jpg" data-tags="rock, pop punk, yellowcard" role="button">
 Yellowcard - Ocean Avenue (2003-07-22)
@@ -212,6 +209,9 @@ Audioslave - Out of Exile (2005-05-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
+The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)

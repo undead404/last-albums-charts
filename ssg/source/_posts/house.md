@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:31:01.394Z
+date: 2021-04-06T10:43:01.659Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -129,9 +129,6 @@ Bob Sinclar - Western Dream (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/fcc15e13-55f9-4e65-a19d-d1649e4a8985/3596711954-500.jpg" data-tags="electronic, electro" role="button">
 MSTRKRFT - The Looks (2006-07-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/ac11d670-4254-4769-81e7-8891ad4fde4f/25025769283-500.jpg" data-tags="electro, dance, house" role="button">
-Fedde Le Grand - Put Your Hands Up For Detroit (2006-10-23)
-</li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
@@ -218,6 +215,9 @@ Feed Me - Feed Me's Big Adventure (2010-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cb3d98c-83d9-406e-99be-1a010f92929b/6426974407-500.jpg" data-tags="dance, house, saxophone, i love it, saxobeat, alexandra stan, el vrother, danial" role="button">
 Alexandra Stan - Mr. Saxobeat (2011-02-14)
+</li>
+<li data-cover="https://img.discogs.com/EpRvGueOxq-8gObb3dhLJ8bWabs=/fit-in/521x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072615-1314599825.jpeg.jpg" data-tags="pop, dance" role="button">
+Havana Brown - We Run the Night (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c2d8a-2fdb-498c-9470-f3f0a4d38d43/2411561207-500.jpg" data-tags="electronic, house, electro house, 10s, edm, complextro, sun and moon and stars and outer space" role="button">
 Feed Me - To The Stars (2011-05-27)

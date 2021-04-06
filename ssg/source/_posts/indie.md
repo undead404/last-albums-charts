@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:17:01.431Z
+date: 2021-04-06T10:13:01.528Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -10,7 +10,7 @@ title: "indie: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">Death Cab for Cutie - Plans (2005-08-29)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">Kasabian - Empire (2006-08-25)</li>
-<li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
+<li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
 <li data-cover="http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg" data-tags="indie, electronic" role="button">MGMT - Oracular Spectacular (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
@@ -117,7 +117,7 @@ Interpol - Antics (2004-09-27)
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">
@@ -126,11 +126,11 @@ Bloc Party - Silent Alarm (2005-02-02)
 <li data-cover="https://img.discogs.com/fx-3qtaLGu4XcxypfYKwWSLP_i0=/fit-in/549x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501014-1389844857-4827.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
-The Decemberists - Picaresque (2005-03-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
+The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, indie" role="button">
 OK Go - Oh No (2005-08-16)
@@ -210,7 +210,7 @@ Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
-<li data-cover="https://img.discogs.com/IC3kOdrS1w-zSkOJTxWJghz_AGs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1357686-1259230699.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:36:01.367Z
+date: 2021-04-06T10:37:01.414Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -30,7 +30,7 @@ Cartel - Cartel (1995)
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
 </li>
-<li data-cover="https://img.discogs.com/Ed6zur6V7QL3cQwSuhTSu7dIbiY=/fit-in/189x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596818-1448916413-5494.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
 </li>
 <li data-cover="https://img.discogs.com/9s7V36cdK6LFhzB3aO_5J48R_QI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6057439-1409970535-6569.jpeg.jpg" data-tags="alternative rock" role="button">
@@ -222,9 +222,6 @@ Sum 41 - Underclass Hero (2007-07-18)
 <li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">
 The Starting Line - Direction (2007-07-31)
 </li>
-<li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
-The Veronicas - Hook Me Up (2007-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/b97c7de1-616c-40bf-a8d7-9ceb84ab8552/7273638872-500.jpg" data-tags="pop punk" role="button">
 All Time Low - So Wrong, It's Right (2007-09-25)
 </li>
@@ -233,6 +230,9 @@ The Spill Canvas - No Really, I'm Fine (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
 Jimmy Eat World - Chase This Light (2007-10-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
+The Maine - The Way We Talk (2007-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)
@@ -243,7 +243,7 @@ Forever the Sickest Kids - Underdog Alma Mater (2008-04-29)
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/5hPv59RCy9mW9A2VqdCv_0Q-sMo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7761668-1448227472-3546.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Rise and Fall, Rage and Grace (2008-06-11)
 </li>
 <li data-cover="https://img.discogs.com/j2MoP6SK9iBD4f999fvO6250Zp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852912-1555314130-3540.jpeg.jpg" data-tags="pop punk" role="button">

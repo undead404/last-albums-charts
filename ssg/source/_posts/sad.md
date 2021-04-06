@@ -1,14 +1,14 @@
 ---
-date: 2021-04-06T01:34:01.355Z
+date: 2021-04-06T10:30:01.550Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">Fiona Apple - Tidal (1996-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">Gary Jules - Trading Snakeoil For Wolftickets (2001)</li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)</li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">Antony and the Johnsons - I Am a Bird Now (2005-02-01)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="https://img.discogs.com/lU-jb1-v8HnHNIeuFYS8UuKtkNY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9832099-1487024275-2085.jpeg.jpg" data-tags="singer-songwriter, indie, indie rock" role="button">Elliott Smith - New Moon (2007-05-07)</li>
@@ -66,9 +66,6 @@ Dinosaur Jr. - Without a Sound (1994-08-01)
 <li data-cover="http://coverartarchive.org/release/30b5a17c-e3bd-4eee-b70c-27acbf5a9e52/10875756884-500.jpg" data-tags="90s" role="button">
 Duncan Sheik - Duncan Sheik (1996-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
-Fiona Apple - Tidal (1996-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
 </li>
@@ -84,7 +81,7 @@ Sixpence None the Richer - Sixpence None the Richer (1997-11-22)
 <li data-cover="http://coverartarchive.org/release/57a5da39-729b-3352-9c95-e9b390e22e08/16155956543-500.jpg" data-tags="sad, canadian, 90s" role="button">
 Destroyer - City of Daughters (1998)
 </li>
-<li data-cover="https://img.discogs.com/IwRSWIId9ZGGotw8pJqMqNa1KuU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2950828-1340169040-3380.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
+<li data-cover="https://img.discogs.com/kGuGCCZ034rIDSKbObK6wxpjOWg=/fit-in/480x478/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784092-1296992310.jpeg.jpg" data-tags="female vocalists, singer-songwriter, electronic" role="button">
 Imogen Heap - I Megaphone (1998-06-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
@@ -138,10 +135,10 @@ The Long Winters - When I Pretend to Fall (2003-05-06)
 <li data-cover="https://img.discogs.com/euerc5eBdFXgKtFsdqimgdJktmU=/fit-in/300x281/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223015-1389537890-6461.jpeg.jpg" data-tags="indie" role="button">
 Saves the Day - In Reverie (2003-09-16)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -162,7 +159,7 @@ IAMX - Kiss + Swallow (2004-10-18)
 <li data-cover="http://coverartarchive.org/release/2f2549b6-d0e5-47f6-a7ee-d1d4aab27496/16354126929-500.jpg" data-tags="trip-hop, indie, unplugged" role="button">
 Archive - Unplugged (2004-11-02)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
@@ -180,7 +177,7 @@ Aimee Mann - The Forgotten Arm (2005-04-27)
 <li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">
 Antimatter - Planetary Confinement (2005-07-25)
 </li>
-<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
@@ -197,6 +194,9 @@ Jason Molina - Let Me Go, Let Me Go, Let Me Go (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6477df3d-e390-4bec-849c-1a45cd73039b/25010408029-500.jpg" data-tags="alternative, folk, indie, country, indie pop, indie rock, sad, singer-songwriter, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 Damien Jurado - And Now That I'm In Your Shadow (2006-10-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+Damien Rice - 9 Crimes (2006-11-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Chris Garneau - Music For Tourists (2007-01-23)
@@ -216,7 +216,7 @@ Minus the Bear - Planet of Ice (2007-08-21)
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 J. Tillman - Cancer And Delirium (2008)
 </li>
-<li data-cover="https://img.discogs.com/YFt6y2qbfMSvFeznJ9pBCJqSSlI=/fit-in/448x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583195-1163087126.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
 <li data-cover="https://img.discogs.com/P77tgw8KeCdkYtdn-B3LP_5eJPk=/fit-in/589x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1536049-1227293535.jpeg.jpg" data-tags="sad" role="button">

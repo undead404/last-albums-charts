@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:59:01.410Z
+date: 2021-04-06T10:33:01.497Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![Hozier - Hozier (2014-06-10)](http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg "Hozier - Hozier (2014-06-10)")
@@ -90,6 +90,9 @@ Fleetwood Mac - Fleetwood Mac (1975-07-11)
 <li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
 Tom Waits - Small Change (1976-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/8fe3d091-b970-4ae0-9a13-0d18e083367e/1276347739-500.jpg" data-tags="blues" role="button">
+Tom Waits - Blue Valentine (1978-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/77d38310-5392-4ac4-85fe-35c1a999210d/13858018994-500.jpg" data-tags="blues" role="button">
 Tom Waits - Swordfishtrombones (1983)
 </li>
@@ -153,9 +156,6 @@ Stevie Ray Vaughan and Double Trouble - Greatest Hits (1995-10-31)
 <li data-cover="http://coverartarchive.org/release/4e341073-f4b4-4362-9f73-72aafe3b46c7/21892739181-500.jpg" data-tags="blues" role="button">
 Elmore James - Dust My Broom (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
-Fiona Apple - Tidal (1996-07-23)
-</li>
 <li data-cover="https://img.discogs.com/E7UtJyItYvk5AJ7YnjG_hxrhppo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4959254-1380618088-4627.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
 </li>
@@ -204,7 +204,7 @@ The Black Keys - Rubber Factory (2004-09-07)
 <li data-cover="https://img.discogs.com/gcvh_G1cU7K2nvX7-zDztowbVh4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438161-1558967298-3250.jpeg.jpg" data-tags="blues, experimental" role="button">
 Tom Waits - Real Gone (2004-10-04)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
@@ -231,7 +231,7 @@ The Raconteurs - Broken Boy Soldiers (2006-05-15)
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/48co00Mgnt-oJ4DG0aQbKDS1Rsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8536683-1465209501-6206.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
+<li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
@@ -239,9 +239,6 @@ Christina Aguilera - Back to Basics (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd4537c4-4faf-4b20-b4eb-e4807c7d085a/26946880719-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Magic Potion (2006-09-11)
-</li>
-<li data-cover="https://img.discogs.com/dKC_ba-hfahXXfAu-PyUPnaqW4w=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830764-1517972935-2117.jpeg.jpg" data-tags="blues, m singer-songwriter" role="button">
-Scott Matthews - Passing Stranger (2007-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
@@ -266,6 +263,9 @@ Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
+</li>
+<li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
+Blakroc - Blakroc (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)

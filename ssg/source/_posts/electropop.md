@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:59:01.391Z
+date: 2021-04-06T10:05:02.868Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -189,9 +189,6 @@ Miami Horror - Illumination (2010-08-20)
 <li data-cover="http://coverartarchive.org/release/cffd67f7-bf16-4579-b93b-3b7922f4994d/24303225544-500.jpg" data-tags="electropop, pop" role="button">
 Sky Ferreira - One (2010-08-23)
 </li>
-<li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
-Wir sind Helden - Bring mich nach Hause (2010-08-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
 </li>
@@ -248,6 +245,9 @@ Icona Pop - I Love It (2012-05-09)
 </li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff633079-f4de-4d2f-83ea-24e0d5d3f411/3212315956-500.jpg" data-tags="pop" role="button">
+Maroon 5 - Overexposed (2012-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2174e3e-6c49-4262-8965-36a173a9ebc0/1194862110-500.jpg" data-tags="indie pop" role="button">
 Passion Pit - Gossamer (2012-07-20)

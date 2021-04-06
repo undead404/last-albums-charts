@@ -1,15 +1,15 @@
 ---
-date: 2021-04-05T22:24:01.426Z
+date: 2021-04-06T10:08:01.592Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">Radiohead - OK Computer (1997-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">Radiohead - Kid A (2000-08-03)</li>
-<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">Radiohead - Amnesiac (2001-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">Coldplay - A Rush of Blood to the Head (2002-08-12)</li>
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">Gorillaz - Demon Days (2005-05-11)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">The Fray - How to Save a Life (2005-07-22)</li>
 <li data-cover="http://coverartarchive.org/release/aefcf53b-5980-463b-b03d-a6c8da6a9432/2432254769-500.jpg" data-tags="alternative rock, rock" role="button">Muse - Black Holes and Revelations (2006-06-28)</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">Radiohead - In Rainbows (2007-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">Kings of Leon - Only by the Night (2008-09-19)</li>
@@ -30,10 +30,10 @@ Nirvana - Nevermind (1991-09-23)
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
 </li>
-<li data-cover="https://img.discogs.com/RSomcpkWT3gqrov3iwDg-sJlxZw=/fit-in/600x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8900165-1471085814-2540.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
 Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
-<li data-cover="https://img.discogs.com/SbiREqGVqtJpp9IWTupHfJ06aZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13068383-1547486816-4724.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+<li data-cover="https://img.discogs.com/xqf09tHFSiPR9_WfaJUpGLq_MFw=/fit-in/485x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660270-1433472219-9062.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
@@ -54,9 +54,6 @@ The Cranberries - No Need to Argue (1994-09)
 <li data-cover="http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg" data-tags="alternative rock, radiohead, rock" role="button">
 Radiohead - The Bends (1995-03-08)
 </li>
-<li data-cover="https://img.discogs.com/Q3yl1WI41mftREVRp0uoOeWmjpQ=/fit-in/454x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4576388-1369670400-5909.jpeg.jpg" data-tags="90s, rock, female vocalists" role="button">
-Alanis Morissette - Jagged Little Pill (1995-06-09)
-</li>
 <li data-cover="https://img.discogs.com/RTuwujrJx3ttlEzr-9UPPjAC7rY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3091194-1315302428.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
@@ -69,7 +66,7 @@ Placebo - Placebo (1996-06-12)
 <li data-cover="http://coverartarchive.org/release/7edae664-8e14-3ca1-8c74-71b1d4413c1b/19949390521-500.jpg" data-tags="alternative" role="button">
 Beck - Odelay (1996-06-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative, singer-songwriter" role="button">
+<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative" role="button">
 Fiona Apple - Tidal (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcdfaf16-ca69-37f8-9616-9f0c5dc2c903/1154789943-500.jpg" data-tags="rock, alternative, 90s" role="button">
@@ -125,6 +122,9 @@ The Cure - Greatest Hits (2001-11-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Red Hot Chili Peppers - By the Way (2002-06-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
+Maroon 5 - Songs About Jane (2002-06-25)
 </li>
 <li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
@@ -195,6 +195,9 @@ Gorillaz - Demon Days (2005-05-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
+The Fray - How to Save a Life (2005-07-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
 </li>
@@ -239,9 +242,6 @@ Kings of Leon - Because of the Times (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
 Linkin Park - Minutes to Midnight (2007-05-11)

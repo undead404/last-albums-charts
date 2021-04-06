@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:34:01.370Z
+date: 2021-04-06T10:27:01.618Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -30,7 +30,7 @@ Serge Gainsbourg - Histoire de Melody Nelson (1971-03-24)
 <li data-cover="http://coverartarchive.org/release/c36e9428-8c2a-4536-b9a7-4e1e2b5bd28d/1171631272-500.jpg" data-tags="french" role="button">
 Mylène Farmer - Ainsi soit je... (1988-04)
 </li>
-<li data-cover="https://img.discogs.com/lFqFvsVrVivYTjK1aXLW5kfUKWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841679-1608312074-2416.jpeg.jpg" data-tags="french" role="button">
+<li data-cover="https://img.discogs.com/oyescYj3RrjkBDR9Ds7yoF14ckQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-629591-1142681808.jpeg.jpg" data-tags="french" role="button">
 Vanessa Paradis - Vanessa Paradis (1992-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a60b0f5-9a20-385c-9972-a0a4cf89f729/24001891419-500.jpg" data-tags="instrumental" role="button">
@@ -117,7 +117,7 @@ Daft Punk - Alive 1997 (2001-10-01)
 <li data-cover="http://coverartarchive.org/release/130786fd-24e3-4ef9-a6d2-8665cb2afdab/15467078716-500.jpg" data-tags="electronic, soundtrack, french" role="button">
 Thomas Bangalter - IRREVERSIBLE (2002-06-24)
 </li>
-<li data-cover="https://img.discogs.com/wHqKk-a8u2HzI1npv8y9RjVRkyA=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4398098-1363812561-8961.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
+<li data-cover="https://img.discogs.com/EEVhN-4JBxDOynNyMeIqNcoqQn0=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10387805-1496477354-7222.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
 Camille - Le Sac Des Filles (2002-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/15f6f9f4-7777-37d6-96fa-94128984a887/15915400773-500.jpg" data-tags="french" role="button">
@@ -126,7 +126,7 @@ Carla Bruni - Quelqu'un m'a dit (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/2d41f2db-27fe-4bd8-af53-2f1a29435276/19380694738-500.jpg" data-tags="reggae, french" role="button">
 Tryo - Grain De Sable (2003-06-02)
 </li>
-<li data-cover="https://img.discogs.com/IsfWljFvoNEBrzLWnVnAS7FChPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400254-1111878087.jpg.jpg" data-tags="french" role="button">
+<li data-cover="https://img.discogs.com/krZc4oV8ormEt0DY_XKT1-w2-ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1132866-1194713551.jpeg.jpg" data-tags="french" role="button">
 Keren Ann - Not Going Anywhere (2003-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/12bb0541-cfd9-42dc-b883-b81c5aa7a2c8/1331165096-500.jpg" data-tags="electronic, french" role="button">
@@ -171,6 +171,9 @@ Céline Dion - On ne change pas (2005-10-03)
 <li data-cover="https://img.discogs.com/5NzomrBRvZRiL8RXz2gj4fs24dQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2056303-1303495712.gif.jpg" data-tags="french, chanson francaise, female vocalists" role="button">
 Olivia Ruiz - La Femme Chocolat (2005-11-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/ec1eb20b-3ba5-4292-bfcb-8eb37b4ee2bd/2734388850-500.jpg" data-tags="french, pop, indie pop, singer-songwriter, jazz-pop, nouvelle scène française, streamable album wants, je devrais avoir mon enfer de la caresse, francophonie, for a sleepy sunday morning" role="button">
+Emily Loizeau - L'Autre Bout Du Monde (2006-02-28)
+</li>
 <li data-cover="https://img.discogs.com/LFrLISH5L8VNZt-N7tQatMdRS1E=/fit-in/593x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328353-1341781841-1542.jpeg.jpg" data-tags="indie, french" role="button">
 Phoenix - It's Never Been Like That (2006-05-10)
 </li>
@@ -186,7 +189,7 @@ Yelle - Je Veux Te Voir (2006-08-28)
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
 Air - Pocket Symphony (2006-12)
 </li>
-<li data-cover="https://img.discogs.com/37zEKcr5vX98EmnB-RdqKF8wH4I=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1292030-1206984639.jpeg.jpg" data-tags="chanson" role="button">
+<li data-cover="https://img.discogs.com/7c2vU1_muB7cykxhzX9vOpUuW9Y=/fit-in/360x322/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072495-1190038789.jpeg.jpg" data-tags="chanson" role="button">
 Carla Bruni - No Promises (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/15fc4503-bac1-4209-8082-2cee83b4a67c/28922662006-500.jpg" data-tags="electro, french" role="button">
@@ -237,9 +240,6 @@ Caravan Palace - Caravan Palace (2008-10-20)
 <li data-cover="http://coverartarchive.org/release/4571542a-59f5-36fc-a22e-beea24bc42eb/3607012199-500.jpg" data-tags="electronic, electro, french, france" role="button">
 Birdy Nam Nam - Manual for successful rioting (2009-01-01)
 </li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f80e404-9436-307a-a369-e93a2fdd6751/10952356282-500.jpg" data-tags="indie rock" role="button">
 Phoenix - Wolfgang Amadeus Phoenix (2009-05-22)
 </li>
@@ -260,9 +260,6 @@ CocoRosie - Grey Oceans (2010-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9703802c-0108-40fb-865c-0bbf17960c98/6816205914-500.jpg" data-tags="jazz, chanson" role="button">
 Zaz - Zaz (2010-05-10)
-</li>
-<li data-cover="https://img.discogs.com/WA0CEnoechp6NQSvei2aorzf5u4=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2907119-1581926315-2145.jpeg.jpg" data-tags="post-rock" role="button">
-Yann Tiersen - Dust Lane (2010-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
 Yelle - Safari Disco Club (2011-03-14)
@@ -287,6 +284,9 @@ Sexion d'Assaut - Avant qu'elle parte (2012-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0bed13e-2607-4c6d-93f0-d4ad26e962a8/1549011683-500.jpg" data-tags="electronic, french, dance, house, disco house, poptron, madeon" role="button">
 Madeon - Finale (2012-07-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
+Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)

@@ -1,13 +1,13 @@
 ---
-date: 2021-04-06T00:35:01.384Z
+date: 2021-04-06T10:21:01.443Z
 title: "electro: 100 albums you must listen to before you die"
 ---
-![Stromae - Racine Carrée (2013-08-16)](http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg "Stromae - Racine Carrée (2013-08-16)")
+![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/8d9e290e-1001-4616-9de2-67fa69bfc9cd/13761995776-500.jpg" data-tags="electro, electronic, electropop, electroclash" role="button">Ladytron - Light & Magic (2002-09-17)</li>
 <li data-cover="https://img.discogs.com/9ZGqCrRnBpYLH9e34YgP3h0IB7c=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6286569-1438926263-1019.jpeg.jpg" data-tags="electronic, electro" role="button">Vitalic - OK Cowboy (2005-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">The Presets - Beams (2005-09-12)</li>
 <li data-cover="http://coverartarchive.org/release/fcc15e13-55f9-4e65-a19d-d1649e4a8985/3596711954-500.jpg" data-tags="electronic, electro" role="button">MSTRKRFT - The Looks (2006-07-18)</li>
+<li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">Digitalism - Idealism (2007-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/2846bdd5-2b37-34ca-ba50-cebfe76c299a/20853604238-500.jpg" data-tags="electronic" role="button">Simian Mobile Disco - Attack Decay Sustain Release (2007-06-13)</li>
 <li data-cover="https://img.discogs.com/Iz3PyhED5nJamdEELI_24GUW2AU=/fit-in/510x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1472602-1222278872.jpeg.jpg" data-tags="electronic, electro" role="button">Boys Noize - Oi Oi Oi (2007-07-13)</li>
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">Crystal Castles - Crystal Castles (2010-05-18)</li>
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b9dfda8b-620e-4bb7-b9c7-e893727de4ff/5487422898-500.jpg" data-tags="electronic" role="button">
 Kraftwerk - Computer World (1981)
+</li>
+<li data-cover="https://img.discogs.com/Zw_zGFG6QN7-JX7-gt4bqvWBNw4=/fit-in/381x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93659-1127656059.jpeg.jpg" data-tags="electro" role="button">
+Cybotron - Clear (1983)
 </li>
 <li data-cover="https://img.discogs.com/A1aXIi-wB9YcejTWj5CsKzpEDlg=/fit-in/348x345/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199803-1200227896.jpeg.jpg" data-tags="electro" role="button">
 Kraftwerk - Tour de France (1983)
@@ -96,6 +99,9 @@ Birdy Nam Nam - Birdy Nam Nam (2005-10-24)
 <li data-cover="https://img.discogs.com/3JGfB3UQUJtgVrmAP8yv1bXyK0g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-633527-1245340902.jpeg.jpg" data-tags="electronic, electro" role="button">
 Hot Chip - Over and Over (2005-11-29)
 </li>
+<li data-cover="https://img.discogs.com/7sLCjpeXls9RLMT-P-unVY8f3rI=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704553-1149877523.jpeg.jpg" data-tags="electro" role="button">
+Tiga - Sexor (2005-12)
+</li>
 <li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
 The Knife - Silent Shout (2006-02-15)
 </li>
@@ -144,6 +150,9 @@ Dntel - Dumb Luck (2007-04-24)
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
+<li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
+Digitalism - Idealism (2007-05-09)
+</li>
 <li data-cover="https://img.discogs.com/iuOQqNStC3sJ5-dAXbTifFD7gMc=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949614-1255264923.jpeg.jpg" data-tags="electronic" role="button">
 LCD Soundsystem - All My Friends (2007-05-22)
 </li>
@@ -161,9 +170,6 @@ Danger - 09/14 2007 (2007-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/430826de-7856-412a-a644-3344e0b9d09e/1114878797-500.jpg" data-tags="electronic" role="button">
 Hot Chip - Made in the Dark (2008-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/95afef5e-443b-463a-892e-5aae7b8847a5/26056751830-500.jpg" data-tags="electro" role="button">
-Robots in Disguise - We're in the Music Biz (2008-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">
 Cut Copy - In Ghost Colours (2008-03-22)
@@ -183,10 +189,7 @@ Ratatat - LP3 (2008-07-07)
 <li data-cover="http://coverartarchive.org/release/75b023d9-9703-4b4f-b931-5015122e2158/1439139825-500.jpg" data-tags="electronic, indie, electro, 00s, indie electro, aggro, harsh, dance-rock, refreshing, hard electro, whos got the clap, aggro techno, aggro electro, industro, in queue no tracks, discos que debo comprar, aggro synthpop, wikus, ds co, aggro synth" role="button">
 Van She - V (2008-08-12)
 </li>
-<li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
-Ladyhawke - Ladyhawke (2008-09-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="lmfao" role="button">
+<li data-cover="https://img.discogs.com/olFbg6hzQQuhFbc8tRLnYmHQBWs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1864079-1573610715-7989.jpeg.jpg" data-tags="lmfao" role="button">
 LMFAO - Party Rock (2008-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/79c4ef9b-885a-44e8-9dd2-56505f497b3a/1149340293-500.jpg" data-tags="electro" role="button">
@@ -201,8 +204,14 @@ Birdy Nam Nam - Manual for successful rioting (2009-01-01)
 <li data-cover="http://coverartarchive.org/release/e74b4ee5-8c1e-44fd-89ca-e680dd568711/1655559415-500.jpg" data-tags="techno, idm" role="button">
 Moderat - Moderat (2009-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/30986729-db32-4e22-ad0b-220f06b9c5c8/14592698705-500.jpg" data-tags="electro" role="button">
+The Bloody Beetroots - Warp (2009-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
 Patrick Wolf - The Bachelor (2009-06-01)
+</li>
+<li data-cover="https://img.discogs.com/gLYg2pa_TMc8Acxk9arwQUDPZTk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2072263-1262405516.jpeg.jpg" data-tags="electro" role="button">
+Basement Jaxx - Raindrops (2009-06-21)
 </li>
 <li data-cover="https://img.discogs.com/JGI_HZRcij2uyyIWQjfahZcIo8I=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1910527-1261146630.jpeg.jpg" data-tags="00s" role="button">
 Cobra Starship - Hot Mess (2009-07-07)
@@ -245,9 +254,6 @@ Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ee85d-f641-30c8-98f3-942a18aac1ca/3464785017-500.jpg" data-tags="chillout, electronic, ambient" role="button">
 Röyksopp - Senior (2010-09-08)
-</li>
-<li data-cover="https://img.discogs.com/QPBKF9KfoAp57G5s8VskAz9eFT8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475210-1286108215.jpeg.jpg" data-tags="electronic, funk" role="button">
-Chromeo - Business Casual (2010-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3acc2ee-9411-45e4-b1da-f3ed28fd26a2/6115532371-500.jpg" data-tags="folktronica, folk, indietronica, alternative dance" role="button">
 Crystal Fighters - Star of Love (2010-10-04)
@@ -297,28 +303,22 @@ Odesza - Summer's Gone (2012-09-06)
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/2571aafe-6bdc-4d7b-bf7b-f2206dada34a/3136826382-500.jpg" data-tags="electro" role="button">
-Bonobo - Cirrus (2013-01-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/85e2a875-f9be-4cb3-bd75-eb5c17ca3147/4924262436-500.jpg" data-tags="electronic" role="button">
 Moderat - II (2013-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/93c4a606-eb1b-4039-9e5d-c3be552ec0dc/5806199741-500.jpg" data-tags="techno" role="button">
-Gesaffelstein - Aleph (2013-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/f74c6ec2-7319-406b-9910-a6c3fe940176/9051815709-500.jpg" data-tags="rnb, pop" role="button">
 Beyoncé - Beyoncé (2013-12-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/04b9e742-3022-4cc4-b863-6a6f9a2ce05b/8871975828-500.jpg" data-tags="instrumental, electro, chilled house" role="button">
+Ten Walls - Walking With Elephants (2014-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg" data-tags="edm" role="button">
 Tiësto - A Town Called Paradise (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
 Calvin Harris - Motion (2014-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
-David Guetta - Listen (2014-11-21)
 </li>
 </ol>
