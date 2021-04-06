@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:07:01.374Z
+date: 2021-04-06T07:19:35.937Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/aULfwfaaNDjPl0xS-H-bzbEUNg0=/fit-in/301x302/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7092588-1433541747-5659.jpeg.jpg" data-tags="blues" role="button">
-Etta James - At Last (1960-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
 </li>
@@ -54,8 +51,8 @@ Stevie Wonder - Talking Book (1972-10-27)
 <li data-cover="http://coverartarchive.org/release/d82dec3e-e077-42d4-ba4f-51b57128e19a/16046182344-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Innervisions (1973-08-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-Marvin Gaye - Let's Get It On (1973-08-28)
+<li data-cover="http://coverartarchive.org/release/ab7b0bf0-b5df-40b5-be73-b121daef595a/6133035956-500.jpg" data-tags="soul" role="button">
+Stevie Wonder - Songs in the Key of Life (1976-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6258e39d-bef4-4d5a-a654-440cf4c4c29a/5349015874-500.jpg" data-tags="pop, disco" role="button">
 Michael Jackson - Off the Wall (1979-08-10)
@@ -80,6 +77,9 @@ Michael Jackson - Dangerous (1991-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/448bd78a-9674-425c-8cf6-7e6de719551d/11371804410-500.jpg" data-tags="soul" role="button">
 Sade - Love Deluxe (1992-10-23)
+</li>
+<li data-cover="https://img.discogs.com/FaX2er6kdAsyNed7FHPIi9tRc4M=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654057-1295129981.jpeg.jpg" data-tags="soul" role="button">
+Bill Withers - Lean on Me: The Best of Bill Withers (1994-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
 Toni Braxton - Secrets (1996-06-18)
