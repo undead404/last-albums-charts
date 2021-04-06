@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T17:20:07.962Z
+date: 2021-04-06T01:34:01.355Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -39,7 +39,7 @@ ABBA - Super Trouper (1980-11-03)
 <li data-cover="http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-500.jpg" data-tags="solo piano" role="button">
 George Winston - December (1982)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f463683-6fb2-4598-8335-f6a8d77da8f4/5520130272-500.jpg" data-tags="sad, new wave, english club" role="button">
@@ -78,9 +78,6 @@ Mazzy Star - Among My Swan (1996-10-17)
 <li data-cover="http://coverartarchive.org/release/27d99673-cdc9-4172-bdf6-d3bd0620c0ee/15960021076-500.jpg" data-tags="singer-songwriter, 90s, indie, folk, lo-fi, mellow, slowcore" role="button">
 Smog - Red Apple Falls (1997-05-20)
 </li>
-<li data-cover="https://img.discogs.com/G8bxRlCzo29-oZo1RFzfxRS4ONw=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3771118-1343744440-2762.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
-Bob Dylan - Time Out of Mind (1997-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/8cbd9b78-2e57-4b3b-8d01-f768e4a9785c/11228936512-500.jpg" data-tags="pop" role="button">
 Sixpence None the Richer - Sixpence None the Richer (1997-11-22)
 </li>
@@ -95,9 +92,6 @@ Bright Eyes - Letting Off the Happiness (1998-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
 Cat Power - Moon Pix (1998-09-22)
-</li>
-<li data-cover="https://img.discogs.com/JWuw0UE5HpiFwbNxrVzNNAPGvzY=/fit-in/600x634/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533033-1395824414-7881.jpeg.jpg" data-tags="chill, eerie" role="button">
-Air - Playground Love (2000-01-17)
 </li>
 <li data-cover="https://img.discogs.com/7ToXkfnF8noSM_uhuS_mdCXSxn0=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-442522-1461384542-9680.jpeg.jpg" data-tags="covers" role="button">
 Cat Power - The Covers Record (2000-03-10)
@@ -144,7 +138,7 @@ The Long Winters - When I Pretend to Fall (2003-05-06)
 <li data-cover="https://img.discogs.com/euerc5eBdFXgKtFsdqimgdJktmU=/fit-in/300x281/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223015-1389537890-6461.jpeg.jpg" data-tags="indie" role="button">
 Saves the Day - In Reverie (2003-09-16)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
@@ -155,6 +149,9 @@ Mirah - C'mon Miracle (2004-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/697776ac-f4ca-4de4-b3ec-0dff13fed33a/26485028742-500.jpg" data-tags="british hip hop" role="button">
 The Streets - Dry Your Eyes (2004-07-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/a6c55722-88da-4b4e-a6a2-f95b1d2014ba/5719264364-500.jpg" data-tags="sensitive" role="button">
+Saybia - These Are The Days (2004-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -183,11 +180,14 @@ Aimee Mann - The Forgotten Arm (2005-04-27)
 <li data-cover="http://coverartarchive.org/release/927f72a8-a1d7-3a78-8e5d-2cb81a9b38a5/936766829-500.jpg" data-tags="melancholic" role="button">
 Antimatter - Planetary Confinement (2005-07-25)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d05c7c9a-a636-4b12-ac6b-c1de3a56bc65/4699933186-500.jpg" data-tags="pop, rock" role="button">
 Lindsay Lohan - A Little More Personal (RAW) (2005-12-06)
+</li>
+<li data-cover="https://img.discogs.com/-vRLqy0OkPeNfxANrLYevcqFPa0=/fit-in/337x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1327632-1209967985.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, alt-country, indie folk, americana, indie, guitar, new weird america, lyrics, country, quiet, calm, mellow, sad, songwriter, lo-fi, alt country, waterhouse records, vancouver, slow, short song" role="button">
+Flowers From the Man Who Shot Your Cousin - Hapless (2006-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)
@@ -197,9 +197,6 @@ Jason Molina - Let Me Go, Let Me Go, Let Me Go (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6477df3d-e390-4bec-849c-1a45cd73039b/25010408029-500.jpg" data-tags="alternative, folk, indie, country, indie pop, indie rock, sad, singer-songwriter, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 Damien Jurado - And Now That I'm In Your Shadow (2006-10-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
-Damien Rice - 9 Crimes (2006-11-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Chris Garneau - Music For Tourists (2007-01-23)
@@ -219,7 +216,7 @@ Minus the Bear - Planet of Ice (2007-08-21)
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 J. Tillman - Cancer And Delirium (2008)
 </li>
-<li data-cover="https://img.discogs.com/vxJaH8x8RTd8dOVYRkA24V2jWaM=/fit-in/590x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-671642-1260644338.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/YFt6y2qbfMSvFeznJ9pBCJqSSlI=/fit-in/448x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583195-1163087126.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 M. Ward - Transfiguration of Vincent (2008)
 </li>
 <li data-cover="https://img.discogs.com/P77tgw8KeCdkYtdn-B3LP_5eJPk=/fit-in/589x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1536049-1227293535.jpeg.jpg" data-tags="sad" role="button">
@@ -237,8 +234,8 @@ Yasemin Mori - Hayvanlar (2008-07-14)
 <li data-cover="http://coverartarchive.org/release/29367888-10ce-4c58-a2ef-fd461f439c6b/17322326617-500.jpg" data-tags="folk, indie" role="button">
 Blind Pilot - 3 Rounds and a Sound (2008-07-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
-Iron & Wine - 9/20/02 (2008-12-00)
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
 Noisettes - Wild Young Hearts (2009-04-19)
@@ -317,6 +314,9 @@ Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f6fffcd-92a4-4d48-9518-b5e4c757c179/8473647967-500.jpg" data-tags="cloud rap" role="button">
 Yung Lean - Unknown Memory (2014-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/3cf2098d-5f98-437c-b826-439105443e4a/8488195612-500.jpg" data-tags="pop, rock, soul, sad, rnb, macy gray, czalbums" role="button">
+Macy Gray - The Way (2014-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3b9547-7a3c-49aa-af8a-40329db86b07/14478533949-500.jpg" data-tags="emo" role="button">
 Moose Blood - I'll Keep You In Mind, From Time to Time (2014-10-06)

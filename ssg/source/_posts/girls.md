@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:23:01.310Z
+date: 2021-04-06T01:33:01.463Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -24,8 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/acbb0b21-0104-4f7f-9493-180126b9548e/25660575270-500.jpg" data-tags="60s, pop" role="button">
 Nancy Sinatra - Boots (1966)
 </li>
-<li data-cover="https://img.discogs.com/qfz12rfTVq_4j1tFyijcQEL-9iw=/fit-in/600x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1874920-1317312054.jpeg.jpg" data-tags="oldies, duets" role="button">
-Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
+<li data-cover="https://img.discogs.com/RhrsE_Tzsm0I_DW4-b2j4Vpd0N0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712171-1394761192-9723.jpeg.jpg" data-tags="60s" role="button">
+Margo Guryan - Take a picture (1968)
 </li>
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
@@ -39,7 +39,7 @@ Cocteau Twins - Treasure (1984-10-01)
 <li data-cover="http://coverartarchive.org/release/b9016aaf-ca71-304f-b5f1-d6384cf465f3/8364196064-500.jpg" data-tags="alternative, female vocalists" role="button">
 Kate Bush - The Sensual World (1989-10-17)
 </li>
-<li data-cover="https://img.discogs.com/lFqFvsVrVivYTjK1aXLW5kfUKWo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841679-1608312074-2416.jpeg.jpg" data-tags="french" role="button">
+<li data-cover="https://img.discogs.com/oyescYj3RrjkBDR9Ds7yoF14ckQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-629591-1142681808.jpeg.jpg" data-tags="french" role="button">
 Vanessa Paradis - Vanessa Paradis (1992-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/591bf9e3-0a19-42c7-8b09-5454760edfd9/11192122485-500.jpg" data-tags="female, techno, girls, sex, guilty pleasure, lovely, women, porn, misc, vagina, breasts, ladies, tits, moisture, thoughts, girlfriend, miscellaneous, boobs, shady, pleasure, girls girls girls, tactile, boobies, i want to make out with her so bad, titties, look, mammal, vaginal, jugs, lovelies, imaginary, pretty ladies, i would like to spend an afternoon rubbing her breasts with warm mineral oil, mammaries, tit, camel toe, sex stuff, non-verbal, finely tailored, beautiful land of tits, impure thoughts, you might, lady love, lookie lookie, a fashionable likeness of cylindrical awareness, smell of female, maternal, hump day, vagina possession, vagina and breasts, feminine cavern of love, boneriffic, grumpy still skin, lady parts, soft and moist, mime of charisma, masturbation fodder, female lady, lady female, hie to kolob, cylindrical awareness, cavern of love, a game of myself, the smell of female, you can if you want to, imaginary girlfriend, unclean thoughts, woman lady, i like to look, this is something you can look at, girl girls girls, no not blame, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, prophetess, maternal prophetess, juglets, jiggles, broadish, grants men the power of erection, lady females, tit-boobieism, boobieism, tit-boobie, boobieist" role="button">
@@ -63,16 +63,19 @@ Cat Power - What Would the Community Think (1996-09-10)
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
 Mazzy Star - Among My Swan (1996-10-17)
 </li>
-<li data-cover="https://img.discogs.com/fmt94kfcRan6s8ni7WKm0nxvSMs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164910-1275419640.jpeg.jpg" data-tags="female, soul, dance, girls, sex, guilty pleasure, lovely, porn, misc, vagina, breasts, tits, moisture, girlfriend, miscellaneous, boobs, shady, pleasure, girls girls girls, boobies, i want to make out with her so bad, titties, mammal, vaginal, jugs, imaginary, i would like to spend an afternoon rubbing her breasts with warm mineral oil, mammaries, camel toe, sex stuff, finely tailored, lady love, a fashionable likeness of cylindrical awareness, smell of female, maternal, vagina possession, feminine cavern of love, boneriffic, and such, grumpy still skin, lady parts, soft and moist, masturbation fodder, female lady, lady female, hie to kolob, cylindrical awareness, cavern of love, the smell of female, you can if you want to, imaginary girlfriend, unclean thoughts, woman lady, prophetess, maternal prophetess, juglets, jiggles, broadish" role="button">
+<li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="female, soul, dance, girls, sex, guilty pleasure, lovely, porn, misc, vagina, breasts, tits, moisture, girlfriend, miscellaneous, boobs, shady, pleasure, girls girls girls, boobies, i want to make out with her so bad, titties, mammal, vaginal, jugs, imaginary, i would like to spend an afternoon rubbing her breasts with warm mineral oil, mammaries, camel toe, sex stuff, finely tailored, lady love, a fashionable likeness of cylindrical awareness, smell of female, maternal, vagina possession, feminine cavern of love, boneriffic, and such, grumpy still skin, lady parts, soft and moist, masturbation fodder, female lady, lady female, hie to kolob, cylindrical awareness, cavern of love, the smell of female, you can if you want to, imaginary girlfriend, unclean thoughts, woman lady, prophetess, maternal prophetess, juglets, jiggles, broadish" role="button">
 Robyn - My Truth (1999-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
 Sarah McLachlan - Mirrorball (1999-06-15)
 </li>
+<li data-cover="https://img.discogs.com/qF45uLMFzfK3uXWD7xO_b9kORuw=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4873280-1378113188-6953.jpeg.jpg" data-tags="trip-hop, indie, female, male, rock, alternative, folk, female vocalists, dance, c, happy, fantastic, afternoon, girls, outsider, friendly, long, friend, pretty, my, like, soft, random, christian, why, poetic, provocative, sex, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, recommended, game, guilty pleasure, inspirational, out, smart, worship, warm, north, hot, place, depression, beach, pleasant, now, commercial, heart, lovely, visual, traditional, women, years, work, misogyny, sensual, lost, porn, monday, what, e, leaf, woman, upcoming, single, fantasy, misc, pink, penis, tracks, sexual, girl, pee pee, pleasing, good stuff, music, vagina, touch, flower, zero, smell, babe, stars, breasts, bibles, no, dates, months, verbal" role="button">
+Felicia Michaels - Lewd Awakenings (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2283103-9c78-4778-96f1-002dc86626be/12059807281-500.jpg" data-tags="pop" role="button">
 Billie Piper - Walk of Life (2000-07-12)
 </li>
-<li data-cover="https://img.discogs.com/evcyR-08XCviQZV58NObyPm49h4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-219287-1230933138.jpeg.jpg" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/HHiAWJn4HodjvMk75CERaLpI-z4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14903415-1583775784-3839.jpeg.jpg" data-tags="ambient" role="button">
 Goldfrapp - Utopia (2000-11-06)
 </li>
 <li data-cover="https://img.discogs.com/GY6kkzwCV0vMLaHuDALG39j9W60=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-661899-1268237157.jpeg.jpg" data-tags="jazz" role="button">
@@ -83,6 +86,9 @@ Mandy Moore - Mandy Moore (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fd1004c-5116-4323-84e5-2e8b2a23f736/10583997394-500.jpg" data-tags="soundtrack, easy listening" role="button">
 Kate Winslet - What If (2001-11-09)
+</li>
+<li data-cover="https://img.discogs.com/k3cHsxFPTYQxFHWa68XaZ3tuysE=/fit-in/448x401/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87192-1163857060.jpeg.jpg" data-tags="oceanclub" role="button">
+Masha Qrella - Luck (2002-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ca0bb02-ede1-4261-83aa-120c2b0a01b0/13409983693-500.jpg" data-tags="pop, female, female vocalists" role="button">
 Jennifer Love Hewitt - BareNaked (2002-10-08)
@@ -105,6 +111,9 @@ Brigitte Bardot - The Best Of Bardot (2004-03-23)
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
+Charlotte Martin - On Your Shore (2004-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, alt rock, independent, tracks, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
 Julie Doiron - Goodnight Nobody (2004-09-07)
 </li>
@@ -119,9 +128,6 @@ Kristin Chenoweth - As I Am (2005-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9057983d-9247-4607-aef0-888d595fb9cf/24008442870-500.jpg" data-tags="melancholy, folk, all time favorite records" role="button">
 Over the Rhine - Drunkard's Prayer (2005-03-29)
-</li>
-<li data-cover="https://img.discogs.com/sxYTqdcRpDhTIs31PX-UCuajF2w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2088976-1263339264.jpeg.jpg" data-tags="female vocalists" role="button">
-Susie Suh - Susie Suh (2005-03-29)
 </li>
 <li data-cover="https://img.discogs.com/VWYnIDkhYjGHFAaIjaT-nbR2UZs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-828466-1452123299-2611.jpeg.jpg" data-tags="swing, female vocalists" role="button">
 The Puppini Sisters - Betcha Bottom Dollar (2006)
@@ -147,9 +153,6 @@ Kate Walsh - Tim's House (2007-03-26)
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/415b68c0-e326-4c26-829d-bdd620e5f722/1330751900-500.jpg" data-tags="french, girls, rx, 60er, bilititas, objectum-sexualis, nichopoulooza, os group, mes chansons, tag auditions, vartan" role="button">
-Sylvie Vartan - Nouvelle Vague (2007-07-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/cc1bc121-6078-4413-954e-c394c2df0e6b/7997586808-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, guilty pleasure, buy, j, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, nuggets, bananas, x, meat" role="button">
 Robyn - With Every Heartbeat (2007-08-06)
 </li>
@@ -173,6 +176,9 @@ Katy Perry - Katy Perry (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0e04b77-0f3b-4ca8-91ad-8e9280bf83ef/18248581373-500.jpg" data-tags="female, jazz, female vocalists, why, guilty pleasure, misc, babe, bibles, girlfriend, cherry, marvelous, miscellaneous, shared, shady, pleasure, pussy, crush, grady, release, nipples, imaginary, moist, camel toe, shady grady, miss kitty, childhood crush, smell of female, hump day, explicitly, feminine cavern of love, boneriffic, hie to kolob, hotter than should be allowed for human beings, i like to watch, beneficial, cavern of love, the smell of female, you can if you want to, imaginary girlfriend, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, sexier than should be allowed for human beings, broadish, clsid not unique, 00c04fd7d062, grants men the power of erection, 9e56be61-c50f-11cf-9a2c-00a0c90a90ce, 9e56be61, c50f, 11cf, 9a2c, 00a0c90a90ce, 888dca60-fc0a-11cf-8f0f-00c04fd7d062, 888dca60, 8f0f" role="button">
 Kat Edmonson - Take To The Sky (2009-02-09)
+</li>
+<li data-cover="https://img.discogs.com/MepQb-g-iDf1XEVuLMftQBhusBE=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7611922-1445125084-1859.jpeg.jpg" data-tags="anime, j-pop" role="button">
+Kalafina - Lacrimosa (2009-03-04)
 </li>
 <li data-cover="https://img.discogs.com/L9imxs0W875JvMTeTlahqdp2_xA=/fit-in/398x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3036699-1312762940.jpeg.jpg" data-tags="female vocalists" role="button">
 Kina Grannis - Stairwells (2010-02-23)
@@ -222,20 +228,17 @@ Fatoumata Diawara - Fatou (2011-09-19)
 <li data-cover="http://coverartarchive.org/release/8c369d3f-c53e-4ec0-a651-979bb2b898c4/15584002891-500.jpg" data-tags="japanese, female vocalists, epic, ethereal, neoclassical" role="button">
 Kalafina - After Eden (2011-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/93c9676d-5648-475d-8d76-190c9faf69e9/4183552211-500.jpg" data-tags="j-pop" role="button">
-Perfume - スパイス (2011-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
 Perfume - JPN (2011-11-30)
-</li>
-<li data-cover="https://img.discogs.com/gDetd9U3hb9_JWVac2HpVwXzhU8=/fit-in/572x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597174-1369495212-6438.jpeg.jpg" data-tags="japanese, female vocalists, girls, jpop, j-rock, j-pop, jrock, girl band, girl group, girl groups, group, girlband, idol, asian music, asian rock, asian pop" role="button">
-Scandal - Harukaze (2012-02-22)
 </li>
 <li data-cover="https://img.discogs.com/jcZ-41ldHl5oSz46HTqYJ_uUaCA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-564272-1364787701-9388.jpeg.jpg" data-tags="japanese, girls, jpop, j-rock, j-pop, jrock, girl band, girl group, girl groups, girlband, asian rock, asian pop" role="button">
 Scandal - Scandal Show (2012-03-06)
 </li>
 <li data-cover="https://img.discogs.com/5QvvM75BkwSodvFmXqr8tnsUJC8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494782-1332676422.jpeg.jpg" data-tags="soul, jazz" role="button">
 Esperanza Spalding - Radio Music Society (2012-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/e9fe1ca3-3ac5-486a-b745-ee8c2f3bb4bf/2928978635-500.jpg" data-tags="j-pop" role="button">
+ClariS - Birthday (2012-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/014a2f6b-5eb1-4887-9128-2fc77fb806f2/4183482084-500.jpg" data-tags="j-pop" role="button">
 Perfume - Spring of Life (2012-04-11)
@@ -258,11 +261,11 @@ HAIM - Don't Save Me (2012-11-13)
 <li data-cover="http://coverartarchive.org/release/fc34df76-aad8-4f08-9ab0-1ab89bd78f94/6076487705-500.jpg" data-tags="j-pop, girl group, girl groups, idol" role="button">
 乃木坂46 - 制服のマネキン (2012-11-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/cb6de5bb-36f3-46e6-aa5a-e31e716f912c/6533734694-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
-ももいろクローバーZ - サラバ、愛しき悲しみたちよ (2012-11-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
 Alicia Keys - Girl on Fire (2012-11-23)
+</li>
+<li data-cover="https://img.discogs.com/OFcrrfdWZsPVxszIoFdiiy58ayI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202479-1493604193-8446.jpeg.jpg" data-tags="ballads, christopher owens" role="button">
+Christopher Owens - Lysandre (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/551e3ae7-a8a0-48e5-a739-4e436da3b70b/3327967040-500.jpg" data-tags="indie" role="button">
 HAIM - Falling (2013-02-12)
@@ -281,9 +284,6 @@ ClariS - Second Story (2013-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/7b551899-da65-48fd-98d9-77d1e7cd19be/16458471655-500.jpg" data-tags="selena gomez" role="button">
-Selena Gomez - Slow Down (2013-09-06)
 </li>
 <li data-cover="https://img.discogs.com/fK_SBnhk_3gYkaQuDn1Mcg2Ro2E=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145641-1494989212-6727.jpeg.jpg" data-tags="electronic, electropop, j-pop" role="button">
 Perfume - LEVEL3 (2013-10-02)
@@ -312,8 +312,8 @@ Kina Grannis - Elements (2014-05-06)
 <li data-cover="http://coverartarchive.org/release/d8ee3fb5-e02f-4459-a26f-e4301beb32f1/8796970047-500.jpg" data-tags="pop, ariana grande" role="button">
 Ariana Grande - Break Free (2014-07-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c14d70b-cf86-4082-b726-ce6212744ac9/8204261251-500.jpg" data-tags="japanese, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
-Kalafina - heavenly blue (2014-08-06)
+<li data-cover="https://img.discogs.com/2O8L0YqBEhOMkn29Xg2_H-MVJe0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9080986-1474430645-1315.jpeg.jpg" data-tags="j-pop" role="button">
+Perfume - Cling Cling (2014-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, c, girls, g, k, sex, guilty pleasure, buy, j, lovely, electro rock, greatest hits, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend" role="button">
 Selena Gomez - For You (2014-11-24)

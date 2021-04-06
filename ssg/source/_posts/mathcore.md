@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:07:01.398Z
+date: 2021-04-06T01:43:01.361Z
 title: "mathcore: 100 albums you must listen to before you die"
 ---
 ![Converge - Jane Doe (2001-09-04)](http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg "Converge - Jane Doe (2001-09-04)")
@@ -168,6 +168,9 @@ Fear Before The March Of Flames - The Always Open Mouth (2006-09-19)
 <li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - No Heroes (2006-10-23)
 </li>
+<li data-cover="https://img.discogs.com/iWyRJbHjh45yON6e95jzI7_Q7yE=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061669-1189109237.jpeg.jpg" data-tags="mathcore" role="button">
+PsyOpus - Our Puzzling Encounters Considered (2007-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/6bda19eb-20e4-4f9c-9b21-4ec27d086d57/4517182459-500.jpg" data-tags="mathcore" role="button">
 The Locust - New Erections (2007-03-20)
 </li>
@@ -210,7 +213,7 @@ Protest the Hero - Fortress (2008-01-29)
 <li data-cover="http://coverartarchive.org/release/d08330be-7e1b-4cc1-b9b9-a1662c0ad62f/14476655259-500.jpg" data-tags="experimental, grindcore, cybergrind" role="button">
 Genghis Tron - Board Up the House (2008-02-19)
 </li>
-<li data-cover="https://img.discogs.com/PQXVM0bU6Gy1mpEGtfHx1fGvByI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7758004-1569303461-1702.jpeg.jpg" data-tags="mathcore" role="button">
+<li data-cover="https://img.discogs.com/_WqwjKmLEkaRago-XTsjvs6RrCU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14006025-1565940495-1326.jpeg.jpg" data-tags="mathcore" role="button">
 Architects - Ruin (2008-06-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="djent" role="button">
@@ -218,9 +221,6 @@ Fellsilent - The Hidden Words (2008-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/97db5757-a7ee-4921-8f9b-f726f6433a62/27059737189-500.jpg" data-tags="hardcore, metalcore" role="button">
 Norma Jean - The Anti Mother (2008-08-05)
-</li>
-<li data-cover="https://img.discogs.com/flx8uYuhHbv5WMKluPM8fxzQEZQ=/fit-in/500x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2846257-1303732161.jpeg.jpg" data-tags="mathcore" role="button">
-Exotic Animal Petting Zoo - I Have Made My Bed In Darkness (2008-08-19)
 </li>
 <li data-cover="https://img.discogs.com/9nu1biy6Ock-UIiSLQzSUKQTyGY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3216777-1330611414.jpeg.jpg" data-tags="mathcore" role="button">
 Rolo Tomassi - Hysterics (2008-09-22)

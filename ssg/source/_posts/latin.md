@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T12:47:01.348Z
+date: 2021-04-06T01:28:01.347Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -95,6 +95,9 @@ Touch and Go - I Find You Very Attractive (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0f72e80-43c1-4b6f-bafb-befb3b049b80/15836875362-500.jpg" data-tags="reggae, latin, salsa, spanish" role="button">
 Sergent Garcia - Un Poquito Quema'o (1999-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/dba2993e-4530-483c-a173-1d6704264472/2720958236-500.jpg" data-tags="latin, cuba" role="button">
+Compay Segundo - Cien Años de Son (1999-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">
 Ricky Martin - Ricky Martin (1999-05-04)
@@ -309,7 +312,7 @@ Enrique Iglesias - Euphoria (2010-07-05)
 <li data-cover="https://img.discogs.com/W3rrkSVJal2IKVaQ8LkewX36T-U=/fit-in/600x854/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9330007-1567446183-1508.png.jpg" data-tags="pop" role="button">
 Enrique Iglesias - I Like It (2010-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1155ca2-d814-4f17-9426-743189f8d853/15396503893-500.jpg" data-tags="pop, c, latin, g, k, f, j, r, e, misc, i, o, bananas, x, all, d, shady, s, b, h, a, w, dolce, m, t, l, y, z, n, p, q, v, grady, partial, u, music to listen to in 2010, shady grady, deek, auditory, deek deek, deek deek deek, dake, ploppy, dake-bonoism, bonoism, jibby, specific generalities, specificity, generality, plopper, male or female, non-zero" role="button">
+<li data-cover="http://coverartarchive.org/release/d1155ca2-d814-4f17-9426-743189f8d853/15396503893-500.jpg" data-tags="pop, c, latin, g, k, j, e, misc, i, o, bananas, x, d, shady, s, b, h, a, w, dolce, m, t, l, y, z, n, p, q, v, grady, partial, u, music to listen to in 2010, shady grady, deek, auditory, deek deek, deek deek deek, dake, ploppy, dake-bonoism, bonoism, jibby, specific generalities, specificity, generality, plopper, male or female, non-zero" role="button">
 El Guincho - Pop Negro (2010-09-13)
 </li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
@@ -317,8 +320,5 @@ Shakira - Sale el Sol (2010-10-14)
 </li>
 <li data-cover="https://img.discogs.com/abIZqGPCH1J_m4xN2KxbqD9yVPU=/fit-in/529x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3029115-1312423981.jpeg.jpg" data-tags="dance, pop" role="button">
 Jennifer Lopez - Love? (2011-05-02)
-</li>
-<li data-cover="https://img.discogs.com/2Q2uyR6MeY09UOYicMOrErDKrA8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9179624-1476173102-9219.jpeg.jpg" data-tags="spanish, latin, pop, rock, female vocalists" role="button">
-Shakira - Live From Paris (2011-11-01)
 </li>
 </ol>

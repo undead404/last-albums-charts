@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:33:01.708Z
+date: 2021-04-06T01:19:01.397Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -86,9 +86,6 @@ Vangelis - Blade Runner (1993-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bf88b0f-9999-4a7f-b4be-cd7f9e2a8599/28293994702-500.jpg" data-tags="soundtrack, piano" role="button">
 Michael Nyman - The Piano (1993-12-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfdabaeb-c1c8-4f73-8d4e-1c83e1a7057f/12666505545-500.jpg" data-tags="soundtrack" role="button">
-James Horner - Legends of the Fall (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/adccd851-a871-4f32-997d-2b19819b16d2/14178336019-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Pulp Fiction (1994-09-27)
@@ -242,6 +239,9 @@ Nick Cave & Warren Ellis - The Assassination of Jesse James By the Coward Robert
 </li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
+The Cab - Whisper War (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/b49fef96-5b9c-4656-9b99-82cd80472706/8265525094-500.jpg" data-tags="soundtrack" role="button">
 Two Steps from Hell - Legend (2008-07-01)

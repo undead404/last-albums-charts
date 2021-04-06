@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:19:01.472Z
+date: 2021-04-06T01:10:01.432Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -165,11 +165,11 @@ Easy Star All-Stars - Radiodread (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
 Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
-<li data-cover="https://img.discogs.com/v43z72x70mwmbYZkVxGZWHST-6c=/fit-in/595x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683980-1342639891-4559.jpeg.jpg" data-tags="pop" role="button">
-Westlife - The Love Album (2006-11-20)
-</li>
 <li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
 Placebo - Covers (2007-03-05)
+</li>
+<li data-cover="https://img.discogs.com/_m0W55gb-iKCddwR-V3_Ml1myu0=/fit-in/600x696/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16238095-1605789171-8254.jpeg.jpg" data-tags="cover, deep purple, opeth, deep purple cover" role="button">
+Opeth - Soldier of Fortune (2007-03-06)
 </li>
 <li data-cover="https://img.discogs.com/QO7zFM0tva2c9T7Mv2WKmzHED2g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-966497-1469987494-2664.jpeg.jpg" data-tags="covers" role="button">
 Patti Smith - Twelve (2007-04-13)

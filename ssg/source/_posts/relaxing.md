@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T15:26:01.311Z
+date: 2021-04-06T01:11:01.344Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -66,9 +66,6 @@ Thievery Corporation - It Takes a Thief (1999)
 <li data-cover="http://coverartarchive.org/release/d98d60d4-51a6-4647-a92f-195af796599e/24147288966-500.jpg" data-tags="rock, alternative" role="button">
 Modest Mouse - Night on the Sun (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/05a2e11a-bccb-4069-8e20-2d545d2e1669/9738556984-500.jpg" data-tags="yanni" role="button">
-Yanni - Love Songs (1999-04-13)
-</li>
 <li data-cover="https://img.discogs.com/5NUxp9OIUfM-toTymrimzsYfa9Y=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726191-1171729618.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
@@ -125,6 +122,9 @@ Annie Lennox - Bare (2003-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dab92633-793d-4d60-a9ee-54950070cfea/11124226539-500.jpg" data-tags="ambient" role="button">
 Entheogenic - Spontaneous Illumination (2003-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
+John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/WI9xr-R4aOltg2LSAy8x77FKfQg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4662538-1371466720-1362.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
@@ -210,6 +210,9 @@ Amerie - Because I Love It (2007-05-14)
 <li data-cover="http://coverartarchive.org/release/ae79c52b-8ed3-45dd-a208-a4bac7c21fb6/28993094834-500.jpg" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
 Jarabe de Palo - Adelantando (2007-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
+Stars - In Our Bedroom After the War (2007-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/60e82431-7430-45db-a02d-b7e13646f760/8259283262-500.jpg" data-tags="chillout, dance, house" role="button">
 Groove Armada - Greatest Hits (2007-10-29)
 </li>
@@ -266,9 +269,6 @@ múm - Sing Along to Songs You Don't Know (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a509a88-2d08-39a8-a6b6-aec83ead870b/17390032491-500.jpg" data-tags="experimental, idm, drum and bass" role="button">
-Zero 7 - Yeah Ghost (2009-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
 toe - For Long Tomorrow (2009-12-09)

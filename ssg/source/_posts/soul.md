@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T18:57:01.374Z
+date: 2021-04-06T01:21:01.389Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/aULfwfaaNDjPl0xS-H-bzbEUNg0=/fit-in/301x302/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7092588-1433541747-5659.jpeg.jpg" data-tags="blues" role="button">
+Etta James - At Last (1960-11-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
 </li>
@@ -44,9 +47,6 @@ Funkadelic - Maggot Brain (1971-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/285ec2db-339b-4694-a068-98957e2a49ef/22419379262-500.jpg" data-tags="soul" role="button">
 Bobby Caldwell - What You Won't Do For Love (1978)
-</li>
-<li data-cover="https://img.discogs.com/l3pHsob4QXA0qrMV7AYigfjPCBQ=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1135038-1249251301.jpeg.jpg" data-tags="80s, soul" role="button">
-Diana Ross - Diana (1980-05-22)
 </li>
 <li data-cover="https://img.discogs.com/4fin0ZQYRUDRWVmx-EYI5SOxhGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2082701-1538679470-8831.jpeg.jpg" data-tags="soul" role="button">
 Marvin Gaye - Midnight Love (1982)
