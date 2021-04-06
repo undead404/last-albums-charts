@@ -1,11 +1,11 @@
 ---
-date: 2021-04-06T12:30:01.818Z
+date: 2021-04-06T19:50:01.429Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Animals (1977-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Wall (1979-11-30)</li>
-<li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)</li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">Opeth - Still Life (1999-10-18)</li>
@@ -102,9 +102,6 @@ W.A.S.P. - The Crimson Idol (1992-06-27)
 <li data-cover="http://coverartarchive.org/release/c1b3f914-0b7f-3ee2-90ff-df83a62f4eb6/15706012837-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - Amused to Death (1992-09-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">
-Nine Inch Nails - The Downward Spiral (1994-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
@@ -147,7 +144,7 @@ dredg - Leitmotif (1999-05-30)
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Still Life (1999-10-18)
 </li>
-<li data-cover="https://img.discogs.com/4Djmacr_gYJXbp9DIg8TdOQnFww=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3399277-1566270410-5717.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">
 Grandaddy - The Sophtware Slump (2000-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e973d272-3f35-4b02-82e3-aa43f83031b2/19933342206-500.jpg" data-tags="indie rock" role="button">
@@ -266,6 +263,9 @@ The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f54514-f789-4835-b3e0-d1f14e9e766e/3820440959-500.jpg" data-tags="country" role="button">
 Eric Church - Sinners Like Me (2006-07-18)
+</li>
+<li data-cover="https://img.discogs.com/y3J1BJWu6hxUYGABSHnoVyX1VkA=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3040332-1312929855.jpeg.jpg" data-tags="acoustic" role="button">
+The Prize Fighter Inferno - My Brother's Blood Machine (2006-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/57df139a-0e66-4810-9180-8e30948e29d5/16094167297-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Scarsick (2007-01-22)

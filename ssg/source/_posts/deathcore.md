@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:54:01.342Z
+date: 2021-04-06T19:56:01.621Z
 title: "deathcore: 100 albums you must listen to before you die"
 ---
 ![Bring Me the Horizon - Count Your Blessings (2006-10-30)](https://img.discogs.com/sQw0cTRb0aPCGSgjMrqGPfRWnn8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970717-1515106686-7186.jpeg.jpg "Bring Me the Horizon - Count Your Blessings (2006-10-30)")
@@ -72,9 +72,6 @@ Heaven Shall Burn - Deaf To Our Prayers (2006-08-25)
 <li data-cover="https://img.discogs.com/sQw0cTRb0aPCGSgjMrqGPfRWnn8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970717-1515106686-7186.jpeg.jpg" data-tags="deathcore" role="button">
 Bring Me the Horizon - Count Your Blessings (2006-10-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/2cffa884-a2ca-49f8-b478-79f95a53e3b5/9757594516-500.jpg" data-tags="deathcore" role="button">
-Veil of Maya - All Things Set Aside (2006-11-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/75b5990e-5608-4c93-9de3-ba16b0f3d212/10206508020-500.jpg" data-tags="technical death metal, death metal" role="button">
 The Faceless - Akeldama (2006-11-14)
 </li>
@@ -128,6 +125,9 @@ Born of Osiris - The New Reign (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ee0ac7b-3696-44e3-94c8-783eda35ee75/6683333870-500.jpg" data-tags="experimental, mathcore, deathcore" role="button">
 iwrestledabearonce - Iwrestledabearonce (2007-12-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
+Jonas Brothers - A Little Bit Longer (2008-01-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Salt The Wound - Carnal Repercussions (2008-02-05)
@@ -279,7 +279,7 @@ Attila - Outlawed (2011-08-16)
 <li data-cover="http://coverartarchive.org/release/4f1f12d0-fb3d-416a-9f61-d2764afbcf8c/2419944650-500.jpg" data-tags="deathcore" role="button">
 Betraying the Martyrs - Breathe In Life (2011-09-19)
 </li>
-<li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
+<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2bc6863-a02f-4614-ad59-e6674d158547/15007829992-500.jpg" data-tags="hip-hop, rap" role="button">

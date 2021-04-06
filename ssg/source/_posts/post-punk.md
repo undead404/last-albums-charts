@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T19:30:01.408Z
+date: 2021-04-06T19:57:01.491Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -66,7 +66,7 @@ Bauhaus - In the Flat Field (1980-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - Remain in Light (1980-10-08)
 </li>
-<li data-cover="https://img.discogs.com/W2Wg9PCWvMI0BDTucd6MNTm2a0k=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2345466-1278545921.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d633474-f161-470b-b47c-cf6383f235a9/26974152489-500.jpg" data-tags="post-punk" role="button">
@@ -273,6 +273,9 @@ Arctic Monkeys - Humbug (2009-08-19)
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
+Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/daaa313f-2f30-39e7-a8f0-511276fc7341/19193385025-500.jpg" data-tags="indie rock" role="button">
 The National - High Violet (2010-05-10)
 </li>
@@ -291,7 +294,7 @@ White Lies - Ritual (2011-01-17)
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/fjkqLjXigy3tZo2ZAyynt2QXjj0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13360887-1552756400-8491.png.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdd5d8c4-21c4-40cc-9dee-a32b96ccd672/27110182808-500.jpg" data-tags="new wave" role="button">
@@ -311,9 +314,6 @@ Savages - Silence Yourself (2013-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c433abe-415f-47e5-9bfa-44fbafee151b/5084224967-500.jpg" data-tags="post-punk" role="button">
 King Krule - 6 Feet Beneath The Moon (2013-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/5983b723-c46b-417c-ba5d-dedb5fde9e6b/21907065051-500.jpg" data-tags="post-punk, shoegaze, drone" role="button">
-Have a Nice Life - The Unnatural World (2014-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/abea24af-aad8-4596-80ce-2b367c2d88be/7446433453-500.jpg" data-tags="indie rock" role="button">
 Interpol - El Pintor (2014-09-08)

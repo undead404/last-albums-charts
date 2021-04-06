@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:42:02.556Z
+date: 2021-04-06T19:58:01.470Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -56,15 +56,6 @@ Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1b96e5e-41d4-302a-903e-ed8d87b2ee96/20102454104-500.jpg" data-tags="nu metal" role="button">
 P.O.D. - Brown (1996)
-</li>
-<li data-cover="https://img.discogs.com/aVZevwp2axHZDWkCKzHcMSIcnwI=/fit-in/428x418/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711681-1297618336.jpeg.jpg" data-tags="metal, rock, espanol, rap metal, def con dos, defcondos, originales" role="button">
-Def con Dos - Ultramemia (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/432ce392-0177-4316-b063-b9649ba35542/3789050212-500.jpg" data-tags="rap metal" role="button">
-Xero - Xero (1996)
-</li>
-<li data-cover="https://img.discogs.com/NIv_lYinHC8at3EeQntemnpXHlc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260221-1402325740-4191.jpeg.jpg" data-tags="metal, japanese, punk, industrial, rapcore, digital hardcore, rap metal, mixture rock" role="button">
-The Mad Capsule Markets - 4 Plugs (1996-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
@@ -135,6 +126,9 @@ Crazy Town - The Gift of Game (1999-11-09)
 <li data-cover="http://coverartarchive.org/release/98a300a4-a705-4716-8630-27713f443017/14485832908-500.jpg" data-tags="rap-metal" role="button">
 Methods Of Mayhem - Methods Of Mayhem (1999-12-07)
 </li>
+<li data-cover="https://img.discogs.com/ZsQ2SoSmNr8hFIumtfLBrXC35P8=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3489006-1332406879.jpeg.jpg" data-tags="rap metal" role="button">
+Kannon - De Nuevo Nunca (2000)
+</li>
 <li data-cover="https://img.discogs.com/990QvNo7eWnAzNhZ9wsWa9gDlf0=/fit-in/532x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6846409-1427854450-6351.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, groovy, funk rock, rap metal, jecks" role="button">
 O'Funk'illo - O'Funk'Illo (2000)
 </li>
@@ -144,14 +138,14 @@ Earth Crisis - Slither (2000)
 <li data-cover="http://coverartarchive.org/release/ab8dadc1-9c12-4649-992a-64cad3c3b30e/27436513350-500.jpg" data-tags="crossover, rapcore" role="button">
 Primer 55 - Introduction To Mayhem (2000-01-25)
 </li>
+<li data-cover="https://img.discogs.com/CtGOJP1-ANTLWbi3aMfENTk-xB4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1603844-1387496898-8916.jpeg.jpg" data-tags="rapcore" role="button">
+One Minute Silence - Buy Now... Saved Later (2000-04-10)
+</li>
 <li data-cover="https://img.discogs.com/rxFjy3xIduvrpuRl8hrTIwInbIY=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1217445-1586490553-7014.jpeg.jpg" data-tags="rapcore, hip-hop" role="button">
 Cypress Hill - Skull & Bones (2000-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="metalcore" role="button">
-E.Town Concrete - The Second Coming (2000-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/caf9d8da-d295-37b8-938c-3bb92c769425/15775067834-500.jpg" data-tags="hard rock" role="button">
 Kid Rock - The History of Rock (2000-05-29)
@@ -309,6 +303,9 @@ Limp Bizkit - Ready To Go (2013-04-12)
 <li data-cover="http://coverartarchive.org/release/68595a05-804f-4895-bdb0-ff56369dad8b/5327569529-500.jpg" data-tags="chaotic hardcore" role="button">
 Stray from the Path - Anonymous (2013-09-17)
 </li>
+<li data-cover="https://img.discogs.com/4SWvFIosbSrVObgVTbP8_E_LjLw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9605634-1483543276-1402.jpeg.jpg" data-tags="djent, rap metal" role="button">
+Devastator - Unconscious (2013-12-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
 Linkin Park - The Hunting Party (2014-06-13)
 </li>
@@ -320,5 +317,8 @@ Rise Of The Northstar - Welcame (2014-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8eecb80-98fd-4dfe-9193-d708f233771d/8757779647-500.jpg" data-tags="alternative metal, rock, alternative rock" role="button">
 Papa Roach - F.E.A.R. (2015-01-23)
+</li>
+<li data-cover="https://img.discogs.com/_TF3oXTRsOEzGqy3vtLO2YqTY90=/fit-in/600x824/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8496793-1462819650-7657.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+System of a Down - Greatest Hits (2016)
 </li>
 </ol>

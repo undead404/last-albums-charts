@@ -1,17 +1,17 @@
 ---
-date: 2021-04-05T17:26:01.389Z
+date: 2021-04-06T20:33:01.384Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
 ![CSS - Cansei De Ser Sexy (2005-10)](https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg "CSS - Cansei De Ser Sexy (2005-10)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">Os Mutantes - Os Mutantes (1968-06)</li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">Mamonas Assassinas - Mamonas Assassinas (1995-06-23)</li>
-<li data-cover="https://img.discogs.com/Z1wUas6SuxWv66SAV5HxXKTZa-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999111-1453207563-8577.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">Engenheiros Do Hawaii - Acústico MTV (2004-11-29)</li>
+<li data-cover="https://img.discogs.com/p4Ka3JygxaUfLwQjCmolv5_AlNk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14825713-1582332673-5237.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">Engenheiros Do Hawaii - Acústico MTV (2004-11-29)</li>
 <li data-cover="http://coverartarchive.org/release/e53c3877-01db-4cd0-99ef-f379b2b99d66/11450096982-500.jpg" data-tags="brazilian" role="button">Los Hermanos - 4 (2005)</li>
-<li data-cover="http://coverartarchive.org/release/ff4bf915-8a21-417d-8c09-04600a7deb41/18504588791-500.jpg" data-tags="brazilian, samba, poetry, mpb" role="button">Chico Buarque - Chico Buarque (2005)</li>
 <li data-cover="http://coverartarchive.org/release/333bb712-ba43-4887-bf0d-0bb8f8fdc764/15739034587-500.jpg" data-tags="brazilian, female vocalists" role="button">Céu - CéU (2005)</li>
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">CSS - Cansei De Ser Sexy (2005-10)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">Marisa Monte - Infinito Particular (2006-03-14)</li>
+<li data-cover="https://img.discogs.com/xVH-CTZ3jRiH1J-EMleJXli3ApU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1394873-1215973578.jpeg.jpg" data-tags="brazilian" role="button">Marisa Monte - Infinito Particular (2006-03-14)</li>
+<li data-cover="http://coverartarchive.org/release/34f60ad7-1d10-4573-8e56-1674ea78310c/24557608344-500.jpg" data-tags="mpb" role="button">Céu - Vagarosa (2009-07-07)</li>
 <li data-cover="http://coverartarchive.org/release/a8a9c11d-03a2-4f31-96e0-8283fe9fe5b7/10615151610-500.jpg" data-tags="bossa nova, brazilian, indie, folk" role="button">Cícero - Canções de Apartamento (2011)</li>
 <li data-cover="http://coverartarchive.org/release/a0b91ae2-76ca-4c5b-9f64-463973ee2947/1921537851-500.jpg" data-tags="pop, brazilian, brega, eletrobrega" role="button">Banda UÓ - Motel (2012-09-04)</li>
 </ol>
@@ -48,7 +48,7 @@ Caetano Veloso - Qualquer Coisa (1975)
 <li data-cover="http://coverartarchive.org/release/f3263c66-0dd6-4da6-b8a0-2c7894f6a8be/5910139749-500.jpg" data-tags="brasil, mpb" role="button">
 Tom Zé - estudando o samba (1975)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb" role="button">
+<li data-cover="https://img.discogs.com/CHGtwynZ4HL4xZlmSyXA_CJ08SE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15110277-1586796908-1424.jpeg.jpg" data-tags="mpb" role="button">
 Chico Buarque - Meus Caros Amigos (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/933292d0-d889-4469-ab7b-cdf992420cc3/23172707718-500.jpg" data-tags="brazilian" role="button">
@@ -69,7 +69,7 @@ Cazuza - Exagerado (1985)
 <li data-cover="http://coverartarchive.org/release/405b99d3-3157-49f9-a6d9-da8602d09d77/17671304804-500.jpg" data-tags="80s, rock" role="button">
 Legião Urbana - Legião Urbana (1985-01-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/49adee94-0cc6-4719-9afa-ef0b9ec5d51c/20509358981-500.jpg" data-tags="rock, 80s, punk, reggae, new wave, post-punk, ska, punk rock, brazilian, brazilian rock, my collection, rock gaucho, engenheiros do hawaii, morpheus songs, nei lisboa, humberto gessinger, carlos maltz, manito, marcelo pitz" role="button">
+<li data-cover="http://coverartarchive.org/release/49adee94-0cc6-4719-9afa-ef0b9ec5d51c/20509358981-500.jpg" data-tags="rock, 80s, punk, reggae, new wave, post-punk, ska, punk rock, brazilian, brazilian rock, rock gaucho, engenheiros do hawaii, morpheus songs, nei lisboa, humberto gessinger, carlos maltz, manito, marcelo pitz" role="button">
 Engenheiros Do Hawaii - Longe Demais Das Capitais (1986-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfcbdba7-dfcd-4cdd-9a1a-3ca8685b33ad/17670955683-500.jpg" data-tags="brazilian rock" role="button">
@@ -96,9 +96,6 @@ Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
 <li data-cover="http://coverartarchive.org/release/98e90fe5-2364-46fd-9a41-0b8d71be8a92/8871803526-500.jpg" data-tags="thrash metal, groove metal" role="button">
 Sepultura - Roots (1996-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7c4bc1c-0624-4a3e-ac48-ccb4356cb688/10026947688-500.jpg" data-tags="brasil, rock, brazilian" role="button">
-Skank - O Samba Poconé (1996-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/c61a099a-7501-46e3-8d13-d048c1216dfa/8301999638-500.jpg" data-tags="brazilian" role="button">
 Caetano Veloso - Livro (1997)
 </li>
@@ -123,14 +120,14 @@ O Rappa - Lado B Lado A (1999-09-15)
 <li data-cover="http://coverartarchive.org/release/083ae6e1-863a-3b63-9a4e-9ba1e440cc43/1901125702-500.jpg" data-tags="electronic, brazilian, brazilectro, sao paulo, very good, homage, solo album, ziriguiboom, instituto suba, opcoes curtir" role="button">
 Suba - Sao Paulo Confessions (1999-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa6c218d-edf7-4293-9ce9-731756e0dd6e/6756058530-500.jpg" data-tags="rock, rap, brazilian, br4z1l14n f4nk7 k0r3" role="button">
-Planet Hemp - A invasão do sagaz homem fumaça (2000)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, adriana calcanhotto" role="button">
 Adriana Calcanhotto - Público (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/cda58eae-cb47-49d4-bb08-d1d8863ed647/2145382610-500.jpg" data-tags="bossa nova" role="button">
 Bebel Gilberto - Tanto Tempo (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac3cc2de-61d7-48c3-99fc-d3ad7d3a848b/2146281950-500.jpg" data-tags="rock, brasil, charlie brown jr" role="button">
+Charlie Brown JR. - 100% Charlie Brown JR - Abalando A Sua Fábrica (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/1adf6e49-e74c-444f-b005-af3dd69757e1/10496581130-500.jpg" data-tags="cassia, mpb" role="button">
 Cássia Eller - Acústico MTV (2001)
@@ -198,7 +195,7 @@ Bebel Gilberto - Bebel Gilberto (2004-06-07)
 <li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
 Angra - Temple of Shadows (2004-09-06)
 </li>
-<li data-cover="https://img.discogs.com/Z1wUas6SuxWv66SAV5HxXKTZa-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999111-1453207563-8577.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">
+<li data-cover="https://img.discogs.com/p4Ka3JygxaUfLwQjCmolv5_AlNk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14825713-1582332673-5237.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">
 Engenheiros Do Hawaii - Acústico MTV (2004-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e53c3877-01db-4cd0-99ef-f379b2b99d66/11450096982-500.jpg" data-tags="brazilian" role="button">
@@ -231,10 +228,10 @@ Caetano Veloso - Cê (2006-01-01)
 <li data-cover="https://img.discogs.com/3wCfQgGKrKIisMXqm6SdVIy3_lU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7213460-1436303052-5502.jpeg.jpg" data-tags="hip hop, pop, bossa nova, mpb, brazilian, samba, latin grammy nominated, teenage years" role="button">
 Sérgio Mendes - Timeless (2006-02-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="brazilian" role="button">
+<li data-cover="https://img.discogs.com/xVH-CTZ3jRiH1J-EMleJXli3ApU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1394873-1215973578.jpeg.jpg" data-tags="brazilian" role="button">
 Marisa Monte - Infinito Particular (2006-03-14)
 </li>
-<li data-cover="https://img.discogs.com/F4Qbd0YzTu6hG3FefEoeUfjMZsk=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-903752-1171163535.jpeg.jpg" data-tags="samba, brazilian" role="button">
+<li data-cover="https://img.discogs.com/cXXLh66VjtFnB7pspldv5E9YZ7s=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9042767-1473774919-7325.jpeg.jpg" data-tags="samba, brazilian" role="button">
 Marisa Monte - Universo Ao Meu Redor (2006-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d085e544-0483-458e-875f-3d0eec00a7d3/6123430973-500.jpg" data-tags="female vocalists, brazilian" role="button">
@@ -281,6 +278,9 @@ Thiago Pethit - Berlim, Texas (2010)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mpb" role="button">
 Tulipa Ruiz - Efêmera (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/25401cf6-0e7e-4156-991e-ce0aec3fd0ab/992490598-500.jpg" data-tags="female vocalists, brazilian" role="button">
+Karina Buhr - Eu Menti pra Você (2010-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8a9c11d-03a2-4f31-96e0-8283fe9fe5b7/10615151610-500.jpg" data-tags="bossa nova, brazilian, indie, folk" role="button">
 Cícero - Canções de Apartamento (2011)

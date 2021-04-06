@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:05:01.446Z
+date: 2021-04-06T20:25:01.434Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -22,6 +22,9 @@ _________________
 
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Thelonious Monk - Monk's Dream (1963)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Chick Corea - Now He Sings, Now He Sobs (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
@@ -32,6 +35,9 @@ Elton John - Goodbye Yellow Brick Road (1973-10-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, billy joel" role="button">
 Billy Joel - Piano Man (1973-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/a48849e9-daed-427a-8f13-b05bbab6a0d5/9519768935-500.jpg" data-tags="jazz, piano" role="button">
+Keith Jarrett - The Köln Concert (1975-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfc0a733-c158-4eb7-9e4b-2a98492857af/8671054041-500.jpg" data-tags="jazz, piano" role="button">
 Bill Evans - You Must Believe in Spring (1981)
@@ -53,9 +59,6 @@ Tori Amos - Under the Pink (1994-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1a4d60a-8910-421c-b4b2-a2ceee5608ce/14901757804-500.jpg" data-tags="classical" role="button">
 Frédéric Chopin - Chopin (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/e701999d-416c-43c2-a369-0f7a13296c86/26825295448-500.jpg" data-tags="90s, piano rock, ben folds" role="button">
-Ben Folds Five - Ben Folds Five (1995-07-25)
 </li>
 <li data-cover="https://img.discogs.com/ILPIzP6NQlyA2Bf4MgVV7FCUpco=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-997207-1230324129.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
 Ludovico Einaudi - Le Onde (1996)
@@ -117,7 +120,7 @@ Vienna Teng - Waking Hour (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/8d1aa57c-5145-4fc9-803d-13638827fe31/6324371592-500.jpg" data-tags="cabaret" role="button">
 The Dresden Dolls - A Is for Accident (2003-05-27)
 </li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbb6fa2e-393f-39a4-94cc-21caa3baf782/4514952186-500.jpg" data-tags="piano" role="button">
@@ -275,9 +278,6 @@ Nils Frahm - Wintermusik (2009-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
 Agnes Obel - Philharmonics (2010-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a0e915f-a2bf-4bee-a085-feba37f906f5/5929827580-500.jpg" data-tags="neoclassical, contemporary classical, post-classical, modern classical, neo-classical, piano" role="button">
-Dustin O'Halloran - Lumiere (2011-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:11:01.372Z
+date: 2021-04-06T20:43:07.003Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
@@ -30,9 +30,6 @@ Slowblow - Slowblow (2004-07-13)
 <li data-cover="http://coverartarchive.org/release/ae39aa8d-3955-412f-8801-fd57b624ed8b/7754380019-500.jpg" data-tags="electronic, dance, electro" role="button">
 Soulwax - Nite Versions (2005-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/be17da0c-a4fe-4c52-9d61-b5af0b6f54a2/5227824032-500.jpg" data-tags="electronic" role="button">
-Joey Fehrenbach - Mellowdrama (2006-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/29c864e5-28ca-3c24-af4d-21d8066c799a/16250073075-500.jpg" data-tags="electronic, electronica, anticon" role="button">
 Tobacco - Fucked Up Friends (2007)
 </li>
@@ -44,6 +41,9 @@ MillionYoung - Sunndreamm EP (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b486ece-791b-4c15-9ec4-e4153da769d6/4827627615-500.jpg" data-tags="lo-fi" role="button">
 Wavves - Wavvves (2009-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/fff84f79-dfc4-37e5-a7c3-269c8316a55b/1251144355-500.jpg" data-tags="dreampop, chillwave" role="button">
+Memory Cassette - Call & Response (2009-06)
 </li>
 <li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
 Memory Tapes - Seek Magic (2009-08-24)
@@ -90,9 +90,6 @@ Blackbird Blackbird - Summer Heart (2010-07-02)
 <li data-cover="http://coverartarchive.org/release/d977c2f2-dfe6-45a5-91bb-f180a9249587/27112054568-500.jpg" data-tags="chillwave" role="button">
 Teen Daze - Four More Years (2010-07-27)
 </li>
-<li data-cover="https://img.discogs.com/GD9AL-kV5ex5f4e-0Hg9Bn8ObY0=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2395663-1583879733-7591.jpeg.jpg" data-tags="witch house" role="button">
-Balam Acab - See Birds (2010-08-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
 Gold Panda - Lucky Shiner (2010-09-07)
 </li>
@@ -111,8 +108,8 @@ Small Black - New Chain (2010-10-25)
 <li data-cover="https://img.discogs.com/aUrgLxIHY9fkjIO8m4LghC4z0_I=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531250-1293487636.jpeg.jpg" data-tags="experimental, abstract, chillwave, synth-pop, witch house, glo-fi, witch chill, newbreed, chill witch, 2010 faves" role="button">
 Laurel Halo - King Felix (2010-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc46474b-67bb-4858-bdb0-7a30ac4d5e5c/4809278289-500.jpg" data-tags="hip-hop, rap, alternative hip-hop, chillwave, alternative rap, cloud rap" role="button">
-Cities Aviv - Digital Lows (2011)
+<li data-cover="http://coverartarchive.org/release/338ebb3f-7c74-45be-8fa8-63197425e5c3/19667290620-500.jpg" data-tags="chillwave, electonic, my best discoveries, my gang 11, songs that remind me of minttea" role="button">
+Pallers - The Sea of Memories (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1329a36-0ad1-4bb9-8024-b579c15c4d17/1266208666-500.jpg" data-tags="dub" role="button">
 Peaking Lights - 936 (2011-02-08)
@@ -150,9 +147,6 @@ Dye - Taki 183 (2011-06-27)
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/14990136-0c6a-49a2-befb-09b3703aa01a/3393506050-500.jpg" data-tags="experimental" role="button">
-XXYYXX - Still Sound (2011-07-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
 </li>
@@ -186,11 +180,11 @@ Mitch Murder - Current Events (2011-11-15)
 <li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
-<li data-cover="https://img.discogs.com/PpnqdJLTsIH_Qm384AfKvR-Db68=/fit-in/300x291/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4240352-1370399174-5609.jpeg.jpg" data-tags="indie, soul, alternative, singer-songwriter, canada, solo, canadian, psychedelic, dreamy, montreal, singer songwriter, alternative pop, quebec, chillwave, 10s, free music, hypnagogic pop, solo artist, edmonton, one man band, netaudio, one-man-band, glo-fi, new weird, bandcamp, free album, solo project, webaudio, weird canada, new weird canada, indie soul, hypnagogic, one man project, arbutus records, canadian underground, one-man-project, arbutus, one  man band, glo-soul" role="button">
-Sean Nicholas Savage - Flamingo (2011-12-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/697082bd-a67e-453a-a63c-6696b06ac98d/2985165419-500.jpg" data-tags="house" role="button">
 John Talabot - ƒin (2012-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/1924bf90-15e3-4a34-902e-18ba2f11acef/5240498709-500.jpg" data-tags="synthwave" role="button">
+Lazerhawk - Visitors (2012-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
@@ -231,6 +225,9 @@ Sophie Hutchings - Night Sky (2012-08-24)
 <li data-cover="http://coverartarchive.org/release/12eb94ea-54f1-4046-92ea-a34bff97e318/14798475045-500.jpg" data-tags="witch house" role="button">
 Holy Other - Held (2012-08-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/9509a46c-b2d9-4ac5-b4a9-f219a18be3b4/22276712313-500.jpg" data-tags="vaporwave, seapunk, vaportrap" role="button">
+Blank Banshee - BLANK BANSHEE 0 (2012-09-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
 Odesza - Summer's Gone (2012-09-06)
 </li>
@@ -267,7 +264,7 @@ Baths - Obsidian (2013-05-28)
 <li data-cover="http://coverartarchive.org/release/b7e59944-880b-471a-af13-85ce7107cfbb/4398354897-500.jpg" data-tags="electronic, brainfeeder" role="button">
 Thundercat - Apocalypse (2013-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/1bc155a9-6ac6-462b-9c57-95f0ed54d407/7097385936-500.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/_oqDWRsgBCOJPV1jjBn93bfB4hE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4862765-1377803830-8667.jpeg.jpg" data-tags="electronic" role="button">
 Samaris - Samaris (2013-07-29)
 </li>
 <li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">
@@ -320,5 +317,8 @@ Arca - Xen (2014-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a1a1bad-2b26-4a77-afda-db20997eb58a/13298046260-500.jpg" data-tags="electronica, glitch-hop, beats, chillwave, intellegent hip-hop" role="button">
 Giraffage - NO REASON (2014-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/35e125c3-e78e-4a4f-b638-527a57ebbefb/21981341896-500.jpg" data-tags="downtempo" role="button">
+Bonobo - Flashlight EP (2014-12-01)
 </li>
 </ol>

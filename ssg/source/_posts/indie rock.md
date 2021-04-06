@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:17:01.438Z
+date: 2021-04-06T20:22:01.431Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Doolittle (1989-04-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
@@ -122,6 +119,9 @@ The Kooks - Inside In/Inside Out (2006-01-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
 Band of Horses - Everything All the Time (2006-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/238e03d1-2a43-4d87-8608-6f2e8a5a66a6/5835269563-500.jpg" data-tags="indie rock, rock" role="button">
+Yeah Yeah Yeahs - Show Your Bones (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)

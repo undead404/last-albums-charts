@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:06:01.365Z
+date: 2021-04-06T20:05:01.972Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -8,7 +8,7 @@ title: "gangsta rap: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">The Notorious B.I.G. - Ready to Die (1994-09-13)</li>
-<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
+<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
@@ -30,7 +30,7 @@ Above the Law - Livin' Like Hustlers (1989-12)
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
 </li>
-<li data-cover="https://img.discogs.com/uVN8iytnTNWlfeqgvdpldiz2954=/fit-in/599x941/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8267521-1458306048-2645.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/OgxUCQkxhj8POjIBQZzR8OkxmBY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6934657-1429871805-2707.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Whodini - Greatest Hits (1990-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
@@ -84,7 +84,7 @@ Scarface - The Diary (1994-10-18)
 <li data-cover="http://coverartarchive.org/release/e000804e-5320-445a-8ee1-d6d285e44a0f/4774292059-500.jpg" data-tags="gangsta rap" role="button">
 Spice 1 - AmeriKKKa's Nightmare (1994-11-22)
 </li>
-<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
 <li data-cover="https://img.discogs.com/HFjFo-odqbZg5DNTJdhAVDbKWl4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468156-1167307287.jpeg.jpg" data-tags="gangsta rap, g-funk" role="button">
@@ -132,7 +132,7 @@ DMX - It's Dark And Hell Is Hot (1998-05-19)
 <li data-cover="http://coverartarchive.org/release/01a98e51-cc5b-4244-9aec-6c3552d1e774/14285343454-500.jpg" data-tags="gangsta rap" role="button">
 Kurupt - Kuruption! (1998-10-06)
 </li>
-<li data-cover="https://img.discogs.com/er8VFrLJbfJGIdzycc7iLmWXs_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1702214-1237940370.jpeg.jpg" data-tags="rap, 2pac" role="button">
+<li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdfbf57-5e2b-44f8-938c-c30c76de4bad/10735639975-500.jpg" data-tags="gangsta rap, g-funk, rap, west coast rap" role="button">
@@ -164,9 +164,6 @@ Cypress Hill - Stoned Raiders (2001-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c61954d-6496-421c-a3a5-95d3f6015320/2434216412-500.jpg" data-tags="rap" role="button">
 Ice Cube - Greatest Hits (2001-12-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/114cb23c-8382-4b86-ac69-93b56a1d650d/14906482604-500.jpg" data-tags="hip-hop, rap" role="button">
-Fat Joe - Jealous Ones Still Envy (J.O.S.E.) (2001-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5043588-ff22-40d0-b738-60ce6a817537/9609881130-500.jpg" data-tags="rap" role="button">
 Clipse - Lord Willin' (2002-04-01)
@@ -278,6 +275,9 @@ The Game - LAX (2008-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e4ac0c8-0188-4fb6-a2ed-211cf6e3f95d/13970824493-500.jpg" data-tags="hip-hop, rap" role="button">
 DMX - The Best Of DMX (2010-01-26)
+</li>
+<li data-cover="https://img.discogs.com/lkr1cpwkJQjMGsT1qM3LCIMweVo=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1982222-1256571740.jpeg.jpg" data-tags="gangsta rap" role="button">
+Jae Millz - The Time Is Now (2010-08-17)
 </li>
 <li data-cover="https://img.discogs.com/jQvH2RM7qJ2k7LqOYPG_-vpFGio=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9917019-1490040312-5311.jpeg.jpg" data-tags="west coast hip hop" role="button">
 Ice Cube - I Am The West (2010-09-10)

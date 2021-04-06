@@ -1,13 +1,13 @@
 ---
-date: 2021-04-06T10:30:01.550Z
+date: 2021-04-06T20:12:01.397Z
 title: "sad: 100 albums you must listen to before you die"
 ---
-![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
+![Gary Jules - Trading Snakeoil For Wolftickets (2001)](https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg "Gary Jules - Trading Snakeoil For Wolftickets (2001)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">Gary Jules - Trading Snakeoil For Wolftickets (2001)</li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)</li>
-<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">Antony and the Johnsons - I Am a Bird Now (2005-02-01)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
@@ -54,7 +54,7 @@ Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
 Tori Amos - Little Earthquakes (1992-01-13)
 </li>
-<li data-cover="https://img.discogs.com/fQv2KV5yNBJYDKiRboFG818gVZM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-768698-1557041748-4013.jpeg.jpg" data-tags="50s" role="button">
+<li data-cover="https://img.discogs.com/a39OKpNU4p3Xo9ueCu9ccbs24cs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2450769-1453472778-8428.jpeg.jpg" data-tags="50s" role="button">
 Buddy Holly - Buddy Holly (1993)
 </li>
 <li data-cover="https://img.discogs.com/BpORMXrTrP0_prtni1QOBOQl8zk=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1423146-1237613420.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
@@ -105,9 +105,6 @@ Gary Jules - Trading Snakeoil For Wolftickets (2001)
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
 </li>
-<li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
-Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
-</li>
 <li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
 Azure Ray - November (2002-01-22)
 </li>
@@ -132,7 +129,7 @@ The Cardigans - Long Gone Before Daylight (2003-03-24)
 <li data-cover="http://coverartarchive.org/release/3e5e8698-8ed5-4807-ba58-dc91e1685a37/17600926681-500.jpg" data-tags="barsuk" role="button">
 The Long Winters - When I Pretend to Fall (2003-05-06)
 </li>
-<li data-cover="https://img.discogs.com/euerc5eBdFXgKtFsdqimgdJktmU=/fit-in/300x281/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223015-1389537890-6461.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/mGkUaVwkEPSyW92Ls_yp1mWo2IQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764161-1379971553-7990.jpeg.jpg" data-tags="indie" role="button">
 Saves the Day - In Reverie (2003-09-16)
 </li>
 <li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
@@ -159,7 +156,7 @@ IAMX - Kiss + Swallow (2004-10-18)
 <li data-cover="http://coverartarchive.org/release/2f2549b6-d0e5-47f6-a7ee-d1d4aab27496/16354126929-500.jpg" data-tags="trip-hop, indie, unplugged" role="button">
 Archive - Unplugged (2004-11-02)
 </li>
-<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
@@ -320,5 +317,8 @@ Macy Gray - The Way (2014-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3b9547-7a3c-49aa-af8a-40329db86b07/14478533949-500.jpg" data-tags="emo" role="button">
 Moose Blood - I'll Keep You In Mind, From Time to Time (2014-10-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+Iron & Wine - 9/20/02 (2018-08-31)
 </li>
 </ol>

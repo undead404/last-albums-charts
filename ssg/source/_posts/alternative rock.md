@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:45:01.723Z
+date: 2021-04-06T20:08:01.444Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -147,7 +147,7 @@ Linkin Park - Meteora (2003-03-24)
 <li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative, 2003" role="button">
 Radiohead - Hail to the Thief (2003-05-26)
 </li>
-<li data-cover="https://img.discogs.com/F2cpcdILzz-YBjRBN9JCs-TkyB0=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1107422-1251012254.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/eGx6Y-3O73jhjS-yqKsK2RzAty8=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386093-1449454879-5476.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Hoobastank - The Reason (2003-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
@@ -270,9 +270,6 @@ Coldplay - Viva la Vida (2008-06-11)
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
-Nickelback - Dark Horse (2008-11-17)
-</li>
 <li data-cover="https://img.discogs.com/f7U71TW78iTsAmU3YTnnZEbZOag=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3318367-1325538474.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
@@ -299,6 +296,9 @@ OneRepublic - Waking Up (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6221bd54-033d-4876-b722-736b4e95686b/4193279921-500.jpg" data-tags="alternative rock" role="button">
 30 Seconds to Mars - This Is War (2009-12-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
+Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)

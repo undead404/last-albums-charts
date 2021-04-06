@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:19:01.486Z
+date: 2021-04-06T20:06:01.569Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -288,6 +288,9 @@ Paramore - Brand New Eyes (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
+Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
 </li>
@@ -299,9 +302,6 @@ Foster the People - Torches (2011-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
-Florence + the Machine - Ceremonials (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)

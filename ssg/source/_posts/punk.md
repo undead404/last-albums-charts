@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:00:01.997Z
+date: 2021-04-06T20:27:01.450Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -60,7 +60,7 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 <li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
 </li>
-<li data-cover="https://img.discogs.com/eBfyVHFymkgNMNzLX9SCfbbkcGk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703430-1518836224-8197.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
+<li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7/13029912226-500.jpg" data-tags="punk" role="button">
@@ -78,7 +78,7 @@ Fugazi - 13 Songs (1989-09)
 <li data-cover="http://coverartarchive.org/release/c2dab6ed-1a4e-49a6-9abc-6be95c03dbda/4804372334-500.jpg" data-tags="punk, punk rock" role="button">
 Social Distortion - Social Distortion (1990-03-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska, rock" role="button">
+<li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">
 Sublime - 40 Oz. to Freedom (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/da173a7b-ba7a-4958-86d4-70d229217cd9/21926789326-500.jpg" data-tags="punk rock" role="button">
@@ -93,7 +93,7 @@ The Offspring - Smash (1994-03-22)
 <li data-cover="http://coverartarchive.org/release/7167fb50-0fc1-3735-82bd-83b5069e77c4/4801784404-500.jpg" data-tags="punk, punk rock" role="button">
 NOFX - Punk in Drublic (1994-07-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ska" role="button">
+<li data-cover="https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg" data-tags="ska" role="button">
 Sublime - Sublime (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/20b3efeb-255a-3fde-8275-401bcf506489/3947787054-500.jpg" data-tags="punk" role="button">
@@ -104,9 +104,6 @@ Jawbreaker - Dear You (1995-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/37037911-c633-4ec8-9793-2c80cdbfedac/5690341799-500.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Insomniac (1995-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
-Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f0a1564-a748-302f-abc3-0a0b3f934a50/2349398736-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ixnay on the Hombre (1997-02-05)
@@ -210,7 +207,7 @@ New Found Glory - Catalyst (2004-05-18)
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c50d3d01-3f3a-3685-9ad6-58d7942a31be/3374165987-500.jpg" data-tags="garage rock, 2004" role="button">
+<li data-cover="http://coverartarchive.org/release/c50d3d01-3f3a-3685-9ad6-58d7942a31be/3374165987-500.jpg" data-tags="garage rock" role="button">
 The Hives - Tyrannosaurus Hives (2004-07-19)
 </li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
@@ -275,6 +272,9 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4a4ea60-71e7-47cc-be21-4bbf74e98c21/14771760838-500.jpg" data-tags="pop punk, punk, alternative rock" role="button">
 +44 - When Your Heart Stops Beating (2006-10-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
+The Hives - The Black and White Album (2007-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a890e9a6-90cf-4665-8928-2123f792355f/2960964314-500.jpg" data-tags="rock, pop punk" role="button">
 Good Charlotte - Good Morning Revival (2007-03-14)

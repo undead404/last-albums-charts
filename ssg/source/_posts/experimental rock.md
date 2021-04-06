@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:28:01.370Z
+date: 2021-04-06T19:49:01.452Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -93,14 +93,14 @@ Beck - Mellow Gold (1994-03-01)
 <li data-cover="https://img.discogs.com/UmAW3Ky8RixkWUQ3TiMy4xN2x8I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-439361-1277068552.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
 Slint - Slint (1994-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/73503b2d-538f-431b-9ff4-2c6af04f7beb/10401957300-500.jpg" data-tags="post-punk, industrial" role="button">
-Swans - The Great Annihilator (1995-01-23)
-</li>
 <li data-cover="https://img.discogs.com/ucvUD-sDbK35og8mqC6aTXQ9SEc=/fit-in/420x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12878829-1543701567-1987.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
 Primus - Tales From The Punchbowl (1995-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e3e2b8a-adfb-3690-b0c3-03b78205049d/1958490670-500.jpg" data-tags="post-rock" role="button">
+Swans - Soundtracks For The Blind (1996-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)

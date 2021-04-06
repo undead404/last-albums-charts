@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:57:01.399Z
+date: 2021-04-06T20:09:01.425Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -105,9 +105,6 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
 The Fray - How to Save a Life (2005-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
-The Veronicas - The Secret Life of... (2005-08-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
 </li>
@@ -125,6 +122,9 @@ The All-American Rejects - Move Along (2006)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 P!nk - I'm Not Dead (2006-03-31)
+</li>
+<li data-cover="https://img.discogs.com/RsTwOzdQV0rLfhLpcGflBcsnSSQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730509-1511732076-4446.jpeg.jpg" data-tags="rock" role="button">
+Orson - Bright Idea (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/61710908-1bb8-4fd9-99b0-f9e0ad6f7d7f/9587442144-500.jpg" data-tags="pop punk" role="button">
 Boys Like Girls - Boys Like Girls (2006-08-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:10:01.454Z
+date: 2021-04-06T19:48:01.535Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -53,9 +53,6 @@ Damien Rice - O (2002-07-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Interpol - Turn on the Bright Lights (2002-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/24bd9621-0b64-4897-ac4d-50c7519d1017/21664410934-500.jpg" data-tags="indie rock, indie" role="button">
-The Libertines - Up the Bracket (2002-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a62cd38-0405-33c0-ade2-6be951f7b777/8606673911-500.jpg" data-tags="indie, indie rock" role="button">
 Broken Social Scene - You Forgot It In People (2002-10-15)
@@ -117,7 +114,7 @@ Interpol - Antics (2004-09-27)
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
 </li>
-<li data-cover="https://img.discogs.com/PD-7ipbDqLRiHS2eIae_5OmrkvI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4279031-1360520797-9582.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">
@@ -182,6 +179,9 @@ The Decemberists - The Crane Wife (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
+Damien Rice - 9 (2006-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)

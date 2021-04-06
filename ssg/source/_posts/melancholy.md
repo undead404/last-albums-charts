@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:18:01.390Z
+date: 2021-04-06T20:37:01.394Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Kings of Convenience - Riot on an Empty Street (2004-06-21)](https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg "Kings of Convenience - Riot on an Empty Street (2004-06-21)")
@@ -108,7 +108,7 @@ Elliott Smith - Figure 8 (2000-04-17)
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
-<li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
+<li data-cover="https://img.discogs.com/cHUskTMOXpjFZxo6YoARZwH1iwY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2118329-1293876009.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
 </li>
 <li data-cover="https://img.discogs.com/lsz4cKVgVZ2Y5vbRL35Nv2_vGoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9784862-1526804148-7507.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">
@@ -125,9 +125,6 @@ The Frames - For The Birds (2001-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
 Kings of Convenience - Versus (2001-10-22)
-</li>
-<li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
-Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
 </li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
@@ -302,6 +299,9 @@ Rival Sons - Head Down (2012-09-14)
 </li>
 <li data-cover="https://img.discogs.com/Djv5b13QAyfy5eLM5VjnWXwJMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5746150-1586903982-4077.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/72d8365e-491d-4e5e-b20b-eb689cb34b88/21944987702-500.jpg" data-tags="ambient, alternative, piano, cinematic, contemporary classical, melancholy, minimalism, melancholic, modern classical, neo-classical, experimental-ambient, minimal ambient, minimalist, neoclassical, modern composition, post-classical, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
+Clem Leek - Rest (2013-02-20)
 </li>
 <li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)

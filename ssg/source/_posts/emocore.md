@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:46:01.419Z
+date: 2021-04-06T20:04:01.605Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -62,6 +62,9 @@ AFI - Sing the Sorrow (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/09b178d6-592e-465e-b171-06bbb745e8a6/22180051994-500.jpg" data-tags="post-hardcore, emo, screamo" role="button">
 Silverstein - When Broken Is Easily Fixed (2003-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
+Thrice - The Artist In The Ambulance (2003-07-22)
 </li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)
@@ -182,9 +185,6 @@ Bullet for My Valentine - Tears Don't Fall (2006-06-23)
 </li>
 <li data-cover="https://img.discogs.com/9mNRDBfMxg-ccMi1IvZEIqyzFJs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709392-1566235854-9761.jpeg.jpg" data-tags="metalcore, hardcore, screamo, emocore" role="button">
 Across Five Aprils - Collapse (2006-07-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
-My Chemical Romance - Welcome To The Black Parade (2006-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
@@ -315,7 +315,7 @@ Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
 <li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
