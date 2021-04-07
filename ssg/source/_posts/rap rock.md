@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:45:01.907Z
+date: 2021-04-07T14:59:08.018Z
 title: "rap rock: 100 albums you must listen to before you die"
 ---
 ![Beastie Boys - Licensed to Ill (1986-11-15)](http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg "Beastie Boys - Licensed to Ill (1986-11-15)")
@@ -63,6 +63,9 @@ Xero - Xero (1996)
 <li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
+<li data-cover="https://img.discogs.com/Eo0MarKejSQrfRqkaXpoEp9cpDI=/fit-in/376x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2646217-1361308175-5963.jpeg.jpg" data-tags="rock, rap rock, pamenu juos" role="button">
+ŽAS - Dozė (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 </li>
@@ -80,9 +83,6 @@ Clawfinger - Clawfinger (1997-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/991dbf44-6051-4c74-98f7-3a0c96a52cfb/9771616053-500.jpg" data-tags="detroit, psychopathic, detroit rap" role="button">
 Twiztid - Mostasteless (1997-11-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rap rock" role="button">
-Goldo - Goldo (1998-05-05)
 </li>
 <li data-cover="https://img.discogs.com/WxfrcTp_H4S6YtLNXKYoACQtjmY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372960-1119523483.jpg.jpg" data-tags="rock, hard rock" role="button">
 Kid Rock - Devil Without a Cause (1998-08-18)
@@ -131,6 +131,9 @@ Detonautas Roque Clube - Detonautas Roque Clube (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/dea8d7d1-1823-4635-a536-8ca487a91e8c/5329372313-500.jpg" data-tags="rap" role="button">
 Tech N9ne - Absolute Power (2002-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/af4bf0a4-fb9d-4416-ac27-281be2243587/25418008359-500.jpg" data-tags="stoner" role="button">
+Kottonmouth Kings - Rollin' Stoned (2002-10-08)
 </li>
 <li data-cover="https://img.discogs.com/VcU3dNkwSmv2PuzUX0KXgPHttx8=/fit-in/600x944/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3956878-1350481267-7256.jpeg.jpg" data-tags="alternative rock, nu metal" role="button">
 Crazy Town - Darkhorse (2002-11-12)
@@ -263,9 +266,6 @@ Hollywood Undead - American Tragedy (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ad68739-56d8-4f0f-8827-c1edce4db98b/3450139962-500.jpg" data-tags="electronic, alternative rock, rap rock" role="button">
-Under the Influence - Bad Habits Die Hard (2011-10-10)
 </li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)

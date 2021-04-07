@@ -1,15 +1,15 @@
 ---
-date: 2021-04-06T23:14:01.398Z
+date: 2021-04-07T15:25:01.476Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Ultraviolence (2014-06-13)](http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg "Lana Del Rey - Ultraviolence (2014-06-13)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/WXNRYJfkH8pJeCAsM8U-pMloOs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12550185-1537442499-1106.jpeg.jpg" data-tags="psychedelic rock, 60s, classic rock, psychedelic" role="button">Jefferson Airplane - Surrealistic Pillow (1967-02)</li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">The Doors - The Doors (1967-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/64026228-12c3-4532-b220-4da206ce02bd/1920531008-500.jpg" data-tags="psychedelic rock" role="button">The Doors - Strange Days (1967-10)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)</li>
+<li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)</li>
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">The Doors - Morrison Hotel (1970-02)</li>
 <li data-cover="http://coverartarchive.org/release/e68f23df-61e3-4264-bfc3-17ac3a6f856b/5132812481-500.jpg" data-tags="classic rock, psychedelic rock" role="button">The Doors - L.A. Woman (1971-04)</li>
+<li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">The Doors - The Doors (1988)</li>
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">Tame Impala - Innerspeaker (2010-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="2012" role="button">Tame Impala - Lonerism (2012-10-05)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg" data-tags="60s, classic rock" role="button">
 The Turtles - Happy Together (1966)
 </li>
-<li data-cover="https://img.discogs.com/Jrb3lbZzH6HbC-_G5-WjfJovguM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7915575-1456169542-1746.jpeg.jpg" data-tags="60s, pop" role="button">
+<li data-cover="https://img.discogs.com/6zeKi7qZ3ocCnjduPKAjJPdQVrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2901061-1491103293-7751.jpeg.jpg" data-tags="60s, pop" role="button">
 The Beach Boys - Pet Sounds (1966-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f648e2-9c6d-32df-b5ee-ccab3e696a51/16250684845-500.jpg" data-tags="classic rock, 60s, rock" role="button">
@@ -33,7 +33,7 @@ The Beatles - Revolver (1966-08-05)
 <li data-cover="https://img.discogs.com/59VKM1D5Kjp7kDdG-nsCga1Xgj4=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10874006-1505742440-5550.jpeg.jpg" data-tags="psychedelic rock, psychedelic, 60s" role="button">
 13th Floor Elevators - The Psychedelic Sounds of the 13th Floor Elevators (1966-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues rock, classic rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/0h4cQRflb7QZo0Nwbtf1YTTIbKM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5051745-1392911107-7148.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Fresh Cream (1966-12-09)
 </li>
 <li data-cover="https://img.discogs.com/WXNRYJfkH8pJeCAsM8U-pMloOs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12550185-1537442499-1106.jpeg.jpg" data-tags="psychedelic rock, 60s, classic rock, psychedelic" role="button">
@@ -42,7 +42,7 @@ Jefferson Airplane - Surrealistic Pillow (1967-02)
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
-<li data-cover="https://img.discogs.com/Q9nF04xwoW0BfbMUEUdXET3jV84=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179262-1590077335-9715.jpeg.jpg" data-tags="psychedelic rock, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/Vu4jQjQNYVfIU-IOManIkLcna3U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2018049-1510345968-8926.jpeg.jpg" data-tags="psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Are You Experienced (1967-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">
@@ -54,16 +54,13 @@ Pink Floyd - The Piper at the Gates of Dawn (1967-07-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic" role="button">
 Captain Beefheart & His Magic Band - Safe As Milk (1967-09)
 </li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
-The Doors - The Doors (1967-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/64026228-12c3-4532-b220-4da206ce02bd/1920531008-500.jpg" data-tags="psychedelic rock" role="button">
 The Doors - Strange Days (1967-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
 </li>
-<li data-cover="https://img.discogs.com/48VEXkrs6Ee4C_syqGcqckXbx3s=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1268501-1205101177.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/JsopqGSweccxL0U-dy5xFQ73d-Q=/fit-in/461x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4486102-1366259991-5187.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Disraeli Gears (1967-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
@@ -75,7 +72,7 @@ The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
 <li data-cover="http://coverartarchive.org/release/7217595f-d6be-4bde-9289-6636243f9eda/15863951043-500.jpg" data-tags="psychedelic rock" role="button">
 Jefferson Airplane - Crown Of Creation (1968)
 </li>
-<li data-cover="https://img.discogs.com/mwbRQWj4DLZ_Py_xS44WHyEp33c=/fit-in/600x622/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2000772-1533626543-8736.jpeg.jpg" data-tags="psychedelic rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/asYBY9m4rxEqONDPvT2NQhX960E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1134038-1194804524.jpeg.jpg" data-tags="psychedelic rock, classic rock" role="button">
 Iron Butterfly - In-A-Gadda-Da-Vida (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6e3a5a2-d2be-4806-9afb-9e2fd4914d32/7717083844-500.jpg" data-tags="blues rock" role="button">
@@ -87,7 +84,7 @@ Blue Cheer - Vincebus Eruptum (1968-01-16)
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
 </li>
-<li data-cover="https://img.discogs.com/93htr8Md-rC5PJHiEvKkbs1BQns=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3586760-1459206475-8593.jpeg.jpg" data-tags="60s, psychedelic, baroque pop, classic rock" role="button">
+<li data-cover="https://img.discogs.com/oefQ2RDmVKeNQ3OtQ_RM2Aqg5QQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7770535-1530199219-3636.jpeg.jpg" data-tags="60s, psychedelic, baroque pop, classic rock" role="button">
 The Zombies - Odessey and Oracle (1968-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
@@ -96,7 +93,7 @@ Pink Floyd - A Saucerful of Secrets (1968-06-29)
 <li data-cover="http://coverartarchive.org/release/cffaf406-bc87-4633-9d99-cea7d6106bf6/2987749144-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Waiting for the Sun (1968-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
@@ -114,7 +111,7 @@ The Doors - The Soft Parade (1969-07)
 <li data-cover="http://coverartarchive.org/release/53e9678a-90dd-3c32-8d28-1584b612f95f/9839280602-500.jpg" data-tags="psychedelic rock, progressive rock" role="button">
 Pink Floyd - Ummagumma (1969-10-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/Hh14whL1PQxQRxK1d0k1Ipxmets=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1586134-1313541166.jpeg.jpg" data-tags="60s, psychedelic rock" role="button">
 Jefferson Airplane - Volunteers (1969-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/060d740e-f6b7-362b-a860-4006d0118d6d/18616327845-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
@@ -150,8 +147,8 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, the doors" role="button">
-The Doors - Greatest Hits (1980)
+<li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
+The Doors - The Doors (1988)
 </li>
 <li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
@@ -207,7 +204,7 @@ MGMT - Metanoia (2008-08-12)
 <li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Dig Out Your Soul (2008-10-01)
 </li>
-<li data-cover="https://img.discogs.com/g-igybHzZqhYGZMz_4FVF_Jwsq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8626346-1465413631-3546.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
+<li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
 </li>
 <li data-cover="https://img.discogs.com/eHjqePMXJt9CAC02XTYPOgRuOM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2754782-1385772773-8148.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
@@ -287,6 +284,9 @@ Thee Oh Sees - Floating Coffin (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/caae6490-8ba4-4b39-8ad9-8913cfd662ba/4281390549-500.jpg" data-tags="experimental, indie rock, 2010s, incredible, the good shit" role="button">
 Portugal. The Man - Evil Friends (2013-05-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
+Arcade Fire - Reflektor (2013-09-09)
 </li>
 <li data-cover="https://img.discogs.com/lGAChHi9miFP_i1bHlNneNO3LpQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4904237-1378997377-6191.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
 MGMT - MGMT (2013-09-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:33:01.455Z
+date: 2021-04-07T15:36:01.819Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -177,7 +177,7 @@ Bright Eyes - Motion Sickness (2001-01-26)
 <li data-cover="http://coverartarchive.org/release/f477086a-4bda-4855-8360-06752f1159f8/12525987749-500.jpg" data-tags="epic, 90s, brasil, live, brazilian rock, legiao urbana" role="button">
 Legião Urbana - Como é que se diz eu te amo (2001-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, acoustic, live" role="button">
+<li data-cover="https://img.discogs.com/B5pmuFgY3MtL88e1nH3kOXo_0-k=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-505696-1371179473-1118.jpeg.jpg" data-tags="indie, acoustic, live" role="button">
 Jeff Mangum - Live at Jittery Joe's (2001-08-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc85b1de-cf7e-3241-9022-fea31857beab/16360798338-500.jpg" data-tags="electronic, electronica, french, electro, house, live, daft punk" role="button">
@@ -191,9 +191,6 @@ Nine Inch Nails - And All That Could Have Been (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
-</li>
-<li data-cover="https://img.discogs.com/wsth58Vm-20-xd2QGRkYbUsXRfc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6369706-1418122645-1265.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
-Björk - Homogenic Live (2003-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3e5f94-ba19-32a5-a7c0-8787356a46f0/5960364405-500.jpg" data-tags="live" role="button">
 Coldplay - Live 2003 (2003-11-01)
@@ -258,6 +255,9 @@ Seether - One Cold Night (2006-06-11)
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
 </li>
+<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="live, pop, dance" role="button">
+Madonna - The Confessions Tour (2007-01-29)
+</li>
 <li data-cover="https://img.discogs.com/pFFecob40VP1dxGso8TVmZHV4jA=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4897340-1545558377-6427.jpeg.jpg" data-tags="live" role="button">
 The Used - Berth (2007-02-06)
 </li>
@@ -300,7 +300,7 @@ Leonard Cohen - Live In London (2009-03-31)
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">
 Coldplay - LeftRightLeftRightLeft (2009-05-15)
 </li>
-<li data-cover="https://img.discogs.com/F7kAv-USBoD_V75FxbB-pJnbkJM=/fit-in/450x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369487-1280026294.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/xlzzWAfS_HOIwT1TnY1DZncP0YQ=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993212-1257301050.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/addacb4d-bb2e-4f66-9246-fd15bfdc3576/15497181552-500.jpg" data-tags="live" role="button">
