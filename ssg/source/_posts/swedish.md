@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T23:35:01.387Z
+date: 2021-04-07T14:20:01.441Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -102,6 +102,9 @@ Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
 <li data-cover="https://img.discogs.com/IS5V2qnm5VrH3GnH0l2LpIOWbY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-620057-1139399009.jpeg.jpg" data-tags="indie, alternative, swedish, folk, singer-songwriter, svenskt, 2000s, hupin, singing songwriters, irack, d2004, tiger lou  ttttttttttttttttttttt, samipop" role="button">
 Tiger Lou - Is my head still on? (2004-03-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2bfa71ba-2e99-4145-bf6c-63861d04ea92/7301076123-500.jpg" data-tags="melodic death metal" role="button">
+In Flames - Soundtrack to Your Escape (2004-03-17)
+</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
@@ -111,7 +114,7 @@ Mando Diao - Hurricane Bar (2004-09-08)
 <li data-cover="http://coverartarchive.org/release/33194adb-690c-4978-822b-a4e6e7c26b66/16406458688-500.jpg" data-tags="pop, swedish" role="button">
 Peter Bjorn and John - Falling Out (2004-10-20)
 </li>
-<li data-cover="https://img.discogs.com/beKc7sAiHUweEnNafpZsZziLVjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608223-1572388236-8158.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
+<li data-cover="https://img.discogs.com/G9kv_Cz0yCIcRwzezpldjlGmDcQ=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1319382-1350940693-5232.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
 Robyn - Robyn (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/217c3eef-272e-475b-9959-d9e6f092369c/3671648879-500.jpg" data-tags="indie" role="button">
@@ -221,9 +224,6 @@ Dead by April - Dead by April (2009-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f48b7db-b2a9-4122-a631-4b49321c9af0/10270263185-500.jpg" data-tags="indie" role="button">
 Fanfarlo - Reservoir (2009-06-08)
-</li>
-<li data-cover="https://img.discogs.com/azrGozdNtE2YKltQspOG9n76ymA=/fit-in/389x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1894389-1251416847.jpeg.jpg" data-tags="pop, swedish" role="button">
-Sally Shapiro - My Guilty Pleasure (2009-08-24)
 </li>
 <li data-cover="https://img.discogs.com/bp3QB6PymXeiI_Qej9FuLdAMmOw=/fit-in/408x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2912134-1311324602.jpeg.jpg" data-tags="swedish, folk, female singer songwriter, svenska, melissa horn, skandinawien, m horn" role="button">
 Melissa Horn - Säg ingenting till mig (2009-10-09)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:05:01.535Z
+date: 2021-04-07T14:43:01.495Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - In Silico (2008-05-09)](http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg "Pendulum - In Silico (2008-05-09)")
@@ -29,9 +29,6 @@ Origin Unknown - Valley of the Shadows (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bb1f14a-893d-3392-839e-79838118213c/6557357686-500.jpg" data-tags="trip-hop, electronic, 90s" role="button">
 Everything But the Girl - Walking Wounded (1996-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd19ec3d-5080-4c56-ad59-1e230d7425f4/2660189297-500.jpg" data-tags="electronic, idm" role="button">
-Squarepusher - Feed Me Weird Things (1996-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
@@ -104,9 +101,6 @@ Kosheen - Resist (2001-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ef61f72-c6be-4cc4-94ab-5c74c1b71fad/8525462514-500.jpg" data-tags="drum and bass" role="button">
 Aphrodite - Aftershock (2002-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2840251-375a-3e3a-8c06-6714d1edb41b/8189295779-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Out From Out Where (2002-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
@@ -303,8 +297,14 @@ Maduk - Ghost Assassin EP (2012-07-16)
 <li data-cover="http://coverartarchive.org/release/fd1faa20-3446-49ac-b157-9b7db785ee2f/23101941298-500.jpg" data-tags="electronic, trip-hop, drum and bass, female vocal, need to listen, favorite albums 2012" role="button">
 Kosheen - Independence (2012-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
+Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/ec6d908f-cf79-4225-a20f-7796ad248661/8830440426-500.jpg" data-tags="drum and bass" role="button">
 Rudimental - Home (2013-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
+AlunaGeorge - Body Music (2013-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/92bfdde9-ae72-4eae-a0bf-a8b1642f90fc/5327695217-500.jpg" data-tags="drum and bass" role="button">
 Sub Focus - Torus (2013-09-30)

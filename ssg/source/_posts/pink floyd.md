@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:33:01.597Z
+date: 2021-04-07T13:56:01.614Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -108,9 +108,6 @@ Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
 <li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Double Hits Collection, Volume 1 (1987-10-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/23ae9ee1-2caa-48f4-8daf-e51174e4f61a/8272749947-500.jpg" data-tags="trance, remix, pink floyd, chilled out, good reading or napping music" role="button">
-Pink Floyd - Meddle: Limited Edition Trance Remix (1987-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/45e99e44-c955-4d44-94b9-8f0e1593fa12/23911853040-500.jpg" data-tags="psychedelic rock, classic rock, psychedelic" role="button">
 Syd Barrett - Opel (1988-10-17)
 </li>
@@ -153,7 +150,7 @@ David Gilmour - New Game (1992)
 <li data-cover="http://coverartarchive.org/release/c1b3f914-0b7f-3ee2-90ff-df83a62f4eb6/15706012837-500.jpg" data-tags="progressive rock" role="button">
 Roger Waters - Amused to Death (1992-09-01)
 </li>
-<li data-cover="https://img.discogs.com/Q5nclIeVKF5xj4YcR9-kGstjfVs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2233670-1452981816-5780.jpeg.jpg" data-tags="freddie mercury" role="button">
+<li data-cover="https://img.discogs.com/wAGllDNEQrs_oZjV6vcJVxFAYgM=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256318-1204578693.jpeg.jpg" data-tags="freddie mercury" role="button">
 Freddie Mercury - The Great Pretender (1992-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1a03c0a-ff86-31b0-ad3e-27bcf758a14a/7108619466-500.jpg" data-tags="progressive rock" role="button">
@@ -258,13 +255,16 @@ Chelsea Wolfe - Mistake in Parting (2006-09-01)
 <li data-cover="http://coverartarchive.org/release/62ab0e3d-eecc-4e3a-807d-7dcd28aee4d9/1612145208-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - Best Ballads (2006-09-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/23ae9ee1-2caa-48f4-8daf-e51174e4f61a/8272749947-500.jpg" data-tags="trance, remix, pink floyd, chilled out, good reading or napping music" role="button">
+Pink Floyd - Meddle: Limited Edition Trance Remix (2006-09-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ec16d9d-f953-4ca2-add5-a0af5e3d855b/16251209190-500.jpg" data-tags="soundtrack, pink floyd" role="button">
 Pink Floyd - Zabriskie Point (2006-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c6f861e-c347-4c5c-aed1-eae205297c67/8906628497-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
 カヒミ・カリィ - Nunki (2006-10-25)
 </li>
-<li data-cover="https://img.discogs.com/9YoeendwzP_Ar8nuyLvxeESzQU8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14414334-1574083367-6594.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
+<li data-cover="https://img.discogs.com/fYvnH9PdmGtTlbGyly9NW-Ulv_c=/fit-in/450x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949737-1189947436.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
 Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b603c9dc-b1f8-4282-883f-4cbd051ef5d3/20156050715-500.jpg" data-tags="indie, pop" role="button">

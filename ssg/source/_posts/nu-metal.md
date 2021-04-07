@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T04:47:01.432Z
+date: 2021-04-07T14:01:01.613Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -74,6 +74,9 @@ Lostprophets - The Fake Sound of Progress (2000-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/841b85f1-b88c-4b55-adc6-a675e1482e9c/16182675188-500.jpg" data-tags="heavy metal, metal, alternative metal, nu metal" role="button">
 Nonpoint - Development (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/789e4855-63c7-4fe3-8148-c3dc9e1f6d47/17554289373-500.jpg" data-tags="metal, alternative metal, industrial metal" role="button">
+Mushroomhead - XX (2001-05-08)
 </li>
 <li data-cover="https://img.discogs.com/BZcAVXS5bx_QwHuPWufCEzvwRqY=/fit-in/518x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4438087-1364864404-5773.jpeg.jpg" data-tags="nu metal" role="button">
 Drowning Pool - Sinner (2001-06-05)
@@ -317,8 +320,5 @@ Slipknot - The Devil In I (2014-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f66b0034-2511-4d5f-b0a7-345e330604d3/8142145163-500.jpg" data-tags="heavy metal, alternative metal, nu metal" role="button">
 Slipknot - .5: The Gray Chapter (Special Edition) (2014-10-15)
-</li>
-<li data-cover="https://img.discogs.com/LRjU0x_eDpdstguzRcUA336LPq0=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8350850-1460219419-7739.jpeg.jpg" data-tags="covers" role="button">
-Deftones - Covers (2016-04-08)
 </li>
 </ol>
