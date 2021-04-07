@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:06:06.923Z
+date: 2021-04-07T04:52:01.385Z
 title: "edm: 100 albums you must listen to before you die"
 ---
 ![Tiësto - A Town Called Paradise (2014-06-13)](http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg "Tiësto - A Town Called Paradise (2014-06-13)")
@@ -42,9 +42,6 @@ Detroit Grand Pubahs - Galactic Ass Creatures From Uranus (2004-10-18)
 <li data-cover="http://coverartarchive.org/release/9cc1018c-ccec-4aa8-aea8-0bf3a6160ce8/21319948307-500.jpg" data-tags="nu jazz, hip-hop, chillout, electronic, electronica, trip-hop, electropop, downtempo, electro, dance, lo-fi, house, electro house, acid jazz, idm, groove, lounge, trip hop, club, funky, ninja tune, broken beat, remix, breaks, breakbeat, nu-jazz, electrojazz, dj, electro funk, neo-soul, edm, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
 One Self - Be Your Own (2005-04-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
-Arietys - Humanité (2006-02-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/a05abebe-0e73-4ed9-9760-795a7ae9dd1a/5815430687-500.jpg" data-tags="dark electro" role="button">
 The Synthetic Dream Foundation - Behind the Gates of Horn and Ivory (2008-04)
 </li>
@@ -66,6 +63,9 @@ Juju & Jordash - Techno Primitivism (2009-10-01)
 <li data-cover="http://coverartarchive.org/release/7c795ba6-7326-4540-978b-c9bd835501bf/6522774075-500.jpg" data-tags="k-pop" role="button">
 T-ARA - Absolute First Album (2009-12-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/53f58e12-0c27-4974-bd06-2a64d552f624/8297316851-500.jpg" data-tags="k-pop" role="button">
+T-ARA - Breaking Heart (2009-12-04)
+</li>
 <li data-cover="https://img.discogs.com/TNHaq8rn0XHRAnPUG1UsltyFMnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10540685-1499526193-7382.jpeg.jpg" data-tags="electropop, female vocalists, electro, dance, dance-pop, electro pop, progressive house, female vocals, dance pop, drum & bass, edm, vocal dance, dancepop, veela, female vocal dance, female dance vocals" role="button">
 Veela - Prelude EP (2010)
 </li>
@@ -86,9 +86,6 @@ Oliver Koletzki & Fran - Lovestoned (2010-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/fdacf640-e6f5-4197-ad6c-d7f9ae06ee0d/5606815690-500.jpg" data-tags="pop" role="button">
 Kaci Battaglia - Bring It On (2010-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/baffbf35-1786-4ae0-8e45-048fd48bd85f/5822582008-500.jpg" data-tags="electronic, electronica, indie, experimental, indie electronic, dance, piano, house, indietronica, soundscape, driving music, avant-garde, american, avantgarde, nostalgic, ethereal, party music, rainy day, relaxing, depressing, samples, alternative dance, sampled, alternative hip-hop, indietronic, indie electronica, emotion, 10s, 2010s, creative commons, summery, dance party, sampling, summer music, sample, danceable, edm, midwest, emotions, night time, instrumentals, united states, indiana, electronicadance, atmosphere, alternative hip hop, danceable beats, daydream, electronic indie, alternative urban, electronic-lounge, loungehouse, sliced" role="button">
-KatazTrophee - Opening The Box: The B-Sides (2010-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f109edf-fc79-4547-919d-f9e8d4c73b1c/7544018664-500.jpg" data-tags="electronica, edm" role="button">
 ::M∆DE::IN::HEIGHTS:: - Made In Heights (2010-12-23)
@@ -126,6 +123,9 @@ Eptic - Eptic EP (2011-10-24)
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b1194d2-3fea-4552-8f2b-50adc6f0f8fd/2917057284-500.jpg" data-tags="k-pop, t-ara" role="button">
+T-ARA - Funky Town (2011-11-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/f062e5a5-7c5d-4fd1-8e52-997861671a79/22886182451-500.jpg" data-tags="house" role="button">
 OVERWERK - The Nth º (2011-11-30)
 </li>
@@ -159,6 +159,9 @@ The M Machine - Metropolis Pt. I (2012-04-24)
 <li data-cover="https://img.discogs.com/3SdNEbPx01j4lTSmXkFKcMpokX4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14039695-1566629502-8555.jpeg.jpg" data-tags="j-pop" role="button">
 T-ARA - Jewelry Box (2012-06-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/19a46038-4ba8-43b0-ae8f-b5a8f1c1bdc6/8178488287-500.jpg" data-tags="dark electro, edm, aggrotech" role="button">
+Sleetgrout - We had a Carnival (2012-06-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/da1361f8-c1e6-48d4-bdb7-61d06d9fdc17/21875113276-500.jpg" data-tags="k-pop" role="button">
 T-ARA - Mirage (2012-07-03)
 </li>
@@ -171,17 +174,14 @@ The Cataracs - Gordo Taqueria (2012-07-17)
 <li data-cover="http://coverartarchive.org/release/d6130ab3-ab8a-4660-a8e0-724f4fbf6c5c/2066292202-500.jpg" data-tags="dance" role="button">
 Havana Brown - When the Lights Go Out (2012-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/56475b7b-7d29-4cad-82b5-c2b1ba135dd9/25359805091-500.jpg" data-tags="chillout, electronic, electronica, electropop, electroclash, downtempo, electro, dance, techno, house, electro house, minimal, idm, groove, club, remix, progressive house, deep house, dj, tech-house, female artists, funky house, edm, nu-disco, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
-Mia Dora - Occam's EP (2012-09-17)
+<li data-cover="http://coverartarchive.org/release/1cb2effd-e7be-49f3-b727-3a6c0134569e/13391572803-500.jpg" data-tags="nu jazz, chillout, electronic, electronica, trip-hop, electropop, downtempo, dance, techno, house, electro house, groove, club, deep house, dj, tech-house, disco house, deep techno, edm, nu-disco, nu disco, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
+Monkey Safari - Hi Life (2012-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/07ac7353-e407-4118-89e3-69c6a9fc8078/16905873208-500.jpg" data-tags="electronica, chill, house, remix, edm, vgm, doni, gamechops" role="button">
-Doni - Goombette (2012-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f705d37-aa27-4aee-bbd2-f8cd93984c31/3039149086-500.jpg" data-tags="pop" role="button">
 Rihanna - Unapologetic (2012-11-19)
@@ -243,7 +243,7 @@ Madonna - MDNA World Tour (2013-09-06)
 <li data-cover="http://coverartarchive.org/release/d46cb428-7455-4dbc-b0f5-905ca2d6e8c8/5145357162-500.jpg" data-tags="electronic, dance, electro house" role="button">
 The Bloody Beetroots - HIDE (2013-09-16)
 </li>
-<li data-cover="https://img.discogs.com/Xud_fDHca0GjUdbaNUuK3GnwpGA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5231620-1528513873-7380.jpeg.jpg" data-tags="dubstep" role="button">
+<li data-cover="https://img.discogs.com/I8KJkhh1Y205o8fx29B_Xx-g0Rg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5023308-1382396199-7898.jpeg.jpg" data-tags="dubstep" role="button">
 Krewella - Get Wet (2013-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/92bfdde9-ae72-4eae-a0bf-a8b1642f90fc/5327695217-500.jpg" data-tags="drum and bass" role="button">
@@ -251,6 +251,9 @@ Sub Focus - Torus (2013-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/366d5664-beb8-4532-a9d7-cf6cda3068b6/14065824625-500.jpg" data-tags="hip-hop, trap, edm, moombahton, edm trap, twerk music" role="button">
 Diplo - Revolution (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/39e1a603-d8ac-4957-99fa-8c115fd1e40a/13662332602-500.jpg" data-tags="k-pop" role="button">
+T-ARA - AGAIN 1977 (2013-10-10)
 </li>
 <li data-cover="https://img.discogs.com/bzkui0aRuxdOCeus2i__1I1INe8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5001817-1381821314-8290.jpeg.jpg" data-tags="electronic, dubstep, house, electro house, 10s, days of the week, edm, brostep, complextro, food and drink" role="button">
 Feed Me - Calamari Tuesday (2013-10-14)
@@ -264,20 +267,17 @@ Lady Gaga - ARTPOP (2013-11-05)
 <li data-cover="http://coverartarchive.org/release/3ee75d22-2166-445f-8056-2d3d6ab63133/6430328455-500.jpg" data-tags="pop" role="button">
 Britney Spears - Britney Jean (2013-11-29)
 </li>
-<li data-cover="https://img.discogs.com/M-iO_dT5YdNvILcyXL9e0ZNoz8Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6898570-1429040106-8522.jpeg.jpg" data-tags="electronic, electronica, dance, techno, house, electro house, minimal house, minimal, minimal techno, idm, club, deep house, dj, tech-house, edm, nu-bluz funky grooves in the e-lounge" role="button">
-Douglas Greed - Fake (2014-03-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/be5bf2db-1687-49c2-ae05-b124b681bc11/8013196005-500.jpg" data-tags="dubstep" role="button">
 Skrillex - Recess (2014-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce823317-ca6e-453b-9bc6-de2838bed8db/8784491885-500.jpg" data-tags="electronica, electropop, indie, chill, instrumental, british, ambient, experimental, uk, electro, easy listening, ambient pop, new age, techno, house, indietronica, abstract, idm, bass, synth, atmospheric, free, breaks, summer, introspective, psychill, beats, synthpop, ethereal, synthesizer, braindance, ambient idm, bigbeat, sunshine, bleep, relax, ambient techno, chill out, electronic music, sun, spring, electro-pop, edm, birds, instrumentals, juno, nottingham, forest, free download, breakstep, ambient house, plunderphonics, uk funky, ambient drone, bandcamp, woods, vaporwave, spotify, headphone, ambient piano, synthwave, boc, synthesiser, idm-ambient, ambient jungle, synth-wave, experimental house, washed out, ambient beats, ambient downtempo, dx7, synth music, beattape, arps, idm breaks, mallsoft, ambient breakstep, ambient tech house, sea punk, electronicmusic, diskortion, disko-ions, diskortion records, ambient synthwave" role="button">
-Disko-ions - Pineselect Day EP (2014-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba3e03cb-bacf-400c-bb0c-e51f34edbb7e/27217499460-500.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Savages (2014-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e34bd314-6063-4fcb-843b-029bc735360a/6695927398-500.jpg" data-tags="pop, rap" role="button">
 Iggy Azalea - The New Classic (2014-04-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/fff745fe-13c4-421d-885f-fa443a7475c1/7150391268-500.jpg" data-tags="creative commons, edm, bandcamp, halley labs" role="button">
+Renard - SHOUNEN BASS (2014-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe35c241-cce7-4168-92c9-48d8537cb811/7618751272-500.jpg" data-tags="chillout, electronic, electronica, downtempo, dance, techno, house, minimal, groove, club, glasgow, progressive house, deep house, tech-house, san francisco, funky house, edm, electronic-lounge, funkgasm, nu-bluz funky grooves in the e-lounge, bay area best" role="button">
 Dave Aju - Black Frames (2014-05-16)

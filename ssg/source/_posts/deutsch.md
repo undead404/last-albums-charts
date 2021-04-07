@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:59:01.373Z
+date: 2021-04-07T05:34:01.495Z
 title: "deutsch: 100 albums you must listen to before you die"
 ---
 ![Die Fantastischen Vier - Fornika (2007-04-07)](http://coverartarchive.org/release/8208c422-13eb-4ade-98e4-fd551f3cd67a/12899177229-500.jpg "Die Fantastischen Vier - Fornika (2007-04-07)")
@@ -84,7 +84,7 @@ Die Toten Hosen - Auswärtsspiel (2002-01-21)
 <li data-cover="https://img.discogs.com/xGvkXOyRDVoU71fFnepT6jXcJgQ=/fit-in/160x159/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030151-1185961466.jpeg.jpg" data-tags="deutschrock, rock, german" role="button">
 Sportfreunde Stiller - Die gute Seite (2002-04-02)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="german" role="button">
+<li data-cover="https://img.discogs.com/aKGZZY2YKAMrt0FWKGUSegb4ST4=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-580150-1216849792.jpeg.jpg" data-tags="german" role="button">
 Herbert Grönemeyer - Mensch (2002-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8f0c329-8158-445c-ae57-d77a3d4d86b6/7853015432-500.jpg" data-tags="deutsch, german" role="button">
@@ -135,8 +135,11 @@ Juli - Es ist Juli (2004-09-20)
 <li data-cover="http://coverartarchive.org/release/4491c9fe-763b-3925-9c2a-69b8dd7b64c7/3421500176-500.jpg" data-tags="hip hop, german, german hip hop" role="button">
 Die Fantastischen Vier - Viel (2004-09-27)
 </li>
-<li data-cover="https://img.discogs.com/QO83dqPERF0SxHZ6_HqZiTqeqmM=/fit-in/188x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5979073-1413723946-5863.jpeg.jpg" data-tags="punk rock, punk" role="button">
+<li data-cover="https://img.discogs.com/8Iw0YxfDJuZjhcc2D0E0G9hz0mI=/fit-in/599x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14552470-1576925172-3616.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Die Toten Hosen - Zurück zum Glück (2004-10-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/02947a26-1a4c-42ec-b7b3-85c553c985d9/3375668388-500.jpg" data-tags="deutsch, click, various clickclick" role="button">
+ClickClickDecker - Ich Habe Keine Angst Vor... (2005-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ef75fd8-9b02-4bfc-bacd-002846dc6f63/5555494044-500.jpg" data-tags="deutsch" role="button">
 Kettcar - Von Spatzen und Tauben, Dächern und Händen (2005-03-07)
@@ -156,7 +159,7 @@ Madsen - Madsen (2005-05-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, deutsch, grand hotel van cleef, colours, sophomore album, pinossa soittimen vieressa" role="button">
 Olli Schulz & der Hund Marie - Das beige Album (2005-06-27)
 </li>
-<li data-cover="https://img.discogs.com/e84VeEkaHXl-_E6C82BkIGBSJFQ=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1566386-1228911964.jpeg.jpg" data-tags="emo, german, tokio hotel, rock" role="button">
+<li data-cover="https://img.discogs.com/G02_wI1hRJo7nOuoOExIdBu22hs=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695819-1372415689-1175.jpeg.jpg" data-tags="emo, german, tokio hotel, rock" role="button">
 Tokio Hotel - Schrei (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6692240d-55c2-471f-8b9e-f4b5f575e2d1/16951049106-500.jpg" data-tags="german, rock" role="button">
@@ -173,9 +176,6 @@ Muff Potter - Von Wegen (2005-10-07)
 </li>
 <li data-cover="https://img.discogs.com/GUq_JB_l0I6gNuYQSQcD1jqJhAU=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1910644-1502355394-1079.jpeg.jpg" data-tags="reggae, dancehall" role="button">
 Seeed - Next! (2005-10-14)
-</li>
-<li data-cover="https://img.discogs.com/LOra1OcgVvThWazvQTQQ1CbxJOc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030196-1538332713-1103.jpeg.jpg" data-tags="deutsch" role="button">
-Hansen Band - Keine Lieder über Liebe (2005-10-24)
 </li>
 <li data-cover="https://img.discogs.com/sZbSvdposjfGuynavkvmDoasLY8=/fit-in/567x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6154288-1412527828-7889.jpeg.jpg" data-tags="soul, deutsch, xavier naidoo" role="button">
 Xavier Naidoo - Telegramm für X (2005-11-25)
@@ -213,8 +213,8 @@ Oomph! - Delikatessen (2006-12-01)
 <li data-cover="http://coverartarchive.org/release/8208c422-13eb-4ade-98e4-fd551f3cd67a/12899177229-500.jpg" data-tags="hip hop, deutsch, german" role="button">
 Die Fantastischen Vier - Fornika (2007-04-07)
 </li>
-<li data-cover="https://img.discogs.com/9Zmwat6J-bSlyq_U41G7S8MsLos=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700781-1237851517.jpeg.jpg" data-tags="deutsch, covers" role="button">
-Erdmöbel - No. 1 Hits (2007-05-25)
+<li data-cover="https://via.placeholder.com/450" data-tags="deutsch, lomoli, nordufer, sral, die kranken schwestern, mitsnakker, micha maat, schmmoos, minitimer katzenposter, aggroschlager, les bummms boys, sun of a gun" role="button">
+Fertig, Los! - Das Herz ist ein Sammler (2007-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3f836e8-2445-4a48-888f-f54894b93192/10431486482-500.jpg" data-tags="pop, deutsch, german" role="button">
 Wir sind Helden - Soundso (2007-05-25)
@@ -258,9 +258,6 @@ Klee - Berge versetzen (2008-08-01)
 <li data-cover="https://img.discogs.com/Z8fZAd0RvvrRuyWLNR8nblD_efY=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13364776-1559511721-3658.jpeg.jpg" data-tags="industrial metal" role="button">
 Oomph! - Monster (2008-08-20)
 </li>
-<li data-cover="https://img.discogs.com/gwi3v56ylJ0ci0baBA9KAFBWOhw=/fit-in/586x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1456920-1221150320.jpeg.jpg" data-tags="deutsch" role="button">
-PeterLicht - Melancholie und Gesellschaft (2008-09-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">
 Peter Fox - Stadtaffe (2008-09-26)
 </li>
@@ -279,7 +276,7 @@ Tokio Hotel - Humanoid (2009-10-06)
 <li data-cover="http://coverartarchive.org/release/efd254da-374f-4e8b-a971-5c424b217f1d/9819901623-500.jpg" data-tags="rock, german" role="button">
 Oomph! - Truth or Dare (2010-02-26)
 </li>
-<li data-cover="https://img.discogs.com/EyE6WzAJ3yPxoqVHnWLdmmBbeyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420330-1530364845-6925.jpeg.jpg" data-tags="lena" role="button">
+<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
 Lena - Satellite (2010-03-13)
 </li>
 <li data-cover="https://img.discogs.com/Ti1Bh4JX4YRxQhEpnRsX8WcZXQM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11294056-1513606486-6527.jpeg.jpg" data-tags="hip hop, deutsch" role="button">
@@ -287,6 +284,9 @@ Die Fantastischen Vier - Für Dich Immer Noch Fanta Sie (2010-05-14)
 </li>
 <li data-cover="https://img.discogs.com/sRmEz0x86tbZ6fitHAUFOtZDAFE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2412823-1491302342-1348.jpeg.jpg" data-tags="electronic, micha maat, aggroschlager" role="button">
 Marteria - Zum Glück in die Zukunft (2010-08-20)
+</li>
+<li data-cover="https://img.discogs.com/TfxRFG2a8jt0huysa7bKL_aEzmI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2682039-1606551917-8470.jpeg.jpg" data-tags="deutsch, singer/songwriter, liebe, herz, tanzen, sucht, micha, poisel, geliebt, maat, nur mit dir, komm zurueck, micha maat, der moment, stille der nacht, zeig mir den weg" role="button">
+Philipp Poisel - Bis nach Toulouse (2010-08-27)
 </li>
 <li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
 Wir sind Helden - Bring mich nach Hause (2010-08-27)

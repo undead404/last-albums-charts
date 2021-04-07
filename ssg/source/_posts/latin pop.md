@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T09:34:06.936Z
+date: 2021-04-07T05:27:06.966Z
 title: "latin pop: 100 albums you must listen to before you die"
 ---
 ![Juanes - Mi Sangre (2004-09-28)](http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg "Juanes - Mi Sangre (2004-09-28)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, guitar" role="button">
+<li data-cover="https://img.discogs.com/8ag1vFClogG9X-9IvfzmmIJJYPU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270599-1323269054.jpeg.jpg" data-tags="classic rock, guitar" role="button">
 Santana - Samba Pa Ti (1988-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a0f9951-da70-4731-bf4d-50ffbd9baf49/10134225946-500.jpg" data-tags="latin, latin pop" role="button">
@@ -36,7 +36,7 @@ Luis Miguel - Aries (1993-06-22)
 <li data-cover="http://coverartarchive.org/release/818d8278-b9a2-4e61-b265-dd6e57a2aa6c/8319524557-500.jpg" data-tags="latin" role="button">
 Gloria Estefan - Mi Tierra (1993-06-22)
 </li>
-<li data-cover="https://img.discogs.com/as7sw2U6YM_pqGw0a7tzsR8_NTI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8553345-1463927658-7075.jpeg.jpg" data-tags="tejano, selena" role="button">
+<li data-cover="https://img.discogs.com/2UDRM8KBHrh2TVTbnhtSPU_0I4Q=/fit-in/300x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-556786-1137599233.jpeg.jpg" data-tags="tejano, selena" role="button">
 Selena - Amor Prohibido (1994-03-22)
 </li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
@@ -63,7 +63,7 @@ Thalía - Amor a la Mexicana (1997-07-01)
 <li data-cover="https://img.discogs.com/4eaE4Nh8kBkI45O2qC92TzFx_YA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459341-1281089166.jpeg.jpg" data-tags="latin pop, pop" role="button">
 Natalia Oreiro - Natalia Oreiro (1998)
 </li>
-<li data-cover="https://img.discogs.com/9Lo6ocKA0uPWCJ7poBkU2hMJyDg=/fit-in/600x955/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5840998-1601401609-2009.jpeg.jpg" data-tags="latin" role="button">
+<li data-cover="https://img.discogs.com/uhtWtyjsps4qpye-jxhAj7uNpAE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843072-1396451672-1423.jpeg.jpg" data-tags="latin" role="button">
 Ricky Martin - Vuelve (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2a699be-f839-3fd1-bb88-92fa121d243c/10960525571-500.jpg" data-tags="shakira" role="button">
@@ -101,9 +101,6 @@ Christina Aguilera - Mi Reflejo (2000-09-12)
 </li>
 <li data-cover="https://img.discogs.com/TNbTicqr0_J0-aEMYJhH-NA7F5E=/fit-in/583x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1388691-1301646667.jpeg.jpg" data-tags="latin, 00s" role="button">
 Ricky Martin - Sound Loaded (2000-11-07)
-</li>
-<li data-cover="https://img.discogs.com/tAG3N95aghlEtM_PHFgU4K05rXs=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5527995-1608533100-9478.jpeg.jpg" data-tags="pop, female vocalists, latin pop" role="button">
-Mónica Naranjo - Chicas Malas (2001)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sin bandera" role="button">
 Sin Bandera - Sin Bandera (2001)
@@ -150,19 +147,22 @@ Shakira - Grandes Exitos (2002-11-05)
 <li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">
 Tribalistas - Tribalistas (2002-12-17)
 </li>
+<li data-cover="https://img.discogs.com/3-UHSk5GpZPeTvX1O1K3ngICM5k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2147975-1598753381-7338.jpeg.jpg" data-tags="latin pop" role="button">
+Lu - Lu (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/8617b918-df71-4547-8302-0fe902bd1d99/19663828347-500.jpg" data-tags="spanish, pop" role="button">
 La Oreja de Van Gogh - Lo que te conté mientras te hacías la dormida (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6d5f2f-27b0-41a8-bde7-2885a725324e/7969509263-500.jpg" data-tags="spanish, pop, female vocalists, latin pop, teen pop" role="button">
 Belinda - Belinda (2003-08-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="sin bandera" role="button">
+<li data-cover="https://img.discogs.com/2vYhM-bwoVriaTPeRjmK0z1GalY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11749483-1521731526-1286.jpeg.jpg" data-tags="sin bandera" role="button">
 Sin Bandera - De Viaje (2003-08-21)
 </li>
 <li data-cover="https://img.discogs.com/ScCarVGhuxxBq37x1HAqniVJ1og=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4917090-1537588079-4373.jpeg.jpg" data-tags="latin, latin pop" role="button">
 Enrique Iglesias - 7 (2003-10-25)
 </li>
-<li data-cover="https://img.discogs.com/e2Z-hHDXqfF8PwH5ajQfp5hOZhg=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916442-1307145382.jpeg.jpg" data-tags="spanish, latin, mexico, spanish rock, alternative pop, pop-rock, latin pop, mexican, latin grammy nominated, my whole damn collection, julietta venegas okay" role="button">
+<li data-cover="https://img.discogs.com/mDgqGCHtS5QcIjLslTumzElfVQ8=/fit-in/200x179/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347070-1307145634.jpeg.jpg" data-tags="spanish, latin, mexico, spanish rock, alternative pop, pop-rock, latin pop, mexican, latin grammy nominated, my whole damn collection, julietta venegas okay" role="button">
 Julieta Venegas - Sí (2003-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/59b1330d-1453-471e-8c49-843c4c0e62b9/17276953195-500.jpg" data-tags="latin pop, stop, latin grammy nominated, para mi princesa" role="button">

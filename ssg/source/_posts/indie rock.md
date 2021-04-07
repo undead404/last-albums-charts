@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T20:22:01.431Z
+date: 2021-04-07T05:43:01.420Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
+Neutral Milk Hotel - On Avery Island (1996-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
@@ -81,9 +84,6 @@ Arcade Fire - Funeral (2004-09-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">
 Interpol - Antics (2004-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
-Jimmy Eat World - Futures (2004-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 </li>
@@ -114,7 +114,10 @@ Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (2005-10-11)
 <li data-cover="https://img.discogs.com/GZj09Ik8oBlnkfsciUXe30xwx44=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600813-1137121798.jpeg.jpg" data-tags="indie rock" role="button">
 We Are Scientists - With Love And Squalor (2005-10-17)
 </li>
-<li data-cover="https://img.discogs.com/PCmkZ2NyDReemZdjRlMy8WVF6ZU=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-849535-1432632499-7270.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
+The Strokes - First Impressions of Earth (2005-12-30)
+</li>
+<li data-cover="https://img.discogs.com/UgYBf3eY904cb7WoJCaJgScI9yc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4047995-1510080801-8275.jpeg.jpg" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d27bca5f-6ef2-4824-bee5-2f0332930cc9/6877126624-500.jpg" data-tags="indie rock" role="button">
@@ -179,9 +182,6 @@ Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bce96cc-8d4f-38f3-97d5-decb81ab7119/14968666106-500.jpg" data-tags="indie rock" role="button">
 The National - Boxer (2007-05-21)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
-Spoon - Ga Ga Ga Ga Ga (2007-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
@@ -270,7 +270,7 @@ Kings of Leon - Come Around Sundown (2010-10-15)
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
-<li data-cover="https://img.discogs.com/fjkqLjXigy3tZo2ZAyynt2QXjj0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13360887-1552756400-8491.png.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/00ee87de-e714-47ed-8197-314d43d5a6ad/3330596020-500.jpg" data-tags="indie rock, indie" role="button">

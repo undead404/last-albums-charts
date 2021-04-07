@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T20:05:01.972Z
+date: 2021-04-07T05:31:08.000Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -29,9 +29,6 @@ Above the Law - Livin' Like Hustlers (1989-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
-</li>
-<li data-cover="https://img.discogs.com/OgxUCQkxhj8POjIBQZzR8OkxmBY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6934657-1429871805-2707.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
-Whodini - Greatest Hits (1990-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
 N.W.A - Niggaz4Life (1991-05-28)
@@ -260,6 +257,9 @@ DMX - The Definition Of X: Pick Of The Litter (2007-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">
 50 Cent - Curtis (2007-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e07b93d-e10f-4cc7-8590-526394a5eed3/24142213336-500.jpg" data-tags="gangsta rap, hip-hop and rnb, hurricane chris" role="button">
+Hurricane Chris - 51/50 Ratchet (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2218578-270a-4339-9943-a9d38876f30d/10313891153-500.jpg" data-tags="rap" role="button">
 Birdman - 5 * Stunna (2007-12-11)

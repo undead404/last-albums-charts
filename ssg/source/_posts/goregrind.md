@@ -1,12 +1,12 @@
 ---
-date: 2021-04-06T11:02:01.583Z
+date: 2021-04-07T05:18:01.392Z
 title: "goregrind: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/19142eb1-c7b9-390b-ac19-14a3fefc8aa4/23477447943-500.jpg" data-tags="death metal, goregrind, grindcore" role="button">Carcass - Symphonies of Sickness (1989-11)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
-<li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
+<li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">Deafheaven - Roads to Judah (2011-04-26)</li>
@@ -24,13 +24,13 @@ _________________
 <li data-cover="http://coverartarchive.org/release/9fe5884e-d9aa-3941-841f-4aa6f1510c01/10372150117-500.jpg" data-tags="goregrind, grindcore" role="button">
 Carcass - Reek of Putrefaction (1988-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grindcore" role="button">
+<li data-cover="https://img.discogs.com/IRDXfVdxYglRlRj16OeeJnli9Io=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-790305-1396394102-9674.jpeg.jpg" data-tags="grindcore" role="button">
 Repulsion - Horrified (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/19142eb1-c7b9-390b-ac19-14a3fefc8aa4/23477447943-500.jpg" data-tags="death metal, goregrind, grindcore" role="button">
 Carcass - Symphonies of Sickness (1989-11)
 </li>
-<li data-cover="https://img.discogs.com/nnXhkQG9ybbCB-DwaXcMWul3RRI=/fit-in/458x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468932-1151794542.jpeg.jpg" data-tags="grindcore, goregrind" role="button">
+<li data-cover="https://img.discogs.com/G6T9IkJfU6z5FFvaXTZburxKsrE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2333768-1365193145-6600.jpeg.jpg" data-tags="grindcore, goregrind" role="button">
 Impetigo - Ultimo Mondo Cannibale (1990-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/33145562-42b2-37cb-816a-ee4b85e68f09/10372497864-500.jpg" data-tags="death metal" role="button">
@@ -39,7 +39,7 @@ Carcass - Necroticism: Descanting the Insalubrious (1991-10)
 <li data-cover="https://img.discogs.com/zxMUnzRERNzOyPuyRfUDBQ5yABY=/fit-in/458x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-763306-1156295954.jpeg.jpg" data-tags="death metal" role="button">
 Impetigo - Horror of the Zombies (1992)
 </li>
-<li data-cover="https://img.discogs.com/bJonz8HoYkbzy08B85fViJP0zA8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4798971-1593743753-7149.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
+<li data-cover="https://img.discogs.com/r-BBNj1LBBHNxxqYgDpc7mvDpjE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15621398-1594697375-2445.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
 Insane Clown Posse - Carnival of Carnage (1992-10-18)
 </li>
 <li data-cover="https://img.discogs.com/rYGnelHsce98oMbmyt_XL6img-g=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15680849-1595798643-8925.jpeg.jpg" data-tags="hip-hop, detroit, second wave black metal" role="button">
@@ -72,13 +72,13 @@ Mortician - Chainsaw Dismemberment (1999-06-29)
 <li data-cover="http://coverartarchive.org/release/d1730f3c-29b0-4d23-8979-19b5e4968cb0/8563624694-500.jpg" data-tags="goregrind" role="button">
 Cattle Decapitation - Homovore (2000)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="detroit, michigan" role="button">
+<li data-cover="https://img.discogs.com/t-EvFCe7qG41RIsl8oYUU82Wm6A=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775449-1533478255-2498.jpeg.jpg" data-tags="detroit, michigan" role="button">
 Blaze Ya Dead Homie - Blaze Ya Dead Homie (2000-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a044122-510a-499f-9d2e-c10f67ada4bf/14279596904-500.jpg" data-tags="grindcore, death metal, deathgrind, haohmaru" role="button">
 Exhumed - Slaughtercult (2000-08-06)
 </li>
-<li data-cover="https://img.discogs.com/M4wxOo-EVaYaVlRI_dc_vS592no=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3589065-1428940273-7193.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
+<li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae969879-e20c-47d0-a366-6bb9f7e2c118/20589272117-500.jpg" data-tags="hip-hop, psychopathic, horrorcore" role="button">
@@ -117,7 +117,7 @@ Aborted - Goremageddon: The Saw and the Carnage Done (2003-04-22)
 <li data-cover="http://coverartarchive.org/release/f44fe25a-2a46-438b-9aca-5c7db1a80bbe/24223776060-500.jpg" data-tags="death metal" role="button">
 Exhumed - Anatomy Is Destiny (2003-07-29)
 </li>
-<li data-cover="https://img.discogs.com/JXaLMhJYJVL7tqQHgpYmv60fUqY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454482-1333877155.jpeg.jpg" data-tags="dudu, tarkan" role="button">
+<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1490068-1c82-49f1-b64f-d3f785e37ec6/11453395761-500.jpg" data-tags="goregrind" role="button">
@@ -177,9 +177,6 @@ Brokencyde - BC13 (2008-03-27)
 <li data-cover="http://coverartarchive.org/release/51eab306-8240-4c4c-83a8-b320b3651815/9668781634-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm" role="button">
 Blood on the Dance Floor - Let's Start a Riot (2008-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/2ca973fc-76b4-4877-974d-b7ecea932c09/5591754000-500.jpg" data-tags="grindcore" role="button">
-Jig-Ai - Katana Orgy (2008-07-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/f65431b3-f8cb-4093-a9c9-9108827e9987/9954080401-500.jpg" data-tags="beer, scat, dustin lynch" role="button">
 Blood on the Dance Floor - It's Hard to Be a Diamond in a Rhinestone World (2008-09-12)
 </li>
@@ -189,13 +186,13 @@ Colt Ford - Ride Through The Country (2008-12-02)
 <li data-cover="http://coverartarchive.org/release/944c0440-8285-4a98-bcea-238e51f534e3/2512771498-500.jpg" data-tags="crunkcore" role="button">
 Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
-<li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/FjLGaTafIscM8hQMlZ18AdraIVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7271769-1437699076-6523.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f1084d9-0451-4e0a-980c-1760598c761b/17673861246-500.jpg" data-tags="death metal" role="button">
 Cattle Decapitation - The Harvest Floor (2009-01-19)
 </li>
-<li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
+<li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d42068e9-4627-4a32-8127-5b1a3eaf60fe/17629111381-500.jpg" data-tags="psychopathic, horrorcore" role="button">
@@ -203,6 +200,9 @@ Twiztid - W.I.C.K.E.D. (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
+</li>
+<li data-cover="https://img.discogs.com/Yi_XOAkQGi-qWdO0HPWH-690QQc=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748710-1503598896-8622.jpeg.jpg" data-tags="pop" role="button">
+Jonas Brothers - Lines, Vines and Trying Times (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/98655166-b00e-4fe8-8ee1-bd36d6e85917/7576589725-500.jpg" data-tags="brutal death metal" role="button">
 Devourment - Unleash the Carnivore (2009-06-26)
@@ -249,7 +249,7 @@ Black Veil Brides - We Stitch These Wounds (2010-07-20)
 <li data-cover="http://coverartarchive.org/release/afa2dc03-f369-4b5e-9f64-eb70d0d7a415/9668187513-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm, graphic design is my passion" role="button">
 Blood on the Dance Floor - Epic (2010-10-05)
 </li>
-<li data-cover="https://img.discogs.com/DuflA-9wI0wFDqYa5hnuJs7trNU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3834731-1574656345-6023.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">

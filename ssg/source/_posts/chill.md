@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:56:01.418Z
+date: 2021-04-07T05:32:06.953Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -33,10 +33,13 @@ Tosca - Fuck Dub (1997-09-05)
 <li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
 Alpha - Come From Heaven (1997-09-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/6adfb691-676d-44d2-aac4-96827ce62597/16156254622-500.jpg" data-tags="trip-hop, chill, downbeat, trip hop, relaxing, thievery corporation" role="button">
+Thievery Corporation - Lebanese Blonde (1998-11-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
 </li>
-<li data-cover="https://img.discogs.com/JWuw0UE5HpiFwbNxrVzNNAPGvzY=/fit-in/600x634/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533033-1395824414-7881.jpeg.jpg" data-tags="chill, eerie" role="button">
+<li data-cover="https://img.discogs.com/4GIwxuXIOoVGrQ5ACZIQngfMHls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311614-1498923162-2560.jpeg.jpg" data-tags="chill, eerie" role="button">
 Air - Playground Love (2000-01-17)
 </li>
 <li data-cover="https://img.discogs.com/JEY2_TU_EjI0KyZQpik9qP0mL6E=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83089-1379059481-7854.jpeg.jpg" data-tags="electronica, everything but the girl, electronic, lounge" role="button">
@@ -45,7 +48,7 @@ Everything But the Girl - Temperamental (2000-02-18)
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
 </li>
-<li data-cover="https://img.discogs.com/ZbrsdUmD4Y5chbo590OGGOHVNJs=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13642-1461602706-7157.jpeg.jpg" data-tags="trip-hop, chill" role="button">
+<li data-cover="https://img.discogs.com/XALG0EgKQagF0xc9UrTFbgGOw_I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8403-1251446906.png.jpg" data-tags="trip-hop, chill" role="button">
 Red Snapper - Our Aim is to Satisfy Red Snapper (2000-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c382e7a-1efa-46fb-9fcf-fca60599fe71/6110111109-500.jpg" data-tags="chillout" role="button">
@@ -53,9 +56,6 @@ Citizen Cope - Citizen Cope (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
-</li>
-<li data-cover="https://img.discogs.com/lsz4cKVgVZ2Y5vbRL35Nv2_vGoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9784862-1526804148-7507.jpeg.jpg" data-tags="acoustic, indie pop, indie" role="button">
-Kings of Convenience - Quiet Is the New Loud (2001-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
 Broken Social Scene - Feel Good Lost (2001-03-06)
@@ -132,7 +132,7 @@ Jem - Finally Woken (2004-03-23)
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
+<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ffb07277-c860-4ed0-957f-539096995573/17531246316-500.jpg" data-tags="chill, folk, singer-songwriter, folk rock, 00s" role="button">
@@ -156,11 +156,11 @@ Matt Costa - Songs We Sing (2005)
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e721f43f-bac5-4459-a318-f47fe57b507a/15009927886-500.jpg" data-tags="chill, indie rock, female vocalist" role="button">
-Maria Taylor - 11:11 (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
 Augustana - All The Stars and Boulevards (2005-09-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="david gray" role="button">
+David Gray - Life In Slow Motion (2005-09-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, britpop" role="button">
 Starsailor - On The Outside (2005-10-14)
@@ -252,6 +252,9 @@ Washed Out - High Times (2009-08-31)
 <li data-cover="https://img.discogs.com/Ine1l8ofiCWrwMeOgpFSVXheyys=/fit-in/595x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914517-1307048549.jpeg.jpg" data-tags="chill, reggae, summer" role="button">
 Rebelution - Bright Side Of Life (2009-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/f3a962e3-0c46-4c3a-aeb9-a8efa29b4d51/1766802436-500.jpg" data-tags="electronic" role="button">
+Pretty Lights - Making Up a Changing Mind (2010-03-02)
+</li>
 <li data-cover="https://img.discogs.com/n_6Gxp6npqCzgf6SSrF6K5exuqo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913206-1275933926.jpeg.jpg" data-tags="synth" role="button">
 Grum - Heartbeats (2010-05-17)
 </li>
@@ -296,9 +299,6 @@ Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/27a457a5-64ac-4beb-9d8e-a331ebfe065f/3195652743-500.jpg" data-tags="downtempo" role="button">
 Emancipator - Dusk to dawn (2013-01-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
-Daughter - If You Leave (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/53351ea5-0a4f-42ff-9bee-4a7d3c43fda8/7420843359-500.jpg" data-tags="kid cudi" role="button">
 Kid Cudi - Indicud (2013-04-16)

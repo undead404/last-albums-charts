@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:45:02.146Z
+date: 2021-04-07T04:47:01.432Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -48,7 +48,7 @@ Slipknot - Slipknot (1999-06-29)
 <li data-cover="http://coverartarchive.org/release/448f12af-1b9c-408f-8656-1918858884af/24928976799-500.jpg" data-tags="nu metal" role="button">
 Coal Chamber - Chamber Music (1999-07-12)
 </li>
-<li data-cover="https://img.discogs.com/vFjOYLV08IqtzSshEzxAVS6qGgM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1854271-1370377911-8334.jpeg.jpg" data-tags="metal, alternative metal" role="button">
+<li data-cover="https://img.discogs.com/HW9g-PP7T_p_IDpysCsuaN2NVzc=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1084100-1372078309-2674.jpeg.jpg" data-tags="metal, alternative metal" role="button">
 Sevendust - Home (1999-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
@@ -66,7 +66,7 @@ Deftones - White Pony (2000-05-16)
 <li data-cover="https://img.discogs.com/iYLwOxh7VXggVh0wKh6ACOy0tpc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368241-1186356382.jpeg.jpg" data-tags="nu metal" role="button">
 Taproot - Gift (2000-06-16)
 </li>
-<li data-cover="https://img.discogs.com/M4wxOo-EVaYaVlRI_dc_vS592no=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3589065-1428940273-7193.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
+<li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/52ac8260-43d1-49b2-8589-0827ad114894/10843717147-500.jpg" data-tags="nu metal" role="button">
@@ -74,9 +74,6 @@ Lostprophets - The Fake Sound of Progress (2000-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/841b85f1-b88c-4b55-adc6-a675e1482e9c/16182675188-500.jpg" data-tags="heavy metal, metal, alternative metal, nu metal" role="button">
 Nonpoint - Development (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/789e4855-63c7-4fe3-8148-c3dc9e1f6d47/17554289373-500.jpg" data-tags="metal, alternative metal, industrial metal" role="button">
-Mushroomhead - XX (2001-05-08)
 </li>
 <li data-cover="https://img.discogs.com/BZcAVXS5bx_QwHuPWufCEzvwRqY=/fit-in/518x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4438087-1364864404-5773.jpeg.jpg" data-tags="nu metal" role="button">
 Drowning Pool - Sinner (2001-06-05)
@@ -90,7 +87,7 @@ Adema - Adema (2001-08-09)
 <li data-cover="https://img.discogs.com/XTd3XQx8DGr3Y70JY3h0N2ymFSI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2273339-1453263561-8717.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
 </li>
-<li data-cover="https://img.discogs.com/iXhCbYKucXwX01SANUCdwZ3zpFE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622208-1598632234-7202.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
+<li data-cover="https://img.discogs.com/9crr3fjxESn9gZG_OQ2TdABKMv8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645776-1556249755-2449.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Sevendust - Animosity (2001-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/13103c1f-091a-457a-9933-41503e9c20b1/15248819276-500.jpg" data-tags="remix, nu metal, hip-hop" role="button">
@@ -162,7 +159,10 @@ DIR EN GREY - Vulgar (2003-09-10)
 <li data-cover="http://coverartarchive.org/release/042269cc-85b8-4be7-be7b-f0d824b87605/8544129324-500.jpg" data-tags="nu metal" role="button">
 Ill Niño - Confession (2003-09-22)
 </li>
-<li data-cover="https://img.discogs.com/jO46PJqG-9xvTn7HObfXnYGJegU=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16255522-1606068308-8137.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="http://coverartarchive.org/release/92f9536f-ac25-43fc-b0c8-90ef5bd50539/8715155753-500.jpg" data-tags="nu-metal" role="button">
+Deftones - Hexagram (2003-09-22)
+</li>
+<li data-cover="https://img.discogs.com/OuuO6BOG8tOB4Un0tj9ajpx76U8=/fit-in/370x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621734-1371247495-3696.jpeg.jpg" data-tags="rock" role="button">
 Limp Bizkit - Behind Blue Eyes (2003-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8dd3f57-4760-4127-a7fe-ee21b6ff2d04/14818545514-500.jpg" data-tags="nu metal" role="button">

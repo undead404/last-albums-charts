@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:40:06.944Z
+date: 2021-04-07T05:26:01.371Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
@@ -192,9 +192,6 @@ Barenaked Ladies - Barenaked For The Holidays (2004-10-05)
 <li data-cover="http://coverartarchive.org/release/4526e591-2a5f-4d73-98b6-df8e5410dc5c/18723612263-500.jpg" data-tags="christmas" role="button">
 Trans-Siberian Orchestra - The Lost Christmas Eve (2004-10-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cdfdd57-92e2-4cc4-8f92-b83034034d3b/24046770429-500.jpg" data-tags="christmas, frank sinatra" role="button">
-Frank Sinatra - The Christmas Collection (2004-10-26)
-</li>
 <li data-cover="https://img.discogs.com/vG0e5eoHkAfQ-48bW2VqqXSSsI0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-350177-1185120167.jpeg.jpg" data-tags="christmas" role="button">
 Band Aid 20 - Do They Know It's Christmas? (2004-11-18)
 </li>
@@ -242,6 +239,9 @@ The Maine - ...And A Happy New Year (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ba5ab28-11fa-4e0b-b444-7ac23c20f148/3352621585-500.jpg" data-tags="christmas" role="button">
 Weezer - Christmas With Weezer (2008-12-16)
+</li>
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/TqHoppCselVVzOlRXazFz6FmckM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1809556-1244749887.jpeg.jpg" data-tags="christmas" role="button">
 Sting - If On A Winter's Night (2009-09-03)

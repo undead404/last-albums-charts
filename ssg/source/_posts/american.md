@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:25:01.559Z
+date: 2021-04-07T05:37:01.399Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -38,9 +38,6 @@ R.E.M. - Automatic for the People (1992-10-06)
 </li>
 <li data-cover="https://img.discogs.com/QYwxSdn4KsgCk3juno4AEzEqtN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204994-1358497086-7715.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/c74f5bbf-d029-40d7-91a1-d57d0e7b984c/19639524832-500.jpg" data-tags="female vocalists" role="button">
-Sheryl Crow - Tuesday Night Music Club (1993-08-03)
 </li>
 <li data-cover="https://img.discogs.com/AOoYKT-Gk3RLqdjQJmWTzIWXuSM=/fit-in/580x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745597-1154516372.jpeg.jpg" data-tags="rock" role="button">
 Counting Crows - August And Everything After (1993-09-14)
@@ -131,6 +128,9 @@ OK Go - Oh No (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
+The Strokes - First Impressions of Earth (2005-12-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
@@ -285,9 +285,6 @@ Okkervil River - I Am Very Far (2011-05-06)
 <li data-cover="http://coverartarchive.org/release/cf68e696-91f1-4c7e-828e-349a918261d0/6610304430-500.jpg" data-tags="indie" role="button">
 Givers - In Light (2011-06-07)
 </li>
-<li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
-Tycho - Dive (2011-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
 Poliça - Give You The Ghost (2011-12-20)
 </li>
@@ -296,6 +293,9 @@ The Lumineers - The Lumineers (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2174e3e-6c49-4262-8965-36a173a9ebc0/1194862110-500.jpg" data-tags="indie pop" role="button">
 Passion Pit - Gossamer (2012-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
+Grizzly Bear - Shields (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/43bd1c61-c8a2-4877-a57f-93cdf262c761/3773290861-500.jpg" data-tags="indie rock" role="button">
 Local Natives - Hummingbird (2013-01-28)
