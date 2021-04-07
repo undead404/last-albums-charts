@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:49:01.452Z
+date: 2021-04-07T07:08:01.494Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -78,7 +78,7 @@ Sonic Youth - Goo (1990-06-26)
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">
 Slint - Spiderland (1991-03-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
+<li data-cover="https://img.discogs.com/HJT94iGkU8e2ZxaB2qa_BtPI39w=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893051-1170005593.jpeg.jpg" data-tags="experimental" role="button">
 Mr. Bungle - Mr. Bungle (1991-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
@@ -90,7 +90,7 @@ Sonic Youth - Dirty (1992-07-20)
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
 </li>
-<li data-cover="https://img.discogs.com/UmAW3Ky8RixkWUQ3TiMy4xN2x8I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-439361-1277068552.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
+<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
 Slint - Slint (1994-08-29)
 </li>
 <li data-cover="https://img.discogs.com/ucvUD-sDbK35og8mqC6aTXQ9SEc=/fit-in/420x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12878829-1543701567-1987.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
@@ -276,9 +276,6 @@ Avey Tare - Down There (2010-10-26)
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
-TV on the Radio - Nine Types of Light (2011-04-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
@@ -317,6 +314,9 @@ The Flaming Lips - The Terror (2013-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/01430596-3eaa-4d2f-8198-8e15aac948bd/7269530596-500.jpg" data-tags="post-rock" role="button">
 Swans - To Be Kind (2014-05-03)
+</li>
+<li data-cover="https://img.discogs.com/gRK9qXxMhL4A8iR9BH6UhZ0qAds=/fit-in/494x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5951182-1447146079-7615.jpeg.jpg" data-tags="2014 releases, 2014: albums" role="button">
+Blonde Redhead - Barragán (2014-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
 alt-J - This Is All Yours (2014-09-18)

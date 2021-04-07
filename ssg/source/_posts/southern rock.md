@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:31:01.413Z
+date: 2021-04-07T07:29:27.647Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -45,7 +45,7 @@ The Allman Brothers Band - At Fillmore East (1971)
 <li data-cover="http://coverartarchive.org/release/bf8885b2-39f8-344e-b860-4be1623de283/4529929218-500.jpg" data-tags="southern rock, classic rock" role="button">
 The Allman Brothers Band - Eat a Peach (1972-02-12)
 </li>
-<li data-cover="https://img.discogs.com/kh9ywpKB-9lMAyUwFtNMAGL8rcI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10235182-1493876575-6897.jpeg.jpg" data-tags="blues rock, hard rock, southern rock" role="button">
+<li data-cover="https://img.discogs.com/3vyzBfAWuptH8XqOUrQaJxfwUDc=/fit-in/522x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8972626-1516444059-5321.jpeg.jpg" data-tags="blues rock, hard rock, southern rock" role="button">
 ZZ Top - Rio Grande Mud (1972-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80f75da-7260-4e4b-bd03-cbebb460a7f1/16048573325-500.jpg" data-tags="roots rock, swamp rock, classic rock, southern rock" role="button">
@@ -57,7 +57,7 @@ The Doobie Brothers - Toulouse Street (1972-07)
 <li data-cover="http://coverartarchive.org/release/1aca4a06-8f21-4aaa-a049-d1758a111589/5814230484-500.jpg" data-tags="classic rock" role="button">
 Steppenwolf - 16 Greatest Hits (1973-02)
 </li>
-<li data-cover="https://img.discogs.com/lSgZAfJ2txNJJe4B2NpDrwNslyA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1783595-1449078465-7949.jpeg.jpg" data-tags="r&b" role="button">
+<li data-cover="https://img.discogs.com/xt2ingN9mjMcHGTT1yvPNDPEAZU=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-731129-1166037349.jpeg.jpg" data-tags="r&b" role="button">
 Little Feat - Dixie Chicken (1973-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dc6075a-ee1b-4d3d-bc4b-f2a8ab66c806/4316994389-500.jpg" data-tags="classic rock, 70s, soft rock, southern rock" role="button">
@@ -162,7 +162,7 @@ Lynyrd Skynyrd - The Essential Lynyrd Skynyrd (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/13ab517d-ed66-497a-a96d-634edd1c36ef/15191888314-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
 </li>
-<li data-cover="https://img.discogs.com/h_kICB5s-0U2v8Heb82yGj1BQBI=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2881622-1363728230-9559.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/R_exf6JfkHxKkwaoQKA6XO2mGko=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15919303-1600193921-9693.jpeg.jpg" data-tags="rock" role="button">
 Phish - Farmhouse (2000-05-16)
 </li>
 <li data-cover="https://img.discogs.com/meG3578OM9QzIehO1I_fkwN3o2s=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692554-1296789561.jpeg.jpg" data-tags="rock, hard rock, southern-rock" role="button">
@@ -210,7 +210,7 @@ Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 <li data-cover="http://coverartarchive.org/release/47df5bc8-1201-4f6e-9f44-ecda7de84242/15273858972-500.jpg" data-tags="hardcore" role="button">
 He Is Legend - I Am Hollywood (2004-11-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">
+<li data-cover="https://img.discogs.com/cF-rcH_dZJjoANDvO30Aoad0KrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5977748-1561111193-8154.jpeg.jpg" data-tags="rock, alt-country, alt country, southern rock, memphis, emt album 2005, good album, my top albums, memphis punk, allmusicl" role="button">
 Lucero - Nobody's Darlings (2005-05-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
@@ -221,9 +221,6 @@ Ryan Adams - 29 (2005-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0119529-3800-4bb1-8716-cbbecbf3e360/16114653552-500.jpg" data-tags="southern rock" role="button">
 Drive-By Truckers - A Blessing and a Curse (2006-04-18)
-</li>
-<li data-cover="https://img.discogs.com/WeCa26YDRu8sGtgAkJxdw5Uc59Y=/fit-in/295x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305800-1324959925.jpeg.jpg" data-tags="hardcore" role="button">
-Cancer Bats - Birthing The Giant (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/37e09ed4-5543-4c4b-b9b9-0f5d690c843e/8360166556-500.jpg" data-tags="stoner rock, rock" role="button">
 Black Stone Cherry - Black Stone Cherry (2006-07-17)
@@ -290,6 +287,9 @@ Mayday Parade - Anywhere But Here (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/02c4e4be-f3ac-49a8-8157-f0b1106b80a4/7913085249-500.jpg" data-tags="southern rock" role="button">
 Brother Dege - Folk Songs of the American Longhair (2010-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/4a71c547-1757-4695-8d15-be0a59ab096c/27339835378-500.jpg" data-tags="classic rock, acoustic, blues rock, southern rock" role="button">
+The Black Crowes - Croweology (2010-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)

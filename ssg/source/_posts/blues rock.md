@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T04:18:01.409Z
+date: 2021-04-07T06:51:01.386Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -246,6 +246,9 @@ Radio Moscow - Radio Moscow (2007-02-27)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
+The White Stripes - Icky Thump (2007-06-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/7009e041-7b5b-4cd5-99d0-2d04830133a3/2271277285-500.jpg" data-tags="classic rock, blues rock, rock" role="button">
 ZZ Top - Greatest Hits (2008)
 </li>
@@ -257,9 +260,6 @@ The Black Keys - Attack & Release (2008-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/218ff81b-3e00-387f-91e3-80ac7885789d/15457622056-500.jpg" data-tags="blues-rock, blues, blues rock" role="button">
 Dan Auerbach - Keep It Hid (2009-02-09)
-</li>
-<li data-cover="https://img.discogs.com/JvwvMC1hwh_JGafGIYYjFeMMlo8=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1866195-1318267515.jpeg.jpg" data-tags="blues rock" role="button">
-Joe Bonamassa - The Ballad Of John Henry (2009-02-20)
 </li>
 <li data-cover="https://img.discogs.com/QSdZcenKf5ZGnTWJfrOB8B0d27A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299291-1290887410.jpeg.jpg" data-tags="alternative, garage rock, indie, blues rock" role="button">
 Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)

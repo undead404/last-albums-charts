@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T18:21:01.379Z
+date: 2021-04-07T06:50:01.400Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -108,6 +108,9 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/85ffc0b7-1878-3ccb-9270-1d2f2d1595b3/24919226700-500.jpg" data-tags="rock" role="button">
 Jane's Addiction - Strays (2003-07-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/a14d0a2d-6132-447e-8d32-7aecfbea27e3/5597516047-500.jpg" data-tags="rock, alternative rock" role="button">
+311 - Evolver (2003-07-22)
+</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
@@ -159,7 +162,7 @@ Robin Thicke - The Evolution of Robin Thicke (2006-02-14)
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
 </li>
-<li data-cover="https://img.discogs.com/Lbx9N_QVLXyV53ujYKYVT9qAWvY=/fit-in/155x155/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-703341-1149633179.jpeg.jpg" data-tags="folk, singing songwriters, alternative, donavon frankenreiter" role="button">
+<li data-cover="https://img.discogs.com/nOBAugDW1cb0hj4Wxp87YQC90wc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1516652-1586769598-1199.jpeg.jpg" data-tags="folk, singing songwriters, alternative, donavon frankenreiter" role="button">
 Donavon Frankenreiter - Move By Yourself (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
@@ -305,9 +308,6 @@ Matthew E. White - Big Inner (2012-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/051df6e9-2ffd-4d6c-85d8-bac27b0dd711/2932845844-500.jpg" data-tags="electronic, soul, alternative, experimental, funk, funky, must have" role="button">
 Łąki Łan - Armanda (2012-11-13)
-</li>
-<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
-The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f48c834-23b7-4e5c-a4f8-9f1cf9e45c33/5700304800-500.jpg" data-tags="jazz, epic, trumpet, jazz fusion, jazz funk, funky, world jazz, this album saved my life, fav albums of all time, the very embodiment of musical eclecticism and creativity" role="button">
 Ibrahim Maalouf - Illusions (2013-11-05)

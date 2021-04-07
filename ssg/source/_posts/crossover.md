@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:22:01.434Z
+date: 2021-04-07T07:04:01.419Z
 title: "crossover: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Renegades (2000-11-28)](http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg "Rage Against the Machine - Renegades (2000-11-28)")
@@ -39,7 +39,7 @@ Cryptic Slaughter - Money Talks (1987-05)
 <li data-cover="http://coverartarchive.org/release/439148c3-0e6a-3f3d-81f3-fea3d09e5280/27077757196-500.jpg" data-tags="punk, crossover, hardcore punk, crossover thrash, hardcore, thrash metal" role="button">
 Suicidal Tendencies - Join The Army (1987-06-21)
 </li>
-<li data-cover="https://img.discogs.com/3gYsLm00nQztE7_0aLS1TpV7LrU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5760022-1571689696-7596.jpeg.jpg" data-tags="thrash metal" role="button">
+<li data-cover="https://img.discogs.com/PjJSI72RZMpUb-15N-u1r_CajLE=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-425274-1588588300-5414.jpeg.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - How Will I Laugh Tomorrow When I Can't Even Smile Today (1988-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/450717cf-837c-4889-affe-d04c3ee101d5/19464680594-500.jpg" data-tags="crossover, thrash metal, crossover thrash" role="button">
@@ -54,7 +54,7 @@ Neurosis - The Word As Law (1990)
 <li data-cover="http://coverartarchive.org/release/cd47d1f3-1d73-4c92-8766-edf5dfea2c4b/14170897981-500.jpg" data-tags="thrash metal" role="button">
 Suicidal Tendencies - Lights... Camera... Revolution! (1990-07-03)
 </li>
-<li data-cover="https://img.discogs.com/wgsZzw3GsQaWrZM7cdm-_1Tox6M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2474682-1286066218.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
+<li data-cover="https://img.discogs.com/6Nkszn5tJFDJywElV8Q0g26itWc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3222714-1399314519-9565.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
 Living Colour - Time's Up (1990-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/aae239f9-aadc-4fbc-97a1-8ee7d6ab3068/15785109020-500.jpg" data-tags="chillout, hip hop, classic, dreamy, cinematic, crossover, eclectic, faves, favs, primary, geniaal, wonderschoon, jazzy hip hop, tutka, beats for days, excellent lyricism, verschiedenes, 4nas, nadh, vemu, better than 2pac" role="button">
@@ -144,6 +144,9 @@ Clawfinger - Clawfinger (1997-09-29)
 <li data-cover="https://img.discogs.com/oC80XbUu1pNPEjJuxSL9mIE4OAw=/fit-in/600x922/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500374-1332874280.jpeg.jpg" data-tags="alternative rock" role="button">
 Guano Apes - Proud Like a God (1997-10-06)
 </li>
+<li data-cover="https://img.discogs.com/lpA_G-64Avy4DGsGI029duCEKBE=/fit-in/599x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3534983-1334254236.jpeg.jpg" data-tags="punk rock" role="button">
+Bloodhound Gang - Along Comes Mary (1998)
+</li>
 <li data-cover="https://img.discogs.com/OfA6CUNXfIUGGueOcy2OJRoIEt4=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3310039-1325173673.jpeg.jpg" data-tags="crossover" role="button">
 H-Blockx - Fly Eyes (1998)
 </li>
@@ -195,7 +198,7 @@ Spineshank - New Disease (2001-09-10)
 <li data-cover="https://img.discogs.com/GzxLKsWQarLtP-HRgkmq40yNYCY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426390-1556717314-2995.jpeg.jpg" data-tags="nu metal" role="button">
 Emil Bulls - Angel Delivery Service (2001-12-03)
 </li>
-<li data-cover="https://img.discogs.com/-0peJHcSbnQgfRBfwWzXgEHs8mo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3395334-1328734011.jpeg.jpg" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/oKuPt4tLuiCaBwQDx73igsycv-Y=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-886336-1348405300-6388.jpeg.jpg" data-tags="alternative rock" role="button">
 H-Blockx - Get in the Ring (2002-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/714d1b4a-6739-4f38-a8c4-197379780bbd/28115360386-500.jpg" data-tags="metal, reggae metal" role="button">
@@ -275,9 +278,6 @@ H-Blockx - Open Letter To A Friend (2007-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/15f6c480-955b-446b-a63b-63ec31766279/2081710166-500.jpg" data-tags="crossover, rapcore, nu-metal" role="button">
 Critical Bill - Downtown The World (2007-09-18)
-</li>
-<li data-cover="https://img.discogs.com/oe4oEGANAqpevhEEBCKC44k72bo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1964284-1255380595.jpeg.jpg" data-tags="japanese" role="button">
-Versailles - Lyrical Sympathy (2007-10-31)
 </li>
 <li data-cover="https://img.discogs.com/KSlRCzvRfGAYXsRn0ERoszTM62s=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1489903-1230643039.jpeg.jpg" data-tags="nu metal, nu-metal, german rock" role="button">
 4Lyn - Hello (2008-01-25)

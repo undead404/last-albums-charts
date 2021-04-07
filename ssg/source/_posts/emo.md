@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:58:01.509Z
+date: 2021-04-07T07:22:01.588Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -132,7 +132,7 @@ Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
 </li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
@@ -153,7 +153,7 @@ Lindsay Lohan - Speak (2004-12-07)
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
-<li data-cover="https://img.discogs.com/_7bxSXVw6ckhPnAtU7D3pbRtPZ0=/fit-in/496x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4293261-1391798392-3861.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/F7_vX7cpN29uV2NF4Xt4kSvyYc0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254198-1423920499-1926.jpeg.jpg" data-tags="rock" role="button">
 Plain White T's - All That We Needed (2005-01-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk, emo" role="button">
@@ -198,7 +198,7 @@ Augustana - All The Stars and Boulevards (2005-09-06)
 <li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
 Cartel - Chroma (2005-09-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="emo, catchy, pop punk, listen, victory, theaudition, albums i might like to own, take in emule" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="emo, catchy, pop punk, victory, theaudition, albums i might like to own, take in emule" role="button">
 The Audition - Controversy Loves Company (2005-09-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
@@ -216,9 +216,6 @@ Hawthorne Heights - If Only You Were Lonely (2006-02-28)
 <li data-cover="https://img.discogs.com/jXHEqpkzaiZYX3BIWucVSpVCSiQ=/fit-in/479x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067528-1262096038.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Louder Now (2006-04-24)
 </li>
-<li data-cover="https://img.discogs.com/1JIpB6-DUXl_5rRKkvgcAkkVu4Q=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1091223-1197729002.jpeg.jpg" data-tags="indie, emo" role="button">
-Plain White T's - Hey There Delilah (2006-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
 </li>
@@ -227,6 +224,9 @@ Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
 Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
+</li>
+<li data-cover="https://img.discogs.com/QPMnXIE11R-Bfg_UmDD19W68Udc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288391-1206675152.jpeg.jpg" data-tags="emo" role="button">
+Dashboard Confessional - Dusk And Summer (2006-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
@@ -273,7 +273,7 @@ Mayday Parade - A Lesson in Romantics (2007-07-10)
 <li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">
 The Starting Line - Direction (2007-07-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
+<li data-cover="https://img.discogs.com/AFN3DwuD-MUBC5fmATDT49nCQXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2437292-1283994785.jpeg.jpg" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
 The Spill Canvas - No Really, I'm Fine (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">

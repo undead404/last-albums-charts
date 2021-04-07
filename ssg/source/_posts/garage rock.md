@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:25:01.399Z
+date: 2021-04-07T07:02:01.413Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -114,7 +114,7 @@ Jet - Get Born (2003-09-14)
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Room on Fire (2003-10-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock" role="button">
+<li data-cover="https://img.discogs.com/900g2OX8ls0q0ZSGgVfocOvKcxA=/fit-in/299x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-451852-1227466831.jpeg.jpg" data-tags="rock, indie rock" role="button">
 The Von Bondies - Pawn Shoppe Heart (2004-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
@@ -135,7 +135,7 @@ Mando Diao - Hurricane Bar (2004-09-08)
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="garage rock" role="button">
+<li data-cover="https://img.discogs.com/8aWKmjiYtPDbsOJJq0-x4lq5NVg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529572-1286081970.jpeg.jpg" data-tags="garage rock" role="button">
 The Kills - No Wow (2005-02-21)
 </li>
 <li data-cover="https://img.discogs.com/J1nQVSd6Kw41GvClK2lIQYyt2fM=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725811-1239432666.jpeg.jpg" data-tags="rock" role="button">
@@ -158,6 +158,9 @@ Smash Mouth - All Star Smash Hits (2005-08-23)
 </li>
 <li data-cover="https://img.discogs.com/0gHuTNiSB86CcDPGzwcxwNgElYo=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612218-1342467380-7833.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Arctic Monkeys - When the Sun Goes Down (2005-12-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
+The Strokes - First Impressions of Earth (2005-12-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/238e03d1-2a43-4d87-8608-6f2e8a5a66a6/5835269563-500.jpg" data-tags="indie rock, rock" role="button">
 Yeah Yeah Yeahs - Show Your Bones (2006-03-27)
@@ -188,6 +191,9 @@ Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
+The White Stripes - Icky Thump (2007-06-15)
 </li>
 <li data-cover="https://img.discogs.com/EyfjXvBzxyGUHbxuO-HscInI-rg=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025037-1342478511-5778.jpeg.jpg" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
@@ -249,16 +255,13 @@ The Young Veins - Take A Vacation! (2010-06-08)
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
 </li>
-<li data-cover="https://img.discogs.com/ZyXE6azUPk6G73RJQYNmC7LP_jU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2386283-1281008973.jpeg.jpg" data-tags="lo-fi" role="button">
-Wavves - King Of The Beach (2010-08-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
-<li data-cover="https://img.discogs.com/fjkqLjXigy3tZo2ZAyynt2QXjj0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13360887-1552756400-8491.png.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
@@ -308,9 +311,6 @@ White Denim - Corsicana Lemonade (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/766e358a-90a5-4c37-a9c5-c60ce7faa875/6831500340-500.jpg" data-tags="rock, indie rock, garage rock, meghallgatni" role="button">
-The Orwells - Disgraceland (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5139eff-0ce6-428e-a96f-6653a68af7a2/8249629063-500.jpg" data-tags="alternative rock, blues rock, rock, garage rock" role="button">
 Jack White - Lazaretto (2014-06-06)

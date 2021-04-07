@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:27:06.944Z
+date: 2021-04-07T07:03:01.394Z
 title: "dark: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Rated R (2009-11-16)](http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg "Rihanna - Rated R (2009-11-16)")
@@ -39,7 +39,7 @@ The Cure - Pornography (1982-05-03)
 <li data-cover="https://img.discogs.com/ce2SgoLGUPVKnpR9ZUMqIh0-QUc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4445158-1365080842-7266.jpeg.jpg" data-tags="80s, post-punk, mute records" role="button">
 Nick Cave & The Bad Seeds - From Her To Eternity (1984-06-01)
 </li>
-<li data-cover="https://img.discogs.com/r1cfeH7W_7pfbpF47Ke0OU4b2L4=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852849-1281371771.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
+<li data-cover="https://img.discogs.com/EWJD-VeCM5bj-nw9YQaElt6Tccs=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11627074-1519812156-1649.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
 Sonic Youth - Bad Moon Rising (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/853ee016-b10d-3118-86ed-d9c3b797eebc/15258704059-500.jpg" data-tags="darkwave" role="button">
@@ -63,7 +63,7 @@ Manic Street Preachers - The Holy Bible (1994-08-29)
 <li data-cover="http://coverartarchive.org/release/64bcdda1-f6f4-4d8e-877d-5c2253297462/2106453048-500.jpg" data-tags="electronic, dark, acoustic, gothic, psychedelic, live, infinite loop, schwarz, alexander veljanov, kuscheldunkel, dunkelbunnt, chrom records, d lakalen" role="button">
 Deine Lakaien - Acoustic (1995)
 </li>
-<li data-cover="https://img.discogs.com/-Nn0tbiUsmGjpTl2pzqUkziOcOM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785747-1561453320-9296.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
+<li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
 <li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
@@ -93,7 +93,7 @@ Silverchair - Neon Ballroom (1999-03-05)
 <li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
 Staind - Dysfunction (1999-04-13)
 </li>
-<li data-cover="https://img.discogs.com/U9LEG7nZ8JktYxlMgjZkfCNlWSM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66347-1374100615-6026.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/CJhJ45koC9gGnmGp9RYo4t_6yCQ=/fit-in/296x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339637-1303975891.jpeg.jpg" data-tags="electronic" role="button">
 Death in Vegas - The Contino Sessions (1999-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
@@ -174,6 +174,9 @@ Om - Conference of the Birds (2006-02-24)
 <li data-cover="http://coverartarchive.org/release/cb5e68da-bf42-32e6-ae35-29d99f931960/10083770849-500.jpg" data-tags="dubstep" role="button">
 Burial - Burial (2006-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/a1e9ae9f-1c48-4ea7-9098-344442548807/2850451984-500.jpg" data-tags="neofolk" role="button">
+Spiritual Front - Armageddon Gigolo (2006-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf099799-3f91-4418-abbd-e9dec82b1a58/10599577358-500.jpg" data-tags="alternative, female vocalists, singer-songwriter" role="button">
 Charlotte Martin - Stromata (2006-09-12)
 </li>
@@ -210,11 +213,8 @@ Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
 <li data-cover="https://img.discogs.com/wz0yn2XqXYzmHJ5nwwlBxkfZsTs=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2557097-1364509041-6883.jpeg.jpg" data-tags="dark, shoegaze" role="button">
 Mercury Rev - Snowflake Midnight (2008-09-29)
 </li>
-<li data-cover="https://img.discogs.com/-jXh1HefuQF_oHQqAM62FjOkEkw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17056041-1611364067-9511.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/F9eHisPcHAbXQvvLRGignAeARys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13398283-1553445775-7647.png.jpg" data-tags="indie" role="button">
 Los Campesinos! - We Are Beautiful, We Are Doomed (2008-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/a94365c2-0440-33f7-8278-bc3bf373243c/15037794641-500.jpg" data-tags="progressive rock" role="button">
-Steven Wilson - Insurgentes (2008-11-26)
 </li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)

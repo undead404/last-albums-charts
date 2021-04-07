@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:58:01.450Z
+date: 2021-04-07T07:21:01.483Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -99,16 +99,13 @@ Sublime - Sublime (1995)
 <li data-cover="http://coverartarchive.org/release/20b3efeb-255a-3fde-8275-401bcf506489/3947787054-500.jpg" data-tags="punk" role="button">
 Rancid - ...And Out Come the Wolves (1995-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/7086c733-4ced-4f36-b024-74404bb7ab80/3357063370-500.jpg" data-tags="punk" role="button">
-Jawbreaker - Dear You (1995-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/37037911-c633-4ec8-9793-2c80cdbfedac/5690341799-500.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Insomniac (1995-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f0a1564-a748-302f-abc3-0a0b3f934a50/2349398736-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ixnay on the Hombre (1997-02-05)
 </li>
-<li data-cover="https://img.discogs.com/vsTc1IwO1adM-ZsrfEogO76WWJs=/fit-in/588x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4261146-1360016088-9887.jpeg.jpg" data-tags="punk, horror punk" role="button">
+<li data-cover="https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg" data-tags="punk, horror punk" role="button">
 Misfits - Static Age (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
@@ -194,6 +191,9 @@ Billy Talent - Billy Talent (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c55a62e-765a-3478-a150-9032f9d0170c/2556187115-500.jpg" data-tags="punk rock, punk" role="button">
 The Distillers - Coral Fang (2003-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/a216cc04-6983-4962-9e5b-c1c1674895f7/12671876579-500.jpg" data-tags="punk" role="button">
+Against Me! - As the Eternal Cowboy (2003-11-04)
 </li>
 <li data-cover="https://img.discogs.com/bqkKb5NmWkom_PixHUISylq1FC8=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5568581-1396792201-1770.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Splinter (2003-11-27)

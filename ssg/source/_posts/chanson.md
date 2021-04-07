@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:34:01.593Z
+date: 2021-04-07T07:09:01.409Z
 title: "chanson: 100 albums you must listen to before you die"
 ---
 ![Zaz - Zaz (2010-05-10)](http://coverartarchive.org/release/9703802c-0108-40fb-865c-0bbf17960c98/6816205914-500.jpg "Zaz - Zaz (2010-05-10)")
@@ -29,6 +29,9 @@ Jacques Brel - Grand jacques (1954-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdd8d625-76de-39eb-8b19-9401c974a564/27820133528-500.jpg" data-tags="chanson" role="button">
 Jacques Brel - La Valse À Mille Temps (1959)
+</li>
+<li data-cover="https://img.discogs.com/VtKxk309VLdW6VsmkDpPnWYgHKg=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057808-1188755422.jpeg.jpg" data-tags="chanson francaise" role="button">
+Jacques Brel - Les Bourgeois (1962)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ccf625c-d78a-3a4f-bb42-d6963c0cf111/27999907229-500.jpg" data-tags="french" role="button">
 Serge Gainsbourg - Gainsbourg Percussions (1964-10)
@@ -78,9 +81,6 @@ Renaud - Morgane De Toi (1984)
 <li data-cover="http://coverartarchive.org/release/4c07f596-4963-33df-adb1-55d01dab800d/15456874551-500.jpg" data-tags="80s" role="button">
 Leonard Cohen - Various Positions (1984-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/7edf8023-6e17-43d2-b37f-4640fbdde0be/5977019256-500.jpg" data-tags="nederlandstalig" role="button">
-Herman van Veen - In vogelvlucht (1987-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/82df0d82-938e-4a85-893f-75ad97c402b3/26689505964-500.jpg" data-tags="chanson francaise" role="button">
 Charles Aznavour - 20 Chansons D'or (1988)
 </li>
@@ -92,9 +92,6 @@ Patrick Bruel - Alors Regarde (1989-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ea963a-84ad-4b2e-9f0e-3afa90b60f75/846047947-500.jpg" data-tags="chanson française" role="button">
 Boris Vian - Boris Vian chante Boris Vian (1991)
-</li>
-<li data-cover="http://coverartarchive.org/release/513d4b78-4981-4353-97bf-980a84173308/6978729407-500.jpg" data-tags="chanson, piaf, one world" role="button">
-Édith Piaf - The Voice of the Sparrow: The Very Best of Édith Piaf (1991-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0707d96-8d09-4964-ac7c-887d919050f0/10026828120-500.jpg" data-tags="chanson, chanson francaise, fransk, montand, l3a1e5da4n15l1" role="button">
 Yves Montand - Yves Montand (1992)
@@ -168,8 +165,8 @@ Françoiz Breut - Vingt à trente mille jours (2001)
 <li data-cover="http://coverartarchive.org/release/11bfc6ae-6e5a-497a-b710-d0d274bd8348/26491384291-500.jpg" data-tags="chanson francaise" role="button">
 Keren Ann - La Disparition (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/4d496e5b-3ab0-4fcb-9b79-2167342b3964/11049768874-500.jpg" data-tags="french" role="button">
-La Rue Kétanou - Y'A Des Cigales Dans La Fourmilière (2002)
+<li data-cover="https://via.placeholder.com/450" data-tags="african" role="button">
+Angélique Kidjo - Black Ivory Soul (2002-04-08)
 </li>
 <li data-cover="https://img.discogs.com/EEVhN-4JBxDOynNyMeIqNcoqQn0=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10387805-1496477354-7222.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
 Camille - Le Sac Des Filles (2002-09-23)
@@ -204,7 +201,7 @@ Keren Ann - Not Going Anywhere (2003-11-25)
 <li data-cover="https://img.discogs.com/95qltZWYT3KzLqO9Ybk6XuEmDvQ=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2431321-1485412944-8601.jpeg.jpg" data-tags="french, chanson" role="button">
 Nino Ferrer - Nino Ferrer (2004)
 </li>
-<li data-cover="https://img.discogs.com/oPZbe9hXjv7DZ3N8_kC8mV9xtjw=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2776472-1608239552-5701.jpeg.jpg" data-tags="french, chanson, reggae" role="button">
+<li data-cover="https://img.discogs.com/7_PClsdluYhzQaD4DlwTjAxWJ2g=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-864761-1325710324.jpeg.jpg" data-tags="french, chanson, reggae" role="button">
 Manu Chao - Sibérie m'était contéee (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/3194a7cc-fc92-3182-bd73-e1b23fa54ff9/3625624015-500.jpg" data-tags="french, chanson, pop, singer-songwriter, acoustic rock, francais, francophone, france, happiness, french happiness" role="button">
@@ -255,14 +252,14 @@ Yann Tiersen - On Tour (2006-11-13)
 <li data-cover="http://coverartarchive.org/release/67876aa5-3b80-4076-a32c-744032e0514f/1242816637-500.jpg" data-tags="chanson" role="button">
 Jacques Higelin - Amor Doloroso (2006-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b3ee7b7-a91e-4b70-bcc2-2669d1bf013d/16302212379-500.jpg" data-tags="classical, singer-songwriter" role="button">
-Michael Cashmore - The Snow Abides (2007)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc4d4a96-ce43-4943-b842-fa2fd8f056eb/3296666852-500.jpg" data-tags="french" role="button">
 Dionysos - Monsters In Love (2007-01-08)
 </li>
 <li data-cover="https://img.discogs.com/7c2vU1_muB7cykxhzX9vOpUuW9Y=/fit-in/360x322/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072495-1190038789.jpeg.jpg" data-tags="chanson" role="button">
 Carla Bruni - No Promises (2007-01-15)
+</li>
+<li data-cover="https://img.discogs.com/BmgDLuE_VjTM8OdUSn_kTZ8GUIQ=/fit-in/343x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955478-1303762618.jpeg.jpg" data-tags="italian" role="button">
+Biagio Antonacci - Vicky Love (2007-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d51c73e8-c49d-4154-bd71-495de7a70c3b/2264368297-500.jpg" data-tags="indie rock, female vocalists" role="button">
 Shannon Wright - Let In The Light (2007-03-26)
@@ -296,6 +293,9 @@ Zaz - Zaz (2010-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d180907-3332-43f5-a1c8-0a5ebef4a08e/8250314333-500.jpg" data-tags="chanson, egresgruobsniag" role="button">
 Serge Gainsbourg - Comme Un Boomerang (2011-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f7b3fa4-d8f0-4795-9ff3-3cc92dca64b5/12974563622-500.jpg" data-tags="chanson, jazz, france music" role="button">
+Zaz - Sans Tsu Tsou (2011-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bf3a427-a49f-45c5-9cee-3a9f5fd91dc3/1633140850-500.jpg" data-tags="french" role="button">
 Camille - Ilo Veyou (2011-10-14)

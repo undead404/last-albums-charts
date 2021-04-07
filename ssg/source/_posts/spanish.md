@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:09:01.398Z
+date: 2021-04-07T06:59:01.435Z
 title: "spanish: 100 albums you must listen to before you die"
 ---
 ![Shakira - Pies Descalzos (1995)](https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg "Shakira - Pies Descalzos (1995)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="flamenco" role="button">
 Paco de Lucía - Entre Dos Aguas (1975)
+</li>
+<li data-cover="https://img.discogs.com/xXsuSSgDoqDQxdNSs4eG5Qbs2Js=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6867745-1428334370-7374.jpeg.jpg" data-tags="spanish, new wave, spain, españa, pop-rock, movida, iveldie best of 1984, mil siluetas, lobo en paris" role="button">
+La Unión - Mil Siluetas (1984-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
@@ -50,9 +53,6 @@ Rosana - Lunas Rotas (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/6025a2f5-91b2-4a23-b314-9ef6c75daffe/25855299022-500.jpg" data-tags="lhasa, spanish, female vocalists, latin" role="button">
 Lhasa - La Llorona (1997-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="argentina, rock argentino" role="button">
-Andrés Calamaro - Alta Suciedad (1997-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/71002510-5601-4650-b2e5-974c106dfaf6/7454247107-500.jpg" data-tags="alejandro sanz" role="button">
 Alejandro Sanz - Más (1997-09-09)
