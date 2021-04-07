@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T23:24:01.429Z
+date: 2021-04-07T17:36:01.458Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
@@ -8,8 +8,8 @@ title: "rock n roll: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/dODqkQEQC6xTAQi4vr4gdvGQm6k=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797849-1160845445.jpeg.jpg" data-tags="rock n roll" role="button">Bill Haley & His Comets - Rock Around The Clock (1956-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">Elvis Presley - Elvis' Golden Records (1958-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">Del Shannon - Little Town Flirt (1963)</li>
-<li data-cover="https://img.discogs.com/i9hz9LCoOKTx3TIL0zSFCmr9uLw=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055944-1357028433-5421.jpeg.jpg" data-tags="80s" role="button">The J. Geils Band - Freeze Frame (1981-10-26)</li>
-<li data-cover="https://img.discogs.com/QqifwM957aH9czKrZA3cHBHeJXc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1865841-1474827466-9598.jpeg.jpg" data-tags="surf, rock n roll" role="button">The Beach Boys - Greatest Hits (1996)</li>
+<li data-cover="https://img.discogs.com/PqkYqwoCqBOgHEY65EXLI6STNcE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1526061-1551123065-4102.jpeg.jpg" data-tags="80s" role="button">The J. Geils Band - Freeze Frame (1981-10-26)</li>
+<li data-cover="https://img.discogs.com/diBFTozZc_XMIj_DaE1xto6-6rY=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-693375-1313780934.jpeg.jpg" data-tags="surf, rock n roll" role="button">The Beach Boys - Greatest Hits (1996)</li>
 <li data-cover="http://coverartarchive.org/release/b79a134e-5a94-4b14-9abc-fbe0a22b39a6/25479635311-500.jpg" data-tags="oldies, 50s, buddy holly, rock n roll" role="button">Buddy Holly - Greatest Hits (1996-09-24)</li>
 <li data-cover="http://coverartarchive.org/release/de21d173-ee38-4161-8717-8cd64fb12382/12501120405-500.jpg" data-tags="heavy metal, hard rock" role="button">Motörhead - Motörhead (2000-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
@@ -81,16 +81,16 @@ REO Speedwagon - You Can Tune A Piano, But You Can't Tuna Fish (1978)
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
 Motörhead - On Parole (1979-12-08)
 </li>
-<li data-cover="https://img.discogs.com/UWlMaIvkWtQrup7XfmRBZNGXaeQ=/fit-in/505x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-344584-1186921831.jpeg.jpg" data-tags="rock, 80s, experimental" role="button">
+<li data-cover="https://img.discogs.com/srxsCKSE5Rrks1VZKsZtPBWn1wk=/fit-in/600x717/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2931618-1504401651-6870.jpeg.jpg" data-tags="rock, 80s, experimental" role="button">
 Paul McCartney - McCartney II (1980-05-16)
 </li>
-<li data-cover="https://img.discogs.com/i9hz9LCoOKTx3TIL0zSFCmr9uLw=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2055944-1357028433-5421.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/PqkYqwoCqBOgHEY65EXLI6STNcE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1526061-1551123065-4102.jpeg.jpg" data-tags="80s" role="button">
 The J. Geils Band - Freeze Frame (1981-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/68f9ce3e-0cdd-4f2d-897f-d8208eee1fc2/8130414856-500.jpg" data-tags="rock and roll" role="button">
 Chuck Berry - The Great Twenty-Eight (1982)
 </li>
-<li data-cover="https://img.discogs.com/_WW_5Xm2JzFQGNt55PcOKt7UQ3o=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528984-1127990426.jpeg.jpg" data-tags="classic rock, progressive rock, rock, symphonic rock" role="button">
+<li data-cover="https://img.discogs.com/eXxvm_QXj3smKMFNGJWFRz-N3oU=/fit-in/590x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818802-1334033539.jpeg.jpg" data-tags="classic rock, progressive rock, rock, symphonic rock" role="button">
 Electric Light Orchestra - Secret Messages (1983)
 </li>
 <li data-cover="https://img.discogs.com/_p3QUw0m77DTQhUWU4dedNgXc2k=/fit-in/551x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4900916-1378902915-8466.jpeg.jpg" data-tags="heavy metal" role="button">
@@ -159,7 +159,7 @@ The Rolling Stones - Voodoo Lounge (1994-07-11)
 <li data-cover="http://coverartarchive.org/release/74635d40-1cef-405d-af5e-515bd81c8987/24471768215-500.jpg" data-tags="heavy metal, rock, alternative, alternative rock, hard rock, rock n roll, 90's, whisky swamp and cigar smoke, garth richardson, dr b tags" role="button">
 Ugly Kid Joe - Menace to Sobriety (1995-06-05)
 </li>
-<li data-cover="https://img.discogs.com/QqifwM957aH9czKrZA3cHBHeJXc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1865841-1474827466-9598.jpeg.jpg" data-tags="surf, rock n roll" role="button">
+<li data-cover="https://img.discogs.com/diBFTozZc_XMIj_DaE1xto6-6rY=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-693375-1313780934.jpeg.jpg" data-tags="surf, rock n roll" role="button">
 The Beach Boys - Greatest Hits (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/354c887b-337f-4a8e-8a07-f95bc0d13f89/4808011332-500.jpg" data-tags="punk" role="button">
@@ -246,6 +246,9 @@ Cachorro Grande - Pista Livre (2005-05)
 <li data-cover="https://img.discogs.com/OI_UeOh6RXaam0IO6-DpsMEo8yc=/fit-in/418x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1352360-1212061414.jpeg.jpg" data-tags="rock n roll, pissed off, chicks that rock, things to check out more closely" role="button">
 Bif Naked - Superbeautifulmonster (2005-06-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">
+Krypteria - In Medias Res (2005-07-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/14acfbcf-3a1b-4dad-bf31-fae0525aeed2/22195854394-500.jpg" data-tags="pop, alternative, alternative rock" role="button">
 Aly & AJ - Into the Rush (2005-08-16)
 </li>
@@ -296,9 +299,6 @@ Jerry Lee Lewis - Mean Old Man (2009-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc54b301-80ca-442f-9d06-f9e1ddad0a67/27649916153-500.jpg" data-tags="progressive metal, rock n roll, symphonic metal, neoclassical metal, neo-classical metal, 2009 albums, neoclassic metal, neo-classic metal" role="button">
 Trans-Siberian Orchestra - Night Castle (2009-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d14bee4-6470-4009-b05b-6ae80f646048/5501714799-500.jpg" data-tags="rock, rock n roll, guzel, alo orman 177, orman haftasi, orman ferah, s ferah" role="button">
-Şebnem Ferah - Benim Adım Orman (2009-12-29)
 </li>
 <li data-cover="https://img.discogs.com/iBChasnJz7Yph41jWMq394G2ewo=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952837-1591705176-2117.jpeg.jpg" data-tags="compilation, rock n roll, greatest hits" role="button">
 Joan Jett and the Blackhearts - Greatest Hits (2010-03-09)

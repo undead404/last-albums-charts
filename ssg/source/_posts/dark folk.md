@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:51:01.320Z
+date: 2021-04-07T17:44:01.615Z
 title: "dark folk: 100 albums you must listen to before you die"
 ---
 ![Giles Corey - Giles Corey (2011-04-30)](http://coverartarchive.org/release/945d7382-e187-454c-bbf9-09abe4404772/4804497131-500.jpg "Giles Corey - Giles Corey (2011-04-30)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/rgRyAKI8DUhrlKcUD0KtNUTC5u4=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243100-1299316097.jpeg.jpg" data-tags="experimental, avant-folk, 70s" role="button">
+<li data-cover="https://img.discogs.com/_YcNF_IEMzYAUka6PtEkBkaOD5w=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-551793-1214286010.jpeg.jpg" data-tags="experimental, avant-folk, 70s" role="button">
 Nico - Desertshore (1970-12)
 </li>
 <li data-cover="https://img.discogs.com/k7F2p3zdIKqiexIXJjSdmG2YLgs=/fit-in/588x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-316971-1280442253.jpeg.jpg" data-tags="neofolk, dark folk" role="button">
@@ -42,7 +42,7 @@ Death in June - But, What Ends When the Symbols Shatter? (1992-06-25)
 <li data-cover="http://coverartarchive.org/release/83ceca16-4978-40ff-8403-01a2459e5ada/11674104907-500.jpg" data-tags="neofolk, apocalyptic folk, dark folk" role="button">
 Nature and Organisation - Beauty Reaps the Blood of Solitude (1994)
 </li>
-<li data-cover="https://img.discogs.com/6zIIjkaBss-9X6VtwLjf7VeBWoI=/fit-in/590x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-986416-1181284371.jpeg.jpg" data-tags="neofolk, dark folk" role="button">
+<li data-cover="https://img.discogs.com/jFMO_L3ke59XTkR7Rr1_L9gI3Ik=/fit-in/330x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-804716-1160517186.jpeg.jpg" data-tags="neofolk, dark folk" role="button">
 In Gowan Ring - Love Charms (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/71119a18-2752-3562-a073-07de27a9709a/3668940581-500.jpg" data-tags="1994, neofolk, dark folk, apocalyptic folk" role="button">
@@ -95,6 +95,9 @@ Steve Von Till - As the Crow Flies (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/288b5f23-8ec0-34cc-be1f-38a9d5c03cda/9943915569-500.jpg" data-tags="neofolk, dark folk" role="button">
 :Of the Wand & the Moon: - Midnight Will (2000-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/bdf8d600-0893-4fe5-ba70-7065281e818d/17379814232-500.jpg" data-tags="tanzwut" role="button">
+Tanzwut - Labyrinth Der Sinne (2000-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa4868f0-1f2f-4bdc-9cc3-61b107642db3/27796142340-500.jpg" data-tags="dark ambient, darkwave" role="button">
 Dargaard - The Dissolution of Eternity (2001-06)
@@ -228,9 +231,6 @@ Agalloch - The White EP (2008-02-29)
 <li data-cover="http://coverartarchive.org/release/3dbd7f00-e950-4229-9622-bb7c4081e505/2114489033-500.jpg" data-tags="neofolk" role="button">
 Rome - Masse Mensch Material (2008-04-02)
 </li>
-<li data-cover="https://img.discogs.com/wK5U55_fkne69T4YJ4Elj4T5CUw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1406038-1600617966-7837.jpeg.jpg" data-tags="folk noir, dark folk, neoclassical, apocalyptic folk, martial neofolk, je devrais avoir mon enfer de la caresse, ahnstern, je dirai quelque jour vos naissances latentes, nox-aeternus" role="button">
-Werkraum - Early Love Music (2008-05)
-</li>
 <li data-cover="https://img.discogs.com/Sz9RMP0s5CB5u4pO4uZaJkLrsro=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1508549-1224936159.jpeg.jpg" data-tags="dark folk" role="button">
 October Falls - The Womb of Primordial Nature (2008-06-21)
 </li>
@@ -240,7 +240,7 @@ Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
 <li data-cover="http://coverartarchive.org/release/1b7e0d89-ceff-444a-9963-34fac90ba3b5/16422860334-500.jpg" data-tags="ethereal, folk, darkwave, dark folk" role="button">
 Elane - The Silver Falls (2008-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae954b72-41c8-4984-b9a9-63b53030d1d0/2471701414-500.jpg" data-tags="slowcore, neofolk, dark folk, 00s, neo folk, list, great album covers, fancy album covers, monochrome album covers, vintage album covers, psychedelic album covers,  dark folk" role="button">
+<li data-cover="http://coverartarchive.org/release/ae954b72-41c8-4984-b9a9-63b53030d1d0/2471701414-500.jpg" data-tags="slowcore, neofolk, dark folk, 00s, neo folk, fancy album covers, monochrome album covers, vintage album covers, psychedelic album covers,  dark folk" role="button">
 Matt Elliott - Howling songs (2008-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/11b2eb6b-6ecb-4cfc-b814-8ebc80dccd88/9907441763-500.jpg" data-tags="folk, dark folk, neofolk" role="button">
@@ -300,7 +300,7 @@ Syven - Aikaintaite (2011-12-06)
 <li data-cover="http://coverartarchive.org/release/749b013d-fd81-4ca1-9acd-4c5de34ba331/5904656404-500.jpg" data-tags="industrial, folk noir, neofolk, dark folk, martial industrial, neoclassical, apocalyptic folk, music i tried but didnt like, martial neofolk, je dirai quelque jour vos naissances latentes, nox-aeternus, eurasian artists european association" role="button">
 Dernière Volonté - Mon Meilleur Ennemi (2012-05-24)
 </li>
-<li data-cover="https://img.discogs.com/dvl6xSde-sW2xd_JFPh8pG5lChA=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677749-1354404864-2477.jpeg.jpg" data-tags="folk, singer-songwriter, dream folk" role="button">
+<li data-cover="https://img.discogs.com/6K6vayQ-5-CYTP1eqZtL3_szf9c=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3608524-1337203906-8071.jpeg.jpg" data-tags="folk, singer-songwriter, dream folk" role="button">
 Marissa Nadler - The Sister (2012-05-29)
 </li>
 <li data-cover="https://img.discogs.com/KqXNWOdktsybtUWsitkgcS4Hbl8=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4216023-1358787641-2284.jpeg.jpg" data-tags="post-rock, post-hardcore" role="button">

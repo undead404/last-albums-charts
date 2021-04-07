@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:55:01.390Z
+date: 2021-04-07T17:39:01.395Z
 title: "male vocalist: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -156,7 +156,7 @@ Tribalistas - Tribalistas (2002-12-17)
 <li data-cover="http://coverartarchive.org/release/2bdb07db-395f-40f3-b6a1-fa65a4f3ecc8/21696347482-500.jpg" data-tags="modern country, contemporary country" role="button">
 Chris Cagle - Chris Cagle (2003-04-01)
 </li>
-<li data-cover="https://img.discogs.com/4l4NZLiV6BM8CEuBhMq03iJ8lQA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11465506-1556128548-9936.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
+<li data-cover="https://img.discogs.com/diGbGZYc8Jx8H8Mn74hewU1L3Wk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14061549-1567093969-7229.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
 Redbone - The Essential Redbone (2003-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4c27547-665e-4992-8825-a2d3fbc362bb/5679081350-500.jpg" data-tags="alternative rock" role="button">
@@ -207,9 +207,6 @@ Brett Dennen - Brett Dennen (2005-07-12)
 <li data-cover="http://coverartarchive.org/release/4dec3817-f24f-4679-affd-9151761f59c2/6895436559-500.jpg" data-tags="country" role="button">
 Jason Aldean - Jason Aldean (2005-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/dcfbad33-5669-3801-8e7b-b2ad0e956a27/16076587767-500.jpg" data-tags="punk rock, pop punk, live" role="button">
-Simple Plan - MTV Hard Rock Live (2005-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
 Ryan Adams - 29 (2005-12-20)
 </li>
@@ -228,8 +225,11 @@ Amos Lee - Supply And Demand (2006-10-03)
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
 John Legend - Once Again (2006-10-21)
 </li>
-<li data-cover="https://img.discogs.com/GOBQZE2ox2Kt3bl4iBk0FbCVgiU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895370-1506110433-6785.jpeg.jpg" data-tags="owl city" role="button">
+<li data-cover="https://img.discogs.com/IhkOjVuBBp-HgKmkttcE6lFar0E=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828553-1462793870-4809.jpeg.jpg" data-tags="owl city" role="button">
 Owl City - Of June (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/9082127b-c734-4e0c-852a-ba986d96aba9/26066685976-500.jpg" data-tags="indie" role="button">
+Bright Eyes - Cassadaga (2007-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
@@ -270,7 +270,7 @@ Fink - Sort of Revolution (2009-03)
 <li data-cover="http://coverartarchive.org/release/9d00a87c-549c-47a3-92b4-0887db284ffb/24925640647-500.jpg" data-tags="rock, singer-songwriter" role="button">
 Gavin DeGraw - Free (2009-03-26)
 </li>
-<li data-cover="https://img.discogs.com/m-NLGlpPMBOX3HMITSRthkvwalQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2415161-1282858749.jpeg.jpg" data-tags="singer-songwriter, pop" role="button">
+<li data-cover="https://img.discogs.com/P9srilrOhUwI7o8lX9udgQhEju4=/fit-in/550x548/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3671842-1339757834-7773.jpeg.jpg" data-tags="singer-songwriter, pop" role="button">
 Milow - Milow (2009-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">

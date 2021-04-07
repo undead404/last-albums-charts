@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T23:19:01.431Z
+date: 2021-04-07T17:13:01.438Z
 title: "k-pop: 100 albums you must listen to before you die"
 ---
 ![BTS - O!Rul8,2? (2013-09-11)](http://coverartarchive.org/release/bea6cd7e-e76d-4888-854b-ab2e0eb91eac/7845831956-500.jpg "BTS - O!Rul8,2? (2013-09-11)")
@@ -51,9 +51,6 @@ After School - New Schoolgirl (2009-01-29)
 <li data-cover="http://coverartarchive.org/release/87e43622-155b-4bcd-a09e-1aa4f71854e3/7934988763-500.jpg" data-tags="super junior, k-pop, korean" role="button">
 Super Junior - SORRY, SORRY (2009-03-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/2210be01-c02f-466b-b412-aa5aeaa9f318/9671954561-500.jpg" data-tags="k-pop" role="button">
-After School - Diva (2009-04-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/3aef076e-a943-46ea-8c20-ef7cf7f851b9/15266797476-500.jpg" data-tags="k-pop" role="button">
 2NE1 - 2NE1 (2009-07-08)
 </li>
@@ -84,8 +81,8 @@ SHINee - 2009, Year of Us (2009-10-19)
 <li data-cover="http://coverartarchive.org/release/7c795ba6-7326-4540-978b-c9bd835501bf/6522774075-500.jpg" data-tags="k-pop" role="button">
 T-ARA - Absolute First Album (2009-12-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f800a2a-2a6e-490c-95c7-b5b6d380a743/7457022417-500.jpg" data-tags="k-pop, kpop, snsd" role="button">
-소녀시대 - Run Devil Run (2010-01-28)
+<li data-cover="https://img.discogs.com/j2suXClSr0YdBJ_KzKXHafqXc0E=/fit-in/469x672/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3741091-1342490990-4747.jpeg.jpg" data-tags="k-pop" role="button">
+소녀시대 - Oh! (2010-01-28)
 </li>
 <li data-cover="https://img.discogs.com/w2hfvF10OFTOPEuubn_Rt3Tukpo=/fit-in/226x223/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18013204-1616739237-1911.jpeg.jpg" data-tags="nice, k-pop, kpop" role="button">
 F.CUZ - No One (2010-03-11)
@@ -95,6 +92,9 @@ F.CUZ - No One (2010-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a864a0d8-255c-4d8e-adcc-62bff0f5f54f/11739495807-500.jpg" data-tags="k-pop" role="button">
 f(x) - NU ABO (2010-05-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/40a9c73e-202f-4f1d-9fd5-ad154e1d11eb/5244555004-500.jpg" data-tags="k-pop" role="button">
+Wonder Girls - 2 Different Tears (2010-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1617d9c1-6182-4178-b815-e9d8367f8ff5/25750327568-500.jpg" data-tags="k-pop, big bang" role="button">
 T.O.P - Turn It Up (2010-06-21)
@@ -189,6 +189,9 @@ SISTAR - Alone (2012-04-12)
 <li data-cover="http://coverartarchive.org/release/de697069-e804-4509-a7c5-4ab729d03029/1514168430-500.jpg" data-tags="k-pop" role="button">
 B.A.P - POWER (2012-04-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/e96f1b1b-ed7d-428f-b56e-6accb2ce5fb6/8391580408-500.jpg" data-tags="k-pop" role="button">
+소녀시대-태티서 - Twinkle (2012-04-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/f5662b4b-af33-41a4-a767-01b3c922b8a5/11749315775-500.jpg" data-tags="k-pop" role="button">
 SHINee - Sherlock (2012-05-16)
 </li>
@@ -258,9 +261,6 @@ Block B - Very Good (2013-10-02)
 <li data-cover="http://coverartarchive.org/release/112e4e8d-200e-4e5d-ba01-9268981f5fb8/11618458255-500.jpg" data-tags="jazz, bossa nova, k-pop, pop" role="button">
 IU - Modern Times (2013-10-07)
 </li>
-<li data-cover="https://img.discogs.com/gF6znKvR4GQAundC8RPFY_ewyvA=/fit-in/600x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9822984-1486887638-1941.jpeg.jpg" data-tags="k-pop, dance" role="button">
-Trouble Maker - Chemistry (2013-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/1cfcc6c2-a69c-424d-9832-d5e3a458fc0c/14687436534-500.jpg" data-tags="k-pop" role="button">
 miss A - HUSH (2013-11-06)
 </li>
@@ -300,7 +300,7 @@ GOT7 - GOT♡ (2014-06-23)
 <li data-cover="http://coverartarchive.org/release/8de9e123-1898-41ce-8e42-d7cc92c65279/9487744358-500.jpg" data-tags="dance, k-pop, loen entertainment, starship entertainment" role="button">
 SISTAR - TOUCH N MOVE (2014-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/92da4fdd-db4c-499b-a34e-9be9c4e3bd28/8024278310-500.jpg" data-tags="k-pop" role="button">

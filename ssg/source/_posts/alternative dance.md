@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:16:01.379Z
+date: 2021-04-07T17:04:01.498Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 New Order - Power, Corruption & Lies (1983-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
+<li data-cover="https://img.discogs.com/rg1T9gLjzeLz05GEll9mZqaW2DI=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503261-1235343459.jpeg.jpg" data-tags="new wave, 80s" role="button">
 New Order - Low-Life (1985-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bbb5a12-42f2-4bc2-81af-2a895e2e2572/26059563062-500.jpg" data-tags="80s, new wave" role="button">
@@ -132,6 +132,9 @@ Depeche Mode - Sounds of the Universe (2009-04-17)
 <li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
 Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative dance" role="button">
+Bloc Party - One More Chance (2009-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/5db5c666-e35b-40b1-af01-ff3af821bcd3/15670793276-500.jpg" data-tags="electronic" role="button">
 Simian Mobile Disco - Temporary Pleasure (2009-08-14)
 </li>
@@ -158,9 +161,6 @@ Uffie - Sex Dreams and Denim Jeans (2010-05-31)
 </li>
 <li data-cover="https://img.discogs.com/9l9HoUOk4hw3s8hYpjAkOT-YPOs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2334993-1526165469-4694.jpeg.jpg" data-tags="electronic, alternative, alternative dance, music to listen to in 2010" role="button">
 Kele - The Boxer (2010-06-18)
-</li>
-<li data-cover="https://img.discogs.com/VR-yDrVuHclp1KO-OlCkktjuqQw=/fit-in/600x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7878359-1493740742-2363.jpeg.jpg" data-tags="pop, electronic" role="button">
-Scissor Sisters - Night Work (2010-06-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 The Naked and Famous - Passive Me, Aggressive You (2010-09-06)

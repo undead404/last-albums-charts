@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:05:01.533Z
+date: 2021-04-07T17:29:01.392Z
 title: "winter: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -8,7 +8,7 @@ title: "winter: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/ccad03b6-c236-488f-9e9a-271449f88bdf/16938333495-500.jpg" data-tags="rock, alternative rock, 2000s, mute records" role="button">Nick Cave & The Bad Seeds - No More Shall We Part (2001-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/441e153d-6ce6-3a75-aa4e-65f63b88d14f/3487982154-500.jpg" data-tags="electronic" role="button">Björk - Vespertine (2001-08-18)</li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">Mirah - C'mon Miracle (2004-05-04)</li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -39,7 +39,7 @@ Quicksand - Slip (1993-02-09)
 <li data-cover="http://coverartarchive.org/release/2e728075-e9fc-49e3-bd01-5a8f37de464a/6485162992-500.jpg" data-tags="ambient, minimal, emd, electronic, experimental" role="button">
 Oval - Systemisch (1994)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/7MCsHa1bF0JNw2G-brCH9em5i7M=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82164-1164853284.jpeg.jpg" data-tags="post-rock" role="button">
 Bark Psychosis - Hex (1994-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/172ddda3-1837-4fd2-8d12-ddd1e70b4c57/9070622875-500.jpg" data-tags="electronic, trip-hop" role="button">
@@ -66,13 +66,13 @@ Mazzy Star - Among My Swan (1996-10-17)
 <li data-cover="http://coverartarchive.org/release/27d99673-cdc9-4172-bdf6-d3bd0620c0ee/15960021076-500.jpg" data-tags="singer-songwriter, 90s, indie, folk, lo-fi, mellow, slowcore" role="button">
 Smog - Red Apple Falls (1997-05-20)
 </li>
-<li data-cover="https://img.discogs.com/SwisPY83sEgK1wmD1cfzpLRRIJA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7231585-1436717398-4966.jpeg.jpg" data-tags="indie, rock, power pop, jangle pop, scottish" role="button">
+<li data-cover="https://img.discogs.com/h4GRmPnv9PV1Va_lMRbMd4vgDaI=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1800170-1458229413-3121.jpeg.jpg" data-tags="indie, rock, power pop, jangle pop, scottish" role="button">
 Teenage Fanclub - Songs From Northern Britain (1997-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/97ee5e25-e39e-40db-9e1b-85cfb681c16d/20580184854-500.jpg" data-tags="rock, winter, alternative dance, where is my bong, collected, steveadams fm, steveadamsfm, music to play on mdma, smell the rot settling in, has me dancing even now" role="button">
 Black Grape - Stupid Stupid Stupid (1997-10-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial rock" role="button">
+<li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
@@ -87,7 +87,7 @@ The 69 Eyes - Wasting the Dawn (1999-02-22)
 <li data-cover="http://coverartarchive.org/release/cad3c04b-0d25-4daa-8254-e4d65117f880/16977541773-500.jpg" data-tags="emo, alternative rock" role="button">
 Jimmy Eat World - Clarity (1999-02-23)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="chillout, downtempo" role="button">
+<li data-cover="https://img.discogs.com/7weuNBvhQq1kasHoK8Qkey0wnpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7996-1214076463.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Nitin Sawhney - Beyond Skin (1999-09-13)
 </li>
 <li data-cover="https://img.discogs.com/nHTpM2iNFe_ieR9WlIT7WYck7WY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7860499-1589151037-6233.jpeg.jpg" data-tags="guster" role="button">
@@ -114,6 +114,9 @@ The Black Heart Procession - Three (2000-09-05)
 <li data-cover="http://coverartarchive.org/release/0e70135c-379b-474e-9d91-72abc1fab102/20161665425-500.jpg" data-tags="indie, alternative, singer-songwriter, rock, country, alternative rock, folk, indie pop, indie rock, acoustic, blues, guitar" role="button">
 Damien Jurado - Ghost of David (2000-09-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/4aacec70-87db-457e-96dc-59020c412e46/6212339784-500.jpg" data-tags="electronic, trip-hop, dark, winter, 2000s, for rainy days, nice nait" role="button">
+DJ Shadow - Dark Days (2000-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/ccad03b6-c236-488f-9e9a-271449f88bdf/16938333495-500.jpg" data-tags="rock, alternative rock, 2000s, mute records" role="button">
 Nick Cave & The Bad Seeds - No More Shall We Part (2001-04-02)
 </li>
@@ -126,7 +129,7 @@ Elbow - Asleep in the Back (2001-05-03)
 <li data-cover="http://coverartarchive.org/release/441e153d-6ce6-3a75-aa4e-65f63b88d14f/3487982154-500.jpg" data-tags="electronic" role="button">
 Björk - Vespertine (2001-08-18)
 </li>
-<li data-cover="https://img.discogs.com/W-jmnX8sMr1lYW6vz0uYY7TfLLE=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1326482-1209885169.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
 Mercury Rev - All Is Dream (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d3fb06-bb1c-4f92-b7b6-13b08afe7b89/12241150919-500.jpg" data-tags="indie rock, indie" role="button">
@@ -141,13 +144,10 @@ Jimmy Eat World - Last Christmas (2001-12-10)
 <li data-cover="http://coverartarchive.org/release/cf6af256-9114-452c-a699-f7103285cbfc/11692310343-500.jpg" data-tags="ambient, minimal, winter" role="button">
 Yagya - Rhythm of Snow (2002)
 </li>
-<li data-cover="https://img.discogs.com/xrCSS7GM6WUPR8R9Sg5vxmNghn4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-582869-1401722073-7898.jpeg.jpg" data-tags="soul" role="button">
-Tweet - Southern Hummingbird (2002-04-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/0cd8b400-95e2-4be5-af82-dcf40540cdfa/2960113401-500.jpg" data-tags="slowcore" role="button">
 Low - Trust (2002-09-23)
 </li>
-<li data-cover="https://img.discogs.com/mmRaVbai-ToDt76_6__TagAYm7I=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1305762-1224905953.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/Refmjjn_eG92bwLAiCLRbiaytjQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7132141-1508811299-3309.jpeg.jpg" data-tags="indie rock" role="button">
 British Sea Power - The Decline of British Sea Power (2003-06-02)
 </li>
 <li data-cover="https://img.discogs.com/yTJ2t-oOJApxEaVPxI_k-iuaL4E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5719220-1404862392-1331.jpeg.jpg" data-tags="ambient, darkwave, dark ambient" role="button">
@@ -156,7 +156,7 @@ Antimatter - Lights Out (2003-06-28)
 <li data-cover="http://coverartarchive.org/release/a906761e-47e4-46a5-b509-6f60f46fa1e9/8731132141-500.jpg" data-tags="progressive rock, classic rock, rock, christmas, folk rock, jethro tull" role="button">
 Jethro Tull - The Jethro Tull Christmas Album (2003-09-30)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -183,7 +183,7 @@ I Can Make a Mess Like Nobody's Business - I Can Make A Mess Like Nobody's Busin
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="discoverockult" role="button">
+<li data-cover="https://img.discogs.com/HeCVoF8Y4QFel9ypPxY6QwVkkng=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3819928-1345676693-3574.jpeg.jpg" data-tags="discoverockult" role="button">
 Waking Ashland - Composure (2005-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b401b82-9820-4bbb-b2d7-b6a1b8b38464/13330484042-500.jpg" data-tags="indie rock" role="button">
@@ -195,13 +195,13 @@ Maria Taylor - 11:11 (2005-05-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
-<li data-cover="https://img.discogs.com/MSTp9Ma_WbPpEX6MLgXTC-3F5U4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1551139-1265355944.jpeg.jpg" data-tags="indie, indie pop" role="button">
+<li data-cover="https://img.discogs.com/hfN3588WIZwoIUOwg8HdEoqIT3I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-577203-1133656516.jpeg.jpg" data-tags="indie, indie pop" role="button">
 The Clientele - Strange Geometry (2005-08-29)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
 Broadcast - Tender Buttons (2005-09-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">

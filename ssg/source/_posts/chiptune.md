@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:49:01.582Z
+date: 2021-04-07T16:50:01.411Z
 title: "chiptune: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -45,6 +45,9 @@ Minusbaby - Monkey Patch (2003)
 <li data-cover="http://coverartarchive.org/release/e65bc986-01bf-4561-87b9-ade631fa6617/15836900241-500.jpg" data-tags="bitpop" role="button">
 Slagsmålsklubben - Den svenske disco (2003-06-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/fd22530b-742b-4099-bac2-1d30f3ee4bf7/14061111222-500.jpg" data-tags="chiptune" role="button">
+Bit Shifter - Life's a Bit Shifter (2003-11-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/88e9f696-1337-40d8-b8ae-47ba81f69341/4705502628-500.jpg" data-tags="chiptune" role="button">
 Twilight Electric - meanings (2004)
 </li>
@@ -62,6 +65,9 @@ Divag - Gameboy tunes (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c656efc-8861-44f2-86bd-aa81680bce0a/27499165997-500.jpg" data-tags="chiptune, free albums" role="button">
 Amor Antiquita - Metallic Sonatas (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/69d4292a-c4ae-4b26-9ef0-909f9e0fbf96/4705501836-500.jpg" data-tags="chiptune" role="button">
+Twilight Electric - Razor Blades (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e1c0ba0-ba79-4671-bb21-8e71b7ef41c8/6758429509-500.jpg" data-tags="electronic, chiptune, free albums, my favourits, my favourit chillout, in queue" role="button">
 Sabrepulse - Terra EP (2005)
@@ -93,9 +99,6 @@ Binärpilot - You Can't Stop Da Funk (2006-02-07)
 <li data-cover="http://coverartarchive.org/release/0944b888-0cda-4dba-9507-2211123bcb2c/4667208673-500.jpg" data-tags="chiptune" role="button">
 Bit Shifter - Information Chase (2006-02-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/999f7285-1fde-48b5-9847-d71905477755/15568671749-500.jpg" data-tags="futurepop" role="button">
-Code 64 - Departure (2006-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/005bc8e2-295a-4499-ad97-a1f83099cbe4/7179125571-500.jpg" data-tags="chiptune" role="button">
 Anamanaguchi - Power Supply (2006-08-26)
 </li>
@@ -120,6 +123,9 @@ Kplecraft - Multi-Boxer (2007-03)
 <li data-cover="http://coverartarchive.org/release/87983323-5b33-4f52-abdd-123ec7347e0f/4705547436-500.jpg" data-tags="chiptune" role="button">
 RushJet1 - Out There (2007-04-23)
 </li>
+<li data-cover="https://img.discogs.com/Ovkw3ys0Mewz8Wl8f5wI-NXogD0=/fit-in/596x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-954911-1251098770.jpeg.jpg" data-tags="acid, electronic, analogue and digital" role="button">
+The Tuss - Confederation Trough EP (2007-04-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c714fcd-f447-4400-b868-b0b2482829d6/6437432777-500.jpg" data-tags="chiptune" role="button">
 Nullsleep - Electric Heart Strike (2007-06)
 </li>
@@ -141,9 +147,6 @@ Binärpilot - Robot Wars (2007-07-27)
 <li data-cover="http://coverartarchive.org/release/77baaaf6-8128-400e-aee7-0e9a6ca79692/994831655-500.jpg" data-tags="8-bit" role="button">
 pornophonique - 8-bit lagerfeuer (2007-08-31)
 </li>
-<li data-cover="https://img.discogs.com/Ipo60bv5izqEScIU392O7APgipo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061449-1390963627-7623.jpeg.jpg" data-tags="chiptune" role="button">
-Goto80 - Made On Internet (2007-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/6e93a0d7-d3ce-49ff-92a4-e45d7506bce6/6311949980-500.jpg" data-tags="electronic, japanese" role="button">
 Capsule - FLASH BACK (2007-12-05)
 </li>
@@ -155,9 +158,6 @@ Stu - GreateST HITs (2007-12-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1f82e9c-251b-4a6b-91e3-c1cb6e5dfb6f/4873953886-500.jpg" data-tags="chiptune" role="button">
 Dubmood - ATARI-SKA L'ATAKK (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/fbdabeee-669a-40c9-b4af-7bb587e38cf4/11102006899-500.jpg" data-tags="8-bit" role="button">
-Sabrepulse - Turbo City (2008)
 </li>
 <li data-cover="https://img.discogs.com/K0DEDa1Dl_ANvDKPTQn0fFIv7M0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1384280-1402024140-1626.jpeg.jpg" data-tags="8-bit, chiptune, progressive electronica" role="button">
 Disasterpeace - Level (2008-01-31)
@@ -179,9 +179,6 @@ She - chiptek (2008-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b20863b4-0eb3-4065-9599-24248499ec3d/27066384557-500.jpg" data-tags="electronic, chiptune" role="button">
 Nullsleep - Unconditional Acceleration (2008-11-26)
-</li>
-<li data-cover="https://img.discogs.com/2YXK5FxA4jte18Vos4EzPVLHsMI=/fit-in/440x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1568595-1354574999-8409.png.jpg" data-tags="dubstep" role="button">
-Zomby - Zomby EP (2008-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/24fbbb1c-da51-4bbc-bd71-bd8d90b55249/8362528885-500.jpg" data-tags="8bit, 8-bit, chiptune, 8 bit, chiprock, 8bit punk, intikrec" role="button">
 :( - Kawaii (2009)
@@ -212,6 +209,9 @@ Glomag - DaMaGe (2009-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad6b4d3f-ae99-4d11-ba66-011f5ab18b4d/5843595966-500.jpg" data-tags="indietronica, 8-bit, chiptune, pop punk, dance-punk, synth punk, album covers i like" role="button">
 Math the Band - Don't Worry (2009-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7166e75d-e44a-4e23-8f09-81c4449d1baf/1212200476-500.jpg" data-tags="8bitpeoples" role="button">
+Starscream - Future, And It Doesn't Work (2009-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ed330ec-2780-4d7b-ab78-8b4008cc70a2/6662857634-500.jpg" data-tags="chiptune" role="button">
 Unicorn Kid - Wee Monsters (2009-07-13)
@@ -264,8 +264,8 @@ LukHash - Digital Memories (2011-05-14)
 <li data-cover="http://coverartarchive.org/release/5eabfd7b-638c-4d0d-8e0b-e358e1a1251f/17978515250-500.jpg" data-tags="chiptune" role="button">
 047 - Elva (2011-05-30)
 </li>
-<li data-cover="https://img.discogs.com/un58qfta0C4FwTcWV3cHWErXXpI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2976663-1310067486.jpeg.jpg" data-tags="dubstep" role="button">
-Zomby - Dedication (2011-07-07)
+<li data-cover="http://coverartarchive.org/release/06410aa9-929f-4cc1-a8b6-3d3957169b05/12166878635-500.jpg" data-tags="electronic, chiptune, 8bitpeoples, aoty2011" role="button">
+The J. Arthur Keenes Band - Computer Savvy (2011-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/93929ade-48d1-4339-b6b3-2dda7478d083/6624722304-500.jpg" data-tags="chiptune" role="button">
 zabutom - Zeta Force (2011-08-07)
