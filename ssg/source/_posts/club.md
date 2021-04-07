@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T00:33:01.373Z
+date: 2021-04-07T20:35:01.376Z
 title: "club: 100 albums you must listen to before you die"
 ---
 ![David Guetta - Pop Life (2007-06-18)](https://img.discogs.com/Qz5iu0VbwEt8XrOkRx0C9271eXw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1281007-1388702300-3698.jpeg.jpg "David Guetta - Pop Life (2007-06-18)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/33a620ae6425365d843d42ad7be3e508af29bee3/images/spacer.gif" data-tags="80s, r&b, post-disco" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="80s, r&b, post-disco" role="button">
 The Pointer Sisters - Break Out (1983-09)
 </li>
 <li data-cover="https://img.discogs.com/i6LrdHAAnU6sTXrI0_g4ePErrKo=/fit-in/569x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108426-1256542792.jpeg.jpg" data-tags="house, dance" role="button">
@@ -141,7 +141,7 @@ The Prodigy - Out of Space (2005-07)
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
 The Presets - Beams (2005-09-12)
 </li>
-<li data-cover="https://img.discogs.com/0JH2b7WQPYkPaXjCUnhwmcX73X4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10623468-1501152538-6178.jpeg.jpg" data-tags="dance, madonna" role="button">
+<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="dance, madonna" role="button">
 Madonna - Hung Up (2005-10-17)
 </li>
 <li data-cover="https://img.discogs.com/6iPQWWUEX-cJYNfmmPitdiJZiv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594028-1235087316.jpeg.jpg" data-tags="swedish" role="button">
@@ -156,7 +156,7 @@ Madonna - Sorry (2006-02-20)
 <li data-cover="https://img.discogs.com/xuG0wKoorEZIacxJFRn9UsBTUOk=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9853913-1487507531-5078.jpeg.jpg" data-tags="rock, placebo" role="button">
 Placebo - Song to Say Goodbye (2006-02-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dance, club, remix" role="button">
+<li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="dance, club, remix" role="button">
 Madonna - Get Together (2006-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/689f013e-f404-31a6-8c86-b01e1f8b3ca4/8252727529-500.jpg" data-tags="trance, dance" role="button">
@@ -186,10 +186,13 @@ Moby - Go - The Very Best Of Moby (2006-10-24)
 <li data-cover="https://img.discogs.com/KrjLwDirjXVBN_U-SW2TdL3G7Uc=/fit-in/480x417/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093043-1384333688-9589.jpeg.jpg" data-tags="spanish, electronic, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, hot, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
 Ivete Sangalo - Berimbau Metalizado (2006-10-26)
 </li>
+<li data-cover="https://img.discogs.com/SQdhu_mWq2qwufVx-I6xYp9r3wI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-511862-1593886091-9321.jpeg.jpg" data-tags="club, gilberto santarosa-cuenta regresiva" role="button">
+Bodyrox - Yeah Yeah (2006-10-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/ba10e4b2-0130-45bd-8357-f2314877a1c2/24203123268-500.jpg" data-tags="electro, dance, new wave, electro pop, club, shoegazer, cool covers, atari, leftfield, versatile, de:bug album reviews 2007, club sound, trax 2007, versatile records, jaarlijstje 2007, in queue no tracks, soon-to-buy" role="button">
 Joakim - Monsters & Silly Songs (2006-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="power pop, electro pop, indietronica, arcade pop" role="button">
+<li data-cover="https://img.discogs.com/tK4at2zNJVdKnwXw_Ccmr4oYENE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1454153-1411576685-1646.jpeg.jpg" data-tags="power pop, electro pop, indietronica, arcade pop" role="button">
 Frankmusik - Frankisum (2007)
 </li>
 <li data-cover="https://img.discogs.com/kwwtHt4M3KEIR-pbiRilBXFOz2A=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179000-1324133870.jpeg.jpg" data-tags="trance, dance, club, ibiza, dream trance, disco dance, disco trance, techno trance, sexy voice, club cafe, club trance, dj dance, club dance, dream dance, dj trance, paffendorf, be cool radio edit, paffendorf - planet dance" role="button">
@@ -212,9 +215,6 @@ Still Going - Still Going Theme (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/39453157-9cbf-42eb-bede-78f92810e88c/17193647005-500.jpg" data-tags="dance, pop, club" role="button">
 Dannii Minogue - Club Disco (2007-11-05)
-</li>
-<li data-cover="https://img.discogs.com/54GHNqf-pYG1ZXHcqsDdtR0hM20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1149111-1568357549-9771.jpeg.jpg" data-tags="power pop, pop" role="button">
-Girls Aloud - Tangled Up (2007-11-19)
 </li>
 <li data-cover="https://img.discogs.com/p0TyM75uRQ4LqL58LuPfzE7VwyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1164112-1197393502.jpeg.jpg" data-tags="electro" role="button">
 Fukkk Offf - I'm A Freak (2007-12-11)
@@ -300,7 +300,7 @@ Santigold - Master of My Make-Believe (2012-04-21)
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">
 Azealia Banks - Fantasea (2012-07-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6d36ec5-4353-40e1-bfcc-973e6598ce10/23685209531-500.jpg" data-tags="pop, happy, romantic, energetic, club, cheerful, gentle, elegant, fun, sophisticated, playful, relaxation, sweet, sensual, delicate, light, dance party, abba, celebratory, sentimental, exuberant, joyous, stylish, plaintive, naive, housework, sparkling, innocent, euro-pop, am pop, sugary, gleeful, giddy, scandinavian pop" role="button">
+<li data-cover="http://coverartarchive.org/release/d6d36ec5-4353-40e1-bfcc-973e6598ce10/23685209531-500.jpg" data-tags="pop, happy, romantic, energetic, club, cheerful, gentle, elegant, sophisticated, playful, relaxation, sweet, sensual, delicate, light, dance party, abba, celebratory, sentimental, exuberant, joyous, stylish, plaintive, naive, housework, sparkling, innocent, euro-pop, am pop, sugary, gleeful, giddy, scandinavian pop" role="button">
 ABBA - The Essential Collection (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">

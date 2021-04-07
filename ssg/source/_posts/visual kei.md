@@ -1,18 +1,18 @@
 ---
-date: 2021-04-06T22:42:01.372Z
+date: 2021-04-07T19:53:01.384Z
 title: "visual kei: 100 albums you must listen to before you die"
 ---
-![Chelsea Wolfe - Pain Is Beauty (2013-09-03)](https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg "Chelsea Wolfe - Pain Is Beauty (2013-09-03)")
+![Chelsea Wolfe - Pain Is Beauty (2013-09-03)](https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg "Chelsea Wolfe - Pain Is Beauty (2013-09-03)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/1d5cae88-9b83-483b-b1d7-25b1febbaf3b/7461042517-500.jpg" data-tags="j-rock, visual kei" role="button">DIR EN GREY - Gauze (1999-07-28)</li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">DIR EN GREY - Vulgar (2003-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">DIR EN GREY - Withering to death (2005-03-09)</li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">D'espairsRay - MIRROR (2007-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">the GazettE - STACKED RUBBISH (2007-07-04)</li>
+<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">Versailles - NOBLE (2008-07-16)</li>
 <li data-cover="http://coverartarchive.org/release/a54a4387-263e-4799-ba7e-02a2dda3d08c/11228615759-500.jpg" data-tags="visual kei, japanese" role="button">the GazettE - DIM (2009-07-15)</li>
-<li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">Chelsea Wolfe - The Grime and the Glow (2010-12-28)</li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
+<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
 <li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">Tove Lo - Queen of the Clouds (2014-09-24)</li>
 </ol>
 List of 100 - under the cut.
@@ -78,7 +78,7 @@ Loreena McKennitt - The Book Of Secrets (1997-09-30)
 <li data-cover="https://img.discogs.com/EhT0vxrjitaVdDgfQbAioxR-zfQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17899222-1616084849-2764.jpeg.jpg" data-tags="japanese, j-rock, visual kei, jrock, buck-tick, awesome albums i own" role="button">
 BUCK-TICK - SEXY STREAM LINER (1997-12-10)
 </li>
-<li data-cover="https://img.discogs.com/0kdH9367EpbagTWVtU2MCxmFeVI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832630-1424075819-3321.jpeg.jpg" data-tags="japanese, emo, anime, j-pop, visual kei, art pop, folklore intellectuel, poptron, comedy, humour, lolicore, hipster, hipsterish, not art pop, pooptron, pop, dark, gothic metal, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, totec radio, artpop, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, not epic, horny voice, amatue, post-barneycore, all boobs and no brains, miami bass, hino" role="button">
+<li data-cover="https://img.discogs.com/5LgO6iTOQHTXb7QJlKZr91wqPmQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267728-1423920050-8612.jpeg.jpg" data-tags="japanese, emo, anime, j-pop, visual kei, art pop, folklore intellectuel, poptron, comedy, humour, lolicore, hipster, hipsterish, not art pop, pooptron, pop, dark, gothic metal, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, totec radio, artpop, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, not epic, horny voice, amatue, post-barneycore, all boobs and no brains, miami bass, hino" role="button">
 GG Allin - Hated in the Nation (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/4747688c-7dfa-449e-8f3c-230d15efb809/22396052125-500.jpg" data-tags="chillout, pop, japanese, emo, female vocalists, dance, cute, epic, easy listening, gothic, new age, comedy, ethereal, humour, anime, dark ambient, j-rock, parody, j-pop, relax, halloween, bdsm, porn, what, based, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, joke, lucifer, the only true metal of steel, pretentious bullshit, doujin, nazi, racist, unoriginal, not music, wannabe, manowar, weeaboo, swag, chuck norris does not approve, fuck that shit, kawaii, 4chan, anison, folklore intellectuel, poser, lmao, worst song ever, posers, lgbt, doujin ongaku, true metal of steel, donald trump, child molester, rechtsrock" role="button">
@@ -201,7 +201,7 @@ the GazettE - NIL (2006-02-08)
 <li data-cover="http://coverartarchive.org/release/a8ba5788-59d8-42a8-a092-fb2f49d4944e/9667370225-500.jpg" data-tags="japanese, jpop, male vocalists, anime, j-rock, j-pop, boyband, visual kei, jrock, boy band, asian pop" role="button">
 abingdon boys school - INNOCENT SORROW (2006-12-06)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="japanese, visual kei, silencing" role="button">
@@ -231,11 +231,11 @@ Kagrra, - Core (2008-01-09)
 <li data-cover="https://img.discogs.com/USydrwKp4ZXsS1MwQ4ER9_tEKEw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16278016-1606460378-9188.jpeg.jpg" data-tags="heavy metal, rock, japanese, alternative rock, indie rock, hard rock, experimental rock, energetic, alternative metal, asian, confident, aggressive, fiery, freewheeling, dramatic, uplifting, male vocalists, 00s, visual kei, motivation, swaggering, lively, visceral, sprawling, boisterous, guys night out, street-smart, hanging out, rambunctious, alternative indie-rock" role="button">
 ムック - 志恩 (2008-03-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, power metal" role="button">
-Versailles -Philharmonic Quintet- - NOBLE (2008-07-16)
-</li>
 <li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
 Versailles - NOBLE (2008-07-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, power metal" role="button">
+Versailles -Philharmonic Quintet- - NOBLE (2008-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
 DIR EN GREY - Uroboros (2008-11-11)
@@ -243,7 +243,7 @@ DIR EN GREY - Uroboros (2008-11-11)
 <li data-cover="https://img.discogs.com/VKIJzKsZanT1j_nhklYxVgKXV-0=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5704521-1400417992-7120.png.jpg" data-tags="visual kei" role="button">
 the GazettE - DISTRESS AND COMA (2009-03-25)
 </li>
-<li data-cover="https://img.discogs.com/--NUi4kncbWIAW3OfC7-SRwJHHk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132741-1317283989.jpeg.jpg" data-tags="rock, instrumental, instrumental rock, rock pop, j-rock, visual kei" role="button">
+<li data-cover="https://img.discogs.com/daYIPpb4LESMbsJPE6BV2Ws96s8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11879823-1523995274-2391.jpeg.jpg" data-tags="rock, instrumental, instrumental rock, rock pop, j-rock, visual kei" role="button">
 GACKT - Flower (2009-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a54a4387-263e-4799-ba7e-02a2dda3d08c/11228615759-500.jpg" data-tags="visual kei, japanese" role="button">
@@ -303,7 +303,7 @@ Luca Turilli's Rhapsody - Ascending To Infinity (2012-06-22)
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
 Dead Can Dance - Anastasis (2012-08-13)
 </li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
+<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="https://img.discogs.com/hiWZeqeM5k9xCyjWyXAZI4ubfrw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5116555-1406384345-2667.jpeg.jpg" data-tags="worst albums of 2013, pop, japanese, emo, female vocalists, power pop, dance, jpop, why, anime, j-pop, nerdcore, cheesy, bad grammar, sucks, visual kei, engrish, shame, assholes, trump, embarrassing, bland, not metal, not rock, pompous, hipster, vocaloid, kircore, achingly intelligent, bad english, paris hilton, pop metal, unoriginal, over the top, not music, over-the-top, shameless, fucking garbage, really bad, anison, facepalm, stupid lyrics, stinks, hates america, poser, not gothic, worst song ever, hipster metal, posers, mainstream shit, immature, merda, iconic, poser metal, bs, flatulence, unimaginable brilliance, post-kircore, not darkwave, turd, not experimental, laughable, shameful, thumbs down" role="button">
@@ -312,7 +312,7 @@ Rhapsody of Fire - Dark Wings of Steel (2013-11-22)
 <li data-cover="http://coverartarchive.org/release/823b94ae-e7ad-4a15-ae93-62677d278752/26273097777-500.jpg" data-tags="hipster, pop, visual kei, japanese, emo, anime, j-pop, emocore, not music, anison, not gothic, not experimental, jpop, spam, decadence, spammer, worst song ever, church of satan, not darkwave, uninteresting, mag es von hinten, amatue, metal, female vocalists, comedy, humour, symphonic metal, power metal, meme, seiyuu, spammers, lolicore, bland, shite, achingly intelligent, spamcore, folklore intellectuel, mainstream shit, miserable failure" role="button">
 King Dude - Fear (2014-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">

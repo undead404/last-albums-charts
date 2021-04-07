@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:01:01.323Z
+date: 2021-04-07T20:03:01.376Z
 title: "modern metal: 100 albums you must listen to before you die"
 ---
 ![Dead by April - Dead by April (2009-05-13)](http://coverartarchive.org/release/a95a890f-c2be-4edd-b98e-f86421d63dab/7888128153-500.jpg "Dead by April - Dead by April (2009-05-13)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/Xs9-a5lQN3-BHrEUZ_a3Br7bFUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419855-1539940686-5350.jpeg.jpg" data-tags="metal, alternative metal, single, modern metal" role="button">
 Korn - Freak on a Leash (1998)
 </li>
-<li data-cover="https://img.discogs.com/eG1PpLRIXMqsAc3ZaREFrMQ8pW4=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8075896-1454682536-8730.jpeg.jpg" data-tags="metal" role="button">
+<li data-cover="https://img.discogs.com/uAYBDPnzE4sk0c2_oTtl0W0FveA=/fit-in/319x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4141878-1356709928-8002.jpeg.jpg" data-tags="metal" role="button">
 Soulfly - Back to the Primitive (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/565baad2-49bb-4105-9ee6-0e34ae987e2f/28181032614-500.jpg" data-tags="melodic death metal, thrash metal" role="button">
@@ -36,16 +36,16 @@ Limp Bizkit - My Way (2001-06-08)
 <li data-cover="http://coverartarchive.org/release/13103c1f-091a-457a-9933-41503e9c20b1/15248819276-500.jpg" data-tags="remix, nu metal, hip-hop" role="button">
 Limp Bizkit - New Old Songs (2001-11-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="melodic death metal, thrash metal" role="button">
+<li data-cover="https://img.discogs.com/tD96NbJQaFx_qEyuvaA-UKoMzV4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7374625-1440106941-5615.jpeg.jpg" data-tags="melodic death metal, thrash metal" role="button">
 Diablo - Renaissance (2002-02-15)
 </li>
-<li data-cover="https://img.discogs.com/2aaItR9-iUvjRXqxGEJfS5tZ8AQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3786992-1344381795-1356.jpeg.jpg" data-tags="melodic death metal" role="button">
+<li data-cover="https://img.discogs.com/d-TAxClzKW7WmG_gjLNK1Jr0Hpw=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3362482-1327391420.jpeg.jpg" data-tags="melodic death metal" role="button">
 Soilwork - Natural Born Chaos (2002-03-25)
 </li>
-<li data-cover="https://img.discogs.com/Vr5jMTKookmSlyARkO9xKiyuRZM=/fit-in/318x272/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3371712-1357762142-6553.jpeg.jpg" data-tags="thrash metal" role="button">
+<li data-cover="https://img.discogs.com/QTttsNxHvqu8GxP2q31_blNPRJI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3789374-1611442156-5958.jpeg.jpg" data-tags="thrash metal" role="button">
 Anthrax - We've Come For You All (2003-02-14)
 </li>
-<li data-cover="https://img.discogs.com/l7hGCiKFrG0BpXLEPKHZuijjyLs=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7560011-1444033981-6385.jpeg.jpg" data-tags="alternative metal, single" role="button">
+<li data-cover="https://img.discogs.com/d1f2f6c50c776450fdf23512dbd7301b20ea34dc/images/spacer.gif" data-tags="alternative metal, single" role="button">
 Limp Bizkit - Eat You Alive (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f380d3fc-cd08-43af-91b7-e4139a94d4c7/24793252799-500.jpg" data-tags="industrial metal" role="button">
@@ -60,7 +60,7 @@ Diablo - Eternium (2004-01-19)
 <li data-cover="https://img.discogs.com/aLVpx6w6QyukweV_kFxgEaf4o2k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099066-1249432677.jpeg.jpg" data-tags="industrial metal" role="button">
 Sybreed - Slave Design (2004-09-07)
 </li>
-<li data-cover="https://img.discogs.com/jakb2COac48mm0dZ7QB3VL6q94g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5163507-1397237922-8525.jpeg.jpg" data-tags="metal" role="button">
+<li data-cover="https://img.discogs.com/KLuI2Xe6RSM7f2HM_AJpidqj_Wk=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8516878-1464544682-5123.jpeg.jpg" data-tags="metal" role="button">
 Korn - Coming Undone (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f5a2495-32b2-4ee9-a512-26ab76cf1844/19086035620-500.jpg" data-tags="heavy metal" role="button">
@@ -78,7 +78,7 @@ Gamma Ray - Majestic (2005-09-22)
 <li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
 Deftones - B-Sides & Rarities (2005-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="korn" role="button">
+<li data-cover="https://img.discogs.com/s1sOzMqp6XuYEul1nWaGzZpG-BY=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2183586-1283594387.jpeg.jpg" data-tags="korn" role="button">
 Korn - Twisted Transistor (2005-11-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, post anal experience, modern metal, kircore" role="button">
@@ -96,7 +96,7 @@ Korn - Live & Rare (2006-04-28)
 <li data-cover="https://img.discogs.com/7PMDSQA0iWxNFrCykZos05TOL94=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1810662-1395786794-9012.jpeg.jpg" data-tags="metal, modern metal" role="button">
 Deftones - Hole in the Earth (2006-10-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal, nu metal" role="button">
+<li data-cover="https://img.discogs.com/El0S31TWmd-Y5lMRppyW4XiR77c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4911331-1486317834-3246.jpeg.jpg" data-tags="alternative metal, nu metal" role="button">
 Digital Summer - Cause and Effect (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/da65f6ac-e6d4-4d1f-942a-32abf4ea6cf3/8963427431-500.jpg" data-tags="metal, alternative metal, modern metal" role="button">
@@ -123,7 +123,7 @@ Mercenary - Architect Of Lies (2008-03-21)
 <li data-cover="http://coverartarchive.org/release/e67f8da1-88b9-3a9c-be1c-f40dbab896b2/20457737757-500.jpg" data-tags="melodic death metal" role="button">
 In Flames - A Sense of Purpose (2008-03-26)
 </li>
-<li data-cover="https://img.discogs.com/jzoIITqs0S1Sz6tTSfW8YOG0yL8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6819344-1435691729-9541.jpeg.jpg" data-tags="melodic death metal" role="button">
+<li data-cover="https://img.discogs.com/RdyCUGpAwh8h8bRfbV3iSjisVN4=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1636464-1363176754-8740.jpeg.jpg" data-tags="melodic death metal" role="button">
 Diablo - Icaros (2008-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db97e47-7fd3-4100-9163-be689a61fa55/1502509246-500.jpg" data-tags="melodic death metal" role="button">
@@ -161,6 +161,9 @@ Divine Heresy - Bringer of Plagues (2009-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7500a15-ef79-3358-a990-684205c918b7/1019758085-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Indukti - Idmen (2009-07-27)
+</li>
+<li data-cover="https://img.discogs.com/d1f2f6c50c776450fdf23512dbd7301b20ea34dc/images/spacer.gif" data-tags="groove metal, lamb of god, modern metal" role="button">
+Dirge Within - Force Fed Lies (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cace501-a1f9-3ada-8fcb-689630a82c2f/16098709945-500.jpg" data-tags="melodic death metal" role="button">
 The Black Dahlia Murder - Deflorate (2009-09-11)
@@ -228,9 +231,6 @@ Dead by April - Within My Heart (2011-05-16)
 <li data-cover="http://coverartarchive.org/release/6f38a9f9-6538-4745-9dde-d00cacbe2dff/8273688325-500.jpg" data-tags="alternative metal, melodic death metal" role="button">
 In Flames - Sounds of a Playground Fading (2011-06-15)
 </li>
-<li data-cover="https://img.discogs.com/hBWQzYRKR0drqcJK-fpgwTqSDkQ=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477567-1582187041-1932.jpeg.jpg" data-tags="metalcore, progressive metal, melodic death metal, nwoahm, modern metal, modern death metal, progressive melodic death metal, melodic metalcore, modern melodic death metal, technical melodic death metal, new wave of american heavy metal, modern melodic metal, melodic modern metal, technical melodic metalcore" role="button">
-World Under Blood - Tactical (2011-07-26)
-</li>
 <li data-cover="https://img.discogs.com/AeWWqgoUwqny7UBmJQxQ6Hbyl1I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3236571-1321746303.jpeg.jpg" data-tags="melodic metalcore" role="button">
 Dead by April - Incomparable (2011-09-21)
 </li>
@@ -285,14 +285,14 @@ Dark Age - A Matter of Trust (2013-09-06)
 <li data-cover="http://coverartarchive.org/release/da714bba-e7a9-4051-88ba-6186c449f399/5372279436-500.jpg" data-tags="metalcore, thrash metal" role="button">
 Trivium - Vengeance Falls (2013-10-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/06b8b913-261b-4cfc-b27f-616f21c97f81/6129831573-500.jpg" data-tags="industrial metal" role="button">
-Mechina - Xenon (2014-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/3e4e3a75-da30-46e9-a2a7-db5c31e812b6/5853479926-500.jpg" data-tags="nu metal" role="button">
 Of Mice & Men - Restoring Force (2014-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9f54627-05d5-47a6-a048-a94e425107cc/10071534572-500.jpg" data-tags="melodic death metal, modern melodic death metal" role="button">
 The Unguided - Fragile Immortality (2014-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/7fa1a388-0cc0-4959-b951-f258617bb515/6476429389-500.jpg" data-tags="modern metal, eternal creations of infinite grandeur" role="button">
+Fear Of Domination - Distorted Delusions (2014-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/55efacfd-ff98-49a9-9136-82d07f09ae0e/8179869222-500.jpg" data-tags="metalcore" role="button">
 Dead by April - Let The World Know (2014-02-12)
@@ -300,7 +300,7 @@ Dead by April - Let The World Know (2014-02-12)
 <li data-cover="http://coverartarchive.org/release/d38eb752-3eef-4fed-8128-125b89406dc7/6655634678-500.jpg" data-tags="progressive metal, melodic death metal, mathcore, modern metal, melodic death metalcore" role="button">
 Destrage - Are You Kidding Me? No. (2014-03-04)
 </li>
-<li data-cover="https://img.discogs.com/TZTjYqiQbGDnsGgBENRMx-tS89Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949752-1412167722-7615.jpeg.jpg" data-tags="melodic death metal, alternative metal, nu metal, avant-garde metal" role="button">
+<li data-cover="https://img.discogs.com/5kdvM01Law4YeL6YvAZVPb24N38=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6791820-1426712411-9027.jpeg.jpg" data-tags="melodic death metal, alternative metal, nu metal, avant-garde metal" role="button">
 Avatar - Hail the Apocalypse (2014-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f94edec-2059-4fe3-a41f-7ab70fee0d85/8471838075-500.jpg" data-tags="metalcore" role="button">

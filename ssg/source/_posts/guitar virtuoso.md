@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T00:55:01.391Z
+date: 2021-04-07T20:40:01.390Z
 title: "guitar virtuoso: 100 albums you must listen to before you die"
 ---
 ![Joe Satriani - Surfing With The Alien (1987-10-15)](http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg "Joe Satriani - Surfing With The Alien (1987-10-15)")
@@ -7,10 +7,10 @@ title: "guitar virtuoso: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">Joe Satriani - Surfing With The Alien (1987-10-15)</li>
 <li data-cover="https://img.discogs.com/1mENplx7WrPEdtH1yjQLVO47f1o=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5741976-1457531625-8181.mpo.jpg" data-tags="rock, instrumental rock, guitar virtuoso" role="button">Eric Johnson - Ah Via Musicom (1990-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/7a83e47e-78be-4992-bcff-c3cb6c2683db/4608197588-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">Steve Vai - Passion and Warfare (1990-05)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental rock, guitar virtuoso, instrumental" role="button">Joe Satriani - The Extremist (1992)</li>
+<li data-cover="https://img.discogs.com/zcbdxYi8QP7ObDrIpoZiAqtfJJw=/fit-in/600x906/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178290-1543779095-8106.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso, instrumental" role="button">Joe Satriani - The Extremist (1992)</li>
 <li data-cover="http://coverartarchive.org/release/6fc1a4df-ceb8-4d79-84c1-0f3d6f207750/23035733527-500.jpg" data-tags="guitar virtuoso, instrumental rock, guitar" role="button">Steve Vai - Alien Love Secrets (1995-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/6173c409-e099-46e8-b823-677bb08b255a/14928692380-500.jpg" data-tags="instrumental, ambient, guitar virtuoso" role="button">Buckethead - Colma (1998-03-24)</li>
-<li data-cover="http://coverartarchive.org/release/cfd92983-290c-43ac-bf0a-288f94f2dc0c/15544660361-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">Joe Satriani - Strange Beautiful Music (2002-06-25)</li>
+<li data-cover="https://img.discogs.com/5h_ZrW3sDyRcs5RDs9QWzsN9gvc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7872856-1450630821-7855.jpeg.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">Joe Satriani - Strange Beautiful Music (2002-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/7ad421cb-26d8-47d9-ac97-ef0ba5230646/14928752516-500.jpg" data-tags="instrumental, guitar virtuoso, experimental" role="button">Buckethead - Electric Tears (2002-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/73f34799-1a4c-4ecb-89dc-2a05a0f1103b/4526835963-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">Joe Satriani - Is There Love in Space? (2004-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/39d56964-24ff-49e8-9cdd-939568ca2901/1617756617-500.jpg" data-tags="guitar virtuoso, instrumental, progressive metal" role="button">John Petrucci - Suspended Animation (2005-03-01)</li>
@@ -54,11 +54,8 @@ Alcatrazz - No Parole from Rock 'n' Roll (1983)
 <li data-cover="http://coverartarchive.org/release/dff1f058-7249-429a-8b44-25c215d8329f/1290813982-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Flex-able (1984)
 </li>
-<li data-cover="https://img.discogs.com/G4oW8eFATgiOujkAq1_EASftMfY=/fit-in/482x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-904718-1433428403-9349.jpeg.jpg" data-tags="classic rock, rock, 80s, guitar virtuoso" role="button">
+<li data-cover="https://img.discogs.com/ev-SNwdbqlGbwgSQIW5zhC2Ku1s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9092348-1474643645-2415.jpeg.jpg" data-tags="classic rock, rock, 80s, guitar virtuoso" role="button">
 Toto - Isolation (1984)
-</li>
-<li data-cover="https://img.discogs.com/OiG5ZQKZbEsEyGeAQDTdqx9Aj74=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6775085-1426366761-4717.jpeg.jpg" data-tags="classic rock, rock, female vocalists, female vocalist" role="button">
-Fleetwood Mac - Live in Boston (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/98fa3a29-38bb-3ff2-a34d-bfa27f0381dc/19700179286-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Not of This Earth (1986)
@@ -102,7 +99,7 @@ Gary Moore - Still Got the Blues (1990-04-04)
 <li data-cover="http://coverartarchive.org/release/7a83e47e-78be-4992-bcff-c3cb6c2683db/4608197588-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Passion and Warfare (1990-05)
 </li>
-<li data-cover="https://img.discogs.com/g3I8x5k5mtWtsBvb-Iu3e6g3gpI=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-898038-1181200759.jpeg.jpg" data-tags="blues rock, blues, guitar" role="button">
+<li data-cover="https://img.discogs.com/grSpfqZqsV9qFkpFEpGHnT9B-D8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320471-1317829073.jpeg.jpg" data-tags="blues rock, blues, guitar" role="button">
 The Vaughan Brothers - Family Style (1990-09-25)
 </li>
 <li data-cover="https://img.discogs.com/7aFINOY3R4gg3XpTLiN3Kyp12IA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6421107-1418785861-3056.jpeg.jpg" data-tags="guitar virtuoso" role="button">
@@ -111,7 +108,7 @@ Santana - The Best of Santana (1991)
 <li data-cover="http://coverartarchive.org/release/829382cf-c96a-40a8-aef9-5d725d54cc2f/7538809120-500.jpg" data-tags="blues, guitar virtuoso, roy buchanan" role="button">
 Roy Buchanan - Buch and the Snake Stretchers (1992)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental rock, guitar virtuoso, instrumental" role="button">
+<li data-cover="https://img.discogs.com/zcbdxYi8QP7ObDrIpoZiAqtfJJw=/fit-in/600x906/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178290-1543779095-8106.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso, instrumental" role="button">
 Joe Satriani - The Extremist (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a88cc8-2ce3-4ca3-afd7-d2411844b122/18759016208-500.jpg" data-tags="classic rock, rock" role="button">
@@ -141,10 +138,10 @@ Steve Vai - Alien Love Secrets (1995-03-21)
 <li data-cover="http://coverartarchive.org/release/af0ade95-df87-45ff-b98d-97306b9e916c/5371373102-500.jpg" data-tags="guitar virtuoso" role="button">
 Michael Angelo Batio - No Boundaries (1995-09-01)
 </li>
-<li data-cover="https://img.discogs.com/yi-A9-t3RdTwhtcm-gUg-eX-NZI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9822483-1487156725-2149.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
+<li data-cover="https://img.discogs.com/TcvE-fZfDwmMTLJsYBKki7XoYnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9951469-1489114858-5063.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Joe Satriani - Joe Satriani (1995-10-10)
 </li>
-<li data-cover="https://img.discogs.com/CF800GQ8UOepYNXMuNOqM8t9LV0=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10395328-1496669865-2521.jpeg.jpg" data-tags="guitar virtuoso, instrumental" role="button">
+<li data-cover="https://img.discogs.com/tC3bbcwG2xz1bOJ1UgiVQmLW2Z8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9257292-1477491778-5649.jpeg.jpg" data-tags="guitar virtuoso, instrumental" role="button">
 Marty Friedman - True Obsessions (1996-04-17)
 </li>
 <li data-cover="https://img.discogs.com/mNXWnxU6AigruWA4NqM5Yj2B2dk=/fit-in/500x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806104-1504454664-2413.jpeg.jpg" data-tags="guitar virtuoso" role="button">
@@ -153,7 +150,7 @@ Jason Becker - Perspective (1996-05-21)
 <li data-cover="http://coverartarchive.org/release/e64ca838-3e17-4fa8-95c0-a4ca9fc131ac/6284702972-500.jpg" data-tags="guitar virtuoso" role="button">
 Eric Johnson - Venus Isle (1996-09-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="instrumental rock, guitar virtuoso" role="button">
+<li data-cover="https://img.discogs.com/oOx0rjsmKvMy2n-zxGt6EV-Dfqc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3357095-1383601658-5363.jpeg.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Fire Garden (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c61fc3f-f5b2-4789-a208-a62965f4eecd/6968354340-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
@@ -171,10 +168,13 @@ Steve Vai - The Ultra Zone (1999-08-21)
 <li data-cover="https://img.discogs.com/FGhz_1zDew2-jV-9NsE3PZ3NX5Q=/fit-in/189x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16452831-1607835740-3610.jpeg.jpg" data-tags="experimental, avant-garde, guitar virtuoso" role="button">
 Buckethead - Monsters And Robots (1999-09-08)
 </li>
+<li data-cover="https://img.discogs.com/G0na97UXPGR64rNnimPAjePuEBI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8744006-1467822837-6372.jpeg.jpg" data-tags="rock, classic rock" role="button">
+Toto - Mindfields (1999-11-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/b4803f49-06f2-383f-b790-10d1fff6b85e/15544478160-500.jpg" data-tags="instrumental rock" role="button">
 Joe Satriani - Engines of Creation (2000-03-13)
 </li>
-<li data-cover="https://img.discogs.com/1qFi9RSE37H6Qt39MNlcLJGad7Y=/fit-in/600x843/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9017590-1473346291-6572.jpeg.jpg" data-tags="blues rock" role="button">
+<li data-cover="https://img.discogs.com/T-dzms9Q1snuS78yHLDSQdzo7Vc=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4037835-1353171595-3128.jpeg.jpg" data-tags="blues rock" role="button">
 Joe Bonamassa - A New Day Yesterday (2000-10-24)
 </li>
 <li data-cover="https://img.discogs.com/h8E77VPub3W_ckBglx9y_HUt2VU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8254566-1458042076-9050.jpeg.jpg" data-tags="guitar virtuoso, jeff beck, rock, guitar" role="button">
@@ -183,13 +183,13 @@ Jeff Beck - You Had It Coming (2000-11-15)
 <li data-cover="https://img.discogs.com/TkppRoHm77iJ9cTYtaK1xlOehaE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479064-1599514301-9114.jpeg.jpg" data-tags="instrumental, progressive rock" role="button">
 John Petrucci & Jordan Rudess - An Evening With John Petrucci & Jordan Rudess (2000-12-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="blues rock" role="button">
+<li data-cover="https://img.discogs.com/AwH1a7GVNnghrZj1PCtYZV0GJGc=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14800801-1582062649-2695.jpeg.jpg" data-tags="blues rock" role="button">
 Joe Bonamassa - So, It's Like That (2002)
 </li>
 <li data-cover="https://img.discogs.com/15w7al9qUqcYoydsV9CcpM2xlXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11218284-1512089234-1645.jpeg.jpg" data-tags="guitar virtuoso" role="button">
 Andy Timmons - That Was Then, This Is Now (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/cfd92983-290c-43ac-bf0a-288f94f2dc0c/15544660361-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
+<li data-cover="https://img.discogs.com/5h_ZrW3sDyRcs5RDs9QWzsN9gvc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7872856-1450630821-7855.jpeg.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
 Joe Satriani - Strange Beautiful Music (2002-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ad421cb-26d8-47d9-ac97-ef0ba5230646/14928752516-500.jpg" data-tags="instrumental, guitar virtuoso, experimental" role="button">

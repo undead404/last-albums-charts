@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:46:06.848Z
+date: 2021-04-07T20:45:01.782Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -29,9 +29,6 @@ Bad Religion - No Control (1989-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba596074-ef87-4619-a9c5-b3c548c7a11a/4802623914-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
 Pennywise - Pennywise (1991-10-22)
-</li>
-<li data-cover="https://img.discogs.com/RKrMfCt1f8dkntd-nh1eTO5dP9M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10787588-1504323125-5693.jpeg.jpg" data-tags="melodic hardcore, punk rock" role="button">
-Pennywise - Unknown Road (1993-08-17)
 </li>
 <li data-cover="https://img.discogs.com/POOQ9xff8fwKnmNldW7ZLuccl34=/fit-in/598x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370028-1250436623.jpeg.jpg" data-tags="punk rock" role="button">
 Pennywise - About Time (1995-06-13)
@@ -138,7 +135,7 @@ Alexisonfire - Crisis (2005-08-22)
 <li data-cover="http://coverartarchive.org/release/bc930f49-ee54-46cc-a3d2-4d5bdd778a9a/7741562142-500.jpg" data-tags="metalcore, hardcore, melodic hardcore" role="button">
 Stick to Your Guns - For What It's Worth (2005-08-30)
 </li>
-<li data-cover="https://img.discogs.com/Frfn67xkX8skCBMcg-hcNiZTunQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756814-1241364265.jpeg.jpg" data-tags="punk, punk rock" role="button">
+<li data-cover="https://img.discogs.com/uabzvAXqB5mOtROxF3rV2THuRWw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5013815-1382137753-7896.jpeg.jpg" data-tags="punk, punk rock" role="button">
 Propagandhi - Potemkin City Limits (2005-10-18)
 </li>
 <li data-cover="https://img.discogs.com/EInZAV_W02n2rIqFuuO7DXrcWzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878619-1249674773.jpeg.jpg" data-tags="hardcore punk" role="button">
@@ -159,7 +156,7 @@ Rise Against - The Sufferer & the Witness (2006-07-03)
 <li data-cover="http://coverartarchive.org/release/3990b389-b207-4e15-8164-c52e97734051/5780338872-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - Dear Love: A Beautiful Discord (2006-08-22)
 </li>
-<li data-cover="https://img.discogs.com/C2ZtUqHamH5Zohmf1N5LzXwwoQs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2114796-1264844492.jpeg.jpg" data-tags="punk, melodic hardcore, punk rock" role="button">
+<li data-cover="https://img.discogs.com/RctQjk9ylZFGEPV5rtgG8BUxYEc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445427-1330818907.jpeg.jpg" data-tags="punk, melodic hardcore, punk rock" role="button">
 Strike Anywhere - Dead FM (2006-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
@@ -170,6 +167,9 @@ Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad7487f1-fb31-4085-a954-3675dbcb4718/3376998660-500.jpg" data-tags="punk rock, pop punk, melodic hardcore" role="button">
+Lifetime - Lifetime (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1f8f3fb-a686-4945-9828-4ac22e756bce/3376080622-500.jpg" data-tags="hardcore" role="button">
 Comeback Kid - Broadcasting (2007-02-20)
@@ -216,7 +216,7 @@ The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
 <li data-cover="http://coverartarchive.org/release/d2c866fb-356d-4d5c-a1f3-6ad8e0695e3e/3370165259-500.jpg" data-tags="pop punk, melodic hardcore" role="button">
 Title Fight - The Last Thing You Forget (2009-07-01)
 </li>
-<li data-cover="https://img.discogs.com/3COtue0lKz86I5vXy6-jAPcSF18=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3009569-1567268717-7517.jpeg.jpg" data-tags="pop punk" role="button">
+<li data-cover="https://img.discogs.com/xK2Vjtlu9FFiVQaIFctHEYf396k=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2710888-1344803766-1908.jpeg.jpg" data-tags="pop punk" role="button">
 Set Your Goals - This Will Be The Death of Us (2009-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/31a49f1c-a283-4caa-84ed-ee6964b00306/27059154815-500.jpg" data-tags="alternative rock, hardcore, pop punk, southern rock, melodic hardcore, tragic hero" role="button">
@@ -270,7 +270,7 @@ For the Fallen Dreams - Back Burner (2011-05-24)
 <li data-cover="http://coverartarchive.org/release/c040773a-9768-4328-8095-e5c08bec91d2/12077625512-500.jpg" data-tags="emo, post-hardcore, melodic hardcore" role="button">
 Basement - I Wish I Could Stay Here (2011-06-05)
 </li>
-<li data-cover="https://img.discogs.com/a7EhVIhvtpD057G3QIb6CYE4IBs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2977626-1310092097.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/FSNVz6ClhLwEqnQppWgCn_Hdp5M=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955044-1415198215-4656.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
 Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
 </li>
 <li data-cover="https://img.discogs.com/puJY5j6wEnfdKN3LgM_tarrNVko=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3223064-1321147837.jpeg.jpg" data-tags="melodic hardcore" role="button">
