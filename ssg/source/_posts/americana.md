@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:27:01.416Z
+date: 2021-04-07T02:56:01.394Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -38,9 +38,6 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdd63811-5c17-41a1-aa95-73d0fac9b957/14017331036-500.jpg" data-tags="70s, elton john, classic rock" role="button">
 Elton John - Tumbleweed Connection (1970-10-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e04e5d7-ed79-3e2e-8558-6df68bab5f6d/19688294474-500.jpg" data-tags="folk, singer-songwriter" role="button">
-John Prine - John Prine (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c29c50c-6c65-385f-a883-59d952c1b239/4192952574-500.jpg" data-tags="country, americana" role="button">
 Townes Van Zandt - High, Low And In Between (1972)
@@ -176,6 +173,9 @@ Iron & Wine and Calexico - In the Reins (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
 Ryan Adams - 29 (2005-12-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="americana, bluegrass, country-folk, emusic, heavy rotation, ramshackle, the avett brothers, produced by doug williams" role="button">
+The Avett Brothers - Four Thieves Gone: The Robbinsville Sessions (2006-02-06)
 </li>
 <li data-cover="https://img.discogs.com/beowalMRNZmW5GIaRtWKWjFu_fc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-682006-1147158422.jpeg.jpg" data-tags="alt-country" role="button">
 Neko Case - Fox Confessor Brings the Flood (2006-03-07)

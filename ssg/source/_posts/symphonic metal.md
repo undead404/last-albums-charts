@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T12:28:01.513Z
+date: 2021-04-07T03:06:01.379Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -10,10 +10,10 @@ title: "symphonic metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Century Child (2002-06-24)</li>
 <li data-cover="https://img.discogs.com/wP0yO0OllDd5B0pVrdx06teWmnM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348455-1211722786.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Once (2004-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Silent Force (2004-11-15)</li>
+<li data-cover="http://coverartarchive.org/release/f070fbc3-adfe-496a-b1db-d253487d6158/5647069242-500.jpg" data-tags="symphonic metal" role="button">Apocalyptica - Apocalyptica (2005-01-24)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal, cello metal" role="button">Apocalyptica - Worlds Collide (2007-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
-<li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Unforgiving (2011-03-25)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -32,9 +32,6 @@ Therion - Theli (1996-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a8223b-872d-465d-a86c-9c54f0b9910b/4664662125-500.jpg" data-tags="gothic metal" role="button">
 Within Temptation - Enter (1996-09)
-</li>
-<li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
-Lacrimosa - Stille (1997-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b038ec56-cf0e-48fd-90fd-123144995d17/1290590793-500.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Legendary Tales (1997-10-27)
@@ -96,7 +93,7 @@ Nightwish - From Wishes To Eternity (2001-03-12)
 <li data-cover="http://coverartarchive.org/release/dcaa1f02-3bad-4337-be7e-c769fd9df9e7/1287074936-500.jpg" data-tags="power metal" role="button">
 Kamelot - Karma (2001-05-07)
 </li>
-<li data-cover="https://img.discogs.com/k6nwq8unLw_b0w2OTfceJ7KnHYg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1235200-1551185779-4769.jpeg.jpg" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/NL4lAQ9lmg5N7KfeXHmmdPjUYd8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2573584-1439747491-5758.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Over the Hills and Far Away (2001-06-25)
 </li>
 <li data-cover="https://img.discogs.com/Hc-kerojMLeDgG8YtSZ7CD4DH1U=/fit-in/451x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1185361-1199497793.jpeg.jpg" data-tags="gothic metal" role="button">
@@ -105,7 +102,7 @@ Tristania - World of Glass (2001-09-24)
 <li data-cover="https://img.discogs.com/SWsNxG96QPYsX38jIm4nZbAuK-4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820668-1484762081-9976.jpeg.jpg" data-tags="symphonic metal" role="button">
 Therion - Secret Of The Runes (2001-10-08)
 </li>
-<li data-cover="https://img.discogs.com/FF5DIMvzWA3_lYWAskJDZOq8kcE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12668200-1539691429-6474.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Rain of a Thousand Flames (2001-12-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
@@ -171,7 +168,7 @@ Within Temptation - The Silent Force (2004-11-15)
 <li data-cover="http://coverartarchive.org/release/f070fbc3-adfe-496a-b1db-d253487d6158/5647069242-500.jpg" data-tags="symphonic metal" role="button">
 Apocalyptica - Apocalyptica (2005-01-24)
 </li>
-<li data-cover="https://img.discogs.com/QwK-r1ldXQjtGj0UzIhY8bE2B1E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10881431-1505865280-5394.jpeg.jpg" data-tags="power metal" role="button">
+<li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">
 Kamelot - The Black Halo (2005-02-16)
 </li>
 <li data-cover="https://img.discogs.com/jy_soO58j55CsAG3cvS-Vw6Siow=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5107953-1384706200-8069.jpeg.jpg" data-tags="symphonic metal" role="button">
@@ -260,6 +257,9 @@ Avantasia - The Scarecrow (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fcba7d8-952b-4cd9-b9f5-eb3d7550ac20/2490616264-500.jpg" data-tags="symphonic metal" role="button">
 Amberian Dawn - River of Tuoni (2008-01-30)
+</li>
+<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
+Versailles - NOBLE (2008-07-16)
 </li>
 <li data-cover="https://img.discogs.com/P5qhwKGVpnKQVtKgJZKzxHzBIUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7753234-1448067141-3556.jpeg.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - Black Symphony (2008-08-22)

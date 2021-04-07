@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T18:59:01.515Z
+date: 2021-04-07T03:02:01.392Z
 title: "electro house: 100 albums you must listen to before you die"
 ---
 ![Calvin Harris - Motion (2014-10-31)](http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg "Calvin Harris - Motion (2014-10-31)")
@@ -92,6 +92,9 @@ MSTRKRFT - Heartbreaker (2009)
 </li>
 <li data-cover="https://img.discogs.com/3AuOfzttp6c5coNcDn4WiaHYRVE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2019036-1258978077.jpeg.jpg" data-tags="electronic, dance" role="button">
 Example - Won't Go Quietly (2009)
+</li>
+<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
+MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/QJAAG1_fgUM82slexCWqSydm7Gs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2232652-1277744631.jpeg.jpg" data-tags="electro house" role="button">
 Dada Life - Just Do The Dada (2009-06-13)
@@ -209,9 +212,6 @@ Madeon - Icarus (2012-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cca170bb-b8a8-4382-9a20-03e9c4887e04/22558971521-500.jpg" data-tags="electronic" role="button">
 Porter Robinson - Language (2012-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ff9c630-6bde-4334-a3ba-54cadd2efeca/18400177932-500.jpg" data-tags="dubstep, house" role="button">
-Klaypex - Ready to Go (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4791cdf8-f6aa-411d-a4a2-f72955d03528/7333829426-500.jpg" data-tags="electronic, electro house" role="button">
 The M Machine - Metropolis Pt. I (2012-04-24)

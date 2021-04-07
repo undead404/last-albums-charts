@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:21:01.361Z
+date: 2021-04-07T03:22:01.386Z
 title: "krautrock: 100 albums you must listen to before you die"
 ---
 ![Can - Tago Mago (1971)](http://coverartarchive.org/release/c2d5e8d7-11e7-44db-bcb6-6c255a750c22/15593016402-500.jpg "Can - Tago Mago (1971)")
@@ -42,9 +42,6 @@ Amon Düül II - Yeti (1970-04)
 <li data-cover="https://img.discogs.com/zcWJurP9o7e0KHtuwzG9w_0KjnM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710400-1341391911-1626.jpeg.jpg" data-tags="krautrock, experimental" role="button">
 Tangerine Dream - Electronic Meditation (1970-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/57ceaa04-f3b1-445c-a7b3-154319f6a3ab/9608039316-500.jpg" data-tags="krautrock" role="button">
-Kraftwerk - Kraftwerk (1970-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e964b19-62ce-4ab4-a67c-e183586560a9/9916032528-500.jpg" data-tags="krautrock" role="button">
 Ash Ra Tempel - Ash Ra Tempel (1971)
 </li>
@@ -78,6 +75,9 @@ Birth Control - Hoodoo Man (1972)
 <li data-cover="http://coverartarchive.org/release/8ea4b878-756e-3579-9c91-70623918c04c/9735906881-500.jpg" data-tags="experimental, new age, krautrock" role="button">
 Popol Vuh - Hosianna Mantra (1972)
 </li>
+<li data-cover="https://img.discogs.com/p2i823QdPc-a8p17nlJVMy2wZMQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2012126-1392726636-2584.jpeg.jpg" data-tags="krautrock" role="button">
+Guru Guru - Känguru (1972)
+</li>
 <li data-cover="https://img.discogs.com/A8Q1FjBMKODKL1WWbAaHEsGrkE0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501853-1219671378.jpeg.jpg" data-tags="new age, chillout" role="button">
 Mythos - Mythos (1972)
 </li>
@@ -86,6 +86,9 @@ Neu! - Neu! (1972)
 </li>
 <li data-cover="https://img.discogs.com/kLsQGkNyQXZp5z83u5V5wnuVII0=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-285142-1088604361.jpg.jpg" data-tags="krautrock" role="button">
 Ash Ra Tempel - Schwingungen (1972)
+</li>
+<li data-cover="https://img.discogs.com/8B8HicvFQ23yq1CPoI1-TnuhWX0=/fit-in/150x141/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745022-1154448525.gif.jpg" data-tags="krautrock" role="button">
+Faust - So Far (1972)
 </li>
 <li data-cover="https://img.discogs.com/SBpeRCGuKoOoyQJdF-kyOb0JzwA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-633053-1273844873.jpeg.jpg" data-tags="krautrock" role="button">
 Amon Düül II - Wolf City (1972)
@@ -107,9 +110,6 @@ Faust - Faust IV (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/a972b515-5e71-3ebc-89bf-572d4d4477b4/9917233792-500.jpg" data-tags="krautrock" role="button">
 Can - Future Days (1973)
-</li>
-<li data-cover="http://coverartarchive.org/release/dabffad6-2b97-4838-b899-558d050b9024/27508222851-500.jpg" data-tags="progressive rock" role="button">
-Eloy - Inside (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/89afcfc0-a4b3-300a-87a8-42089b265352/9916054733-500.jpg" data-tags="krautrock" role="button">
 Ash Ra Tempel - Join Inn (1973)
@@ -219,7 +219,7 @@ Stereolab - Emperor Tomato Ketchup (1996-03-18)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
-<li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/413e60c9-6de0-4a1c-a1fb-e37655bfc1d2/7022558425-500.jpg" data-tags="psychedelic" role="button">
@@ -240,7 +240,7 @@ Ataxia - Automatic Writing (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/59445953-1f4d-4c63-b1f4-df5e3a83c7a8/20161653105-500.jpg" data-tags="electronic" role="button">
 Caribou - The Milk of Human Kindness (2005-04-18)
 </li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
 Broadcast - Tender Buttons (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:36:01.445Z
+date: 2021-04-07T02:55:07.042Z
 title: "avant-garde metal: 100 albums you must listen to before you die"
 ---
 ![Diablo Swing Orchestra - The Butcher&#39;s Ballroom (2006-08-17)](http://coverartarchive.org/release/35b41b77-c4f8-3c1f-8041-901565f9f45d/1111418808-500.jpg "Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)")
@@ -24,10 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/3d664bf1-22f3-4651-b4b1-83521ed4145d/14898575688-500.jpg" data-tags="thrash metal, avant-garde metal" role="button">
 Celtic Frost - Into The Pandemonium (1987-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/f860914b-82a5-39c1-a63b-7e1a77b58d53/15829726302-500.jpg" data-tags="industrial metal, industrial" role="button">
-Godflesh - Godflesh (1988)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
+<li data-cover="https://img.discogs.com/HJT94iGkU8e2ZxaB2qa_BtPI39w=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893051-1170005593.jpeg.jpg" data-tags="experimental" role="button">
 Mr. Bungle - Mr. Bungle (1991-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
@@ -186,6 +183,9 @@ Diablo Swing Orchestra - The Butcher's Ballroom (2006-08-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde metal, experimental" role="button">
 Unexpect - In A Flesh Aquarium (2006-08-22)
 </li>
+<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists" role="button">
+Katy Perry - Ur So Gay (2007-01-15)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave, avant-garde metal" role="button">
 Professor Fate - The Inferno (2007-03)
 </li>
@@ -309,7 +309,7 @@ Kayo Dot - Hubardo (2013-08-30)
 <li data-cover="http://coverartarchive.org/release/681e36f2-442c-43dd-aad4-93ca98f14c14/7836195165-500.jpg" data-tags="progressive metal, avant-garde metal" role="button">
 Vulture Industries - The Tower (2013-09-27)
 </li>
-<li data-cover="https://img.discogs.com/TZTjYqiQbGDnsGgBENRMx-tS89Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5949752-1412167722-7615.jpeg.jpg" data-tags="melodic death metal, alternative metal, nu metal, avant-garde metal" role="button">
+<li data-cover="https://img.discogs.com/5kdvM01Law4YeL6YvAZVPb24N38=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6791820-1426712411-9027.jpeg.jpg" data-tags="melodic death metal, alternative metal, nu metal, avant-garde metal" role="button">
 Avatar - Hail the Apocalypse (2014-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/480677f9-2bf2-4301-ab51-0226c3766110/13196207561-500.jpg" data-tags="doom metal" role="button">

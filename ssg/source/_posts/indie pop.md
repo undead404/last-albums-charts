@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:06:01.412Z
+date: 2021-04-07T03:10:01.679Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -51,7 +51,7 @@ The Shins - Chutes Too Narrow (2003-10-21)
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
+<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">
@@ -110,6 +110,9 @@ Kate Nash - Made of Bricks (2007-08-06)
 </li>
 <li data-cover="https://img.discogs.com/J3QelBBCQzUMTyfU6BitSs6CaO8=/fit-in/320x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1523150-1283957985.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Black Kids - Wizard of Ahhhs (2007-08-11)
+</li>
+<li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
+Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
@@ -290,9 +293,6 @@ Vampire Weekend - Modern Vampires of the City (2013-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8077f6cd-1c02-484f-a19f-30833734edf2/11593007264-500.jpg" data-tags="indie, indie pop, indie folk, folk" role="button">
 Milky Chance - Sadnecessary (2013-05-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
-Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
