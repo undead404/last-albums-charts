@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:01:01.427Z
+date: 2021-04-07T16:22:01.467Z
 title: "ambient pop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Ghost Stories (2014-05-16)](http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg "Coldplay - Ghost Stories (2014-05-16)")
@@ -7,7 +7,7 @@ title: "ambient pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/653617f7-c764-4f52-a4ba-e6a130a6c87d/5409164245-500.jpg" data-tags="twin peaks, dream pop" role="button">Julee Cruise - Floating into the Night (1989-09-12)</li>
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">Slowdive - Pygmalion (1995-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/11ab3e8d-b88b-44c0-9dd8-bbab70dd8e18/16320030785-500.jpg" data-tags="electronic, indie rock, indie, indie pop" role="button">The Notwist - Neon Golden (2002-01-14)</li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">M83 - Hurry Up, We're Dreaming (2011-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">Kate Bush - 50 Words for Snow (2011-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/d34a9b58-41c8-4906-865f-2b32f6ae5cb3/3625811134-500.jpg" data-tags="experimental, indie electronic, ambient pop, indietronica, art pop, arbutus records, alternative-indie rock" role="button">Blue Hawaii - Untogether (2013)</li>
@@ -21,10 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/Gi30l_gCbkwDbf6Ut1STJpmjgPM=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14529027-1584220711-7894.jpeg.jpg" data-tags="easy listening, ambient pop, singer songwriter, nice elevator music, gotanygoodmusic, storytellers, todd, records i should listen more often, jetstream dreams, sweet and breezy" role="button">
-Todd Rundgren - Hermit of Mink Hollow (1978-04-13)
-</li>
-<li data-cover="https://img.discogs.com/abzfhJw9jMFkCsCmQ7Bul_Pkg3o=/fit-in/370x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1473980-1222450987.jpeg.jpg" data-tags="post-punk, 80s" role="button">
+<li data-cover="https://img.discogs.com/Hc3Lr9iR3rAgpj4nJ01o24ElIs8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1639092-1360620307-4826.jpeg.jpg" data-tags="post-punk, 80s" role="button">
 The Durutti Column - LC (1981)
 </li>
 <li data-cover="https://img.discogs.com/A1aXIi-wB9YcejTWj5CsKzpEDlg=/fit-in/348x345/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1199803-1200227896.jpeg.jpg" data-tags="electro" role="button">
@@ -36,10 +33,10 @@ Arthur Russell - World of Echo (1986)
 <li data-cover="http://coverartarchive.org/release/c53d6f73-a312-457a-bafd-2d38ec4d1cce/8216198322-500.jpg" data-tags="dream pop, ethereal" role="button">
 Cocteau Twins - Victorialand (1986-02)
 </li>
-<li data-cover="https://img.discogs.com/KKR9DFYHT9QTc9J8j94xu5i1Gjc=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1663495-1385674940-7126.jpeg.jpg" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/7-W0HZhdpSSp7VvdQrY76toUBXk=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742171-1497198163-8718.jpeg.jpg" data-tags="ambient" role="button">
 David Sylvian - Gone To Earth (1986-09)
 </li>
-<li data-cover="https://img.discogs.com/sQvCfxDxAMDFLbFEkFKGQ9vRvDk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-869632-1201273672.jpeg.jpg" data-tags="80s, ambient" role="button">
+<li data-cover="https://img.discogs.com/3y1hHqQsggU7DxoBd6OVU2hGALE=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993054-1257289377.jpeg.jpg" data-tags="80s, ambient" role="button">
 David Sylvian - Secrets Of The Beehive (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/653617f7-c764-4f52-a4ba-e6a130a6c87d/5409164245-500.jpg" data-tags="twin peaks, dream pop" role="button">
@@ -51,7 +48,7 @@ Woo - Into the Heart Of Love (1990)
 <li data-cover="https://img.discogs.com/SDM2sRMTqu6GNhemc3LFvcypXos=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2370269-1280077484.jpeg.jpg" data-tags="post-rock" role="button">
 Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
 </li>
-<li data-cover="https://img.discogs.com/iICd-TjINg1VPUbMkvhlNEWsL6A=/fit-in/600x963/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224588-1201948373.jpeg.jpg" data-tags="dream pop, twin peaks" role="button">
+<li data-cover="https://img.discogs.com/6wtOLY3PPCqcrMKIKiJBMByR43I=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378317-1493954540-3217.jpeg.jpg" data-tags="dream pop, twin peaks" role="button">
 Julee Cruise - The Voice of Love (1993-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c429421-ed50-3199-aeef-514590fa67e0/8355594906-500.jpg" data-tags="swedish, female vocalists, acoustic" role="button">
@@ -78,11 +75,8 @@ The Notwist - Shrink (1998)
 <li data-cover="https://img.discogs.com/cKxp04B3FUpkkN8mBZD5TG9HnDY=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385383-1493860512-1421.jpeg.jpg" data-tags="experimental, post-rock" role="button">
 Mark Hollis - Mark Hollis (1998-02-02)
 </li>
-<li data-cover="https://img.discogs.com/8xH5O0stqjs-aFo9t20SOb4RDb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-126943-1245570142.jpeg.jpg" data-tags="indie rock, post-rock, shoegaze" role="button">
+<li data-cover="https://img.discogs.com/yqJjNzvm_FIXqlpGVzxSKh2m38g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309157-1288348316.jpeg.jpg" data-tags="indie rock, post-rock, shoegaze" role="button">
 Piano Magic - Low Birth Weight (1999-05)
-</li>
-<li data-cover="https://img.discogs.com/3F9dToiY88b1bo3ZdloKum4KYyk=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6843853-1537184046-7342.jpeg.jpg" data-tags="french, pop" role="button">
-Mylène Farmer - Innamoramento (1999-06-02)
 </li>
 <li data-cover="https://img.discogs.com/uAijLGtWlJXfh--0l2ljVkXPBrk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668-1468409952-1004.jpeg.jpg" data-tags="electronic, electronica, indie rock, indie electronic, post-rock, downtempo, druggy, ambient pop, psychedelic pop, dreamy, reflective, atmospheric, whimsical, late night, dream pop, clinical, literate, ethereal, fractured, wry, dramatic, introspection, reflection, eerie, hypnotic, spacey, psychedelic rock, trippy, sophisticated, poignant, detached, playful, sunday afternoon, sweet, solitude, delicate, light, background music, nocturnal, imagination, avant-pop, refined, stylish, wintry, hanging out, restrained, sparkling, circular, innocent, spiked-candy radio, space-age, retro-futuristic, julian house album art, ashich party" role="button">
 Broadcast - Echo's Answer (1999-10-01)
@@ -90,7 +84,7 @@ Broadcast - Echo's Answer (1999-10-01)
 <li data-cover="http://coverartarchive.org/release/20fd8611-cffc-4a60-86c8-165e8a48100e/21747393696-500.jpg" data-tags="ethereal, music to drown in" role="button">
 Hannah Fury - The Thing That Feels (2000)
 </li>
-<li data-cover="https://img.discogs.com/JWuw0UE5HpiFwbNxrVzNNAPGvzY=/fit-in/600x634/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533033-1395824414-7881.jpeg.jpg" data-tags="chill, eerie" role="button">
+<li data-cover="https://img.discogs.com/4GIwxuXIOoVGrQ5ACZIQngfMHls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311614-1498923162-2560.jpeg.jpg" data-tags="chill, eerie" role="button">
 Air - Playground Love (2000-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c51172-d643-4cc7-81ac-cd06817aadbf/15059787553-500.jpg" data-tags="indie rock, mellow" role="button">
@@ -141,10 +135,10 @@ Masha Qrella - Unsolved Remained (2005-02-28)
 <li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
 Elbow - Leaders of the Free World (2005-09-07)
 </li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
 Broadcast - Tender Buttons (2005-09-19)
 </li>
-<li data-cover="https://img.discogs.com/DB-YyXcYk74K2AJ0syY9DZpskj8=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-546020-1177092776.jpeg.jpg" data-tags="ambient pop, dream pop, melancholy, art pop" role="button">
+<li data-cover="https://img.discogs.com/zqKiCDF5IinbqIA6xOZU2lp4L34=/fit-in/395x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-746091-1154553246.jpeg.jpg" data-tags="ambient pop, dream pop, melancholy, art pop" role="button">
 Idaho - The Lone Gunman (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
@@ -252,6 +246,9 @@ Julia Holter - Ekstasis (2012-03-05)
 <li data-cover="https://img.discogs.com/eter45RaHRFBjyMlpg69E_trNUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3506681-1336245635.jpeg.jpg" data-tags="shoegaze, dream pop" role="button">
 Lotus Plaza - Spooky Action at a Distance (2012-04-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/cd8c217b-d256-48cf-9f0b-ce1ac3f56d4d/15684401056-500.jpg" data-tags="ambient pop, art pop, shoegazing goodness, where is my bong" role="button">
+Slowdive - Original Album Classics (2012-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/b385813a-cb78-4916-a964-59b9bbabf879/28097036963-500.jpg" data-tags="experimental" role="button">
 Laurel Halo - Quarantine (2012-05-21)
 </li>
@@ -311,6 +308,9 @@ The Acid - Liminal (2014-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a50f9ba3-5891-4f22-b5da-edf84cc04b0c/7598730014-500.jpg" data-tags="electronic, alternative rnb" role="button">
 FKA twigs - LP1 (2014-08-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/d41ada8c-2cfe-4283-8c09-294728e52f93/9357623452-500.jpg" data-tags="ambient pop, cloud rap, alternative rnb" role="button">
+Spooky Black - Leaving (2014-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:51:01.380Z
+date: 2021-04-07T16:43:01.396Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -42,7 +42,7 @@ Drive Like Jehu - Yank Crime (1994-04-26)
 <li data-cover="http://coverartarchive.org/release/13cb27a3-a149-4aa3-93e3-47b2cc6e0ab7/26663400234-500.jpg" data-tags="math rock, noise rock, post-hardcore" role="button">
 Shellac - At Action Park (1994-08)
 </li>
-<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
+<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
 Slint - Slint (1994-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/67a2138a-1130-4575-bb20-6b9995b81fad/12021123808-500.jpg" data-tags="math rock" role="button">
@@ -101,6 +101,9 @@ Battles - B EP (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0e6f524-90b3-400a-aa4c-ab89e9c172f0/13891715369-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - The Fall of Math (2004-10-04)
+</li>
+<li data-cover="https://img.discogs.com/uPpD8QGu7xLgkkApbCY6b1Id0Lg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1834139-1396710396-5824.jpeg.jpg" data-tags="math rock" role="button">
+Sleeping People - Sleeping People (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/a65bf7e3-1b1d-4d2c-99bb-e576053e7d6b/28235886759-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - Hole (2005-03-14)
@@ -171,6 +174,9 @@ Maps & Atlases - Tree, Swallows, Houses (2007-09-10)
 <li data-cover="http://coverartarchive.org/release/c25c29d2-740a-476a-a5da-0664f5cc15ea/8639682748-500.jpg" data-tags="math rock" role="button">
 Giraffes? Giraffes! - More Skin With Milk-Mouth (2007-12-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/b6c82460-d0d1-4461-b5b8-0e5eb817ce9d/26604104752-500.jpg" data-tags="math rock, transgressive records" role="button">
+Foals - Balloons (2007-12-10)
+</li>
 <li data-cover="https://img.discogs.com/H-3PQpDxXToHlq7dTOF2zGBeUtY=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1271778-1205359906.jpeg.jpg" data-tags="math rock" role="button">
 Foals - Cassius (2008-02-15)
 </li>
@@ -188,9 +194,6 @@ Maps & Atlases - You And Me And The Mountain (2008-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/18c7e32d-b105-37da-ad45-9a5395db43f6/22225372874-500.jpg" data-tags="math rock" role="button">
 Lite - Phantasia (2008-06-23)
-</li>
-<li data-cover="https://img.discogs.com/PWr4rVsA8CsX5oeQctNVfthK2Ro=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1448561-1220518427.jpeg.jpg" data-tags="math rock, anticon, math pop" role="button">
-Zach Hill - Astrological Straits (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
 Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
@@ -263,9 +266,6 @@ Maybeshewill - I Was Here for a Moment, Then I Was Gone (2011-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0a2429b-26e5-352f-8561-d7ee9e606e6c/4922570721-500.jpg" data-tags="math rock" role="button">
 Battles - Gloss Drop (2011-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/5346c22d-a6b4-4eef-a00b-01ec7c4f2f85/1113687319-500.jpg" data-tags="instrumental, math rock, experimental, progressive rock, progressive, groove tech" role="button">
-Strawberry Girls - Italian Ghosts (2011-08-30)
 </li>
 <li data-cover="https://img.discogs.com/LrfHFwwxlISYH_xOKHAYEYA2y_s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3080009-1532445402-6228.jpeg.jpg" data-tags="math rock" role="button">
 Hella - Tripper (2011-08-30)
