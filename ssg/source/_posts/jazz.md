@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:10:01.556Z
+date: 2021-04-07T01:50:01.520Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -120,9 +120,6 @@ Ray Charles - Anthology (1988-10-25)
 <li data-cover="http://coverartarchive.org/release/72b9781a-c7d2-4979-abf9-3f5bf9869cd1/8145651151-500.jpg" data-tags="jazz" role="button">
 Chet Baker - The Best of Chet Baker Sings (1989-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/1134c9a9-18eb-4930-933a-48bd0c1f0d57/22276388543-500.jpg" data-tags="jazz, 90s, low rock" role="button">
-Morphine - Cure for Pain (1994-01-18)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 John Coltrane - My Favorite Things (1995)
 </li>
@@ -147,11 +144,17 @@ Diana Krall - When I Look In Your Eyes (1999-05-21)
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">
 The Cinematic Orchestra - Motion (1999-09-01)
 </li>
+<li data-cover="https://img.discogs.com/Al6I_Wo8AkPXWtrbgyyQl3lEz3E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4063692-1354023335-6957.jpeg.jpg" data-tags="jazz, nat king cole sings the ultimate love songs" role="button">
+Nat King Cole - The Ultimate Collection (1999-11-08)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 John Coltrane - The Very Best Of John Coltrane (2000-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e41015a1-90c0-47b3-9ca5-2b1055f1e3d6/6762804815-500.jpg" data-tags="jazz, ambient, noir jazz, doom jazz" role="button">
 Bohren & der Club of Gore - Sunset Mission (2000-02-25)
+</li>
+<li data-cover="https://img.discogs.com/qlcVMDPo5gbdpvMIUH1pG8udVKw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-109437-1279028187.jpeg.jpg" data-tags="jazz, ninja tune" role="button">
+Jaga Jazzist - A Livingroom Hush (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
@@ -314,9 +317,6 @@ Herbie Hancock - Head Hunters (2010-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">
 Destroyer - Kaputt (2011-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/157f27fb-7f7f-4ea9-9674-fd84ed9db612/5113102481-500.jpg" data-tags="soul" role="button">
-Amy Winehouse - Lioness: Hidden Treasures (2011-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a681db6-3146-4166-b997-6db77bf796dc/7584904311-500.jpg" data-tags="jazz" role="button">
 BADBADNOTGOOD - III (2014-05-03)

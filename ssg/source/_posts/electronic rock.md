@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T21:49:12.438Z
+date: 2021-04-07T01:49:02.066Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -7,7 +7,7 @@ title: "electronic rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="90s, albums i own on cd" role="button">Soulwax - Much Against Everyone's Advice (1999-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">Ratatat - LP3 (2008-07-07)</li>
 <li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">Kevin Rudolf - In The City (2008-11-24)</li>
-<li data-cover="https://img.discogs.com/Gkg0AEjfHhMQWW6H1vqt0WvFH8k=/fit-in/600x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315642-1209030156.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
+<li data-cover="https://img.discogs.com/OIhCyHMoOgvc2Lvx-nKK6HLaItA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2465284-1288473096.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
 <li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">Coldplay - Mylo Xyloto (2011-10-19)</li>
@@ -87,7 +87,7 @@ John Frusciante - Shadows Collide With People (2004-02-24)
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
 </li>
-<li data-cover="https://img.discogs.com/zEIappKoRWKEfPRe7TF-fpAMVJM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-486232-1458029331-8360.jpeg.jpg" data-tags="industrial" role="button">
+<li data-cover="https://img.discogs.com/x04cOsOQGC3eOFn4KonrrZn7Vro=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496615-1569765754-6021.jpeg.jpg" data-tags="industrial" role="button">
 The Birthday Massacre - Violet (2004-07)
 </li>
 <li data-cover="https://img.discogs.com/987NsiAX9j24z4m0p8rzVHyEEAk=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-334652-1097616842.jpg.jpg" data-tags="indie" role="button">
@@ -125,6 +125,9 @@ Dragonette - Galore (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5f7d155-695d-4a0e-a384-6c1fddb7dbee/9472199885-500.jpg" data-tags="electronic pop, electronic rock, pop rock alternativo, descubierto en 2013, discovered in 2013, facto delafe y las flores azules" role="button">
 Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/45ad92a5-5e62-40d5-ac94-f31865c312ef/15648453076-500.jpg" data-tags="depeche mode, electronic" role="button">
+Dave Gahan - Hourglass (2007-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)
@@ -183,7 +186,7 @@ Linkin Park - The Catalyst (2010-08-02)
 <li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
 Klaxons - Surfing the Void (2010-08-20)
 </li>
-<li data-cover="https://img.discogs.com/Gkg0AEjfHhMQWW6H1vqt0WvFH8k=/fit-in/600x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315642-1209030156.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
+<li data-cover="https://img.discogs.com/OIhCyHMoOgvc2Lvx-nKK6HLaItA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2465284-1288473096.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
 <li data-cover="https://img.discogs.com/Iugg7vm8-5jEl5QKHr6tDtvYxpI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494901-1399047156-6163.jpeg.jpg" data-tags="4 me, aggro synthpop" role="button">
@@ -317,8 +320,5 @@ The Birthday Massacre - Superstition (2014-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b8dca06-99d1-48e1-b18c-7375f1b11bae/12157816350-500.jpg" data-tags="alternative, alternative rock, electronic rock" role="button">
 Angels & Airwaves - The Dream Walker (2014-12-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/2fe0a7ce-6876-44a6-b966-6f5fe466473b/9837934274-500.jpg" data-tags="alternative rock, hard rock, rock, blues rock" role="button">
-Marilyn Manson - The Pale Emperor (2015-01-16)
 </li>
 </ol>

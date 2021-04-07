@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:54:01.383Z
+date: 2021-04-07T01:51:01.427Z
 title: "underground hip-hop: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -51,7 +51,7 @@ The Roots - You Got Me (1999)
 <li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
 Mos Def - Black On Both Sides (1999-10-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/Cv61f3dZ1ZmlWdIJcoiaV042i94=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-38416-1334406772.jpeg.jpg" data-tags="hip-hop" role="button">
 Handsome Boy Modeling School - So..Hows Your Girl (1999-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/87981701-cc00-3c5c-af07-00050c115435/24559007750-500.jpg" data-tags="hip-hop, funk, underground hip-hop, funk-hop" role="button">
@@ -246,6 +246,9 @@ Snowgoons - Black Snow (2008-06-24)
 <li data-cover="http://coverartarchive.org/release/94006a09-b053-4591-af5a-1b98c5223af2/2924087406-500.jpg" data-tags="rap" role="button">
 Tech N9ne - Killer (2008-07-01)
 </li>
+<li data-cover="https://img.discogs.com/TNY7hpyvi3I9ls-EX7EXpLdX9MA=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1481907-1369062249-5190.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+Ill Bill - The Hour Of Reprisal (2008-09-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0cd6c77-ae32-4333-87ca-f4da28437389/16938315097-500.jpg" data-tags="hip-hop" role="button">
 P.O.S. - Never Better (2009-02-03)
 </li>
@@ -308,9 +311,6 @@ Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2324711-2a9b-4316-8629-62b09bfd32de/15366947396-500.jpg" data-tags="hip-hop, rap, hip hop, cloud rap" role="button">
 A$AP Rocky - Long.Live.A$AP (2013-01-11)
-</li>
-<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
-The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">
 Tyler, the Creator - Wolf (2013-04-01)

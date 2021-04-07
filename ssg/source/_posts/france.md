@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T06:34:01.344Z
+date: 2021-04-07T02:23:01.379Z
 title: "france: 100 albums you must listen to before you die"
 ---
 ![Carla Bruni - Quelqu&#39;un m&#39;a dit (2002-11-05)](http://coverartarchive.org/release/15f6f9f4-7777-37d6-96fa-94128984a887/15915400773-500.jpg "Carla Bruni - Quelqu'un m'a dit (2002-11-05)")
@@ -87,9 +87,6 @@ Allure - Allure (1997-05-06)
 <li data-cover="http://coverartarchive.org/release/a11f6ced-d62d-458f-bf90-2ba384433722/3262508425-500.jpg" data-tags="chanson francaise" role="button">
 Alain Bashung - Fantaisie Militaire (1998)
 </li>
-<li data-cover="https://img.discogs.com/YZZ6X1XM538dEKhmZTKS-Ehtg3E=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4525768-1486377543-4829.jpeg.jpg" data-tags="chanson française, france, language: french, my french tag, bachelet, pierre bachelet, pierre bachelet le meilleur de bachelet" role="button">
-Pierre Bachelet - Le Meilleur de Bachelet (1998-03-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/2d7c82e6-c3bb-38a9-96f0-5626158e3276/6598464730-500.jpg" data-tags="french, rock, breton" role="button">
 Matmatah - La Ouache (1998-06-05)
 </li>
@@ -120,6 +117,9 @@ Tété - L'air de rien (2001)
 <li data-cover="http://coverartarchive.org/release/672f08cb-d564-4ec2-9619-d4376da3be0f/1633208641-500.jpg" data-tags="french, chanson, chanson francaise, francais, france, je devrais avoir mon enfer de la caresse, snow on your eyelids, je dirai quelque jour vos naissances latentes" role="button">
 Françoiz Breut - Vingt à trente mille jours (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/c74682f8-661e-415f-b09f-706ebcc4765a/8467006864-500.jpg" data-tags="electronic, dub" role="button">
+EZ3kiel - Handle with Care (2001-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/a94dbe8e-db98-4440-91d2-4625a4790fb9/13450008002-500.jpg" data-tags="france" role="button">
 Mickey 3D - La trêve (2001-03-19)
 </li>
@@ -128,6 +128,9 @@ Daft Punk - Aerodynamic (2001-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/5d56f453-9689-3588-94b0-a6542796fb68/1227544055-500.jpg" data-tags="rock, singer-songwriter" role="button">
+Dominique A - Auguri (2001-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9f7804c-160c-4336-ad1a-62e0c9ea475a/1373806499-500.jpg" data-tags="dub" role="button">
 High Tone - Bass Temperature (2001-10-15)
@@ -177,17 +180,14 @@ Stereolab - Margerine Eclipse (2004-01-27)
 <li data-cover="http://coverartarchive.org/release/3194a7cc-fc92-3182-bd73-e1b23fa54ff9/3625624015-500.jpg" data-tags="french, chanson, pop, singer-songwriter, acoustic rock, francais, francophone, france, happiness, french happiness" role="button">
 Miossec - 1964 (2004-03-01)
 </li>
-<li data-cover="https://img.discogs.com/6bJtxTbs_n_pvH1vbl0FTABDJzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1279569-1205957996.jpeg.jpg" data-tags="chanson francaise" role="button">
-Vincent Delerm - Kensington Square (2004-03-02)
+<li data-cover="http://coverartarchive.org/release/40c506a7-32c7-4c4b-8342-a61668726a15/8333716948-500.jpg" data-tags="electroclash" role="button">
+Miss Kittin - I Com (2004-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/585cfb26-fef2-44e8-874e-7a618d523228/1269964046-500.jpg" data-tags="electronic, france" role="button">
 Air - Alpha Beta Gaga (2004-08-02)
 </li>
 <li data-cover="https://img.discogs.com/DI23Ev1UMtH_RqneX4CWBIAZimI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725069-1239637783.jpeg.jpg" data-tags="french, chanson francaise, francais, francophone, france" role="button">
 Alexis HK - L'Homme du moment (2004-11)
-</li>
-<li data-cover="https://img.discogs.com/rzkwkjBTeQxDZ3uwzNhxzvChTUM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383237-1496742724-9195.jpeg.jpg" data-tags="rnb, amel bent" role="button">
-Amel Bent - Un Jour D'été (2004-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
 Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)

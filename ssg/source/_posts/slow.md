@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T00:06:01.346Z
+date: 2021-04-07T02:39:01.376Z
 title: "slow: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -7,10 +7,10 @@ title: "slow: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">Vashti Bunyan - Just Another Diamond Day (1970)</li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">Mazzy Star - Among My Swan (1996-10-17)</li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">Mirah - C'mon Miracle (2004-05-04)</li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/ad21f6cc-9e6f-4a9f-8b5c-ec58ebecf569/23130186908-500.jpg" data-tags="pop, dance, rnb" role="button">Jesse McCartney - Departure (2008-05-20)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://img.discogs.com/50SvCXAaz3Oxef37kRAI3Az63lw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043609-1584320985-5784.jpeg.jpg" data-tags="jazz, instrumental, slow, fusion, experimental jazz, basically bass, woebotjazz, zawinul, j zawinul" role="button">
+<li data-cover="https://img.discogs.com/YKKFj6ARij4pVv40ezi9BCGUkD4=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-390553-1234193765.jpeg.jpg" data-tags="jazz, instrumental, slow, fusion, experimental jazz, basically bass, woebotjazz, zawinul, j zawinul" role="button">
 Joe Zawinul - Zawinul (1971)
 </li>
 <li data-cover="https://img.discogs.com/okStQxQrtctX4v0VpkLKm8HeuMI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775753-1157553303.jpeg.jpg" data-tags="slow, psychedelic pop, funk, summer, brasil, mpb, sleepy, swimming, evening, rhodes, lazy, analog synths, dew, samba soul, ware" role="button">
@@ -39,19 +39,16 @@ Rick James - Bustin' Out of L Seven (1979)
 <li data-cover="https://img.discogs.com/YBNpgYneJSwwajwHe_0EIA2JD_o=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-931174-1510508816-2800.jpeg.jpg" data-tags="electronica, ambient" role="button">
 Vangelis - Antarctica (1983)
 </li>
-<li data-cover="https://img.discogs.com/k9OEcTH6CLyqErLa-mP_B3Fx8Bs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-353260-1169305778.jpeg.jpg" data-tags="rnb" role="button">
-Mtume - JUICY FRUIT (1983)
-</li>
 <li data-cover="https://img.discogs.com/khrzei5hEuuxoXoxHoibAB7dMoQ=/fit-in/220x214/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328646-1096336946.jpg.jpg" data-tags="soul" role="button">
 Mtume - You, Me And He (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
-<li data-cover="https://img.discogs.com/zBBW5Zxp_aln5Gf90iHfOXbsAGU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006150-1518058779-9078.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/gUa8x32XU2iO6Lq6_bx18W6PuWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-585309-1143485487.jpeg.jpg" data-tags="80s" role="button">
 Lionel Richie - Dancing On The Ceiling (1985)
 </li>
-<li data-cover="https://img.discogs.com/u7rKl6hdemQdLoBHVT-AmSGXXA0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433250-1541758297-7814.jpeg.jpg" data-tags="rock, titas" role="button">
+<li data-cover="https://img.discogs.com/yvwsf1A_ULIB5oDgluli8gbXeRM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8432784-1461504914-3374.jpeg.jpg" data-tags="rock, titas" role="button">
 Titãs - Televisão (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/affa1d29-c5bb-4a4b-8492-22f15a9c795c/22126260940-500.jpg" data-tags="soul" role="button">
@@ -72,8 +69,8 @@ Bruce Springsteen - Streets of Philadelphia (1993)
 <li data-cover="http://coverartarchive.org/release/bf38cc51-5436-4dce-a94f-c235e07b5656/15428647616-500.jpg" data-tags="cyberpunk" role="button">
 Billy Idol - Cyberpunk (1993-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/28c5e021-1801-4783-bcee-c906745a7e98/1100068819-500.jpg" data-tags="jazz, louis armstrong" role="button">
-Louis Armstrong - La Vie En Rose (1995)
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Diana Krall - Only Trust Your Heart (1995-02-14)
 </li>
 <li data-cover="https://img.discogs.com/y2olKQ62QYPn5PGJ_EhdS33EkWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097273-1191794769.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
 Sleep - Jerusalem (1996)
@@ -129,7 +126,7 @@ Otto - Condom Black (2001)
 <li data-cover="http://coverartarchive.org/release/2e8cb32b-7341-486e-8543-3e87910555f6/3576613641-500.jpg" data-tags="pop" role="button">
 Dido - One Step Too Far (2001)
 </li>
-<li data-cover="https://img.discogs.com/jLS7B2CO5BlYtgacWx0sCC1dt6E=/fit-in/600x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9119466-1475104960-3191.jpeg.jpg" data-tags="slowcore" role="button">
+<li data-cover="https://img.discogs.com/cHUskTMOXpjFZxo6YoARZwH1iwY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2118329-1293876009.jpeg.jpg" data-tags="slowcore" role="button">
 Low - Things We Lost In the Fire (2001-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1dacf76b-e450-4945-b877-c7db83bbadce/5126117704-500.jpg" data-tags="slow, pligaa" role="button">
@@ -171,6 +168,9 @@ Blind Guardian - The Bard's Song (In the Forest) (2003-05-05)
 <li data-cover="https://img.discogs.com/wsth58Vm-20-xd2QGRkYbUsXRfc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6369706-1418122645-1265.jpeg.jpg" data-tags="electronic, alternative, female vocalists, bjork" role="button">
 Björk - Homogenic Live (2003-08-18)
 </li>
+<li data-cover="https://img.discogs.com/BIFFlFcgE_WXsUFm1iEBDRLvtko=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460634-1602939219-3786.jpeg.jpg" data-tags="rock, indie rock, igneoustempest" role="button">
+Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
+</li>
 <li data-cover="https://img.discogs.com/2pmcZrViIglazE1B20EN20LJY9U=/fit-in/450x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1184688-1199127294.gif.jpg" data-tags="folk, indie, singer-songwriter, female vocalists, acoustic, female, country, alternative, alternative rock, indie pop, indie rock, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, guitar, girls, songwriter, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, female vocals, indie folk, female vocalist, singer songwriter, 00s, female artists, female vocal, alt rock, female voices, female singers, independent, female singer-songwriter, tracks, singer songwriters, slow-coustic, alt, quiet music, quiet voices, pop, rock, indie-rock, indie-pop" role="button">
 Tara Jane O'Neil - Bones (2004)
 </li>
@@ -180,10 +180,10 @@ Low - The Great Destroyer (2004)
 <li data-cover="https://img.discogs.com/AL05ulVbvk9rcJb39tc3RBd2wj0=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-335775-1187366372.jpeg.jpg" data-tags="female vocalists, posteverything" role="button">
 Susanna and the Magical Orchestra - List of Lights and Buoys (2004-01-26)
 </li>
-<li data-cover="https://img.discogs.com/42SS7BRmBHobZXc70IXTwOEbBN4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-583395-1301006999.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/lwYlYYFOrgAhySVao4Wc6jgIpEc=/fit-in/320x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10776288-1504306131-1261.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
 Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -198,13 +198,13 @@ Julie Doiron - Goodnight Nobody (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/91c58174-3280-4169-baa1-507b07c074db/7448901261-500.jpg" data-tags="rnb" role="button">
 Ashanti - Concrete Rose (2004-12-13)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="https://img.discogs.com/IHVjfRS3zDK4TJprEp1vCwyKWnI=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2391407-1281339009.jpeg.jpg" data-tags="pop, rock, slow, melodic, winter albums, ships ahoy" role="button">
 Shapes and Sizes - Shapes and Sizes (2005)
 </li>
-<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sitar" role="button">

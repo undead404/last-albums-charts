@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:00:07.184Z
+date: 2021-04-07T01:59:01.429Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -10,7 +10,7 @@ title: "blues: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">John Mayer - Continuum (2006-08-01)</li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">The Dead Weather - Sea of Cowards (2010-05-10)</li>
-<li data-cover="https://img.discogs.com/xuq3MPlDpFXj4QApHfhHmHEgElw=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3249551-1322327457.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
+<li data-cover="https://img.discogs.com/M_Wy2XOuhikxL5YB_zx_Lqe6Wx0=/fit-in/408x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13817306-1561785201-4941.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">The Black Keys - Lonely Boy (2011-10-25)</li>
 <li data-cover="https://img.discogs.com/Sx2GoX-oNB9S0Hba5pduTHWZE7A=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521164-1378815509-2198.jpeg.jpg" data-tags="blues, rock, soul, 10s" role="button">Alabama Shakes - Boys & Girls (2012-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg" data-tags="blues, folk rock, alternative pop, vicky, in my vinyl collection" role="button">George Ezra - Wanted on Voyage (2014-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg" data-tags="soul, indie rock, blues" role="button">Hozier - Hozier (2014-06-10)</li>
@@ -27,7 +27,7 @@ Etta James - At Last (1960-11-15)
 <li data-cover="http://coverartarchive.org/release/4579d0be-1220-30db-8aa3-02975924a786/12450042433-500.jpg" data-tags="folk, folk rock, 60s" role="button">
 Bob Dylan - Bringing It All Back Home (1965-03-22)
 </li>
-<li data-cover="https://img.discogs.com/48VEXkrs6Ee4C_syqGcqckXbx3s=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1268501-1205101177.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/JsopqGSweccxL0U-dy5xFQ73d-Q=/fit-in/461x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4486102-1366259991-5187.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Disraeli Gears (1967-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2662ae2-f06b-3cdd-892f-596646c03558/4119591705-500.jpg" data-tags="psychedelic, rock, psychedelic rock, classic rock" role="button">
@@ -54,9 +54,6 @@ Robert Johnson - King Of The Delta Blues Singers (1970)
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Morrison Hotel (1970-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
-Led Zeppelin - Led Zeppelin III (1970-10-05)
-</li>
 <li data-cover="https://img.discogs.com/mic1l-p28zoqxQguKjabmbJV5Hg=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9031515-1473598344-7417.mpo.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
 </li>
@@ -68,6 +65,9 @@ The Doors - L.A. Woman (1971-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
 Nina Simone - Here Comes The Sun (1971-09)
+</li>
+<li data-cover="https://img.discogs.com/_adrkXv6adoAAPjxUwRmLZnf_P0=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060268-1412344757-9217.jpeg.jpg" data-tags="blues rock, blues" role="button">
+J.J. Cale - Naturally (1971-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/83ecd172-3f27-4d22-93f8-a8324d18248e/5642373000-500.jpg" data-tags="rock, 70s" role="button">
 The Rolling Stones - Exile on Main St. (1972-05-12)
@@ -120,7 +120,7 @@ Gary Moore - Still Got the Blues (1990-04-04)
 <li data-cover="http://coverartarchive.org/release/a2eab3ac-8fb4-4aa5-b0f7-a9872dbde81e/9504529111-500.jpg" data-tags="blues" role="button">
 Buddy Guy - Damn Right, I've Got The Blues (1991)
 </li>
-<li data-cover="https://img.discogs.com/s54ApWn18BLeDr_qL2pc20EPrHI=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1249753-1204073396.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
+<li data-cover="https://img.discogs.com/NL1-DI27oZu23R-GoHcRWLFeldw=/fit-in/591x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11014673-1615909703-8569.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
 Bonnie Raitt - Luck Of The Draw (1991-06-25)
 </li>
 <li data-cover="https://img.discogs.com/K2IAnrX1dwsD3gucstErNMR_zmY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664306-1593630845-8226.jpeg.jpg" data-tags="eric clapton" role="button">
@@ -156,6 +156,9 @@ Stevie Ray Vaughan and Double Trouble - Greatest Hits (1995-10-31)
 <li data-cover="http://coverartarchive.org/release/4e341073-f4b4-4362-9f73-72aafe3b46c7/21892739181-500.jpg" data-tags="blues" role="button">
 Elmore James - Dust My Broom (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/21efbb0a-73b0-479f-9ef3-031bf7c5af49/26956464560-500.jpg" data-tags="blues, singer-songwriter" role="button">
+Tom Waits - Alice (1999)
+</li>
 <li data-cover="https://img.discogs.com/E7UtJyItYvk5AJ7YnjG_hxrhppo=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4959254-1380618088-4627.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
 </li>
@@ -188,9 +191,6 @@ John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
-The John Butler Trio - Sunrise Over Sea (2004-03-08)
 </li>
 <li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
@@ -285,7 +285,7 @@ Hugh Laurie - Let Them Talk (2011-04-29)
 <li data-cover="http://coverartarchive.org/release/406d16d1-f572-41c8-ac54-2c715502f76b/4764705431-500.jpg" data-tags="folk rock, indie" role="button">
 City and Colour - Little Hell (2011-06-07)
 </li>
-<li data-cover="https://img.discogs.com/xuq3MPlDpFXj4QApHfhHmHEgElw=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3249551-1322327457.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">
+<li data-cover="https://img.discogs.com/M_Wy2XOuhikxL5YB_zx_Lqe6Wx0=/fit-in/408x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13817306-1561785201-4941.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">
 The Black Keys - Lonely Boy (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">

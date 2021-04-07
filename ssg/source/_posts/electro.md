@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:05:01.442Z
+date: 2021-04-07T02:42:01.390Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -36,11 +36,8 @@ Mr. Oizo - Analog Worms Attack (1999-10-19)
 <li data-cover="https://img.discogs.com/PL25gslqJlmHhOpFM9qTYumzXL4=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-142743-1613858050-5421.jpeg.jpg" data-tags="electronic, electro, electroclash" role="button">
 Fischerspooner - #1 (2000-03)
 </li>
-<li data-cover="https://img.discogs.com/IlMUkavlOonlS5zmsCFNOrJCrsA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-220194-1158742588.jpeg.jpg" data-tags="electronic, electroclash" role="button">
+<li data-cover="https://img.discogs.com/8sQA72K6nharm6DlCksFgk74qm0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5666-1462716718-9352.jpeg.jpg" data-tags="electronic, electroclash" role="button">
 Ladytron - 604 (2001-02-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="house, electro" role="button">
-Felix da Housecat - Kittenz and Thee Glitz (2001-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d0b6eb0-8d92-3ec1-a6ae-f939a7980426/7587631086-500.jpg" data-tags="indie, electronic" role="button">
 The Faint - Danse MacAbre (2001-08-21)
@@ -134,6 +131,9 @@ Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
 Gwen Stefani - The Sweet Escape (2006-12-01)
+</li>
+<li data-cover="https://img.discogs.com/UZVmJPUL30PfF_H8Efxdg5b2Td0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1028030-1471657842-9050.jpeg.jpg" data-tags="electronica, indie, pop, rock, indie pop, indie rock, electro, acoustic, house, indietronica, electro indie, party indie rock, zusammenschnitt" role="button">
+Young Love - Too Young To Fight It (2007-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/15fc4503-bac1-4209-8082-2cee83b4a67c/28922662006-500.jpg" data-tags="electro, french" role="button">
 Kavinsky - 1986 (2007-03-04)

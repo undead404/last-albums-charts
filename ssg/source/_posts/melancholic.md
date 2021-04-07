@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:42:01.391Z
+date: 2021-04-07T02:03:01.382Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![Beck - Sea Change (2002-09-21)](http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg "Beck - Sea Change (2002-09-21)")
@@ -123,9 +123,6 @@ Max Richter - The Blue Notebooks (2004-02-26)
 <li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
 Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f63a705-2e3d-451c-a8e9-0ae7025f9055/12844808386-500.jpg" data-tags="hard rock" role="button">
-3 Doors Down - Here Without You (2004-05-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
 </li>
@@ -185,6 +182,9 @@ Blackfield - Blackfield II (2007-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/dbf7a1c7-d89c-3823-b2d1-6cf2515e3c31/8173020368-500.jpg" data-tags="shoegaze, indie rock, dream pop" role="button">
+Blonde Redhead - 23 (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/301832d9-f503-4e5f-945c-f77e66c4cd59/936789634-500.jpg" data-tags="progressive rock" role="button">
 Antimatter - Leaving Eden (2007-04-13)
