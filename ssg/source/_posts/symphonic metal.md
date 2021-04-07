@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:06:01.379Z
+date: 2021-04-07T12:12:01.530Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -96,9 +96,6 @@ Kamelot - Karma (2001-05-07)
 <li data-cover="https://img.discogs.com/NL4lAQ9lmg5N7KfeXHmmdPjUYd8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2573584-1439747491-5758.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Over the Hills and Far Away (2001-06-25)
 </li>
-<li data-cover="https://img.discogs.com/Hc-kerojMLeDgG8YtSZ7CD4DH1U=/fit-in/451x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1185361-1199497793.jpeg.jpg" data-tags="gothic metal" role="button">
-Tristania - World of Glass (2001-09-24)
-</li>
 <li data-cover="https://img.discogs.com/SWsNxG96QPYsX38jIm4nZbAuK-4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820668-1484762081-9976.jpeg.jpg" data-tags="symphonic metal" role="button">
 Therion - Secret Of The Runes (2001-10-08)
 </li>
@@ -176,6 +173,9 @@ Epica - Consign to Oblivion (2005-04-21)
 </li>
 <li data-cover="https://img.discogs.com/1j5xlhWYjyGnxlOmFQ4csWquyuY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093566-1384301696-2609.jpeg.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Vinland Saga (2005-05-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">
+Krypteria - In Medias Res (2005-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/30214efe-bc85-48c3-b5a1-39d50fd3dd11/2138626195-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 Xandria - India (2005-08-22)
@@ -312,7 +312,7 @@ Wintersun - Time I (2012-10-19)
 <li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
 Amaranthe - The Nexus (2013-03-13)
 </li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
+<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f93e14-2c2a-4ff9-96c1-52ce69b25216/6426874422-500.jpg" data-tags="symphonic metal" role="button">

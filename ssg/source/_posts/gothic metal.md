@@ -1,17 +1,17 @@
 ---
-date: 2021-04-04T03:56:01.240Z
+date: 2021-04-07T11:57:01.371Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
+<li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
 <li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Century Child (2002-06-24)</li>
 <li data-cover="https://img.discogs.com/K3e0vs6Yxmp53Msysc0ehOA-prM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9261793-1492590501-8083.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Comalies (2002-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="https://img.discogs.com/wP0yO0OllDd5B0pVrdx06teWmnM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348455-1211722786.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Once (2004-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Silent Force (2004-11-15)</li>
-<li data-cover="https://img.discogs.com/aXCZQcOSa73njRvFAnF1Ep5jUTQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8125917-1489832489-1154.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Karmacode (2006-03-31)</li>
+<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Karmacode (2006-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg" data-tags="rock, gothic rock" role="button">Evanescence - The Open Door (2006-09-25)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
 </ol>
@@ -51,16 +51,16 @@ Within Temptation - Enter (1996-09)
 <li data-cover="https://img.discogs.com/bnct50onG-ZKnwFjFRHlbnY1uq8=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3143954-1321109003.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Velvet Darkness They Fear (1996-09-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal, symphonic black metal, gothic metal" role="button">
+<li data-cover="https://img.discogs.com/fftbzZNbE6CVLZ23o6n919Aaab4=/fit-in/507x246/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-780114-1157988368.jpeg.jpg" data-tags="black metal, symphonic black metal, gothic metal" role="button">
 Cradle of Filth - Dusk... And Her Embrace (1996-10-28)
 </li>
 <li data-cover="https://img.discogs.com/drEC4Qy-HSNgJ2g9Lo-wbWhccoY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-891780-1477933367-4382.jpeg.jpg" data-tags="gothic metal, gothic rock" role="button">
 Paradise Lost - One Second (1997)
 </li>
-<li data-cover="https://img.discogs.com/t0-8IVorXdGcRGkzO9ipL9COpnM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102414-1424973682-3286.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/tXrQK9c_BRaoT_2IQivX_drvGHo=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038961-1312877882.jpeg.jpg" data-tags="gothic metal" role="button">
 Tiamat - A Deeper Kind Of Slumber (1997-04-22)
 </li>
-<li data-cover="https://img.discogs.com/-19eyFKbKrKe9wITVHqsY70mWkk=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1207611-1544185488-4226.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
+<li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
 The Gathering - Nighttime Birds (1997-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2756c819-b6d7-3052-9ff8-8c05e65eb5df/8141541570-500.jpg" data-tags="symphonic metal" role="button">
@@ -72,10 +72,10 @@ Within Temptation - The Dance (1998)
 <li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Lacuna Coil (1998-01-26)
 </li>
-<li data-cover="https://img.discogs.com/QvA7WE0GN9esy53o6jlg8R18Q2E=/fit-in/451x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8437592-1461599121-5143.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/S-sF-R4Gr14k9UmhSz2Ow5a3sqI=/fit-in/600x939/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5037376-1382797457-1575.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Widow's Weeds (1998-03-02)
 </li>
-<li data-cover="https://img.discogs.com/JHOHTyWyL2vysmIQG8aBqDviIrw=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6308314-1416126352-5825.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/k0jZTlvf2cXLRUHH9SrPiwBGokE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075260-1325031345.jpeg.jpg" data-tags="gothic metal" role="button">
 Theatre of Tragedy - Aégis (1998-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/02304f7c-d527-41f7-b978-78f02307d47d/6366191614-500.jpg" data-tags="gothic metal" role="button">
@@ -105,7 +105,7 @@ Type O Negative - World Coming Down (1999-09-20)
 <li data-cover="http://coverartarchive.org/release/ccb999e5-78df-4580-8e60-a997add577f7/21611705986-500.jpg" data-tags="gothic metal" role="button">
 Sentenced - Crimson (2000-01-17)
 </li>
-<li data-cover="https://img.discogs.com/bXk7E9h7DDb3vphd0BUBFNRGC24=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7707906-1447158443-9571.jpeg.jpg" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Wishmaster (2000-05-02)
 </li>
 <li data-cover="https://img.discogs.com/ofYN9Mevd43PbFYaA7_ENztBwh8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3244650-1322111788.jpeg.jpg" data-tags="black metal, symphonic black metal, gothic metal" role="button">
@@ -156,7 +156,7 @@ Paradise Lost - Symbol of Life (2002-10-21)
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
 </li>
-<li data-cover="https://img.discogs.com/09tWgbA6IlykuXRg1Xd1e8o3BHU=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9577733-1507315334-1264.jpeg.jpg" data-tags="trip rock" role="button">
+<li data-cover="https://img.discogs.com/kZbKHltt8rCi4ejO0ObE-pv_rGQ=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5124938-1385167764-1030.jpeg.jpg" data-tags="trip rock" role="button">
 The Gathering - Souvenirs (2003-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
@@ -201,9 +201,6 @@ Nightwish - Once (2004-06-04)
 <li data-cover="http://coverartarchive.org/release/b7bea46d-8986-363c-8f81-458b81e8944b/2959523284-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Cradle of Filth - Nymphetamine (2004-09-27)
 </li>
-<li data-cover="https://img.discogs.com/wLL6jdexHEYPkLfE5VacuC0Suf0=/fit-in/578x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1802621-1244313442.jpeg.jpg" data-tags="gothic rock" role="button">
-The 69 Eyes - Devils (2004-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
 </li>
@@ -216,11 +213,14 @@ Epica - Consign to Oblivion (2005-04-21)
 <li data-cover="https://img.discogs.com/NswOQ6A8V6vjUYuFzM_AR2GsofA=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9218495-1476867193-7269.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacrimosa - Lichtgestalt (2005-05-02)
 </li>
-<li data-cover="https://img.discogs.com/MYwj3SS5rn_Y8T42Cf4Fy1rx-K4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2641595-1487292627-1387.png.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/Nt_WuXZUumK4deJtXAObOggv0d8=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3383753-1328457076.jpeg.jpg" data-tags="gothic metal" role="button">
 Sentenced - The Funeral Album (2005-05-25)
 </li>
 <li data-cover="https://img.discogs.com/1j5xlhWYjyGnxlOmFQ4csWquyuY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093566-1384301696-2609.jpeg.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Vinland Saga (2005-05-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">
+Krypteria - In Medias Res (2005-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/30214efe-bc85-48c3-b5a1-39d50fd3dd11/2138626195-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
 Xandria - India (2005-08-22)
@@ -231,10 +231,10 @@ Charon - Songs for the Sinners (2005-08-31)
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
 </li>
-<li data-cover="https://img.discogs.com/_qQlR2xDg62atljYRhPUICVpNEc=/fit-in/425x424/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-807589-1370510430-5707.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/Wt7pTVZhLSxj2iE59N8os6Pdt8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2944076-1467306082-9527.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
 Katatonia - The Great Cold Distance (2006-03-13)
 </li>
-<li data-cover="https://img.discogs.com/aXCZQcOSa73njRvFAnF1Ep5jUTQ=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8125917-1489832489-1154.jpeg.jpg" data-tags="gothic metal" role="button">
+<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Karmacode (2006-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a50ab2b-8c1f-3cf0-9cda-26940a95e65f/22598604909-500.jpg" data-tags="gothic metal" role="button">
@@ -273,7 +273,7 @@ Sirenia - Nine Destinies And A Downfall (2007-02-23)
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Heart of Everything (2007-03-09)
 </li>
-<li data-cover="https://img.discogs.com/RP3gk10WFJeIo77sYgHgXaMfarQ=/fit-in/431x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9517843-1481966295-5156.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
+<li data-cover="https://img.discogs.com/k1IyRqsVZjkfTBw8GG8E4gVIUyE=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2242668-1271875843.jpeg.jpg" data-tags="gothic metal, doom metal" role="button">
 Type O Negative - Dead Again (2007-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7318fcb2-2eef-4977-9ad1-bce29fd86dcf/9588866037-500.jpg" data-tags="symphonic metal" role="button">
@@ -318,7 +318,7 @@ Zola Jesus - Conatus (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/5b04e41d-136a-49ae-8788-4e57cf8747d8/14259140884-500.jpg" data-tags="alternative metal" role="button">
 Lacuna Coil - Dark Adrenaline (2012-01-20)
 </li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
+<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
 Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 </ol>

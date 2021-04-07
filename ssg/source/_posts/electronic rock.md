@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:49:02.066Z
+date: 2021-04-07T12:22:01.512Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -63,7 +63,7 @@ The Cardigans - Gran Turismo (1998-10-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="90s, albums i own on cd" role="button">
 Soulwax - Much Against Everyone's Advice (1999-03-15)
 </li>
-<li data-cover="https://img.discogs.com/i7Mdiv7bhGP0Wki8_jUzVqvns_M=/fit-in/572x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6078419-1442913906-8783.jpeg.jpg" data-tags="synthpop" role="button">
+<li data-cover="https://img.discogs.com/IrPgeuAaT2g3YFS9j_LV1JErqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3981598-1351321028-9016.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
 </li>
 <li data-cover="https://img.discogs.com/H7d9Z1IAa4sSAKiUTri6zDYdiC0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-375064-1557511438-7181.jpeg.jpg" data-tags="rock, soft, electronic rock" role="button">
@@ -96,7 +96,7 @@ The Faint - Wet From Birth (2004-09-04)
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="synthpop, ebm" role="button">
+<li data-cover="https://img.discogs.com/DfDcweJoT-KSw2P-qwEaONzz82c=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524549-1127650288.jpeg.jpg" data-tags="synthpop, ebm" role="button">
 Apoptygma Berzerk - You and Me Against the World (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
@@ -125,9 +125,6 @@ Dragonette - Galore (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5f7d155-695d-4a0e-a384-6c1fddb7dbee/9472199885-500.jpg" data-tags="electronic pop, electronic rock, pop rock alternativo, descubierto en 2013, discovered in 2013, facto delafe y las flores azules" role="button">
 Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/45ad92a5-5e62-40d5-ac94-f31865c312ef/15648453076-500.jpg" data-tags="depeche mode, electronic" role="button">
-Dave Gahan - Hourglass (2007-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)
@@ -207,10 +204,10 @@ Panda Bear - Tomboy (2011-04-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
 Radiohead - Supercollider / The Butcher (2011-04-16)
 </li>
-<li data-cover="https://img.discogs.com/YM6BIZlIkFXbGM3KBHobS5zGzrY=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10820063-1504852323-3632.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/kZPd2fmvmZ_9jSpe7sW6nI6Wzu8=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375517-1280377713.jpeg.jpg" data-tags="indie" role="button">
 Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indietronica, synthpop, electro-rock, electronic rock" role="button">
+<li data-cover="https://img.discogs.com/lNa7DQOqw9Z-CMhjsfHA6wpJf7E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3086811-1315087650.jpeg.jpg" data-tags="indietronica, synthpop, electro-rock, electronic rock" role="button">
 Housse de Racket - Alésia (2011-08-03)
 </li>
 <li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">
@@ -320,5 +317,8 @@ The Birthday Massacre - Superstition (2014-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b8dca06-99d1-48e1-b18c-7375f1b11bae/12157816350-500.jpg" data-tags="alternative, alternative rock, electronic rock" role="button">
 Angels & Airwaves - The Dream Walker (2014-12-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/2fe0a7ce-6876-44a6-b966-6f5fe466473b/9837934274-500.jpg" data-tags="alternative rock, hard rock, rock, blues rock" role="button">
+Marilyn Manson - The Pale Emperor (2015-01-16)
 </li>
 </ol>

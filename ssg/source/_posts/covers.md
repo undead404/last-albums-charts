@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T11:03:01.383Z
+date: 2021-04-07T12:24:01.436Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -32,6 +32,9 @@ David Bowie - Pin Ups (1973-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
 Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6604008-c088-3091-ae2e-a9a15e7cc327/21251538374-500.jpg" data-tags="industrial, martial industrial" role="button">
+Laibach - Let It Be (1988-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c18b8cbc-49d9-4c26-a031-f15cc8153a4d/2044386287-500.jpg" data-tags="covers, contemporary classical, kraftwerk" role="button">
 Balanescu Quartet - Possessed (1992-09-21)
@@ -153,7 +156,7 @@ Rush - Feedback (2004-06-05)
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
-<li data-cover="https://img.discogs.com/jokZa05auD0RNA4mIH8G1axL3oc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1312233-1285336785.jpeg.jpg" data-tags="covers" role="button">
+<li data-cover="https://img.discogs.com/hCc0kHlTtfRQ0E9luwqFE6KiBSo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3453904-1330978620.jpeg.jpg" data-tags="covers" role="button">
 Me First and the Gimme Gimmes - Ruin Jonny's Bar Mitzvah (2004-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/11aa512f-360c-403c-aaac-9b48cdcead9c/8580184700-500.jpg" data-tags="covers" role="button">
@@ -183,7 +186,7 @@ Paul Anka - Rock Swings (2005-06-07)
 <li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
 Deftones - B-Sides & Rarities (2005-10-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, cover, covers, covertown" role="button">
+<li data-cover="https://img.discogs.com/-C0G07Bfi9OI-kDCj1ikyvq0-1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753035-1155288116.jpeg.jpg" data-tags="folk, cover, covers, covertown" role="button">
 Sun Kil Moon - Tiny Cities (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2dbff4f-998d-45fd-8ba0-41508059890b/15222503191-500.jpg" data-tags="heavy metal" role="button">
@@ -317,8 +320,5 @@ Annie Lennox - Nostalgia (2014-09-30)
 </li>
 <li data-cover="https://img.discogs.com/hjBxgIfKXDPjY8iU6UeI3KMi76Q=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6355650-1417678081-1682.jpeg.jpg" data-tags="covers, albums i have on vinyl, albumsiown" role="button">
 She & Him - Classics (2014-11-28)
-</li>
-<li data-cover="https://img.discogs.com/-CJI-9RJeEPzbuxKEp8VefjSt7Q=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2828551-1360103323-5548.jpeg.jpg" data-tags="covers" role="button">
-Deftones - Covers (2016-04-08)
 </li>
 </ol>

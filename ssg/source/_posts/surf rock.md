@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:16:01.467Z
+date: 2021-04-07T12:04:01.574Z
 title: "surf rock: 100 albums you must listen to before you die"
 ---
 ![Beach Fossils - Beach Fossils (2010-05-25)](http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg "Beach Fossils - Beach Fossils (2010-05-25)")
@@ -9,9 +9,9 @@ title: "surf rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg" data-tags="indie rock, surf rock" role="button">Beach Fossils - Beach Fossils (2010-05-25)</li>
 <li data-cover="https://img.discogs.com/xbnj54pJl7QKz1MCL_KaOsKO6vU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2306596-1592741615-3680.jpeg.jpg" data-tags="indie pop" role="button">The Drums - The Drums (2010-06-04)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
-<li data-cover="https://img.discogs.com/ZyXE6azUPk6G73RJQYNmC7LP_jU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2386283-1281008973.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
+<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">Allah-Las - Allah-Las (2012-09-18)</li>
-<li data-cover="https://img.discogs.com/ho0WYhDrYbe9ztyquejGyWB9-0w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4303534-1361208475-1865.jpeg.jpg" data-tags="indie rock" role="button">Beach Fossils - Clash The Truth (2013-02-19)</li>
+<li data-cover="http://coverartarchive.org/release/c93c34bc-163f-49c8-974e-c9895f03851e/6478054219-500.jpg" data-tags="indie rock" role="button">Real Estate - Atlas (2014-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">Mac DeMarco - Salad Days (2014-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/45d4f4d5-817c-42ee-97eb-21ad938ec748/8892089640-500.jpg" data-tags="lo-fi, new wave, garage rock, psychedelic rock, trippy, surf rock, surf music, lo-fi rock, indie rick, beach goth" role="button">The Growlers - Chinese Fountain (2014-09-23)</li>
 </ol>
@@ -26,6 +26,9 @@ The Beach Boys - Surfin' Safari (1962-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f055c6b-5a0c-40c5-891c-ff9e41d16acd/22422100646-500.jpg" data-tags="surf" role="button">
 The Tornadoes - Bustin' Surfboards (1963)
+</li>
+<li data-cover="https://img.discogs.com/2-Aoh7K4FE2nUMFef7fcU5a6oIs=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6487567-1514485074-1970.jpeg.jpg" data-tags="surf rock" role="button">
+The Chantays - Pipeline (1963)
 </li>
 <li data-cover="http://coverartarchive.org/release/5daacb44-12e5-42ea-9308-76fcb9a78312/7032503725-500.jpg" data-tags="surf rock" role="button">
 The Beach Boys - Surfin' USA (1963-03-25)
@@ -42,10 +45,10 @@ Elvis Presley - Viva Las Vegas (1964-04-28)
 <li data-cover="http://coverartarchive.org/release/5f052967-1a75-48b1-b430-89a76f4ef078/10302241006-500.jpg" data-tags="christmas" role="button">
 The Beach Boys - The Beach Boys' Christmas Album (1964-10)
 </li>
-<li data-cover="https://img.discogs.com/HY_iWduMdvL7qn1U4m9VB-Ci8D4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458551-1334290931.jpeg.jpg" data-tags="60s" role="button">
-The Beach Boys - Summer Days (And Summer Nights!!) (1965-07-05)
+<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+The Easybeats - Friday on My Mind (1966)
 </li>
-<li data-cover="https://img.discogs.com/ApQKJX_tZJZUIhyk7UPkxuVnmQc=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3526593-1366076522-7056.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, american, surf rock, progressive pop, art pop" role="button">
+<li data-cover="https://img.discogs.com/jGqpJZz6mvL-K4Wbytx91X3tyD8=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6972348-1585579430-6847.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, american, surf rock, progressive pop, art pop" role="button">
 The Beach Boys - Good Vibrations (1966-10-10)
 </li>
 <li data-cover="https://img.discogs.com/3nlui8RGMT03SNYnA-IgPa94BMQ=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6869769-1428774685-1743.jpeg.jpg" data-tags="instrumental, classic rock, surf" role="button">
@@ -84,17 +87,11 @@ George Thorogood & The Destroyers - Bad to the Bone (1982)
 <li data-cover="https://img.discogs.com/6f2arQmOvhprFonrzs0tkxWGCRg=/fit-in/596x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372943-1363547814-5889.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
 Billy Idol - Billy Idol (1982-07-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d14b584-dd3b-4fc3-bfad-1bffc07a2988/15855476760-500.jpg" data-tags="psychobilly, punk" role="button">
-The Cramps - Bad Music for Bad People (1984)
-</li>
 <li data-cover="https://img.discogs.com/45Ia8qZjawcm_1mgFakqn7N1kxY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417039-1437479759-2873.jpeg.jpg" data-tags="classic rock, metal, rock, punk, psychedelic, garage rock, glam rock, powerpop, surf rock, chameleon, proto punk, rock-protopunk, cowcore" role="button">
 The Dead Milkmen - Death Rides a Pale Cow (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
-</li>
-<li data-cover="https://img.discogs.com/tLxPzs6lDnBK-KVqGcFCDefuJGY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2953368-1316419473.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
-The Easybeats - Friday on My Mind (1987)
 </li>
 <li data-cover="https://img.discogs.com/C2cd7Hm-5QnTnoo12qw7YjMwD5w=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4172671-1409236226-1566.jpeg.jpg" data-tags="classic rock, rock, pop rock, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, chameleon, proto punk, rock-protopunk, flashback alternatives" role="button">
 Nick Lowe - Basher: The Best of Nick Lowe (1989)
@@ -108,11 +105,11 @@ Bob Mould - Workbook (1989-05-02)
 <li data-cover="http://coverartarchive.org/release/723fa46a-628d-44c9-8e22-8fba5ba44c6c/2947394304-500.jpg" data-tags="rock, 90s" role="button">
 Mark Lanegan - The Winding Sheet (1990-05-01)
 </li>
-<li data-cover="https://img.discogs.com/Y0mSAUFYU1DUgnAyW_Le_XvAiAs=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817686-1476844565-1240.jpeg.jpg" data-tags="rock, 90s, rock-protopunk, albums 2008" role="button">
-Bob Mould - Black Sheets Of Rain (1990-08-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f10a7d7-2dd9-380d-b13a-60e2ae0eef9c/21311200020-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Bossanova (1990-08-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/856a9660-eeb3-4088-837d-79f8ad094463/3128706063-500.jpg" data-tags="classic rock, rock" role="button">
+Thin Lizzy - Dedication (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc4b9835-65fc-4f27-93f9-e853b168b6b5/21355582922-500.jpg" data-tags="glittering raspberry dancefloors, records and tapes" role="button">
 Television - Television (1992-09-28)
@@ -122,9 +119,6 @@ Ween - Pure Guava (1992-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1933de01-235c-4252-8acc-20bafbee6f23/16217895857-500.jpg" data-tags="surf" role="button">
 Man or Astro-Man? - Destroy all Astromen! (1994)
-</li>
-<li data-cover="https://img.discogs.com/XVQxz6IrnS2KGEuqcB7m1Wb-i9c=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8238317-1552105184-6434.jpeg.jpg" data-tags="90s, indie rock, lo-fi" role="button">
-Guided by Voices - Alien Lanes (1995-04-04)
 </li>
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
@@ -144,14 +138,11 @@ Fountains of Wayne - Fountains of Wayne (1996-10-01)
 <li data-cover="http://coverartarchive.org/release/08c58e6a-1857-4851-99aa-3ebb844a7c14/14712750167-500.jpg" data-tags="60s, surf rock" role="button">
 The Beach Boys - All Summer Long (1997)
 </li>
-<li data-cover="https://img.discogs.com/bxg6u2e4n7SNZSkzzMeepDnNDM4=/fit-in/593x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7239100-1436890155-1359.jpeg.jpg" data-tags="surf" role="button">
+<li data-cover="https://img.discogs.com/CDmrFOv2u2wj_rw_DHJiP9ZsPWs=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14653847-1579014090-4769.jpeg.jpg" data-tags="surf" role="button">
 Dick Dale - The Best of Dick Dale & His Del-tones (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Death to the Pixies (1997-10-06)
-</li>
-<li data-cover="https://img.discogs.com/Dbynx4lWCcOI8sdVFzhDgTNzGx0=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8503660-1583953406-6793.jpeg.jpg" data-tags="surf rock, surf" role="button">
-The Surfaris - Surfers Rule (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec94589c-4ed0-48d7-9d73-6071776f698e/2948145055-500.jpg" data-tags="90s" role="button">
 Mark Lanegan - Scraps at Midnight (1998-07-28)
@@ -168,8 +159,11 @@ Mr. Bungle - California (1999-07-13)
 <li data-cover="http://coverartarchive.org/release/03f08510-e44b-48cb-a98a-c09551648c61/7867219841-500.jpg" data-tags="classic rock, metal, rock, punk, sad, acoustic, psychedelic, mellow, garage rock, glam rock, surf rock, chameleon, proto punk, essential, rock-protopunk, the black crowes" role="button">
 The Black Crowes - Greatest Hits 1990-1999: A Tribute To A Work In Progress (2000-06-20)
 </li>
-<li data-cover="https://img.discogs.com/H_s2q2tKfcYXZS8iRD6LVNbAiag=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4058347-1353849248-4687.jpeg.jpg" data-tags="rock, alternative" role="button">
-Guided by Voices - Isolation Drills (2001-04-10)
+<li data-cover="http://coverartarchive.org/release/74c846aa-01da-46a8-a873-3abe02986a18/8795071097-500.jpg" data-tags="surf rock" role="button">
+The Bambi Molesters - Sonic Bullets: 13 From the Hip (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/a184f523-eae7-4b3e-add4-41c55ff6e841/6521522396-500.jpg" data-tags="classic rock" role="button">
+The Beach Boys - The Very Best of The Beach Boys (2001-07-09)
 </li>
 <li data-cover="https://img.discogs.com/A0VVIyKLQd_5FEOag2sZe82URmA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396805-1571162764-2400.jpeg.jpg" data-tags="rock, punk, punk rock" role="button">
 Joey Ramone - Don't Worry About Me (2002-02-19)
@@ -179,6 +173,9 @@ Sheryl Crow - C'mon, C'mon (2002-04-08)
 </li>
 <li data-cover="https://img.discogs.com/pmmj3mB4SNEPLxvvgGYDKOI3qy8=/fit-in/408x361/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2396372-1412006316-8434.jpeg.jpg" data-tags="classic rock, metal, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, 2000s, chameleon, proto punk, my favourite artist, rock-protopunk" role="button">
 Guided by Voices - Universal Truths and Cycles (2002-05-21)
+</li>
+<li data-cover="https://img.discogs.com/E0vDgW-xunQlcYL9J8GbznZVJ7g=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371230-1579904750-9118.jpeg.jpg" data-tags="indie rock, garage rock" role="button">
+The Raveonettes - Whip It On (2002-05-27)
 </li>
 <li data-cover="https://img.discogs.com/0oz0hjq6Q-47wkzx1-f65kOs6f0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1103346-1495552406-6044.jpeg.jpg" data-tags="garage rock" role="button">
 The Greenhornes - Dual Mono (2002-10-15)
@@ -204,6 +201,9 @@ Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 <li data-cover="http://coverartarchive.org/release/9def2489-d952-4325-88df-d3b09667e9f0/22134783207-500.jpg" data-tags="surf, surf rock" role="button">
 Lost Acapulco - Acapulco Golden (2004-05)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock, male vocalists" role="button">
+McFly - Room on the 3rd Floor (2004-07-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7b2aa52-2189-486a-aa6f-de095ddfd019/1602455849-500.jpg" data-tags="classic rock, pop, baroque pop" role="button">
 Brian Wilson - SMiLE (2004-09-28)
 </li>
@@ -216,17 +216,11 @@ The White Stripes - Blue Orchid (2005-05-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock" role="button">
 The Hellacopters - Rock & Roll Is Dead (2005-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/f05702c0-a8ef-473f-9ce8-e9dbb4ca10a0/4964947583-500.jpg" data-tags="ska" role="button">
-The Aquabats - Charge!! (2005-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
 Smash Mouth - All Star Smash Hits (2005-08-23)
 </li>
 <li data-cover="https://img.discogs.com/7ZqFrSl7QC4FQXlJ-1qj6jYLm10=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1589412-1249399124.jpeg.jpg" data-tags="garage rock" role="button">
 The Greenhornes - Sewed Soles (2005-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/4039ed1d-dcb9-4f5f-997f-850149eba561/2323701025-500.jpg" data-tags="rock, alternative, acoustic, live, surf rock, chill surf" role="button">
-Donavon Frankenreiter - The Abbey Road Sessions (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/400b626c-7d7c-4ea0-a7c0-fe391b9464a7/19799047371-500.jpg" data-tags="stoner rock, psychedelic rock, surf rock, 00s" role="button">
 Yawning Man - Vista Point (2007-10-01)
@@ -237,7 +231,7 @@ Dengue Fever - Venus On Earth (2008-01-22)
 <li data-cover="http://coverartarchive.org/release/2edbdfcb-e766-4ab4-a86c-616e39e5bf32/4783866122-500.jpg" data-tags="rockabilly, psychobilly" role="button">
 HorrorPops - Kiss Kiss Kill Kill (2008-02-04)
 </li>
-<li data-cover="https://img.discogs.com/oNFSjTexRiVMalE7T4fkr9_svIM=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3252029-1330725814.jpeg.jpg" data-tags="indie, indie pop" role="button">
+<li data-cover="https://img.discogs.com/XhboZjJlWFgPeyOE8OOwzPob4LE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3140098-1485691604-6102.jpeg.jpg" data-tags="indie, indie pop" role="button">
 The Drums - Summertime! (2009-08-04)
 </li>
 <li data-cover="https://img.discogs.com/sWHNkv0pmoiARb1DPZuRZf8iNaQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-615069-1458945321-7238.jpeg.jpg" data-tags="classic rock, surf, surf rock" role="button">
@@ -252,7 +246,7 @@ The Drums - The Drums (2010-06-04)
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">
 Best Coast - Crazy for You (2010-07-26)
 </li>
-<li data-cover="https://img.discogs.com/ZyXE6azUPk6G73RJQYNmC7LP_jU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2386283-1281008973.jpeg.jpg" data-tags="lo-fi" role="button">
+<li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
 Wavves - King Of The Beach (2010-08-02)
 </li>
 <li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">
@@ -288,11 +282,14 @@ Best Coast - The Only Place (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/0b139345-7b1e-49d7-b482-7af58ea446cc/3955506171-500.jpg" data-tags="rock, indie pop, indie rock, hardly art, fucking lovely" role="button">
 La Sera - Sees the Light (2012-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/54896f2d-38f2-4f19-b6e1-3f9982918ad5/6705445665-500.jpg" data-tags="garage rock" role="button">
-King Gizzard & The Lizard Wizard - 12 Bar Bruise (2012-09-07)
+<li data-cover="http://coverartarchive.org/release/e5d6de15-b413-4443-89e5-e8d8772cf238/10820756257-500.jpg" data-tags="surf rock, 2012 albums, great album artwork" role="button">
+Guantanamo Baywatch - Chest Crawl (2012-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
+Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="https://img.discogs.com/OZM06ZVleqphXIjFPn49kOnUwb4=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4018199-1466511789-1576.jpeg.jpg" data-tags="indie rock" role="button">
 The Babies - Our House on the Hill (2012-11-13)
@@ -306,17 +303,20 @@ The Growlers - Hung At Heart (2013-01-22)
 <li data-cover="https://img.discogs.com/ho0WYhDrYbe9ztyquejGyWB9-0w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4303534-1361208475-1865.jpeg.jpg" data-tags="indie rock" role="button">
 Beach Fossils - Clash The Truth (2013-02-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d326c99-3620-4643-987c-444d0bfa635b/17253129837-500.jpg" data-tags="psychedelic, dream pop, surf rock" role="button">
-Sugar Candy Mountain - Mystic Hits (2013-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/0dbf4ed3-0efc-44a1-b631-2af310042885/13192916186-500.jpg" data-tags="indie rock" role="button">
 La Luz - It's Alive (2013-10-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/c93c34bc-163f-49c8-974e-c9895f03851e/6478054219-500.jpg" data-tags="indie rock" role="button">
+Real Estate - Atlas (2014-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
 Mac DeMarco - Salad Days (2014-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/45d4f4d5-817c-42ee-97eb-21ad938ec748/8892089640-500.jpg" data-tags="lo-fi, new wave, garage rock, psychedelic rock, trippy, surf rock, surf music, lo-fi rock, indie rick, beach goth" role="button">
 The Growlers - Chinese Fountain (2014-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/1264e748-2a35-48d6-914c-bc877d3aab9c/8457356908-500.jpg" data-tags="indie pop, indie rock, surf rock, minor records, ingrooves music, bad albums, horrible albums, albuns i need" role="button">
+The Drums - Encyclopedia (2014-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/571e17fe-fbcf-4807-adaf-32b3795b6ecf/12602580450-500.jpg" data-tags="garage rock, psychedelic rock, surf rock" role="button">
 The Shivas - You Know What To Do (2014-10-14)

@@ -1,11 +1,10 @@
 ---
-date: 2021-04-06T03:00:01.917Z
+date: 2021-04-07T11:48:01.477Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">David Bowie - Space Oddity (1969-11-04)</li>
-<li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">Neutral Milk Hotel - On Avery Island (1996-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)</li>
 <li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, freak folk" role="button">Animal Collective - Sung Tongs (2004-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
@@ -13,6 +12,7 @@ title: "psychedelic folk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">Devendra Banhart - What Will We Be (2009-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">Kurt Vile - Smoke Ring for My Halo (2011-03-07)</li>
+<li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Shields (2012-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">Angel Olsen - Burn Your Fire for No Witness (2014-02-18)</li>
 </ol>
 List of 100 - under the cut.
@@ -66,7 +66,7 @@ Comus - First Utterance (1971)
 <li data-cover="http://coverartarchive.org/release/d9ad5347-9829-4fab-ace3-57eba05e7054/20462935528-500.jpg" data-tags="argentina, rock" role="button">
 Pescado Rabioso - Artaud (1973-10)
 </li>
-<li data-cover="https://img.discogs.com/SWNyYFd1HZhw_UNNidLq5Z-iR6c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3101067-1316516921.jpeg.jpg" data-tags="70s" role="button">
+<li data-cover="https://img.discogs.com/TXDsgUtMWcZHCJCeyvRQfBJcKH4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1478480-1594740551-6940.jpeg.jpg" data-tags="70s" role="button">
 Grateful Dead - From the Mars Hotel (1974-06-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
@@ -75,7 +75,7 @@ Neil Young - On the Beach (1974-07-19)
 <li data-cover="http://coverartarchive.org/release/0f82447b-1813-4a0d-a4dc-6b645b72bb43/17277846044-500.jpg" data-tags="80s, singer-songwriter, art rock, folk rock, psychedelic folk, rock en español, progressive latin" role="button">
 Luis Alberto Spinetta - Kamikaze (1982)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="holophonic" role="button">
+<li data-cover="https://img.discogs.com/XL9Mrr8GhhzlfU3RVRelI4AdTRE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-186371-1347897975-1349.jpeg.jpg" data-tags="holophonic" role="button">
 Psychic TV - Dreams Less Sweet (1983-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
@@ -99,7 +99,7 @@ of Montreal - Cherry Peel (1997-08-19)
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
 Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
-<li data-cover="https://img.discogs.com/qhnIPNQio3ZMsL6Rsneb5sodigs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1882843-1507928607-7558.jpeg.jpg" data-tags="psychedelic folk, neo-psychedelia" role="button">
+<li data-cover="https://img.discogs.com/UK7VXn8OBpT7vtFBSnoAnhoDw4k=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-710155-1602925112-5767.jpeg.jpg" data-tags="psychedelic folk, neo-psychedelia" role="button">
 Gorky's Zygotic Mynci - Spanish Dance Troupe (1999-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
@@ -138,9 +138,6 @@ Devendra Banhart - Nino Rojo (2004-09-13)
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
-<li data-cover="https://img.discogs.com/WkoXThSBS1kO0x2aoxmPcZSy31E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270364-1273529219.jpeg.jpg" data-tags="folk, psychedelic folk, jonasmusik" role="button">
-Diane Cluck - Countless Times (2005)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
 Feathers - Feathers (2005)
 </li>
@@ -159,7 +156,7 @@ Paavoharju - Yhä hämärää (2005-07-27)
 <li data-cover="http://coverartarchive.org/release/79b6435c-ac43-3b7c-a601-60f409895e4d/6833210892-500.jpg" data-tags="electro-folk" role="button">
 Shugo Tokumaru - L.S.T. (2005-08-25)
 </li>
-<li data-cover="https://img.discogs.com/XTWumVE24KLGoc7R7tHhm_evWhg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751184-1597306181-8633.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
@@ -255,7 +252,7 @@ Warpaint - The Fool (2010-10-25)
 <li data-cover="https://img.discogs.com/BmSVv2To___mOLq7WviCbbYBWs0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506826-1287774795.jpeg.jpg" data-tags="experimental" role="button">
 Avey Tare - Down There (2010-10-26)
 </li>
-<li data-cover="https://img.discogs.com/Nm3LDvJNufWzgfoS3W1_mW3Ff-o=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2863446-1304833127.jpeg.jpg" data-tags="rock, indie, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/zJFL_64IjYCGNI0DDU8E5MzPovE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2663331-1297710621.jpeg.jpg" data-tags="rock, indie, alternative rock" role="button">
 Anna Calvi - Anna Calvi (2011-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a1e4735-6f30-4d71-8702-4399f7bec4b3/5913448914-500.jpg" data-tags="psychedelic folk, dark folk" role="button">
@@ -264,7 +261,7 @@ Hexvessel - Dawnbearer (2011-02-05)
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
 Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="2012" role="button">
+<li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee805eba-996b-48c6-bccb-52b6ff5f4dd7/1017565236-500.jpg" data-tags="folk, indie, drone" role="button">
@@ -272,6 +269,9 @@ Mount Eerie - Clear Moon (2012-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f49a9c6-34f8-4546-bea0-9b839995b06c/3883004277-500.jpg" data-tags="psychedelic folk" role="button">
 Hexvessel - No Holier Temple (2012-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
+Grizzly Bear - Shields (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/288b34fd-f78c-423a-a144-8191ada79d25/2048304998-500.jpg" data-tags="indie, rock, freak folk, woodsist" role="button">
 Woods - Bend Beyond (2012-09-18)
