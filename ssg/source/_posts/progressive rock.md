@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T23:12:01.379Z
+date: 2021-04-07T07:32:01.455Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -9,7 +9,7 @@ title: "progressive rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">Genesis - Invisible Touch (1986-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Division Bell (1994-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
+<li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">Tool - Lateralus (2001-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">The Mars Volta - Frances the Mute (2005-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">Tool - 10,000 Days (2006-04-28)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
 Pink Floyd - A Saucerful of Secrets (1968-06-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/2XB2Zi6X6y9GAL_b399rTFYIta4=/fit-in/600x738/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8744584-1494946548-1401.jpeg.jpg" data-tags="progressive rock" role="button">
 King Crimson - In the Court of the Crimson King (1969-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock" role="button">
@@ -51,7 +51,7 @@ Yes - Fragile (1971-11-12)
 <li data-cover="https://img.discogs.com/H5oODcDFqsTdAgHElEeZewNX7oo=/fit-in/562x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1579909-1229893753.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Wishbone Ash - Argus (1972-04-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/zc3ziFn38yiirxhkQ69ag_DjLe0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-643604-1280147837.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Obscured by Clouds (1972-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b9b5b13-5639-4645-b89b-e5ea555f9a65/7295017114-500.jpg" data-tags="progressive rock" role="button">
@@ -123,14 +123,11 @@ The Alan Parsons Project - Eye In The Sky (1982-06)
 <li data-cover="https://img.discogs.com/1yjHvLYMmIOLd7BB7KIYkwd6P5c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5293717-1393691158-7029.jpeg.jpg" data-tags="progressive rock" role="button">
 Rush - Signals (1982-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Genesis - Genesis (1983-10-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/8be613dc-5964-3dc0-9802-71c4eeccb125/11372138627-500.jpg" data-tags="progressive rock" role="button">
-Yes - 90125 (1983-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Kansas - The Best of Kansas (1984)
@@ -147,7 +144,10 @@ Genesis - Invisible Touch (1986-06-01)
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
 </li>
-<li data-cover="https://img.discogs.com/yhsafRWLca1rLfuG7gevzfc935Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468462-1359981319-9678.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
+<li data-cover="http://coverartarchive.org/release/c3b3c4e5-521d-4d25-801c-e4f2380aa8d1/7720432462-500.jpg" data-tags="progressive rock, pink floyd, live" role="button">
+Pink Floyd - Delicate Sound of Thunder (1988-11-22)
+</li>
+<li data-cover="https://img.discogs.com/cLuwRy_ZrizsDIH71sbrftA4yLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260920-1342495276-4482.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b5a4d0e-1268-4ed5-8b48-6d0740053813/4163627164-500.jpg" data-tags="progressive metal" role="button">
@@ -171,7 +171,7 @@ Pink Floyd - Pulse (1995-05-29)
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">
 Tool - Ænima (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a51b23b-4594-4abe-8c69-19b8cfa49184/8630651837-500.jpg" data-tags="doom metal, progressive rock, progressive metal" role="button">
@@ -228,7 +228,7 @@ Anathema - A Natural Disaster (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/YtYOqYAq5qrCcZYCl7Jzex09Js8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937391-1566141203-9309.jpeg.jpg" data-tags="progressive rock" role="button">
 Blackfield - Blackfield (2004-08-23)
 </li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
@@ -252,11 +252,8 @@ dredg - Catch Without Arms (2005-06-21)
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
 </li>
-<li data-cover="https://img.discogs.com/kTkE93U4Mhrw6hqBTCYmyjFYOwA=/fit-in/588x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120756-1193675519.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/j1cw6tuQlOTPr5DUd7X3pffrDkI=/fit-in/483x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2602279-1292652149.jpeg.jpg" data-tags="progressive rock" role="button">
 David Gilmour - On an Island (2006-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a579c61-ced0-3dd4-b1cb-3539578c0163/24153332307-500.jpg" data-tags="progressive rock" role="button">
-Pure Reason Revolution - The Dark Third (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
 Tool - 10,000 Days (2006-04-28)
@@ -308,6 +305,9 @@ Opeth - Heritage (2011-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/75350c8b-eaed-4a0a-bf6a-50723295f977/3712915540-500.jpg" data-tags="2012, progressive rock" role="button">
 Anathema - Weather Systems (2012-04-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
+Muse - The 2nd Law (2012-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ac426a4-f2c0-4176-86d6-1453cab3f999/23741623778-500.jpg" data-tags="progressive rock" role="button">
 Steven Wilson - The Raven That Refused to Sing (and Other Stories) (2013-02-25)

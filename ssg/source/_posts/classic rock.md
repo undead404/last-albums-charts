@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T06:11:01.430Z
+date: 2021-04-07T07:30:02.858Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -147,6 +147,9 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/e1ca2e07-a4c6-4845-8960-843bfc825d61/27232578190-500.jpg" data-tags="hard rock" role="button">
 Deep Purple - Machine Head (1972-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">
+David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
@@ -209,9 +212,6 @@ Dire Straits - Dire Straits (1978-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/635239b4-986a-4cb7-90ba-bf213d5c9f78/11292551867-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 The Rolling Stones - Some Girls (1978-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
-Queen - Jazz (1978-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Supertramp - Breakfast In America (1979)

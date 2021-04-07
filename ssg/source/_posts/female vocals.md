@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:38:01.489Z
+date: 2021-04-07T07:36:01.409Z
 title: "female vocals: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -41,6 +41,9 @@ Berlin - Best Of Berlin 1979-1988 (1988-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/2aec11c0-41e5-4c6d-9150-8ad73548bf62/5102658391-500.jpg" data-tags="female vocalists, french, pop, cute girl rock" role="button">
+April March - Chick Habit (1995-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
 Cat Power - What Would the Community Think (1996-09-10)
@@ -111,7 +114,7 @@ Lisa Marie Presley - To Whom It May Concern (2003-04-08)
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
 </li>
-<li data-cover="https://img.discogs.com/SSBq17gy1dGf0BGacoUNxgE3wA4=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4721359-1373382641-6460.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/dyuRggLeX4_l663VeqtghLIXU5s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2866380-1332863983.jpeg.jpg" data-tags="pop" role="button">
 Annie Lennox - Bare (2003-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
@@ -243,7 +246,7 @@ Anna Ternheim - Leaving On A Mayday (2008-11-12)
 <li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
 Erin McCarley - Love, Save The Empty (2009-01-06)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, sex, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, sex, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
@@ -299,9 +302,6 @@ Lights - Siberia (2011-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f82bdc4-d08a-4776-ae28-950d5fbd6fd1/4048297645-500.jpg" data-tags="electronic, shoegaze, dreamy, female vocals, records i own, redhot, village green, i love all the songs" role="button">
 Mint Julep - Save Your Season (2011-11-21)
-</li>
-<li data-cover="https://img.discogs.com/sAPQvsbSpvYXxK_JX1o1i9SE7z4=/fit-in/600x310/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16088212-1603982964-4456.jpeg.jpg" data-tags="psychedelic rock, blues rock" role="button">
-Blues Pills - Bliss (2012-05-25)
 </li>
 <li data-cover="https://img.discogs.com/U2u1IJX-wxO7HQ0SZXpU4HL0Pis=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14117028-1568174135-7777.jpeg.jpg" data-tags="female vocalists, singer-songwriter, indie, folk" role="button">
 Brandi Carlile - Bear Creek (2012-06-01)
