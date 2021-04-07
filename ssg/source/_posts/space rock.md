@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T18:35:01.409Z
+date: 2021-04-07T18:12:01.400Z
 title: "space rock: 100 albums you must listen to before you die"
 ---
 ![Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)](http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg "Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)")
@@ -63,7 +63,7 @@ Hawkwind - Warrior on the Edge of Time (1975-05)
 <li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
 Eloy - Ocean (1977)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, space rock, neo-psychedelia" role="button">
+<li data-cover="https://img.discogs.com/owGrYH9DQxdfLoHhpVUrRSHGEWs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-531519-1383573789-5326.jpeg.jpg" data-tags="psychedelic, space rock, neo-psychedelia" role="button">
 Spacemen 3 - Sound of Confusion (1986)
 </li>
 <li data-cover="https://img.discogs.com/rmgsvZxF7sliFJ7oRzeckMwh0hs=/fit-in/358x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-542509-1129462073.jpeg.jpg" data-tags="psychedelic, neo-psychedelia, shoegaze, psychedelic rock" role="button">
@@ -129,6 +129,9 @@ The Verve - A Northern Soul (1995-07-03)
 <li data-cover="http://coverartarchive.org/release/d92fcf47-6e06-4e5f-b6c7-55bfe93b2c2f/13811062740-500.jpg" data-tags="90s, space rock, electronic rock" role="button">
 Babylon Zoo - The Boy With the X-Ray Eyes (1996)
 </li>
+<li data-cover="https://img.discogs.com/qjIJpWeXcRW6WATBzDzuNbfVmPE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4426176-1523097446-8851.jpeg.jpg" data-tags="psychedelic rock" role="button">
+Bardo Pond - Amanita (1996-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/ecef0212-b8c5-459f-8fd7-47f8c775a798/8886801506-500.jpg" data-tags="alternative rock, indie rock, space rock, rock, alternative, post-grunge" role="button">
 Failure - Fantastic Planet (1996-08-13)
 </li>
@@ -188,9 +191,6 @@ The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ef8d874-a2ed-4dc2-9262-cc66b0120818/15485269083-500.jpg" data-tags="psychedelia, space rock, neo-psychedelia, dream, tremolo radio" role="button">
 Spiritualized - The Complete Works Vol. 1 (2003-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/f21cf3d9-457e-429d-98bf-747ebb0e8b4b/19362049030-500.jpg" data-tags="psychedelic rock" role="button">
-Dead Meadow - Shivering King And Others (2003-06-03)
 </li>
 <li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
 Grandaddy - Sumday (2003-06-09)

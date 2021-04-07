@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T07:37:01.509Z
+date: 2021-04-07T18:20:01.494Z
 title: "bossa nova: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -29,6 +29,9 @@ Coleman Hawkins - Desafinado (1962)
 </li>
 <li data-cover="https://img.discogs.com/Mi6IqIn9PuiCrW7sqM4N4ejH3Ko=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2241296-1271795742.jpeg.jpg" data-tags="jazz, bossa nova" role="button">
 Stan Getz & Charlie Byrd - Jazz Samba (1962-04-20)
+</li>
+<li data-cover="https://img.discogs.com/la2anXEAM03QcDWUGPmynaW0Ofo=/fit-in/411x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885061-1511778049-1588.jpeg.jpg" data-tags="bossa nova" role="button">
+Tamba Trio - Avanço (1963)
 </li>
 <li data-cover="http://coverartarchive.org/release/f244c760-f055-4099-9b80-70cef5ef1f74/1276068220-500.jpg" data-tags="brazilian, samba, mpb" role="button">
 Jorge Ben - Samba Esquema Novo (1963)
@@ -180,9 +183,6 @@ Ive Mendes - Ive Mendes (2002-10-28)
 <li data-cover="http://coverartarchive.org/release/5cfe6da9-3873-4c50-8727-843ca258e3fb/21383893045-500.jpg" data-tags="melancholic" role="button">
 Anita Lipnicka & John Porter - Nieprzyzwoite piosenki (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/aa69bcab-fcab-4d68-9ca7-7a2354e1262a/26931826663-500.jpg" data-tags="silvio passos" role="button">
-Chico Buarque - Perfil (2003)
-</li>
 <li data-cover="http://coverartarchive.org/release/283e6068-9e3d-4dd6-823b-5b481f437298/18305534650-500.jpg" data-tags="mpb, vanessa da mata" role="button">
 Vanessa da Mata - Vanessa da Mata (2003-01-11)
 </li>
@@ -191,6 +191,9 @@ Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova" role="button">
 Celso Fonseca - Natural (2003-07-23)
+</li>
+<li data-cover="https://img.discogs.com/r7C-mebe6gilYjWE6sUmT9uJZAc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2842837-1373294990-5499.jpeg.jpg" data-tags="bossa nova" role="button">
+Nara Leão - The Muse of Bossa Nova (2003-09-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova, brazilian" role="button">
 Marcos Valle - Contrasts (2003-10-20)
@@ -257,9 +260,6 @@ Mariana Aydar - Kavita 1 (2007)
 </li>
 <li data-cover="https://img.discogs.com/7U0LIu_-CKULd1Uag2WQbkr79uc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1448692-1228861933.jpeg.jpg" data-tags="brasil, brazil, mpb" role="button">
 Vanessa da Mata - Sim (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a9842c0-e0d1-4ac8-ba53-7bd76aa16c56/3402621563-500.jpg" data-tags="lounge" role="button">
-Mo' Horizons - Sunshine Today (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d290376-6cdd-423d-985e-a3004f7aebc3/5739976268-500.jpg" data-tags="bossa nova, chillout" role="button">
 Bebel Gilberto - Momento (2007-03-16)
