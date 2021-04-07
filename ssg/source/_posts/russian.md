@@ -1,10 +1,10 @@
 ---
-date: 2021-04-07T06:32:01.425Z
+date: 2021-04-07T22:45:01.661Z
 title: "russian: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/8ee696a2-a2df-3103-9552-84bc89c1b21f/10018803050-500.jpg" data-tags="russian, russian rock" role="button">Сплин - Коллекционер оружия (1996-04-27)</li>
+<li data-cover="http://coverartarchive.org/release/d2519293-b0d9-43d8-a669-d52796161c7f/1412312432-500.jpg" data-tags="russian" role="button">ЗЕМФИРА - ЗЕМФИРА (1999-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/981956e9-cbe6-43d3-a41b-9c1cdf9f0615/8629209528-500.jpg" data-tags="rock, russian, russian rock" role="button">Би-2 - Мяу кисс ми (2001-12-03)</li>
 <li data-cover="https://img.discogs.com/168ocC56t91yXss7WoXJH59-Iwo=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10566998-1500033083-6757.png.jpg" data-tags="pop" role="button">t.A.T.u. - 200 km/h in the Wrong Lane (2002-12-10)</li>
 <li data-cover="http://coverartarchive.org/release/0ea45f21-a336-40ba-a38b-bf2d1399b0e5/9478672915-500.jpg" data-tags="rock, russian, punk, alternative" role="button">Lumen - Три пути (2004)</li>
@@ -77,6 +77,9 @@ Sergei Prokofiev - Romeo and Juliet (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbc9e79c-6c53-3865-b74c-bd9bea133baa/7047433301-500.jpg" data-tags="punk rock" role="button">
 Король и Шут - Акустический Альбом (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2519293-b0d9-43d8-a669-d52796161c7f/1412312432-500.jpg" data-tags="russian" role="button">
+ЗЕМФИРА - ЗЕМФИРА (1999-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f6871a9-895e-4a11-b8f2-31a0f11dd46f/3408937704-500.jpg" data-tags="russian rock, rock" role="button">
 Сплин - Альтависта (1999-10-01)
@@ -194,9 +197,6 @@ Lumen - Свобода (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
 Мельница - Перевал (2005-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a237a605-e4ae-4642-a7df-48b56c71f5bb/19154243216-500.jpg" data-tags="russian rock" role="button">
-Мумий Тролль - Слияние и Поглощение (2005-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="russian, eastern europe rock" role="button">
 Братья Грим - Братья Грим (2005-06-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T20:02:01.570Z
+date: 2021-04-07T22:42:01.456Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -168,6 +168,9 @@ Shpongle - Are You Shpongled? (1998-10-01)
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/a054c044-6da4-4822-a5a6-22549923d329/10078241639-500.jpg" data-tags="indie, rock" role="button">
+The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
+</li>
 <li data-cover="https://img.discogs.com/Dv7Pgio7LPFqdKat1yi0UynK8g4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-73839-1477425849-1942.jpeg.jpg" data-tags="psychedelic" role="button">
 Shpongle - Tales of the Inexpressible (2001-05-30)
 </li>
@@ -311,9 +314,6 @@ Allah-Las - Allah-Las (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="2012" role="button">
 Tame Impala - Lonerism (2012-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
-The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
 Mac DeMarco - Salad Days (2014-04-01)

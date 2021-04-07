@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:57:01.857Z
+date: 2021-04-07T22:24:01.457Z
 title: "party: 100 albums you must listen to before you die"
 ---
 ![P!nk - Raise Your Glass (2010-10-06)](https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg "P!nk - Raise Your Glass (2010-10-06)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
-Wild Cherry - Wild Cherry (1976)
-</li>
 <li data-cover="https://img.discogs.com/RRjcvz9g7c-wYEhiNFx4yNTJqJI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3398250-1359045084-6438.jpeg.jpg" data-tags="80s, trevor horn" role="button">
 Malcolm McLaren - Duck Rock (1983)
 </li>
@@ -173,6 +170,9 @@ The Presets - Beams (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae39aa8d-3955-412f-8801-fd57b624ed8b/7754380019-500.jpg" data-tags="electronic, dance, electro" role="button">
 Soulwax - Nite Versions (2005-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/2fd57c92-1159-4625-870c-c36c81fb0e70/20417939131-500.jpg" data-tags="party, 12-inch" role="button">
+Justice vs. Simian - We Are Your Friends (2006-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, a night out on the town, female popsingers, chill - girly" role="button">
 Marie Serneholt - Enjoy the Ride (2006-03-29)
