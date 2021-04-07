@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:15:02.738Z
+date: 2021-04-07T08:15:01.607Z
 title: "heavy: 100 albums you must listen to before you die"
 ---
 ![Flux Pavilion - Bass Cannon (2011-03-21)](http://coverartarchive.org/release/2fca1b4d-f307-48fc-a449-550e663c9da0/18420618474-500.jpg "Flux Pavilion - Bass Cannon (2011-03-21)")
@@ -33,7 +33,7 @@ Status Quo - Hello! (1973-10-06)
 <li data-cover="http://coverartarchive.org/release/94541997-f956-4726-aa2b-2fad9d7f640b/19461208757-500.jpg" data-tags="classic rock, folk rock, rock, singer-songwriter, soft rock" role="button">
 Crosby & Nash - Wind on the Water (1975)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/iJqpGmu-7MiFD__j3ROdC96qDQw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4611580-1458592429-1653.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
 Kiss - Double Platinum (1978-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
@@ -51,7 +51,7 @@ Anthrax - I'm The Man (1987)
 <li data-cover="https://img.discogs.com/JfDrrPTDdS04dLR1uOC9OPCZ0bk=/fit-in/550x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5773474-1402468848-3667.jpeg.jpg" data-tags="hard rock" role="button">
 Kiss - Crazy Nights (1987-09-15)
 </li>
-<li data-cover="https://img.discogs.com/yesKPgVJJ3fjyiVQlDyB1bqpmYI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6103135-1452347572-3451.png.jpg" data-tags="80s, hard rock" role="button">
+<li data-cover="https://img.discogs.com/LIyq3NCZJ4qy0E7QG-usM6DEDi4=/fit-in/597x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9393257-1479762394-1426.jpeg.jpg" data-tags="80s, hard rock" role="button">
 Europe - Out of This World (1988-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/23f9e674-cd59-4490-a875-8126f59fc353/7163136220-500.jpg" data-tags="hard rock" role="button">
@@ -87,11 +87,8 @@ Sleep - Jerusalem (1996)
 <li data-cover="https://img.discogs.com/etTq8ISwuGvt8WmT51mCCoLN__I=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4505386-1366799359-8515.jpeg.jpg" data-tags="industrial metal" role="button">
 Ministry - Filth Pig (1996-01-26)
 </li>
-<li data-cover="https://img.discogs.com/qjIJpWeXcRW6WATBzDzuNbfVmPE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4426176-1523097446-8851.jpeg.jpg" data-tags="psychedelic rock" role="button">
-Bardo Pond - Amanita (1996-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
-Laibach - Jesus Christ Superstars (1996-10-22)
+<li data-cover="http://coverartarchive.org/release/6c900ed7-76dd-4eb0-ba46-9153ff056f5a/20122739280-500.jpg" data-tags="hard rock, rock, german, onkelz" role="button">
+Böhse Onkelz - E.I.N.S. (1996-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/80e36449-28af-4bba-a39b-be53ba957302/1287504048-500.jpg" data-tags="rock, rock argentino" role="button">
 La Renga - Despedazado Por Mil Partes (1996-11)
@@ -135,7 +132,7 @@ Motörhead - We Are Motörhead (2000-05-15)
 <li data-cover="http://coverartarchive.org/release/2ff64a41-490f-4657-bf68-258a1eb96e87/28945562011-500.jpg" data-tags="heavy metal, stoner rock, hard rock" role="button">
 Corrosion of Conformity - America's Volume Dealer (2000-09-26)
 </li>
-<li data-cover="https://img.discogs.com/iXhCbYKucXwX01SANUCdwZ3zpFE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622208-1598632234-7202.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
+<li data-cover="https://img.discogs.com/9crr3fjxESn9gZG_OQ2TdABKMv8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645776-1556249755-2449.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Sevendust - Animosity (2001-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6c37466-3b2c-488f-8780-0c9e7e4ba28c/16318641222-500.jpg" data-tags="electronic, rock, heavy, jam" role="button">
@@ -234,9 +231,6 @@ Om - Pilgrimage (2007-09-13)
 <li data-cover="http://coverartarchive.org/release/23cb7745-bee3-3d3f-b897-564cff9da7bb/24035772313-500.jpg" data-tags="metal, stoner rock, doom" role="button">
 Torche - In Return (2007-09-18)
 </li>
-<li data-cover="https://img.discogs.com/oe4oEGANAqpevhEEBCKC44k72bo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1964284-1255380595.jpeg.jpg" data-tags="japanese" role="button">
-Versailles - Lyrical Sympathy (2007-10-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/7f3f55ac-4d16-4f09-8a9c-c133d7ba76e3/10533086724-500.jpg" data-tags="metal, rock, heavy, experimental, power, fusion, progressive, brazilian, my prog rock favs, nu-prog" role="button">
 Mindflow - Destructive Device (2008)
 </li>
@@ -263,6 +257,9 @@ Dragged Into Sunlight - Hatred For Mankind (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6f1073-fa09-4d1d-8cdd-3b1003891a1b/6037199822-500.jpg" data-tags="heavy, post-rock, gritty, atmospheric sludge metal, sonic fetish, chingocore" role="button">
 Latitudes - Agonist (2009-10-05)
+</li>
+<li data-cover="https://img.discogs.com/v9C2oNFijwyZuO0t_6NLkqFUyvI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1996407-1267266815.jpeg.jpg" data-tags="stoner rock" role="button">
+Fu Manchu - Signs Of Infinite Power (2009-10-19)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="dubstep" role="button">
 NiT GRiT - NiT GriT (2009-11-06)
@@ -294,7 +291,7 @@ All Shall Perish - This Is Where It Ends (2011-07-26)
 <li data-cover="https://img.discogs.com/EFeKGOoG-_vRbcNpss1CfvPEYBw=/fit-in/515x412/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2429943-1324418451.jpeg.jpg" data-tags="death metal" role="button">
 Vader - Welcome to the Morbid Reich (2011-08-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="djent, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/8X3dS8gbhSAcdhPRvj4V_VF3MNQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13895675-1563539622-2102.jpeg.jpg" data-tags="djent, progressive metal" role="button">
 Volumes - Via (2011-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/04278865-914e-4cd1-96ff-f07f566909a2/11885067261-500.jpg" data-tags="deathcore, brutal deathcore" role="button">
@@ -308,6 +305,9 @@ Upon a Burning Body - Red. White. Green. (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1878453-6875-4d83-a8b2-d380e7e70342/7764522281-500.jpg" data-tags="classic rock, rock, soul, grunge, alternative, alternative rock, heavy, pop rock, sleezy, solo, catchy, epic, intro, industrial, blues, psychedelic, moody, soundscape, nineties, space, progressive, muse, a perfect circle, pink floyd, aerosmith, melancholic, stoner, dutch, brass, nine inch nails, 90's, holland, netherlands, seventies, led zeppelin, tool, debut, scream, the netherlands, lowlands, the rolling stones, rage against the machine, deep purple, pearl jam, audioslave, soundgarden, rolling stones, guitar solo, ratm, high vocals, 70's, chris cornell, synthbass, the black crowes, guitarsolo, navarone" role="button">
+Navarone - A Darker Shade of White (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1008433-df97-44b6-b91b-daebf2fc180c/19903307970-500.jpg" data-tags="stoner rock" role="button">
 Karma to Burn - Karma to Burn (2013-03-29)

@@ -1,11 +1,11 @@
 ---
-date: 2021-04-06T19:09:01.463Z
+date: 2021-04-07T08:13:01.412Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
-<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
+<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">Kings of Convenience - Riot on an Empty Street (2004-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">City and Colour - Bring Me Your Love (2008-02-12)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
@@ -63,9 +63,6 @@ Thievery Corporation - It Takes a Thief (1999)
 <li data-cover="http://coverartarchive.org/release/d98d60d4-51a6-4647-a92f-195af796599e/24147288966-500.jpg" data-tags="rock, alternative" role="button">
 Modest Mouse - Night on the Sun (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/05a2e11a-bccb-4069-8e20-2d545d2e1669/9738556984-500.jpg" data-tags="yanni" role="button">
-Yanni - Love Songs (1999-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
@@ -114,7 +111,7 @@ Gregor Samsa - 27:36 (2003-03-18)
 <li data-cover="http://coverartarchive.org/release/1b33c647-97b8-4e0a-b3d0-fc349c4da9cb/27009716539-500.jpg" data-tags="rap" role="button">
 CunninLynguists - Southernunderground (2003-04-01)
 </li>
-<li data-cover="https://img.discogs.com/SSBq17gy1dGf0BGacoUNxgE3wA4=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4721359-1373382641-6460.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/dyuRggLeX4_l663VeqtghLIXU5s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2866380-1332863983.jpeg.jpg" data-tags="pop" role="button">
 Annie Lennox - Bare (2003-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dab92633-793d-4d60-a9ee-54950070cfea/11124226539-500.jpg" data-tags="ambient" role="button">
@@ -135,7 +132,7 @@ edIT - Crying Over Pros for No Reason (2004-04-12)
 <li data-cover="http://coverartarchive.org/release/2790dbb6-91ff-4e71-982c-78fbb1ab3d7e/8364942432-500.jpg" data-tags="instrumental, bond - classified, new age, violin, classical crossover" role="button">
 Bond - Classified (2004-05-08)
 </li>
-<li data-cover="https://img.discogs.com/t2DFzehygut-LLu8PiP0MATU-Zo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-298445-1179488924.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
+<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
 Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/58f2d266-b4ad-483c-abd0-d36dc25e0c02/11944292045-500.jpg" data-tags="relaxing, beautiful piano, piano, new age" role="button">
@@ -189,7 +186,7 @@ Celestial Aeon Project - Aeon (2006-12-01)
 <li data-cover="http://coverartarchive.org/release/0178f62c-7662-46d9-9870-d331c21d290f/1087682353-500.jpg" data-tags="alternative, piano, new age, dreamy, melancholic, relaxing" role="button">
 Frozen Silence - Heart of Winter (2006-12-01)
 </li>
-<li data-cover="https://img.discogs.com/GOBQZE2ox2Kt3bl4iBk0FbCVgiU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895370-1506110433-6785.jpeg.jpg" data-tags="owl city" role="button">
+<li data-cover="https://img.discogs.com/IhkOjVuBBp-HgKmkttcE6lFar0E=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828553-1462793870-4809.jpeg.jpg" data-tags="owl city" role="button">
 Owl City - Of June (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="piano solo, new age, relaxing" role="button">
@@ -200,6 +197,9 @@ Katharine McPhee - Katharine McPhee (2007-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
+</li>
+<li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
+Nic Chagall - What You Need (2007-03-05)
 </li>
 <li data-cover="https://img.discogs.com/1u5cg-1Wd65aHJfWZfaMTZNNpDM=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-950281-1456038327-8586.jpeg.jpg" data-tags="nu jazz, downtempo, nostalgia 77, jazz, nu-jazz" role="button">
 Nostalgia 77 - Everything Under the Sun (2007-03-19)
@@ -252,10 +252,10 @@ Jon Hopkins - Insides (2008-11-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, sex, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="chillout, trip-hop, female, jazz, pop, chill, experimental, female vocalists, fusion, trip hop, relaxing, sex, female vocals, female vocalist, relax, boom, female vocalsits" role="button">
 Anjulie - Boom (2009-04-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb, chillout, brasil, relaxing" role="button">
+<li data-cover="https://img.discogs.com/ChTjot53NIk0UW_axoOWeJvwD0M=/fit-in/501x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838165-1405526380-4464.jpeg.jpg" data-tags="mpb, chillout, brasil, relaxing" role="button">
 Maria Gadú - Maria Gadú (2009-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">

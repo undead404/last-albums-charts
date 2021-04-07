@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:40:01.404Z
+date: 2021-04-07T08:10:01.457Z
 title: "j-pop: 100 albums you must listen to before you die"
 ---
 ![BABYMETAL - BABYMETAL (2014-02-26)](http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg "BABYMETAL - BABYMETAL (2014-02-26)")
@@ -13,7 +13,7 @@ title: "j-pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">Perfume - JPN (2011-11-30)</li>
 <li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
-<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
+<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="korean, k-rnb" role="button">
+Big Bang - Big Bang (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
 Dead Can Dance - Into the Labyrinth (1993-09-13)
@@ -65,6 +68,9 @@ Mr.Children - Mr.Children 1992-1995 (2001-07-11)
 </li>
 <li data-cover="https://img.discogs.com/n3wlcjlk3J46Foory-bhhzgdkb4=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-598832-1141312670.jpeg.jpg" data-tags="j-rock, j-pop, do as infinity" role="button">
 Do As Infinity - DEEP FOREST (2001-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/bbe29336-f4e2-3e18-a5f1-1d30f15b916e/9768589910-500.jpg" data-tags="japanese, dance, j-pop, qualified" role="button">
+Boa - LISTEN TO MY HEART (2002-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Power of the Dragonflame (2002-03-18)
@@ -165,9 +171,6 @@ Perfume - GAME (2008-04-16)
 <li data-cover="http://coverartarchive.org/release/eb484ca9-5dc7-44b2-af63-abc3ab19a8ec/14299138426-500.jpg" data-tags="rock, 00s, j-pop" role="button">
 相対性理論 - シフォン主義 (2008-05-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/85fced87-8d19-413d-bef1-a6e327399625/24985752759-500.jpg" data-tags="electronic, japanese, female vocalists, j-pop" role="button">
-Meg - STEP (2008-06-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/d0a5c315-1202-4d16-b0e1-f47c992f10dd/5230506491-500.jpg" data-tags="j-pop" role="button">
 Perfume - love the world (2008-07-09)
 </li>
@@ -207,7 +210,7 @@ Stereopony - Tsukiakari No Michishirube (2009-11-04)
 <li data-cover="http://coverartarchive.org/release/4a7922e0-b976-4d75-98a9-bb16585e7b8e/12665202859-500.jpg" data-tags="japanese, female vocalists, jpop, asian, band, anime, j-pop, female fronted, group, asian music, asian pop" role="button">
 fripSide - only my railgun (2009-11-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, jpop, asian, j-pop, x, asian music, asian pop" role="button">
+<li data-cover="https://img.discogs.com/eb8Dxtz7j4wZPSF-irTXSZCa5Po=/fit-in/560x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10358007-1495933318-6332.jpeg.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, x, asian music, asian pop" role="button">
 YUKI - うれしくって抱きあうよ (2010-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7eda74c-c971-4f1d-874d-22b8e96d316e/6311300074-500.jpg" data-tags="electronic, electropop, j-pop, japanese" role="button">
@@ -233,9 +236,6 @@ Boris - New Album (2011-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8516ca87-f9c4-3854-a727-6d328cf44837/4072227232-500.jpg" data-tags="j-pop" role="button">
 Supercell - Today Is A Beautiful Day (2011-03-16)
-</li>
-<li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
-Lady Gaga - Judas (2011-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2070e5-6bb0-44aa-a80e-2f855cbe4846/9313227759-500.jpg" data-tags="dance, queen, jpop, r&b, rnb, j-pop, must listen, badass, addicting, collab, j-urban, j-hiphop, j-rnb, queen of j-pop, j-r&b, random tags, um tesao de album" role="button">
 安室奈美恵 - Checkmate! (2011-04-27)
@@ -312,7 +312,7 @@ Lisa - LANDSPACE (2013-10-30)
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
-<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">

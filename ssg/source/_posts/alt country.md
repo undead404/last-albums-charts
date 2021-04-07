@@ -1,12 +1,12 @@
 ---
-date: 2021-04-06T17:30:01.544Z
+date: 2021-04-07T08:23:01.586Z
 title: "alt country: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">Wilco - Yankee Hotel Foxtrot (2002-04-22)</li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="https://img.discogs.com/5-3xRWkZEVMFuGiugonN3mHExrE=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178632-1472822902-4865.jpeg.jpg" data-tags="indie" role="button">Wilco - Sky Blue Sky (2007-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/9d3aa863-b420-4e4b-a8ea-0868c80fc60d/6438594786-500.jpg" data-tags="folk rock" role="button">Conor Oberst - Conor Oberst (2008-08-01)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/MMgwjU0LfiFrWZ0HWB8ThgyVF8c=/fit-in/599x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6751956-1425890707-6932.jpeg.jpg" data-tags="country rock" role="button">
+<li data-cover="https://img.discogs.com/u2dCLbA4lOz-HHMgpLi9vie8LGg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6288657-1479653428-1856.jpeg.jpg" data-tags="country rock" role="button">
 The Byrds - Sweetheart Of The Rodeo (1968-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0500c425-43b8-3913-bcb5-e4855a11263f/18741456192-500.jpg" data-tags="country, 60s, folk, singer-songwriter, contemporary folk, americana, folk rock" role="button">
@@ -38,6 +38,9 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="https://img.discogs.com/o6XbiSmf8w1DVqNx7HrRrzkaE0M=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083599-1265496412.jpeg.jpg" data-tags="70s" role="button">
 Townes Van Zandt - The Late Great Townes Van Zandt (1972)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bb6f0bd-e15d-4865-bfb4-b8f9bde7ef8d/4490601457-500.jpg" data-tags="singer-songwriter" role="button">
+John Prine - Bruised Orange (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b3e8c3e-5cdd-4e50-b448-fde6e05c72d3/4543193438-500.jpg" data-tags="alt country" role="button">
 Blue Rodeo - Outskirts (1987)
@@ -156,7 +159,7 @@ Ryan Adams - Rock N Roll (2003-11-03)
 <li data-cover="https://img.discogs.com/acRrkMBO_ENG4rqBEhl9zcUDMwk=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-247329-1392151527-9819.jpeg.jpg" data-tags="folk, singer-songwriter, americana, alt country, naked covers, the poets, the harrisburg family band, allmusicp, lorcas" role="button">
 Papa M - Hole of Burning Alms (2004-02-24)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -180,11 +183,8 @@ Micah P. Hinson - Micah P. Hinson and the Gospel of Progress (2004-09-06)
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, alt rock, independent, tracks, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
 Julie Doiron - Goodnight Nobody (2004-09-07)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
-</li>
-<li data-cover="https://img.discogs.com/Al4LRLb8bLBwQYpAgK8atsK1htk=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1231365-1282772334.jpeg.jpg" data-tags="cosmic american music" role="button">
-Clem Snide - End Of Love (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6d8c013-997d-4858-8d87-00f823b49771/19888930029-500.jpg" data-tags="singer-songwriter" role="button">
 Josh Rouse - Nashville (2005-02-22)

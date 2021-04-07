@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:04:01.458Z
+date: 2021-04-07T07:51:01.877Z
 title: "energetic: 100 albums you must listen to before you die"
 ---
 ![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
@@ -42,7 +42,7 @@ The Feelies - Crazy Rhythms (1980)
 <li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
 Billy Joel - An Innocent Man (1983-08-08)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="80s, r&b, post-disco" role="button">
+<li data-cover="https://img.discogs.com/33a620ae6425365d843d42ad7be3e508af29bee3/images/spacer.gif" data-tags="80s, r&b, post-disco" role="button">
 The Pointer Sisters - Break Out (1983-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
@@ -71,9 +71,6 @@ Café Tacvba - Re (1994-07-22)
 </li>
 <li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
 Slint - Slint (1994-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
-dEUS - Worst Case Scenario (1994-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
@@ -156,7 +153,7 @@ Hedley - Hedley (2005-09-06)
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
 The Presets - Beams (2005-09-12)
 </li>
-<li data-cover="https://img.discogs.com/HdqR2t5Zyrn-jtdZKeihRDft8JM=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4471963-1481024097-5978.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/ST9KW2ZxU6UQkbvAd0tmQkWjtsg=/fit-in/541x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8894620-1470968847-7555.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
@@ -167,6 +164,9 @@ Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
 <li data-cover="https://img.discogs.com/hnnXcLPzinbnvLsRHJbosNzQMH4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1109611-1192737492.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
 Good Shoes - Think Before You Speak (2007-03-26)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, punk, energetic, yeah!" role="button">
+Itchy Poopzkid - Time To Ignite (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/69f898f9-3fe4-4111-ad11-81fccf55df8e/5791775997-500.jpg" data-tags="country" role="button">
 Miranda Lambert - Crazy Ex-Girlfriend (2007-05-01)
@@ -179,9 +179,6 @@ Air Traffic - Fractured Life (2007-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/71789dd2-83ee-4fb2-9322-2de62eed46d9/9961780926-500.jpg" data-tags="alternative rock, energetic, brutal death metal, mario popping out of the green well in slow motion, the most frostbitten and grim music from the very very very very very very inverted mountains of kxziiiimfghhhblaghl, vypsana fixa" role="button">
-Vypsaná Fixa - Fenomén (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
 The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
@@ -206,6 +203,9 @@ Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
 <li data-cover="https://img.discogs.com/sFo4vk_MoEKeOQm7jpS0yXduJkQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2559659-1290440714.jpeg.jpg" data-tags="j-metal" role="button">
 D'espairsRay - REDEEMER (2009-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/efb52d7a-bbba-41d4-ba8c-0f18aba282ac/15777426357-500.jpg" data-tags="energetic" role="button">
+We Were Promised Jetpacks - Quiet Little Voices (2009-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
@@ -234,7 +234,7 @@ Anaïs Mitchell - Hadestown (2010-03-09)
 <li data-cover="http://coverartarchive.org/release/1d184464-0fbd-49df-806b-da31eaa5a8e1/11470352030-500.jpg" data-tags="pop, swedish, scandinavian, nordic, energetic, reflective, atmospheric, cheerful, reflection, fun, male vocalists, alternative pop, europe, sweden, playful, heartache, sweet, 2010s, light, summery, summertime, bright, refined, mannered, lively, in love, sparkling, new love, alternative singer-songwriter, alternative indie-rock" role="button">
 Salem Al Fakir - Ignore This (2010-03-10)
 </li>
-<li data-cover="https://img.discogs.com/EyE6WzAJ3yPxoqVHnWLdmmBbeyE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420330-1530364845-6925.jpeg.jpg" data-tags="lena" role="button">
+<li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
 Lena - Satellite (2010-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:01:01.301Z
+date: 2021-04-07T08:33:01.423Z
 title: "twee pop: 100 albums you must listen to before you die"
 ---
 ![Death Cab for Cutie - Transatlanticism (2003-09-01)](https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg "Death Cab for Cutie - Transatlanticism (2003-09-01)")
@@ -29,9 +29,6 @@ Beat Happening - Beat Happening (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f551ee0-80a8-4e4f-892c-ce07d8a06c4b/22193058372-500.jpg" data-tags="new wave" role="button">
 Strawberry Switchblade - Strawberry Switchblade (1985)
-</li>
-<li data-cover="https://img.discogs.com/dUxTPDSzYUNkgEeMx45zQU0LVqQ=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1217551-1318814588.jpeg.jpg" data-tags="indie, 80s" role="button">
-The Pastels - Up for a Bit With the Pastels (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/4769273c-e268-440f-bb39-62c68ed70b3a/14785304764-500.jpg" data-tags="jangle pop, 80s" role="button">
 Primal Scream - Sonic Flower Groove (1987-09)
@@ -87,7 +84,7 @@ Primal Scream - Give Out But Don't Give Up (1994-03-28)
 <li data-cover="https://img.discogs.com/h7ifBc83T42Jj_rKZ0Nbphfof98=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834477-1551139214-3585.jpeg.jpg" data-tags="indie" role="button">
 Built to Spill - There's Nothing Wrong With Love (1994-09-13)
 </li>
-<li data-cover="https://img.discogs.com/B7kQCiIjWvQ8F198ciyJFHVIRx8=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-440785-1241447773.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/3Ip2WpTvqgKioWh8kLgmTkD-11w=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202129-1358508446-4720.jpeg.jpg" data-tags="pop" role="button">
 The Cardigans - Life (1995-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/39ab6968-a6c3-4a3d-9ca2-4ad1fea17675/26982729534-500.jpg" data-tags="indie pop" role="button">
@@ -126,7 +123,10 @@ of Montreal - Cherry Peel (1997-08-19)
 <li data-cover="http://coverartarchive.org/release/0190c36e-313f-452b-b581-fea9a4da79a8/28727954164-500.jpg" data-tags="indie pop, twee pop, psychedelic pop" role="button">
 of Montreal - The Bedside Drama: A Petite Tragedy (1998)
 </li>
-<li data-cover="https://img.discogs.com/ae6fgG57RxvPru393_RBjaKwF5s=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2882421-1305567169.jpeg.jpg" data-tags="indie, pop, alternative, indie pop, twee pop, australian, 90s, anti-folk, fave-pop" role="button">
+<li data-cover="http://coverartarchive.org/release/1033ec8d-6c04-4c15-8ae3-8d4743b444e7/5270777621-500.jpg" data-tags="twee pop" role="button">
+The Field Mice - Where'd You Learn to Kiss That Way? (1998-10)
+</li>
+<li data-cover="https://img.discogs.com/i10_itcx2m8ZeP6yHPdhn4ZSGbA=/fit-in/316x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2295739-1275107482.jpeg.jpg" data-tags="indie, pop, alternative, indie pop, twee pop, australian, 90s, anti-folk, fave-pop" role="button">
 The Lucksmiths - Happy Secret (1999-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/eeab25ca-5a8e-4fc7-bb2f-2af24b562fe1/1269078836-500.jpg" data-tags="noise pop" role="button">
@@ -150,7 +150,7 @@ The Softies - Holiday in Rhode Island (2000-09-12)
 <li data-cover="https://img.discogs.com/iHqPds0uJ0E3Fu0x1Aa1ZHKQ7B4=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-390698-1290899693.jpeg.jpg" data-tags="folk" role="button">
 The Gentle Waves - Swansong for You (2000-11-06)
 </li>
-<li data-cover="https://img.discogs.com/_bAOaPjI0sEZdFe1Qf6lFlTTmiU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1272631-1478653765-8865.jpeg.jpg" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/AzTSdKYkzoaR0gzcasMHRRDwJuY=/fit-in/336x335/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1135623-1202783105.jpeg.jpg" data-tags="indie pop" role="button">
 of Montreal - Coquelicot Asleep in the Poppies: A Variety of Whimsical Verse (2001-04-23)
 </li>
 <li data-cover="https://img.discogs.com/waW8T2jsCoViVLbRXfoS6qFQQnw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1351645-1543660417-5834.jpeg.jpg" data-tags="indie pop" role="button">
@@ -177,7 +177,7 @@ The Lucksmiths - Naturaliste (2003-04-07)
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
 Death Cab for Cutie - Transatlanticism (2003-09-01)
 </li>
-<li data-cover="https://img.discogs.com/z2F_ObZ0LSebmm86jcmPLRoB5ms=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288829-1579426435-5567.jpeg.jpg" data-tags="indie, pop, rock, twee pop, american, 00s" role="button">
+<li data-cover="https://img.discogs.com/aPGrm8FMwYNye45XhQn9J6wikK0=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1037791-1455072039-3022.jpeg.jpg" data-tags="indie, pop, rock, twee pop, american, 00s" role="button">
 Beat Happening - Music to Climb the Apple Tree by (2003-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/132e4ef7-8abb-4e41-8019-6d9057f0a440/7941565478-500.jpg" data-tags="indie pop" role="button">
@@ -186,7 +186,7 @@ Camera Obscura - Underachievers Please Try Harder (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/256bbffa-7d0a-3665-8e5d-3eebc20568c4/5165604938-500.jpg" data-tags="00s, indie" role="button">
 The Magnetic Fields - i (2004-05-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ambient, indie pop, twee pop, electro indie, shelflife records, songs about you, hotel indie pop, essential 00s" role="button">
+<li data-cover="https://img.discogs.com/fhyTCCIxGejm2HV_oINkP0Huzuc=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-617894-1145368133.jpeg.jpg" data-tags="ambient, indie pop, twee pop, electro indie, shelflife records, songs about you, hotel indie pop, essential 00s" role="button">
 Language of Flowers - Songs About You (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a061a57a-9057-48cb-a24d-e32ba1ef680f/1503563272-500.jpg" data-tags="indie, swedish" role="button">
@@ -201,7 +201,7 @@ The Lucksmiths - Warmer Corners (2005-04)
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop, twee, twee pop" role="button">
+<li data-cover="https://img.discogs.com/ZDX916pETE67HT99H03-Xo7Rda4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1187515-1492970987-5411.jpeg.jpg" data-tags="indie pop, twee, twee pop" role="button">
 Tullycraft - Disenchanted Hearts Unite (2005-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/99ac3a0e-4f7b-455e-93c3-1149fe8a07b7/22384358517-500.jpg" data-tags="indie, swedish, indie pop" role="button">
@@ -243,13 +243,13 @@ Annemarie - ABC On Tv (2007-02-19)
 <li data-cover="http://coverartarchive.org/release/4bae6b93-7d34-4abe-984f-61487858e8fa/4890223091-500.jpg" data-tags="indie pop, indie" role="button">
 Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="neil halstead" role="button">
+<li data-cover="https://img.discogs.com/MoYw1-Zroc6QbgO1yCxaAHfQ6aI=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1527465-1591627074-8546.jpeg.jpg" data-tags="neil halstead" role="button">
 Neil Halstead - Oh! Mighty Engine (2008-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5947cab0-82b6-453d-8bbf-d2e73961b111/22836463836-500.jpg" data-tags="lo-fi" role="button">
 Vivian Girls - Vivian Girls (2008-09-30)
 </li>
-<li data-cover="https://img.discogs.com/-jXh1HefuQF_oHQqAM62FjOkEkw=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17056041-1611364067-9511.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/F9eHisPcHAbXQvvLRGignAeARys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13398283-1553445775-7647.png.jpg" data-tags="indie" role="button">
 Los Campesinos! - We Are Beautiful, We Are Doomed (2008-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0d872f8-73b8-4c29-adbe-7c2de1bd8c24/14299170322-500.jpg" data-tags="indie pop" role="button">
@@ -285,7 +285,7 @@ Zero 7 - Yeah Ghost (2009-09-28)
 <li data-cover="https://img.discogs.com/NeBBu5EEP2XGecymLXlAwoGnSSs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2297842-1490435079-4947.jpeg.jpg" data-tags="dream pop" role="button">
 Wild Nothing - Gemini (2010-05-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="twee pop" role="button">
+<li data-cover="https://img.discogs.com/9CUkaCyEzjAvHbheo-InfbexQI4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2643474-1294663360.jpeg.jpg" data-tags="twee pop" role="button">
 Math and Physics Club - I Shouldn't Look As Good As I Do (2010-06-08)
 </li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">

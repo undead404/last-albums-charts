@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T20:58:01.476Z
+date: 2021-04-07T07:55:01.455Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
@@ -123,9 +123,6 @@ The Datsuns - The Datsuns (2002-10-07)
 <li data-cover="https://img.discogs.com/68bZU-MoVIi9dtnu9-zdsCZT85o=/fit-in/500x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-763546-1423858208-4178.jpeg.jpg" data-tags="powerpop, pandapop, my cds" role="button">
 Bad Cash Quartet - Midnight Prayer (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a269305-3699-4bfb-8889-1482b99b9d50/10665995130-500.jpg" data-tags="indie rock, indie, indie pop, canadian, 00s" role="button">
-The New Pornographers - Electric Version (2003-04-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/3e5e8698-8ed5-4807-ba58-dc91e1685a37/17600926681-500.jpg" data-tags="barsuk" role="button">
 The Long Winters - When I Pretend to Fall (2003-05-06)
 </li>
@@ -189,7 +186,7 @@ The Pink Spiders - Teenage Graffiti (2006-08-01)
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
 </li>
-<li data-cover="https://img.discogs.com/GOBQZE2ox2Kt3bl4iBk0FbCVgiU=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895370-1506110433-6785.jpeg.jpg" data-tags="owl city" role="button">
+<li data-cover="https://img.discogs.com/IhkOjVuBBp-HgKmkttcE6lFar0E=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828553-1462793870-4809.jpeg.jpg" data-tags="owl city" role="button">
 Owl City - Of June (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/a890e9a6-90cf-4665-8928-2123f792355f/2960964314-500.jpg" data-tags="rock, pop punk" role="button">
@@ -284,6 +281,9 @@ The Cab - Symphony Soldier (2011-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c171039b-592b-4c0f-97df-00ddbaac2a1a/2453598306-500.jpg" data-tags="pop punk, all time low" role="button">
 All Time Low - Dirty Work (2011-06-06)
+</li>
+<li data-cover="https://img.discogs.com/pP-2oFfVL-GTa5vcsxrnR3snCSw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4120679-1481645597-3305.jpeg.jpg" data-tags="electronic" role="button">
+Owl City - All Things Bright and Beautiful (2011-06-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
 The Summer Set - Everything's Fine (2011-07-19)

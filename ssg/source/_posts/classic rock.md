@@ -1,10 +1,10 @@
 ---
-date: 2021-04-07T07:30:02.858Z
+date: 2021-04-07T08:45:01.653Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
-![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
+![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - Abbey Road (1969-09-26)</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - Abbey Road (1969-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/fe0aec30-6538-4ff6-98e1-2af99e93ac1f/7549818228-500.jpg" data-tags="classic rock, hard rock" role="button">Led Zeppelin - Led Zeppelin II (1969-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/b2ca3b22-f3cc-40c0-b2d3-f4e1d6602106/3010820345-500.jpg" data-tags="classic rock, 60s, rock" role="button">The Rolling Stones - Let It Bleed (1969-11-29)</li>
 <li data-cover="http://coverartarchive.org/release/98716612-b8fd-3334-9fb2-a17afdd17173/4980081478-500.jpg" data-tags="classic rock" role="button">Led Zeppelin - Led Zeppelin IV (1971-11-08)</li>
@@ -48,9 +48,6 @@ The Jimi Hendrix Experience - Are You Experienced (1967-05-12)
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">
 The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 </li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
-The Doors - The Doors (1967-09-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/64026228-12c3-4532-b220-4da206ce02bd/1920531008-500.jpg" data-tags="psychedelic rock" role="button">
 The Doors - Strange Days (1967-10)
 </li>
@@ -78,7 +75,7 @@ Blind Faith - Blind Faith (1969-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock" role="button">
 Fleetwood Mac - Greatest Hits (1969-08-15)
 </li>
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe0aec30-6538-4ff6-98e1-2af99e93ac1f/7549818228-500.jpg" data-tags="classic rock, hard rock" role="button">
@@ -102,7 +99,7 @@ Van Morrison - Moondance (1970-03)
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/E8_hYSNJ884KPcuu8irEGT1okFE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14915184-1584898066-7698.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">
@@ -213,6 +210,9 @@ Dire Straits - Dire Straits (1978-06-02)
 <li data-cover="http://coverartarchive.org/release/635239b4-986a-4cb7-90ba-bf213d5c9f78/11292551867-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 The Rolling Stones - Some Girls (1978-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
+Queen - Jazz (1978-11-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Supertramp - Breakfast In America (1979)
 </li>
@@ -224,9 +224,6 @@ Pink Floyd - The Wall (1979-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/afdd3554-a343-4139-b2bd-fb3e994465d8/1606570432-500.jpg" data-tags="classic rock" role="button">
 Deep Purple - Deepest Purple: The Very Best of Deep Purple (1980)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, the doors" role="button">
-The Doors - Greatest Hits (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
@@ -257,6 +254,9 @@ Queen - A Kind Of Magic (1986-06-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
+</li>
+<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
+The Doors - The Doors (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/03ffc721-3d27-4fb9-a394-c06da971ee5b/19269133764-500.jpg" data-tags="classic rock, journey, 80s" role="button">
 Journey - Greatest Hits (1988-11-15)
@@ -300,7 +300,7 @@ U2 - The Best of 1980-1990 (1998-10-28)
 <li data-cover="https://img.discogs.com/U8okCdE93Q8KnJ5rBtnugutb8JM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1198146-1211495932.jpeg.jpg" data-tags="u2, rock" role="button">
 U2 - All That You Can't Leave Behind (2000-10-30)
 </li>
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
 </li>
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T18:24:01.382Z
+date: 2021-04-07T08:12:01.392Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![David Bowie - Space Oddity (1969-11-04)](https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg "David Bowie - Space Oddity (1969-11-04)")
@@ -105,6 +105,9 @@ Queen - A Night at the Opera (1975-11-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">
 David Bowie - Station to Station (1976-01-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/9f6502ca-e8b0-4793-959f-05fe956be7ca/11444653105-500.jpg" data-tags="hard rock" role="button">
+Kiss - Destroyer (1976-03-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/0b305835-4b56-434d-9913-df94a72b2b8f/9111517208-500.jpg" data-tags="classic rock, rock" role="button">
 Queen - A Day at the Races (1976-12-10)
 </li>
@@ -117,7 +120,7 @@ Iggy Pop - Lust For Life (1977-08-29)
 <li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
 Queen - News Of The World (1977-10-28)
 </li>
-<li data-cover="https://img.discogs.com/VJznKEyd1gTUpZlI7NbNh9y7pp0=/fit-in/600x955/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2023042-1536961517-4857.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/-KfvCaGV1d1zql0plTQFXL89rXM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2091841-1263519075.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
 Japan - Adolescent Sex (1978-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
@@ -162,7 +165,7 @@ Cinderella - Night Songs (1986-06)
 <li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
 Queen - A Kind Of Magic (1986-06-02)
 </li>
-<li data-cover="https://img.discogs.com/tLxPzs6lDnBK-KVqGcFCDefuJGY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2953368-1316419473.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
 The Easybeats - Friday on My Mind (1987)
 </li>
 <li data-cover="https://img.discogs.com/JfDrrPTDdS04dLR1uOC9OPCZ0bk=/fit-in/550x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5773474-1402468848-3667.jpeg.jpg" data-tags="hard rock" role="button">
@@ -257,9 +260,6 @@ Goldfrapp - Supernature (2005-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
 Smash Mouth - All Star Smash Hits (2005-08-23)
-</li>
-<li data-cover="https://img.discogs.com/e84VeEkaHXl-_E6C82BkIGBSJFQ=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1566386-1228911964.jpeg.jpg" data-tags="emo, german, tokio hotel, rock" role="button">
-Tokio Hotel - Schrei (2005-09-19)
 </li>
 <li data-cover="https://img.discogs.com/jOyhah04yl7I6tXvQJI2x5PtcLM=/fit-in/599x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1042848-1187370726.jpeg.jpg" data-tags="classic rock, rock, 70s, glam rock, david bowie" role="button">
 David Bowie - The Best of David Bowie 1969-1974 (2005-11-07)
