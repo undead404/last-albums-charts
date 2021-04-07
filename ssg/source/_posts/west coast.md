@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:25:01.603Z
+date: 2021-04-07T01:09:06.963Z
 title: "west coast: 100 albums you must listen to before you die"
 ---
 ![N.W.A - Straight Outta Compton (1988-08-08)](http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg "N.W.A - Straight Outta Compton (1988-08-08)")
@@ -7,13 +7,13 @@ title: "west coast: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">N.W.A - Straight Outta Compton (1988-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
-<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
+<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/8253975733-500.jpg" data-tags="hip-hop, dance, 90s, r&b, west coast, disco rap, cds i own and have yet to hear" role="button">Montell Jordan - This Is How We Do It (1995-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
-<li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">Xzibit - Restless (2000-12-12)</li>
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">The Game - The Documentary (2005-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">The Game - Doctor's Advocate (2006-11-11)</li>
+<li data-cover="https://img.discogs.com/65gAr-CNEBu4g_XP0S9k4F2n4nU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2164995-1519571424-2576.jpeg.jpg" data-tags="west coast, cali love, tyga" role="button">Tyga - Cali Love (2009-06-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -72,9 +72,6 @@ Michael McDonald - If That's What It Takes (1982)
 <li data-cover="http://coverartarchive.org/release/9a74ab07-1c12-4e18-81b8-081aa77846d1/21124301312-500.jpg" data-tags="soft rock" role="button">
 America - View From The Ground (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/a95aaa99-1a53-3b92-9ee3-5629fe4e85d7/22374839448-500.jpg" data-tags="80s" role="button">
-Al Jarreau - Jarreau (1983)
-</li>
 <li data-cover="http://coverartarchive.org/release/d2d41107-a9a3-472a-9b71-c7747dfc0f0f/18091199979-500.jpg" data-tags="post-punk, sst" role="button">
 Minutemen - What Makes a Man Start Fires? (1983-01)
 </li>
@@ -83,6 +80,9 @@ Christopher Cross - Another Page (1983-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddca2d68-47e2-4235-9ecc-45f7348b20a3/13758489426-500.jpg" data-tags="80s, adult contemporary, songwriter, aor, composer, west coast, david foster, back in the day fav albums" role="button">
 David Foster - David Foster (1986)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2b03216-b818-3f51-a7ee-b3d1216782be/9857652612-500.jpg" data-tags="hip-hop, old school rap, west coast" role="button">
+King Tee - Act A Fool (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
@@ -102,16 +102,13 @@ Dr. Dre - The Chronic (1992-12-15)
 <li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Cypress Hill - Black Sunday (1993-07-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c7ed994-1cd9-4e66-b18c-dfed3a060bfa/7126091224-500.jpg" data-tags="hip-hop" role="button">
-Tha Alkaholiks - 21 & Over (1993-08-24)
-</li>
 <li data-cover="https://img.discogs.com/71BVgzlkkTwSUkE7yxsiUmslzg4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494721-1287126542.jpeg.jpg" data-tags="g-funk" role="button">
 Warren G - Regulate... G Funk Era (1994-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e096a04-ae16-3718-b363-49061f3205e8/20638601124-500.jpg" data-tags="gangsta rap" role="button">
 Bone Thugs-N-Harmony - Creepin on Ah Come Up (1994-06-21)
 </li>
-<li data-cover="https://img.discogs.com/TMpk8_XLwPzjjBfg53huJUgSA00=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2965130-1575049090-6209.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/8253975733-500.jpg" data-tags="hip-hop, dance, 90s, r&b, west coast, disco rap, cds i own and have yet to hear" role="button">
@@ -132,7 +129,7 @@ Ras Kass - Soul On Ice (1996-10-01)
 <li data-cover="http://coverartarchive.org/release/d430f330-88d7-4c1e-82c1-285ddc3d8a1f/8748613506-500.jpg" data-tags="soft rock" role="button">
 Ambrosia - Anthology (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/ac092222-68e8-41eb-a3a4-36814ce2b8ae/7933624830-500.jpg" data-tags="rnb, soul" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">
 Tony Toni Toné - Hits (1997)
 </li>
 <li data-cover="https://img.discogs.com/KBoTf37S049Z0zbN_IykyvcspA4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-243078-1418650190-3615.jpeg.jpg" data-tags="hip-hop, good albums" role="button">
@@ -144,7 +141,7 @@ Cypress Hill - IV (1998-10-06)
 <li data-cover="http://coverartarchive.org/release/01a98e51-cc5b-4244-9aec-6c3552d1e774/14285343454-500.jpg" data-tags="gangsta rap" role="button">
 Kurupt - Kuruption! (1998-10-06)
 </li>
-<li data-cover="https://img.discogs.com/er8VFrLJbfJGIdzycc7iLmWXs_Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1702214-1237940370.jpeg.jpg" data-tags="rap, 2pac" role="button">
+<li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
 </li>
 <li data-cover="https://img.discogs.com/d-uBladsenNPAjvHZNSIEerS_Es=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1803657-1492536484-5076.jpeg.jpg" data-tags="hip-hop, rap" role="button">
@@ -168,11 +165,11 @@ Xzibit - Restless (2000-12-12)
 <li data-cover="https://img.discogs.com/0BMHQvDhsMbK24jC_JDbAD79qGY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-135827-1306150689.jpeg.jpg" data-tags="ambient, usa, cafe del mar, american, california, west coast, psytrance, los angeles, elektronic beats, american artist, united states, from: usa, american brilliance, american indie, california artists, usa artists, california local, american dream, california dreaming, west coast underground, los angeles ca, west-coast, west coast chill, from california, usa underground, california sunshine, from: california, california usa, usa: california, american musician, los angeles music, los-angeles, california coast, flowmotion, location:us:ca:los angeles, los angeles underground" role="button">
 Electric Skychurch - Sonic Diary (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/835a431b-81d8-4440-8157-d3efa65a8a39/955224994-500.jpg" data-tags="2pac, rap" role="button">
+2Pac - Until The End Of Time (2001-03-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/d52ef610-7e21-4086-800e-fd70f4930604/22336071535-500.jpg" data-tags="west coast, excellent lyricism" role="button">
 Pep Love - Ascension (2001-07-24)
-</li>
-<li data-cover="https://img.discogs.com/Cky01Q9wxmJ8Rj6MIFiOze-XObY=/fit-in/467x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736572-1373878722-8763.jpeg.jpg" data-tags="usa, catchy, driving, american, west coast, american artist, artists who are lastfm users, elektro target, coma, climax, us indie, the music maker society, american bands, american brilliance, west coast sound, american indie, usa artists, us independent, autumn tapes, gling-gling, fondation, us-american, american dream, american singer, west coast underground, west-coast, antropological, atmospheres, usa music, west coast chill, us american, drivingfast, usa underground, bengt, chaotisch holistisch, american vocalists, cruto, amercian band, climat, from fh library 120617, adult swim bump" role="button">
-Blue Tofu - Blue Tofu (2001-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
@@ -252,7 +249,7 @@ Chelsea Wolfe - Mistake in Parting (2006-09-01)
 <li data-cover="http://coverartarchive.org/release/755cf4a4-fc6d-4a48-a90a-726778829fc2/3779477841-500.jpg" data-tags="electronic" role="button">
 DJ Shadow - The Outsider (2006-09-15)
 </li>
-<li data-cover="https://img.discogs.com/fYvnH9PdmGtTlbGyly9NW-Ulv_c=/fit-in/450x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-949737-1189947436.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
+<li data-cover="https://img.discogs.com/9YoeendwzP_Ar8nuyLvxeESzQU8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14414334-1574083367-6594.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
 Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
@@ -270,9 +267,6 @@ Karmacoda - Illuminate (2007-03)
 <li data-cover="https://img.discogs.com/X_v6eci03aCEsI3LId02Wh75ROU=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2486885-1286710607.jpeg.jpg" data-tags="reggae-punk-acoustic-awesome" role="button">
 Slightly Stoopid - Chronchitis (2007-08-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/c70c8b80-7d09-4825-a65f-0d7e51f04507/3281018006-500.jpg" data-tags="idm, glitch, glitch-hop" role="button">
-edIT - Certified Air Raid Material (2007-09-18)
-</li>
 <li data-cover="https://img.discogs.com/tO9IJ3ZHJWnM9yLlUa39YpmIFe8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3343555-1326631988.jpeg.jpg" data-tags="rap, hip-hop, hip hop, snoop dogg" role="button">
 Snoop Dogg - Ego Trippin' (2008-03-11)
 </li>
@@ -288,6 +282,9 @@ Bitter:Sweet - Drama (2008-06-03)
 <li data-cover="https://img.discogs.com/A-puL6JADoR33d8_7qVAAFfqiiI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1620739-1295005337.jpeg.jpg" data-tags="rap" role="button">
 The Game - LAX (2008-08-22)
 </li>
+<li data-cover="https://img.discogs.com/65gAr-CNEBu4g_XP0S9k4F2n4nU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2164995-1519571424-2576.jpeg.jpg" data-tags="west coast, cali love, tyga" role="button">
+Tyga - Cali Love (2009-06-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/4dad8c35-f344-49d4-ab35-bb3a72c997b1/16156237210-500.jpg" data-tags="hip-hop, hip hop, west coast, groovy, alternative hip-hop, jazz hop, independent hip-hop, puts, indie g-funk, golden era feel" role="button">
 People Under the Stairs - Carried Away (2009-10-13)
 </li>
@@ -300,7 +297,7 @@ Ice Cube - I Rep That West (2010-04-25)
 <li data-cover="https://img.discogs.com/5m9X-BuG9NQBvtyIuT_gl4zotkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15766318-1597407950-4490.jpeg.jpg" data-tags="post-hardcore" role="button">
 MASS OF THE FERMENTING DREGS - ゼロコンマ、色とりどりの世界 (2010-07-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, hip hop, rap, underground rap, underground hip-hop, psychedelic, dope, west coast, hardcore rap, hardcore hip-hop, my fav albums, the alchemist" role="button">
+<li data-cover="https://img.discogs.com/xiCIc8zw_-MOzFR0MasPOkUslDI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2570801-1509030330-4636.jpeg.jpg" data-tags="hip-hop, hip hop, rap, underground rap, underground hip-hop, psychedelic, dope, west coast, hardcore rap, hardcore hip-hop, my fav albums, the alchemist" role="button">
 Gangrene - Gutter Water (2010-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b2803d1-38e8-31c4-8818-a95f70ffb0c1/5519187566-500.jpg" data-tags="rap" role="button">
@@ -317,6 +314,9 @@ King Dude - Burning Daylight (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/5171e699-9128-4770-808b-2602187013d3/8189295650-500.jpg" data-tags="west coast" role="button">
+Vince Staples - Shyne Coldchain Vol. 2 (2014-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6ac1aa3-26ee-40b3-9d28-cc48ccad9df9/8989102364-500.jpg" data-tags="hip-hop, rap, west coast, 1990s, bad albums, horrible albums" role="button">
 Cypress Hill - The Essential Cypress Hill (2014-10-14)
