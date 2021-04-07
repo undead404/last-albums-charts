@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:09:01.384Z
+date: 2021-04-07T06:42:01.399Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![Beach House - Teen Dream (2010-01-16)](http://coverartarchive.org/release/44f67ad5-cdff-3036-80e9-bee67402ded0/8824312033-500.jpg "Beach House - Teen Dream (2010-01-16)")
@@ -102,7 +102,7 @@ Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
 Broadcast - Tender Buttons (2005-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
@@ -237,9 +237,6 @@ DIIV - Oshin (2012-01-30)
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/21fe0978-2169-4739-8170-e676deb84fff/3982008386-500.jpg" data-tags="indie, indie rock, dream pop" role="button">
-Frankie Rose - Interstellar (2012-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
 Chromatics - Kill for Love (2012-03-26)
 </li>
@@ -257,6 +254,9 @@ Wild Nothing - Nocturne (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd33b592-9208-49e5-b0dc-fec799689a5c/3325563092-500.jpg" data-tags="indie, electronic" role="button">
 The xx - Coexist (2012-09-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0b64ca6-5bc7-4ced-a6a0-7ca8563d36ea/2032948233-500.jpg" data-tags="indie rock" role="button">
+Grizzly Bear - Shields (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1ee5f60-0e3b-4a0d-8705-2113f12baf64/9115800193-500.jpg" data-tags="synthpop, indie pop" role="button">
 Ellie Goulding - Halcyon (2012-10-05)

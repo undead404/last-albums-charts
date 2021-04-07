@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:01:06.922Z
+date: 2021-04-07T06:34:01.415Z
 title: "hypnotic: 100 albums you must listen to before you die"
 ---
 ![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
@@ -7,8 +7,8 @@ title: "hypnotic: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/fFoc3CnP3PL9Vpv3wihBhmRg83Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584370-1217716047.jpeg.jpg" data-tags="shoegaze, ambient, dream pop" role="button">Slowdive - Pygmalion (1995-02-06)</li>
 <li data-cover="http://coverartarchive.org/release/dcb928fa-c187-4988-a2a4-bbd227165e15/2942354800-500.jpg" data-tags="electronic, electronica, trip-hop, indie rock, quirky, energetic, literate, confident, hypnotic, somber, complex, trippy, sophisticated, alternative dance, cerebral, playful, partying, sensual, imagination, soothing, stylish, boisterous" role="button">GusGus - Polydistortion (1997-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">Cat Power - Moon Pix (1998-09-22)</li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">Broadcast - Tender Buttons (2005-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">Paolo Nutini - These Streets (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">Chromatics - Kill for Love (2012-03-26)</li>
@@ -57,7 +57,10 @@ Sonic Youth - Dirty (1992-07-20)
 <li data-cover="https://img.discogs.com/Mk3Ff6v2TwuIv_NWEJNcvksKaE8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15619-1194241559.jpeg.jpg" data-tags="downtempo, ambient" role="button">
 Seefeel - Quique (1993)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/DkbzpYdrQvByTrzZdu5Xs4CMjVA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070004-1474234656-2103.jpeg.jpg" data-tags="hypnotic" role="button">
+108 - Holyname (1993-01-25)
+</li>
+<li data-cover="https://img.discogs.com/7MCsHa1bF0JNw2G-brCH9em5i7M=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82164-1164853284.jpeg.jpg" data-tags="post-rock" role="button">
 Bark Psychosis - Hex (1994-02-14)
 </li>
 <li data-cover="https://img.discogs.com/YgpHNzX8N5naVrHQJJN-Eo7SfKk=/fit-in/477x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8251321-1499979577-8542.png.jpg" data-tags="rap" role="button">
@@ -84,7 +87,7 @@ GusGus - Polydistortion (1997-04-01)
 <li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
 Broadcast - Work and Non Work (1997-06-09)
 </li>
-<li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="https://img.discogs.com/hjR-SntUXesfMsJl8QZ9hC2jUlM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3193896-1579926468-6100.jpeg.jpg" data-tags="dream pop" role="button">
@@ -123,22 +126,19 @@ The Other People Place - Lifestyles Of The Laptop Café (2001-09-03)
 <li data-cover="http://coverartarchive.org/release/00d3fb06-bb1c-4f92-b7b6-13b08afe7b89/12241150919-500.jpg" data-tags="indie rock, indie" role="button">
 Modest Mouse - Everywhere and His Nasty Parlour Tricks (2001-09-25)
 </li>
-<li data-cover="https://img.discogs.com/jc1EVi_PGkGAbW1ujR3qP9XriSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-529468-1303244495.jpeg.jpg" data-tags="female vocalists, folk, dream pop" role="button">
-Hope Sandoval & The Warm Inventions - Bavarian Fruit Bread (2001-11-05)
-</li>
 <li data-cover="https://img.discogs.com/S5DvNb7JaCGGp74F71sNGGlvlPY=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381684-1231534113.jpeg.jpg" data-tags="hypnotic, somber, when despondent, not streamable at all" role="button">
 Calla - Televise (2003-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
 Ben Harper - Diamonds On The Inside (2003-03-05)
 </li>
-<li data-cover="https://img.discogs.com/POmWbG1j-EST-oh5KGbgiuRPAIw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6000758-1408478765-1992.jpeg.jpg" data-tags="electronic, experimental, domino" role="button">
+<li data-cover="https://img.discogs.com/90XGHPelNMn_HV8ZXq0u7aQsRfc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4494422-1366489225-8638.jpeg.jpg" data-tags="electronic, experimental, domino" role="button">
 Caribou - Up in Flames (2003-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/4da446f6-d2c4-3c1d-bbd5-2827edd023a2/11858141676-500.jpg" data-tags="electronic, ambient" role="button">
 Ulrich Schnauss - A Strangely Isolated Place (2003-06-09)
 </li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
@@ -156,10 +156,10 @@ Lemon Jelly - '64-'95 (2005-01-31)
 <li data-cover="https://img.discogs.com/zgyOYjzQV34L8Y59OmN5rxKF5o0=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-610332-1243877892.jpeg.jpg" data-tags="playful, carefree, relaxed, lush, summertime" role="button">
 Saint Etienne - Tales from Turnpike House (2005-06-13)
 </li>
-<li data-cover="https://img.discogs.com/07m2E8SxQSIU6Yjk-ywreYIoorY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13590540-1557078423-1511.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
+<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
 Broadcast - Tender Buttons (2005-09-19)
 </li>
-<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/ST9KW2ZxU6UQkbvAd0tmQkWjtsg=/fit-in/541x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8894620-1470968847-7555.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="https://img.discogs.com/jHAwF2obSvLb60gyHjO5nELWdME=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125967-1265452903.jpeg.jpg" data-tags="new age, ambient, electronic, trip-hop, world fusion, chillout" role="button">
@@ -170,9 +170,6 @@ Sonic Youth - Rather Ripped (2006-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
 Paolo Nutini - These Streets (2006-07-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a014fc8-b030-491a-9dc1-e8cf74ace99c/4549690587-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
-Colour Haze - Tempel (2006-07-18)
 </li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
@@ -266,6 +263,9 @@ Atlas Sound - Parallax (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)
+</li>
+<li data-cover="https://img.discogs.com/3eXRYIwql3bqKRebawNgqXRnoFU=/fit-in/454x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7069252-1432995919-5786.jpeg.jpg" data-tags="soul" role="button">
+Bobby Womack - The Bravest Man in the Universe (2012)
 </li>
 <li data-cover="https://img.discogs.com/Qgq0-RXzpPn9DJTZtg1P23gUWlU=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782966-1510138621-5071.jpeg.jpg" data-tags="dance, pop" role="button">
 Madonna - Girl Gone Wild (2012-03-02)

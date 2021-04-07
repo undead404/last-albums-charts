@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T04:14:01.438Z
+date: 2021-04-07T06:38:01.476Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -26,6 +26,9 @@ Chet Baker - Chet Baker Sings (1954)
 </li>
 <li data-cover="http://coverartarchive.org/release/e29d9fea-4e28-412f-8b92-93b67bcd4f85/20439700773-500.jpg" data-tags="jazz" role="button">
 Sonny Rollins - Saxophone Colossus (1956)
+</li>
+<li data-cover="http://coverartarchive.org/release/fd6027d2-a42f-459f-8e8f-b2ff34611460/12686381881-500.jpg" data-tags="jazz" role="button">
+John Coltrane - Blue Train (1957)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4b6bef8-ce3b-4d62-99f6-e583c4a25eef/11743292141-500.jpg" data-tags="jazz" role="button">
 Thelonious Monk - Brilliant Corners (1957)
@@ -159,6 +162,9 @@ Radiohead - Amnesiac (2001-06-04)
 <li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
 Nicola Conte - Bossa Per Due (2001-06-12)
 </li>
+<li data-cover="https://img.discogs.com/paYx_YRn4JrtVTISRyAkv-BfyUg=/fit-in/573x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102400-1264402335.jpeg.jpg" data-tags="jazz" role="button">
+Diana Krall - The Look Of Love (2001-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/1ed0855b-ae5d-4eff-a10c-00b4e18d0b4b/22972644479-500.jpg" data-tags="swing" role="button">
 Robbie Williams - Swing When You're Winning (2001-11-19)
 </li>
@@ -179,12 +185,6 @@ Gabin - Gabin (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/77d01302-748f-4301-8c36-32a0f5c5ba51/6611958751-500.jpg" data-tags="jazz" role="button">
 Jamie Cullum - Pointless Nostalgic (2002-11-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Billie Holiday - All Of Me (2003)
-</li>
-<li data-cover="http://coverartarchive.org/release/e765db76-5025-3aad-8d7b-9c773f7092d3/24718719910-500.jpg" data-tags="jazz" role="button">
-Esbjörn Svensson Trio - Seven Days of Falling (2003)
 </li>
 <li data-cover="https://img.discogs.com/jXjGr0E0xoSAHMFgxlKNoa7ZHfQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2083211-1287229519.jpeg.jpg" data-tags="jazz" role="button">
 The Bad Plus - These Are The Vistas (2003-02-10)
@@ -227,6 +227,9 @@ Madeleine Peyroux - Careless Love (2004-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0a25ed6-4e4f-4e22-8036-6c9d756a3848/2844767728-500.jpg" data-tags="jazz, lounge" role="button">
 Pink Martini - Hang On Little Tomato (2004-10-19)
+</li>
+<li data-cover="https://img.discogs.com/8V0Ft3-NyBfaSy3EEx1S-lgFfIo=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-435188-1466527564-5711.jpeg.jpg" data-tags="jazz" role="button">
+Miles Davis - Milestones (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - It's Time (2005-02-08)
@@ -281,9 +284,6 @@ Cat Power - Jukebox (2008-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ca906ab-42c6-4742-946d-1f85da952504/2634411437-500.jpg" data-tags="jazz" role="button">
-Esperanza Spalding - Esperanza (2008-05-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)

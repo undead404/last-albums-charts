@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:45:01.706Z
+date: 2021-04-07T06:11:01.430Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -54,7 +54,7 @@ The Doors - The Doors (1967-09-11)
 <li data-cover="http://coverartarchive.org/release/64026228-12c3-4532-b220-4da206ce02bd/1920531008-500.jpg" data-tags="psychedelic rock" role="button">
 The Doors - Strange Days (1967-10)
 </li>
-<li data-cover="https://img.discogs.com/48VEXkrs6Ee4C_syqGcqckXbx3s=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1268501-1205101177.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/JsopqGSweccxL0U-dy5xFQ73d-Q=/fit-in/461x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4486102-1366259991-5187.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Disraeli Gears (1967-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
@@ -177,6 +177,9 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">
 Queen - A Night at the Opera (1975-11-21)
 </li>
+<li data-cover="https://img.discogs.com/bZPTxUo3Se8qc2Yp9QZ4soZzwv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2048758-1325277265.jpeg.jpg" data-tags="classic rock, 70s" role="button">
+Eagles - Hotel California (1976)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c1032af-2d86-424b-963e-dd9e65f7281b/1287531128-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Presence (1976-03-31)
 </li>
@@ -242,9 +245,6 @@ Kansas - The Best of Kansas (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/88263b6a-1785-48a7-9397-851edcaed134/17787327511-500.jpg" data-tags="rock" role="button">
 Bruce Springsteen - Born in the U.S.A. (1984-10)
-</li>
-<li data-cover="https://img.discogs.com/bZPTxUo3Se8qc2Yp9QZ4soZzwv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2048758-1325277265.jpeg.jpg" data-tags="classic rock, 70s" role="button">
-Eagles - Hotel California (1985)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, dire straits" role="button">
 Dire Straits - Brothers in Arms (1985-05-14)

@@ -1,12 +1,12 @@
 ---
-date: 2021-04-06T16:21:01.393Z
+date: 2021-04-07T06:29:01.444Z
 title: "alternative country: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">Cat Power - What Would the Community Think (1996-09-10)</li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">Iron & Wine - Our Endless Numbered Days (2004-03-23)</li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">She & Him - Volume One (2008-03-18)</li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">Calexico - Carried To Dust (2008-09-08)</li>
@@ -72,9 +72,6 @@ Smog - Red Apple Falls (1997-05-20)
 <li data-cover="https://img.discogs.com/DPXykrJLEsfWDftE5ewzKXttR0U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315068-1494720817-1257.jpeg.jpg" data-tags="americana, alt-country, whiskeytown" role="button">
 Whiskeytown - Strangers Almanac (1997-07-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/a043487d-1156-4e9f-84c7-83d01b558ca7/10719269746-500.jpg" data-tags="alternative rock, indie rock, alternative country, indie emo" role="button">
-Chamberlain - The Moon My Saddle (1998)
-</li>
 <li data-cover="http://coverartarchive.org/release/4848f868-0a64-4931-8936-61d192fe6046/27731729036-500.jpg" data-tags="americana" role="button">
 Patty Griffin - Flaming Red (1998-06-23)
 </li>
@@ -111,9 +108,6 @@ Slobberbone - Everything You Thought Was Right Was Wrong Today (2000-07-25)
 <li data-cover="http://coverartarchive.org/release/0e70135c-379b-474e-9d91-72abc1fab102/20161665425-500.jpg" data-tags="indie, alternative, singer-songwriter, rock, country, alternative rock, folk, indie pop, indie rock, acoustic, blues, guitar" role="button">
 Damien Jurado - Ghost of David (2000-09-19)
 </li>
-<li data-cover="https://img.discogs.com/FrQjmY_RoWppIkqJ37sMWHVH-Yg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1149763-1601993142-3334.jpeg.jpg" data-tags="pop, trip-pop" role="button">
-Over the Rhine - Films For Radio (2001-03-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/0c38b4ef-ad05-44e7-bcc6-8da8ad6f28df/7793162054-500.jpg" data-tags="indie" role="button">
 The National - The National (2001-07-03)
 </li>
@@ -144,16 +138,19 @@ The Be Good Tanyas - Chinatown (2003-03-11)
 <li data-cover="http://coverartarchive.org/release/b6f84cbc-afff-36c1-9eab-8da0633c7c6c/2255166850-500.jpg" data-tags="alt-country" role="button">
 Gillian Welch - Soul Journey (2003-06-03)
 </li>
+<li data-cover="https://img.discogs.com/ZYWQjCuLAhVv8Fe6_XvVbWYNLq8=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10977282-1507544844-5269.jpeg.jpg" data-tags="alternative country" role="button">
+Fink - Haiku Ambulanz (2003-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/92b5faa0-7407-4224-9614-fb4188f99b6a/4238720764-500.jpg" data-tags="indie, indie rock, murder by death" role="button">
 Murder By Death - Who Will Survive, and What Will Be Left of Them? (2003-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/699e3f52-791d-411a-b2bf-e791707baddd/12927131483-500.jpg" data-tags="alternative rock, rock" role="button">
 Counting Crows - Films About Ghosts: The Best of... (2003-11-24)
 </li>
-<li data-cover="https://img.discogs.com/JXaLMhJYJVL7tqQHgpYmv60fUqY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454482-1333877155.jpeg.jpg" data-tags="dudu, tarkan" role="button">
+<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -162,13 +159,16 @@ Iron & Wine - Our Endless Numbered Days (2004-03-23)
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
 Mirah - C'mon Miracle (2004-05-04)
 </li>
+<li data-cover="https://img.discogs.com/JKIPxmzulv9TpObyhmD5fs57GmA=/fit-in/504x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2384908-1456727285-9095.jpeg.jpg" data-tags="driving music, alternative country, driving with the windows down, driving at night, good cd, 170 ooo" role="button">
+Cowboy Junkies - One Soul Now (2004-05-31)
+</li>
 <li data-cover="https://img.discogs.com/iVvwkqtoSnUexSg2FgDy1yZGPC4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1453334-1243153042.jpeg.jpg" data-tags="indie, country, alternative, folk, indie pop, indie rock, sad, singer-songwriter, acoustic, blues, mellow, alt-country, melancholy, folk rock, slow, calm, lo-fi, americana, moody, songwriter, winter, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters" role="button">
 Little Wings - Magic Wand (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed28e2c-49ee-4b8d-859a-104cf4536389/27813782373-500.jpg" data-tags="indie, alternative, female vocalists, female, alternative rock, indie pop, indie rock, girls, female vocals, female vocalist, female artists, female vocal, female voices, female singers, pop, rock, indie-rock, indie-pop, folk, love song, female singer-songwriter, quiet voices, singer-songwriter, acoustic, guitar, songwriter, country, sad, slow, calm, sadcore, folk-rock, americana, blues, minimal, american, mellow, alt-country, melancholy, sleep, freak folk, soft, folk rock, new weird america, emotional, intimate, indie folk, singer songwriter, 00s, alt rock, independent, tracks, slow-coustic, alt, lyrics, singer songwriters, quiet music" role="button">
 Julie Doiron - Goodnight Nobody (2004-09-07)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="https://img.discogs.com/UO82ClUQ_4jxr8YO2pdiPuu5zvc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1007162-1183363008.jpeg.jpg" data-tags="indie, folk rock, alternative country, the devil and the deep blue sea, the merch grrls, teh typos" role="button">
@@ -176,6 +176,9 @@ Steel Train - Twilight Tales From The Prairies Of The Sun (2005-08-24)
 </li>
 <li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
+</li>
+<li data-cover="https://img.discogs.com/fxk4j1k-ofkUfAvw7C6r7Rc6J0c=/fit-in/425x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6247724-1414700393-9129.jpeg.jpg" data-tags="alternative country, memphis" role="button">
+Cory Branan - 12 Songs (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/62332a08-7f1f-40d5-bd69-8ffa8d01cb51/24839986890-500.jpg" data-tags="spaghetti western" role="button">
 Murder By Death - In Bocca Al Lupo (2006-05-23)
@@ -284,9 +287,6 @@ Madi Diaz - Plastic Moon (2012-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3071652-7ce3-4e87-b3a3-a04b65a02ff2/15440593140-500.jpg" data-tags="indie, folk, alternative country" role="button">
 M. Ward - A Wasteland Companion (2012-04-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d836a4d-cf59-47ef-a459-730ee2d221b1/8653695963-500.jpg" data-tags="country, dark, americana, doom, dark folk, alternative country, death country, gothic country, gothic americana, hellbilly, dark country, doom folk, god-damned country, cemetery western, alternative dark, doom country, horror country, country doom, outlaw doom country" role="button">
-Those Poor Bastards - Behold the Abyss (2012-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)

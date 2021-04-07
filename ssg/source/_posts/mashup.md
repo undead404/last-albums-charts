@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:39:01.407Z
+date: 2021-04-07T06:37:01.492Z
 title: "mashup: 100 albums you must listen to before you die"
 ---
 ![Girl Talk - Feed the Animals (2008-06-19)](http://coverartarchive.org/release/3754eba6-4b85-3586-9ddc-f8e8466d5819/2553358189-500.jpg "Girl Talk - Feed the Animals (2008-06-19)")
@@ -8,7 +8,7 @@ title: "mashup: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0c34b423-f28f-4f00-8e10-01aedde37fb0/3126512797-500.jpg" data-tags="mashup" role="button">Danger Mouse - The Grey Album (2004-02)</li>
 <li data-cover="http://coverartarchive.org/release/44fe85ee-f511-4c89-a156-3e9ed1ce1f5c/18646500835-500.jpg" data-tags="mashup" role="button">Girl Talk - Night Ripper (2006-05-08)</li>
 <li data-cover="http://coverartarchive.org/release/3754eba6-4b85-3586-9ddc-f8e8466d5819/2553358189-500.jpg" data-tags="mashup" role="button">Girl Talk - Feed the Animals (2008-06-19)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">椎名林檎 - 三文ゴシップ (2009-06-24)</li>
+<li data-cover="http://coverartarchive.org/release/4d19db8d-9a9f-4748-89e3-ef3b67854901/8667655941-500.jpg" data-tags="mashup" role="button">Team Teamwork - The Ocarina of Rhyme (2009-03-16)</li>
 <li data-cover="http://coverartarchive.org/release/7ad1171f-a1ef-49eb-bfff-f772a27a27b7/12945861593-500.jpg" data-tags="mashup" role="button">Girl Talk - All Day (2010-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">Zola Jesus - Conatus (2011-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)</li>
@@ -27,26 +27,11 @@ The Birthday Party - Mutiny (1983-11)
 <li data-cover="http://coverartarchive.org/release/48148a00-abee-387b-9784-1203490a1aad/16700970374-500.jpg" data-tags="ethereal, medieval" role="button">
 Dead Can Dance - Aion (1990-07-02)
 </li>
-<li data-cover="https://img.discogs.com/rmFizOowKwpeX1eprL1WLZZR8hc=/fit-in/600x888/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12331262-1533332807-5148.jpeg.jpg" data-tags="noise, trance, classic rock, metal, french, electropop, indie, pop, rockabilly, rock, 80s, british, alternative, hard, brutal, grindcore, hardcore, swedish, emo, folk, rap, grime, dubstep, electro, dance, c, australian, canada, queen, lalala, cheese, lo-fi, blue-eyed soul, new wave, dance-pop, americana, chamber pop, post-punk, adult contemporary, new age, techno, house, scottish, canadian, ska, 8-bit, new zealand, 90s, russian, sunday, jpop, mashup, argentina, dream pop, american, chiptune, g, eu, radio, cronica, spoken word, covers, k, aor, lazytown, bagpipes, hype, political, space rock, christian, christian rock, german, sarcasm, new weird america, geek, humour, glam rock, deep house, breakcore, youtube, frogs, nintendocore, greek, eurodance, gospel, kiwi, podcast, humor, anime, new jack swing, novelty, activist, pagan, doo-wop" role="button">
-Mark Heard - Satellite Sky (1992)
-</li>
-<li data-cover="https://img.discogs.com/0zKECKdV2QauWO3Y6LueuQAuGt0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-78844-1557839286-6805.jpeg.jpg" data-tags="electronic" role="button">
-Opus III - It's a Fine Day (1992-08-13)
-</li>
-<li data-cover="https://img.discogs.com/jLr3Xls75TXL5zQ5hs0PbWkkJLQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13114463-1549690048-3106.jpeg.jpg" data-tags="hipster, not experimental, cringeworthy, worst albums of 2017, hardcore, gg allin, rape, art pop" role="button">
-GG Allin - Aloha from Dallas (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ef275e7-74f2-48e0-bada-1f9419b98cce/27980960079-500.jpg" data-tags="pop, japanese, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy" role="button">
 カヒミ・カリィ - My First Karie (1995-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9f43aed-9bd2-4d0c-a32c-ed50e6773bf5/2990416041-500.jpg" data-tags="noise" role="button">
 Merzbow - Pulse Demon (1996-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/2bdb0d15-1c90-41de-b727-d6986527e809/20411661182-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice" role="button">
-カヒミ・カリィ - Larme De Crocodile (1997-03-25)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="anime, j-pop, anime music, arai akino" role="button">
-新居昭乃 - 空の森 (1997-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db42e94-f7dd-4dbf-b441-60503e558b87/6477181486-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, straight edge, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence, gangsta rap, lady gaga, punk rock, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex" role="button">
 カヒミ・カリィ - the best of trattoria years plus more (1998-09-30)
@@ -75,17 +60,11 @@ Dark Sanctuary - De Lumière et d'Obscurité (2000-11)
 <li data-cover="http://coverartarchive.org/release/65d470f6-40e9-476a-b4eb-84f90c09823d/1935734488-500.jpg" data-tags="heavy metal, parody" role="button">
 Beatallica - A Garage Dayz Nite (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/829bf613-eacb-4c9e-aae5-64e4f2fd0075/3618021827-500.jpg" data-tags="industrial, mashup, sound collage" role="button">
-Current 93 - The Great in the Small (2001-02-26)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
 宇多田ヒカル - Distance (2001-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e611d55-2152-4653-b59a-25c5958defc3/10619386465-500.jpg" data-tags="ethereal, medieval, darkwave, neoclassical darkwave, folk, experimental, avant-garde, celtic, classical, gothic, neofolk, indie, poetry, freak folk, indie folk, fantasy, heavenly voices, art pop" role="button">
-志方あきこ - 緑の森で眠ル鳥 (2001-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/f453f144-9f36-42c8-9fc3-d0d16710ab03/2579993340-500.jpg" data-tags="experimental, idm, mashup, gabber, good stuff, computer music, mixed media, rewind 2002" role="button">
 Kid606 - The Action Packed Mentallist Brings You the Fucking Jams (2002)
@@ -105,17 +84,20 @@ Locust Toybox - Dead Wasps (2003)
 <li data-cover="http://coverartarchive.org/release/b3d17c5e-db5c-45e7-94f3-05ad992be0ea/2086403244-500.jpg" data-tags="hip-hop, mashup" role="button">
 The Kleptones - Yoshimi Battles the Hip Hop Robots (2003-03)
 </li>
+<li data-cover="https://img.discogs.com/H66EvinqildWqIFOtN3fCnZnKJo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49824-1553253750-6396.jpeg.jpg" data-tags="mashup, adrien wayne" role="button">
+DJ Shadow - Mashin' on the Motorway (2003-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/7452c152-d926-4ab4-838a-ebe4dbe406f8/20002864986-500.jpg" data-tags="rock, japanese, japan, male vocalist, male vocalists, cornelius" role="button">
 Cornelius - CM2 (2003-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fea4ad95-3974-44e0-a0a4-01a682b51ae8/2588088231-500.jpg" data-tags="hip hop, laidcool" role="button">
 Girl Talk - Unstoppable (2003-12-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/4a1ef9e3-09d9-41e6-8ff3-e8bf26860ae8/2086393798-500.jpg" data-tags="mashup" role="button">
+The Kleptones - A Night at the Hip Hopera (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c34b423-f28f-4f00-8e10-01aedde37fb0/3126512797-500.jpg" data-tags="mashup" role="button">
 Danger Mouse - The Grey Album (2004-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/0bbd7276-b1b0-432a-a90a-379ea65012ef/10870391501-500.jpg" data-tags="breakcore, raggacore" role="button">
-Shitmat - Killababylonkutz (2004-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d9ac9c-9b99-46af-8679-9a005d4ba2a1/1935751672-500.jpg" data-tags="heavy metal" role="button">
 Beatallica - Beatallica (2004-04-01)
@@ -129,11 +111,11 @@ Sickboy - Shake Hands With a Clenched Fist (2004-08-28)
 <li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
 Narsilion - Nerbeleth (2004-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="mashup, mash-up, bastard pop, bootleg, beach boys, goran bregovic, bootlegsfr" role="button">
+ToToM - Bastard Pet Sounds (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/df29181a-c07b-48de-8fc4-779d2da2c2c8/1249835443-500.jpg" data-tags="trip-hop, mashup" role="button">
 Morcheeba - Get Mashed! (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/a31d15b3-fe32-445c-9640-675996c2cfaa/5210671358-500.jpg" data-tags="hip-hop" role="button">
-dj BC - Glassbreaks (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4a6ef09-5b44-47da-965f-fb36774d48ca/3651521402-500.jpg" data-tags="world, persian" role="button">
 Niyaz - Niyaz (2005-04-19)
@@ -168,8 +150,8 @@ Cornelius - Sensuous (2006-10-25)
 <li data-cover="http://coverartarchive.org/release/09c33b9b-97e0-41c0-b803-f943affc9d16/18916348247-500.jpg" data-tags="mashup, mash-up, bastard pop, bootleg, metallica, bootlegsfr" role="button">
 ToToM - Bootwards (2007)
 </li>
-<li data-cover="https://img.discogs.com/JCyHyFt9ZE_1AgBHgAAnanBs9d8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4997546-1381693252-9283.jpeg.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, melodic death metal, 90s, russian, jpop, mashup, post, drone, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast, recommended, satanic, humor, male vocalist, male vocalists, female vocalist" role="button">
-Nobuko Hori - xtoyourmilkyhair (2007)
+<li data-cover="https://img.discogs.com/eIjxAmK09b6varLn6yDuhSUpKzY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4275264-1360425062-7883.png.jpg" data-tags="mashup" role="button">
+Norwegian Recycling - So Far (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/16da2d74-f623-4998-ad72-f55ac2806189/3639868054-500.jpg" data-tags="metal, rock, mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 Wax Audio - Mashopolos (2007-04)
@@ -183,20 +165,20 @@ The Young Punx - Your Music Is Killing Me (2007-07-11)
 <li data-cover="http://coverartarchive.org/release/f94409eb-e6f4-4649-adcf-a8e2746fd985/2384784321-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Hexperos - The Garden of the Hesperides (2007-09-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, krautrock, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, reggaeton, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, folklore, nouvelle scene francaise, j-pop, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech" role="button">
-新居昭乃 - 金の波 千の波 (2008-01-23)
+<li data-cover="http://coverartarchive.org/release/9f092d2c-a4b5-4f96-a76e-b8ed900c290a/1310919293-500.jpg" data-tags="mashup" role="button">
+G3RSt - SQUARE (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="mashup" role="button">
 audiobytes for autobots - 2.0 (2008-05-17)
-</li>
-<li data-cover="https://img.discogs.com/NnUtQ0lWGn5r4POGF3XGyYRJdd0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2813704-1302198745.jpeg.jpg" data-tags="heavy metal, mashup, comedy" role="button">
-Beatallica - All You Need Is Blood (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/65a4550e-6a4a-47f2-a015-32cc6f1ee587/15833473274-500.jpg" data-tags="hip hop, electro, turntablism, mashup, plunderphonics, av2008, oldschoolson" role="button">
 Steinski - What Does It All Mean? - 1983-2006 Retrospective (2008-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3754eba6-4b85-3586-9ddc-f8e8466d5819/2553358189-500.jpg" data-tags="mashup" role="button">
 Girl Talk - Feed the Animals (2008-06-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b324f6d-72b9-497f-a222-b1657c689685/3840909019-500.jpg" data-tags="mashup" role="button">
+Norwegian Recycling - Appetite For Reconstruction (2008-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="medieval, ethereal, gothic, female vocalists, darkwave, heavenly voices, neoclassical darkwave, fantasy, neoclassical, classical crossover" role="button">
 志方あきこ - うみねこのなく頃に (2008-08-15)
@@ -207,14 +189,20 @@ sToa - Silmand (2008-09-26)
 <li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
 Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/16b17bd5-accf-4cb9-912d-be1378ae984d/2088057472-500.jpg" data-tags="mashup" role="button">
+A Plus D - Best of Bootie 2008 (2008-12-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/65fab700-7184-4a5e-95aa-0d9d81c99c8b/6303681284-500.jpg" data-tags="mashup" role="button">
+Super Mash Bros. - All About The Scrilions (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/21d4e6c1-666e-42d4-a42c-eb81769e1dae/13431240066-500.jpg" data-tags="alternate universe" role="button">
 The Beatles - Everyday Chemistry (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a57d413-bfc9-4e6a-b843-88d0040dfae8/25296122358-500.jpg" data-tags="ambient, female vocalists" role="button">
-Chelsea Wolfe - Tour 2009 (2009)
-</li>
 <li data-cover="http://coverartarchive.org/release/93921eed-8ffa-498f-a60e-1115e09f3bb3/2025422296-500.jpg" data-tags="darkwave, neoclassical, gothic, ethereal" role="button">
 Artesia - Llydaw (2009-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/4d19db8d-9a9f-4748-89e3-ef3b67854901/8667655941-500.jpg" data-tags="mashup" role="button">
+Team Teamwork - The Ocarina of Rhyme (2009-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/30a031ec-929d-4a90-9eeb-9a189a0c3525/6719972255-500.jpg" data-tags="ethereal, folk, experimental, medieval, new age, world fusion, world, avant-garde, classical crossover, neoclassical darkwave, darkwave" role="button">
 志方あきこ - Harmonia (2009-03-18)
@@ -228,17 +216,29 @@ Beatallica - Masterful Mystery Tour (2009-08-04)
 <li data-cover="http://coverartarchive.org/release/c391bb40-5be0-4308-824c-ba5159ad6d8e/17400181551-500.jpg" data-tags="rap, free, mashup" role="button">
 K.Flay - MASHed Potatoes (2009-09-16)
 </li>
-<li data-cover="https://img.discogs.com/CuRw1Haj_ugvAQY_LJoVLV4-070=/fit-in/350x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6061931-1410087166-7657.jpeg.jpg" data-tags="art pop, hipster, worst albums of 2017, islam, not experimental, cringeworthy, ambient, female vocalists, easy listening, stuff, disappointing, artpop, islamic, muhammad, jihad, unimaginative, misunderstood geniuses, uninteresting, bore, better than beyonce, poptron, letdown, better than rihanna, better than sevdaliza, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, brutal, grindcore, hardcore, revolution, swedish, emo, rap, dubstep, dance, dark, cheese, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, melodic death metal, 90s, russian, jpop, mashup, post, drone, african, radio, insane" role="button">
-Janaza - Burning Quran Ceremony (2010)
+<li data-cover="http://coverartarchive.org/release/38aece60-1b76-4108-827c-37ab67d87f61/3458438160-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
+A Plus D - Best of Bootie 2009 (2009-12-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/3bd7bcc1-fce1-48a4-95cf-b8d01ee4d015/5764862592-500.jpg" data-tags="mashup, party" role="button">
+The White Panda - Versus (2009-12-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fc09d3f-052c-449e-ba9c-c74bd46c0731/8640447599-500.jpg" data-tags="mashup, bastard pop" role="button">
 Kids & Explosions - Shit Computer (2010)
+</li>
+<li data-cover="http://coverartarchive.org/release/a26a9fd5-6750-4b21-8b72-0cae2e8e8f53/15664273245-500.jpg" data-tags="mashup" role="button">
+Norwegian Recycling - The Collage Dropout (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/110df975-7bf4-4604-973c-8e3a31bc0efb/10988665831-500.jpg" data-tags="gothic rock" role="button">
 Chelsea Wolfe - Ἀποκάλυψις (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3a4f52d-a657-4a14-82b8-bfad664532ee/5764867486-500.jpg" data-tags="dance, upbeat, mashup, party" role="button">
 The White Panda - Pandamonium (2010-03-01)
+</li>
+<li data-cover="https://img.discogs.com/6lfntveo34SQkNvhpW-kt4F-vZc=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2273050-1273703119.jpeg.jpg" data-tags="mashup, breaks, breakbeat, re-edits, nuskool breaks, re-edit, hijack, propellerheads, stanton warriors, blaze, elite force, 6blocc, bar9, calvertron, daniele papini, datsik, excision, hatiras, plump djs, redlight, roland clarke, tim green, toob, bassbin twins, dylan rhymes, harnessnoise, jelo, lee coombs, meat katie, popof, revamps, rogue element, wolfgang gartner" role="button">
+Elite Force - Revamped (2010-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/983d24ea-ff28-4312-b2c6-082df6b8080c/11253903127-500.jpg" data-tags="mashup, us rap, dirty laundry, dj prophet, speed freaks, theme park family reunion" role="button">
+Wait What - the notorious xx (2010-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b24905c-7ca0-4e41-9b9f-fa04223815a3/4827616583-500.jpg" data-tags="folk, jpop, ethereal, anime, gothic rock, classical, japanese, female vocalists, singer-songwriter, epic, world, medieval, poetry, indie folk, neofolk, celtic, world fusion, j-pop, heavenly voices, classical crossover, celtic new age, new weird japan, dream folk, wapanese" role="button">
 Cécile Corbel - Kari-gurashi (2010-04-07)
@@ -252,6 +252,12 @@ MASS OF THE FERMENTING DREGS - ゼロコンマ、色とりどりの世界 (2010-
 <li data-cover="http://coverartarchive.org/release/7ad1171f-a1ef-49eb-bfff-f772a27a27b7/12945861593-500.jpg" data-tags="mashup" role="button">
 Girl Talk - All Day (2010-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/aefac471-abb5-4496-8fd0-5be2a4296b76/5779039713-500.jpg" data-tags="mashup" role="button">
+Milkman - Algorithms (2011-01-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/b75e7dee-c8b5-466c-8771-29e37bda52fa/18626419728-500.jpg" data-tags="mashup" role="button">
+Titus Jones - Culture Shock (2011-02-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e517fea-8d7a-4056-a7c4-f32907f79943/5200892544-500.jpg" data-tags="j-pop" role="button">
 Boris - New Album (2011-03-16)
 </li>
@@ -262,10 +268,7 @@ Rimar - Higher Ground (2011-05-19)
 Wugazi - 13 Chambers (2011-07-13)
 </li>
 <li data-cover="https://img.discogs.com/kumjMG3rdnrfem9TbYL-3LQEudY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3101395-1315791467.jpeg.jpg" data-tags="electronic" role="button">
-The Twelves - The Twelves (2011-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/38c90ad7-1f91-4c8e-8481-ae19ab9a284e/1982400038-500.jpg" data-tags="experimental, rock, alternative" role="button">
-志方あきこ - 空蝉 (2011-08-24)
+The Twelves - The Twelves (2011-08-30)
 </li>
 <li data-cover="https://img.discogs.com/SgTwa_bSrVya6zHeo-lyvFKWFK4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7899678-1451242971-9320.jpeg.jpg" data-tags="experimental, mashup, mash-up" role="button">
 E-603 - SMOKESHOW (2011-09-05)
@@ -290,9 +293,6 @@ Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
-</li>
-<li data-cover="https://img.discogs.com/S933238wTEwcQf3vuT_tSoo54N4=/fit-in/259x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4723658-1373453491-6589.jpeg.jpg" data-tags="black metal, ambient, easy listening, stuff, artpop, misunderstood geniuses, better than beyonce, better than rihanna, better than sevdaliza, noise, trance, classic rock, heavy metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, grindcore, hardcore, revolution, swedish, emo, rap, female vocalists, dubstep, dance, dark, cheese, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, mashup, post, drone, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast, recommended, satanic" role="button">
-Seeds Of Iblis - Anti Quran Rituals (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb8c39c5-4589-4954-be83-fd5feddc757c/7152701973-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, skinhead, evanescence, gangsta rap, lady gaga, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, psychedelic rock, korean, k-pop, breakcore" role="button">
 Chelsea Wolfe - Prayer for the Unborn (2013-01-14)

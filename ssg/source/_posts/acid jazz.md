@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:57:01.476Z
+date: 2021-04-07T06:22:01.418Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -39,6 +39,9 @@ Miles Davis - Doo-Bop (1992-06-30)
 <li data-cover="https://img.discogs.com/_bk2fJjHu6Or6mJYitlFmuIqq0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12331082-1533071586-2843.jpeg.jpg" data-tags="acid jazz, funk" role="button">
 Incognito - Positivity (1993)
 </li>
+<li data-cover="https://img.discogs.com/TdhZsEMLLo_oUFs6eqlM3fsGLLU=/fit-in/540x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1654996-1234863030.jpeg.jpg" data-tags="acid jazz" role="button">
+Mother Earth - The People Tree (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/a5c2a5a1-0935-3513-812b-9435606cc3df/27024184480-500.jpg" data-tags="acid jazz, downtempo" role="button">
 United Future Organization - United Future Organization (1993)
 </li>
@@ -63,7 +66,7 @@ Brooklyn Funk Essentials - Cool And Steady And Easy (1994)
 <li data-cover="http://coverartarchive.org/release/0321d916-5799-4eaf-aabc-70fac210465e/4506378697-500.jpg" data-tags="downtempo" role="button">
 9 Lazy 9 - Paradise Blown (1994-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="downtempo, ninja tune, acid jazz" role="button">
+<li data-cover="https://img.discogs.com/ff_asNjwbK3bM96fQXYhOPoEdr8=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29668-1326623736.jpeg.jpg" data-tags="downtempo, ninja tune, acid jazz" role="button">
 9 Lazy 9 - Electric Lazyland (1994-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
@@ -153,10 +156,10 @@ Kinobe - Soundphiles (2000-07-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, trip-hop, downtempo" role="button">
 Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="my lounge room, uutta jazzia, my-love, alternative lounge, groove lounge, electronic lounge jazz, lounge electronic, chillounge1, lounge, smooth lounge, chillout downtempo, electrocool, jazz-trip, lounge chill, lounge-tech, smoothly sexy sounding, lounge uptempo, tropcool, chill chill, lounge at home tres, chillair, epic lounge, sexy sounding, acid lounge, serve chilled, downtempo influences, city lounge, acoustic groove, genre: downtempo, electropcool, awesome downtempo, genre:downtempo, jazzy flavoured, lounge downtempo, jazzy vibes, lounge at home two, sweet downtempo" role="button">
+<li data-cover="https://img.discogs.com/WgVD-LJvYcOoDE1EDQhNmNyf40s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-36181-1250629029.jpeg.jpg" data-tags="my lounge room, uutta jazzia, my-love, alternative lounge, groove lounge, electronic lounge jazz, lounge electronic, chillounge1, lounge, smooth lounge, chillout downtempo, electrocool, jazz-trip, lounge chill, lounge-tech, smoothly sexy sounding, lounge uptempo, tropcool, chill chill, lounge at home tres, chillair, epic lounge, sexy sounding, acid lounge, serve chilled, downtempo influences, city lounge, acoustic groove, genre: downtempo, electropcool, awesome downtempo, genre:downtempo, jazzy flavoured, lounge downtempo, jazzy vibes, lounge at home two, sweet downtempo" role="button">
 Minus 8 - Elysian Fields (2000-08-29)
 </li>
-<li data-cover="https://img.discogs.com/ZbrsdUmD4Y5chbo590OGGOHVNJs=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13642-1461602706-7157.jpeg.jpg" data-tags="trip-hop, chill" role="button">
+<li data-cover="https://img.discogs.com/XALG0EgKQagF0xc9UrTFbgGOw_I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8403-1251446906.png.jpg" data-tags="trip-hop, chill" role="button">
 Red Snapper - Our Aim is to Satisfy Red Snapper (2000-10-09)
 </li>
 <li data-cover="https://img.discogs.com/ap3TtTge2vW196L8s07BTzq1Z5Q=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14005338-1603823275-8934.jpeg.jpg" data-tags="electronic, nu-jazz" role="button">
@@ -171,7 +174,7 @@ Nicola Conte - Bossa Per Due (2001-06-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
 Jamiroquai - A Funk Odyssey (2001-08-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="downtempo, acid jazz, lounge" role="button">
+<li data-cover="https://img.discogs.com/vimi9T12OQEqoHKOFWUlrrcHpp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-25173-1474434757-8938.jpeg.jpg" data-tags="downtempo, acid jazz, lounge" role="button">
 Mo' Horizons - Remember Tomorrow (2001-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/41dc852a-36ab-4c92-a97c-6f864e526c66/4759377343-500.jpg" data-tags="chillout, electronic" role="button">
@@ -236,9 +239,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/69096593-df2f-41ed-9747-a2de98a388ba/4014995375-500.jpg" data-tags="downtempo, acid jazz, softjazz" role="button">
 Koop - Waltz for Koop: Alternative Takes (2003-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/ea91fb49-70e8-4b21-ab82-9b85e52bc236/5349865375-500.jpg" data-tags="tru thoughts, acid jazz" role="button">
-The Limp Twins - Tales From Beyond The Groove (2003-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/456b5bed-4c96-4903-a0bb-1f25d9560b0b/10339586003-500.jpg" data-tags="ninja tune, acid jazz, jazz, nu jazz" role="button">
 Skalpel - Skalpel (2004-03)

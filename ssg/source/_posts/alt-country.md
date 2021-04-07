@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:18:01.521Z
+date: 2021-04-07T06:45:01.769Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -24,10 +24,10 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://img.discogs.com/XsiIb9On1QdSQzK6fNywYRLAtaE=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2699158-1500832417-2727.jpeg.jpg" data-tags="soft rock, alt-country, misc, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
+<li data-cover="https://img.discogs.com/fm0k6aNrzFgihi0ZGcYBenG9RUE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8582403-1464512613-5495.jpeg.jpg" data-tags="soft rock, alt-country, misc, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
 </li>
-<li data-cover="https://img.discogs.com/suq3IxcjtFIdegVNCFooUaJu26w=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597651-1369585841-4715.jpeg.jpg" data-tags="alt-country" role="button">
+<li data-cover="https://img.discogs.com/sdgzbYQzbuCAIiU0I61rPrZWhKc=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3869014-1352510156-5134.jpeg.jpg" data-tags="alt-country" role="button">
 Steve Earle - Guitar Town (1986-03-05)
 </li>
 <li data-cover="https://img.discogs.com/Leqx3yU5iZllLDbrJPL3OcEFjQ4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878669-1548227195-2232.jpeg.jpg" data-tags="alt-country, country rock" role="button">
@@ -147,9 +147,6 @@ Beck - Sea Change (2002-09-21)
 <li data-cover="http://coverartarchive.org/release/d15bdbc1-11ac-3c28-8619-c445ffbe390a/2986614652-500.jpg" data-tags="alt-country, 2000s" role="button">
 Ryan Adams - Demolition (2002-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/67ad4896-9942-4db8-947f-811fe7cafd99/23881737845-500.jpg" data-tags="indie rock" role="button">
-Rilo Kiley - The Execution of All Things (2002-10-01)
-</li>
 <li data-cover="https://img.discogs.com/ke5mv5j3Qr9m9GEBBC-a_zc-UYw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994709-1561738115-2240.jpeg.jpg" data-tags="alt-country, rock" role="button">
 Ryan Adams - Love Is Hell (2003)
 </li>
@@ -168,7 +165,7 @@ The Handsome Family - Singing Bones (2003-10-06)
 <li data-cover="http://coverartarchive.org/release/1a400f03-445e-4510-a9d3-04aa625f3209/6253846025-500.jpg" data-tags="bluegrass" role="button">
 Old Crow Medicine Show - O.C.M.S. (2004-02-24)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -186,7 +183,7 @@ Wilco - A Ghost is Born (2004-06-21)
 <li data-cover="http://coverartarchive.org/release/48239f74-e24f-4e0b-a4e6-019c266ec905/15448138762-500.jpg" data-tags="alt-country, southern rock" role="button">
 Drive-By Truckers - The Dirty South (2004-08-24)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/97d5185a-0762-41b4-b7d4-59d72fcf0afe/14002995629-500.jpg" data-tags="indie, alt-country" role="button">
@@ -245,6 +242,9 @@ The Avett Brothers - Emotionalism (2007-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/bda6aac6-046b-485d-9ad6-644466157152/13142114048-500.jpg" data-tags="singer-songwriter" role="button">
 Ryan Adams - Easy Tiger (2007-06-25)
+</li>
+<li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
+Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a471459a-0f9e-4a2f-9525-4179ba3baf36/2012803900-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Josh Ritter - The Historical Conquests Of Josh Ritter (2007-08-21)
