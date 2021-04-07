@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:19:01.380Z
+date: 2021-04-07T04:17:01.385Z
 title: "haunting: 100 albums you must listen to before you die"
 ---
 ![The Antlers - Hospice (2009-03-03)](https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg "The Antlers - Hospice (2009-03-03)")
@@ -7,7 +7,7 @@ title: "haunting: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/VheYISXt_58od4eKphk3Dpi-pWA=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69857-1505864447-6375.jpeg.jpg" data-tags="post-rock" role="button">Sigur Rós - ( ) (2002-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/82ea1d21-2a81-408d-8645-b822ff061314/13200772331-500.jpg" data-tags="electrotasty" role="button">Casiotone for the Painfully Alone - Etiquette (2006-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">PJ Harvey - White Chalk (2007-09-19)</li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
+<li data-cover="https://img.discogs.com/MzZG6cMrhBfOTkA7_fHYJur4-Fc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666348-1235572725.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
 <li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">Chairlift - Does You Inspire You (2008-09-30)</li>
 <li data-cover="https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg" data-tags="indie, haunting" role="button">The Antlers - Hospice (2009-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">Bat for Lashes - Two Suns (2009-04-03)</li>
@@ -35,6 +35,9 @@ Popol Vuh - Aguirre (1975)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="haunting, vangelis" role="button">
 Vangelis - Ignacio (1975)
+</li>
+<li data-cover="http://coverartarchive.org/release/89daddd1-15aa-373e-8998-03ddb16092b4/8714236235-500.jpg" data-tags="funk, jazz fusion" role="button">
+Herbie Hancock - Man-Child (1975)
 </li>
 <li data-cover="https://img.discogs.com/jZzommZBP9LrWLeHhKFlZpNyM_E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5847955-1404373402-5216.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
 The Birthday Party - Mutiny (1983-11)
@@ -71,9 +74,6 @@ Poe - Hello (1995-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
 Tori Amos - Boys for Pele (1996-01-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/ceab4f42-e973-470d-bc83-12ca82166581/2705249174-500.jpg" data-tags="progressive rock, psychedelic, space rock" role="button">
-Ozric Tentacles - Curious Corn (1997-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/72b14bd8-05f8-4cd3-8510-b2f637a14693/8137290813-500.jpg" data-tags="pop, alternative, ambient, haunting, magical, kitty5" role="button">
 Vacuum - Seance at the Chaebol (1998)
@@ -135,7 +135,7 @@ Björk - Homogenic Live (2003-08-18)
 <li data-cover="http://coverartarchive.org/release/c13efc9c-999e-4fa2-9454-bcabae807400/10901282813-500.jpg" data-tags="electronic, idm" role="button">
 Chris Clark - Empty the Bones of You (2003-08-23)
 </li>
-<li data-cover="https://img.discogs.com/njhX4CxlR4wQAO65EeAyPbE0gFM=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2151466-1266791302.jpeg.jpg" data-tags="romantic, haunting, nostalgic, dramatic, j-rock, visual kei, batcave music, vampy goodness" role="button">
+<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="romantic, haunting, nostalgic, dramatic, j-rock, visual kei, batcave music, vampy goodness" role="button">
 D - Paradox (2004-01-07)
 </li>
 <li data-cover="https://img.discogs.com/YJb6_IwqUpEEuvv-XIZOJRj-AN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12961274-1545393598-6983.jpeg.jpg" data-tags="icelandic" role="button">
@@ -228,7 +228,7 @@ A Fine Frenzy - Almost Lover (2008-01-11)
 <li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">
 Frightened Rabbit - The Midnight Organ Fight (2008-04-14)
 </li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
+<li data-cover="https://img.discogs.com/MzZG6cMrhBfOTkA7_fHYJur4-Fc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666348-1235572725.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
 The Walkmen - You & Me (2008-07-29)
 </li>
 <li data-cover="https://img.discogs.com/d1Kc5ERjj5VBx565udj7xzolbDY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1833214-1246491274.jpeg.jpg" data-tags="electronic, trip-hop, british, dance, haunting" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T00:07:01.417Z
+date: 2021-04-07T04:39:01.383Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -68,6 +68,9 @@ Bob Marley & The Wailers - Kaya (1978-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8615d2a7-45e6-4a3c-9520-58f6ffd4054b/2012570147-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Survival (1979-10-02)
+</li>
+<li data-cover="https://img.discogs.com/bfmuDOi-MheZ4zJ1gnJEmsVnDYQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-882360-1377803841-7476.jpeg.jpg" data-tags="reggae" role="button">
+Black Uhuru - Sinsemilla (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/5930d9d3-a056-44eb-b90c-83692b58dbad/16612832348-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Uprising (1980-06-10)
@@ -165,6 +168,9 @@ Manu Chao - Radio Bemba Sound System (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/8c10b3ec-a0ff-4819-a6e9-9287c48e5a85/15542855333-500.jpg" data-tags="dancehall" role="button">
 Sean Paul - Dutty Rock (2002-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/4d8267e8-538e-45ce-9869-ab3141de7d9a/2002597102-500.jpg" data-tags="reggae" role="button">
+Soldiers of Jah Army - Peace In A Time Of War (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/7017554d-4cd6-465d-b28b-095e8ba49015/5961350059-500.jpg" data-tags="reggae" role="button">
 5'nizza - Пятница (2003)
 </li>
@@ -235,9 +241,6 @@ Seeed - Next! (2005-10-14)
 State Radio - Us Against The Crown (2005-12-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
-Perfect - Giddimani (2006)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Matisyahu - Youth (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/088f9e29-f5d3-43b6-a84d-d856e8e3b0f7/1238523640-500.jpg" data-tags="reggae, modern reggae" role="button">
@@ -248,9 +251,6 @@ Rihanna - A Girl Like Me (2006-04-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Ziggy Marley - Love Is My Religion (2006-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)

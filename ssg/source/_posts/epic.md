@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T12:26:01.725Z
+date: 2021-04-07T04:37:01.439Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -129,9 +129,6 @@ Minus the Bear - Planet of Ice (2007-08-21)
 <li data-cover="http://coverartarchive.org/release/e1ca8464-3477-4568-b4e3-88aaa08b38d1/15533985949-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - Colors (2007-09-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="epic, bounce, cheerful" role="button">
-BUCK-TICK - Tenshi no Revolver (2007-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/fccab1be-d6b2-4eca-a4ff-513bd01f0d47/2819936375-500.jpg" data-tags="electronic, twilight" role="button">
 Blue Foundation - Life of a Ghost (2007-09-24)
 </li>
@@ -143,6 +140,9 @@ Muse - HAARP (2008-03-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="epic, modern hardcore" role="button">
 The Carrier - No Love Can Save Me (2008-06-17)
+</li>
+<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
+Versailles - NOBLE (2008-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:59:01.591Z
+date: 2021-04-07T03:53:01.385Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -10,10 +10,10 @@ title: "female: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">Brandi Carlile - The Story (2007-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">Sia - Some People Have Real Problems (2008-01-08)</li>
-<li data-cover="http://coverartarchive.org/release/362e4026-4c4c-44ed-80ad-c2adf4b1f439/4102931199-500.jpg" data-tags="female, soul, alternative, indie rock, kurt, c, song, girls, g, nu soul, k, plop, sex, numbers, buy, j, hot, book, genesis, second, lost, porn, monday, e, woman, misc, rac, pee pee, vagina, media, abc, breasts, sounds, ladies, tits, first, proverbs, i, tag, sentences, o, everything, kings, thursday, bananas" role="button">HAIM - Don't Save Me (2012-11-13)</li>
+<li data-cover="http://coverartarchive.org/release/362e4026-4c4c-44ed-80ad-c2adf4b1f439/4102931199-500.jpg" data-tags="female, soul, alternative, indie rock, kurt, c, song, girls, g, nu soul, k, plop, sex, numbers, buy, j, hot, book, genesis, second, lost, porn, monday, e, woman, misc, rac, pee pee, vagina, media, abc, breasts, sounds, ladies, tits, first, proverbs, i, tag, sentences, o, kings, thursday, bananas" role="button">HAIM - Don't Save Me (2012-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">HAIM - Days Are Gone (2013-08-05)</li>
-<li data-cover="http://coverartarchive.org/release/347d9365-927d-4404-a0d7-65e4916e464e/11438983255-500.jpg" data-tags="female, c, girls, g, k, sex, guilty pleasure, buy, j, lovely, lost, porn, e, misc, pee pee, music, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend, bats, beef" role="button">Selena Gomez - The Heart Wants What It Wants (2014-01-01)</li>
-<li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, c, girls, g, k, sex, guilty pleasure, buy, j, lovely, electro rock, greatest hits, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend" role="button">Selena Gomez - For You (2014-11-24)</li>
+<li data-cover="http://coverartarchive.org/release/347d9365-927d-4404-a0d7-65e4916e464e/11438983255-500.jpg" data-tags="female, c, girls, g, k, sex, buy, j, lovely, lost, porn, e, misc, pee pee, music, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, bananas, x, pork, moses, girlfriend, bats, beef" role="button">Selena Gomez - The Heart Wants What It Wants (2014-01-01)</li>
+<li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, c, girls, g, k, sex, buy, j, lovely, electro rock, greatest hits, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, bananas, x, pork, moses, girlfriend" role="button">Selena Gomez - For You (2014-11-24)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -54,9 +54,6 @@ Sarah McLachlan - Fumbling Towards Ecstasy (1993-10-22)
 <li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
 Jewel - Pieces of You (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bce126e-92a6-3e36-8777-baa8f2c296d3/8615407273-500.jpg" data-tags="folk" role="button">
-Tracy Chapman - New Beginning (1995-11-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/16b92612-7634-4053-8464-b1b0e18847f2/5641031475-500.jpg" data-tags="female" role="button">
 Dar Williams - Mortal City (1996)
 </li>
@@ -81,7 +78,7 @@ Cat Power - Moon Pix (1998-09-22)
 <li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">
 Dido - No Angel (1999-06-01)
 </li>
-<li data-cover="https://img.discogs.com/jdJpN9LA8-y01w0Bax1bwif7p8k=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448783-1296330202.jpeg.jpg" data-tags="singer-songwriter, pop" role="button">
+<li data-cover="https://img.discogs.com/XZU-fmyZ470Ms5OfL1QcHEkKQXA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813042-1390580200-4980.jpeg.jpg" data-tags="singer-songwriter, pop" role="button">
 Melanie C - Northern Star (1999-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/01a242ca-e319-3cf4-b3d4-97116e465f61/8716711551-500.jpg" data-tags="pop, latin, spanish, female vocalists, rock en espanol" role="button">
@@ -195,8 +192,11 @@ Róisín Murphy - Overpowered (2007-05)
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc1bc121-6078-4413-954e-c394c2df0e6b/7997586808-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, guilty pleasure, buy, j, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, nuggets, bananas, x, meat" role="button">
+<li data-cover="http://coverartarchive.org/release/cc1bc121-6078-4413-954e-c394c2df0e6b/7997586808-500.jpg" data-tags="female, alternative, c, girls, g, k, sex, buy, j, book, lovely, genesis, second, lost, porn, e, misc, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, nuggets, bananas, x, meat" role="button">
 Robyn - With Every Heartbeat (2007-08-06)
+</li>
+<li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
+Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/114af478-2f11-4832-8db2-f52b04ec90e1/6440753475-500.jpg" data-tags="french" role="button">
 Yelle - Pop Up (2007-09-03)
@@ -282,7 +282,7 @@ Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/362e4026-4c4c-44ed-80ad-c2adf4b1f439/4102931199-500.jpg" data-tags="female, soul, alternative, indie rock, kurt, c, song, girls, g, nu soul, k, plop, sex, numbers, buy, j, hot, book, genesis, second, lost, porn, monday, e, woman, misc, rac, pee pee, vagina, media, abc, breasts, sounds, ladies, tits, first, proverbs, i, tag, sentences, o, everything, kings, thursday, bananas" role="button">
+<li data-cover="http://coverartarchive.org/release/362e4026-4c4c-44ed-80ad-c2adf4b1f439/4102931199-500.jpg" data-tags="female, soul, alternative, indie rock, kurt, c, song, girls, g, nu soul, k, plop, sex, numbers, buy, j, hot, book, genesis, second, lost, porn, monday, e, woman, misc, rac, pee pee, vagina, media, abc, breasts, sounds, ladies, tits, first, proverbs, i, tag, sentences, o, kings, thursday, bananas" role="button">
 HAIM - Don't Save Me (2012-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">
@@ -306,7 +306,7 @@ HAIM - Days Are Gone (2013-08-05)
 <li data-cover="http://coverartarchive.org/release/90e8a7b0-c5db-4c69-9414-382ffd198cf3/11258587448-500.jpg" data-tags="indie, british, folk" role="button">
 Birdy - Fire Within (2013-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/347d9365-927d-4404-a0d7-65e4916e464e/11438983255-500.jpg" data-tags="female, c, girls, g, k, sex, guilty pleasure, buy, j, lovely, lost, porn, e, misc, pee pee, music, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend, bats, beef" role="button">
+<li data-cover="http://coverartarchive.org/release/347d9365-927d-4404-a0d7-65e4916e464e/11438983255-500.jpg" data-tags="female, c, girls, g, k, sex, buy, j, lovely, lost, porn, e, misc, pee pee, music, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, bananas, x, pork, moses, girlfriend, bats, beef" role="button">
 Selena Gomez - The Heart Wants What It Wants (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/02df846f-fb15-4fbb-ae10-379f5fce8ab7/10519596419-500.jpg" data-tags="indie, female, alternative, folk, female vocalists, singer-songwriter, fantastic, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, hot, pleasant, lovely, visual, women, lost, woman, misc, girl, pleasing, babe, ladies, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, melt, feminine, grady, zap, partial, dick, improper, xian, moist, specific, extremities, tingle, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction" role="button">
@@ -318,7 +318,7 @@ Kina Grannis - Elements (2014-05-06)
 <li data-cover="http://coverartarchive.org/release/d8ee3fb5-e02f-4459-a26f-e4301beb32f1/8796970047-500.jpg" data-tags="pop, ariana grande" role="button">
 Ariana Grande - Break Free (2014-07-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, c, girls, g, k, sex, guilty pleasure, buy, j, lovely, electro rock, greatest hits, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, everything, thursday, bananas, x, pork, moses, girlfriend" role="button">
+<li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, c, girls, g, k, sex, buy, j, lovely, electro rock, greatest hits, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, bananas, x, pork, moses, girlfriend" role="button">
 Selena Gomez - For You (2014-11-24)
 </li>
 </ol>

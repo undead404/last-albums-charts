@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:06:01.710Z
+date: 2021-04-07T04:25:01.407Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Gary Jules - Trading Snakeoil For Wolftickets (2001)](https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg "Gary Jules - Trading Snakeoil For Wolftickets (2001)")
@@ -138,6 +138,9 @@ Gary Jules - Trading Snakeoil For Wolftickets (2001)
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/bf1ee4a6-dc3a-451a-b7a6-8c3294a86879/5757136506-500.jpg" data-tags="indie rock" role="button">
+Arcade Fire - Arcade Fire (2003-06-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b8c60f11-28fb-45f5-8ba2-39514a237b0c/2077182623-500.jpg" data-tags="folk rock, folk" role="button">
 Blackmore's Night - Ghost Of A Rose (2003-06-23)
 </li>
@@ -224,9 +227,6 @@ Mumford & Sons - Sigh No More (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/65fabf97-67bf-4f88-84a0-b8ef0a4de144/19588262528-500.jpg" data-tags="folk rock" role="button">
 Isbells - Isbells (2009-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
-Devendra Banhart - What Will We Be (2009-10-26)
 </li>
 <li data-cover="https://img.discogs.com/Npwa0T0tKvmO7Q-4p78l4ELoTZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2832647-1303069251.jpeg.jpg" data-tags="folk" role="button">
 The Head and the Heart - The Head and The Heart (2010-06-29)

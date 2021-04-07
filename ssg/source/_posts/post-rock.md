@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:05:01.532Z
+date: 2021-04-07T04:43:01.428Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -30,7 +30,7 @@ Slint - Spiderland (1991-03-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 Talk Talk - Laughing Stock (1991-09-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/7MCsHa1bF0JNw2G-brCH9em5i7M=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-82164-1164853284.jpeg.jpg" data-tags="post-rock" role="button">
 Bark Psychosis - Hex (1994-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/19d89c34-6a91-4e7a-8d8a-499159e781cf/4483481718-500.jpg" data-tags="post-rock" role="button">
@@ -210,9 +210,6 @@ The Middle East - The Recordings Of The Middle East (2008)
 <li data-cover="http://coverartarchive.org/release/d0625be2-7d18-4ed8-a121-352ba282bd78/3370136741-500.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - This Will Destroy You (2008-01-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
-Have a Nice Life - Deathconsciousness (2008-02-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/af17e2e2-6b02-44b8-a848-67c7f66f6803/17517986245-500.jpg" data-tags="drone, instrumental, post-rock" role="button">
 Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
@@ -254,6 +251,9 @@ Grizzly Bear - Veckatimest (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">
+toe - For Long Tomorrow (2009-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ead5b02-bfb8-4a8e-87c5-80b1552eddeb/27862273102-500.jpg" data-tags="post-rock" role="button">
 pg.lost - In Never Out (2009-12-11)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:38:01.407Z
+date: 2021-04-07T03:55:01.390Z
 title: "male vocalist: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -45,7 +45,7 @@ Barry White - Can't Get Enough (1974-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, folk, male vocalist, male vocalists, folk italiana, italiana, cantautore, italian folk, folk italiano, voci maschili, maschi, maschio, italie, occhi a cuoricino, voce maschile, syon" role="button">
 Fabrizio De André - Rimini (1978-03-31)
 </li>
-<li data-cover="https://img.discogs.com/OdiHvBufHAARtB6ahGnW1fBmzOY=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5611639-1505342928-7647.jpeg.jpg" data-tags="80s, r&b" role="button">
+<li data-cover="https://img.discogs.com/YPLQD-CynAe73GqKTL0PzjUsc2A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4562732-1468908853-1729.jpeg.jpg" data-tags="80s, r&b" role="button">
 Luther Vandross - Never Too Much (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6aef477-83a9-42a1-81da-36ddd6d9eb8e/21763670163-500.jpg" data-tags="rock, glam rock" role="button">
@@ -59,9 +59,6 @@ Violent Femmes - Why Do Birds Sing? (1991-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e2ed461-01f5-4692-bb7d-697b4f779775/15467186123-500.jpg" data-tags="alternative, 90s" role="button">
 Toad The Wet Sprocket - fear (1991-08-27)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial rock" role="button">
-Gravity Kills - Gravity Kills (1996-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
@@ -90,7 +87,7 @@ Chumbawamba - Tubthumper (1997-08-25)
 <li data-cover="http://coverartarchive.org/release/77a57b42-30b3-3041-9131-bca62a66e810/1908272625-500.jpg" data-tags="rnb" role="button">
 Usher - My Way (1997-09-16)
 </li>
-<li data-cover="https://img.discogs.com/MMKbuWiQeouBrrG6twFmah5nYfQ=/fit-in/583x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1794722-1243801223.jpeg.jpg" data-tags="pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/fsO1glgMLpCyRJmLWdYvOlo7CdI=/fit-in/469x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642531-1341895905-5211.jpeg.jpg" data-tags="pop, 90s" role="button">
 Lighthouse Family - Postcards From Heaven (1997-10-01)
 </li>
 <li data-cover="https://img.discogs.com/jiab4TmxjfMcS4vliwEkau4c54Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849404-1303850858.jpeg.jpg" data-tags="pop, british, rap, power pop, dance, 90s, male vocalist, bubblegum, boy band, uk number one, 5ive 5ive" role="button">
@@ -144,9 +141,6 @@ Goo Goo Dolls - Gutterflower (2002-04-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
 </li>
-<li data-cover="https://img.discogs.com/sg8nKQdVkribFIiM_lHOpzFHJ8E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662708-1437943239-7963.jpeg.jpg" data-tags="tiziano ferro, italian, italian pop" role="button">
-Tiziano Ferro - Rosso relativo (2002-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
 </li>
@@ -159,7 +153,10 @@ Leonard Cohen - The Essential Leonard Cohen (2002-10-22)
 <li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">
 Tribalistas - Tribalistas (2002-12-17)
 </li>
-<li data-cover="https://img.discogs.com/diGbGZYc8Jx8H8Mn74hewU1L3Wk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14061549-1567093969-7229.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
+<li data-cover="http://coverartarchive.org/release/2bdb07db-395f-40f3-b6a1-fa65a4f3ecc8/21696347482-500.jpg" data-tags="modern country, contemporary country" role="button">
+Chris Cagle - Chris Cagle (2003-04-01)
+</li>
+<li data-cover="https://img.discogs.com/4l4NZLiV6BM8CEuBhMq03iJ8lQA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11465506-1556128548-9936.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
 Redbone - The Essential Redbone (2003-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4c27547-665e-4992-8825-a2d3fbc362bb/5679081350-500.jpg" data-tags="alternative rock" role="button">
@@ -189,9 +186,6 @@ Jesse McCartney - Beautiful Soul (2004-08-12)
 <li data-cover="https://img.discogs.com/NIY9TBUlMY9tSMb3_RCah2bgdYU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4482921-1366142975-2236.jpeg.jpg" data-tags="00s" role="button">
 Ryan Cabrera - Take It All Away (2004-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/02836c6d-9de4-4183-91ac-cb12ef36aeba/21476872343-500.jpg" data-tags="british, pop, blue" role="button">
-Blue - Best of Blue (2004-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Mos Def - The New Danger (2004-10-12)
 </li>
@@ -210,6 +204,9 @@ Patrick Wolf - Wind in the Wires (2005-06-13)
 <li data-cover="http://coverartarchive.org/release/cb2bd2f4-33c1-3659-b7ab-20f475ec6814/10281446683-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - Brett Dennen (2005-07-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/4dec3817-f24f-4679-affd-9151761f59c2/6895436559-500.jpg" data-tags="country" role="button">
+Jason Aldean - Jason Aldean (2005-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/dcfbad33-5669-3801-8e7b-b2ad0e956a27/16076587767-500.jpg" data-tags="punk rock, pop punk, live" role="button">
 Simple Plan - MTV Hard Rock Live (2005-10-04)
 </li>
@@ -222,8 +219,8 @@ Goo Goo Dolls - Let Love In (2006-04-24)
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
-<li data-cover="https://img.discogs.com/ufb38_kbj772fQ-hSCZ9BGG1S7Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3790033-1344603975-8232.jpeg.jpg" data-tags="pop rock, nam" role="button">
-Jesse McCartney - Right Where You Want Me (2006-09-09)
+<li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
+Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
 Amos Lee - Supply And Demand (2006-10-03)
@@ -258,7 +255,7 @@ Toto - Toto (2008-03-17)
 <li data-cover="http://coverartarchive.org/release/e6454561-2af7-460b-9b8c-d482b7c8a49d/15751521122-500.jpg" data-tags="pop, pop rock, male vocalists" role="button">
 Gavin DeGraw - Gavin DeGraw (2008-05-06)
 </li>
-<li data-cover="https://img.discogs.com/OUmJv0COymM1h5yzdU2bhX5korQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263064-1204673409.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/uN485-X0IYVORSFOlEjM7nq0D7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1476472-1465036567-3372.jpeg.jpg" data-tags="pop" role="button">
 The Feeling - Join With Us (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c48ecde-bde3-4a26-9d55-edfd21555f62/9823776819-500.jpg" data-tags="alternative, 00s" role="button">
@@ -273,7 +270,7 @@ Fink - Sort of Revolution (2009-03)
 <li data-cover="http://coverartarchive.org/release/9d00a87c-549c-47a3-92b4-0887db284ffb/24925640647-500.jpg" data-tags="rock, singer-songwriter" role="button">
 Gavin DeGraw - Free (2009-03-26)
 </li>
-<li data-cover="https://img.discogs.com/uZvunHIDXRSMP74mWH0W3ung_YI=/fit-in/526x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4392947-1363689348-1163.jpeg.jpg" data-tags="singer-songwriter, pop" role="button">
+<li data-cover="https://img.discogs.com/m-NLGlpPMBOX3HMITSRthkvwalQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2415161-1282858749.jpeg.jpg" data-tags="singer-songwriter, pop" role="button">
 Milow - Milow (2009-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
@@ -300,6 +297,9 @@ She & Him - Volume Two (2010-03-17)
 <li data-cover="http://coverartarchive.org/release/03f665cb-5466-4a91-920d-4250a9534ad5/28094274353-500.jpg" data-tags="alternative rock" role="button">
 Travie McCoy - Lazarus (2010-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b041e25-e0e9-480d-8f65-b7ac56ecf3d4/14666618913-500.jpg" data-tags="country" role="button">
+Lee Brice - Love Like Crazy (2010-06-08)
+</li>
 <li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)
 </li>
@@ -309,11 +309,11 @@ Amos Lee - Mission Bell (2011-01-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/0b826444-d72d-42b3-b61d-ce116f57a7fe/6567572038-500.jpg" data-tags="pop, pop rock, 10s, alternative" role="button">
-Gavin DeGraw - Sweeter (2011-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/e76439c6-6402-4f51-b761-c921c98caf3b/21660235707-500.jpg" data-tags="pop" role="button">
 Phillip Phillips - The World from the Side of the Moon (2011-11-19)
+</li>
+<li data-cover="https://img.discogs.com/nRKU_Ho5jJvAi-SOxUeJoE52aZg=/fit-in/380x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4113031-1355665098-4478.jpeg.jpg" data-tags="singer-songwriter, male vocalist" role="button">
+Willy Mason - Carry On (2012-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb21b18b-a4d0-4990-89ed-2727a0bef2d7/5572801637-500.jpg" data-tags="pop rock" role="button">
 James Blunt - Moon Landing (2013-10-18)
