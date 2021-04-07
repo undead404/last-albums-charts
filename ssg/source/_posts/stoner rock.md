@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T02:25:01.409Z
+date: 2021-04-07T21:28:01.409Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -78,7 +78,7 @@ Earth - Pentastar: In the Style of Demons (1996-07-23)
 <li data-cover="http://coverartarchive.org/release/4512ec2a-f833-4be5-85d3-b2007639bcef/5651025580-500.jpg" data-tags="sludge" role="button">
 Acid Bath - Paegan Terrorism Tactics (1996-11-12)
 </li>
-<li data-cover="https://img.discogs.com/falbNQpWOuV7QBr8kHijrnU6r_s=/fit-in/588x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1446997-1360193584-3644.jpeg.jpg" data-tags="stoner rock" role="button">
+<li data-cover="https://img.discogs.com/rJpTOV41tq7lrMVIeLHViPqCu3s=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492838-1518627886-2386.jpeg.jpg" data-tags="stoner rock" role="button">
 Fu Manchu - The Action Is Go (1997)
 </li>
 <li data-cover="https://img.discogs.com/ICFmioSxaMVyU9TswczADVZ0O94=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1181813-1255973996.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
@@ -216,6 +216,9 @@ Melvins - A Senile Animal (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/d578ccb4-dff9-4ecb-8c74-f161ddb7d722/9184150508-500.jpg" data-tags="stoner rock" role="button">
 Clutch - From Beale Street to Oblivion (2007-04-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/d017c662-5260-4165-96e2-20ec764c83e7/4605462658-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
+Earthless - Rhythms From a Cosmic Sky (2007-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/c0669f4f-b490-49b7-b4cd-40f9a4d84438/3257047799-500.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Era Vulgaris (2007-06-08)
 </li>
@@ -317,8 +320,5 @@ King Gizzard & The Lizard Wizard - Float Along - Fill Your Lungs (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dddeade-8f37-4413-8d3c-2db25e0e2e36/5478722467-500.jpg" data-tags="stoner rock" role="button">
 Earthless - From the Ages (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/30683b1f-e4df-46f7-a170-2de84a5f13bf/8137779784-500.jpg" data-tags="rock" role="button">
-Royal Blood - Royal Blood (2014-08-22)
 </li>
 </ol>

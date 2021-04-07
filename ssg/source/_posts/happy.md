@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:40:01.383Z
+date: 2021-04-07T21:43:06.978Z
 title: "happy: 100 albums you must listen to before you die"
 ---
 ![Little Joy - Little Joy (2008-11-03)](http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg "Little Joy - Little Joy (2008-11-03)")
@@ -12,7 +12,7 @@ title: "happy: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="https://img.discogs.com/IKYwr9L9ZoxLmVAvJk4Myb1_G_Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8105976-1553876160-6124.jpeg.jpg" data-tags="pop, mika" role="button">Mika - The Boy Who Knew Too Much (2009-09-16)</li>
-<li data-cover="https://img.discogs.com/2IIK8qOIU4JM6j4oSC2Fhkfej9s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-856907-1186603009.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)</li>
+<li data-cover="https://img.discogs.com/BkThKkDDr2gMbndYN8uMBxQF83g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12795746-1542108268-8754.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">Icona Pop - I Love It (2012-05-09)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+The Easybeats - Friday on My Mind (1966)
+</li>
 <li data-cover="http://coverartarchive.org/release/2f15114e-4bb6-4741-8b24-fbe8cfcbdf9b/10124261890-500.jpg" data-tags="soul, motown, stevie wonder" role="button">
 Stevie Wonder - For Once in My Life (1968)
 </li>
@@ -44,9 +47,6 @@ Penguin Cafe Orchestra - Broadcasting From Home (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
-</li>
-<li data-cover="https://img.discogs.com/tLxPzs6lDnBK-KVqGcFCDefuJGY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2953368-1316419473.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
-The Easybeats - Friday on My Mind (1987)
 </li>
 <li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
 Bobby McFerrin - Simple Pleasures (1988-08-22)
@@ -132,7 +132,7 @@ of Montreal - Satanic Panic in the Attic (2004-03-24)
 <li data-cover="http://coverartarchive.org/release/250bd2dc-a9e8-4c50-9b3d-7863a0efc6d2/3457679280-500.jpg" data-tags="indie" role="button">
 The Weepies - Happiness (2004-06-08)
 </li>
-<li data-cover="https://img.discogs.com/lzFMmF4o_1CHcawzh0Dh-ZrGlJA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775719-1504126297-9436.jpeg.jpg" data-tags="symphonic pop, alternative, rock" role="button">
+<li data-cover="https://img.discogs.com/E6pbmZw0hjcDDEWK-4cnh59Z1ME=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-768369-1156795800.jpeg.jpg" data-tags="symphonic pop, alternative, rock" role="button">
 The Polyphonic Spree - Together We're Heavy (2004-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4d25605-3b43-4fe3-90e6-3b3a492b2421/11156278391-500.jpg" data-tags="twee, happy, chamber music, cheerful, gentle, playful, sweet, 2000s, summery, bright, lively, effervescent, sparkling, innocent, laid-back/ mellow, my goodies, bobjebus16 owns this, indie i own" role="button">
@@ -150,7 +150,7 @@ Skye Sweetnam - Noise from the Basement (2004-09-21)
 <li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
 Shania Twain - Greatest Hits (2004-11-08)
 </li>
-<li data-cover="https://img.discogs.com/z3T_-5SwKJv3viffyvZ7sS1oidI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-606587-1360608770-4502.jpeg.jpg" data-tags="hellogoodbye" role="button">
+<li data-cover="https://img.discogs.com/pNR1hiO9ZdWhZQGmORuEPqoA0HA=/fit-in/517x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5795018-1402866097-4535.jpeg.jpg" data-tags="hellogoodbye" role="button">
 Hellogoodbye - Hellogoodbye (2004-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/920a21ae-5b89-4797-9a5a-5a2cf6666076/6306595448-500.jpg" data-tags="brasil, brazilian, ouvir com calma" role="button">
@@ -165,7 +165,7 @@ Aqualung - Strange and Beautiful (2005-03-22)
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
 </li>
-<li data-cover="https://img.discogs.com/zglsbKAcHiIS-ejfAIagUpjrYMo=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-660171-1499753855-2263.jpeg.jpg" data-tags="rock, indie" role="button">
+<li data-cover="https://img.discogs.com/g9qt8MUvGiB3uZ-jXKg8y_n_sjI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513587-1288765062.jpeg.jpg" data-tags="rock, indie" role="button">
 The Hold Steady - Separation Sunday (2005-05-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop, indie, 00s" role="button">
@@ -282,7 +282,7 @@ Tensnake - Coma Cat (2010-01-25)
 <li data-cover="http://coverartarchive.org/release/593a917a-9f7e-46ea-bf2f-10a6f34fadb4/13513416639-500.jpg" data-tags="indie rock" role="button">
 Fang Island - Fang Island (2010-02-23)
 </li>
-<li data-cover="https://img.discogs.com/2IIK8qOIU4JM6j4oSC2Fhkfej9s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-856907-1186603009.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
+<li data-cover="https://img.discogs.com/BkThKkDDr2gMbndYN8uMBxQF83g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12795746-1542108268-8754.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
 Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)
 </li>
 <li data-cover="https://img.discogs.com/lnbpDTN0xZ_UFcLRkuJzqvdVGN8=/fit-in/270x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067295-1262075607.png.jpg" data-tags="my gang 11" role="button">
@@ -309,13 +309,13 @@ The Ting Tings - Sounds From Nowheresville (2012-02-24)
 <li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
 Icona Pop - I Love It (2012-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6d36ec5-4353-40e1-bfcc-973e6598ce10/23685209531-500.jpg" data-tags="pop, happy, romantic, energetic, club, cheerful, gentle, elegant, fun, sophisticated, playful, relaxation, sweet, sensual, delicate, light, dance party, abba, celebratory, sentimental, exuberant, joyous, stylish, plaintive, naive, housework, sparkling, innocent, euro-pop, am pop, sugary, gleeful, giddy, scandinavian pop" role="button">
+<li data-cover="http://coverartarchive.org/release/d6d36ec5-4353-40e1-bfcc-973e6598ce10/23685209531-500.jpg" data-tags="pop, happy, romantic, energetic, club, cheerful, gentle, elegant, sophisticated, playful, relaxation, sweet, sensual, delicate, light, dance party, abba, celebratory, sentimental, exuberant, joyous, stylish, plaintive, naive, housework, sparkling, innocent, euro-pop, am pop, sugary, gleeful, giddy, scandinavian pop" role="button">
 ABBA - The Essential Collection (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3662da7-dd97-481e-bc61-3d046cccc51b/7638922855-500.jpg" data-tags="piano" role="button">
 The Piano Guys - The Piano Guys (2012-10-02)
 </li>
-<li data-cover="https://img.discogs.com/67xYbCt6yRMFLBcXo0P4avWGYB0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858926-1377700074-7633.jpeg.jpg" data-tags="indie pop, happy, soft rock, literate, cheerful, irreverent, earnest, earthy, fun, sophisticated, pastoral, warm, playful, sweet, imagination, witty, exuberant, tender, campy, carefree, refined, stylish, theatrical, ambitious, gleeful, soft rock revival" role="button">
+<li data-cover="https://img.discogs.com/67xYbCt6yRMFLBcXo0P4avWGYB0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858926-1377700074-7633.jpeg.jpg" data-tags="indie pop, happy, soft rock, literate, cheerful, irreverent, earnest, earthy, sophisticated, pastoral, warm, playful, sweet, imagination, witty, exuberant, tender, campy, carefree, refined, stylish, theatrical, ambitious, gleeful, soft rock revival" role="button">
 Dent May - Warm Blanket (2013-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/061227cc-726d-4dbb-96e2-7e6da17c2dbb/7322842299-500.jpg" data-tags="pop" role="button">
