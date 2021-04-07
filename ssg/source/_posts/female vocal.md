@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:49:01.394Z
+date: 2021-04-07T10:47:01.520Z
 title: "female vocal: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://img.discogs.com/rgRyAKI8DUhrlKcUD0KtNUTC5u4=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243100-1299316097.jpeg.jpg" data-tags="experimental, avant-folk, 70s" role="button">
+<li data-cover="https://img.discogs.com/_YcNF_IEMzYAUka6PtEkBkaOD5w=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-551793-1214286010.jpeg.jpg" data-tags="experimental, avant-folk, 70s" role="button">
 Nico - Desertshore (1970-12)
 </li>
 <li data-cover="https://img.discogs.com/G9y12P0zXdjZ1ExVDJJAvxxVGJk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-377582-1361794891-7027.jpeg.jpg" data-tags="disco" role="button">
@@ -162,9 +162,6 @@ Kari Jobe - Kari Jobe (2005)
 <li data-cover="https://img.discogs.com/IA_I1mVffNZ58EgJUbWdEMkuam8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-575740-1396380075-7379.jpeg.jpg" data-tags="pop, alternative rock, pop rock, female vocal, pop-rock" role="button">
 Nu Pagadi - Your Dark Side (2005-01-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7e3cf1c-f5dd-4785-a14e-e2e2c7dc3e29/27722935707-500.jpg" data-tags="indie, rock" role="button">
-Sarah Bettens - Scream (2005-03-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/8ca1817f-6d2b-4dc6-8ab7-9e6dc88df2aa/12783667487-500.jpg" data-tags="pop, fires" role="button">
 Nerina Pallot - Fires (2005-04-04)
 </li>
@@ -191,6 +188,9 @@ Be Your Own Pet - Be Your Own Pet (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d085e544-0483-458e-875f-3d0eec00a7d3/6123430973-500.jpg" data-tags="female vocalists, brazilian" role="button">
 Cibelle - The Shine Of Dried Electric Leaves (2006-05-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3a3cae0-dda8-4d98-a62a-b7b35a2b9f0d/23448788511-500.jpg" data-tags="out here all night, outta my way, youre the one" role="button">
+Damone - Out Here All Night (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
 Regina Spektor - Begin to Hope (2006-06-13)

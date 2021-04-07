@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:16:01.273Z
+date: 2021-04-07T11:20:01.556Z
 title: "contemporary folk: 100 albums you must listen to before you die"
 ---
 ![Bibio - Ambivalence Avenue (2009-06-22)](https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg "Bibio - Ambivalence Avenue (2009-06-22)")
@@ -33,6 +33,9 @@ Simon & Garfunkel - Wednesday Morning, 3 A.M. (1964-10-19)
 <li data-cover="https://img.discogs.com/WPZKH46hTDA9kaAQ0vzwZsDihJM=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1492912-1256845522.jpeg.jpg" data-tags="folk" role="button">
 Jackson C. Frank - Jackson C. Frank (1965)
 </li>
+<li data-cover="https://img.discogs.com/gkiU7XVwiASSO-W-Fwmu28yyn_Y=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4807432-1376181832-5759.jpeg.jpg" data-tags="bluegrass" role="button">
+Doc Watson - Southbound (1966)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ca49d65-dcca-3618-9e56-7a66e45879a5/21476831933-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Bob Dylan - Bob Dylan's Greatest Hits (1967-03-27)
 </li>
@@ -51,11 +54,8 @@ John Lennon - John Lennon/Plastic Ono Band (1970-12-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, country" role="button">
 Townes Van Zandt - Delta Momma Blues (1971)
 </li>
-<li data-cover="https://img.discogs.com/8DM-aRex2DbYnfHPZKnvI-g2Gb8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4745014-1416861161-8575.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/ptVCW1s7crhLdbiUYuu1iZjP4eY=/fit-in/270x268/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4518887-1367172470-8061.jpeg.jpg" data-tags="folk" role="button">
 Steve Goodman - Steve Goodman (1971)
-</li>
-<li data-cover="https://img.discogs.com/UvbphLmgukBV25zE9cnnBIGZ3n0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2739547-1381806898-6160.jpeg.jpg" data-tags="folk" role="button">
-Steve Goodman - Somebody Else's Troubles (1972)
 </li>
 <li data-cover="https://img.discogs.com/cDrCHJiTakeSSerrWzVHjXq9ZjA=/fit-in/459x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021841-1312119939.jpeg.jpg" data-tags="progressive rock, argentina, rock argentino, otro temaso, caos coleccion latinoamerica, sui" role="button">
 Sui Generis - Confesiones De Invierno (1973)
@@ -65,6 +65,9 @@ John Prine - Sweet Revenge (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9ad5347-9829-4fab-ace3-57eba05e7054/20462935528-500.jpg" data-tags="argentina, rock" role="button">
 Pescado Rabioso - Artaud (1973-10)
+</li>
+<li data-cover="https://img.discogs.com/8tGXUKuEwWFhnr0qz5iCgNZ8CSw=/fit-in/400x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1253715-1216371672.jpeg.jpg" data-tags="singer-songwriter, contemporary folk" role="button">
+Bülent Ortaçgil - Benimle Oynar Mısın (1974)
 </li>
 <li data-cover="https://img.discogs.com/On6SgIDj0BfYv1fdRQ_-AD_tWI0=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7631738-1445537539-5181.jpeg.jpg" data-tags="progressive rock, contemporary folk, art rock, symphonic prog, progressive folk" role="button">
 Sui Generis - Pequeñas Anécdotas Sobre las Instituciones (1974-12-16)
@@ -111,17 +114,11 @@ Dead Can Dance - Spiritchaser (1996-06-03)
 <li data-cover="http://coverartarchive.org/release/64e8c9e5-3f0a-4b85-9a8b-1c4521563c5d/21026184931-500.jpg" data-tags="singer-songwriter, contemporary folk, folk" role="button">
 Shawn Colvin - A Few Small Repairs (1996-08-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/d3ef5881-3392-4dcc-ab25-1643a93843b1/11831700215-500.jpg" data-tags="folk, scottish, celtic" role="button">
-Capercaillie - Beautiful Wasteland (1997)
+<li data-cover="https://img.discogs.com/IJ8NbDnNqMyVbYZy8thqXo_ID4U=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-248182-1270896492.jpeg.jpg" data-tags="contemporary folk, folktronica, 90's, mycds, sinnet, folkemusik, cds i own and have yet to hear" role="button">
+Sorten Muld - Mark II (1997-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="nordic folk" role="button">
-Gjallarhorn - Ranarop (1997)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dispatch, rock" role="button">
+<li data-cover="https://img.discogs.com/5gxQ1LoQeHr3HEeoJBkNEdrp8Vo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373145-1572188842-7674.jpeg.jpg" data-tags="dispatch, rock" role="button">
 Dispatch - Bang Bang (1997-09-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hip hop, 60s, hard, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, idm, singer, germany, singers, energetic, death, surreal, improvisation, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, female vocalist, powerpop, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, loneliness, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, ponies, rac, loneliness after dusk, friendsofthekingofrummelpop, wonderland, czech, good lyrics, vulgar, praise, utada hikaru, tech, softcore, seiyuu, surrealist, hard trance, vagina, martial industrial, martial, always, violinists" role="button">
-新居昭乃 - そらの庭 (1997-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc20ab32-ff95-3621-bdaf-92b90e826ee1/6201935684-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Wide Open Spaces (1998-01-27)
@@ -131,9 +128,6 @@ Songs: Ohia - Impala (1998-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
-</li>
-<li data-cover="https://img.discogs.com/pQLR7Aa5utPNsj5Y46oaahWbixI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6434718-1419152663-2856.jpeg.jpg" data-tags="christmas" role="button">
-Shawn Colvin - Holiday Songs And Lullabies (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/df9f7bce-1d4d-481e-881b-5f134a48cb26/21489041593-500.jpg" data-tags="belgian, flemish folk" role="button">
 Laïs - Laïs (1998-11-17)
@@ -177,8 +171,8 @@ The Microphones - Mount Eerie (2002-12-12)
 <li data-cover="http://coverartarchive.org/release/811d93b6-25b3-4f12-a2b0-b028810645bf/12862753959-500.jpg" data-tags="contemporary folk" role="button">
 Eivør Pálsdóttir - Krákan (2003)
 </li>
-<li data-cover="https://img.discogs.com/-6dGxPEPjaJN_LoOAEs9V0qwUEI=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-345455-1254668265.jpeg.jpg" data-tags="post-rock, contemporary folk, contemporary classical, psychedelic rock" role="button">
-Piano Magic - Saint Marie EP (2003)
+<li data-cover="https://img.discogs.com/Sz9DTQsFacKZ7r-F9X2bfD7x9B8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2759669-1419701413-6753.jpeg.jpg" data-tags="contemporary folk, the guardian list of 1000 albums to hear before you die" role="button">
+Damien Dempsey - Seize The Day (2003-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/80caa88f-f31a-4e03-97c0-34316e8d33a4/2046010881-500.jpg" data-tags="folk" role="button">
 Rachel Goswell - Waves Are Universal (2004-06-14)
@@ -192,10 +186,13 @@ Boy in Static - Newborn (2004-11-08)
 <li data-cover="https://img.discogs.com/Y9zdrGDfxXJPRtV1n4K1HXjVcYQ=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2222586-1390094109-2807.jpeg.jpg" data-tags="pop" role="button">
 Shawn Colvin - Polaroids: A Greatest Hits Collection (2004-11-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/12bb7bc4-9336-4ecf-8848-e01571820164/6802488304-500.jpg" data-tags="cantautor" role="button">
+Manuel García - Pánico (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/6c6156f9-38a0-3183-85e8-df6432517dca/4207186910-500.jpg" data-tags="alternative, indie pop, alternative rock" role="button">
 Eels - Blinking Lights And Other Revelations (2005-04-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, male, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, norwegian, krautrock, idm, singer, germany, relaxed, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, fetish, female songwriter, breakbeat, insane, oldies, smooth, gangsta rap, lady gaga, video game, reggaeton, digitalis, japanese rock, meditation, harmonica, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, activist, modern country, gothic rock, warm, mala, cold, iowa, speedcore, diy, princess, folklore, nouvelle scene francaise, guitar hero, norway, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, male, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, norwegian, krautrock, idm, singer, germany, relaxed, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, fetish, female songwriter, breakbeat, insane, oldies, smooth, gangsta rap, lady gaga, video game, reggaeton, digitalis, japanese rock, meditation, harmonica, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, not indie, activist, modern country, gothic rock, warm, mala, cold, iowa, speedcore, diy, princess, folklore, nouvelle scene francaise, guitar hero, norway, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides" role="button">
 新居昭乃 - Sora No Uta (2005-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/41fb11d6-e825-45f9-9552-627b3d21ca07/5798485194-500.jpg" data-tags="cabaret" role="button">
@@ -207,14 +204,11 @@ The Swell Season - The Swell Season (2006-04-21)
 <li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
 Bob Dylan - Modern Times (2006-08-06)
 </li>
-<li data-cover="https://img.discogs.com/o2fOk73olgLquGU3DtcFhNaC6F4=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1623424-1292580680.jpeg.jpg" data-tags="folk, singer-songwriter, alternative" role="button">
+<li data-cover="https://img.discogs.com/IsiCTF6KVcfXJbELEL1TV6zWh44=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14170019-1569165852-9626.jpeg.jpg" data-tags="folk, singer-songwriter, alternative" role="button">
 Shawn Colvin - These Four Walls (2006-09-12)
 </li>
-<li data-cover="https://img.discogs.com/B3RUGoeppqaSemGj8HKUfGs-HEA=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-610623-1335609908.jpeg.jpg" data-tags="acoustic, instrumental" role="button">
+<li data-cover="https://img.discogs.com/DpQLT_5Ws9Wu-yAd7CqjXOE852g=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040364-1509567241-6724.jpeg.jpg" data-tags="acoustic, instrumental" role="button">
 Drudkh - Songs of Grief and Solitude (2006-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/72bc836e-f45e-49bd-893b-43eeab861b90/7508123529-500.jpg" data-tags="contemporary folk, folktronica, s: ambient, s: nordic folk music" role="button">
-Valravn - Krunk Krunk (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/b70f9ddd-19f5-4102-a6c2-abf042b74841/3168135402-500.jpg" data-tags="nordic ethno grooves" role="button">
 Valravn - Valravn (2007)
@@ -231,6 +225,9 @@ Elliott Smith - New Moon (2007-05-07)
 <li data-cover="http://coverartarchive.org/release/c3085de3-262f-360f-84bd-e007c682f043/9700126803-500.jpg" data-tags="indie" role="button">
 Beirut - Elephant Gun (2007-06-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/8f735167-a9cc-45d7-b472-80774a2e81cb/23017157923-500.jpg" data-tags="country, contemporary folk, cowhat fav, urban folk, adult alternative pop-rock, contemporary singer-songwriter, labels - universal classics and jazz, cowhat hero, cowhat superhero, cowhat superalbums, mp3 albums want list" role="button">
+Teddy Thompson - Up Front & Down Low (2007-07-17)
+</li>
 <li data-cover="https://img.discogs.com/Cy4FzfklWWYiat8VXKlUBWAaLxE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1797819-1243991275.jpeg.jpg" data-tags="folk, ambient, contemporary folk, drone, screamo, folk rock, indie folk, dark ambient, post-hardcore, audioase, post hardcore, gothic country, gothic folk" role="button">
 Pygmy Lush - Bitter River (2007-08-28)
 </li>
@@ -242,9 +239,6 @@ Alina Orlova - Laukinis Šuo Dingo (2008-01-22)
 </li>
 <li data-cover="https://img.discogs.com/wvDQ99wpF9w7yZlWSUriAnajL0s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256926-1204232683.jpeg.jpg" data-tags="allmusicm" role="button">
 Murder By Death - Red Of Tooth And Claw (2008-03-04)
-</li>
-<li data-cover="https://img.discogs.com/o5t9M9F1teNeFfP3HSZdqAagSRk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2819083-1302454657.jpeg.jpg" data-tags="indie rock, post-rock, britpop, art rock, math pop, math rock, progressive rock, prog, chamber pop, progressive, progressive britpop" role="button">
-Youthmovies - Good Nature (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef112fd-8b07-4808-9877-b38651c52e86/22944250872-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - April (2008-04-01)
@@ -270,7 +264,7 @@ Bibio - Ambivalence Avenue (2009-06-22)
 <li data-cover="http://coverartarchive.org/release/fd1d3a84-3600-49cd-b1d7-ccd4d10c58af/3168123217-500.jpg" data-tags="ethereal, folktronica" role="button">
 Valravn - Koder på snor (2009-09-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="preservation" role="button">
+<li data-cover="https://img.discogs.com/q14ep_9gt91rzWlN_6foxtL1ono=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2110280-1264550182.jpeg.jpg" data-tags="preservation" role="button">
 Heather Woods Broderick - From The Ground (2009-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/58145268-9ecd-42f5-9f1c-4e7968c7d285/4828304228-500.jpg" data-tags="folk, epic, contemporary folk, romantic, melodic, quirky, soundtracks, energetic, narrative, passionate, literate, musical, irreverent, organic, rainy day, confident, earnest, provocative, uncompromising, dramatic, bittersweet, eerie, intimate, earthy, elegant, alternative folk, yearning, warm, lyrical, flowing, poignant, detached, playful, sensual, delicate, lush, wistful, witty, enigmatic, tender, philosophical, unsettling, desperate, graceful, elaborate, gutsy, lively, 2010 releases, desert island albums, flawless albums, ambitious, elegiac, serious, kinetic, desert island discs, cosmopolitan, folk opera, physical cds i actually own, the perfect record" role="button">
@@ -278,9 +272,6 @@ Anaïs Mitchell - Hadestown (2010-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb9785cd-6971-4255-83a4-f2aeb0dadb09/19503842837-500.jpg" data-tags="indie rock, contemporary folk, folk rock, acuarela, little teddy recordings" role="button">
 The Wave Pictures - Susan Rode the Cyclone (2010-04-30)
-</li>
-<li data-cover="https://img.discogs.com/P4eZMscK2F4em56YHBtW5d3-NtA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2266538-1327421209.jpeg.jpg" data-tags="post-rock, contemporary folk, chamber pop, gothic ethereal" role="button">
-Piano Magic - Home Recordings (2010-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/95e0de82-9967-452c-8678-0e3f820d7186/2114359429-500.jpg" data-tags="neofolk" role="button">
 Rome - Nos Chants Perdus (2010-05-14)
@@ -297,11 +288,20 @@ Eddie Vedder - Ukulele Songs (2011-05-26)
 <li data-cover="http://coverartarchive.org/release/eef5ca40-6b4e-4500-a09e-8dc2535dd3e5/15644980157-500.jpg" data-tags="folk" role="button">
 Laura Marling - A Creature I Don't Know (2011-08-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/00a9858a-53c3-45f7-b2a5-1ecce0a3f81e/2800057428-500.jpg" data-tags="singer-songwriter, contemporary folk, neofolk, 4rdioduskmellow" role="button">
+Scott Kelly and the Road Home - The Forgiven Ghost In Me (2012)
+</li>
 <li data-cover="http://coverartarchive.org/release/b02dd44e-2b35-44f1-8001-768fc94f5d14/4083920556-500.jpg" data-tags="singer-songwriter" role="button">
 Leonard Cohen - Old Ideas (2012-01-27)
 </li>
-<li data-cover="https://img.discogs.com/dvl6xSde-sW2xd_JFPh8pG5lChA=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3677749-1354404864-2477.jpeg.jpg" data-tags="folk, singer-songwriter, dream folk" role="button">
+<li data-cover="http://coverartarchive.org/release/d77f15c9-d27d-40be-92bc-af43ff81b1a0/26673099148-500.jpg" data-tags="instrumental, contemporary folk" role="button">
+Spiro - Kaleidophonica (2012-02-20)
+</li>
+<li data-cover="https://img.discogs.com/6K6vayQ-5-CYTP1eqZtL3_szf9c=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3608524-1337203906-8071.jpeg.jpg" data-tags="folk, singer-songwriter, dream folk" role="button">
 Marissa Nadler - The Sister (2012-05-29)
+</li>
+<li data-cover="https://img.discogs.com/1dq3JDuw4SHjx-L1_ojbt1bcbNA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3700171-1340875665-7127.jpeg.jpg" data-tags="singer-songwriter, contemporary folk" role="button">
+Sam Lee - Ground Of Its Own (2012-07-02)
 </li>
 <li data-cover="https://img.discogs.com/A9EZ25T-UomUJEuaXG5-EDkkyA0=/fit-in/283x282/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182130-1386759910-8852.jpeg.jpg" data-tags="singer-songwriter, contemporary folk, gothic country" role="button">
 Rykarda Parasol - Against The Sun (2013-05-01)

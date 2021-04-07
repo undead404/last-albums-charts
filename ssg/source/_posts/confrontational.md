@@ -1,14 +1,14 @@
 ---
-date: 2021-04-05T22:20:01.522Z
+date: 2021-04-07T10:54:01.423Z
 title: "confrontational: 100 albums you must listen to before you die"
 ---
 ![The Clash - Hits Back (2013-08-26)](http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg "The Clash - Hits Back (2013-08-26)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/W8A4v5z88ipMQ4n14waX-E5rgY8=/fit-in/543x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841631-1359313838-7780.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/ee76a845-926d-4120-b83e-a2d543918428/25969450171-500.jpg" data-tags="emo, post-hardcore" role="button">Hidden in Plain View - Life In Dreaming (2004)</li>
-<li data-cover="https://img.discogs.com/HskuMr3aSW8eNVDhMC6hxxwEzQ8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742862-1154197954.jpeg.jpg" data-tags="indie rock" role="button">Gossip - Standing in the Way of Control (2005)</li>
+<li data-cover="https://img.discogs.com/pqHGjbiJ-g74HIVrPmjtwynSmVs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926857-1186771250.jpeg.jpg" data-tags="indie rock" role="button">Gossip - Standing in the Way of Control (2005)</li>
 <li data-cover="http://coverartarchive.org/release/69f898f9-3fe4-4111-ad11-81fccf55df8e/5791775997-500.jpg" data-tags="country" role="button">Miranda Lambert - Crazy Ex-Girlfriend (2007-05-01)</li>
-<li data-cover="https://img.discogs.com/7N8DM730_yMdGlGmCL7xI3tRUBc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464947-1221766171.jpeg.jpg" data-tags="rap" role="button">The Streets - Everything Is Borrowed (2008-09-15)</li>
+<li data-cover="https://img.discogs.com/XoYTjDZ1UfVtQRGBen03ECikX-8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289786-1327107072.jpeg.jpg" data-tags="rap" role="button">The Streets - Everything Is Borrowed (2008-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/eb62259a-db3c-4b42-81de-55aebc7934a8/17601500085-500.jpg" data-tags="powerpop, pop punk" role="button">Hey Monday - Hold On Tight (2008-10-07)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/cb4b08f8-796e-30cb-ad6f-2246fc4146b3/1800662120-500.jpg" data-tags="baroque pop, folk" role="button">
 Phil Ochs - Pleasures Of The Harbor (1967-10-31)
 </li>
-<li data-cover="https://img.discogs.com/Pkv3PViJLasoXMI-0iWixBnPXcs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1504555-1224649706.jpeg.jpg" data-tags="revolution, african, passionate, irreverent, organic, fierce, intense, confident, fiery, confrontational, earnest, freewheeling, provocative, hypnotic, raucous, earthy, afro-pop, partying, sensual, sexual, rebellious, celebration, rollicking, celebratory, exuberant, international, empowerment, cathartic, motivation, rowdy, volatile, swaggering, afro-beat, west african, maverick, boisterous, housework, fela kuti, mischief, african traditions" role="button">
+<li data-cover="https://img.discogs.com/fe04s3yZ5vhHCllifdIAfH78wN8=/fit-in/600x855/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2152318-1480038949-9305.jpeg.jpg" data-tags="revolution, african, passionate, irreverent, organic, fierce, intense, confident, fiery, confrontational, earnest, freewheeling, provocative, hypnotic, raucous, earthy, afro-pop, partying, sensual, sexual, rebellious, celebration, rollicking, celebratory, exuberant, international, empowerment, cathartic, motivation, rowdy, volatile, swaggering, afro-beat, west african, maverick, boisterous, housework, fela kuti, mischief, african traditions" role="button">
 Fela Kuti - Why Black Man Dey Suffer (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/25dfe215-1e21-3c11-baff-bb763cb8e68c/10884649818-500.jpg" data-tags="classic rock" role="button">
@@ -45,7 +45,7 @@ Neil Young - Time Fades Away (1973-09)
 <li data-cover="http://coverartarchive.org/release/904c5a3d-99a5-4087-bce9-0cbe7009b195/5792525507-500.jpg" data-tags="classic rock, hard rock" role="button">
 Alice Cooper - Alice Cooper's Greatest Hits (1974)
 </li>
-<li data-cover="https://img.discogs.com/ftsmFEw5SMRewDWgYtzIjlegG5o=/fit-in/380x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935598-1255604300.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
+<li data-cover="https://img.discogs.com/UUNlY7aGuwzbHB9z-HDvfDa0AZM=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880014-1305396308.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
 The Jam - In the City (1977-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2afcfe44-9adc-3371-ae41-b01b1983c28d/17000919021-500.jpg" data-tags="punk" role="button">
@@ -54,13 +54,13 @@ The Vibrators - Pure Mania (1977-06)
 <li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
 Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/fDVtCl-I-nVC-7tHUgqkFJERr1o=/fit-in/450x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206247-1334169387.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
 Kiss - Double Platinum (1978-04-02)
 </li>
-<li data-cover="https://img.discogs.com/AKPaFMnpQ6NHjR7q15RUXpWkGYI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7050936-1432563994-2047.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
+<li data-cover="https://img.discogs.com/q3mcpA59yOUCaGJSL_ViG-W0iOw=/fit-in/502x788/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467342-1481302687-1087.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
 The Jam - All Mod Cons (1978-11-03)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2a809dc-748c-4736-a09c-65ce2c48518d/11986651197-500.jpg" data-tags="post-punk" role="button">
@@ -72,10 +72,10 @@ Throbbing Gristle - 20 Jazz Funk Greats (1979-12)
 <li data-cover="https://img.discogs.com/rJcaqObehxcJXyQV0X9VeNjN6EQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8826545-1515050576-7792.jpeg.jpg" data-tags="new wave, 80s, mod" role="button">
 The Jam - Sound Affects (1980-11-28)
 </li>
-<li data-cover="https://img.discogs.com/bzOcK7gS9Wk_DPbrbwLf4sQJc7U=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1710728-1260374538.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
+<li data-cover="https://img.discogs.com/vW0BnpX5f9oEU0IjUaYpPzQzbAQ=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2266183-1273312918.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
 Stiff Little Fingers - Go for It (1981-04-17)
 </li>
-<li data-cover="https://img.discogs.com/i2hjF3qQugwjM-CCzbXvKILk9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774793-1166295303.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
+<li data-cover="https://img.discogs.com/iJoht-GM1PJ17vaicaggcMaEd7s=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2176551-1360702775-3112.jpeg.jpg" data-tags="80s, folk rock, rs500" role="button">
 Richard & Linda Thompson - Shoot Out the Lights (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/16e3e24e-28df-4715-9c20-0806d489a1e8/19490167266-500.jpg" data-tags="revolution, angry, irreverent, comedy, confrontational, freewheeling, provocative, bittersweet, earthy, partying, standup comedy, rebellious, exuberant, humorous, rowdy, volatile, rofl, outrageous, political comedy, mischief, grammy nominated, blue humor, huggy" role="button">
@@ -87,13 +87,13 @@ The Who - It's Hard (1982-09-04)
 <li data-cover="http://coverartarchive.org/release/507bb61e-c7fa-3dd5-ba2d-d6f0f6e2f792/6010164584-500.jpg" data-tags="hardcore, punk, hardcore punk" role="button">
 Minor Threat - Out of Step (1983)
 </li>
-<li data-cover="https://img.discogs.com/XgiWaFq4TywnnJjiKpb1hBdcr5o=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3650298-1359865595-7044.jpeg.jpg" data-tags="rock, album rock" role="button">
+<li data-cover="https://img.discogs.com/pSiecJZzhP7DYW_D8DdGa1fQQg4=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11998482-1526280773-8402.jpeg.jpg" data-tags="rock, album rock" role="button">
 Lou Reed - Legendary Hearts (1983-03)
 </li>
-<li data-cover="https://img.discogs.com/rVcJgZl1QoNtdkzGuNUw5uSx2tM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454775-1174321560.jpeg.jpg" data-tags="hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/Yc3Jvzj03NdvSN519QWmDWVXFg4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641014-1165603074.jpeg.jpg" data-tags="hardcore punk" role="button">
 Bad Brains - Rock for Light (1983-03)
 </li>
-<li data-cover="https://img.discogs.com/ViC0hKg4vXBcMrJZcgZvCUBPXHE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4405070-1364025894-7136.jpeg.jpg" data-tags="jazz, funk, passionate, organic, fierce, confident, aggressive, fiery, afrobeat, confrontational, provocative, hypnotic, raucous, earthy, afro-pop, sensual, rebellious, celebratory, exuberant, international, rowdy, afro-beat, west african, boisterous, highlife, fela kuti, celluloid records, african traditions" role="button">
+<li data-cover="https://img.discogs.com/ClsVKqGEXhmTBSY7g0Fl96oGeRw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106584-1318747430.jpeg.jpg" data-tags="jazz, funk, passionate, organic, fierce, confident, aggressive, fiery, afrobeat, confrontational, provocative, hypnotic, raucous, earthy, afro-pop, sensual, rebellious, celebratory, exuberant, international, rowdy, afro-beat, west african, boisterous, highlife, fela kuti, celluloid records, african traditions" role="button">
 Fela Kuti - Army Arrangement (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/941d8ace-2faf-46de-a77b-dff1a063e2ce/28587380435-500.jpg" data-tags="rock, uk, country-rock, passionate, literate, melancholy, fierce, intense, confrontational, earnest, wry, dramatic, bittersweet, intimate, elegant, yearning, sophisticated, autumnal, sympathy68, emusic, nocturnal, brooding, sentimental, acerbic, weary, bleak, theatrical, ambitious, m faithfull, lauraann163" role="button">
@@ -102,16 +102,16 @@ Marianne Faithfull - Rich Kid Blues (1985)
 <li data-cover="http://coverartarchive.org/release/675c2793-dd25-430c-a7f1-e79a66cdfcc5/5538329105-500.jpg" data-tags="metal, punk, hardcore, post-punk, intense, aggressive, confrontational, post-hardcore, american underground, hardcore punk, bleak, cathartic, volatile, visceral, angst-ridden, great album cover" role="button">
 Die Kreuzen - October File (1986-05)
 </li>
-<li data-cover="https://img.discogs.com/v90ZRkS_OC6BV4gDjA4eJ1bQ2z0=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1394019-1216322293.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/Cpjd63LBHCwNl3lIr2wVjvqmFsc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-176704-1112367408.jpg.jpg" data-tags="hip-hop, rap" role="button">
 Boogie Down Productions - Criminal Minded (1987)
 </li>
-<li data-cover="https://img.discogs.com/DWDDxYRoH5-1_AQ9NrCYFiaK7pc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667536-1471605208-1041.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
+<li data-cover="https://img.discogs.com/hq0nx8-puTRvn9QWkR0fkGER6qU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4397266-1455225511-8126.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/38f354d3-7148-41ae-96d3-8574a9c71287/14748841978-500.jpg" data-tags="hip-hop, east coast rap, rap" role="button">
 Public Enemy - Yo! Bum Rush the Show (1987-02-10)
 </li>
-<li data-cover="https://img.discogs.com/VTLjytTqc_37lZfKmxhBTQmviyg=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695833-1237536579.jpeg.jpg" data-tags="hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/C5LK5-u4oH6BLRYGkccbHXlZ-ac=/fit-in/438x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2332855-1306436534.jpeg.jpg" data-tags="hardcore punk" role="button">
 Black Flag - Wasted...Again (1987-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a93c3163-90af-44cf-82bf-deacfdad55b6/18142550474-500.jpg" data-tags="indie rock, garage rock revival, searching, garage rock, intense, aggressive, menacing, confrontational, garage, yearning, garage punk, punk blues, spring, bitter, brooding, happiness, harsh, bleak, cathartic, volatile, visceral, urgent, angst-ridden, brash, destiny, victory, starting out, pogge" role="button">
@@ -126,9 +126,6 @@ Big Daddy Kane - Long Live the Kane (1988-06-21)
 <li data-cover="http://coverartarchive.org/release/7e7f071c-fd4c-4616-809d-20e7913d87a8/2550599836-500.jpg" data-tags="golden age hip hop" role="button">
 Eric B. & Rakim - Follow the Leader (1988-07-26)
 </li>
-<li data-cover="https://img.discogs.com/3gYsLm00nQztE7_0aLS1TpV7LrU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5760022-1571689696-7596.jpeg.jpg" data-tags="thrash metal" role="button">
-Suicidal Tendencies - How Will I Laugh Tomorrow When I Can't Even Smile Today (1988-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/04a29c62-4cb6-48b4-8be3-484774ee1adf/23490334229-500.jpg" data-tags="80s, funk rock" role="button">
 Fishbone - Truth And Soul (1988-09-13)
 </li>
@@ -138,7 +135,7 @@ Living Colour - Vivid (1988-09-18)
 <li data-cover="https://img.discogs.com/W8A4v5z88ipMQ4n14waX-E5rgY8=/fit-in/543x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841631-1359313838-7780.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
-<li data-cover="https://img.discogs.com/2_Q9T34u4H9p2-w4pl0syJNUY40=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11179291-1511329170-2821.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/uVN8iytnTNWlfeqgvdpldiz2954=/fit-in/599x941/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8267521-1458306048-2645.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Whodini - Greatest Hits (1990-06-12)
 </li>
 <li data-cover="https://img.discogs.com/r4kRB_nIAYMeR6D7iWuhvZBoNTY=/fit-in/600x334/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11705365-1520967247-1779.jpeg.jpg" data-tags="punk, rock, hard rock" role="button">
@@ -158,6 +155,9 @@ Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4787bb54-a53f-4a0a-b80e-5df0b44e271f/4765095514-500.jpg" data-tags="east coast hip hop, rap" role="button">
 Naughty By Nature - Naughty By Nature (1991-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/127c75c2-095a-4e25-bcdd-240c9e1087e3/6538986056-500.jpg" data-tags="comedy" role="button">
+Bill Hicks - Relentless (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/8511b8dc-2b4b-42a3-84c8-9edb809e1940/14640059886-500.jpg" data-tags="riot grrrl" role="button">
 Bikini Kill - the first two records (1992)
@@ -204,7 +204,7 @@ Tricky - Angels With Dirty Faces (1998-05-25)
 <li data-cover="http://coverartarchive.org/release/011310b5-57b5-416e-8331-9bc134f6fbc8/3366913620-500.jpg" data-tags="emo" role="button">
 The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
-<li data-cover="https://img.discogs.com/98PBEItYQtvgo5i3j5PPOTr2fZ8=/fit-in/535x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445887-1330696286.jpeg.jpg" data-tags="irish, 00s" role="button">
+<li data-cover="https://img.discogs.com/Q0fsS5fw7JiwXEqD05r2t3MKT3k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5846374-1404383509-2716.jpeg.jpg" data-tags="irish, 00s" role="button">
 Sinéad O'Connor - Faith and Courage (2000-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc0d284f-16d3-41b0-8ad6-90fa55506fbf/4395767858-500.jpg" data-tags="rap" role="button">
@@ -234,7 +234,7 @@ Sahara Hotnights - Kiss & Tell (2004-05-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="2004, alternative, female vocalists, alternative rock, rock" role="button">
 PJ Harvey - Uh Huh Her (2004-05-31)
 </li>
-<li data-cover="https://img.discogs.com/HskuMr3aSW8eNVDhMC6hxxwEzQ8=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-742862-1154197954.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/pqHGjbiJ-g74HIVrPmjtwynSmVs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926857-1186771250.jpeg.jpg" data-tags="indie rock" role="button">
 Gossip - Standing in the Way of Control (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/aae883ce-905d-4b1b-8440-037e4102bf7a/10037462392-500.jpg" data-tags="country" role="button">
@@ -246,13 +246,13 @@ Sleater-Kinney - The Woods (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/5cf70c86-0d14-4929-81dc-82b7a60fbc0d/15137264095-500.jpg" data-tags="p w n d" role="button">
 The Velvet Underground - Gold (2005-09-01)
 </li>
-<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/ST9KW2ZxU6UQkbvAd0tmQkWjtsg=/fit-in/541x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8894620-1470968847-7555.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ef85275-d18a-43c5-85c6-462c80efd7d9/17201611369-500.jpg" data-tags="hip-hop, urban, pop, rap, dance" role="button">
 Missy Elliott - Respect M.E. (2006-09-04)
 </li>
-<li data-cover="https://img.discogs.com/UjouSGXxKlP4g4Hum9jK-pooyXw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1596006-1297856519.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
+<li data-cover="https://img.discogs.com/-XnFkV2hRHI2Iu3E3Kb1jH9Y0eM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845159-1269046384.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
 Clipse - Hell Hath No Fury (2006-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/69f898f9-3fe4-4111-ad11-81fccf55df8e/5791775997-500.jpg" data-tags="country" role="button">
@@ -261,7 +261,7 @@ Miranda Lambert - Crazy Ex-Girlfriend (2007-05-01)
 <li data-cover="http://coverartarchive.org/release/430447b5-e207-4637-90c4-d7c8cccdb3f9/7965367982-500.jpg" data-tags="blues, energetic, crunchy, intense, aggressive, fiery, confrontational, dramatic, raucous, drinking, punk blues, road trip, rebellious, rollicking, gritty, rowdy, volatile, gutsy, lively, visceral, ramshackle, messy, boisterous, brash, guys night out, street-smart, hanging out, rambunctious, reckless, soundweave, dirtiest wall of surround sound ever" role="button">
 Left Lane Cruiser - Bring Yo' Ass to the Table (2008-01-08)
 </li>
-<li data-cover="https://img.discogs.com/7N8DM730_yMdGlGmCL7xI3tRUBc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464947-1221766171.jpeg.jpg" data-tags="rap" role="button">
+<li data-cover="https://img.discogs.com/XoYTjDZ1UfVtQRGBen03ECikX-8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289786-1327107072.jpeg.jpg" data-tags="rap" role="button">
 The Streets - Everything Is Borrowed (2008-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb62259a-db3c-4b42-81de-55aebc7934a8/17601500085-500.jpg" data-tags="powerpop, pop punk" role="button">
@@ -312,7 +312,7 @@ Ana Tijoux - Vengo (2014-03-18)
 <li data-cover="http://coverartarchive.org/release/f68f2ab8-0b11-48d2-9de0-04b22ddf8036/6789254424-500.jpg" data-tags="alternative rock, emo" role="button">
 My Chemical Romance - May Death Never Stop You (2014-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b8f2b17-4e04-46e3-aa57-19be9b9f7e4e/7532759610-500.jpg" data-tags="indie rock, post-punk, energetic, angry, irreverent, fierce, aggressive, confrontational, freewheeling, provocative, snide, raucous, flowing, vulgar, rebellious, word play, rollicking, witty, cathartic, gritty, unsettling, sarcastic, gutsy, visceral, savage, angst-ridden, 2014 releases, maverick, brash, guys night out, street-smart, hanging out, bravado, extroverted, tough, animated, everyday life, outraged, city life, brassy, harbinger sound, belligerent, just cant hate enough, world view" role="button">
+<li data-cover="http://coverartarchive.org/release/3b8f2b17-4e04-46e3-aa57-19be9b9f7e4e/7532759610-500.jpg" data-tags="indie rock, post-punk, energetic, angry, irreverent, fierce, aggressive, confrontational, freewheeling, provocative, snide, raucous, flowing, vulgar, rebellious, word play, rollicking, witty, cathartic, gritty, unsettling, sarcastic, gutsy, visceral, savage, angst-ridden, maverick, brash, guys night out, street-smart, hanging out, bravado, extroverted, tough, animated, everyday life, outraged, city life, brassy, harbinger sound, belligerent, just cant hate enough, world view" role="button">
 Sleaford Mods - Divide And Exit (2014-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/46cfef07-0d8a-4b3f-8c48-0b5a6e933872/7420741416-500.jpg" data-tags="country" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:02:01.392Z
+date: 2021-04-07T11:00:07.028Z
 title: "electro house: 100 albums you must listen to before you die"
 ---
 ![Calvin Harris - Motion (2014-10-31)](http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg "Calvin Harris - Motion (2014-10-31)")
@@ -53,6 +53,9 @@ Capsule - FRUITS CLiPPER (2006-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcc15e13-55f9-4e65-a19d-d1649e4a8985/3596711954-500.jpg" data-tags="electronic, electro" role="button">
 MSTRKRFT - The Looks (2006-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1167b82-c752-42cd-aeda-d8349ef9ef90/3586748821-500.jpg" data-tags="electro house" role="button">
+Justice - Phantom (2006-12)
 </li>
 <li data-cover="https://img.discogs.com/z9VKRjLaJO5alTq_svOYj03-NTA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1115042-1193180138.jpeg.jpg" data-tags="electro, house, electro house" role="button">
 Dada Life - Fun Fun Fun (2007)
@@ -116,9 +119,6 @@ Vitalic - Flashmob (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/97f6f1d5-1c70-367d-a217-45cab7a31926/15654510735-500.jpg" data-tags="electronic" role="button">
 deadmau5 - For Lack of a Better Name (2009-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/7676c4f1-c4b5-4f02-b060-76dcce21a897/9371502155-500.jpg" data-tags="electronic, electro, electro house" role="button">
-Steve Aoki - I'm In The House (2009-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/124251b9-057f-35ab-a0cf-8f9366482ced/17897598255-500.jpg" data-tags="electronic" role="button">
 Boys Noize - Power (2009-09-28)

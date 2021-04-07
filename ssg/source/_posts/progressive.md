@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T04:03:01.410Z
+date: 2021-04-07T10:57:01.397Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -44,9 +44,6 @@ The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Genesis - Genesis (1983-10-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/4bc83ff3-ac0e-4fa5-8dfc-a5aa1bf57afd/15367001320-500.jpg" data-tags="progressive rock, 80s" role="button">
-Peter Gabriel - So (1986-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
@@ -303,7 +300,7 @@ Dead Letter Circus - This Is The Warning (2010-05-14)
 <li data-cover="http://coverartarchive.org/release/17f23c51-feb7-4e84-b77e-00599724e0b5/15620501484-500.jpg" data-tags="indie, ambient, experimental, progressive rock, progressive, post-hardcore, progressive indie, progressive emopop" role="button">
 Tides of Man - Dreamhouse (2010-09-14)
 </li>
-<li data-cover="https://img.discogs.com/VAvDJ2Y0DjTdcd0JEA1Jlpzx-Ls=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3166660-1424964604-2996.jpeg.jpg" data-tags="electronic, electro, progressive, synthpop" role="button">
+<li data-cover="https://img.discogs.com/NIn3oP4KpGk22x7cmyatn0OKvho=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3664836-1343559142-3534.jpeg.jpg" data-tags="electronic, electro, progressive, synthpop" role="button">
 Goose - Synrise (2011-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
@@ -311,6 +308,9 @@ Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d284c99-9d7a-4c79-bf16-ceffd78c32b4/6732933359-500.jpg" data-tags="jazz fusion" role="button">
 Snarky Puppy - We Like It Here (2014-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/9cb4a5bb-bc24-4b4d-b1f5-e5a07397d980/8395692349-500.jpg" data-tags="progressive rock" role="button">
+Opeth - Pale Communion (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
 deadmau5 - while(1<2) (2014-06-17)

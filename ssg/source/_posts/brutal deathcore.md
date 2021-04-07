@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:44:01.376Z
+date: 2021-04-07T10:46:07.257Z
 title: "brutal deathcore: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/bJonz8HoYkbzy08B85fViJP0zA8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4798971-1593743753-7149.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
+<li data-cover="https://img.discogs.com/r-BBNj1LBBHNxxqYgDpc7mvDpjE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15621398-1594697375-2445.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
 Insane Clown Posse - Carnival of Carnage (1992-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/da934db7-e7bb-4ec4-b8cd-5bbe7f237578/14645532503-500.jpg" data-tags="rap" role="button">
@@ -45,7 +45,7 @@ Insane Clown Posse - The Wraith: Shangri-La (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/1cb1573d-66fe-3d83-9631-9fa4efd5c65b/17547966695-500.jpg" data-tags="deathcore, death metal" role="button">
 All Shall Perish - Hate.Malice.Revenge (2003-04-19)
 </li>
-<li data-cover="https://img.discogs.com/JXaLMhJYJVL7tqQHgpYmv60fUqY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454482-1333877155.jpeg.jpg" data-tags="dudu, tarkan" role="button">
+<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
 <li data-cover="https://img.discogs.com/gWE3RYfQnRXFzWtgExa3JHcf8A4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4469490-1365764049-4116.jpeg.jpg" data-tags="alternative, post-hardcore, altar of the metal gods sludge, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods nwobhm, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal" role="button">
@@ -126,7 +126,7 @@ We Butter the Bread With Butter - Das Monster aus dem Schrank (2008-11-21)
 <li data-cover="http://coverartarchive.org/release/944c0440-8285-4a98-bcea-238e51f534e3/2512771498-500.jpg" data-tags="crunkcore" role="button">
 Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
-<li data-cover="https://img.discogs.com/FjLGaTafIscM8hQMlZ18AdraIVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7271769-1437699076-6523.jpeg.jpg" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
 </li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
@@ -146,6 +146,9 @@ Molotov Solution - The Harbinger (2009-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
+</li>
+<li data-cover="https://img.discogs.com/Yi_XOAkQGi-qWdO0HPWH-690QQc=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748710-1503598896-8622.jpeg.jpg" data-tags="pop" role="button">
+Jonas Brothers - Lines, Vines and Trying Times (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e497289-c078-44b2-a595-c65b19fc278b/16426591871-500.jpg" data-tags="brutal death metal" role="button">
 Ingested - Surpassing the Boundaries of Human Suffering (2009-06-22)
@@ -212,9 +215,6 @@ Whitechapel - A New Era Of Corruption (2010-06-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="brutal deathcore" role="button">
 I Declare War - Malevolence (2010-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/70386be2-6ebc-4a75-bd42-25c2758579ef/13631283185-500.jpg" data-tags="death metal, deathcore, technical deathcore" role="button">
-Thy Art Is Murder - The Adversary (2010-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7f2bbda-e3c7-4e7d-aa67-37b6b1abb107/11884940763-500.jpg" data-tags="deathcore" role="button">
 Impending Doom - There Will Be Violence (2010-07-20)

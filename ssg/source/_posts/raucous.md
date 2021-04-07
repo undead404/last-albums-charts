@@ -1,12 +1,12 @@
 ---
-date: 2021-04-06T17:24:01.461Z
+date: 2021-04-07T11:29:03.811Z
 title: "raucous: 100 albums you must listen to before you die"
 ---
 ![The Clash - Hits Back (2013-08-26)](http://coverartarchive.org/release/55a541b1-679a-4ccd-a321-e97b254d5f91/6391208591-500.jpg "The Clash - Hits Back (2013-08-26)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">Bob Dylan - Modern Times (2006-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
+<li data-cover="https://img.discogs.com/MzZG6cMrhBfOTkA7_fHYJur4-Fc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666348-1235572725.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, volatile, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">Superchunk - Majesty Shredding (2010-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
@@ -21,16 +21,16 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/TFaC6svK_nLJaQCGisCkvq_rkwU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5042525-1462157250-4131.jpeg.jpg" data-tags="classic rock, 60s, british, blues rock" role="button">
+<li data-cover="https://img.discogs.com/56SreetRhmekryVCiWCylo1Xi6Q=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5391347-1392213841-4763.jpeg.jpg" data-tags="classic rock, 60s, british, blues rock" role="button">
 The Animals - Animalisms (1966-05)
 </li>
 <li data-cover="https://img.discogs.com/mic1l-p28zoqxQguKjabmbJV5Hg=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9031515-1473598344-7417.mpo.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
 </li>
-<li data-cover="https://img.discogs.com/Pkv3PViJLasoXMI-0iWixBnPXcs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1504555-1224649706.jpeg.jpg" data-tags="revolution, african, passionate, irreverent, organic, fierce, intense, confident, fiery, confrontational, earnest, freewheeling, provocative, hypnotic, raucous, earthy, afro-pop, partying, sensual, sexual, rebellious, celebration, rollicking, celebratory, exuberant, international, empowerment, cathartic, motivation, rowdy, volatile, swaggering, afro-beat, west african, maverick, boisterous, housework, fela kuti, mischief, african traditions" role="button">
+<li data-cover="https://img.discogs.com/fe04s3yZ5vhHCllifdIAfH78wN8=/fit-in/600x855/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2152318-1480038949-9305.jpeg.jpg" data-tags="revolution, african, passionate, irreverent, organic, fierce, intense, confident, fiery, confrontational, earnest, freewheeling, provocative, hypnotic, raucous, earthy, afro-pop, partying, sensual, sexual, rebellious, celebration, rollicking, celebratory, exuberant, international, empowerment, cathartic, motivation, rowdy, volatile, swaggering, afro-beat, west african, maverick, boisterous, housework, fela kuti, mischief, african traditions" role="button">
 Fela Kuti - Why Black Man Dey Suffer (1971)
 </li>
-<li data-cover="https://img.discogs.com/aKPwsW2-8v2hRoWM_Od9Bn5AXvI=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12101524-1528323197-3606.jpeg.jpg" data-tags="hard rock" role="button">
+<li data-cover="https://img.discogs.com/MZOibB07PtCv77o7OHtnIahEHMI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7371240-1440028580-5371.jpeg.jpg" data-tags="hard rock" role="button">
 Faces - A Nod Is as Good as a Wink... To a Blind Horse (1971-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6f5727f-4cf4-4a37-97c1-21315a64389b/6492710070-500.jpg" data-tags="rock, 70s, classic rock" role="button">
@@ -45,7 +45,7 @@ Alice Cooper - Alice Cooper's Greatest Hits (1974)
 <li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
 </li>
-<li data-cover="https://img.discogs.com/ftsmFEw5SMRewDWgYtzIjlegG5o=/fit-in/380x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935598-1255604300.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
+<li data-cover="https://img.discogs.com/UUNlY7aGuwzbHB9z-HDvfDa0AZM=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880014-1305396308.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
 The Jam - In the City (1977-05-20)
 </li>
 <li data-cover="https://img.discogs.com/FBTTValXfoLMcKRGWWJdsReDyAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5094652-1384334579-2574.jpeg.jpg" data-tags="power pop, rock, classic rock, 70s" role="button">
@@ -54,14 +54,17 @@ Cheap Trick - Heaven Tonight (1978)
 <li data-cover="http://coverartarchive.org/release/c40cb4ab-ce16-4816-9df3-b512db7f8516/10645292811-500.jpg" data-tags="classic rock, live, 70s, rock" role="button">
 Cheap Trick - At Budokan (1978-10)
 </li>
-<li data-cover="https://img.discogs.com/IeGfMkw1YYtylUZr1r9EWH0rqDU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1984507-1450606837-5574.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
+<li data-cover="https://img.discogs.com/q3mcpA59yOUCaGJSL_ViG-W0iOw=/fit-in/502x788/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467342-1481302687-1087.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
 The Jam - All Mod Cons (1978-11-03)
 </li>
 <li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
 </li>
-<li data-cover="https://img.discogs.com/Z0bah7U2c75Kd7gklDpeCMUwOZE=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4166033-1384283975-4252.jpeg.jpg" data-tags="new wave" role="button">
+<li data-cover="https://img.discogs.com/wR8khHhiuFlG7BOywh46JejDn7c=/fit-in/580x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2867053-1304948586.jpeg.jpg" data-tags="new wave" role="button">
 Nick Lowe - Labour of Lust (1979-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/995606a7-3646-43a6-8e5b-0f662d0bffdb/27683792112-500.jpg" data-tags="rockabilly, rock, new wave, blues, energetic, summer, passionate, cheerful, freewheeling, raucous, fun, rock n roll, warm, roots rock, drinking, road trip, partying, library, pub rock, rebellious, rollicking, humorous, rowdy, swaggering, lively, guys night out, hanging out, bravado" role="button">
+Dave Edmunds - Repeat When Necessary (1979-06-08)
 </li>
 <li data-cover="https://img.discogs.com/lkFFtR4ihpsGjOhW892olMwVJl0=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336217-1433823041-9294.jpeg.jpg" data-tags="jangle pop, post-punk, new wave" role="button">
 The Feelies - Crazy Rhythms (1980)
@@ -72,13 +75,13 @@ Billy Joel - Glass Houses (1980-03-12)
 <li data-cover="http://coverartarchive.org/release/9c721b61-71e1-4192-b93c-a9eeae68009e/10474351107-500.jpg" data-tags="classic rock, rock" role="button">
 Billy Squier - Don't Say No (1981)
 </li>
-<li data-cover="https://img.discogs.com/bzOcK7gS9Wk_DPbrbwLf4sQJc7U=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1710728-1260374538.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
+<li data-cover="https://img.discogs.com/vW0BnpX5f9oEU0IjUaYpPzQzbAQ=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2266183-1273312918.jpeg.jpg" data-tags="80s, punk, angry, irreverent, intense, menacing, confrontational, raucous, bleak, volatile, visceral, british punk, brash, rambunctious, flashback alternatives, go for it, albums i really want, favorite lp" role="button">
 Stiff Little Fingers - Go for It (1981-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/507bb61e-c7fa-3dd5-ba2d-d6f0f6e2f792/6010164584-500.jpg" data-tags="hardcore, punk, hardcore punk" role="button">
 Minor Threat - Out of Step (1983)
 </li>
-<li data-cover="https://img.discogs.com/rVcJgZl1QoNtdkzGuNUw5uSx2tM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-454775-1174321560.jpeg.jpg" data-tags="hardcore punk" role="button">
+<li data-cover="https://img.discogs.com/Yc3Jvzj03NdvSN519QWmDWVXFg4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641014-1165603074.jpeg.jpg" data-tags="hardcore punk" role="button">
 Bad Brains - Rock for Light (1983-03)
 </li>
 <li data-cover="https://img.discogs.com/TGMozpDk06vIDR9MPg6QU2rNx2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12544002-1537317625-2915.jpeg.jpg" data-tags="punk" role="button">
@@ -93,13 +96,16 @@ Chuck Berry - Rock 'N' Roll Rarities (1986)
 <li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
 R.E.M. - Lifes Rich Pageant (1986-07-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/29c5e9fd-f6fd-309c-9d51-f6bc7c082734/2645057763-500.jpg" data-tags="hard rock" role="button">
+The Cult - Electric (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/38f354d3-7148-41ae-96d3-8574a9c71287/14748841978-500.jpg" data-tags="hip-hop, east coast rap, rap" role="button">
 Public Enemy - Yo! Bum Rush the Show (1987-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/44eb139f-abd1-4c92-8b2d-29b416c0315b/2179533989-500.jpg" data-tags="golden age hip hop" role="button">
 Slick Rick - The Great Adventures of Slick Rick (1988)
 </li>
-<li data-cover="https://img.discogs.com/FKTGAQvwr4FJf0yvNyk0VOsbtX8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-808145-1357517035-3919.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
+<li data-cover="https://img.discogs.com/SckRmjGp1Y2pRuclPz2T880a8dw=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7621143-1466461966-9813.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
 L.A. Guns - L.A. Guns (1988-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/245c9588-b4f8-33df-98f4-4b29b3775916/11571156452-500.jpg" data-tags="hard rock, 80s" role="button">
@@ -107,9 +113,6 @@ Living Colour - Vivid (1988-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/28818aee-7be6-4abc-b6c7-48770fb2f191/27754008834-500.jpg" data-tags="blues" role="button">
 Bo Diddley - The Chess Box (1990)
-</li>
-<li data-cover="http://coverartarchive.org/release/83e57502-031c-4d0a-a659-7ebb1a134da6/2828195326-500.jpg" data-tags="classic rock, rock, 60s, british, blues" role="button">
-The Animals - The Complete Animals (1990-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d012b269-86de-4a3e-9d7c-5d0ab45a633b/23499818550-500.jpg" data-tags="golden age hip hop" role="button">
 LL Cool J - Mama Said Knock You Out (1990-09-18)
@@ -129,17 +132,14 @@ Das EFX - Dead Serious (1992-04-07)
 <li data-cover="http://coverartarchive.org/release/906fb3fb-f8fe-44db-8976-93652c3a0ad6/3879224429-500.jpg" data-tags="indie rock, energetic, melancholy, intense, confident, aggressive, fiery, menacing, earnest, raucous, yearning, playful, heartache, manic, empowerment, cathartic, motivation, rowdy, volatile, visceral, plaintive, angst-ridden, boisterous, rambunctious, innocent, fuzzy guitar goodness, fun to skateboard to, where is my bong, lp i own, tugs at me heart strings, classic american indie rock" role="button">
 Superchunk - Tossing Seeds (Singles 89-91) (1992-06-02)
 </li>
-<li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
+<li data-cover="https://img.discogs.com/wZ1f5ziVacSnZ0-3kb9pgaFEzhU=/fit-in/473x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646830-1338737473-2748.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
 The Jesus Lizard - Liar (1992-09-16)
 </li>
 <li data-cover="https://img.discogs.com/sNIqdOYvfwEjeUq7LbGClVOGEpw=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3211956-1320686677.jpeg.jpg" data-tags="twee, indie pop, twee pop, 90s" role="button">
 Beat Happening - You Turn Me On (1992-10-02)
 </li>
-<li data-cover="https://img.discogs.com/33Tl1TJGobql0oXCSj2tlR9HZe0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027191-1185627117.jpeg.jpg" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/tewhUQoLvgxCzXjgPlPDykVisKk=/fit-in/575x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5704534-1400418492-5995.jpeg.jpg" data-tags="post-punk" role="button">
 The Birthday Party - Hits (1992-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c1080d0-d6dc-4470-8bf3-884d7c4b7de2/15897612975-500.jpg" data-tags="metal, alternative rock, hard rock, psychedelic rock" role="button">
-Motorpsycho - Demon Box (1993-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
 Ramones - Acid Eaters (1993-12-01)
@@ -183,10 +183,10 @@ The Velvet Underground - Gold (2005-09-01)
 <li data-cover="https://img.discogs.com/-3c1H_uELwr2N788wMTMZCyywyI=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-556259-1131086352.jpeg.jpg" data-tags="energetic, aggressive, raucous, exuberant, boisterous, party/ celebratory, weekly top albums" role="button">
 Hedley - Hedley (2005-09-06)
 </li>
-<li data-cover="https://img.discogs.com/CxKu_NKQNxYvgEM7_DC48R9ON6Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1817152-1245303630.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/ST9KW2ZxU6UQkbvAd0tmQkWjtsg=/fit-in/541x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8894620-1470968847-7555.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/eab06683-0a36-4897-85b4-07e363a6769d/13095340713-500.jpg" data-tags="hard rock, college rock, jangle pop, reflective, melancholy, irreverent, aggressive, freewheeling, wry, bittersweet, intimate, raucous, yearning, sleazy, silly, poignant, american underground, bitter, rebellious, wistful, rollicking, exuberant, rowdy, volatile, ramshackle, messy, angst-ridden, brash, rambunctious, reckless, iveldie albums" role="button">
+<li data-cover="http://coverartarchive.org/release/eab06683-0a36-4897-85b4-07e363a6769d/13095340713-500.jpg" data-tags="hard rock, college rock, jangle pop, reflective, melancholy, irreverent, aggressive, freewheeling, wry, bittersweet, intimate, raucous, yearning, sleazy, silly, poignant, american underground, bitter, rebellious, wistful, rollicking, exuberant, rowdy, ramshackle, messy, angst-ridden, brash, rambunctious, reckless, iveldie albums" role="button">
 The Replacements - Don't You Know Who I Think I Was?: The Best Of The Replacements (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/fRz-6uhvDD3K-L3mSc1ze2pg0Z4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9708867-1485281444-1711.jpeg.jpg" data-tags="folk, singer-songwriter, folk rock, rock, 00s" role="button">
@@ -207,7 +207,7 @@ The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
 <li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
 Spiritualized - Songs In A&E (2008-05-26)
 </li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
+<li data-cover="https://img.discogs.com/MzZG6cMrhBfOTkA7_fHYJur4-Fc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666348-1235572725.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
 The Walkmen - You & Me (2008-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2d8c10d-4c70-482c-b913-50550fc6d4c4/3813953556-500.jpg" data-tags="math rock, experimental, indie pop, indie rock, quirky, energetic, literate, irreverent, intense, confident, fiery, raucous, fun, 00s, playful, sweet, math pop, revolutionary, repeat, sprawling, brash, ambitious, knotty, zach hill on the kit, math rap" role="button">
@@ -222,10 +222,10 @@ Bob Dylan - Together Through Life (2009-04-23)
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/xlzzWAfS_HOIwT1TnY1DZncP0YQ=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993212-1257301050.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/kXwzCwRNJ3W0mdHWHtN7gIDJPA0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7471447-1442155824-1351.jpeg.jpg" data-tags="classic rock, surf, surf rock" role="button">
+<li data-cover="https://img.discogs.com/sWHNkv0pmoiARb1DPZuRZf8iNaQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-615069-1458945321-7238.jpeg.jpg" data-tags="classic rock, surf, surf rock" role="button">
 Dick Dale - Guitar Legend: The Very Best Of Dick Dale (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, volatile, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">
@@ -240,7 +240,7 @@ Kid Rock - Born Free (2010-11-15)
 <li data-cover="https://img.discogs.com/lnbpDTN0xZ_UFcLRkuJzqvdVGN8=/fit-in/270x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067295-1262075607.png.jpg" data-tags="my gang 11" role="button">
 The Go! Team - Rolling Blackouts (2011-01-12)
 </li>
-<li data-cover="https://img.discogs.com/KS3kIYhXny1Jdfv0A6Wvsm4cpAg=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4248695-1359666920-9595.jpeg.jpg" data-tags="new wave" role="button">
+<li data-cover="https://img.discogs.com/Is_8wIzreaiToVfCOsdOJOmBupM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2802792-1301711040.jpeg.jpg" data-tags="new wave" role="button">
 The Sounds - Something to Die For (2011-02-22)
 </li>
 <li data-cover="https://img.discogs.com/mATVZH7mUI6F402DQkW0zJMvNKs=/fit-in/288x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2906361-1306648453.jpeg.jpg" data-tags="indie rock, energetic, passionate, intense, aggressive, earnest, raucous, earthy, fun, strong, drinking, garage punk, playful, partying, exuberant, campy, volatile, swaggering, lively, ramshackle, plaintive, brash, rambunctious, need, gleeful, mischief" role="button">
@@ -267,7 +267,7 @@ Chromatics - Kill for Love (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/3fe92de6-0681-467c-a298-69e4ed636755/6493547356-500.jpg" data-tags="alternative rock, britpop, quirky, energetic, reflective, atmospheric, whimsical, summer, literate, melancholy, irreverent, rainy day, freewheeling, wry, bittersweet, reflection, eerie, raucous, fun, complex, live, drinking, precious, poignant, road trip, playful, sunday afternoon, partying, summery, imagination, rollicking, celebratory, witty, exuberant, campy, bright, sarcastic, live album, lively, tgif, boisterous, brash, open road, gleeful, my cd collection, tugs at me heart strings,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Blur - Parklive (2012-08-18)
 </li>
-<li data-cover="https://img.discogs.com/8MENgs-1fKih__kLAYDh2frkR_Q=/fit-in/300x262/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9648257-1484172506-8286.jpeg.jpg" data-tags="punk rock, pop punk" role="button">
+<li data-cover="https://img.discogs.com/nUpepG9qKSqDe6qlsgF0VMpO628=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10774925-1504098172-1414.jpeg.jpg" data-tags="punk rock, pop punk" role="button">
 Green Day - ¡Dos! (2012-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/072d227a-c19e-481c-9d4e-48cf05bab079/4499107497-500.jpg" data-tags="ambient, hypnotic" role="button">
