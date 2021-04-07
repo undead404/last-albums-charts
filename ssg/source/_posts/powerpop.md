@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T07:55:01.455Z
+date: 2021-04-07T19:24:01.386Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+The Easybeats - Friday on My Mind (1966)
+</li>
 <li data-cover="http://coverartarchive.org/release/20a3b21d-5d06-4db7-a737-cce696fd763e/10723116989-500.jpg" data-tags="classic rock, rock" role="button">
 Faces - Ooh La La (1973)
 </li>
@@ -39,9 +42,6 @@ The Boomtown Rats - A Tonic For The Troops (1978-06)
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c721b61-71e1-4192-b93c-a9eeae68009e/10474351107-500.jpg" data-tags="classic rock, rock" role="button">
-Billy Squier - Don't Say No (1981)
-</li>
 <li data-cover="https://img.discogs.com/6f2arQmOvhprFonrzs0tkxWGCRg=/fit-in/596x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372943-1363547814-5889.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
 Billy Idol - Billy Idol (1982-07-16)
 </li>
@@ -53,9 +53,6 @@ Yes - 90125 (1983-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
-</li>
-<li data-cover="https://img.discogs.com/tLxPzs6lDnBK-KVqGcFCDefuJGY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2953368-1316419473.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
-The Easybeats - Friday on My Mind (1987)
 </li>
 <li data-cover="https://img.discogs.com/C2cd7Hm-5QnTnoo12qw7YjMwD5w=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4172671-1409236226-1566.jpeg.jpg" data-tags="classic rock, rock, pop rock, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, chameleon, proto punk, rock-protopunk, flashback alternatives" role="button">
 Nick Lowe - Basher: The Best of Nick Lowe (1989)
@@ -242,6 +239,9 @@ All Time Low - Nothing Personal (2009-01-09)
 </li>
 <li data-cover="https://img.discogs.com/WwLdLGZed6V06YNSGC1AzL_Cd_U=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9014440-1605321098-8903.jpeg.jpg" data-tags="electropop, powerpop, electro indie, russian roulette, no cure1, red city pt2, from dreams to life, no cure, definition of fantabulous, you cant illustrate while you suffocate, for everything youve done, enjoy your stay isaac, no cure band" role="button">
 The Secret Handshake - My Name Up In Lights (2009-04-21)
+</li>
+<li data-cover="https://img.discogs.com/TjzFodf9TUFiDKioTlgKQhLJt0Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5360382-1391854528-1806.jpeg.jpg" data-tags="powerpop, pop-punk, neon pop, my top album" role="button">
+The Friday Night Boys - Off The Deep End (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)

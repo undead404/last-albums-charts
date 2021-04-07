@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T17:48:01.474Z
+date: 2021-04-07T19:21:01.393Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -98,6 +98,9 @@ Yellowcard - Ocean Avenue (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f5c0d54-e9fa-3957-ab67-4c30ddb53262/23390004827-500.jpg" data-tags="rock, pop punk" role="button">
+Sugarcult - Palm Trees and Power Lines (2004-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/841ec76f-f536-468d-b8ab-069923b4db17/15998647154-500.jpg" data-tags="pop punk, punk rock" role="button">
 New Found Glory - Catalyst (2004-05-18)
@@ -296,9 +299,6 @@ Four Year Strong - Enemy of the World (2010-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/26db9427-8483-406c-9a19-a88579c70cd4/15128576400-500.jpg" data-tags="pop punk" role="button">
 You Me at Six - Hold Me Down (2010-01-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b1ef682-bbd9-4389-b1ae-90bc4b15f5cb/9773916022-500.jpg" data-tags="pop punk" role="button">
-Motion City Soundtrack - My Dinosaur Life (2010-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - What Separates Me from You (2010-11-16)

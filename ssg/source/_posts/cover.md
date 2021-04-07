@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T08:36:01.427Z
+date: 2021-04-07T19:33:01.651Z
 title: "cover: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -27,7 +27,7 @@ Yo La Tengo - Fakebook (1990)
 <li data-cover="http://coverartarchive.org/release/98b7a796-0f0f-4319-8948-f250d14d6bbc/2800476658-500.jpg" data-tags="70s, classic rock, rock" role="button">
 Mott the Hoople - All The Young Dudes (1992)
 </li>
-<li data-cover="https://img.discogs.com/3nNxy1l1TqsMwYj2Xh-ESidYL4w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-473273-1428439620-5239.jpeg.jpg" data-tags="primus, cover" role="button">
+<li data-cover="https://img.discogs.com/Rz-DQHWxmq9Xs7962O5pgW_vl60=/fit-in/588x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101263-1296313118.jpeg.jpg" data-tags="primus, cover" role="button">
 Primus - Miscellaneous Debris (1992-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
@@ -36,7 +36,7 @@ Guns N' Roses - The Spaghetti Incident? (1993-11-21)
 <li data-cover="http://coverartarchive.org/release/9b1a6a6c-78e1-4262-9059-0d180b8dfa13/15738919203-500.jpg" data-tags="90s, covers, pop, female vocalists" role="button">
 Annie Lennox - Medusa (1995-03-08)
 </li>
-<li data-cover="https://img.discogs.com/joY58Aj9ODH23a6RpC16nm95MwA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10615555-1500995662-3063.jpeg.jpg" data-tags="cover, 90s, pop, new wave" role="button">
+<li data-cover="https://img.discogs.com/NOH3fwgIB26sE5mq2qLSTn-J1Es=/fit-in/490x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7938494-1452033938-5653.jpeg.jpg" data-tags="cover, 90s, pop, new wave" role="button">
 Duran Duran - Thank You (1995-03-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, female vocalists, cover" role="button">
@@ -93,7 +93,7 @@ Iced Earth - Tribute to the Gods (2001-11-26)
 <li data-cover="http://coverartarchive.org/release/47140ecd-72e3-4ef9-b523-3af3c4e3e9ef/2204544011-500.jpg" data-tags="country" role="button">
 Johnny Cash - American IV: The Man Comes Around (2002-11-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alt-country, rock" role="button">
+<li data-cover="https://img.discogs.com/ke5mv5j3Qr9m9GEBBC-a_zc-UYw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994709-1561738115-2240.jpeg.jpg" data-tags="alt-country, rock" role="button">
 Ryan Adams - Love Is Hell (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
@@ -123,10 +123,10 @@ Hellsongs - Hymns in the Key of 666 (2005)
 <li data-cover="https://img.discogs.com/uJAkravpA6GYyRtoqeEzAHmXLhE=/fit-in/180x184/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074934-1262549271.jpeg.jpg" data-tags="germany, german, hollywood, liebe, tanzen, sucht, micha, maat, nur mit dir, micha maat, der moment" role="button">
 Bosse - Kamikazeherz (2005-04-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swing, covers" role="button">
+<li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, cover, covers, covertown" role="button">
+<li data-cover="https://img.discogs.com/-C0G07Bfi9OI-kDCj1ikyvq0-1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-753035-1155288116.jpeg.jpg" data-tags="folk, cover, covers, covertown" role="button">
 Sun Kil Moon - Tiny Cities (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">
@@ -188,6 +188,9 @@ Cake - B-Sides and Rarities (2007-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/dccee35f-1660-4f40-8522-ffc6927ba1c7/2588215795-500.jpg" data-tags="electronica, cover, remix, getit" role="button">
 Gotye - Mixed Blood (2007-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/938a4f90-c248-4794-8ceb-e8e48b396cb0/8778440610-500.jpg" data-tags="cover" role="button">
+Jeffrey Lewis - 12 Crass Songs (2007-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/236a04ea-8349-4930-9647-186773164eb3/6655040734-500.jpg" data-tags="symphonic metal, cover, power metal" role="button">
 Northern Kings - Reborn (2007-10-29)
@@ -317,8 +320,5 @@ Us The Duo - Shake It Off (2014-09-23)
 </li>
 <li data-cover="https://img.discogs.com/C0phos8S4w71zv_Mx3ZIYDzu-P0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6995837-1431279126-3224.jpeg.jpg" data-tags="cover" role="button">
 The Flaming Lips - With a Little Help From My Fwends (2014-10-24)
-</li>
-<li data-cover="https://img.discogs.com/-CJI-9RJeEPzbuxKEp8VefjSt7Q=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2828551-1360103323-5548.jpeg.jpg" data-tags="covers" role="button">
-Deftones - Covers (2016-04-08)
 </li>
 </ol>
