@@ -1,15 +1,15 @@
 ---
-date: 2021-04-07T01:01:01.332Z
+date: 2021-04-07T22:58:01.426Z
 title: "totec radio: 100 albums you must listen to before you die"
 ---
 ![Justin Bieber - My World (2009-11-13)](http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg "Justin Bieber - My World (2009-11-13)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">Chumbawamba - Tubthumper (1997-08-25)</li>
-<li data-cover="http://coverartarchive.org/release/05364e0b-71b9-4c03-af45-57063529ee3a/16156281796-500.jpg" data-tags="electronica, trip-hop, downtempo, electro, catchy, driving, trip hop, synth-pop, visions, check this out, totec radio, artists who are lastfm users, angura kei, 2 s34rch, elektro target, psyhaus, pixies palace, chez musinum, central point, acquire, asot, coma, climax, fractal, the music maker society, ion b chill station, network, soundscapers, wantlist, aeo, eremuse - sgististj, eremuse - sgjstistj, autumn tapes, gling-gling, fondation, free mp3 artist radio, freelosophy, fd, antropological, atmospheres, driving on a summer night, drivingfast, algebraic, dxsfx, bengt, eyelid tones, chaotisch holistisch, archange08, cruto, 1106fh, rainforest music on your internet radio, qwerty101-dt, climat, yahshua, metamorphosis: brainchildliving sacrificecircle of dust, bahia oawi, ephesians, does allah have a penis, bluebellinbloom library, 1111fh, 19 rem 120803, mysticplaces, from fh library 120617, fh 12 gj, enos, rcg-d, adult swim bump, ag set 2 will angels light, artists who are lastfm user" role="button">Worm Is Green - Push Play (2005)</li>
+<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">Loreena McKennitt - The Book Of Secrets (1997-09-30)</li>
+<li data-cover="http://coverartarchive.org/release/8dffbc66-f0f4-3915-9515-ad910ef6a8db/21548035989-500.jpg" data-tags="totec radio" role="button">Rogue Wave - Publish My Love (2006-01-30)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, electro, dance-pop, synth pop, synthpop, chiptunes, totec radio, alternative-indie rock, new wave-post-punk revival, albums in my collection, liz enthusiasm" role="button">Freezepop - Future Future Future Perfect (2007-09-25)</li>
 <li data-cover="http://coverartarchive.org/release/b7ee5c2f-5741-4bf8-adec-fcefab02347a/22139629427-500.jpg" data-tags="indie, indie electro, totec radio, wikus, ds co, thenewpunk" role="button">Heartsrevolution - Switchblade EP (2008-04-21)</li>
-<li data-cover="http://coverartarchive.org/release/e535227a-a4aa-4062-9187-d5ab0d1384a2/6401618869-500.jpg" data-tags="new wave, britpop, totec radio" role="button">Orchestral Manoeuvres in the Dark - Messages: Greatest Hits (2008-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">Kasabian - Fire (2009-05-28)</li>
+<li data-cover="http://coverartarchive.org/release/5d40b88e-a452-40e2-9cd6-b8444f994f66/6636724539-500.jpg" data-tags="totec radio" role="button">Death Cab for Cutie - Meet Me On the Equinox (2009-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">Justin Bieber - My Worlds (2010-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/ca4bd939-c85e-466d-94ca-71c0ca9e263c/6892646373-500.jpg" data-tags="justin bieber" role="button">Justin Bieber - My World 2.0 (2010-03-23)</li>
@@ -21,224 +21,212 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/d6be7b74-e68b-4dfb-b24b-624115979948/17105004517-500.jpg" data-tags="classic rock" role="button">
+Elvis Presley - Jailhouse Rock (1957)
+</li>
+<li data-cover="http://coverartarchive.org/release/e8c1426d-b237-4b8a-a22b-820b807849d4/9523057681-500.jpg" data-tags="rock and roll, time-100" role="button">
+Little Richard - Little Richard (1958)
+</li>
+<li data-cover="http://coverartarchive.org/release/6da93804-cb6f-46da-9a76-ab0acf87953e/9498242118-500.jpg" data-tags="classic, mod" role="button">
+Small Faces - From the Beginning (1967-06)
+</li>
 <li data-cover="https://img.discogs.com/QuHQV7LM6dvPZAnjzVOc77o2UlU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13116777-1548348613-7143.jpeg.jpg" data-tags="soundtrack" role="button">
 Simon & Garfunkel - The Graduate (1968-02)
 </li>
-<li data-cover="https://img.discogs.com/sQHHN7DXseUc00GAZIg6WaUxNSo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-599254-1570094747-1832.jpeg.jpg" data-tags="progressive rock" role="button">
-Nektar - A Tab in the Ocean (1972)
+<li data-cover="http://coverartarchive.org/release/4c139edd-5b39-409c-a28a-aa077aa2f078/1276260096-500.jpg" data-tags="samba rock" role="button">
+Jorge Ben - A Tábua De Esmeralda (1974)
 </li>
-<li data-cover="https://img.discogs.com/hatiUBLJTEuL9AR5bik-CemmSqQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12549203-1537415519-8846.jpeg.jpg" data-tags="krautrock, yoga, totec radio" role="button">
-Popol Vuh - Yoga (1976)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk, totec radio" role="button">
-Japan - Japan (1982)
+<li data-cover="https://img.discogs.com/Y158l_KtIsAc3D8EtzERz1jeaPw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-318517-1210581252.jpeg.jpg" data-tags="totec radio, sun and moon and stars and outer space, bleep blop, ralbums" role="button">
+The Cosmic Jokers - Planeten Sit-in (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a3f67ef-1468-4ecb-8616-1eb4baf4b2f7/21099374456-500.jpg" data-tags="japanese, emo, anime, j-pop, hipster, comedy, visual kei, achingly intelligent, folklore intellectuel, not darkwave, not experimental, not epic, poptron, hipsterish, not art pop, pooptron, pop, 80s, female vocalists, dark, gothic metal, humour, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, seiyuu, lolicore, totec radio, miami bass, idol, racist, homosexual intifada, anison, virally yours, not gothic, hino, church of satan, idol pop" role="button">
 Diamanda Galás - The Litanies of Satan (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ca7d50c-e4c6-39d7-bdeb-2fa08fbc067d/20381122061-500.jpg" data-tags="experimental, dub, totec radio" role="button">
-African Head Charge - Environmental Studies (1982-09)
+<li data-cover="http://coverartarchive.org/release/69e9d478-2cc1-4574-857a-9298f315c3da/9384947846-500.jpg" data-tags="totec radio, mojo 1000, mojo 1000 soul" role="button">
+Booker T. & the MG's - The Best of Booker T. & the MG's (1984)
 </li>
-<li data-cover="https://img.discogs.com/5bRuKHmJWzvCIRhfiGCZLerReb8=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1129812-1453976281-6827.jpeg.jpg" data-tags="punk, aggressive, anarcho-punk, hardcore punk, totec radio, british punk, anarchist punk, steveadams fm, steveadamsfm, belligerent" role="button">
-Conflict - It's Time to See Who's Who (1983-03)
+<li data-cover="https://img.discogs.com/gUa8x32XU2iO6Lq6_bx18W6PuWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-585309-1143485487.jpeg.jpg" data-tags="80s" role="button">
+Lionel Richie - Dancing On The Ceiling (1985)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, dub, totec radio" role="button">
-African Head Charge - Drastic Season (1983-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e7d10f8-42a7-4e3f-bb7d-b185fe6358a7/13517918882-500.jpg" data-tags="japanese, anime, j-pop, visual kei, folklore intellectuel, poptron, noise, emo, hipster, hino, pooptron, hipsterish, not art pop, pop, dark, jpop, crunk, comedy, gothic metal, humour, korean, k-pop, gothic rock, symphonic metal, j-rock, power metal, post-revolutionary pop song, shitty, jrock, meme, lolicore, shite, totec radio, miami bass, idol, achingly intelligent, homosexual intifada, anison, virally yours, crappy, not gothic, unimaginative, not darkwave, not experimental, idol pop" role="button">
-Diamanda Galás - Diamanda Galás (1984)
-</li>
-<li data-cover="https://img.discogs.com/8SV6ZrvKd_zEGGcBQE_UJYeo-iA=/fit-in/452x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-488204-1378515424-5264.jpeg.jpg" data-tags="punk, anarcho-punk, totec radio, bollix" role="button">
-Conflict - Increase the Pressure (1984-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/740f7bb1-26ef-4942-ae5c-5739be25c214/1855377170-500.jpg" data-tags="neil diamond" role="button">
-Neil Diamond - His Very Best (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/64e6a9bd-1e26-4309-b871-f16ff169cf2a/26542189638-500.jpg" data-tags="reggae, totec radio" role="button">
-Dub Syndicate - Tunes From The Missing Channel (1985)
+<li data-cover="http://coverartarchive.org/release/681d32f9-1174-45a5-a24f-070566119aba/14582118471-500.jpg" data-tags="tangerine dream" role="button">
+Tangerine Dream - Dream Sequence (1985-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/09fa6f4a-c38d-4233-8231-5878ec5005d8/21137988505-500.jpg" data-tags="japanese, anime, j-pop, visual kei, folklore intellectuel, poptron, emo, hipster, art pop, pooptron, dark, gothic metal, artpop, hipsterish, not art pop, black metal, pop, jpop, comedy, humour, korean, k-pop, gothic rock, symphonic metal, j-rock, power metal, post-revolutionary pop song, shitty, jrock, meme, lolicore, shite, totec radio, miami bass, idol, achingly intelligent, homosexual intifada, anison, virally yours, crappy, not gothic, unimaginative, hino, not darkwave, not experimental, misunderstood geniuses, idol pop" role="button">
 Diamanda Galás - The Divine Punishment (1986-06-30)
 </li>
-<li data-cover="https://img.discogs.com/Np-h0GNS76wetm4Quh_kpBxzd8w=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259945-1331590477.jpeg.jpg" data-tags="punk rock, anarcho-punk, totec radio" role="button">
-Conflict - Turning Rebellion Into Money (1987)
-</li>
-<li data-cover="https://img.discogs.com/PFHC8H_dcNEu-1y8JU7x8NCuLjI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368494-1104511507.jpg.jpg" data-tags="reggae, roots reggae, totec radio, ladyjan" role="button">
-Jah Shaka - The Disciples (1988)
-</li>
-<li data-cover="https://img.discogs.com/r5LZNqjnSwQAtCI3MU-VlAXVkbI=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-316167-1520868880-4390.jpeg.jpg" data-tags="hipster, folklore intellectuel, japanese, emo, anime, j-pop, visual kei, not gothic, not experimental, poptron, pooptron, pop, dark, comedy, gothic metal, humour, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, lolicore, totec radio, achingly intelligent, homosexual intifada, virally yours, hino, not darkwave, horny voice, hipsterish, amatue, not art pop, all boobs and no brains, miami bass, artpop, art pop, not epic, unsexy, porco dio, post-barneycore" role="button">
-Diamanda Galás - Masque of the Red Death (1988-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/706dfef8-af91-416a-9055-7d43e91ea0b0/6766882282-500.jpg" data-tags="dub, psychedelic, totec radio" role="button">
-African Head Charge - Great Vintage, Volume 2 (1989)
+<li data-cover="https://img.discogs.com/yvW_styeZTTZYaIXwp8vOITabOo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194928-1142030625.jpeg.jpg" data-tags="industrial rock, kmfdm" role="button">
+KMFDM - Don't Blow Your Top (1988-01)
 </li>
 <li data-cover="https://img.discogs.com/Lbpu68IOzpVePgAOYv5scI0iXLU=/fit-in/591x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528268-1333988334.jpeg.jpg" data-tags="alternative, british invasion, totec radio, rpc band" role="button">
 The Animals - House of the Rising Sun (1989)
 </li>
+<li data-cover="https://img.discogs.com/p7Ah1osJQLMI8AUX8G_CQgkOqE8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065300-1501518048-5165.jpeg.jpg" data-tags="rock, indie" role="button">
+Pixies - Here Comes Your Man (1989-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/96738581-b059-48ca-ab60-7d6a71c4ffcc/17671355589-500.jpg" data-tags="rock, brazilian rock" role="button">
 Legião Urbana - As Quatro Estações (1989-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9b02d09-55f7-49d7-b520-8e6b0e842b3e/19168243858-500.jpg" data-tags="experimental, harsh noise, japanoise, totec radio, over twenty minutes" role="button">
-Merzbow - Rainbow Electronics (1990)
+<li data-cover="https://img.discogs.com/f0_mZrjWff9-E6MR_hMS9B-CHmA=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3876193-1466764103-2494.jpeg.jpg" data-tags="90s, rock-etc" role="button">
+Dinosaur Jr. - Fossils (1991)
+</li>
+<li data-cover="https://img.discogs.com/_MOddIQ0aNQi6L1sLig8RbY6_jI=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5855437-1405510790-7817.jpeg.jpg" data-tags="alternative" role="button">
+Red Hot Chili Peppers - Under the Bridge (1991)
 </li>
 <li data-cover="https://img.discogs.com/jKQngH0u0B6oJ5BnYPJSXk5hbB8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-395913-1613946678-1455.jpeg.jpg" data-tags="pop, anime, hipster, japanese, female vocalists, j-pop, emo, comedy, meme, lolicore, folklore intellectuel, amatue, dark, symphonic metal, power metal, achingly intelligent, hino, not experimental, satanic pop, horny voice, very intelligent lyrics, gothic metal, humour, gothic rock, post-revolutionary pop song, visual kei, not music, homosexual intifada, virally yours, not darkwave, poptron, jpop, anison, not gothic, misunderstood geniuses, evil, art pop, satanic metal, spam, bland, totec radio, fail, worst song ever" role="button">
 Diamanda Galás - Plague Mass (1991-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/98bb8e49-446c-4511-bd91-a943d8fbd563/20380975078-500.jpg" data-tags="reggae, experimental, dub, totec radio" role="button">
-African Head Charge - Pride and Joy: Live (1991-11-05)
+<li data-cover="http://coverartarchive.org/release/14b5483c-0210-4a84-ad38-030d2c89c25d/15000059781-500.jpg" data-tags="post-rock, experimental rock, alternative metal, funny, amusing, totec radio, in the witch house family, trollcore, shit but who cares, nelson scott" role="button">
+Melvins - Prick (1994-08-05)
 </li>
-<li data-cover="https://img.discogs.com/J5E0ROZNxEc_hC1Wb_zH5Y25geo=/fit-in/400x176/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6126959-1411737618-9401.jpeg.jpg" data-tags="rock, totec radio, paredes de coura 2007" role="button">
-Sonic Youth - 100% (1992-07)
+<li data-cover="https://via.placeholder.com/450" data-tags="female voices, singles i own, flap" role="button">
+Björk - Hyperballad (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/e38273c1-8239-48d3-97e0-531fc3bd5215/24702730018-500.jpg" data-tags="japanese, anime, j-pop, emo, visual kei, hipster, folklore intellectuel, poptron, pooptron, comedy, idol, artpop, art pop, achingly intelligent, anison, not darkwave, not experimental, idol pop, acg, hipsterish, not art pop, black metal, pop, dark, jpop, gothic metal, humour, korean, k-pop, gothic rock, symphonic metal, j-rock, power metal, post-revolutionary pop song, shitty, jrock, meme, lolicore, shite, totec radio, miami bass, racist, homosexual intifada, virally yours, crappy, not gothic, unimaginative, hino" role="button">
-Diamanda Galás - Vena Cava (1993-09-07)
+<li data-cover="http://coverartarchive.org/release/a4dca904-55fb-4358-80b1-51e3053d18c4/6212791099-500.jpg" data-tags="rock, live, steely dan" role="button">
+Steely Dan - Alive in America (1995-10-17)
 </li>
-<li data-cover="https://img.discogs.com/6AxD88LUFvX7Oana0hr4UFmyHqk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-47127-1277141891.jpeg.jpg" data-tags="electronic, ambient, totec radio" role="button">
-Sun Electric - Kitchen (1993-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/f6bfb372-96db-4828-8d8c-0dee28047ec3/24515187458-500.jpg" data-tags="reggae, totec radio" role="button">
-Dub Syndicate - Classic Selection, Volume 3 (1994)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae, totec radio" role="button">
-African Head Charge - Touch I (1994-11)
-</li>
-<li data-cover="https://img.discogs.com/w8dmMAAYC2Mm4HKfVzabKVY7gho=/fit-in/600x284/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12924652-1585033242-7914.jpeg.jpg" data-tags="grindcore" role="button">
-Anal Cunt - 40 More Reasons To Hate Us (1996)
+<li data-cover="http://coverartarchive.org/release/159be40b-3d93-481e-9b8b-d8786364d97c/1682071566-500.jpg" data-tags="brazilectro, favouritestreamablealbums" role="button">
+Rinôçérôse - Retrospective (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
 The Cure - Wild Mood Swings (1996-05-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="techno, totec radio, 12-inch" role="button">
-Dave Clarke - No One's Driving (1996-06-03)
-</li>
-<li data-cover="https://img.discogs.com/_v3fsqpTq3gB-etxTZ57r6uCUo4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7216277-1436372974-6641.jpeg.jpg" data-tags="hipster, japanese, emo, anime, j-pop, visual kei, meme, folklore intellectuel, pop, poptron, amatue, comedy, gothic metal, humour, gothic rock, symphonic metal, power metal, spam, not gothic, not darkwave, not experimental, dark, post-revolutionary pop song, spammers, lolicore, totec radio, achingly intelligent, spammer, spamcore, homosexual intifada, virally yours, horny voice, not art pop, shite, not music, hino, bore, emocore, bland, art pop, uninteresting, very intelligent lyrics, i should kill myself for listening to this, mag es von hinten, pseudogoth, not art, i hate myself for listening to this" role="button">
-Diamanda Galás - Schrei x (1996-09-23)
-</li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
 </li>
-<li data-cover="https://img.discogs.com/lxAVfgkRaZjAG63jPrd9IGXpn9E=/fit-in/600x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7983969-1452924725-1484.jpeg.jpg" data-tags="powerviolence" role="button">
-Capitalist Casualties - Capitalist Casualties (1997)
+<li data-cover="http://coverartarchive.org/release/5b4734c3-a497-49d3-9647-171b0d1d931e/17112905630-500.jpg" data-tags="jazz" role="button">
+Julie London - Cry Me a River (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb9b6777-1b7c-4b50-93d3-a278ef0b9cd0/21908060459-500.jpg" data-tags="japanese, anime, j-pop, visual kei, folklore intellectuel, poptron, pop, emo, dark, comedy, gothic metal, humour, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, lolicore, totec radio, hipster, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, horny voice, amatue, misogyny, not epic, porco dio, hipsterish, post-barneycore, all boobs and no brains, artpop, art pop, hino, jpop, korean, k-pop" role="button">
 GG Allin - Freaks, Faggots, Drunks & Junkies (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/b659587c-dec6-45c2-a7e8-4f4416b74325/26709707847-500.jpg" data-tags="britpop, totec radio, setanta records, czalbums, allmusicc" role="button">
-Edwyn Collins - I'm Not Following You (1997)
+<li data-cover="http://coverartarchive.org/release/fdf4bdfc-1cc1-4b99-b520-410e15ccdec3/5983831339-500.jpg" data-tags="60s" role="button">
+Marvin Gaye - I Heard It Through The Grapevine (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/e102b0dc-41dc-4640-b922-6553b92a85ed/7619982413-500.jpg" data-tags="totec radio, dmtr likes this album, bums bums" role="button">
+Flux of Pink Indians - Not So Brave (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/489fdb01-dd35-42cc-bb43-8ade3d419a70/17539011387-500.jpg" data-tags="totec radio, m man" role="button">
+Manfred Mann - The Very Best Of The Fontana Years (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/7aa940e5-6128-4ed1-9d89-86458a1b5ec6/8008267577-500.jpg" data-tags="punk, alternative metal" role="button">
+Sugar Ray - Floored (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">
 Chumbawamba - Tubthumper (1997-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/53b95fb4-1547-3814-9d84-bcdc96fef7fc/15459862547-500.jpg" data-tags="90s, guitarist, totec radio, male singer songwriter, robbie robertson, native rock, canadian musician, native american artist, tribe-hop" role="button">
-Robbie Robertson - Contact From The Underworld Of Redboy (1998)
+<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
+Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
-<li data-cover="https://img.discogs.com/0kdH9367EpbagTWVtU2MCxmFeVI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832630-1424075819-3321.jpeg.jpg" data-tags="japanese, emo, anime, j-pop, visual kei, art pop, folklore intellectuel, poptron, comedy, humour, lolicore, hipster, hipsterish, not art pop, pooptron, pop, dark, gothic metal, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, totec radio, artpop, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, not epic, horny voice, amatue, post-barneycore, all boobs and no brains, miami bass, hino" role="button">
+<li data-cover="https://img.discogs.com/5LgO6iTOQHTXb7QJlKZr91wqPmQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267728-1423920050-8612.jpeg.jpg" data-tags="japanese, emo, anime, j-pop, visual kei, art pop, folklore intellectuel, poptron, comedy, humour, lolicore, hipster, hipsterish, not art pop, pooptron, pop, dark, gothic metal, gothic rock, symphonic metal, power metal, post-revolutionary pop song, meme, totec radio, artpop, achingly intelligent, homosexual intifada, virally yours, not gothic, not darkwave, not experimental, not epic, horny voice, amatue, post-barneycore, all boobs and no brains, miami bass, hino" role="button">
 GG Allin - Hated in the Nation (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/47ae3160-8d12-452a-88f6-750b8217e664/5070730667-500.jpg" data-tags="punk, totec radio" role="button">
-Suggs - The Three Pyramids Club (1998)
+<li data-cover="http://coverartarchive.org/release/23ff4315-ccce-440d-9711-3f82daf14d70/8147555706-500.jpg" data-tags="ambient, psychedelic" role="button">
+Celtic Cross - Hicksville (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/63823920-c294-413c-ae6d-838f65b28d36/29012748243-500.jpg" data-tags="reggae, on-u, on-u sound, totec radio, on-u-sound" role="button">
-Dub Syndicate - Mellow & Colly (1998-05-29)
+<li data-cover="http://coverartarchive.org/release/42d7bc44-ff89-41bc-b667-af865cb60a53/7743077647-500.jpg" data-tags="totec radio" role="button">
+Ben E. King - The Very Best of Ben E. King (1998-02-03)
 </li>
 <li data-cover="https://img.discogs.com/w5GatlLEp5HkpWboyaC7oCJS8b4=/fit-in/600x284/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12924638-1585032115-3161.jpeg.jpg" data-tags="totec radio, acoustic" role="button">
 Anal Cunt - Picnic of Love (1998-07-21)
 </li>
-<li data-cover="https://img.discogs.com/pexnYbSCbBtJVw9I0iDreH9Ir68=/fit-in/600x284/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12924679-1585033091-6272.jpeg.jpg" data-tags="grindcore" role="button">
-Anal Cunt - It Just Gets Worse (1999)
+<li data-cover="http://coverartarchive.org/release/43a4e614-562d-4fd6-8693-df11aa8c06bc/15905929940-500.jpg" data-tags="rock, alternative rock, summer" role="button">
+Sugar Ray - 14:59 (1999-01-12)
 </li>
-<li data-cover="https://img.discogs.com/9uPIpQY6IpTbN7bj3Z4WB3krkGw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6186776-1413219106-6386.jpeg.jpg" data-tags="japanese, comedy, anime, j-pop, folklore intellectuel, dark, humour, gothic rock, meme, hipster, achingly intelligent, poptron, gothic metal, post-revolutionary pop song, lolicore, homosexual intifada, virally yours, hino, horny voice, amatue, satanic pop, very intelligent lyrics, power metal, satanic metal, symphonic metal, evil, art pop, not experimental, misunderstood geniuses, pop, epic, youtube, italian, italian pop, not darkwave, satanic rock, gothic, pink floyd, the beatles, must listen, horny, badass, art, led zeppelin, indie metal, dark pop, gothic pop, utter brilliance, 4chan, italian metal, criminally underrated, comedy metal, aoty, must check, italian darkwave, sexy vocalists" role="button">
-Richard Benson - Madre Tortura (1999)
+<li data-cover="http://coverartarchive.org/release/a1db4482-c059-4160-aa59-ce07dfb46ac8/2261986729-500.jpg" data-tags="indie, indie pop, 90s, kevin spacey, albums 1999" role="button">
+Dressy Bessy - Pink Hearts Yellow Moons (1999-09-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, music, totec radio" role="button">
-Smash Mouth - All Star (1999-07-19)
-</li>
-<li data-cover="https://img.discogs.com/sjK8x11r8sj5-LgZ2wk3JJ9fdvQ=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347597-1162125214.jpeg.jpg" data-tags="instrumental, alternative, like, politics, media, jack, fred, identity, richard, andy, david, ralph, trump, scott, totec radio, bipolar, klaus, anal, stevie, is, king, vic, jihad, walter, fecal, zach, and, without, maurice, doug, tylenol, infantile, quentin, spencer, timmy, eats, donald, percy, xander, norbert, olaf, bernard, knee, grabber, gabby, horace, fahtah, islam jihad, richard spencer, knee-jerk, baby killers, heckfire and tarnation, unknown tongue, the ministry of hate, abortion and homosexuality and pornography, you are a bad person, alt-right, muthufuka, moyer, david scott, scott moyer, farbel, farbelism, jerk-knee, identity politics, cock on the loose, without function, laddy, ualtar, yaegar" role="button">
-Hagalaz' Runedance - Urd - That Which Was (1999-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/40ecb425-099a-3ff6-ba5f-0a9edd0c10d0/5908654515-500.jpg" data-tags="totec radio, anacho" role="button">
-Sin Dios - Ingobernables (2000)
+<li data-cover="https://img.discogs.com/3z9yVWAeLprBSUGDe2kut8ANkNw=/fit-in/599x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10059016-1490900079-2212.jpeg.jpg" data-tags="rock" role="button">
+Legião Urbana - Acústico MTV (1999-10)
 </li>
 <li data-cover="https://img.discogs.com/WYkj2tspEVEgdplchcpOA-X-RMY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5823315-1461148755-1087.jpeg.jpg" data-tags="electronica, progressive, progressive trance, totec radio, last.fm, share, antiloop, fastlane people, electronicmusic, 2wave-lab, inomarka, inomarka966" role="button">
 Antiloop - Fastlane People (2000-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/90bd8b29-5423-4888-a7dc-35af565e133c/27365541658-500.jpg" data-tags="pop, female vocalists, totec radio" role="button">
-Carpenters - As Time Goes By (2001)
+<li data-cover="http://coverartarchive.org/release/bd08060d-bfe3-4ece-845f-6417e4adbc41/14104113696-500.jpg" data-tags="chillout, electronic dance" role="button">
+Spiller - Groovejet (If This Ain't Love) (2000-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7858ce9-7004-4c6e-8546-e50fc1d62123/12588842035-500.jpg" data-tags="reggae" role="button">
+Burning Spear - Best of the Fittest (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/09df4f7e-2ffa-4435-9603-d7e65b5d3a05/1558258671-500.jpg" data-tags="totec radio, grindcore" role="button">
 Anal Cunt - Defenders of the Hate (2001)
 </li>
-<li data-cover="https://img.discogs.com/Wr5lIRD5XTFtch2TJ35Gm_XFwnQ=/fit-in/300x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-47333-002.jpg.jpg" data-tags="electronic, electronica, dance, house, totec radio, funkysex, gvadeloopp fm" role="button">
-Timo Maas - To Get Down (2001)
-</li>
-<li data-cover="https://img.discogs.com/EASrwd78cQjdb2xHpxXwkb-mKVw=/fit-in/598x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-923614-1283612507.jpeg.jpg" data-tags="totec radio, death'n'roll" role="button">
-Nine - Lights out (2001-03-12)
+<li data-cover="https://img.discogs.com/ov0m_0zgui0vVmn_eCzY51s4UK4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2274795-1467127783-9317.jpeg.jpg" data-tags="mpb" role="button">
+Adriana Calcanhotto - Perfil (2001)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, british, alternative, totec radio, kot" role="button">
 Basement Jaxx - Where's Your Head At (2001-11-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/c6104dbb-0c2c-429e-8154-27f05239fb74/2536164994-500.jpg" data-tags="ethereal, folk, art pop, pop, female vocalists, gothic, gothic metal, fantasy, dark pop, gothic pop" role="button">
-Louisa John-Krol - Ariel (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb0d9ef2-2c19-4e8f-9b1f-9d6c44d0b480/1793860951-500.jpg" data-tags="black metal" role="button">
 Inquisition - Invoking the Majestic Throne of Satan (2002)
 </li>
-<li data-cover="https://img.discogs.com/_Uxw3cIcd58PP5QPyWSZvOXM5dY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2224946-1335689037.jpeg.jpg" data-tags="punk, totec radio, sparkbums" role="button">
-Sin Dios - Odio al imperio (2002)
+<li data-cover="https://img.discogs.com/OKrDD2Rw1GQuPzmraSYDvWiYpOQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1355158-1421994531-7646.jpeg.jpg" data-tags="electronic" role="button">
+Kinky - Kinky (2002-03-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, totec radio, czalbums, allmusicc" role="button">
-Edwyn Collins - Doctor Syntax (2002-04-29)
+<li data-cover="https://img.discogs.com/w_41yt9JalnUeqGSfMVqREOnNMo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9190587-1476371512-3065.jpeg.jpg" data-tags="jungle, asian underground, totec radio, psybient, indian fusion, postcolonial" role="button">
+Midival Punditz - MIDIval PunditZ (2002-10-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="noise, totec radio" role="button">
-Merzbow - Cycle (2003-06-30)
+<li data-cover="http://coverartarchive.org/release/492b42f9-e583-4dda-ae2d-b7ac8cc9fe52/15475485304-500.jpg" data-tags="totec radio" role="button">
+The Animals - A's B's & EP's (2003)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, dub, totec radio, sweet strange music, shrunken head, dmtr likes this album" role="button">
-African Head Charge - Shrunken Head (2003-06-30)
+<li data-cover="http://coverartarchive.org/release/47bf6ce7-1f8f-48c0-bf10-adee94fdee82/8214312330-500.jpg" data-tags="soul, disco, barry white" role="button">
+Barry White - Love Songs (2003-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/a7de006a-703f-44fa-b9f3-5074c39ce039/10870013036-500.jpg" data-tags="drum and bass, jungle, jump up, dnb, totec radio, ragga jungle, electronic breakbeat, murder and suicide" role="button">
-Remarc - Sound Murderer (2003-09-29)
+<li data-cover="http://coverartarchive.org/release/07719be7-6f9e-4b05-aad7-c4aeaadd2072/9600416970-500.jpg" data-tags="totec radio, screwed, allmusicb, allmusicf" role="button">
+Frayser Boy - Gone On That Bay (2003-08-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/131032e8-de9e-4df6-80ff-c799178299b5/20424734760-500.jpg" data-tags="rock, irish, celtic, celtic rock, totec radio" role="button">
-Neck - Here's Mud In Yer Eye! (2004)
+<li data-cover="http://coverartarchive.org/release/7a357e95-6a7d-45a0-8cf8-6eafc4839f36/3246894491-500.jpg" data-tags="elektronic beats, check this out, totec radio, elektro target, psyhaus, pixies palace, chez musinum, central point, sleep music, fractal, the music maker society, ion b chill station, network, soundscapers, aeo, eremuse - sgististj, eremuse - sgjstistj, independent artists, free mp3 artist radio, freelosophy, fd, algebraic, eyelid tones, rainforest music on your internet radio, yahshua, metamorphosis: brainchildliving sacrificecircle of dust, ephesians, does allah have a penis, mysticplaces, enos, artists who are lastfm user" role="button">
+Ten Madison - From Lust to Dust (2003-10-27)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
+M-Seven - activate (2003-12-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/539ee4cb-0293-3f33-985c-afb86421e5fb/8667691720-500.jpg" data-tags="underground hip-hop" role="button">
+Eyedea & Abilities - E&A (2004-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d18f483d-c501-473c-9c55-8db59e268e4e/23329742994-500.jpg" data-tags="so good, the brazilian hipster" role="button">
 Fort Knox Five - The Brazilian Hipster (2004-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="male vocalists, totec radio, hairy chest, hunks" role="button">
-Laurent Korcia - Danses (2004-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/ee94518e-710c-40c2-ace0-78a25bdb968e/20767267379-500.jpg" data-tags="reggae, totec radio" role="button">
-Dub Syndicate - Pure Thrillseekers (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/05364e0b-71b9-4c03-af45-57063529ee3a/16156281796-500.jpg" data-tags="electronica, trip-hop, downtempo, electro, catchy, driving, trip hop, synth-pop, visions, check this out, totec radio, artists who are lastfm users, angura kei, 2 s34rch, elektro target, psyhaus, pixies palace, chez musinum, central point, acquire, asot, coma, climax, fractal, the music maker society, ion b chill station, network, soundscapers, wantlist, aeo, eremuse - sgististj, eremuse - sgjstistj, autumn tapes, gling-gling, fondation, free mp3 artist radio, freelosophy, fd, antropological, atmospheres, driving on a summer night, drivingfast, algebraic, dxsfx, bengt, eyelid tones, chaotisch holistisch, archange08, cruto, 1106fh, rainforest music on your internet radio, qwerty101-dt, climat, yahshua, metamorphosis: brainchildliving sacrificecircle of dust, bahia oawi, ephesians, does allah have a penis, bluebellinbloom library, 1111fh, 19 rem 120803, mysticplaces, from fh library 120617, fh 12 gj, enos, rcg-d, adult swim bump, ag set 2 will angels light, artists who are lastfm user" role="button">
+<li data-cover="http://coverartarchive.org/release/05364e0b-71b9-4c03-af45-57063529ee3a/16156281796-500.jpg" data-tags="electronica, trip-hop, downtempo, electro, driving, trip hop, synth-pop, visions, check this out, totec radio, artists who are lastfm users, angura kei, 2 s34rch, elektro target, psyhaus, pixies palace, chez musinum, central point, acquire, asot, coma, climax, fractal, the music maker society, ion b chill station, network, soundscapers, wantlist, aeo, eremuse - sgististj, eremuse - sgjstistj, autumn tapes, gling-gling, fondation, free mp3 artist radio, freelosophy, antropological, atmospheres, driving on a summer night, drivingfast, algebraic, dxsfx, bengt, eyelid tones, chaotisch holistisch, archange08, cruto, 1106fh, rainforest music on your internet radio, qwerty101-dt, climat, yahshua, metamorphosis: brainchildliving sacrificecircle of dust, bahia oawi, ephesians, does allah have a penis, bluebellinbloom library, 1111fh, 19 rem 120803, mysticplaces, from fh library 120617, fh 12 gj, enos, rcg-d, adult swim bump, ag set 2 will angels light, artists who are lastfm user" role="button">
 Worm Is Green - Push Play (2005)
 </li>
 <li data-cover="https://img.discogs.com/1phX6dFQrDl6PNu4ADLuIjQ1tAc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993170-1321796937.jpeg.jpg" data-tags="electronic, electronica, dance, house, totec radio, funkysex, gvadeloopp fm" role="button">
 Timo Maas - First Day (2005-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/a3ede7ea-d634-4df1-9316-3d6def119bb5/15355889459-500.jpg" data-tags="rock, da shit" role="button">
+Sean Price - Monkey Barz (2005-05-31)
+</li>
+<li data-cover="https://img.discogs.com/YomW6vZcLjtiRQxmVQLvfgVIKlY=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5692220-1400075704-9012.jpeg.jpg" data-tags="electronic, electro, dance, house" role="button">
+Timo Maas - Pictures (2005-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/f5ff01a8-3590-42e1-8581-8a144c410b4f/10138520058-500.jpg" data-tags="black metal" role="button">
 Satanic Warmaster - Carelian Satanist Madness (2005-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/44157bc0-61dc-4abe-b5da-69f4ce8a0da2/10619449129-500.jpg" data-tags="ethereal, folk, dream folk, world fusion, experimental, epic, world, medieval, darkwave, gothic, avant-garde, classical, neoclassical darkwave, art pop, dream pop, neofolk" role="button">
-志方あきこ - Navigatoria (2005-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a69351c-54cc-49c2-ad6b-9f5961a09098/28637471714-500.jpg" data-tags="rock, 70s, progressive rock, totec radio" role="button">
 Supertramp - Retrospectacle: The Supertramp Anthology (2005-10-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/48945f40-9a50-450d-b053-f3ff5376c5d2/2802479297-500.jpg" data-tags="hip hop" role="button">
+DJ Rectangle - Fear and Loathing (2006-01-20)
+</li>
 <li data-cover="https://img.discogs.com/MqcwGwndyMuPGcNa1fnwmuNTJjI=/fit-in/530x447/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169472-1141848342.jpeg.jpg" data-tags="hip hop, p-funk, hell" role="button">
 Digital Underground - Playwutchyalike: The Best Of Digital Underground (2006-01-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae, dub, totec radio" role="button">
-Dub Syndicate - The Rasta Far I (2006-05-15)
+<li data-cover="http://coverartarchive.org/release/8dffbc66-f0f4-3915-9515-ad910ef6a8db/21548035989-500.jpg" data-tags="totec radio" role="button">
+Rogue Wave - Publish My Love (2006-01-30)
+</li>
+<li data-cover="https://img.discogs.com/uQC9YGwzQ2BymVhmEnst4xHhY1Q=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-280924-1353315609-2007.jpeg.jpg" data-tags="new wave, electronic, pop, synthpop" role="button">
+Pet Shop Boys - Fundamental (2006-05-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="experimental, amn 2006, favorite albums of 2006" role="button">
+Planningtorock - Have It All (2006-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0554e45f-09d8-4d47-97c9-8214ac8e437e/14781463643-500.jpg" data-tags="steely dan, voulez voulez voulez vous, steely dan-the definitive collection" role="button">
 Steely Dan - The Definitive Collection (2006-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/918093d4-dac0-4628-bc3a-8df809888f1d/16162021360-500.jpg" data-tags="modern classical, contemporary classical, minimalism, neo-classical, neoclassical, post-classical" role="button">
-Goldmund - The Heart of High Places (2006-10-02)
+<li data-cover="https://img.discogs.com/1sXu1ZMgIIlU7fEJUEbXcb7vqpQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1395670-1278944005.jpeg.jpg" data-tags="totec radio" role="button">
+Herman Düne - I Wish That I Could See You Soon (2007-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/f9bdf418-8fa8-4269-ae37-a0f447f91805/28352648825-500.jpg" data-tags="electronica, dance, techno, idm, totec radio, a mental attack" role="button">
-The Black Dog - Book Of Dogma (2007-03-19)
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
+Klaxons - It's Not Over Yet (2007-06-25)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, rock, experimental, totec radio, geffen records, nice bule" role="button">
 Rooney - When Did Your Heart Go Missing? (2007-09-03)
@@ -246,17 +234,26 @@ Rooney - When Did Your Heart Go Missing? (2007-09-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, electro, dance-pop, synth pop, synthpop, chiptunes, totec radio, alternative-indie rock, new wave-post-punk revival, albums in my collection, liz enthusiasm" role="button">
 Freezepop - Future Future Future Perfect (2007-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2eebe56-7cdf-45c6-85c0-82e6ccb63573/11937339940-500.jpg" data-tags="usa, american, ohio, check later, american artist, us, midwest, america, united states, from: usa, check this out, totec radio, angura kei, 2 s34rch, elektro target, xspf2tag, psyhaus, pixies palace, chez musinum, central point, acquire, sleep music, asot, fractal, us indie, the music maker society, ion b chill station, network, knight, soundscapers, usa indie, usa usa usa, aeo, eremuse - sgististj, eremuse - sgjstistj, independent artists, american brilliance, american indie, usa artists, us independent, us-american, american style, free mp3 artist radio, freelosophy, american dream, american oi, i downloaded, american life, fd, usa music, us american, vokal, driving on a summer night, country: usa, usa underground, algebraic, tantotempo-10 out of 10, dxsfx, spanner, indie usa, eyelid tones, archange08, flowmotion, rainforest music on your internet radio, yahshua, metamorphosis: brainchildliving sacrificecircle of dust, bahia oawi, ephesians, does allah have a penis, bluebellinbloom library, 1111fh, 19 rem 120803, mysticplaces, amercian artists, from usa, knight angel, from: america, fh 12 gj, enos, artists who are lastfm user" role="button">
-Mind Soup - Love Songs For Gifted Children (2007-10-10)
+<li data-cover="http://coverartarchive.org/release/6c0b8efa-8e4e-4960-af8d-23c9a15e2b5d/28669059525-500.jpg" data-tags="lounge, house" role="button">
+Samantha James - Rise (2007-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/db0f92c2-1859-44cd-9214-273681f3c35f/16084347285-500.jpg" data-tags="neofolk" role="button">
-Death in June - The Rule Of Thirds (2008-03-17)
+<li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
+Blue Stahli - Antisleep Vol. 01 (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7ee5c2f-5741-4bf8-adec-fcefab02347a/22139629427-500.jpg" data-tags="indie, indie electro, totec radio, wikus, ds co, thenewpunk" role="button">
 Heartsrevolution - Switchblade EP (2008-04-21)
 </li>
+<li data-cover="https://img.discogs.com/c5SQtBu2BJn85EKFeNhl6q8gVOs=/fit-in/586x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2348234-1343823622-6816.jpeg.jpg" data-tags="electronic, hollyoaks, sunsead" role="button">
+Does It Offend You, Yeah? - Epic Last Song (2008-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/00afba30-e707-41d4-8788-303a714dfb4f/14753957201-500.jpg" data-tags="rock, new wave" role="button">
+Billy Idol - The Very Best Of Billy Idol: Idolize Yourself (2008-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/04dbe7bc-f54e-48d4-96c0-8f8281a70581/22192116137-500.jpg" data-tags="ambient, 00s, totec radio, dekorder" role="button">
 Machinefabriek - Dauw (2008-07-28)
+</li>
+<li data-cover="https://img.discogs.com/qXZWBmDXUFYCEzdyhGOmrmDsUmw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1438940-1219775763.jpeg.jpg" data-tags="electronic" role="button">
+Does It Offend You, Yeah? - Dawn Of The Dead (2008-08-25)
 </li>
 <li data-cover="https://img.discogs.com/fLYALiWdomL4p5sz-96HHjqQus0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1443085-1220102691.jpeg.jpg" data-tags="electronic" role="button">
 Rex the Dog - The Rex The Dog Show (2008-08-29)
@@ -264,32 +261,44 @@ Rex the Dog - The Rex The Dog Show (2008-08-29)
 <li data-cover="http://coverartarchive.org/release/e535227a-a4aa-4062-9187-d5ab0d1384a2/6401618869-500.jpg" data-tags="new wave, britpop, totec radio" role="button">
 Orchestral Manoeuvres in the Dark - Messages: Greatest Hits (2008-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/a596c3e3-a097-4274-a9ea-932a2bd91684/1877357551-500.jpg" data-tags="totec radio" role="button">
-Anal Cunt - 110 Song CD (2008-11-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/d33ef500-a46e-4d21-9ac4-b8e955fef612/1121517649-500.jpg" data-tags="folk, ambient, new wave, medieval, gothic, ethereal, darkwave, neofolk, fantasy, heavenly voices, mittelalter, medieval folk, totec radio, classical crossover, gothic folk, neomedieval, atmospheric folk, neoclassical darkwave, gammarec, mittelalternative, this is what dreams are made of, el rey cadaver, angels sing, wahou tout simplement grandiose" role="button">
-Luc Arbogast - Aux Portes De Sananda (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/9af468ad-4428-45fb-b1f4-13ce40b23478/4302090485-500.jpg" data-tags="hip-hop, hip hop, rap, underground hip-hop, totec radio" role="button">
-Illogic - Diabolical Fun (2009-03-24)
+<li data-cover="https://via.placeholder.com/450" data-tags="simon and garfunkel, folk" role="button">
+Simon & Garfunkel - The Collection (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4f65e64-77c8-4072-9c82-dbe60a7a9dd7/11000366546-500.jpg" data-tags="british" role="button">
 Kasabian - Fire (2009-05-28)
 </li>
-<li data-cover="https://img.discogs.com/VeoTe8BzYSARtwPXMhTtK-e3mA4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1805875-1616874006-1026.jpeg.jpg" data-tags="black metal" role="button">
-Arckanum - ÞÞÞÞÞÞÞÞÞÞÞ (2009-05-29)
+<li data-cover="http://coverartarchive.org/release/a8d172ac-fabe-4198-b071-2274d60b72b0/2083169546-500.jpg" data-tags="alternative" role="button">
+Sarah Blasko - As Day Follows Night (2009-07-10)
 </li>
-<li data-cover="https://img.discogs.com/-ehpicIpOaEqvEmXuFM44PRmYg8=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005880-1293459919.jpeg.jpg" data-tags="reggae, dub, roots reggae, totec radio" role="button">
-Scotty - He's A Pirate (2009-09-04)
+<li data-cover="http://coverartarchive.org/release/b24cdb8a-1cb3-4a25-9637-9df23d2e9121/18878417537-500.jpg" data-tags="electro" role="button">
+Fukkk Offf - LOVE ME HATE ME KISS ME KILL ME (2009-08-10)
 </li>
-<li data-cover="https://img.discogs.com/oN7kXL2a1OXUR07XnF4ctRKWdPY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3273575-1323404670.jpeg.jpg" data-tags="japanese, experimental, totec radio, hibernate" role="button">
-Chihei Hatakeyama - The River (2009-09-19)
+<li data-cover="http://coverartarchive.org/release/5d40b88e-a452-40e2-9cd6-b8444f994f66/6636724539-500.jpg" data-tags="totec radio" role="button">
+Death Cab for Cutie - Meet Me On the Equinox (2009-09-14)
+</li>
+<li data-cover="https://img.discogs.com/QMOYlTkRhmxJpb20kBAhui_oeRo=/fit-in/166x166/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1951437-1254591927.png.jpg" data-tags="driving, visions, check this out, totec radio, artists who are lastfm users, 2 s34rch, elektro target, psyhaus, pixies palace, chez musinum, central point, acquire, coma, climax, fractal, the music maker society, ion b chill station, network, soundscapers, aeo, eremuse - sgististj, eremuse - sgjstistj, autumn tapes, gling-gling, fondation, free mp3 artist radio, freelosophy, antropological, atmospheres, driving on a summer night, drivingfast, algebraic, dxsfx, bengt, eyelid tones, chaotisch holistisch, archange08, cruto, 1106fh, rainforest music on your internet radio, qwerty101-dt, climat, yahshua, metamorphosis: brainchildliving sacrificecircle of dust, bahia oawi, ephesians, does allah have a penis, bluebellinbloom library, 1111fh, 19 rem 120803, mysticplaces, from fh library 120617, fh 12 gj, enos, rcg-d, adult swim bump, ag set 2 will angels light, artists who are lastfm user" role="button">
+Worm Is Green - Glow (2009-09-29)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="swans, oniric" role="button">
+Piano Magic - Ovations (2009-10-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+Lymbyc Systym - Shutter Release (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">
 Justin Bieber - My World (2009-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/2e277091-6563-4af1-8f6a-89055844ca01/9245332501-500.jpg" data-tags="hip-hop, hip hop, rap, totec radio" role="button">
-Snoop Dogg - Snoop Dogg Presents: The West Coast Blueprint (2010-02-26)
+<li data-cover="http://coverartarchive.org/release/79eebda7-c062-4448-add6-c154c0f8fb26/3316749118-500.jpg" data-tags="mellow" role="button">
+Mumford & Sons - Winter Winds (2009-12-07)
+</li>
+<li data-cover="https://img.discogs.com/uIFvq9kRlD_O0wUHyYWYQxS25yA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10153983-1582778879-5851.jpeg.jpg" data-tags="rock" role="button">
+Elvis Presley - Elvis 75 (2010-01-04)
+</li>
+<li data-cover="https://img.discogs.com/FLoGd0mV2cWoFWPTW4kl79EbUpQ=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2142620-1549915270-8295.jpeg.jpg" data-tags="indie rock, brille" role="button">
+Good Shoes - No Hope, No Future (2010-01-18)
+</li>
+<li data-cover="https://img.discogs.com/sCpeYNF82m7K6ItW4ebUm5YiBuk=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7089406-1433463074-5228.jpeg.jpg" data-tags="totec radio" role="button">
+Matisyahu - One Day (2010-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
@@ -297,28 +306,19 @@ Justin Bieber - My Worlds (2010-03-22)
 <li data-cover="http://coverartarchive.org/release/ca4bd939-c85e-466d-94ca-71c0ca9e263c/6892646373-500.jpg" data-tags="justin bieber" role="button">
 Justin Bieber - My World 2.0 (2010-03-23)
 </li>
+<li data-cover="https://img.discogs.com/blBrpZWNK1XsjIhmbOUGy19spx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6755040-1425937742-4829.jpeg.jpg" data-tags="electronic, indie, if this were a pokemon i would catch it, album of the year, dance around the livingroom, surrounded by groupies, faggy electropop" role="button">
+Faded Paper Figures - New Medium (2010-05-21)
+</li>
+<li data-cover="https://img.discogs.com/bPjG3x8nhnNWXb6LJUvAirBRdIU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1950635-1266169105.jpeg.jpg" data-tags="totec radio" role="button">
+Morgan Page - Fight For You (2010-09-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/50baa1ac-4aaa-46a2-b099-66ca92a1db31/6980894439-500.jpg" data-tags="fantasy, medieval, pop, hipster, art pop, hino, gothic metal, symphonic metal, power metal, meme, satanic pop, poptron, gothic rock, not gothic, not experimental, amatue, japanese, emo, epic, poetry, comedy, anime, j-pop, post-revolutionary pop song, visual kei, lolicore, totec radio, achingly intelligent, homosexual intifada, virally yours, horny voice, very intelligent lyrics, folklore intellectuel, not darkwave, misunderstood geniuses, gothic, dark, ethereal, humour, horny, gothic pop, 4chan, youtube, evil, art, dark pop, utter brilliance, criminally underrated, satanic metal, sexy vocalists, not metal, not goth, pink floyd, celtic, bard, dream folk, pseudogoth" role="button">
 Erutan - Raindancer (2010-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9206472-5d0c-4617-a1d3-75466a346934/15444150049-500.jpg" data-tags="totec radio, justin bieber" role="button">
 Justin Bieber - My Worlds Acoustic (2010-11-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/28c50263-830f-4ff7-aacc-bd4930f3809b/23522853731-500.jpg" data-tags="chillout, electronic, chill, ambient, downtempo, psychedelic, check this out, totec radio, elektro target, psyhaus, pixies palace, chez musinum, central point, sleep music, fractal, the music maker society, ion b chill station, network, soundscapers, aeo, eremuse - sgististj, eremuse - sgjstistj, independent artists, free mp3 artist radio, freelosophy, fd, algebraic, eyelid tones, rainforest music on your internet radio, yahshua, metamorphosis: brainchildliving sacrificecircle of dust, ephesians, does allah have a penis, mysticplaces, enos, artists who are lastfm user" role="button">
-AmBeam - Land of Memories (2011-05-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/a649eeec-0b1a-41d3-b7c9-68a3b372f0ca/15526029557-500.jpg" data-tags="folk, art pop, experimental, ethereal, avant-garde, freak folk, hipster, dream folk, darkwave, hino, singer-songwriter, gothic, neofolk, fantasy, not experimental, satanic pop, epic, world, j-pop, meme, classical crossover, neoclassical darkwave, amatue, pop, emo, gothic metal, gothic rock, visual kei, achingly intelligent, very intelligent lyrics" role="button">
-志方あきこ - 白夢の繭～Ricordando il passato～ (2011-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae56e8be-e742-452c-baa1-7b29ae8864c5/3067049339-500.jpg" data-tags="psychedelic, totec radio, last.fm, atmos, 2wave-lab, inomarka966" role="button">
-Atmos - Where Do I Belong (2011-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/140d9a7c-da8c-4fe2-a295-52315bfde718/17763024684-500.jpg" data-tags="folk, experimental, darkwave, avant-garde, ethereal, heavenly voices, neoclassical darkwave, female vocalists, singer-songwriter, world, medieval, world fusion, neoclassical, classical crossover, neomedieval" role="button">
-志方あきこ - Istoria~Kalliope~ (2011-12-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/e7e665d9-371a-4ce0-a7bd-7b0d6f7f8508/4924073688-500.jpg" data-tags="folk, ambient, new wave, medieval, gothic, ethereal, darkwave, neofolk, fantasy, heavenly voices, mittelalter, medieval folk, totec radio, classical crossover, gothic folk, neomedieval, atmospheric folk, neoclassical darkwave, gammarec, mittelalternative, this is what dreams are made of, el rey cadaver, angels sing" role="button">
-Luc Arbogast - Canticum in Terra (2012)
-</li>
-<li data-cover="https://img.discogs.com/qQKglEqcxKTWdssP46mGATYbLxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6184200-1413148350-2573.jpeg.jpg" data-tags="hipster, pop, not experimental, satanic pop, japanese, emo, anime, j-pop, achingly intelligent, hino, comedy, gothic metal, symphonic metal, visual kei, very intelligent lyrics, amatue, gothic rock, meme, lolicore, art pop, homosexual intifada, virally yours, not gothic, poptron, gothic, post-revolutionary pop song, fantasy, totec radio, misunderstood geniuses, horny voice, female vocalists, dance, epic, emocore, anison, worst song ever, metal, classical, jpop, satanic, fuck, trash metal, seiyuu" role="button">
-Cécile Corbel - La Fiancée (2014-10-06)
+<li data-cover="https://img.discogs.com/05q8QgdIvQI9LC4NNKNAnv_FwbU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7885073-1450896124-2781.jpeg.jpg" data-tags="chillout, acoustic" role="button">
+City and Colour - Live at The Orange Lounge (2012-04-20)
 </li>
 </ol>
