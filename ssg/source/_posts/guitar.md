@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:21:01.471Z
+date: 2021-04-07T09:33:01.422Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -7,7 +7,7 @@ title: "guitar: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">Jack Johnson - Brushfire Fairytales (2000)</li>
 <li data-cover="http://coverartarchive.org/release/6ad8db0a-fc92-4668-90bf-b4e46a4a7dba/14683694177-500.jpg" data-tags="mark knopfler" role="button">Mark Knopfler - Sailing to Philadelphia (2000)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="http://coverartarchive.org/release/27a0c006-98f3-428a-a945-56a2ab39f070/15577024250-500.jpg" data-tags="acoustic, guitar" role="button">Andy McKee - Art of Motion (2006-01-06)</li>
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -39,7 +39,7 @@ Nick Drake - Five Leaves Left (1969-09)
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://img.discogs.com/eq4LQF7FDatTengKDfdiitD5T_Y=/fit-in/450x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4222310-1416674961-9763.jpeg.jpg" data-tags="classic rock, blues rock" role="button">
+<li data-cover="https://img.discogs.com/fGJHBz5upfFWrSc9ffg2izKtj2I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4182109-1357845293-3726.jpeg.jpg" data-tags="classic rock, blues rock" role="button">
 Joe Walsh - The Smoker You Drink, The Player You Get (1973)
 </li>
 <li data-cover="https://img.discogs.com/F_PpNjjNEZPo3pSL97LApvoxhJU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016529-1572163829-8011.jpeg.jpg" data-tags="fusion" role="button">
@@ -63,9 +63,6 @@ Joe Satriani - Surfing With The Alien (1987-10-15)
 <li data-cover="http://coverartarchive.org/release/006b0c0e-2e35-49a4-9c2f-68770c6c1bde/7614164731-500.jpg" data-tags="hard rock, classic rock" role="button">
 Van Halen - OU812 (1988-05-24)
 </li>
-<li data-cover="https://img.discogs.com/8ag1vFClogG9X-9IvfzmmIJJYPU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270599-1323269054.jpeg.jpg" data-tags="classic rock, guitar" role="button">
-Santana - Samba Pa Ti (1988-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/27201ec2-e948-3a29-9411-363861e692b7/5516922690-500.jpg" data-tags="classic rock, rock" role="button">
 Dire Straits - Money for Nothing (1988-10)
 </li>
@@ -78,7 +75,7 @@ Gary Moore - Still Got the Blues (1990-04-04)
 <li data-cover="http://coverartarchive.org/release/7a83e47e-78be-4992-bcff-c3cb6c2683db/4608197588-500.jpg" data-tags="instrumental rock, guitar virtuoso" role="button">
 Steve Vai - Passion and Warfare (1990-05)
 </li>
-<li data-cover="https://img.discogs.com/g3I8x5k5mtWtsBvb-Iu3e6g3gpI=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-898038-1181200759.jpeg.jpg" data-tags="blues rock, blues, guitar" role="button">
+<li data-cover="https://img.discogs.com/grSpfqZqsV9qFkpFEpGHnT9B-D8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320471-1317829073.jpeg.jpg" data-tags="blues rock, blues, guitar" role="button">
 The Vaughan Brothers - Family Style (1990-09-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, dire straits" role="button">
@@ -174,7 +171,10 @@ Howie Day - Stop All The World Now (2003-10-07)
 <li data-cover="http://coverartarchive.org/release/76246305-0500-3105-a779-3a494105b65f/22592489423-500.jpg" data-tags="acoustic, acoustic guitar, andy mckee, instrumental" role="button">
 Andy McKee - Dreamcatcher (2004)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m_HIIxTVTBve9_jukqMAsDXm860=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3164102-1563038591-5406.jpeg.jpg" data-tags="guitar" role="button">
+Tommy Emmanuel - Endless Road (2004-03-08)
+</li>
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -192,7 +192,7 @@ John Frusciante - Inside of Emptiness (2004-10-26)
 <li data-cover="https://img.discogs.com/5vuK3ehYd8gQaKMvS8bKtBzoWpc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204862-1528965128-4993.jpeg.jpg" data-tags="acoustic" role="button">
 John Frusciante - Curtains (2004-12-07)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec76f7c5-59b0-44bb-8140-7bdb050e268e/8881548095-500.jpg" data-tags="acoustic" role="button">

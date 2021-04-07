@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:21:01.402Z
+date: 2021-04-07T08:52:01.395Z
 title: "ebm: 100 albums you must listen to before you die"
 ---
 ![VNV Nation - Judgement (2007-03-21)](https://img.discogs.com/1Xvmw4uhXP_TICRaU2XJV_CQ86c=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-946187-1611235318-9051.jpeg.jpg "VNV Nation - Judgement (2007-03-21)")
@@ -9,7 +9,7 @@ title: "ebm: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/SzLw8Kdw5wQSy6aFcThC8EZh55o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240746-1463420871-7364.jpeg.jpg" data-tags="ebm" role="button">Front Line Assembly - Civilization (2004-01-19)</li>
 <li data-cover="https://img.discogs.com/yeGKUyKmH3cn79LY3qAplv6uXZE=/fit-in/479x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-253750-1171277081.jpeg.jpg" data-tags="ebm" role="button">Icon of Coil - Machines Are Us (2004-02-16)</li>
 <li data-cover="http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg" data-tags="industrial" role="button">Combichrist - Everybody Hates You (2005-02-21)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="synthpop, ebm" role="button">Apoptygma Berzerk - You and Me Against the World (2005-09-12)</li>
+<li data-cover="https://img.discogs.com/DfDcweJoT-KSw2P-qwEaONzz82c=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524549-1127650288.jpeg.jpg" data-tags="synthpop, ebm" role="button">Apoptygma Berzerk - You and Me Against the World (2005-09-12)</li>
 <li data-cover="https://img.discogs.com/1Xvmw4uhXP_TICRaU2XJV_CQ86c=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-946187-1611235318-9051.jpeg.jpg" data-tags="ebm, futurepop" role="button">VNV Nation - Judgement (2007-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/a94eefe2-6066-4fe7-b48e-d80b919e3c2a/5702151150-500.jpg" data-tags="ebm, harsh ebm, aggrotech" role="button">Grendel - Harsh Generation (2007-05-04)</li>
 <li data-cover="http://coverartarchive.org/release/68a29d1b-d232-46ab-8def-71072d7ffb3d/9055869577-500.jpg" data-tags="aggrotech" role="button">Combichrist - Today We Are All Demons (2009-01-20)</li>
@@ -117,9 +117,6 @@ Seabound - No Sleep Demon (2001)
 <li data-cover="http://coverartarchive.org/release/8c6b52ec-976a-326f-b831-f9a2885ab1a2/28740868188-500.jpg" data-tags="industrial, ebm" role="button">
 Project Pitchfork - Daimonion (2001-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/062951d7-a7fb-4002-958c-da7f28ea0ae5/9219944771-500.jpg" data-tags="ebm" role="button">
-Grendel - Inhumane Amusement (2001-03-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/2b18f9eb-b171-4fd6-ab1f-9801c4adc992/11392866472-500.jpg" data-tags="electrogoth, industrial, ebm, darkwave" role="button">
 Blutengel - Seelenschmerz (2001-03-19)
 </li>
@@ -141,11 +138,17 @@ Apoptygma Berzerk - Harmonizer (2002-02-19)
 <li data-cover="https://img.discogs.com/S-eM9VXXYcgfirJjTQsorhyGYxo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-100723-1269258468.jpeg.jpg" data-tags="ebm" role="button">
 Grendel - End of Ages (2002-04-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/823581d6-4075-3b03-af5c-5863cece900d/8157775574-500.jpg" data-tags="ebm" role="button">
+Icon of Coil - The Soul Is In The Software (2002-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/95a2889d-5127-4bf7-88f3-bf2273323c42/8925141225-500.jpg" data-tags="ebm, industrial" role="button">
 Feindflug - Hirnschlacht (2002-06-24)
 </li>
 <li data-cover="https://img.discogs.com/tgWeP4h18PTawB34sGwkxgYdsoI=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1534360-1226666633.jpeg.jpg" data-tags="synthpop" role="button">
 Covenant - Northern Light (2002-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/a3c6a919-a7a5-3fc7-b16d-3b5d45aea7e0/24787862888-500.jpg" data-tags="ebm" role="button">
+Assemblage 23 - Defiance (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a3d000f-79cc-4451-9cb6-b8e048ad4c66/8007366186-500.jpg" data-tags="industrial, dark electro, ebm, metropolis" role="button">
 Grendel - Prescription: Medicide (2003)
@@ -177,9 +180,6 @@ Skinny Puppy - The Greater Wrong of the Right (2004-05-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="futurepop, ebm" role="button">
 mind.in.a.box - Lost Alone (2004-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/85d7b32d-7b3f-4c61-b51e-bbf61c9267e8/15619141380-500.jpg" data-tags="industrial" role="button">
-Panzer AG - This Is My Battlefield (2004-06-14)
-</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="ebm, futurepop" role="button">
 Assemblage 23 - Storm (2004-09-24)
 </li>
@@ -204,7 +204,7 @@ Psyclon Nine - INRI (2005-04-26)
 <li data-cover="https://img.discogs.com/jIvL9rUv2vZu-dbnbKulqwmHtYo=/fit-in/450x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491586-1122508052.jpg.jpg" data-tags="ebm" role="button">
 Rotersand - Welcome To Goodbye (2005-06-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="synthpop, ebm" role="button">
+<li data-cover="https://img.discogs.com/DfDcweJoT-KSw2P-qwEaONzz82c=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524549-1127650288.jpeg.jpg" data-tags="synthpop, ebm" role="button">
 Apoptygma Berzerk - You and Me Against the World (2005-09-12)
 </li>
 <li data-cover="https://img.discogs.com/HQkL9UB2mhjc9vVX_EbC6K4D7j4=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-544661-1590431253-9618.jpeg.jpg" data-tags="ebm, dark electro" role="button">
@@ -233,6 +233,9 @@ Pzychobitch - Electrolicious (2006-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d58505d6-8dea-4875-9edc-ee9f48bc0ba4/9067544706-500.jpg" data-tags="industrial, dark electro, ebm" role="button">
 Dioxyde - Social Phobia (2006-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfa61791-e35a-31c6-9c6d-c6fee31f4e88/8961128077-500.jpg" data-tags="ebm, aggrotech, industrial, dark electro" role="button">
+Tactical Sekt - Syncope (2006-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c9b2c65-c976-4f86-84a8-b5774609b362/15848864452-500.jpg" data-tags="dark electro, ebm, industrial" role="button">
 Zombie Girl - Back From the Dead (2006-05-05)
@@ -293,9 +296,6 @@ Nachtmahr - Kunst ist Krieg (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e31574-d3e5-4243-b6f3-b4368a40b160/3729075309-500.jpg" data-tags="industrial, ebm" role="button">
 Alien Vampires - No One Here Gets Out Alive (2007-12-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/828e02f2-c436-4205-b186-6e5ab89ad558/8034626940-500.jpg" data-tags="industrial, ebm" role="button">
-Nachtmahr - Feuer Frei! (2008-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f6c0c54-d31d-4dad-9c97-8514421e6f47/4740187935-500.jpg" data-tags="electronic, ebm" role="button">
 Ayria - Hearts for Bullets (2008-09-12)

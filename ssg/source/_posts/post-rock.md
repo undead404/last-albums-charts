@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T04:43:01.428Z
+date: 2021-04-07T09:20:02.269Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -135,6 +135,9 @@ El Ten Eleven - El Ten Eleven (2004-08-07)
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
 Isis - Panopticon (2004-10-19)
 </li>
+<li data-cover="https://img.discogs.com/xh711CJOlWSPk9O-Jju1XAL98qs=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467110-1117802145.jpg.jpg" data-tags="post-rock, electronic" role="button">
+Efterklang - Tripper (2004-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/e750d3d5-d213-3b14-8ae3-740bb58e0767/6253524832-500.jpg" data-tags="post-rock" role="button">
 Yndi Halda - Enjoy Eternal Bliss (2005)
 </li>
@@ -257,9 +260,6 @@ toe - For Long Tomorrow (2009-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ead5b02-bfb8-4a8e-87c5-80b1552eddeb/27862273102-500.jpg" data-tags="post-rock" role="button">
 pg.lost - In Never Out (2009-12-11)
-</li>
-<li data-cover="https://img.discogs.com/QrZz7ljgyLG2m3mMuE-D2Xlk7T0=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11476554-1517014471-7140.jpeg.jpg" data-tags="post-rock" role="button">
-The Album Leaf - A Chorus of Storytellers (2010-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
 Alcest - Écailles de lune (2010-03-26)

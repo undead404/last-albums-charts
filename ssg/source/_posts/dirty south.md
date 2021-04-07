@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T18:29:01.597Z
+date: 2021-04-07T09:41:01.443Z
 title: "dirty south: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -10,7 +10,7 @@ title: "dirty south: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/d4JdIjxn4tzoy_fhSskFCOsmqj0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-570439-1132788126.jpeg.jpg" data-tags="dirty south, southern rap, chamillionaire, hip-hop, rap" role="button">Chamillionaire - The Sound of Revenge (2005-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">T.I. - King (2006-03-27)</li>
 <li data-cover="http://coverartarchive.org/release/588825e3-4757-4ccd-bc94-f2abb6fe7a63/5329625271-500.jpg" data-tags="dirty south, rap, ludacris" role="button">Ludacris - Release Therapy (2006-09-26)</li>
-<li data-cover="http://coverartarchive.org/release/c9a2176b-940d-4ca8-a9a0-7f6c116106a8/23139714705-500.jpg" data-tags="dirty south, atlanta" role="button">Gorilla Zoe - Welcome To The Zoo (2007-09-25)</li>
+<li data-cover="http://coverartarchive.org/release/5a758b20-d65d-4319-b7c9-62ff8489d4ad/10643982696-500.jpg" data-tags="chamillionaire, rap, hip-hop, dirty south" role="button">Chamillionaire - Ultimate Victory (2007-09-18)</li>
 <li data-cover="https://img.discogs.com/jh4t6fyePwK2DmFIMS79etQ-LdE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289687-1442838570-1540.jpeg.jpg" data-tags="rap, hip-hop" role="button">Flo Rida - Mail On Sunday (2008-03-17)</li>
 <li data-cover="http://coverartarchive.org/release/62147d7a-6270-42a8-b92e-3580ff18685f/24502383678-500.jpg" data-tags="rap" role="button">T.I. - Paper Trail (2008-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">Flo Rida - Wild Ones (2012-06-22)</li>
@@ -69,14 +69,8 @@ Juvenile - 400 Degreez (1998-11-03)
 <li data-cover="http://coverartarchive.org/release/3025cb74-cc5b-4b3a-a538-17cfe4abac98/17202085163-500.jpg" data-tags="hip-hop, rap, new orleans, dirty south, louisiana" role="button">
 Mystikal - Ghetto Fabulous (1998-12-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, ringo, j-pop" role="button">
-椎名林檎 - Muzai Moratorium (1999-02-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/5588dfca-c011-4f66-9899-dcaa5f4efed5/11441887072-500.jpg" data-tags="rock, j-pop, japanese, 90s" role="button">
 椎名林檎 - 無罪モラトリアム (1999-02-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop, spitz" role="button">
-スピッツ - RECYCLE Greatest Hits of SPITZ (1999-12-15)
 </li>
 <li data-cover="https://img.discogs.com/73zW21RUKHgNKtc0IfSSSbhZLmI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749561-1495634164-1706.jpeg.jpg" data-tags="dirty south, southern rap, houston, southern hip-hop" role="button">
 Lil' O - Da Fat Rat Wit da Cheese (2000)
@@ -110,6 +104,9 @@ Field Mob - 613: Ashy To Classy (2000-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5767704-3284-4b79-b19b-ce5aed07841b/17269026966-500.jpg" data-tags="hip hop, rap, dirty south, southern rap, south" role="button">
 Pastor Troy - Face Off (2001-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8a48a873-5dd9-4df5-a4da-d4687c4b0bf2/17321335938-500.jpg" data-tags="dirty south, diary of a sinner" role="button">
+Petey Pablo - Diary of a Sinner: 1st Entry (2001-11-06)
 </li>
 <li data-cover="https://img.discogs.com/5jTf-8OEzRSsC6WGLm_zCBMx8qE=/fit-in/600x694/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-718204-1528140306-6220.jpeg.jpg" data-tags="rap, hip-hop, ludacris" role="button">
 Ludacris - Word of Mouf (2001-11-06)
@@ -246,11 +243,17 @@ Anna Abreu - Anna Abreu (2007-08-16)
 <li data-cover="https://img.discogs.com/NMmUgdbPOMa9P-H06RGoPO8-QXk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8706312-1467027857-2697.jpeg.jpg" data-tags="rap" role="button">
 Flo Rida - Low (2007-09-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a758b20-d65d-4319-b7c9-62ff8489d4ad/10643982696-500.jpg" data-tags="chamillionaire, rap, hip-hop, dirty south" role="button">
+Chamillionaire - Ultimate Victory (2007-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/c9a2176b-940d-4ca8-a9a0-7f6c116106a8/23139714705-500.jpg" data-tags="dirty south, atlanta" role="button">
 Gorilla Zoe - Welcome To The Zoo (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd10b986-eca8-40a9-8ded-dd7804d271fb/16785209828-500.jpg" data-tags="rap" role="button">
 Playaz Circle - Supply & Demand (2007-10-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/b62c5ccc-84dc-4d70-be71-9c8ef40d43f2/15404261836-500.jpg" data-tags="dirty south, h-town, screwed up click, ol skool southside, chaleyboy records" role="button">
+Big Moe - The Best of Big Moe (2007-12-18)
 </li>
 <li data-cover="https://img.discogs.com/VpJJpiVC1XHKuGTa6NUXkQ4VYrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1756424-1241347657.jpeg.jpg" data-tags="metal, female, rock, punk, dirty south, christian rock, hate, piece of shit, evil, hoe, rap metal, sucks, brutal death metal, no, shut up, shut the fuck up, loser, ponyrape, really really bad, gross, crap crap crap, total shit, douche, fuck you, tubgirl, i hate you, wristslitters, die, officially shallow, mallcore, murderer, fuck off, overrated crap, uncomfortable, fagcore, idiots, homophobe, dead dead dead, crimes against humanity, avoid, faggotcore, bitch cannot write her own music, whorecore, homophobic, mtv cocksuckers, ho, dirty bitch, dirty whore, little bitch, music for fags like realmonster, pure garbage, shit music, brains are between her legs not on her shoulders, pop slut, whore untalented, wigger, utter shit, fucking terrible, a placebo for coronary heart disease, black folk call them the devils, nambla approved, christopher walken eating escargot, reports of statutory rape are on the rise because of you, satirised by rowan atkinson at my barbecue luncheon, september 11 just wasnt enough for these people, not hip-hop, your music has been shredded for bedding, talentless hack, dumbass, psy-emo, sterile, get crunk, pedophile" role="button">
 The Lonely Island - Jizz In My Pants (2008)
@@ -297,11 +300,11 @@ Boris - New Album (2011-03-16)
 <li data-cover="http://coverartarchive.org/release/a1f08458-2707-497b-aee0-9b5867646b5f/4840121509-500.jpg" data-tags="experimental, experimental hip hop, crunk, phonk" role="button">
 SpaceGhostPurrp - Blvcklvnd Rvdix 66.6 (1991) (2011-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/34ccbedb-6cfb-4498-99cd-62429a840720/1336570619-500.jpg" data-tags="hip hop" role="button">
-Z-Ro - Meth (2011-09-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
 Zola Jesus - Conatus (2011-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/8a51ac29-77a4-4d25-9f75-8efcc25b0c33/1165539461-500.jpg" data-tags="whistle" role="button">
+Flo Rida - Whistle (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">
 Flo Rida - Wild Ones (2012-06-22)
@@ -311,9 +314,6 @@ Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
 Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/fb8c39c5-4589-4954-be83-fd5feddc757c/7152701973-500.jpg" data-tags="noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, british, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, skinhead, evanescence, gangsta rap, lady gaga, the offspring, excellent, crunk, dirty south, screamo, pink floyd, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, psychedelic rock, korean, k-pop, breakcore" role="button">
-Chelsea Wolfe - Prayer for the Unborn (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)

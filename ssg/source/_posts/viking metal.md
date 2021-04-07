@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T07:25:01.468Z
+date: 2021-04-07T09:39:01.375Z
 title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
@@ -71,6 +71,9 @@ Einherjer - Odin Owns Ye All (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5f91694-199e-3a0a-b4d9-9985c40a979c/18279167821-500.jpg" data-tags="black metal, viking metal" role="button">
 Enslaved - Blodhemn (1998-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/339fb319-548b-3195-ab9a-84853d1d1c0a/27180794801-500.jpg" data-tags="viking metal" role="button">
+Thyrfing - Hednaland (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4ef0e9a-efd6-4f1c-a6cd-b88edc26cb32/11690344953-500.jpg" data-tags="folk metal" role="button">
 Finntroll - Midnattens Widunder (1999)
@@ -209,9 +212,6 @@ Korpiklaani - Tales Along This Road (2006-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e8dcfc6-302c-43cd-9807-d6251e358c65/2997123472-500.jpg" data-tags="black metal, progressive metal, progressive black metal" role="button">
 Enslaved - Ruun (2006-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ad21303-6185-3378-bbd8-984d4f2047d7/8050005645-500.jpg" data-tags="folk metal" role="button">
-Eluveitie - Spirit (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b455705-d7a7-4857-8de3-c03e8e6ee61d/6523032214-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Ragnarok (2006-09-22)

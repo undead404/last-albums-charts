@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T06:51:01.386Z
+date: 2021-04-07T09:21:01.446Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -29,9 +29,6 @@ The Jimi Hendrix Experience - Are You Experienced (1967-05-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="psychedelic" role="button">
 Captain Beefheart & His Magic Band - Safe As Milk (1967-09)
-</li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
-The Doors - The Doors (1967-09-11)
 </li>
 <li data-cover="https://img.discogs.com/JsopqGSweccxL0U-dy5xFQ73d-Q=/fit-in/461x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4486102-1366259991-5187.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Disraeli Gears (1967-11-02)
@@ -150,8 +147,8 @@ Stevie Ray Vaughan and Double Trouble - Couldn't Stand The Weather (1984)
 <li data-cover="http://coverartarchive.org/release/98a283ff-5b66-4d1a-8add-53d11d278ac5/11547120929-500.jpg" data-tags="blues rock" role="button">
 ZZ Top - Afterburner (1985-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/2114b05d-ed95-46e3-863c-f8ff7805a636/26358685335-500.jpg" data-tags="60s, classic rock, blues rock" role="button">
-The Yardbirds - For Your Love (1988)
+<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
+The Doors - The Doors (1988)
 </li>
 <li data-cover="https://img.discogs.com/VJt5Q6CCIHtpsGDaKnvRZHhRhn8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043504-1494443705-7845.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Joe Cocker - With A Little Help From My Friends (1988-01-01)
@@ -231,7 +228,7 @@ The Black Keys - Rubber Factory (2004-09-07)
 <li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">
 The White Stripes - Get Behind Me Satan (2005-06-01)
 </li>
-<li data-cover="https://img.discogs.com/k-o5sSl2CWfkoKOySGdNMJSNf_E=/fit-in/600x859/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10670506-1503162033-3953.jpeg.jpg" data-tags="rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Rolling Stones - A Bigger Bang (2005-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
@@ -305,6 +302,9 @@ Jack White - Blunderbuss (2012-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">
 John Mayer - Born and Raised (2012-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/b67efa71-3638-490e-98ec-2d7c4849832c/4200304495-500.jpg" data-tags="blues rock, the black keys" role="button">
+The Black Keys - Little Black Submarines (2012-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)

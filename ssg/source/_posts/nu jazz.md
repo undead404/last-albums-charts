@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:52:01.559Z
+date: 2021-04-07T08:55:01.397Z
 title: "nu jazz: 100 albums you must listen to before you die"
 ---
 ![Nicola Conte - Bossa Per Due (2001-06-12)](http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg "Nicola Conte - Bossa Per Due (2001-06-12)")
@@ -66,7 +66,7 @@ LTJ Bukem - Journey Inwards (2000-03-25)
 <li data-cover="http://coverartarchive.org/release/e3000089-a5ec-4d2a-b749-1fbbe7c9a134/1285984528-500.jpg" data-tags="acid jazz, electronic" role="button">
 St. Germain - Tourist (2000-05-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="my lounge room, uutta jazzia, my-love, alternative lounge, groove lounge, electronic lounge jazz, lounge electronic, chillounge1, lounge, smooth lounge, chillout downtempo, electrocool, jazz-trip, lounge chill, lounge-tech, smoothly sexy sounding, lounge uptempo, tropcool, chill chill, lounge at home tres, chillair, epic lounge, sexy sounding, acid lounge, serve chilled, downtempo influences, city lounge, acoustic groove, genre: downtempo, electropcool, awesome downtempo, genre:downtempo, jazzy flavoured, lounge downtempo, jazzy vibes, lounge at home two, sweet downtempo" role="button">
+<li data-cover="https://img.discogs.com/WgVD-LJvYcOoDE1EDQhNmNyf40s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-36181-1250629029.jpeg.jpg" data-tags="my lounge room, uutta jazzia, my-love, alternative lounge, groove lounge, electronic lounge jazz, lounge electronic, chillounge1, lounge, smooth lounge, chillout downtempo, electrocool, jazz-trip, lounge chill, lounge-tech, smoothly sexy sounding, lounge uptempo, tropcool, chill chill, lounge at home tres, chillair, epic lounge, sexy sounding, acid lounge, serve chilled, downtempo influences, city lounge, acoustic groove, genre: downtempo, electropcool, awesome downtempo, genre:downtempo, jazzy flavoured, lounge downtempo, jazzy vibes, lounge at home two, sweet downtempo" role="button">
 Minus 8 - Elysian Fields (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/02b53001-faea-4784-93be-3d3795376d94/4512744721-500.jpg" data-tags="downtempo, lounge" role="button">
@@ -78,7 +78,7 @@ Llorca - New Comer (2001-04)
 <li data-cover="http://coverartarchive.org/release/359b8732-e707-4a46-8c38-d657ea4a02ea/1870660655-500.jpg" data-tags="my lounge room, smoothly sexy sounding, electronic lounge jazz, lounge electronic, uutta jazzia, acid lounge, my-love, jazz-trip, alternative lounge, lounge-tech, groove lounge, lounge uptempo, tropcool, lounge at home tres, smooth lounge, serve chilled, jazzy flavoured, city lounge, acoustic groove, lounge chill, chill chill, jazzy vibes, chillair, epic lounge, sexy sounding, jazzy female vocal, vocal-lounge, electrocool, lounge downtempo, electropcool, chillounge1, vocal downtempo, chillout downtempo, genre: downtempo, sweet downtempo, ouahhhhh, lounge vibe, 1st vine, awesome downtempo, genre:downtempo, 1st vine acid, acid jazz vibe, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz" role="button">
 Micatone - Ninesongs (2001-05-07)
 </li>
-<li data-cover="https://img.discogs.com/ogQUwoOas8jPx7n8UFd0C56zMkw=/fit-in/550x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6852765-1428604389-3025.jpeg.jpg" data-tags="jazz, ninja tune" role="button">
+<li data-cover="https://img.discogs.com/qlcVMDPo5gbdpvMIUH1pG8udVKw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-109437-1279028187.jpeg.jpg" data-tags="jazz, ninja tune" role="button">
 Jaga Jazzist - A Livingroom Hush (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b42cba4-9f16-4860-9398-5ee6b5dc0457/6977239022-500.jpg" data-tags="nu jazz, acid jazz, lounge, nu-jazz" role="button">
@@ -174,8 +174,8 @@ Parov Stelar - Rough Cuts (2004-10-25)
 <li data-cover="http://coverartarchive.org/release/690414a7-7807-40d7-861f-2a2ea6c993c1/4225155790-500.jpg" data-tags="downtempo, acid jazz, jazzy stuff" role="button">
 Flevans - Make New Friends (2004-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/5f8df531-59c2-4102-84cb-0538276325b4/6777300289-500.jpg" data-tags="nu jazz" role="button">
-Miloopa - Nutrition Facts (2005)
+<li data-cover="https://via.placeholder.com/450" data-tags="nu jazz, broken beat" role="button">
+Mark de Clive-Lowe - Tide's Arising (2005-03-22)
 </li>
 <li data-cover="https://img.discogs.com/-YyqUn8QvswZvDVFekN-UgZRsuk=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-432799-1533497663-5552.jpeg.jpg" data-tags="jazz, post-rock" role="button">
 Jaga Jazzist - What We Must (2005-04-04)
@@ -213,7 +213,7 @@ Pretty Lights - Taking Up Your Precious Time (2006-10-23)
 <li data-cover="http://coverartarchive.org/release/c9c35e2b-f335-441a-804f-3c25093c48b5/6329876006-500.jpg" data-tags="jazz" role="button">
 Contemporary Noise Quintet - Pig Inside The Gentleman (2006-10-30)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="uutta jazzia, acid lounge, city lounge, jazz-trip, alternative lounge, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, epic lounge, jazzy flavoured, my-love, acoustic groove, lounge downtempo, lounge-tech, groove lounge, ouahhhhh, lounge vibe, lounge at home two, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, serve chilled, tropcool, acid jazz vibe, nu jazz, chillout downtempo, my lounge room, awesome downtempo" role="button">
+<li data-cover="https://img.discogs.com/ESH95y9DycaT4SOOXXLezrWm8Lw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5927152-1406535632-6416.jpeg.jpg" data-tags="uutta jazzia, acid lounge, city lounge, jazz-trip, alternative lounge, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, epic lounge, jazzy flavoured, my-love, acoustic groove, lounge downtempo, lounge-tech, groove lounge, ouahhhhh, lounge vibe, lounge at home two, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, serve chilled, tropcool, acid jazz vibe, nu jazz, chillout downtempo, my lounge room, awesome downtempo" role="button">
 4hero - Play With The Changes (2007-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/08f3b38f-f4f1-4cbd-903e-50996043b667/1689582436-500.jpg" data-tags="bossa nova" role="button">
@@ -230,6 +230,9 @@ Parov Stelar - Shine (2007-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/17db2a43-5d90-45d6-afcf-729248ff40c0/4399091778-500.jpg" data-tags="nu jazz, acid jazz, trip hop" role="button">
 Free the Robots - Free The Robots EP (2007-10-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/a61e5733-d1a1-4f61-a01a-e3e8853f2d71/13666594191-500.jpg" data-tags="nu jazz, jazz, robertitus global, intrumental ram, instrumental ram, jazz favorites ram" role="button">
+Mouse on the Keys - Sezession (2007-11-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu jazz, jazz" role="button">
 Gare du Nord - Sex 'n' Jazz (2007-12)
@@ -317,8 +320,5 @@ Snarky Puppy - We Like It Here (2014-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ea487c24-0087-4194-ad62-c06ae1ab9118/8533340430-500.jpg" data-tags="electronic" role="button">
 Flying Lotus - You're Dead! (2014-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/036f46b3-573a-4f0d-93a8-f9a80071fb1e/8589309571-500.jpg" data-tags="nu jazz" role="button">
-Skalpel - Transit (2014-10-10)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:23:01.587Z
+date: 2021-04-07T09:36:01.403Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Flo Rida - Wild Ones (2012-06-22)](http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg "Flo Rida - Wild Ones (2012-06-22)")
@@ -117,11 +117,8 @@ Justin Timberlake - FutureSex/LoveSounds (2006-08)
 <li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
 Beyoncé - B'Day (2006-08-29)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/FJRuQ-u_ekJz7axuWvYJow0CTTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326266-1508526547-8034.jpeg.jpg" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
-Ashley Tisdale - Headstrong (2007-02-06)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
@@ -291,7 +288,7 @@ Calvin Harris - 18 Months (2012-10-26)
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
 Daft Punk - Random Access Memories (2013-05-17)
 </li>
-<li data-cover="https://img.discogs.com/dbN6n83BE7ZXSQn9w7nqnvVaB0U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4960708-1380744325-6489.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/W-s2RzVMFNqn7fldhLM6BPtsXnQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12351444-1533493817-5998.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
 Selena Gomez - Come & Get It (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
@@ -320,5 +317,8 @@ Sia - 1000 Forms of Fear (2014-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
 Calvin Harris - Motion (2014-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/79fd65e4-d145-46be-b8fa-b098c2ba5f12/10014987904-500.jpg" data-tags="pop, ariana grande" role="button">
+Ariana Grande - Santa Tell Me (2014-11-24)
 </li>
 </ol>

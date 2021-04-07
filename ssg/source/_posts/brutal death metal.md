@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:53:01.462Z
+date: 2021-04-07T08:53:01.380Z
 title: "brutal death metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -180,9 +180,6 @@ Origin - Antithesis (2008-04-01)
 <li data-cover="https://img.discogs.com/uZgs9jj576_KECHH_evgmUepUi4=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1854744-1248026135.jpeg.jpg" data-tags="death metal, brutal death metal" role="button">
 Aborted - Strychnine.213 (2008-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c1210b0c-1980-4c4b-91fb-5a64866624e0/7530834969-500.jpg" data-tags="death metal" role="button">
-Bloodbath - The Fathomless Mastery (2008-10-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d4c5671-c5c6-4c3a-9021-a281d59fd79c/25357292169-500.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Evisceration Plague (2009-01-30)
 </li>
@@ -194,6 +191,9 @@ Fleshgod Apocalypse - Oracles (2009-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
+</li>
+<li data-cover="https://img.discogs.com/Yi_XOAkQGi-qWdO0HPWH-690QQc=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748710-1503598896-8622.jpeg.jpg" data-tags="pop" role="button">
+Jonas Brothers - Lines, Vines and Trying Times (2009-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e497289-c078-44b2-a595-c65b19fc278b/16426591871-500.jpg" data-tags="brutal death metal" role="button">
 Ingested - Surpassing the Boundaries of Human Suffering (2009-06-22)
@@ -306,7 +306,7 @@ Attila - About That Life (2013-06-25)
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
-<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/479a71e8-54e5-4d6b-a728-c16790088282/9929378348-500.jpg" data-tags="post-hardcore" role="button">

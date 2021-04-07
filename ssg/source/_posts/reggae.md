@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T04:39:01.383Z
+date: 2021-04-07T09:08:01.394Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/346d6784-4108-4ec2-a40b-3500c56d4f08/16612065220-500.jpg" data-tags="reggae" role="button">
-Bob Marley & The Wailers - Catch A Fire (1973-04-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley and the Wailers - Catch A Fire (1973-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/346d6784-4108-4ec2-a40b-3500c56d4f08/16612065220-500.jpg" data-tags="reggae" role="button">
+Bob Marley & The Wailers - Catch A Fire (1973-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e34dc9d-6ddd-45d2-8e06-e466db9f2b5c/1774890562-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Natty Dread (1974-10-25)
