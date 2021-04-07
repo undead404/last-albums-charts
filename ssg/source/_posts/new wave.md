@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:55:01.406Z
+date: 2021-04-07T10:38:01.653Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -7,13 +7,13 @@ title: "new wave: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">Joy Division - Unknown Pleasures (1979-06-15)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">Talking Heads - Remain in Light (1980-10-08)</li>
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">New Order - Power, Corruption & Lies (1983-05)</li>
-<li data-cover="https://img.discogs.com/LM8XDDJAl7zeJ_xrgMM4Kt7uMU8=/fit-in/372x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972448-1215538670.jpeg.jpg" data-tags="new wave" role="button">Talk Talk - It's My Life (1984-01-03)</li>
 <li data-cover="http://coverartarchive.org/release/714c8fa2-0a75-470b-a5d3-3709e41aa6dd/4361451627-500.jpg" data-tags="80s, new wave" role="button">Tears for Fears - Songs from the Big Chair (1985-02-17)</li>
 <li data-cover="http://coverartarchive.org/release/bc1bf979-4889-3d5e-8edd-bf1bcffa80c3/23483858382-500.jpg" data-tags="new wave, 80s" role="button">The Cure - The Head on the Door (1985-08-13)</li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">The Cure - Disintegration (1989-05-01)</li>
 <li data-cover="https://img.discogs.com/3iegZ_HzM2EWcgOWBaN3CfRedyo=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467428-1117836841.jpg.jpg" data-tags="synthpop, new wave, 90s" role="button">Depeche Mode - Violator (1990-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/4f8949d4-fd67-3d8a-85d3-2f9f3ca70317/19430444042-500.jpg" data-tags="electronic, new wave, 80s" role="button">Depeche Mode - The Singles 86>98 (1998-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">The Cure - Greatest Hits (2001-11-12)</li>
+<li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">Future Islands - Singles (2014-03-24)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">
 Television - Marquee Moon (1977-02-08)
 </li>
-<li data-cover="https://img.discogs.com/1Dc6HzwqHTsh0Vyn4rfokptRoAA=/fit-in/300x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8208782-1457185930-1152.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/DgmQ-li2mG7IwBAYrgNJDo-V5ws=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2170117-1268407814.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
@@ -195,14 +195,11 @@ The Cure - The Head on the Door (1985-08-13)
 <li data-cover="http://coverartarchive.org/release/053fc4d5-34e8-4757-9e16-29c91b36253b/23804216681-500.jpg" data-tags="80s, new wave, art pop" role="button">
 Talk Talk - The Colour of Spring (1986-03)
 </li>
-<li data-cover="https://img.discogs.com/vn3oqwAIyPBmRz-wFXXrgAb9N04=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442377-1287321146.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/5SE4udcAcVxlSqfOOVn78VGipvg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442364-1287320879.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
 Depeche Mode - Black Celebration (1986-03-17)
 </li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/0bbb5a12-42f2-4bc2-81af-2a895e2e2572/26059563062-500.jpg" data-tags="80s, new wave" role="button">
-New Order - Brotherhood (1986-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0da7fda-06a8-452c-b25b-9aa320f7409d/4734396063-500.jpg" data-tags="80s" role="button">
 The Smiths - Louder Than Bombs (1987-03-16)
@@ -236,6 +233,9 @@ Billy Idol - Rebel Yell (1991-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
+</li>
+<li data-cover="https://img.discogs.com/T1N1f1AXU1XTKd-IPo2E4YM5Cms=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1771648-1245254037.jpeg.jpg" data-tags="electronic" role="button">
+Depeche Mode - Songs of Faith and Devotion (1993-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/127b9b29-4252-463b-9d9a-30b888c19867/9417557840-500.jpg" data-tags="electronic, synthpop, 90s" role="button">
 Depeche Mode - Ultra (1997-04-10)
@@ -285,7 +285,7 @@ Neon Trees - Habits (2010-03-16)
 <li data-cover="http://coverartarchive.org/release/5ce79023-6a71-4a92-bf65-eaa6213c4944/8377341613-500.jpg" data-tags="new wave" role="button">
 Future Islands - In Evening Air (2010-05-04)
 </li>
-<li data-cover="https://img.discogs.com/fjkqLjXigy3tZo2ZAyynt2QXjj0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13360887-1552756400-8491.png.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
@@ -315,8 +315,8 @@ The Strokes - Comedown Machine (2013-03-22)
 <li data-cover="https://img.discogs.com/gqV7z6TvbtaV1-ZYmoScs8X-Qc8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6018432-1408954698-5308.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
 Paramore - Paramore (2013-04-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
-Phoenix - Bankrupt! (2013-04-19)
+<li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
+Arcade Fire - Reflektor (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">
 Future Islands - Singles (2014-03-24)

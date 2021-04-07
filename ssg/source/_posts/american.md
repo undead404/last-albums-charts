@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T05:37:01.399Z
+date: 2021-04-07T10:33:02.179Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -96,7 +96,7 @@ Faith Hill - Cry (2002-10-14)
 <li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -114,7 +114,7 @@ Alter Bridge - One Day Remains (2004-08-10)
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock, alternative" role="button">
@@ -164,9 +164,6 @@ Incubus - Light Grenades (2006-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b585fc51-4f54-32d7-89a5-a5d57b3840dd/21173965740-500.jpg" data-tags="indie, indie rock" role="button">
 The Shins - Wincing the Night Away (2007-01-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
-Ashley Tisdale - Headstrong (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
@@ -225,7 +222,7 @@ Green Day - 21st Century Breakdown (2009-04)
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="rock, alternative rock" role="button">
 Incubus - Monuments And Melodies (2009-06-12)
 </li>
 <li data-cover="https://img.discogs.com/98tNSm3zZhZn4UAGlv68_EoCTck=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057953-1261415919.png.jpg" data-tags="indie, rock, soul, indie rock, american, funky, need to ch-ch-check out" role="button">
@@ -276,7 +273,7 @@ The Decemberists - The King Is Dead (2011-01-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Helplessness Blues (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9899bb60-f3cf-4c7c-a791-3d0d2e8226dd/11399160001-500.jpg" data-tags="indie, rock, american" role="button">
@@ -284,6 +281,9 @@ Okkervil River - I Am Very Far (2011-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf68e696-91f1-4c7e-828e-349a918261d0/6610304430-500.jpg" data-tags="indie" role="button">
 Givers - In Light (2011-06-07)
+</li>
+<li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
+Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
 Poliça - Give You The Ghost (2011-12-20)

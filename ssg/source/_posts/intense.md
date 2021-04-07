@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:28:01.422Z
+date: 2021-04-07T10:24:01.637Z
 title: "intense: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
@@ -27,13 +27,13 @@ Nina Simone - Black Gold (1970)
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, druggy, folk-rock, intense, fiery, fractured, trippy, paranoid, autumnal, manic, brooding, eccentric, wistful, volatile, brittle, maverick" role="button">
+<li data-cover="https://img.discogs.com/60MOrrD0hY9ZKEA9lSSetv43aNg=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2507304-1483898970-7154.jpeg.jpg" data-tags="folk, druggy, folk-rock, intense, fiery, fractured, trippy, paranoid, autumnal, manic, brooding, eccentric, wistful, volatile, brittle, maverick" role="button">
 Ted Lucas - Ted Lucas (1975-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
 Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://img.discogs.com/-uQXTgptD9DRrPLeTdC3bvjg8Tk=/fit-in/600x370/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14120305-1568218368-3661.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
+<li data-cover="https://img.discogs.com/caUGzB28LZRoCVHzY8K4ndFRrgU=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15722309-1596684649-9108.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
 Lou Reed - New Sensations (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/941d8ace-2faf-46de-a77b-dff1a063e2ce/28587380435-500.jpg" data-tags="rock, uk, country-rock, passionate, literate, melancholy, fierce, intense, confrontational, earnest, wry, dramatic, bittersweet, intimate, elegant, yearning, sophisticated, autumnal, sympathy68, emusic, nocturnal, brooding, sentimental, acerbic, weary, bleak, theatrical, ambitious, m faithfull, lauraann163" role="button">
@@ -45,14 +45,11 @@ Robert Palmer - Riptide (1985)
 <li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
 R.E.M. - Lifes Rich Pageant (1986-07-28)
 </li>
-<li data-cover="https://img.discogs.com/DWDDxYRoH5-1_AQ9NrCYFiaK7pc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667536-1471605208-1041.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
+<li data-cover="https://img.discogs.com/hq0nx8-puTRvn9QWkR0fkGER6qU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4397266-1455225511-8126.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 </li>
 <li data-cover="https://img.discogs.com/ZvMMEHPiNjXM13TgFELnL2SKlhk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600698-1137035784.jpeg.jpg" data-tags="rock" role="button">
 Bob Mould - Workbook (1989-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/83e57502-031c-4d0a-a659-7ebb1a134da6/2828195326-500.jpg" data-tags="classic rock, rock, 60s, british, blues" role="button">
-The Animals - The Complete Animals (1990-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
@@ -63,7 +60,7 @@ Helmet - Meantime (1992-06-23)
 <li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
 Dinosaur Jr. - Without a Sound (1994-08-01)
 </li>
-<li data-cover="https://img.discogs.com/UmAW3Ky8RixkWUQ3TiMy4xN2x8I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-439361-1277068552.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
+<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, volatile, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
 Slint - Slint (1994-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
@@ -81,10 +78,13 @@ Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/27d99673-cdc9-4172-bdf6-d3bd0620c0ee/15960021076-500.jpg" data-tags="singer-songwriter, 90s, indie, folk, lo-fi, mellow, slowcore" role="button">
 Smog - Red Apple Falls (1997-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/ebfb4400-5eb5-490f-ac77-5dd0a7bae786/25627484482-500.jpg" data-tags="post-hardcore, hardcore punk" role="button">
+Refused - The E.P. Compilation (1997-09-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Death to the Pixies (1997-10-06)
 </li>
-<li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
@@ -105,7 +105,7 @@ Ludacris - Back For The First Time (2000-10-17)
 <li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
 John Frusciante - To Record Only Water For Ten Days (2001-02-13)
 </li>
-<li data-cover="https://img.discogs.com/RWtrCfF6nCrrt3rNcF1ivzYF7W0=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289844-1327093892.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/vRrNNmW0km5ZuBI7V6nTf1YXtWY=/fit-in/404x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7404658-1440791038-3407.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
@@ -123,7 +123,7 @@ The Mountain Goats - Tallahassee (2002-11-05)
 <li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
 Nas - God's Son (2002-12-16)
 </li>
-<li data-cover="https://img.discogs.com/mmRaVbai-ToDt76_6__TagAYm7I=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1305762-1224905953.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/Refmjjn_eG92bwLAiCLRbiaytjQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7132141-1508811299-3309.jpeg.jpg" data-tags="indie rock" role="button">
 British Sea Power - The Decline of British Sea Power (2003-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/20480e5c-369a-442f-b39f-9c14a83a4cdf/3798919747-500.jpg" data-tags="hip-hop, hip hop" role="button">
@@ -138,7 +138,7 @@ Against Me! - As the Eternal Cowboy (2003-11-04)
 <li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
 Low - The Great Destroyer (2004)
 </li>
-<li data-cover="https://img.discogs.com/dnQuZ3dF8FvX7A38s1MAHJcP1OU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1004351-1341462296-8300.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -162,7 +162,7 @@ Madrugada - The Deep End (2005-02-28)
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)
 </li>
-<li data-cover="https://img.discogs.com/v3gzd1XCBN75_Kk5Y5CMp_7byl8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-522416-1127219602.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/anzSGKFBMIcDM4gL8mANEVa6RAs=/fit-in/433x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1194124-1608722085-6124.jpeg.jpg" data-tags="folk" role="button">
 Devendra Banhart - Cripple Crow (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c34c8-469a-4192-811d-095c1f8790b7/17000671940-500.jpg" data-tags="screamo" role="button">
@@ -189,7 +189,7 @@ Damien Jurado - And Now That I'm In Your Shadow (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/c9294302-9589-4859-a0ed-d82c65b017db/4724008040-500.jpg" data-tags="alternative rock, alternative" role="button">
 Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 </li>
-<li data-cover="https://img.discogs.com/UjouSGXxKlP4g4Hum9jK-pooyXw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1596006-1297856519.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
+<li data-cover="https://img.discogs.com/-XnFkV2hRHI2Iu3E3Kb1jH9Y0eM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845159-1269046384.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
 Clipse - Hell Hath No Fury (2006-11-28)
 </li>
 <li data-cover="https://img.discogs.com/dKC_ba-hfahXXfAu-PyUPnaqW4w=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830764-1517972935-2117.jpeg.jpg" data-tags="blues, m singer-songwriter" role="button">

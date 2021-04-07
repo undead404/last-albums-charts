@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:12:01.473Z
+date: 2021-04-07T09:57:01.489Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -134,9 +134,6 @@ Colbie Caillat - Coco (2007-01-01)
 </li>
 <li data-cover="https://img.discogs.com/FJRuQ-u_ekJz7axuWvYJow0CTTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326266-1508526547-8034.jpeg.jpg" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
-Ashley Tisdale - Headstrong (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
@@ -302,6 +299,9 @@ Bastille - Bad Blood (2013-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
+Katy Perry - PRISM (2013-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7d800c7-ba01-4631-a6e2-7bb5caaf8e58/5494741689-500.jpg" data-tags="pop" role="button">
 Lady Gaga - ARTPOP (2013-11-05)

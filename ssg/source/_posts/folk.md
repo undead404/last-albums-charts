@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:17:01.474Z
+date: 2021-04-07T10:29:01.540Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -60,7 +60,7 @@ Neil Young - Harvest (1972-02-14)
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
 </li>
-<li data-cover="https://img.discogs.com/CYW6Y317xlXq4ziqGYF1R4xOfFk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8980958-1498015910-8188.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/9fWLTsE4JHZAhr3CChzNuGTLa14=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13964084-1565033878-2214.jpeg.jpg" data-tags="folk" role="button">
 Bob Dylan - Blood on the Tracks (1975-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">
@@ -180,11 +180,17 @@ Andrew Bird - Armchair Apocrypha (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/9082127b-c734-4e0c-852a-ba986d96aba9/26066685976-500.jpg" data-tags="indie" role="button">
+Bright Eyes - Cassadaga (2007-04-09)
+</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie folk" role="button">
+Beirut - The Flying Club Cup (2007-10-08)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
@@ -261,9 +267,6 @@ The Civil Wars - Barton Hollow (2011-01-10)
 <li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Helplessness Blues (2011-04-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">
-Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/3c763b64-12d2-4c61-9d4b-11eb06c2138d/13215984516-500.jpg" data-tags="indie, folk" role="button">
 Beirut - The Rip Tide (2011-08-02)
 </li>
@@ -282,23 +285,20 @@ Birdy - Birdy (2011-11-07)
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
+Passenger - All the Little Lights (2012-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">
 The Lumineers - The Lumineers (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
 </li>
-<li data-cover="https://img.discogs.com/cw9XEK-h15N5OvL8weRv3k2UsoA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3978490-1351204638-3482.jpeg.jpg" data-tags="folk" role="button">
-Lord Huron - Lonesome Dreams (2012-10-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/8077f6cd-1c02-484f-a19f-30833734edf2/11593007264-500.jpg" data-tags="indie, indie pop, indie folk, folk" role="button">
 Milky Chance - Sadnecessary (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a07df9fe-a276-44ed-99f8-41bfcd53daa3/4764876876-500.jpg" data-tags="folk" role="button">
 Edward Sharpe & The Magnetic Zeros - Edward Sharpe & The Magnetic Zeros (2013-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
-Agnes Obel - Aventine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)

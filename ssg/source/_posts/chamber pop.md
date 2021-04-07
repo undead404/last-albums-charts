@@ -1,10 +1,10 @@
 ---
-date: 2021-04-06T15:28:01.518Z
+date: 2021-04-07T10:39:01.452Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Begin to Hope (2006-06-13)](http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg "Regina Spektor - Begin to Hope (2006-06-13)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">Antony and the Johnsons - Antony and the Johnsons (2000-05-01)</li>
+<li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">Antony and the Johnsons - Antony and the Johnsons (2000-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Illinois (2005-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
@@ -54,7 +54,7 @@ Mercury Rev - Deserter's Songs (1998-09-19)
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
 </li>
-<li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
+<li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/add3661e-ae37-3d89-92fb-880e1979082e/7792901378-500.jpg" data-tags="indie, singer-songwriter, 00s" role="button">
@@ -66,7 +66,7 @@ Goldfrapp - Felt Mountain (2000-09-11)
 <li data-cover="https://img.discogs.com/TibqSK91e7gYQw00im6DZz27GAY=/fit-in/462x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063816-1314022205.jpeg.jpg" data-tags="chamber pop, melancholy, 00s, sensual, 2000s, divine comedy" role="button">
 The Divine Comedy - Regeneration (2001-03-07)
 </li>
-<li data-cover="https://img.discogs.com/nhSSbBGCHt-vCasZukQpBin2kns=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3049050-1313331841.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/vRrNNmW0km5ZuBI7V6nTf1YXtWY=/fit-in/404x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7404658-1440791038-3407.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/948a8a4c-23f3-4bf2-b201-dcb68a89b897/22908767075-500.jpg" data-tags="slowcore" role="button">
@@ -75,13 +75,16 @@ Carissa's Wierd - Songs about Leaving (2002-08-06)
 <li data-cover="http://coverartarchive.org/release/05b8a456-27e6-4fdf-9c4e-7f0953ffc1e2/27739797760-500.jpg" data-tags="indie rock" role="button">
 The Dears - No Cities Left (2003-04-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
+Sufjan Stevens - Michigan (2003-07-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
 Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
-<li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
+<li data-cover="https://img.discogs.com/ZheNj7ib0XSBSEbVJGVemAUeP8Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4101573-1429067469-2782.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
 Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 </li>
 <li data-cover="https://img.discogs.com/kqYj4ochAeSGmKUFfOnxgKhxmf0=/fit-in/475x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525696-1285843401.jpeg.jpg" data-tags="indie, female vocalists, female, indie pop, rock, indie rock, female vocalist, pop, alternative, alternative rock, girls, indie-rock, female vocals, female artists, female vocal, female voices, female singers, indie-pop, love song" role="button">
@@ -96,7 +99,7 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/27877053-2d88-48a1-8f3f-cab6e8c35cbd/8815137840-500.jpg" data-tags="singer-songwriter, 00s" role="button">
@@ -219,7 +222,7 @@ Sufjan Stevens - The Age of Adz (2010-10-11)
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Helplessness Blues (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/65b11593-0c34-40f9-aef2-223a45299d12/1008589957-500.jpg" data-tags="fable" role="button">
@@ -281,9 +284,6 @@ Julia Holter - Loud City Song (2013-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b18b30a-e578-41eb-8d3d-1ff4a6a22d9d/12859926570-500.jpg" data-tags="trip-hop, electronic, chamber pop, art pop" role="button">
 Goldfrapp - Tales of Us (2013-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a9c0ff3-5456-4236-97cd-889854c4b873/6328805588-500.jpg" data-tags="electronic" role="button">
-Banks - London (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)

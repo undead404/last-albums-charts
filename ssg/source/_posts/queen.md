@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:40:01.426Z
+date: 2021-04-07T10:27:01.676Z
 title: "queen: 100 albums you must listen to before you die"
 ---
 ![Queen - Greatest Hits (1981-11-03)](http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg "Queen - Greatest Hits (1981-11-03)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/kwlLc-6BKea3Qm3oT_ct5swRXCE=/fit-in/450x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885283-1393960400-9430.jpeg.jpg" data-tags="jazz, free jazz" role="button">
+<li data-cover="https://img.discogs.com/nTJ-kQdf-S9JRsJeZVWnqEtYwlE=/fit-in/400x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215675-1281885978.jpeg.jpg" data-tags="jazz, free jazz" role="button">
 Alice Coltrane - A Monastic Trio (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/47a61826-8264-46e1-a1ef-e854618195c5/7784208473-500.jpg" data-tags="hard rock, 70s, classic rock, rock" role="button">
@@ -87,6 +87,9 @@ Queen - Live Magic (1986-12-01)
 <li data-cover="http://coverartarchive.org/release/4c10c905-c6cd-4d30-9831-cc51df751d4e/13581516810-500.jpg" data-tags="classic rock" role="button">
 Queen - Classic Queen (1989)
 </li>
+<li data-cover="http://coverartarchive.org/release/c4e61283-2dfc-44cb-8f07-ee7cef36dd71/3988045650-500.jpg" data-tags="queen" role="button">
+Queen - Greatest Hits IV (1989)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="queen" role="button">
 Queen - Queen Ballads (1989-11-27)
 </li>
@@ -111,7 +114,7 @@ Queen - Greatest Hits II (1991-10-28)
 <li data-cover="http://coverartarchive.org/release/6ce98bda-1db0-3915-bcd1-f0ffc63997d6/17058903036-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 Live - Mental Jewelry (1991-12-31)
 </li>
-<li data-cover="https://img.discogs.com/rmFizOowKwpeX1eprL1WLZZR8hc=/fit-in/600x888/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12331262-1533332807-5148.jpeg.jpg" data-tags="noise, trance, classic rock, metal, french, electropop, indie, pop, rockabilly, rock, 80s, british, alternative, hard, brutal, grindcore, hardcore, swedish, emo, folk, rap, grime, dubstep, electro, dance, c, australian, canada, queen, lalala, cheese, lo-fi, blue-eyed soul, new wave, dance-pop, americana, chamber pop, post-punk, adult contemporary, new age, techno, house, scottish, canadian, ska, 8-bit, new zealand, 90s, russian, sunday, jpop, mashup, argentina, dream pop, american, chiptune, g, eu, radio, cronica, spoken word, covers, k, aor, lazytown, bagpipes, hype, political, space rock, christian, christian rock, german, sarcasm, new weird america, geek, humour, glam rock, deep house, breakcore, youtube, frogs, nintendocore, greek, eurodance, gospel, kiwi, podcast, humor, anime, new jack swing, novelty, activist, pagan, doo-wop" role="button">
+<li data-cover="https://img.discogs.com/rmFizOowKwpeX1eprL1WLZZR8hc=/fit-in/600x888/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12331262-1533332807-5148.jpeg.jpg" data-tags="noise, trance, classic rock, metal, french, electropop, indie, pop, rockabilly, rock, 80s, british, alternative, hard, brutal, grindcore, hardcore, swedish, emo, folk, rap, grime, dubstep, electro, dance, australian, canada, queen, lalala, cheese, lo-fi, blue-eyed soul, new wave, dance-pop, americana, chamber pop, post-punk, adult contemporary, new age, techno, house, scottish, canadian, ska, 8-bit, new zealand, 90s, russian, sunday, jpop, mashup, argentina, dream pop, american, chiptune, radio, cronica, spoken word, covers, aor, lazytown, bagpipes, hype, political, space rock, christian, christian rock, german, sarcasm, new weird america, geek, humour, glam rock, deep house, breakcore, youtube, frogs, nintendocore, greek, eurodance, gospel, kiwi, podcast, humor, anime, new jack swing, novelty, activist, pagan, doo-wop" role="button">
 Mark Heard - Satellite Sky (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/73c8ab23-e16a-487f-8df0-fdc35444c1b9/10688325964-500.jpg" data-tags="queen" role="button">
@@ -132,7 +135,7 @@ Brian May - Back to the Light (1992-08-28)
 <li data-cover="http://coverartarchive.org/release/5f83ed19-f952-43a2-971d-1c7694a09b53/3697382844-500.jpg" data-tags="freddie mercury" role="button">
 Freddie Mercury - The Freddie Mercury Album (1992-11-16)
 </li>
-<li data-cover="https://img.discogs.com/Q5nclIeVKF5xj4YcR9-kGstjfVs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2233670-1452981816-5780.jpeg.jpg" data-tags="freddie mercury" role="button">
+<li data-cover="https://img.discogs.com/zp7yptlbzLDYHTgbKaoYqCxbn1k=/fit-in/341x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927096-1332647672.jpeg.jpg" data-tags="freddie mercury" role="button">
 Freddie Mercury - The Great Pretender (1992-11-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, rock, queen, 90s, oldies, male vocalists, close harmony" role="button">
@@ -176,9 +179,6 @@ Queen - The Best II (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef7fbadd-a206-3fdf-a54a-af3cbbc7a718/8402097687-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Queen Rocks (1997-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/a125285a-7bfa-420b-8b7c-2ac420636b92/856773319-500.jpg" data-tags="electronic" role="button">
-Özlem Tekin - Öz (1998-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c496d633-5a56-4dbd-8b67-083c11562754/856778718-500.jpg" data-tags="hard rock, rebel, brutal vocal" role="button">
 Özlem Tekin - Laubali (1999)
@@ -249,7 +249,7 @@ Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
 <li data-cover="http://coverartarchive.org/release/7a9a37e4-bda6-4ed9-bbba-c0cf45b3e61c/8854826852-500.jpg" data-tags="j-pop" role="button">
 倖田來未 - TRICK (2009-01-28)
 </li>
-<li data-cover="https://img.discogs.com/Wq5FLroAT1Wc7GbzcR93VRn93Ag=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1695097-1535043005-8838.jpeg.jpg" data-tags="pop, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/7y1nNAmoDkMFbQ7Sn6EJL53Ytn0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2071053-1455948684-2745.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Basia - It's That Girl Again (2009-03-11)
 </li>
 <li data-cover="https://img.discogs.com/APnoeayZSQCVD8Cczq7lh4WyUUM=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574512-1234360606.jpeg.jpg" data-tags="rock" role="button">

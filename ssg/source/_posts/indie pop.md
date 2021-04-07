@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:59:01.413Z
+date: 2021-04-07T10:09:01.529Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -252,6 +252,9 @@ Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
 <li data-cover="http://coverartarchive.org/release/ecfddb21-48c1-44b3-8918-365403b6459a/1802907186-500.jpg" data-tags="indie pop, indie rock, indietronica" role="button">
 Django Django - Django Django (2012-01-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
+Passenger - All the Little Lights (2012-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
 alt-J - An Awesome Wave (2012-05-28)
 </li>
@@ -291,9 +294,6 @@ Vampire Weekend - Modern Vampires of the City (2013-05-06)
 <li data-cover="http://coverartarchive.org/release/8077f6cd-1c02-484f-a19f-30833734edf2/11593007264-500.jpg" data-tags="indie, indie pop, indie folk, folk" role="button">
 Milky Chance - Sadnecessary (2013-05-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
-Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
 </li>
@@ -303,14 +303,14 @@ The 1975 - The 1975 (2013-08-30)
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
+Arcade Fire - Reflektor (2013-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
 Sky Ferreira - Night Time, My Time (2013-10-29)
-</li>
-<li data-cover="https://img.discogs.com/CRb0Gk5Yo5pl0J6FZ1BqhuAcSw4=/fit-in/599x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5377841-1391891764-4561.jpeg.jpg" data-tags="indie rock, indie, indie pop" role="button">
-Bombay Bicycle Club - So Long, See You Tomorrow (2014-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)

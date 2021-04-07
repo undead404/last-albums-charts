@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:05:01.477Z
+date: 2021-04-07T09:46:06.856Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -177,9 +177,6 @@ Mad Caddies - Rock The Plank (2001-04-10)
 <li data-cover="https://img.discogs.com/iTW0tmDT0oTsSLDHR2VehOonFz0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3374351-1390864723-4747.jpeg.jpg" data-tags="progressive rock" role="button">
 RX Bandits - Progress (2001-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce3ca604-377b-4a04-8991-22e10f8b65a2/22979586770-500.jpg" data-tags="crack rock steady, punk, hardcore punk" role="button">
-Leftöver Crack - Mediocre Generica (2001-08-28)
-</li>
 <li data-cover="https://img.discogs.com/yXqu2Oa8ZPJtoxM9QzB-3pZLh-g=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512436-1289033350.jpeg.jpg" data-tags="punk rock, pop punk, ska punk" role="button">
 Goldfinger - Open Your Eyes (2002)
 </li>
@@ -234,6 +231,9 @@ Mad Caddies - Live From Toronto: Songs In The Key Of Eh (2004-09-21)
 <li data-cover="http://coverartarchive.org/release/8f19fa4e-f574-4c86-bc56-9362fb4f995a/4713235154-500.jpg" data-tags="ska" role="button">
 Big D And The Kids Table - How It Goes (2004-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/cece828f-b3e0-4b6f-a9ad-b6fa219c47c8/4723772725-500.jpg" data-tags="ska punk" role="button">
+Bomb the Music Industry! - Album Minus Band (2005-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/f84f64a3-e01f-4eb1-9547-6d3999f1593d/13617182004-500.jpg" data-tags="punk, ska" role="button">
 Goldfinger - The Best Of Goldfinger (2005-02-19)
 </li>
@@ -242,9 +242,6 @@ Reel Big Fish - We're Not Happy 'til You're Not Happy (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f05702c0-a8ef-473f-9ce8-e9dbb4ca10a0/4964947583-500.jpg" data-tags="ska" role="button">
 The Aquabats - Charge!! (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
-Boys Night Out - Trainwreck (2005-07-26)
 </li>
 <li data-cover="https://img.discogs.com/PNjGbQhy6lNCujx_Kdd2GBiuLyE=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-651885-1285922617.jpeg.jpg" data-tags="punk" role="button">
 The Suicide Machines - War Profiteering Is Killing Us All (2005-08-09)
@@ -297,6 +294,9 @@ Less Than Jake - GNV FLA (2008-06-23)
 <li data-cover="http://coverartarchive.org/release/195b1120-6f49-48d5-af0b-9753aad7be4b/10142577578-500.jpg" data-tags="ska-punk" role="button">
 Ska-P - Lagrimas Y Gozos (2008-10-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/4de390fa-42ce-3d6f-affa-a0946566ffd1/4812818167-500.jpg" data-tags="ska punk" role="button">
+The King Blues - Save the World, Get the Girl (2008-10-19)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="punk, ska punk" role="button">
 Bomb the Music Industry! - Scrambles (2009-02-15)
 </li>
@@ -306,11 +306,11 @@ NOFX - Coaster (2009-04-28)
 <li data-cover="http://coverartarchive.org/release/324cdbb0-578d-353c-a34b-401b24ce3b57/3117012656-500.jpg" data-tags="belarusian, ska punk" role="button">
 Ляпис Трубецкой - Культпросвет (2009-08-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/0d35cd68-6160-404c-8b9f-7d03ea8152d7/3263311252-500.jpg" data-tags="ska punk" role="button">
+Bomb the Music Industry! - Adults!!!... Smart!!! Shithammered!!! And Excited By Nothing!!!!!!! (2010-02-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/25a97fae-0cf7-4363-8fae-74b35ea88b14/4673555729-500.jpg" data-tags="rock, punk, reggae, ska punk" role="button">
 Sublime with Rome - Yours Truly (2011-07-08)
-</li>
-<li data-cover="https://img.discogs.com/yTE95Iyji3idxlRz5HoDfUyskHQ=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3902469-1582178853-6309.jpeg.jpg" data-tags="alternative, pop" role="button">
-No Doubt - Push and Shove (2012-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/58acf0d2-1f23-410a-a4d4-9a2f7213923a/1648091823-500.jpg" data-tags="ska punk" role="button">
 Reel Big Fish - Candy Coated Fury (2012-07-31)

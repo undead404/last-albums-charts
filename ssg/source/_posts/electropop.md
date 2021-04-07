@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T00:13:01.425Z
+date: 2021-04-07T10:20:01.634Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -27,7 +27,7 @@ Ladytron - Light & Magic (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
 </li>
-<li data-cover="https://img.discogs.com/beKc7sAiHUweEnNafpZsZziLVjg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-608223-1572388236-8158.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
+<li data-cover="https://img.discogs.com/G9kv_Cz0yCIcRwzezpldjlGmDcQ=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1319382-1350940693-5232.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
 Robyn - Robyn (2005)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
@@ -47,9 +47,6 @@ Paris Hilton - Paris (2006-08-14)
 </li>
 <li data-cover="https://img.discogs.com/z9f81NG8CjM29-HgnG9nFV63g-c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9861750-1487608973-7636.jpeg.jpg" data-tags="electronic" role="button">
 Junior Boys - So This Is Goodbye (2006-09-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
-Ashley Tisdale - Headstrong (2007-02-06)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
@@ -261,9 +258,6 @@ Ellie Goulding - Halcyon Days (2012-10-05)
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/72d7984a-f923-4136-aa15-ab75499d1c70/2940296786-500.jpg" data-tags="die young" role="button">
-Ke$ha - Die Young (2012-11-19)
-</li>
 <li data-cover="https://img.discogs.com/jWX-99JX-c4vhbj23lyq68P1c68=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5347786-1391148311-4423.png.jpg" data-tags="electropop" role="button">
 BROODS - BROODS (2013-01-01)
 </li>
@@ -279,6 +273,9 @@ Avicii - True (2013-08-13)
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/d5baa187-0ebd-4738-8b37-2499adb0a6ac/5267464883-500.jpg" data-tags="pop" role="button">
+Icona Pop - This Is... Icona Pop (2013-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
@@ -290,6 +287,9 @@ Lady Gaga - ARTPOP (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">
+MØ - Don't Wanna Dance (2014-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/77fe735b-a0ce-4f69-8825-866795db205a/10503497516-500.jpg" data-tags="electronic, electropop, indie, alternative, experimental, indie pop, folktronica, 2010s" role="button">
 Sylvan Esso - Sylvan Esso (2014-05-12)
@@ -315,7 +315,7 @@ Pitbull - Globalization (2014-11-21)
 <li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
 David Guetta - Listen (2014-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, c, girls, g, k, sex, buy, j, lovely, electro rock, greatest hits, lost, porn, e, misc, pee pee, vagina, abc, breasts, sounds, parts, tits, i, tags, tag, moisture, o, else, thursday, bananas, x, pork, moses, girlfriend" role="button">
+<li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, girls, sex, lovely, electro rock, greatest hits, lost, porn, pee pee, vagina, abc, breasts, sounds, parts, tits, tags, tag, moisture, else, thursday, bananas, pork, moses, girlfriend" role="button">
 Selena Gomez - For You (2014-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:59:01.429Z
+date: 2021-04-07T10:22:01.664Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -108,9 +108,6 @@ Canned Heat - The Best of Canned Heat (1987)
 <li data-cover="http://coverartarchive.org/release/541d890a-9ecd-4d75-8db3-883b706d434a/4010641500-500.jpg" data-tags="blues, singer-songwriter" role="button">
 Tom Waits - Franks Wild Years (1987-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/2114b05d-ed95-46e3-863c-f8ff7805a636/26358685335-500.jpg" data-tags="60s, classic rock, blues rock" role="button">
-The Yardbirds - For Your Love (1988)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, soul, blues" role="button">
 Ray Charles - Anthology (1988-10-25)
 </li>
@@ -192,7 +189,7 @@ John Mayer - Heavier Things (2003-09-09)
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ea6d063-de17-3423-80f1-ed21563c47b2/22164226793-500.jpg" data-tags="soul, blues, jazz" role="button">
@@ -204,7 +201,7 @@ The Black Keys - Rubber Factory (2004-09-07)
 <li data-cover="https://img.discogs.com/gcvh_G1cU7K2nvX7-zDztowbVh4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438161-1558967298-3250.jpeg.jpg" data-tags="blues, experimental" role="button">
 Tom Waits - Real Gone (2004-10-04)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
@@ -266,6 +263,9 @@ Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
+</li>
+<li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
+Blakroc - Blakroc (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)

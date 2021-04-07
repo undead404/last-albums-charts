@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T14:58:01.373Z
+date: 2021-04-07T10:26:01.607Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -77,6 +77,9 @@ Kid Loco - A Grand Love Story (1997-11-25)
 </li>
 <li data-cover="https://img.discogs.com/XMY4ZtiuNErL1mPBnUuOi4CiN6g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13711-1180502340.jpeg.jpg" data-tags="trip-hop" role="button">
 Esthero - Breath From Another (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
+Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d/2328143152-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Big Calm (1998-03-16)
@@ -212,9 +215,6 @@ Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
-Röyksopp - The Understanding (2005-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f59c5f9-10f2-4a7e-bbad-1a9ba66cfd58/26309277066-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Yonderboi - SPLENDID ISOLATION (2005-10-21)
