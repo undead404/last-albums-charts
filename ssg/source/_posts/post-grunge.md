@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:02:07.130Z
+date: 2021-04-07T00:34:01.426Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -171,7 +171,7 @@ Shinedown - Leave a Whisper (2003-05-27)
 <li data-cover="http://coverartarchive.org/release/48cbd381-4018-4820-b8c9-369145b1022b/17554708954-500.jpg" data-tags="post-grunge" role="button">
 Smile Empty Soul - Smile Empty Soul (2003-05-27)
 </li>
-<li data-cover="https://img.discogs.com/F2cpcdILzz-YBjRBN9JCs-TkyB0=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1107422-1251012254.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/eGx6Y-3O73jhjS-yqKsK2RzAty8=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386093-1449454879-5476.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Hoobastank - The Reason (2003-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
@@ -179,6 +179,9 @@ Three Days Grace - Three Days Grace (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3fad414-9b92-4d04-b703-9605d5d33bac/11826715727-500.jpg" data-tags="rock" role="button">
 Nickelback - The Long Road (2003-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">
+No Doubt - The Singles 1992-2003 (2003-10-28)
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
@@ -308,9 +311,6 @@ Shinedown - Amaryllis (2012-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f106eee-fcaf-4fb6-9378-5aa3381610f5/12078409397-500.jpg" data-tags="post-grunge" role="button">
 The Pretty Reckless - Kill Me (2012-12-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/75f44d76-a304-46c2-8dab-9d5912ab7dc4/7454084925-500.jpg" data-tags="alternative metal" role="button">
-Alter Bridge - Fortress (2013-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/31fde46c-fca1-4e58-87a7-2dbdac1d0c72/16480922138-500.jpg" data-tags="hard rock, alternative rock" role="button">
 The Pretty Reckless - Going to Hell (2014-03-12)
