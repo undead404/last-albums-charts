@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T02:21:01.440Z
+date: 2021-04-07T13:23:01.616Z
 title: "fun: 100 albums you must listen to before you die"
 ---
 ![fun. - We Are Young (2011-09-20)](http://coverartarchive.org/release/ccb2d3cf-585b-4fdd-a9df-037ecdb696c1/1904664745-500.jpg "fun. - We Are Young (2011-09-20)")
@@ -12,7 +12,7 @@ title: "fun: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/33570167-89d3-4084-bb4c-8a90cd0926de/16068681602-500.jpg" data-tags="electronic, idm, fun" role="button">Modeselektor - Happy Birthday! (2007-09-10)</li>
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="tik tok, pop" role="button">Ke$ha - TiK ToK (2009-08-07)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
-<li data-cover="https://img.discogs.com/2IIK8qOIU4JM6j4oSC2Fhkfej9s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-856907-1186603009.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)</li>
+<li data-cover="https://img.discogs.com/BkThKkDDr2gMbndYN8uMBxQF83g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12795746-1542108268-8754.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/ccb2d3cf-585b-4fdd-a9df-037ecdb696c1/1904664745-500.jpg" data-tags="we are young" role="button">fun. - We Are Young (2011-09-20)</li>
 </ol>
 List of 100 - under the cut.
@@ -123,7 +123,7 @@ Annie - Anniemal (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/4ea7fd37-063a-41bc-9906-5529a371b77d/11246499482-500.jpg" data-tags="spoken word" role="button">
 William Shatner - Has Been (2004-10-04)
 </li>
-<li data-cover="https://img.discogs.com/nMi29_-lm1KFl0pINXn_06Tj8k4=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480402-1290441220.jpeg.jpg" data-tags="folk, indie" role="button">
+<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
@@ -168,7 +168,7 @@ Cartel - Chroma (2005-09-20)
 <li data-cover="http://coverartarchive.org/release/4b002b0e-3d58-4fea-a980-4b0577b32508/15696520432-500.jpg" data-tags="indie, indie rock" role="button">
 Wolf Parade - Apologies to the Queen Mary (2005-09-27)
 </li>
-<li data-cover="https://img.discogs.com/HdqR2t5Zyrn-jtdZKeihRDft8JM=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4471963-1481024097-5978.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/ST9KW2ZxU6UQkbvAd0tmQkWjtsg=/fit-in/541x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8894620-1470968847-7555.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
@@ -177,11 +177,11 @@ John Mayer Trio - Try! (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/71a6c336-181f-4a04-bc3a-ed995b1b051c/5766735274-500.jpg" data-tags="energy, catchy, fun, nostalgia, freaking awesome, songs on repeat, awesomeness in the form of sound, inspire, im addicted to, songs that make you want to jump, you must hide your knowledge of this one, reasons to get up in the morning, adictive, stick in head, rock a lot, my vices, this song makes me happy in the pants" role="button">
 Forfun - Teoria Dinâmica Gastativa (2005-12-01)
 </li>
-<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
-Islands - Return to the Sea (2006-04-03)
-</li>
 <li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/bda677c0-7733-4991-8f04-1139179d32c2/23478863886-500.jpg" data-tags="fun, joy, purchased 09" role="button">
+James Morrison - You Give Me Something (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
@@ -194,6 +194,9 @@ Missy Elliott - Respect M.E. (2006-09-04)
 </li>
 <li data-cover="https://img.discogs.com/snOrC0bXnHErjUw8e3K46TwfY3Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2146798-1321327396.jpeg.jpg" data-tags="indie, rock, emo" role="button">
 Between the Trees - The Story and The Song (2006-09-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, fun, quiet, my top albums, beutiful, allmusicl" role="button">
+Lucero - Rebels, Rogues & Sworn Brothers (2006-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
@@ -221,9 +224,6 @@ Ludo - You're Awful, I Love You (2008-02-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Flight of the Conchords - Flight of the Conchords (2008-04-21)
-</li>
-<li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
-Tokyo Police Club - Elephant Shell (2008-04-22)
 </li>
 <li data-cover="https://img.discogs.com/XoYTjDZ1UfVtQRGBen03ECikX-8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289786-1327107072.jpeg.jpg" data-tags="rap" role="button">
 The Streets - Everything Is Borrowed (2008-09-15)
@@ -258,7 +258,7 @@ Yeasayer - Odd Blood (2010-02-08)
 <li data-cover="https://img.discogs.com/fufXwUPaJYlNo8pgCVOOzItU-08=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4491129-1514906851-8524.jpeg.jpg" data-tags="rnb" role="button">
 Jason Derülo - Jason Derülo (2010-02-26)
 </li>
-<li data-cover="https://img.discogs.com/2IIK8qOIU4JM6j4oSC2Fhkfej9s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-856907-1186603009.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
+<li data-cover="https://img.discogs.com/BkThKkDDr2gMbndYN8uMBxQF83g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12795746-1542108268-8754.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
 Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)
 </li>
 <li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
@@ -312,7 +312,7 @@ Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)
 <li data-cover="http://coverartarchive.org/release/061227cc-726d-4dbb-96e2-7e6da17c2dbb/7322842299-500.jpg" data-tags="pop" role="button">
 Cher Lloyd - Sorry I'm Late (2014-05-27)
 </li>
-<li data-cover="https://img.discogs.com/x5oKfB7BdsnVEppEucbey1HsQK0=/fit-in/600x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-904358-1171583965.jpeg.jpg" data-tags="fun, misc, shady, grady, free range caucasians, free range, shady grady, beneficial" role="button">
+<li data-cover="https://img.discogs.com/haY-C5OIWsh2l8J_gAJa2dIWlyQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1022352-1312741045.jpeg.jpg" data-tags="fun, misc, shady, grady, free range caucasians, free range, shady grady, beneficial" role="button">
 OK Go - Upside Out (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3a9bdf6-6370-40ef-a84c-4cb086e2a27f/8567636754-500.jpg" data-tags="indie, rock, alternative, indie rock" role="button">

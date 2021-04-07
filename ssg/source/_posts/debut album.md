@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:23:06.960Z
+date: 2021-04-07T13:14:01.821Z
 title: "debut album: 100 albums you must listen to before you die"
 ---
 ![Allah-Las - Allah-Las (2012-09-18)](http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg "Allah-Las - Allah-Las (2012-09-18)")
@@ -7,7 +7,7 @@ title: "debut album: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/9I7JTrWnsRh-S4yqoQIaiWEGATQ=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8828583-1469717205-5431.jpeg.jpg" data-tags="rock, 60s, garage rock, debut album" role="button">The Kinks - Kinks (1964-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">Placebo - Placebo (1996-06-12)</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">Razorlight - Up All Night (2004-06-28)</li>
-<li data-cover="https://img.discogs.com/jlp63LH5DqAjOlda_wvcAXwwwsA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806157-1485267725-5412.jpeg.jpg" data-tags="indie, rock, british" role="button">The Rifles - No Love Lost (2006-07-17)</li>
+<li data-cover="https://img.discogs.com/gnVWx4sHJLjeOGRVJSvz69607GU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1567864-1465986620-1462.jpeg.jpg" data-tags="indie, rock, british" role="button">The Rifles - No Love Lost (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">Little Joy - Little Joy (2008-11-03)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
 <li data-cover="http://coverartarchive.org/release/7d48bbf8-6ce7-4fe8-be42-c5dc8ddfa5ae/6441498616-500.jpg" data-tags="schoolboy q" role="button">ScHoolboy Q - Habits & Contradictions (2012-01-14)</li>
@@ -84,6 +84,9 @@ Big Audio Dynamite - This Is Big Audio Dynamite (1985)
 <li data-cover="http://coverartarchive.org/release/58622554-579e-461b-86b7-2f91a6d8b958/26663082236-500.jpg" data-tags="indie" role="button">
 Dinosaur Jr. - Dinosaur (1985-07-05)
 </li>
+<li data-cover="https://img.discogs.com/lSQ2Dm03zcPucXA80L3T8rY_-ic=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1000845-1182632136.jpeg.jpg" data-tags="80s, synthpop" role="button">
+Pet Shop Boys - Please (1986-03-24)
+</li>
 <li data-cover="https://img.discogs.com/GCA2x6MG0TfP_Dot0OCgWBmro1Q=/fit-in/600x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-756678-1436111517-3414.jpeg.jpg" data-tags="80s" role="button">
 Morrissey - Viva Hate (1988-03-14)
 </li>
@@ -99,7 +102,7 @@ The Charlatans - Some Friendly (1990-09-25)
 <li data-cover="http://coverartarchive.org/release/80f54c45-41da-4b57-9b16-490972c0c3c6/15001308505-500.jpg" data-tags="electronic, 90s, alternative dance" role="button">
 EMF - Schubert Dip (1991-05-10)
 </li>
-<li data-cover="https://img.discogs.com/ZYnCndpl29canLySH7Y5q2iMw0g=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405124-1491629584-2051.jpeg.jpg" data-tags="morphine, 90s, alternative, jazz rock" role="button">
+<li data-cover="https://img.discogs.com/ygbtWyhBA34L3aIc-x6JhsUggmY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2753074-1509751324-7430.jpeg.jpg" data-tags="morphine, 90s, alternative, jazz rock" role="button">
 Morphine - Good (1992)
 </li>
 <li data-cover="https://img.discogs.com/GQLcU8u1ZNMwfInUdtY2_Uz6nQ0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3688303-1471467370-3560.jpeg.jpg" data-tags="90s, rock" role="button">
@@ -159,7 +162,7 @@ Badly Drawn Boy - The Hour of Bewilderbeast (2000-06-21)
 <li data-cover="http://coverartarchive.org/release/6bf0759a-5f52-4626-93fa-cac470fbd0be/15836511212-500.jpg" data-tags="usa, blues rock, garage, desert, debut album" role="button">
 Soledad Brothers - Soledad Brothers (2000-07-18)
 </li>
-<li data-cover="https://img.discogs.com/NQj-xcvn78uvo-R-IvOCY06ggpA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1024041-1316797680.jpeg.jpg" data-tags="british" role="button">
+<li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
 I Am Kloot - Natural History (2001-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
@@ -177,7 +180,7 @@ The Coral - The Coral (2002-07-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Music - The Music (2002-08-19)
 </li>
-<li data-cover="https://img.discogs.com/iUskRhE7d3WQ4cek7FBjkG1rz-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8586657-1464575249-5810.jpeg.jpg" data-tags="2003, garage rock" role="button">
+<li data-cover="https://img.discogs.com/iUskRhE7d3WQ4cek7FBjkG1rz-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8586657-1464575249-5810.jpeg.jpg" data-tags="garage rock, rock, alternative" role="button">
 The Kills - Keep On Your Mean Side (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d536cf3e-9910-3c32-b390-53ecae67000b/9037915381-500.jpg" data-tags="indie, indie rock" role="button">
@@ -192,9 +195,6 @@ Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
-<li data-cover="https://img.discogs.com/R1D4tUS09o9lOBFpzWnq0Tb1_bw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-401444-1295463795.jpeg.jpg" data-tags="garage rock, indie rock" role="button">
-The Duke Spirit - Cuts Across the Land (2004-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
 Black Mountain - Black Mountain (2005-01-18)
 </li>
@@ -204,7 +204,7 @@ The Paddingtons - First Comes First (2005-10-31)
 <li data-cover="https://img.discogs.com/dU1gZJMWlQa8hV4L8CyoavxBWQs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649256-1264263574.jpeg.jpg" data-tags="electronic" role="button">
 Jim Noir - Tower Of Love (2005-12-05)
 </li>
-<li data-cover="https://img.discogs.com/jlp63LH5DqAjOlda_wvcAXwwwsA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806157-1485267725-5412.jpeg.jpg" data-tags="indie, rock, british" role="button">
+<li data-cover="https://img.discogs.com/gnVWx4sHJLjeOGRVJSvz69607GU=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1567864-1465986620-1462.jpeg.jpg" data-tags="indie, rock, british" role="button">
 The Rifles - No Love Lost (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8083060-20fe-4397-88d3-36368a24cf2b/16059733872-500.jpg" data-tags="indie, acoustic" role="button">
@@ -228,7 +228,7 @@ Harrisons - No Fighting in the War Room (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/215168e7-8c33-4179-8fb0-3d611e0b3ef9/3366854262-500.jpg" data-tags="canadian, death, 2000s, debut album, never, die, studio album, legends never die, the dreadnoughts, k1r7m, golden tee records" role="button">
 The Dreadnoughts - Legends Never Die (2007-07)
 </li>
-<li data-cover="https://img.discogs.com/q81n-Tc1G-pdFVypsTkZccVlWQA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179575-1211888554.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/guPIzgSzoenHmmS7IeFD2j5ZvO0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222635-1201797400.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Wooden Shjips - Wooden Shjips (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/91dfdd3e-378a-4016-b03a-9da0f21bdd5c/6043912522-500.jpg" data-tags="day26" role="button">

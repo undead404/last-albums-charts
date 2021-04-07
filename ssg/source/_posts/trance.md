@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:44:01.382Z
+date: 2021-04-07T13:10:01.458Z
 title: "trance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -41,9 +41,6 @@ Faithless - Reverence (1997-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/59c9a570-4d4b-414e-90c1-f1f8c59fc21e/4225986565-500.jpg" data-tags="trance, psytrance, goa trance" role="button">
 Juno Reactor - Bible of Dreams (1997-06-18)
-</li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="trance" role="button">
-Sash! - It's My Life (1997-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">
 BT - ESCM (1997-09-08)
@@ -96,7 +93,7 @@ Paul van Dyk - Out There and Back (2000-06-05)
 <li data-cover="http://coverartarchive.org/release/238adee4-f390-32ec-922c-5a46caee589b/5378433829-500.jpg" data-tags="trance, psytrance, electronic" role="button">
 Juno Reactor - Shango (2000-10-09)
 </li>
-<li data-cover="https://img.discogs.com/H3ZECeuQG99xOeDtVk_aVMyBsOE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1999310-1387021723-8245.jpeg.jpg" data-tags="trance" role="button">
+<li data-cover="https://img.discogs.com/-k4pym2G-H-LcS7DtmhaEI6LyHE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614228-1408673780-6950.jpeg.jpg" data-tags="trance" role="button">
 ATB - Two Worlds (2000-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd5f83f2-fd01-4fc8-9fc6-e8620bc6cd53/8844514503-500.jpg" data-tags="dance, trance" role="button">
@@ -224,6 +221,9 @@ BT - This Binary Universe (2006-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
+</li>
+<li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
+Nic Chagall - What You Need (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg" data-tags="psytrance, electronic" role="button">
 Infected Mushroom - Vicious Delicious (2007-03-20)

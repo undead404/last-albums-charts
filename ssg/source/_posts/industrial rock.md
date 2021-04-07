@@ -1,9 +1,10 @@
 ---
-date: 2021-04-07T03:41:01.396Z
+date: 2021-04-07T12:47:01.811Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">Nine Inch Nails - Pretty Hate Machine (1989-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/db8289f4-3602-31f6-a59b-3f57a7393908/1154285194-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - Broken (1992-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">Marilyn Manson - Mechanical Animals (1998-09-14)</li>
@@ -11,7 +12,6 @@ title: "industrial rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">Nine Inch Nails - With Teeth (2005-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">Nine Inch Nails - Year Zero (2007-04-14)</li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">Marilyn Manson - Eat Me, Drink Me (2007-06-01)</li>
-<li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">The Birthday Massacre - Walking With Strangers (2007-09-10)</li>
 <li data-cover="https://img.discogs.com/e44-Cpih6j4SWQr6_lkbMYyEq58=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2913558-1507813314-3617.png.jpg" data-tags="industrial rock, industrial" role="button">Nine Inch Nails - The Slip (2008-05-05)</li>
 <li data-cover="http://coverartarchive.org/release/a4659f71-2c62-4aa4-813a-b9e2924d8a50/2554039402-500.jpg" data-tags="industrial rock, alternative rock" role="button">Marilyn Manson - The High End Of Low (2009-05-19)</li>
 </ol>
@@ -21,14 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/843d0653-f15d-3d62-befc-ccc951e0db48/5857978636-500.jpg" data-tags="noise rock" role="button">
-Big Black - Songs About Fucking (1987)
-</li>
 <li data-cover="http://coverartarchive.org/release/06bacf92-484b-3b01-aceb-2d3f255f0971/27317292861-500.jpg" data-tags="post-punk, industrial" role="button">
 Swans - Children of God (1987-10-19)
 </li>
 <li data-cover="https://img.discogs.com/3VBq9ZgVdSI_QuufPlOB8TWoQ8k=/fit-in/591x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-318243-1212712353.jpeg.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - Down in It (1989-09-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
+Nine Inch Nails - Pretty Hate Machine (1989-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8efff778-8da9-441c-b2a7-1374da31426b/10149276948-500.jpg" data-tags="industrial, industrial rock" role="button">
 Nine Inch Nails - Head Like a Hole (1990-03-22)
@@ -99,7 +99,7 @@ Marilyn Manson - Antichrist Superstar (1996-10-08)
 <li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Pitchshifter - www.pitchshifter.com (1998-03-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial, industrial rock" role="button">
+<li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab30776c-8e8b-4554-858b-b0acd7cb74c1/27009518945-500.jpg" data-tags="industrial, industrial rock" role="button">
@@ -210,7 +210,7 @@ Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
 Nine Inch Nails - With Teeth (2005-04-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="synthpop, ebm" role="button">
+<li data-cover="https://img.discogs.com/DfDcweJoT-KSw2P-qwEaONzz82c=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524549-1127650288.jpeg.jpg" data-tags="synthpop, ebm" role="button">
 Apoptygma Berzerk - You and Me Against the World (2005-09-12)
 </li>
 <li data-cover="https://img.discogs.com/_rhWtCaaRWl4b45YL1jr9oAQt_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15806625-1598148122-3966.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
@@ -300,7 +300,7 @@ Puscifer - Conditions of My Parole (2011-10-18)
 <li data-cover="http://coverartarchive.org/release/b2c73acc-730a-4a41-9b9d-ed37021b82d2/6478274400-500.jpg" data-tags="industrial rock" role="button">
 Killing Joke - MMXII (2012-01-01)
 </li>
-<li data-cover="https://img.discogs.com/xdUzq92CbemgOQpNpXiPqTCjwfQ=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7030897-1432075798-2570.jpeg.jpg" data-tags="industrial rock" role="button">
+<li data-cover="https://img.discogs.com/ZIr-HPpfwmrAuKzHKqbiIt_EY6A=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3682585-1340200709-3247.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Born Villain (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">

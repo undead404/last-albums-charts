@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T02:03:01.382Z
+date: 2021-04-07T13:17:01.419Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![Beck - Sea Change (2002-09-21)](http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg "Beck - Sea Change (2002-09-21)")
@@ -183,9 +183,6 @@ Blackfield - Blackfield II (2007-02-09)
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/dbf7a1c7-d89c-3823-b2d1-6cf2515e3c31/8173020368-500.jpg" data-tags="shoegaze, indie rock, dream pop" role="button">
-Blonde Redhead - 23 (2007-04-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/301832d9-f503-4e5f-945c-f77e66c4cd59/936789634-500.jpg" data-tags="progressive rock" role="button">
 Antimatter - Leaving Eden (2007-04-13)
 </li>
@@ -260,6 +257,9 @@ Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/93922dd3-28a6-329a-ab40-a8c63535f743/3717426092-500.jpg" data-tags="indie, dream pop, 4ad" role="button">
 Blonde Redhead - Penny Sparkle (2010-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4e99609-79c1-4eb8-829b-f5bb800075d7/4515124418-500.jpg" data-tags="alternative, ambient, piano, cinematic, contemporary classical, melancholy, minimalism, melancholic, modern classical, neo-classical, experimental-ambient, minimal ambient, minimalist, neoclassical, modern composition, post-classical, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
+Hauschka - Salon des Amateurs (2011-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)

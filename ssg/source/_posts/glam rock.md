@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:12:01.392Z
+date: 2021-04-07T13:05:01.543Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![David Bowie - Space Oddity (1969-11-04)](https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg "David Bowie - Space Oddity (1969-11-04)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+The Easybeats - Friday on My Mind (1966)
+</li>
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
 David Bowie - Space Oddity (1969-11-04)
 </li>
@@ -120,7 +123,7 @@ Iggy Pop - Lust For Life (1977-08-29)
 <li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
 Queen - News Of The World (1977-10-28)
 </li>
-<li data-cover="https://img.discogs.com/-KfvCaGV1d1zql0plTQFXL89rXM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2091841-1263519075.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/3G1YjK2rF08gsg85RU7FrqnyNfc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-862142-1556033887-6249.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
 Japan - Adolescent Sex (1978-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
@@ -164,9 +167,6 @@ Cinderella - Night Songs (1986-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
 Queen - A Kind Of Magic (1986-06-02)
-</li>
-<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
-The Easybeats - Friday on My Mind (1987)
 </li>
 <li data-cover="https://img.discogs.com/JfDrrPTDdS04dLR1uOC9OPCZ0bk=/fit-in/550x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5773474-1402468848-3667.jpeg.jpg" data-tags="hard rock" role="button">
 Kiss - Crazy Nights (1987-09-15)
