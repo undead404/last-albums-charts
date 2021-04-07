@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T04:48:01.429Z
+date: 2021-04-07T14:48:01.395Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -38,9 +38,6 @@ Scientist - Scientist Rids the World of the Evil Curse of the Vampires (1981)
 </li>
 <li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
-</li>
-<li data-cover="https://img.discogs.com/W3eZVU8t-xs-vnAnxPNb66ZCsxE=/fit-in/439x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586476-1287610524.gif.jpg" data-tags="ska, rock" role="button">
-Sublime - 40 Oz. to Freedom (1992)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
 Dub Syndicate - Stoned Immaculate (1992-02-07)
@@ -92,6 +89,9 @@ Death in Vegas - The Contino Sessions (1999-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/47324ee9-729b-4114-87c0-39769b231456/17528939244-500.jpg" data-tags="dub" role="button">
 Pole - 3 (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/2de2916a-3597-45c1-a6b6-c5f49ae9dc5e/4817256557-500.jpg" data-tags="electronic, dub" role="button">
+Asian Dub Foundation - Community Music (2000-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d78a16f-edcb-4d38-a566-acc6a6e6cf97/1373820421-500.jpg" data-tags="dub" role="button">
 High Tone - Opus Incertum (2000-05)
