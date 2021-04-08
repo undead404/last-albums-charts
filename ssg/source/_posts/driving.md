@@ -1,16 +1,16 @@
 ---
-date: 2021-04-07T10:01:02.967Z
+date: 2021-04-08T09:02:01.479Z
 title: "driving: 100 albums you must listen to before you die"
 ---
 ![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/cc85b1de-cf7e-3241-9022-fea31857beab/16360798338-500.jpg" data-tags="electronic, electronica, french, electro, house, live, daft punk" role="button">Daft Punk - Alive 1997 (2001-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/2dac1fd4-94ec-390a-985d-c7440c647a99/11024423754-500.jpg" data-tags="piano rock" role="button">Something Corporate - Leaving Through the Window (2002-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/3895df67-624a-40ac-b5f7-db66bebff818/11597682469-500.jpg" data-tags="emo, indie rock, indie" role="button">The Early November - For All Of This (2002-11-05)</li>
 <li data-cover="http://coverartarchive.org/release/234140bb-6fb4-4672-88a1-a79f2b6b3530/15104527471-500.jpg" data-tags="indie, rock, alternative, alternative rock, indie rock, driving, punk rock, pop punk, game, burnout 3, chronic future, oh dear my face has melted" role="button">Chronic Future - Lines In My Face (2004-06-22)</li>
 <li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">Ben Kweller - Ben Kweller (2006-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/3bb79800-0644-4e8d-8274-0775a74de3ad/3302404966-500.jpg" data-tags="experimental" role="button">Dan Deacon - Bromst (2009-03-24)</li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">Little Dragon - Ritual Union (2011-05-13)</li>
+<li data-cover="http://coverartarchive.org/release/0006d58c-54fa-42b7-bdb3-50feb65d79e6/5129565913-500.jpg" data-tags="night club dance" role="button">The Wanted - Glad You Came (2011-07-10)</li>
 <li data-cover="https://img.discogs.com/SialTdLqfIVngta-WfhyvKRLeMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3826540-1345940532-4427.jpeg.jpg" data-tags="electronica, indie, experimental, indie electronic, epic, driving, intense, eclectic, 10s, baltimore, domino, wham city, builds, kaleidoscopic, dan deacon, wfmu heavily played records, 05-mediocre" role="button">Dan Deacon - America (2012-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/e1798dd8-58db-493a-bcec-ea3846ca6188/5116190233-500.jpg" data-tags="soul, funk, melodic, driving, energetic, summer, spiritual, reflection, uplifting, male vocalists, sophisticated, cerebral, summery, earth, celebration, celebratory, exuberant, empowerment, soothing, joyous, bright, theatrical" role="button">Earth, Wind & Fire - Now, Then & Forever (2013-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">Odesza - In Return (2014-09-08)</li>
@@ -21,10 +21,10 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/TTbl36u_Wg-E_n456nlMIIH-IZk=/fit-in/539x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5206907-1387464553-4020.jpeg.jpg" data-tags="new wave, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/LkU56dhFVorhZxfTQiDWSwYXZrE=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6516993-1421045537-2206.jpeg.jpg" data-tags="new wave, female vocalists" role="button">
 Blondie - Blondie (1976)
 </li>
-<li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, fun, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
+<li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e5f45e4-f449-4329-97c9-ca364cd89fbd/5449314458-500.jpg" data-tags="80s, new wave" role="button">
@@ -54,17 +54,17 @@ Moonpools & Caterpillars - Lucky Dumpling (1995)
 <li data-cover="http://coverartarchive.org/release/3d3df7f0-fc34-4d03-9f86-946026001551/18280945774-500.jpg" data-tags="trip-hop, experimental, psychedelic" role="button">
 Laika - Silver Apples of the Moon (1995)
 </li>
-<li data-cover="https://img.discogs.com/HwiLYCSTMn4o0E20DfK1FJC8qdI=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2454441-1284968060.jpeg.jpg" data-tags="funk" role="button">
+<li data-cover="https://img.discogs.com/vz_Bc5hxnLkdeYEHw3F7Ik0p1YU=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1480945-1283353361.jpeg.jpg" data-tags="funk" role="button">
 Keziah Jones - African Space Craft (1995-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7237af3e-56ec-4b3d-9f90-89cf40b273ab/17552180567-500.jpg" data-tags="ska, ska punk" role="button">
 Reel Big Fish - Everything Sucks (1995-05-05)
 </li>
+<li data-cover="https://img.discogs.com/JyFcrH_JEpNXy8i8Ea-ZiZJ-qBU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7382814-1440312037-2384.jpeg.jpg" data-tags="rock, driving, pearl jam, music to start the day to, marcelo" role="button">
+Pearl Jam - Immortality (1995-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/adf858c9-0a5b-46fd-9cb7-c38e7dd830cd/10315033497-500.jpg" data-tags="downtempo, ninja tune" role="button">
 Funki Porcini - Love, Pussycats & Carwrecks (1996-06-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/18711392-6de1-4aff-9f76-7e63f5726423/23767760876-500.jpg" data-tags="shoegaze, good cd" role="button">
-Curve - Chinese Burn (1997-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f47e641-aa91-4a9d-af30-82d83514889b/9710682175-500.jpg" data-tags="alternative rock" role="button">
 Bif Naked - I Bificus (1998-02-24)
@@ -72,7 +72,10 @@ Bif Naked - I Bificus (1998-02-24)
 <li data-cover="http://coverartarchive.org/release/92b4a8cc-f063-4230-9756-bfd661ceb311/7947429386-500.jpg" data-tags="shoegaze" role="button">
 Curve - Come Clean (1998-03-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
+<li data-cover="http://coverartarchive.org/release/d833584c-152e-4b75-bb4f-2baf226b88d2/10144689859-500.jpg" data-tags="nickelback" role="button">
+Nickelback - Leader of Men (1999)
+</li>
+<li data-cover="https://img.discogs.com/WiK-1OZ9OI_DiKWJMXnAm9S2tdM=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101246-1471092563-8075.jpeg.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Edge Of Forever (1999-08-03)
 </li>
 <li data-cover="https://img.discogs.com/nHTpM2iNFe_ieR9WlIT7WYck7WY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7860499-1589151037-6233.jpeg.jpg" data-tags="guster" role="button">
@@ -93,7 +96,7 @@ Stephen Kellogg - South of Stephen (2000-02-06)
 <li data-cover="http://coverartarchive.org/release/80f877df-0922-4e4b-91d6-d791f375384d/18280985415-500.jpg" data-tags="trip-hop" role="button">
 Laika - Good Looking Blues (2000-02-28)
 </li>
-<li data-cover="https://img.discogs.com/YsYJ1MswHU-DrIt0KyC-Pne63qY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3446335-1330708132.jpeg.jpg" data-tags="indie, 20 favorite albums of 2000" role="button">
+<li data-cover="https://img.discogs.com/bRAAlSTaA7gP-5av5UzoG9nqNrE=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12082594-1528226543-4343.jpeg.jpg" data-tags="indie, 20 favorite albums of 2000" role="button">
 Joseph Arthur - Come To Where I'm From (2000-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/70c071e9-8d39-42a1-b6f1-ccf992f9216d/1368793994-500.jpg" data-tags="hard rock" role="button">
@@ -120,7 +123,7 @@ Coldfinger - Sweet Moods and Interludes (2002)
 <li data-cover="http://coverartarchive.org/release/2dac1fd4-94ec-390a-985d-c7440c647a99/11024423754-500.jpg" data-tags="piano rock" role="button">
 Something Corporate - Leaving Through the Window (2002-05-21)
 </li>
-<li data-cover="https://img.discogs.com/1cA3MypwKsN3w3u1d58JrFz3ZFY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300572-1582544842-7845.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/pF3jVyAzberCHDRjoYyfH7bfv6A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4097484-1355140656-7196.jpeg.jpg" data-tags="punk rock" role="button">
 Donots - Amplify The Good Times (2002-06-17)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie pop" role="button">
@@ -168,7 +171,7 @@ The Polyphonic Spree - Together We're Heavy (2004-06-30)
 <li data-cover="http://coverartarchive.org/release/b6a051b4-1a1e-4c33-a1e5-0ea6e920a13f/15062499623-500.jpg" data-tags="honky tonk" role="button">
 Dwight Yoakam - The Very Best of Dwight Yoakam (2004-07-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, emo" role="button">
+<li data-cover="https://img.discogs.com/hBxOMEZRaJN7P-DtKBiY5-fD7_U=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3724313-1341844982-4801.jpeg.jpg" data-tags="alternative rock, emo" role="button">
 Moments In Grace - Moonlight Survived (2004-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc38ef5f-de82-4fe7-9646-72feb62e0cca/5930393750-500.jpg" data-tags="grunge" role="button">
@@ -195,14 +198,11 @@ Kathleen Edwards - Back To Me (2005-03-01)
 <li data-cover="https://img.discogs.com/mZC2N0gM-D6RU0aXIGNXVeVufRc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538101-1131719441.jpeg.jpg" data-tags="electronic, electronica, female vocalists, grime, dubstep, idm, driving, bounce, drum n bass, broken beat, 00s, dubby, welcome, boom, flow, neu, wonk, magic female voice, futurefunk, futuredub, supersexy, blazin, fusion festival 2008, metro dub, future-reach, electro ragga, fusion 2008" role="button">
 Jahcoozi - Pure Breed Mongrel (2005-09-10)
 </li>
-<li data-cover="https://img.discogs.com/Rs68w-iqLhjFtZ2I1jAa-YDRND8=/fit-in/595x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486917-1362516943-6261.jpeg.jpg" data-tags="alternative" role="button">
+<li data-cover="https://img.discogs.com/P9iAz8_lVn4csEFmDTgcSYipTVU=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2439542-1284135231.jpeg.jpg" data-tags="alternative" role="button">
 The Dandy Warhols - Odditorium Or Warlords Of Mars (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8d349b4-3deb-40a6-a31f-2a2d2f72ef15/20409852155-500.jpg" data-tags="driving, artists who are lastfm users, pixies palace, coma, climax, autumn tapes, gling-gling, fondation, antropological, atmospheres, drivingfast, bengt, chaotisch holistisch, cruto, climat, from fh library 120617, adult swim bump" role="button">
 Carmen Rizzo - The Lost Art of the Idle Moment (2005-09-27)
-</li>
-<li data-cover="https://img.discogs.com/NlX4zJoTR2sYMrbZgU1A1AY_5Ms=/fit-in/252x252/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-703064-1149606048.jpeg.jpg" data-tags="ambient" role="button">
-nearLY - Reminder (2005-12-20)
 </li>
 <li data-cover="https://img.discogs.com/oDxJEoE9sykN0vjZ-9oiogwalmk=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1389556-1376823938-1278.jpeg.jpg" data-tags="indie, indie rock, rock" role="button">
 The Zutons - Tired Of Hanging Around (2006-04-10)
@@ -243,7 +243,7 @@ Louis La Roche - The Peach EP (2008)
 <li data-cover="https://img.discogs.com/0JKDEq5NL8N3oIjylBAY3koqXuE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1803369-1300760235.jpeg.jpg" data-tags="trip-hop, sex-hop, i love all the songs" role="button">
 Madita - Too (2008-02-02)
 </li>
-<li data-cover="https://img.discogs.com/aG0xW9kuUBlvS88P2Jy2GLp8GTI=/fit-in/586x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3754217-1344259198-7085.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/Pit__QO2YuWGIdGQEgUJfJ_IFXk=/fit-in/598x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5559102-1396533731-8785.jpeg.jpg" data-tags="pop" role="button">
 Rihanna - Take a Bow (2008-05-11)
 </li>
 <li data-cover="https://img.discogs.com/mNovOsKLUbxfqUZVtX2jMXz4Euc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1528141-1298984877.jpeg.jpg" data-tags="chillout, rock, alternative, alternative rock, indie rock, singer-songwriter, guitar, driving, american, excellent, modern rock, 00s, love the lyrics, shake it, happiness, voices, essential, 00s indie, 00s rock, so great, on a cloud, 00s alternative, joseph arthur and the lonely astronauts, temporary people" role="button">
@@ -267,9 +267,6 @@ Sepiamusic - Trenches (2009-12-01)
 <li data-cover="http://coverartarchive.org/release/f9ca3e83-c109-457b-a950-0dd5a7a41cc0/10138329009-500.jpg" data-tags="gypsy punk" role="button">
 Gogol Bordello - Trans-Continental Hustle (2010-04-27)
 </li>
-<li data-cover="https://img.discogs.com/IJKzSJCPyJWRjaAXxk1vCUQXhQM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8539923-1463655237-6704.jpeg.jpg" data-tags="driving, quiet, demoscene, look into, artists who are lastfm users, elektro target, the noise inside my head, pixies palace, personal favorites, coma, climax, the music maker society, landscape, the arctic circle, robots have feelings too, analog synth, super hot, electglitchdubhop, voyage, autumn tapes, gling-gling, fondation, play along, questionmark, grape nuts, antropological, atmospheres, the evening shadows, home collection, vokal, drivingfast, mikrolux, moving music, my mind is going, tag set 2 will angels light, strangefruit, sonotone music, varietist-loved-tracks, the incredible independence, im mittelalter, bengt, chaotisch holistisch, cruto, transsnuje, kompilacija obala, ai-music, eremuse-nerometallico xzk, climat, ice cream cone cereal, from fh library 120617, pneumogaastriq, adult swim bump" role="button">
-Second Person - Gone Fishing (2010-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
 No Age - Everything in Between (2010-09-15)
 </li>
@@ -290,6 +287,9 @@ Liturgy - Aesthethica (2011-05-10)
 </li>
 <li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
 Little Dragon - Ritual Union (2011-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/0006d58c-54fa-42b7-bdb3-50feb65d79e6/5129565913-500.jpg" data-tags="night club dance" role="button">
+The Wanted - Glad You Came (2011-07-10)
 </li>
 <li data-cover="https://img.discogs.com/kZCNnmRIv0RA2OyukIYWjQlX5u4=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992264-1507819725-2607.jpeg.jpg" data-tags="trip-hop, chillout, british, alternative, alternative rock, ambient, blues, mellow, aggressive, brit rock, 00s, alt rock, brit-pop, soundtrack, classic rock, nu jazz, hip-hop, electronic, electronica, indie, jazz, hip hop, pop, chill, rock, soul, instrumental, 80s, punk, grunge, hardcore, folk, new york, experimental, indie pop, indie rock, female vocalists, indie electronic, post-rock, downtempo, dub, singer-songwriter, progressive rock, usa, electro, dance, stoner rock, acoustic, new wave, experimental rock, easy listening, britpop, post-punk, funk, downbeat, turntablism, indietronica, shoegaze, canadian, idm, psychedelic, guitar, cover, lounge, 90s, driving, england, atmospheric, brooklyn, trip hop, avant-garde, american, funky, ninja tune, remix, instrumental hip-hop, instrumental hip hop, art rock, breakbeat, progressive, a cappella, smooth, melancholy, unique, favorite artists, nyc, space rock, chillosophy, indie-rock, melancholic" role="button">
 Juzhin - Coming Down (2012-07-18)

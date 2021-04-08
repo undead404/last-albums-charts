@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T10:59:01.404Z
+date: 2021-04-08T08:48:02.160Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -66,7 +66,7 @@ Black Eyed Peas - Elephunk (2003-06-24)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
@@ -132,6 +132,9 @@ Cold War Kids - Robbers & Cowards (2006-10-10)
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/b77ca237-741f-4880-92c4-1cef1613281a/20738445332-500.jpg" data-tags="george michael, pop, soul" role="button">
+George Michael - Twenty Five (2006-11-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">
 Incubus - Light Grenades (2006-11-22)
 </li>
@@ -143,9 +146,6 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
 <li data-cover="https://img.discogs.com/EyfjXvBzxyGUHbxuO-HscInI-rg=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025037-1342478511-5778.jpeg.jpg" data-tags="british, indie rock, indie" role="button">
 Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
-Minus the Bear - Planet of Ice (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
 Metro Station - Metro Station (2007-09-18)
