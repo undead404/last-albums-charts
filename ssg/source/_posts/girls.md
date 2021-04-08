@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T16:27:01.452Z
+date: 2021-04-08T06:40:07.010Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -51,7 +51,7 @@ Brigitte Bardot - Best of BB (1996)
 <li data-cover="http://coverartarchive.org/release/75e0ef0e-0bb0-4418-bcee-ac765ef95a5b/1782305478-500.jpg" data-tags="ethereal" role="button">
 Love Spirals Downwards - Ever (1996)
 </li>
-<li data-cover="https://img.discogs.com/AFGTo6ZVmTqnih375axvfaEq1HY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13199546-1549810774-7453.jpeg.jpg" data-tags="marilyn monroe" role="button">
+<li data-cover="https://img.discogs.com/EQNomXhVNPhOIDZyDrJEyBwchXk=/fit-in/600x936/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6140868-1412094829-3200.jpeg.jpg" data-tags="marilyn monroe" role="button">
 Marilyn Monroe - The Essential Recordings (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b5866f6-c209-482d-ba0e-f540ca5cafc9/14195870435-500.jpg" data-tags="60s, girl groups, oldies" role="button">
@@ -68,9 +68,6 @@ Robyn - My Truth (1999-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
 Sarah McLachlan - Mirrorball (1999-06-15)
-</li>
-<li data-cover="https://img.discogs.com/qF45uLMFzfK3uXWD7xO_b9kORuw=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4873280-1378113188-6953.jpeg.jpg" data-tags="trip-hop, indie, female, male, rock, alternative, folk, female vocalists, dance, happy, fantastic, afternoon, girls, outsider, friendly, long, friend, pretty, like, soft, random, christian, why, poetic, provocative, sex, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, recommended, game, inspirational, out, smart, worship, warm, north, hot, place, depression, beach, pleasant, now, commercial, heart, lovely, visual, traditional, women, years, work, misogyny, sensual, lost, porn, monday, what, leaf, woman, upcoming, single, fantasy, pink, penis, tracks, sexual, girl, pee pee, pleasing, good stuff, music, vagina, touch, flower, zero, smell, babe, stars, breasts, bibles, dates, months, verbal" role="button">
-Felicia Michaels - Lewd Awakenings (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2283103-9c78-4778-96f1-002dc86626be/12059807281-500.jpg" data-tags="pop" role="button">
 Billie Piper - Walk of Life (2000-07-12)
@@ -180,7 +177,7 @@ Kat Edmonson - Take To The Sky (2009-02-09)
 <li data-cover="https://img.discogs.com/MepQb-g-iDf1XEVuLMftQBhusBE=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7611922-1445125084-1859.jpeg.jpg" data-tags="anime, j-pop" role="button">
 Kalafina - Lacrimosa (2009-03-04)
 </li>
-<li data-cover="https://img.discogs.com/L9imxs0W875JvMTeTlahqdp2_xA=/fit-in/398x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3036699-1312762940.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/zNUEtnAWIRR7JKuMt5cqzWZH01c=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3614960-1437950426-4273.jpeg.jpg" data-tags="female vocalists" role="button">
 Kina Grannis - Stairwells (2010-02-23)
 </li>
 <li data-cover="https://img.discogs.com/VGtnrM4WLQ_3WaoOaNZskk7P5yI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236730-1271526795.jpeg.jpg" data-tags="female vocalists" role="button">
@@ -192,7 +189,7 @@ S.H.E - SHERO (2010-03-26)
 <li data-cover="https://img.discogs.com/G9kv_Cz0yCIcRwzezpldjlGmDcQ=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1319382-1350940693-5232.jpeg.jpg" data-tags="robyn" role="button">
 Robyn - Fembot (2010-04-13)
 </li>
-<li data-cover="https://img.discogs.com/Py_tGII1HZdLKz9wa76wrozQZq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2296231-1275146657.jpeg.jpg" data-tags="robyn" role="button">
+<li data-cover="https://img.discogs.com/iHelhTOTo0KojAYcMn_Z_WeA9Bs=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2382555-1280775512.jpeg.jpg" data-tags="robyn" role="button">
 Robyn - Dancing on My Own (2010-06-01)
 </li>
 <li data-cover="https://img.discogs.com/13c_rn7hXGWMSdAwmbvMZrmJfYY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1200596-1215188260.jpeg.jpg" data-tags="female, pop, alternative, dance, synth pop, girls, sex, book, lovely, genesis, second, lost, porn, pee pee, monkey, music, vagina, robyn, abc, filter, fish, breasts, sounds, parts, tits, tags, tag, moisture, else, thursday, nuggets, bananas" role="button">
@@ -227,6 +224,9 @@ Fatoumata Diawara - Fatou (2011-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c369d3f-c53e-4ec0-a651-979bb2b898c4/15584002891-500.jpg" data-tags="japanese, female vocalists, epic, ethereal, neoclassical" role="button">
 Kalafina - After Eden (2011-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/93c9676d-5648-475d-8d76-190c9faf69e9/4183552211-500.jpg" data-tags="j-pop" role="button">
+Perfume - スパイス (2011-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
 Perfume - JPN (2011-11-30)
@@ -294,7 +294,7 @@ Scandal - STANDARD (2013-10-02)
 <li data-cover="http://coverartarchive.org/release/347d9365-927d-4404-a0d7-65e4916e464e/11438983255-500.jpg" data-tags="female, girls, sex, lovely, lost, porn, pee pee, music, vagina, abc, breasts, sounds, parts, tits, tags, tag, moisture, else, thursday, bananas, pork, moses, girlfriend, bats, beef" role="button">
 Selena Gomez - The Heart Wants What It Wants (2014-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/02df846f-fb15-4fbb-ae10-379f5fce8ab7/10519596419-500.jpg" data-tags="indie, female, alternative, folk, female vocalists, singer-songwriter, fantastic, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, hot, pleasant, lovely, visual, women, lost, woman, misc, girl, pleasing, babe, ladies, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, melt, feminine, grady, zap, partial, dick, improper, xian, moist, specific, extremities, tingle, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction" role="button">
+<li data-cover="http://coverartarchive.org/release/02df846f-fb15-4fbb-ae10-379f5fce8ab7/10519596419-500.jpg" data-tags="indie, female, alternative, folk, female vocalists, singer-songwriter, fantastic, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, hot, pleasant, lovely, visual, women, lost, woman, girl, pleasing, babe, ladies, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, melt, feminine, grady, zap, partial, dick, improper, xian, moist, specific, extremities, tingle, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction" role="button">
 Daniela Andrade - Crazy (2014-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc18555c-133c-4cc1-ba64-a700e664a735/6060331824-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
@@ -306,7 +306,7 @@ Tacocat - NVM (2014-02-25)
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/e365fd2c-c7fd-4097-9469-d2197dd7ec66/26537429250-500.jpg" data-tags="indie, female, pop, alternative, folk, female vocalists, singer-songwriter, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, hot, lovely, visual, sweet, lost, woman, misc, girl, babe, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, grady, zap, partial, dick, improper, xian, specific, extremities, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, finis jennings dake, sexier than should be allowed for human beings" role="button">
+<li data-cover="http://coverartarchive.org/release/e365fd2c-c7fd-4097-9469-d2197dd7ec66/26537429250-500.jpg" data-tags="indie, female, pop, alternative, folk, female vocalists, singer-songwriter, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, hot, lovely, visual, sweet, lost, woman, girl, babe, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, grady, zap, partial, dick, improper, xian, specific, extremities, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction, finis jennings dake, sexier than should be allowed for human beings" role="button">
 Kina Grannis - Elements (2014-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8ee3fb5-e02f-4459-a26f-e4301beb32f1/8796970047-500.jpg" data-tags="pop, ariana grande" role="button">

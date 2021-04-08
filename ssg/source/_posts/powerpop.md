@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T19:24:01.386Z
+date: 2021-04-08T06:39:01.466Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
@@ -33,7 +33,7 @@ New York Dolls - New York Dolls (1973-07-27)
 <li data-cover="http://coverartarchive.org/release/c42f97da-b73d-429c-9400-12f288c783d8/15325737905-500.jpg" data-tags="70s, powerpop" role="button">
 Big Star - Radio City (1974)
 </li>
-<li data-cover="https://img.discogs.com/FBTTValXfoLMcKRGWWJdsReDyAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5094652-1384334579-2574.jpeg.jpg" data-tags="power pop, rock, classic rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/vtfQuTLusv1QVgHoPjus__tLm7c=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7673214-1522486268-4685.jpeg.jpg" data-tags="power pop, rock, classic rock, 70s" role="button">
 Cheap Trick - Heaven Tonight (1978)
 </li>
 <li data-cover="https://img.discogs.com/R-nD4hx9hRNSIPhu0VdsnStH4OQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521427-1366984642-3770.jpeg.jpg" data-tags="powerpop, loved album" role="button">
@@ -132,9 +132,6 @@ Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 <li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
 Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
 </li>
-<li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
-The Vines - Winning Days (2004-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
 Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 </li>
@@ -144,7 +141,7 @@ Ash - Meltdown (2004-05-17)
 <li data-cover="http://coverartarchive.org/release/c0365b79-6bf3-4523-8337-15a6f7cbd8f0/25689157271-500.jpg" data-tags="pop punk" role="button">
 Midtown - Forget What You Know (2004-05-29)
 </li>
-<li data-cover="https://img.discogs.com/z3T_-5SwKJv3viffyvZ7sS1oidI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-606587-1360608770-4502.jpeg.jpg" data-tags="hellogoodbye" role="button">
+<li data-cover="https://img.discogs.com/pNR1hiO9ZdWhZQGmORuEPqoA0HA=/fit-in/517x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5795018-1402866097-4535.jpeg.jpg" data-tags="hellogoodbye" role="button">
 Hellogoodbye - Hellogoodbye (2004-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7de99e6a-9598-4dc6-97da-dba133c12a80/4889907703-500.jpg" data-tags="mae, rock, alternative, indie rock" role="button">
@@ -272,6 +269,9 @@ The Ready Set - I'm Alive, I'm Dreaming (2010-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f75cdc20-40ae-44fb-a2b5-ab819ca09505/17601666881-500.jpg" data-tags="powerpop, beatles, never shout never" role="button">
 Stereo Skyline - Stuck On Repeat (2010-07-20)
+</li>
+<li data-cover="https://img.discogs.com/9s_-4Ow4Am6KLuKOxm_iFiceRKc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2593688-1582494408-7139.jpeg.jpg" data-tags="pop punk, rock, dance" role="button">
+Hey Monday - Beneath It All (2010-08-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Never Shout Never - Harmony (2010-08-24)
