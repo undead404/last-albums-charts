@@ -1,11 +1,11 @@
 ---
-date: 2021-04-07T08:52:01.395Z
+date: 2021-04-08T04:28:01.405Z
 title: "ebm: 100 albums you must listen to before you die"
 ---
 ![VNV Nation - Judgement (2007-03-21)](https://img.discogs.com/1Xvmw4uhXP_TICRaU2XJV_CQ86c=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-946187-1611235318-9051.jpeg.jpg "VNV Nation - Judgement (2007-03-21)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/k3pu6bHzd1S9ZybASPpAEA-UUX0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10624-1174834437.jpeg.jpg" data-tags="ebm, futurepop" role="button">VNV Nation - Praise the Fallen (1998-06-02)</li>
-<li data-cover="https://img.discogs.com/tgWeP4h18PTawB34sGwkxgYdsoI=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1534360-1226666633.jpeg.jpg" data-tags="synthpop" role="button">Covenant - Northern Light (2002-09-26)</li>
+<li data-cover="https://img.discogs.com/DFdycH0d8JucCOwi0wf-Q7xt8Gc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-91024-1356196838-1896.jpeg.jpg" data-tags="synthpop" role="button">Covenant - Northern Light (2002-09-26)</li>
 <li data-cover="https://img.discogs.com/SzLw8Kdw5wQSy6aFcThC8EZh55o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240746-1463420871-7364.jpeg.jpg" data-tags="ebm" role="button">Front Line Assembly - Civilization (2004-01-19)</li>
 <li data-cover="https://img.discogs.com/yeGKUyKmH3cn79LY3qAplv6uXZE=/fit-in/479x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-253750-1171277081.jpeg.jpg" data-tags="ebm" role="button">Icon of Coil - Machines Are Us (2004-02-16)</li>
 <li data-cover="http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg" data-tags="industrial" role="button">Combichrist - Everybody Hates You (2005-02-21)</li>
@@ -144,7 +144,7 @@ Icon of Coil - The Soul Is In The Software (2002-05-07)
 <li data-cover="http://coverartarchive.org/release/95a2889d-5127-4bf7-88f3-bf2273323c42/8925141225-500.jpg" data-tags="ebm, industrial" role="button">
 Feindflug - Hirnschlacht (2002-06-24)
 </li>
-<li data-cover="https://img.discogs.com/tgWeP4h18PTawB34sGwkxgYdsoI=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1534360-1226666633.jpeg.jpg" data-tags="synthpop" role="button">
+<li data-cover="https://img.discogs.com/DFdycH0d8JucCOwi0wf-Q7xt8Gc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-91024-1356196838-1896.jpeg.jpg" data-tags="synthpop" role="button">
 Covenant - Northern Light (2002-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3c6a919-a7a5-3fc7-b16d-3b5d45aea7e0/24787862888-500.jpg" data-tags="ebm" role="button">
@@ -156,14 +156,11 @@ Grendel - Prescription: Medicide (2003)
 <li data-cover="http://coverartarchive.org/release/34de4124-76fd-4596-a891-82a9041612f9/6485727185-500.jpg" data-tags="radio radio radio" role="button">
 Ohgr - SunnyPsyOp (2003-07-01)
 </li>
-<li data-cover="https://img.discogs.com/x_ZXbTXhgJAS1mE58lQEzzO1UJg=/fit-in/426x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-175867-1555449374-8049.png.jpg" data-tags="industrial, ebm, my collection, desert island discs, recommendable" role="button">
+<li data-cover="https://img.discogs.com/x_ZXbTXhgJAS1mE58lQEzzO1UJg=/fit-in/426x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-175867-1555449374-8049.png.jpg" data-tags="industrial, ebm, desert island discs, recommendable" role="button">
 Bruderschaft - Forever (2003-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a9f88ee-4b69-445a-8eb1-0f83345faf3f/9065922207-500.jpg" data-tags="industrial, aggrotech, powernoise, electro-industrial" role="button">
 Combichrist - The Joy of Gunz (2003-09-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/86baa9d0-b610-4721-80ee-bc70f5c0680a/15092844749-500.jpg" data-tags="ebm, electronic, futurepop" role="button">
-Absurd Minds - The Focus (2003-10-13)
 </li>
 <li data-cover="https://img.discogs.com/PF42-2drFSBYDyJhidM_WxWUUjY=/fit-in/572x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-320587-1239902023.jpeg.jpg" data-tags="ebm" role="button">
 In Strict Confidence - Holy (2004-01-12)
@@ -296,6 +293,9 @@ Nachtmahr - Kunst ist Krieg (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e31574-d3e5-4243-b6f3-b4368a40b160/3729075309-500.jpg" data-tags="industrial, ebm" role="button">
 Alien Vampires - No One Here Gets Out Alive (2007-12-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/828e02f2-c436-4205-b186-6e5ab89ad558/8034626940-500.jpg" data-tags="industrial, ebm" role="button">
+Nachtmahr - Feuer Frei! (2008-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f6c0c54-d31d-4dad-9c97-8514421e6f47/4740187935-500.jpg" data-tags="electronic, ebm" role="button">
 Ayria - Hearts for Bullets (2008-09-12)

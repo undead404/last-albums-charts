@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:33:01.423Z
+date: 2021-04-08T04:02:01.429Z
 title: "twee pop: 100 albums you must listen to before you die"
 ---
 ![Death Cab for Cutie - Transatlanticism (2003-09-01)](https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg "Death Cab for Cutie - Transatlanticism (2003-09-01)")
@@ -33,13 +33,13 @@ Strawberry Switchblade - Strawberry Switchblade (1985)
 <li data-cover="http://coverartarchive.org/release/4769273c-e268-440f-bb39-62c68ed70b3a/14785304764-500.jpg" data-tags="jangle pop, 80s" role="button">
 Primal Scream - Sonic Flower Groove (1987-09)
 </li>
-<li data-cover="https://img.discogs.com/fuzwr1rxr9Yx2mfsJJZylXeEy7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-627437-1480516041-6994.jpeg.jpg" data-tags="80s, indie, lo-fi" role="button">
+<li data-cover="https://img.discogs.com/lVZBDBtapdLbuuij6W4M1IG8WhU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743551-1154282997.jpeg.jpg" data-tags="80s, indie, lo-fi" role="button">
 Beat Happening - Jamboree (1988-01-29)
 </li>
 <li data-cover="https://img.discogs.com/_cbVxOvvbFZXtL4SWxto7HIJYHU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489501-1602701907-6775.jpeg.jpg" data-tags="slowcore, shoegaze" role="button">
 Galaxie 500 - Today (1988-10)
 </li>
-<li data-cover="https://img.discogs.com/AiDuze4nOBg8fZRWdzWVvfxZx30=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417614-1545237532-8497.jpeg.jpg" data-tags="80s, twee pop" role="button">
+<li data-cover="https://img.discogs.com/pyxcD5ynzD5dHUATUpmMWOUd-Ik=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-828337-1436412840-8579.jpeg.jpg" data-tags="80s, twee pop" role="button">
 Beat Happening - Black Candy (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a6e1688-0e66-46d9-97c7-b7bcfd1702ee/24594615850-500.jpg" data-tags="indie, 80s" role="button">
@@ -51,7 +51,7 @@ The Field Mice - Snowball (1989-09)
 <li data-cover="http://coverartarchive.org/release/5b5f812e-700c-4ee4-b84c-3dcd92653449/21486226271-500.jpg" data-tags="jangle-pop" role="button">
 The Field Mice - Snowball + Singles (1989-09)
 </li>
-<li data-cover="https://img.discogs.com/Ckre37CNHixFqCpDlFq0v8gRMVk=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417631-1117743056.gif.jpg" data-tags="90s" role="button">
+<li data-cover="https://img.discogs.com/bwgb5qauZQW4SNmJVfFYFz8iIeo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-757526-1155749238.jpeg.jpg" data-tags="90s" role="button">
 Beat Happening - Dreamy (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/18f71bd3-f4b9-4197-aa11-be5bc72626f9/28266226984-500.jpg" data-tags="twee, twee pop, sarah records" role="button">
@@ -72,11 +72,14 @@ The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)
 <li data-cover="https://img.discogs.com/8BqI5gS6j9HI9_JQg2J_oNPnMf0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397460-1555711599-4547.jpeg.jpg" data-tags="indie pop, twee pop" role="button">
 Another Sunny Day - London Weekend (1992-10)
 </li>
-<li data-cover="https://img.discogs.com/sNIqdOYvfwEjeUq7LbGClVOGEpw=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3211956-1320686677.jpeg.jpg" data-tags="twee, indie pop, twee pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/wAr6toEEYT0qF7z4gA_5fJCfbbE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1037781-1365254938-4133.jpeg.jpg" data-tags="twee, indie pop, twee pop, 90s" role="button">
 Beat Happening - You Turn Me On (1992-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/12bc4e56-2c0e-4bc4-81b4-ca2526b3ffd1/25345139916-500.jpg" data-tags="indie pop, twee" role="button">
 Tiger Trap - Tiger Trap (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/32799edf-51cd-40a9-abc3-cd2538d9c13a/25362650897-500.jpg" data-tags="twee pop, yes yes yes" role="button">
+Heavenly - Atta Girl (1993-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/59955e78-0574-3415-8d23-c746a3503cd8/23760080924-500.jpg" data-tags="rock, 90s" role="button">
 Primal Scream - Give Out But Don't Give Up (1994-03-28)
@@ -168,10 +171,10 @@ Belle and Sebastian - Storytelling (2002-06-03)
 <li data-cover="http://coverartarchive.org/release/d31cb0bc-b8fe-408a-a6c3-957167561ab8/11156968143-500.jpg" data-tags="indie, indie pop, twee pop, american, 00s, albuns completos ou quase completos" role="button">
 Aberdeen - Homesick and Happy to Be Here (2002-06-04)
 </li>
-<li data-cover="https://img.discogs.com/WE01r_GQ0rGlSeYf9q4g7PeEpLo=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929475-1174326177.jpeg.jpg" data-tags="indie pop, indie" role="button">
+<li data-cover="https://img.discogs.com/QYUgzc0NWWaj53sjcqkxnd5E18k=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-353661-1581862939-2865.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Architecture in Helsinki - Fingers Crossed (2003-02-10)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie pop" role="button">
 The Lucksmiths - Naturaliste (2003-04-07)
 </li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
@@ -195,7 +198,7 @@ Acid House Kings - Sing Along With Acid House Kings (2005)
 <li data-cover="http://coverartarchive.org/release/9bd752d0-2b57-3395-8164-b75abc8e2e42/12608703957-500.jpg" data-tags="indie" role="button">
 The Boy Least Likely To - The Best Party Ever (2005-02-14)
 </li>
-<li data-cover="https://img.discogs.com/1qn_vNAVXXg9DE9jKVNsz1Yl9vE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3482261-1490517600-5948.jpeg.jpg" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/9D_pK4RBRwiEFaLMluQmSQpL7-I=/fit-in/456x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-627922-1157486961.jpeg.jpg" data-tags="indie pop" role="button">
 The Lucksmiths - Warmer Corners (2005-04)
 </li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
@@ -210,14 +213,11 @@ I'm from Barcelona - Sing!! (2005-08-25)
 <li data-cover="http://coverartarchive.org/release/12fdee4d-df0c-47b4-82dd-bf7aafbea4c7/20411038883-500.jpg" data-tags="indie pop" role="button">
 Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="swedish, sweden" role="button">
+<li data-cover="https://img.discogs.com/buGXwQK_MKmzHXLIzJ3CgDMARso=/fit-in/406x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7967750-1452612631-2657.jpeg.jpg" data-tags="swedish, sweden" role="button">
 Billie the Vision & the Dancers - The World According To Pablo (2005-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/71b19909-8463-422b-abad-5718d37888b9/3112709631-500.jpg" data-tags="indie, indie pop" role="button">
 Belle and Sebastian - The Life Pursuit (2006-02-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/378626af-b765-43bc-8af5-6677202255d6/21028083008-500.jpg" data-tags="indie pop, twee pop, summer, sigh and swoon in equal measure, sounds like sun, to purchase" role="button">
-The Besties - Singer (2006-02-14)
 </li>
 <li data-cover="https://img.discogs.com/k0hr64G-d7eA6WlD7l0CC6xedeA=/fit-in/594x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-793834-1159431566.jpeg.jpg" data-tags="indie pop" role="button">
 I'm from Barcelona - Let Me Introduce My Friends (2006-04-26)
@@ -231,7 +231,7 @@ Primal Scream - Riot City Blues (2006-05-31)
 <li data-cover="https://img.discogs.com/8hIpTe1SbU7w973r5w69GZ7N1bM=/fit-in/400x365/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1504562-1225460490.jpeg.jpg" data-tags="indie pop, twee pop" role="button">
 Math and Physics Club - Math and Physics Club (2006-10-17)
 </li>
-<li data-cover="https://img.discogs.com/A5n6mkFsfyMNO94vwIxPCy6agaU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2182314-1268449318.jpeg.jpg" data-tags="pop, club8" role="button">
+<li data-cover="https://img.discogs.com/hm-1SUgXQJpd4dpUL0iSH7-NYa0=/fit-in/200x197/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316328-1366578310-5429.jpeg.jpg" data-tags="pop, club8" role="button">
 Club 8 - The Boy Who Couldn't Stop Dreaming (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/b64fb215-d1ff-4927-83e8-a1770c2ccf86/17158665020-500.jpg" data-tags="indie pop, twee pop, sigh and swoon in equal measure, independent, summer 2009, hongkong, twee twee twiddle-lee-dee" role="button">

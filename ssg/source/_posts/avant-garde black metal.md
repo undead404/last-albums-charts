@@ -1,5 +1,5 @@
 ---
-date: 2021-04-03T18:52:06.631Z
+date: 2021-04-08T03:49:01.446Z
 title: "avant-garde black metal: 100 albums you must listen to before you die"
 ---
 ![Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)](http://coverartarchive.org/release/98ed235a-2f5c-44e9-8f94-1373fcd7dc4e/1981275082-500.jpg "Deathspell Omega - FAS - Ite, Maledicti, in ignem Aeternum (2007-07-16)")
@@ -60,11 +60,14 @@ Sigh - Scenario IV: Dread Dreams (1999)
 <li data-cover="https://via.placeholder.com/450" data-tags="atmospheric black metal, raw black metal, avant-garde black metal, true black metal, orthodox black metal, black shanson" role="button">
 Михаил Круг - Роза (1999)
 </li>
-<li data-cover="https://img.discogs.com/TNd4JHAc_IFTvTJ67mKa0T_I9Mo=/fit-in/296x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1344097-1211355374.jpeg.jpg" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/oMPr7Mnfsi8Ty-3Xd8oqxBS3grE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490911-1193773722.jpeg.jpg" data-tags="black metal" role="button">
 Dornenreich - Bitter ist's dem Tod zu dienen (1999-06-25)
 </li>
 <li data-cover="https://img.discogs.com/uHJHUN9TOlxPQTZ6LVBCkeBS1zw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2728844-1299949695.jpeg.jpg" data-tags="avant-garde metal" role="button">
 Solefald - Neonism (1999-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ff0ff83-0b85-4f18-9de0-9daac8cc0711/4861600829-500.jpg" data-tags="avant-garde metal, symphonic black metal, black metal" role="button">
+Lux Occulta - My Guardian Anger (1999-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde black metal, black metal" role="button">
 Enochian Crescent - Omega Telocvovim (2000)
@@ -102,9 +105,6 @@ Transcending Bizarre? - The Four Scissors (2003-06-16)
 <li data-cover="http://coverartarchive.org/release/1a352b3d-c0ca-4879-851d-68009cf793d2/3313299063-500.jpg" data-tags="avant-garde black metal, je dirai quelque jour vos naissances latentes" role="button">
 Predella Avant - Carbon Figures (2004)
 </li>
-<li data-cover="https://img.discogs.com/_Jl86swP-IJKDZ05aZMHjHMysOU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-575112-1432604886-2396.jpeg.jpg" data-tags="avant-garde black metal" role="button">
-Lugubrum - De Vette Cuecken (2004)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
 Deathspell Omega - Si Monumentum Requires, Circumspice (2004-02)
 </li>
@@ -120,7 +120,7 @@ Deathspell Omega - Kénôse (2005-05-08)
 <li data-cover="http://coverartarchive.org/release/b3c03147-9b30-4fda-88ea-44fe6718d288/15541386321-500.jpg" data-tags="avant-garde metal, progressive metal" role="button">
 Arcturus - Sideshow Symphonies (2005-09-19)
 </li>
-<li data-cover="https://img.discogs.com/F0HVUh_1f0T-RbSDYCNyWMjGiz0=/fit-in/273x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1938906-1253740479.jpeg.jpg" data-tags="black metal, acoustic" role="button">
+<li data-cover="https://img.discogs.com/3sQwM5lfulY3vU5sNNizFNiGypw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-570929-1182097706.jpeg.jpg" data-tags="black metal, acoustic" role="button">
 Dornenreich - Hexenwind (2005-11-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="avant-garde black metal" role="button">
@@ -279,7 +279,7 @@ Cult of Fire - Triumvirát (2012-11-26)
 <li data-cover="https://img.discogs.com/C3A48UioFBSfstr4_uo6ja02YT8=/fit-in/520x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4347225-1362417462-4353.jpeg.jpg" data-tags="black metal" role="button">
 Agrypnie - Aetas Cineris (2013-02-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
+<li data-cover="https://img.discogs.com/p7ki7uVMcRjB61mNf_g90-zfuSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420602-1479582154-1587.jpeg.jpg" data-tags="black metal" role="button">
 Furia - W melancholii (2013-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4180adc-c684-4487-a7f4-4cd9ad567cde/21105860643-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
@@ -288,10 +288,10 @@ Altar of Plagues - Teethed Glory and Injury (2013-04-13)
 <li data-cover="http://coverartarchive.org/release/84a7012e-4859-4577-8db7-b227d83a8f70/4647797966-500.jpg" data-tags="black metal, avant-garde black metal" role="button">
 Peste Noire - Peste Noire (2013-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6e9931a-ff74-4bdd-9011-a7ac10edac18/12057122680-500.jpg" data-tags="2013, avant-garde black metal" role="button">
+<li data-cover="http://coverartarchive.org/release/d6e9931a-ff74-4bdd-9011-a7ac10edac18/12057122680-500.jpg" data-tags="avant-garde black metal" role="button">
 Wormlust - The Feral Wisdom (2013-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/681e36f2-442c-43dd-aad4-93ca98f14c14/7836195165-500.jpg" data-tags="progressive metal, 2013, avant-garde metal" role="button">
+<li data-cover="http://coverartarchive.org/release/681e36f2-442c-43dd-aad4-93ca98f14c14/7836195165-500.jpg" data-tags="progressive metal, avant-garde metal" role="button">
 Vulture Industries - The Tower (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6547097f-30d9-4cea-9b91-1c857bcfebbb/7568979011-500.jpg" data-tags="black metal" role="button">

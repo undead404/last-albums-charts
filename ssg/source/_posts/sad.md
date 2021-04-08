@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T17:12:01.413Z
+date: 2021-04-08T04:03:01.405Z
 title: "sad: 100 albums you must listen to before you die"
 ---
 ![Gary Jules - Trading Snakeoil For Wolftickets (2001)](https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg "Gary Jules - Trading Snakeoil For Wolftickets (2001)")
@@ -48,13 +48,13 @@ The Police - Every Breath You Take (1983-05-20)
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
 </li>
-<li data-cover="https://img.discogs.com/hq0nx8-puTRvn9QWkR0fkGER6qU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4397266-1455225511-8126.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
+<li data-cover="https://img.discogs.com/9o63lqT88slpJXepGMcp5NTd74c=/fit-in/600x382/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4022869-1463571569-6016.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
 Hüsker Dü - Warehouse: Songs and Stories (1987-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
 Tori Amos - Little Earthquakes (1992-01-13)
 </li>
-<li data-cover="https://img.discogs.com/a39OKpNU4p3Xo9ueCu9ccbs24cs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2450769-1453472778-8428.jpeg.jpg" data-tags="50s" role="button">
+<li data-cover="https://img.discogs.com/Hadjqv8qev4A634rv8cLWlhiGhc=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199290-1332632279.jpeg.jpg" data-tags="50s" role="button">
 Buddy Holly - Buddy Holly (1993)
 </li>
 <li data-cover="https://img.discogs.com/Pbax1EX6NsZObvYjGOqQDeMsi38=/fit-in/600x948/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4649150-1426547344-7546.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
@@ -132,7 +132,7 @@ The Long Winters - When I Pretend to Fall (2003-05-06)
 <li data-cover="https://img.discogs.com/mGkUaVwkEPSyW92Ls_yp1mWo2IQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764161-1379971553-7990.jpeg.jpg" data-tags="indie" role="button">
 Saves the Day - In Reverie (2003-09-16)
 </li>
-<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -191,6 +191,9 @@ Jason Molina - Let Me Go, Let Me Go, Let Me Go (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6477df3d-e390-4bec-849c-1a45cd73039b/25010408029-500.jpg" data-tags="alternative, folk, indie, country, indie pop, indie rock, sad, singer-songwriter, slow, calm, acoustic, lo-fi, americana, blues, moody, songwriter, winter, mellow, alt-country, melancholy, sleep, folk noir, freak folk, soft, folk rock, emotional, slowcore, quiet, indie folk, alt country, singer songwriter, alternative folk, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, slow-coustic, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
 Damien Jurado - And Now That I'm In Your Shadow (2006-10-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
+Damien Rice - 9 Crimes (2006-11-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Chris Garneau - Music For Tourists (2007-01-23)
@@ -317,8 +320,5 @@ Macy Gray - The Way (2014-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3b9547-7a3c-49aa-af8a-40329db86b07/14478533949-500.jpg" data-tags="emo" role="button">
 Moose Blood - I'll Keep You In Mind, From Time to Time (2014-10-06)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
-Iron & Wine - 9/20/02 (2018-08-31)
 </li>
 </ol>
