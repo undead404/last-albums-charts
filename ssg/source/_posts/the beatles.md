@@ -1,18 +1,18 @@
 ---
-date: 2021-04-07T14:04:01.479Z
+date: 2021-04-08T02:36:01.395Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b60a2517-687f-414c-89fe-ad89a875ecd6/15628266907-500.jpg" data-tags="60s" role="button">The Beatles - Please Please Me (1963-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/c33e82e8-efba-49ae-83f3-adc3088985ff/4004452077-500.jpg" data-tags="60s, classic rock" role="button">The Beatles - With The Beatles (1963-11-22)</li>
-<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">The Beatles - Help! (1965-07-19)</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">The Beatles - Help! (1965-07-19)</li>
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">The Beatles - Rubber Soul (1965-12-03)</li>
 <li data-cover="http://coverartarchive.org/release/c7f648e2-9c6d-32df-b5ee-ccab3e696a51/16250684845-500.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - Revolver (1966-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">The Beatles - Magical Mystery Tour (1967-11-27)</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - Abbey Road (1969-09-26)</li>
-<li data-cover="https://img.discogs.com/E8_hYSNJ884KPcuu8irEGT1okFE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14915184-1584898066-7698.jpeg.jpg" data-tags="rock, classic rock" role="button">The Beatles - Let It Be (1970-05-08)</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">The Beatles - Let It Be (1970-05-08)</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - 1 (2000-11-13)</li>
 </ol>
 List of 100 - under the cut.
@@ -39,7 +39,7 @@ The Beatles - Something New (1964-07-20)
 <li data-cover="http://coverartarchive.org/release/02e51dac-b0be-3de7-8465-02d0bcd409c3/20517903406-500.jpg" data-tags="60s, rock" role="button">
 The Beatles - Beatles for Sale (1964-12-04)
 </li>
-<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">
 The Beatles - Help! (1965-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">
@@ -69,7 +69,7 @@ Stevie Wonder - Stevie Wonder (1968)
 <li data-cover="http://coverartarchive.org/release/f33794dc-f641-4d0d-92ed-d4355d34566b/14561549809-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Love - Out Here (1969)
 </li>
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/4aa72f06-b2f9-4ad4-a4d2-ac21bc621f2f/4734563068-500.jpg" data-tags="beatles, the beatles, stonedbeat, unknown pleasure" role="button">
@@ -84,7 +84,7 @@ The Beatles - Hey Jude (1970-02-26)
 <li data-cover="http://coverartarchive.org/release/4ac6885b-f733-3c0a-913b-b3202b56a80a/9495724756-500.jpg" data-tags="rock, classic rock" role="button">
 Paul McCartney - McCartney (1970-04-17)
 </li>
-<li data-cover="https://img.discogs.com/E8_hYSNJ884KPcuu8irEGT1okFE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14915184-1584898066-7698.jpeg.jpg" data-tags="rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f953e75a-83b2-3e70-8454-40f546b04a52/8094800915-500.jpg" data-tags="classic rock, 70s" role="button">
@@ -123,7 +123,7 @@ The Beatles - The Beatles (1978)
 <li data-cover="https://img.discogs.com/_Y-d56JUMvZJgxDuftfr0y4SsMU=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450570-1172752373.jpeg.jpg" data-tags="british" role="button">
 The Rutles - The Rutles (1978)
 </li>
-<li data-cover="https://img.discogs.com/opIDYlhue9NEeOC7AKeg2R52zaE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1665354-1416074257-5395.jpeg.jpg" data-tags="classic rock" role="button">
+<li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
 Wings - Wings Greatest (1978-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/033c706a-5ca7-3696-9b90-3217bd9eea87/4253581931-500.jpg" data-tags="70s" role="button">
@@ -162,14 +162,11 @@ The Beatles - Past Masters (1988)
 <li data-cover="http://coverartarchive.org/release/25e25312-e664-476c-8bad-7918b8475972/13161005976-500.jpg" data-tags="classic rock, rock, british, singer-songwriter, political, the beatles, gin" role="button">
 John Lennon - The Lost Lennon Tapes, Volume 4 (1988)
 </li>
-<li data-cover="https://img.discogs.com/kh5OOQXiZI4deTGxDnSNQWgD8CE=/fit-in/432x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3929209-1349569241-6386.jpeg.jpg" data-tags="classic rock, british, singer-songwriter, beatles" role="button">
+<li data-cover="https://img.discogs.com/DL09XKEp9Y3PVmBIU2BRHAK7_9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319505-1469456602-9863.jpeg.jpg" data-tags="classic rock, british, singer-songwriter, beatles" role="button">
 John Lennon - Imagine / Jealous Guy (1988-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6604008-c088-3091-ae2e-a9a15e7cc327/21251538374-500.jpg" data-tags="industrial, martial industrial" role="button">
 Laibach - Let It Be (1988-10-24)
-</li>
-<li data-cover="https://img.discogs.com/3KKwFX05Rqx6XOr7gZQLo8_opW8=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8877046-1470622029-8986.jpeg.jpg" data-tags="classic rock, beatles" role="button">
-The Beatles - The Best Of The Beatles (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/094f5e75-f8fb-381e-b1c9-9abe4d218d5d/15299622369-500.jpg" data-tags="my favorites" role="button">
 Albert Hammond - The Very Best of Albert Hammond (1989-02-06)
@@ -195,7 +192,7 @@ The Beatles - Live at the BBC (1994-11-30)
 <li data-cover="http://coverartarchive.org/release/6974270c-ef73-4c2c-8704-20140e89d341/7263999846-500.jpg" data-tags="funk, jazz-funk" role="button">
 Jestofunk - Love in a Black Dimension (1995)
 </li>
-<li data-cover="https://img.discogs.com/VKCZykb452xcrkLXPwONmKrZOAw=/fit-in/600x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6883654-1428800908-9363.jpeg.jpg" data-tags="the beatles" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
 The Beatles - Free as a Bird (1995-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/93920277-bb3f-4944-a33a-b4a48ee3f7e6/12052993672-500.jpg" data-tags="classic rock, 60s, beatles" role="button">
@@ -320,5 +317,8 @@ George Harrison - Living in the Material World (2011-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/badefc03-9bc5-4e51-ba80-a25c563ae72e/10373115681-500.jpg" data-tags="rock, british, pop rock, the beatles" role="button">
 Ringo Starr - Ringo 2012 (2012-01-31)
+</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles" role="button">
+The Beatles - The Best Of The Beatles (2015-11-06)
 </li>
 </ol>

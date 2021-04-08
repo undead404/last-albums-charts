@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:21:01.481Z
+date: 2021-04-08T01:47:01.485Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -51,7 +51,7 @@ Lifehouse - No Name Face (2000-10-31)
 <li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
 Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
-<li data-cover="https://img.discogs.com/QAJyR3xo7g58gdy3b0cITNQ03Jk=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334741-1219521254.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/qluFsA4fgZRPvOytX-r3Ivxkb6s=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369069-1448544399-9507.jpeg.jpg" data-tags="pop" role="button">
 Michelle Branch - The Spirit Room (2001-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
@@ -117,13 +117,13 @@ Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/3ce5441e-ea49-4ba3-879b-faff3b547d2b/11183169551-500.jpg" data-tags="pop, pop rock" role="button">
 Ashlee Simpson - I Am Me (2005-10-13)
 </li>
-<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 P!nk - I'm Not Dead (2006-03-31)
 </li>
-<li data-cover="https://img.discogs.com/RsTwOzdQV0rLfhLpcGflBcsnSSQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730509-1511732076-4446.jpeg.jpg" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/ZIJQDPnunFWSsXjP8IL6sBGTnGE=/fit-in/500x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730503-1290979096.jpeg.jpg" data-tags="rock" role="button">
 Orson - Bright Idea (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
@@ -201,6 +201,9 @@ The Fray - The Fray (2009-01-30)
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
+Paolo Nutini - Sunny Side Up (2009-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
@@ -212,9 +215,6 @@ Demi Lovato - Here We Go Again (2009-06-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 P!nk - Funhouse (2009-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b72990f-0c8d-4687-a33f-4a329672f85a/17667139144-500.jpg" data-tags="pop, miley cyrus" role="button">
-Miley Cyrus - The Time of Our Lives (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
 Boys Like Girls - Love Drunk (2009-09-08)
@@ -282,7 +282,7 @@ Bastille - Bad Blood (2013-03-04)
 <li data-cover="http://coverartarchive.org/release/f823905a-102e-471f-b6aa-3ff6f575986c/9697439439-500.jpg" data-tags="pop rock" role="button">
 OneRepublic - Native (2013-03-22)
 </li>
-<li data-cover="https://img.discogs.com/gqV7z6TvbtaV1-ZYmoScs8X-Qc8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6018432-1408954698-5308.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
 Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T00:31:01.477Z
+date: 2021-04-08T02:42:06.965Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -21,25 +21,16 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/tqNk6K2iPiqQ16xWjxSk1_XbVCA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4790909-1376839781-8866.jpeg.jpg" data-tags="60s, blue-eyed soul" role="button">
+<li data-cover="https://img.discogs.com/R1-z6HNPSAehczE8Fz4rVLETz7I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5943426-1461834840-3386.jpeg.jpg" data-tags="60s, blue-eyed soul" role="button">
 Van Morrison - Blowin' Your Mind! (1967)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, folk, 60s" role="button">
+<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
 Van Morrison - Astral Weeks (1968-11)
 </li>
-<li data-cover="https://img.discogs.com/f1ZFte7q9L1-ZDl_pvNSLNFkCco=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2680042-1296298782.jpeg.jpg" data-tags="blues rock, classic rock, blues" role="button">
+<li data-cover="https://img.discogs.com/6XJy69cfE0Ut4NSEjXDRpUFNpNM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5329898-1390702869-5206.jpeg.jpg" data-tags="blues rock, classic rock, blues" role="button">
 Rory Gallagher - Rory Gallagher (1971)
 </li>
-<li data-cover="http://coverartarchive.org/release/861b7aff-0ce6-47cc-b5f2-b6be19bd3abc/11393785643-500.jpg" data-tags="hard rock, irish" role="button">
-Thin Lizzy - Thin Lizzy (1971-04)
-</li>
-<li data-cover="https://img.discogs.com/SBryxM2DqyTdCJbF4rMHO_ghET4=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6687349-1424819915-1060.jpeg.jpg" data-tags="classic rock" role="button">
-Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
-</li>
-<li data-cover="https://img.discogs.com/8OfATjenCF25tw6a0BClEQQUt2U=/fit-in/495x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5078127-1383900869-2517.jpeg.jpg" data-tags="irish" role="button">
-The Dubliners - The Best Of The Dubliners (1973)
-</li>
-<li data-cover="https://img.discogs.com/3lMg394Yp43vjYeb4dqnD8Xl1Sg=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5966549-1407608547-5756.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/LdWvbgL7F4VZYCmKD8GcwZea6CE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760825-1298491383.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Thin Lizzy - Vagabonds of the Western World (1973)
 </li>
 <li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
@@ -63,8 +54,11 @@ U2 - The Unforgettable Fire (1984-10-01)
 <li data-cover="http://coverartarchive.org/release/cf48d517-6671-4715-bf69-1f3a96769a3a/5115726658-500.jpg" data-tags="folk, celtic" role="button">
 The Pogues - Rum Sodomy & the Lash (1985)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/vp8yysdtrnhVB0e3-7cEDcL3ZkY=/fit-in/599x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387091-1215452933.jpeg.jpg" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
+</li>
+<li data-cover="https://img.discogs.com/zfK_TgfzegUlEGek7nJ6852HW7g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3139178-1377993149-6792.jpeg.jpg" data-tags="female vocalists, alternative" role="button">
+Sinéad O'Connor - Lion And The Cobra (1987-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bfd1a30-268b-40ea-a675-1c6bb875e932/21762452337-500.jpg" data-tags="celtic" role="button">
 The Pogues - If I Should Fall From Grace With God (1988-01-01)
@@ -87,7 +81,7 @@ Enya - Shepherd Moons (1991-11-04)
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
 </li>
-<li data-cover="https://img.discogs.com/dPYgWwRyJsKpyepRH1RCOY7T2r8=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2020774-1362921141-6307.jpeg.jpg" data-tags="hip hop, rap, hip-hop, oldschool" role="button">
+<li data-cover="https://img.discogs.com/RPrW53_57y_P_rJVf47hc5MNMzQ=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2340266-1278112236.jpeg.jpg" data-tags="hip hop, rap, hip-hop, oldschool" role="button">
 House of Pain - House of Pain (1992-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
@@ -102,8 +96,11 @@ Christy Moore - LIVE AT THE POINT (1994)
 <li data-cover="http://coverartarchive.org/release/177ebc28-0115-3897-8eb3-ebf74ce23790/20976788588-500.jpg" data-tags="90s, rock, alternative" role="button">
 The Cranberries - No Need to Argue (1994-09)
 </li>
-<li data-cover="https://img.discogs.com/eK7dN9yJS91rUJLnmgu8womD_4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4653091-1473198229-3411.jpeg.jpg" data-tags="celtic" role="button">
+<li data-cover="https://img.discogs.com/Slr1i12ptM4Pa_wmHHmphdcHVdg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-801987-1163945410.jpeg.jpg" data-tags="celtic" role="button">
 Ronan Hardiman - Michael Flatley's Lord Of The Dance (1996)
+</li>
+<li data-cover="https://img.discogs.com/uqL-t2fouX_2r9RfBc_E5eq5pKk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829486-1455603083-9695.jpeg.jpg" data-tags="irish" role="button">
+The Dubliners - The Best Of The Dubliners (1996)
 </li>
 <li data-cover="https://img.discogs.com/tDcA9IOU66Qobh5urjCqmuvRP0I=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1955126-1426218437-4673.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
 The Corrs - Forgiven, Not Forgotten (1996-02-02)
@@ -135,8 +132,11 @@ Enya - Paint The Sky With Stars (1997-11-10)
 <li data-cover="https://img.discogs.com/NrAo82wRPDtNI8-isKvqof7oReg=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3678539-1479509427-2997.jpeg.jpg" data-tags="irish" role="button">
 The Dubliners - The Dubliners (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk, oi" role="button">
+<li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk" role="button">
 Dropkick Murphys - Do or Die (1998-01-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/d09adeed-3e9c-4b53-90c6-51a95c0466e6/5213019127-500.jpg" data-tags="pop" role="button">
+B*Witched - B*Witched (1998-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b886671-04bb-4e6f-bc02-310823641fe9/9041409104-500.jpg" data-tags="rock, u2, classic rock" role="button">
 U2 - The Best of 1980-1990 (1998-10-28)
@@ -159,7 +159,7 @@ Flogging Molly - Swagger (2000-03-07)
 <li data-cover="http://coverartarchive.org/release/364bab3c-240b-30f1-8cd8-d624a4f89d5a/16999982419-500.jpg" data-tags="rock, punk, irish, celtic rock, t tossers" role="button">
 The Tossers - Long Dim Road (2000-05-16)
 </li>
-<li data-cover="https://img.discogs.com/98PBEItYQtvgo5i3j5PPOTr2fZ8=/fit-in/535x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445887-1330696286.jpeg.jpg" data-tags="irish, 00s" role="button">
+<li data-cover="https://img.discogs.com/Q0fsS5fw7JiwXEqD05r2t3MKT3k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5846374-1404383509-2716.jpeg.jpg" data-tags="irish, 00s" role="button">
 Sinéad O'Connor - Faith and Courage (2000-06-13)
 </li>
 <li data-cover="https://img.discogs.com/SFPzHAzX4ah4IFjPf-JRPl37kXU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-951267-1428563434-2020.jpeg.jpg" data-tags="pop" role="button">
@@ -216,7 +216,7 @@ Bell X1 - Music In Mouth (2003-08-19)
 <li data-cover="http://coverartarchive.org/release/09ead843-23c8-3ee2-9094-1cf78b3a2408/10962966051-500.jpg" data-tags="pop" role="button">
 The Corrs - Borrowed Heaven (2004-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, 2004, acoustic, live" role="button">
+<li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
 Damien Rice - B-Sides (2004-08-03)
 </li>
 <li data-cover="https://img.discogs.com/KCimdGtdSojFTj7oo2f-baqLgbg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-513755-1476494491-8734.jpeg.jpg" data-tags="irish, punk" role="button">
@@ -246,7 +246,7 @@ U2 - U218 Singles (2006-01-01)
 <li data-cover="http://coverartarchive.org/release/713844be-3748-35db-8502-41898a892a37/13801672579-500.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Whiskey On A Sunday (2006-07-25)
 </li>
-<li data-cover="https://img.discogs.com/6H6IVclU6tnIOK96uZoapZ0JIsk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1337522-1450604069-1306.png.jpg" data-tags="indie, irish, rock" role="button">
+<li data-cover="https://img.discogs.com/oZDTjqcNIOHPK2sxhrQc-vbP7Jk=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655344-1234852888.jpeg.jpg" data-tags="indie, irish, rock" role="button">
 The Frames - The Cost (2006-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
@@ -288,7 +288,7 @@ Enya - The Very Best of Enya (2009-11-20)
 <li data-cover="http://coverartarchive.org/release/2e748702-5e75-4a8a-8526-d0311a89d616/11826807120-500.jpg" data-tags="pop, irish, boybands" role="button">
 Westlife - Where We Are (2009-11-30)
 </li>
-<li data-cover="https://img.discogs.com/ueyeKRiYHj1JYkO3qq17w3qm7lo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2277480-1460143032-4587.jpeg.jpg" data-tags="indie, boughtlist2010" role="button">
+<li data-cover="https://img.discogs.com/1b1WHh7efP5ENa-4AcVgCFJovm4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270028-1274186975.jpeg.jpg" data-tags="indie, boughtlist2010" role="button">
 Keane - Night Train (2010-05-09)
 </li>
 <li data-cover="https://img.discogs.com/3OoWfZVJU5AV7OxhKzMipCp6vQw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2238563-1272988463.jpeg.jpg" data-tags="indie rock, irish, ireland" role="button">

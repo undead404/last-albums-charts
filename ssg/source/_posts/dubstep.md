@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T20:29:01.521Z
+date: 2021-04-08T01:49:01.414Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Burial - Untrue (2007-11-05)](http://coverartarchive.org/release/715d4a00-2ad5-4882-b1be-24853344315e/2606794745-500.jpg "Burial - Untrue (2007-11-05)")
@@ -8,10 +8,10 @@ title: "dubstep: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/715d4a00-2ad5-4882-b1be-24853344315e/2606794745-500.jpg" data-tags="dubstep" role="button">Burial - Untrue (2007-11-05)</li>
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">Mount Kimbie - Crooks & Lovers (2010-07-19)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">Skrillex - Scary Monsters and Nice Sprites (2010-10-22)</li>
-<li data-cover="https://img.discogs.com/c94UBY8bWIZATrph5bsxzUyIVzA=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566056-1290802606.jpeg.jpg" data-tags="singer-songwriter, dubstep, bass music, covers and same song titles" role="button">James Blake - Limit to Your Love (2010-11)</li>
 <li data-cover="http://coverartarchive.org/release/53b4be47-2888-4434-91ac-713489db8c1f/28541045554-500.jpg" data-tags="electronic, dubstep" role="button">James Blake - James Blake (2011-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg" data-tags="dubstep" role="button">SBTRKT - SBTRKT (2011-06-27)</li>
 <li data-cover="http://coverartarchive.org/release/39df3094-f91b-4c4b-aa96-b1523db67172/3904999236-500.jpg" data-tags="dubstep, soul, 10s" role="button">Alex Clare - The Lateness Of the Hour (2011-07-08)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">Nero - Promises (2011-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/7f49326e-aceb-4fc6-a1ec-671a0ef14eac/6441724282-500.jpg" data-tags="dubstep" role="button">Nero - Welcome Reality (2011-08-12)</li>
 <li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">James Blake - Overgrown (2013-04-05)</li>
 </ol>
@@ -96,6 +96,9 @@ Skrillex - My Name Is Skrillex (2010-06-07)
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">
 Mount Kimbie - Crooks & Lovers (2010-07-19)
 </li>
+<li data-cover="https://img.discogs.com/tK9Dp-wPpngCsGiwP_51F2h3apM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6290784-1415834515-1744.jpeg.jpg" data-tags="dubstep" role="button">
+Magnetic Man - I Need Air (2010-07-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d71f839-8032-4eec-8b86-5116a9ede310/24185905454-500.jpg" data-tags="dubstep" role="button">
 Skream - Outside the Box (2010-08-09)
 </li>
@@ -134,9 +137,6 @@ James Blake - James Blake (2011-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3595aec4-1123-431c-aea4-5cfc1bcec675/15733860957-500.jpg" data-tags="dubstep" role="button">
 Blackmill - Reach for Glory (2011-02-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/c64ff47a-7558-3d80-ab9d-1588325b4003/21163981761-500.jpg" data-tags="electronic, experimental, dubstep" role="button">
-Gil Scott-Heron and Jamie xx - We're New Here (2011-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/734bc2bf-fec5-4133-8fc3-7f88a5c03e69/24038436103-500.jpg" data-tags="dubstep" role="button">
 Rusko - Everyday (2011-03-05)
@@ -237,7 +237,7 @@ Knife Party - 100% No Modern Talking (2011-12-12)
 <li data-cover="http://coverartarchive.org/release/13b61bbf-67ad-4a0b-9f68-85b425061968/1984353512-500.jpg" data-tags="dubstep" role="button">
 Skrillex - Bangarang (2011-12-23)
 </li>
-<li data-cover="https://img.discogs.com/rbBMP4M9Grh7ch-qedABfsJJZgU=/fit-in/600x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3365410-1329385926.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
+<li data-cover="https://img.discogs.com/URBql6c3VIxoUJnUkfaqxw6YxSU=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3351355-1412855554-1608.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
 Enter Shikari - A Flash Flood of Colour (2012-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a667cbdf-20bd-4e4c-abe1-313b4ef25693/2462427943-500.jpg" data-tags="dubstep, electro house, progressive house, drum & bass" role="button">
@@ -294,7 +294,7 @@ James Blake - Overgrown (2013-04-05)
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
 Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
 </li>
-<li data-cover="https://img.discogs.com/dbN6n83BE7ZXSQn9w7nqnvVaB0U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4960708-1380744325-6489.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/W-s2RzVMFNqn7fldhLM6BPtsXnQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12351444-1533493817-5998.jpeg.jpg" data-tags="pop, dance, female vocalists" role="button">
 Selena Gomez - Come & Get It (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
