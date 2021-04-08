@@ -5,8 +5,11 @@ import toString from 'lodash/toString';
 
 import logger from '../common/logger';
 import { publish } from '../common/amqp-broker';
+import generateSearchIndex from './generate-search-index';
+import mongoDatabase from '../common/mongo-database';
 
-const SSG_FOLDER = path.resolve(path.join(__dirname, '..', '..', '..', 'ssg'));
+const ROOT_FOLDER = path.resolve(path.join(__dirname, '..', '..', '..'));
+const SSG_FOLDER = path.resolve(path.join(ROOT_FOLDER, 'ssg'));
 logger.debug(SSG_FOLDER);
 
 function execute(command: string): Promise<number> {
@@ -22,6 +25,11 @@ function execute(command: string): Promise<number> {
 async function run() {
   const start = new Date();
   try {
+    if (!mongoDatabase.isConnected) {
+      await mongoDatabase.connect();
+    }
+    await generateSearchIndex();
+    await execute(`cd ${ROOT_FOLDER} && npx eslint ssg --fix`);
     await execute(`git add ${SSG_FOLDER}`);
     const diffReturnCode = await execute('git diff --cached --exit-code');
     if (diffReturnCode === 0) {

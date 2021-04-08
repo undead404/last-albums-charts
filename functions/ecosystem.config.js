@@ -7,7 +7,7 @@ module.exports = {
   apps: [
     {
       autorestart: false,
-      cron_restart: '45 * * * *',
+      cron_restart: '45 */3 * * *',
       env: {
         APP_NAME: 'deploy',
       },
@@ -18,7 +18,7 @@ module.exports = {
       watch: false,
     },
     {
-      cron_restart: '45 0 * * *',
+      cron_restart: '45 * * * *',
       env: {
         APP_NAME: 'fAlbums',
       },
@@ -109,7 +109,7 @@ module.exports = {
     },
     {
       autorestart: true,
-      cron_restart: '*/15 * * * *',
+      cron_restart: '0 * * * *',
       env: {
         APP_NAME: 'sAlbums',
       },

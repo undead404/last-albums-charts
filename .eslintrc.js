@@ -18,7 +18,7 @@ module.exports = {
   ],
   overrides: [
     {
-      files: ['./*', 'client/**/*.js', 'setup-tests.ts'],
+      files: ['./*', 'site/**/*.js', 'setup-tests.ts'],
       rules: {
         'import/no-extraneous-dependencies': [
           'error',
@@ -30,6 +30,7 @@ module.exports = {
         'node/no-unpublished-import': 'off',
         'node/no-unpublished-require': 'off',
         '@typescript-eslint/no-var-requires': 'off',
+        '@typescript-eslint/explicit-module-boundary-types': 'off',
         'no-console': 'off',
       },
     },
@@ -69,7 +70,7 @@ module.exports = {
       },
     },
     {
-      files: ['client/**/*.tsx', 'client/**/*.ts'],
+      files: ['site/**/*.tsx', 'site/**/*.ts'],
       rules: {
         'node/no-unsupported-features/node-builtins': 'off',
         'unicorn/filename-case': [
@@ -95,7 +96,7 @@ module.exports = {
       },
     },
     {
-      files: ['client/**/*.tsx'],
+      files: ['site/**/*.tsx'],
       rules: {
         'react/boolean-prop-naming': 'error',
         'react/display-name': 'error',
@@ -206,7 +207,7 @@ module.exports = {
     'import/resolver': {
       typescript: {
         alwaysTryTypes: true, // always try to resolve types under `<root>@types` directory even it doesn't contain any source code, like `@types/unist`,
-        project: ['./functions', './ssg'],
+        project: ['./functions', './site', './ssg'],
       },
     },
     react: {
