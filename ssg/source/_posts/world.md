@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T07:56:01.402Z
+date: 2021-04-08T03:18:01.421Z
 title: "world: 100 albums you must listen to before you die"
 ---
 ![Beirut - Elephant Gun (2007-06-25)](http://coverartarchive.org/release/c3085de3-262f-360f-84bd-e007c682f043/9700126803-500.jpg "Beirut - Elephant Gun (2007-06-25)")
@@ -56,6 +56,9 @@ Deep Forest - Sweet Lullaby (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8834ebd-c636-4ae5-98d4-da6840256df1/2587583831-500.jpg" data-tags="ambient, new age" role="button">
 Deep Forest - Deep Forest (1992-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/a21f909e-d675-4302-a143-2914bf3285a3/13600689975-500.jpg" data-tags="world" role="button">
+Ali Farka Touré - The Source (1992-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
 Dead Can Dance - Into the Labyrinth (1993-09-13)
@@ -120,9 +123,6 @@ Tabla Beat Science - Tala Matrix (2000-09-12)
 <li data-cover="http://coverartarchive.org/release/2baa8bf4-5de1-3ba9-a615-d8a194ed48d5/10272125432-500.jpg" data-tags="chillout, trip-hop, world" role="button">
 1 Giant Leap - 1 Giant Leap (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3a23b98-cd07-407b-8602-dc5356340412/6951984618-500.jpg" data-tags="jazz, sufi, world" role="button">
-Dhafer Youssef - Electric Sufi (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
 Nicola Conte - Bossa Per Due (2001-06-12)
 </li>
@@ -135,7 +135,7 @@ Israel Kamakawiwo'ole - Alone In IZ World (2001-07-25)
 <li data-cover="http://coverartarchive.org/release/a882962a-d989-4d2d-ab03-7a9da0385a1b/10902191890-500.jpg" data-tags="india, electronic" role="button">
 Karsh Kale - Realize (2001-07-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="celtic, world, new age" role="button">
+<li data-cover="https://img.discogs.com/pt4Sysc2txzm56pzkycsJdTQiio=/fit-in/300x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347599-1100269383.jpg.jpg" data-tags="celtic, world, new age" role="button">
 Hagalaz' Runedance - Frigga's Web (2002)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="african" role="button">
@@ -209,6 +209,9 @@ Fatima Spar und Die Freedom Fries - Zirzop (2006-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/88942202-c6b5-3dff-a286-5f1a0d20bca2/16038716231-500.jpg" data-tags="guitar, acoustic, instrumental" role="button">
 Rodrigo y Gabriela - Rodrigo y Gabriela (2006-02-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/9be57431-4d7d-4e00-85c3-3c834de56bb9/5613378360-500.jpg" data-tags="african" role="button">
+Ali Farka Touré - Savane (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cfb1f76-e542-4acf-875c-91d4af82d09e/4729456852-500.jpg" data-tags="world music, ethnic, world" role="button">
 Azam Ali - Elysium For The Brave (2006-07-25)
@@ -317,8 +320,5 @@ M.I.A. - Matangi (2013-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/48a36cde-f6a9-4ef5-ae36-8236f910cf7c/9108150553-500.jpg" data-tags="world, anton newcombe, deathgaze, jason aldean" role="button">
 Jason Aldean - Burnin' It Down (2014-07-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
-Iron & Wine - 9/20/02 (2018-08-31)
 </li>
 </ol>

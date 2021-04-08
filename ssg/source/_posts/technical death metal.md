@@ -1,11 +1,11 @@
 ---
-date: 2021-04-05T05:23:06.750Z
+date: 2021-04-08T02:58:01.394Z
 title: "technical death metal: 100 albums you must listen to before you die"
 ---
 ![Death - Symbolic (1995-03-21)](http://coverartarchive.org/release/321a3c33-9310-4b9f-b104-762e465ec60f/19740394528-500.jpg "Death - Symbolic (1995-03-21)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/c5ca70aa-d86b-4a0d-84fc-910ca6011881/4940989822-500.jpg" data-tags="death metal, technical death metal" role="button">Death - Human (1991-10-22)</li>
-<li data-cover="https://img.discogs.com/-CYHDSmdGfkUXwMn4PAkiOJ2gzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777733-1584932974-5395.jpeg.jpg" data-tags="death metal, technical death metal" role="button">Death - Individual Thought Patterns (1993-06-22)</li>
+<li data-cover="https://img.discogs.com/_WBMD258Vu8lOUil5yF1zBmivq8=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754668-1615550753-3053.jpeg.jpg" data-tags="death metal, technical death metal" role="button">Death - Individual Thought Patterns (1993-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/321a3c33-9310-4b9f-b104-762e465ec60f/19740394528-500.jpg" data-tags="death metal" role="button">Death - Symbolic (1995-03-21)</li>
 <li data-cover="https://img.discogs.com/AbOZtsdj39rFsDoZ3eEiWLrGh0Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10844672-1508180070-4387.jpeg.jpg" data-tags="death metal, progressive death metal" role="button">Death - The Sound of Perseverance (1998-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/6fd013d6-d481-45fe-8746-e99de6cd6aeb/6127775279-500.jpg" data-tags="technical death metal" role="button">Necrophagist - Epitaph (2004-08-03)</li>
@@ -42,13 +42,13 @@ Gorguts - The Erosion of Sanity (1993-01-19)
 <li data-cover="https://img.discogs.com/b4lzcfHekEa2TarJFo3bw6Y7drY=/fit-in/525x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1653973-1320397322.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Demilich - Nespithe (1993-02-08)
 </li>
-<li data-cover="https://img.discogs.com/-CYHDSmdGfkUXwMn4PAkiOJ2gzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777733-1584932974-5395.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
+<li data-cover="https://img.discogs.com/_WBMD258Vu8lOUil5yF1zBmivq8=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754668-1615550753-3053.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Individual Thought Patterns (1993-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a3dab5a-2d3b-4c07-aef6-d806d6ea920d/23415824129-500.jpg" data-tags="technical death metal, death metal" role="button">
 Atheist - Elements (1993-08-30)
 </li>
-<li data-cover="https://img.discogs.com/v9vPGaZNeinY7GV6aali6IVXQSI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1714253-1238695114.jpeg.jpg" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/tM9Y9ZW2m05DZVj_ZwipowXJKFU=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655586-1143989097.jpeg.jpg" data-tags="progressive metal" role="button">
 Cynic - Focus (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/901b614f-d39e-3d5d-89d2-596c3f045315/7743674648-500.jpg" data-tags="death metal" role="button">
@@ -63,7 +63,7 @@ Suffocation - Pierced From Within (1995-05-23)
 <li data-cover="https://img.discogs.com/_fhdnsIJfaADES1312cy1SvPd7E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3606752-1356082773-8996.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Cryptopsy - None So Vile (1996-07-03)
 </li>
-<li data-cover="https://img.discogs.com/_EXEd879PXcNdjYtdllk7zctlcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3755131-1468966762-1443.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/LjUpIiBmj8BKLqkVG0d8aTgslyM=/fit-in/307x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533596-1334196145.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Gorguts - Obscura (1998)
 </li>
 <li data-cover="https://img.discogs.com/1shcZ_nz2dW62FBfbV2quvbpRMU=/fit-in/387x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6282818-1417876455-8639.jpeg.jpg" data-tags="death metal" role="button">
@@ -90,7 +90,7 @@ Nile - Black Seeds of Vengeance (2000-09-05)
 <li data-cover="http://coverartarchive.org/release/8b4c9a14-0190-483c-9f94-0aec0694954e/9670537330-500.jpg" data-tags="death metal" role="button">
 Dying Fetus - Destroy the Opposition (2000-10-03)
 </li>
-<li data-cover="https://img.discogs.com/0LjEwALcneMikE_9jXRHAp6ClZw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876211-1453025934-1330.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/OUvXwQG8QWBxxCtbl-wtvM07xsI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-483903-1162396506.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Cryptopsy - And Then You'll Beg (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/36e75fe8-97d9-4628-99e0-2401ba2aaf0e/13536425693-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
@@ -102,10 +102,10 @@ Gorguts - From Wisdom to Hate (2001-03-06)
 <li data-cover="http://coverartarchive.org/release/47924ab2-d0e7-4135-ae84-797ece8924cb/13368438880-500.jpg" data-tags="death metal, technical death metal" role="button">
 Decapitated - Nihility (2002-02-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/5xBkjs9_H7qcUcVCSFd9pfAbu7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654747-1285957481.jpeg.jpg" data-tags="progressive metal" role="button">
 Meshuggah - Nothing (2002-08-06)
 </li>
-<li data-cover="https://img.discogs.com/fw2vSUTP1SBXkyHUcFbUaoHLucs=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3737428-1600449253-1203.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
+<li data-cover="https://img.discogs.com/beYJ0vbaSav1h-ZJJYwvtYASWtg=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6507757-1447088929-2827.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Nile - In Their Darkened Shrines (2002-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/177759a7-0d24-4c8f-b6c4-6fb9faae53eb/21814792851-500.jpg" data-tags="technical death metal, death metal" role="button">
@@ -168,6 +168,9 @@ Beneath the Massacre - Mechanics of Dysfunction (2007-02-20)
 <li data-cover="https://img.discogs.com/XdqLJmvm2bPOEIAp6G5hA8ECRbU=/fit-in/483x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-922770-1388153901-4381.jpeg.jpg" data-tags="death metal" role="button">
 Dying Fetus - War of Attrition (2007-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/024c3656-3151-3068-96bd-06f3706ce81b/23535428008-500.jpg" data-tags="death metal" role="button">
+Vital Remains - Icons Of Evil (2007-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/35985e83-a02d-46e4-a71d-808d4d7ea3e6/27198261885-500.jpg" data-tags="death metal, grindcore" role="button">
 Cephalic Carnage - Xenosapien (2007-05-29)
 </li>
@@ -201,7 +204,7 @@ Arsis - We Are The Nightmare (2008-04-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 All Shall Perish - Awaken the Dreamers (2008-09-05)
 </li>
-<li data-cover="https://img.discogs.com/jkNvKnWA_KX4l9WqpIfEVv11oQ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13139040-1548744606-8162.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/12ZNVOXsnmUtA0gPNE8YFpJbOhM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1611700-1307673007.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Psycroptic - Ob(servant) (2008-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de17f35-cac4-3be0-9b45-cc4ecfe4757a/1603337705-500.jpg" data-tags="progressive death metal, progressive metal, death metal" role="button">
@@ -230,9 +233,6 @@ Gorod - Process of a New Decline (2009-06-01)
 </li>
 <li data-cover="https://img.discogs.com/TWdPA-zUbmDrq3WnJl0sBEbK4gw=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10508097-1499170358-4429.jpeg.jpg" data-tags="death metal" role="button">
 Job for a Cowboy - Ruination (2009-07-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/6119fca5-d6e4-4685-b5d8-dfd71fce3494/2142804827-500.jpg" data-tags="miley cyrus" role="button">
-Miley Cyrus - Party in the U.S.A. (2009-08-11)
 </li>
 <li data-cover="https://img.discogs.com/vYBLCgQTDzscqJjlK-0qj9hjzfk=/fit-in/216x216/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1940393-1253834208.jpeg.jpg" data-tags="death metal" role="button">
 Dying Fetus - Descend Into Depravity (2009-09-15)

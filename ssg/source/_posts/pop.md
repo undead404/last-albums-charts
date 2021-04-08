@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T00:12:01.469Z
+date: 2021-04-08T03:11:01.476Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -26,9 +26,6 @@ Michael Jackson - Off the Wall (1979-08-10)
 </li>
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
-</li>
-<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
-Genesis - Invisible Touch (1986-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcf7537d-6b5d-4987-b022-074215f3f9fa/1619825734-500.jpg" data-tags="pop" role="button">
 Michael Jackson - Bad (1987-12-09)
@@ -248,6 +245,9 @@ Ellie Goulding - Lights (2010-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/48049b18-b950-4446-8fc8-76a8dba1a779/5891851446-500.jpg" data-tags="pop, electronic, dance" role="button">
 Christina Aguilera - Bionic (2010-06-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, miley cyrus" role="button">
+Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
