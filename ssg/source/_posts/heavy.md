@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:15:01.607Z
+date: 2021-04-08T05:02:01.415Z
 title: "heavy: 100 albums you must listen to before you die"
 ---
 ![Flux Pavilion - Bass Cannon (2011-03-21)](http://coverartarchive.org/release/2fca1b4d-f307-48fc-a449-550e663c9da0/18420618474-500.jpg "Flux Pavilion - Bass Cannon (2011-03-21)")
@@ -33,7 +33,7 @@ Status Quo - Hello! (1973-10-06)
 <li data-cover="http://coverartarchive.org/release/94541997-f956-4726-aa2b-2fad9d7f640b/19461208757-500.jpg" data-tags="classic rock, folk rock, rock, singer-songwriter, soft rock" role="button">
 Crosby & Nash - Wind on the Water (1975)
 </li>
-<li data-cover="https://img.discogs.com/iJqpGmu-7MiFD__j3ROdC96qDQw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4611580-1458592429-1653.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/fDVtCl-I-nVC-7tHUgqkFJERr1o=/fit-in/450x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206247-1334169387.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
 Kiss - Double Platinum (1978-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
@@ -86,6 +86,9 @@ Sleep - Jerusalem (1996)
 </li>
 <li data-cover="https://img.discogs.com/etTq8ISwuGvt8WmT51mCCoLN__I=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4505386-1366799359-8515.jpeg.jpg" data-tags="industrial metal" role="button">
 Ministry - Filth Pig (1996-01-26)
+</li>
+<li data-cover="https://img.discogs.com/qjIJpWeXcRW6WATBzDzuNbfVmPE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4426176-1523097446-8851.jpeg.jpg" data-tags="psychedelic rock" role="button">
+Bardo Pond - Amanita (1996-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c900ed7-76dd-4eb0-ba46-9153ff056f5a/20122739280-500.jpg" data-tags="hard rock, rock, german, onkelz" role="button">
 Böhse Onkelz - E.I.N.S. (1996-10-23)
@@ -186,7 +189,7 @@ Nicole - Suljetut ajatukset (2004-10-27)
 <li data-cover="http://coverartarchive.org/release/2d16e351-34ae-4722-9166-bc8512d5907a/19351955710-500.jpg" data-tags="psychedelic rock, psychedelic" role="button">
 Dead Meadow - Feathers (2005-02-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/25036812-9907-4a46-a328-98a7a9dbbbd1/1810447719-500.jpg" data-tags="rockabilly, heavy, self-titled, ff" role="button">
+<li data-cover="http://coverartarchive.org/release/25036812-9907-4a46-a328-98a7a9dbbbd1/1810447719-500.jpg" data-tags="rockabilly, heavy, self-titled" role="button">
 Heavy Trash - Heavy Trash (2005-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
@@ -305,9 +308,6 @@ Upon a Burning Body - Red. White. Green. (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1878453-6875-4d83-a8b2-d380e7e70342/7764522281-500.jpg" data-tags="classic rock, rock, soul, grunge, alternative, alternative rock, heavy, pop rock, sleezy, solo, catchy, epic, intro, industrial, blues, psychedelic, moody, soundscape, nineties, space, progressive, muse, a perfect circle, pink floyd, aerosmith, melancholic, stoner, dutch, brass, nine inch nails, 90's, holland, netherlands, seventies, led zeppelin, tool, debut, scream, the netherlands, lowlands, the rolling stones, rage against the machine, deep purple, pearl jam, audioslave, soundgarden, rolling stones, guitar solo, ratm, high vocals, 70's, chris cornell, synthbass, the black crowes, guitarsolo, navarone" role="button">
-Navarone - A Darker Shade of White (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1008433-df97-44b6-b91b-daebf2fc180c/19903307970-500.jpg" data-tags="stoner rock" role="button">
 Karma to Burn - Karma to Burn (2013-03-29)

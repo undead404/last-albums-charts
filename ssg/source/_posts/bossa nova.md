@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T18:20:01.494Z
+date: 2021-04-08T05:20:01.450Z
 title: "bossa nova: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -29,9 +29,6 @@ Coleman Hawkins - Desafinado (1962)
 </li>
 <li data-cover="https://img.discogs.com/Mi6IqIn9PuiCrW7sqM4N4ejH3Ko=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2241296-1271795742.jpeg.jpg" data-tags="jazz, bossa nova" role="button">
 Stan Getz & Charlie Byrd - Jazz Samba (1962-04-20)
-</li>
-<li data-cover="https://img.discogs.com/la2anXEAM03QcDWUGPmynaW0Ofo=/fit-in/411x408/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885061-1511778049-1588.jpeg.jpg" data-tags="bossa nova" role="button">
-Tamba Trio - Avanço (1963)
 </li>
 <li data-cover="http://coverartarchive.org/release/f244c760-f055-4099-9b80-70cef5ef1f74/1276068220-500.jpg" data-tags="brazilian, samba, mpb" role="button">
 Jorge Ben - Samba Esquema Novo (1963)
@@ -80,6 +77,9 @@ Elis Regina - Ela (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fdf342f-5955-4580-8292-bda007443c9b/5800875994-500.jpg" data-tags="bossa nova" role="button">
 João Donato - Quem é Quem (1973)
+</li>
+<li data-cover="https://img.discogs.com/vQmCXeBPCAqHxRfmJtJZ19PffW0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-784417-1595841130-8099.jpeg.jpg" data-tags="bossa nova" role="button">
+Astrud Gilberto - The Very Best of Astrud Gilberto II (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/f36f71b0-fe7b-45a9-bd2a-8fd68d1c41cd/28260791854-500.jpg" data-tags="samba" role="button">
 Cartola - Cartola (1976)

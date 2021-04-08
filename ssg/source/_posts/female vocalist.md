@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T10:07:01.449Z
+date: 2021-04-08T05:39:01.700Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Feist - The Reminder (2007-04-23)](http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg "Feist - The Reminder (2007-04-23)")
@@ -26,9 +26,6 @@ Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
 Cocteau Twins - Treasure (1984-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
-Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/decbc9c9-02bb-4d2c-8998-90775a2266e8/13474985144-500.jpg" data-tags="hard rock, female vocalist, 80s, glam metal, heavy metal, hair metal" role="button">
 Lita Ford - Lita (1988-02-02)
@@ -84,7 +81,7 @@ Regina Spektor - Songs (2002)
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
 </li>
-<li data-cover="https://img.discogs.com/LpWfFwFZQzH36xcj-eoXMpjLS70=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6745844-1591846017-8819.jpeg.jpg" data-tags="celine dion, pop" role="button">
+<li data-cover="https://img.discogs.com/_rd-VQ24XDQKDNOWoc9Y_TdShuI=/fit-in/450x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583660-1420114474-5047.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - A New Day Has Come (2002-03-25)
 </li>
 <li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
@@ -137,6 +134,9 @@ Maria Taylor - 11:11 (2005-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
+Cascada - Everytime We Touch (2006-02-21)
 </li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)

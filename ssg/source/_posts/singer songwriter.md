@@ -1,10 +1,10 @@
 ---
-date: 2021-04-07T15:42:01.606Z
+date: 2021-04-08T05:27:01.418Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">Sufjan Stevens - Seven Swans (2004-03-16)</li>
 <li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">Feist - The Reminder (2007-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">Devendra Banhart - What Will We Be (2009-10-26)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="https://img.discogs.com/2x-W2u8k9mU9yX_EUoj7jyLfKac=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640394-1504973916-3642.jpeg.jpg" data-tags="folk, female vocalists, indie, alternative" role="button">
 Vashti Bunyan - Just Another Diamond Day (1970)
 </li>
-<li data-cover="https://img.discogs.com/njEsmDb8CZRct1H9fC-4uL_2zTA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-585741-1604208786-7565.jpeg.jpg" data-tags="rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/LzbciLkwt1aeOFsRMvk96M_vORs=/fit-in/599x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11959291-1525505964-4302.jpeg.jpg" data-tags="rock, classic rock" role="button">
 Bob Dylan - Self Portrait (1970-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, pink, blue, green, yellow, shady, purple, grady, shady grady, clsid not unique" role="button">
@@ -42,10 +42,7 @@ Pescado Rabioso - Artaud (1973-10)
 <li data-cover="http://coverartarchive.org/release/13da0fa4-f6a2-42f5-abd0-83ff59abadb6/11447577334-500.jpg" data-tags="classic rock, rock, 70s, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, pottery wordz, nichopoulooza, os group" role="button">
 Jim Stafford - Jim Stafford (1974)
 </li>
-<li data-cover="https://img.discogs.com/pwYkgjsZh6pen0l0vTbJbx-SGkI=/fit-in/299x296/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067643-1334765613.jpeg.jpg" data-tags="singer songwriter" role="button">
-Todd Rundgren - Todd (1974)
-</li>
-<li data-cover="https://img.discogs.com/y2w_KIVsInqExWpswbpGY0aujqI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479708-1473079269-9575.png.jpg" data-tags="rock, elton john" role="button">
+<li data-cover="https://img.discogs.com/7OXJLEUsHyECKsIKMYUkVi5yvwY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3887099-1348118190-7574.jpeg.jpg" data-tags="rock, elton john" role="button">
 Elton John - Caribou (1974-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/76f492ee-cf10-4ced-88e5-4b9455e1ffe2/14741032642-500.jpg" data-tags="rock, folk rock" role="button">
@@ -135,7 +132,7 @@ Patrick Wolf - Lycanthropy (2003-07-28)
 <li data-cover="http://coverartarchive.org/release/bf2f95e0-9915-4346-8c9c-2a386784ce1b/10349051636-500.jpg" data-tags="indie rock, singer songwriter" role="button">
 Carina Round - The Disconnection (2004-01-01)
 </li>
-<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -195,13 +192,13 @@ Damien Rice - 9 Crimes (2006-11-17)
 <li data-cover="http://coverartarchive.org/release/b166514b-9038-4557-9897-f7762aa3a88a/3492500255-500.jpg" data-tags="indie, folk" role="button">
 Deer Tick - War Elephant (2007)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folktronica, electronica" role="button">
+<li data-cover="https://img.discogs.com/hLBq-Nmm040vEWoyAIKOidats1o=/fit-in/454x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1608369-1231930638.jpeg.jpg" data-tags="folktronica, electronica" role="button">
 James Yuill - Turning Down Water For Air (2007-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
 Feist - The Reminder (2007-04-23)
 </li>
-<li data-cover="https://img.discogs.com/rWnuvycgLN0oh-WhNzzp7kRj0K4=/fit-in/470x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1471234-1222192285.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
+<li data-cover="https://img.discogs.com/gvJQSZeQIhDkf8unKufwRc_Rrpo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1124428-1489756753-2443.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
 Devendra Banhart - Smokey Rolls Down Thunder Canyon (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b16363d-02fe-498e-8c0b-98b7509a87be/16717106099-500.jpg" data-tags="folk, acoustic, slow-coustic, indie, alternative, singer-songwriter, lo-fi, alt-country, folk rock, indie folk, alternative folk, country, indie pop, indie rock, sad, slow, calm, americana, blues, moody, songwriter, winter, mellow, melancholy, sleep, folk noir, freak folk, soft, emotional, slowcore, quiet, alt country, singer songwriter, singer-songwriters, short song, alt rock, hippie, indie-folk, independent, lyrics, lo fi, post folk, chamber folk, neofreak-folk, euphoric misery, concentration, folk me, quiet voices, singersongwriters, quiet  music" role="button">
@@ -260,6 +257,9 @@ Ed Sheeran - + (2011-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/513486c0-cbc3-4c88-a056-08ec7c5e41c0/15459840968-500.jpg" data-tags="americana, alt-country, ryan adams" role="button">
 Ryan Adams - Ashes & Fire (2011-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5cb0587-f253-4eee-b7af-16a821b01ddc/10592364249-500.jpg" data-tags="pop, alternative, alternative pop" role="button">
+Lana Del Rey - Blue Jeans (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
