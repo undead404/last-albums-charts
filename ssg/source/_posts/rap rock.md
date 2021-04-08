@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T14:59:08.018Z
+date: 2021-04-08T08:27:01.434Z
 title: "rap rock: 100 albums you must listen to before you die"
 ---
 ![Beastie Boys - Licensed to Ill (1986-11-15)](http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg "Beastie Boys - Licensed to Ill (1986-11-15)")
@@ -47,9 +47,6 @@ H-Blockx - Time To Move (1994-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b51ce6f1-7b00-33a9-bb2e-c976385f5faa/12053294894-500.jpg" data-tags="industrial rock, industrial, grebo" role="button">
 Pop Will Eat Itself - Dos Dedos Mis Amigos (1994-09-19)
-</li>
-<li data-cover="https://img.discogs.com/Ma39VcSNpInUmM5e7my5NwbVQkA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-853844-1589027466-6224.jpeg.jpg" data-tags="hip hop, 1990s, rap rock, us-american, columbia records, studio album, independent hip hop, garage hop, hip hop music, the goats, no goats no glory, ruffhouse records, k1r7m, joe nicolo" role="button">
-The Goats - No Goats, No Glory (1994-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/28e7a3e1-b4ba-4f58-a9e5-fa6d5936d5bc/2038812187-500.jpg" data-tags="alternative rock, rock" role="button">
 311 - 311 (1995-07-25)
@@ -266,6 +263,9 @@ Hollywood Undead - American Tragedy (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b366639-a46f-4365-b099-0696ac86a625/4530939830-500.jpg" data-tags="rock, bastard pop" role="button">
 Wugazi - 13 Chambers (2011-07-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ad68739-56d8-4f0f-8827-c1edce4db98b/3450139962-500.jpg" data-tags="electronic, alternative rock, rap rock" role="button">
+Under the Influence - Bad Habits Die Hard (2011-10-10)
 </li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)
