@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T05:45:01.706Z
+date: 2021-04-08T01:18:01.396Z
 title: "rock and roll: 100 albums you must listen to before you die"
 ---
 ![Slash - Slash (2010-03-31)](https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg "Slash - Slash (2010-03-31)")
@@ -36,8 +36,14 @@ Little Richard - Here's Little Richard (1957-03)
 <li data-cover="https://img.discogs.com/xHM902LwkVUUcH0gxViN_PbH1tg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072652-1515018033-4751.jpeg.jpg" data-tags="50s" role="button">
 Chuck Berry - After School Session (1957-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/e8c1426d-b237-4b8a-a22b-820b807849d4/9523057681-500.jpg" data-tags="rock and roll, time-100" role="button">
+Little Richard - Little Richard (1958)
+</li>
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">
 Elvis Presley - Elvis' Golden Records (1958-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/1fd81ee1-2301-4b9a-9dee-a45f5c0aa70a/17924948670-500.jpg" data-tags="rock and roll" role="button">
+Ritchie Valens - Ritchie Valens (1959-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1bcd4bc9-16cc-499e-bf06-8760708b93b0/16047631320-500.jpg" data-tags="rock and roll" role="button">
 Chuck Berry - Chuck Berry Is On Top (1959-07)
@@ -90,7 +96,7 @@ The Rolling Stones - Exile on Main St. (1972-05-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="50s" role="button">
 Elvis Presley - Elvis (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/f8de53b9-e3b3-4ea4-b401-2caf175135c8/5743160437-500.jpg" data-tags="rock, psychedelic" role="button">
+<li data-cover="https://img.discogs.com/cpZria-Kvc00grTK3wZ6tLQAF6c=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3696301-1340729244-7644.jpeg.jpg" data-tags="rock, psychedelic" role="button">
 Raul Seixas - Krig-ha, Bandolo! (1973-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/021640f8-2ef9-4767-8d5a-91ccff8ce023/21869039899-500.jpg" data-tags="rock" role="button">
@@ -104,9 +110,6 @@ Raul Seixas - Há 10 Mil Anos Atrás (1976-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/06ab427b-06b4-482a-90c3-4981c294eadd/11939995493-500.jpg" data-tags="proto-punk, 70s" role="button">
 The Modern Lovers - The Modern Lovers (1976-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d83c92b5-7022-3e12-870d-84ed59ad2da9/11749802149-500.jpg" data-tags="live, classic rock, hard rock" role="button">
-Led Zeppelin - The Song Remains The Same (1976-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/92746377-783d-3355-af9d-229a6edfd6ff/7383924116-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Let There Be Rock (1977-03-21)
@@ -132,7 +135,7 @@ Chuck Berry - The Great Twenty-Eight (1982)
 <li data-cover="http://coverartarchive.org/release/a62c50fe-5aaf-4962-b613-7ba366dd5a9f/3178692419-500.jpg" data-tags="classic rock, 80s" role="button">
 The Rolling Stones - Undercover (1983-11-07)
 </li>
-<li data-cover="https://img.discogs.com/caUGzB28LZRoCVHzY8K4ndFRrgU=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15722309-1596684649-9108.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
 Lou Reed - New Sensations (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/405b99d3-3157-49f9-a6d9-da8602d09d77/17671304804-500.jpg" data-tags="80s, rock" role="button">
@@ -159,9 +162,6 @@ Little Richard - Good Golly, Miss Molly (1989)
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
 Tom Petty - Full Moon Fever (1989-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f9612f3-673b-4245-b95e-3f2a48e76599/5976076640-500.jpg" data-tags="80s" role="button">
-Chris Isaak - Heart Shaped World (1989-06-06)
-</li>
 <li data-cover="https://img.discogs.com/OVoyEpasfUfzgs6K3erkUwj1xJ4=/fit-in/425x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3359787-1327276768.jpeg.jpg" data-tags="50s, b diddley" role="button">
 Bo Diddley - Bo Diddley (1990)
 </li>
@@ -177,7 +177,7 @@ The Rolling Stones - Flashpoint (1991-04-02)
 <li data-cover="http://coverartarchive.org/release/47e8dc10-de45-3942-8ceb-575a90a372d8/7862467497-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Live (1992-10-11)
 </li>
-<li data-cover="https://img.discogs.com/a39OKpNU4p3Xo9ueCu9ccbs24cs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2450769-1453472778-8428.jpeg.jpg" data-tags="50s" role="button">
+<li data-cover="https://img.discogs.com/Hadjqv8qev4A634rv8cLWlhiGhc=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199290-1332632279.jpeg.jpg" data-tags="50s" role="button">
 Buddy Holly - Buddy Holly (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/60fa0694-7239-33bb-9e93-2114e7f32ceb/9752304202-500.jpg" data-tags="rock, alternative rock" role="button">
@@ -249,7 +249,7 @@ Hot Snakes - Audit In Progress (2004-10-05)
 <li data-cover="https://img.discogs.com/-ZSZoy7U01QRWfDITkuef6kb9wg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305288-1372418725-5004.jpeg.jpg" data-tags="classic rock, country rock" role="button">
 Eagles - Eagles (2005-03-15)
 </li>
-<li data-cover="https://img.discogs.com/k-o5sSl2CWfkoKOySGdNMJSNf_E=/fit-in/600x859/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10670506-1503162033-3953.jpeg.jpg" data-tags="rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Rolling Stones - A Bigger Bang (2005-06-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">

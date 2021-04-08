@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:10:01.457Z
+date: 2021-04-08T00:53:01.420Z
 title: "j-pop: 100 albums you must listen to before you die"
 ---
 ![BABYMETAL - BABYMETAL (2014-02-26)](http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg "BABYMETAL - BABYMETAL (2014-02-26)")
@@ -10,10 +10,10 @@ title: "j-pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/39c898e0-6cb4-4f40-8d33-d7d29280361a/4005393117-500.jpg" data-tags="j-pop, japanese" role="button">宇多田ヒカル - HEART STATION (2008-03-19)</li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">Perfume - GAME (2008-04-16)</li>
 <li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">Chelsea Wolfe - The Grime and the Glow (2010-12-28)</li>
-<li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">Perfume - JPN (2011-11-30)</li>
 <li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">Chelsea Wolfe - Pain Is Beauty (2013-09-03)</li>
+<li data-cover="http://coverartarchive.org/release/b4b2db00-1b79-422e-a909-5e8271c7ec4c/6115445993-500.jpg" data-tags="j-pop" role="button">Kero Kero Bonito - Intro Bonito (2013-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">Nicki Minaj - Anaconda (2014-08-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -150,9 +150,6 @@ abingdon boys school - INNOCENT SORROW (2006-12-06)
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, j-pop" role="button">
 大塚愛 - LOVE PiECE (2007-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e93a0d7-d3ce-49ff-92a4-e45d7506bce6/6311949980-500.jpg" data-tags="electronic, japanese" role="button">
-Capsule - FLASH BACK (2007-12-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/b98b13ff-8f00-49c2-a9e6-c6b370767003/18053330278-500.jpg" data-tags="j-pop" role="button">
 浜崎あゆみ - GUILTY (2008-01-01)
 </li>
@@ -182,6 +179,9 @@ Flow - WORLD END (2008-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d410578e-44da-4691-9f84-362f556664b3/9364802380-500.jpg" data-tags="j-pop" role="button">
 倖田來未 - TABOO (2008-10-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
+中島美嘉 - VOICE (2008-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0d872f8-73b8-4c29-adbe-7c2de1bd8c24/14299170322-500.jpg" data-tags="indie pop" role="button">
 相対性理論 - ハイファイ新書 (2009-01-07)
@@ -312,7 +312,7 @@ Lisa - LANDSPACE (2013-10-30)
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
