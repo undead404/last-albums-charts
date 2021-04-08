@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T02:23:01.379Z
+date: 2021-04-08T00:32:07.044Z
 title: "france: 100 albums you must listen to before you die"
 ---
 ![Carla Bruni - Quelqu&#39;un m&#39;a dit (2002-11-05)](http://coverartarchive.org/release/15f6f9f4-7777-37d6-96fa-94128984a887/15915400773-500.jpg "Carla Bruni - Quelqu'un m'a dit (2002-11-05)")
@@ -45,7 +45,7 @@ Indochine - 3 (1985)
 <li data-cover="http://coverartarchive.org/release/4adc6436-806c-478d-9999-4575e04c8455/18590004622-500.jpg" data-tags="rock, france, johnny hallyday" role="button">
 Johnny Hallyday - Gang (1986-12-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c808ed2-d934-4436-a445-f0bf4074641f/12562261117-500.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/5zze_Iir0wIBGc11Z8rVwrqJY-E=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1229918-1212660759.jpeg.jpg" data-tags="80s" role="button">
 Desireless - François (1989-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d4eb4fd-9097-4067-9f94-aa85f51bc7af/6204216929-500.jpg" data-tags="rock, dark, post-punk, melancholic, france, coldwave" role="button">
@@ -90,9 +90,6 @@ Alain Bashung - Fantaisie Militaire (1998)
 <li data-cover="http://coverartarchive.org/release/2d7c82e6-c3bb-38a9-96f0-5626158e3276/6598464730-500.jpg" data-tags="french, rock, breton" role="button">
 Matmatah - La Ouache (1998-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/8fde2434-9ffb-4dd6-b960-0b12ae84398e/1243923392-500.jpg" data-tags="french, female vocalists" role="button">
-Zazie - Made In Love (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/3d967c87-1e8e-4ecb-990e-dd25103460a6/18618947785-500.jpg" data-tags="rock, france" role="button">
 Mickey 3D - Mistigri Torture (1999)
 </li>
@@ -129,9 +126,6 @@ Daft Punk - Aerodynamic (2001-03-26)
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d56f453-9689-3588-94b0-a6542796fb68/1227544055-500.jpg" data-tags="rock, singer-songwriter" role="button">
-Dominique A - Auguri (2001-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/d9f7804c-160c-4336-ad1a-62e0c9ea475a/1373806499-500.jpg" data-tags="dub" role="button">
 High Tone - Bass Temperature (2001-10-15)
 </li>
@@ -143,6 +137,9 @@ Indochine - Paradize (2002)
 </li>
 <li data-cover="https://img.discogs.com/k1jLdWdrhpUrV6LSIfwfLZOdpzU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2980471-1600858402-1449.jpeg.jpg" data-tags="french, rock" role="button">
 Dionysos - Western Sous La Neige (2002-03-05)
+</li>
+<li data-cover="https://img.discogs.com/QmgVYjDgT_kuQEVkkWfAth5AZJ8=/fit-in/488x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7370677-1440013309-9641.png.jpg" data-tags="kaas, patricia kaas" role="button">
+Patricia Kaas - Piano Bar (2002-06-11)
 </li>
 <li data-cover="https://img.discogs.com/EEVhN-4JBxDOynNyMeIqNcoqQn0=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10387805-1496477354-7222.jpeg.jpg" data-tags="camille, female vocalists, french, indie" role="button">
 Camille - Le Sac Des Filles (2002-09-23)
@@ -189,6 +186,9 @@ Air - Alpha Beta Gaga (2004-08-02)
 <li data-cover="https://img.discogs.com/DI23Ev1UMtH_RqneX4CWBIAZimI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1725069-1239637783.jpeg.jpg" data-tags="french, chanson francaise, francais, francophone, france" role="button">
 Alexis HK - L'Homme du moment (2004-11)
 </li>
+<li data-cover="https://img.discogs.com/rzkwkjBTeQxDZ3uwzNhxzvChTUM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383237-1496742724-9195.jpeg.jpg" data-tags="rnb, amel bent" role="button">
+Amel Bent - Un Jour D'été (2004-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
 Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
 </li>
@@ -224,9 +224,6 @@ Charlotte Gainsbourg - 5:55 (2006-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2395452-5ff5-3db7-a472-396e9ff994bf/25664690442-500.jpg" data-tags="electro, disco, dance, 00s" role="button">
 Cassius - 15 Again (2006-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b0279cd-b3d3-4202-bf0a-5e825f0e1c1b/2630502287-500.jpg" data-tags="french, pop, live, francais, francophone, france" role="button">
-CALI - Le Bordel Magnifique (2006-10-02)
 </li>
 <li data-cover="https://img.discogs.com/BMzht3xUqeGAo-A1hhujtrfmcQ8=/fit-in/200x206/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11565462-1518602708-9972.jpeg.jpg" data-tags="french, electropop, canada, canadian, quebec, francais, francophone, quebecois, france, canadien" role="button">
 Numéro# - L'Idéologie Des Stars (2006-11-07)
@@ -299,6 +296,9 @@ Mylène Farmer - Oui Mais... Non (2010-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/68750f5a-8196-4402-9575-b3a0e77e94a9/17618561538-500.jpg" data-tags="french, indie, pop, folk, indie pop, francais, france" role="button">
 Yodelice - Cardioid (2010-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/b5dcfc63-6c57-3ec1-8405-6e7a148e1cca/3825741259-500.jpg" data-tags="french" role="button">
+Cocoon - Where The Oceans End (2010-10-20)
 </li>
 <li data-cover="https://img.discogs.com/alWuM2uy1IlNrJsKVEjmS5ww5mY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2957685-1309111404.jpeg.jpg" data-tags="pop, folk" role="button">
 Keren Ann - 101 (2011-02-28)

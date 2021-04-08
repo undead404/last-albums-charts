@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:16:01.284Z
+date: 2021-04-08T00:37:01.390Z
 title: "debut: 100 albums you must listen to before you die"
 ---
 ![J. Holiday - Back Of My Lac&#39; (2007-10-02)](http://coverartarchive.org/release/1b11dae0-5b4b-4c90-96dc-dc7e345c9f6d/22158725009-500.jpg "J. Holiday - Back Of My Lac' (2007-10-02)")
@@ -54,7 +54,7 @@ Bruce Springsteen - Greetings from Asbury Park, N.J. (1973-01-05)
 <li data-cover="http://coverartarchive.org/release/c23de1c0-9fe7-4d49-8eef-053f02bb5f97/27361541152-500.jpg" data-tags="60s, classic rock" role="button">
 Buffalo Springfield - Buffalo Springfield (1973-11-12)
 </li>
-<li data-cover="https://img.discogs.com/EWyyHSNA5VGcAWp5YeupQfUyfGI=/fit-in/385x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5130051-1385314158-3048.jpeg.jpg" data-tags="funk, 70s" role="button">
+<li data-cover="https://img.discogs.com/QGbaDCPmIgbihSg8GUDKKZBmFw0=/fit-in/397x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7502914-1442822003-4318.jpeg.jpg" data-tags="funk, 70s" role="button">
 Robert Palmer - Sneakin' Sally Through The Alley (1974)
 </li>
 <li data-cover="http://coverartarchive.org/release/95b5b3b0-0c4e-3a75-bc62-f9b8392a0a09/19299469793-500.jpg" data-tags="rock, power pop, 70s" role="button">
@@ -63,7 +63,7 @@ Cheap Trick - Cheap Trick (1977)
 <li data-cover="http://coverartarchive.org/release/718ad58d-0a65-3265-8c90-7205d16c33e2/13390866242-500.jpg" data-tags="70s, funk, soul" role="button">
 Prince - For You (1978)
 </li>
-<li data-cover="https://img.discogs.com/fBTVUA1oeZEdGlBzNS200O1__yM=/fit-in/600x1013/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12214678-1530648799-2411.jpeg.jpg" data-tags="70s, female vocalists" role="button">
+<li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3d6480b-e431-40e7-84c7-160923940b60/12764953075-500.jpg" data-tags="punk rock, punk" role="button">
@@ -72,13 +72,13 @@ The Undertones - The Undertones (1979-05)
 <li data-cover="https://img.discogs.com/hpFdJQ_Xm7vzR5fe_QxPOOh_dWg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13985930-1565600637-1117.jpeg.jpg" data-tags="post-punk, new wave" role="button">
 Orange Juice - You Can't Hide Your Love Forever (1982-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/ebd75d6a-57a8-44bf-831f-6d433eab6d0e/1770750906-500.jpg" data-tags="alternative, usa, post punk, 1980s, rare, debut, records i own, dark 80s, dark indie, yes yes yes, favorite female singers, unheard, the eighties were not that bad, angst pop, should not even be on here, pop lament, she sings so sweetly, batcave coldwave new wave gothic, tdhassociation" role="button">
-10,000 Maniacs - Secrets of the I Ching (1983)
+<li data-cover="https://img.discogs.com/SrQO7Q2d5uvxatZc0H0vIr0EdVA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498930-1469359019-2301.jpeg.jpg" data-tags="scotland, debut, 2000's, 10 out of 10, all-time favorite albums" role="button">
+The Proclaimers - This Is The Story (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
-<li data-cover="https://img.discogs.com/dkbqDxhqvsiV_SgBhK9b8xHQTBs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3085750-1518194666-6785.jpeg.jpg" data-tags="80s, hard rock, hair metal, glam, glam rock" role="button">
+<li data-cover="https://img.discogs.com/9l6wZJJjmtn4fFUFfL_76B3l7IY=/fit-in/353x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3776198-1343964143-5438.jpeg.jpg" data-tags="80s, hard rock, hair metal, glam, glam rock" role="button">
 Danger Danger - Danger Danger (1989-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/213f1d8f-9233-3b6d-822d-d10f81e39e8d/13112905140-500.jpg" data-tags="rock, alternative, indie rock, 90s, 4ad, steve albini, indie, female vocalists" role="button">
@@ -105,14 +105,14 @@ PJ Harvey - Dry (1992-02-11)
 <li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
 Spiritualized - Lazer Guided Melodies (1992-04)
 </li>
-<li data-cover="https://img.discogs.com/FssV3TyVFQwIrhLj7BgVNbZG0jM=/fit-in/561x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2968783-1309656048.jpeg.jpg" data-tags="relaxing calm and fresh" role="button">
+<li data-cover="http://coverartarchive.org/release/3862f14f-ad72-4654-a3f9-883940666a5c/9102536359-500.jpg" data-tags="turkish pop, debut, 90s turkish pop, 90lar turkce pop, 90li yillar" role="button">
+Levent Yüksel - Med Cezir (1993-05-14)
+</li>
+<li data-cover="https://img.discogs.com/qt_TXxZUTX877UK-JxoURwW4as8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887422-1339251264-6500.jpeg.jpg" data-tags="relaxing calm and fresh" role="button">
 Lisa Ekdahl - Lisa Ekdahl (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
 dEUS - Worst Case Scenario (1994-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/10f6c3ad-5e56-445a-b9f4-429d4d3bf5dc/9969627031-500.jpg" data-tags="90s" role="button">
-Seven Mary Three - American Standard (1995-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d6b3a54-f016-4012-872d-c9be4348b750/13795658189-500.jpg" data-tags="east coast rap, mafioso rap" role="button">
 AZ - Doe or Die (1995-10-31)
@@ -123,7 +123,7 @@ Catatonia - Way Beyond Blue (1996)
 <li data-cover="http://coverartarchive.org/release/e5648344-7e08-4131-8a60-138676d0cfef/3370472226-500.jpg" data-tags="indie rock, indie, 90s" role="button">
 Nada Surf - High/Low (1996-06-18)
 </li>
-<li data-cover="https://img.discogs.com/9AtR4k6wdOUcBxsWu73Slajf7_M=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738516-1195164243.jpeg.jpg" data-tags="britrpop" role="button">
+<li data-cover="https://img.discogs.com/X26GFJbCK_4G9fpo2nKK7-g28uc=/fit-in/600x933/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1908293-1425494348-4754.jpeg.jpg" data-tags="britrpop" role="button">
 Space - Spiders (1996-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d44ae919-ecca-4587-b460-97c2f1c9042d/10187158587-500.jpg" data-tags="rock, rock n roll, turkish rock, debut, benimmm, s ferah" role="button">
@@ -141,7 +141,7 @@ Pinback - Pinback (1999-10-12)
 <li data-cover="https://img.discogs.com/TzUQGsUxe81laWKs3E86gBGLu2Y=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-311604-1521574096-1758.jpeg.jpg" data-tags="female, hip hop, rap, female artists, debut, 50 cent, female rapper, florida hip-hop" role="button">
 Trina - Da Baddest Bitch (2000-03-21)
 </li>
-<li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
+<li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/add3661e-ae37-3d89-92fb-880e1979082e/7792901378-500.jpg" data-tags="indie, singer-songwriter, 00s" role="button">
@@ -152,9 +152,6 @@ Sugababes - One Touch (2000-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce3418e9-83f9-4ecb-acc5-82c47a67c9b5/6010970718-500.jpg" data-tags="rock" role="button">
-American Hi-Fi - American Hi-Fi (2001-02-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
 Elbow - Asleep in the Back (2001-05-03)
@@ -204,6 +201,9 @@ The Veronicas - The Secret Life of... (2005-08-08)
 <li data-cover="http://coverartarchive.org/release/aff5d815-40a6-35bf-af99-9d5dea7091aa/3110636482-500.jpg" data-tags="jamie foxx unpredictable, rnb" role="button">
 Jamie Foxx - Unpredictable (2005-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/72daec59-4623-4343-b36c-eeed703575ee/13098458362-500.jpg" data-tags="debut, discoverockult, saving jane, discovered gems" role="button">
+Saving Jane - Girl Next Door (2005-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/ca84182b-c2f1-462f-8945-2807299c0cad/20354021876-500.jpg" data-tags="indie" role="button">
 Nightmare Of You - Nightmare of You (2006)
 </li>
@@ -222,9 +222,6 @@ Cherish - Unappreciated (2006-08-15)
 <li data-cover="https://img.discogs.com/3nzumkYs-JReR0hQ9RO1Coz8STQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-763523-1156330132.jpeg.jpg" data-tags="pop, rnb" role="button">
 Danity Kane - Danity Kane (2006-08-22)
 </li>
-<li data-cover="https://img.discogs.com/RV2cNYD-otO_BgMowcXxlM1KAKk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2553259-1291253508.jpeg.jpg" data-tags="indie, debut" role="button">
-Cold War Kids - Hang Me Up to Dry (2007-02-26)
-</li>
 <li data-cover="https://img.discogs.com/QiFcJ1QzRxn88VsLIN-l2HRXVvs=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1418976-1218095054.jpeg.jpg" data-tags="recent hot, real testament" role="button">
 Plies - The Real Testament (2007-08-07)
 </li>
@@ -234,7 +231,7 @@ Puscifer - "V" Is for Vagina (2007-10-01)
 <li data-cover="http://coverartarchive.org/release/1b11dae0-5b4b-4c90-96dc-dc7e345c9f6d/22158725009-500.jpg" data-tags="rnb, recent hot" role="button">
 J. Holiday - Back Of My Lac' (2007-10-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
+<li data-cover="https://img.discogs.com/sPDr_8tjWRJAPVt8dVl8sF2VLTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1659223-1235103402.jpeg.jpg" data-tags="rnb" role="button">
 Ryan Leslie - Ryan Leslie (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b0cf209-0f8f-45f9-9ab3-0826e31b64a9/26909254187-500.jpg" data-tags="soul, female vocalists, smooth, debut, good singer, my album collection" role="button">
@@ -255,11 +252,17 @@ DAY26 - DAY26 (2008-03-25)
 <li data-cover="http://coverartarchive.org/release/85b65ab2-b91d-4870-b3dc-15626cdd84b8/4436561866-500.jpg" data-tags="rap, detroit" role="button">
 Guilty Simpson - Ode To The Ghetto (2008-03-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/32a4245f-f57b-41e6-87f7-7b1067f57360/9375092249-500.jpg" data-tags="debut" role="button">
+2 Pistols - Death Before Dishonor (2008-06-17)
+</li>
 <li data-cover="https://img.discogs.com/fi-H7ZPALPcsWhQEkhhSWu4v05k=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404081-1494614671-4937.jpeg.jpg" data-tags="indie pop" role="button">
 Black Kids - Partie Traumatic (2008-07-07)
 </li>
 <li data-cover="https://img.discogs.com/XKjwOHnY6I0ZVYgC9h41wRTjl50=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373926-1213988719.jpeg.jpg" data-tags="electropop" role="button">
 Uh Huh Her - Common Reaction (2008-08-09)
+</li>
+<li data-cover="https://img.discogs.com/tLDGDEZS1hL2iVSCJ19fzz9rsyI=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116217-1560203855-1165.jpeg.jpg" data-tags="debut" role="button">
+Colby O'Donis - Colby O (2008-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
@@ -288,7 +291,7 @@ The Joy Formidable - The Big Roar (2011-01-24)
 <li data-cover="https://img.discogs.com/_pX56AIo9tfD9m8aM3BbTF3Ywf0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2724134-1298166628.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Yuck - Yuck (2011-02-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/9Rz_SdT9c_N8E3u2deyURQdinfE=/fit-in/468x415/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2741848-1298977730.jpeg.jpg" data-tags="folk" role="button">
 Mirel Wagner - Mirel Wagner (2011-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3df57bd-5e5b-43fd-a25c-3ae0a44e12f9/10701614554-500.jpg" data-tags="pop, asian, k-pop, male vocalists, boyband, kpop, debut, jellyfish, boy band, korean pop, ken, ravi, asian music, n, asian pop, leo, vixx, hyuk, korean boyband, korean boy band, hongbin, jellyfish entertainment" role="button">
@@ -296,9 +299,6 @@ VIXX - SUPER HERO (2012-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6113db0-7773-470b-96f9-1d623ea46fff/14874128706-500.jpg" data-tags="england, 2010s, debut, czalbums" role="button">
 Saint Saviour - Union (2012-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/481e29c7-a30b-4680-a0b3-b84e31da3fc1/4540449025-500.jpg" data-tags="r&b" role="button">
-Elle Varner - Perfectly Imperfect (2012-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/32898f6b-22b6-40ea-af9e-1044ff34d065/6869513631-500.jpg" data-tags="folk" role="button">
 The Staves - Dead & Born & Grown (2012-11-12)

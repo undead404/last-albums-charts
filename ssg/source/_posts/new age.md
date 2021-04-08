@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T15:13:01.659Z
+date: 2021-04-08T00:45:01.702Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -78,7 +78,7 @@ Deep Forest - Deep Forest (1992-06)
 <li data-cover="http://coverartarchive.org/release/85c27f15-73f0-3377-b27b-dd59ad790ab3/21748686698-500.jpg" data-tags="instrumental" role="button">
 Mike Oldfield - Tubular Bells II (1992-08-31)
 </li>
-<li data-cover="https://img.discogs.com/QmDVT-y-WjAnWodNbJB_k9jAAIg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8260291-1458151757-3937.jpeg.jpg" data-tags="celtic, new age" role="button">
+<li data-cover="https://img.discogs.com/xbSveh6u1PT6wIjBm6QxyCvJB0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8996453-1472983258-2777.jpeg.jpg" data-tags="celtic, new age" role="button">
 Clannad - Banba (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
@@ -132,16 +132,13 @@ Delerium - Karma (1997-04-22)
 <li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/017f86a2-097c-432c-9ecd-7f3ebf6e8eef/22110454730-500.jpg" data-tags="new age" role="button">
-Yanni - Tribute (1997-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/281397de-fa8e-491a-b664-f03d5eb49c19/15932053701-500.jpg" data-tags="new age, enya, storms in africa, boadicea, only if" role="button">
 Enya - Paint The Sky With Stars (1997-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ef2d01b-02bf-35b6-949a-0666edbdc839/6637250207-500.jpg" data-tags="enya" role="button">
 Enya - Paint the Sky With Stars: The Best of Enya (1997-11-10)
 </li>
-<li data-cover="https://img.discogs.com/0dqJNyMxVbY0B5AkQ9bLnZSv2Ks=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-507038-1125071981.jpg.jpg" data-tags="new age, female vocalists, classical crossover" role="button">
+<li data-cover="https://img.discogs.com/9SU-WGHI8Z0H_KSCsX7_0lmPNNM=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4478044-1366005000-2493.jpeg.jpg" data-tags="new age, female vocalists, classical crossover" role="button">
 Sarah Brightman - Eden (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a623c8d-7878-3d2a-8d87-60b5a31340e8/12921336614-500.jpg" data-tags="world, new age" role="button">
@@ -171,7 +168,7 @@ Karunesh - Global Spirit (2000)
 <li data-cover="http://coverartarchive.org/release/387f7c8c-3c49-4601-af97-c7db2ba52593/20872496494-500.jpg" data-tags="new age, folk, celtic" role="button">
 Clannad - Greatest Hits (2000)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new age, relaxing" role="button">
+<li data-cover="https://img.discogs.com/aR_DAnxf1_Q3nsm6cGttuLUqLjI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1920300-1561466655-8429.jpeg.jpg" data-tags="new age, relaxing" role="button">
 Anugama - Shamanic Dream II (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/a587b53b-8e38-49bd-9546-c0289998511f/28359155946-500.jpg" data-tags="new age, enigma" role="button">
@@ -312,10 +309,13 @@ Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 <li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
 Zara Larsson - Uncover (2013-05-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/15a991b2-c3ef-4475-ae96-fcff38406305/8837373509-500.jpg" data-tags="japanese, new age, dreamy, boobs on cover" role="button">
+Lamp - ゆめ (2014-02-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/fbfa4f47-088e-4957-9a10-5f61bd5f2341/14081906186-500.jpg" data-tags="pop, new age, english, mike oldfield" role="button">
 Mike Oldfield - Man On The Rocks (2014-03-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
+<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
 Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">

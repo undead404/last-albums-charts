@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:18:01.437Z
+date: 2021-04-08T00:07:01.436Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
@@ -74,9 +74,6 @@ Michael Jackson - Dangerous (1991-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/448bd78a-9674-425c-8cf6-7e6de719551d/11371804410-500.jpg" data-tags="soul" role="button">
 Sade - Love Deluxe (1992-10-23)
-</li>
-<li data-cover="https://img.discogs.com/FaX2er6kdAsyNed7FHPIi9tRc4M=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654057-1295129981.jpeg.jpg" data-tags="soul" role="button">
-Bill Withers - Lean on Me: The Best of Bill Withers (1994-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
 Toni Braxton - Secrets (1996-06-18)
@@ -212,6 +209,9 @@ Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
+Paolo Nutini - Sunny Side Up (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a34aaf89-1aeb-31e7-847d-ec3223ccb2ff/1577578205-500.jpg" data-tags="rnb, soul" role="button">
 Alicia Keys - The Element of Freedom (2009-11-27)
