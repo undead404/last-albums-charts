@@ -1,17 +1,17 @@
 ---
-date: 2021-04-08T01:16:01.341Z
+date: 2021-04-08T07:39:01.732Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/c33e82e8-efba-49ae-83f3-adc3088985ff/4004452077-500.jpg" data-tags="60s, classic rock" role="button">The Beatles - With The Beatles (1963-11-22)</li>
-<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">The Beatles - Help! (1965-07-19)</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">The Beatles - Help! (1965-07-19)</li>
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">The Beatles - Rubber Soul (1965-12-03)</li>
 <li data-cover="http://coverartarchive.org/release/c7f648e2-9c6d-32df-b5ee-ccab3e696a51/16250684845-500.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - Revolver (1966-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">The Beatles - Magical Mystery Tour (1967-11-27)</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - Abbey Road (1969-09-26)</li>
-<li data-cover="https://img.discogs.com/E8_hYSNJ884KPcuu8irEGT1okFE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14915184-1584898066-7698.jpeg.jpg" data-tags="rock, classic rock" role="button">The Beatles - Let It Be (1970-05-08)</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">The Beatles - Let It Be (1970-05-08)</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s" role="button">The Beatles - A Hard Day's Night (1990)</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">The Beatles - 1 (2000-11-13)</li>
 </ol>
@@ -39,7 +39,7 @@ The Beatles - The Early Beatles (1965-03-22)
 <li data-cover="http://coverartarchive.org/release/2051f0dd-1355-41ad-8414-9d5f65a96086/21915417205-500.jpg" data-tags="beatles, 60s" role="button">
 The Beatles - Beatles VI (1965-06-14)
 </li>
-<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">
 The Beatles - Help! (1965-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">
@@ -60,7 +60,7 @@ The Beatles - Magical Mystery Tour (1967-11-27)
 <li data-cover="https://img.discogs.com/Iui6jd8ETs5zz_516gpRpXGz4HY=/fit-in/400x410/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426987-1112125399.jpg.jpg" data-tags="stevie wonder, pop" role="button">
 Stevie Wonder - Stevie Wonder (1968)
 </li>
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/4aa72f06-b2f9-4ad4-a4d2-ac21bc621f2f/4734563068-500.jpg" data-tags="beatles, the beatles, stonedbeat, unknown pleasure" role="button">
@@ -78,7 +78,7 @@ The Beatles - Hey Jude (1970-02-26)
 <li data-cover="http://coverartarchive.org/release/4ac6885b-f733-3c0a-913b-b3202b56a80a/9495724756-500.jpg" data-tags="rock, classic rock" role="button">
 Paul McCartney - McCartney (1970-04-17)
 </li>
-<li data-cover="https://img.discogs.com/E8_hYSNJ884KPcuu8irEGT1okFE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14915184-1584898066-7698.jpeg.jpg" data-tags="rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
 </li>
 <li data-cover="https://img.discogs.com/ZYhzOMhk5L_ipKYht3QrMtltl88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1700123-1382999464-3578.jpeg.jpg" data-tags="folk rock, classic rock" role="button">
@@ -108,7 +108,7 @@ John Lennon - Walls and Bridges (1974-10-04)
 <li data-cover="http://coverartarchive.org/release/200b8487-1d43-4b59-b0fd-3325e6576ce8/8836683811-500.jpg" data-tags="70s, classic rock" role="button">
 Wings - Venus And Mars (1975-05-30)
 </li>
-<li data-cover="https://img.discogs.com/J3GYJ--M63nz35Y6pjslWGYFVfE=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9875619-1490285592-6650.jpeg.jpg" data-tags="70s, classic rock, british" role="button">
+<li data-cover="https://img.discogs.com/i4qXgjCbYrZGoOGu1JZRYOsDbD8=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5793138-1402857388-9006.jpeg.jpg" data-tags="70s, classic rock, british" role="button">
 Ringo Starr - Blast From Your Past (1975-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0eda3a2-3235-4ecc-a189-d4dc44c2cfc9/11655348477-500.jpg" data-tags="70s" role="button">
@@ -150,7 +150,7 @@ Electric Light Orchestra - Secret Messages (1983)
 <li data-cover="http://coverartarchive.org/release/9554aba4-85fd-42eb-a4df-fe9ebc71ebfb/4682090790-500.jpg" data-tags="beatles, the beatles" role="button">
 Julian Lennon - Valotte (1984)
 </li>
-<li data-cover="https://img.discogs.com/MlGFxzCWIQ4eRb6QgtaWB0Sg0f4=/fit-in/424x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3469271-1615613980-4514.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/Dybm2H_8T7CXXKcAelUV5DB349k=/fit-in/560x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2650735-1294975236.jpeg.jpg" data-tags="80s" role="button">
 Paul McCartney - Give My Regards to Broad Street (1984-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/61ed3368-fcaa-4129-b69c-1a959630e151/14901381846-500.jpg" data-tags="classic rock, rock, 60s, beatles, stonedbeat, english group" role="button">
@@ -167,9 +167,6 @@ George Harrison - Cloud Nine (1987-11-02)
 </li>
 <li data-cover="https://img.discogs.com/DL09XKEp9Y3PVmBIU2BRHAK7_9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319505-1469456602-9863.jpeg.jpg" data-tags="classic rock, british, singer-songwriter, beatles" role="button">
 John Lennon - Imagine / Jealous Guy (1988-01-28)
-</li>
-<li data-cover="https://img.discogs.com/W9wpjToC0gk30SOxP8FbWynK58k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380494-1279159330.jpeg.jpg" data-tags="60s, the monkees" role="button">
-The Monkees - The Monkees (1989)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s" role="button">
 The Beatles - A Hard Day's Night (1990)
@@ -195,7 +192,7 @@ Tower of Power - Souled Out (1995)
 <li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
 Ben Harper - Fight For Your Mind (1995-07)
 </li>
-<li data-cover="https://img.discogs.com/VKCZykb452xcrkLXPwONmKrZOAw=/fit-in/600x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6883654-1428800908-9363.jpeg.jpg" data-tags="the beatles" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
 The Beatles - Free as a Bird (1995-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/93920277-bb3f-4944-a33a-b4a48ee3f7e6/12052993672-500.jpg" data-tags="classic rock, 60s, beatles" role="button">
@@ -219,7 +216,7 @@ The Beatles - Anthology 2 (1996-03-18)
 <li data-cover="http://coverartarchive.org/release/50893966-1a48-3500-8d35-d96d1109a39f/11784595282-500.jpg" data-tags="classic rock, british" role="button">
 The Beatles - Anthology 3 (1996-10-28)
 </li>
-<li data-cover="https://img.discogs.com/hdKt9ZCBDCF5BRKJMSbIbiS8r8Q=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4025239-1564000724-3488.jpeg.jpg" data-tags="90s, rock" role="button">
+<li data-cover="https://img.discogs.com/c983fXG8XdU7qu1Egj9r2FRoSbM=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4404676-1445205894-8405.jpeg.jpg" data-tags="90s, rock" role="button">
 Paul McCartney - Flaming Pie (1997-04-01)
 </li>
 <li data-cover="https://img.discogs.com/ZawN8Q4tJFXsSe3NkYCvNJcKhhQ=/fit-in/600x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-116762-1406015842-7353.jpeg.jpg" data-tags="soul, acid jazz, female vocalist, beatles, carleen, wie alles begann, hi dear, i am a united state army officer, i enjoy meeting new people and their way of life, i read your profile here and pick interest on you, it is my pleasure meeting you, am supportive and caring, from united state of america, honest and caring person with a good sense of humor, looking forward to get a nice friend, what i need is just your love" role="button">
@@ -281,6 +278,9 @@ Deep Purple - Smoke on the Water (2006-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6aca0918-bcf8-448c-abb8-b6bbbf15b3fd/20477961208-500.jpg" data-tags="hard rock" role="button">
 Deep Purple - Live In Stuttgart 1993 (2007-01-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/63a74f00-5b44-4725-9330-ad5d6ae0f2c4/24223474998-500.jpg" data-tags="pop, british, beatles" role="button">
+The Red Button - She's About To Cross My Mind (2007-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/38ee49f1-5b8e-45d4-87f7-051ea96dccba/6972899440-500.jpg" data-tags="rock" role="button">
 Traveling Wilburys - The Traveling Wilburys Collection (2007-05-01)

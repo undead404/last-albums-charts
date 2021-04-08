@@ -1,8 +1,8 @@
 ---
-date: 2021-04-07T04:52:01.385Z
+date: 2021-04-08T07:17:02.510Z
 title: "edm: 100 albums you must listen to before you die"
 ---
-![Tiësto - A Town Called Paradise (2014-06-13)](http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg "Tiësto - A Town Called Paradise (2014-06-13)")
+![Calvin Harris - Motion (2014-10-31)](http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg "Calvin Harris - Motion (2014-10-31)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/2fca1b4d-f307-48fc-a449-550e663c9da0/18420618474-500.jpg" data-tags="electronic, heavy, dubstep, edm, massive, banger, breakthrough, filthy, flux, flux pavilion, stinker" role="button">Flux Pavilion - Bass Cannon (2011-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/4f7c2d8a-2fdb-498c-9470-f3f0a4d38d43/2411561207-500.jpg" data-tags="electronic, house, electro house, 10s, edm, complextro, sun and moon and stars and outer space" role="button">Feed Me - To The Stars (2011-05-27)</li>
@@ -54,10 +54,10 @@ Bring Me the Horizon - Suicide Season: Cut Up! (2008-09-29)
 <li data-cover="http://coverartarchive.org/release/832a78ea-5be2-36b3-bcb7-107b77dfe674/23298175097-500.jpg" data-tags="electropop" role="button">
 La Roux - In for the Kill (2009-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/a20808fe-3d15-4334-91f2-e161cd6ed433/2121931642-500.jpg" data-tags="hip-hop, electronic, alternative, usa, electro, solo, psychedelic, american, acid, breaks, breakcore, jamendo, one-man band, 00s, chicago, alternative dance, big beat, netlabel, cc, creative commons, free music, illinois, edm, america, united states, one man band, weblabel, netaudio, netlabels, one-man-band, net labels, psychedelic electronica, net labels music, free album, solo project, solo album, webaudio, electronic dance music, one man project, usa underground, one-man-project, netlabels music, weblabels, one  man band, web labels" role="button">
+<li data-cover="http://coverartarchive.org/release/a20808fe-3d15-4334-91f2-e161cd6ed433/2121931642-500.jpg" data-tags="hip-hop, electronic, alternative, usa, electro, solo, psychedelic, american, acid, breaks, breakcore, jamendo, one-man band, 00s, chicago, alternative dance, big beat, netlabel, creative commons, free music, illinois, edm, america, united states, one man band, weblabel, netaudio, netlabels, one-man-band, net labels, psychedelic electronica, net labels music, free album, solo project, solo album, webaudio, electronic dance music, one man project, usa underground, one-man-project, netlabels music, weblabels, one  man band, web labels" role="button">
 Professor Kliq - Community Service (2009-08-04)
 </li>
-<li data-cover="https://img.discogs.com/KH3dpoL1RUh-tNWyQ2HuR1fqeeE=/fit-in/593x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3906575-1348791693-5871.jpeg.jpg" data-tags="chillout, electronic, electronica, downtempo, dance, techno, house, tech house, minimal, minimal techno, groove, progressive house, deep house, dj, tech-house, funky house, edm, nu-disco, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
+<li data-cover="https://img.discogs.com/KH3dpoL1RUh-tNWyQ2HuR1fqeeE=/fit-in/593x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3906575-1348791693-5871.jpeg.jpg" data-tags="chillout, electronic, electronica, downtempo, dance, techno, house, tech house, minimal, minimal techno, groove, progressive house, deep house, tech-house, funky house, edm, nu-disco, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
 Juju & Jordash - Techno Primitivism (2009-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c795ba6-7326-4540-978b-c9bd835501bf/6522774075-500.jpg" data-tags="k-pop" role="button">
@@ -75,7 +75,7 @@ smn and C418 - a cobblers tee thug (2010-01-05)
 <li data-cover="http://coverartarchive.org/release/e2f43505-3377-46b7-a9dd-a44fa4610a2f/2473984985-500.jpg" data-tags="renard" role="button">
 Renard - Post-Traumatic Stress Disorder (2010-01-23)
 </li>
-<li data-cover="https://img.discogs.com/32XYp9w9jCMi5dhe6JxnzjQ2rBk=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4199194-1358329273-6378.jpeg.jpg" data-tags="hip-hop, electronic, electronica, trip-hop, electropop, pop, downtempo, electro, dance, techno, house, electro house, idm, groove, club, breakbeat, nu-jazz, electro disco, progressive house, deep house, dj, tech-house, soulful house, electro funk, electropunk, electro hip-hop, dance punk, funky breaks, funky house, edm, nu-disco, jazzy beats, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge, techno groove" role="button">
+<li data-cover="https://img.discogs.com/32XYp9w9jCMi5dhe6JxnzjQ2rBk=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4199194-1358329273-6378.jpeg.jpg" data-tags="hip-hop, electronic, electronica, trip-hop, electropop, pop, downtempo, electro, dance, techno, house, electro house, idm, groove, club, breakbeat, nu-jazz, electro disco, progressive house, deep house, tech-house, soulful house, electro funk, electropunk, electro hip-hop, dance punk, funky breaks, funky house, edm, nu-disco, jazzy beats, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge, techno groove" role="button">
 Butch - No Worries / Tease Me (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/eed0c7d9-1092-4b71-b4a6-0a8e92a1bb7d/13298150779-500.jpg" data-tags="electro, techno" role="button">
@@ -129,7 +129,7 @@ T-ARA - Funky Town (2011-11-01)
 <li data-cover="http://coverartarchive.org/release/f062e5a5-7c5d-4fd1-8e52-997861671a79/22886182451-500.jpg" data-tags="house" role="button">
 OVERWERK - The Nth º (2011-11-30)
 </li>
-<li data-cover="https://img.discogs.com/4wmJTkiDpKDWraUQYtjHH8ie9Fo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3371067-1327756663.jpeg.jpg" data-tags="chillout, electronic, electronica, downtempo, dance, techno, house, idm, groove, club, progressive house, deep house, dj, soulful house, funky house, edm, nu-disco, nu-bluz, electronic-lounge, deep tech-house, nu-bluz funky grooves in the e-lounge" role="button">
+<li data-cover="https://img.discogs.com/4wmJTkiDpKDWraUQYtjHH8ie9Fo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3371067-1327756663.jpeg.jpg" data-tags="chillout, electronic, electronica, downtempo, dance, techno, house, idm, groove, club, progressive house, deep house, soulful house, funky house, edm, nu-disco, nu-bluz, electronic-lounge, deep tech-house, nu-bluz funky grooves in the e-lounge" role="button">
 Laura Jones - Love In Me Remixes (2011-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/697082bd-a67e-453a-a63c-6696b06ac98d/2985165419-500.jpg" data-tags="house" role="button">
@@ -174,7 +174,7 @@ The Cataracs - Gordo Taqueria (2012-07-17)
 <li data-cover="http://coverartarchive.org/release/d6130ab3-ab8a-4660-a8e0-724f4fbf6c5c/2066292202-500.jpg" data-tags="dance" role="button">
 Havana Brown - When the Lights Go Out (2012-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/1cb2effd-e7be-49f3-b727-3a6c0134569e/13391572803-500.jpg" data-tags="nu jazz, chillout, electronic, electronica, trip-hop, electropop, downtempo, dance, techno, house, electro house, groove, club, deep house, dj, tech-house, disco house, deep techno, edm, nu-disco, nu disco, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
+<li data-cover="http://coverartarchive.org/release/1cb2effd-e7be-49f3-b727-3a6c0134569e/13391572803-500.jpg" data-tags="nu jazz, chillout, electronic, electronica, trip-hop, electropop, downtempo, dance, techno, house, electro house, groove, club, deep house, tech-house, disco house, deep techno, edm, nu-disco, nu disco, nu-bluz, electronic-lounge, nu-bluz funky grooves in the e-lounge" role="button">
 Monkey Safari - Hi Life (2012-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
@@ -203,6 +203,9 @@ m-flo - NEVEN (2013-03-13)
 </li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/afc4041e-d581-474e-afde-9b73d6b8f194/5188291447-500.jpg" data-tags="trap, edm, dmndz" role="button">
+DMNDZ - FREVK (2013-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/76b4b2fa-b9a8-42e8-8d8d-1a106787a180/3840424208-500.jpg" data-tags="electronic" role="button">
 Major Lazer - Free The Universe (2013-04-10)
@@ -299,9 +302,6 @@ Ariana Grande - My Everything (2014-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc4a7e64-fdb0-47e9-818b-cef7aadbc6a4/8259246101-500.jpg" data-tags="electronic, edm, big room, bigroom" role="button">
 Scooter - The Fifth Chapter (2014-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0b0fc60-4194-4204-b1e8-dd0550c26642/8787816875-500.jpg" data-tags="electronic, pop" role="button">
-Kiesza - Sound of a Woman (2014-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bb53942-91a0-45ef-aa7c-834f5c47e6dd/8667458837-500.jpg" data-tags="electronic" role="button">
 Flight Facilities - Down To Earth (2014-10-24)
