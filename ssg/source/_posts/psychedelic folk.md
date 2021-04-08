@@ -1,12 +1,12 @@
 ---
-date: 2021-04-07T11:48:01.477Z
+date: 2021-04-08T05:59:01.394Z
 title: "psychedelic folk: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">David Bowie - Space Oddity (1969-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)</li>
-<li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, freak folk" role="button">Animal Collective - Sung Tongs (2004-05-03)</li>
+<li data-cover="https://img.discogs.com/tZ6rrEFVh8zmbq11R7a43XDPl4s=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1415398-1217778656.jpeg.jpg" data-tags="experimental, freak folk" role="button">Animal Collective - Sung Tongs (2004-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">Animal Collective - Feels (2005-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">Grizzly Bear - Yellow House (2006-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
@@ -66,7 +66,7 @@ Comus - First Utterance (1971)
 <li data-cover="http://coverartarchive.org/release/d9ad5347-9829-4fab-ace3-57eba05e7054/20462935528-500.jpg" data-tags="argentina, rock" role="button">
 Pescado Rabioso - Artaud (1973-10)
 </li>
-<li data-cover="https://img.discogs.com/TXDsgUtMWcZHCJCeyvRQfBJcKH4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1478480-1594740551-6940.jpeg.jpg" data-tags="70s" role="button">
+<li data-cover="https://img.discogs.com/Sf_Z0zjD2K1A4FDIphXDYeQwmaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378818-1342734604-4164.jpeg.jpg" data-tags="70s" role="button">
 Grateful Dead - From the Mars Hotel (1974-06-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
@@ -123,7 +123,7 @@ Alela Diane - The Pirate's Gospel (2004)
 <li data-cover="http://coverartarchive.org/release/a219256a-33ff-4b98-b55d-9f222488c7b1/19945859678-500.jpg" data-tags="folk, psychedelic folk" role="button">
 Espers - Espers (2004-01-20)
 </li>
-<li data-cover="https://img.discogs.com/nd_3QOSLJIqgx1CkqptPcKm5oJ8=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148598-1341521753-5492.jpeg.jpg" data-tags="experimental, freak folk" role="button">
+<li data-cover="https://img.discogs.com/tZ6rrEFVh8zmbq11R7a43XDPl4s=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1415398-1217778656.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/56bc5f48-6084-3557-a0a1-e8651937b1e2/2044417974-500.jpg" data-tags="folk" role="button">
@@ -138,8 +138,8 @@ Devendra Banhart - Nino Rojo (2004-09-13)
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="folk" role="button">
-Feathers - Feathers (2005)
+<li data-cover="https://img.discogs.com/WkoXThSBS1kO0x2aoxmPcZSy31E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270364-1273529219.jpeg.jpg" data-tags="folk, psychedelic folk, jonasmusik" role="button">
+Diane Cluck - Countless Times (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/42afd162-b4c6-49ed-ab32-dadbfc293a3d/12915497561-500.jpg" data-tags="new weird finland" role="button">
 Islaja - Palaa aurinkoon (2005-01-20)
@@ -147,7 +147,7 @@ Islaja - Palaa aurinkoon (2005-01-20)
 <li data-cover="http://coverartarchive.org/release/d6d5ba16-50eb-4b3d-94b8-ca9926ccb9d5/26159823167-500.jpg" data-tags="folk, psychedelic" role="button">
 Six Organs of Admittance - School of the Flower (2005-01-24)
 </li>
-<li data-cover="https://img.discogs.com/CUFPWdZxwK1zMX_d_GnG2qo453w=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893659-1170075469.jpeg.jpg" data-tags="freak folk" role="button">
+<li data-cover="https://img.discogs.com/jpNjxTmXJTovLbnTMktmpFEP_EE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6891879-1428891141-7982.jpeg.jpg" data-tags="freak folk" role="button">
 Animal Collective - Prospect Hummer (2005-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/85ff02e2-9195-4844-922e-2cf09005f29a/25130812135-500.jpg" data-tags="experimental" role="button">
@@ -186,7 +186,7 @@ Animal Collective - People (2006-11-13)
 <li data-cover="http://coverartarchive.org/release/ee1226f9-74a1-42c6-bf22-26be859de1fc/6043097976-500.jpg" data-tags="neofolk, dark folk" role="button">
 Kiss the Anus of a Black Cat - An Interlude to the Outermost (2007-02-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, indie pop, indie electronic, psychedelic, folktronica, psychedelic folk, avant pop, flawless, alternative pop/rock, fall 2008, epic album covers, alternative-indie rock, 30 minutes of awesome, favorite albums of 2008, likedjan09" role="button">
+<li data-cover="https://img.discogs.com/KURv0g3VuQ4jcOr_mJE6bcgaByA=/fit-in/525x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1471882-1222226082.jpeg.jpg" data-tags="experimental, indie pop, indie electronic, psychedelic, folktronica, psychedelic folk, avant pop, flawless, alternative pop/rock, fall 2008, epic album covers, alternative-indie rock, 30 minutes of awesome, favorite albums of 2008, likedjan09" role="button">
 High Places - High Places (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
@@ -195,7 +195,7 @@ The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
 <li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
 Dungen - Tio Bitar (2007-04-23)
 </li>
-<li data-cover="https://img.discogs.com/rWnuvycgLN0oh-WhNzzp7kRj0K4=/fit-in/470x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1471234-1222192285.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
+<li data-cover="https://img.discogs.com/gvJQSZeQIhDkf8unKufwRc_Rrpo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1124428-1489756753-2443.jpeg.jpg" data-tags="singer-songwriter, indie" role="button">
 Devendra Banhart - Smokey Rolls Down Thunder Canyon (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/55318661-9673-4bab-91cf-421c84b8701f/8635805656-500.jpg" data-tags="indie, rock, indie rock" role="button">
