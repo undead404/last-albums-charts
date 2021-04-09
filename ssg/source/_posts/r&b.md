@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T07:17:51.818Z
+date: 2021-04-09T20:20:01.453Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -9,10 +9,10 @@ title: "r&b: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">Rihanna - Rated R (2009-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">The Weeknd - House of Balloons (2011-03-21)</li>
-<li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">Flo Rida - Wild Ones (2012-06-22)</li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">Frank Ocean - channel ORANGE (2012-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/62ea06a1-8517-4e85-b66f-c2eee37e5b68/6456250497-500.jpg" data-tags="r&b" role="button">The Weeknd - Trilogy (2012-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">Bruno Mars - Unorthodox Jukebox (2012-12-07)</li>
+<li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">The Weeknd - Kiss Land (2013-09-09)</li>
 <li data-cover="http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg" data-tags="soul, indie rock, blues" role="button">Hozier - Hozier (2014-06-10)</li>
 </ol>
 List of 100 - under the cut.
@@ -30,11 +30,14 @@ Little Feat - Dixie Chicken (1973-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, funk, 70s, disco" role="button">
 Earth, Wind & Fire - I Am (1979-07-16)
 </li>
-<li data-cover="https://img.discogs.com/YPLQD-CynAe73GqKTL0PzjUsc2A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4562732-1468908853-1729.jpeg.jpg" data-tags="80s, r&b" role="button">
-Luther Vandross - Never Too Much (1981)
-</li>
 <li data-cover="https://img.discogs.com/7zuSQ9RF-UsNVO54eTfTabWpEnw=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843108-1436420228-2593.jpeg.jpg" data-tags="new jack swing, r&b" role="button">
 Boyz II Men - Cooleyhighharmony (1991-04-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/aec86745-1482-42dc-b2e0-118caa53504b/1872074680-500.jpg" data-tags="pop, soul" role="button">
+Mariah Carey - Emotions (1991-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/e34dc48b-973f-4690-8062-c5d31c3980a0/17928794966-500.jpg" data-tags="new jack swing, soul" role="button">
+En Vogue - Funky Divas (1992-09-01)
 </li>
 <li data-cover="https://img.discogs.com/v6b6A8lVVCgDYmCOxydvMY-KtNk=/fit-in/200x202/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347495-1100245590.jpg.jpg" data-tags="soul, new jack swing, pop" role="button">
 SWV - It's About Time (1992-10-27)
@@ -62,6 +65,9 @@ Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9de19dd-bf35-4ef6-bbcd-fd9240693658/5669916745-500.jpg" data-tags="rnb" role="button">
 Destiny's Child - The Writing's on the Wall (1999-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/f7433ff5-35e6-48c2-8503-c2d046540d5d/21406735668-500.jpg" data-tags="soul" role="button">
+Macy Gray - On How Life Is (1999-07-27)
 </li>
 <li data-cover="https://img.discogs.com/dhS_hnhT-yKwDxhp4UTkL_ax8Xo=/fit-in/600x964/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4328389-1569682838-8123.jpeg.jpg" data-tags="rnb, pop" role="button">
 Mariah Carey - Rainbow (1999-10-27)
@@ -108,6 +114,9 @@ Cassie - Cassie (2006-08-08)
 <li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
 Beyoncé - B'Day (2006-08-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/a6e9c1e1-8e21-42fc-ac73-29d09ed92b38/25730817367-500.jpg" data-tags="rnb" role="button">
+Fantasia - Fantasia (2006-12-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/d42e3f7b-f486-4d2b-ba27-fcc5a2cf5e92/22111632107-500.jpg" data-tags="omarion" role="button">
 Omarion - 21 (2006-12-26)
 </li>
@@ -135,14 +144,20 @@ Mariah Carey - E=MC² (2008-01-01)
 <li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
 </li>
-<li data-cover="https://img.discogs.com/rd6R_UoVuFq1fxeQaYc9gIYpXMQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1511336-1225102309.jpeg.jpg" data-tags="jennifer hudson, soul" role="button">
-Jennifer Hudson - Jennifer Hudson (2008-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/41766637-4e52-4831-be2d-8361c745963f/15054862419-500.jpg" data-tags="reggae, rnb" role="button">
+Shontelle - Shontelligence (2008-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
+Akon - Freedom (2008-11-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)
+</li>
+<li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
+Ciara - Fantasy Ride (2009-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d852f54a-eda3-4607-807d-545e697bc879/10008805165-500.jpg" data-tags="pop, rnb, battlefield" role="button">
 Jordin Sparks - Battlefield (2009-05-08)
@@ -180,12 +195,6 @@ Jeremih - All About You (2010-09-28)
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/4467860a-0faf-477a-ad90-897fe7944615/8250459831-500.jpg" data-tags="hip hop, electronica" role="button">
-Far East Movement - Free Wired (2010-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/6705fd6c-6427-3f3f-ad9b-1e6702b8dc21/1072439695-500.jpg" data-tags="dance-pop, acid jazz, r&b, funk" role="button">
-Jamiroquai - Rock Dust Light Star (2010-10-29)
-</li>
 <li data-cover="https://img.discogs.com/vcMTA-tZUSQQWzVbAY4djKbccmM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4955170-1380575388-8092.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Natasha Bedingfield - Strip Me (2010-12-07)
 </li>
@@ -197,9 +206,6 @@ The Weeknd - House of Balloons (2011-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fe337a7-2e91-4475-be84-af9cf8ad2e3c/4805128775-500.jpg" data-tags="r&b" role="button">
 Frank Ocean - nostalgia, ULTRA (2011-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/9bcc6dd4-3edd-45ba-a7ab-08f67191036f/16645104299-500.jpg" data-tags="sade, soul, romantic" role="button">
-Sade - The Ultimate Collection (2011-05-09)
 </li>
 <li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
@@ -216,6 +222,9 @@ Rihanna - Talk That Talk (2011-11-18)
 <li data-cover="http://coverartarchive.org/release/2e9e61c6-cb68-48f1-a721-7e12264b1511/4893076762-500.jpg" data-tags="soul, r&b, rnb" role="button">
 The Weeknd - Echoes of Silence (2011-12-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d88ae0c-c4bf-4e64-bc97-45789880d910/4171528998-500.jpg" data-tags="pop, justin bieber" role="button">
+Justin Bieber - Believe (2012-01-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/60be6325-85c2-4523-bd0d-5f6b5d05098b/1369426454-500.jpg" data-tags="hip hop, pop, reggae, r&b, sean paul" role="button">
 Sean Paul - Tomahawk Technique (2012-01-27)
 </li>
@@ -227,9 +236,6 @@ Frank Ocean - Thinkin Bout You (2012-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ea96fc9-e4ae-425d-92f1-3ebeaad37a89/2752789232-500.jpg" data-tags="pop, soul, british, soft rock, r&b, rca victor, 2012 albums" role="button">
 Paloma Faith - Fall to Grace (2012-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">
-Flo Rida - Wild Ones (2012-06-22)
 </li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">
 Frank Ocean - channel ORANGE (2012-07-10)
@@ -291,11 +297,8 @@ Justin Bieber - Journals (2013-12-23)
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
 </li>
-<li data-cover="https://img.discogs.com/verNsfVLO1iLaOKzgRyZuonOsT8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5421952-1392946139-1521.jpeg.jpg" data-tags="soul, r&b, 4ad, alternative pop, lovely, electro-pop, refreshing, gem" role="button">
+<li data-cover="https://img.discogs.com/verNsfVLO1iLaOKzgRyZuonOsT8=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5421952-1392946139-1521.jpeg.jpg" data-tags="soul, r&b, 4ad, alternative pop, electro-pop, refreshing, gem" role="button">
 Lo-Fang - Blue Film (2014-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a07b3417-e5e6-405d-80c7-d672367e3807/6937873774-500.jpg" data-tags="experimental, downtempo, alternative rnb" role="button">
-SZA - Z (2014-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e005fa83-f67d-475d-bc17-8a147de390de/25244312194-500.jpg" data-tags="pop, soul" role="button">
 Sam Smith - In the Lonely Hour (2014-05-23)
@@ -305,9 +308,6 @@ Hozier - Hozier (2014-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/45918d2f-c617-40d8-a0ec-de753d045ea5/8683131068-500.jpg" data-tags="hip-hop, r&b, the weeknd" role="button">
 The Weeknd - Often (2014-07-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/a50f9ba3-5891-4f22-b5da-edf84cc04b0c/7598730014-500.jpg" data-tags="electronic, alternative rnb" role="button">
-FKA twigs - LP1 (2014-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/92402a00-7be5-4c40-ac27-cf91622e2e5a/8509740795-500.jpg" data-tags="pop" role="button">
 Ariana Grande - My Everything (2014-08-22)

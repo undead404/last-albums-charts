@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T17:36:01.458Z
+date: 2021-04-09T20:23:01.416Z
 title: "rock n roll: 100 albums you must listen to before you die"
 ---
 ![Elvis Presley - Elvis&#39; Golden Records (1958-03-21)](http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg "Elvis Presley - Elvis' Golden Records (1958-03-21)")
@@ -8,12 +8,12 @@ title: "rock n roll: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/dODqkQEQC6xTAQi4vr4gdvGQm6k=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797849-1160845445.jpeg.jpg" data-tags="rock n roll" role="button">Bill Haley & His Comets - Rock Around The Clock (1956-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">Elvis Presley - Elvis' Golden Records (1958-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">Del Shannon - Little Town Flirt (1963)</li>
-<li data-cover="https://img.discogs.com/PqkYqwoCqBOgHEY65EXLI6STNcE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1526061-1551123065-4102.jpeg.jpg" data-tags="80s" role="button">The J. Geils Band - Freeze Frame (1981-10-26)</li>
-<li data-cover="https://img.discogs.com/diBFTozZc_XMIj_DaE1xto6-6rY=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-693375-1313780934.jpeg.jpg" data-tags="surf, rock n roll" role="button">The Beach Boys - Greatest Hits (1996)</li>
+<li data-cover="https://img.discogs.com/LNIJeVHZOTdUuJ2X_N5C0mZYFWE=/fit-in/549x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5333220-1390773150-7639.jpeg.jpg" data-tags="80s" role="button">The J. Geils Band - Freeze Frame (1981-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/b79a134e-5a94-4b14-9abc-fbe0a22b39a6/25479635311-500.jpg" data-tags="oldies, 50s, buddy holly, rock n roll" role="button">Buddy Holly - Greatest Hits (1996-09-24)</li>
 <li data-cover="http://coverartarchive.org/release/de21d173-ee38-4161-8717-8cd64fb12382/12501120405-500.jpg" data-tags="heavy metal, hard rock" role="button">Motörhead - Motörhead (2000-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">The Sounds - Dying to Say This to You (2006-03-21)</li>
 <li data-cover="https://img.discogs.com/9vR92UVNv5yr5tRfOQnqwnJJAoM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1201224-1539899298-7399.jpeg.jpg" data-tags="rock" role="button">Juliette and the Licks - Four On The Floor (2006-10-02)</li>
+<li data-cover="http://coverartarchive.org/release/1ee17f89-66f8-3ce2-8b11-68e088f988bd/6791775045-500.jpg" data-tags="rock" role="button">The Baseballs - Strike! (2009-05-15)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -36,14 +36,8 @@ Elvis Presley - Elvis' Christmas Album (1957-10-15)
 <li data-cover="http://coverartarchive.org/release/600f025a-bca9-4645-92ea-d15c89044f57/7983311687-500.jpg" data-tags="rock n roll, rock" role="button">
 Elvis Presley - Elvis' Golden Records (1958-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/aebd223a-dacd-41af-b521-b6d5970eb2a4/28529346799-500.jpg" data-tags="oldies, 50s" role="button">
-Bobby Darin - That's All (1959-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/1bcd4bc9-16cc-499e-bf06-8760708b93b0/16047631320-500.jpg" data-tags="rock and roll" role="button">
 Chuck Berry - Chuck Berry Is On Top (1959-07)
-</li>
-<li data-cover="https://img.discogs.com/gDTY4q5B0Blx-OR3NMn0D_XZLuI=/fit-in/480x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3147932-1317985819.jpeg.jpg" data-tags="elvis presley, rock n roll" role="button">
-Elvis Presley - Elvis Is Back! (1960-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">
 Del Shannon - Little Town Flirt (1963)
@@ -54,8 +48,11 @@ Chuck Berry - St. Louis to Liverpool (1964)
 <li data-cover="http://coverartarchive.org/release/1697c288-fc02-4f69-adc0-a620ed877124/21286054887-500.jpg" data-tags="classic rock, rock n roll" role="button">
 Elvis Presley - Viva Las Vegas (1964-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/740f215a-34aa-4d20-9eec-b92e1cfca5d4/22317633580-500.jpg" data-tags="60s" role="button">
-Buddy Holly - The Best Of Buddy Holly (1966)
+<li data-cover="http://coverartarchive.org/release/cf5aaf72-a9ca-4d81-b622-888ee228aa11/1503464212-500.jpg" data-tags="rock, 60s" role="button">
+The Rolling Stones - The Rolling Stones (1969)
+</li>
+<li data-cover="http://coverartarchive.org/release/23b89c7e-e26e-3cfa-ab49-76fb5a63c17f/20896396142-500.jpg" data-tags="oldies" role="button">
+Roy Orbison - The All-Time Greatest Hits of Roy Orbison (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/e28b9cba-289e-47a8-a8c0-8bf5c0c93f19/3987340872-500.jpg" data-tags="hard rock, classic rock" role="button">
 Alice Cooper - School's Out (1972-06)
@@ -81,44 +78,44 @@ REO Speedwagon - You Can Tune A Piano, But You Can't Tuna Fish (1978)
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
 Motörhead - On Parole (1979-12-08)
 </li>
-<li data-cover="https://img.discogs.com/srxsCKSE5Rrks1VZKsZtPBWn1wk=/fit-in/600x717/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2931618-1504401651-6870.jpeg.jpg" data-tags="rock, 80s, experimental" role="button">
-Paul McCartney - McCartney II (1980-05-16)
-</li>
-<li data-cover="https://img.discogs.com/PqkYqwoCqBOgHEY65EXLI6STNcE=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1526061-1551123065-4102.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/LNIJeVHZOTdUuJ2X_N5C0mZYFWE=/fit-in/549x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5333220-1390773150-7639.jpeg.jpg" data-tags="80s" role="button">
 The J. Geils Band - Freeze Frame (1981-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/68f9ce3e-0cdd-4f2d-897f-d8208eee1fc2/8130414856-500.jpg" data-tags="rock and roll" role="button">
 Chuck Berry - The Great Twenty-Eight (1982)
 </li>
-<li data-cover="https://img.discogs.com/eXxvm_QXj3smKMFNGJWFRz-N3oU=/fit-in/590x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818802-1334033539.jpeg.jpg" data-tags="classic rock, progressive rock, rock, symphonic rock" role="button">
-Electric Light Orchestra - Secret Messages (1983)
-</li>
-<li data-cover="https://img.discogs.com/_p3QUw0m77DTQhUWU4dedNgXc2k=/fit-in/551x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4900916-1378902915-8466.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/Avm1x5sUs88zj8mRg-mpIh8RXEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522576-1601943632-3332.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
+</li>
+<li data-cover="https://img.discogs.com/-JqJFc6BmjCh6LhH6XPrUCF8F6Y=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076764-1454931862-1067.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
+Hanoi Rocks - Two Steps From the Move (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/abdfb480-f68e-4857-bc39-9d76aad4eaff/26871575044-500.jpg" data-tags="rock n roll" role="button">
 Curtis Lee - Pretty Little Angel Eyes (1986)
 </li>
-<li data-cover="http://coverartarchive.org/release/677b08b3-93ba-43c1-aa67-390c1647fa04/8018278557-500.jpg" data-tags="60s, energetic, summer, literate, oldies, cheerful, irreverent, organic, confident, freewheeling, raucous, fun, 50s, rock n roll, road trip, playful, reunion, chuck, rollicking, celebratory, witty, joyous, humorous, rowdy, swaggering, tgif, boisterous, rambunctious, bravado, icmusick, rockaroundthebunker" role="button">
+<li data-cover="http://coverartarchive.org/release/677b08b3-93ba-43c1-aa67-390c1647fa04/8018278557-500.jpg" data-tags="60s, energetic, summer, literate, oldies, cheerful, irreverent, organic, confident, freewheeling, raucous, 50s, rock n roll, road trip, playful, reunion, chuck, rollicking, celebratory, witty, joyous, humorous, rowdy, swaggering, tgif, boisterous, rambunctious, bravado, icmusick, rockaroundthebunker" role="button">
 Chuck Berry - Rock 'N' Roll Rarities (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/2013c74e-4858-4d12-9a22-3e11c5c8b255/8007039308-500.jpg" data-tags="compilation, proto-punk, the velvet underground" role="button">
 The Velvet Underground - Another View (1986-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a718175a-d386-45b1-98fd-93ebd9c19f94/5802094500-500.jpg" data-tags="80s, rock n roll, 1980s, albums in my vinyl collection" role="button">
-Joan Jett and the Blackhearts - Good Music (1986-12-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/6589a6b9-a9f8-407b-bf9e-e3aac7662450/2587676899-500.jpg" data-tags="oldies, elvis, rock n roll, elvis presley" role="button">
 Elvis Presley - The All Time Greatest Hits (1987)
 </li>
-<li data-cover="https://img.discogs.com/Q0BXYw0diKl0rhSbQ6WYZ-T3vHM=/fit-in/394x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3804484-1345074899-1043.jpeg.jpg" data-tags="classic rock" role="button">
+<li data-cover="https://img.discogs.com/1OkGnqX46pz8jza_f83gdSTJHtE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13127015-1548527652-6910.jpeg.jpg" data-tags="classic rock" role="button">
 Heart - Bad Animals (1987-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fc944af-cbd7-4fe7-a85a-9f9743a3b5c0/27099866666-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Rock 'n' Roll (1987-09-05)
 </li>
+<li data-cover="https://img.discogs.com/6tvPTriSNW55SbOoZwd6vrrtuYA=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6675762-1425129623-7371.jpeg.jpg" data-tags="rock and roll" role="button">
+Ritchie Valens - La Bamba (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/06bebfb0-a1c0-4ce2-bf07-c51912d8cadc/9120686874-500.jpg" data-tags="rock, roy orbison" role="button">
 Roy Orbison - Mystery Girl (1988)
+</li>
+<li data-cover="http://coverartarchive.org/release/d106214e-94ce-4765-819c-2294f3f39f24/15016593060-500.jpg" data-tags="power pop" role="button">
+Cheap Trick - Lap of Luxury (1988-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ac01278-4769-422f-8a0c-57c9c7c1159f/5802112191-500.jpg" data-tags="rock" role="button">
 Joan Jett and the Blackhearts - Up Your Alley (1988-05-23)
@@ -171,8 +168,8 @@ Buddy Holly - Greatest Hits (1996-09-24)
 <li data-cover="http://coverartarchive.org/release/d44ae919-ecca-4587-b460-97c2f1c9042d/10187158587-500.jpg" data-tags="rock, rock n roll, turkish rock, debut, benimmm, s ferah" role="button">
 Şebnem Ferah - Kadın (1996-11-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5ff89d9-de0d-4743-b5df-691779bea19e/19888103027-500.jpg" data-tags="90s, dream pop" role="button">
-The Sundays - Static & Silence (1997-09-22)
+<li data-cover="https://img.discogs.com/8_zs1rwhyuZmunrNHaMa5Ex_fLY=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3551863-1334978409.jpeg.jpg" data-tags="easy listening" role="button">
+Bic Runga - Drive (1997-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/da2b642f-e1e9-3fb1-8d31-e067204b2351/15341628025-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Snake Bite Love (1998-03-03)
@@ -252,6 +249,9 @@ Krypteria - In Medias Res (2005-07-25)
 <li data-cover="http://coverartarchive.org/release/14acfbcf-3a1b-4dad-bf31-fae0525aeed2/22195854394-500.jpg" data-tags="pop, alternative, alternative rock" role="button">
 Aly & AJ - Into the Rush (2005-08-16)
 </li>
+<li data-cover="https://img.discogs.com/F2eAWVrmp3MOy3Rq6l7CqmOVdhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2073478-1326175098.jpeg.jpg" data-tags="rock n roll, power metal" role="button">
+Twilight Guardians - Sintrade (2006-01-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/171b8f80-d9c7-3946-832d-381ee4e76e18/14994320946-500.jpg" data-tags="hard rock" role="button">
 Danko Jones - Sleep Is the Enemy (2006-02-17)
 </li>
@@ -272,9 +272,6 @@ Volbeat - Rock the Rebel/Metal the Devil (2007-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/69af4cf7-7f7a-4844-b90f-ddf7dad55f11/11099611837-500.jpg" data-tags="thrash metal" role="button">
 Megadeth - Warchest (2007-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
-Spiritualized - Songs In A&E (2008-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c8ef638-05f2-4ddc-bc29-9bfafd347c8e/6976086799-500.jpg" data-tags="oldies, rnb, 50's, rock n roll, little richard, rockin party" role="button">
 Little Richard - The Very Best of Little Richard (2008-07-29)
@@ -299,6 +296,9 @@ Jerry Lee Lewis - Mean Old Man (2009-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc54b301-80ca-442f-9d06-f9e1ddad0a67/27649916153-500.jpg" data-tags="progressive metal, rock n roll, symphonic metal, neoclassical metal, neo-classical metal, 2009 albums, neoclassic metal, neo-classic metal" role="button">
 Trans-Siberian Orchestra - Night Castle (2009-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d14bee4-6470-4009-b05b-6ae80f646048/5501714799-500.jpg" data-tags="rock, rock n roll, guzel, alo orman 177, orman haftasi, orman ferah, s ferah" role="button">
+Şebnem Ferah - Benim Adım Orman (2009-12-29)
 </li>
 <li data-cover="https://img.discogs.com/iBChasnJz7Yph41jWMq394G2ewo=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952837-1591705176-2117.jpeg.jpg" data-tags="compilation, rock n roll, greatest hits" role="button">
 Joan Jett and the Blackhearts - Greatest Hits (2010-03-09)

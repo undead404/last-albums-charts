@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T15:05:01.687Z
+date: 2021-04-09T19:50:01.412Z
 title: "symphonic rock: 100 albums you must listen to before you die"
 ---
 ![Muse - The Resistance (2009-09-10)](http://coverartarchive.org/release/6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd/6076676742-500.jpg "Muse - The Resistance (2009-09-10)")
@@ -27,14 +27,8 @@ Procol Harum - A Whiter Shade of Pale (1967)
 <li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
 The Moody Blues - Days of Future Passed (1967-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/67f624cd-5ba1-4e14-90be-ba1bcacb0174/7926741336-500.jpg" data-tags="progressive rock, classic rock, psychedelic rock" role="button">
-The Moody Blues - In Search Of The Lost Chord (1968-07-26)
-</li>
 <li data-cover="https://img.discogs.com/g2XPxP21E9zFxaWBcr-FYCt9ORg=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13734531-1560009108-6632.jpeg.jpg" data-tags="classic rock" role="button">
 Procol Harum - Shine On Brightly (1968-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce70bb34-c9ef-4282-b57f-8fe19f6e50f5/4091291175-500.jpg" data-tags="classic rock" role="button">
-The Moody Blues - A Question Of Balance (1970-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/29199a54-50dd-4b81-970a-57d26b5411a5/7023164125-500.jpg" data-tags="progressive rock" role="button">
 Yes - The Yes Album (1971-01-29)
@@ -105,7 +99,10 @@ Manfred Mann's Earth Band - Watch (1978)
 <li data-cover="http://coverartarchive.org/release/7a0a925f-3a31-3c12-adc6-0e006d216284/8860742582-500.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Pyramid (1978-05)
 </li>
-<li data-cover="https://img.discogs.com/m_3t7NvjbLNh25-S1kzGAjOLpU8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1827114-1608202951-5831.jpeg.jpg" data-tags="disco, pop, rock, 60s, 70s, progressive rock, usa, pop rock, symphonic rock, soft rock, moody, prog rock, lp, prog pop, most beautiful, palmer, i own this album, property, ponchera, an utter pile of trash, shitty album cover, too deep for you, tr: proper, st: cl, st: ok, fg: dmp3, id: dm002, aa: emerson lake and palmer, i have been trolled" role="button">
+<li data-cover="http://coverartarchive.org/release/02c72542-9c16-440c-b963-8c2e38d68626/25140813093-500.jpg" data-tags="classic rock, 70s, symphonic rock, tape, june, my vinyl, iveldie best of 1978, i own this album, decca records, tony clarke, english group, london recordings, the record plant,  los angeles, ninth album, 9 june, 9 june 1978, june 1978,  indigo ranch recording studios,  malibu" role="button">
+The Moody Blues - Octave (1978-06-09)
+</li>
+<li data-cover="https://img.discogs.com/sEMFbvTVfdvKtAR_wdZ0Hw4JqcY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5388622-1449341670-7250.jpeg.jpg" data-tags="disco, pop, rock, 60s, 70s, progressive rock, usa, pop rock, symphonic rock, soft rock, moody, prog rock, prog pop, most beautiful, palmer, i own this album, property, ponchera, an utter pile of trash, shitty album cover, too deep for you, tr: proper, st: cl, st: ok, fg: dmp3, id: dm002, aa: emerson lake and palmer, i have been trolled" role="button">
 Emerson, Lake & Palmer - Love Beach (1978-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7983dcb5-ab21-4294-a2fe-df7e7c2db606/22729549424-500.jpg" data-tags="rock, progressive rock, symphonic rock, art rock, symphonic prog" role="button">
@@ -123,7 +120,7 @@ Eloy - Colours (1980)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
-<li data-cover="https://img.discogs.com/Bn7FaV-Q-OW9aHSGqobO2Q8ZZ-8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-720249-1209019187.jpeg.jpg" data-tags="progressive rock" role="button">
+<li data-cover="https://img.discogs.com/OE8WYG-ZAtN7a4WcpSJ0TNsUTkw=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-573520-1249290997.jpeg.jpg" data-tags="progressive rock" role="button">
 Saga - Worlds Apart (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b2d1c75-5ba2-44e1-8b09-449d893e229a/9699513967-500.jpg" data-tags="80s, symphonic rock, electric light orchestra" role="button">
@@ -131,9 +128,6 @@ Electric Light Orchestra - Time (1981-08)
 </li>
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
-</li>
-<li data-cover="https://img.discogs.com/eXxvm_QXj3smKMFNGJWFRz-N3oU=/fit-in/590x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818802-1334033539.jpeg.jpg" data-tags="classic rock, progressive rock, rock, symphonic rock" role="button">
-Electric Light Orchestra - Secret Messages (1983)
 </li>
 <li data-cover="https://img.discogs.com/t7n64oGxKHcbIo0dStW5u2UGq_I=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3524526-1504272727-1153.jpeg.jpg" data-tags="progressive rock, rock, classic rock" role="button">
 The Alan Parsons Project - The Best Of The Alan Parsons Project (1983-09-21)
@@ -225,7 +219,7 @@ Arena - Pepper's Ghost (2005-01-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Circus Maximus - The 1st Chapter (2005-06-06)
 </li>
-<li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
+<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/36af9f6f-2329-4411-a56c-9eec592cba15/7799255166-500.jpg" data-tags="progressive rock" role="button">
@@ -233,6 +227,9 @@ The Alan Parsons Project - The Essential Alan Parsons Project (2006-10-09)
 </li>
 <li data-cover="https://img.discogs.com/yN1TDls6ZCOnqUGsiJ48a5Yfk2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393131-1523761238-6659.jpeg.jpg" data-tags="opera, female vocalist, classical symphony, sarah brightman" role="button">
 Sarah Brightman - Symphony (2007)
+</li>
+<li data-cover="https://img.discogs.com/2gyjPA8sfKtLoRxJiA7GvS01vhU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2707684-1388489953-5621.jpeg.jpg" data-tags="symphonic metal" role="button">
+Within Temptation - What Have You Done (2007-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Heart of Everything (2007-03-09)
@@ -284,6 +281,9 @@ Tarja - What Lies Beneath (2010-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d327d22a-6e36-4ccd-acbc-1f549ce4653c/3922089081-500.jpg" data-tags="alternative rock" role="button">
 Serj Tankian - Imperfect Harmonies (2010-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/28a67217-0511-4fce-9e79-acdcf7c3eea6/15465041811-500.jpg" data-tags="sting" role="button">
+Sting - Live In Berlin (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)

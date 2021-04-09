@@ -1,12 +1,12 @@
 ---
-date: 2021-04-09T07:18:02.139Z
+date: 2021-04-09T20:44:01.418Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)</li>
+<li data-cover="https://img.discogs.com/Vtt75Gzqk8PUFqIyYbXQv7PxcE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5267834-1485130102-7731.jpeg.jpg" data-tags="indie pop" role="button">of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)</li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">Panda Bear - Person Pitch (2007-03-20)</li>
-<li data-cover="http://coverartarchive.org/release/18b7c0cb-97e6-45a8-b756-e05bf953db66/3326217013-500.jpg" data-tags="experimental" role="button">Animal Collective - Strawberry Jam (2007-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
 <li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">Phantogram - Eyelid Movies (2009-09)</li>
@@ -24,11 +24,11 @@ _________________
 <li data-cover="https://img.discogs.com/v87id1CYaQrZjZbqgRuaglDZzHk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5468752-1394647187-4014.jpeg.jpg" data-tags="classic rock, pop, rock, 60s, progressive rock, pop rock, easy listening, psychedelic pop, beat, library, the hollies, albums to listen to" role="button">
 The Hollies - Hollies (1965-10)
 </li>
-<li data-cover="https://img.discogs.com/4kV70uvoS8xmaxz-_GEleD4CQX8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9178546-1476147858-8034.jpeg.jpg" data-tags="60s, pop" role="button">
-The Beach Boys - Pet Sounds (1966-05-16)
+<li data-cover="http://coverartarchive.org/release/4e179701-5308-3866-8b43-a70228f97495/930164328-500.jpg" data-tags="classic rock, progressive rock" role="button">
+Procol Harum - A Whiter Shade of Pale (1967)
 </li>
-<li data-cover="http://coverartarchive.org/release/5aee80ba-d81c-47e8-b20d-8a2f39668fea/3174149959-500.jpg" data-tags="60s" role="button">
-The Beach Boys - Smiley Smile (1967-09-05)
+<li data-cover="https://img.discogs.com/ZhOvnu0MNRWHf67lXZe6HFTJj8A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1751544-1325813967.jpeg.jpg" data-tags="60s, oldies" role="button">
+Scott McKenzie - San Francisco (1967-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
@@ -36,47 +36,38 @@ Love - Forever Changes (1967-11-01)
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
 The Beatles - Magical Mystery Tour (1967-11-27)
 </li>
-<li data-cover="https://img.discogs.com/TO5bgnUt2u8w76SNZd8J9KkW3xw=/fit-in/361x377/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5032086-1489591317-2922.jpeg.jpg" data-tags="60s, psychedelic, baroque pop, classic rock" role="button">
-The Zombies - Odessey and Oracle (1968-04-19)
+<li data-cover="https://img.discogs.com/RhrsE_Tzsm0I_DW4-b2j4Vpd0N0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712171-1394761192-9723.jpeg.jpg" data-tags="60s" role="button">
+Margo Guryan - Take a picture (1968)
 </li>
-<li data-cover="http://coverartarchive.org/release/060d740e-f6b7-362b-a860-4006d0118d6d/18616327845-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
-Syd Barrett - The Madcap Laughs (1970-01-03)
+<li data-cover="https://img.discogs.com/E0LyO6T3OPBUVs7hpXRghCOJrwM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387306-1215278648.jpeg.jpg" data-tags="progressive rock, psychedelic, 60s, canterbury scene" role="button">
+Kevin Ayers - Joy Of A Toy (1969-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4831d4b1-ef4c-3140-b7b3-b629bd4b0eed/26221497654-500.jpg" data-tags="70s" role="button">
-The Beach Boys - Sunflower (1970-08-31)
+<li data-cover="http://coverartarchive.org/release/b7b0b85d-d160-49fa-bbe1-cbb6366ee3f0/9259553603-500.jpg" data-tags="progressive rock, baroque pop, psychedelic pop, psychedelic, argentina, art rock, folk rock, psychedelic rock, psychedelic folk, caos coleccion rock latinoamericano, mejores discos del rock nacional segun rolling stone, obra maestra, rock tops, raddle, hi daily" role="button">
+Almendra - Almendra (1969-11-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/30f4bea8-27a1-3f55-b436-a804e45fa701/22612433836-500.jpg" data-tags="70s, psychedelic pop, most depressing album cover ever" role="button">
-The Beach Boys - Surf's Up (1971-08-30)
+<li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
+Syd Barrett - Barrett (1970-11-14)
 </li>
 <li data-cover="https://img.discogs.com/bKgnmfyYE6CyP1H_n2tnzLPPrBU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5950052-1407162583-5162.jpeg.jpg" data-tags="80s, pop" role="button">
 XTC - Skylarking (1986-10-27)
 </li>
-<li data-cover="https://img.discogs.com/vYJ74JCSGcyCnU8Kpfbb79WnoVY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15166860-1587563895-7013.jpeg.jpg" data-tags="80s, pop, psychedelic pop" role="button">
-XTC - Oranges & Lemons (1989-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/3b20f053-4d75-4a11-b4fb-33e2df29d792/21099680385-500.jpg" data-tags="pop, 80s, new wave" role="button">
-Tears for Fears - The Seeds of Love (1989-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/79ab2158-0eb0-4a54-aa69-fd49311a2aeb/16203888870-500.jpg" data-tags="experimental, indie pop, indie rock, psychedelic pop, neo-psychedelia" role="button">
-The Olivia Tremor Control - Music from the Unrealized Film Script, Dusk at Cubist Castle (1996-08-06)
+<li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
+Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c49701e-b108-4f33-88a7-96d33c64dc3c/19368548317-500.jpg" data-tags="folk" role="button">
 The Brian Jonestown Massacre - Thank God for Mental Illness (1996-10-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/0952c18c-9229-44dd-88fb-d5e51333116a/28727928936-500.jpg" data-tags="indie pop, psychedelic pop" role="button">
-of Montreal - The Bird Who Continues to Eat the Rabbit's Flower (1997-01-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
-Broadcast - Work and Non Work (1997-06-09)
+<li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
+Ween - The Mollusk (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/62def2bf-bb1c-4164-9b45-a08084845fcb/28727936263-500.jpg" data-tags="indie pop, twee pop, lo-fi, neo-psychedelia" role="button">
 of Montreal - Cherry Peel (1997-08-19)
 </li>
+<li data-cover="https://img.discogs.com/jLrf7hv7ye_ZALB1UEyRSCeezVE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-676205-1146469269.jpeg.jpg" data-tags="90s" role="button">
+Super Furry Animals - Radiator (1997-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/0190c36e-313f-452b-b581-fea9a4da79a8/28727954164-500.jpg" data-tags="indie pop, twee pop, psychedelic pop" role="button">
-of Montreal - The Bedside Drama: A Petite Tragedy (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec296c98-a954-4ae2-9e50-40ec6753c6c3/28727949293-500.jpg" data-tags="indie pop, indie rock" role="button">
 of Montreal - The Gay Parade (1999-02-16)
@@ -84,14 +75,11 @@ of Montreal - The Gay Parade (1999-02-16)
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
-<li data-cover="https://img.discogs.com/uAijLGtWlJXfh--0l2ljVkXPBrk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668-1468409952-1004.jpeg.jpg" data-tags="electronic, electronica, indie rock, indie electronic, post-rock, downtempo, druggy, ambient pop, psychedelic pop, dreamy, reflective, atmospheric, whimsical, late night, dream pop, clinical, literate, ethereal, fractured, wry, dramatic, introspection, reflection, eerie, hypnotic, spacey, psychedelic rock, trippy, sophisticated, poignant, detached, playful, sunday afternoon, sweet, solitude, delicate, light, background music, nocturnal, imagination, avant-pop, refined, stylish, wintry, hanging out, restrained, sparkling, circular, innocent, spiked-candy radio, space-age, retro-futuristic, julian house album art, ashich party" role="button">
-Broadcast - Echo's Answer (1999-10-01)
-</li>
-<li data-cover="https://img.discogs.com/Wb2clSHhJ4_ZOv69eP7kTPBiBOw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3194-1145339641.jpeg.jpg" data-tags="electronica, warp" role="button">
-Broadcast - The Noise Made by People (2000-03-20)
-</li>
 <li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
+</li>
+<li data-cover="https://img.discogs.com/8xi2ZZTiqfsfdAfMvX3II8OWmA0=/fit-in/555x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194412-1218930482.jpeg.jpg" data-tags="chamber pop, psychedelic pop, avant-pop, art pop, trip in the pram, night in dollhouse" role="button">
+Pram - Dark Island (2003-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
 Broadcast - Haha Sound (2003-08-09)
@@ -99,11 +87,8 @@ Broadcast - Haha Sound (2003-08-09)
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7b2aa52-2189-486a-aa6f-de095ddfd019/1602455849-500.jpg" data-tags="classic rock, pop, baroque pop" role="button">
-Brian Wilson - SMiLE (2004-09-28)
-</li>
-<li data-cover="https://img.discogs.com/x5XWYaU2aOnpU8xbFKnUgoK6g30=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1697338-1393017938-1651.jpeg.jpg" data-tags="indie, electronic, psychedelic, dream pop, warp" role="button">
-Broadcast - Tender Buttons (2005-09-19)
+<li data-cover="http://coverartarchive.org/release/67148959-1ccd-3c30-8645-cfb8301b0001/4778416413-500.jpg" data-tags="cardiowave" role="button">
+Flëur - Сияние (2004-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
@@ -114,26 +99,32 @@ Broadcast - The Future Crayon (2006-08-21)
 <li data-cover="https://img.discogs.com/Vtt75Gzqk8PUFqIyYbXQv7PxcE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5267834-1485130102-7731.jpeg.jpg" data-tags="indie pop" role="button">
 of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
 </li>
+<li data-cover="https://img.discogs.com/_A5vxbjb0VuHdoo6pgxZNnJU6_o=/fit-in/405x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928980-1173912541.jpeg.jpg" data-tags="indie, indie pop" role="button">
+of Montreal - Icons, Abstract Thee (2007-01-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/0f857ab9-6cd0-45e6-b618-93947c185cf5/13071763593-500.jpg" data-tags="neo-soul" role="button">
 Willow - Willow (2007-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">
 Panda Bear - Person Pitch (2007-03-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
+The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
+</li>
 <li data-cover="https://img.discogs.com/2Bxxw50aJOWA5ZV6hTZMB9dMRL4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-995511-1553564718-4840.jpeg.jpg" data-tags="indie rock" role="button">
 Frog Eyes - Tears Of The Valedictorian (2007-05-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/bbdb139d-13c8-4327-914e-8ada7bf09b17/27880110565-500.jpg" data-tags="psychedelic" role="button">
+Black Moth Super Rainbow - Dandelion Gum (2007-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/18b7c0cb-97e6-45a8-b756-e05bf953db66/3326217013-500.jpg" data-tags="experimental" role="button">
-Animal Collective - Strawberry Jam (2007-09-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/55318661-9673-4bab-91cf-421c84b8701f/8635805656-500.jpg" data-tags="indie, rock, indie rock" role="button">
-Yeasayer - All Hour Cymbals (2007-10-23)
-</li>
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
 The Asteroids Galaxy Tour - Fruit (2008)
+</li>
+<li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
+Women - WOMEN (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
 Chairlift - Does You Inspire You (2008-09-30)
@@ -165,20 +156,26 @@ Portugal. The Man - The Satanic Satanist (2009-07-17)
 <li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
 Phantogram - Eyelid Movies (2009-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/6d3950b6-048b-3d4f-8fa6-acab7ddc831d/9277382805-500.jpg" data-tags="indie rock" role="button">
+Bear in Heaven - Beast Rest Forth Mouth (2009-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/b088db4d-6aee-4991-b888-b283b77f7ad0/15835480698-500.jpg" data-tags="indie rock, indie" role="button">
 Real Estate - Real Estate (2009-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/54298fd8-e674-4211-8fb5-f9ca3403cf31/4298641916-500.jpg" data-tags="neo-psychedelia" role="button">
-Animal Collective - Fall Be Kind (2009-11-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)
+</li>
+<li data-cover="https://img.discogs.com/ABRafESd9LrNMYITkr02_da30IQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199057-1269373276.jpeg.jpg" data-tags="indie, seattle, indie rock, lo-fi, psychedelic pop, 10s" role="button">
+Pill Wonder - Jungle/Surf (2010-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Tame Impala - Innerspeaker (2010-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
 Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
+Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
 Wavves - King Of The Beach (2010-08-02)
@@ -213,17 +210,20 @@ Unknown Mortal Orchestra - Unknown Mortal Orchestra (2011-06-17)
 <li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
 Dye - Taki 183 (2011-06-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
+Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/80418cea-5f7e-48b9-a7de-d58175e51531/18047710272-500.jpg" data-tags="synthpop, electronic, chillwave" role="button">
 Neon Indian - Era Extraña (2011-09-07)
-</li>
-<li data-cover="https://img.discogs.com/gQ7dmXn-obj2U_V9jC56SvFXBv0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4254852-1359839568-6296.jpeg.jpg" data-tags="psychedelic pop, psychedelic, proto-animal collective, pop, baroque pop" role="button">
-The Beach Boys - The SMiLE Sessions (2011-10-28)
 </li>
 <li data-cover="https://img.discogs.com/cZKOCXiTv92kp3ZvOosCCfTzyqI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3361276-1327338274.jpeg.jpg" data-tags="indie, alternative, indie pop" role="button">
 Chairlift - Something (2012-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecfddb21-48c1-44b3-8918-365403b6459a/1802907186-500.jpg" data-tags="indie pop, indie rock, indietronica" role="button">
 Django Django - Django Django (2012-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/4a1344a2-2b99-445a-98b9-964294343dec/2094897768-500.jpg" data-tags="alternative" role="button">
+The Asteroids Galaxy Tour - Out of Frequency (2012-01-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)
@@ -252,14 +252,14 @@ Ariel Pink's Haunted Graffiti - Mature Themes (2012-08-20)
 <li data-cover="http://coverartarchive.org/release/f9ebdd4c-77a4-4cfa-acef-3920ebb64054/4692587706-500.jpg" data-tags="indie rock" role="button">
 Yeasayer - Fragrant World (2012-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/46e3ced9-47b3-4bdb-9515-9ab3c655a8be/1932609966-500.jpg" data-tags="neo-psychedelia, burrito-core, experimental" role="button">
-Animal Collective - Centipede Hz (2012-08-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">
 Tame Impala - Lonerism (2012-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/39b8095e-adcd-40d5-95da-e571ee08c1aa/4776110603-500.jpg" data-tags="rad cult, demon skater" role="button">
 Black Moth Super Rainbow - Cobra Juicy (2012-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/412245b4-87fc-4445-8de0-316099278613/2008680879-500.jpg" data-tags="indie pop, psychedelic pop, neo-psychedelia, 2012 releases" role="button">
+of Montreal - Daughter of Cloud (2012-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
 Mac DeMarco - 2 (2012-10-16)

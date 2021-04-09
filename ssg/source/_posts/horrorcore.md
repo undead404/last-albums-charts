@@ -1,10 +1,10 @@
 ---
-date: 2021-04-06T15:04:01.371Z
+date: 2021-04-09T20:24:01.644Z
 title: "horrorcore: 100 albums you must listen to before you die"
 ---
 ![Eminem - The Marshall Mathers LP (2000-05-22)](http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg "Eminem - The Marshall Mathers LP (2000-05-22)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/S28q1tvobiEdD92pTQ3SHsWSsaI=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196321-1587587662-8545.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)</li>
+<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)</li>
 <li data-cover="http://coverartarchive.org/release/6dc48e79-0c9b-4bf4-b2b9-9fc40e3941d9/3499202221-500.jpg" data-tags="horrorcore" role="button">Insane Clown Posse - The Great Milenko (1997-08-12)</li>
 <li data-cover="http://coverartarchive.org/release/f305300d-d3ef-314f-a260-9b2cc12705d8/2587702528-500.jpg" data-tags="rap" role="button">Eminem - The Slim Shady LP (1999-02-23)</li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">Eminem - The Marshall Mathers LP (2000-05-22)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/-o_HGJnb5nEAlaUWW1V_1wx8AaQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-763151-1377821744-8605.jpeg.jpg" data-tags="experimental" role="button">
+<li data-cover="https://img.discogs.com/UH-NXNYfe1k-nqEcUV5YwIci4LM=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-495554-1289060787.jpeg.jpg" data-tags="experimental" role="button">
 The Residents - Duck Stab (1978-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1565461-5521-41d3-bccf-40743f9fb501/9497563757-500.jpg" data-tags="golden age hip hop" role="button">
@@ -39,8 +39,11 @@ Geto Boys - We Can't Be Stopped (1991-07-01)
 <li data-cover="http://coverartarchive.org/release/e6312187-8513-4a82-bf3a-6b5d11c959c6/5729852366-500.jpg" data-tags="gangsta rap" role="button">
 X-Raided - Psycho Active (1992-04-16)
 </li>
-<li data-cover="https://img.discogs.com/bJonz8HoYkbzy08B85fViJP0zA8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4798971-1593743753-7149.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
+<li data-cover="https://img.discogs.com/r-BBNj1LBBHNxxqYgDpc7mvDpjE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15621398-1594697375-2445.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
 Insane Clown Posse - Carnival of Carnage (1992-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/cfb8f268-a032-4de1-b6df-1d75b17a41c6/18896192451-500.jpg" data-tags="detroit" role="button">
+Natas - Life After Death (1992-11-23)
 </li>
 <li data-cover="https://img.discogs.com/kVi4UKbgy0zT2tWVNFT3Kr-CnGA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492190-1302215784.jpeg.jpg" data-tags="gangsta rap" role="button">
 Brotha Lynch Hung - 24 Deep (1993)
@@ -81,7 +84,7 @@ Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 <li data-cover="http://coverartarchive.org/release/d57b5ef8-ca89-4ce3-b1f4-b4f531f9cfe4/18953650600-500.jpg" data-tags="horrorcore, gangsta rap, memphis rap" role="button">
 Three 6 Mafia - Mystic Stylez (1995-05-30)
 </li>
-<li data-cover="https://img.discogs.com/S28q1tvobiEdD92pTQ3SHsWSsaI=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196321-1587587662-8545.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
+<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
 Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/773b1e1e-3fe6-4e8f-a5e4-117d45dd2d06/27358258265-500.jpg" data-tags="detroit" role="button">
@@ -210,7 +213,7 @@ Necro - The Sexorcist (2005-08-02)
 <li data-cover="http://coverartarchive.org/release/7f4e0c1b-9f9f-427b-a654-0a85debd6edf/27366556586-500.jpg" data-tags="hip-hop, detroit" role="button">
 Insane Clown Posse - The Tempest (2007-03-20)
 </li>
-<li data-cover="https://img.discogs.com/iEzwMam_WyqQOHl1CeR55baG1Eo=/fit-in/444x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1055076-1188516421.jpeg.jpg" data-tags="underground hip hop, aussie, horrorcore, gore grind, shitwank, snuff porn gore rap" role="button">
+<li data-cover="http://coverartarchive.org/release/846ebf7a-9fe3-432e-be0e-2391fb44a96b/16777456902-500.jpg" data-tags="underground hip hop, aussie, horrorcore, gore grind, shitwank, snuff porn gore rap" role="button">
 MC Bushpig - Wank of Death (2007-06-01)
 </li>
 <li data-cover="https://img.discogs.com/jXaIWc5VUDgQIos40qRi-oMo75o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1977486-1605122835-1541.jpeg.jpg" data-tags="psychopathic" role="button">
@@ -278,9 +281,6 @@ Earl Sweatshirt - EARL (2010-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/08537a01-1a73-4c8d-8643-f516b3cff31c/24535167523-500.jpg" data-tags="strange music, brotha lynch hung, horrorcore" role="button">
 Brotha Lynch Hung - Dinner And A Movie (2010-03-23)
-</li>
-<li data-cover="https://img.discogs.com/0B7s1iPugiiNcRG8p_LKg27ADRk=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3229206-1321558843.jpeg.jpg" data-tags="anime, japanese, folk, female vocalists, j-pop, heavenly voices, weeaboo, new weird japan, j-folk" role="button">
-Cécile Corbel - Arrietty's Song (2010-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/783d7421-d7af-4ba6-bd79-8d15d7b2ffff/7790411641-500.jpg" data-tags="death rap, horrorcore" role="button">
 Necro - Die! (2010-05-18)

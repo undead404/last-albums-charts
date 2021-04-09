@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T16:50:01.411Z
+date: 2021-04-09T20:11:01.403Z
 title: "chiptune: 100 albums you must listen to before you die"
 ---
 ![Crystal Castles - Crystal Castles (2010-05-18)](http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg "Crystal Castles - Crystal Castles (2010-05-18)")
@@ -7,12 +7,12 @@ title: "chiptune: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d8b76cb7-43db-4b7d-9eac-af54fd564b31/12289706070-500.jpg" data-tags="electronica, electro, dance, chiptune, bitpop, sweden, synth-pop, blip blop, mmmmm, bit, svenskprov, najjs" role="button">Slagsmålsklubben - Sagan om konungens årsinkomst (2004-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/0944b888-0cda-4dba-9507-2211123bcb2c/4667208673-500.jpg" data-tags="chiptune" role="button">Bit Shifter - Information Chase (2006-02-27)</li>
 <li data-cover="http://coverartarchive.org/release/005bc8e2-295a-4499-ad97-a1f83099cbe4/7179125571-500.jpg" data-tags="chiptune" role="button">Anamanaguchi - Power Supply (2006-08-26)</li>
+<li data-cover="http://coverartarchive.org/release/3c714fcd-f447-4400-b868-b0b2482829d6/6437432777-500.jpg" data-tags="chiptune" role="button">Nullsleep - Electric Heart Strike (2007-06)</li>
 <li data-cover="http://coverartarchive.org/release/729413e9-7262-4001-a291-356411148759/3667438205-500.jpg" data-tags="chiptune" role="button">Random - Bad Joke EP (2007-07-11)</li>
 <li data-cover="http://coverartarchive.org/release/d6e602eb-97e5-42ca-919b-37c2ea510bad/2060277808-500.jpg" data-tags="chiptune, bitpop" role="button">Anamanaguchi - Dawn Metropolis (2009-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/0ed330ec-2780-4d7b-ab78-8b4008cc70a2/6662857634-500.jpg" data-tags="chiptune" role="button">Unicorn Kid - Wee Monsters (2009-07-13)</li>
 <li data-cover="http://coverartarchive.org/release/a432a420-f374-4556-8421-b4ea097c7fe9/8216508553-500.jpg" data-tags="electronic" role="button">Crystal Castles - Crystal Castles (2010-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/77dbc2f5-9c5d-48d5-bf9d-745e81d2ff84/7047891315-500.jpg" data-tags="electronic, hip hop, dubstep, chiptune, warp records, glitch hop, glitchbient indiegamecore" role="button">Flying Lotus - Pattern+Grid World (2010-09-11)</li>
-<li data-cover="http://coverartarchive.org/release/05c617c7-7512-4a0b-9c4e-a3fcc2bf5c03/7456741432-500.jpg" data-tags="chiptune, electronic, bitpop" role="button">Anamanaguchi - Endless Fantasy (2013-05-14)</li>
 <li data-cover="http://coverartarchive.org/release/9c8c937f-eda5-4aae-9f66-de46481e1e21/8558749915-500.jpg" data-tags="electronic, dance, britpop, chiptune, german, glitch hop" role="button">TheFatRat - Unity (2014-09-26)</li>
 </ol>
 List of 100 - under the cut.
@@ -27,11 +27,14 @@ Neutral Milk Hotel - Beauty (1992)
 <li data-cover="https://img.discogs.com/slklL0Cxb9J9P82vkxUZpTx2T_I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2098709-1600626023-2654.png.jpg" data-tags="rock, lo-fi" role="button">
 Neutral Milk Hotel - Hype City Soundtrack (1993)
 </li>
-<li data-cover="https://img.discogs.com/MomQPvUrJUxe4ajEGkeW_dkZ1w4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-536252-1167768415.jpeg.jpg" data-tags="lo-fi" role="button">
-Neutral Milk Hotel - Everything Is (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/49d4b5fc-16a1-48f7-8b24-c0b85e89e16c/4586030713-500.jpg" data-tags="chiptune" role="button">
 Nullsleep - Hello World (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/3818926b-9125-415c-802c-681945035cd6/18443745581-500.jpg" data-tags="electronic" role="button">
+Instant Remedy - Instant Remedy (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/3cba85f1-6f7a-413e-8588-12e7a72051f1/3886939095-500.jpg" data-tags="chiptune, steveadams fm, steveadamsfm" role="button">
+Mesu Kasumai - My Fiero (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/88ad5891-50e0-4a66-bc84-6b684bd0009d/7749047425-500.jpg" data-tags="chiptune" role="button">
 Nullsleep - The Gameboy Singles 2002 (2002)
@@ -57,8 +60,8 @@ Slagsmålsklubben - Sagan om konungens årsinkomst (2004-10-15)
 <li data-cover="http://coverartarchive.org/release/6fc31b65-d3ed-4c0a-8da8-5217d66f9350/8425115741-500.jpg" data-tags="8-bit, chiptune" role="button">
 YMCK - Family Music (2004-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/de7fa22f-59ea-4a13-9794-ef103e9b8c62/6758388835-500.jpg" data-tags="8-bit, breakcore, chiptune" role="button">
-Sabrepulse - Famicom Connection (2005)
+<li data-cover="http://coverartarchive.org/release/deb73bd7-252c-4a29-9756-07b03997cd91/27858114220-500.jpg" data-tags="chiptune, c64" role="button">
+Goto80 - Commodore Grooves (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/a76216b3-33be-4c5b-ad59-fa35fb8bfc99/27500466586-500.jpg" data-tags="chiptune" role="button">
 Divag - Gameboy tunes (2005)
@@ -69,17 +72,11 @@ Amor Antiquita - Metallic Sonatas (2005)
 <li data-cover="http://coverartarchive.org/release/69d4292a-c4ae-4b26-9ef0-909f9e0fbf96/4705501836-500.jpg" data-tags="chiptune" role="button">
 Twilight Electric - Razor Blades (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e1c0ba0-ba79-4671-bb21-8e71b7ef41c8/6758429509-500.jpg" data-tags="electronic, chiptune, free albums, my favourits, my favourit chillout, in queue" role="button">
-Sabrepulse - Terra EP (2005)
+<li data-cover="http://coverartarchive.org/release/551bbf16-fe65-4792-8673-7be0b753d3df/4705545720-500.jpg" data-tags="chiptune" role="button">
+RushJet1 - Sounds of the 2A03 (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/19defdb9-2898-4931-9e9d-4f4b31f665dd/24601385325-500.jpg" data-tags="electronic, instrumental, experimental" role="button">
 The Octopus Project - One Ten Hundred Thousand Million (2005-01-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/e234d6a4-9c9c-3d8b-95d6-8048c9dc7be3/12727663829-500.jpg" data-tags="electronic, chiptune, jamendo, bitpop" role="button">
-Binärpilot - Defrag (2005-05-05)
-</li>
-<li data-cover="https://img.discogs.com/Up2X8N5jEFKfp8Z5LGF-cZHHTs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12620723-1538755958-6097.jpeg.jpg" data-tags="chillout, electronic, experimental, dark, chiptune, smooth, elektronika, soothe, in queue" role="button">
-She - digital ambient designs (2005-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/1125e80e-3871-43a8-8976-d7c4337bbb1a/3102450893-500.jpg" data-tags="electronic, electropop, 8bit, chiptune, wanttohearagain" role="button">
 Code 64 - Leaving Earth (2005-11-19)
@@ -93,23 +90,23 @@ virt - FX3 (2006)
 <li data-cover="http://coverartarchive.org/release/4603ff8e-58f6-42b9-be0b-f62c8392817c/1945501223-500.jpg" data-tags="chiptune" role="button">
 Psilodump - Psilodumputer (2006-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce40cdb1-a562-4fd8-a269-9269f98d4124/1087404314-500.jpg" data-tags="chiptune, jamendo, bitpop" role="button">
-Binärpilot - You Can't Stop Da Funk (2006-02-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/0944b888-0cda-4dba-9507-2211123bcb2c/4667208673-500.jpg" data-tags="chiptune" role="button">
 Bit Shifter - Information Chase (2006-02-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/999f7285-1fde-48b5-9847-d71905477755/15568671749-500.jpg" data-tags="futurepop" role="button">
+Code 64 - Departure (2006-04-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/005bc8e2-295a-4499-ad97-a1f83099cbe4/7179125571-500.jpg" data-tags="chiptune" role="button">
 Anamanaguchi - Power Supply (2006-08-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/46444264-9a4d-40d6-9c09-7f3fa4f5074f/6272625053-500.jpg" data-tags="chiptune" role="button">
+Rymdkraft - Kantarelle EP Deluxe (2006-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3d74bee-2bd9-46ba-aa46-7215cd4031e5/27500303375-500.jpg" data-tags="chiptune, nice, pleasant, lovely, 8bitpeoples, a grower, fantastically cute" role="button">
 Coleco Music - Confessions in a Chatroom (2006-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/daa4fe20-d728-42e6-b0af-14b3789239dc/6437608028-500.jpg" data-tags="electronic, 8bit, chiptune" role="button">
 Xinon - Moonlight Sympathy (2006-12-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e16dcdd-de40-46b5-82c9-949341bbc160/6710013824-500.jpg" data-tags="electronic, chiptune" role="button">
-She - Pioneer (2006-12-21)
 </li>
 <li data-cover="https://img.discogs.com/Ao_VkYGxRf6kTkSTfulCRIXKPxQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9865725-1487610737-3854.jpeg.jpg" data-tags="8-bit, chiptune, chipbreak" role="button">
 Sabrepulse - Verão (2007)
@@ -156,8 +153,8 @@ Covox - Infiltrator Ep (2007-12-25)
 <li data-cover="http://coverartarchive.org/release/717ad3d8-f8b3-4a6c-8a5e-4ab04fd63d31/27501129924-500.jpg" data-tags="8-bit, chiptune" role="button">
 Stu - GreateST HITs (2007-12-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1f82e9c-251b-4a6b-91e3-c1cb6e5dfb6f/4873953886-500.jpg" data-tags="chiptune" role="button">
-Dubmood - ATARI-SKA L'ATAKK (2008)
+<li data-cover="http://coverartarchive.org/release/985187e6-482c-4b54-a158-15a0cd38f9df/6510177665-500.jpg" data-tags="electronic, electronica, 8-bit, chiptune, 8 bit, free download" role="button">
+Girljoy - casioromance (2008)
 </li>
 <li data-cover="https://img.discogs.com/K0DEDa1Dl_ANvDKPTQn0fFIv7M0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1384280-1402024140-1626.jpeg.jpg" data-tags="8-bit, chiptune, progressive electronica" role="button">
 Disasterpeace - Level (2008-01-31)
@@ -168,14 +165,11 @@ Yerzmyey - FREAKuencies (2008-04-18)
 <li data-cover="http://coverartarchive.org/release/ac5b192a-0ccf-400c-9ebb-72678331a3ae/27499274391-500.jpg" data-tags="chiptune, one time my ipod wouldnt work for 8 months and i had this album on here and it was all i listened to" role="button">
 Animal Style - Open Air (2008-04-18)
 </li>
-<li data-cover="https://img.discogs.com/cdHjhIZIWbMCr11UZF8F9OU7kEA=/fit-in/492x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1366241-1278705935.jpeg.jpg" data-tags="chiptune" role="button">
-Paza - The Slaphappy Bee III EP (2008-06-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/964bdc18-bbd0-437a-b00a-3f642472451b/4187837782-500.jpg" data-tags="electronic, electronica" role="button">
-She - coloris (2008-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/9ade91c4-67e2-4f3b-a52d-0be0653548d5/6709617117-500.jpg" data-tags="electronic, chiptune" role="button">
 She - chiptek (2008-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/87adb95f-bfcc-49f5-b7a0-c73ff9512589/26666196769-500.jpg" data-tags="breakbeat, rave, jungle" role="button">
+Zomby - Where Were U in '92? (2008-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b20863b4-0eb3-4065-9599-24248499ec3d/27066384557-500.jpg" data-tags="electronic, chiptune" role="button">
 Nullsleep - Unconditional Acceleration (2008-11-26)
@@ -195,6 +189,9 @@ Eliot Lipp - Peace Love Weed 3D (2009-01-27)
 <li data-cover="https://img.discogs.com/eBjlrPWpv-NLJ4p89IdNXafbUJ8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2193238-1272728551.jpeg.jpg" data-tags="indie rock, chiptune, electronic rock, nes-rock" role="button">
 I Fight Dragons - Cool Is Just A Number (2009-02-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/ed562300-1963-49d4-8522-1746a6e8ab35/27499080485-500.jpg" data-tags="free, chiptune" role="button">
+8GB - Pravda (2009-02-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/d6e602eb-97e5-42ca-919b-37c2ea510bad/2060277808-500.jpg" data-tags="chiptune, bitpop" role="button">
 Anamanaguchi - Dawn Metropolis (2009-03-03)
 </li>
@@ -206,9 +203,6 @@ Glomag - DaMaGe (2009-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a7db8b0-e98a-4361-9cec-27ce4cd69e28/5796842584-500.jpg" data-tags="chiptune, english" role="button">
 8 Bit Weapon - Electric High EP (2009-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad6b4d3f-ae99-4d11-ba66-011f5ab18b4d/5843595966-500.jpg" data-tags="indietronica, 8-bit, chiptune, pop punk, dance-punk, synth punk, album covers i like" role="button">
-Math the Band - Don't Worry (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7166e75d-e44a-4e23-8f09-81c4449d1baf/1212200476-500.jpg" data-tags="8bitpeoples" role="button">
 Starscream - Future, And It Doesn't Work (2009-06-11)
@@ -234,8 +228,14 @@ mind.in.a.box - R.E.T.R.O. (2010-02-26)
 <li data-cover="https://img.discogs.com/fqhex66iwX6AZq9KDtFCsQK_84A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15760721-1597296597-6030.jpeg.jpg" data-tags="swedish, chiptune, dunderpatrullen" role="button">
 Dunderpatrullen - Analoga Stereoider (2010-03-19)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="instrumental, chiptune" role="button">
+fsfreak - Equation of Victory (2010-03-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/ad8e8b94-e0c7-4ba7-b6ee-0aad660bb8c6/24309015540-500.jpg" data-tags="noise, electronic, electronica, chiptune" role="button">
 Crystal Castles - Doe Deer (2010-04-17)
+</li>
+<li data-cover="https://img.discogs.com/JypwYixj518RFo4JT73NiY8ihIQ=/fit-in/246x246/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2354961-1414633334-7394.jpeg.jpg" data-tags="chiptune" role="button">
+Animal Style - TRENCHVENT (2010-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/200222f4-51bf-4165-ab43-6bff4ef9dc1b/1821889338-500.jpg" data-tags="electronic, soundtrack, chiptune" role="button">
 Gaijin Games - Bit.Trip Runner Original Soundtrack (2010-05-17)
@@ -246,14 +246,17 @@ Crystal Castles - Crystal Castles (2010-05-18)
 <li data-cover="http://coverartarchive.org/release/77dbc2f5-9c5d-48d5-bf9d-745e81d2ff84/7047891315-500.jpg" data-tags="electronic, hip hop, dubstep, chiptune, warp records, glitch hop, glitchbient indiegamecore" role="button">
 Flying Lotus - Pattern+Grid World (2010-09-11)
 </li>
-<li data-cover="https://img.discogs.com/yzM_zP5EcbFy6OQwhjOoZqDEUSc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2473870-1286096331.jpeg.jpg" data-tags="dubstep, 8-bit, chiptune, wonky, zelda" role="button">
-Rustie - Sunburst EP (2010-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/d40b27b4-0414-4f4f-ac1c-592a30b4225e/2603102123-500.jpg" data-tags="pop, alternative rock, chiptune, electronic rock" role="button">
 I Fight Dragons - Welcome To The Breakdown (2010-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/878e73ca-b7f8-47d9-bc76-fb2070ce321e/1083867910-500.jpg" data-tags="8-bit, chiptune" role="button">
 Disasterpeace - Rise of the Obsidian Interstellar (2011-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/b2c073a3-cb26-4152-99d0-9814c9cb146e/5809524619-500.jpg" data-tags="chiptune, bitpop" role="button">
+Bossfight - Nice Catch Biggy! (2011-02-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/470133b2-68dd-4347-a244-77f0cddafa38/22215179590-500.jpg" data-tags="chiptune" role="button">
+IAYD - Like A Phoenix (2011-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e146cd3e-c2a3-4363-862f-fc5765dbcae1/3344638365-500.jpg" data-tags="hip hop, experimental, electro, idm, chiptune, self-titled album" role="button">
 Groundislava - Groundislava (2011-04-12)
@@ -276,17 +279,17 @@ Big Giant Circles - Impostor Nostalgia (2011-09-12)
 <li data-cover="http://coverartarchive.org/release/7c639c90-ffa1-4372-88eb-5080d1ac87e0/13113750570-500.jpg" data-tags="chiptune, powerpop, electronic rock" role="button">
 I Fight Dragons - KABOOM! (2011-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/4213b5bf-e5bd-4949-8366-e3c08340c1ff/4754005350-500.jpg" data-tags="electronic, techno, idm" role="button">
-Orbital - Wonky (2012-02-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/fda51c9b-9c6d-4bcb-9a64-24d3bb63ee5b/7384574466-500.jpg" data-tags="electronic, soul, chiptune, instrumental hip hop" role="button">
-Elaquent - The Scenic Route (2012-03-28)
+<li data-cover="http://coverartarchive.org/release/9228d3ab-1cb2-471f-a9a4-f98a2b99b272/1343350842-500.jpg" data-tags="chiptune, 8bitpeoples" role="button">
+knife city - knife city (2012-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c4297a3-0f5e-460a-b809-119a86097fcb/5370281904-500.jpg" data-tags="electronic" role="button">
 El Huervo - Do Not Lay Waste To Homes... (2012-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a878472e-62de-4096-bc75-c2307c9a2094/17146048573-500.jpg" data-tags="chiptune" role="button">
 Slime Girls - Vacation Wasteland EP (2012-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/af59d6c4-60c5-4779-a1b0-9e3d5ec4dfc5/1942434869-500.jpg" data-tags="soundtrack, electronic, chiptune" role="button">
+Chipzel - Super Hexagon EP (2012-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c508c4a5-6de3-4396-967c-0a588d41f811/20381833678-500.jpg" data-tags="chiptune, bitpop" role="button">
 Bossfight - Caps On, Hats Off (2012-09-09)
@@ -302,9 +305,6 @@ C418 - one (2012-12-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/75fbf841-e3da-4f88-bba9-70fb4ae0d19c/3530307104-500.jpg" data-tags="chiptune, digital fusion" role="button">
 aivi & surasshu - The Black Box (2013-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/05c617c7-7512-4a0b-9c4e-a3fcc2bf5c03/7456741432-500.jpg" data-tags="chiptune, electronic, bitpop" role="button">
-Anamanaguchi - Endless Fantasy (2013-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce62170a-9355-44e8-a3d3-f4b7bf4ec136/23994026983-500.jpg" data-tags="chiptune, synthwave" role="button">
 Arcade High - Pixel Passion (2013-06-24)

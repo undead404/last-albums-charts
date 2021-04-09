@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T07:21:01.483Z
+date: 2021-04-09T20:41:01.458Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="proto-punk, garage rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/B_XQsc3AzhCIkH9DWzEyhbBZ0V4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379038-1224357901.jpeg.jpg" data-tags="proto-punk, garage rock, 70s" role="button">
 The Stooges - Fun House (1970-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/3714201314-500.jpg" data-tags="rock, punk, 70s" role="button">
@@ -101,6 +101,9 @@ Rancid - ...And Out Come the Wolves (1995-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/37037911-c633-4ec8-9793-2c80cdbfedac/5690341799-500.jpg" data-tags="punk rock, punk" role="button">
 Green Day - Insomniac (1995-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
+Placebo - Placebo (1996-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f0a1564-a748-302f-abc3-0a0b3f934a50/2349398736-500.jpg" data-tags="punk rock" role="button">
 The Offspring - Ixnay on the Hombre (1997-02-05)
@@ -192,9 +195,6 @@ Billy Talent - Billy Talent (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/5c55a62e-765a-3478-a150-9032f9d0170c/2556187115-500.jpg" data-tags="punk rock, punk" role="button">
 The Distillers - Coral Fang (2003-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/a216cc04-6983-4962-9e5b-c1c1674895f7/12671876579-500.jpg" data-tags="punk" role="button">
-Against Me! - As the Eternal Cowboy (2003-11-04)
-</li>
 <li data-cover="https://img.discogs.com/bqkKb5NmWkom_PixHUISylq1FC8=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5568581-1396792201-1770.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Splinter (2003-11-27)
 </li>
@@ -249,7 +249,7 @@ The Offspring - Greatest Hits (2005-06-20)
 <li data-cover="http://coverartarchive.org/release/8ec80332-991e-43f4-9de0-7ca6a38899db/9408515476-500.jpg" data-tags="gypsy punk" role="button">
 Gogol Bordello - Gypsy Punks: Underdog World Strike (2005-08-09)
 </li>
-<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">

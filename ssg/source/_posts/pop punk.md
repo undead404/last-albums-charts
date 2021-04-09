@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:17:01.455Z
+date: 2021-04-09T20:25:01.457Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -255,9 +255,6 @@ Tigers Jaw - Tigers Jaw (2008-09-10)
 <li data-cover="https://img.discogs.com/DL6wyKT7zN0CdqK1wZfHRHX-O1U=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181445-1331982850.jpeg.jpg" data-tags="pop punk" role="button">
 You Me at Six - Take Off Your Colours (2008-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb62259a-db3c-4b42-81de-55aebc7934a8/17601500085-500.jpg" data-tags="powerpop, pop punk" role="button">
-Hey Monday - Hold On Tight (2008-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/87fa0459-f9b1-4ed7-bbb1-95f032b24647/14506036638-500.jpg" data-tags="alternative, paramore, twilight, rock" role="button">
 Paramore - Decode (2008-11-04)
 </li>
@@ -299,6 +296,9 @@ Four Year Strong - Enemy of the World (2010-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/26db9427-8483-406c-9a19-a88579c70cd4/15128576400-500.jpg" data-tags="pop punk" role="button">
 You Me at Six - Hold Me Down (2010-01-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/8b1ef682-bbd9-4389-b1ae-90bc4b15f5cb/9773916022-500.jpg" data-tags="pop punk" role="button">
+Motion City Soundtrack - My Dinosaur Life (2010-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - What Separates Me from You (2010-11-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T21:23:01.388Z
+date: 2021-04-09T19:51:01.401Z
 title: "stoner metal: 100 albums you must listen to before you die"
 ---
 ![Sleep - Dopesmoker (2003-04-22)](http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg "Sleep - Dopesmoker (2003-04-22)")
@@ -12,8 +12,8 @@ title: "stoner metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg" data-tags="doom metal, stoner metal" role="button">Sleep - Dopesmoker (2003-04-22)</li>
 <li data-cover="http://coverartarchive.org/release/1d105b15-896b-40f4-861d-27e63dfcf960/16250901067-500.jpg" data-tags="stoner metal, stoner rock" role="button">The Sword - Age of Winters (2006-02-14)</li>
 <li data-cover="http://coverartarchive.org/release/9be388a8-425f-46d6-b7aa-b6cafb45d655/11089439848-500.jpg" data-tags="stoner metal, stoner rock, psychedelic" role="button">Om - Conference of the Birds (2006-02-24)</li>
-<li data-cover="http://coverartarchive.org/release/48479a6c-734a-4adc-ac78-cecfa94ca894/11089774828-500.jpg" data-tags="psychedelic, stoner metal" role="button">Om - Pilgrimage (2007-09-13)</li>
 <li data-cover="http://coverartarchive.org/release/8fffbe1c-8210-4042-ae95-9c3251bef3c2/20361901512-500.jpg" data-tags="stoner metal" role="button">High on Fire - Death Is This Communion (2007-09-18)</li>
+<li data-cover="http://coverartarchive.org/release/4d62e8fb-5371-33b0-aac7-c5ab0d956329/11089715437-500.jpg" data-tags="stoner rock, psychedelic, stoner metal" role="button">Om - God Is Good (2009-09-29)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -54,7 +54,7 @@ Kyuss - ...And the Circus Leaves Town (1995-07-07)
 <li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">
 Down - NOLA (1995-09-15)
 </li>
-<li data-cover="https://img.discogs.com/y2olKQ62QYPn5PGJ_EhdS33EkWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097273-1191794769.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
+<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
 Sleep - Jerusalem (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c342114-869e-404c-a43d-34a3a6247a8f/1587703828-500.jpg" data-tags="doom metal" role="button">
@@ -105,11 +105,11 @@ Superjoint Ritual - Use Once And Destroy (2002-05-21)
 <li data-cover="http://coverartarchive.org/release/c7914f47-2771-47ed-bc6b-332d8ef066b7/17479109345-500.jpg" data-tags="stoner metal" role="button">
 High on Fire - Surrounded By Thieves (2002-05-28)
 </li>
-<li data-cover="https://img.discogs.com/c_OxLc0e-L_SfFnE-7Xg7cvZ8pQ=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5012323-1382106857-3933.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
+<li data-cover="https://img.discogs.com/h-yEdvYFBL0aGJisLHfrk1Qf2so=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1375376-1302093174.jpeg.jpg" data-tags="stoner rock, stoner metal" role="button">
 Orange Goblin - Coup De Grace (2002-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2e93d22-45d2-4336-afb2-6638fa7699f8/16693736407-500.jpg" data-tags="stoner metal" role="button">
-Bongzilla - Gateway (2002-09-03)
+<li data-cover="https://img.discogs.com/cIau8XQKiz2IZQaTHa87DphDtkU=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1704260-1478811702-2183.jpeg.jpg" data-tags="rock, stoner rock, stoner metal" role="button">
+Spiritual Beggars - On Fire (2002-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/26047e1f-ac8a-4ef0-bd65-d09543c07409/20094257552-500.jpg" data-tags="stoner metal" role="button">
 YOB - Catharsis (2003)
@@ -119,6 +119,9 @@ Black Label Society - The Blessed Hellride (2003-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Sleep - Dopesmoker (2003-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/7cba2469-abb2-4e4c-bbad-1f9d7f47cabf/15577300296-500.jpg" data-tags="hardcore, metal, thrash metal, sludge metal" role="button">
+Superjoint Ritual - A Lethal Dose of American Hatred (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/357a1b68-b66c-46c3-aced-e5e1fa812790/17674019626-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Electric Wizard - We Live (2004)
@@ -141,17 +144,11 @@ YOB - The Illusion Of Motion (2004-11-29)
 <li data-cover="https://img.discogs.com/L5EUmV74le0j_T3jhKLmWxzPSqM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590040-1580482587-7535.jpeg.jpg" data-tags="metal, stoner metal" role="button">
 High on Fire - Blessed Black Wings (2005-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/7f7bce4f-00b2-4284-8fff-50fc71c9cfe9/11089358340-500.jpg" data-tags="stoner rock, stoner metal" role="button">
-Om - Variations on a Theme (2005-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e2f8c2f-b0d6-407f-a526-a6a1e85b7ec8/9271098267-500.jpg" data-tags="heavy metal" role="button">
 Black Label Society - Mafia (2005-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/52edab85-3956-4253-bd98-d42ace34e82c/1501069082-500.jpg" data-tags="stoner rock, heavy metal, metal" role="button">
 Corrosion of Conformity - In the Arms of God (2005-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b471e55e-68ef-4833-b3bb-c2a7417ee1f1/15509452814-500.jpg" data-tags="stoner doom, stoner metal" role="button">
-Acid King - III (2005-06-21)
 </li>
 <li data-cover="https://img.discogs.com/wXoqA52tWBq76bmvNsk4B9fUJGk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119958-1193596414.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
 YOB - The Unreal Never Lived (2005-09-05)
@@ -189,9 +186,6 @@ Weedeater - God Luck and Good Speed (2007-07-31)
 <li data-cover="http://coverartarchive.org/release/d5526d95-9288-4f45-ac86-9ff465792ecb/1369815832-500.jpg" data-tags="progressive metal, sludge metal, sludge" role="button">
 Baroness - Red Album (2007-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/48479a6c-734a-4adc-ac78-cecfa94ca894/11089774828-500.jpg" data-tags="psychedelic, stoner metal" role="button">
-Om - Pilgrimage (2007-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/8fffbe1c-8210-4042-ae95-9c3251bef3c2/20361901512-500.jpg" data-tags="stoner metal" role="button">
 High on Fire - Death Is This Communion (2007-09-18)
 </li>
@@ -209,6 +203,9 @@ Black Pyramid - Black Pyramid (2008-04-14)
 </li>
 <li data-cover="https://img.discogs.com/LU3-gs1JtwQ_WWgq5Cac_-nwwEc=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435966-1223858516.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
 Ufomammut - Idolum (2008-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b41ff0c-685f-44c0-8186-f850ed1f205b/17479473234-500.jpg" data-tags="stoner metal" role="button">
+Bison B.C. - Quiet Earth (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
@@ -299,6 +296,9 @@ Om - Advaitic Songs (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/e84643d8-f1ff-4014-9a57-406f1e5a09ae/15648466032-500.jpg" data-tags="stoner metal" role="button">
 The Sword - Apocryphon (2012-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/a1008433-df97-44b6-b91b-daebf2fc180c/19903307970-500.jpg" data-tags="stoner rock" role="button">
+Karma to Burn - Karma to Burn (2013-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/96a359ac-6bb0-4f15-a2d6-9657bbc7b9b6/7420819394-500.jpg" data-tags="stoner rock, alternative rock" role="button">
 Queens of the Stone Age - ...Like Clockwork (2013-05-31)

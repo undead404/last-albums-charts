@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:53:01.380Z
+date: 2021-04-09T20:35:01.411Z
 title: "brutal death metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -89,6 +89,9 @@ Uncle Kracker - No Stranger to Shame (2002-09-24)
 </li>
 <li data-cover="https://img.discogs.com/Hj6SqOwU4svfM1D0YtDtOzLgmtk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877031-1168212023.jpeg.jpg" data-tags="death metal" role="button">
 Vital Remains - Dechristianize (2003-08-22)
+</li>
+<li data-cover="https://img.discogs.com/kRTwgg6_Rxvi2OX0zN3C84_0IFo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1908255-1366974603-3379.jpeg.jpg" data-tags="death metal" role="button">
+Deicide - Scars Of The Crucifix (2004-02-23)
 </li>
 <li data-cover="https://img.discogs.com/72wAZhK1q-JdzsBdsvN6bOmBNw8=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5422392-1463330353-9026.jpeg.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - The Wretched Spawn (2004-02-24)
@@ -180,6 +183,9 @@ Origin - Antithesis (2008-04-01)
 <li data-cover="https://img.discogs.com/uZgs9jj576_KECHH_evgmUepUi4=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1854744-1248026135.jpeg.jpg" data-tags="death metal, brutal death metal" role="button">
 Aborted - Strychnine.213 (2008-06-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1210b0c-1980-4c4b-91fb-5a64866624e0/7530834969-500.jpg" data-tags="death metal" role="button">
+Bloodbath - The Fathomless Mastery (2008-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d4c5671-c5c6-4c3a-9021-a281d59fd79c/25357292169-500.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Evisceration Plague (2009-01-30)
 </li>
@@ -240,14 +246,14 @@ Fleshgod Apocalypse - Mafia (2010-06-10)
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/ecd6ede3-f62b-4300-99a4-39e872e818f5/20678725230-500.jpg" data-tags="brutal death metal, death metal" role="button">
+Cerebral Bore - Maniacal Miscreation (2010-08-01)
+</li>
 <li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Opus Eponymous (2010-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/7def45ac-4d40-43f8-a920-781519c2e437/5811606572-500.jpg" data-tags="hipster, not experimental, pop, japanese, female vocalists, anime, j-pop, not music, not gothic, amatue, emo, jpop, comedy, humour, gothic rock, symphonic metal, power metal, visual kei, brutal death metal, meme, spam, anison, folklore intellectuel, not darkwave, hentai, yaoi, hipsterish, pseudogoth, noise, heavy metal, metalcore, metal, dance, dark, easy listening" role="button">
-Chelsea Wolfe - The Grime and the Glow (2010-12-28)
 </li>
 <li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
 Lady Gaga - Judas (2011-04-15)
@@ -261,14 +267,14 @@ Black Veil Brides - Set the World on Fire (2011-06-14)
 <li data-cover="http://coverartarchive.org/release/5eacd540-3a94-4a00-8d15-e48807c42b64/10075100962-500.jpg" data-tags="technical death metal, death metal" role="button">
 Fleshgod Apocalypse - Agony (2011-08-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/079c00e9-a7bc-4f67-93d7-c1dc5f5b9a23/4617202756-500.jpg" data-tags="deathcore" role="button">
+Attila - Outlawed (2011-08-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
 </li>
 <li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/e640e4f9-5f16-42db-923f-88e4796b634e/8986117861-500.jpg" data-tags="pop, female vocalists, hipster, not experimental, japanese, emo, dance, easy listening, new age, schlager, jpop, comedy, humour, satanic, anime, j-rock, parody, j-pop, bdsm, porn, what, visual kei, brutal death metal, jrock, meme, bondage, bollocks, true metal, nazi, racist, govno, mierda, unoriginal, not music, manowar, weeaboo, chuck norris does not approve, anison, folklore intellectuel, lmao, worst song ever, caca, asian music, merda, no thanks, church of satan, asian pop, gowno, orgy, hentai, schwul, pitchforkcore" role="button">
-King Dude - Love (2011-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/743bd707-0b4f-41c7-b250-ea679c8ff623/10363069226-500.jpg" data-tags="brutal death metal, death metal" role="button">
 Abominable Putridity - The Anomalies of Artificial Origin (2012-02-28)
@@ -306,9 +312,6 @@ Attila - About That Life (2013-06-25)
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/125c1ac6-d02b-4a7f-9a0c-2f1334c84eff/8067874049-500.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
-Nicki Minaj - Anaconda (2014-08-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/479a71e8-54e5-4d6b-a728-c16790088282/9929378348-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - Black Veil Brides (2014-10-27)
 </li>
@@ -317,8 +320,5 @@ Bring Me the Horizon - Drown (2014-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/896c0f0f-4c7f-4359-96a6-d5c1e00627a2/8852141954-500.jpg" data-tags="female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, deathcore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay, metalcore, hair metal" role="button">
 Attila - Guilty Pleasure (2014-11-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
-Marissa Nadler - Before July: Demos & Unreleased Songs (2014-12-01)
 </li>
 </ol>

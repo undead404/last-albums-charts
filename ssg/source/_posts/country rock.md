@@ -1,18 +1,18 @@
 ---
-date: 2021-04-07T10:44:06.997Z
+date: 2021-04-09T19:49:01.420Z
 title: "country rock: 100 albums you must listen to before you die"
 ---
 ![Neil Young - Harvest (1972-02-14)](http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg "Neil Young - Harvest (1972-02-14)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/u2dCLbA4lOz-HHMgpLi9vie8LGg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6288657-1479653428-1856.jpeg.jpg" data-tags="country rock" role="button">The Byrds - Sweetheart Of The Rodeo (1968-08-30)</li>
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">Neil Young - Harvest (1972-02-14)</li>
+<li data-cover="http://coverartarchive.org/release/73202182-0816-41b6-b80e-b70620efe7e4/5206312874-500.jpg" data-tags="70s, country rock, classic rock, rock, hard rock, folk rock" role="button">Eagles - One of These Nights (1975-06-10)</li>
 <li data-cover="https://img.discogs.com/bZPTxUo3Se8qc2Yp9QZ4soZzwv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2048758-1325277265.jpeg.jpg" data-tags="classic rock, 70s" role="button">Eagles - Hotel California (1976)</li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">Tom Petty - Wildflowers (1994-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">Shania Twain - Come on Over (1997-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">Ryan Adams & The Cardinals - Cold Roses (2005-05-02)</li>
 <li data-cover="http://coverartarchive.org/release/91b48d70-bce1-4806-880c-a2b1488ac877/2663859177-500.jpg" data-tags="country, country rock" role="button">Jason Aldean - My Kinda Party (2010-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
-<li data-cover="http://coverartarchive.org/release/54ae2614-7ddb-4c11-b251-231929556b55/4911466037-500.jpg" data-tags="blues" role="button">John Mayer - Paradise Valley (2013-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/b5139eff-0ce6-428e-a96f-6653a68af7a2/8249629063-500.jpg" data-tags="alternative rock, blues rock, rock, garage rock" role="button">Jack White - Lazaretto (2014-06-06)</li>
 </ol>
 List of 100 - under the cut.
@@ -26,12 +26,6 @@ The Band - Music From Big Pink (1968-07-01)
 </li>
 <li data-cover="https://img.discogs.com/u2dCLbA4lOz-HHMgpLi9vie8LGg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6288657-1479653428-1856.jpeg.jpg" data-tags="country rock" role="button">
 The Byrds - Sweetheart Of The Rodeo (1968-08-30)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="country, country rock" role="button">
-The Flying Burrito Brothers - The Gilded Palace Of Sin (1969-02)
-</li>
-<li data-cover="https://img.discogs.com/KOr_SXhbsBIbniOjBMA6zRIHPpw=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3886888-1608796388-7219.jpeg.jpg" data-tags="country, 60s" role="button">
-Bob Dylan - Nashville Skyline (1969-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b089cd4-24de-430b-bcdb-5f3485c7a9e7/8749872309-500.jpg" data-tags="southern rock, classic rock, 60s" role="button">
 Creedence Clearwater Revival - Green River (1969-08-03)
@@ -75,12 +69,6 @@ Link Wray - Link Wray (1971)
 <li data-cover="https://img.discogs.com/1aU5XamsS6vJn7ytrsAh_dZO7Qo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1007163-1274470698.jpeg.jpg" data-tags="country rock" role="button">
 New Riders Of The Purple Sage - New Riders Of The Purple Sage (1971)
 </li>
-<li data-cover="http://coverartarchive.org/release/59076647-45d4-4253-9cb6-e9efcde98e2d/26593508362-500.jpg" data-tags="british" role="button">
-Graham Nash - Songs for Beginners (1971)
-</li>
-<li data-cover="https://img.discogs.com/G78udCeTNdL0tClKNxlPU-iXy6U=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1629745-1309924690.jpeg.jpg" data-tags="70s, folk rock" role="button">
-David Crosby - If I Could Only Remember My Name (1971-02-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/317f9fad-4334-4f09-941c-d06a7775431c/26289919721-500.jpg" data-tags="special" role="button">
 Creedence Clearwater Revival - Creedence Gold (1972)
 </li>
@@ -99,20 +87,14 @@ Eagles - Desperado (1973-04-17)
 <li data-cover="https://img.discogs.com/qJq-j_vLsSPn81CJE6s7dJid1rg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2114910-1286191109.jpeg.jpg" data-tags="soundtrack, folk" role="button">
 Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/c23de1c0-9fe7-4d49-8eef-053f02bb5f97/27361541152-500.jpg" data-tags="60s, classic rock" role="button">
-Buffalo Springfield - Buffalo Springfield (1973-11-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/485fc05b-cc72-49f9-b0a4-33d14361f5e8/23186764404-500.jpg" data-tags="country, americana, country rock" role="button">
-Gram Parsons - Grievous Angel (1974-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/a08df3b1-e894-4ce4-88df-746e64ac0f36/8069694850-500.jpg" data-tags="country rock, hard rock, folk rock, rock" role="button">
 Eagles - On the Border (1974-03-22)
 </li>
+<li data-cover="https://img.discogs.com/Sf_Z0zjD2K1A4FDIphXDYeQwmaM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378818-1342734604-4164.jpeg.jpg" data-tags="70s" role="button">
+Grateful Dead - From the Mars Hotel (1974-06-27)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/28c03324-af63-4582-8b83-c60d497591e4/23186541959-500.jpg" data-tags="70s, psychedelic" role="button">
-Gene Clark - No Other (1974-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/73202182-0816-41b6-b80e-b70620efe7e4/5206312874-500.jpg" data-tags="70s, country rock, classic rock, rock, hard rock, folk rock" role="button">
 Eagles - One of These Nights (1975-06-10)
@@ -126,25 +108,28 @@ Gram Parsons - Sleepless Nights (1976)
 <li data-cover="http://coverartarchive.org/release/115489f7-b1f2-4767-9691-497cb2b8c493/11090136805-500.jpg" data-tags="rock, raul seixas" role="button">
 Raul Seixas - Há 10 Mil Anos Atrás (1976-01-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/48ee75f3-8f1f-3a5a-b246-62395d49150c/21214070885-500.jpg" data-tags="singer-songwriter, 70s, folk rock" role="button">
-Neil Young - American Stars 'n Bars (1977)
-</li>
 <li data-cover="http://coverartarchive.org/release/b6659a64-1110-49dd-a2b0-a9186a8a4ea2/2532765137-500.jpg" data-tags="classic rock, country rock" role="button">
 Eagles - The Long Run (1979-09-24)
 </li>
-<li data-cover="https://img.discogs.com/-ueF9EwG3tMhW0HxRbb2lYnRSpk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-411894-1292550484.jpeg.jpg" data-tags="alternative rock, cowpunk" role="button">
+<li data-cover="https://img.discogs.com/d6jhHQZObjme618RaXt_xguYGFY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13137409-1610737238-1794.png.jpg" data-tags="alternative rock, cowpunk" role="button">
 Meat Puppets - Meat Puppets II (1984-04)
 </li>
 <li data-cover="https://img.discogs.com/12XinCrK1-ERBM5rie8bnGzRqO4=/fit-in/593x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892381-1169932845.jpeg.jpg" data-tags="country rock, classic rock, rock" role="button">
 The Georgia Satellites - Georgia Satellites (1986)
 </li>
-<li data-cover="https://img.discogs.com/sdgzbYQzbuCAIiU0I61rPrZWhKc=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3869014-1352510156-5134.jpeg.jpg" data-tags="alt-country" role="button">
+<li data-cover="https://img.discogs.com/suq3IxcjtFIdegVNCFooUaJu26w=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597651-1369585841-4715.jpeg.jpg" data-tags="alt-country" role="button">
 Steve Earle - Guitar Town (1986-03-05)
 </li>
 <li data-cover="https://img.discogs.com/Leqx3yU5iZllLDbrJPL3OcEFjQ4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878669-1548227195-2232.jpeg.jpg" data-tags="alt-country, country rock" role="button">
 Steve Earle - Copperhead Road (1988)
 </li>
-<li data-cover="https://img.discogs.com/C2cd7Hm-5QnTnoo12qw7YjMwD5w=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4172671-1409236226-1566.jpeg.jpg" data-tags="classic rock, rock, pop rock, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, chameleon, proto punk, rock-protopunk, flashback alternatives" role="button">
+<li data-cover="http://coverartarchive.org/release/3c37198e-c871-461a-8a84-5415f5ee185d/15288262729-500.jpg" data-tags="rock" role="button">
+R.E.M. - Eponymous (1988-10-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec5b0fbf-aa84-4538-9bb7-ae14e54f7e46/4464452202-500.jpg" data-tags="alt-country" role="button">
+Cowboy Junkies - The Trinity Session (1988-11-15)
+</li>
+<li data-cover="https://img.discogs.com/PgescH_NbCDmXQaNS1BL9I6ulo8=/fit-in/194x259/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8597939-1489266075-7765.jpeg.jpg" data-tags="classic rock, rock, pop rock, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, chameleon, proto punk, rock-protopunk, flashback alternatives" role="button">
 Nick Lowe - Basher: The Best of Nick Lowe (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
@@ -207,11 +192,20 @@ Shania Twain - Come on Over (1997-11-04)
 <li data-cover="http://coverartarchive.org/release/d2658fda-efec-4b26-b07e-c9cec0887f37/26645577491-500.jpg" data-tags="country, country rock, countryalbum" role="button">
 Joe Diffie - Greatest Hits (1998-06-09)
 </li>
+<li data-cover="https://img.discogs.com/0kmYGwSSSxRsDnz89HiCzXcF_60=/fit-in/400x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1178124-1198605880.jpeg.jpg" data-tags="rock, female vocalists, 90s, sheryl crow" role="button">
+Sheryl Crow - The Globe Sessions (1998-09-18)
+</li>
 <li data-cover="https://img.discogs.com/wCe-9BW4YHDxpkpHGgBCr1TOtwU=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810448-1200057793.jpeg.jpg" data-tags="indie, folk" role="button">
 My Morning Jacket - The Tennessee Fire (1999-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/021cbe1a-bfe3-44bf-baa6-520efeeadca6/21779464225-500.jpg" data-tags="country rock" role="button">
 Little Big Town - Little Big Town (2002-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/e925b1ed-682a-4202-81af-96cc6cd36618/26487885894-500.jpg" data-tags="country, alt-country, country rock, red dirt" role="button">
+Cross Canadian Ragweed - Cross Canadian Ragweed (2002-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/8a269305-3699-4bfb-8889-1482b99b9d50/10665995130-500.jpg" data-tags="indie rock, indie, indie pop, canadian, 00s" role="button">
+The New Pornographers - Electric Version (2003-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5461436-2551-3baf-a11b-bd66b91b44c5/1671204614-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Kings of Leon - Youth & Young Manhood (2003-07-23)
@@ -228,11 +222,17 @@ Eagles - Eagles (2005-03-15)
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
 </li>
+<li data-cover="https://img.discogs.com/Y_i8eZruQmDV7g4ZC5cZTT80zCI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503345-1426119276-6042.jpeg.jpg" data-tags="alternative rock, garage rock" role="button">
+The White Stripes - Blue Orchid (2005-05-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
 Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
 Ryan Adams - 29 (2005-12-20)
+</li>
+<li data-cover="https://img.discogs.com/mqS4fh_Oy0kqE6lDEoRbzMnr-rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2891642-1305964033.jpeg.jpg" data-tags="bluegrass" role="button">
+Railroad Earth - Elko (2006-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e461da2-55e8-4914-a2a9-fb8262bf3c81/8361384720-500.jpg" data-tags="southern rock, country rock, da fazenda" role="button">
 Shooter Jennings - Electric Rodeo (2006-04-04)
@@ -264,10 +264,7 @@ Sun Kil Moon - April (2008-04-01)
 <li data-cover="https://img.discogs.com/h1itfeWU0QJyRCfDd0zIoXGw99I=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1364633-1217200579.jpeg.jpg" data-tags="00s, indie rock" role="button">
 My Morning Jacket - Evil Urges (2008-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d3aa863-b420-4e4b-a8ea-0868c80fc60d/6438594786-500.jpg" data-tags="folk rock" role="button">
-Conor Oberst - Conor Oberst (2008-08-01)
-</li>
-<li data-cover="https://img.discogs.com/2oNj4r9_Xhj56cnndbBwL27MdBE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1800254-1244193637.jpeg.jpg" data-tags="folk" role="button">
+<li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
 Vetiver - Tight Knit (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/afd85101-c717-4d44-97ce-c533da9cc377/14920368979-500.jpg" data-tags="country" role="button">
@@ -288,6 +285,9 @@ Bruce Springsteen - Nebraska (2010-08-13)
 <li data-cover="http://coverartarchive.org/release/91b48d70-bce1-4806-880c-a2b1488ac877/2663859177-500.jpg" data-tags="country, country rock" role="button">
 Jason Aldean - My Kinda Party (2010-11-02)
 </li>
+<li data-cover="https://img.discogs.com/Gf4RVp2c4r8FNelojVehN6PtPCs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17453950-1616725041-4291.jpeg.jpg" data-tags="country" role="button">
+Brad Paisley - This Is Country Music (2010-12-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
@@ -297,17 +297,17 @@ Hunter Hayes - Hunter Hayes (2011-10-07)
 <li data-cover="http://coverartarchive.org/release/08d68658-0834-4dea-9914-8146cf4b9907/15222093874-500.jpg" data-tags="rock" role="button">
 Jack White - Blunderbuss (2012-04-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee5f108b-107c-4e4d-970b-f6d544801301/7445076901-500.jpg" data-tags="country, country rock" role="button">
-Zac Brown Band - Uncaged (2012-07-03)
+<li data-cover="http://coverartarchive.org/release/56fa6205-806d-4ed2-a41e-c50f40191207/1337199100-500.jpg" data-tags="indie, indie rock, soft rock, psychedelic rock, country rock, sub pop, 10s, burger, soft rock revival" role="button">
+Beachwood Sparks - The Tarnished Gold (2012-06-26)
+</li>
+<li data-cover="https://img.discogs.com/CgHc93ICQl2tOGG2guJYiHcNFUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074743-1542287980-8027.jpeg.jpg" data-tags="bob dylan, folk rock" role="button">
+Bob Dylan - Tempest (2012-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9d2628e-5ab4-4dad-b587-46baee46317d/4308942357-500.jpg" data-tags="country, kkk country, racist country" role="button">
 Florida Georgia Line - Here's to the Good Times (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b624c2b6-a84a-46f5-b690-c923e3aed417/10229915468-500.jpg" data-tags="country" role="button">
 Darius Rucker - True Believers (2013-05-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/54ae2614-7ddb-4c11-b251-231929556b55/4911466037-500.jpg" data-tags="blues" role="button">
-John Mayer - Paradise Valley (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ada60215-dcf5-46b2-bf65-b27fda5424b0/13276770308-500.jpg" data-tags="folk" role="button">
 Bill Callahan - Dream River (2013-09-17)

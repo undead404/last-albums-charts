@@ -1,17 +1,17 @@
 ---
-date: 2021-04-07T05:47:01.421Z
+date: 2021-04-09T20:17:01.418Z
 title: "compilation: 100 albums you must listen to before you die"
 ---
 ![Madonna - Celebration (2009-09-18)](http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg "Madonna - Celebration (2009-09-18)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">The Smiths - Hatful of Hollow (1984-11-12)</li>
+<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">Pixies - Death to the Pixies (1997-10-06)</li>
+<li data-cover="https://img.discogs.com/_ImbZpiuLs-it2fFsLGkNKvTsXc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120264-1342496869-4292.jpeg.jpg" data-tags="rock, 80s" role="button">Genesis - Turn It on Again: The Hits (1999-10-22)</li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">Blur - Blur: The Best Of (2000-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">No Doubt - The Singles 1992-2003 (2003-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">The Cardigans - Best Of (2008-01-28)</li>
-<li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
 <li data-cover="http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg" data-tags="pop" role="button">Madonna - Celebration (2009-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
-<li data-cover="http://coverartarchive.org/release/9bcc6dd4-3edd-45ba-a7ab-08f67191036f/16645104299-500.jpg" data-tags="sade, soul, romantic" role="button">Sade - The Ultimate Collection (2011-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/1080fddb-aefa-413f-b5a1-11a945edd96a/20701467093-500.jpg" data-tags="rock, usa, compilation, alt rock, new york punk, 10s, female singer songwriter, compilation album, american musician, p smith" role="button">Patti Smith - Outside Society (2011-09-12)</li>
 <li data-cover="http://coverartarchive.org/release/5c80910d-2033-4ac3-bd56-898e9c3e4267/1340461051-500.jpg" data-tags="jazz, swing, compilation, frank sinatra, capitol records, the lizards lounge" role="button">Frank Sinatra - Sinatra: Best of the Best (2011-11-15)</li>
 </ol>
@@ -24,17 +24,20 @@ _________________
 <li data-cover="http://coverartarchive.org/release/5d9391fb-7d01-30c2-879f-7e21ca6daa7e/1636883977-500.jpg" data-tags="classic rock, 60s" role="button">
 The Rolling Stones - Big Hits (High Tide and Green Grass) (1966-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ca49d65-dcca-3618-9e56-7a66e45879a5/21476831933-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Bob Dylan - Bob Dylan's Greatest Hits (1967-03-27)
-</li>
-<li data-cover="https://img.discogs.com/Ov-HKWBtgTGF2CIxqVZN7aWFofs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13132616-1548618150-9001.jpeg.jpg" data-tags="classic rock, 60s, the rolling stones" role="button">
+<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="classic rock, 60s, the rolling stones" role="button">
 The Rolling Stones - Hot Rocks 1964-1971 (1971-12-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e5f8794-44dc-3e77-8344-481d97f7545e/5260506449-500.jpg" data-tags="classic rock, folk rock" role="button">
+Crosby, Stills, Nash & Young - So Far (1974-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/002e0056-22a5-45c6-9804-6e3eab21e660/1242995357-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Black Sabbath - We Sold Our Soul for Rock 'n' Roll (1975-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/761bc982-f445-4cc7-be4e-c71044debb01/13878419287-500.jpg" data-tags="classic rock" role="button">
 The Band - The Best of the Band (1976)
+</li>
+<li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
+Wings - Wings Greatest (1978-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/85cea2de-0bfe-3c30-9969-2e6afdb972f8/26893576823-500.jpg" data-tags="punk" role="button">
 Buzzcocks - Singles Going Steady (1979-09-25)
@@ -84,20 +87,20 @@ R.E.M. - Eponymous (1988-10-17)
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="classic rock, rock" role="button">
 David Bowie - ChangesBowie (1990-03-20)
 </li>
+<li data-cover="https://img.discogs.com/9bggwcwlt_JGfCck1JWPlZR4BTU=/fit-in/550x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5981301-1408001819-9735.jpeg.jpg" data-tags="vocal, pop, 60s, 70s, usa, american, oldies, harmony, compilation, west coast pop" role="button">
+The Mamas & the Papas - The Ultimate Collection (1991)
+</li>
 <li data-cover="https://img.discogs.com/oA0fRRGHqYwLEPTYGs3f7apMdXU=/fit-in/415x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-475493-1362068945-1555.jpeg.jpg" data-tags="heavy metal, metal, speed metal, compilation, power metal, pifou station, helloween" role="button">
 Helloween - The Best, the Rest, the Rare (1991-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a4297fd-96f0-4614-b428-1ed7872ad963/16216791116-500.jpg" data-tags="rock, 80s, alternative rock" role="button">
 R.E.M. - The Best Of R.E.M. (1991-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/94a88cc8-2ce3-4ca3-afd7-d2411844b122/18759016208-500.jpg" data-tags="classic rock, rock" role="button">
+Jimi Hendrix - The Ultimate Experience (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/b713ebf1-0911-4575-b989-88d6743f964f/26393009369-500.jpg" data-tags="uk, 90s, compilation, laptop, duets, male singer songwriter, albums i own on cd, english musician, duets ej" role="button">
-Elton John - Duets (1993-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/f9c5c09d-4c24-47de-bf43-c6ea218de29a/1637331973-500.jpg" data-tags="rock pop" role="button">
-Elton John - Rocket Man (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/05cfeb8d-ca81-40fc-a732-3e745bff281d/1755021500-500.jpg" data-tags="sting" role="button">
 Sting - Fields Of Gold - The Best Of Sting 1984 - 1994 (1994-11-07)
@@ -135,22 +138,22 @@ Pixies - Death to the Pixies (1997-10-06)
 <li data-cover="http://coverartarchive.org/release/e76632c4-4a9d-4d3d-9a2c-65b13fc6b3c6/9276766270-500.jpg" data-tags="60s, oldies" role="button">
 The Mamas & the Papas - Greatest Hits (1998-03-10)
 </li>
-<li data-cover="https://img.discogs.com/zA9u-uR2BTBZT0BdyyNeVLX5Ij4=/fit-in/426x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5270680-1397144507-1587.jpeg.jpg" data-tags="rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/_ImbZpiuLs-it2fFsLGkNKvTsXc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120264-1342496869-4292.jpeg.jpg" data-tags="rock, 80s" role="button">
 Genesis - Turn It on Again: The Hits (1999-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/deae19bf-fbbd-4e49-9324-7ab0ae2db342/15203666279-500.jpg" data-tags="hip hop, hip-hop" role="button">
+A Tribe Called Quest - The Anthology (1999-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/6218b7b4-62e3-4a46-a4d1-4d3cadbca7c9/19258054855-500.jpg" data-tags="stoner rock, compilation, virgin, cantor" role="button">
+Gomez - Abandoned Shopping Trolley Hotline (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1cf9c2a-306b-332c-b9d1-0089dd09fd09/8267282082-500.jpg" data-tags="stoner rock" role="button">
 Kyuss - Muchas Gracias: The Best of Kyuss (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/3647baa2-ca82-4df1-b760-b3486584b8ea/3082033572-500.jpg" data-tags="soul" role="button">
-Bill Withers - The Best Of Bill Withers: Lean On Me (2000-05-30)
-</li>
 <li data-cover="https://img.discogs.com/BNPK4_Ne6b4KcwnpPc1LVSrUNmc=/fit-in/440x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2790057-1308314541.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur: The Best Of (2000-10-23)
 </li>
-<li data-cover="https://img.discogs.com/dCbDgiMYsVT0ek_VR4V9g2W4pCE=/fit-in/600x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4329123-1410622881-2217.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
-Bob Dylan - The Essential Bob Dylan (2000-10-31)
-</li>
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd122cb7-b77a-425e-9437-b3352927a32f/21699355686-500.jpg" data-tags="80s" role="button">
@@ -159,17 +162,17 @@ Queen - The Platinum Collection (2000-11-13)
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)
 </li>
-<li data-cover="https://img.discogs.com/_qEK7EyniShwF1YHueLUb8JW6ck=/fit-in/600x683/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5770246-1579941830-3015.jpeg.jpg" data-tags="folk, female vocalists" role="button">
-Tracy Chapman - Collection (2001-09-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/00d3fb06-bb1c-4f92-b7b6-13b08afe7b89/12241150919-500.jpg" data-tags="indie rock, indie" role="button">
-Modest Mouse - Everywhere and His Nasty Parlour Tricks (2001-09-25)
-</li>
-<li data-cover="https://img.discogs.com/a4WowObd4vd3PIEXg6pLKdCeNUw=/fit-in/586x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10482713-1498366880-4149.jpeg.jpg" data-tags="folk, classic rock" role="button">
-Don McLean - The Best of Don McLean (2001-10-15)
+<li data-cover="https://img.discogs.com/0q-kp50zBx_Bc9QxWgZ8YQUK6r4=/fit-in/583x514/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6850887-1427974206-7908.jpeg.jpg" data-tags="compilation, 00s, mylene farmer" role="button">
+Mylène Farmer - Les Mots (2001-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc3802fb-b98b-4fe2-8709-c09700dd2483/20718037945-500.jpg" data-tags="pop, rock, female vocalists" role="button">
 Blondie - Greatest Hits (2002-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6050473-005e-43c4-a92b-2b5a19e3d85b/27487453451-500.jpg" data-tags="leonard cohen" role="button">
+Leonard Cohen - The Essential Leonard Cohen (2002-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/15e5e346-666b-47d6-950b-d71f49ba6c7d/28137644101-500.jpg" data-tags="60s, usa, oldies, compilation, 00s, rock pop, american group" role="button">
+Three Dog Night - The Collection (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e047053-4405-3566-9960-9633955062fa/16740713365-500.jpg" data-tags="hip hop" role="button">
 Fugees - Greatest Hits (2003-03-25)
@@ -180,11 +183,14 @@ Suede - Singles (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/5124e004-5d4d-32ec-8c0a-c6ad1e9da84e/8780110827-500.jpg" data-tags="alternative" role="button">
 No Doubt - The Singles 1992-2003 (2003-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c1a6b17-0dfc-3b58-bf41-3d60a76ab3b4/5607211411-500.jpg" data-tags="rock" role="button">
-Bruce Springsteen - The Essential Bruce Springsteen (2003-11-11)
+<li data-cover="https://img.discogs.com/pnllg9lV1ZIO0lR7tBy4x9mtFro=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8829013-1469641555-8927.jpeg.jpg" data-tags="2003" role="button">
+Primal Scream - Dirty Hits (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
 Damien Rice - B-Sides (2004-08-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/02836c6d-9de4-4183-91ac-cb12ef36aeba/21476872343-500.jpg" data-tags="british, pop, blue" role="button">
+Blue - Best of Blue (2004-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dc2f627-b12e-4a0b-9775-f88de9881061/18183886570-500.jpg" data-tags="rock, classic rock" role="button">
 Neil Young - Greatest Hits (2004-11-16)
@@ -206,9 +212,6 @@ Public Enemy - Power To The People And The Beats: Public Enemy's Greatest Hits (
 </li>
 <li data-cover="http://coverartarchive.org/release/177fcfee-525a-46c6-9c58-d6a82cf9cc8d/14885026677-500.jpg" data-tags="rnb" role="button">
 Destiny's Child - #1's (2005-10-24)
-</li>
-<li data-cover="https://img.discogs.com/ST9KW2ZxU6UQkbvAd0tmQkWjtsg=/fit-in/541x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8894620-1470968847-7555.jpeg.jpg" data-tags="hip-hop" role="button">
-Beastie Boys - Solid Gold Hits (2005-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2b358e9-7008-31b2-9983-06ddf5714a24/5901913185-500.jpg" data-tags="new wave" role="button">
 Eurythmics - Ultimate Collection (2005-11-04)
@@ -237,14 +240,14 @@ Spice Girls - Greatest Hits (2007-11-09)
 <li data-cover="http://coverartarchive.org/release/65dd730e-e124-4b95-9e54-55640b24b8cc/4889498679-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Lost Songs (2007-11-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/4d66a821-481a-4abd-b56b-de6f123f6b64/17263278835-500.jpg" data-tags="spanish, folk, compilation, alternative pop, latin pop, mexican, accordion" role="button">
+Julieta Venegas - Realmente Lo Mejor (2007-12-18)
+</li>
 <li data-cover="https://img.discogs.com/a8-rnlP1hyWgyz2lFT3xzeChCvY=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9238583-1477167057-8071.jpeg.jpg" data-tags="alternative rock" role="button">
 Eels - Meet the Eels: Essential Eels 1996-2006 Vol. 1 (2008-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd93f05-9b1c-4067-834a-6ec21c45c423/21284411880-500.jpg" data-tags="swedish, album favorito" role="button">
 The Cardigans - Best Of (2008-01-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
-The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/331f1816-7da8-4f89-a08e-4e8f76f81762/6412819789-500.jpg" data-tags="female vocalists" role="button">
 Kelis - The Hits (2008-03-03)
@@ -255,14 +258,14 @@ The Chemical Brothers - Brotherhood (2008-07)
 <li data-cover="https://img.discogs.com/jqTRiSLDBR0iVbK5KvUh6sso1B8=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464028-1221668651.jpeg.jpg" data-tags="indie rock, compilation, 00s, greatest hits, try before i buy, 200 great albums owned by sideflower, deltasonic records, boughtlist2011" role="button">
 The Coral - Singles Collection (2008-09-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/855c5bbc-a7f7-4544-b933-74b6a26aa742/5891861087-500.jpg" data-tags="pop" role="button">
+Christina Aguilera - Keeps Gettin' Better: A Decade of Hits (2008-11-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/a7810c6e-807d-479a-a3f0-d4bb3176d10b/5947105379-500.jpg" data-tags="alternative rock" role="button">
 The Smiths - The Sound of The Smiths (2008-11-07)
 </li>
 <li data-cover="https://img.discogs.com/Hh8GeaoGU-x-Qcyc7hAzjm52Dqw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2975468-1309976653.jpeg.jpg" data-tags="svenskt, compilation, 00s, laptop, se, swedish group, swedish jazzy pop" role="button">
 Bo Kaspers Orkester - Samling (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4fecd16-23f7-4bfd-820d-dd1cdbf4e3b2/11705174738-500.jpg" data-tags="rock, classic rock" role="button">
-Bruce Springsteen & The E Street Band - Greatest Hits (2009-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/82cbe67a-c4db-4f5b-834a-9224e2ced208/9461785430-500.jpg" data-tags="pop, female vocalists, rock, 90s, 00s" role="button">
 Annie Lennox - The Annie Lennox Collection (2009-02-17)
@@ -273,20 +276,17 @@ Madonna - Celebration (2009-09-18)
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/2IIK8qOIU4JM6j4oSC2Fhkfej9s=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-856907-1186603009.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, volatile, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
-Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)
-</li>
 <li data-cover="https://img.discogs.com/iBChasnJz7Yph41jWMq394G2ewo=/fit-in/600x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952837-1591705176-2117.jpeg.jpg" data-tags="compilation, rock n roll, greatest hits" role="button">
 Joan Jett and the Blackhearts - Greatest Hits (2010-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/311ab662-8c46-4b86-8ac8-d1b321c74e9a/4033343947-500.jpg" data-tags="new wave, compilation, 10s, boy band, norwegian group, boughtlist2011" role="button">
+a-ha - 25 (2010-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a02dd53-da90-464d-a1d6-08c45865eee7/10143368856-500.jpg" data-tags="canadian, pop" role="button">
 Nelly Furtado - The Best of Nelly Furtado (2010-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/06b7d792-5f27-422a-beca-a96dc7636479/15749059087-500.jpg" data-tags="easy listening" role="button">
 The Ronettes - Be My Baby: The Very Best of The Ronettes (2011-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/9bcc6dd4-3edd-45ba-a7ab-08f67191036f/16645104299-500.jpg" data-tags="sade, soul, romantic" role="button">
-Sade - The Ultimate Collection (2011-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1080fddb-aefa-413f-b5a1-11a945edd96a/20701467093-500.jpg" data-tags="rock, usa, compilation, alt rock, new york punk, 10s, female singer songwriter, compilation album, american musician, p smith" role="button">
 Patti Smith - Outside Society (2011-09-12)
@@ -309,14 +309,14 @@ Frank Sinatra - Sinatra: Best of the Best (2011-11-15)
 <li data-cover="http://coverartarchive.org/release/48924fb0-54fc-4dff-a242-e5bcbe4ceba9/8458484651-500.jpg" data-tags="pop, female vocalists" role="button">
 Kylie Minogue - The Best of Kylie Minogue (2012-05-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, greatest hits, collection" role="button">
+<li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
+Rodriguez - Searching for Sugar Man (2012-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/0bdfa7be-f306-4173-bf97-edb990625870/2651900704-500.jpg" data-tags="pop, rock, female vocalists, power pop, xenomania, collection" role="button">
 Girls Aloud - Ten (2012-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4794a5e-08ea-4290-bb21-846dce6e72dc/6479390642-500.jpg" data-tags="soul, female vocalists, compilation" role="button">
 Aretha Franklin - The Queen of Soul (2014-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/f68f2ab8-0b11-48d2-9de0-04b22ddf8036/6789254424-500.jpg" data-tags="alternative rock, emo" role="button">
-My Chemical Romance - May Death Never Stop You (2014-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e28942e-51d2-48bd-8ef0-3c9d80af4b2f/8893849827-500.jpg" data-tags="pop, country, usa, compilation, 10s, female singer songwriter, american musician" role="button">
 Carrie Underwood - Greatest Hits: Decade #1 (2014-12-09)

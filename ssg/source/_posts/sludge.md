@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T18:25:01.356Z
+date: 2021-04-09T20:02:01.424Z
 title: "sludge: 100 albums you must listen to before you die"
 ---
 ![Isis - In the Absence of Truth (2006-10-06)](http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg "Isis - In the Absence of Truth (2006-10-06)")
@@ -66,7 +66,7 @@ Down - NOLA (1995-09-15)
 <li data-cover="http://coverartarchive.org/release/72e57b50-67a3-4689-ac55-342e4341f697/19427677722-500.jpg" data-tags="sludge, sludge metal" role="button">
 Eyehategod - Dopesick (1996)
 </li>
-<li data-cover="https://img.discogs.com/y2olKQ62QYPn5PGJ_EhdS33EkWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097273-1191794769.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
+<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
 Sleep - Jerusalem (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/867a9c66-d738-3857-b967-62b9367970fc/7697193187-500.jpg" data-tags="post-metal, sludge, sludge metal" role="button">
@@ -77,6 +77,9 @@ Crowbar - Broken Glass (1996-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4512ec2a-f833-4be5-85d3-b2007639bcef/5651025580-500.jpg" data-tags="sludge" role="button">
 Acid Bath - Paegan Terrorism Tactics (1996-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ea95ca2-ca78-4daf-b064-a3a230569977/19400274429-500.jpg" data-tags="sludge metal" role="button">
+Crowbar - Odd Fellows Rest (1998-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/62965196-d2ef-4200-92f3-6e67dad070cd/3847276873-500.jpg" data-tags="drone, doom metal" role="button">
 Boris - Amplifier Worship (1998-11-25)
@@ -117,6 +120,9 @@ Crowbar - Sonic Excess in Its Purest Form (2001-08-21)
 <li data-cover="http://coverartarchive.org/release/649d1c49-3018-4a0b-b0cc-3ed64c39e373/7741304161-500.jpg" data-tags="sludge, doom metal" role="button">
 Cult of Luna - The Beyond (2002)
 </li>
+<li data-cover="http://coverartarchive.org/release/458a88e3-a2d8-49e3-94fa-e25f3b6ca5cf/19939671912-500.jpg" data-tags="sludge metal, sludge" role="button">
+Kylesa - Kylesa (2002-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/e41d013a-b455-4359-84c5-c14b6112bba8/28540264236-500.jpg" data-tags="post-metal, sludge" role="button">
 Isis - Oceanic (2002-09-13)
 </li>
@@ -138,7 +144,7 @@ Neurosis - The Eye of Every Storm (2004-06-23)
 <li data-cover="http://coverartarchive.org/release/da2e11bc-924b-420e-8c94-395a68660cb6/4746584081-500.jpg" data-tags="sludge" role="button">
 Old Man Gloom - Christmas (2004-08-24)
 </li>
-<li data-cover="https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">
 Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="https://img.discogs.com/cRuOXBvTzWZ1NiZrgHh2fWOA-rQ=/fit-in/300x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2795498-1301372915.jpeg.jpg" data-tags="sludge, post-metal" role="button">
@@ -149,9 +155,6 @@ Isis - Panopticon (2004-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c5fe4ad-f3a2-4b2e-b781-df50f524887b/25736837933-500.jpg" data-tags="doom, sludge, stoner metal" role="button">
 YOB - The Illusion Of Motion (2004-11-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b091bcd-f336-3381-a7c3-8783dff901d7/2536665650-500.jpg" data-tags="shoegaze, sludge" role="button">
-Jesu - Jesu (2004-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa271836-6784-4555-bc47-c2fa305c260e/25038392608-500.jpg" data-tags="post-metal, sludge" role="button">
 Amenra - Mass III (2005-05)
@@ -203,9 +206,6 @@ Jesu - Conqueror (2007-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/248fe464-fbd4-4710-90ef-5d3fefa4b9c8/27407104772-500.jpg" data-tags="doom metal, sludge, sludge metal" role="button">
 Rwake - Voices of Omens (2007-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/22ca7584-557d-44a1-acb0-5b5d3fe79ea9/8924189570-500.jpg" data-tags="stoner rock, sludge" role="button">
-Big Business - Here Come the Waterworks (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dcdef43-6ca6-45b8-90f9-9eefe8e038d0/16157041487-500.jpg" data-tags="post-rock" role="button">
 Pelican - City of Echoes (2007-04-27)
@@ -279,7 +279,7 @@ Rosetta - A Determinism of Morality (2010-05-25)
 <li data-cover="https://img.discogs.com/4eXy0sIWpoRa_oCXpu44OiNqI74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2414844-1562770547-1307.jpeg.jpg" data-tags="sludge, doom metal, doom" role="button">
 Bongripper - Satan Worshipping Doom (2010-08-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hardcore" role="button">
+<li data-cover="https://img.discogs.com/B_myDAaZe2IV_hWhJ4BJZtnRuyQ=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2668637-1295789080.jpeg.jpg" data-tags="hardcore" role="button">
 The Throne - fig.2 (2010-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/05188f1d-652b-49d0-afb8-7b1d356c6b77/6036245193-500.jpg" data-tags="stoner metal, sludge, sludge metal" role="button">

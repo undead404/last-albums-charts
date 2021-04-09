@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T00:35:01.447Z
+date: 2021-04-09T19:55:01.428Z
 title: "atmospheric: 100 albums you must listen to before you die"
 ---
 ![Bat for Lashes - Two Suns (2009-04-03)](http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg "Bat for Lashes - Two Suns (2009-04-03)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/5da3d47c-29d6-3269-8ce8-df4668a737a9/9153707030-500.jpg" data-tags="electronic, new age, krautrock, space" role="button">
+Tangerine Dream - Alpha Centauri (1971-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/edb5b432-6f54-41e5-af58-07d31668ef3a/11436345573-500.jpg" data-tags="ambient" role="button">
 Brian Eno - Another Green World (1975-09)
 </li>
@@ -39,14 +42,11 @@ The Alan Parsons Project - Eye In The Sky (1982-06)
 <li data-cover="http://coverartarchive.org/release/1134c9a9-18eb-4930-933a-48bd0c1f0d57/22276388543-500.jpg" data-tags="jazz, 90s, low rock" role="button">
 Morphine - Cure for Pain (1994-01-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/71e9d706-2ca4-4dc9-a0f7-bef5b9bf27aa/20863233971-500.jpg" data-tags="female vocalists, dream pop, shoegaze" role="button">
-Cranes - Loved (1994-09)
-</li>
 <li data-cover="https://img.discogs.com/mXmbUGbg8s-pnwDZnxsR5EARqq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950111-1433873709-1968.jpeg.jpg" data-tags="gothic metal, progressive metal, atmospheric metal" role="button">
 The Gathering - Mandylion (1995-08-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/e74a9244-b5b4-3f25-8526-f9fb31fe52f7/11004417052-500.jpg" data-tags="trip-hop" role="button">
-Hooverphonic - A New Stereophonic Sound Spectacular (1996)
+<li data-cover="http://coverartarchive.org/release/9bf29e42-a5c4-44fe-a3e0-29b11c2e8091/5877225471-500.jpg" data-tags="atmospheric black metal, epic black metal" role="button">
+Summoning - Minas Morgul (1995-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c399f8d5-43a8-3e1a-98b7-0a6a5bb6ea52/2153622469-500.jpg" data-tags="ambient, atmospheric, world music" role="button">
 Dead Can Dance - Spiritchaser (1996-06-03)
@@ -57,11 +57,11 @@ Anathema - Eternity (1996-11-11)
 <li data-cover="http://coverartarchive.org/release/127b9b29-4252-463b-9d9a-30b888c19867/9417557840-500.jpg" data-tags="electronic, synthpop, 90s" role="button">
 Depeche Mode - Ultra (1997-04-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/6009849109-500.jpg" data-tags="electronic, dream pop, indie, psychedelic, 90s" role="button">
-Broadcast - Work and Non Work (1997-06-09)
-</li>
 <li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
 The Gathering - Nighttime Birds (1997-06-21)
+</li>
+<li data-cover="https://img.discogs.com/Tz3ubFXklzAYwbotwKszDVk_VdY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3894170-1414403353-9098.jpeg.jpg" data-tags="progressive rock, atmospheric rock, alternative rock" role="button">
+The Gathering - How to Measure a Planet? (1998)
 </li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
@@ -75,9 +75,6 @@ Anathema - Judgement (1999-06-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
 Karunesh - Global Spirit (2000)
 </li>
-<li data-cover="https://img.discogs.com/Wb2clSHhJ4_ZOv69eP7kTPBiBOw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3194-1145339641.jpeg.jpg" data-tags="electronica, warp" role="button">
-Broadcast - The Noise Made by People (2000-03-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9c71b51-ad11-436e-b759-9f23c324433a/5128575556-500.jpg" data-tags="trip-hop, electronic" role="button">
 Goldfrapp - Felt Mountain (2000-09-11)
 </li>
@@ -87,14 +84,20 @@ Patrick O'Hearn - So Flows The Current (2001-01-15)
 <li data-cover="http://coverartarchive.org/release/9ce84e00-3708-4537-bac9-258ad1de8ca5/5962684753-500.jpg" data-tags="atmospheric" role="button">
 Telefon Tel Aviv - Immediate Action #8 (2002-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/c203d7cd-4d3c-4035-b6f0-a4e9c719515a/10899843201-500.jpg" data-tags="progressive" role="button">
+Vibrasphere - Lime Structure (2003-01-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/81505ed6-1ad0-4e45-8f48-662fecfa7a75/3816099541-500.jpg" data-tags="singer-songwriter, indie, female vocalists" role="button">
 Cat Power - You Are Free (2003-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ac17266-d341-4ea8-a17b-e3846dafa4a6/22951670337-500.jpg" data-tags="atmospheric, drum and bass, atmospheric drum and bass" role="button">
 Seba - Producer 06 (2003-02-24)
 </li>
-<li data-cover="https://img.discogs.com/ZYP7u8Cdiyb_l6A8RzzuJXEwME0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13895257-1566888387-1088.jpeg.jpg" data-tags="trip rock" role="button">
+<li data-cover="https://img.discogs.com/kZbKHltt8rCi4ejO0ObE-pv_rGQ=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5124938-1385167764-1030.jpeg.jpg" data-tags="trip rock" role="button">
 The Gathering - Souvenirs (2003-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
+The Cardigans - Long Gone Before Daylight (2003-03-24)
 </li>
 <li data-cover="https://img.discogs.com/yTJ2t-oOJApxEaVPxI_k-iuaL4E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5719220-1404862392-1331.jpeg.jpg" data-tags="ambient, darkwave, dark ambient" role="button">
 Antimatter - Lights Out (2003-06-28)
@@ -102,29 +105,23 @@ Antimatter - Lights Out (2003-06-28)
 <li data-cover="https://img.discogs.com/LShQc__qBHN_91LR5-Hs-Z24A24=/fit-in/488x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9404195-1479968090-3673.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - A Natural Disaster (2003-11-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
+TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc681229-1e2a-306d-b01c-c6f058f229bf/27655285092-500.jpg" data-tags="post-rock, instrumental" role="button">
 The Album Leaf - In A Safe Place (2004-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/f93f57ee-1901-4875-ab28-d764eed791a9/5375570311-500.jpg" data-tags="rock, new wave, 80s" role="button">
-Talking Heads - The Best of Talking Heads (2004-08-17)
+<li data-cover="http://coverartarchive.org/release/3d0bbe09-4ee7-4d54-a9aa-3acbad6b453d/2684791024-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
+Drudkh - Autumn Aurora (2004-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f1e0988-5fe2-4e4c-9a74-6b4136d451e3/1238392358-500.jpg" data-tags="ambient" role="button">
 Hammock - Kenotic (2005-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/df2e2fcb-444c-40cb-9a43-a0d7462f4aa7/23478128255-500.jpg" data-tags="alternative rock, ambient, alternative" role="button">
-Team Sleep - Team Sleep (2005-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg" data-tags="rock, alternative rock, jimmy eat world" role="button">
 Jimmy Eat World - Stay On My Side Tonight (2005-10-04)
 </li>
-<li data-cover="https://img.discogs.com/HdqR2t5Zyrn-jtdZKeihRDft8JM=/fit-in/600x628/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4471963-1481024097-5978.jpeg.jpg" data-tags="hip-hop" role="button">
-Beastie Boys - Solid Gold Hits (2005-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/eb71e741-6836-4803-8ef4-acf941a09cff/20604365596-500.jpg" data-tags="ambient, atmospheric" role="button">
 Rudy Adrian - MoonWater (2006)
-</li>
-<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
-The Knife - Silent Shout (2006-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb5e68da-bf42-32e6-ae35-29d99f931960/10083770849-500.jpg" data-tags="dubstep" role="button">
 Burial - Burial (2006-05-15)
@@ -138,8 +135,8 @@ Agalloch - Ashes Against the Grain (2006-08-08)
 <li data-cover="http://coverartarchive.org/release/be9453f4-23e8-46f1-863a-d3a63cdd6231/23498089082-500.jpg" data-tags="female vocalists, french" role="button">
 Charlotte Gainsbourg - 5:55 (2006-08-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/d7548fbc-8cac-41e9-a59c-d286696ace9e/2402661758-500.jpg" data-tags="usa underground" role="button">
-Pretty Lights - Taking Up Your Precious Time (2006-10-23)
+<li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
+Isis - In the Absence of Truth (2006-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5c64ec1-3271-4461-92ea-3727cdc71995/9811017072-500.jpg" data-tags="indie" role="button">
 Radical Face - Ghost (2007-03-02)
@@ -165,20 +162,14 @@ Agua de Annique - Air (2007-10-26)
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/0abc19a9-af51-41c5-88e3-0dd4a5f40ae8/27829592789-500.jpg" data-tags="00s" role="button">
-Atlas Sound - Let the Blind Lead Those Who Can See but Cannot Feel (2008-02-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/433c3cad-87a4-43e4-a569-c489d4d73ef9/5668592425-500.jpg" data-tags="ambient" role="button">
 Hammock - Maybe They Will Sing for Us Tomorrow (2008-05-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
-Spiritualized - Songs In A&E (2008-05-26)
-</li>
-<li data-cover="https://img.discogs.com/MzZG6cMrhBfOTkA7_fHYJur4-Fc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1666348-1235572725.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
-The Walkmen - You & Me (2008-07-29)
+<li data-cover="http://coverartarchive.org/release/56234df7-bdc5-4810-886e-585cd6df0069/15442716797-500.jpg" data-tags="indie rock, usa, atmospheric, 00s, library, female singer songwriter, inspires writing, favorite albums of all time, american musician, albums that make me sad i have to die some day" role="button">
+Aimee Mann - @#%&*! Smilers (2008-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
@@ -186,8 +177,8 @@ TV on the Radio - Dear Science (2008-09-22)
 <li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
 Chairlift - Does You Inspire You (2008-09-30)
 </li>
-<li data-cover="https://img.discogs.com/gLtasc4YdPfhI_cAO0cFnxYY834=/fit-in/514x441/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2190931-1328925033.jpeg.jpg" data-tags="indie, downtempo, idm" role="button">
-Jon Hopkins - Insides (2008-11-30)
+<li data-cover="https://img.discogs.com/FRIMWHjtAELVTwS6s3Fr6Zo1Cqo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1787758-1573510919-5647.jpeg.jpg" data-tags="synthpop, new romantic" role="button">
+Jonathan Johansson - En hand i himlen (2008-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e1423e4-7651-4fc3-a23a-c75ff6dd323e/6273197886-500.jpg" data-tags="electronic" role="button">
 Fever Ray - Fever Ray (2009-01-12)
@@ -195,14 +186,14 @@ Fever Ray - Fever Ray (2009-01-12)
 <li data-cover="http://coverartarchive.org/release/11b2eb6b-6ecb-4cfc-b814-8ebc80dccd88/9907441763-500.jpg" data-tags="folk, dark folk, neofolk" role="button">
 Wardruna - Runaljod - gap var Ginnunga (2009-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/c375731f-f692-46e8-bef2-227c4bd1b346/2094797722-500.jpg" data-tags="indie" role="button">
-Andrew Bird - Noble Beast (2009-01-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
+Isis - Wavering Radiant (2009-04-21)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
@@ -210,11 +201,11 @@ Bibio - Ambivalence Avenue (2009-06-22)
 <li data-cover="http://coverartarchive.org/release/899d5887-c30c-497d-9a41-fdb441da6689/5775098958-500.jpg" data-tags="ambient, post-rock, atmospheric" role="button">
 The American Dollar - Ambient One (2009-06-27)
 </li>
-<li data-cover="https://img.discogs.com/5fhYAthYMO7Zk-qhzSStks4MKHk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1890282-1250423172.jpeg.jpg" data-tags="electronic, electronica, trip-hop" role="button">
-Little Dragon - Machine Dreams (2009-08-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef5be90c-ca72-40f6-8c8e-1c2234a23af0/18894936661-500.jpg" data-tags="folk" role="button">
 A.A. Bondy - When The Devil's Loose (2009-08-31)
+</li>
+<li data-cover="https://img.discogs.com/j_4O07I17SUQYM7RRn5vXX_eEnI=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970873-1255853655.jpeg.jpg" data-tags="4ad" role="button">
+Atlas Sound - Logos (2009-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
@@ -222,14 +213,20 @@ Emancipator - safe in the steep cliffs (2010-01-19)
 <li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - There Is Love in You (2010-01-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/73cb81a8-45f3-45c9-9910-d01022478003/13518693256-500.jpg" data-tags="soul, rb, songwriter, atmospheric, xl recordings, wantlist, reviewed in the guardian, fell in love with this, comeback albums, gil scott  heron, pitchfork top 50 albums of 2010, 2010s in music, pitchfork best of 2010s" role="button">
+<li data-cover="http://coverartarchive.org/release/73cb81a8-45f3-45c9-9910-d01022478003/13518693256-500.jpg" data-tags="soul, songwriter, atmospheric, xl recordings, wantlist, fell in love with this, comeback albums, gil scott  heron, pitchfork top 50 albums of 2010, 2010s in music, pitchfork best of 2010s" role="button">
 Gil Scott-Heron - I'm New Here (2010-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/b43a420d-f4be-3e74-836f-a3732718c92b/1480049199-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
+Burzum - Belus (2010-03-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc6f7a05-e1c4-4039-9eb3-8c8ccd37e6b1/13919864002-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Radio Dept. - Clinging to a Scheme (2010-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/69596dea-bd9f-4b60-934d-0bd6d3228faa/4514717997-500.jpg" data-tags="atmospheric" role="button">
+Funki Porcini - On (2010-05-03)
 </li>
 <li data-cover="https://img.discogs.com/rgx_LaE42HPR02HbxLnSQxUTlT0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2945400-1308512603.jpeg.jpg" data-tags="rock" role="button">
 Emarosa - Emarosa (2010-06-29)
@@ -237,17 +234,14 @@ Emarosa - Emarosa (2010-06-29)
 <li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">
 The Walkmen - Lisbon (2010-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/cf117937-2317-43b8-8b20-ba9a045e3a12/15963313413-500.jpg" data-tags="experimental, psychedelic" role="button">
-Glasser - Ring (2010-09-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/d12fe86c-4e91-4b2f-98ca-c7045c195a3b/6735333223-500.jpg" data-tags="dream pop, experimental" role="button">
 Grimes - Halfaxa (2010-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
 </li>
-<li data-cover="https://img.discogs.com/eEjoMhcgltTeH8EZgIAfq1q7u6w=/fit-in/600x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2853128-1306707966.jpeg.jpg" data-tags="trip hop" role="button">
-Lamb - 5 (2011-05-05)
+<li data-cover="https://img.discogs.com/qWQhJl_xhrUaaf1cSl5sH06tQLE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2781491-1300839728.jpeg.jpg" data-tags="dubstep, electronic, ambient, atmospheric" role="button">
+Swarms - Old Raves End (2011-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
@@ -261,7 +255,7 @@ Of Monsters and Men - Into The Woods (2011-12-20)
 <li data-cover="http://coverartarchive.org/release/8cb682fd-5155-478f-9106-faadcab76731/1316089663-500.jpg" data-tags="shoegaze, dream pop" role="button">
 DIIV - Oshin (2012-01-30)
 </li>
-<li data-cover="https://img.discogs.com/tE5bWqemCMhdoP5NuzcHKOTgc4E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500269-1332885357.jpeg.jpg" data-tags="funk, atmospheric, late night, summer, afrobeat, freewheeling, earthy, fun, 10s, summery, nocturnal, international, afro-beat, pulsing, brash, hanging out, night driving, kinetic, collabs, brassy, small gathering, honest jons records, african traditions, self-titled album" role="button">
+<li data-cover="https://img.discogs.com/tE5bWqemCMhdoP5NuzcHKOTgc4E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500269-1332885357.jpeg.jpg" data-tags="funk, atmospheric, late night, summer, afrobeat, freewheeling, earthy, 10s, summery, nocturnal, international, afro-beat, pulsing, brash, hanging out, night driving, kinetic, collabs, brassy, small gathering, honest jons records, african traditions, self-titled album" role="button">
 Rocket Juice & The Moon - Rocket Juice & the Moon (2012-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b424996c-b0a7-4c6f-9d7c-561fc760640f/4101040746-500.jpg" data-tags="dreamy, dream pop" role="button">
@@ -270,11 +264,14 @@ Memoryhouse - The Slideshow Effect (2012-02-24)
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
-Chromatics - Kill for Love (2012-03-26)
+<li data-cover="http://coverartarchive.org/release/a770df1f-6401-41fe-b59c-e9a101062158/2987321136-500.jpg" data-tags="hip hop, soul, searching, atmospheric, late night, uncompromising, introspection, reflection, uplifting, cerebral, neo-soul, sub pop, sparse, solitude, alternative rap, rebellious, enigmatic, defiant, empowerment, experimental hip-hop, brash, street-smart, hanging out, knotty, scattered, left-field rap" role="button">
+THEESatisfaction - awE naturalE (2012-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
+</li>
+<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
+iamamiwhoami - kin (2012-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)
@@ -296,6 +293,9 @@ Autre Ne Veut - Anxiety (2013-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">
 Kurt Vile - Wakin On A Pretty Daze (2013-04-08)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="folk" role="button">
+Iron & Wine - Ghost On Ghost (2013-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0cdaedb7-00d5-4c7b-9d15-556a6fdc98e4/6003309054-500.jpg" data-tags="matador records" role="button">
 Majical Cloudz - Impersonator (2013-05-21)

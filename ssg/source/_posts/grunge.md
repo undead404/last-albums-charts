@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:22:01.448Z
+date: 2021-04-09T20:38:01.415Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -228,17 +228,14 @@ Pearl Jam - Binaural (2000-05-16)
 <li data-cover="https://img.discogs.com/zKrm-b4jrZ-oY-VyfDdSxcmDZ6A=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5449544-1595955921-2024.jpeg.jpg" data-tags="rock" role="button">
 Creed - Weathered (2001-01-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
+Staind - Break the Cycle (2001-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/37cc6812-0779-496a-b9d8-19fd69e4b2c5/15894085175-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Greatest Hits (2001-07-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/af4f3859-4d53-4ccc-95e1-b1b00c0b24cf/17960714653-500.jpg" data-tags="rock, alternative rock, grunge" role="button">
-Puddle of Mudd - Come Clean (2001-08-28)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Bush - Golden State (2001-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7c0f696-2917-4e85-abc4-2b3d599c4289/16956340178-500.jpg" data-tags="grunge, metal, hard rock" role="button">
-Seether - Disclaimer (2002-08-20)
 </li>
 <li data-cover="https://img.discogs.com/cgFX-8nmXkGyOZoCjG4tPTtprtg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854823-1304132381.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - One by One (2002-10-21)
@@ -273,6 +270,9 @@ Audioslave - Out of Exile (2005-05-23)
 <li data-cover="http://coverartarchive.org/release/05bcea44-73d4-4d78-979d-14f5a142816c/2279875362-500.jpg" data-tags="rock, hard rock" role="button">
 Seether - Karma & Effect (2005-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a9990ed-927d-4f18-873b-f36581b76ff1/11969582303-500.jpg" data-tags="grunge" role="button">
+Nirvana - Sliver: The Best of the Box (2005-10-31)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Pearl Jam - Pearl Jam (2006-04-28)
 </li>
@@ -281,6 +281,9 @@ Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a3a8867-9461-3ed3-b78a-47dfc939829d/26491153487-500.jpg" data-tags="rock, grunge" role="button">
 Chris Cornell - Carry On (2007-06-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab668641-56d1-34e8-9567-a85b02f09c3e/4686491134-500.jpg" data-tags="alternative rock" role="button">
+The Smashing Pumpkins - Zeitgeist (2007-07-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
@@ -296,9 +299,6 @@ Alice in Chains - Black Gives Way to Blue (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
-</li>
-<li data-cover="https://img.discogs.com/QKH3AeSqJU_uAnsRRO4RKtuXAVU=/fit-in/474x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2975849-1309990342.jpeg.jpg" data-tags="grunge, live" role="button">
-Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0653ea23-f0e6-4708-b090-d9afcb4ed7c2/23042689021-500.jpg" data-tags="grunge" role="button">
 Soundgarden - Telephantasm (2010-09-23)

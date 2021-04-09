@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T07:16:02.333Z
+date: 2021-04-09T19:59:01.429Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -50,6 +50,9 @@ ABBA - The Album (1977-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d8da8fd-8ce3-4557-bc7e-b51db42c524f/9616743526-500.jpg" data-tags="disco, 70s, funk" role="button">
 Cheryl Lynn - Cheryl Lynn (1978)
+</li>
+<li data-cover="https://img.discogs.com/YFJ2Dtm4pOC36B8aQH_rjgFmqv8=/fit-in/580x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87691-1238612710.jpeg.jpg" data-tags="disco" role="button">
+Sylvester - Step II (1978)
 </li>
 <li data-cover="https://img.discogs.com/Ybcefs5f55CMOZBix6qoKO-3vp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471954-1346960888-3621.jpeg.jpg" data-tags="disco, 70s" role="button">
 Boney M. - Nightflight to Venus (1978-06-26)
@@ -150,6 +153,9 @@ Bee Gees - One Night Only (1998-11-03)
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
+Jamiroquai - Synkronized (1999-06-07)
+</li>
 <li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Light Years (2000-09-22)
 </li>
@@ -171,17 +177,11 @@ Sophie Ellis-Bextor - Shoot from the Hip (2003-10-16)
 <li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">
 Scissor Sisters - Scissor Sisters (2004-02-02)
 </li>
-<li data-cover="https://img.discogs.com/zHQLnXE0nuYeoL6hPy7Ajw6KC-k=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-234644-1078925098.jpg.jpg" data-tags="disco, experimental, dance, avant-garde" role="button">
-Arthur Russell - Calling Out of Context (2004-02-16)
-</li>
 <li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
 </li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="bee gees, disco, 70s, oldies" role="button">
 Bee Gees - Number Ones (2004-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/07986a78-38e5-46ea-9cf9-6bd4284b2a51/23900051902-500.jpg" data-tags="experimental, post-rock, psychedelic, the social registry" role="button">
-Gang Gang Dance - God's Money (2005)
 </li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
@@ -216,14 +216,8 @@ Róisín Murphy - Overpowered (2007-05)
 <li data-cover="https://img.discogs.com/8B7OHeLjDIzyWb1NSiPNzdy0K4Q=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5055787-1386090109-1640.jpeg.jpg" data-tags="electronic, dance" role="button">
 Calvin Harris - I Created Disco (2007-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/28eb699a-f254-4873-8afb-557aea44c884/5614369854-500.jpg" data-tags="italians do it better, electronic, electronica, synthpop" role="button">
-Chromatics - Night Drive (2007-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
-</li>
-<li data-cover="https://img.discogs.com/9-xCT17DkPfrg2yo0L7SnkXWE18=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341704-1252593066.jpeg.jpg" data-tags="dance, funk, synthpop" role="button">
-Sam Sparro - Sam Sparro (2008-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
 Kleerup - Kleerup (2008-05-21)
@@ -245,6 +239,9 @@ Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dd8f19b-c870-4373-95b2-14117b09358a/12942567005-500.jpg" data-tags="dance" role="button">
 David Guetta - One More Love (2009-08-21)
+</li>
+<li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
+Taio Cruz - Rokstarr (2009-10-12)
 </li>
 <li data-cover="https://img.discogs.com/WjqLP5plG85wXLx8z0K5YkmE61s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2082033-1476644543-1869.jpeg.jpg" data-tags="pop, female vocalists" role="button">
 Alexandra Burke - Overcome (2009-10-19)
@@ -279,6 +276,9 @@ Beth Ditto - EP (2011-01-10)
 <li data-cover="https://img.discogs.com/BJjCWliuTdLyv4yMMrFptjnmFsg=/fit-in/600x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2549959-1289999104.jpeg.jpg" data-tags="disco, moshi moshi records, my gang 11" role="button">
 Hercules and Love Affair - Blue Songs (2011-01-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
+Toro y Moi - Underneath the Pine (2011-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
 Holy Ghost! - Holy Ghost! (2011-04-04)
 </li>
@@ -287,9 +287,6 @@ Sophie Ellis-Bextor - Make a Scene (2011-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/f2ce9b6c-04e4-4720-9e05-2ffe109f7ece/8138596014-500.jpg" data-tags="disco, synthpop, 4ad, synth-pop, leftfield, alben" role="button">
-Blood Diamonds - Phone Sex (2012-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
@@ -305,6 +302,9 @@ Robin Thicke - Blurred Lines (2013-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Reflektor (2013-09-09)
+</li>
+<li data-cover="https://img.discogs.com/Rf7xcLv4s1ZnEzT9v5a_hiMf_5E=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13298519-1581526054-7498.png.jpg" data-tags="pop" role="button">
+Justin Timberlake - The 20/20 Experience - 2 of 2 (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)

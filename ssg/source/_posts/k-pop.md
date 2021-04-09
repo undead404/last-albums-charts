@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T17:13:01.438Z
+date: 2021-04-09T20:16:06.917Z
 title: "k-pop: 100 albums you must listen to before you die"
 ---
 ![BTS - O!Rul8,2? (2013-09-11)](http://coverartarchive.org/release/bea6cd7e-e76d-4888-854b-ab2e0eb91eac/7845831956-500.jpg "BTS - O!Rul8,2? (2013-09-11)")
@@ -21,17 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="korean, k-rnb" role="button">
+<li data-cover="https://img.discogs.com/-VHYfsaIwOABX9gIrRlDdmOVAFk=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9710309-1596712288-4393.png.jpg" data-tags="korean, k-rnb" role="button">
 Big Bang - Big Bang (1993)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="super junior, k-pop" role="button">
 Super Junior - Don't Don (2007-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/357e8322-a4b5-4481-bda0-e7c38832307c/5722248413-500.jpg" data-tags="k-pop" role="button">
-소녀시대 - Girls' Generation (2007-11-01)
-</li>
 <li data-cover="https://img.discogs.com/YD6fet7wFqk3wnK8OqXo9nQGebI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8616922-1465224646-5002.jpeg.jpg" data-tags="k-pop" role="button">
 Girls' Generation - Girls' Generation (2007-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/357e8322-a4b5-4481-bda0-e7c38832307c/5722248413-500.jpg" data-tags="k-pop" role="button">
+소녀시대 - Girls' Generation (2007-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab8a451b-a4f7-41c0-a835-b0b528cdbf86/5244556145-500.jpg" data-tags="k-pop, wonder girls" role="button">
 Wonder Girls - So Hot (2008-06-03)
@@ -51,14 +51,14 @@ After School - New Schoolgirl (2009-01-29)
 <li data-cover="http://coverartarchive.org/release/87e43622-155b-4bcd-a09e-1aa4f71854e3/7934988763-500.jpg" data-tags="super junior, k-pop, korean" role="button">
 Super Junior - SORRY, SORRY (2009-03-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/2210be01-c02f-466b-b412-aa5aeaa9f318/9671954561-500.jpg" data-tags="k-pop" role="button">
+After School - Diva (2009-04-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/3aef076e-a943-46ea-8c20-ef7cf7f851b9/15266797476-500.jpg" data-tags="k-pop" role="button">
 2NE1 - 2NE1 (2009-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c73ba628-5570-43a8-92fe-f1dd5302a398/1659100913-500.jpg" data-tags="k-pop, korean, g-dragon" role="button">
 G-Dragon - Heartbreaker (2009-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/b9fba5c6-2003-42aa-b5a0-131c90445884/9297556618-500.jpg" data-tags="k-pop, korean" role="button">
-4minute - For Muzik (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/25d16a2a-93a8-4a0f-9535-5648d007b7d0/9299721705-500.jpg" data-tags="k-pop" role="button">
 f(x) - LA chA TA (2009-09-01)
@@ -78,11 +78,17 @@ SHINee - 2009, Year of Us (2009-10-19)
 <li data-cover="http://coverartarchive.org/release/72af290b-946d-4ee4-8d97-d30cf12edd00/16224662171-500.jpg" data-tags="k-pop" role="button">
 박봄 - You And I (2009-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/2d5c38c9-1e35-48f2-9587-0e7c3839c72c/9297623114-500.jpg" data-tags="k-pop" role="button">
+f(x) - Chu~♡ (2009-11-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c795ba6-7326-4540-978b-c9bd835501bf/6522774075-500.jpg" data-tags="k-pop" role="button">
 T-ARA - Absolute First Album (2009-12-04)
 </li>
 <li data-cover="https://img.discogs.com/j2suXClSr0YdBJ_KzKXHafqXc0E=/fit-in/469x672/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3741091-1342490990-4747.jpeg.jpg" data-tags="k-pop" role="button">
 소녀시대 - Oh! (2010-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f800a2a-2a6e-490c-95c7-b5b6d380a743/7457022417-500.jpg" data-tags="k-pop, kpop, snsd" role="button">
+소녀시대 - Run Devil Run (2010-01-28)
 </li>
 <li data-cover="https://img.discogs.com/w2hfvF10OFTOPEuubn_Rt3Tukpo=/fit-in/226x223/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18013204-1616739237-1911.jpeg.jpg" data-tags="nice, k-pop, kpop" role="button">
 F.CUZ - No One (2010-03-11)
@@ -141,7 +147,7 @@ T-ARA - John Travolta Wanna be (2011-06-29)
 <li data-cover="http://coverartarchive.org/release/914a0257-5dd0-4513-9e03-61dd7a2a18dd/12376003909-500.jpg" data-tags="k-pop, miss a" role="button">
 miss A - A Class (2011-07-18)
 </li>
-<li data-cover="https://img.discogs.com/bvrRkjuxW7X14USkGkJf3F2Zlgw=/fit-in/391x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4709943-1372983259-6486.jpeg.jpg" data-tags="k-pop" role="button">
+<li data-cover="https://img.discogs.com/SAlPnByqEuS_KI5aX3lH4BuCKWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7648351-1445890633-4814.jpeg.jpg" data-tags="k-pop" role="button">
 2NE1 - 2NE1 2nd Mini Album (2011-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb2c7c62-b332-434b-8da3-910382e70956/6412188119-500.jpg" data-tags="k-pop" role="button">
@@ -177,6 +183,9 @@ B.A.P - WARRIOR (2012-01-26)
 <li data-cover="http://coverartarchive.org/release/bd908cf7-0175-4196-b445-f64282edf35c/2100209976-500.jpg" data-tags="k-pop, alive" role="button">
 Bigbang - Alive (2012-02-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/13229144-f97d-4a58-b6cf-ffe754f00d78/7570533748-500.jpg" data-tags="k-pop" role="button">
+EXO-K - HISTORY (2012-03-09)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="k-pop" role="button">
 EXO-K - MAMA (2012-04-09)
 </li>
@@ -194,9 +203,6 @@ B.A.P - POWER (2012-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5662b4b-af33-41a4-a767-01b3c922b8a5/11749315775-500.jpg" data-tags="k-pop" role="button">
 SHINee - Sherlock (2012-05-16)
-</li>
-<li data-cover="https://img.discogs.com/PHrdMKyjJy3_oTqTrOH3Wzn07zk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7719233-1447376518-8753.jpeg.jpg" data-tags="k-pop" role="button">
-f(x) - Electric Shock (2012-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c84e20a7-dcc1-417d-849c-496882bc8e48/1669139769-500.jpg" data-tags="k-pop, super junior" role="button">
 Super Junior - SPY (2012-07-01)
@@ -222,7 +228,7 @@ G-Dragon - One Of A Kind (2012-09-15)
 <li data-cover="http://coverartarchive.org/release/442fe24e-bb1b-4f70-b28b-9ef09808a107/4220342414-500.jpg" data-tags="k-pop, korean" role="button">
 현아 - Melting (2012-10-21)
 </li>
-<li data-cover="https://img.discogs.com/gN3QXlYswt_U8plNloE05U0Z-DU=/fit-in/600x766/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8816712-1469386895-5717.jpeg.jpg" data-tags="k-pop, kpop" role="button">
+<li data-cover="https://img.discogs.com/k7FKt3Qv6UjgCACKdcVxkFuKRqM=/fit-in/600x383/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7698550-1504283008-8795.jpeg.jpg" data-tags="k-pop, kpop" role="button">
 소녀시대 - I Got A Boy (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ed5bcf4-77b1-4f28-a75d-5e6e208ddc7a/23328759749-500.jpg" data-tags="gentleman" role="button">
@@ -239,12 +245,6 @@ BTS - 2 COOL 4 SKOOL (2013-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e1fef0c-a641-4b7d-9a1e-1ebbd8b3e271/15266726610-500.jpg" data-tags="k-pop, kpop" role="button">
 2NE1 - Falling in Love (2013-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e4790bd-393e-46ef-b5e9-e9c32a68abc9/8235992129-500.jpg" data-tags="k-pop" role="button">
-f(x) - Pink Tape (2013-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/4c0844c6-ad86-4505-84a3-5969b80e0e19/4831629433-500.jpg" data-tags="k-pop, kpop" role="button">
-2NE1 - Do You Love Me (2013-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e6df6a2-0d43-4557-820c-a56a9c0a9951/6819144350-500.jpg" data-tags="k-pop" role="button">
 TEEN TOP - Teen Top Class (2013-08-26)
@@ -288,6 +288,9 @@ BTS - SKOOL LUV AFFAIR (2014-02-12)
 <li data-cover="http://coverartarchive.org/release/dafb6107-995b-4c79-9fe6-4924bce5dc97/7175161148-500.jpg" data-tags="k-pop" role="button">
 SunMi - Full Moon (2014-02-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b8a6414-5aa9-4542-b420-5b2f03f45e6f/6654165370-500.jpg" data-tags="k-pop" role="button">
+소녀시대 - Mr.Mr. (2014-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/dbaac149-d559-4234-b335-60d382040c94/15265609371-500.jpg" data-tags="k-pop" role="button">
 2NE1 - Crush (2014-02-27)
 </li>
@@ -299,9 +302,6 @@ GOT7 - GOT♡ (2014-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de9e123-1898-41ce-8e42-d7cc92c65279/9487744358-500.jpg" data-tags="dance, k-pop, loen entertainment, starship entertainment" role="button">
 SISTAR - TOUCH N MOVE (2014-07-21)
-</li>
-<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
-Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/92da4fdd-db4c-499b-a34e-9be9c4e3bd28/8024278310-500.jpg" data-tags="k-pop" role="button">
 Winner - 2014 S/S (2014-08-12)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T09:11:02.806Z
+date: 2021-04-09T20:03:01.449Z
 title: "indie rock: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -23,12 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
-Neutral Milk Hotel - On Avery Island (1996-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
-Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">
 American Football - American Football (1999-09-14)
@@ -183,6 +177,9 @@ Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 <li data-cover="http://coverartarchive.org/release/9bce96cc-8d4f-38f3-97d5-decb81ab7119/14968666106-500.jpg" data-tags="indie rock" role="button">
 The National - Boxer (2007-05-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Spoon - Ga Ga Ga Ga Ga (2007-07-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
 </li>
@@ -249,9 +246,6 @@ Arctic Monkeys - Humbug (2009-08-19)
 <li data-cover="https://img.discogs.com/WsRvEbzvbUUk83b9XmAPKAaAzBQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2058189-1536693069-9605.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
 Vampire Weekend - Contra (2010-01-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9abf895-1404-43d7-8125-fb83b1a8bf34/7456433094-500.jpg" data-tags="indie rock" role="button">
-Two Door Cinema Club - Tourist History (2010-02-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/a0ae9288-8038-3ed8-bfa8-5ea39ef7ecc8/4174517606-500.jpg" data-tags="indie rock" role="button">
 Foals - Total Life Forever (2010-05-07)
 </li>
@@ -266,6 +260,9 @@ Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4389960-cbab-3472-814f-013dc9c336d7/8316245778-500.jpg" data-tags="indie rock, rock" role="button">
 Kings of Leon - Come Around Sundown (2010-10-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/358818df-ed4e-43b9-8f34-dcd513934d50/6626320723-500.jpg" data-tags="indie rock, alternative rock" role="button">
+Young the Giant - Young the Giant (2010-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
@@ -284,6 +281,9 @@ Of Monsters and Men - My Head Is an Animal (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
+The Shins - Port of Morrow (2012-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
