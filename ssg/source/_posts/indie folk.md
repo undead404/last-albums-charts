@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T11:19:01.435Z
+date: 2021-04-09T16:59:01.450Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Of Monsters and Men - My Head Is an Animal (2011-09-20)](https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg "Of Monsters and Men - My Head Is an Animal (2011-09-20)")
@@ -27,12 +27,6 @@ Elliott Smith - Elliott Smith (1995-07-10)
 <li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Neutral Milk Hotel - On Avery Island (1996-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/cb552dc7-b0fe-4bcd-b864-1b3940baee8c/6010090362-500.jpg" data-tags="indie, female vocalists, female, alternative, indie rock, female singers, pop, rock, alternative rock, indie pop, female vocals, female vocalist, female voices, girls, indie-rock, female artists, female vocal, indie-pop, love song" role="button">
-Cat Power - What Would the Community Think (1996-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ee6bd30-4a23-40cb-9958-d0c321ccdff3/17361537089-500.jpg" data-tags="female vocalists, indie, alternative, alternative rock, indie rock, indie pop, female singers, female, pop, rock, girls, indie-rock, female vocals, female vocalist, female artists, female vocal, female voices, indie-pop" role="button">
-Mazzy Star - Among My Swan (1996-10-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
 </li>
@@ -41,6 +35,9 @@ Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c3a5aca-26e7-4ab5-84be-9618750ad687/4046964167-500.jpg" data-tags="slow alternative" role="button">
+Songs: Ohia - The Lioness (2000-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - Figure 8 (2000-04-17)
@@ -51,7 +48,7 @@ Sufjan Stevens - Michigan (2003-07-01)
 <li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
 The John Butler Trio - Sunrise Over Sea (2004-03-08)
 </li>
-<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
@@ -62,6 +59,9 @@ Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
+Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
 <li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
 Beirut - Gulag Orkestar (2005)
@@ -77,9 +77,6 @@ Animal Collective - Feels (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
-Regina Spektor - Begin to Hope (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
@@ -110,9 +107,6 @@ The Antlers - In The Attic of The Universe (2007-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9082127b-c734-4e0c-852a-ba986d96aba9/26066685976-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Cassadaga (2007-04-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
@@ -150,8 +144,8 @@ Jenny Lewis - Acid Tongue (2008-09-21)
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
 </li>
-<li data-cover="https://img.discogs.com/iEX8Otxl98vZKbRfxM-c26AVNpg=/fit-in/400x401/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1648238-1234889857.jpeg.jpg" data-tags="indie folk" role="button">
-Emmy the Great - First Love (2009-02-09)
+<li data-cover="http://coverartarchive.org/release/58173200-3e0a-47c7-b5c0-a6af53880506/10364552769-500.jpg" data-tags="indie, folk" role="button">
+Iron & Wine - Around the Well (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
@@ -195,11 +189,11 @@ The Head and the Heart - The Head and The Heart (2010-06-29)
 <li data-cover="https://img.discogs.com/0n3LA0qeaCcokxZCVAahUUMJGQM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2402294-1282013018.jpeg.jpg" data-tags="folk, ambient, chamber pop, indie folk, jagjaguwar" role="button">
 S. Carey - All We Grow (2010-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c80ce6d-a9de-4dac-8d2c-69b1df44c9c0/18661854773-500.jpg" data-tags="indie, art pop, electronic" role="button">
-Sufjan Stevens - The Age of Adz (2010-10-11)
-</li>
 <li data-cover="https://img.discogs.com/vRpvXCe6inE8vMVH0Qt7yzI7oM0=/fit-in/265x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713020-1297686499.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, indie folk, dirty hit, benjamin francis leftwich" role="button">
 Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
+</li>
+<li data-cover="https://img.discogs.com/8XMv3btBi2OCE71D5ms76_E8-YI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3007616-1317045162.jpeg.jpg" data-tags="indie, folk, indie folk, hypno" role="button">
+Dry the River - No Rest (2011)
 </li>
 <li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
 The Civil Wars - Barton Hollow (2011-01-10)
@@ -261,6 +255,9 @@ Grizzly Bear - Shields (2012-09-17)
 <li data-cover="http://coverartarchive.org/release/3cb19f06-ce08-44d2-9b07-ffef4ac20216/10096389953-500.jpg" data-tags="folk, indie folk" role="button">
 Lucy Rose - Like I Used To (2012-09-24)
 </li>
+<li data-cover="https://img.discogs.com/1Bb5QXZ49on5pXZN4tpcsfdEA60=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4219121-1358872416-7493.jpeg.jpg" data-tags="indie folk, ato records, v2 records, my gang 13" role="button">
+Jim James - Regions of Light and Sound of God (2013-02-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/9c74e7fa-c0a6-412d-b291-3211506cc411/3737023319-500.jpg" data-tags="neo-folk" role="button">
 Devendra Banhart - Mala (2013-03-08)
 </li>
@@ -270,11 +267,11 @@ Phosphorescent - Muchacho (2013-03-15)
 <li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
 Daughter - If You Leave (2013-03-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/e263e701-da41-4ea3-a73c-4636fafc1a1d/3894310297-500.jpg" data-tags="indie, indie rock, 10s" role="button">
+Junip - Junip (2013-04-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk" role="button">
 Laura Marling - Once I Was An Eagle (2013-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/8077f6cd-1c02-484f-a19f-30833734edf2/11593007264-500.jpg" data-tags="indie, indie pop, indie folk, folk" role="button">
-Milky Chance - Sadnecessary (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, 10s, 2010s, monochrome album covers, american group, grammy winner 2014" role="button">
 The Civil Wars - The Civil Wars (2013-08-02)
@@ -284,6 +281,9 @@ Volcano Choir - Repave (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a625224-3978-47fc-a22d-91936994e891/5383458200-500.jpg" data-tags="folk" role="button">
+The Head and the Heart - Let's Be Still (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc10240b-ebb3-4174-a082-dedcc365d45d/6905764502-500.jpg" data-tags="indie, indie folk" role="button">
 Courtney Barnett - The Double EP: A Sea of Split Peas (2013-10-15)

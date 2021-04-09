@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T07:29:27.647Z
+date: 2021-04-09T17:45:01.749Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -39,7 +39,7 @@ Creedence Clearwater Revival - Cosmo's Factory (1970-07-25)
 <li data-cover="https://img.discogs.com/zFc987ZIPaa-FB2Jmwkfe7ZFbuM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14549265-1576852135-1487.jpeg.jpg" data-tags="southern rock" role="button">
 The Allman Brothers Band - Idlewild South (1970-09-23)
 </li>
-<li data-cover="https://img.discogs.com/mic1l-p28zoqxQguKjabmbJV5Hg=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9031515-1473598344-7417.mpo.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
+<li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf8885b2-39f8-344e-b860-4be1623de283/4529929218-500.jpg" data-tags="southern rock, classic rock" role="button">
@@ -72,7 +72,7 @@ The Allman Brothers Band - Brothers And Sisters (1973-08-01)
 <li data-cover="http://coverartarchive.org/release/be1fba3d-6f56-4441-bd88-d41f5140231f/20152394682-500.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Second Helping (1974)
 </li>
-<li data-cover="https://img.discogs.com/qijHru4i-rzMGc9ENP0vKBHNCeg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1278548-1378371557-7542.jpeg.jpg" data-tags="70s, southern rock" role="button">
+<li data-cover="https://img.discogs.com/OZfYFU31jhDkMCHRwoRumrQZ7Yg=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1701642-1301495726.jpeg.jpg" data-tags="70s, southern rock" role="button">
 Little Feat - Feats Don't Fail Me Now (1974-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
@@ -87,7 +87,7 @@ The Doobie Brothers - Best of The Doobies (1976-10-29)
 <li data-cover="http://coverartarchive.org/release/325f0947-40a4-30bd-aefd-12a53d39f2bd/9727920012-500.jpg" data-tags="blues rock, southern rock" role="button">
 ZZ Top - Tejas (1976-11-29)
 </li>
-<li data-cover="https://img.discogs.com/cMzjhydjFk4smTnXmexNSpR7QFE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10445474-1569342181-4399.jpeg.jpg" data-tags="southern rock" role="button">
+<li data-cover="https://img.discogs.com/8iEnfWUplElZRLgxOaHmy0Ug-yI=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4938216-1379992995-8567.jpeg.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Street Survivors (1977)
 </li>
 <li data-cover="https://img.discogs.com/0-obukF6QmJhASkzHb1UYk-qMCg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3333219-1326175690.jpeg.jpg" data-tags="southern rock, classic rock" role="button">
@@ -123,7 +123,7 @@ The Allman Brothers Band - A Decade Of Hits 1969-1979 (1991-10-22)
 <li data-cover="http://coverartarchive.org/release/bf287e16-4467-4b6c-8e5c-a0250d3d0b2b/6314862970-500.jpg" data-tags="southern rock, rock" role="button">
 The Black Crowes - The Southern Harmony and Musical Companion (1992-05-11)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="southern rock, lynyrd skynyrd-a retrospective" role="button">
+<li data-cover="https://img.discogs.com/Y5M7Znix8pyjDo0_6jT7xPs5aug=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14050651-1567108490-5787.jpeg.jpg" data-tags="southern rock, lynyrd skynyrd-a retrospective" role="button">
 Lynyrd Skynyrd - A Retrospective (1993)
 </li>
 <li data-cover="https://img.discogs.com/xtKEBW6zi6Fj5YjYmDZU3mcGlLY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274536-1533325888-1294.jpeg.jpg" data-tags="southern rock" role="button">
@@ -147,6 +147,9 @@ The Allman Brothers Band - The Allman Brothers Band (1995)
 <li data-cover="http://coverartarchive.org/release/7533b1fc-d328-4ee5-8b50-bbf4c3edb6ed/9020709713-500.jpg" data-tags="southern rock, rock" role="button">
 Zakk Wylde - Book of Shadows (1996-06-19)
 </li>
+<li data-cover="https://img.discogs.com/Wydo1FRFU0CTAFErpovhBo-KHOk=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949363-1254437868.jpeg.jpg" data-tags="southern rock, rock" role="button">
+The Black Crowes - Three Snakes and One Charm (1996-07-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae6c7d58-8258-486b-8637-15bff91302b2/24578672105-500.jpg" data-tags="southern rock" role="button">
 The Black Crowes - By Your Side (1998)
 </li>
@@ -162,8 +165,8 @@ Lynyrd Skynyrd - The Essential Lynyrd Skynyrd (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/13ab517d-ed66-497a-a96d-634edd1c36ef/15191888314-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
 </li>
-<li data-cover="https://img.discogs.com/R_exf6JfkHxKkwaoQKA6XO2mGko=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15919303-1600193921-9693.jpeg.jpg" data-tags="rock" role="button">
-Phish - Farmhouse (2000-05-16)
+<li data-cover="https://via.placeholder.com/450" data-tags="records i should listen more often" role="button">
+Sister Hazel - Fortress (2000-06-27)
 </li>
 <li data-cover="https://img.discogs.com/meG3578OM9QzIehO1I_fkwN3o2s=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692554-1296789561.jpeg.jpg" data-tags="rock, hard rock, southern-rock" role="button">
 Molly Hatchet - Greatest Hits (2001)
@@ -179,6 +182,9 @@ Drive-By Truckers - Southern Rock Opera (2001-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/649f134d-d733-4908-9004-d3d8edd506b0/24447477256-500.jpg" data-tags="alternative rock, edgy, queer, queercore, southern rock, beer, kid rock, male vocals, based, scat, brutal death metal, creepy, racism, moisture, bananas, trump, treble, cracked, farts, creed, racist, nickelback, girls girls girls, my nigga, poopy, hebo, hillary clinton, jihad, fart, donald trump, fecal, flatulence, coprogrind, sjw, genderqueer, grady, maga, farting, youngstar, kkk country, racist country, little star, politically correct, moist, i would like to spend an afternoon rubbing her breasts with warm mineral oil, scat goregrind, pissgore, rei do pop, agender, n word, queer metal, shady grady, seahawks, scatgrind, beste country musik wo gibt, fart rock, music to fart to, post-post-grunge, 2edgy4me, mitch mcconnell, brayden, jayden, fecalgrind, non-binary, planet kolob, where gods began, grumpy still skin, soft and moist, without artistic merit, dake-bonoism, masturbation fodder, squeeze the boobies, listen to u2, beneficial, conforms to dake-bonoistic doctrine, they always conform to dake-bonoistic doctrine, imaginary girlfriend, it starts with one thing i dont know why it doesnt even matter how hard you try keep that in mind i designed this rhyme, make america great again, fart pop, plopper, deekles, hollow monkey, poopy-man, you can listen on a thursday, adsfghjklmn, fuck me daddy, similar to johnny rebel, pwr bttm, too much swearing, kayden, dustin lynch " role="button">
 Uncle Kracker - No Stranger to Shame (2002-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
+Saliva - Back Into Your System (2002-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d7c7392-6a8c-4f38-ac16-c1304bc12d09/9304189949-500.jpg" data-tags="southern rock" role="button">
 The Allman Brothers Band - Hittin' the Note (2003-03-18)
@@ -222,6 +228,9 @@ Ryan Adams - 29 (2005-12-20)
 <li data-cover="http://coverartarchive.org/release/a0119529-3800-4bb1-8716-cbbecbf3e360/16114653552-500.jpg" data-tags="southern rock" role="button">
 Drive-By Truckers - A Blessing and a Curse (2006-04-18)
 </li>
+<li data-cover="https://img.discogs.com/w69l5wq1YLfVfnTdqvMwvXKGNrg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3769585-1343673053-8229.jpeg.jpg" data-tags="hardcore" role="button">
+Cancer Bats - Birthing The Giant (2006-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/37e09ed4-5543-4c4b-b9b9-0f5d690c843e/8360166556-500.jpg" data-tags="stoner rock, rock" role="button">
 Black Stone Cherry - Black Stone Cherry (2006-07-17)
 </li>
@@ -242,9 +251,6 @@ Hellyeah - HELLYEAH (2007-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7009e041-7b5b-4cd5-99d0-2d04830133a3/2271277285-500.jpg" data-tags="classic rock, blues rock, rock" role="button">
 ZZ Top - Greatest Hits (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a010793-b51b-4d5b-a52d-1b0472baf959/15448155569-500.jpg" data-tags="southern rock" role="button">
-Drive-By Truckers - Brighter Than Creation's Dark (2008-01-22)
 </li>
 <li data-cover="https://img.discogs.com/aBgTvhJqTlRTa5gTHPN4Y0HMO2A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2123036-1305727176.jpeg.jpg" data-tags="rock, southern rock, blues rock" role="button">
 The Black Crowes - Warpaint (2008-03-03)
@@ -305,12 +311,6 @@ Alabama Shakes - Hold On (2012-01-31)
 </li>
 <li data-cover="https://img.discogs.com/Sx2GoX-oNB9S0Hba5pduTHWZE7A=/fit-in/600x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3521164-1378815509-2198.jpeg.jpg" data-tags="blues, rock, soul, 10s" role="button">
 Alabama Shakes - Boys & Girls (2012-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a3be0f3-c237-4e0d-bdba-f82b3329a974/16252635324-500.jpg" data-tags="americana" role="button">
-Jason Isbell - Southeastern (2013-06-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/54ae2614-7ddb-4c11-b251-231929556b55/4911466037-500.jpg" data-tags="blues" role="button">
-John Mayer - Paradise Valley (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/edb1ad5b-af30-49ba-aa0b-a4628a606087/5493473864-500.jpg" data-tags="rock, southern rock" role="button">
 Kings of Leon - Mechanical Bull (2013-09-20)

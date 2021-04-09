@@ -1,12 +1,12 @@
 ---
-date: 2021-04-05T13:46:07.016Z
+date: 2021-04-09T17:24:01.516Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">The Used - The Used (2002-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">Alexisonfire - Alexisonfire (2002-10-29)</li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">The Used - In Love and Death (2004-01-24)</li>
+<li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">The Used - In Love and Death (2004-01-24)</li>
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">Underoath - They're Only Chasing Safety (2004-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">Senses Fail - Let It Enfold You (2004-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">Chiodos - All's Well That Ends Well (2005-07-26)</li>
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/MJ8K31RONiirXVUHy8kJLdLAN-w=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274578-1323472312.jpeg.jpg" data-tags="pop, screamo, penisbird" role="button">
+<li data-cover="https://img.discogs.com/iDrGlUqSADpgvCT_f3lP7GRWcP4=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4605383-1572692196-7884.jpeg.jpg" data-tags="pop, screamo, penisbird" role="button">
 Jessica Simpson - Sweet Kisses (1999-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
@@ -45,7 +45,7 @@ The Used - The Used (2002-06-25)
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">
 My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)
 </li>
-<li data-cover="https://img.discogs.com/qcuFFMVZ-nJFoTsFfBf_pbwS5-Q=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3085319-1553200402-5927.jpeg.jpg" data-tags="post-hardcore, emo" role="button">
+<li data-cover="https://img.discogs.com/dEQah6C7HfFT_jzEHA1fS4FnW6w=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2547728-1457059020-1993.jpeg.jpg" data-tags="post-hardcore, emo" role="button">
 Senses Fail - From The Depths Of Dreams (2002-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
@@ -53,6 +53,9 @@ Alexisonfire - Alexisonfire (2002-10-29)
 </li>
 <li data-cover="https://img.discogs.com/vZJp_NsfZ9gWVgB1b02nWTLnKMk=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1170925-1478395739-2078.jpeg.jpg" data-tags="screamo" role="button">
 Circle Takes the Square - As the Roots Undo (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/78cc5193-6c12-4289-ae89-c0269c482b6a/3784011325-500.jpg" data-tags="emocore, post-hardcore" role="button">
+A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
 </li>
 <li data-cover="https://img.discogs.com/kRhGE1p4CAb52fJpgyfezYZq1rw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371783-1530777030-9373.png.jpg" data-tags="screamo, post hardcore" role="button">
 Envy - A Dead Sinking Story (2003-04-25)
@@ -72,10 +75,7 @@ Story of the Year - Page Avenue (2003-09-16)
 <li data-cover="https://img.discogs.com/f_Z5jf9GxipomA3X7zmUykQpHOk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122839-1316854929.jpeg.jpg" data-tags="post-hardcore" role="button">
 Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee76a845-926d-4120-b83e-a2d543918428/25969450171-500.jpg" data-tags="emo, post-hardcore" role="button">
-Hidden in Plain View - Life In Dreaming (2004)
-</li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
@@ -99,7 +99,7 @@ The Red Jumpsuit Apparatus - The Red Jumpsuit Apparatus (2005)
 <li data-cover="http://coverartarchive.org/release/ee3acac4-1fdb-4d0a-9dc7-070251fd51ad/21114625374-500.jpg" data-tags="screamo, emocore, rock, post-hardcore" role="button">
 A Static Lullaby - Faso Latido (2005-04-05)
 </li>
-<li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
+<li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
@@ -147,10 +147,13 @@ Drop Dead, Gorgeous - In Vogue (2006-05-02)
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a23771f-6649-44cf-a85d-6d1ac44cda15/15092932333-500.jpg" data-tags="post-hardcore" role="button">
+Escape the Fate - There's No Sympathy For The Dead (2006-05-23)
+</li>
 <li data-cover="https://img.discogs.com/73U-w7FAtiywrk_hQhIh_jGbbGg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16231998-1610142155-7125.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
 Silverstein - 18 Candles: The Early Years (2006-05-30)
 </li>
-<li data-cover="https://img.discogs.com/8FRbiG5EQs-ZDhjzUFfivrCOotE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6344521-1416948236-2267.jpeg.jpg" data-tags="screamo" role="button">
+<li data-cover="https://img.discogs.com/sogU5mtWKByinBK0l5_KSIFerBQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867269-1491971657-7535.jpeg.jpg" data-tags="screamo" role="button">
 Envy - Insomniac Doze (2006-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
@@ -177,14 +180,17 @@ A Day to Remember - For Those Who Have Heart (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/2c7efad2-73f2-4652-b6b6-2ec78963fcf6/8691616470-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - She Watched The Sky (2007-01-23)
 </li>
-<li data-cover="https://img.discogs.com/u4erzeI81X5S6Px7Rfcmi_oAFIk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621914-1421619303-5143.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Take To The Skies (2007-03-18)
+<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
+Enter Shikari - Take To The Skies (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
 blessthefall - His Last Walk (2007-04-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e7ff2419-8d8d-4c5a-a5b0-fa355924cc62/17979913063-500.jpg" data-tags="post-hardcore" role="button">
+Emarosa - This Is Your Way Out (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a12d1805-794f-4744-ba79-c9e7dd7ffb5f/12049773567-500.jpg" data-tags="post-hardcore" role="button">
 Before Their Eyes - Before Their Eyes (2007-05-15)
@@ -294,20 +300,14 @@ Asking Alexandria - Reckless & Relentless (2011-04-05)
 <li data-cover="http://coverartarchive.org/release/143fbcad-b633-4b98-a553-3a54b78d989c/6997936845-500.jpg" data-tags="post-hardcore" role="button">
 Sleeping with Sirens - Let's Cheers to This (2011-05-10)
 </li>
-<li data-cover="https://img.discogs.com/bhGbwgyMRfFNVYSLTVH0fgqdapQ=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3017388-1588358835-7785.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/FSNVz6ClhLwEqnQppWgCn_Hdp5M=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955044-1415198215-4656.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
 Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Set the World on Fire (2011-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)

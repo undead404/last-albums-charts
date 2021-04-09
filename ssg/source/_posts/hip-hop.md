@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T09:12:02.833Z
+date: 2021-04-09T17:27:01.519Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -12,7 +12,7 @@ title: "hip-hop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">Kid Cudi - Man on the Moon: The End of Day (2009-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">Eminem - Recovery (2010-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg" data-tags="hip-hop" role="button">Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)</li>
-<li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">Flo Rida - Wild Ones (2012-06-22)</li>
+<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">Kanye West - Yeezus (2013-06-18)</li>
 </ol>
 List of 100 - under the cut.
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg" data-tags="hip-hop, rap, 80s" role="button">
 Beastie Boys - Licensed to Ill (1986-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/2de67fb3-7ef5-4242-b31d-b28ffc9ecf27/9114999793-500.jpg" data-tags="hip-hop" role="button">
+Public Enemy - It Takes a Nation of Millions to Hold Us Back (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
@@ -75,9 +78,6 @@ Nas - It Was Written (1996-07-01)
 <li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/5992a7fd-6ade-3895-827a-a7dfdf6ebb51/26921224002-500.jpg" data-tags="electronic, hip-hop" role="button">
-DJ Shadow - Endtroducing..... (1996-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/a164b1b6-00dc-4722-be0d-62601accb796/4437400926-500.jpg" data-tags="hip-hop" role="button">
 Gang Starr - Moment Of Truth (1998-03-31)
 </li>
@@ -96,6 +96,9 @@ OutKast - Aquemini (1998-09-28)
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/1a3422a3-bedc-3c7a-a984-b0fd51c0e5ec/9725720160-500.jpg" data-tags="hip hop, hip-hop, rap" role="button">
+The Roots - Things Fall Apart (1999-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
 Mos Def - Black On Both Sides (1999-10-12)
 </li>
@@ -107,6 +110,9 @@ Common - Like Water for Chocolate (2000-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/63d2c002-3b39-4e6a-9cad-50bb5f86a701/20658908646-500.jpg" data-tags="hip-hop" role="button">
+Nelly - Country Grammar (2000-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fcef022-76ae-441a-bade-728151531db9/23997227452-500.jpg" data-tags="hip-hop" role="button">
 Deltron 3030 - Deltron 3030 (2000-10-17)
@@ -129,9 +135,6 @@ The Streets - Original Pirate Material (2002-03-25)
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
 </li>
-<li data-cover="https://img.discogs.com/Aab9_aytQknwScesF1hS3ABE3Oc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-103380-1576205114-8321.jpeg.jpg" data-tags="hip-hop, electronic" role="button">
-RJD2 - Deadringer (2002-07-23)
-</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
 </li>
@@ -140,9 +143,6 @@ Black Eyed Peas - Elephunk (2003-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0f5a6ab-ebad-43d7-b880-c5a6d6a3e79d/7595128597-500.jpg" data-tags="hip-hop, rap, hip hop" role="button">
 Kanye West - The College Dropout (2003-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/941a3f75-661f-4e89-8381-cbf851bea6b6/4765069290-500.jpg" data-tags="hip-hop, chillout, japanese" role="button">
-Nujabes - Metaphorical Music (2003-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a63ffa0d-d6f0-4941-9659-8e199ca14a60/4516429761-500.jpg" data-tags="hip-hop" role="button">
 Madvillain - Madvillainy (2004-03-19)
@@ -153,6 +153,9 @@ The Streets - A Grand Don't Come for Free (2004-05-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 Beastie Boys - To the 5 Boroughs (2004-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/a3675fc3-f348-3d6d-970f-faa19f32c4ca/9725751296-500.jpg" data-tags="hip-hop, hip hop" role="button">
+The Roots - The Tipping Point (2004-07-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/93b725a3-5e68-45e5-9798-5afb29922c5b/2121195763-500.jpg" data-tags="rap, hip-hop, eminem" role="button">
 Eminem - Encore (2004-11-12)
 </li>
@@ -162,6 +165,9 @@ MF DOOM - MM..Food (2004-11-16)
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
 The Game - The Documentary (2005-01-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
+M.I.A. - Arular (2005-02-22)
+</li>
 <li data-cover="https://img.discogs.com/yijRdl9GTByo5MDl6kKGHtk89Pw=/fit-in/600x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9797041-1494512428-2136.jpeg.jpg" data-tags="hip-hop" role="button">
 Kanye West - Late Registration (2005-03)
 </li>
@@ -170,9 +176,6 @@ Gorillaz - Demon Days (2005-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/077940e5-0912-38be-bf3c-699b38daa323/4402686825-500.jpg" data-tags="hip-hop" role="button">
 Common - Be (2005-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
-Nujabes - Modal Soul (2005-11-11)
 </li>
 <li data-cover="https://img.discogs.com/bXnt0eXfchKuRrdSJxD7xNAIfS4=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567986-1336610234-2845.jpeg.jpg" data-tags="hip-hop" role="button">
 Fort Minor - The Rising Tied (2005-11-21)
@@ -213,9 +216,6 @@ Flobots - Fight With Tools (2007-10-16)
 <li data-cover="http://coverartarchive.org/release/af5f8d32-47b1-4715-b6b4-5a00e411adfb/17404962418-500.jpg" data-tags="hip-hop, indie" role="button">
 Why? - Alopecia (2008-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/4355df4c-3b7a-4dae-9d1b-7383df022542/21363798369-500.jpg" data-tags="hip-hop" role="button">
-The Cool Kids - The Bake Sale (2008-06-03)
-</li>
 <li data-cover="https://img.discogs.com/sAHiZ1GQVMxSrV1dwSAi5FPOqL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646806-1516228829-9542.jpeg.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Seeing Sounds (2008-06-09)
 </li>
@@ -230,6 +230,9 @@ Drake - So Far Gone (2009-02-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/25130d2d-8a82-4956-99e7-30efd0f9ff89/5871235568-500.jpg" data-tags="rap, hip-hop" role="button">
 Eminem - Relapse (2009-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/c131cfbf-5024-4a50-a27b-366f04d3fcd8/1674181130-500.jpg" data-tags="hip hop, hip-hop" role="button">
+Mos Def - The Ecstatic (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">
 Kid Cudi - Man on the Moon: The End of Day (2009-07-15)
@@ -281,9 +284,6 @@ Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3686162c-6a36-47ce-b6fe-18a4bb41a0ca/2805738352-500.jpg" data-tags="experimental, experimental hip-hop, experimental hip hop" role="button">
 Death Grips - The Money Store (2012-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/1e317a0c-43f5-4663-ad8b-56c25cd1ca61/4604196033-500.jpg" data-tags="pop, dance, hip-hop, hip hop" role="button">
-Flo Rida - Wild Ones (2012-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce2b9bf5-b2c4-49ca-92a9-6893a5693071/22574757218-500.jpg" data-tags="hip-hop" role="button">
 Plan B - Ill Manors (2012-07-20)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T05:31:08.000Z
+date: 2021-04-09T17:30:01.532Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -29,6 +29,9 @@ Above the Law - Livin' Like Hustlers (1989-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
+</li>
+<li data-cover="https://img.discogs.com/uVN8iytnTNWlfeqgvdpldiz2954=/fit-in/599x941/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8267521-1458306048-2645.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
+Whodini - Greatest Hits (1990-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
 N.W.A - Niggaz4Life (1991-05-28)
@@ -96,20 +99,23 @@ Mobb Deep - The Infamous (1995-04-18)
 <li data-cover="http://coverartarchive.org/release/d57b5ef8-ca89-4ce3-b1f4-b4f531f9cfe4/18953650600-500.jpg" data-tags="horrorcore, gangsta rap, memphis rap" role="button">
 Three 6 Mafia - Mystic Stylez (1995-05-30)
 </li>
-<li data-cover="https://img.discogs.com/S28q1tvobiEdD92pTQ3SHsWSsaI=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196321-1587587662-8545.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
+<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
 Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
-<li data-cover="https://img.discogs.com/4XeMGHq5Amyr3RTMy0iBdUOWRfc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309391-1450531695-7510.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
 <li data-cover="https://img.discogs.com/U3KuBPys_k3DkoxORmSLgIVEtz4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-226063-1561987540-3451.jpeg.jpg" data-tags="g-funk" role="button">
 Tha Dogg Pound - Dogg Food (1995-10-31)
 </li>
-<li data-cover="https://img.discogs.com/eaR3Fnbm7IsPzKlzCcMa9VD6OA4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764064-1427488790-6905.jpeg.jpg" data-tags="gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/vwTD1j_bhLl9STCAasoRhUO15TU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-365963-1544624881-5586.jpeg.jpg" data-tags="gangsta rap" role="button">
 Westside Connection - Bow Down (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/5a9d7648-edef-4bcc-8d58-83b284708840/15951010940-500.jpg" data-tags="gangsta rap, southern rap, rap-a-lot" role="button">
+Geto Boys - The Resurrection (1996-04-02)
 </li>
 <li data-cover="https://img.discogs.com/I9KSM5KKO4wuY7RxxkAU9y8Oze0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179746-1319325662.jpeg.jpg" data-tags="rap, gangsta rap" role="button">
 N.W.A - Greatest Hits (1996-06)
@@ -161,6 +167,12 @@ Cypress Hill - Stoned Raiders (2001-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c61954d-6496-421c-a3a5-95d3f6015320/2434216412-500.jpg" data-tags="rap" role="button">
 Ice Cube - Greatest Hits (2001-12-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/114cb23c-8382-4b86-ac69-93b56a1d650d/14906482604-500.jpg" data-tags="hip-hop, rap" role="button">
+Fat Joe - Jealous Ones Still Envy (J.O.S.E.) (2001-12-04)
+</li>
+<li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+Nas - Stillmatic (2001-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5043588-ff22-40d0-b738-60ce6a817537/9609881130-500.jpg" data-tags="rap" role="button">
 Clipse - Lord Willin' (2002-04-01)
@@ -285,9 +297,6 @@ Ice Cube - I Am The West (2010-09-10)
 <li data-cover="http://coverartarchive.org/release/cabee5ec-293f-449a-a962-195b7020f14e/6041741387-500.jpg" data-tags="trap rap" role="button">
 Waka Flocka Flame - Flockaveli (2010-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
 <li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
@@ -300,17 +309,8 @@ Killer Mike - R.A.P. Music (2012-05-15)
 <li data-cover="http://coverartarchive.org/release/48e6db7f-b247-4da6-bcc1-3a89100a7c8d/12252536435-500.jpg" data-tags="2 chainz" role="button">
 2 Chainz - Based on a T.R.U. Story (2012-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
-Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/2a8e24f3-3d0e-4360-aec7-964d50be992b/7267511344-500.jpg" data-tags="chief keef" role="button">
 Chief Keef - Finally Rich (2012-12-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">
 Pusha T - My Name Is My Name (2013-10-08)

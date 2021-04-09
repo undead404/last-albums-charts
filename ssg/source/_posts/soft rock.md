@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T00:22:01.389Z
+date: 2021-04-09T17:41:01.465Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -7,7 +7,7 @@ title: "soft rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">Fleetwood Mac - Rumours (1977-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">Toto - Toto IV (1982-04-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
-<li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">The Feeling - Twelve Stops And Home (2006-06-02)</li>
+<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">The Feeling - Twelve Stops And Home (2006-06-02)</li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">John Mayer - Continuum (2006-08-01)</li>
 <li data-cover="http://coverartarchive.org/release/08b3245a-ab9a-40d9-bac1-4f60800c8732/14072082225-500.jpg" data-tags="soft rock" role="button">Train - Hey, Soul Sister (2010-04-09)</li>
 <li data-cover="http://coverartarchive.org/release/e3ec2e6e-352a-4492-9731-abd7df18904b/17968014950-500.jpg" data-tags="sophisti-pop" role="button">Destroyer - Kaputt (2011-01-25)</li>
@@ -39,17 +39,23 @@ America - Homecoming (1972)
 <li data-cover="http://coverartarchive.org/release/2f0662c0-b505-4e83-b8d8-973a2b2f19a6/15027846048-500.jpg" data-tags="classic rock, soft rock, soft-rock, soft peppermint" role="button">
 Looking Glass - Looking Glass (1972)
 </li>
-<li data-cover="https://img.discogs.com/fm0k6aNrzFgihi0ZGcYBenG9RUE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8582403-1464512613-5495.jpeg.jpg" data-tags="soft rock, alt-country, misc, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
+<li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
+Neil Young - Harvest (1972-02-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/56d05907-9f3f-4eec-8c1d-97e9c735d88f/1262909032-500.jpg" data-tags="folk rock" role="button">
+Jim Croce - You Don't Mess Around with Jim (1972-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/e5f7edd9-3856-4b7e-bfb6-9bbe329b9a7e/8776440802-500.jpg" data-tags="70s, classic rock, rock" role="button">
+The Doobie Brothers - Toulouse Street (1972-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
+Steely Dan - Can't Buy A Thrill (1972-10)
+</li>
+<li data-cover="https://img.discogs.com/LcNVI8x_v5ZvtTT0Qhv770DXV8A=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11352595-1514790288-4986.jpeg.jpg" data-tags="soft rock, alt-country, shady, sundaymix, robertitus coleccion, my virtual music shelf, glyph, eats tylenol like a muthufuka, buckets and baskets, 3 and 5 and 7 and 9" role="button">
 John Denver - John Denver's Greatest Hits (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dc6075a-ee1b-4d3d-bc4b-f2a8ab66c806/4316994389-500.jpg" data-tags="classic rock, 70s, soft rock, southern rock" role="button">
 The Doobie Brothers - The Captain and Me (1973-03-02)
-</li>
-<li data-cover="https://img.discogs.com/3oAF3FZeOBnsymGXK_JHzSx6XhA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6198591-1460329048-3248.jpeg.jpg" data-tags="singer-songwriter, soft rock, 70s" role="button">
-Jackson Browne - Late For The Sky (1974-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a9bc268-4413-4706-b8f6-bcf3e0889947/15277772609-500.jpg" data-tags="70s, soft rock, art rock" role="button">
-10cc - The Original Soundtrack (1975-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Fleetwood Mac (1975-07-11)
@@ -75,25 +81,16 @@ The Doobie Brothers - Minute by Minute (1978-12)
 <li data-cover="https://img.discogs.com/o3m6jo5BzDH8d7FlqUnqQ9-tIGU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10248444-1494091170-8215.jpeg.jpg" data-tags="70s, classic rock" role="button">
 Fleetwood Mac - Tusk (1979)
 </li>
-<li data-cover="http://coverartarchive.org/release/02f3e0d2-cd49-3883-8796-f34d47e3a6af/5959850736-500.jpg" data-tags="christopher cross, soft rock" role="button">
-Christopher Cross - Christopher Cross (1979-12)
-</li>
-<li data-cover="https://img.discogs.com/KtKDgTR6V8xLnPoZw5VFJHg9sjY=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3901444-1349127596-8686.jpeg.jpg" data-tags="classic rock, soft rock, 70s" role="button">
-Steely Dan - Gaucho (1980-11-21)
-</li>
 <li data-cover="https://img.discogs.com/t9D8pykJ5wRIj4L158CGMV6Spy8=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3464434-1507200594-5630.jpeg.jpg" data-tags="pop" role="button">
 Phil Collins - Face Value (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">
 Toto - Toto IV (1982-04-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="air supply, greatest hits, soft rock" role="button">
+<li data-cover="https://img.discogs.com/heVEoJlpXNLutzNXmkFJDKTkm9M=/fit-in/600x943/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6446172-1419420537-1482.jpeg.jpg" data-tags="air supply, soft rock" role="button">
 Air Supply - Greatest Hits (1983)
 </li>
-<li data-cover="https://img.discogs.com/55ffZXaVurFGqj69Sq2DMhxNKZk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1547985-1468919686-1185.jpeg.jpg" data-tags="80s, classic rock" role="button">
-Elton John - Too Low For Zero (1983-05-23)
-</li>
-<li data-cover="https://img.discogs.com/KQibQXjslyeidg9gLVmCl06_tYE=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7766384-1448324366-2819.jpeg.jpg" data-tags="80s" role="button">
+<li data-cover="https://img.discogs.com/H-nPHu--YwS0G2MS5ZkUk4mtii8=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1315300-1208986367.jpeg.jpg" data-tags="80s" role="button">
 Don Henley - Building The Perfect Beast (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7221238-f7e0-45bc-8ff2-b8e08924d1a0/8034053675-500.jpg" data-tags="80s, we built this city" role="button">
@@ -105,8 +102,8 @@ Phil Collins - No Jacket Required (1985-03-21)
 <li data-cover="http://coverartarchive.org/release/ad3f2bf7-90d0-375f-aae1-9e49c1a7d93f/16482357177-500.jpg" data-tags="80s, classic rock" role="button">
 Fleetwood Mac - Tango in the Night (1987-04-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/6092bfb8-30a0-3236-851a-94946307795d/28291930721-500.jpg" data-tags="80s, soft rock" role="button">
-Sting - ...Nothing Like The Sun (1987-10-01)
+<li data-cover="http://coverartarchive.org/release/c3c8cddd-06a8-34a9-a58d-e55f8b5ead33/5729799714-500.jpg" data-tags="80s, rock, classic rock, toto" role="button">
+Toto - Past to Present 1977-1990 (1990-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa9ec36b-2dcd-4b73-8125-0a767498e5b8/16324598896-500.jpg" data-tags="pop, soft rock, live, sting" role="button">
 Sting - All This Time (1991-01-08)
@@ -116,9 +113,6 @@ Crosby, Stills & Nash - CSN (1991-10-15)
 </li>
 <li data-cover="https://img.discogs.com/K2IAnrX1dwsD3gucstErNMR_zmY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664306-1593630845-8226.jpeg.jpg" data-tags="eric clapton" role="button">
 Eric Clapton - Tears in Heaven (1992-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/802a9b0f-76f1-48b1-a386-453aa6760950/8528725183-500.jpg" data-tags="alternative rock, female vocalists, 90s, rock" role="button">
-4 Non Blondes - Bigger, Better, Faster, More! (1992-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e764910f-daf4-421a-9b4c-6cdf31496c89/4498574285-500.jpg" data-tags="sting" role="button">
 Sting - Ten Summoner's Tales (1993-02-28)
@@ -156,7 +150,7 @@ Gerry Rafferty - Baker Street (1998-06-01)
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
 </li>
-<li data-cover="https://img.discogs.com/zA9u-uR2BTBZT0BdyyNeVLX5Ij4=/fit-in/426x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5270680-1397144507-1587.jpeg.jpg" data-tags="rock, 80s" role="button">
+<li data-cover="https://img.discogs.com/_ImbZpiuLs-it2fFsLGkNKvTsXc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2120264-1342496869-4292.jpeg.jpg" data-tags="rock, 80s" role="button">
 Genesis - Turn It on Again: The Hits (1999-10-22)
 </li>
 <li data-cover="https://img.discogs.com/yLSXgeQNlbFyh5ERJx1HvnYYpa8=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1760589-1584710461-7332.jpeg.jpg" data-tags="soft rock, singer-songwriter" role="button">
@@ -177,8 +171,14 @@ John Mayer - Heavier Things (2003-09-09)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/096bfa52-c298-4a55-a663-ce2da11448ba/28674249434-500.jpg" data-tags="trip-hop" role="button">
+Archive - Noise (2004-03-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/9c960edc-6d64-4224-91cb-ad5d190687a4/13095766194-500.jpg" data-tags="piano, singer-songwriter, piano rock" role="button">
+Ben Folds - Songs For Silverman (2005-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
 Josh Rouse - Subtitulo (2006-03-20)
@@ -186,7 +186,7 @@ Josh Rouse - Subtitulo (2006-03-20)
 <li data-cover="https://img.discogs.com/OwqlCzNXSiug-hWc2RyOFR65rA4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7141421-1434639883-6794.jpeg.jpg" data-tags="wish, reamonn-wish, rock, alternative" role="button">
 Reamonn - Wish (2006-04-15)
 </li>
-<li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
+<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
@@ -195,7 +195,10 @@ John Mayer - Continuum (2006-08-01)
 <li data-cover="http://coverartarchive.org/release/080a8940-dc1a-49f2-b295-d0c15de3b066/12716962971-500.jpg" data-tags="rock" role="button">
 Daughtry - Daughtry (2006-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, funk, heart full of wine" role="button">
+Angus & Julia Stone - Heart Full of Wine (2007-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
@@ -218,9 +221,6 @@ Toto - Toto (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
-</li>
-<li data-cover="https://img.discogs.com/n7B8FPNmhw_z8nfzEPh7euSPA4A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5523634-1395585630-8398.jpeg.jpg" data-tags="james morrison, pop" role="button">
-James Morrison - Songs for You, Truths for Me (2008-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
 The Fray - The Fray (2009-01-30)
@@ -261,11 +261,14 @@ Dawes - Nothing Is Wrong (2011-06-07)
 <li data-cover="http://coverartarchive.org/release/098d397a-6528-4a84-b282-14d19c02e647/5129304980-500.jpg" data-tags="pop, folk, acoustic" role="button">
 Colbie Caillat - All of You (2011-07-08)
 </li>
-<li data-cover="https://img.discogs.com/68ngvd2r_wikmyoZ5f4WXdNHctE=/fit-in/373x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7848758-1450103818-3824.jpeg.jpg" data-tags="indie, british" role="button">
+<li data-cover="https://img.discogs.com/abRY-5o6lCF87mUWuor3axUjcOM=/fit-in/240x210/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8819097-1469442397-2699.jpeg.jpg" data-tags="indie, british" role="button">
 The Kooks - Junk of the Heart (2011-07-12)
 </li>
 <li data-cover="https://img.discogs.com/68Fm1wroQaruGhdx1E9542JX4iQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3125565-1600634550-6566.jpeg.jpg" data-tags="soft rock, shit to check out, soft rock revival" role="button">
 Jonathan Wilson - Gentle Spirit (2011-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
+The War on Drugs - Slave Ambient (2011-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fcfeebd-1bd4-4ff9-91f0-eab1c63dd75c/27672053511-500.jpg" data-tags="soft rock, countries and continents, boughtlist2011, soft rock revival" role="button">
 The Staves - Mexico EP (2011-12-02)
@@ -276,8 +279,8 @@ Passenger - All the Little Lights (2012-02-24)
 <li data-cover="http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg" data-tags="rock, alternative, seattle, soft rock, 2010s, northwest, sub pop records, my gang 12, backlog, soft rock revival, colorful and psychedelic artwork" role="button">
 Father John Misty - Fear Fun (2012-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">
-John Mayer - Born and Raised (2012-05-18)
+<li data-cover="http://coverartarchive.org/release/8ea96fc9-e4ae-425d-92f1-3ebeaad37a89/2752789232-500.jpg" data-tags="pop, soul, british, soft rock, r&b, rca victor, 2012 albums" role="button">
+Paloma Faith - Fall to Grace (2012-05-28)
 </li>
 <li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
 Breakbot - By Your Side (2012-09-17)
@@ -294,9 +297,6 @@ Laura Marling - Once I Was An Eagle (2013-05-24)
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/54ae2614-7ddb-4c11-b251-231929556b55/4911466037-500.jpg" data-tags="blues" role="button">
-John Mayer - Paradise Valley (2013-08-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
@@ -306,11 +306,11 @@ Rodrigo Amarante - Cavalo (2014-01-27)
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c20d0458-a1c1-484c-8550-d08ad2626c8e/6788886915-500.jpg" data-tags="soft rock, 2010s, ray lamontagne, my gang 14, 2014 albums, soft rock revival" role="button">
-Ray LaMontagne - Supernova (2014-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
 Mac DeMarco - Salad Days (2014-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
+Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a421d0c8-8e79-4f0b-9541-35b5388aaa25/8237937972-500.jpg" data-tags="soft rock, happiness, stuck in my head, puts me in a good mood, dance around your bedroom, soft rock revival" role="button">
 TOPS - Picture You Staring (2014-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T23:32:01.483Z
+date: 2021-04-09T17:10:01.480Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -180,8 +180,8 @@ Pepper - Kona Town (2002-03-26)
 <li data-cover="https://img.discogs.com/LwWZxiZvwMTey_dXq2s0OXoVx5s=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554329-1328635839.jpeg.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Cheer Up! (2002-06-25)
 </li>
-<li data-cover="https://img.discogs.com/TVVLZVoxDWKwh96zF7_Ic7IRLkg=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3715413-1341480261-8033.jpeg.jpg" data-tags="punk, gypsy punk" role="button">
-Gogol Bordello - Multi Kontra Culti vs. Irony (2002-09-17)
+<li data-cover="http://coverartarchive.org/release/1045b6d8-bc5f-38fa-a459-350e79dd34ef/3374878296-500.jpg" data-tags="ska punk" role="button">
+The Mighty Mighty Bosstones - A Jackknife to a Swan (2002-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7adf8b40-8622-43ba-8eb2-c5fec39fb263/7984430965-500.jpg" data-tags="punk rock" role="button">
 The Clash - The Essential Clash (2003-03-10)
@@ -225,7 +225,7 @@ Akurat - Prowincja (2004)
 <li data-cover="https://img.discogs.com/mpiDj-n5fPD-0_tA1hNazFz8St4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1120466-1287198836.jpeg.jpg" data-tags="ska" role="button">
 Babylon Circus - Dances of Resistance (2004-05-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/Hb8RD0jkaGaJzk6aqH6UxU0-VBw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-560097-1432775921-9899.jpeg.jpg" data-tags="alternative rock" role="button">
 311 - Greatest Hits '93-'03 (2004-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6bf471d-c306-4196-b8a1-9dd2cc30cedc/2582864276-500.jpg" data-tags="ska, punk rock, kung fu, oi, punk pathetique, albums i have downloaded, steveadams fm, steveadamsfm, ami punk, boracaymix" role="button">
@@ -264,7 +264,7 @@ Bomb the Music Industry! - To Leave or Die in Long Island (2005-10)
 <li data-cover="http://coverartarchive.org/release/0c56c457-afe1-4679-baab-759ba8dd2a58/4808197815-500.jpg" data-tags="ska" role="button">
 Sublime - Gold (2005-11-15)
 </li>
-<li data-cover="https://img.discogs.com/wm92ihyFSPP-PCJO4ew4Zoc5Xpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-976636-1427519353-9627.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
+<li data-cover="https://img.discogs.com/j9JOHDmT3GWw3HgMAwIep5qfyT8=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518732-1225640843.jpeg.jpg" data-tags="pop, power pop, girl band, xenomania" role="button">
 Girls Aloud - Chemistry (2005-12-05)
 </li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">

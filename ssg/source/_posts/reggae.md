@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T13:44:01.398Z
+date: 2021-04-09T17:26:01.519Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -26,6 +26,9 @@ Bob Marley & The Wailers - Catch A Fire (1973-04-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley and the Wailers - Catch A Fire (1973-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/9494ecbb-965e-3d14-b69a-ec5628f8f13f/1325508258-500.jpg" data-tags="reggae" role="button">
+The Wailers - Burnin' (1973-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e34dc9d-6ddd-45d2-8e06-e466db9f2b5c/1774890562-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Natty Dread (1974-10-25)
@@ -123,9 +126,6 @@ Buju Banton - 'Til Shiloh (1995-07-18)
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/1acaab9d-031a-44e0-a3c2-8b33190b73a8/24106415731-500.jpg" data-tags="reggae, reggaeindie" role="button">
-Finley Quaye - Maverick A Strike (1997-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">
 Manu Chao - Clandestino (1998-04-30)
 </li>
@@ -180,9 +180,6 @@ Groundation - Hebron Gate (2003-01-21)
 <li data-cover="http://coverartarchive.org/release/5c285b48-a2ee-4328-9398-d7b971272c05/5795022837-500.jpg" data-tags="dub, reggae" role="button">
 Easy Star All-Stars - Dub Side Of The Moon (2003-02-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
-Ben Harper - Diamonds On The Inside (2003-03-05)
-</li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">
 Slightly Stoopid - Everything You Need (2003-03-18)
 </li>
@@ -207,6 +204,9 @@ Gentleman - Confidence (2004-08-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">
 Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/60731abb-c538-4230-9e72-a163c54a2342/26539903283-500.jpg" data-tags="reggae" role="button">
+Matisyahu - Shake Off the Dust...Arise (2004-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/bdfe45eb-0b2d-4c96-bfc9-9b5c8b479b9a/5876442790-500.jpg" data-tags="reggae" role="button">
 Vavamuffin - Vabang! (2005-04-06)
 </li>
@@ -222,9 +222,6 @@ Patrice - Nile (2005-04-25)
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">
 Fat Freddy's Drop - Based on a True Story (2005-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/1bdc7ea1-8d62-4861-8a10-daa08f6d6af9/4136848887-500.jpg" data-tags="reggae, ragga, jamal, dancehall" role="button">
-Jamal - Rewolucje (2005-06-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg" data-tags="rnb, rihanna, reggae, dancehall" role="button">
 Rihanna - Music of the Sun (2005-08-29)
 </li>
@@ -239,6 +236,9 @@ Seeed - Next! (2005-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2b401b0-17d6-4c99-b682-a44228ed8ee0/15278504062-500.jpg" data-tags="reggae" role="button">
 State Radio - Us Against The Crown (2005-12-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Perfect - Giddimani (2006)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Matisyahu - Youth (2006)
@@ -261,16 +261,13 @@ Stephen Marley - Mind Control (2007-03-19)
 <li data-cover="http://coverartarchive.org/release/1ef12e2b-5c2b-4312-a510-7f3f886c6562/26476184196-500.jpg" data-tags="reggae" role="button">
 Collie Buddz - Collie Buddz (2007-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/8bf24b86-8ec0-4348-af99-d919057ed774/12243482446-500.jpg" data-tags="rnb, hip-hop, sean kingston" role="button">
-Sean Kingston - Sean Kingston (2007-07-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a7a16b9-704e-3dea-9d92-fc79ccb81512/15248891704-500.jpg" data-tags="reggae" role="button">
 Gentleman - Another Intensity (2007-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">
 Culcha Candela - Culcha Candela (2007-08-31)
 </li>
-<li data-cover="https://img.discogs.com/qVjBD2zNd7yt8T2nhZpyzlDXRmM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061809-1511883604-1888.jpeg.jpg" data-tags="latin" role="button">
+<li data-cover="https://img.discogs.com/pb51h1WEIxxEdn8r9qgii2P-SbM=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1050300-1365315769-2069.jpeg.jpg" data-tags="latin" role="button">
 Manu Chao - La Radiolina (2007-09-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae, swedish reggae" role="button">
@@ -297,6 +294,9 @@ SOJA - Born In Babylon (2009-08-25)
 <li data-cover="http://coverartarchive.org/release/33620140-e22f-4fe7-8215-481b995c92da/5362543742-500.jpg" data-tags="reggae, matisyahu" role="button">
 Matisyahu - Light (2009-08-25)
 </li>
+<li data-cover="https://img.discogs.com/Ine1l8ofiCWrwMeOgpFSVXheyys=/fit-in/595x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914517-1307048549.jpeg.jpg" data-tags="chill, reggae, summer" role="button">
+Rebelution - Bright Side Of Life (2009-09-04)
+</li>
 <li data-cover="https://img.discogs.com/o8A0rfW_oUdwmIi36ut6xctSpg0=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040927-1260293089.jpeg.jpg" data-tags="reggae, rnb" role="button">
 Sean Kingston - Tomorrow (2009-09-07)
 </li>
@@ -306,6 +306,9 @@ Nas & Damian Marley - Distant Relatives (2010-05-14)
 <li data-cover="http://coverartarchive.org/release/60be6325-85c2-4523-bd0d-5f6b5d05098b/1369426454-500.jpg" data-tags="hip hop, pop, reggae, r&b, sean paul" role="button">
 Sean Paul - Tomahawk Technique (2012-01-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
+Bruno Mars - Unorthodox Jukebox (2012-12-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7f9f07b-56eb-4782-9e91-840566df6c7b/6178146183-500.jpg" data-tags="indie, alternative, reggae" role="button">
 Sticky Fingers - Caress Your Soul (2013-03-08)
 </li>
@@ -314,9 +317,6 @@ Wild Belle - Isles (2013-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbfa5713-c9ce-4077-b826-a1c913b0ca04/12750739359-500.jpg" data-tags="electronic" role="button">
 Empire of the Sun - Alive (2013-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/8077f6cd-1c02-484f-a19f-30833734edf2/11593007264-500.jpg" data-tags="indie, indie pop, indie folk, folk" role="button">
-Milky Chance - Sadnecessary (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/d33ebeca-a13c-4974-bcad-85c7211b5455/7515734901-500.jpg" data-tags="pop, reggae, 10s, reggae fusion, albumsiown, reggae beat, nasri, alex tanas, ben spivak, mark pellizzer" role="button">
 Magic! - Don't Kill the Magic (2014-07-01)

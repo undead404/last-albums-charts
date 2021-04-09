@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T12:12:01.530Z
+date: 2021-04-09T17:19:01.514Z
 title: "symphonic metal: 100 albums you must listen to before you die"
 ---
 ![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
@@ -32,6 +32,9 @@ Therion - Theli (1996-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a8223b-872d-465d-a86c-9c54f0b9910b/4664662125-500.jpg" data-tags="gothic metal" role="button">
 Within Temptation - Enter (1996-09)
+</li>
+<li data-cover="https://img.discogs.com/9wguWBIrs_N0GB64pqDyunfBIEc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6253081-1415096233-5763.jpeg.jpg" data-tags="gothic, gothic metal, symphonic metal" role="button">
+Lacrimosa - Stille (1997-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b038ec56-cf0e-48fd-90fd-123144995d17/1290590793-500.jpg" data-tags="power metal, symphonic metal" role="button">
 Rhapsody - Legendary Tales (1997-10-27)
@@ -96,14 +99,14 @@ Kamelot - Karma (2001-05-07)
 <li data-cover="https://img.discogs.com/NL4lAQ9lmg5N7KfeXHmmdPjUYd8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2573584-1439747491-5758.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Over the Hills and Far Away (2001-06-25)
 </li>
+<li data-cover="https://img.discogs.com/Hc-kerojMLeDgG8YtSZ7CD4DH1U=/fit-in/451x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1185361-1199497793.jpeg.jpg" data-tags="gothic metal" role="button">
+Tristania - World of Glass (2001-09-24)
+</li>
 <li data-cover="https://img.discogs.com/SWsNxG96QPYsX38jIm4nZbAuK-4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820668-1484762081-9976.jpeg.jpg" data-tags="symphonic metal" role="button">
 Therion - Secret Of The Runes (2001-10-08)
 </li>
-<li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Rain of a Thousand Flames (2001-12-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Power of the Dragonflame (2002-03-18)
+<li data-cover="http://coverartarchive.org/release/fb4a053e-7139-49e4-9aa6-bf1f29299b3c/1633190014-500.jpg" data-tags="power metal" role="button">
+Blind Guardian - A Night at the Opera (2002-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/544b94ff-da91-3efd-87fc-5ceddd1a125c/10709405994-500.jpg" data-tags="gothic metal" role="button">
 Sirenia - At Sixes and Sevens (2002-05-21)
@@ -311,9 +314,6 @@ Wintersun - Time I (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
 Amaranthe - The Nexus (2013-03-13)
-</li>
-<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
-Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f93e14-2c2a-4ff9-96c1-52ce69b25216/6426874422-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - Hydra (2014-01-22)

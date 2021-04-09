@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:34:01.419Z
+date: 2021-04-09T16:50:01.464Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -21,10 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/i6LrdHAAnU6sTXrI0_g4ePErrKo=/fit-in/569x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108426-1256542792.jpeg.jpg" data-tags="house, dance" role="button">
-Black Box - Dreamland (1990-05)
-</li>
-<li data-cover="https://img.discogs.com/pGJQvuguMcxV__xRTm4BpyP3Mi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14607363-1578076764-6520.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="https://img.discogs.com/8_VITtiq1PT34Nu2z90mIoTcsW0=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060350-1612101702-4362.jpeg.jpg" data-tags="chillout, electronic, funk, house" role="button">
@@ -44,6 +41,9 @@ Cassius - 1999 (1999-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/32aa71d7-5d29-464d-9cfa-2dbb48a50086/6350918032-500.jpg" data-tags="electronic, house, electro house, madonna, singles i own on vinyl" role="button">
 Mr. Oizo - Flat Beat (1999-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/af94b45e-7f1f-3789-a04f-e990501c4833/9608980039-500.jpg" data-tags="electronic, house" role="button">
+Basement Jaxx - Remedy (1999-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d52d6d37-f6cb-417d-b32a-284222400fac/8042015899-500.jpg" data-tags="chillout, electronic" role="button">
 Groove Armada - Vertigo (1999-05-24)
@@ -141,9 +141,6 @@ David Guetta - Pop Life (2007-06-18)
 <li data-cover="http://coverartarchive.org/release/9c57c15f-cf52-4c52-92da-736becaa5a96/11833873261-500.jpg" data-tags="electronic, dance, techno, house, west, kanye, stronger" role="button">
 Kanye West - Stronger (2007-07-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/250e7379-67ab-42db-a101-023269183bdf/5499913556-500.jpg" data-tags="electronic, electro" role="button">
-Danger - 09/14 2007 (2007-11-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/f08b488c-7526-4c7f-8e12-5a317cf600b7/16531192090-500.jpg" data-tags="electronic" role="button">
 Moby - Last Night (2008-03-13)
 </li>
@@ -159,11 +156,14 @@ LMFAO - Party Rock (2008-10)
 <li data-cover="http://coverartarchive.org/release/a9e6ec9b-a293-4e4b-a0f2-d00d1be13aa2/8669884061-500.jpg" data-tags="electronic, house" role="button">
 deadmau5 - Ghosts N Stuff (2008-10-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
-Marek Hemmann - Gemini EP (2009-05-25)
+<li data-cover="http://coverartarchive.org/release/b0a03a16-3daa-4abd-89e6-50858f300246/954633534-500.jpg" data-tags="house, tech house, progressive house, 00's" role="button">
+deadmau5 - It Sounds Like (2009-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/683d02c0-122f-4555-80ac-49c822023092/26593312635-500.jpg" data-tags="electronic" role="button">
 Calvin Harris - Ready for the Weekend (2009-08-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/6b9798de-6288-4b51-87bb-de0bcc51e2d4/24711110047-500.jpg" data-tags="trance, hip hop, pop, dance, house, tinchy stryder" role="button">
+Tinchy Stryder - Catch 22 (2009-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
@@ -207,7 +207,7 @@ Bag Raiders - Bag Raiders (2010-10-01)
 <li data-cover="https://img.discogs.com/H6jd7m1UvIKTLjkRqzYr8noQMy0=/fit-in/600x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11987064-1526053747-5977.jpeg.jpg" data-tags="dance, house, electro hop, swedish house mafia" role="button">
 Swedish House Mafia - Miami 2 Ibiza (2010-10-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
+<li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cf99bae-e926-46ac-91ce-16e1ad2efdb3/2173076183-500.jpg" data-tags="dubstep, house, electro house" role="button">
@@ -215,9 +215,6 @@ Feed Me - Feed Me's Big Adventure (2010-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cb3d98c-83d9-406e-99be-1a010f92929b/6426974407-500.jpg" data-tags="dance, house, saxophone, i love it, saxobeat, alexandra stan, el vrother, danial" role="button">
 Alexandra Stan - Mr. Saxobeat (2011-02-14)
-</li>
-<li data-cover="https://img.discogs.com/EpRvGueOxq-8gObb3dhLJ8bWabs=/fit-in/521x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072615-1314599825.jpeg.jpg" data-tags="pop, dance" role="button">
-Havana Brown - We Run the Night (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c2d8a-2fdb-498c-9470-f3f0a4d38d43/2411561207-500.jpg" data-tags="electronic, house, electro house, 10s, edm, complextro, sun and moon and stars and outer space" role="button">
 Feed Me - To The Stars (2011-05-27)
@@ -243,7 +240,7 @@ David Guetta - Nothing but the Beat 2.0 (2011-08-24)
 <li data-cover="https://img.discogs.com/eIDxMJGvk7zOAU0aOmRbfHX0c0w=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275403-1606596468-9054.jpeg.jpg" data-tags="electropop, indie rock, alternative dance, dfa" role="button">
 The Rapture - In the Grace of Your Love (2011-08-26)
 </li>
-<li data-cover="https://img.discogs.com/eqYvIP3HvdGEBWJpXbvG2t08zR4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3130147-1317157566.jpeg.jpg" data-tags="electronic, downtempo" role="button">
+<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">
 Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
@@ -291,13 +288,16 @@ Martin Garrix - Animals (2013-06-17)
 <li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">
 Avicii - True (2013-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/439a15ad-b0f4-46a9-bd7a-923e2af1283f/5446427490-500.jpg" data-tags="house, idm" role="button">
-Daniel Avery - Drone Logic (2013-10-07)
+<li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
+Trentemøller - Lost (2013-09-16)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="house" role="button">
+What So Not - High You Are (Remixes) (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/514f371d-3d5c-4850-bf5e-27841abd533b/6417152158-500.jpg" data-tags="downtempo, house, deep house, chillwave, tropical house, kygo, kyla la grange" role="button">
 Kyla La Grange - Cut Your Teeth (Kygo Remix) (2014-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fabdf6d-33be-4096-ba20-0a882ba7df0d/7144107814-500.jpg" data-tags="pop, dance-pop, contemporary, house, synthpop, christian, male vocalists, tagged, sweet, spam, orange, drunk, people, chelsea, tags, tag, andy, david, trump, scott, over, ccm, de, the, galas, king, dude, likes, this, diamanda, so, and, make, again, total, some, target, tagging, donald, commercialism, much, wolfe, carman, mairena, fuct, dulukk, yellow things, dulukkcore, nationstates, spambo, sevdaliza, jpoptrasher, jpoptrashercore, jpoptrasher-core, dulukk-core, lenushiromiya, lenushiromiyacore, lenushiromiya-core, contemporary muslim, animegirl77, animegirl77core, animegirl77-core, moyer, david scott, farbel, orange people, could be more out, non-favorite" role="button">
+<li data-cover="http://coverartarchive.org/release/5fabdf6d-33be-4096-ba20-0a882ba7df0d/7144107814-500.jpg" data-tags="pop, dance-pop, contemporary, house, synthpop, christian, male vocalists, tagged, sweet, spam, orange, drunk, people, chelsea, tags, tag, andy, david, trump, scott, over, ccm, the, galas, king, dude, likes, this, diamanda, and, make, again, total, some, target, tagging, donald, commercialism, much, wolfe, carman, mairena, fuct, dulukk, yellow things, dulukkcore, nationstates, spambo, sevdaliza, jpoptrasher, jpoptrashercore, jpoptrasher-core, dulukk-core, lenushiromiya, lenushiromiyacore, lenushiromiya-core, contemporary muslim, animegirl77, animegirl77core, animegirl77-core, moyer, david scott, farbel, orange people, could be more out, non-favorite" role="button">
 RuPaul - Born Naked (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/77e3b871-155d-4b8e-ba19-8af12ace9ad7/6723882290-500.jpg" data-tags="selfie" role="button">

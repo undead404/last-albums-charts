@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:26:01.698Z
+date: 2021-04-09T17:28:01.473Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -10,10 +10,10 @@ title: "canadian: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">Stars - Set Yourself on Fire (2004-09-14)</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">Islands - Return to the Sea (2006-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
-<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">Stars - In Our Bedroom After the War (2007-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">Mother Mother - O My Heart (2008-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">Metric - Fantasies (2009-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">Caribou - Swim (2010-04-16)</li>
+<li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Reflektor (2013-09-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -69,22 +69,25 @@ Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/2af92ddc-2457-3ccb-ba1c-a8ac103c1b8d/6079267084-500.jpg" data-tags="rock, female vocalists" role="button">
+Alanis Morissette - Under Rug Swept (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
 Broken Social Scene - Feel Good Lost (2001-03-06)
 </li>
-<li data-cover="https://img.discogs.com/nhSSbBGCHt-vCasZukQpBin2kns=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3049050-1313331841.jpeg.jpg" data-tags="canadian, 00s" role="button">
+<li data-cover="https://img.discogs.com/vRrNNmW0km5ZuBI7V6nTf1YXtWY=/fit-in/404x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7404658-1440791038-3407.jpeg.jpg" data-tags="canadian, 00s" role="button">
 Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/eZiWyLJS1IbceZYpIBcNMbGV0Rk=/fit-in/512x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955949-1309284671.jpeg.jpg" data-tags="rock" role="button">
 Default - The Fallout (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a1e5f83-4be0-48ff-8477-dce2e73a2ace/11716165288-500.jpg" data-tags="indie pop, indie" role="button">
 Stars - Heart (2002)
 </li>
-<li data-cover="https://img.discogs.com/LpWfFwFZQzH36xcj-eoXMpjLS70=/fit-in/600x849/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6745844-1591846017-8819.jpeg.jpg" data-tags="celine dion, pop" role="button">
+<li data-cover="https://img.discogs.com/_rd-VQ24XDQKDNOWoc9Y_TdShuI=/fit-in/450x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583660-1420114474-5047.jpeg.jpg" data-tags="celine dion, pop" role="button">
 Céline Dion - A New Day Has Come (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
@@ -108,8 +111,8 @@ The Weakerthans - Reconstruction Site (2003-08-25)
 <li data-cover="http://coverartarchive.org/release/e61cbdfc-e830-4aa1-bd58-471a51b05d3f/2517909352-500.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc375ead-64f3-456e-9ad6-128a37f0497a/15050624182-500.jpg" data-tags="canadian, indie rock, indie, the stills" role="button">
-The Stills - Logic Will Break Your Heart (2003-10-21)
+<li data-cover="https://img.discogs.com/W3HqGj-5tQ0OJkVo1gGj0V1qOes=/fit-in/361x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8959918-1472283546-3692.jpeg.jpg" data-tags="pop" role="button">
+Nelly Furtado - Folklore (2003-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d71439b-d7ad-42a0-b8cb-0d53e4d36e51/9269110098-500.jpg" data-tags="indie rock, indie" role="button">
 Broken Social Scene - Broken Social Scene (2004)
@@ -117,20 +120,14 @@ Broken Social Scene - Broken Social Scene (2004)
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
 Avril Lavigne - Under My Skin (2004-03)
 </li>
-<li data-cover="https://img.discogs.com/aa2ZwdTxBhChGMOEqNwyJLoi3mw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1393970-1215889453.jpeg.jpg" data-tags="indie rock, canadian, post-rock" role="button">
-Broken Social Scene - Bee Hives (2004-03-23)
+<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
+Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/426dd361-21ee-48bf-8e29-26b1cd93d8fa/15058502581-500.jpg" data-tags="canadian" role="button">
 Apostle of Hustle - Folkloric Feel (2004-08-24)
-</li>
-<li data-cover="https://img.discogs.com/yQfpMS6r_tvt7ANKPGGxEejdxmo=/fit-in/370x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538934-1288646845.jpeg.jpg" data-tags="rap, k-os, hip-hop, hip hop, canadian, hiphop" role="button">
-K-OS - Joyful Rebellion (2004-08-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, dance punk, rock" role="button">
-Death from Above 1979 - You're A Woman, I'm A Machine (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
@@ -140,6 +137,9 @@ Stars - Set Yourself on Fire (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/H-q1Do_SA1FUZzOWja6dHyPOdiw=/fit-in/456x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176911-1319213405.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1cd87a1-5dac-483d-b330-1c6ed2549ae1/5262868955-500.jpg" data-tags="canadian, alt-country" role="button">
+Kathleen Edwards - Back To Me (2005-03-01)
 </li>
 <li data-cover="https://img.discogs.com/I-94HK-qcR7LdLDe6E-CVFZJH7o=/fit-in/288x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428552-1112127581.jpg.jpg" data-tags="indie" role="button">
 Final Fantasy - Has A Good Home (2005-03-01)
@@ -153,7 +153,7 @@ Wolf Parade - Wolf Parade (2005-07-12)
 <li data-cover="http://coverartarchive.org/release/6ef93fc8-79d2-411e-a999-a2bc1a310f5b/6514416116-500.jpg" data-tags="pop" role="button">
 Daniel Powter - Daniel Powter (2005-07-26)
 </li>
-<li data-cover="https://img.discogs.com/8J9JoC4XNL7HHA1RCvZF7upvLmo=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1523701-1225957962.jpeg.jpg" data-tags="indie, indie rock" role="button">
+<li data-cover="https://img.discogs.com/V8GgXcPA1q8fgTmx1sWeeivDUZs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-520031-1398702240-5834.jpeg.jpg" data-tags="indie, indie rock" role="button">
 The New Pornographers - Twin Cinema (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b002b0e-3d58-4fea-a980-4b0577b32508/15696520432-500.jpg" data-tags="indie, indie rock" role="button">
@@ -162,14 +162,20 @@ Wolf Parade - Apologies to the Queen Mary (2005-09-27)
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Metric - Live It Out (2005-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/57ed610e-fa13-41c8-a274-5a438cdaa304/18292512936-500.jpg" data-tags="indie, singer-songwriter, canadian, collett" role="button">
+Jason Collett - Idols of Exile (2006-02-07)
+</li>
+<li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
+Destroyer - Destroyer's Rubies (2006-02-21)
+</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
 </li>
-<li data-cover="https://img.discogs.com/TVg2kV8PHFaAqpQqMsPnr-pr3Vw=/fit-in/500x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-791077-1159128328.jpeg.jpg" data-tags="canadian, indie, indie rock" role="button">
-Sunset Rubdown - Shut Up I Am Dreaming (2006-05-02)
+<li data-cover="https://img.discogs.com/98YfgBnog4TiDJJ0579YrUyM2oY=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1075961-1491997081-3544.jpeg.jpg" data-tags="indie, canadian, indierock" role="button">
+Land of Talk - Applause Cheer Boo Hiss (2006-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/244056f4-34be-34ab-9c7b-d22b0aedd25d/24286227251-500.jpg" data-tags="experimental, canadian" role="button">
-Final Fantasy - He Poos Clouds (2006-05-09)
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Tokyo Police Club - A Lesson In Crime (2006-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc8e84c6-c841-321c-ba2a-3dec63126872/17919825722-500.jpg" data-tags="pop" role="button">
 Nelly Furtado - Loose (2006-06-07)
@@ -183,7 +189,10 @@ Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/e78cf01f-333e-4211-ae80-a41748961d3f/4812141654-500.jpg" data-tags="singer-songwriter, canadian" role="button">
 Patrick Watson - Close To Paradise (2006-09-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/53418c3e-466b-4108-b074-563250282ba4/15336772745-500.jpg" data-tags="alternative, canadian, heavy rotation, alternative indie, fucking fantastic album, the greatest album" role="button">
+<li data-cover="https://img.discogs.com/y1pYVw6lZ04_XZutemNiYkglQEI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9587631-1483307473-8708.jpeg.jpg" data-tags="canadian" role="button">
+Apostle of Hustle - National Anthem of Nowhere (2007-02-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/53418c3e-466b-4108-b074-563250282ba4/15336772745-500.jpg" data-tags="alternative, canadian, alternative indie, fucking fantastic album, the greatest album" role="button">
 Mother Mother - Touch Up (2007-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
@@ -194,9 +203,6 @@ You Say Party! We Say Die! - Lose All Time (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad76509-65b0-4c7e-b899-ff15567b41ad/10820254086-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - The Best Damn Thing (2007-04-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
@@ -231,14 +237,14 @@ Women - WOMEN (2008-07-08)
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">
 Mother Mother - O My Heart (2008-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f8fc255-9069-41af-b92e-b6d5682d253a/25202918144-500.jpg" data-tags="canadian" role="button">
-Cœur de Pirate - Cœur de Pirate (2008-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/b535058a-8f04-4815-b2a2-0749d21bb7e1/12715197370-500.jpg" data-tags="canadian" role="button">
 The Rural Alberta Advantage - Hometowns (2008-11-11)
 </li>
 <li data-cover="https://img.discogs.com/GJfy06J2LGkCqqKGNZO7OQxor3g=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1657826-1235012805.jpeg.jpg" data-tags="hip-hop" role="button">
 K'naan - Troubadour (2009-02-24)
+</li>
+<li data-cover="https://img.discogs.com/6vNWvebpOi0t-kaUCyMGPv5P_wU=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1692447-1237299375.jpeg.jpg" data-tags="indie rock, canadian" role="button">
+Handsome Furs - Face Control (2009-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f11dccd-73f6-472a-8fec-75f54852a0b8/26953752694-500.jpg" data-tags="indie rock, indie" role="button">
 Metric - Fantasies (2009-03-31)
@@ -276,14 +282,14 @@ Mother Mother - Eureka (2011-03-15)
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
-<li data-cover="https://img.discogs.com/ytbgbIEY2PduHyxuc6jlyLUufTM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4546400-1370714661-1858.jpeg.jpg" data-tags="chillout, electronic, electropop, indie, indie electronic, indietronica, minimal, canadian, synthpop, alternative dance, synth-pop, domino, stealth, de cumparat" role="button">
-Junior Boys - It's All True (2011-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/9aUQbdMYLjht-KvnFgpm8mcxuvU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3138527-1585409765-4096.jpeg.jpg" data-tags="female vocalists" role="button">
 Feist - Metals (2011-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">
+Michael Bublé - Christmas (2011-10-14)
+</li>
+<li data-cover="https://img.discogs.com/jRfBIhtBcTh2B_KqFB7V82Pe1b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237331-1360341702-7706.jpeg.jpg" data-tags="alternative rock, pop rock, canadian, modern rock" role="button">
+Marianas Trench - Ever After (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
@@ -296,12 +302,6 @@ Metric - Synthetica (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
-Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

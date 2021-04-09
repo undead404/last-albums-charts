@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T14:43:01.495Z
+date: 2021-04-09T17:43:01.647Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - In Silico (2008-05-09)](http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg "Pendulum - In Silico (2008-05-09)")
@@ -8,7 +8,7 @@ title: "drum and bass: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/c3a51884-29cf-4d8a-905d-00f44ab120e4/12286804843-500.jpg" data-tags="drum and bass" role="button">Pendulum - Hold Your Colour (2005-07-25)</li>
 <li data-cover="http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg" data-tags="drum and bass" role="button">Pendulum - In Silico (2008-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/1a19f098-db74-4766-83e8-8c5b50e09b8f/28954779358-500.jpg" data-tags="drum and bass" role="button">Sub Focus - Sub Focus (2009-09-07)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">Netsky - Netsky (2010-03-27)</li>
+<li data-cover="https://img.discogs.com/kNekYkQNbinpRT-qFxpb1gjsCb8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2296610-1604750027-7641.jpeg.jpg" data-tags="drum and bass" role="button">Netsky - Netsky (2010-03-27)</li>
 <li data-cover="http://coverartarchive.org/release/2fbc123d-a926-4700-b5a6-b71f09fe175e/12658720449-500.jpg" data-tags="drum and bass" role="button">Netsky - Eyes Closed (2010-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg" data-tags="drum and bass" role="button">Pendulum - Immersion (2010-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/9620c8cd-3858-4d62-9245-a7083601cfcd/20420006931-500.jpg" data-tags="drum and bass, dubstep" role="button">DJ Fresh - Kryptonite (2010-08-16)</li>
@@ -29,6 +29,9 @@ Origin Unknown - Valley of the Shadows (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bb1f14a-893d-3392-839e-79838118213c/6557357686-500.jpg" data-tags="trip-hop, electronic, 90s" role="button">
 Everything But the Girl - Walking Wounded (1996-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd19ec3d-5080-4c56-ad59-1e230d7425f4/2660189297-500.jpg" data-tags="electronic, idm" role="button">
+Squarepusher - Feed Me Weird Things (1996-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
@@ -63,9 +66,6 @@ E-Z Rollers - Weekend World (1998-04-30)
 <li data-cover="http://coverartarchive.org/release/70eabfa6-e06a-4dbb-8e51-c84fc6e77dae/15081827680-500.jpg" data-tags="electronic" role="button">
 Asian Dub Foundation - Rafi's Revenge (1998-05-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/dce876a0-9d4f-4dbe-9426-f2f7b23927cb/9517798134-500.jpg" data-tags="electronic, ninja tune" role="button">
-Amon Tobin - Permutation (1998-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/a92579e5-be21-39ad-a9b1-91145b095a1b/6777440080-500.jpg" data-tags="drum and bass" role="button">
 Photek - Form & Function (1998-09-14)
 </li>
@@ -84,8 +84,8 @@ LTJ Bukem - Producer 01 (2000)
 <li data-cover="http://coverartarchive.org/release/912d3b86-6650-4fc4-bef5-4a602267a09a/24352625273-500.jpg" data-tags="drum and bass" role="button">
 Teebee - Black Science Labs (2000-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f06bab4-9d6a-4e6b-a9ef-d40d4f708602/3516537096-500.jpg" data-tags="downtempo, drum and bass, dnb, drum n bass, drum'n'bass" role="button">
-LTJ Bukem - Journey Inwards (2000-03-25)
+<li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
+Amon Tobin - Supermodified (2000-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dcce25-e3ee-49d3-9cba-7089783be547/8524138622-500.jpg" data-tags="electronic, drum and bass, techno" role="button">
 Photek - Solaris (2000-09-19)
@@ -96,11 +96,11 @@ Squarepusher - Go Plastic (2001-06-16)
 <li data-cover="https://img.discogs.com/jmWEyDO16kNXmvl9evyBzsUdK0g=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2876887-1584239708-8952.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)
 </li>
-<li data-cover="https://img.discogs.com/ESH95y9DycaT4SOOXXLezrWm8Lw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5927152-1406535632-6416.jpeg.jpg" data-tags="uutta jazzia, acid lounge, serve chilled, city lounge, my-love, jazz-trip, alternative lounge, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home tres, epic lounge, drum and bass, jazzy flavoured, acoustic groove, chillout downtempo, lounge-tech, smoothly sexy sounding, ouahhhhh, lounge vibe, lounge at home two, chillair, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, smooth lounge, downtempo influences, lounge downtempo, genre: downtempo, lounge chill, my lounge room, sweet downtempo, awesome downtempo, genre:downtempo, sexy sounding, acid jazz vibe" role="button">
-4hero - Creating Patterns (2001-10-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/1ef61f72-c6be-4cc4-94ab-5c74c1b71fad/8525462514-500.jpg" data-tags="drum and bass" role="button">
 Aphrodite - Aftershock (2002-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/e2840251-375a-3e3a-8c06-6714d1edb41b/8189295779-500.jpg" data-tags="electronic" role="button">
+Amon Tobin - Out From Out Where (2002-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
@@ -132,8 +132,8 @@ Tali - Lyric On My Lip (2004-05-03)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="drum and bass" role="button">
 High Contrast - High Society (2004-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/79ab0d1e-e46e-4aa0-abba-cc5f8d8368c7/25052882503-500.jpg" data-tags="nu jazz, downtempo, electronic" role="button">
-Parov Stelar - Rough Cuts (2004-10-25)
+<li data-cover="https://img.discogs.com/y2gorOpndf9rDDnLR03B_nwadf0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527840-1157734386.jpeg.jpg" data-tags="drum and bass" role="button">
+DJ Hazard - Use Your Brain / Selector (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/761a55cd-0505-4874-9fdc-bb711e8643c8/6755037078-500.jpg" data-tags="electronic, dub, drum and bass" role="button">
 Asian Dub Foundation - Tank (2005-02-16)
@@ -165,10 +165,7 @@ State Of Mind - Take Control (2006-10-06)
 <li data-cover="https://img.discogs.com/ESH95y9DycaT4SOOXXLezrWm8Lw=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5927152-1406535632-6416.jpeg.jpg" data-tags="uutta jazzia, acid lounge, city lounge, jazz-trip, alternative lounge, lounge chill, electronic lounge jazz, lounge electronic, lounge uptempo, chillounge1, chill chill, jazzy vibes, lounge at home tres, chillair, epic lounge, jazzy flavoured, my-love, acoustic groove, lounge downtempo, lounge-tech, groove lounge, ouahhhhh, lounge vibe, lounge at home two, 1st vine, 1st vine acid, chilllounge1, nu jazz vibe, nu-jazz vibe, nujazz vibe, uuta jazzia, uutta jazziz, serve chilled, tropcool, acid jazz vibe, nu jazz, chillout downtempo, my lounge room, awesome downtempo" role="button">
 4hero - Play With The Changes (2007-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/1a867983-07db-41e2-9d15-a4dfe499cbbc/6195488355-500.jpg" data-tags="ninja tune, turntablism" role="button">
-DJ Kentaro - Enter (2007-02-28)
-</li>
-<li data-cover="https://img.discogs.com/GputH6lDFPjb23FDsCe_IJvgUGI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5272086-1389257474-6602.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/qSBn4f6-6n3czyw-EXCS6PZntro=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179233-1319362752.jpeg.jpg" data-tags="trip-hop" role="button">
 Kosheen - Damage (2007-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cb27823-5bae-4fbe-8464-f78e7f585a78/4924168225-500.jpg" data-tags="drum and bass" role="button">
@@ -198,11 +195,11 @@ Danny Byrd - Supersized (2008-05-24)
 <li data-cover="https://img.discogs.com/2jBBShhrav6Y75md5PjanQUnvWE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7012150-1431643375-5867.png.jpg" data-tags="drum and bass" role="button">
 Sub Focus - Timewarp / Join the Dots (2008-06-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e30e823-fb1d-49c8-8a06-671363582716/11057205298-500.jpg" data-tags="drum and bass" role="button">
+Telemetrik - My Lightyear (2008-06-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/5bf72d24-7ae4-45a0-82df-213485d6a68c/5504084776-500.jpg" data-tags="drum and bass, liquid funk" role="button">
 London Elektricity - Syncopated City (2008-09-01)
-</li>
-<li data-cover="https://img.discogs.com/1yUYXbMd-1P7YRiS710HOsetOTw=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2159048-1267195191.jpeg.jpg" data-tags="nu jazz, chillout, electropop, indie, jazz, pop, chill, rock, instrumental, alternative, alternative rock, folk, indie pop, indie rock, female vocalists, downtempo, dub, singer-songwriter, acoustic, fusion, world, post-punk, soft rock, funk, jazz-funk, blues, house, indietronica, lounge, drum and bass, dream pop, american, funky, mellow, nu-jazz, smooth, folktronica, rnb, groovy, female vocalist, rhythm and blues, greys anatomy, neo soul, neo-soul, jazzy hip hop, nu-bluz, nu-bluz funky grooves in the e-lounge, electronic-folk, bay area best, groovelife advocate" role="button">
-Anya Marina - Slow & Steady Seduction: Phase II (2008-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f20719f3-0c5f-426d-b3d8-d02e4fd4917f/3498321233-500.jpg" data-tags="drum and bass" role="button">
 The Qemists - Join The Q (2008-12)
@@ -228,9 +225,6 @@ Sub Focus - Sub Focus (2009-09-07)
 <li data-cover="http://coverartarchive.org/release/6d044f18-a701-432b-81c4-d6abcee197d4/14307903674-500.jpg" data-tags="drum and bass" role="button">
 Alix Perez - 1984 (2009-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a509a88-2d08-39a8-a6b6-aec83ead870b/17390032491-500.jpg" data-tags="experimental, idm, drum and bass" role="button">
-Zero 7 - Yeah Ghost (2009-09-28)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
 Chase & Status - End Credits (2009-11-01)
 </li>
@@ -240,7 +234,7 @@ Netsky - I Refuse / Midnight Express (2010-01-15)
 <li data-cover="http://coverartarchive.org/release/95da9d74-569f-4406-8bc4-7bf2bcbe69b6/20733482972-500.jpg" data-tags="post-hardcore" role="button">
 Enter Shikari - Tribalism (2010-02-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
+<li data-cover="https://img.discogs.com/kNekYkQNbinpRT-qFxpb1gjsCb8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2296610-1604750027-7641.jpeg.jpg" data-tags="drum and bass" role="button">
 Netsky - Netsky (2010-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbc123d-a926-4700-b5a6-b71f09fe175e/12658720449-500.jpg" data-tags="drum and bass" role="button">
@@ -282,6 +276,9 @@ Camo & Krooked - Cross the Line (2011-10-03)
 <li data-cover="https://img.discogs.com/miVVKtOXYjaY8CRc0_6yejrPwcY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9796918-1486671800-4622.jpeg.jpg" data-tags="dubstep, drum and bass" role="button">
 High Contrast - The Agony & The Ecstasy (2012-01-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/cc77fd5f-d3e2-4aad-a362-cd1fb22eedc5/15872136315-500.jpg" data-tags="drum and bass" role="button">
+Logistics - Fear Not (2012-04-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
@@ -299,6 +296,9 @@ Kosheen - Independence (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/87e1d9bd-a13b-4ff3-9964-cfd4e5ae2ffe/6892823160-500.jpg" data-tags="dubstep" role="button">
+Modestep - Evolution Theory (2013-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec6d908f-cf79-4225-a20f-7796ad248661/8830440426-500.jpg" data-tags="drum and bass" role="button">
 Rudimental - Home (2013-02-22)

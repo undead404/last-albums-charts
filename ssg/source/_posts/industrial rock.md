@@ -1,15 +1,15 @@
 ---
-date: 2021-04-07T12:47:01.811Z
+date: 2021-04-09T17:21:01.441Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">Nine Inch Nails - Pretty Hate Machine (1989-11-20)</li>
+<li data-cover="https://img.discogs.com/bQaqm3T9SMQu4NkS3q7IhBOoY3Y=/fit-in/368x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2678560-1407808660-9954.jpeg.jpg" data-tags="industrial" role="button">Nine Inch Nails - Pretty Hate Machine (1989-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/db8289f4-3602-31f6-a59b-3f57a7393908/1154285194-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - Broken (1992-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">Marilyn Manson - Mechanical Animals (1998-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/e736471c-5ff3-40f2-b825-babd721701ac/15660207415-500.jpg" data-tags="industrial rock" role="button">Nine Inch Nails - The Fragile (1999-09-20)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">Nine Inch Nails - With Teeth (2005-04-27)</li>
+<li data-cover="https://img.discogs.com/2UzYQlYbLgX8hEbK9PI_dbBtgz4=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545285-1441756329-4856.jpeg.jpg" data-tags="industrial" role="button">Nine Inch Nails - With Teeth (2005-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">Nine Inch Nails - Year Zero (2007-04-14)</li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">Marilyn Manson - Eat Me, Drink Me (2007-06-01)</li>
 <li data-cover="https://img.discogs.com/e44-Cpih6j4SWQr6_lkbMYyEq58=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2913558-1507813314-3617.png.jpg" data-tags="industrial rock, industrial" role="button">Nine Inch Nails - The Slip (2008-05-05)</li>
@@ -21,13 +21,16 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/843d0653-f15d-3d62-befc-ccc951e0db48/5857978636-500.jpg" data-tags="noise rock" role="button">
+Big Black - Songs About Fucking (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/06bacf92-484b-3b01-aceb-2d3f255f0971/27317292861-500.jpg" data-tags="post-punk, industrial" role="button">
 Swans - Children of God (1987-10-19)
 </li>
 <li data-cover="https://img.discogs.com/3VBq9ZgVdSI_QuufPlOB8TWoQ8k=/fit-in/591x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-318243-1212712353.jpeg.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - Down in It (1989-09-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
+<li data-cover="https://img.discogs.com/bQaqm3T9SMQu4NkS3q7IhBOoY3Y=/fit-in/368x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2678560-1407808660-9954.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Pretty Hate Machine (1989-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8efff778-8da9-441c-b2a7-1374da31426b/10149276948-500.jpg" data-tags="industrial, industrial rock" role="button">
@@ -63,16 +66,13 @@ Nine Inch Nails - Closer to God (1994-05-14)
 <li data-cover="http://coverartarchive.org/release/81fb8d37-226c-4126-b6b3-1f73b611dd72/11196962512-500.jpg" data-tags="industrial metal, alternative metal" role="button">
 Marilyn Manson - Portrait Of An American Family (1994-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/b51ce6f1-7b00-33a9-bb2e-c976385f5faa/12053294894-500.jpg" data-tags="industrial rock, industrial, grebo" role="button">
-Pop Will Eat Itself - Dos Dedos Mis Amigos (1994-09-19)
-</li>
 <li data-cover="https://img.discogs.com/OBBZWF2KC7E-M6Xy5f3ZJJnTIvU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1456561-1221091527.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Nihil (1995-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/515f4804-635d-40a4-8f88-0f73c4fca791/2833911546-500.jpg" data-tags="industrial, rock, industrial rock" role="button">
 Filter - Short Bus (1995-04-25)
 </li>
-<li data-cover="https://img.discogs.com/KSBCp-Xa5fBZ-20Ub0KCi7kG1Qk=/fit-in/600x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4672210-1447984780-4471.jpeg.jpg" data-tags="industrial" role="button">
+<li data-cover="https://img.discogs.com/dT23prXyJnG9NFzw5drDnHxkO7o=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2517479-1288432107.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - Further Down the Spiral (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/caede476-52c5-45f8-923b-5991f20984af/5910861121-500.jpg" data-tags="industrial metal" role="button">
@@ -99,6 +99,9 @@ Marilyn Manson - Antichrist Superstar (1996-10-08)
 <li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Pitchshifter - www.pitchshifter.com (1998-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/9a760d12-0bde-485a-b927-1c961ce1f737/24090557767-500.jpg" data-tags="90s, industrial rock" role="button">
+God Lives Underwater - Life In The So-Called Space Age (1998-03-24)
+</li>
 <li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
 </li>
@@ -111,6 +114,9 @@ Marilyn Manson - Mechanical Animals (1998-09-14)
 <li data-cover="http://coverartarchive.org/release/cd7a8945-f7d9-40c3-91a3-35e68f82af13/11162402002-500.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Adios (1999-04-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/da0ac25e-6e75-3e63-b8b4-e2ff206b60db/10150650258-500.jpg" data-tags="industrial, alternative" role="button">
+Nine Inch Nails - The Day the World Went Away (1999-07-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/977b1d11-0420-43cd-9e65-a42a1e381411/15657150236-500.jpg" data-tags="industrial, alternative rock, hard rock" role="button">
 Filter - Title of Record (1999-08-23)
 </li>
@@ -122,9 +128,6 @@ Marilyn Manson - The Last Tour On Earth (1999-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/af482700-2875-4f53-a093-6b0d6e2fd81a/11998407874-500.jpg" data-tags="industrial, industrial rock" role="button">
 Zeromancer - Clone Your Lover (2000-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/9303fc8e-9186-4da0-a1a0-f73a44a6888c/8112390189-500.jpg" data-tags="female vocalists, rock" role="button">
-Jack Off Jill - Clear Hearts Grey Flowers (2000-07-17)
 </li>
 <li data-cover="https://img.discogs.com/DFXZwcfJraF7v-cwcBZU2TqHsIY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240284-1430129633-8202.jpeg.jpg" data-tags="industrial metal, industrial" role="button">
 Theatre of Tragedy - Musique (2000-10-02)
@@ -207,11 +210,8 @@ Nine Inch Nails - The Hand That Feeds (2005-04-02)
 <li data-cover="https://img.discogs.com/A4qeBg-gGngFvTWl-nYwHrOYnj0=/fit-in/431x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1229722-1202268261.jpeg.jpg" data-tags="industrial, industrial jungle pussy punk" role="button">
 Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
+<li data-cover="https://img.discogs.com/2UzYQlYbLgX8hEbK9PI_dbBtgz4=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545285-1441756329-4856.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - With Teeth (2005-04-27)
-</li>
-<li data-cover="https://img.discogs.com/DfDcweJoT-KSw2P-qwEaONzz82c=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524549-1127650288.jpeg.jpg" data-tags="synthpop, ebm" role="button">
-Apoptygma Berzerk - You and Me Against the World (2005-09-12)
 </li>
 <li data-cover="https://img.discogs.com/_rhWtCaaRWl4b45YL1jr9oAQt_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15806625-1598148122-3966.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Hau Ruck (2005-09-13)
@@ -246,6 +246,9 @@ Emigrate - Emigrate (2007-08-31)
 <li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">
 The Birthday Massacre - Walking With Strangers (2007-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/1ffca1f5-0767-4f13-aa2d-a427edc33ab7/6282048450-500.jpg" data-tags="rock, alternative rock, progressive rock, maynard james keenan, maynard" role="button">
+Puscifer - Don't Shoot The Messenger (2007-10-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/61638deb-6bce-3795-a26c-ac2a92b7e66c/3799679959-500.jpg" data-tags="industrial rock, electronic, industrial, remix" role="button">
 Nine Inch Nails - Y34RZ3r0r3mix3d (2007-11-20)
 </li>
@@ -260,9 +263,6 @@ The Birthday Massacre - Looking Glass (2008-05-02)
 </li>
 <li data-cover="https://img.discogs.com/e44-Cpih6j4SWQr6_lkbMYyEq58=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2913558-1507813314-3617.png.jpg" data-tags="industrial rock, industrial" role="button">
 Nine Inch Nails - The Slip (2008-05-05)
-</li>
-<li data-cover="https://img.discogs.com/A8bQe3b-m6ZWCu8b8VvWA_zRCs4=/fit-in/323x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709090-1238361216.jpeg.jpg" data-tags="alternative rock, industrial rock" role="button">
-Innerpartysystem - Innerpartysystem (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/1547e7ce-387d-4434-982c-1e17f610b187/3270267783-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Chinese Democracy (2008-11-06)
@@ -282,11 +282,11 @@ Marilyn Manson - The High End Of Low (2009-05-19)
 <li data-cover="https://img.discogs.com/K9vvevOb3eEk8Uk1lUFU4K4jOR0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1799688-1244129233.jpeg.jpg" data-tags="industrial rock, cyber metal" role="button">
 Dope Stars Inc. - 21st Century Slave (2009-07-10)
 </li>
+<li data-cover="https://img.discogs.com/2juM1ZsU32l-m5L9XaWDg514H5E=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2048249-1264011671.jpeg.jpg" data-tags="industrial metal" role="button">
+Rammstein - Liebe ist für alle da (2009-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/78bdcb53-b585-4f00-96e0-5f9173c51e1a/2618566400-500.jpg" data-tags="industrial, electronic, alternative rock, female vocalists, synth-rock" role="button">
 The Birthday Massacre - Pins and Needles (2010-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/6c534d5d-3c34-4f52-958a-1410a0384095/6608522038-500.jpg" data-tags="post-punk, industrial rock, industrial metal" role="button">
-Killing Joke - Absolute Dissent (2010-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/93b9d79e-7422-4c97-81ab-fea8ed068973/10666955584-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Blue Stahli (2011-03-02)

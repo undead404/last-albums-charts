@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T10:38:01.653Z
+date: 2021-04-09T16:52:01.457Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -7,7 +7,7 @@ title: "new wave: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">Joy Division - Unknown Pleasures (1979-06-15)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">Talking Heads - Remain in Light (1980-10-08)</li>
 <li data-cover="https://img.discogs.com/X_tJR7aIss-VRUovmno82eTyAFQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-521432-1543914945-2213.jpeg.jpg" data-tags="new wave, post-punk" role="button">New Order - Power, Corruption & Lies (1983-05)</li>
-<li data-cover="http://coverartarchive.org/release/714c8fa2-0a75-470b-a5d3-3709e41aa6dd/4361451627-500.jpg" data-tags="80s, new wave" role="button">Tears for Fears - Songs from the Big Chair (1985-02-17)</li>
+<li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">a-ha - Hunting High and Low (1985-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/bc1bf979-4889-3d5e-8edd-bf1bcffa80c3/23483858382-500.jpg" data-tags="new wave, 80s" role="button">The Cure - The Head on the Door (1985-08-13)</li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">The Cure - Disintegration (1989-05-01)</li>
 <li data-cover="https://img.discogs.com/3iegZ_HzM2EWcgOWBaN3CfRedyo=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467428-1117836841.jpg.jpg" data-tags="synthpop, new wave, 90s" role="button">Depeche Mode - Violator (1990-02-05)</li>
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">
 Television - Marquee Moon (1977-02-08)
 </li>
-<li data-cover="https://img.discogs.com/DgmQ-li2mG7IwBAYrgNJDo-V5ws=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2170117-1268407814.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
@@ -39,7 +39,7 @@ Devo - Q: Are We Not Men? A: We Are Devo! (1978-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 Talking Heads - More Songs About Buildings and Food (1978-07-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, 70s" role="button">
+<li data-cover="https://img.discogs.com/H92dZgp-GekKNb7MK4brY2XDqGQ=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2572675-1291146107.jpeg.jpg" data-tags="new wave, 70s" role="button">
 Blondie - Parallel Lines (1978-09-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, new wave" role="button">
@@ -99,9 +99,6 @@ Depeche Mode - Speak & Spell (1981-10-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave" role="button">
 Joy Division - Still (1981-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/32dbc785-9a03-4603-9a77-930332a4334c/8018255801-500.jpg" data-tags="new wave, 80s" role="button">
-The Human League - Dare! (1981-10-16)
-</li>
 <li data-cover="https://img.discogs.com/WDjgq5CTpdSBkxt06-5WxoQ4yro=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2627166-1525324084-8529.jpeg.jpg" data-tags="80s, new wave" role="button">
 Blondie - The Best of Blondie (1981-10-31)
 </li>
@@ -111,7 +108,7 @@ Soft Cell - Non-Stop Erotic Cabaret (1981-11-23)
 <li data-cover="http://coverartarchive.org/release/79bbe18b-183d-3b96-9237-e24ef540b7d6/4557133682-500.jpg" data-tags="new wave, 80s" role="button">
 A Flock of Seagulls - A Flock Of Seagulls (1982)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
+<li data-cover="https://img.discogs.com/xSXWAt5yTN34mzptdNfzstkELRE=/fit-in/400x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3024496-1312231658.jpeg.jpg" data-tags="new wave, 80s" role="button">
 Eurythmics - Sweet Dreams (Are Made Of This) (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
@@ -120,7 +117,7 @@ Visage - The Damned Don't Cry (1982-01-04)
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
-<li data-cover="https://img.discogs.com/6f2arQmOvhprFonrzs0tkxWGCRg=/fit-in/596x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372943-1363547814-5889.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
+<li data-cover="https://img.discogs.com/PCgnxVCzzTl-HSsQaU4qnKhloN4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-600291-1175787502.jpeg.jpg" data-tags="rock, 80s, new wave" role="button">
 Billy Idol - Billy Idol (1982-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/07297312-a07f-4888-bec2-e3e8fd1b20ba/7449691977-500.jpg" data-tags="80s, new wave" role="button">
@@ -177,10 +174,7 @@ Dead or Alive - Youthquake (1985-01-01)
 <li data-cover="http://coverartarchive.org/release/553849ea-0c72-3239-af7a-f59a8e048f0b/2589359162-500.jpg" data-tags="80s" role="button">
 The Smiths - Meat Is Murder (1985-02-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/714c8fa2-0a75-470b-a5d3-3709e41aa6dd/4361451627-500.jpg" data-tags="80s, new wave" role="button">
-Tears for Fears - Songs from the Big Chair (1985-02-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
+<li data-cover="https://img.discogs.com/rg1T9gLjzeLz05GEll9mZqaW2DI=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503261-1235343459.jpeg.jpg" data-tags="new wave, 80s" role="button">
 New Order - Low-Life (1985-05-01)
 </li>
 <li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">
@@ -192,14 +186,14 @@ Talking Heads - Little Creatures (1985-06-10)
 <li data-cover="http://coverartarchive.org/release/bc1bf979-4889-3d5e-8edd-bf1bcffa80c3/23483858382-500.jpg" data-tags="new wave, 80s" role="button">
 The Cure - The Head on the Door (1985-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/053fc4d5-34e8-4757-9e16-29c91b36253b/23804216681-500.jpg" data-tags="80s, new wave, art pop" role="button">
-Talk Talk - The Colour of Spring (1986-03)
-</li>
 <li data-cover="https://img.discogs.com/5SE4udcAcVxlSqfOOVn78VGipvg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1442364-1287320879.jpeg.jpg" data-tags="synthpop, 80s, new wave" role="button">
 Depeche Mode - Black Celebration (1986-03-17)
 </li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/0bbb5a12-42f2-4bc2-81af-2a895e2e2572/26059563062-500.jpg" data-tags="80s, new wave" role="button">
+New Order - Brotherhood (1986-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0da7fda-06a8-452c-b25b-9aa320f7409d/4734396063-500.jpg" data-tags="80s" role="button">
 The Smiths - Louder Than Bombs (1987-03-16)
@@ -224,6 +218,9 @@ The B-52's - Cosmic Thing (1989-06-06)
 </li>
 <li data-cover="https://img.discogs.com/3iegZ_HzM2EWcgOWBaN3CfRedyo=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467428-1117836841.jpg.jpg" data-tags="synthpop, new wave, 90s" role="button">
 Depeche Mode - Violator (1990-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1bad019-ee7b-437a-a587-d314d4541892/2461283124-500.jpg" data-tags="new wave, alternative, remix" role="button">
+The Cure - Mixed Up (1990-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/28bb674b-dc21-3a26-92a9-ced106a4165c/2633457554-500.jpg" data-tags="pop, 80s" role="button">
 Eurythmics - Greatest Hits (1991-02-28)
@@ -291,9 +288,6 @@ The Strokes - Angles (2011-03-18)
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/fcb2858e-81e4-456f-a59e-d0d2e1b9919e/7135784939-500.jpg" data-tags="shoegaze, new wave" role="button">
-The Horrors - Skying (2011-07-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/b6b21d16-021f-48fe-a575-c46320cf3107/28325780282-500.jpg" data-tags="indie pop, new wave" role="button">
 The Drums - Portamento (2011-09-02)
 </li>
@@ -312,8 +306,14 @@ Twin Shadow - Confess (2012-07-09)
 <li data-cover="https://img.discogs.com/oj94D1ou3UxDB55dmmdbi3H5jfo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4512821-1367002480-6236.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Comedown Machine (2013-03-22)
 </li>
-<li data-cover="https://img.discogs.com/gqV7z6TvbtaV1-ZYmoScs8X-Qc8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6018432-1408954698-5308.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
 Paramore - Paramore (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
+Phoenix - Bankrupt! (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
+The 1975 - The 1975 (2013-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Reflektor (2013-09-09)

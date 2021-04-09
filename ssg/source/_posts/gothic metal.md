@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T11:57:01.371Z
+date: 2021-04-09T17:38:01.531Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -123,6 +123,9 @@ After Forever - Decipher (2001)
 <li data-cover="http://coverartarchive.org/release/806f4fd4-46c1-47ab-ace0-6e9a8918b1f8/17661057834-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Unleashed Memories (2001-01-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/1d2cfca8-1cdf-4a98-8bd5-0769b97769dc/3597667276-500.jpg" data-tags="doom metal" role="button">
+Katatonia - Last Fair Deal Gone Down (2001-05-08)
+</li>
 <li data-cover="https://img.discogs.com/gxYJ-nk2pFua4c3lXTLABrMM690=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4342740-1362301560-1297.jpeg.jpg" data-tags="gothic metal" role="button">
 Moonspell - Darkness And Hope (2001-08-27)
 </li>
@@ -200,6 +203,9 @@ Nightwish - Once (2004-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7bea46d-8986-363c-8f81-458b81e8944b/2959523284-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Cradle of Filth - Nymphetamine (2004-09-27)
+</li>
+<li data-cover="https://img.discogs.com/Z5gcGJPTwrTliMRhjgGFjuSNitc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2970780-1379532440-8207.jpeg.jpg" data-tags="gothic rock" role="button">
+The 69 Eyes - Devils (2004-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
@@ -312,13 +318,7 @@ Paradise Lost - Faith Divides Us - Death Unites Us (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/5b04e41d-136a-49ae-8788-4e57cf8747d8/14259140884-500.jpg" data-tags="alternative metal" role="button">
 Lacuna Coil - Dark Adrenaline (2012-01-20)
-</li>
-<li data-cover="https://img.discogs.com/G-tdPYJ2EslIJZAiSn3JubgRQ1E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4866623-1379625194-7125.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
-Chelsea Wolfe - Pain Is Beauty (2013-09-03)
 </li>
 </ol>

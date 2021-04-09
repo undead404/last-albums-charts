@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T02:09:01.406Z
+date: 2021-04-09T17:29:01.963Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -60,7 +60,7 @@ Stratovarius - Episode (1996-04-24)
 <li data-cover="https://img.discogs.com/WeOpxeolCLMCOCFdIDxAM5TCnOk=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092807-1446529825-4734.jpeg.jpg" data-tags="power metal" role="button">
 Iced Earth - The Dark Saga (1996-05-20)
 </li>
-<li data-cover="https://img.discogs.com/Ehg1UWIR2LOFYC-zR-eaywAAbik=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6774225-1443346722-5599.jpeg.jpg" data-tags="power metal" role="button">
+<li data-cover="https://img.discogs.com/rGk8JZTbq0cMG--FXbNcLhoGGGU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467847-1529268889-6877.jpeg.jpg" data-tags="power metal" role="button">
 Stratovarius - Visions (1997-04-23)
 </li>
 <li data-cover="https://img.discogs.com/zgQnPXdX_1IGwYpZaGUJ-15VAUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296588-1585598536-4340.jpeg.jpg" data-tags="power metal" role="button">
@@ -147,14 +147,8 @@ Edguy - Mandrake (2001-09-24)
 <li data-cover="http://coverartarchive.org/release/0ba73082-04fe-3bf4-a601-ec0b26e083e9/1555934640-500.jpg" data-tags="power metal" role="button">
 Angra - Rebirth (2001-10-24)
 </li>
-<li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Rain of a Thousand Flames (2001-12-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/fb4a053e-7139-49e4-9aa6-bf1f29299b3c/1633190014-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - A Night at the Opera (2002-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6c1a7be-654b-3b60-9a06-e8ea7337f12f/7464315772-500.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Power of the Dragonflame (2002-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/48f96bea-8bb4-4522-ad41-497590121c7b/14160241341-500.jpg" data-tags="power metal, heavy metal" role="button">
 Dream Evil - Dragonslayer (2002-04-10)
@@ -165,7 +159,7 @@ Manowar - Warriors of the World (2002-05-27)
 <li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Century Child (2002-06-24)
 </li>
-<li data-cover="https://img.discogs.com/zgQnPXdX_1IGwYpZaGUJ-15VAUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296588-1585598536-4340.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
+<li data-cover="https://img.discogs.com/1-vKmbyVlW9TN7B4y9NS6WEd-zs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8359429-1460066424-8916.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
 HammerFall - Crimson Thunder (2002-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa0410bd-35e3-43de-aa19-efa559a485b3/3192372073-500.jpg" data-tags="melodic death metal" role="button">
@@ -221,6 +215,9 @@ Avenged Sevenfold - City of Evil (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/98ec9bed-7912-3faa-994d-39b045c2842d/4309139312-500.jpg" data-tags="power metal" role="button">
 Demons & Wizards - Touched by the Crimson King (2005-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/295a0816-ab5f-4fd0-a09f-c6055805ce16/14222280979-500.jpg" data-tags="power metal" role="button">
+Gamma Ray - Majestic (2005-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">
 DragonForce - Inhuman Rampage (2005-12-28)
@@ -305,6 +302,9 @@ Nightwish - Imaginaerum (2011-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">
 Sabaton - Carolus Rex (2012-05-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
+Wintersun - Time I (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
 Amaranthe - The Nexus (2013-03-13)

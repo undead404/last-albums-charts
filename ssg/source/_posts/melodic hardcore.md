@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T20:45:01.782Z
+date: 2021-04-09T17:20:01.477Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -39,13 +39,10 @@ Pennywise - Full Circle (1997-04-22)
 <li data-cover="https://img.discogs.com/qS1pgx4O5AkX22znlBsXIHqp3Yg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383697-1386630926-9272.jpeg.jpg" data-tags="melodic hardcore, pop punk" role="button">
 Lifetime - Jersey's Best Dancers (1997-06-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6f37015-1c85-46dd-bceb-8c6919157196/11686735734-500.jpg" data-tags="punk, pop punk, california, melodic hardcore, aleister crowley, fat wreck chords, christopher lee, aleyster crowley, nu-punk, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, 90s punk rock, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, thebestofaleystercrowley, approved by randy, records of yo" role="button">
-No Use for a Name - Making Friends (1997-08-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/a25d7f06-643f-31ea-b378-43bbc445458a/23691230295-500.jpg" data-tags="melodic hardcore, punk rock" role="button">
 Strung Out - Twisted By Design (1998-05-05)
 </li>
-<li data-cover="https://img.discogs.com/XJgeAZbPusoD0DkmQH_OYfYRw2A=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583768-1291743644.jpeg.jpg" data-tags="pop punk, melodic hardcore, emo, punk rock" role="button">
+<li data-cover="https://img.discogs.com/9QJuAz0PTXQsgiotouR1kQ3wZrQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4910593-1379180466-8855.jpeg.jpg" data-tags="pop punk, melodic hardcore, emo, punk rock" role="button">
 Saves the Day - Can't Slow Down (1998-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/272c941c-fdd8-4b15-bfa8-9719a51a3c0b/17501004429-500.jpg" data-tags="punk rock, punk" role="button">
@@ -77,6 +74,9 @@ Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a523bcb6-4d68-3854-b159-82fd53f9655d/24573949978-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Strung Out - An American Paradox (2002-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d614abb-8191-46ec-b58a-22aaaf5f4de1/11783603546-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
+Dillinger Four - Situationist Comedy (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/klcWXJGcipcwMGBjApfyG2e5Ztk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-810275-1608482333-3173.jpeg.jpg" data-tags="post-hardcore, melodic hardcore" role="button">
 Hopesfall - The Satellite Years (2002-10-15)

@@ -1,19 +1,19 @@
 ---
-date: 2021-04-07T13:05:01.543Z
+date: 2021-04-09T17:32:01.508Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
-![David Bowie - Space Oddity (1969-11-04)](https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg "David Bowie - Space Oddity (1969-11-04)")
+![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">David Bowie - Space Oddity (1969-11-04)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="glam rock, 70s, rock" role="button">David Bowie - The Man Who Sold the World (1970-11-04)</li>
+<li data-cover="https://img.discogs.com/EBAD1VztrgUqzvIUeVSyR9ujs7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3837949-1346378968-3807.jpeg.jpg" data-tags="glam rock, 70s, rock" role="button">David Bowie - The Man Who Sold the World (1970-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/e6981e93-837e-4e7f-9ab0-8ec794df35e8/20620684373-500.jpg" data-tags="glam rock, 70s" role="button">T. Rex - Electric Warrior (1971-09-24)</li>
 <li data-cover="http://coverartarchive.org/release/04490fb2-a861-3db8-a8c6-386d8f9da1dc/2776393252-500.jpg" data-tags="glam rock, 70s" role="button">David Bowie - Hunky Dory (1971-12-17)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
+<li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
 <li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/ac6a3bdd-4d2e-38e8-ba6e-33cecf128b18/14101003831-500.jpg" data-tags="glam rock, 70s" role="button">David Bowie - Diamond Dogs (1974-03)</li>
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">Marilyn Manson - Mechanical Animals (1998-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/3709ee5a-d087-370f-afb4-f730092c7a94/23744459570-500.jpg" data-tags="classic rock, rock" role="button">David Bowie - Best of Bowie (2002-10-18)</li>
-<li data-cover="https://img.discogs.com/-pNO1Qw9sSNG69I-wiY2tSYprlU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814196-1167785283.jpeg.jpg" data-tags="hard rock, rock" role="button">The Darkness - Permission to Land (2003-07-07)</li>
+<li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">The Darkness - Permission to Land (2003-07-07)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -27,7 +27,7 @@ The Easybeats - Friday on My Mind (1966)
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
 David Bowie - Space Oddity (1969-11-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="glam rock, 70s, rock" role="button">
+<li data-cover="https://img.discogs.com/EBAD1VztrgUqzvIUeVSyR9ujs7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3837949-1346378968-3807.jpeg.jpg" data-tags="glam rock, 70s, rock" role="button">
 David Bowie - The Man Who Sold the World (1970-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6981e93-837e-4e7f-9ab0-8ec794df35e8/20620684373-500.jpg" data-tags="glam rock, 70s" role="button">
@@ -36,7 +36,7 @@ T. Rex - Electric Warrior (1971-09-24)
 <li data-cover="http://coverartarchive.org/release/04490fb2-a861-3db8-a8c6-386d8f9da1dc/2776393252-500.jpg" data-tags="glam rock, 70s" role="button">
 David Bowie - Hunky Dory (1971-12-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">
+<li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
 </li>
 <li data-cover="https://img.discogs.com/Otf6_JO4GjZMPbv3IFsC-6_a62g=/fit-in/348x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5441040-1396312486-9043.jpeg.jpg" data-tags="70s, glam rock" role="button">
@@ -123,7 +123,7 @@ Iggy Pop - Lust For Life (1977-08-29)
 <li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
 Queen - News Of The World (1977-10-28)
 </li>
-<li data-cover="https://img.discogs.com/3G1YjK2rF08gsg85RU7FrqnyNfc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-862142-1556033887-6249.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
+<li data-cover="https://img.discogs.com/WnQihlMJVDqIButcXyw--fIvXqk=/fit-in/450x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585971-1249150488.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
 Japan - Adolescent Sex (1978-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
@@ -150,7 +150,7 @@ Roxy Music - Avalon (1982-06)
 <li data-cover="https://img.discogs.com/MMqZp2WZBPdxCzul7S6MKCFyYoo=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14447510-1574703270-9085.png.jpg" data-tags="glam metal, hard rock" role="button">
 Ratt - Out of the Cellar (1984)
 </li>
-<li data-cover="https://img.discogs.com/r0ak_Yh6xKRBcUUns0L0D4JhhBg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2107356-1264386999.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/-JqJFc6BmjCh6LhH6XPrUCF8F6Y=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076764-1454931862-1067.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
 </li>
 <li data-cover="https://img.discogs.com/u07muXXmfaBh79xirAViaMcyyNk=/fit-in/594x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498839-1161438657.jpeg.jpg" data-tags="classic rock, rock" role="button">
@@ -174,8 +174,11 @@ Kiss - Crazy Nights (1987-09-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Hysteria (1987-11-23)
 </li>
-<li data-cover="https://img.discogs.com/dkbqDxhqvsiV_SgBhK9b8xHQTBs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3085750-1518194666-6785.jpeg.jpg" data-tags="80s, hard rock, hair metal, glam, glam rock" role="button">
+<li data-cover="https://img.discogs.com/9l6wZJJjmtn4fFUFfL_76B3l7IY=/fit-in/353x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3776198-1343964143-5438.jpeg.jpg" data-tags="80s, hard rock, hair metal, glam, glam rock" role="button">
 Danger Danger - Danger Danger (1989-06-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/b7d17108-0217-36e6-9110-b7f24ab6da8f/15488113760-500.jpg" data-tags="hard rock" role="button">
+Alice Cooper - Trash (1989-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6aef477-83a9-42a1-81da-36ddd6d9eb8e/21763670163-500.jpg" data-tags="rock, glam rock" role="button">
 David Bowie - Sound And Vision (1989-09-19)
@@ -231,10 +234,7 @@ David Bowie - Heathen (2002-06-05)
 <li data-cover="http://coverartarchive.org/release/3709ee5a-d087-370f-afb4-f730092c7a94/23744459570-500.jpg" data-tags="classic rock, rock" role="button">
 David Bowie - Best of Bowie (2002-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/f4810353-6d20-4c08-aa9d-c2b5059ccc8c/20935552675-500.jpg" data-tags="indie" role="button">
-Fountains of Wayne - Welcome Interstate Managers (2003-06-10)
-</li>
-<li data-cover="https://img.discogs.com/-pNO1Qw9sSNG69I-wiY2tSYprlU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814196-1167785283.jpeg.jpg" data-tags="hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">
 The Darkness - Permission to Land (2003-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fd264f0-1188-47fa-bf80-f81cb9c935b9/27945984344-500.jpg" data-tags="glam rock" role="button">
@@ -252,6 +252,9 @@ Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 <li data-cover="http://coverartarchive.org/release/8fd92ce8-dba4-43ae-8c37-1be8a9dbf0db/7409169038-500.jpg" data-tags="glam rock" role="button">
 Negative - Sweet & Deceitful (2004-09-01)
 </li>
+<li data-cover="https://img.discogs.com/Z5gcGJPTwrTliMRhjgGFjuSNitc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2970780-1379532440-8207.jpeg.jpg" data-tags="gothic rock" role="button">
+The 69 Eyes - Devils (2004-10-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
 </li>
@@ -267,7 +270,7 @@ David Bowie - The Best of David Bowie 1969-1974 (2005-11-07)
 <li data-cover="http://coverartarchive.org/release/d644af71-93e6-4d49-835a-3e13cd681cee/24225700511-500.jpg" data-tags="pop, 00s, alternative, favouritestreamablealbums" role="button">
 Scissor Sisters - Ta Dah (2006-09-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/Vtt75Gzqk8PUFqIyYbXQv7PxcE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5267834-1485130102-7731.jpeg.jpg" data-tags="indie pop" role="button">
 of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, glam rock, the ark" role="button">
@@ -276,14 +279,14 @@ The Ark - Prayer For The Weekend (2007-04-12)
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
 </li>
-<li data-cover="https://img.discogs.com/iDYsTPvANTf4VsyKikp0vIPYc4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1430746-1390012650-8402.jpeg.jpg" data-tags="pop, electropop, synthpop, 00s" role="button">
-Dragonette - Galore (2007-09-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/lMWJeZe5UTygkMBOtMry3mlJfoc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495929-1598270233-6381.jpeg.jpg" data-tags="indie pop" role="button">
 of Montreal - Skeletal Lamping (2008-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4659f71-2c62-4aa4-813a-b9e2924d8a50/2554039402-500.jpg" data-tags="industrial rock, alternative rock" role="button">
 Marilyn Manson - The High End Of Low (2009-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/4f8f41d4-895d-488d-95d0-7daec079bcd1/21698152605-500.jpg" data-tags="indie, alternative, folk, epic, fucking epic" role="button">
+Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c71b28a2-d8fb-4900-a5fd-81573fde7872/10315463887-500.jpg" data-tags="hard rock" role="button">
 Kiss - Sonic Boom (2009-09-09)
@@ -293,9 +296,6 @@ Adam Lambert - For Your Entertainment (2009-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e9abe81-ca3e-4710-adb7-7dabfb7afef1/16703206620-500.jpg" data-tags="indie rock, glam rock, dfa, albums to buy, listen once" role="button">
 Free Energy - Stuck On Nothing (2010-05-04)
-</li>
-<li data-cover="https://img.discogs.com/lhXM99XSk5_uBW_B3SBU3hpTprw=/fit-in/491x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3300050-1324799991.jpeg.jpg" data-tags="synthpop, glam rock, electronic, folktronica" role="button">
-Goldfrapp - The Singles (2012-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)

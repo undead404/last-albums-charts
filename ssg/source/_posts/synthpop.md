@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T11:28:01.681Z
+date: 2021-04-09T16:46:01.628Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Depeche Mode - Violator (1990-02-05)](https://img.discogs.com/3iegZ_HzM2EWcgOWBaN3CfRedyo=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467428-1117836841.jpg.jpg "Depeche Mode - Violator (1990-02-05)")
@@ -30,7 +30,7 @@ Depeche Mode - Speak & Spell (1981-10-05)
 <li data-cover="https://img.discogs.com/_W4tJSA3wZL_2eKIS2PwpID40ZE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605541-1438207160-6998.jpeg.jpg" data-tags="80s, new wave, synthpop" role="button">
 Soft Cell - Non-Stop Erotic Cabaret (1981-11-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new wave, 80s" role="button">
+<li data-cover="https://img.discogs.com/xSXWAt5yTN34mzptdNfzstkELRE=/fit-in/400x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3024496-1312231658.jpeg.jpg" data-tags="new wave, 80s" role="button">
 Eurythmics - Sweet Dreams (Are Made Of This) (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/a24d7484-2e2f-3737-a897-657df6268363/7525226429-500.jpg" data-tags="new wave, synthpop" role="button">
@@ -53,6 +53,9 @@ Depeche Mode - Black Celebration (1986-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4577ed01-57ad-3826-800b-e0c4d4998611/9417546640-500.jpg" data-tags="synthpop, 80s, new wave, electronic" role="button">
 Depeche Mode - Music for the Masses (1987-09-28)
+</li>
+<li data-cover="https://img.discogs.com/bQaqm3T9SMQu4NkS3q7IhBOoY3Y=/fit-in/368x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2678560-1407808660-9954.jpeg.jpg" data-tags="industrial" role="button">
+Nine Inch Nails - Pretty Hate Machine (1989-11-20)
 </li>
 <li data-cover="https://img.discogs.com/3iegZ_HzM2EWcgOWBaN3CfRedyo=/fit-in/500x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467428-1117836841.jpg.jpg" data-tags="synthpop, new wave, 90s" role="button">
 Depeche Mode - Violator (1990-02-05)
@@ -99,14 +102,8 @@ Shiny Toy Guns - We Are Pilots (2005-01-31)
 <li data-cover="http://coverartarchive.org/release/d502300a-494d-42f0-a63c-b66581116f87/7526465944-500.jpg" data-tags="electronic, synthpop" role="button">
 Depeche Mode - Playing the Angel (2005-10-11)
 </li>
-<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
-The Knife - Silent Shout (2006-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">
 Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)
-</li>
-<li data-cover="https://img.discogs.com/saAGJLlLRCUAp6Sw91NAAmZOo-0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3188075-1343070458-5728.jpeg.jpg" data-tags="electronic, emusic, electronica, acquire" role="button">
-Passion Pit - Chunk of Change (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
@@ -114,13 +111,10 @@ Metronomy - Nights Out (2007)
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
-Metro Station - Metro Station (2007-09-18)
-</li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc59f362-5f9f-3382-9d82-7a0488ea052d/21026627932-500.jpg" data-tags="indie, electronic" role="button">
+<li data-cover="http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg" data-tags="indie, electronic" role="button">
 MGMT - Oracular Spectacular (2007-10-02)
 </li>
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
@@ -207,6 +201,9 @@ Neon Indian - Era Extraña (2011-09-07)
 <li data-cover="https://img.discogs.com/3nCzyviiL87c9IgTi3hhQDUpP2g=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930069-1592203831-1191.jpeg.jpg" data-tags="electronica, pop, dubstep, synthpop, lights, siberia" role="button">
 Lights - Siberia (2011-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/cdd5d8c4-21c4-40cc-9dee-a32b96ccd672/27110182808-500.jpg" data-tags="new wave" role="button">
+Future Islands - On the Water (2011-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
@@ -222,9 +219,6 @@ Grimes - Visions (2012-02-20)
 <li data-cover="https://img.discogs.com/TQxRdssI23pybl7QK_MqpifIBss=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457166-1331119671.jpeg.jpg" data-tags="synthpop, st lucia" role="button">
 St. Lucia - St. Lucia (2012-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/cce19567-04a2-47df-95fb-7101c51b8d54/1852737642-500.jpg" data-tags="electronic" role="button">
-Chromatics - Kill for Love (2012-03-26)
-</li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
 </li>
@@ -233,6 +227,9 @@ Passion Pit - Gossamer (2012-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
+</li>
+<li data-cover="https://img.discogs.com/JOuh7PkOyZ19us8N9fnE9_l69PU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4331972-1361978900-9552.jpeg.jpg" data-tags="electronic, indie pop, synthpop" role="button">
+Strange Talk - Cast Away (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/77e34804-f952-494c-80b7-8e115f492ec5/10734890314-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - The Mother We Share (2012-10-02)
@@ -269,6 +266,9 @@ Phoenix - Bankrupt! (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
+AlunaGeorge - Body Music (2013-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)

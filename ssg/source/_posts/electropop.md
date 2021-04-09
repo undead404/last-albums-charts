@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T10:20:01.634Z
+date: 2021-04-09T16:49:01.475Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -27,25 +27,22 @@ Ladytron - Light & Magic (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
 </li>
-<li data-cover="https://img.discogs.com/G9kv_Cz0yCIcRwzezpldjlGmDcQ=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1319382-1350940693-5232.jpeg.jpg" data-tags="electronic, pop, dance" role="button">
-Robyn - Robyn (2005)
-</li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
 </li>
 <li data-cover="https://img.discogs.com/IlMUkavlOonlS5zmsCFNOrJCrsA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-220194-1158742588.jpeg.jpg" data-tags="electronic" role="button">
 Ladytron - Witching Hour (2005-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/f29ea105-ff73-4d44-9ab6-9980b646e5a3/11712689954-500.jpg" data-tags="female vocalists" role="button">
+Imogen Heap - Speak for Yourself (2005-07-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
 The Presets - Beams (2005-09-12)
-</li>
-<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
-The Knife - Silent Shout (2006-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
 Paris Hilton - Paris (2006-08-14)
 </li>
-<li data-cover="https://img.discogs.com/z9f81NG8CjM29-HgnG9nFV63g-c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9861750-1487608973-7636.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/ZwgbTRkhj-EdrNJaIbBQ4iHtp2E=/fit-in/473x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777233-1157707554.jpeg.jpg" data-tags="electronic" role="button">
 Junior Boys - So This Is Goodbye (2006-09-11)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
@@ -54,16 +51,10 @@ Róisín Murphy - Overpowered (2007-05)
 <li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
 New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
-Metro Station - Metro Station (2007-09-18)
-</li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
-<li data-cover="https://img.discogs.com/iDYsTPvANTf4VsyKikp0vIPYc4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1430746-1390012650-8402.jpeg.jpg" data-tags="pop, electropop, synthpop, 00s" role="button">
-Dragonette - Galore (2007-09-24)
-</li>
-<li data-cover="https://img.discogs.com/54GHNqf-pYG1ZXHcqsDdtR0hM20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1149111-1568357549-9771.jpeg.jpg" data-tags="power pop, pop" role="button">
+<li data-cover="https://img.discogs.com/cLJmQS2vtGhXqEBRnMSNi-HpqqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500085-1224352394.jpeg.jpg" data-tags="power pop, pop" role="button">
 Girls Aloud - Tangled Up (2007-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c253de39-d431-3576-8471-a94d72edc3fa/16785422694-500.jpg" data-tags="pop, dance" role="button">
@@ -99,6 +90,9 @@ Lady Gaga - The Fame Monster (2008-08-19)
 <li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
 Ladyhawke - Ladyhawke (2008-09-15)
 </li>
+<li data-cover="https://img.discogs.com/6Hq6JSRLw9Osqvh3x6H0j3oyY4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11555797-1518437759-3077.jpeg.jpg" data-tags="pop" role="button">
+The Saturdays - Chasing Lights (2008-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
@@ -107,9 +101,6 @@ Marina & the Diamonds - The Family Jewels (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/832a78ea-5be2-36b3-bcb7-107b77dfe674/23298175097-500.jpg" data-tags="electropop" role="button">
-La Roux - In for the Kill (2009-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
@@ -131,6 +122,9 @@ Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
+</li>
+<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
+Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
 <li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
 Imogen Heap - Ellipse (2009-08-24)
@@ -177,6 +171,9 @@ Christina Aguilera - Bionic (2010-06-04)
 <li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">
 Enrique Iglesias - Euphoria (2010-07-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">
+Matthew Dear - Black City (2010-08-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
 </li>
@@ -186,10 +183,10 @@ Miami Horror - Illumination (2010-08-20)
 <li data-cover="http://coverartarchive.org/release/cffd67f7-bf16-4579-b93b-3b7922f4994d/24303225544-500.jpg" data-tags="electropop, pop" role="button">
 Sky Ferreira - One (2010-08-23)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
+<li data-cover="https://img.discogs.com/uzzLYH2sg4bW8C-a42e0sHf5WMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440274-1284186706.jpeg.jpg" data-tags="indie pop" role="button">
 The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electropop, indie pop, synthpop, 2010 albums, one eye sign" role="button">
+<li data-cover="https://img.discogs.com/V-w5rL3u3C2DbLuqGxZy-IDxZ3Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2559604-1341268022-7993.jpeg.jpg" data-tags="electropop, indie pop, synthpop, 2010 albums, one eye sign" role="button">
 Tove Styrke - Tove Styrke (2010-11-17)
 </li>
 <li data-cover="https://img.discogs.com/mfBQb1jLNhdDOFkJN0QuxSOqNSs=/fit-in/293x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601450-1137095929.gif.jpg" data-tags="pop, dance" role="button">
@@ -249,6 +246,9 @@ Maroon 5 - Overexposed (2012-06-20)
 <li data-cover="http://coverartarchive.org/release/c2174e3e-6c49-4262-8965-36a173a9ebc0/1194862110-500.jpg" data-tags="indie pop" role="button">
 Passion Pit - Gossamer (2012-07-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
+Purity Ring - Shrines (2012-07-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
@@ -291,6 +291,9 @@ Banks - Goddess (2014-01-01)
 <li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">
 MØ - Don't Wanna Dance (2014-01-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/53856cea-f434-4333-93c1-015f9f3e3658/11593248401-500.jpg" data-tags="pop, dance" role="button">
+Rita Ora - I Will Never Let You Down (2014-04-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/77fe735b-a0ce-4f69-8825-866795db205a/10503497516-500.jpg" data-tags="electronic, electropop, indie, alternative, experimental, indie pop, folktronica, 2010s" role="button">
 Sylvan Esso - Sylvan Esso (2014-05-12)
 </li>
@@ -314,9 +317,6 @@ Pitbull - Globalization (2014-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
 David Guetta - Listen (2014-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/b40af618-2aaf-4b3a-9289-bb55fa8329f0/17365332636-500.jpg" data-tags="electropop, female, pop, dance, girls, sex, lovely, electro rock, greatest hits, lost, porn, pee pee, vagina, abc, breasts, sounds, parts, tits, tags, tag, moisture, else, thursday, bananas, pork, moses, girlfriend" role="button">
-Selena Gomez - For You (2014-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
 Charli XCX - Sucker (2014-12-15)

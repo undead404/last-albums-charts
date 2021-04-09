@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T23:40:01.526Z
+date: 2021-04-09T17:11:01.452Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -47,6 +47,9 @@ Joy Division - Unknown Pleasures (1979-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c6edb25-3614-4f2c-ae90-54a8d0b39c8c/9635980660-500.jpg" data-tags="post-punk" role="button">
 Gang of Four - Entertainment! (1979-09-25)
+</li>
+<li data-cover="https://img.discogs.com/RMYzpYyIA6AOBZdbg7xWl2gJlIM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379639-1419989010-9809.jpeg.jpg" data-tags="jangle pop, post-punk, new wave" role="button">
+The Feelies - Crazy Rhythms (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a241913-d3ec-4a4f-a0bf-46c3f8555fd8/24532302261-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Love Will Tear Us Apart (1980-04-18)
@@ -114,16 +117,13 @@ Echo & the Bunnymen - Ocean Rain (1984-05-04)
 <li data-cover="http://coverartarchive.org/release/4aadb3cb-1935-38be-a824-798fc9e3c090/7905004727-500.jpg" data-tags="post-punk, new wave" role="button">
 The Cure - The Top (1984-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc6dee20-448c-387d-8eb4-a7cb737ae1b7/23441368012-500.jpg" data-tags="dream pop" role="button">
-Cocteau Twins - Treasure (1984-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">
 The Smiths - Hatful of Hollow (1984-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/133d0c34-4d0f-40a1-80e3-3683e9f346f1/7179212194-500.jpg" data-tags="post-punk" role="button">
 Killing Joke - Night Time (1985-02)
 </li>
-<li data-cover="https://img.discogs.com/tE60fMJ5MnEcRbdhmq9n4QfSQKk=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369883-1594750551-4786.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
+<li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
 The Jesus and Mary Chain - Psychocandy (1985-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/553849ea-0c72-3239-af7a-f59a8e048f0b/2589359162-500.jpg" data-tags="80s" role="button">
@@ -144,6 +144,9 @@ The Cure - Kiss Me Kiss Me Kiss Me (1987-05-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 80s" role="button">
 The Jesus and Mary Chain - Darklands (1987-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
+The Psychedelic Furs - All Of this And Nothing (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/dd58e50b-bf7b-31a1-bd82-47e7d4a2a77c/2197413454-500.jpg" data-tags="80s, post-punk" role="button">
 The Church - Starfish (1988-02-16)
 </li>
@@ -159,11 +162,11 @@ The Cure - Disintegration (1989-05-01)
 <li data-cover="https://img.discogs.com/WOaRMRG6fv7SVBDgiWNapcJHm0M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-404236-1301203330.jpeg.jpg" data-tags="post-punk" role="button">
 Swans - White Light From the Mouth of Infinity (1991-05-06)
 </li>
+<li data-cover="https://img.discogs.com/_mk6UeLI52uNeSScGOuT4u94rbo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649918-1221129835.jpeg.jpg" data-tags="indie rock" role="button">
+The Wedding Present - Seamonsters (1991-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/4284b81f-1731-313a-a4de-58b4c18a754a/5808321423-500.jpg" data-tags="90s, alternative" role="button">
 The Cure - Wish (1992-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a396a2f-0580-37a7-b713-e287434c2913/2467851334-500.jpg" data-tags="alternative rock, post-punk, 90s" role="button">
-Nick Cave & The Bad Seeds - Let Love In (1994-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
 The Cure - Wild Mood Swings (1996-05-07)
@@ -237,9 +240,6 @@ The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
-<li data-cover="https://img.discogs.com/JE48EDzF9aL5pN0N4zcrQ9eW7aE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4433334-1376410430-7315.jpeg.jpg" data-tags="post-punk" role="button">
-Nick Cave & The Bad Seeds - Dig, Lazarus, Dig!!! (2008-02-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)
 </li>
@@ -291,7 +291,7 @@ White Lies - Ritual (2011-01-17)
 <li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
 The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
-<li data-cover="https://img.discogs.com/fjkqLjXigy3tZo2ZAyynt2QXjj0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13360887-1552756400-8491.png.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cdd5d8c4-21c4-40cc-9dee-a32b96ccd672/27110182808-500.jpg" data-tags="new wave" role="button">

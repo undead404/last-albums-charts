@@ -1,13 +1,13 @@
 ---
-date: 2021-04-06T18:22:02.163Z
+date: 2021-04-09T17:23:01.439Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
-![Gary Jules - Trading Snakeoil For Wolftickets (2001)](https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg "Gary Jules - Trading Snakeoil For Wolftickets (2001)")
+![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/MC6Qr43m3UtgFc1YvkWW2AI4mRQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2966893-1415299360-3990.jpeg.jpg" data-tags="soundtrack" role="button">Vangelis - Blade Runner (1993-12)</li>
 <li data-cover="http://coverartarchive.org/release/fc8ab829-5388-4640-bb64-c41c4c1caea8/18688508262-500.jpg" data-tags="soundtrack" role="button">Thomas Newman - American Beauty (2000-01-11)</li>
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">Air - The Virgin Suicides (2000-02-25)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
-<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">Gary Jules - Trading Snakeoil For Wolftickets (2001)</li>
 <li data-cover="http://coverartarchive.org/release/0ecf61e2-f4dd-4f45-b18d-6dd8a966b511/10195795814-500.jpg" data-tags="soundtrack" role="button">Yann Tiersen - Le Fabuleux Destin d'Amélie Poulain (2001-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/b601a51c-fd3b-41cd-9d78-29efde7a3ffa/3160865970-500.jpg" data-tags="rock, comedy" role="button">Tenacious D - The Pick of Destiny (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/33abead4-3015-438f-9ea3-97f2cc5cb278/6074705469-500.jpg" data-tags="soundtrack" role="button">Clint Mansell - The Fountain (2006-11-21)</li>
@@ -27,7 +27,7 @@ Elvis Presley - Blue Hawaii (1961-10-01)
 <li data-cover="https://img.discogs.com/QuHQV7LM6dvPZAnjzVOc77o2UlU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13116777-1548348613-7143.jpeg.jpg" data-tags="soundtrack" role="button">
 Simon & Garfunkel - The Graduate (1968-02)
 </li>
-<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ac5a1f8-51d0-3db3-bfdc-c5803d8f2799/14207788461-500.jpg" data-tags="progressive rock, psychedelic rock, 60s, soundtrack" role="button">
@@ -50,6 +50,9 @@ Richard O'Brien - The Rocky Horror Picture Show (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
+</li>
+<li data-cover="https://img.discogs.com/1Q1pf6mzRlKK6w7XxlNFKRDI7oI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147346-1295073983.jpeg.jpg" data-tags="soundtrack" role="button">
+Basil Poledouris - Conan the Barbarian (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/8aea6e91-424a-48de-8f72-83d8d6716fff/6868315355-500.jpg" data-tags="soundtrack, ghostbusters, pop" role="button">
 Ray Parker Jr. - Ghostbusters (1984)
@@ -86,6 +89,9 @@ Vangelis - Blade Runner (1993-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bf88b0f-9999-4a7f-b4be-cd7f9e2a8599/28293994702-500.jpg" data-tags="soundtrack, piano" role="button">
 Michael Nyman - The Piano (1993-12-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfdabaeb-c1c8-4f73-8d4e-1c83e1a7057f/12666505545-500.jpg" data-tags="soundtrack" role="button">
+James Horner - Legends of the Fall (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/adccd851-a871-4f32-997d-2b19819b16d2/14178336019-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Pulp Fiction (1994-09-27)
@@ -141,9 +147,6 @@ Rob Dougan - Furious Angels (2001)
 <li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack, covers" role="button">
 Various Artists - I Am Sam (2001)
 </li>
-<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
-Gary Jules - Trading Snakeoil For Wolftickets (2001)
-</li>
 <li data-cover="http://coverartarchive.org/release/71932455-067b-4fcb-b9e4-2cb16da0bb96/1383827288-500.jpg" data-tags="soundtrack" role="button">
 Yann Tiersen - Amélie (2001-04-23)
 </li>
@@ -186,7 +189,7 @@ Various Artists - Lost in Translation (2003-09-09)
 <li data-cover="https://img.discogs.com/1p0S0i7CoUBZT7Iv7NiRs03R29U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8116076-1455457650-7461.jpeg.jpg" data-tags="experimental" role="button">
 Jonny Greenwood - Bodysong (2003-10-27)
 </li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
+<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/38bbd5dc-b26c-49ea-96d5-7a39be22776b/21076376416-500.jpg" data-tags="soundtrack" role="button">
@@ -254,9 +257,6 @@ The Airborne Toxic Event - The Airborne Toxic Event (2008-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Nightmare Revisited (2008-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/3beed398-780c-401f-b588-d29178e6862c/2178317994-500.jpg" data-tags="soundtrack, electronic, techno, minimal techno" role="button">
-Paul Kalkbrenner - Berlin Calling (2008-10-02)
 </li>
 <li data-cover="https://img.discogs.com/EvzWlQmx35ulZwcexVdSEObUGSs=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15721185-1596559946-2217.jpeg.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - Moon (2009-07-13)

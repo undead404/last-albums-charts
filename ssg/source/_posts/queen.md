@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T10:27:01.676Z
+date: 2021-04-09T17:14:01.451Z
 title: "queen: 100 albums you must listen to before you die"
 ---
 ![Queen - Greatest Hits (1981-11-03)](http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg "Queen - Greatest Hits (1981-11-03)")
@@ -45,7 +45,7 @@ Queen - News Of The World (1977-10-28)
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Jazz (1978-11-10)
 </li>
-<li data-cover="https://img.discogs.com/BqQyg5HhgZVpvQnPD7CfslpF9dQ=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1138814-1405512986-5230.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/qZdIcpnqJB6tH2n0hIe-IOMakDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635916-1302731463.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
 Queen - Live Killers (1979-06-22)
 </li>
 <li data-cover="https://img.discogs.com/vC_Ab8YbYPrUPisG3AaW6-e3BG4=/fit-in/534x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236962-1431722480-6285.jpeg.jpg" data-tags="rock, classic rock, 80s" role="button">
@@ -60,14 +60,11 @@ Roger Taylor - Fun In Space (1981-04-06)
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
-<li data-cover="https://img.discogs.com/RZbIVr1EsFVtbSwASwyHhqtJer0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3463860-1454516743-3408.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
+<li data-cover="https://img.discogs.com/qeLxhnGlYA0cnuU3CKQL6ru7hMI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6474715-1422720548-7289.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
 Eric Burdon - Crawling King Snake (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac3360be-899a-4133-86df-aa593b339cb8/3741108536-500.jpg" data-tags="rock, 80s" role="button">
 Queen - Hot Space (1982-05-21)
-</li>
-<li data-cover="https://img.discogs.com/jZzommZBP9LrWLeHhKFlZpNyM_E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5847955-1404373402-5216.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
-The Birthday Party - Mutiny (1983-11)
 </li>
 <li data-cover="https://img.discogs.com/u07muXXmfaBh79xirAViaMcyyNk=/fit-in/594x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498839-1161438657.jpeg.jpg" data-tags="classic rock, rock" role="button">
 Queen - The Works (1984-02-27)
@@ -96,7 +93,7 @@ Queen - Queen Ballads (1989-11-27)
 <li data-cover="http://coverartarchive.org/release/fe89bda7-4736-4ff9-8a71-8f441b8168f6/9439997044-500.jpg" data-tags="rock, classic rock, hard rock, 80s" role="button">
 Queen - The Miracle (1989-11-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
+<li data-cover="https://img.discogs.com/qZdIcpnqJB6tH2n0hIe-IOMakDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635916-1302731463.jpeg.jpg" data-tags="classic rock" role="button">
 Queen - At The BBC (1989-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f381d37f-4869-4f49-bbe6-cd843a4b502c/5909483394-500.jpg" data-tags="rock" role="button">
@@ -113,6 +110,9 @@ Queen - Greatest Hits II (1991-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ce98bda-1db0-3915-bcd1-f0ffc63997d6/17058903036-500.jpg" data-tags="90s, alternative rock, rock" role="button">
 Live - Mental Jewelry (1991-12-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c1c3582-3d7a-434e-995d-5129fae4c757/20870602711-500.jpg" data-tags="soul" role="button">
+Aretha Franklin - JAZZ TO SOUL (1992)
 </li>
 <li data-cover="https://img.discogs.com/rmFizOowKwpeX1eprL1WLZZR8hc=/fit-in/600x888/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12331262-1533332807-5148.jpeg.jpg" data-tags="noise, trance, classic rock, metal, french, electropop, indie, pop, rockabilly, rock, 80s, british, alternative, hard, brutal, grindcore, hardcore, swedish, emo, folk, rap, grime, dubstep, electro, dance, australian, canada, queen, lalala, cheese, lo-fi, blue-eyed soul, new wave, dance-pop, americana, chamber pop, post-punk, adult contemporary, new age, techno, house, scottish, canadian, ska, 8-bit, new zealand, 90s, russian, sunday, jpop, mashup, argentina, dream pop, american, chiptune, radio, cronica, spoken word, covers, aor, lazytown, bagpipes, hype, political, space rock, christian, christian rock, german, sarcasm, new weird america, geek, humour, glam rock, deep house, breakcore, youtube, frogs, nintendocore, greek, eurodance, gospel, kiwi, podcast, humor, anime, new jack swing, novelty, activist, pagan, doo-wop" role="button">
 Mark Heard - Satellite Sky (1992)
@@ -135,7 +135,7 @@ Brian May - Back to the Light (1992-08-28)
 <li data-cover="http://coverartarchive.org/release/5f83ed19-f952-43a2-971d-1c7694a09b53/3697382844-500.jpg" data-tags="freddie mercury" role="button">
 Freddie Mercury - The Freddie Mercury Album (1992-11-16)
 </li>
-<li data-cover="https://img.discogs.com/zp7yptlbzLDYHTgbKaoYqCxbn1k=/fit-in/341x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927096-1332647672.jpeg.jpg" data-tags="freddie mercury" role="button">
+<li data-cover="https://img.discogs.com/ad_GgGa4b3sXjPOfE5JiB8TjMK4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530698-1553812073-1058.jpeg.jpg" data-tags="freddie mercury" role="button">
 Freddie Mercury - The Great Pretender (1992-11-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, rock, queen, 90s, oldies, male vocalists, close harmony" role="button">
@@ -180,6 +180,9 @@ Queen - The Best II (1997)
 <li data-cover="http://coverartarchive.org/release/ef7fbadd-a206-3fdf-a54a-af3cbbc7a718/8402097687-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Queen Rocks (1997-11-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/a125285a-7bfa-420b-8b7c-2ac420636b92/856773319-500.jpg" data-tags="electronic" role="button">
+Özlem Tekin - Öz (1998-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/c496d633-5a56-4dbd-8b67-083c11562754/856778718-500.jpg" data-tags="hard rock, rebel, brutal vocal" role="button">
 Özlem Tekin - Laubali (1999)
 </li>
@@ -189,14 +192,14 @@ Queen - A Night at the Opera / The Works (2000)
 <li data-cover="http://coverartarchive.org/release/cc1b636b-a99d-3ed7-9d40-08a3ffdfb708/10157507016-500.jpg" data-tags="electric light orchestra" role="button">
 Electric Light Orchestra - Flashback (2000-12-11)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, dance, queen, urban, queen of everything, j-urban, koda kumi, kuu" role="button">
+倖田來未 - Trust Your Love (2001-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/9da0b125-dd59-4934-acb7-cc59b07d4a70/14746157674-500.jpg" data-tags="soul, pop, mariah carey, soundtrack, hip-hop" role="button">
 Mariah Carey - Glitter (2001-08-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, queen, bobs stuff" role="button">
 Lit - Atomic (2001-10-16)
-</li>
-<li data-cover="https://img.discogs.com/FjyN4vO5IIZgBupN3-yQ3MmTLFU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-188439-1143832917.jpeg.jpg" data-tags="darkwave, electronic" role="button">
-Helium Vola - Helium Vola (2001-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/966b9b3e-cd34-4f2d-ad4c-f2f371bb0e5d/28482190012-500.jpg" data-tags="medieval, folk, neofolk" role="button">
 In Gowan Ring - Hazel Steps through a Weathered Home (2002)
@@ -240,7 +243,7 @@ Queen - Rock Montreal (2007-10-26)
 <li data-cover="http://coverartarchive.org/release/2c541cf3-5a6c-4c9c-ae19-2136ea1d7430/5341126773-500.jpg" data-tags="rock, alternative rock" role="button">
 Poets of the Fall - Revolution Roulette (2008-03-26)
 </li>
-<li data-cover="https://img.discogs.com/5xglTxH6Z4LcWBwK9BFWh0Ayewg=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1462137-1221604534.jpeg.jpg" data-tags="rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/hkhuuoh3xz97gk70ut0cMIsN33M=/fit-in/346x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2820324-1302514233.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Queen + Paul Rodgers - The Cosmos Rocks (2008-09-12)
 </li>
 <li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
@@ -266,9 +269,6 @@ Glee Cast - Glee: The Music, The Power of Madonna (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fc38af5-473b-410a-bd56-8dcd222e72c9/856791415-500.jpg" data-tags="hard rock, queen, rebel, 80s sound" role="button">
 Özlem Tekin - Bana Bi'şey Olmaz (2010-04-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/e0237802-0fb8-49c8-a57d-65d440f74955/17763032824-500.jpg" data-tags="ethereal, folk, experimental, darkwave, world fusion, neoclassical darkwave" role="button">
-志方あきこ - 謳う丘 ～Ar=Ciel Ar=Dor～ (2010-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)

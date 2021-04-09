@@ -1,18 +1,18 @@
 ---
-date: 2021-04-07T05:46:06.912Z
+date: 2021-04-09T16:55:01.531Z
 title: "country: 100 albums you must listen to before you die"
 ---
-![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/YZX7t4Ix6JqNxJlqMRpFTi8lDVg=/fit-in/450x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15576050-1613367279-2968.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
+![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">Shania Twain - Come on Over (1997-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/47140ecd-72e3-4ef9-b523-3af3c4e3e9ef/2204544011-500.jpg" data-tags="country" role="button">Johnny Cash - American IV: The Man Comes Around (2002-11-05)</li>
 <li data-cover="http://coverartarchive.org/release/a33b9822-9f09-4e19-9d6e-e05af85c727b/5228564975-500.jpg" data-tags="country" role="button">Carrie Underwood - Some Hearts (2005-11-15)</li>
-<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">Regina Spektor - Begin to Hope (2006-06-13)</li>
+<li data-cover="http://coverartarchive.org/release/d2123a74-3d19-4ffa-a0f0-7deb9a5677da/19388392463-500.jpg" data-tags="country" role="button">Rascal Flatts - Me And My Gang (2006-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/09689c80-1ecd-463d-b212-ad252cb138c9/8900302560-500.jpg" data-tags="country" role="button">Taylor Swift - Taylor Swift (2006-10-24)</li>
+<li data-cover="http://coverartarchive.org/release/1ae35324-42a2-4cd8-880e-9d810ef964b2/6121102106-500.jpg" data-tags="country" role="button">Carrie Underwood - Carnival Ride (2007-10-23)</li>
 <li data-cover="http://coverartarchive.org/release/12f03d17-6f17-4c50-9756-6f027660a74a/9609457974-500.jpg" data-tags="country, chris cagle" role="button">Chris Cagle - My Life's Been A Country Song (2008-02-19)</li>
-<li data-cover="https://img.discogs.com/YZX7t4Ix6JqNxJlqMRpFTi8lDVg=/fit-in/450x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15576050-1613367279-2968.jpeg.jpg" data-tags="country" role="button">Taylor Swift - Fearless (2008-11-11)</li>
-<li data-cover="https://img.discogs.com/n57UBeTOXTMdmtzPnYbayghIguI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2122525-1266174670.jpeg.jpg" data-tags="country" role="button">Lady Antebellum - Need You Now (2010-06-29)</li>
-<li data-cover="https://img.discogs.com/3yy887BvfPEfE5k3RHSh3QoJmsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11763442-1521967500-3255.jpeg.jpg" data-tags="country" role="button">Taylor Swift - Speak Now (2010-10-25)</li>
+<li data-cover="https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg" data-tags="country" role="button">Taylor Swift - Fearless (2008-11-11)</li>
+<li data-cover="https://img.discogs.com/scURdDHnJxXGhNe3S0C141A8zYQ=/fit-in/310x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3774986-1343921934-2320.jpeg.jpg" data-tags="country" role="button">Taylor Swift - Speak Now (2010-10-25)</li>
 <li data-cover="http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-500.jpg" data-tags="pop, country" role="button">Taylor Swift - Red (2012-10-22)</li>
 </ol>
 List of 100 - under the cut.
@@ -27,19 +27,13 @@ Marty Robbins - Gunfighter Ballads and Trail Songs (1959)
 <li data-cover="http://coverartarchive.org/release/45647913-b279-4118-8ff4-ae3420437c66/17873579445-500.jpg" data-tags="country" role="button">
 Johnny Cash - At Folsom Prison (1968)
 </li>
-<li data-cover="https://img.discogs.com/KOr_SXhbsBIbniOjBMA6zRIHPpw=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3886888-1608796388-7219.jpeg.jpg" data-tags="country, 60s" role="button">
-Bob Dylan - Nashville Skyline (1969-04-09)
-</li>
-<li data-cover="https://img.discogs.com/nqLPEdhe3mrLmQyQsqcKs-jv3Ts=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2743145-1542462946-3638.jpeg.jpg" data-tags="singer-songwriter, country" role="button">
-Townes Van Zandt - Townes Van Zandt (1969-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
 Neil Young - Harvest (1972-02-14)
 </li>
 <li data-cover="https://img.discogs.com/OIYjdyFp4GY1vGliJoB2aBvUYl4=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3433836-1356592695-9621.jpeg.jpg" data-tags="country" role="button">
 Dolly Parton - Jolene (1974-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/834a05ec-4bbc-4276-b797-2ccdf625d648/7331581825-500.jpg" data-tags="country, country pop, contemporary christian, u2, misc, bono, ccm, urban cowboy, pentecostal, the edge, jesus had a penis, dake-bonoist, dake, dake-bonoism, confucius had a penis, listen to u2, dake-bonoistic doctrine, conforms to dake-bonoistic doctrine, moist butt kittens, they always conform to dake-bonoistic doctrine, finis jennings dake, dake-bono, contemporary muslim" role="button">
+<li data-cover="http://coverartarchive.org/release/834a05ec-4bbc-4276-b797-2ccdf625d648/7331581825-500.jpg" data-tags="country, country pop, contemporary christian, bono, ccm, urban cowboy, pentecostal, the edge, jesus had a penis, dake-bonoist, dake, dake-bonoism, confucius had a penis, listen to u2, dake-bonoistic doctrine, conforms to dake-bonoistic doctrine, moist butt kittens, they always conform to dake-bonoistic doctrine, finis jennings dake, dake-bono, contemporary muslim" role="button">
 Glen Campbell - Southern Nights (1977-02)
 </li>
 <li data-cover="https://img.discogs.com/F9_czMpsEdGEBZEwBJWUFF9T1HQ=/fit-in/599x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2842963-1303580296.jpeg.jpg" data-tags="country" role="button">
@@ -69,7 +63,7 @@ Dixie Chicks - Fly (1999-08-27)
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="country, lee ann womack" role="button">
 Lee Ann Womack - I Hope You Dance (2000-05-23)
 </li>
-<li data-cover="https://img.discogs.com/CJBawkp72q9x0_ukU20o_DMVRfk=/fit-in/600x933/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5929530-1533828869-1223.jpeg.jpg" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/1W0VNVjD24tviPLcPvTdgAwnVew=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2397609-1420294713-2113.jpeg.jpg" data-tags="country" role="button">
 LeAnn Rimes - I Need You (2000-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/816a606d-2f9f-41bf-ba9f-5dd6078b5d98/14960259719-500.jpg" data-tags="country" role="button">
@@ -89,6 +83,9 @@ Martina McBride - Greatest Hits (2001-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4713c444-64da-49d6-bfca-9218663b683a/15048660840-500.jpg" data-tags="kenny chesney, country" role="button">
 Kenny Chesney - No Shoes, No Shirt, No Problems (2002-04-23)
+</li>
+<li data-cover="https://img.discogs.com/LDodnhH5hRxBvecYs65tpSQverg=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558075-1290358712.jpeg.jpg" data-tags="country" role="button">
+Joe Nichols - Man With A Memory (2002-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d65493ed-9fae-3381-b57d-8e50596c72cd/14014357566-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Home (2002-08-26)
@@ -120,7 +117,7 @@ Brooks & Dunn - The Very Best Of Brooks & Dunn (2004)
 <li data-cover="http://coverartarchive.org/release/3a71ae89-00c5-442b-805b-1485e35bf405/3682341498-500.jpg" data-tags="country" role="button">
 Kenny Chesney - When The Sun Goes Down (2004-02-03)
 </li>
-<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
+<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/99bfcd40-b086-41f7-83d7-786fbbb3c99b/26696949744-500.jpg" data-tags="country" role="button">
@@ -128,6 +125,9 @@ Keith Urban - Be Here (2004-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbf71192-ea2e-4ae5-92b7-84da57abb0d2/28772002409-500.jpg" data-tags="country" role="button">
 Rascal Flatts - Feels Like Today (2004-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
+Shania Twain - Greatest Hits (2004-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/abab6ac7-3f02-4715-8394-2381260828b5/21565017025-500.jpg" data-tags="country" role="button">
 Craig Morgan - My Kind Of Livin' (2005-03-08)
@@ -143,6 +143,9 @@ Jason Aldean - Jason Aldean (2005-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d2355d2-963b-3bd8-8883-9b1dc8a08da8/21851390075-500.jpg" data-tags="country" role="button">
 Brad Paisley - Time Well Wasted (2005-08-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/538329ea-1087-4ef6-800e-d9069cabd299/19388646151-500.jpg" data-tags="country" role="button">
+Little Big Town - The Road to Here (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1bad411-da3c-466c-be2e-eb55561e6d06/9538822252-500.jpg" data-tags="country" role="button">
 Johnny Cash - The Legend of Johnny Cash (2005-10-24)
@@ -162,11 +165,8 @@ Josh Turner - Your Man (2006-01-24)
 <li data-cover="http://coverartarchive.org/release/d2123a74-3d19-4ffa-a0f0-7deb9a5677da/19388392463-500.jpg" data-tags="country" role="button">
 Rascal Flatts - Me And My Gang (2006-04-04)
 </li>
-<li data-cover="https://img.discogs.com/2MfJRC5yKH9FNQ9UwIF1dY3s3bg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695422-1495798257-4186.jpeg.jpg" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/4QzVpu_GvEwZgSwY_OS5phfkCTk=/fit-in/167x167/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3362092-1327361300.jpeg.jpg" data-tags="country" role="button">
 Dixie Chicks - Taking The Long Way (2006-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c48653c-8e50-4f8b-91a4-25321c500fed/25262967822-500.jpg" data-tags="female vocalists, indie, singer-songwriter" role="button">
-Regina Spektor - Begin to Hope (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/13e97c66-9a99-41e7-bf5e-5158ab66c5c5/18264795092-500.jpg" data-tags="country" role="button">
 Johnny Cash - American V: A Hundred Highways (2006-06-30)
@@ -195,9 +195,6 @@ Keith Urban - Love, Pain & the whole crazy thing (2006-11-07)
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/69f898f9-3fe4-4111-ad11-81fccf55df8e/5791775997-500.jpg" data-tags="country" role="button">
 Miranda Lambert - Crazy Ex-Girlfriend (2007-05-01)
 </li>
@@ -225,16 +222,19 @@ Chris Cagle - My Life's Been A Country Song (2008-02-19)
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
-<li data-cover="https://img.discogs.com/mGtBDdGI6PDAsWNKqLhUEMnL1us=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2915022-1584729492-1993.jpeg.jpg" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/20jVDulzuFingwCKr6c21N83ecs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1608105-1231859074.jpeg.jpg" data-tags="country" role="button">
 Lady Antebellum - Lady Antebellum (2008-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/705ba981-d00e-4ad0-ac65-e78375b51c7e/11573283421-500.jpg" data-tags="country" role="button">
 Sugarland - Love On The Inside (2008-07-22)
 </li>
+<li data-cover="https://img.discogs.com/V3obrzp3VfPEZP_MT6_dqQj4qs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1584667-1587659164-1860.jpeg.jpg" data-tags="country" role="button">
+Darius Rucker - Learn To Live (2008-09-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/534e9083-38f1-4757-bb37-5fea976c8c19/12534620694-500.jpg" data-tags="country" role="button">
 Billy Currington - Little Bit of Everything (2008-10-14)
 </li>
-<li data-cover="https://img.discogs.com/YZX7t4Ix6JqNxJlqMRpFTi8lDVg=/fit-in/450x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15576050-1613367279-2968.jpeg.jpg" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Fearless (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4eb37ed2-0ada-4f38-926b-b7aee740220d/3743132785-500.jpg" data-tags="country" role="button">
@@ -267,9 +267,6 @@ Carrie Underwood - Play On (2009-11-03)
 <li data-cover="http://coverartarchive.org/release/15657b2a-8635-37e1-981d-12ec8c852ca3/18264758290-500.jpg" data-tags="country" role="button">
 Johnny Cash - American VI: Ain't No Grave (2010-02-22)
 </li>
-<li data-cover="https://img.discogs.com/n57UBeTOXTMdmtzPnYbayghIguI=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2122525-1266174670.jpeg.jpg" data-tags="country" role="button">
-Lady Antebellum - Need You Now (2010-06-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/33df508c-d3d1-4103-857d-4d146d1efe8d/2865859583-500.jpg" data-tags="country, sugarland" role="button">
 Sugarland - Stuck Like Glue (2010-07-23)
 </li>
@@ -279,7 +276,7 @@ Thompson Square - Are You Gonna Kiss Me Or Not (2010-08-03)
 <li data-cover="http://coverartarchive.org/release/2be90de4-791d-4799-b70e-0f0891fd4871/10220409119-500.jpg" data-tags="country, female vocalists" role="button">
 The Band Perry - The Band Perry EP (2010-10-12)
 </li>
-<li data-cover="https://img.discogs.com/3yy887BvfPEfE5k3RHSh3QoJmsc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11763442-1521967500-3255.jpeg.jpg" data-tags="country" role="button">
+<li data-cover="https://img.discogs.com/scURdDHnJxXGhNe3S0C141A8zYQ=/fit-in/310x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3774986-1343921934-2320.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Speak Now (2010-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/91b48d70-bce1-4806-880c-a2b1488ac877/2663859177-500.jpg" data-tags="country, country rock" role="button">
@@ -320,5 +317,8 @@ Florida Georgia Line - Here's to the Good Times (2012-12-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/024abf44-0f50-4369-bcd6-ea7017d40474/14533802813-500.jpg" data-tags="country" role="button">
 Kacey Musgraves - Same Trailer Different Park (2013-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/1772c1ff-2c11-4e9d-940a-3107aeb36625/4308753446-500.jpg" data-tags="country" role="button">
+Luke Bryan - Crash My Party (2013-04-08)
 </li>
 </ol>

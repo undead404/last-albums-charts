@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T09:13:01.602Z
+date: 2021-04-09T17:31:06.980Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -39,6 +39,9 @@ The Shins - Oh, Inverted World (2001-06-19)
 <li data-cover="http://coverartarchive.org/release/9a1e5f83-4be0-48ff-8477-dce2e73a2ace/11716165288-500.jpg" data-tags="indie pop, indie" role="button">
 Stars - Heart (2002)
 </li>
+<li data-cover="https://img.discogs.com/QYUgzc0NWWaj53sjcqkxnd5E18k=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-353661-1581862939-2865.jpeg.jpg" data-tags="indie pop, indie" role="button">
+Architecture in Helsinki - Fingers Crossed (2003-02-10)
+</li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
 </li>
@@ -69,14 +72,8 @@ Architecture in Helsinki - In Case We Die (2005-04-04)
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/71b19909-8463-422b-abad-5718d37888b9/3112709631-500.jpg" data-tags="indie, indie pop" role="button">
-Belle and Sebastian - The Life Pursuit (2006-02-06)
-</li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/5297f60a-d4b7-4fab-9135-8807c86f757a/3727301446-500.jpg" data-tags="indie pop" role="button">
-Camera Obscura - Let's Get Out Of This Country (2006-05-29)
 </li>
 <li data-cover="https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg" data-tags="indie, swedish" role="button">
 Peter Bjorn and John - Writer's Block (2006-08-14)
@@ -102,11 +99,11 @@ Tegan and Sara - The Con (2007-07-24)
 <li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
 Kate Nash - Made of Bricks (2007-08-06)
 </li>
-<li data-cover="https://img.discogs.com/J3QelBBCQzUMTyfU6BitSs6CaO8=/fit-in/320x307/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1523150-1283957985.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Black Kids - Wizard of Ahhhs (2007-08-11)
-</li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/4bae6b93-7d34-4abe-984f-61487858e8fa/4890223091-500.jpg" data-tags="indie pop, indie" role="button">
+Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 </li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
@@ -116,9 +113,6 @@ MGMT - Oracular Spectacular (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1bdb840-cda8-3506-9773-90418c275e5d/20132331254-500.jpg" data-tags="swedish, indie pop, female vocalists" role="button">
 Lykke Li - Youth Novels (2008-01-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
-The Ting Tings - We Started Nothing (2008-05-16)
 </li>
 <li data-cover="https://img.discogs.com/fi-H7ZPALPcsWhQEkhhSWu4v05k=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404081-1494614671-4937.jpeg.jpg" data-tags="indie pop" role="button">
 Black Kids - Partie Traumatic (2008-07-07)
@@ -198,11 +192,11 @@ The Drums - The Drums (2010-06-04)
 <li data-cover="https://img.discogs.com/uzzLYH2sg4bW8C-a42e0sHf5WMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440274-1284186706.jpeg.jpg" data-tags="indie pop" role="button">
 The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
+Lykke Li - Wounded Rhymes (2011-02-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
-Lykke Li - Wounded Rhymes (2011-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
 Metronomy - The English Riviera (2011-04-11)
@@ -225,14 +219,8 @@ Grouplove - Never Trust A Happy Song (2011-09-02)
 <li data-cover="http://coverartarchive.org/release/b6b21d16-021f-48fe-a575-c46320cf3107/28325780282-500.jpg" data-tags="indie pop, new wave" role="button">
 The Drums - Portamento (2011-09-02)
 </li>
-<li data-cover="https://img.discogs.com/xS_1Wc5NHgHgcct24F39nLQones=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5952254-1407225003-2204.jpeg.jpg" data-tags="art pop" role="button">
-St. Vincent - Strange Mercy (2011-09-09)
-</li>
 <li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Of Monsters and Men - My Head Is an Animal (2011-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/68a6f03a-20ec-4bee-84a6-926f3a234e1f/15821020755-500.jpg" data-tags="indie rock, indie pop" role="button">
-Real Estate - Days (2011-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
@@ -248,6 +236,12 @@ Django Django - Django Django (2012-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)
+</li>
+<li data-cover="https://img.discogs.com/tzJlIpGVxhIcpGhV7ir0n0BXhh0=/fit-in/580x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3578248-1335993570.jpeg.jpg" data-tags="indie pop" role="button">
+Electric Guest - Mondo (2012-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/24c99b7d-b243-450d-8477-46dfd4a8bfa3/948171837-500.jpg" data-tags="dream pop" role="button">
+Beach House - Bloom (2012-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
 alt-J - An Awesome Wave (2012-05-28)
@@ -285,9 +279,6 @@ The Neighbourhood - I Love You. (2013-04-19)
 <li data-cover="http://coverartarchive.org/release/35a7ea89-605b-466e-a5c5-1726f56f980f/4265527988-500.jpg" data-tags="indie rock" role="button">
 Vampire Weekend - Modern Vampires of the City (2013-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/8077f6cd-1c02-484f-a19f-30833734edf2/11593007264-500.jpg" data-tags="indie, indie pop, indie folk, folk" role="button">
-Milky Chance - Sadnecessary (2013-05-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 </li>
@@ -312,13 +303,22 @@ Sky Ferreira - Night Time, My Time (2013-10-29)
 <li data-cover="https://img.discogs.com/CRb0Gk5Yo5pl0J6FZ1BqhuAcSw4=/fit-in/599x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5377841-1391891764-4561.jpeg.jpg" data-tags="indie rock, indie, indie pop" role="button">
 Bombay Bicycle Club - So Long, See You Tomorrow (2014-02-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/467e3807-0848-4009-9f73-1694642b8787/8667724427-500.jpg" data-tags="indie" role="button">
+Foster the People - Supermodel (2014-03-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3144fef-b082-4de6-a539-4c4bde277b76/8747991818-500.jpg" data-tags="electronic, electropop, pop, british, indie pop, indietronica, alternative pop, 2014 albums" role="button">
+Kyla La Grange - Cut Your Teeth (2014-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/32269431-0747-4ec2-a2b9-84abfaa499ee/8007239303-500.jpg" data-tags="indie, indie folk" role="button">
 Vance Joy - Dream Your Life Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
 alt-J - This Is All Yours (2014-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
+Walk the Moon - Talking Is Hard (2014-11-24)
 </li>
 </ol>

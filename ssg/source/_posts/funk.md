@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:16:06.849Z
+date: 2021-04-09T16:53:01.459Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -24,11 +24,14 @@ _________________
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d6f8dac-90f0-40e7-ba4d-0c29a357703c/24024550782-500.jpg" data-tags="funk" role="button">
-Sly & The Family Stone - Dance to the Music (1968)
+<li data-cover="https://img.discogs.com/3kgeCWEw6XIAskb5v3QtSv0BhIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631101-1467757244-1910.jpeg.jpg" data-tags="soul" role="button">
+Isaac Hayes - Hot Buttered Soul (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e517042-0af2-45b0-bdbb-aae20ae1bec8/15170398619-500.jpg" data-tags="funk" role="button">
 Sly & The Family Stone - Stand! (1969-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/14d7a033-cf03-43bc-adb4-b4bcf2b62762/24777915286-500.jpg" data-tags="soul, funk" role="button">
+Curtis Mayfield - Curtis (1970-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0424f4b-0be7-4bae-b163-3f6b63723c41/22562008725-500.jpg" data-tags="funk" role="button">
 Funkadelic - Maggot Brain (1971-07-12)
@@ -39,11 +42,23 @@ Sly & The Family Stone - There's A Riot Goin' On (1971-11-20)
 <li data-cover="http://coverartarchive.org/release/18d980d4-43f6-4d22-a6df-50ce7a3a6757/15600546210-500.jpg" data-tags="funk" role="button">
 Cymande - Cymande (1972)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+Bill Withers - Still Bill (1972)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3bd084c-ff82-484d-bb0d-a50ff2af82fc/6559836777-500.jpg" data-tags="funk, soul" role="button">
+Curtis Mayfield - Superfly (1972-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
 </li>
+<li data-cover="https://img.discogs.com/BYkp0xyKnzrj0VyV3HhNvCDDYVk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-833075-1163431469.jpeg.jpg" data-tags="funk" role="button">
+Incredible Bongo Band - Bongo Rock (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/72e14f2a-bd30-3310-b498-fc309203d08a/24031827549-500.jpg" data-tags="70s, funk, soul" role="button">
 Sly & The Family Stone - Fresh (1973)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
+Kool & The Gang - Wild And Peaceful (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/d82dec3e-e077-42d4-ba4f-51b57128e19a/16046182344-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Innervisions (1973-08-03)
@@ -114,12 +129,6 @@ A Man Called Adam - Bread, Love And Dreams (1992)
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
 </li>
-<li data-cover="https://img.discogs.com/1L3F6UEIUzzI61DUFSNRtrzfWec=/fit-in/574x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1328967-1361784708-6869.jpeg.jpg" data-tags="funk, 80s, prince" role="button">
-Prince - Controversy (1993)
-</li>
-<li data-cover="https://img.discogs.com/QYwxSdn4KsgCk3juno4AEzEqtN0=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4204994-1358497086-7715.jpeg.jpg" data-tags="rock" role="button">
-Lenny Kravitz - Are You Gonna Go My Way (1993-02-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/be5efb0f-b354-3071-a41f-e8784403ea8d/2479394930-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - Emergency On Planet Earth (1993-06-14)
 </li>
@@ -141,11 +150,11 @@ The Pharcyde - Labcabincalifornia (1995-11-14)
 <li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
 Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e5e7900-bd9a-461e-9768-a83fffe282be/17888190426-500.jpg" data-tags="soul" role="button">
+Curtis Mayfield - The Very Best of Curtis Mayfield (1996-04-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
-</li>
-<li data-cover="https://img.discogs.com/FgbPiternqKM7Y3ZY-47Bb5hAJI=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13523642-1555828422-6154.jpeg.jpg" data-tags="soul, 80s, female vocalists, happy, quiet storm, funk, romantic, passionate, rnb, confident, playful, partying, sensual, sexual, celebratory, exuberant, empowerment, joyous, carefree, motivation, stylish, girls night out, romantic evening, c khan" role="button">
-Chaka Khan - Epiphany: The Best Of Chaka Khan, Vol. 1 (1996-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
@@ -171,9 +180,6 @@ Beck - Midnite Vultures (1999-11-20)
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
-Nicola Conte - Bossa Per Due (2001-06-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/4866a1ef-8eb3-420b-9e21-de6d66fdbda8/13535180696-500.jpg" data-tags="funk, prince" role="button">
 Prince - The Very Best of Prince (2001-07-30)
 </li>
@@ -186,10 +192,7 @@ Red Hot Chili Peppers - By the Way (2002-06-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
-Ben Harper - Diamonds On The Inside (2003-03-05)
-</li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ae99a9-0cd3-4b13-ac6a-f05d41460912/15840373056-500.jpg" data-tags="ska" role="button">
@@ -207,14 +210,8 @@ Gnarls Barkley - St. Elsewhere (2006-04-24)
 <li data-cover="http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a589980-607d-466e-b17d-41778d5effc5/2693377789-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Idlewild (2006-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
-Beyoncé - B'Day (2006-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f2ed19-cefe-4c58-9988-4104155c8141/16440581507-500.jpg" data-tags="funk" role="button">
 Jamiroquai - High Times: Singles 1992-2006 (2006-11-03)
@@ -228,6 +225,9 @@ Chromeo - Fancy Footwork (2007-04-12)
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">
 Mark Ronson - Version (2007-04-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/c96335b2-2429-4990-a1c8-ff5a4904aa73/2839113560-500.jpg" data-tags="instrumental, funk" role="button">
+Beastie Boys - The Mix-Up (2007-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)
 </li>
@@ -237,14 +237,20 @@ Red Hot Chili Peppers - Greatest Hits (2008)
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, neo-soul" role="button">
 Erykah Badu - New Amerykah Part One (4th World War) (2008-02-26)
 </li>
+<li data-cover="https://img.discogs.com/qpnwponKB5ETGbEePcQfS1NmdPc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4321190-1611996884-5051.jpeg.jpg" data-tags="funk" role="button">
+Ohio Players - Gold (2008-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/8cf0b731-8d1c-37d7-9a03-a2734df4c22b/5685858560-500.jpg" data-tags="soul, funk" role="button">
 Gnarls Barkley - The Odd Couple (2008-03-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="dance, funk, synthpop" role="button">
-Sam Sparro - Sam Sparro (2008-04-27)
+<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
+Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
+The Heavy - The House That Dirt Built (2009-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
 Wale - Attention Deficit (2009-11-10)
@@ -255,29 +261,23 @@ Janelle Monáe - The ArchAndroid (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/60da23e0-59ce-4c0b-8a4a-fd4d11e5ef3a/6729850517-500.jpg" data-tags="jazz, funk" role="button">
 Herbie Hancock - Head Hunters (2010-06-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/df4b1069-8b30-4ac5-86ff-99fe6f0e80b0/23256585874-500.jpg" data-tags="electronic, hip hop, experimental, funk, glitch, trip hop, instrumental hip-hop, wonky" role="button">
-Pretty Lights - Spilling Over Every Side (2010-07-29)
+<li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
+Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
 <li data-cover="https://img.discogs.com/QPBKF9KfoAp57G5s8VskAz9eFT8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475210-1286108215.jpeg.jpg" data-tags="electronic, funk" role="button">
 Chromeo - Business Casual (2010-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/6705fd6c-6427-3f3f-ad9b-1e6702b8dc21/1072439695-500.jpg" data-tags="dance-pop, acid jazz, r&b, funk" role="button">
-Jamiroquai - Rock Dust Light Star (2010-10-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/e84467e8-1f3e-4c58-91d1-9b37c1500b7e/13670345162-500.jpg" data-tags="funk, neo-soul, contemporary r&b, pop soul, i own and love these" role="button">
 CeeLo Green - The Lady Killer (2010-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/1e4e1f85-897d-4f0b-9024-97a68b590c68/5918492377-500.jpg" data-tags="soul" role="button">
+Charles Bradley - No Time for Dreaming (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/2412d797-4511-417c-9608-c3b0e88bcaf4/15993113659-500.jpg" data-tags="summer, alternative dance" role="button">
 Friendly Fires - Pala (2011-05-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">
+<li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/9137d3e7-23fb-47ce-900b-004059170e9d/8760717671-500.jpg" data-tags="indie, 2010s, domino" role="button">
-Blood Orange - Coastal Grooves (2011-08-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/002ac98a-b6f5-460f-9ff2-8aa2ca5a2722/14502876960-500.jpg" data-tags="funk" role="button">
-Lenny Kravitz - Black and White America (2011-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1913928d-2516-4a0a-8095-9f9e5747fe58/15138257450-500.jpg" data-tags="funk rock, alternative rock, rock" role="button">
 Red Hot Chili Peppers - I'm With You (2011-08-26)
@@ -288,16 +288,16 @@ The Heavy - The Glorious Dead (2012-08-20)
 <li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
 Breakbot - By Your Side (2012-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
+Bruno Mars - Unorthodox Jukebox (2012-12-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
 Daft Punk - Random Access Memories (2013-05-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e6c93e6-7692-4782-b4a5-c40a662e0f0b/12414713928-500.jpg" data-tags="blurred lines" role="button">
-Robin Thicke - Blurred Lines (2013-07-12)
 </li>
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
-<li data-cover="https://img.discogs.com/EP7SaYBb2f_XMz_KNuo8rYuTytU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6428431-1418994290-6330.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">
+<li data-cover="https://img.discogs.com/sYd5Lrm4YwtXrHgST3NX0pV2SKI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139742-1385570134-1229.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">
 Aloe Blacc - Wake Me Up (2013-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">

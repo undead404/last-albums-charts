@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T20:25:01.434Z
+date: 2021-04-09T17:15:01.584Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -33,7 +33,7 @@ Tom Waits - Closing Time (1973-05)
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Goodbye Yellow Brick Road (1973-10-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, billy joel" role="button">
+<li data-cover="https://img.discogs.com/gbuEnSI-QlYQ9wgHa_JB0a1Kh9o=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-720630-1570119429-3369.jpeg.jpg" data-tags="classic rock, billy joel" role="button">
 Billy Joel - Piano Man (1973-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a48849e9-daed-427a-8f13-b05bbab6a0d5/9519768935-500.jpg" data-tags="jazz, piano" role="button">
@@ -45,7 +45,7 @@ Bill Evans - You Must Believe in Spring (1981)
 <li data-cover="http://coverartarchive.org/release/f1da6792-3a6a-4e4c-97fc-fc2477b183ef/2906121265-500.jpg" data-tags="ambient, piano, contemporary classical, cinematic, melancholy, minimalism, melancholic, neoclassical, post-classical, piano ambient, contemporary piano, ambient piano" role="button">
 Harold Budd - Lovely Thunder (1986-10)
 </li>
-<li data-cover="https://img.discogs.com/-GN-JQ2oRtEsLWjyv1fd_VXV5dw=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8846463-1469993526-8129.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
+<li data-cover="https://img.discogs.com/RrVAH3WnAssqVLGqHesZRk6MjrI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1337246-1211047935.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
 Philip Glass - Solo Piano (1989-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
@@ -60,7 +60,10 @@ Tori Amos - Under the Pink (1994-01-28)
 <li data-cover="http://coverartarchive.org/release/f1a4d60a-8910-421c-b4b2-a2ceee5608ce/14901757804-500.jpg" data-tags="classical" role="button">
 Frédéric Chopin - Chopin (1995)
 </li>
-<li data-cover="https://img.discogs.com/ILPIzP6NQlyA2Bf4MgVV7FCUpco=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-997207-1230324129.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
+<li data-cover="http://coverartarchive.org/release/e701999d-416c-43c2-a369-0f7a13296c86/26825295448-500.jpg" data-tags="90s, piano rock, ben folds" role="button">
+Ben Folds Five - Ben Folds Five (1995-07-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
 Ludovico Einaudi - Le Onde (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">
@@ -78,14 +81,11 @@ Tori Amos - From the Choirgirl Hotel (1998-05-04)
 <li data-cover="http://coverartarchive.org/release/96aedd99-3e56-423b-a5d7-b9d813b160fd/9237060116-500.jpg" data-tags="piano" role="button">
 Ludovico Einaudi - Eden Roc (1999)
 </li>
-<li data-cover="https://img.discogs.com/2Nsb4ANVHI78wwu_I9bV5338tgs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-238611-1337445441-3800.jpeg.jpg" data-tags="chamber pop, piano" role="button">
+<li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa6ad077-6428-4d8f-a779-6ff7ef6b7f5b/7766810050-500.jpg" data-tags="piano" role="button">
 Ludovico Einaudi - I Giorni (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/ccad03b6-c236-488f-9e9a-271449f88bdf/16938333495-500.jpg" data-tags="rock, alternative rock, 2000s, mute records" role="button">
-Nick Cave & The Bad Seeds - No More Shall We Part (2001-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
 Alicia Keys - Songs in A Minor (2001-06-05)
@@ -179,9 +179,6 @@ Jamie Cullum - Catching Tales (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf5da5f5-72fe-4803-8f6b-1f52027fd3cf/27690898148-500.jpg" data-tags="vienna teng, female vocalists, piano" role="button">
 Vienna Teng - Dreaming Through The Noise (2006-07-25)
@@ -279,6 +276,9 @@ Nils Frahm - Wintermusik (2009-12-07)
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">
 Agnes Obel - Philharmonics (2010-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a0e915f-a2bf-4bee-a085-feba37f906f5/5929827580-500.jpg" data-tags="neoclassical, contemporary classical, post-classical, modern classical, neo-classical, piano" role="button">
+Dustin O'Halloran - Lumiere (2011-02-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)
 </li>
@@ -297,7 +297,7 @@ Nils Frahm - Felt (2011-10-07)
 <li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
 Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
 </li>
-<li data-cover="https://img.discogs.com/Djv5b13QAyfy5eLM5VjnWXwJMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5746150-1586903982-4077.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/Oss1hyaayRzyZSZjZ5QefMWRlZQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4985549-1381391376-5868.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3662da7-dd97-481e-bc61-3d046cccc51b/7638922855-500.jpg" data-tags="piano" role="button">

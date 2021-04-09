@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T11:10:01.556Z
+date: 2021-04-09T17:17:01.487Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -24,14 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/25e398a4-8a0a-4ab3-9d0d-128dc6106511/23069826567-500.jpg" data-tags="60s, art rock" role="button">
-Nico - Chelsea Girl (1967-10)
+<li data-cover="http://coverartarchive.org/release/f3bdf87d-550b-3f8e-b8f1-81a62d051a84/7926647371-500.jpg" data-tags="classic rock, progressive rock" role="button">
+The Moody Blues - Days of Future Passed (1967-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">
-The Velvet Underground - The Velvet Underground (1969-03)
 </li>
 <li data-cover="https://img.discogs.com/2XB2Zi6X6y9GAL_b399rTFYIta4=/fit-in/600x738/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8744584-1494946548-1401.jpeg.jpg" data-tags="progressive rock" role="button">
 King Crimson - In the Court of the Crimson King (1969-10-10)
@@ -48,10 +45,10 @@ King Crimson - Islands (1971-12-03)
 <li data-cover="http://coverartarchive.org/release/04490fb2-a861-3db8-a8c6-386d8f9da1dc/2776393252-500.jpg" data-tags="glam rock, 70s" role="button">
 David Bowie - Hunky Dory (1971-12-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">
+<li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
 </li>
-<li data-cover="https://img.discogs.com/H5oODcDFqsTdAgHElEeZewNX7oo=/fit-in/562x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1579909-1229893753.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/IkuVyF5le_aG2neyEscSuSPmMXI=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1520895-1225746667.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Wishbone Ash - Argus (1972-04-28)
 </li>
 <li data-cover="https://img.discogs.com/Otf6_JO4GjZMPbv3IFsC-6_a62g=/fit-in/348x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5441040-1396312486-9043.jpeg.jpg" data-tags="70s, glam rock" role="button">
@@ -75,14 +72,20 @@ Lou Reed - Berlin (1973-10)
 <li data-cover="http://coverartarchive.org/release/39c0fdbb-730d-4d78-88e3-991adaeabe36/1592123546-500.jpg" data-tags="glam rock, art rock" role="button">
 Brian Eno - Here Come The Warm Jets (1973-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b60e6f2c-e569-4ffb-83b7-cd23d66fc1c4/20406235434-500.jpg" data-tags="70s, rock, art rock" role="button">
-John Cale - Fear (1974)
+<li data-cover="http://coverartarchive.org/release/ac6a3bdd-4d2e-38e8-ba6e-33cecf128b18/14101003831-500.jpg" data-tags="glam rock, 70s" role="button">
+David Bowie - Diamond Dogs (1974-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f33a793-2ca8-47e4-8efe-daa5bd03ff8f/5183196329-500.jpg" data-tags="progressive rock, classic rock" role="button">
+Supertramp - Crime of the Century (1974-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b75af773-cd7b-4470-8446-af8aa89a24ae/3114542174-500.jpg" data-tags="progressive rock" role="button">
 King Crimson - Red (1974-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/7a9bc268-4413-4706-b8f6-bcf3e0889947/15277772609-500.jpg" data-tags="70s, soft rock, art rock" role="button">
-10cc - The Original Soundtrack (1975-03)
+<li data-cover="http://coverartarchive.org/release/3fec9754-a836-3ed6-acc3-4333b057684b/5896624158-500.jpg" data-tags="glam rock, 70s" role="button">
+Roxy Music - Country Life (1974-11-15)
+</li>
+<li data-cover="https://img.discogs.com/9ivDdU1RMuE8NdipVBpDpf0bok0=/fit-in/598x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7911286-1454884459-7960.jpeg.jpg" data-tags="70s" role="button">
+Roxy Music - Siren (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/edb5b432-6f54-41e5-af58-07d31668ef3a/11436345573-500.jpg" data-tags="ambient" role="button">
 Brian Eno - Another Green World (1975-09)
@@ -107,9 +110,6 @@ Iggy Pop - The Idiot (1977-03-18)
 </li>
 <li data-cover="https://img.discogs.com/D2RQsNF6Xy4pLu5F_T1HU31r7AY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2844673-1303658387.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Kansas - Point of Know Return (1977-10-11)
-</li>
-<li data-cover="https://img.discogs.com/VR6bL9ac2osRz0l695Mcab3L6PI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4138809-1432750625-8432.jpeg.jpg" data-tags="electronic, 70s" role="button">
-Brian Eno - Before and After Science (1977-12)
 </li>
 <li data-cover="https://img.discogs.com/VRMb3RLFAY9udhH7Cg_XN6mNcVA=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3089864-1338821720-9527.jpeg.jpg" data-tags="70s, female vocalists" role="button">
 Kate Bush - The Kick Inside (1978-02-17)
@@ -141,20 +141,14 @@ King Crimson - Discipline (1981-09-22)
 <li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - Eye In The Sky (1982-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/9fca90af-8a6d-4177-b748-c0cc7b415686/16598806335-500.jpg" data-tags="80s" role="button">
-Kate Bush - The Dreaming (1982-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
-Kate Bush - Hounds of Love (1985-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/053fc4d5-34e8-4757-9e16-29c91b36253b/23804216681-500.jpg" data-tags="80s, new wave, art pop" role="button">
-Talk Talk - The Colour of Spring (1986-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/4bc83ff3-ac0e-4fa5-8dfc-a5aa1bf57afd/15367001320-500.jpg" data-tags="progressive rock, 80s" role="button">
 Peter Gabriel - So (1986-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4c0a2dc-49cb-382b-9bb3-a40d09669583/14335985988-500.jpg" data-tags="alternative rock" role="button">
+The Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995-10-23)
 </li>
 <li data-cover="https://img.discogs.com/ETn1Oxqi2diFlex2Qo6tCPRtAaM=/fit-in/599x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818272-1264395745.jpeg.jpg" data-tags="radiohead" role="button">
 Radiohead - Street Spirit (Fade Out) (1996-01-22)
@@ -164,6 +158,9 @@ Radiohead - OK Computer (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/39727bac-11f4-4394-8f61-9f5a97b950fe/11824714012-500.jpg" data-tags="western" role="button">
+Blondie - Atomic: The Very Best of Blondie (1998-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
@@ -189,11 +186,14 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative, 2003" role="button">
+<li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - Hail to the Thief (2003-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a8790e5-e48d-3bf1-8b51-8d9fadf0fa4c/3717423059-500.jpg" data-tags="indie, indie rock" role="button">
+Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
@@ -212,6 +212,9 @@ Jelonek - Jelonek (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
+</li>
+<li data-cover="https://img.discogs.com/kcWhkV979DH6Nda6ysKEhM_h_uA=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099905-1532793292-3827.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
+Silverchair - Young Modern (2007-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
 Liars - Liars (2007-08-20)
@@ -249,14 +252,11 @@ Efterklang - Magic Chairs (2010-02-22)
 <li data-cover="http://coverartarchive.org/release/afce7c95-e230-450c-a684-fc048bb55844/17749408084-500.jpg" data-tags="indie" role="button">
 Everything Everything - Man Alive (2010-08-30)
 </li>
-<li data-cover="https://img.discogs.com/R4jvnnJPoOAgWpqqOdawRWaV0nQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
+<li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
-<li data-cover="https://img.discogs.com/7NlxrsULvOY21UT1Bkz9r4c4ubc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2514342-1405535781-5094.jpeg.jpg" data-tags="psychedelic rock" role="button">
+<li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
-</li>
-<li data-cover="https://img.discogs.com/zJFL_64IjYCGNI0DDU8E5MzPovE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2663331-1297710621.jpeg.jpg" data-tags="rock, indie, alternative rock" role="button">
-Anna Calvi - Anna Calvi (2011-01-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, alternative" role="button">
 TV on the Radio - Nine Types of Light (2011-04-11)
@@ -267,9 +267,6 @@ Kate Bush - Director's Cut (2011-05-16)
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
-<li data-cover="https://img.discogs.com/xS_1Wc5NHgHgcct24F39nLQones=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5952254-1407225003-2204.jpeg.jpg" data-tags="art pop" role="button">
-St. Vincent - Strange Mercy (2011-09-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
@@ -278,6 +275,9 @@ Poliça - Give You The Ghost (2011-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecfddb21-48c1-44b3-8918-365403b6459a/1802907186-500.jpg" data-tags="indie pop, indie rock, indietronica" role="button">
 Django Django - Django Django (2012-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/649641fb-a220-4ca6-ac26-a41e94bf1ed5/1067679953-500.jpg" data-tags="noise, noise rock, experimental rock, psychedelic, noise pop, acid, art rock, psychedelic rock, collaboration, drugs, neo-psychedelia, bella union, warner bros records, warner bros, record store day 2012" role="button">
+The Flaming Lips - The Flaming Lips And Heady Fwends (2012-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9421c67a-9e28-4e75-bc20-c1424c7510ea/17153963887-500.jpg" data-tags="indie" role="button">
 alt-J - An Awesome Wave (2012-05-28)
@@ -297,19 +297,19 @@ David Bowie - The Next Day (2013-03-08)
 <li data-cover="http://coverartarchive.org/release/ceca711f-d1e9-4a2c-a9a5-cda00ad69913/8837325940-500.jpg" data-tags="indie rock" role="button">
 Yeah Yeah Yeahs - Mosquito (2013-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/8ab4b100-332f-4588-a8f7-1a909409dc62/4369409182-500.jpg" data-tags="post-rock" role="button">
+These New Puritans - Field of Reeds (2013-06-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Reflektor (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/43964314-a5b2-419a-98cb-78815f4f73c5/6329309960-500.jpg" data-tags="indie rock, domino" role="button">
-Wild Beasts - Present Tense (2014-02-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/29456596-9161-443d-8702-f8bd555b8ca8/24814615209-500.jpg" data-tags="alternative, progressive rock, fiction records" role="button">
 Elbow - The Take Off and Landing of Everything (2014-03-07)
 </li>
-<li data-cover="https://img.discogs.com/5wkazsfuu0J12JSVIY29h5NUv0E=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5657946-1399148774-1291.jpeg.jpg" data-tags="experimental" role="button">
+<li data-cover="https://img.discogs.com/X4BPyuwih9Ftjun2RLU7v5627hA=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5659142-1399187504-3176.jpeg.jpg" data-tags="experimental" role="button">
 tUnE-yArDs - Nikki Nack (2014-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d1c75bc-5953-40da-99b3-9491d03cf424/9366881296-500.jpg" data-tags="dream pop, indie rock" role="button">
