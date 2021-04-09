@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:51:01.460Z
+date: 2021-04-09T22:25:01.496Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -120,9 +120,6 @@ Bat for Lashes - Fur and Gold (2006-09-11)
 <li data-cover="http://coverartarchive.org/release/58d3ecc6-f4ef-4455-bbe7-7d733e83d5aa/2073304739-500.jpg" data-tags="dream pop" role="button">
 Beach House - Beach House (2006-10-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/5dcd7b95-7b30-40b4-ab9b-fda4ea3e2859/3178901123-500.jpg" data-tags="indie" role="button">
-Au Revoir Simone - The Bird Of Music (2007-02-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/dbf7a1c7-d89c-3823-b2d1-6cf2515e3c31/8173020368-500.jpg" data-tags="shoegaze, indie rock, dream pop" role="button">
 Blonde Redhead - 23 (2007-04-10)
 </li>
@@ -161,9 +158,6 @@ Phantogram - Eyelid Movies (2009-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/65a811b8-8b98-4642-8f25-48586fa93b10/8138480397-500.jpg" data-tags="experimental, dream pop, electronic, darkwave" role="button">
-Grimes - Geidi Primes (2010-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)
@@ -240,6 +234,9 @@ Frankie Rose - Interstellar (2012-02-21)
 <li data-cover="http://coverartarchive.org/release/62e1453a-dc00-4492-9f7c-11548835392a/12237507637-500.jpg" data-tags="experimental, dream pop, art pop" role="button">
 Julia Holter - Ekstasis (2012-03-05)
 </li>
+<li data-cover="https://img.discogs.com/eter45RaHRFBjyMlpg69E_trNUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3506681-1336245635.jpeg.jpg" data-tags="shoegaze, dream pop" role="button">
+Lotus Plaza - Spooky Action at a Distance (2012-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/24c99b7d-b243-450d-8477-46dfd4a8bfa3/948171837-500.jpg" data-tags="dream pop" role="button">
 Beach House - Bloom (2012-05-14)
 </li>
@@ -284,6 +281,9 @@ Still Corners - Strange Pleasures (2013-05-06)
 </li>
 <li data-cover="https://img.discogs.com/0ql8b3dLFazffFJrBCRFnqpVm_s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4566013-1368554865-9702.jpeg.jpg" data-tags="indie, alternative, indie pop, dream pop" role="button">
 MS MR - Secondhand Rapture (2013-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/32cdbb59-0f9b-4df5-8986-4ab0ccb294d6/4920961799-500.jpg" data-tags="dream pop, shoegaze" role="button">
+Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/910f52ac-6f28-4ea3-9946-c10526357f18/24086155537-500.jpg" data-tags="electronic, indie, alternative, indie pop, indie rock, post-punk, minimal, dream pop, lush, minimal pop" role="button">
 The xx - Fiction (2013-07-12)

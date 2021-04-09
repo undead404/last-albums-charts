@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:49:01.475Z
+date: 2021-04-09T22:26:01.434Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -51,8 +51,14 @@ Róisín Murphy - Overpowered (2007-05)
 <li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
 New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+M.I.A. - Kala (2007-08-08)
+</li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
+</li>
+<li data-cover="https://img.discogs.com/AJJGBWHRRDq-mS7TXshVuTdDlHE=/fit-in/454x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102142-1192142547.jpeg.jpg" data-tags="electropop, indie" role="button">
+Sohodolls - Ribbed Music for the Numb Generation (2007-09-24)
 </li>
 <li data-cover="https://img.discogs.com/cLJmQS2vtGhXqEBRnMSNi-HpqqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500085-1224352394.jpeg.jpg" data-tags="power pop, pop" role="button">
 Girls Aloud - Tangled Up (2007-11-19)
@@ -68,9 +74,6 @@ Cut Copy - In Ghost Colours (2008-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
-The Ting Tings - We Started Nothing (2008-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/638aa7c9-28a7-45f7-8181-e96e1410fe20/7115401017-500.jpg" data-tags="electropop, electronica" role="button">
 Kleerup - Kleerup (2008-05-21)
@@ -104,6 +107,9 @@ Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/34375ad9-5765-4894-810c-bb457f60b702/3832887948-500.jpg" data-tags="french, electropop, horses and ponies and unicorns too" role="button">
+Pony Pony Run Run - You Need Pony Pony Run Run (2009-06-08)
 </li>
 <li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
 Miike Snow - Miike Snow (2009-06-09)
@@ -219,9 +225,6 @@ LMFAO - Sorry for Party Rocking (2011-06-11)
 <li data-cover="http://coverartarchive.org/release/3ff1f8f9-b1b6-46c3-9714-ee00f7fb2aca/7633510640-500.jpg" data-tags="pop" role="button">
 Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
 </li>
-<li data-cover="https://img.discogs.com/eIDxMJGvk7zOAU0aOmRbfHX0c0w=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275403-1606596468-9054.jpeg.jpg" data-tags="electropop, indie rock, alternative dance, dfa" role="button">
-The Rapture - In the Grace of Your Love (2011-08-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
@@ -230,9 +233,6 @@ Marina & the Diamonds - Electra Heart (2012-03)
 </li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">
 Miike Snow - Happy To You (2012-03-13)
-</li>
-<li data-cover="https://img.discogs.com/cCugFOoJPX2RSqLygaFEpUrNwEs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8707991-1522595819-3486.jpeg.jpg" data-tags="electropop, indie" role="button">
-Gossip - A Joyful Noise (2012-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">
 Icona Pop - I Love It (2012-05-09)

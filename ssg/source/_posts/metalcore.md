@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:07:01.413Z
+date: 2021-04-09T21:50:01.414Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![Bullet for My Valentine - Fever (2010-04-21)](http://coverartarchive.org/release/fbfe9a19-5c45-437c-ad68-2e027f4468b1/8895704916-500.jpg "Bullet for My Valentine - Fever (2010-04-21)")

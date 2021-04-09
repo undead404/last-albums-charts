@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:37:01.531Z
+date: 2021-04-09T21:54:01.431Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -26,9 +26,6 @@ Enigma - MCMXC a.D. (1990-12-03)
 </li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
-</li>
-<li data-cover="https://img.discogs.com/O9-ZpQpvt3gsm9dlgCRXDOCfeDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10046-1573154029-6024.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
-Everything But the Girl - Amplified Heart (1994-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
@@ -237,6 +234,9 @@ Massive Attack - Collected (2006-03-23)
 <li data-cover="http://coverartarchive.org/release/a672e789-c044-4f06-8b8b-cd9fddc320cc/3302612425-500.jpg" data-tags="tango, chillout, lounge" role="button">
 Gotan Project - Lunatico (2006-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">
+The Whitest Boy Alive - Dreams (2006-04-27)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout" role="button">
 Zero 7 - The Garden (2006-05-22)
 </li>
@@ -245,9 +245,6 @@ Helios - Eingya (2006-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">
 Bonobo - Days to Come (2006-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/52a6f83d-da94-431e-ba83-b60842204a80/8677214568-500.jpg" data-tags="electronic, dance, chillout" role="button">
-LCD Soundsystem - 45:33 (2006-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7e3892c-57eb-3671-9440-987f6082ab1a/4379839294-500.jpg" data-tags="electronic" role="button">
 Air - Pocket Symphony (2006-12)
@@ -320,5 +317,8 @@ Rhye - Woman (2013-01)
 </li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/2faeabf0-53b4-4601-8983-68337f569bad/6458215931-500.jpg" data-tags="chillout, vocal, chanson, alternative, folk, female vocalists, singer-songwriter, mellow, ethereal, alternative pop, vocal pop, better than expected, purchase list" role="button">
+Indila - Mini World (2014-02-21)
 </li>
 </ol>

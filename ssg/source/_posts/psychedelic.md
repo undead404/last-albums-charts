@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:48:01.510Z
+date: 2021-04-09T22:29:01.439Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -68,9 +68,6 @@ The Rolling Stones - Their Satanic Majesties Request (1967-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">
-Os Mutantes - Os Mutantes (1968-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/164516d8-4fcf-3191-86cf-afcbf27eb055/5898666587-500.jpg" data-tags="psychedelic rock, psychedelic, progressive rock" role="button">
 Pink Floyd - A Saucerful of Secrets (1968-06-29)
@@ -266,6 +263,9 @@ Tame Impala - Innerspeaker (2010-05-21)
 </li>
 <li data-cover="https://img.discogs.com/fk5BiJ91Z_K3T0C7SNktSmqB6mc=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3610607-1337281517-5573.jpeg.jpg" data-tags="indie rock, psychedelic" role="button">
 The Coral - Butterfly House (2010-07-12)
+</li>
+<li data-cover="https://img.discogs.com/wLUsWMORrOXxUaAekYkwFc3_tu4=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6219468-1414012241-6652.jpeg.jpg" data-tags="indie, indie pop, psychedelic" role="button">
+of Montreal - False Priest (2010-09-13)
 </li>
 <li data-cover="https://img.discogs.com/mNxZIgAsUaaNsstp-hpfLpKq0rU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2541938-1289600193.jpeg.jpg" data-tags="hip-hop" role="button">
 Kid Cudi - Man on the Moon II: The Legend of Mr. Rager (2010-11-08)

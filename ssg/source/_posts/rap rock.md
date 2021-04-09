@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T08:27:01.434Z
+date: 2021-04-09T22:11:01.406Z
 title: "rap rock: 100 albums you must listen to before you die"
 ---
 ![Beastie Boys - Licensed to Ill (1986-11-15)](http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg "Beastie Boys - Licensed to Ill (1986-11-15)")
@@ -9,7 +9,7 @@ title: "rap rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/00JxH-GC78GMdkj_qkb47ZwJ3OE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4420449-1364407920-8248.jpeg.jpg" data-tags="rapcore" role="button">Crazy Town - The Gift of Game (1999-11-09)</li>
 <li data-cover="http://coverartarchive.org/release/e15d287b-2688-3abe-9b24-b1cccf235467/8179828763-500.jpg" data-tags="rapcore" role="button">Hollywood Undead - Swan Songs (2008-09-02)</li>
 <li data-cover="http://coverartarchive.org/release/9d68e86c-ca8e-403b-a208-5f440fcc6aa5/8684760406-500.jpg" data-tags="reggae, 00s, rap rock, opelmelange" role="button">The Dirty Heads - Any Port In A Storm (2008-09-23)</li>
-<li data-cover="https://img.discogs.com/OIhCyHMoOgvc2Lvx-nKK6HLaItA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2465284-1288473096.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
+<li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/47b630d5-aa87-4393-8d66-3bf5733c4774/10712441230-500.jpg" data-tags="rapcore" role="button">Hollywood Undead - American Tragedy (2011-04-04)</li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">Professor Green - At Your Inconvenience (2011-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">Linkin Park - Living Things (2012-06-20)</li>
@@ -30,6 +30,9 @@ Beastie Boys - Licensed to Ill (1986-11-15)
 <li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)
 </li>
+<li data-cover="https://img.discogs.com/32HR-X4BodEKg0aywMj0wojiJU4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3325323-1419776554-9462.jpeg.jpg" data-tags="hard rock, funk rock, rap rock" role="button">
+Big Mouth - Quite Not Right (1988)
+</li>
 <li data-cover="https://img.discogs.com/gGw3vTuZWZQCWuQAHcJoaTinw5I=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1349099-1211775760.jpeg.jpg" data-tags="hip-hop, 90s" role="button">
 Beastie Boys - Check Your Head (1992-04-21)
 </li>
@@ -39,14 +42,8 @@ Clawfinger - Deaf Dumb Blind (1993-04-21)
 <li data-cover="http://coverartarchive.org/release/16e433c3-1afe-43a8-be20-5441529c8d48/4864202701-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Judgment Night (1993-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
-311 - Grassroots (1994-07-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/01b387c3-0977-47a4-8def-1aae48b79447/17994376284-500.jpg" data-tags="crossover" role="button">
 H-Blockx - Time To Move (1994-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/b51ce6f1-7b00-33a9-bb2e-c976385f5faa/12053294894-500.jpg" data-tags="industrial rock, industrial, grebo" role="button">
-Pop Will Eat Itself - Dos Dedos Mis Amigos (1994-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/28e7a3e1-b4ba-4f58-a9e5-fa6d5936d5bc/2038812187-500.jpg" data-tags="alternative rock, rock" role="button">
 311 - 311 (1995-07-25)
@@ -81,11 +78,17 @@ Clawfinger - Clawfinger (1997-09-29)
 <li data-cover="http://coverartarchive.org/release/991dbf44-6051-4c74-98f7-3a0c96a52cfb/9771616053-500.jpg" data-tags="detroit, psychopathic, detroit rap" role="button">
 Twiztid - Mostasteless (1997-11-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rap rock" role="button">
+Goldo - Goldo (1998-05-05)
+</li>
 <li data-cover="https://img.discogs.com/WxfrcTp_H4S6YtLNXKYoACQtjmY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372960-1119523483.jpg.jpg" data-tags="rock, hard rock" role="button">
 Kid Rock - Devil Without a Cause (1998-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/353d95fc-d4a9-45aa-9d7f-2f0a4b911412/1545454230-500.jpg" data-tags="pop punk" role="button">
 Zebrahead - Waste of Mind (1998-10-13)
+</li>
+<li data-cover="https://img.discogs.com/HjgwjgWZ2ptI6nAsvYf1662E8HM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4733614-1541488989-2806.jpeg.jpg" data-tags="hip-hop, hip hop, france, rap rock, french rap, french hip hop, french hip-hop, rif, rock identitaire francais, identity rock, nationalist hip-hop, nationalist rap, nationalist hip hop, pro-serbia rap, pro-serbia hip hop, nationalist rap rock" role="button">
+Basic Celtos - Liberté (1999-09)
 </li>
 <li data-cover="https://img.discogs.com/BOVm2LL9AWwaxhS-ebRuyVisVcY=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602393-1137205374.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
 311 - Soundsystem (1999-10-12)
@@ -231,9 +234,6 @@ Lil Wayne - Rebirth (2009-12)
 <li data-cover="https://img.discogs.com/HDGCOkdGZAiOky5cYUTUnFdbSKk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13104279-1548116812-1113.jpeg.jpg" data-tags="alternative rock, rapcore, rap-rock, rap rock" role="button">
 Steriogram - Taping The Radio (2010)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7cf01bb-6766-42fb-ade1-849ba05623c4/7421340597-500.jpg" data-tags="rock, alternative rock, lyrics" role="button">
-Vices I Admire - The Politics of Apathy (2010-01-01)
-</li>
 <li data-cover="https://img.discogs.com/jVhD2t-MCj52UbrwsoYG_YZAlzw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523458-1288654372.jpeg.jpg" data-tags="rock, alternative rock, hip-hop" role="button">
 Flobots - Survival Story (2010-03-16)
 </li>
@@ -249,7 +249,7 @@ New Politics - New Politics (2010-07-09)
 <li data-cover="https://img.discogs.com/hCbKVGRZdsh5F7JWhTSmsm6HXMw=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2384588-1280918362.jpeg.jpg" data-tags="grime" role="button">
 Professor Green - Alive Till I'm Dead (2010-07-16)
 </li>
-<li data-cover="https://img.discogs.com/OIhCyHMoOgvc2Lvx-nKK6HLaItA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2465284-1288473096.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
+<li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/92b9a826-e376-4ca7-99f4-6b91fb5fc741/8147662070-500.jpg" data-tags="rock, alternative rock" role="button">

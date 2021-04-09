@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T10:46:07.257Z
+date: 2021-04-09T22:28:01.416Z
 title: "brutal deathcore: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -57,9 +57,6 @@ Fall Out Boy - My Heart Will Always Be the B-Side to My Tongue (2004-05-18)
 <li data-cover="https://img.discogs.com/mjOxPmaclMEP_xh0rPPtiE5OWb0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841506-1346519889-7225.jpeg.jpg" data-tags="metalcore" role="button">
 August Burns Red - Looks Fragile After All (2004-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/caee1003-ccd8-40bf-b682-d79f0054b36a/11799281268-500.jpg" data-tags="noise rock, noise" role="button">
-Lightning Bolt - Hypermagic Mountain (2005-10-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/81e25f16-7f48-44c0-bec2-72516c9d0a73/14890984038-500.jpg" data-tags="jonas brothers" role="button">
 Jonas Brothers - It's About Time (2006)
 </li>
@@ -69,10 +66,10 @@ The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 I Declare War - Amidst the Bloodshed (2007)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
-<li data-cover="https://img.discogs.com/E4qYR4N1v2Twrx41a37IIukfh3k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12300495-1587702100-9037.jpeg.jpg" data-tags="pop, deathcore, brutal death metal, brutal deathcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal,  pop rock,  male vocalists,  emo,  emo pop" role="button">
+<li data-cover="https://img.discogs.com/PBR8RQYCW1n8ft-fyE2Y20SJmwM=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9877363-1527621423-9267.jpeg.jpg" data-tags="pop, deathcore, brutal death metal, brutal deathcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal,  pop rock,  male vocalists,  emo,  emo pop" role="button">
 Fall Out Boy - Thnks fr th Mmrs (2007-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/e819285e-12f9-4196-a011-e69ceb18f2dd/12813342419-500.jpg" data-tags="miley cyrus" role="button">
@@ -92,6 +89,9 @@ Suicide Silence - The Cleansing (2007-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4328c3bb-d280-4fc0-a2c1-e59d1192cb8c/22143594749-500.jpg" data-tags="deathcore" role="button">
 Waking the Cadaver - Perverse Recollections of a Necromangler (2007-11-21)
+</li>
+<li data-cover="https://img.discogs.com/TFDVSollYltp5DdqM8e_sPOofxk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520593-1288530583.jpeg.jpg" data-tags="hair metal" role="button">
+Steel Panther - Death To All But Metal (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
 Jonas Brothers - A Little Bit Longer (2008-01-01)
@@ -165,9 +165,6 @@ Breathe Carolina - Hello Fascination (2009-08-18)
 <li data-cover="https://img.discogs.com/z93hsXJ-FG20W1WGYtQirXrMWUs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2098063-1263865182.jpeg.jpg" data-tags="black metal" role="button">
 Liturgy - Renihilation (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9fba5c6-2003-42aa-b5a0-131c90445884/9297556618-500.jpg" data-tags="k-pop, korean" role="button">
-4minute - For Muzik (2009-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
 Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
 </li>
@@ -189,13 +186,13 @@ Steel Panther - Don't Stop Believin' (2009-11-17)
 <li data-cover="https://img.discogs.com/uO1H6IDg4OrdLB094m4JG6A4VX8=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2679948-1296295046.jpeg.jpg" data-tags="deathcore" role="button">
 Oceano - Contagion (2010)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/u2AfLiNS0Byrcw3Y8yhwhGj1DhI=/fit-in/304x304/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2920653-1558715848-1521.jpeg.jpg" data-tags="deathcore" role="button">
 Chelsea Grin - Desolation of Eden (2010-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/895e0fef-751e-47fe-b5df-715aba698e4b/21635191959-500.jpg" data-tags="deathcore" role="button">
 Carnifex - Hell Chose Me (2010-02-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/3r87XAABVdNXgFVcotk55G5HgxY=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4719460-1532363335-1557.jpeg.jpg" data-tags="deathcore" role="button">
 Suffokate - No Mercy, No Forgiveness (2010-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
@@ -213,8 +210,11 @@ Deafheaven - Demo (2010-06-01)
 <li data-cover="http://coverartarchive.org/release/7c72e596-3a89-4af9-9eb0-dc2c1f70d292/7599907699-500.jpg" data-tags="deathcore" role="button">
 Whitechapel - A New Era Of Corruption (2010-06-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="brutal deathcore" role="button">
+<li data-cover="https://img.discogs.com/s65a0LFKrCHdyiK_24TFFHp4VJk=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5301815-1390029273-3519.jpeg.jpg" data-tags="brutal deathcore" role="button">
 I Declare War - Malevolence (2010-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/70386be2-6ebc-4a75-bd42-25c2758579ef/13631283185-500.jpg" data-tags="death metal, deathcore, technical deathcore" role="button">
+Thy Art Is Murder - The Adversary (2010-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7f2bbda-e3c7-4e7d-aa67-37b6b1abb107/11884940763-500.jpg" data-tags="deathcore" role="button">
 Impending Doom - There Will Be Violence (2010-07-20)
@@ -239,9 +239,6 @@ Disfiguring the Goddess - Circle Of Nine (2011-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/216dc68b-c7db-4c5f-b054-753d6d3fd1d1/12911239802-500.jpg" data-tags="black metal, metal" role="button">
-Liturgy - Aesthethica (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Set the World on Fire (2011-06-14)
@@ -296,6 +293,9 @@ Ghost - Infestissumam (2013-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b5c4336-04b0-4ffc-8261-e7daf78fb961/7092493624-500.jpg" data-tags="thrash metal" role="button">
+Megadeth - Super Collider (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Attila - About That Life (2013-06-25)

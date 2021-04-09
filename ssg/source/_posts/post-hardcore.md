@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T13:03:01.366Z
+date: 2021-04-09T22:16:06.901Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -11,7 +11,7 @@ title: "post-hardcore: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">A Day to Remember - For Those Who Have Heart (2007-01-23)</li>
-<li data-cover="https://img.discogs.com/u4erzeI81X5S6Px7Rfcmi_oAFIk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621914-1421619303-5143.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">Enter Shikari - Take To The Skies (2007-03-18)</li>
+<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">Enter Shikari - Take To The Skies (2007-03-14)</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">A Day to Remember - Homesick (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">A Day to Remember - What Separates Me from You (2010-11-16)</li>
 </ol>
@@ -30,7 +30,7 @@ Slint - Spiderland (1991-03-15)
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
-<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fbf71bc-5530-35cb-be9e-fccb2ec2a9ca/19908311105-500.jpg" data-tags="post-hardcore" role="button">
@@ -87,7 +87,7 @@ Story of the Year - Page Avenue (2003-09-16)
 <li data-cover="https://img.discogs.com/f_Z5jf9GxipomA3X7zmUykQpHOk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122839-1316854929.jpeg.jpg" data-tags="post-hardcore" role="button">
 Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
 </li>
-<li data-cover="https://img.discogs.com/dXtSjcT8_RErf01i6OH6pnvo9O4=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4875104-1378149523-6688.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b773f9e1-f0e4-410b-9971-3647e8f2af80/4889661118-500.jpg" data-tags="post-hardcore, rock, screamo" role="button">
@@ -111,7 +111,7 @@ The Mars Volta - Frances the Mute (2005-03-01)
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
 </li>
-<li data-cover="https://img.discogs.com/I_ZGRN6Z0YjjpZAKtv0On9tW7_k=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10534582-1499411233-8844.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
+<li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
@@ -186,8 +186,8 @@ A Day to Remember - For Those Who Have Heart (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/2c7efad2-73f2-4652-b6b6-2ec78963fcf6/8691616470-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - She Watched The Sky (2007-01-23)
 </li>
-<li data-cover="https://img.discogs.com/u4erzeI81X5S6Px7Rfcmi_oAFIk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621914-1421619303-5143.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
-Enter Shikari - Take To The Skies (2007-03-18)
+<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
+Enter Shikari - Take To The Skies (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
@@ -306,7 +306,7 @@ Falling in Reverse - The Drug In Me Is You (2011-06-28)
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)
 </li>
-<li data-cover="https://img.discogs.com/rbBMP4M9Grh7ch-qedABfsJJZgU=/fit-in/600x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3365410-1329385926.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
+<li data-cover="https://img.discogs.com/URBql6c3VIxoUJnUkfaqxw6YxSU=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3351355-1412855554-1608.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
 Enter Shikari - A Flash Flood of Colour (2012-01-13)
 </li>
 <li data-cover="https://img.discogs.com/OxM5G5Qljj1PiIZK9cW-N7cNKUU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370640-1444723756-2718.jpeg.jpg" data-tags="indie rock, post-hardcore" role="button">

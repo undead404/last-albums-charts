@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:39:01.505Z
+date: 2021-04-09T22:03:01.450Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -30,11 +30,11 @@ Björk - Debut (1993-07-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Global Communication - 76:14 (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
-Leftfield - Leftism (1995-01-30)
-</li>
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/2cc82f9c-52f3-4d71-8033-d1b0fb2b3ed8/9708222337-500.jpg" data-tags="electronic, big beat" role="button">
+The Chemical Brothers - Exit Planet Dust (1995-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Becoming X (1996-08-07)
@@ -99,9 +99,6 @@ Télépopmusik - Genetic World (2001-05-21)
 <li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
 Radiohead - Amnesiac (2001-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/441e153d-6ce6-3a75-aa4e-65f63b88d14f/3487982154-500.jpg" data-tags="electronic" role="button">
-Björk - Vespertine (2001-08-18)
-</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
@@ -150,17 +147,11 @@ Cut Copy - Bright Like Neon Love (2004-04-05)
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/2079f767-51df-45bf-8c56-86faf2f7286e/4645426278-500.jpg" data-tags="electronic, electronica" role="button">
-Hot Chip - Coming on Strong (2004-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/fd01efd0-91ef-4a6a-832b-a4945c233cbf/11348812197-500.jpg" data-tags="electronic, ambient" role="button">
 Tycho - Past Is Prologue (2004-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ee6bc56-f959-3474-a1c1-dad054e6a02d/10309050413-500.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Push the Button (2004-12)
-</li>
-<li data-cover="https://img.discogs.com/qaIHMHNUV09ChF8zB0FBsdkgHl4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376466-1470732678-1607.jpeg.jpg" data-tags="electronic" role="button">
-LCD Soundsystem - LCD Soundsystem (2005-01-19)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
 Shiny Toy Guns - We Are Pilots (2005-01-31)
@@ -200,6 +191,9 @@ Metronomy - Nights Out (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg" data-tags="psytrance, electronic" role="button">
 Infected Mushroom - Vicious Delicious (2007-03-20)
+</li>
+<li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
+Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
 Apparat - Walls (2007-05)
@@ -246,6 +240,9 @@ Miike Snow - Miike Snow (2009-06-09)
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
+Neon Indian - Psychic Chasms (2009-10-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/49eefb52-d716-450c-a60d-115f1c4f4240/1472462701-500.jpg" data-tags="electronic, electronica, electropop, synthpop" role="button">
 Miami Horror - Sometimes (2009-11-20)
 </li>
@@ -281,6 +278,9 @@ Washed Out - Within and Without (2011-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)
+</li>
+<li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">
+Justice - Audio, Video, Disco (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3747ee08-0566-448b-99d6-8fba88136a3e/5129551162-500.jpg" data-tags="electronic, electronica, indie, alternative, synthpop, alternative dance, dark pop, coramao, bete gouveia" role="button">
 M.I.A. - Bad Girls (2012-01-31)

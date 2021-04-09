@@ -1,17 +1,17 @@
 ---
-date: 2021-04-08T08:30:01.708Z
+date: 2021-04-09T21:52:01.656Z
 title: "aggressive: 100 albums you must listen to before you die"
 ---
 ![Kanye West - Yeezus (2013-06-18)](http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg "Kanye West - Yeezus (2013-06-18)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">Slint - Slint (1994-08-29)</li>
+<li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">Geto Boys - We Can't Be Stopped (1991-07-01)</li>
+<li data-cover="https://img.discogs.com/NHmQQFhssYzExKDPuY3HSkEHbF4=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105549-1414958720-6607.jpeg.jpg" data-tags="rap" role="button">Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">Weezer - Pinkerton (1996-08-24)</li>
-<li data-cover="https://img.discogs.com/pqHGjbiJ-g74HIVrPmjtwynSmVs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926857-1186771250.jpeg.jpg" data-tags="indie rock" role="button">Gossip - Standing in the Way of Control (2005)</li>
-<li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)</li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">The Walkmen - You & Me (2008-07-29)</li>
+<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">Pixies - Death to the Pixies (1997-10-06)</li>
+<li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">M.I.A. - Arular (2005-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
+<li data-cover="https://img.discogs.com/180eSVrmFqEx84A9MljgGmJieto=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220760-1543694776-5834.jpeg.jpg" data-tags="mute, 10s" role="button">Liars - Sisterworld (2010-03-08)</li>
 <li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">The Walkmen - Lisbon (2010-09-14)</li>
-<li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">The Kills - Blood Pressures (2011-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">Kanye West - Yeezus (2013-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/b5139eff-0ce6-428e-a96f-6653a68af7a2/8249629063-500.jpg" data-tags="alternative rock, blues rock, rock, garage rock" role="button">Jack White - Lazaretto (2014-06-06)</li>
 </ol>
@@ -21,64 +21,64 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/a3e5370f-28e0-488c-b5d1-6f5e2b73ceec/3683681968-500.jpg" data-tags="vocal, jazz, sad, torch songs, vocal jazz, blues, reflective, passionate, melancholy, organic, intense, confident, aggressive, fiery, freewheeling, provocative, uncompromising, dramatic, bittersweet, introspection, intimate, earthy, elegant, standards, yearning, sophisticated, poignant, autumnal, autumn, delicate, brooding, feeling blue, empowerment, gritty, refined, theatrical, difficult, plaintive, austere, ambitious, rca victor, simone, gammarec, dr nina simone, freepurp1e, modern jazz vocals" role="button">
-Nina Simone - Black Gold (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/b60e6f2c-e569-4ffb-83b7-cd23d66fc1c4/20406235434-500.jpg" data-tags="70s, rock, art rock" role="button">
-John Cale - Fear (1974)
+<li data-cover="http://coverartarchive.org/release/5df50f26-16f7-4543-81f1-bc67fae41d72/5446256865-500.jpg" data-tags="hard rock, classic rock" role="button">
+Alice Cooper - Killer (1971-11)
 </li>
 <li data-cover="https://img.discogs.com/9zG8vaAuIJzS6sB9WhErPbwIPOA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081082-1480094319-3225.jpeg.jpg" data-tags="classic rock, punk, power pop, driving, energetic, passionate, intense, aggressive, freewheeling, uncompromising, raucous, uplifting, strong, playful, anthemic, powerful, rebellious, rollicking, passion, joyous, humorous, cathartic, bright, motivation, rowdy, messy, american punk, brash, street-smart, hanging out, rambunctious, bravado, extroverted, tough, iveldie best of 1977" role="button">
 The Real Kids - The Real Kids (1977)
 </li>
-<li data-cover="https://img.discogs.com/UUNlY7aGuwzbHB9z-HDvfDa0AZM=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2880014-1305396308.jpeg.jpg" data-tags="mod revival, punk rock" role="button">
-The Jam - In the City (1977-05-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/dcf42362-bbf0-40c6-82bc-f6e48e03e0af/20200710314-500.jpg" data-tags="rock" role="button">
 Lou Reed - Street Hassle (1978)
 </li>
-<li data-cover="https://img.discogs.com/qt8Iv8kKsI-F1xM_LSd6VRClxBA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5810603-1403711907-1328.jpeg.jpg" data-tags="70s, new wave, mod" role="button">
-The Jam - All Mod Cons (1978-11-03)
+<li data-cover="https://img.discogs.com/fDVtCl-I-nVC-7tHUgqkFJERr1o=/fit-in/450x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206247-1334169387.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
+Kiss - Double Platinum (1978-04-02)
+</li>
+<li data-cover="https://img.discogs.com/BbPNN4exoTtfqWZkqTREHvWTnyA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2757319-1299675179.jpeg.jpg" data-tags="punk, 70s" role="button">
+Johnny Thunders - So Alone (1978-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
-Throbbing Gristle - 20 Jazz Funk Greats (1979-12)
+<li data-cover="https://img.discogs.com/ExoDgcltmEJ1RKQvzCGW1nPBgmU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2215401-1394312962-6379.jpeg.jpg" data-tags="black metal, heavy metal, thrash metal" role="button">
+Venom - Welcome To Hell (1981)
 </li>
-<li data-cover="http://coverartarchive.org/release/507bb61e-c7fa-3dd5-ba2d-d6f0f6e2f792/6010164584-500.jpg" data-tags="hardcore, punk, hardcore punk" role="button">
-Minor Threat - Out of Step (1983)
+<li data-cover="https://img.discogs.com/nwQm0wnjkHpPAOn12ki3PZojC_k=/fit-in/593x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-535339-1268563129.jpeg.jpg" data-tags="alternative rock" role="button">
+Hüsker Dü - Flip Your Wig (1985-09)
 </li>
-<li data-cover="https://img.discogs.com/Yc3Jvzj03NdvSN519QWmDWVXFg4=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-641014-1165603074.jpeg.jpg" data-tags="hardcore punk" role="button">
-Bad Brains - Rock for Light (1983-03)
+<li data-cover="http://coverartarchive.org/release/675c2793-dd25-430c-a7f1-e79a66cdfcc5/5538329105-500.jpg" data-tags="metal, punk, hardcore, post-punk, intense, aggressive, confrontational, post-hardcore, american underground, hardcore punk, bleak, cathartic, visceral, angst-ridden, great album cover" role="button">
+Die Kreuzen - October File (1986-05)
 </li>
-<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
-Lou Reed - New Sensations (1984)
-</li>
-<li data-cover="https://img.discogs.com/hq0nx8-puTRvn9QWkR0fkGER6qU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4397266-1455225511-8126.jpeg.jpg" data-tags="80s, alternative rock, hardcore punk, rock, hardcore, post-punk" role="button">
-Hüsker Dü - Warehouse: Songs and Stories (1987-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/38f354d3-7148-41ae-96d3-8574a9c71287/14748841978-500.jpg" data-tags="hip-hop, east coast rap, rap" role="button">
-Public Enemy - Yo! Bum Rush the Show (1987-02-10)
+<li data-cover="http://coverartarchive.org/release/cba37f1a-2c70-3e76-bdc4-ed56e4de184f/9518530430-500.jpg" data-tags="noise rock" role="button">
+Butthole Surfers - Locust Abortion Technician (1987-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2be302b8-5c4a-47ae-ac83-0f08777982ab/12312200491-500.jpg" data-tags="80s, sst" role="button">
 Descendents - All (1987-06)
 </li>
+<li data-cover="https://img.discogs.com/6oi7xYtpPVwuwh0Sg-spbJL7-go=/fit-in/463x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374586-1169420223.jpeg.jpg" data-tags="hardcore punk" role="button">
+Black Flag - Wasted...Again (1987-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/a93c3163-90af-44cf-82bf-deacfdad55b6/18142550474-500.jpg" data-tags="indie rock, garage rock revival, searching, garage rock, intense, aggressive, menacing, confrontational, garage, yearning, garage punk, punk blues, spring, bitter, brooding, happiness, harsh, bleak, cathartic, visceral, urgent, angst-ridden, brash, destiny, victory, starting out, pogge" role="button">
 Dead Moon - In the Graveyard (1988)
 </li>
-<li data-cover="https://img.discogs.com/SckRmjGp1Y2pRuclPz2T880a8dw=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7621143-1466461966-9813.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
-L.A. Guns - L.A. Guns (1988-01)
+<li data-cover="http://coverartarchive.org/release/44eb139f-abd1-4c92-8b2d-29b416c0315b/2179533989-500.jpg" data-tags="golden age hip hop" role="button">
+Slick Rick - The Great Adventures of Slick Rick (1988)
+</li>
+<li data-cover="https://img.discogs.com/qvTTe83iXzzhY2hTSOZi0EKcKb0=/fit-in/591x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-788864-1165089859.jpeg.jpg" data-tags="alternative, noise rock" role="button">
+Butthole Surfers - Hairway to Steven (1988-04-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/920af7b1-3a8b-4129-a881-7c9c6877b0ef/5880914168-500.jpg" data-tags="golden age hip hop, hip-hop, rap" role="button">
+Big Daddy Kane - Long Live the Kane (1988-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e7f071c-fd4c-4616-809d-20e7913d87a8/2550599836-500.jpg" data-tags="golden age hip hop" role="button">
+Eric B. & Rakim - Follow the Leader (1988-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
-<li data-cover="https://img.discogs.com/r4kRB_nIAYMeR6D7iWuhvZBoNTY=/fit-in/600x334/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11705365-1520967247-1779.jpeg.jpg" data-tags="punk, rock, hard rock" role="button">
-Iggy Pop - Brick By Brick (1990-06-28)
+<li data-cover="http://coverartarchive.org/release/2c99e627-4a01-4429-9058-2c8dccc3ecef/20987488351-500.jpg" data-tags="hardcore punk" role="button">
+Negative Approach - Total Recall (1990-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/d012b269-86de-4a3e-9d7c-5d0ab45a633b/23499818550-500.jpg" data-tags="golden age hip hop" role="button">
-LL Cool J - Mama Said Knock You Out (1990-09-18)
-</li>
-<li data-cover="https://img.discogs.com/ARdheJRsRhkAwP6lGT8aH5MBcio=/fit-in/600x936/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2539010-1494682460-4807.jpeg.jpg" data-tags="90s" role="button">
+<li data-cover="https://img.discogs.com/cH5lDlh5ja1gQxDBoUebUckoe0A=/fit-in/600x980/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16058434-1602697073-7892.jpeg.jpg" data-tags="90s" role="button">
 Dinosaur Jr. - Green Mind (1991-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
@@ -87,89 +87,101 @@ Geto Boys - We Can't Be Stopped (1991-07-01)
 <li data-cover="http://coverartarchive.org/release/4787bb54-a53f-4a0a-b80e-5df0b44e271f/4765095514-500.jpg" data-tags="east coast hip hop, rap" role="button">
 Naughty By Nature - Naughty By Nature (1991-08-30)
 </li>
-<li data-cover="https://img.discogs.com/162722db579554db812b537fc8fbe8021fb40203/images/spacer.gif" data-tags="hip-hop, rap" role="button">
-Das EFX - Dead Serious (1992-04-07)
+<li data-cover="http://coverartarchive.org/release/8511b8dc-2b4b-42a3-84c8-9edb809e1940/14640059886-500.jpg" data-tags="riot grrrl" role="button">
+Bikini Kill - the first two records (1992)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ab37e32-c5a9-3f35-bf89-5aaf0cad3476/8923091701-500.jpg" data-tags="indie rock" role="button">
+Pavement - Slanted and Enchanted (1992-04-30)
 </li>
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
 </li>
-<li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, visceral, brash, rambunctious, hostile" role="button">
-The Jesus Lizard - Liar (1992-09-16)
+<li data-cover="http://coverartarchive.org/release/96ee5e4f-0fc0-423b-b84e-9b57b15b8350/28836082821-500.jpg" data-tags="noise rock" role="button">
+Cows - Cunning Stunts (1992-09-09)
 </li>
-<li data-cover="https://img.discogs.com/Pbax1EX6NsZObvYjGOqQDeMsi38=/fit-in/600x948/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4649150-1426547344-7546.jpeg.jpg" data-tags="alternative, indie, alternative rock, rock, 90s, dinosaur jr" role="button">
-Dinosaur Jr. - Where You Been (1993-02-09)
+<li data-cover="https://img.discogs.com/dPa8xiqXpmuTjRJrBUJPOLNHXKc=/fit-in/600x639/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8550799-1606993439-8474.jpeg.jpg" data-tags="industrial" role="button">
+Coil - Backwards (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/617e6155-432c-4c95-a9ab-b78e1c7838c2/11841421329-500.jpg" data-tags="rock, alternative rock, alternative, psychedelic" role="button">
 Butthole Surfers - Independent Worm Saloon (1993-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/23df2316-7e0a-3fad-a7fd-9f63379e4120/1674549008-500.jpg" data-tags="hip-hop, rap" role="button">
-Jeru the Damaja - The Sun Rises In The East (1994-05-24)
+<li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
+Ramones - Acid Eaters (1993-12-01)
 </li>
 <li data-cover="https://img.discogs.com/NHmQQFhssYzExKDPuY3HSkEHbF4=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105549-1414958720-6607.jpeg.jpg" data-tags="rap" role="button">
 Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/31393df7-4500-42f4-a7e3-01a8894793b4/5597540729-500.jpg" data-tags="rock, alternative rock" role="button">
-311 - Grassroots (1994-07-12)
+<li data-cover="http://coverartarchive.org/release/3e096a04-ae16-3718-b363-49061f3205e8/20638601124-500.jpg" data-tags="gangsta rap" role="button">
+Bone Thugs-N-Harmony - Creepin on Ah Come Up (1994-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
-Dinosaur Jr. - Without a Sound (1994-08-01)
+<li data-cover="http://coverartarchive.org/release/ab3c0b3e-efa1-4915-9d61-8c1af0abbc03/3837787300-500.jpg" data-tags="female vocalists" role="button">
+Sinéad O'Connor - Universal Mother (1994-09-07)
 </li>
-<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
-Slint - Slint (1994-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/7086c733-4ced-4f36-b024-74404bb7ab80/3357063370-500.jpg" data-tags="punk" role="button">
-Jawbreaker - Dear You (1995-09-12)
+<li data-cover="http://coverartarchive.org/release/acc90ba4-b75c-4b2a-8095-8d1d7c168373/5103117214-500.jpg" data-tags="alt-country" role="button">
+Son Volt - Trace (1995-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/87d8297b-b01e-4eab-861b-e6d4e782830d/3397017644-500.jpg" data-tags="hardcore punk" role="button">
-Bad Brains - Black Dots (1996-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/ff0dabec-536d-4cf4-a15c-89b2a5a60622/1674562591-500.jpg" data-tags="hip-hop, hip hop, rap" role="button">
 Jeru the Damaja - Wrath Of The Math (1996-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/c15b933d-04b1-46f5-ae32-2eeffebd652a/28714176915-500.jpg" data-tags="punk" role="button">
-The Jam - The Very Best of The Jam (1997)
+<li data-cover="http://coverartarchive.org/release/8faa11f6-e940-4769-be7e-533f8502ac30/2978500992-500.jpg" data-tags="rap" role="button">
+Busta Rhymes - When Disaster Strikes (1997-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Death to the Pixies (1997-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/426024e9-b577-4c17-99bd-7ef680dc5c6f/28555260475-500.jpg" data-tags="rap" role="button">
-Missy Elliott - Da Real World (1999-06-22)
+<li data-cover="http://coverartarchive.org/release/60a2b021-e664-457c-bd5e-dd67949fe118/20130235098-500.jpg" data-tags="post-punk" role="button">
+Royal Trux - Accelerator (1998-04-21)
+</li>
+<li data-cover="https://img.discogs.com/szu-NSZl7KGzTRwrgan7ERmsDvQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3755542-1372377379-1711.jpeg.jpg" data-tags="trip-hop" role="button">
+Tricky - Angels With Dirty Faces (1998-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/bea026dd-6df5-4c08-aae4-7bba098c4d23/18020982386-500.jpg" data-tags="digital hardcore, noise" role="button">
+Atari Teenage Riot - 60 Second Wipe Out (1999-04-16)
 </li>
 <li data-cover="https://img.discogs.com/Xm9A1eLAWairRgmfudgnDW3dioY=/fit-in/600x904/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12147912-1529259828-8515.jpeg.jpg" data-tags="heavy metal, hard rock" role="button">
 Alice Cooper - Mascara & Monsters: The Best of Alice Cooper (2001-01-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/d807723f-23f6-426f-8523-0690beeae349/16795995796-500.jpg" data-tags="metalcore, mathcore" role="button">
+Every Time I Die - Last Night in Town (2001-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/e6404812-e17f-432d-8b43-e584b4db32bb/4602389769-500.jpg" data-tags="alternative metal, finnish, aggressive" role="button">
 Velcra - Consequences Of Disobedience (2002-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/6a9eed90-52b8-3b50-a04b-a7f0370ca32c/23646585321-500.jpg" data-tags="rap, hip-hop" role="button">
-Missy Elliott - Under Construction (2002-11-11)
-</li>
-<li data-cover="https://img.discogs.com/fTrzU8dYMxdwGRMwLrwQMc6kr1c=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426669-1142683123.jpeg.jpg" data-tags="rap, g-funk" role="button">
+<li data-cover="https://img.discogs.com/k4Xwr_-2EvwkVY_tCBxUpqmumxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684169-1237899769.jpeg.jpg" data-tags="rap, g-funk" role="button">
 Snoop Dogg - Paid Tha Cost To Be Da Bo$$ (2002-11-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/20480e5c-369a-442f-b39f-9c14a83a4cdf/3798919747-500.jpg" data-tags="hip-hop, hip hop" role="button">
-Gang Starr - The Ownerz (2003-06-24)
+<li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
+Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e74f1592-5754-4f17-a32e-371f3b36f808/3374084977-500.jpg" data-tags="punk rock" role="button">
 The Bouncing Souls - Anchors Aweigh (2003-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/a216cc04-6983-4962-9e5b-c1c1674895f7/12671876579-500.jpg" data-tags="punk" role="button">
-Against Me! - As the Eternal Cowboy (2003-11-04)
+<li data-cover="http://coverartarchive.org/release/c0050af9-b69b-4094-ae4a-cd084725fc4f/8964814165-500.jpg" data-tags="electronic, industrial" role="button">
+Tactical Sekt - Burn Process (2003-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecc89278-62fa-3280-9a8d-4ae65ef4242c/21152590712-500.jpg" data-tags="rap, rnb, hip-hop, missy elliott" role="button">
 Missy Elliott - This Is Not a Test! (2003-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad735a32-1fe2-4742-8d73-4dfa77b08e60/9033346165-500.jpg" data-tags="rock, indie rock" role="button">
-Sahara Hotnights - Kiss & Tell (2004-05-11)
+<li data-cover="https://via.placeholder.com/450" data-tags="melodic death metal" role="button">
+Diablo - Eternium (2004-01-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ccab260-1fb0-333d-a520-fb0fd3e007e7/1588517786-500.jpg" data-tags="doom metal" role="button">
+Ufomammut - Snailking (2004-04-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="2004, alternative, female vocalists, alternative rock, rock" role="button">
 PJ Harvey - Uh Huh Her (2004-05-31)
 </li>
-<li data-cover="https://img.discogs.com/pqHGjbiJ-g74HIVrPmjtwynSmVs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-926857-1186771250.jpeg.jpg" data-tags="indie rock" role="button">
-Gossip - Standing in the Way of Control (2005)
+<li data-cover="https://img.discogs.com/J94iFtQ-S_W_aq2FuUrefhHfjGg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385313-1277151264.jpeg.jpg" data-tags="dark electro, industrial, ebm, metropolis" role="button">
+Hocico - Wrack and Ruin (2004-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
+The Ark - State of The Ark (2004-12-27)
+</li>
+<li data-cover="https://img.discogs.com/L5EUmV74le0j_T3jhKLmWxzPSqM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590040-1580482587-7535.jpeg.jpg" data-tags="metal, stoner metal" role="button">
+High on Fire - Blessed Black Wings (2005-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab1e8e68-9978-4025-9912-28bfd7c296a8/6976726288-500.jpg" data-tags="aggressive" role="button">
 Velcra - Between Force and Fate (2005-01-26)
@@ -189,17 +201,23 @@ Sleater-Kinney - The Woods (2005-05-24)
 <li data-cover="http://coverartarchive.org/release/790e2247-c402-48bb-a58f-97c158695406/7827977178-500.jpg" data-tags="ebm, ayria" role="button">
 Ayria - My Revenge On The World (2005-06-06)
 </li>
-<li data-cover="https://img.discogs.com/-3c1H_uELwr2N788wMTMZCyywyI=/fit-in/499x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-556259-1131086352.jpeg.jpg" data-tags="energetic, aggressive, raucous, exuberant, boisterous, party/ celebratory, weekly top albums" role="button">
-Hedley - Hedley (2005-09-06)
+<li data-cover="http://coverartarchive.org/release/1d9376d6-e0b1-4969-8096-00a73035e08a/5701198644-500.jpg" data-tags="thrash metal" role="button">
+Mokoma - Kuoleman laulukunnaat (2006-02-08)
 </li>
-<li data-cover="https://img.discogs.com/9gs9x3Km6VUA18KqGQsiJgNVRcY=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-804376-1411060528-5587.jpeg.jpg" data-tags="hip-hop" role="button">
-Beastie Boys - Solid Gold Hits (2005-11-02)
+<li data-cover="https://img.discogs.com/giNZH8F_a4Lq_kp-oI4fXVZdqhQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-659495-1171225004.jpeg.jpg" data-tags="industrial" role="button">
+Android Lust - Devour, Rise, and Take Flight (2006-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/6a4f1d1b-7808-3c2f-bee6-49d160078624/18251754338-500.jpg" data-tags="metalcore" role="button">
+Neaera - Let The Tempest Come (2006-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/273674ae-6524-4cf1-ab9f-4bee40f1965e/26455778105-500.jpg" data-tags="thrash metal" role="button">
+Stam1na - Uudet kymmenen käskyä (2006-05-10)
+</li>
+<li data-cover="https://img.discogs.com/9FqcP5v693eBNhi5jhjf1LHywgI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1274559-1214568705.jpeg.jpg" data-tags="alternative, industrial" role="button">
+Jakalope - Born 4 (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6e82f4-865d-3657-9d65-86737b208aff/2850609992-500.jpg" data-tags="dark electro, ebm, industrial and ebm" role="button">
 Tamtrum - Elektronic Blakc Mess (2006-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/eab06683-0a36-4897-85b4-07e363a6769d/13095340713-500.jpg" data-tags="hard rock, college rock, jangle pop, reflective, melancholy, irreverent, aggressive, freewheeling, wry, bittersweet, intimate, raucous, yearning, sleazy, silly, poignant, american underground, bitter, rebellious, wistful, rollicking, exuberant, rowdy, ramshackle, messy, angst-ridden, brash, rambunctious, reckless, iveldie albums" role="button">
-The Replacements - Don't You Know Who I Think I Was?: The Best Of The Replacements (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/73e6f496-ab10-4303-ad53-ad074c012723/25627284679-500.jpg" data-tags="ska, energetic, aggressive, soad, bobs stuff" role="button">
 Guttermouth - Shave The Planet (2006-08-22)
@@ -207,8 +225,14 @@ Guttermouth - Shave The Planet (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/e2a63170-71c4-4563-bc6d-bd182ea8741c/27117150755-500.jpg" data-tags="heavy metal" role="button">
 Motörhead - Kiss of Death (2006-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/622ac912-8b5d-463a-bad4-52dc1616c118/15785742859-500.jpg" data-tags="ambient, electronic, experimental" role="button">
+Ben Frost - Theory of Machines (2006-11)
+</li>
 <li data-cover="https://img.discogs.com/rIVAsTPF_RZxs9GCKYVjvWtjKkw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958210-1177507241.jpeg.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
 Jesus On Extasy - Holy Beauty (2007-03-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ca37803-a5c1-4b53-9ab5-344b4f7837b0/11272824480-500.jpg" data-tags="rock" role="button">
+Il Teatro Degli Orrori - Dell'impero delle tenebre (2007-04-06)
 </li>
 <li data-cover="https://img.discogs.com/SXMY9TtYg2E3iEpMij1FAB_u5S0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1087368-1191066313.png.jpg" data-tags="death metal, metalcore" role="button">
 Divine Heresy - Bleed The Fifth (2007-08-27)
@@ -216,23 +240,23 @@ Divine Heresy - Bleed The Fifth (2007-08-27)
 <li data-cover="http://coverartarchive.org/release/06ea2510-c899-40cb-a30b-ea8c6c76678a/12948969271-500.jpg" data-tags="aggressive, freewheeling, raucous, broodje halfom" role="button">
 Black Francis - Bluefinger (2007-09-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5d7eaff-4be0-41d9-910f-fc38accc14b9/16151761848-500.jpg" data-tags="industrial, aggressive, harsh ebm" role="button">
+Eisenfunk - Eisenfunk (2007-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/c9c75060-fc57-490d-9709-682412bd6a81/1431643782-500.jpg" data-tags="rap" role="button">
 Rick Ross - Trilla (2008-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/430447b5-e207-4637-90c4-d7c8cccdb3f9/7965367982-500.jpg" data-tags="blues, energetic, crunchy, intense, aggressive, fiery, confrontational, dramatic, raucous, drinking, punk blues, road trip, rebellious, rollicking, gritty, rowdy, gutsy, lively, visceral, ramshackle, messy, boisterous, brash, guys night out, street-smart, hanging out, rambunctious, reckless, soundweave, dirtiest wall of surround sound ever" role="button">
-Left Lane Cruiser - Bring Yo' Ass to the Table (2008-01-08)
+<li data-cover="https://img.discogs.com/FHwgfKzqqpu1Z5qH2REgRdk-NwA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1201838-1493123955-4488.jpeg.jpg" data-tags="dark electro" role="button">
+Nurzery [Rhymes] - Thorns (2008-01-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a010793-b51b-4d5b-a52d-1b0472baf959/15448155569-500.jpg" data-tags="southern rock" role="button">
-Drive-By Truckers - Brighter Than Creation's Dark (2008-01-22)
+<li data-cover="http://coverartarchive.org/release/aacc9b18-45eb-4322-8fcc-4c8cb296bf51/8768022592-500.jpg" data-tags="electronic, electro, aggressive, ebm, aggro, harsh, harsh electro, hard electro, aggro techno, aggro electro, hard electronic, industro, aggro synthpop, aggro synth, aggrosynth" role="button">
+Accessory - More Than Machinery (2008-03-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
-The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
+<li data-cover="http://coverartarchive.org/release/e1e4028a-cfc4-4ce8-ad70-2105059b4ea7/4436431630-500.jpg" data-tags="hip-hop, rap" role="button">
+GZA/Genius - Pro Tools (2008-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b43a144-f4be-4365-b376-947d93586550/4507021160-500.jpg" data-tags="techno, minimal techno, ominous, late night, club, clinical, winter, intense, hypnotic, paranoid, cold, cerebral, detached, sparse, nocturnal, bleak, unsettling, urgent, night driving" role="button">
-Basic Channel - BCD-2 (2008-05)
-</li>
-<li data-cover="https://img.discogs.com/-sPlLxV39Lnu5OD9kOWaYZcWvws=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1460412-1221399633.jpeg.jpg" data-tags="indie rock, gigantic music" role="button">
-The Walkmen - You & Me (2008-07-29)
+<li data-cover="https://img.discogs.com/Jk0XdTd73UJMSaE8Madr672U8lY=/fit-in/494x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2515523-1288388634.jpeg.jpg" data-tags="electronic, electro, industrial, dark electro, aggressive, ebm, post-industrial, cyber" role="button">
+Detroit Diesel - Terre Humaine (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/9376a0eb-85cc-490c-bac5-27d234082c13/26623138612-500.jpg" data-tags="electronic, rock, electronic rock, synth rock" role="button">
 I Will Never Be The Same - Standby (2009-04)
@@ -246,20 +270,20 @@ Busta Rhymes - Back On My B.S. (2009-05-18)
 <li data-cover="http://coverartarchive.org/release/59ff8aaf-2ad1-4b1d-9e2a-771f1d154a33/21498444470-500.jpg" data-tags="alternative, indie, alternative rock" role="button">
 Dinosaur Jr. - Farm (2009-06-19)
 </li>
+<li data-cover="https://img.discogs.com/A4GeUc8-bOwlEv6opGGauAE0rUI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2703343-1297255959.jpeg.jpg" data-tags="electronic, electro, aggressive, aggro, harsh, harsh electro, hard electro, lahannya, aggro techno, aggro electro, hard electronic, industro, aggro synthpop, aggro synth, aggrosynth" role="button">
+Lahannya - Defiance (2009-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
-</li>
-<li data-cover="https://img.discogs.com/UXgbqevfNeBqlilcwq4pyWKeH80=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5558208-1396520125-1881.jpeg.jpg" data-tags="grunge, live" role="button">
-Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="https://img.discogs.com/180eSVrmFqEx84A9MljgGmJieto=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220760-1543694776-5834.jpeg.jpg" data-tags="mute, 10s" role="button">
 Liars - Sisterworld (2010-03-08)
 </li>
-<li data-cover="https://img.discogs.com/-j5zUE-r2pmwwSRJnzVHHZ12Uss=/fit-in/600x551/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2210597-1492333000-3115.jpeg.jpg" data-tags="alternative rock, energetic, passionate, literate, confident, aggressive, fiery, uncompromising, earthy, live, road trip, divorce, exuberant, ben harper, rowdy, swaggering, lively, maverick, guys night out, street-smart, rambunctious, reckless, knotty, american trad rock" role="button">
-Ben Harper and Relentless7 - Live from the Montreal International Jazz Festival (2010-03-09)
-</li>
 <li data-cover="https://img.discogs.com/S8SC0gUDwhU661p27iTCEyN1cS0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2314644-1285127368.jpeg.jpg" data-tags="ebm" role="button">
 Eisenfunk - 8-Bit (2010-03-26)
+</li>
+<li data-cover="https://img.discogs.com/5I5MHT-VBpjDMq0z0wGnH1d3NNk=/fit-in/586x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2221425-1270676839.jpeg.jpg" data-tags="electronic, industrial, electro-industrial, techno-industrial, tbm" role="button">
+Noisuf-X - Excessive Exposure (2010-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6f6704a-1bd1-4fa8-9acd-e340e669e48a/23246348312-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Cypress Hill - Rise Up (2010-04-16)
@@ -267,23 +291,11 @@ Cypress Hill - Rise Up (2010-04-16)
 <li data-cover="https://img.discogs.com/Jo8CRxFlAMEOp8bUNyB3xl161bU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494214-1292538591.jpeg.jpg" data-tags="indie rock" role="button">
 The Walkmen - Lisbon (2010-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/91258e57-7dc2-3785-b4cd-a9de0730eb53/9707511999-500.jpg" data-tags="indie rock, energetic, passionate, literate, melancholy, cheerful, pop punk, intense, confident, aggressive, fiery, earnest, bittersweet, raucous, yearning, road trip, playful, heartache, wistful, witty, exuberant, empowerment, cathartic, motivation, visceral, plaintive, angst-ridden, boisterous, hanging out, rambunctious, innocent, albumoftheday, rajada" role="button">
-Superchunk - Majesty Shredding (2010-09-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e2946e1-a9a5-44be-8308-c8486726f2ab/21158108480-500.jpg" data-tags="fuck me daddy" role="button">
-Kid Rock - Born Free (2010-11-15)
-</li>
-<li data-cover="https://img.discogs.com/mATVZH7mUI6F402DQkW0zJMvNKs=/fit-in/288x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2906361-1306648453.jpeg.jpg" data-tags="indie rock, energetic, passionate, intense, aggressive, earnest, raucous, earthy, strong, drinking, garage punk, playful, partying, exuberant, campy, swaggering, lively, ramshackle, plaintive, brash, rambunctious, need, gleeful, mischief" role="button">
-Those Darlins - Screws Get Loose (2011-03-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
-The Kills - Blood Pressures (2011-04-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/fc8c25cd-555f-43a3-8162-5b7aafc37bf2/27091042055-500.jpg" data-tags="hip-hop, experimental, experimental hip-hop" role="button">
 Death Grips - Exmilitary (2011-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/216dc68b-c7db-4c5f-b054-753d6d3fd1d1/12911239802-500.jpg" data-tags="black metal, metal" role="button">
-Liturgy - Aesthethica (2011-05-10)
+<li data-cover="http://coverartarchive.org/release/d271656b-e90e-4004-8a3b-70fb10245b49/21611898556-500.jpg" data-tags="thrash metal" role="button">
+Sepultura - Kairos (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a301bbe-ec95-4cc8-bc33-cce9c3a7479f/10041731004-500.jpg" data-tags="hard rock" role="button">
 Aerosmith - The Essential Aerosmith (2011-09-13)
@@ -291,34 +303,22 @@ Aerosmith - The Essential Aerosmith (2011-09-13)
 <li data-cover="http://coverartarchive.org/release/f127f560-c021-49e6-992c-be629566f025/948429328-500.jpg" data-tags="rock, hard rock" role="button">
 Tenacious D - Rize of the Fenix (2012-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/c038fdf7-03e9-47cb-b07a-412179a24558/5332498991-500.jpg" data-tags="punk, punk rock" role="button">
+White Lung - Sorry (2012-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
 Kanye West - Yeezus (2013-06-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf018964-9465-4dea-922b-98c55812e06f/5594631960-500.jpg" data-tags="electronic, juke" role="button">
-DJ Rashad - Double Cup (2013-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/b1b2b691-5c29-4215-bf37-7ea9f1ee7bc3/7807345022-500.jpg" data-tags="angry, aggressive, fiery, raucous, playful, brooding, eccentric, cathartic, lively, plaintive, angst-ridden, girls night out, 2014 albums" role="button">
-Speedy Ortiz - Real Hair (2014-02-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/e38c3df9-44e7-43a4-84c9-8f90cf0c6f7c/6788652498-500.jpg" data-tags="revolution, rap, latin, energetic, searching, literate, fierce, intense, confident, aggressive, fiery, confrontational, earnest, provocative, uncompromising, dramatic, earthy, uplifting, strong, chile, latin pop, latin rap, lyrical, flowing, poignant, powerful, south american, triumphant, imagination, celebratory, positive, enigmatic, defiant, empowerment, philosophical, joyous, gritty, gutsy, swaggering, lively, visceral, maverick, boisterous, street-smart, ambitious, affirmation, animated, kinetic, chileno, hungry, alternative latin, south and central america, from: chile, declamatory, south-american, from chile, south american music, made in chile, modern chile, musica de chile" role="button">
-Ana Tijoux - Vengo (2014-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/f68f2ab8-0b11-48d2-9de0-04b22ddf8036/6789254424-500.jpg" data-tags="alternative rock, emo" role="button">
-My Chemical Romance - May Death Never Stop You (2014-03-21)
 </li>
 <li data-cover="https://img.discogs.com/B8fNe0Std0KTC4YJ5lxx0_l-DgQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6424434-1418882682-5706.jpeg.jpg" data-tags="indie rock, british" role="button">
 Kaiser Chiefs - Education, Education, Education & War (2014-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/3b8f2b17-4e04-46e3-aa57-19be9b9f7e4e/7532759610-500.jpg" data-tags="indie rock, post-punk, energetic, angry, irreverent, fierce, aggressive, confrontational, freewheeling, provocative, snide, raucous, flowing, vulgar, rebellious, word play, rollicking, witty, cathartic, gritty, unsettling, sarcastic, gutsy, visceral, savage, angst-ridden, maverick, brash, guys night out, street-smart, hanging out, bravado, extroverted, tough, animated, everyday life, outraged, city life, brassy, harbinger sound, belligerent, just cant hate enough, world view" role="button">
-Sleaford Mods - Divide And Exit (2014-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/64d09ddc-daf5-4ed3-9ecf-d949f951fada/7514082952-500.jpg" data-tags="revolution, indie rock, post-rock, reflective, literate, aggressive, fiery, provocative, uncompromising, dramatic, raucous, post-hardcore, cerebral, rebellious, matador records, eccentric, gutsy, visceral, ramshackle, maverick, brash, rambunctious, outrageous, reckless, nihilistic" role="button">
-Fucked Up - Glass Boys (2014-06-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/b5139eff-0ce6-428e-a96f-6653a68af7a2/8249629063-500.jpg" data-tags="alternative rock, blues rock, rock, garage rock" role="button">
 Jack White - Lazaretto (2014-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6b275f9-8b57-4668-a9cc-d0fe76effcd1/20840907999-500.jpg" data-tags="emo, pop punk" role="button">
-Joyce Manor - Never Hungover Again (2014-07-15)
+<li data-cover="http://coverartarchive.org/release/9402055f-3c29-437f-873a-1e0635c2028c/8775735119-500.jpg" data-tags="post-rock" role="button">
+Mono - Rays of Darkness (2014-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd6358fb-084f-46c6-810d-9a3085095318/9043181228-500.jpg" data-tags="indie rock, thoughtful, energetic, searching, reflective, passionate, explosive, confident, aggressive, dramatic, introspection, majestic, strong, yearning, powerful, triumphant, bombastic, thrilling, defiant, empowerment, cathartic, suspenseful, desperate, elaborate, visceral, sprawling, urgent, boisterous, ambitious, affirmation, serious, relationships, animated, everyday life, outraged, mighty" role="button">
+Restorations - LP3 (2014-10-27)
 </li>
 </ol>

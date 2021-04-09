@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:52:01.457Z
+date: 2021-04-09T22:32:06.950Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -162,9 +162,6 @@ Alphaville - Forever Young (1984-09-27)
 <li data-cover="http://coverartarchive.org/release/0b20070d-8be5-33e6-a0a9-bc9eae9ed20f/19686383184-500.jpg" data-tags="80s" role="button">
 The Smiths - Hatful of Hollow (1984-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/8587cf6d-3761-4cae-9acc-78770a13c758/14766989775-500.jpg" data-tags="80s, pop, new wave" role="button">
-Wham! - Make It Big (1984-11-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
 </li>
@@ -206,6 +203,9 @@ The Smiths - Strangeways, Here We Come (1987-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4577ed01-57ad-3826-800b-e0c4d4998611/9417546640-500.jpg" data-tags="synthpop, 80s, new wave, electronic" role="button">
 Depeche Mode - Music for the Masses (1987-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
+The Psychedelic Furs - All Of this And Nothing (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/baab3587-e387-32f0-b68e-6af5d73347e2/15851774994-500.jpg" data-tags="post-punk" role="button">
 Joy Division - Substance (1988-06)

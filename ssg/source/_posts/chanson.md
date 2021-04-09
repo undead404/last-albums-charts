@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T07:09:01.409Z
+date: 2021-04-09T21:55:01.408Z
 title: "chanson: 100 albums you must listen to before you die"
 ---
 ![Zaz - Zaz (2010-05-10)](http://coverartarchive.org/release/9703802c-0108-40fb-865c-0bbf17960c98/6816205914-500.jpg "Zaz - Zaz (2010-05-10)")
@@ -36,9 +36,6 @@ Jacques Brel - Les Bourgeois (1962)
 <li data-cover="http://coverartarchive.org/release/8ccf625c-d78a-3a4f-bb42-d6963c0cf111/27999907229-500.jpg" data-tags="french" role="button">
 Serge Gainsbourg - Gainsbourg Percussions (1964-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5cefc71-b5bd-4969-b41c-b900fa7652ca/23065805827-500.jpg" data-tags="chanson, jbrel, chanson populaire francaise" role="button">
-Jacques Brel - Olympia 64 (1964-10-21)
-</li>
 <li data-cover="https://img.discogs.com/rH34ssZPsumGBEO2d_F0xAn1wmw=/fit-in/170x168/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5810727-1403352580-5129.jpeg.jpg" data-tags="chanson, chanson française, georges brassens, rive gauche, brassens metal" role="button">
 Georges Brassens - Chanson pour l'auvergnat (1965)
 </li>
@@ -56,6 +53,9 @@ Barbara - Barbara (1967-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ff37092-613f-4016-a999-474e2e8bff19/21185090361-500.jpg" data-tags="french" role="button">
 Françoise Hardy - Comment te dire adieu (1968-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/2af2f284-5b92-3b93-91f4-0e2b4335652e/5573148939-500.jpg" data-tags="french, chamber jazz" role="button">
+Brigitte Fontaine - Comme à la Radio (1969-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f016a24-156b-4216-a145-3a0cb53eeb79/1158403439-500.jpg" data-tags="french" role="button">
 Serge Gainsbourg - Histoire de Melody Nelson (1971-03-24)
@@ -81,6 +81,9 @@ Renaud - Morgane De Toi (1984)
 <li data-cover="http://coverartarchive.org/release/4c07f596-4963-33df-adb1-55d01dab800d/15456874551-500.jpg" data-tags="80s" role="button">
 Leonard Cohen - Various Positions (1984-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/7edf8023-6e17-43d2-b37f-4640fbdde0be/5977019256-500.jpg" data-tags="nederlandstalig" role="button">
+Herman van Veen - In vogelvlucht (1987-10-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/82df0d82-938e-4a85-893f-75ad97c402b3/26689505964-500.jpg" data-tags="chanson francaise" role="button">
 Charles Aznavour - 20 Chansons D'or (1988)
 </li>
@@ -92,6 +95,9 @@ Patrick Bruel - Alors Regarde (1989-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3ea963a-84ad-4b2e-9f0e-3afa90b60f75/846047947-500.jpg" data-tags="chanson française" role="button">
 Boris Vian - Boris Vian chante Boris Vian (1991)
+</li>
+<li data-cover="http://coverartarchive.org/release/513d4b78-4981-4353-97bf-980a84173308/6978729407-500.jpg" data-tags="chanson, piaf, one world" role="button">
+Édith Piaf - The Voice of the Sparrow: The Very Best of Édith Piaf (1991-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0707d96-8d09-4964-ac7c-887d919050f0/10026828120-500.jpg" data-tags="chanson, chanson francaise, fransk, montand, l3a1e5da4n15l1" role="button">
 Yves Montand - Yves Montand (1992)
@@ -113,9 +119,6 @@ Joe Dassin - Et si tu n'existais pas (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/59418ea6-55c2-43ff-9d9a-107cf9aa32b4/1460840188-500.jpg" data-tags="french, chanson, acoustic, selection france" role="button">
 Mathieu Boogaerts - Super (1996-02-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/ce2ebf1c-1132-4fbf-8064-956f468c5b0b/6731049183-500.jpg" data-tags="yann tiersen, contemporary classical" role="button">
-Yann Tiersen - Rue Des Cascades (1996-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d17e91b1-8b46-4042-926e-0cf04b6387d5/1157972234-500.jpg" data-tags="french" role="button">
 Serge Gainsbourg - Comic Strip (1996-09-02)
@@ -239,9 +242,6 @@ Olivia Ruiz - La Femme Chocolat (2005-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/df8bf6ff-9d19-4a93-9ab4-71bbb6ef5530/3197414830-500.jpg" data-tags="chanson, pop, male vocalists, quebecois" role="button">
 Pierre Lapointe - La forêt des mal-aimés (2006-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/30a0d9a8-aedc-46ec-bc49-e56532b0360f/14749363181-500.jpg" data-tags="female vocalists" role="button">
-Jane Birkin - Fictions (2006-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/be9453f4-23e8-46f1-863a-d3a63cdd6231/23498089082-500.jpg" data-tags="female vocalists, french" role="button">
 Charlotte Gainsbourg - 5:55 (2006-08-11)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:47:01.456Z
+date: 2021-04-09T22:31:01.412Z
 title: "radiohead: 100 albums you must listen to before you die"
 ---
 ![Radiohead - The Bends (1995-03-08)](http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg "Radiohead - The Bends (1995-03-08)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/qeLxhnGlYA0cnuU3CKQL6ru7hMI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6474715-1422720548-7289.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
 Eric Burdon - Crawling King Snake (1982)
-</li>
-<li data-cover="https://img.discogs.com/4HgaKl62mHnuFJocF7maOZvNBNM=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-427127-1373777571-4406.jpeg.jpg" data-tags="radiohead" role="button">
-Radiohead - Creep (1992)
 </li>
 <li data-cover="https://img.discogs.com/DESaXZsdFnR9kDuSorE00vSnTO8=/fit-in/382x389/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3659278-1372517953-6452.jpeg.jpg" data-tags="radiohead" role="button">
 Radiohead - Drill (1992-05-05)
@@ -60,9 +57,6 @@ Radiohead - The Bends (1995-03-08)
 <li data-cover="http://coverartarchive.org/release/64859326-ec63-4157-8744-b3341ba90b50/18015734353-500.jpg" data-tags="indie" role="button">
 Radiohead - Fake Plastic Trees (1995-05-15)
 </li>
-<li data-cover="https://img.discogs.com/-t_yW2APNnohJ-C_nDFMMCcKRsg=/fit-in/587x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2744720-1381875626-3342.jpeg.jpg" data-tags="indie, rock, alternative, alternative rock" role="button">
-Radiohead - Just (1995-08-07)
-</li>
 <li data-cover="https://img.discogs.com/ETn1Oxqi2diFlex2Qo6tCPRtAaM=/fit-in/599x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818272-1264395745.jpeg.jpg" data-tags="radiohead" role="button">
 Radiohead - Street Spirit (Fade Out) (1996-01-22)
 </li>
@@ -71,9 +65,6 @@ Richard Devine - Polymorphic EP (1996-04-10)
 </li>
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c96e80f-c68b-40fd-abba-c274e6463e38/4819417350-500.jpg" data-tags="radiohead" role="button">
-Radiohead - Karma Police (1997-07)
 </li>
 <li data-cover="https://img.discogs.com/nmgULGtkU1_pKIP1PjRWeKOP1W0=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9285184-1477947552-3624.jpeg.jpg" data-tags="rock, radiohead, no radiohead radio, ok computer, pans selection, climbing up the walls-radiohead, climbing up the walls" role="button">
 Radiohead - Climbing up the Walls (1997-09)
@@ -134,6 +125,9 @@ Radiohead - The Golden Unplugged Album (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8055549-5554-3436-8431-f65f91d919c7/22629300349-500.jpg" data-tags="idm" role="button">
 Richard Devine - Lipswitch (2001-01-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/e1612bf7-fed9-423b-bfd2-2fc73943b87a/1261394607-500.jpg" data-tags="00s, singer-songwriter, melancholy" role="button">
+Nick Cave and the Bad Seeds - No More Shall We Part (2001-04-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="radiohead" role="button">
 Radiohead - Pyramid Song (2001-05-15)
@@ -249,17 +243,11 @@ YEFFI - YEFFI (2008-01-01)
 <li data-cover="http://coverartarchive.org/release/8033c52e-ac94-4c3b-aaf5-e32d423b856d/1102216602-500.jpg" data-tags="hip-hop, radiohead, free albums" role="button">
 Amplive - Rainydayz Remixes (2008-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/6343f37f-0d14-4021-b71f-d3b4228062f6/6178175674-500.jpg" data-tags="soundtrack, indie, hip hop, country, folk, twee, sad, arcade fire, dark, chamber, chamber music, singer, night, dreamy, trumpet, organ, van morrison, morning, tape, haunting, late night, free, american, acid, radio, freak, freak folk, lofi, fragile, dramatic, elephant 6, coldplay, radiohead, indie folk, the smiths, cartoon, cat stevens, ghostly, leonard cohen, pastoral, warm, bjork, place, diy, lonely, the cure, nebraska, underground, portland, woody guthrie, healing, david bowie, iggy pop, moz, funeral, david lynch, buddy holly, dream, johnny cash, demos, morrissey, bob dylan, joni mitchell, bob marley, lou reed, roy orbison, nick drake, hallelujah, nick cave, the pogues, expression, neutral milk hotel, bruce springsteen, belle and sebastian, death cab for cutie, elliot smith, the velvet underground, thom yorke, bangor, maine, forest, rufus wainwright, weary, soothing, pj harvey, nico, nana grizol, anthology of american folk music, dean martin, antony and the johnsons, guided by voices, 50 cent, ok go, pokemon, of montreal, incomprehensible, rural, charles manson, gogol bordello, joan baez" role="button">
-Mt. Moon - Bless Those Sleepy Sleepy Lights (2008-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/af8722d8-6248-4b9c-9d30-2183eafa2ed9/7955669731-500.jpg" data-tags="rock, alternative, alternative rock, indie" role="button">
 Radiohead - The Best Of (2008-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cda2aab-071a-466d-b4d9-36d8563a5f36/8647595415-500.jpg" data-tags="coldplay, radiohead, beatles, the shins, beach boys, weezer, modest mouse, vampire weekend, fleet foxes, excelsior, rogue wave, belle and sabastian" role="button">
 Marching Band - Spark Large (2008-07-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, digital, noise, marilyn manson, metal, chillout, electronic, electronica, indie, chill, rock, instrumental, 80s, grunge, hardcore, revolution, new york, ambient, experimental, noise rock, post-rock, hard rock, singer-songwriter, grime, electro, stoner rock, canada, dark, industrial, lo-fi, post-punk, downbeat, canadian, mixtape, psychedelic, london, bass, 90s, laid back, glitch, songwriter, angry, avant garde, free, mexico, avant-garde, drone, space, deutsch, old skool, summer, mellow, party, punk rock, screamo, original, nyc, political, psychobilly, old school, garage rock, party music, minimalism, california, feminist, west coast, darkwave, post rock, spacey, radiohead, garage, raw, euro, samples, nin, eclectic, no wave, jam band, 00s, beat, offbeat, shoegazer, post-grunge, beatles, collaboration, jam, distortion, spacy" role="button">
-Kroakers - Ruined and Going Downhill (2008-08-13)
 </li>
 <li data-cover="https://img.discogs.com/-NTsx2QVPvmDEywrWv9bIvwmkog=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102567-1264143852.jpeg.jpg" data-tags="indie, indie rock, muse, radiohead, placebo, kasabian, on wave" role="button">
 On Wave - Vodka Bear Matreshka (2008-08-18)
@@ -288,6 +276,9 @@ On Wave - Ginger (2009-11-30)
 <li data-cover="http://coverartarchive.org/release/1fa49f49-ba7d-43fd-bbcb-cf1306487547/9819714775-500.jpg" data-tags="russian, russian indie, indie, indie rock, on wave" role="button">
 On Wave - Нано (2010)
 </li>
+<li data-cover="http://coverartarchive.org/release/14e607a1-520f-4b57-b719-e563cb879d2f/6217110183-500.jpg" data-tags="ambient, experimental, netlabel, rec72, creative commons" role="button">
+Nisei23 - Soft Shapes (2010-04-01)
+</li>
 <li data-cover="https://img.discogs.com/L6AaZ19r-7pg0o3KL2UQzMNheds=/fit-in/566x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2289611-1274717101.jpeg.jpg" data-tags="indie, alternative, indie pop, twee, sad, singer-songwriter, lo-fi, jangle pop, romantic, atmospheric, coldplay, radiohead, the smiths, love songs, john peel, john lennon, the beatles, portishead, franz ferdinand, scott walker, david bowie, blur, johnny cash, joy division, oasis, new order, morrissey, simon and garfunkel, bob dylan, joni mitchell, lou reed, elliott smith, pulp, the verve, nick drake, lloyd cole and the commotions, belle and sebastian, velvet underground, george harrison, rufus wainwright, jangle, jarvis cocker, momus, c86, eva cassidy, bowie, kings of convenience, paul weller, crowded house, richard ashcroft, david gray, lloyd cole, glasvegas, roddy frame, orange juice, edwin collins, the walker brothers, stephen harrison, metropak" role="button">
 Stephen Harrison - The Colour Of Black Is Black (2010-05-24)
 </li>
@@ -296,6 +287,9 @@ Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magi
 </li>
 <li data-cover="https://img.discogs.com/PSGTlubRMMMMQZqqlr_9rlq3MGM=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442256-1284291473.jpeg.jpg" data-tags="indie, swedish" role="button">
 Junip - Fields (2010-09-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, jazz, pop, rock, punk, alternative, arcade fire, lo-fi, singer, songwriter, coldplay, radiohead, the beatles, independent, sonic youth, amateur, paul mccartney, daniel johnston, the white stripes, elliot smith, the smashing pumpkins, wavves, eels, bedroom, jon brion, badly drawn boy, micachu, worrywort" role="button">
+worrywort - Suburban Dream (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
@@ -314,6 +308,12 @@ Radiohead - TKOL RMX3 (2011-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/9fa14ed3-ce3e-4eb9-ab31-66afa2637e78/4053132508-500.jpg" data-tags="indie, new york, radiohead, the strokes, modest mouse, spoon, interpol, the national, the raveonettes" role="button">
 Grassfight - Icon, an EP (2011-10-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/78861ccc-07f4-4425-9772-01e6e839efcf/6218266788-500.jpg" data-tags="noise, electronica, indie, jazz, japanese, instrumental, alternative, ambient, experimental, dub, piano, acoustic, shoegaze, electro acoustic, dreamy, weird, surreal, haunting, nu-gaze, dream pop, drone, art rock, field recording, progressive, mellow, organic, ethereal, autechre, german, post rock, radiohead, dark ambient, unusual, soundscapes, shoegazer, relax, boards of canada, erik satie, thai, guitars, neo classical, netlabel, electronic music, rec72, creative commons, moog, different, brian eno, my bloody valentine, russia, free download, manson, natural, satie, mellow chillout, idm-ambient, buddy rich, idm breaks, nisei23" role="button">
+Nisei23 - elevenandtwelve (2013-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/4de045c4-f901-40b6-835f-5e6562a57fe0/2072962756-500.jpg" data-tags="ska" role="button">
+Redsk - The Effects Of Hallucinogens On The Human Mind (2015)
 </li>
 <li data-cover="https://img.discogs.com/EJS_ok7UTFlRBpIiKYlCQrg98tQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11161860-1511011110-3925.jpeg.jpg" data-tags="radiohead, beck, mgmt, elecronic, kid cudi, double drum duo, matt walshe, ian campopiano, indie electronia" role="button">
 Ontologics - Ep Part I. (2015-11-06)

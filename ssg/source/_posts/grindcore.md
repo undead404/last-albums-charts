@@ -1,19 +1,19 @@
 ---
-date: 2021-04-07T22:37:01.413Z
+date: 2021-04-09T22:24:01.515Z
 title: "grindcore: 100 albums you must listen to before you die"
 ---
 ![Bruno Mars - Grenade (2011-02-04)](http://coverartarchive.org/release/df588639-9e83-4e2f-a2df-548072dc3de0/2010877240-500.jpg "Bruno Mars - Grenade (2011-02-04)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/B8EzwmQNZBVv6j87u9V4dMXwz9I=/fit-in/423x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4378163-1363288772-9102.jpeg.jpg" data-tags="grindcore" role="button">Napalm Death - Scum (1987)</li>
 <li data-cover="http://coverartarchive.org/release/19142eb1-c7b9-390b-ac19-14a3fefc8aa4/23477447943-500.jpg" data-tags="death metal, goregrind, grindcore" role="button">Carcass - Symphonies of Sickness (1989-11)</li>
 <li data-cover="https://img.discogs.com/QADretS1ok2WzImH1jlmNMuZmuA=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-466460-1535535823-8770.jpeg.jpg" data-tags="grindcore" role="button">Terrorizer - World Downfall (1989-11)</li>
+<li data-cover="http://coverartarchive.org/release/2c00a664-cbbc-4488-878c-8d89cab06b26/3646181031-500.jpg" data-tags="grindcore" role="button">Pig Destroyer - Phantom Limb (2007-06-06)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">Suicide Silence - The Cleansing (2007-09-18)</li>
+<li data-cover="http://coverartarchive.org/release/cc1d260b-f3be-3a62-9890-9b90bea13fd0/12012291508-500.jpg" data-tags="grindcore, black metal" role="button">Anaal Nathrakh - Hell Is Empty, and All the Devils Are Here (2007-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/d08330be-7e1b-4cc1-b9b9-a1662c0ad62f/14476655259-500.jpg" data-tags="experimental, grindcore, cybergrind" role="button">Genghis Tron - Board Up the House (2008-02-19)</li>
 <li data-cover="https://img.discogs.com/CHr9MOiiZyTmk44zGoENbFH68YY=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139790-1604255277-1206.jpeg.jpg" data-tags="experimental, deathcore, mathcore" role="button">iwrestledabearonce - It's All Happening (2009-06-02)</li>
 <li data-cover="http://coverartarchive.org/release/df588639-9e83-4e2f-a2df-548072dc3de0/2010877240-500.jpg" data-tags="grindcore, mars, bruno" role="button">Bruno Mars - Grenade (2011-02-04)</li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">Zola Jesus - Conatus (2011-09-26)</li>
-<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)</li>
 <li data-cover="http://coverartarchive.org/release/de61d838-256e-4002-9daf-05252458a319/2311435310-500.jpg" data-tags="black metal, grindcore" role="button">Anaal Nathrakh - Vanitas (2012-10-15)</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -60,14 +60,23 @@ Carcass - Heartwork (1993-10-28)
 <li data-cover="http://coverartarchive.org/release/3e72a24d-d1f8-4403-9b69-be7ffb19ed74/9746017214-500.jpg" data-tags="death metal, grindcore" role="button">
 Napalm Death - Fear, Emptiness, Despair (1994-03)
 </li>
+<li data-cover="https://img.discogs.com/33cfa5AlyUJ1ogTHRfcRlKyr9ek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-495834-1378142606-2249.jpeg.jpg" data-tags="grindcore, punk" role="button">
+Disrupt - Unrest (1994-08-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/0821d028-8ea3-4d04-a814-ea64a8eb342c/10372911420-500.jpg" data-tags="death metal" role="button">
 Carcass - Wake Up And Smell The Carcass (1996-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/87ea3402-adf6-4743-b587-fc42b9083409/11916328536-500.jpg" data-tags="grindcore, death metal" role="button">
+Napalm Death - Words From The Exit Wound (1998-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa44d7bd-289a-4a19-845d-64e5e7b534d0/16131894017-500.jpg" data-tags="thrash metal, metal, death metal, groove metal" role="button">
 Lamb of God - Burn the Priest (1999-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/71a253ea-b0fa-4f37-880a-90bd4352be29/20765819198-500.jpg" data-tags="grindcore" role="button">
 Nasum - Human 2.0 (2000-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/51ad52d8-d50a-496c-994d-779c0228b5cf/20156446408-500.jpg" data-tags="grindcore" role="button">
+Discordance Axis - The Inalienable Dreamless (2000-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/14e115b2-bac3-48ae-847f-724f3f29f5b6/9748371348-500.jpg" data-tags="grindcore" role="button">
 Napalm Death - Enemy of the Music Business (2000-09-25)
@@ -90,9 +99,6 @@ Fuck...I'm Dead - Bring on the Dead (2001-11-15)
 <li data-cover="http://coverartarchive.org/release/e91f2f0b-984d-4494-98bc-f70cecb494d9/2650947088-500.jpg" data-tags="black metal" role="button">
 Anaal Nathrakh - The Codex Necro (2001-11-27)
 </li>
-<li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Rain of a Thousand Flames (2001-12-19)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Despised Icon - Consumed by Your Poison (2002)
 </li>
@@ -113,6 +119,12 @@ The Locust - Plague Soundscapes (2003-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e2047a7-2459-4b44-b7f0-e10a8c88a2f7/24234613745-500.jpg" data-tags="mathcore, experimental" role="button">
 Daughters - Canada Songs (2003-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/5944fa5c-aaaf-444b-8850-2b26c214b47a/24127484514-500.jpg" data-tags="death metal" role="button">
+Misery Index - Retaliate (2003-08-26)
+</li>
+<li data-cover="https://img.discogs.com/bDtxivTKzlOS3h9pZu2zdbc05vE=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426263-1616216623-1757.jpeg.jpg" data-tags="grindcore" role="button">
+The Locust - The Locust (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/30ac2c6b-96a7-3a2b-a65c-2786d48457c5/11417251693-500.jpg" data-tags="grindcore" role="button">
 Nasum - Shift (2004-10-11)
@@ -195,11 +207,11 @@ The Berzerker - Animosity (2007-02-12)
 <li data-cover="https://img.discogs.com/XdqLJmvm2bPOEIAp6G5hA8ECRbU=/fit-in/483x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-922770-1388153901-4381.jpeg.jpg" data-tags="death metal" role="button">
 Dying Fetus - War of Attrition (2007-03-06)
 </li>
+<li data-cover="https://img.discogs.com/Diq8M44UYEL_S_-jsTHs5lMNBkM=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1785498-1243184421.jpeg.jpg" data-tags="grindcore" role="button">
+Trap Them - Sleepwell Deconstructor (2007-04-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/35985e83-a02d-46e4-a71d-808d4d7ea3e6/27198261885-500.jpg" data-tags="death metal, grindcore" role="button">
 Cephalic Carnage - Xenosapien (2007-05-29)
-</li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">
-Sturm und Drang - Learning To Rock (2007-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c00a664-cbbc-4488-878c-8d89cab06b26/3646181031-500.jpg" data-tags="grindcore" role="button">
 Pig Destroyer - Phantom Limb (2007-06-06)
@@ -221,6 +233,9 @@ Anaal Nathrakh - Hell Is Empty, and All the Devils Are Here (2007-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ee0ac7b-3696-44e3-94c8-783eda35ee75/6683333870-500.jpg" data-tags="experimental, mathcore, deathcore" role="button">
 iwrestledabearonce - Iwrestledabearonce (2007-12-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nintendocore, deathcore, cybergrind, brutal electronic deathmosh" role="button">
+Hanni Kohl - Hanni und Kroko (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08330be-7e1b-4cc1-b9b9-a1662c0ad62f/14476655259-500.jpg" data-tags="experimental, grindcore, cybergrind" role="button">
 Genghis Tron - Board Up the House (2008-02-19)
@@ -249,9 +264,6 @@ Cattle Decapitation - The Harvest Floor (2009-01-19)
 <li data-cover="http://coverartarchive.org/release/e5087f32-7218-3f54-a3c5-126704974c9a/9773347814-500.jpg" data-tags="grindcore" role="button">
 Napalm Death - Time Waits For No Slave (2009-01-23)
 </li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/1bf7e9de-9423-4927-8e87-00dd2d36a5bf/10075743407-500.jpg" data-tags="grindcore" role="button">
 Agoraphobic Nosebleed - Agorapocalypse (2009-04-14)
 </li>
@@ -260,9 +272,6 @@ iwrestledabearonce - It's All Happening (2009-06-02)
 </li>
 <li data-cover="https://img.discogs.com/NNdQ6T8L7pX1vTxAYz6J1w5Myr8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1787536-1243318202.jpeg.jpg" data-tags="grindcore, powerviolence" role="button">
 Magrudergrind - Magrudergrind (2009-06-16)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
-椎名林檎 - 三文ゴシップ (2009-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8000d1e-ed5f-4fe8-b5a4-921b133ce0be/2650883035-500.jpg" data-tags="black metal, grindcore" role="button">
 Anaal Nathrakh - In the Constellation of the Black Widow (2009-06-29)
@@ -279,14 +288,14 @@ Justin Bieber - My Worlds Acoustic (2010-11-26)
 <li data-cover="http://coverartarchive.org/release/df588639-9e83-4e2f-a2df-548072dc3de0/2010877240-500.jpg" data-tags="grindcore, mars, bruno" role="button">
 Bruno Mars - Grenade (2011-02-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/a5da36ed-a3e1-430f-aff1-8cd59929aac9/27776672811-500.jpg" data-tags="grindcore" role="button">
+Rotten Sound - Cursed (2011-03-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/75161655-04bd-4730-8cbc-9128f371ab61/21129401013-500.jpg" data-tags="black metal" role="button">
 Anaal Nathrakh - Passion (2011-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b79f5ad-eccd-4e2f-ad52-2ddd7c28f4c9/5843906320-500.jpg" data-tags="deathcore" role="button">
 Suicide Silence - The Black Crown (2011-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
 </li>
 <li data-cover="https://img.discogs.com/T8rL9h6A7WiDMcplH4sntUcfpnE=/fit-in/383x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4384240-1363458962-6269.jpeg.jpg" data-tags="grindcore" role="button">
 Napalm Death - Utilitarian (2012-02-24)
@@ -294,23 +303,14 @@ Napalm Death - Utilitarian (2012-02-24)
 <li data-cover="http://coverartarchive.org/release/2967065a-a2b0-4a16-9fa9-f3169dcd0529/19368085347-500.jpg" data-tags="death metal, deathgrind" role="button">
 Cattle Decapitation - Monolith of Inhumanity (2012-05-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
-Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/de61d838-256e-4002-9daf-05252458a319/2311435310-500.jpg" data-tags="black metal, grindcore" role="button">
 Anaal Nathrakh - Vanitas (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/30d118e0-7318-4e00-aded-a5382ce256e3/21129737779-500.jpg" data-tags="grindcore" role="button">
 Pig Destroyer - Book Burner (2012-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c20668c5-0a48-4d4b-907a-ad76e5f1cb9d/5966142298-500.jpg" data-tags="grindcore" role="button">
 Nails - Abandon All Life (2013-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f76d360-f38e-48ef-9769-f5ff0c8e7cc7/15355438210-500.jpg" data-tags="metalcore, grindcore, hardcore, crust" role="button">
 All Pigs Must Die - Nothing Violates This Nature (2013-07-23)

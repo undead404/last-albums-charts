@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:27:01.484Z
+date: 2021-04-09T22:07:01.417Z
 title: "post hardcore: 100 albums you must listen to before you die"
 ---
 ![Chiodos - All&#39;s Well That Ends Well (2005-07-26)](http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg "Chiodos - All's Well That Ends Well (2005-07-26)")
@@ -10,7 +10,7 @@ title: "post hardcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">Chiodos - All's Well That Ends Well (2005-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">Thrice - Vheissu (2005-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
-<li data-cover="https://img.discogs.com/u4erzeI81X5S6Px7Rfcmi_oAFIk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621914-1421619303-5143.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">Enter Shikari - Take To The Skies (2007-03-14)</li>
+<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">Enter Shikari - Take To The Skies (2007-03-14)</li>
 <li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">Chiodos - Bone Palace Ballet (2007-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/82d305e4-8d45-4673-9240-1b36da06b1eb/8973784940-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - This War Is Ours (2008-10-18)</li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">Pierce The Veil - Selfish Machines (2010-06-21)</li>
@@ -42,7 +42,7 @@ Refused - The E.P. Compilation (1997-09-15)
 <li data-cover="http://coverartarchive.org/release/3c1d5669-ae58-33db-b98d-ef346b55acc7/26546641163-500.jpg" data-tags="post-hardcore" role="button">
 Fugazi - End Hits (1998-04-14)
 </li>
-<li data-cover="https://img.discogs.com/nIB9_3y9mO5hhpX1GpNklvtbygk=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970806-1439375514-4427.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
 <li data-cover="https://img.discogs.com/ifHXDIv3kRCViLBL_BnMSYjcRRc=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-880651-1301137759.jpeg.jpg" data-tags="post-hardcore" role="button">
@@ -66,13 +66,13 @@ Rival Schools - United By Fate (2001-08-28)
 <li data-cover="http://coverartarchive.org/release/0e789eca-d5e5-469f-8648-9fe5c1ca68a9/9561282758-500.jpg" data-tags="post-hardcore" role="button">
 Fugazi - The Argument (2001-10-16)
 </li>
-<li data-cover="https://img.discogs.com/wfrO81Ve6qaFMmh6yV1Wio1_1tU=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5318091-1390410555-8121.jpeg.jpg" data-tags="pop punk" role="button">
+<li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
 </li>
 <li data-cover="https://img.discogs.com/DuZxiqzLd09K9H3hMhebldCqm9M=/fit-in/300x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-464307-1117349454.jpg.jpg" data-tags="post-hardcore" role="button">
 Glassjaw - Worship and Tribute (2002-07-09)
 </li>
-<li data-cover="https://img.discogs.com/qcuFFMVZ-nJFoTsFfBf_pbwS5-Q=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3085319-1553200402-5927.jpeg.jpg" data-tags="post-hardcore, emo" role="button">
+<li data-cover="https://img.discogs.com/dEQah6C7HfFT_jzEHA1fS4FnW6w=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2547728-1457059020-1993.jpeg.jpg" data-tags="post-hardcore, emo" role="button">
 Senses Fail - From The Depths Of Dreams (2002-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e56d2ad-b3e8-3fe3-87c8-5ae3a2c71c09/10844781822-500.jpg" data-tags="live, post hardcore" role="button">
@@ -98,9 +98,6 @@ Thursday - War All The Time (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a660c2ae-4ad9-4682-b06a-a95ffa3ab4a7/26500850268-500.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - The Fall Of Troy (2003-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec8435dc-a1f9-4107-8693-844d5590a8e2/26655828977-500.jpg" data-tags="post hardcore" role="button">
-Idiot Pilot - Strange We Should Meet Here (2004-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c21f963-8ca1-4d19-aed3-479495617eaa/3331901488-500.jpg" data-tags="post-hardcore" role="button">
 Sparta - Porcelain (2004-07-12)
@@ -192,7 +189,7 @@ A Skylit Drive - She Watched The Sky (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/a219c008-8194-401e-bdf2-1d775b90f9bc/3330992900-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Hot Cross - Risk Revival (2007-02-20)
 </li>
-<li data-cover="https://img.discogs.com/u4erzeI81X5S6Px7Rfcmi_oAFIk=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621914-1421619303-5143.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
+<li data-cover="https://img.discogs.com/gHGlFtw_9RUO7FJAi9jmsqpHue4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8622777-1465337620-7368.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
 Enter Shikari - Take To The Skies (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/818aa8f1-d844-48e4-bc21-1c3c9589d488/26249216838-500.jpg" data-tags="metalcore" role="button">
@@ -273,6 +270,9 @@ Motionless in White - When Love Met Destruction (2009-02-17)
 <li data-cover="http://coverartarchive.org/release/36bf9138-a55a-4b57-ad4f-d991047397bf/6477545083-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - With Roots Above and Branches Below (2009-05-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0872256a-1e32-457c-877f-18c9d8d28af7/17951540112-500.jpg" data-tags="post-hardcore, screamo" role="button">
+Burden of a Day - OneOneThousand (2009-05-12)
+</li>
 <li data-cover="https://img.discogs.com/mZ7qhw-XeNVnSyJ7ptzX1LRr5cI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1804365-1244402724.jpeg.jpg" data-tags="post-hardcore" role="button">
 Drop Dead, Gorgeous - The Hot N' Heavy (2009-06-02)
 </li>
@@ -306,7 +306,7 @@ ONE OK ROCK - 残響リファレンス (2011-05-10)
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)
 </li>
-<li data-cover="https://img.discogs.com/rbBMP4M9Grh7ch-qedABfsJJZgU=/fit-in/600x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3365410-1329385926.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
+<li data-cover="https://img.discogs.com/URBql6c3VIxoUJnUkfaqxw6YxSU=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3351355-1412855554-1608.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
 Enter Shikari - A Flash Flood of Colour (2012-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7231fc60-0198-4931-8bfc-bb06ce6cdf96/1258512420-500.jpg" data-tags="post-hardcore" role="button">

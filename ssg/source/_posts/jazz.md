@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:41:02.096Z
+date: 2021-04-09T22:08:07.054Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -72,9 +72,6 @@ Thelonious Monk - Monk's Dream (1963)
 <li data-cover="http://coverartarchive.org/release/e9a8f2de-5145-3d5b-9787-9344f15b72ad/10118746823-500.jpg" data-tags="jazz" role="button">
 Charles Mingus - The Black Saint and the Sinner Lady (1963-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/b080958a-f13b-4be3-b02d-7537f9a14735/14838055580-500.jpg" data-tags="jazz" role="button">
-Grant Green - Idle Moments (1964)
-</li>
 <li data-cover="https://img.discogs.com/-HhMTdT7qkcl7X7K--P2n_VloAM=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6336030-1458422938-4896.jpeg.jpg" data-tags="jazz" role="button">
 McCoy Tyner - Today and Tomorrow (1964)
 </li>
@@ -110,6 +107,9 @@ Tom Waits - Closing Time (1973-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a48849e9-daed-427a-8f13-b05bbab6a0d5/9519768935-500.jpg" data-tags="jazz, piano" role="button">
 Keith Jarrett - The Köln Concert (1975-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/8734dbcb-45f1-4051-a326-11a8f855f0b0/8923135702-500.jpg" data-tags="blues" role="button">
+Tom Waits - Small Change (1976-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b5c22c6-f712-489e-9a1d-6cb235cb7c50/21859761852-500.jpg" data-tags="jazz, fusion, jazz fusion" role="button">
 Weather Report - Heavy Weather (1977)
@@ -285,9 +285,6 @@ Cat Power - Jukebox (2008-01-18)
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/2ca906ab-42c6-4742-946d-1f85da952504/2634411437-500.jpg" data-tags="jazz" role="button">
-Esperanza Spalding - Esperanza (2008-05-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
 </li>
@@ -317,6 +314,9 @@ Destroyer - Kaputt (2011-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/157f27fb-7f7f-4ea9-9674-fd84ed9db612/5113102481-500.jpg" data-tags="soul" role="button">
 Amy Winehouse - Lioness: Hidden Treasures (2011-12-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/ad584957-841b-43d3-a03c-a5e7b0012c7d/4862063196-500.jpg" data-tags="jazz, swing" role="button">
+Michael Bublé - To Be Loved (2013-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a681db6-3146-4166-b997-6db77bf796dc/7584904311-500.jpg" data-tags="jazz" role="button">
 BADBADNOTGOOD - III (2014-05-03)

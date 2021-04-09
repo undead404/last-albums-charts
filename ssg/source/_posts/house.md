@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:50:01.464Z
+date: 2021-04-09T22:27:01.434Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -210,6 +210,9 @@ Swedish House Mafia - Miami 2 Ibiza (2010-10-08)
 <li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/21b68282-77c1-3a28-a3b0-dc442159b18f/29013072916-500.jpg" data-tags="electronic, dance, rnb" role="button">
+Chris Brown - Yeah 3x (2010-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/4cf99bae-e926-46ac-91ce-16e1ad2efdb3/2173076183-500.jpg" data-tags="dubstep, house, electro house" role="button">
 Feed Me - Feed Me's Big Adventure (2010-12-25)
 </li>
@@ -218,6 +221,9 @@ Alexandra Stan - Mr. Saxobeat (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f7c2d8a-2fdb-498c-9470-f3f0a4d38d43/2411561207-500.jpg" data-tags="electronic, house, electro house, 10s, edm, complextro, sun and moon and stars and outer space" role="button">
 Feed Me - To The Stars (2011-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
+Sebastian - Total (2011-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/793eaae4-df0f-4218-a047-ab04574ecb4f/12814493452-500.jpg" data-tags="house, electronic" role="button">
 Benny Benassi - Electroman (2011-06-07)
@@ -228,6 +234,9 @@ Digitalism - I Love You, Dude (2011-06-17)
 <li data-cover="http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg" data-tags="dubstep" role="button">
 SBTRKT - SBTRKT (2011-06-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
+Nero - Promises (2011-08-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/00f2970c-b7df-4402-b918-42362c23fa0b/6600695536-500.jpg" data-tags="electronic, house, dance pop, calvin harris, running music, fell, feel so close" role="button">
 Calvin Harris - Feel So Close (2011-08-19)
 </li>
@@ -236,12 +245,6 @@ David Guetta - Nothing But The Beat (2011-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/630a2904-4661-41d7-91c3-4ffc27741c4e/22104853852-500.jpg" data-tags="house" role="button">
 David Guetta - Nothing but the Beat 2.0 (2011-08-24)
-</li>
-<li data-cover="https://img.discogs.com/eIDxMJGvk7zOAU0aOmRbfHX0c0w=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275403-1606596468-9054.jpeg.jpg" data-tags="electropop, indie rock, alternative dance, dfa" role="button">
-The Rapture - In the Grace of Your Love (2011-08-26)
-</li>
-<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">
-Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)
@@ -270,11 +273,11 @@ deadmau5 - > album title goes here < (2012-09-21)
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
 </li>
-<li data-cover="https://img.discogs.com/Lc_CPGYkDygvRY7WhY0YvRDvwVs=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3897786-1348493153-3372.jpeg.jpg" data-tags="experimental, house" role="button">
-Daphni - Jiaolong (2012-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/3635ce51-ff95-4656-a8d0-3931a09573aa/7045624028-500.jpg" data-tags="house" role="button">
 Swedish House Mafia - Until Now (2012-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b1b8672-c7ab-4284-9ba3-9bdb9706ae9d/4393928338-500.jpg" data-tags="chillout, house, disco house, to, so" role="button">
+Chris Malinchak - So Good to Me (2012-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
@@ -296,9 +299,6 @@ What So Not - High You Are (Remixes) (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/514f371d-3d5c-4850-bf5e-27841abd533b/6417152158-500.jpg" data-tags="downtempo, house, deep house, chillwave, tropical house, kygo, kyla la grange" role="button">
 Kyla La Grange - Cut Your Teeth (Kygo Remix) (2014-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/5fabdf6d-33be-4096-ba20-0a882ba7df0d/7144107814-500.jpg" data-tags="pop, dance-pop, contemporary, house, synthpop, christian, male vocalists, tagged, sweet, spam, orange, drunk, people, chelsea, tags, tag, andy, david, trump, scott, over, ccm, the, galas, king, dude, likes, this, diamanda, and, make, again, total, some, target, tagging, donald, commercialism, much, wolfe, carman, mairena, fuct, dulukk, yellow things, dulukkcore, nationstates, spambo, sevdaliza, jpoptrasher, jpoptrashercore, jpoptrasher-core, dulukk-core, lenushiromiya, lenushiromiyacore, lenushiromiya-core, contemporary muslim, animegirl77, animegirl77core, animegirl77-core, moyer, david scott, farbel, orange people, could be more out, non-favorite" role="button">
-RuPaul - Born Naked (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/77e3b871-155d-4b8e-ba19-8af12ace9ad7/6723882290-500.jpg" data-tags="selfie" role="button">
 The Chainsmokers - #SELFIE (2014-03-03)

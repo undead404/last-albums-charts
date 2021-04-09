@@ -1,8 +1,8 @@
 ---
-date: 2021-04-06T13:12:01.476Z
+date: 2021-04-09T22:17:01.412Z
 title: "german metal: 100 albums you must listen to before you die"
 ---
-![Gamma Ray - Heading For Tomorrow (1990-02-19)](https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg "Gamma Ray - Heading For Tomorrow (1990-02-19)")
+![Krypteria - In Medias Res (2005-07-25)](http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg "Krypteria - In Medias Res (2005-07-25)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/H7tCONZEF37aU5bk4T2kIMTNnbE=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11096505-1509797188-8988.jpeg.jpg" data-tags="power metal" role="button">Gamma Ray - Heading For Tomorrow (1990-02-19)</li>
 <li data-cover="http://coverartarchive.org/release/197caa52-0c83-4af1-9542-d6ab12369fd8/3463166259-500.jpg" data-tags="power metal" role="button">Gamma Ray - Somewhere Out in Space (1997-08-21)</li>
@@ -12,7 +12,7 @@ title: "german metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d430e4e4-ed7d-45d1-aeea-7dc093106010/22849845060-500.jpg" data-tags="heavy metal, power metal" role="button">Rage - Welcome To The Other Side (2001-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/8f9630af-1876-4a77-a33e-9d4cdca35ec0/17223666119-500.jpg" data-tags="power metal" role="button">Freedom Call - Eternity (2002-06-03)</li>
 <li data-cover="http://coverartarchive.org/release/bce6e4d9-096d-4f59-9b70-30db1dc49b3d/5372712419-500.jpg" data-tags="power metal, heavy metal" role="button">Powerwolf - Return in Bloodred (2005-04-04)</li>
-<li data-cover="http://coverartarchive.org/release/51121f7e-9a09-4f12-bb02-1dc6587575a1/7792795848-500.jpg" data-tags="heavy metal" role="button">Teräsbetoni - Metallitotuus (2005-11-16)</li>
+<li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">Krypteria - In Medias Res (2005-07-25)</li>
 <li data-cover="https://img.discogs.com/DTjfHpkVraRAE3pwpH3TLezKXCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4130913-1356308132-6161.jpeg.jpg" data-tags="metalcore" role="button">Caliban - The Awakening (2007-05-23)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,10 +24,10 @@ _________________
 <li data-cover="http://coverartarchive.org/release/7ba0fd7f-4443-4284-8748-fd75d4449a09/3039751372-500.jpg" data-tags="speed metal, heavy metal" role="button">
 Running Wild - Gates to Purgatory (1984)
 </li>
-<li data-cover="https://img.discogs.com/PmildqSWUnVWNx3SGzmK_NfWWD8=/fit-in/150x134/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6100010-1411061199-6549.jpeg.jpg" data-tags="hard rock" role="button">
+<li data-cover="https://img.discogs.com/r-0abg-0HOKgfgnrllIkUnHw2a0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594417-1136202475.jpeg.jpg" data-tags="hard rock" role="button">
 Scorpions - World Wide Live (1985-06)
 </li>
-<li data-cover="https://img.discogs.com/FEHGU8ljmc9enmMypgEakKpY1x0=/fit-in/593x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2600365-1292536791.jpeg.jpg" data-tags="speed metal" role="button">
+<li data-cover="https://img.discogs.com/gbnVlI_UmESzLU2GuuhAMbLeR0s=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4184393-1446770754-8990.jpeg.jpg" data-tags="speed metal" role="button">
 Rage - Reign Of Fear (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/328082ff-4789-4bcd-921c-c86d6d0bf96a/14899283868-500.jpg" data-tags="heavy metal" role="button">
@@ -36,7 +36,7 @@ Warlock - True As Steel (1986-08-21)
 <li data-cover="http://coverartarchive.org/release/93b05958-62c6-393f-b42c-46ae75abac38/16721913332-500.jpg" data-tags="heavy metal, power metal" role="button">
 Running Wild - Port Royal (1988)
 </li>
-<li data-cover="https://img.discogs.com/zCCXAR9JDK8WoZq0_85PjKtSQ_E=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5303301-1431328815-5112.jpeg.jpg" data-tags="heavy metal, 80s, speed metal, germany, german, live, power metal, melodic metal, live album, german metal, helloween, very favorite" role="button">
+<li data-cover="https://img.discogs.com/jQ3weI4V5fXCp-ONpGOQEhzYJKw=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6659565-1424047304-5456.jpeg.jpg" data-tags="heavy metal, 80s, speed metal, germany, german, live, power metal, melodic metal, live album, german metal, helloween, very favorite" role="button">
 Helloween - Keepers Live (1989-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7b23612-a3f3-41d4-8293-167532ad1b6f/21718519556-500.jpg" data-tags="rock" role="button">
@@ -198,6 +198,9 @@ Powerwolf - Return in Bloodred (2005-04-04)
 <li data-cover="https://img.discogs.com/TRezJga-iHjcvS0r1rRK26aRjyE=/fit-in/600x372/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15312541-1589572939-4842.jpeg.jpg" data-tags="melodic death metal" role="button">
 SuidAkrA - Command to Charge (2005-04-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/4347b6b4-91e4-4c32-9b9e-f3a2a0269617/9727404079-500.jpg" data-tags="pagan metal" role="button">
+Black Messiah - Oath of a Warrior (2005-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">
 Krypteria - In Medias Res (2005-07-25)
 </li>
@@ -311,9 +314,6 @@ Onkel Tom Angelripper - Nunc Est Bibendum (2011-08-26)
 </li>
 <li data-cover="https://img.discogs.com/8uyeQpV_dCX0Fe0t7CLVk-JR30c=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3434375-1330258102.jpeg.jpg" data-tags="2012" role="button">
 Ketzer - Endzeit Metropolis (2012-02-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/1d391310-0ece-448f-825d-1f8fee77aef5/6501230357-500.jpg" data-tags="power metal, heavy metal" role="button">
-Rage - 21 (2012-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c5a4057-3031-4214-a33d-ee94b2536077/10134406261-500.jpg" data-tags="folk metal, viking metal" role="button">
 Black Messiah - The Final Journey (2012-02-24)

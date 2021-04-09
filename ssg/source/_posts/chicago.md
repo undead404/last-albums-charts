@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T19:31:01.288Z
+date: 2021-04-09T22:22:01.420Z
 title: "chicago: 100 albums you must listen to before you die"
 ---
 ![Kanye West - Graduation (2007-09-05)](http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg "Kanye West - Graduation (2007-09-05)")
@@ -21,14 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e4019bf3-3661-3c14-956d-709d54289bee/12588578136-500.jpg" data-tags="blues" role="button">
-The Paul Butterfield Blues Band - The Paul Butterfield Blues Band (1965-10)
-</li>
 <li data-cover="https://img.discogs.com/m4lr15fpWwj4jM2lUCA6ZbTLWT0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-555032-1431071685-3282.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Aorta - Aorta (1968)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c1f0d74-a6fe-49e6-a5ff-13635b6e7672/12616322937-500.jpg" data-tags="classic rock, rock" role="button">
-Chicago - Chicago II (1970-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dc4d2ac-9f3e-4be5-9f12-133003a87763/1879022100-500.jpg" data-tags="classic rock, 70s, chicago, stuff i need" role="button">
 Chicago - 25 or 6 to 4 (1970-06)
@@ -39,7 +33,7 @@ Howlin' Wolf - The London Howlin' Wolf Sessions (1971-11)
 <li data-cover="http://coverartarchive.org/release/b5e464cb-e75c-4c01-9e92-93791d4fbe60/15141346927-500.jpg" data-tags="soul, spoken word" role="button">
 Gil Scott-Heron - Free Will (1972)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, funk, super70" role="button">
+<li data-cover="https://img.discogs.com/71rcAhcwf_wsV4shAx2TFrxhwsA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5809259-1403274701-8376.jpeg.jpg" data-tags="70s, funk, super70" role="button">
 Earth, Wind & Fire - Last Days And Time (1972)
 </li>
 <li data-cover="https://img.discogs.com/-U5D1RrA9LmeBJM5PG8QyBY2h1M=/fit-in/592x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4730339-1373665302-7215.jpeg.jpg" data-tags="folk" role="button">
@@ -84,11 +78,8 @@ Red Red Meat - Jimmywine Majestic (1993)
 <li data-cover="http://coverartarchive.org/release/0a22e40e-6c36-40c3-91fb-ea3186ae50a6/6637786971-500.jpg" data-tags="rnb, r.kelly" role="button">
 R. Kelly - 12 Play (1993-11-09)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/aUjbOLW13snEbHz97kHMPfEZsmk=/fit-in/379x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-97896-1244824512.jpeg.jpg" data-tags="post-rock" role="button">
 Tortoise - Tortoise (1994-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9ba46a4-da09-4a5a-b270-fae9e6b15a01/7051484935-500.jpg" data-tags="alternative, indie, rock, female vocalists, 90s" role="button">
-Liz Phair - Whip-Smart (1994-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f82b132c-ec40-4d92-85e5-f06e89073dac/12379445315-500.jpg" data-tags="instrumental, post rock" role="button">
 Tortoise - Gamera (1995)
@@ -98,6 +89,9 @@ R. Kelly - R. Kelly (1995-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcad4908-5c7e-4ce6-b35c-07af5e510f6e/2820247452-500.jpg" data-tags="classic rock, chicago" role="button">
 Chicago - The Very Best of Chicago (1996-02-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc64c7f3-4f37-4e0d-86c2-55651e07f8d4/21784241652-500.jpg" data-tags="chicago, us indie" role="button">
+The Spinanes - Strand (1996-02-27)
 </li>
 <li data-cover="https://img.discogs.com/ymkDO5r1K6X8BdkI0bwISdAZGT8=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-932744-1546043774-2762.jpeg.jpg" data-tags="rock, grunge, alternative, 90s, chicago" role="button">
 Catherine - Hot Saki & Bedtime Stories (1996-09-17)
@@ -153,7 +147,10 @@ David Grubbs - Rickets & Scurvy (2002-05-20)
 <li data-cover="https://img.discogs.com/Du6mdD8ZENFRakf7hXldlhIcY20=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855988-1505502680-9490.jpeg.jpg" data-tags="indie, alternative, post rock, 00s, chicago, thrill jockey" role="button">
 The Sea and Cake - One Bedroom (2003-01-21)
 </li>
-<li data-cover="https://img.discogs.com/jT5Zfu_f9xKgs9i3jylQ-oQJqsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2554167-1609542472-7380.jpeg.jpg" data-tags="punk rock" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="alternative rock" role="button">
+Billy Corgan - 2005-06-28: Webster Hall, New York City, NY, USA (2003-09-17)
+</li>
+<li data-cover="https://img.discogs.com/CqqXHNYauLxL4WTzJCmpTfcLEHM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828339-1398882519-5399.jpeg.jpg" data-tags="punk rock" role="button">
 The Lawrence Arms - The Greatest Story Ever Told (2003-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/4685c4c2-89cd-4d39-a791-f244f047811f/3207561367-500.jpg" data-tags="underground rap, underground hip-hop, chicago, midwest, underground hiphop" role="button">
@@ -192,6 +189,9 @@ Piglet - Lava Land (2005-07-12)
 <li data-cover="http://coverartarchive.org/release/6a332cb7-7c6e-4ca6-9771-90d06552e33a/20431718189-500.jpg" data-tags="doom metal, post-metal" role="button">
 Minsk - Out Of A Center Which Is Neither Dead Nor Alive (2005-09-27)
 </li>
+<li data-cover="https://img.discogs.com/kexlNVKF6rClv_Fc0aPFodnzD2A=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1871006-1249130643.jpeg.jpg" data-tags="post-rock, tasty, instrumental, experimental, post rock, mature, explore, post-jazz, serious, lend me your ear, latest and greatest, indie, jazz, indie rock, avant-garde, music to cook to, to drift away, instrumental post rock, the now sound, intonation, mostly-instrumental-ambient-post-rock-some-noise, comfort food for the soul, jazz influenced, discovered, indie mellow, for rainy days      headphone music, sorta mellow   sound devastation" role="button">
+Dilatazione - Too Emotional For Maths (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac847a05-a0cd-4dda-99f0-f57b60036bf7/13736053241-500.jpg" data-tags="indie, 00s, chicago, polyvinyl" role="button">
 Joan of Arc - The Intelligent Design Of Joan Of Arc (2006-07-25)
 </li>
@@ -228,7 +228,7 @@ Office - Mecca (2009-01-01)
 <li data-cover="http://coverartarchive.org/release/644c1004-2252-4be3-912f-e5bfd067fb24/23766556441-500.jpg" data-tags="indie, folk, 00s, chicago, carrot top" role="button">
 Speck Mountain - Some Sweet Relief (2009-03-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, kranky" role="button">
+<li data-cover="https://img.discogs.com/2fGPP7QlQXF4vZICZNHvNBdUkZY=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2363552-1281494844.jpeg.jpg" data-tags="indie rock, kranky" role="button">
 Disappears - Lux (2009-04-12)
 </li>
 <li data-cover="https://img.discogs.com/MtK4YPClwkutejnHZN846f_Ge-g=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1897397-1551811272-4495.jpeg.jpg" data-tags="doom metal, post-metal" role="button">
@@ -258,7 +258,7 @@ Light Pollution - Apparitions (2010-06-08)
 <li data-cover="http://coverartarchive.org/release/10fe0510-449a-4407-9b85-548fd223708c/16174633123-500.jpg" data-tags="indie" role="button">
 Maps & Atlases - Perch Patchwork (2010-06-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="planet mu, chicago, footwork, juke, hella good, footwurk" role="button">
+<li data-cover="https://img.discogs.com/v04drdL_TpH6WTSAwp2vmrxYomo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469104-1286484509.jpeg.jpg" data-tags="planet mu, chicago, footwork, juke, hella good, footwurk" role="button">
 DJ Nate - Da Trak Genious (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/672b0552-385f-400e-9934-eaed8fe770c8/6610332297-500.jpg" data-tags="ambient" role="button">

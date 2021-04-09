@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:44:01.465Z
+date: 2021-04-09T22:20:01.458Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -11,8 +11,8 @@ title: "downtempo: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg" data-tags="chillout, downtempo, lounge" role="button">Thievery Corporation - The Richest Man in Babylon (2002-09-17)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">Goldfrapp - Seventh Tree (2008-02-06)</li>
+<li data-cover="http://coverartarchive.org/release/c5646767-1459-424e-8fc9-798e6932d4dd/1235399189-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Heligoland (2010-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">Bonobo - Black Sands (2010-03-13)</li>
-<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">Tycho - Dive (2011-10-04)</li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">Bonobo - The North Borders (2013-03-21)</li>
 </ol>
 List of 100 - under the cut.
@@ -27,23 +27,20 @@ Massive Attack - Blue Lines (1991-04-08)
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
 </li>
-<li data-cover="https://img.discogs.com/O9-ZpQpvt3gsm9dlgCRXDOCfeDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10046-1573154029-6024.jpeg.jpg" data-tags="chillout, electronic, downtempo, 90s, trip-hop" role="button">
-Everything But the Girl - Amplified Heart (1994-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/87888070-1b25-4830-aebc-dee490058b74/2550628489-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Dummy (1994-08-22)
 </li>
 <li data-cover="https://img.discogs.com/bx-RVYzAV6uo5wGyRvpaBLNhM3Y=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2290435-1562913784-7220.jpeg.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Protection (1994-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
-Leftfield - Leftism (1995-01-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/a95dbc6e-3066-46ea-91ed-cfb9539f0c7c/3483045674-500.jpg" data-tags="electronic, downtempo, idm, ambient" role="button">
 Boards of Canada - Twoism (1995-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
+Lamb - Lamb (1996-09-30)
 </li>
 <li data-cover="https://img.discogs.com/PjY9A5PEtruXS07O5ljwPzWlFb8=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-236-1198510051.jpeg.jpg" data-tags="ambient" role="button">
 Boards of Canada - Hi Scores (1996-12-09)
@@ -90,6 +87,9 @@ Emilíana Torrini - Love in the Time of Science (1999-10-28)
 <li data-cover="https://img.discogs.com/aXOvlvSwksc_Va7qe_P5NtxadW4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1493126-1223829030.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Bent - Programmed to Love (2000)
 </li>
+<li data-cover="https://img.discogs.com/NiFbO-hHjl2mmKr0Fa_Pl3sVLkY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3083-1167766285.jpeg.jpg" data-tags="trip-hop, downtempo, electronic" role="button">
+Yonderboi - SHALLOW AND PROFOUND (2000-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/505f0ee9-6113-46aa-b44e-fbae0bcff839/13276098607-500.jpg" data-tags="downtempo" role="button">
 Tosca - Suzuki (2000-03-06)
 </li>
@@ -111,6 +111,9 @@ Goldfrapp - Felt Mountain (2000-09-11)
 <li data-cover="http://coverartarchive.org/release/02b53001-faea-4784-93be-3d3795376d94/4512744721-500.jpg" data-tags="downtempo, lounge" role="button">
 Dzihan & Kamien - Gran Riserva (2000-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5121f79-d6a3-4a07-876f-180f8bfe76d8/8866382616-500.jpg" data-tags="idm, ambient, electronic" role="button">
+Boards of Canada - In a Beautiful Place Out in the Country (2000-11-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
 </li>
@@ -123,14 +126,14 @@ Boozoo Bajou - Satta (2001-06)
 <li data-cover="http://coverartarchive.org/release/5cbf9bb5-6b4d-4b4e-843e-0db79f8f3a58/4396377486-500.jpg" data-tags="downtempo" role="button">
 Quantic - The 5th Exotic (2001-06-18)
 </li>
-<li data-cover="https://img.discogs.com/jmWEyDO16kNXmvl9evyBzsUdK0g=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2876887-1584239708-8952.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
-Kosheen - Resist (2001-06-25)
-</li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
 </li>
 <li data-cover="https://img.discogs.com/fz2gCGNE1ZDPji-D3fcK8oKAzxQ=/fit-in/472x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1577550-1256586457.jpeg.jpg" data-tags="ambient, electronic" role="button">
 Ulrich Schnauss - Far Away Trains Passing By (2001-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/680f53cf-e410-49a3-b1d0-a87c4c652b4c/974840185-500.jpg" data-tags="downtempo" role="button">
+Bonobo - Sweetness (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - Geogaddi (2002-02-13)
@@ -159,6 +162,9 @@ Massive Attack - 100th Window (2002-12)
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/561ef915-9383-40ec-9baf-f9c55d1ddf72/24765160123-500.jpg" data-tags="electronic" role="button">
+I Monster - Neveroddoreven (2003-07-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/65ae7726-7129-4456-ac20-e3e0e84e1f05/26300515610-500.jpg" data-tags="trip-hop" role="button">
 UNKLE - Never, Never, Land (2003-09-22)
 </li>
@@ -173,9 +179,6 @@ Zero 7 - When It Falls (2004-02-25)
 </li>
 <li data-cover="https://img.discogs.com/3OWnvD8SUZ4ZL0jcKAIgOu3lfaA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240347-1249301053.jpeg.jpg" data-tags="downtempo, trip-hop, ninja tune" role="button">
 Blockhead - Music By Cavelight (2004-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/1bcf401a-cc47-3dcb-b4e6-0d03db5016f4/11671958921-500.jpg" data-tags="downtempo" role="button">
-Diplo - Florida (2004-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3dbdd06-12b4-4085-91e0-491a96c93978/4281144804-500.jpg" data-tags="chillout, downtempo" role="button">
 Husky Rescue - Country Falls (2004-10-11)
@@ -222,11 +225,17 @@ Flunk - Personal Stereo (2007-04-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/b5c33b49-39d8-4112-a195-3bf114decafb/28675957501-500.jpg" data-tags="chillout" role="button">
+Sia - Some People Have Real Problems (2008-01-08)
+</li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
 Martina Topley-Bird - The Blue God (2008-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/41283fb4-8a5d-4d83-a8b9-88b2b0420ed0/3527055147-500.jpg" data-tags="downtempo, ninja tune" role="button">
+Mr. Scruff - Ninja Tuna (2008-09-22)
 </li>
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="downtempo" role="button">
 Thievery Corporation - Radio Retaliation (2008-12-23)
@@ -273,17 +282,11 @@ James Blake - James Blake (2011-02-04)
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
-<li data-cover="https://img.discogs.com/ahscDuBPtYtFMcx5aLRHNY-e3Rs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2812981-1401881185-7985.jpeg.jpg" data-tags="downtempo, dubstep" role="button">
-Holy Other - With U (2011-06-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/87ccbd72-c932-4315-a12e-f794a2c9be36/8201694017-500.jpg" data-tags="downtempo, trip hop" role="button">
 Thievery Corporation - Culture of Fear (2011-06-26)
 </li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">
 Gotye - Making Mirrors (2011-08-19)
-</li>
-<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">
-Tycho - Dive (2011-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d31ab1ea-1963-430f-8f98-5b809b677680/7454411761-500.jpg" data-tags="electronic, downtempo, vocals, chill-out, male vocals, 2010s, 2012 releases, downtown records, fontana north" role="button">
 Chet Faker - Thinking in Textures (2012-03-23)
@@ -293,9 +296,6 @@ Com Truise - In Decay (2012-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/aa076b82-9732-4b7f-a404-086fb4177d44/4100519731-500.jpg" data-tags="ambient, experimental, downtempo, drone, synth-pop, leftfield" role="button">
-Chrome Sparks - Sparks EP (2013-03-04)
 </li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)

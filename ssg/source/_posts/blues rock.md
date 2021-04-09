@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:43:01.456Z
+date: 2021-04-09T22:21:01.431Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -201,14 +201,14 @@ Ten Years After - I'm Going Home (1996)
 <li data-cover="http://coverartarchive.org/release/06006e16-c1ca-4f8b-a629-0c2b6eb0162c/8880627069-500.jpg" data-tags="blues rock, rock, garage rock" role="button">
 The White Stripes - The White Stripes (1999-06-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
-Eric Clapton - Clapton Chronicles: The Best of Eric Clapton (1999-10-12)
-</li>
 <li data-cover="https://img.discogs.com/blVarIDnIHpERCIOUvAoP4618FU=/fit-in/509x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855656-1606850367-2438.jpeg.jpg" data-tags="blues" role="button">
 B.B. King & Eric Clapton - Riding with the King (2000-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fa97915-7067-3624-b24f-f9bd03ba534a/20821165408-500.jpg" data-tags="alternative rock, rock, blues rock" role="button">
 The White Stripes - De Stijl (2000-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/58c2f29b-c284-344e-8cbb-a44f4ef7badf/2976602620-500.jpg" data-tags="rock, alternative rock" role="button">
+The White Stripes - White Blood Cells (2001-07-03)
 </li>
 <li data-cover="https://img.discogs.com/9ptOzgWMBIYeOUr8r0xPYapgfWc=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2769989-1590169907-3874.jpeg.jpg" data-tags="classic rock, 60s" role="button">
 The Animals - The Best of The Animals (2002-02-05)

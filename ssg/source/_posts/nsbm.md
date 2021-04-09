@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:59:01.388Z
+date: 2021-04-09T22:10:01.443Z
 title: "nsbm: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -30,6 +30,9 @@ Scorpions - Virgin Killer (1976-10-09)
 <li data-cover="https://img.discogs.com/r-BBNj1LBBHNxxqYgDpc7mvDpjE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15621398-1594697375-2445.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
 Insane Clown Posse - Carnival of Carnage (1992-10-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4454341-8ae3-4339-b176-ab8c5a1d5a63/3555034678-500.jpg" data-tags="black metal" role="button">
+Graveland - In the Glare of Burning Churches (1993-06)
+</li>
 <li data-cover="https://img.discogs.com/rYGnelHsce98oMbmyt_XL6img-g=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15680849-1595798643-8925.jpeg.jpg" data-tags="hip-hop, detroit, second wave black metal" role="button">
 Insane Clown Posse - Ringmaster (1994-03-08)
 </li>
@@ -45,6 +48,9 @@ Insane Clown Posse - Riddle Box (1995-10-10)
 <li data-cover="http://coverartarchive.org/release/b84393ad-7ff8-4b1f-bec1-cfb56dc6a5b1/5284563846-500.jpg" data-tags="punk, germany, rac, nsbm" role="button">
 Absurd - Facta Loquuntur (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/93a7a357-e23f-47a9-a767-e05730da0bea/20308113502-500.jpg" data-tags="black metal" role="button">
+Nokturnal Mortum - Lunar Poetry (1996-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/08b78ddd-d417-426f-ad8e-0a78e06bd910/20089813897-500.jpg" data-tags="hip-hop, rap, 90s, detroit, goregrind, psychopathic, horrorcore, deathcore, brutal death metal, nsbm, deathgrind, sexy album covers, brutal deathcore, national socialist black metal, detroit rap, moshcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal" role="button">
 Insane Clown Posse - Tunnel of Love (1996-06-11)
 </li>
@@ -54,10 +60,13 @@ Graveland - Following the Voice of Blood (1997)
 <li data-cover="http://coverartarchive.org/release/fbabea02-d690-4bfb-8c42-a9e56260e859/5969567907-500.jpg" data-tags="rap" role="button">
 Racionais Mc's - Sobrevivendo no Inferno (1997)
 </li>
+<li data-cover="https://img.discogs.com/BDgL5nX1Jl1xxDtrcJRoeXNV-gM=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5448073-1513592837-9784.jpeg.jpg" data-tags="black metal, pagan black metal, symphonic black metal" role="button">
+Nokturnal Mortum - Goat Horns (1997-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/6dc48e79-0c9b-4bf4-b2b9-9fc40e3941d9/3499202221-500.jpg" data-tags="horrorcore" role="button">
 Insane Clown Posse - The Great Milenko (1997-08-12)
 </li>
-<li data-cover="https://img.discogs.com/4jpyc4cZ4CFfyZmBD2glDJwZH5Y=/fit-in/600x948/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4009074-1354831438-1744.jpeg.jpg" data-tags="90s, pop" role="button">
+<li data-cover="https://img.discogs.com/i9mxNwYKL4n8eEelHhk3wSBnURA=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8825077-1469559117-5040.jpeg.jpg" data-tags="90s, pop" role="button">
 Ace of Base - Flowers (1998-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c14d4eec-bd89-4b8d-b1f2-67c79ee24ce6/5285427406-500.jpg" data-tags="raw, nsbm, dry stones" role="button">
@@ -93,6 +102,9 @@ Satanic Warmaster - Strength & Honour (2001-11-13)
 <li data-cover="http://coverartarchive.org/release/4d65725d-40a1-412d-83ae-df293b498dde/2907875496-500.jpg" data-tags="black metal" role="button">
 Burzum - Anthology (2002)
 </li>
+<li data-cover="https://img.discogs.com/FYCtHc8y-_e8ZZbUXF9mWPG5qgs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-752570-1616921516-7800.jpeg.jpg" data-tags="nsbm" role="button">
+Astrofaes - Heritage (2002-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/2605782e-2215-4a93-8d04-a256c334b33c/27374569623-500.jpg" data-tags="detroit, juggalo" role="button">
 Insane Clown Posse - The Wraith: Shangri-La (2002-11-05)
 </li>
@@ -102,14 +114,14 @@ Ad Hominem - Planet Zog - The End (2003)
 <li data-cover="http://coverartarchive.org/release/a03d2c3f-f0dd-48e0-a2d9-a58a245180b6/5286559578-500.jpg" data-tags="black metal" role="button">
 Absurd - Totenlieder (2003)
 </li>
-<li data-cover="https://img.discogs.com/u-5daUvgcTYL1tRcEl7dZdUU9X4=/fit-in/563x857/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4463740-1412184188-3012.jpeg.jpg" data-tags="pop, minimal techno, martial industrial, nsbm, neo-folk" role="button">
-Britney Spears - Everytime (2003-08-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, live" role="button">
 Avril Lavigne - My World (2003-11-03)
 </li>
 <li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e6e245c-c3f8-4979-8695-932f850527ab/4823942271-500.jpg" data-tags="finnish black metal" role="button">
+Goatmoon - Death Before Dishonour (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/db5378bf-9c01-4e0b-bb94-7c513702628d/5286642160-500.jpg" data-tags="nsbm" role="button">
 Absurd - Raubritter (2004)
@@ -135,6 +147,9 @@ Jonas Brothers - It's About Time (2006)
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
+<li data-cover="https://img.discogs.com/8FpU6Unpcf7Iy4UX_8bfdogAdBw=/fit-in/325x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044015-1187498923.jpeg.jpg" data-tags="nsbm, greek, national socialist, adolf hitler" role="button">
+Der Stürmer - A Banner Greater than Death (2006-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/6c191971-961e-465e-985f-02a3dc24bde0/10431360135-500.jpg" data-tags="pop, dance, electropop" role="button">
 Paris Hilton - Paris (2006-08-14)
 </li>
@@ -144,29 +159,17 @@ Attila - Fallacy (2007)
 <li data-cover="http://coverartarchive.org/release/caf74075-6f16-442a-9c4b-f5505e6d51d4/4823964567-500.jpg" data-tags="finnish black metal" role="button">
 Goatmoon - Finnish Steel Storm (2007-01-25)
 </li>
-<li data-cover="https://img.discogs.com/J84TNUtvZykEzfA9n_RGXxAiElI=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005277-1564185566-6144.jpeg.jpg" data-tags="pop, avril lavigne, rock, pop rock" role="button">
+<li data-cover="https://img.discogs.com/ztccbjTZowAxLXbCIw8x3DcA_Uw=/fit-in/324x324/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-486733-1176762711.jpeg.jpg" data-tags="pop, avril lavigne, rock, pop rock" role="button">
 Avril Lavigne - Girlfriend (2007-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f4e0c1b-9f9f-427b-a654-0a85debd6edf/27366556586-500.jpg" data-tags="hip-hop, detroit" role="button">
 Insane Clown Posse - The Tempest (2007-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/4bc3ef86-36dd-4546-96ff-c644156b7b67/5384639454-500.jpg" data-tags="finnish, power metal, tokio hotel" role="button">
-Ari Koivunen - Fuel For The Fire (2007-05-24)
-</li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">
-Sturm und Drang - Learning To Rock (2007-05-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/31d6e34e-48b8-4893-877c-fc9c736200c4/2411022826-500.jpg" data-tags="black metal" role="button">
 Peste Noire - Folkfuck Folie (2007-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/3fa69ffc-f152-3fcc-870e-5c3dbef29e04/19154247481-500.jpg" data-tags="rock, alternative, russian, russian rock" role="button">
-Мумий Тролль - Амба (2007-07-07)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop" role="button">
 Jonas Brothers - Jonas Brothers (2007-08-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/11d79e6c-e76c-4e77-82e7-22acd02f8c8a/5367819571-500.jpg" data-tags="pop, finnish, grim, nsbm" role="button">
-Anna Abreu - Anna Abreu (2007-08-16)
 </li>
 <li data-cover="https://img.discogs.com/TFDVSollYltp5DdqM8e_sPOofxk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520593-1288530583.jpeg.jpg" data-tags="hair metal" role="button">
 Steel Panther - Death To All But Metal (2008)
@@ -186,10 +189,13 @@ Trina - Still Da Baddest (2008-04-01)
 <li data-cover="http://coverartarchive.org/release/51eab306-8240-4c4c-83a8-b320b3651815/9668781634-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm" role="button">
 Blood on the Dance Floor - Let's Start a Riot (2008-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/f65431b3-f8cb-4093-a9c9-9108827e9987/9954080401-500.jpg" data-tags="beer, scat, dustin lynch" role="button">
+Blood on the Dance Floor - It's Hard to Be a Diamond in a Rhinestone World (2008-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/944c0440-8285-4a98-bcea-238e51f534e3/2512771498-500.jpg" data-tags="crunkcore" role="button">
 Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
-<li data-cover="https://img.discogs.com/FjLGaTafIscM8hQMlZ18AdraIVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7271769-1437699076-6523.jpeg.jpg" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/37592a76-6878-331b-a8c8-5d3bcad37b6e/15565825641-500.jpg" data-tags="electronic, synthrock" role="button">
@@ -231,9 +237,6 @@ Justin Bieber - My World (2009-11-13)
 <li data-cover="http://coverartarchive.org/release/c8b32303-d6b9-4dac-9fd0-ac9d02b1a4e9/14874949381-500.jpg" data-tags="female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to" role="button">
 Steel Panther - Don't Stop Believin' (2009-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/110df975-7bf4-4604-973c-8e3a31bc0efb/10988665831-500.jpg" data-tags="gothic rock" role="button">
-Chelsea Wolfe - Ἀποκάλυψις (2010)
-</li>
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
@@ -260,9 +263,6 @@ Justin Bieber - My Worlds Acoustic (2010-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/216dc68b-c7db-4c5f-b054-753d6d3fd1d1/12911239802-500.jpg" data-tags="black metal, metal" role="button">
-Liturgy - Aesthethica (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Set the World on Fire (2011-06-14)

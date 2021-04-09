@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:53:01.459Z
+date: 2021-04-09T22:38:01.436Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -66,8 +66,14 @@ Stevie Wonder - Innervisions (1973-08-03)
 <li data-cover="http://coverartarchive.org/release/a5fd58e5-feae-497e-95f0-63a940b0fd87/23170553495-500.jpg" data-tags="soul, funk" role="button">
 Shuggie Otis - INSPIRATION INFORMATION (1974)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5caeea7-7b96-39ef-8306-032f1f4776f1/8728957198-500.jpg" data-tags="jazz funk, instrumental, funk, jazz fusion" role="button">
+Herbie Hancock - Thrust (1974)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f8468cf-f8a4-4c2b-bded-a66c5a83041c/22712479663-500.jpg" data-tags="funk" role="button">
 Parliament - Mothership Connection (1975)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
+War - Why Can't We Be Friends? (1975-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
@@ -143,9 +149,6 @@ Michael Jackson - Scream (1995-05-31)
 </li>
 <li data-cover="https://img.discogs.com/31gR0JrjT4wpFgCD7pf2u1N2FGE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6757360-1425997407-7575.jpeg.jpg" data-tags="alternative rock, rock, 90s" role="button">
 Red Hot Chili Peppers - One Hot Minute (1995-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/28d8288b-63fd-4995-aeb7-f95be8899795/19137757728-500.jpg" data-tags="hip hop, funk" role="button">
-The Pharcyde - Labcabincalifornia (1995-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
 Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
@@ -302,9 +305,6 @@ Aloe Blacc - Wake Me Up (2013-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/3be8bd29-a036-4906-b668-030aa6b21c1f/7123167778-500.jpg" data-tags="soul, funk" role="button">
-Paolo Nutini - Caustic Love (2014-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/11628a0e-99ad-433b-9259-6de49e72ca24/7668980421-500.jpg" data-tags="pop" role="button">
 Michael Jackson - XSCAPE (2014-05-09)

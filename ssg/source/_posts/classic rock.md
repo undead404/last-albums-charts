@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:59:01.482Z
+date: 2021-04-09T21:53:01.664Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -63,9 +63,6 @@ The Doors - Waiting for the Sun (1968-07)
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
-<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
-Van Morrison - Astral Weeks (1968-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/8345dc9c-b9c4-3d11-9a29-828b6e235c6a/22775211332-500.jpg" data-tags="classic rock, rock, 60s" role="button">
 The Rolling Stones - Beggars Banquet (1968-12-06)
 </li>
@@ -81,9 +78,6 @@ The Beatles - Abbey Road (1969-09-26)
 <li data-cover="http://coverartarchive.org/release/fe0aec30-6538-4ff6-98e1-2af99e93ac1f/7549818228-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin II (1969-10-22)
 </li>
-<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
-David Bowie - Space Oddity (1969-11-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/b2ca3b22-f3cc-40c0-b2d3-f4e1d6602106/3010820345-500.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Rolling Stones - Let It Bleed (1969-11-29)
 </li>
@@ -93,9 +87,6 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Morrison Hotel (1970-02)
 </li>
-<li data-cover="https://img.discogs.com/FyTyNg0l2oiiALzvNZVMfxZc6C8=/fit-in/599x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11276140-1513251517-1765.jpeg.jpg" data-tags="classic rock, 70s" role="button">
-Van Morrison - Moondance (1970-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 </li>
@@ -104,6 +95,9 @@ The Beatles - Let It Be (1970-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">
 Black Sabbath - Paranoid (1970-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/330d2db8-86f7-4d92-a97a-50cb817a62f4/5321045997-500.jpg" data-tags="classic rock" role="button">
+Neil Young - After the Gold Rush (1970-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin III (1970-10-05)
@@ -231,6 +225,9 @@ Deep Purple - Deepest Purple: The Very Best of Deep Purple (1980)
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/ab2c84bb-4ee7-4add-8349-f4d7ad243384/4389275722-500.jpg" data-tags="rock, 80s, classic rock" role="button">
+Journey - Escape (1981)
+</li>
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
@@ -254,6 +251,9 @@ Genesis - Invisible Touch (1986-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
 Queen - A Kind Of Magic (1986-06-02)
+</li>
+<li data-cover="https://img.discogs.com/vp8yysdtrnhVB0e3-7cEDcL3ZkY=/fit-in/599x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387091-1215452933.jpeg.jpg" data-tags="rock" role="button">
+U2 - The Joshua Tree (1987-03-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)

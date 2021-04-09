@@ -1,16 +1,16 @@
 ---
-date: 2021-04-07T05:27:06.966Z
+date: 2021-04-09T22:34:01.415Z
 title: "latin pop: 100 albums you must listen to before you die"
 ---
 ![Juanes - Mi Sangre (2004-09-28)](http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg "Juanes - Mi Sangre (2004-09-28)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">Shakira - Pies Descalzos (1995)</li>
 <li data-cover="http://coverartarchive.org/release/9b76ea1d-2a10-3e29-83a5-6fbeccdc5fd5/3721911604-500.jpg" data-tags="pop" role="button">Jennifer Lopez - J. Lo (2001-01-23)</li>
-<li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">Enrique Iglesias - Escape (2001-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">Shakira - Laundry Service (2001-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/39ba4a29-2c48-3d6c-9d65-4349c7109b6e/18202568447-500.jpg" data-tags="latin" role="button">Juanes - Mi Sangre (2004-09-28)</li>
 <li data-cover="http://coverartarchive.org/release/d652d441-0d67-4983-a7f7-e31923d8da89/25350316840-500.jpg" data-tags="latin pop" role="button">Julieta Venegas - Limón y Sal (2006-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/cac4eec8-1534-4fd1-9167-56cfeb2c5be4/10004845334-500.jpg" data-tags="latin pop" role="button">Jennifer Lopez - Como Ama Una Mujer (2007-03-20)</li>
+<li data-cover="http://coverartarchive.org/release/773289a2-3663-4acb-bf75-e3acab1af90a/1252418049-500.jpg" data-tags="shakira" role="button">Shakira - Loba (2009-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">Enrique Iglesias - Euphoria (2010-07-05)</li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">Shakira - Sale el Sol (2010-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/933242f0-fff3-4709-953c-569ad116c270/9492623019-500.jpg" data-tags="electropop, latin pop" role="button">Enrique Iglesias - Sex and Love (2014-03-13)</li>
@@ -24,6 +24,9 @@ _________________
 <li data-cover="https://img.discogs.com/8ag1vFClogG9X-9IvfzmmIJJYPU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3270599-1323269054.jpeg.jpg" data-tags="classic rock, guitar" role="button">
 Santana - Samba Pa Ti (1988-09-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/4776d172-af13-4ff9-971e-9cb194b3b2a2/2905920946-500.jpg" data-tags="jon secada" role="button">
+Jon Secada - Jon Secada (1992-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/7a0f9951-da70-4731-bf4d-50ffbd9baf49/10134225946-500.jpg" data-tags="latin, latin pop" role="button">
 Gloria Estefan - Greatest Hits (1992-10-30)
 </li>
@@ -36,17 +39,11 @@ Luis Miguel - Aries (1993-06-22)
 <li data-cover="http://coverartarchive.org/release/818d8278-b9a2-4e61-b265-dd6e57a2aa6c/8319524557-500.jpg" data-tags="latin" role="button">
 Gloria Estefan - Mi Tierra (1993-06-22)
 </li>
-<li data-cover="https://img.discogs.com/2UDRM8KBHrh2TVTbnhtSPU_0I4Q=/fit-in/300x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-556786-1137599233.jpeg.jpg" data-tags="tejano, selena" role="button">
-Selena - Amor Prohibido (1994-03-22)
-</li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
 Shakira - Pies Descalzos (1995)
 </li>
 <li data-cover="https://img.discogs.com/agIVmxuf05EzCdwusuUhqjvAmIE=/fit-in/469x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2611391-1293119185.jpeg.jpg" data-tags="pop, latin" role="button">
 Ricky Martin - A Medio Vivir (1995-07-13)
-</li>
-<li data-cover="https://img.discogs.com/V607aaJc8WrL7zsVa2cxM2lAmMg=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2177760-1268637017.jpeg.jpg" data-tags="selena" role="button">
-Selena - Dreaming of You (1995-07-18)
 </li>
 <li data-cover="https://img.discogs.com/OA_UkBVF-ga24SIvZuZtKci1gXc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6417884-1418704719-1867.jpeg.jpg" data-tags="pop, pop rock, italian, latin pop, foreign, on cd, on security duplicate copy, got as a gift" role="button">
 Nek - Lei, gli amici e tutto il resto (1996)
@@ -101,6 +98,9 @@ Christina Aguilera - Mi Reflejo (2000-09-12)
 </li>
 <li data-cover="https://img.discogs.com/TNbTicqr0_J0-aEMYJhH-NA7F5E=/fit-in/583x449/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1388691-1301646667.jpeg.jpg" data-tags="latin, 00s" role="button">
 Ricky Martin - Sound Loaded (2000-11-07)
+</li>
+<li data-cover="https://img.discogs.com/tAG3N95aghlEtM_PHFgU4K05rXs=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5527995-1608533100-9478.jpeg.jpg" data-tags="pop, female vocalists, latin pop" role="button">
+Mónica Naranjo - Chicas Malas (2001)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sin bandera" role="button">
 Sin Bandera - Sin Bandera (2001)
@@ -165,11 +165,11 @@ Enrique Iglesias - 7 (2003-10-25)
 <li data-cover="https://img.discogs.com/mDgqGCHtS5QcIjLslTumzElfVQ8=/fit-in/200x179/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-347070-1307145634.jpeg.jpg" data-tags="spanish, latin, mexico, spanish rock, alternative pop, pop-rock, latin pop, mexican, latin grammy nominated, my whole damn collection, julietta venegas okay" role="button">
 Julieta Venegas - Sí (2003-11-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/90baccb5-575a-430c-b44f-25fac58254fd/16958542347-500.jpg" data-tags="reggae-latin pop" role="button">
+Macaco - Entre Raices y Antenas (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/59b1330d-1453-471e-8c49-843c4c0e62b9/17276953195-500.jpg" data-tags="latin pop, stop, latin grammy nominated, para mi princesa" role="button">
 Franco De Vita - Stop (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/81f68e1e-bcad-4e91-ab45-018fcdd3ae5a/28032817096-500.jpg" data-tags="latin, pop, dance, ballad, latin pop" role="button">
-Thalía - Greatest Hits (2004-02-10)
 </li>
 <li data-cover="https://img.discogs.com/XR40WuOOgP_p7YVtGAMmHpxEhpg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13273458-1551142502-6832.jpeg.jpg" data-tags="latin pop, latin" role="button">
 Paulina Rubio - Pau-Latina (2004-02-10)
@@ -198,8 +198,8 @@ RBD - Nuestro Amor (2005-09-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="playa limbo" role="button">
 Playa Limbo - Canciones De Hotel (2006-01-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d565491-3d4c-47a9-bf41-4904289f7b8f/27306034810-500.jpg" data-tags="pop" role="button">
-Belanova - Dulce Beat (2006-03-07)
+<li data-cover="http://coverartarchive.org/release/11f16e23-2e09-4056-b80c-277dc45dd795/25995128091-500.jpg" data-tags="pop, latin pop, mexico" role="button">
+RBD - Nosso Amor Rebelde (2006-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0951d59b-f6b3-49ba-ada0-cc17c01219ec/15019032110-500.jpg" data-tags="camila" role="button">
 Camila - Todo Cambio (2006-05-09)
@@ -237,9 +237,6 @@ Alejandro Fernández - Viento A Favor (2007-06-26)
 <li data-cover="http://coverartarchive.org/release/9329f2c5-41c6-4f4e-9042-d5850647d898/11978100442-500.jpg" data-tags="rnb, kat deluna, female vocalists" role="button">
 Kat DeLuna - 9 Lives (2007-08-07)
 </li>
-<li data-cover="https://img.discogs.com/3BYbt8yW0AtXRgOiu4ywxIRi4so=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-997165-1195357939.jpeg.jpg" data-tags="pop" role="button">
-Belanova - Fantasía Pop (2007-09-10)
-</li>
 <li data-cover="https://img.discogs.com/qPYbDI-VUOuwSsp2Ip_mN48xk8E=/fit-in/600x459/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10049255-1490724473-5235.jpeg.jpg" data-tags="pop, latin pop" role="button">
 Gloria Trevi - Una Rosa Blu (2007-10-02)
 </li>
@@ -252,11 +249,20 @@ RBD - Empezar Desde Cero (2007-11-20)
 <li data-cover="http://coverartarchive.org/release/4d66a821-481a-4abd-b56b-de6f123f6b64/17263278835-500.jpg" data-tags="spanish, folk, compilation, alternative pop, latin pop, mexican, accordion" role="button">
 Julieta Venegas - Realmente Lo Mejor (2007-12-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/9c9225e9-06d8-4258-8fe4-0bb06ec270ee/8865945973-500.jpg" data-tags="pop" role="button">
+Ximena Sariñana - Mediocre (2008-02-19)
+</li>
+<li data-cover="https://img.discogs.com/Kg5gn2qZrQd1Mdkq-VIy8ebgO7c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13058552-1547315424-3391.jpeg.jpg" data-tags="latin pop, roberto goyeneche, carlos baute" role="button">
+Carlos Baute - De mi puño y letra (2008-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/ab1c3808-7f4b-4c8e-b620-651dec921ebe/18195918643-500.jpg" data-tags="latin pop, leidy, la mentira, tienes razon, no me doy por vencido, aqui estoy yo, discos 2009, grammy latino 2009, llueve por dentro, lagrimas de mar, persiguiendo el paraiso, quien le va a decir, todo lo que tengo" role="button">
 Luis Fonsi - Palabras Del Silencio (2008-08-26)
 </li>
-<li data-cover="https://img.discogs.com/0e9vPOz4PapaiDdlFbVqkuwTzh4=/fit-in/600x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11222152-1512173075-7949.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/ONCBWP2ZE01EFgx1hgo6ZnpKd_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10505152-1498829613-2192.jpeg.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Greatest Hits (2008-11-03)
+</li>
+<li data-cover="https://img.discogs.com/PwXJlq_1PcXqyZwJGlaxVwl7Vc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7197843-1435941885-7824.jpeg.jpg" data-tags="spanish, pop, colombia, latin pop, tropical, pop latino, zaza, chapiztirrina, tu no eres para mi cd" role="button">
+Fanny Lú - Dos (2008-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b898976-f6a4-486c-a603-f22bdef901f4/10167948796-500.jpg" data-tags="pop-rock, latin pop, grammy nominated" role="button">
 La Quinta Estación - Sin frenos (2009-03-03)
@@ -281,9 +287,6 @@ Prince Royce - Prince Royce (2010-03-02)
 </li>
 <li data-cover="https://img.discogs.com/FpVgmSlwRldI-Orh2Hmj_BXsj30=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2198025-1319308947.jpeg.jpg" data-tags="spanish, folk, latin pop, mexican, ranchera" role="button">
 Julieta Venegas - Otra Cosa (2010-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8ea1c1d-5d5b-4388-8b4e-a4ac96448388/4730268209-500.jpg" data-tags="pop, synthpop" role="button">
-Belinda - Carpe Diem (2010-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">
 Enrique Iglesias - Euphoria (2010-07-05)
@@ -317,8 +320,5 @@ Yandel - De Líder a Leyenda (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/933242f0-fff3-4709-953c-569ad116c270/9492623019-500.jpg" data-tags="electropop, latin pop" role="button">
 Enrique Iglesias - Sex and Love (2014-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/e38c3df9-44e7-43a4-84c9-8f90cf0c6f7c/6788652498-500.jpg" data-tags="revolution, rap, latin, energetic, searching, literate, fierce, intense, confident, aggressive, fiery, confrontational, earnest, provocative, uncompromising, dramatic, earthy, uplifting, strong, chile, latin pop, latin rap, lyrical, flowing, poignant, powerful, south american, triumphant, imagination, celebratory, positive, enigmatic, defiant, empowerment, philosophical, joyous, gritty, gutsy, swaggering, lively, visceral, maverick, boisterous, street-smart, ambitious, affirmation, animated, kinetic, chileno, hungry, alternative latin, south and central america, from: chile, declamatory, south-american, from chile, south american music, made in chile, modern chile, musica de chile" role="button">
-Ana Tijoux - Vengo (2014-03-18)
 </li>
 </ol>
