@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T17:55:01.387Z
+date: 2021-04-09T14:02:01.401Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -32,9 +32,6 @@ Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="https://img.discogs.com/IIbEc42J2O2aT_u8ZUtAgyslW5s=/fit-in/477x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1618035-1232651650.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Modern Life Is Rubbish (1993-05-10)
-</li>
-<li data-cover="https://img.discogs.com/qppLUNI1MmetArlp_hgLBjDqcGs=/fit-in/600x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14689668-1579696041-4598.jpeg.jpg" data-tags="britpop" role="button">
-James - Laid (1993-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/30a94519-0c6e-41ab-8a4e-77cccd91f477/4392724826-500.jpg" data-tags="britpop" role="button">
 Pulp - His 'n' Hers (1994-04-18)
@@ -177,7 +174,7 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/47a1f944-e46f-4a7e-b882-1632c9397176/15016689641-500.jpg" data-tags="britpop, indie" role="button">
 Travis - 12 Memories (2003-10-08)
 </li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, io, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
+<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
 Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
@@ -279,7 +276,7 @@ One Night Only - Started A Fire (2008-02-11)
 <li data-cover="http://coverartarchive.org/release/108ff541-d605-3cd0-bd71-c7626dd224c3/15041273179-500.jpg" data-tags="indie, indie rock" role="button">
 The Kooks - Konk (2008-04-09)
 </li>
-<li data-cover="https://img.discogs.com/pwFZLcQ7Q4XucnsS5rnvQqsQiPo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1406749-1230378827.jpeg.jpg" data-tags="britpop" role="button">
+<li data-cover="https://img.discogs.com/iL8ENhEknvLI_dcioqf9KzHrW0Q=/fit-in/600x636/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8051338-1454197968-4134.jpeg.jpg" data-tags="britpop" role="button">
 Coldplay - Violet Hill (2008-05-07)
 </li>
 <li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
@@ -290,6 +287,9 @@ Radiohead - The Best Of (2008-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
 Coldplay - Viva la Vida (2008-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab89d81d-9744-4dae-84df-33b8ce644035/28302499242-500.jpg" data-tags="indie, rock, british, indie pop, indie rock, britpop" role="button">
+Bombay Bicycle Club - Evening/Morning (2008-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)

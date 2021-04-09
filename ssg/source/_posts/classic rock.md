@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:45:01.653Z
+date: 2021-04-09T14:01:06.893Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/c33e82e8-efba-49ae-83f3-adc3088985ff/4004452077-500.jpg" data-tags="60s, classic rock" role="button">
 The Beatles - With The Beatles (1963-11-22)
 </li>
-<li data-cover="https://img.discogs.com/sQwFlK6c-QK2jZKxw047V7VIlk0=/fit-in/600x879/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11491229-1517276652-2327.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">
 The Beatles - Help! (1965-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">
@@ -42,7 +42,7 @@ Jefferson Airplane - Surrealistic Pillow (1967-02)
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
-<li data-cover="https://img.discogs.com/Q9nF04xwoW0BfbMUEUdXET3jV84=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179262-1590077335-9715.jpeg.jpg" data-tags="psychedelic rock, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/Vu4jQjQNYVfIU-IOManIkLcna3U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2018049-1510345968-8926.jpeg.jpg" data-tags="psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Are You Experienced (1967-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">
@@ -60,8 +60,11 @@ The Beatles - Magical Mystery Tour (1967-11-27)
 <li data-cover="http://coverartarchive.org/release/cffaf406-bc87-4633-9d99-cea7d6106bf6/2987749144-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Waiting for the Sun (1968-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
+</li>
+<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
+Van Morrison - Astral Weeks (1968-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8345dc9c-b9c4-3d11-9a29-828b6e235c6a/22775211332-500.jpg" data-tags="classic rock, rock, 60s" role="button">
 The Rolling Stones - Beggars Banquet (1968-12-06)
@@ -99,7 +102,7 @@ Van Morrison - Moondance (1970-03)
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 </li>
-<li data-cover="https://img.discogs.com/E8_hYSNJ884KPcuu8irEGT1okFE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14915184-1584898066-7698.jpeg.jpg" data-tags="rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2982b682-36ea-3605-b959-04e746736070/9279109967-500.jpg" data-tags="heavy metal" role="button">
@@ -135,7 +138,7 @@ Led Zeppelin - Led Zeppelin IV (1971-11-08)
 <li data-cover="http://coverartarchive.org/release/04490fb2-a861-3db8-a8c6-386d8f9da1dc/2776393252-500.jpg" data-tags="glam rock, 70s" role="button">
 David Bowie - Hunky Dory (1971-12-17)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="70s, rock, glam rock" role="button">
+<li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
@@ -162,7 +165,7 @@ Elton John - Goodbye Yellow Brick Road (1973-10-05)
 <li data-cover="http://coverartarchive.org/release/de402eab-3c08-4962-b02f-0790d4f35a26/1631010006-500.jpg" data-tags="elton john" role="button">
 Elton John - Greatest Hits (1974-11-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Physical Graffiti (1975-02-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
@@ -216,7 +219,7 @@ Queen - Jazz (1978-11-10)
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
 Supertramp - Breakfast In America (1979)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg" data-tags="progressive rock" role="button">
@@ -255,7 +258,7 @@ Queen - A Kind Of Magic (1986-06-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/03ffc721-3d27-4fb9-a394-c06da971ee5b/19269133764-500.jpg" data-tags="classic rock, journey, 80s" role="button">
@@ -302,9 +305,6 @@ U2 - All That You Can't Leave Behind (2000-10-30)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
-</li>
-<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
-Gary Jules - Trading Snakeoil For Wolftickets (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/475b6b91-86e9-40ba-bb98-c6a65bd1339e/15595445952-500.jpg" data-tags="classic rock, rock, psychedelic rock" role="button">
 The Doors - The Very Best of The Doors (2001-09-08)
