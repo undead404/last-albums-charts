@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T08:21:01.517Z
+date: 2021-04-09T09:08:02.312Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -129,7 +129,7 @@ Queens of the Stone Age - Songs for the Deaf (2002-08-17)
 <li data-cover="https://img.discogs.com/cgFX-8nmXkGyOZoCjG4tPTtprtg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854823-1304132381.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - One by One (2002-10-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+<li data-cover="https://img.discogs.com/2PbCFjlcIzJBqZOAfewe38uz6lo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2262003-1273098878.jpeg.jpg" data-tags="grunge" role="button">
 Nirvana - Nirvana (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2c4953c-08f2-49cb-9050-8f39b6f3803d/1018107254-500.jpg" data-tags="rock" role="button">
@@ -237,9 +237,6 @@ Brand New - The Devil and God Are Raging Inside Me (2006-11-20)
 <li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">
 Incubus - Light Grenades (2006-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/805d6908-afee-3a49-b6e0-e9ca5ce6a452/16767229098-500.jpg" data-tags="indie, female vocalists, indie pop, female vocalist, pop, alternative, indie rock" role="button">
-Feist - The Reminder (2007-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
 Linkin Park - Minutes to Midnight (2007-05-11)
 </li>
@@ -276,8 +273,11 @@ The All-American Rejects - When the World Comes Down (2008-12-16)
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
 </li>
-<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="rock, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/cK8iODSf9CBg0wfuPXMKvoqmrYc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2372985-1280230124.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Incubus - Monuments And Melodies (2009-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
+Arctic Monkeys - Humbug (2009-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
 Skillet - Awake (2009-08-24)

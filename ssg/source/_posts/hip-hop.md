@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:58:01.401Z
+date: 2021-04-09T09:12:02.833Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -27,13 +27,10 @@ Beastie Boys - Licensed to Ill (1986-11-15)
 <li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
 N.W.A - Straight Outta Compton (1988-08-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5470b73-b208-4f26-97d7-a6d8f50921ed/2236356187-500.jpg" data-tags="hip-hop, 80s" role="button">
-Beastie Boys - Paul's Boutique (1989-07-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - The Low End Theory (1991-09-24)
 </li>
-<li data-cover="https://img.discogs.com/3Kh33wiGOhWz6BPIn8fUV9BKwqY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-97528-1249407031.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
+<li data-cover="https://img.discogs.com/gf4LrFf_AeIP9X9HNJ2X-Osg-xk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-242573-1249407184.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
 The Pharcyde - Bizarre Ride II The Pharcyde (1992-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
@@ -60,7 +57,7 @@ Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
 </li>
-<li data-cover="https://img.discogs.com/4XeMGHq5Amyr3RTMy0iBdUOWRfc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309391-1450531695-7510.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
 <li data-cover="https://img.discogs.com/3WuRCIOlOnT69y46Auud_YjD8j0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-158798-1158147180.jpeg.jpg" data-tags="hip-hop" role="button">
@@ -153,10 +150,13 @@ Madvillain - Madvillainy (2004-03-19)
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
+Beastie Boys - To the 5 Boroughs (2004-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/93b725a3-5e68-45e5-9798-5afb29922c5b/2121195763-500.jpg" data-tags="rap, hip-hop, eminem" role="button">
 Eminem - Encore (2004-11-12)
 </li>
-<li data-cover="https://img.discogs.com/ZC5qdddgiu7nfI2pBeS7HkRj3mQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4431342-1565229212-6023.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
@@ -174,7 +174,7 @@ Common - Be (2005-05-23)
 <li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
 Nujabes - Modal Soul (2005-11-11)
 </li>
-<li data-cover="https://img.discogs.com/5qZBClNrEglDQ9x5e1y8Boqy9jY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567992-1249683041.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/bXnt0eXfchKuRrdSJxD7xNAIfS4=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567986-1336610234-2845.jpeg.jpg" data-tags="hip-hop" role="button">
 Fort Minor - The Rising Tied (2005-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f7c0d23-58d9-4bdf-bfd9-e1e420b3ef29/4515569227-500.jpg" data-tags="eminem, rap, hip-hop" role="button">
@@ -246,7 +246,7 @@ Drake - Thank Me Later (2010-06-14)
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
 </li>
-<li data-cover="https://img.discogs.com/dStg3beJhz2BjjG1r7hydZZYQq4=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2605105-1483568416-9401.png.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/mNxZIgAsUaaNsstp-hpfLpKq0rU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2541938-1289600193.jpeg.jpg" data-tags="hip-hop" role="button">
 Kid Cudi - Man on the Moon II: The Legend of Mr. Rager (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
