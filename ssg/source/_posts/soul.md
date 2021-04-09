@@ -1,17 +1,17 @@
 ---
-date: 2021-04-08T00:07:01.436Z
+date: 2021-04-09T16:16:07.042Z
 title: "soul: 100 albums you must listen to before you die"
 ---
-![Beyoncé - Dangerously in Love (2003-03-10)](https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg "Beyoncé - Dangerously in Love (2003-03-10)")
+![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">Beyoncé - Dangerously in Love (2003-03-10)</li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)</li>
+<li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">Christina Aguilera - Back to Basics (2006-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/0b0ca6cc-f793-3dd8-9329-611a9fb08ae2/6136527070-500.jpg" data-tags="soul" role="button">Amy Winehouse - Back to Black (2006-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/6d4e6692-5ecd-457b-bcd5-85baf51c5e10/5179841564-500.jpg" data-tags="soul" role="button">Adele - 19 (2008-01-27)</li>
 <li data-cover="http://coverartarchive.org/release/99eee7d3-a75a-41bd-826f-19a44c53e594/6085827998-500.jpg" data-tags="soul, female vocalists" role="button">Duffy - Rockferry (2008-03-03)</li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">Beyoncé - I Am... Sasha Fierce (2008-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">Adele - 21 (2011-01-19)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">Beyoncé - 4 (2011-06-24)</li>
+<li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">Beyoncé - 4 (2011-06-24)</li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">Frank Ocean - channel ORANGE (2012-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/d893f786-6518-4dd5-beca-8e00589cd41d/11618361045-500.jpg" data-tags="soul, indie rock, blues" role="button">Hozier - Hozier (2014-06-10)</li>
 </ol>
@@ -28,12 +28,15 @@ James Brown - Out of Sight (1965)
 Aretha Franklin - I Never Loved a Man the Way I Love You (1967-03-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+Aretha Franklin - Respect (1968)
+</li>
+<li data-cover="https://img.discogs.com/Dhp36agUeeoYw6M8NAWln714sJA=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4740878-1473527519-9520.jpeg.jpg" data-tags="soul" role="button">
 Otis Redding - The Dock of the Bay (1968-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+<li data-cover="https://img.discogs.com/NmsVUmq9vFd1TzISWaEutHROlws=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9909654-1603646763-2297.jpeg.jpg" data-tags="soul" role="button">
 Bill Withers - Just As I Am (1971-05)
 </li>
 <li data-cover="https://img.discogs.com/_9ng2B8Jgtq2R1FzwZZBmRu2WCQ=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9984176-1558329508-1528.jpeg.jpg" data-tags="soul" role="button">
@@ -57,14 +60,11 @@ Michael Jackson - Off the Wall (1979-08-10)
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, 80s, michael jackson" role="button">
 Michael Jackson - Thriller (1982-11-30)
 </li>
-<li data-cover="https://img.discogs.com/__td2RnfqJr4WkrhbMHQNoO1q8w=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14343405-1572620989-1238.jpeg.jpg" data-tags="soul, 80s" role="button">
+<li data-cover="https://img.discogs.com/15xkxLP4S1_usdxlx6ccsFE_DTc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1499888-1464972288-2969.jpeg.jpg" data-tags="soul, 80s" role="button">
 Sade - Diamond Life (1984-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3811a110-cce0-4ddd-b52f-e12c50190783/1647997357-500.jpg" data-tags="80s, pop, soul, rnb, whitney houston, female vocalists" role="button">
 Whitney Houston - Whitney Houston (1985-02-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
-Aretha Franklin - Respect (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec86745-1482-42dc-b2e0-118caa53504b/1872074680-500.jpg" data-tags="pop, soul" role="button">
 Mariah Carey - Emotions (1991-09-12)
@@ -74,6 +74,9 @@ Michael Jackson - Dangerous (1991-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/448bd78a-9674-425c-8cf6-7e6de719551d/11371804410-500.jpg" data-tags="soul" role="button">
 Sade - Love Deluxe (1992-10-23)
+</li>
+<li data-cover="https://img.discogs.com/FaX2er6kdAsyNed7FHPIi9tRc4M=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654057-1295129981.jpeg.jpg" data-tags="soul" role="button">
+Bill Withers - Lean on Me: The Best of Bill Withers (1994-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
 Toni Braxton - Secrets (1996-06-18)
@@ -99,7 +102,7 @@ Sade - Lovers Rock (1999-11-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="joe, my name is joe, soul, rnb" role="button">
 Joe - My Name Is Joe (2000-04-17)
 </li>
-<li data-cover="https://img.discogs.com/cI253ZuOEPTNkGR-8v0UfkiHBUQ=/fit-in/600x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7900776-1451262150-7233.jpeg.jpg" data-tags="soul, neo-soul" role="button">
+<li data-cover="https://img.discogs.com/I8hP5wDwaFIBa5uKe0z0fDNNxV8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16189786-1605737307-1687.jpeg.jpg" data-tags="soul, neo-soul" role="button">
 Erykah Badu - Mama's Gun (2000-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/778cf2aa-9005-42f9-9996-d70712b2c254/5765282910-500.jpg" data-tags="soul" role="button">
@@ -111,10 +114,7 @@ Destiny's Child - Survivor (2001-04-25)
 <li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
 Alicia Keys - Songs in A Minor (2001-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
-Ben Harper - Diamonds On The Inside (2003-03-05)
-</li>
-<li data-cover="https://img.discogs.com/l9WGUycwINtAcsWyHIihUfr5a1I=/fit-in/600x684/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7745372-1447903889-8803.jpeg.jpg" data-tags="rnb" role="button">
+<li data-cover="https://img.discogs.com/BVQSqwGvZqrlONoIw9PsAxZYP78=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963273-1280519042.jpeg.jpg" data-tags="rnb" role="button">
 Beyoncé - Dangerously in Love (2003-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
@@ -138,7 +138,7 @@ Joss Stone - Mind Body & Soul (2004-09-27)
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
+<li data-cover="https://img.discogs.com/p3iuoIT_ocpEwZAzxDdx-ZVVRmU=/fit-in/500x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2022934-1259106451.jpeg.jpg" data-tags="rnb" role="button">
 Destiny's Child - Destiny Fulfilled (2004-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
@@ -156,14 +156,8 @@ Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/d0445642-1485-3c54-a670-3b577da64906/4161828676-500.jpg" data-tags="pop, soul, rnb" role="button">
 Christina Aguilera - Back to Basics (2006-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c7205e70-8fd1-4a4e-8968-f881c99abc93/12058597172-500.jpg" data-tags="rnb" role="button">
-Beyoncé - B'Day (2006-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
 John Legend - Once Again (2006-10-21)
@@ -252,7 +246,7 @@ The Weeknd - House of Balloons (2011-03-21)
 <li data-cover="http://coverartarchive.org/release/8164140b-6d5f-3a69-a19a-6785446191e9/852058673-500.jpg" data-tags="soul" role="button">
 Jamie Woon - Mirrorwriting (2011-04-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">
+<li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/39df3094-f91b-4c4b-aa96-b1523db67172/3904999236-500.jpg" data-tags="dubstep, soul, 10s" role="button">
@@ -288,17 +282,23 @@ Alicia Keys - Girl on Fire (2012-11-23)
 <li data-cover="https://img.discogs.com/3fpP2kLdPCVQ9PnNb0f9PpOpe8k=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4174227-1357688507-9575.jpeg.jpg" data-tags="soul, rnb" role="button">
 Solange - True (2012-11-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
+Bruno Mars - Unorthodox Jukebox (2012-12-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2a6877-71a3-4819-b2bb-b373deb3a756/8227935106-500.jpg" data-tags="pop" role="button">
 Justin Timberlake - The 20/20 Experience (2013-03-15)
 </li>
-<li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
+<li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/da998b90-83d6-43ea-9a46-55ce0fba83e4/5554522707-500.jpg" data-tags="soul" role="button">
 John Legend - Love in the Future (2013-08-30)
+</li>
+<li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
+Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)

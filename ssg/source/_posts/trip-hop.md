@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T10:26:01.607Z
+date: 2021-04-09T16:24:01.447Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -10,7 +10,7 @@ title: "trip-hop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Mezzanine (1998-04-17)</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">Rob Dougan - Furious Angels (2001)</li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">Massive Attack - 100th Window (2002-12)</li>
-<li data-cover="https://img.discogs.com/cjor1bKuea5JybWWyyJakFaqgVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362662-1212954452.jpeg.jpg" data-tags="trip-hop" role="button">Portishead - Third (2008-04-08)</li>
+<li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">Portishead - Third (2008-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/c5646767-1459-424e-8fc9-798e6932d4dd/1235399189-500.jpg" data-tags="trip-hop" role="button">Massive Attack - Heligoland (2010-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">Lana Del Rey - Born to Die (2012-01-27)</li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)</li>
@@ -36,7 +36,7 @@ Massive Attack - Protection (1994-09-26)
 <li data-cover="http://coverartarchive.org/release/a2780fb0-8280-3b8e-9159-81613d63f71d/1936069114-500.jpg" data-tags="trip-hop" role="button">
 Tricky - Maxinquaye (1995-02-20)
 </li>
-<li data-cover="https://img.discogs.com/RTuwujrJx3ttlEzr-9UPPjAC7rY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3091194-1315302428.jpeg.jpg" data-tags="electronic, alternative" role="button">
+<li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
@@ -51,13 +51,10 @@ Everything But the Girl - Walking Wounded (1996-05-21)
 <li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Becoming X (1996-08-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/5992a7fd-6ade-3895-827a-a7dfdf6ebb51/26921224002-500.jpg" data-tags="electronic, hip-hop" role="button">
-DJ Shadow - Endtroducing..... (1996-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/4172b52f-6e74-4182-a101-7eac30f3bf55/2542250052-500.jpg" data-tags="trip-hop" role="button">
 Lamb - Lamb (1996-09-30)
 </li>
-<li data-cover="https://img.discogs.com/Ux7JgAR8NZmQa7h00g1EMp7FNc0=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5489624-1477073588-1316.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/_9l6Fr6Fj84deZKo7mrWWtHQA_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689740-1294259278.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Faithless - Reverence (1997-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">
@@ -105,7 +102,7 @@ Portishead - Roseland NYC Live (1998-11-02)
 <li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
 Archive - Take My Head (1999-04-20)
 </li>
-<li data-cover="https://img.discogs.com/tKpF3PRI2pdUpFV0sxG5aEFchiY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-175406-1186470303.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/ycAAqej9JjZVWjsTaWLviKRwEiI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1650922-1597839525-1914.jpeg.jpg" data-tags="trip-hop" role="button">
 Lamb - Fear Of Fours (1999-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
@@ -123,7 +120,7 @@ Morcheeba - Fragments of Freedom (2000-07-10)
 <li data-cover="http://coverartarchive.org/release/040fccf3-f78e-40ff-8584-dcb022f539e7/3516392955-500.jpg" data-tags="downtempo, trip-hop" role="button">
 Bonobo - Animal Magic (2000-07-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chillout, trip-hop, downtempo" role="button">
+<li data-cover="https://img.discogs.com/g3vi5x1JYbjTD8eb51HI2FpxOxo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13764-1334923424.jpeg.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Thievery Corporation - The Mirror Conspiracy (2000-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d2317a8-c9f5-413e-a154-5690a4a0d4fd/25350299399-500.jpg" data-tags="trip-hop" role="button">
@@ -144,13 +141,19 @@ Zero 7 - Simple Things (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/51622cb0-251f-4cf8-8e1c-79a27c340e24/4049466485-500.jpg" data-tags="electronic, chillout, downtempo, trip-hop" role="button">
 Télépopmusik - Genetic World (2001-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/86064722-1df6-3ade-ae5f-30cb7542c7a9/28689862312-500.jpg" data-tags="electronic" role="button">
+Faithless - Outrospective (2001-06-08)
+</li>
+<li data-cover="https://img.discogs.com/PGUuH0Vf9pSYFpNUt1bjQ_iyT6k=/fit-in/508x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2252237-1342980339-4303.jpeg.jpg" data-tags="trip-hop" role="button">
+Tricky - Blowback (2001-06-20)
+</li>
 <li data-cover="https://img.discogs.com/jmWEyDO16kNXmvl9evyBzsUdK0g=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2876887-1584239708-8952.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Kosheen - Resist (2001-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
 Lamb - What Sound (2001-10-08)
 </li>
-<li data-cover="https://img.discogs.com/9FQ13EQw4x6vzutUmK8AKwkAPOk=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820944-1165896636.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/lU8JOpVOHgwTfqSW8uc0IhKzrUM=/fit-in/553x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290388-1206828056.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Bloodsport (2002-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c620cc8-b21f-4a9a-aade-236d952362ab/9476189376-500.jpg" data-tags="trip-hop" role="button">
@@ -186,6 +189,9 @@ Martina Topley-Bird - Quixotic (2003-06)
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0cd2528-ed2e-3f74-bcda-8c7e97e9f221/21326685665-500.jpg" data-tags="chillout, trip-hop, morcheeba" role="button">
+Morcheeba - Parts of the Process (2003-06-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/65ae7726-7129-4456-ac20-e3e0e84e1f05/26300515610-500.jpg" data-tags="trip-hop" role="button">
 UNKLE - Never, Never, Land (2003-09-22)
 </li>
@@ -195,7 +201,7 @@ Lamb - Between Darkness And Wonder (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/6ca7f4c7-e62c-4bc6-97cd-04b25f90b512/8250118267-500.jpg" data-tags="chillout, sia, female vocalists" role="button">
 Sia - Colour the Small One (2004-01-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="downtempo, trip-hop, ninja tune" role="button">
+<li data-cover="https://img.discogs.com/3OWnvD8SUZ4ZL0jcKAIgOu3lfaA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240347-1249301053.jpeg.jpg" data-tags="downtempo, trip-hop, ninja tune" role="button">
 Blockhead - Music By Cavelight (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/096bfa52-c298-4a55-a663-ce2da11448ba/28674249434-500.jpg" data-tags="trip-hop" role="button">
@@ -216,11 +222,11 @@ Thievery Corporation - The Cosmic Game (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
+<li data-cover="https://img.discogs.com/wGPXjhM9s0n64Jl-9DR16diSS8Y=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887196-1178185061.jpeg.jpg" data-tags="trip-hop" role="button">
+Pati Yang - Silent Treatment (2005-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f59c5f9-10f2-4a7e-bbad-1a9ba66cfd58/26309277066-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Yonderboi - SPLENDID ISOLATION (2005-10-21)
-</li>
-<li data-cover="https://img.discogs.com/Ow3Afko6fXG3TxPVpaAT7myTh_k=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-751304-1278286208.jpeg.jpg" data-tags="chillout, trip-hop, female vocalists, downtempo" role="button">
-Bitter:Sweet - The Mating Game (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae6389a7-cd8c-3e62-8db1-1b9a9e6e27b9/4394479901-500.jpg" data-tags="downtempo, chillout" role="button">
 Nightmares on Wax - In A Space Outta Sound (2006-01)
@@ -252,8 +258,8 @@ Elsiane - Hybrid (2007-04-07)
 <li data-cover="http://coverartarchive.org/release/176834c5-0a32-31b1-aa5e-ada3037202e5/22417025585-500.jpg" data-tags="trip-hop, electronic" role="button">
 UNKLE - War Stories (2007-06-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c1f9dc2-fb74-4e32-8f00-4fc1c9d530b2/5430078227-500.jpg" data-tags="trip-hop, chillout" role="button">
-Little Dragon - Little Dragon (2007-08-15)
+<li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">
+Stateless - Stateless (2007-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a188e6af-c574-4702-972d-1942eeb9cf8b/4196199949-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Dive Deep (2008-02-04)
@@ -261,8 +267,11 @@ Morcheeba - Dive Deep (2008-02-04)
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
 </li>
-<li data-cover="https://img.discogs.com/cjor1bKuea5JybWWyyJakFaqgVc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1362662-1212954452.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/TpNNXxoWE3RgXVV8X0NzByleZVg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402425-1279007160.jpeg.jpg" data-tags="trip-hop" role="button">
 Portishead - Third (2008-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
+Martina Topley-Bird - The Blue God (2008-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6c8607-a528-4497-bb7b-436914cf7512/2094787478-500.jpg" data-tags="pop, alternative" role="button">
 Emilíana Torrini - Me And Armini (2008-09-06)
@@ -270,14 +279,8 @@ Emilíana Torrini - Me And Armini (2008-09-06)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
-<li data-cover="https://img.discogs.com/5fhYAthYMO7Zk-qhzSStks4MKHk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1890282-1250423172.jpeg.jpg" data-tags="electronic, electronica, trip-hop" role="button">
-Little Dragon - Machine Dreams (2009-08-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
 Phantogram - Eyelid Movies (2009-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/18f7fed3-af15-3ab5-8a4a-63e57ff422aa/12812722512-500.jpg" data-tags="trip-hop" role="button">
-Blockhead - The Music Scene (2009-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
@@ -317,8 +320,5 @@ Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/192ef3d0-9f54-426c-9485-b867c7d3798b/6482224398-500.jpg" data-tags="indie pop, trip-hop, alternative" role="button">
 Phantogram - Voices (2014-02-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/a50f9ba3-5891-4f22-b5da-edf84cc04b0c/7598730014-500.jpg" data-tags="electronic, alternative rnb" role="button">
-FKA twigs - LP1 (2014-08-06)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T19:21:01.393Z
+date: 2021-04-09T16:17:01.455Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -8,7 +8,7 @@ title: "pop punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">Green Day - American Idiot (2004-09-20)</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">Fall Out Boy - From Under the Cork Tree (2005-05-03)</li>
 <li data-cover="http://coverartarchive.org/release/99c3f86a-eac2-42b6-b24c-342dc604252a/20614244026-500.jpg" data-tags="pop punk, rock" role="button">Paramore - All We Know Is Falling (2005-07-26)</li>
-<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">The All-American Rejects - Move Along (2006)</li>
+<li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">The All-American Rejects - Move Along (2006)</li>
 <li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">Yellowcard - Lights and Sounds (2006-01-18)</li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">Fall Out Boy - Infinity on High (2007-02-05)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
@@ -33,7 +33,7 @@ Green Day - Nimrod (1997-10-10)
 <li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
 </li>
-<li data-cover="https://img.discogs.com/9s7V36cdK6LFhzB3aO_5J48R_QI=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6057439-1409970535-6569.jpeg.jpg" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/i9uA0TZJ9Q72ePh9e-V5XWwgSIA=/fit-in/296x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836667-1246787710.jpeg.jpg" data-tags="alternative rock" role="button">
 Lit - A Place in the Sun (1999-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c99bcef0-0809-42c0-8fe7-7273d3a59d0f/9767229393-500.jpg" data-tags="pop punk" role="button">
@@ -48,9 +48,6 @@ Good Charlotte - Good Charlotte (2000-04-09)
 <li data-cover="http://coverartarchive.org/release/20d8fdf6-d08c-4384-8204-abdb87408aec/10858824360-500.jpg" data-tags="pop punk" role="button">
 Bowling for Soup - Drunk Enough to Dance (2000-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/3dca0597-41ea-4e38-9e4e-34c6e3834a43/14491346002-500.jpg" data-tags="pop punk" role="button">
-New Found Glory - New Found Glory (2000-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/d1dc23ce-a039-3667-b7e0-e151ce560ba1/17499691187-500.jpg" data-tags="pop punk" role="button">
 Sugarcult - Start Static (2001-03-24)
 </li>
@@ -63,7 +60,7 @@ Jimmy Eat World - Bleed American (2001-07-18)
 <li data-cover="http://coverartarchive.org/release/bd98ccf6-f2fe-4eef-8104-4acf5b315414/4724001049-500.jpg" data-tags="pop punk, emo" role="button">
 Brand New - Your Favorite Weapon (2001-10-09)
 </li>
-<li data-cover="https://img.discogs.com/wfrO81Ve6qaFMmh6yV1Wio1_1tU=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5318091-1390410555-8121.jpeg.jpg" data-tags="pop punk" role="button">
+<li data-cover="https://img.discogs.com/tfulD_HMi8UtHRtBXTnttjY4O5U=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459751-1371414323-2301.jpeg.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - I Am the Movie (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/65296404-abf2-4350-bfce-9debdea014a2/27060000097-500.jpg" data-tags="pop punk, rock, alternative rock" role="button">
@@ -99,9 +96,6 @@ Yellowcard - Ocean Avenue (2003-07-22)
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f5c0d54-e9fa-3957-ab67-4c30ddb53262/23390004827-500.jpg" data-tags="rock, pop punk" role="button">
-Sugarcult - Palm Trees and Power Lines (2004-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/841ec76f-f536-468d-b8ab-069923b4db17/15998647154-500.jpg" data-tags="pop punk, punk rock" role="button">
 New Found Glory - Catalyst (2004-05-18)
 </li>
@@ -120,7 +114,7 @@ Good Charlotte - The Chronicles of Life and Death (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
 Simple Plan - Still Not Getting Any (2004-10-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian, pop punk, rock" role="button">
+<li data-cover="https://img.discogs.com/iJskKmwAOtSy8DqLjYHV9iZZqL8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104965-1264272700.jpeg.jpg" data-tags="christian rock, christian, pop punk, rock" role="button">
 Relient K - Mmhmm (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
@@ -153,7 +147,7 @@ Cartel - Chroma (2005-09-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
 Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
 </li>
-<li data-cover="https://img.discogs.com/PPIOqWBJgukvZXymgQuudz6oGE0=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788721-1317772788.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">
@@ -162,8 +156,11 @@ Yellowcard - Lights and Sounds (2006-01-18)
 <li data-cover="http://coverartarchive.org/release/d6cd5fc3-53b3-475c-90e1-a967e999ad4a/15586885193-500.jpg" data-tags="pop punk" role="button">
 Zebrahead - Broadcast To The World (2006-02-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
+<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="pop punk" role="button">
 Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/4c48cfa2-ae58-4ada-8f9f-5519b2f02612/25999493974-500.jpg" data-tags="hardcore, pop punk, easycore, the best albums ever, my top 100 albums, albums that i fucking love" role="button">
+Set Your Goals - Mutiny! (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d75d73f2-b776-40a0-8379-8d5d2ac84920/10226803952-500.jpg" data-tags="pop punk" role="button">
 All Time Low - Put Up or Shut Up (2006-07-25)
@@ -261,10 +258,13 @@ You Me at Six - Take Off Your Colours (2008-10-06)
 <li data-cover="http://coverartarchive.org/release/eb62259a-db3c-4b42-81de-55aebc7934a8/17601500085-500.jpg" data-tags="powerpop, pop punk" role="button">
 Hey Monday - Hold On Tight (2008-10-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/87fa0459-f9b1-4ed7-bbb1-95f032b24647/14506036638-500.jpg" data-tags="alternative, paramore, twilight, rock" role="button">
+Paramore - Decode (2008-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Folie à deux (2008-12-10)
 </li>
-<li data-cover="https://img.discogs.com/f7U71TW78iTsAmU3YTnnZEbZOag=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3318367-1325538474.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
+<li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/89dd0390-5a5d-457f-900e-90fd1c43f077/10226970067-500.jpg" data-tags="pop punk" role="button">
@@ -312,7 +312,7 @@ Simple Plan - Get Your Heart On! (2011-06-14)
 <li data-cover="http://coverartarchive.org/release/3c2b6d42-0f71-4345-9b81-ec63ba95bffd/15128577308-500.jpg" data-tags="alternative rock, pop punk" role="button">
 You Me at Six - Sinners Never Sleep (2011-09-30)
 </li>
-<li data-cover="https://img.discogs.com/gqV7z6TvbtaV1-ZYmoScs8X-Qc8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6018432-1408954698-5308.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/L6NVuEixZxVeRUlxeE7UELIBe8M=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4541497-1367852155-3362.jpeg.jpg" data-tags="alternative, rock, pop punk, alternative rock" role="button">
 Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">

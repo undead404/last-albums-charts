@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:28:01.598Z
+date: 2021-04-09T16:39:01.505Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -33,7 +33,7 @@ Global Communication - 76:14 (1994)
 <li data-cover="http://coverartarchive.org/release/0adc63d5-7d87-33e2-9f32-82f45fefb916/15268064026-500.jpg" data-tags="electronic" role="button">
 Leftfield - Leftism (1995-01-30)
 </li>
-<li data-cover="https://img.discogs.com/RTuwujrJx3ttlEzr-9UPPjAC7rY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3091194-1315302428.jpeg.jpg" data-tags="electronic, alternative" role="button">
+<li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/35d9659d-b728-3241-a9d9-c454b71bcff3/14779102078-500.jpg" data-tags="trip-hop" role="button">
@@ -60,7 +60,7 @@ Air - Moon Safari (1998-01-16)
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
 </li>
-<li data-cover="https://img.discogs.com/cyPiEmQuKpLEFJF5QLJbqs3lszI=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817322-1175615429.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
+<li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/330c3637-e90a-4dc6-8f1f-2a08b367702a/13513499886-500.jpg" data-tags="electronica, alternative, indie pop, indie rock, driving music, original, innovative, 90's, shore, hyllan i mitt huvud, excellent albums, sveglia dolce, encenacoes sobre o tema, dormindo na praia, i will now proceed to sell three copies of  the three eps by the beta band, scottish ergo the best, memories of undergrad, indigolab, le pietre miliari: ovvero come imparai a non preoccuparmi e ad amare la musica" role="button">
@@ -114,7 +114,7 @@ Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
 </li>
-<li data-cover="https://img.discogs.com/dwUp27qEL88PzCYRgc2iUrDGMlc=/fit-in/464x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7045755-1437218119-3187.png.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/StqPQsGS1lBDPXhOUNG8_Zwf4I0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-482940-1121544057.jpg.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Come With Us (2002-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f6ab213-47e7-3653-b076-dc08eadf7666/14666711242-500.jpg" data-tags="electronica, chillout" role="button">
@@ -131,9 +131,6 @@ The Postal Service - Give Up (2003-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
 Goldfrapp - Black Cherry (2003-04-23)
-</li>
-<li data-cover="https://img.discogs.com/rHaFgXBXr2hDoBqA0sEKSuvtYa0=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-124722-1289212679.jpeg.jpg" data-tags="electronic" role="button">
-Four Tet - Rounds (2003-05-05)
 </li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
@@ -156,10 +153,13 @@ Ratatat - Ratatat (2004-04-19)
 <li data-cover="http://coverartarchive.org/release/2079f767-51df-45bf-8c56-86faf2f7286e/4645426278-500.jpg" data-tags="electronic, electronica" role="button">
 Hot Chip - Coming on Strong (2004-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/fd01efd0-91ef-4a6a-832b-a4945c233cbf/11348812197-500.jpg" data-tags="electronic, ambient" role="button">
+Tycho - Past Is Prologue (2004-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/7ee6bc56-f959-3474-a1c1-dad054e6a02d/10309050413-500.jpg" data-tags="electronic" role="button">
 The Chemical Brothers - Push the Button (2004-12)
 </li>
-<li data-cover="https://img.discogs.com/w7HTqBIxHr1IaOv0g3fxyPoCNYs=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2372262-1280175880.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/qaIHMHNUV09ChF8zB0FBsdkgHl4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376466-1470732678-1607.jpeg.jpg" data-tags="electronic" role="button">
 LCD Soundsystem - LCD Soundsystem (2005-01-19)
 </li>
 <li data-cover="https://img.discogs.com/jdPiUZOcgnrTLq_uVxKCCsyCwqA=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823695-1458112085-5068.jpeg.jpg" data-tags="electronica, electropop, shiny toy guns, alternative" role="button">
@@ -186,14 +186,14 @@ Goldfrapp - Supernature (2005-08-22)
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
-<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
-The Knife - Silent Shout (2006-02-15)
+<li data-cover="http://coverartarchive.org/release/ae6389a7-cd8c-3e62-8db1-1b9a9e6e27b9/4394479901-500.jpg" data-tags="downtempo, chillout" role="button">
+Nightmares on Wax - In A Space Outta Sound (2006-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic" role="button">
 Thom Yorke - The Eraser (2006-07-05)
 </li>
-<li data-cover="https://img.discogs.com/saAGJLlLRCUAp6Sw91NAAmZOo-0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3188075-1343070458-5728.jpeg.jpg" data-tags="electronic, emusic, electronica, acquire" role="button">
-Passion Pit - Chunk of Change (2007)
+<li data-cover="http://coverartarchive.org/release/2a44e673-1ebb-3215-a2be-86f7f1f1f8b2/10132312693-500.jpg" data-tags="electronic" role="button">
+Ratatat - Classics (2006-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
@@ -209,9 +209,6 @@ The Chemical Brothers - We Are The Night (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
 New Young Pony Club - Fantastic Playroom (2007-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
-Metro Station - Metro Station (2007-09-18)
 </li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
@@ -240,14 +237,14 @@ Röyksopp - Junior (2009-03-18)
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, indie" role="button">
+<li data-cover="https://img.discogs.com/yZUT6xPI8XVF_3yDlv0wSI84uCs=/fit-in/600x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1668437-1237888609.jpeg.jpg" data-tags="electronica, indie" role="button">
 Empire of the Sun - We Are The People (2009-05-31)
+</li>
+<li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
+Miike Snow - Miike Snow (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
-</li>
-<li data-cover="https://img.discogs.com/5fhYAthYMO7Zk-qhzSStks4MKHk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1890282-1250423172.jpeg.jpg" data-tags="electronic, electronica, trip-hop" role="button">
-Little Dragon - Machine Dreams (2009-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/49eefb52-d716-450c-a60d-115f1c4f4240/1472462701-500.jpg" data-tags="electronic, electronica, electropop, synthpop" role="button">
 Miami Horror - Sometimes (2009-11-20)
@@ -273,11 +270,14 @@ Crystal Castles - Crystal Castles (2010-05-18)
 <li data-cover="http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg" data-tags="drum and bass" role="button">
 Pendulum - Immersion (2010-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/4467860a-0faf-477a-ad90-897fe7944615/8250459831-500.jpg" data-tags="hip hop, electronica" role="button">
-Far East Movement - Free Wired (2010-10-09)
+<li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
+Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2022e3f-c22f-45c9-a1ab-4b2094d65719/23945397989-500.jpg" data-tags="electronic, electronica, minimal" role="button">
 Nicolas Jaar - Space Is Only Noise (2011-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
+Washed Out - Within and Without (2011-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e482fee8-b5c2-4a3d-8236-97b9a23b329b/11431037022-500.jpg" data-tags="house, electronic" role="button">
 David Guetta - Nothing But The Beat (2011-08-24)
@@ -288,17 +288,17 @@ M.I.A. - Bad Girls (2012-01-31)
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/f71c093a-2791-455a-b30f-c9ce8b0701b6/9559450051-500.jpg" data-tags="downtempo, electronic, electronica" role="button">
-XXYYXX - XXYYXX (2012-03-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
 </li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)
 </li>
-<li data-cover="https://img.discogs.com/Fc3zWW02lcBDhoIb7F0GNqH6Cpk=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468927-1462915153-5331.jpeg.jpg" data-tags="electronic, soul" role="button">
+<li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ddd2084-2f0a-432d-a5ed-f14ad151ea87/3912567094-500.jpg" data-tags="electronica, hip hop, dance pop, hip house, electronic dance" role="button">
+will.i.am - #willpower (2013-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
 Daft Punk - Random Access Memories (2013-05-17)

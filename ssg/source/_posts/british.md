@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T22:46:07.577Z
+date: 2021-04-09T16:31:06.993Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -9,7 +9,7 @@ title: "british: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">Kate Nash - Made of Bricks (2007-08-06)</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">Radiohead - In Rainbows (2007-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
-<li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">Arctic Monkeys - Humbug (2009-08-19)</li>
+<li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">Adele - 21 (2011-01-19)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
@@ -24,8 +24,11 @@ _________________
 <li data-cover="http://coverartarchive.org/release/44b7cab1-0ce1-404e-9089-b458eb3fa530/1229779722-500.jpg" data-tags="classic rock, 60s, psychedelic" role="button">
 The Beatles - Sgt. Pepper's Lonely Hearts Club Band (1967-06-01)
 </li>
-<li data-cover="https://img.discogs.com/hVLi4onB2uJqOpw8OIYwJQZAbp4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4801503-1505412258-9611.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - Abbey Road (1969-09-26)
+</li>
+<li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
+The Beatles - Let It Be (1970-05-08)
 </li>
 <li data-cover="https://img.discogs.com/HF1ofkULuDsTL_V2UxdDttIS7Jk=/fit-in/600x731/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4713437-1375187103-5195.jpeg.jpg" data-tags="80s" role="button">
 The Smiths - The Queen Is Dead (1986-06-16)
@@ -33,7 +36,7 @@ The Smiths - The Queen Is Dead (1986-06-16)
 <li data-cover="http://coverartarchive.org/release/ab1e29e7-182d-4a5e-beae-f85ff9ac86d7/5791153967-500.jpg" data-tags="britpop, indie, madchester" role="button">
 The Stone Roses - The Stone Roses (1989-04)
 </li>
-<li data-cover="https://img.discogs.com/SbiREqGVqtJpp9IWTupHfJ06aZ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13068383-1547486816-4724.jpeg.jpg" data-tags="alternative rock, rock" role="button">
+<li data-cover="https://img.discogs.com/xqf09tHFSiPR9_WfaJUpGLq_MFw=/fit-in/485x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660270-1433472219-9062.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/9822581d-98bf-3f97-a94c-4b1350d090aa/1435221321-500.jpg" data-tags="britpop" role="button">
@@ -66,6 +69,9 @@ Radiohead - Kid A (2000-08-03)
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
+Radiohead - Amnesiac (2001-06-04)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="britpop, travis" role="button">
 Travis - The Invisible Band (2001-06-10)
 </li>
@@ -87,7 +93,7 @@ The Libertines - Up the Bracket (2002-09-30)
 <li data-cover="http://coverartarchive.org/release/4af3d5df-674c-3d37-903c-b9ced24d5c3a/21168360245-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Escapology (2002-11-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative, 2003" role="button">
+<li data-cover="http://coverartarchive.org/release/60f36c0c-cdcc-34e5-a055-bc3c1843140d/6496042557-500.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - Hail to the Thief (2003-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/054cda68-baca-455e-9fdb-8c9663be2280/21752177114-500.jpg" data-tags="indie, alternative, indie rock, rock" role="button">
@@ -123,9 +129,6 @@ Bloc Party - Silent Alarm (2005-02-02)
 <li data-cover="https://img.discogs.com/fx-3qtaLGu4XcxypfYKwWSLP_i0=/fit-in/549x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501014-1389844857-4827.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/7abad537-2974-3d4f-9b62-e5e5f03cd1a1/7544348813-500.jpg" data-tags="indie, rock, british, indie rock" role="button">
-Arctic Monkeys - I Bet You Look Good on the Dancefloor (2005-05-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
@@ -141,10 +144,7 @@ Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 <li data-cover="http://coverartarchive.org/release/73c90aa6-3a82-3429-829a-7e319862232e/10436369674-500.jpg" data-tags="indie, british" role="button">
 Babyshambles - Down in Albion (2005-11-14)
 </li>
-<li data-cover="https://img.discogs.com/0gHuTNiSB86CcDPGzwcxwNgElYo=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612218-1342467380-7833.jpeg.jpg" data-tags="indie, indie rock" role="button">
-Arctic Monkeys - When the Sun Goes Down (2005-12-09)
-</li>
-<li data-cover="https://img.discogs.com/PCmkZ2NyDReemZdjRlMy8WVF6ZU=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-849535-1432632499-7270.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/UgYBf3eY904cb7WoJCaJgScI9yc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4047995-1510080801-8275.jpeg.jpg" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
@@ -153,7 +153,7 @@ Placebo - Meds (2006-03-10)
 <li data-cover="http://coverartarchive.org/release/7e81cca2-fb08-4155-9bac-9d998b2ac952/27084035714-500.jpg" data-tags="indie rock, rock, british, indie" role="button">
 Dirty Pretty Things - Waterloo To Anywhere (2006-05-05)
 </li>
-<li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
+<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
@@ -174,9 +174,6 @@ The Pipettes - We Are The Pipettes (2006-07-17)
 <li data-cover="https://img.discogs.com/4fV88R-4UZfICgS7tZ9HaXL4pNk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-929730-1174010117.jpeg.jpg" data-tags="pop" role="button">
 James Morrison - Undiscovered (2006-07-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/7c7e56a7-37e8-361e-b1e0-676af3fd677f/1923976768-500.jpg" data-tags="british, alternative" role="button">
-Arctic Monkeys - Leave Before the Lights Come On (2006-08-12)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Kasabian - Empire (2006-08-25)
 </li>
@@ -192,7 +189,7 @@ The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 <li data-cover="https://img.discogs.com/swhvMXzxFWhVCisSb0vI8ljApwI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-914722-1313695743.jpeg.jpg" data-tags="new rave, indie" role="button">
 Klaxons - Myths of the Near Future (2007-01-29)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/FJRuQ-u_ekJz7axuWvYJow0CTTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326266-1508526547-8034.jpeg.jpg" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock, rock, britpop" role="button">
@@ -204,10 +201,7 @@ Editors - An End Has A Start (2007-04-11)
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">
 Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="british, indie rock, indie" role="button">
-Arctic Monkeys - Fluorescent Adolescent (2007-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, uk, somgwriters" role="button">
+<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
 Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
@@ -222,7 +216,7 @@ Adele - 19 (2008-01-27)
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
 </li>
-<li data-cover="https://img.discogs.com/Tm4kXdNQr84UcRb74wTdVWb6wiA=/fit-in/450x426/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1409572-1217259816.jpeg.jpg" data-tags="rnb, soul" role="button">
+<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/108ff541-d605-3cd0-bd71-c7626dd224c3/15041273179-500.jpg" data-tags="indie, indie rock" role="button">
@@ -264,8 +258,14 @@ Muse - The Resistance (2009-09-10)
 <li data-cover="http://coverartarchive.org/release/d751cba4-242e-46d8-b230-3ca1d4e59b85/2484431634-500.jpg" data-tags="folk" role="button">
 Mumford & Sons - Sigh No More (2009-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/a0ae9288-8038-3ed8-bfa8-5ea39ef7ecc8/4174517606-500.jpg" data-tags="indie rock" role="button">
+Foals - Total Life Forever (2010-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg" data-tags="soul" role="button">
 Adele - 21 (2011-01-19)
+</li>
+<li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
+PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
 Jessie J - Who You Are (2011-02-28)
@@ -273,7 +273,7 @@ Jessie J - Who You Are (2011-02-28)
 <li data-cover="http://coverartarchive.org/release/0aa504b0-fcd0-4238-9227-06f716c63947/6574183605-500.jpg" data-tags="british, indie rock" role="button">
 Miles Kane - Colour Of The Trap (2011-05-02)
 </li>
-<li data-cover="https://img.discogs.com/vjwVB4XXn3Y3-5HLULMX4DE4uXU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12606672-1538485792-3152.jpeg.jpg" data-tags="indie, british" role="button">
+<li data-cover="https://img.discogs.com/abRY-5o6lCF87mUWuor3axUjcOM=/fit-in/240x210/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8819097-1469442397-2699.jpeg.jpg" data-tags="indie, british" role="button">
 The Kooks - Junk of the Heart (2011-07-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">

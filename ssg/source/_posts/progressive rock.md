@@ -1,12 +1,12 @@
 ---
-date: 2021-04-07T07:32:01.455Z
+date: 2021-04-09T16:29:02.036Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7acaa9ab-048c-3c82-8623-ea9b777137ac/2550522708-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Meddle (1971-10-30)</li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Wish You Were Here (1975-09-12)</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - Animals (1977-01-23)</li>
-<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">Genesis - Invisible Touch (1986-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/a1a86e05-c23f-4a40-b50a-14dd7da379f2/14630330088-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Division Bell (1994-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">Pink Floyd - The Dark Side Of The Moon (1995-05-29)</li>
 <li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
@@ -48,7 +48,7 @@ Pink Floyd - Meddle (1971-10-30)
 <li data-cover="http://coverartarchive.org/release/c7328e28-9d79-4025-a804-21362e0465a6/7295032524-500.jpg" data-tags="progressive rock" role="button">
 Yes - Fragile (1971-11-12)
 </li>
-<li data-cover="https://img.discogs.com/H5oODcDFqsTdAgHElEeZewNX7oo=/fit-in/562x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1579909-1229893753.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/IkuVyF5le_aG2neyEscSuSPmMXI=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1520895-1225746667.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Wishbone Ash - Argus (1972-04-28)
 </li>
 <li data-cover="https://img.discogs.com/zc3ziFn38yiirxhkQ69ag_DjLe0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-643604-1280147837.jpeg.jpg" data-tags="progressive rock" role="button">
@@ -96,7 +96,7 @@ Rush - A Farewell to Kings (1977-09)
 <li data-cover="http://coverartarchive.org/release/36594124-8097-3af9-891a-8a03b154c79b/23541528287-500.jpg" data-tags="classic rock, 70s" role="button">
 Electric Light Orchestra - Out of the Blue (1977-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive rock, classic rock" role="button">
+<li data-cover="https://img.discogs.com/D2RQsNF6Xy4pLu5F_T1HU31r7AY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2844673-1303658387.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Kansas - Point of Know Return (1977-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d779ab27-4095-4ad9-9663-d4ffd567aa4e/7238834741-500.jpg" data-tags="classic rock, progressive rock, 70s" role="button">
@@ -131,9 +131,6 @@ Genesis - Genesis (1983-10-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Kansas - The Best of Kansas (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/778c8867-ee94-366a-bcd8-e140cfbf1b67/16598892344-500.jpg" data-tags="80s, female vocalists" role="button">
-Kate Bush - Hounds of Love (1985-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bc83ff3-ac0e-4fa5-8dfc-a5aa1bf57afd/15367001320-500.jpg" data-tags="progressive rock, 80s" role="button">
 Peter Gabriel - So (1986-05-19)
@@ -281,6 +278,9 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/af8722d8-6248-4b9c-9d30-2183eafa2ed9/7955669731-500.jpg" data-tags="rock, alternative, alternative rock, indie" role="button">
+Radiohead - The Best Of (2008-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac6cd22-58bd-40fe-aaf6-4746bdb9a684/14740011088-500.jpg" data-tags="progressive rock" role="button">
 Karnivool - Sound Awake (2009-06-05)

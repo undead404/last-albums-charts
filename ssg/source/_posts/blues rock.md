@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:21:01.446Z
+date: 2021-04-09T16:43:01.456Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -24,11 +24,8 @@ _________________
 <li data-cover="https://img.discogs.com/0h4cQRflb7QZo0Nwbtf1YTTIbKM=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5051745-1392911107-7148.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Fresh Cream (1966-12-09)
 </li>
-<li data-cover="https://img.discogs.com/Q9nF04xwoW0BfbMUEUdXET3jV84=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3179262-1590077335-9715.jpeg.jpg" data-tags="psychedelic rock, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/Vu4jQjQNYVfIU-IOManIkLcna3U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2018049-1510345968-8926.jpeg.jpg" data-tags="psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Are You Experienced (1967-05-12)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="psychedelic" role="button">
-Captain Beefheart & His Magic Band - Safe As Milk (1967-09)
 </li>
 <li data-cover="https://img.discogs.com/JsopqGSweccxL0U-dy5xFQ73d-Q=/fit-in/461x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4486102-1366259991-5187.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Cream - Disraeli Gears (1967-11-02)
@@ -36,10 +33,7 @@ Cream - Disraeli Gears (1967-11-02)
 <li data-cover="http://coverartarchive.org/release/a2662ae2-f06b-3cdd-892f-596646c03558/4119591705-500.jpg" data-tags="psychedelic, rock, psychedelic rock, classic rock" role="button">
 The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6e3a5a2-d2be-4806-9afb-9e2fd4914d32/7717083844-500.jpg" data-tags="blues rock" role="button">
-Cream - Wheels Of Fire (1968)
-</li>
-<li data-cover="https://img.discogs.com/GgrP5R36QMMRWmtgFI97UUoaVY8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043933-1478316548-9643.jpeg.jpg" data-tags="hard rock" role="button">
+<li data-cover="https://img.discogs.com/KLPzH0u3SHV4jySHL4SarimNTCQ=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-507037-1577718686-2776.jpeg.jpg" data-tags="hard rock" role="button">
 Steppenwolf - Steppenwolf (1968-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/473711eb-af58-3041-852f-652554dd67a0/19844937707-500.jpg" data-tags="blues rock, psychedelic rock, 60s, hard rock" role="button">
@@ -48,10 +42,7 @@ Blue Cheer - Vincebus Eruptum (1968-01-16)
 <li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
 Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/b2540ce2-7f94-41c4-98ac-1295a7ef28b4/15832539133-500.jpg" data-tags="classic rock, 60s, psychedelic, rock" role="button">
-Big Brother & The Holding Company - Cheap Thrills (1968-08-17)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8345dc9c-b9c4-3d11-9a29-828b6e235c6a/22775211332-500.jpg" data-tags="classic rock, rock, 60s" role="button">
@@ -71,6 +62,9 @@ Led Zeppelin - Led Zeppelin II (1969-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2ca3b22-f3cc-40c0-b2d3-f4e1d6602106/3010820345-500.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Rolling Stones - Let It Bleed (1969-11-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/ced20f68-1f23-47ed-b553-bd6ea460b343/9615267927-500.jpg" data-tags="classic rock, hard rock" role="button">
+Mountain - Climbing! (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc92d940-c04c-4f71-8f3c-0c85fceda187/5918784034-500.jpg" data-tags="psychedelic rock, classic rock" role="button">
 The Doors - Morrison Hotel (1970-02)
@@ -117,7 +111,7 @@ ZZ Top - Tres Hombres (1973-07-26)
 <li data-cover="http://coverartarchive.org/release/be1fba3d-6f56-4441-bd88-d41f5140231f/20152394682-500.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Second Helping (1974)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Physical Graffiti (1975-02-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
@@ -131,6 +125,12 @@ AC/DC - High Voltage (1976-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc9db2d0-81bc-4345-8cf3-ce5182375460/6270387530-500.jpg" data-tags="blues rock" role="button">
 Eric Clapton - Slowhand (1977)
+</li>
+<li data-cover="http://coverartarchive.org/release/92746377-783d-3355-af9d-229a6edfd6ff/7383924116-500.jpg" data-tags="hard rock" role="button">
+AC/DC - Let There Be Rock (1977-03-21)
+</li>
+<li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
+Led Zeppelin - In Through the Out Door (1979-08-15)
 </li>
 <li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - Coda (1982-11-19)
@@ -147,7 +147,7 @@ Stevie Ray Vaughan and Double Trouble - Couldn't Stand The Weather (1984)
 <li data-cover="http://coverartarchive.org/release/98a283ff-5b66-4d1a-8add-53d11d278ac5/11547120929-500.jpg" data-tags="blues rock" role="button">
 ZZ Top - Afterburner (1985-10-28)
 </li>
-<li data-cover="https://img.discogs.com/P0jUt_cw4VeHqv7Y1B1nTJ5V_uU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6291819-1415727982-2977.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
+<li data-cover="https://img.discogs.com/fISgBv4TlgKJwY1Pfk-pc0r2LxA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-496480-1380477165-9855.jpeg.jpg" data-tags="psychedelic rock, classic rock, 60s" role="button">
 The Doors - The Doors (1988)
 </li>
 <li data-cover="https://img.discogs.com/VJt5Q6CCIHtpsGDaKnvRZHhRhn8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043504-1494443705-7845.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
@@ -159,6 +159,9 @@ Cinderella - Long Cold Winter (1988-07-05)
 <li data-cover="http://coverartarchive.org/release/656243aa-0033-448c-91e1-ae50a0f5ac0d/16084924681-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Danzig - Danzig (1988-08-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/b3268008-89d0-365b-9900-105250b25c81/6867563168-500.jpg" data-tags="blues rock" role="button">
+Eric Clapton - Journeyman (1989-10-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/c6c75e57-414f-46bc-a637-5ff14ba5d32e/14922531597-500.jpg" data-tags="blues rock" role="button">
 Steve Miller Band - The Joker (1990)
 </li>
@@ -168,11 +171,14 @@ The Black Crowes - Shake Your Money Maker (1990-01-24)
 <li data-cover="http://coverartarchive.org/release/b96e7620-18b1-494b-a7c7-19faae798099/3291021954-500.jpg" data-tags="blues rock, blues" role="button">
 Gary Moore - Still Got the Blues (1990-04-04)
 </li>
-<li data-cover="https://img.discogs.com/NL1-DI27oZu23R-GoHcRWLFeldw=/fit-in/591x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11014673-1615909703-8569.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
+<li data-cover="https://img.discogs.com/IE46vgofJBJwVXqMIKMse8ukcPk=/fit-in/441x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4544310-1367922867-1745.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
 Bonnie Raitt - Luck Of The Draw (1991-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e646673-39ba-41dc-abc4-7a1f74387d66/6639039977-500.jpg" data-tags="classic rock, southern rock" role="button">
 The Allman Brothers Band - A Decade Of Hits 1969-1979 (1991-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/01caa837-59b9-487a-bc3f-a47f6cf7e345/9725073329-500.jpg" data-tags="hard rock" role="button">
+AC/DC - Highway to Hell (1992-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/29a89b27-ee52-4e84-a411-8b3ae971673d/5262713591-500.jpg" data-tags="eric clapton, blues rock" role="button">
 Eric Clapton - The Cream of Clapton (1994-03-29)
@@ -185,9 +191,6 @@ Blues Traveler - Four (1994-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/df5a9ca6-8bdd-4046-a07f-bf219f58a079/5340317058-500.jpg" data-tags="90s, indie, rock, alternative rock" role="button">
 The Stone Roses - Second Coming (1994-12-05)
-</li>
-<li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">
-Bob Dylan - Highway 61 Revisited (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f66e9df-ee19-475b-8f0b-3e1f27c2c8af/7086920950-500.jpg" data-tags="blues, blues rock" role="button">
 Stevie Ray Vaughan and Double Trouble - Greatest Hits (1995-10-31)
@@ -249,14 +252,11 @@ The White Stripes - Icky Thump (2007-06-15)
 <li data-cover="http://coverartarchive.org/release/7009e041-7b5b-4cd5-99d0-2d04830133a3/2271277285-500.jpg" data-tags="classic rock, blues rock, rock" role="button">
 ZZ Top - Greatest Hits (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
-The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f769c69-d0c7-3a69-a85a-774adfb29271/5652970285-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Attack & Release (2008-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/218ff81b-3e00-387f-91e3-80ac7885789d/15457622056-500.jpg" data-tags="blues-rock, blues, blues rock" role="button">
-Dan Auerbach - Keep It Hid (2009-02-09)
+<li data-cover="https://img.discogs.com/JvwvMC1hwh_JGafGIYYjFeMMlo8=/fit-in/351x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1866195-1318267515.jpeg.jpg" data-tags="blues rock" role="button">
+Joe Bonamassa - The Ballad Of John Henry (2009-02-20)
 </li>
 <li data-cover="https://img.discogs.com/QSdZcenKf5ZGnTWJfrOB8B0d27A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2299291-1290887410.jpeg.jpg" data-tags="alternative, garage rock, indie, blues rock" role="button">
 Band of Skulls - Baby Darling Doll Face Honey (2009-04-07)
@@ -275,6 +275,9 @@ John Mayer - Battle Studies (2009-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
 Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
+The White Stripes - Under Great White Northern Lights (2010-03-15)
 </li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)
@@ -299,9 +302,6 @@ Alabama Shakes - Boys & Girls (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/08d68658-0834-4dea-9914-8146cf4b9907/15222093874-500.jpg" data-tags="rock" role="button">
 Jack White - Blunderbuss (2012-04-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">
-John Mayer - Born and Raised (2012-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b67efa71-3638-490e-98ec-2d7c4849832c/4200304495-500.jpg" data-tags="blues rock, the black keys" role="button">
 The Black Keys - Little Black Submarines (2012-09-03)

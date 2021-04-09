@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T01:47:01.485Z
+date: 2021-04-09T16:38:01.472Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -47,12 +47,6 @@ Nine Days - The Madding Crowd (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
-</li>
-<li data-cover="https://img.discogs.com/bFS_vKx00XYl0bMJz4qBLLOgzL4=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435105-1497130670-2526.jpeg.jpg" data-tags="soundtrack, sad, folk rock" role="button">
-Gary Jules - Trading Snakeoil For Wolftickets (2001)
-</li>
-<li data-cover="https://img.discogs.com/qluFsA4fgZRPvOytX-r3Ivxkb6s=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369069-1448544399-9507.jpeg.jpg" data-tags="pop" role="button">
-Michelle Branch - The Spirit Room (2001-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
@@ -104,6 +98,9 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
 The Fray - How to Save a Life (2005-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
+The Veronicas - The Secret Life of... (2005-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
@@ -159,9 +156,6 @@ Kelly Clarkson - My December (2007-06-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop rock, pop punk" role="button">
 The Rocket Summer - Do You Feel (2007-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
-Metro Station - Metro Station (2007-09-18)
-</li>
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
@@ -201,6 +195,9 @@ The Fray - The Fray (2009-01-30)
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/b9b36ee2-1f4f-4d01-ab6d-9ed975189ac9/21455987147-500.jpg" data-tags="alternative rock, pop rock, pop punk, russian roulette, j adore, ripped, posted to half, no cure1, red city pt2, from dreams to life, no cure, definition of fantabulous, you cant illustrate while you suffocate, for everything youve done, enjoy your stay isaac, no cure band" role="button">
+Anarbor - Free Your Mind (2009-03-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
 Paolo Nutini - Sunny Side Up (2009-05-29)
 </li>
@@ -216,13 +213,16 @@ Demi Lovato - Here We Go Again (2009-06-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
 P!nk - Funhouse (2009-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b72990f-0c8d-4687-a33f-4a329672f85a/17667139144-500.jpg" data-tags="pop, miley cyrus" role="button">
+Miley Cyrus - The Time of Our Lives (2009-08-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
 Boys Like Girls - Love Drunk (2009-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+<li data-cover="https://img.discogs.com/Wf2U6k4A5igQifVNY19nyljkmFk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694410-1505149236-7947.jpeg.jpg" data-tags="rock" role="button">
 Train - Save Me, San Francisco (2009-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
@@ -258,14 +258,14 @@ Coldplay - Mylo Xyloto (2011-10-19)
 <li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
 Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e46aa43-75b9-4792-9424-d091afa5f93b/6032835251-500.jpg" data-tags="indie, rock, alternative, alternative rock, pop rock, male vocalists, domino, hapi, empe" role="button">
-Arctic Monkeys - R U Mine? (2012-02-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
 Train - California 37 (2012-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff633079-f4de-4d2f-83ea-24e0d5d3f411/3212315956-500.jpg" data-tags="pop" role="button">
 Maroon 5 - Overexposed (2012-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
+Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d3da9c4-17db-480a-85c1-17ee27823fcb/2019375455-500.jpg" data-tags="pop, pop rock" role="button">
 The Script - #3 (2012-09-07)
@@ -294,11 +294,11 @@ The Neighbourhood - I Love You. (2013-04-19)
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/613b3baf-852b-4424-9d50-770d9df2240f/22041304668-500.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists, domino" role="button">
-Arctic Monkeys - Why'd You Only Call Me When You're High? (2013-08-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
+Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6585b0ce-3570-413f-be0f-385d2caae101/5250767763-500.jpg" data-tags="pop rock, rock" role="button">
 Avril Lavigne - Avril Lavigne (2013-11-01)

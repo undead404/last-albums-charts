@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T13:36:01.439Z
+date: 2021-04-09T16:22:01.448Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -13,7 +13,7 @@ title: "grunge: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">Pearl Jam - Vs. (1993-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/9d005b9c-fd45-412c-970b-3e64a59f84cd/13263179887-500.jpg" data-tags="grunge" role="button">Soundgarden - Superunknown (1994-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg" data-tags="grunge" role="button">Nirvana - MTV Unplugged in New York (1994-11-01)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">Nirvana - Nirvana (2002-10-28)</li>
+<li data-cover="https://img.discogs.com/2PbCFjlcIzJBqZOAfewe38uz6lo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2262003-1273098878.jpeg.jpg" data-tags="grunge" role="button">Nirvana - Nirvana (2002-10-28)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -66,11 +66,14 @@ Soundgarden - Badmotorfinger (1991-10-08)
 <li data-cover="http://coverartarchive.org/release/250bd8f0-9c77-4318-b14c-0684ce5f9b75/24751455111-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Sap (1992-02-04)
 </li>
-<li data-cover="https://img.discogs.com/yhsafRWLca1rLfuG7gevzfc935Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468462-1359981319-9678.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
+<li data-cover="https://img.discogs.com/cLuwRy_ZrizsDIH71sbrftA4yLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260920-1342495276-4482.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9c52cf2-9f23-4986-8ce2-5e0015cdef27/8559192703-500.jpg" data-tags="grunge" role="button">
 L7 - Bricks Are Heavy (1992-04-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
+Faith No More - Angel Dust (1992-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
@@ -114,6 +117,9 @@ Nirvana - In Utero (1993-09-21)
 <li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Vs. (1993-10-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/557393d4-74ae-4833-8c72-822ed1a10175/3803039786-500.jpg" data-tags="grunge" role="button">
+Nirvana - The Very Best (1994)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4434c0f-4a25-3c88-9138-f4fffa8ddf88/17628103152-500.jpg" data-tags="grunge" role="button">
 Alice in Chains - Jar of Flies (1994-01-18)
 </li>
@@ -125,9 +131,6 @@ Hole - Live Through This (1994-04-08)
 </li>
 <li data-cover="https://img.discogs.com/uSyRxxaZXtMtmcvK0ZVi52AN8EI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2856254-1304181180.jpeg.jpg" data-tags="grunge" role="button">
 Stone Temple Pilots - Purple (1994-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/caf4026c-e7f6-45cc-828b-cff6cb4fc495/15467462744-500.jpg" data-tags="grunge, indie, alternative, alternative rock, 90s" role="button">
-Dinosaur Jr. - Without a Sound (1994-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
@@ -174,7 +177,7 @@ Screaming Trees - Dust (1996-06-25)
 <li data-cover="http://coverartarchive.org/release/c8d42cff-a67c-4a29-9c31-e28ad8fcc32d/10611684247-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - No Code (1996-08-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+<li data-cover="https://img.discogs.com/DTVywRLw2VqudN74PW58-C0FVXs=/fit-in/280x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1673187-1236001260.jpeg.jpg" data-tags="grunge" role="button">
 Nirvana - From the Muddy Banks of the Wishkah (1996-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/04700347-4b67-3093-8d0b-f01d58842017/15814470696-500.jpg" data-tags="grunge, rock, 90s" role="button">
@@ -192,7 +195,7 @@ Soundgarden - A-Sides (1997-11-04)
 <li data-cover="http://coverartarchive.org/release/ce0af920-bbf3-33e1-8133-6c72aebe30dd/2550464717-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Yield (1998-01-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+<li data-cover="https://img.discogs.com/FUjycH2n7WW89OpID6wciUn5qsw=/fit-in/566x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500190-1224354340.jpeg.jpg" data-tags="grunge" role="button">
 Jerry Cantrell - Boggy Depot (1998-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/699e38f0-fb3b-306c-95d7-3e5f68e543aa/23334775352-500.jpg" data-tags="90s, grunge, rock" role="button">
@@ -240,7 +243,7 @@ Seether - Disclaimer (2002-08-20)
 <li data-cover="https://img.discogs.com/cgFX-8nmXkGyOZoCjG4tPTtprtg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854823-1304132381.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - One by One (2002-10-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
+<li data-cover="https://img.discogs.com/2PbCFjlcIzJBqZOAfewe38uz6lo=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2262003-1273098878.jpeg.jpg" data-tags="grunge" role="button">
 Nirvana - Nirvana (2002-10-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge" role="button">
@@ -249,7 +252,7 @@ Pearl Jam - Riot Act (2002-11-11)
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
 </li>
-<li data-cover="https://img.discogs.com/KQxoGUUY2tsV3iX6K46Y643VDrs=/fit-in/479x420/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1589349-1230573596.jpeg.jpg" data-tags="grunge, rock" role="button">
+<li data-cover="https://img.discogs.com/aFf32ryDPnq0y7-sBmofnBdARvY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6396573-1424410735-6142.jpeg.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Lost Dogs (2003-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6cbe405-cb68-449e-b882-f8c2145a949f/7710002716-500.jpg" data-tags="grunge" role="button">
@@ -270,13 +273,10 @@ Audioslave - Out of Exile (2005-05-23)
 <li data-cover="http://coverartarchive.org/release/05bcea44-73d4-4d78-979d-14f5a142816c/2279875362-500.jpg" data-tags="rock, hard rock" role="button">
 Seether - Karma & Effect (2005-05-24)
 </li>
-<li data-cover="https://img.discogs.com/vibUbZr3RQMgJ9moqUW4ELcrFO8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494144-1419701996-1992.jpeg.jpg" data-tags="grunge, indie rock" role="button">
-Nine Black Alps - Everything Is (2005-06-13)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Pearl Jam - Pearl Jam (2006-04-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/HrAO7Rs1OTk8Z36yR7JMFsStHMQ=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2188305-1268766908.jpeg.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a3a8867-9461-3ed3-b78a-47dfc939829d/26491153487-500.jpg" data-tags="rock, grunge" role="button">
@@ -297,7 +297,7 @@ Alice in Chains - Black Gives Way to Blue (2009-09-25)
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
 </li>
-<li data-cover="https://img.discogs.com/PGsmW9Ze5ZfWfbNYz7A32UzPgvY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10599477-1552245773-7609.jpeg.jpg" data-tags="grunge, live" role="button">
+<li data-cover="https://img.discogs.com/QKH3AeSqJU_uAnsRRO4RKtuXAVU=/fit-in/474x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2975849-1309990342.jpeg.jpg" data-tags="grunge, live" role="button">
 Nirvana - Live at Reading (2009-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0653ea23-f0e6-4708-b090-d9afcb4ed7c2/23042689021-500.jpg" data-tags="grunge" role="button">
