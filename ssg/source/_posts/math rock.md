@@ -1,14 +1,14 @@
 ---
-date: 2021-04-07T16:43:01.396Z
+date: 2021-04-09T18:05:01.488Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">Slint - Spiderland (1991-03-15)</li>
+<li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">Drive Like Jehu - Yank Crime (1994-04-26)</li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">American Football - American Football (1999-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">Minus the Bear - Highly Refined Pirates (2002-11-19)</li>
 <li data-cover="http://coverartarchive.org/release/9c27b3e5-ccd0-4524-8e6c-0c35adb41771/13198374240-500.jpg" data-tags="math rock, post-rock" role="button">toe - the book about my idle plot on a vague anxiety (2005-08-31)</li>
-<li data-cover="http://coverartarchive.org/release/46e0975b-a08d-433c-85df-f66c26aed5f1/3334764427-500.jpg" data-tags="indie, math rock" role="button">Foals - Hummer (2007-04-23)</li>
 <li data-cover="http://coverartarchive.org/release/bd32dcd0-5a09-4725-97ed-5918f55ee356/11318478591-500.jpg" data-tags="math rock" role="button">Battles - Mirrored (2007-04-25)</li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">Foals - Antidotes (2008-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/a0ae9288-8038-3ed8-bfa8-5ea39ef7ecc8/4174517606-500.jpg" data-tags="indie rock" role="button">Foals - Total Life Forever (2010-05-07)</li>
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/0774c7c4-c2ca-4d77-92a2-176456ef7475/27985403238-500.jpg" data-tags="noise rock" role="button">
 Slint - Tweez (1989)
+</li>
+<li data-cover="http://coverartarchive.org/release/5425e2d6-004b-40fb-93e6-04c123c04903/26755627965-500.jpg" data-tags="post-hardcore" role="button">
+Drive Like Jehu - Drive Like Jehu (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">
 Slint - Spiderland (1991-03-15)
@@ -150,9 +153,6 @@ Tera Melos - Drugs To The Dear Youth (2007-01)
 <li data-cover="http://coverartarchive.org/release/81abc528-2cad-48b8-a8e0-de41e1c73684/3394485177-500.jpg" data-tags="math rock" role="button">
 Hella - There's No 666 In Outer Space (2007-01-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/46e0975b-a08d-433c-85df-f66c26aed5f1/3334764427-500.jpg" data-tags="indie, math rock" role="button">
-Foals - Hummer (2007-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd32dcd0-5a09-4725-97ed-5918f55ee356/11318478591-500.jpg" data-tags="math rock" role="button">
 Battles - Mirrored (2007-04-25)
 </li>
@@ -204,7 +204,7 @@ Don Caballero - Punkgasm (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/8760ae8f-a5b0-4909-95b0-4a9bb9fad408/9934565413-500.jpg" data-tags="math rock" role="button">
 Adebisi Shank - This is the album of a band called Adebisi Shank (2008-09-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/f2d8c10d-4c70-482c-b913-50550fc6d4c4/3813953556-500.jpg" data-tags="math rock, experimental, indie pop, indie rock, quirky, energetic, literate, irreverent, intense, confident, fiery, raucous, fun, 00s, playful, sweet, math pop, revolutionary, repeat, sprawling, brash, ambitious, knotty, zach hill on the kit, math rap" role="button">
+<li data-cover="http://coverartarchive.org/release/f2d8c10d-4c70-482c-b913-50550fc6d4c4/3813953556-500.jpg" data-tags="math rock, experimental, indie pop, indie rock, energetic, literate, irreverent, intense, confident, fiery, raucous, 00s, playful, sweet, math pop, revolutionary, repeat, sprawling, brash, ambitious, knotty, zach hill on the kit, math rap" role="button">
 Marnie Stern - This Is it and I Am it and You Are it and so Is That and He Is it and She Is it and it Is it and That is That (2008-10-03)
 </li>
 <li data-cover="https://img.discogs.com/XfcjvTSndc-lvvVTzdnXziYy4Ts=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2491922-1286976641.jpeg.jpg" data-tags="math rock" role="button">
@@ -267,11 +267,11 @@ Maybeshewill - I Was Here for a Moment, Then I Was Gone (2011-05-30)
 <li data-cover="http://coverartarchive.org/release/c0a2429b-26e5-352f-8561-d7ee9e606e6c/4922570721-500.jpg" data-tags="math rock" role="button">
 Battles - Gloss Drop (2011-06-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/5346c22d-a6b4-4eef-a00b-01ec7c4f2f85/1113687319-500.jpg" data-tags="instrumental, math rock, experimental, progressive rock, progressive, groove tech" role="button">
+Strawberry Girls - Italian Ghosts (2011-08-30)
+</li>
 <li data-cover="https://img.discogs.com/LrfHFwwxlISYH_xOKHAYEYA2y_s=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3080009-1532445402-6228.jpeg.jpg" data-tags="math rock" role="button">
 Hella - Tripper (2011-08-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d828afe-6483-4c5c-88ca-9936bbfac828/8639695794-500.jpg" data-tags="math rock" role="button">
-Giraffes? Giraffes! - Pink Magick (2011-09-21)
 </li>
 <li data-cover="https://img.discogs.com/hrEyvwwjtk_ZpcvzvCHDnmc7vpM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3191675-1545550123-2688.jpeg.jpg" data-tags="indie, rock, progressive rock, indie progressive alternative" role="button">
 Mutemath - Odd Soul (2011-09-30)

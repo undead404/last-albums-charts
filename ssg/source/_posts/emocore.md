@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T20:04:01.605Z
+date: 2021-04-09T18:17:01.513Z
 title: "emocore: 100 albums you must listen to before you die"
 ---
 ![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
@@ -21,7 +21,7 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="https://img.discogs.com/kaMzumBiDJCQp4gm4ckSh27Zm00=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413931-1604390423-9720.jpeg.jpg" data-tags="rock" role="button">
@@ -32,6 +32,9 @@ Jets to Brazil - Orange Rhyming Dictionary (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ff29220-5ba3-46dd-89f2-9510d29c916a/4202569667-500.jpg" data-tags="metalcore, post-hardcore, screamo" role="button">
+Underoath - The Changing of Times (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/1981ba90-cdff-4385-95f9-e2b72b2c6803/27079506039-500.jpg" data-tags="post-hardcore" role="button">
 Finch - What It Is to Burn (2002-03-12)
@@ -207,7 +210,7 @@ A Skylit Drive - She Watched The Sky (2007-01-23)
 <li data-cover="https://img.discogs.com/dBFOoJR_yaOMYDnpuX5jDystnbQ=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7346937-1570358150-9631.jpeg.jpg" data-tags="post-hardcore" role="button">
 Lovehatehero - White Lies (2007-02-20)
 </li>
-<li data-cover="https://img.discogs.com/Ambzzbfw3JSPbZlpTpU9Rdq8T1Y=/fit-in/572x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5236439-1388358221-4358.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
+<li data-cover="https://img.discogs.com/J9zTjIUXIsVCWBmy_aeYa6ZzlVk=/fit-in/387x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2864774-1330620667.jpeg.jpg" data-tags="post-hardcore, trancecore" role="button">
 Enter Shikari - Anything Can Happen in the Next Half Hour (2007-03-04)
 </li>
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
@@ -233,6 +236,9 @@ Silverstein - Arrivals & Departures (2007-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ea46d2e-a7a3-4199-8f71-9897b4ef06e5/26813472714-500.jpg" data-tags="screamo, post-hardcore" role="button">
 Scary Kids Scaring Kids - Scary Kids Scaring Kids (2007-08-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/b3a8fd07-b386-47bf-97bc-5d14222e0c8c/15093179874-500.jpg" data-tags="post-hardcore" role="button">
+Chiodos - Bone Palace Ballet (2007-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4b4ed17-323e-4104-a850-d0fab83a6c6f/1631198569-500.jpg" data-tags="emocore" role="button">
 Taking Back Sunday - Notes From The Past (2007-10-30)
@@ -311,12 +317,6 @@ Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
-</li>
-<li data-cover="https://img.discogs.com/JExQH_7X_2u7hqvAWCXMm1KALwc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4941671-1380457797-4882.jpeg.jpg" data-tags="gothic rock, hipster, not experimental, pop, female vocalists, emo, japanese, anime, j-pop, visual kei, not gothic, emocore, meme, satanic pop, amatue, jpop, comedy, anison, dark, symphonic metal, achingly intelligent, not music, manowar, weeaboo, folklore intellectuel, hino, not darkwave, poptron, very intelligent lyrics, gothic metal, humour, misogyny, seiyuu" role="button">
-Chelsea Wolfe - Pain Is Beauty (2013-09-03)
-</li>
-<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
-Nicki Minaj - Anaconda (2014-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
 Tove Lo - Queen of the Clouds (2014-09-24)

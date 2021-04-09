@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T02:42:06.965Z
+date: 2021-04-09T17:58:01.474Z
 title: "irish: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -29,6 +29,12 @@ Van Morrison - Astral Weeks (1968-11)
 </li>
 <li data-cover="https://img.discogs.com/6XJy69cfE0Ut4NSEjXDRpUFNpNM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5329898-1390702869-5206.jpeg.jpg" data-tags="blues rock, classic rock, blues" role="button">
 Rory Gallagher - Rory Gallagher (1971)
+</li>
+<li data-cover="http://coverartarchive.org/release/861b7aff-0ce6-47cc-b5f2-b6be19bd3abc/11393785643-500.jpg" data-tags="hard rock, irish" role="button">
+Thin Lizzy - Thin Lizzy (1971-04)
+</li>
+<li data-cover="https://img.discogs.com/ix3FmVas9u9AWu3DEbQfOwObMGs=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4254335-1359828733-8672.jpeg.jpg" data-tags="classic rock" role="button">
+Thin Lizzy - Shades Of A Blue Orphanage (1972-03-10)
 </li>
 <li data-cover="https://img.discogs.com/LdWvbgL7F4VZYCmKD8GcwZea6CE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760825-1298491383.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Thin Lizzy - Vagabonds of the Western World (1973)
@@ -69,7 +75,7 @@ Enya - Watermark (1988-09-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="irish" role="button">
 The Waterboys - Fisherman's Blues (1989-01-07)
 </li>
-<li data-cover="https://img.discogs.com/W8A4v5z88ipMQ4n14waX-E5rgY8=/fit-in/543x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1841631-1359313838-7780.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
+<li data-cover="https://img.discogs.com/N1i48bpQulv-98stP2uFDx8ED_4=/fit-in/461x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952098-1176662287.jpeg.jpg" data-tags="female vocalists, pop, 90s" role="button">
 Sinéad O'Connor - I Do Not Want What I Haven't Got (1990-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb873617-caa5-43f9-8cdb-9cd02e17163a/15595471977-500.jpg" data-tags="irish, irish folk, folk" role="button">
@@ -80,9 +86,6 @@ Enya - Shepherd Moons (1991-11-04)
 </li>
 <li data-cover="https://img.discogs.com/xivHc5rtqcq_p2J2Qu1D99VZmk8=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6277836-1606808822-4001.jpeg.jpg" data-tags="rock" role="button">
 U2 - Achtung Baby (1991-11-18)
-</li>
-<li data-cover="https://img.discogs.com/RPrW53_57y_P_rJVf47hc5MNMzQ=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2340266-1278112236.jpeg.jpg" data-tags="hip hop, rap, hip-hop, oldschool" role="button">
-House of Pain - House of Pain (1992-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e4bad0f-41e3-361d-b75a-3f63bc7176c6/16623893430-500.jpg" data-tags="90s, rock" role="button">
 The Cranberries - Everybody Else Is Doing It, So Why Can't We? (1993-03-01)
@@ -105,17 +108,8 @@ The Dubliners - The Best Of The Dubliners (1996)
 <li data-cover="https://img.discogs.com/tDcA9IOU66Qobh5urjCqmuvRP0I=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1955126-1426218437-4673.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
 The Corrs - Forgiven, Not Forgotten (1996-02-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf7920a7-7a0a-3ee5-99ce-479faa65633b/8943912838-500.jpg" data-tags="irish" role="button">
-The Cranberries - To The Faithful Departed (The Complete Sessions 1996-1997) (1996-04-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/3139e3a4-a7e7-40ee-a124-2d2830971c4e/14483468542-500.jpg" data-tags="indie, rock, alternative, irish, irish music" role="button">
 The Frames - Fitzcarraldo (1996-11-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/70c85789-974e-4a92-8b9d-96aef51e7ddd/1174906134-500.jpg" data-tags="irish, live, irish folk punk" role="button">
-Flogging Molly - Alive Behind the Green Door (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/1463018c-0d31-4526-ac4e-a76f840fcd3f/3196058926-500.jpg" data-tags="celtic" role="button">
-Clannad - Landmarks (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/a03e7e4b-45ab-390e-9439-4253efa57967/6316878222-500.jpg" data-tags="rock, 90s" role="button">
 U2 - Pop (1997-02-26)
@@ -134,6 +128,9 @@ The Dubliners - The Dubliners (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/532827c8-1b6f-382e-9f77-3ea23ed3dba1/17170544907-500.jpg" data-tags="punk" role="button">
 Dropkick Murphys - Do or Die (1998-01-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f423674-98e5-4f80-9e70-9691dc13567e/15317941128-500.jpg" data-tags="irish, celtic" role="button">
+Gaelic Storm - Gaelic Storm (1998-07-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d09adeed-3e9c-4b53-90c6-51a95c0466e6/5213019127-500.jpg" data-tags="pop" role="button">
 B*Witched - B*Witched (1998-10-12)
@@ -158,9 +155,6 @@ Flogging Molly - Swagger (2000-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/364bab3c-240b-30f1-8cd8-d624a4f89d5a/16999982419-500.jpg" data-tags="rock, punk, irish, celtic rock, t tossers" role="button">
 The Tossers - Long Dim Road (2000-05-16)
-</li>
-<li data-cover="https://img.discogs.com/Q0fsS5fw7JiwXEqD05r2t3MKT3k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5846374-1404383509-2716.jpeg.jpg" data-tags="irish, 00s" role="button">
-Sinéad O'Connor - Faith and Courage (2000-06-13)
 </li>
 <li data-cover="https://img.discogs.com/SFPzHAzX4ah4IFjPf-JRPl37kXU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-951267-1428563434-2020.jpeg.jpg" data-tags="pop" role="button">
 The Corrs - In Blue (2000-07-10)
@@ -195,7 +189,7 @@ The Cranberries - Wake Up and Smell the Coffee (2001-10-16)
 <li data-cover="http://coverartarchive.org/release/2fc9a409-48e2-32f0-b513-77df11a873c7/7618759964-500.jpg" data-tags="irish, punk" role="button">
 Flogging Molly - Drunken Lullabies (2002-03-19)
 </li>
-<li data-cover="https://img.discogs.com/M39hBiXjfl2bPyfd88UkhSbF5vM=/fit-in/543x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203310-1349612467-3697.jpeg.jpg" data-tags="irish" role="button">
+<li data-cover="https://img.discogs.com/IEPYmkiATmYCQaoXBtgtmRRnZ_c=/fit-in/600x885/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1533055-1495336592-1611.jpeg.jpg" data-tags="irish" role="button">
 Gemma Hayes - Night On My Side (2002-05-27)
 </li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
@@ -294,8 +288,14 @@ Keane - Night Train (2010-05-09)
 <li data-cover="https://img.discogs.com/3OoWfZVJU5AV7OxhKzMipCp6vQw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2238563-1272988463.jpeg.jpg" data-tags="indie rock, irish, ireland" role="button">
 Villagers - Becoming a Jackal (2010-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/ffb41af0-6f41-40a1-a98f-0ea5ac33b2c0/9890214632-500.jpg" data-tags="easy listening, modern, irish" role="button">
+The Script - For The First Time (2010-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">
 The Script - Science & Faith (2010-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fd6395e-d781-4607-8d19-d8d2b9927871/7817782831-500.jpg" data-tags="irish, celtic, irish folk" role="button">
+The Irish Rovers - Drunken Sailor (2012)
 </li>
 <li data-cover="https://img.discogs.com/WxSFo_G5KKmSy_MocIWWQDov-NI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3676446-1339945405-2309.jpeg.jpg" data-tags="folk" role="button">
 Glen Hansard - Rhythm and Repose (2012-06-19)

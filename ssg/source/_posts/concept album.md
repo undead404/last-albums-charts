@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:50:01.429Z
+date: 2021-04-09T18:27:01.432Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -27,7 +27,7 @@ The Moody Blues - Days of Future Passed (1967-11-11)
 <li data-cover="http://coverartarchive.org/release/dd8d891c-6664-41a5-8a59-8c82b5043068/16044068476-500.jpg" data-tags="rock, classic rock, 60s" role="button">
 The Who - The Who Sell Out (1967-12-16)
 </li>
-<li data-cover="https://img.discogs.com/KQQisbhZUwl8QSf4_VxYHbVmcsk=/fit-in/523x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1435912-1219542672.jpeg.jpg" data-tags="rock opera, classic rock, rock" role="button">
+<li data-cover="https://img.discogs.com/sMmSFb1IcPs_yLo53n3dR6L_C0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14496895-1575796384-1397.jpeg.jpg" data-tags="rock opera, classic rock, rock" role="button">
 The Who - Tommy (1969-05-23)
 </li>
 <li data-cover="https://img.discogs.com/sQAZsaA_cZEcU9n-eSJam8BDU0Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6029393-1409234353-8744.jpeg.jpg" data-tags="classic rock, rock, 70s" role="button">
@@ -84,13 +84,16 @@ Pink Floyd - The Final Cut (1983-03-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Marillion - Misplaced Childhood (1985-06-17)
 </li>
+<li data-cover="https://img.discogs.com/NwG6HC-zPorxreK0-5IspEnkF9c=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2594960-1526397691-3722.jpeg.jpg" data-tags="80s, post-punk" role="button">
+The The - Infected (1986-11-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/0dcf0812-3064-38d3-a234-74a7084ad634/23757549091-500.jpg" data-tags="heavy metal" role="button">
 King Diamond - Abigail (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/459b027b-c7d0-3f1c-9c49-1216179260c0/12905663035-500.jpg" data-tags="progressive rock" role="button">
 Marillion - Clutching At Straws (1987-06-12)
 </li>
-<li data-cover="https://img.discogs.com/26EJQK-uA-jRDmUEhsyC7bhWiJA=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3446596-1330717578.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/7O78wv6sPhnNgvthPJTCJjXZXRU=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5798839-1569091694-5128.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Seventh Son Of A Seventh Son (1988-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e289506-bc59-48d8-8dc2-65575986ad0d/6859716930-500.jpg" data-tags="progressive metal" role="button">
@@ -116,6 +119,9 @@ Die Ärzte - Le Frisur (1996-05-24)
 </li>
 <li data-cover="https://img.discogs.com/BDGD2HST67jkgfgyJtNnyChItTc=/fit-in/493x429/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2009258-1258293871.jpeg.jpg" data-tags="heavy metal" role="button">
 Grave Digger - Tunes of War (1996-09-16)
+</li>
+<li data-cover="https://img.discogs.com/7Q_8CKv19HuYfepv3Sqx6ThmvvQ=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198400-1358292382-8519.jpeg.jpg" data-tags="heavy metal" role="button">
+King Diamond - The Graveyard (1996-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a78dd31-7dbf-35d4-a658-b9f8c98e9b1d/2498103415-500.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Entropia (1997-08)
@@ -171,10 +177,7 @@ Pain of Salvation - Remedy Lane (2002-01-22)
 <li data-cover="http://coverartarchive.org/release/2ab5fdc1-c24e-4f08-bc3b-ab291f515349/6572317296-500.jpg" data-tags="progressive rock" role="button">
 Coheed and Cambria - The Second Stage Turbine Blade (2002-03-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/46fafbb5-a0cb-4530-86e4-f80d8396e576/3985509153-500.jpg" data-tags="indie rock" role="button">
-Ugly Casanova - Sharpen Your Teeth (2002-05-21)
-</li>
-<li data-cover="https://img.discogs.com/UhjSGi3j_esktqBc3x3OU4Hj2So=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101872-1202916273.jpeg.jpg" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
@@ -188,9 +191,6 @@ Kamelot - Epica (2003-01-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
-King Geedorah - Take Me to Your Leader (2003-06-16)
 </li>
 <li data-cover="https://img.discogs.com/MUZz_Nwet0IcSgHmLqL2GW78OjA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3587243-1336379029.jpeg.jpg" data-tags="heavy metal" role="button">
 King Diamond - The Puppet Master (2003-10-20)
@@ -213,7 +213,7 @@ Arcade Fire - Funeral (2004-09-13)
 <li data-cover="https://img.discogs.com/BOfifoLmDttVwiJV2tdm9sKm6Zg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9175804-1550518049-6963.jpeg.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Be (2004-09-24)
 </li>
-<li data-cover="https://img.discogs.com/ZC5qdddgiu7nfI2pBeS7HkRj3mQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4431342-1565229212-6023.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
 </li>
 <li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">
@@ -228,10 +228,7 @@ Meshuggah - Catch ThirtyThree (2005-04-21)
 <li data-cover="http://coverartarchive.org/release/da425314-ecc7-4db3-a296-90942f172b18/28511522132-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - The Sunset Tree (2005-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/8229113f-641b-3333-bd9e-faa23c4f75ef/12368351534-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
-Aimee Mann - The Forgotten Arm (2005-04-27)
-</li>
-<li data-cover="https://img.discogs.com/zglsbKAcHiIS-ejfAIagUpjrYMo=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-660171-1499753855-2263.jpeg.jpg" data-tags="rock, indie" role="button">
+<li data-cover="https://img.discogs.com/g9qt8MUvGiB3uZ-jXKg8y_n_sjI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513587-1288765062.jpeg.jpg" data-tags="rock, indie" role="button">
 The Hold Steady - Separation Sunday (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
@@ -258,7 +255,7 @@ Fightstar - Grand Unification (2006-03-10)
 <li data-cover="https://img.discogs.com/UWehwv40d4qK5yESFfl1Q_srYZM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680564-1501944676-9675.jpeg.jpg" data-tags="experimental, noir" role="button">
 Dog Fashion Disco - Adultery (2006-04-04)
 </li>
-<li data-cover="https://img.discogs.com/MF5OAxYidkbpBbnMfpmbS4Mpdtk=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9036903-1510133812-1025.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
+<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f54514-f789-4835-b3e0-d1f14e9e766e/3820440959-500.jpg" data-tags="country" role="button">
@@ -308,6 +305,9 @@ Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
 </li>
 <li data-cover="https://img.discogs.com/VM40UbKDAi6J9rBcwVkWnc35urc=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5820535-1515078520-6172.jpeg.jpg" data-tags="folk" role="button">
 Eddie Vedder - Ukulele Songs (2011-05-26)
+</li>
+<li data-cover="https://img.discogs.com/u9-_8zr6HcoOOSFr4otuCM_yehs=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3229235-1321426120.jpeg.jpg" data-tags="indie, alternative rock, pop rock, easy listening, emotional, hypnotic, hauntingly beautiful, concept album, comforting, worth the wait, fucking good music, lyrically brilliant, relatable, conclusion, change in style, daybreak trilogy" role="button">
+Saves the Day - Daybreak (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">
 Car Seat Headrest - Twin Fantasy (2011-11-02)

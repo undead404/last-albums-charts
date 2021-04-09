@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T00:45:01.702Z
+date: 2021-04-09T18:18:01.495Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -30,6 +30,9 @@ Popol Vuh - Hosianna Mantra (1972)
 <li data-cover="https://img.discogs.com/A8Q1FjBMKODKL1WWbAaHEsGrkE0=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501853-1219671378.jpeg.jpg" data-tags="new age, chillout" role="button">
 Mythos - Mythos (1972)
 </li>
+<li data-cover="https://img.discogs.com/iQuDkDouKJZSou1DKToKPxqdIDs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854258-1304165274.jpeg.jpg" data-tags="progressive rock" role="button">
+Mike Oldfield - Hergest Ridge (1974-08-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/fe768488-bf44-4fee-8309-1e010f5e31a3/11969072130-500.jpg" data-tags="progressive rock, new age" role="button">
 Mike Oldfield - Ommadawn (1975-10-21)
 </li>
@@ -42,10 +45,13 @@ Mike Oldfield - Five Miles Out (1982-02-18)
 <li data-cover="http://coverartarchive.org/release/c7d24b1b-213f-3271-a392-a17b3cdc0d49/9708066247-500.jpg" data-tags="progressive rock" role="button">
 Mike Oldfield - Crises (1983-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/17b6081f-cc8e-4dbd-b8da-ff89b6957e1a/13144429451-500.jpg" data-tags="celtic" role="button">
+Clannad - Legend (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/29194d09-f4c5-4578-b41c-cbe976e6f330/15874058610-500.jpg" data-tags="ambient" role="button">
 Steve Roach - Structures From Silence (1984)
 </li>
-<li data-cover="https://img.discogs.com/wideXHFjTJw_D4mX1B7m-xO_LuM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6981931-1430937946-9660.jpeg.jpg" data-tags="singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/75426382-d7f5-458e-b50d-370a21c430c9/10253435044-500.jpg" data-tags="new age" role="button">
@@ -68,6 +74,9 @@ Enigma - MCMXC a.D. (1990-12-03)
 </li>
 <li data-cover="https://img.discogs.com/2TVIvMUyZEKm_2lDGtfUeXKJWJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736152-1401249094-3734.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Visit (1991)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d7b01f6-e4c0-3b5d-929b-7e0bf3ce17af/5957781227-500.jpg" data-tags="darkwave, ambient, gothic, 4ad" role="button">
+Dead Can Dance - A Passage in Time (1991-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
@@ -132,6 +141,9 @@ Delerium - Karma (1997-04-22)
 <li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
 Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/017f86a2-097c-432c-9ecd-7f3ebf6e8eef/22110454730-500.jpg" data-tags="new age" role="button">
+Yanni - Tribute (1997-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/281397de-fa8e-491a-b664-f03d5eb49c19/15932053701-500.jpg" data-tags="new age, enya, storms in africa, boadicea, only if" role="button">
 Enya - Paint The Sky With Stars (1997-11-10)
 </li>
@@ -140,6 +152,9 @@ Enya - Paint the Sky With Stars: The Best of Enya (1997-11-10)
 </li>
 <li data-cover="https://img.discogs.com/9SU-WGHI8Z0H_KSCsX7_0lmPNNM=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4478044-1366005000-2493.jpeg.jpg" data-tags="new age, female vocalists, classical crossover" role="button">
 Sarah Brightman - Eden (1998)
+</li>
+<li data-cover="https://img.discogs.com/GQwMG2t3fu4RMDy4vdKZ99ztKy0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-709134-1469826219-3396.jpeg.jpg" data-tags="chorus of tribes-myth, electronic" role="button">
+Chorus of Tribes - Myth (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a623c8d-7878-3d2a-8d87-60b5a31340e8/12921336614-500.jpg" data-tags="world, new age" role="button">
 Deep Forest - Comparsa (1998-01-14)
@@ -195,9 +210,6 @@ Diane Arkenstone - Aquaria: A Liquid Blue Trancescape (2001-10-02)
 <li data-cover="http://coverartarchive.org/release/1704269f-6866-389f-aa8c-51ed2476be3c/5678858162-500.jpg" data-tags="new age, enigma" role="button">
 Enigma - Love Sensuality Devotion: The Greatest Hits (2001-10-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c27a6d1f-bfca-4515-b963-bebc3f3c97ed/24417188994-500.jpg" data-tags="new age" role="button">
-Diane Arkenstone - Jewel in the Sun (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f02bc5e-8100-4acc-8c02-b128c496b90e/11637455866-500.jpg" data-tags="new age" role="button">
 2002 - Across an Ocean of Dreams (2002-01-02)
 </li>
@@ -209,6 +221,9 @@ Conjure One - Conjure One (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fc78c2c-3ad2-4152-b7c8-0fb25d1316e7/11792823041-500.jpg" data-tags="new age, ambient" role="button">
 Amethystium - Aphelion (2003-01-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/fb2a35e5-9bda-4627-9035-e38d4fd35b81/15673119439-500.jpg" data-tags="new age" role="button">
+Deuter - Sea & Silence (2003-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
 Emilie Autumn - Enchant (2003-02-26)
@@ -234,8 +249,14 @@ Bond - Classified (2004-05-08)
 <li data-cover="http://coverartarchive.org/release/30f7f74c-b36e-4142-84cc-c6180ea7221a/28378270424-500.jpg" data-tags="new age, meditation" role="button">
 Karunesh - Call of the Mystic (2004-05-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/3fb4021f-345e-4688-bc3a-126e30bdfb59/21574217184-500.jpg" data-tags="world music, ethereal, new age" role="button">
+Vas - Feast Of Silence (2004-05-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/540ad2af-01ee-492c-b9de-7bc8dffb7cd3/6752013943-500.jpg" data-tags="new age" role="button">
 Amethystium - Evermind (2004-10-05)
+</li>
+<li data-cover="https://img.discogs.com/vpS3Dc-Yhl7f8JH5pPpPDsqHPIg=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2849622-1303857829.jpeg.jpg" data-tags="singer-songwriter, new age, 00s, 2000s, my favorites, my-alt-c, traumhaft, honeycomb, 20 favorite albums of 2005, make me happy now, lieblings2, arbeitsmusik" role="button">
+Frank Black - Honeycomb (2005-07-04)
 </li>
 <li data-cover="https://img.discogs.com/zrHhI4AAuvdXMs0udXX1cObnsyg=/fit-in/597x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2865155-1304634115.jpeg.jpg" data-tags="new age, meditation, relax" role="button">
 Deuter - East of the Full Moon (2005-10-18)
@@ -279,9 +300,6 @@ Amethystium - Isabliss (2008-06-17)
 <li data-cover="http://coverartarchive.org/release/8a5e7990-51b3-409b-94fc-e07692709fb5/4187350753-500.jpg" data-tags="new age" role="button">
 Enigma - Seven Lives Many Faces (2008-08-30)
 </li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/51be8f43-dac9-4450-a588-9b91e6f98ea1/26757154347-500.jpg" data-tags="ambient" role="button">
 Enya - The Very Best of Enya (2009-11-20)
 </li>
@@ -294,31 +312,13 @@ Ellie Goulding - Starry Eyed (2010-02-18)
 <li data-cover="https://img.discogs.com/ovSxiuDh8VwF-TF7keyKe9je-v8=/fit-in/575x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873285-1305045271.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Gang Gang Dance - Eye Contact (2011-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
 Dead Can Dance - Anastasis (2012-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
-Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/15a991b2-c3ef-4475-ae96-fcff38406305/8837373509-500.jpg" data-tags="japanese, new age, dreamy, boobs on cover" role="button">
 Lamp - ゆめ (2014-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbfa4f47-088e-4957-9a10-5f61bd5f2341/14081906186-500.jpg" data-tags="pop, new age, english, mike oldfield" role="button">
 Mike Oldfield - Man On The Rocks (2014-03-03)
-</li>
-<li data-cover="https://img.discogs.com/l_pWesyPo6WbTPQ33hBKFj3FrnI=/fit-in/600x617/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12270127-1594771815-3519.jpeg.jpg" data-tags="better than akiko shikata, very intelligent lyrics" role="button">
-Nicki Minaj - Anaconda (2014-08-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/775528c7-a0fb-45e2-a203-0a401dc233ea/8996753006-500.jpg" data-tags="chillout, pop, emo, female vocalists, dance, epic, easy listening, new age, comedy, humour, j-rock, parody, j-pop, bdsm, porn, what, visual kei, vulgar, brutal death metal, jrock, meme, bollocks, denpa, hipster, true metal, nazi, racist, unoriginal, not music, manowar, weeaboo, swag, chuck norris does not approve, anison, folklore intellectuel, poser, lmao, worst song ever, posers, donald trump, child molester, rechtsrock, guilty, atrocious, no thanks, church of satan, orgy, not experimental, hentai, post-nazi, pitchforkcore, ayn rand, singing cunt, yaoi" role="button">
-Marissa Nadler - Before July: Demos & Unreleased Songs (2014-12-01)
 </li>
 </ol>

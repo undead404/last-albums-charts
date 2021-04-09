@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:51:01.427Z
+date: 2021-04-09T18:26:01.427Z
 title: "underground hip-hop: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -66,7 +66,7 @@ Dilated Peoples - The Platform (2000-05-20)
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
 Big L - The Big Picture (2000-07-11)
 </li>
-<li data-cover="https://img.discogs.com/DkjmzLTN4lAlTerqWuUk0ZWQqb4=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10701315-1502679929-4273.jpeg.jpg" data-tags="anticon, hip-hop, underground hip-hop" role="button">
+<li data-cover="https://img.discogs.com/PBJX99h8HnPKXyEO3fyBbTRSH70=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054791-1509642444-3623.jpeg.jpg" data-tags="anticon, hip-hop, underground hip-hop" role="button">
 Sole - Bottle of Humans (2000-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/47a57cb6-e676-4502-985c-2d9c475ac9ec/4380368501-500.jpg" data-tags="underground hip-hop" role="button">
@@ -93,11 +93,11 @@ Cannibal Ox - The Cold Vein (2001-05-15)
 <li data-cover="http://coverartarchive.org/release/cd171e0b-4cb1-4bef-ab60-ccab0729cd73/1672858721-500.jpg" data-tags="hip-hop" role="button">
 Aesop Rock - Labor Days (2001-09-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
+Dilated Peoples - Expansion Team (2001-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/d23bd8bc-44f4-452d-b3c7-0ef0411ffbe7/23983612574-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Saul Williams - Amethyst Rock Star (2001-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/45bffb6b-5b13-3df8-9ae1-e782662a6de0/15794560352-500.jpg" data-tags="hip-hop, underground hip hop" role="button">
-Dilated Peoples - Expansion Team (2001-10-23)
 </li>
 <li data-cover="https://img.discogs.com/VxVupMsCbMZbAcAbyL5sPUDZMcw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-107949-1180462115.jpeg.jpg" data-tags="hip-hop, underground hip-hop" role="button">
 Sage Francis - Personal Journals (2002-04-22)
@@ -114,14 +114,8 @@ Cage - Movies for the Blind (2002-08-06)
 <li data-cover="http://coverartarchive.org/release/dea8d7d1-1823-4635-a536-8ca487a91e8c/5329372313-500.jpg" data-tags="rap" role="button">
 Tech N9ne - Absolute Power (2002-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ed2eb228-8166-4475-852d-d75609c6a1e5/7039690483-500.jpg" data-tags="definitive jux" role="button">
-RJD2 - The Horror (2003-04-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddbbd70f-24ba-43e7-82e4-14812ddaba2d/10348765025-500.jpg" data-tags="hip-hop, underground hip-hop, ryhmesayers, rap:underground" role="button">
 Brother Ali - Shadows on the Sun (2003-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/41e7289c-9db7-4a4e-9bfb-54e0a81ba57c/20230128328-500.jpg" data-tags="hip-hop, hip hop" role="button">
-King Geedorah - Take Me to Your Leader (2003-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a87635e-ba47-4eaa-8c92-f0d8f5450fd7/4447041417-500.jpg" data-tags="jedi mind tricks, hip-hop" role="button">
 Jedi Mind Tricks - Visions Of Gandhi (2003-08-23)
@@ -138,6 +132,9 @@ Atmosphere - Seven's Travels (2003-09-22)
 <li data-cover="http://coverartarchive.org/release/83267759-636c-4bf5-9206-48d65f24fe25/26396017496-500.jpg" data-tags="hip-hop" role="button">
 Non-Prophets - Hope (2003-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/6ebad9e9-7ad5-4ae5-88cb-203dd5cbc414/5370610447-500.jpg" data-tags="hip-hop, underground hip-hop, hoppi albumit" role="button">
+Steen1 - Salaliittoteoria (2004-01-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/539ee4cb-0293-3f33-985c-afb86421e5fb/8667691720-500.jpg" data-tags="underground hip-hop" role="button">
 Eyedea & Abilities - E&A (2004-03)
 </li>
@@ -150,13 +147,10 @@ Jedi Mind Tricks - Legacy of Blood (2004-08-24)
 <li data-cover="https://img.discogs.com/PfBiMEhUuZIPXwCEDZ6gUhppe3k=/fit-in/494x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-483609-1136405342.jpeg.jpg" data-tags="hip hop, experimental hip-hop, hip-hop" role="button">
 Saul Williams - Saul Williams (2004-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b5827d9-6c18-476a-a77e-f096582c3794/3174089374-500.jpg" data-tags="rap" role="button">
-De La Soul - The Grind Date (2004-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/56c76359-e7d8-465c-8e84-fdcce75dbb80/2977936650-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Mos Def - The New Danger (2004-10-12)
 </li>
-<li data-cover="https://img.discogs.com/ZC5qdddgiu7nfI2pBeS7HkRj3mQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4431342-1565229212-6023.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
@@ -189,16 +183,13 @@ Blackalicious - The Craft (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/d5a43378-bd1f-40fe-bf5e-8a3496ab073b/5738018864-500.jpg" data-tags="hip-hop" role="button">
 Atmosphere - You Can't Imagine How Much Fun We're Having (2005-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/3fd53cbb-6b0b-3945-bfae-e91f748b7167/4395371296-500.jpg" data-tags="trip-hop, downtempo, hip-hop" role="button">
-Blockhead - Downtown Science (2005-10-17)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, chillout, jazz, hip hop, underground hip-hop, jazz hop, jazz rap, ubiquity, jazzy hiphop, bbe, procussions, sound providers, secret room" role="button">
 Kero One - Windmills of the Soul (2006-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b40ecab-01cb-4189-a213-e882446bab01/6279872656-500.jpg" data-tags="hip-hop, hip hop, philadelphia, underground rap, underground hip-hop, east coast, hardcore rap, hardcore hip-hop, east coast rap, underground hiphop, babygrande, east coast hiphop" role="button">
 Army of the Pharaohs - The Torture Papers (2006-03-21)
 </li>
-<li data-cover="https://img.discogs.com/Bw-kP5b1LsRbDEGbGZNQFDs0wgw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-847584-1413996308-9959.jpeg.jpg" data-tags="hip-hop, chillout, electronica, female vocalists, underground hip-hop, monochrome album covers" role="button">
+<li data-cover="https://img.discogs.com/IIkSrkx5NsWgTMar56lqygLyPcc=/fit-in/500x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338722-1210904816.jpeg.jpg" data-tags="hip-hop, chillout, electronica, female vocalists, underground hip-hop, monochrome album covers" role="button">
 Bonobo - Nightlite (2006-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/183ccd80-b998-429f-95ce-6e89010b0397/21277220123-500.jpg" data-tags="hip-hop" role="button">
@@ -237,9 +228,6 @@ Sadistik - The Balancing Act (2008-05-01)
 <li data-cover="http://coverartarchive.org/release/5eae7af7-6dee-480e-8b0b-3af0a69a8d77/24906966421-500.jpg" data-tags="hip-hop, spoken word" role="button">
 Dan Le Sac vs Scroobius Pip - Angles (2008-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/4355df4c-3b7a-4dae-9d1b-7383df022542/21363798369-500.jpg" data-tags="hip-hop" role="button">
-The Cool Kids - The Bake Sale (2008-06-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/130b70de-6919-44d6-897a-913ca91b4686/27654147182-500.jpg" data-tags="underground hip-hop" role="button">
 Snowgoons - Black Snow (2008-06-24)
 </li>
@@ -248,6 +236,9 @@ Tech N9ne - Killer (2008-07-01)
 </li>
 <li data-cover="https://img.discogs.com/TNY7hpyvi3I9ls-EX7EXpLdX9MA=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1481907-1369062249-5190.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Ill Bill - The Hour Of Reprisal (2008-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/d64cf4bc-b652-4299-8075-f8646e7477bb/18878574058-500.jpg" data-tags="underground hiphop" role="button">
+Jedi Mind Tricks - A History of Violence (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0cd6c77-ae32-4333-87ca-f4da28437389/16938315097-500.jpg" data-tags="hip-hop" role="button">
 P.O.S. - Never Better (2009-02-03)
@@ -282,6 +273,9 @@ Kendrick Lamar - Overly Dedicated (2010-09-14)
 <li data-cover="http://coverartarchive.org/release/ac3b9888-d183-482f-a901-98adc841dc48/8576156326-500.jpg" data-tags="underground hip-hop, alternative hip-hop" role="button">
 CunninLynguists - Oneirology (2011-03-22)
 </li>
+<li data-cover="https://img.discogs.com/LqHmpQmv7SQ4y0V9wI0BA-31EHo=/fit-in/445x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2788467-1301492671.jpeg.jpg" data-tags="hip hop, underground hip-hop" role="button">
+Pharoahe Monch - W.A.R. (We Are Renegades) (2011-03-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/c1d2f621-c5c1-4bc6-acf9-440192654421/1630959999-500.jpg" data-tags="rap" role="button">
 Wiz Khalifa - Rolling Papers (2011-03-28)
 </li>
@@ -303,11 +297,17 @@ Jedi Mind Tricks - Violence Begets Violence (2011-10-25)
 <li data-cover="http://coverartarchive.org/release/fbb952f0-cb95-427e-8189-50f29ae2c34f/5259694807-500.jpg" data-tags="rap" role="button">
 Yelawolf - Radioactive (2011-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/02ddf708-c4aa-4a41-b28f-e08cc1632a80/28267116967-500.jpg" data-tags="hip-hop, rap" role="button">
+JJ DOOM - KEY TO THE KUFFS (2012-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/7021e281-41a3-4dee-98ca-7ad851f1e970/2156020297-500.jpg" data-tags="experimental hip hop, peniscore, hip-hop" role="button">
 Death Grips - No Love Deep Web (2012-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
 Macklemore & Ryan Lewis - The Heist (2012-10-09)
+</li>
+<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
+The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2324711-2a9b-4316-8629-62b09bfd32de/15366947396-500.jpg" data-tags="hip-hop, rap, hip hop, cloud rap" role="button">
 A$AP Rocky - Long.Live.A$AP (2013-01-11)

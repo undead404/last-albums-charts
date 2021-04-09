@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T12:22:01.512Z
+date: 2021-04-09T18:45:01.697Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -7,9 +7,9 @@ title: "electronic rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="90s, albums i own on cd" role="button">Soulwax - Much Against Everyone's Advice (1999-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">Ratatat - LP3 (2008-07-07)</li>
 <li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">Kevin Rudolf - In The City (2008-11-24)</li>
-<li data-cover="https://img.discogs.com/OIhCyHMoOgvc2Lvx-nKK6HLaItA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2465284-1288473096.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
+<li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">Linkin Park - A Thousand Suns (2010-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">Awolnation - Megalithic Symphony (2011-03-15)</li>
-<li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
+<li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">Justice - Audio, Video, Disco (2011-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">Coldplay - Mylo Xyloto (2011-10-19)</li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">Phantogram - Nightlife (2011-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/bb58b36a-81ce-4b61-a757-fc937b9f95f4/7388937676-500.jpg" data-tags="alternative rock" role="button">Linkin Park - Living Things (2012-06-20)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/220dcfbf-f68c-3080-8966-1231debed51a/1121541209-500.jpg" data-tags="ambient, krautrock, progressive electronic, electronic" role="button">
+Ashra - New Age Of Earth (1976)
+</li>
 <li data-cover="http://coverartarchive.org/release/3eed1de9-3977-44cc-8e76-f442676698c9/19003555871-500.jpg" data-tags="electronic" role="button">
 Klaus Schulze - Moondawn (1976-04-16)
 </li>
@@ -35,12 +38,6 @@ Bronski Beat - The Age of Consent (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/d81eed84-88b5-4a32-95ca-4d858c38b16a/4665702075-500.jpg" data-tags="electronic" role="button">
 Apollo 440 - Millennium Fever (1994-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/d92fcf47-6e06-4e5f-b6c7-55bfe93b2c2f/13811062740-500.jpg" data-tags="90s, space rock, electronic rock" role="button">
-Babylon Zoo - The Boy With the X-Ray Eyes (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/d4ce056e-beeb-3c9f-82aa-84aadb1c98d8/2542527843-500.jpg" data-tags="punk" role="button">
-Moby - Animal Rights (1996-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/6da3c2e5-cfe5-458f-a202-8d4dc6473981/13803321396-500.jpg" data-tags="electronic" role="button">
 Apollo 440 - Electro Glide In Blue (1997-02-27)
@@ -66,11 +63,17 @@ Soulwax - Much Against Everyone's Advice (1999-03-15)
 <li data-cover="https://img.discogs.com/IrPgeuAaT2g3YFS9j_LV1JErqJw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3981598-1351321028-9016.jpeg.jpg" data-tags="synthpop" role="button">
 Paradise Lost - Host (1999-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/33f0bb8d-c07f-406e-9146-a786f258e569/8345837686-500.jpg" data-tags="electronic, rock, alternative rock, soft rock, electronic rock" role="button">
+Nosowska - Sushi (2000-05-15)
+</li>
 <li data-cover="https://img.discogs.com/H7d9Z1IAa4sSAKiUTri6zDYdiC0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-375064-1557511438-7181.jpeg.jpg" data-tags="rock, soft, electronic rock" role="button">
 Teddybears STHLM - Rock 'n' Roll Highschool (2000-06-07)
 </li>
-<li data-cover="https://img.discogs.com/9FQ13EQw4x6vzutUmK8AKwkAPOk=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-820944-1165896636.jpeg.jpg" data-tags="trip-hop" role="button">
+<li data-cover="https://img.discogs.com/lU8JOpVOHgwTfqSW8uc0IhKzrUM=/fit-in/553x482/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290388-1206828056.jpeg.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Bloodsport (2002-01-22)
+</li>
+<li data-cover="https://img.discogs.com/uFSSM5NNiwabWvmXZimpTwyjLkg=/fit-in/488x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-80637-1363860266-6734.jpeg.jpg" data-tags="electronic, electronic rock" role="button">
+Apollo 440 - Dude Descending a Staircase (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
@@ -96,9 +99,6 @@ The Faint - Wet From Birth (2004-09-04)
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
-<li data-cover="https://img.discogs.com/DfDcweJoT-KSw2P-qwEaONzz82c=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524549-1127650288.jpeg.jpg" data-tags="synthpop, ebm" role="button">
-Apoptygma Berzerk - You and Me Against the World (2005-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
 </li>
@@ -117,14 +117,14 @@ Black Strobe - Burn Your Own Church (2007-05-23)
 <li data-cover="http://coverartarchive.org/release/a278e457-bf21-489c-9c06-02ca8fb60343/3098115173-500.jpg" data-tags="gothic metal, symphonic metal, female fronted metal, nemesea" role="button">
 Nemesea - In Control (2007-06-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
-Athlete - Beyond The Neighbourhood (2007-08-27)
-</li>
-<li data-cover="https://img.discogs.com/iDYsTPvANTf4VsyKikp0vIPYc4U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1430746-1390012650-8402.jpeg.jpg" data-tags="pop, electropop, synthpop, 00s" role="button">
-Dragonette - Galore (2007-09-24)
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
+Klaxons - It's Not Over Yet (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5f7d155-695d-4a0e-a384-6c1fddb7dbee/9472199885-500.jpg" data-tags="electronic pop, electronic rock, pop rock alternativo, descubierto en 2013, discovered in 2013, facto delafe y las flores azules" role="button">
 Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/45ad92a5-5e62-40d5-ac94-f31865c312ef/15648453076-500.jpg" data-tags="depeche mode, electronic" role="button">
+Dave Gahan - Hourglass (2007-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)
@@ -138,17 +138,11 @@ Ratatat - LP3 (2008-07-07)
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
 Kerli - Love Is Dead (2008-07-08)
 </li>
-<li data-cover="https://img.discogs.com/A8bQe3b-m6ZWCu8b8VvWA_zRCs4=/fit-in/323x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709090-1238361216.jpeg.jpg" data-tags="alternative rock, industrial rock" role="button">
-Innerpartysystem - Innerpartysystem (2008-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/7ce22fe1-051d-47c8-ac86-a1a1c57d5879/5463327431-500.jpg" data-tags="industrial" role="button">
 Celldweller - Soundtrack For The Voices In My Head, Vol. 01 (2008-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6e974fb-9b0c-43dd-8919-024021995df0/19088510476-500.jpg" data-tags="electronic rock" role="button">
 Kevin Rudolf - In The City (2008-11-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/135156eb-f4cd-3c55-b8e7-a89cc5fc051a/9459000839-500.jpg" data-tags="alternative" role="button">
-Faunts - Feel.Love.Thinking.Of. (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9376a0eb-85cc-490c-bac5-27d234082c13/26623138612-500.jpg" data-tags="electronic, rock, electronic rock, synth rock" role="button">
 I Will Never Be The Same - Standby (2009-04)
@@ -159,20 +153,20 @@ Shaka Ponk - Bad Porn Movie Trax (2009-05-25)
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/f1c777b5-712d-4134-a5fc-ce50181a2dbe/4226151140-500.jpg" data-tags="industrial, industrial rock, industrial metal, electronic rock" role="button">
+The Luna Sequence - They Follow You Home (2009-08-25)
+</li>
 <li data-cover="https://img.discogs.com/UcT5cyCnvOuPGEKTcC8E2i6AMdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1922825-1256542182.jpeg.jpg" data-tags="shoegaze, 4ad" role="button">
 The Big Pink - A Brief History of Love (2009-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/36ad94a0-82f6-3eec-9fe6-209567941044/4945792946-500.jpg" data-tags="synthpop, electropop, new wave" role="button">
 Dragonette - Fixin to Thrill (2009-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/fad2af28-b836-4304-82aa-1cfdd3626588/8298746171-500.jpg" data-tags="alternative rock, rock" role="button">
+Dead By Sunrise - Out of Ashes (2009-09-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">
 Angels & Airwaves - LOVE (2010-02-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0416132-129a-42bc-8b39-422147a3fcf3/8322594072-500.jpg" data-tags="electronic" role="button">
-Ratatat - LP4 (2010-06-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronic, electro pop" role="button">
-3OH!3 - Streets of Gold (2010-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/efaa53a7-4c07-4441-80b1-06f402ec5f7d/3566590122-500.jpg" data-tags="drum and bass" role="button">
 The Qemists - Spirit In The System (2010-07-07)
@@ -183,7 +177,7 @@ Linkin Park - The Catalyst (2010-08-02)
 <li data-cover="https://img.discogs.com/ETH3FHLuyysOIt3UHKrVsVbluro=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2461659-1285365333.jpeg.jpg" data-tags="indie rock, nu-rave, alternative rock" role="button">
 Klaxons - Surfing the Void (2010-08-20)
 </li>
-<li data-cover="https://img.discogs.com/OIhCyHMoOgvc2Lvx-nKK6HLaItA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2465284-1288473096.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
+<li data-cover="https://img.discogs.com/E1rJV7-RN_OBhBtQnvJOdGKZbto=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8316881-1464046210-4791.jpeg.jpg" data-tags="alternative rock, electronic, rock" role="button">
 Linkin Park - A Thousand Suns (2010-09-08)
 </li>
 <li data-cover="https://img.discogs.com/Iugg7vm8-5jEl5QKHr6tDtvYxpI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494901-1399047156-6163.jpeg.jpg" data-tags="4 me, aggro synthpop" role="button">
@@ -191,6 +185,9 @@ Suuns - Zeroes QC (2010-10-12)
 </li>
 <li data-cover="https://img.discogs.com/BmSVv2To___mOLq7WviCbbYBWs0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506826-1287774795.jpeg.jpg" data-tags="experimental" role="button">
 Avey Tare - Down There (2010-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec6b20dc-8165-44b3-8fb4-fc3c8e54c6dd/2589776232-500.jpg" data-tags="electronic" role="button">
+I Blame Coco - The Constant (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/93b9d79e-7422-4c97-81ab-fea8ed068973/10666955584-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Blue Stahli (2011-03-02)
@@ -204,13 +201,16 @@ Panda Bear - Tomboy (2011-04-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
 Radiohead - Supercollider / The Butcher (2011-04-16)
 </li>
+<li data-cover="https://img.discogs.com/LPA2w-4DjKaKa7J63lr9HZWhFIc=/fit-in/500x457/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-389573-1393368466-9302.jpeg.jpg" data-tags="electronic, ambient" role="button">
+Moby - Destroyed (2011-05-11)
+</li>
 <li data-cover="https://img.discogs.com/kZPd2fmvmZ_9jSpe7sW6nI6Wzu8=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375517-1280377713.jpeg.jpg" data-tags="indie" role="button">
 Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 </li>
 <li data-cover="https://img.discogs.com/lNa7DQOqw9Z-CMhjsfHA6wpJf7E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3086811-1315087650.jpeg.jpg" data-tags="indietronica, synthpop, electro-rock, electronic rock" role="button">
 Housse de Racket - Alésia (2011-08-03)
 </li>
-<li data-cover="https://img.discogs.com/plVCZSdmG6V_v1_wFoeEEUvSNZM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7796109-1550015374-3228.jpeg.jpg" data-tags="electronic" role="button">
+<li data-cover="https://img.discogs.com/NReFsjxoYdr2yKqTGkr_LHFjyjM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3190739-1319809652.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Audio, Video, Disco (2011-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3d38348-6cec-47da-92ad-49969812116b/28429823396-500.jpg" data-tags="alternative rock, experimental" role="button">
@@ -225,7 +225,7 @@ I Fight Dragons - KABOOM! (2011-10-24)
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
 </li>
-<li data-cover="https://img.discogs.com/JVp-Oc4mxABc52Chxth6at_GCg4=/fit-in/587x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3333259-1326337431.png.jpg" data-tags="electronic, rock, british, indie rock, indietronica, shoegaze, 4ad, electronic rock" role="button">
+<li data-cover="https://img.discogs.com/j75Xz87F9JNmAfcRod_agzSdvDI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3523946-1432282788-6738.jpeg.jpg" data-tags="electronic, rock, british, indie rock, indietronica, shoegaze, 4ad, electronic rock" role="button">
 The Big Pink - Future This (2012-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
@@ -243,6 +243,9 @@ Dot Hacker - Inhibition (2012-05-01)
 <li data-cover="http://coverartarchive.org/release/ee805eba-996b-48c6-bccb-52b6ff5f4dd7/1017565236-500.jpg" data-tags="folk, indie, drone" role="button">
 Mount Eerie - Clear Moon (2012-05-22)
 </li>
+<li data-cover="https://img.discogs.com/2TkSVXGW0WrjZ5DL0i2wE3Js3lc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3862348-1347269597-1941.jpeg.jpg" data-tags="electronic rock, psb, post-dance edu-rock" role="button">
+Public Service Broadcasting - The War Room (2012-05-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
 Celldweller - Wish Upon A Blackstar (2012-06-12)
 </li>
@@ -254,9 +257,6 @@ Serj Tankian - Harakiri (2012-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9abd378-bb2c-4c66-af8a-ffef8e9d0a59/1924752901-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Beacon (2012-08-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/46e3ced9-47b3-4bdb-9515-9ab3c655a8be/1932609966-500.jpg" data-tags="neo-psychedelia, burrito-core, experimental" role="button">
-Animal Collective - Centipede Hz (2012-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)

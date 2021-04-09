@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T21:05:01.439Z
+date: 2021-04-09T18:16:06.963Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -39,6 +39,12 @@ Gil Scott-Heron - Pieces of a Man (1971)
 <li data-cover="http://coverartarchive.org/release/8e15d889-6442-48b9-8439-6dbc8565d6b3/16958087587-500.jpg" data-tags="german, proto-punk" role="button">
 Ton Steine Scherben - Warum geht es mir so dreckig? (1971)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
+Nina Simone - Here Comes The Sun (1971-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/b5e464cb-e75c-4c01-9e92-93791d4fbe60/15141346927-500.jpg" data-tags="soul, spoken word" role="button">
+Gil Scott-Heron - Free Will (1972)
+</li>
 <li data-cover="http://coverartarchive.org/release/562dd75a-49eb-4088-8c69-26a2cd1fb411/19678163449-500.jpg" data-tags="german" role="button">
 Ton Steine Scherben - Keine Macht für Niemand (1972)
 </li>
@@ -50,9 +56,6 @@ Bob Marley and the Wailers - Catch A Fire (1973-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1280555a-4ab5-4c72-ab51-bd883b9865f6/8094406633-500.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Plastic Surgery Disasters (1982-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/ba9f7999-6808-3bda-b924-350fef7130fa/9361258953-500.jpg" data-tags="rock, australian, 80s" role="button">
-Midnight Oil - 10,9,8,7,6,5,4,3,2,1 (1982-11)
 </li>
 <li data-cover="https://img.discogs.com/4lcMHoM32RRlEaWaznJDHbJAvqs=/fit-in/600x759/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5531913-1396043245-8007.jpeg.jpg" data-tags="punk, hardcore punk" role="button">
 Dead Kennedys - Frankenchrist (1985)
@@ -72,13 +75,10 @@ Steve Earle - Guitar Town (1986-03-05)
 <li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
 Bruce Hornsby & the Range - The Way It Is (1986-09-15)
 </li>
-<li data-cover="https://img.discogs.com/YT-k3cpEYapA2eGXlA82gZ1crCs=/fit-in/388x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275343-1334965635.jpeg.jpg" data-tags="punk, singer-songwriter, acoustic, political" role="button">
-Billy Bragg - Back to Basics (1987)
-</li>
 <li data-cover="http://coverartarchive.org/release/114ea1ec-d529-4c71-9ac7-a5a4aa13fcbd/22061206678-500.jpg" data-tags="80s, pop" role="button">
 Janet Jackson - Rhythm Nation 1814 (1989-09-15)
 </li>
-<li data-cover="https://img.discogs.com/i8tXBmjbInbe4lnJK_MWRuGKOw0=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2865037-1337269348-9706.jpeg.jpg" data-tags="80s, pop" role="button">
+<li data-cover="https://img.discogs.com/GuB3krqqMIGM8_h4n3pgjTF0bdg=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-232622-1572222531-4863.jpeg.jpg" data-tags="80s, pop" role="button">
 Janet Jackson - Rhythm Nation (1989-10-23)
 </li>
 <li data-cover="https://img.discogs.com/xYv9oqQix5EA4uhZtoyUhmZ_8o4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4870461-1442166097-6503.jpeg.jpg" data-tags="hip-hop, rap" role="button">
@@ -90,7 +90,7 @@ Billy Bragg - Don't Try This at Home (1991-09-17)
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">
 2Pac - 2Pacalypse Now (1991-11-12)
 </li>
-<li data-cover="https://img.discogs.com/-LThNZUNq51SbeSpgx6Ek71d8jY=/fit-in/600x930/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13636592-1558010995-4410.jpeg.jpg" data-tags="rap, 90s" role="button">
+<li data-cover="https://img.discogs.com/49TupoOfFHnaBKm9RkvrtSBCxxY=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-752129-1587079583-5709.jpeg.jpg" data-tags="rap, 90s" role="button">
 Arrested Development - 3 Years, 5 Months And 2 Days In The Life Of... (1992-03-24)
 </li>
 <li data-cover="https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg" data-tags="rock" role="button">
@@ -104,12 +104,6 @@ Propagandhi - How to Clean Everything (1993-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/c77de64a-633a-3e86-8da3-305bd8a14d0f/2709753142-500.jpg" data-tags="riot grrrl, punk" role="button">
 Bikini Kill - Pussy Whipped (1993-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/23764d1a-7588-34c3-9721-8b3ebeb0afa3/16574658536-500.jpg" data-tags="political, anarcho-punk, anarchist" role="button">
-Chumbawamba - Anarchy (1994-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/c07c0e12-e8e4-416d-bad2-6458aee6c0d8/14938677749-500.jpg" data-tags="quirky, energetic, playful" role="button">
-Café Tacvba - Re (1994-07-22)
 </li>
 <li data-cover="https://img.discogs.com/Ghadzn_xpqXGzIU_Dw8VJRa6uoU=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4358145-1553540610-8949.jpeg.jpg" data-tags="90s, rock" role="button">
 Manic Street Preachers - The Holy Bible (1994-08-29)
@@ -138,6 +132,9 @@ Pennywise - Full Circle (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/0202e76d-5859-4e4d-b26e-7ea828ca0962/5459181140-500.jpg" data-tags="hip hop, political, comedy, brazilian, parody, pop rap, sarcastic, conscious hip hop, pagode, comedy rap" role="button">
 Gabriel O Pensador - Quebra - Cabeça (1997-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c526990-9361-4863-8729-2908ffa760d7/3014501577-500.jpg" data-tags="rock, brazilian" role="button">
+Legião Urbana - Uma Outra Estação (1997-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">
 Chumbawamba - Tubthumper (1997-08-25)
 </li>
@@ -153,6 +150,9 @@ Refused - The Shape of Punk to Come (1998-10-27)
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/62f05db4-ba60-40c9-a7e6-2b901bdff7a7/5779967374-500.jpg" data-tags="classic rock, rock, soul, funk, brazil, brasil, mpb, political, samba, manguebeat" role="button">
+Mundo Livre S/A - Por Pouco (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
 </li>
@@ -164,6 +164,9 @@ Manic Street Preachers - Know Your Enemy (2001-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/67520d07-4fd8-467e-bbf9-7cceeb1b1a4c/2261960374-500.jpg" data-tags="reggae, michael franti, michael franti radio" role="button">
 Michael Franti & Spearhead - Stay Human (2001-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/42c91fc0-a767-4c5b-89e1-0bcb15497ed4/3376973203-500.jpg" data-tags="riot grrrl, electronic" role="button">
+Le Tigre - Feminist Sweepstakes (2001-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d2b68f-d527-498a-94cf-8a2683439fc0/22404891783-500.jpg" data-tags="hip-hop, political, political rap" role="button">
 The Coup - Party Music (2001-11-06)
@@ -201,9 +204,6 @@ Bad Religion - The Empire Strikes First (2004-06-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop" role="button">
 Beastie Boys - To the 5 Boroughs (2004-06-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
-The (International) Noise Conspiracy - Armed Love (2004-07-12)
-</li>
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Siren Song of the Counter Culture (2004-08-10)
 </li>
@@ -225,9 +225,6 @@ DANGERDOOM - The Mouse and the Mask (2005-10-11)
 <li data-cover="https://img.discogs.com/uabzvAXqB5mOtROxF3rV2THuRWw=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5013815-1382137753-7896.jpeg.jpg" data-tags="punk, punk rock" role="button">
 Propagandhi - Potemkin City Limits (2005-10-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca84182b-c2f1-462f-8945-2807299c0cad/20354021876-500.jpg" data-tags="indie" role="button">
-Nightmare Of You - Nightmare of You (2006)
-</li>
 <li data-cover="https://img.discogs.com/3g5uzWFn4SjP7kgu5-OA8CgZ_l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8721669-1467335974-4536.jpeg.jpg" data-tags="rock, reggae, folk, folk-rock, acoustic, political, reggae-rock" role="button">
 State Radio - Peace Between Nations (2006)
 </li>
@@ -237,13 +234,10 @@ Cire - Wholesale Buyout (2006)
 <li data-cover="https://img.discogs.com/1wnCWz9j9-VEXqDU5fT2HLzB4TA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670151-1578905504-8499.jpeg.jpg" data-tags="polski hip hop" role="button">
 O.S.T.R. - 7 (2006-02-24)
 </li>
-<li data-cover="https://img.discogs.com/q5dMCIUyl8RMcUNJn1f6-TRSYcM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3076344-1443924487-8789.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Neil Young - Living With War (2006-05-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/3a373a0c-6529-4a1f-94f7-95bd49ee80e4/15045824943-500.jpg" data-tags="melodic hardcore" role="button">
 Ignite - Our Darkest Days (2006-05-15)
 </li>
-<li data-cover="https://img.discogs.com/L65UYNg2hVAN0cBaoLksCCTTUN0=/fit-in/250x237/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3620354-1375836076-6414.jpeg.jpg" data-tags="hip-hop" role="button">
+<li data-cover="https://img.discogs.com/vJCvSS6S95nfXvm5FYP-_rDcD6E=/fit-in/590x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-780773-1167308486.jpeg.jpg" data-tags="hip-hop" role="button">
 The Roots - Game Theory (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/01d990ed-6bf1-4064-98a2-ef13f55aaf5d/1137214836-500.jpg" data-tags="industrial" role="button">
@@ -297,11 +291,17 @@ PJ Harvey - Let England Shake (2011-02-14)
 <li data-cover="http://coverartarchive.org/release/04017d57-82e9-4fa7-99e5-f3b80a4eb704/3374186256-500.jpg" data-tags="rock, political, check it out later, enter shikari related, less than 40 minutes" role="button">
 The King Blues - Punk & Poetry (2011-04-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/177b0c1b-d125-4a17-bb60-fa55271c4c39/18238258976-500.jpg" data-tags="alternative, experimental, political, wisdom, attitude, ratm" role="button">
+The Nightwatchman - World Wide Rebel Songs (2011-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/57449803-8d91-43dd-9534-a878b6b3ac79/1052742583-500.jpg" data-tags="hip-hop, rap, underground hip-hop, political, hardcore hip-hop" role="button">
 Immortal Technique - The Martyr (2011-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/1662b822-0dd0-46e3-8156-b08a58c4c211/3262945150-500.jpg" data-tags="punk rock" role="button">
 Anti-Flag - The General Strike (2012-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/11ec50fa-bce4-473d-bd3d-37e18715ef58/11927511039-500.jpg" data-tags="blackgrass" role="button">
+Panopticon - Kentucky (2012-06-04)
 </li>
 <li data-cover="https://img.discogs.com/s0bfwjJrGxjHEKPXVp2wTElAekc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3556521-1335129777.jpeg.jpg" data-tags="indie pop, indie folk" role="button">
 The Mynabirds - Generals (2012-06-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T03:38:01.361Z
+date: 2021-04-09T18:29:01.440Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Sonic Youth - Daydream Nation (1988-10)](http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg "Sonic Youth - Daydream Nation (1988-10)")
@@ -9,9 +9,9 @@ title: "noise rock: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">Sonic Youth - Sister (1987-06)</li>
 <li data-cover="http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg" data-tags="alternative, 80s" role="button">Sonic Youth - Daydream Nation (1988-10)</li>
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">Sonic Youth - Goo (1990-06-26)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, dance punk, rock" role="button">Death from Above 1979 - You're A Woman, I'm A Machine (2004-09-07)</li>
 <li data-cover="https://img.discogs.com/Qs-XsCyFcAq1-r3ykSEGmihWB3k=/fit-in/400x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2586371-1291821882.jpeg.jpg" data-tags="alternative rock, noise rock, post-punk" role="button">Sonic Youth - The Eternal (2009-06-03)</li>
 <li data-cover="http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg" data-tags="noise rock" role="button">Health - GET COLOR (2009-09-08)</li>
+<li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">Japandroids - Celebration Rock (2012-06-05)</li>
 <li data-cover="http://coverartarchive.org/release/07d46df6-ee00-4f79-ad1b-549620812d99/2251994757-500.jpg" data-tags="noise rock" role="button">METZ - Metz (2012-10-08)</li>
 </ol>
@@ -33,17 +33,17 @@ Sonic Youth - Confusion Is Sex (1983)
 <li data-cover="http://coverartarchive.org/release/96083093-8407-4c06-81c4-2852a67d8f2e/28131924716-500.jpg" data-tags="noise rock, no wave" role="button">
 Swans - Filth (1983-05-27)
 </li>
-<li data-cover="https://img.discogs.com/r1cfeH7W_7pfbpF47Ke0OU4b2L4=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852849-1281371771.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
+<li data-cover="https://img.discogs.com/EWJD-VeCM5bj-nw9YQaElt6Tccs=/fit-in/400x393/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11627074-1519812156-1649.jpeg.jpg" data-tags="80s, no wave, experimental" role="button">
 Sonic Youth - Bad Moon Rising (1985)
+</li>
+<li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
+The Jesus and Mary Chain - Psychocandy (1985-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3442347-3e3d-3705-bae9-42c48d5b575c/23448711507-500.jpg" data-tags="noise rock" role="button">
 Big Black - Atomizer (1986-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f3da9b5-2333-4ebd-97df-a1bcd32166be/9737664235-500.jpg" data-tags="noise rock" role="button">
 Sonic Youth - EVOL (1986-05)
-</li>
-<li data-cover="https://img.discogs.com/5zNSMbYZHlQ7JTNWXrH4Je9bDeE=/fit-in/600x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-724026-1280542367.jpeg.jpg" data-tags="80s, noise rock, psychedelic rock" role="button">
-The Flaming Lips - Hear It Is (1986-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/843d0653-f15d-3d62-befc-ccc951e0db48/5857978636-500.jpg" data-tags="noise rock" role="button">
 Big Black - Songs About Fucking (1987)
@@ -57,11 +57,17 @@ Sonic Youth - Sister (1987-06)
 <li data-cover="http://coverartarchive.org/release/1415ba1b-1208-4c4a-b711-65275b10ae05/24215425508-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Surfer Rosa (1988-03-21)
 </li>
+<li data-cover="https://img.discogs.com/Mlsyf08JR2XWL0MajoKztMIQbG8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-399498-1599418546-7381.jpeg.jpg" data-tags="noise rock, post-hardcore" role="button">
+Rapeman - Two Nuns and a Pack Mule (1988-08-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg" data-tags="alternative, 80s" role="button">
 Sonic Youth - Daydream Nation (1988-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/25ddf543-d006-48fc-99f3-ca38337f41fc/14505240050-500.jpg" data-tags="alternative, indie rock" role="button">
 Dinosaur Jr. - Bug (1988-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/b4640f48-b94f-4307-ae9e-4545261c08cf/16656065368-500.jpg" data-tags="shoegaze" role="button">
+My Bloody Valentine - Isn't Anything (1988-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0774c7c4-c2ca-4d77-92a2-176456ef7475/27985403238-500.jpg" data-tags="noise rock" role="button">
 Slint - Tweez (1989)
@@ -69,29 +75,20 @@ Slint - Tweez (1989)
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
 Sonic Youth - Goo (1990-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2eb8894-6ca3-488e-8359-f2a519ae6d0e/12712212150-500.jpg" data-tags="rock, noise rock, alternative, 90s, noise pop" role="button">
-The Flaming Lips - In a Priest Driven Ambulance (1990-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/39768213-ed10-4cdb-a516-d8194f3ac3aa/22607601704-500.jpg" data-tags="noise rock, post-hardcore" role="button">
 The Jesus Lizard - Goat (1991-02-21)
 </li>
 <li data-cover="https://img.discogs.com/f4P72BJdO1TNMPqS_VwPszoUmi8=/fit-in/346x343/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7279651-1437892064-9420.jpeg.jpg" data-tags="grunge" role="button">
 Hole - Pretty On The Inside (1991-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/d4dcea90-1d72-4141-8b18-68f0361258dd/14922151616-500.jpg" data-tags="indie rock, 90s" role="button">
-Yo La Tengo - May I Sing With Me (1992-02-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
 </li>
-<li data-cover="https://img.discogs.com/SLHJnIYqzB4g_EkBeInR4i_FIPw=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369572-1145132233.jpeg.jpg" data-tags="noise rock, paranoid, american underground, motivation, energetic, angry, freewheeling, raucous, drinking, detached, manic, harsh, gritty, volatile, visceral, brash, rambunctious, hostile" role="button">
-The Jesus Lizard - Liar (1992-09-16)
+<li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
+The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/617e6155-432c-4c95-a9ab-b78e1c7838c2/11841421329-500.jpg" data-tags="rock, alternative rock, alternative, psychedelic" role="button">
 Butthole Surfers - Independent Worm Saloon (1993-03-23)
-</li>
-<li data-cover="https://img.discogs.com/SCURkKpcskD2yteH7PuVXWUEdW8=/fit-in/573x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-726631-1233945075.jpeg.jpg" data-tags="indie rock" role="button">
-Built to Spill - Ultimate Alternative Wavers (1993-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
@@ -105,7 +102,16 @@ Blonde Redhead - Blonde Redhead (1995-01-19)
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
 </li>
-<li data-cover="https://img.discogs.com/-qhPXScneDmlx52G7o0Sjw3QmLo=/fit-in/500x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1600434-1287847309.jpeg.jpg" data-tags="experimental, alternative" role="button">
+<li data-cover="http://coverartarchive.org/release/b5c17241-a530-4a59-ae30-147407daa7f9/29014697539-500.jpg" data-tags="noise rock" role="button">
+The Jesus Lizard - Shot (1996-04-16)
+</li>
+<li data-cover="https://img.discogs.com/N6Xjb1_7B8Hm8CRkYw6BH7chHdU=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702256-1575569552-6407.jpeg.jpg" data-tags="indie rock, alternative" role="button">
+Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
+Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
+</li>
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
@@ -123,9 +129,6 @@ Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 <li data-cover="http://coverartarchive.org/release/3b1b7509-7bff-4a95-9ee8-f5e050cf102e/27704658731-500.jpg" data-tags="post-hardcore" role="button">
 Unwound - Leaves Turn Inside You (2001-04-17)
 </li>
-<li data-cover="https://img.discogs.com/3JwqbEgjQA4lt1zalOyHv0AIFU8=/fit-in/455x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3792988-1344624305-7242.jpeg.jpg" data-tags="noise rock, post-punk, indie, experimental" role="button">
-Liars - They Threw Us All In A Trench And Stuck A Monument On Top (2001-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/c9b684e7-1820-4f91-a43b-ebf12c580d9f/6624706040-500.jpg" data-tags="noise rock" role="button">
 mclusky - mclusky Do Dallas (2002-02-25)
 </li>
@@ -138,14 +141,8 @@ Lightning Bolt - Wonderful Rainbow (2003-03-04)
 <li data-cover="http://coverartarchive.org/release/34bec82a-41c0-35a5-aa99-9b94517b9d0a/9544109904-500.jpg" data-tags="indie rock, indie" role="button">
 Deerhoof - Apple O' (2003-03-18)
 </li>
-<li data-cover="https://img.discogs.com/TBm7vC3JofCKchB53enM7W5iJbo=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-490309-1540925911-8076.jpeg.jpg" data-tags="noise, noise rock, dischord, real post-hardcore" role="button">
-Black Eyes - Black Eyes (2003-05-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/7d60edd1-f1d0-4c29-a2a3-f9ad2d3f2de7/4808033952-500.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Sonic Nurse (2004-06-07)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, dance punk, rock" role="button">
-Death from Above 1979 - You're A Woman, I'm A Machine (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/caee1003-ccd8-40bf-b682-d79f0054b36a/11799281268-500.jpg" data-tags="noise rock, noise" role="button">
 Lightning Bolt - Hypermagic Mountain (2005-10-18)
@@ -159,11 +156,14 @@ Sonic Youth - Rather Ripped (2006-06-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock" role="button">
 The Mae Shi - HLLLYH (2007)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
+<li data-cover="https://img.discogs.com/yyEJnDmsAgi2MtnxbEkNB6F0qCs=/fit-in/597x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477527-1363988511-9599.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Deerhoof - Friend Opportunity (2007-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8e850b0-f816-41cf-8fd7-625e2e03ea6f/21355592306-500.jpg" data-tags="indie rock, noise rock, shoegaze, god tier, 2007 fave albums, bobjebus16 owns this, jaarlijstje 2007, worn-out from overplay, no waste album, stand out albums of 2007" role="button">
 The Twilight Sad - Fourteen Autumns & Fifteen Winters (2007-04-03)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
+Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8541b1c1-ab31-4b75-a3c9-5dde5e6f2266/23905573829-500.jpg" data-tags="noise rock" role="button">
 No Age - Weirdo Rippers (2007-06-11)
@@ -174,20 +174,14 @@ A Place to Bury Strangers - A Place To Bury Strangers (2007-08-13)
 <li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
 Liars - Liars (2007-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/98361027-19b7-4152-a77d-53c9e60bac27/11162838722-500.jpg" data-tags="noise rock" role="button">
-Health - HEALTH (2007-09-18)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">
 No Age - Nouns (2008-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
-Spiritualized - Songs In A&E (2008-05-26)
+<li data-cover="http://coverartarchive.org/release/5ff8b2c5-2c41-4ea9-b368-2886cf9f49eb/8837803331-500.jpg" data-tags="noise rock, boobs on cover" role="button">
+ミドリ - あらためまして、はじめまして、ミドリです。 (2008-05-14)
 </li>
 <li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
 Women - WOMEN (2008-07-08)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">
 Japandroids - Post-Nothing (2009-04-28)
@@ -216,10 +210,10 @@ The Twilight Sad - Forget the Night Ahead (2009-09-22)
 <li data-cover="http://coverartarchive.org/release/23a44f09-a57b-433c-8cda-489939232238/2633863660-500.jpg" data-tags="shoegaze" role="button">
 A Place to Bury Strangers - Exploding Head (2009-10-05)
 </li>
-<li data-cover="https://img.discogs.com/M9Zz4UUTfEefTcsq3Pb2VE1vxFo=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9105272-1490561619-4529.jpeg.jpg" data-tags="psychedelic" role="button">
+<li data-cover="https://img.discogs.com/mXU3qnTtVCSDOHUgRIyj8XjI4mE=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5395634-1392309898-3190.jpeg.jpg" data-tags="psychedelic" role="button">
 The Flaming Lips - Embryonic (2009-10-09)
 </li>
-<li data-cover="https://img.discogs.com/wEKekcRE7RqBzTKflOmhD_HVHY8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2105168-1600563941-7038.jpeg.jpg" data-tags="indie rock" role="button">
+<li data-cover="https://img.discogs.com/6FBvjyvJcxDrsx12AU17uI62p4c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2454624-1287282793.jpeg.jpg" data-tags="indie rock" role="button">
 OK Go - Of the Blue Colour of the Sky (2010-01-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
@@ -228,7 +222,7 @@ Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
 <li data-cover="https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg" data-tags="noise pop" role="button">
 Sleigh Bells - Treats (2010-05-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage, vinyl" role="button">
+<li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage" role="button">
 Ty Segall - Melted (2010-05-25)
 </li>
 <li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
@@ -246,7 +240,7 @@ No Age - Everything in Between (2010-09-15)
 <li data-cover="http://coverartarchive.org/release/b3468ed3-ebae-475b-932e-5578336ce72b/1944402956-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - My Father Will Guide Me Up a Rope to the Sky (2010-09-21)
 </li>
-<li data-cover="https://img.discogs.com/R4jvnnJPoOAgWpqqOdawRWaV0nQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg" data-tags="indie rock, dream pop" role="button">
+<li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/03a05ce9-6a91-4126-bad3-d53d1807c69a/9563885219-500.jpg" data-tags="noise rock" role="button">
@@ -257,6 +251,9 @@ The Joy Formidable - The Big Roar (2011-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/04ce3358-ce6f-4bd2-b00e-d0c8c5276064/2098747140-500.jpg" data-tags="noise rock, post punk, punk rock, sacred bones, real post-hardcore, sacred bones records" role="button">
 The Men - Leave Home (2011-05-24)
+</li>
+<li data-cover="https://img.discogs.com/mBDUnwvyoTKo5QyTIx08OeU7ffE=/fit-in/470x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3200497-1433009730-1356.jpeg.jpg" data-tags="table rock, experimental, noise rock" role="button">
+Lou Reed & Metallica - Lulu (2011-10-31)
 </li>
 <li data-cover="https://img.discogs.com/OxM5G5Qljj1PiIZK9cW-N7cNKUU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370640-1444723756-2718.jpeg.jpg" data-tags="indie rock, post-hardcore" role="button">
 Cloud Nothings - Attack on Memory (2012-01-24)
@@ -294,8 +291,14 @@ Wavves - Afraid Of Heights (2013-03-26)
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
 Sky Ferreira - Night Time, My Time (2013-10-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/4dcaa0f1-5b3e-40ae-b707-346ab0840b50/6341394734-500.jpg" data-tags="indie rock" role="button">
+Cloud Nothings - Here and Nowhere Else (2014-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/01430596-3eaa-4d2f-8198-8e15aac948bd/7269530596-500.jpg" data-tags="post-rock" role="button">
 Swans - To Be Kind (2014-05-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/3142baf1-e562-4759-9510-be1983e79e8e/7349660598-500.jpg" data-tags="indie rock, post-punk" role="button">
+Parquet Courts - Sunbathing Animal (2014-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a5b3b9-5e56-4f04-86fd-877c99cd720d/8102222224-500.jpg" data-tags="experimental, noise rock, shoegaze" role="button">
 Boris - Noise (2014-06-16)
@@ -308,9 +311,6 @@ The Wytches - Annabel Dream Reader (2014-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cff0cf88-31b7-48b4-94a6-11a6efad2267/8224518572-500.jpg" data-tags="indie rock, noise rock, shoegaze" role="button">
 Cymbals Eat Guitars - LOSE (2014-08-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3dcc134-4c86-47a4-9582-5db6fc21246c/9339940881-500.jpg" data-tags="indie rock, rock, noise rock, dance punk" role="button">
-Death from Above 1979 - The Physical World (2014-09-05)
 </li>
 <li data-cover="https://img.discogs.com/qNx490nv9tSlaaAVsLpNT3RnV6w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092431-1411209334-9708.jpeg.jpg" data-tags="math rock, noise rock" role="button">
 Shellac - Dude Incredible (2014-09-16)

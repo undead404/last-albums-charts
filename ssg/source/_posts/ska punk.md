@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:46:06.856Z
+date: 2021-04-09T18:11:01.449Z
 title: "ska punk: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -174,8 +174,11 @@ Charlie Brown JR. - 100% Charlie Brown JR - Abalando A Sua Fábrica (2001)
 <li data-cover="http://coverartarchive.org/release/b55cac2b-dfcf-435c-82c3-fa9ddd3136d9/26290886238-500.jpg" data-tags="ska punk" role="button">
 Mad Caddies - Rock The Plank (2001-04-10)
 </li>
-<li data-cover="https://img.discogs.com/iTW0tmDT0oTsSLDHR2VehOonFz0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3374351-1390864723-4747.jpeg.jpg" data-tags="progressive rock" role="button">
-RX Bandits - Progress (2001-07-17)
+<li data-cover="http://coverartarchive.org/release/ce3ca604-377b-4a04-8991-22e10f8b65a2/22979586770-500.jpg" data-tags="crack rock steady, punk, hardcore punk" role="button">
+Leftöver Crack - Mediocre Generica (2001-08-28)
+</li>
+<li data-cover="https://img.discogs.com/WSwqNu9ppMi2xzXcuAgugV3sPKg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1052646-1226812258.jpeg.jpg" data-tags="ska punk" role="button">
+Capdown - Pound For The Sound (2001-09-10)
 </li>
 <li data-cover="https://img.discogs.com/yXqu2Oa8ZPJtoxM9QzB-3pZLh-g=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512436-1289033350.jpeg.jpg" data-tags="punk rock, pop punk, ska punk" role="button">
 Goldfinger - Open Your Eyes (2002)
@@ -200,9 +203,6 @@ Less Than Jake - Anthem (2003-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1acd38d-e01b-4de2-a929-ac1b72ec7d7c/3412654508-500.jpg" data-tags="ska" role="button">
 Suburban Legends - Rump Shaker (2003-06-28)
-</li>
-<li data-cover="https://img.discogs.com/BVfwuQXzhI37YTKmDgeMGnXzV9w=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2357987-1279293997.jpeg.jpg" data-tags="progressive rock" role="button">
-RX Bandits - The Resignation (2003-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/631a47bd-cbf0-4191-ae34-49241f6189b7/3352557952-500.jpg" data-tags="punk" role="button">
 Rancid - Indestructible (2003-08-19)

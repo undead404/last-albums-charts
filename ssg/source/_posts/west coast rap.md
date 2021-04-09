@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:31:07.932Z
+date: 2021-04-09T18:37:01.567Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
@@ -54,6 +54,9 @@ Ice Cube - Death Certificate (1991-10-29)
 <li data-cover="http://coverartarchive.org/release/12eaf4ae-eaea-48ce-8731-5db687e3b71e/15827696836-500.jpg" data-tags="underground rap, old school rap, gangsta rap, west coast rap, bay area" role="button">
 RBL Posse - A Lesson To Be Learned (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/60aca4ff-ef2d-481d-af88-0902412e9963/7052463164-500.jpg" data-tags="hip-hop, 90s, west coast rap, white rap, collected, lastfm needs this, a sick honky straight goin donkey" role="button">
+N2DEEP - Back to the Hotel (1992-06-01)
+</li>
 <li data-cover="https://img.discogs.com/XvX9_Kx__SrkTiWRGAMlhTOEE_0=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-225151-1177019002.jpeg.jpg" data-tags="rap, gangsta rap, hardcore hip-hop, west coast rap" role="button">
 MC Ren - Kizz My Black Azz (1992-06-30)
 </li>
@@ -65,6 +68,9 @@ Dr. Dre - The Chronic (1992-12-15)
 </li>
 <li data-cover="https://img.discogs.com/kVi4UKbgy0zT2tWVNFT3Kr-CnGA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492190-1302215784.jpeg.jpg" data-tags="gangsta rap" role="button">
 Brotha Lynch Hung - 24 Deep (1993)
+</li>
+<li data-cover="https://img.discogs.com/rsjUWKSwAjIRfnJCNqHeU84Q64Q=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-527816-1400048104-1636.jpeg.jpg" data-tags="gangsta rap, west coast rap, bangin on wax" role="button">
+Bloods & Crips - Bangin on Wax (1993)
 </li>
 <li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Cypress Hill - Black Sunday (1993-07-20)
@@ -114,16 +120,16 @@ Tha Alkaholiks - Coast II Coast (1995-02-28)
 <li data-cover="http://coverartarchive.org/release/da934db7-e7bb-4ec4-b8cd-5bbe7f237578/14645532503-500.jpg" data-tags="rap" role="button">
 E-40 - In a Major Way (1995-03-14)
 </li>
-<li data-cover="https://img.discogs.com/S28q1tvobiEdD92pTQ3SHsWSsaI=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196321-1587587662-8545.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
+<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
 Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
-<li data-cover="https://img.discogs.com/4XeMGHq5Amyr3RTMy0iBdUOWRfc=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309391-1450531695-7510.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+<li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
 <li data-cover="https://img.discogs.com/U3KuBPys_k3DkoxORmSLgIVEtz4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-226063-1561987540-3451.jpeg.jpg" data-tags="g-funk" role="button">
 Tha Dogg Pound - Dogg Food (1995-10-31)
 </li>
-<li data-cover="https://img.discogs.com/eaR3Fnbm7IsPzKlzCcMa9VD6OA4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764064-1427488790-6905.jpeg.jpg" data-tags="gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/vwTD1j_bhLl9STCAasoRhUO15TU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-365963-1544624881-5586.jpeg.jpg" data-tags="gangsta rap" role="button">
 Westside Connection - Bow Down (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
@@ -134,9 +140,6 @@ MC Ren - The Villain In Black (1996-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/de3957cd-8960-4737-92be-985c62003e51/4410563298-500.jpg" data-tags="west coast rap" role="button">
 Delinquent Habits - Delinquent Habits (1996-06-04)
-</li>
-<li data-cover="https://img.discogs.com/U9fR6m6qibaohhlV3TPlqZIhPAo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5637044-1398611167-1061.jpeg.jpg" data-tags="hip-hop, alternative hip-hop, 1990s, west coast rap, cypress hill, extended play, deze heb ik, soul assassins, own it, us-american, columbia records, hip hop music, unreleased and revamped, ruffhouse records, k1r7m" role="button">
-Cypress Hill - Unreleased & Revamped (1996-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/062680e6-450a-3431-bfb6-1f65fa8b849d/25678343558-500.jpg" data-tags="hip hop, rap, west coast rap" role="button">
 Xzibit - At The Speed Of Life (1996-10-01)
@@ -155,9 +158,6 @@ Tha Alkaholiks - Likwidation (1997-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cb7e36a-21ca-41c5-a67f-b5ab8697f3b2/6670711958-500.jpg" data-tags="hip-hop" role="button">
 The Psycho Realm - The Psycho Realm (1997-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/46ba7d47-6059-3f6f-9049-3455c43f67a6/4438260831-500.jpg" data-tags="hip-hop" role="button">
-Hieroglyphics - 3rd Eye Vision (1998-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4adb7634-b3d9-4687-820a-052e2c32f8ab/14279529712-500.jpg" data-tags="west coast rap, g-funk, g-rap, west coas baby" role="button">
 WC - The Shadiest One (1998-04-28)
@@ -228,10 +228,7 @@ Shade Sheist - Informal Introduction (2002-09-10)
 <li data-cover="http://coverartarchive.org/release/af8d7a0f-e838-4387-8fae-9a4ccd37b7d0/16076492694-500.jpg" data-tags="hip-hop" role="button">
 Busdriver - Temporary Forever (2002-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e3e9586-f946-4895-8d09-7ddba20a6a38/8619050284-500.jpg" data-tags="rap" role="button">
-Xzibit - Man Vs. Machine (2002-10-01)
-</li>
-<li data-cover="https://img.discogs.com/fTrzU8dYMxdwGRMwLrwQMc6kr1c=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426669-1142683123.jpeg.jpg" data-tags="rap, g-funk" role="button">
+<li data-cover="https://img.discogs.com/k4Xwr_-2EvwkVY_tCBxUpqmumxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684169-1237899769.jpeg.jpg" data-tags="rap, g-funk" role="button">
 Snoop Dogg - Paid Tha Cost To Be Da Bo$$ (2002-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/105029c7-f9c6-4009-99ef-3649ee2f9657/6771386158-500.jpg" data-tags="rap, 2pac" role="button">
@@ -281,6 +278,9 @@ The Game - Doctor's Advocate (2006-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
 Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c5ea6f2-1f26-4945-a19d-067aa887c55c/22629239985-500.jpg" data-tags="gangsta rap" role="button">
+Daz Dillinger - Only On The Left Side (2008-08-12)
 </li>
 <li data-cover="https://img.discogs.com/A-puL6JADoR33d8_7qVAAFfqiiI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1620739-1295005337.jpeg.jpg" data-tags="rap" role="button">
 The Game - LAX (2008-08-22)

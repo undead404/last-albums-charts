@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T19:58:01.470Z
+date: 2021-04-09T18:23:01.504Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -57,6 +57,12 @@ Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
 <li data-cover="http://coverartarchive.org/release/d1b96e5e-41d4-302a-903e-ed8d87b2ee96/20102454104-500.jpg" data-tags="nu metal" role="button">
 P.O.D. - Brown (1996)
 </li>
+<li data-cover="https://img.discogs.com/aVZevwp2axHZDWkCKzHcMSIcnwI=/fit-in/428x418/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711681-1297618336.jpeg.jpg" data-tags="metal, rock, espanol, rap metal, def con dos, defcondos, originales" role="button">
+Def con Dos - Ultramemia (1996)
+</li>
+<li data-cover="https://img.discogs.com/NIv_lYinHC8at3EeQntemnpXHlc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260221-1402325740-4191.jpeg.jpg" data-tags="metal, japanese, punk, industrial, rapcore, digital hardcore, rap metal, mixture rock" role="button">
+The Mad Capsule Markets - 4 Plugs (1996-01-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
@@ -83,9 +89,6 @@ Rage Against the Machine - Live & Rare (1997-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6988fe8-843c-4800-b569-827885402c23/26961870135-500.jpg" data-tags="alternative rock, rap metal, rap rock" role="button">
 Thousand Foot Krutch - That's What People Do (1997-07-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/5407adc7-55e8-4aff-b4aa-8d58935822b7/15147108613-500.jpg" data-tags="alternative rock, alternative, 90s" role="button">
-311 - Transistor (1997-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
@@ -141,7 +144,7 @@ Primer 55 - Introduction To Mayhem (2000-01-25)
 <li data-cover="https://img.discogs.com/CtGOJP1-ANTLWbi3aMfENTk-xB4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1603844-1387496898-8916.jpeg.jpg" data-tags="rapcore" role="button">
 One Minute Silence - Buy Now... Saved Later (2000-04-10)
 </li>
-<li data-cover="https://img.discogs.com/rxFjy3xIduvrpuRl8hrTIwInbIY=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1217445-1586490553-7014.jpeg.jpg" data-tags="rapcore, hip-hop" role="button">
+<li data-cover="https://img.discogs.com/-FTLXlXt_wEClCPah1OnIfjAmQE=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519605-1264963269.jpeg.jpg" data-tags="rapcore, hip-hop" role="button">
 Cypress Hill - Skull & Bones (2000-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
@@ -293,9 +296,6 @@ Limp Bizkit - Gold Cobra (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/545d64b7-ea63-4de4-a36b-1cfae8a04c1c/1438400323-500.jpg" data-tags="nu metal" role="button">
 P.O.D. - Murdered Love (2012-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/0cc38f0b-01fc-4131-baff-e6d7f24ea116/6953148524-500.jpg" data-tags="indie, pop, folk, female vocalists, medieval, metal, electronic, electronica, female, indie pop, dance, ethereal, gothic metal, recommended, female vocalist, symphonic metal, power metal, fantasy, misc, spam, stunning, islamic, akiko shikata, poptron, cringeworthy, eftos, total spambo, spambo" role="button">
-Erutan - A Bard's Side Quest (2013-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T14:26:01.387Z
+date: 2021-04-09T18:34:01.457Z
 title: "summer: 100 albums you must listen to before you die"
 ---
 ![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
@@ -7,9 +7,9 @@ title: "summer: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">Slightly Stoopid - Everything You Need (2003-03-18)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">Yellowcard - Lights and Sounds (2006-01-18)</li>
+<li data-cover="http://coverartarchive.org/release/35aa1419-4284-47e8-ac73-b16996d4a4b3/4394764411-500.jpg" data-tags="folk" role="button">Noah and the Whale - Peaceful, The World Lays Me Down (2008-08-11)</li>
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">Shwayze - Shwayze (2008-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
-<li data-cover="http://coverartarchive.org/release/f57e5ac7-999d-4300-a4b4-39af539eee50/14359269189-500.jpg" data-tags="summer, xl recordings, great memories, w drodze, i like my bike" role="button">Jack Peñate - Everything is New (2009-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/2412d797-4511-417c-9608-c3b0e88bcaf4/15993113659-500.jpg" data-tags="summer, alternative dance" role="button">Friendly Fires - Pala (2011-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">Future Islands - Singles (2014-03-24)</li>
 <li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">Odesza - In Return (2014-09-08)</li>
@@ -30,8 +30,11 @@ Donna Summer - On the Radio: Greatest Hits Volumes I & II (1979-10-15)
 <li data-cover="https://img.discogs.com/bKgnmfyYE6CyP1H_n2tnzLPPrBU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5950052-1407162583-5162.jpeg.jpg" data-tags="80s, pop" role="button">
 XTC - Skylarking (1986-10-27)
 </li>
-<li data-cover="https://img.discogs.com/YgpHNzX8N5naVrHQJJN-Eo7SfKk=/fit-in/477x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8251321-1499979577-8542.png.jpg" data-tags="rap" role="button">
+<li data-cover="https://img.discogs.com/NHmQQFhssYzExKDPuY3HSkEHbF4=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105549-1414958720-6607.jpeg.jpg" data-tags="rap" role="button">
 Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
+</li>
+<li data-cover="https://img.discogs.com/RUeBMJaAKmIYU1FMGY3hb7RrKqc=/fit-in/600x1170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15068751-1586321104-3501.jpeg.jpg" data-tags="classic rock, 80s" role="button">
+Tom Petty and The Heartbreakers - Playback Retail Sampler (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/e701999d-416c-43c2-a369-0f7a13296c86/26825295448-500.jpg" data-tags="90s, piano rock, ben folds" role="button">
 Ben Folds Five - Ben Folds Five (1995-07-25)
@@ -42,14 +45,20 @@ G. Love & Special Sauce - Yeah, it's That Easy (1997)
 <li data-cover="http://coverartarchive.org/release/43a4e614-562d-4fd6-8693-df11aa8c06bc/15905929940-500.jpg" data-tags="rock, alternative rock, summer" role="button">
 Sugar Ray - 14:59 (1999-01-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/f05e777b-2959-4508-a3e0-e15e46829e3e/18253815412-500.jpg" data-tags="swedish" role="button">
-Håkan Hellström - Känn ingen sorg för mig Göteborg (2000-09-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
 The Avalanches - Since I Left You (2000-11-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b031f12-b7c1-4eb1-9fdc-1ce747d3f044/4710627776-500.jpg" data-tags="indie, twee pop, summer" role="button">
+All Girl Summer Fun Band - All Girl Summer Fun Band (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ec89647-6a77-4757-b334-382bd44e60e7/8217126604-500.jpg" data-tags="rock" role="button">
+Phantom Planet - California (2002-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/2dac1fd4-94ec-390a-985d-c7440c647a99/11024423754-500.jpg" data-tags="piano rock" role="button">
 Something Corporate - Leaving Through the Window (2002-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
+Dave Matthews Band - Busted Stuff (2002-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">
 Minus the Bear - Highly Refined Pirates (2002-11-19)
@@ -60,11 +69,8 @@ Slightly Stoopid - Everything You Need (2003-03-18)
 <li data-cover="http://coverartarchive.org/release/dc67270e-5cd7-4c47-ae59-773e23216fb4/18229562558-500.jpg" data-tags="indie" role="button">
 Yo La Tengo - Summer Sun (2003-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9168cdc-5131-454c-a754-0cfed305a304/8191189974-500.jpg" data-tags="alternative, jam band" role="button">
-O.A.R. - In Between Now and Then (2003-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/f4810353-6d20-4c08-aa9d-c2b5059ccc8c/20935552675-500.jpg" data-tags="indie" role="button">
-Fountains of Wayne - Welcome Interstate Managers (2003-06-10)
+<li data-cover="http://coverartarchive.org/release/d536cf3e-9910-3c32-b390-53ecae67000b/9037915381-500.jpg" data-tags="indie, indie rock" role="button">
+The Thrills - So Much for the City (2003-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
@@ -81,6 +87,9 @@ Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
 <li data-cover="http://coverartarchive.org/release/250bd2dc-a9e8-4c50-9b3d-7863a0efc6d2/3457679280-500.jpg" data-tags="indie" role="button">
 The Weepies - Happiness (2004-06-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
+Pinback - Summer in Abaddon (2004-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/d5121d98-590b-4c1e-ac3e-ee8b8149b9bf/4889929333-500.jpg" data-tags="indie rock" role="button">
 MAE - Destination: B-Sides (2004-11-16)
 </li>
@@ -89,9 +98,6 @@ The Libertines - What Became of the Likely Lads (2004-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9f84dac-2552-482c-a23f-1ff872328b0e/17300509799-500.jpg" data-tags="indie pop, 00s" role="button">
-Dr. Dog - Easy Beat (2005-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c258da99-ac2f-479c-95e7-21d9724fc225/11205419977-500.jpg" data-tags="indie, pop, folk" role="button">
 Aqualung - Strange and Beautiful (2005-03-22)
@@ -111,6 +117,9 @@ Minus the Bear - Menos El Oso (2005-08-23)
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ff24b6e-bb32-4500-b980-f99a413cc53f/1270154475-500.jpg" data-tags="summer" role="button">
+Bob Sinclar - Love Generation (2005-11-25)
+</li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
 </li>
@@ -122,6 +131,12 @@ Ballyhoo! - Do It For The Money! (2006-01-24)
 </li>
 <li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
 Islands - Return to the Sea (2006-04-03)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+Room Eleven - Six White Russians And A Pink Pussycat (2006-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
+M. Ward - Post-War (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf5303ec-7679-4867-a327-4088ac9d4dcc/15640207329-500.jpg" data-tags="indie, indie rock" role="button">
 Albert Hammond, Jr. - Yours To Keep (2006-10-09)
@@ -138,14 +153,11 @@ Rilo Kiley - Under The Blacklight (2007-08-20)
 <li data-cover="http://coverartarchive.org/release/e3c0a8ce-6f8f-4aa2-9db0-f0a9a44504d8/2103706278-500.jpg" data-tags="indie rock, indie, mellow" role="button">
 Minus the Bear - Planet of Ice (2007-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
-Metro Station - Metro Station (2007-09-18)
+<li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
+Sigur Rós - Hvarf - Heim (2007-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/55318661-9673-4bab-91cf-421c84b8701f/8635805656-500.jpg" data-tags="indie, rock, indie rock" role="button">
-Yeasayer - All Hour Cymbals (2007-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/07e26ae8-f0b9-41b1-9904-1221cdaf573d/4816706445-500.jpg" data-tags="shoegaze" role="button">
-The Raveonettes - Lust Lust Lust (2007-11-05)
+<li data-cover="https://img.discogs.com/w8r1pYpUZgSavwbMT0B8Eq31_hQ=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2053676-1305995556.jpeg.jpg" data-tags="summer, second playlist, warm wind" role="button">
+Firekites - The Bowery (2008)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
@@ -180,14 +192,11 @@ Gary Go - Gary Go (2009-05-25)
 <li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer" role="button">
 jj - jj n° 2 (2009-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/f57e5ac7-999d-4300-a4b4-39af539eee50/14359269189-500.jpg" data-tags="summer, xl recordings, great memories, w drodze, i like my bike" role="button">
-Jack Peñate - Everything is New (2009-06-22)
+<li data-cover="https://img.discogs.com/NrpppybMJKYr7UOpnfNhptBJXT8=/fit-in/289x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2340927-1278170818.jpeg.jpg" data-tags="indie rock, albums i can listen to a million times over without ever having the urge to skip a song" role="button">
+The Sounds - Crossing the Rubicon (2009-06-02)
 </li>
 <li data-cover="https://img.discogs.com/JJBgmPf-9tPrewwtG1ul6RU_TgI=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876303-1472076147-4763.jpeg.jpg" data-tags="summer, dfa" role="button">
 Yacht - See Mystery Lights (2009-08-04)
-</li>
-<li data-cover="https://img.discogs.com/XhboZjJlWFgPeyOE8OOwzPob4LE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3140098-1485691604-6102.jpeg.jpg" data-tags="indie, indie pop" role="button">
-The Drums - Summertime! (2009-08-04)
 </li>
 <li data-cover="https://img.discogs.com/Ine1l8ofiCWrwMeOgpFSVXheyys=/fit-in/595x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914517-1307048549.jpeg.jpg" data-tags="chill, reggae, summer" role="button">
 Rebelution - Bright Side Of Life (2009-09-04)
@@ -204,11 +213,14 @@ Neon Indian - Psychic Chasms (2009-10-13)
 <li data-cover="http://coverartarchive.org/release/e52df73a-6f14-4d34-bc2d-bfd1acddb52b/9062903201-500.jpg" data-tags="indie rock" role="button">
 Grouplove - Grouplove (2010)
 </li>
-<li data-cover="https://img.discogs.com/BkThKkDDr2gMbndYN8uMBxQF83g=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12795746-1542108268-8754.jpeg.jpg" data-tags="indie rock, happy, lo-fi, quirky, reflective, noise pop, summer, irreverent, organic, freewheeling, wry, fun, sophisticated, warm, drinking, silly, detached, playful, school, summery, rollicking, witty, exuberant, acerbic, humorous, bright, ramshackle, messy, sprawling, hanging out, restrained, sparkling" role="button">
-Pavement - Quarantine the Past: The Best of Pavement (2010-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
+</li>
+<li data-cover="https://img.discogs.com/G8CJXSrFx_vyi-x53xBSAgIxtpo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2357339-1305964061.jpeg.jpg" data-tags="indie rock" role="button">
+Minus the Bear - Omni (2010-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/97c3ab39-fc2d-4596-a1d0-5690cc80c253/26018767908-500.jpg" data-tags="chillwave" role="button">
+Blackbird Blackbird - Summer Heart (2010-07-02)
 </li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
 Wavves - King Of The Beach (2010-08-02)
@@ -246,7 +258,7 @@ Last Dinosaurs - In A Million Years (2012-01-01)
 <li data-cover="http://coverartarchive.org/release/8cb682fd-5155-478f-9106-faadcab76731/1316089663-500.jpg" data-tags="shoegaze, dream pop" role="button">
 DIIV - Oshin (2012-01-30)
 </li>
-<li data-cover="https://img.discogs.com/tE5bWqemCMhdoP5NuzcHKOTgc4E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500269-1332885357.jpeg.jpg" data-tags="funk, atmospheric, late night, summer, afrobeat, freewheeling, earthy, fun, 10s, summery, nocturnal, international, afro-beat, pulsing, brash, hanging out, night driving, kinetic, collabs, brassy, small gathering, honest jons records, african traditions, self-titled album" role="button">
+<li data-cover="https://img.discogs.com/tE5bWqemCMhdoP5NuzcHKOTgc4E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500269-1332885357.jpeg.jpg" data-tags="funk, atmospheric, late night, summer, afrobeat, freewheeling, earthy, 10s, summery, nocturnal, international, afro-beat, pulsing, brash, hanging out, night driving, kinetic, collabs, brassy, small gathering, honest jons records, african traditions, self-titled album" role="button">
 Rocket Juice & The Moon - Rocket Juice & the Moon (2012-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
@@ -255,23 +267,17 @@ The Shins - Port of Morrow (2012-03-15)
 <li data-cover="http://coverartarchive.org/release/eafe90d0-a000-413f-916f-8cb78ce88d02/956292892-500.jpg" data-tags="summer, lieblingssongs" role="button">
 Matisyahu - Sunshine (2012-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/92524aeb-4b8d-4532-9c14-fd5981c442ba/3474469853-500.jpg" data-tags="electronic, electropop, british, indie pop, house, indietronica, dreamy, feel good, summer, introspective, synthpop, bittersweet, fun, alternative dance, indie disco, nostalgia, wistful, she sings so sweetly, has me dancing even now" role="button">
+<li data-cover="http://coverartarchive.org/release/92524aeb-4b8d-4532-9c14-fd5981c442ba/3474469853-500.jpg" data-tags="electronic, electropop, british, indie pop, house, indietronica, dreamy, feel good, summer, introspective, synthpop, bittersweet, alternative dance, indie disco, nostalgia, wistful, she sings so sweetly, has me dancing even now" role="button">
 Saint Etienne - Words and Music by Saint Etienne (2012-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c42aa1fb-a930-4d93-9b8f-1ee6a6b03f73/26941915089-500.jpg" data-tags="indie" role="button">
 Walk the Moon - Walk the Moon (2012-06-15)
-</li>
-<li data-cover="https://img.discogs.com/H6W4JD3Ktb_NHsmcYn9zPEG0DJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17848894-1615783949-7430.jpeg.jpg" data-tags="pop punk" role="button">
-Yellowcard - Southern Air (2012-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bad4c9ec-4bcb-42a2-bdbf-b47888550ecb/18832505655-500.jpg" data-tags="psychedelic, garage rock, garage, debut album" role="button">
 Allah-Las - Allah-Las (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9baae094-99ad-41bd-9374-cea207d980cc/13172495826-500.jpg" data-tags="indie, rock, alternative, canadian, summer, july talk" role="button">
 July Talk - July Talk (2012-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/4884f05d-54c3-4f1f-9cef-06caad3b890e/10236133404-500.jpg" data-tags="burn, ellie, ellie goulding, goulding, ellie goulding burn" role="button">
-Ellie Goulding - Burn (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3206bb7e-f4fc-486e-af0c-1ea106a47fc9/2934325843-500.jpg" data-tags="electronic, chillwave" role="button">
 Toro y Moi - Anything in Return (2013-01-22)
@@ -297,17 +303,11 @@ Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 <li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
 AlunaGeorge - Body Music (2013-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1798dd8-58db-493a-bcec-ea3846ca6188/5116190233-500.jpg" data-tags="soul, funk, melodic, driving, energetic, summer, spiritual, reflection, uplifting, male vocalists, sophisticated, cerebral, summery, earth, celebration, celebratory, exuberant, empowerment, soothing, joyous, bright, theatrical" role="button">
-Earth, Wind & Fire - Now, Then & Forever (2013-09-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b8e257c-6c7e-4ab5-80fa-0037e14cc930/5122310454-500.jpg" data-tags="indie pop, indie rock, indie, synthpop" role="button">
 Grouplove - Spreading Rumours (2013-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/53f629ae-762f-4d82-ae12-fe84fe780b0a/6659220558-500.jpg" data-tags="electronic, electropop, indie pop, summer, ouvir" role="button">
 MØ - Don't Wanna Dance (2014-01-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/c93c34bc-163f-49c8-974e-c9895f03851e/6478054219-500.jpg" data-tags="indie rock" role="button">
-Real Estate - Atlas (2014-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/75ba334b-439c-4bd6-80ef-a23440c7ea58/6521617315-500.jpg" data-tags="new wave, 4ad, electronic, indie, 10s, 2014: albums" role="button">
 Future Islands - Singles (2014-03-24)

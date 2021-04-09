@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T21:28:01.409Z
+date: 2021-04-09T18:04:01.460Z
 title: "stoner rock: 100 albums you must listen to before you die"
 ---
 ![Queens of the Stone Age - Songs for the Deaf (2002-08-17)](https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg "Queens of the Stone Age - Songs for the Deaf (2002-08-17)")
@@ -66,7 +66,7 @@ Down - NOLA (1995-09-15)
 <li data-cover="https://img.discogs.com/Zqy0iud98Vj46YzHpmLQ6iGkm1Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667228-1145379565.jpeg.jpg" data-tags="stoner rock" role="button">
 Slo Burn - Amusing the Amazing (1996)
 </li>
-<li data-cover="https://img.discogs.com/y2olKQ62QYPn5PGJ_EhdS33EkWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097273-1191794769.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
+<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
 Sleep - Jerusalem (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac665057-4edf-4e12-9157-aa57abdc32c7/6513527640-500.jpg" data-tags="stoner rock, heavy metal" role="button">
@@ -138,14 +138,14 @@ Karma to Burn - Almost Heathen (2001-09-04)
 <li data-cover="http://coverartarchive.org/release/30c332b7-1b78-3555-8cfe-79138300bec4/22160678004-500.jpg" data-tags="stoner rock" role="button">
 Fu Manchu - California Crossing (2001-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/ba831c7b-0759-4d98-8832-53a07695c31c/9796517771-500.jpg" data-tags="stoner rock" role="button">
+Hermano - ...Only a Suggestion (2002-07-09)
+</li>
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Songs for the Deaf (2002-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e5e3a41-9d84-44c0-a574-48cda73cde95/7574819387-500.jpg" data-tags="rock" role="button">
 Chevelle - Wonder What's Next (2002-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b137ee7-971c-4f7a-8a6d-9add99ed0f0a/12622084383-500.jpg" data-tags="rock, dance punk" role="button">
-Death from Above 1979 - Heads Up (2002-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Sleep - Dopesmoker (2003-04-22)
@@ -164,9 +164,6 @@ Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/37ecd876-bccf-383d-8e78-b0f2cc13c964/19386733501-500.jpg" data-tags="stoner rock" role="button">
 Clutch - Blast Tyrant (2004-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/7f7bce4f-00b2-4284-8fff-50fc71c9cfe9/11089358340-500.jpg" data-tags="stoner rock, stoner metal" role="button">
-Om - Variations on a Theme (2005-02-15)
 </li>
 <li data-cover="https://img.discogs.com/jBzR_P3-JnpTBSU2IYwpLY9VZK4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5330495-1390727105-4933.jpeg.jpg" data-tags="stoner rock, rock, alternative rock" role="button">
 Queens of the Stone Age - Lullabies to Paralyze (2005-03-18)
@@ -207,9 +204,6 @@ Eagles of Death Metal - Death By Sexy (2006-04-11)
 <li data-cover="http://coverartarchive.org/release/37e09ed4-5543-4c4b-b9b9-0f5d690c843e/8360166556-500.jpg" data-tags="stoner rock, rock" role="button">
 Black Stone Cherry - Black Stone Cherry (2006-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a014fc8-b030-491a-9dc1-e8cf74ace99c/4549690587-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
-Colour Haze - Tempel (2006-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/86d31939-fbcc-429c-a0e3-1a5bb5330b75/18247492752-500.jpg" data-tags="stoner rock, epic, headbangers ball, a senile animal, you know her life was saved by last fm free music player, some kind of gold, 21st century in music" role="button">
 Melvins - A Senile Animal (2006-10-10)
 </li>
@@ -227,6 +221,9 @@ Graveyard - Graveyard (2007-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab673930-34b2-426d-831d-0dd47caa26b0/4819325736-500.jpg" data-tags="stoner rock" role="button">
 Truckfighters - Phi (2007-10-08)
+</li>
+<li data-cover="https://img.discogs.com/Dkj1ny2hpfEv0tyauL2jnF89ffw=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1824200-1245800516.jpeg.jpg" data-tags="stoner rock, psychedelic rock, post-rock" role="button">
+My Sleeping Karma - Satya (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/17888dca-1e01-4f36-b6ed-8ac76a78b8f1/26507081984-500.jpg" data-tags="stoner rock, stoner metal" role="button">
 Torche - Meanderthal (2008-04-08)
@@ -320,5 +317,8 @@ King Gizzard & The Lizard Wizard - Float Along - Fill Your Lungs (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dddeade-8f37-4413-8d3c-2db25e0e2e36/5478722467-500.jpg" data-tags="stoner rock" role="button">
 Earthless - From the Ages (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/30683b1f-e4df-46f7-a170-2de84a5f13bf/8137779784-500.jpg" data-tags="rock" role="button">
+Royal Blood - Royal Blood (2014-08-22)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:10:01.465Z
+date: 2021-04-09T17:46:07.033Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -39,23 +39,23 @@ Gloria Estefan - Greatest Hits (1992-10-30)
 <li data-cover="http://coverartarchive.org/release/818d8278-b9a2-4e61-b265-dd6e57a2aa6c/8319524557-500.jpg" data-tags="latin" role="button">
 Gloria Estefan - Mi Tierra (1993-06-22)
 </li>
-<li data-cover="https://img.discogs.com/as7sw2U6YM_pqGw0a7tzsR8_NTI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8553345-1463927658-7075.jpeg.jpg" data-tags="tejano, selena" role="button">
-Selena - Amor Prohibido (1994-03-22)
-</li>
 <li data-cover="https://img.discogs.com/CymqfUebWk6JIhMNkp2cRtMF6mU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10597828-1500660748-7245.jpeg.jpg" data-tags="gipsy kings" role="button">
 Gipsy Kings - Greatest Hits (1994-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c07c0e12-e8e4-416d-bad2-6458aee6c0d8/14938677749-500.jpg" data-tags="quirky, energetic, playful" role="button">
-Café Tacvba - Re (1994-07-22)
 </li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
 Shakira - Pies Descalzos (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce04d4ed-9cda-4d1d-8304-33f143db0b6a/6375099104-500.jpg" data-tags="blues, rock, acoustic" role="button">
-Ben Harper - Fight For Your Mind (1995-07)
+<li data-cover="http://coverartarchive.org/release/f69d1cdc-e903-40f8-ab38-c1e968d26f60/9857346505-500.jpg" data-tags="latin, spanish" role="button">
+Enrique Iglesias - Enrique Iglesias (1995-05-21)
+</li>
+<li data-cover="https://img.discogs.com/agIVmxuf05EzCdwusuUhqjvAmIE=/fit-in/469x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2611391-1293119185.jpeg.jpg" data-tags="pop, latin" role="button">
+Ricky Martin - A Medio Vivir (1995-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/da9bd129-a9ac-4d9d-b915-5940d0a4f451/10021627605-500.jpg" data-tags="spanish" role="button">
 Jarabe de Palo - La Flaca (1996)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="latin, lucerito" role="button">
+Lucero - Lucero (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/321e7965-876b-404b-a1ab-c0f8395fe320/14938667115-500.jpg" data-tags="latin, alternative latin" role="button">
 Café Tacvba - Avalancha de éxitos (1996-11-05)
@@ -78,20 +78,20 @@ Pink Martini - Sympathique (1997-11-11)
 <li data-cover="http://coverartarchive.org/release/ca4499f3-cb74-4709-bbe1-540bfcda0a78/1866423682-500.jpg" data-tags="latin, ska, patchanka" role="button">
 Mano Negra - Best Of (1998)
 </li>
+<li data-cover="https://img.discogs.com/kzuEVcaPdfDSKJwaFPlc0bbINmU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382012-1369591658-1780.jpeg.jpg" data-tags="spanish, rock" role="button">
+Jarabe de Palo - Depende (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/49c8febc-20e8-340b-a5c9-ebe368784ec7/3011285000-500.jpg" data-tags="latin, instrumental, acoustic" role="button">
+Gustavo Santaolalla - Ronroco (1998-01-13)
+</li>
 <li data-cover="https://img.discogs.com/uhtWtyjsps4qpye-jxhAj7uNpAE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4843072-1396451672-1423.jpeg.jpg" data-tags="latin" role="button">
 Ricky Martin - Vuelve (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">
 Manu Chao - Clandestino (1998-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ecd0741-b962-4d0d-afa0-f05446047ba3/9784794502-500.jpg" data-tags="latin" role="button">
-Ozomatli - Ozomatli (1998-06-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2a699be-f839-3fd1-bb88-92fa121d243c/10960525571-500.jpg" data-tags="shakira" role="button">
 Shakira - Dónde Están los Ladrones? (1998-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a88fa5e-9ec5-4164-b80c-ad7b11d47cfd/16989814994-500.jpg" data-tags="latin, jazzdance" role="button">
-Touch and Go - I Find You Very Attractive (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0f72e80-43c1-4b6f-bafb-befb3b049b80/15836875362-500.jpg" data-tags="reggae, latin, salsa, spanish" role="button">
 Sergent Garcia - Un Poquito Quema'o (1999-02-22)
@@ -105,7 +105,7 @@ Ricky Martin - Ricky Martin (1999-05-04)
 <li data-cover="https://img.discogs.com/1DR0jBQzGVXuAlwXyBIu_fdIF3E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13762857-1560590339-1299.jpeg.jpg" data-tags="pop" role="button">
 Jennifer Lopez - On the 6 (1999-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative" role="button">
+<li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
 Smash Mouth - Astro Lounge (1999-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">
@@ -113,6 +113,9 @@ Santana - Supernatural (1999-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8888f5a-c1a7-4d8c-9c43-41fb128332a1/2940270825-500.jpg" data-tags="pop, rock, acoustic, latin, live, sunday morning, latin grammy nominated, all, alles, -all-" role="button">
 Maná - MTV Unplugged (1999-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d5b8acc-ca4e-3136-b5c6-9d1a9a4badcd/21568717801-500.jpg" data-tags="mambo, pop" role="button">
+Lou Bega - A Little Bit Of Mambo (1999-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/42579a94-0d4b-3138-8e4f-cc618643d87f/8121657097-500.jpg" data-tags="cuban" role="button">
 Orishas - A Lo Cubano (1999-09)
@@ -138,12 +141,6 @@ Ricky Martin - Sound Loaded (2000-11-07)
 <li data-cover="https://via.placeholder.com/450" data-tags="sin bandera" role="button">
 Sin Bandera - Sin Bandera (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/96fe63e2-7ded-4b69-a79d-b7ff407dcd69/17622833440-500.jpg" data-tags="jazz, nu jazz, bossa nova" role="button">
-Nicola Conte - Bossa Per Due (2001-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/34d72fb7-f20c-4caa-98aa-178249a8dc95/3038759182-500.jpg" data-tags="indie pop" role="button">
-Kings of Convenience - Versus (2001-10-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/ccc63332-20d9-45e5-8696-4a43a878573c/5678864747-500.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Escape (2001-10-24)
 </li>
@@ -158,6 +155,9 @@ Aventura - We Broke The Rules (2002-07-02)
 </li>
 <li data-cover="https://img.discogs.com/H-RRsN_XWMwq7K8Bh7nZY6REuN8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9984617-1517708929-2950.jpeg.jpg" data-tags="latin" role="button">
 Natalia Lafourcade - Natalia Lafourcade (2002-07-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/119d51e7-9f3f-40dc-a386-8e6d99d5775a/16061417129-500.jpg" data-tags="latin rock" role="button">
+Maná - Revolución de Amor (2002-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e557f9b-9954-477d-a4c2-5dd7bd945fda/4672249676-500.jpg" data-tags="rock, latin rock" role="button">
 Santana - Shaman (2002-10-22)
@@ -174,19 +174,19 @@ Jennifer Lopez - This Is Me... Then (2002-11-19)
 <li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">
 Tribalistas - Tribalistas (2002-12-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e500047-978a-44d4-84ef-f714be4235ec/16071252194-500.jpg" data-tags="rock, soul, blues, ben harper" role="button">
-Ben Harper - Diamonds On The Inside (2003-03-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/8f44d020-ecbb-4f28-af8e-81ca8db8bf5c/16337197363-500.jpg" data-tags="latin" role="button">
 Jarabe de Palo - Bonito (2003-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f7202ed-f84c-4011-8f3a-0ff2857d63f4/6599454390-500.jpg" data-tags="latin, energetic, irreverent, confident, freewheeling, drinking, playful, partying, enigmatic, latin grammy nominated, day driving, alternative latin" role="button">
 Café Tacvba - Cuatro Caminos (2003-06-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5388af4-5004-482b-b30d-9e9bd32405d7/26914695867-500.jpg" data-tags="latin" role="button">
+Thalía - Thalia (2003-07-08)
+</li>
 <li data-cover="https://img.discogs.com/2vYhM-bwoVriaTPeRjmK0z1GalY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11749483-1521731526-1286.jpeg.jpg" data-tags="sin bandera" role="button">
 Sin Bandera - De Viaje (2003-08-21)
 </li>
-<li data-cover="https://img.discogs.com/-mn5m6C8PS1GcbLRs7crnsvmqq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7098914-1433699223-2052.jpeg.jpg" data-tags="britpop, indie rock" role="button">
+<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8472ac8d-284a-3504-8e36-7e1456f54f0a/18885750436-500.jpg" data-tags="world, latin" role="button">
@@ -194,6 +194,9 @@ Lhasa - The Living Road (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/52b924be-bf9c-44ab-bb1d-c2300db431cd/7851491988-500.jpg" data-tags="chillout, latin" role="button">
 Federico Aubele - Gran Hotel Buenos Aires (2004-02-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/ddc66967-95b4-4870-86b4-7908d019935a/23824057797-500.jpg" data-tags="latin, belgian" role="button">
+Gabriel Rios - Ghostboy (2004-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c55aa5c-ec1f-4758-82a5-244866c06f69/4521382366-500.jpg" data-tags="latin" role="button">
 Ozomatli - Street Signs (2004-06-21)
@@ -206,6 +209,9 @@ Pink Martini - Hang On Little Tomato (2004-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a271195e-6004-4766-a825-1fe0c2a9bab0/8225146325-500.jpg" data-tags="cuban, orishas" role="button">
 Orishas - El Kilo (2005)
+</li>
+<li data-cover="https://img.discogs.com/loqCR9di_kyq2hhzGT2D4lcCzEM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858208-1377681398-5115.jpeg.jpg" data-tags="pop, rnb" role="button">
+Jennifer Lopez - Rebirth (2005-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d95751d8-e622-4fa1-b745-b69c4596889c/15019413195-500.jpg" data-tags="pop, reik" role="button">
 Reik - Reik (2005-05-24)
@@ -227,9 +233,6 @@ Cibelle - The Shine Of Dried Electric Leaves (2006-05-02)
 </li>
 <li data-cover="https://img.discogs.com/cOP6xm-3k2oCYf05vZHqYJ-eaL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1314544-1602976567-6600.jpeg.jpg" data-tags="spanish, pop, rock, alternative, latin, mexico, ballad, mexican, mexicano, mierda" role="button">
 Kudai - Sobrevive (2006-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f6aee88-6d56-34d2-a628-eead929a45e3/6358999364-500.jpg" data-tags="pop, singer-songwriter, indie" role="button">
-Paolo Nutini - These Streets (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b29d8dba-bb5c-4260-84d3-6a82e2993199/22494628773-500.jpg" data-tags="spanish, singer-songwriter, acoustic, latin, world music, 00s, trova, trovadores, latin grammy nominated, favoritos, trovador, jorge drexler, arbeitsmusik" role="button">
 Jorge Drexler - 12 segundos de oscuridad (2006-09-18)
@@ -258,10 +261,13 @@ Jennifer Lopez - Como Ama Una Mujer (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/8ccfba1d-72f5-4614-90fd-3c5056106622/15809143912-500.jpg" data-tags="jazz" role="button">
 Pink Martini - Hey Eugene! (2007-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae79c52b-8ed3-45dd-a208-a4bac7c21fb6/28993094834-500.jpg" data-tags="spanish, rock, latin, relaxing, spanish fusion, latin grammy nominated, album collection" role="button">
+Jarabe de Palo - Adelantando (2007-05-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="enrique iglesias, enrique" role="button">
 Enrique Iglesias - Insomniac (2007-06-11)
 </li>
-<li data-cover="https://img.discogs.com/qVjBD2zNd7yt8T2nhZpyzlDXRmM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061809-1511883604-1888.jpeg.jpg" data-tags="latin" role="button">
+<li data-cover="https://img.discogs.com/pb51h1WEIxxEdn8r9qgii2P-SbM=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1050300-1365315769-2069.jpeg.jpg" data-tags="latin" role="button">
 Manu Chao - La Radiolina (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/33dfe630-be9d-4251-9955-bd6163dd58df/16062479844-500.jpg" data-tags="downtempo, chillout, latin" role="button">
@@ -288,11 +294,8 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 <li data-cover="http://coverartarchive.org/release/cf3dc753-6a43-41a6-9df6-bd9c3757f1f1/3574760050-500.jpg" data-tags="calle 13, hip-hop" role="button">
 Calle 13 - Los De Atrás Vienen Conmigo (2008-10-07)
 </li>
-<li data-cover="https://img.discogs.com/0e9vPOz4PapaiDdlFbVqkuwTzh4=/fit-in/600x437/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11222152-1512173075-7949.jpeg.jpg" data-tags="pop" role="button">
+<li data-cover="https://img.discogs.com/ONCBWP2ZE01EFgx1hgo6ZnpKd_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10505152-1498829613-2192.jpeg.jpg" data-tags="pop" role="button">
 Enrique Iglesias - Greatest Hits (2008-11-03)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/GRdLj9VQTH8q4-BbEDIasPD3_-Y=/fit-in/446x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6930291-1429756923-9470.jpeg.jpg" data-tags="pop" role="button">
 Nelly Furtado - Mi Plan (2009-09-11)
@@ -309,14 +312,11 @@ Enrique Iglesias - Euphoria (2010-07-05)
 <li data-cover="https://img.discogs.com/W3rrkSVJal2IKVaQ8LkewX36T-U=/fit-in/600x854/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9330007-1567446183-1508.png.jpg" data-tags="pop" role="button">
 Enrique Iglesias - I Like It (2010-08-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1155ca2-d814-4f17-9426-743189f8d853/15396503893-500.jpg" data-tags="pop, c, latin, g, k, j, e, misc, i, o, bananas, x, d, shady, s, b, h, w, dolce, m, t, l, y, z, n, p, q, v, grady, partial, u, music to listen to in 2010, shady grady, deek, auditory, deek deek, deek deek deek, dake, ploppy, dake-bonoism, bonoism, jibby, specific generalities, specificity, generality, plopper, male or female, non-zero" role="button">
+<li data-cover="http://coverartarchive.org/release/d1155ca2-d814-4f17-9426-743189f8d853/15396503893-500.jpg" data-tags="pop, latin, bananas, shady, dolce, grady, partial, music to listen to in 2010, shady grady, deek, auditory, deek deek, deek deek deek, dake, ploppy, dake-bonoism, bonoism, jibby, specific generalities, specificity, generality, plopper, male or female, non-zero" role="button">
 El Guincho - Pop Negro (2010-09-13)
 </li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
 Shakira - Sale el Sol (2010-10-14)
-</li>
-<li data-cover="https://img.discogs.com/abIZqGPCH1J_m4xN2KxbqD9yVPU=/fit-in/529x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3029115-1312423981.jpeg.jpg" data-tags="dance, pop" role="button">
-Jennifer Lopez - Love? (2011-05-02)
 </li>
 <li data-cover="https://img.discogs.com/2Q2uyR6MeY09UOYicMOrErDKrA8=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9179624-1476173102-9219.jpeg.jpg" data-tags="spanish, latin, pop, rock, female vocalists" role="button">
 Shakira - Live From Paris (2011-11-01)
