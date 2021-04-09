@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:42:01.434Z
+date: 2021-04-09T23:02:01.434Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -35,9 +35,6 @@ The Shins - Oh, Inverted World (2001-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a1e5f83-4be0-48ff-8477-dce2e73a2ace/11716165288-500.jpg" data-tags="indie pop, indie" role="button">
 Stars - Heart (2002)
-</li>
-<li data-cover="https://img.discogs.com/QYUgzc0NWWaj53sjcqkxnd5E18k=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-353661-1581862939-2865.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Architecture in Helsinki - Fingers Crossed (2003-02-10)
 </li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
@@ -221,6 +218,9 @@ Feist - Metals (2011-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d2b9813-5cc3-4408-b222-2a3f5b0768f6/4081358348-500.jpg" data-tags="british, folk" role="button">
+Birdy - Birdy (2011-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)

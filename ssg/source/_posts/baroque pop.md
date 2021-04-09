@@ -1,15 +1,15 @@
 ---
-date: 2021-04-09T17:00:01.496Z
+date: 2021-04-09T22:59:01.422Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">Arcade Fire - Funeral (2004-09-13)</li>
+<li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">Fleet Foxes - Fleet Foxes (2006)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
-<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">Fleet Foxes - Helplessness Blues (2011-04-29)</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">Florence + the Machine - Ceremonials (2011-10-28)</li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">Lana Del Rey - Born to Die (2012-01-27)</li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)</li>
@@ -36,17 +36,14 @@ Van Dyke Parks - Song Cycle (1968)
 <li data-cover="https://img.discogs.com/RhrsE_Tzsm0I_DW4-b2j4Vpd0N0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712171-1394761192-9723.jpeg.jpg" data-tags="60s" role="button">
 Margo Guryan - Take a picture (1968)
 </li>
-<li data-cover="https://img.discogs.com/S-CWL0mzYk9AP5lli2gm5Hu_39w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7956050-1452375935-3317.jpeg.jpg" data-tags="60s, baroque pop" role="button">
-Bee Gees - Horizontal (1968-01)
+<li data-cover="https://img.discogs.com/ab__G-H8T6w87q5XPpCYOQOQcwo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694867-1220183882.jpeg.jpg" data-tags="60s" role="button">
+The Kinks - The Kinks Are the Village Green Preservation Society (1968-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7b0b85d-d160-49fa-bbe1-cbb6366ee3f0/9259553603-500.jpg" data-tags="progressive rock, baroque pop, psychedelic pop, psychedelic, argentina, art rock, folk rock, psychedelic rock, psychedelic folk, caos coleccion rock latinoamericano, mejores discos del rock nacional segun rolling stone, obra maestra, rock tops, raddle, hi daily" role="button">
 Almendra - Almendra (1969-11-29)
 </li>
 <li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
 John Cale - Vintage Violence (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/4831d4b1-ef4c-3140-b7b3-b629bd4b0eed/26221497654-500.jpg" data-tags="70s" role="button">
-The Beach Boys - Sunflower (1970-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
@@ -69,6 +66,12 @@ The Stranglers - La Folie (1981-11-09)
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/b75b6773-2687-4924-826a-c8d392aa72ee/15180250243-500.jpg" data-tags="soft rock, baroque pop, nick drake, brian wilson, iveldie best of 1988, record collectors 80s rock album best 100, bluk glub, self-titled album" role="button">
+Brian Wilson - Brian Wilson (1988-07-12)
+</li>
+<li data-cover="https://img.discogs.com/6w2N9p1bSarZMbzK3ir2Bgqrhcs=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4114226-1356016993-7803.jpeg.jpg" data-tags="60s, baroque pop, psychedelic pop, sunshine pop, pop/rock, am pop, n sinatra" role="button">
+Nancy Sinatra - Lightning's Girl (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
 </li>
@@ -80,6 +83,9 @@ The Auteurs - After Murder Park (1996-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
 Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Travis - Good Feeling (1997-09-08)
 </li>
 <li data-cover="https://img.discogs.com/DN4n6tsmTG7p9-KzK1GgNmOmtDg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1159835-1454860965-4580.jpeg.jpg" data-tags="indie, rock, drag city" role="button">
 Jim O'Rourke - Eureka (1999-02-10)
@@ -129,14 +135,14 @@ Final Fantasy - Has A Good Home (2005-03-01)
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
 </li>
+<li data-cover="https://img.discogs.com/NRJjEBPolQOB0FAThgshHsBaIhs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-749930-1578484299-3370.jpeg.jpg" data-tags="classic rock, rock, 00s" role="button">
+Paul McCartney - Chaos and Creation in the Backyard (2005-09-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e45a5ef-e2eb-4c4c-9c88-44cca007f224/26591053555-500.jpg" data-tags="indie rock" role="button">
 Anathallo - Floating World (2006-02-25)
-</li>
-<li data-cover="https://img.discogs.com/cRdciIrXw9W-RwSlYTvihjjiAHE=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2343121-1278331008.jpeg.jpg" data-tags="synthpop" role="button">
-John Maus - Songs (2006-03-20)
 </li>
 <li data-cover="https://img.discogs.com/YX4FZMLYAhoPXbaanMlQu89V4UM=/fit-in/200x198/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-865147-1166906143.jpeg.jpg" data-tags="chamber pop, 00s" role="button">
 Guillemots - Through The Windowpane (2006-07-10)
@@ -156,6 +162,9 @@ Andrew Bird - Armchair Apocrypha (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/91760b90-6914-343c-99b7-3e673fc08c37/26142599602-500.jpg" data-tags="experimental, alternative, freak folk" role="button">
 CocoRosie - The Adventures of Ghosthorse and Stillborn (2007-04-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/e8e2a5eb-dd78-428f-bce9-78ce600dc171/15437695010-500.jpg" data-tags="indie rock, indie pop" role="button">
+Cloud Cult - The Meaning of 8 (2007-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/18082f59-6c79-4f9b-8be5-45c9aa2619d0/10610832447-500.jpg" data-tags="singer-songwriter" role="button">
 Rufus Wainwright - Release The Stars (2007-05-14)
 </li>
@@ -167,9 +176,6 @@ Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7899d38c-8a13-42bb-837b-c7b887308c0d/19256785287-500.jpg" data-tags="baroque pop, folk pop, acoustic music" role="button">
 Susanne Sundfør - Take One (2008-03-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/de36d613-1ff3-411f-8274-d776a87210a9/19872417915-500.jpg" data-tags="indie" role="button">
-The Dodos - Visiter (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
@@ -201,26 +207,17 @@ fun. - Aim and Ignite (2009-08-25)
 <li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
 Dead Man's Bones - Dead Man's Bones (2009-10-02)
 </li>
-<li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="pop" role="button">
-Bee Gees - The Ultimate Bee Gees (2009-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/4fb4f073-94e0-4f6b-bcd2-8b9a48dafdbb/12165987773-500.jpg" data-tags="indie pop" role="button">
 Coma Cinema - Blue Suicide (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a042707-e728-427f-a043-decd9c2ff938/9809015312-500.jpg" data-tags="chamber pop" role="button">
 Owen Pallett - Heartland (2010-01-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/69115003-a563-4e9e-99d6-fce1ed9b141d/25465821647-500.jpg" data-tags="folk" role="button">
-Joanna Newsom - Have One on Me (2010-02-03)
-</li>
 <li data-cover="https://img.discogs.com/P-zIsmK3NxlhlJG5Jz6o2lKvRxk=/fit-in/600x549/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2408524-1282398265.jpeg.jpg" data-tags="post-rock, 4ad" role="button">
 Efterklang - Magic Chairs (2010-02-22)
 </li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
-</li>
-<li data-cover="https://img.discogs.com/j96OfDMM7viD-_QESjk2GZdVxoY=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2246529-1302531774.jpeg.jpg" data-tags="rock" role="button">
-John Grant - Queen Of Denmark (2010-04-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
@@ -234,11 +231,14 @@ C418 - Minecraft - Volume Alpha (2011-03-04)
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)
 </li>
-<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">
-Fleet Foxes - Helplessness Blues (2011-04-29)
-</li>
 <li data-cover="https://img.discogs.com/pb0-qXJ1OdI1r5BK8MKjmnCvHyE=/fit-in/452x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903710-1306546309.jpeg.jpg" data-tags="electronic, experimental, alternative, elephant woman, i know my feelings" role="button">
 Planningtorock - W (2011-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/32d69bdd-ff69-4d55-b004-2d556e2a1138/1260171701-500.jpg" data-tags="indie, indie pop, chamber pop, baroque pop, russian, balkan brass, europe, 10s, european, russia, experimental indie, art pop, russian underground, balkan sound, snegiri, former soviet union, post soviet union" role="button">
+The Retuses - Waltz Baltika! (2011-06-14)
+</li>
+<li data-cover="https://img.discogs.com/cXWg8j0UYlRLsOvjKEW9mwzWqIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5189733-1459317279-9995.jpeg.jpg" data-tags="electronic, electropop, synth-pop" role="button">
+Ladytron - Gravity the Seducer (2011-08-25)
 </li>
 <li data-cover="https://img.discogs.com/9aUQbdMYLjht-KvnFgpm8mcxuvU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3138527-1585409765-4096.jpeg.jpg" data-tags="female vocalists" role="button">
 Feist - Metals (2011-09-30)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:50:01.489Z
+date: 2021-04-09T23:09:01.465Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -30,9 +30,6 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/3091801c-33ee-35fb-87f3-80bab24c50d1/4521356337-500.jpg" data-tags="folk, singer-songwriter, 70s" role="button">
-Cat Stevens - Tea For The Tillerman (1970-11-23)
-</li>
 <li data-cover="https://img.discogs.com/r8VdkDo3uNJSNdIgh6ZH2qkXHe0=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299747-1588947401-2352.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
 </li>
@@ -57,14 +54,14 @@ Bob Dylan - Blood on the Tracks (1975-01-20)
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">
 Bob Dylan - Desire (1976-01-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/477bb8aa-5413-37c5-8f1a-f9ca7a36c9d3/22089606298-500.jpg" data-tags="james taylor, folk" role="button">
-James Taylor - Greatest Hits (1976-11-01)
-</li>
 <li data-cover="https://img.discogs.com/JAXVUtTvxQ4GvDKfQe1tV1LuSdA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1437138-1266588444.jpeg.jpg" data-tags="80s, folk" role="button">
 Paul Simon - Graceland (1986-08-29)
 </li>
 <li data-cover="https://img.discogs.com/RpS2IyO3bvCmc5pKPmtFwkQyvTk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539880-1367879495-2791.jpeg.jpg" data-tags="folk" role="button">
 Tracy Chapman - Tracy Chapman (1988-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/8960b372-b713-4750-9d47-be18e7bd4b60/8865742439-500.jpg" data-tags="female vocalists, pop, folk, 90s, jewel" role="button">
+Jewel - Pieces of You (1994)
 </li>
 <li data-cover="https://img.discogs.com/w2LOcV1wDq5tnLESs2BaGqyYZiA=/fit-in/472x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-592174-1135847165.jpeg.jpg" data-tags="folk, ben harper" role="button">
 Ben Harper - Welcome To The Cruel World (1994-02-08)
@@ -101,9 +98,6 @@ José González - Veneer (2003-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
-</li>
-<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
-Iron & Wine - Our Endless Numbered Days (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
@@ -155,6 +149,9 @@ Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf580567-2c5a-447a-9943-30d8291ac559/7436314867-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Brett Dennen - So Much More (2006-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/d101cc11-75e6-440e-a4c7-a074e6aadc55/13691038880-500.jpg" data-tags="folk" role="button">
+Amos Lee - Supply And Demand (2006-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/490595e7-8ec0-3ad1-ac51-95e816ecb24b/8345167017-500.jpg" data-tags="folk, singer-songwriter, acoustic" role="button">
 Damien Rice - 9 (2006-11-06)
@@ -227,6 +224,9 @@ Kings of Convenience - Declaration of Dependence (2009-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d751cba4-242e-46d8-b230-3ca1d4e59b85/2484431634-500.jpg" data-tags="folk" role="button">
 Mumford & Sons - Sigh No More (2009-10-05)
+</li>
+<li data-cover="https://img.discogs.com/4hqBDlYE_vgyn7oiCempQR8n0b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2196387-1269212249.jpeg.jpg" data-tags="indie, i n d i e" role="button">
+Freelance Whales - Weathervanes (2009-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)

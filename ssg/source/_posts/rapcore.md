@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T21:44:01.461Z
+date: 2021-04-09T23:42:01.392Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -108,7 +108,7 @@ Primer 55 - Introduction To Mayhem (2000-01-25)
 <li data-cover="http://coverartarchive.org/release/98a07793-52b7-42d3-8801-2cfdca0663c3/11769582808-500.jpg" data-tags="nu metal" role="button">
 Papa Roach - Infest (2000-04-25)
 </li>
-<li data-cover="https://img.discogs.com/rxFjy3xIduvrpuRl8hrTIwInbIY=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1217445-1586490553-7014.jpeg.jpg" data-tags="rapcore, hip-hop" role="button">
+<li data-cover="https://img.discogs.com/-FTLXlXt_wEClCPah1OnIfjAmQE=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519605-1264963269.jpeg.jpg" data-tags="rapcore, hip-hop" role="button">
 Cypress Hill - Skull & Bones (2000-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
@@ -153,8 +153,8 @@ Limp Bizkit - New Old Songs (2001-11-30)
 <li data-cover="http://coverartarchive.org/release/cbcaefc3-506d-4705-90df-673d9e992a1d/6134904408-500.jpg" data-tags="hip-hop, hip hop, gangsta rap, rapcore" role="button">
 Cypress Hill - Stoned Raiders (2001-12-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca90a458-54af-341b-8057-9f281774bdd0/3948496093-500.jpg" data-tags="rapcore, rock" role="button">
-Molotov - Dance And Dense Denso (2002)
+<li data-cover="http://coverartarchive.org/release/3a64d85a-ae57-41f7-ac17-13228ff0eaea/20928284068-500.jpg" data-tags="rapcore, nu metal" role="button">
+Jane Air - Pull Ya? Let it doll go (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/d74363e7-3b88-43b2-8c0e-07b1e2387fe7/11181792802-500.jpg" data-tags="3rd strike" role="button">
 3rd Strike - Lost Angel (2002-05-14)
@@ -183,7 +183,7 @@ Thousand Foot Krutch - Phenomenon (2003-09-09)
 <li data-cover="http://coverartarchive.org/release/89169ae4-2f74-462b-be32-f0375e936da0/7479087109-500.jpg" data-tags="punk rock, rapcore" role="button">
 Zebrahead - MFZB (2003-09-10)
 </li>
-<li data-cover="https://img.discogs.com/l7hGCiKFrG0BpXLEPKHZuijjyLs=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7560011-1444033981-6385.jpeg.jpg" data-tags="alternative metal, single" role="button">
+<li data-cover="https://img.discogs.com/d1f2f6c50c776450fdf23512dbd7301b20ea34dc/images/spacer.gif" data-tags="alternative metal, single" role="button">
 Limp Bizkit - Eat You Alive (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d744d66-1fdb-4dff-9392-e0e2bbf3f702/17652420521-500.jpg" data-tags="alternative" role="button">
@@ -270,6 +270,9 @@ Noize MC - OST Розыгрыш (2009)
 <li data-cover="http://coverartarchive.org/release/53417254-fc89-4bd4-9b2b-10830617f628/15185164247-500.jpg" data-tags="rap, la coka nostra, rock, underground hip-hop, house of pain" role="button">
 La Coka Nostra - A Brand You Can Trust (2009-07-14)
 </li>
+<li data-cover="https://img.discogs.com/tXkKA1LKqgg1Z3chelWxJaAgwBQ=/fit-in/600x660/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14479846-1575376462-6127.jpeg.jpg" data-tags="german, crossover, rapcore" role="button">
+Panik - Panik (2009-09-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
 </li>
@@ -308,9 +311,6 @@ Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c42909b1-9750-4a9c-9431-170a2583d794/28722232870-500.jpg" data-tags="rapcore" role="button">
 Deuce - Nine Lives (2012-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/1df96417-e066-4b6c-b436-e44508fa40c4/22299675586-500.jpg" data-tags="alternative rock" role="button">
-Papa Roach - The Connection (2012-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)

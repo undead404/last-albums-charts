@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:07:01.472Z
+date: 2021-04-09T23:34:01.432Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -75,6 +75,9 @@ My Bloody Valentine - Loveless (1991-11-04)
 <li data-cover="http://coverartarchive.org/release/982d838e-2753-3964-8730-2219cb347560/11491218525-500.jpg" data-tags="shoegaze" role="button">
 Drop Nineteens - Delaware (1992)
 </li>
+<li data-cover="https://img.discogs.com/UMBJGIOlHKIlyuDcv3xQGsGIxKA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15177157-1587702788-9526.jpeg.jpg" data-tags="shoegaze, alternative rock" role="button">
+The Jesus and Mary Chain - Honey's Dead (1992)
+</li>
 <li data-cover="https://img.discogs.com/KcNGymgsKSaZcrcwHOYZqXyBuEI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-409149-1615592517-4859.jpeg.jpg" data-tags="shoegaze" role="button">
 Lush - Spooky (1992-01-21)
 </li>
@@ -119,9 +122,6 @@ Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
 Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/95dbc0e7-f869-4f63-be1d-1a40bf5dbd1d/1485603702-500.jpg" data-tags="electronic, shoegaze" role="button">
-M83 - M83 (2001-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
 Trespassers William - Different Stars (2002-09-28)
@@ -216,9 +216,6 @@ The Horrors - Primary Colours (2009-05-04)
 <li data-cover="https://img.discogs.com/UcT5cyCnvOuPGEKTcC8E2i6AMdU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1922825-1256542182.jpeg.jpg" data-tags="shoegaze, 4ad" role="button">
 The Big Pink - A Brief History of Love (2009-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/f2adb6b7-f213-479a-87f1-ef3d2bb19a38/9147479035-500.jpg" data-tags="shoegaze, dream pop" role="button">
-A Sunny Day In Glasgow - Ashes Grammar (2009-09-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/23a44f09-a57b-433c-8cda-489939232238/2633863660-500.jpg" data-tags="shoegaze" role="button">
 A Place to Bury Strangers - Exploding Head (2009-10-05)
 </li>
@@ -257,6 +254,9 @@ The Joy Formidable - The Big Roar (2011-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d29c2481-a2bb-4c85-883f-85fb54659ba3/10425432633-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Pains of Being Pure at Heart - Belong (2011-03-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/05bbf29b-b71a-4e55-a2d2-1eb01f7d1339/9390366569-500.jpg" data-tags="electronic, indie, indie rock, shoegaze, noise pop" role="button">
+The Raveonettes - Raven in the Grave (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/70b06391-f594-447e-925d-e6a75f822dd8/14981341481-500.jpg" data-tags="shoegaze, dream pop" role="button">
 Widowspeak - Widowspeak (2011-08-09)

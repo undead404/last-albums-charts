@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:16:07.042Z
+date: 2021-04-09T23:08:01.445Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/q7P25HiO4bypP5gJghFgbtXvaFo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4168402-1357513912-3825.jpeg.jpg" data-tags="blues" role="button">
+Etta James - At Last (1960-11-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
 </li>
@@ -77,6 +80,9 @@ Sade - Love Deluxe (1992-10-23)
 </li>
 <li data-cover="https://img.discogs.com/FaX2er6kdAsyNed7FHPIi9tRc4M=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654057-1295129981.jpeg.jpg" data-tags="soul" role="button">
 Bill Withers - Lean on Me: The Best of Bill Withers (1994-08-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e69dbabd-5a61-4147-914b-7e683f096cbc/15210098631-500.jpg" data-tags="soul" role="button">
+Maxwell - Maxwell's Urban Hang Suite (1996-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/75196fde-2eb8-453c-b457-9feb86b73351/28311672058-500.jpg" data-tags="soul, 90s, rnb" role="button">
 Toni Braxton - Secrets (1996-06-18)
@@ -204,9 +210,6 @@ Beyoncé - I Am... Sasha Fierce (2008-11-17)
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
-Paolo Nutini - Sunny Side Up (2009-05-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/a34aaf89-1aeb-31e7-847d-ec3223ccb2ff/1577578205-500.jpg" data-tags="rnb, soul" role="button">
 Alicia Keys - The Element of Freedom (2009-11-27)
 </li>
@@ -248,9 +251,6 @@ Jamie Woon - Mirrorwriting (2011-04-14)
 </li>
 <li data-cover="https://img.discogs.com/37pw8YFxGPhoLgNunypVVlxJ2YY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3021612-1541266750-3727.jpeg.jpg" data-tags="rnb, soul" role="button">
 Beyoncé - 4 (2011-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/39df3094-f91b-4c4b-aa96-b1523db67172/3904999236-500.jpg" data-tags="dubstep, soul, 10s" role="button">
-Alex Clare - The Lateness Of the Hour (2011-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)

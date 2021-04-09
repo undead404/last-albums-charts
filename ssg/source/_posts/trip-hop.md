@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:53:01.448Z
+date: 2021-04-09T23:40:01.398Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -204,6 +204,9 @@ Blockhead - Music By Cavelight (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/096bfa52-c298-4a55-a663-ce2da11448ba/28674249434-500.jpg" data-tags="trip-hop" role="button">
 Archive - Noise (2004-03-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/2cb4445f-89dc-3d9c-aed3-492ab8607a1e/12144097523-500.jpg" data-tags="electronic, trip-hop" role="button">
+Faithless - No Roots (2004-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/7b61a0be-2648-4157-8248-135d3c2772d6/7851637035-500.jpg" data-tags="chillout" role="button">
 Flunk - Morning Star (2004-10-14)
 </li>
@@ -272,9 +275,6 @@ Portishead - Third (2008-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
 Martina Topley-Bird - The Blue God (2008-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c6c8607-a528-4497-bb7b-436914cf7512/2094787478-500.jpg" data-tags="pop, alternative" role="button">
-Emilíana Torrini - Me And Armini (2008-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)

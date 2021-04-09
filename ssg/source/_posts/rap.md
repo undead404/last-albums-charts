@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:20:01.525Z
+date: 2021-04-09T23:29:01.420Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -60,8 +60,14 @@ Method Man - Tical (1994-11-15)
 <li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
 Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
+Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
+</li>
+<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
+Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
 <li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
@@ -92,6 +98,9 @@ Beastie Boys - Hello Nasty (1998-06-29)
 </li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/1a3422a3-bedc-3c7a-a984-b0fd51c0e5ec/9725720160-500.jpg" data-tags="hip hop, hip-hop, rap" role="button">
+The Roots - Things Fall Apart (1999-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f305300d-d3ef-314f-a260-9b2cc12705d8/2587702528-500.jpg" data-tags="rap" role="button">
 Eminem - The Slim Shady LP (1999-02-23)
@@ -294,17 +303,11 @@ Chance the Rapper - Acid Rap (2013-04-30)
 <li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
 Kanye West - Yeezus (2013-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/776dc589-dd2e-4a24-a09d-1da520acea1c/4967076915-500.jpg" data-tags="rap" role="button">
-A$AP Ferg - Trap Lord (2013-08-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">
 Pusha T - My Name Is My Name (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
 Childish Gambino - Because the Internet (2013-12-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/e34bd314-6063-4fcb-843b-029bc735360a/6695927398-500.jpg" data-tags="pop, rap" role="button">
-Iggy Azalea - The New Classic (2014-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f62ec96b-13cd-4147-ab57-7a9231849c53/8129410719-500.jpg" data-tags="rap, idk, drake, ovo, llll" role="button">
 Drake - 0 To 100 / The Catch Up (2014-07-15)
@@ -314,9 +317,6 @@ J. Cole - 2014 Forest Hills Drive (2014-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5673a1-f435-4a02-9e32-8741397969c8/10297212424-500.jpg" data-tags="hip-hop, rap, hip hop, hardcore hip hop" role="button">
 Run the Jewels - Run the Jewels 2 (2014-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/2624d060-628e-4d37-97bd-d6b96c3e8717/8786041751-500.jpg" data-tags="trap, hip-house, rap" role="button">
-Azealia Banks - Broke with Expensive Taste (2014-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
 Rae Sremmurd - SremmLife (2015-01-06)

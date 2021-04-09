@@ -1,16 +1,16 @@
 ---
-date: 2021-04-07T19:52:01.463Z
+date: 2021-04-09T23:04:01.423Z
 title: "oldies: 100 albums you must listen to before you die"
 ---
-![Simon &amp; Garfunkel - Greatest Hits (1972-06-14)](https://img.discogs.com/mfBUquz8EFF-YH4aHVrEVlCI3L4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119078-1193587084.jpeg.jpg "Simon & Garfunkel - Greatest Hits (1972-06-14)")
+![The Turtles - Happy Together (1966)](https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg "The Turtles - Happy Together (1966)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">Del Shannon - Little Town Flirt (1963)</li>
 <li data-cover="https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg" data-tags="60s, classic rock" role="button">The Turtles - Happy Together (1966)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, oldies" role="button">Scott McKenzie - San Francisco (1967-05-04)</li>
+<li data-cover="https://img.discogs.com/ZhOvnu0MNRWHf67lXZe6HFTJj8A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1751544-1325813967.jpeg.jpg" data-tags="60s, oldies" role="button">Scott McKenzie - San Francisco (1967-05-04)</li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)</li>
-<li data-cover="https://img.discogs.com/mfBUquz8EFF-YH4aHVrEVlCI3L4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119078-1193587084.jpeg.jpg" data-tags="oldies, 60s, classic rock" role="button">Simon & Garfunkel - Greatest Hits (1972-06-14)</li>
+<li data-cover="https://img.discogs.com/gE9xQtQNiy5epkS_BR2iMwvHU78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12852426-1543185660-7040.jpeg.jpg" data-tags="classic rock, 60s, oldies" role="button">The Hollies - The Hollies' Greatest Hits (1973)</li>
 <li data-cover="http://coverartarchive.org/release/e9e6605b-de1d-4bb7-9021-62beee06e09f/5355706918-500.jpg" data-tags="oldies, the beach boys, the beach boys - summer dreams" role="button">The Beach Boys - Summer Dreams (1990-06)</li>
-<li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, guilty pleasure, boney m, gigle" role="button">Boney M. - Daddy Cool (1991)</li>
+<li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">Boney M. - Daddy Cool (1991)</li>
 <li data-cover="http://coverartarchive.org/release/e76632c4-4a9d-4d3d-9a2c-65b13fc6b3c6/9276766270-500.jpg" data-tags="60s, oldies" role="button">The Mamas & the Papas - Greatest Hits (1998-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/395f07b5-907e-4217-9942-1bbd1f747908/8939083254-500.jpg" data-tags="pop, 80s, female vocalists, oldies, out of our heads, bd eyes" role="button">Kim Carnes - Bette Davis Eyes (2002)</li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="bee gees, disco, 70s, oldies" role="button">Bee Gees - Number Ones (2004-11-01)</li>
@@ -21,23 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/r9NAjG8AvLg8TJOAIRX8SxrYn6I=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760994-1573501908-5095.jpeg.jpg" data-tags="oldies, doo wop, soul" role="button">
-The Platters - High Profile (1957)
-</li>
-<li data-cover="http://coverartarchive.org/release/aebd223a-dacd-41af-b521-b6d5970eb2a4/28529346799-500.jpg" data-tags="oldies, 50s" role="button">
-Bobby Darin - That's All (1959-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="connie francis" role="button">
 Connie Francis - Where the Boys Are (1960)
 </li>
-<li data-cover="https://img.discogs.com/EsQB9NUvIcHx1XkXq-i3XIZ47VU=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1623214-1343232566-1650.jpeg.jpg" data-tags="motown, oldies" role="button">
-The Marvelettes - Please Mr. Postman (1961-11)
+<li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
+Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/63538c42-9462-4146-8993-8d754c66cb15/23152862032-500.jpg" data-tags="pop, rockabilly, rock, 60s, singer-songwriter, oldies, male vocalists, nashville, tennessee, stereo, boudleaux bryant, july, lp, mono, monument, orbison, remastered, legacy, classic records, london records, monument records, hendersonville, sony bmg music entertainment, reissued, fred foster, cbs special products, london recordings, ken robertson, 45rpm single, july 1963, multiple releases under same name, cbs records inc, monument record corporation, 200g, 200g vinyl, bernie grundman" role="button">
+<li data-cover="http://coverartarchive.org/release/63538c42-9462-4146-8993-8d754c66cb15/23152862032-500.jpg" data-tags="pop, rockabilly, rock, 60s, singer-songwriter, oldies, male vocalists, nashville, tennessee, stereo, boudleaux bryant, july, mono, monument, orbison, remastered, legacy, classic records, london records, monument records, hendersonville, sony bmg music entertainment, reissued, fred foster, cbs special products, london recordings, ken robertson, 45rpm single, july 1963, multiple releases under same name, cbs records inc, monument record corporation, 200g, 200g vinyl, bernie grundman" role="button">
 Roy Orbison - In Dreams (1963)
 </li>
 <li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">
 Del Shannon - Little Town Flirt (1963)
+</li>
+<li data-cover="http://coverartarchive.org/release/61ffc81b-5ff8-492e-bec2-1efc8de357c6/14455314213-500.jpg" data-tags="jazz" role="button">
+The Oscar Peterson Trio - Night Train (1963)
 </li>
 <li data-cover="https://img.discogs.com/yLg-ju9EKcqJt0ix03J_wKo6KfY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137207-1537342547-4480.jpeg.jpg" data-tags="ricky nelson, oldies" role="button">
 Ricky Nelson - Ricky Nelson's Greatest Hits Revisited (1963)
@@ -50,6 +47,9 @@ The Drifters - Under the Boardwalk (1964)
 </li>
 <li data-cover="http://coverartarchive.org/release/39220c86-2ed3-4424-b754-eb34d13b7f45/17808718552-500.jpg" data-tags="soul, funk" role="button">
 James Brown - Out of Sight (1965)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="oldies, schlageroldies" role="button">
+The Coasters - The Coasters (1965)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="60s, oldies, 50s" role="button">
 The Everly Brothers - The Very Best of the Everly Brothers (1965)
@@ -66,20 +66,11 @@ Nancy Sinatra - How Does That Grab You? (1966)
 <li data-cover="http://coverartarchive.org/release/e8529a45-03eb-4f68-8183-4ccdc0375e14/16087942272-500.jpg" data-tags="classic rock, rock, 60s" role="button">
 The Lovin' Spoonful - Hums Of The Lovin' Spoonful (1966)
 </li>
-<li data-cover="http://coverartarchive.org/release/729a335c-6bc3-47e1-bb56-78ce70f099be/7471151756-500.jpg" data-tags="60s, singer-songwriter, classic rock, folk rock" role="button">
-Simon & Garfunkel - Sounds of Silence (1966-01-17)
-</li>
 <li data-cover="https://img.discogs.com/q11XtyKC9hZQ69M39LyOrUJ8k3k=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11769806-1522074310-3537.jpeg.jpg" data-tags="60s" role="button">
 The Mamas & the Papas - If You Can Believe Your Eyes And Ears (1966-02-28)
 </li>
-<li data-cover="https://img.discogs.com/6zeKi7qZ3ocCnjduPKAjJPdQVrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2901061-1491103293-7751.jpeg.jpg" data-tags="60s, pop" role="button">
-The Beach Boys - Pet Sounds (1966-05-16)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="60s, oldies" role="button">
+<li data-cover="https://img.discogs.com/ZhOvnu0MNRWHf67lXZe6HFTJj8A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1751544-1325813967.jpeg.jpg" data-tags="60s, oldies" role="button">
 Scott McKenzie - San Francisco (1967-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5f953d6-5de4-4879-80ac-5d17b720c814/3818382603-500.jpg" data-tags="pop, soul, 60s, oldies" role="button">
-Dusty Springfield - Dusty... Definitely (1968)
 </li>
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
@@ -87,20 +78,20 @@ Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="jazz, christmas, oldies, tony bennett, golden oldies, mastersinger, vocalistas masculinos, t bennett" role="button">
 Tony Bennett - Snowfall - The Tony Bennett Christmas Album (1968)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
+<li data-cover="https://img.discogs.com/Dhp36agUeeoYw6M8NAWln714sJA=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4740878-1473527519-9520.jpeg.jpg" data-tags="soul" role="button">
 Otis Redding - The Dock of the Bay (1968-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/70538a32-f163-4896-a22f-90a1f529ca56/14713576932-500.jpg" data-tags="surf, beach boys, rock" role="button">
 The Beach Boys - Stack-O-Tracks (1968-08-19)
-</li>
-<li data-cover="https://img.discogs.com/8B57iuhKpQ7wz_rNHE0Hu0IoHeY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8569418-1464237108-6054.jpeg.jpg" data-tags="soul, 60s" role="button">
-Dusty Springfield - Dusty In Memphis (1969-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/e814bd89-2648-3a6d-96c7-b38c761a96ac/2683347960-500.jpg" data-tags="70s" role="button">
+Elton John - Elton John (1970-07-22)
 </li>
 <li data-cover="https://img.discogs.com/r8VdkDo3uNJSNdIgh6ZH2qkXHe0=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299747-1588947401-2352.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
@@ -114,9 +105,6 @@ Stealers Wheel - Stealers Wheel (1972)
 <li data-cover="http://coverartarchive.org/release/23b89c7e-e26e-3cfa-ab49-76fb5a63c17f/20896396142-500.jpg" data-tags="oldies" role="button">
 Roy Orbison - The All-Time Greatest Hits of Roy Orbison (1972)
 </li>
-<li data-cover="https://img.discogs.com/mfBUquz8EFF-YH4aHVrEVlCI3L4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119078-1193587084.jpeg.jpg" data-tags="oldies, 60s, classic rock" role="button">
-Simon & Garfunkel - Greatest Hits (1972-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f117e8c-4bb1-3fad-92d8-f931b9102ed1/7039923170-500.jpg" data-tags="70s, steely dan, classic rock, rock" role="button">
 Steely Dan - Can't Buy A Thrill (1972-10)
 </li>
@@ -129,32 +117,29 @@ The Hollies - The Hollies' Greatest Hits (1973)
 <li data-cover="http://coverartarchive.org/release/7d19700c-361f-376e-964d-a6df0d6c5c44/24876632281-500.jpg" data-tags="neil diamond - his 12 greates hist, neil diamond" role="button">
 Neil Diamond - His 12 Greatest Hits (1974)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco, 70s" role="button">
-George McCrae - Rock Your Baby (1974-05)
-</li>
-<li data-cover="https://img.discogs.com/vTYqve5ORMFc92fPST6OWd3zZdU=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2747254-1313017981.jpeg.jpg" data-tags="rock, elton john" role="button">
-Elton John - Caribou (1974-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/5904320c-f3ca-4320-bade-58215eda3e0c/1637049317-500.jpg" data-tags="70s" role="button">
-Elton John - Rock Of The Westies (1975-10-04)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, classic rock" role="button">
 Steely Dan - Aja (1977-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a07e3fc0-276f-32cc-9cdb-097763668b35/5657769499-500.jpg" data-tags="70s" role="button">
 Joe Walsh - But Seriously, Folks... (1978-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc1be554-7601-3b7e-9cdf-ca98e8e98d0d/9466376999-500.jpg" data-tags="80s, pop, classic rock" role="button">
-Billy Joel - An Innocent Man (1983-08-08)
+<li data-cover="https://img.discogs.com/bud55SBDN6d4_LC8Xu_Ab0CCHPE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6883550-1428701945-6161.jpeg.jpg" data-tags="blues, jazz, billie holiday" role="button">
+Billie Holiday - That Ole Devil Called Love (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/b6a655fa-6f78-4f62-b80e-7d18824b9fc1/28115908419-500.jpg" data-tags="60s, oldies" role="button">
-The Turtles - 20 Greatest Hits (1984)
+<li data-cover="http://coverartarchive.org/release/405b99d3-3157-49f9-a6d9-da8602d09d77/17671304804-500.jpg" data-tags="80s, rock" role="button">
+Legião Urbana - Legião Urbana (1985-01-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/4aa8444f-1fb8-4cb4-af63-f49287808017/2410144596-500.jpg" data-tags="rockabilly" role="button">
+Carl Perkins - Carl Perkins (1985-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/eef3bc46-c13a-434e-9c8f-07bd477d5109/15902710762-500.jpg" data-tags="soul" role="button">
 Sam Cooke - The Man and His Music (1986-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/072d8ed1-464f-48d1-a136-9de871c365c9/9495317046-500.jpg" data-tags="rock, blues, classic rock, 60s" role="button">
 Canned Heat - The Best of Canned Heat (1987)
+</li>
+<li data-cover="https://img.discogs.com/9xibX3gHb8X1rMcu-DVhhUNpkIk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4540606-1368134555-3371.jpeg.jpg" data-tags="garfunkel" role="button">
+Art Garfunkel - Garfunkel (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/06bebfb0-a1c0-4ce2-bf07-c51912d8cadc/9120686874-500.jpg" data-tags="rock, roy orbison" role="button">
 Roy Orbison - Mystery Girl (1988)
@@ -171,6 +156,12 @@ The Everly Brothers - A Portrait Of... (1989)
 <li data-cover="https://img.discogs.com/4CZx1wzcpUpZ-iu51bIR81gqKkY=/fit-in/500x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8077003-1454699153-4117.jpeg.jpg" data-tags="50s" role="button">
 Little Richard - Good Golly, Miss Molly (1989)
 </li>
+<li data-cover="https://img.discogs.com/hQ8mAb170nZSWrlRpUslDZ2ayS8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-737858-1293520436.jpeg.jpg" data-tags="oldies, the searchers, 60s, merseybeat" role="button">
+The Searchers - Greatest Hits (1989)
+</li>
+<li data-cover="https://img.discogs.com/UJ9_10r-bBrX4I3lhjnn8xalFxY=/fit-in/277x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3390238-1372934455-5009.jpeg.jpg" data-tags="oldies, doo wop, soul" role="button">
+The Platters - High Profile (1989)
+</li>
 <li data-cover="http://coverartarchive.org/release/2307b8f8-7bda-43ea-a56a-c7e59f4e9013/17926977926-500.jpg" data-tags="oldies, rock n roll" role="button">
 Dion & The Belmonts - The Wanderer (1989)
 </li>
@@ -183,6 +174,9 @@ Tommy James & The Shondells - Anthology (1989-10-30)
 <li data-cover="http://coverartarchive.org/release/cda3e777-5c0a-4c23-bdea-ad070782655d/25245885727-500.jpg" data-tags="60s, oldies" role="button">
 Gene Pitney - Backstage (1990)
 </li>
+<li data-cover="http://coverartarchive.org/release/a5ffc211-29ee-4ef8-b6bb-f626590e85a8/22289243031-500.jpg" data-tags="pop, country, 60s, oldies, male vocalists" role="button">
+Roger Miller - King of the Road (1990)
+</li>
 <li data-cover="http://coverartarchive.org/release/9df5fb11-9d7e-443d-8522-6ffd8ce7746c/12078707246-500.jpg" data-tags="soul, 60s, oldies, male vocalists" role="button">
 The Righteous Brothers - The Very Best of the Righteous Brothers: Unchained Melody (1990)
 </li>
@@ -192,11 +186,14 @@ The Righteous Brothers - Unchained Melody (1990)
 <li data-cover="http://coverartarchive.org/release/e9e6605b-de1d-4bb7-9021-62beee06e09f/5355706918-500.jpg" data-tags="oldies, the beach boys, the beach boys - summer dreams" role="button">
 The Beach Boys - Summer Dreams (1990-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, guilty pleasure, boney m, gigle" role="button">
+<li data-cover="http://coverartarchive.org/release/ce9f8c15-1a7b-4ad7-836b-ee4fbb772f3f/6774014156-500.jpg" data-tags="disco, pop, 70s, 80s, dance, oldies, boney m, gigle" role="button">
 Boney M. - Daddy Cool (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0c98e50-96b5-4339-be38-f62a76adfb11/13881837199-500.jpg" data-tags="oldies" role="button">
 Dion - Presenting Dion & The Belmonts, Runaround Sue (1991)
+</li>
+<li data-cover="http://coverartarchive.org/release/98b7a796-0f0f-4319-8948-f250d14d6bbc/2800476658-500.jpg" data-tags="70s, classic rock, rock" role="button">
+Mott the Hoople - All The Young Dudes (1992)
 </li>
 <li data-cover="https://img.discogs.com/IFM9TdKZVvtoiYJDfCr8SwgM5A8=/fit-in/592x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3314573-1325414018.jpeg.jpg" data-tags="60s" role="button">
 The Ronettes - The Best Of The Ronettes (1992)
@@ -216,14 +213,11 @@ Barry White - All-Time Greatest Hits (1994-06-07)
 <li data-cover="http://coverartarchive.org/release/1471ebae-5c08-4dac-998e-3f61b1e4825a/8145405220-500.jpg" data-tags="swing, jazz" role="button">
 Fred Astaire - Steppin' Out: Astaire Sings (1994-06-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco" role="button">
-Gloria Gaynor - I Will Survive (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/c57ad985-94b4-48fa-95ec-cb9ce94e426e/15248576912-500.jpg" data-tags="oldies" role="button">
 The Tokens - The Lion Sleeps Tonight (1995)
 </li>
-<li data-cover="https://img.discogs.com/duHyl44l9wz81_hmBSHKXioe2U4=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5491308-1449663191-5461.jpeg.jpg" data-tags="pop, 60s, blue-eyed soul, oldies" role="button">
-The Righteous Brothers - You've Lost That Lovin' Feelin' (1996-04-16)
+<li data-cover="https://img.discogs.com/NdDnpFJPVVdRFC7Hi1VKNPKR-VQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4968035-1562664629-2575.jpeg.jpg" data-tags="60s" role="button">
+The Troggs - Wild Thing (1995)
 </li>
 <li data-cover="https://img.discogs.com/sbC6XBuFAgRt_aD43Gz4e7KZupU=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477536-1541093874-5681.jpeg.jpg" data-tags="jazz, oldies" role="button">
 Ella Fitzgerald - Ella & Friends (1996-06-04)
@@ -233,9 +227,6 @@ The Shangri-Las - The Best Of The Shangri-Las (1996-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b79a134e-5a94-4b14-9abc-fbe0a22b39a6/25479635311-500.jpg" data-tags="oldies, 50s, buddy holly, rock n roll" role="button">
 Buddy Holly - Greatest Hits (1996-09-24)
-</li>
-<li data-cover="https://img.discogs.com/kEy2Dvr7MI3J1sSHgmMVMQi52Lc=/fit-in/224x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8478941-1462411051-8588.jpeg.jpg" data-tags="60s, folk, folk rock" role="button">
-Simon & Garfunkel - Bookends (1997)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, female vocalists" role="button">
 Ella Fitzgerald - Ella Fitzgerald (1997)
@@ -258,10 +249,13 @@ Andy Williams - The Very Best of Andy Williams (1999)
 <li data-cover="http://coverartarchive.org/release/3e3aa402-f384-4043-9da4-a74808e3a212/1650382862-500.jpg" data-tags="rock" role="button">
 Tal Bachman - Tal Bachman (1999-04-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/8d5b8acc-ca4e-3136-b5c6-9d1a9a4badcd/21568717801-500.jpg" data-tags="mambo, pop" role="button">
+Lou Bega - A Little Bit Of Mambo (1999-07-19)
+</li>
 <li data-cover="https://img.discogs.com/iqnhdfUK_VFgNiQM25Pe2I8CDV4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4715510-1373199970-7143.jpeg.jpg" data-tags="oldies, classic rock" role="button">
 Roy Orbison - The Essential Roy Orbison (2000)
 </li>
-<li data-cover="https://img.discogs.com/hIRj9DenEn6uPknGB10zKJ2Mm7A=/fit-in/600x964/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3716119-1460314823-3903.jpeg.jpg" data-tags="pop, r&b, oldies, western, all, t drifters" role="button">
+<li data-cover="https://img.discogs.com/dlNQMMsIrStM1BW52hG9VDDFgQg=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4762524-1374736369-6328.jpeg.jpg" data-tags="pop, r&b, oldies, western, t drifters" role="button">
 The Drifters - Save The Last Dance For Me (2000-11-03)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
@@ -270,8 +264,14 @@ The Beatles - 1 (2000-11-13)
 <li data-cover="https://img.discogs.com/t9V5IKOOYHyN0eXnwumaxvcIqYI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1243797-1542808643-8274.jpeg.jpg" data-tags="oldies" role="button">
 Elvis Presley - ELV1S 30 #1 Hits (2001)
 </li>
+<li data-cover="https://img.discogs.com/fKRaFCU_ntsZfRyKdqP70nR-4NQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5501724-1395322915-7557.jpeg.jpg" data-tags="oldies, bassey, 60er, dame shirley bassey" role="button">
+Shirley Bassey - Greatest Hits (2001-02-13)
+</li>
 <li data-cover="https://img.discogs.com/W9wpjToC0gk30SOxP8FbWynK58k=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1380494-1279159330.jpeg.jpg" data-tags="60s" role="button">
 The Monkees - The Definitive Monkees (2001-02-26)
+</li>
+<li data-cover="https://img.discogs.com/EVhqRV8PU2HLwFBGXSmNu_JWWaQ=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6186742-1413218734-2806.jpeg.jpg" data-tags="soul" role="button">
+Marvin Gaye - The Very Best of Marvin Gaye (2001-07-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 The Five Stairsteps - The First Family of Soul: The Best of The Five Stairsteps (2001-11-06)
@@ -282,7 +282,7 @@ Kim Carnes - Bette Davis Eyes (2002)
 <li data-cover="http://coverartarchive.org/release/d8544aaf-9ff4-40f4-9c5e-eb510510bdec/8102276485-500.jpg" data-tags="tom jones, oldies" role="button">
 Tom Jones - Greatest Hits (2003-02-17)
 </li>
-<li data-cover="https://img.discogs.com/_-qKU0DjL0bdm_z5uPFmT9iYc5U=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5651250-1398971748-7021.jpeg.jpg" data-tags="pop, rock, female vocalists, scottish, oldies, female vocalist, femmina, femmine, donne, uk invasion, donna, bella topolina, gnocca, voce femminile, occhi a cuoricino, voci femminili, kt tunstall - because i said so, k tunstall" role="button">
+<li data-cover="https://img.discogs.com/Jq2g9ZdIQ4wqqx8YNhCBD_iy2hc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320079-1425553276-4556.jpeg.jpg" data-tags="pop, rock, female vocalists, scottish, oldies, female vocalist, femmina, femmine, donne, uk invasion, donna, bella topolina, gnocca, voce femminile, occhi a cuoricino, voci femminili, kt tunstall - because i said so, k tunstall" role="button">
 KT Tunstall - Black Horse And The Cherry Tree (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/f12585c9-a611-4f12-be91-2176e2cbdbaf/12715133618-500.jpg" data-tags="oldies, perry como" role="button">
@@ -300,6 +300,9 @@ Chico Buarque - Chico Buarque (2005)
 <li data-cover="https://via.placeholder.com/450" data-tags="oldies, jazz" role="button">
 Nat King Cole - The World of Nat King Cole (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/c6c61472-2383-4be6-b3ba-2a52d0942622/15851529259-500.jpg" data-tags="jazz, female vocalist, nina simone" role="button">
+Nina Simone - The Very Best Of Nina Simone (2006-05-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/2653c58c-fe83-4d3e-829e-3754659536f5/5556108956-500.jpg" data-tags="classic rock, acoustic, oldies, male vocalists, gentel heart" role="button">
 Joshua Radin - Unclear Sky (2008-06-01)
 </li>
@@ -314,9 +317,6 @@ The Whitest Boy Alive - Rules (2009-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/06b7d792-5f27-422a-beca-a96dc7636479/15749059087-500.jpg" data-tags="easy listening" role="button">
 The Ronettes - Be My Baby: The Very Best of The Ronettes (2011-02-22)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
-Mel Tormé - In the Lounge With... (2012-12-19)
 </li>
 <li data-cover="https://img.discogs.com/vzVcCZSbVJa5TSi6OfdPXj_7WUI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6853962-1532324710-7072.jpeg.jpg" data-tags="oldies, 60s" role="button">
 Herman's Hermits - Their Greatest Hits (2014-02-26)

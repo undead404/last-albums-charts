@@ -1,16 +1,16 @@
 ---
-date: 2021-04-09T07:26:06.899Z
+date: 2021-04-09T23:28:01.413Z
 title: "alternative hip-hop: 100 albums you must listen to before you die"
 ---
 ![Tyler, the Creator - Goblin (2011-05-10)](http://coverartarchive.org/release/9295d3b8-4fee-40b3-8d3a-1f87de4b12bc/4765105879-500.jpg "Tyler, the Creator - Goblin (2011-05-10)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c6647f41-74bf-4eab-b4ab-5f7fa32ae7aa/15794553870-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">Dilated Peoples - 20/20 (2006-02-21)</li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">Flobots - Fight With Tools (2007-10-16)</li>
 <li data-cover="http://coverartarchive.org/release/e44d998a-0b74-4bbf-b0b1-f8cb5541169d/2727460436-500.jpg" data-tags="hip-hop" role="button">Kid Cudi - Man on the Moon: The End of Day (2009-07-15)</li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">Wale - Attention Deficit (2009-11-10)</li>
+<li data-cover="http://coverartarchive.org/release/f92d68fa-db21-4938-b72d-bfe05256e13f/1674767529-500.jpg" data-tags="rap, horrorcore" role="button">Tyler, the Creator - Bastard (2009-12-25)</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">Twenty One Pilots - Twenty One Pilots (2009-12-29)</li>
 <li data-cover="http://coverartarchive.org/release/9295d3b8-4fee-40b3-8d3a-1f87de4b12bc/4765105879-500.jpg" data-tags="alternative hip-hop, rap" role="button">Tyler, the Creator - Goblin (2011-05-10)</li>
-<li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">Santigold - Master of My Make-Believe (2012-04-21)</li>
+<li data-cover="http://coverartarchive.org/release/e2bc6863-a02f-4614-ad59-e6674d158547/15007829992-500.jpg" data-tags="hip-hop, rap" role="button">Childish Gambino - Camp (2011-11-14)</li>
 <li data-cover="http://coverartarchive.org/release/cadae5f0-925a-4f1e-9ead-488a08598918/1884595027-500.jpg" data-tags="hip hop, alternative hip hop" role="button">B.o.B - Strange Clouds (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">Tyler, the Creator - Wolf (2013-04-01)</li>
@@ -30,11 +30,11 @@ A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-
 <li data-cover="https://img.discogs.com/gf4LrFf_AeIP9X9HNJ2X-Osg-xk=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-242573-1249407184.jpeg.jpg" data-tags="hip-hop, hip hop" role="button">
 The Pharcyde - Bizarre Ride II The Pharcyde (1992-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/d6b3fc18-26e9-4e9b-92b8-5f557f8d3b4d/18894101764-500.jpg" data-tags="dirty south, hip hop" role="button">
-OutKast - Southernplayalisticadillacmuzik (1994)
-</li>
 <li data-cover="https://img.discogs.com/x-XBH8YKpwmafthP8SsFian0t6s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6458210-1465577851-2875.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/a28ae1a5-577f-3324-95bf-e8cdb1595e3e/23815611613-500.jpg" data-tags="hip-hop, 90s, hip hop" role="button">
+A Tribe Called Quest - Beats, Rhymes and Life (1996-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec201f1-a057-4bec-882b-ceb7fcb17950/15569005335-500.jpg" data-tags="hip hop" role="button">
 People Under the Stairs - The Next Step (1998-03-24)
@@ -111,14 +111,11 @@ Mos Def - The New Danger (2004-10-12)
 <li data-cover="https://img.discogs.com/UjsKkHh5Px5-9nu6qaFI4y7X100=/fit-in/566x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047581-1587057449-6690.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 MF DOOM - MM..Food (2004-11-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae68abf2-c6f2-4a21-9a42-8322a643bad4/8736889604-500.jpg" data-tags="hip hop" role="button">
+CunninLynguists - A Piece of Strange (2005)
+</li>
 <li data-cover="https://img.discogs.com/VlXTau7FjwjD25UR11xmseduAug=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-317568-1241211810.jpeg.jpg" data-tags="hip-hop, abstract hip-hop, experimental hip-hop" role="button">
 Dälek - Absence (2005-01-26)
-</li>
-<li data-cover="https://img.discogs.com/8hTNCpYGW5W6slrn4gfK0bwO2qU=/fit-in/600x882/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12543606-1537307756-6374.jpeg.jpg" data-tags="hip-hop" role="button">
-Beastie Boys - Solid Gold Hits (2005-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9f3a4a9b-5741-4a3b-9350-10940ce8bbf3/22229285708-500.jpg" data-tags="chillout, hip-hop, instrumental" role="button">
-Nujabes - Modal Soul (2005-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6647f41-74bf-4eab-b4ab-5f7fa32ae7aa/15794553870-500.jpg" data-tags="hip-hop, alternative hip-hop" role="button">
 Dilated Peoples - 20/20 (2006-02-21)
@@ -137,9 +134,6 @@ Mos Def - TRUE MAGIC (2006-12-19)
 </li>
 <li data-cover="https://img.discogs.com/MxIEbXM2FfNC6CFSi0FE9fuaamE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1122226-1193789791.jpeg.jpg" data-tags="hip hop, rock, alternative, alternative hip-hop" role="button">
 Aesop Rock - All Day: Nike+ Original Run (2007-02-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a867983-07db-41e2-9d15-a4dfe499cbbc/6195488355-500.jpg" data-tags="ninja tune, turntablism" role="button">
-DJ Kentaro - Enter (2007-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/19d70c9d-e34b-4fe7-a165-6f878c2849bf/4402698733-500.jpg" data-tags="common, hip-hop" role="button">
 Common - Finding Forever (2007-07-30)
@@ -162,9 +156,6 @@ Kid Cudi - a KiD named CuDi (2008)
 <li data-cover="http://coverartarchive.org/release/af5f8d32-47b1-4715-b6b4-5a00e411adfb/17404962418-500.jpg" data-tags="hip-hop, indie" role="button">
 Why? - Alopecia (2008-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/4355df4c-3b7a-4dae-9d1b-7383df022542/21363798369-500.jpg" data-tags="hip-hop" role="button">
-The Cool Kids - The Bake Sale (2008-06-03)
-</li>
 <li data-cover="https://img.discogs.com/sAHiZ1GQVMxSrV1dwSAi5FPOqL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646806-1516228829-9542.jpeg.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Seeing Sounds (2008-06-09)
 </li>
@@ -173,6 +164,9 @@ Tech N9ne - Killer (2008-07-01)
 </li>
 <li data-cover="https://img.discogs.com/mkLY91OJiGwNvrwxERyq50J4Mz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404325-1580767308-9603.png.jpg" data-tags="alternative rock, rapcore" role="button">
 One Day as a Lion - One Day as a Lion (2008-07-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8d9eca5-3187-476a-88b8-ce56cb4dfb0d/27286047845-500.jpg" data-tags="hip hop, rock, blues" role="button">
+Everlast - Love, War, and the Ghost of Whitey Ford (2008-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bfb0888-079c-4928-96ff-0a8fbf4e0092/2201133972-500.jpg" data-tags="hip-hop" role="button">
 Astronautalis - Pomegranate (2008-09-23)
@@ -216,6 +210,9 @@ Wale - Attention Deficit (2009-11-10)
 <li data-cover="http://coverartarchive.org/release/acc876c8-0c22-4c65-bbce-920d8a49eef9/8977335496-500.jpg" data-tags="hip hop, dancehall, alternative hip-hop" role="button">
 3oda Kru - Parchastyczny mikstejp (2009-12-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/f92d68fa-db21-4938-b72d-bfe05256e13f/1674767529-500.jpg" data-tags="rap, horrorcore" role="button">
+Tyler, the Creator - Bastard (2009-12-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
@@ -240,6 +237,9 @@ Kid Cudi - Man on the Moon II: The Legend of Mr. Rager (2010-11-08)
 <li data-cover="https://img.discogs.com/QmiZqmwmdfr392KBGMCPo0Ln3ZQ=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2665892-1562547335-3836.jpeg.jpg" data-tags="hip hop, rap" role="button">
 Talib Kweli - Gutter Rainbows (2011-01-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/4560c527-adfb-4c17-ba12-b7d8ee9e34a5/6804876139-500.jpg" data-tags="rock, reggae, rap, crazy, song-writer, alternative hip-hop, 10s, cantautore, caparezza" role="button">
+Caparezza - Il Sogno Eretico (2011-03-01)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip hop, groovy, alternative hip-hop" role="button">
 Looptroop Rockers - Professional Dreamers (2011-03-09)
 </li>
@@ -255,9 +255,6 @@ Atmosphere - The Family Sign (2011-04-12)
 <li data-cover="http://coverartarchive.org/release/fc8c25cd-555f-43a3-8162-5b7aafc37bf2/27091042055-500.jpg" data-tags="hip-hop, experimental, experimental hip-hop" role="button">
 Death Grips - Exmilitary (2011-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/0e913e1c-1733-3815-978e-ebf38267aeee/6831235821-500.jpg" data-tags="hip-hop" role="button">
-Beastie Boys - Hot Sauce Committee Part Two (2011-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/9295d3b8-4fee-40b3-8d3a-1f87de4b12bc/4765105879-500.jpg" data-tags="alternative hip-hop, rap" role="button">
 Tyler, the Creator - Goblin (2011-05-10)
 </li>
@@ -270,6 +267,12 @@ The Cool Kids - When Fish Ride Bicycles (2011-06-22)
 <li data-cover="http://coverartarchive.org/release/f4a3f76f-959e-46e9-bfdb-59d8ba3066e1/3742879315-500.jpg" data-tags="electronic, rap" role="button">
 Twenty One Pilots - Regional at Best (2011-07-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/e2bc6863-a02f-4614-ad59-e6674d158547/15007829992-500.jpg" data-tags="hip-hop, rap" role="button">
+Childish Gambino - Camp (2011-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
+The Roots - Undun (2011-12-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/f7b8fff0-445f-48ad-9b66-4e48c4060b4f/5507996174-500.jpg" data-tags="rap" role="button">
 Hoodie Allen - All American (2012-04-10)
 </li>
@@ -281,6 +284,9 @@ Santigold - Master of My Make-Believe (2012-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/cadae5f0-925a-4f1e-9ead-488a08598918/1884595027-500.jpg" data-tags="hip hop, alternative hip hop" role="button">
 B.o.B - Strange Clouds (2012-04-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/c413466c-4fa7-4009-9e84-f66ab6e25b83/982630096-500.jpg" data-tags="hip-hop, rap, electro, alternative hip-hop, baltimore club, most anticipated albums of 2011" role="button">
+Rye Rye - Go! Pop! Bang! (2012-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">
 Azealia Banks - Fantasea (2012-07-11)
@@ -309,16 +315,10 @@ Pusha T - My Name Is My Name (2013-10-08)
 <li data-cover="http://coverartarchive.org/release/dee46bb1-a40f-4208-8bcc-a8c31a67adbc/6408762583-500.jpg" data-tags="hip-hop, hip hop, rap, alternative hip-hop, jazz hip-hop, mac miller" role="button">
 Mac Miller - Live From Space (2013-12-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/c21490e8-3d81-4ea2-96ca-16fac86d15af/6829541612-500.jpg" data-tags="electronic, experimental, glitch-hop, alternative hip-hop, pop rap, abstract hip-hop, glitch pop, experimental hip-hop, art pop, my gang 14" role="button">
-Sisyphus - Sisyphus (2014-03-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/18523e5d-0235-4025-aba0-a50bee6e7310/8380516127-500.jpg" data-tags="trip-hop, arts and crafts, italo disco, alternative hip-hop, acid lounge, industrial hip-hop, k7 records, names of people, bestshit2014" role="button">
 Tricky - Adrian Thaws (2014-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5673a1-f435-4a02-9e32-8741397969c8/10297212424-500.jpg" data-tags="hip-hop, rap, hip hop, hardcore hip hop" role="button">
 Run the Jewels - Run the Jewels 2 (2014-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/2624d060-628e-4d37-97bd-d6b96c3e8717/8786041751-500.jpg" data-tags="trap, hip-house, rap" role="button">
-Azealia Banks - Broke with Expensive Taste (2014-11-06)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T17:37:01.377Z
+date: 2021-04-09T23:05:07.136Z
 title: "ambient black metal: 100 albums you must listen to before you die"
 ---
 ![Burzum - Filosofem (1996-01-31)](http://coverartarchive.org/release/1ce9177c-62a0-4403-a7ee-7359026fcbf6/24337783733-500.jpg "Burzum - Filosofem (1996-01-31)")
@@ -57,6 +57,9 @@ Nargaroth - Orke (1999)
 <li data-cover="https://img.discogs.com/_RMo-DUcdz986U1fQn5tyo0nNuw=/fit-in/522x804/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-707325-1526298115-9165.jpeg.jpg" data-tags="atmospheric black metal" role="button">
 Paysage d'Hiver - Paysage d'Hiver (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/7599ce66-4c83-4490-bea2-b4d269c74477/1480031608-500.jpg" data-tags="ambient, dark ambient" role="button">
+Burzum - Hliðskjálf (1999-04-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/74c1fd3a-fdc9-454a-8b02-46633d5b8e4b/8308251331-500.jpg" data-tags="black metal" role="button">
 Blut aus Nord - The Mystical Beast of Rebellion (2001)
 </li>
@@ -68,6 +71,9 @@ Velvet Cacoon - Dextronaut (2002)
 </li>
 <li data-cover="https://img.discogs.com/UuU6RtzgjVqevgz9dJ7pHzDp-W0=/fit-in/333x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-584965-1134764118.jpeg.jpg" data-tags="black metal" role="button">
 Lurker of Chalice - Lurker of Chalice (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/2871df6b-50c7-46f6-8593-73baf18beb5e/25315613685-500.jpg" data-tags="atmospheric black metal, ambient black metal" role="button">
+Darkspace - Dark Space -I (2002-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/aac39768-cf0e-40e8-987a-a0afdf6cce4d/1644186662-500.jpg" data-tags="black metal" role="button">
 Xasthur - Nocturnal Poisoning (2002-08)
@@ -96,9 +102,6 @@ Darkestrah - Sary Oy (2004-01)
 <li data-cover="http://coverartarchive.org/release/bb36ae6a-88dd-45d7-8e3f-46706708d220/1644198280-500.jpg" data-tags="black metal" role="button">
 Xasthur - Telepathic With the Deceased (2004-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d9e4b8e9-e92e-4f99-a5f1-b716b99d90bf/1644225953-500.jpg" data-tags="black metal, suicidal black metal" role="button">
-Xasthur - To Violate the Oblivious (2004-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a0de8a0-948d-415c-9232-ca5545396e3b/7405485783-500.jpg" data-tags="atmospheric black metal" role="button">
 Paysage d'Hiver - Nacht (2004-08-04)
 </li>
@@ -107,9 +110,6 @@ Velvet Cacoon - Genevieve (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/AHWokHo0fkSSBkIIenOTM8Fx7UY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-775026-1157476365.jpeg.jpg" data-tags="black metal" role="button">
 Nae'blis - Beyond the Light (2004-12)
-</li>
-<li data-cover="https://img.discogs.com/l0EMlDT4Hlic6m6QW9DffGIshJk=/fit-in/208x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1714855-1238727713.jpeg.jpg" data-tags="black metal, depressive black metal" role="button">
-Xasthur - Subliminal Genocide (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/538c3e1a-dd81-4cc9-985a-1450ae63661d/2727000989-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Urfaust - Verräterischer, Nichtswürdiger Geist (2005-03)
@@ -129,9 +129,6 @@ ColdWorld - Melancholie (2006)
 <li data-cover="http://coverartarchive.org/release/9c5cbfa1-198a-376a-a79f-bfd557bc4a41/2411144524-500.jpg" data-tags="black metal" role="button">
 Spektr - Near Death Experience (2006)
 </li>
-<li data-cover="https://img.discogs.com/sfGRY1fHT1tT-nfgjaytf4OeKWk=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9180369-1476185701-1300.jpeg.jpg" data-tags="black metal" role="button">
-Fauna - Rain (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/b45b927a-9221-46ab-893d-18f57ac3d218/14453458441-500.jpg" data-tags="black metal" role="button">
 Fear of Eternity - Spirit of Sorrow (2006)
 </li>
@@ -143,6 +140,9 @@ Wolves in the Throne Room - Diadem Of 12 Stars (2006-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/aaa514a1-c420-4558-9a0d-c20799269c45/5255983221-500.jpg" data-tags="black metal, ambient black metal, dark ambient, atmospheric black metal" role="button">
 Blut aus Nord - MoRT (2006-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/1c742374-3bfa-48f8-9b2f-042af52c3b06/2683630150-500.jpg" data-tags="atmospheric black metal, black metal" role="button">
+Forest Silence - Philosophy Of Winter (2006-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/76314329-d96e-4c74-91cb-df1721c61b7f/2797657992-500.jpg" data-tags="black metal" role="button">
 Lunar Aurora - Andacht (2007-01-08)
@@ -179,9 +179,6 @@ Njiqahdda - Nji. Njiijn. Njiiijn. (2008-06)
 </li>
 <li data-cover="https://img.discogs.com/Sz9RMP0s5CB5u4pO4uZaJkLrsro=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1508549-1224936159.jpeg.jpg" data-tags="dark folk" role="button">
 October Falls - The Womb of Primordial Nature (2008-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/20a8e50b-8833-4690-9827-9e2a0c162691/12911752315-500.jpg" data-tags="black metal, drone metal, black noise, drone, drone black metal" role="button">
-Nahvalr - Nahvalr (2008-08-01)
 </li>
 <li data-cover="https://img.discogs.com/Ywptm6Q77cEe7JBGbMRs-lAHIXY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2808388-1337090663-1530.jpeg.jpg" data-tags="black metal, ambient black metal, depressive black metal" role="button">
 Impavida - Eerie Sceneries (2008-11-14)
@@ -263,6 +260,9 @@ Wolves in the Throne Room - Celestial Lineage (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/86b1ce07-43e3-451f-9796-67bb825a563c/26443325911-500.jpg" data-tags="psychedelic black metal" role="button">
 Oranssi Pazuzu - Kosmonument (2011-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/3fe30449-cd88-4abb-bd5f-4832273aa3d2/14994176576-500.jpg" data-tags="avant-garde metal" role="button">
+Thy Catafalque - Rengeteg (2011-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d180ea4-b84f-47d3-bed6-3aa248f3dccf/1933074975-500.jpg" data-tags="black metal, russian, russian metal, ambient black metal, atmospheric black metal, suicidal black metal, depressive black metal, dsbm, depressive, russian black metal, russian depressive black metal" role="button">
 Wintercult - Neverending Selfhatred (2012-02-16)

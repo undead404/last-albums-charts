@@ -1,19 +1,19 @@
 ---
-date: 2021-04-09T16:59:01.450Z
+date: 2021-04-09T22:58:01.409Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Of Monsters and Men - My Head Is an Animal (2011-09-20)](https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg "Of Monsters and Men - My Head Is an Animal (2011-09-20)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">Beirut - Gulag Orkestar (2005)</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">Grizzly Bear - Yellow House (2006-09-04)</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, indie folk" role="button">Beirut - The Flying Club Cup (2007-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">Fleet Foxes - Sun Giant (2008-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
-<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">Fleet Foxes - Helplessness Blues (2011-04-29)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
 <li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">Of Monsters and Men - My Head Is an Animal (2011-09-20)</li>
+<li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">The Lumineers - The Lumineers (2012-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">Mumford & Sons - Babel (2012-09-13)</li>
+<li data-cover="http://coverartarchive.org/release/32269431-0747-4ec2-a2b9-84abfaa499ee/8007239303-500.jpg" data-tags="indie, indie folk" role="button">Vance Joy - Dream Your Life Away (2014-09-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -24,38 +24,23 @@ _________________
 <li data-cover="http://coverartarchive.org/release/1ae37385-e7cd-46cc-a53b-79cf364d2f60/9535453834-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Elliott Smith (1995-07-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/1d838ace-d401-332e-bdae-c2cb59e43f53/13095371185-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
-Neutral Milk Hotel - On Avery Island (1996-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/66d845f4-e781-38b5-84af-c9e6fecf125d/21130335998-500.jpg" data-tags="indie, indie rock" role="button">
-Neutral Milk Hotel - In the Aeroplane Over the Sea (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/2c3a5aca-26e7-4ab5-84be-9618750ad687/4046964167-500.jpg" data-tags="slow alternative" role="button">
-Songs: Ohia - The Lioness (2000-01-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/8bc521b4-57af-4b4c-88a1-ad214c9c6516/9560550155-500.jpg" data-tags="singer-songwriter, indie" role="button">
-Elliott Smith - Figure 8 (2000-04-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/d6060b45-64a0-4fed-b205-78e0ab10aff1/2104989394-500.jpg" data-tags="folk" role="button">
 Sufjan Stevens - Michigan (2003-07-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
-The John Butler Trio - Sunrise Over Sea (2004-03-08)
+<li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
+Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
-Sufjan Stevens - Seven Swans (2004-03-16)
+<li data-cover="https://img.discogs.com/lht66wld2zFLaR95E4ynUkkl4tM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-695801-1329686225.jpeg.jpg" data-tags="indie pop, singer-songwriter, chamber pop, baroque pop, indie folk, 00s, alternative pop, secretly canadian, art pop, folk indie, ork-pop" role="button">
+Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 </li>
-<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
-Iron & Wine - Our Endless Numbered Days (2004-03-23)
-</li>
-<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
-Kings of Convenience - Riot on an Empty Street (2004-06-21)
+<li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
+Devendra Banhart - Nino Rojo (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
@@ -63,8 +48,8 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">
 Grizzly Bear - Horn Of Plenty (2004-11-09)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
-Beirut - Gulag Orkestar (2005)
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+The Decemberists - Picaresque (2005-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
 Okkervil River - Black Sheep Boy (2005-04-05)
@@ -74,6 +59,9 @@ Sufjan Stevens - Illinois (2005-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
+</li>
+<li data-cover="https://img.discogs.com/aZ6XRb6Ft2uuJZMDTTerHsHbYhU=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1389149-1215439977.jpeg.jpg" data-tags="indie, folk, indie folk" role="button">
+The Dodos - Beware of the Maniacs (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
@@ -111,6 +99,9 @@ Bright Eyes - Cassadaga (2007-04-09)
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/f8f26fa1-d7e5-4357-aefe-cb17ccf2e60b/18253941016-500.jpg" data-tags="icelandic" role="button">
+Seabear - The Ghost That Carried Us Away (2007-08-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Angus & Julia Stone - A Book Like This (2007-09-08)
 </li>
@@ -132,11 +123,11 @@ The Middle East - The Recordings Of The Middle East (2008)
 <li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
 Fleet Foxes - Sun Giant (2008-03-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/de36d613-1ff3-411f-8274-d776a87210a9/19872417915-500.jpg" data-tags="indie" role="button">
-The Dodos - Visiter (2008-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/42716365-90b9-485e-a887-e5e120cb56da/15082708390-500.jpg" data-tags="indie" role="button">
+Okkervil River - The Stand Ins (2008-09-09)
 </li>
 <li data-cover="https://img.discogs.com/hvwrsdt7Le86HEpqOvnSzL40b1Q=/fit-in/497x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488405-1223451575.jpeg.jpg" data-tags="indie pop" role="button">
 Jenny Lewis - Acid Tongue (2008-09-21)
@@ -171,6 +162,9 @@ Devendra Banhart - What Will We Be (2009-10-26)
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/7e284699-2b5d-4468-95a1-5e6fba36b7f6/22182283535-500.jpg" data-tags="indie, pop, folk, indie pop, indie rock, acoustic, australia, indie folk, sydney" role="button">
+Boy & Bear - With Emperor Antarctica (2010)
+</li>
 <li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
 Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
@@ -180,14 +174,20 @@ She & Him - Volume Two (2010-03-17)
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/a29ce30f-9b97-347f-89cf-eeec57174ac0/5227604030-500.jpg" data-tags="freak folk" role="button">
+CocoRosie - Grey Oceans (2010-04-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/391fdaa1-7b1e-4e8f-b47e-fc8c6d7a3fed/4145034843-500.jpg" data-tags="indie, soft rock, indie folk, soulful, collaboration, under the radar best of 2010, soft rock revival" role="button">
 Gayngs - Relayted (2010-05-11)
 </li>
-<li data-cover="https://img.discogs.com/Npwa0T0tKvmO7Q-4p78l4ELoTZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2832647-1303069251.jpeg.jpg" data-tags="folk" role="button">
-The Head and the Heart - The Head and The Heart (2010-06-29)
+<li data-cover="https://img.discogs.com/3OoWfZVJU5AV7OxhKzMipCp6vQw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2238563-1272988463.jpeg.jpg" data-tags="indie rock, irish, ireland" role="button">
+Villagers - Becoming a Jackal (2010-05-24)
 </li>
 <li data-cover="https://img.discogs.com/0n3LA0qeaCcokxZCVAahUUMJGQM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2402294-1282013018.jpeg.jpg" data-tags="folk, ambient, chamber pop, indie folk, jagjaguwar" role="button">
 S. Carey - All We Grow (2010-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8f73bc2-4aa8-4465-8fb1-1fdc2173f072/2098679790-500.jpg" data-tags="folk, under the radar best of 2010" role="button">
+Sharon Van Etten - Epic (2010-09-07)
 </li>
 <li data-cover="https://img.discogs.com/vRpvXCe6inE8vMVH0Qt7yzI7oM0=/fit-in/265x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713020-1297686499.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, indie folk, dirty hit, benjamin francis leftwich" role="button">
 Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
@@ -204,8 +204,8 @@ The Decemberists - The King Is Dead (2011-01-14)
 <li data-cover="http://coverartarchive.org/release/33a8f17b-10c0-40f3-8a6c-3711b0bceda0/2926396596-500.jpg" data-tags="indie folk" role="button">
 Woodkid - Iron EP (2011-03-28)
 </li>
-<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">
-Fleet Foxes - Helplessness Blues (2011-04-29)
+<li data-cover="http://coverartarchive.org/release/945a8b68-7475-4e2b-9c7d-967dea8fc100/17331884416-500.jpg" data-tags="indie folk, stuff i want" role="button">
+The Middle East - I Want That You Are Always Happy (2011-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/80d950a5-6b91-41f5-94f6-beb7eaa890ed/26218970688-500.jpg" data-tags="indie folk, folk" role="button">
 Bon Iver - Bon Iver, Bon Iver (2011-06-20)

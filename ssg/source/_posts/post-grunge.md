@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T00:34:01.426Z
+date: 2021-04-09T23:20:01.443Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -78,11 +78,17 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="http://coverartarchive.org/release/0d3e9ab1-2701-4818-ae2a-8fbc650cf824/5658890227-500.jpg" data-tags="post-grunge, hard rock, rock" role="button">
 Creed - My Own Prison (1997-06-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/fcf2f000-db2b-4210-9f14-98c1fd1a8322/2035045324-500.jpg" data-tags="rock, alternative rock, 90s, alternative" role="button">
+Everclear - So Much for the Afterglow (1998-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/14971935502-500.jpg" data-tags="hard rock, metal" role="button">
 Godsmack - Godsmack (1998-08-25)
 </li>
 <li data-cover="https://img.discogs.com/MeVNWQf5LDxJQ_CUtg5RrCZxgkA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15461683-1591908472-1392.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Nickelback - The State (1999-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
+Silverchair - Neon Ballroom (1999-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de734e8-cf12-3ab1-9fa2-7860998aaee8/2771531305-500.jpg" data-tags="post-grunge, rock, hard rock" role="button">
 Creed - Human Clay (1999-07-24)
@@ -117,9 +123,6 @@ Saliva - Every Six Seconds (2001-03-27)
 <li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
 Staind - Break the Cycle (2001-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/af4f3859-4d53-4ccc-95e1-b1b00c0b24cf/17960714653-500.jpg" data-tags="rock, alternative rock, grunge" role="button">
-Puddle of Mudd - Come Clean (2001-08-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
 Nickelback - Silver Side Up (2001-09-11)
 </li>
@@ -131,9 +134,6 @@ The Vines - Highly Evolved (2002-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
 Stone Sour - Stone Sour (2002-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7c0f696-2917-4e85-abc4-2b3d599c4289/16956340178-500.jpg" data-tags="grunge, metal, hard rock" role="button">
-Seether - Disclaimer (2002-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfd86854-99cb-496e-b7c4-1c58c928ba1d/6514051160-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - 30 Seconds to Mars (2002-08-27)
@@ -162,14 +162,14 @@ Switchfoot - The Beautiful Letdown (2003-02-25)
 <li data-cover="https://img.discogs.com/KRMTwE7qWAZAHT2B0pdhwNqZyXc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297711-1207470861.jpeg.jpg" data-tags="hard rock, alternative metal" role="button">
 Godsmack - Faceless (2003-04-08)
 </li>
+<li data-cover="https://img.discogs.com/S3Rz5RUJDLLNYxscraAwF0ykph8=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337527-1374014194-3229.jpeg.jpg" data-tags="alternative rock" role="button">
+Cold - Year Of The Spider (2003-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/1075497696-500.jpg" data-tags="alternative rock, rock" role="button">
 Staind - 14 Shades of Grey (2003-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad1faa75-05ed-426f-9134-45b184c2213b/2106374274-500.jpg" data-tags="hard rock, alternative rock" role="button">
 Shinedown - Leave a Whisper (2003-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/48cbd381-4018-4820-b8c9-369145b1022b/17554708954-500.jpg" data-tags="post-grunge" role="button">
-Smile Empty Soul - Smile Empty Soul (2003-05-27)
 </li>
 <li data-cover="https://img.discogs.com/eGx6Y-3O73jhjS-yqKsK2RzAty8=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-386093-1449454879-5476.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Hoobastank - The Reason (2003-06-30)
@@ -188,12 +188,6 @@ The Vines - Winning Days (2004-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/21478f60-2242-4c17-8fed-506581a14996/14503017209-500.jpg" data-tags="metal, alternative metal, heavy metal, hard rock, nu metal" role="button">
 Drowning Pool - Desensitized (2004-04-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/407c509c-2bae-4912-882a-0a21e4a2263a/9609882295-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
-Crossfade - Crossfade (2004-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/ca02e2ee-999a-422a-b0dc-54ee291392e6/4229259940-500.jpg" data-tags="alternative rock" role="button">
-Seether - Disclaimer II (2004-06-08)
 </li>
 <li data-cover="https://img.discogs.com/Q2NHqtdLjFnjifVuEuy1aFg-jLU=/fit-in/510x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914208-1307035961.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - We Are Not Alone (2004-06-08)
@@ -228,11 +222,17 @@ Hinder - Extreme Behavior (2005-09-27)
 <li data-cover="http://coverartarchive.org/release/e6d3884c-e8a0-4d6d-8878-48edb15244de/4338278193-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Three Days Grace - One-X (2006-06-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/c7547981-f332-4ccf-873c-4296dd21503e/7566294873-500.jpg" data-tags="hard rock" role="button">
+Stone Sour - Come What(ever) May (2006-07-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - Phobia (2006-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-grunge, crossfade" role="button">
 Crossfade - Falling Away (2006-08-29)
+</li>
+<li data-cover="https://img.discogs.com/HrAO7Rs1OTk8Z36yR7JMFsStHMQ=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2188305-1268766908.jpeg.jpg" data-tags="alternative rock, rock, hard rock" role="button">
+Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - The Paramour Sessions (2006-09-08)
@@ -243,11 +243,11 @@ Art of Dying - Art of Dying (2006-10-09)
 <li data-cover="http://coverartarchive.org/release/1138469b-30b2-4400-acdc-b84340d1b8ad/26393913064-500.jpg" data-tags="alternative rock, post-grunge" role="button">
 Switchfoot - Oh! Gravity. (2006-12-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, hard rock" role="button">
-Finger Eleven - Them vs. You vs. Me (2007-03-06)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Puddle of Mudd - Famous (2007-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/31edc597-2f6a-4466-8e79-2f7ad5eae2fb/9227459438-500.jpg" data-tags="rock, alternative rock" role="button">
+12 Stones - Anthem For The Underdog (2007-08-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
@@ -279,6 +279,9 @@ Sick Puppies - Tri-Polar (2009-07-24)
 <li data-cover="http://coverartarchive.org/release/7277b02d-1ede-488a-9718-78fe8dd01dc7/22983867535-500.jpg" data-tags="christian rock, rock, hard rock" role="button">
 Skillet - Awake (2009-08-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/e1f84f7d-6e2e-4422-b91d-7c2bc9a882c4/6689602780-500.jpg" data-tags="rock, alternative rock" role="button">
+Three Days Grace - Life Starts Now (2009-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/d608c081-dfdd-405c-ac27-d4b7442ad649/9406254911-500.jpg" data-tags="alternative rock" role="button">
 Breaking Benjamin - Dear Agony (2009-09-29)
 </li>
@@ -300,9 +303,6 @@ Alter Bridge - AB III (2010-10-08)
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c704f1d-f239-4558-a0a7-f6f63a5cecc4/16761131313-500.jpg" data-tags="alternative, post-grunge, alternative rock" role="button">
-Seether - Holding Onto Strings Better Left To Fray (2011-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/0fc5b077-cb71-41f2-9237-406325f33252/15547414589-500.jpg" data-tags="hard rock, rock, alternative rock" role="button">
 Nickelback - Here And Now (2011-11-14)
 </li>
@@ -312,8 +312,8 @@ Shinedown - Amaryllis (2012-03-23)
 <li data-cover="http://coverartarchive.org/release/0f106eee-fcaf-4fb6-9378-5aa3381610f5/12078409397-500.jpg" data-tags="post-grunge" role="button">
 The Pretty Reckless - Kill Me (2012-12-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/31fde46c-fca1-4e58-87a7-2dbdac1d0c72/16480922138-500.jpg" data-tags="hard rock, alternative rock" role="button">
-The Pretty Reckless - Going to Hell (2014-03-12)
+<li data-cover="http://coverartarchive.org/release/75f44d76-a304-46c2-8dab-9d5912ab7dc4/7454084925-500.jpg" data-tags="alternative metal" role="button">
+Alter Bridge - Fortress (2013-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bce2f88-f465-4eb7-b067-73e0ae041041/8024914179-500.jpg" data-tags="rock, alternative rock, hard rock, alternative metal, post-grunge" role="button">
 Seether - Isolate and Medicate (2014-06-27)

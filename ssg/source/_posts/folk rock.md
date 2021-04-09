@@ -1,11 +1,11 @@
 ---
-date: 2021-04-09T17:02:01.450Z
+date: 2021-04-09T23:16:06.908Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">David Bowie - Space Oddity (1969-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">Neil Young - Harvest (1972-02-14)</li>
+<li data-cover="https://img.discogs.com/sJliCcqKc5U7HBZuthzIcOeD3vE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3943315-1350043419-1194.jpeg.jpg" data-tags="folk" role="button">Bob Dylan - Blood on the Tracks (1975-01-20)</li>
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">Bob Dylan - Desire (1976-01-05)</li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">Neil Young - Harvest Moon (1992-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">Ray LaMontagne - Gossip In The Grain (2008-10-14)</li>
@@ -24,26 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">
 The Beatles - Rubber Soul (1965-12-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/729a335c-6bc3-47e1-bb56-78ce70f099be/7471151756-500.jpg" data-tags="60s, singer-songwriter, classic rock, folk rock" role="button">
-Simon & Garfunkel - Sounds of Silence (1966-01-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cf90a62-28e1-479e-beea-aec59d72a456/20530359400-500.jpg" data-tags="folk rock, 60s, classic rock" role="button">
-The Band - Music From Big Pink (1968-07-01)
-</li>
-<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
-Van Morrison - Astral Weeks (1968-11)
-</li>
 <li data-cover="https://img.discogs.com/7RPgI0pOyEvIZJBpUerviZhCids=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400980-1293165132.jpeg.jpg" data-tags="60s, folk rock, classic rock, folk" role="button">
 Crosby, Stills & Nash - Crosby, Stills & Nash (1969-05-29)
-</li>
-<li data-cover="https://img.discogs.com/oTROP7ENuO6MR-lunRvDA3YRu1U=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383008-1240998303.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
-Nick Drake - Five Leaves Left (1969-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ff35d4e-5623-4723-929c-bff2e0a5eb37/9925745196-500.jpg" data-tags="classic rock, rock" role="button">
-The Band - The Band (1969-09-22)
-</li>
-<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
-David Bowie - Space Oddity (1969-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
@@ -75,6 +57,12 @@ Led Zeppelin - Led Zeppelin IV (1971-11-08)
 <li data-cover="http://coverartarchive.org/release/b028a5c0-7b62-4276-adb4-edb05777ccbf/8501416799-500.jpg" data-tags="classic rock, folk, 70s" role="button">
 Neil Young - Harvest (1972-02-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Nick Drake - Pink Moon (1972-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/56d05907-9f3f-4eec-8c1d-97e9c735d88f/1262909032-500.jpg" data-tags="folk rock" role="button">
+Jim Croce - You Don't Mess Around with Jim (1972-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, folk" role="button">
 Joni Mitchell - Court and Spark (1974-04)
 </li>
@@ -93,6 +81,9 @@ The Band - The Best of the Band (1976)
 <li data-cover="http://coverartarchive.org/release/57894be9-7efd-4543-996e-30ed061a9d23/26584162748-500.jpg" data-tags="folk rock, 70s, folk" role="button">
 Bob Dylan - Desire (1976-01-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/23716905-5107-4572-966e-f090100076c5/16198712449-500.jpg" data-tags="60s, donovan" role="button">
+Donovan - Donovan's Greatest Hits (1989-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/93a79320-49ec-438c-a2c9-da89b9a4eaff/12530781429-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Harvest Moon (1992-10-27)
 </li>
@@ -105,6 +96,9 @@ Elliott Smith - Either/Or (1997-02-25)
 <li data-cover="http://coverartarchive.org/release/cef41ad3-9604-476f-8449-907e4a39072a/18916427598-500.jpg" data-tags="folk rock, folk, medieval" role="button">
 Blackmore's Night - Shadow Of The Moon (1997-04-23)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter" role="button">
+Jackson Browne - The Next Voice You Hear: The Best of Jackson Browne (1997-09-23)
+</li>
 <li data-cover="https://img.discogs.com/85J-XYLQ0iWpOfvrA1Y1bu3Jkfs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2818814-1302446972.jpeg.jpg" data-tags="singer-songwriter, 90s, rock" role="button">
 Bob Dylan - Time Out of Mind (1997-09-26)
 </li>
@@ -114,14 +108,14 @@ Blackmore's Night - Under A Violet Moon (1999-04-21)
 <li data-cover="http://coverartarchive.org/release/aca1c634-8481-4848-9b33-69d3a6a54943/10960659069-500.jpg" data-tags="classic rock, folk, folk rock" role="button">
 Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e8c9658-be99-47a8-9b32-f49591b56fec/2628868943-500.jpg" data-tags="folk rock, folk, an danzza" role="button">
-Blackmore's Night - Fires at Midnight (2001-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/c8595d76-b1f7-4dc1-badc-cf68720866be/7927192700-500.jpg" data-tags="indie, folk" role="button">
 The Mountain Goats - All Hail West Texas (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
+Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg" data-tags="singer-songwriter, acoustic, beck" role="button">
 Beck - Sea Change (2002-09-21)
@@ -135,26 +129,23 @@ Blackmore's Night - Ghost Of A Rose (2003-06-23)
 <li data-cover="https://img.discogs.com/3cJprwd-XZTGvFCOSiAflbEBewQ=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-728468-1394138699-6330.jpeg.jpg" data-tags="pop, rock, 80s, folk, scottish, folk rock" role="button">
 The Proclaimers - Finest (2003-09-01)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
-Sufjan Stevens - Seven Swans (2004-03-16)
-</li>
-<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
-Iron & Wine - Our Endless Numbered Days (2004-03-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dc2f627-b12e-4a0b-9775-f88de9881061/18183886570-500.jpg" data-tags="rock, classic rock" role="button">
 Neil Young - Greatest Hits (2004-11-16)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
-Beirut - Gulag Orkestar (2005)
+<li data-cover="https://img.discogs.com/uab3AD5Gc4ImQL_OSmNQqaSwO1Y=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-664042-1478671475-7937.jpeg.jpg" data-tags="female vocalists" role="button">
+KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
 Мельница - Перевал (2005-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
 Okkervil River - Black Sheep Boy (2005-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
+Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
@@ -165,8 +156,14 @@ Fleet Foxes - Fleet Foxes (2006)
 <li data-cover="https://img.discogs.com/NAsJeiPF2ifIvV4ihcFCzf5IByQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148661-1291561010.jpeg.jpg" data-tags="indie, folk, singer-songwriter, folk rock" role="button">
 The Mountain Goats - Get Lonely (2006-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/b76fcb7a-00c1-3ff6-9963-7dc5c4502838/9315832224-500.jpg" data-tags="folk" role="button">
+M. Ward - Post-War (2006-08-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/32bc0869-4cae-444a-8792-c17dd5d314fb/21233023204-500.jpg" data-tags="indie" role="button">
 The Decemberists - The Crane Wife (2006-10-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/43e4a25b-dcd7-40e3-abcb-8b9a47ac2d08/20163942881-500.jpg" data-tags="folk, folk rock, russian" role="button">
+Мельница - Зов Крови (2006-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
@@ -174,11 +171,17 @@ Andrew Bird - Armchair Apocrypha (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
+<li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
+KT Tunstall - Drastic Fantastic (2007-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/683bf534-5ce1-4818-be2d-38ddcd864eb3/7196832280-500.jpg" data-tags="soundtrack" role="button">
 Eddie Vedder - Into the Wild (2007-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/1173ad8c-8689-321a-824f-4fe67e103979/14494214977-500.jpg" data-tags="folk rock" role="button">
+Two Gallants - Two Gallants (2007-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/060d2f99-5f82-488a-9f0a-b6b1a8112026/10151905692-500.jpg" data-tags="folk rock, americana" role="button">
 Robert Plant & Alison Krauss - Raising Sand (2007-10-23)
@@ -194,9 +197,6 @@ Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
-Paolo Nutini - Sunny Side Up (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
@@ -240,9 +240,6 @@ PJ Harvey - Let England Shake (2011-02-14)
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
 Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
-<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">
-Fleet Foxes - Helplessness Blues (2011-04-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/291bce52-1a0f-45e3-b981-6b00dd972a86/7498939659-500.jpg" data-tags="folk rock, folk, acoustic" role="button">
 Frank Turner - England Keep My Bones (2011-06-03)
 </li>
@@ -278,6 +275,9 @@ The Lumineers - The Lumineers (2012-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd6989fd-ea2f-4437-be0f-e7470507a454/10428293806-500.jpg" data-tags="rock" role="button">
 Train - California 37 (2012-04-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/08d68658-0834-4dea-9914-8146cf4b9907/15222093874-500.jpg" data-tags="rock" role="button">
+Jack White - Blunderbuss (2012-04-20)
 </li>
 <li data-cover="https://img.discogs.com/3Liy7xlO0l2RTPGEp62dqQOoSz8=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241431-1209829373.jpeg.jpg" data-tags="singer-songwriter, classic rock, rock" role="button">
 Rodriguez - Searching for Sugar Man (2012-07-20)

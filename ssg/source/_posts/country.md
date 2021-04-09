@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:55:01.531Z
+date: 2021-04-09T22:57:01.426Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -57,6 +57,9 @@ Shania Twain - Come on Over (1997-11-04)
 <li data-cover="http://coverartarchive.org/release/dc20ab32-ff95-3621-bdaf-92b90e826ee1/6201935684-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Wide Open Spaces (1998-01-27)
 </li>
+<li data-cover="https://img.discogs.com/na6SCvM0UqeDH4JbLATHyNmVPoM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2377099-1280471658.jpeg.jpg" data-tags="country" role="button">
+Lonestar - Lonely Grill (1999-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/c464169f-eec9-3406-9690-5e5667ec091d/6201889696-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Fly (1999-08-27)
 </li>
@@ -86,6 +89,9 @@ Kenny Chesney - No Shoes, No Shirt, No Problems (2002-04-23)
 </li>
 <li data-cover="https://img.discogs.com/LDodnhH5hRxBvecYs65tpSQverg=/fit-in/160x160/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558075-1290358712.jpeg.jpg" data-tags="country" role="button">
 Joe Nichols - Man With A Memory (2002-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1539910-6ed4-4e6d-af0c-68a1e680b9e6/9375287074-500.jpg" data-tags="country" role="button">
+Toby Keith - Unleashed (2002-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d65493ed-9fae-3381-b57d-8e50596c72cd/14014357566-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Home (2002-08-26)
@@ -117,17 +123,11 @@ Brooks & Dunn - The Very Best Of Brooks & Dunn (2004)
 <li data-cover="http://coverartarchive.org/release/3a71ae89-00c5-442b-805b-1485e35bf405/3682341498-500.jpg" data-tags="country" role="button">
 Kenny Chesney - When The Sun Goes Down (2004-02-03)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
-Sufjan Stevens - Seven Swans (2004-03-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/99bfcd40-b086-41f7-83d7-786fbbb3c99b/26696949744-500.jpg" data-tags="country" role="button">
 Keith Urban - Be Here (2004-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbf71192-ea2e-4ae5-92b7-84da57abb0d2/28772002409-500.jpg" data-tags="country" role="button">
 Rascal Flatts - Feels Like Today (2004-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
-Shania Twain - Greatest Hits (2004-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/abab6ac7-3f02-4715-8394-2381260828b5/21565017025-500.jpg" data-tags="country" role="button">
 Craig Morgan - My Kind Of Livin' (2005-03-08)
@@ -158,6 +158,9 @@ Carrie Underwood - Some Hearts (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ec29d87-ad4b-48ab-98b5-13ff6cffdc5c/10717310269-500.jpg" data-tags="country, male vocalists, country music" role="button">
 Jace Everett - Jace Everett (2005-11-22)
+</li>
+<li data-cover="https://img.discogs.com/FtULkQ6b0y6k9auEFqnrvhMRWsw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9814785-1587467828-8604.jpeg.jpg" data-tags="country" role="button">
+Johnny Cash - The Essential Johnny Cash (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/27fe6e70-7d18-460f-a20e-ff734cbe42ea/12740151338-500.jpg" data-tags="country" role="button">
 Josh Turner - Your Man (2006-01-24)
@@ -248,9 +251,6 @@ Rodney Atkins - It's America (2009-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/8953f25b-6c3e-413e-b286-a66a58c468ca/14919707035-500.jpg" data-tags="country" role="button">
 Jason Aldean - Wide Open (2009-04-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/416255db-6f4d-3541-9852-58d3664b4737/890297806-500.jpg" data-tags="country" role="button">
-Brad Paisley - American Saturday Night (2009-06-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8b7e81c-cf6c-4cf5-bfed-71cece74d463/14961784503-500.jpg" data-tags="country" role="button">
 Justin Moore - Justin Moore (2009-08-11)

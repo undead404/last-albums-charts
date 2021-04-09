@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:25:01.457Z
+date: 2021-04-09T23:11:01.450Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -225,9 +225,6 @@ Sum 41 - Underclass Hero (2007-07-18)
 <li data-cover="http://coverartarchive.org/release/b97c7de1-616c-40bf-a8d7-9ceb84ab8552/7273638872-500.jpg" data-tags="pop punk" role="button">
 All Time Low - So Wrong, It's Right (2007-09-25)
 </li>
-<li data-cover="https://img.discogs.com/AFN3DwuD-MUBC5fmATDT49nCQXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2437292-1283994785.jpeg.jpg" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
-The Spill Canvas - No Really, I'm Fine (2007-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
 Jimmy Eat World - Chase This Light (2007-10-06)
 </li>
@@ -317,6 +314,9 @@ Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/89c35108-4695-4b3f-b1e9-ce2a1d38bcfc/11327787575-500.jpg" data-tags="emo, pop punk" role="button">
+The Hotelier - Home, Like Noplace Is There (2014-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
 Charli XCX - Sucker (2014-12-15)

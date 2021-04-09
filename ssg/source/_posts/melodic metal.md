@@ -1,19 +1,19 @@
 ---
-date: 2021-04-08T06:31:02.104Z
+date: 2021-04-09T23:31:06.872Z
 title: "melodic metal: 100 albums you must listen to before you die"
 ---
-![Nightwish - Dark Passion Play (2007-09-26)](http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg "Nightwish - Dark Passion Play (2007-09-26)")
+![Sonata Arctica - Silence (2001-01)](https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg "Sonata Arctica - Silence (2001-01)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">Dream Theater - When Dream And Day Unite (1989-03-06)</li>
-<li data-cover="http://coverartarchive.org/release/793fc63a-5f06-4b32-a5e9-0bd23c860818/26955191137-500.jpg" data-tags="rock, hard rock, post-grunge, melodic metal, amazing voice, godly voice, the mayfield four" role="button">The Mayfield Four - Fallout (1998-05-26)</li>
-<li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Oceanborn (1998-12-07)</li>
-<li data-cover="http://coverartarchive.org/release/8bd7874b-c945-4e62-8135-4c01951e29da/9541801579-500.jpg" data-tags="alternative metal, melodic metal, melodic death metal" role="button">Passenger - Passenger (2003)</li>
-<li data-cover="http://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/1075497696-500.jpg" data-tags="alternative rock, rock" role="button">Staind - 14 Shades of Grey (2003-05-19)</li>
-<li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">Kamelot - The Black Halo (2005-02-16)</li>
+<li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Ecliptica (1999-08-29)</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Silence (2001-01)</li>
+<li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">Angra - Temple of Shadows (2004-09-06)</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Reckoning Night (2004-10-06)</li>
+<li data-cover="https://img.discogs.com/KNhg5f5CKcGCOr8PYno5o1tIsCY=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-441808-1330245053.jpeg.jpg" data-tags="melodic death metal" role="button">Soilwork - Stabbing the Drama (2005-01)</li>
+<li data-cover="http://coverartarchive.org/release/31f67aec-002f-4b54-9aec-ae39095c7992/22559397129-500.jpg" data-tags="power metal" role="button">Sonata Arctica - Unia (2007-05-23)</li>
+<li data-cover="http://coverartarchive.org/release/a278e457-bf21-489c-9c06-02ca8fb60343/3098115173-500.jpg" data-tags="gothic metal, symphonic metal, female fronted metal, nemesea" role="button">Nemesea - In Control (2007-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
-<li data-cover="http://coverartarchive.org/release/d74eaf35-305c-4218-87a2-bf1f67ed9d5f/929423406-500.jpg" data-tags="metalcore" role="button">All That Remains - Overcome (2008-09-16)</li>
-<li data-cover="http://coverartarchive.org/release/3ff5ddab-c7c3-418c-9a2c-e547666bcbea/2593366985-500.jpg" data-tags="melodic metal" role="button">All Ends - All Ends (2008-09-26)</li>
-<li data-cover="http://coverartarchive.org/release/6f38a9f9-6538-4745-9dde-d00cacbe2dff/8273688325-500.jpg" data-tags="alternative metal, melodic death metal" role="button">In Flames - Sounds of a Playground Fading (2011-06-15)</li>
+<li data-cover="http://coverartarchive.org/release/e67f8da1-88b9-3a9c-be1c-f40dbab896b2/20457737757-500.jpg" data-tags="melodic death metal" role="button">In Flames - A Sense of Purpose (2008-03-26)</li>
+<li data-cover="http://coverartarchive.org/release/d8bd37e1-104c-4bf5-aae3-fddb7ade58e3/1123262036-500.jpg" data-tags="progressive metal" role="button">Amorphis - Skyforger (2009-05-27)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,221 +21,257 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/vV3KowX2nxr4Q02so1Xy_t-hAzE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2163318-1426562849-1813.jpeg.jpg" data-tags="heavy metal, hard rock, hair metal, aor, glam rock, melodic metal, melodic rock" role="button">
-Icon - Night of the Crime (1985)
-</li>
-<li data-cover="http://coverartarchive.org/release/420ad425-c24c-4746-ad9c-14bdc47839aa/6985664945-500.jpg" data-tags="metal, melodic metal" role="button">
-Lucifer's Heritage - Battalions Of Fear (1986)
-</li>
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
-<li data-cover="https://img.discogs.com/zCCXAR9JDK8WoZq0_85PjKtSQ_E=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5303301-1431328815-5112.jpeg.jpg" data-tags="heavy metal, 80s, speed metal, germany, german, live, power metal, melodic metal, live album, german metal, helloween, very favorite" role="button">
-Helloween - Keepers Live (1989-05-10)
+<li data-cover="http://coverartarchive.org/release/35085945-f3c6-4f56-95ac-9c088fb0a04e/16859516286-500.jpg" data-tags="price of love, when i see you smile, 80s, possession, heaven is a 4 letter word" role="button">
+Bad English - Bad English (1989-06-19)
 </li>
-<li data-cover="https://img.discogs.com/K7PUiJtb-iy40usbdGl--7HI_Ss=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3435550-1360053834-2186.jpeg.jpg" data-tags="heavy metal, hard rock, rock n roll, melodic metal, hard n heavy, ballcrushin  vocals, old-school heavy metal, queen worship" role="button">
-Lizzy Borden - Master of Disguise (1989-08-21)
+<li data-cover="http://coverartarchive.org/release/050e7238-9751-4521-91b6-89c672eac590/6734728782-500.jpg" data-tags="power metal" role="button">
+Angra - Angels Cry (1993-11-03)
 </li>
-<li data-cover="https://img.discogs.com/yC2y5jJBeCXca-ihVbQpPVgOKB8=/fit-in/470x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2080312-1334769454.jpeg.jpg" data-tags="power metal, melodic metal, neo-classical metal" role="button">
-Timo Tolkki - Classical Variations and Themes (1994-10)
+<li data-cover="http://coverartarchive.org/release/e9a52529-ad38-3dcc-bfc7-cc68c0963925/3167546175-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Fourth Dimension (1995-02-08)
 </li>
-<li data-cover="https://img.discogs.com/sf62bcij06CCSXC5ZM2Tmjl47hA=/fit-in/400x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3714260-1341424417-2262.jpeg.jpg" data-tags="progressive metal" role="button">
-Savatage - Dead Winter Dead (1995-10-24)
+<li data-cover="http://coverartarchive.org/release/e2279f39-ec58-3ec2-8c70-be4f084b0e6e/19296369854-500.jpg" data-tags="power metal" role="button">
+Angra - Holy Land (1996-03-23)
 </li>
-<li data-cover="https://img.discogs.com/RMKXzmjtXWhgouQAi_8pmxWltCo=/fit-in/600x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1200143-1200243859.jpeg.jpg" data-tags="female fronted metal, metal, doom metal, gothic, germany, gothic metal, symphonic metal, melodic metal, dark metal, cemetery of scream, djmz" role="button">
-Dark - Endless Dreams Of Sadness (1996)
+<li data-cover="https://img.discogs.com/Ehg1UWIR2LOFYC-zR-eaywAAbik=/fit-in/600x918/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6774225-1443346722-5599.jpeg.jpg" data-tags="power metal" role="button">
+Stratovarius - Episode (1996-04-24)
 </li>
-<li data-cover="https://img.discogs.com/pdotG69U_ZhEpI_Wiy1bIjVWdxg=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5938494-1478213245-8830.jpeg.jpg" data-tags="heavy metal, melodic metal" role="button">
-Brazen Abbot - Eye of the Storm (1997-04)
+<li data-cover="http://coverartarchive.org/release/43c4d3ef-0af5-44c4-958c-d764c30a663f/18796116270-500.jpg" data-tags="power metal, heavy metal" role="button">
+Gamma Ray - Alive '95 (1996-05-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae65755f-4dc2-4c3f-a560-496f364c04b4/25855026828-500.jpg" data-tags="soundtrack, speed metal, power metal, melodic metal" role="button">
-Narnia - Awakening (1997-07-18)
+<li data-cover="https://img.discogs.com/pM4_39Y3cXXUsPpShG0cMstN1Q4=/fit-in/600x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4854086-1512640960-1267.jpeg.jpg" data-tags="j-rock" role="button">
+X Japan - DAHLIA (1996-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/a19ba24b-b93e-45a3-bc14-fc8288e1c449/2660149435-500.jpg" data-tags="rock n roll, symphonic metal, power metal, melodic metal, fantasy, lord of the rings, tolkien, lotr, middle-earth, stratovarius" role="button">
-Stratovarius - The Past and Now (1997-07-24)
+<li data-cover="https://img.discogs.com/rGk8JZTbq0cMG--FXbNcLhoGGGU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-467847-1529268889-6877.jpeg.jpg" data-tags="power metal" role="button">
+Stratovarius - Visions (1997-04-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/b038ec56-cf0e-48fd-90fd-123144995d17/1290590793-500.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Legendary Tales (1997-10-27)
+<li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
+The Gathering - Nighttime Birds (1997-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/1960d241-39c9-47be-a35d-c4ac71585d4f/6305387791-500.jpg" data-tags="gothic metal" role="button">
-Macbeth - Romantic Tragedy's Crescendo (1998)
-</li>
-<li data-cover="https://img.discogs.com/P5qhwKGVpnKQVtKgJZKzxHzBIUE=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7753234-1448067141-3556.jpeg.jpg" data-tags="gothic metal" role="button">
-Within Temptation - The Dance (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
-Lacuna Coil - Lacuna Coil (1998-01-26)
+<li data-cover="https://img.discogs.com/fQnwI0aU_V5W90p504QELel7gsQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614448-1328826638.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Vain Glory Opera (1998-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/793fc63a-5f06-4b32-a5e9-0bd23c860818/26955191137-500.jpg" data-tags="rock, hard rock, post-grunge, melodic metal, amazing voice, godly voice, the mayfield four" role="button">
 The Mayfield Four - Fallout (1998-05-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="black metal" role="button">
-Gehenna - Adimiron Black (1998-06-08)
+<li data-cover="http://coverartarchive.org/release/02304f7c-d527-41f7-b978-78f02307d47d/6366191614-500.jpg" data-tags="gothic metal" role="button">
+Sentenced - Frozen (1998-07-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/f49c361e-fbac-4aac-b11d-a79dc7a8be73/1282074689-500.jpg" data-tags="power metal" role="button">
+HammerFall - Legacy of Kings (1998-09-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/2ca0fbda-903c-4b64-a37b-8b69d179b227/2498043559-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Rhapsody - Symphony of Enchanted Lands (1998-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d535c793-73d7-359b-aeee-02b1f6d8ce8c/8141601849-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Oceanborn (1998-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/656c0101-64bd-4d43-83f5-fef06b052a0f/19247275998-500.jpg" data-tags="power metal, melodic metal, old school heavy metal" role="button">
-Crimson Glory - Astronomica (1999-08)
+<li data-cover="https://img.discogs.com/3R3MKE3t6Lf4Zn33WCjCe7jlHlU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4520380-1367216737-2419.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Theater of Salvation (1999-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c294f7c-920b-39a6-96ef-19d7336e5a34/1316730229-500.jpg" data-tags="melodic death metal, live" role="button">
-Children of Bodom - Tokyo Warhearts (1999-10-11)
+<li data-cover="http://coverartarchive.org/release/44e6e1da-0900-3927-8f88-826c1fc524ec/2556562304-500.jpg" data-tags="progressive metal" role="button">
+Amorphis - Tuonela (1999-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/7900699b-04e9-4dcf-9136-695300195d86/19468958558-500.jpg" data-tags="hard rock, melodic metal" role="button">
-Cornerstone - Arrival (2000-07-19)
+<li data-cover="https://img.discogs.com/CaR0hAGxYwdPJprJhqkSijrOI4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9148979-1475657931-8185.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Ecliptica (1999-08-29)
 </li>
-<li data-cover="https://img.discogs.com/mWGJtrVDGO-vaxTKsPm_6cBLgDE=/fit-in/307x227/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4901258-1378907113-1123.jpeg.jpg" data-tags="power metal, melodic metal, neoclassical metal, neo-classical metal, neo-classical power metal, stuff a donut would like, angels metal zone" role="button">
-Virtuocity - Secret Visions (2001)
+<li data-cover="http://coverartarchive.org/release/366356b1-e1b2-47bc-9504-92150185fe0e/23810538290-500.jpg" data-tags="power metal" role="button">
+Stratovarius - The Chosen Ones (1999-10-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/6cb84d28-d9a0-4b38-b38e-9f478d90242b/16655902889-500.jpg" data-tags="power metal" role="button">
-Freedom Call - Crystal Empire (2001-01-22)
+<li data-cover="http://coverartarchive.org/release/ccb999e5-78df-4580-8e60-a997add577f7/21611705986-500.jpg" data-tags="gothic metal" role="button">
+Sentenced - Crimson (2000-01-17)
 </li>
-<li data-cover="https://img.discogs.com/5tDnzn5aZvjJKoPm3A2tGuqvOxM=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654492-1402686579-5312.jpeg.jpg" data-tags="melancholic, melodic metal" role="button">
-Century - Melancholia (2001-02-12)
+<li data-cover="http://coverartarchive.org/release/82550065-2f56-4a1c-8b2a-c0362d499c05/1121197212-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Infinite (2000-02-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/fd402a06-253c-4137-b816-e31c3db989a8/18611796245-500.jpg" data-tags="rock, alternative, alternative metal, slovenian, melodic metal, eastern europe rock, moji albumi" role="button">
-Siddharta - Nord (2001-05-09)
+<li data-cover="http://coverartarchive.org/release/351e5578-2bdd-452e-b4ba-b2d13518eeb1/6834755855-500.jpg" data-tags="power metal" role="button">
+Helloween - The Dark Ride (2000-10-21)
 </li>
-<li data-cover="https://img.discogs.com/NdpwnbW7z9e65h0yjiQxX8FK29c=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3559002-1335237388.jpeg.jpg" data-tags="heavy metal, hard rock, melodic metal" role="button">
-Shakra - Power Ride (2001-08-23)
+<li data-cover="http://coverartarchive.org/release/3bb3e1b7-f897-4085-8a4b-1ed0454b4ddb/12542866193-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
+After Forever - Decipher (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/2a3431f3-0fe7-3613-8306-c819ba4dd730/18252107338-500.jpg" data-tags="hard rock, melodic metal, rockpalast" role="button">
-Cornerstone - Human Stain (2002-02-25)
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Silence (2001-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/1e787755-4982-49f6-8e35-cbb7656c1116/17513910022-500.jpg" data-tags="power metal, symphonic metal" role="button">
+Avantasia - The Metal Opera (2001-01-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/64134afb-c1de-45f2-939e-a55b08478b97/7843364132-500.jpg" data-tags="power metal" role="button">
+Falconer - Falconer (2001-03-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/dcaa1f02-3bad-4337-be7e-c769fd9df9e7/1287074936-500.jpg" data-tags="power metal" role="button">
+Kamelot - Karma (2001-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/0727811b-ad17-42d2-b9de-1495b04e4f10/14615490036-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Intermission (2001-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ba73082-04fe-3bf4-a601-ec0b26e083e9/1555934640-500.jpg" data-tags="power metal" role="button">
+Angra - Rebirth (2001-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/cd9acad7-5f84-481e-9ffb-e6037d290855/7843646894-500.jpg" data-tags="power metal" role="button">
+Falconer - Chapters From a Vale Forlorn (2002-02-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/c27fbfd4-7dbc-4351-9fff-2b1885836210/9019844805-500.jpg" data-tags="power metal" role="button">
+Angra - Hunters and Prey (2002-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/544b94ff-da91-3efd-87fc-5ceddd1a125c/10709405994-500.jpg" data-tags="gothic metal" role="button">
+Sirenia - At Sixes and Sevens (2002-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f9630af-1876-4a77-a33e-9d4cdca35ec0/17223666119-500.jpg" data-tags="power metal" role="button">
+Freedom Call - Eternity (2002-06-03)
+</li>
+<li data-cover="https://img.discogs.com/HteLrHzSKqtzAH3MgRZ6swukD5Y=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5489540-1394709780-1508.jpeg.jpg" data-tags="power metal, melodic metal" role="button">
+Dreamtale - Beyond Reality (2002-06-21)
+</li>
+<li data-cover="https://img.discogs.com/3muILt2zcbRppIWl5F-b8UWrxKg=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3986950-1351952887-1008.jpeg.jpg" data-tags="power metal" role="button">
+Shaman - Ritual (2002-08-02)
+</li>
+<li data-cover="https://img.discogs.com/1-vKmbyVlW9TN7B4y9NS6WEd-zs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8359429-1460066424-8916.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
+HammerFall - Crimson Thunder (2002-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8bd7874b-c945-4e62-8135-4c01951e29da/9541801579-500.jpg" data-tags="alternative metal, melodic metal, melodic death metal" role="button">
 Passenger - Passenger (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
-Within Temptation - Running Up That Hill (2003)
+<li data-cover="http://coverartarchive.org/release/4c5b22d5-e901-3e0c-89b1-ded24953449a/1287069532-500.jpg" data-tags="power metal" role="button">
+Kamelot - Epica (2003-01-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee52144d-6bab-4b79-b9af-1621c86bd204/6029510040-500.jpg" data-tags="power metal, speed metal, melodic metal, j-metal, happy metal, japanese metal, merry metal, disney metal, catchy metal, stratovarius" role="button">
-Azrael - Sunrise in the Dreamland (2003)
+<li data-cover="http://coverartarchive.org/release/9d249f7e-dce5-4b9e-a7d2-ebe90932b742/1005593114-500.jpg" data-tags="symphonic metal, power metal" role="button">
+Edenbridge - Aphelion (2003-01-27)
 </li>
-<li data-cover="https://img.discogs.com/GzTnxrtIYNcmAy9RBBXjqkiy3dA=/fit-in/500x483/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1063685-1189286893.jpeg.jpg" data-tags="power metal, melodic metal" role="button">
-Seventh Avenue - Between the Worlds (2003-01-03)
+<li data-cover="https://img.discogs.com/Etdg6NU8LjK3zc6LwzSxDu9oHzA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3612442-1361530770-6064.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Winterheart's Guild (2003-02-21)
 </li>
-<li data-cover="https://img.discogs.com/xHud_7uGoo_GQM2xAPJbJIBdrdM=/fit-in/419x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10158222-1493188977-4637.jpeg.jpg" data-tags="progressive metal, power metal, melodic metal, australian metal, metal" role="button">
-Voyager - Element V (2003-04)
+<li data-cover="https://img.discogs.com/KdhfdGRM1YR9eU8hOlIAiPcX1DY=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6494677-1420558968-7630.jpeg.jpg" data-tags="power metal, melodic metal" role="button">
+Twilightning - Delirium Veil (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/1075497696-500.jpg" data-tags="alternative rock, rock" role="button">
 Staind - 14 Shades of Grey (2003-05-19)
 </li>
-<li data-cover="https://img.discogs.com/tYm-LZy6pBZXWrwX3c8Qu6C2yxE=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12522256-1536926693-4199.jpeg.jpg" data-tags="progressive metal" role="button">
-Adagio - Underworld (2003-07-23)
+<li data-cover="http://coverartarchive.org/release/a451a0f9-d759-4fc6-8a10-3b9794e9216c/10591666065-500.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Takatalvi (2003-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/2f0c02a9-2dda-4b77-8aa6-db7b9ae740bb/12834822874-500.jpg" data-tags="hard rock, melodic metal" role="button">
-Shakra - Rising (2003-08-08)
+<li data-cover="https://img.discogs.com/WhXhokiV8v5L7DdSwHdN_qfBWro=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-614825-1161947856.jpeg.jpg" data-tags="power metal" role="button">
+Edguy - Hellfire Club (2004-03-15)
 </li>
-<li data-cover="https://img.discogs.com/zXh2fpLdiwMW_TsZ8DkEC-zCBec=/fit-in/400x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3673729-1339838188-6571.jpeg.jpg" data-tags="gothic metal, melodic metal" role="button">
-Forgive-Me-Not - Heavenside (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/17577fdf-383c-4122-8c81-3f736204904f/1703051955-500.jpg" data-tags="finnish, gothic metal, finnish metal, gothic rock, melodic metal, melodic rock, love metal, melodic gothic metal, melancholic metal, melancholic rock, finnish gothic metal" role="button">
-May I Cry - Scenery of a Heart (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/29cda679-d00f-3bd4-b56f-6c28e8d7e13d/14972169053-500.jpg" data-tags="power metal" role="button">
-Primal Fear - Devil's Ground (2004-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/9cc7e479-087a-33ab-ad65-c668d104bef2/8818724277-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
-After Forever - Invisible Circles (2004-03-25)
+<li data-cover="https://img.discogs.com/ne3_Pi7E0_f24aWrA58BwfsEkTY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2002240-1257868568.jpeg.jpg" data-tags="folk metal" role="button">
+Elvenking - Wyrd (2004-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/e862e298-ccaf-4575-889a-3198571bb2ed/1048113221-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Lovelorn (2004-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/5397467c-f8f0-4c87-9ba3-e85b758033e5/4074349969-500.jpg" data-tags="metal, rock, goth, doom metal, dark, gothic, gothic metal, melodic metal, dark metal, lacrimosa, nebenbei" role="button">
-Ad Vitam Aeternam - Abstract Senses (2004-07-12)
+<li data-cover="http://coverartarchive.org/release/25d1deb9-d696-4291-bd0c-4c8edf976de4/997844203-500.jpg" data-tags="power metal, heavy metal" role="button">
+Dream Evil - The Book Of Heavy Metal (2004-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
-Sirenia - Sirenian Shores (2004-10-11)
+<li data-cover="https://img.discogs.com/woX1gchnmghQOVYr6Bc1jidq1GU=/fit-in/598x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730034-1364827775-2990.jpeg.jpg" data-tags="melodic death metal" role="button">
+Children of Bodom - Trashed, Lost & Strungout (2004-08-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
+Angra - Temple of Shadows (2004-09-06)
+</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Reckoning Night (2004-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/0cb0d731-2781-4fcf-99cd-133d079b7d31/9379278772-500.jpg" data-tags="symphonic metal" role="button">
+Within Temptation - Stand My Ground (2004-10-25)
+</li>
+<li data-cover="https://img.discogs.com/KNhg5f5CKcGCOr8PYno5o1tIsCY=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-441808-1330245053.jpeg.jpg" data-tags="melodic death metal" role="button">
+Soilwork - Stabbing the Drama (2005-01)
+</li>
+<li data-cover="https://img.discogs.com/YVYsIAJ21KuI21SNW1CbgVWw9-k=/fit-in/336x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3509485-1373047449-3190.jpeg.jpg" data-tags="symphonic metal" role="button">
+Within Temptation - Memories (2005-01-31)
 </li>
 <li data-cover="https://img.discogs.com/ZUZ86A3lUZawBsMX0zAAvQHU3h8=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4585588-1369145138-1043.jpeg.jpg" data-tags="power metal" role="button">
 Kamelot - The Black Halo (2005-02-16)
 </li>
-<li data-cover="https://img.discogs.com/zgQnPXdX_1IGwYpZaGUJ-15VAUw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6296588-1585598536-4340.jpeg.jpg" data-tags="power metal" role="button">
-HammerFall - Chapter V: Unbent, Unbowed, Unbroken (2005-03-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/a28732a4-caba-4058-8635-b336497c08c7/5365173695-500.jpg" data-tags="metalcore" role="button">
-Neaera - The Rising Tide of Oblivion (2005-03-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c22f721-b5a9-4926-a09d-4dc015523a1d/22584846313-500.jpg" data-tags="instrumental, rock n roll, 00s, melodic metal, shut up and play the guitar, investig, n zaza" role="button">
-Neil Zaza - Melodica (2005-03-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/bce6e4d9-096d-4f59-9b70-30db1dc49b3d/5372712419-500.jpg" data-tags="power metal, heavy metal" role="button">
-Powerwolf - Return in Bloodred (2005-04-04)
+<li data-cover="http://coverartarchive.org/release/a35ac82e-963b-4d96-9d36-b108e69030d8/24241536105-500.jpg" data-tags="power metal" role="button">
+Freedom Call - The Circle of Life (2005-03-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
 Circus Maximus - The 1st Chapter (2005-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/30214efe-bc85-48c3-b5a1-39d50fd3dd11/2138626195-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
-Xandria - India (2005-08-22)
+<li data-cover="http://coverartarchive.org/release/3d0b9f19-a36e-424a-b14e-782843800b4f/26014218710-500.jpg" data-tags="power metal" role="button">
+Power Quest - Magic Never Dies (2005-07-04)
 </li>
-<li data-cover="https://img.discogs.com/itRr-KSQo1XzQlgxgUKSz1o1d-E=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-847138-1519782032-3822.jpeg.jpg" data-tags="heavy metal, metal, experimental, progressive metal, post-rock, progressive rock, epic, dark, experimental rock, symphonic rock, norwegian, speed metal, avant-garde, thrash metal, progressive, super group, symphonic, symphonic metal, norway, power metal, epic metal, melodic metal, avant-garde metal, supergroup, norwegian metal, post-metal, dark rock, experimental metal, dark metal, progressive power metal, progressive post-metal, avant-garde rock, epic progressive metal, clean vocals, progressive melodic metal, catchy metal, super-group, progressive post-rock, melodic dark metal, avant-garde progressive metal, avant-garde thrash metal, progressive melodic dark metal, avant-garde heavy metal, epic avant-garde metal, epic progressive avant-garde metal" role="button">
-Age of Silence - Complications: Trilogy of Intricacy (2005-10-10)
+<li data-cover="http://coverartarchive.org/release/b66e9fbd-eab9-4df0-bb33-92cc4656a7e6/1119140087-500.jpg" data-tags="gothic metal" role="button">
+Charon - Songs for the Sinners (2005-08-31)
 </li>
-<li data-cover="https://img.discogs.com/VnP8swxSApTx-keCUfQUhHjGPqY=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1925387-1496262794-2987.jpeg.jpg" data-tags="female fronted metal, progressive metal, melodic metal, french metal, metal francais, jedcon2013" role="button">
-Hamka - Unearth (2005-10-26)
+<li data-cover="http://coverartarchive.org/release/989617a5-fd35-3119-a1b2-d369504325ca/2137869058-500.jpg" data-tags="power metal" role="button">
+Stratovarius - Stratovarius (2005-08-31)
 </li>
-<li data-cover="https://img.discogs.com/Ju2TO7gsPVxwp3cKCEC8SyUrzqA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2338649-1480768263-9156.jpeg.jpg" data-tags="heavy metal, metal, alternative, hard rock, norwegian, melodic death metal, alternative metal, death metal, norway, melodic metal, trash metal" role="button">
-Chain Collector - The Masquerade (2005-11-04)
+<li data-cover="http://coverartarchive.org/release/91610e04-7e1a-4ff3-a4a9-1aaf85af2210/16291593393-500.jpg" data-tags="power metal" role="button">
+Primal Fear - Seven Seals (2005-10-15)
 </li>
-<li data-cover="https://img.discogs.com/uhi69HsUSASCkFP9qt9TB4miTM4=/fit-in/299x302/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7479716-1442326593-3011.jpeg.jpg" data-tags="power metal, melodic metal, polish metal, skorgan" role="button">
-Privateer - The Traitors (2006)
+<li data-cover="https://img.discogs.com/0oGA16AQtJYpD1DDX_g1i-9lZW0=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2183519-1328646719.jpeg.jpg" data-tags="power metal" role="button">
+Bloodbound - Nosferatu (2005-12-16)
 </li>
-<li data-cover="https://img.discogs.com/oD6Qx8XS34rT3Jj27DBNFgHd2jw=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8691304-1541048896-8120.png.jpg" data-tags="metal, progressive metal, power metal, melodic metal, brazilian metal, eyes of shiva-deep" role="button">
-Eyes Of Shiva - Deep (2006-01-25)
+<li data-cover="https://img.discogs.com/FLilKaoz6h_qcpp6iBibzv6CnB4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7076900-1488969159-6175.jpeg.jpg" data-tags="folk metal, power metal" role="button">
+Elvenking - The Winter Wake (2006-01-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/97ed049d-b909-40d6-af26-3bb3957fac88/25846634458-500.jpg" data-tags="melodic metal" role="button">
-Narnia - Enter the Gate (2006-04-21)
+<li data-cover="http://coverartarchive.org/release/4ffeaf25-cb9c-4f23-a6e6-17079b91b3eb/3921954025-500.jpg" data-tags="power metal" role="button">
+Edguy - Rocket Ride (2006-01-20)
 </li>
-<li data-cover="https://img.discogs.com/pYTR7-zIEdrT_KshdFrNK0odtMw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3502835-1334126027.jpeg.jpg" data-tags="rock, power metal, melodic metal" role="button">
-Michael Kiske - Kiske (2006-05-19)
+<li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">
+Lacuna Coil - Karmacode (2006-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/5367dec9-0ad9-459d-96a9-ca98d80b4d33/11713284738-500.jpg" data-tags="gothic metal, melodic metal, metallis, z3po like this" role="button">
-SaraLee - Darkness Between (2006-06-07)
+<li data-cover="http://coverartarchive.org/release/d5c95644-75bc-3bd9-83dc-b540de205850/12567333679-500.jpg" data-tags="symphonic metal" role="button">
+Nightwish - End of an Era (2006-05-31)
 </li>
-<li data-cover="https://img.discogs.com/onI1WICBY6HZeeLS_DmJ3zBCiVs=/fit-in/380x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3863326-1347293516-7935.jpeg.jpg" data-tags="metal, melodic death metal, death metal, melodic metal, modern melodic death metal" role="button">
-Lords Of Decadence - Cognitive Note of Discord (2006-08-01)
+<li data-cover="http://coverartarchive.org/release/75633906-7ee3-4f4c-a27c-e7deb2908711/1049823429-500.jpg" data-tags="symphonic metal" role="button">
+Lunatica - The Edge of Infinity (2006-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7cae4a0-d834-41d0-bb2d-b6fcdab61db3/21314379099-500.jpg" data-tags="heavy metal, hard rock, finnish, power metal, melodic metal" role="button">
-Leverage - Tides (2006-08-09)
+<li data-cover="https://img.discogs.com/oOY0hXYgn-0Dr6Oc856IpBp4gwo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1070575-1514157186-5942.jpeg.jpg" data-tags="gothic metal" role="button">
+Poisonblack - Lust Stained Despair (2006-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7aa3a53-d22d-4658-8867-edb0e1730117/16976705245-500.jpg" data-tags="power metal, melodic metal, hammerfall" role="button">
-HammerFall - Natural High (2006-09-22)
+<li data-cover="https://img.discogs.com/m3r8qJcR7FdUcUZSRuLi0N34AJE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6422814-1419703949-2616.jpeg.jpg" data-tags="power metal" role="button">
+Angra - Aurora Consurgens (2006-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/441cf00b-8365-46ee-8c11-21dfb5f8e034/25433486566-500.jpg" data-tags="compilation, power metal, melodic metal, cover version, iron maiden, ralf scheepers, mat sinner, primer fear-metal is forever-the very best of primer fear" role="button">
-Primal Fear - Metal Is Forever - The Very Best of Primal Fear (2006-09-29)
+<li data-cover="http://coverartarchive.org/release/e2b852f5-09af-45de-84b4-ceab42e931b1/24808879706-500.jpg" data-tags="melodic death metal" role="button">
+Blinded Colony - Bedtime Prayers (2006-12-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/a79b7af8-8f5b-4cd4-97d2-a7fb0fdc13a9/18625729687-500.jpg" data-tags="metal, progressive metal, power metal, melodic metal, power progressive metal, australian metal, voyager" role="button">
-Voyager - uniVers (2007-01-10)
+<li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">
+Within Temptation - The Heart of Everything (2007-03-09)
 </li>
-<li data-cover="https://img.discogs.com/1j9uE_ZOZzXt2XA0IPJmpsEzJnM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-914354-1497007722-1089.jpeg.jpg" data-tags="gothic metal" role="button">
-Trail of Tears - Existentia (2007-01-26)
+<li data-cover="https://img.discogs.com/gSg58eDMiqGerChL-r4SeRDPI9U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12359483-1533657074-1211.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
+Kamelot - Ghost Opera (2007-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2d6d439-2609-4460-af95-6c200f729a33/4309527516-500.jpg" data-tags="experimental, progressive metal, power metal, melodic metal" role="button">
-Labyrinth - 6 days to nowhere (2007-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, progressive rock, melodic metal, melodic progressive metal" role="button">
-Threshold - Pilot In The Sky Of Dreams (2007-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/d3cc0c28-5c31-4745-926b-45abb00843bf/4462626091-500.jpg" data-tags="melodic metal, power metal" role="button">
-The Dogma - A Good Day To Die (2007-04-27)
-</li>
-<li data-cover="https://img.discogs.com/df8nQST0NaidO9yOr6vCjnSzP3c=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1003853-1182958682.jpeg.jpg" data-tags="melodic metal" role="button">
-All Ends - Wasting Life (2007-05-11)
+<li data-cover="http://coverartarchive.org/release/31f67aec-002f-4b54-9aec-ae39095c7992/22559397129-500.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Unia (2007-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fbd9c3d-c46d-4242-85f4-7d11961edb74/8259450872-500.jpg" data-tags="progressive rock" role="button">
 Fair to Midland - Fables From a Mayfly: What I Tell You Three Times is True (2007-06-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/a278e457-bf21-489c-9c06-02ca8fb60343/3098115173-500.jpg" data-tags="gothic metal, symphonic metal, female fronted metal, nemesea" role="button">
+Nemesea - In Control (2007-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/83570ffa-aed5-4bae-a7f6-24a82749bab7/19903474942-500.jpg" data-tags="folk metal" role="button">
+Elvenking - The Scythe (2007-09-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Dark Passion Play (2007-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/762f0d55-9cd1-4c52-bb9b-1c98880b15f8/15351596393-500.jpg" data-tags="german, power metal, melodic metal, melodic power metal" role="button">
-Solar Fragment - A Spark Of Deity (2007-11-30)
+<li data-cover="http://coverartarchive.org/release/236a04ea-8349-4930-9647-186773164eb3/6655040734-500.jpg" data-tags="symphonic metal, cover, power metal" role="button">
+Northern Kings - Reborn (2007-10-29)
 </li>
-<li data-cover="https://img.discogs.com/v2f0mIi3ePibjEmCMUXEHZV0LJk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1527761-1507880709-2890.jpeg.jpg" data-tags="power metal, melodic metal" role="button">
-Leverage - Blind Fire (2008-01-16)
+<li data-cover="https://via.placeholder.com/450" data-tags="symphonic metal" role="button">
+Tarja - My Winter Storm (2007-11-14)
 </li>
-<li data-cover="https://img.discogs.com/j13tCG-0-b7ZaHsxcuwrc66YFrg=/fit-in/464x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5862590-1505343892-8830.png.jpg" data-tags="power metal, melodic metal" role="button">
-Seventh Avenue - Terium (2008-03-28)
+<li data-cover="http://coverartarchive.org/release/cf68f77f-7e28-4afb-b51e-e15b42a86a3e/8143822806-500.jpg" data-tags="power metal" role="button">
+Avantasia - The Scarecrow (2008-01-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/e67f8da1-88b9-3a9c-be1c-f40dbab896b2/20457737757-500.jpg" data-tags="melodic death metal" role="button">
+In Flames - A Sense of Purpose (2008-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e0a0732-c9cb-4edd-9083-54fe184830d6/27851479122-500.jpg" data-tags="power metal" role="button">
+Power Quest - Master Of Illusion (2008-03-26)
+</li>
+<li data-cover="https://img.discogs.com/dd-8PGu3WmGOeEpchOP_HQCmgZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2066868-1460725068-4281.jpeg.jpg" data-tags="power metal" role="button">
+Revolution Renaissance - New Era (2008-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e9902bb-4e64-4037-b5fd-8e214472dee0/7215588896-500.jpg" data-tags="rock" role="button">
+Brother Firetribe - Heart Full of Fire (2008-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0db97e47-7fd3-4100-9163-be689a61fa55/1502509246-500.jpg" data-tags="melodic death metal" role="button">
 Scar Symmetry - Holographic Universe (2008-06-20)
@@ -249,76 +285,40 @@ All That Remains - Overcome (2008-09-16)
 <li data-cover="http://coverartarchive.org/release/3ff5ddab-c7c3-418c-9a2c-e547666bcbea/2593366985-500.jpg" data-tags="melodic metal" role="button">
 All Ends - All Ends (2008-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5de3bc4-57ca-4f03-a22b-0b54392c27c1/18367184723-500.jpg" data-tags="heavy metal, hair metal, 00s, melodic metal, modern melodic hard rock" role="button">
-Steelheart - Good 2B Alive (2008-10-20)
+<li data-cover="http://coverartarchive.org/release/36039c76-34a4-4050-8498-07c56d2a41ae/1282071934-500.jpg" data-tags="power metal, heavy metal" role="button">
+HammerFall - No Sacrifice, No Victory (2009-02-18)
 </li>
-<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="melodic death metal, thrash metal, melodic metal" role="button">
-Shadow - Forever Chaos (2008-11-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/4bfb8422-ae30-4df3-9312-407179b1163b/25686190628-500.jpg" data-tags="power metal" role="button">
-Edguy - Tinnitus Sanctus (2008-11-12)
-</li>
-<li data-cover="https://img.discogs.com/ytGGLgR9y41ypn8HyT0lnKQFCw8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4939053-1489778765-7115.jpeg.jpg" data-tags="power metal, melodic metal" role="button">
-Dreamland - Exit 49 (2009)
-</li>
-<li data-cover="https://img.discogs.com/Kx6Ra9mdS7Oqn7JvtBLuCS0tnHw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11906582-1524501788-6019.jpeg.jpg" data-tags="melodic metal" role="button">
-Carla Morrison - Aprendiendo a aprender (2009-02)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, melodic metal" role="button">
-Mind Odyssey - Time To Change It (2009-02-25)
-</li>
-<li data-cover="https://img.discogs.com/RUnXSxu5uoKeutOwEgERLAzx3Qg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3777932-1374272229-7416.jpeg.jpg" data-tags="metal, progressive metal, melodic metal, italian metal" role="button">
-Pathosray - Sunless Skies (2009-05)
-</li>
-<li data-cover="https://img.discogs.com/FKgSSe-h23aVyinAReErLiXCKaI=/fit-in/497x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8727756-1467474714-2011.jpeg.jpg" data-tags="classic rock, aor, melodic metal, nwobhm, superb" role="button">
-Praying Mantis - Sanctuary (2009-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/b38292b6-7b58-430b-ab14-c2afe4e0cee6/20777623912-500.jpg" data-tags="rock, hard rock, melodic metal, wants" role="button">
-Jaded Heart - Perfect Insanity (2009-10-16)
+<li data-cover="http://coverartarchive.org/release/d8bd37e1-104c-4bf5-aae3-fddb7ade58e3/1123262036-500.jpg" data-tags="progressive metal" role="button">
+Amorphis - Skyforger (2009-05-27)
 </li>
 <li data-cover="https://img.discogs.com/7jj7sdm3QAfzkj8Kt5dUEFSN0R4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2006181-1522541521-5936.jpeg.jpg" data-tags="metal, power metal, melodic metal" role="button">
 Leverage - Circus Colossus (2009-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/d199d684-10a1-4830-b386-400229dc2e48/19533757709-500.jpg" data-tags="power metal, melodic metal" role="button">
-Power Quest - Blood Alliance (2011-01-26)
+<li data-cover="http://coverartarchive.org/release/6a0af0af-e018-4719-9e8c-c8d0a557b116/5086053899-500.jpg" data-tags="love metal" role="button">
+Him - Screamworks: Love In Theory And Practice (2010-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/0b28ffc9-4154-463c-8732-c517c11ea559/22584703370-500.jpg" data-tags="instrumental, instrumental rock, rock n roll, melodic metal" role="button">
-Neil Zaza - 212 (2011-02-12)
+<li data-cover="http://coverartarchive.org/release/57948363-574a-4bd7-bdda-05e8621ef4dc/24801393195-500.jpg" data-tags="power metal" role="button">
+Avantasia - Angel of Babylon (2010-03-31)
 </li>
-<li data-cover="https://img.discogs.com/n9XZarU9fj_HtloazU0tpvnj2-s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2997273-1373395174-6601.jpeg.jpg" data-tags="heavy metal, finnish, finnish metal, suomi, melodic metal" role="button">
-Kotiteollisuus - Kotiteollisuus (2011-03-02)
+<li data-cover="http://coverartarchive.org/release/df5bf691-a022-4906-9b9e-b94902479ac5/17061803038-500.jpg" data-tags="power metal" role="button">
+Avantasia - The Wicked Symphony (2010-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/b60ef29a-ef70-4a10-b45b-56a09685ebac/20760263992-500.jpg" data-tags="melodic metal, issa" role="button">
-Issa - Sign Of Angels (2011-03-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal, melodic metal, valya" role="button">
-Above Symmetry - Ripples (2011-04-25)
+<li data-cover="http://coverartarchive.org/release/d5f25fc0-1041-494c-81bf-94cf6c84f11d/9774641652-500.jpg" data-tags="melodic death metal, modern metal, power metal" role="button">
+Amaranthe - Amaranthe (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f38a9f9-6538-4745-9dde-d00cacbe2dff/8273688325-500.jpg" data-tags="alternative metal, melodic death metal" role="button">
 In Flames - Sounds of a Playground Fading (2011-06-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/25d38669-25ce-4f15-84ee-2cdb3228e366/17547954563-500.jpg" data-tags="deathcore" role="button">
-All Shall Perish - This Is Where It Ends (2011-07-26)
+<li data-cover="http://coverartarchive.org/release/f0c7b58e-cd77-43d8-bc8a-fee6ac070520/17667773275-500.jpg" data-tags="power metal" role="button">
+Sonata Arctica - Stones Grow Her Name (2012-05-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/a1e991ae-d037-4033-9058-e6edae4d252b/28674649649-500.jpg" data-tags="progressive metal, melodic metal" role="button">
-Flaming Row - Elinoire (2011-08-01)
+<li data-cover="http://coverartarchive.org/release/03f960db-6065-4e58-b492-89d8222b08e7/6593757776-500.jpg" data-tags="power metal" role="button">
+Orden Ogan - To the End (2012-10-26)
 </li>
-<li data-cover="https://img.discogs.com/lTfVC2Yd0qirT1ojk-KSuJmIBlk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3132626-1317270178.jpeg.jpg" data-tags="power metal" role="button">
-DragonForce - The Power Within (2012-04-11)
+<li data-cover="http://coverartarchive.org/release/143ae94f-e12a-4dea-9b64-b5b0e7b73ab7/15616571878-500.jpg" data-tags="power metal, melodic metal" role="button">
+Avantasia - The Mystery of Time (2013-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/703b92d9-e066-4349-8198-e7a433141fc8/18251756782-500.jpg" data-tags="melodic death metal" role="button">
-Omnium Gatherum - Beyond (2013-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/09829233-0bf8-42b0-a3a5-1d0be30b3a4b/7867370238-500.jpg" data-tags="melodic death metal" role="button">
-The Black Dahlia Murder - Everblack (2013-06-10)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="heavy metal, rock, alternative, melodic metal, heavy rock" role="button">
-Kill or Cure - Kill or Cure (2014-01-06)
-</li>
-<li data-cover="https://img.discogs.com/cumb_nwGrJVHLiL0Fl3uhs-VE1I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6888152-1531933446-1845.jpeg.jpg" data-tags="hard rock, aor, melodic metal, melodic rock, melodic hard rock" role="button">
-Magnum - Escape From The Shadow Garden (2014-03-21)
-</li>
-<li data-cover="https://img.discogs.com/mCkM3s7Lmr8BKK-tHGibU8BXGiA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15459416-1591883449-4745.jpeg.jpg" data-tags="power metal, melodic metal, modern metal" role="button">
-Temperance - Temperance (2014-04-15)
+<li data-cover="http://coverartarchive.org/release/9aeed5af-ef90-4bd2-8bfc-66d15b91e166/8575767019-500.jpg" data-tags="black metal" role="button">
+Primordial - Where Greater Men Have Fallen (2014-11-24)
 </li>
 </ol>

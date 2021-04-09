@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:21:01.447Z
+date: 2021-04-09T23:06:01.442Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -21,26 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/729a335c-6bc3-47e1-bb56-78ce70f099be/7471151756-500.jpg" data-tags="60s, singer-songwriter, classic rock, folk rock" role="button">
-Simon & Garfunkel - Sounds of Silence (1966-01-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/4fd118e2-1298-3a33-b870-839e336472f3/20585904865-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
-</li>
-<li data-cover="https://img.discogs.com/4nz_gB7tGBaN0GRtROTOguWsquA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2323380-1276924796.jpeg.jpg" data-tags="singer-songwriter, folk, 60s" role="button">
-Van Morrison - Astral Weeks (1968-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
-<li data-cover="https://img.discogs.com/FyTyNg0l2oiiALzvNZVMfxZc6C8=/fit-in/599x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11276140-1513251517-1765.jpeg.jpg" data-tags="classic rock, 70s" role="button">
-Van Morrison - Moondance (1970-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/3091801c-33ee-35fb-87f3-80bab24c50d1/4521356337-500.jpg" data-tags="folk, singer-songwriter, 70s" role="button">
-Cat Stevens - Tea For The Tillerman (1970-11-23)
 </li>
 <li data-cover="https://img.discogs.com/r8VdkDo3uNJSNdIgh6ZH2qkXHe0=/fit-in/600x624/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1299747-1588947401-2352.jpeg.jpg" data-tags="singer-songwriter, folk, classic rock" role="button">
 Don McLean - American Pie (1971)
@@ -62,9 +50,6 @@ Neil Young - Harvest (1972-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
-</li>
-<li data-cover="https://img.discogs.com/mfBUquz8EFF-YH4aHVrEVlCI3L4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119078-1193587084.jpeg.jpg" data-tags="oldies, 60s, classic rock" role="button">
-Simon & Garfunkel - Greatest Hits (1972-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d541b67e-e791-4c44-83ac-750ec65c0e6d/14525209827-500.jpg" data-tags="blues, jazz, singer-songwriter" role="button">
 Tom Waits - Closing Time (1973-05)
@@ -116,6 +101,9 @@ Elliott Smith - XO (1998-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
 Cat Power - Moon Pix (1998-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
+David Gray - White Ladder (1998-11-02)
 </li>
 <li data-cover="https://img.discogs.com/hWDqh0XXTI0Yba-4Homa6PrxF-M=/fit-in/201x203/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4526066-1367378651-2853.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
@@ -171,8 +159,8 @@ José González - Veneer (2003-10)
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
 </li>
-<li data-cover="https://img.discogs.com/OVJ1kObTaUzbns3_1UIBUPftwJ8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484100-1318784010.jpeg.jpg" data-tags="folk" role="button">
-Iron & Wine - Our Endless Numbered Days (2004-03-23)
+<li data-cover="http://coverartarchive.org/release/3d688fc2-ae3e-49c0-bdc8-49cd71c55874/21135321687-500.jpg" data-tags="singer-songwriter" role="button">
+Matt Nathanson - Beneath These Fireworks (2003-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
@@ -243,6 +231,9 @@ Ray LaMontagne - Trouble (2006-07-17)
 <li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">
 John Mayer - Continuum (2006-08-01)
 </li>
+<li data-cover="https://img.discogs.com/UTfPdDO7yKlna4J-8s7oIndKMmc=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2024101-1259182598.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+Fionn Regan - The End Of History (2006-08-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c5176e5-b75c-4cba-ab30-ca74fa9acb0a/14396282999-500.jpg" data-tags="folk, ray lamontagne, singer-songwriter" role="button">
 Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
 </li>
@@ -267,6 +258,9 @@ Sara Bareilles - Little Voice (2007-07-03)
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
 </li>
+<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
+Kate Nash - Made of Bricks (2007-08-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
 </li>
@@ -288,6 +282,9 @@ Mystery Jets - Twenty One (2008-03-21)
 <li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
 Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/31b85ba2-e205-4c74-b22d-ad435995c4fd/9355468079-500.jpg" data-tags="alternative" role="button">
+Beck - Modern Guilt (2008-07-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">
 Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 </li>
@@ -299,6 +296,9 @@ Shakira - She Wolf (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/de40b4a2-15d6-401b-a3e8-59086b158949/3149192071-500.jpg" data-tags="folk" role="button">
 Devendra Banhart - What Will We Be (2009-10-26)
+</li>
+<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
+Angus & Julia Stone - Down the Way (2010-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b1c0003-7de6-4620-ab57-cf6cd03bb269/7533919648-500.jpg" data-tags="pop, singer-songwriter, james blunt" role="button">
 James Blunt - Some Kind of Trouble (2010-11-03)

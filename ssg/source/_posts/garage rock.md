@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:54:01.539Z
+date: 2021-04-09T22:50:01.420Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/U6zyMAbaS0wE9Defh8u50qitPMQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1796060-1473091321-2766.jpeg.jpg" data-tags="rock, 60s, garage rock, debut album" role="button">
-The Kinks - Kinks (1964-10-02)
-</li>
 <li data-cover="https://img.discogs.com/HLrxClv2IKZdaUuJsl2AMAqWWAY=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044246-1306912408.jpeg.jpg" data-tags="garage rock, 60s" role="button">
 The Sonics - Here Are The Sonics (1965)
 </li>
@@ -86,6 +83,9 @@ The Hellacopters - By the Grace of God (2002-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/24bd9621-0b64-4897-ac4d-50c7519d1017/21664410934-500.jpg" data-tags="indie rock, indie" role="button">
 The Libertines - Up the Bracket (2002-09-30)
+</li>
+<li data-cover="https://img.discogs.com/0x0qF57DZHYhbAnEWo2HMlYXEDU=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789023-1158929995.jpeg.jpg" data-tags="rock, garage rock" role="button">
+The Datsuns - The Datsuns (2002-10-07)
 </li>
 <li data-cover="https://img.discogs.com/0oz0hjq6Q-47wkzx1-f65kOs6f0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1103346-1495552406-6044.jpeg.jpg" data-tags="garage rock" role="button">
 The Greenhornes - Dual Mono (2002-10-15)
@@ -195,6 +195,9 @@ The White Stripes - Icky Thump (2007-06-15)
 <li data-cover="http://coverartarchive.org/release/9b6299d4-08c1-3a0f-8877-e64fd41b1c17/26142553847-500.jpg" data-tags="indie rock" role="button">
 Black Lips - Good Bad Not Evil (2007-09-11)
 </li>
+<li data-cover="https://img.discogs.com/BS9szXthfJOnOhpAU-M2m1qkbNI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1475888-1297466983.jpeg.jpg" data-tags="rock, alternative rock, garage rock, 00s, rock am ring 2008" role="button">
+Madsen - Frieden im Krieg (2008-03-07)
+</li>
 <li data-cover="https://img.discogs.com/SqSZu0EYpoWkG5ZZ2WxtzUCPi_8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466403-1221855839.jpeg.jpg" data-tags="garage rock" role="button">
 The Kills - Midnight Boom (2008-03-10)
 </li>
@@ -218,9 +221,6 @@ Japandroids - Post-Nothing (2009-04-28)
 </li>
 <li data-cover="https://img.discogs.com/Qs-XsCyFcAq1-r3ykSEGmihWB3k=/fit-in/400x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2586371-1291821882.jpeg.jpg" data-tags="alternative rock, noise rock, post-punk" role="button">
 Sonic Youth - The Eternal (2009-06-03)
-</li>
-<li data-cover="https://img.discogs.com/OfQLBBsliQl28k_YYe8ShVNhEjI=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1925126-1567624040-9043.jpeg.jpg" data-tags="indie, rock, disco-punk" role="button">
-Gossip - Music for Men (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9573274-4d43-481b-bec6-17730a43cc7d/15491383944-500.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Horehound (2009-07-09)
@@ -263,9 +263,6 @@ The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
 </li>
 <li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/2fdc63e1-b76f-3b85-ad4e-73baaa106a43/3374180506-500.jpg" data-tags="garage rock" role="button">
-The Kills - Blood Pressures (2011-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c575baf-f8dc-4914-8862-00bee1d9b69a/4525848346-500.jpg" data-tags="garage rock" role="button">
 Black Lips - Arabia Mountain (2011-06-06)
@@ -320,5 +317,8 @@ Jack White - Lazaretto (2014-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/30683b1f-e4df-46f7-a170-2de84a5f13bf/8137779784-500.jpg" data-tags="rock" role="button">
 Royal Blood - Royal Blood (2014-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ad70837-cea0-4f76-ab3b-75479a2823f6/7924097975-500.jpg" data-tags="lo-fi, garage rock, psychedelic rock, drag city, ty" role="button">
+Ty Segall - Manipulator (2014-08-26)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:47:01.442Z
+date: 2021-04-09T23:35:01.437Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -119,6 +119,9 @@ Mika - Life in Cartoon Motion (2007-02-05)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5d1ef500-7004-4756-a45d-8b1f43692dc5/10118092077-500.jpg" data-tags="electronic, electronica" role="button">
+The Chemical Brothers - We Are The Night (2007-05)
 </li>
 <li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
 Digitalism - Idealism (2007-05-09)
@@ -248,9 +251,6 @@ Britney Spears - Femme Fatale (2011-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/83c54468-50b9-47a0-856d-c7b93a1cae23/6618757710-500.jpg" data-tags="pop, dark pop" role="button">
 Natalia Kills - Perfectionist (2011-04-01)
-</li>
-<li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
-Lady Gaga - Judas (2011-04-15)
 </li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)

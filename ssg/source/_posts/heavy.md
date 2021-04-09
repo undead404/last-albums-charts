@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T05:02:01.415Z
+date: 2021-04-09T22:48:01.415Z
 title: "heavy: 100 albums you must listen to before you die"
 ---
 ![Flux Pavilion - Bass Cannon (2011-03-21)](http://coverartarchive.org/release/2fca1b4d-f307-48fc-a449-550e663c9da0/18420618474-500.jpg "Flux Pavilion - Bass Cannon (2011-03-21)")
@@ -27,11 +27,11 @@ Blue Öyster Cult - Blue Öyster Cult (1972-01-16)
 <li data-cover="http://coverartarchive.org/release/41e41680-3652-432f-8225-fb033c4fdae0/17149522933-500.jpg" data-tags="heavy metal, hard rock" role="button">
 Black Sabbath - Vol. 4 (1972-09-25)
 </li>
+<li data-cover="https://img.discogs.com/3b0IgyKNqwwgqOlnHuLMKWjcZuI=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-446544-1413676286-7267.jpeg.jpg" data-tags="rock, status quo" role="button">
+Status Quo - Piledriver (1972-12-15)
+</li>
 <li data-cover="https://img.discogs.com/mQcIjhffMhVKgt_QgPow76OIR3k=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1542918-1227385202.jpeg.jpg" data-tags="classic rock, rock, 70s, british, heavy, hard rock, uk, status quo, carpet crawler, madeleine de proust" role="button">
 Status Quo - Hello! (1973-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/94541997-f956-4726-aa2b-2fad9d7f640b/19461208757-500.jpg" data-tags="classic rock, folk rock, rock, singer-songwriter, soft rock" role="button">
-Crosby & Nash - Wind on the Water (1975)
 </li>
 <li data-cover="https://img.discogs.com/fDVtCl-I-nVC-7tHUgqkFJERr1o=/fit-in/450x445/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206247-1334169387.jpeg.jpg" data-tags="classic rock, rock, hard rock" role="button">
 Kiss - Double Platinum (1978-04-02)
@@ -39,7 +39,7 @@ Kiss - Double Platinum (1978-04-02)
 <li data-cover="http://coverartarchive.org/release/b87958f4-f095-414f-a379-966af3b27fe1/15340907007-500.jpg" data-tags="hard rock, rock n roll, heavy metal" role="button">
 Motörhead - On Parole (1979-12-08)
 </li>
-<li data-cover="https://img.discogs.com/_p3QUw0m77DTQhUWU4dedNgXc2k=/fit-in/551x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4900916-1378902915-8466.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/Avm1x5sUs88zj8mRg-mpIh8RXEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522576-1601943632-3332.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
@@ -72,8 +72,14 @@ Anthrax - Attack Of The Killer B's (1991-06-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Mötley Crüe - Decade of Decadence '81-'91 (1991-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4e8452d-aec9-471a-951d-f2734a94a362/27100780266-500.jpg" data-tags="heavy metal" role="button">
+Motörhead - The Best Of (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/03d5aab6-c3f5-483e-8e41-ca99ef7dab32/28641431315-500.jpg" data-tags="rock, post hardcore" role="button">
 Quicksand - Slip (1993-02-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/cbd192a0-9e0b-497a-93f4-a3ae185857b9/18320649422-500.jpg" data-tags="sludge" role="button">
+Crowbar - Crowbar (1993-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/67a2138a-1130-4575-bb20-6b9995b81fad/12021123808-500.jpg" data-tags="math rock" role="button">
 Don Caballero - Don Caballero 2 (1995-09-15)
@@ -81,7 +87,7 @@ Don Caballero - Don Caballero 2 (1995-09-15)
 <li data-cover="https://img.discogs.com/cBx0qwI813dE2ftNLaFT1mhdCD8=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6947236-1548962523-8299.jpeg.jpg" data-tags="alternative metal, heavy metal, thrash metal, metal" role="button">
 Anthrax - Stomp 442 (1995-10-24)
 </li>
-<li data-cover="https://img.discogs.com/y2olKQ62QYPn5PGJ_EhdS33EkWM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1097273-1191794769.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
+<li data-cover="https://img.discogs.com/IOjUsho3OeK_eMfS85B8k5ELyd0=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076111-1301777657.jpeg.jpg" data-tags="doom metal, stoner rock, sludge" role="button">
 Sleep - Jerusalem (1996)
 </li>
 <li data-cover="https://img.discogs.com/etTq8ISwuGvt8WmT51mCCoLN__I=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4505386-1366799359-8515.jpeg.jpg" data-tags="industrial metal" role="button">
@@ -102,9 +108,6 @@ Kiss - Greatest Kiss (1996-11-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="groove metal, thrash metal" role="button">
 Machine Head - The More Things Change... (1997-03-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/6b2c79c8-6409-3e8e-83c3-cfea0679374e/7723800222-500.jpg" data-tags="stoner rock, psychedelic" role="button">
-Acrimony - Tumuli Shroomaroom (1997-07-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/70578657-4756-4024-8836-5a1b34cb83a7/16305003945-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Lacuna Coil (1998-01-26)
 </li>
@@ -119,6 +122,9 @@ Lamb of God - Burn the Priest (1999-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d56380fe-d00e-42c3-841a-654254ef264a/7697244807-500.jpg" data-tags="post-metal, sludge" role="button">
 Neurosis - Times of Grace (1999-04-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e2b19a8-1360-454d-a30a-9ab985edd7a5/15541606182-500.jpg" data-tags="hard rock, 80s" role="button">
+Dokken - The Very Best of Dokken (1999-07-06)
 </li>
 <li data-cover="https://img.discogs.com/h72GSdhM5BZuMwuRghwyFvNgv_4=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13524887-1555851500-2988.jpeg.jpg" data-tags="heavy metal, heavy, stoner" role="button">
 Fireball Ministry - Ou est la Rock? (1999-08-16)
@@ -153,8 +159,8 @@ Jucifer - I Name You Destroyer (2002-06-18)
 <li data-cover="http://coverartarchive.org/release/26b922bd-a931-4938-93f5-b9a09d227c10/9831908947-500.jpg" data-tags="metal, nu metal" role="button">
 Otep - Sevas Tra (2002-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bc4696d-ad5a-4205-a48f-4a6b05fc8545/20532112310-500.jpg" data-tags="japanese, visual kei, gothic metal" role="button">
-Moi dix Mois - Dix infernal (2003-03-19)
+<li data-cover="http://coverartarchive.org/release/6f25380f-38a7-43c5-9bfd-4bdbf187ded9/23901850379-500.jpg" data-tags="dubstep" role="button">
+Horsepower Productions - In Fine Style (2002-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/3986eca7-b1a2-400e-ab90-8714de7eea7b/14972037146-500.jpg" data-tags="heavy metal" role="button">
 Tarot - Suffer Our Pleasures (2003-05-26)
@@ -177,6 +183,9 @@ Axel Rudi Pell - Kings and Queens (2004-03-01)
 <li data-cover="http://coverartarchive.org/release/9ccab260-1fb0-333d-a520-fb0fd3e007e7/1588517786-500.jpg" data-tags="doom metal" role="button">
 Ufomammut - Snailking (2004-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/a76d54a3-c7b7-4ac0-afbd-0e85172e7158/19314355158-500.jpg" data-tags="doom, doom metal, stoner metal" role="button">
+Church of Misery - The Second Coming (2004-06-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/fe9b1cf2-f0fd-4cf9-8a5d-139eb30e460d/1083128360-500.jpg" data-tags="metal, metalcore" role="button">
 Otep - House of Secrets (2004-07-24)
 </li>
@@ -185,9 +194,6 @@ Mercenary - 11 Dreams (2004-08-23)
 </li>
 <li data-cover="https://img.discogs.com/yXC2fznaXz4TaWYjoQsjcYqT3ao=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2568239-1553981581-3905.jpeg.jpg" data-tags="groove metal, disgusting, fags" role="button">
 Nicole - Suljetut ajatukset (2004-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/2d16e351-34ae-4722-9166-bc8512d5907a/19351955710-500.jpg" data-tags="psychedelic rock, psychedelic" role="button">
-Dead Meadow - Feathers (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/25036812-9907-4a46-a328-98a7a9dbbbd1/1810447719-500.jpg" data-tags="rockabilly, heavy, self-titled" role="button">
 Heavy Trash - Heavy Trash (2005-04-19)
@@ -201,9 +207,6 @@ Disturbed - Stricken (2005-09-12)
 <li data-cover="http://coverartarchive.org/release/78abaae9-0305-4239-b27c-b0dba4ddb6b6/27838608221-500.jpg" data-tags="sludge" role="button">
 Corrupted - El Mundo Frio (2005-09-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e64a65fa-905f-4bef-968a-aa9efb6781be/15425823966-500.jpg" data-tags="experimental, indie" role="button">
-Test Icicles - For Screening Purposes Only (2005-10-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/9be388a8-425f-46d6-b7aa-b6cafb45d655/11089439848-500.jpg" data-tags="stoner metal, stoner rock, psychedelic" role="button">
 Om - Conference of the Birds (2006-02-24)
 </li>
@@ -213,11 +216,8 @@ Witch - Witch (2006-03-07)
 <li data-cover="https://img.discogs.com/UWehwv40d4qK5yESFfl1Q_srYZM=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-680564-1501944676-9675.jpeg.jpg" data-tags="experimental, noir" role="button">
 Dog Fashion Disco - Adultery (2006-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/b17b33e2-e1c4-49c1-85a7-7ea723ce0d3d/25109250377-500.jpg" data-tags="shoegaze, post-rock" role="button">
-Jesu - Silver (2006-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/5a014fc8-b030-491a-9dc1-e8cf74ace99c/4549690587-500.jpg" data-tags="stoner rock, psychedelic rock" role="button">
-Colour Haze - Tempel (2006-07-18)
+<li data-cover="http://coverartarchive.org/release/6fd1c420-d578-4865-8002-7790baabd38d/21288133475-500.jpg" data-tags="finnish, heavy metal, metal, rock, cover" role="button">
+Leningrad Cowboys - Zombies Paradise (2006-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ca4197e-bdbb-4329-b9e0-bfb36fa45e42/5805063887-500.jpg" data-tags="trip-hop, chill, heavy, downtempo, sax, flute, instrumental hip-hop, hiphop, beats, triphop, rad" role="button">
 The New Law - The New Law (2006-09-07)
@@ -227,9 +227,6 @@ Wild Flag - Wild Flag (2006-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2d1f896-3cf0-4124-b5d0-8bf5be02a1cf/14415004397-500.jpg" data-tags="relapse records" role="button">
 Coliseum - No Salvation (2007)
-</li>
-<li data-cover="http://coverartarchive.org/release/48479a6c-734a-4adc-ac78-cecfa94ca894/11089774828-500.jpg" data-tags="psychedelic, stoner metal" role="button">
-Om - Pilgrimage (2007-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/23cb7745-bee3-3d3f-b897-564cff9da7bb/24035772313-500.jpg" data-tags="metal, stoner rock, doom" role="button">
 Torche - In Return (2007-09-18)
@@ -276,7 +273,7 @@ The Acacia Strain - Wormwood (2010-07-20)
 <li data-cover="http://coverartarchive.org/release/f2b9f3a4-b6c3-4b9d-833f-b898316f415e/4799552484-500.jpg" data-tags="orchestral pop" role="button">
 Lost in the Trees - All Alone in an Empty House (2010-08-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/Gkjsamj2xufMB6drUdRa5QrIzu4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3824271-1345854842-3558.jpeg.jpg" data-tags="hard rock, rock" role="button">
 Hinder - All American Nightmare (2010-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f563874-2621-462e-a0c1-46f1725d6a9c/12684576029-500.jpg" data-tags="70s, jefferson airplane" role="button">
@@ -308,6 +305,9 @@ Upon a Burning Body - Red. White. Green. (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1878453-6875-4d83-a8b2-d380e7e70342/7764522281-500.jpg" data-tags="classic rock, rock, soul, grunge, alternative, alternative rock, heavy, pop rock, sleezy, solo, epic, intro, industrial, blues, psychedelic, moody, soundscape, nineties, space, progressive, muse, a perfect circle, pink floyd, aerosmith, melancholic, stoner, dutch, brass, nine inch nails, 90's, holland, netherlands, seventies, led zeppelin, tool, debut, scream, the netherlands, lowlands, the rolling stones, rage against the machine, deep purple, pearl jam, audioslave, soundgarden, rolling stones, guitar solo, ratm, high vocals, 70's, chris cornell, synthbass, the black crowes, guitarsolo, navarone" role="button">
+Navarone - A Darker Shade of White (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/a1008433-df97-44b6-b91b-daebf2fc180c/19903307970-500.jpg" data-tags="stoner rock" role="button">
 Karma to Burn - Karma to Burn (2013-03-29)

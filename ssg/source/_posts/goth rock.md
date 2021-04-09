@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T16:10:01.397Z
+date: 2021-04-09T22:49:07.223Z
 title: "goth rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -13,7 +13,7 @@ title: "goth rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/2e8cd5ae-2caf-4d4d-99ec-300c7fd57656/7799815972-500.jpg" data-tags="alternative, rock, gothic rock" role="button">The Cure - Bloodflowers (2000-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
 <li data-cover="http://coverartarchive.org/release/86427535-9abb-4681-8c88-5c651e55d62a/8353381352-500.jpg" data-tags="darkwave" role="button">She Wants Revenge - She Wants Revenge (2005-12-13)</li>
-<li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">Trentemøller - Lost (2013-09-16)</li>
+<li data-cover="http://coverartarchive.org/release/c1e6e778-bcbd-4407-837f-8b7d357af3f1/10289982476-500.jpg" data-tags="indie electronic, synth pop, sweden, goth rock, alternative-indie rock, new wave-post-punk revival" role="button">Lust for Youth - International (2014-06-10)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -42,7 +42,10 @@ Bauhaus - The Sky's Gone Out (1982)
 <li data-cover="http://coverartarchive.org/release/b0d6d8ad-02d7-3f08-9128-47c734c2c446/7947353809-500.jpg" data-tags="post-punk, gothic rock" role="button">
 The Cure - Pornography (1982-05-03)
 </li>
-<li data-cover="https://img.discogs.com/npRs2xtKytqHls3PWB8SyYt8Ge0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138857-1440617431-8108.jpeg.jpg" data-tags="post-punk" role="button">
+<li data-cover="http://coverartarchive.org/release/d814b538-0931-4f6d-98c9-7070cfa9fc12/901250059-500.jpg" data-tags="post-punk" role="button">
+The Danse Society - Seduction: The Society Collection (1982-09)
+</li>
+<li data-cover="https://img.discogs.com/7inlh7vPwWfcb6WKQJN_q4FGfkA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138573-1537795143-1911.jpeg.jpg" data-tags="post-punk" role="button">
 The Danse Society - Heaven Is Waiting (1983)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
@@ -78,7 +81,7 @@ The Danse Society - Looking Through (1986)
 <li data-cover="http://coverartarchive.org/release/29ccd352-eefc-4301-9ad2-1662c0aba437/3173120841-500.jpg" data-tags="80s" role="button">
 The Cure - Staring at the Sea: The Singles (1986-05-01)
 </li>
-<li data-cover="https://img.discogs.com/GYV0_1U5eFz6uA86c6HlbgmyjF4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1145090-1517584822-6175.jpeg.jpg" data-tags="post-punk" role="button">
+<li data-cover="https://img.discogs.com/q-92wVsK9zNvL9RXZBMWGI1ELtM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-577656-1297160162.jpeg.jpg" data-tags="post-punk" role="button">
 Pink Turns Blue - If Two Worlds Kiss (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/7be33591-2fea-4819-b476-333041f22ebb/6852246489-500.jpg" data-tags="post-punk" role="button">
@@ -99,20 +102,11 @@ The Sisters of Mercy - Floodland (1987-11-15)
 <li data-cover="https://img.discogs.com/DkLC_R8dMB-DgyEFJcUdHVhoQD4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655082-1367099970-4074.jpeg.jpg" data-tags="post-punk, psychedelic rock, goth rock" role="button">
 Red Temple Spirits - Dancing to Restore an Eclipsed Moon (1988)
 </li>
-<li data-cover="http://coverartarchive.org/release/6fb0b77e-55a7-475a-9f36-c30ef7d50c26/9152173206-500.jpg" data-tags="80s" role="button">
-Peter Murphy - Love Hysteria (1988)
-</li>
 <li data-cover="https://img.discogs.com/KLElBS7gxLDz4mNoH33DL9V3EFE=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5231756-1388246782-3125.jpeg.jpg" data-tags="post-punk, goth" role="button">
 Siouxsie and the Banshees - Peepshow (1988-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a3dab35-b315-4916-b09c-7da62d39d6ef/7610227207-500.jpg" data-tags="gothic rock" role="button">
 Fields of the Nephilim - The Nephilim (1988-09-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/c22581fb-8457-3e71-bf62-919ff444b929/21726902737-500.jpg" data-tags="80s, alternative, new wave, 90s" role="button">
-Peter Murphy - Deep (1989)
-</li>
-<li data-cover="http://coverartarchive.org/release/6595d3dc-31ac-4623-81da-228baebb2268/3845316790-500.jpg" data-tags="alternative, new wave, post-punk" role="button">
-The Cure - Entreat (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
@@ -122,9 +116,6 @@ The Birthday Party - Mutiny / The Bad Seed E.P. (1989-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcbdb949-1460-38e8-86ca-b8ab843347ef/14998047234-500.jpg" data-tags="post-punk" role="button">
 The Creatures - Boomerang (1989-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/427649ff-6dc7-4531-8f80-cd0a93c36349/6853050523-500.jpg" data-tags="gothic rock" role="button">
-The Mission - Carved In Sand (1990-02)
 </li>
 <li data-cover="https://img.discogs.com/eRgVBJ_Za3lhnTW1WJPJUhTqk18=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379406-1337109620-1253.jpeg.jpg" data-tags="gothic rock" role="button">
 Fields of the Nephilim - Elizium (1990-09-24)
@@ -141,17 +132,20 @@ London After Midnight - Selected Scenes From the End of the World (1992)
 <li data-cover="https://img.discogs.com/-jepZ8ySOhoza_Xbl2DH53k4Ryc=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-453794-1216748755.jpeg.jpg" data-tags="gothic rock" role="button">
 The Merry Thoughts - Millenium Done I: Empire Songs (1993)
 </li>
+<li data-cover="https://img.discogs.com/8M519oL2CK6vII-QBH0TTkN5CBs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-568248-1375002519-8906.jpeg.jpg" data-tags="gothic rock" role="button">
+The March Violets - The Botanic Verses (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/eb66ad3f-03b3-47e1-abaf-a665ea6b847d/4820047755-500.jpg" data-tags="metal, goth rock" role="button">
 Seigmen - Ameneon (1993-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6938225-87a0-4c23-929f-278b61f93fca/5718773240-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - A Slight Case of Overbombing (1993-08-20)
 </li>
-<li data-cover="https://img.discogs.com/lbgvX7bd4ShtlT_kfdk9Cb9rgrM=/fit-in/599x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1515400-1225385807.jpeg.jpg" data-tags="live, rock, post-punk" role="button">
-The Cure - Show (1993-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/9f9fe2fe-4d1c-4d77-8046-11f1121b7fdf/2994406102-500.jpg" data-tags="goth, gothic" role="button">
 Miranda Sex Garden - Fairytales Of Slavery (1994)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gothic rock, goth, gothic, goth rock" role="button">
+Ikon - In The Shadow Of The Angel (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5a97f20-5317-423d-849a-7eb14b57ba2f/5292097197-500.jpg" data-tags="gothic" role="button">
 Corpus Delicti - Sylphes (1994)
@@ -177,17 +171,20 @@ Corpus Delicti - Sarabands (1996)
 <li data-cover="http://coverartarchive.org/release/15ddcc8d-968e-49a1-bd14-b05a718d2b24/3172527828-500.jpg" data-tags="rock, alternative, 90s, post-punk" role="button">
 The Cure - Wild Mood Swings (1996-05-07)
 </li>
+<li data-cover="https://img.discogs.com/vMOzb1Gzb6Fao3WqNYHL5YYEh1M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-956281-1177203891.jpeg.jpg" data-tags="gothic, gothic rock" role="button">
+Big Electric Cat - Eyelash (1997)
+</li>
 <li data-cover="https://img.discogs.com/l8g6QiI5ORRUt4fIHPsT2HshcT0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-188258-1449200649-3322.jpeg.jpg" data-tags="darkwave, goth" role="button">
 Switchblade Symphony - Bread and Jam for Frances (1997-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f6128f3-6638-40d2-b9cd-dc069dba18b6/2115320360-500.jpg" data-tags="gothic rock, gothic" role="button">
 Inkubus Sukkubus - Vampyre Erotica (1997-09-22)
 </li>
-<li data-cover="https://img.discogs.com/83FV2O-WHKJolCZiykX-kCQWca0=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1293819-1207141930.jpeg.jpg" data-tags="darkwave" role="button">
+<li data-cover="https://img.discogs.com/GpoWq_EBLXPfNUdTrnYySZrtMI4=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-410149-1453549439-3513.jpeg.jpg" data-tags="darkwave" role="button">
 Clan of Xymox - Hidden Faces (1997-10-17)
 </li>
-<li data-cover="https://img.discogs.com/0WKUGlCAbRBK89wodBrE0t5T1CI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-162073-1460860031-6271.jpeg.jpg" data-tags="gothic rock, gothic, darkwave" role="button">
-Clan of Xymox - Creatures (1999-04-09)
+<li data-cover="https://img.discogs.com/cBjGvYHGiSE54S2nf6m3172ABIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-535634-1402230020-7171.jpeg.jpg" data-tags="gothic rock, gothic" role="button">
+Faith and the Muse - Evidence Of Heaven (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a168ff2-782c-472c-878e-5b149a2c0522/23931771943-500.jpg" data-tags="deathrock, gothic rock" role="button">
 Cinema Strange - Cinema Strange (2000)
@@ -201,16 +198,13 @@ Rhea's Obsession - Between Earth And Sky (2000-03-21)
 <li data-cover="https://img.discogs.com/mf9zbiQGQQts8SFrvJKtgARxw-Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1871110-1314612670.jpeg.jpg" data-tags="gothic metal, charon" role="button">
 Charon - Tearstained (2000-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/9303fc8e-9186-4da0-a1a0-f73a44a6888c/8112390189-500.jpg" data-tags="female vocalists, rock" role="button">
-Jack Off Jill - Clear Hearts Grey Flowers (2000-07-17)
-</li>
 <li data-cover="https://img.discogs.com/yZ96ITF1q9Ldss_WLTxt1nFMA_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3891531-1348264571-8979.jpeg.jpg" data-tags="industrial" role="button">
 Gary Numan - Pure (2000-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad1a06f7-8bbb-4895-a748-8ac36d61bed7/5508693710-500.jpg" data-tags="ethereal, gothic rock, goth rock" role="button">
 Mors Syphilitica - FEATHER and FATE (2001)
 </li>
-<li data-cover="https://img.discogs.com/1G53lOaQuuq7vceoxuERCNaFwXk=/fit-in/475x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540288-1129230414.jpeg.jpg" data-tags="female fronted metal, gothic rock, inkubus sukkubus, all time favourite albums" role="button">
+<li data-cover="https://img.discogs.com/v7YuYd4VQmFtSaJRmPiWtOZmhCI=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2633994-1359237878-5737.jpeg.jpg" data-tags="female fronted metal, gothic rock, inkubus sukkubus, all time favourite albums" role="button">
 Inkubus Sukkubus - Supernature (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/009654ff-3880-4d9f-b049-48e71dfe2a75/901210290-500.jpg" data-tags="post-punk, gothic rock" role="button">
@@ -273,9 +267,6 @@ My Ruin - The Brutal Language (2005)
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/1680da29-0101-4ff1-94f7-6f0e6ae80b1c/9006066585-500.jpg" data-tags="shoegaze" role="button">
-Scarling. - So Long, Scarecrow (2005-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/b66e9fbd-eab9-4df0-bb33-92cc4656a7e6/1119140087-500.jpg" data-tags="gothic metal" role="button">
 Charon - Songs for the Sinners (2005-08-31)
 </li>
@@ -294,11 +285,17 @@ Siouxsie - Mantaray (2007-09-03)
 <li data-cover="https://img.discogs.com/Sxo4nFriUAdS19t0_jH9wXD3j7Q=/fit-in/570x562/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3684711-1340284168-9057.jpeg.jpg" data-tags="darkwave" role="button">
 She Wants Revenge - This Is Forever (2007-10-09)
 </li>
+<li data-cover="https://img.discogs.com/VXCvuCumC0ijDr74rXKN30wzjGU=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1127655-1385493166-4294.jpeg.jpg" data-tags="darkwave" role="button">
+Diary of Dreams - Nekrolog 43 (2007-10-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/a84e64da-c7be-4bfc-a389-8313df84c8fc/8493534865-500.jpg" data-tags="darkwave, electronic, gothic" role="button">
 Johnny Hollow - Dirty Hands (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a44d18f-180b-4677-b72b-13fa2b58a7e0/9291230911-500.jpg" data-tags="new wave, darkwave" role="button">
 She Wants Revenge - Save Your Soul (2008-05-13)
+</li>
+<li data-cover="https://img.discogs.com/bPoIYcYTRSibZLkeLRJsI8l9Gqg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3057920-1456658058-6332.jpeg.jpg" data-tags="post-punk, drone, sludge metal, funeral doom, goth rock, blackened sludge" role="button">
+Atriarch - Forever the End (2011-08-23)
 </li>
 <li data-cover="https://img.discogs.com/4U4FsAlx5bJw_M9SFpu3JIqAUZQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4242505-1364551957-2976.jpeg.jpg" data-tags="post-punk, gothic rock, gothic" role="button">
 She Past Away - Belirdi Gece (2012-02-20)
@@ -309,6 +306,9 @@ Merchandise - Children of Desire (2012-04-03)
 <li data-cover="https://img.discogs.com/VhSMhxPAX0ohlN01LrEVL1QdZBw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5303874-1390141495-9498.jpeg.jpg" data-tags="experimental" role="button">
 Zola Jesus - Versions (2013-08-19)
 </li>
+<li data-cover="https://img.discogs.com/xNGsONC31H6m6LtJMt8puOke--I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4874646-1378145078-2434.jpeg.jpg" data-tags="black metal, progressive metal, post-rock, avant-garde metal" role="button">
+Kayo Dot - Hubardo (2013-08-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
 </li>
@@ -318,7 +318,7 @@ Paradise Lost - Tragic Illusion 25 (The Rarities) (2013-10-21)
 <li data-cover="http://coverartarchive.org/release/5693f01a-6144-4a4d-845e-16d877b95ad0/8534120470-500.jpg" data-tags="metal, doom metal, great album" role="button">
 Avatarium - Avatarium (2013-11-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c1e6e778-bcbd-4407-837f-8b7d357af3f1/10289982476-500.jpg" data-tags="2014: albums" role="button">
+<li data-cover="http://coverartarchive.org/release/c1e6e778-bcbd-4407-837f-8b7d357af3f1/10289982476-500.jpg" data-tags="indie electronic, synth pop, sweden, goth rock, alternative-indie rock, new wave-post-punk revival" role="button">
 Lust for Youth - International (2014-06-10)
 </li>
 </ol>

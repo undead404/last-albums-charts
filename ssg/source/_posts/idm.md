@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:04:01.482Z
+date: 2021-04-09T23:27:07.021Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - Music Has the Right to Children (1998-04-20)](https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg "Boards of Canada - Music Has the Right to Children (1998-04-20)")
@@ -48,6 +48,9 @@ Autechre - Garbage (1995-02-27)
 <li data-cover="http://coverartarchive.org/release/cf577924-6dc7-4948-841b-6f69c04f822f/21175811690-500.jpg" data-tags="idm" role="button">
 Aphex Twin - I Care Because You Do (1995-04-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/a15e0831-cdf6-4e2a-a51b-034c6e98972b/2575192108-500.jpg" data-tags="idm" role="button">
+Aphex Twin - Donkey Rhubarb (1995-08-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/a95dbc6e-3066-46ea-91ed-cfb9539f0c7c/3483045674-500.jpg" data-tags="electronic, downtempo, idm, ambient" role="button">
 Boards of Canada - Twoism (1995-08-15)
 </li>
@@ -56,6 +59,9 @@ Autechre - Tri Repetae (1995-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e42d0f12-ff31-46a2-aa45-ffa99712f392/8102384247-500.jpg" data-tags="ambient, idm" role="button">
 Boards of Canada - Boc Maxima (1996)
+</li>
+<li data-cover="https://img.discogs.com/MB7s4Pyk2PsJc95Z_yTqNIz703k=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31772-1366733878-7061.jpeg.jpg" data-tags="electronic" role="button">
+Orbital - In Sides (1996-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd19ec3d-5080-4c56-ad59-1e230d7425f4/2660189297-500.jpg" data-tags="electronic, idm" role="button">
 Squarepusher - Feed Me Weird Things (1996-05-31)
@@ -98,9 +104,6 @@ Boards of Canada - Peel Session - EP (1998-06-16)
 </li>
 <li data-cover="https://img.discogs.com/0oIYINpXweVGwt6dcz9KtgWweoQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30811-1491675470-7519.jpeg.jpg" data-tags="idm" role="button">
 Autechre - LP5 (1998-07-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/50c66e29-6913-45e1-9646-d9b4fae2393a/6898888323-500.jpg" data-tags="electronic, idm, electronica" role="button">
-Plaid - Rest Proof Clockwork (1999-06-19)
 </li>
 <li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
 Leftfield - Rhythm and Stealth (1999-09-15)
@@ -210,17 +213,11 @@ Modeselektor - Happy Birthday! (2007-09-10)
 <li data-cover="http://coverartarchive.org/release/dd554851-acbd-31c8-8bf1-61a297e55fb7/3653298333-500.jpg" data-tags="idm" role="button">
 Autechre - Quaristice (2008-01-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/b396dbac-1535-4b00-b89c-528d18b1053a/17986286312-500.jpg" data-tags="idm, drum and bass, darkstep" role="button">
-Evol Intent - Era of Diversion (2008-03-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca36b962-175b-468e-abe8-8b46d54f882b/4158600799-500.jpg" data-tags="ambient" role="button">
 Helios - Caesura (2008-08-12)
 </li>
 <li data-cover="https://img.discogs.com/-gs0xEDzpwdTmd7s1x6rgHbHG6I=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2064382-1336321550.jpeg.jpg" data-tags="idm" role="button">
 Kodomo - Still Life (2008-10-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/020caa02-e428-4c45-99f3-52a47a1466e7/5962732537-500.jpg" data-tags="idm, electronica" role="button">
-Telefon Tel Aviv - Immolate Yourself (2009-01-23)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
@@ -255,9 +252,6 @@ Baths - Cerulean (2010-06-22)
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">
 Mount Kimbie - Crooks & Lovers (2010-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
-Gold Panda - Lucky Shiner (2010-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
 </li>
@@ -270,9 +264,6 @@ Little Dragon - Ritual Union (2011-05-13)
 <li data-cover="http://coverartarchive.org/release/6bc86b31-424a-48bc-8156-4d9656bb5f30/2751813457-500.jpg" data-tags="electronic, indie, idm, glitch, glitch mob" role="button">
 The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)
 </li>
-<li data-cover="https://img.discogs.com/2JcwwR1Kz7tn8vXgwRsx6ebrk6I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3210485-1320619766.jpeg.jpg" data-tags="electronic, downtempo" role="button">
-Tycho - Dive (2011-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
 </li>
@@ -282,11 +273,17 @@ Actress - R.I.P. (2012-04-20)
 <li data-cover="http://coverartarchive.org/release/1bc9f853-0bf2-42f9-b844-df9eb278693f/1810296586-500.jpg" data-tags="idm, electronic" role="button">
 Four Tet - Pink (2012-08-20)
 </li>
+<li data-cover="https://img.discogs.com/E6Y-5DkttPPcqUxEB8hFPRtNjcQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054051-1276778144.jpeg.jpg" data-tags="idm" role="button">
+Autechre - Exai (2013-02-07)
+</li>
 <li data-cover="https://img.discogs.com/LDZ4xPzGgrzq0VCslP4dBxvdrqE=/fit-in/598x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4298618-1361919180-9465.jpeg.jpg" data-tags="electronic" role="button">
 Atoms for Peace - AMOK (2013-02-25)
 </li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/e25d9d7b-6660-486f-b30a-c7fe0e4d77cd/5742536528-500.jpg" data-tags="electronic, ambient, experimental, idm, chillwave" role="button">
+Evenings - Yore (2013-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
 Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
@@ -297,14 +294,14 @@ Jon Hopkins - Immunity (2013-06-03)
 <li data-cover="http://coverartarchive.org/release/ad249aa2-bf79-4042-8a49-ae10547203d9/4332528130-500.jpg" data-tags="ambient, idm" role="button">
 Boards of Canada - Tomorrow's Harvest (2013-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/452b24b2-a9b0-4f39-bbb6-8f7274209dd9/8156678256-500.jpg" data-tags="idm" role="button">
-Gold Panda - Half Of Where You Live (2013-06-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/85e2a875-f9be-4cb3-bd75-eb5c17ca3147/4924262436-500.jpg" data-tags="electronic" role="button">
 Moderat - II (2013-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/51c36b79-ad82-4e42-a3f2-4f940e84742a/5338280873-500.jpg" data-tags="electronic" role="button">
+Four Tet - Beautiful Rewind (2013-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a9196-d842-4a2b-89ea-d77838789384/8490230955-500.jpg" data-tags="electronic, indie, instrumental, ambient, post-rock" role="button">
 Tycho - Awake (2014-03-18)
@@ -320,5 +317,8 @@ deadmau5 - while(1<2) (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">
 Aphex Twin - Syro (2014-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
+Andy Stott - Faith In Strangers (2014-11-17)
 </li>
 </ol>
