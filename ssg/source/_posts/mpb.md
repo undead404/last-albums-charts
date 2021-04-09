@@ -1,11 +1,11 @@
 ---
-date: 2021-04-07T13:24:01.619Z
+date: 2021-04-09T19:15:01.571Z
 title: "mpb: 100 albums you must listen to before you die"
 ---
-![Novos Baianos - Acabou Chorare (1972)](https://img.discogs.com/eGShAxNFrBHU-_miaDLX_rmiT3s=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15821297-1598424308-6441.jpeg.jpg "Novos Baianos - Acabou Chorare (1972)")
+![Céu - Vagarosa (2009-07-07)](http://coverartarchive.org/release/34f60ad7-1d10-4573-8e56-1674ea78310c/24557608344-500.jpg "Céu - Vagarosa (2009-07-07)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/4ad7a356-d1d8-4367-8b33-dbb31c29517f/25207877428-500.jpg" data-tags="mpb" role="button">Chico Buarque - Construção (1971)</li>
-<li data-cover="https://img.discogs.com/eGShAxNFrBHU-_miaDLX_rmiT3s=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15821297-1598424308-6441.jpeg.jpg" data-tags="mpb, tropicalia, samba" role="button">Novos Baianos - Acabou Chorare (1972)</li>
+<li data-cover="http://coverartarchive.org/release/1adf6e49-e74c-444f-b005-af3dd69757e1/10496581130-500.jpg" data-tags="cassia, mpb" role="button">Cássia Eller - Acústico MTV (2001)</li>
 <li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">Tribalistas - Tribalistas (2002-12-17)</li>
 <li data-cover="http://coverartarchive.org/release/e53c3877-01db-4cd0-99ef-f379b2b99d66/11450096982-500.jpg" data-tags="brazilian" role="button">Los Hermanos - 4 (2005)</li>
 <li data-cover="https://img.discogs.com/7U0LIu_-CKULd1Uag2WQbkr79uc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1448692-1228861933.jpeg.jpg" data-tags="brasil, brazil, mpb" role="button">Vanessa da Mata - Sim (2007)</li>
@@ -27,17 +27,11 @@ Jorge Ben - Samba Esquema Novo (1963)
 <li data-cover="http://coverartarchive.org/release/45593f09-be07-4710-8610-4594bb9a876f/3326980994-500.jpg" data-tags="mpb" role="button">
 Chico Buarque - Chico Buarque de Hollanda (1966)
 </li>
-<li data-cover="http://coverartarchive.org/release/0ef048c0-676b-4d33-ac27-895f173507ea/9164303311-500.jpg" data-tags="experimental" role="button">
-Gal Costa - Gal Costa (1969)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac92127f-6b1e-4423-8d51-d619fc13897f/1019145744-500.jpg" data-tags="tropicalia, rock, psychedelic" role="button">
-Os Mutantes - Mutantes (1969-02)
+<li data-cover="http://coverartarchive.org/release/16984cf1-8f8c-464a-accd-44d16c8b8e16/4223090536-500.jpg" data-tags="mpb" role="button">
+Jorge Ben - Jorge Ben (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ad7a356-d1d8-4367-8b33-dbb31c29517f/25207877428-500.jpg" data-tags="mpb" role="button">
 Chico Buarque - Construção (1971)
-</li>
-<li data-cover="https://img.discogs.com/eGShAxNFrBHU-_miaDLX_rmiT3s=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15821297-1598424308-6441.jpeg.jpg" data-tags="mpb, tropicalia, samba" role="button">
-Novos Baianos - Acabou Chorare (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6cf2e5-6382-4574-b172-b2d63c7894df/6506238138-500.jpg" data-tags="latin, mpb, brazilian, international, my 1972 experiment, my favorite things, brazilian traditions" role="button">
 Arthur Verocai - Arthur Verocai (1972)
@@ -45,17 +39,11 @@ Arthur Verocai - Arthur Verocai (1972)
 <li data-cover="http://coverartarchive.org/release/53c31a17-289a-4544-a3f9-5c53e06f3e05/11382963942-500.jpg" data-tags="70s, mpb" role="button">
 Milton Nascimento & Lô Borges - Clube Da Esquina (1972)
 </li>
-<li data-cover="https://img.discogs.com/3jFLem99fxpUqM1cG5OlQIxYyK0=/fit-in/599x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7729735-1447594509-8576.jpeg.jpg" data-tags="mpb" role="button">
-Gilberto Gil - Expresso 2222 (1972)
-</li>
-<li data-cover="https://img.discogs.com/jZsJ8TG3KCs2i4S48F8vosFEIvs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6371010-1417588177-9353.jpeg.jpg" data-tags="mpb, samba" role="button">
+<li data-cover="https://img.discogs.com/sEl__kMngLDjfRZ94quq96kYYck=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5834146-1424184021-5149.jpeg.jpg" data-tags="mpb, samba" role="button">
 Gal Costa - Cantar (1974)
 </li>
 <li data-cover="https://img.discogs.com/PK7fEv-DCo2JeeOdSyufcXo3qrY=/fit-in/568x568/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10139991-1578435408-4845.jpeg.jpg" data-tags="mpb" role="button">
 Chico Buarque - Sinal Fechado (1974)
-</li>
-<li data-cover="http://coverartarchive.org/release/f3263c66-0dd6-4da6-b8a0-2c7894f6a8be/5910139749-500.jpg" data-tags="brasil, mpb" role="button">
-Tom Zé - estudando o samba (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4cbc72d-fddf-4d97-9025-77fed9a567b5/5080906300-500.jpg" data-tags="mpb, favorite brazilian albums" role="button">
 Belchior - Alucinação (1976)
@@ -71,6 +59,9 @@ Maria Bethânia - Mel (1979)
 </li>
 <li data-cover="https://img.discogs.com/0WnKIoaJArEZ_d4WDap_SebLSwU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14396348-1573689705-5722.jpeg.jpg" data-tags="mpb, brazilian, valley of the bees radio, e regina" role="button">
 Elis Regina - Elis (1980)
+</li>
+<li data-cover="https://img.discogs.com/hwR7bK2VddWcLMGyHZZ-hrdt-7M=/fit-in/547x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5241704-1388503897-5896.jpeg.jpg" data-tags="brasil, mpb, c buarque" role="button">
+Chico Buarque - Vida (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/36a69014-a603-4ee8-abd0-075b3ad8855d/18781130799-500.jpg" data-tags="rita lee" role="button">
 Rita Lee - Rita Lee (1980-09-25)
@@ -89,6 +80,9 @@ Caetano Veloso - Uns (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/159f1322-9b75-42e8-aaf4-8ff59dd7aa8b/8848041710-500.jpg" data-tags="pop rock, new wave, brasil, mpb, brazilian, sophisti-pop" role="button">
 Marina Lima - Fullgás (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b71efac-ebc3-4172-bc0c-7a0a44c581d4/17505318869-500.jpg" data-tags="80s" role="button">
+Cazuza - Exagerado (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/25f58f18-c40d-469a-b3b3-3b5cc926e33e/6532278942-500.jpg" data-tags="mpb" role="button">
 Tim Maia - O Melhor de Tim Maia (1985)
@@ -111,9 +105,6 @@ Adriana Calcanhotto - A Fábrica Do Poema (1994)
 <li data-cover="http://coverartarchive.org/release/c393c79d-693a-4f33-96da-7491c2be4db9/10069834947-500.jpg" data-tags="mpb, mangue beat" role="button">
 Chico Science & Nação Zumbi - Da Lama ao Caos (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/dac4e8a5-138f-4f61-9526-b167579b89ed/4268640943-500.jpg" data-tags="reggae, bossa, brasil, mpb, california, aleister crowley, christopher lee, samba-reggae, aleyster crowley, bresil, argeu california seixas, silvio passos, wilson seixas, california seixas, aleister, raul seixas, afoxe, amidio junior, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, familia santos, argeu, krica morena, mosca navarro, aleyster crowley bernardo de andrade, g gil" role="button">
-Gilberto Gil - Refavela (1994)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="marisa monte, mpb" role="button">
 Marisa Monte - Rose and Charcoal (1994)
 </li>
@@ -125,6 +116,9 @@ Caetano Veloso - Livro (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/e337e235-9289-44b7-97f4-dde396be4b62/19959387043-500.jpg" data-tags="mpb" role="button">
 Lenine - O Dia Em Que Faremos Contato (1997-11-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/65886478-5457-4a6d-9900-cc44a32e8975/25736749404-500.jpg" data-tags="mpb" role="button">
+Adriana Calcanhotto - Maritmo (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/59b9a182-90c1-4aba-94d3-27d1f67a89ac/10427980414-500.jpg" data-tags="mais do mesmo, legião urbana" role="button">
 Legião Urbana - Mais Do Mesmo (1998-03)
@@ -140,6 +134,9 @@ Ney Matogrosso - Olhos De Farol (1999)
 </li>
 <li data-cover="https://img.discogs.com/jr80hXgVY_g9eiJBRMQTLz42odc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4259477-1359978695-6082.jpeg.jpg" data-tags="mpb" role="button">
 Zeca Baleiro - Vô Imbolá (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/fcdeed0f-4c5d-41b6-b7ae-9fa93bf3e9dc/1608622889-500.jpg" data-tags="rock, pop rock, brazil" role="button">
+O Rappa - Lado B Lado A (1999-09-15)
 </li>
 <li data-cover="https://img.discogs.com/ov0m_0zgui0vVmn_eCzY51s4UK4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2274795-1467127783-9317.jpeg.jpg" data-tags="mpb, brazilian, adriana calcanhotto" role="button">
 Adriana Calcanhotto - Público (2000)
@@ -171,6 +168,9 @@ Lenine - Falange Canibal (2002-04-05)
 <li data-cover="http://coverartarchive.org/release/dff80431-3daa-4b04-84ea-ab1f2a46bb8b/5706500249-500.jpg" data-tags="mpb" role="button">
 Seu Jorge - Samba Esporte Fino (2002-06-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/0775dccd-cdf3-4624-ad45-2338841fda98/16567756280-500.jpg" data-tags="pop, alternative rock" role="button">
+Kelly Osbourne - Shut Up (2002-11-26)
+</li>
 <li data-cover="https://img.discogs.com/Sx_8GcWG3a_rBQVhYFBqgSm9RZg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2201405-1269513103.jpeg.jpg" data-tags="pop rock, mpb, brazilian, brazilian rock" role="button">
 Jota Quest - Discotecagem Pop Variada (2002-11-30)
 </li>
@@ -195,14 +195,14 @@ Ana Carolina - Estampado (2003-12-02)
 <li data-cover="http://coverartarchive.org/release/a353dbf8-4710-43f4-a3d8-a8a834cc1f13/8611094676-500.jpg" data-tags="mpb, ouvir com calma" role="button">
 O Teatro Mágico - Entrada para Raros (2003-12-13)
 </li>
+<li data-cover="https://img.discogs.com/pA02LGz8LIwMVMj4XbADw3CHd2I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2310392-1571259615-5075.jpeg.jpg" data-tags="pop, mpb, rock brasileiro, minhas musicas, mpb classica, pop bras, acustico mtv nando reis" role="button">
+Nando Reis - Acustico MTV (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/083d4017-2d73-4c18-bcbb-16f92ff1b7a8/10457783425-500.jpg" data-tags="mpb, brazilian" role="button">
 Vanessa da Mata - Essa Boneca Tem Manual (2004)
 </li>
 <li data-cover="https://img.discogs.com/t5lyK37ZPFL3qVFjiB-TiZAhZCc=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1919235-1385217604-6767.jpeg.jpg" data-tags="mpb" role="button">
 Zeca Baleiro - Perfil (2004)
-</li>
-<li data-cover="https://img.discogs.com/V5ZiLzwxbVo7shD2xUEyKh-RmSs=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4017209-1567626262-6738.png.jpg" data-tags="bossa nova, mpb" role="button">
-Gilberto Gil - The Early Years (2004)
 </li>
 <li data-cover="https://img.discogs.com/_hL4hsnawMzzoUF_I1vH8viJRKM=/fit-in/594x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-618114-1366618337-2891.jpeg.jpg" data-tags="mpb" role="button">
 Seu Jorge - Cru (2004-09-21)

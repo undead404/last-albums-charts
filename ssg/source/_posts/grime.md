@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T23:31:01.325Z
+date: 2021-04-09T19:01:06.934Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
@@ -45,6 +45,9 @@ Dizzee Rascal - Showtime (2004-09-06)
 <li data-cover="https://img.discogs.com/o010GUY6cAMdDeaBW41xmZT0apA=/fit-in/600x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866745-1167197361.jpeg.jpg" data-tags="grime, --britpop--, playlist m" role="button">
 The Streets - Blinded By The Lights (2004-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/a7a4036c-7b50-3fb9-9139-0c08ed283dbe/4524314703-500.jpg" data-tags="hip-hop" role="button">
+Roots Manuva - Awfully Deep (2005-01-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
 </li>
@@ -54,8 +57,14 @@ Roll Deep - In at the Deep End (2005-06-06)
 <li data-cover="http://coverartarchive.org/release/a1c0ef14-a5d0-44fc-b8fb-6698d0c8133e/15330126310-500.jpg" data-tags="hiphop, hip hop, grime" role="button">
 Kano - Home Sweet Home (2005-06-27)
 </li>
+<li data-cover="https://img.discogs.com/QjPJYfKMS5OuXVLFqW7kddlvFpI=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-444052-1114256085.jpg.jpg" data-tags="grime, london dubstep" role="button">
+Virus Syndicate - The Work Related Illness (2005-06-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/31696c2a-fee0-45ac-a6ce-934e0117c298/19579923271-500.jpg" data-tags="british, grime, dance" role="button">
 M.I.A. - Bucky Done Gun (2005-07-11)
+</li>
+<li data-cover="https://img.discogs.com/mZC2N0gM-D6RU0aXIGNXVeVufRc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538101-1131719441.jpeg.jpg" data-tags="electronic, electronica, female vocalists, grime, dubstep, idm, driving, bounce, drum n bass, broken beat, 00s, dubby, welcome, boom, flow, neu, wonk, magic female voice, futurefunk, futuredub, supersexy, blazin, fusion festival 2008, metro dub, future-reach, electro ragga, fusion 2008" role="button">
+Jahcoozi - Pure Breed Mongrel (2005-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0450057d-5438-41ce-9d43-1a6de4b2234e/21919251454-500.jpg" data-tags="grime" role="button">
 Lethal Bizzle - Against All Oddz (2005-10)
@@ -63,13 +72,16 @@ Lethal Bizzle - Against All Oddz (2005-10)
 <li data-cover="https://img.discogs.com/pUI_te1NTDMwYQ1i8k6G7NgSSjI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557280-1348161919-8961.jpeg.jpg" data-tags="grime, hip hop" role="button">
 Lady Sovereign - Vertically Challenged (2005-11-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grime, dubstep, 2-step" role="button">
+<li data-cover="https://img.discogs.com/tCRLUvE1uVOUcaHMFAqAXCBLD20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612245-1143201602.jpeg.jpg" data-tags="grime, dubstep, 2-step" role="button">
 Vex'd - Bombardment Of Saturn (2006)
+</li>
+<li data-cover="https://img.discogs.com/w-9asZe9MjAt-Pvi5tcXppsj59s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5820825-1588927605-3684.jpeg.jpg" data-tags="electronica, grime, dubstep, massive dubstep" role="button">
+Rusko - Snes Dub (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2e854c8-593f-4d78-bfdf-e82b10763cb9/20541752674-500.jpg" data-tags="grime" role="button">
 Sway - This Is My Demo (2006-02-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="electronica, grime, dubstep" role="button">
+<li data-cover="https://img.discogs.com/DtxwXUEdQP2Kcssy9qdIt3TrNq8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655496-1456702178-6610.jpeg.jpg" data-tags="electronica, grime, dubstep" role="button">
 Digital Mystikz - Ancient Memories (2006-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a690df6-1ee2-4023-99aa-4b3b7902f0fe/13786115983-500.jpg" data-tags="hip-hop" role="button">
@@ -77,9 +89,6 @@ Roots Manuva - Alternately Deep (2006-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
 The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/57830bf4-91ff-4f5e-9d65-0b9d556bc3be/15200129924-500.jpg" data-tags="hip hop" role="button">
-Spank Rock - YoYoYoYoYo (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/07faab6b-5555-4372-8b0f-b2d36e9d08ff/15463158371-500.jpg" data-tags="dubstep" role="button">
 Boxcutter - Oneiric (2006-04-17)
@@ -123,7 +132,7 @@ Skepta - Greatest Hits (2007-09-24)
 <li data-cover="https://img.discogs.com/RT8njCQclfaBPz8y1F9pKEG_o7U=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9263027-1477992910-2819.jpeg.jpg" data-tags="hip hop, pop, dance, house" role="button">
 Wiley - Wearing My Rolex (2008-04-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="new rave, electronic" role="button">
+<li data-cover="https://img.discogs.com/Okdmgf9xSUO6bkQs55LlEhKflxs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13611821-1557501177-3733.jpeg.jpg" data-tags="new rave, electronic" role="button">
 Hadouken! - Music for an Accelerated Culture (2008-05-05)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="grime" role="button">
@@ -138,12 +147,6 @@ Plastician - Beg To Differ (2008-06-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 The Bug - London Zoo (2008-07-07)
 </li>
-<li data-cover="https://img.discogs.com/XoYTjDZ1UfVtQRGBen03ECikX-8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3289786-1327107072.jpeg.jpg" data-tags="rap" role="button">
-The Streets - Everything Is Borrowed (2008-09-15)
-</li>
-<li data-cover="https://img.discogs.com/cGOMAVsF8edHL1FTrjjSPyKfGEY=/fit-in/470x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1483069-1223148366.jpeg.jpg" data-tags="mix" role="button">
-DJ /rupture - Uproot (2008-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
 Gang Gang Dance - Saint Dymphna (2008-10-20)
 </li>
@@ -155,9 +158,6 @@ Wiley - See Clear Now (2008-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff352a15-b8af-439c-8a58-7607181e7750/10991333928-500.jpg" data-tags="rap" role="button">
 Die Antwoord - $O$ (2009)
-</li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
 </li>
 <li data-cover="https://img.discogs.com/hr7mBEAV5REhgnJVgp1_iodL6mc=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1727158-1489626590-4704.jpeg.jpg" data-tags="grime" role="button">
 Lady Sovereign - Jigsaw (2009-04-06)
@@ -183,14 +183,14 @@ NiT GRiT - NiT GriT (2009-11-06)
 <li data-cover="http://coverartarchive.org/release/e4fd4593-1cd3-49b6-988f-f58cf4f8c1ca/16501954698-500.jpg" data-tags="electronic, new rave, grime" role="button">
 Hadouken! - For the Masses (2010-01-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/19787847-8a70-42f4-bd4c-ff6f751fe49b/23462599955-500.jpg" data-tags="pass out" role="button">
+Tinie Tempah - Pass Out (2010-02-28)
+</li>
 <li data-cover="https://img.discogs.com/IovNwfc4CGtsm-9jYvQ4Q8VS9k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2167401-1555269607-6014.jpeg.jpg" data-tags="electronic, dance" role="button">
 Crookers - Tons of Friends (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/317e339d-27b0-4ab5-8ba8-e660272b24d8/24185793385-500.jpg" data-tags="hip-hop" role="button">
 Dan Le Sac vs Scroobius Pip - The Logic Of Chance (2010-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f03a710-c9ef-4f91-8eac-fdd6606a7fab/1714161940-500.jpg" data-tags="electronic" role="button">
-Starkey - Ear Drums and Black Holes (2010-04-19)
 </li>
 <li data-cover="https://img.discogs.com/-3KuZfYZ8jPOnqjSARFtlxsBl_U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2244362-1286153740.jpeg.jpg" data-tags="grime, electro, techno, house" role="button">
 Girl Unit - I.R.L EP (2010-04-26)
@@ -237,17 +237,20 @@ Bok Bok - Southside EP (2011-05-30)
 <li data-cover="http://coverartarchive.org/release/f833dadc-3151-4000-8e19-e8cbea8aaad4/2877625885-500.jpg" data-tags="grime, dubstep" role="button">
 Foreign Beggars - The Harder They Fall EP (2011-06-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/23f14cf9-74c0-45d9-ad20-507d6af44903/3414834359-500.jpg" data-tags="grime, dubstep" role="button">
+Gladkill - LoveLost (2011-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/ceb9c655-a10e-4883-bf26-46274eb9e113/4802877243-500.jpg" data-tags="grime" role="button">
 Wiley - 100% Publishing (2011-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/373ad88b-3eb7-42dc-ae11-77dd3b6dcb54/2267680912-500.jpg" data-tags="grime, vagabund, miron,  album,  digipak, nmdc" role="button">
 Oxxxymiron - Вечный жид (2011-09-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/313362c0-0f9f-4559-8337-8daf9a640d56/5275367063-500.jpg" data-tags="idm, experimental, techno" role="button">
-Modeselektor - Monkeytown (2011-09-30)
-</li>
 <li data-cover="https://img.discogs.com/yqF2UyXS_V-n_6IIZDSEwPMfSkA=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3379958-1558871673-1919.jpeg.jpg" data-tags="hip hop, rap, 10s, 2011 albums" role="button">
 Professor Green - At Your Inconvenience (2011-10-31)
+</li>
+<li data-cover="https://img.discogs.com/JWiFchXv0Hzr8RWugluhNau24Dg=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10750666-1503646950-6202.jpeg.jpg" data-tags="hip-hop, pop, british, rap, grime, rnb" role="button">
+Loick Essien - Me Without You (2011-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/53ab0143-f891-4a38-99c8-53db5bfc4ce8/5892357054-500.jpg" data-tags="electronic" role="button">
 Labrinth - Electronic Earth (2012-04-02)
@@ -314,9 +317,6 @@ Evian Christ - Waterfall (2014-03-17)
 </li>
 <li data-cover="https://img.discogs.com/QIC5dSYO-IkniMg38bBHTT9BoSM=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7205493-1436123334-2227.jpeg.jpg" data-tags="hip hop, grime, british hip hop, english hip hop" role="button">
 Stormzy - Dreamers Disease (2014-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/e83adfa9-b6bc-481d-b2c7-00f49b6f3a66/8142798580-500.jpg" data-tags="dubstep" role="button">
-The Bug - Angels & Devils (2014-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5df9dd60-db2b-4da2-ba74-92a3727d593b/8723034678-500.jpg" data-tags="hip-hop, grime" role="button">
 Wiley - Snakes & Ladders (2014-11-03)

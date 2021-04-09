@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T14:02:01.401Z
+date: 2021-04-09T19:03:01.449Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -216,20 +216,17 @@ Coldplay - X&Y (2005-06-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, britpop, indie" role="button">
 Supergrass - Road to Rouen (2005-08-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/745378c5-be6e-4500-b507-c50c6e175970/15823905696-500.jpg" data-tags="coldplay, rock, alternative rock, britpop" role="button">
+Coldplay - Fix You (2005-09-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/7b62c161-6a50-3393-a5c2-c346c5a15a0d/26560719952-500.jpg" data-tags="rock, britpop" role="button">
 Elbow - Leaders of the Free World (2005-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e22c870-8aea-4f5a-8ecc-348df4f39165/1560405303-500.jpg" data-tags="indie rock, rock" role="button">
 Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, britpop" role="button">
-Starsailor - On The Outside (2005-10-14)
-</li>
 <li data-cover="https://img.discogs.com/UgYBf3eY904cb7WoJCaJgScI9yc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4047995-1510080801-8275.jpeg.jpg" data-tags="indie" role="button">
 The Kooks - Inside In/Inside Out (2006-01-12)
-</li>
-<li data-cover="https://img.discogs.com/_mODtAT-vX_TBwDtmuLskoIhogo=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-827837-1484077186-5877.jpeg.jpg" data-tags="britpop, rock" role="button">
-Richard Ashcroft - Keys to the World (2006-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1fcbdf0-9ead-36ca-b626-adcace29466a/22951926167-500.jpg" data-tags="alternative rock, alternative, rock, placebo" role="button">
 Placebo - Meds (2006-03-10)
@@ -272,6 +269,9 @@ Stereophonics - Pull the Pin (2007-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/64a3d0dc-f407-32f3-956d-116bfb24de0c/17454285949-500.jpg" data-tags="indie, indie pop, britpop" role="button">
 One Night Only - Started A Fire (2008-02-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, indie" role="button">
+Elbow - The Seldom Seen Kid (2008-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/108ff541-d605-3cd0-bd71-c7626dd224c3/15041273179-500.jpg" data-tags="indie, indie rock" role="button">
 The Kooks - Konk (2008-04-09)

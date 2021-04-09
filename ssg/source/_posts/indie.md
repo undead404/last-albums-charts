@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:40:01.508Z
+date: 2021-04-09T18:54:01.554Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -84,9 +84,6 @@ The Shins - Chutes Too Narrow (2003-10-21)
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
-Sufjan Stevens - Seven Swans (2004-03-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/ae7e41d6-ea04-455b-9107-80a94a24443c/12241028609-500.jpg" data-tags="indie rock, indie" role="button">
 Modest Mouse - Good News For People Who Love Bad News (2004-04-06)
 </li>
@@ -98,9 +95,6 @@ Feist - Let It Die (2004-05-18)
 </li>
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
 The Killers - Hot Fuss (2004-06-07)
-</li>
-<li data-cover="https://img.discogs.com/bm6ZUDsKOZ00LGlgvLRry_NriHA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814895-1512909278-1687.jpeg.jpg" data-tags="indie, acoustic, norwegian" role="button">
-Kings of Convenience - Riot on an Empty Street (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
@@ -117,14 +111,17 @@ Interpol - Antics (2004-09-27)
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">
 Jimmy Eat World - Futures (2004-10-11)
 </li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
-Beirut - Gulag Orkestar (2005)
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
+Editors - The Back Room (2005-01-01)
 </li>
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">
 Bloc Party - Silent Alarm (2005-02-02)
 </li>
 <li data-cover="https://img.discogs.com/fx-3qtaLGu4XcxypfYKwWSLP_i0=/fit-in/549x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501014-1389844857-4827.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Kaiser Chiefs - Employment (2005-03-07)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+The Decemberists - Picaresque (2005-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
@@ -146,6 +143,9 @@ Franz Ferdinand - You Could Have It So Much Better (2005-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
+The Strokes - First Impressions of Earth (2005-12-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b71b6a8f-b6c4-4d25-98e4-6c72b2474667/2730327014-500.jpg" data-tags="folk, indie" role="button">
 Fleet Foxes - Fleet Foxes (2006)
@@ -198,6 +198,9 @@ Klaxons - Myths of the Near Future (2007-01-29)
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
+Andrew Bird - Armchair Apocrypha (2007-03-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/e3329c6a-6ff9-4254-b82e-f4ac85e5e6dd/2514121509-500.jpg" data-tags="indie, indie rock" role="button">
 Vampire Weekend - Vampire Weekend (2007-04)
 </li>
@@ -227,9 +230,6 @@ The Kooks - Konk (2008-04-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Death Cab for Cutie - Narrow Stairs (2008-04-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
-The Ting Tings - We Started Nothing (2008-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
@@ -266,9 +266,6 @@ Arctic Monkeys - Humbug (2009-08-19)
 </li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/d9abf895-1404-43d7-8125-fb83b1a8bf34/7456433094-500.jpg" data-tags="indie rock" role="button">
-Two Door Cinema Club - Tourist History (2010-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ae68835-1488-4f76-a239-5aeeacf8be80/4199706569-500.jpg" data-tags="indie" role="button">
 Broken Bells - Broken Bells (2010-03-05)
@@ -320,5 +317,8 @@ Arctic Monkeys - AM (2013-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Reflektor (2013-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
+alt-J - This Is All Yours (2014-09-18)
 </li>
 </ol>

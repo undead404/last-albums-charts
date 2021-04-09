@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T14:01:06.893Z
+date: 2021-04-09T18:59:01.482Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -21,8 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c33e82e8-efba-49ae-83f3-adc3088985ff/4004452077-500.jpg" data-tags="60s, classic rock" role="button">
-The Beatles - With The Beatles (1963-11-22)
+<li data-cover="http://coverartarchive.org/release/b60a2517-687f-414c-89fe-ad89a875ecd6/15628266907-500.jpg" data-tags="60s" role="button">
+The Beatles - Please Please Me (1963-03-22)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="60s, classic rock, rock" role="button">
 The Beatles - Help! (1965-07-19)
@@ -68,9 +68,6 @@ Van Morrison - Astral Weeks (1968-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8345dc9c-b9c4-3d11-9a29-828b6e235c6a/22775211332-500.jpg" data-tags="classic rock, rock, 60s" role="button">
 The Rolling Stones - Beggars Banquet (1968-12-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">
-The Velvet Underground - The Velvet Underground (1969-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4946f82c-2cc1-3bbd-8ae3-5b89a79d7c39/21758063798-500.jpg" data-tags="classic rock, blues rock" role="button">
 Blind Faith - Blind Faith (1969-08)
@@ -201,6 +198,9 @@ Iggy Pop - Lust For Life (1977-08-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, classic rock" role="button">
 Steely Dan - Aja (1977-09-23)
 </li>
+<li data-cover="https://img.discogs.com/6Sa_C449PdWHQ9M6rAkVI84klMo=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11459589-1523284305-7535.jpeg.jpg" data-tags="classic rock" role="button">
+Billy Joel - The Stranger (1977-09-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/36594124-8097-3af9-891a-8a03b154c79b/23541528287-500.jpg" data-tags="classic rock, 70s" role="button">
 Electric Light Orchestra - Out of the Blue (1977-10)
 </li>
@@ -282,11 +282,11 @@ Pink Floyd - The Division Bell (1994-03-28)
 <li data-cover="http://coverartarchive.org/release/29a89b27-ee52-4e84-a411-8b3ae971673d/5262713591-500.jpg" data-tags="eric clapton, blues rock" role="button">
 Eric Clapton - The Cream of Clapton (1994-03-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e78b3da-31a3-4d3c-b739-9e77c4d7e1f5/26696625551-500.jpg" data-tags="rock" role="button">
+Bon Jovi - Cross Road (1994-10-04)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, eagles" role="button">
 Eagles - Hell Freezes Over (1994-11-07)
-</li>
-<li data-cover="https://img.discogs.com/drBfay0UEetZLACLgk_ycDH-Vp4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2927211-1365239215-7602.jpeg.jpg" data-tags="folk, 60s, singer-songwriter" role="button">
-Bob Dylan - Highway 61 Revisited (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce73ebd3-5ae0-35a0-93e8-187bcc7fa47a/2959937821-500.jpg" data-tags="rock, classic rock" role="button">
 Bruce Springsteen - Greatest Hits (1995-02-10)

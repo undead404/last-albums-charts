@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T01:09:06.963Z
+date: 2021-04-09T19:31:06.976Z
 title: "west coast: 100 albums you must listen to before you die"
 ---
 ![N.W.A - Straight Outta Compton (1988-08-08)](http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg "N.W.A - Straight Outta Compton (1988-08-08)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/62bc46dc-60e8-4c19-a23b-bcb0831b464c/16436145342-500.jpg" data-tags="jazz" role="button">
 Gerry Mulligan - What Is There To Say? (1959)
 </li>
-<li data-cover="http://coverartarchive.org/release/aeadbf19-8c3e-4bce-8a42-d79ce421ca20/23107373391-500.jpg" data-tags="psychedelic, folk rock, 60s" role="button">
-The Byrds - The Notorious Byrd Brothers (1968-01-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/1cb9e01f-6a76-42bd-9225-e9a8353e73c1/17242143800-500.jpg" data-tags="soul" role="button">
 Marlena Shaw - The Spice Of Life (1969)
 </li>
@@ -39,8 +36,11 @@ Bread - Manna (1971)
 <li data-cover="https://img.discogs.com/saAmISxtsEYEsfMTOdF_4htzaJI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475236-1286108486.jpeg.jpg" data-tags="soft rock, 70s, folk rock" role="button">
 America - Homecoming (1972)
 </li>
-<li data-cover="https://img.discogs.com/ylY8eBHjem7h6DlojxFzjhrZQUQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4635126-1370607848-4954.jpeg.jpg" data-tags="70s, james taylor, singer-songwriter" role="button">
-James Taylor - Gorilla (1975)
+<li data-cover="https://img.discogs.com/bd69jMcP69UrxUhp0KmrvOS6UkU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4023515-1352676169-1833.jpeg.jpg" data-tags="70s, soft rock" role="button">
+America - Holiday (1974)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="soft rock, 70s" role="button">
+America - Hearts (1975)
 </li>
 <li data-cover="https://img.discogs.com/w1Wg4wOWyEiW_wIctHe8HqIpIls=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12172779-1529763337-2707.jpeg.jpg" data-tags="classic rock" role="button">
 Seals & Crofts - Seals & Crofts' Greatest Hits (1975)
@@ -51,14 +51,14 @@ Seals & Crofts - Get Closer (1976)
 <li data-cover="https://img.discogs.com/Q-xwBNJ95VZhKmVZnOUmkaVlXPg=/fit-in/500x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916833-1307187688.jpeg.jpg" data-tags="soul, blue-eyed soul, soft rock, funk, west coast, yacht rock, westcoast" role="button">
 Ned Doheny - Hard Candy (1976)
 </li>
-<li data-cover="http://coverartarchive.org/release/b497f759-d7f3-4d36-b15c-bc91fb2bf1da/16243917715-500.jpg" data-tags="classic rock" role="button">
-Boz Scaggs - Silk Degrees (1976-02-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/285ec2db-339b-4694-a068-98957e2a49ef/22419379262-500.jpg" data-tags="soul" role="button">
 Bobby Caldwell - What You Won't Do For Love (1978)
 </li>
-<li data-cover="http://coverartarchive.org/release/02f3e0d2-cd49-3883-8796-f34d47e3a6af/5959850736-500.jpg" data-tags="christopher cross, soft rock" role="button">
-Christopher Cross - Christopher Cross (1979-12)
+<li data-cover="https://via.placeholder.com/450" data-tags="soft rock" role="button">
+Pablo Cruise - Worlds Away (1978-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8a494a6-de6c-41d4-9557-8076b7164423/18393544502-500.jpg" data-tags="classic rock, soft rock, west coast, westcoast" role="button">
+England Dan & John Ford Coley - Dr. Heckle & Mr. Jive (1979)
 </li>
 <li data-cover="https://img.discogs.com/dXWFKU8dOV-cuzyGpthEvfr6TGY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2522963-1328060289.jpeg.jpg" data-tags="pop, rock, soul, blue-eyed soul, soft rock, west coast, yacht rock, westcoast, bobby caldwell, robbie dupree, soft peppermint" role="button">
 Robbie Dupree - Robbie Dupree (1980)
@@ -99,8 +99,17 @@ Ice Cube - The Predator (1992-11-17)
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
 </li>
+<li data-cover="https://img.discogs.com/kVi4UKbgy0zT2tWVNFT3Kr-CnGA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492190-1302215784.jpeg.jpg" data-tags="gangsta rap" role="button">
+Brotha Lynch Hung - 24 Deep (1993)
+</li>
 <li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Cypress Hill - Black Sunday (1993-07-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c7ed994-1cd9-4e66-b18c-dfed3a060bfa/7126091224-500.jpg" data-tags="hip-hop" role="button">
+Tha Alkaholiks - 21 & Over (1993-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/32c28be9-7f29-4f02-bb58-c43d3cb0d51c/7809286259-500.jpg" data-tags="west coast, 90's" role="button">
+E-40 - Federal (1993-11-10)
 </li>
 <li data-cover="https://img.discogs.com/71BVgzlkkTwSUkE7yxsiUmslzg4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494721-1287126542.jpeg.jpg" data-tags="g-funk" role="button">
 Warren G - Regulate... G Funk Era (1994-06-07)
@@ -108,13 +117,19 @@ Warren G - Regulate... G Funk Era (1994-06-07)
 <li data-cover="http://coverartarchive.org/release/3e096a04-ae16-3718-b363-49061f3205e8/20638601124-500.jpg" data-tags="gangsta rap" role="button">
 Bone Thugs-N-Harmony - Creepin on Ah Come Up (1994-06-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/f3215052-f54a-4e5c-a069-63daf5fbfafc/9475484959-500.jpg" data-tags="hip-hop, rap, old school" role="button">
+Dr. Dre - Concrete Roots (1994-09-20)
+</li>
+<li data-cover="https://img.discogs.com/PAphRGYmXLLeAbeVFgNB2I-cr4w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1609866-1446279558-8688.jpeg.jpg" data-tags="rap, gangsta rap" role="button">
+Ice Cube - Bootlegs & B-Sides (1994-11-22)
+</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/8253975733-500.jpg" data-tags="hip-hop, dance, 90s, r&b, west coast, disco rap, cds i own and have yet to hear" role="button">
 Montell Jordan - This Is How We Do It (1995-04-04)
 </li>
-<li data-cover="https://img.discogs.com/eaR3Fnbm7IsPzKlzCcMa9VD6OA4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764064-1427488790-6905.jpeg.jpg" data-tags="gangsta rap" role="button">
+<li data-cover="https://img.discogs.com/vwTD1j_bhLl9STCAasoRhUO15TU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-365963-1544624881-5586.jpeg.jpg" data-tags="gangsta rap" role="button">
 Westside Connection - Bow Down (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
@@ -129,7 +144,7 @@ Ras Kass - Soul On Ice (1996-10-01)
 <li data-cover="http://coverartarchive.org/release/d430f330-88d7-4c1e-82c1-285ddc3d8a1f/8748613506-500.jpg" data-tags="soft rock" role="button">
 Ambrosia - Anthology (1997)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rnb, soul" role="button">
+<li data-cover="http://coverartarchive.org/release/ac092222-68e8-41eb-a3a4-36814ce2b8ae/7933624830-500.jpg" data-tags="rnb, soul" role="button">
 Tony Toni Toné - Hits (1997)
 </li>
 <li data-cover="https://img.discogs.com/KBoTf37S049Z0zbN_IykyvcspA4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-243078-1418650190-3615.jpeg.jpg" data-tags="hip-hop, good albums" role="button">
@@ -159,6 +174,9 @@ Supreme Beings of Leisure - Supreme Beings of Leisure (2000)
 <li data-cover="http://coverartarchive.org/release/05a01d85-ea57-4b35-a7cd-f1ae18437328/3420809133-500.jpg" data-tags="ice cube, gangsta rap" role="button">
 Ice Cube - War & Peace, Volume 2 (The Peace disc) (2000-03-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/053fd662-153c-4156-b04b-b8b6c11d425f/10331224996-500.jpg" data-tags="g-funk" role="button">
+Snoop Dogg - Dead Man Walkin (2000-10-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">
 Xzibit - Restless (2000-12-12)
 </li>
@@ -186,17 +204,11 @@ Ice Cube - Greatest Hits (2001-12-03)
 <li data-cover="http://coverartarchive.org/release/f68c4733-b716-4173-ad90-57bb48b34f5c/28502832824-500.jpg" data-tags="g-funk" role="button">
 Nate Dogg - Music & Me (2001-12-04)
 </li>
-<li data-cover="https://img.discogs.com/IQQRArelyNzXNjq1rLmDJDnenJg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2288481-1274648361.jpeg.jpg" data-tags="power metal, symphonic metal" role="button">
-Rhapsody - Rain of a Thousand Flames (2001-12-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
 </li>
 <li data-cover="https://img.discogs.com/kHzRko8O2Gd9BP2fjjLugz7rp8c=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96237-1224459286.jpeg.jpg" data-tags="uutta jazzia, acid lounge, smooth lounge, jazzy female vocal, serve chilled, jazzy flavoured, downtempo influences, vocal-lounge, city lounge, vocal downtempo, my-love, acoustic groove, chillout downtempo, lounge downtempo, jazz-trip, alternative lounge, genre: downtempo, lounge chill, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, sweet downtempo, ouahhhhh, tropcool, chillounge1, chill chill, jazzy vibes, lounge at home two, lounge at home tres, chillair, 1st vine, awesome downtempo, epic lounge, genre:downtempo, sexy sounding, uuta jazzia, uutta jazziz, trip-hop, electrocool, electropcool" role="button">
 Supreme Beings of Leisure - Divine Operating System (2002-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e3e9586-f946-4895-8d09-7ddba20a6a38/8619050284-500.jpg" data-tags="rap" role="button">
-Xzibit - Man Vs. Machine (2002-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/105029c7-f9c6-4009-99ef-3649ee2f9657/6771386158-500.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Better Dayz (2002-11-26)
@@ -225,6 +237,9 @@ The Pharcyde - Humboldt Beginnings (2004-07-13)
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/87cd1e80-f4a1-45ed-abfc-197939942f16/9009544452-500.jpg" data-tags="classic rock, jazz, soul, blue-eyed soul, easy listening, soft rock, west coast, smooth jazz, yacht rock, soft-rock, westcoast, gino vannelli, slow peppermint, soft peppermint" role="button">
+Gino Vannelli - These Are The Days (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
 The Game - The Documentary (2005-01-18)
 </li>
@@ -234,8 +249,8 @@ Artemis - Gravity (2005-02-11)
 <li data-cover="http://coverartarchive.org/release/d37ac447-d48c-34d8-857f-e2bc4594dde0/22349316069-500.jpg" data-tags="hip hop" role="button">
 Blackalicious - The Craft (2005-09-27)
 </li>
-<li data-cover="https://img.discogs.com/2GeqeTLnmOutMsdDC1TcgINC034=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-535539-1223224500.jpeg.jpg" data-tags="downtempo" role="button">
-Lovespirals - Free & Easy (2005-11-01)
+<li data-cover="https://img.discogs.com/uBR1QFFnv_la3kvBrxR_P-xF4nk=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9161484-1475862524-2950.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+Warren G - In the Mid-Nite Hour (2005-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">
 Ice Cube - Laugh Now, Cry Later (2006-06-06)
@@ -243,14 +258,8 @@ Ice Cube - Laugh Now, Cry Later (2006-06-06)
 <li data-cover="http://coverartarchive.org/release/53dafcec-e54c-4024-9cbf-22fd51370b33/4708352796-500.jpg" data-tags="chill, instrumental, downtempo, vocals, west coast, bay area, festival, rainbow, various artists are a pita on lastfm, labels - interchill records, spa music, neerav, pachamama, hamsa, shakatura" role="button">
 Various Artists - Gathering The Tribe (2006-06-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/39435b39-2faa-4d28-b2df-f7885ceedecb/7152713003-500.jpg" data-tags="female vocalists" role="button">
-Chelsea Wolfe - Mistake in Parting (2006-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/755cf4a4-fc6d-4a48-a90a-726778829fc2/3779477841-500.jpg" data-tags="electronic" role="button">
 DJ Shadow - The Outsider (2006-09-15)
-</li>
-<li data-cover="https://img.discogs.com/9YoeendwzP_Ar8nuyLvxeESzQU8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14414334-1574083367-6594.jpeg.jpg" data-tags="electronic, japanese, experimental" role="button">
-Cornelius - Sensuous (2006-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
 The Game - Doctor's Advocate (2006-11-11)
@@ -294,9 +303,6 @@ Fashawn - Boy Meets World (2009-10-20)
 <li data-cover="http://coverartarchive.org/release/624a91e0-ddfa-4461-be6f-bbb6d6269f11/24305542267-500.jpg" data-tags="hip hop, rap, west coast" role="button">
 Ice Cube - I Rep That West (2010-04-25)
 </li>
-<li data-cover="https://img.discogs.com/5m9X-BuG9NQBvtyIuT_gl4zotkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15766318-1597407950-4490.jpeg.jpg" data-tags="post-hardcore" role="button">
-MASS OF THE FERMENTING DREGS - ゼロコンマ、色とりどりの世界 (2010-07-30)
-</li>
 <li data-cover="https://img.discogs.com/xiCIc8zw_-MOzFR0MasPOkUslDI=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2570801-1509030330-4636.jpeg.jpg" data-tags="hip-hop, hip hop, rap, underground rap, underground hip-hop, psychedelic, dope, west coast, hardcore rap, hardcore hip-hop, my fav albums, the alchemist" role="button">
 Gangrene - Gutter Water (2010-11-22)
 </li>
@@ -308,12 +314,6 @@ Tyler, the Creator - Goblin (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cd6d936-54b0-4d31-8301-2fe393b60054/10144003753-500.jpg" data-tags="electronic, trip-hop, hip-hop, soul" role="button">
 The Internet - Purple Naked Ladies (2011-12-19)
-</li>
-<li data-cover="https://img.discogs.com/kzt0Yo7Ks4KdyLfFvL2PN96gAtA=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3956184-1353962799-5227.jpeg.jpg" data-tags="misc, hipster, not experimental, worst albums of 2017, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, japanese, 60s, 70s, 80s, hardcore, revolution, swedish, emo, rap, ambient, female vocalists, dubstep, dance, dark, easy listening, funk, new age, techno, house, acid jazz, schlager, canadian, 90s, russian, jpop, african, radio, insane, skinhead, gangsta rap, lady gaga, excellent, crunk, comedy, asian, japan, death metal, rnb, christian, christian rock, gothic metal, why, intelligent, west coast, brazilian, sex, nice, humour, korean, k-pop, breakcore, garage, podcast" role="button">
-King Dude - Burning Daylight (2012-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5171e699-9128-4770-808b-2602187013d3/8189295650-500.jpg" data-tags="west coast" role="button">
 Vince Staples - Shyne Coldchain Vol. 2 (2014-03-13)

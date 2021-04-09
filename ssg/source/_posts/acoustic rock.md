@@ -1,10 +1,11 @@
 ---
-date: 2021-04-07T06:01:01.287Z
+date: 2021-04-09T19:19:01.449Z
 title: "acoustic rock: 100 albums you must listen to before you die"
 ---
 ![Ed Sheeran - + (2011-09-09)](http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg "Ed Sheeran - + (2011-09-09)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/e6daf7b2-c04b-41d5-9871-cfc32d649f04/25289789287-500.jpg" data-tags="acoustic rock" role="button">Seven Mary Three - Rock Crown (1997-06-03)</li>
+<li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">Howie Day - Australia (2000-11)</li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">Jack Johnson - On and On (2003-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/961a9c17-19b5-4588-8196-edfa66a7e97d/21259219869-500.jpg" data-tags="acoustic rock, australia" role="button">Pete Murray - Feeler (2003-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/a286be17-96f0-3dee-9c66-d8972a04d4e9/1742724035-500.jpg" data-tags="emo" role="button">Dashboard Confessional - A Mark, A Mission, A Brand, A Scar (2003-08-11)</li>
@@ -13,7 +14,6 @@ title: "acoustic rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/QPMnXIE11R-Bfg_UmDD19W68Udc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288391-1206675152.jpeg.jpg" data-tags="emo" role="button">Dashboard Confessional - Dusk And Summer (2006-06-26)</li>
 <li data-cover="http://coverartarchive.org/release/91223ccc-35d3-41af-98ad-c60aba0060ec/11056329960-500.jpg" data-tags="instrumental" role="button">Rodrigo y Gabriela - 11:11 (2009-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">Ed Sheeran - + (2011-09-09)</li>
-<li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">John Mayer - Born and Raised (2012-05-18)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -32,9 +32,6 @@ Pearl Jam - MTV Unplugged (1992)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie, rock, alternative, alternative rock, male vocalists, acoustic rock, pop-rock, wisconsin" role="button">
 BoDeans - Go Slow Down (1993-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/767c1710-27aa-491b-8145-112d42e198ed/18894008778-500.jpg" data-tags="90s, grunge, alternative rock" role="button">
-Meat Puppets - Too High To Die (1994-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5a4cd5-43d1-3b78-a535-272f97c015c9/14327361700-500.jpg" data-tags="rock, 90s" role="button">
 Dave Matthews Band - Under The Table And Dreaming (1994-04)
@@ -90,11 +87,11 @@ Dave Matthews Band - Everyday (2001-02-27)
 <li data-cover="https://img.discogs.com/7OtfPkokhzaL0As606HZ1p3f3Bk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11892054-1524238820-6548.jpeg.jpg" data-tags="alternative, acoustic rock, matt wertz" role="button">
 Matt Wertz - Somedays (2001-05-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/62e05c98-34a5-40c3-8761-9d33220f6b3d/4912812860-500.jpg" data-tags="rock" role="button">
+John Frusciante - From The Sounds Inside (2001-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/3f8d05d8-721c-4f02-bafe-8e7a86ba8490/10976525258-500.jpg" data-tags="rock, finnish" role="button">
 The Rasmus - Into (2001-09-03)
-</li>
-<li data-cover="https://img.discogs.com/TCfCFFygw_4fOymnI55HbWwp1u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-445333-1305669402.png.jpg" data-tags="ambient, dark ambient" role="button">
-Antimatter - Saviour (2001-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2479abd6-ae60-4776-b281-3d543d4718ae/5556494380-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Busted Stuff (2002-07-16)
@@ -126,6 +123,9 @@ Howie Day - Stop All The World Now (2003-10-07)
 <li data-cover="http://coverartarchive.org/release/76246305-0500-3105-a779-3a494105b65f/22592489423-500.jpg" data-tags="acoustic, acoustic guitar, andy mckee, instrumental" role="button">
 Andy McKee - Dreamcatcher (2004)
 </li>
+<li data-cover="http://coverartarchive.org/release/3194a7cc-fc92-3182-bd73-e1b23fa54ff9/3625624015-500.jpg" data-tags="french, chanson, pop, singer-songwriter, acoustic rock, francais, francophone, france, happiness, french happiness" role="button">
+Miossec - 1964 (2004-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/db367585-903f-4e9b-94f9-02093795dc2f/14971932845-500.jpg" data-tags="acoustic" role="button">
 Godsmack - The Other Side (2004-03-16)
 </li>
@@ -143,6 +143,9 @@ The Calling - Two (2004-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/0982a80d-b63b-339c-9bb3-16799e5efb50/1724551044-500.jpg" data-tags="maroon 5, rock" role="button">
 Maroon 5 - 1.22.03.Acoustic (2004-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/5bb767b7-6973-4e14-a976-02122f21b1da/6045290014-500.jpg" data-tags="classic rock, acoustic, singer-songwriter, rock" role="button">
+John Lennon - Acoustic (2004-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
@@ -171,16 +174,19 @@ Antoine Dufour - Naissance (2005-11-15)
 <li data-cover="http://coverartarchive.org/release/780d907d-ff5b-4738-b6a4-dac0b70f759a/6046958479-500.jpg" data-tags="rock, alternative, alternative rock, acoustic" role="button">
 Trading Yesterday - More Than This (2006)
 </li>
+<li data-cover="https://img.discogs.com/1Qw8w4S56Z209JKSkoOU5GfDBOE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3264908-1371676917-4946.jpeg.jpg" data-tags="indie rock" role="button">
+The New Amsterdams - Killed or Cured (2006-01-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/7df49ccd-3a84-4424-8ffa-07f660ba4865/10866678503-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Green Carnation - The Acoustic Verses (2006-01-24)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
+<li data-cover="https://img.discogs.com/NNPyahSxPvcpMhtifWocUMMESsE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027341-1355764748-6870.jpeg.jpg" data-tags="indie" role="button">
 The New Amsterdams - Story Like A Scar (2006-03)
 </li>
 <li data-cover="https://img.discogs.com/N7pXutkmWaprRKwYS6YZp5bZoPY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3747982-1471215818-2443.jpeg.jpg" data-tags="indie, rock, emo, indie rock, acoustic, acoustic rock, jay-z, glory, sun and moon and stars and outer space, rookie album, stephkicks" role="button">
 Rookie of the Year - The Goodnight Moon (2006-04-11)
 </li>
-<li data-cover="https://img.discogs.com/Lbx9N_QVLXyV53ujYKYVT9qAWvY=/fit-in/155x155/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-703341-1149633179.jpeg.jpg" data-tags="folk, singing songwriters, alternative, donavon frankenreiter" role="button">
+<li data-cover="https://img.discogs.com/nOBAugDW1cb0hj4Wxp87YQC90wc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1516652-1586769598-1199.jpeg.jpg" data-tags="folk, singing songwriters, alternative, donavon frankenreiter" role="button">
 Donavon Frankenreiter - Move By Yourself (2006-06-06)
 </li>
 <li data-cover="https://img.discogs.com/QPMnXIE11R-Bfg_UmDD19W68Udc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288391-1206675152.jpeg.jpg" data-tags="emo" role="button">
@@ -195,7 +201,7 @@ Matt Wertz - Everything In Between (2006-09)
 <li data-cover="http://coverartarchive.org/release/595f26f8-ae7a-47ae-9229-9c6ac0484f83/1043833580-500.jpg" data-tags="rock, acoustic, unplugged" role="button">
 Chris Cornell - Unplugged in Sweden (2006-09-07)
 </li>
-<li data-cover="https://img.discogs.com/xTkqBQB9WlYRR_wctaBA_Hz677k=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10328618-1495404088-7368.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
+<li data-cover="https://img.discogs.com/a9-NuRnMchaB4Nxk4oZYnJdkC6o=/fit-in/599x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3393470-1328660443.jpeg.jpg" data-tags="indie, rock, indie rock, singer-songwriter" role="button">
 Ben Kweller - Ben Kweller (2006-09-19)
 </li>
 <li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
@@ -206,6 +212,9 @@ Antimatter - Leaving Eden (2007-04-13)
 </li>
 <li data-cover="https://img.discogs.com/uP7OSNvHPtEOToQTXuZU0PGJyAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963312-1475914392-4721.jpeg.jpg" data-tags="folk rock" role="button">
 The Nightwatchman - One Man Revolution (2007-04-24)
+</li>
+<li data-cover="https://img.discogs.com/Wq5CmmJTvdFJFRZyR9wVwfbyuEQ=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2077383-1262695007.jpeg.jpg" data-tags="acoustic" role="button">
+Ben Harper & The Innocent Criminals - Lifeline (2007-08-10)
 </li>
 <li data-cover="https://img.discogs.com/WOF7raIoLouZaJKqPANneAjx6o8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3999652-1351882712-6546.jpeg.jpg" data-tags="acoustic" role="button">
 Dashboard Confessional - The Shade Of Poison Trees (2007-10-01)
@@ -234,9 +243,6 @@ Artist vs. Poet - Artist Vs Poet EP (2008-11-18)
 <li data-cover="http://coverartarchive.org/release/f31d8540-2e73-435a-8855-5f8e1f633fc6/11375917391-500.jpg" data-tags="math rock, indie rock, acoustic rock, midwest emo" role="button">
 The One Up Downstairs - The One Up Downstairs Ep (2009-01-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d00a87c-549c-47a3-92b4-0887db284ffb/24925640647-500.jpg" data-tags="rock, singer-songwriter" role="button">
-Gavin DeGraw - Free (2009-03-26)
-</li>
 <li data-cover="https://img.discogs.com/e5X8Ak1Bl7nggK8EuLroLJfyjXo=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955007-1476646501-4310.jpeg.jpg" data-tags="indie pop, indie rock, pop punk, folk rock, acoustic rock, emo pop" role="button">
 Meg & Dia - Here, Here and Here (2009-04-21)
 </li>
@@ -245,9 +251,6 @@ Graham Coxon - The Spinning Top (2009-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/757bb2fe-3ecf-4e33-808f-516672d8e1bf/24020587934-500.jpg" data-tags="acoustic rock" role="button">
 Portugal. The Man - The Majestic Majesty (2009-07-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/031ff4f4-8a32-4b37-bb56-9a13adc2c84e/5536837652-500.jpg" data-tags="indie" role="button">
-Anchor & Braille - Felt (2009-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/42b43659-fcec-4297-a63c-eead1bd52668/15197220293-500.jpg" data-tags="acoustic" role="button">
 Jonny Craig - A Dream Is A Question You Don't Know How To Answer (2009-08-18)
@@ -302,9 +305,6 @@ Art of Dying - Let the Fire Burn (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f127f560-c021-49e6-992c-be629566f025/948429328-500.jpg" data-tags="rock, hard rock" role="button">
 Tenacious D - Rize of the Fenix (2012-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/93b01ce2-b4fd-4cd4-970d-36bb9fcb3982/1040620615-500.jpg" data-tags="blues rock" role="button">
-John Mayer - Born and Raised (2012-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b9745c0-7729-4d2d-805e-836d136074bb/1258644423-500.jpg" data-tags="acoustic" role="button">
 Sleeping with Sirens - If You Were a Movie, This Would Be Your Soundtrack (2012-06-26)

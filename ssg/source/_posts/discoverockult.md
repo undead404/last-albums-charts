@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T08:20:01.463Z
+date: 2021-04-09T19:43:01.444Z
 title: "discoverockult: 100 albums you must listen to before you die"
 ---
 ![Parachute - Losing Sleep (2009-05-19)](https://img.discogs.com/-4k6yj9peG2QjouTMx-c71e6M7Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001620-1454964915-3476.jpeg.jpg "Parachute - Losing Sleep (2009-05-19)")
@@ -69,9 +69,6 @@ The Calling - Two (2004-05-24)
 <li data-cover="https://img.discogs.com/IdL1JHbWFiV86Ap42gP0fFyCIB4=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6353074-1528281368-8135.jpeg.jpg" data-tags="alternative rock, discoverockult" role="button">
 Seven Wiser - Seven Wiser (2004-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab67e55a-087b-4320-962a-5154c6408097/2542058355-500.jpg" data-tags="dance-punk, head automatica" role="button">
-Head Automatica - Decadence (2004-08-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/1a0882a3-6ae2-4c6f-a6d4-3c43bd466223/26393038913-500.jpg" data-tags="alternative rock" role="button">
 Faktion - Faktion (2005)
 </li>
@@ -83,6 +80,9 @@ Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/466db66a-76be-4409-8429-c4bf29dfbf09/24219190810-500.jpg" data-tags="christian rock" role="button">
 The Afters - I Wish We All Could Win (2005-02-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a8be8fc-520f-4b09-bca2-97a6900a33b6/4226651594-500.jpg" data-tags="alternative rock, rock" role="button">
+Acceptance - Phantoms (2005-04-26)
 </li>
 <li data-cover="https://img.discogs.com/HeCVoF8Y4QFel9ypPxY6QwVkkng=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3819928-1345676693-3574.jpeg.jpg" data-tags="discoverockult" role="button">
 Waking Ashland - Composure (2005-05-01)
@@ -108,9 +108,6 @@ My Chemical Romance - Famous Last Words (2006)
 <li data-cover="http://coverartarchive.org/release/2d75db49-7e81-44e5-a62d-94fc503b51e1/5808070868-500.jpg" data-tags="emo, discoverockult" role="button">
 One Less Reason - Getting back your self esteem (2006)
 </li>
-<li data-cover="http://coverartarchive.org/release/ca84182b-c2f1-462f-8945-2807299c0cad/20354021876-500.jpg" data-tags="indie" role="button">
-Nightmare Of You - Nightmare of You (2006)
-</li>
 <li data-cover="https://img.discogs.com/QHEL4tbvuyDw1UB0JRnzqduSHeY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4834565-1379116547-7916.jpeg.jpg" data-tags="indie, lesser known but amazing, discoverockult, rockadd" role="button">
 Thriving Ivory - Thriving Ivory (2006)
 </li>
@@ -132,11 +129,11 @@ Orson - Bright Idea (2006-05-15)
 <li data-cover="http://coverartarchive.org/release/c40c66dc-d6a2-4746-bd9b-61b8ac735520/28019395112-500.jpg" data-tags="catchy, reality tv, discoverockult, diesunddas:-9, newrocktrackradio:-9" role="button">
 Ashley Parker Angel - Soundtrack To Your Life (2006-05-16)
 </li>
-<li data-cover="https://img.discogs.com/goGcE-KNEUn3iTieD9J7XVAC5V4=/fit-in/598x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-717884-1206294721.jpeg.jpg" data-tags="indie, indie rock" role="button">
-Boy Kill Boy - Civilian (2006-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/04554003-dbd8-49d0-b265-ae0fd722ec88/4889589228-500.jpg" data-tags="alternative rock, discoverockult" role="button">
 The Classic Crime - Albatross (2006-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/6495f98d-be42-4736-913c-34a7a2a6d858/20315320453-500.jpg" data-tags="discoverockult" role="button">
+Dave Melillo - Talk Is Cheap (2006-06-13)
 </li>
 <li data-cover="https://img.discogs.com/T8PdE4vvENQ9bt6u49agyldw9lg=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982395-1180504827.jpeg.jpg" data-tags="snow patrol" role="button">
 Snow Patrol - Chasing Cars (2006-06-24)
@@ -144,7 +141,7 @@ Snow Patrol - Chasing Cars (2006-06-24)
 <li data-cover="http://coverartarchive.org/release/34a322de-e4ef-4861-a7ad-640644606d92/2503909808-500.jpg" data-tags="alternative rock" role="button">
 Five for Fighting - Two Lights (2006-08-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="disco, electropop, pop, indie pop, electroclash, indietronica, discoverockult, makes me move my feets, dance and electronic, robot disco, liner recommends, nice album covers, dancing shoes on, electrofusion, daniels album collection, me time, suppie" role="button">
+<li data-cover="https://img.discogs.com/xYdBGPQlqc6610poNFiGPw4RnHk=/fit-in/537x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179457-1296356386.jpeg.jpg" data-tags="disco, electropop, pop, indie pop, electroclash, indietronica, discoverockult, makes me move my feets, dance and electronic, robot disco, liner recommends, nice album covers, dancing shoes on, electrofusion, daniels album collection, me time, suppie" role="button">
 Under The Influence of Giants - Under The Influence Of Giants (2006-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-grunge, crossfade" role="button">
@@ -183,9 +180,6 @@ Dead Letter Circus - Dead Letter Circus (2007-05-05)
 <li data-cover="http://coverartarchive.org/release/d3bcc9c4-179f-4810-92a8-99cb4e58a520/8765400755-500.jpg" data-tags="indie rock" role="button">
 The Cribs - Men's Needs, Women's Needs, Whatever (2007-05-21)
 </li>
-<li data-cover="https://img.discogs.com/LS6YvLqJM42o_4j5uuWmBuDdLIo=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-981546-1507239718-9950.jpeg.jpg" data-tags="indie, rock" role="button">
-Mumm-Ra - These Things Move In Threes (2007-05-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/b3ee7754-5095-4180-9714-fa42f5dfd06a/12102234555-500.jpg" data-tags="alternative" role="button">
 The Fray - Over My Head (Cable Car) (2007-06-11)
 </li>
@@ -198,8 +192,8 @@ Powerspace - The Kicks Of Passion (2007-07-31)
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/7e12a9c9-7397-4cfd-a515-5fa0fb0bc7d5/7170999378-500.jpg" data-tags="alternative, dance, electronic alternative, california in the summer" role="button">
-Metro Station - Metro Station (2007-09-18)
+<li data-cover="https://img.discogs.com/4NH9NJWFUt7859lzw92B8MDmMeI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1093703-1264853371.jpeg.jpg" data-tags="rock, poison kiss" role="button">
+The Last Goodnight - Poison Kiss (2007-08-28)
 </li>
 <li data-cover="https://img.discogs.com/yLC8neE3FmyAUk_P6IYoZDj_9X0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2265381-1273254827.jpeg.jpg" data-tags="rock, yum, discoverockult, stuff i need" role="button">
 Stereoside - So Long (2007-09-25)
@@ -230,6 +224,9 @@ Boyce Avenue - All You're Meant to Be (2008-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f3b2e4d-4df3-46c6-82d5-d4c849dbe3a9/1805720468-500.jpg" data-tags="saving abel, rock" role="button">
 Saving Abel - Saving Abel (2008-03-11)
+</li>
+<li data-cover="https://img.discogs.com/tsSPyzF7appgV9KYiyno_tDreiw=/fit-in/570x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3884842-1352603741-4657.jpeg.jpg" data-tags="discoverockult, toevoegen mm" role="button">
+Alive In Wild Paint - Ceilings (2008-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c60645e-049c-465c-94e9-90dc4fd0900e/20524117250-500.jpg" data-tags="calm, discoverockult, sun and moon and stars and outer space, rated 100, at times theatrical, soft yet powerful" role="button">
 Ferras - Aliens & Rainbows (2008-04-01)
@@ -263,6 +260,9 @@ Jet Black Stare - In This Life (2008-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f72087a-1354-416d-9fc9-bb744f3bd5f5/4063077006-500.jpg" data-tags="discoverockult" role="button">
 The Classic Crime - The Silver Cord (2008-07-22)
+</li>
+<li data-cover="https://img.discogs.com/qIlRCqGiLGQE03vXuJGNrt4lwok=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8126311-1455633525-8675.jpeg.jpg" data-tags="discoverockult" role="button">
+Eye Alaska - Yellow & Elephant (2008-07-22)
 </li>
 <li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Anberlin - New Surrender (2008-09-30)
@@ -312,7 +312,7 @@ Say Anything - Say Anything (2009-11-03)
 <li data-cover="http://coverartarchive.org/release/e4edd26a-d8a8-41d3-a0af-e22491bbc264/15663319760-500.jpg" data-tags="alternative rock, discoverockult" role="button">
 Plan Three - Screaming Our Sins (2009-11-25)
 </li>
-<li data-cover="https://img.discogs.com/jbYkCAQsUzUNpuPc9U7xKndaQ_A=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16169489-1604635021-4800.jpeg.jpg" data-tags="rock, lifehouse" role="button">
+<li data-cover="https://img.discogs.com/fQHNOqpx7Y7c0YHE4skjYWlMq9I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259635-1280745146.jpeg.jpg" data-tags="rock, lifehouse" role="button">
 Lifehouse - Smoke & Mirrors (2010-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cb7badd-7ee4-4fce-a1d1-65cecbcbf796/12182742905-500.jpg" data-tags="pop, rock, rawr, discoverockult" role="button">

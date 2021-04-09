@@ -1,14 +1,14 @@
 ---
-date: 2021-04-05T08:32:21.191Z
+date: 2021-04-09T19:28:01.481Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
-![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
+![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/PyL0yruRYNuqkpe9YHdsjjod9d8=/fit-in/600x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11515346-1517703332-9906.jpeg.jpg" data-tags="grunge" role="button">Melvins - Houdini (1993-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/20447c55-29ca-4092-8f27-5f3c4099ffad/7852400971-500.jpg" data-tags="sludge metal, stoner metal" role="button">Down - NOLA (1995-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/55ac12a2-1d33-48e7-999c-5cd7556fa205/5554341905-500.jpg" data-tags="grunge" role="button">Alice in Chains - Alice in Chains (1995-11-07)</li>
 <li data-cover="http://coverartarchive.org/release/75cf454a-8b47-49f4-8472-6ccd7ab19d6b/25054291801-500.jpg" data-tags="progressive metal" role="button">Mastodon - Remission (2002-05-28)</li>
-<li data-cover="https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">Mastodon - Leviathan (2004-08-31)</li>
+<li data-cover="https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">Mastodon - Leviathan (2004-08-31)</li>
 <li data-cover="http://coverartarchive.org/release/8d683762-19ec-4f8f-8714-ab3cabe115fe/7006792441-500.jpg" data-tags="progressive metal" role="button">Mastodon - Blood Mountain (2006-09-08)</li>
 <li data-cover="http://coverartarchive.org/release/d5526d95-9288-4f45-ac86-9ff465792ecb/1369815832-500.jpg" data-tags="progressive metal, sludge metal, sludge" role="button">Baroness - Red Album (2007-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">Mastodon - Crack the Skye (2009-02-23)</li>
@@ -123,7 +123,7 @@ The Ocean - Fluxion (2004-08-23)
 <li data-cover="http://coverartarchive.org/release/e49980be-ea93-4d03-ab54-e64e3443a2ba/1049941326-500.jpg" data-tags="experimental rock, dark ambient, sludge metal" role="button">
 Melvins & Lustmord - Pigs of the Roman Empire (2004-08-23)
 </li>
-<li data-cover="https://img.discogs.com/DzYv2SyYXKw877nDF23G2SqECWY=/fit-in/348x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3079565-1537752954-3704.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">
+<li data-cover="https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg" data-tags="whalecore, progressive metal" role="button">
 Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
@@ -168,7 +168,7 @@ Isis - In the Absence of Truth (2006-10-06)
 <li data-cover="http://coverartarchive.org/release/2426b160-cf55-4ac7-b19d-1f8baf81c9af/14873258376-500.jpg" data-tags="sludge metal" role="button">
 Kylesa - Time Will Fuse Its Worth (2006-10-31)
 </li>
-<li data-cover="https://img.discogs.com/vj7wJSle8MN83suo5lWwqcDBilI=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16067776-1602860451-1446.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/248fe464-fbd4-4710-90ef-5d3fefa4b9c8/27407104772-500.jpg" data-tags="doom metal, sludge, sludge metal" role="button">
@@ -306,11 +306,11 @@ Kylesa - Ultraviolet (2013-05-24)
 <li data-cover="http://coverartarchive.org/release/7900d2b9-0d98-4a66-92c1-c47d90750031/6631616700-500.jpg" data-tags="doom metal, sludge metal" role="button">
 SubRosa - More Constant Than The Gods (2013-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/e7d23c24-e217-440e-b527-1751a5255478/13466791800-500.jpg" data-tags="metal, doom metal, drone, dark ambient, sludge metal, drone metal, soundtrack to the apocalypse, bone-crushing, 2014: favourite albums, lament for a dying world" role="button">
+The Body - I Shall Die Here (2014-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/1499ebc5-37da-4fcd-a97b-ad925b326fea/27952413825-500.jpg" data-tags="2014: albums" role="button">
 Thou - Heathen (2014-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/cf8d41ff-cf5b-487a-aec8-71c44a77f738/7339811147-500.jpg" data-tags="sludge metal" role="button">
-Eyehategod - Eyehategod (2014-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a5b3b9-5e56-4f04-86fd-877c99cd720d/8102222224-500.jpg" data-tags="experimental, noise rock, shoegaze" role="button">
 Boris - Noise (2014-06-16)

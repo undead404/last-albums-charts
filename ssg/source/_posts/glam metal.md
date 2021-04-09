@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T10:58:02.007Z
+date: 2021-04-09T19:45:01.671Z
 title: "glam metal: 100 albums you must listen to before you die"
 ---
 ![Bon Jovi - Slippery When Wet (1986-08-25)](https://img.discogs.com/nOEna0s-x0VMH8RYTIGFaPXXoNE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7580053-1444472249-3116.jpeg.jpg "Bon Jovi - Slippery When Wet (1986-08-25)")
@@ -10,7 +10,7 @@ title: "glam metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">Mötley Crüe - Theatre Of Pain (1985-06-21)</li>
 <li data-cover="http://coverartarchive.org/release/994822e7-7540-47bd-af14-a17ebdea73fd/9962706585-500.jpg" data-tags="hard rock, 80s" role="button">Europe - The Final Countdown (1986)</li>
 <li data-cover="https://img.discogs.com/nOEna0s-x0VMH8RYTIGFaPXXoNE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7580053-1444472249-3116.jpeg.jpg" data-tags="hard rock, rock, 80s" role="button">Bon Jovi - Slippery When Wet (1986-08-25)</li>
-<li data-cover="https://img.discogs.com/mIcFtqhNUyEutEFq0CLReELGlrc=/fit-in/600x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994663-1431258603-9027.jpeg.jpg" data-tags="hard rock, glam metal" role="button">Mötley Crüe - Girls, Girls, Girls (1987-07-10)</li>
+<li data-cover="https://img.discogs.com/vPBaPOfGv-s6atEihUmcIAsTGqA=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2078409-1262748089.jpeg.jpg" data-tags="hard rock, glam metal" role="button">Mötley Crüe - Girls, Girls, Girls (1987-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/4567b29b-ab25-4076-8154-f05306a2c9aa/17137471061-500.jpg" data-tags="hard rock, glam metal" role="button">Cinderella - Long Cold Winter (1988-07-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">Mötley Crüe - Dr. Feelgood (1989-09-01)</li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">Steel Panther - Feel the Steel (2009-06-08)</li>
@@ -60,7 +60,7 @@ Pantera - Projects in the Jungle (1984)
 <li data-cover="https://img.discogs.com/p0RivTvNvywCM_BAq9mPfz5a12I=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592241-1420027673-8932.jpeg.jpg" data-tags="hair metal" role="button">
 Autograph - Sign In Please (1984)
 </li>
-<li data-cover="https://img.discogs.com/r0ak_Yh6xKRBcUUns0L0D4JhhBg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2107356-1264386999.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/-JqJFc6BmjCh6LhH6XPrUCF8F6Y=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076764-1454931862-1067.jpeg.jpg" data-tags="80s, glam rock, hard rock" role="button">
 Hanoi Rocks - Two Steps From the Move (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/65f0ee57-c6e6-4e2a-8812-dfd2b2404b1b/13480467728-500.jpg" data-tags="rock, 80s, hard rock" role="button">
@@ -96,10 +96,10 @@ Europe - The Final Countdown (1986)
 <li data-cover="http://coverartarchive.org/release/a16cd7e1-dc94-454a-987b-12d482a9e32c/21350642973-500.jpg" data-tags="heavy metal" role="button">
 Ozzy Osbourne - The Ultimate Sin (1986-02-22)
 </li>
-<li data-cover="https://img.discogs.com/dM9hTK0N55rsuUOeCv0uRxzQf6o=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2100789-1471120878-5202.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/t-R_o8q9EP-Xf87sGf7VwhhXUws=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14401930-1573793996-9800.jpeg.jpg" data-tags="heavy metal" role="button">
 Judas Priest - Turbo (1986-04-14)
 </li>
-<li data-cover="https://img.discogs.com/usA5WKVSDws5YsiVjoglAu1X5tM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1254838-1390848588-3538.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
+<li data-cover="https://img.discogs.com/O_dJKu1SYkh34x579QbqvLhCn0Y=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8247445-1469031591-4337.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
 Poison - Look What the Cat Dragged In (1986-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbecf043-e978-4626-9dfc-e1cbfc53012a/19325894147-500.jpg" data-tags="hard rock" role="button">
@@ -107,6 +107,9 @@ Cinderella - Night Songs (1986-06)
 </li>
 <li data-cover="https://img.discogs.com/nOEna0s-x0VMH8RYTIGFaPXXoNE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7580053-1444472249-3116.jpeg.jpg" data-tags="hard rock, rock, 80s" role="button">
 Bon Jovi - Slippery When Wet (1986-08-25)
+</li>
+<li data-cover="https://img.discogs.com/hJB40h5YEHr6ORqxaYcLf2EZ8PQ=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3780023-1499060326-4529.jpeg.jpg" data-tags="glam metal" role="button">
+Ratt - Dancing Undercover (1986-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d42068d-ca5d-46d5-b1ea-0021ade6d384/15596864588-500.jpg" data-tags="hard rock, glam metal, glam punk" role="button">
 Faster Pussycat - Faster Pussycat (1987)
@@ -120,10 +123,10 @@ White Lion - Pride (1987-04)
 <li data-cover="http://coverartarchive.org/release/aec11206-49ce-48d9-8a2d-754a696cfb3a/20752832103-500.jpg" data-tags="glam metal" role="button">
 Great White - Once Bitten (1987-04-01)
 </li>
-<li data-cover="https://img.discogs.com/Q0BXYw0diKl0rhSbQ6WYZ-T3vHM=/fit-in/394x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3804484-1345074899-1043.jpeg.jpg" data-tags="classic rock" role="button">
+<li data-cover="https://img.discogs.com/1OkGnqX46pz8jza_f83gdSTJHtE=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13127015-1548527652-6910.jpeg.jpg" data-tags="classic rock" role="button">
 Heart - Bad Animals (1987-06-05)
 </li>
-<li data-cover="https://img.discogs.com/mIcFtqhNUyEutEFq0CLReELGlrc=/fit-in/600x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994663-1431258603-9027.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
+<li data-cover="https://img.discogs.com/vPBaPOfGv-s6atEihUmcIAsTGqA=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2078409-1262748089.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
 Mötley Crüe - Girls, Girls, Girls (1987-07-10)
 </li>
 <li data-cover="https://img.discogs.com/JfDrrPTDdS04dLR1uOC9OPCZ0bk=/fit-in/550x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5773474-1402468848-3667.jpeg.jpg" data-tags="hard rock" role="button">
@@ -141,9 +144,6 @@ Poison - Open Up and Say... Ahh! (1988)
 <li data-cover="http://coverartarchive.org/release/1efc2fa2-7535-3751-aa9c-70d63dcb5912/26677518395-500.jpg" data-tags="heavy metal" role="button">
 Pantera - Power Metal (1988)
 </li>
-<li data-cover="https://img.discogs.com/FKTGAQvwr4FJf0yvNyk0VOsbtX8=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-808145-1357517035-3919.jpeg.jpg" data-tags="hair metal, glam metal" role="button">
-L.A. Guns - L.A. Guns (1988-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/decbc9c9-02bb-4d2c-8998-90775a2266e8/13474985144-500.jpg" data-tags="hard rock, female vocalist, 80s, glam metal, heavy metal, hair metal" role="button">
 Lita Ford - Lita (1988-02-02)
 </li>
@@ -156,7 +156,7 @@ Cinderella - Long Cold Winter (1988-07-05)
 <li data-cover="http://coverartarchive.org/release/bcaca228-087a-497d-8323-2acda2716379/24541569220-500.jpg" data-tags="hard rock" role="button">
 Vixen - Vixen (1988-07-06)
 </li>
-<li data-cover="https://img.discogs.com/yesKPgVJJ3fjyiVQlDyB1bqpmYI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6103135-1452347572-3451.png.jpg" data-tags="80s, hard rock" role="button">
+<li data-cover="https://img.discogs.com/LIyq3NCZJ4qy0E7QG-usM6DEDi4=/fit-in/597x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9393257-1479762394-1426.jpeg.jpg" data-tags="80s, hard rock" role="button">
 Europe - Out of This World (1988-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c739cba6-9dc7-4ef6-bcc0-47cf9d68cf08/13723459826-500.jpg" data-tags="hard rock" role="button">
@@ -177,7 +177,7 @@ Pretty Boy Floyd - Leather Boyz With Electric Toyz (1989)
 <li data-cover="http://coverartarchive.org/release/6d576c0a-ec20-4386-8fef-677585e393ee/2010619588-500.jpg" data-tags="hard rock" role="button">
 Skid Row - Skid Row (1989-01-24)
 </li>
-<li data-cover="https://img.discogs.com/dkbqDxhqvsiV_SgBhK9b8xHQTBs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3085750-1518194666-6785.jpeg.jpg" data-tags="80s, hard rock, hair metal, glam, glam rock" role="button">
+<li data-cover="https://img.discogs.com/9l6wZJJjmtn4fFUFfL_76B3l7IY=/fit-in/353x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3776198-1343964143-5438.jpeg.jpg" data-tags="80s, hard rock, hair metal, glam, glam rock" role="button">
 Danger Danger - Danger Danger (1989-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d17108-0217-36e6-9110-b7f24ab6da8f/15488113760-500.jpg" data-tags="hard rock" role="button">
@@ -249,7 +249,7 @@ Manic Street Preachers - Gold Against the Soul (1993-06-24)
 <li data-cover="http://coverartarchive.org/release/5472ddb2-c459-4c56-aa37-52183a94e893/18824258894-500.jpg" data-tags="hard rock, the best of warrant, warrant" role="button">
 Warrant - The Best of Warrant (1996-04-02)
 </li>
-<li data-cover="https://img.discogs.com/lMDER_3MMnFFjHhmY8LvrSBQitY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9395020-1479807324-1662.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
+<li data-cover="https://img.discogs.com/mILUluzBR1jukmBkzybamUALaus=/fit-in/560x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5272465-1389267090-2726.jpeg.jpg" data-tags="hard rock, glam metal" role="button">
 Mötley Crüe - Generation Swine (1997-05-25)
 </li>
 <li data-cover="https://img.discogs.com/9xAvUxkg5bNCnelAmCmBJPXGRls=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14550867-1576926701-1735.jpeg.jpg" data-tags="heavy metal, hard rock, motley crue" role="button">
@@ -261,13 +261,13 @@ Marilyn Manson - The Last Tour On Earth (1999-11-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Mötley Crüe - New Tattoo (2000-07-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="horror punk" role="button">
+<li data-cover="https://img.discogs.com/ACDOvN4An4nOhtThe6dpg9ALWr4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372413-1268622380.jpeg.jpg" data-tags="horror punk" role="button">
 Murderdolls - Beyond the Valley of the Murderdolls (2002-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c94fb29-a822-4ea8-a995-c5a7aecf8cdb/15192894490-500.jpg" data-tags="hard rock, kiss, classic rock, rock" role="button">
 Kiss - The Very Best of Kiss (2002-08-27)
 </li>
-<li data-cover="https://img.discogs.com/-pNO1Qw9sSNG69I-wiY2tSYprlU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814196-1167785283.jpeg.jpg" data-tags="hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">
 The Darkness - Permission to Land (2003-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f6995ca-c2cf-4820-bbc3-75fa80b2ba1d/24465393066-500.jpg" data-tags="heavy metal, 80s" role="button">

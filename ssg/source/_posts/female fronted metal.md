@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T08:43:01.440Z
+date: 2021-04-09T19:40:01.455Z
 title: "female fronted metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -7,7 +7,7 @@ title: "female fronted metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5518dcfd-bcc5-422e-9f85-69d771cd2f5a/5961563350-500.jpg" data-tags="gothic rock, rock, gothic, evanescence" role="button">Evanescence - Origin (2000-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/1d1d160c-0fed-40ae-b781-187ce6b92ba5/12895444510-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Within Temptation - Mother Earth (2000-12-04)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
-<li data-cover="http://coverartarchive.org/release/e862e298-ccaf-4575-889a-3198571bb2ed/1048113221-500.jpg" data-tags="symphonic metal, gothic metal" role="button">Leaves' Eyes - Lovelorn (2004-05-24)</li>
+<li data-cover="http://coverartarchive.org/release/eeacaa3d-9dc7-46f7-87c9-5db596248467/1042409213-500.jpg" data-tags="female fronted metal, gothic metal, symphonic metal, krypteria" role="button">Krypteria - In Medias Res (2005-07-25)</li>
 <li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">Lacuna Coil - Karmacode (2006-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">Within Temptation - The Heart of Everything (2007-03-09)</li>
@@ -36,6 +36,9 @@ Nightwish - Oceanborn (1998-12-07)
 <li data-cover="http://coverartarchive.org/release/e12ca663-cfe8-4796-b6e2-7bf73cf23723/4972030151-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - In a Reverie (1999-02-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/31566067-8cb5-46ca-9635-d9a623a84676/4343012782-500.jpg" data-tags="evanescence" role="button">
+Evanescence - Sound Asleep EP (1999-08)
+</li>
 <li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Wishmaster (2000-05-02)
 </li>
@@ -51,7 +54,7 @@ After Forever - Decipher (2001)
 <li data-cover="http://coverartarchive.org/release/806f4fd4-46c1-47ab-ace0-6e9a8918b1f8/17661057834-500.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Unleashed Memories (2001-01-18)
 </li>
-<li data-cover="https://img.discogs.com/k6nwq8unLw_b0w2OTfceJ7KnHYg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1235200-1551185779-4769.jpeg.jpg" data-tags="symphonic metal" role="button">
+<li data-cover="https://img.discogs.com/NL4lAQ9lmg5N7KfeXHmmdPjUYd8=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2573584-1439747491-5758.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Over the Hills and Far Away (2001-06-25)
 </li>
 <li data-cover="https://img.discogs.com/Hc-kerojMLeDgG8YtSZ7CD4DH1U=/fit-in/451x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1185361-1199497793.jpeg.jpg" data-tags="gothic metal" role="button">
@@ -74,9 +77,6 @@ Within Temptation - Running Up That Hill (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d249f7e-dce5-4b9e-a7d2-ebe90932b742/1005593114-500.jpg" data-tags="symphonic metal, power metal" role="button">
 Edenbridge - Aphelion (2003-01-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
-Emilie Autumn - Enchant (2003-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
@@ -216,10 +216,10 @@ Tarja - My Winter Storm (2007-11-14)
 <li data-cover="http://coverartarchive.org/release/6fcba7d8-952b-4cd9-b9f5-eb3d7550ac20/2490616264-500.jpg" data-tags="symphonic metal" role="button">
 Amberian Dawn - River of Tuoni (2008-01-30)
 </li>
-<li data-cover="https://img.discogs.com/yQ1x526fy9RBpjutuzHHXGKJB2s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6083496-1483604018-9756.jpeg.jpg" data-tags="gothic metal, female fronted metal, folk metal" role="button">
+<li data-cover="https://img.discogs.com/WV963V1glyCK9-b47e7siB0WGcA=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1431370-1243594919.jpeg.jpg" data-tags="gothic metal, female fronted metal, folk metal" role="button">
 Midnattsol - Nordlys (2008-03-28)
 </li>
-<li data-cover="https://img.discogs.com/E4w6sriYFu-i4KerVGtFk-uMSZU=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2777884-1300610692.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
+<li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/05bfd66c-2689-498b-bbd3-05e7d62cbefe/963414452-500.jpg" data-tags="symphonic metal" role="button">
@@ -228,14 +228,14 @@ Delain - April Rain (2009-02-09)
 <li data-cover="http://coverartarchive.org/release/e5fb9bf5-34bf-48d0-af0d-ffeee250d2bc/8755735786-500.jpg" data-tags="metalcore, melodic death metal" role="button">
 The Agonist - Lullabies For The Dormant Mind (2009-02-20)
 </li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/03666113-97e0-44dc-a3fd-71f15b3bc1e7/14899098997-500.jpg" data-tags="gothic metal, alternative metal" role="button">
 Lacuna Coil - Shallow Life (2009-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a14bb909-c0d7-4b5a-9d56-38682f035347/1075985212-500.jpg" data-tags="hair metal, glam metal, heavy metal" role="button">
 Steel Panther - Feel the Steel (2009-06-08)
+</li>
+<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
+Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/888e2e75-e1e8-4721-baaa-b92c7c86ea63/1048225534-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
 Leaves' Eyes - Njord (2009-08-26)
@@ -258,7 +258,7 @@ Deafheaven - Demo (2010-06-01)
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
 </li>
-<li data-cover="https://img.discogs.com/9a1VON74XBTu7wJGlvfziZuq1Ok=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930875-1517967292-9252.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/UrUuY5q3ysEltBRiGcgIzCBV408=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3744461-1342620352-1682.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Motionless in White - Creatures (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/d92956b1-6fb3-4c9c-92d1-c3f96a216b62/9301653943-500.jpg" data-tags="heavy metal" role="button">
@@ -270,16 +270,16 @@ Within Temptation - The Unforgiving (2011-03-25)
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
 </li>
-<li data-cover="https://img.discogs.com/XLw4SFjMwkqfXrMTK9Is1wilpUM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11111294-1510053892-5608.jpeg.jpg" data-tags="melodic death metal" role="button">
+<li data-cover="https://img.discogs.com/zoFZZZdbQGXBgTAfb7zY427DyK8=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3012588-1316167327.jpeg.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Khaos Legions (2011-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Set the World on Fire (2011-06-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
+<li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
 </li>
-<li data-cover="https://img.discogs.com/Mu2NzYT7BNQTF-nzTnBETQbp23A=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370741-1348466941-7855.jpeg.jpg" data-tags="glam metal" role="button">
+<li data-cover="https://img.discogs.com/NHlIhOLt6Oe2WihQ5CbADOkR-fA=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3409360-1479847658-3626.jpeg.jpg" data-tags="glam metal" role="button">
 Steel Panther - Balls Out (2011-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/022fa0a2-10ef-4b38-9d76-ed89dfe5952a/1060294845-500.jpg" data-tags="symphonic metal" role="button">
@@ -306,7 +306,7 @@ Ghost - Infestissumam (2013-04-10)
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
+<li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Attila - About That Life (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
@@ -315,10 +315,10 @@ BABYMETAL - BABYMETAL (2014-02-26)
 <li data-cover="http://coverartarchive.org/release/479a71e8-54e5-4d6b-a728-c16790088282/9929378348-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - Black Veil Brides (2014-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
+<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Bring Me the Horizon - Drown (2014-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/896c0f0f-4c7f-4359-96a6-d5c1e00627a2/8852141954-500.jpg" data-tags="female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, deathcore, brutal death metal, nsbm, gay metal, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, the gayest thing ever to happen to music, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay, metalcore, hair metal" role="button">
+<li data-cover="http://coverartarchive.org/release/896c0f0f-4c7f-4359-96a6-d5c1e00627a2/8852141954-500.jpg" data-tags="female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, deathcore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay, metalcore, hair metal" role="button">
 Attila - Guilty Pleasure (2014-11-24)
 </li>
 </ol>

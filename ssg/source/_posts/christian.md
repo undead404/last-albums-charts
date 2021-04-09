@@ -1,19 +1,19 @@
 ---
-date: 2021-04-07T12:23:01.529Z
+date: 2021-04-09T19:06:01.472Z
 title: "christian: 100 albums you must listen to before you die"
 ---
-![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
+![Relient K - Mmhmm (2004-11-02)](https://img.discogs.com/iJskKmwAOtSy8DqLjYHV9iZZqL8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104965-1264272700.jpeg.jpg "Relient K - Mmhmm (2004-11-02)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">P.O.D. - Satellite (2001-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">Switchfoot - The Beautiful Letdown (2003-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/5fa87c4d-8e2c-4a00-89ab-1ae980031264/9420368954-500.jpg" data-tags="christian" role="button">Casting Crowns - Casting Crowns (2003-09-30)</li>
 <li data-cover="http://coverartarchive.org/release/6281f0d7-1aa6-43b1-abd9-ee0ca999fb26/2220888510-500.jpg" data-tags="christian rock" role="button">Skillet - Collide (2003-11-18)</li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">Flyleaf - Flyleaf (2004-10-26)</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian, pop punk, rock" role="button">Relient K - Mmhmm (2004-11-02)</li>
+<li data-cover="https://img.discogs.com/iJskKmwAOtSy8DqLjYHV9iZZqL8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104965-1264272700.jpeg.jpg" data-tags="christian rock, christian, pop punk, rock" role="button">Relient K - Mmhmm (2004-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">Lifehouse - Lifehouse (2005-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">Emery - The Question (2005-08-02)</li>
+<li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/2fe6fa16-554f-40ca-8490-7fcb4d3852d0/6521423479-500.jpg" data-tags="metalcore" role="button">August Burns Red - Messengers (2007-06-19)</li>
-<li data-cover="http://coverartarchive.org/release/5fabdf6d-33be-4096-ba20-0a882ba7df0d/7144107814-500.jpg" data-tags="pop, dance-pop, contemporary, house, synthpop, christian, male vocalists, tagged, sweet, spam, orange, drunk, people, chelsea, tags, tag, andy, david, trump, scott, over, ccm, the, galas, king, dude, likes, this, diamanda, and, make, again, total, some, target, tagging, donald, commercialism, much, wolfe, carman, mairena, fuct, dulukk, yellow things, dulukkcore, nationstates, spambo, sevdaliza, jpoptrasher, jpoptrashercore, jpoptrasher-core, dulukk-core, lenushiromiya, lenushiromiyacore, lenushiromiya-core, contemporary muslim, animegirl77, animegirl77core, animegirl77-core, moyer, david scott, farbel, orange people, could be more out, non-favorite" role="button">RuPaul - Born Naked (2014-02-24)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,20 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, c, g, e, misc, pink, blue, green, yellow, i, d, shady, purple, b, h, w, m, l, n, v, grady, u, shady grady, clsid not unique" role="button">
+<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, pink, blue, green, yellow, shady, purple, grady, shady grady, clsid not unique" role="button">
 Bob Dylan - New Morning (1970-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d8aa5dd-b518-49e4-a074-473d18a3a691/15278425909-500.jpg" data-tags="gospel, rock, christian rock, bob dylan, christian" role="button">
-Bob Dylan - Slow Train Coming (1979-08-20)
 </li>
 <li data-cover="https://img.discogs.com/mpe3E7LXu6m3UwIUpsbV-LZ53vc=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2603096-1292697581.jpeg.jpg" data-tags="christian, christian rock" role="button">
 Jars of Clay - Jars of Clay (1995-10-24)
 </li>
 <li data-cover="https://img.discogs.com/Dqwqcs8xc25b4YSU2kZS9GmKamo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557815-1181586260.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - Jesus Freak (1995-11-21)
-</li>
-<li data-cover="https://img.discogs.com/2xIDb6k7VziS9T8IMom0TvRhY-w=/fit-in/471x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2874405-1387157216-9289.jpeg.jpg" data-tags="christian" role="button">
-Jars of Clay - Much Afraid (1997-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cbd9b78-2e57-4b3b-8d01-f768e4a9785c/11228936512-500.jpg" data-tags="pop" role="button">
 Sixpence None the Richer - Sixpence None the Richer (1997-11-22)
@@ -63,6 +57,9 @@ P.O.D. - Satellite (2001-09-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian" role="button">
 Pillar - Fireproof (2002-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/2e6fddc2-065c-4fdc-af93-4363a5412c06/4889900805-500.jpg" data-tags="indie rock" role="button">
+MAE - Destination: Beautiful (2003-02-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
 </li>
@@ -87,8 +84,8 @@ Casting Crowns - Casting Crowns (2003-09-30)
 <li data-cover="http://coverartarchive.org/release/6281f0d7-1aa6-43b1-abd9-ee0ca999fb26/2220888510-500.jpg" data-tags="christian rock" role="button">
 Skillet - Collide (2003-11-18)
 </li>
-<li data-cover="https://img.discogs.com/cLGH9C3mTzh3gokSetiDABdYOI0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-678085-1301009745.jpeg.jpg" data-tags="indie, folk" role="button">
-Sufjan Stevens - Seven Swans (2004-03-16)
+<li data-cover="http://coverartarchive.org/release/cb1853ee-65ca-3bd9-8d9e-790fac70dc28/11401878573-500.jpg" data-tags="christian" role="button">
+Delirious? - World Service (2003-12-15)
 </li>
 <li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
 Dead Poetic - New Medicines (2004-03-25)
@@ -98,6 +95,9 @@ MercyMe - Undone (2004-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Underoath - They're Only Chasing Safety (2004-06-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/814233a9-f6b0-4722-b4de-c9d60c015f45/2164745129-500.jpg" data-tags="christian rock" role="button">
+Pillar - Where Do We Go From Here (2004-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a9ed321-8fb6-4d98-9dae-408af1259e2d/25598338604-500.jpg" data-tags="christian, worship" role="button">
 Shawn McDonald - Simply Nothing (2004-08-10)
@@ -111,7 +111,7 @@ Shane & Shane - Clean (2004-10-19)
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian, pop punk, rock" role="button">
+<li data-cover="https://img.discogs.com/iJskKmwAOtSy8DqLjYHV9iZZqL8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104965-1264272700.jpeg.jpg" data-tags="christian rock, christian, pop punk, rock" role="button">
 Relient K - Mmhmm (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/069e6afe-bbc0-4599-bb83-5bb63d40ced4/11111317856-500.jpg" data-tags="christian rock, christian" role="button">
@@ -119,6 +119,9 @@ Jeremy Camp - Restored (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
 Kari Jobe - Kari Jobe (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0b40968-f389-48b1-a4e3-4ec6df5ec8d3/24383110980-500.jpg" data-tags="rock, christian" role="button">
+Spoken - Last Chance To Breathe (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
@@ -132,9 +135,6 @@ Lifehouse - Lifehouse (2005-03-22)
 <li data-cover="http://coverartarchive.org/release/36e61ace-3950-3d1b-b20f-307cbf26d383/9244569174-500.jpg" data-tags="christian, christian rock, worship, hillsong" role="button">
 Hillsong United - Look to You (2005-04-05)
 </li>
-<li data-cover="https://img.discogs.com/5pNwegKB4zuL3XyKTfzQGHsjaps=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-858659-1507380482-8841.jpeg.jpg" data-tags="indie, christian, ships ahoy" role="button">
-Denison Witmer - Are You a Dreamer? (2005-07-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">
 Emery - The Question (2005-08-02)
 </li>
@@ -143,6 +143,9 @@ Casting Crowns - Lifesong (2005-08-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Switchfoot - Nothing Is Sound (2005-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/692a0019-b859-37e2-89ca-6bb347163b25/23523583262-500.jpg" data-tags="christian" role="button">
+Delirious? - The Mission Bell (2005-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a41ab66-c9d2-4e14-b5fd-1cb5f717f8b6/2916840474-500.jpg" data-tags="metalcore" role="button">
 August Burns Red - Thrill Seeker (2005-11-08)
@@ -179,6 +182,9 @@ Anberlin - Cities (2007-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e426fa8-74fb-47ec-93df-944efb0d92df/4786675611-500.jpg" data-tags="christian, discoverockult, i love this band" role="button">
+Seventh Day Slumber - Finally Awake (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
 The Almost - Southern Weather (2007-03-30)
@@ -264,6 +270,12 @@ Mat Kearney - City Of Black & White (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/b0c8d591-6aa6-49ef-8a6a-bcd2de9b6285/26643366789-500.jpg" data-tags="metalcore, christian" role="button">
 For Today - Portraits (2009-06-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/a186870c-4b03-4fba-b6c9-b9de3ebc0105/5668102101-500.jpg" data-tags="metalcore" role="button">
+August Burns Red - Constellations (2009-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/a889c4bc-eb48-433e-a249-611ce2d8a5ea/15536962713-500.jpg" data-tags="metalcore" role="button">
+Confide - Shout The Truth (2009-08-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/68453bb1-969e-4960-8eaf-a2a1a35306eb/16546439880-500.jpg" data-tags="acoustic, christian, discoverockult, tyde moore radio" role="button">
 NEEDTOBREATHE - The Outsiders (2009-08-24)
 </li>
@@ -291,34 +303,22 @@ The Civil Wars - Barton Hollow (2011-01-10)
 <li data-cover="http://coverartarchive.org/release/ee3188af-eaae-4c38-b9ec-19d857cc1320/9243450165-500.jpg" data-tags="christian, worship, praise" role="button">
 Hillsong United - Aftermath (2011-02-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c3982f7-6753-48db-ac3f-95a59c6e5510/7458558708-500.jpg" data-tags="pop" role="button">
-RuPaul - Glamazon (2011-05-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/b1e34aa8-3e15-437d-838f-f8f5bbe4e045/15300860171-500.jpg" data-tags="folk, christian" role="button">
 Josh Garrels - Love & War & The Sea In Between (2011-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/179f2dc7-3948-4f2b-b138-50cc398c2ff8/1397581393-500.jpg" data-tags="christian, religious" role="button">
 Ashes Remain - What I've Become (2011-08-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
 <li data-cover="https://img.discogs.com/3nCzyviiL87c9IgTi3hhQDUpP2g=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930069-1592203831-1191.jpeg.jpg" data-tags="electronica, pop, dubstep, synthpop, lights, siberia" role="button">
 Lights - Siberia (2011-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/249fff88-c722-492c-9c2c-5057fde75de2/6779333944-500.jpg" data-tags="metalcore, christian, melodic metalcore" role="button">
+Demon Hunter - True Defiance (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/ba4912d1-89f5-44bb-96c7-541814c79641/3429573413-500.jpg" data-tags="rock, christian, contemporary christian" role="button">
 Hillsong United - Zion (2013-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/5fabdf6d-33be-4096-ba20-0a882ba7df0d/7144107814-500.jpg" data-tags="pop, dance-pop, contemporary, house, synthpop, christian, male vocalists, tagged, sweet, spam, orange, drunk, people, chelsea, tags, tag, andy, david, trump, scott, over, ccm, the, galas, king, dude, likes, this, diamanda, and, make, again, total, some, target, tagging, donald, commercialism, much, wolfe, carman, mairena, fuct, dulukk, yellow things, dulukkcore, nationstates, spambo, sevdaliza, jpoptrasher, jpoptrashercore, jpoptrasher-core, dulukk-core, lenushiromiya, lenushiromiyacore, lenushiromiya-core, contemporary muslim, animegirl77, animegirl77core, animegirl77-core, moyer, david scott, farbel, orange people, could be more out, non-favorite" role="button">
-RuPaul - Born Naked (2014-02-24)
 </li>
 </ol>

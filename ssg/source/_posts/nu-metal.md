@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T14:01:01.613Z
+date: 2021-04-09T19:04:01.448Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -78,6 +78,9 @@ Nonpoint - Development (2001)
 <li data-cover="http://coverartarchive.org/release/789e4855-63c7-4fe3-8148-c3dc9e1f6d47/17554289373-500.jpg" data-tags="metal, alternative metal, industrial metal" role="button">
 Mushroomhead - XX (2001-05-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/c235b68f-dedb-4bc7-a382-8e903efaa9f7/17554462709-500.jpg" data-tags="industrial, industrial rock, nu-metal" role="button">
+Professional Murder Music - Professional Murder Music (2001-05-22)
+</li>
 <li data-cover="https://img.discogs.com/BZcAVXS5bx_QwHuPWufCEzvwRqY=/fit-in/518x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4438087-1364864404-5773.jpeg.jpg" data-tags="nu metal" role="button">
 Drowning Pool - Sinner (2001-06-05)
 </li>
@@ -111,7 +114,7 @@ Soulfly - 3 (2002-06-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, hard rock, alternative rock, alternative metal, hard nurock" role="button">
 TRUSTcompany - The Lonely Position Of Neutral (2002-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/649e374f-2874-42f7-88a7-3eea4b8c25b8/23685505540-500.jpg" data-tags="nu metal, rock" role="button">
+<li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Reanimation (2002-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
@@ -198,9 +201,6 @@ Slipknot - Vol. 3: (The Subliminal Verses) (2004-05-21)
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">
 DIR EN GREY - Withering to death (2005-03-09)
 </li>
-<li data-cover="https://img.discogs.com/uJAkravpA6GYyRtoqeEzAHmXLhE=/fit-in/180x184/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2074934-1262549271.jpeg.jpg" data-tags="germany, german, hollywood, liebe, tanzen, sucht, micha, maat, nur mit dir, micha maat, der moment" role="button">
-Bosse - Kamikazeherz (2005-04-22)
-</li>
 <li data-cover="https://img.discogs.com/F6aOVv8C-vDYnIl_4GVgzevGdus=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4588605-1435672439-3852.jpeg.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - The Unquestionable Truth (Part 1) (2005-05-02)
 </li>
@@ -216,9 +216,6 @@ Cold - A Different Kind of Pain (2005-08-30)
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/c3bd3e15-556b-329c-8838-4444c9367aa9/8401417015-500.jpg" data-tags="nu metal" role="button">
-Slipknot - 9.0: Live (2005-10-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/79784f58-98d1-4a7b-b5b1-74a27b880d26/6374695874-500.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Greatest Hitz (2005-11-04)
 </li>
@@ -228,7 +225,7 @@ Korn - See You on the Other Side (2005-12-05)
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
 Papa Roach - The Paramour Sessions (2006-09-08)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/d08a98b7-0c33-40d6-b574-ff0ce1600af7/10874721129-500.jpg" data-tags="rock, alternative rock" role="button">
@@ -281,6 +278,9 @@ Nonpoint - Miracle (2010-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebc31083-e06a-4e14-a807-ae56f7ab45fb/2590754494-500.jpg" data-tags="metal, rock, alternative, hard rock, nu-metal, heavy metal of the 21st century" role="button">
 Disturbed - Disturbed (2010-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/4edde1ae-ff97-4a99-a8f7-f5cd75609148/9270169110-500.jpg" data-tags="nu metal, nu-metal" role="button">
+Taproot - Plead the Fifth (2010-05-11)
 </li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T03:36:06.970Z
+date: 2021-04-09T19:07:01.478Z
 title: "swing: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -10,10 +10,10 @@ title: "swing: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">Michael Bublé - It's Time (2005-02-08)</li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">Paul Anka - Rock Swings (2005-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">Michael Bublé - Call Me Irresponsible (2007-04-27)</li>
-<li data-cover="http://coverartarchive.org/release/b6c0feb9-0ab2-4251-95ea-031beb543bd5/3273909214-500.jpg" data-tags="electro-swing" role="button">Caravan Palace - Caravan Palace (2008-10-20)</li>
 <li data-cover="http://coverartarchive.org/release/ab4690ff-068f-4ea3-bdeb-ab1dd9e9a7a2/2264355616-500.jpg" data-tags="electronica, ambient, experimental, vocal jazz, swing, big band, electroswing" role="button">Caravan Palace - Panic (2011)</li>
+<li data-cover="http://coverartarchive.org/release/5c80910d-2033-4ac3-bd56-898e9c3e4267/1340461051-500.jpg" data-tags="jazz, swing, compilation, frank sinatra, capitol records, the lizards lounge" role="button">Frank Sinatra - Sinatra: Best of the Best (2011-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">The Weeknd - Kiss Land (2013-09-09)</li>
-<li data-cover="https://img.discogs.com/EP7SaYBb2f_XMz_KNuo8rYuTytU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6428431-1418994290-6330.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">Aloe Blacc - Wake Me Up (2013-09-24)</li>
+<li data-cover="https://img.discogs.com/sYd5Lrm4YwtXrHgST3NX0pV2SKI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139742-1385570134-1229.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">Aloe Blacc - Wake Me Up (2013-09-24)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -38,9 +38,6 @@ Frank Sinatra - A Jolly Christmas From Frank Sinatra (1957-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5ce6304-bcc8-4ede-b457-47759af3420c/2595490692-500.jpg" data-tags="jazz, big band" role="button">
 Count Basie - The Complete Atomic Basie (1958)
-</li>
-<li data-cover="http://coverartarchive.org/release/afdde414-e8e1-4f3a-a298-567726788aee/18118699899-500.jpg" data-tags="jazz" role="button">
-Frank Sinatra - Come Fly With Me (1958-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c29389bc-e5e5-42b8-ad85-e17229274967/5963192194-500.jpg" data-tags="christmas" role="button">
 Dean Martin - A Winter Romance (1959-11-16)
@@ -90,6 +87,9 @@ Billy Joel - An Innocent Man (1983-08-08)
 <li data-cover="https://img.discogs.com/xhxL8u62seqjFwGMhQO-IAA9xDU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14918229-1584108958-8915.jpeg.jpg" data-tags="jazz, 60s, swing, 50s, weallgetold, bobs fav" role="button">
 Bobby Darin - The Ultimate Bobby Darin (1986-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/3d3e4490-d411-4012-9262-5f7cd5e51f5c/1294683947-500.jpg" data-tags="jazz guitar, jazz, swing, charlie christian" role="button">
+Charlie Christian - The Genius Of The Electric Guitar (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/7613c3c2-ed6f-44ab-84ba-3240dbabcb7f/19719747104-500.jpg" data-tags="jazz" role="button">
 Louis Armstrong - What A Wonderful World (1988)
 </li>
@@ -111,6 +111,9 @@ Frank Sinatra - Sinatra Reprise: The Very Good Years (1991-03-26)
 <li data-cover="https://via.placeholder.com/450" data-tags="big band, swing, jazz" role="button">
 Artie Shaw - Begin The Beguine (1993)
 </li>
+<li data-cover="https://img.discogs.com/tMTn65cgPFhu49UaEyd75o9KO0M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7593051-1444744329-4405.jpeg.jpg" data-tags="swing, big band" role="button">
+Count Basie - Gold (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/4518e646-0695-4c85-87cc-36660d7f3e65/9686272893-500.jpg" data-tags="swing" role="button">
 Big Bad Voodoo Daddy - Big Bad Voodoo Daddy (1994)
 </li>
@@ -128,6 +131,9 @@ Royal Crown Revue - Mugzy's Move (1996)
 </li>
 <li data-cover="https://img.discogs.com/ZpBi-7Kw6VFYCAf6veK_sBusCS8=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3239034-1392006847-4936.jpeg.jpg" data-tags="jazz" role="button">
 Ella Fitzgerald - Forever Ella (1996-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/912cd97b-e951-4d44-9995-4868b456477a/6386198380-500.jpg" data-tags="swing" role="button">
+The Brian Setzer Orchestra - Guitar Slinger (1996-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/eec20a0b-20bb-4dff-941a-807710231119/9407385481-500.jpg" data-tags="swing, merkliste" role="button">
 Dean Martin - The Capitol Years (1996-05-30)
@@ -165,8 +171,8 @@ Dean Martin - That's Amore (1998-09-17)
 <li data-cover="https://img.discogs.com/RYGJjW5aog_holMW4SBruATzOMc=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10060842-1490945249-2173.jpeg.jpg" data-tags="dean martin" role="button">
 Dean Martin - The Very Best of Dean Martin (1998-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/83473368-c1e7-457f-876e-0f1661be6a08/21916554438-500.jpg" data-tags="jazz" role="button">
-Peggy Lee - The Best Of Miss Peggy Lee (1998-10-08)
+<li data-cover="https://img.discogs.com/_L2QY4tS_hwFjRS8mVxSJGTngi0=/fit-in/600x520/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509451-1419137610-9522.jpeg.jpg" data-tags="jazz" role="button">
+Harry Connick, Jr. - Come By Me (1999-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a958cfea-aadb-40e8-af16-2084d3b78f23/9686338930-500.jpg" data-tags="swing" role="button">
 Big Bad Voodoo Daddy - This Beautiful Life (1999-10-19)
@@ -201,6 +207,9 @@ Bobby Darin - The Hit Singles Collection (2002-04-02)
 <li data-cover="http://coverartarchive.org/release/05ef2a05-9860-48df-8dbc-a804f9bbd37e/2705026138-500.jpg" data-tags="jazz, pop, indie pop, piano, traditional pop, vocal jazz, romantic, swing, 00s, michael buble" role="button">
 Michael Bublé - Dream (2002-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/4aa42a2b-846a-3b54-8fc4-2a3d5ef4545b/15328211502-500.jpg" data-tags="swing" role="button">
+The Rat Pack - Christmas With The Rat Pack (2002-10-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/cad9b13c-387b-4ec8-a974-c391b3fff935/3847437318-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Michael Bublé (2003-02-11)
 </li>
@@ -222,9 +231,6 @@ Michael Bublé - Come Fly With Me (2004-03-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Matt Dusk - Two Shots (2004-09-09)
 </li>
-<li data-cover="https://img.discogs.com/dlrw84Of-lnsphlKzOFtjYariX8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13568052-1556661500-9616.jpeg.jpg" data-tags="swing" role="button">
-Robbie Williams - Live at the Albert (2005)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, jazz guitar" role="button">
 Django Reinhardt - The Best Of Django Reinhardt (2005)
 </li>
@@ -243,9 +249,6 @@ Paul Anka - Rock Swings (2005-06-07)
 <li data-cover="http://coverartarchive.org/release/caef1012-f6e2-42e4-9841-4e58ede860d9/1995269799-500.jpg" data-tags="jazz" role="button">
 Julie London - The Very Best Of Julie London (2005-07-01)
 </li>
-<li data-cover="https://img.discogs.com/VWYnIDkhYjGHFAaIjaT-nbR2UZs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-828466-1452123299-2611.jpeg.jpg" data-tags="swing, female vocalists" role="button">
-The Puppini Sisters - Betcha Bottom Dollar (2006)
-</li>
 <li data-cover="http://coverartarchive.org/release/1419feb3-17af-4bb7-b8e2-a7233db9a1ae/28199497322-500.jpg" data-tags="swing, jazz, deutsch" role="button">
 Roger Cicero - Männersachen (2006-05-26)
 </li>
@@ -261,9 +264,6 @@ Luomo - Paper Tigers (2006-10-16)
 <li data-cover="http://coverartarchive.org/release/1943c7b2-e79e-408b-85c3-3db8aed49d92/6125769126-500.jpg" data-tags="jazz, romantic, swing, golden oldies, mastersinger, vocalistas masculinos" role="button">
 Frank Sinatra - Romance: Songs From The Heart (2007-01-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/0256e435-b6e1-4c49-96e1-2fcf290f361b/21297009882-500.jpg" data-tags="downtempo" role="button">
-Lemongrass - Filmothèque (2007-02-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
@@ -272,9 +272,6 @@ Louis Armstrong - Greatest Hits (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/6972e801-09c8-4e16-a3ee-6084f6add45f/25924070770-500.jpg" data-tags="rockabilly" role="button">
 Kitty, Daisy & Lewis - Kitty, Daisy & Lewis (2008-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6c0feb9-0ab2-4251-95ea-031beb543bd5/3273909214-500.jpg" data-tags="electro-swing" role="button">
-Caravan Palace - Caravan Palace (2008-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/0af017d6-f48f-44d4-9b55-80efd03b58a6/17604249293-500.jpg" data-tags="hip-hop, jazz, swing" role="button">
 Movits! - Äppelknyckarjazz (2008-11-26)
@@ -285,8 +282,11 @@ Parov Stelar - Coco (2009-08-28)
 <li data-cover="http://coverartarchive.org/release/6430856a-c1dd-3a18-8733-0c93aec06244/14300032035-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - Crazy Love (2009-10-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+<li data-cover="https://img.discogs.com/qesFKBWvnZv7tZY4VD_KHXzG-Kk=/fit-in/596x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2128172-1358124793-6177.jpeg.jpg" data-tags="jazz" role="button">
 Caro Emerald - Deleted Scenes From The Cutting Room Floor (2010-01-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/244ff481-b6c9-40ef-b894-b204e867cfb6/9458928150-500.jpg" data-tags="swing, electro swing" role="button">
+Dirty Honkers - Death By Swing (2010-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab4690ff-068f-4ea3-bdeb-ab1dd9e9a7a2/2264355616-500.jpg" data-tags="electronica, ambient, experimental, vocal jazz, swing, big band, electroswing" role="button">
 Caravan Palace - Panic (2011)
@@ -312,7 +312,7 @@ Caro Emerald - The Shocking Miss Emerald (2013-05-03)
 <li data-cover="http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg" data-tags="r&b" role="button">
 The Weeknd - Kiss Land (2013-09-09)
 </li>
-<li data-cover="https://img.discogs.com/EP7SaYBb2f_XMz_KNuo8rYuTytU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6428431-1418994290-6330.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">
+<li data-cover="https://img.discogs.com/sYd5Lrm4YwtXrHgST3NX0pV2SKI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5139742-1385570134-1229.jpeg.jpg" data-tags="folk, funk, blues, swing, stones throw, single, soul revival, rhythm & blues,  soul,  pop, alternative rhythm & blues" role="button">
 Aloe Blacc - Wake Me Up (2013-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f5f3505-8a0e-4653-b5dd-ef53ac89c8d9/12501789877-500.jpg" data-tags="k-pop" role="button">

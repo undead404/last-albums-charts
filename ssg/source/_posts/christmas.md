@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T05:26:01.371Z
+date: 2021-04-09T18:50:01.442Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
@@ -33,7 +33,7 @@ Elvis Presley - Elvis' Christmas Album (1957-10-15)
 <li data-cover="https://img.discogs.com/gKzx7gZgJ62N_j0LfcpvlExBR9Y=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9484094-1481380990-7327.jpeg.jpg" data-tags="christmas, christmas music" role="button">
 Johnny Mathis - Merry Christmas (1958-10-06)
 </li>
-<li data-cover="https://img.discogs.com/SLHvUGuK0FpdT-L2DU2lyfOgXhE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930451-1419517650-7028.jpeg.jpg" data-tags="christmas" role="button">
+<li data-cover="http://coverartarchive.org/release/c29389bc-e5e5-42b8-ad85-e17229274967/5963192194-500.jpg" data-tags="christmas" role="button">
 Dean Martin - A Winter Romance (1959-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/88b9f6d5-90bd-4259-aba5-cb133a10bef5/5963174439-500.jpg" data-tags="christmas" role="button">
@@ -72,7 +72,7 @@ Stevie Wonder - Someday At Christmas (1967-11-27)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="jazz, christmas, oldies, tony bennett, golden oldies, mastersinger, vocalistas masculinos, t bennett" role="button">
 Tony Bennett - Snowfall - The Tony Bennett Christmas Album (1968)
 </li>
-<li data-cover="https://img.discogs.com/2GuWtE3c7zZ3hS8M_rf3YFaaKx8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9408304-1480047513-1244.jpeg.jpg" data-tags="christmas" role="button">
+<li data-cover="https://img.discogs.com/KRrsQ1MI4dlSg4dSV_u-0VJiVYc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4081961-1354632822-5960.jpeg.jpg" data-tags="christmas" role="button">
 Bobby Helms - Jingle Bell Rock (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9b7229c-7dd5-4f5e-b51a-00f042a4ea1c/5951304270-500.jpg" data-tags="christmas" role="button">
@@ -80,9 +80,6 @@ The Jackson 5 - Christmas Album (1970-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0da06878-65f4-487c-9d10-4acef5e7e094/18599284618-500.jpg" data-tags="christmas" role="button">
 José Feliciano - Feliz Navidad (1970-11)
-</li>
-<li data-cover="https://img.discogs.com/8z-e2MwiciiuZZx75McxMAtuMyU=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3268465-1323164977.jpeg.jpg" data-tags="rock, elton john" role="button">
-Elton John - Caribou (1974-06-24)
 </li>
 <li data-cover="https://img.discogs.com/gEBeFW57oa8O72k4DjGXkm3pafM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005930-1486291972-1552.jpeg.jpg" data-tags="christmas" role="button">
 Bing Crosby - White Christmas (1977-11)
@@ -138,9 +135,6 @@ Carpenters - Christmas Collection (1996)
 <li data-cover="http://coverartarchive.org/release/5619d408-c548-4a46-aefa-1d4dd233d821/5842303816-500.jpg" data-tags="christmas" role="button">
 Trans-Siberian Orchestra - Christmas Eve and Other Stories (1996-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a347c3d-a77e-4ae7-81df-331e96a16455/16665174665-500.jpg" data-tags="christmas" role="button">
-Hanson - Snowed In (1997-11-18)
-</li>
 <li data-cover="https://img.discogs.com/jhz1ESeWMju8dgdTWs7KccxjBdI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8777163-1495197926-7879.jpeg.jpg" data-tags="pop, 80s" role="button">
 Wham! - The Best of Wham!: If You Were There... (1997-11-24)
 </li>
@@ -192,6 +186,9 @@ Barenaked Ladies - Barenaked For The Holidays (2004-10-05)
 <li data-cover="http://coverartarchive.org/release/4526e591-2a5f-4d73-98b6-df8e5410dc5c/18723612263-500.jpg" data-tags="christmas" role="button">
 Trans-Siberian Orchestra - The Lost Christmas Eve (2004-10-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/5cdfdd57-92e2-4cc4-8f92-b83034034d3b/24046770429-500.jpg" data-tags="christmas, frank sinatra" role="button">
+Frank Sinatra - The Christmas Collection (2004-10-26)
+</li>
 <li data-cover="https://img.discogs.com/vG0e5eoHkAfQ-48bW2VqqXSSsI0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-350177-1185120167.jpeg.jpg" data-tags="christmas" role="button">
 Band Aid 20 - Do They Know It's Christmas? (2004-11-18)
 </li>
@@ -240,8 +237,8 @@ The Maine - ...And A Happy New Year (2008-12-09)
 <li data-cover="http://coverartarchive.org/release/3ba5ab28-11fa-4e0b-b444-7ac23c20f148/3352621585-500.jpg" data-tags="christmas" role="button">
 Weezer - Christmas With Weezer (2008-12-16)
 </li>
-<li data-cover="https://img.discogs.com/-DRPp_LWq8HBapQbL1grC57diKs=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709934-1238425451.jpeg.jpg" data-tags="electronic" role="button">
-MSTRKRFT - Fist of God (2009-03-17)
+<li data-cover="https://img.discogs.com/8gVZvS6OciDIanms37HA5tB0wM4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2843937-1447702961-4660.jpeg.jpg" data-tags="christmas, my gang 09, absolute favourite, george michael lust" role="button">
+George Michael - December Song (I Dreamed Of Christmas) (2009)
 </li>
 <li data-cover="https://img.discogs.com/TqHoppCselVVzOlRXazFz6FmckM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1809556-1244749887.jpeg.jpg" data-tags="christmas" role="button">
 Sting - If On A Winter's Night (2009-09-03)
@@ -276,11 +273,14 @@ Michael Bublé - Christmas (2011-10-14)
 <li data-cover="http://coverartarchive.org/release/5bf9dfbc-a02c-40e0-ba09-7348928b6093/4804310167-500.jpg" data-tags="christmas" role="button">
 She & Him - A Very She & Him Christmas (2011-10-24)
 </li>
-<li data-cover="https://img.discogs.com/o4Is2vSwdmvUHTyH1W7-BcZD0Dk=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10207455-1493404719-2216.png.jpg" data-tags="christmas" role="button">
+<li data-cover="https://img.discogs.com/PwqZUsOMj3HiFYGYCP2oCfygoOM=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3781806-1344183057-6751.jpeg.jpg" data-tags="christmas" role="button">
 Justin Bieber - Under the Mistletoe (2011-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4e4afd0-c779-4f6d-a184-01c84e5e80a8/21527480162-500.jpg" data-tags="pop, christmas" role="button">
 Natasha Bedingfield - Shake up Christmas 2011 (Official Coca-Cola Christmas Song) (2011-11-08)
+</li>
+<li data-cover="https://img.discogs.com/kKKfMdFzI0DuDQhBMb3-_9gEa2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4888160-1382439394-5269.jpeg.jpg" data-tags="christmas" role="button">
+Glee Cast - Glee: The Music, The Christmas Album Volume 2 (2011-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T14:47:01.421Z
+date: 2021-04-09T18:55:01.469Z
 title: "neoclassical: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -24,7 +24,7 @@ _________________
 <li data-cover="http://coverartarchive.org/release/9e3742f2-5591-3754-a1b1-6ccae9eeee01/6548227474-500.jpg" data-tags="ambient, contemporary classical, minimalism, piano, minimalist, neoclassical, post-classical, piano ambient, ambient piano" role="button">
 Harold Budd - The Pavilion Of Dreams (1978)
 </li>
-<li data-cover="https://img.discogs.com/KD5bINrX2-SlZ4f6OAZdudfLfMg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515050-1289489104.jpeg.jpg" data-tags="minimalism, minimalist" role="button">
+<li data-cover="https://img.discogs.com/9L7lTAG1c-MM-OKcIdxzA1Fqc5w=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3221496-1326405089.jpeg.jpg" data-tags="minimalism, minimalist" role="button">
 Arvo Pärt - Tabula Rasa (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1da6792-3a6a-4e4c-97fc-fc2477b183ef/2906121265-500.jpg" data-tags="ambient, piano, contemporary classical, cinematic, melancholy, minimalism, melancholic, neoclassical, post-classical, piano ambient, contemporary piano, ambient piano" role="button">
@@ -33,13 +33,13 @@ Harold Budd - Lovely Thunder (1986-10)
 <li data-cover="http://coverartarchive.org/release/97e4343f-6e05-31b6-aaf4-6dba23520be4/26314567877-500.jpg" data-tags="darkwave, ethereal, gothic" role="button">
 Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)
 </li>
-<li data-cover="https://img.discogs.com/-GN-JQ2oRtEsLWjyv1fd_VXV5dw=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8846463-1469993526-8129.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
+<li data-cover="https://img.discogs.com/RrVAH3WnAssqVLGqHesZRk6MjrI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1337246-1211047935.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
 Philip Glass - Solo Piano (1989-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
 Dead Can Dance - Into the Labyrinth (1993-09-13)
 </li>
-<li data-cover="https://img.discogs.com/ILPIzP6NQlyA2Bf4MgVV7FCUpco=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-997207-1230324129.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
+<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
 Ludovico Einaudi - Le Onde (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/42341a2b-c423-43c4-960b-c07d3db659e4/1748410166-500.jpg" data-tags="dark ambient, neoclassical" role="button">
@@ -63,9 +63,6 @@ Ludovico Einaudi - I Giorni (2001)
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
-<li data-cover="https://img.discogs.com/QAJyR3xo7g58gdy3b0cITNQ03Jk=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334741-1219521254.jpeg.jpg" data-tags="pop" role="button">
-Michelle Branch - The Spirit Room (2001-02-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/e33c6e6c-d0cf-4c56-abe8-c37bfa649dd4/18075614007-500.jpg" data-tags="contemporary classical, post-classical, neoclassical, neo-classical, modern classical, postclassical" role="button">
 Max Richter - Memoryhouse (2002-05-27)
 </li>
@@ -80,9 +77,6 @@ Irfan - IRFAN (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
 Emilie Autumn - Enchant (2003-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/a77c88f4-5ef8-4f58-86e9-ef817b37b050/4450922779-500.jpg" data-tags="pop" role="button">
-Michelle Branch - Hotel Paper (2003-06-23)
 </li>
 <li data-cover="https://img.discogs.com/KAMvvNc8CN5ai-wJmjym_IcGqgs=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412532-1382725178-4636.jpeg.jpg" data-tags="gothic, gothic metal, dark ambient, neoclassical, theatre, neoclassical ambient, transym, this cover frightens me, a tears" role="button">
 Autumn Tears - Eclipse (2004)
@@ -105,6 +99,9 @@ Dustin O'Halloran - Piano Solos (2004-09-13)
 <li data-cover="https://img.discogs.com/Pw4M5NgpfqHOI3kkHlfmWmUhMaQ=/fit-in/490x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477311-1125291134.jpg.jpg" data-tags="instrumental, vanessa" role="button">
 Vanessa-Mae - Choreography (2004-09-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
+Narsilion - Nerbeleth (2004-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/d9155cc4-78d7-4486-be2f-4d2c22e8d006/3165683233-500.jpg" data-tags="neoclassical, ethereal, gothic" role="button">
 Ophelia's Dream - Not A Second Time (2004-11-12)
 </li>
@@ -122,6 +119,9 @@ Goldmund - Corduroy Road (2005-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/612e5cc3-bb60-4bcd-8d93-4a58b544346f/2025419288-500.jpg" data-tags="neoclassical, darkwave" role="button">
 Artesia - Hilvern (2006-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/f3f6d58c-ef31-4f45-8ad2-33f1947290fe/2026078238-500.jpg" data-tags="melancholic, neoclassical" role="button">
+Ashram - Shining Silver Skies (2006-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/918093d4-dac0-4628-bc3a-8df809888f1d/16162021360-500.jpg" data-tags="modern classical, contemporary classical, minimalism, neo-classical, neoclassical, post-classical" role="button">
 Goldmund - The Heart of High Places (2006-10-02)
@@ -161,6 +161,9 @@ Peter Broderick - Docile (2007-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1a5cae2-c89f-4134-8b21-265e106ca563/27741044035-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
 Sylvain Chauveau - Nuage (2007-11-23)
+</li>
+<li data-cover="https://img.discogs.com/e9y05rIRvxsH5m_J0uogoLZmtD8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1403699-1216734395.jpeg.jpg" data-tags="ambient, contemporary classical" role="button">
+Bersarin Quartett - Bersarin Quartett (2008-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd609443-4c31-48fd-b1fe-8285eb8530d5/4860307885-500.jpg" data-tags="darkwave, neoclassical" role="button">
 Arcana - Raspail (2008-02-29)
@@ -222,9 +225,6 @@ Ludovico Einaudi - Nightbook (2009-09-20)
 <li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">
 Nils Frahm - Wintermusik (2009-12-07)
 </li>
-<li data-cover="https://img.discogs.com/TIqxnoTpA7z5LauoG5w4AhA-pJs=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1298485-1247495388.jpeg.jpg" data-tags="electro-techno" role="button">
-Nicolas Jaar - Time for Us EP (2010-01)
-</li>
 <li data-cover="https://img.discogs.com/-0O4p9AqqjSpbkHhZotoEBz1Efg=/fit-in/600x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267354-1458916937-8797.jpeg.jpg" data-tags="contemporary classical, neoclassical, modern classical, post-classical, neo-classical, piano" role="button">
 Ólafur Arnalds - ...and they have escaped the weight of darkness (2010-05-07)
 </li>
@@ -279,7 +279,7 @@ Arcana - As Bright As A Thousand Suns (2012-05-28)
 <li data-cover="http://coverartarchive.org/release/79c3dd7e-01e0-414e-88f4-045d88bec4c1/20197407108-500.jpg" data-tags="contemporary classical" role="button">
 Max Richter - Recomposed by Max Richter: Vivaldi, The Four Seasons (2012-08-31)
 </li>
-<li data-cover="https://img.discogs.com/Djv5b13QAyfy5eLM5VjnWXwJMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5746150-1586903982-4077.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/Oss1hyaayRzyZSZjZ5QefMWRlZQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4985549-1381391376-5868.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e545a5-e07a-4e80-843a-9cf96e5ad809/6675043726-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, neo-classical, modern classical" role="button">

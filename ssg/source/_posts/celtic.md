@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T09:04:01.588Z
+date: 2021-04-09T19:23:01.705Z
 title: "celtic: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -26,6 +26,9 @@ Clannad - Magical Ring (1983)
 </li>
 <li data-cover="http://coverartarchive.org/release/17b6081f-cc8e-4dbd-b8da-ff89b6957e1a/13144429451-500.jpg" data-tags="celtic" role="button">
 Clannad - Legend (1984)
+</li>
+<li data-cover="https://img.discogs.com/QCb3LNEUhLeiY1or2HdW72Fy9ok=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2560691-1473248911-2191.jpeg.jpg" data-tags="80s, punk, irish folk" role="button">
+The Pogues - Red Roses For Me (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/243e607a-90fd-37ba-9cd4-be10a3888d3d/4084538048-500.jpg" data-tags="folk, celtic" role="button">
 Loreena McKennitt - Elemental (1985)
@@ -62,9 +65,6 @@ Loreena McKennitt - Parallel Dreams (1989)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="irish" role="button">
 The Waterboys - Fisherman's Blues (1989-01-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6d07ca6-d8d3-423c-a0bb-4c9094626492/2485530655-500.jpg" data-tags="celtic" role="button">
-Clannad - Anam (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/eb873617-caa5-43f9-8cdb-9cd02e17163a/15595471977-500.jpg" data-tags="irish, irish folk, folk" role="button">
 The Pogues - The Best of The Pogues (1991)
@@ -117,17 +117,8 @@ Karen Matheson - The Dreaming Sea (1996)
 <li data-cover="https://img.discogs.com/tDcA9IOU66Qobh5urjCqmuvRP0I=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1955126-1426218437-4673.jpeg.jpg" data-tags="pop, irish, 90s" role="button">
 The Corrs - Forgiven, Not Forgotten (1996-02-02)
 </li>
-<li data-cover="https://img.discogs.com/xlz-am8ehY-T2Geflhdfao776Ko=/fit-in/518x803/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4854512-1379539512-3765.jpeg.jpg" data-tags="folk, celtic" role="button">
-Clannad - Lore (1996-02-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/41f31d52-7672-4f51-b201-1a9595f7ec04/22754304622-500.jpg" data-tags="celtic" role="button">
 Mike Oldfield - Voyager (1996-08-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/70c85789-974e-4a92-8b9d-96aef51e7ddd/1174906134-500.jpg" data-tags="irish, live, irish folk punk" role="button">
-Flogging Molly - Alive Behind the Green Door (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/1463018c-0d31-4526-ac4e-a76f840fcd3f/3196058926-500.jpg" data-tags="celtic" role="button">
-Clannad - Landmarks (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5afac18-abe4-34c5-b0ce-7456aeba6371/7633046106-500.jpg" data-tags="secret garden" role="button">
 Secret Garden - White Stones (1997-04-15)
@@ -219,14 +210,17 @@ Hagalaz' Runedance - Frigga's Web (2002)
 <li data-cover="http://coverartarchive.org/release/a325cd91-7117-47e1-83b4-b8e06647f854/8084423661-500.jpg" data-tags="celtic, darkness" role="button">
 Solas - The Edge of Silence (2002-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae29f406-27af-420c-a83a-0d15ec4a012a/15230818417-500.jpg" data-tags="celtic, instrumental" role="button">
+Enaid - Avalon: A Celtic Legend (2002-02-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/880019b0-9411-4bb1-ad55-fb8b31d14bce/22408375238-500.jpg" data-tags="celtic" role="button">
 Secret Garden - Once in a Red Moon (2002-03-21)
 </li>
 <li data-cover="https://img.discogs.com/iLGcyWXc4YoqzOnwmP-b5375aJY=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008332-1574345820-9303.jpeg.jpg" data-tags="celtic" role="button">
 Karen Matheson - Time To Fall (2002-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/11b66871-f9fa-4bfb-b1a8-a78550c174f1/3946185765-500.jpg" data-tags="celtic, folk" role="button">
-Sinéad O'Connor - Sean-Nós Nua (2002-10-02)
+<li data-cover="http://coverartarchive.org/release/b69a0751-8747-421e-9e2e-a72624534653/26818208829-500.jpg" data-tags="celtic" role="button">
+The Chieftains - Down The Old Plank Road: The Nashville Sessions (2002-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9693a9e6-e27d-4039-b655-441066c2bcf3/21357485950-500.jpg" data-tags="celtic, scottish" role="button">
 Capercaillie - Choice Language (2003)
@@ -251,6 +245,9 @@ Secret Garden - Earthsongs (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/09ead843-23c8-3ee2-9094-1cf78b3a2408/10962966051-500.jpg" data-tags="pop" role="button">
 The Corrs - Borrowed Heaven (2004-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/feaa48b5-f4b7-458e-9074-303fd1e998c3/1821640363-500.jpg" data-tags="celtic" role="button">
+Beltaine - Rockhill (2004-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
 Narsilion - Nerbeleth (2004-10)
@@ -281,6 +278,9 @@ Moya Brennan - Signature (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2afca94e-fa2e-3254-8924-7deb7eebf93a/3198564493-500.jpg" data-tags="celtic, new age, female vocalists" role="button">
 Loreena McKennitt - An Ancient Muse (2006-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/35fbd275-fdc3-4450-9b34-e05c5d93bef0/7597192789-500.jpg" data-tags="ambient, female vocalists, new age" role="button">
+Lisa Gerrard - The Silver Tree (2006-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/5944569f-c36d-4520-a564-1d603bc3b0df/4476228153-500.jpg" data-tags="celtic" role="button">
 Celtic Woman - A New Journey (2007-01-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T09:39:01.375Z
+date: 2021-04-09T18:52:01.479Z
 title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
@@ -72,6 +72,9 @@ Einherjer - Odin Owns Ye All (1998-05-05)
 <li data-cover="http://coverartarchive.org/release/c5f91694-199e-3a0a-b4d9-9985c40a979c/18279167821-500.jpg" data-tags="black metal, viking metal" role="button">
 Enslaved - Blodhemn (1998-06-01)
 </li>
+<li data-cover="https://img.discogs.com/6-Ir8GHxyipCCoSgas9vj2hBvn0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8011752-1453560296-6777.jpeg.jpg" data-tags="black metal" role="button">
+Borknagar - The Archaic Course (1998-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/339fb319-548b-3195-ab9a-84853d1d1c0a/27180794801-500.jpg" data-tags="viking metal" role="button">
 Thyrfing - Hednaland (1999)
 </li>
@@ -116,6 +119,9 @@ Borknagar - Empiricism (2001-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d86f25ed-06ce-367a-b3e1-ad505fa148cb/15022363414-500.jpg" data-tags="viking metal, thrash metal" role="button">
 Bathory - Destroyer of Worlds (2001-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/12943fe3-c300-48df-8c72-356e269de36f/18279173856-500.jpg" data-tags="black metal, progressive black metal" role="button">
+Enslaved - Monumension (2001-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/eddc7436-b9bc-4cae-9b81-daebfab8b8a7/5429036495-500.jpg" data-tags="black metal, viking metal, folk metal, melodic black metal" role="button">
 Windir - 1184 (2001-11-19)
@@ -192,6 +198,9 @@ Equilibrium - Turis Fratyr (2005-02-14)
 <li data-cover="https://img.discogs.com/6I28TAxCUoXkdWCSZFbVVuQE9_Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1338887-1210954766.jpeg.jpg" data-tags="folk metal, viking metal, black metal, pagan metal" role="button">
 Moonsorrow - Verisäkeet (2005-02-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/6db4c9f1-1376-4502-bf32-b799362458da/2638094958-500.jpg" data-tags="pagan metal, folk metal" role="button">
+XIV Dark Centuries - Jul (2005-06-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/86ab957a-d7ce-473f-b38d-21fd0f3a3f3a/2460152201-500.jpg" data-tags="folk metal, viking metal" role="button">
 Månegarm - Vredens tid (2005-09-28)
 </li>
@@ -212,6 +221,12 @@ Korpiklaani - Tales Along This Road (2006-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e8dcfc6-302c-43cd-9807-d6251e358c65/2997123472-500.jpg" data-tags="black metal, progressive metal, progressive black metal" role="button">
 Enslaved - Ruun (2006-05-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/cfa18638-8c64-4367-8fe0-9722c401f659/2692077559-500.jpg" data-tags="black metal, pagan metal" role="button">
+Kampfar - Kvass (2006-05-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/3ad21303-6185-3378-bbd8-984d4f2047d7/8050005645-500.jpg" data-tags="folk metal" role="button">
+Eluveitie - Spirit (2006-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b455705-d7a7-4857-8de3-c03e8e6ee61d/6523032214-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Ragnarok (2006-09-22)
@@ -270,9 +285,6 @@ Thyrfing - Hels Vite (2008-10-22)
 <li data-cover="http://coverartarchive.org/release/650638c5-374e-4eb2-9f4d-7ab72f1e7d6e/6523036853-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - By the Light of the Northern Star (2009-05-29)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, hipster, art pop, not experimental, dulukk, dulukkcore, worst albums of 2017, total spambo, spambo, total dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, dulukk and jpoptrasher and lenushiromiya spam the fuck out of everything, noise, trance, classic rock, heavy metal, black metal, metalcore, metal, hip-hop, spanish, electronic, electronica, french, electropop, classical, female, hip hop, pop, rock, soul, 60s, 70s, 80s, british, punk, brutal, grindcore, hardcore, revolution, swedish, emo, rap, ambient, offspring, dubstep, dance, dark, cheese, easy listening, hair metal, funk, new age, techno, house, acid jazz, schlager, canadian, viking metal, melodic death metal, voice, 90s, justin timberlake, russian, jpop, mashup, post, drone, african, radio, insane, party, skinhead, evanescence" role="button">
-椎名林檎 - 三文ゴシップ (2009-06-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/bf657a0d-4c46-4db9-8477-b685924c3964/19987067815-500.jpg" data-tags="folk metal" role="button">
 Ensiferum - From Afar (2009-09-09)
 </li>
@@ -299,18 +311,6 @@ Turisas - Stand Up and Fight (2011-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a599b32-363f-45e7-9712-29084a5855ee/13876171030-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Surtur Rising (2011-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
-Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6a77c6d-fa8c-4786-bac3-a274a2acd2bf/11192355590-500.jpg" data-tags="melodic death metal" role="button">
 Amon Amarth - Deceiver of the Gods (2013-06-21)

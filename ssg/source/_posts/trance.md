@@ -1,8 +1,8 @@
 ---
-date: 2021-04-07T13:10:01.458Z
+date: 2021-04-09T18:57:01.537Z
 title: "trance: 100 albums you must listen to before you die"
 ---
-![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
+![Cascada - Everytime We Touch (2006-02-21)](http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg "Cascada - Everytime We Touch (2006-02-21)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/Cz0JOIN8j8Gumlj128kA5NEP504=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-147167-1409737346-3469.jpeg.jpg" data-tags="trance" role="button">Darude - Before The Storm (2000-01-18)</li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">Motorcycle - As The Rush Comes (2003-07-30)</li>
@@ -36,11 +36,14 @@ Astral Projection - Trust In Trance (1996-05-10)
 <li data-cover="https://img.discogs.com/P-P_wUOfYu8cm9jWS8XPVzXdryo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83507-1457553225-8498.jpeg.jpg" data-tags="trance, dream, robert miles" role="button">
 Robert Miles - Dreamland (1996-06-07)
 </li>
-<li data-cover="https://img.discogs.com/Ux7JgAR8NZmQa7h00g1EMp7FNc0=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5489624-1477073588-1316.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
+<li data-cover="https://img.discogs.com/_9l6Fr6Fj84deZKo7mrWWtHQA_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1689740-1294259278.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Faithless - Reverence (1997-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/59c9a570-4d4b-414e-90c1-f1f8c59fc21e/4225986565-500.jpg" data-tags="trance, psytrance, goa trance" role="button">
 Juno Reactor - Bible of Dreams (1997-06-18)
+</li>
+<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="trance" role="button">
+Sash! - It's My Life (1997-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">
 BT - ESCM (1997-09-08)
@@ -60,7 +63,7 @@ ATB - Movin' Melodies (1999-04-26)
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
 </li>
-<li data-cover="https://img.discogs.com/csX_fUqFVj-EtaRPv94VbPvpCvk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-121310-1384038664-9012.jpeg.jpg" data-tags="breakbeat, electronic, trance" role="button">
+<li data-cover="https://img.discogs.com/V0DqeCBw4jR_1LUs0jDJ0echTlw=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240940-1409469585-9407.jpeg.jpg" data-tags="breakbeat, electronic, trance" role="button">
 Hybrid - Wide Angle (1999-07-16)
 </li>
 <li data-cover="https://img.discogs.com/J6Y3mlnQ_3fwk5IEv-aZA6wS4QI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9207-1274183015.jpeg.jpg" data-tags="trance" role="button">
@@ -99,8 +102,8 @@ ATB - Two Worlds (2000-11-02)
 <li data-cover="http://coverartarchive.org/release/dd5f83f2-fd01-4fc8-9fc6-e8620bc6cd53/8844514503-500.jpg" data-tags="dance, trance" role="button">
 Sylver - Chances (2001-05-07)
 </li>
-<li data-cover="https://img.discogs.com/Dv7Pgio7LPFqdKat1yi0UynK8g4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-73839-1477425849-1942.jpeg.jpg" data-tags="psychedelic" role="button">
-Shpongle - Tales of the Inexpressible (2001-05-30)
+<li data-cover="https://img.discogs.com/6OPLx-kI7cbsEkfs4c6hkemX3VA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-110928-1131735324.jpeg.jpg" data-tags="trance" role="button">
+Blank & Jones - Nightclubbing (2001-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/77bfd13a-40b0-41ec-afd6-15f0ca904e5b/2335812387-500.jpg" data-tags="trance, electronic, dance" role="button">
 Safri Duo - Episode II (2001-06-04)
@@ -108,14 +111,11 @@ Safri Duo - Episode II (2001-06-04)
 <li data-cover="http://coverartarchive.org/release/ae18b56c-335d-466c-bffd-dcd77fe9e1c4/13035536593-500.jpg" data-tags="trance" role="button">
 DJ Tiësto - In My Memory (2001-08-08)
 </li>
-<li data-cover="https://img.discogs.com/b0v5ExS2IleBxCHtXRVmjCt_0uE=/fit-in/600x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-37097-1240257147.jpeg.jpg" data-tags="trance, electronic" role="button">
+<li data-cover="https://img.discogs.com/jkvk8AcSlNrTKeKOaT1YU6LyQVg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-175229-1401432636-4031.jpeg.jpg" data-tags="trance, electronic" role="button">
 Way Out West - Intensify (2001-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/20ca4a82-abb1-48c4-8c7a-170e7511ff92/2748922226-500.jpg" data-tags="dance, trance" role="button">
 Lasgo - Some Things (2001-12-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e919cd5-0feb-40cb-bbd8-8e4406e61bdd/7792440486-500.jpg" data-tags="dance, electronic" role="button">
-Planet Funk - Non Zero Sumness (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/b805ffa3-20f0-4710-a40a-24fcf40e7977/25642508331-500.jpg" data-tags="trance" role="button">
 ATB - Dedicated (2002-01-28)
@@ -156,7 +156,7 @@ Special D. - Come With Me (2003-03-24)
 <li data-cover="https://img.discogs.com/G_lQGAvP2uMhUYgKP2sny3aAodE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019236-1464300306-9378.jpeg.jpg" data-tags="electronic, psytrance" role="button">
 Infected Mushroom - Converting Vegetarians (2003-04-09)
 </li>
-<li data-cover="https://img.discogs.com/APHgx08XpE6Ibo5PpefExBGxkE8=/fit-in/236x236/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-625263-1144884929.gif.jpg" data-tags="trance, dance" role="button">
+<li data-cover="https://img.discogs.com/p_YHcsVDUXg_BR_KlsQj3MsDsM4=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773763-1242458190.jpeg.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/d63f901b-d232-4814-84d4-eeef097bb0ee/5454987213-500.jpg" data-tags="trance" role="button">
@@ -185,6 +185,9 @@ Tiësto - Parade Of The Athletes (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
 Infected Mushroom - IM the Supervisor (2004-09-10)
+</li>
+<li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
+Eric Prydz - Call on Me (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f46f90f-b5e5-443d-bb0f-40151764a950/4043627444-500.jpg" data-tags="trance, electronic, goa, psytrance" role="button">
 Juno Reactor - Labyrinth (2004-09-29)
@@ -222,6 +225,9 @@ BT - This Binary Universe (2006-08-29)
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/165a6363-cb9a-49a3-88da-2ea3da4742dd/2568508706-500.jpg" data-tags="ambient" role="button">
+Carbon Based Lifeforms - World of Sleepers (2006-12-02)
+</li>
 <li data-cover="https://img.discogs.com/f6M7ACXreLvEmmrtSXUB2YubTo0=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-910471-1171899707.jpeg.jpg" data-tags="trance" role="button">
 Nic Chagall - What You Need (2007-03-05)
 </li>
@@ -251,6 +257,9 @@ Scooter - Jumping All Over The World (2008-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/56a006b0-e615-314b-9b45-86455f0d757b/2419858107-500.jpg" data-tags="trance" role="button">
 Armin van Buuren - Imagine (2008-04-18)
+</li>
+<li data-cover="https://img.discogs.com/dl2jp6KSJ-s-5VI0Fcn-kkan-M8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345444-1264955769.jpeg.jpg" data-tags="trance, electronic, darude, armind" role="button">
+Mike Foyle - Pandora (2008-05-05)
 </li>
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)
@@ -297,9 +306,6 @@ araabMUZIK - Electronic Dream (2011-01)
 <li data-cover="http://coverartarchive.org/release/a5bd4a0b-6a0d-44e9-8961-94260e83e625/10177231187-500.jpg" data-tags="trance" role="button">
 Above & Beyond - Group Therapy (2011-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4b96bb65-9831-4c26-a3d1-0455a4fa4805/2292051184-500.jpg" data-tags="electronic, electronica, art pop" role="button">
-Zola Jesus - Conatus (2011-09-26)
-</li>
 <li data-cover="https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg" data-tags="trance, electronic, house, electro house, electro dance" role="button">
 Swedish House Mafia - Don't You Worry Child (2012)
 </li>
@@ -308,12 +314,6 @@ Lindsey Stirling - Lindsey Stirling (2012-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a52ae1b2-ae38-4915-9a86-27c256917302/2331916399-500.jpg" data-tags="progressive house" role="button">
 deadmau5 - > album title goes here < (2012-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7067908c-402e-4c17-99af-4c509b89d91c/25247846466-500.jpg" data-tags="post-rock, rock, drone" role="button">
-Godspeed You! Black Emperor - ALLELUJAH! DON'T BEND! ASCEND! (2012-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/8589ba2a-e62a-418d-a04d-1ee032197dd3/17775653396-500.jpg" data-tags="folk, andrew, ccm, donald trump, david orton" role="button">
-Chelsea Wolfe - Unknown Rooms: A Collection of Acoustic Songs (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a066b065-cd76-4dd4-a975-f3812fcd3229/18848001906-500.jpg" data-tags="trance, dance, eurovision" role="button">
 Loreen - Heal (2012-10-22)

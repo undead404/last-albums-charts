@@ -1,8 +1,8 @@
 ---
-date: 2021-04-07T13:17:01.419Z
+date: 2021-04-09T19:00:01.541Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
-![Beck - Sea Change (2002-09-21)](http://coverartarchive.org/release/09dc8894-bb52-4edd-a31b-e74e30753a44/7066111416-500.jpg "Beck - Sea Change (2002-09-21)")
+![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">Eels - Beautiful Freak (1996-08-05)</li>
 <li data-cover="https://img.discogs.com/bXYl9l3hLH72MLJyrk8HBCnYvW8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371766-1443128950-1064.jpeg.jpg" data-tags="progressive rock" role="button">Anathema - Judgement (1999-06-21)</li>
@@ -42,9 +42,6 @@ Harold Budd - Lovely Thunder (1986-10)
 <li data-cover="https://img.discogs.com/EJ0tEMaELYXdrxHGQ_kT35sAqJs=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-447978-1380751393-1712.jpeg.jpg" data-tags="slowcore" role="button">
 Red House Painters - Down Colorful Hill (1992-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7bc2ec1-d14d-3e88-b96b-1a122e8f1269/25210354175-500.jpg" data-tags="melancholic" role="button">
-Tindersticks - Tindersticks (1993-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/26ed17a4-e022-4abc-a11f-23437715f4f8/15399938306-500.jpg" data-tags="doom metal" role="button">
 My Dying Bride - The Angel and the Dark River (1995-05-22)
 </li>
@@ -63,17 +60,26 @@ Grandaddy - Under The Western Freeway (1997-10-21)
 <li data-cover="http://coverartarchive.org/release/f1d33de4-4c0d-453f-a13c-b7cb26de6e59/3596831408-500.jpg" data-tags="doom metal" role="button">
 Katatonia - Discouraged Ones (1998-04-27)
 </li>
+<li data-cover="https://img.discogs.com/CbVuh-CQJmkzYnbLiyuvqYfrFew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513116-1362379308-9396.jpeg.jpg" data-tags="rock, 90s, alternative rock, jeff buckley" role="button">
+Jeff Buckley - Sketches for my Sweetheart the Drunk (1998-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/9a51b23b-4594-4abe-8c69-19b8cfa49184/8630651837-500.jpg" data-tags="doom metal, progressive rock, progressive metal" role="button">
 Anathema - Alternative 4 (1998-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
+Cat Power - Moon Pix (1998-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
 </li>
 <li data-cover="https://img.discogs.com/bXYl9l3hLH72MLJyrk8HBCnYvW8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371766-1443128950-1064.jpeg.jpg" data-tags="progressive rock" role="button">
 Anathema - Judgement (1999-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0ff9610-23ad-4f33-b710-c28242482545/3596965456-500.jpg" data-tags="doom metal, depressive rock" role="button">
+Katatonia - Tonight's Decision (1999-08-31)
 </li>
 <li data-cover="https://img.discogs.com/zE1g7EfR92bN-uRdWuFEdTw8lvQ=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3695431-1552089588-2064.jpeg.jpg" data-tags="melancholic" role="button">
 Anathema - Resonance (2001-09-24)
@@ -150,9 +156,6 @@ Daniel Powter - dp (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, britpop" role="button">
-Starsailor - On The Outside (2005-10-14)
-</li>
 <li data-cover="https://img.discogs.com/WQn2cpL4zNEFDiqpIl3THsqpo7M=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-111685-1497248873-3493.jpeg.jpg" data-tags="alternative, melancholic" role="button">
 Vast - April (2006)
 </li>
@@ -183,6 +186,9 @@ Blackfield - Blackfield II (2007-02-09)
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/dbf7a1c7-d89c-3823-b2d1-6cf2515e3c31/8173020368-500.jpg" data-tags="shoegaze, indie rock, dream pop" role="button">
+Blonde Redhead - 23 (2007-04-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/301832d9-f503-4e5f-945c-f77e66c4cd59/936789634-500.jpg" data-tags="progressive rock" role="button">
 Antimatter - Leaving Eden (2007-04-13)
 </li>
@@ -191,9 +197,6 @@ Great Northern - Trading Twilight for Daylight (2007-05-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
-</li>
-<li data-cover="https://img.discogs.com/lU-jb1-v8HnHNIeuFYS8UuKtkNY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9832099-1487024275-2085.jpeg.jpg" data-tags="singer-songwriter, indie, indie rock" role="button">
-Elliott Smith - New Moon (2007-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ab7278a-20f0-49b2-b157-0a6baf1052c5/1951082691-500.jpg" data-tags="mellow" role="button">
 Sea Wolf - Get To The River Before It Runs Too Low (2007-05-08)
@@ -212,9 +215,6 @@ Peter Broderick - Docile (2007-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7fda273-5504-47f0-a249-1d646ea3d517/5930060763-500.jpg" data-tags="neo-classical, contemporary classical, modern classical, neoclassical, post-classical, piano, neo classical, postclassical, post classical" role="button">
 Ólafur Arnalds - Variations of Static (2008-05-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/bb3ba958-719d-4ec0-942b-8a4d6c18f373/12135240940-500.jpg" data-tags="british, sad, dreamy, atmospheric, melancholy, 00s" role="button">
-Spiritualized - Songs In A&E (2008-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ab3e83e-9828-4653-b15d-68364cfeb9f6/6687658194-500.jpg" data-tags="neoclassical, contemporary classical, post-classical, modern classical, piano, neo-classical" role="button">
 Library Tapes - Fragment (2008-06-02)
@@ -294,7 +294,7 @@ First Aid Kit - Wolf (2012-09-07)
 <li data-cover="http://coverartarchive.org/release/dc277a4e-10de-4693-a8e4-6e657a056cda/28396159564-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - Total Loss (2012-09-17)
 </li>
-<li data-cover="https://img.discogs.com/Djv5b13QAyfy5eLM5VjnWXwJMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5746150-1586903982-4077.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/Oss1hyaayRzyZSZjZ5QefMWRlZQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4985549-1381391376-5868.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/72d8365e-491d-4e5e-b20b-eb689cb34b88/21944987702-500.jpg" data-tags="ambient, alternative, piano, cinematic, contemporary classical, melancholy, minimalism, melancholic, modern classical, neo-classical, experimental-ambient, minimal ambient, minimalist, neoclassical, modern composition, post-classical, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
