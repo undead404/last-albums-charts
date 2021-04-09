@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T01:16:01.300Z
+date: 2021-04-09T21:22:01.455Z
 title: "post-metal: 100 albums you must listen to before you die"
 ---
 ![Isis - Panopticon (2004-10-19)](http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg "Isis - Panopticon (2004-10-19)")
@@ -72,10 +72,7 @@ Cult of Luna - Salvation (2004-10-04)
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
 Isis - Panopticon (2004-10-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/9b091bcd-f336-3381-a7c3-8783dff901d7/2536665650-500.jpg" data-tags="shoegaze, sludge" role="button">
-Jesu - Jesu (2004-12-08)
-</li>
-<li data-cover="https://img.discogs.com/4jl3rgS7nRrJuoG-_E3DESlcG5g=/fit-in/600x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484009-1128096295.jpeg.jpg" data-tags="post rock" role="button">
+<li data-cover="https://img.discogs.com/KyoJe8kQNtFQ5VlfYfxVOoqb5sY=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1286171-1227228285.jpeg.jpg" data-tags="post rock" role="button">
 Pelican - March Into the Sea (2005-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa271836-6784-4555-bc47-c2fa305c260e/25038392608-500.jpg" data-tags="post-metal, sludge" role="button">
@@ -96,11 +93,8 @@ Rosetta - The Galilean Satellites (2005-10-18)
 <li data-cover="http://coverartarchive.org/release/8c761839-5889-4b72-95a2-031619122e4a/20406280868-500.jpg" data-tags="avant-garde" role="button">
 Kayo Dot - Dowsing Anemone With Copper Tongue (2006-01-10)
 </li>
-<li data-cover="https://img.discogs.com/i2itlIdKrqUlpksjD1WGUu4AJeY=/fit-in/600x931/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7250409-1524302541-6040.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
+<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
 Underoath - Define the Great Line (2006-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/b17b33e2-e1c4-49c1-85a7-7ea723ce0d3d/25109250377-500.jpg" data-tags="shoegaze, post-rock" role="button">
-Jesu - Silver (2006-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1fde8540-59cf-4c8d-8429-eb076d03fb05/21557052063-500.jpg" data-tags="post-metal, sludge" role="button">
 Cult of Luna - Somewhere Along The Highway (2006-04-24)
@@ -198,22 +192,28 @@ Callisto - Providence (2009-02-18)
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/508cd265-21f1-4e9c-a995-ecc620bbd53f/2663399057-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
+Altar of Plagues - White Tomb (2009-04-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
 Isis - Wavering Radiant (2009-04-21)
 </li>
 <li data-cover="https://img.discogs.com/MtK4YPClwkutejnHZN846f_Ge-g=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1897397-1551811272-4495.jpeg.jpg" data-tags="doom metal, post-metal" role="button">
 Minsk - With Echoes In The Movement of Stone (2009-05-26)
 </li>
-<li data-cover="https://img.discogs.com/iHKw1AjoAp7nCAKqZzLrnZkcljU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3557493-1335182519.jpeg.jpg" data-tags="post-metal, instrumental" role="button">
+<li data-cover="https://img.discogs.com/2xqq6ABeVkRKdT1JwgNSGlo_40o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1790016-1252534676.jpeg.jpg" data-tags="post-metal, instrumental" role="button">
 Pelican - Ephemeral (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/kFxILaeR0miu9E9n19Ohx9HL24E=/fit-in/350x314/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876339-1249498435.jpeg.jpg" data-tags="drone, post-metal" role="button">
 Jesu - Infinity (2009-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/dbc9ba41-5627-4c15-93a9-42a6e186e771/8293096366-500.jpg" data-tags="melodic death metal, progressive metal" role="button">
+Ghost Brigade - Isolation Songs (2009-08-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/acac3cdb-ccd5-3736-87b3-1554de5a83be/3331811954-500.jpg" data-tags="post-rock" role="button">
 Russian Circles - Geneva (2009-10-20)
 </li>
-<li data-cover="https://img.discogs.com/A6IZatfSjgXpd9quXV2Rds5oL5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2218780-1270510016.jpeg.jpg" data-tags="post-rock" role="button">
+<li data-cover="https://img.discogs.com/5rrKYhGwc8R6cRJj2-MUYuRD_fs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2683430-1537127156-3823.jpeg.jpg" data-tags="post-rock" role="button">
 Pelican - What We All Come To Need (2009-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae532ee3-e084-34cb-a3ca-9e2d97f0c4d5/20106337426-500.jpg" data-tags="sludge, post-metal" role="button">
@@ -246,7 +246,7 @@ Devil Sold His Soul - Blessed & Cursed (2010-07-12)
 <li data-cover="http://coverartarchive.org/release/3c6bf386-774f-4680-93bf-286b6bf996c4/12182847250-500.jpg" data-tags="post-metal, progressive metal, experimental, sludge" role="button">
 The Ocean - Anthropocentric (2010-11-09)
 </li>
-<li data-cover="https://img.discogs.com/GR2-kdW4iRzgKcL04flPhTNynbM=/fit-in/400x401/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2546882-1289843562.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
+<li data-cover="https://img.discogs.com/d6nMA51RfJ0XzdYIdpz-y6bHFj0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2742693-1298996856.jpeg.jpg" data-tags="metalcore, post-hardcore" role="button">
 Underoath - Ø (Disambiguation) (2010-11-09)
 </li>
 <li data-cover="https://img.discogs.com/OXlq4ZPsy0aS_pTXqm9JNw27K1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783932-1486678149-1140.jpeg.jpg" data-tags="post-metal" role="button">

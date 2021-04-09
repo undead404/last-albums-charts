@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T03:21:02.040Z
+date: 2021-04-09T21:34:01.444Z
 title: "national socialist black metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -126,7 +126,7 @@ Insane Clown Posse - The Wraith: Remix Albums (2006-11-14)
 <li data-cover="http://coverartarchive.org/release/81e0bd2c-c61b-4c9a-8f8a-21916911e1e6/8852178381-500.jpg" data-tags="deathcore" role="button">
 Attila - Fallacy (2007)
 </li>
-<li data-cover="https://img.discogs.com/J84TNUtvZykEzfA9n_RGXxAiElI=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005277-1564185566-6144.jpeg.jpg" data-tags="pop, avril lavigne, rock, pop rock" role="button">
+<li data-cover="https://img.discogs.com/ztccbjTZowAxLXbCIw8x3DcA_Uw=/fit-in/324x324/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-486733-1176762711.jpeg.jpg" data-tags="pop, avril lavigne, rock, pop rock" role="button">
 Avril Lavigne - Girlfriend (2007-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f4e0c1b-9f9f-427b-a654-0a85debd6edf/27366556586-500.jpg" data-tags="hip-hop, detroit" role="button">
@@ -154,6 +154,9 @@ Steel Panther - Death To All But Metal (2008)
 サタンです - サタンです #6 (demo) (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal" role="button">
+サタンです - サタンです #7 (demo) (2008)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal" role="button">
 サタンです - サタンです final (2008)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jonas brothers, pop rock" role="button">
@@ -165,7 +168,7 @@ Brokencyde - BC13 (2008-03-27)
 <li data-cover="http://coverartarchive.org/release/944c0440-8285-4a98-bcea-238e51f534e3/2512771498-500.jpg" data-tags="crunkcore" role="button">
 Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
-<li data-cover="https://img.discogs.com/FjLGaTafIscM8hQMlZ18AdraIVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7271769-1437699076-6523.jpeg.jpg" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dbb2d9e-da8d-4ad9-a14c-a856572a40c6/4541759300-500.jpg" data-tags="black metal, metal, pagan, polish, polska, 2000s, poland, nsbm, heathen, pagan black metal, raw black metal, ns black metal, polish black metal, national socialist black metal, polski, underground black metal, heathen black metal, raw pagan black metal, polski nsbm" role="button">
@@ -251,9 +254,6 @@ Deafheaven - Libertine Dissolves (2011-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/216dc68b-c7db-4c5f-b054-753d6d3fd1d1/12911239802-500.jpg" data-tags="black metal, metal" role="button">
-Liturgy - Aesthethica (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Set the World on Fire (2011-06-14)

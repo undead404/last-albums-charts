@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T20:40:01.390Z
+date: 2021-04-09T21:09:01.468Z
 title: "guitar virtuoso: 100 albums you must listen to before you die"
 ---
 ![Joe Satriani - Surfing With The Alien (1987-10-15)](http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg "Joe Satriani - Surfing With The Alien (1987-10-15)")
@@ -27,8 +27,8 @@ Jeff Beck - Truth (1968-08)
 <li data-cover="http://coverartarchive.org/release/1c546b7c-9342-44b2-8049-f6c66f32d29c/16055568607-500.jpg" data-tags="blues, blues rock" role="button">
 Johnny Winter - Johnny Winter (1969)
 </li>
-<li data-cover="http://coverartarchive.org/release/fb517058-c9b3-4c2d-83ef-06b655c9ecd6/4016003210-500.jpg" data-tags="singer-songwriter, blues, eric clapton" role="button">
-Eric Clapton - Clapton (1973)
+<li data-cover="http://coverartarchive.org/release/8daf4cd8-def7-4993-b1ef-340700ca95ff/7443035790-500.jpg" data-tags="blues rock" role="button">
+Rory Gallagher - Tattoo (1973)
 </li>
 <li data-cover="https://img.discogs.com/F_PpNjjNEZPo3pSL97LApvoxhJU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016529-1572163829-8011.jpeg.jpg" data-tags="fusion" role="button">
 Jeff Beck - Blow by Blow (1975-03)
@@ -102,6 +102,9 @@ Steve Vai - Passion and Warfare (1990-05)
 <li data-cover="https://img.discogs.com/grSpfqZqsV9qFkpFEpGHnT9B-D8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320471-1317829073.jpeg.jpg" data-tags="blues rock, blues, guitar" role="button">
 The Vaughan Brothers - Family Style (1990-09-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/856a9660-eeb3-4088-837d-79f8ad094463/3128706063-500.jpg" data-tags="classic rock, rock" role="button">
+Thin Lizzy - Dedication (1991)
+</li>
 <li data-cover="https://img.discogs.com/7aFINOY3R4gg3XpTLiN3Kyp12IA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6421107-1418785861-3056.jpeg.jpg" data-tags="guitar virtuoso" role="button">
 Santana - The Best of Santana (1991)
 </li>
@@ -159,6 +162,9 @@ Joe Satriani - Crystal Planet (1998-03-03)
 <li data-cover="http://coverartarchive.org/release/6173c409-e099-46e8-b823-677bb08b255a/14928692380-500.jpg" data-tags="instrumental, ambient, guitar virtuoso" role="button">
 Buckethead - Colma (1998-03-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/b5720a59-f7d5-4b8b-b4ed-a7b7afebde86/15328439708-500.jpg" data-tags="guitar virtuoso, instrumental" role="button">
+Eric Johnson - Seven Worlds (1998-09-22)
+</li>
 <li data-cover="https://img.discogs.com/zY-HU8HxQL1mgQaUvuEXNqpWr54=/fit-in/600x800/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13243223-1550597669-6600.jpeg.jpg" data-tags="blues, guitar, allboutguitar, allboutguitarcom, blues-rockclub" role="button">
 Jeff Beck - Who Else! (1999-03)
 </li>
@@ -174,17 +180,17 @@ Toto - Mindfields (1999-11-16)
 <li data-cover="http://coverartarchive.org/release/b4803f49-06f2-383f-b790-10d1fff6b85e/15544478160-500.jpg" data-tags="instrumental rock" role="button">
 Joe Satriani - Engines of Creation (2000-03-13)
 </li>
-<li data-cover="https://img.discogs.com/T-dzms9Q1snuS78yHLDSQdzo7Vc=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4037835-1353171595-3128.jpeg.jpg" data-tags="blues rock" role="button">
-Joe Bonamassa - A New Day Yesterday (2000-10-24)
-</li>
 <li data-cover="https://img.discogs.com/h8E77VPub3W_ckBglx9y_HUt2VU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8254566-1458042076-9050.jpeg.jpg" data-tags="guitar virtuoso, jeff beck, rock, guitar" role="button">
 Jeff Beck - You Had It Coming (2000-11-15)
 </li>
 <li data-cover="https://img.discogs.com/TkppRoHm77iJ9cTYtaK1xlOehaE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479064-1599514301-9114.jpeg.jpg" data-tags="instrumental, progressive rock" role="button">
 John Petrucci & Jordan Rudess - An Evening With John Petrucci & Jordan Rudess (2000-12-11)
 </li>
-<li data-cover="https://img.discogs.com/AwH1a7GVNnghrZj1PCtYZV0GJGc=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14800801-1582062649-2695.jpeg.jpg" data-tags="blues rock" role="button">
-Joe Bonamassa - So, It's Like That (2002)
+<li data-cover="https://img.discogs.com/JaZ1LxZoip0FmnGfmhKMWmWafVs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2847858-1493100669-6696.jpeg.jpg" data-tags="instrumental rock" role="button">
+Steve Vai - Alive In An Ultra World (2001-06-19)
+</li>
+<li data-cover="https://img.discogs.com/oBbo216xkMxP1unsrQQE74uYWXY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3317315-1456064135-8270.jpeg.jpg" data-tags="guitar virtuoso" role="button">
+Rusty Cooley - Rusty Cooley (2002)
 </li>
 <li data-cover="https://img.discogs.com/15w7al9qUqcYoydsV9CcpM2xlXg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11218284-1512089234-1645.jpeg.jpg" data-tags="guitar virtuoso" role="button">
 Andy Timmons - That Was Then, This Is Now (2002)
@@ -212,9 +218,6 @@ Kiko Loureiro - No Gravity (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/73f34799-1a4c-4ecb-89dc-2a05a0f1103b/4526835963-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
 Joe Satriani - Is There Love in Space? (2004-04-13)
-</li>
-<li data-cover="https://img.discogs.com/JNMPcEx5IIkKVOzVixKStAhwm-w=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5986971-1408139086-1777.jpeg.jpg" data-tags="jazz, bossa nova, latin, dramatic, intimate, samba, sophisticated, guitar virtuoso, summery, enigmatic, international, brazilian jazz, bright, samba cancao, bresil, brazilian traditions, global jazz" role="button">
-Luiz Bonfá - Solo in Rio 1959 (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/290c34b5-f56e-4fa9-8676-04a3e920eda5/15271585695-500.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
 Steve Vai - Real Illusions: Reflections (2005-02-22)
@@ -308,9 +311,6 @@ Justin Bieber - My Worlds Acoustic (2010-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f2429ef-aa4d-472e-ad89-12bf7c2cca4d/11481239613-500.jpg" data-tags="instrumental, progressive metal, progressive, guitar virtuoso, shred" role="button">
 Andy James - Andy James (2011)
-</li>
-<li data-cover="https://img.discogs.com/zJFL_64IjYCGNI0DDU8E5MzPovE=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2663331-1297710621.jpeg.jpg" data-tags="rock, indie, alternative rock" role="button">
-Anna Calvi - Anna Calvi (2011-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d13e62be-3de6-4d05-b95c-b2d4cbeda3a5/6968673564-500.jpg" data-tags="progressive metal" role="button">
 Jeff Loomis - Plains of Oblivion (2012-04-10)

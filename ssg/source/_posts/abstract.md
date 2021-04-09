@@ -1,17 +1,17 @@
 ---
-date: 2021-04-07T14:02:01.343Z
+date: 2021-04-09T21:28:01.511Z
 title: "abstract: 100 albums you must listen to before you die"
 ---
 ![Rhye - Woman (2013-01)](http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg "Rhye - Woman (2013-01)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/07dcdd5f-3214-4c53-b985-633812424f0f/3773287828-500.jpg" data-tags="abstract, idm, peel sessions" role="button">Autechre - Peel Session (1999-01-11)</li>
-<li data-cover="http://coverartarchive.org/release/d19cd24d-7fc1-41c9-bcc7-4ef1dc4a143f/13601095999-500.jpg" data-tags="electronic, trip-hop, ambient, experimental, downtempo, abstract, idm, ninja tune, drum n bass, d'n'b, brisk sound, aersche-tag wegen die ich nach 1000 tracks noch kein profile hab alle anderen haben eins wieso ich nicht wieso aersche aersche kinder blumen, good for driving, yyy, kuhle im sofa, love 1, nojsa spins this vinyl, k00lk0r3, n01s3 n k00l" role="button">Amon Tobin - Verbal Remixes & Collaborations (2003-07-07)</li>
+<li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">Aphex Twin - Come to Daddy (1997-10-16)</li>
+<li data-cover="http://coverartarchive.org/release/737440f5-cbc0-42d8-beee-80df466ba243/4349788513-500.jpg" data-tags="glitch, experimental, idm" role="button">Gold Panda - Companion (2010)</li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">Caribou - Swim (2010-04-16)</li>
-<li data-cover="http://coverartarchive.org/release/8054d23b-6e8a-4be7-a368-39a501fff640/8156658475-500.jpg" data-tags="downtempo, abstract, idm, 12-inch" role="button">Gold Panda - Marriage (2011-02)</li>
-<li data-cover="https://img.discogs.com/-rBcQNVsYrrZItU1YryFhNlChqA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2750312-1324292189.jpeg.jpg" data-tags="hip-hop, instrumental, abstract, sample-based, producer" role="button">Apollo Brown - Clouds (2011-02-22)</li>
 <li data-cover="http://coverartarchive.org/release/9295d3b8-4fee-40b3-8d3a-1f87de4b12bc/4765105879-500.jpg" data-tags="alternative hip-hop, rap" role="button">Tyler, the Creator - Goblin (2011-05-10)</li>
+<li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">Clams Casino - Rainforest (2011-06)</li>
 <li data-cover="http://coverartarchive.org/release/30c9543a-c050-43ba-b9c6-3a9f073c2dd9/15940622429-500.jpg" data-tags="instrumental, experimental, abstract, warp, warp records, trap" role="button">Hudson Mohawke - Satin Panthers (2011-07-11)</li>
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">Active Child - You Are All I See (2011-08-23)</li>
+<li data-cover="https://img.discogs.com/J85ybqtHuDBxfev7ARtE4s4IsUo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539-1165925325.jpeg.jpg" data-tags="ambient, post-rock, downtempo, electro, techno, abstract, warp, idm, drone, warp records, folktronica, modern classical, club/dance, aboriginal, 2012 wowish, alternative-indie rock, electronic superhighway, favourite electronic albums" role="button">Clark - Iradelphic (2012-04-02)</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">Rhye - Woman (2013-01)</li>
 <li data-cover="http://coverartarchive.org/release/42eb4094-7a11-40ad-9f80-247f1842d990/8197604177-500.jpg" data-tags="electronic, instrumental, experimental, abstract" role="button">Mndsgn - Yawn Zen (2014-08-25)</li>
 </ol>
@@ -21,14 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/701f84f0-7e56-46dd-acab-37a6ec4dc2de/5800993945-500.jpg" data-tags="industrial, experimental" role="button">
-Coil - Scatology (1984)
+<li data-cover="http://coverartarchive.org/release/2b20bd11-00d2-4800-baa0-d2eb05486f09/6937494644-500.jpg" data-tags="idm" role="button">
+Polygon Window - Surfing on Sine Waves (1992)
 </li>
-<li data-cover="http://coverartarchive.org/release/378a58e5-d366-3177-bae7-e63c33c1443b/21974040049-500.jpg" data-tags="industrial, experimental" role="button">
-Coil - Horse Rotorvator (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/353e496e-e738-3f42-b2a2-c35d01db53f8/9402630851-500.jpg" data-tags="avant-garde, experimental, guitar" role="button">
-Buckethead - Bucketheadland (1992)
+<li data-cover="http://coverartarchive.org/release/147213f3-4756-4183-9cef-1360b0d90f42/4076525239-500.jpg" data-tags="techno, abstract, breakbeat, acid house, aersche-tag wegen die ich nach 1000 tracks noch kein profile hab alle anderen haben eins wieso ich nicht wieso aersche aersche kinder blumen" role="button">
+Aphex Twin - Xylem Tube EP (1992-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/63b5e482-c5a4-4b71-9353-85066a900b01/2575550161-500.jpg" data-tags="electronic, ambient, experimental, abstract, idm, 4 star" role="button">
 Aphex Twin - On Remixes (1993-11-15)
@@ -36,71 +33,80 @@ Aphex Twin - On Remixes (1993-11-15)
 <li data-cover="http://coverartarchive.org/release/862290d3-b4cf-4b76-9b78-9395fb284996/1558432335-500.jpg" data-tags="ambient, abstract, idm" role="button">
 Aphex Twin - Words & Music (1994-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a6c0622-432d-42c8-9efc-239b8d05880f/2978083210-500.jpg" data-tags="ambient, abstract, idm" role="button">
-Wagon Christ - Phat Lab. Nightmare (1994-07)
+<li data-cover="http://coverartarchive.org/release/62a9a8a4-f5fa-4d40-bcdd-25b243f133e7/2499675510-500.jpg" data-tags="idm" role="button">
+Autechre - Anti EP (1994-09-03)
 </li>
-<li data-cover="https://img.discogs.com/VgO-E24HwN31KyFd71slx7_LQqk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12010293-1526496214-3348.jpeg.jpg" data-tags="idm" role="button">
-Autechre - Anvil Vapre (1995-10-02)
+<li data-cover="https://img.discogs.com/sK9h1adOTnPeoHrXq6lYf-F9k-8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51735-1144213857.jpeg.jpg" data-tags="idm, ambient" role="button">
+Autechre - Amber (1994-11-07)
 </li>
-<li data-cover="https://img.discogs.com/rUz2HpWaffpnc33wxD8-zGFl8qI=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16199114-1605130882-4570.jpeg.jpg" data-tags="trip-hop, instrumental, downtempo, abstract, trip hop, instrumental hip-hop, instrumental hip hop, break beats, samurai champloo, nujabes, downtempo hip-hop, downtempo instrumental hip-hop, tsutchie, fat jon, downtempo hip hop, samon kawamura, downtempo instrumental hip hop, blazo, the cancel, beautiful killing machine, fat jon as maurice galactica, birocratic, ljones" role="button">
-DJ Cam - Abstract Manifesto (1996)
+<li data-cover="http://coverartarchive.org/release/49e04615-eb8d-3a81-af8e-402496a33d19/4819179308-500.jpg" data-tags="idm, electronic, ambient" role="button">
+Autechre - Garbage (1995-02-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/81d64093-15e3-47ab-ad84-ad06a3fa02ad/10159434965-500.jpg" data-tags="ambient, dub, abstract, tribal, post-industrial, llllllllllllllllllllllllllllllllllllllll, radio radio radio" role="button">
-Muslimgauze - Gun Aramaic (1996-01-08)
+<li data-cover="http://coverartarchive.org/release/0d339f10-ad00-43b1-a113-579481e9c33f/863426134-500.jpg" data-tags="trip-hop, acid jazz" role="button">
+Red Snapper - Reeled and Skinned (1995-06-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/502200af-3b31-4a43-96a9-f6c791ca1843/2610689004-500.jpg" data-tags="abstract, warp, idm, knorpelfunky, adrien wayne" role="button">
-Autechre - We R Are Why (1996-04-14)
+<li data-cover="http://coverartarchive.org/release/610f72fa-ff57-3414-b390-5852f2a6a397/27376932322-500.jpg" data-tags="electronic, trip-hop, chilled" role="button">
+DJ Krush - Milight (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/8fb085c9-b72e-327d-a584-dbb4b090bf29/4667010710-500.jpg" data-tags="electronica" role="button">
+Aphex Twin - Girl/Boy EP (1996-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/acc5c175-799e-4f13-b17c-07bae9d14345/2899367975-500.jpg" data-tags="electronic, trip-hop, abstract, trip hop, drum n bass, elettronica, barturismooth" role="button">
 Sofa Surfers - The Plan (1997)
 </li>
-<li data-cover="http://coverartarchive.org/release/48531ac3-b2d9-4f20-922f-6dfb09752023/11814329157-500.jpg" data-tags="downtempo, abstract, luke francis vibert, trip-hip-hop" role="button">
-Wagon Christ - The Power Of Love (1998-06-02)
+<li data-cover="http://coverartarchive.org/release/a6791dbb-27f8-4f11-86bd-fa1ac3f0d654/21201572275-500.jpg" data-tags="idm" role="button">
+Autechre - Envane (1997-01-27)
 </li>
-<li data-cover="https://img.discogs.com/nCe1YFfUa_5y_D0RCdnyK19SpCI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-227157-1292146956.jpeg.jpg" data-tags="downtempo, abstract, future jazz" role="button">
-Homelife - Homelife (1998-06-16)
+<li data-cover="https://img.discogs.com/Du0hBvd0btTI7gh8tdc0DFESGik=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-35288-1526519542-3987.jpeg.jpg" data-tags="idm, electronic" role="button">
+Autechre - Cichlisuite (1997-08-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ef18370-97a2-4c82-8a4d-291046265e53/10157987025-500.jpg" data-tags="hip hop, experimental, abstract, 2009 releases" role="button">
-Muslimgauze - Uzi Mahmood (1998-08-05)
+<li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">
+Aphex Twin - Come to Daddy (1997-10-16)
 </li>
-<li data-cover="https://img.discogs.com/r8Xbr7UliMqP8BPfn5Q9GgTuPIo=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-18679-1224065663.jpeg.jpg" data-tags="electronic, ambient, experimental, abstract, drone, hypnotic" role="button">
-Penumbra - Anoraks (1999)
+<li data-cover="https://img.discogs.com/0oIYINpXweVGwt6dcz9KtgWweoQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30811-1491675470-7519.jpeg.jpg" data-tags="idm" role="button">
+Autechre - LP5 (1998-07-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ba66a6d-9ac4-465f-9a9f-e4d20e0d7f4b/4219700465-500.jpg" data-tags="ambient, electronic, idm" role="button">
+Bola - Soup (1998-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/07dcdd5f-3214-4c53-b985-633812424f0f/3773287828-500.jpg" data-tags="abstract, idm, peel sessions" role="button">
 Autechre - Peel Session (1999-01-11)
 </li>
-<li data-cover="https://img.discogs.com/WKb79P2JhaXi3rGhwD9G3H2G_iI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8676527-1470659014-4905.jpeg.jpg" data-tags="electronic, abstract, warp, idm, leftfield, wap 124" role="button">
-Autechre - Splitrmx12 (1999-08-23)
+<li data-cover="http://coverartarchive.org/release/432cfc14-f890-4bdb-941d-661de00c4e6f/4458087548-500.jpg" data-tags="turntablism, electronic, ninja tune" role="button">
+Kid Koala - Carpal Tunnel Syndrome (2000-02-15)
 </li>
-<li data-cover="https://img.discogs.com/My8NrM9hLe8Xn4ms_V_mH3LSDkg=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-476320-1119252489.jpg.jpg" data-tags="electronic, experimental, post-rock, abstract, future jazz, fake jazz" role="button">
-Euphone - Hashin' It Out (2000-10-31)
+<li data-cover="https://img.discogs.com/jHG4_pT0CpjqoRpRQPQwn_GiuhA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5906-1334943576.jpeg.jpg" data-tags="idm" role="button">
+Tipper - The Critical Path (2000-03-13)
 </li>
-<li data-cover="https://img.discogs.com/lz2AoqSTFq3AGiZbZ5zW0hhzbTo=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1944-1251211897.jpeg.jpg" data-tags="experimental, abstract, idm, glitch" role="button">
-Syndrone - Triskaideka (2001)
+<li data-cover="https://img.discogs.com/dW_Wzcb8oAu5sbFhJVRQAT2NS_Q=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2320295-1276702795.jpeg.jpg" data-tags="electronic" role="button">
+Amon Tobin - 4 Ton Mantis (2000-09-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/9a165d80-3177-41b2-848a-db81e3a8f298/28369958253-500.jpg" data-tags="electronic, experimental, abstract, idm, pause 003 cd, elochnye igrushki" role="button">
-Eu - Reframing (2001-01-03)
+<li data-cover="http://coverartarchive.org/release/b40e6b9c-762f-4dab-948d-e9851562862e/7786774956-500.jpg" data-tags="idm" role="button">
+Autechre - Peel Session 2 (2000-12-11)
 </li>
-<li data-cover="https://img.discogs.com/V7WioLTQKDYesxB6n5zIAxOSKyo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-72698-1323883748.jpeg.jpg" data-tags="electronic, electropop, electro, techno, minimal techno, abstract, idm, deutsch, last fm mistake, you are welcome in poland, elektrolux, for rainy days, ladomat 2000, zomba" role="button">
-Sensorama - Projektor (2001-06)
+<li data-cover="https://img.discogs.com/HxLLtLVQjDkOkQqaQ3-pvs4cDm4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1381-1265640115.jpeg.jpg" data-tags="idm, avantgardener" role="button">
+Matmos - A Chance to Cut Is a Chance to Cure (2001-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/f98a5816-aa1e-49bd-acdc-dd1a42b1f5bf/25471937307-500.jpg" data-tags="noise, experimental rock, abstract, freak folk, 00s, neo-psychedelia, psychedelic noise" role="button">
-Avey Tare, Panda Bear & Geologist - Danse Manatee (2001-06-30)
+<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="idm, glitch" role="button">
+Chris Clark - Clarence Park (2001-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/d0d4a2f9-5f91-4c5f-bf5d-8a530c069f97/8144434274-500.jpg" data-tags="electronic, abstract, idm, glitch, avant-garde, drill n bass, broken-beat, bleepblip" role="button">
-Mouse on Mars - Agit Itter It It (2001-11-21)
+<li data-cover="http://coverartarchive.org/release/5c83d579-c302-30fa-93c5-1a2c7144bd3a/7890623689-500.jpg" data-tags="idm" role="button">
+Autechre - Confield (2001-04-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="experimental, abstract, 3pop" role="button">
-cLOUDDEAD - The Sound of a Handshake / This About the City (2002-03-05)
+<li data-cover="http://coverartarchive.org/release/f7d7e7d5-cb55-4353-a783-8b2288cfb57f/15210139515-500.jpg" data-tags="abstract, basic channel, 2 s34rch, n01s3 n k00l, maj minimal" role="button">
+Deadbeat - Primordia (2001-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4cc179b7-a6e7-4ed9-9f97-45f3eca8ef46/20217460095-500.jpg" data-tags="electronic, abstract, leftfield, mantric acoustic" role="button">
-Caural - Stars on My Ceiling (2002-06-11)
+<li data-cover="http://coverartarchive.org/release/83b25612-55c6-4cbf-8a38-60fc7189a84b/1837881315-500.jpg" data-tags="trip-hop" role="button">
+Sofa Surfers - Encounters (2002-01-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ab0baae-56fb-46fb-952b-edf66b20f136/8390006441-500.jpg" data-tags="hip hop, downtempo, abstract, idm, glitch" role="button">
-Nautilis - Sketches (2002-07-08)
+<li data-cover="http://coverartarchive.org/release/256567ac-7641-4f3c-98c2-7ed03498fed8/9336346447-500.jpg" data-tags="electronic" role="button">
+Daedelus - Invention (2002-04-30)
 </li>
-<li data-cover="https://img.discogs.com/Tjv-cSO3ppciyntl-IlCCVSWExg=/fit-in/256x232/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-111528-001.jpg.jpg" data-tags="electronic, experimental, abstract, idm" role="button">
-Tennis - Furlines (2003-01)
+<li data-cover="http://coverartarchive.org/release/e2840251-375a-3e3a-8c06-6714d1edb41b/8189295779-500.jpg" data-tags="electronic" role="button">
+Amon Tobin - Out From Out Where (2002-10-10)
+</li>
+<li data-cover="https://img.discogs.com/GxM5fH36_6CO5HA_U54GKf22m_s=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-720200-1544537621-1081.jpeg.jpg" data-tags="hip-hop, rap" role="button">
+Dr. Octagon - The Return of Dr. Octagon (2003)
 </li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="rock, instrumental, ambient, post-rock, slow, romantic, shoegaze, abstract, atmospheric, soft, relaxing, post rock, art, reading, psychedelic ambient, iodine recordings" role="button">
 Gregor Samsa - 27:36 (2003-03-18)
@@ -114,68 +120,71 @@ Amon Tobin - Verbal Remixes & Collaborations (2003-07-07)
 <li data-cover="http://coverartarchive.org/release/442059c2-4c1c-4c6c-acb5-06803e4827c1/5375814140-500.jpg" data-tags="hip-hop, abstract" role="button">
 Villain Accelerate - Maid Of Gold (2003-08-12)
 </li>
-<li data-cover="https://img.discogs.com/kwJ_9L-4_cLhBec8hypdJhPDQKs=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413670-1110205129.jpg.jpg" data-tags="hip-hop, abstract, underground hip-hop, hiphop, work songs, full cds, new radical chic, memories of undergrad" role="button">
-Count Bass D - Begborrowsteel (2004-02-21)
+<li data-cover="http://coverartarchive.org/release/c13efc9c-999e-4fa2-9454-bcabae807400/10901282813-500.jpg" data-tags="electronic, idm" role="button">
+Chris Clark - Empty the Bones of You (2003-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3967f39d-ed10-4674-9dba-3f571c22f326/11640462703-500.jpg" data-tags="downtempo, abstract, primary, weird conceptual art music, playlist:atwork" role="button">
 Hot Chip - Down With Prince (2004-03-08)
 </li>
-<li data-cover="https://img.discogs.com/3c7sHM5CqO450p0yPOWuhdRV--g=/fit-in/113x111/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-236214-1078975281.gif.jpg" data-tags="electronic, experimental, 8bit, abstract, idm, glitch, avant-garde, chiptune, post-pop" role="button">
-Team Doyobi - Choose Your Own Adventure (2004-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/54a77440-1308-463a-9309-2d06833d58e3/1892948879-500.jpg" data-tags="ambient, experimental, minimal, abstract, minimalism, japanese electronic" role="button">
-Fourcolor - Water Mirror (2004-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/49f883d8-a198-4d6c-8659-1361a9662f1a/10886117396-500.jpg" data-tags="electronic, ambient, downtempo, abstract" role="button">
-Triola - Triola im Fünftonraum (2004-09-21)
+<li data-cover="http://coverartarchive.org/release/6a291bd0-cc9d-41b8-899b-b1519b0b5034/21797764256-500.jpg" data-tags="drone, drone metal" role="button">
+Sunn O))) - White2 (2004-06-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dde87d49-f100-40dc-bec3-8006175ab230/3404861634-500.jpg" data-tags="electronic" role="button">
 Tycho - Sunrise Projector (2004-09-24)
 </li>
-<li data-cover="https://img.discogs.com/39SURWf65o0dX8wuQAZD9Xs1ejs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-325746-1522551241-9734.jpeg.jpg" data-tags="chillout, ambient, experimental, easy listening, indietronica, shoegaze, abstract, idm, dreamy, dream pop, drone, glitch-hop, space pop, intellegent" role="button">
-Manual & Syntaks - Golden Sun (2004-11-23)
+<li data-cover="http://coverartarchive.org/release/93a44aca-703f-3562-a14a-38db2b5395c3/4601909112-500.jpg" data-tags="electronica, ambient" role="button">
+Susumu Yokota - Symbol (2004-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f568e8c-626d-45a6-95c2-10b2de564239/6456816413-500.jpg" data-tags="glitch" role="button">
-Ryoji Ikeda - Dataplex (2005)
+<li data-cover="http://coverartarchive.org/release/3c6b8279-a59b-40a5-a607-ad5dc1a684d0/10373912964-500.jpg" data-tags="electronic, acid, idm" role="button">
+AFX - Analord 05 (2005-03-14)
 </li>
-<li data-cover="https://img.discogs.com/D-A6iNpMG17XkMCwMSq1B5_JTME=/fit-in/476x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396085-1111334712.jpg.jpg" data-tags="abstract, idm" role="button">
-Quinoline Yellow - Dol-Goy Assist (2005-03-21)
+<li data-cover="http://coverartarchive.org/release/c5af15a6-a463-455d-9308-910b1f5b99f1/1990842142-500.jpg" data-tags="idm" role="button">
+Autechre - Untilted (2005-04-09)
 </li>
-<li data-cover="https://img.discogs.com/e_cv0ADXxZfRuqp-MinyI21UhG0=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-574833-1133353697.gif.jpg" data-tags="techno, abstract" role="button">
-Phon.o - Burn Down The Town (2005-08)
+<li data-cover="http://coverartarchive.org/release/1827a150-50d3-322f-88e8-23855fd9cd3b/21285140194-500.jpg" data-tags="experimental, electronic, avant-garde" role="button">
+Ulver - Blood Inside (2005-06-06)
 </li>
-<li data-cover="https://img.discogs.com/fi08sU6xK-8H88EoR2ih0qltax8=/fit-in/396x354/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-531442-1145349374.jpeg.jpg" data-tags="vocal, female, chill, abstract, spiotr, lubi sie" role="button">
-Cibelle - About A Girl (2005-11-14)
+<li data-cover="http://coverartarchive.org/release/b7b050f6-1a17-4896-9f7c-7ee593739423/4523666954-500.jpg" data-tags="ninja tune" role="button">
+One Self - Children of possibility (2005-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/14cfa8eb-c794-4dfe-96dc-c7b614572d9a/19048483745-500.jpg" data-tags="abstract, idm, franny" role="button">
-Cepia - Pearl EP (2006-02-21)
+<li data-cover="https://img.discogs.com/ImpV3xoHQYFhtHT5z2mZaf3fI0s=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-507139-1168299383.jpeg.jpg" data-tags="doom metal, drone doom" role="button">
+Khanate - Capture & Release (2005-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/56050724-56fd-4aa2-b730-58681884106c/8112898445-500.jpg" data-tags="electronica, emusic" role="button">
+Jan Jelinek - Kosmischer Pitch (2005-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8ea618e-b7f2-4c6c-a2f6-160bf2338d57/11939232825-500.jpg" data-tags="ambient" role="button">
+Between Interval - Autumn Continent (2006)
+</li>
+<li data-cover="https://img.discogs.com/Xjt1RJm1XjVW82Lp9qAgwoDm-FI=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566383-1536756023-2623.jpeg.jpg" data-tags="experimental, doom metal, abstract, sludge metal" role="button">
+Harvey Milk - Special Wishes (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/77b77c76-1b2d-41e9-bde0-b8d4ef6ec593/3646110240-500.jpg" data-tags="electronic" role="button">
+B. Fleischmann - The Humbucking Coil (2006-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a0ec8c0e-7d78-4008-975a-226059fe5b76/13982340367-500.jpg" data-tags="electronic, indie, experimental, abstract, idm, glitch, post-pop, steveadams fm, steveadamsfm, pop overload" role="button">
 DAT Politics - Wow Twist (2006-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/266a3129-07da-4c9a-973f-823d3c9a65e1/4511158650-500.jpg" data-tags="trip-hop, hip hop, experimental, dub, abstract, contemporary jazz, broken beat, turntabalism, abstract hip-hop" role="button">
-DJ Krush - OuMuPo 6 (2007-03-05)
+<li data-cover="http://coverartarchive.org/release/21afc18e-2a98-4200-85e6-f048f1ba881e/10339877652-500.jpg" data-tags="ninja tune, electronic, downtempo, guitar" role="button">
+Fink - Biscuits for Breakfast (2006-04-17)
 </li>
-<li data-cover="https://img.discogs.com/G1GPfv-lpSDPh50QDGSnLSQ9wyY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-961265-1448419178-5201.jpeg.jpg" data-tags="experimental, abstract, idm, glitch, broken beat" role="button">
-Spoonbill - Nestegg (2007-03-24)
+<li data-cover="https://img.discogs.com/NAaCtyd822z9VtJm0-BowPokDDY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-806701-1517155150-5485.jpeg.jpg" data-tags="hip-hop, electronic, electronica, experimental, dub, experimental hip hop, abstract, idm, future jazz, beats, sausage, need to check out, garage hop, deep underwater hiphop" role="button">
+Dimlite - This Is Embracing (2006-11-01)
 </li>
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="noise, abstract, drone, emd, isolationism" role="button">
-Daniel Menche - Animality (2007-03-26)
+<li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">
+Amon Tobin - Foley Room (2007-02-26)
 </li>
-<li data-cover="https://img.discogs.com/C94i_nGa7D2X0PsXVFR0cxyBr1o=/fit-in/590x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-992133-1181655023.jpeg.jpg" data-tags="abstract, glitch" role="button">
-Jodi Cave - for myria (2007-06-12)
+<li data-cover="http://coverartarchive.org/release/6e9b4957-33eb-44c5-8745-71c3a7c9594a/8465355303-500.jpg" data-tags="modern classical" role="button">
+EZ3kiel - Naphtaline (2007-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/0bbc35bc-87c8-4a0a-9acd-f1d243c64842/3410553200-500.jpg" data-tags="ambient, experimental, abstract, haunting, conceptual" role="button">
-The Caretaker - recollected memories from the museum of garden history (2008)
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, rock, punk, electro, abstract, thrusting rock, grumpyit, my best discoveries, magic 111, iveldie best of 2007, 2007 favs, nancykitten all-time favourite albums, rewind 2007, jaarlijstje 2007, 2007 releases" role="button">
+Von Südenfed - Tromatic Reflexxions (2007-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd554851-acbd-31c8-8bf1-61a297e55fb7/3653298333-500.jpg" data-tags="idm" role="button">
+Autechre - Quaristice (2008-01-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/efe990f7-a86f-48bb-8a10-cd490c755479/27006317741-500.jpg" data-tags="electro, techno, minimal, abstract, bpitch control" role="button">
 Ellen Allien - Sool (2008-05-27)
-</li>
-<li data-cover="https://img.discogs.com/j8cantN5ueTS_HmZJ4snfLVBlhc=/fit-in/453x459/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1359485-1212682283.jpeg.jpg" data-tags="electronic, experimental, abstract, 2008 releases" role="button">
-Oni Ayhun - OAR001 (2008-06-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/49d6caa6-7c4c-48cf-8011-4d74e3c64077/1016671483-500.jpg" data-tags="funeral doom metal, doom metal" role="button">
-Esoteric - The Maniacal Vale (2008-06-16)
 </li>
 <li data-cover="https://img.discogs.com/92-ofkI7_MQO7ACq_H-ijuOgfAE=/fit-in/600x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10205323-1493378759-4744.jpeg.jpg" data-tags="house, abstract, in our nature remixes" role="button">
 José González - In Our Nature Remixes (2008-07-21)
@@ -183,26 +192,32 @@ José González - In Our Nature Remixes (2008-07-21)
 <li data-cover="http://coverartarchive.org/release/c405a1a7-80f5-4ac2-a8ca-a4b2825ca47a/2327375489-500.jpg" data-tags="experimental, downtempo, abstract, lbm" role="button">
 Koushik - Out My Window (2008-09-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/19d039d5-6b2c-4bb4-800c-2c64f3552a5c/26376159346-500.jpg" data-tags="abstract, glitch, 00s" role="button">
-Ursula Bogner - Recordings 1969-1988 (2008-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/11fbc7b3-aab1-401b-8652-378daf933e9b/5817155879-500.jpg" data-tags="experimental, abstract, idm, glitch, organic" role="button">
-Spoonbill - Zoomorphic (2009)
-</li>
 <li data-cover="http://coverartarchive.org/release/870973a8-94cd-38f8-95c4-a15627ab1a79/11004776415-500.jpg" data-tags="instrumental, abstract, warp records" role="button">
 Hudson Mohawke - Polyfolk Dance (2009-01-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/54568ba1-e4ff-4b54-ba0d-fa1d38b25f2a/21573224261-500.jpg" data-tags="downtempo, abstract, idm" role="button">
+Loess - Burrows (2009-05-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/6da213e3-7ac0-4724-a932-469f1ba1465c/4777625217-500.jpg" data-tags="experimental, abstract, albumoftheday" role="button">
+Shabazz Palaces - Shabazz Palaces (2009-06-23)
 </li>
 <li data-cover="https://img.discogs.com/eJpWhfhJA-8yqULBA0aaVdwTlx8=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1870616-1249523028.jpeg.jpg" data-tags="experimental, abstract, psychedelic rock" role="button">
 The Gaslamp Killer - My Troubled Mind - EP (2009-08-04)
 </li>
-<li data-cover="https://img.discogs.com/vXZZdkWIKVV6UPGAZKj11Pcm9RY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2160093-1312204985.jpeg.jpg" data-tags="electronic, electronica, ambient, experimental, downtempo, minimal, minimal techno, abstract, idm, atmospheric, mexico, modern classical, dark ambient" role="button">
-Murcof - La Sangre Iluminada (2009-09-15)
+<li data-cover="http://coverartarchive.org/release/99b09d02-9cc9-3fed-8431-f162165a9371/6281423897-500.jpg" data-tags="electronic" role="button">
+Luke Vibert - We Hear You (2009-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/debf33c7-72e5-31eb-bd05-3123eee73550/20556897521-500.jpg" data-tags="experimental, techno, abstract" role="button">
-Mika Vainio - Vandal EP (2009-11-09)
+<li data-cover="http://coverartarchive.org/release/4d07d9de-68c4-4048-9c08-a4962fbd99f1/8017009685-500.jpg" data-tags="hauntology" role="button">
+Broadcast and The Focus Group - Broadcast and the Focus Group Investigate Witch Cults of the Radio Age (2009-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/51210c5f-3421-4340-bcbe-db33686686be/27895237280-500.jpg" data-tags="dubstep" role="button">
+Robot Koch - Death Star Droid (2009-11-13)
 </li>
 <li data-cover="https://img.discogs.com/U7Nukyaa7rhZLcVgmZ929suxQ48=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2033256-1578753387-4091.jpeg.jpg" data-tags="hip hop, left-field hip-hop, abstract, idm, ambient techno" role="button">
 Lone - Ecstasy & Friends (2009-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/737440f5-cbc0-42d8-beee-80df466ba243/4349788513-500.jpg" data-tags="glitch, experimental, idm" role="button">
+Gold Panda - Companion (2010)
 </li>
 <li data-cover="https://img.discogs.com/6E5wHVVJ2ULtPn_BZXaYI3x9N7k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2145008-1266439536.jpeg.jpg" data-tags="ambient, abstract, virgin" role="button">
 Massive Attack - Heligoland Remix EP (2010-01-28)
@@ -210,38 +225,32 @@ Massive Attack - Heligoland Remix EP (2010-01-28)
 <li data-cover="http://coverartarchive.org/release/366e9260-8db5-4646-95e2-6605408ba6dc/1570281996-500.jpg" data-tags="abstract" role="button">
 Active Child - She Was A Vision (2010-02-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4066a028-148e-4f2b-8399-475d43a4dfb5/6789442016-500.jpg" data-tags="abstract, leftfield, 8 out of 10, beatservice records" role="button">
-Xploding Plastix - Devious Dan EP (2010-03-01)
-</li>
 <li data-cover="https://img.discogs.com/w9cd3UpEjo7qVNa25W6pqdgEWns=/fit-in/315x317/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2171816-1268222661.jpeg.jpg" data-tags="experimental" role="button">
 Gonjasufi - A Sufi and a Killer (2010-03-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/88449c42-530d-4d5e-a5d0-9831e43cb64f/1086044272-500.jpg" data-tags="abstract, synth-pop, true panther sounds" role="button">
+Lemonade - Pure Moods (2010-03-09)
+</li>
+<li data-cover="https://img.discogs.com/ujy_Z4rPIjTCLJp6ZfsaU00QGV8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2166288-1267583927.jpeg.jpg" data-tags="electronic, experimental, idm, glitch, ambient" role="button">
+Deru - Say Goodbye To Useless (2010-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">
 Caribou - Swim (2010-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/fc45fdd0-73f7-4044-a18a-8bdd1a7e7580/8156442702-500.jpg" data-tags="experimental, downtempo, abstract, idm" role="button">
-Shigeto - Semi Circle EP (2010-04-20)
+<li data-cover="http://coverartarchive.org/release/f58ba780-ec15-4871-be75-5df97ce9cf2e/2215610398-500.jpg" data-tags="dream pop" role="button">
+Active Child - Curtis Lane (2010-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/59a9e7f8-2afb-4fdc-ae98-c803e6d91764/2454948533-500.jpg" data-tags="experimental, abstract, idm" role="button">
 Shigeto - What We Held On To EP (2010-07-20)
 </li>
-<li data-cover="https://img.discogs.com/3GGGMSIxG-Usq3EOpV9WGZNIBnw=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2581028-1296524090.jpeg.jpg" data-tags="experimental, downtempo, abstract" role="button">
-Teebs - Why Like This? (2010-10)
+<li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
+Gold Panda - Lucky Shiner (2010-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/f9b7ad27-0291-470c-aee6-468a9c8c8a12/4506815944-500.jpg" data-tags="ambient, dubstep, techno, minimal, abstract, breakbeat, tribal, dark ambient" role="button">
-Apparat - DJ-Kicks: Apparat (2010-10-25)
-</li>
-<li data-cover="https://img.discogs.com/ZLOmDAa76GxZtdWQxjHtXSB70m4=/fit-in/588x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2670212-1295834085.jpeg.jpg" data-tags="experimental, abstract" role="button">
-Old Apparatus - Old Apparatus (2011-01)
-</li>
-<li data-cover="https://img.discogs.com/CLBEtIjH07VsWOXvwi67piT1vLg=/fit-in/385x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3269509-1323493017.jpeg.jpg" data-tags="experimental, abstract, psychedelic, drone, ambient drone, relapse records, dark ambient drone" role="button">
-Locrian - The Clearing (2011-01-11)
+<li data-cover="https://img.discogs.com/aUrgLxIHY9fkjIO8m4LghC4z0_I=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531250-1293487636.jpeg.jpg" data-tags="experimental, abstract, chillwave, synth-pop, witch house, glo-fi, witch chill, newbreed, chill witch, 2010 faves" role="button">
+Laurel Halo - King Felix (2010-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8054d23b-6e8a-4be7-a368-39a501fff640/8156658475-500.jpg" data-tags="downtempo, abstract, idm, 12-inch" role="button">
 Gold Panda - Marriage (2011-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/000f1be4-78d6-4427-b5cb-2378a157927e/8042601198-500.jpg" data-tags="instrumental, industrial, krautrock, abstract" role="button">
-Mophono - Cut Form Crush (2011-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b67da832-4e7a-4dc7-b8c4-8fe0ef1ca21f/5650111691-500.jpg" data-tags="electronica, experimental, downtempo, abstract, drum n bass, remix" role="button">
 Amon Tobin - Chaos Theory Remixed (2011-02-21)
@@ -249,23 +258,20 @@ Amon Tobin - Chaos Theory Remixed (2011-02-21)
 <li data-cover="https://img.discogs.com/-rBcQNVsYrrZItU1YryFhNlChqA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2750312-1324292189.jpeg.jpg" data-tags="hip-hop, instrumental, abstract, sample-based, producer" role="button">
 Apollo Brown - Clouds (2011-02-22)
 </li>
-<li data-cover="https://img.discogs.com/6mZujC03yn949XtQGvehzlYMdgM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2801924-1329813466.jpeg.jpg" data-tags="instrumental, experimental, abstract, glitch-hop" role="button">
-Moa Pillar - The Moon And Thunder Dance EP (2011-03)
-</li>
-<li data-cover="https://img.discogs.com/h5IV9AXZB6tZoFpn74Dv_yz0gOY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838295-1303339903.jpeg.jpg" data-tags="minimal techno, abstract, deutsch, diynamic music" role="button">
-Stimming - Liquorice (2011-03-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/64d054ce-1017-4926-81b9-28c5c6bdc04e/3972852172-500.jpg" data-tags="experimental, downtempo, abstract" role="button">
 Prefuse 73 - The Only She Chapters (2011-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3264e30-5a8f-4522-a8e3-41afa62846fd/7923895295-500.jpg" data-tags="experimental, electronic, dubstep" role="button">
 Amon Tobin - ISAM (2011-04-19)
 </li>
-<li data-cover="https://img.discogs.com/qO64kqADY4QxrXl1rvyg0y4nlJ0=/fit-in/333x333/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2918662-1307282752.jpeg.jpg" data-tags="noise, dub, techno, minimal, abstract, bass, dark ambient, 10s" role="button">
-Emptyset - Demiurge (2011-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/9295d3b8-4fee-40b3-8d3a-1f87de4b12bc/4765105879-500.jpg" data-tags="alternative hip-hop, rap" role="button">
 Tyler, the Creator - Goblin (2011-05-10)
+</li>
+<li data-cover="https://img.discogs.com/EUFvZLLBURFJSCmM8XtVarK8f0c=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2873150-1348618190-4389.jpeg.jpg" data-tags="ambient, experimental, lo-fi" role="button">
+Clams Casino - Rainforest (2011-06)
+</li>
+<li data-cover="https://img.discogs.com/jrubs1Q_CKq2oMuZSNEBxJ00P0o=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2940670-1310750434.jpeg.jpg" data-tags="chillout, ambient, experimental, abstract, idm, breakbeat, ritual ambient, synth-pop, ambient house, worldbeat, hippos in tanks, abstract house, industrial house, tribal idm" role="button">
+Laurel Halo - Hour Logic (2011-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/30c9543a-c050-43ba-b9c6-3a9f073c2dd9/15940622429-500.jpg" data-tags="instrumental, experimental, abstract, warp, warp records, trap" role="button">
 Hudson Mohawke - Satin Panthers (2011-07-11)
@@ -273,32 +279,29 @@ Hudson Mohawke - Satin Panthers (2011-07-11)
 <li data-cover="http://coverartarchive.org/release/560d4328-550c-40af-a2fc-f2a2b10328b4/2215573326-500.jpg" data-tags="ambient, dream pop" role="button">
 Active Child - You Are All I See (2011-08-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/5e906ff3-1184-421e-aeb5-40fee60914a2/27886870067-500.jpg" data-tags="abstract" role="button">
-Shlohmo - Vacation (2012-02)
+<li data-cover="http://coverartarchive.org/release/f35fafbd-e4c4-4c87-ba54-ebc9b84c46f0/4801207996-500.jpg" data-tags="jazz" role="button">
+BADBADNOTGOOD - BBNG (2011-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/1fb204aa-5aec-4513-bd21-3b8f0b3d5a3a/2545937824-500.jpg" data-tags="dubstep, abstract" role="button">
-Evy Jane - Evy Jane (2012-02-20)
+<li data-cover="http://coverartarchive.org/release/979b9002-9958-4ced-8b54-751f981219ca/13184821312-500.jpg" data-tags="techno, abstract, idm, uk garage" role="button">
+patten - GLAQJO XAACSSO (2011-09-26)
 </li>
-<li data-cover="https://img.discogs.com/76IpGLXvIVuM9oumQVcrhPt8EYs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3536441-1334323427.jpeg.jpg" data-tags="abstract, trip hop" role="button">
-Soosh - SoFar (2012-03-19)
+<li data-cover="http://coverartarchive.org/release/3b7ba911-b543-4258-b367-fa0fb4efa3f9/9140404757-500.jpg" data-tags="ambient, abstract, idm, space" role="button">
+Access to Arasaka - Geosynchron (2011-12-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/f254fee3-6be1-480e-85f7-c2caf86160d2/3686584541-500.jpg" data-tags="electro, abstract, glitch" role="button">
-Slugabed - Sex (2012-04-09)
+<li data-cover="http://coverartarchive.org/release/a8e673c3-000b-4a94-bd52-55ae8b956970/894783668-500.jpg" data-tags="10s" role="button">
+Gonjasufi - MU.ZZ.LE (2012-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c655b087-1b53-488f-bf04-e406efc4d08f/5104826678-500.jpg" data-tags="downtempo, abstract, idm, broken beat, leftfield, ghostly international" role="button">
-Gold Panda - Mountain / Financial District (2012-05-14)
+<li data-cover="http://coverartarchive.org/release/aa421493-e74d-4314-9ba6-4c965d0eddec/8156465206-500.jpg" data-tags="ambient" role="button">
+Shigeto - Lineage (2012-01-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/47cdd9cb-e124-4577-8764-8fb2e3d23bd7/4088098801-500.jpg" data-tags="abstract" role="button">
-Dirk Geiger - Elf Morgen (2012-05-29)
+<li data-cover="http://coverartarchive.org/release/17b32be4-2f9b-428c-8dc5-3519ed7b3f9b/988923274-500.jpg" data-tags="ambient" role="button">
+Monolake - Ghosts (2012-02-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/8cbe1bb0-2b90-4259-b7fe-c9d3a2b06552/2232941377-500.jpg" data-tags="idm, electronic" role="button">
-Flying Lotus - Until the Quiet Comes (2012-09-26)
+<li data-cover="http://coverartarchive.org/release/b7f0b7b1-f233-4712-a47d-93f465ecdb2b/6223595096-500.jpg" data-tags="downtempo" role="button">
+Gang Colours - The Keychain Collection (2012-02-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/d79d97ad-ea76-4c48-a588-ee444b91ca6e/11334927653-500.jpg" data-tags="trance, abstract, glitch, eclectic, enriched waste" role="button">
-Lorenzo Senni - Quantum Jelly (2012-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a20caa4-0c92-4a93-ae11-953c30b78267/18765648315-500.jpg" data-tags="electronic, techno, dub techno" role="button">
-Andy Stott - Luxury Problems (2012-10-18)
+<li data-cover="https://img.discogs.com/J85ybqtHuDBxfev7ARtE4s4IsUo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4539-1165925325.jpeg.jpg" data-tags="ambient, post-rock, downtempo, electro, techno, abstract, warp, idm, drone, warp records, folktronica, modern classical, club/dance, aboriginal, 2012 wowish, alternative-indie rock, electronic superhighway, favourite electronic albums" role="button">
+Clark - Iradelphic (2012-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
@@ -306,17 +309,14 @@ Rhye - Woman (2013-01)
 <li data-cover="http://coverartarchive.org/release/9f4da5ab-b91f-4e39-8d23-dd22983458fb/5661104842-500.jpg" data-tags="electronic, experimental" role="button">
 Glasser - Interiors (2013-09-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/1a9c9dc2-31ea-4e6a-8a4f-1ec163127ecf/6185059930-500.jpg" data-tags="electronic, ambient, experimental, abstract, idm, n5md" role="button">
-Arovane - Ve Palor (2013-10-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/09ac1d17-26d5-43b5-88a5-17d0edbad9d5/5922924284-500.jpg" data-tags="future garage" role="button">
 Burial - Rival Dealer (2013-12-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/26070cde-7b60-4bff-bb7e-51ee2dad45bd/10556431848-500.jpg" data-tags="ambient, lo-fi, techno, house, abstract, dub techno, opal tapes, porn soundtrack" role="button">
-Ketev - KETEV (2014-03-29)
+<li data-cover="http://coverartarchive.org/release/517341f6-7289-4817-be47-a81eea4d54f1/6401015519-500.jpg" data-tags="idm, electronic, ninja tune, vaporwave" role="button">
+Actress - Ghettoville (2014-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4c6ebb8-7f2d-4af7-9825-6f9ef7be73dd/6510057178-500.jpg" data-tags="electronic, instrumental, experimental, dub, dubstep, abstract" role="button">
-High Tone - Ekphrön (2014-03-31)
+<li data-cover="http://coverartarchive.org/release/3b98ce05-db97-4a5c-b3db-586c6f2b458a/21582207534-500.jpg" data-tags="glitch" role="button">
+Fennesz - Bécs (2014-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/42eb4094-7a11-40ad-9f80-247f1842d990/8197604177-500.jpg" data-tags="electronic, instrumental, experimental, abstract" role="button">
 Mndsgn - Yawn Zen (2014-08-25)

@@ -1,17 +1,17 @@
 ---
-date: 2021-04-06T15:47:01.418Z
+date: 2021-04-09T20:54:01.515Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
-![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
+![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
+<li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">Tool - Ænima (1996-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/cf33646a-d030-3144-ba3d-234e13634e15/10553190492-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">Deftones - Around the Fur (1997-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/c183522b-1d38-3e83-aaaf-fc3fc87cdc05/14997427885-500.jpg" data-tags="alternative metal" role="button">System of a Down - System of a Down (1998-06-30)</li>
 <li data-cover="http://coverartarchive.org/release/c7e82aec-f36b-45ef-9eb6-0721825b210b/1295812381-500.jpg" data-tags="alternative metal, nu metal" role="button">Deftones - White Pony (2000-05-16)</li>
-<li data-cover="https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
-<li data-cover="https://img.discogs.com/WuVNyZ4u2E23G6Q11hkCCVwTBfU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3810066-1536723979-5185.png.jpg" data-tags="alternative metal" role="button">System of a Down - Steal This Album! (2002-10-26)</li>
+<li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
+<li data-cover="https://img.discogs.com/IfPm7VK8tPIDbGmQi_6sIAm_UHM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4789395-1616295980-4798.png.jpg" data-tags="alternative metal" role="button">System of a Down - Steal This Album! (2002-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Mezmerize (2005-05-16)</li>
-<li data-cover="https://img.discogs.com/h8ByPmcSurZuRDUQWqgDOfW7txQ=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1837801-1527882448-6557.png.jpg" data-tags="alternative metal" role="button">System of a Down - Hypnotize (2005-11-18)</li>
+<li data-cover="https://img.discogs.com/tNvWW37Z6Qd1xkwFI8Yb0AYvHYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788570-1532399384-1590.png.jpg" data-tags="alternative metal" role="button">System of a Down - Hypnotize (2005-11-18)</li>
 <li data-cover="https://img.discogs.com/jrYQBa3eA44Q-sfCjA2N1t8pj8w=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8022592-1534735522-4348.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">Slipknot - All Hope Is Gone (2008-08-20)</li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">Disturbed - Asylum (2010-08-20)</li>
 </ol>
@@ -30,7 +30,7 @@ Alice in Chains - Facelift (1990-08-28)
 <li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
 Primus - Sailing The Seas Of Cheese (1991-05-14)
 </li>
-<li data-cover="https://img.discogs.com/yhsafRWLca1rLfuG7gevzfc935Y=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468462-1359981319-9678.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
+<li data-cover="https://img.discogs.com/cLuwRy_ZrizsDIH71sbrftA4yLQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260920-1342495276-4482.jpeg.jpg" data-tags="progressive metal, alternative metal" role="button">
 Tool - Opiate (1992-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a25698c-bf29-3297-a05f-80f68c736e14/25332108545-500.jpg" data-tags="alternative rock, rock, alternative metal" role="button">
@@ -41,6 +41,9 @@ Rage Against the Machine - Rage Against the Machine (1992-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/660c1995-c6a0-4c90-b158-2f2d9caff78f/5233922017-500.jpg" data-tags="progressive metal" role="button">
 Tool - Undertow (1993-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
+Primus - Pork Soda (1993-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/81fb8d37-226c-4126-b6b3-1f73b611dd72/11196962512-500.jpg" data-tags="industrial metal, alternative metal" role="button">
 Marilyn Manson - Portrait Of An American Family (1994-07-19)
@@ -57,13 +60,13 @@ Alice in Chains - Alice in Chains (1995-11-07)
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">
 Tool - Ænima (1996-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1050cbd4-0f9a-4c09-989e-1dfbd6c14127/14178519586-500.jpg" data-tags="industrial metal" role="button">
 Marilyn Manson - Antichrist Superstar (1996-10-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
+<li data-cover="https://img.discogs.com/Q0f_TkrM4BDSvwqGEc7rRBPvyVQ=/fit-in/500x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3476579-1354129908-6021.jpeg.jpg" data-tags="rock, alternative metal, alternative, alternative rock" role="button">
 Faith No More - Album of the Year (1997-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
@@ -81,9 +84,6 @@ Korn - Follow the Leader (1998-08-17)
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
 Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
-Staind - Dysfunction (1999-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/8a069e1f-3866-3b9a-941c-c20e984bf89f/18823687691-500.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Slipknot (1999-06-29)
 </li>
@@ -92,6 +92,9 @@ Creed - Human Clay (1999-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">
 Rage Against the Machine - The Battle of Los Angeles (1999-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/00d1109d-6954-3791-8193-c29fdc28bf30/23589283839-500.jpg" data-tags="alternative rock, rock" role="button">
+Incubus - Make Yourself (1999-10-26)
 </li>
 <li data-cover="https://img.discogs.com/LWvn6SvyvvcqFOHSDgXxiW3vK6k=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256710-1270904362.jpeg.jpg" data-tags="nu metal" role="button">
 Korn - Issues (1999-11-15)
@@ -111,7 +114,7 @@ Deftones - White Pony (2000-05-16)
 <li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
 A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
-<li data-cover="https://img.discogs.com/M4wxOo-EVaYaVlRI_dc_vS592no=/fit-in/600x337/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3589065-1428940273-7193.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
+<li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
@@ -123,13 +126,16 @@ Alien Ant Farm - Anthology (2001-03-06)
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
 Tool - Lateralus (2001-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
+Staind - Break the Cycle (2001-05-21)
+</li>
 <li data-cover="https://img.discogs.com/BZcAVXS5bx_QwHuPWufCEzvwRqY=/fit-in/518x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4438087-1364864404-5773.jpeg.jpg" data-tags="nu metal" role="button">
 Drowning Pool - Sinner (2001-06-05)
 </li>
 <li data-cover="https://img.discogs.com/XTd3XQx8DGr3Y70JY3h0N2ymFSI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2273339-1453263561-8717.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
 </li>
-<li data-cover="https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg" data-tags="alternative metal, metal" role="button">
+<li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">
@@ -147,16 +153,13 @@ Korn - Untouchables (2002-06-10)
 <li data-cover="http://coverartarchive.org/release/9baeb5d8-b7c3-4308-815f-ddf334608bd7/17893323983-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
 Stone Sour - Stone Sour (2002-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/d7c0f696-2917-4e85-abc4-2b3d599c4289/16956340178-500.jpg" data-tags="grunge, metal, hard rock" role="button">
-Seether - Disclaimer (2002-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/91d85c0e-319f-45c4-a863-026ef06774fd/9406265439-500.jpg" data-tags="alternative rock" role="button">
 Breaking Benjamin - Saturate (2002-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c559efc2-f734-41ae-93bd-2d78414e0356/15067592506-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Believe (2002-09-16)
 </li>
-<li data-cover="https://img.discogs.com/WuVNyZ4u2E23G6Q11hkCCVwTBfU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3810066-1536723979-5185.png.jpg" data-tags="alternative metal" role="button">
+<li data-cover="https://img.discogs.com/IfPm7VK8tPIDbGmQi_6sIAm_UHM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4789395-1616295980-4798.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Steal This Album! (2002-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
@@ -231,7 +234,7 @@ System of a Down - Mezmerize (2005-05-16)
 <li data-cover="http://coverartarchive.org/release/d618f88f-a4a7-4028-a9e7-a2f3bcc3d9c3/15011664685-500.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Disturbed - Ten Thousand Fists (2005-09-19)
 </li>
-<li data-cover="https://img.discogs.com/h8ByPmcSurZuRDUQWqgDOfW7txQ=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1837801-1527882448-6557.png.jpg" data-tags="alternative metal" role="button">
+<li data-cover="https://img.discogs.com/tNvWW37Z6Qd1xkwFI8Yb0AYvHYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788570-1532399384-1590.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Hypnotize (2005-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal" role="button">
@@ -258,9 +261,6 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/4ace409a-cbe9-40b3-9965-ac6b30851467/16826669217-500.jpg" data-tags="hard rock, metal, alternative metal" role="button">
-Drowning Pool - Full Circle (2007-07-24)
-</li>
 <li data-cover="https://img.discogs.com/B8R-CkWTVPLzuUN4pVvS1IXAy8k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7698892-1480035733-6881.jpeg.jpg" data-tags="nu metal" role="button">
 Korn - Untitled (2007-07-30)
 </li>
@@ -285,9 +285,6 @@ Scars on Broadway - Scars On Broadway (2008-07-26)
 <li data-cover="https://img.discogs.com/jrYQBa3eA44Q-sfCjA2N1t8pj8w=/fit-in/600x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8022592-1534735522-4348.jpeg.jpg" data-tags="metal, alternative metal, nu metal" role="button">
 Slipknot - All Hope Is Gone (2008-08-20)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
-Three Days Grace - Pain (2008-10-10)
-</li>
 <li data-cover="https://img.discogs.com/xspd8dDNE03hB7TpJ-ZQgW_7Czs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118226-1510175386-4120.jpeg.jpg" data-tags="alternative metal, alternative rock" role="button">
 Chevelle - Sci-Fi Crimes (2009-07-21)
 </li>
@@ -296,6 +293,9 @@ Five Finger Death Punch - War Is the Answer (2009-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a44f79f9-bfcf-4818-8fa5-702432de0ad1/9837113466-500.jpg" data-tags="grunge, hard rock" role="button">
 Alice in Chains - Black Gives Way to Blue (2009-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/d608c081-dfdd-405c-ac27-d4b7442ad649/9406254911-500.jpg" data-tags="alternative rock" role="button">
+Breaking Benjamin - Dear Agony (2009-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ca0e1a5-ab61-40e2-99c8-bab84f4ed5de/7767150878-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Diamond Eyes (2010-03-24)

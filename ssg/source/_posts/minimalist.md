@@ -1,11 +1,11 @@
 ---
-date: 2021-04-06T16:52:01.385Z
+date: 2021-04-09T20:56:01.481Z
 title: "minimalist: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/KD5bINrX2-SlZ4f6OAZdudfLfMg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515050-1289489104.jpeg.jpg" data-tags="minimalism, minimalist" role="button">Arvo Pärt - Tabula Rasa (1984)</li>
-<li data-cover="https://img.discogs.com/-GN-JQ2oRtEsLWjyv1fd_VXV5dw=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8846463-1469993526-8129.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">Philip Glass - Solo Piano (1989-08-07)</li>
+<li data-cover="https://img.discogs.com/9L7lTAG1c-MM-OKcIdxzA1Fqc5w=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3221496-1326405089.jpeg.jpg" data-tags="minimalism, minimalist" role="button">Arvo Pärt - Tabula Rasa (1984)</li>
+<li data-cover="https://img.discogs.com/RrVAH3WnAssqVLGqHesZRk6MjrI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1337246-1211047935.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">Philip Glass - Solo Piano (1989-08-07)</li>
 <li data-cover="http://coverartarchive.org/release/5fd13a50-7aee-4338-a1da-de7322a8602b/20520816503-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, neo-classical, post-classical, minimalism, neo classical, minimalist" role="button">Ludovico Einaudi - Una Mattina (2004-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg" data-tags="piano, contemporary classical, neoclassical" role="button">Ludovico Einaudi - Divenire (2006-11-07)</li>
 <li data-cover="http://coverartarchive.org/release/336b5981-acbf-4993-9138-a15fa2b533b0/4577888247-500.jpg" data-tags="neoclassical, post-classical, piano, contemporary classical, neo-classical, ambient, modern classical" role="button">Goldmund - The Malady Of Elegance (2008-07-28)</li>
@@ -24,10 +24,10 @@ _________________
 <li data-cover="https://img.discogs.com/pf8iKN0REnWdz19AiwuhuSLX2SE=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-281938-1421011953-8014.jpeg.jpg" data-tags="minimalism" role="button">
 Terry Riley - In C (1968)
 </li>
-<li data-cover="https://img.discogs.com/-FFnKH4iPlXtYub7IRoQIaFp8xw=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-130654-1294606569.jpeg.jpg" data-tags="minimalism" role="button">
+<li data-cover="https://img.discogs.com/ZNKkcb7-IxdLb6DlcCn10OFvkGc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-77371-1373051103-3995.jpeg.jpg" data-tags="minimalism" role="button">
 Terry Riley - A Rainbow in Curved Air (1969)
 </li>
-<li data-cover="https://img.discogs.com/zqibEwMsjab8q7Ph-C6zj_ufN94=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1078494-1190462193.jpeg.jpg" data-tags="minimalism" role="button">
+<li data-cover="https://img.discogs.com/z9Ky5DHdh8mDCx7kewGEcaQNE1I=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519447-1538785688-7163.jpeg.jpg" data-tags="minimalism" role="button">
 Moondog - Moondog (1969)
 </li>
 <li data-cover="https://img.discogs.com/7idxMRMZmdYjVlxrITv-ynxh6yE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10686817-1546367036-5135.jpeg.jpg" data-tags="70s" role="button">
@@ -51,16 +51,16 @@ Terry Riley - Shri Camel (1980)
 <li data-cover="http://coverartarchive.org/release/b1e46ce4-2afb-4da6-bb3b-d68bcd1772db/13466586364-500.jpg" data-tags="minimalism" role="button">
 Philip Glass - Glassworks (1982)
 </li>
-<li data-cover="https://img.discogs.com/KD5bINrX2-SlZ4f6OAZdudfLfMg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515050-1289489104.jpeg.jpg" data-tags="minimalism, minimalist" role="button">
+<li data-cover="https://img.discogs.com/9L7lTAG1c-MM-OKcIdxzA1Fqc5w=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3221496-1326405089.jpeg.jpg" data-tags="minimalism, minimalist" role="button">
 Arvo Pärt - Tabula Rasa (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1da6792-3a6a-4e4c-97fc-fc2477b183ef/2906121265-500.jpg" data-tags="ambient, piano, contemporary classical, cinematic, melancholy, minimalism, melancholic, neoclassical, post-classical, piano ambient, contemporary piano, ambient piano" role="button">
 Harold Budd - Lovely Thunder (1986-10)
 </li>
-<li data-cover="https://img.discogs.com/35V642sDGZxnMa2ii3ukGW3IytQ=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1421690-1478281595-2162.jpeg.jpg" data-tags="ambient" role="button">
+<li data-cover="https://img.discogs.com/-qLRqz7Q9B4HTTHFatzUraUwMxY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-964447-1178415204.jpeg.jpg" data-tags="ambient" role="button">
 Harold Budd - The White Arcades (1988)
 </li>
-<li data-cover="https://img.discogs.com/-GN-JQ2oRtEsLWjyv1fd_VXV5dw=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8846463-1469993526-8129.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
+<li data-cover="https://img.discogs.com/RrVAH3WnAssqVLGqHesZRk6MjrI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1337246-1211047935.jpeg.jpg" data-tags="minimalism, piano, minimalist" role="button">
 Philip Glass - Solo Piano (1989-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2727624-4e33-4313-a7e8-3233b695b487/2709839852-500.jpg" data-tags="contemporary classical" role="button">
@@ -69,13 +69,13 @@ Gavin Bryars - The Sinking Of The Titanic (1990)
 <li data-cover="http://coverartarchive.org/release/9a0e9aed-5aab-457c-bd8f-d3c5dafbaecf/15568336503-500.jpg" data-tags="minimalism" role="button">
 Morton Feldman - Rothko Chapel + Why Patterns? (1991)
 </li>
-<li data-cover="https://img.discogs.com/-To9FU1uEauVAD7A_qF1OI9p6UI=/fit-in/374x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1188090-1199393493.jpeg.jpg" data-tags="minimalism" role="button">
+<li data-cover="https://img.discogs.com/9VIcDJFX8rCzVvRHCJ2iva6nlr8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8476152-1491036567-3865.jpeg.jpg" data-tags="minimalism" role="button">
 Philip Glass - The Essential Philip Glass (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/836b0d2e-65c7-474b-b047-8949938b8864/5882984071-500.jpg" data-tags="minimalism, minimalist" role="button">
 Arvo Pärt - Fratres (1994-05-04)
 </li>
-<li data-cover="https://img.discogs.com/ILPIzP6NQlyA2Bf4MgVV7FCUpco=/fit-in/599x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-997207-1230324129.jpeg.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
+<li data-cover="http://coverartarchive.org/release/55396529-5a29-4874-a472-073920d48ab7/2261895897-500.jpg" data-tags="contemporary classical, modern classical, neo-classical, neoclassical, post-classical, neo classical, post classical, postclassical" role="button">
 Ludovico Einaudi - Le Onde (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
@@ -87,7 +87,7 @@ Arvo Pärt - Alina (1999-10-18)
 <li data-cover="http://coverartarchive.org/release/7c6cd35a-a86e-4ad5-97e9-b36d568bf6a7/22386593905-500.jpg" data-tags="ambient" role="button">
 Labradford - fixed::context (2000)
 </li>
-<li data-cover="https://img.discogs.com/cWE18EBpsnlVsw9MwYjvb9ztRlE=/fit-in/600x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11521502-1521627633-2305.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
+<li data-cover="https://img.discogs.com/8zK5BwN0CGHQkHoEDnU7l_JJD5k=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16083116-1603191699-6994.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
 Morphine - The Night (2000-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/224114b2-161f-4c9e-a56f-c10a4af1b97f/16026434551-500.jpg" data-tags="ambient" role="button">
@@ -98,6 +98,9 @@ The Necks - Aether (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa6ad077-6428-4d8f-a779-6ff7ef6b7f5b/7766810050-500.jpg" data-tags="piano" role="button">
 Ludovico Einaudi - I Giorni (2001)
+</li>
+<li data-cover="https://img.discogs.com/39jKLeEQEZt8Dbe4303tnzC3q1g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385571-1245095998.jpeg.jpg" data-tags="indie rock" role="button">
+Logh - Every Time a Bell Rings an Angel Gets His Wings (2002-01-21)
 </li>
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
@@ -135,7 +138,7 @@ Goldmund - Corduroy Road (2005-02-21)
 <li data-cover="http://coverartarchive.org/release/764259dd-e22a-4c5b-ad03-985ab47825ec/25421498189-500.jpg" data-tags="rock, alternative rock, jimmy eat world" role="button">
 Jimmy Eat World - Stay On My Side Tonight (2005-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/833eca57-040d-363e-ad0a-ced9218c7431/4842875365-500.jpg" data-tags="instrumental, ambient, piano, contemporary, cinematic, avant-garde, contemporary classical, avantgarde, melancholy, composer, minimalism, melancholic, modern classical, modern classic, minimalist, neoclassical, pianist, piano solo, contemporary instrumental, post-classical, piano ambient, solo piano, contemporary piano, ambient piano, piano space, piano quiet, serene piano" role="button">
+<li data-cover="https://img.discogs.com/BC41d7iUIHgcIiT8X6vrwwggjQ4=/fit-in/580x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767541-1156713929.jpeg.jpg" data-tags="instrumental, ambient, piano, contemporary, cinematic, avant-garde, contemporary classical, avantgarde, melancholy, composer, minimalism, melancholic, modern classical, modern classic, minimalist, neoclassical, pianist, piano solo, contemporary instrumental, post-classical, piano ambient, solo piano, contemporary piano, ambient piano, piano space, piano quiet, serene piano" role="button">
 Max Richter - From "The Art of Mirrors" (2006-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/918093d4-dac0-4628-bc3a-8df809888f1d/16162021360-500.jpg" data-tags="modern classical, contemporary classical, minimalism, neo-classical, neoclassical, post-classical" role="button">
@@ -170,6 +173,9 @@ Peter Broderick - Docile (2007-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/07eb0a3f-02f2-4686-b946-cd738fdc4eef/14969454659-500.jpg" data-tags="ambient" role="button">
 Stars of the Lid - Carte-de-visite (2007-11-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/c1a5cae2-c89f-4134-8b21-265e106ca563/27741044035-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano" role="button">
+Sylvain Chauveau - Nuage (2007-11-23)
 </li>
 <li data-cover="https://img.discogs.com/5QEoSgdSfgTmNUNf6fXLXDH-kzk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331089-1210262425.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical, neo classical" role="button">
 Peter Broderick - Float (2008-05-12)
@@ -243,9 +249,6 @@ Dustin O'Halloran - Lumiere (2011-02-28)
 <li data-cover="http://coverartarchive.org/release/52cbecd7-812c-44f1-b1e0-91c04d960930/2477325073-500.jpg" data-tags="dubstep, drum and bass, drum n bass, neurofunk, winter, drum & bass, minimalist, 2011 best albums" role="button">
 Icicle - Under the Ice (2011-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/5fb19fad-0399-4816-b623-3e80e014045e/4512061631-500.jpg" data-tags="electronic" role="button">
-Dominik Eulberg - Diorama (2011-05-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/566e2e7c-9cc6-41f9-864c-2bb65f540436/3979522473-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
 A Winged Victory for the Sullen - A Winged Victory for the Sullen (2011-09-12)
 </li>
@@ -279,7 +282,7 @@ Moon Ate the Dark - Moon Ate the Dark (2012-06-08)
 <li data-cover="http://coverartarchive.org/release/79c3dd7e-01e0-414e-88f4-045d88bec4c1/20197407108-500.jpg" data-tags="contemporary classical" role="button">
 Max Richter - Recomposed by Max Richter: Vivaldi, The Four Seasons (2012-08-31)
 </li>
-<li data-cover="https://img.discogs.com/Djv5b13QAyfy5eLM5VjnWXwJMGA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5746150-1586903982-4077.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
+<li data-cover="https://img.discogs.com/Oss1hyaayRzyZSZjZ5QefMWRlZQ=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4985549-1381391376-5868.jpeg.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, modern classical, neo-classical" role="button">
 Nils Frahm - Screws (2012-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e545a5-e07a-4e80-843a-9cf96e5ad809/6675043726-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, piano, neo-classical, modern classical" role="button">
@@ -311,9 +314,6 @@ Nils Frahm - Spaces (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/34ea3100-da02-4335-8c9b-b6a297485bd1/7793441167-500.jpg" data-tags="modern classical, contemporary classical, neo-classical, neoclassical, post-classical, piano" role="button">
 Fabrizio Paterlini - The Art of the Piano (2014-02-04)
-</li>
-<li data-cover="https://img.discogs.com/akePNfJ0BNUeO7l-b7imEPel1fY=/fit-in/233x233/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5483576-1394541456-2251.jpeg.jpg" data-tags="alternative, ambient, piano, cinematic, contemporary classical, melancholy, minimalism, melancholic, modern classical, neo-classical, experimental-ambient, minimal ambient, minimalist, neoclassical, modern composition, post-classical, piano ambient, contemporary piano, ambient piano, minimal piano" role="button">
-Hauschka - Abandoned City (2014-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/25638566-eff3-4215-8930-0c262986c857/9101735659-500.jpg" data-tags="modern classical, contemporary classical, neo-classical, neoclassical, post-classical, neo classical, postclassical, post classical" role="button">
 A Winged Victory for the Sullen - Atomos (2014-10-06)

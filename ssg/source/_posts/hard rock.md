@@ -1,15 +1,15 @@
 ---
-date: 2021-04-06T15:09:01.403Z
+date: 2021-04-09T21:20:01.516Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/fe0aec30-6538-4ff6-98e1-2af99e93ac1f/7549818228-500.jpg" data-tags="classic rock, hard rock" role="button">Led Zeppelin - Led Zeppelin II (1969-10-22)</li>
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">AC/DC - Back in Black (1980-07-25)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">Guns N' Roses - Appetite for Destruction (1987-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/db34a2e2-e5d5-43f5-9d9a-140ac6d2a738/13666947317-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion I (1991-09-16)</li>
 <li data-cover="http://coverartarchive.org/release/22fe3554-d593-37bb-8e6e-40f33f3d23f9/2107688025-500.jpg" data-tags="hard rock" role="button">Guns N' Roses - Use Your Illusion II (1991-09-17)</li>
-<li data-cover="http://coverartarchive.org/release/1a5c2e08-0a96-36b5-ad96-0243aa716f8e/7477142144-500.jpg" data-tags="hard rock, heavy metal, metal" role="button">Metallica - Reload (1997-11-15)</li>
-<li data-cover="https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
+<li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">System of a Down - Toxicity (2001-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">Audioslave - Audioslave (2002-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">Led Zeppelin - Led Zeppelin (2003-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/4f7c1a59-92b1-4ba7-919f-b61a3b4b8d2a/12051036941-500.jpg" data-tags="metal, hard rock" role="button">Avenged Sevenfold - City of Evil (2005-06-07)</li>
@@ -48,7 +48,7 @@ Aerosmith - Aerosmith (1973-01-05)
 <li data-cover="http://coverartarchive.org/release/3ccb4cb2-940a-4e2e-b1fd-4c0b7483280f/1287590210-500.jpg" data-tags="classic rock" role="button">
 Led Zeppelin - Houses of the Holy (1973-03-28)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Physical Graffiti (1975-02-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
@@ -66,7 +66,7 @@ Boston - Boston (1976-09)
 <li data-cover="http://coverartarchive.org/release/92746377-783d-3355-af9d-229a6edfd6ff/7383924116-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Let There Be Rock (1977-03-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/wF3f9HQ_7W4S8Gx_boUI9nrtmxg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6199527-1413545861-4918.jpeg.jpg" data-tags="classic rock, hard rock, rock" role="button">
 Led Zeppelin - In Through the Out Door (1979-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
@@ -159,7 +159,7 @@ Creed - Weathered (2001-01-19)
 <li data-cover="http://coverartarchive.org/release/b18729d7-287e-4519-9397-b9f3e079cd3d/2981256085-500.jpg" data-tags="industrial metal" role="button">
 Rammstein - Mutter (2001-04-02)
 </li>
-<li data-cover="https://img.discogs.com/Yvx5wN-mj0DE6zslzyX_bsNE-Zk=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2267538-1411274952-2483.jpeg.jpg" data-tags="alternative metal, metal" role="button">
+<li data-cover="https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg" data-tags="alternative metal, metal" role="button">
 System of a Down - Toxicity (2001-08-27)
 </li>
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">
@@ -186,7 +186,7 @@ Godsmack - Faceless (2003-04-08)
 <li data-cover="http://coverartarchive.org/release/bc5a0db2-a123-4a29-bb75-de01c52da293/19820267240-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Led Zeppelin (2003-05-26)
 </li>
-<li data-cover="https://img.discogs.com/-pNO1Qw9sSNG69I-wiY2tSYprlU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-814196-1167785283.jpeg.jpg" data-tags="hard rock, rock" role="button">
+<li data-cover="https://img.discogs.com/D53FDXAc79Ssa6z8iqCp6HK-GJQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-504056-1473854757-6906.jpeg.jpg" data-tags="hard rock, rock" role="button">
 The Darkness - Permission to Land (2003-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
@@ -228,7 +228,7 @@ Nickelback - All The Right Reasons (2005-09-26)
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">
 Wolfmother - Wolfmother (2005-10-31)
 </li>
-<li data-cover="https://img.discogs.com/h8ByPmcSurZuRDUQWqgDOfW7txQ=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1837801-1527882448-6557.png.jpg" data-tags="alternative metal" role="button">
+<li data-cover="https://img.discogs.com/tNvWW37Z6Qd1xkwFI8Yb0AYvHYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788570-1532399384-1590.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Hypnotize (2005-11-18)
 </li>
 <li data-cover="https://img.discogs.com/ebPU9RWHmh53VwUrHRTV_TpGxbU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6790253-1426685131-5495.jpeg.jpg" data-tags="christian rock, alternative rock" role="button">
@@ -243,7 +243,7 @@ Stone Sour - Come What(ever) May (2006-07-28)
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - Phobia (2006-08-08)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock, hard rock" role="button">
+<li data-cover="https://img.discogs.com/HrAO7Rs1OTk8Z36yR7JMFsStHMQ=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2188305-1268766908.jpeg.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Audioslave - Revelations (2006-09-01)
 </li>
 <li data-cover="https://img.discogs.com/pGdNvei8HLXRWvqgpZg6iFyRlJw=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905381-1353078957-4317.jpeg.jpg" data-tags="alternative rock, hard rock, rock" role="button">
@@ -306,7 +306,7 @@ Foo Fighters - Greatest Hits (2009-10-30)
 <li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
 Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+<li data-cover="https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg" data-tags="hard rock" role="button">
 Slash - Slash (2010-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">

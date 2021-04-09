@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T22:55:01.379Z
+date: 2021-04-09T21:35:01.458Z
 title: "high school: 100 albums you must listen to before you die"
 ---
 ![Dirty Projectors - Bitte Orca (2009-06-08)](http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg "Dirty Projectors - Bitte Orca (2009-06-08)")
@@ -11,7 +11,7 @@ title: "high school: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">Sondre Lerche - Two Way Monologue (2003)</li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">Motion City Soundtrack - Commit This to Memory (2005-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
-<li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk, pitchfork best new music" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
+<li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">Dirty Projectors - Bitte Orca (2009-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/9e5f8261-6513-4a90-91c9-76c0562a27f5/13719785746-500.jpg" data-tags="indie rock, high school, folk punk" role="button">The Front Bottoms - The Front Bottoms (2011-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/87b091a1-c5b8-4ac3-a2d5-e9a6f7e19f6f/7548157736-500.jpg" data-tags="indie, indie rock, high school, names of people" role="button">The Front Bottoms - Rose (2014-06-17)</li>
 </ol>
@@ -24,11 +24,17 @@ _________________
 <li data-cover="https://img.discogs.com/lBoZBxwEhUdHIy0AVxhUhR0Kz_4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9284153-1477932849-6111.jpeg.jpg" data-tags="folk" role="button">
 James Taylor - Sweet Baby James (1970-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c721b61-71e1-4192-b93c-a9eeae68009e/10474351107-500.jpg" data-tags="classic rock, rock" role="button">
-Billy Squier - Don't Say No (1981)
+<li data-cover="https://img.discogs.com/VHJaqf8jSn0qioUUKaXIrf4Q-XA=/fit-in/431x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5566191-1396925460-7887.jpeg.jpg" data-tags="70s, classic rock" role="button">
+Grateful Dead - Terrapin Station (1977-07-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/0dffb4d4-65ad-3d78-a2ba-42af482f1535/28016827422-500.jpg" data-tags="blues rock, zz top" role="button">
+ZZ Top - Deguello (1979-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/399d87f4-edca-420b-bcd4-e554751e67aa/20069887000-500.jpg" data-tags="80s, rock" role="button">
 Loverboy - Get Lucky (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/782c3072-ab2e-4134-b3c2-d77a12dfa6f1/28399135326-500.jpg" data-tags="80s, new wave" role="button">
+Thompson Twins - Side Kicks (1983-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/08a8453a-cff2-3c4f-9a18-5fc1c32f1bb8/1081298763-500.jpg" data-tags="kiwi" role="button">
 Split Enz - History Never Repeats: the Best of Split Enz (1987-07-27)
@@ -36,7 +42,7 @@ Split Enz - History Never Repeats: the Best of Split Enz (1987-07-27)
 <li data-cover="http://coverartarchive.org/release/06bebfb0-a1c0-4ce2-bf07-c51912d8cadc/9120686874-500.jpg" data-tags="rock, roy orbison" role="button">
 Roy Orbison - Mystery Girl (1988)
 </li>
-<li data-cover="https://img.discogs.com/N5oeHEfSEwIwIIAtHdk4pdQxORY=/fit-in/600x937/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3473722-1475175917-4625.jpeg.jpg" data-tags="alternative rock" role="button">
+<li data-cover="https://img.discogs.com/KlasHON4Bb6UxVjOuSFcbQ9YfVs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5265608-1462744801-7791.jpeg.jpg" data-tags="alternative rock" role="button">
 Jane's Addiction - Nothing's Shocking (1988-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c37198e-c871-461a-8a84-5415f5ee185d/15288262729-500.jpg" data-tags="rock" role="button">
@@ -51,20 +57,26 @@ Operation Ivy - Energy (1989-03-15)
 <li data-cover="http://coverartarchive.org/release/a2727624-4e33-4313-a7e8-3233b695b487/2709839852-500.jpg" data-tags="contemporary classical" role="button">
 Gavin Bryars - The Sinking Of The Titanic (1990)
 </li>
+<li data-cover="https://img.discogs.com/SpUfO0hlVx3zNOa9xDIcmoiBRQo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-547138-1557678650-4661.jpeg.jpg" data-tags="dream pop" role="button">
+The Sundays - Reading, Writing and Arithmetic (1990-01-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b88a2c3c-f3b6-4774-b44b-6661b1263a34/14638229988-500.jpg" data-tags="90s" role="button">
 Phish - Lawn Boy (1990-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2355a945-4488-4235-afbe-65eb34aaab45/13770993460-500.jpg" data-tags="alternative, ska, 90s, high school, skacore, the mighty mighty bosstones, where-d you go, k1r7m" role="button">
 The Mighty Mighty Bosstones - Where'd You Go? (1991)
 </li>
+<li data-cover="http://coverartarchive.org/release/7a5c73ca-9819-49dc-baec-bb99573720c8/23134904254-500.jpg" data-tags="punk" role="button">
+Operation Ivy - Operation Ivy (1991-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ce98bda-1db0-3915-bcd1-f0ffc63997d6/17058903036-500.jpg" data-tags="90s, alternative rock, rock" role="button">
+Live - Mental Jewelry (1991-12-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc30517f-15a6-45e8-a40a-3e85f3e91e16/9538648138-500.jpg" data-tags="90s, icelandic" role="button">
 The Sugarcubes - Stick Around For Joy (1992-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4d198ae-de3a-4cfb-9aae-3561e92ae16a/16357181336-500.jpg" data-tags="alternative, 90s" role="button">
 Tori Amos - Crucify (1992-06-08)
-</li>
-<li data-cover="https://img.discogs.com/j4prBgBa_pfbCQTxXvY8y62-bhg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-476755-1241195045.jpeg.jpg" data-tags="90s" role="button">
-Gin Blossoms - New Miserable Experience (1992-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
@@ -84,17 +96,8 @@ Collective Soul - Hints Allegations And Things Left Unsaid (1993-06-22)
 <li data-cover="http://coverartarchive.org/release/e3347148-ff9a-4fff-a00e-35a171f86d27/13069256471-500.jpg" data-tags="classic rock, rock, punk, psychedelic, garage rock, glam rock, powerpop, high school, sommer, proto punk, my so-called life, i remember you, other great tracks, rock-protopunk, flashback alternatives, 20 favorite albums of 1993, my 100 favorite albums of the 1990s, big red letter day, soda-jerk" role="button">
 Buffalo Tom - Big Red Letter Day (1993-09-21)
 </li>
-<li data-cover="https://img.discogs.com/ssbFNPcxY5xfHnpWw0ZxP8RtoYk=/fit-in/374x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1956222-1380222420-3244.jpeg.jpg" data-tags="rock, 90s" role="button">
-The Lemonheads - Come on Feel the Lemonheads (1993-10-12)
-</li>
-<li data-cover="https://img.discogs.com/KWIYspdeWmDUOIKDgk1CDayp5EA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367579-1523176350-4676.jpeg.jpg" data-tags="rock, alternative rock, alternative, hard rock, 90s, give me one reason, tragically yours, sister stone" role="button">
-Toadies - Rubberneck (1994-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/365f2bc6-b56c-460c-9ce9-cde7bb27e46d/10858606127-500.jpg" data-tags="rock, blues, classic rock" role="button">
 Blues Traveler - Four (1994-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9ba46a4-da09-4a5a-b270-fae9e6b15a01/7051484935-500.jpg" data-tags="alternative, indie, rock, female vocalists, 90s" role="button">
-Liz Phair - Whip-Smart (1994-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0377c76a-25c1-4531-a0de-8103cdea35bc/10988872788-500.jpg" data-tags="rock, alternative" role="button">
 Veruca Salt - American Thighs (1994-09-27)
@@ -108,7 +111,7 @@ Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
 </li>
-<li data-cover="https://img.discogs.com/S28q1tvobiEdD92pTQ3SHsWSsaI=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1196321-1587587662-8545.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
+<li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
 Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/41caaa9f-a898-41d6-a9c9-f6898d82bbc8/7876650358-500.jpg" data-tags="90s, rock, alternative" role="button">
@@ -135,17 +138,11 @@ Barenaked Ladies - Born on a Pirate Ship (1996-03-19)
 <li data-cover="http://coverartarchive.org/release/6fdb3127-2e84-490d-b96d-6d255cc146a6/25675716252-500.jpg" data-tags="90s" role="button">
 The Wallflowers - Bringing Down The Horse (1996-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/eaae728d-779d-42b6-98a1-d0e85b8a77a3/4519993690-500.jpg" data-tags="ani difranco" role="button">
-Ani DiFranco - Dilate (1996-05-21)
-</li>
 <li data-cover="https://img.discogs.com/Img-_OVQGzc_ouQJFXUdIVb8P70=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-197687-1250854872.jpeg.jpg" data-tags="experimental, alternative, 90s" role="button">
 Soul Coughing - Irresistible Bliss (1996-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd51cabe-c150-38cf-b0cd-ebc9e5c9994f/27541946371-500.jpg" data-tags="alternative rock, rock" role="button">
 Tonic - Lemon Parade (1996-07-16)
-</li>
-<li data-cover="https://img.discogs.com/9AtR4k6wdOUcBxsWu73Slajf7_M=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738516-1195164243.jpeg.jpg" data-tags="britrpop" role="button">
-Space - Spiders (1996-09-16)
 </li>
 <li data-cover="https://img.discogs.com/fg6xREr7Ri5etCQwVkwN251aD64=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745026-1561988603-4040.png.jpg" data-tags="pop" role="button">
 OMC - How Bizarre (1996-10-16)
@@ -159,11 +156,17 @@ Less Than Jake - Losing Streak (1996-11-12)
 <li data-cover="http://coverartarchive.org/release/4b6b7fc2-39e7-4986-88ab-aa165a6f79c0/16054483460-500.jpg" data-tags="alternative, rock" role="button">
 Blind Melon - Nico (1996-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/4512ec2a-f833-4be5-85d3-b2007639bcef/5651025580-500.jpg" data-tags="sludge" role="button">
+Acid Bath - Paegan Terrorism Tactics (1996-11-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a003e8c3-952e-422b-8ff0-595d0fc9be87/11909623324-500.jpg" data-tags="grunge, l7" role="button">
+L7 - The Beauty Process: Triple Platinum (1997-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/36ecae5a-adbf-37b5-a745-f6f9ebce9e9d/12523959767-500.jpg" data-tags="90s" role="button">
+Wyclef Jean - Presents the Carnival Featuring the Refugee Allstars (1997-04-22)
+</li>
 <li data-cover="https://img.discogs.com/8_zs1rwhyuZmunrNHaMa5Ex_fLY=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3551863-1334978409.jpeg.jpg" data-tags="easy listening" role="button">
 Bic Runga - Drive (1997-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/5407adc7-55e8-4aff-b4aa-8d58935822b7/15147108613-500.jpg" data-tags="alternative rock, alternative, 90s" role="button">
-311 - Transistor (1997-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/55a040de-5e3f-4e6c-8430-b977e812be10/27801153390-500.jpg" data-tags="80s, dance, freestyle, lisalisa o cult jam superhits" role="button">
 Lisa Lisa & Cult Jam - Super Hits (1997-08-26)
@@ -188,9 +191,6 @@ EVE 6 - Eve 6 (1998-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/04a54ce3-7ca8-4d5c-80d7-b559c190a88f/21104193544-500.jpg" data-tags="punk rock, punk, riot grrrl" role="button">
 Bikini Kill - The Singles (1998-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/a070e1b0-7db4-43f5-94aa-e5efaa184958/1817335783-500.jpg" data-tags="indie, rock, 4ad, bbc sessions" role="button">
-Pixies - Pixies at the BBC (1998-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/d28b1565-137e-475b-b554-a4a9cde3810b/15145525545-500.jpg" data-tags="emo, indie rock" role="button">
 Sunny Day Real Estate - How It Feels to Be Something On (1998-09-08)
@@ -222,17 +222,14 @@ Alkaline Trio - Alkaline Trio (2000-04-18)
 <li data-cover="https://img.discogs.com/lTygThxT-_24I5JTRVskKLtTSRA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459195-1349038462-4693.jpeg.jpg" data-tags="indie, rock, alternative, reggie" role="button">
 Reggie and the Full Effect - Promotional Copy (2000-04-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
+Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/8dd3b09c-2a17-4242-bb85-d835f066029e/2685241577-500.jpg" data-tags="funk, trip hop" role="button">
 DJ Shadow - Schoolhouse Funk (2000-08-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/3dca0597-41ea-4e38-9e4e-34c6e3834a43/14491346002-500.jpg" data-tags="pop punk" role="button">
-New Found Glory - New Found Glory (2000-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/a19191e4-50fc-3d5a-8544-d9ed0adf9cfe/4082270241-500.jpg" data-tags="hip-hop, rap" role="button">
 N*E*R*D - In Search Of... (2001-08-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/a08dfd66-812e-4ee9-8635-44ba74420587/22408484107-500.jpg" data-tags="indie rock, high school, gift, get around to buying, czalbums, reminiscent of x, buxton street" role="button">
-Catatonia - Paper Scissors Stone (2001-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/37951e6b-49de-4a30-8a42-5c0b366bba51/2282468205-500.jpg" data-tags="for rainy days, high school" role="button">
 Tweaker - The Attraction To All Things Uncertain (2001-09-18)
@@ -245,9 +242,6 @@ Acid House Kings - Mondays are like Tuesdays and Tuesdays are like Wednesdays (2
 </li>
 <li data-cover="http://coverartarchive.org/release/a8d5ab9a-5c40-4364-af80-f2337b91fb9a/18080007064-500.jpg" data-tags="pop, female vocalists, trip hop, australia, high school, road trip, from mark, buzakara luvs music, perth03, cristal voice, female - george" role="button">
 George - Polyserena (2002-03-04)
-</li>
-<li data-cover="https://img.discogs.com/sChwWEWGF9sNNtfqj4pPsW7uYUk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311222-1527696300-4246.jpeg.jpg" data-tags="indie" role="button">
-The Walkmen - Everyone Who Pretended to Like Me Is Gone (2002-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c1d5131-ab01-4451-ada7-eb3850f6a196/14766541965-500.jpg" data-tags="indie, rock, pop rock, singer, songwriter, high school, producer, discoverockult, just another folk singer" role="button">
 Butch Walker - Left Of Self-Centered (2002-07-09)
@@ -288,9 +282,6 @@ Tweaker - 2 A.M. Wakeup Call (2004-04-20)
 <li data-cover="https://img.discogs.com/5NNYBdvkIRB0AsBAzyOYrzCBOOQ=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831018-1510596595-2378.jpeg.jpg" data-tags="indie, rock" role="button">
 Butch Walker - Letters (2004-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/79250d7b-3765-49c8-8e49-24d1342fe42a/20710818216-500.jpg" data-tags="rock, neo-psychedelia" role="button">
-Tears for Fears - Everybody Loves a Happy Ending (2004-09-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/2617e49c-afa6-4a3c-a753-60a2138797c4/2563521384-500.jpg" data-tags="hip hop, idm" role="button">
 Prefuse 73 - Surrounded by Silence (2005-03-02)
 </li>
@@ -303,14 +294,23 @@ Dope - American Apathy (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/9b1aec1d-b598-46e4-9ae6-9788567df2b8/5831128979-500.jpg" data-tags="pop, rock, singer-songwriter, pop rock, 90s, adult alternative, male vocalists, college, high school, 00s, hootie and the blowfish, i own, four dollar cds" role="button">
 Hootie & The Blowfish - Looking For Lucky (2005-08-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/136b9997-587e-4d4c-88fb-e897e06abefd/12685247063-500.jpg" data-tags="alternative" role="button">
+Blind Melon - The Best of Blind Melon (2005-09-27)
+</li>
+<li data-cover="https://img.discogs.com/wIrXNv46hLGC6lEPz3CFnuZUo6U=/fit-in/544x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1049900-1188384845.jpeg.jpg" data-tags="pop" role="button">
+Savage Garden - Truly Madly Completely (2005-11-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk, pitchfork best new music" role="button">
+<li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">
 Dirty Projectors - Bitte Orca (2009-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e5f8261-6513-4a90-91c9-76c0562a27f5/13719785746-500.jpg" data-tags="indie rock, high school, folk punk" role="button">
 The Front Bottoms - The Front Bottoms (2011-09-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/110ec4df-2ecd-4a55-b905-ec3c929d5782/10054194025-500.jpg" data-tags="wiz khalifa" role="button">
+Snoop Dogg & Wiz Khalifa - Mac & Devin Go to High School (2011-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/249fff88-c722-492c-9c2c-5057fde75de2/6779333944-500.jpg" data-tags="metalcore, christian, melodic metalcore" role="button">
 Demon Hunter - True Defiance (2012-04-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:24:01.447Z
+date: 2021-04-09T20:53:01.448Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -102,9 +102,6 @@ Portishead - Roseland NYC Live (1998-11-02)
 <li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
 Archive - Take My Head (1999-04-20)
 </li>
-<li data-cover="https://img.discogs.com/ycAAqej9JjZVWjsTaWLviKRwEiI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1650922-1597839525-1914.jpeg.jpg" data-tags="trip-hop" role="button">
-Lamb - Fear Of Fours (1999-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/7888bab9-8d78-4838-bd79-ddff8e6f4f51/5539916130-500.jpg" data-tags="trip-hop" role="button">
 Sneaker Pimps - Splinter (1999-10-25)
 </li>
@@ -147,9 +144,6 @@ Faithless - Outrospective (2001-06-08)
 <li data-cover="https://img.discogs.com/PGUuH0Vf9pSYFpNUt1bjQ_iyT6k=/fit-in/508x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2252237-1342980339-4303.jpeg.jpg" data-tags="trip-hop" role="button">
 Tricky - Blowback (2001-06-20)
 </li>
-<li data-cover="https://img.discogs.com/jmWEyDO16kNXmvl9evyBzsUdK0g=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2876887-1584239708-8952.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
-Kosheen - Resist (2001-06-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/e0e5d44b-6995-320f-8fdc-8eaf0a0b90e4/8432483528-500.jpg" data-tags="trip-hop" role="button">
 Lamb - What Sound (2001-10-08)
 </li>
@@ -176,6 +170,9 @@ Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/715db53a-e261-3ea1-af6d-f502201a3549/3490018723-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - 100th Window (2002-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/994e2eae-daf6-4428-a109-08ee24226397/7204386247-500.jpg" data-tags="trip-hop, icelandic" role="button">
+Bang Gang - Something Wrong (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1e2c91c-a52f-4d06-8638-c2dea9e7e154/15265703897-500.jpg" data-tags="electronic, trip-hop" role="button">
 Moloko - Statues (2003-01-06)
@@ -221,6 +218,9 @@ Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
+Röyksopp - The Understanding (2005-06-22)
 </li>
 <li data-cover="https://img.discogs.com/wGPXjhM9s0n64Jl-9DR16diSS8Y=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887196-1178185061.jpeg.jpg" data-tags="trip-hop" role="button">
 Pati Yang - Silent Treatment (2005-10-01)

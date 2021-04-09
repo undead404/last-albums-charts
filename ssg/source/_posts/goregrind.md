@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T05:18:01.392Z
+date: 2021-04-09T21:32:01.483Z
 title: "goregrind: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -36,6 +36,9 @@ Impetigo - Ultimo Mondo Cannibale (1990-02)
 <li data-cover="http://coverartarchive.org/release/33145562-42b2-37cb-816a-ee4b85e68f09/10372497864-500.jpg" data-tags="death metal" role="button">
 Carcass - Necroticism: Descanting the Insalubrious (1991-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/16538f88-5fa1-4d74-9542-a9b0d3dc55b6/6166844276-500.jpg" data-tags="grindcore" role="button">
+General Surgery - Necrology (1991-11-04)
+</li>
 <li data-cover="https://img.discogs.com/zxMUnzRERNzOyPuyRfUDBQ5yABY=/fit-in/458x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-763306-1156295954.jpeg.jpg" data-tags="death metal" role="button">
 Impetigo - Horror of the Zombies (1992)
 </li>
@@ -63,6 +66,9 @@ Exhumed - Gore Metal (1998-10-27)
 <li data-cover="http://coverartarchive.org/release/13f4b4ab-a089-48af-b395-256fcdc52f8c/17673988841-500.jpg" data-tags="goregrind, grindcore" role="button">
 Cattle Decapitation - Human Jerky (1999)
 </li>
+<li data-cover="http://coverartarchive.org/release/53a6082d-8efe-4dd4-9185-2cc64e61e203/5845779260-500.jpg" data-tags="death metal, brutal death metal" role="button">
+Aborted - The Purity Of Perversion (1999-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/4376e2ea-7b73-32a7-b99a-2e76f21498c2/28063954531-500.jpg" data-tags="juggalo, hip-hop" role="button">
 Insane Clown Posse - The Amazing Jeckel Brothers (1999-05-25)
 </li>
@@ -71,6 +77,9 @@ Mortician - Chainsaw Dismemberment (1999-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1730f3c-29b0-4d23-8979-19b5e4968cb0/8563624694-500.jpg" data-tags="goregrind" role="button">
 Cattle Decapitation - Homovore (2000)
+</li>
+<li data-cover="https://img.discogs.com/t7YSWUBRcINqLJ8nhzPQCBnIFr0=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-720111-1447338387-3444.jpeg.jpg" data-tags="goregrind" role="button">
+Last Days of Humanity - Hymns of Indigestible Suppuration (2000)
 </li>
 <li data-cover="https://img.discogs.com/t-EvFCe7qG41RIsl8oYUU82Wm6A=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4775449-1533478255-2498.jpeg.jpg" data-tags="detroit, michigan" role="button">
 Blaze Ya Dead Homie - Blaze Ya Dead Homie (2000-07-21)
@@ -111,7 +120,7 @@ Rompeprop - Hellcock's Pornflakes (2003)
 <li data-cover="http://coverartarchive.org/release/f2442aa6-eb0d-4003-97c9-51ad34bb6b28/21023905301-500.jpg" data-tags="goregrind, cybergrind" role="button">
 Ahumado Granujo - Splatter-tekk (2003)
 </li>
-<li data-cover="https://img.discogs.com/MOp5muXIdWKvPBDYOmP8JPci-ck=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10963729-1507308454-8929.jpeg.jpg" data-tags="death metal, brutal death metal" role="button">
+<li data-cover="https://img.discogs.com/4C1-8SP3j1NDxjYZEoZNNwcZtgk=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367237-1343398127-3262.jpeg.jpg" data-tags="death metal, brutal death metal" role="button">
 Aborted - Goremageddon: The Saw and the Carnage Done (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f44fe25a-2a46-438b-9aca-5c7db1a80bbe/24223776060-500.jpg" data-tags="death metal" role="button">
@@ -150,20 +159,14 @@ Regurgitate - Sickening Bliss (2006-08-30)
 <li data-cover="http://coverartarchive.org/release/f4558ae5-b75a-4911-b310-f88a9adfce15/2546703239-500.jpg" data-tags="goregrind, slamming brutal death metal, slam death metal" role="button">
 Katalepsy - Musick Brings Injuries (2007)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists" role="button">
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="goregrind" role="button">
 The County Medical Examiners - Olidous Operettas (2007-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/4bc3ef86-36dd-4546-96ff-c644156b7b67/5384639454-500.jpg" data-tags="finnish, power metal, tokio hotel" role="button">
-Ari Koivunen - Fuel For The Fire (2007-05-24)
-</li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">
-Sturm und Drang - Learning To Rock (2007-05-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/11d79e6c-e76c-4e77-82e7-22acd02f8c8a/5367819571-500.jpg" data-tags="pop, finnish, grim, nsbm" role="button">
-Anna Abreu - Anna Abreu (2007-08-16)
+<li data-cover="http://coverartarchive.org/release/7f4e0c1b-9f9f-427b-a654-0a85debd6edf/27366556586-500.jpg" data-tags="hip-hop, detroit" role="button">
+Insane Clown Posse - The Tempest (2007-03-20)
 </li>
 <li data-cover="https://img.discogs.com/TFDVSollYltp5DdqM8e_sPOofxk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2520593-1288530583.jpeg.jpg" data-tags="hair metal" role="button">
 Steel Panther - Death To All But Metal (2008)
@@ -177,6 +180,9 @@ Brokencyde - BC13 (2008-03-27)
 <li data-cover="http://coverartarchive.org/release/51eab306-8240-4c4c-83a8-b320b3651815/9668781634-500.jpg" data-tags="queer, queercore, beer, kid rock, scat, racism, hick-hop, farts, creed, racist, my nigga, pedophile, hillary clinton, rapist, fart, donald trump, country rap, sjw, genderqueer, maga, farting, youngstar, kkk country, racist country, colt ford, little star, scat goregrind, bro country, pissgore, agender, queer metal, scatgrind, jj lawhorn, non-binary, dustin lynch, bro-country, make america great again, similar to johnny rebel, pwr bttm" role="button">
 Blood on the Dance Floor - Let's Start a Riot (2008-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/2ca973fc-76b4-4877-974d-b7ecea932c09/5591754000-500.jpg" data-tags="grindcore" role="button">
+Jig-Ai - Katana Orgy (2008-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/f65431b3-f8cb-4093-a9c9-9108827e9987/9954080401-500.jpg" data-tags="beer, scat, dustin lynch" role="button">
 Blood on the Dance Floor - It's Hard to Be a Diamond in a Rhinestone World (2008-09-12)
 </li>
@@ -186,7 +192,7 @@ Colt Ford - Ride Through The Country (2008-12-02)
 <li data-cover="http://coverartarchive.org/release/944c0440-8285-4a98-bcea-238e51f534e3/2512771498-500.jpg" data-tags="crunkcore" role="button">
 Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
-<li data-cover="https://img.discogs.com/FjLGaTafIscM8hQMlZ18AdraIVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7271769-1437699076-6523.jpeg.jpg" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f1084d9-0451-4e0a-980c-1760598c761b/17673861246-500.jpg" data-tags="death metal" role="button">
@@ -215,9 +221,6 @@ Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
 <li data-cover="https://img.discogs.com/z93hsXJ-FG20W1WGYtQirXrMWUs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2098063-1263865182.jpeg.jpg" data-tags="black metal" role="button">
 Liturgy - Renihilation (2009-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/b9fba5c6-2003-42aa-b5a0-131c90445884/9297556618-500.jpg" data-tags="k-pop, korean" role="button">
-4minute - For Muzik (2009-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aa2faf0-993a-45b6-b513-afcb5f40f5d5/1621608060-500.jpg" data-tags="goregrind, deathcore, brutal death metal, nsbm, deathgrind, brutal deathcore, national socialist black metal, moshcore" role="button">
 Insane Clown Posse - Bang! Pow! Boom! (2009-09-01)
@@ -261,14 +264,11 @@ Justin Bieber - My Worlds Acoustic (2010-11-26)
 <li data-cover="http://coverartarchive.org/release/709c2bd1-4fad-4f0b-9d0d-5b7955e23b58/5591906121-500.jpg" data-tags="goregrind" role="button">
 Gutalax - Shit Beast (2011)
 </li>
-<li data-cover="http://coverartarchive.org/release/27dcc5ec-d2ff-4718-8dea-587e1137e1d5/5791791087-500.jpg" data-tags="better than akiko shikata, better than diamanda galas" role="button">
-Rebecca Black - Friday (2011-03-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/216dc68b-c7db-4c5f-b054-753d6d3fd1d1/12911239802-500.jpg" data-tags="black metal, metal" role="button">
-Liturgy - Aesthethica (2011-05-10)
+<li data-cover="https://img.discogs.com/XdDsaAxauHTjeE3zKhSTaK_tq0Q=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4584778-1369122887-1763.jpeg.jpg" data-tags="goregrind" role="button">
+Haemorrhage - Hospital Carnage (2011-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Set the World on Fire (2011-06-14)

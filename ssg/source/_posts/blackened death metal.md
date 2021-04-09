@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T00:15:06.646Z
+date: 2021-04-09T21:10:01.519Z
 title: "blackened death metal: 100 albums you must listen to before you die"
 ---
 ![Behemoth - The Satanist (2014-02-03)](https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg "Behemoth - The Satanist (2014-02-03)")
@@ -9,7 +9,7 @@ title: "blackened death metal: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/dn2AraqoMNXLtLD5wlYOPhTFLaI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9604804-1483543288-5702.jpeg.jpg" data-tags="blackened death metal, black metal" role="button">Belphegor - Lucifer Incestus (2003-11-24)</li>
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">Behemoth - Demigod (2004-11-08)</li>
 <li data-cover="http://coverartarchive.org/release/146dccdb-9b4f-4f6a-8f4f-815e3a05e8c2/19798876684-500.jpg" data-tags="blackened death metal, black metal" role="button">Belphegor - Goatreich - Fleshcult (2005-02-28)</li>
-<li data-cover="https://img.discogs.com/NQrYoCBwgKJ-3AVFflKX9YxZijo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-438891-1361535918-7124.jpeg.jpg" data-tags="black metal, blackened death metal" role="button">Belphegor - Bondage Goat Zombie (2008-04-11)</li>
+<li data-cover="https://img.discogs.com/WB_xmmaubiBTqqITwzObxUMWvhg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16230449-1605655724-1287.jpeg.jpg" data-tags="black metal, blackened death metal" role="button">Belphegor - Bondage Goat Zombie (2008-04-11)</li>
 <li data-cover="https://img.discogs.com/K20rSftvVzZehMnMB2Y9L-xRBOs=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3464875-1331417514.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">Behemoth - Evangelion (2009-08-07)</li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
 <li data-cover="http://coverartarchive.org/release/7bb03acd-cc94-413c-b433-bc181b519efe/2878785120-500.jpg" data-tags="blackened death metal" role="button">Belphegor - Blood Magick Necromance (2011-01-14)</li>
@@ -33,7 +33,7 @@ Necrophobic - The Nocturnal Silence (1993-08-02)
 <li data-cover="https://img.discogs.com/qXikMEYZ_CnBWSafKM05jo_HPk4=/fit-in/360x286/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952440-1177266811.jpeg.jpg" data-tags="black metal, melodic black metal" role="button">
 Dissection - The Somberlain (1993-12-03)
 </li>
-<li data-cover="https://img.discogs.com/2qUfmAWsQGXVtR2p-4kwjmGalsE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-755345-1160114117.jpeg.jpg" data-tags="melodic black metal" role="button">
+<li data-cover="https://img.discogs.com/G6TjoWfMCKl4K7nVPgKzppUQQgA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767985-1156772425.jpeg.jpg" data-tags="melodic black metal" role="button">
 Naglfar - Vittra (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/f410685a-29d7-4873-a432-012520614158/19793601931-500.jpg" data-tags="black metal, death metal, blackened death metal" role="button">
@@ -63,7 +63,7 @@ Behemoth - Pandemonic Incantations (1998-03-02)
 <li data-cover="https://img.discogs.com/Q6efqq1ZT4alDZT2vrJVpePFHKA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397423-1155066431.jpeg.jpg" data-tags="black metal, melodic black metal" role="button">
 Naglfar - Diabolical (1998-07-28)
 </li>
-<li data-cover="https://img.discogs.com/eThs5Jkv68GLA_7KJ-HE0sFAonU=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1192272-1199666296.jpeg.jpg" data-tags="thrash metal, groove metal" role="button">
+<li data-cover="https://img.discogs.com/rKUT_e0kr3sKuood7PlHJ9yoRWU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1375251-1308953843.jpeg.jpg" data-tags="thrash metal, groove metal" role="button">
 Sepultura - Against (1998-10-05)
 </li>
 <li data-cover="https://img.discogs.com/updqDDeOl9ZPg_msom6pOFfCnCg=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-559329-1294277850.jpeg.jpg" data-tags="death metal" role="button">
@@ -123,7 +123,7 @@ Portal - Seepia (2003-11-12)
 <li data-cover="https://img.discogs.com/dn2AraqoMNXLtLD5wlYOPhTFLaI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9604804-1483543288-5702.jpeg.jpg" data-tags="blackened death metal, black metal" role="button">
 Belphegor - Lucifer Incestus (2003-11-24)
 </li>
-<li data-cover="https://img.discogs.com/weXpoJ89gZp3sseqde66Syp0sMc=/fit-in/600x959/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3240616-1446731476-2789.jpeg.jpg" data-tags="dudu, tarkan" role="button">
+<li data-cover="https://img.discogs.com/E_RO0q-pozYCBB0DWO8MAREXKg4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7318965-1476958843-7101.jpeg.jpg" data-tags="dudu, tarkan" role="button">
 Tarkan - Dudu (2003-12)
 </li>
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
@@ -168,16 +168,19 @@ Archgoat - Whore of Bethlehem (2006-09-09)
 <li data-cover="http://coverartarchive.org/release/8d8e6041-9f4b-4553-ac4d-cf997e29598a/21893021794-500.jpg" data-tags="metalcore, blackcore" role="button">
 Abigail Williams - Legend (2006-10-03)
 </li>
-<li data-cover="https://img.discogs.com/MQhXJ6IzIKxdRtX-EKXynZwV8KQ=/fit-in/360x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584682-1397249996-7985.jpeg.jpg" data-tags="female vocalists, gay metal" role="button">
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b5c9ae48-e220-39b8-819e-3ad6bcdae905/18251737209-500.jpg" data-tags="melodic black metal, black metal" role="button">
 Graveworm - Collateral Defect (2007-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/49f6af34-d643-385d-95c3-d7fba082fff8/3073081136-500.jpg" data-tags="death metal" role="button">
+Portal - Outre (2007-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/2adc426e-bf17-4ddd-ba04-47470c3045d8/6761584111-500.jpg" data-tags="black metal, symphonic black metal, dark metal" role="button">
 Shade Empire - Zero Nexus (2008-03-12)
 </li>
-<li data-cover="https://img.discogs.com/NQrYoCBwgKJ-3AVFflKX9YxZijo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-438891-1361535918-7124.jpeg.jpg" data-tags="black metal, blackened death metal" role="button">
+<li data-cover="https://img.discogs.com/WB_xmmaubiBTqqITwzObxUMWvhg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16230449-1605655724-1287.jpeg.jpg" data-tags="black metal, blackened death metal" role="button">
 Belphegor - Bondage Goat Zombie (2008-04-11)
 </li>
 <li data-cover="https://img.discogs.com/Ion6IP8yCi0ejRgYihepYh5teNY=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2633429-1294235009.jpeg.jpg" data-tags="metalcore" role="button">
@@ -264,9 +267,6 @@ Justin Bieber - My Worlds Acoustic (2010-11-26)
 <li data-cover="http://coverartarchive.org/release/7bb03acd-cc94-413c-b433-bc181b519efe/2878785120-500.jpg" data-tags="blackened death metal" role="button">
 Belphegor - Blood Magick Necromance (2011-01-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/27dcc5ec-d2ff-4718-8dea-587e1137e1d5/5791791087-500.jpg" data-tags="better than akiko shikata, better than diamanda galas" role="button">
-Rebecca Black - Friday (2011-03-14)
-</li>
 <li data-cover="https://img.discogs.com/qZ8j9iXN_8zPuzF14xX2rmugCro=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3300938-1422240071-2755.jpeg.jpg" data-tags="blackened death metal, death-black metal, top20 of 2011, supreme albums" role="button">
 Torchbearer - Death Meditations (2011-04-25)
 </li>
@@ -285,7 +285,7 @@ Goatwhore - Blood For The Master (2012-02-14)
 <li data-cover="https://img.discogs.com/Ngl8qLTEzdsfEFUd9vHQjVBpf8I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3499570-1455786395-5773.jpeg.jpg" data-tags="melodic black metal, blackened death metal, swedish" role="button">
 Naglfar - Téras (2012-03-23)
 </li>
-<li data-cover="https://img.discogs.com/EKVJ5Wlp3bN69o-BLUCQVoiWxxk=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3573433-1335807834.jpeg.jpg" data-tags="2012, death metal, russian death metal, russian black metal, blackened death metal" role="button">
+<li data-cover="https://img.discogs.com/EKVJ5Wlp3bN69o-BLUCQVoiWxxk=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3573433-1335807834.jpeg.jpg" data-tags="death metal, russian death metal, russian black metal, blackened death metal" role="button">
 Pseudogod - Deathwomb Catechesis (2012-04-24)
 </li>
 <li data-cover="https://img.discogs.com/K9tVnY6z0QLkPc4Ppp7dCT3kjjI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4586812-1595049604-4969.jpeg.jpg" data-tags="black metal, death metal, blackened death metal" role="button">
@@ -300,7 +300,7 @@ Extol - Extol (2013-06-21)
 <li data-cover="http://coverartarchive.org/release/8f76d360-f38e-48ef-9769-f5ff0c8e7cc7/15355438210-500.jpg" data-tags="metalcore, grindcore, hardcore, crust" role="button">
 All Pigs Must Die - Nothing Violates This Nature (2013-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/529a12ef-b4f1-4074-9a2c-fe36ef7a256a/13818478790-500.jpg" data-tags="2013, death metal, blackened death metal" role="button">
+<li data-cover="http://coverartarchive.org/release/529a12ef-b4f1-4074-9a2c-fe36ef7a256a/13818478790-500.jpg" data-tags="death metal, blackened death metal" role="button">
 Grave Miasma - Odori Sepulcrorum (2013-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9ac2d6d4-dfed-43f6-b9d8-12e4243debe9/23592483804-500.jpg" data-tags="black metal, death metal, blackened death metal" role="button">
@@ -309,7 +309,7 @@ Behemoth - Blow Your Trumpets Gabriel (2013-12-04)
 <li data-cover="https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg" data-tags="blackened death metal, black metal, death metal" role="button">
 Behemoth - The Satanist (2014-02-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/bcd74c76-7d56-434d-89c1-79d2f4525a6a/11723317954-500.jpg" data-tags="2013, blackened death metal, atmospheric death metal, occult death metal" role="button">
+<li data-cover="http://coverartarchive.org/release/bcd74c76-7d56-434d-89c1-79d2f4525a6a/11723317954-500.jpg" data-tags="blackened death metal, atmospheric death metal, occult death metal" role="button">
 Irkallian Oracle - Grave Ekstasis (2014-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b33e3a3-943c-4ae1-8882-2265e9812099/6419938844-500.jpg" data-tags="doom metal, melodic death metal, dutch, underground, progressive death metal, debut, blackened death metal, melodic black metal, atmospheric black metal, progressive black metal" role="button">

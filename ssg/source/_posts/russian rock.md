@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T22:27:01.402Z
+date: 2021-04-09T21:03:01.462Z
 title: "russian rock: 100 albums you must listen to before you die"
 ---
 ![Сплин - Гранатовый альбом (1998)](https://img.discogs.com/0SuPxfEu6T74Pw_wmSg7dk4zNZg=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9111371-1474970082-8131.jpeg.jpg "Сплин - Гранатовый альбом (1998)")
@@ -78,6 +78,9 @@ Nautilus Pompilius - Чужая Земля (1991)
 <li data-cover="https://img.discogs.com/YveRMLuzQWp2Z4VLIfpSRo8R4Hs=/fit-in/600x945/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777558-1306174349.jpeg.jpg" data-tags="russian rock, russian" role="button">
 ДДТ - Актриса Весна (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/b49ef55a-d9ff-4e06-8c71-e50226122211/5376021504-500.jpg" data-tags="russian rock" role="button">
+Крематорий - Двойной альбом (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/7cf2a8c6-f2fb-4f99-a316-d9fbb8044667/9283951283-500.jpg" data-tags="psychedelic" role="button">
 Аукцыон - Птица (1993)
 </li>
@@ -141,9 +144,6 @@ Tequilajazzz - Целлулоид (1998)
 <li data-cover="http://coverartarchive.org/release/08d21574-92f3-4ed1-bcc4-a5b46a8e2902/7194655449-500.jpg" data-tags="russian rock" role="button">
 Найк Борзов - Супермен (2000-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/75bd4618-dadf-4d0e-bb4f-f4635a8b3cef/12161793810-500.jpg" data-tags="rock, russian, pop-rock" role="button">
-Мумий Тролль - Точно ртуть алоэ (2000-02-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/c890f158-7efa-4d0c-9646-a530493ce315/1405666877-500.jpg" data-tags="russian rock" role="button">
 Zемфира - Прости Меня Моя Любовь (2000-03-28)
 </li>
@@ -171,6 +171,9 @@ Zемфира - До свидания... (2000-08-25)
 <li data-cover="http://coverartarchive.org/release/43e99aec-eddc-42e2-b769-ebc2543dbfbb/10018795821-500.jpg" data-tags="progressive rock" role="button">
 Сплин - 25 кадр (2001-03-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/022e4ff4-0174-401a-b3f8-d243066a1ee8/6376082373-500.jpg" data-tags="rock, russian rock, post-kircore, belarussia, hdd" role="button">
+Ляпис Трубецкой - Юность (2001-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/c94475f2-0c9c-4d28-854e-7907e64f2a9e/9144050916-500.jpg" data-tags="power metal, heavy metal, russian rock" role="button">
 Эпидемия - Загадка Волшебной Страны (2001-10-08)
 </li>
@@ -188,9 +191,6 @@ Zемфира - До свидания... (2000-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/103472d6-746e-4533-be60-ba95bb4383fb/1406115627-500.jpg" data-tags="russian rock, rock" role="button">
 Zемфира - Четырнадцать недель тишины (2002-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/f1ffaf91-60fe-3697-b5fa-c75f16674acb/19154216035-500.jpg" data-tags="rock, russian, pop-rock" role="button">
-Мумий Тролль - Меамуры (2002-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0ff601-03cf-4a8f-bc5e-8a26cd116d0c/7194629874-500.jpg" data-tags="alternative" role="button">
 Найк Борзов - Заноза (2002-10-06)
@@ -212,9 +212,6 @@ Lumen - Без консервантов (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ea45f21-a336-40ba-a38b-bf2d1399b0e5/9478672915-500.jpg" data-tags="rock, russian, punk, alternative" role="button">
 Lumen - Три пути (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4f28951-7eb0-36b8-8a01-06e64ea5e9ce/19154191635-500.jpg" data-tags="russian, rock, russian rock" role="button">
-Мумий Тролль - Похитители книг (2004-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/74e829b2-6155-49d1-a634-ae72e685e264/11339739256-500.jpg" data-tags="rock, alternative, russian, russian rock, record collection" role="button">
 Би-2 - Иномарки (2004-03-02)
@@ -246,11 +243,11 @@ Lumen - Одной крови (2005)
 <li data-cover="http://coverartarchive.org/release/c7af3832-ec57-4030-8c17-78e0f6f8f3a3/9478681638-500.jpg" data-tags="rock, lumen, alternative, alternative rock" role="button">
 Lumen - Свобода (2005)
 </li>
+<li data-cover="https://img.discogs.com/TMi8KoANO3tTmuRzqKu8jTXlcBk=/fit-in/600x950/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359932-1289152737.jpeg.jpg" data-tags="russian alternative" role="button">
+Tracktor Bowling - Черта (2005)
+</li>
 <li data-cover="https://img.discogs.com/lGDP_8xqxQKo5T7UnrhwYrlzta8=/fit-in/174x174/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5295699-1389864679-4820.jpeg.jpg" data-tags="rock, russian rock" role="button">
 ДДТ - Пропавший без вести (2005-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/a237a605-e4ae-4642-a7df-48b56c71f5bb/19154243216-500.jpg" data-tags="russian rock" role="button">
-Мумий Тролль - Слияние и Поглощение (2005-04-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="russian, eastern europe rock" role="button">
 Братья Грим - Братья Грим (2005-06-06)
@@ -285,8 +282,8 @@ Lumen - Правда? (2007)
 <li data-cover="http://coverartarchive.org/release/7483f743-f7c9-4cac-a8eb-e0a59e382617/18393877716-500.jpg" data-tags="alternative, post-punk, russian rock" role="button">
 ундервуд - Опиум Для Народа (2007-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/3fa69ffc-f152-3fcc-870e-5c3dbef29e04/19154247481-500.jpg" data-tags="rock, alternative, russian, russian rock" role="button">
-Мумий Тролль - Амба (2007-07-07)
+<li data-cover="http://coverartarchive.org/release/57e186a7-85a5-499b-b59f-00e42a6e6a97/17957981432-500.jpg" data-tags="russian rock, russian" role="button">
+ЗЕМФИРА - Спасибо (2007-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/93563577-c07b-416a-acb5-e90235af18f1/24692507668-500.jpg" data-tags="rock, russian" role="button">
 Мумий Тролль - 8 (2008-08-08)
@@ -320,5 +317,8 @@ Lumen - На части (2012-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/71c73516-1269-439d-9cd7-8cd4717760e3/2294072621-500.jpg" data-tags="rock" role="button">
 Сплин - Обман зрения (2012-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/36d4effe-da4e-44c0-8718-49547ac0f44c/8577010368-500.jpg" data-tags="rock, russian rock" role="button">
+Сплин - Резонанс. Часть 1 (2014-03-07)
 </li>
 </ol>

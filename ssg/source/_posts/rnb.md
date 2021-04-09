@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:26:01.439Z
+date: 2021-04-09T21:00:01.663Z
 title: "rnb: 100 albums you must listen to before you die"
 ---
 ![Beyoncé - I Am... Sasha Fierce (2008-11-17)](http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg "Beyoncé - I Am... Sasha Fierce (2008-11-17)")
@@ -186,9 +186,6 @@ Rihanna - Good Girl Gone Bad (2007-05-30)
 <li data-cover="http://coverartarchive.org/release/1de12505-ac7b-49ab-a0ab-2aa189f0bf99/14541670596-500.jpg" data-tags="pop" role="button">
 Rihanna - Good Girl Gone Bad: Reloaded (2007-05-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/8bf24b86-8ec0-4348-af99-d919057ed774/12243482446-500.jpg" data-tags="rnb, hip-hop, sean kingston" role="button">
-Sean Kingston - Sean Kingston (2007-07-31)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb, keyshia cole" role="button">
 Keyshia Cole - Just Like You (2007-09-25)
 </li>
@@ -233,6 +230,9 @@ Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d888be6-0cc4-46c6-a788-9231c5857501/1116839013-500.jpg" data-tags="akon, hip hop" role="button">
 Akon - Freedom (2008-11-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/761530f2-5a87-440e-ad76-39a1b036479d/4387425940-500.jpg" data-tags="rnb" role="button">
+Jamie Foxx - Intuition (2008-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
 Keri Hilson - In a Perfect World... (2009-01-01)

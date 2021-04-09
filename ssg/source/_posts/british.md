@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:31:06.993Z
+date: 2021-04-09T21:19:01.475Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -56,6 +56,9 @@ Radiohead - OK Computer (1997-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/65957f4b-9596-4ef3-b98f-17579f982a5a/7370234626-500.jpg" data-tags="alternative rock" role="button">
+Placebo - Without You I'm Nothing (1998-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
@@ -225,9 +228,6 @@ The Kooks - Konk (2008-04-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 The Last Shadow Puppets - The Age of the Understatement (2008-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
-The Ting Tings - We Started Nothing (2008-05-16)
-</li>
 <li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
 Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
 </li>
@@ -239,9 +239,6 @@ Friendly Fires - Friendly Fires (2008-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/654432d6-6249-3989-9ee3-1572f9a0ff3e/3151547421-500.jpg" data-tags="scottish" role="button">
-Paolo Nutini - Sunny Side Up (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
 Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
@@ -269,6 +266,9 @@ PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
 Jessie J - Who You Are (2011-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
+Metronomy - The English Riviera (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0aa504b0-fcd0-4238-9227-06f716c63947/6574183605-500.jpg" data-tags="british, indie rock" role="button">
 Miles Kane - Colour Of The Trap (2011-05-02)

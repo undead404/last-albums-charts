@@ -1,12 +1,12 @@
 ---
-date: 2021-04-06T20:33:01.384Z
+date: 2021-04-09T20:48:01.483Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
 ![CSS - Cansei De Ser Sexy (2005-10)](https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg "CSS - Cansei De Ser Sexy (2005-10)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">Os Mutantes - Os Mutantes (1968-06)</li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">Mamonas Assassinas - Mamonas Assassinas (1995-06-23)</li>
-<li data-cover="https://img.discogs.com/p4Ka3JygxaUfLwQjCmolv5_AlNk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14825713-1582332673-5237.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">Engenheiros Do Hawaii - Acústico MTV (2004-11-29)</li>
+<li data-cover="http://coverartarchive.org/release/cda58eae-cb47-49d4-bb08-d1d8863ed647/2145382610-500.jpg" data-tags="bossa nova" role="button">Bebel Gilberto - Tanto Tempo (2000)</li>
+<li data-cover="https://img.discogs.com/Z1wUas6SuxWv66SAV5HxXKTZa-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999111-1453207563-8577.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">Engenheiros Do Hawaii - Acústico MTV (2004-11-29)</li>
 <li data-cover="http://coverartarchive.org/release/e53c3877-01db-4cd0-99ef-f379b2b99d66/11450096982-500.jpg" data-tags="brazilian" role="button">Los Hermanos - 4 (2005)</li>
 <li data-cover="http://coverartarchive.org/release/333bb712-ba43-4887-bf0d-0bb8f8fdc764/15739034587-500.jpg" data-tags="brazilian, female vocalists" role="button">Céu - CéU (2005)</li>
 <li data-cover="https://img.discogs.com/rodz1-Bj94EJs5OTJHL98Wrja_s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877309-1168261267.jpeg.jpg" data-tags="electronic, indie, brazilian" role="button">CSS - Cansei De Ser Sexy (2005-10)</li>
@@ -24,17 +24,8 @@ _________________
 <li data-cover="http://coverartarchive.org/release/f244c760-f055-4099-9b80-70cef5ef1f74/1276068220-500.jpg" data-tags="brazilian, samba, mpb" role="button">
 Jorge Ben - Samba Esquema Novo (1963)
 </li>
-<li data-cover="http://coverartarchive.org/release/20a55a85-2942-3444-be5c-3bf4eef707cf/23106666641-500.jpg" data-tags="psychedelic, tropicalia" role="button">
-Os Mutantes - Os Mutantes (1968-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/c176c162-97c5-4e4e-b2a7-4730db8e06de/2974143985-500.jpg" data-tags="brazilian, 60s, brasil" role="button">
-Caetano Veloso - Caetano Veloso (1969)
-</li>
 <li data-cover="http://coverartarchive.org/release/4ad7a356-d1d8-4367-8b33-dbb31c29517f/25207877428-500.jpg" data-tags="mpb" role="button">
 Chico Buarque - Construção (1971)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb, tropicalia, samba" role="button">
-Novos Baianos - Acabou Chorare (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c6cf2e5-6382-4574-b172-b2d63c7894df/6506238138-500.jpg" data-tags="latin, mpb, brazilian, international, my 1972 experiment, my favorite things, brazilian traditions" role="button">
 Arthur Verocai - Arthur Verocai (1972)
@@ -42,19 +33,10 @@ Arthur Verocai - Arthur Verocai (1972)
 <li data-cover="http://coverartarchive.org/release/ff44db1d-4986-465e-bf65-5ca62d7e84b0/15665166046-500.jpg" data-tags="disco, soul, dance, album rock, funk, california, brazilian, romance, shows, aleister crowley, christopher lee, blogs, musica, aleyster crowley, argeu california seixas, silvio passos, wilson seixas, california seixas, familia, aleister, raul seixas, cultura, camisa de venus, amidio junior, filmes, anyzio rocha, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, encontro dos famosos, enoque gomes, rodrigo otarola, palco, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, marcelo nova e a envergadura moral, mamao com acucar, thebestofaleystercrowley, negocios, banda metamorphosis, california rock clube, eventos, trepidants, destaque, os karetas, bernardo montador de moveis em recife, ernandes dantas, o peregrino da musica, curativos, t maia" role="button">
 Tim Maia - Tim Maia (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/83249477-42dc-4b09-8836-a95a46dc7484/14738300231-500.jpg" data-tags="brazilian" role="button">
-Caetano Veloso - Qualquer Coisa (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/f3263c66-0dd6-4da6-b8a0-2c7894f6a8be/5910139749-500.jpg" data-tags="brasil, mpb" role="button">
-Tom Zé - estudando o samba (1975)
-</li>
 <li data-cover="https://img.discogs.com/CHGtwynZ4HL4xZlmSyXA_CJ08SE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15110277-1586796908-1424.jpeg.jpg" data-tags="mpb" role="button">
 Chico Buarque - Meus Caros Amigos (1976)
 </li>
-<li data-cover="http://coverartarchive.org/release/933292d0-d889-4469-ab7b-cdf992420cc3/23172707718-500.jpg" data-tags="brazilian" role="button">
-Caetano Veloso - Bicho (1977)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, valley of the bees radio, e regina" role="button">
+<li data-cover="https://img.discogs.com/0WnKIoaJArEZ_d4WDap_SebLSwU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14396348-1573689705-5722.jpeg.jpg" data-tags="mpb, brazilian, valley of the bees radio, e regina" role="button">
 Elis Regina - Elis (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/36a69014-a603-4ee8-abd0-075b3ad8855d/18781130799-500.jpg" data-tags="rita lee" role="button">
@@ -72,6 +54,9 @@ Legião Urbana - Legião Urbana (1985-01-02)
 <li data-cover="http://coverartarchive.org/release/49adee94-0cc6-4719-9afa-ef0b9ec5d51c/20509358981-500.jpg" data-tags="rock, 80s, punk, reggae, new wave, post-punk, ska, punk rock, brazilian, brazilian rock, rock gaucho, engenheiros do hawaii, morpheus songs, nei lisboa, humberto gessinger, carlos maltz, manito, marcelo pitz" role="button">
 Engenheiros Do Hawaii - Longe Demais Das Capitais (1986-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/d423a4cf-7ec3-4d84-9e9d-9240a7c6e3b4/20509711014-500.jpg" data-tags="post-punk, folk rock" role="button">
+Engenheiros Do Hawaii - A revolta dos Dândis (1987)
+</li>
 <li data-cover="http://coverartarchive.org/release/bfcbdba7-dfcd-4cdd-9a1a-3ca8685b33ad/17670955683-500.jpg" data-tags="brazilian rock" role="button">
 Legião Urbana - Que País É Este (1987-11)
 </li>
@@ -81,11 +66,14 @@ Cazuza - Ideologia (1988)
 <li data-cover="http://coverartarchive.org/release/96738581-b059-48ca-ab60-7d6a71c4ffcc/17671355589-500.jpg" data-tags="rock, brazilian rock" role="button">
 Legião Urbana - As Quatro Estações (1989-10-26)
 </li>
-<li data-cover="https://img.discogs.com/8P9WGBkmZ8h_a1QjaUMpnKl6YUg=/fit-in/581x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7991437-1453060515-6491.jpeg.jpg" data-tags="rock, brazilian, rock nacional, engenheiros do hawaii" role="button">
+<li data-cover="https://img.discogs.com/1XGNbdhMKj_f_x0lpA3uhXQPOgo=/fit-in/600x824/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15794726-1597924404-7616.jpeg.jpg" data-tags="rock, brazilian, rock nacional, engenheiros do hawaii" role="button">
 Engenheiros Do Hawaii - Filmes de guerra, canções de amor (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/315d1ba0-63a1-4fc2-906c-2658e3110140/19166111237-500.jpg" data-tags="rock" role="button">
 Legião Urbana - O Descobrimento Do Brasil (1993-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/050e7238-9751-4521-91b6-89c672eac590/6734728782-500.jpg" data-tags="power metal" role="button">
+Angra - Angels Cry (1993-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff45df97-bad0-46af-ab36-ab929c12f637/23800902484-500.jpg" data-tags="mpb, brazilian" role="button">
 Chico César - Aos Vivos (1995)
@@ -95,6 +83,9 @@ Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/98e90fe5-2364-46fd-9a41-0b8d71be8a92/8871803526-500.jpg" data-tags="thrash metal, groove metal" role="button">
 Sepultura - Roots (1996-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7c4bc1c-0624-4a3e-ac48-ccb4356cb688/10026947688-500.jpg" data-tags="brasil, rock, brazilian" role="button">
+Skank - O Samba Poconé (1996-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c61a099a-7501-46e3-8d13-d048c1216dfa/8301999638-500.jpg" data-tags="brazilian" role="button">
 Caetano Veloso - Livro (1997)
@@ -120,7 +111,10 @@ O Rappa - Lado B Lado A (1999-09-15)
 <li data-cover="http://coverartarchive.org/release/083ae6e1-863a-3b63-9a4e-9ba1e440cc43/1901125702-500.jpg" data-tags="electronic, brazilian, brazilectro, sao paulo, very good, homage, solo album, ziriguiboom, instituto suba, opcoes curtir" role="button">
 Suba - Sao Paulo Confessions (1999-09-27)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, adriana calcanhotto" role="button">
+<li data-cover="http://coverartarchive.org/release/aa6c218d-edf7-4293-9ce9-731756e0dd6e/6756058530-500.jpg" data-tags="rock, rap, brazilian, br4z1l14n f4nk7 k0r3" role="button">
+Planet Hemp - A invasão do sagaz homem fumaça (2000)
+</li>
+<li data-cover="https://img.discogs.com/ov0m_0zgui0vVmn_eCzY51s4UK4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2274795-1467127783-9317.jpeg.jpg" data-tags="mpb, brazilian, adriana calcanhotto" role="button">
 Adriana Calcanhotto - Público (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/cda58eae-cb47-49d4-bb08-d1d8863ed647/2145382610-500.jpg" data-tags="bossa nova" role="button">
@@ -156,8 +150,14 @@ Angra - Hunters and Prey (2002-04-24)
 <li data-cover="https://img.discogs.com/3muILt2zcbRppIWl5F-b8UWrxKg=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3986950-1351952887-1008.jpeg.jpg" data-tags="power metal" role="button">
 Shaman - Ritual (2002-08-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/e2840251-375a-3e3a-8c06-6714d1edb41b/8189295779-500.jpg" data-tags="electronic" role="button">
+Amon Tobin - Out From Out Where (2002-10-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/a4ce56c4-19e6-4f3f-86ca-be9967a9586f/6298131173-500.jpg" data-tags="kid abelha" role="button">
 Kid Abelha - Acústico MTV (2002-11-21)
+</li>
+<li data-cover="https://img.discogs.com/Sx_8GcWG3a_rBQVhYFBqgSm9RZg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2201405-1269513103.jpeg.jpg" data-tags="pop rock, mpb, brazilian, brazilian rock" role="button">
+Jota Quest - Discotecagem Pop Variada (2002-11-30)
 </li>
 <li data-cover="https://img.discogs.com/abefN2OSMN2fFb1zLTUE7KoLhPA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694089-1149766791.jpeg.jpg" data-tags="mpb, tribalistas, latin, brasile" role="button">
 Tribalistas - Tribalistas (2002-12-17)
@@ -195,7 +195,7 @@ Bebel Gilberto - Bebel Gilberto (2004-06-07)
 <li data-cover="http://coverartarchive.org/release/b0839b8b-a0c8-3966-b567-93e3ffa00155/10455552232-500.jpg" data-tags="power metal" role="button">
 Angra - Temple of Shadows (2004-09-06)
 </li>
-<li data-cover="https://img.discogs.com/p4Ka3JygxaUfLwQjCmolv5_AlNk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14825713-1582332673-5237.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">
+<li data-cover="https://img.discogs.com/Z1wUas6SuxWv66SAV5HxXKTZa-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7999111-1453207563-8577.jpeg.jpg" data-tags="rock nacional, rock, brazilian" role="button">
 Engenheiros Do Hawaii - Acústico MTV (2004-11-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/e53c3877-01db-4cd0-99ef-f379b2b99d66/11450096982-500.jpg" data-tags="brazilian" role="button">
@@ -225,7 +225,7 @@ CSS - Cansei De Ser Sexy (2005-10)
 <li data-cover="http://coverartarchive.org/release/3e8333d9-5421-4f6c-aaf8-895fb25e7892/7543594812-500.jpg" data-tags="rock, caetano, brazilian" role="button">
 Caetano Veloso - Cê (2006-01-01)
 </li>
-<li data-cover="https://img.discogs.com/3wCfQgGKrKIisMXqm6SdVIy3_lU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7213460-1436303052-5502.jpeg.jpg" data-tags="hip hop, pop, bossa nova, mpb, brazilian, samba, latin grammy nominated, teenage years" role="button">
+<li data-cover="https://img.discogs.com/vn8Ek9gGQNV-2t14KbgH9s7wODA=/fit-in/600x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8848710-1589824943-5459.jpeg.jpg" data-tags="hip hop, pop, bossa nova, mpb, brazilian, samba, latin grammy nominated, teenage years" role="button">
 Sérgio Mendes - Timeless (2006-02-14)
 </li>
 <li data-cover="https://img.discogs.com/xVH-CTZ3jRiH1J-EMleJXli3ApU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1394873-1215973578.jpeg.jpg" data-tags="brazilian" role="button">
@@ -276,7 +276,7 @@ Apanhador Só - Apanhador Só (2010)
 <li data-cover="https://img.discogs.com/TH92t7-mbQC0Pcp131mxhGh67cw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11014546-1508258121-3203.jpeg.jpg" data-tags="folk, brasil, mpb, brazilian, discos favoritos, why havent you heard this" role="button">
 Thiago Pethit - Berlim, Texas (2010)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb" role="button">
+<li data-cover="https://img.discogs.com/EAzsLOGOKW_O1x-vupZHNf-83aI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15267609-1589057376-9693.jpeg.jpg" data-tags="mpb" role="button">
 Tulipa Ruiz - Efêmera (2010)
 </li>
 <li data-cover="http://coverartarchive.org/release/25401cf6-0e7e-4156-991e-ce0aec3fd0ab/992490598-500.jpg" data-tags="female vocalists, brazilian" role="button">
@@ -297,6 +297,9 @@ Mallu Magalhães - Pitanga (2011-09-30)
 <li data-cover="http://coverartarchive.org/release/3504a1cb-8799-4a33-8a15-c27d6c4c353a/1201706693-500.jpg" data-tags="female vocalists" role="button">
 A Banda Mais Bonita da Cidade - A Banda Mais Bonita da Cidade (2011-11-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/87591c96-7b83-4431-954c-95530f3e73ab/9613732848-500.jpg" data-tags="folk" role="button">
+Agridoce - Agridoce (2011-11-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/494b139c-ec79-4ee9-b545-a3d5c25ea7d6/4690541481-500.jpg" data-tags="rock, brasil, garage rock, brazilian, rock brasileiro, bahia, vivendo do ocio, jaja cardoso, luca bori, o pensamento e um ima" role="button">
 Vivendo do Ócio - O Pensamento é um Imã (2012-02-06)
 </li>
@@ -314,9 +317,6 @@ Cícero - Sábado (2013)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4f260ad-490a-410d-bc4b-fec31b353059/10496698518-500.jpg" data-tags="folk, mpb, indie, brazilian" role="button">
 Clarice Falcão - Monomania (2013-04-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/abf8a774-f31b-463b-8579-cb5a553ad833/14524742257-500.jpg" data-tags="swedish" role="button">
-Zara Larsson - Uncover (2013-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d3a2571-7f0f-4fdc-a040-18dcb309cf80/8017470296-500.jpg" data-tags="alternative rock, rock" role="button">
 Pitty - SETEVIDAS (2014-05-27)

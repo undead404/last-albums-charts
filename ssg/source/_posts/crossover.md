@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T07:04:01.419Z
+date: 2021-04-09T20:58:01.444Z
 title: "crossover: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Renegades (2000-11-28)](http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg "Rage Against the Machine - Renegades (2000-11-28)")
@@ -33,14 +33,14 @@ Cryptic Slaughter - Convicted (1986-07)
 <li data-cover="https://img.discogs.com/wN0gsUlckFwBc3A5kSE50fVL8vM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13690557-1559094645-6605.jpeg.jpg" data-tags="crossover, thrash metal" role="button">
 D.R.I. - Crossover (1987-03)
 </li>
+<li data-cover="https://img.discogs.com/yD0W7W4dpxF_I-6ToLCGtuVFQco=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-469816-1264660239.jpeg.jpg" data-tags="rock" role="button">
+BUCK-TICK - HURRY UP MODE (1987-04-01)
+</li>
 <li data-cover="https://img.discogs.com/tjCZlQCP483V7A4azyYcOeLaia4=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-838339-1164077523.jpeg.jpg" data-tags="punk, hardcore, crossover" role="button">
 Cryptic Slaughter - Money Talks (1987-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/439148c3-0e6a-3f3d-81f3-fea3d09e5280/27077757196-500.jpg" data-tags="punk, crossover, hardcore punk, crossover thrash, hardcore, thrash metal" role="button">
 Suicidal Tendencies - Join The Army (1987-06-21)
-</li>
-<li data-cover="https://img.discogs.com/PjJSI72RZMpUb-15N-u1r_CajLE=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-425274-1588588300-5414.jpeg.jpg" data-tags="thrash metal" role="button">
-Suicidal Tendencies - How Will I Laugh Tomorrow When I Can't Even Smile Today (1988-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/450717cf-837c-4889-affe-d04c3ee101d5/19464680594-500.jpg" data-tags="crossover, thrash metal, crossover thrash" role="button">
 D.R.I. - Thrash Zone (1989)
@@ -108,7 +108,7 @@ H-Blockx - Time To Move (1994-08-22)
 <li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">
 Clawfinger - Use Your Brain (1995-03-23)
 </li>
-<li data-cover="https://img.discogs.com/ucvUD-sDbK35og8mqC6aTXQ9SEc=/fit-in/420x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12878829-1543701567-1987.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
+<li data-cover="https://img.discogs.com/65SvmbmWbrkpjkKGsS10kNiI9s8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3786354-1535394402-7842.jpeg.jpg" data-tags="90s, alternative metal, funk metal, alternative, alternative rock, primus" role="button">
 Primus - Tales From The Punchbowl (1995-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff040c58-bc69-4fc6-a6b1-34da0d16dd0e/7231670487-500.jpg" data-tags="crossover, rapcore, nu metal, rap metal, litza" role="button">
@@ -204,7 +204,7 @@ H-Blockx - Get in the Ring (2002-01-14)
 <li data-cover="http://coverartarchive.org/release/714d1b4a-6739-4f38-a8c4-197379780bbd/28115360386-500.jpg" data-tags="metal, reggae metal" role="button">
 Skindred - Babylon (2002-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/649e374f-2874-42f7-88a7-3eea4b8c25b8/23685505540-500.jpg" data-tags="nu metal, rock" role="button">
+<li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Reanimation (2002-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f627249-f2b0-4b69-8c4b-ed26f7db0fb9/7971533432-500.jpg" data-tags="punk, hardcore" role="button">

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-07T20:18:01.401Z
+date: 2021-04-09T20:51:07.076Z
 title: "reggaeton: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -21,8 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="reggae, dancehall, ragga, mr vegas" role="button">
+<li data-cover="http://coverartarchive.org/release/5af5ddcc-599c-47ed-861b-831f058a6b1c/19086075869-500.jpg" data-tags="latin" role="button">
+Fulanito - El Hombre Mas Famoso De La Tierra (1997-11-17)
+</li>
+<li data-cover="https://img.discogs.com/Zls8L5Ty74vC6RVBUQ46KGQOJOo=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2468555-1549796576-3804.jpeg.jpg" data-tags="reggae, dancehall, ragga, mr vegas" role="button">
 Mr. Vegas - Heads High (1999)
+</li>
+<li data-cover="https://img.discogs.com/ffJo-s_CggbAV_8Mxyv8ZUyObRE=/fit-in/450x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565631-1160235948.jpeg.jpg" data-tags="hip-hop, reggae, urban, latin, house, 90s, american, reggaeton, latino, merengue, dominican, merenhouse, merenrap, salsa-merengue" role="button">
+Fulanito - El Padrino (1999-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/3de6fac0-fa8b-4bf6-94f2-655e6f6df53c/14271051779-500.jpg" data-tags="hip-hop, tony touch, remix master, del bronx" role="button">
 Tony Touch - The Piece Maker (2000-04-18)
@@ -72,9 +78,6 @@ Pitbull - Money Is Still A Major Issue (2005-11-15)
 <li data-cover="http://coverartarchive.org/release/99210be3-5afa-4697-9c3e-ea31bcca84b5/1216273762-500.jpg" data-tags="reggaeton" role="button">
 Alexis & Fido - The Pitbulls (2005-11-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, male, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, norwegian, krautrock, idm, singer, germany, relaxed, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, fetish, female songwriter, breakbeat, insane, oldies, smooth, gangsta rap, lady gaga, video game, reggaeton, digitalis, japanese rock, meditation, harmonica, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, not indie, activist, modern country, gothic rock, warm, mala, cold, iowa, speedcore, diy, princess, folklore, nouvelle scene francaise, guitar hero, norway, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides" role="button">
-新居昭乃 - Sora No Uta (2005-11-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5874e1d-1c1b-4b28-ab35-cf38e4e8bde7/2954384034-500.jpg" data-tags="reggaeton" role="button">
 Calle 13 - Calle 13 (2005-11-29)
 </li>
@@ -95,6 +98,9 @@ Don Omar - King Of Kings (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
 The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c6d30a7-9957-4e7f-ba8a-d9c839c6545c/20353455638-500.jpg" data-tags="reggaeton" role="button">
+Latin Fresh - Plan Calle (2006-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c912595-f439-4703-834d-630039081b24/2009506363-500.jpg" data-tags="crunk, reggeaton" role="button">
 Pitbull - El Mariel (2006-10-31)
@@ -153,7 +159,7 @@ Angel & Khriz - Showtime (2008-03-11)
 <li data-cover="http://coverartarchive.org/release/5ed04d65-ea30-49f9-813f-954a85713612/1939044716-500.jpg" data-tags="crunkcore, scremo" role="button">
 Brokencyde - BC13 (2008-03-27)
 </li>
-<li data-cover="https://img.discogs.com/ml7fBRXDQDk2GN-X6wCB0MpN0o8=/fit-in/300x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3036756-1312767352.jpeg.jpg" data-tags="reggaeton" role="button">
+<li data-cover="https://img.discogs.com/XN4gOB8lV9UKEQx9PT4T-Ommqhs=/fit-in/458x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3236526-1391807745-8245.jpeg.jpg" data-tags="reggaeton" role="button">
 Daddy Yankee - Talento De Barrio (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/22d29126-208f-4368-99e4-fe37fd7cd14f/17946178082-500.jpg" data-tags="reggaeton" role="button">
@@ -179,6 +185,9 @@ The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d841250-9f3b-4d34-8d88-b5c5bfe5eb6c/872455810-500.jpg" data-tags="reggaeton" role="button">
 Don Omar - Virtual Diva (2009-02-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/34775cb2-1d72-409f-bb5e-ea5d436bbe54/17397604507-500.jpg" data-tags="reggaeton, cumbia, merengue, bachata, latin grammy nominated" role="button">
+Tito El Bambino - El Patrón (2009-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d932ab9-fc15-4536-b70b-67670fa6e88e/28174666638-500.jpg" data-tags="electronic, reggaeton, cyberpunk, puerto rico, discos 2009, grammy latino 2009" role="button">
 Don Omar - iDon (2009-04-28)
@@ -249,23 +258,14 @@ Deafheaven - Libertine Dissolves (2011-01-21)
 <li data-cover="http://coverartarchive.org/release/0bfa1081-ae33-445d-a9aa-32510a32dd10/1241767883-500.jpg" data-tags="reggaeton" role="button">
 Alexis & Fido - Perreología (2011-01-21)
 </li>
-<li data-cover="https://img.discogs.com/so9YvL2AZjktCV-qhZ3p-3l7sYY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3087795-1315143807.jpeg.jpg" data-tags="indiepop, deutsch, deutschpop, 10er, micha maat" role="button">
-Bosse - Wartesaal (2011-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/216dc68b-c7db-4c5f-b054-753d6d3fd1d1/12911239802-500.jpg" data-tags="black metal, metal" role="button">
-Liturgy - Aesthethica (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/de9296a6-63ce-4aaf-80db-3b3755ec641e/14567835673-500.jpg" data-tags="dance, pop, latin, latin pop" role="button">
 Dulce María - Extranjera - Primera Parte (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
 Black Veil Brides - Set the World on Fire (2011-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/4584b888-befc-490a-bb2d-0c050fe27384/9157119468-500.jpg" data-tags="hip-hop, casper" role="button">
-Casper - XOXO (2011-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/079c00e9-a7bc-4f67-93d7-c1dc5f5b9a23/4617202756-500.jpg" data-tags="deathcore" role="button">
 Attila - Outlawed (2011-08-16)

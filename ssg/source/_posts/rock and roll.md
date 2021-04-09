@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T01:18:01.396Z
+date: 2021-04-09T21:26:07.126Z
 title: "rock and roll: 100 albums you must listen to before you die"
 ---
 ![Slash - Slash (2010-03-31)](https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg "Slash - Slash (2010-03-31)")
@@ -30,9 +30,6 @@ Elvis Presley - Elvis Presley (1956-03-23)
 <li data-cover="https://img.discogs.com/dODqkQEQC6xTAQi4vr4gdvGQm6k=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797849-1160845445.jpeg.jpg" data-tags="rock n roll" role="button">
 Bill Haley & His Comets - Rock Around The Clock (1956-06-01)
 </li>
-<li data-cover="https://img.discogs.com/8vesm4GNOix3NDt8tLlYFhw7N0M=/fit-in/475x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4109260-1356272553-5247.jpeg.jpg" data-tags="rock and roll" role="button">
-Little Richard - Here's Little Richard (1957-03)
-</li>
 <li data-cover="https://img.discogs.com/xHM902LwkVUUcH0gxViN_PbH1tg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3072652-1515018033-4751.jpeg.jpg" data-tags="50s" role="button">
 Chuck Berry - After School Session (1957-05-01)
 </li>
@@ -54,17 +51,14 @@ Buddy Holly - That'll Be The Day (1961-10-00)
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/c63e91d9-61f6-4c65-b2f9-a3a59cf9dd4c/12428532000-500.jpg" data-tags="60s, oldies, rock n roll" role="button">
+Del Shannon - Little Town Flirt (1963)
+</li>
 <li data-cover="http://coverartarchive.org/release/b60a2517-687f-414c-89fe-ad89a875ecd6/15628266907-500.jpg" data-tags="60s" role="button">
 The Beatles - Please Please Me (1963-03-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/c33e82e8-efba-49ae-83f3-adc3088985ff/4004452077-500.jpg" data-tags="60s, classic rock" role="button">
-The Beatles - With The Beatles (1963-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/931cd000-1de5-4ad4-8b6b-9d1790af8683/6329235884-500.jpg" data-tags="rock, 60s" role="button">
 Chuck Berry - St. Louis to Liverpool (1964)
-</li>
-<li data-cover="https://img.discogs.com/9I7JTrWnsRh-S4yqoQIaiWEGATQ=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8828583-1469717205-5431.jpeg.jpg" data-tags="rock, 60s, garage rock, debut album" role="button">
-The Kinks - Kinks (1964-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/02e51dac-b0be-3de7-8465-02d0bcd409c3/20517903406-500.jpg" data-tags="60s, rock" role="button">
 The Beatles - Beatles for Sale (1964-12-04)
@@ -81,9 +75,6 @@ The Velvet Underground - White Light/White Heat (1968-01-30)
 <li data-cover="http://coverartarchive.org/release/18492d6e-b040-30c3-9d7c-e082ec2963fe/23559347519-500.jpg" data-tags="rock, classic rock, southern rock, 60s" role="button">
 Creedence Clearwater Revival - Bayou Country (1969-01-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">
-The Velvet Underground - The Velvet Underground (1969-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/aacae183-fd7c-4340-996f-95aa722e74b1/8749942734-500.jpg" data-tags="classic rock" role="button">
 Creedence Clearwater Revival - Cosmo's Factory (1970-07-25)
 </li>
@@ -96,11 +87,14 @@ The Rolling Stones - Exile on Main St. (1972-05-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="50s" role="button">
 Elvis Presley - Elvis (1973)
 </li>
-<li data-cover="https://img.discogs.com/cpZria-Kvc00grTK3wZ6tLQAF6c=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3696301-1340729244-7644.jpeg.jpg" data-tags="rock, psychedelic" role="button">
-Raul Seixas - Krig-ha, Bandolo! (1973-07-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/021640f8-2ef9-4767-8d5a-91ccff8ce023/21869039899-500.jpg" data-tags="rock" role="button">
 Raul Seixas - Gita (1974)
+</li>
+<li data-cover="http://coverartarchive.org/release/af44b484-fdb6-4e63-be77-e6bf5de0519b/21289665444-500.jpg" data-tags="hard rock, rock" role="button">
+Blue Öyster Cult - Secret Treaties (1974-04)
+</li>
+<li data-cover="https://img.discogs.com/ZTcxzjzvkFifZJHVz7nGrJOxhF4=/fit-in/599x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8034541-1530081256-7373.jpeg.jpg" data-tags="rock, blues-rock, blues, rock and roll, 60's, hippie, flower power, woodstock generation, exfandessixties" role="button">
+Janis Joplin - Janis Joplin (1975)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 AC/DC - T.N.T. (1975-12-01)
@@ -111,11 +105,11 @@ Raul Seixas - Há 10 Mil Anos Atrás (1976-01-05)
 <li data-cover="http://coverartarchive.org/release/06ab427b-06b4-482a-90c3-4981c294eadd/11939995493-500.jpg" data-tags="proto-punk, 70s" role="button">
 The Modern Lovers - The Modern Lovers (1976-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/d83c92b5-7022-3e12-870d-84ed59ad2da9/11749802149-500.jpg" data-tags="live, classic rock, hard rock" role="button">
+Led Zeppelin - The Song Remains The Same (1976-09-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/92746377-783d-3355-af9d-229a6edfd6ff/7383924116-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Let There Be Rock (1977-03-21)
-</li>
-<li data-cover="https://img.discogs.com/eWTqmBDurzPUejyhQ5chlWgLkxU=/fit-in/600x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6823167-1427378376-4950.jpeg.jpg" data-tags="rock, blues-rock, blues, rock and roll, 60's, hippie, flower power, woodstock generation, exfandessixties" role="button">
-Janis Joplin - Janis Joplin (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/691c26c5-5804-47ca-8d86-41b411876689/20241458081-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Powerage (1978-05-05)
@@ -132,14 +126,23 @@ AC/DC - For Those About To Rock (We Salute You) (1981-11-23)
 <li data-cover="http://coverartarchive.org/release/68f9ce3e-0cdd-4f2d-897f-d8208eee1fc2/8130414856-500.jpg" data-tags="rock and roll" role="button">
 Chuck Berry - The Great Twenty-Eight (1982)
 </li>
+<li data-cover="http://coverartarchive.org/release/1598a4e6-b94d-3a12-a416-5b7067bfb90b/5828675912-500.jpg" data-tags="hard rock" role="button">
+AC/DC - Flick of the Switch (1983-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/a62c50fe-5aaf-4962-b613-7ba366dd5a9f/3178692419-500.jpg" data-tags="classic rock, 80s" role="button">
 The Rolling Stones - Undercover (1983-11-07)
 </li>
-<li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
+<li data-cover="https://img.discogs.com/8_LYo8-bFQSMArAH8kORMd0FKvs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3878049-1347809324-3770.jpeg.jpg" data-tags="rock, 80s, hard rock, album rock, romantic, passionate, intense, confident, aggressive, freewheeling, cerebral, lou reed, rollicking, witty, brash, street-smart" role="button">
 Lou Reed - New Sensations (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/62625ded-7e9b-4c83-a054-474fc52262f4/1670338111-500.jpg" data-tags="little richard" role="button">
+Little Richard - 18 Greatest Hits (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/405b99d3-3157-49f9-a6d9-da8602d09d77/17671304804-500.jpg" data-tags="80s, rock" role="button">
 Legião Urbana - Legião Urbana (1985-01-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/cfc813a4-aedc-371f-ab69-22986e79fa1d/9750752458-500.jpg" data-tags="mick jagger" role="button">
+Mick Jagger - She's the Boss (1985-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d68e9cea-0dd5-4d89-8652-0b5e00823e6e/3465236438-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Fly on the Wall (1985-06-28)
@@ -177,26 +180,17 @@ The Rolling Stones - Flashpoint (1991-04-02)
 <li data-cover="http://coverartarchive.org/release/47e8dc10-de45-3942-8ceb-575a90a372d8/7862467497-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Live (1992-10-11)
 </li>
-<li data-cover="https://img.discogs.com/Hadjqv8qev4A634rv8cLWlhiGhc=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199290-1332632279.jpeg.jpg" data-tags="50s" role="button">
-Buddy Holly - Buddy Holly (1993)
-</li>
-<li data-cover="http://coverartarchive.org/release/60fa0694-7239-33bb-9e93-2114e7f32ceb/9752304202-500.jpg" data-tags="rock, alternative rock" role="button">
-Urge Overkill - Saturation (1993-06-21)
-</li>
-<li data-cover="https://img.discogs.com/KWIYspdeWmDUOIKDgk1CDayp5EA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367579-1523176350-4676.jpeg.jpg" data-tags="rock, alternative rock, alternative, hard rock, 90s, give me one reason, tragically yours, sister stone" role="button">
-Toadies - Rubberneck (1994-08-23)
-</li>
-<li data-cover="https://img.discogs.com/bj7nBdOIBkg-hNYkMCgnNlGA75o=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1640922-1331948327.jpeg.jpg" data-tags="rock, folk, 90s, live, acoustic, folk rock, bob dylan" role="button">
-Bob Dylan - MTV Unplugged (1995-04)
+<li data-cover="http://coverartarchive.org/release/82fc8074-c746-47d8-8c99-d104440ba932/25134689013-500.jpg" data-tags="country, classic oldies" role="button">
+Chubby Checker - Legends (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/91ea8022-da8b-4cc7-ba51-d67866eb5daa/5588845503-500.jpg" data-tags="rock, classic rock" role="button">
 The Rolling Stones - Bridges to Babylon (1997-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/1833e684-c6e4-3896-b766-339903b983d2/15531441645-500.jpg" data-tags="punk rock, rock and roll, desert island discs, where is my bong, drunk tank singalong tune" role="button">
+The Murder City Devils - Empty Bottles, Broken Hearts (1998-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/0e294ef9-fc35-4762-b4ff-59d7000c766d/7767344636-500.jpg" data-tags="classic rock, rock, 60s, british, england, oldies, blues rock, rock and roll, rolling stones, great hits" role="button">
 The Rolling Stones - Classic Hits (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/ba7ecd15-07e0-36ad-8a17-5d53c637ee77/20555784810-500.jpg" data-tags="singer-songwriter, folk rock, classic rock" role="button">
-Neil Young - Silver & Gold (2000-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee70adc5-ad51-4974-b272-bf6282719875/25101692738-500.jpg" data-tags="punk rock, rock and roll, garage punk, desert island discs, where is my bong, headbangers ball, drunk tank singalong tune" role="button">
 The Murder City Devils - In Name And Blood (2000-06-06)
@@ -225,6 +219,9 @@ Hasil Adkins - Out To Hunch (2002)
 <li data-cover="https://img.discogs.com/9ptOzgWMBIYeOUr8r0xPYapgfWc=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2769989-1590169907-3874.jpeg.jpg" data-tags="classic rock, 60s" role="button">
 The Animals - The Best of The Animals (2002-02-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/62bdb67c-10aa-48c0-b7c6-f8147ffa12e8/27119798376-500.jpg" data-tags="post-hardcore" role="button">
+Hot Snakes - Suicide Invoice (2002-06-11)
+</li>
 <li data-cover="https://img.discogs.com/b7YbITe-6tjcIf0KTV4oObOiFXo=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335362-1602036565-4961.jpeg.jpg" data-tags="rock, garage rock" role="button">
 The Hellacopters - By the Grace of God (2002-09-18)
 </li>
@@ -234,17 +231,20 @@ The Rolling Stones - Forty Licks (2002-09-30)
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/693138d1-2d89-4cc4-bcb7-b6d84f37dd11/8001250502-500.jpg" data-tags="rockabilly, rock and roll, rhythm and blues, bluezzz, rockin party, c berry" role="button">
+Chuck Berry - Blues (2003-08-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7ea9654-1d93-434a-8c55-32f806d10e1d/23017032801-500.jpg" data-tags="rock and roll" role="button">
 Dick Brave & The Backbeats - Dick This! (2003-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/5c1a6b17-0dfc-3b58-bf41-3d60a76ab3b4/5607211411-500.jpg" data-tags="rock" role="button">
-Bruce Springsteen - The Essential Bruce Springsteen (2003-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0365b79-6bf3-4523-8337-15a6f7cbd8f0/25689157271-500.jpg" data-tags="pop punk" role="button">
 Midtown - Forget What You Know (2004-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3586a845-9e5a-43e5-95e7-c03ec23988ef/18256186937-500.jpg" data-tags="punk" role="button">
 Hot Snakes - Audit In Progress (2004-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/a70da157-a806-4ed7-9be2-8f04b29e7c7c/15835131467-500.jpg" data-tags="classic rock" role="button">
+The Rolling Stones - Singles 1968-1971 (2005-02-28)
 </li>
 <li data-cover="https://img.discogs.com/-ZSZoy7U01QRWfDITkuef6kb9wg=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3305288-1372418725-5004.jpeg.jpg" data-tags="classic rock, country rock" role="button">
 Eagles - Eagles (2005-03-15)
@@ -267,17 +267,20 @@ The Bronx - The Bronx (2006-07-04)
 <li data-cover="https://img.discogs.com/7i9_vK2abGzZYB8SaVttSqMC8jo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5130895-1385329250-8697.jpeg.jpg" data-tags="rock, drake bell" role="button">
 Drake Bell - It's Only Time (2006-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/90dd2f20-a015-48de-83c1-cda1456a8473/27963030424-500.jpg" data-tags="horror punk" role="button">
+Calabrese - The Traveling Vampire Show (2007-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/85a32b7d-f08a-40df-825c-ae5502a24aa3/24788754013-500.jpg" data-tags="elvis presley" role="button">
 Elvis Presley - The Essential Elvis Presley (2007-01-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/22ca7584-557d-44a1-acb0-5b5d3fe79ea9/8924189570-500.jpg" data-tags="stoner rock, sludge" role="button">
-Big Business - Here Come the Waterworks (2007-03-06)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="https://img.discogs.com/zHQ3JvmNkZNqoHiqBj26RChYOvA=/fit-in/495x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1195867-1226914346.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Bad Religion - New Maps of Hell (2007-07-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/060d2f99-5f82-488a-9f0a-b6b1a8112026/10151905692-500.jpg" data-tags="folk rock, americana" role="button">
+Robert Plant & Alison Krauss - Raising Sand (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5fc67a3-ee71-4a6a-998d-1db04f109a18/10443193895-500.jpg" data-tags="rock" role="button">
 Asaf Avidan & The Mojos - The Reckoning (2008)
@@ -293,9 +296,6 @@ Chuck Berry - The Best Of (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4db754b-fe21-46fb-8ce0-f9ee89c122bf/21008891555-500.jpg" data-tags="hard rock, rock and roll" role="button">
 Wolfmother - Back Round (2009-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/b85551f3-838f-4ab1-8d5f-aa13368ddbec/8042834504-500.jpg" data-tags="indie pop" role="button">
-V V Brown - Travelling Like The Light (2009-07-13)
 </li>
 <li data-cover="https://img.discogs.com/dtb8lL6FrBIPNTQWrXQKDbt9bVg=/fit-in/412x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848281-1303821841.jpeg.jpg" data-tags="rockabilly, usa, rock and roll, rhythm and blues, 2010s, debut album, 2010 albums, my best of 2010, j mc pherson" role="button">
 JD McPherson - Signs & Signifiers (2010)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:29:02.036Z
+date: 2021-04-09T21:12:01.480Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -246,11 +246,11 @@ Dream Theater - Octavarium (2005-06-06)
 <li data-cover="http://coverartarchive.org/release/b0c39138-47b2-41ec-82f8-636a66916317/4766487756-500.jpg" data-tags="progressive rock, alternative rock" role="button">
 dredg - Catch Without Arms (2005-06-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
+30 Seconds to Mars - A Beautiful Lie (2005-08-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/95ffdbf4-0edd-4fb2-97ee-957a51890844/16128342815-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Second Life Syndrome (2005-10-28)
-</li>
-<li data-cover="https://img.discogs.com/j1cw6tuQlOTPr5DUd7X3pffrDkI=/fit-in/483x423/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2602279-1292652149.jpeg.jpg" data-tags="progressive rock" role="button">
-David Gilmour - On an Island (2006-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
 Tool - 10,000 Days (2006-04-28)

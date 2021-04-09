@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:23:01.470Z
+date: 2021-04-09T20:47:01.442Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -162,9 +162,6 @@ Madonna - Hard Candy (2008-04-25)
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/7195e541-22e4-312c-8587-bff17da7137b/21284399862-500.jpg" data-tags="indie" role="button">
-The Ting Tings - We Started Nothing (2008-05-16)
-</li>
 <li data-cover="https://img.discogs.com/7p8Mv0TOo4AnRMSWSKtPxyywb-k=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1594236-1328968105.jpeg.jpg" data-tags="pop, dance, lady gaga" role="button">
 Lady Gaga - Just Dance (2008-06-17)
 </li>
@@ -197,6 +194,9 @@ Calvin Harris - Ready for the Weekend (2009-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3dd8f19b-c870-4373-95b2-14117b09358a/12942567005-500.jpg" data-tags="dance" role="button">
+David Guetta - One More Love (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/18d7b623-e8ca-4afb-add0-d29a7e0fcc9a/15089448233-500.jpg" data-tags="pop" role="button">
 Madonna - Celebration (2009-09-18)
