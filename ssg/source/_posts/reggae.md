@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:00:01.449Z
+date: 2021-04-10T09:59:01.439Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -84,9 +84,6 @@ Gregory Isaacs - Night Nurse (1982)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Peter Tosh - Mama Africa (1983)
 </li>
-<li data-cover="http://coverartarchive.org/release/9f3c7fc2-36ef-46c9-b589-66c60df37857/12001414579-500.jpg" data-tags="reggae, roots reggae" role="button">
-Bob Marley & The Wailers - Confrontation (1983-03-23)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Legend (1984-05-08)
 </li>
@@ -129,11 +126,17 @@ Buju Banton - 'Til Shiloh (1995-07-18)
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/89c6f2d6-756f-4095-a94f-b261e8dccd23/5341994523-500.jpg" data-tags="reggae" role="button">
+Damian Marley - Mr. Marley (1996-09-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">
 Manu Chao - Clandestino (1998-04-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley - Natural Mystic (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/d151bfb4-b837-4e34-a75b-96112e0f5d68/4144802279-500.jpg" data-tags="classic rock, reggae, roots reggae, lion, bmtribute" role="button">
+Bob Marley & The Wailers - Natural Mystic (1999-09-15)
 </li>
 <li data-cover="https://img.discogs.com/BOVm2LL9AWwaxhS-ebRuyVisVcY=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-602393-1137205374.jpeg.jpg" data-tags="reggae, alternative rock" role="button">
 311 - Soundsystem (1999-10-12)
@@ -311,9 +314,6 @@ Bruno Mars - Unorthodox Jukebox (2012-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7f9f07b-56eb-4782-9e91-840566df6c7b/6178146183-500.jpg" data-tags="indie, alternative, reggae" role="button">
 Sticky Fingers - Caress Your Soul (2013-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/7394d4d8-f3b7-4f59-a4bf-14b2ce5a85ff/6562106807-500.jpg" data-tags="indie, reggae, female vocalists" role="button">
-Wild Belle - Isles (2013-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbfa5713-c9ce-4077-b826-a1c913b0ca04/12750739359-500.jpg" data-tags="electronic" role="button">
 Empire of the Sun - Alive (2013-05-28)

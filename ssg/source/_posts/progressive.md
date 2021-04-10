@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:23:01.435Z
+date: 2021-04-10T10:12:06.990Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -9,11 +9,11 @@ title: "progressive: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/zg3cDss-LUQ4HxAnxEOLUfcVF0k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2206885-1590518555-8967.jpeg.jpg" data-tags="progressive rock" role="button">Porcupine Tree - Deadwing (2005-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/9c12794e-79df-4be1-997e-ad100efe8b08/1118860247-500.jpg" data-tags="progressive metal" role="button">Dream Theater - Octavarium (2005-06-06)</li>
 <li data-cover="http://coverartarchive.org/release/b0c39138-47b2-41ec-82f8-636a66916317/4766487756-500.jpg" data-tags="progressive rock, alternative rock" role="button">dredg - Catch Without Arms (2005-06-21)</li>
+<li data-cover="http://coverartarchive.org/release/45641120-9137-3d9b-bb47-8915b1541a3d/17802812575-500.jpg" data-tags="post-hardcore" role="button">The Fall of Troy - Doppelganger (2005-08-15)</li>
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">Tool - 10,000 Days (2006-04-28)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">The Mars Volta - Amputechture (2006-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg" data-tags="progressive metal" role="button">Opeth - Watershed (2008-05-28)</li>
 <li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">John Frusciante - The Empyrean (2009-01-14)</li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -68,9 +68,6 @@ Porcupine Tree - The Sky Moves Sideways (1995-01-30)
 </li>
 <li data-cover="https://img.discogs.com/ssTddN9Dv7id16YvJKp3py6Hh64=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484202-1177170908.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Morningrise (1996-06-24)
-</li>
-<li data-cover="https://img.discogs.com/mfyKFVCOrIF9q_aswzVg_4KDN6w=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3733223-1342203759-6275.jpeg.jpg" data-tags="funk metal, 90s, les claypool, rock, alternative metal, basically bass" role="button">
-Primus - Brown Album (1997-07-08)
 </li>
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
@@ -144,14 +141,14 @@ Dream Theater - Train of Thought (2003-11-08)
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
 </li>
+<li data-cover="https://img.discogs.com/YtYOqYAq5qrCcZYCl7Jzex09Js8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937391-1566141203-9309.jpeg.jpg" data-tags="progressive rock" role="button">
+Blackfield - Blackfield (2004-08-23)
+</li>
 <li data-cover="https://img.discogs.com/BOfifoLmDttVwiJV2tdm9sKm6Zg=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9175804-1550518049-6963.jpeg.jpg" data-tags="progressive metal" role="button">
 Pain of Salvation - Be (2004-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcaeef84-bddf-4370-83c8-d5f0cfb7569d/4713203915-500.jpg" data-tags="post-hardcore, rawk n roll" role="button">
 Biffy Clyro - Infinity Land (2004-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
-Black Mountain - Black Mountain (2005-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
@@ -231,6 +228,9 @@ Riverside - Rapid Eye Movement (2007-09-24)
 <li data-cover="https://img.discogs.com/AV8GwJYonKfaGh9sRKE_xdNlqFM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101010-1466781999-2255.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Frames (2007-09-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/094ea63a-a754-43f1-8e79-3a6957e2d077/26813532876-500.jpg" data-tags="electronic" role="button">
+Moonbootica - Moonlight Welfare (2007-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/5d46a82b-b704-4536-a060-9070125526c9/15848831964-500.jpg" data-tags="progressive" role="button">
 House vs. Hurricane - Forfeiture (2008)
 </li>
@@ -306,8 +306,8 @@ Tides of Man - Dreamhouse (2010-09-14)
 <li data-cover="https://img.discogs.com/NIn3oP4KpGk22x7cmyatn0OKvho=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3664836-1343559142-3534.jpeg.jpg" data-tags="electronic, electro, progressive, synthpop" role="button">
 Goose - Synrise (2011-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
-Macklemore & Ryan Lewis - The Heist (2012-10-09)
+<li data-cover="https://img.discogs.com/etlmjyE_4cHe2bhbrS0VSExl_is=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4998495-1381729535-8807.jpeg.jpg" data-tags="progressive metal" role="button">
+Dream Theater - A Dramatic Turn of Events (2011-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Karnivool - Asymmetry (2013-07-19)

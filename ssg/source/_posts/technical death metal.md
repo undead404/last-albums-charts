@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T02:58:01.394Z
+date: 2021-04-10T10:38:12.584Z
 title: "technical death metal: 100 albums you must listen to before you die"
 ---
 ![Death - Symbolic (1995-03-21)](http://coverartarchive.org/release/321a3c33-9310-4b9f-b104-762e465ec60f/19740394528-500.jpg "Death - Symbolic (1995-03-21)")
@@ -8,12 +8,12 @@ title: "technical death metal: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/_WBMD258Vu8lOUil5yF1zBmivq8=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754668-1615550753-3053.jpeg.jpg" data-tags="death metal, technical death metal" role="button">Death - Individual Thought Patterns (1993-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/321a3c33-9310-4b9f-b104-762e465ec60f/19740394528-500.jpg" data-tags="death metal" role="button">Death - Symbolic (1995-03-21)</li>
 <li data-cover="https://img.discogs.com/AbOZtsdj39rFsDoZ3eEiWLrGh0Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10844672-1508180070-4387.jpeg.jpg" data-tags="death metal, progressive death metal" role="button">Death - The Sound of Perseverance (1998-09-15)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="technical death metal" role="button">Necrophagist - Onset of Putrefaction (1999)</li>
+<li data-cover="http://coverartarchive.org/release/47924ab2-d0e7-4135-ae84-797ece8924cb/13368438880-500.jpg" data-tags="death metal, technical death metal" role="button">Decapitated - Nihility (2002-02-25)</li>
 <li data-cover="http://coverartarchive.org/release/6fd013d6-d481-45fe-8746-e99de6cd6aeb/6127775279-500.jpg" data-tags="technical death metal" role="button">Necrophagist - Epitaph (2004-08-03)</li>
 <li data-cover="http://coverartarchive.org/release/ca5124df-8ee2-49c8-9d62-7d497b28ae00/24438029985-500.jpg" data-tags="death metal" role="button">Nile - Annihilation of the Wicked (2005-05-23)</li>
 <li data-cover="http://coverartarchive.org/release/75b5990e-5608-4c93-9de3-ba16b0f3d212/10206508020-500.jpg" data-tags="technical death metal, death metal" role="button">The Faceless - Akeldama (2006-11-14)</li>
-<li data-cover="http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-500.jpg" data-tags="progressive metal, math metal" role="button">Meshuggah - ObZen (2008-02-27)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, progressive death metal" role="button">The Faceless - Planetary Duality (2008-11-11)</li>
-<li data-cover="http://coverartarchive.org/release/e2bc6863-a02f-4614-ad59-e6674d158547/15007829992-500.jpg" data-tags="hip-hop, rap" role="button">Childish Gambino - Camp (2011-11-14)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -51,6 +51,9 @@ Atheist - Elements (1993-08-30)
 <li data-cover="https://img.discogs.com/tM9Y9ZW2m05DZVj_ZwipowXJKFU=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655586-1143989097.jpeg.jpg" data-tags="progressive metal" role="button">
 Cynic - Focus (1993-09-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/81742ddb-2a85-4d19-867c-79cc3f37c461/3507526774-500.jpg" data-tags="death metal" role="button">
+Cannibal Corpse - The Bleeding (1994-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/901b614f-d39e-3d5d-89d2-596c3f045315/7743674648-500.jpg" data-tags="death metal" role="button">
 Cryptopsy - Blasphemy Made Flesh (1994-11-25)
 </li>
@@ -74,9 +77,6 @@ Death - The Sound of Perseverance (1998-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/19799cef-ae8b-3cdb-8119-332713fd1c27/7743885552-500.jpg" data-tags="death metal, technical death metal" role="button">
 Cryptopsy - Whisper Supremacy (1998-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/772ad8a8-f3fe-3a06-8d82-d6d529b5a785/7846820494-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - Chaosphere (1998-11-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="technical death metal" role="button">
 Necrophagist - Onset of Putrefaction (1999)
@@ -132,6 +132,9 @@ Quo Vadis - Defiant Imagination (2004-11-04)
 <li data-cover="http://coverartarchive.org/release/a76595f6-9323-4794-8866-e7bc21cc08e1/20068097859-500.jpg" data-tags="grindcore, death metal, technical death metal" role="button">
 Cephalic Carnage - Anomalies (2005-03-15)
 </li>
+<li data-cover="https://img.discogs.com/5DR7ZTS5J9zO7MqqrJ3KhZbdN6c=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11278487-1527600825-4989.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
+Origin - Echoes of Decimation (2005-03-15)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, death metal" role="button">
 Beneath the Massacre - Evidence Of Inequity (2005-05-12)
 </li>
@@ -156,6 +159,9 @@ Spawn of Possession - Noctambulant (2006-05-31)
 <li data-cover="https://via.placeholder.com/450" data-tags="technical death metal, death metal" role="button">
 Anata - The Conductor's Departure (2006-06-26)
 </li>
+<li data-cover="https://img.discogs.com/roYZKmTRgm4QwF6Gne2ddG9aDiA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3487046-1332324660.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+Gorod - Leading Vision (2006-08-22)
+</li>
 <li data-cover="https://img.discogs.com/7tX4dKwj5LkatsLW7YVJJDr_2B8=/fit-in/202x201/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2235435-1331875584.jpeg.jpg" data-tags="death metal" role="button">
 Suffocation - Suffocation (2006-09-19)
 </li>
@@ -177,9 +183,6 @@ Cephalic Carnage - Xenosapien (2007-05-29)
 <li data-cover="http://coverartarchive.org/release/5c72f5ea-ce1d-33b3-8d0a-32c6901faffb/18352306915-500.jpg" data-tags="death metal, technical death metal" role="button">
 Nile - Ithyphallic (2007-07-17)
 </li>
-<li data-cover="https://img.discogs.com/SXMY9TtYg2E3iEpMij1FAB_u5S0=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1087368-1191066313.png.jpg" data-tags="death metal, metalcore" role="button">
-Divine Heresy - Bleed The Fifth (2007-08-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/e0953194-8ace-4e84-ab7b-9055928fff96/7867330959-500.jpg" data-tags="melodic death metal" role="button">
 The Black Dahlia Murder - Nocturnal (2007-09-18)
 </li>
@@ -192,8 +195,8 @@ Decrepit Birth - Diminishing Between Worlds (2008-01-29)
 <li data-cover="https://img.discogs.com/l8bKKluikwanMV7S4vB5nHLsMLg=/fit-in/500x502/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1980482-1256469614.jpeg.jpg" data-tags="death metal, brutal death metal, technical death metal" role="button">
 Brain Drill - Apocalyptic Feasting (2008-02-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/4766f9f5-3d4f-360d-a0dd-85d482d0e3ca/27922575264-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - ObZen (2008-02-27)
+<li data-cover="http://coverartarchive.org/release/5d49966d-4669-466e-9a12-5ef2fc434dbd/15978059945-500.jpg" data-tags="death metal, technical death metal" role="button">
+Hour of Penance - The Vile Conception (2008-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9300d718-e34d-48ac-b6d5-0728b2199321/12872688177-500.jpg" data-tags="technical death metal, death metal" role="button">
 Origin - Antithesis (2008-04-01)
@@ -270,17 +273,14 @@ Fleshgod Apocalypse - Agony (2011-08-09)
 <li data-cover="http://coverartarchive.org/release/ab25e7f1-6ef4-4970-9a70-63524a9b3c76/8532647042-500.jpg" data-tags="technical death metal, thrash metal, death metal" role="button">
 Revocation - Chaos of Forms (2011-08-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2bc6863-a02f-4614-ad59-e6674d158547/15007829992-500.jpg" data-tags="hip-hop, rap" role="button">
-Childish Gambino - Camp (2011-11-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/99c84ccf-8593-483f-9f3c-e7f16a6a0ddc/8684736002-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Fallujah - The Harvest Wombs (2011-11-22)
 </li>
+<li data-cover="https://img.discogs.com/roYZKmTRgm4QwF6Gne2ddG9aDiA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3487046-1332324660.jpeg.jpg" data-tags="technical death metal, progressive death metal" role="button">
+Gorod - A Perfect Absolution (2012-03-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/df74836c-447a-44d1-a9e3-b737a06a8d2c/21814797648-500.jpg" data-tags="technical death metal" role="button">
 Spawn of Possession - Incurso (2012-03-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/b46b9b39-7d56-4e00-ba33-d8bf8fc59889/3235678346-500.jpg" data-tags="progressive metal" role="button">
-Meshuggah - Koloss (2012-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/20699777-ae00-4e5e-b602-38a9b9a707e7/22458500700-500.jpg" data-tags="death metal" role="button">
 Dying Fetus - Reign Supreme (2012-06-19)

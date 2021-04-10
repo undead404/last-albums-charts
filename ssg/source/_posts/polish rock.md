@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T08:21:01.288Z
+date: 2021-04-10T10:42:01.410Z
 title: "polish rock: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -75,6 +75,9 @@ Dżem - Urodziny (1989-06-26)
 <li data-cover="http://coverartarchive.org/release/03635dd6-2bf3-42b8-a2e7-884b7cbd68c8/12618857190-500.jpg" data-tags="post-punk" role="button">
 Kult - 45-89 (1990)
 </li>
+<li data-cover="https://img.discogs.com/MYUWzaPRyj_xV_HOWOLUilb5hkM=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7750615-1448022311-3225.jpeg.jpg" data-tags="thrash metal, metal" role="button">
+Acid Drinkers - Are You a Rebel? (1990-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/f8f51aa4-f4fc-43e7-b8b1-d4ce2fe62567/4755557000-500.jpg" data-tags="polish, polskie, polish music, dobre bo polskie, czerwone gitary" role="button">
 Czerwone Gitary - The Best of Czerwone Gitary (1991)
 </li>
@@ -96,9 +99,6 @@ Hey - Fire (1993-02-08)
 <li data-cover="https://img.discogs.com/wYO0b_PgNfuFRykA21sgWn7lnQQ=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-970255-1179228566.jpeg.jpg" data-tags="polish rock, rock, polish" role="button">
 Kult - Tata Kazika (1993-04)
 </li>
-<li data-cover="https://img.discogs.com/7sgOSvv9QMCPSWfAG5AXcobpjhE=/fit-in/252x252/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1931435-1253276507.jpeg.jpg" data-tags="punk, polish punk" role="button">
-Dezerter - Ile procent duszy? (1994)
-</li>
 <li data-cover="https://img.discogs.com/tgP05jAqPR6L9PbpPsoyVeLu0o8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5466946-1524384906-6241.jpeg.jpg" data-tags="polish rock, rock" role="button">
 Hey - Ho! (1994-04-22)
 </li>
@@ -114,9 +114,6 @@ Szwagierkolaska - Luksus (1995)
 <li data-cover="http://coverartarchive.org/release/2273368e-0594-470c-8d08-4d27ada917bc/7231735893-500.jpg" data-tags="polish rock" role="button">
 Kazik - Oddalenie (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/9178dc60-2558-4f6b-9c62-a5cb5ac695c6/12618598246-500.jpg" data-tags="fantastic, polish, kult" role="button">
-Kult - Tata 2 (1996-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/c6c63fbb-b6cf-45bb-bb8a-19d82d8cdc75/10608237866-500.jpg" data-tags="gothic metal" role="button">
 Moonlight - Kalpa Taru (1996-10-14)
 </li>
@@ -131,9 +128,6 @@ Hey - Karma (1997-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8edb945-28fa-45ef-a69c-09e45c53c9e1/22167648217-500.jpg" data-tags="polish, polish rock, elektryczne gitary" role="button">
 Elektryczne Gitary - Na krzywy ryj (1997-02-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/5f7185fb-5a1a-4701-9722-2fc720a6caad/14514441208-500.jpg" data-tags="alternative, polskie, kazik, alternative rock" role="button">
-Kazik - 12 Groszy (1997-06)
 </li>
 <li data-cover="https://img.discogs.com/X1SwUIVh2t_jF7_Y03hnQnOanAA=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1278054-1205856489.jpeg.jpg" data-tags="polish, rock" role="button">
 Edyta Bartosiewicz - Dziecko (1997-06-06)
@@ -168,6 +162,9 @@ Republika - Masakra (1998-11)
 <li data-cover="https://img.discogs.com/1CJ_6ulnS4HeHFWpaWOyMKBs2-0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1614548-1232272597.jpeg.jpg" data-tags="polish rock" role="button">
 Republika - Biała flaga (1999)
 </li>
+<li data-cover="https://img.discogs.com/dSAXhbpNPCIJi-ZU6D83-mhLQmY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11240797-1512548850-7420.jpeg.jpg" data-tags="blues rock, polish rock, niemen" role="button">
+Czesław Niemen - Największe przeboje (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/36c3ea97-3583-44f1-988b-36d18e43eace/4225033613-500.jpg" data-tags="rock" role="button">
 Hey - Hey (1999-05-04)
 </li>
@@ -191,6 +188,9 @@ Hey - [Sic!] (2001-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/db514de0-1d76-4677-aafe-d3f647b680ff/6846386939-500.jpg" data-tags="alternative rock, punk rock" role="button">
 T.Love - Model 01 (2001-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ad0fefc-94aa-4129-8514-69d2708c808c/2616042940-500.jpg" data-tags="alternative rock, polish rock, elektryczne gitary, kuba sienkiewicz" role="button">
+Elektryczne Gitary - Kariera Nikosia Dyzmy (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/a537debd-0c0d-4c63-8c4f-04031dc48adc/4707626371-500.jpg" data-tags="rock, alternative rock, polish" role="button">
 Myslovitz - Korova Milky Bar (2002-05-27)

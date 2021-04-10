@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:05:01.436Z
+date: 2021-04-10T10:11:01.410Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -201,6 +201,9 @@ The Middle East - The Recordings Of The Middle East (2008)
 <li data-cover="http://coverartarchive.org/release/d0625be2-7d18-4ed8-a121-352ba282bd78/3370136741-500.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - This Will Destroy You (2008-01-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">
+Balmorhea - Rivers Arms (2008-02-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
 </li>
@@ -233,9 +236,6 @@ Mono - Hymn to the Immortal Wind (2009-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5107679-e2b1-42c4-9281-7f9189a46e15/3357006181-500.jpg" data-tags="post-rock" role="button">
 If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/4e8de062-6ed8-4431-8fd3-25f9eff4b538/5429889739-500.jpg" data-tags="post-rock" role="button">
-And So I Watch You From Afar - And So I Watch You From Afar (2009-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf381502-2c8d-46df-99d0-f2614549738b/3377039384-500.jpg" data-tags="post-rock" role="button">
 Long Distance Calling - Avoid The Light (2009-04-24)

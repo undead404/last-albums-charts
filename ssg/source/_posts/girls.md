@@ -1,16 +1,16 @@
 ---
-date: 2021-04-10T02:20:01.443Z
+date: 2021-04-10T09:49:01.422Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/b9016aaf-ca71-304f-b5f1-d6384cf465f3/8364196064-500.jpg" data-tags="alternative, female vocalists" role="button">Kate Bush - The Sensual World (1989-10-17)</li>
 <li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">Ingrid Michaelson - Girls and Boys (2006-05-16)</li>
-<li data-cover="http://coverartarchive.org/release/25d9128e-8e2b-3b9e-9938-88f44b4c0ed4/24155867912-500.jpg" data-tags="folk, female vocalists" role="button">Kate Walsh - Tim's House (2007-03-26)</li>
 <li data-cover="https://img.discogs.com/iKQ40GJJfP-1o-wBdNSSEKHeQZ8=/fit-in/500x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2838307-1303338556.jpeg.jpg" data-tags="rnb" role="button">Nicole Scherzinger - Puakenikeni (2007-12-18)</li>
 <li data-cover="https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg" data-tags="party" role="button">P!nk - Raise Your Glass (2010-10-06)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/e2aa508e-dc3f-4213-8f61-2773536db7e4/23565453379-500.jpg" data-tags="female vocalists" role="button">Mélanie Laurent - En t'attendant (2011-05-02)</li>
+<li data-cover="http://coverartarchive.org/release/0c10bdf4-5c7c-4d36-89e4-8e00d8c1d95b/12472896155-500.jpg" data-tags="indie, female, male, alternative, folk, singer-songwriter, fantastic, girls, day, pretty, recommended, game, sometimes, inspirational, vocalists, pleasant, afrique, visual, women, lost, what, leaf, woman, single, girl, pleasing, something, afterlife, babe, verbal, ladies, when, where, satisfaction, richard, myself, you, else, thoughts, bananas, darlings, somewhere, bats, true, variable, awareness, miscellaneous, every, tasty, proper, the, alt, rich, can, shady, planet, only, one, swag, lady" role="button">Fatoumata Diawara - Fatou (2011-09-19)</li>
 <li data-cover="http://coverartarchive.org/release/7a032865-3754-4659-9f34-ec7ec48a95ea/17147368325-500.jpg" data-tags="soul" role="button">Alicia Keys - Girl on Fire (2012-11-23)</li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">HAIM - Days Are Gone (2013-08-05)</li>
 <li data-cover="http://coverartarchive.org/release/02df846f-fb15-4fbb-ae10-379f5fce8ab7/10519596419-500.jpg" data-tags="indie, female, alternative, folk, female vocalists, singer-songwriter, fantastic, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, pleasant, visual, women, lost, woman, girl, pleasing, babe, ladies, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, melt, feminine, grady, zap, partial, dick, improper, xian, moist, specific, extremities, tingle, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction" role="button">Daniela Andrade - Crazy (2014-01-02)</li>
@@ -30,9 +30,6 @@ Lesley Gore - The Golden Hits Of Lesley Gore (1965)
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
-<li data-cover="https://img.discogs.com/RhrsE_Tzsm0I_DW4-b2j4Vpd0N0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712171-1394761192-9723.jpeg.jpg" data-tags="60s" role="button">
-Margo Guryan - Take a picture (1968)
-</li>
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, 80s, girls, jpop, asian, j-rock, j-pop, 1980s, jrock, girl band, girl group, girl groups, girlband, shwrm-rock, shwrm-popper, in search of the lost genre" role="button">
 Scandal - Scandal (1982)
 </li>
@@ -47,9 +44,6 @@ Love Spirals Downwards - Ever (1996)
 </li>
 <li data-cover="https://img.discogs.com/EQNomXhVNPhOIDZyDrJEyBwchXk=/fit-in/600x936/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6140868-1412094829-3200.jpeg.jpg" data-tags="marilyn monroe" role="button">
 Marilyn Monroe - The Essential Recordings (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b5866f6-c209-482d-ba0e-f540ca5cafc9/14195870435-500.jpg" data-tags="60s, girl groups, oldies" role="button">
-The Shangri-Las - The Best Of The Shangri-Las (1996-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
 Sarah McLachlan - Mirrorball (1999-06-15)
@@ -78,9 +72,6 @@ Masha Qrella - Luck (2002-09-16)
 <li data-cover="http://coverartarchive.org/release/4b32b8a8-01a4-4f30-993c-13835fbf841d/13383637435-500.jpg" data-tags="female vocalists, girls, sex, euro trance, girl, god, sexy album covers, groove coverage, god is a girl" role="button">
 Groove Coverage - God Is A Girl (2002-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/570b7d30-bf9e-4fe0-9b71-4c40545f2db5/5224988766-500.jpg" data-tags="female vocalists" role="button">
-Cyndi Lauper - The Essential Cyndi Lauper (2003-06-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/248c3bb0-f8dd-4898-a657-b008381a68f8/5682796712-500.jpg" data-tags="electronic, electropop, japanese, female vocalists, cute, girls, jpop, asian, j-pop, electro-pop, girl band, girl group, girl groups, group, girlband, idol, yasutaka nakata, asian music, asian pop, cute jpop" role="button">
 Perfume - モノクロームエフェクト (2004-03-17)
 </li>
@@ -107,12 +98,6 @@ Ingrid Michaelson - Girls and Boys (2006-05-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, asian, band, j-rock, girl rock, jrock, girl band, girl groups, group, girlband, asian music, asian rock" role="button">
 チャットモンチー - シャングリラ (2006-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6e9c1e1-8e21-42fc-ac73-29d09ed92b38/25730817367-500.jpg" data-tags="rnb" role="button">
-Fantasia - Fantasia (2006-12-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/25d9128e-8e2b-3b9e-9938-88f44b4c0ed4/24155867912-500.jpg" data-tags="folk, female vocalists" role="button">
-Kate Walsh - Tim's House (2007-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/415b68c0-e326-4c26-829d-bdd620e5f722/1330751900-500.jpg" data-tags="french, girls, rx, 60er, bilititas, objectum-sexualis, nichopoulooza, os group, mes chansons, tag auditions, vartan" role="button">
 Sylvie Vartan - Nouvelle Vague (2007-07-09)
@@ -165,9 +150,6 @@ Kalafina - 輝く空の静寂には (2010-09-15)
 <li data-cover="https://img.discogs.com/NqwJEiO_HfjVselhkN1SbAaYDoY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545858-1368651640-6102.png.jpg" data-tags="party" role="button">
 P!nk - Raise Your Glass (2010-10-06)
 </li>
-<li data-cover="https://img.discogs.com/saqkYBFc9-4AXHRrEbpaowdnLy0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2490854-1540223113-8795.jpeg.jpg" data-tags="indie, country, folk, girls, new, t-bone burnett" role="button">
-The Secret Sisters - The Secret Sisters (2010-10-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/85a498af-d30d-40d4-b8f8-6145859141e3/2920654146-500.jpg" data-tags="j-pop" role="button">
 ClariS - irony (2010-10-20)
 </li>
@@ -176,6 +158,9 @@ Perfume - ねぇ (2010-11-10)
 </li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">
 Robyn - Body Talk (2010-11-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/c9816c32-58ec-44d8-9d49-5863bede864b/5247539891-500.jpg" data-tags="pop, japanese, female vocalists, girls, jpop, asian, anime, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
+9nine - SHINING☆STAR (2011-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/69d3ef58-b7a6-4d18-8963-836da3cb74f8/3644147034-500.jpg" data-tags="pop music, ivete sangalo" role="button">
 Beyoncé - Run The World (Girls) (2011-04-21)
@@ -191,6 +176,9 @@ Mélanie Laurent - En t'attendant (2011-05-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, asian, anime, j-pop, seiyuu, girl band, girl group, girl groups, group, girlband, asian music, asian pop, voice actress" role="button">
 RO-KYU-BU! - SHOOT! (2011-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/fbe23b3a-eaf2-4c2b-a276-f02f721f7ea6/24333484420-500.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, idol, akb48, asian music, asian pop" role="button">
+AKB48 - フライングゲット (2011-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/5db2b306-bcec-4781-b4fb-66bced1e6459/2928890778-500.jpg" data-tags="anime, j-pop" role="button">
 ClariS - nexus (2011-09-14)
@@ -231,6 +219,9 @@ Scandal - Scandal Show (2012-03-06)
 <li data-cover="http://coverartarchive.org/release/1a3daf8a-6d4e-4b8b-9110-e299a3f86771/6191046645-500.jpg" data-tags="j-pop, idol" role="button">
 ももいろクローバーZ - 猛烈宇宙交響曲・第七楽章「無限の愛」 (2012-03-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+東京女子流 - Limited addiction (2012-03-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9fe1ca3-3ac5-486a-b745-ee8c2f3bb4bf/2928978635-500.jpg" data-tags="j-pop" role="button">
 ClariS - Birthday (2012-04-11)
 </li>
@@ -239,6 +230,9 @@ Perfume - Spring of Life (2012-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2436359b-73fe-4747-8788-6cf500606c2f/15714368431-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
 Kalafina - to the beginning (2012-04-18)
+</li>
+<li data-cover="https://img.discogs.com/7BeCgyXbnHtVuDZ92E2Mbzfmgg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3613877-1351960360-2171.jpeg.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, seiyuu, girl band, girl group, girl groups, girlband, asian pop, voice actress" role="button">
+StylipS - MIRACLE RUSH (2012-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc5a4043-8c11-4a8a-b513-e91cbc673e0a/6191281289-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 ももいろクローバーZ - Z女戦争 (2012-06-27)
@@ -297,6 +291,9 @@ Perfume - Sweet Refrain (2013-11-27)
 <li data-cover="http://coverartarchive.org/release/02df846f-fb15-4fbb-ae10-379f5fce8ab7/10519596419-500.jpg" data-tags="indie, female, alternative, folk, female vocalists, singer-songwriter, fantastic, girls, pretty, the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely, pleasant, visual, women, lost, woman, girl, pleasing, babe, ladies, richard, thoughts, bananas, bats, variable, miscellaneous, tasty, proper, alt, rich, shady, girls girls girls, swag, lady, tactile, filtered, melt, feminine, grady, zap, partial, dick, improper, xian, moist, specific, extremities, tingle, missionary, shady grady, non-verbal, finely tailored, impure thoughts, you might, a fashionable likeness of cylindrical awareness, finis, deek, kolob, swaggy, you can, boneriffic, dake-bonoist, planet kolob, deek deek, deek deek deek, dake, finis dake, ploppy, mime of charisma, dake-bonoism, female lady, female woman lady, lady female, lady woman, hie to kolob, filtered extremities, filtered extremity, hotter than should be allowed for human beings, this is something you can listen to, beneficial, missionaries, sometimes auditory, miscellaneous specificity, this is beneficial, jibby, generalities, specific generalities, specificity, generality, optional yet recommended, a game of myself, unclean thoughts, this is something you can look at, girl girls girls, the one and only true verbal plenary inspirational spirit guide toward copacetic satisfaction" role="button">
 Daniela Andrade - Crazy (2014-01-02)
 </li>
+<li data-cover="https://img.discogs.com/gx9zdoAaditeuGlMezNfrvvzvQo=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11573896-1518753317-5566.jpeg.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+Flower - Flower (2014-01-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc18555c-133c-4cc1-ba64-a700e664a735/6060331824-500.jpg" data-tags="japanese, female vocalists, girls, jpop, anime, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
 ClariS - CLICK (2014-01-29)
 </li>
@@ -311,6 +308,9 @@ Kina Grannis - Elements (2014-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/ace5a62e-ae10-4bcb-ad48-fa7bf852e309/8837101951-500.jpg" data-tags="japanese, epic, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop, the best of 2014" role="button">
 especia - GUSTO (2014-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/91ca4a2c-46ea-40df-b5fd-68d6b7d9c825/17546809913-500.jpg" data-tags="electropop, japanese, female vocalists, jpop" role="button">
+ClariS - PARTY TIME (2014-06-04)
 </li>
 <li data-cover="https://img.discogs.com/2O8L0YqBEhOMkn29Xg2_H-MVJe0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9080986-1474430645-1315.jpeg.jpg" data-tags="j-pop" role="button">
 Perfume - Cling Cling (2014-07-02)

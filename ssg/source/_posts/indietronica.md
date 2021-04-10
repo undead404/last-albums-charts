@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:53:01.504Z
+date: 2021-04-10T10:41:01.415Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -26,6 +26,9 @@ Primal Scream - Screamadelica (1991-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
+Grandaddy - Under The Western Freeway (1997-10-21)
 </li>
 <li data-cover="https://img.discogs.com/oWBCFUnFN7s8FbJ0PLomJvbcQVs=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-23286-1460146787-8425.jpeg.jpg" data-tags="indietronica" role="button">
 Lali Puna - Tridecoder (1999-09-01)
@@ -57,14 +60,8 @@ Lali Puna - Faking The Books (2004-04-19)
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/24816bfc-a4a9-4639-a1be-a98334e1bd5d/7793302399-500.jpg" data-tags="indie" role="button">
-The Postal Service - We Will Become Silhouettes (2005-02-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/77b77c76-1b2d-41e9-bde0-b8d4ef6ec593/3646110240-500.jpg" data-tags="electronic" role="button">
 B. Fleischmann - The Humbucking Coil (2006-02-20)
-</li>
-<li data-cover="https://img.discogs.com/xYdBGPQlqc6610poNFiGPw4RnHk=/fit-in/537x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179457-1296356386.jpeg.jpg" data-tags="disco, electropop, pop, indie pop, electroclash, indietronica, discoverockult, makes me move my feets, dance and electronic, robot disco, liner recommends, nice album covers, dancing shoes on, electrofusion, daniels album collection, me time, suppie" role="button">
-Under The Influence of Giants - Under The Influence Of Giants (2006-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a44e673-1ebb-3215-a2be-86f7f1f1f8b2/10132312693-500.jpg" data-tags="electronic" role="button">
 Ratatat - Classics (2006-08-21)
@@ -111,6 +108,9 @@ Ratatat - LP3 (2008-07-07)
 <li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
 Ladyhawke - Ladyhawke (2008-09-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
+TV on the Radio - Dear Science (2008-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
 </li>
@@ -138,9 +138,6 @@ Washed Out - Life of Leisure (2009-09-15)
 <li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
 Neon Indian - Psychic Chasms (2009-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/737440f5-cbc0-42d8-beee-80df466ba243/4349788513-500.jpg" data-tags="glitch, experimental, idm" role="button">
-Gold Panda - Companion (2010)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)
 </li>
@@ -155,9 +152,6 @@ Baths - Cerulean (2010-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c1d0fe-95d7-4d72-b807-c69a2e99400f/24223192647-500.jpg" data-tags="swedish, indietronica" role="button">
 Ceo - White Magic (2010-06-28)
-</li>
-<li data-cover="https://img.discogs.com/ioH5-72BfVmnpX3FBFn0LqxOcQ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4807659-1547008224-4633.jpeg.jpg" data-tags="rock, experimental, indietronica, post, new" role="button">
-White Lies - Bigger Than Us (2011-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)
@@ -174,11 +168,11 @@ Metronomy - The English Riviera (2011-04-11)
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
+Austra - Feel It Break (2011-05-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
 Foster the People - Torches (2011-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg" data-tags="dubstep" role="button">
-SBTRKT - SBTRKT (2011-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
@@ -243,6 +237,9 @@ Calvin Harris - 18 Months (2012-10-26)
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
+<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
+The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
+</li>
 <li data-cover="http://coverartarchive.org/release/d34a9b58-41c8-4906-865f-2b32f6ae5cb3/3625811134-500.jpg" data-tags="experimental, indie electronic, ambient pop, indietronica, art pop, arbutus records, alternative-indie rock" role="button">
 Blue Hawaii - Untogether (2013)
 </li>
@@ -269,9 +266,6 @@ Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">
 Empire of the Sun - Ice on the Dune (2013-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
-AlunaGeorge - Body Music (2013-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)
@@ -318,7 +312,13 @@ Bleachers - Strange Desire (2014-07-15)
 <li data-cover="http://coverartarchive.org/release/6e3920ad-3e0d-4948-8f17-fd44e7b36fcc/7819675340-500.jpg" data-tags="indietronica" role="button">
 The Griswolds - Be Impressive (2014-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
+Tove Lo - Queen of the Clouds (2014-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/27a438ce-dc97-446c-9855-fd1543807ce3/8637388968-500.jpg" data-tags="alternative, indietronica" role="button">
 Andrew McMahon in the Wilderness - Andrew McMahon In The Wilderness (2014-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/532342c6-cab4-45b5-8122-583ff5a2e818/8773749546-500.jpg" data-tags="lo-fi" role="button">
+Car Seat Headrest - How To Leave Town (2014-10-31)
 </li>
 </ol>

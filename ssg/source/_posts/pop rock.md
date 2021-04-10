@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:05:01.616Z
+date: 2021-04-10T10:37:01.424Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -27,9 +27,6 @@ Elton John - Goodbye Yellow Brick Road (1973-10-05)
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">
 Toto - Toto IV (1982-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/c7221238-f7e0-45bc-8ff2-b8e08924d1a0/8034053675-500.jpg" data-tags="80s, we built this city" role="button">
-Starship - Knee Deep in the Hoopla (1985)
-</li>
 <li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
 Genesis - Invisible Touch (1986-06-01)
 </li>
@@ -50,6 +47,9 @@ The Calling - Camino Palmero (2001-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/6736dd14-d28a-3198-9416-f5f858400326/7010810256-500.jpg" data-tags="rock, indie, alternative, alternative rock, indie rock" role="button">
+Phantom Planet - The Guest (2002-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Let Go (2002-06-04)
@@ -89,9 +89,6 @@ Kelly Clarkson - Breakaway (2004-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e79e742e-49c6-4f11-964e-ed89212c9736/28281473613-500.jpg" data-tags="emo, pop" role="button">
 Lindsay Lohan - Speak (2004-12-07)
-</li>
-<li data-cover="https://img.discogs.com/F7_vX7cpN29uV2NF4Xt4kSvyYc0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254198-1423920499-1926.jpeg.jpg" data-tags="rock" role="button">
-Plain White T's - All That We Needed (2005-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - Lifehouse (2005-03-22)
@@ -222,11 +219,11 @@ Boys Like Girls - Love Drunk (2009-09-08)
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
 </li>
-<li data-cover="https://img.discogs.com/Wf2U6k4A5igQifVNY19nyljkmFk=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2694410-1505149236-7947.jpeg.jpg" data-tags="rock" role="button">
-Train - Save Me, San Francisco (2009-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">
+Sara Bareilles - Kaleidoscope Heart (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">
 The Script - Science & Faith (2010-09-13)
@@ -290,6 +287,9 @@ Fall Out Boy - Save Rock and Roll (2013-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/74d2a13d-6b16-4e6d-9a3a-3c56b569741a/16339583300-500.jpg" data-tags="indie pop, alternative rock, indie rock" role="button">
 The Neighbourhood - I Love You. (2013-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/e12e1b16-7ecf-47e7-aa9e-9f4443108162/4644075624-500.jpg" data-tags="pop" role="button">
+Sara Bareilles - The Blessed Unrest (2013-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg" data-tags="indie rock, female vocalists, indie pop, soft rock" role="button">
 HAIM - Days Are Gone (2013-08-05)

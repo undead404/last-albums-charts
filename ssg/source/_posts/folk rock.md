@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:22:01.849Z
+date: 2021-04-10T10:02:01.422Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/bab157e1-772c-3173-86eb-e7538732fec9/16741106966-500.jpg" data-tags="60s, classic rock" role="button">
 The Beatles - Rubber Soul (1965-12-03)
 </li>
+<li data-cover="https://img.discogs.com/WXNRYJfkH8pJeCAsM8U-pMloOs0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12550185-1537442499-1106.jpeg.jpg" data-tags="psychedelic rock, 60s, classic rock, psychedelic" role="button">
+Jefferson Airplane - Surrealistic Pillow (1967-02)
+</li>
 <li data-cover="https://img.discogs.com/7RPgI0pOyEvIZJBpUerviZhCids=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400980-1293165132.jpeg.jpg" data-tags="60s, folk rock, classic rock, folk" role="button">
 Crosby, Stills & Nash - Crosby, Stills & Nash (1969-05-29)
 </li>
@@ -33,20 +36,17 @@ Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 <li data-cover="http://coverartarchive.org/release/4efd8353-dd4d-4f21-a344-34a6c085fd45/6096109669-500.jpg" data-tags="classic rock, folk rock, 70s" role="button">
 Crosby, Stills, Nash & Young - Déjà Vu (1970-03-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/e42901c5-74f0-3055-9c70-54cc5fb2516c/26463389609-500.jpg" data-tags="classic rock, folk rock" role="button">
-Grateful Dead - Workingman's Dead (1970-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/330d2db8-86f7-4d92-a97a-50cb817a62f4/5321045997-500.jpg" data-tags="classic rock" role="button">
 Neil Young - After the Gold Rush (1970-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/433d59f8-7bd9-3d3b-a2ec-79189708cc96/23131163966-500.jpg" data-tags="classic rock, hard rock" role="button">
 Led Zeppelin - Led Zeppelin III (1970-10-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, pink, blue, green, yellow, shady, purple, grady, shady grady, clsid not unique" role="button">
-Bob Dylan - New Morning (1970-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/0bf93ec6-a96c-4d4d-9cc2-96f0f4306ff6/18627374936-500.jpg" data-tags="classic rock" role="button">
+Grateful Dead - American Beauty (1970-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/20f367e3-ab11-4dcd-9350-8ef410a126ef/10021296073-500.jpg" data-tags="progressive rock" role="button">
 Jethro Tull - Aqualung (1971-03-19)
@@ -141,9 +141,6 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 <li data-cover="http://coverartarchive.org/release/637dca39-d103-447a-a115-bab41d7a5e2c/27801445252-500.jpg" data-tags="folk, folk rock" role="button">
 Мельница - Перевал (2005-03-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/17d85952-34a0-47f7-9276-8ef9612ca5e4/21759592538-500.jpg" data-tags="folk, indie" role="button">
-Okkervil River - Black Sheep Boy (2005-04-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
 </li>
@@ -189,6 +186,9 @@ Robert Plant & Alison Krauss - Raising Sand (2007-10-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, folk rock" role="button">
 The Mountain Goats - Heretic Pride (2008-02-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/df036617-f604-467b-b708-250079c9fc37/13890856001-500.jpg" data-tags="folk, bluegrass" role="button">
+The Avett Brothers - The Second Gleam (2008-07-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/89fbb1ea-519a-4a19-9f30-75e44a0c99e2/7137338268-500.jpg" data-tags="folk, folk rock" role="button">
 Ray LaMontagne - Gossip In The Grain (2008-10-14)
 </li>
@@ -198,6 +198,9 @@ Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/58173200-3e0a-47c7-b5c0-a6af53880506/10364552769-500.jpg" data-tags="indie, folk" role="button">
+Iron & Wine - Around the Well (2009-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
@@ -206,9 +209,6 @@ Edward Sharpe & The Magnetic Zeros - Up From Below (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/_bzQfuUArrqz6xSjVfDCNK4Pwp4=/fit-in/555x295/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1926366-1330810865.jpeg.jpg" data-tags="indie, folk, folk rock, psych folk, 00's, awesomeness, loved at first listen, makes me happy, beatlesque, dodos, under the radar best of 2009, d 2009" role="button">
 The Dodos - Time To Die (2009-07-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/edfa2198-2521-4c00-95e9-b8385f189aec/15829365088-500.jpg" data-tags="alt-country, folk rock" role="button">
-The Avett Brothers - I and Love and You (2009-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-500.jpg" data-tags="folk" role="button">
 Kings of Convenience - Declaration of Dependence (2009-10)
@@ -237,6 +237,9 @@ Iron & Wine - Kiss Each Other Clean (2011-01-24)
 <li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
 PJ Harvey - Let England Shake (2011-02-14)
 </li>
+<li data-cover="https://img.discogs.com/fUMmOj-pT-cy_7thGTb2wHSJeBs=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2733765-1298587559.jpeg.jpg" data-tags="indie, psychedelic, folk rock, jagjaguwar, my gang 11, 3rd album" role="button">
+The Cave Singers - No Witch (2011-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">
 Kurt Vile - Smoke Ring for My Halo (2011-03-07)
 </li>
@@ -257,9 +260,6 @@ The War on Drugs - Slave Ambient (2011-08-15)
 </li>
 <li data-cover="https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg" data-tags="indie pop, indie" role="button">
 Of Monsters and Men - My Head Is an Animal (2011-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
-Of Monsters and Men - Into The Woods (2011-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg" data-tags="singer songwriter, passenger, easy listening-d, folk, my gang 12" role="button">
 Passenger - All the Little Lights (2012-02-24)

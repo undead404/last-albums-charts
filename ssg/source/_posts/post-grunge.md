@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:31:06.867Z
+date: 2021-04-10T10:14:01.406Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -81,11 +81,17 @@ Creed - My Own Prison (1997-06-24)
 <li data-cover="http://coverartarchive.org/release/fcf2f000-db2b-4210-9f14-98c1fd1a8322/2035045324-500.jpg" data-tags="rock, alternative rock, 90s, alternative" role="button">
 Everclear - So Much for the Afterglow (1998-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/a08ac45c-35a6-43c3-8ac5-e40308e45be4/3647296964-500.jpg" data-tags="post-grunge" role="button">
+Cold - Cold (1998-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/14971935502-500.jpg" data-tags="hard rock, metal" role="button">
 Godsmack - Godsmack (1998-08-25)
 </li>
 <li data-cover="https://img.discogs.com/MeVNWQf5LDxJQ_CUtg5RrCZxgkA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15461683-1591908472-1392.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Nickelback - The State (1999-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/3bf8751c-c418-494a-9897-e345415bb1a6/15473876103-500.jpg" data-tags="alternative, alternative rock" role="button">
+Collective Soul - Dosage (1999-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
 Silverchair - Neon Ballroom (1999-03-05)
@@ -119,9 +125,6 @@ Alien Ant Farm - Anthology (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/f38a8e29-3c4f-438b-809d-afd2ac0b603b/16490273372-500.jpg" data-tags="nu metal, hard rock" role="button">
 Saliva - Every Six Seconds (2001-03-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/5e21832b-67fb-3962-bd35-3ff18a1af99b/5721150161-500.jpg" data-tags="rock" role="button">
-Staind - Break the Cycle (2001-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c5794a0-d913-390d-ab24-6762af38c112/1091431944-500.jpg" data-tags="rock" role="button">
 Nickelback - Silver Side Up (2001-09-11)
@@ -164,9 +167,6 @@ Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="https://img.discogs.com/S3Rz5RUJDLLNYxscraAwF0ykph8=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2337527-1374014194-3229.jpeg.jpg" data-tags="alternative rock" role="button">
 Cold - Year Of The Spider (2003-05-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/1075497696-500.jpg" data-tags="alternative rock, rock" role="button">
-Staind - 14 Shades of Grey (2003-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad1faa75-05ed-426f-9134-45b184c2213b/2106374274-500.jpg" data-tags="hard rock, alternative rock" role="button">
 Shinedown - Leave a Whisper (2003-05-27)
@@ -267,9 +267,6 @@ Shinedown - The Sound of Madness (2008-06-23)
 <li data-cover="http://coverartarchive.org/release/3f3f627c-bee0-4b0b-a06f-76ffb13999a6/1075906105-500.jpg" data-tags="alternative rock" role="button">
 Staind - The Illusion Of Progress (2008-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/ceb523bc-7bfd-4209-99c1-7fc54f77c7e9/7098351697-500.jpg" data-tags="rock" role="button">
-Hinder - Take It To The Limit (2008-11-04)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, alternative rock, rock, post-grunge" role="button">
 Nickelback - Dark Horse (2008-11-17)
 </li>
@@ -302,6 +299,9 @@ Alter Bridge - AB III (2010-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/b13dc962-c0f0-4fd7-a955-2ba57b65a4ac/1735549955-500.jpg" data-tags="post-grunge, alternative rock" role="button">
+Theory of a Deadman - The Truth Is... (2011-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fc5b077-cb71-41f2-9237-406325f33252/15547414589-500.jpg" data-tags="hard rock, rock, alternative rock" role="button">
 Nickelback - Here And Now (2011-11-14)

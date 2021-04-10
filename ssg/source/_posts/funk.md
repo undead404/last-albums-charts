@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:29:01.444Z
+date: 2021-04-10T10:26:01.414Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -53,12 +53,6 @@ Curtis Mayfield - Superfly (1972-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf416ecb-b6b8-3444-aab8-2885a150970c/18781015203-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - Talking Book (1972-10-27)
-</li>
-<li data-cover="https://img.discogs.com/BYkp0xyKnzrj0VyV3HhNvCDDYVk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-833075-1163431469.jpeg.jpg" data-tags="funk" role="button">
-Incredible Bongo Band - Bongo Rock (1973)
-</li>
-<li data-cover="http://coverartarchive.org/release/72e14f2a-bd30-3310-b498-fc309203d08a/24031827549-500.jpg" data-tags="70s, funk, soul" role="button">
-Sly & The Family Stone - Fresh (1973)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
 Kool & The Gang - Wild And Peaceful (1973)
@@ -134,6 +128,9 @@ A Man Called Adam - Bread, Love And Dreams (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
+Cameo - The Best Of Cameo (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/be5efb0f-b354-3071-a41f-e8784403ea8d/2479394930-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - Emergency On Planet Earth (1993-06-14)
@@ -231,8 +228,8 @@ Chromeo - Fancy Footwork (2007-04-12)
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">
 Mark Ronson - Version (2007-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/c96335b2-2429-4990-a1c8-ff5a4904aa73/2839113560-500.jpg" data-tags="instrumental, funk" role="button">
-Beastie Boys - The Mix-Up (2007-06-22)
+<li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
+Róisín Murphy - Overpowered (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/60c75797-7ea4-4a9d-83f5-b25dea1c4bce/2067224068-500.jpg" data-tags="funk, ska, jazz" role="button">
 The Cat Empire - So Many Nights (2007-12-08)
@@ -311,6 +308,9 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/11628a0e-99ad-433b-9259-6de49e72ca24/7668980421-500.jpg" data-tags="pop" role="button">
 Michael Jackson - XSCAPE (2014-05-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/9e40b1cc-6f24-45cc-b579-bd2229d26308/11530770134-500.jpg" data-tags="funk" role="button">
+Vulfpeck - Fugue State (2014-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg" data-tags="funk, summer, singles, ye, mark ronson" role="button">
 Mark Ronson - Uptown Funk (2014-11-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:54:01.435Z
+date: 2021-04-10T09:52:01.422Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
@@ -183,6 +183,9 @@ Regina Spektor - Soviet Kitsch (2004-08-17)
 <li data-cover="http://coverartarchive.org/release/5e760dec-67cc-40fe-a23c-8e08aa6137d3/19385157963-500.jpg" data-tags="piano, ambient" role="button">
 Swod - Gehen (2004-08-23)
 </li>
+<li data-cover="https://img.discogs.com/8ou0SxsEVeCELQr2Da8KuE-taW4=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-580919-1525482869-2018.jpeg.jpg" data-tags="piano, jazz piano" role="button">
+Brad Mehldau - Live In Tokyo (2004-09-14)
+</li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)
 </li>
@@ -242,9 +245,6 @@ Kate Nash - Made of Bricks (2007-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">
 PJ Harvey - White Chalk (2007-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/dcc94adf-cfca-49a6-8bb6-5e59f995e39c/18172595821-500.jpg" data-tags="pop, piano, female vocalists, singer-songwriter" role="button">
-Vanessa Carlton - Heroes & Thieves (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d716046-80f2-4bc7-9a74-27838a8e4460/5825272609-500.jpg" data-tags="piano" role="button">
 Philip Wesley - Dark Night of the Soul (2008)

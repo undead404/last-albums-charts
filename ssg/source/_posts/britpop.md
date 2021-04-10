@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:39:01.418Z
+date: 2021-04-10T10:05:01.493Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -92,9 +92,6 @@ Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
-</li>
-<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
-Robbie Williams - Angels (1997-11)
 </li>
 <li data-cover="https://img.discogs.com/oM7KNuQxHiQ928Pu0wPwuEnxyyM=/fit-in/306x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1588511-1230506858.jpeg.jpg" data-tags="britpop" role="button">
 Pulp - This Is Hardcore (1998-03-18)
@@ -233,6 +230,9 @@ Placebo - Meds (2006-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/04a5715f-0842-3e8d-93cd-37ae9163de69/16356973756-500.jpg" data-tags="britpop, indie, 00s" role="button">
 Morrissey - Ringleader of the Tormentors (2006-04-03)
+</li>
+<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
+The Feeling - Twelve Stops And Home (2006-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)

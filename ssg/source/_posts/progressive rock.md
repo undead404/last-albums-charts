@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:13:01.450Z
+date: 2021-04-10T10:13:01.443Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -81,9 +81,6 @@ Pink Floyd - Wish You Were Here (1975-09-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Rush - 2112 (1976-04-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
-Boston - Boston (1976-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/2c88f0ea-8d18-4207-87c3-9c5057198bf1/10058122210-500.jpg" data-tags="progressive rock" role="button">
 Kansas - Leftoverture (1976-10)
 </li>
@@ -125,6 +122,9 @@ Rush - Signals (1982-09)
 </li>
 <li data-cover="https://img.discogs.com/iKg8rhotc6r-TF83GQpgvO9tNbM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5902968-1518109711-5321.jpeg.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Final Cut (1983-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/c7d24b1b-213f-3271-a392-a17b3cdc0d49/9708066247-500.jpg" data-tags="progressive rock" role="button">
+Mike Oldfield - Crises (1983-05-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Genesis - Genesis (1983-10-03)

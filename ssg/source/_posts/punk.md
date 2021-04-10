@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:34:01.568Z
+date: 2021-04-10T10:00:01.471Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")

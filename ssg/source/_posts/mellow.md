@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:16:01.508Z
+date: 2021-04-10T10:36:01.414Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -26,6 +26,9 @@ Vashti Bunyan - Some Things Just Stick In Your Mind (1965)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Leonard Cohen - Songs of Love and Hate (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a274c12-8785-351a-9155-1d6d2dfde21c/23137783404-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Pink Moon (1972-02-25)
@@ -54,9 +57,6 @@ Ben Folds Five - Whatever and Ever Amen (1997-02-05)
 <li data-cover="http://coverartarchive.org/release/c0f37ac9-1b5f-49fc-802d-f81ec8f5f5b0/12240961017-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - The Lonesome Crowded West (1997-11-18)
 </li>
-<li data-cover="https://img.discogs.com/tAFEDoQ9S7TFk0AGdN1N-37JYU0=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2596230-1292334055.jpeg.jpg" data-tags="mellow, rnb" role="button">
-Brian McKnight - Anytime (1998-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
 </li>
@@ -84,6 +84,9 @@ Coldplay - Parachutes (2000-07-10)
 <li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
 Azure Ray - Azure Ray (2001-01-16)
 </li>
+<li data-cover="https://img.discogs.com/7655BmIE8jhSOL2in2s1HL3xOFU=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-855979-1464963461-9129.jpeg.jpg" data-tags="british" role="button">
+I Am Kloot - Natural History (2001-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
 </li>
@@ -98,6 +101,9 @@ Travis - The Invisible Band (2001-06-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f1b11bf-5dfe-450e-9db9-6b7804dc90eb/8040240591-500.jpg" data-tags="indie" role="button">
 The Shins - Oh, Inverted World (2001-06-19)
+</li>
+<li data-cover="https://img.discogs.com/dkhZXlvLTx_aGR7ZToz677n-kns=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369088-1210402893.jpeg.jpg" data-tags="pop" role="button">
+Vanessa Carlton - Be Not Nobody (2002-04-30)
 </li>
 <li data-cover="https://img.discogs.com/daq5ZWT8FClVsv-3G5seTAS3fUk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-221364-1144835058.jpeg.jpg" data-tags="female vocalists, electronic" role="button">
 Frou Frou - Details (2002-06-04)
@@ -125,9 +131,6 @@ Alexi Murdoch - Four Songs (2002-11-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcfe99cd-1889-4828-8702-24ffed30dd61/15192015448-500.jpg" data-tags="80s, mellow" role="button">
 Kenny Loggins - The Essential Kenny Loggins (2002-11-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc2dcd16-cee8-4748-9ba2-e0372ce3d2d3/15816943589-500.jpg" data-tags="indie, folk" role="button">
-Great Lake Swimmers - Great Lake Swimmers (2003-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
@@ -168,6 +171,9 @@ Pedro the Lion - Achilles Heel (2004-05-25)
 <li data-cover="http://coverartarchive.org/release/79f75593-94ca-4b24-bfdb-91c0b9395b39/13538432061-500.jpg" data-tags="damien rice, acoustic, live" role="button">
 Damien Rice - B-Sides (2004-08-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/f83a5171-3acc-4234-a13f-df6b67ddefc5/3509077233-500.jpg" data-tags="post-rock" role="button">
+The Six Parts Seven - Everywhere and Right Here (2004-08-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/9b88cf3e-4077-4c1b-b5c2-148a7c7066c2/10876326803-500.jpg" data-tags="soul, citizen cope" role="button">
 Citizen Cope - The Clarence Greenwood Recordings (2004-09-14)
 </li>
@@ -207,6 +213,9 @@ Joshua Radin - We Were Here (2006-06-13)
 <li data-cover="http://coverartarchive.org/release/ceeb60bd-f3d2-4b9e-988f-86555d894a21/19686688331-500.jpg" data-tags="indie, mellow" role="button">
 Death Cab for Cutie - I Will Follow You into the Dark (2006-07-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/2c5176e5-b75c-4cba-ab30-ca74fa9acb0a/14396282999-500.jpg" data-tags="folk, ray lamontagne, singer-songwriter" role="button">
+Ray LaMontagne - Till The Sun Turns Black (2006-08-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/c64999b0-8a0c-4085-96dd-7e4eab22c481/14990985445-500.jpg" data-tags="indie" role="button">
 Copeland - Eat, Sleep, Repeat (2006-08-31)
 </li>
@@ -219,14 +228,8 @@ Damien Rice - 9 (2006-11-06)
 <li data-cover="http://coverartarchive.org/release/b585fc51-4f54-32d7-89a5-a5d57b3840dd/21173965740-500.jpg" data-tags="indie, indie rock" role="button">
 The Shins - Wincing the Night Away (2007-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/25d9128e-8e2b-3b9e-9938-88f44b4c0ed4/24155867912-500.jpg" data-tags="folk, female vocalists" role="button">
-Kate Walsh - Tim's House (2007-03-26)
-</li>
 <li data-cover="https://img.discogs.com/kcWhkV979DH6Nda6ysKEhM_h_uA=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099905-1532793292-3827.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
 Silverchair - Young Modern (2007-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/4ab7278a-20f0-49b2-b157-0a6baf1052c5/1951082691-500.jpg" data-tags="mellow" role="button">
-Sea Wolf - Get To The River Before It Runs Too Low (2007-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f6d5d5-dc60-495b-ab0e-57752fff5303/17901386044-500.jpg" data-tags="indie, indie rock, mellow, rock" role="button">
 Band of Horses - The Funeral (2007-05-21)
@@ -279,14 +282,14 @@ Ray LaMontagne - Gossip In The Grain (2008-10-14)
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/2226a987-3cc3-4fcb-bd93-c613603a259e/6973167892-500.jpg" data-tags="indie, american, mellow, folk rock, 2009 releases, sososososo good, fortuneseed" role="button">
+Jenny Owen Youngs - Transmitter Failure (2009-05-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
 Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/456df949-af50-4eaa-9249-dcf608fec488/2362768859-500.jpg" data-tags="indie" role="button">
-Girls - Album (2009-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
@@ -305,9 +308,6 @@ PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/2df28d24-51e2-4b2a-85cb-ce4f58fb4d6b/11616367011-500.jpg" data-tags="indie" role="button">
 Blind Pilot - We Are The Tide (2011-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
-Of Monsters and Men - Into The Woods (2011-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Best Coast - The Only Place (2012-03-26)

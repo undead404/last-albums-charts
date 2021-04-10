@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:24:01.406Z
+date: 2021-04-10T09:53:01.410Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -102,9 +102,6 @@ Nightmares on Wax - Carboot Soul (1999-04-12)
 <li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
 Archive - Take My Head (1999-04-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a36348d-c96b-46c3-adc6-faf765597a07/15933513236-500.jpg" data-tags="rock argentino, rock en espanol, electronic" role="button">
-Gustavo Cerati - Bocanada (1999-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
@@ -129,9 +126,6 @@ Everything But the Girl - Like the Deserts Miss the Rain (2002)
 <li data-cover="http://coverartarchive.org/release/61db93a5-4c70-3d20-97be-61cc2db67d7f/14791473573-500.jpg" data-tags="british, hip-hop" role="button">
 The Streets - Original Pirate Material (2002-03-25)
 </li>
-<li data-cover="https://img.discogs.com/H66EvinqildWqIFOtN3fCnZnKJo=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-49824-1553253750-6396.jpeg.jpg" data-tags="trip-hop, electronic, hip-hop" role="button">
-DJ Shadow - The Private Press (2002-05-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/d7f6f747-94c1-42ac-a1f5-a996c8e00192/8211810649-500.jpg" data-tags="chillout, electronic, downtempo" role="button">
 Nightmares on Wax - Mind Elevation (2002-08-24)
 </li>
@@ -146,9 +140,6 @@ Moloko - Statues (2003-01-06)
 </li>
 <li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
 Massive Attack - Special Cases (2003-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
-Goldfrapp - Black Cherry (2003-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
@@ -180,6 +171,9 @@ Thievery Corporation - The Cosmic Game (2005-02-22)
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/b7b050f6-1a17-4896-9f7c-7ee593739423/4523666954-500.jpg" data-tags="ninja tune" role="button">
+One Self - Children of possibility (2005-06-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/1a4c78f8-ec49-30cb-97ee-cf64a95d0e12/4483613510-500.jpg" data-tags="electronic" role="button">
 Röyksopp - The Understanding (2005-06-22)
 </li>
@@ -201,11 +195,14 @@ Massive Attack - Collected (2006-03-23)
 <li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
 The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/e3f1378d-7dbd-49a9-afe0-0d6c0a4b6ccc/8131898956-500.jpg" data-tags="ninja tune" role="button">
+Yppah - You Are Beautiful At All Times (2006-11-06)
+</li>
 <li data-cover="https://img.discogs.com/cBeIDW7xK6KxSb-P0zJpViuKFyM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4853247-1597669352-9918.jpeg.jpg" data-tags="chillout, electronic, electronica, dance, faithless" role="button">
 Faithless - To All New Arrivals (2006-11-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/45eab23f-9c58-4cf0-93b8-7b744df34944/15448348648-500.jpg" data-tags="downtempo" role="button">
-Emancipator - Soon it Will be Cold Enough (2006-12-06)
+<li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">
+Apparat - Walls (2007-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/17db2a43-5d90-45d6-afcf-729248ff40c0/4399091778-500.jpg" data-tags="nu jazz, acid jazz, trip hop" role="button">
 Free the Robots - Free The Robots EP (2007-10-16)
@@ -287,6 +284,9 @@ Lana Del Rey - Paradise (2012-11-12)
 </li>
 <li data-cover="https://img.discogs.com/19gVmYS-jPeW1-fBtymMvrLh0aU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8364328-1461426128-5075.jpeg.jpg" data-tags="electronic, trip-hop, experimental, dream pop, alternative rnb" role="button">
 FKA twigs - EP1 (2012-12-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c3bf8f3-35f4-41cc-8197-4141060ddbc3/26820959714-500.jpg" data-tags="hip hop, rap, 10s, atlanta" role="button">
+Big Boi - Vicious Lies and Dangerous Rumors (2012-12-11)
 </li>
 <li data-cover="https://img.discogs.com/cNjibLSsY9wA6qRnZUanNo5xtbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4447618-1462518825-2838.jpeg.jpg" data-tags="electronic, soul" role="button">
 James Blake - Overgrown (2013-04-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:34:01.412Z
+date: 2021-04-10T10:06:01.414Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -36,6 +36,9 @@ ABBA - ABBA (1975-04-21)
 <li data-cover="http://coverartarchive.org/release/2e5f46d4-b16f-3205-9a55-da193324a4e6/1079901776-500.jpg" data-tags="disco" role="button">
 Bee Gees - Children of the World (1976)
 </li>
+<li data-cover="http://coverartarchive.org/release/08b95338-faa4-489e-87b3-7ea3a69aa7b6/4237562277-500.jpg" data-tags="boney m, disco" role="button">
+Boney M. - Remix 2005 (1976)
+</li>
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
 </li>
@@ -45,14 +48,17 @@ Boney M. - Take the Heat Off Me (1976-06-28)
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
 ABBA - Arrival (1976-10-11)
 </li>
+<li data-cover="https://img.discogs.com/KpDQq-HuKtvNzBTBY_TTY4Ew3CA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1018202-1518278938-5231.jpeg.jpg" data-tags="disco" role="button">
+Grace Jones - Portfolio (1977)
+</li>
+<li data-cover="http://coverartarchive.org/release/99121ea0-12d3-4b5a-8ea0-04c61d228515/22950842826-500.jpg" data-tags="disco, pop, 70s" role="button">
+Donna Summer - I Remember Yesterday (1977-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/dd611007-adcc-4c48-b170-e9e41602ef74/3127908596-500.jpg" data-tags="pop, 70s, abba" role="button">
 ABBA - The Album (1977-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d8da8fd-8ce3-4557-bc7e-b51db42c524f/9616743526-500.jpg" data-tags="disco, 70s, funk" role="button">
 Cheryl Lynn - Cheryl Lynn (1978)
-</li>
-<li data-cover="https://img.discogs.com/YFJ2Dtm4pOC36B8aQH_rjgFmqv8=/fit-in/580x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87691-1238612710.jpeg.jpg" data-tags="disco" role="button">
-Sylvester - Step II (1978)
 </li>
 <li data-cover="http://coverartarchive.org/release/635239b4-986a-4cb7-90ba-bf213d5c9f78/11292551867-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 The Rolling Stones - Some Girls (1978-06-09)
@@ -102,6 +108,9 @@ ABBA - Super Trouper (1980-11-03)
 <li data-cover="http://coverartarchive.org/release/73c43b3a-c8aa-472e-a1ad-576794fc1221/11700006337-500.jpg" data-tags="pop, 80s, disco, funk" role="button">
 Grace Jones - Nightclubbing (1981)
 </li>
+<li data-cover="https://img.discogs.com/0FWRp-dS5SyTgCSxVymx847Lt1A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642049-1281176455.jpeg.jpg" data-tags="pop" role="button">
+ABBA - The Visitors (1981-11-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/418dc558-42ce-4181-aed3-5e8388a3795c/7475714152-500.jpg" data-tags="disco" role="button">
 Imagination - In the Heat Of The Night (1982)
 </li>
@@ -137,6 +146,9 @@ Carl Douglas - Kung Fu Fighting (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/e757cfd5-34ac-4258-9c7d-aada70faca63/6365109029-500.jpg" data-tags="disco" role="button">
+KC and The Sunshine Band - The Best of (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
@@ -177,9 +189,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="http://coverartarchive.org/release/a0780eda-0c5e-46ef-b7cf-6f4d4eeca1a6/7107828358-500.jpg" data-tags="electronic, dance, disco" role="button">
 Sophie Ellis-Bextor - Shoot from the Hip (2003-10-16)
 </li>
-<li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">
-Scissor Sisters - Scissor Sisters (2004-02-02)
-</li>
 <li data-cover="https://img.discogs.com/NkAOJbY26YPFipoosJ1Y4B853jg=/fit-in/328x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189462-1221938666.jpeg.jpg" data-tags="pop" role="button">
 Annie - Anniemal (2004-09-28)
 </li>
@@ -191,9 +200,6 @@ Jamiroquai - Dynamite (2005-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
-</li>
-<li data-cover="https://img.discogs.com/xYdBGPQlqc6610poNFiGPw4RnHk=/fit-in/537x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179457-1296356386.jpeg.jpg" data-tags="disco, electropop, pop, indie pop, electroclash, indietronica, discoverockult, makes me move my feets, dance and electronic, robot disco, liner recommends, nice album covers, dancing shoes on, electrofusion, daniels album collection, me time, suppie" role="button">
-Under The Influence of Giants - Under The Influence Of Giants (2006-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2395452-5ff5-3db7-a472-396e9ff994bf/25664690442-500.jpg" data-tags="electro, disco, dance, 00s" role="button">
 Cassius - 15 Again (2006-09-11)
@@ -243,9 +249,6 @@ David Guetta - One More Love (2009-08-21)
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
 </li>
-<li data-cover="https://img.discogs.com/WjqLP5plG85wXLx8z0K5YkmE61s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2082033-1476644543-1869.jpeg.jpg" data-tags="pop, female vocalists" role="button">
-Alexandra Burke - Overcome (2009-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
 Robbie Williams - Reality Killed the Video Star (2009-11-06)
 </li>
@@ -257,9 +260,6 @@ Kylie Minogue - Aphrodite (2010-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f0ca335-9bc1-3e8c-9ce5-6ccc17b08599/4221373250-500.jpg" data-tags="disco, house, space disco, dfa, elektroza" role="button">
 Shit Robot - From the Cradle to the Rave (2010-09-20)
-</li>
-<li data-cover="https://img.discogs.com/NryS7RmFTXvmVuNPt44lPlwROho=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2448637-1284635750.jpeg.jpg" data-tags="disco, electropop, indie rock, dubstep, house, synth-pop, albums i have on vinyl, recommended by jwz, self-titled album" role="button">
-The Hundred in the Hands - The Hundred in the Hands (2010-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3a087a7-c5ab-443f-914d-7d112a2ec9a3/19625314388-500.jpg" data-tags="disco, electronic, pop, belgium, italian, italy, belgian, belge, italien, nu disco, belgique, italie, daniels album collection" role="button">
 Aeroplane - We Can't Fly (2010-09-27)

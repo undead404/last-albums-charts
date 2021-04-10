@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:19:01.413Z
+date: 2021-04-10T09:46:07.037Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -30,6 +30,9 @@ Steely Dan - Can't Buy A Thrill (1972-10)
 <li data-cover="http://coverartarchive.org/release/dc689536-49ad-32bd-97ba-975643b46e38/9667967278-500.jpg" data-tags="new orleans, rhythm and blues" role="button">
 Dr. John - In the Right Place (1973-02-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/22525db3-d015-4b93-aa02-337f89d425fc/8194680005-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jecks, rainbow, tony carey, mandatory, sacd" role="button">
+Rainbow - Rainbow Rising (1976)
+</li>
 <li data-cover="http://coverartarchive.org/release/8becec42-19d7-414a-bc3f-c2f122f1497e/14764743089-500.jpg" data-tags="funk" role="button">
 Wild Cherry - Wild Cherry (1976)
 </li>
@@ -39,11 +42,11 @@ Idris Muhammad - Turn This Mutha Out (1977)
 <li data-cover="http://coverartarchive.org/release/43874469-e28e-4f7f-94fa-f99e4017bbf1/17944378972-500.jpg" data-tags="easy listening, funky, silly, geffen records, albums to listen to" role="button">
 Rupert Holmes - Partners In Crime (1979)
 </li>
+<li data-cover="https://img.discogs.com/-VCbmikh8Cof_YKNSqr__QwtOQM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-68760-1248010283.jpeg.jpg" data-tags="funk" role="button">
+George Clinton - Computer Games (1982-11-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
-</li>
-<li data-cover="https://img.discogs.com/gGw3vTuZWZQCWuQAHcJoaTinw5I=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1349099-1211775760.jpeg.jpg" data-tags="hip-hop, 90s" role="button">
-Beastie Boys - Check Your Head (1992-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ce9f37a-2885-43f5-8c36-b6294dbfadf9/26393776128-500.jpg" data-tags="rock, alternative, funk, funk rock" role="button">
 Red Hot Chili Peppers - What Hits!? (1992-09-29)
@@ -53,6 +56,9 @@ Red Hot Chili Peppers - Out in L.A. (1994-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
 Incubus - Fungus Amongus (1995-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f22edfc-4f93-49d0-96f9-8fb7e1c33f94/3400529654-500.jpg" data-tags="jazz, jazz-funk, ska, jamaica" role="button">
+Ernest Ranglin - Below The Bassline (1996-06-11)
 </li>
 <li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
@@ -87,14 +93,14 @@ Louis Armstrong - C'est Si Bon (2001-11-13)
 <li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
 Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
-<li data-cover="https://img.discogs.com/baBrrEXdC611-Ky9Eut2JutCZuE=/fit-in/268x267/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-140881-1504651580-2909.jpeg.jpg" data-tags="hip-hop, funky" role="button">
-Ms. Dynamite - A Little Deeper (2002-06-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
 Underworld - A Hundred Days Off (2002-09-16)
 </li>
 <li data-cover="https://img.discogs.com/Vi6DJF26ppyF1Rn0nbMhw_KJuhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2014627-1258618585.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Will Smith - Greatest Hits (2002-11-06)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="space cowboy" role="button">
+Space Cowboy - Across The Sky (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b2a8e12-f21a-47bd-992a-cd3ad8cf44fb/19991255154-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jecks" role="button">
 Gossip - Movement (2003)
@@ -150,9 +156,6 @@ Nate James - Set The Tone (2005-08-08)
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/ae39aa8d-3955-412f-8801-fd57b624ed8b/7754380019-500.jpg" data-tags="electronic, dance, electro" role="button">
-Soulwax - Nite Versions (2005-09-19)
-</li>
 <li data-cover="https://img.discogs.com/FNLNEnZStWdakQ3gzI_d-rIxBn8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2099124-1263935082.jpeg.jpg" data-tags="rock, alternative, alternative rock, indie rock, singer-songwriter" role="button">
 Ian Brown - The Greatest (2005-09-19)
 </li>
@@ -161,6 +164,9 @@ Robin Thicke - The Evolution of Robin Thicke (2006-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1611009-48c0-4171-a26d-698a57cfde9e/3985245895-500.jpg" data-tags="funk, soul" role="button">
 Gnarls Barkley - St. Elsewhere (2006-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/dda512d4-c4c4-45ae-80dc-c3e201f429af/4474234850-500.jpg" data-tags="gnarls barkley, experimental funk" role="button">
+Gnarls Barkley - Crazy (2006-05-13)
 </li>
 <li data-cover="https://img.discogs.com/BPkqzWGU1fFLuEFQKGLyaENmPPo=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-809803-1611096240-4591.jpeg.jpg" data-tags="soul, funky, r&b, relaxing, neo soul, neo-soul, gospel soul, modern world soul music, a r-ski- fav" role="button">
 Conya Doss - Love Rain Down (2006-08-28)
@@ -174,12 +180,6 @@ Black Devil Disco Club - 28 After (2006-10-30)
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">
 Mark Ronson - Version (2007-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1eb25f1-02f5-47c7-bd8b-1d499d3b2f72/2407266545-500.jpg" data-tags="soul" role="button">
-Chrisette Michele - I Am (2007-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/30ef723e-c30e-3e1a-91f9-7c290e2837bc/19388524668-500.jpg" data-tags="gypsy punk" role="button">
-Gogol Bordello - Super Taranta! (2007-07-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/2e5982e9-f356-4f2e-9929-a13882c2db93/5699038720-500.jpg" data-tags="hip hop" role="button">
 Atmosphere - Sad Clown Bad Summer Number 9 (2007-08-21)
 </li>
@@ -189,8 +189,11 @@ Aesop Rock - None Shall Pass (2007-08-28)
 <li data-cover="https://img.discogs.com/Ekhpoc-K1J5POmMeD1yq68TTTCA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1681569-1236768592.jpeg.jpg" data-tags="soul, vocal jazz, acid jazz, lounge, jazz fusion, funky, sun, post-jazz, indie jazz, soul vocal" role="button">
 SunSay - SunSay (2007-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/aea336b8-1c7f-3e9b-9d0b-bec2194f3419/28649007939-500.jpg" data-tags="indie, 00s" role="button">
-The Go! Team - Proof of Youth (2007-09-10)
+<li data-cover="https://img.discogs.com/pEEbB0iyVjcmd6SCEptQ3YrK74M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14516463-1576154585-5016.jpeg.jpg" data-tags="hip-hop" role="button">
+will.i.am - Songs About Girls (2007-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/1be60745-5d0c-3a6b-b365-ecb20299dd6d/12154931370-500.jpg" data-tags="female vocalists" role="button">
+Lykke Li - Little Bit (2007-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">
 Trey Songz - Trey Day (2007-10-02)
@@ -206,9 +209,6 @@ The Asteroids Galaxy Tour - Fruit (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">
 Kelly Rowland - Work (2008-02-26)
-</li>
-<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
-Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e63c7bd-e2e6-4f51-b2ba-196ceb9cb1eb/9501207392-500.jpg" data-tags="soul, my-love, belleruche" role="button">
 Belleruche - The Express (2008-10-12)
@@ -234,14 +234,23 @@ Generationals - Con Law (2009-07-21)
 <li data-cover="http://coverartarchive.org/release/9a513fa8-3fea-4366-a290-b27c9fc5df19/15199998026-500.jpg" data-tags="soul, alternative, indie rock, funky, eternal love" role="button">
 Ramona Falls - Intuit (2009-08-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, pop, rock, soul, acoustic, funk, acid jazz, groove, funky, jecks" role="button">
+Edward Maya feat. Vika Jigulina - Stereo Love (2009-09-17)
+</li>
 <li data-cover="https://img.discogs.com/wWpFd8AjLjwseUHSlJ5q_yKqrAE=/fit-in/405x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102803-1264162656.jpeg.jpg" data-tags="rnb, ryan leslie" role="button">
 Ryan Leslie - Transition (2009-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
 Wale - Attention Deficit (2009-11-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/54dcaa7b-fbec-3b9d-845a-542598ff0eed/22997559585-500.jpg" data-tags="hip-hop, trip-hop" role="button">
-RJD2 - The Colossus (2010-01-19)
+<li data-cover="https://img.discogs.com/6FBvjyvJcxDrsx12AU17uI62p4c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2454624-1287282793.jpeg.jpg" data-tags="indie rock" role="button">
+OK Go - Of the Blue Colour of the Sky (2010-01-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce2507be-1576-44d0-9c2f-f5f135d514ed/2434018811-500.jpg" data-tags="hip-hop" role="button">
+The Roots - How I Got Over (2010-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/ed08e6b3-1c4a-4441-a1c1-d111f477d2a4/7741978584-500.jpg" data-tags="glitch" role="button">
+OPIUO - Slurp And Giggle (2010-07-01)
 </li>
 <li data-cover="https://img.discogs.com/N3ib9u9vfh-rdCyLQKey0vaiaYE=/fit-in/539x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523078-1309359771.jpeg.jpg" data-tags="pop" role="button">
 Eliza Doolittle - Eliza Doolittle (2010-07-12)
@@ -251,9 +260,6 @@ Jamiroquai - White Knuckle Ride (2010-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac4f4dff-0953-4033-971a-71598749ca8e/8152156560-500.jpg" data-tags="pop, ghostly international" role="button">
 Matthew Dear - Black City (2010-08-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/865b4950-cc21-48bc-808d-0fbd33aea1c6/2645572812-500.jpg" data-tags="soul" role="button">
-Fitz and the Tantrums - Pickin' Up the Pieces (2010-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">
 Duck Sauce - Barbra Streisand (2010-09-13)
@@ -278,15 +284,6 @@ Kelly Rowland - Motivation (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/8164140b-6d5f-3a69-a19a-6785446191e9/852058673-500.jpg" data-tags="soul" role="button">
 Jamie Woon - Mirrorwriting (2011-04-14)
-</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
-<li data-cover="https://img.discogs.com/3JJlYvSB0I_2zpEMhqc3yQF61k8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2960146-1497979777-4865.jpeg.jpg" data-tags="hip-hop, experimental hip-hop" role="button">
-Shabazz Palaces - Black Up (2011-06-28)
-</li>
-<li data-cover="https://img.discogs.com/0ZPRLT6yZCcmbeRD0RYkuUiDkE4=/fit-in/590x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3031107-1312506095.jpeg.jpg" data-tags="future garage" role="button">
-Totally Enormous Extinct Dinosaurs - Trouble (2011-07-04)
 </li>
 <li data-cover="https://img.discogs.com/BkL6DSDPf6DPEe_flxeG2_FY-ZE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3073587-1314461072.jpeg.jpg" data-tags="soul, funky, albums in my collection" role="button">
 Penguin Prison - Penguin Prison (2011-08)
@@ -314,6 +311,9 @@ Ibrahim Maalouf - Illusions (2013-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">
 Broken Bells - After the Disco (2014-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
+Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/527c41b5-78a5-4975-989e-38416f9c976b/7041430564-500.jpg" data-tags="disco, dance, house, funky, disco house" role="button">
 Duck Sauce - Quack (2014-04-15)

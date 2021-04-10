@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:22:01.528Z
+date: 2021-04-10T10:09:01.412Z
 title: "female vocal: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -9,11 +9,11 @@ title: "female vocal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">Gwen Stefani - Wind It Up (2006-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/d026f52f-4078-4669-81e1-73bd041eee86/10391904541-500.jpg" data-tags="chill, ambient, downtempo, club, fierce, smooth jazz, female vocal, afterdark, blue six, djsampick" role="button">Still Going - Still Going Theme (2007-09-18)</li>
+<li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">Erin McCarley - Love, Save The Empty (2009-01-06)</li>
 <li data-cover="http://coverartarchive.org/release/8e211044-0d50-4d93-a010-a006a3c4057c/1929739348-500.jpg" data-tags="acoustic, instrumental, ambient, female vocal" role="button">Agnes Obel - Philharmonics (2010-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/fd1faa20-3446-49ac-b157-9b7db785ee2f/23101941298-500.jpg" data-tags="electronic, trip-hop, drum and bass, female vocal, need to listen, favorite albums 2012" role="button">Kosheen - Independence (2012-09-21)</li>
-<li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">Amaranthe - The Nexus (2013-03-13)</li>
-<li data-cover="http://coverartarchive.org/release/7bf43f80-4898-4ace-afdc-a8b74818cf28/8334528913-500.jpg" data-tags="modern metal" role="button">Amaranthe - Massive Addictive (2014-10-15)</li>
+<li data-cover="https://img.discogs.com/rMymncmEsiAUFl8myydAfMSqtC0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-576774-1144503180.jpeg.jpg" data-tags="electronic, dance, female vocal" role="button">Karen Overton - Your Loving Arms (2013-11-01)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -29,6 +29,9 @@ Jo Stafford - The Columbia Hits Collection (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/58f38213-6016-4664-bd23-77bd4f7aafaf/3039576624-500.jpg" data-tags="dance, screamin diva" role="button">
 Grace Jones - Living My Life (1983)
+</li>
+<li data-cover="http://coverartarchive.org/release/784732dd-29b9-43dd-8848-14081026cafb/16758854343-500.jpg" data-tags="downtempo" role="button">
+Everything But the Girl - Eden (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/476d15b4-b7bd-4e19-b3a2-34f105918550/9183809403-500.jpg" data-tags="80s, swedish, female vocal, gold, abba, steve lillywhite, female faves, frida, proto-vaporwave, fabba" role="button">
 Frida - Shine (1984-09-11)
@@ -81,9 +84,6 @@ Watermark - All Things New (2000-06-20)
 <li data-cover="http://coverartarchive.org/release/419228fc-d6a4-4b24-b6bb-9315d0727abd/6436913950-500.jpg" data-tags="female vocalists, female jazz vocalists, jazz" role="button">
 Silje Nergaard - At First Light (2001)
 </li>
-<li data-cover="https://img.discogs.com/tyi-Iz8GoOJpnV0ELq0ogTrUQNI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9976404-1489529552-3476.jpeg.jpg" data-tags="singer-songwriter, canadian, avril lavigne, b-sides avril lavigne" role="button">
-Avril Lavigne - B-Sides (2001)
-</li>
 <li data-cover="https://img.discogs.com/vVkCbC2tl6UIaRBdkwmI1VC4x_4=/fit-in/478x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4572281-1368738400-1215.jpeg.jpg" data-tags="my french tag" role="button">
 Zazie - La Zizanie (2001)
 </li>
@@ -114,6 +114,9 @@ Venus Hum - Big Beautiful Sky (2003-04-01)
 <li data-cover="http://coverartarchive.org/release/553bf243-ae3c-4e7a-8b24-3451b009eac4/18933942633-500.jpg" data-tags="symphonic metal, power metal" role="button">
 Dark Moor - Between Light and Darkness (2003-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/7699cadb-b69e-4f39-a8a3-3f72487a35db/8018314646-500.jpg" data-tags="danish, denmark, copenhagen, europe, european, skandinavian music, skandinavian" role="button">
+Sepiamusic - Prototype (2003-12-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/b8a2581c-f325-3515-8144-fa3e714a43c4/15823569862-500.jpg" data-tags="j-pop, inspiring, ayumi hamasaki, mainstream artists that actually experiment with different genres and succeed" role="button">
 浜崎あゆみ - Memorial address (2003-12-17)
 </li>
@@ -135,6 +138,9 @@ Stellamara - The Seven Valleys (2004-10-22)
 <li data-cover="http://coverartarchive.org/release/b3725a72-d554-4ba0-ad9b-9967d775bd20/18675207111-500.jpg" data-tags="christian, female vocalist, praise & worship" role="button">
 Kari Jobe - Kari Jobe (2005)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8a4e516-bb6c-489e-9897-e12ba9eb1d56/2643794288-500.jpg" data-tags="metal, gothic metal, female vocalist, symphonic metal, play on demand" role="button">
+At the Lake - Silvae (2005)
+</li>
 <li data-cover="https://img.discogs.com/IA_I1mVffNZ58EgJUbWdEMkuam8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-575740-1396380075-7379.jpeg.jpg" data-tags="pop, alternative rock, pop rock, female vocal, pop-rock" role="button">
 Nu Pagadi - Your Dark Side (2005-01-03)
 </li>
@@ -152,9 +158,6 @@ Nerina Pallot - Fires (2005-04-04)
 </li>
 <li data-cover="https://img.discogs.com/18cEeKNn12uO0T4wagraIrO5LQk=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5933589-1467806732-9747.jpeg.jpg" data-tags="gothic" role="button">
 Dark Princess - Without You (2005-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/98b584ef-8af2-4dca-a13d-87fc19e8339a/10128152506-500.jpg" data-tags="female vocalists, dido" role="button">
-Dido - Dido Live (2005-06-07)
 </li>
 <li data-cover="https://img.discogs.com/oER3wcrlUX3cp1tMy-7gkoVCSVA=/fit-in/600x830/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6457037-1520279281-2209.jpeg.jpg" data-tags="hard rock, finnish, symphonic metal, power metal" role="button">
 Nightwish - The Siren (2005-07-25)
@@ -189,14 +192,14 @@ Eliane Elias - Around The City (2006-08-22)
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/a6e9c1e1-8e21-42fc-ac73-29d09ed92b38/25730817367-500.jpg" data-tags="rnb" role="button">
-Fantasia - Fantasia (2006-12-12)
-</li>
 <li data-cover="https://img.discogs.com/op0hA9fBAfmPe2Df_oj4vx1v6Ag=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1463816-1392159765-4137.jpeg.jpg" data-tags="trip-hop" role="button">
 Half Dub Theory - Soulplay (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Alai Oli - Да, бро? (2007-02-01)
+</li>
+<li data-cover="https://img.discogs.com/BOAQb2pFBNn_J1Njv2z2_qzlT_I=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6097363-1410988767-4023.jpeg.jpg" data-tags="female vocalist, female vocal, solo spice" role="button">
+Emma Bunton - All I Need To Know (2007-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4237c8d-a535-4586-a421-0513f755d04d/27138528130-500.jpg" data-tags="pop" role="button">
 The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
@@ -282,6 +285,9 @@ The Joy Formidable - The Big More (2011-10-14)
 <li data-cover="http://coverartarchive.org/release/022fa0a2-10ef-4b38-9d76-ed89dfe5952a/1060294845-500.jpg" data-tags="symphonic metal" role="button">
 Nemesea - The Quiet Resistance (2011-11-21)
 </li>
+<li data-cover="https://img.discogs.com/r6fSXWMTF0URqT-xlm4aOmMhSkQ=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4726451-1580754481-4915.jpeg.jpg" data-tags="nu metal" role="button">
+Infected Rain - Asylum (2011-11-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/36d835b9-7871-44af-a428-9cfeb0f1e9d2/7721981849-500.jpg" data-tags="reggae" role="button">
 Alai Oli - Satta Massagana (2011-12-01)
 </li>
@@ -294,8 +300,8 @@ Kosheen - Independence (2012-09-21)
 <li data-cover="http://coverartarchive.org/release/35870a7e-3d69-464f-b044-3b5664826909/5851863231-500.jpg" data-tags="nu metal" role="button">
 Otep - Hydra (2013-01-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
-Amaranthe - The Nexus (2013-03-13)
+<li data-cover="http://coverartarchive.org/release/72626291-48fe-4019-a597-a8094f1ed316/4332201198-500.jpg" data-tags="alternative metal, female vocal, modern metal, female vox" role="button">
+Kandia - All Is Gone (2013-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e6250ce-4604-4342-97d5-487a97e325a9/5087805910-500.jpg" data-tags="modern metal" role="button">
 DeadLock - The Arsonist (2013-07-24)
@@ -314,11 +320,5 @@ Rave the Reqviem - Rave The Reqviem (2014-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e70f131-79ce-4989-8f90-27e3c4183cc1/8196399492-500.jpg" data-tags="alternative rock, piano, female vocal" role="button">
 The Nearly Deads - Invisible Tonight (2014-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/7bf43f80-4898-4ace-afdc-a8b74818cf28/8334528913-500.jpg" data-tags="modern metal" role="button">
-Amaranthe - Massive Addictive (2014-10-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/3cb7ad48-0592-4eb6-b715-85b91d08d6b8/13196179972-500.jpg" data-tags="progressive metal, female vocal, power metal, melodic power metal, 2014 albums" role="button">
-Triosphere - The Heart Of The Matter (2014-11-07)
 </li>
 </ol>

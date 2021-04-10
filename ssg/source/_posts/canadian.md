@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:07:12.553Z
+date: 2021-04-10T10:16:06.884Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -108,6 +108,9 @@ The Weakerthans - Reconstruction Site (2003-08-25)
 <li data-cover="http://coverartarchive.org/release/e61cbdfc-e830-4aa1-bd58-471a51b05d3f/2517909352-500.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent (2003-09-15)
 </li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="rock, canadian" role="button">
+Barenaked Ladies - Everything to Everyone (2003-10-21)
+</li>
 <li data-cover="https://img.discogs.com/W3HqGj-5tQ0OJkVo1gGj0V1qOes=/fit-in/361x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8959918-1472283546-3692.jpeg.jpg" data-tags="pop" role="button">
 Nelly Furtado - Folklore (2003-11-24)
 </li>
@@ -207,8 +210,8 @@ The New Pornographers - Challengers (2007-08-07)
 <li data-cover="https://img.discogs.com/Pxilf2hUZbctuPvV0rC3JtIpIV0=/fit-in/250x248/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1973286-1255989158.jpeg.jpg" data-tags="canadian" role="button">
 Wintersleep - Welcome To The Night Sky (2007-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a36e04e-e116-4561-bab5-b3755bcb67a2/15821099731-500.jpg" data-tags="indie rock, canadian, indie" role="button">
-Sunset Rubdown - Random Spirit Lover (2007-10-09)
+<li data-cover="https://img.discogs.com/KpVfzdPJr37BfMyHu4sBH8aXxcc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1084588-1190884235.jpeg.jpg" data-tags="indie, folk" role="button">
+The Acorn - Glory Hope Mountain (2007-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)
@@ -221,9 +224,6 @@ Theory of a Deadman - Scars & Souvenirs (2008-04-01)
 </li>
 <li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
 Tokyo Police Club - Elephant Shell (2008-04-22)
-</li>
-<li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
-Women - WOMEN (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/24d4a658-78ae-4bc4-b763-632799a5b06e/9166590728-500.jpg" data-tags="rock, canadian" role="button">
 Mother Mother - O My Heart (2008-09-16)
@@ -249,6 +249,9 @@ Sunset Rubdown - Dragonslayer (2009-06-23)
 <li data-cover="http://coverartarchive.org/release/feefbeb7-79eb-4a0d-a215-04990a186465/28888010781-500.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent III (2009-07-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/40b2fa85-61ad-469a-9e73-b7707ea2a73f/4013370217-500.jpg" data-tags="indie, rock, alternative, indie rock, canadian" role="button">
+Bahamas - Pink Strat (2009-07-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">
 Caribou - Swim (2010-04-16)
 </li>
@@ -260,9 +263,6 @@ The New Pornographers - Together (2010-05-03)
 </li>
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/a690e839-b3b7-43fb-9575-6a1db2155841/15449530643-500.jpg" data-tags="folk, indie, canadian" role="button">
-Dan Mangan - Nice, Nice, Very Nice (2010-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
 Black Mountain - Wilderness Heart (2010-09-10)

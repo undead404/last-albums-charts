@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:07:01.574Z
+date: 2021-04-10T09:50:01.423Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg" data-tags="hip-hop, rap, 80s" role="button">
 Beastie Boys - Licensed to Ill (1986-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
+Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - The Low End Theory (1991-09-24)
@@ -216,9 +219,6 @@ Kanye West - Graduation (2007-09-05)
 <li data-cover="http://coverartarchive.org/release/5a758b20-d65d-4319-b7c9-62ff8489d4ad/10643982696-500.jpg" data-tags="chamillionaire, rap, hip-hop, dirty south" role="button">
 Chamillionaire - Ultimate Victory (2007-09-18)
 </li>
-<li data-cover="https://img.discogs.com/Q3QKu3J2VeBIW5V5ooDaBdb1ayc=/fit-in/460x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4700961-1372697120-8879.jpeg.jpg" data-tags="rap" role="button">
-Wale - Nike Boots (2007-11-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/f2218578-270a-4339-9943-a9d38876f30d/10313891153-500.jpg" data-tags="rap" role="button">
 Birdman - 5 * Stunna (2007-12-11)
 </li>
@@ -237,6 +237,9 @@ Kanye West - 808s & Heartbreak (2008-11-21)
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/9123d325-bf8e-4423-be98-98478dccee20/3602906301-500.jpg" data-tags="electronic, hip hop, pop, rap, flo rida right round" role="button">
+Flo Rida - Right Round (2009-03-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/25130d2d-8a82-4956-99e7-30efd0f9ff89/5871235568-500.jpg" data-tags="rap, hip-hop" role="button">
 Eminem - Relapse (2009-05-15)
 </li>
@@ -254,9 +257,6 @@ Nicki Minaj - Your Love (2010-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f86b8aa-db60-4e4e-9aa3-fa74597b2f7d/2588028438-500.jpg" data-tags="hip-hop" role="button">
 B.o.B - B.o.B Presents: The Adventures of Bobby Ray (2010-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8ae2c69-899f-4ef5-9379-6f7214fffc3a/8328215880-500.jpg" data-tags="rap" role="button">
-Tinie Tempah - Disc-Overy (2010-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e5cf3e1-f511-43f5-aa6d-8b66100f7924/2071145317-500.jpg" data-tags="hip-hop" role="button">
 Drake - Thank Me Later (2010-06-14)

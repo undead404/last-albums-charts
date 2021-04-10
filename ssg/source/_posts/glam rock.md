@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:08:06.991Z
+date: 2021-04-10T10:17:01.428Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
 The Easybeats - Friday on My Mind (1966)
+</li>
+<li data-cover="http://coverartarchive.org/release/128f51d3-cc2b-4ec2-abc4-be2881b507ae/9259425922-500.jpg" data-tags="hard rock" role="button">
+Alice Cooper - Love It to Death (1971-03-08)
 </li>
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
@@ -90,14 +93,14 @@ Kiss - Love Gun (1977-06-17)
 <li data-cover="http://coverartarchive.org/release/e2cb1fb9-7117-4dae-9b40-9e5480301b9e/1499761435-500.jpg" data-tags="rock, 70s, punk rock" role="button">
 Iggy Pop - Lust For Life (1977-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
-Queen - News Of The World (1977-10-28)
-</li>
 <li data-cover="https://img.discogs.com/WnQihlMJVDqIButcXyw--fIvXqk=/fit-in/450x470/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585971-1249150488.jpeg.jpg" data-tags="glam rock, post-punk" role="button">
 Japan - Adolescent Sex (1978-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/bba8e66c-cd33-46f6-b507-3ad645cbdce7/4328990620-500.jpg" data-tags="classic rock, rock, hard rock, queen" role="button">
 Queen - Jazz (1978-11-10)
+</li>
+<li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
+Wings - Wings Greatest (1978-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/20f10584-bc6d-3bf6-a110-e06491275f45/1287473342-500.jpg" data-tags="hard rock" role="button">
 Kiss - Dynasty (1979-05-23)
@@ -138,20 +141,11 @@ Bryan Ferry - Boys and Girls (1985-06-03)
 <li data-cover="http://coverartarchive.org/release/9fa22883-2046-3258-bb49-f9a102a8dcb0/6021690450-500.jpg" data-tags="glam metal" role="button">
 Mötley Crüe - Theatre Of Pain (1985-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/5eee6f60-5818-4aaf-b5c5-08206e93585e/9240966535-500.jpg" data-tags="hard rock, glam rock, glam metal" role="button">
-Kiss - Asylum (1985-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/994822e7-7540-47bd-af14-a17ebdea73fd/9962706585-500.jpg" data-tags="hard rock, 80s" role="button">
-Europe - The Final Countdown (1986)
-</li>
 <li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
 Queen - A Kind Of Magic (1986-06-02)
 </li>
 <li data-cover="https://img.discogs.com/li6_jIDYQpWodxZn8rkHyInht7c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1239136-1356563111-3834.jpeg.jpg" data-tags="80s, nothings gonna stop us now, beat patrol, set the night to music, babylon" role="button">
 Starship - No Protection (1987)
-</li>
-<li data-cover="https://img.discogs.com/JfDrrPTDdS04dLR1uOC9OPCZ0bk=/fit-in/550x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5773474-1402468848-3667.jpeg.jpg" data-tags="hard rock" role="button">
-Kiss - Crazy Nights (1987-09-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Def Leppard - Hysteria (1987-11-23)
@@ -161,9 +155,6 @@ Alice Cooper - Trash (1989-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6aef477-83a9-42a1-81da-36ddd6d9eb8e/21763670163-500.jpg" data-tags="rock, glam rock" role="button">
 David Bowie - Sound And Vision (1989-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/c8db4138-90bf-45a4-963d-d7d812e73f76/10866718227-500.jpg" data-tags="hard rock" role="button">
-Kiss - Hot In The Shade (1989-10-17)
 </li>
 <li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="classic rock, rock" role="button">
 David Bowie - ChangesBowie (1990-03-20)
@@ -176,6 +167,12 @@ Queen - Greatest Hits II (1991-10-28)
 </li>
 <li data-cover="https://img.discogs.com/rzuIbHqHm9c5plJ3MdP6W4foiNM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059771-1261626615.jpeg.jpg" data-tags="glam rock, 70s" role="button">
 Slade - Wall Of Hits (1991-11-26)
+</li>
+<li data-cover="https://img.discogs.com/dSHHQw7HsvatcIMDhjSAuuRjFI0=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726664-1433286162-6985.jpeg.jpg" data-tags="90s, indie, indie rock" role="button">
+Morrissey - Your Arsenal (1992-07-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/d18dfc90-1575-3f45-ac16-2ff44674a5c5/15863736216-500.jpg" data-tags="rock, 90s" role="button">
+David Bowie - Black Tie White Noise (1993-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/24540263-d929-4cac-ba53-584a90f65fb1/12113877365-500.jpg" data-tags="glam rock" role="button">
 David Bowie - Ziggy Stardust (1994)
@@ -197,6 +194,9 @@ Kiss - Greatest Kiss (1996-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Death to the Pixies (1997-10-06)
+</li>
+<li data-cover="https://img.discogs.com/oM7KNuQxHiQ928Pu0wPwuEnxyyM=/fit-in/306x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1588511-1230506858.jpeg.jpg" data-tags="britpop" role="button">
+Pulp - This Is Hardcore (1998-03-18)
 </li>
 <li data-cover="https://img.discogs.com/2Vg9urP_Yt5xg2Zx7fMoDrEIwpk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11986454-1526045647-3237.jpeg.jpg" data-tags="gothic, finnish, gothic metal" role="button">
 The 69 Eyes - Wasting the Dawn (1999-02-22)
@@ -228,9 +228,6 @@ The Darkness - Permission to Land (2003-07-07)
 <li data-cover="http://coverartarchive.org/release/5fd264f0-1188-47fa-bf80-f81cb9c935b9/27945984344-500.jpg" data-tags="glam rock" role="button">
 The Darkness - I Believe in a Thing Called Love (2003-09-22)
 </li>
-<li data-cover="https://img.discogs.com/pEVWcdEdK9fYHUqoRyCIVXH5kwk=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295955-1105613820.jpg.jpg" data-tags="pop, electronic, dance" role="button">
-Scissor Sisters - Scissor Sisters (2004-02-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
 Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
 </li>
@@ -242,6 +239,9 @@ Negative - Sweet & Deceitful (2004-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
+</li>
+<li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
+The Raveonettes - Pretty in Black (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f2861a-56e3-4ea5-8c87-d67fdc9759dc/8307044367-500.jpg" data-tags="classic rock, garage rock" role="button">
 Smash Mouth - All Star Smash Hits (2005-08-23)
