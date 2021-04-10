@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:26:01.434Z
+date: 2021-04-10T01:35:01.404Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
+The Knife - The Knife (2001-02-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d9e290e-1001-4616-9de2-67fa69bfc9cd/13761995776-500.jpg" data-tags="electro, electronic, electropop, electroclash" role="button">
 Ladytron - Light & Magic (2002-09-17)
 </li>
@@ -105,6 +108,9 @@ Marina & the Diamonds - The Family Jewels (2009)
 <li data-cover="http://coverartarchive.org/release/17813ea6-83e3-3eb8-949f-d6a4f1fb157d/3102241606-500.jpg" data-tags="pop, pop rock" role="button">
 Kelly Clarkson - All I Ever Wanted (2009-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/f1fc4c16-65a8-4c3e-a249-23ef46c41918/5300813420-500.jpg" data-tags="electronic" role="button">
+Empire of the Sun - Walking on a Dream (2009-04-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
@@ -150,9 +156,6 @@ Miami Horror - Sometimes (2009-11-20)
 <li data-cover="http://coverartarchive.org/release/136eebff-5327-484f-898c-667787fce226/5552935179-500.jpg" data-tags="electropop, pop" role="button">
 Florrie - Introduction (2010)
 </li>
-<li data-cover="http://coverartarchive.org/release/14d38ffd-a100-4865-998b-2a82e811ab86/3892189369-500.jpg" data-tags="experimental, female vocalists, synthpop" role="button">
-Oh Land - Oh Land (2010)
-</li>
 <li data-cover="http://coverartarchive.org/release/8727137b-e59b-4731-b4f7-e9965f372086/9949868756-500.jpg" data-tags="pop, dance" role="button">
 Ke$ha - Animal (2010-01-01)
 </li>
@@ -171,6 +174,9 @@ Gorillaz - Plastic Beach (2010-03-03)
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/5090ec62-8be8-3aca-807c-a3b4398d4e45/12033721388-500.jpg" data-tags="electropop" role="button">
+Sky Ferreira - 17 (2010-05-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/48049b18-b950-4446-8fc8-76a8dba1a779/5891851446-500.jpg" data-tags="pop, electronic, dance" role="button">
 Christina Aguilera - Bionic (2010-06-04)
 </li>
@@ -182,9 +188,6 @@ Matthew Dear - Black City (2010-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad3feb4a-d061-4666-b543-666d503cdb67/4022993062-500.jpg" data-tags="electronic, synthpop" role="button">
-Miami Horror - Illumination (2010-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/cffd67f7-bf16-4579-b93b-3b7922f4994d/24303225544-500.jpg" data-tags="electropop, pop" role="button">
 Sky Ferreira - One (2010-08-23)
@@ -252,6 +255,9 @@ Purity Ring - Shrines (2012-07-23)
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/f1ee5f60-0e3b-4a0d-8705-2113f12baf64/9115800193-500.jpg" data-tags="synthpop, indie pop" role="button">
+Ellie Goulding - Halcyon (2012-10-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
 </li>
@@ -266,9 +272,6 @@ Lorde - The Love Club EP (2013-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/825aba9c-bf86-4ee5-bfee-4a64fe024698/28360909385-500.jpg" data-tags="electropop, indie pop, praktikum 2013" role="button">
 NONONO - Pumpin Blood (2013-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">
-Avicii - True (2013-08-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)
@@ -308,9 +311,6 @@ BROODS - Evergreen (2014-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
 Tove Lo - Queen of the Clouds (2014-09-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
-Calvin Harris - Motion (2014-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/370c5560-795d-478e-b034-b9f1bb06776d/9274778864-500.jpg" data-tags="pop" role="button">
 Pitbull - Globalization (2014-11-21)

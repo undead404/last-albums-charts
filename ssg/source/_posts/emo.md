@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:42:01.464Z
+date: 2021-04-10T01:09:01.398Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -276,9 +276,6 @@ Mayday Parade - A Lesson in Romantics (2007-07-10)
 <li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">
 The Starting Line - Direction (2007-07-31)
 </li>
-<li data-cover="https://img.discogs.com/AFN3DwuD-MUBC5fmATDT49nCQXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2437292-1283994785.jpeg.jpg" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
-The Spill Canvas - No Really, I'm Fine (2007-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
 Jimmy Eat World - Chase This Light (2007-10-06)
 </li>
@@ -305,6 +302,9 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
+Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)

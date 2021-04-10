@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:59:01.429Z
+date: 2021-04-10T01:13:01.415Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -252,8 +252,8 @@ Robbie Williams - Reality Killed the Video Star (2009-11-06)
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad3feb4a-d061-4666-b543-666d503cdb67/4022993062-500.jpg" data-tags="electronic, synthpop" role="button">
-Miami Horror - Illumination (2010-08-20)
+<li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
+Kylie Minogue - Aphrodite (2010-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f0ca335-9bc1-3e8c-9ce5-6ccc17b08599/4221373250-500.jpg" data-tags="disco, house, space disco, dfa, elektroza" role="button">
 Shit Robot - From the Cradle to the Rave (2010-09-20)
@@ -263,9 +263,6 @@ The Hundred in the Hands - The Hundred in the Hands (2010-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3a087a7-c5ab-443f-914d-7d112a2ec9a3/19625314388-500.jpg" data-tags="disco, electronic, pop, belgium, italian, italy, belgian, belge, italien, nu disco, belgique, italie, daniels album collection" role="button">
 Aeroplane - We Can't Fly (2010-09-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/2af49440-6cc2-45c6-bcdc-4a65f3a86ece/6978324804-500.jpg" data-tags="electronic, house" role="button">
-Bag Raiders - Bag Raiders (2010-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3f04af-dc51-4e19-8a8f-655da163d8b6/12602343869-500.jpg" data-tags="disco, electronic, male vocalists, hairy chest, mpm, hunks, nice fur, heavy pelt, discos 2011" role="button">
 Marcelo Jeneci - Feito Pra Acabar (2010-12-01)
@@ -290,6 +287,9 @@ Kindness - World, You Need a Change of Mind (2012-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
+</li>
+<li data-cover="https://img.discogs.com/czDqAXmDDKZdPbc10fup3CShe6Q=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-165492-1394219551-3351.jpeg.jpg" data-tags="disco" role="button">
+Giorgio Moroder - From Here To Eternity (2012-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

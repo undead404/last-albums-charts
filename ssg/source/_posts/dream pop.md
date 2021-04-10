@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:25:01.496Z
+date: 2021-04-10T01:33:01.403Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -26,15 +26,6 @@ Cocteau Twins - Head Over Heels (1983-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/c53d6f73-a312-457a-bafd-2d38ec4d1cce/8216198322-500.jpg" data-tags="dream pop, ethereal" role="button">
 Cocteau Twins - Victorialand (1986-02)
-</li>
-<li data-cover="https://img.discogs.com/2KunWdANjetqmAeteAR32ZY_rcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1641215-1234035719.jpeg.jpg" data-tags="dream pop, 80s, 4ad" role="button">
-Cocteau Twins - Blue Bell Knoll (1988-09-19)
-</li>
-<li data-cover="https://img.discogs.com/_cbVxOvvbFZXtL4SWxto7HIJYHU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489501-1602701907-6775.jpeg.jpg" data-tags="slowcore, shoegaze" role="button">
-Galaxie 500 - Today (1988-10)
-</li>
-<li data-cover="https://img.discogs.com/LUCqgkcI6OgQ2QGT-KpV-9OFOBg=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-401199-1153637811.jpeg.jpg" data-tags="slowcore, dream pop, shoegaze" role="button">
-Galaxie 500 - On Fire (1989)
 </li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
@@ -93,6 +84,9 @@ Trespassers William - Different Stars (2002-09-28)
 <li data-cover="https://img.discogs.com/8GoGdKyzzv_WfNKeQMRuIksZVlE=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789984-1159034267.jpeg.jpg" data-tags="indie, shoegaze" role="button">
 The Radio Dept. - Lesser Matters (2003-02-24)
 </li>
+<li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
+Mew - Frengers (2003-04-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
 Broadcast - Haha Sound (2003-08-09)
 </li>
@@ -138,9 +132,6 @@ M83 - Saturdays = Youth (2008-04-14)
 <li data-cover="https://img.discogs.com/rmPNjIDW0HMABn_H6aEqd5CVZlw=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513679-1225289551.jpeg.jpg" data-tags="dream pop, shoegaze" role="button">
 School of Seven Bells - Alpinisms (2008-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
-Chairlift - Does You Inspire You (2008-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">
 The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
 </li>
@@ -171,6 +162,9 @@ The Radio Dept. - Clinging to a Scheme (2010-04-19)
 <li data-cover="https://img.discogs.com/NeBBu5EEP2XGecymLXlAwoGnSSs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2297842-1490435079-4947.jpeg.jpg" data-tags="dream pop" role="button">
 Wild Nothing - Gemini (2010-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
+Tame Impala - Innerspeaker (2010-05-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/6b8bd19d-52ca-4b22-b2ce-13e8a20b4926/18238440205-500.jpg" data-tags="dream pop" role="button">
 Lower Dens - Twin-Hand Movement (2010-07-20)
 </li>
@@ -180,11 +174,11 @@ Blonde Redhead - Penny Sparkle (2010-09-10)
 <li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">
 Deerhunter - Halcyon Digest (2010-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/d12fe86c-4e91-4b2f-98ca-c7045c195a3b/6735333223-500.jpg" data-tags="dream pop, experimental" role="button">
-Grimes - Halfaxa (2010-10-05)
-</li>
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
+</li>
+<li data-cover="https://img.discogs.com/3IvzrMXermlMaFOkxqG5Pp8ae9U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677308-1582411430-2877.png.jpg" data-tags="indie" role="button">
+Braids - Native Speaker (2011-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
@@ -303,6 +297,9 @@ Lorde - Pure Heroine (2013-09-27)
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/c013d7b9-d988-4f3c-a96f-1df74370b541/9650252297-500.jpg" data-tags="electronic, indie, dream pop, folktronica, chillwave, electro-pop, alternative soul, art pop, rel-mnth:2014:may, never forget, owsla" role="button">
+Hundred Waters - The Moon Rang Like a Bell (2014-01-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/cbe0a818-aac1-45b4-9ca5-8f19d5666273/5966164242-500.jpg" data-tags="indie, dream pop, trip-hop, shoegaze, psychedelic rock, neo-psychedelia" role="button">
 Warpaint - Warpaint (2014-01-17)
 </li>
@@ -314,6 +311,9 @@ Lykke Li - I Never Learn (2014-05-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/e461c1b4-4eb5-46c2-8eb1-1b29e1befdf4/25780951101-500.jpg" data-tags="indie pop" role="button">
+TV Girl - French Exit (2014-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
 Lana Del Rey - Ultraviolence (2014-06-13)

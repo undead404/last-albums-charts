@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:51:01.461Z
+date: 2021-04-10T01:15:01.463Z
 title: "icelandic: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - ágætis byrjun (1999-06)](http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg "Sigur Rós - ágætis byrjun (1999-06)")
@@ -63,11 +63,11 @@ Emilíana Torrini - Love in the Time of Science (1999-10-28)
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
+<li data-cover="https://img.discogs.com/oEjFB4Vzyh0H81eVKtOUysKLpvk=/fit-in/200x177/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15128-001.jpg.jpg" data-tags="ambient" role="button">
+Manual - until tomorrow (2001-05-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/3264318d-417a-4a87-a8c0-14ef4f253d9a/3030442665-500.jpg" data-tags="icelandic" role="button">
 múm - Remixed (2001-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/441e153d-6ce6-3a75-aa4e-65f63b88d14f/3487982154-500.jpg" data-tags="electronic" role="button">
-Björk - Vespertine (2001-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/83a233fa-b0bc-4507-8aa8-71197e99ed62/19056063496-500.jpg" data-tags="ambient, icelandic" role="button">
 Hilmar Örn Hilmarsson & Sigur Rós - Angels of the Universe (2001-09-10)
@@ -162,6 +162,9 @@ Sigur Rós - Sæglópur (2006-04-19)
 <li data-cover="https://img.discogs.com/WPRCzLPSuyfzZ56xqCOkw03Jkdc=/fit-in/300x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-833908-1163511909.jpeg.jpg" data-tags="icelandic, instrumental, post rock" role="button">
 Amiina - Seoul (2006-11-07)
 </li>
+<li data-cover="https://img.discogs.com/s8aVCMGn4q6CLVizshsJj0dJGeg=/fit-in/510x787/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2522644-1531131413-5984.jpeg.jpg" data-tags="black metal, icelandic, orthodox black metal, icelandic black metal" role="button">
+Svartidauði - The Temple of Deformation (2006-12)
+</li>
 <li data-cover="https://img.discogs.com/uz6eXaC5ZQhnoCfrIv1Cma4-SgA=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-823373-1162463946.jpeg.jpg" data-tags="icelandic" role="button">
 múm - The Peel Session (2006-12-04)
 </li>
@@ -189,14 +192,14 @@ múm - Go Go Smear the Poison Ivy (2007-09-22)
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
 </li>
+<li data-cover="https://img.discogs.com/qijg0kIwSWBYnm5WGjApl-J-Dik=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2871936-1304971602.jpeg.jpg" data-tags="iceland" role="button">
+Yohanna - Butterflies And Elvis (2008)
+</li>
 <li data-cover="https://img.discogs.com/PEX6Bc0-lk0RupwrX6cCebRjxdA=/fit-in/510x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1339354-1210962480.jpeg.jpg" data-tags="new weird finland" role="button">
 Lau Nau - Nukkuu (2008-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c6c8607-a528-4497-bb7b-436914cf7512/2094787478-500.jpg" data-tags="pop, alternative" role="button">
-Emilíana Torrini - Me And Armini (2008-09-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="morr music, icelandic, indie folk" role="button">
 Sin Fang Bous - Clangour (2008-11-18)
@@ -212,9 +215,6 @@ Jónsi & Alex - Riceboy Sleeps (2009-04-06)
 </li>
 <li data-cover="https://img.discogs.com/D0fbc-WQ4qEYLor3tLQhKSlWmfo=/fit-in/549x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852381-1247864591.jpeg.jpg" data-tags="icelandic, yohanna" role="button">
 Yohanna - Is It True? (2009-08-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/1beaae9e-8f17-4281-a4e4-4fe1d38b17ef/16319634547-500.jpg" data-tags="scandinavian" role="button">
-múm - Sing Along to Songs You Don't Know (2009-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/c6a3c3b6-e077-4a88-b7ba-a462cdb5bd95/10640671739-500.jpg" data-tags="electronic" role="button">
 Bloodgroup - Dry Land (2009-10-02)
@@ -267,11 +267,11 @@ Sólstafir - Svartir Sandar (2011-10-14)
 <li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
 Of Monsters and Men - Into The Woods (2011-12-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/24bc24e8-0aaf-4d03-87c4-f07fff91245c/9243807208-500.jpg" data-tags="hip hop, rap" role="button">
-Shaban & Käptn Peng - Die Zähmung Der Hydra (2012-03-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
+</li>
+<li data-cover="https://img.discogs.com/S8K-5xhRhcfCc82vofWRdHBoPRw=/fit-in/344x344/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3782958-1344225024-5298.jpeg.jpg" data-tags="indie, ambient, experimental, psychedelic, drone, icelandic, dark ambient, drone ambient, album fav" role="button">
+Kira Kira - Feathermagnetik (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cac8253-f7bc-4446-951c-20d6b11af80b/5474906042-500.jpg" data-tags="electronic" role="button">
 Retro Stefson - Retro Stefson (2012-10-02)

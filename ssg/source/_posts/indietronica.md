@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:04:07.041Z
+date: 2021-04-10T01:23:06.985Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -21,8 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
+Primal Scream - Screamadelica (1991-09-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
+Stereolab - Dots and Loops (1997-09-22)
+</li>
 <li data-cover="https://img.discogs.com/oWBCFUnFN7s8FbJ0PLomJvbcQVs=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-23286-1460146787-8425.jpeg.jpg" data-tags="indietronica" role="button">
 Lali Puna - Tridecoder (1999-09-01)
+</li>
+<li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
+múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
 The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
@@ -30,8 +39,8 @@ The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/d60f109b-0f9e-3e1a-a6ac-7c20c8490089/3413286727-500.jpg" data-tags="electronic" role="button">
 Four Tet - Pause (2001-05-28)
 </li>
-<li data-cover="https://img.discogs.com/Ozh-5vUCPGjlsDXvwcn1H0SFHa8=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17495-1254460998.jpeg.jpg" data-tags="electronic, indietronica" role="button">
-Lali Puna - Scary World Theory (2001-10-15)
+<li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
+múm - Finally We are No One (2002-05-20)
 </li>
 <li data-cover="https://img.discogs.com/qnw7XijC2a8hHm73fJ0PWif6Ge0=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62910-1556200728-9015.jpeg.jpg" data-tags="indietronica" role="button">
 Ms. John Soda - No P. or D. (2002-10-07)
@@ -50,6 +59,9 @@ Ratatat - Ratatat (2004-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/24816bfc-a4a9-4639-a1be-a98334e1bd5d/7793302399-500.jpg" data-tags="indie" role="button">
 The Postal Service - We Will Become Silhouettes (2005-02-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/77b77c76-1b2d-41e9-bde0-b8d4ef6ec593/3646110240-500.jpg" data-tags="electronic" role="button">
+B. Fleischmann - The Humbucking Coil (2006-02-20)
 </li>
 <li data-cover="https://img.discogs.com/xYdBGPQlqc6610poNFiGPw4RnHk=/fit-in/537x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179457-1296356386.jpeg.jpg" data-tags="disco, electropop, pop, indie pop, electroclash, indietronica, discoverockult, makes me move my feets, dance and electronic, robot disco, liner recommends, nice album covers, dancing shoes on, electrofusion, daniels album collection, me time, suppie" role="button">
 Under The Influence of Giants - Under The Influence Of Giants (2006-08-08)
@@ -77,6 +89,9 @@ Caribou - Andorra (2007-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg" data-tags="indie, electronic" role="button">
 MGMT - Oracular Spectacular (2007-10-02)
+</li>
+<li data-cover="https://img.discogs.com/AYHG1vcH9CnCJjbb4-JnKv8fkFg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059944-1194659955.jpeg.jpg" data-tags="electronic, indietronica, awesome album art" role="button">
+The Octopus Project - Hello, Avalanche (2007-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d140c01c-906d-37e8-96ac-fffa45af8fcc/8490359162-500.jpg" data-tags="electronic, australian, indietronica" role="button">
 Pnau - Pnau (2007-11-10)
@@ -135,12 +150,6 @@ Ellie Goulding - Lights (2010-03-01)
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">
 Caribou - Swim (2010-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ce79023-6a71-4a92-bf65-eaa6213c4944/8377341613-500.jpg" data-tags="new wave" role="button">
-Future Islands - In Evening Air (2010-05-04)
-</li>
-<li data-cover="https://img.discogs.com/eVtiNJiNRoo5wGxgnDSeav_fskc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2377893-1280509615.jpeg.jpg" data-tags="electronic, electropop, indietronica, psychedelic, anticon, glitch hop, neo-psychedelia, rad cult, loudness war, neon sleaze" role="button">
-Tobacco - Maniac Meat (2010-05-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
@@ -155,6 +164,9 @@ White Lies - Bigger Than Us (2011-01-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/654b2ebd-a5e8-419e-bf56-70d9c79309fe/5526539361-500.jpg" data-tags="electronic, french" role="button">
+Yelle - Safari Disco Club (2011-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab72858b-f47f-4ad7-9e3a-3fd19d8944f5/6073355209-500.jpg" data-tags="indie pop, electropop" role="button">
 Metronomy - The English Riviera (2011-04-11)
@@ -171,20 +183,11 @@ Foster the People - Torches (2011-05-23)
 <li data-cover="http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg" data-tags="dubstep" role="button">
 SBTRKT - SBTRKT (2011-06-27)
 </li>
-<li data-cover="https://img.discogs.com/0ZPRLT6yZCcmbeRD0RYkuUiDkE4=/fit-in/590x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3031107-1312506095.jpeg.jpg" data-tags="future garage" role="button">
-Totally Enormous Extinct Dinosaurs - Trouble (2011-07-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/39df3094-f91b-4c4b-aa96-b1523db67172/3904999236-500.jpg" data-tags="dubstep, soul, 10s" role="button">
-Alex Clare - The Lateness Of the Hour (2011-07-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">
 M83 - Hurry Up, We're Dreaming (2011-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/36658539-f440-4696-b80f-3365d4cac746/6164467859-500.jpg" data-tags="trip-hop, indie, experimental, indie rock, indietronica, shoegaze, dream pop, neo-psychedelia, electronic rock, newgaze, my gang 11, de cumparat" role="button">
 Phantogram - Nightlife (2011-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
-Poliça - Give You The Ghost (2011-12-20)
 </li>
 <li data-cover="https://img.discogs.com/j75Xz87F9JNmAfcRod_agzSdvDI=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3523946-1432282788-6738.jpeg.jpg" data-tags="electronic, rock, british, indie rock, indietronica, shoegaze, 4ad, electronic rock" role="button">
 The Big Pink - Future This (2012-01-16)
@@ -203,6 +206,9 @@ Grimes - Visions (2012-02-20)
 </li>
 <li data-cover="https://img.discogs.com/t3KRv6WzuKCUFbxecGzvccvCBAc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3494090-1546861444-4638.jpeg.jpg" data-tags="swedish, indie" role="button">
 Miike Snow - Happy To You (2012-03-13)
+</li>
+<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
+iamamiwhoami - kin (2012-06-06)
 </li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
@@ -254,9 +260,6 @@ Charli XCX - True Romance (2013-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/8038465b-116e-4ba2-92fd-1e78459908fe/4241101206-500.jpg" data-tags="electronic" role="button">
-Crystal Fighters - Cave Rave (2013-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/55dbee72-87e6-4225-8bb9-03173f76ba5c/4877089953-500.jpg" data-tags="indie pop" role="button">
 Capital Cities - In a Tidal Wave of Mystery (2013-06-04)
@@ -314,9 +317,6 @@ Bleachers - Strange Desire (2014-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e3920ad-3e0d-4948-8f17-fd44e7b36fcc/7819675340-500.jpg" data-tags="indietronica" role="button">
 The Griswolds - Be Impressive (2014-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6fadf39-4dae-4ef5-a4fd-b9cf5272534e/8684765155-500.jpg" data-tags="chillout, electronic, electronica, indie, alternative, indie pop, dubstep, dance, new wave, dance-pop, psychedelic pop, indietronica, trip hop, noise pop, dream pop, synthpop, alternative pop, alternative dance, trap, chillwave, neo-psychedelia, bubblegum pop, post-dubstep, art pop, urban pop, intelligent dance, idm pop" role="button">
-Slow Magic - How To Run Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/27a438ce-dc97-446c-9855-fd1543807ce3/8637388968-500.jpg" data-tags="alternative, indietronica" role="button">
 Andrew McMahon in the Wilderness - Andrew McMahon In The Wilderness (2014-10-14)

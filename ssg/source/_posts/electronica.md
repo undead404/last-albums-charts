@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:03:01.450Z
+date: 2021-04-10T01:03:07.008Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -62,6 +62,9 @@ Massive Attack - Mezzanine (1998-04-17)
 </li>
 <li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
+</li>
+<li data-cover="https://img.discogs.com/Kbzc-pUTQrxLWHcbM20uuukPyfg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071075-1189923687.jpeg.jpg" data-tags="trip-hop" role="button">
+UNKLE - Psyence Fiction (1998-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/330c3637-e90a-4dc6-8f1f-2a08b367702a/13513499886-500.jpg" data-tags="electronica, alternative, indie pop, indie rock, driving music, original, innovative, 90's, shore, hyllan i mitt huvud, excellent albums, sveglia dolce, encenacoes sobre o tema, dormindo na praia, i will now proceed to sell three copies of  the three eps by the beta band, scottish ergo the best, memories of undergrad, indigolab, le pietre miliari: ovvero come imparai a non preoccuparmi e ad amare la musica" role="button">
 The Beta Band - The Three E.P.'s (1998-09-28)
@@ -216,9 +219,6 @@ Pendulum - In Silico (2008-05-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c44a3d03-a9c5-446f-aa95-c09d1d060f4a/11914301771-500.jpg" data-tags="indie, indie pop, electronica, dream pop, chairlift" role="button">
-Chairlift - Does You Inspire You (2008-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
 </li>
@@ -236,6 +236,9 @@ Empire of the Sun - We Are The People (2009-05-31)
 </li>
 <li data-cover="https://img.discogs.com/C00eHcKQgYMinrXXJV9pdNCmVDs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057960-1612983400-2260.jpeg.jpg" data-tags="indie pop, electropop" role="button">
 Miike Snow - Miike Snow (2009-06-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/d8552693-7f80-4fe6-981b-a988bfc47a43/4013850564-500.jpg" data-tags="electronica" role="button">
+Desire - II (2009-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
@@ -317,8 +320,5 @@ Glass Animals - ZABA (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">
 Odesza - In Return (2014-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
-Calvin Harris - Motion (2014-10-31)
 </li>
 </ol>

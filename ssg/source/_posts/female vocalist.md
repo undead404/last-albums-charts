@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:52:01.499Z
+date: 2021-04-10T01:39:07.007Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Shakira - She Wolf (2009-10-09)](http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg "Shakira - She Wolf (2009-10-09)")
@@ -24,9 +24,6 @@ _________________
 <li data-cover="http://coverartarchive.org/release/96a3712c-34d7-4572-b1f1-57386b35900d/11361311426-500.jpg" data-tags="rock, female vocalist, bonnie tyler" role="button">
 Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
 </li>
-<li data-cover="http://coverartarchive.org/release/decbc9c9-02bb-4d2c-8998-90775a2266e8/13474985144-500.jpg" data-tags="hard rock, female vocalist, 80s, glam metal, heavy metal, hair metal" role="button">
-Lita Ford - Lita (1988-02-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
 Tori Amos - Little Earthquakes (1992-01-13)
 </li>
@@ -44,9 +41,6 @@ Sarah McLachlan - Surfacing (1997-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/3778603775-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Homogenic (1997-09-22)
-</li>
-<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e242203e-fa5f-401e-ade9-ff12907ccd93/4017146272-500.jpg" data-tags="pop, celine dion" role="button">
 Céline Dion - Let's Talk About Love (1997-11-14)
@@ -72,9 +66,6 @@ Shakira - Laundry Service (2001-11-13)
 <li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
 Regina Spektor - Songs (2002)
 </li>
-<li data-cover="http://coverartarchive.org/release/14b8ae54-46c1-47f7-be42-de959ddc7ee7/3814606168-500.jpg" data-tags="folk, female vocalists" role="button">
-Joanna Newsom - Walnut Whales (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
 </li>
@@ -90,6 +81,9 @@ Avril Lavigne - Let Go (2002-06-04)
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
+The Cardigans - Long Gone Before Daylight (2003-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/6d0597e0-d564-4a07-9822-9ace6a80c538/8316333978-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Thankful (2003-04-15)
 </li>
@@ -98,6 +92,9 @@ Goldfrapp - Black Cherry (2003-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
+Black Eyed Peas - Elephunk (2003-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/aec0aab6-e302-449e-8bd4-f1947b15297e/5686176057-500.jpg" data-tags="pop" role="button">
 Jessica Simpson - In This Skin (2003-08-19)
@@ -132,9 +129,6 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 <li data-cover="https://img.discogs.com/ZB9c7-tmuK9P6zRfd92W2_UF2k0=/fit-in/600x858/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5419521-1602094564-5998.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
 Mariah Carey - The Emancipation of Mimi (2005-04-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/e721f43f-bac5-4459-a318-f47fe57b507a/15009927886-500.jpg" data-tags="chill, indie rock, female vocalist" role="button">
-Maria Taylor - 11:11 (2005-05-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
 </li>
@@ -149,6 +143,9 @@ Marisa Monte - Infinito Particular (2006-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6c61472-2383-4be6-b3ba-2a52d0942622/15851529259-500.jpg" data-tags="jazz, female vocalist, nina simone" role="button">
+Nina Simone - The Very Best Of Nina Simone (2006-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8fc46b2-ee63-4e41-8203-296e370f1168/10361326815-500.jpg" data-tags="singer-songwriter" role="button">
 Ingrid Michaelson - Girls and Boys (2006-05-16)
@@ -218,6 +215,9 @@ Lykke Li - Youth Novels (2008-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/03471ca7-aeee-40fa-ba62-49a09c6a451b/24105616589-500.jpg" data-tags="pop, singer-songwriter, female vocalist" role="button">
+Charlotte Sometimes - Waves And The Both Of Us (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
 Priscilla Ahn - A Good Day (2008-06-10)

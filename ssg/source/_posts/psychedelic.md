@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:29:01.439Z
+date: 2021-04-10T01:40:01.424Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -162,6 +162,9 @@ Infected Mushroom - Converting Vegetarians (2003-04-09)
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
+Infected Mushroom - IM the Supervisor (2004-09-10)
+</li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
 </li>
@@ -317,8 +320,5 @@ Mac DeMarco - Salad Days (2014-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/08b57c0b-8558-4253-98e4-8728adc26e1d/8666562689-500.jpg" data-tags="hypnagogic pop, experimental, psychedelic" role="button">
-Ariel Pink - pom pom (2014-11-17)
 </li>
 </ol>

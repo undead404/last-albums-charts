@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:54:01.503Z
+date: 2021-04-10T01:12:02.187Z
 title: "electro: 100 albums you must listen to before you die"
 ---
 ![Digitalism - Idealism (2007-05-09)](https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg "Digitalism - Idealism (2007-05-09)")
@@ -54,11 +54,20 @@ Ladytron - Light & Magic (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
 </li>
+<li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
+Massive Attack - Special Cases (2003-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/e01caaab-6482-4134-abde-84acb3d5a0ae/13381384015-500.jpg" data-tags="electronic, electroclash, synthpop, electro, electro-pop" role="button">
 Vive La Fête - Nuit Blanche (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8e06d12-4721-44ba-aa4e-d64d217f8b3e/10083827034-500.jpg" data-tags="electronic, instrumental" role="button">
 Ratatat - Ratatat (2004-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/604300f7-1e90-490e-b6d0-cb4e7122fc26/16982458552-500.jpg" data-tags="electro, electroclash, house" role="button">
+Felix da Housecat - Devin Dazzle and the Neon Fever (2004-04-28)
+</li>
+<li data-cover="https://img.discogs.com/OimAbQe6hYEVuD2k_WvxSCv6MDM=/fit-in/500x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1483251-1338738012-2908.jpeg.jpg" data-tags="electronic" role="button">
+Soulwax - Any Minute Now (2004-08-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8b76cb7-43db-4b7d-9eac-af54fd564b31/12289706070-500.jpg" data-tags="electronica, electro, dance, chiptune, bitpop, sweden, synth-pop, blip blop, mmmmm, bit, svenskprov, najjs" role="button">
 Slagsmålsklubben - Sagan om konungens årsinkomst (2004-10-15)
@@ -153,6 +162,9 @@ Calvin Harris - I Created Disco (2007-06-18)
 <li data-cover="http://coverartarchive.org/release/e446b85a-5ccb-477f-ba6d-783edd975c3e/3817923382-500.jpg" data-tags="electropop, electronica" role="button">
 New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/d140c01c-906d-37e8-96ac-fffa45af8fcc/8490359162-500.jpg" data-tags="electronic, australian, indietronica" role="button">
+Pnau - Pnau (2007-11-10)
+</li>
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
 The Asteroids Galaxy Tour - Fruit (2008)
 </li>
@@ -203,9 +215,6 @@ Patrick Wolf - The Bachelor (2009-06-01)
 </li>
 <li data-cover="https://img.discogs.com/gLYg2pa_TMc8Acxk9arwQUDPZTk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2072263-1262405516.jpeg.jpg" data-tags="electro" role="button">
 Basement Jaxx - Raindrops (2009-06-21)
-</li>
-<li data-cover="https://img.discogs.com/JGI_HZRcij2uyyIWQjfahZcIo8I=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1910527-1261146630.jpeg.jpg" data-tags="00s" role="button">
-Cobra Starship - Hot Mess (2009-07-07)
 </li>
 <li data-cover="https://img.discogs.com/_gMnPujlN9AT4zUPw0Ct1BHZNsQ=/fit-in/320x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876353-1249499089.jpeg.jpg" data-tags="electronic" role="button">
 Amanda Blank - I Love You (2009-08-04)
@@ -258,9 +267,6 @@ Mark Ronson & The Business Intl - Record Collection (2010-09-24)
 <li data-cover="https://img.discogs.com/k3KyQEj49c92MtBSqfa_Qa7lJGY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512151-1458495380-1097.jpeg.jpg" data-tags="dubstep" role="button">
 Skrillex - Scary Monsters and Nice Sprites (2010-10-22)
 </li>
-<li data-cover="https://img.discogs.com/0ZPRLT6yZCcmbeRD0RYkuUiDkE4=/fit-in/590x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3031107-1312506095.jpeg.jpg" data-tags="future garage" role="button">
-Totally Enormous Extinct Dinosaurs - Trouble (2011-07-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/7f49326e-aceb-4fc6-a1ec-671a0ef14eac/6441724282-500.jpg" data-tags="dubstep" role="button">
 Nero - Welcome Reality (2011-08-12)
 </li>
@@ -303,9 +309,6 @@ Moderat - II (2013-08-02)
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/93c4a606-eb1b-4039-9e5d-c3be552ec0dc/5806199741-500.jpg" data-tags="techno" role="button">
-Gesaffelstein - Aleph (2013-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/f74c6ec2-7319-406b-9910-a6c3fe940176/9051815709-500.jpg" data-tags="rnb, pop" role="button">
 Beyoncé - Beyoncé (2013-12-13)
 </li>
@@ -314,9 +317,6 @@ Ten Walls - Walking With Elephants (2014-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c2d74e1-282f-4199-8231-6cc7e86ac46d/7707710899-500.jpg" data-tags="edm" role="button">
 Tiësto - A Town Called Paradise (2014-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
-Calvin Harris - Motion (2014-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/a472e126-cc26-4b38-841d-ace59d30298e/9216364213-500.jpg" data-tags="electronic, electropop, pop, dance" role="button">
 David Guetta - Listen (2014-11-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:21:01.431Z
+date: 2021-04-10T01:31:06.881Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -41,6 +41,9 @@ Blue Cheer - Vincebus Eruptum (1968-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
 Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/36205485-616a-4eb2-a109-c86de5eb5db6/1338198895-500.jpg" data-tags="blues rock" role="button">
+Jeff Beck - Truth (1968-08)
 </li>
 <li data-cover="https://img.discogs.com/7Gx_UZPGl_XLXQ-gUknH5025N_Q=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772821-1258482067.jpeg.jpg" data-tags="60s, psychedelic rock, classic rock, rock" role="button">
 The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
@@ -153,12 +156,6 @@ The Doors - The Doors (1988)
 <li data-cover="https://img.discogs.com/VJt5Q6CCIHtpsGDaKnvRZHhRhn8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4043504-1494443705-7845.jpeg.jpg" data-tags="blues rock, classic rock, 60s" role="button">
 Joe Cocker - With A Little Help From My Friends (1988-01-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/4567b29b-ab25-4076-8154-f05306a2c9aa/17137471061-500.jpg" data-tags="hard rock, glam metal" role="button">
-Cinderella - Long Cold Winter (1988-07-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/656243aa-0033-448c-91e1-ae50a0f5ac0d/16084924681-500.jpg" data-tags="heavy metal, hard rock" role="button">
-Danzig - Danzig (1988-08-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/b3268008-89d0-365b-9900-105250b25c81/6867563168-500.jpg" data-tags="blues rock" role="button">
 Eric Clapton - Journeyman (1989-10-23)
 </li>
@@ -236,6 +233,9 @@ The Rolling Stones - A Bigger Bang (2005-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
 John Mayer Trio - Try! (2005-11-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
+The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd4537c4-4faf-4b20-b4eb-e4807c7d085a/26946880719-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Magic Potion (2006-09-11)

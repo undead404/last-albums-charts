@@ -1,16 +1,16 @@
 ---
-date: 2021-04-06T17:28:01.379Z
+date: 2021-04-10T01:17:01.396Z
 title: "death: 100 albums you must listen to before you die"
 ---
 ![Soap&amp;Skin - Narrow (2012-02-10)](http://coverartarchive.org/release/26a6d832-8412-4776-8169-85a0dbd8513b/5257873633-500.jpg "Soap&Skin - Narrow (2012-02-10)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/19cab610-4790-4342-9e1e-b8c6915a5486/21497182399-500.jpg" data-tags="90s" role="button">They Might Be Giants - John Henry (1994-09-13)</li>
 <li data-cover="https://img.discogs.com/AbOZtsdj39rFsDoZ3eEiWLrGh0Y=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10844672-1508180070-4387.jpeg.jpg" data-tags="death metal, progressive death metal" role="button">Death - The Sound of Perseverance (1998-09-15)</li>
+<li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">Eels - Electro-Shock Blues (1998-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/e022d75b-efad-4e5d-a192-970888da9532/7927188368-500.jpg" data-tags="indie, folk, acoustic" role="button">The Mountain Goats - The Coroner's Gambit (2000-10-17)</li>
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">Eagles of Death Metal - Death By Sexy (2006-04-11)</li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">Sturm und Drang - Learning To Rock (2007-05-30)</li>
 <li data-cover="http://coverartarchive.org/release/215168e7-8c33-4179-8fb0-3d611e0b3ef9/3366854262-500.jpg" data-tags="canadian, death, 2000s, debut album, never, die, studio album, legends never die, the dreadnoughts, k1r7m, golden tee records" role="button">The Dreadnoughts - Legends Never Die (2007-07)</li>
 <li data-cover="http://coverartarchive.org/release/3ff4e6a8-52a9-49a5-b264-986a772fdddf/996842836-500.jpg" data-tags="melodic death metal, death metal, blacker than the blackest black times infinity" role="button">Dethklok - The Dethalbum (2007-09-25)</li>
-<li data-cover="https://img.discogs.com/Fuj38Pi-t1r4jE78ZjsWOf5oY1U=/fit-in/438x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2758889-1299748746.jpeg.jpg" data-tags="indie" role="button">Starfucker - Reptilians (2011-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">The Roots - Undun (2011-12-05)</li>
 <li data-cover="http://coverartarchive.org/release/26a6d832-8412-4776-8169-85a0dbd8513b/5257873633-500.jpg" data-tags="neoclassical" role="button">Soap&Skin - Narrow (2012-02-10)</li>
 <li data-cover="http://coverartarchive.org/release/847650f3-7405-4073-8414-e49d9d59a8cc/5685580527-500.jpg" data-tags="experimental hip hop" role="button">Death Grips - Government Plates (2013-11-13)</li>
@@ -21,26 +21,14 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/rgRyAKI8DUhrlKcUD0KtNUTC5u4=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2243100-1299316097.jpeg.jpg" data-tags="avant-garde" role="button">
-Nico - The End (1974)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="industrial" role="button">
-Throbbing Gristle - 20 Jazz Funk Greats (1979-12)
-</li>
-<li data-cover="https://img.discogs.com/jZzommZBP9LrWLeHhKFlZpNyM_E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5847955-1404373402-5216.jpeg.jpg" data-tags="instrumental, ambient, experimental, queen, epic, choral, world, post-punk, gothic, spooky, haunting, avant-garde, scary, progressive, freak folk, satanic, neo-classical, halloween, ritual, mindblowing, challenging, crowley" role="button">
-The Birthday Party - Mutiny (1983-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/3e5635ee-e984-454c-82e9-f20e1a0ee362/9658402466-500.jpg" data-tags="death metal" role="button">
 Napalm Death - Harmony Corruption (1990-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/763bcd10-7df4-44c6-8e1f-7c0655993016/16162382442-500.jpg" data-tags="hardcore, canadian, death, punk rock, sex, 1980s, insanity, slash, alternative tentacles, nomeansno, compilation album, the cream, dmtr likes this album, you kill me, sex mad, sex mad - you kill me, k1r7m, pronoun" role="button">
+<li data-cover="http://coverartarchive.org/release/763bcd10-7df4-44c6-8e1f-7c0655993016/16162382442-500.jpg" data-tags="hardcore, canadian, death, punk rock, 1980s, insanity, slash, alternative tentacles, nomeansno, compilation album, the cream, dmtr likes this album, you kill me, sex mad, sex mad - you kill me, k1r7m, pronoun" role="button">
 NoMeansNo - Sex Mad / You Kill Me (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/1166ee6d-1210-43a4-93c5-8912c702b4ef/19976439853-500.jpg" data-tags="death metal" role="button">
 Pan.Thy.Monium - Dawn Of Dreams (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/27ed1dbf-af54-4d38-95b5-79d25c208b60/23499836788-500.jpg" data-tags="90s" role="button">
-Lou Reed - Magic and Loss (1992-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/bfad3f4f-9b39-46fe-a80e-33a30354a579/4868974701-500.jpg" data-tags="oriental metal" role="button">
 Orphaned Land - Sahara (1994)
@@ -50,9 +38,6 @@ They Might Be Giants - John Henry (1994-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a892e0b9-743c-305f-818c-0140426f38ff/3171610927-500.jpg" data-tags="black metal" role="button">
 Rotting Christ - Non Serviam (1994-10-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/34364430-b04f-386d-923a-a4b43270b545/10906440026-500.jpg" data-tags="illbient, experimental, dreamy" role="button">
-DJ Spooky - Songs of a Dead Dreamer (1996-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c399f8d5-43a8-3e1a-98b7-0a6a5bb6ea52/2153622469-500.jpg" data-tags="ambient, atmospheric, world music" role="button">
 Dead Can Dance - Spiritchaser (1996-06-03)
@@ -65,6 +50,9 @@ Metallica - Acoustic Metal (1997)
 </li>
 <li data-cover="https://img.discogs.com/gFA9GwGsC17tIorRfffcnmwGwwE=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-663168-1144930132.jpeg.jpg" data-tags="melodic death metal, death, atmospheric, death metal, female vocals, blackened death metal, norwegian black metal, atmospheric black metal, melodic death, season of mist" role="button">
 Bloodthorn - In the Shadow of Your Black Wings (1997-10-13)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip hop, 60s, hard, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, idm, singer, germany, singers, energetic, death, surreal, improvisation, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, female vocalist, powerpop, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, loneliness, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, ponies, rac, loneliness after dusk, friendsofthekingofrummelpop, wonderland, czech, good lyrics, vulgar, praise, utada hikaru, tech, softcore, seiyuu, surrealist, hard trance, vagina, martial industrial, martial, always, violinists" role="button">
+新居昭乃 - そらの庭 (1997-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/29d7be2c-fc1f-4f8d-a341-8f541cfe2dbe/9262676171-500.jpg" data-tags="melodic death metal" role="button">
 Mercenary - First Breath (1998-01-12)
@@ -90,8 +78,11 @@ Unexpect - Utopia (1999-07-01)
 <li data-cover="https://img.discogs.com/eCXTquVqzm8QtZRecLGdbFKMX8c=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-725204-1394134728-4057.jpeg.jpg" data-tags="death metal" role="button">
 Hollenthon - Domus Mundi (1999-07-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, schlager, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, nouvelle scene francaise, j-pop, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech, good lyrics, vulgar, praise, utada hikaru" role="button">
-新居昭乃 - 降るプラチナ (2000-05-24)
+<li data-cover="http://coverartarchive.org/release/6fdba4c9-b01f-464a-b5b9-f159a79b603c/14032709316-500.jpg" data-tags="black metal, death metal, black death metal" role="button">
+Benighted - Benighted (2000)
+</li>
+<li data-cover="https://img.discogs.com/thqyxtfNcl4libEDpz-h3LLRLeg=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-167889-1446465002-9865.jpeg.jpg" data-tags="industrial death metal, cybergrind, death metal, brutal death metal" role="button">
+The Berzerker - The Berzerker (2000-04-10)
 </li>
 <li data-cover="https://img.discogs.com/T83gWLxB82UyuguJ1Wg4QQ0LwN4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9850972-1487362099-4984.jpeg.jpg" data-tags="death metal" role="button">
 Cannibal Corpse - Live Cannibalism (2000-09-21)
@@ -102,14 +93,14 @@ The Mountain Goats - The Coroner's Gambit (2000-10-17)
 <li data-cover="https://img.discogs.com/2nFR611ZN3rcXnw1SE3kDjVg-5U=/fit-in/600x413/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9409314-1480069976-7900.jpeg.jpg" data-tags="death metal" role="button">
 Six Feet Under - Graveyard Classics (2000-10-24)
 </li>
-<li data-cover="https://img.discogs.com/ag1O-7m2cC2gAg6oZdYNIUExP5w=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1225746-1202024990.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/OUvXwQG8QWBxxCtbl-wtvM07xsI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-483903-1162396506.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Cryptopsy - And Then You'll Beg (2000-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/0000c9df-90a7-4755-a01e-f0560524103f/4746837946-500.jpg" data-tags="death metal, technical death metal" role="button">
+Psycroptic - The Isle of Disenchantment (2001-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e81019d2-1126-43d0-87b0-aaf257c0e6e0/14084788634-500.jpg" data-tags="gothic metal, melodic black metal" role="button">
 Vampiria - Among Mortals (2001-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/d70a2255-7a9b-4c72-a5be-232f7e1fbe71/7818746059-500.jpg" data-tags="electroclash, electronic, electro" role="button">
-ADULT. - Resuscitation (2001-04-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/52d1c18b-7e00-4d59-90aa-ae41d5f9c8ca/7844092774-500.jpg" data-tags="viking metal" role="button">
 Ancient Rites - Dim Carcosa (2001-05-16)
@@ -126,14 +117,14 @@ Estradasphere - Buck Fever (2001-09-18)
 <li data-cover="https://img.discogs.com/xzdi9DCoO817ow8GGTey9h2b5hI=/fit-in/385x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14174102-1607632501-6538.jpeg.jpg" data-tags="death metal" role="button">
 Deicide - In Torment In Hell (2001-09-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, krautrock, idm, singer, germany, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, breakbeat, insane, oldies, smooth, lady gaga, reggaeton, digitalis, meditation, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, modern country, gothic rock, warm, cold, iowa, speedcore, princess, folklore, nouvelle scene francaise, guitar hero, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides, remixes, bath, poor, bad girl, naughty, mary, wild, ponies, i love this, rac, loneliness after dusk, sonicuniverse, friendsofthekingofrummelpop, wonderland, czech" role="button">
-新居昭乃 - RGB (2002-04-24)
-</li>
 <li data-cover="https://img.discogs.com/yoReaCutFacqZjwWVBa3UFbT2Tc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-266328-1298532291.jpeg.jpg" data-tags="grindcore, death metal, industrial death metal" role="button">
 The Berzerker - Dissimulate (2002-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/183ab71e-0b90-4ab2-bd39-64144e9bca59/15348016163-500.jpg" data-tags="experimental, ambient" role="button">
 Coil - ...And the Ambulance Died in His Arms (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/5944fa5c-aaaf-444b-8850-2b26c214b47a/24127484514-500.jpg" data-tags="death metal" role="button">
+Misery Index - Retaliate (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/95184121-cb65-4d0e-a32b-f97215d41137/3440293326-500.jpg" data-tags="death metal, black metal" role="button">
 Akercocke - Choronzon (2003-10-20)
@@ -174,11 +165,8 @@ The Red Chord - Clients (2005-05-17)
 <li data-cover="http://coverartarchive.org/release/35e1877b-0d0c-43ca-8b04-1b813b904a4d/4766265718-500.jpg" data-tags="hardcore, epitaph" role="button">
 Death By Stereo - Death For Life (2005-06-06)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="marilyn manson, male, hip hop, 60s, hard, grindcore, minnesota, power pop, intro, contemporary folk, quiet storm, contemporary, techno, schlager, norwegian, krautrock, idm, singer, germany, relaxed, singers, energetic, death, surreal, improvisation, mashup, jazz funk, drone, space, remix, contralto, fetish, female songwriter, breakbeat, insane, oldies, smooth, gangsta rap, lady gaga, video game, reggaeton, digitalis, japanese rock, meditation, harmonica, german, space music, indie folk, super, kids, b-side, jazz rock, male vocalists, female vocalist, powerpop, dj, not indie, activist, modern country, gothic rock, warm, mala, cold, iowa, speedcore, diy, princess, folklore, nouvelle scene francaise, guitar hero, norway, ndw, indie disco, musik, klassik, perlen deutschsprachiger popmusik, hawaii, loneliness, trap, chaotic hardcore, b-sides" role="button">
-新居昭乃 - Sora No Uta (2005-11-23)
-</li>
-<li data-cover="https://img.discogs.com/1m1GyhSqwwOLKaGr0Mg48KY8Ke4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1582633-1364138329-1302.jpeg.jpg" data-tags="pop" role="button">
-Antti Tuisku - New York (2006)
+<li data-cover="http://coverartarchive.org/release/8a4bdf54-7f11-4715-930c-607185bdeec1/18945015403-500.jpg" data-tags="experimental, metal" role="button">
+Carnival in Coal - Collection Prestige (2005-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6df87a44-4c0d-4823-91c7-3ff08fc22581/10478821251-500.jpg" data-tags="death metal, technical death metal, progressive death metal, brutal death metal" role="button">
 Pitbulls in the Nursery - Lunatic (2006-03)
@@ -189,8 +177,14 @@ Mylidian - Birth of the prophet (2006-04-10)
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">
 Eagles of Death Metal - Death By Sexy (2006-04-11)
 </li>
+<li data-cover="https://img.discogs.com/Jspsx5vV5VH8nnoSJtLJuekoFXw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1550707-1227734553.jpeg.jpg" data-tags="metalcore" role="button">
+Cataract - Kingdom (2006-05-19)
+</li>
 <li data-cover="https://img.discogs.com/kOY1YObEVN70-JU9ZzzP_OstxIU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1182770-1198984181.jpeg.jpg" data-tags="progressive metal, melodic death metal" role="button">
 Into Eternity - The Scattering Of Ashes (2006-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/6f142467-5f8a-49a0-9c65-e660f7160bc2/27022009880-500.jpg" data-tags="melodic death metal" role="button">
+Dark Lunacy - The Diarist (2006-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d8e6041-9f4b-4553-ac4d-cf997e29598a/21893021794-500.jpg" data-tags="metalcore, blackcore" role="button">
 Abigail Williams - Legend (2006-10-03)
@@ -210,23 +204,17 @@ In Vain - The Latter Rain (2007-03-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-hardcore" role="button">
 Thema Eleven - the great misanthrope (2007-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/4bc3ef86-36dd-4546-96ff-c644156b7b67/5384639454-500.jpg" data-tags="finnish, power metal, tokio hotel" role="button">
-Ari Koivunen - Fuel For The Fire (2007-05-24)
-</li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">
-Sturm und Drang - Learning To Rock (2007-05-30)
-</li>
 <li data-cover="https://img.discogs.com/q33gHIZupz85w9p5WcFMDrLGfp8=/fit-in/210x212/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2376765-1280434846.jpeg.jpg" data-tags="death metal" role="button">
 Crionics - Neu Throne (2007-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/215168e7-8c33-4179-8fb0-3d611e0b3ef9/3366854262-500.jpg" data-tags="canadian, death, 2000s, debut album, never, die, studio album, legends never die, the dreadnoughts, k1r7m, golden tee records" role="button">
 The Dreadnoughts - Legends Never Die (2007-07)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
+<li data-cover="https://img.discogs.com/XZ9I6yG3qKaSNRVHok4n6owUPj8=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3390854-1328867430.jpeg.jpg" data-tags="deathcore" role="button">
 The Red Chord - Prey For Eyes (2007-07-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/11d79e6c-e76c-4e77-82e7-22acd02f8c8a/5367819571-500.jpg" data-tags="pop, finnish, grim, nsbm" role="button">
-Anna Abreu - Anna Abreu (2007-08-16)
+<li data-cover="https://img.discogs.com/PCiC-mNpzTwZRu6fd-hL1ekvNf4=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5469450-1394158324-4902.jpeg.jpg" data-tags="death, thrash metal, thrash, justice, destruction, myspace, rage" role="button">
+Bonded By Blood - Extinguish The Weak (2007-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sebnem ferah" role="button">
 Şebnem Ferah - 10 Mart 2007 İstanbul Konseri (2007-09-06)
@@ -236,6 +224,12 @@ Alchemist - Tripsis (2007-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ff4e6a8-52a9-49a5-b264-986a772fdddf/996842836-500.jpg" data-tags="melodic death metal, death metal, blacker than the blackest black times infinity" role="button">
 Dethklok - The Dethalbum (2007-09-25)
+</li>
+<li data-cover="https://img.discogs.com/pfGDAfazRa44hLBJQ_Ae9zdaDBs=/fit-in/600x1035/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12228605-1530957549-7625.jpeg.jpg" data-tags="heavy metal, metal, progressive metal, gothic, death, spain, time, fight, bilbao, against, fight against time" role="button">
+Waldheim - Fight Against Time (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/ae56a904-e21f-4243-9262-ab45262bfc4d/945996864-500.jpg" data-tags="funeral doom metal" role="button">
+Ataraxie - Anhédonie (2008-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1dd31f4e-e31d-4b02-98e4-51c0e8d57d4f/2053928047-500.jpg" data-tags="noise, black metal, experimental, death, doom, netherlands, bondage, esoteric, torture, occultism" role="button">
 Gnaw Their Tongues - For All Slaves... A Song of False Hope (2008-09)
@@ -258,8 +252,17 @@ Amogh Symphony - Abolishing the Obsolete System (2009-04-26)
 <li data-cover="http://coverartarchive.org/release/98655166-b00e-4fe8-8ee1-bd36d6e85917/7576589725-500.jpg" data-tags="brutal death metal" role="button">
 Devourment - Unleash the Carnivore (2009-06-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/7f8823c6-aa02-497b-b382-c2e11e91c68e/5950054189-500.jpg" data-tags="drone metal, black industrial, black noise, drone black metal" role="button">
+Gnaw Their Tongues - All the Dread Magnificence of Perversity (2009-08)
+</li>
+<li data-cover="https://img.discogs.com/PO79Sc1VokC14TEmDNwik47P-AI=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3484942-1332235983.jpeg.jpg" data-tags="experimental, death, death metal, symphonic, symphonic metal, brutal technical death metal, brutal death metal, neoclassical, brutal death" role="button">
+Scrambled Defuncts - Souls Despising The God (2009-12-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/59ec2c4e-4ef6-4217-97ad-c47ef9ef0c70/11584970612-500.jpg" data-tags="progressive death metal, progressive metal" role="button">
 In Vain - Mantra (2010-01-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/e71e3005-4a4e-43b2-99ad-f1fc0da36760/1327480853-500.jpg" data-tags="death, death metal, brutal death metal, brutal death, fuck my brain off" role="button">
+Syphilic - Behind Bars (2010-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d798f53-7089-49f8-a211-57f4e5af79a5/928065722-500.jpg" data-tags="death metal" role="button">
 Aeon - Path Of Fire (2010-05-25)
@@ -272,9 +275,6 @@ The Dreadnoughts - Polka's Not Dead (2010-09-27)
 </li>
 <li data-cover="https://img.discogs.com/uTDD97vdR2SyF_oTkHwK8JncVrg=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8653046-1465975233-8729.jpeg.jpg" data-tags="melodic death metal" role="button">
 Children of Bodom - Relentless Reckless Forever (2011-03-02)
-</li>
-<li data-cover="https://img.discogs.com/Fuj38Pi-t1r4jE78ZjsWOf5oY1U=/fit-in/438x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2758889-1299748746.jpeg.jpg" data-tags="indie" role="button">
-Starfucker - Reptilians (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbcc55db-6de3-450e-85c9-3212151d84da/28536801227-500.jpg" data-tags="melodic death metal, symphonic metal, symphonic death metal" role="button">
 MaYaN - Quarterpast (2011-05-20)

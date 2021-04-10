@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:47:01.473Z
+date: 2021-04-10T01:04:01.419Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -87,9 +87,6 @@ Sonic Youth - Dirty (1992-07-20)
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
 </li>
-<li data-cover="https://img.discogs.com/lwssh4XZu4DPMveqkudpCG5BIEM=/fit-in/599x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378029-1199192003.jpeg.jpg" data-tags="math rock, emo, indie rock, post-rock, experimental rock, instrumental rock, energetic, searching, passionate, intense, aggressive, fiery, uncompromising, dramatic, complex, american underground, manic, harsh, unsettling, theatrical, steve albini, visceral, difficult, urgent, austere, i need, brian paulson" role="button">
-Slint - Slint (1994-08-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/73503b2d-538f-431b-9ff4-2c6af04f7beb/10401957300-500.jpg" data-tags="post-punk, industrial" role="button">
 Swans - The Great Annihilator (1995-01-23)
 </li>
@@ -107,6 +104,9 @@ Ween - The Mollusk (1997-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/db2b85d1-912d-3965-bd5e-7c9dc18e2af1/22029271309-500.jpg" data-tags="post-rock" role="button">
 Tortoise - TNT (1998-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/70315537-2635-469c-bba6-267731b794ae/2968759370-500.jpg" data-tags="alternative metal" role="button">
+CKY - Volume 1 (1999-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
@@ -225,9 +225,6 @@ TV on the Radio - Dear Science (2008-09-22)
 <li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
 Gang Gang Dance - Saint Dymphna (2008-10-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/3bb79800-0644-4e8d-8274-0775a74de3ad/3302404966-500.jpg" data-tags="experimental" role="button">
-Dan Deacon - Bromst (2009-03-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
@@ -255,6 +252,9 @@ Portishead - Chase the Tear (2009-12-09)
 <li data-cover="https://img.discogs.com/-8aBOmFQ8fB3TokkT7RCF20_3uk=/fit-in/471x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7332044-1439106554-9938.jpeg.jpg" data-tags="singer-songwriter, rock" role="button">
 Peter Gabriel - Scratch My Back (2010-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/9ca0e1a5-ab61-40e2-99c8-bab84f4ed5de/7767150878-500.jpg" data-tags="alternative metal" role="button">
+Deftones - Diamond Eyes (2010-03-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
 Circa Survive - Blue Sky Noise (2010-04-20)
 </li>
@@ -273,8 +273,8 @@ Deerhunter - Halcyon Digest (2010-09-22)
 <li data-cover="http://coverartarchive.org/release/2a9000af-1768-4ec2-aa01-b44cacb0e887/11441414525-500.jpg" data-tags="noise, math rock, experimental, experimental rock, neo-psychedelia" role="button">
 Zach Hill - FACE TAT (2010-10-19)
 </li>
-<li data-cover="https://img.discogs.com/BmSVv2To___mOLq7WviCbbYBWs0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506826-1287774795.jpeg.jpg" data-tags="experimental" role="button">
-Avey Tare - Down There (2010-10-26)
+<li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
+PJ Harvey - Let England Shake (2011-02-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
@@ -288,8 +288,8 @@ Panda Bear - Tomboy (2011-04-12)
 <li data-cover="http://coverartarchive.org/release/c0a2429b-26e5-352f-8561-d7ee9e606e6c/4922570721-500.jpg" data-tags="math rock" role="button">
 Battles - Gloss Drop (2011-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
-Poliça - Give You The Ghost (2011-12-20)
+<li data-cover="http://coverartarchive.org/release/842bf6e0-f562-4c2a-b240-a97c17820c1b/10745033351-500.jpg" data-tags="experimental rock, 4-5" role="button">
+Shaka Ponk - The Geeks and the Jerkin' Socks (2011-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)

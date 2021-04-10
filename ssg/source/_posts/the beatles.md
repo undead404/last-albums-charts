@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:56:01.466Z
+date: 2021-04-10T01:18:01.404Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -66,9 +66,6 @@ Ramsey Lewis - Mother Nature's Son (1968)
 <li data-cover="http://coverartarchive.org/release/668cb2ad-f70d-43d5-80b7-838c82fe7cb9/17866105028-500.jpg" data-tags="folk rock, psychedelic" role="button">
 Fairport Convention - Fairport Convention (1968-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/f33794dc-f641-4d0d-92ed-d4355d34566b/14561549809-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
-Love - Out Here (1969)
-</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
@@ -120,6 +117,9 @@ The Beatles - The Beatles (1978)
 <li data-cover="https://img.discogs.com/_Y-d56JUMvZJgxDuftfr0y4SsMU=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-450570-1172752373.jpeg.jpg" data-tags="british" role="button">
 The Rutles - The Rutles (1978)
 </li>
+<li data-cover="http://coverartarchive.org/release/8fde009c-c33b-3379-91ba-67dcfe6f8f68/6674918603-500.jpg" data-tags="classic rock, 60s" role="button">
+The Beatles - Rarities (1978-11-02)
+</li>
 <li data-cover="https://img.discogs.com/ZG6rW7Heod8iMzIOYtFFzQeEVCw=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213974-1270230018.jpeg.jpg" data-tags="classic rock" role="button">
 Wings - Wings Greatest (1978-11-22)
 </li>
@@ -131,6 +131,9 @@ John Lennon & Yoko Ono - Double Fantasy (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/c52513fb-f3e4-4262-983f-fffe757c1a83/15998941428-500.jpg" data-tags="60s" role="button">
 The Beau Brummels - Best of 1964 - 1968 (1981)
+</li>
+<li data-cover="https://img.discogs.com/qeLxhnGlYA0cnuU3CKQL6ru7hMI=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6474715-1422720548-7289.jpeg.jpg" data-tags="classic rock, blues rock, rock" role="button">
+Eric Burdon - Crawling King Snake (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a55b15a-4a17-42f8-a1a7-3abc039fd33e/1335927511-500.jpg" data-tags="pop, rock, 80s" role="button">
 The Beatles - 20 Greatest Hits (1982-10-18)
@@ -150,17 +153,11 @@ George Harrison - Cloud Nine (1987-11-02)
 <li data-cover="http://coverartarchive.org/release/8b9bbdb2-39b5-47f0-b96c-ba02ba9f9cf8/1961646767-500.jpg" data-tags="the beatles, stonedbeat" role="button">
 The Beatles - Back-Track (1988)
 </li>
-<li data-cover="http://coverartarchive.org/release/b5885b2d-afae-47b1-945e-6e1869590974/2703435976-500.jpg" data-tags="rock" role="button">
-The Beatles - Past Masters (1988)
-</li>
 <li data-cover="http://coverartarchive.org/release/25e25312-e664-476c-8bad-7918b8475972/13161005976-500.jpg" data-tags="classic rock, rock, british, singer-songwriter, political, the beatles, gin" role="button">
 John Lennon - The Lost Lennon Tapes, Volume 4 (1988)
 </li>
 <li data-cover="https://img.discogs.com/DL09XKEp9Y3PVmBIU2BRHAK7_9c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4319505-1469456602-9863.jpeg.jpg" data-tags="classic rock, british, singer-songwriter, beatles" role="button">
 John Lennon - Imagine / Jealous Guy (1988-01-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6604008-c088-3091-ae2e-a9a15e7cc327/21251538374-500.jpg" data-tags="industrial, martial industrial" role="button">
-Laibach - Let It Be (1988-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/094f5e75-f8fb-381e-b1c9-9abe4d218d5d/15299622369-500.jpg" data-tags="my favorites" role="button">
 Albert Hammond - The Very Best of Albert Hammond (1989-02-06)
@@ -182,6 +179,9 @@ The Beatles - Golden Beatles (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/68444a87-8728-4d15-83a9-ba381829681b/4760159562-500.jpg" data-tags="rock, 60s, classic rock, british, beatles" role="button">
 The Beatles - Live at the BBC (1994-11-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/f61a83dd-8bce-4fe7-98ce-98bf1db68748/27733750537-500.jpg" data-tags="60s" role="button">
+Dave Dee, Dozy, Beaky, Mick & Tich - The Best Of Dave Dee, Dozy, Beaky, Mick & Tich (1995)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
 The Beatles - Free as a Bird (1995-07-04)
@@ -218,6 +218,9 @@ The Simpsons - The Yellow Album (1998-11-24)
 </li>
 <li data-cover="https://img.discogs.com/wZYD51J02jyFXL_o81LwANemXBM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6078145-1410483722-5361.jpeg.jpg" data-tags="rock" role="button">
 Los Fabulosos Cadillacs - La Marcha Del Golazo Solitario (1999)
+</li>
+<li data-cover="https://img.discogs.com/nyHqo_ES_IqkbcqO10BqRoZ15eg=/fit-in/600x664/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8721424-1467327188-4905.jpeg.jpg" data-tags="pop, rock, classic, british, alternative, hard, experimental, indie rock, singer-songwriter, pop rock, britpop, psychedelic pop, progressive, elvis, oldies, psychedelia, california, psychedelic rock, john lennon, beat, israel, beatles, pop-rock, the beatles, english, roma, madonna, liverpool, paul mccartney, paris, jesus, jerusalem, anthony, aleister crowley, latin grammy nominated, merseybeat, cubano, rock'n'roll, ringo starr, george, obama, smith, filme, nova, christopher lee, harrison, sexo, invasion, aleyster crowley, rock  indie, xuxa, argeu california seixas, silvio passos, wilson seixas, california seixas, lula, familia, aleister, raul seixas, holanda, libano, amidio junior, anyzio rocha, belem, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, capim cubano, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, desenho, thebestofaleystercrowley, banda metamorphosis, argeur california seixas, anthonyjoseph70, nova california, anthony smith, anthony joseph smith" role="button">
+Harmonia Do Samba - O Rodo (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ab72f9d-c1b4-4e4a-bb72-406d858837a9/14980500818-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Alternate Abbey Road (2000)
@@ -297,17 +300,14 @@ Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
 <li data-cover="http://coverartarchive.org/release/12f954b9-ae94-4ed3-9d29-9296e74a7afb/1795854551-500.jpg" data-tags="heavy metal, metal, cover, mashup, remix, mash-up, bastard pop, the beatles, parody, bootleg, 2000s, sample, joke" role="button">
 Beatallica - Masterful Mystery Tour (2009-08-04)
 </li>
-<li data-cover="https://img.discogs.com/XO55JujioAiLMxPk04cf_7A5tJo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3288062-1480167899-8858.jpeg.jpg" data-tags="indie, rock, alternative, alternative rock, indie rock, elephant 6, the beatles, elliott smith, the byrds, stormy weather, eight miles high, jesus etc, starcleaner, band records, chaser iii, friday night bands, sopranistasa" role="button">
-The Apples in Stereo - #1 Hits Explosion (2009-09-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/a3f907d2-b635-4cd7-9c67-ab54575fbfe8/10373105382-500.jpg" data-tags="classic rock, ringo starr" role="button">
 Ringo Starr - Y Not (2010-01-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/fa147128-b07d-45d9-8e04-533b82c8b32c/3610794026-500.jpg" data-tags="hip-hop, rap, american, remix, wonderwall, mash-up, the beatles, bloc party, oasis, silver, mercy, brit pop, duffy, cruise control, adele, crazy chick, lonely people, hometown glory, bk cyph, elanor rigby, incomparable shakespeare" role="button">
+The Incomparable Shakespeare - The British Invasion (2010-02-28)
+</li>
 <li data-cover="https://img.discogs.com/L6AaZ19r-7pg0o3KL2UQzMNheds=/fit-in/566x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2289611-1274717101.jpeg.jpg" data-tags="indie, alternative, indie pop, twee, sad, singer-songwriter, lo-fi, jangle pop, romantic, atmospheric, coldplay, radiohead, the smiths, love songs, john peel, john lennon, the beatles, portishead, franz ferdinand, scott walker, david bowie, blur, johnny cash, joy division, oasis, new order, morrissey, simon and garfunkel, bob dylan, joni mitchell, lou reed, elliott smith, pulp, the verve, nick drake, lloyd cole and the commotions, belle and sebastian, velvet underground, george harrison, rufus wainwright, jangle, jarvis cocker, momus, c86, eva cassidy, bowie, kings of convenience, paul weller, crowded house, richard ashcroft, david gray, lloyd cole, glasvegas, roddy frame, orange juice, edwin collins, the walker brothers, stephen harrison, metropak" role="button">
 Stephen Harrison - The Colour Of Black Is Black (2010-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/50baa1ac-4aaa-46a2-b099-66ca92a1db31/6980894439-500.jpg" data-tags="fantasy, medieval, pop, hipster, art pop, hino, gothic metal, symphonic metal, power metal, meme, satanic pop, poptron, gothic rock, not gothic, not experimental, amatue, japanese, emo, epic, poetry, comedy, anime, j-pop, post-revolutionary pop song, visual kei, lolicore, totec radio, achingly intelligent, homosexual intifada, virally yours, horny voice, very intelligent lyrics, folklore intellectuel, not darkwave, misunderstood geniuses, gothic, dark, ethereal, humour, horny, gothic pop, 4chan, youtube, evil, art, dark pop, utter brilliance, criminally underrated, satanic metal, sexy vocalists, not metal, not goth, pink floyd, celtic, bard, dream folk, pseudogoth" role="button">
-Erutan - Raindancer (2010-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/68ee658a-fe27-47ea-8f01-583e13bc2d99/9495772397-500.jpg" data-tags="classical, ballet, oldies, contemporary classical, the beatles, relax, buy it, 21st century classical" role="button">
 Paul McCartney - Ocean's Kingdom (2011-10-03)

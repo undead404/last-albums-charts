@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:31:01.412Z
+date: 2021-04-10T01:42:01.407Z
 title: "radiohead: 100 albums you must listen to before you die"
 ---
 ![Radiohead - The Bends (1995-03-08)](http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg "Radiohead - The Bends (1995-03-08)")
@@ -95,9 +95,6 @@ UNKLE - Rabbit in Your Headlights (1998-10-12)
 </li>
 <li data-cover="https://img.discogs.com/4cLrRtJRN_lbvAoEKln8f-AmfhM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13211906-1550027996-1166.jpeg.jpg" data-tags="hard rock, rock, compilation" role="button">
 Deep Purple - 30: Very Best Of (1998-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/453f9554-2b42-47d3-acd5-42f9958180a4/3782561581-500.jpg" data-tags="electronica, trip-hop, indie, calm, cello, radiohead, bjork, autumn, sleepy, belle and sebastian, if its not scottish its crap, nice dreams" role="button">
-Belle and Sebastian - This Is Just a Modern Rock Song (1998-12-07)
 </li>
 <li data-cover="https://img.discogs.com/9j-Ngm5-qgghV-8QRJgIczgYD84=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-923134-1173223576.jpeg.jpg" data-tags="radiohead" role="button">
 Radiohead - 2003-07-04: Les Eurockéennes de Belfort, Belfort, France (2000)
@@ -195,9 +192,6 @@ Placebo - Live At La Cigale (2006-03-06)
 <li data-cover="http://coverartarchive.org/release/c210f11e-7855-4828-a05c-e9670ce4289b/3192389215-500.jpg" data-tags="electronic" role="button">
 Thom Yorke - The Eraser (2006-07-05)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chris brown, dean martin, kenny g, stan getz, mana, marc anthony" role="button">
-Buzz Carlton - Just This Side of the Blues (2006-07-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">
 Easy Star All-Stars - Radiodread (2006-08-22)
 </li>
@@ -252,6 +246,9 @@ Marching Band - Spark Large (2008-07-15)
 <li data-cover="https://img.discogs.com/-NTsx2QVPvmDEywrWv9bIvwmkog=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2102567-1264143852.jpeg.jpg" data-tags="indie, indie rock, muse, radiohead, placebo, kasabian, on wave" role="button">
 On Wave - Vodka Bear Matreshka (2008-08-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, underground hip-hop, mf doom, radiohead, crossover, samples, netlabel, copyleft, creative commons, weblabel, netaudio, webaudio, modicum of silence" role="button">
+RADIODOOM - Pablo Homey (2008-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/da7a76a3-331d-4447-ab2f-4d686ae6a8f0/5165829371-500.jpg" data-tags="arctic monkeys, radiohead, the beatles, neil young, tom waits, will oldham, snow patrol, nick drake, jefferson airplane, the bees, joanna newsom, the doors, bon iver, fleet foxes, deus, calexico, the, ron sexsmith, yo la tengo, andrew bird, spirit, howe gelb, zita swoon, the stones, moke, de staat, alamo race track, daryll-ann" role="button">
 PAULUSMA - iRECORD (2008-11-10)
 </li>
@@ -281,6 +278,9 @@ Nisei23 - Soft Shapes (2010-04-01)
 </li>
 <li data-cover="https://img.discogs.com/L6AaZ19r-7pg0o3KL2UQzMNheds=/fit-in/566x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2289611-1274717101.jpeg.jpg" data-tags="indie, alternative, indie pop, twee, sad, singer-songwriter, lo-fi, jangle pop, romantic, atmospheric, coldplay, radiohead, the smiths, love songs, john peel, john lennon, the beatles, portishead, franz ferdinand, scott walker, david bowie, blur, johnny cash, joy division, oasis, new order, morrissey, simon and garfunkel, bob dylan, joni mitchell, lou reed, elliott smith, pulp, the verve, nick drake, lloyd cole and the commotions, belle and sebastian, velvet underground, george harrison, rufus wainwright, jangle, jarvis cocker, momus, c86, eva cassidy, bowie, kings of convenience, paul weller, crowded house, richard ashcroft, david gray, lloyd cole, glasvegas, roddy frame, orange juice, edwin collins, the walker brothers, stephen harrison, metropak" role="button">
 Stephen Harrison - The Colour Of Black Is Black (2010-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/026f274b-8a70-4bb6-9830-c0c2b78e896c/1870372955-500.jpg" data-tags="electronic, electronica, radiohead" role="button">
+Richey Hackett - Softly, Slowly (2010-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddd15036-d7d0-4a76-b9d6-a3be99e346ab/2720295799-500.jpg" data-tags="cover, singer-songwriter, ukulele" role="button">
 Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele (2010-07-20)

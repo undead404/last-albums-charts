@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:08:07.054Z
+date: 2021-04-10T01:11:01.456Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -144,9 +144,6 @@ Chet Baker - My Funny Valentine (1997)
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">
 Buena Vista Social Club - Buena Vista Social Club (1997-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">
-Pink Martini - Sympathique (1997-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/48ecf3c7-ece1-3616-abf6-b9600870a08e/3270895967-500.jpg" data-tags="female vocalists, jazz" role="button">
 Eva Cassidy - Songbird (1998-03-31)
 </li>
@@ -284,6 +281,9 @@ Cat Power - Jukebox (2008-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, jazz, rock, blues" role="button">
+The Verve - Love Is Noise (2008-08-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)

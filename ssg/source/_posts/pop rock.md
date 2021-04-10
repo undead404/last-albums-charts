@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:51:01.422Z
+date: 2021-04-10T00:49:01.407Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -87,6 +87,9 @@ Jesse McCartney - Beautiful Soul (2004-08-12)
 <li data-cover="http://coverartarchive.org/release/6342cca6-fdff-4c88-b876-02ae109195bf/18168439287-500.jpg" data-tags="pop" role="button">
 Kelly Clarkson - Breakaway (2004-11-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/e79e742e-49c6-4f11-964e-ed89212c9736/28281473613-500.jpg" data-tags="emo, pop" role="button">
+Lindsay Lohan - Speak (2004-12-07)
+</li>
 <li data-cover="https://img.discogs.com/F7_vX7cpN29uV2NF4Xt4kSvyYc0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254198-1423920499-1926.jpeg.jpg" data-tags="rock" role="button">
 Plain White T's - All That We Needed (2005-01-25)
 </li>
@@ -162,9 +165,6 @@ The Rocket Summer - Do You Feel (2007-07-17)
 <li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
 The Veronicas - Hook Me Up (2007-09-22)
 </li>
-<li data-cover="https://img.discogs.com/AFN3DwuD-MUBC5fmATDT49nCQXk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2437292-1283994785.jpeg.jpg" data-tags="indie, rock, emo, indie rock, pop rock, acoustic, pop punk, to listen, wind, sire, indie emo, memorized, profile song, previous albums were so much better, cafe del mar dreams vol4, opgenomen van marcel bemelmans" role="button">
-The Spill Canvas - No Really, I'm Fine (2007-10-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/04e20dc5-cd0c-4315-9994-33d9856de5c6/14073861785-500.jpg" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
 </li>
@@ -231,9 +231,6 @@ OneRepublic - Waking Up (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/86da059c-2af3-43f4-897e-d3f7fa3f5a75/2333307730-500.jpg" data-tags="pop" role="button">
 Adam Lambert - For Your Entertainment (2009-11-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/14d38ffd-a100-4865-998b-2a82e811ab86/3892189369-500.jpg" data-tags="experimental, female vocalists, synthpop" role="button">
-Oh Land - Oh Land (2010)
-</li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">
 The Script - Science & Faith (2010-09-13)
 </li>
@@ -242,6 +239,9 @@ James Blunt - Some Kind of Trouble (2010-11-03)
 </li>
 <li data-cover="https://img.discogs.com/0CtNv-CkWzbIf-mjvX-enIBKBto=/fit-in/313x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6930395-1429761871-5094.jpeg.jpg" data-tags="pop, pop rock, gi, yo" role="button">
 Jessie J - Domino (2011-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/76cbcc56-63ca-49a5-acae-e51dbdffc21a/12051865740-500.jpg" data-tags="pop rock, rock, female vocalists" role="button">
+Avril Lavigne - What The Hell (2011-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de593ea-432e-4cec-addc-2a3ec28079ad/1708845679-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Goodbye Lullaby (2011-03-02)

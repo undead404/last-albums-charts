@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:29:01.420Z
+date: 2021-04-10T01:26:01.433Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/3d393154-0fc9-3182-b081-79c4f30d37e4/15223438954-500.jpg" data-tags="hip-hop, rap, 80s" role="button">
 Beastie Boys - Licensed to Ill (1986-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
-N.W.A - Straight Outta Compton (1988-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - The Low End Theory (1991-09-24)
@@ -95,6 +92,9 @@ DMX - It's Dark And Hell Is Hot (1998-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
+OutKast - Aquemini (1998-09-28)
 </li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
@@ -222,9 +222,6 @@ T.I. - Paper Trail (2008-09-29)
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/ff352a15-b8af-439c-8a58-7607181e7750/10991333928-500.jpg" data-tags="rap" role="button">
-Die Antwoord - $O$ (2009)
-</li>
 <li data-cover="http://coverartarchive.org/release/f05567cc-6ed3-40e0-bad1-7812478eecbe/2071071757-500.jpg" data-tags="hip hop, hip-hop, drake, rap, rnb" role="button">
 Drake - So Far Gone (2009-02-13)
 </li>
@@ -248,6 +245,9 @@ Drake - Thank Me Later (2010-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
+</li>
+<li data-cover="https://img.discogs.com/mNxZIgAsUaaNsstp-hpfLpKq0rU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2541938-1289600193.jpeg.jpg" data-tags="hip-hop" role="button">
+Kid Cudi - Man on the Moon II: The Legend of Mr. Rager (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/883c2b91-e65d-4520-b001-807d0fd23ee6/1940800991-500.jpg" data-tags="rap" role="button">
 Nicki Minaj - Pink Friday (2010-11-21)

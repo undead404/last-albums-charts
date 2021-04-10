@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:48:01.459Z
+date: 2021-04-10T01:34:01.432Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -93,14 +93,8 @@ Kylie Minogue - Light Years (2000-09-22)
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
 The Avalanches - Since I Left You (2000-11-27)
 </li>
-<li data-cover="https://img.discogs.com/hTTwtBm7Pdn4FvLUaxY2QYOAydE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3336647-1326326553.jpeg.jpg" data-tags="jbt" role="button">
-The John Butler Trio - Three (2001-04-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
-</li>
-<li data-cover="https://img.discogs.com/QYUgzc0NWWaj53sjcqkxnd5E18k=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-353661-1581862939-2865.jpeg.jpg" data-tags="indie pop, indie" role="button">
-Architecture in Helsinki - Fingers Crossed (2003-02-10)
 </li>
 <li data-cover="https://img.discogs.com/CNWQ-65tOtu0wHnoQxU8t7lmjCM=/fit-in/600x852/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7970862-1452672610-7453.jpeg.jpg" data-tags="classic rock, pop, rock, 80s, australian, new wave, soft rock" role="button">
 Men at Work - The Essential Men at Work (2003-04-01)
@@ -113,6 +107,9 @@ Jet - Get Born (2003-09-14)
 </li>
 <li data-cover="https://img.discogs.com/HOJBvC15uRXGDOTyH_kexdd1vuk=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8269814-1458408052-9599.jpeg.jpg" data-tags="pop" role="button">
 Kylie Minogue - Body Language (2003-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/0469956f-d895-4120-8ec5-29ad41b9e2fd/2050356826-500.jpg" data-tags="electro, electronica, australian" role="button">
+The Presets - Blow Up (2003-11-17)
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
@@ -158,6 +155,9 @@ Josh Pyke - Feeding the Wolves (2005-11-14)
 </li>
 <li data-cover="https://img.discogs.com/4fUrGfPsFHBjYh100HLseNzxA1Y=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533610-1289194214.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Jet - Shine On (2006-09-29)
+</li>
+<li data-cover="https://img.discogs.com/iOtZoWcLAu7_1ro4cwfNro7VSgo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654438-1295792168.jpeg.jpg" data-tags="indie pop" role="button">
+Josh Pyke - Memories & Dust (2007-03-10)
 </li>
 <li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
 The John Butler Trio - Grand National (2007-03-23)
@@ -234,6 +234,9 @@ The Temper Trap - Conditions (2009-06-19)
 <li data-cover="http://coverartarchive.org/release/9f74dbdb-1acd-4ef0-962c-a801ed3377ed/21845243806-500.jpg" data-tags="pop, josh radio" role="button">
 Lisa Mitchell - Wonder (2009-07-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/667cebee-434f-4c28-8ec6-acd8445174ca/20822579961-500.jpg" data-tags="alternative rock" role="button">
+Sick Puppies - Tri-Polar (2009-07-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0859310-5eee-40dc-88ac-9cd761f91d49/6576902413-500.jpg" data-tags="trance, electronic, dance, australian, house" role="button">
 Bag Raiders - Shooting Stars (2009-08-07)
 </li>
@@ -249,14 +252,8 @@ AC/DC - Iron Man 2 (2010-04-16)
 <li data-cover="http://coverartarchive.org/release/4edf1492-cd7e-4aee-83d1-54e583d17958/1065442756-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Deep Blue (2010-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad3feb4a-d061-4666-b543-666d503cdb67/4022993062-500.jpg" data-tags="electronic, synthpop" role="button">
-Miami Horror - Illumination (2010-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a9434b3e-fc13-39a1-8bce-ce0079dc1125/9576536177-500.jpg" data-tags="alternative rock, garage" role="button">
 Grinderman - Grinderman 2 (2010-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/2af49440-6cc2-45c6-bcdc-4a65f3a86ece/6978324804-500.jpg" data-tags="electronic, house" role="button">
-Bag Raiders - Bag Raiders (2010-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/78188810-df1a-4ac0-ac60-57e3bd84284b/18315026356-500.jpg" data-tags="electronic" role="button">
 Cut Copy - Zonoscope (2011-02-07)
@@ -272,6 +269,9 @@ Last Dinosaurs - In A Million Years (2012-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b87adf-0024-4111-8f98-7f274af274dc/5971488709-500.jpg" data-tags="progressive metal" role="button">
 Ne Obliviscaris - Portal Of I (2012-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/2e4c183e-48b8-4314-b37c-f83599c55249/1636851692-500.jpg" data-tags="melodic death metal, progressive death metal" role="button">
+Be'lakor - Of Breath and Bone (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8de037a4-f8db-4219-862e-2e50400441c2/23648189847-500.jpg" data-tags="electronic, australian" role="button">
 The Presets - Pacifica (2012-09-07)

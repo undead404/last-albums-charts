@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:38:01.415Z
+date: 2021-04-10T01:22:01.385Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7027530a-10d2-394f-90f9-96b704f06707/10018403856-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Superfuzz Bigmuff plus Early Singles (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/25ddf543-d006-48fc-99f3-ca38337f41fc/14505240050-500.jpg" data-tags="alternative, indie rock" role="button">
-Dinosaur Jr. - Bug (1988-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
@@ -278,6 +275,9 @@ Pearl Jam - Pearl Jam (2006-04-28)
 </li>
 <li data-cover="https://img.discogs.com/HrAO7Rs1OTk8Z36yR7JMFsStHMQ=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2188305-1268766908.jpeg.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Audioslave - Revelations (2006-09-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/936cf678-1522-3e57-8144-727398834390/5553048453-500.jpg" data-tags="grunge" role="button">
+Alice in Chains - The Essential Alice In Chains (2006-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a3a8867-9461-3ed3-b78a-47dfc939829d/26491153487-500.jpg" data-tags="rock, grunge" role="button">
 Chris Cornell - Carry On (2007-06-05)

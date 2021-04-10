@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:56:01.415Z
+date: 2021-04-10T01:08:01.389Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -74,6 +74,9 @@ Björk - Homogenic (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1949ef16-3494-4e8d-8063-6dd230a46748/21019193322-500.jpg" data-tags="trip-hop" role="button">
 Portishead - Portishead (1997-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/c81ded29-9054-4c15-9e6c-72a12cc41ea1/17720852193-500.jpg" data-tags="downtempo, chillout, trip-hop" role="button">
+Kid Loco - A Grand Love Story (1997-11-25)
 </li>
 <li data-cover="https://img.discogs.com/mN0237I9I4FjSdrw0DtCWt3UHlA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11829-1460318611-4612.jpeg.jpg" data-tags="downtempo, trip-hop, chillout" role="button">
 Waldeck - Balance Of The Force (1998)
@@ -150,6 +153,9 @@ Goldfrapp - Black Cherry (2003-04-23)
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/ef4db55b-e485-4279-bcbf-cd624db295dd/9167065307-500.jpg" data-tags="electronic, trip-hop, norwegian, idm, trip hop, breaks, english, xanbaldaio-baile" role="button">
+Ugress - Resound (2003-06-06)
+</li>
 <li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
 Starsailor - Silence Is Easy (2003-09-15)
 </li>
@@ -216,6 +222,9 @@ Portishead - Third (2008-04-08)
 <li data-cover="http://coverartarchive.org/release/62697c3d-e746-47cd-b841-e3885d5c90fc/7857000422-500.jpg" data-tags="trip-hop, downtempo, soul" role="button">
 Martina Topley-Bird - The Blue God (2008-05-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/e58624a7-dfd8-4776-b058-4b8cccd229ee/5948876099-500.jpg" data-tags="electro, trip hop, lonely, obsessive songs, costanza, go deeper in album" role="button">
+Costanza - Sonic Diary (2008-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
 </li>
@@ -261,9 +270,6 @@ Thievery Corporation - Culture of Fear (2011-06-26)
 <li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
 Dye - Taki 183 (2011-06-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
-Poliça - Give You The Ghost (2011-12-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
 </li>
@@ -300,9 +306,6 @@ London Grammar - If You Wait (2013-09-06)
 <li data-cover="http://coverartarchive.org/release/d9e9ec1a-8f79-4b92-8e43-da6603a43e34/5253500057-500.jpg" data-tags="trip-hop, electronic" role="button">
 FKA twigs - EP2 (2013-09-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc513877-c9ca-4a9b-9d51-39727d8c2575/5431659408-500.jpg" data-tags="electronic, pop, experimental, indie electronic, trip hop, neo-psychedelia, art pop, viking, vikings, my deepest desires, psychic album covers, alternative-indie rock" role="button">
-Son Lux - Lanterns (2013-10-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
 </li>
@@ -317,8 +320,5 @@ Chet Faker - Built On Glass (2014-04-11)
 </li>
 <li data-cover="https://img.discogs.com/aH-EXZ6G_eOp-whSGmUGn4nuuzE=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5425859-1393250079-6492.jpeg.jpg" data-tags="electronic, folktronica" role="button">
 Damon Albarn - Everyday Robots (2014-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6fadf39-4dae-4ef5-a4fd-b9cf5272534e/8684765155-500.jpg" data-tags="chillout, electronic, electronica, indie, alternative, indie pop, dubstep, dance, new wave, dance-pop, psychedelic pop, indietronica, trip hop, noise pop, dream pop, synthpop, alternative pop, alternative dance, trap, chillwave, neo-psychedelia, bubblegum pop, post-dubstep, art pop, urban pop, intelligent dance, idm pop" role="button">
-Slow Magic - How To Run Away (2014-09-09)
 </li>
 </ol>

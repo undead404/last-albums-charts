@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:35:01.437Z
+date: 2021-04-10T01:36:01.417Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -210,6 +210,9 @@ deadmau5 - For Lack of a Better Name (2009-09-22)
 <li data-cover="http://coverartarchive.org/release/97047c74-2d3f-4d98-ae4c-ed2221b04578/21387500478-500.jpg" data-tags="pop, selena gomez" role="button">
 Selena Gomez & the Scene - Kiss & Tell (2009-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/05a6a896-ac01-3c38-9e18-837c51e4b2fc/26334511184-500.jpg" data-tags="pop, dance" role="button">
+Britney Spears - 3 (2009-10-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
 Shakira - She Wolf (2009-10-09)
 </li>
@@ -230,6 +233,9 @@ Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">
+Enrique Iglesias - Euphoria (2010-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)
@@ -291,9 +297,6 @@ Daft Punk - Random Access Memories (2013-05-17)
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
 Selena Gomez - Stars Dance (2013-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/df93fa50-a9ab-4b1c-8a83-e842652ac39c/5165686561-500.jpg" data-tags="electronic" role="button">
-Avicii - True (2013-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/de57c1d9-5e65-420f-a896-1332e87d4c09/25295943061-500.jpg" data-tags="electronic, electro, french, electropop, dance" role="button">
 Stromae - Racine Carrée (2013-08-16)
 </li>
@@ -314,9 +317,6 @@ Tiësto - A Town Called Paradise (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/5079e05d-49ab-4d3e-92ae-781fcf5d3844/12571214745-500.jpg" data-tags="electronic, dance, electro house" role="button">
-Calvin Harris - Motion (2014-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/79fd65e4-d145-46be-b8fa-b098c2ba5f12/10014987904-500.jpg" data-tags="pop, ariana grande" role="button">
 Ariana Grande - Santa Tell Me (2014-11-24)

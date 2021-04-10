@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:41:01.465Z
+date: 2021-04-10T00:56:01.397Z
 title: "soft rock: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -24,17 +24,14 @@ _________________
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8810c06-95ad-3a2c-9ec5-7bc934121e06/6030859006-500.jpg" data-tags="70s, classic rock" role="button">
-America - America (1971)
-</li>
 <li data-cover="http://coverartarchive.org/release/c0030078-9362-4e64-a54c-5b0e7d8326b8/17978212703-500.jpg" data-tags="70s, female vocalists, singer-songwriter" role="button">
 Carole King - Tapestry (1971-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/dbeb851b-ad68-43ab-9706-7f1ecd2bf59d/21251802402-500.jpg" data-tags="classic rock, 70s, rock" role="button">
 John Lennon - Imagine (1971-10-11)
 </li>
-<li data-cover="https://img.discogs.com/saAmISxtsEYEsfMTOdF_4htzaJI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475236-1286108486.jpeg.jpg" data-tags="soft rock, 70s, folk rock" role="button">
-America - Homecoming (1972)
+<li data-cover="http://coverartarchive.org/release/6af61fa2-870f-33bb-a17f-be65f6013597/11322817358-500.jpg" data-tags="70s, classic rock" role="button">
+Elton John - Madman Across The Water (1971-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f0662c0-b505-4e83-b8d8-973a2b2f19a6/15027846048-500.jpg" data-tags="classic rock, soft rock, soft-rock, soft peppermint" role="button">
 Looking Glass - Looking Glass (1972)
@@ -60,12 +57,6 @@ The Doobie Brothers - The Captain and Me (1973-03-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Fleetwood Mac (1975-07-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8f44f9be-339d-42e7-bbfe-31cda4393767/16662825191-500.jpg" data-tags="70s, al stewart" role="button">
-Al Stewart - Year Of The Cat (1976-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/477bb8aa-5413-37c5-8f1a-f9ca7a36c9d3/22089606298-500.jpg" data-tags="james taylor, folk" role="button">
-James Taylor - Greatest Hits (1976-11-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/7ec069c0-4424-3169-8ed0-d5e2473e0e84/11444925358-500.jpg" data-tags="classic rock, 70s" role="button">
 Fleetwood Mac - Rumours (1977-02-04)
 </li>
@@ -74,9 +65,6 @@ Billy Joel - The Stranger (1977-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc5ab3ea-d4d8-49ae-ba97-e7eee6aec751/19104189214-500.jpg" data-tags="70s, soft rock" role="button">
 Gerry Rafferty - City To City (1978)
-</li>
-<li data-cover="http://coverartarchive.org/release/af506f12-7b72-30e4-841b-421d93059d56/19446220076-500.jpg" data-tags="70s, soft rock" role="button">
-The Doobie Brothers - Minute by Minute (1978-12)
 </li>
 <li data-cover="https://img.discogs.com/o3m6jo5BzDH8d7FlqUnqQ9-tIGU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10248444-1494091170-8215.jpeg.jpg" data-tags="70s, classic rock" role="button">
 Fleetwood Mac - Tusk (1979)
@@ -165,6 +153,9 @@ Maroon 5 - Songs About Jane (2002-06-25)
 <li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
 John Mayer - Any Given Thursday (2003-02-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a15446f-a6b7-4e9c-82b9-a4685ef6b269/1607144291-500.jpg" data-tags="alternative, indie rock" role="button">
+Eels - Shootenanny! (2003-05-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
@@ -182,6 +173,9 @@ Ben Folds - Songs For Silverman (2005-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
 Josh Rouse - Subtitulo (2006-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/b52d23b3-416f-4662-a1af-f4718da44d1b/20163736814-500.jpg" data-tags="soft rock, fyc" role="button">
+Fine Young Cannibals - The Platinum Collection (2006-03-27)
 </li>
 <li data-cover="https://img.discogs.com/OwqlCzNXSiug-hWc2RyOFR65rA4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7141421-1434639883-6794.jpeg.jpg" data-tags="wish, reamonn-wish, rock, alternative" role="button">
 Reamonn - Wish (2006-04-15)
@@ -203,6 +197,9 @@ Newton Faulkner - Hand Built By Robots (2007-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
+Angus & Julia Stone - A Book Like This (2007-09-08)
 </li>
 <li data-cover="https://img.discogs.com/ONfUT-VbLc-NaSWjOrDCh5d4ZLA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10165471-1492752553-8725.jpeg.jpg" data-tags="pop, folk, soft rock" role="button">
 Matt White - Best Days (2007-09-18)
@@ -284,6 +281,9 @@ Paloma Faith - Fall to Grace (2012-05-28)
 </li>
 <li data-cover="https://img.discogs.com/xX6eb75b3WcmYrsou-v_TEiLwAc=/fit-in/500x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3883053-1452811467-8207.jpeg.jpg" data-tags="funk, france" role="button">
 Breakbot - By Your Side (2012-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
+Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb16fa21-7d1f-403b-9881-ebcc8296d19c/5700848143-500.jpg" data-tags="folk, singer-songwriter, soft rock, folktronica, alternative pop, pop/rock" role="button">
 Ásgeir - In the Silence (2013)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:37:01.542Z
+date: 2021-04-10T00:50:01.441Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -44,6 +44,9 @@ Siouxsie and the Banshees - Juju (1981-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3834afa-e54b-467f-87fb-f0b744bdf3ab/26204900712-500.jpg" data-tags="post-punk, gothic rock" role="button">
 Bauhaus - Mask (1981-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave" role="button">
+Joy Division - Still (1981-10-08)
 </li>
 <li data-cover="https://img.discogs.com/i8JUBpcOGj56pkM-e_tbsxPMhqA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-431237-1575075897-8255.jpeg.jpg" data-tags="deathrock" role="button">
 Christian Death - Only Theatre of Pain (1982)
@@ -117,9 +120,6 @@ Rosetta Stone - Adrenaline (1993)
 <li data-cover="http://coverartarchive.org/release/f6938225-87a0-4c23-929f-278b61f93fca/5718773240-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - A Slight Case of Overbombing (1993-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
-Dead Can Dance - Into the Labyrinth (1993-09-13)
-</li>
 <li data-cover="https://img.discogs.com/yPObFg9KYqKXzYR5KCVBb95NkEc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1172126-1198088260.jpeg.jpg" data-tags="gothic rock, darkwave, gothic" role="button">
 London After Midnight - Psycho Magnet (1995)
 </li>
@@ -135,11 +135,11 @@ Paradise Lost - One Second (1997)
 <li data-cover="http://coverartarchive.org/release/3b972e14-2e2f-4585-a428-644689de0e5a/3856728197-500.jpg" data-tags="gothic rock, gothic" role="button">
 Агата Кристи - Ураган (1997)
 </li>
+<li data-cover="https://img.discogs.com/tXrQK9c_BRaoT_2IQivX_drvGHo=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038961-1312877882.jpeg.jpg" data-tags="gothic metal" role="button">
+Tiamat - A Deeper Kind Of Slumber (1997-04-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/8f6128f3-6638-40d2-b9cd-dc069dba18b6/2115320360-500.jpg" data-tags="gothic rock, gothic" role="button">
 Inkubus Sukkubus - Vampyre Erotica (1997-09-22)
-</li>
-<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="https://img.discogs.com/5p0bYzMxbO-g0FixydX4t22HKkI=/fit-in/600x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736214-1435140831-9496.jpeg.jpg" data-tags="love metal, gothic rock" role="button">
 Him - Greatest Lovesongs Vol. 666 (1997-11-20)
@@ -204,8 +204,8 @@ Paradise Lost - Symbol of Life (2002-10-21)
 <li data-cover="http://coverartarchive.org/release/9045185f-a666-488d-b63e-4e6fc141bb0a/1226061435-500.jpg" data-tags="rock, gothic rock, evanescence" role="button">
 Evanescence - Not for Your Ears (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
-Emilie Autumn - Enchant (2003-02-26)
+<li data-cover="https://img.discogs.com/5POZRB78GKsIKyN1T4kCXA3AigY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2732772-1298552037.jpeg.jpg" data-tags="gothic rock, gothic" role="button">
+Пикник - Говорит и показывает (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">
 Evanescence - Fallen (2003-03-04)

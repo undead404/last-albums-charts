@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:57:01.488Z
+date: 2021-04-10T01:29:01.392Z
 title: "beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -57,6 +57,9 @@ The Beatles - Magical Mystery Tour (1967-11-27)
 <li data-cover="https://img.discogs.com/35slQMt3mxNX2L70DKC90Yn60OI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4460496-1400323194-7281.jpeg.jpg" data-tags="psychedelic, beatlesque" role="button">
 Chad & Jeremy - The Ark (1968)
 </li>
+<li data-cover="https://img.discogs.com/SdgkIMUXPs9ic3GLxR4usIGmILA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4238491-1419156472-3164.jpeg.jpg" data-tags="psychedelic, soundtrack, 60s" role="button">
+George Harrison - Wonderwall Music (1968-11-01)
+</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
 </li>
@@ -96,6 +99,9 @@ John Lennon - Mind Games (1973-11-02)
 <li data-cover="http://coverartarchive.org/release/dd35d816-7863-4a1a-b7ab-0b1f69045d55/22657881617-500.jpg" data-tags="70s, classic rock, rock" role="button">
 Ringo Starr - Ringo (1973-11-23)
 </li>
+<li data-cover="https://img.discogs.com/uc2554Um_4Q5vEW62kgKjHks8T0=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904260-1403549153-2530.jpeg.jpg" data-tags="soft rock, beatles, paul mccartney, ryan beebe, bfr" role="button">
+Mike McGear - McGear (1974-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/f0eda3a2-3235-4ecc-a189-d4dc44c2cfc9/11655348477-500.jpg" data-tags="70s" role="button">
 Wings - Wings at the Speed of Sound (1976-03-25)
 </li>
@@ -134,9 +140,6 @@ The Beatles - The Early Tapes of the Beatles (1984-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dca0d25-cce8-4366-93af-14262426054f/9053370792-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Decca Tapes (1986-03-01)
-</li>
-<li data-cover="https://img.discogs.com/cFPJBaUNeuV4EpaVSMHUVcTEtBg=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-378678-1247920695.jpeg.jpg" data-tags="indie, british, psychedelic, relaxed, beatles, beach boys, mellotron, alice in wonderland, alternative pop/rock, 60s revival, pitchfork 80s, iveldie best of 1987, 2nd album, scree123, vinyl lp version, proud vinyl owner, john leckie production" role="button">
-The Dukes Of Stratosphear - Psonic Psunspot (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a55bb4-abb2-4d8c-8646-a06c56cd5a2c/9460984577-500.jpg" data-tags="classic rock, rock" role="button">
 George Harrison - Cloud Nine (1987-11-02)
@@ -291,12 +294,6 @@ Women - WOMEN (2008-07-08)
 <li data-cover="http://coverartarchive.org/release/6cda2aab-071a-466d-b4d9-36d8563a5f36/8647595415-500.jpg" data-tags="coldplay, radiohead, beatles, the shins, beach boys, weezer, modest mouse, vampire weekend, fleet foxes, excelsior, rogue wave, belle and sabastian" role="button">
 Marching Band - Spark Large (2008-07-15)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, digital, noise, marilyn manson, metal, chillout, electronic, electronica, indie, chill, rock, instrumental, 80s, grunge, hardcore, revolution, new york, ambient, experimental, noise rock, post-rock, hard rock, singer-songwriter, grime, electro, stoner rock, canada, dark, industrial, lo-fi, post-punk, downbeat, canadian, mixtape, psychedelic, london, bass, 90s, laid back, glitch, songwriter, angry, avant garde, free, mexico, avant-garde, drone, space, deutsch, old skool, summer, mellow, party, punk rock, screamo, original, nyc, political, psychobilly, old school, garage rock, party music, minimalism, california, feminist, west coast, darkwave, post rock, spacey, radiohead, garage, raw, euro, samples, nin, eclectic, no wave, jam band, 00s, beat, offbeat, shoegazer, post-grunge, beatles, collaboration, jam, distortion, spacy" role="button">
-Kroakers - Ruined and Going Downhill (2008-08-13)
-</li>
-<li data-cover="https://img.discogs.com/t7NdstH88Ra9Ujtry1aCrOAL5VM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15871022-1599320971-2305.jpeg.jpg" data-tags="soul, singer-songwriter, elephant 6, beatles, olivia tremor control, mccartney, gomorrans, ryan beebe, mike garlington, michael garlington" role="button">
-Harry Nilsson - Without You: The Best Of Harry Nilsson (2009)
-</li>
 <li data-cover="http://coverartarchive.org/release/e6d8c1fb-e9c1-41eb-a010-10d6a7c9428b/13544312899-500.jpg" data-tags="reggae, covers" role="button">
 Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
 </li>
@@ -311,6 +308,9 @@ Stereo Skyline - Stuck On Repeat (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0b20aa8-206f-4ebd-8553-329b37848ab2/8320859136-500.jpg" data-tags="70s, george harrison, classic rock" role="button">
 George Harrison - Living in the Material World (2011-10-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/fd7c7e60-6976-4799-a143-1acdabc7701e/15419145178-500.jpg" data-tags="rock, singer-songwriter, acoustic, beatles, george harrison, 70's, gomorrans, ryan beebe, mike garlington" role="button">
+George Harrison - Early Takes: Volume 1 (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/539ece20-fafc-47cd-81bb-e470da9ef796/15453679630-500.jpg" data-tags="beatles" role="button">
 The Beatles - Meet the Beatles (2014-07-22)

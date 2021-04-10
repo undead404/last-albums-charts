@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:45:01.749Z
+date: 2021-04-10T01:24:06.975Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -26,9 +26,6 @@ Creedence Clearwater Revival - Bayou Country (1969-01-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b089cd4-24de-430b-bcdb-5f3485c7a9e7/8749872309-500.jpg" data-tags="southern rock, classic rock, 60s" role="button">
 Creedence Clearwater Revival - Green River (1969-08-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/2ff35d4e-5623-4723-929c-bff2e0a5eb37/9925745196-500.jpg" data-tags="classic rock, rock" role="button">
-The Band - The Band (1969-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d7a7eae-5b6d-482e-a81f-484681aee4ba/11456627147-500.jpg" data-tags="classic rock, southern rock" role="button">
 Creedence Clearwater Revival - Willy and the Poor Boys (1969-11-02)
@@ -86,6 +83,9 @@ The Doobie Brothers - Best of The Doobies (1976-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/325f0947-40a4-30bd-aefd-12a53d39f2bd/9727920012-500.jpg" data-tags="blues rock, southern rock" role="button">
 ZZ Top - Tejas (1976-11-29)
+</li>
+<li data-cover="https://img.discogs.com/Lz0kq17EnvPDzdlN-UJtuB3lxqs=/fit-in/255x255/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3055148-1343214860-9733.jpeg.jpg" data-tags="southern rock" role="button">
+The Marshall Tucker Band - Carolina Dreams (1977)
 </li>
 <li data-cover="https://img.discogs.com/8iEnfWUplElZRLgxOaHmy0Ug-yI=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4938216-1379992995-8567.jpeg.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Street Survivors (1977)
@@ -186,9 +186,6 @@ Uncle Kracker - No Stranger to Shame (2002-09-24)
 <li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
 Saliva - Back Into Your System (2002-11-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/9d7c7392-6a8c-4f38-ac16-c1304bc12d09/9304189949-500.jpg" data-tags="southern rock" role="button">
-The Allman Brothers Band - Hittin' the Note (2003-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/15f53c91-d9c0-40b0-920f-cc62cdfb63eb/15448153144-500.jpg" data-tags="southern rock, alt-country" role="button">
 Drive-By Truckers - Decoration Day (2003-06-17)
 </li>
@@ -206,9 +203,6 @@ He Is Legend - 91025 (2004-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="southern rock, rock" role="button">
 Warren Haynes - Live At Bonnaroo (2004-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/48239f74-e24f-4e0b-a4e6-019c266ec905/15448138762-500.jpg" data-tags="alt-country, southern rock" role="button">
-Drive-By Truckers - The Dirty South (2004-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d7f77520-2ae8-3ca6-98ac-e11444682b66/8044485998-500.jpg" data-tags="rock, indie rock" role="button">
 Kings of Leon - Aha Shake Heartbreak (2004-10-30)
@@ -230,9 +224,6 @@ Drive-By Truckers - A Blessing and a Curse (2006-04-18)
 </li>
 <li data-cover="https://img.discogs.com/w69l5wq1YLfVfnTdqvMwvXKGNrg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3769585-1343673053-8229.jpeg.jpg" data-tags="hardcore" role="button">
 Cancer Bats - Birthing The Giant (2006-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/37e09ed4-5543-4c4b-b9b9-0f5d690c843e/8360166556-500.jpg" data-tags="stoner rock, rock" role="button">
-Black Stone Cherry - Black Stone Cherry (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddf19fba-0dd8-4b99-8216-4a6be9dfd867/16262070382-500.jpg" data-tags="southern rock" role="button">
 He Is Legend - Suck Out The Posion (2006-10-03)
@@ -270,6 +261,9 @@ Shinedown - The Sound of Madness (2008-06-23)
 <li data-cover="https://img.discogs.com/HSjefWzEwlBho4QkVhnS9NNtGPE=/fit-in/589x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513017-1225220488.jpeg.jpg" data-tags="hard rock" role="button">
 Black Stone Cherry - Folklore and Superstition (2008-08-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
+Dead Confederate - Wrecking Ball (2008-09-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
 </li>
@@ -288,11 +282,17 @@ Memphis May Fire - Sleepwalking (2009-07-21)
 <li data-cover="http://coverartarchive.org/release/da29d084-1a4e-4131-b583-41160ebef119/27714452702-500.jpg" data-tags="rock, southern rock, classic rock" role="button">
 Lynyrd Skynyrd - God & Guns (2009-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
+Lucero - 1372 Overton Park (2009-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/02c4e4be-f3ac-49a8-8157-f0b1106b80a4/7913085249-500.jpg" data-tags="southern rock" role="button">
 Brother Dege - Folk Songs of the American Longhair (2010-03-09)
+</li>
+<li data-cover="https://img.discogs.com/k7sFiw09d53EFOJaVj5xO-CkFgo=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359640-1429811007-1404.jpeg.jpg" data-tags="rock, americana, alt-country, southern rock" role="button">
+Drive-By Truckers - The Big To-Do (2010-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a71c547-1757-4695-8d15-be0a59ab096c/27339835378-500.jpg" data-tags="classic rock, acoustic, blues rock, southern rock" role="button">
 The Black Crowes - Croweology (2010-08-02)

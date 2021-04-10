@@ -1,11 +1,11 @@
 ---
-date: 2021-04-09T17:46:07.033Z
+date: 2021-04-10T01:19:01.420Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">Shakira - Pies Descalzos (1995)</li>
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">Buena Vista Social Club - Buena Vista Social Club (1997-06-23)</li>
-<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">Pink Martini - Sympathique (1997-11-11)</li>
 <li data-cover="http://coverartarchive.org/release/14dd5d50-34b9-4488-b87f-a79b5a6b52f5/6051149256-500.jpg" data-tags="latin, reggae" role="button">Manu Chao - Clandestino (1998-04-30)</li>
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">Ricky Martin - Ricky Martin (1999-05-04)</li>
 <li data-cover="http://coverartarchive.org/release/bf0de05c-8e66-4601-9d16-b589395afcb4/28395165230-500.jpg" data-tags="latin rock, rock, latin" role="button">Santana - Supernatural (1999-06-15)</li>
@@ -71,9 +71,6 @@ Buena Vista Social Club - Buena Vista Social Club (1997-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/72767d4c-f290-32a0-b8dd-432b06f37d57/19881793323-500.jpg" data-tags="latin, ska" role="button">
 Los Fabulosos Cadillacs - Fabulosos Calavera (1997-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/631c6d03-b850-4a24-a293-2b6c66160310/19423427581-500.jpg" data-tags="lounge, jazz, latin" role="button">
-Pink Martini - Sympathique (1997-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca4499f3-cb74-4709-bbe1-540bfcda0a78/1866423682-500.jpg" data-tags="latin, ska, patchanka" role="button">
 Mano Negra - Best Of (1998)
@@ -213,6 +210,9 @@ Orishas - El Kilo (2005)
 <li data-cover="https://img.discogs.com/loqCR9di_kyq2hhzGT2D4lcCzEM=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4858208-1377681398-5115.jpeg.jpg" data-tags="pop, rnb" role="button">
 Jennifer Lopez - Rebirth (2005-02-28)
 </li>
+<li data-cover="https://img.discogs.com/2KjH5VWoCZWfH2vvjz9g1vdZaZc=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3487682-1332343967.jpeg.jpg" data-tags="latin folk" role="button">
+Jorge Drexler - Eco (2005-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/d95751d8-e622-4fa1-b745-b69c4596889c/15019413195-500.jpg" data-tags="pop, reik" role="button">
 Reik - Reik (2005-05-24)
 </li>
@@ -257,6 +257,9 @@ Vanessa da Mata - Sim (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac4eec8-1534-4fd1-9167-56cfeb2c5be4/10004845334-500.jpg" data-tags="latin pop" role="button">
 Jennifer Lopez - Como Ama Una Mujer (2007-03-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/81ffd3bb-aee7-4d83-bcbb-eed4f252534c/10281303418-500.jpg" data-tags="reggaeton, calle 13" role="button">
+Calle 13 - Residente o Visitante (2007-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ccfba1d-72f5-4614-90fd-3c5056106622/15809143912-500.jpg" data-tags="jazz" role="button">
 Pink Martini - Hey Eugene! (2007-05-14)
@@ -311,9 +314,6 @@ Enrique Iglesias - Euphoria (2010-07-05)
 </li>
 <li data-cover="https://img.discogs.com/W3rrkSVJal2IKVaQ8LkewX36T-U=/fit-in/600x854/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9330007-1567446183-1508.png.jpg" data-tags="pop" role="button">
 Enrique Iglesias - I Like It (2010-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1155ca2-d814-4f17-9426-743189f8d853/15396503893-500.jpg" data-tags="pop, latin, bananas, shady, dolce, grady, partial, music to listen to in 2010, shady grady, deek, auditory, deek deek, deek deek deek, dake, ploppy, dake-bonoism, bonoism, jibby, specific generalities, specificity, generality, plopper, male or female, non-zero" role="button">
-El Guincho - Pop Negro (2010-09-13)
 </li>
 <li data-cover="https://img.discogs.com/CqC3uYplVNEfe1Ko7IVHDI3ImJY=/fit-in/500x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2169436-1267751480.jpeg.jpg" data-tags="pop, latin" role="button">
 Shakira - Sale el Sol (2010-10-14)
