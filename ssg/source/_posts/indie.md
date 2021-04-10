@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T21:32:06.934Z
+date: 2021-04-10T22:10:01.472Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -59,9 +59,6 @@ Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Interpol - Turn on the Bright Lights (2002-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a62cd38-0405-33c0-ade2-6be951f7b777/8606673911-500.jpg" data-tags="indie, indie rock" role="button">
-Broken Social Scene - You Forgot It In People (2002-10-15)
 </li>
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
@@ -290,6 +287,9 @@ Foster the People - Torches (2011-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/16f3fcf2-4511-4c8c-93bb-b4c8910aa9db/5792635582-500.jpg" data-tags="indie, frank ocean" role="button">
 Frank Ocean - Novacane (2011-05-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c763b64-12d2-4c61-9d4b-11eb06c2138d/13215984516-500.jpg" data-tags="indie, folk" role="button">
+Beirut - The Rip Tide (2011-08-02)
 </li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">
 Gotye - Making Mirrors (2011-08-19)

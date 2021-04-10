@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:53:01.410Z
+date: 2021-04-10T22:26:01.403Z
 title: "pop-punk: 100 albums you must listen to before you die"
 ---
 ![Yellowcard - Lights and Sounds (2006-01-18)](http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg "Yellowcard - Lights and Sounds (2006-01-18)")
@@ -21,11 +21,20 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/LMu1krdjUd--ZiOtVA3cl6zvohc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385676-1382123519-7295.jpeg.jpg" data-tags="punk rock, punk" role="button">
+Buzzcocks - A Different Kind of Tension (1979-09)
+</li>
 <li data-cover="https://img.discogs.com/ugjbjNW1wYlQhPOPT5E0LCbJg64=/fit-in/338x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1240135-1203029997.jpeg.jpg" data-tags="punk, punk rock" role="button">
 The Adicts - Songs of Praise (1981)
 </li>
+<li data-cover="https://img.discogs.com/PziGijtyAyOIXLbKUXOLSyGmcTk=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867842-1377450263-4494.jpeg.jpg" data-tags="punk" role="button">
+The Adicts - Sound of Music (1982)
+</li>
 <li data-cover="https://img.discogs.com/X6fiSwFs8qQ2G7qgID3MOmzZsQ8=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627925-1243439477.jpeg.jpg" data-tags="punk" role="button">
 The Adicts - Smart Alex (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/0693c832-6663-447a-908b-2273545a7a41/1863408288-500.jpg" data-tags="ska punk" role="button">
+Goldfinger - Goldfinger (1996-02-27)
 </li>
 <li data-cover="https://img.discogs.com/BcS5KvjsQrcJcmIU_fGCojexqU0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101905-1411118419-6315.jpeg.jpg" data-tags="indie rock, britpop, 90s, rock" role="button">
 Ash - 1977 (1996-04-29)
@@ -60,9 +69,6 @@ EVE 6 - Horrorscope (2000-07-19)
 <li data-cover="https://img.discogs.com/37rX_KJ-pUEs4rqsURx6BUXy_g8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3074593-1314510477.jpeg.jpg" data-tags="pop-punk, nettwerk" role="button">
 Treble Charger - Wide Awake Bored (2000-07-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/20d8fdf6-d08c-4384-8204-abdb87408aec/10858824360-500.jpg" data-tags="pop punk" role="button">
-Bowling for Soup - Drunk Enough to Dance (2000-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/afd09c19-87f1-368e-8e9a-738186154f7f/25137146393-500.jpg" data-tags="ska punk, ska" role="button">
 Ska-P - Planeta Eskoria (2000-10-09)
 </li>
@@ -74,9 +80,6 @@ American Hi-Fi - American Hi-Fi (2001-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c552a41-0787-4fac-9a47-c57189f4cb3e/3045265515-500.jpg" data-tags="punk rock" role="button">
 Alkaline Trio - From Here to Infirmary (2001-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/b55cac2b-dfcf-435c-82c3-fa9ddd3136d9/26290886238-500.jpg" data-tags="ska punk" role="button">
-Mad Caddies - Rock The Plank (2001-04-10)
 </li>
 <li data-cover="https://img.discogs.com/D4TQiVXih8lUXHMWLda880kUDLA=/fit-in/486x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558652-1370617869-6756.jpeg.jpg" data-tags="emo" role="button">
 Saves the Day - Stay What You Are (2001-07-10)
@@ -117,14 +120,14 @@ The Juliana Theory - Love (2003-02-04)
 <li data-cover="http://coverartarchive.org/release/5c3f089c-a56b-3587-9dfd-1116890c0325/5678899612-500.jpg" data-tags="pop punk, emo, punk" role="button">
 Fall Out Boy - Take This to Your Grave (2003-05-06)
 </li>
-<li data-cover="https://img.discogs.com/f5loloYlu0t5ZQmJrzvgj8e82J4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1567795-1463486144-9408.jpeg.jpg" data-tags="pop punk" role="button">
-Spitalfield - Remember Right Now (2003-06-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
 Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, live" role="button">
 Avril Lavigne - My World (2003-11-03)
+</li>
+<li data-cover="https://img.discogs.com/qWHZBHnwBnXntVmmOj4pIGo7a5U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8005087-1453318330-1557.jpeg.jpg" data-tags="pop-punk, emopop, un batalla mas" role="button">
+Thermo - Arde En Mi (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c2df079-8585-4604-8d45-93201c4dfadd/14990538151-500.jpg" data-tags="deutzia" role="button">
 Bayside - Sirens and Condolences (2004-01-27)
@@ -135,26 +138,17 @@ Emery - The Weak's End (2004-01-27)
 <li data-cover="http://coverartarchive.org/release/81021889-7c5c-4e19-af1b-c075e6ba7536/5609920003-500.jpg" data-tags="emo, punk rock, pop punk, pop-punk" role="button">
 1208 - Turn of the Screw (2004-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d40ce628-20ee-464b-8bbf-f11b1860d020/13750657821-500.jpg" data-tags="punk, punk rock" role="button">
-Descendents - Cool to Be You (2004-03-23)
-</li>
 <li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
 Dead Poetic - New Medicines (2004-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0365b79-6bf3-4523-8337-15a6f7cbd8f0/25689157271-500.jpg" data-tags="pop punk" role="button">
-Midtown - Forget What You Know (2004-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/cdfaf264-5840-4e9e-b2ff-805806e21080/9371082815-500.jpg" data-tags="punk rock" role="button">
-The Explosion - Black Tape (2004-10-05)
-</li>
-<li data-cover="https://img.discogs.com/iJskKmwAOtSy8DqLjYHV9iZZqL8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104965-1264272700.jpeg.jpg" data-tags="christian rock, christian, pop punk, rock" role="button">
-Relient K - Mmhmm (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk, emo" role="button">
 The Academy Is... - Almost Here (2005-02-08)
+</li>
+<li data-cover="https://img.discogs.com/GfZIlMIuuR8Ewrd735d6XFaDA4k=/fit-in/302x231/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7081170-1433260935-4070.jpeg.jpg" data-tags="post-hardcore" role="button">
+Emanuel - Soundtrack To A Headrush (2005-03-01)
 </li>
 <li data-cover="https://img.discogs.com/y6t0kAg-KObDDhZWUK3H0fKp_GQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2402034-1463526135-9641.jpeg.jpg" data-tags="pop-punk, audioase, victory, i love this album" role="button">
 Spitalfield - Stop Doing Bad Things (2005-03-22)
@@ -204,14 +198,14 @@ Ber-linn - Войналюбовь (2006-12-06)
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/f455779f-dec7-48c8-af09-f6714daf4c1f/23387977674-500.jpg" data-tags="ska" role="button">
-Mad Caddies - Keep It Going (2007-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/123a3fc0-7a4a-3e52-8a7a-f757d1d27175/14769024533-500.jpg" data-tags="pop punk, punk rock" role="button">
 Yellowcard - Paper Walls (2007-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/1e887266-e410-4ef6-b148-93752aa542da/9622712000-500.jpg" data-tags="j-rock" role="button">
+ONE OK ROCK - ゼイタクビョウ (2007-11-21)
 </li>
 <li data-cover="https://img.discogs.com/QiRTf3V1hNpAWbrj5s8fCrzNsuY=/fit-in/600x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1278845-1299574955.jpeg.jpg" data-tags="pop-punk" role="button">
 Vanilla Sky - Umbrella (2007-12-07)
@@ -249,17 +243,14 @@ Saosin - In Search Of Solid Ground (2009-09-02)
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">
 The Summer Set - Love Like This (2009-10-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/35b55bea-9d10-4dd8-8636-7d9961bf3ddf/3705570104-500.jpg" data-tags="rock, pop, alternative rock" role="button">
+Avril Lavigne - Alice (2010-01-29)
+</li>
 <li data-cover="https://img.discogs.com/yeXEEzpdCUssWlMsUH6y_sijQDc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418718-1355949227-6640.jpeg.jpg" data-tags="indie, alternative, progressive rock, pop-punk, southern rock, post-hardcore, melodic hardcore, lyrics, glassjawcore, after it ends" role="button">
 Envy on the Coast - Lowcountry (2010-03-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/34c306bc-8ce1-4c0d-a0d9-a657b99b9616/14772018341-500.jpg" data-tags="piano rock" role="button">
-Something Corporate - Played In Space: The Best of Something Corporate (2010-04-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/15fe0d1d-c03d-3dbf-a542-eec1f110da65/26506646281-500.jpg" data-tags="ska punk" role="button">
-Mad Caddies - Consentual Selections (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad047492-7cba-4bbb-b506-1271d1a8b02c/11076702166-500.jpg" data-tags="punk, indie rock, punk rock, pop punk, pop-punk, orgcore" role="button">
 Iron Chic - Not Like This (2010-09-01)
@@ -267,11 +258,20 @@ Iron Chic - Not Like This (2010-09-01)
 <li data-cover="http://coverartarchive.org/release/c5649b41-3412-4c61-9a06-efbe70efbcb3/5374781489-500.jpg" data-tags="power pop, rock, alternative rock" role="button">
 Weezer - Death to False Metal (2010-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c4e2313-2ba1-4441-880b-334aee88f343/1977953917-500.jpg" data-tags="punk, emo, pop-punk" role="button">
+Fireworks - Bonfires EP (2011)
+</li>
 <li data-cover="http://coverartarchive.org/release/76cbcc56-63ca-49a5-acae-e51dbdffc21a/12051865740-500.jpg" data-tags="pop rock, rock, female vocalists" role="button">
 Avril Lavigne - What The Hell (2011-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dcf4baa-f600-4977-a49a-a64c53386daa/8691609486-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - Identity on Fire (2011-02-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/a02cf267-c520-4508-8bcd-fefc737c5dbd/7681477893-500.jpg" data-tags="post-hardcore" role="button">
+Close To Home - Never Back Down (2011-02-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ba6ade6-bbd6-4c2d-93a8-31f579f9a6f1/9182331337-500.jpg" data-tags="alternative, alternative rock, emo, pop punk, emotional, pop-punk" role="button">
+A Change of Pace - It Could Be Worse (2011-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b22d7bab-d06b-3622-8ec1-a39b917bf082/26651521055-500.jpg" data-tags="rock, punk rock, punk, pop-punk" role="button">
 Green Day - Awesome as Fuck (2011-03-18)
@@ -297,6 +297,9 @@ I Am The Avalanche - Avalanche United (2011-10-11)
 <li data-cover="http://coverartarchive.org/release/bceaf973-4866-48e3-a1ee-0fb0f25fb533/8364577160-500.jpg" data-tags="pop punk" role="button">
 Real Friends - Everyone That Dragged You Here (2012-01-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/22bee7ab-ad20-42d3-8660-65b226f8b870/14793746975-500.jpg" data-tags="indie, emo, pop-punk, rarities" role="button">
+Say Anything - All My Friends Are Enemies: Early Rarities (2013-01-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/1907fc90-db86-4e51-9411-a78aba1084f8/6756961158-500.jpg" data-tags="pop punk" role="button">
 The Story So Far - What You Don't See (2013-03-26)
 </li>
@@ -317,8 +320,5 @@ Modern Baseball - You're Gonna Miss It All (2013-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/b043e4d2-708d-487f-a393-633d3363ecf3/6021977480-500.jpg" data-tags="pop punk" role="button">
 Polar Bear Club - Death Chorus (2013-11-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/45dcac3b-63c1-41fa-996b-6dbb33aee966/8956524652-500.jpg" data-tags="pop punk, alternative rock" role="button">
-You Me at Six - Cavalier Youth (2014-01-27)
 </li>
 </ol>

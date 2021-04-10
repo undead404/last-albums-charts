@@ -1,13 +1,13 @@
 ---
-date: 2021-04-10T12:50:07.085Z
+date: 2021-04-10T22:08:07.142Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">The Velvet Underground - White Light/White Heat (1968-01-30)</li>
-<li data-cover="http://coverartarchive.org/release/4f3da9b5-2333-4ebd-97df-a1bcd32166be/9737664235-500.jpg" data-tags="noise rock" role="button">Sonic Youth - EVOL (1986-05)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">Sonic Youth - Sister (1987-06)</li>
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">Sonic Youth - Goo (1990-06-26)</li>
+<li data-cover="http://coverartarchive.org/release/c8e850b0-f816-41cf-8fd7-625e2e03ea6f/21355592306-500.jpg" data-tags="indie rock, noise rock, shoegaze, god tier, 2007 fave albums, bobjebus16 owns this, jaarlijstje 2007, worn-out from overplay, no waste album, stand out albums of 2007" role="button">The Twilight Sad - Fourteen Autumns & Fifteen Winters (2007-04-03)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">No Age - Nouns (2008-05-06)</li>
 <li data-cover="https://img.discogs.com/Qs-XsCyFcAq1-r3ykSEGmihWB3k=/fit-in/400x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2586371-1291821882.jpeg.jpg" data-tags="alternative rock, noise rock, post-punk" role="button">Sonic Youth - The Eternal (2009-06-03)</li>
 <li data-cover="http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg" data-tags="noise rock" role="button">Health - GET COLOR (2009-09-08)</li>
@@ -42,12 +42,6 @@ Sonic Youth - Bad Moon Rising (1985)
 <li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
 The Jesus and Mary Chain - Psychocandy (1985-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3442347-3e3d-3705-bae9-42c48d5b575c/23448711507-500.jpg" data-tags="noise rock" role="button">
-Big Black - Atomizer (1986-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4f3da9b5-2333-4ebd-97df-a1bcd32166be/9737664235-500.jpg" data-tags="noise rock" role="button">
-Sonic Youth - EVOL (1986-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/843d0653-f15d-3d62-befc-ccc951e0db48/5857978636-500.jpg" data-tags="noise rock" role="button">
 Big Black - Songs About Fucking (1987)
 </li>
@@ -56,6 +50,9 @@ Butthole Surfers - Locust Abortion Technician (1987-03)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Sonic Youth - Sister (1987-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/661fe0c5-e8e4-47f5-9b51-9558b1e79c8a/14360892612-500.jpg" data-tags="punk, noise rock, post-punk, russian rock" role="button">
+Гражданская оборона - Здорово и вечно (1989-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
 Sonic Youth - Goo (1990-06-26)
@@ -72,11 +69,17 @@ Sonic Youth - Dirty (1992-07-20)
 <li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
 The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/a83e740b-8e53-4391-b50a-1bd08b7d06ee/27044971526-500.jpg" data-tags="post-hardcore" role="button">
+Unwound - Fake Train (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/617e6155-432c-4c95-a9ab-b78e1c7838c2/11841421329-500.jpg" data-tags="rock, alternative rock, alternative, psychedelic" role="button">
 Butthole Surfers - Independent Worm Saloon (1993-03-23)
 </li>
 <li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
 Polvo - Today's Active Lifestyles (1993-04-19)
+</li>
+<li data-cover="https://img.discogs.com/w13hb973prrSsKGNq2H51WX0D5E=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1140127-1253941957.jpeg.jpg" data-tags="post-hardcore" role="button">
+Unwound - New Plastic Ideas (1994-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
@@ -89,9 +92,6 @@ Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Sa
 </li>
 <li data-cover="https://img.discogs.com/N6Xjb1_7B8Hm8CRkYw6BH7chHdU=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-702256-1575569552-6407.jpeg.jpg" data-tags="indie rock, alternative" role="button">
 Blonde Redhead - Fake Can Be Just as Good (1997-03-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Death to the Pixies (1997-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0730eb5d-b0e1-4458-bc21-498783e5eb4e/20987949311-500.jpg" data-tags="math rock, post-punk" role="button">
 Shellac - Terraform (1998-02-10)
@@ -140,6 +140,9 @@ Sonic Youth - Sonic Nurse (2004-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/4f96c9c3-8690-459f-a4d7-aedbafeece47/6796224701-500.jpg" data-tags="noise rock, ambient punk" role="button">
 Deerhunter - Turn It Up Faggot (2005-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/51123fe5-7f38-47d8-9820-57ad21501a7b/3593696233-500.jpg" data-tags="noise rock, post-rock, progressive rock, september, rock still rocks" role="button">
+Linda Martini - Olhos de mongol (2006)
 </li>
 <li data-cover="https://img.discogs.com/w7C3d8OHmFjsMS3t3Tvx8WQSFRo=/fit-in/400x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5119480-1385028132-2136.jpeg.jpg" data-tags="alternative rock" role="button">
 Sonic Youth - Rather Ripped (2006-06-05)
@@ -233,9 +236,6 @@ No Age - Everything in Between (2010-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3468ed3-ebae-475b-932e-5578336ce72b/1944402956-500.jpg" data-tags="post-rock, experimental" role="button">
 Swans - My Father Will Guide Me Up a Rope to the Sky (2010-09-21)
-</li>
-<li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">
-Deerhunter - Halcyon Digest (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/03a05ce9-6a91-4126-bad3-d53d1807c69a/9563885219-500.jpg" data-tags="noise rock" role="button">
 Iceage - New Brigade (2011-01-07)

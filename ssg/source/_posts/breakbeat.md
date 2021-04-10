@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:13:01.489Z
+date: 2021-04-10T22:27:01.418Z
 title: "breakbeat: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -77,6 +77,9 @@ Prodigy - The Fat Of The Land (1997-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/f80aac8c-32cc-4a2c-ae2b-658628f505f2/21372046654-500.jpg" data-tags="electronic" role="button">
 The Prodigy - The Fat Of The Land (1997-06-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/2becda5a-1081-4eca-b63c-e5023b5d3b72/10985265686-500.jpg" data-tags="big beat" role="button">
+Lunatic Calm - Metropol (1997-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a664645-ab08-4ffe-9ad2-a34c47029bb2/10125792528-500.jpg" data-tags="electronic, breakbeat" role="button">
 The Crystal Method - Vegas (1997-08-26)
@@ -222,6 +225,9 @@ Future Funk Squad - Audio Damage (2006-05-08)
 <li data-cover="https://img.discogs.com/VwjS0kvWBE33o6_5UsVbu3So8t8=/fit-in/517x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748371-1154802754.jpeg.jpg" data-tags="breakbeat" role="button">
 Hyper - We Control (2006-05-08)
 </li>
+<li data-cover="https://img.discogs.com/N12edyRPc5RV1ZzJpqrzm9iQkhs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-844674-1164671917.jpeg.jpg" data-tags="electronic" role="button">
+Boom Boom Satellites - On (2006-05-17)
+</li>
 <li data-cover="https://img.discogs.com/8UmEZvw_mS2l_6Ic_c4zXXPBLq8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9062999-1488959114-4398.jpeg.jpg" data-tags="breakbeat, electronic" role="button">
 Hybrid - I Choose Noise (2006-08-08)
 </li>
@@ -236,9 +242,6 @@ Amon Tobin - Foley Room (2007-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/331161c2-7b97-43a8-b4f9-88c0e6a01127/8090852961-500.jpg" data-tags="electronic, dubstep, tribal fusion" role="button">
 Bassnectar - Underground Communication (2007-04-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cb54f27-51f3-4185-9772-e4dcf84cbe30/13038051479-500.jpg" data-tags="electronica, synthpop" role="button">
-Blaqk Audio - CexCells (2007-08-14)
 </li>
 <li data-cover="https://img.discogs.com/aw35X62k25wmJ-2NmmK3F_gNIQg=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1464663-1224554071.png.jpg" data-tags="hip hop, alternative, dub, funk, breakbeat, groovy, big beat, uutta jazzia, acid lounge, lounge groove, shambles 2008, city lounge, my-love, acoustic groove, alternative lounge, lounge-tech, smoothly sexy sounding, groove lounge, electronic lounge jazz, lounge electronic, lounge uptempo, my lounge room, ouahhhhh, tropcool, chillounge1, jazzy vibes, epic lounge, sexy sounding, uuta jazzia, uutta jazziz" role="button">
 Fort Knox Five - Radio Free DC (2008)
@@ -255,9 +258,6 @@ Buraka Som Sistema - Black Diamond (2008-09-29)
 <li data-cover="http://coverartarchive.org/release/e1fdc581-6f03-46a1-ac5a-cc18dfff1374/5428348641-500.jpg" data-tags="glitch-hop" role="button">
 Kraddy - Android Porn / Steppin' Razor - Single (2008-10-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="breakbeat, industrial metal, nu metal, mathcore, music, music with beats" role="button">
-ギルガメッシュ - MUSIC (2008-11-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/87adb95f-bfcc-49f5-b7a0-c73ff9512589/26666196769-500.jpg" data-tags="breakbeat, rave, jungle" role="button">
 Zomby - Where Were U in '92? (2008-11-10)
 </li>
@@ -270,14 +270,14 @@ The Prodigy - Omen (2009-01)
 <li data-cover="https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg" data-tags="electronic, breakbeat" role="button">
 The Prodigy - Invaders Must Die (2009-02-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/a18382d4-1a74-457a-9a1c-76df55e39e14/16683358297-500.jpg" data-tags="breakbeat, warteschleife, chinese man the groove sessions 2" role="button">
+Chinese Man - The Groove Sessions Volume 2 (2009-03-30)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="big beat, breakbeat, electronic" role="button">
 The Crystal Method - Divided By Night (2009-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9003d52-4214-422d-a0a2-4343fe9e75e0/6164086297-500.jpg" data-tags="classic rock, pop, rock, 80s, funky, breakbeat, underground" role="button">
 Gossip - Heavy Cross (2009-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/34ddc83f-e1c2-40ea-8c87-0bc1d6ab4e34/5073213622-500.jpg" data-tags="dubstep, dubstep idm, dj hiptronic" role="button">
-PANTyRAiD - The Sauce (2009-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f741d84-1362-44fd-9886-4781286d33e4/19096380097-500.jpg" data-tags="hip-hop, electronic, hip hop, dubstep, club, breakbeat" role="button">
 Sporty-O - Let Me Hit It (2009-12-01)

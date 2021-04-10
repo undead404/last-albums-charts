@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:50:01.506Z
+date: 2021-04-10T22:28:01.431Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -62,6 +62,9 @@ Will Smith - Big Willie Style (1997-11-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
+Jack Johnson - Brushfire Fairytales (2000)
 </li>
 <li data-cover="https://img.discogs.com/FAGWC194GFMHIrVYWKb_9o7L9Kk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-607977-1360109255-6006.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 Wheatus - Wheatus (2000-08-15)
@@ -168,9 +171,6 @@ The Shins - Wincing the Night Away (2007-01-22)
 <li data-cover="http://coverartarchive.org/release/a01bc8ac-bdbe-3893-ab2d-2990e52005cf/8763055969-500.jpg" data-tags="indie, folk" role="button">
 Andrew Bird - Armchair Apocrypha (2007-03-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/bcffd66c-4f07-486f-91f3-204dd60462dc/2100279999-500.jpg" data-tags="alternative metal, hard rock" role="button">
 Chevelle - Vena Sera (2007-04-03)
 </li>
@@ -216,9 +216,6 @@ Yeah Yeah Yeahs - It's Blitz! (2009-03-08)
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/d221a019-b04f-4378-aacc-4d93ca3032a9/6514078556-500.jpg" data-tags="hip hop for faggots" role="button">
-Asher Roth - Asleep in the Bread Aisle (2009-04-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
@@ -255,9 +252,6 @@ Band of Horses - Infinite Arms (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/689f26cd-b624-4bd2-a1bf-fd327f65f07b/9361302288-500.jpg" data-tags="electro hop" role="button">
-Mike Posner - 31 Minutes to Takeoff (2010-08-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/6237fb41-19a4-4674-89e0-aad53ded455a/5976752246-500.jpg" data-tags="rock, alternative rock" role="button">
 The Pretty Reckless - Light Me Up (2010-08-27)
 </li>
@@ -281,6 +275,9 @@ Givers - In Light (2011-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Within and Without (2011-07-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/54d25015-9820-4982-bd8f-1810d8237473/8040874955-500.jpg" data-tags="indie rock" role="button">
+The War on Drugs - Slave Ambient (2011-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">
 The Lumineers - The Lumineers (2012-04-03)
@@ -317,6 +314,9 @@ Beck - Morning Phase (2014-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/77e3b871-155d-4b8e-ba19-8af12ace9ad7/6723882290-500.jpg" data-tags="selfie" role="button">
 The Chainsmokers - #SELFIE (2014-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff15d5f2-13a9-4f05-8d45-a171e445a411/8807148250-500.jpg" data-tags="american" role="button">
+Fifth Harmony - Sledgehammer (2014-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
 Walk the Moon - Talking Is Hard (2014-11-24)

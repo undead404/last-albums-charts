@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:51:01.470Z
+date: 2021-04-10T22:31:06.890Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -10,10 +10,10 @@ title: "screamo: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">Underoath - They're Only Chasing Safety (2004-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">Senses Fail - Let It Enfold You (2004-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">Chiodos - All's Well That Ends Well (2005-07-26)</li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">Underoath - Define the Great Line (2006-03-25)</li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">Alesana - On Frail Wings of Vanity And Wax (2006-06-20)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
+<li data-cover="https://img.discogs.com/1PvyKtZ-ooTwaD0TkN-cxj5VoGE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3650727-1533415894-4992.jpeg.jpg" data-tags="post-hardcore, screamo" role="button">Eyes Set to Kill - Reach (2008-02-19)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -138,9 +138,6 @@ Hawthorne Heights - If Only You Were Lonely (2006-02-28)
 <li data-cover="https://img.discogs.com/Pe_TGq0oPcvu7tNDerf3zOxwyyw=/fit-in/600x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652987-1339811087-5165.jpeg.jpg" data-tags="post-hardcore" role="button">
 From First to Last - Heroine (2006-03-20)
 </li>
-<li data-cover="https://img.discogs.com/0jsnhuwQ3Gx3HGYoG7ZY6krYJdw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1892204-1326299483.jpeg.jpg" data-tags="post-hardcore, metalcore, screamo" role="button">
-Underoath - Define the Great Line (2006-03-25)
-</li>
 <li data-cover="https://img.discogs.com/jXHEqpkzaiZYX3BIWucVSpVCSiQ=/fit-in/479x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067528-1262096038.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Louder Now (2006-04-24)
 </li>
@@ -210,9 +207,6 @@ Devil Sold His Soul - A Fragile Hope (2007-06-18)
 <li data-cover="http://coverartarchive.org/release/5591c8e3-f52a-487c-b130-da267a13f759/22180030295-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Silverstein - Arrivals & Departures (2007-07-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
-The Devil Wears Prada - Plagues (2007-08-21)
-</li>
 <li data-cover="https://img.discogs.com/yBb3KKD11zaLmfN2lVOoNzcyR7s=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1224239-1209548635.jpeg.jpg" data-tags="metalcore, hard rock" role="button">
 Atreyu - Lead Sails Paper Anchor (2007-08-27)
 </li>
@@ -261,6 +255,9 @@ Bring Me the Horizon - Suicide Season (2008-09-29)
 <li data-cover="http://coverartarchive.org/release/3557e924-c177-4c76-81f6-5952099d4182/16116434681-500.jpg" data-tags="post-hardcore, experimental, screamo" role="button">
 I Set My Friends on Fire - You Can't Spell Slaughter Without Laughter (2008-10-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/82d305e4-8d45-4673-9240-1b36da06b1eb/8973784940-500.jpg" data-tags="post-hardcore" role="button">
+Escape the Fate - This War Is Ours (2008-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/a4e48e1b-510f-4671-b51c-ae66fa6adfa7/9206975708-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Somewhere at the Bottom of the River Between Vega and Altair (2008-11-11)
 </li>
@@ -290,6 +287,9 @@ Casino Madrid - For Kings & Queens (2010-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/220f4989-ecd6-4d2b-a551-f7f56f8f5673/3429259291-500.jpg" data-tags="rock, japanese, alternative, emo, screamo, j-rock" role="button">
 ONE OK ROCK - Nicheシンドローム (2010-06-09)
+</li>
+<li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
+Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)

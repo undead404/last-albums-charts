@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:37:01.414Z
+date: 2021-04-10T22:17:01.415Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -33,14 +33,14 @@ The Clash - London Calling (1979-12-14)
 <li data-cover="https://img.discogs.com/GZTNxEFdR7Y4ZR0JiuMiR_FvYp0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17882959-1615988212-9837.jpeg.jpg" data-tags="ska, two-tone" role="button">
 The English Beat - I Just Can't Stop It (1980-05-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/922ded3b-38d8-4814-922d-85e8cc7491f5/5858926036-500.jpg" data-tags="ska" role="button">
+The Beat - I Just Can't Stop It (1980-05-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/9604a153-5a40-35c0-ba5c-72019a5df380/22902123804-500.jpg" data-tags="ska" role="button">
 The Specials - More Specials (1980-10-04)
 </li>
 <li data-cover="https://img.discogs.com/QrUfqBdPRG_lJnavue4rHldfAJc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625555-1600930074-5109.jpeg.jpg" data-tags="ska, 80s" role="button">
 Madness - Complete Madness (1982-04-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/49adee94-0cc6-4719-9afa-ef0b9ec5d51c/20509358981-500.jpg" data-tags="rock, 80s, punk, reggae, new wave, post-punk, ska, punk rock, brazilian, brazilian rock, rock gaucho, engenheiros do hawaii, morpheus songs, nei lisboa, humberto gessinger, carlos maltz, manito, marcelo pitz" role="button">
-Engenheiros Do Hawaii - Longe Demais Das Capitais (1986-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
 Operation Ivy - Energy (1989-03-15)

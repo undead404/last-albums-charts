@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:02:01.906Z
+date: 2021-04-10T21:59:01.407Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -7,11 +7,11 @@ title: "australian: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/jsfuBqIQ9Tl25n0Dd8juDTzDnYc=/fit-in/350x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059559-1306253341.jpeg.jpg" data-tags="rock" role="button">Jet - Get Born (2003-09-14)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
 <li data-cover="http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg" data-tags="rock, hard rock" role="button">Wolfmother - Wolfmother (2005-10-31)</li>
+<li data-cover="http://coverartarchive.org/release/d140c01c-906d-37e8-96ac-fffa45af8fcc/8490359162-500.jpg" data-tags="electronic, australian, indietronica" role="button">Pnau - Pnau (2007-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">The Temper Trap - Sweet Disposition (2008)</li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">Cut Copy - In Ghost Colours (2008-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/f1fc4c16-65a8-4c3e-a249-23ef46c41918/5300813420-500.jpg" data-tags="electronic" role="button">Empire of the Sun - Walking on a Dream (2009-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/2342ef67-07f8-4fc7-b7c5-a15d20bccac1/5908075333-500.jpg" data-tags="indie rock" role="button">The Temper Trap - Conditions (2009-06-19)</li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">Angus & Julia Stone - Down the Way (2010-03-12)</li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">Gotye - Making Mirrors (2011-08-19)</li>
 <li data-cover="http://coverartarchive.org/release/c06c34e8-15b5-4728-abfc-c7a4bca2c956/3981485392-500.jpg" data-tags="electronic, australian" role="button">Empire of the Sun - Ice on the Dune (2013-06-14)</li>
 </ol>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
+The Easybeats - Friday on My Mind (1966)
+</li>
 <li data-cover="https://img.discogs.com/TxLsEOQafZcd7-FZAUgQAAYb720=/fit-in/567x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-952873-1193960761.jpeg.jpg" data-tags="80s" role="button">
 Men at Work - Business As Usual (1981)
 </li>
@@ -29,12 +32,6 @@ AC/DC - '74 Jailbreak (1984-10-15)
 </li>
 <li data-cover="https://img.discogs.com/BKUnzmFqbvcnSwjiJB8gea1s5y4=/fit-in/592x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2588932-1292031961.jpeg.jpg" data-tags="pop rock, australian, rca victor, needs to be played more, aussie classic, john farnham-pressure down, whispering jack" role="button">
 John Farnham - Whispering Jack (1986)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
-AC/DC - Who Made Who (1986-05-12)
-</li>
-<li data-cover="https://img.discogs.com/9o9o8n-KtM0OAjhwZUcYaN2ZYFY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-692052-1418583874-7321.jpeg.jpg" data-tags="80s, pop, rock" role="button">
-Crowded House - Crowded House (1986-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e8956bc-c0d2-488b-b48c-96006713372c/17787548090-500.jpg" data-tags="rock, 80s" role="button">
 Midnight Oil - Diesel and Dust (1987-06-22)
@@ -80,6 +77,9 @@ Savage Garden - Affirmation (2000-01-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/49e0129a-3401-3850-9c5b-27646356b106/2425079924-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Stiff Upper Lip (2000-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/cfa5dfca-bedc-4e40-93eb-e10ad674cf7a/17355398442-500.jpg" data-tags="80s, new wave" role="button">
+Men at Work - Super Hits (2000-08-22)
 </li>
 <li data-cover="https://img.discogs.com/ACdDBfOmzhFhtqqk19ZxAy_n6-c=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1308402-1555946464-7528.jpeg.jpg" data-tags="rock, australian rock, powderfinger" role="button">
 Powderfinger - Odyssey Number Five (2000-09-04)
@@ -138,9 +138,6 @@ The Veronicas - The Secret Life of... (2005-08-08)
 <li data-cover="http://coverartarchive.org/release/ef2b7550-bb44-4289-9088-4daa37593f10/20024492143-500.jpg" data-tags="rock, australian" role="button">
 End of Fashion - End of Fashion (2005-08-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/fbe00d72-57d2-48e3-a736-ca533797a93b/17355643616-500.jpg" data-tags="pop" role="button">
-Missy Higgins - The Sound Of White (2005-08-25)
-</li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
 </li>
@@ -158,6 +155,9 @@ Josh Pyke - Feeding the Wolves (2005-11-14)
 </li>
 <li data-cover="https://img.discogs.com/4fUrGfPsFHBjYh100HLseNzxA1Y=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533610-1289194214.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Jet - Shine On (2006-09-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/7bbbf314-6c09-4955-af70-ac1e563edd7a/2083173659-500.jpg" data-tags="alternative, female vocalists" role="button">
+Sarah Blasko - What The Sea Wants, The Sea Will Have (2006-10-21)
 </li>
 <li data-cover="https://img.discogs.com/iOtZoWcLAu7_1ro4cwfNro7VSgo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2654438-1295792168.jpeg.jpg" data-tags="indie pop" role="button">
 Josh Pyke - Memories & Dust (2007-03-10)
@@ -240,9 +240,6 @@ Bag Raiders - Shooting Stars (2009-08-07)
 <li data-cover="http://coverartarchive.org/release/75cc7390-a1e9-4609-aa75-5917b353c237/9438908387-500.jpg" data-tags="house, boogie" role="button">
 Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)
 </li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
-</li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="folk, australian, jbt, john butler" role="button">
 The John Butler Trio - April Uprising (2010-03-24)
 </li>
@@ -305,6 +302,9 @@ Courtney Barnett - The Double EP: A Sea of Split Peas (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e27a4d-6b32-46c7-8994-57728b4bca98/26563562242-500.jpg" data-tags="electropop, australian, alternative dance" role="button">
 Cut Copy - Free Your Mind (2013-11-01)
+</li>
+<li data-cover="https://img.discogs.com/5ML1CJp8Z_MMp6UUplVzZhjLyh8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-594036-1136136960.jpeg.jpg" data-tags="pop" role="button">
+Kylie Minogue - Kiss Me Once (2014-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/92285633-a742-4a0c-ab9e-0fbd6e66a859/11423828172-500.jpg" data-tags="indie, australian" role="button">
 Sheppard - Bombs Away (2014-06-11)

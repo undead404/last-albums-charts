@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:24:01.997Z
+date: 2021-04-10T22:41:01.419Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
@@ -195,9 +195,6 @@ Stéphane Pompougnac - Living on the Edge (2003-11)
 <li data-cover="https://img.discogs.com/9stA8RDVNKgB7V7H7fokGCisbSU=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-444219-1417107720-4484.jpeg.jpg" data-tags="chillout" role="button">
 Vargo - Beauty (2004)
 </li>
-<li data-cover="https://img.discogs.com/V_wOUbZVuiiHLhePSXHoWwyRbD4=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-228123-1512193026-9429.jpeg.jpg" data-tags="lounge, club, excellent, austria, vienna, 2 s34rch, bebopdelula chills out, r00ts, vienna sound, g-stone, labels - g-stone, barturismooth" role="button">
-Rodney Hunter - Hunter Files (2004)
-</li>
 <li data-cover="http://coverartarchive.org/release/52b924be-bf9c-44ab-bb1d-c2300db431cd/7851491988-500.jpg" data-tags="chillout, latin" role="button">
 Federico Aubele - Gran Hotel Buenos Aires (2004-02-27)
 </li>
@@ -218,6 +215,9 @@ Govinda - Worlds Within (2004-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d4135e8-4d34-443c-91d5-0297e9ef14d8/4783518168-500.jpg" data-tags="acoustic, lounge metal" role="button">
 Hellsongs - Hymns in the Key of 666 (2005)
+</li>
+<li data-cover="http://coverartarchive.org/release/90e011e2-1a3b-483c-9684-355601689c0f/8050276606-500.jpg" data-tags="trip-hop, electronic, chillout, electronica" role="button">
+Télépopmusik - Angel Milk (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/08b99cb1-7769-472c-a908-496fd3b7a76d/2220650980-500.jpg" data-tags="electronic, turntablism, trip-hop" role="button">
 Wax Tailor - Tales of the Forgotten Melodies (2005-02-22)
@@ -279,6 +279,9 @@ Samantha James - Rise (2007-09-25)
 <li data-cover="http://coverartarchive.org/release/3293e88d-a646-4f1f-bfc5-d2fcec56d99e/3279405505-500.jpg" data-tags="lounge, electronic" role="button">
 Alphawezen - Comme Vous Voulez (2007-09-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/b584bfc7-ecee-33d4-9d5f-9703df8c3e66/8119311175-500.jpg" data-tags="british, post-rock, downtempo, house, lounge, 00s, six degrees, big chill, instrumental chamber pop, electronica chill out, essential electronica, essential albums for the aspiring wizard" role="button">
+Tom Middleton - Lifetracks (2007-10-01)
+</li>
 <li data-cover="https://img.discogs.com/qy4NzdeoIDtVBQQZJ7rKX6vqR3Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1242072-1346934406-8539.jpeg.jpg" data-tags="lounge" role="button">
 Rekevin - A Peacock (2008)
 </li>
@@ -305,9 +308,6 @@ Nekta - Storybook (2009-10-30)
 </li>
 <li data-cover="https://img.discogs.com/rd9zWnc2FR8EegNsQ-IfshieNDc=/fit-in/600x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6407884-1418485371-2056.jpeg.jpg" data-tags="lounge" role="button">
 SunSay - Дайвер (2010)
-</li>
-<li data-cover="https://img.discogs.com/uHHEJpVLOmFzbYpzk1Bxdj04FNA=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6192118-1413349642-3697.jpeg.jpg" data-tags="pop" role="button">
-Hooverphonic - The Night Before (2010-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)

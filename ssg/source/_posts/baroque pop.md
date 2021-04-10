@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T18:50:01.637Z
+date: 2021-04-10T22:16:06.882Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -62,6 +62,9 @@ John Cale - Vintage Violence (1970)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b/11682519206-500.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Bryter Layter (1970-11)
+</li>
+<li data-cover="https://img.discogs.com/F4y4Ml7lqOoTrgR7WurZ40L_CQ8=/fit-in/380x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5843299-1404775547-8954.jpeg.jpg" data-tags="70s, usa, soft rock, baroque pop, elegant, 1970's, 70's, underplayed, made of awesome and win, underrated as hell, so underrated that it hurts, underrated so it hurts" role="button">
+Scott Walker - 'Til the Band Comes In (1970-12)
 </li>
 <li data-cover="https://img.discogs.com/dBjr4eRodC_8Arxa4xEWuJow38s=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-776417-1161724004.jpeg.jpg" data-tags="van dyke parks, steel pan" role="button">
 Van Dyke Parks - Discover America (1972)
@@ -272,9 +275,6 @@ Kishi Bashi - 151a (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
 Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/798c24c1-4ef9-47ca-ae68-d3c4f5fde3bc/15309211291-500.jpg" data-tags="baroque pop" role="button">
-Anna von Hausswolff - Ceremony (2012-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/388e1e08-0628-4799-bd60-a50a6ba590da/4876724124-500.jpg" data-tags="indie pop" role="button">
 Stars - The North (2012-09-04)

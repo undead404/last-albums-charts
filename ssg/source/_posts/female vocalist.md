@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:22:01.426Z
+date: 2021-04-10T22:30:01.451Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![Shakira - She Wolf (2009-10-09)](http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg "Shakira - She Wolf (2009-10-09)")
@@ -13,7 +13,7 @@ title: "female vocalist: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/JEIfc9NdY3c9F5eLEJxd9_dr_54=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1148059-1202040265.jpeg.jpg" data-tags="female vocalist, indie" role="button">A Fine Frenzy - One Cell in the Sea (2007-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/b86285db-3459-37e8-a190-493ac9b7954f/21075550304-500.jpg" data-tags="pop, rnb" role="button">Jordin Sparks - Jordin Sparks (2007-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">Shakira - She Wolf (2009-10-09)</li>
-<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">Sara Bareilles - Kaleidoscope Heart (2010-09-06)</li>
+<li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -26,6 +26,9 @@ Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
+Tori Amos - Under the Pink (1994-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee/2125238082-500.jpg" data-tags="rock" role="button">
 Joan Osborne - Relish (1995-03-21)
@@ -50,6 +53,9 @@ Dido - No Angel (1999-06-01)
 </li>
 <li data-cover="https://img.discogs.com/wcbeSKP_aB4pvG4rgyduqbSndRQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10368880-1496116674-5471.jpeg.jpg" data-tags="90s, soul, rnb, pop, female vocalists" role="button">
 Whitney Houston - My Love Is Your Love (1999-06-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e1b3d08-3af2-43ac-8010-64a801b45d25/10003126515-500.jpg" data-tags="spanish, pop" role="button">
+La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Destiny's Child - Survivor (2001-04-25)
@@ -135,6 +141,12 @@ Brandi Carlile - Brandi Carlile (2005-07-12)
 <li data-cover="http://coverartarchive.org/release/8fde8d7d-3f56-3d6e-8025-c8e9e5e76038/14903323808-500.jpg" data-tags="pop, pop punk, the veronicas" role="button">
 The Veronicas - The Secret Life of... (2005-08-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
+Norah Jones - Not Too Late (2006)
+</li>
+<li data-cover="https://img.discogs.com/P9OIItVWMrLLVMRWKBoMyl5N1x8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-605155-1137543919.jpeg.jpg" data-tags="indie, rock, alternative, indie rock, nth degree, jetsetter" role="button">
+Morningwood - Morningwood (2006-01-00)
+</li>
 <li data-cover="http://coverartarchive.org/release/bd693fb6-6fbd-4cbe-9b61-a78f18112910/28388783118-500.jpg" data-tags="dance" role="button">
 Cascada - Everytime We Touch (2006-02-21)
 </li>
@@ -174,9 +186,6 @@ Sia - Lady Croissant (2007-02-06)
 <li data-cover="https://img.discogs.com/f7__Lk0Pzcc6oc5LPnxSwsCu9nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912093-1248848106.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
 Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/5a2161b8-0ce9-4452-812e-94d0b40d2c01/15293691504-500.jpg" data-tags="trip-hop" role="button">
 Elsiane - Hybrid (2007-04-07)
 </li>
@@ -192,9 +201,6 @@ Kate Nash - Made of Bricks (2007-08-06)
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
-Angus & Julia Stone - A Book Like This (2007-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">
 Sugababes - Change (2007-10-08)
 </li>
@@ -203,9 +209,6 @@ Jordin Sparks - Jordin Sparks (2007-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
-</li>
-<li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
-The Asteroids Galaxy Tour - Fruit (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c4b4019-e51b-4334-811f-ca2621f32187/20956673504-500.jpg" data-tags="singer-songwriter, female vocalist, can you hear the rain" role="button">
 Russian Red - I Love Your Glasses (2008)
@@ -225,9 +228,6 @@ Goldfrapp - Seventh Tree (2008-02-06)
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/03471ca7-aeee-40fa-ba62-49a09c6a451b/24105616589-500.jpg" data-tags="pop, singer-songwriter, female vocalist" role="button">
-Charlotte Sometimes - Waves And The Both Of Us (2008-05-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/e2571a99-f9f8-4fa1-bdd2-22740cdcb31f/26625457519-500.jpg" data-tags="folk, female vocalists, female vocalist" role="button">
 Priscilla Ahn - A Good Day (2008-06-10)
 </li>
@@ -240,17 +240,20 @@ Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 <li data-cover="http://coverartarchive.org/release/fb2653a0-09ae-4fed-9684-545ef2941cc1/7693611149-500.jpg" data-tags="pop, british, uk, female vocalist, 00s, english, nice album art, cds i know i love" role="button">
 Alesha Dixon - The Alesha Show (2008-11-21)
 </li>
-<li data-cover="https://img.discogs.com/IoPytAH2_fifYpRzlbCRYXNdUgE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1642586-1234064589.jpeg.jpg" data-tags="female vocalist" role="button">
-Erin McCarley - Love, Save The Empty (2009-01-06)
-</li>
 <li data-cover="https://img.discogs.com/nMUq5r_7Cx55c3hDjKfzXSV9Zp0=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717943-1238941814.jpeg.jpg" data-tags="2009 albums" role="button">
 Bat for Lashes - Daniel (2009-02)
 </li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
 </li>
+<li data-cover="https://img.discogs.com/oR1xTsEgSpIteuBduC1hBQfHXY0=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2059688-1262550764.jpeg.jpg" data-tags="indie, zee avi" role="button">
+Zee Avi - Zee Avi (2009-05-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/d4b44066-c686-465e-a68a-4c5248b7466e/2133462264-500.jpg" data-tags="shakira, pop, dance" role="button">
 Shakira - She Wolf (2009-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/04f101f9-ec94-44e5-ada0-ad008e4ba143/11915919334-500.jpg" data-tags="lady gaga" role="button">
+Lady Gaga - Bad Romance (2009-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab1a46d9-45a9-4cb2-8ae2-e0eff63d9042/1236764317-500.jpg" data-tags="alternative rock" role="button">
 Flyleaf - Memento Mori (2009-11-06)
@@ -258,8 +261,8 @@ Flyleaf - Memento Mori (2009-11-06)
 <li data-cover="http://coverartarchive.org/release/06697697-6019-31eb-b5a0-f7bc3c861bbe/4896141275-500.jpg" data-tags="soul" role="button">
 Sade - Soldier of Love (2010-02-05)
 </li>
-<li data-cover="https://img.discogs.com/LrhznqUrhrbnOX4LXZY3sr6kwJw=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2187241-1268704983.jpeg.jpg" data-tags="folk, australian, acoustic, indie" role="button">
-Angus & Julia Stone - Down the Way (2010-03-12)
+<li data-cover="http://coverartarchive.org/release/811cb6bf-c2fe-47f9-96f5-2c0ca62aea65/4241392062-500.jpg" data-tags="female vocalist" role="button">
+Zaz - Je Veux (2010-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
@@ -269,9 +272,6 @@ CocoRosie - Grey Oceans (2010-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">
-Sara Bareilles - Kaleidoscope Heart (2010-09-06)
 </li>
 <li data-cover="https://img.discogs.com/8KeiDw_Q_q-hZW8ryWwrAkr2zJc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2652046-1295039348.gif.jpg" data-tags="disco, female vocalist, beth ditto" role="button">
 Beth Ditto - EP (2011-01-10)
@@ -290,9 +290,6 @@ Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
 <li data-cover="https://img.discogs.com/o05yWSBOKT3HgtC8ilBMpVhim7I=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2903044-1306494863.jpeg.jpg" data-tags="spanish, female vocalist" role="button">
 Russian Red - Fuerteventura (2011-05-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/14ddee9e-a6ea-4f52-98e9-2785496352e8/7311581193-500.jpg" data-tags="female vocalists, alternative" role="button">
-Florence + the Machine - Shake It Out (2011-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
@@ -314,6 +311,9 @@ J. Cole - Born Sinner (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9e9ec1a-8f79-4b92-8e43-da6603a43e34/5253500057-500.jpg" data-tags="trip-hop, electronic" role="button">
 FKA twigs - EP2 (2013-09-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
+Agnes Obel - Aventine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - War Eternal (2014-06-04)

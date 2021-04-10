@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:56:01.401Z
+date: 2021-04-10T21:54:01.488Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -66,9 +66,6 @@ The Allman Brothers Band - Brothers And Sisters (1973-08-01)
 <li data-cover="http://coverartarchive.org/release/be1fba3d-6f56-4441-bd88-d41f5140231f/20152394682-500.jpg" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Second Helping (1974)
 </li>
-<li data-cover="https://img.discogs.com/OZfYFU31jhDkMCHRwoRumrQZ7Yg=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1701642-1301495726.jpeg.jpg" data-tags="70s, southern rock" role="button">
-Little Feat - Feats Don't Fail Me Now (1974-09)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
 Lynyrd Skynyrd - Nuthin' Fancy (1975)
 </li>
@@ -104,6 +101,9 @@ ZZ Top - Eliminator (1983-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/98a283ff-5b66-4d1a-8add-53d11d278ac5/11547120929-500.jpg" data-tags="blues rock" role="button">
 ZZ Top - Afterburner (1985-10-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="southern rock" role="button">
+Lynyrd Skynyrd - Legend (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
 Tom Petty - Full Moon Fever (1989-04-25)
@@ -234,6 +234,9 @@ Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)
 <li data-cover="http://coverartarchive.org/release/ceeb1158-9507-4ee3-8af8-057ac3a803a2/8360071975-500.jpg" data-tags="hard rock, southern rock" role="button">
 Black Stone Cherry - Hell And High Water (2007-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/1b67ab50-5a1f-4fbf-97bf-08a0147b465f/26758185520-500.jpg" data-tags="hardcore" role="button">
+Maylene and the Sons of Disaster - II (2007-03-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/d48a2606-2876-449e-8d7f-a6b52b42c54c/17035663031-500.jpg" data-tags="rock" role="button">
 Kings of Leon - Because of the Times (2007-03-30)
 </li>
@@ -245,9 +248,6 @@ Every Time I Die - The Big Dirty (2007-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7009e041-7b5b-4cd5-99d0-2d04830133a3/2271277285-500.jpg" data-tags="classic rock, blues rock, rock" role="button">
 ZZ Top - Greatest Hits (2008)
-</li>
-<li data-cover="http://coverartarchive.org/release/deaac2cb-1514-4db1-982d-4fab7fc80039/9495466369-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
-Carolina Liar - Coming To Terms (2008-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/678909a4-a946-492c-8df1-8d92cad22da1/10713247283-500.jpg" data-tags="alternative rock, hard rock, southern rock" role="button">
 Shinedown - Devour (2008-05-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:30:01.528Z
+date: 2021-04-10T22:06:01.421Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -162,6 +162,9 @@ Little Big Town - The Road to Here (2005-10-04)
 <li data-cover="http://coverartarchive.org/release/b1bad411-da3c-466c-be2e-eb55561e6d06/9538822252-500.jpg" data-tags="country" role="button">
 Johnny Cash - The Legend of Johnny Cash (2005-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/12358748-1564-4da3-a337-5cdd00e9bbe0/4326628935-500.jpg" data-tags="country, joe nichols" role="button">
+Joe Nichols - III (2005-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/1d82c0ba-93bf-4b14-9110-12f64b8b435c/14023452876-500.jpg" data-tags="country, male country, kenny chesney - the road and the radio" role="button">
 Kenny Chesney - The Road and the Radio (2005-11-08)
 </li>
@@ -203,9 +206,6 @@ Sugarland - Enjoy The Ride (2006-11-07)
 </li>
 <li data-cover="https://img.discogs.com/cbWRBO7bQYZ29szzE21aUJO2Nko=/fit-in/596x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877510-1304419569.jpeg.jpg" data-tags="country" role="button">
 Keith Urban - Love, Pain & the whole crazy thing (2006-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
-Brandi Carlile - The Story (2007-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/53c4847b-c398-4b45-bd9b-06ab0f70036e/9461802456-500.jpg" data-tags="country" role="button">
 Blake Shelton - Pure BS (2007-05-01)

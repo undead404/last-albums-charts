@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:02:12.735Z
+date: 2021-04-10T22:21:01.409Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -21,12 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/e436d0c0-008b-3656-b7db-a8d228352f0d/7498580143-500.jpg" data-tags="african, africa" role="button">
-Miriam Makeba - Pata Pata (1967)
-</li>
-<li data-cover="http://coverartarchive.org/release/df151c91-79cf-49a6-9bab-374dec6a1812/8654400318-500.jpg" data-tags="jazz" role="button">
-Pharoah Sanders - Karma (1969)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab27a8fd-1d2d-4c53-b554-146885ba89a7/2569157966-500.jpg" data-tags="funk, acid jazz, jazz, soul" role="button">
 The Blackbyrds - The BlackByrds (1974)
 </li>
@@ -54,9 +48,6 @@ Incognito - Positivity (1993)
 <li data-cover="https://img.discogs.com/TdhZsEMLLo_oUFs6eqlM3fsGLLU=/fit-in/540x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1654996-1234863030.jpeg.jpg" data-tags="acid jazz" role="button">
 Mother Earth - The People Tree (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5c2a5a1-0935-3513-812b-9435606cc3df/27024184480-500.jpg" data-tags="acid jazz, downtempo" role="button">
-United Future Organization - United Future Organization (1993)
-</li>
 <li data-cover="http://coverartarchive.org/release/be5efb0f-b354-3071-a41f-e8784403ea8d/2479394930-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - Emergency On Planet Earth (1993-06-14)
 </li>
@@ -81,14 +72,14 @@ Count Basic - Life Think It Over (1994)
 <li data-cover="https://img.discogs.com/ff_asNjwbK3bM96fQXYhOPoEdr8=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-29668-1326623736.jpeg.jpg" data-tags="downtempo, ninja tune, acid jazz" role="button">
 9 Lazy 9 - Electric Lazyland (1994-05)
 </li>
+<li data-cover="https://img.discogs.com/95U7U2gbgrLhrwO1ON0x8ABecTc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-798463-1229707189.jpeg.jpg" data-tags="acid jazz" role="button">
+Buckshot LeFonque - Buckshot LeFonque (1994-07-15)
+</li>
 <li data-cover="https://img.discogs.com/WXVEMPqKKB4LA4WQxZ1gho4MwH4=/fit-in/200x197/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11914-1075232877.jpg.jpg" data-tags="soul, funk, acid jazz, this i like, 2 s34rch, r00ts, mlx, exploratory, ch3ck 74, superchill, opelmelange, jhe1, llamativas" role="button">
 Jhelisa - Galactica Rush (1994-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/0a0f4588-3a41-4c4c-96c3-6625ffc4120e/18762958101-500.jpg" data-tags="acid jazz" role="button">
-The James Taylor Quartet - In the Hand of the Inevitable (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b181c56b-6aad-4f41-9104-3f3c044d8be1/23264238178-500.jpg" data-tags="acid jazz" role="button">
 9 Lazy 9 - The Herb (1995-05-12)
@@ -107,9 +98,6 @@ Incognito - Beneath The Surface (1996)
 </li>
 <li data-cover="https://img.discogs.com/y6tL_isTcV3TdAmGrjxKKcAOkRk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314536-1509337866-3410.jpeg.jpg" data-tags="hip-hop, acid jazz" role="button">
 Buckshot LeFonque - Music Evolution (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/6281a6af-b755-4a35-a4fb-b01e49cfaf7b/6136648586-500.jpg" data-tags="funk, instrumental, acid jazz" role="button">
-Beastie Boys - The In Sound From Way Out! (1996-04-02)
 </li>
 <li data-cover="https://img.discogs.com/nWQE1IcfbSTHm0EDkeiX8ahJsxM=/fit-in/595x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7159849-1435065110-1254.jpeg.jpg" data-tags="acid jazz" role="button">
 Red Snapper - Prince Blimey (1996-09-09)
@@ -135,6 +123,9 @@ Smoke City - Flying Away (1997-06-24)
 <li data-cover="http://coverartarchive.org/release/c81ded29-9054-4c15-9e6c-72a12cc41ea1/17720852193-500.jpg" data-tags="downtempo, chillout, trip-hop" role="button">
 Kid Loco - A Grand Love Story (1997-11-25)
 </li>
+<li data-cover="https://img.discogs.com/WU1ARe72zrRVpkhxRsIzRKlZx58=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3907406-1603391918-7506.jpeg.jpg" data-tags="jazz, british, funk, acid jazz, 00s, jamiroquai, uk number one" role="button">
+Jamiroquai - High Times (1997-12-01)
+</li>
 <li data-cover="https://img.discogs.com/xV_5SyTRYyFYU9dUJbkiggU1kh4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-133675-1261228874.jpeg.jpg" data-tags="acid jazz" role="button">
 The Brand New Heavies - Shelter (1997-12-29)
 </li>
@@ -146,6 +137,9 @@ Jazzanova - Jazzanova EP (1998)
 </li>
 <li data-cover="https://img.discogs.com/raREjGNZ3-vigkbzpIeBfD0WyMk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-524438-1565151189-2546.jpeg.jpg" data-tags="funk, dance, acid jazz" role="button">
 Los Amigos Invisibles - The New Sound of the Venezuelan Gozadera (1998-03-24)
+</li>
+<li data-cover="https://img.discogs.com/mUZ6LyxL2JZsbWN7YSBSDKCe5KA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184906-1154760309.jpeg.jpg" data-tags="acid jazz" role="button">
+Barry Adamson - As Above, So Below (1998-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ea1c3dd-dc2d-4479-a13d-903c65381cb5/24421736197-500.jpg" data-tags="british, lounge" role="button">
 A Man Called Adam - Duende (1998-06-22)
@@ -200,6 +194,9 @@ Marc Moulin - Top Secret (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c3abc6d-8e80-4ac4-8e8a-61838de08115/4515154942-500.jpg" data-tags="electronic" role="button">
+Herbert - Bodily Functions (2001-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cbf9bb5-6b4d-4b4e-843e-0db79f8f3a58/4396377486-500.jpg" data-tags="downtempo" role="button">
 Quantic - The 5th Exotic (2001-06-18)
@@ -270,8 +267,17 @@ The Herbaliser - Take London (2005-05-31)
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/dbe668f2-3409-4cd4-a764-906d51c8eade/26071703514-500.jpg" data-tags="funk, jazz, soul, acid jazz" role="button">
+Incognito - Eleven (2005-10-31)
+</li>
 <li data-cover="https://img.discogs.com/5_R8PSnEtAenqpSIUMLsTpfil_A=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479480-1131929193.jpeg.jpg" data-tags="downtempo, ninja tune" role="button">
 Loka - Fire Shepherds (2006-03-26)
+</li>
+<li data-cover="https://img.discogs.com/bfMEL68rc00P8HtCMLhDFbEPGm8=/fit-in/354x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-736035-1153535752.jpeg.jpg" data-tags="downtempo, future jazz" role="button">
+Quantic - An Announcement To Answer (2006-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/9355ffab-55b5-462f-8ab1-9093f1274266/2543267829-500.jpg" data-tags="funk, house, acid jazz, jamiroquai" role="button">
+Jamiroquai - Runaway (2006-09-23)
 </li>
 <li data-cover="https://img.discogs.com/zdhoz-8WZ_o0cAPyww_efCT7bdU=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6861832-1428213114-9489.jpeg.jpg" data-tags="acid jazz" role="button">
 Incognito - bees + things + flowers (2006-10-02)
@@ -288,9 +294,6 @@ SunSay - SunSay (2007-09)
 <li data-cover="http://coverartarchive.org/release/17db2a43-5d90-45d6-afcf-729248ff40c0/4399091778-500.jpg" data-tags="nu jazz, acid jazz, trip hop" role="button">
 Free the Robots - Free The Robots EP (2007-10-16)
 </li>
-<li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
-The Asteroids Galaxy Tour - Fruit (2008)
-</li>
 <li data-cover="http://coverartarchive.org/release/262625a2-75b5-33bb-9d0d-b160f1569c7a/8395698263-500.jpg" data-tags="acid jazz" role="button">
 Incognito - Tales From The Beach (2008-04-23)
 </li>
@@ -302,9 +305,6 @@ Parov Stelar - Libella Swing (2008-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/eecc4e0f-48bf-4b4f-9786-b22080cd128b/4448536862-500.jpg" data-tags="dance, funk, latin, acid jazz, venezuela" role="button">
 Los Amigos Invisibles - Commercial (2009-06-09)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="jazz, pop, rock, soul, acoustic, funk, acid jazz, groove, funky, jecks" role="button">
-Edward Maya feat. Vika Jigulina - Stereo Love (2009-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e311d8e-876e-4b3d-a8cb-a5af3447842d/7392995216-500.jpg" data-tags="jazz-funk, acid jazz, neo-soul, french hip hop, jazz rap, conscious hip hop, french hip-hop" role="button">
 Hocus Pocus - 16 pièces (2010-03-15)

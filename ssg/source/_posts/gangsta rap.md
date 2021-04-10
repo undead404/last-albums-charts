@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:22:01.411Z
+date: 2021-04-10T21:47:01.410Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -12,7 +12,7 @@ title: "gangsta rap: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">The Game - The Documentary (2005-01-18)</li>
+<li data-cover="http://coverartarchive.org/release/30449188-217a-306d-91ab-5e4c7b6720cc/15035519821-500.jpg" data-tags="gangsta rap, rap, 50 cent" role="button">50 Cent - Curtis (2007-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">Pusha T - My Name Is My Name (2013-10-08)</li>
 </ol>
 List of 100 - under the cut.
@@ -35,9 +35,6 @@ N.W.A - Niggaz4Life (1991-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/573ba363-1706-4820-92ef-a3552235c7da/24589797802-500.jpg" data-tags="gangsta rap, west coast rap" role="button">
 DJ Quik - Quik Is The Name (1991-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
-Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">
 2Pac - 2Pacalypse Now (1991-11-12)
@@ -87,6 +84,9 @@ Mobb Deep - The Infamous (1995-04-18)
 <li data-cover="http://coverartarchive.org/release/d57b5ef8-ca89-4ce3-b1f4-b4f531f9cfe4/18953650600-500.jpg" data-tags="horrorcore, gangsta rap, memphis rap" role="button">
 Three 6 Mafia - Mystic Stylez (1995-05-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/2baf708f-8c79-4378-8577-32bedfb42548/13720364484-500.jpg" data-tags="gangsta rap" role="button">
+C-Bo - Tales From The Crypt (1995-06-15)
+</li>
 <li data-cover="https://img.discogs.com/rv6Vzq78QsfvRoWBBWpbft4qCrM=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-422498-1329568603.jpeg.jpg" data-tags="hip-hop, rap, g-funk" role="button">
 Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 </li>
@@ -119,6 +119,9 @@ The Notorious B.I.G. - Life After Death (1997-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f26284b3-367d-430d-96ec-a70ec73bdc43/18893059393-500.jpg" data-tags="rap, 90s, gangsta rap, when the smoke clears" role="button">
 Three 6 Mafia - Chapter 2: World Domination (1997-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/1f61f256-9556-45cd-97c9-eb65f58918e8/15689384597-500.jpg" data-tags="gangsta rap, southern rap, spc" role="button">
+South Park Mexican - Hustle Town (1998-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
@@ -186,6 +189,9 @@ Clipse - Lord Willin' (2002-04-01)
 <li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
 </li>
+<li data-cover="https://img.discogs.com/Sc8h4hNvvfIveS0Cyd3A7gKBmqY=/fit-in/466x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-463334-1135168849.jpeg.jpg" data-tags="crunk" role="button">
+Lil Jon & The East Side Boyz - Kings Of Crunk (2002-10-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/f7fdbb85-f76c-4fe5-83a2-6016e3c05a18/6219252018-500.jpg" data-tags="rap, gangsta rap, ja rule" role="button">
 Ja Rule - The Last Temptation (2002-11-19)
 </li>
@@ -225,9 +231,6 @@ Xzibit - Weapons of Mass Destruction (2004-12-08)
 <li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">
 2Pac - Loyal To The Game (2004-12-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">
-The Game - The Documentary (2005-01-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
 50 Cent - The Massacre (2005-03-03)
 </li>
@@ -257,9 +260,6 @@ Young Dro - Best Thang Smokin' (2006-08)
 </li>
 <li data-cover="https://img.discogs.com/jgVrqUUmuYrm_hmJMIrDc3Jbla8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-778331-1157808222.jpeg.jpg" data-tags="gangsta rap, german hip hop" role="button">
 Bushido - Von der Skyline zum Bordstein zurück (2006-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
-The Game - Doctor's Advocate (2006-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a44df8e4-87b9-48a7-9a18-795a5abf44c6/16180855087-500.jpg" data-tags="akon" role="button">
 Akon - Konvicted (2006-11-14)

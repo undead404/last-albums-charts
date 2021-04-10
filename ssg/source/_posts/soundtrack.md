@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:31:01.519Z
+date: 2021-04-10T22:02:01.716Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -39,9 +39,6 @@ Ennio Morricone - Once Upon a Time in the West (1970)
 <li data-cover="https://img.discogs.com/swGT1nv0ioAMaziS63UYEO4l9xs=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1057089-1278573014.jpeg.jpg" data-tags="soundtrack, soul, funk" role="button">
 Isaac Hayes - Shaft (1971-07-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/b307451c-46e8-403c-8a6c-21bce789b649/16084309080-500.jpg" data-tags="soundtrack" role="button">
-Nino Rota - The Godfather (1972)
-</li>
 <li data-cover="https://img.discogs.com/qJq-j_vLsSPn81CJE6s7dJid1rg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2114910-1286191109.jpeg.jpg" data-tags="soundtrack, folk" role="button">
 Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
@@ -60,14 +57,17 @@ Basil Poledouris - Conan the Barbarian (1982)
 <li data-cover="http://coverartarchive.org/release/8aea6e91-424a-48de-8f72-83d8d6716fff/6868315355-500.jpg" data-tags="soundtrack, ghostbusters, pop" role="button">
 Ray Parker Jr. - Ghostbusters (1984)
 </li>
+<li data-cover="http://coverartarchive.org/release/17b6081f-cc8e-4dbd-b8da-ff89b6957e1a/13144429451-500.jpg" data-tags="celtic" role="button">
+Clannad - Legend (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/066d874b-8261-3d7a-8d0e-5923bd5a59dc/2844321267-500.jpg" data-tags="soundtrack" role="button">
 Ry Cooder - Paris, Texas (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/e32e471f-f8ae-47f2-bb0a-61347f771d43/4329238973-500.jpg" data-tags="classic rock, rock, 80s" role="button">
-Queen - A Kind Of Magic (1986-06-02)
-</li>
 <li data-cover="https://img.discogs.com/F654PH-V0T2HKRiFwpsL4eyYF2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182988-1162275487.jpeg.jpg" data-tags="soundtrack, miami vice" role="button">
 Jan Hammer - Escape From Television (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/8b2b725f-c3dd-41c2-b98d-e42f027fbe1c/3768060682-500.jpg" data-tags="musical, soundtrack" role="button">
+Andrew Lloyd Webber - The Phantom of the Opera (1987-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/256007d2-4ac6-45ba-8053-e3e497cfd66c/2839903465-500.jpg" data-tags="soundtrack" role="button">
 Prince - Batman (1989-06-16)
@@ -297,11 +297,11 @@ Daft Punk - TRON: Legacy (2010-12-06)
 <li data-cover="http://coverartarchive.org/release/5e396e48-5bc1-4d28-ab34-ee77dc534fed/22120675980-500.jpg" data-tags="ambient" role="button">
 C418 - Minecraft - Volume Alpha (2011-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/8edf7d27-a94d-425a-9ce7-9b497b61e8e7/1210446198-500.jpg" data-tags="western" role="button">
-Danger Mouse & Daniele Luppi - Rome (2011-05-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
 Darren Korb - Bastion Original Soundtrack (2011-08-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/28dca1ba-c547-4a34-839d-a006945cb64c/1446206019-500.jpg" data-tags="soundtrack" role="button">
+Trent Reznor and Atticus Ross - The Girl with the Dragon Tattoo (2011-12-02)
 </li>
 <li data-cover="https://img.discogs.com/qNXcjTVEm3KRkToIBlB5UvpMeHA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4856797-1377631990-4075.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - The Dark Knight Rises (2012-07-17)

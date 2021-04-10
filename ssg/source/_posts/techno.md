@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:20:07.093Z
+date: 2021-04-10T22:38:01.417Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![The Prodigy - Invaders Must Die (2009-02-18)](https://img.discogs.com/-hsZ8hXisE0OxDlr48pcZdL_K0g=/fit-in/600x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1664210-1494147337-2287.jpeg.jpg "The Prodigy - Invaders Must Die (2009-02-18)")
@@ -60,6 +60,9 @@ Moby - Everything Is Wrong (1995-03-13)
 <li data-cover="http://coverartarchive.org/release/2cc82f9c-52f3-4d71-8033-d1b0fb2b3ed8/9708222337-500.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Exit Planet Dust (1995-06-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/584c9bc5-162e-4e80-af75-5149830487a4/2227159827-500.jpg" data-tags="techno" role="button">
+Ken Ishii - Jelly Tones (1995-11-01)
+</li>
 <li data-cover="https://img.discogs.com/MB7s4Pyk2PsJc95Z_yTqNIz703k=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31772-1366733878-7061.jpeg.jpg" data-tags="electronic" role="button">
 Orbital - In Sides (1996-03)
 </li>
@@ -105,14 +108,14 @@ GusGus - This Is Normal (1999-04-26)
 <li data-cover="http://coverartarchive.org/release/dd351792-e53f-4d74-bf93-2a940edad8d1/10209301116-500.jpg" data-tags="dance, techno" role="button">
 Alice Deejay - Better Off Alone (1999-05-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/b8a64115-e500-4192-a64b-89d4fc8bda95/4379798533-500.jpg" data-tags="techno" role="button">
+Armand van Helden - 2 Future 4 U (1999-06-01)
+</li>
 <li data-cover="https://img.discogs.com/a2Cjnvb9cHXVliuXfInRJTuW-5k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1402484-1263684507.jpeg.jpg" data-tags="electronic, big beat" role="button">
 The Chemical Brothers - Surrender (1999-06-07)
 </li>
 <li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
 Leftfield - Rhythm and Stealth (1999-09-15)
-</li>
-<li data-cover="https://img.discogs.com/nS0Ki-zjzw2hkc92SuWBm96N3Ac=/fit-in/600x559/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2814485-1508723241-5156.jpeg.jpg" data-tags="electronic, eurodance" role="button">
-Eiffel 65 - Europop (1999-11-20)
 </li>
 <li data-cover="https://img.discogs.com/Cz0JOIN8j8Gumlj128kA5NEP504=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-147167-1409737346-3469.jpeg.jpg" data-tags="trance" role="button">
 Darude - Before The Storm (2000-01-18)
@@ -239,9 +242,6 @@ Moby - Last Night (2008-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="techno, albums in my collection" role="button">
-Hyper Crush - The Arcade (2008-05-01)
 </li>
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)

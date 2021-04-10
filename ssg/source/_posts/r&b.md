@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:46:07.092Z
+date: 2021-04-10T21:53:01.412Z
 title: "r&b: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -65,6 +65,9 @@ Mariah Carey - Butterfly (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f15251e-7f5a-48bd-bfe2-31a329066371/3037400805-500.jpg" data-tags="soul, rnb" role="button">
 Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4b409e6-f5d0-48ca-bd29-1ec560b0e918/4839196885-500.jpg" data-tags="soul" role="button">
+Dru Hill - Enter The Dru (1998-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9de19dd-bf35-4ef6-bbcd-fd9240693658/5669916745-500.jpg" data-tags="rnb" role="button">
 Destiny's Child - The Writing's on the Wall (1999-07-26)
@@ -155,9 +158,6 @@ Akon - Freedom (2008-11-25)
 </li>
 <li data-cover="https://img.discogs.com/xpsV-FJiu1Xfi4u7UaoH71Dyo48=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1991918-1257232013.jpeg.jpg" data-tags="female vocalists, pop, ciara" role="button">
 Ciara - Fantasy Ride (2009-05-04)
-</li>
-<li data-cover="https://img.discogs.com/fxjeujRUDxsQz1XkJVVKH35B5Ew=/fit-in/480x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199630-1269402605.jpeg.jpg" data-tags="pop, r&b" role="button">
-Melanie Fiona - The Bridge (2009-06-30)
 </li>
 <li data-cover="https://img.discogs.com/Bg9bgjevL5gthxMbzB2SGOdB_Og=/fit-in/600x621/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894295-1478123270-3863.jpeg.jpg" data-tags="r&b" role="button">
 Taio Cruz - Break Your Heart (2009-09-14)

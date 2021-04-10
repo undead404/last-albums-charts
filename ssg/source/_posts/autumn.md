@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:09:01.426Z
+date: 2021-04-10T22:20:07.020Z
 title: "autumn: 100 albums you must listen to before you die"
 ---
 ![Sea Wolf - Leaves In The River (2007-09-25)](http://coverartarchive.org/release/1f535139-1a00-4da7-89cc-94cb50ceb44d/3886056504-500.jpg "Sea Wolf - Leaves In The River (2007-09-25)")
@@ -13,7 +13,7 @@ title: "autumn: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">Neko Case - Middle Cyclone (2009-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">The Tallest Man on Earth - The Wild Hunt (2010-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">The Shins - Port of Morrow (2012-03-15)</li>
-<li data-cover="https://img.discogs.com/gB7sHLSykJg4g6NEt6tY72ynO0c=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3893030-1348326354-2133.jpeg.jpg" data-tags="folk, experimental, indie pop, post-rock, danish, 10s, efterklang" role="button">Efterklang - Piramida (2012-08-24)</li>
+<li data-cover="https://img.discogs.com/RZMk3Hx-SLOYaWjOogkSMM6WJiY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3554119-1335053222.jpeg.jpg" data-tags="indie, folk, autumn, christmas and the new year and easter" role="button">Horse Feathers - Cynic's New Year (2012-04-17)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,17 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/NgefhNmsP_55wq1F4qaa4WTSPkg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4452217-1459354727-1912.jpeg.jpg" data-tags="jazz" role="button">
-Frank Sinatra - Watertown (1970-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/0c169abb-3283-3505-91ed-01946c53cd9f/26643032677-500.jpg" data-tags="70s, rock" role="button">
-Crazy Horse - Crazy Horse (1971-02)
-</li>
-<li data-cover="https://img.discogs.com/uVencFpore2GaVc9s4m7A8_StJg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176591-1448485765-9771.jpeg.jpg" data-tags="progressive rock, pastoral" role="button">
-Anthony Phillips - The Geese & The Ghost (1977-03)
-</li>
-<li data-cover="https://img.discogs.com/GY4ROfBOdfmn1J7aXwIX2hsS8IQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696454-1546211532-4485.jpeg.jpg" data-tags="alternative rock, new wave, post-punk" role="button">
-The Church - The Blurred Crusade (1982-03-25)
+<li data-cover="https://img.discogs.com/ADXe0ioL6n_yusrLLj3McgWJVF4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87162-1553937003-4622.jpeg.jpg" data-tags="winter, autumn, for rainy days, dmtr likes this album, pixies palace basement" role="button">
+Cabaret Voltaire - 3 Crepuscule Tracks (1981-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cd156a3-d101-4917-985e-e88d98907513/1056850306-500.jpg" data-tags="indie, autumn, to explore, rascalradio, dezeweek, rreyelessingaza, autumn soundtrack, lastfmfreeplayer albums" role="button">
 Eyeless in Gaza - Rust Red September (1983-07-15)
@@ -45,8 +36,8 @@ Sonic Youth - Bad Moon Rising (1985)
 <li data-cover="https://via.placeholder.com/450" data-tags="darkwave" role="button">
 Deine Lakaien - Dark Star (1991)
 </li>
-<li data-cover="https://img.discogs.com/nMUADyqUKcbcJ4YgZRUyK8xCQ_A=/fit-in/598x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367485-1204400730.jpeg.jpg" data-tags="90s" role="button">
-American Music Club - Everclear (1991)
+<li data-cover="https://img.discogs.com/NYMYj1NISwpXT52CRkSft5CBl3I=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-51748-1411484553-1167.jpeg.jpg" data-tags="industrial metal" role="button">
+Scorn - Vae Solis (1992-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/99480f64-9df2-411c-848c-1ca8ed469e34/7918308288-500.jpg" data-tags="rock, blues" role="button">
 The Jon Spencer Blues Explosion - Extra Width (1993-05-24)
@@ -57,11 +48,11 @@ Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
 <li data-cover="http://coverartarchive.org/release/4970575e-df7c-42a7-a242-c4e3683ed646/26882873168-500.jpg" data-tags="electronica" role="button">
 Beaumont Hannant - Texturology (1994)
 </li>
-<li data-cover="https://img.discogs.com/w4FuuQfbeg0UAGFh-oHP9mc-PtI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4377658-1378334931-1225.jpeg.jpg" data-tags="punk, deutschpunk" role="button">
-Slime - Schweineherbst (1994-04-22)
+<li data-cover="https://img.discogs.com/zv5aYPp8FOajTDjV9kDnjHKWSt8=/fit-in/600x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-41191-1196910482.jpeg.jpg" data-tags="indie" role="button">
+Mouse on Mars - BIB (1995)
 </li>
-<li data-cover="https://img.discogs.com/eFx8p2Aqne7vb-Gd-BK0azizhEE=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14457330-1574898132-1256.jpeg.jpg" data-tags="country, power pop, country-rock, americana, late night, organic, earnest, bittersweet, reflection, poignant, heartache, breakup, autumn, divorce, 1990s, wistful, rollicking, sentimental, monday morning, long walk, reminiscing" role="button">
-Nick Lowe - The Impossible Bird (1994-11-29)
+<li data-cover="https://img.discogs.com/PSX6vUN9b3GYZDfbiv5QP8JyKkg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-261625-1182080482.jpeg.jpg" data-tags="ambient" role="button">
+Tribes of Neurot - Silver Blood Transmission (1995-07)
 </li>
 <li data-cover="https://img.discogs.com/3HYU4uZAgaGNsnHmfKtSgXLMm3Q=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1310880-1592877476-4866.jpeg.jpg" data-tags="jeff buckley, nice nait" role="button">
 Jeff Buckley - Live From The Bataclan (1995-10)
@@ -69,23 +60,38 @@ Jeff Buckley - Live From The Bataclan (1995-10)
 <li data-cover="http://coverartarchive.org/release/09943b25-f035-4323-af83-1c3354102482/22482969655-500.jpg" data-tags="indie" role="button">
 Sunny Day Real Estate - LP2 (The Pink Album) (1995-11-07)
 </li>
+<li data-cover="https://img.discogs.com/0ROvX5yWYlCNh4p3iS1084XPlhU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773081-1415837339-8963.jpeg.jpg" data-tags="instrumental, autumn, fall music" role="button">
+David Huntsinger - Autumn In New England (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/049490e1-ba49-4fdf-9e92-271960f97f20/9269003695-500.jpg" data-tags="soundtrack" role="button">
+Gabriel Yared - The English Patient (1996-11-26)
+</li>
+<li data-cover="https://img.discogs.com/u0FXIQdBr7v2pnSc39v8ne6UpOY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-100852-1190244384.jpeg.jpg" data-tags="ant-zen" role="button">
+Imminent Starvation - Human Dislocation (1997)
+</li>
 <li data-cover="https://img.discogs.com/ZQkFoHZ_Mub8IYOF_c7O770P40g=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645215-1142711425.jpeg.jpg" data-tags="electronic" role="button">
 Recoil - Unsound Methods (1997)
 </li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/64387a92-b17f-4fa2-8a12-bd599de5180c/18177753645-500.jpg" data-tags="ambient, dark ambient, autumn" role="button">
+Amir Baghiri - Autumn (1998)
+</li>
+<li data-cover="https://img.discogs.com/dDA9GF48FnmXvmThFtEocIkw4es=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3137210-1446549641-7268.jpeg.jpg" data-tags="finnish, autumn, junamatkat" role="button">
+Lemonator - Maison Rilax (1998-10-19)
+</li>
 <li data-cover="https://img.discogs.com/OkU6diSmfrUWvkIb30auK3MgDbg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14821-1317534704.jpeg.jpg" data-tags="electronic" role="button">
 Andrea Parker - Kiss My Arp (1998-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/453f9554-2b42-47d3-acd5-42f9958180a4/3782561581-500.jpg" data-tags="electronica, trip-hop, indie, calm, cello, radiohead, bjork, autumn, sleepy, belle and sebastian, if its not scottish its crap, nice dreams" role="button">
-Belle and Sebastian - This Is Just a Modern Rock Song (1998-12-07)
 </li>
 <li data-cover="https://img.discogs.com/Ls-wj0qiZTFc7GCx_3zTmb72BWM=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-59903-1110942317.jpg.jpg" data-tags="ambient" role="button">
 Isan - Digitalis (1999-05)
 </li>
 <li data-cover="https://img.discogs.com/ifHXDIv3kRCViLBL_BnMSYjcRRc=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-880651-1301137759.jpeg.jpg" data-tags="post-hardcore" role="button">
 At the Drive-In - Vaya (1999-07-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/cb864b26-a574-42a6-8e4a-31394864e15c/15751594141-500.jpg" data-tags="autumn" role="button">
+Jetone - Autumnmonia (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/82033552-0ab7-4e36-81b4-5b71f9481dff/14993325342-500.jpg" data-tags="electro" role="button">
 Marumari - The Wolves Hollow (2000-05)
@@ -102,20 +108,26 @@ Unwound - Leaves Turn Inside You (2001-04-17)
 <li data-cover="https://img.discogs.com/ZA5f__htm5ZADkSXsHnvvn0YyuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-642333-1331579291.jpeg.jpg" data-tags="alternative rock, alt rock, brit, criminally underrated" role="button">
 Ours - Distorted Lullabies (2001-05-15)
 </li>
-<li data-cover="https://img.discogs.com/2ZF3tyseJb08DO9_XXqUaS1rVMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13511-1165343707.jpeg.jpg" data-tags="idm" role="button">
-Brothomstates - Claro (2001-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/ad3244de-1c41-4eb2-a090-7ac797ed4b0a/20032202540-500.jpg" data-tags="melancholic, autumn, favorites ever, skiver, albums 2, maarts, bobjebus16 owns this, dice-throw: six, go get it" role="button">
 Thomas Dybdahl - That great october sound (2001-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f67483f-db22-46e2-b52a-a19d8a84e269/17054762545-500.jpg" data-tags="piano" role="button">
 Fariborz Lachini - Golden Autumn 1 (2001-11-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="piano, easy listening" role="button">
+Fariborz Lachini - Golden Autumn 2 (2001-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b057978-e598-438f-9d10-c4f011a03d35/28999776029-500.jpg" data-tags="electronic, ambient, free jazz, winter, autumn, nice nait, nice nite" role="button">
+Controlled Bleeding - Can You Smell the Rain Between (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/5ec845fc-0685-3c4e-9b50-d5a820a7a085/2618455083-500.jpg" data-tags="new wave, autumn" role="button">
 The Birthday Massacre - Nothing & Nowhere (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/576fd1ef-5ec4-42dd-8b15-9224f5cf32b1/23964347661-500.jpg" data-tags="industrial, glitch, autumn, desert island, experimental industrial, experimental electronic, electronic-experimental, nice nite, brackenberry, no sound too strange, mein quitschiger leiherkasten, parts of the body" role="button">
 AGF - Head Slash Bauch (2002-01)
+</li>
+<li data-cover="https://img.discogs.com/fAjEKE5WwkmynhQsYY_JLUTWKxo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9394-1221422083.jpeg.jpg" data-tags="ambient, idm" role="button">
+Gridlock - Trace (2002-02-19)
 </li>
 <li data-cover="https://img.discogs.com/lRSW2-T4VaL939EdAyJSs178jps=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371561-1613399277-6351.jpeg.jpg" data-tags="postrock" role="button">
 L'Altra - In The Afternoon (2002-04-02)
@@ -129,8 +141,8 @@ Neko Case - Blacklisted (2002-08-20)
 <li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
 Thomas Dybdahl - Stray Dogs (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4c39d80-de33-4f8c-b474-ba6749654f66/2672299414-500.jpg" data-tags="black metal, suicidal black metal, depressive black metal" role="button">
-Forgotten Tomb - Springtime Depression (2003-08-04)
+<li data-cover="https://img.discogs.com/-2YjmaLWbQt_U124taevIDfUKTY=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-613056-1280960771.jpeg.jpg" data-tags="ambient" role="button">
+Oöphoi - The Rustling of Leaves (2003)
 </li>
 <li data-cover="https://img.discogs.com/kH9g1e5chK9-goGrdJwODrUmQBA=/fit-in/500x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653920-1143809121.jpeg.jpg" data-tags="gothic metal" role="button">
 Elis - God's Silence, Devil's Temptation (2003-08-18)
@@ -159,11 +171,14 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 <li data-cover="http://coverartarchive.org/release/3d0bbe09-4ee7-4d54-a9aa-3acbad6b453d/2684791024-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Drudkh - Autumn Aurora (2004-11-28)
 </li>
-<li data-cover="https://img.discogs.com/INibhSY0sONnRUmNsq6VRruSp10=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2091853-1263519552.jpeg.jpg" data-tags="alternative, experimental, indie rock, sadcore, outsider, melancholic, autumn" role="button">
-Kunek - Flight of the Flynns (2005)
-</li>
 <li data-cover="https://img.discogs.com/LKbv14dG8jwt9LSoIwfUFK6A9Vg=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-658981-1363206277-8339.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Josephine Foster - Hazel Eyes, I Will Lead You (2005)
+</li>
+<li data-cover="https://img.discogs.com/jgz_4gzYb7k5LAPFE_zPpz8Rs9g=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8735670-1467650515-8658.png.jpg" data-tags="indie, rock, country, indie rock, americana, chicago, autumn, illinois, hyde park, midwestern, hpmusic, chicago-based, loud devices, first coat, whim" role="button">
+First Coat - Move Like Sparrows (2005)
+</li>
+<li data-cover="https://img.discogs.com/wT4W1A5V1S5wsNWUwehL_gPPMN4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1446568-1263761599.png.jpg" data-tags="post-rock, dutch" role="button">
+Vladimir - The Notion Express (2005)
 </li>
 <li data-cover="https://img.discogs.com/jCoPwu_jVGyo9tD248afQ6QG8BQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385145-1106374111.jpg.jpg" data-tags="post-rock, shoegaze, autumn" role="button">
 Bitcrush - Shimmer and Fade (2005-01-21)
@@ -180,14 +195,8 @@ Fjoergyn - Ernte im Herbst (2005-03-29)
 <li data-cover="http://coverartarchive.org/release/d4a6ef09-5b44-47da-965f-fb36774d48ca/3651521402-500.jpg" data-tags="world, persian" role="button">
 Niyaz - Niyaz (2005-04-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/210b55f6-2f91-4012-820b-1d88a8fdb4bc/13210943741-500.jpg" data-tags="post-rock, ambient" role="button">
-port-royal - Flares (2005-05-31)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/1ff69c39-fa91-4f79-ab99-82a92df23b79/15473309640-500.jpg" data-tags="hip-hop, alternative" role="button">
-Why? - Elephant Eyelash (2005-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/37c084a3-759e-469c-8a7a-b6cd15c49c05/2022022748-500.jpg" data-tags="ambient, dark ambient, autumn" role="button">
 Anthesteria - Nebesnaya (2005-11-19)
@@ -201,6 +210,9 @@ The New Amsterdams - Killed or Cured (2006-01-03)
 <li data-cover="https://img.discogs.com/6nuwcGMaAmQDKLnqV-m5Vi0QVpQ=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748314-1452143673-5932.jpeg.jpg" data-tags="indie, experimental, indie rock" role="button">
 Portugal. The Man - Waiter: "You Vultures!" (2006-01-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/6e078c5f-89fa-45c7-9597-dc19caf2ea09/5540980338-500.jpg" data-tags="doom, autumn" role="button">
+Tears of Mankind - К одиночеству... (2006-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0e9f949-1d31-491d-8783-a7c1ecbb3ec2/4759556093-500.jpg" data-tags="electronic, synth" role="button">
 TRS-80 - Mystery Crash (2006-08-01)
 </li>
@@ -209,9 +221,6 @@ Copeland - Eat, Sleep, Repeat (2006-08-31)
 </li>
 <li data-cover="https://img.discogs.com/UtBi7t1DXERRrdvkcTSdW3nD98A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-792756-1325069657.jpeg.jpg" data-tags="indie, female vocalists, piano" role="button">
 Emily Haines & The Soft Skeleton - Knives Don't Have Your Back (2006-09-12)
-</li>
-<li data-cover="https://img.discogs.com/XAtgiTfKvnVnbv-dJFU9UJ6lVx0=/fit-in/250x248/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2554228-1290184757.jpeg.jpg" data-tags="epic, folk metal, celtic, autumn" role="button">
-Lyriel - Autumntales (2006-09-29)
 </li>
 <li data-cover="https://img.discogs.com/dg3Kc5TbGIzlrXsuRueHXfo2ndE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1411884-1217454487.jpeg.jpg" data-tags="post-hardcore, progressive rock" role="button">
 Sparta - Threes (2006-10-24)
@@ -222,23 +231,20 @@ Tearwave - Tearwave (2007)
 <li data-cover="http://coverartarchive.org/release/6612f329-7d59-4578-8128-c2a2ec86565c/8703131155-500.jpg" data-tags="folk" role="button">
 Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/e9e0fa72-6bb1-4391-a502-a0fb993617c7/2598651566-500.jpg" data-tags="electronic, electropop, ambient, new wave, night, darkwave, interesting, mood, sun, autumn, light, sunlight, search, mold, fmfm, 13 13 13 13 13 13 13 13 13 13 13 13 13, 13 13 13 13 13 13 13 13 13, 13 13 13 13 13 13 13 13 13 13, 13 13 13 13 13 13 13 13 13 13 13, 13 13 13 13 13 13 13 13 13 13 13 13" role="button">
-Bleeding Nature - Water of Days (2007-06-16)
-</li>
-<li data-cover="https://img.discogs.com/WGxVwyui7ZX3OvbxSMzxDkl9l9M=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1008198-1290776861.jpeg.jpg" data-tags="ambient, idm, post-rock, ambient-idm" role="button">
-Boy Is Fiction - Boy Is Fiction (2007-06-26)
+<li data-cover="http://coverartarchive.org/release/e8e82c30-3cc7-402d-a185-da5d7f05e3d9/10874024883-500.jpg" data-tags="spring, autumn, forest" role="button">
+Nebel Torvum - The Boreal Forest (2007-03-21)
 </li>
 <li data-cover="https://img.discogs.com/NTz_NNLCPHdGqv4CNb5x-eo36lE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6354013-1429154827-8348.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Nick Drake - Family Tree (2007-07-09)
-</li>
-<li data-cover="https://img.discogs.com/QbfgqYwWtrY47tZI-ZoNWs9ryCg=/fit-in/598x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059358-1189082821.jpeg.jpg" data-tags="slowcore" role="button">
-Spokane - Little Hours (2007-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f93e6d-19bb-416c-8fff-45cd4e7e5edd/15810545984-500.jpg" data-tags="indie rock" role="button">
 Pinback - Autumn Of The Seraphs (2007-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f535139-1a00-4da7-89cc-94cb50ceb44d/3886056504-500.jpg" data-tags="indie folk, indie, indie rock, singer-songwriter, autumn" role="button">
 Sea Wolf - Leaves In The River (2007-09-25)
+</li>
+<li data-cover="https://img.discogs.com/IWyOnHFpmY2uwZyGhDoRSPY750w=/fit-in/333x361/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1125200-1194450695.jpeg.jpg" data-tags="autumn, make mine music" role="button">
+All Sides - Dedalus (2007-10)
 </li>
 <li data-cover="https://img.discogs.com/Up-LTmXrTqTvqGYtqT_sERsf2kc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1060763-1192883754.jpeg.jpg" data-tags="post-rock" role="button">
 Destroyalldreamers - Wish I Was All Flames (2007-10-21)
@@ -255,9 +261,6 @@ Racoon - Before You Leave (2008-03-03)
 <li data-cover="http://coverartarchive.org/release/44f51b04-4049-496c-9d3b-df8e69ff5896/1018108378-500.jpg" data-tags="atmospheric black metal" role="button">
 Evilfeast - Lost Horizons of Wisdom (2008-06)
 </li>
-<li data-cover="https://img.discogs.com/F9eHisPcHAbXQvvLRGignAeARys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13398283-1553445775-7647.png.jpg" data-tags="indie" role="button">
-Los Campesinos! - We Are Beautiful, We Are Doomed (2008-10-06)
-</li>
 <li data-cover="https://img.discogs.com/oSZSAYcfuPgNH85uQH8DAZwczao=/fit-in/261x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1582598-1230080028.jpeg.jpg" data-tags="instrumental, ambient, melancholy, modern classical, autumn, boomkat, music for a sad road movie" role="button">
 Dakota Suite - The End of Trying (2009-02-02)
 </li>
@@ -267,14 +270,20 @@ Neko Case - Middle Cyclone (2009-02-28)
 <li data-cover="http://coverartarchive.org/release/9dd5ad4c-1686-458c-be78-e79170194917/2738275127-500.jpg" data-tags="progressive rock" role="button">
 Gazpacho - Tick Tock (2009-03-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/dbbe9922-1d2e-4ed5-963a-acd661a13972/21025184155-500.jpg" data-tags="post-punk" role="button">
+Blacklist - Midnight of the Century (2009-05-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/cfcef241-4a2c-39d8-95ea-6be87a10f902/3323039609-500.jpg" data-tags="post-rock" role="button">
 Caspian - Tertia (2009-08-07)
 </li>
+<li data-cover="https://img.discogs.com/bm6v6brk2fGnLCtLHgAqkhzzyMM=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17095614-1611576478-6941.jpeg.jpg" data-tags="female vocalists, acoustic, melancholic" role="button">
+A Secret Sense - Melancholique (2009-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/11f58777-4803-41e2-bd6c-2196c4fc01be/2470808534-500.jpg" data-tags="autumn, loki foundation" role="button">
+Fjernlys - Beyond The Undulant Quiescence (2010-01-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/da3b6651-add3-458f-8f43-0eb211afe9b1/26402641631-500.jpg" data-tags="folk" role="button">
 The Tallest Man on Earth - The Wild Hunt (2010-04-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/998e28f9-ed94-4de1-af8e-8dc544c1ab31/10072281735-500.jpg" data-tags="soundtrack" role="button">
-Trent Reznor and Atticus Ross - The Social Network (2010-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/16595b47-d4ee-4d2c-8273-a5063813b35c/28751699519-500.jpg" data-tags="post-rock" role="button">
 Grails - Deep Politics (2011-03-08)
@@ -282,8 +291,8 @@ Grails - Deep Politics (2011-03-08)
 <li data-cover="https://img.discogs.com/Pkb2Ic34sbk7dRz4XtUOVZ5HduI=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2830756-1302980443.jpeg.jpg" data-tags="redhot" role="button">
 Azam Ali - From Night To The Edge Of Day (2011-04-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/29379b6a-1212-4b54-a848-dff5978f21cc/1947453626-500.jpg" data-tags="ambient, piano, contemporary classical, post-classical, cinematic, melancholy, melancholic, modern classical, neoclassical, contemporary piano" role="button">
-Fabrizio Paterlini - Autumn Stories (2012-02-27)
+<li data-cover="http://coverartarchive.org/release/cb6e57a1-a61a-4bad-be5c-f95aa8a93a82/1941691102-500.jpg" data-tags="depressive black metal, post-black metal" role="button">
+Side of Despondency - Cancellation (2011-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
@@ -291,14 +300,8 @@ The Shins - Port of Morrow (2012-03-15)
 <li data-cover="https://img.discogs.com/RZMk3Hx-SLOYaWjOogkSMM6WJiY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3554119-1335053222.jpeg.jpg" data-tags="indie, folk, autumn, christmas and the new year and easter" role="button">
 Horse Feathers - Cynic's New Year (2012-04-17)
 </li>
-<li data-cover="https://img.discogs.com/gB7sHLSykJg4g6NEt6tY72ynO0c=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3893030-1348326354-2133.jpeg.jpg" data-tags="folk, experimental, indie pop, post-rock, danish, 10s, efterklang" role="button">
-Efterklang - Piramida (2012-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/50cedce8-69c2-46d2-a717-fa73a3b6a97a/2960808757-500.jpg" data-tags="autumn, fav2012" role="button">
 Beacon - For Now (2012-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c9c380b2-ca33-4bf3-96d9-1b0038c93185/1959700379-500.jpg" data-tags="anticon" role="button">
-Why? - Mumps, etc. (2012-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/240c80d0-9901-4616-b00e-1b5dd6bcb6ac/2311389507-500.jpg" data-tags="shoegaze" role="button">
 Tamaryn - Tender New Signs (2012-10-12)
@@ -317,8 +320,5 @@ Iron & Wine - Ghost On Ghost (2013-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/214687ea-d9c7-4be5-8ab1-0b43a54252d6/7552151855-500.jpg" data-tags="black metal" role="button">
 An Autumn for Crippled Children - Try Not to Destroy Everything You Love (2013-11-11)
-</li>
-<li data-cover="https://img.discogs.com/UpKBa31Tb5ZSHfJKmjT_7Cq8sg0=/fit-in/562x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5598519-1397612142-6505.jpeg.jpg" data-tags="country, folk, sad, americana, quirky, hope, atmospheric, ominous, late night, alt-country, organic, rainy day, earthy, heartache, autumnal, sweet, autumn, airy, dreaming, feeling blue, wistful, contemporary country, wintry, urgent, plaintive, angst-ridden, neo-traditional folk, maverick, rustic, neo-traditionalist country, playlist20140518" role="button">
-The Secret Sisters - Put Your Needle Down (2014-04-15)
 </li>
 </ol>
