@@ -1,9 +1,10 @@
 ---
-date: 2021-04-09T22:40:01.408Z
+date: 2021-04-10T17:57:01.550Z
 title: "danish: 100 albums you must listen to before you die"
 ---
 ![Mew - Frengers (2003-04-07)](https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg "Mew - Frengers (2003-04-07)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg" data-tags="dance, pop, eurodance, 90s" role="button">Aqua - Aquarium (1997-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/4e4523bd-c035-4f79-a031-9055e06970fb/26379919825-500.jpg" data-tags="indie, pop, rock, danish, somehow very nostalgic" role="button">Mew - Half the World Is Watching Me (2000-05-04)</li>
 <li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)</li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">Mew - Frengers (2003-04-07)</li>
@@ -11,7 +12,6 @@ title: "danish: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/U6PIy5GUjVerWh65ewZtq1k8eyU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10744118-1503509646-4309.jpeg.jpg" data-tags="electronic, pop, danish" role="button">Junior Senior - Hey Hey My My Yo Yo (2005-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">Mew - and the Glass Handed Kites (2005-09-14)</li>
 <li data-cover="https://img.discogs.com/95iylV2MI3QPfDlGj5MWdSac9No=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4552944-1467374348-1565.jpeg.jpg" data-tags="danish, 10s, soul pop, dk, danish poprock, danish group" role="button">Lukas Graham - Lukas Graham (2012-01-01)</li>
-<li data-cover="https://img.discogs.com/gB7sHLSykJg4g6NEt6tY72ynO0c=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3893030-1348326354-2133.jpeg.jpg" data-tags="folk, experimental, indie pop, post-rock, danish, 10s, efterklang" role="button">Efterklang - Piramida (2012-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">Rhye - Woman (2013-01)</li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">Agnes Obel - Aventine (2013-09-27)</li>
 </ol>
@@ -21,20 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/a3eec736-0657-4a5c-8c19-39cbfe9ad4b4/12302912604-500.jpg" data-tags="danish" role="button">
+Steppeulvene - HIP (1967)
+</li>
 <li data-cover="https://img.discogs.com/vtCvXTUmE7p2mjZq_0Bdm64Vkg0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8063092-1457706569-8805.jpeg.jpg" data-tags="heavy metal" role="button">
 Mercyful Fate - Melissa (1983)
 </li>
 <li data-cover="https://img.discogs.com/gbmdCrYOyxtjlcUb9aOuwmEv1LE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2294614-1411406389-9927.jpeg.jpg" data-tags="heavy metal, danish" role="button">
 Witch Cross - Fit For Fight (1984)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc953237-53b5-4c62-8f7c-d2ee14b55ab9/10575400381-500.jpg" data-tags="danish" role="button">
-Anne Linnet - Barndommens Gade (1986)
-</li>
 <li data-cover="http://coverartarchive.org/release/8e5cebd6-0611-42f9-a0d4-a3c9db914b8b/13712727618-500.jpg" data-tags="heavy metal" role="button">
 King Diamond - Fatal Portrait (1986)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3db8384-ced9-422c-8a3f-421848eb34b2/13712801988-500.jpg" data-tags="heavy metal" role="button">
-King Diamond - "Them" (1988-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d093509-ed39-4f4c-9a89-3e2fccc7441a/2087865976-500.jpg" data-tags="rock, hard rock" role="button">
 D-A-D - No Fuel Left for the Pilgrims (1989-03-03)
@@ -75,8 +72,17 @@ Malk De Koijn - Smash Hit in Aberdeen (1998)
 <li data-cover="http://coverartarchive.org/release/4dd1bf19-a5ee-3092-bd3d-aa0c6d6d206a/1287127459-500.jpg" data-tags="heavy metal" role="button">
 King Diamond - Voodoo (1998-02-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/8a525d45-5dba-42a9-9d60-f5c3c5e21132/2900911393-500.jpg" data-tags="heavy metal" role="button">
+Mercyful Fate - Dead Again (1998-05-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/457ab04c-9d8f-45d3-81e4-28cbce0694b6/14038071478-500.jpg" data-tags="death metal" role="button">
+Iniquity - Five Across the Eyes (1999)
+</li>
 <li data-cover="https://img.discogs.com/HhRcv7z_74n4mmYMYc_DUGK917Q=/fit-in/205x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1795274-1243843750.jpeg.jpg" data-tags="rock" role="button">
 Kashmir - The Good Life (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/e0f0399e-acb7-3e59-b19d-c46a2cd28f57/20441622807-500.jpg" data-tags="heavy metal" role="button">
+Mercyful Fate - 9 (1999-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b44657a-b0d1-4f99-97a3-3f53665e8da0/12596134090-500.jpg" data-tags="electronic, contemporary folk, folktronica, danish, nordic ethno grooves" role="button">
 Sorten Muld - III (2000)
@@ -90,17 +96,14 @@ Mew - Half the World Is Watching Me (2000-05-04)
 <li data-cover="http://coverartarchive.org/release/91d2e872-461b-48b6-ad5c-ed3ab0ccdab5/2858261940-500.jpg" data-tags="rock, post-punk, danish" role="button">
 Sort Sol - Snakecharmer (2001-04-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/c879566a-a488-342e-8e5d-7877681eadf6/4801628790-500.jpg" data-tags="psychobilly" role="button">
-Nekromantix - Return of the Loving Dead (2002-02-12)
+<li data-cover="https://img.discogs.com/PUDk2fP-EupliQzHCc0J093mwYo=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5967566-1407637961-3599.jpeg.jpg" data-tags="progressive metal, symphonic metal" role="button">
+Beyond Twilight - The Devil's Hall Of Fame (2001-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c71b328-e6ab-48b1-96b8-f1df0fca78eb/2981796820-500.jpg" data-tags="electronic, electronica, happy, dance" role="button">
 Junior Senior - D-D-Don't Don't Stop the Beat (2002-03-04)
 </li>
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
-</li>
-<li data-cover="https://img.discogs.com/lp0LLwQUIG2ntHQOM23gO5bFYf4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-398232-1373416781-9634.jpeg.jpg" data-tags="indie rock, garage rock" role="button">
-The Raveonettes - Whip It On (2002-05-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, epic, danish" role="button">
 Mew - Am I Wry? No (2002-09-23)
@@ -153,8 +156,8 @@ Efterklang - Tripper (2004-10-25)
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/0438f73e-8250-3edb-92aa-781663c27bdd/20034408828-500.jpg" data-tags="indie, indie rock" role="button">
-Figurines - Skeleton (2005-06-13)
+<li data-cover="http://coverartarchive.org/release/10c4f7fb-c279-4d17-bdf5-165544a9e297/7065406340-500.jpg" data-tags="danish" role="button">
+Per Vers - VERS 1.0 (2005-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ed8c8b4-86f2-4a16-af75-9854bf06d705/6370490470-500.jpg" data-tags="indie, mellow, danish" role="button">
 Spleen United - Godspeed Into the Mainstream (2005-08-15)
@@ -171,6 +174,9 @@ Mew - and the Glass Handed Kites (2005-09-14)
 <li data-cover="http://coverartarchive.org/release/30c5611c-f4ea-49df-980c-a2050ef51dbf/23670185295-500.jpg" data-tags="danish, emusic, try this, add to radio" role="button">
 Diefenbach - set & drift (2005-10-03)
 </li>
+<li data-cover="https://img.discogs.com/XtjYw5jPvnXbjUovmKGPWdU5tZ8=/fit-in/592x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-880620-1169231296.jpeg.jpg" data-tags="pop, 80s, new wave, danish, denmark, 1980s" role="button">
+Rocazino - Natsværmer (2006)
+</li>
 <li data-cover="https://img.discogs.com/FFyf5ijI9AmXDLGbicMgM2oH2R8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1181808-1570597165-8355.jpeg.jpg" data-tags="metalcore" role="button">
 Raunchy - Death Pop Romance (2006-02-17)
 </li>
@@ -182,9 +188,6 @@ Peter Sommer - Destruktive Vokaler (2006-03-27)
 </li>
 <li data-cover="https://img.discogs.com/Eb8_yLOQyOGhlsuLDjmxgVZotFI=/fit-in/600x874/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16143094-1604165788-6495.jpeg.jpg" data-tags="mellow" role="button">
 Mew - The Zookeeper's Boy (2006-04-17)
-</li>
-<li data-cover="https://img.discogs.com/vabfg72BMs1RTeuKP1T6KfnLqzY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-697821-1249518106.jpeg.jpg" data-tags="trip-hop" role="button">
-Halou - Wholeness & Separation (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d31ec0ee-8085-45f6-85b1-d767f418c8c9/18225864420-500.jpg" data-tags="danish, fully streamable albums which i have streamed fully" role="button">
 Oh No Ono - Yes (2006-08-28)
@@ -200,6 +203,9 @@ Alphabeat - Alphabeat (2007-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2e6a711-d230-4621-bc3d-f13e883629be/18600428497-500.jpg" data-tags="experimental, indie rock, noise rock, danish" role="button">
 Speaker Bite Me - Action Painting (2007-03-19)
+</li>
+<li data-cover="https://img.discogs.com/dz1KwLydSQk0CgtcohO7ofYXHlo=/fit-in/489x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4303018-1361195430-4034.jpeg.jpg" data-tags="thrash metal" role="button">
+Hatesphere - Serpent Smiles And Killer Eyes (2007-04-30)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dream pop" role="button">
 Rumskib - Rumskib (2007-05-08)
@@ -276,9 +282,6 @@ The Raveonettes - Raven in the Grave (2011-04-04)
 <li data-cover="https://img.discogs.com/95iylV2MI3QPfDlGj5MWdSac9No=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4552944-1467374348-1565.jpeg.jpg" data-tags="danish, 10s, soul pop, dk, danish poprock, danish group" role="button">
 Lukas Graham - Lukas Graham (2012-01-01)
 </li>
-<li data-cover="https://img.discogs.com/gB7sHLSykJg4g6NEt6tY72ynO0c=/fit-in/460x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3893030-1348326354-2133.jpeg.jpg" data-tags="folk, experimental, indie pop, post-rock, danish, 10s, efterklang" role="button">
-Efterklang - Piramida (2012-08-24)
-</li>
 <li data-cover="https://img.discogs.com/g3Ky7jCLOMA17Ihlr8X7yOz_R2s=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3863455-1359928306-8817.jpeg.jpg" data-tags="pop, female vocalists, danish, 10s, 2010s, vh1, mp3player 2019" role="button">
 Nabiha - Mind the Gap (2012-09-10)
 </li>
@@ -291,9 +294,6 @@ Fallulah - Escapism (2013)
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
 </li>
-<li data-cover="https://img.discogs.com/XvFhlOWWFZv7pH4vr4cuA3W_8xc=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4252119-1610304089-1138.jpeg.jpg" data-tags="electronic, indie, 4ad, danish" role="button">
-Indians - Somewhere Else (2013-01-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/735c3c9f-8317-44ab-ab71-826f51d10acc/3198810863-500.jpg" data-tags="post-punk" role="button">
 Iceage - You're Nothing (2013-02-18)
 </li>
@@ -302,9 +302,6 @@ Lulu Rouge - The Song Is in the Drum (2013-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c88b018-11ad-4046-b5d6-2928d1f5d4aa/4131634147-500.jpg" data-tags="electronic, industrial, danish, 10s, sacred bones, sacred bones records" role="button">
 Vår - No One Dances Quite Like My Brothers (2013-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/49a75daf-1099-45ef-bbd6-e6b3ec0b9c9a/3676077518-500.jpg" data-tags="electronica, electropop, indie electronic, danish, denmark, alternative-indie rock" role="button">
-When Saints Go Machine - Infinity Pool (2013-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)
@@ -320,5 +317,8 @@ MØ - No Mythologies to Follow (2014-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a326a97c-c3ba-45f6-8b5f-c46e7ba5e128/12087700931-500.jpg" data-tags="indie, folk, experimental, danish, aoty" role="button">
 Tina Dico - Whispers (2014-08-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/e617e91f-2693-487b-a841-f41f219ce644/9071188116-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
+Myrkur - Myrkur (2014-09-16)
 </li>
 </ol>

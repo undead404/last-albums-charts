@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:15:01.511Z
+date: 2021-04-10T18:28:01.418Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Of Monsters and Men - My Head Is an Animal (2011-09-20)](https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg "Of Monsters and Men - My Head Is an Animal (2011-09-20)")
@@ -135,6 +135,9 @@ Okkervil River - The Stand Ins (2008-09-09)
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
 </li>
+<li data-cover="https://img.discogs.com/61-X4PAgsIvCrrP8ibO7DU1lYFw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15977659-1601239800-4826.jpeg.jpg" data-tags="2009 albums" role="button">
+Woods - Songs of Shame (2009-04-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/58173200-3e0a-47c7-b5c0-a6af53880506/10364552769-500.jpg" data-tags="indie, folk" role="button">
 Iron & Wine - Around the Well (2009-05-19)
 </li>
@@ -188,9 +191,6 @@ Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
 </li>
 <li data-cover="https://img.discogs.com/8XMv3btBi2OCE71D5ms76_E8-YI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3007616-1317045162.jpeg.jpg" data-tags="indie, folk, indie folk, hypno" role="button">
 Dry the River - No Rest (2011)
-</li>
-<li data-cover="https://img.discogs.com/GOSGxrfjGeJMyPNbB33K7qo7ZqQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2687953-1296597353.jpeg.jpg" data-tags="folk, singer-songwriter, indie folk" role="button">
-The Civil Wars - Barton Hollow (2011-01-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">
 The Decemberists - The King Is Dead (2011-01-14)
@@ -258,9 +258,6 @@ Jake Bugg - Jake Bugg (2012-10-15)
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/60876924-57d9-4781-8dd7-d757fcd995ac/3612258873-500.jpg" data-tags="indie" role="button">
-Daughter - If You Leave (2013-03-18)
-</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="folk" role="button">
 Iron & Wine - Ghost On Ghost (2013-04-13)
 </li>
@@ -287,6 +284,9 @@ Courtney Barnett - The Double EP: A Sea of Split Peas (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/47537d12-9ace-4903-ae3a-0174e3965326/5701526726-500.jpg" data-tags="indie, indie rock, rock" role="button">
 Jake Bugg - Shangri La (2013-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/68fbee4a-3c04-4afa-bbc6-65ee5208d1d3/8701944318-500.jpg" data-tags="psychedelic folk" role="button">
+Angel Olsen - Burn Your Fire for No Witness (2014-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/621999be-7041-4394-8719-ca1bdebaac96/7042111016-500.jpg" data-tags="10s, alternative, alternative rock, folk rock, chamber folk" role="button">
 Beck - Morning Phase (2014-02-21)

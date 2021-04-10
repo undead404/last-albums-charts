@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:53:01.400Z
+date: 2021-04-10T18:20:01.538Z
 title: "grunge: 100 albums you must listen to before you die"
 ---
 ![Nirvana - Nevermind (1991-09-23)](http://coverartarchive.org/release/f7930de3-081a-452a-bafe-f7285a2abb6d/19956995827-500.jpg "Nirvana - Nevermind (1991-09-23)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/7027530a-10d2-394f-90f9-96b704f06707/10018403856-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Superfuzz Bigmuff plus Early Singles (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Doolittle (1989-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3d44548-b2ed-3ddc-a9e0-3f5ee544c1c9/6624483913-500.jpg" data-tags="grunge" role="button">
 Nirvana - Bleach (1989-06-01)
@@ -272,6 +269,9 @@ Nirvana - Sliver: The Best of the Box (2005-10-31)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Pearl Jam - Pearl Jam (2006-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1f237d6-edf1-46f8-971c-a7280b53bdc6/1068689504-500.jpg" data-tags="acoustic" role="button">
+Seether - One Cold Night (2006-06-11)
 </li>
 <li data-cover="https://img.discogs.com/HrAO7Rs1OTk8Z36yR7JMFsStHMQ=/fit-in/593x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2188305-1268766908.jpeg.jpg" data-tags="alternative rock, rock, hard rock" role="button">
 Audioslave - Revelations (2006-09-01)

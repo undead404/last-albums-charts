@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:28:01.416Z
+date: 2021-04-10T18:30:01.466Z
 title: "brutal deathcore: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -8,11 +8,11 @@ title: "brutal deathcore: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">Whitechapel - The Somatic Defilement (2007-07-31)</li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)</li>
 <li data-cover="http://coverartarchive.org/release/ca702418-7848-3992-b860-18409362b356/3667047678-500.jpg" data-tags="justin bieber, my world, totec radio" role="button">Justin Bieber - My World (2009-11-13)</li>
+<li data-cover="https://img.discogs.com/u2AfLiNS0Byrcw3Y8yhwhGj1DhI=/fit-in/304x304/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2920653-1558715848-1521.jpeg.jpg" data-tags="deathcore" role="button">Chelsea Grin - Desolation of Eden (2010-02-16)</li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">Black Veil Brides - We Stitch These Wounds (2010-07-20)</li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">Deafheaven - Roads to Judah (2011-04-26)</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">Black Veil Brides - Set the World on Fire (2011-06-14)</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">A$AP Rocky - Goldie (2012-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">Deafheaven - Sunbather (2013-05-28)</li>
+<li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">Bring Me the Horizon - Drown (2014-11-03)</li>
 </ol>
 List of 100 - under the cut.
@@ -24,11 +24,14 @@ _________________
 <li data-cover="https://img.discogs.com/r-BBNj1LBBHNxxqYgDpc7mvDpjE=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15621398-1594697375-2445.jpeg.jpg" data-tags="hip-hop, detroit, juggalo, horrorcore, insane clown posse, carnival of carnage" role="button">
 Insane Clown Posse - Carnival of Carnage (1992-10-18)
 </li>
+<li data-cover="https://img.discogs.com/rYGnelHsce98oMbmyt_XL6img-g=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15680849-1595798643-8925.jpeg.jpg" data-tags="hip-hop, detroit, second wave black metal" role="button">
+Insane Clown Posse - Ringmaster (1994-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/da934db7-e7bb-4ec4-b8cd-5bbe7f237578/14645532503-500.jpg" data-tags="rap" role="button">
 E-40 - In a Major Way (1995-03-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/773b1e1e-3fe6-4e8f-a5e4-117d45dd2d06/27358258265-500.jpg" data-tags="detroit" role="button">
-Insane Clown Posse - Riddle Box (1995-10-10)
+<li data-cover="http://coverartarchive.org/release/08b78ddd-d417-426f-ad8e-0a78e06bd910/20089813897-500.jpg" data-tags="hip-hop, rap, 90s, detroit, goregrind, psychopathic, horrorcore, deathcore, brutal death metal, nsbm, deathgrind, sexy album covers, brutal deathcore, national socialist black metal, detroit rap, moshcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal" role="button">
+Insane Clown Posse - Tunnel of Love (1996-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dc48e79-0c9b-4bf4-b2b9-9fc40e3941d9/3499202221-500.jpg" data-tags="horrorcore" role="button">
 Insane Clown Posse - The Great Milenko (1997-08-12)
@@ -41,6 +44,9 @@ Insane Clown Posse - Bizzar (2000-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/2605782e-2215-4a93-8d04-a256c334b33c/27374569623-500.jpg" data-tags="detroit, juggalo" role="button">
 Insane Clown Posse - The Wraith: Shangri-La (2002-11-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b44192b-5b11-3985-b539-25174501d546/28391998382-500.jpg" data-tags="punk, emo, fall out boy" role="button">
+Fall Out Boy - Fall Out Boy's Evening Out With Your Girlfriend (2003-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/1cb1573d-66fe-3d83-9631-9fa4efd5c65b/17547966695-500.jpg" data-tags="deathcore, death metal" role="button">
 All Shall Perish - Hate.Malice.Revenge (2003-04-19)
@@ -68,6 +74,9 @@ I Declare War - Amidst the Bloodshed (2007)
 </li>
 <li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f4e0c1b-9f9f-427b-a654-0a85debd6edf/27366556586-500.jpg" data-tags="hip-hop, detroit" role="button">
+Insane Clown Posse - The Tempest (2007-03-20)
 </li>
 <li data-cover="https://img.discogs.com/PBR8RQYCW1n8ft-fyE2Y20SJmwM=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9877363-1527621423-9267.jpeg.jpg" data-tags="pop, deathcore, brutal death metal, brutal deathcore, altar of the metal gods, altar of the metal gods sludge, altar of the metal gods melodic metal, altar of the metal gods neo-classical metal, altar of the metal gods death metal, altar of the metal gods black metal, altar of the metal gods thrash metal, altar of the metal gods folk metal, altar of the metal gods ambient metal, altar of the metal gods nwobhm, altar of the metal gods doom metal, altar of the metal gods pagan metal, altar of the metal gods technical death metal, altar of the metal gods symphonic metal, altar of the metal gods epic metal, altar of the metal gods hardcore, altar of the metal gods power metal, altar of the metal gods industrial metal, altar of the metal gods drone metal,  pop rock,  male vocalists,  emo,  emo pop" role="button">
 Fall Out Boy - Thnks fr th Mmrs (2007-03-27)
@@ -117,9 +126,6 @@ Paul Wall - Already Famous (2008-07-01)
 <li data-cover="https://img.discogs.com/VUfRu6p7PL2-IWIKi5cQX1VCzYU=/fit-in/585x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2425433-1283416690.jpeg.jpg" data-tags="deathcore" role="button">
 Whitechapel - This Is Exile (2008-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/e15d287b-2688-3abe-9b24-b1cccf235467/8179828763-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - Swan Songs (2008-09-02)
-</li>
 <li data-cover="https://img.discogs.com/9II_gi0rFUOnUSfbERuxhhimF0w=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2670069-1295827195.jpeg.jpg" data-tags="deathcore" role="button">
 We Butter the Bread With Butter - Das Monster aus dem Schrank (2008-11-21)
 </li>
@@ -128,6 +134,9 @@ Hollywood Undead - Christmas In Hollywood (2008-12-09)
 </li>
 <li data-cover="https://img.discogs.com/sgW-XBkpzA_WTkJs1bknF_mp3Lo=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3638538-1488792123-3648.jpeg.jpg" data-tags="deathcore" role="button">
 Attila - Soundtrack to a Party (2008-12-09)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="brutal deathcore" role="button">
+Ease of Disgust - The Shell (2009)
 </li>
 <li data-cover="https://img.discogs.com/ECgdKUcUeuBXftXptLCijuH3Ck8=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2756160-1299611878.jpeg.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Lonely Road (2009-02-03)
@@ -204,8 +213,8 @@ Attila - Rage (2010-05-11)
 <li data-cover="https://img.discogs.com/yakUY3I9vWAh9V3oi2ydPL5D-6E=/fit-in/426x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2381692-1280826845.jpeg.jpg" data-tags="deathcore" role="button">
 And Hell Followed With - Proprioception (2010-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/df822457-1a3f-4806-86fe-143d3ce09f65/7983414746-500.jpg" data-tags="post-black metal, female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to, crimes against humanity" role="button">
-Deafheaven - Demo (2010-06-01)
+<li data-cover="http://coverartarchive.org/release/4b555e2f-3c94-4e33-b6c0-5326f395b8ac/3755164040-500.jpg" data-tags="technical deathcore, death metal, technical death metal, deathcore" role="button">
+Rings of Saturn - Embryonic Anomaly (2010-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c72e596-3a89-4af9-9eb0-dc2c1f70d292/7599907699-500.jpg" data-tags="deathcore" role="button">
 Whitechapel - A New Era Of Corruption (2010-06-08)
@@ -237,12 +246,6 @@ Justin Bieber - My Worlds Acoustic (2010-11-26)
 <li data-cover="https://img.discogs.com/pR6ZKFU0gewQyVIR-bKQyTK3D_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5618324-1398116598-6793.jpeg.jpg" data-tags="brutal deathcore" role="button">
 Disfiguring the Goddess - Circle Of Nine (2011-03-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/fc085595-a8d1-4bc0-a79b-72c5c594777f/25862016757-500.jpg" data-tags="deathcore" role="button">
 Chelsea Grin - My Damnation (2011-07-19)
 </li>
@@ -270,9 +273,6 @@ Steel Panther - Balls Out (2011-10-26)
 <li data-cover="http://coverartarchive.org/release/04278865-914e-4cd1-96ff-f07f566909a2/11885067261-500.jpg" data-tags="deathcore, brutal deathcore" role="button">
 Impending Doom - Baptized In Filth (2012-03-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3b39985-6503-4cdf-a562-c4cc803a6609/11184301708-500.jpg" data-tags="death metal" role="button">
-Disfiguring the Goddess - Sleeper (2012-04-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
 A$AP Rocky - Goldie (2012-04-27)
 </li>
@@ -291,11 +291,11 @@ Bring Me the Horizon - Sempiternal (2013-03-29)
 <li data-cover="http://coverartarchive.org/release/3f7ed87a-461a-491c-b437-88c2a4b81f4e/4665148054-500.jpg" data-tags="heavy metal" role="button">
 Ghost - Infestissumam (2013-04-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/cf13ea73-669c-4572-9853-0aa7a828d2ae/7974889167-500.jpg" data-tags="brutal deathcore" role="button">
+Acranius - When Mutation Becomes Homicidal (2013-05-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/2c6513c0-7b01-4b36-836c-d400e80e8072/25313095145-500.jpg" data-tags="post-black metal, blackgaze" role="button">
 Deafheaven - Sunbather (2013-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/7b5c4336-04b0-4ffc-8261-e7daf78fb961/7092493624-500.jpg" data-tags="thrash metal" role="button">
-Megadeth - Super Collider (2013-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
 Attila - About That Life (2013-06-25)

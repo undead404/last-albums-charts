@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:24:01.410Z
+date: 2021-04-10T18:11:01.421Z
 title: "blues rock: 100 albums you must listen to before you die"
 ---
 ![The Black Keys - Brothers (2010-05-14)](http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg "The Black Keys - Brothers (2010-05-14)")
@@ -78,6 +78,9 @@ Led Zeppelin - Led Zeppelin III (1970-10-05)
 <li data-cover="https://img.discogs.com/F2U6YQld4pjxz1b0bgAYx0F48oI=/fit-in/465x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-412229-1397978762-2019.jpeg.jpg" data-tags="blues rock" role="button">
 Derek and the Dominos - Layla And Other Assorted Love Songs (1970-11)
 </li>
+<li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
+The Allman Brothers Band - At Fillmore East (1971)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3d7922d-6933-35cd-97f5-f81ca68c6f92/25035349368-500.jpg" data-tags="blues rock, classic rock, blues" role="button">
 Janis Joplin - Pearl (1971-01)
 </li>
@@ -116,9 +119,6 @@ Led Zeppelin - Physical Graffiti (1975-02-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Aerosmith - Toys in the Attic (1975-04-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
-Fleetwood Mac - Fleetwood Mac (1975-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c1032af-2d86-424b-963e-dd9e65f7281b/1287531128-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Presence (1976-03-31)
@@ -167,9 +167,6 @@ The Black Crowes - Shake Your Money Maker (1990-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b96e7620-18b1-494b-a7c7-19faae798099/3291021954-500.jpg" data-tags="blues rock, blues" role="button">
 Gary Moore - Still Got the Blues (1990-04-04)
-</li>
-<li data-cover="https://img.discogs.com/IE46vgofJBJwVXqMIKMse8ukcPk=/fit-in/441x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4544310-1367922867-1745.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
-Bonnie Raitt - Luck Of The Draw (1991-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e646673-39ba-41dc-abc4-7a1f74387d66/6639039977-500.jpg" data-tags="classic rock, southern rock" role="button">
 The Allman Brothers Band - A Decade Of Hits 1969-1979 (1991-10-22)
@@ -266,6 +263,9 @@ The Dead Weather - Horehound (2009-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/43075c98-16b9-4d92-bb33-44a3a84d58a6/19979198538-500.jpg" data-tags="blues rock, rock" role="button">
 Mark Knopfler - Get Lucky (2009-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/8713720a-df4b-4fd8-8e64-59cab6583c2a/3366379088-500.jpg" data-tags="rock, hard rock, stoner rock" role="button">
+Them Crooked Vultures - Them Crooked Vultures (2009-11-13)
 </li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)

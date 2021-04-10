@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:36:01.628Z
+date: 2021-04-10T18:32:01.430Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -62,9 +62,6 @@ Paradise Lost - One Second (1997)
 </li>
 <li data-cover="https://img.discogs.com/tXrQK9c_BRaoT_2IQivX_drvGHo=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3038961-1312877882.jpeg.jpg" data-tags="gothic metal" role="button">
 Tiamat - A Deeper Kind Of Slumber (1997-04-22)
-</li>
-<li data-cover="https://img.discogs.com/tN2ReNZPNOtcY3H1MsdSfjePmuU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834144-1163869733.jpeg.jpg" data-tags="progressive metal, gothic metal, metal, atmospheric metal" role="button">
-The Gathering - Nighttime Birds (1997-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2756c819-b6d7-3052-9ff8-8c05e65eb5df/8141541570-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Angels Fall First (1997-11-01)
@@ -210,6 +207,9 @@ Nightwish - Once (2004-06-04)
 <li data-cover="http://coverartarchive.org/release/b7bea46d-8986-363c-8f81-458b81e8944b/2959523284-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Cradle of Filth - Nymphetamine (2004-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/844dba59-e6fd-4da8-b024-8b8dcb9d11ec/15850705428-500.jpg" data-tags="gothic metal, female fronted metal" role="button">
+Elis - Dark Clouds in a Perfect Sky (2004-10-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
 </li>
@@ -245,6 +245,9 @@ Stream of Passion - Embrace The Storm (2005-10-21)
 </li>
 <li data-cover="https://img.discogs.com/Wt7pTVZhLSxj2iE59N8os6Pdt8U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2944076-1467306082-9527.jpeg.jpg" data-tags="doom metal, progressive metal" role="button">
 Katatonia - The Great Cold Distance (2006-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/c71fb132-49e8-46ee-8d07-5f746c40b3fa/14866844751-500.jpg" data-tags="gothic metal" role="button">
+Theatre of Tragedy - Storm (2006-03-23)
 </li>
 <li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Karmacode (2006-03-31)
@@ -308,9 +311,6 @@ Delain - April Rain (2009-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/03666113-97e0-44dc-a3fd-71f15b3bc1e7/14899098997-500.jpg" data-tags="gothic metal, alternative metal" role="button">
 Lacuna Coil - Shallow Life (2009-04-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/888e2e75-e1e8-4721-baaa-b92c7c86ea63/1048225534-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
-Leaves' Eyes - Njord (2009-08-26)
 </li>
 <li data-cover="https://img.discogs.com/e8QX78mSfUFR2gkPviX9Kk2aPPg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2966779-1309550191.jpeg.jpg" data-tags="gothic metal" role="button">
 Paradise Lost - Faith Divides Us - Death Unites Us (2009-09-25)

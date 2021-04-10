@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:34:01.585Z
+date: 2021-04-10T18:02:01.484Z
 title: "indie electronic: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -50,6 +50,9 @@ Lemon Jelly - lemonjelly.ky (2000-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/406ec6f6-a62e-4261-a7cd-6c87f1124eee/8153556746-500.jpg" data-tags="electronic, idm" role="button">
+Midwest Product - Specifics (2002-06-04)
 </li>
 <li data-cover="https://img.discogs.com/yg43594bo_Xzhsr6uBK7r7H5s0Y=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-85966-001.jpg.jpg" data-tags="electronic, indie, indie electronic, 00s, plug research, pro sun and no fear, sound good" role="button">
 Dntel - (This Is) The Dream of Evan and Chan (2002-08-19)
@@ -114,6 +117,9 @@ Friendly Fires - Friendly Fires (2008-09-01)
 <li data-cover="https://img.discogs.com/UQqe0QucApRxcNb-MKjL7rtWcDw=/fit-in/512x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474638-1224657234.jpeg.jpg" data-tags="electropop" role="button">
 Ladyhawke - Ladyhawke (2008-09-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/829b7dfa-fe45-48b0-a462-866a29dd1aae/9663978266-500.jpg" data-tags="indie electronic, downtempo, idm" role="button">
+Khonnor - Softbo EP (2008-11-30)
+</li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
@@ -171,9 +177,6 @@ Panda Bear - Tomboy (2011-04-12)
 <li data-cover="http://coverartarchive.org/release/5e8aec59-129c-4cb4-b894-5e59edb5c4ca/4261741516-500.jpg" data-tags="indie electronic, new wave, alternative, synthpop" role="button">
 Austra - Feel It Break (2011-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/5c32edc4-e937-4552-9501-5354ea6d7148/5965141013-500.jpg" data-tags="electronic" role="button">
-Com Truise - Galactic Melt (2011-06-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/19d74ad6-606e-4bbb-b09f-a5ce18cd268e/5898507507-500.jpg" data-tags="pop, electronic" role="button">
 Nicola Roberts - Cinderella's Eyes (2011-06-26)
 </li>
@@ -212,9 +215,6 @@ d'Eon - LP (2012-06-05)
 </li>
 <li data-cover="https://img.discogs.com/_EBtPDE20xclrjILoHwtuus-bNw=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5533655-1424654070-6735.jpeg.jpg" data-tags="10s, electronic, synthpop, electropop, indietronica" role="button">
 Hot Chip - In Our Heads (2012-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cc18898-c270-40c2-b319-9c5382261df0/1500340877-500.jpg" data-tags="new wave, 4ad" role="button">
-Twin Shadow - Confess (2012-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/27c7b78d-d741-4a12-9abf-0843201cb316/5969821791-500.jpg" data-tags="instrumental, indie electronic, idm, french house, electro funk, indie electro, post-dubstep" role="button">
 Uppermost - Control (2012-12-17)

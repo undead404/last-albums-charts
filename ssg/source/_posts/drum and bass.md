@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T12:09:01.502Z
+date: 2021-04-10T17:53:01.404Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -138,9 +138,6 @@ deadmau5 - Get Scraped (2005-07-26)
 <li data-cover="http://coverartarchive.org/release/106abfcc-2155-49fe-a64f-ba85375b894c/4714836425-500.jpg" data-tags="drum and bass" role="button">
 London Elektricity - Power Ballads (2005-08-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/de92f6d3-8d9a-3152-abdf-f6e723c3d1ac/16839853239-500.jpg" data-tags="hip-hop" role="button">
-DANGERDOOM - The Mouse and the Mask (2005-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb7cc0a9-a13a-453a-bbd5-076136f3a76f/2459388103-500.jpg" data-tags="drum and bass" role="button">
 Spor - Tactics EP (2005-12-19)
 </li>
@@ -197,6 +194,9 @@ London Elektricity - Syncopated City (2008-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f20719f3-0c5f-426d-b3d8-d02e4fd4917f/3498321233-500.jpg" data-tags="drum and bass" role="button">
 The Qemists - Join The Q (2008-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3b475ad-95b6-4348-a660-996e2f993145/2486291366-500.jpg" data-tags="drum and bass" role="button">
+State Of Mind - Faster Than Light (2009-03-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="drum and bass" role="button">
 High Contrast - Confidential (2009-04-27)
@@ -264,9 +264,6 @@ Nero - Welcome Reality (2011-08-12)
 <li data-cover="http://coverartarchive.org/release/a56f0d90-c910-4e02-b691-b545a9949350/1273499246-500.jpg" data-tags="electronic, drum and bass, neurofunk" role="button">
 Noisia - Could This Be (2011-11-21)
 </li>
-<li data-cover="https://img.discogs.com/URBql6c3VIxoUJnUkfaqxw6YxSU=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3351355-1412855554-1608.jpeg.jpg" data-tags="post-hardcore, trancecore, dubstep" role="button">
-Enter Shikari - A Flash Flood of Colour (2012-01-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/c4f3fc13-f943-4bdc-aa07-8e3c203e4460/19858976358-500.jpg" data-tags="drum and bass, drum & bass, 2012 releases, liquid dnb, current favorite albums" role="button">
 Apex - Omega Point Ep (2012-03-02)
 </li>
@@ -290,6 +287,9 @@ Kosheen - Independence (2012-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/247dbc2d-61f2-4525-a292-10ca5456ec4e/18369021401-500.jpg" data-tags="electronic, drum and bass, drum & bass" role="button">
+Spor - Ziggurat / Push Me, Pull You (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbc2d65a-6221-4095-87e6-4532aa916134/28869505470-500.jpg" data-tags="dubstep, drum and bass" role="button">
 The Prodigy - Smack My Bitch Up (Noisia Remix)/ Breathe (Zeds Dead Remix) (2012-11-05)

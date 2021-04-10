@@ -1,19 +1,19 @@
 ---
-date: 2021-04-10T06:20:07.015Z
+date: 2021-04-10T17:55:01.450Z
 title: "energetic: 100 albums you must listen to before you die"
 ---
-![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
+![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">Jimmy Eat World - Bleed American (2001-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/5a8fa583-2b56-3d92-9128-82c6ada1bc3a/1077694619-500.jpg" data-tags="indie rock, indie" role="button">Maxïmo Park - A Certain Trigger (2005-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">Foo Fighters - Greatest Hits (2009-10-30)</li>
+<li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">Janelle Monáe - The ArchAndroid (2010-05-17)</li>
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">Justice - Civilization (2011-03-30)</li>
 <li data-cover="http://coverartarchive.org/release/114dc1d5-a25d-4893-abaa-a405282128c2/4155273043-500.jpg" data-tags="country" role="button">Eric Church - Chief (2011-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/887f5886-3ade-4b40-b9b0-8a9dc17912be/5213943610-500.jpg" data-tags="i love it, electronic" role="button">Icona Pop - I Love It (2012-05-09)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
-<li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">Odesza - In Return (2014-09-08)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -21,20 +21,23 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c2ac2c85-2ce5-3e15-bf4a-88f24efefcda/8611111800-500.jpg" data-tags="jazz, hard bop" role="button">
-Lou Donaldson - Blues Walk (1958-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d9391fb-7d01-30c2-879f-7e21ca6daa7e/1636883977-500.jpg" data-tags="classic rock, 60s" role="button">
-The Rolling Stones - Big Hits (High Tide and Green Grass) (1966-04-02)
+<li data-cover="http://coverartarchive.org/release/c3091591-a9b8-4be6-885f-76e15d630d73/8017634615-500.jpg" data-tags="energetic, cheerful, playful, rollicking, rambunctious" role="button">
+Chuck Berry - New Juke Box Hits (1961)
 </li>
 <li data-cover="https://img.discogs.com/0zDuTKnrcTP4DZ41g2wyT66hL8s=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8993834-1552836282-5556.jpeg.jpg" data-tags="classic rock, southern rock, blues, live, rock, 70s" role="button">
 The Allman Brothers Band - At Fillmore East (1971)
+</li>
+<li data-cover="https://img.discogs.com/KvznAeiMRkq-tihesKqtEcS2cAQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566260-1290780860.jpeg.jpg" data-tags="blues, energetic, searching, reflective, organic, confident, earnest, bittersweet, yearning, playful, partying, memphis blues, celebratory, modern electric blues, refined, theatrical, tgif, boisterous, soul-blues, self-conscious, regional blues, bbk, brc blues band, brc blues band karlsruhe, blues rock club radio karlsruhe, walter buddy freter, lautfm bluesclub, wwwlautfmbluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe, blues rock radio germany deutschland" role="button">
+B.B. King - To Know You Is To Love You (1973)
 </li>
 <li data-cover="http://coverartarchive.org/release/0fa2416d-3813-4639-90d4-c308779b3802/5478169435-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Live! (1975-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2e7464f-d63b-426b-9a11-6c12c3b5bb84/18748080001-500.jpg" data-tags="pop, 70s" role="button">
 ABBA - Arrival (1976-10-11)
+</li>
+<li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
+The Raincoats - The Raincoats (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b4b26f7-7e2f-4029-94bd-8a94ebf79eff/13465941802-500.jpg" data-tags="70s, disco" role="button">
 Sister Sledge - We Are Family (1979)
@@ -45,29 +48,20 @@ The Knack - Get The Knack (1979-04)
 <li data-cover="http://coverartarchive.org/release/1fbb654a-e585-4f9c-acc6-97675008c6e7/19879260317-500.jpg" data-tags="disco" role="button">
 Donna Summer - Bad Girls (1979-04-25)
 </li>
-<li data-cover="https://img.discogs.com/jF4AM6-aaWcFpPtMcmMPwbgjIaQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-944642-1543782749-4308.jpeg.jpg" data-tags="kids" role="button">
-Raffi - Baby Beluga (1980)
-</li>
 <li data-cover="https://img.discogs.com/RMYzpYyIA6AOBZdbg7xWl2gJlIM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379639-1419989010-9809.jpeg.jpg" data-tags="jangle pop, post-punk, new wave" role="button">
 The Feelies - Crazy Rhythms (1980)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a8c88fb-a5c5-47b9-a499-9f1832baf27d/7821199789-500.jpg" data-tags="classic rock" role="button">
-Billy Joel - Glass Houses (1980-03-12)
 </li>
 <li data-cover="https://img.discogs.com/zXwE8GSP9kMFhwdtmJIs6BD8QMw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4724839-1457495653-1967.jpeg.jpg" data-tags="80s, rock, pop" role="button">
 Joe Jackson - Night And Day (1982-06)
 </li>
+<li data-cover="https://img.discogs.com/21xR7CRutjALMZS8sqMuJN9ZzUM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10550506-1499718550-3501.jpeg.jpg" data-tags="rock" role="button">
+The Who - It's Hard (1982-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/320e59a4-d93a-48f6-ae66-3f64eec59a71/11946420305-500.jpg" data-tags="80s" role="button">
 Oingo Boingo - Dead Man's Party (1985)
 </li>
-<li data-cover="https://img.discogs.com/jYuXWTkwCW1FM_5FaZlToAzawsM=/fit-in/300x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6693852-1424772181-5761.jpeg.jpg" data-tags="classic rock, hard rock, bad company" role="button">
-Bad Company - 10 From 6 (1985-12-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
 R.E.M. - Lifes Rich Pageant (1986-07-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/2be302b8-5c4a-47ae-ac83-0f08777982ab/12312200491-500.jpg" data-tags="80s, sst" role="button">
-Descendents - All (1987-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="flamenco" role="button">
 Gipsy Kings - Gipsy Kings (1988-02)
@@ -78,8 +72,20 @@ Dream Theater - When Dream And Day Unite (1989-03-06)
 <li data-cover="http://coverartarchive.org/release/c2b04d6d-b900-49ee-aa2d-6e29c35a0c24/1978519255-500.jpg" data-tags="dance" role="button">
 Deee-Lite - World Clique (1990-08-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/886168ed-9fd3-430e-8129-93539907fbaa/4199078719-500.jpg" data-tags="classic rock, the rolling stones" role="button">
+The Rolling Stones - Flashpoint (1991-04-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/6ce98bda-1db0-3915-bcd1-f0ffc63997d6/17058903036-500.jpg" data-tags="90s, alternative rock, rock" role="button">
+Live - Mental Jewelry (1991-12-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
+Jimi Hendrix - First Rays of the New Rising Sun (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/0adceade-cc01-498f-a46f-0121c6802d8c/4969333235-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Midnight Marauders (1993-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/82cef0f9-f982-3c09-931a-1a531dae43b9/18523473099-500.jpg" data-tags="covers, punk" role="button">
+Ramones - Acid Eaters (1993-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
 dEUS - Worst Case Scenario (1994-09-19)
@@ -93,20 +99,20 @@ New Order - (the best of) New Order (1994-11-21)
 <li data-cover="http://coverartarchive.org/release/4613c1ad-f235-4306-a48b-78f28f24fd81/25846790445-500.jpg" data-tags="reggae" role="button">
 Shaggy - Boombastic (1995)
 </li>
-<li data-cover="http://coverartarchive.org/release/b1a7b782-667f-43dd-934f-e28ac968bec3/9434622591-500.jpg" data-tags="soul, 70s, funk" role="button">
-Hot Chocolate - Hot Chocolate (1995)
+<li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
+Buju Banton - 'Til Shiloh (1995-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/80e36449-28af-4bba-a39b-be53ba957302/1287504048-500.jpg" data-tags="rock, rock argentino" role="button">
 La Renga - Despedazado Por Mil Partes (1996-11)
+</li>
+<li data-cover="https://img.discogs.com/6jHiwdFvTCGsesqfZbdYJMmJDJQ=/fit-in/600x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6011965-1408793301-7678.jpeg.jpg" data-tags="big beat, techno, breakbeat" role="button">
+The Prodigy - Breathe (1996-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/f59e164a-ca57-4d80-8f4e-1a10a9757354/15320405430-500.jpg" data-tags="electronic, electronica, druggy, energetic, clinical, breakbeat, big beat, playful, sensual, celebratory" role="button">
 Cirrus - Drop The Break (1997-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1797161d-28d1-430a-bd7c-0a6f268cab6e/17160061727-500.jpg" data-tags="alternative rock" role="button">
 Switchfoot - The Legend Of Chin (1997-06-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Death to the Pixies (1997-10-06)
 </li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
@@ -129,17 +135,20 @@ Jars of Clay - If I Left the Zoo (1999-11-09)
 <li data-cover="http://coverartarchive.org/release/71789b50-3b8b-4601-a027-75b8c15bc2b7/12942561796-500.jpg" data-tags="alternative rock" role="button">
 Switchfoot - Learning to Breathe (2000-09-26)
 </li>
-<li data-cover="https://img.discogs.com/6V4ndRC6zNhpyzTupUGwZIu-ocs=/fit-in/599x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785100-1158507458.jpeg.jpg" data-tags="rock" role="button">
-Ash - Free All Angels (2001-04-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1b9edde-63e9-4c05-8556-5927e063be3c/1262080218-500.jpg" data-tags="psychedelic, energetic, space" role="button">
 The Helio Sequence - Young Effectuals (2001-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/220b926c-dabe-4be9-8768-209137155a46/6505727609-500.jpg" data-tags="metal" role="button">
+Mudvayne - The Beginning of All Things to End (2001-11-20)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Music - The Music (2002-08-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/a9c0c9a7-d89d-451a-9d18-24991b6bda34/15307887362-500.jpg" data-tags="black music" role="button">
+LL Cool J - 10 (2002-10-15)
 </li>
 <li data-cover="https://img.discogs.com/xNhbq7wdrCp41Cli9eWorBoOBUY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15694999-1596054295-8929.jpeg.jpg" data-tags="rock" role="button">
 The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
@@ -147,11 +156,20 @@ The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
 <li data-cover="http://coverartarchive.org/release/15483097-3a69-3b70-ae4a-40ca82156c27/7143040493-500.jpg" data-tags="latin, shakira, pop" role="button">
 Shakira - Grandes Exitos (2002-11-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/7af6881e-8249-4824-b352-b38f642b6c85/1580458507-500.jpg" data-tags="rock" role="button">
+Mor ve Ötesi - Dünya Yalan Söylüyor (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
 Infected Mushroom - IM the Supervisor (2004-09-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/6a601b1a-8e91-47b4-8a26-fe3aa08fb824/2036785255-500.jpg" data-tags="rap" role="button">
+Fabolous - Real Talk (2004-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/87e263c4-6edf-4df6-928d-ab3174a53072/5959630733-500.jpg" data-tags="alternative rock, energetic, dansa i en virvel av lycka, svenskprov, big smile-song, smile and dance-song" role="button">
+Mattias Alkberg BD - Jag ska bli en bättre vän (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/aae883ce-905d-4b1b-8440-037e4102bf7a/10037462392-500.jpg" data-tags="country" role="button">
 Miranda Lambert - Kerosene (2005-03-15)
@@ -165,11 +183,17 @@ Maxïmo Park - A Certain Trigger (2005-05-16)
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/02942ebd-41d0-4868-a6aa-20f70ffee92b/7928073801-500.jpg" data-tags="metalcore, metal, mathcore" role="button">
+The Number Twelve Looks Like You - Nuclear. Sad. Nuclear (2005-06-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/4a2b6743-147d-4e5b-9426-a05727d4cc0c/6386195266-500.jpg" data-tags="electronic, electro" role="button">
 The Presets - Beams (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Switchfoot - Nothing Is Sound (2005-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/f3a7a8de-ff69-4af3-83e6-a457ea03f1a3/24875564928-500.jpg" data-tags="energetic, homesick, the mint chicks, troublegum pop, 2006 releases" role="button">
+The Mint Chicks - Crazy? Yes! Dumb? No! (2006)
 </li>
 <li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
 The Feeling - Twelve Stops And Home (2006-06-02)
@@ -180,14 +204,14 @@ Guttermouth - Shave The Planet (2006-08-22)
 <li data-cover="http://coverartarchive.org/release/21b03748-3bb5-4b24-8e7d-14e47eee80ca/13921216200-500.jpg" data-tags="rap, rapcore, alternative hip-hop" role="button">
 Tech N9ne - Everready (2006-11-07)
 </li>
+<li data-cover="https://img.discogs.com/_5gq4yfLva5ANSdponrD5c18aCs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1862295-1538229572-5521.jpeg.jpg" data-tags="indie, indie rock, progressive" role="button">
+Kiss Kiss - Reality vs. the Optimist (2007-02-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, punk, energetic, yeah!" role="button">
 Itchy Poopzkid - Time To Ignite (2007-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/69f898f9-3fe4-4111-ad11-81fccf55df8e/5791775997-500.jpg" data-tags="country" role="button">
-Miranda Lambert - Crazy Ex-Girlfriend (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/29fbe863-b3bf-41f8-a46c-c5441769dfae/7006206278-500.jpg" data-tags="energetic, reflective, literate, spiritual, earnest, playful, indulgent, effervescent" role="button">
 Derek Webb - The Ringing Bell (2007-05-01)
@@ -210,9 +234,6 @@ Ladyhawke - Ladyhawke (2008-09-15)
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
 </li>
-<li data-cover="https://img.discogs.com/Zms9UfTPdp75NZFwywR9djJ_rQE=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4580994-1369007188-3670.jpeg.jpg" data-tags="pop" role="button">
-Jon McLaughlin - OK Now (2008-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
 </li>
@@ -230,9 +251,6 @@ Passion Pit - Manners (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/59ff8aaf-2ad1-4b1d-9e2a-771f1d154a33/21498444470-500.jpg" data-tags="alternative, indie, alternative rock" role="button">
 Dinosaur Jr. - Farm (2009-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/875fafae-b1db-47c2-97e5-74d3783a02a6/8022941540-500.jpg" data-tags="country" role="button">
-Miranda Lambert - Revolution (2009-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd535e76-4821-4738-a1fc-bd835c6ff6bd/1941029803-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Greatest Hits (2009-10-30)
@@ -267,17 +285,8 @@ Alan Jackson - 34 Number Ones (2010-11-23)
 <li data-cover="https://img.discogs.com/Nn2SvudGK6LMvAJfFhJYLnoTk4s=/fit-in/502x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3203264-1320333760.jpeg.jpg" data-tags="electronic, alternative, energetic, avant garde, male vocalists, 10s" role="button">
 Justice - Civilization (2011-03-30)
 </li>
-<li data-cover="https://img.discogs.com/3I59Z86o81mIRB7n8i02pWtpY24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541257-1465358987-5424.jpeg.jpg" data-tags="country, hell on heels" role="button">
-Pistol Annies - Hell On Heels (2011-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/114dc1d5-a25d-4893-abaa-a405282128c2/4155273043-500.jpg" data-tags="country" role="button">
 Eric Church - Chief (2011-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a301bbe-ec95-4cc8-bc33-cce9c3a7479f/10041731004-500.jpg" data-tags="hard rock" role="button">
-Aerosmith - The Essential Aerosmith (2011-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/a23b683f-5d70-4250-94e3-5b8de2281283/6656877434-500.jpg" data-tags="country, 2010s" role="button">
-Miranda Lambert - Four the Record (2011-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/67de74dc-8259-4549-9704-a854eef793c0/25203283020-500.jpg" data-tags="rock" role="button">
 WZRD - WZRD (2012-01-01)
@@ -311,14 +320,5 @@ Protomartyr - Under Color of Official Right (2014-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/46cfef07-0d8a-4b3f-8c48-0b5a6e933872/7420741416-500.jpg" data-tags="country" role="button">
-Miranda Lambert - Platinum (2014-06-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">
-Odesza - In Return (2014-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd6358fb-084f-46c6-810d-9a3085095318/9043181228-500.jpg" data-tags="indie rock, thoughtful, energetic, searching, reflective, passionate, explosive, confident, aggressive, dramatic, introspection, majestic, strong, yearning, powerful, triumphant, bombastic, thrilling, defiant, empowerment, cathartic, suspenseful, desperate, elaborate, visceral, sprawling, urgent, boisterous, ambitious, affirmation, serious, relationships, animated, everyday life, outraged, mighty" role="button">
-Restorations - LP3 (2014-10-27)
 </li>
 </ol>

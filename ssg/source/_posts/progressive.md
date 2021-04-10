@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:12:06.990Z
+date: 2021-04-10T17:54:01.411Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -51,6 +51,9 @@ Peter Gabriel - So (1986-05-19)
 <li data-cover="http://coverartarchive.org/release/80659e3d-dffd-3e65-9a37-16437405fdbd/14168305413-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - When Dream And Day Unite (1989-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
+Primus - Sailing The Seas Of Cheese (1991-05-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/6be0d2a6-67b2-4b57-b7a0-5d6366a1332d/21377405539-500.jpg" data-tags="rock, classic rock" role="button">
 Genesis - We Can't Dance (1991-11-07)
 </li>
@@ -65,6 +68,9 @@ Mike Oldfield - Tubular Bells (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/6972609d-dd03-3089-9a86-697cb0d725c3/16362065745-500.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - The Sky Moves Sideways (1995-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/f71cf282-76dc-45ef-a25f-edd5d65152af/15074067392-500.jpg" data-tags="progressive metal" role="button">
+Dream Theater - Scenes From a Memory (1996-04-30)
 </li>
 <li data-cover="https://img.discogs.com/ssTddN9Dv7id16YvJKp3py6Hh64=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484202-1177170908.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Morningrise (1996-06-24)
@@ -132,8 +138,8 @@ Starsailor - Silence Is Easy (2003-09-15)
 <li data-cover="https://img.discogs.com/7qNbLA9VfonNiIGO0lQbv-LrCpo=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426215-1438225450-3894.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Effloresce (2003-09-29)
 </li>
-<li data-cover="https://img.discogs.com/LShQc__qBHN_91LR5-Hs-Z24A24=/fit-in/488x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9404195-1479968090-3673.jpeg.jpg" data-tags="progressive rock" role="button">
-Anathema - A Natural Disaster (2003-11-03)
+<li data-cover="http://coverartarchive.org/release/a660c2ae-4ad9-4682-b06a-a95ffa3ab4a7/26500850268-500.jpg" data-tags="post-hardcore" role="button">
+The Fall of Troy - The Fall Of Troy (2003-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e178e284-cbf6-30b2-8658-cb0111c78229/1118918783-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Train of Thought (2003-11-08)
@@ -198,14 +204,14 @@ Pure Reason Revolution - The Dark Third (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/a6988593-a2d7-35db-862a-efee729fa467/5234004130-500.jpg" data-tags="progressive metal" role="button">
 Tool - 10,000 Days (2006-04-28)
 </li>
+<li data-cover="https://img.discogs.com/ngP72QwaCQL3ltaXToJDNaOtB4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772344-1244368217.jpeg.jpg" data-tags="british, soft rock, pop, indie, rock" role="button">
+The Feeling - Twelve Stops And Home (2006-06-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/7742c1af-1d89-4d49-a711-fea5544a7573/3331817147-500.jpg" data-tags="ska" role="button">
 RX Bandits - ...And the Battle Begun (2006-08-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - Amputechture (2006-09-11)
-</li>
-<li data-cover="https://img.discogs.com/BKQAPLK38OM1WFyHhEvQevfnUz8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039025-1494295675-6819.jpeg.jpg" data-tags="experimental, post-hardcore" role="button">
-Fear Before The March Of Flames - The Always Open Mouth (2006-09-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg" data-tags="sludge, post-metal, post-rock" role="button">
 Isis - In the Absence of Truth (2006-10-06)
@@ -285,12 +291,6 @@ deadmau5 - For Lack of a Better Name (2009-09-22)
 <li data-cover="http://coverartarchive.org/release/ff398e09-c0ce-4d06-ac4c-de78096b6551/24625583789-500.jpg" data-tags="progressive rock, post-hardcore, progressive" role="button">
 The Fall of Troy - In the Unlikely Event (2009-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/787fa423-84b8-4672-ba02-4222e853a23e/1137526155-500.jpg" data-tags="alternative rock" role="button">
-Angels & Airwaves - LOVE (2010-02-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/572595c3-3615-4298-95a1-eb824e11526b/8893012329-500.jpg" data-tags="alternative rock, post-hardcore" role="button">
-Circa Survive - Blue Sky Noise (2010-04-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/a10f34d5-8afb-460e-b6d5-a442eb7c4a2c/9612740615-500.jpg" data-tags="indie rock" role="button">
 Portugal. The Man - American Ghetto (2010-05-11)
 </li>
@@ -312,13 +312,13 @@ Dream Theater - A Dramatic Turn of Events (2011-08-25)
 <li data-cover="http://coverartarchive.org/release/1b0fa5a3-1818-4ed9-9740-9cfce900af8e/4695307409-500.jpg" data-tags="progressive metal, progressive rock" role="button">
 Karnivool - Asymmetry (2013-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/4d284c99-9d7a-4c79-bf16-ceffd78c32b4/6732933359-500.jpg" data-tags="jazz fusion" role="button">
-Snarky Puppy - We Like It Here (2014-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/9cb4a5bb-bc24-4b4d-b1f5-e5a07397d980/8395692349-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Pale Communion (2014-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/18715b52-3a80-4feb-9932-603525512d4d/7306940673-500.jpg" data-tags="progressive house" role="button">
 deadmau5 - while(1<2) (2014-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b86c0c7-e339-4634-b7b3-de1924eb7a4f/15837120602-500.jpg" data-tags="progressive rock, ambient" role="button">
+Pink Floyd - The Endless River (2014-11-07)
 </li>
 </ol>

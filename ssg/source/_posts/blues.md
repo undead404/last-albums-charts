@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:31:07.296Z
+date: 2021-04-10T18:05:01.479Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -72,6 +72,9 @@ Janis Joplin - Pearl (1971-01)
 <li data-cover="http://coverartarchive.org/release/e68f23df-61e3-4264-bfc3-17ac3a6f856b/5132812481-500.jpg" data-tags="classic rock, psychedelic rock" role="button">
 The Doors - L.A. Woman (1971-04)
 </li>
+<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="classic rock, rock, 70s" role="button">
+The Rolling Stones - Sticky Fingers (1971-04-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
 Nina Simone - Here Comes The Sun (1971-09)
 </li>
@@ -89,9 +92,6 @@ Neil Young - On the Beach (1974-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1828741e-e2b7-382e-968e-bc536eb154e2/6505242178-500.jpg" data-tags="blues" role="button">
 Tom Waits - The Heart of Saturday Night (1974-10-15)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, 70s" role="button">
-Fleetwood Mac - Fleetwood Mac (1975-07-11)
 </li>
 <li data-cover="https://img.discogs.com/8wss12CfsuoyQ1bZdQIp7CoacF8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10692549-1502513873-3759.jpeg.jpg" data-tags="blues" role="button">
 J.J. Cale - Troubadour (1976)
@@ -126,9 +126,6 @@ Gary Moore - Still Got the Blues (1990-04-04)
 <li data-cover="http://coverartarchive.org/release/a2eab3ac-8fb4-4aa5-b0f7-a9872dbde81e/9504529111-500.jpg" data-tags="blues" role="button">
 Buddy Guy - Damn Right, I've Got The Blues (1991)
 </li>
-<li data-cover="https://img.discogs.com/IE46vgofJBJwVXqMIKMse8ukcPk=/fit-in/441x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4544310-1367922867-1745.jpeg.jpg" data-tags="rock, blues rock, blues" role="button">
-Bonnie Raitt - Luck Of The Draw (1991-06-25)
-</li>
 <li data-cover="https://img.discogs.com/K2IAnrX1dwsD3gucstErNMR_zmY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6664306-1593630845-8226.jpeg.jpg" data-tags="eric clapton" role="button">
 Eric Clapton - Tears in Heaven (1992-01)
 </li>
@@ -143,6 +140,9 @@ Jimi Hendrix - Blues (1994-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/365f2bc6-b56c-460c-9ce9-cde7bb27e46d/10858606127-500.jpg" data-tags="rock, blues, classic rock" role="button">
 Blues Traveler - Four (1994-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/4fab8af6-95fd-461f-82b7-f40da90180ed/19619688692-500.jpg" data-tags="classic rock, blues, 60s" role="button">
+Janis Joplin - 18 Essential Songs (1995-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf2d4879-5b57-446c-a344-73edc2c953ee/2125238082-500.jpg" data-tags="rock" role="button">
 Joan Osborne - Relish (1995-03-21)

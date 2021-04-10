@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:45:01.593Z
+date: 2021-04-10T18:15:01.558Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -81,6 +81,9 @@ Avril Lavigne - Under My Skin (2004-03)
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
+The Calling - Two (2004-05-24)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock" role="button">
 Ashlee Simpson - Autobiography (2004-07-20)
 </li>
@@ -159,6 +162,9 @@ Paramore - RIOT! (2007-06-11)
 <li data-cover="http://coverartarchive.org/release/3a386125-77d2-4f40-8533-b9fb7bcf9717/9805970120-500.jpg" data-tags="pop, rock, pop rock" role="button">
 Kelly Clarkson - My December (2007-06-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
+Jimmy Eat World - Chase This Light (2007-10-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/04e20dc5-cd0c-4315-9994-33d9856de5c6/14073861785-500.jpg" data-tags="alternative rock" role="button">
 OneRepublic - Dreaming Out Loud (2007-11-20)
 </li>
@@ -213,17 +219,11 @@ fun. - Aim and Ignite (2009-08-25)
 <li data-cover="http://coverartarchive.org/release/2b72990f-0c8d-4687-a33f-4a329672f85a/17667139144-500.jpg" data-tags="pop, miley cyrus" role="button">
 Miley Cyrus - The Time of Our Lives (2009-08-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
-Boys Like Girls - Love Drunk (2009-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67bd872-40e5-43b0-869c-c2377f992e17/6617681535-500.jpg" data-tags="rock, alternative rock" role="button">
 OneRepublic - Waking Up (2009-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/af33bbb3-7977-417c-8620-68cdc6f028d1/16108982654-500.jpg" data-tags="female vocalist" role="button">
-Sara Bareilles - Kaleidoscope Heart (2010-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/18e4ebe7-8117-4013-9e1d-6c4bfd9e04c4/6682031158-500.jpg" data-tags="the script" role="button">
 The Script - Science & Faith (2010-09-13)

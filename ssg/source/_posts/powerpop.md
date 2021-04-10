@@ -1,13 +1,13 @@
 ---
-date: 2021-04-10T06:39:01.407Z
+date: 2021-04-10T18:27:01.427Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)</li>
+<li data-cover="https://img.discogs.com/lNju4-4GTTVLQU-MEOp2glgPq8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2406287-1284085702.jpeg.jpg" data-tags="pop punk" role="button">The Maine - The Way We Talk (2007-12-11)</li>
 <li data-cover="https://img.discogs.com/ZGL0HhZKwQcKL-zWkq3hYjLC8Lc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2444943-1284431336.jpeg.jpg" data-tags="powerpop" role="button">The White Tie Affair - Walk This Way (2008-04-22)</li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">The Cab - Whisper War (2008-04-29)</li>
-<li data-cover="http://coverartarchive.org/release/7aa687a2-1a29-4f6a-8d95-5d730c9e56c1/15535365137-500.jpg" data-tags="electronic, dance" role="button">Cash Cash - Take It To The Floor (2008-10-07)</li>
 <li data-cover="http://coverartarchive.org/release/89dd0390-5a5d-457f-900e-90fd1c43f077/10226970067-500.jpg" data-tags="pop punk" role="button">All Time Low - Nothing Personal (2009-01-09)</li>
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">Breathe Carolina - Hello Fascination (2009-08-18)</li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">The Summer Set - Love Like This (2009-10-13)</li>
@@ -24,9 +24,6 @@ _________________
 <li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
 The Easybeats - Friday on My Mind (1966)
 </li>
-<li data-cover="http://coverartarchive.org/release/20a3b21d-5d06-4db7-a737-cce696fd763e/10723116989-500.jpg" data-tags="classic rock, rock" role="button">
-Faces - Ooh La La (1973)
-</li>
 <li data-cover="http://coverartarchive.org/release/c42f97da-b73d-429c-9400-12f288c783d8/15325737905-500.jpg" data-tags="70s, powerpop" role="button">
 Big Star - Radio City (1974)
 </li>
@@ -38,6 +35,9 @@ The Boomtown Rats - A Tonic For The Troops (1978-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, 70s" role="button">
+The Boomtown Rats - The Fine Art Of Surfacing (1979-10-24)
 </li>
 <li data-cover="https://img.discogs.com/UqcTAo_xEbK2m1yIZL0j6hVu6gM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15371139-1592327560-7618.jpeg.jpg" data-tags="i have this on vinyl" role="button">
 Sparks - Angst In My Pants (1982)
@@ -51,6 +51,9 @@ The Romantics - In Heat (1983-02-14)
 <li data-cover="http://coverartarchive.org/release/8be613dc-5964-3dc0-9802-71c4eeccb125/11372138627-500.jpg" data-tags="progressive rock" role="button">
 Yes - 90125 (1983-11-07)
 </li>
+<li data-cover="https://img.discogs.com/45Ia8qZjawcm_1mgFakqn7N1kxY=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-417039-1437479759-2873.jpeg.jpg" data-tags="classic rock, metal, rock, punk, psychedelic, garage rock, glam rock, powerpop, surf rock, chameleon, proto punk, rock-protopunk, cowcore" role="button">
+The Dead Milkmen - Death Rides a Pale Cow (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
 </li>
@@ -63,6 +66,9 @@ The Animals - The Most of the Animals (1989)
 <li data-cover="https://img.discogs.com/cTi_0lFzEgH2DPNSGdc7At_VcDU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-431536-1529484494-6510.jpeg.jpg" data-tags="rock" role="button">
 The Romantics - What I Like About You (And Other Romantic Hits) (1990-12-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/856a9660-eeb3-4088-837d-79f8ad094463/3128706063-500.jpg" data-tags="classic rock, rock" role="button">
+Thin Lizzy - Dedication (1991)
+</li>
 <li data-cover="http://coverartarchive.org/release/e3347148-ff9a-4fff-a00e-35a171f86d27/13069256471-500.jpg" data-tags="classic rock, rock, punk, psychedelic, garage rock, glam rock, powerpop, high school, sommer, proto punk, my so-called life, i remember you, other great tracks, rock-protopunk, flashback alternatives, 20 favorite albums of 1993, my 100 favorite albums of the 1990s, big red letter day, soda-jerk" role="button">
 Buffalo Tom - Big Red Letter Day (1993-09-21)
 </li>
@@ -72,20 +78,26 @@ The Pretenders - Last Of The Independents (1994-05-09)
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
 </li>
+<li data-cover="https://img.discogs.com/hhdAdbhIGdVnQ_dkjFHb81QNyQM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904771-1579103556-3539.jpeg.jpg" data-tags="classic rock, metal, rock, punk, americana, psychedelic, 90s, garage rock, folk rock, glam rock, powerpop, country rock, chameleon, proto punk, rock-protopunk, twilightdream" role="button">
+Golden Smog - Down by the Old Mainstream (1995-01-01)
+</li>
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ee6b6b1-fe79-4935-b229-50f64b87cb17/7786670567-500.jpg" data-tags="4ad" role="button">
-The Amps - Pacer (1995-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/14992fdd-b7c2-321f-a6eb-492776e765e7/20895447487-500.jpg" data-tags="rock, power pop" role="button">
 Fountains of Wayne - Fountains of Wayne (1996-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
-Pixies - Death to the Pixies (1997-10-06)
+<li data-cover="http://coverartarchive.org/release/d18da79c-cc83-4f16-be5d-5b3acd9a11f1/7696060644-500.jpg" data-tags="spanish, pop, 90s, powerpop, spanish indie pop, albums i own on cd, manicomio" role="button">
+Los Piratas - Manual para los fieles (1997)
 </li>
 <li data-cover="http://coverartarchive.org/release/a402586f-5215-4b26-8926-85e20b0c6c97/9587930745-500.jpg" data-tags="rock, hard rock" role="button">
 Buckcherry - Buckcherry (1999-04-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/07792232-0a12-3054-8566-eabd44e9616b/2981324220-500.jpg" data-tags="power pop, 90s" role="button">
+Fountains of Wayne - Utopia Parkway (1999-04-06)
+</li>
+<li data-cover="https://img.discogs.com/fvQQtrcHcK9_aqqrFJcqFto8W_M=/fit-in/600x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8248595-1608386323-3714.jpeg.jpg" data-tags="rock" role="button">
+Ben Harper - Burn To Shine (1999-09-21)
 </li>
 <li data-cover="https://img.discogs.com/HCJ6IGVuFD4bFIhNAnM52183pv8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903762-1286490780.jpeg.jpg" data-tags="classic rock, rock" role="button">
 Jimmy Page & The Black Crowes - Live At The Greek (2000-07-04)
@@ -99,14 +111,11 @@ Black Rebel Motorcycle Club - Black Rebel Motorcycle Club (2001-04-03)
 <li data-cover="https://img.discogs.com/A0VVIyKLQd_5FEOag2sZe82URmA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396805-1571162764-2400.jpeg.jpg" data-tags="rock, punk, punk rock" role="button">
 Joey Ramone - Don't Worry About Me (2002-02-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/6736dd14-d28a-3198-9416-f5f858400326/7010810256-500.jpg" data-tags="rock, indie, alternative, alternative rock, indie rock" role="button">
-Phantom Planet - The Guest (2002-02-26)
+<li data-cover="https://img.discogs.com/pmmj3mB4SNEPLxvvgGYDKOI3qy8=/fit-in/408x361/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2396372-1412006316-8434.jpeg.jpg" data-tags="classic rock, metal, psychedelic, garage rock, glam rock, powerpop, country rock, surf rock, 2000s, chameleon, proto punk, my favourite artist, rock-protopunk" role="button">
+Guided by Voices - Universal Truths and Cycles (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/460eb1c2-1787-4c84-8aec-496251d17e8b/3205936535-500.jpg" data-tags="indie" role="button">
 The Jesus and Mary Chain - 21 Singles (2002-05-27)
-</li>
-<li data-cover="https://img.discogs.com/0x0qF57DZHYhbAnEWo2HMlYXEDU=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789023-1158929995.jpeg.jpg" data-tags="rock, garage rock" role="button">
-The Datsuns - The Datsuns (2002-10-07)
 </li>
 <li data-cover="https://img.discogs.com/0oz0hjq6Q-47wkzx1-f65kOs6f0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1103346-1495552406-6044.jpeg.jpg" data-tags="garage rock" role="button">
 The Greenhornes - Dual Mono (2002-10-15)
@@ -123,6 +132,9 @@ The Long Winters - When I Pretend to Fall (2003-05-06)
 <li data-cover="https://img.discogs.com/BIFFlFcgE_WXsUFm1iEBDRLvtko=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460634-1602939219-3786.jpeg.jpg" data-tags="rock, indie rock, igneoustempest" role="button">
 Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 </li>
+<li data-cover="https://img.discogs.com/8MvpNOFxIxmPCt8TTrNI3vAbFVI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1559154-1614442742-5463.jpeg.jpg" data-tags="classic rock, metal, rock, punk, psychedelic, garage rock, glam rock, powerpop, chameleon, proto punk, rock-protopunk" role="button">
+Mr. Airplane Man - C'mon DJ (2004-01-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b9d0b00-f412-4b45-882a-4ed30e2626f4/8023506950-500.jpg" data-tags="hootie" role="button">
 Hootie & The Blowfish - The Best of Hootie & The Blowfish (1993-2003) (2004-03-02)
 </li>
@@ -131,15 +143,6 @@ The Vines - Winning Days (2004-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ddf2d79b-2c98-4857-9276-46d1a95cdf1f/1924050449-500.jpg" data-tags="garage rock, rock, stoner rock, alternative rock" role="button">
 Eagles of Death Metal - Peace Love Death Metal (2004-03-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0365b79-6bf3-4523-8337-15a6f7cbd8f0/25689157271-500.jpg" data-tags="pop punk" role="button">
-Midtown - Forget What You Know (2004-05-29)
-</li>
-<li data-cover="https://img.discogs.com/pNR1hiO9ZdWhZQGmORuEPqoA0HA=/fit-in/517x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5795018-1402866097-4535.jpeg.jpg" data-tags="hellogoodbye" role="button">
-Hellogoodbye - Hellogoodbye (2004-11-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/7de99e6a-9598-4dc6-97da-dba133c12a80/4889907703-500.jpg" data-tags="mae, rock, alternative, indie rock" role="button">
-MAE - The Everglow (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">
 Hot Hot Heat - Elevator (2005-03-30)
@@ -216,9 +219,6 @@ Breathe Carolina - It's Classy, Not Classic (2008-09-16)
 <li data-cover="https://img.discogs.com/DL6wyKT7zN0CdqK1wZfHRHX-O1U=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181445-1331982850.jpeg.jpg" data-tags="pop punk" role="button">
 You Me at Six - Take Off Your Colours (2008-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/7aa687a2-1a29-4f6a-8d95-5d730c9e56c1/15535365137-500.jpg" data-tags="electronic, dance" role="button">
-Cash Cash - Take It To The Floor (2008-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/3cc04595-5572-44bd-86d1-f49b1bcd60c3/15528819341-500.jpg" data-tags="pop punk, powerpop, acoustic rock, emo pop" role="button">
 Artist vs. Poet - Artist Vs Poet EP (2008-11-18)
 </li>
@@ -236,9 +236,6 @@ The Friday Night Boys - Off The Deep End (2009-06-09)
 </li>
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
-Boys Like Girls - Love Drunk (2009-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
 Mayday Parade - Anywhere But Here (2009-10-06)
@@ -258,20 +255,17 @@ Forever the Sickest Kids - The Weekend: Friday (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/7c58568b-9a54-4834-ac30-56eb81ea7561/14767389167-500.jpg" data-tags="pop punk" role="button">
 We the Kings - Smile Kid (2009-12-08)
 </li>
-<li data-cover="https://img.discogs.com/VG7lGOcQO4uh77kjsVZh-4X7OLc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6336891-1416770883-6030.jpeg.jpg" data-tags="pop punk" role="button">
-Artist vs. Poet - Favorite Fix (2010-03-02)
-</li>
 <li data-cover="https://img.discogs.com/V1h3I7_1zESDNSoXOGmR1Er-m_o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7151528-1434886533-9314.jpeg.jpg" data-tags="powerpop" role="button">
 The Bigger Lights - The Bigger Lights (2010-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/554db6c1-6705-43eb-a22a-63f1dfd3557b/16397831218-500.jpg" data-tags="powerpop, the ready set" role="button">
 The Ready Set - I'm Alive, I'm Dreaming (2010-06-09)
 </li>
+<li data-cover="https://img.discogs.com/CbpCzX_WjoenEyhpNY0XJn_Kg3o=/fit-in/510x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3549244-1334859987.jpeg.jpg" data-tags="pop rock" role="button">
+Automatic Loveletter - Truth Or Dare (2010-06-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/f75cdc20-40ae-44fb-a2b5-ab819ca09505/17601666881-500.jpg" data-tags="powerpop, beatles, never shout never" role="button">
 Stereo Skyline - Stuck On Repeat (2010-07-20)
-</li>
-<li data-cover="https://img.discogs.com/9s_-4Ow4Am6KLuKOxm_iFiceRKc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2593688-1582494408-7139.jpeg.jpg" data-tags="pop punk, rock, dance" role="button">
-Hey Monday - Beneath It All (2010-08-17)
 </li>
 <li data-cover="https://img.discogs.com/MhHw6PVufM8b4Gx2RoPOImLl28o=/fit-in/600x807/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3217164-1569596573-5382.jpeg.jpg" data-tags="acoustic" role="button">
 Never Shout Never - Harmony (2010-08-24)
@@ -306,11 +300,17 @@ Kat Graham - Put Your Graffiti on Me (2012-03-26)
 <li data-cover="http://coverartarchive.org/release/61fc2dd0-4e07-4855-a8bd-26bf8d52dec2/5291095637-500.jpg" data-tags="punk rock, pop punk" role="button">
 All Time Low - Don't Panic: It's Longer Now! (2012-10-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/8b5927d5-c769-4721-9927-685f171eca1d/14632967566-500.jpg" data-tags="powerpop, and if you ever get lonely just go to a record store and visit your friends" role="button">
+A Rocket to the Moon - Wild & Free (2013-01-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/e1aa6b60-72a2-44b8-9c8b-d38d12de9452/6584598553-500.jpg" data-tags="pop punk" role="button">
 We Are the In Crowd - Weird Kids (2014-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba3e03cb-bacf-400c-bb0c-e51f34edbb7e/27217499460-500.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Savages (2014-04-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b6060a3-eae0-4767-a677-add6141a5c57/9657974251-500.jpg" data-tags="powerpop" role="button">
+The Ready Set - The Bad & The Better (2014-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/bbe50630-ccc2-49fb-9b27-4acc46486e29/7688648143-500.jpg" data-tags="pop rock" role="button">
 5 Seconds of Summer - 5 Seconds of Summer (2014-06-27)

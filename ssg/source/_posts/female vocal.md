@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:09:01.412Z
+date: 2021-04-10T17:52:01.421Z
 title: "female vocal: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -42,6 +42,9 @@ Billie Holiday - That Ole Devil Called Love (1985)
 <li data-cover="http://coverartarchive.org/release/5611b3b5-28ab-3ff1-adb0-187bba7567b3/22896262801-500.jpg" data-tags="80s, new wave, pop" role="button">
 Eurythmics - Revenge (1986)
 </li>
+<li data-cover="http://coverartarchive.org/release/e45add67-2c0a-4e93-b729-8a3bfc8cfd8b/24475200257-500.jpg" data-tags="jazz, female vocalists" role="button">
+Ella Fitzgerald - The Best Of The Song Books (1993-09-21)
+</li>
 <li data-cover="https://img.discogs.com/IwkFDFzwN8Fi4tQ2PRIt0e53ZYY=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059626-1366147248-3602.jpeg.jpg" data-tags="female vocal" role="button">
 Sophie B. Hawkins - Right Beside You (1994)
 </li>
@@ -71,6 +74,12 @@ Alanis Morissette - Thank U (1998-09)
 </li>
 <li data-cover="https://img.discogs.com/YzddYZ8Q9yN8CdyP2gOA8_eoyQM=/fit-in/592x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-481543-1181702069.jpeg.jpg" data-tags="chillout, ambient, downtempo, ethereal" role="button">
 Kirsty Hawkshaw - O<u>t (1998-10-05)
+</li>
+<li data-cover="https://img.discogs.com/eiWK3lRVlISXDy75hUMOXdHQWkM=/fit-in/475x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5228597-1388162405-1404.jpeg.jpg" data-tags="latin, morna, world, cape verdean" role="button">
+Cesária Évora - Café Atlantico (1999-08-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/3e884e60-a8f5-424c-95d3-e7e8fe545d2f/22962360991-500.jpg" data-tags="female vocal" role="button">
+Eurythmics - I Saved The World Today (1999-10-04)
 </li>
 <li data-cover="https://img.discogs.com/GtoMOXBxTsOqrQvOQ4_degxBtlA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31372-1258068612.jpeg.jpg" data-tags="electronica, everything but the girl, electronic, lounge" role="button">
 Everything But the Girl - Temperamental (2000-02-18)
@@ -102,11 +111,17 @@ Sara Groves - All Right Here (2002-08-20)
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
 Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="fado" role="button">
+Joana Amendoeira - Fado Antologia (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/ac6996dc-c9e2-48e6-98e3-5c3826d2ee4d/8770433514-500.jpg" data-tags="symphonic metal, gothic metal, female vocalists" role="button">
 Within Temptation - Running Up That Hill (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/34e10a2d-bc95-4a83-93bf-6537a17d250a/8467051409-500.jpg" data-tags="trance, female vocalists" role="button">
 Venus Hum - Big Beautiful Sky (2003-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2632a11-b6c5-479c-8102-e3f78d0d4247/21191766454-500.jpg" data-tags="rnb, sexy music, sedokova" role="button">
+Виа Гра - Стоп! Снято! (2003-04-14)
 </li>
 <li data-cover="https://img.discogs.com/p_YHcsVDUXg_BR_KlsQj3MsDsM4=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773763-1242458190.jpeg.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
@@ -116,9 +131,6 @@ Dark Moor - Between Light and Darkness (2003-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7699cadb-b69e-4f39-a8a3-3f72487a35db/8018314646-500.jpg" data-tags="danish, denmark, copenhagen, europe, european, skandinavian music, skandinavian" role="button">
 Sepiamusic - Prototype (2003-12-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8a2581c-f325-3515-8144-fa3e714a43c4/15823569862-500.jpg" data-tags="j-pop, inspiring, ayumi hamasaki, mainstream artists that actually experiment with different genres and succeed" role="button">
-浜崎あゆみ - Memorial address (2003-12-17)
 </li>
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
@@ -177,17 +189,11 @@ Ian Van Dahl - Movin' On (2006)
 <li data-cover="http://coverartarchive.org/release/4d61abca-5c04-4eba-937b-f575cf001b4e/15756798206-500.jpg" data-tags="indie rock" role="button">
 Be Your Own Pet - Be Your Own Pet (2006-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/d085e544-0483-458e-875f-3d0eec00a7d3/6123430973-500.jpg" data-tags="female vocalists, brazilian" role="button">
-Cibelle - The Shine Of Dried Electric Leaves (2006-05-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/b3a3cae0-dda8-4d98-a62a-b7b35a2b9f0d/23448788511-500.jpg" data-tags="out here all night, outta my way, youre the one" role="button">
 Damone - Out Here All Night (2006-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/75633906-7ee3-4f4c-a27c-e7deb2908711/1049823429-500.jpg" data-tags="symphonic metal" role="button">
 Lunatica - The Edge of Infinity (2006-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a77ce2f-4b51-4467-b5cd-5c8eab82ef4d/14102000439-500.jpg" data-tags="jazz, latin jazz" role="button">
-Eliane Elias - Around The City (2006-08-22)
 </li>
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
@@ -206,12 +212,6 @@ The Pierces - Thirteen Tales Of Love And Revenge (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d026f52f-4078-4669-81e1-73bd041eee86/10391904541-500.jpg" data-tags="chill, ambient, downtempo, club, fierce, smooth jazz, female vocal, afterdark, blue six, djsampick" role="button">
 Still Going - Still Going Theme (2007-09-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/240e9e5d-0e2a-4fef-9692-c4f6f32a9c4b/17850613712-500.jpg" data-tags="funk, soul, disco, afrobeat, gogo, jazz" role="button">
-Orgone - The Killion Floor (2007-10-25)
-</li>
-<li data-cover="https://img.discogs.com/djAIVamQvQEcoxaa0NhTgmABV2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9239547-1477171669-7323.jpeg.jpg" data-tags="mpb" role="button">
-Ana Cañas - Amor E Caos (2007-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/556432f0-5442-485a-99c2-a53ec51b9be5/4394678336-500.jpg" data-tags="alternative, polish, female vocalist" role="button">
 Maria Peszek - Maria Awaria (2008)

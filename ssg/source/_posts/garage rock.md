@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T14:54:01.408Z
+date: 2021-04-10T18:04:01.530Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -38,6 +38,9 @@ The Stooges - The Stooges (1969-08-05)
 </li>
 <li data-cover="https://img.discogs.com/B_XQsc3AzhCIkH9DWzEyhbBZ0V4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379038-1224357901.jpeg.jpg" data-tags="proto-punk, garage rock, 70s" role="button">
 The Stooges - Fun House (1970-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/06ab427b-06b4-482a-90c3-4981c294eadd/11939995493-500.jpg" data-tags="proto-punk, 70s" role="button">
+The Modern Lovers - The Modern Lovers (1976-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1644f5b6-e1e3-4555-8492-22a8c7091810/3778611419-500.jpg" data-tags="garage rock, garage punk" role="button">
 The Hives - Barely Legal (1997-09-22)
@@ -83,9 +86,6 @@ The Hellacopters - By the Grace of God (2002-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/24bd9621-0b64-4897-ac4d-50c7519d1017/21664410934-500.jpg" data-tags="indie rock, indie" role="button">
 The Libertines - Up the Bracket (2002-09-30)
-</li>
-<li data-cover="https://img.discogs.com/0x0qF57DZHYhbAnEWo2HMlYXEDU=/fit-in/200x199/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789023-1158929995.jpeg.jpg" data-tags="rock, garage rock" role="button">
-The Datsuns - The Datsuns (2002-10-07)
 </li>
 <li data-cover="https://img.discogs.com/0oz0hjq6Q-47wkzx1-f65kOs6f0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1103346-1495552406-6044.jpeg.jpg" data-tags="garage rock" role="button">
 The Greenhornes - Dual Mono (2002-10-15)

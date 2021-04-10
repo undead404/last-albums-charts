@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:57:01.404Z
+date: 2021-04-10T18:24:01.536Z
 title: "dancehall: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -42,14 +42,20 @@ Shaggy - Boombastic (1995)
 <li data-cover="http://coverartarchive.org/release/e3cc7fe9-3656-4120-b3f3-97111020d8a2/1305389396-500.jpg" data-tags="french, hip hop, reggae, dancehall, dancehall reggae, ragga-reggae" role="button">
 Raggasonic - Raggasonic (1995)
 </li>
+<li data-cover="https://img.discogs.com/3foj2lbrQJjEw3LMcqgIqjDatFU=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13061767-1547381360-9529.jpeg.jpg" data-tags="dancehall, dance hall, dancehall reggae, cocoa tea" role="button">
+Cocoa Tea - Reggae Legends, Volume 3 (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
 Buju Banton - 'Til Shiloh (1995-07-18)
 </li>
+<li data-cover="https://img.discogs.com/vBDF6UkiJiuGqzzlpccbxD0mycA=/fit-in/380x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1216333-1229439676.jpeg.jpg" data-tags="dancehall" role="button">
+Beenie Man - Many Moods Of Moses (1997-12-08)
+</li>
+<li data-cover="https://img.discogs.com/KX0RIaP4X4gOpTHU6MCSKu4jnt0=/fit-in/360x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4744796-1374148225-8288.jpeg.jpg" data-tags="reggae, dancehall" role="button">
+Anthony B - Universal Struggle (1998-01-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/76bed86a-53bf-4a94-90c2-41d37b6259bf/13574394457-500.jpg" data-tags="electronic, dub" role="button">
 Asian Dub Foundation - Conscious Party (1998-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/70eabfa6-e06a-4dbb-8e51-c84fc6e77dae/15081827680-500.jpg" data-tags="electronic" role="button">
-Asian Dub Foundation - Rafi's Revenge (1998-05-08)
 </li>
 <li data-cover="https://img.discogs.com/Zls8L5Ty74vC6RVBUQ46KGQOJOo=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2468555-1549796576-3804.jpeg.jpg" data-tags="reggae, dancehall, ragga, mr vegas" role="button">
 Mr. Vegas - Heads High (1999)
@@ -105,8 +111,8 @@ Sizzla - Da Real Thing (2002-11-19)
 <li data-cover="http://coverartarchive.org/release/059043f9-eb06-4517-b9b5-9ee39733d30f/6514134037-500.jpg" data-tags="dancehall" role="button">
 Benjie - So Gesehen (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/1c51d061-6a91-438f-925d-35e499d23a49/17933370289-500.jpg" data-tags="electronic, dub" role="button">
-Asian Dub Foundation - Enemy Of The Enemy (2003-02-03)
+<li data-cover="https://img.discogs.com/GT1s4ON2jeD8sV3RT6RdQtxf__w=/fit-in/281x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2534311-1289237282.jpeg.jpg" data-tags="dub" role="button">
+The Bug - Pressure (2003-04-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Seeed - Music Monks (2003-05-12)
@@ -116,9 +122,6 @@ Dub Incorporation - Diversité (2003-09)
 </li>
 <li data-cover="https://img.discogs.com/Csrrc0Fz4RN4kFatZltzw7RDGlQ=/fit-in/489x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2094823-1268418652.jpeg.jpg" data-tags="reggae, ragga, dancehall, ragga-reggae, don m, extra butta, dark gable, harvey wallbanger, ice cream jones, new hefner" role="button">
 Sizzla - Rise To The Occasion (2003-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/6d501f52-bd01-491c-a700-3c5199c065b3/8033415236-500.jpg" data-tags="dancehall reggae, irie revoltes" role="button">
-Irie Révoltés - Les deux Côtés (2003-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/07567f97-a074-4a67-a1b3-ccacc861fdf5/5593702364-500.jpg" data-tags="ragga, dancehall" role="button">
 Elephant Man - Good 2 Go (2003-12-03)
@@ -141,6 +144,9 @@ Nina Sky - Nina Sky (2004-07-24)
 <li data-cover="http://coverartarchive.org/release/b2d92f8d-589a-47fb-94a3-dbb93cd36807/14053265245-500.jpg" data-tags="reggae" role="button">
 Gentleman - Confidence (2004-08-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b42d4e8-3e93-4dae-8107-c59faab6a64e/18971660137-500.jpg" data-tags="reggae, dancehall, marro, public music, knocklife 2011, knocklife ent, wata vybz radio" role="button">
+Vybz Kartel - More Up 2 Di Time (2004-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/17e57d61-a61d-428b-a272-7bf598011f3b/6514328140-500.jpg" data-tags="reggae" role="button">
 Culcha Candela - Union Verdadera (2004-09-20)
 </li>
@@ -150,14 +156,14 @@ Morodo - Cosas Que Contarte (2004-10-26)
 <li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
 Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
+<li data-cover="https://img.discogs.com/_DQwj-BIK9kP4pdZ-0Fd4LmTYX4=/fit-in/600x458/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1088676-1467852476-2469.jpeg.jpg" data-tags="reggae, dancehall, sean paul" role="button">
+Sean Paul - Ever Blazin' (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/3bcf505d-29bb-4ed1-b51b-f414d020f648/7101916606-500.jpg" data-tags="reggae, dancehall, 2000s, dobre na prezent" role="button">
 Natural Dread Killaz - Naturalnie (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/4373f989-150d-4716-a522-64e1362637c0/28829791838-500.jpg" data-tags="reggae, german" role="button">
 Culcha Candela - Next Generation (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/761a55cd-0505-4874-9fdc-bb711e8643c8/6755037078-500.jpg" data-tags="electronic, dub, drum and bass" role="button">
-Asian Dub Foundation - Tank (2005-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
@@ -188,9 +194,6 @@ Sean Paul - The Trinity (2005-09-26)
 </li>
 <li data-cover="https://img.discogs.com/GUq_JB_l0I6gNuYQSQcD1jqJhAU=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1910644-1502355394-1079.jpeg.jpg" data-tags="reggae, dancehall" role="button">
 Seeed - Next! (2005-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a6d6b9b-02f8-413c-a672-9bbe535b36d8/14936523706-500.jpg" data-tags="rnb, hip-hop" role="button">
-Mattafix - Signs of a Struggle (2005-10-30)
 </li>
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
@@ -302,9 +305,6 @@ Lil Jon - Crunk Rock (2010-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/88f15d74-44ab-43ce-bc03-e9cd94e8c483/5876432259-500.jpg" data-tags="reggae, roots, ragga, dancehall, polish" role="button">
 Vavamuffin - Mo' Better Rootz (2010-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/91679472-6f69-418a-9c8a-6b204da5cf0d/8034518853-500.jpg" data-tags="dancehall" role="button">
-Irie Révoltés - Mouvement Mondial (2010-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb9c39b1-bd29-4698-8451-6a25e6180f20/4689120286-500.jpg" data-tags="pop, alternative, deutsch, micha maat" role="button">
 Clueso - An und für sich (2011-03-25)

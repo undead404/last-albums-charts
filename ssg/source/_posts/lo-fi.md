@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T13:30:01.706Z
+date: 2021-04-10T18:01:06.895Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -7,11 +7,11 @@ title: "lo-fi: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">Beck - Mellow Gold (1994-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/8e1f5a9f-8819-4586-a973-3b32744b0b02/13876084446-500.jpg" data-tags="indie, lo-fi, folk" role="button">Grizzly Bear - Horn Of Plenty (2004-11-09)</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
-<li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">Wavves - King Of The Beach (2010-08-02)</li>
 <li data-cover="http://coverartarchive.org/release/73cc7a91-cdc7-40b9-89cd-7d4dd68121e9/15809269319-500.jpg" data-tags="lo-fi, indie, folk rock, psychedelic folk" role="button">Kurt Vile - Smoke Ring for My Halo (2011-03-07)</li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">Youth Lagoon - The Year of Hibernation (2011-09-26)</li>
+<li data-cover="http://coverartarchive.org/release/b62e3ec7-d6bb-43c6-8eb8-30d958d109d0/3846880817-500.jpg" data-tags="indie rock, indie, lo-fi, vinyl, matador records" role="button">Kurt Vile - Wakin On A Pretty Daze (2013-04-08)</li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">Cage the Elephant - Melophobia (2013-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">Mac DeMarco - Salad Days (2014-04-01)</li>
 </ol>
@@ -87,6 +87,9 @@ The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/d5f20f95-7347-4479-97e4-57046bc24d00/20385600250-500.jpg" data-tags="alternative, rock" role="button">
+John Frusciante - To Record Only Water For Ten Days (2001-02-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/0761fabf-f7b8-4539-839e-b359bdaca08b/21338439786-500.jpg" data-tags="indie, anti-folk" role="button">
 The Moldy Peaches - The Moldy Peaches (2001-05-07)
 </li>
@@ -114,8 +117,14 @@ Someone Still Loves You Boris Yeltsin - Broom (2005)
 <li data-cover="http://coverartarchive.org/release/ee0d7b21-1493-495b-a314-2146941281a3/11086158708-500.jpg" data-tags="singer-songwriter, acoustic, lo-fi, summer drive, boo ya" role="button">
 Paul Baribeau - Paul Baribeau (2005)
 </li>
+<li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
+The Raveonettes - Pretty in Black (2005-05-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/06c1defa-eb6b-48d0-8284-b2a891af46f6/21234669416-500.jpg" data-tags="lo-fi" role="button">
+Matt & Kim - Matt & Kim (2006-11-07)
 </li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
@@ -180,12 +189,6 @@ Sleigh Bells - Treats (2010-05-11)
 <li data-cover="http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg" data-tags="indie rock, surf rock" role="button">
 Beach Fossils - Beach Fossils (2010-05-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f6f8f87-8dd8-4483-acb3-bb4906494512/1500279325-500.jpg" data-tags="indie, lo-fi" role="button">
-Ariel Pink's Haunted Graffiti - Before Today (2010-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/89fc2d2a-0704-4ebc-ac20-f2c744d300e5/27251745828-500.jpg" data-tags="lo-fi" role="button">
-Perfume Genius - Learning (2010-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">
 Baths - Cerulean (2010-06-22)
 </li>
@@ -215,9 +218,6 @@ Dirty Beaches - Badlands (2011-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/42065b7e-fa17-4589-99f0-04d605adbdaa/14114675414-500.jpg" data-tags="lo-fi" role="button">
 Vivian Girls - Share the Joy (2011-04-12)
-</li>
-<li data-cover="https://img.discogs.com/wkNlk8DexL-Q6Ivt-vKCVwjdrHQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2871890-1304970303.jpeg.jpg" data-tags="experimental, freak folk, 4ad" role="button">
-tUnE-yArDs - w h o k i l l (2011-04-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 Cults - Cults (2011-05-30)

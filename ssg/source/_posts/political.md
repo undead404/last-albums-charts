@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:52:01.422Z
+date: 2021-04-10T18:45:01.841Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -26,9 +26,6 @@ Syl Johnson - Is It Because I'm Black (1970)
 </li>
 <li data-cover="https://img.discogs.com/MRNyTuTe3QnSeLoH9B0xvhSrdvA=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039243-1199208793.jpeg.jpg" data-tags="jazz, free jazz" role="button">
 Charlie Haden - Liberation Music Orchestra (1970)
-</li>
-<li data-cover="http://coverartarchive.org/release/85318fcd-39a9-4e75-b715-6f961a1a8dc6/13483928513-500.jpg" data-tags="spoken word, soul, poetry, political" role="button">
-Gil Scott-Heron - Small Talk at 125th and Lenox (1970)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Donny Hathaway - Everything Is Everything (1970-07-01)
@@ -69,17 +66,14 @@ Dead Kennedys - Frankenchrist (1985)
 <li data-cover="http://coverartarchive.org/release/d9f79335-c1b6-421c-8b17-0efdb3b506f3/3076648829-500.jpg" data-tags="pop rock" role="button">
 RPM - Revoluções Por Minuto (1985-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/758017e0-f7de-49da-aa31-cbc80ea2e0e0/3059717757-500.jpg" data-tags="80s" role="button">
-The Housemartins - London 0 Hull 4 (1986)
-</li>
-<li data-cover="https://img.discogs.com/suq3IxcjtFIdegVNCFooUaJu26w=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4597651-1369585841-4715.jpeg.jpg" data-tags="alt-country" role="button">
-Steve Earle - Guitar Town (1986-03-05)
-</li>
 <li data-cover="https://img.discogs.com/QGDbrdosJ2sOKperV9n9dACBFGo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694257-1360594916-8664.jpeg.jpg" data-tags="classic rock, piano" role="button">
 Bruce Hornsby & the Range - The Way It Is (1986-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bb3fc83-0a98-3cf4-aca9-a6ecd2db0b9b/12662027144-500.jpg" data-tags="industrial" role="button">
 Laibach - Opus Dei (1987-03-23)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="punk" role="button">
+Jello Biafra With D.O.A. - Last Scream of the Missing Neighbors (1989)
 </li>
 <li data-cover="https://img.discogs.com/lelw5ZSGU9qgyRBqLuxXC4Rv7zY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5203047-1387347510-4247.jpeg.jpg" data-tags="folk" role="button">
 Phil Ochs - There But For Fortune (1989)
@@ -168,6 +162,9 @@ Anti-Flag - Underground Network (2001-04-24)
 <li data-cover="http://coverartarchive.org/release/67520d07-4fd8-467e-bbf9-7cceeb1b1a4c/2261960374-500.jpg" data-tags="reggae, michael franti, michael franti radio" role="button">
 Michael Franti & Spearhead - Stay Human (2001-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/70125e94-7798-3392-b4b3-91444ee28f66/16217335540-500.jpg" data-tags="punk, punk rock" role="button">
+Good Riddance - Symptoms Of A Leveling Spirit (2001-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7d2b68f-d527-498a-94cf-8a2683439fc0/22404891783-500.jpg" data-tags="hip-hop, political, political rap" role="button">
 The Coup - Party Music (2001-11-06)
 </li>
@@ -191,6 +188,9 @@ NOFX - The War on Errorism (2003-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/205b7cb8-3494-4889-973f-02392d82568c/25780727475-500.jpg" data-tags="political" role="button">
 The Suicide Machines - A Match and Some Gasoline (2003-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/6a8dd677-dff5-4175-93a2-26cbfea8e647/3082007842-500.jpg" data-tags="hip hop" role="button">
+Immortal Technique - Revolutionary, Volume 2 (2003-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">
 Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)
@@ -219,14 +219,14 @@ Sage Francis - A Healthy Distrust (2005-02-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/de92f6d3-8d9a-3152-abdf-f6e723c3d1ac/16839853239-500.jpg" data-tags="hip-hop" role="button">
-DANGERDOOM - The Mouse and the Mask (2005-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/0de04796-e829-4e05-a09d-3ca62258ef61/6614281778-500.jpg" data-tags="alternative rock, political" role="button">
 Cire - Wholesale Buyout (2006)
 </li>
 <li data-cover="https://img.discogs.com/1wnCWz9j9-VEXqDU5fT2HLzB4TA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670151-1578905504-8499.jpeg.jpg" data-tags="polski hip hop" role="button">
 O.S.T.R. - 7 (2006-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/e69b2cbb-bf35-41d0-a6a6-8d2fedd9d778/5651213506-500.jpg" data-tags="hip-hop, hip hop" role="button">
+The Coup - Pick A Bigger Weapon (2006-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a373a0c-6529-4a1f-94f7-95bd49ee80e4/15045824943-500.jpg" data-tags="melodic hardcore" role="button">
 Ignite - Our Darkest Days (2006-05-15)
@@ -236,9 +236,6 @@ The Roots - Game Theory (2006-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/01d990ed-6bf1-4064-98a2-ef13f55aaf5d/1137214836-500.jpg" data-tags="industrial" role="button">
 Laibach - Volk (2006-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/d391aa9a-a06d-4061-8b85-bde5f16ca299/9478684377-500.jpg" data-tags="lumen, russian rock, punk, russian alternative" role="button">
-Lumen - Правда? (2007)
 </li>
 <li data-cover="https://img.discogs.com/doLKlttO3PEJUFGGXAnSFyns83g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3801172-1344956018-6557.jpeg.jpg" data-tags="folk, rock" role="button">
 The John Butler Trio - Grand National (2007-03-23)
@@ -299,6 +296,9 @@ The King Blues - Punk & Poetry (2011-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/177b0c1b-d125-4a17-bb60-fa55271c4c39/18238258976-500.jpg" data-tags="alternative, experimental, political, wisdom, attitude, ratm" role="button">
 The Nightwatchman - World Wide Rebel Songs (2011-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/f99488e3-ae5a-419d-aa66-c91de67c99a9/19900354655-500.jpg" data-tags="underground hip-hop, hip-hop, rap, hardcore hip-hop" role="button">
+Jedi Mind Tricks - Violence Begets Violence (2011-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/57449803-8d91-43dd-9534-a878b6b3ac79/1052742583-500.jpg" data-tags="hip-hop, rap, underground hip-hop, political, hardcore hip-hop" role="button">
 Immortal Technique - The Martyr (2011-10-27)

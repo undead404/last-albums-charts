@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T21:10:01.519Z
+date: 2021-04-10T18:18:01.560Z
 title: "blackened death metal: 100 albums you must listen to before you die"
 ---
 ![Behemoth - The Satanist (2014-02-03)](https://img.discogs.com/L7C8Au7KprpUbtomO_R_mL0mzhQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5509431-1411654006-9813.jpeg.jpg "Behemoth - The Satanist (2014-02-03)")
@@ -38,9 +38,6 @@ Naglfar - Vittra (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/f410685a-29d7-4873-a432-012520614158/19793601931-500.jpg" data-tags="black metal, death metal, blackened death metal" role="button">
 Belphegor - The Last Supper (1995-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/773b1e1e-3fe6-4e8f-a5e4-117d45dd2d06/27358258265-500.jpg" data-tags="detroit" role="button">
-Insane Clown Posse - Riddle Box (1995-10-10)
 </li>
 <li data-cover="https://img.discogs.com/lXKV6dmPo4xHpvBXnr3VAyegAwU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-799281-1159978729.jpeg.jpg" data-tags="black metal, melodic black metal" role="button">
 Dissection - Storm of the Light's Bane (1995-11-17)
@@ -288,6 +285,9 @@ Naglfar - Téras (2012-03-23)
 <li data-cover="https://img.discogs.com/EKVJ5Wlp3bN69o-BLUCQVoiWxxk=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3573433-1335807834.jpeg.jpg" data-tags="death metal, russian death metal, russian black metal, blackened death metal" role="button">
 Pseudogod - Deathwomb Catechesis (2012-04-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/de61d838-256e-4002-9daf-05252458a319/2311435310-500.jpg" data-tags="black metal, grindcore" role="button">
+Anaal Nathrakh - Vanitas (2012-10-15)
+</li>
 <li data-cover="https://img.discogs.com/K9tVnY6z0QLkPc4Ppp7dCT3kjjI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4586812-1595049604-4969.jpeg.jpg" data-tags="black metal, death metal, blackened death metal" role="button">
 Bölzer - Aura (2013-05-13)
 </li>
@@ -296,9 +296,6 @@ Children of Bodom - Halo of Blood (2013-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3093dc7c-ca5c-4d7a-92ea-ea376522519b/4490175495-500.jpg" data-tags="progressive death metal" role="button">
 Extol - Extol (2013-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/8f76d360-f38e-48ef-9769-f5ff0c8e7cc7/15355438210-500.jpg" data-tags="metalcore, grindcore, hardcore, crust" role="button">
-All Pigs Must Die - Nothing Violates This Nature (2013-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/529a12ef-b4f1-4074-9a2c-fe36ef7a256a/13818478790-500.jpg" data-tags="death metal, blackened death metal" role="button">
 Grave Miasma - Odori Sepulcrorum (2013-09-13)
@@ -317,6 +314,9 @@ Shylmagoghnar - Emergence (2014-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/c16e910c-7cc7-49e7-942d-f4409381ddf8/8308362254-500.jpg" data-tags="death metal" role="button">
 Teitanblood - Death (2014-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/7be2c53d-8871-4360-98c5-8b93b523cec7/9288630578-500.jpg" data-tags="death metal" role="button">
+Goatwhore - Constricting Rage of the Merciless (2014-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1fad667-9898-4f94-8325-21b26a44c97b/8006987565-500.jpg" data-tags="death metal" role="button">
 Belphegor - Conjuring The Dead (2014-08-06)

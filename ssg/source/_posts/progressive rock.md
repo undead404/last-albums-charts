@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:32:01.441Z
+date: 2021-04-10T18:34:01.484Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -32,6 +32,9 @@ King Crimson - In the Court of the Crimson King (1969-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock" role="button">
 Frank Zappa - Hot Rats (1969-10-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/53e9678a-90dd-3c32-8d28-1584b612f95f/9839280602-500.jpg" data-tags="psychedelic rock, progressive rock" role="button">
+Pink Floyd - Ummagumma (1969-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/99bb4f7c-753f-34bf-bf10-71ce81a7db3e/14225359048-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Atom Heart Mother (1970-10-10)
@@ -140,12 +143,6 @@ Yes - 90125 (1983-11-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Kansas - The Best of Kansas (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/4bc83ff3-ac0e-4fa5-8dfc-a5aa1bf57afd/15367001320-500.jpg" data-tags="progressive rock, 80s" role="button">
-Peter Gabriel - So (1986-05-19)
-</li>
-<li data-cover="https://img.discogs.com/HGYLDWqbgPG7fiF32W-YCuPD20E=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7062864-1432835919-4197.jpeg.jpg" data-tags="progressive rock, 80s" role="button">
-Genesis - Invisible Touch (1986-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/71598c54-c968-4d00-8ca2-d03d99c97004/9840887264-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - A Momentary Lapse of Reason (1987-09-07)
@@ -266,6 +263,9 @@ Muse - Black Holes and Revelations (2006-06-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - Amputechture (2006-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/3412f681-acd0-414f-8435-45a995deb318/2331822335-500.jpg" data-tags="progressive rock" role="button">
+Blackfield - Blackfield II (2007-02-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Porcupine Tree - Fear of a Blank Planet (2007-04-13)

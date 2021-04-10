@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:54:01.495Z
+date: 2021-04-10T18:37:08.017Z
 title: "female fronted metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -39,6 +39,9 @@ Lacuna Coil - In a Reverie (1999-02-16)
 <li data-cover="http://coverartarchive.org/release/31566067-8cb5-46ca-9635-d9a623a84676/4343012782-500.jpg" data-tags="evanescence" role="button">
 Evanescence - Sound Asleep EP (1999-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/1ce97749-e22c-4b08-a1ba-148008ac462e/13960344192-500.jpg" data-tags="industrial" role="button">
+Genitorturers - Machine Love (2000-01-25)
+</li>
 <li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Wishmaster (2000-05-02)
 </li>
@@ -68,6 +71,9 @@ Otep - Sevas Tra (2002-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Century Child (2002-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/e80c5fef-6cd7-419b-9c2e-12c121400b89/25277398803-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
+Nightwish - Bless the Child (2002-07-22)
 </li>
 <li data-cover="https://img.discogs.com/K3e0vs6Yxmp53Msysc0ehOA-prM=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9261793-1492590501-8083.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Comalies (2002-09-18)
@@ -189,6 +195,9 @@ Evanescence - The Open Door (2006-09-25)
 <li data-cover="https://img.discogs.com/6IJCIbVg6gJoN72EpmMXDZGLmOM=/fit-in/301x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1068354-1193137044.jpeg.jpg" data-tags="gothic metal" role="button">
 Elis - Griefshire (2006-11-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/a1e6efe8-44f8-4b5b-afb1-b0ba6853d34b/2516064848-500.jpg" data-tags="female fronted metal, symphonic metal" role="button">
+Legenda Aurea - Sedna (2007)
+</li>
 <li data-cover="http://coverartarchive.org/release/1e43d643-3473-4c92-b78c-1828c0ea829c/7422598004-500.jpg" data-tags="female fronted metal, metal" role="button">
 Eths - Teratologie (2007)
 </li>
@@ -198,9 +207,6 @@ Krypteria - Bloodangel's Cry (2007-01-19)
 <li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Illumination (2007-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/a7b98a10-34b3-46c9-b596-5c1293befc91/1069103090-500.jpg" data-tags="gothic metal" role="button">
-Sirenia - Nine Destinies And A Downfall (2007-02-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Heart of Everything (2007-03-09)
 </li>
@@ -209,6 +215,9 @@ After Forever - After Forever (2007-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/521ec9fe-01ec-4324-bbc4-08ffd7926741/8609207436-500.jpg" data-tags="symphonic metal" role="button">
 Visions of Atlantis - Trinity (2007-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d640072-3f0e-4c85-9f0e-86ee99d52e9e/8196424473-500.jpg" data-tags="metalcore, melodic death metal" role="button">
+The Agonist - Once Only Imagined (2007-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d9bf8c-1263-3826-999f-3793d6414234/4371819886-500.jpg" data-tags="symphonic metal" role="button">
 Epica - The Divine Conspiracy (2007-09-07)
@@ -243,9 +252,6 @@ Steel Panther - Feel the Steel (2009-06-08)
 <li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
 Breathe Carolina - Hello Fascination (2009-08-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/888e2e75-e1e8-4721-baaa-b92c7c86ea63/1048225534-500.jpg" data-tags="symphonic metal, gothic metal" role="button">
-Leaves' Eyes - Njord (2009-08-26)
-</li>
 <li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
 Blakroc - Blakroc (2009-09-09)
 </li>
@@ -255,11 +261,11 @@ Within Temptation - An Acoustic Night at the Theatre (2009-10-30)
 <li data-cover="http://coverartarchive.org/release/ab1a46d9-45a9-4cb2-8ae2-e0eff63d9042/1236764317-500.jpg" data-tags="alternative rock" role="button">
 Flyleaf - Memento Mori (2009-11-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
+Hollywood Undead - Desperate Measures (2009-11-10)
+</li>
 <li data-cover="https://img.discogs.com/Khs85KbzsMJX6xVD34WXOsluHw4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2858942-1304314297.jpeg.jpg" data-tags="female fronted metal, gothic symphonic metal, elis" role="button">
 Elis - Catharsis (2009-11-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/df822457-1a3f-4806-86fe-143d3ce09f65/7983414746-500.jpg" data-tags="post-black metal, female fronted metal, hair metal, skinhead, reggaeton, female vocalist, queercore, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, crunkcore, brutal deathcore, national socialist black metal, fashioncore, antifa, moshcore, music to suck cock to, homoerotic, music to have anal sex to, crimes against humanity" role="button">
-Deafheaven - Demo (2010-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5/8675348488-500.jpg" data-tags="post-hardcore" role="button">
 Black Veil Brides - We Stitch These Wounds (2010-07-20)
@@ -272,9 +278,6 @@ Ghost - Opus Eponymous (2010-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa2c2a08-5f73-4ace-86e2-2f6d74b42914/2094872063-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Unforgiving (2011-03-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
-Deafheaven - Roads to Judah (2011-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)
@@ -290,9 +293,6 @@ Lacuna Coil - Dark Adrenaline (2012-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/47db0ca6-078c-4b2c-84e3-462141d540cf/1095434037-500.jpg" data-tags="female fronted metal, hip-hop, hair metal, skinhead, reggaeton, female vocalist, queercore, gold, rac, goregrind, homocore, deathcore, brutal death metal, nsbm, deathgrind, hatecore, crunkcore, brutal deathcore, nazi, crimes against humanity, national socialist black metal, fashioncore, antifa, moshcore, blackcore, nigga, music to suck cock to, homoerotic, music to have anal sex to, asap rocky,  a$ap rocky" role="button">
 A$AP Rocky - Goldie (2012-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
-In This Moment - Blood (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/39dcebcd-425c-4fa5-b6c9-32d14f896230/3036084307-500.jpg" data-tags="hard rock, glam metal" role="button">
 Black Veil Brides - Wretched And Divine: The Story Of The Wild Ones (2013-01-08)

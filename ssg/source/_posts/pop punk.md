@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T17:06:01.412Z
+date: 2021-04-10T18:41:01.468Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -45,14 +45,14 @@ Green Day - Warning (2000-03-21)
 <li data-cover="http://coverartarchive.org/release/5bbf8886-9d39-44b7-b6ed-c7ad6180fca3/15993145575-500.jpg" data-tags="pop punk" role="button">
 Good Charlotte - Good Charlotte (2000-04-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/20d8fdf6-d08c-4384-8204-abdb87408aec/10858824360-500.jpg" data-tags="pop punk" role="button">
-Bowling for Soup - Drunk Enough to Dance (2000-08-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d1dc23ce-a039-3667-b7e0-e151ce560ba1/17499691187-500.jpg" data-tags="pop punk" role="button">
 Sugarcult - Start Static (2001-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)
+</li>
+<li data-cover="https://img.discogs.com/D4TQiVXih8lUXHMWLda880kUDLA=/fit-in/486x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2558652-1370617869-6756.jpeg.jpg" data-tags="emo" role="button">
+Saves the Day - Stay What You Are (2001-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
@@ -111,9 +111,6 @@ Good Charlotte - The Chronicles of Life and Death (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
 Simple Plan - Still Not Getting Any (2004-10-26)
 </li>
-<li data-cover="https://img.discogs.com/iJskKmwAOtSy8DqLjYHV9iZZqL8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104965-1264272700.jpeg.jpg" data-tags="christian rock, christian, pop punk, rock" role="button">
-Relient K - Mmhmm (2004-11-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
@@ -171,9 +168,6 @@ Boys Like Girls - Boys Like Girls (2006-08-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
 Sugarcult - Lights Out (2006-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/e14d082d-64ee-4d42-9f1e-8b1d7423ed08/15998776082-500.jpg" data-tags="indie, rock, pop punk, emo" role="button">
-Plain White T's - Every Second Counts (2006-09-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)
 </li>
@@ -218,6 +212,9 @@ Four Year Strong - Rise or Die Trying (2007-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/060e7fec-7984-313d-a76d-493354106e7d/14523195786-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - Underclass Hero (2007-07-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">
+The Starting Line - Direction (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b97c7de1-616c-40bf-a8d7-9ceb84ab8552/7273638872-500.jpg" data-tags="pop punk" role="button">
 All Time Low - So Wrong, It's Right (2007-09-25)
@@ -270,9 +267,6 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/b75c655a-bd01-4251-bf9a-4acb34cfa627/9297332199-500.jpg" data-tags="pop rock, pop punk, love drunk" role="button">
-Boys Like Girls - Love Drunk (2009-09-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/66c0a206-d1b8-4abc-a630-74ddece2a30a/10668376845-500.jpg" data-tags="rock, pop punk" role="button">
 Paramore - Brand New Eyes (2009-09-25)
 </li>
@@ -303,6 +297,9 @@ All Time Low - Dirty Work (2011-06-06)
 <li data-cover="http://coverartarchive.org/release/c94d4857-b601-49e0-b579-86708030164e/5092099705-500.jpg" data-tags="pop punk, rock" role="button">
 Simple Plan - Get Your Heart On! (2011-06-14)
 </li>
+<li data-cover="https://img.discogs.com/6oQZJ5i4AkkH4mrUqTmXARCI4dc=/fit-in/600x629/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5477494-1433092206-4542.jpeg.jpg" data-tags="pop punk" role="button">
+New Found Glory - Radiosurgery (2011-08-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c2b6d42-0f71-4345-9b81-ec63ba95bffd/15128577308-500.jpg" data-tags="alternative rock, pop punk" role="button">
 You Me at Six - Sinners Never Sleep (2011-09-30)
 </li>
@@ -317,6 +314,9 @@ A Day to Remember - Common Courtesy (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/89c35108-4695-4b3f-b1e9-ce2a1d38bcfc/11327787575-500.jpg" data-tags="emo, pop punk" role="button">
 The Hotelier - Home, Like Noplace Is There (2014-02-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/bbe50630-ccc2-49fb-9b27-4acc46486e29/7688648143-500.jpg" data-tags="pop rock" role="button">
+5 Seconds of Summer - 5 Seconds of Summer (2014-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0ea48e1-5b5f-4b7b-8e3e-c6d7fb2abe43/9140712849-500.jpg" data-tags="pop, pop punk" role="button">
 Charli XCX - Sucker (2014-12-15)

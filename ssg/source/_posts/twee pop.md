@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:13:01.420Z
+date: 2021-04-10T18:39:07.240Z
 title: "twee pop: 100 albums you must listen to before you die"
 ---
 ![Death Cab for Cutie - Transatlanticism (2003-09-01)](https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg "Death Cab for Cutie - Transatlanticism (2003-09-01)")
@@ -24,26 +24,17 @@ _________________
 <li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
 The Raincoats - The Raincoats (1979)
 </li>
-<li data-cover="http://coverartarchive.org/release/4f551ee0-80a8-4e4f-892c-ce07d8a06c4b/22193058372-500.jpg" data-tags="new wave" role="button">
-Strawberry Switchblade - Strawberry Switchblade (1985)
-</li>
-<li data-cover="https://img.discogs.com/M14zaSV_UE40F9gxTVd7ePqjFNk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1569357-1398800913-1956.jpeg.jpg" data-tags="indie, 80s, british, indie pop, twee pop, c86, 2007summer, steveadams fm, steveadamsfm" role="button">
-Shop Assistants - Will Anything Happen (1986)
-</li>
 <li data-cover="https://img.discogs.com/dUxTPDSzYUNkgEeMx45zQU0LVqQ=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1217551-1318814588.jpeg.jpg" data-tags="indie, 80s" role="button">
 The Pastels - Up for a Bit With the Pastels (1987)
 </li>
-<li data-cover="http://coverartarchive.org/release/4769273c-e268-440f-bb39-62c68ed70b3a/14785304764-500.jpg" data-tags="jangle pop, 80s" role="button">
-Primal Scream - Sonic Flower Groove (1987-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/e32093da-31ec-4da0-b847-fdd555608339/14961466129-500.jpg" data-tags="indie pop, twee pop, fuzzy guitar goodness, fun to skateboard to, she sings so sweetly, year of 1988, british 1980s, tugs at me heart strings" role="button">
-The Darling Buds - Pop Said... (1988)
-</li>
-<li data-cover="https://img.discogs.com/_cbVxOvvbFZXtL4SWxto7HIJYHU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489501-1602701907-6775.jpeg.jpg" data-tags="slowcore, shoegaze" role="button">
-Galaxie 500 - Today (1988-10)
+<li data-cover="http://coverartarchive.org/release/dbb473f3-a48d-4147-9c15-4899ebded673/27139455357-500.jpg" data-tags="indie pop" role="button">
+My Bloody Valentine - Ecstasy (1987-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a6e1688-0e66-46d9-97c7-b7bcfd1702ee/24594615850-500.jpg" data-tags="indie, 80s" role="button">
 The Pastels - Sittin' Pretty (1989)
+</li>
+<li data-cover="http://coverartarchive.org/release/4b4f860f-0dce-4e61-a329-95dcf33ada36/5378932057-500.jpg" data-tags="shoegaze" role="button">
+My Bloody Valentine - Ecstasy and Wine (1989-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd4b1f7a-b2ad-4a5d-ace1-fd0ccfdd731e/8966166578-500.jpg" data-tags="indie pop, twee pop" role="button">
 The Field Mice - Snowball (1989-09)
@@ -56,6 +47,9 @@ Beat Happening - Dreamy (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/18f71bd3-f4b9-4197-aa11-be5bc72626f9/28266226984-500.jpg" data-tags="twee, twee pop, sarah records" role="button">
 Heavenly - Heavenly Vs. Satan (1991-01-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/6fb81e4a-f2fe-4e3f-adba-db24043c7406/27827460424-500.jpg" data-tags="sarah records" role="button">
+The Field Mice - For Keeps (1991-10)
 </li>
 <li data-cover="https://img.discogs.com/7smky_hLkoKfEmE5LttCmD9aUuU=/fit-in/588x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1440143-1366184022-7897.jpeg.jpg" data-tags="90s, indie, indie rock" role="button">
 The Magnetic Fields - The Wayward Bus / Distant Plastic Trees (1992)
@@ -78,14 +72,26 @@ Velocity Girl - Copacetic (1993)
 <li data-cover="http://coverartarchive.org/release/12bc4e56-2c0e-4bc4-81b4-ca2526b3ffd1/25345139916-500.jpg" data-tags="indie pop, twee" role="button">
 Tiger Trap - Tiger Trap (1993)
 </li>
+<li data-cover="https://img.discogs.com/zO2bU5dKt1CASfyXOhFQumNplNw=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1216633-1332681920.jpeg.jpg" data-tags="indie pop, twee, twee pop, happy, indiepop, jangle pop, 90s, noise pop, punk rock, pop punk, lo fi, shambolic, fuzz pop, food and drink, hotel indie pop" role="button">
+Strawberry Story - Clamming for It (1993-05-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/32799edf-51cd-40a9-abc3-cd2538d9c13a/25362650897-500.jpg" data-tags="twee pop, yes yes yes" role="button">
 Heavenly - Atta Girl (1993-08)
+</li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, pop, alternative, indie pop, twee pop, australian, 90s, anti-folk" role="button">
+The Lucksmiths - First Tape (1993-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a61d8ff-b26c-39e9-a173-34fd885fd7b4/6866747811-500.jpg" data-tags="pop, rock, alternative, 90s" role="button">
 The Cardigans - Emmerdale (1994-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/59955e78-0574-3415-8d23-c746a3503cd8/23760080924-500.jpg" data-tags="rock, 90s" role="button">
 Primal Scream - Give Out But Don't Give Up (1994-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/51e47059-825e-4ac5-a92c-98fe0dff7e85/28265941969-500.jpg" data-tags="indie" role="button">
+Heavenly - The Decline and Fall of Heavenly (1994-09-21)
+</li>
+<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="indie, pop, alternative, indie pop, twee pop, australian, 90s, anti-folk" role="button">
+The Lucksmiths - The Green Bicycle Case (1995)
 </li>
 <li data-cover="https://img.discogs.com/3Ip2WpTvqgKioWh8kLgmTkD-11w=/fit-in/380x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202129-1358508446-4720.jpeg.jpg" data-tags="pop" role="button">
 The Cardigans - Life (1995-03-01)
@@ -123,8 +129,14 @@ of Montreal - Cherry Peel (1997-08-19)
 <li data-cover="http://coverartarchive.org/release/d7aa0ff2-2982-40c2-be5e-bad96d44e5ef/2979737761-500.jpg" data-tags="indie, indie pop, pop, alternative, lo-fi" role="button">
 The Apples in Stereo - Tone Soul Evolution (1997-09-30)
 </li>
+<li data-cover="https://img.discogs.com/IB1sksqCOwptOohh-XKu5K5FpLE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4596398-1369487409-4142.jpeg.jpg" data-tags="indie, 90s" role="button">
+The Pastels - Illumination (1997-12-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/d53bb652-f400-3d52-ac42-f3e7545e2e17/5695523802-500.jpg" data-tags="electronica, twee, 90s" role="button">
 The Pastels - Illuminati (1998)
+</li>
+<li data-cover="https://img.discogs.com/fK0u99-kwPML4qw_UcawHLnISfM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-553727-1145370579.jpeg.jpg" data-tags="indie pop, twee pop, shoegaze, dream pop, slowcore" role="button">
+Trembling Blue Stars - Lips That Taste of Tears (1998-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1033ec8d-6c04-4c15-8ae3-8d4743b444e7/5270777621-500.jpg" data-tags="twee pop" role="button">
 The Field Mice - Where'd You Learn to Kiss That Way? (1998-10)
@@ -147,20 +159,11 @@ The Aislers Set - The Last Match (2000-05)
 <li data-cover="http://coverartarchive.org/release/abe65ad5-978c-42e5-9645-bcb79edf706b/26982667115-500.jpg" data-tags="folk, indie pop, twee pop, pretty, sigh and swoon in equal measure, sweet and sad, sounds like sun, our trips to the coast, like a lilac" role="button">
 The Softies - Holiday in Rhode Island (2000-09-12)
 </li>
-<li data-cover="https://img.discogs.com/iHqPds0uJ0E3Fu0x1Aa1ZHKQ7B4=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-390698-1290899693.jpeg.jpg" data-tags="folk" role="button">
-The Gentle Waves - Swansong for You (2000-11-06)
-</li>
 <li data-cover="https://img.discogs.com/Ms3-U8XPPusLYlQypc7HtmjToRI=/fit-in/453x454/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522439-1225848782.jpeg.jpg" data-tags="indie" role="button">
 The Lucksmiths - Why that doesn't surprise me (2001-02-27)
 </li>
 <li data-cover="https://img.discogs.com/waW8T2jsCoViVLbRXfoS6qFQQnw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1351645-1543660417-5834.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - Biggest Bluest Hi-Fi (2001-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0b031f12-b7c1-4eb1-9fdc-1ce747d3f044/4710627776-500.jpg" data-tags="indie, twee pop, summer" role="button">
-All Girl Summer Fun Band - All Girl Summer Fun Band (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc4b93c8-8e5f-46b1-bcf5-620553d492f2/24509084697-500.jpg" data-tags="indie, swedish" role="button">
-Acid House Kings - Mondays are like Tuesdays and Tuesdays are like Wednesdays (2002)
 </li>
 <li data-cover="https://img.discogs.com/xpph-lpkqQD8E_DQ1M2Q-zVLisk=/fit-in/200x177/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719090-1151505649.jpeg.jpg" data-tags="indie" role="button">
 The Lucksmiths - Where Were We? (2002-03)
@@ -171,14 +174,14 @@ Belle and Sebastian - Storytelling (2002-06-03)
 <li data-cover="http://coverartarchive.org/release/d31cb0bc-b8fe-408a-a6c3-957167561ab8/11156968143-500.jpg" data-tags="indie, indie pop, twee pop, american, 00s, albuns completos ou quase completos" role="button">
 Aberdeen - Homesick and Happy to Be Here (2002-06-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/f9b38af2-5a3c-48d4-bd94-67f5826d4721/20427682397-500.jpg" data-tags="indie pop, spiked-candy radio" role="button">
-The Brunettes - Holding Hands, Feeding Ducks (2002-10-01)
-</li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="indie pop" role="button">
 The Lucksmiths - Naturaliste (2003-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/567f7f47-9662-4b50-9805-2f88fb72e6e1/4710635227-500.jpg" data-tags="indie" role="button">
 All Girl Summer Fun Band - 2 (2003-04-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/c279ce4e-ea12-461a-ab70-54c50a3613a3/24982814416-500.jpg" data-tags="indie" role="button">
+Dressy Bessy - Dressy Bessy (2003-08-26)
 </li>
 <li data-cover="https://img.discogs.com/HHLuK6EGaphF-vdfztO3Gjs13Kw=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10585623-1500405654-4307.jpeg.jpg" data-tags="indie, indie rock, indie pop" role="button">
 Death Cab for Cutie - Transatlanticism (2003-09-01)
@@ -186,23 +189,14 @@ Death Cab for Cutie - Transatlanticism (2003-09-01)
 <li data-cover="http://coverartarchive.org/release/132e4ef7-8abb-4e41-8019-6d9057f0a440/7941565478-500.jpg" data-tags="indie pop" role="button">
 Camera Obscura - Underachievers Please Try Harder (2003-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/fa4b9861-5261-4317-94db-472f79c0fd32/10046479235-500.jpg" data-tags="alternative" role="button">
-Isobel Campbell - Amorino (2003-10-07)
-</li>
 <li data-cover="https://img.discogs.com/u05WETFT6PiMimULcMOuOjDnj28=/fit-in/400x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4854256-1377551950-6945.jpeg.jpg" data-tags="indie pop, twee pop, mellow, hk, neko-girl" role="button">
 The Marshmallow Kisses - I Wonder Why My Favorite Boy Leaves Me an EP (2004-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/256bbffa-7d0a-3665-8e5d-3eebc20568c4/5165604938-500.jpg" data-tags="00s, indie" role="button">
-The Magnetic Fields - i (2004-05-03)
 </li>
 <li data-cover="https://img.discogs.com/fhyTCCIxGejm2HV_oINkP0Huzuc=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-617894-1145368133.jpeg.jpg" data-tags="ambient, indie pop, twee pop, electro indie, shelflife records, songs about you, hotel indie pop, essential 00s" role="button">
 Language of Flowers - Songs About You (2004-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/facf2da1-5903-45dc-a7aa-3346862f2baa/24822516318-500.jpg" data-tags="pop, alternative rock, indie pop, indie rock, noise rock, twee pop, lo-fi, noise pop, dream pop, lovely, neo-psychedelia, pop/rock, k-indie, indieful rok" role="button">
 Nell - Walk Through Me (2004-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/a061a57a-9057-48cb-a24d-e32ba1ef680f/1503563272-500.jpg" data-tags="indie, swedish" role="button">
-Acid House Kings - Sing Along With Acid House Kings (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bd752d0-2b57-3395-8164-b75abc8e2e42/12608703957-500.jpg" data-tags="indie" role="button">
 The Boy Least Likely To - The Best Party Ever (2005-02-14)
@@ -243,8 +237,14 @@ Math and Physics Club - Math and Physics Club (2006-10-17)
 <li data-cover="http://coverartarchive.org/release/3ff882b1-c3a3-4be5-a14d-e7c24b05f4a4/10046590463-500.jpg" data-tags="pop, singer-songwriter, 00s" role="button">
 Isobel Campbell - Milkwhite Sheets (2006-10-23)
 </li>
+<li data-cover="https://img.discogs.com/hUrfv9ARaSyG0PvqxuUlRf1yygQ=/fit-in/400x358/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2335904-1277815970.jpeg.jpg" data-tags="indie pop, twee, twee pop, happy, jangle pop, twee as fuck, jangle, jangly, 5432fun, matinee recordings" role="button">
+The Electric Pop Group - The Electric Pop Group (2006-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/f071d7d8-df2f-491f-837a-de1ce61dc62a/17819059026-500.jpg" data-tags="indie, shoegaze, dream pop" role="button">
 Moscow Olympics - Cut The World (2007)
+</li>
+<li data-cover="https://img.discogs.com/glZ-zK6CK5YXwhlUpqCS2D_lhus=/fit-in/284x284/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-954644-1176994108.jpeg.jpg" data-tags="alternative, indie pop, female vocalists, twee pop, cute girl rock" role="button">
+Dragonette - I Get Around (2007)
 </li>
 <li data-cover="http://coverartarchive.org/release/303c1c04-b8e6-46fd-a5d2-ded0cbbb3cfd/16467301085-500.jpg" data-tags="indie pop, twee, twee pop, happy, jangle pop, twee as fuck, jangle, jangly, 5432fun, cloudberry records, fast and fun" role="button">
 The Pains of Being Pure at Heart - This Love Is Fucking Right! (2007)
@@ -254,6 +254,9 @@ My Little Airport - Zoo Is Sad, People Are Cruel (2007)
 </li>
 <li data-cover="https://img.discogs.com/bQIY2eePQiItqz4LYfrXG8ojdDY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3515852-1333537848.jpeg.jpg" data-tags="indie pop, twee pop" role="button">
 Annemarie - ABC On Tv (2007-02-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1472875-f39b-4849-963f-952fe96803da/25949141275-500.jpg" data-tags="twee" role="button">
+A Smile and a Ribbon - The Boy I Wish I Never Met (2007-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bae6b93-7d34-4abe-984f-61487858e8fa/4890223091-500.jpg" data-tags="indie pop, indie" role="button">
 Jens Lekman - Night Falls Over Kortedala (2007-09-05)
@@ -299,9 +302,6 @@ No Joy - Ghost Blonde (2010-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d29c2481-a2bb-4c85-883f-85fb54659ba3/10425432633-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Pains of Being Pure at Heart - Belong (2011-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e9a8dbf-56e9-4ccc-921c-0c0795c3960d/8558040928-500.jpg" data-tags="indie, female vocalists" role="button">
-Boy - Mutual Friends (2011-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6de48734-e3b2-451f-8be1-2f65616b1e37/946776332-500.jpg" data-tags="indie, indie rock, lo-fi" role="button">
 Best Coast - The Only Place (2012-03-26)

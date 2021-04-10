@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T15:35:01.412Z
+date: 2021-04-10T18:22:01.635Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -180,9 +180,6 @@ Tinchy Stryder - Catch 22 (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/def5f74d-28fd-46e1-9d65-fc0435bea20a/2863227549-500.jpg" data-tags="dance, house, electronic" role="button">
 David Guetta - One Love (2009-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/3dd8f19b-c870-4373-95b2-14117b09358a/12942567005-500.jpg" data-tags="dance" role="button">
-David Guetta - One More Love (2009-08-21)
-</li>
 <li data-cover="https://img.discogs.com/jBj3QGbg5SrmsfLqQXY7UXYsTKo=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2593294-1292173552.jpeg.jpg" data-tags="electronic, house, electro, dance" role="button">
 The Bloody Beetroots - Romborama (2009-08-21)
 </li>
@@ -251,6 +248,9 @@ Porter Robinson - Spitfire (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/9de8983a-ed9d-4867-b008-55cc99937803/3459340597-500.jpg" data-tags="house, electro house" role="button">
 Wolfgang Gartner - Weekend In America (2011-09-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/569bf5b1-038c-4aca-82a0-7ec31adc5358/5589466929-500.jpg" data-tags="house, chill out" role="button">
+Kaskade - Fire & Ice (2011-10-25)
 </li>
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)

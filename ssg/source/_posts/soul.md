@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T16:57:01.422Z
+date: 2021-04-10T18:31:06.937Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -159,6 +159,9 @@ Amos Lee - Amos Lee (2005-01-01)
 <li data-cover="http://coverartarchive.org/release/d601fa18-a4a1-4874-9f47-72f1f1191b8c/8733516237-500.jpg" data-tags="soul" role="button">
 Mario - Let me love you (2005-03-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c0fdc8c-8913-464b-b5fc-90a151b7553c/1363185432-500.jpg" data-tags="robin thicke, rnb, soul" role="button">
+Robin Thicke - The Evolution of Robin Thicke (2006-02-14)
+</li>
 <li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
 Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
@@ -182,9 +185,6 @@ Alicia Keys - As I Am (2007-11-09)
 </li>
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
-</li>
-<li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
-The Asteroids Galaxy Tour - Fruit (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/de460668-d617-45ac-b4bd-7e5bc1d2c4b0/9252634597-500.jpg" data-tags="soul" role="button">
 Stevie Wonder - The Definitive Collection (2008)
@@ -239,9 +239,6 @@ Jessie J - Who You Are (2011-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f3cddae-9f6f-4b46-b0cf-5686c90f84ca/2097171191-500.jpg" data-tags="soul" role="button">
 Selah Sue - Selah Sue (2011-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg" data-tags="electronic, indie rock, electronic rock" role="button">
-Awolnation - Megalithic Symphony (2011-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
@@ -302,6 +299,9 @@ Ariana Grande - Yours Truly (2013-08-30)
 </li>
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/9156e65e-fbef-4b62-8267-c1e1a463eb44/11201436281-500.jpg" data-tags="soul" role="button">
+Aloe Blacc - Lift Your Spirit (2013-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b825c5c2-ebe3-4c84-91f8-c27e75dbc684/19238888629-500.jpg" data-tags="rnb, soul, 2010s" role="button">
 Blood Orange - Cupid Deluxe (2013-11-18)
