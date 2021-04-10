@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:26:01.423Z
+date: 2021-04-10T05:30:01.452Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Of Monsters and Men - My Head Is an Animal (2011-09-20)](https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg "Of Monsters and Men - My Head Is an Animal (2011-09-20)")
@@ -249,6 +249,9 @@ The Lumineers - The Lumineers (2012-04-03)
 <li data-cover="http://coverartarchive.org/release/6454242a-1fc9-49b9-8e97-fa03d7050bdc/1066733067-500.jpg" data-tags="indie, folk, indie folk, 10s, to check" role="button">
 Edward Sharpe & The Magnetic Zeros - Here (2012-05-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/cf928700-a3ca-463e-947c-e7e731bdaac4/4754067713-500.jpg" data-tags="folk" role="button">
+Angel Olsen - Half Way Home (2012-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg" data-tags="folk, indie, british" role="button">
 Mumford & Sons - Babel (2012-09-13)
 </li>
@@ -257,9 +260,6 @@ Grizzly Bear - Shields (2012-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cb19f06-ce08-44d2-9b07-ffef4ac20216/10096389953-500.jpg" data-tags="folk, indie folk" role="button">
 Lucy Rose - Like I Used To (2012-09-24)
-</li>
-<li data-cover="https://img.discogs.com/1Bb5QXZ49on5pXZN4tpcsfdEA60=/fit-in/599x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4219121-1358872416-7493.jpeg.jpg" data-tags="indie folk, ato records, v2 records, my gang 13" role="button">
-Jim James - Regions of Light and Sound of God (2013-02-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/13995b09-6a31-44d6-9185-3f41a70273d3/3678416346-500.jpg" data-tags="americana, indie folk" role="button">
 Phosphorescent - Muchacho (2013-03-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:47:01.412Z
+date: 2021-04-10T05:17:01.428Z
 title: "neo-soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -36,6 +36,9 @@ Erykah Badu - Baduizm (1997-02-11)
 <li data-cover="http://coverartarchive.org/release/7ffc0e66-78ba-4efc-9a73-55ce13354a32/5194284962-500.jpg" data-tags="rnb, neo soul" role="button">
 Maxwell - MTV Unplugged (1997-07-15)
 </li>
+<li data-cover="https://img.discogs.com/v9xi8uvYPtIXNRBABfaWbnLDjRg=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4848877-1437524577-3099.jpeg.jpg" data-tags="rnb" role="button">
+Joe - All That I Am (1997-07-29)
+</li>
 <li data-cover="https://img.discogs.com/bNU9Z2OH65I8W0Ttb8NgfVWt1G0=/fit-in/299x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764240-1156380307.jpeg.jpg" data-tags="neo-soul, rnb" role="button">
 Maxwell - Embrya (1998-06-30)
 </li>
@@ -51,8 +54,8 @@ Amel Larrieux - Infinite Possibilities (1999)
 <li data-cover="http://coverartarchive.org/release/f7433ff5-35e6-48c2-8503-c2d046540d5d/21406735668-500.jpg" data-tags="soul" role="button">
 Macy Gray - On How Life Is (1999-07-27)
 </li>
-<li data-cover="https://img.discogs.com/f8mM0_FRtXIhYSNrZeCV03cd1T4=/fit-in/444x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5680360-1399745630-6239.jpeg.jpg" data-tags="soul, female vocalists, mary j blige" role="button">
-Mary J. Blige - Mary (1999-08-17)
+<li data-cover="http://coverartarchive.org/release/8466b6ac-fd2f-415b-818d-3e56b5a3d1da/4839004740-500.jpg" data-tags="rnb, carl thomas" role="button">
+Carl Thomas - Emotional (2000-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/eecb042f-85a2-4f1a-ab8c-5c9a947c2d66/15106304103-500.jpg" data-tags="soul, neo-soul" role="button">
 Jill Scott - Who Is Jill Scott? Words and Sounds, Volume 1 (2000-07-10)
@@ -84,6 +87,9 @@ Maxwell - Now (2001-08-21)
 <li data-cover="https://img.discogs.com/YP039jQ-6O9WaEDY9euzSh5Q90E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-330903-1341928568-7224.jpeg.jpg" data-tags="soul" role="button">
 Raphael Saadiq - Instant Vintage (2002-06-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/1a9976be-9d1d-4ba6-a6da-d99b578dea83/17257561540-500.jpg" data-tags="neo-soul, rap" role="button">
+Slum Village - Trinity (Past, Present And Future) (2002-08-13)
+</li>
 <li data-cover="https://img.discogs.com/5JbEegLhw7Yf0t1T6P9kVc8ONzE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-419842-1213440546.jpeg.jpg" data-tags="soul, neo-soul" role="button">
 Goapele - Even Closer (2002-09-10)
 </li>
@@ -92,6 +98,9 @@ Vivian Green - A Love Story (2002-11-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Syleena Johnson - Chapter 2: The Voice (2002-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ac66a1b-50c3-4d17-88b6-375ffffe0192/20396811976-500.jpg" data-tags="neo-soul, rnb" role="button">
+Kindred The Family Soul - Surrender to Love (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2463ee8-ddcb-4d8d-93ee-36835456d144/1630449680-500.jpg" data-tags="hip hop" role="button">
 50 Cent - The New Breed (2003)
@@ -258,9 +267,6 @@ Miguel - All I Want Is You (2010-11-30)
 <li data-cover="http://coverartarchive.org/release/61784ca8-f1a9-4cf8-8452-b5c7076a6fc0/1925635860-500.jpg" data-tags="r&b, rnb, electronic" role="button">
 The Weeknd - House of Balloons (2011-03-21)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
 Drake - Take Care (2011-11-14)
 </li>
@@ -270,14 +276,8 @@ Emeli Sandé - Our Version of Events (2012-02-10)
 <li data-cover="https://img.discogs.com/qu9UGDU9mzKreYD3cCdfwuBK97o=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3474861-1587716065-7822.jpeg.jpg" data-tags="soul" role="button">
 Michael Kiwanuka - Home Again (2012-03-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a770df1f-6401-41fe-b59c-e9a101062158/2987321136-500.jpg" data-tags="hip hop, soul, searching, atmospheric, late night, uncompromising, introspection, reflection, uplifting, cerebral, neo-soul, sub pop, sparse, solitude, alternative rap, rebellious, enigmatic, defiant, empowerment, experimental hip-hop, brash, street-smart, hanging out, knotty, scattered, left-field rap" role="button">
-THEESatisfaction - awE naturalE (2012-03-27)
-</li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">
 Frank Ocean - channel ORANGE (2012-07-10)
-</li>
-<li data-cover="https://img.discogs.com/PzObw9EPJNHYJYtHsiOYUcr0-CM=/fit-in/558x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4044903-1353393962-7969.jpeg.jpg" data-tags="soul" role="button">
-Lianne La Havas - Is Your Love Big Enough? (2012-08-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa7078c2-9b77-41ca-97bf-5364f838da88/1819429738-500.jpg" data-tags="soul" role="button">
 Jessie Ware - Devotion (2012-08-16)

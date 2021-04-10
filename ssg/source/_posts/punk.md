@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:28:01.537Z
+date: 2021-04-10T04:55:01.436Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -117,9 +117,6 @@ Green Day - Nimrod (1997-10-10)
 <li data-cover="https://img.discogs.com/3o1zjXOPqihX0JWHkW--NG6NyBI=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5177447-1386619301-3824.jpeg.jpg" data-tags="punk rock" role="button">
 The Offspring - Americana (1998-11-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg" data-tags="horror punk, punk" role="button">
-Misfits - Famous Monsters (1999-10-05)
-</li>
 <li data-cover="https://img.discogs.com/MsiWJNpi0AFCi3HcwEoprQEGid8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1521897-1290105045.jpeg.jpg" data-tags="punk" role="button">
 Alkaline Trio - Maybe I'll Catch Fire (2000-03-06)
 </li>
@@ -233,6 +230,9 @@ Sum 41 - Chuck (2004-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
 Simple Plan - Still Not Getting Any (2004-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6bda500-eac7-40c8-ab38-4a88a34da3e0/20975852434-500.jpg" data-tags="punk" role="button">
+Green Day - Holiday (2005-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">
 Fall Out Boy - From Under the Cork Tree (2005-05-03)

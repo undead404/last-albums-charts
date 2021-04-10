@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:26:07.078Z
+date: 2021-04-10T05:40:01.416Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
@@ -125,6 +125,9 @@ OK Go - Oh No (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/46c02eab-b147-480d-ac22-dad4bed8bcfe/9258435555-500.jpg" data-tags="rnb, pop" role="button">
 The Pussycat Dolls - PCD (2005-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/b70fff68-559c-4efd-a035-5974cac6bd87/14997468926-500.jpg" data-tags="rock, hinder" role="button">
+Hinder - Extreme Behavior (2005-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
 The Strokes - First Impressions of Earth (2005-12-30)
@@ -296,9 +299,6 @@ Local Natives - Hummingbird (2013-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4e57d35-d8f8-4302-bca4-534b6227e284/14478188805-500.jpg" data-tags="indie rock" role="button">
 The National - Trouble Will Find Me (2013-05-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1cd2cd9-3cd6-40bf-9802-9aa2d231fc2d/4371133470-500.jpg" data-tags="hip-hop, rap" role="button">
-Kanye West - Yeezus (2013-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)

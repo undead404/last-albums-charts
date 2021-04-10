@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:24:01.516Z
+date: 2021-04-10T05:38:01.407Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -21,11 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/iDrGlUqSADpgvCT_f3lP7GRWcP4=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4605383-1572692196-7884.jpeg.jpg" data-tags="pop, screamo, penisbird" role="button">
-Jessica Simpson - Sweet Kisses (1999-11-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/34d92885-0cc1-49db-93f2-1943b8f622b0/23882763399-500.jpg" data-tags="screamo, post-hardcore, emocore" role="button">
 A Static Lullaby - A Static Lullaby (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/dcfd1c6a-8461-417d-86e7-834f85416cd3/16743266556-500.jpg" data-tags="screamo" role="button">
+Saetia - A Retrospective (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d5d9e386-ce4e-4b97-bf28-4ef0b74d6776/27217476164-500.jpg" data-tags="screamo" role="button">
 City of Caterpillar - City of Caterpillar (2002)
@@ -155,6 +155,9 @@ Silverstein - 18 Candles: The Early Years (2006-05-30)
 </li>
 <li data-cover="https://img.discogs.com/sogU5mtWKByinBK0l5_KSIFerBQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-867269-1491971657-7535.jpeg.jpg" data-tags="screamo" role="button">
 Envy - Insomniac Doze (2006-05-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef526583-b032-4430-b99a-0c07d9afa89f/15325030867-500.jpg" data-tags="emo, alternative, pop punk, screamo" role="button">
+A Change of Pace - Prepare The Masses (2006-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
 Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
@@ -302,9 +305,6 @@ Sleeping with Sirens - Let's Cheers to This (2011-05-10)
 </li>
 <li data-cover="https://img.discogs.com/FSNVz6ClhLwEqnQppWgCn_Hdp5M=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955044-1415198215-4656.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
 Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)

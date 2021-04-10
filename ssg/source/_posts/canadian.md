@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:15:01.504Z
+date: 2021-04-10T05:07:12.553Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -32,9 +32,6 @@ Bryan Adams - Reckless (1984-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4c07f596-4963-33df-adb1-55d01dab800d/15456874551-500.jpg" data-tags="80s" role="button">
 Leonard Cohen - Various Positions (1984-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c20f8cc-7b31-32de-8c44-2d28d1c07b9f/12662111311-500.jpg" data-tags="leonard cohen, 80s, singer-songwriter" role="button">
-Leonard Cohen - I'm Your Man (1988-02-21)
 </li>
 <li data-cover="https://img.discogs.com/kEM4w-q5ZI5j_NB4Ibtu4hLE-oc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3150823-1318106448.jpeg.jpg" data-tags="rock, canadian" role="button">
 Barenaked Ladies - Gordon (1992-07-28)
@@ -135,12 +132,6 @@ Stars - Set Yourself on Fire (2004-09-14)
 <li data-cover="https://img.discogs.com/H-q1Do_SA1FUZzOWja6dHyPOdiw=/fit-in/456x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3176911-1319213405.jpeg.jpg" data-tags="indie" role="button">
 Tegan and Sara - So Jealous (2004-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1cd87a1-5dac-483d-b330-1c6ed2549ae1/5262868955-500.jpg" data-tags="canadian, alt-country" role="button">
-Kathleen Edwards - Back To Me (2005-03-01)
-</li>
-<li data-cover="https://img.discogs.com/I-94HK-qcR7LdLDe6E-CVFZJH7o=/fit-in/288x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428552-1112127581.jpg.jpg" data-tags="indie" role="button">
-Final Fantasy - Has A Good Home (2005-03-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">
 Hot Hot Heat - Elevator (2005-03-30)
 </li>
@@ -225,6 +216,9 @@ Simple Plan - Simple Plan (2008-02-06)
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/57c19991-a3c7-484a-8337-6466dc55d78c/11538753668-500.jpg" data-tags="rock, alternative rock" role="button">
+Theory of a Deadman - Scars & Souvenirs (2008-04-01)
+</li>
 <li data-cover="https://img.discogs.com/DqeVhbhIG-tn0yfvCdUsq31A8FE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1383434-1492787433-1812.jpeg.jpg" data-tags="indie rock" role="button">
 Tokyo Police Club - Elephant Shell (2008-04-22)
 </li>
@@ -267,11 +261,11 @@ The New Pornographers - Together (2010-05-03)
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/a690e839-b3b7-43fb-9575-6a1db2155841/15449530643-500.jpg" data-tags="folk, indie, canadian" role="button">
+Dan Mangan - Nice, Nice, Very Nice (2010-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/e0c48004-2ff4-4287-a494-9d9e76a70b51/1977331922-500.jpg" data-tags="alternative, alternative rock, canadian, psychedelic" role="button">
 Black Mountain - Wilderness Heart (2010-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a02dd53-da90-464d-a1d6-08c45865eee7/10143368856-500.jpg" data-tags="canadian, pop" role="button">
-Nelly Furtado - The Best of Nelly Furtado (2010-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de593ea-432e-4cec-addc-2a3ec28079ad/1708845679-500.jpg" data-tags="pop rock" role="button">
 Avril Lavigne - Goodbye Lullaby (2011-03-02)
@@ -288,11 +282,17 @@ Feist - Metals (2011-09-30)
 <li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">
 Michael Bublé - Christmas (2011-10-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
+Drake - Take Care (2011-11-14)
+</li>
 <li data-cover="https://img.discogs.com/jRfBIhtBcTh2B_KqFB7V82Pe1b4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4237331-1360341702-7706.jpeg.jpg" data-tags="alternative rock, pop rock, canadian, modern rock" role="button">
 Marianas Trench - Ever After (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
+</li>
+<li data-cover="https://img.discogs.com/hSJkc5MRBgjsNYDGhSN5M7qifnE=/fit-in/440x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3545772-1611054445-9887.jpeg.jpg" data-tags="indie pop" role="button">
+Patrick Watson - Adventures in Your Own Backyard (2012-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/149812f7-28a5-4960-ad49-0b647cdb978e/1076686535-500.jpg" data-tags="indie rock, noise rock" role="button">
 Japandroids - Celebration Rock (2012-06-05)
@@ -302,6 +302,9 @@ Metric - Synthetica (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
+Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
@@ -317,8 +320,5 @@ Arcade Fire - Reflektor (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">
 Mac DeMarco - Salad Days (2014-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d5301ae-ffe9-4088-b2b1-37651ca776c8/7469915996-500.jpg" data-tags="disco, electronic, funk, house, indietronica, canadian, synthpop, alternative dance, electro funk, yacht rock, nu disco, electrofunk, albumsiown, vinyl collection, 2014 albums, yacht rock revival" role="button">
-Chromeo - White Women (2014-05-12)
 </li>
 </ol>

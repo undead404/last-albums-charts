@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:18:01.472Z
+date: 2021-04-10T05:05:01.436Z
 title: "post-rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/aa5eda82-6d4b-4629-b92b-a1d7e730ce66/12775167333-500.jpg" data-tags="post-rock" role="button">
-Talk Talk - Spirit of Eden (1988-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">
 Slint - Spiderland (1991-03-15)
 </li>
@@ -35,9 +32,6 @@ Tortoise - Millions Now Living Will Never Die (1996-01-30)
 </li>
 <li data-cover="https://img.discogs.com/xDoLKS9K6k-_LsoyHCli65KIfo0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5800452-1403020958-1511.jpeg.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Von (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
@@ -80,9 +74,6 @@ Explosions in the Sky - Those Who Tell the Truth Shall Die, Those Who Tell the T
 </li>
 <li data-cover="http://coverartarchive.org/release/bba92da4-27ac-4667-bb5c-5ecbe0965c4e/4793958640-500.jpg" data-tags="post-rock" role="button">
 God Is An Astronaut - The End of the Beginning (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a805ece-543e-467b-b549-bb918a824235/16466532170-500.jpg" data-tags="post-rock" role="button">
-Do Make Say Think - & Yet & Yet (2002-03-18)
 </li>
 <li data-cover="https://img.discogs.com/anRhTSipnCKDpNk-BLBrTKQ9KBc=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6382069-1417870435-4250.jpeg.jpg" data-tags="electronic" role="button">
 múm - Finally We are No One (2002-05-20)
@@ -146,6 +137,9 @@ God Is An Astronaut - All Is Violent, All Is Bright (2005-02-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 The Evpatoria Report - Golevka (2005-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/5cd525bf-3c07-40a5-99b1-c05feaeb7baf/9420481216-500.jpg" data-tags="instrumental, post-rock" role="button">
+EF - Give Me Beauty... Or Give Me Death (2005-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
@@ -258,9 +252,6 @@ toe - For Long Tomorrow (2009-12-09)
 <li data-cover="http://coverartarchive.org/release/3ead5b02-bfb8-4a8e-87c5-80b1552eddeb/27862273102-500.jpg" data-tags="post-rock" role="button">
 pg.lost - In Never Out (2009-12-11)
 </li>
-<li data-cover="https://img.discogs.com/QrZz7ljgyLG2m3mMuE-D2Xlk7T0=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11476554-1517014471-7140.jpeg.jpg" data-tags="post-rock" role="button">
-The Album Leaf - A Chorus of Storytellers (2010-02-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/33749b62-1fa9-4ab0-b1e2-8696e3386bae/2239809767-500.jpg" data-tags="shoegaze, atmospheric black metal, post-rock" role="button">
 Alcest - Écailles de lune (2010-03-26)
 </li>
@@ -285,8 +276,17 @@ Explosions in the Sky - Take Care, Take Care, Take Care (2011-04-18)
 <li data-cover="http://coverartarchive.org/release/be65cd51-9d05-339f-8fd2-07c9f174c736/21716514907-500.jpg" data-tags="post-rock" role="button">
 This Will Destroy You - Tunnel Blanket (2011-05-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/dd366e1c-8c46-487c-804f-664c21cc9e4a/3370183666-500.jpg" data-tags="post-rock" role="button">
+Maybeshewill - I Was Here for a Moment, Then I Was Gone (2011-05-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/65bc450d-2304-47d9-b114-e84b8bc56811/3331814020-500.jpg" data-tags="post-metal, post-rock" role="button">
 Russian Circles - Empros (2011-10-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/4de22942-1416-409f-a242-47c329288dd5/2239835239-500.jpg" data-tags="shoegaze, post-rock" role="button">
+Alcest - Les voyages de l'Âme (2012-01-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e2f5fb4-5c55-45c3-8e16-572c46a9ddcc/2884696107-500.jpg" data-tags="post-rock" role="button">
+If These Trees Could Talk - Red Forest (2012-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)

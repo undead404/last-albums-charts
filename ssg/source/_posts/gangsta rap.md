@@ -1,15 +1,15 @@
 ---
-date: 2021-04-10T00:23:01.397Z
+date: 2021-04-10T05:27:01.407Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">N.W.A - Straight Outta Compton (1988-08-08)</li>
 <li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">The Notorious B.I.G. - Ready to Die (1994-09-13)</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
+<li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
 <li data-cover="http://coverartarchive.org/release/b7ecdcdc-8ea6-405e-bca1-cf221dab95ad/13369189739-500.jpg" data-tags="rap, hip-hop" role="button">The Game - The Documentary (2005-01-18)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/b52c1c12-bd76-3ac1-b908-7afedf9cfdff/12663390077-500.jpg" data-tags="gangsta rap, hip-hop, rap, hip hop" role="button">
-N.W.A - Straight Outta Compton (1988-08-08)
-</li>
 <li data-cover="https://img.discogs.com/DWtMsiB5hSrBwZoiImfeTzbi6SY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832089-1372026607-3318.jpeg.jpg" data-tags="gangsta rap" role="button">
 Above the Law - Livin' Like Hustlers (1989-12)
 </li>
@@ -69,9 +66,6 @@ Spice 1 - 187 He Wrote (1993-09-28)
 <li data-cover="http://coverartarchive.org/release/9000405a-3a10-4640-a491-8deaa4064d41/18467960716-500.jpg" data-tags="rap, gangsta rap, g-funk, racist" role="button">
 Ice Cube - Lethal Injection (1993-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/3e096a04-ae16-3718-b363-49061f3205e8/20638601124-500.jpg" data-tags="gangsta rap" role="button">
-Bone Thugs-N-Harmony - Creepin on Ah Come Up (1994-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Ready to Die (1994-09-13)
 </li>
@@ -86,9 +80,6 @@ Spice 1 - AmeriKKKa's Nightmare (1994-11-22)
 </li>
 <li data-cover="https://img.discogs.com/HFjFo-odqbZg5DNTJdhAVDbKWl4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468156-1167307287.jpeg.jpg" data-tags="gangsta rap, g-funk" role="button">
 Dr. Dre - Keep Their Heads Ringin' (1995-03-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
-Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
@@ -147,6 +138,9 @@ Dr. Dre - 2001 (1999-11-16)
 <li data-cover="http://coverartarchive.org/release/48d6c571-78f4-4dfc-b146-c2f780ab67d2/13721847012-500.jpg" data-tags="gangsta rap, west coast rap" role="button">
 Kurupt - Tha Streetz Iz A Mutha (1999-11-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/d44e4d94-084d-4808-abab-309c4b4749f7/10333285045-500.jpg" data-tags="rap, gangsta rap, west coast rap, g-funk, tha eastsidaz, kaudogg, pih-poh" role="button">
+Tha Eastsidaz - Snoop Dogg Presents Tha Eastsidaz (2000-02-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/05a01d85-ea57-4b35-a7cd-f1ae18437328/3420809133-500.jpg" data-tags="ice cube, gangsta rap" role="button">
 Ice Cube - War & Peace, Volume 2 (The Peace disc) (2000-03-21)
 </li>
@@ -158,6 +152,12 @@ Cypress Hill - Skull & Bones (2000-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">
 Xzibit - Restless (2000-12-12)
+</li>
+<li data-cover="https://img.discogs.com/k4Xwr_-2EvwkVY_tCBxUpqmumxM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1684169-1237899769.jpeg.jpg" data-tags="rap" role="button">
+Snoop Dogg - Tha Last Meal (2000-12-19)
+</li>
+<li data-cover="https://img.discogs.com/162722db579554db812b537fc8fbe8021fb40203/images/spacer.gif" data-tags="rap" role="button">
+Fabolous - Ghetto Fabolous (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/73dc8688-cb4a-464f-becf-7a1e8e53110d/22242470526-500.jpg" data-tags="hip-hop" role="button">
 Ja Rule - Pain Is Love (2001-10-02)
@@ -182,9 +182,6 @@ Clipse - Lord Willin' (2002-04-01)
 </li>
 <li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/dea8d7d1-1823-4635-a536-8ca487a91e8c/5329372313-500.jpg" data-tags="rap" role="button">
-Tech N9ne - Absolute Power (2002-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7fdbb85-f76c-4fe5-83a2-6016e3c05a18/6219252018-500.jpg" data-tags="rap, gangsta rap, ja rule" role="button">
 Ja Rule - The Last Temptation (2002-11-19)
@@ -305,6 +302,9 @@ Darkside - Darkside (2011-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fbb952f0-cb95-427e-8189-50f29ae2c34f/5259694807-500.jpg" data-tags="rap" role="button">
 Yelawolf - Radioactive (2011-11-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/63fe4fd9-6419-4678-9eef-280696f02a5f/8225307090-500.jpg" data-tags="self-released" role="button">
+Кровосток - Студень (2012-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/38f86768-ec68-46a6-bdbc-3b708f418dcf/954447311-500.jpg" data-tags="hip-hop" role="button">
 Killer Mike - R.A.P. Music (2012-05-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:30:01.468Z
+date: 2021-04-10T05:37:01.424Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -24,11 +24,17 @@ _________________
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/7bab58a3-1769-467e-9d30-4a2b2761019d/27584215433-500.jpg" data-tags="sunshine pop, psychedelic" role="button">
+Sagittarius - Present Tense (1967)
+</li>
 <li data-cover="http://coverartarchive.org/release/d734f1d2-e3de-347b-b2c0-6bb92efe8c79/5949145621-500.jpg" data-tags="psychedelic, psychedelic rock, 60s" role="button">
 Love - Forever Changes (1967-11-01)
 </li>
 <li data-cover="https://img.discogs.com/4hsJ9bOHdky1Zlwc7Vizrq_0i4A=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-923417-1482697240-6883.png.jpg" data-tags="60s, psychedelic" role="button">
 The Millennium - Begin (1968)
+</li>
+<li data-cover="https://img.discogs.com/qBO4M0g2RVYmeS9RZtaHunS5Vvg=/fit-in/594x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1557450-1351949867-9125.jpeg.jpg" data-tags="psychedelic rock" role="button">
+Harumi - Harumi (1968)
 </li>
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
@@ -36,11 +42,11 @@ Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 <li data-cover="http://coverartarchive.org/release/c757416d-2633-3ef8-a7e7-f94a3e3e20df/13549300921-500.jpg" data-tags="experimental, baroque pop" role="button">
 Van Dyke Parks - Song Cycle (1968)
 </li>
-<li data-cover="https://img.discogs.com/RhrsE_Tzsm0I_DW4-b2j4Vpd0N0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712171-1394761192-9723.jpeg.jpg" data-tags="60s" role="button">
-Margo Guryan - Take a picture (1968)
-</li>
 <li data-cover="https://img.discogs.com/ab__G-H8T6w87q5XPpCYOQOQcwo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694867-1220183882.jpeg.jpg" data-tags="60s" role="button">
 The Kinks - The Kinks Are the Village Green Preservation Society (1968-11-22)
+</li>
+<li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="60s, psychedelic pop" role="button">
+Bee Gees - Odessa (1969-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7b0b85d-d160-49fa-bbe1-cbb6366ee3f0/9259553603-500.jpg" data-tags="progressive rock, baroque pop, psychedelic pop, psychedelic, argentina, art rock, folk rock, psychedelic rock, psychedelic folk, caos coleccion rock latinoamericano, mejores discos del rock nacional segun rolling stone, obra maestra, rock tops, raddle, hi daily" role="button">
 Almendra - Almendra (1969-11-29)
@@ -66,6 +72,9 @@ David Bowie - David Bowie (1979)
 <li data-cover="http://coverartarchive.org/release/c6911b3b-135f-4b7b-a2cc-b90ea1e11ac9/3514546977-500.jpg" data-tags="new wave" role="button">
 The Stranglers - La Folie (1981-11-09)
 </li>
+<li data-cover="https://img.discogs.com/m8orecc8erkk0IZ8cm0s5oCeW-s=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136523-001.jpg.jpg" data-tags="80s, baroque pop, reflective, dream pop, mellow, hypnotic, pastoral, david sylvian, literary, flashback alternatives" role="button">
+Virginia Astley - Hope In A Darkened Heart (1986)
+</li>
 <li data-cover="http://coverartarchive.org/release/23694683-ade1-45f8-94d6-41889765ca8f/7895158561-500.jpg" data-tags="baroque pop" role="button">
 Mecano - Entre el cielo y el suelo (1986-06-16)
 </li>
@@ -80,9 +89,6 @@ Tori Amos - Boys for Pele (1996-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b4db6a4-56e6-47de-8440-074247b2ed52/9707871898-500.jpg" data-tags="alternative rock, indie pop, indie rock, britpop, baroque pop" role="button">
 The Auteurs - After Murder Park (1996-03-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Travis - Good Feeling (1997-09-08)
@@ -117,6 +123,9 @@ Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/3f83afa6-3467-4d55-91df-b9adafefaf73/21898230268-500.jpg" data-tags="emusic" role="button">
+The Decemberists - Billy Liar (2004-09-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/67148959-1ccd-3c30-8645-cfb8301b0001/4778416413-500.jpg" data-tags="cardiowave" role="button">
 Flëur - Сияние (2004-10-12)
 </li>
@@ -128,9 +137,6 @@ Antony and the Johnsons - I Am a Bird Now (2005-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ef3f91-7994-44a5-a55d-60f512ed7641/12985446912-500.jpg" data-tags="indie" role="button">
 Andrew Bird - The Mysterious Production of Eggs (2005-02-08)
-</li>
-<li data-cover="https://img.discogs.com/I-94HK-qcR7LdLDe6E-CVFZJH7o=/fit-in/288x278/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428552-1112127581.jpg.jpg" data-tags="indie" role="button">
-Final Fantasy - Has A Good Home (2005-03-01)
 </li>
 <li data-cover="https://img.discogs.com/M8iOeLNaOrUcsb5QanBnLpbz3MQ=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5162836-1386263320-2668.jpeg.jpg" data-tags="metal, folk, baroque pop, symphonic metal, symphonic power metal, classical crossover, classical pop, neomedieval" role="button">
 Rhapsody - The Magic of the Wizard's Dream (2005-03-29)
@@ -198,6 +204,9 @@ Bat for Lashes - Two Suns (2009-04-03)
 <li data-cover="http://coverartarchive.org/release/1e1786e5-c6da-3bcf-961d-3b21a49ee9dc/13204157353-500.jpg" data-tags="indie pop, art pop, indie" role="button">
 St. Vincent - Actor (2009-05-04)
 </li>
+<li data-cover="https://img.discogs.com/C5XXVBCCYn4X9ljQhZxmx-vtcJE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2204558-1609664265-5433.jpeg.jpg" data-tags="indie pop" role="button">
+Little Birdy - Confetti (2009-05-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">
 Dirty Projectors - Bitte Orca (2009-06-08)
 </li>
@@ -246,9 +255,6 @@ Feist - Metals (2011-09-30)
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/3233e76f-8038-4c35-bf9c-caeff3127225/1254033366-500.jpg" data-tags="soundtrack, game soundtrack" role="button">
-Jeremy Soule - The Elder Scrolls V: Skyrim Original Game Soundtrack (2011-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg" data-tags="baroque pop, trip-hop, alternative" role="button">
 Lana Del Rey - Born to Die (2012-01-27)
 </li>
@@ -269,9 +275,6 @@ Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/798c24c1-4ef9-47ca-ae68-d3c4f5fde3bc/15309211291-500.jpg" data-tags="baroque pop" role="button">
 Anna von Hausswolff - Ceremony (2012-07-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/634d773f-10e6-4872-be32-8437ad5309fb/3206332142-500.jpg" data-tags="industrial, female vocalists, gothic, darkwave, victoriandustrial" role="button">
-Emilie Autumn - Fight Like a Girl (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/388e1e08-0628-4799-bd60-a50a6ba590da/4876724124-500.jpg" data-tags="indie pop" role="button">
 Stars - The North (2012-09-04)
@@ -302,9 +305,6 @@ San Fermin - San Fermin (2013-09-17)
 </li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - St. Vincent (2014-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/2308f457-d266-465c-9b96-c9b4bbcd1de3/14684942317-500.jpg" data-tags="indie pop" role="button">
-Arthur Beatrice - Working Out (2014-02-24)
 </li>
 <li data-cover="https://img.discogs.com/X4BPyuwih9Ftjun2RLU7v5627hA=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5659142-1399187504-3176.jpeg.jpg" data-tags="experimental" role="button">
 tUnE-yArDs - Nikki Nack (2014-05-05)

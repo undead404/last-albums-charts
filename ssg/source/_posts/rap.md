@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:09:01.497Z
+date: 2021-04-10T04:50:01.424Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -53,9 +53,6 @@ Method Man - Tical (1994-11-15)
 </li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
 2Pac - Me Against the World (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
-Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
 Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
@@ -243,6 +240,9 @@ Drake - So Far Gone (2009-02-13)
 <li data-cover="http://coverartarchive.org/release/25130d2d-8a82-4956-99e7-30efd0f9ff89/5871235568-500.jpg" data-tags="rap, hip-hop" role="button">
 Eminem - Relapse (2009-05-15)
 </li>
+<li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
+Blakroc - Blakroc (2009-09-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/f92d68fa-db21-4938-b72d-bfe05256e13f/1674767529-500.jpg" data-tags="rap, horrorcore" role="button">
 Tyler, the Creator - Bastard (2009-12-25)
 </li>
@@ -267,6 +267,9 @@ Nicki Minaj - Pink Friday (2010-11-21)
 <li data-cover="http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/351b980e-d653-4ab4-8534-b8ce8d1b2e74/5263678165-500.jpg" data-tags="rap" role="button">
+T.I. - No Mercy (2010-12-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/c1d2f621-c5c1-4bc6-acf9-440192654421/1630959999-500.jpg" data-tags="rap" role="button">
 Wiz Khalifa - Rolling Papers (2011-03-28)
 </li>
@@ -284,9 +287,6 @@ Professor Green - At Your Inconvenience (2011-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b4ab5f2-73f0-405f-9add-2330c3a248c1/2054695522-500.jpg" data-tags="drake, hip hop" role="button">
 Drake - Take Care (2011-11-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
-Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)

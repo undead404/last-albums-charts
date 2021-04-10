@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T01:43:01.361Z
+date: 2021-04-10T05:01:29.188Z
 title: "mathcore: 100 albums you must listen to before you die"
 ---
 ![Converge - Jane Doe (2001-09-04)](http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg "Converge - Jane Doe (2001-09-04)")
@@ -87,7 +87,7 @@ Sikth - The Trees Are Dead & Dried Out Wait For Something Wild (2003-08-18)
 <li data-cover="http://coverartarchive.org/release/964d92e8-f368-4942-935a-897f71a8eac7/16254480661-500.jpg" data-tags="mathcore" role="button">
 Ion Dissonance - Breathing Is Irrelevant (2003-09-02)
 </li>
-<li data-cover="https://img.discogs.com/Pd0pagksb7uhov1Qd5VeyG4H1F4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7550608-1443819501-6464.jpeg.jpg" data-tags="progressive metal, metalcore" role="button">
+<li data-cover="https://img.discogs.com/BXMbpuezaN5RaJUNwwi7D5fJrbk=/fit-in/595x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3246636-1372379293-9403.jpeg.jpg" data-tags="progressive metal, metalcore" role="button">
 Between the Buried and Me - The Silent Circus (2003-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/a660c2ae-4ad9-4682-b06a-a95ffa3ab4a7/26500850268-500.jpg" data-tags="post-hardcore" role="button">
@@ -213,16 +213,19 @@ Protest the Hero - Fortress (2008-01-29)
 <li data-cover="http://coverartarchive.org/release/d08330be-7e1b-4cc1-b9b9-a1662c0ad62f/14476655259-500.jpg" data-tags="experimental, grindcore, cybergrind" role="button">
 Genghis Tron - Board Up the House (2008-02-19)
 </li>
-<li data-cover="https://img.discogs.com/_WqwjKmLEkaRago-XTsjvs6RrCU=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14006025-1565940495-1326.jpeg.jpg" data-tags="mathcore" role="button">
+<li data-cover="https://img.discogs.com/SQxuLUlGGruxVSMBdmpI8Ev6iro=/fit-in/300x304/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2551329-1290045489.jpeg.jpg" data-tags="mathcore" role="button">
 Architects - Ruin (2008-06-02)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="djent" role="button">
+<li data-cover="https://img.discogs.com/4Kv_ftYl84JCbJRBL7X99oNkg4M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5689973-1400008169-9787.jpeg.jpg" data-tags="djent" role="button">
 Fellsilent - The Hidden Words (2008-06-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/97db5757-a7ee-4921-8f9b-f726f6433a62/27059737189-500.jpg" data-tags="hardcore, metalcore" role="button">
 Norma Jean - The Anti Mother (2008-08-05)
 </li>
-<li data-cover="https://img.discogs.com/9nu1biy6Ock-UIiSLQzSUKQTyGY=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3216777-1330611414.jpeg.jpg" data-tags="mathcore" role="button">
+<li data-cover="https://img.discogs.com/flx8uYuhHbv5WMKluPM8fxzQEZQ=/fit-in/500x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2846257-1303732161.jpeg.jpg" data-tags="mathcore" role="button">
+Exotic Animal Petting Zoo - I Have Made My Bed In Darkness (2008-08-19)
+</li>
+<li data-cover="https://img.discogs.com/WXCzUlxcbTfWdmg6kmfZefVZOlM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1585544-1330683903.jpeg.jpg" data-tags="mathcore" role="button">
 Rolo Tomassi - Hysterics (2008-09-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="breakbeat, industrial metal, nu metal, mathcore, music, music with beats" role="button">
@@ -267,7 +270,7 @@ The Dillinger Escape Plan - Option Paralysis (2010-03-19)
 <li data-cover="http://coverartarchive.org/release/6bfba6d5-71fc-454b-b3a0-63632a1459fa/20855090957-500.jpg" data-tags="totec radio, justin bieber, goregrind, justin bieber my worlds" role="button">
 Justin Bieber - My Worlds (2010-03-22)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/pO8binxNZfRykKWjFk-SkgKGDcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2291815-1279043024.jpeg.jpg" data-tags="progressive metal" role="button">
 Periphery - Periphery (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/95961c06-c3bb-4fe1-912e-7559ce0340fe/10554778238-500.jpg" data-tags="mathcore" role="button">
@@ -285,7 +288,7 @@ The Chariot - Long Live (2010-11-22)
 <li data-cover="http://coverartarchive.org/release/27f2d3c5-50b6-4a97-a2d1-2da283881fe3/20002674834-500.jpg" data-tags="metalcore" role="button">
 Architects - The Here And Now (2011-01-21)
 </li>
-<li data-cover="https://img.discogs.com/5LwBYBBoDjK2hbotSl11E9DkItI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2784764-1544207458-6297.jpeg.jpg" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/H-JdMk0flhfn4gE_wPRYTwcmciU=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2848672-1606643252-5453.jpeg.jpg" data-tags="progressive metal" role="button">
 Protest the Hero - Scurrilous (2011-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/4d5c51e6-f00f-4570-b136-85fc53e9e3a8/26433855871-500.jpg" data-tags="experimental, mathcore" role="button">
@@ -317,8 +320,5 @@ Destrage - Are You Kidding Me? No. (2014-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/db412f0a-c58b-47f5-ac5f-d163e9ffa715/6303246041-500.jpg" data-tags="metalcore" role="button">
 Architects - Lost Forever // Lost Together (2014-03-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/b12e23d6-398c-4bda-a5aa-163b7dde3298/8816037746-500.jpg" data-tags="math rock, post-hardcore" role="button">
-Marmozets - The Weird and Wonderful Marmozets (2014-09-29)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:23:01.416Z
+date: 2021-04-10T05:29:01.414Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -30,14 +30,14 @@ Comus - First Utterance (1971)
 <li data-cover="http://coverartarchive.org/release/6f3f054b-b78a-3782-be52-23824f0e8e6f/22841596347-500.jpg" data-tags="outsider, freak folk, b12, avant-folk, davecore, nancykitten all-time favourite albums, other corwood texas the units atonal songwriter experimental, psyche-vedelik" role="button">
 Jandek - Ready for the House (1978-08-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/cba37f1a-2c70-3e76-bdc4-ed56e4de184f/9518530430-500.jpg" data-tags="noise rock" role="button">
+Butthole Surfers - Locust Abortion Technician (1987-03)
+</li>
 <li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
 Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
 Jim O'Rourke - Bad Timing (1997-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/84a11bf5-4944-3350-93f0-6457a79130ca/10020393504-500.jpg" data-tags="lo-fi" role="button">
-Ariel Pink's Haunted Graffiti - The Doldrums (2000)
 </li>
 <li data-cover="https://img.discogs.com/sLmX0cLgU4GXuNR3am2vGa7GoKU=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138272-1466323574-9059.jpeg.jpg" data-tags="experimental" role="button">
 Animal Collective - Hollinndagain (2002)
@@ -60,20 +60,17 @@ Frog Eyes - The Golden River (2003-07-01)
 <li data-cover="http://coverartarchive.org/release/bee9a4bb-8db7-40d3-b129-779bacef5ff9/16127939552-500.jpg" data-tags="folk, singer-songwriter, freak folk, indie folk, the shit, art pop, moc mnam lofi" role="button">
 Dirty Projectors - The Glad Fact (2003-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/24afc25b-a3d1-4d7e-9f3f-35160eb872da/14486796788-500.jpg" data-tags="freak folk" role="button">
+Kemialliset Ystävät - Alkuhärkä (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/ad18e295-186b-4b06-ba50-68b2270114d6/28647976797-500.jpg" data-tags="folk, experimental, freak folk, wfmu heavily played records" role="button">
 Six Organs of Admittance - The Manifestation (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/a219256a-33ff-4b98-b55d-9f222488c7b1/19945859678-500.jpg" data-tags="folk, psychedelic folk" role="button">
-Espers - Espers (2004-01-20)
 </li>
 <li data-cover="https://img.discogs.com/iZmPBLwto042YdZnvxGThqirlBM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2068109-1524848806-4262.jpeg.jpg" data-tags="folk, guitar, freak folk, emd, new weird america, whats cool, diana picks, coyote, improvika, nocturne ballad for opium eaters" role="button">
 Jack Rose - Two Originals Of... (2004-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/bff9287c-3266-424a-954d-1e20438c828e/24211004394-500.jpg" data-tags="cello rock, alternative" role="button">
-Rasputina - Frustration Plantation (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd22cfa8-2b6d-421d-a264-ae8c0ff4b2c8/11013536071-500.jpg" data-tags="folk" role="button">
 Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
@@ -107,6 +104,9 @@ Feathers - Feathers (2005)
 </li>
 <li data-cover="https://img.discogs.com/LKbv14dG8jwt9LSoIwfUFK6A9Vg=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-658981-1363206277-8339.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Josephine Foster - Hazel Eyes, I Will Lead You (2005)
+</li>
+<li data-cover="https://img.discogs.com/RGydQCyaWOxlhavvHFNpAlHNLgo=/fit-in/150x145/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-807303-1160815627.jpeg.jpg" data-tags="alternative, singer-songwriter, freak folk, indie folk, sufjan stevens" role="button">
+Hush Arbors - Hush Arbors (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef88e819-cdf2-43e7-9b06-591d9b2ea64a/3003107829-500.jpg" data-tags="medieval" role="button">
 The Moon and the Nightspirit - Of Dreams Forgotten and Fables Untold (2005)
@@ -147,8 +147,14 @@ Animal Collective - Feels (2005-10-14)
 <li data-cover="http://coverartarchive.org/release/91614c9a-3026-301d-a9c9-47fe3ff254c3/24518941411-500.jpg" data-tags="folk" role="button">
 Vashti Bunyan - Lookaftering (2005-10-17)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, psychedelic" role="button">
+Espers - The Weed Tree (2005-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/1005917e-1f21-497d-b8ee-80034c0f97ce/18235742957-500.jpg" data-tags="folk" role="button">
 Jana Hunter - Blank Unstaring Heirs of Doom (2005-10-25)
+</li>
+<li data-cover="https://img.discogs.com/ewRGJpl74_oSYVSajGaCrag_b4Y=/fit-in/300x289/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1067974-1203687283.jpeg.jpg" data-tags="folk" role="button">
+O'Death - Head Home (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/fe9e6281-d68a-4063-8c09-230d212dff50/23816680860-500.jpg" data-tags="rewind 2006" role="button">
 Charalambides - A Vintage Burden (2006-05-22)
@@ -177,11 +183,11 @@ Au - Au (2007)
 <li data-cover="http://coverartarchive.org/release/a7eb9051-ae66-45cc-b2a8-20ec40c4f046/15764487300-500.jpg" data-tags="freak folk, space rock, neo-psychedelia, acid rock" role="button">
 Sun Araw - The Phynx (2007)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="folk, freak folk, 00s, psych-folk, full tracks, experimental folk-rock" role="button">
+MV & EE With The Bummer Road - Green Blues (2007-01-03)
+</li>
 <li data-cover="https://img.discogs.com/AmSUIlWlBwms-IZYvX-nmoh788o=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-934801-1340950615-3272.jpeg.jpg" data-tags="folk" role="button">
 Rio En Medio - The Bride of Dynamite (2007-02-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/ee1226f9-74a1-42c6-bf22-26be859de1fc/6043097976-500.jpg" data-tags="neofolk, dark folk" role="button">
-Kiss the Anus of a Black Cat - An Interlude to the Outermost (2007-02-27)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, freak folk" role="button">
 White Flight - White Flight (2007-03-06)
@@ -201,23 +207,23 @@ Bowerbirds - Hymns for a Dark Horse (2007-05-08)
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
+<li data-cover="https://img.discogs.com/S-Exnjn_iH94GSoSUW9jDOyk524=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102747-1482741715-4012.jpeg.jpg" data-tags="indie, rock, folk, experimental, indie rock, freak folk, jazz rock, adrian orange" role="button">
+Adrian Orange & Her Band - Adrian Orange & Her Band (2007-09-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/31dae002-4c60-33c7-b8a3-033b67309ec7/5293342230-500.jpg" data-tags="folk" role="button">
 Akron/Family - Love Is Simple (2007-09-18)
 </li>
 <li data-cover="https://img.discogs.com/KpVfzdPJr37BfMyHu4sBH8aXxcc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1084588-1190884235.jpeg.jpg" data-tags="indie, folk" role="button">
 The Acorn - Glory Hope Mountain (2007-10-24)
 </li>
+<li data-cover="http://coverartarchive.org/release/1bd9d1cc-5f6d-4253-8ff1-0613f06722a1/21311815469-500.jpg" data-tags="post-rock, freak folk, neo-psychedelia, dreamgaze, newgaze, dronegaze, gazer, tropical drone" role="button">
+Pocahaunted - Chains (2008)
+</li>
 <li data-cover="https://img.discogs.com/d8HJYr3cTrpOpXA6UZdVSK3bABw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655742-1234876537.jpeg.jpg" data-tags="freak folk, calarts, scruffian recommended" role="button">
 Parenthetical Girls - Entanglements (2008-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a84315d3-290b-333a-8a57-47014915eda9/2990284729-500.jpg" data-tags="indie, freak folk, new weird america, psychedelic folk, devendra banhart" role="button">
 Megapuss - Surfing (2008-09-09)
-</li>
-<li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
-Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
-</li>
-<li data-cover="https://img.discogs.com/lMWJeZe5UTygkMBOtMry3mlJfoc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495929-1598270233-6381.jpeg.jpg" data-tags="indie pop" role="button">
-of Montreal - Skeletal Lamping (2008-10-07)
 </li>
 <li data-cover="https://img.discogs.com/2CQf5licuwUWGxwSQnU85K93upw=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17164018-1611938371-6715.jpeg.jpg" data-tags="indie rock" role="button">
 Deerhunter - Weird Era Cont. (2008-10-27)
@@ -227,6 +233,9 @@ CALLmeKAT - Fall Down (2008-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">
 Animal Collective - Merriweather Post Pavilion (2009-01-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/d0ca6290-9638-4b66-9c65-ef9f63afc48c/25754581670-500.jpg" data-tags="folk, singer-songwriter, freak folk, indie folk, neofolk" role="button">
+Stille Volk - Nueit De Sabbat (2009-01-19)
 </li>
 <li data-cover="https://img.discogs.com/x3CDWRLgdPJszNqqkqXaqgs1_ME=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1953417-1301299952.jpeg.jpg" data-tags="4ad" role="button">
 tUnE-yArDs - BiRd-BrAiNs (2009-03-19)
@@ -246,9 +255,6 @@ CocoRosie - Coconuts, Plenty of Junk Food (2009-06-03)
 <li data-cover="http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg" data-tags="experimental, indie rock, freak folk" role="button">
 Dirty Projectors - Bitte Orca (2009-06-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/1beaae9e-8f17-4281-a4e4-4fe1d38b17ef/16319634547-500.jpg" data-tags="scandinavian" role="button">
-múm - Sing Along to Songs You Don't Know (2009-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/97c3790e-5535-4236-a293-cfbf44c820df/10368247554-500.jpg" data-tags="freak folk" role="button">
 Thee Oh Sees - Dog Poison (2009-10-03)
 </li>
@@ -263,9 +269,6 @@ Two Door Cinema Club - I Can Talk (2009-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a29ce30f-9b97-347f-89cf-eeec57174ac0/5227604030-500.jpg" data-tags="freak folk" role="button">
 CocoRosie - Grey Oceans (2010-04-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/5feed609-9054-410f-8bf4-029567d7a847/12126656429-500.jpg" data-tags="dark cabaret, cello rock" role="button">
-Rasputina - Sister Kinderhook (2010-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/1152057c-e6e9-4a3e-b4b7-8dcfc281f8af/26937850260-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Le Noise (2010-09-24)
@@ -291,11 +294,8 @@ Local Natives - Hummingbird (2013-01-28)
 <li data-cover="http://coverartarchive.org/release/76ef4e3d-c86e-47f1-bb41-ffca104ddf56/8393523631-500.jpg" data-tags="female vocalists, acoustic, freak folk, 2010s, fuck me to this album" role="button">
 Nicole Dollanganger - Ode to Dawn Wiener: Embarrassing Love Songs (2013-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/9c74e7fa-c0a6-412d-b291-3211506cc411/3737023319-500.jpg" data-tags="neo-folk" role="button">
-Devendra Banhart - Mala (2013-03-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/8038465b-116e-4ba2-92fd-1e78459908fe/4241101206-500.jpg" data-tags="electronic" role="button">
-Crystal Fighters - Cave Rave (2013-05-27)
+<li data-cover="http://coverartarchive.org/release/b29a30c7-4c4f-402b-8e90-2b169527bd07/5587185247-500.jpg" data-tags="whats your rupture" role="button">
+Parquet Courts - Tally All The Things That You Broke (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c10ba34-278b-48fc-9ab6-0c2a74340383/6567257508-500.jpg" data-tags="singer-songwriter, dream pop, ethereal" role="button">
 Marissa Nadler - July (2014-02-04)

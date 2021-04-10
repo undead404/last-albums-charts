@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:39:01.666Z
+date: 2021-04-10T04:49:01.395Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -11,7 +11,7 @@ title: "dub: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="dub, reggae" role="button">Bedouin Soundclash - Sounding A Mosaic (2004-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg" data-tags="reggae, dub" role="button">Fat Freddy's Drop - Based on a True Story (2005-05)</li>
 <li data-cover="http://coverartarchive.org/release/b7bfc318-2b99-40f0-9052-58fc57c2417e/10298830949-500.jpg" data-tags="dub" role="button">Ott - Skylon (2008-01-25)</li>
-<li data-cover="http://coverartarchive.org/release/744ae359-3156-4b4a-b0ac-38c3e160b64c/1242688139-500.jpg" data-tags="beatbox, reggae, dub, dubstep" role="button">Dub Fx - Everythinks a Ripple (2009)</li>
+<li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="downtempo" role="button">Thievery Corporation - Radio Retaliation (2008-12-23)</li>
 <li data-cover="http://coverartarchive.org/release/1d204cfd-89ec-4766-9d58-6c9a03c01166/21267907257-500.jpg" data-tags="chillout, experimental, dub, blues, psychedelic" role="button">King Krule - King Krule (2011-11-08)</li>
 <li data-cover="http://coverartarchive.org/release/d80496fb-c5ea-4625-adb3-1b3dbabd0fae/2216131525-500.jpg" data-tags="electronic, indie, dub, new wave" role="button">Santigold - Master of My Make-Believe (2012-04-21)</li>
 </ol>
@@ -38,6 +38,9 @@ Augustus Pablo - East of the River Nile (1981)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 Scientist - Scientist Rids the World of the Evil Curse of the Vampires (1981)
+</li>
+<li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
+Gregory Isaacs - Night Nurse (1982)
 </li>
 <li data-cover="https://img.discogs.com/KbEA0Z4oGhEloTrutGczE1L14Wo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1735942-1240055135.jpeg.jpg" data-tags="psychedelic, indie" role="button">
 Primal Scream - Screamadelica (1991-09-23)
@@ -138,6 +141,9 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/401f1131-8509-4c25-bbfe-a7cff4b0705e/10313386444-500.jpg" data-tags="psydub, dub" role="button">
 Hallucinogen - In Dub (2002-10-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/016d5dbf-216b-4f15-82c5-67545b113a52/14999491201-500.jpg" data-tags="dub" role="button">
+Bad Brains - I & I survived (dub) (2002-11-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/78e9cf95-993f-4539-83d2-9372465cc03b/5582287019-500.jpg" data-tags="dub, trip-hop" role="button">
 EZ3kiel - Barb4ry (2003-01)
 </li>
@@ -192,6 +198,9 @@ The Dead 60s - The Dead 60s (2005-05-31)
 <li data-cover="http://coverartarchive.org/release/4a6d6b9b-02f8-413c-a672-9bbe535b36d8/14936523706-500.jpg" data-tags="rnb, hip-hop" role="button">
 Mattafix - Signs of a Struggle (2005-10-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/e516e3ab-4dd8-44ab-a501-3d5b917f74be/4585299145-500.jpg" data-tags="ambient" role="button">
+Bluetech - Sines and Singularities (2005-12-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
 Long Beach Shortbus - Flying Ship of Fantasy (2006)
 </li>
@@ -209,6 +218,9 @@ Easy Star All-Stars - Radiodread (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/886cec60-6270-4309-9ca6-d30919ae8622/18235266008-500.jpg" data-tags="dub" role="button">
 Dub Pistols - Speakers and Tweeters (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/3361f7a7-1319-4b1f-8168-c1a358e7c65c/4511988555-500.jpg" data-tags="hip-hop, electronica, dub, left-field hip-hop, downbeat, hibbedi hop" role="button">
+DJ Vadim - The SoundCatcher (2007-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b342391-8172-4579-9668-09535698f6ae/18273571975-500.jpg" data-tags="reggae, dub, dancehall reggae" role="button">
 Chezidek - Inna Di Road (2007-09-21)
@@ -243,9 +255,6 @@ Forfun - Polisenso (2008-11-15)
 <li data-cover="https://img.discogs.com/af4c2e005992d384ff53b7d41d019030a6f520d0/images/spacer.gif" data-tags="downtempo" role="button">
 Thievery Corporation - Radio Retaliation (2008-12-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/744ae359-3156-4b4a-b0ac-38c3e160b64c/1242688139-500.jpg" data-tags="beatbox, reggae, dub, dubstep" role="button">
-Dub Fx - Everythinks a Ripple (2009)
-</li>
 <li data-cover="https://img.discogs.com/N5VPY4tWUXRdYz52p3XoDYAemq4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1792602-1401382804-7628.jpeg.jpg" data-tags="jazz, reggae, dub, roots" role="button">
 Fat Freddy's Drop - Dr. Boondigga & The Big Bw (2009-05-26)
 </li>
@@ -255,14 +264,8 @@ Céu - Vagarosa (2009-07-07)
 <li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
 SOJA - Born In Babylon (2009-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/093fa384-c4aa-4437-a736-4b45bb32e432/1220302176-500.jpg" data-tags="dubstep" role="button">
-Bassnectar - Cozza Frenzy (2009-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
 Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/47cd1818-ff1b-3960-9e50-52d2a20749b2/15764509550-500.jpg" data-tags="psychedelic" role="button">
-Sun Araw - On Patrol (2010-03)
 </li>
 <li data-cover="https://img.discogs.com/zZpXwd8PQ9tmIUmCJLioKN3GQl8=/fit-in/180x180/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-352160-1101167262.jpg.jpg" data-tags="lena" role="button">
 Lena - Satellite (2010-03-13)
@@ -314,9 +317,6 @@ Karol Conka - Batuk Freak (2013-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/62626e7f-a10e-409c-a4fc-36deaf4f5a13/5750409674-500.jpg" data-tags="dub" role="button">
 Fat Freddy's Drop - Blackbird (2013-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a5b0abf-f6a4-442c-8deb-478091d4523e/8853472262-500.jpg" data-tags="art pop" role="button">
-Dean Blunt - Black Metal (2014-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/94a37a6a-c83c-4bc8-9e88-8a156f2bf7c8/8923134811-500.jpg" data-tags="techno, ambient techno" role="button">
 Andy Stott - Faith In Strangers (2014-11-17)

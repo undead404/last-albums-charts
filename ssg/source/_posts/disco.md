@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:13:01.415Z
+date: 2021-04-10T05:34:01.412Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -54,11 +54,11 @@ Cheryl Lynn - Cheryl Lynn (1978)
 <li data-cover="https://img.discogs.com/YFJ2Dtm4pOC36B8aQH_rjgFmqv8=/fit-in/580x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-87691-1238612710.jpeg.jpg" data-tags="disco" role="button">
 Sylvester - Step II (1978)
 </li>
+<li data-cover="http://coverartarchive.org/release/635239b4-986a-4cb7-90ba-bf213d5c9f78/11292551867-500.jpg" data-tags="classic rock, rock, 70s" role="button">
+The Rolling Stones - Some Girls (1978-06-09)
+</li>
 <li data-cover="https://img.discogs.com/Ybcefs5f55CMOZBix6qoKO-3vp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-471954-1346960888-3621.jpeg.jpg" data-tags="disco, 70s" role="button">
 Boney M. - Nightflight to Venus (1978-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/228d2f3b-690b-3001-9a40-c7830a517f5c/9042486592-500.jpg" data-tags="funk, disco" role="button">
-Chic - C'est Chic (1978-08-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 The Jacksons - Destiny (1978-12-17)
@@ -129,6 +129,9 @@ Sandra - 18 Greatest Hits (1992-10-12)
 <li data-cover="http://coverartarchive.org/release/3e628ebd-769e-4848-9aa5-5b1bcbe1cc26/28882040167-500.jpg" data-tags="dance" role="button">
 Haddaway - The Album (1993-11-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/89abe191-9dd6-4883-b10f-56922baf88e3/15081522104-500.jpg" data-tags="disco" role="button">
+Donna Summer - Endless Summer (1994)
+</li>
 <li data-cover="https://img.discogs.com/VeBLqRmN6T_vNX_TYOfcC2nK3K4=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-340023-1469050479-3638.jpeg.jpg" data-tags="disco, funk" role="button">
 Carl Douglas - Kung Fu Fighting (1994)
 </li>
@@ -186,20 +189,17 @@ Bee Gees - Number Ones (2004-11-01)
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
 </li>
-<li data-cover="https://img.discogs.com/oINYvIAj4nGgB63ZUW-Wwl9rfFY=/fit-in/471x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2407288-1282315698.jpeg.jpg" data-tags="electronic" role="button">
-Goldfrapp - Supernature (2005-08-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg" data-tags="pop, rnb, rihanna" role="button">
 Rihanna - A Girl Like Me (2006-04-19)
-</li>
-<li data-cover="https://img.discogs.com/UgwxPGEOrH9GitgcjFtKaCQxxMY=/fit-in/600x618/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5401521-1392467332-5098.jpeg.jpg" data-tags="pop" role="button">
-Jessica Simpson - A Public Affair (2006-07-17)
 </li>
 <li data-cover="https://img.discogs.com/xYdBGPQlqc6610poNFiGPw4RnHk=/fit-in/537x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179457-1296356386.jpeg.jpg" data-tags="disco, electropop, pop, indie pop, electroclash, indietronica, discoverockult, makes me move my feets, dance and electronic, robot disco, liner recommends, nice album covers, dancing shoes on, electrofusion, daniels album collection, me time, suppie" role="button">
 Under The Influence of Giants - Under The Influence Of Giants (2006-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2395452-5ff5-3db7-a472-396e9ff994bf/25664690442-500.jpg" data-tags="electro, disco, dance, 00s" role="button">
 Cassius - 15 Again (2006-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/d644af71-93e6-4d49-835a-3e13cd681cee/24225700511-500.jpg" data-tags="pop, 00s, alternative, favouritestreamablealbums" role="button">
+Scissor Sisters - Ta Dah (2006-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
@@ -279,8 +279,11 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
 Holy Ghost! - Holy Ghost! (2011-04-04)
 </li>
-<li data-cover="https://img.discogs.com/gC5Z_lF05pTfmUGVSLh-4sdFtjY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4895496-1378742651-5966.jpeg.jpg" data-tags="disco, electronic, pop, dance, female vocalists, house" role="button">
-Sophie Ellis-Bextor - Make a Scene (2011-04-18)
+<li data-cover="https://img.discogs.com/_my-Nm99tDlCvFGBTKyhGAR_yHo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10471813-1498130631-5231.jpeg.jpg" data-tags="disco, chillout, soul, dance, motown, funk, house, indietronica, 90s, funky, groovy, soulful house, beach house, chic" role="button">
+Crazy P - When We On (2011-09-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/50520c33-49a9-409e-88a1-ae3e10867748/3194910998-500.jpg" data-tags="disco, downtempo, funk, synthpop, alternative dance, space disco, italo disco, neo-psychedelia, nu-disco, jf1" role="button">
+Thieves Like Us - Bleed Bleed Bleed (2012)
 </li>
 <li data-cover="http://coverartarchive.org/release/78aed09d-d348-41a2-a480-1fd860b6011d/1068758549-500.jpg" data-tags="indie electronic, alternative dance, left-field house" role="button">
 Kindness - World, You Need a Change of Mind (2012-03-19)
@@ -317,8 +320,5 @@ Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/527c41b5-78a5-4975-989e-38416f9c976b/7041430564-500.jpg" data-tags="disco, dance, house, funky, disco house" role="button">
 Duck Sauce - Quack (2014-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d5301ae-ffe9-4088-b2b1-37651ca776c8/7469915996-500.jpg" data-tags="disco, electronic, funk, house, indietronica, canadian, synthpop, alternative dance, electro funk, yacht rock, nu disco, electrofunk, albumsiown, vinyl collection, 2014 albums, yacht rock revival" role="button">
-Chromeo - White Women (2014-05-12)
 </li>
 </ol>

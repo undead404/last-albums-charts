@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:10:01.424Z
+date: 2021-04-10T05:00:01.449Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -48,9 +48,6 @@ Max Romeo & The Upsetters - War Ina Babylon (1976)
 <li data-cover="http://coverartarchive.org/release/265eee3a-4911-4b31-9c4d-1c02e5506412/27192834336-500.jpg" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Rastaman Vibration (1976-04-30)
 </li>
-<li data-cover="https://img.discogs.com/4i65CRT_E8YzxbuLI_AS-Zg1mzs=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2526827-1336198334.jpeg.jpg" data-tags="reggae" role="button">
-Bunny Wailer - Blackheart Man (1976-09-08)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Peter Tosh - Equal Rights (1977)
 </li>
@@ -84,11 +81,17 @@ Eek-a-Mouse - Wa-Do-Dem (1981)
 <li data-cover="https://img.discogs.com/CMMqYfn7DjqlcfBcSEDR-GmDKhA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-681174-1147040773.jpeg.jpg" data-tags="reggae" role="button">
 Gregory Isaacs - Night Nurse (1982)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Peter Tosh - Mama Africa (1983)
+</li>
 <li data-cover="http://coverartarchive.org/release/9f3c7fc2-36ef-46c9-b589-66c60df37857/12001414579-500.jpg" data-tags="reggae, roots reggae" role="button">
 Bob Marley & The Wailers - Confrontation (1983-03-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Legend (1984-05-08)
+</li>
+<li data-cover="https://img.discogs.com/N0yLwGB1N62q6L1sBZX0T-eJ_O8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6339568-1416841014-5652.jpeg.jpg" data-tags="jazz, a cappella, vocal, reggae" role="button">
+Bobby McFerrin - Simple Pleasures (1988-08-22)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="reggae" role="button">
 Inner Circle - Bad Boys (1990)
@@ -240,6 +243,9 @@ State Radio - Us Against The Crown (2005-12-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Perfect - Giddimani (2006)
 </li>
+<li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
+The Supervillains - Grow Yer Own (2006)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Matisyahu - Youth (2006)
 </li>
@@ -267,9 +273,6 @@ Gentleman - Another Intensity (2007-08-24)
 <li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">
 Culcha Candela - Culcha Candela (2007-08-31)
 </li>
-<li data-cover="https://img.discogs.com/pb51h1WEIxxEdn8r9qgii2P-SbM=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1050300-1365315769-2069.jpeg.jpg" data-tags="latin" role="button">
-Manu Chao - La Radiolina (2007-09-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae, roots reggae, swedish reggae" role="button">
 Passafire - Submersible (2007-10-01)
 </li>
@@ -284,9 +287,6 @@ Jamal - Urban Discotheque (2008-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/41766637-4e52-4831-be2d-8361c745963f/15054862419-500.jpg" data-tags="reggae, rnb" role="button">
 Shontelle - Shontelligence (2008-11-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/744ae359-3156-4b4a-b0ac-38c3e160b64c/1242688139-500.jpg" data-tags="beatbox, reggae, dub, dubstep" role="button">
-Dub Fx - Everythinks a Ripple (2009)
 </li>
 <li data-cover="https://img.discogs.com/7eqUgWnHqVgWeWO9cepdlyAgXdE=/fit-in/565x565/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-413257-1419282639-3801.jpeg.jpg" data-tags="reggae, soja" role="button">
 SOJA - Born In Babylon (2009-08-25)

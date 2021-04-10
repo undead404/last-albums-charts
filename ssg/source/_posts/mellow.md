@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:19:01.418Z
+date: 2021-04-10T05:16:01.508Z
 title: "mellow: 100 albums you must listen to before you die"
 ---
 ![Damien Rice - O (2002-07-22)](https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg "Damien Rice - O (2002-07-22)")
@@ -285,6 +285,9 @@ Regina Spektor - Far (2009-06-09)
 <li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/456df949-af50-4eaa-9249-dcf608fec488/2362768859-500.jpg" data-tags="indie" role="button">
+Girls - Album (2009-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
@@ -299,9 +302,6 @@ Rumer - Seasons of My Soul (2010-08-23)
 </li>
 <li data-cover="https://img.discogs.com/tHBCQfIg9Ryllp1qJJzjB6GZNJw=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10072260-1491127058-4121.jpeg.jpg" data-tags="alternative, political" role="button">
 PJ Harvey - Let England Shake (2011-02-14)
-</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/2df28d24-51e2-4b2a-85cb-ce4f58fb4d6b/11616367011-500.jpg" data-tags="indie" role="button">
 Blind Pilot - We Are The Tide (2011-09-13)

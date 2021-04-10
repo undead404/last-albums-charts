@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:16:06.851Z
+date: 2021-04-10T05:11:01.414Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Burial - Untrue (2007-11-05)](http://coverartarchive.org/release/715d4a00-2ad5-4882-b1be-24853344315e/2606794745-500.jpg "Burial - Untrue (2007-11-05)")
@@ -45,6 +45,9 @@ Bassnectar - Underground Communication (2007-04-24)
 <li data-cover="http://coverartarchive.org/release/715d4a00-2ad5-4882-b1be-24853344315e/2606794745-500.jpg" data-tags="dubstep" role="button">
 Burial - Untrue (2007-11-05)
 </li>
+<li data-cover="https://img.discogs.com/JuFemSOUd6S9llhZTiYCX3WJznA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1990973-1376919315-7630.jpeg.jpg" data-tags="electronic" role="button">
+Lulu Rouge - Bless You (2008)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Benga - Diary of an Afro Warrior (2008-03-10)
 </li>
@@ -60,8 +63,8 @@ Mimosa - Hostilis (2008-10-11)
 <li data-cover="http://coverartarchive.org/release/3b3d130a-87a8-4a47-b9fb-920f2530d134/17453242726-500.jpg" data-tags="dubstep" role="button">
 Distance - Repercussions (2008-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/744ae359-3156-4b4a-b0ac-38c3e160b64c/1242688139-500.jpg" data-tags="beatbox, reggae, dub, dubstep" role="button">
-Dub Fx - Everythinks a Ripple (2009)
+<li data-cover="http://coverartarchive.org/release/aa1c5fc1-cc8b-4f19-9c8e-fa47d97d77d5/17754393267-500.jpg" data-tags="dubstep, drum and bass" role="button">
+Mistabishi - Drop (2009-02-23)
 </li>
 <li data-cover="https://img.discogs.com/owudar-98-vfYBR5CLz7jLUR5bk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1975057-1446142977-2736.jpeg.jpg" data-tags="dubstep, dancehall, 00's, miami bass, funny as fuck, reggeaton, moombah, weapons and shields, jan 2010" role="button">
 Major Lazer - Guns Don't Kill People... Lazers Do (2009-06-16)
@@ -228,6 +231,9 @@ Sepalcure - Sepalcure (2011-11)
 <li data-cover="http://coverartarchive.org/release/7dc6bfe6-fcac-4e89-b2bf-f5e638e2f665/1812687586-500.jpg" data-tags="dubstep" role="button">
 Blackmill - Miracle (2011-11-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/2cf7c3d7-ce54-46e0-9de7-bb8971ad4618/945797467-500.jpg" data-tags="dubstep, electro" role="button">
+Asking Alexandria - Stepped Up and Scratched (2011-11-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/5fcbe9d4-9428-4de9-89d6-f3173e9e7dc7/19196403181-500.jpg" data-tags="dubstep" role="button">
 Kill the Noise - Kill Kill Kill (2011-11-22)
 </li>
@@ -249,9 +255,6 @@ Enter Shikari - A Flash Flood of Colour (2012-01-13)
 <li data-cover="http://coverartarchive.org/release/a667cbdf-20bd-4e4c-abe1-313b4ef25693/2462427943-500.jpg" data-tags="dubstep, electro house, progressive house, drum & bass" role="button">
 Feed Me - Feed Me's Escape From Electric Mountain (2012-02-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/d0b08b92-285a-45c4-a4f1-0e05192d4656/1068691657-500.jpg" data-tags="dubstep" role="button">
-Rusko - Songs (2012-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/53ab0143-f891-4a38-99c8-53db5bfc4ce8/5892357054-500.jpg" data-tags="electronic" role="button">
 Labrinth - Electronic Earth (2012-04-02)
 </li>
@@ -263,6 +266,9 @@ Bassnectar - Vava Voom (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
 Infected Mushroom - Army of Mushrooms (2012-05-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
+Celldweller - Wish Upon A Blackstar (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
@@ -300,17 +306,11 @@ Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
 <li data-cover="http://coverartarchive.org/release/c8fa92a0-936c-4500-9113-369437c3c8bc/7633530823-500.jpg" data-tags="pop, dance" role="button">
 Selena Gomez - Stars Dance (2013-07-19)
 </li>
-<li data-cover="https://img.discogs.com/I8KJkhh1Y205o8fx29B_Xx-g0Rg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5023308-1382396199-7898.jpeg.jpg" data-tags="dubstep" role="button">
-Krewella - Get Wet (2013-09-20)
-</li>
 <li data-cover="https://img.discogs.com/bzkui0aRuxdOCeus2i__1I1INe8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5001817-1381821314-8290.jpeg.jpg" data-tags="electronic, dubstep, house, electro house, 10s, days of the week, edm, brostep, complextro, food and drink" role="button">
 Feed Me - Calamari Tuesday (2013-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f332dc1-bc91-422d-9f83-a95d0a818d61/17661352244-500.jpg" data-tags="electronic, dubstep, remix" role="button">
 Linkin Park - Recharged (2013-10-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/0104b3b6-167a-4635-8dd4-d421d665da0c/8142238179-500.jpg" data-tags="dubstep, garage, edm, club/dance, jungle/drum'n'bass" role="button">
-Wilkinson - Lazers Not Included (2013-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/09ac1d17-26d5-43b5-88a5-17d0edbad9d5/5922924284-500.jpg" data-tags="future garage" role="button">
 Burial - Rival Dealer (2013-12-11)

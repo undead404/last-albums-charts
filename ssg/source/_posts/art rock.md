@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:58:07.375Z
+date: 2021-04-10T04:45:07.191Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -45,20 +45,11 @@ Van der Graaf Generator - Pawn Hearts (1971-10)
 <li data-cover="https://img.discogs.com/ipi1FURUBo-S6Zw4R6AWF9TadkE=/fit-in/562x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6327265-1416567767-6279.jpeg.jpg" data-tags="progressive rock" role="button">
 King Crimson - Islands (1971-12-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/04490fb2-a861-3db8-a8c6-386d8f9da1dc/2776393252-500.jpg" data-tags="glam rock, 70s" role="button">
-David Bowie - Hunky Dory (1971-12-17)
-</li>
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
 </li>
 <li data-cover="https://img.discogs.com/IkuVyF5le_aG2neyEscSuSPmMXI=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1520895-1225746667.jpeg.jpg" data-tags="progressive rock, classic rock" role="button">
 Wishbone Ash - Argus (1972-04-28)
-</li>
-<li data-cover="https://img.discogs.com/Otf6_JO4GjZMPbv3IFsC-6_a62g=/fit-in/348x506/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5441040-1396312486-9043.jpeg.jpg" data-tags="70s, glam rock" role="button">
-Roxy Music - Roxy Music (1972-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">
-David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b9b5b13-5639-4645-b89b-e5ea555f9a65/7295017114-500.jpg" data-tags="progressive rock" role="button">
 Yes - Close to the Edge (1972-09-13)
@@ -72,11 +63,8 @@ John Cale - Paris 1919 (1973-03)
 <li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
 Lou Reed - Berlin (1973-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/39c0fdbb-730d-4d78-88e3-991adaeabe36/1592123546-500.jpg" data-tags="glam rock, art rock" role="button">
-Brian Eno - Here Come The Warm Jets (1973-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac6a3bdd-4d2e-38e8-ba6e-33cecf128b18/14101003831-500.jpg" data-tags="glam rock, 70s" role="button">
-David Bowie - Diamond Dogs (1974-03)
+<li data-cover="https://img.discogs.com/czqU1jrdapBl3Nyn8TpYMMikluc=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1894116-1341371157-1563.jpeg.jpg" data-tags="progressive rock" role="button">
+Robert Wyatt - Rock Bottom (1974-07-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f33a793-2ca8-47e4-8efe-daa5bd03ff8f/5183196329-500.jpg" data-tags="progressive rock, classic rock" role="button">
 Supertramp - Crime of the Century (1974-09)
@@ -171,6 +159,9 @@ Blondie - Atomic: The Very Best of Blondie (1998-07-13)
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
 </li>
+<li data-cover="https://img.discogs.com/2IA5yrIj8GHvH5q6RKsJmqdUnkc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592559-1336582958-8440.jpeg.jpg" data-tags="experimental, avant-garde, mike patton" role="button">
+Mr. Bungle - California (1999-07-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/e736471c-5ff3-40f2-b825-babd721701ac/15660207415-500.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - The Fragile (1999-09-20)
 </li>
@@ -188,6 +179,9 @@ Silverchair - Diorama (2002-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
+</li>
+<li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
+Mew - Frengers (2003-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
@@ -246,6 +240,9 @@ St. Vincent - Actor (2009-05-04)
 <li data-cover="http://coverartarchive.org/release/bdf30a42-404a-46ec-aa4e-6bc0f3ca519c/4766492813-500.jpg" data-tags="progressive rock" role="button">
 dredg - The Pariah, The Parrot, The Delusion (2009-05-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/3256f5bb-0bb1-4ac4-b581-43803afd0573/18799589016-500.jpg" data-tags="indie rock, rock" role="button">
+Sunset Rubdown - Dragonslayer (2009-06-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/55346c1d-b6fb-4ea3-a6a2-4e6e369249b5/15606813797-500.jpg" data-tags="experimental" role="button">
 These New Puritans - Hidden (2010-01-18)
 </li>
@@ -266,6 +263,9 @@ TV on the Radio - Nine Types of Light (2011-04-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/06cf1f87-7904-4b7b-b8b9-1218ad644f1a/4093050228-500.jpg" data-tags="art rock" role="button">
 Kate Bush - Director's Cut (2011-05-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b851ecb-0355-4663-918b-0354ab88e982/15292116724-500.jpg" data-tags="alternative rock, progressive rock, art rock, trr" role="button">
+Extremoduro - Material Defectuoso (2011-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)

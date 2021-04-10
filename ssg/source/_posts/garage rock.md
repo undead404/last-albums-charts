@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:16:06.865Z
+date: 2021-04-10T05:20:01.440Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -26,6 +26,9 @@ The Sonics - Here Are The Sonics (1965)
 </li>
 <li data-cover="http://coverartarchive.org/release/22862a47-2b63-4364-a00d-d38aa7cef4cd/4087870823-500.jpg" data-tags="garage rock, psychedelic" role="button">
 The Seeds - The Seeds (1966)
+</li>
+<li data-cover="http://coverartarchive.org/release/6d970594-6fa5-48ea-8eab-f0a9500047db/23090516941-500.jpg" data-tags="psychedelic" role="button">
+The Electric Prunes - I Had Too Much To Dream (Last Night) (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/22f5e15f-7214-4caf-a6ce-9f6e0188a817/17000877457-500.jpg" data-tags="garage rock" role="button">
 MC5 - Kick Out the Jams (1969)
@@ -299,9 +302,6 @@ Fuzz - Fuzz (2013-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4a85fb7b-230a-4b90-a99f-2044c3858457/5070223502-500.jpg" data-tags="rock, alternative rock, indie rock" role="button">
 Cage the Elephant - Melophobia (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc4cacb3-962e-4522-a30e-6b428524da61/5591485454-500.jpg" data-tags="soul, alternative rock, indie rock, psychedelic pop, garage rock, blues rock, garage, roots rock, fuck yeah, oh my, southern soul, my gang 13, better than one direction, dig music feature album 2013,  blues,  southern rock,  progressive rock" role="button">
-White Denim - Corsicana Lemonade (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)

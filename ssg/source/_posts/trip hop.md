@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:08:01.389Z
+date: 2021-04-10T05:24:01.406Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -42,9 +42,6 @@ Björk - Post (1995-06-09)
 <li data-cover="http://coverartarchive.org/release/610f72fa-ff57-3414-b390-5852f2a6a397/27376932322-500.jpg" data-tags="electronic, trip-hop, chilled" role="button">
 DJ Krush - Milight (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/17fd0913-2ba6-428c-b7f6-5891f4a63bbd/8130259037-500.jpg" data-tags="japanese, trip hop" role="button">
-Cibo Matto - VIVA! La Woman (1996-01-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/9db51cd6-38f6-3b42-8ad5-559963d68f35/4221404915-500.jpg" data-tags="trip-hop" role="button">
 Morcheeba - Who Can You Trust? (1996-04-08)
 </li>
@@ -86,6 +83,9 @@ Morcheeba - Big Calm (1998-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Mezzanine (1998-04-17)
+</li>
+<li data-cover="https://img.discogs.com/spot0t55s__oigEPpMyWNNAykLk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-137745-1331055053.jpeg.jpg" data-tags="trip-hop" role="button">
+Massive Attack - Teardrop (1998-04-21)
 </li>
 <li data-cover="https://img.discogs.com/Kbzc-pUTQrxLWHcbM20uuukPyfg=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071075-1189923687.jpeg.jpg" data-tags="trip-hop" role="button">
 UNKLE - Psyence Fiction (1998-08-21)
@@ -237,9 +237,6 @@ Thievery Corporation - Radio Retaliation (2008-12-23)
 <li data-cover="https://img.discogs.com/Ij9_-V2V66TXYTqAltb6FwGbUuE=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993183-1505176615-6453.jpeg.jpg" data-tags="trip-hop, progressive rock" role="button">
 Archive - Controlling Crowds (2009-03-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
-Phantogram - Eyelid Movies (2009-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/46e02dda-058d-4226-a356-76b6bfdd5790/3246429137-500.jpg" data-tags="industrial" role="button">
 Puscifer - "C" Is for (Please Insert Sophomoric Genitalia Reference Here) E.P. (2009-11-10)
 </li>
@@ -275,6 +272,9 @@ Lana Del Rey - Born to Die (2012-01-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">
 Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/dfdfb309-1a97-4436-8029-4bce887447f7/1492502467-500.jpg" data-tags="experimental, abstract hip hop" role="button">
+Aesop Rock - Skelethon (2012-07-10)
 </li>
 <li data-cover="https://img.discogs.com/59bXsu33PLTKLLayvOH1aPqAlMg=/fit-in/591x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4023781-1353288266-4410.jpeg.jpg" data-tags="pop, lana del rey" role="button">
 Lana Del Rey - Ride (2012-09-25)

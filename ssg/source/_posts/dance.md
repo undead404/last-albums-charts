@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:22:01.426Z
+date: 2021-04-10T05:04:01.429Z
 title: "dance: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -116,6 +116,9 @@ Justin Timberlake - FutureSex/LoveSounds (2006-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
 Robbie Williams - Rudebox (2006-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ce97f45-a231-351c-b62b-c91d724df165/5408791134-500.jpg" data-tags="pop" role="button">
+Gwen Stefani - The Sweet Escape (2006-12-01)
 </li>
 <li data-cover="https://img.discogs.com/FJRuQ-u_ekJz7axuWvYJow0CTTQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4326266-1508526547-8034.jpeg.jpg" data-tags="pop" role="button">
 Mika - Life in Cartoon Motion (2007-02-05)
@@ -236,9 +239,6 @@ Miley Cyrus - Can't Be Tamed (2010-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/fce53e99-9225-47c1-a421-eaf3ff40ba90/6744503203-500.jpg" data-tags="pop" role="button">
 Kylie Minogue - Aphrodite (2010-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/e372a75f-bdd2-4b79-aa7f-d8433790e3a0/8330724393-500.jpg" data-tags="euphoria, enrique" role="button">
-Enrique Iglesias - Euphoria (2010-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c43043ff-a16d-4c74-a7cb-a278bf4d4c5c/8051913193-500.jpg" data-tags="pop, rihanna" role="button">
 Rihanna - Loud (2010-08-18)

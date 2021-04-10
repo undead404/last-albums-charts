@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:03:01.405Z
+date: 2021-04-10T04:51:01.392Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -7,11 +7,11 @@ title: "industrial rock: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/bQaqm3T9SMQu4NkS3q7IhBOoY3Y=/fit-in/368x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2678560-1407808660-9954.jpeg.jpg" data-tags="industrial" role="button">Nine Inch Nails - Pretty Hate Machine (1989-11-20)</li>
 <li data-cover="http://coverartarchive.org/release/db8289f4-3602-31f6-a59b-3f57a7393908/1154285194-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - Broken (1992-09-21)</li>
 <li data-cover="http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg" data-tags="industrial, industrial rock" role="button">Nine Inch Nails - The Downward Spiral (1994-03-08)</li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">Marilyn Manson - Mechanical Animals (1998-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/e736471c-5ff3-40f2-b825-babd721701ac/15660207415-500.jpg" data-tags="industrial rock" role="button">Nine Inch Nails - The Fragile (1999-09-20)</li>
 <li data-cover="https://img.discogs.com/2UzYQlYbLgX8hEbK9PI_dbBtgz4=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545285-1441756329-4856.jpeg.jpg" data-tags="industrial" role="button">Nine Inch Nails - With Teeth (2005-04-27)</li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">Nine Inch Nails - Year Zero (2007-04-14)</li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">Marilyn Manson - Eat Me, Drink Me (2007-06-01)</li>
+<li data-cover="http://coverartarchive.org/release/0e51fc11-576b-3cfe-97fc-b006d9a90a2d/5307514978-500.jpg" data-tags="industrial, industrial rock, electronic" role="button">The Birthday Massacre - Walking With Strangers (2007-09-10)</li>
 <li data-cover="https://img.discogs.com/e44-Cpih6j4SWQr6_lkbMYyEq58=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2913558-1507813314-3617.png.jpg" data-tags="industrial rock, industrial" role="button">Nine Inch Nails - The Slip (2008-05-05)</li>
 <li data-cover="http://coverartarchive.org/release/a4659f71-2c62-4aa4-813a-b9e2924d8a50/2554039402-500.jpg" data-tags="industrial rock, alternative rock" role="button">Marilyn Manson - The High End Of Low (2009-05-19)</li>
 </ol>
@@ -107,9 +107,6 @@ Stabbing Westward - Darkest Days (1998-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab30776c-8e8b-4554-858b-b0acd7cb74c1/27009518945-500.jpg" data-tags="industrial, industrial rock" role="button">
 Orgy - Candyass (1998-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd7a8945-f7d9-40c3-91a3-35e68f82af13/11162402002-500.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Adios (1999-04-20)
@@ -209,6 +206,9 @@ Mindless Self Indulgence - You'll Rebel To Anything (2005-04-12)
 </li>
 <li data-cover="https://img.discogs.com/2UzYQlYbLgX8hEbK9PI_dbBtgz4=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545285-1441756329-4856.jpeg.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - With Teeth (2005-04-27)
+</li>
+<li data-cover="https://img.discogs.com/rZR1gJ6bW3QUVPXILWNN7u1vWfc=/fit-in/371x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738875-1153754748.jpeg.jpg" data-tags="cyberpunk" role="button">
+Dope Stars Inc. - Neuromance (2005-08-22)
 </li>
 <li data-cover="https://img.discogs.com/_rhWtCaaRWl4b45YL1jr9oAQt_k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15806625-1598148122-3966.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 KMFDM - Hau Ruck (2005-09-13)

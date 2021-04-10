@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:20:07.023Z
+date: 2021-04-10T05:26:01.420Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -26,9 +26,6 @@ Henry Mancini - Breakfast At Tiffany's (1961)
 </li>
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
-</li>
-<li data-cover="https://img.discogs.com/QuHQV7LM6dvPZAnjzVOc77o2UlU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13116777-1548348613-7143.jpeg.jpg" data-tags="soundtrack" role="button">
-Simon & Garfunkel - The Graduate (1968-02)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, 60s" role="button">
 The Beatles - Yellow Submarine (1969-01-13)
@@ -60,6 +57,9 @@ Basil Poledouris - Conan the Barbarian (1982)
 <li data-cover="http://coverartarchive.org/release/8aea6e91-424a-48de-8f72-83d8d6716fff/6868315355-500.jpg" data-tags="soundtrack, ghostbusters, pop" role="button">
 Ray Parker Jr. - Ghostbusters (1984)
 </li>
+<li data-cover="http://coverartarchive.org/release/066d874b-8261-3d7a-8d0e-5923bd5a59dc/2844321267-500.jpg" data-tags="soundtrack" role="button">
+Ry Cooder - Paris, Texas (1985)
+</li>
 <li data-cover="http://coverartarchive.org/release/41bb7cd9-f05f-4df3-a360-5ee2bd931325/12259794502-500.jpg" data-tags="soundtrack, 80s, unique, 1980s, film soundtrack, movie music, akrazia, princeprinceprince" role="button">
 Prince - Parade - Music From The Motion Picture Under The Cherry Moon (1986-03-31)
 </li>
@@ -68,6 +68,9 @@ Queen - A Kind Of Magic (1986-06-02)
 </li>
 <li data-cover="https://img.discogs.com/F654PH-V0T2HKRiFwpsL4eyYF2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182988-1162275487.jpeg.jpg" data-tags="soundtrack, miami vice" role="button">
 Jan Hammer - Escape From Television (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/256007d2-4ac6-45ba-8053-e3e497cfd66c/2839903465-500.jpg" data-tags="soundtrack" role="button">
+Prince - Batman (1989-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/120f31f2-923a-37f7-ad9e-9f0f2eb0cc5e/24068894402-500.jpg" data-tags="instrumental, soundtrack" role="button">
 Vangelis - Themes (1989-09-01)
@@ -117,9 +120,6 @@ Aerosmith - Armageddon (1998-07-29)
 <li data-cover="https://img.discogs.com/dTHgcizVpZSd0ruVNUP4Dh83Hsc=/fit-in/600x244/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1930078-1432339957-5255.jpeg.jpg" data-tags="soundtrack" role="button">
 Aerosmith - I Don't Want to Miss a Thing (1998-07-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/4384b7ba-b7ab-3ffe-96a0-409d9128ce02/5874879149-500.jpg" data-tags="soundtrack, minimalism" role="button">
-Philip Glass - Koyaanisqatsi (1998-10-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/c2b99ec3-2761-4874-bd22-8890ef358119/3128751725-500.jpg" data-tags="soundtrack, post-hardcore" role="button">
 Fugazi - Instrument Soundtrack (1999-03-23)
 </li>
@@ -165,6 +165,9 @@ Howard Shore - The Lord of the Rings: The Fellowship of the Ring (2001-11-20)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="soundtrack" role="button">
 Badly Drawn Boy - About a Boy (2002-04-08)
 </li>
+<li data-cover="https://img.discogs.com/jZKJf7utSKWc2tg4HcHjtcXZV0E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122-1141653211.jpeg.jpg" data-tags="soundtrack" role="button">
+Various Artists - 8 Mile (2002-04-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
 </li>
@@ -173,9 +176,6 @@ Bryan Adams - Spirit: Stallion Of The Cimarron (2002-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0112d2f1-f978-461e-b92f-8c9a31462d11/2572749895-500.jpg" data-tags="soundtrack" role="button">
 John Murphy - 28 Days Later (2002-11-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/804ece5f-aabc-4d96-884e-9b1360aa22db/3246853878-500.jpg" data-tags="soundtrack" role="button">
-Philip Glass - The Hours (2002-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c10f248d-de57-48c6-884e-6a8b1d3eaf83/6109068027-500.jpg" data-tags="soundtrack" role="button">
 Howard Shore - The Lord of the Rings: The Two Towers (2002-12-10)
@@ -237,6 +237,9 @@ Hans Zimmer - Pirates of the Caribbean: At World's End (2007-05-21)
 <li data-cover="http://coverartarchive.org/release/38102be2-fb5d-4dca-bae3-e9586c5bb8a9/9163744995-500.jpg" data-tags="soundtrack" role="button">
 John Powell - The Bourne Ultimatum (2007-07-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/15ad26f8-465a-37e2-b201-f8fd1d5fa48b/19388240200-500.jpg" data-tags="hard rock" role="button">
+Sixx:A.M. - The Heroin Diaries Soundtrack (2007-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/683bf534-5ce1-4818-be2d-38ddcd864eb3/7196832280-500.jpg" data-tags="soundtrack" role="button">
 Eddie Vedder - Into the Wild (2007-09-14)
 </li>
@@ -270,14 +273,14 @@ Karen O and the Kids - Where The Wild Things Are (2009-09-28)
 <li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
 Glee Cast - Glee: The Music, Volume 1 (2009-11-03)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
+Glee Cast - Glee: The Music, Volume 2 (2009-12-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/1da05321-a8ba-436e-a1a6-98822ea28e94/23564387481-500.jpg" data-tags="soundtrack, hard rock" role="button">
 AC/DC - Iron Man 2 (2010-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc77999c-ebb4-4ad0-a8d4-8a3aa503eaaa/5502447388-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - Inception (2010-07-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/998e28f9-ed94-4de1-af8e-8dc544c1ab31/10072281735-500.jpg" data-tags="soundtrack" role="button">
-Trent Reznor and Atticus Ross - The Social Network (2010-09-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/6259795c-b80b-4b8c-aeff-26339437c4ba/25392360373-500.jpg" data-tags="glee" role="button">
 Glee Cast - Glee: The Music, Volume 4 (2010-11-30)
@@ -314,9 +317,6 @@ Mogwai - Les Revenants (2013-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8440d67b-e5f6-4836-8496-fa3c8f207ea5/5344526170-500.jpg" data-tags="soundtrack" role="button">
 Gustavo Santaolalla - The Last of Us (2013-06-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/344282ce-0786-4850-8da7-395e486098ae/9102112221-500.jpg" data-tags="soundtrack" role="button">
-Darren Korb - Transistor Original Soundtrack (2014-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/23b00a21-b663-4647-ab49-68f694d40776/8324756218-500.jpg" data-tags="soundtrack, pop, ballad, movie, adam levine" role="button">
 Adam Levine - Lost Stars (2014-07-01)

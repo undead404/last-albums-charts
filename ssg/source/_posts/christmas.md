@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:50:01.442Z
+date: 2021-04-10T05:06:01.402Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
@@ -86,6 +86,9 @@ Bing Crosby - White Christmas (1977-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/64b70335-8be0-4832-af41-99cd1517bb4c/4264678579-500.jpg" data-tags="christmas" role="button">
 Carpenters - Christmas Portrait (1978-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/be764a48-83f3-4de2-a68e-7692b47c0f77/25801878656-500.jpg" data-tags="christmas, xmas" role="button">
+Elmo & Patsy - Grandma Got Run Over By A Reindeer (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/817db1fb-c7d4-4e20-9297-ebb49dbe13eb/9553263290-500.jpg" data-tags="solo piano" role="button">
 George Winston - December (1982)
@@ -245,9 +248,6 @@ Sting - If On A Winter's Night (2009-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a128c8-9d86-3fbd-8aca-9f66226b7687/5726973508-500.jpg" data-tags="christmas" role="button">
 Bob Dylan - Christmas In The Heart (2009-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/140fb0d5-2f68-4fe6-a12e-ff5feb790a80/2576250976-500.jpg" data-tags="christmas" role="button">
-Tori Amos - Midwinter Graces (2009-11-10)
 </li>
 <li data-cover="https://img.discogs.com/r9YimVnhiB61Je11nSbF0H8Ve5c=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10111244-1491808535-3174.jpeg.jpg" data-tags="christmas" role="button">
 Mariah Carey - Merry Christmas II You (2010-11-02)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:18:01.414Z
+date: 2021-04-10T05:42:01.421Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/2b5ecc67-95dd-412f-9b1b-4ff7a7dd2d35/18378592123-500.jpg" data-tags="pop rock" role="button">
-Carly Simon - No Secrets (1972)
-</li>
 <li data-cover="http://coverartarchive.org/release/8fd04967-5165-4b76-943d-4f03e53eae4b/2971807601-500.jpg" data-tags="70s, classic rock" role="button">
 Elton John - Goodbye Yellow Brick Road (1973-10-05)
 </li>
@@ -47,6 +44,9 @@ Nine Days - The Madding Crowd (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac2bebbe-07a6-40f5-85b1-48872975741d/4606563596-500.jpg" data-tags="rock" role="button">
+The Calling - Camino Palmero (2001-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)

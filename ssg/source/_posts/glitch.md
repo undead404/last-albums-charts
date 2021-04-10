@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:48:01.421Z
+date: 2021-04-10T05:15:01.473Z
 title: "glitch: 100 albums you must listen to before you die"
 ---
 ![The Glitch Mob - Drink the Sea (2010-05-25)](http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg "The Glitch Mob - Drink the Sea (2010-05-25)")
@@ -51,9 +51,6 @@ múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 <li data-cover="http://coverartarchive.org/release/d6e0508a-98ee-4b11-86e3-951d8ef77480/19860844363-500.jpg" data-tags="electronica, experimental, minimal, glitch, basic channel, luomo, uusitalo, vladislav delay, nice nait, swayzak, moje nice, vladel" role="button">
 Uusitalo - Vapaa muurari (2000-10-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a0f094c-d000-4b5c-be75-9b21b239f500/4855545791-500.jpg" data-tags="electronic, ambient, japanese, experimental, glitch" role="button">
-World's End Girlfriend - ending story (2000-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/bd48ced5-49ae-4bf9-9cab-f5e0d7bea395/17569790398-500.jpg" data-tags="electronic, glitch, basic channel, sleep, 00s, mille plateaux, over twenty minutes, why why why are you so good, emusic saved for later, 2000-luvun elektroniset klassikot" role="button">
 Vladislav Delay - Anima (2001-01-23)
 </li>
@@ -63,17 +60,23 @@ Chris Clark - Clarence Park (2001-04-02)
 <li data-cover="http://coverartarchive.org/release/5c83d579-c302-30fa-93c5-1a2c7144bd3a/7890623689-500.jpg" data-tags="idm" role="button">
 Autechre - Confield (2001-04-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/b77ffbc9-85c2-353a-aaf3-2696f165adbe/8227879787-500.jpg" data-tags="electronic" role="button">
+Prefuse 73 - Vocal Studies + Uprock Narratives (2001-05-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/36427a64-ec18-4742-9356-c2e74ade62c4/21148358115-500.jpg" data-tags="ambient, experimental, glitch" role="button">
 Fennesz - Endless Summer (2001-06-26)
+</li>
+<li data-cover="https://img.discogs.com/ZYhtAnezqTxBMGgrrDKl8vggA1U=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1293344-1444252553-2470.jpeg.jpg" data-tags="glitch, experimental" role="button">
+Alva Noto - Transform (2001-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/dab7d7c9-2830-4acc-9534-72dbf1f022eb/2655230441-500.jpg" data-tags="electronic" role="button">
 Sufjan Stevens - Enjoy Your Rabbit (2001-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/77b7f962-a391-4af6-a570-0e74159fcb1d/18808524977-500.jpg" data-tags="idm" role="button">
+Telefon Tel Aviv - Fahrenheit Fair Enough (2001-09-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/d8435025-4b43-4da9-bd8d-ad37748e0acf/13114830432-500.jpg" data-tags="minimal" role="button">
 Alva Noto + Ryuichi Sakamoto - Vrioon (2002-12-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/444bf23a-1808-4b24-85f5-be36c440a296/17571311348-500.jpg" data-tags="ambient, drone" role="button">
-Tim Hecker - Radio Amor (2003-03-25)
 </li>
 <li data-cover="https://img.discogs.com/Re_vK0Y1JKoHs58TsP-e8MG5KlI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10835797-1505080162-4561.jpeg.jpg" data-tags="idm" role="button">
 Autechre - Draft 7.30 (2003-04-07)
@@ -105,14 +108,14 @@ Venetian Snares - Huge Chrome Cylinder Box Unfolding (2004-06-11)
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/9ebe5dbf-c5c8-4a3b-b064-c4aa9bd73cbb/1892845713-500.jpg" data-tags="electronic, ambient, experimental, usa, minimal, glitch" role="button">
+Shuttle358 - Chessa (2004-12-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f568e8c-626d-45a6-95c2-10b2de564239/6456816413-500.jpg" data-tags="glitch" role="button">
 Ryoji Ikeda - Dataplex (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/2617e49c-afa6-4a3c-a753-60a2138797c4/2563521384-500.jpg" data-tags="hip hop, idm" role="button">
 Prefuse 73 - Surrounded by Silence (2005-03-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/c1c6fd72-ca46-496e-9688-a8891bc9aca5/13252083985-500.jpg" data-tags="ambient, electronica" role="button">
-Alva Noto + Ryuichi Sakamoto - Insen (2005-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9537e3a9-567f-445b-ad4c-145b282764de/6484407423-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Kirlian Selections (2005-04-05)
@@ -132,8 +135,14 @@ Jackson and His Computer Band - Smash (2005-09-19)
 <li data-cover="http://coverartarchive.org/release/a41e4735-76af-4ee3-aa0f-1d12eda2bf25/2737978532-500.jpg" data-tags="post-rock" role="button">
 65daysofstatic - One Time for All Time (2005-10-24)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic" role="button">
+Metronomy - Pip Paine (Pay The £5000 You Owe) (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/adff4c98-9914-4715-a675-9b61de4bd294/11700606085-500.jpg" data-tags="ambient" role="button">
 BT - This Binary Universe (2006-08-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/be3ee5d2-98ff-46af-bf7f-b5aafc2dbcee/5303829713-500.jpg" data-tags="idm, electronic" role="button">
+Clark - Body Riddle (2006-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
@@ -164,9 +173,6 @@ Mimosa - Hostilis (2008-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1fdc581-6f03-46a1-ac5a-cc18dfff1374/5428348641-500.jpg" data-tags="glitch-hop" role="button">
 Kraddy - Android Porn / Steppin' Razor - Single (2008-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/464754ba-f0f7-42f0-9113-696bab1c6b18/14633076697-500.jpg" data-tags="ambient" role="button">
-Fennesz - Black Sea (2008-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
 Justice - A Cross The Universe (2008-11-24)
@@ -201,6 +207,9 @@ BT - These Hopeful Machines (2010-01-31)
 <li data-cover="https://img.discogs.com/BeOJW2lLMm85jFxab4MCqNwSkfU=/fit-in/600x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2192232-1269004584.jpeg.jpg" data-tags="idm" role="button">
 Autechre - Oversteps (2010-02-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5d18496-c4a1-46ad-8219-452798ed3f58/3972240476-500.jpg" data-tags="ambient" role="button">
+Loscil - Endless Falls (2010-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/f3a962e3-0c46-4c3a-aeb9-a8efa29b4d51/1766802436-500.jpg" data-tags="electronic" role="button">
 Pretty Lights - Making Up a Changing Mind (2010-03-02)
 </li>
@@ -234,9 +243,6 @@ OPIUO - Slurp And Giggle (2010-07-01)
 <li data-cover="http://coverartarchive.org/release/c90ec1ef-cdaf-3b2c-b8eb-a823514e1757/4644031052-500.jpg" data-tags="dubstep, ambient" role="button">
 Mount Kimbie - Crooks & Lovers (2010-07-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/66450c0a-f538-3a84-ab0a-3b486b7b25a0/9747625803-500.jpg" data-tags="idm" role="button">
-Gold Panda - Lucky Shiner (2010-09-07)
-</li>
 <li data-cover="https://img.discogs.com/egaaPeRB9-npRc_5YD_ZhkGIp0E=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455773-1388689574-3577.jpeg.jpg" data-tags="dubstep" role="button">
 Beats Antique - Blind Threshold (2010-09-14)
 </li>
@@ -245,9 +251,6 @@ Mimosa - Silver Lining (2010-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/58735be6-4372-4191-8fe0-f49cb2442456/3596366369-500.jpg" data-tags="electronic" role="button">
 Pretty Lights - Glowing In The Darkest Night (2010-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/42e7831c-d414-438e-9343-80c5c21e79ea/4364264319-500.jpg" data-tags="instrumental hip-hop" role="button">
-Clams Casino - Instrumentals (2011-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a74bf01b-a7ed-44dd-afe9-33a15410d135/5181602986-500.jpg" data-tags="glitch" role="button">
 Seekae - +Dome (2011-03-25)
@@ -266,9 +269,6 @@ Robot Koch - The Other Side (2011-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/123de29d-4e0e-481a-9152-cde92e8e031c/4560186522-500.jpg" data-tags="glitch hop" role="button">
 KOAN Sound - Funk Blaster (2011-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/8c4297a3-0f5e-460a-b809-119a86097fcb/5370281904-500.jpg" data-tags="electronic" role="button">
-El Huervo - Do Not Lay Waste To Homes... (2012-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7d834cb-040a-48ca-8dbc-298d8cee2183/1553355103-500.jpg" data-tags="hip hop, dubstep, glitch, drum n bass, time, electronic superhighway, owsla" role="button">
 Birdy Nam Nam - Jaded Future EP (2012-07-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:45:01.697Z
+date: 2021-04-10T05:31:06.880Z
 title: "electronic rock: 100 albums you must listen to before you die"
 ---
 ![Awolnation - Megalithic Symphony (2011-03-15)](http://coverartarchive.org/release/005a30f8-13e9-4d90-a48f-2a6647fcdb0c/11356969125-500.jpg "Awolnation - Megalithic Symphony (2011-03-15)")
@@ -36,23 +36,26 @@ Jean Michel Jarre - Magnetic Fields (1981-05-22)
 <li data-cover="http://coverartarchive.org/release/ae5397d7-e758-4d53-a46f-d2def9c92fcb/11912984799-500.jpg" data-tags="80s, new wave" role="button">
 Bronski Beat - The Age of Consent (1984)
 </li>
+<li data-cover="https://img.discogs.com/v4UGajqzHWsZSyHZGbTqJ0wFlQo=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13876365-1563109546-8393.jpeg.jpg" data-tags="electronic" role="button">
+Jean Michel Jarre - Zoolook (1984)
+</li>
 <li data-cover="http://coverartarchive.org/release/d81eed84-88b5-4a32-95ca-4d858c38b16a/4665702075-500.jpg" data-tags="electronic" role="button">
 Apollo 440 - Millennium Fever (1994-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/c6bee5c2-f5b2-3339-ab89-a13f7d7c1f41/13753506399-500.jpg" data-tags="female vocalists, indie rock, 90s, pop-rock" role="button">
+Republica - Republica (1996-07-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6da3c2e5-cfe5-458f-a202-8d4dc6473981/13803321396-500.jpg" data-tags="electronic" role="button">
 Apollo 440 - Electro Glide In Blue (1997-02-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
+<li data-cover="http://coverartarchive.org/release/c5a908ac-d628-4b53-83b9-c0f6a282d028/17537115760-500.jpg" data-tags="industrial, industrial rock, industrial metal" role="button">
+Pitchshifter - www.pitchshifter.com (1998-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0caa32f8-85be-339f-ade9-d2ce32a6a1f7/5995318726-500.jpg" data-tags="90s, rock, alternative" role="button">
 Garbage - Version 2.0 (1998-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab30776c-8e8b-4554-858b-b0acd7cb74c1/27009518945-500.jpg" data-tags="industrial, industrial rock" role="button">
 Orgy - Candyass (1998-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">
-Marilyn Manson - Mechanical Animals (1998-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
@@ -99,6 +102,9 @@ The Faint - Wet From Birth (2004-09-04)
 <li data-cover="http://coverartarchive.org/release/9c02dc5c-6725-314b-a5d1-b6097ff0c6ce/13716662046-500.jpg" data-tags="electronic, house" role="button">
 Daft Punk - Human After All (2005-03-09)
 </li>
+<li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
+Kate Havnevik - Melankton (2006-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
 Muse - Black Holes & Revelations (2006-06-28)
 </li>
@@ -114,17 +120,11 @@ Good Charlotte - Good Morning Revival (2007-03-14)
 <li data-cover="http://coverartarchive.org/release/09b6385e-472c-3037-8867-3aa4cd86d84a/4406297639-500.jpg" data-tags="electro" role="button">
 Black Strobe - Burn Your Own Church (2007-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/a278e457-bf21-489c-9c06-02ca8fb60343/3098115173-500.jpg" data-tags="gothic metal, symphonic metal, female fronted metal, nemesea" role="button">
-Nemesea - In Control (2007-06-21)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
 Klaxons - It's Not Over Yet (2007-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5f7d155-695d-4a0e-a384-6c1fddb7dbee/9472199885-500.jpg" data-tags="electronic pop, electronic rock, pop rock alternativo, descubierto en 2013, discovered in 2013, facto delafe y las flores azules" role="button">
 Facto delafé y las flores azules - La luz de la mañana (2007-10-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/45ad92a5-5e62-40d5-ac94-f31865c312ef/15648453076-500.jpg" data-tags="depeche mode, electronic" role="button">
-Dave Gahan - Hourglass (2007-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/95582db6-a82d-48e2-9e2a-5c7e4753e6ec/5956871605-500.jpg" data-tags="industrial, electronic" role="button">
 Blue Stahli - Antisleep Vol. 01 (2008)
@@ -183,8 +183,8 @@ Linkin Park - A Thousand Suns (2010-09-08)
 <li data-cover="https://img.discogs.com/Iugg7vm8-5jEl5QKHr6tDtvYxpI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2494901-1399047156-6163.jpeg.jpg" data-tags="4 me, aggro synthpop" role="button">
 Suuns - Zeroes QC (2010-10-12)
 </li>
-<li data-cover="https://img.discogs.com/BmSVv2To___mOLq7WviCbbYBWs0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506826-1287774795.jpeg.jpg" data-tags="experimental" role="button">
-Avey Tare - Down There (2010-10-26)
+<li data-cover="https://img.discogs.com/Smab0rHJyMWYmaulLuMDPaBSPjY=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2500444-1497387809-9706.jpeg.jpg" data-tags="electronic" role="button">
+Pure Reason Revolution - Hammer And Anvil (2010-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec6b20dc-8165-44b3-8fb4-fc3c8e54c6dd/2589776232-500.jpg" data-tags="electronic" role="button">
 I Blame Coco - The Constant (2010-11-08)
@@ -258,20 +258,20 @@ Serj Tankian - Harakiri (2012-07-02)
 <li data-cover="http://coverartarchive.org/release/e9abd378-bb2c-4c66-af8a-ffef8e9d0a59/1924752901-500.jpg" data-tags="indie, indie rock" role="button">
 Two Door Cinema Club - Beacon (2012-08-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
+In This Moment - Blood (2012-08-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/1df96417-e066-4b6c-b436-e44508fa40c4/22299675586-500.jpg" data-tags="alternative rock" role="button">
-Papa Roach - The Connection (2012-10-01)
+<li data-cover="http://coverartarchive.org/release/3b2426c4-bf0b-48bc-9a73-160f42c1003f/2859176153-500.jpg" data-tags="electronic, dubstep, industrial, industrial rock, electronic rock" role="button">
+Blue Stahli - Antisleep Vol. 03 (2012-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/994546f3-b9f6-459b-8a6c-76333b476067/7153579947-500.jpg" data-tags="indie, alternative, indie rock" role="button">
 Bastille - All This Bad Blood (2013-03-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/c71f1cfe-9a7a-4177-9f63-9613a8d08890/6796660059-500.jpg" data-tags="electronica, indie, alternative, alternative rock, indie rock, post-rock, uk, 10s, electronic rock, 2013 releases, psb, merkliste, my gang 13, post-dance edu-rock" role="button">
-Public Service Broadcasting - Inform - Educate - Entertain (2013-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/efb5dd61-f5ea-4b24-b5d9-2db78ff449b7/4400428039-500.jpg" data-tags="alternative rock" role="button">
 30 Seconds to Mars - Love Lust Faith + Dreams (2013-05-16)

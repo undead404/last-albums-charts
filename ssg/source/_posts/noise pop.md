@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:04:01.529Z
+date: 2021-04-10T04:59:01.400Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -33,9 +33,6 @@ Pixies - Come On Pilgrim (1987-10)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 80s" role="button">
 The Jesus and Mary Chain - Darklands (1987-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/b4640f48-b94f-4307-ae9e-4545261c08cf/16656065368-500.jpg" data-tags="shoegaze" role="button">
-My Bloody Valentine - Isn't Anything (1988-11-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/b8d680ee-f1b4-32f4-8981-82db7d3371e2/8064469787-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Doolittle (1989-04-17)
 </li>
@@ -44,9 +41,6 @@ The Wedding Present - Bizarro (1989-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3cbadb4-f6b2-41f7-a5b2-9928de267a41/7894193488-500.jpg" data-tags="alternative rock, alternative" role="button">
 The Jesus and Mary Chain - Automatic (1989-10-09)
-</li>
-<li data-cover="https://img.discogs.com/mro9csORFaH4V4TMQ87eA1nxn0g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-396772-1189778416.jpeg.jpg" data-tags="indie, indie pop, dream pop, jangle pop, noise pop" role="button">
-The House of Love - The House of Love (1990-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
 Mercury Rev - Yerself Is Steam (1991)
@@ -71,9 +65,6 @@ The Jesus and Mary Chain - Honey's Dead (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ab37e32-c5a9-3f35-bf89-5aaf0cad3476/8923091701-500.jpg" data-tags="indie rock" role="button">
 Pavement - Slanted and Enchanted (1992-04-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9e12c08-3e5f-43bf-99c2-4013dddd652c/2878501959-500.jpg" data-tags="shoegaze, noise pop, post-rock, 90s" role="button">
-Stereolab - Peng! (1992-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
 The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
@@ -114,9 +105,6 @@ Black Tambourine - Complete Recordings (1999-04-27)
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
-<li data-cover="https://img.discogs.com/WT1wu71Vs82Vi4OEtAxWvSrG7zc=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640555-1491711277-5335.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
-Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Modest Mouse - The Moon & Antarctica (2000-06-13)
 </li>
@@ -132,17 +120,29 @@ The Raveonettes - Chain Gang of Love (2003-07-24)
 <li data-cover="https://img.discogs.com/BIFFlFcgE_WXsUFm1iEBDRLvtko=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460634-1602939219-3786.jpeg.jpg" data-tags="rock, indie rock, igneoustempest" role="button">
 Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 </li>
+<li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
+The Raveonettes - Pretty in Black (2005-05-03)
+</li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="shoegazegdchill, american i like, gdchills00s" role="button">
 Yo La Tengo - I Am Not Afraid Of You And I Will Beat Your Ass (2006-09-08)
 </li>
-<li data-cover="https://img.discogs.com/yyEJnDmsAgi2MtnxbEkNB6F0qCs=/fit-in/597x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477527-1363988511-9599.jpeg.jpg" data-tags="indie, indie rock" role="button">
-Deerhoof - Friend Opportunity (2007-01-22)
+<li data-cover="https://img.discogs.com/qc4oRu1Tl0MLXyV8IwWDZ7riIyY=/fit-in/599x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477532-1363987980-7174.jpeg.jpg" data-tags="experimental" role="button">
+Xiu Xiu - The Air Force (2006-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/eecea632-0a7a-4c60-90ce-aafb63dfbf6a/25155649526-500.jpg" data-tags="shoegaze" role="button">
+LSD and the Search for God - LSD and the Search For God (2007-01-16)
 </li>
 <li data-cover="https://img.discogs.com/saGNTUoD6nn7SCpedyiGOSDRj3E=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11628437-1524681027-9736.jpeg.jpg" data-tags="noise pop" role="button">
 Triángulo de amor bizarro - Triángulo de Amor Bizarro (2007-02-19)
 </li>
+<li data-cover="https://img.discogs.com/SiOsamaHdY52PfyntNUUufPjliw=/fit-in/326x355/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12569322-1538219287-6141.jpeg.jpg" data-tags="indie, noise pop" role="button">
+Los Planetas - La Leyenda Del Espacio (2007-04-10)
+</li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie, rock, indie rock" role="button">
 Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
+</li>
+<li data-cover="https://img.discogs.com/2Bxxw50aJOWA5ZV6hTZMB9dMRL4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-995511-1553564718-4840.jpeg.jpg" data-tags="indie rock" role="button">
+Frog Eyes - Tears Of The Valedictorian (2007-05-01)
 </li>
 <li data-cover="https://img.discogs.com/VZlzejrrxZQ4j4-hTLJo-cmqpUk=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039866-1267920531.jpeg.jpg" data-tags="shoegaze" role="button">
 A Place to Bury Strangers - A Place To Bury Strangers (2007-08-13)
@@ -156,8 +156,8 @@ Liars - Liars (2007-08-20)
 <li data-cover="http://coverartarchive.org/release/5e883ea3-d5f7-4854-80a2-8b6811e594cd/22248133603-500.jpg" data-tags="rock, funk, noise pop, funky, groovy, trip, jecks, noise-fi, in queue no tracks" role="button">
 Wavves - Wavves (2007-12-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/ac31ff65-b758-403f-84fe-2ccd915a9906/3000559093-500.jpg" data-tags="indie pop, noise pop" role="button">
-The Magnetic Fields - Distortion (2008-01-15)
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie rock" role="button">
+Be Your Own Pet - Get Awkward (2008-03-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">
 No Age - Nouns (2008-05-06)
@@ -222,9 +222,6 @@ Wavves - King Of The Beach (2010-08-02)
 <li data-cover="https://img.discogs.com/O34LJMVekZydSJb7azCZDXQaOsE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438121-1285369163.jpeg.jpg" data-tags="indie rock, post-punk, shoegaze, jagjaguwar" role="button">
 Women - Public Strain (2010-08-23)
 </li>
-<li data-cover="https://img.discogs.com/uzzLYH2sg4bW8C-a42e0sHf5WMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440274-1284186706.jpeg.jpg" data-tags="indie pop" role="button">
-The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
-</li>
 <li data-cover="https://img.discogs.com/SGZbj4273RmyEdnzM36M9_oBbxE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2384634-1437499694-9597.jpeg.jpg" data-tags="noise pop, shoegaze" role="button">
 Crocodiles - Sleep Forever (2010-09-13)
 </li>
@@ -246,6 +243,9 @@ Yuck - Yuck (2011-02-15)
 <li data-cover="http://coverartarchive.org/release/d29c2481-a2bb-4c85-883f-85fb54659ba3/10425432633-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Pains of Being Pure at Heart - Belong (2011-03-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/de40e527-f136-4cf8-9552-9f6735db096d/13182773454-500.jpg" data-tags="noise pop" role="button">
+Car Seat Headrest - My Back Is Killing Me Baby (2011-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/05bbf29b-b71a-4e55-a2d2-1eb01f7d1339/9390366569-500.jpg" data-tags="electronic, indie, indie rock, shoegaze, noise pop" role="button">
 The Raveonettes - Raven in the Grave (2011-04-04)
 </li>
@@ -257,6 +257,9 @@ tUnE-yArDs - w h o k i l l (2011-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/abe3ba47-e9e2-406a-9ee0-5a9c7d06640d/11278649860-500.jpg" data-tags="noise pop" role="button">
 Boris - Attention Please (2011-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a96e634-64ab-4113-90db-6a9b4f4d901f/27979093409-500.jpg" data-tags="electronica, trip hop" role="button">
+Dye - Taki 183 (2011-06-27)
 </li>
 <li data-cover="https://img.discogs.com/-BR4yY32Gdk7o4SF5Ha0Wvj9gp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3020807-1318528929.jpeg.jpg" data-tags="dream pop" role="button">
 Youth Lagoon - The Year of Hibernation (2011-09-26)
@@ -311,9 +314,6 @@ The Chain Gang of 1974 - Daydream Forever (2014-01-28)
 </li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - St. Vincent (2014-02-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6fadf39-4dae-4ef5-a4fd-b9cf5272534e/8684765155-500.jpg" data-tags="chillout, electronic, electronica, indie, alternative, indie pop, dubstep, dance, new wave, dance-pop, psychedelic pop, indietronica, trip hop, noise pop, dream pop, synthpop, alternative pop, alternative dance, trap, chillwave, neo-psychedelia, bubblegum pop, post-dubstep, art pop, urban pop, intelligent dance, idm pop" role="button">
-Slow Magic - How To Run Away (2014-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9324ae76-d5f2-4220-bd2f-7f7cad86d532/8816004106-500.jpg" data-tags="noise pop, julian casablancas, tyranny, cult records, the voidz" role="button">
 Julian Casablancas + The Voidz - Tyranny (2014-09-23)

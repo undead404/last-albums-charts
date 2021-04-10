@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:39:01.451Z
+date: 2021-04-10T05:43:01.451Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -204,6 +204,9 @@ Gnarls Barkley - The Odd Couple (2008-03-18)
 <li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
 Estelle - Shine (2008-03-31)
 </li>
+<li data-cover="https://img.discogs.com/iCEWQF2PnDjvsJWGwAw8vH5R6ZE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057789-1261411597.jpeg.jpg" data-tags="soul" role="button">
+John Legend - Evolver (2008-10-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/d516efe5-0edf-336e-acf8-fc6b5f17048b/9450749917-500.jpg" data-tags="rnb, pop, beyonce" role="button">
 Beyoncé - I Am... Sasha Fierce (2008-11-17)
 </li>
@@ -254,9 +257,6 @@ Beyoncé - 4 (2011-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/157f27fb-7f7f-4ea9-9674-fd84ed9db612/5113102481-500.jpg" data-tags="soul" role="button">
-Amy Winehouse - Lioness: Hidden Treasures (2011-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4bef32f-aab1-4b98-a85c-2b122ca93134/4150263402-500.jpg" data-tags="soul" role="button">
 Emeli Sandé - Our Version of Events (2012-02-10)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:18:01.409Z
+date: 2021-04-10T05:14:01.417Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -83,9 +83,6 @@ Dead Can Dance - Within the Realm of a Dying Sun (1987-07-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/da754b66-e53f-4de6-b76b-78865fcd5a2f/14564374105-500.jpg" data-tags="gothic rock" role="button">
 The Sisters of Mercy - Floodland (1987-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/1a3dab35-b315-4916-b09c-7da62d39d6ef/7610227207-500.jpg" data-tags="gothic rock" role="button">
-Fields of the Nephilim - The Nephilim (1988-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
@@ -237,8 +234,8 @@ The Birthday Massacre - Violet (2004-07)
 <li data-cover="http://coverartarchive.org/release/844dba59-e6fd-4da8-b024-8b8dcb9d11ec/15850705428-500.jpg" data-tags="gothic metal, female fronted metal" role="button">
 Elis - Dark Clouds in a Perfect Sky (2004-10-04)
 </li>
-<li data-cover="https://img.discogs.com/Z5gcGJPTwrTliMRhjgGFjuSNitc=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2970780-1379532440-8207.jpeg.jpg" data-tags="gothic rock" role="button">
-The 69 Eyes - Devils (2004-10-22)
+<li data-cover="http://coverartarchive.org/release/b1fe6e54-f51f-4132-a992-bd8fb79fc5c6/1069186321-500.jpg" data-tags="gothic metal, symphonic metal" role="button">
+Sirenia - Sirenian Shores (2004-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
@@ -278,6 +275,9 @@ Evanescence - The Open Door (2006-09-25)
 </li>
 <li data-cover="https://img.discogs.com/-VFw6TC4whnLtPwVFicpMIyVN-8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1227342-1202121963.jpeg.jpg" data-tags="gothic, darkwave" role="button">
 Creature Feature - The Greatest Show Unearthed (2007-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8714024-d814-491e-8a21-c1cfe29a13fb/14843874387-500.jpg" data-tags="darkwave, gothic, neoclassical" role="button">
+Sopor Aeternus & The Ensemble of Shadows - Les Fleurs du Mal (2007-04-13)
 </li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
