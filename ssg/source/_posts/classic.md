@@ -1,12 +1,12 @@
 ---
-date: 2021-04-10T03:05:07.507Z
+date: 2021-04-10T11:53:01.556Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
 <ol class="albums">
+<li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
 <li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">The Clash - London Calling (1979-12-14)</li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">Nas - Illmatic (1994-04-15)</li>
-<li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">Nas - It Was Written (1996-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
@@ -32,6 +32,9 @@ The Doors - The Soft Parade (1969-07)
 </li>
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
+</li>
+<li data-cover="http://coverartarchive.org/release/1bbac75e-ce53-4508-9096-54415e9a1177/4584669129-500.jpg" data-tags="70s" role="button">
+Lou Reed - Berlin (1973-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="singer-songwriter, 70s, folk rock" role="button">
 Neil Young - On the Beach (1974-07-19)
@@ -81,6 +84,9 @@ Ludwig van Beethoven - The Best of Beethoven (1987)
 <li data-cover="http://coverartarchive.org/release/eec40590-f7f8-48ff-a3cb-0a4aab5aad30/6223485528-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Eric B. & Rakim - Paid in Full (1987-07-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/541d890a-9ecd-4d75-8db3-883b706d434a/4010641500-500.jpg" data-tags="blues, singer-songwriter" role="button">
+Tom Waits - Franks Wild Years (1987-08-17)
+</li>
 <li data-cover="https://img.discogs.com/IxyplBkTmjLylzdCSmRhMWM8JNI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7720117-1447423717-9946.jpeg.jpg" data-tags="chicago" role="button">
 Chicago - The Chicago Story (1989)
 </li>
@@ -93,11 +99,11 @@ Johann Strauss II - Vienna of My Dreams (1990)
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
 </li>
+<li data-cover="https://img.discogs.com/cIE0Udf_oninwXbOGogS9bpQhC4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-895896-1170340668.jpeg.jpg" data-tags="golden age hip hop" role="button">
+Main Source - Breaking Atoms (1991-07-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/63747b49-c817-4688-a3c3-c6b534672f3e/8559758886-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - The Low End Theory (1991-09-24)
-</li>
-<li data-cover="https://img.discogs.com/yT-6IfBGcMdWOiwEXgYe7OhxAPI=/fit-in/499x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-884853-1169084275.jpeg.jpg" data-tags="hip hop" role="button">
-Eric B. & Rakim - Don't Sweat The Technique (1992-06-23)
 </li>
 <li data-cover="https://img.discogs.com/dSHHQw7HsvatcIMDhjSAuuRjFI0=/fit-in/386x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1726664-1433286162-6985.jpeg.jpg" data-tags="90s, indie, indie rock" role="button">
 Morrissey - Your Arsenal (1992-07-22)
@@ -108,26 +114,17 @@ Ice Cube - The Predator (1992-11-17)
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/77fad998-2e9b-4e4f-a960-1c5b9d2a7b34/15715288051-500.jpg" data-tags="hip-hop, east coast rap" role="button">
-Black Moon - Enta Da Stage (1993-10-19)
-</li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/cd351957-3aaf-48ba-ad53-a6baee00ef64/14583668157-500.jpg" data-tags="hip hop" role="button">
 Pete Rock & C.L. Smooth - The Main Ingredient (1994-11-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/821cfaab-a24e-4274-80d5-4b7eb96734f0/1925883052-500.jpg" data-tags="rnb, 90s" role="button">
-TLC - CrazySexyCool (1994-11-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
 Method Man - Tical (1994-11-15)
 </li>
 <li data-cover="https://img.discogs.com/6WF7BbJPuJYHJy1auqoTLxLM2aw=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15622610-1594727362-1064.jpeg.jpg" data-tags="classical" role="button">
 Antonio Vivaldi - Tranquillity: The Seasons (1995)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
-Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
@@ -152,9 +149,6 @@ Nas - It Was Written (1996-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/82e96230-b09b-4eed-90bf-87922b031a08/15595475285-500.jpg" data-tags="hip-hop, classic, rap, underground rap, political, west coast, stuff to check out, conscious hip-hop, west coast rap, conscious, underground hiphop, west coast hiphop, listen carefully, jbtv recommendation, excellent lyricism, hot to def, check the wordplay, educate yourself, real life rhymes, lyrics to learn from, mixed memories" role="button">
-Ras Kass - Soul On Ice (1996-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/44b4fdc9-da09-3ed0-97a8-2ff6909c097b/2809778262-500.jpg" data-tags="hip-hop, rap, classic hip-hop" role="button">
 Mobb Deep - Hell on Earth (1996-11-01)
@@ -182,6 +176,9 @@ The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
+</li>
+<li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
+Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
 <li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
 OutKast - Stankonia (2000-10-23)
@@ -216,8 +213,11 @@ Cam'ron - Come Home With Me (2002-05-14)
 <li data-cover="http://coverartarchive.org/release/d43ec83c-bcc9-4504-81fe-6fd92083a0c6/4371043204-500.jpg" data-tags="latin" role="button">
 Juanes - Un Día Normal (2002-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e04601a-8f61-4cca-8568-466f695e8209/1448754274-500.jpg" data-tags="hip hop, 9th wonder" role="button">
-Little Brother - The Listening (2003-02-25)
+<li data-cover="http://coverartarchive.org/release/7c35ff51-e81a-4ccc-888f-9b27c5f558f0/1630166366-500.jpg" data-tags="electronic, techno" role="button">
+Underworld - A Hundred Days Off (2002-09-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/07041b80-aa46-4f9f-bd7e-d4400d627180/2801140623-500.jpg" data-tags="hip-hop" role="button">
+Talib Kweli - Quality (2002-11-18)
 </li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
@@ -230,6 +230,9 @@ Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
+</li>
+<li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">
+Maurice Ravel - Piano Concerto (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d6c2fc9-a48a-4c70-90fd-a65a560b8745/20488765454-500.jpg" data-tags="classic, dope beats, screw music, down south, music to chief by, crunk music, yeeah, dirty thrid rap, that other shit, trae stdd" role="button">
 Trae - Same Thing Different Day (2004)
@@ -248,9 +251,6 @@ The Game - The Documentary (2005-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/3540c65f-cd1c-3575-ac0c-ccff3b57b053/15329187407-500.jpg" data-tags="00s" role="button">
 Magnolia Electric Co. - What Comes After The Blues (2005-04-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c960edc-6d64-4224-91cb-ad5d190687a4/13095766194-500.jpg" data-tags="piano, singer-songwriter, piano rock" role="button">
-Ben Folds - Songs For Silverman (2005-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/75a61f20-20f4-3255-a890-b4868ba2e169/8845794719-500.jpg" data-tags="indie, rock, alternative rock, indie rock" role="button">
 Sleater-Kinney - The Woods (2005-05-24)

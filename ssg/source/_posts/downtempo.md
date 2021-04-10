@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:26:01.419Z
+date: 2021-04-10T12:16:06.984Z
 title: "downtempo: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
@@ -128,6 +128,9 @@ Quantic - The 5th Exotic (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/543cf502-ecc5-4981-9a99-97127afbaceb/4507263314-500.jpg" data-tags="downtempo" role="button">
 Sia - Healing Is Difficult (2001-07-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/d45df9d7-7f2d-49bb-9a5c-543f44112f6d/8188829362-500.jpg" data-tags="lounge, electronic, downtempo" role="button">
+Thunderball - Scorpio Rising (2001-07-10)
 </li>
 <li data-cover="https://img.discogs.com/cCrsEjLACyczWsYITTOxwaMW5rM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831286-1251312241.jpeg.jpg" data-tags="electronic, chillout" role="button">
 Röyksopp - Melody A.M. (2001-10-08)
@@ -290,9 +293,6 @@ Gotye - Making Mirrors (2011-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/d31ab1ea-1963-430f-8f98-5b809b677680/7454411761-500.jpg" data-tags="electronic, downtempo, vocals, chill-out, male vocals, 2010s, 2012 releases, downtown records, fontana north" role="button">
 Chet Faker - Thinking in Textures (2012-03-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/f7440029-f3e4-43c9-b673-2e5327eb9826/1553282324-500.jpg" data-tags="electronic, downtempo, new wave, chillwave, synth-pop" role="button">
-Com Truise - In Decay (2012-07-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)

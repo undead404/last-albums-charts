@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:51:01.401Z
+date: 2021-04-10T12:41:01.416Z
 title: "stoner metal: 100 albums you must listen to before you die"
 ---
 ![Sleep - Dopesmoker (2003-04-22)](http://coverartarchive.org/release/a97bb2e6-8e15-4f24-93be-35666727c9d1/16825470893-500.jpg "Sleep - Dopesmoker (2003-04-22)")
@@ -44,6 +44,9 @@ Kyuss - Welcome to Sky Valley (1994-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/14e8adef-dc7e-4f7b-9c79-80af627ea817/7846949504-500.jpg" data-tags="sludge, doom metal" role="button">
 Acid Bath - When the Kite String Pops (1994-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/d2244a44-785e-47e7-8077-53a99413c53d/26937143591-500.jpg" data-tags="doom metal, stoner metal" role="button">
+Acid King - Zoroaster (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bcc44c8-ac6e-4f54-a0ff-98897d26a934/3003155696-500.jpg" data-tags="stoner rock" role="button">
 Monster Magnet - Dopes to Infinity (1995-02-06)
@@ -156,9 +159,6 @@ YOB - The Unreal Never Lived (2005-09-05)
 <li data-cover="http://coverartarchive.org/release/fc6dde16-c6fc-40cf-8a12-8ed5379d860d/19910204279-500.jpg" data-tags="stoner metal" role="button">
 Bongzilla - Amerijuanican (2005-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
-Boris - Pink (2005-11-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/1d105b15-896b-40f4-861d-27e63dfcf960/16250901067-500.jpg" data-tags="stoner metal, stoner rock" role="button">
 The Sword - Age of Winters (2006-02-14)
 </li>
@@ -194,9 +194,6 @@ Electric Wizard - Witchcult Today (2007-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c70dd03b-6166-44c5-8615-3e54b154ea70/3081389429-500.jpg" data-tags="stoner metal" role="button">
 The Sword - Gods of the Earth (2008-03-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/17888dca-1e01-4f36-b6ed-8ac76a78b8f1/26507081984-500.jpg" data-tags="stoner rock, stoner metal" role="button">
-Torche - Meanderthal (2008-04-08)
 </li>
 <li data-cover="https://img.discogs.com/sb6sxghe2HTkjTZl2I4sgw-O0rk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1849751-1247685987.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
 Black Pyramid - Black Pyramid (2008-04-14)
@@ -267,6 +264,9 @@ Boris - Heavy Rocks (2011-05-24)
 <li data-cover="https://img.discogs.com/gtl5qNER3xek41cu4qfWwbCmX8g=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3697461-1361292129-3969.jpeg.jpg" data-tags="hard rock, doom metal, psychedelic rock" role="button">
 Uncle Acid & the Deadbeats - Blood Lust (2011-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/0aee2782-a36c-4865-9dca-145d3ad1c26c/22890258111-500.jpg" data-tags="doom metal, stoner metal" role="button">
+A Pale Horse Named Death - And Hell Will Follow Me (2011-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/aedf3e8a-db54-426b-8026-717017f6c8e7/20094613022-500.jpg" data-tags="doom metal" role="button">
 YOB - Atma (2011-08-02)
 </li>
@@ -284,9 +284,6 @@ Stoned Jesus - Seven Thunders Roar (2012-03-21)
 </li>
 <li data-cover="https://img.discogs.com/h8Vg84akTLqqK0Bv78Zw9jKF8DI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3548443-1335037037.jpeg.jpg" data-tags="metal, stoner metal" role="button">
 High on Fire - De Vermis Mysteriis (2012-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/c0b51d77-efa8-4849-8a24-095ac377138e/26504595126-500.jpg" data-tags="stoner metal, sludge metal" role="button">
-Torche - Harmonicraft (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f14078e-cc9a-44c4-ac66-78dc4d182235/25038495680-500.jpg" data-tags="progressive metal" role="button">
 Baroness - Yellow & Green (2012-07-17)
@@ -311,6 +308,9 @@ All Them Witches - Lightning At The Door (2013-11-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stoner metal" role="button">
 Dopelord - Black Arts, Riff Worship & Weed Cult (2014-04-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/94a5b3b9-5e56-4f04-86fd-877c99cd720d/8102222224-500.jpg" data-tags="experimental, noise rock, shoegaze" role="button">
+Boris - Noise (2014-06-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/02296e21-5894-43d0-9e33-b31570165b3d/7305419871-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Once More 'Round the Sun (2014-06-20)

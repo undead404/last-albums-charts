@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T11:11:01.449Z
+date: 2021-04-10T12:33:01.663Z
 title: "folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -35,9 +35,6 @@ Don McLean - American Pie (1971)
 </li>
 <li data-cover="https://img.discogs.com/nqxkjMxnQAPyOKvXNQGD_HLz4No=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7113798-1490032853-4360.jpeg.jpg" data-tags="70s, folk" role="button">
 Paul Simon - Paul Simon (1971)
-</li>
-<li data-cover="http://coverartarchive.org/release/9b1b2314-fb32-4d18-98a6-0daad20b830a/16612201000-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Leonard Cohen - Songs of Love and Hate (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/243fb7b0-e7f3-42e8-bdfc-a66fd9e23d0e/11322846424-500.jpg" data-tags="folk" role="button">
 Joni Mitchell - Blue (1971-06)
@@ -173,6 +170,9 @@ Great Lake Swimmers - Ongiara (2007-04-16)
 </li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">
 Bon Iver - For Emma, Forever Ago (2007-07-08)
+</li>
+<li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
+KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/43ff3450-f35f-40ad-986b-01703287dc6d/2638757408-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Angus & Julia Stone - A Book Like This (2007-09-08)

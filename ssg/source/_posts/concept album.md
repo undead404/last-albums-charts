@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:15:01.469Z
+date: 2021-04-10T12:19:01.604Z
 title: "concept album: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - The Wall (1979-11-30)](http://coverartarchive.org/release/d4611812-e7cd-42bf-885a-b1cea9fd52bc/9371075020-500.jpg "Pink Floyd - The Wall (1979-11-30)")
@@ -87,6 +87,9 @@ King Diamond - Abigail (1987)
 <li data-cover="http://coverartarchive.org/release/459b027b-c7d0-3f1c-9c49-1216179260c0/12905663035-500.jpg" data-tags="progressive rock" role="button">
 Marillion - Clutching At Straws (1987-06-12)
 </li>
+<li data-cover="https://img.discogs.com/sNgRvuxw78AEWk7TH4f_-1Y28C4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-760586-1334719012.jpeg.jpg" data-tags="progressive rock, rock" role="button">
+Roger Waters - Radio K.A.O.S. (1987-06-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/4bdb8024-ed76-43a1-aec7-6c9702d512d2/12225451426-500.jpg" data-tags="heavy metal" role="button">
 W.A.S.P. - The Crimson Idol (1992-06-27)
 </li>
@@ -104,9 +107,6 @@ Dream Theater - Scenes From a Memory (1996-04-30)
 </li>
 <li data-cover="https://img.discogs.com/WeOpxeolCLMCOCFdIDxAM5TCnOk=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6092807-1446529825-4734.jpeg.jpg" data-tags="power metal" role="button">
 Iced Earth - The Dark Saga (1996-05-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/cd7ba587-8bfc-4fd6-b77b-d13e9f4f3ff7/9286204382-500.jpg" data-tags="punk, punk rock, german" role="button">
-Die Ärzte - Le Frisur (1996-05-24)
 </li>
 <li data-cover="https://img.discogs.com/BDGD2HST67jkgfgyJtNnyChItTc=/fit-in/493x429/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2009258-1258293871.jpeg.jpg" data-tags="heavy metal" role="button">
 Grave Digger - Tunes of War (1996-09-16)
@@ -137,6 +137,9 @@ dredg - Leitmotif (1999-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/c649c5c3-8abb-33e7-a62f-2be00043813c/9230662289-500.jpg" data-tags="progressive metal, progressive death metal" role="button">
 Opeth - Still Life (1999-10-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/8dc54860-4a3b-4757-bbe4-a3e852525f3a/3885285137-500.jpg" data-tags="symphonic metal, rock opera" role="button">
+Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
 <li data-cover="https://img.discogs.com/RMMPLmcaYrwUxT1cz1w-uJR3eNw=/fit-in/391x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1607354-1231797227.jpeg.jpg" data-tags="indie rock" role="button">
 Grandaddy - The Sophtware Slump (2000-05-08)
@@ -213,14 +216,8 @@ Kamelot - The Black Halo (2005-02-16)
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/6a3719d9-20a9-3119-a036-5595202976b0/4952344545-500.jpg" data-tags="progressive metal, math metal" role="button">
-Meshuggah - Catch ThirtyThree (2005-04-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/da425314-ecc7-4db3-a296-90942f172b18/28511522132-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - The Sunset Tree (2005-04-25)
-</li>
-<li data-cover="https://img.discogs.com/g9qt8MUvGiB3uZ-jXKg8y_n_sjI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1513587-1288765062.jpeg.jpg" data-tags="rock, indie" role="button">
-The Hold Steady - Separation Sunday (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/63593d1a-1075-4605-ae89-466c1ade1ccd/26393565243-500.jpg" data-tags="screamo, post-hardcore, alternative, emo, pop punk" role="button">
 Boys Night Out - Trainwreck (2005-07-26)
@@ -273,6 +270,9 @@ The Dear Hunter - Act II: The Meaning Of, And All Things Regarding Ms. Leading (
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/65390f0e-27ba-4cb0-b4e0-51097a73745f/1280756096-500.jpg" data-tags="progressive metal" role="button">
+Ayreon - 01011001 (2008-01-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/23610e26-f231-41fa-a71b-2d97098ddeff/13333863755-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Crack the Skye (2009-02-23)
 </li>
@@ -300,14 +300,14 @@ Moonsorrow - Varjoina kuljemme kuolleiden maassa (2011-02-21)
 <li data-cover="http://coverartarchive.org/release/b8a324e2-931d-4aa1-8752-124fae15a2eb/2244822329-500.jpg" data-tags="abstract hip-hop, concept album" role="button">
 Есть Есть Есть - Дорогой мой человек (2011-04-21)
 </li>
-<li data-cover="https://img.discogs.com/VM40UbKDAi6J9rBcwVkWnc35urc=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5820535-1515078520-6172.jpeg.jpg" data-tags="folk" role="button">
-Eddie Vedder - Ukulele Songs (2011-05-26)
-</li>
 <li data-cover="https://img.discogs.com/u9-_8zr6HcoOOSFr4otuCM_yehs=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3229235-1321426120.jpeg.jpg" data-tags="indie, alternative rock, pop rock, easy listening, emotional, hypnotic, hauntingly beautiful, concept album, comforting, worth the wait, fucking good music, lyrically brilliant, relatable, conclusion, change in style, daybreak trilogy" role="button">
 Saves the Day - Daybreak (2011-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">
 Car Seat Headrest - Twin Fantasy (2011-11-02)
+</li>
+<li data-cover="https://img.discogs.com/S_0Mpj9aR2uH08byXzQ_e3uGwRs=/fit-in/430x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3563186-1335408221.jpeg.jpg" data-tags="rock, alternative rock, pop punk, concept album, red scare" role="button">
+The Sidekicks - Awkward Breeds (2012-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/5adc3099-6a1b-4624-ba9b-b9238bebce7d/3337530465-500.jpg" data-tags="progressive metal" role="button">
 Between the Buried and Me - The Parallax II: Future Sequence (2012-10-08)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:41:01.405Z
+date: 2021-04-10T12:03:01.641Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -42,9 +42,6 @@ Bill Cosby - Himself (1982-11-05)
 <li data-cover="http://coverartarchive.org/release/d9acb1d2-04ec-3f3c-909a-436ec6f6f7db/6297135716-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - In 3-D (1984-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/5b07a6c8-a3a2-4f5e-abdc-c3c9359340be/3363166051-500.jpg" data-tags="party all the time" role="button">
-Eddie Murphy - How Could It Be (1985)
-</li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
@@ -62,6 +59,9 @@ Monty Python - Monty Python Sings (1989-12-11)
 </li>
 <li data-cover="https://img.discogs.com/nKvU-PeqCLF6Ny4VCySeMfLEsxg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972997-1185325725.jpeg.jpg" data-tags="comedy, soundtrack, blues" role="button">
 The Simpsons - The Simpsons Sing The Blues (1990-02-02)
+</li>
+<li data-cover="https://img.discogs.com/stBYKRz1YquMsfSLKdc3AEMFlNI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1848755-1300924789.jpeg.jpg" data-tags="comedy" role="button">
+Spinal Tap - Break Like The Wind (1992-03-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a649759-c3af-48ae-8e52-e159965eb262/6290570162-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Off The Deep End (1992-04-14)
@@ -137,6 +137,9 @@ Wise Guys - Ganz weit vorne (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg" data-tags="rock, comedy" role="button">
 Tenacious D - Tenacious D (2001-09-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/4e77478b-eeca-4fdc-9b44-a213a6b64acf/4656660822-500.jpg" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central, blue collar, blue collar comedy, funny album covers, blue collar comedy tour, allmusicl" role="button">
+Larry The Cable Guy - Lord, I Apologize (2001-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/41c58eb5-c31d-46ce-9fda-dffc2c35cf75/13632205461-500.jpg" data-tags="comedy" role="button">
 Flight of the Conchords - Folk the World Tour (2002-11-14)
@@ -239,9 +242,6 @@ Dethklok - The Dethalbum (2007-09-25)
 </li>
 <li data-cover="https://img.discogs.com/gYhHxjYIW6Y4L4Gzdjwc7ckLNfY=/fit-in/592x518/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222978-1201816871.jpeg.jpg" data-tags="comedy" role="button">
 Nick Swardson - Party (2007-10-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2326f84-9e6b-42b1-9b6f-88fb1ab90a4e/14428015137-500.jpg" data-tags="comedy, revival, sting, midgets, oasis, moaning, complaining, self-important, mor, out of tune, special, sexist, paul weller, rough trade, libertines, cockney, hard-fi, misogynistic, pete doherty, can't sing, wannabes, landfill indie, self-righteous, hates women, pub-rock, capitalist, i need, mockney, tories, lad-rock, anti-feminist, blokey, pendientes, post-oasis, epic-fail, arrogant singer, comercialist, tory boys, x factor hopefuls" role="button">
-The Libertines - Time for Heroes: The Best of The Libertines (2007-10-29)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central" role="button">
 Ralphie May - Prime Cut (2007-11-13)

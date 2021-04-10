@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:08:01.412Z
+date: 2021-04-10T12:28:01.519Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -171,6 +171,9 @@ Mike Oldfield - Tubular Bells III (1998-08-31)
 <li data-cover="http://coverartarchive.org/release/749f4d3e-14ac-42bf-a5e6-f308ffd080fb/10375802721-500.jpg" data-tags="new age, gregorian chant" role="button">
 Gregorian - Masters of Chant (1999)
 </li>
+<li data-cover="https://img.discogs.com/SctnU0WyCyk03GPStB5QSZQKtTU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11059814-1509109793-1728.jpeg.jpg" data-tags="new age, relaxing instrumental" role="button">
+Anugama - The Lightness of Being (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/33f464bc-2922-3018-a958-560194a5f775/10673178657-500.jpg" data-tags="new age, secret garden" role="button">
 Secret Garden - Dawn of a New Century (1999-03-02)
 </li>
@@ -203,6 +206,9 @@ Karunesh - Zen Breakfast (2001-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a4d245c-f596-4ea5-91ef-0c5761b0f826/2308134752-500.jpg" data-tags="new age, ambient" role="button">
 Amethystium - Odonata (2001-08-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/e85f1a26-8829-41c4-9761-a42a9be139b6/15413923255-500.jpg" data-tags="meditation" role="button">
+Deuter - Buddha Nature (2001-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8dde58df-e662-499d-9a9a-deed5f551bc0/26128597853-500.jpg" data-tags="new age" role="button">
 Diane Arkenstone - Aquaria: A Liquid Blue Trancescape (2001-10-02)
@@ -242,9 +248,6 @@ Enigma - Voyageur (2003-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/479ca9bb-bdeb-4e9f-a0e2-937851ccbecf/7633029193-500.jpg" data-tags="new age" role="button">
 Secret Garden - Earthsongs (2004)
-</li>
-<li data-cover="https://img.discogs.com/lx-5R_9m86g_FFaAR3a4eJUfsqc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-601869-1460142788-9312.jpeg.jpg" data-tags="keane, songs i absolutely love, nice cover art, pure melodies of perfection" role="button">
-Keane - Somewhere Only We Know (2004-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/30f7f74c-b36e-4142-84cc-c6180ea7221a/28378270424-500.jpg" data-tags="new age, meditation" role="button">
 Karunesh - Call of the Mystic (2004-05-11)
@@ -302,9 +305,6 @@ Amethystium - Isabliss (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a5e7990-51b3-409b-94fc-e07692709fb5/4187350753-500.jpg" data-tags="new age" role="button">
 Enigma - Seven Lives Many Faces (2008-08-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/51be8f43-dac9-4450-a588-9b91e6f98ea1/26757154347-500.jpg" data-tags="ambient" role="button">
-Enya - The Very Best of Enya (2009-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/38d98a67-9fe0-3c1d-9b9a-6ba6475da30c/5572267812-500.jpg" data-tags="instrumental, epic, choral, new age, orchestral, uplifting, 10s, february, trailer music, 2nd" role="button">
 E.S. Posthumus - Makara (2010-02-02)

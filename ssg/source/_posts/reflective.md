@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:04:01.415Z
+date: 2021-04-10T12:43:07.060Z
 title: "reflective: 100 albums you must listen to before you die"
 ---
 ![Dirty Projectors - Bitte Orca (2009-06-08)](http://coverartarchive.org/release/5a5b5fe2-0898-3026-afb7-378fb8373752/8131494180-500.jpg "Dirty Projectors - Bitte Orca (2009-06-08)")
@@ -27,6 +27,9 @@ The Oscar Peterson Trio - Night Train (1963)
 <li data-cover="https://img.discogs.com/RvfzUQZ0EY-Fd1BmrY-e4gccC04=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11041161-1508759041-5088.jpeg.jpg" data-tags="all that old jazz, float float float" role="button">
 Alice Coltrane - Ptah, the El Daoud (1970-07)
 </li>
+<li data-cover="https://img.discogs.com/KvznAeiMRkq-tihesKqtEcS2cAQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566260-1290780860.jpeg.jpg" data-tags="blues, energetic, searching, reflective, organic, confident, earnest, bittersweet, yearning, playful, partying, memphis blues, celebratory, modern electric blues, refined, theatrical, tgif, boisterous, soul-blues, self-conscious, regional blues, bbk, brc blues band, brc blues band karlsruhe, blues rock club radio karlsruhe, walter buddy freter, lautfm bluesclub, wwwlautfmbluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe, blues rock radio germany deutschland" role="button">
+B.B. King - To Know You Is To Love You (1973)
+</li>
 <li data-cover="https://img.discogs.com/7idxMRMZmdYjVlxrITv-ynxh6yE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10686817-1546367036-5135.jpeg.jpg" data-tags="70s" role="button">
 Steely Dan - Countdown To Ecstasy (1973-07)
 </li>
@@ -42,9 +45,6 @@ Bob Marley & The Wailers - Live! (1975-12-05)
 <li data-cover="https://img.discogs.com/rJcaqObehxcJXyQV0X9VeNjN6EQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8826545-1515050576-7792.jpeg.jpg" data-tags="new wave, 80s, mod" role="button">
 The Jam - Sound Affects (1980-11-28)
 </li>
-<li data-cover="https://img.discogs.com/cFYpPn8BkPXVzV15H9zZkIn3zno=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16002100-1602676227-1207.jpeg.jpg" data-tags="new wave, squeeze" role="button">
-Squeeze - East Side Story (1981-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/4d8ca766-068d-45df-80bf-fa57932d1694/18235029110-500.jpg" data-tags="reggae, roots reggae" role="button">
 Black Uhuru - Red (1981-06)
 </li>
@@ -57,17 +57,17 @@ Lou Reed - The Blue Mask (1982-02)
 <li data-cover="https://img.discogs.com/zXwE8GSP9kMFhwdtmJIs6BD8QMw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4724839-1457495653-1967.jpeg.jpg" data-tags="80s, rock, pop" role="button">
 Joe Jackson - Night And Day (1982-06)
 </li>
-<li data-cover="https://img.discogs.com/jYuXWTkwCW1FM_5FaZlToAzawsM=/fit-in/300x294/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6693852-1424772181-5761.jpeg.jpg" data-tags="classic rock, hard rock, bad company" role="button">
-Bad Company - 10 From 6 (1985-12-28)
-</li>
-<li data-cover="https://img.discogs.com/biqmFcH3sJUCAdFAfUmMa7wjTUQ=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1431022-1406391555-4231.jpeg.jpg" data-tags="80s, college rock, new zealand rock" role="button">
-The Chills - Kaleidoscope World (1986)
+<li data-cover="https://img.discogs.com/m8orecc8erkk0IZ8cm0s5oCeW-s=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-136523-001.jpg.jpg" data-tags="80s, baroque pop, reflective, dream pop, mellow, hypnotic, pastoral, david sylvian, literary, flashback alternatives" role="button">
+Virginia Astley - Hope In A Darkened Heart (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f233a68-c3c2-348b-a135-10edc450edf7/25408536436-500.jpg" data-tags="80s, alternative rock" role="button">
 R.E.M. - Lifes Rich Pageant (1986-07-28)
 </li>
-<li data-cover="https://img.discogs.com/_cbVxOvvbFZXtL4SWxto7HIJYHU=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489501-1602701907-6775.jpeg.jpg" data-tags="slowcore, shoegaze" role="button">
-Galaxie 500 - Today (1988-10)
+<li data-cover="https://img.discogs.com/UGLkfyzaC9F8vzuuNd2I-6uWEYA=/fit-in/268x268/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7919633-1528727617-6341.jpeg.jpg" data-tags="rock" role="button">
+Lenny Kravitz - Let Love Rule (1989-07-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e272d73-ed9d-48b0-809c-8c562be52bd7/4416968015-500.jpg" data-tags="hip hop, hip-hop" role="button">
+Gang Starr - Step In The Arena (1990)
 </li>
 <li data-cover="https://img.discogs.com/SpUfO0hlVx3zNOa9xDIcmoiBRQo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-547138-1557678650-4661.jpeg.jpg" data-tags="dream pop" role="button">
 The Sundays - Reading, Writing and Arithmetic (1990-01-15)
@@ -84,11 +84,11 @@ Bonnie Raitt - Luck Of The Draw (1991-06-25)
 <li data-cover="https://img.discogs.com/-3mFS6brCur3657bA_V_atyy1MQ=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12642908-1539190599-3671.jpeg.jpg" data-tags="vocal, traditional pop, romantic, reflective, smooth, earnest, dramatic, elegant, showtunes, crooners, sophisticated, warm, poignant, relaxation, lush, sentimental, soothing, joyous, cast recordings, show tunes, refined, theatrical, gutsy, in love, reserved, romantic evening, vocal pop, dinner ambiance, american popular song, vic damone, vic soothest veteran sings the great love song, vic veteran smooth romantic sings great love songs, vic damone sings the great love songs" role="button">
 Vic Damone - 16 Most Requested Songs (1992)
 </li>
-<li data-cover="https://img.discogs.com/r3kyzds5-mYDDQIgR7NB61DgoYU=/fit-in/467x464/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4982263-1381287474-9752.jpeg.jpg" data-tags="east coast rap, hip-hop" role="button">
-Gang Starr - Daily Operation (1992-05-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
 Jimi Hendrix - First Rays of the New Rising Sun (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/af53580d-d45c-441a-82ab-86c14acadb73/23244518052-500.jpg" data-tags="folk, country" role="button">
+Townes Van Zandt - Rear View Mirror (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b8010bb-37c8-3ffc-9e2c-b446d177b24a/23522526719-500.jpg" data-tags="rock" role="button">
 Paul Weller - Wild Wood (1993-09-06)
@@ -99,14 +99,26 @@ Yo La Tengo - Painful (1993-10-05)
 <li data-cover="http://coverartarchive.org/release/2c253f0c-3f12-342c-ad5c-f18bdffc0d71/18833730028-500.jpg" data-tags="rock, 1994, alternative, 90s, belgian, indie, belgium" role="button">
 dEUS - Worst Case Scenario (1994-09-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/acc90ba4-b75c-4b2a-8095-8d1d7c168373/5103117214-500.jpg" data-tags="alt-country" role="button">
+Son Volt - Trace (1995-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b822949-270d-45f5-ab9c-10c434d611bc/9494451789-500.jpg" data-tags="90s, rock, belgium" role="button">
+dEUS - In A Bar, Under The Sea (1996-09-14)
 </li>
 <li data-cover="https://img.discogs.com/Q-g8fNBSeBlsXe8jlt67IwJ9MnA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-114245-1264216179.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
 Beth Orton - Trailer Park (1996-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d18b273a-4987-4594-a4db-419454c7e113/2013460549-500.jpg" data-tags="alt-country, 90s" role="button">
 Wilco - Being There (1996-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/3852304a-41d1-4639-bab9-abb606c33c75/3031192753-500.jpg" data-tags="pop, alternative, britpop, rock" role="button">
+Robbie Williams - The Ego Has Landed (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/97771443-011e-460e-8455-c01becbba012/11243962516-500.jpg" data-tags="colorado alternative rock" role="button">
+Big Head Todd and the Monsters - Beautiful World (1997-02-11)
 </li>
 <li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="indie rock, 90s" role="button">
 Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
@@ -117,20 +129,14 @@ Robbie Williams - Life Thru a Lens (1997-09-10)
 <li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Death to the Pixies (1997-10-06)
 </li>
-<li data-cover="https://img.discogs.com/W4khNoo90CadCiLmJK2Ef-xtYZ8=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033179-1546903380-6137.jpeg.jpg" data-tags="alternative, robbie williams, indie, rock, british" role="button">
-Robbie Williams - Angels (1997-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc20ab32-ff95-3621-bdaf-92b90e826ee1/6201935684-500.jpg" data-tags="country" role="button">
-Dixie Chicks - Wide Open Spaces (1998-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
 </li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
-Mercury Rev - Deserter's Songs (1998-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/5d58d210-a58c-4532-a2f5-54c6001a063d/12639050704-500.jpg" data-tags="90s, indie, mellow" role="button">
 Cat Power - Moon Pix (1998-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/6cfa81a9-b642-414e-a846-495d111db4f1/9733980416-500.jpg" data-tags="big dada, hip-hop" role="button">
+Roots Manuva - Brand New Second Hand (1999-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a4569a0-63c2-49e5-ab64-2eb87157e8c8/2948168281-500.jpg" data-tags="plotters albums" role="button">
 Mark Lanegan - I'll Take Care of You (1999-09-21)
@@ -150,6 +156,9 @@ The Appleseed Cast - Mare Vitalis (2000-02-08)
 <li data-cover="http://coverartarchive.org/release/1c382e7a-1efa-46fb-9fcf-fca60599fe71/6110111109-500.jpg" data-tags="chillout" role="button">
 Citizen Cope - Citizen Cope (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/2afae914-a464-4d9f-9547-cbf70fd7ad73/3935194385-500.jpg" data-tags="robbie williams, british, rock, alternative" role="button">
+Robbie Williams - Rules of Life (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
@@ -162,17 +171,11 @@ Doves - The Last Broadcast (2002-04-29)
 <li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
 Nas - God's Son (2002-12-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/05b8a456-27e6-4fdf-9c4e-7f0953ffc1e2/27739797760-500.jpg" data-tags="indie rock" role="button">
-The Dears - No Cities Left (2003-04-15)
-</li>
 <li data-cover="https://img.discogs.com/p_YHcsVDUXg_BR_KlsQj3MsDsM4=/fit-in/596x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773763-1242458190.jpeg.jpg" data-tags="trance, dance" role="button">
 4 Strings - Believe (2003-04-22)
 </li>
 <li data-cover="https://img.discogs.com/lCcXkUQ3G6nD7sbHKMaqW5jYc0U=/fit-in/298x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-322385-1100938422.jpg.jpg" data-tags="trance" role="button">
 Darude - Rush (2003-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
-Broadcast - Haha Sound (2003-08-09)
 </li>
 <li data-cover="https://img.discogs.com/TxJKZ4bR1eTxNRKg41uQlj9OIH8=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400180-1330515072.jpeg.jpg" data-tags="rock, indie rock, sub pop" role="button">
 Low - The Great Destroyer (2004)
@@ -194,9 +197,6 @@ Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8130bea-adf4-4c8f-8784-594e537e1082/20162514827-500.jpg" data-tags="britpop" role="button">
 The Verve - This Is Music: The Singles 92-98 (2004-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/3a9ea972-ba0d-4cd4-932f-500c7e0f83ee/16371954664-500.jpg" data-tags="emusic, shivaree" role="button">
-Shivaree - Who's Got Trouble? (2005-01-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
@@ -228,17 +228,17 @@ Matt Nathanson - Some Mad Hope (2007-08-14)
 <li data-cover="http://coverartarchive.org/release/a6d21839-661c-4e80-93be-667e31a5df3a/21277386149-500.jpg" data-tags="indie" role="button">
 Frightened Rabbit - The Midnight Organ Fight (2008-04-14)
 </li>
-<li data-cover="https://img.discogs.com/hvwrsdt7Le86HEpqOvnSzL40b1Q=/fit-in/497x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488405-1223451575.jpeg.jpg" data-tags="indie pop" role="button">
-Jenny Lewis - Acid Tongue (2008-09-21)
+<li data-cover="https://img.discogs.com/u6T-F9Qb9UjVsaZkMJylVS3BQ40=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13949536-1564723690-3863.jpeg.jpg" data-tags="vocal, easy listening, adult contemporary, romantic, reflective, passionate, literate, dramatic, bittersweet, elegant, yearning, sophisticated, sunday afternoon, sentimental, elaborate, refined, stylish, theatrical, restrained, romantic evening, vocal pop, euro-pop, classical pop, dinner ambiance" role="button">
+Josh Groban - Awake Live (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
 </li>
+<li data-cover="https://img.discogs.com/0dVwdcRLdGrGQ5eJGCvHm1Oa1rQ=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5736019-1586223598-5442.jpeg.jpg" data-tags="rock, japanese, alternative rock, searching, reflective, passionate, asian, earnest, dramatic, introspection, reflection, male vocalists, 00s, yearning, j-rock, poignant, wistful, empowering, cathartic, gutsy, plaintive, contemporary rock" role="button">
+Plastic Tree - ウツセミ (2008-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
-</li>
-<li data-cover="https://img.discogs.com/FRIMWHjtAELVTwS6s3Fr6Zo1Cqo=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1787758-1573510919-5647.jpeg.jpg" data-tags="synthpop, new romantic" role="button">
-Jonathan Johansson - En hand i himlen (2008-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">
 Neko Case - Middle Cyclone (2009-02-28)
@@ -312,11 +312,11 @@ Majical Cloudz - Impersonator (2013-05-21)
 <li data-cover="http://coverartarchive.org/release/cac2fc42-25ce-4021-8030-39401f2563cf/5073194509-500.jpg" data-tags="synthpop" role="button">
 CHVRCHES - The Bones of What You Believe (2013-09-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/7c088418-e3bd-41c2-a7bd-5e6331bb1a47/16467900306-500.jpg" data-tags="jazz" role="button">
+Ambrose Akinmusire - The Imagined Savior Is Far Easier To Paint (2014)
+</li>
 <li data-cover="http://coverartarchive.org/release/c38765cc-bafe-48ff-9a78-26f6d816a46b/6695925091-500.jpg" data-tags="indie rock, rock" role="button">
 The War on Drugs - Lost in the Dream (2014-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/bd6358fb-084f-46c6-810d-9a3085095318/9043181228-500.jpg" data-tags="indie rock, thoughtful, energetic, searching, reflective, passionate, explosive, confident, aggressive, dramatic, introspection, majestic, strong, yearning, powerful, triumphant, bombastic, thrilling, defiant, empowerment, cathartic, suspenseful, desperate, elaborate, visceral, sprawling, urgent, boisterous, ambitious, affirmation, serious, relationships, animated, everyday life, outraged, mighty" role="button">
-Restorations - LP3 (2014-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)

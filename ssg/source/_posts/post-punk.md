@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T07:54:01.521Z
+date: 2021-04-10T12:17:02.123Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -29,6 +29,9 @@ Iggy Pop - The Idiot (1977-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7fa9a051-daaa-337b-bce3-f26ed7058990/7863989144-500.jpg" data-tags="post-punk, punk" role="button">
 Wire - Pink Flag (1977-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b1eb1417-9ba7-4579-8767-f97576021c37/14840216501-500.jpg" data-tags="experimental, electronic, electropunk" role="button">
+Suicide - Suicide (1977-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
 Devo - Q: Are We Not Men? A: We Are Devo! (1978-07)
@@ -230,9 +233,6 @@ The National - Boxer (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
-Liars - Liars (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f214af9-7c6d-43b5-bb61-fd78ccffd805/9294779686-500.jpg" data-tags="indie rock, post-punk" role="button">
 The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:37:01.572Z
+date: 2021-04-10T11:55:01.407Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Of Monsters and Men - My Head Is an Animal (2011-09-20)](https://img.discogs.com/JOkkZurGvAkeFp8PQEAgtqzrhjg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10352709-1495840289-6397.jpeg.jpg "Of Monsters and Men - My Head Is an Animal (2011-09-20)")
@@ -29,6 +29,9 @@ Elliott Smith - Either/Or (1997-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/b099e2da-e1d6-394e-85be-0807ed6ed7e0/2981134688-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - XO (1998-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa606429-a18e-3230-b2be-0921619b7942/15721054603-500.jpg" data-tags="indie" role="button">
+The Decemberists - Castaways and Cutouts (2002-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
@@ -266,9 +269,6 @@ Junip - Junip (2013-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf301708-c09d-4005-b029-65840a08f37f/15696299805-500.jpg" data-tags="folk, contemporary folk, americana, indie folk" role="button">
 Laura Marling - Once I Was An Eagle (2013-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/75b78092-f898-47fa-a2f0-ccc061f277e8/4825372811-500.jpg" data-tags="folk, indie rock, usa, acoustic, americana, alt folk, indie folk, alt country, alternative country, 10s, 2010s, monochrome album covers, american group, grammy winner 2014" role="button">
-The Civil Wars - The Civil Wars (2013-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a80115f4-fbfe-4a48-ba2d-3807fb72c96f/5784873203-500.jpg" data-tags="indie, folk, acoustic, indie folk" role="button">
 Ry x - Berlin (2013-08-28)

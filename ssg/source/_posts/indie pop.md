@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:28:01.416Z
+date: 2021-04-10T12:07:01.519Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -47,6 +47,9 @@ Camera Obscura - Underachievers Please Try Harder (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/735e9638-b555-49f5-b536-01ce8df1dbeb/22159704215-500.jpg" data-tags="indie, indie rock, the shins" role="button">
 The Shins - Chutes Too Narrow (2003-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/5c2246eb-800c-4631-bf6e-5e43d6f24e01/1444135629-500.jpg" data-tags="indie pop" role="button">
+The Unicorns - Who Will Cut Our Hair When We're Gone? (2003-10-24)
 </li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
@@ -251,9 +254,6 @@ The xx - Coexist (2012-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f1ee5f60-0e3b-4a0d-8705-2113f12baf64/9115800193-500.jpg" data-tags="synthpop, indie pop" role="button">
 Ellie Goulding - Halcyon (2012-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)

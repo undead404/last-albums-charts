@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:57:01.432Z
+date: 2021-04-10T12:23:01.855Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -186,9 +186,6 @@ Iggy Pop - Lust For Life (1977-08-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, classic rock" role="button">
 Steely Dan - Aja (1977-09-23)
 </li>
-<li data-cover="https://img.discogs.com/6Sa_C449PdWHQ9M6rAkVI84klMo=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11459589-1523284305-7535.jpeg.jpg" data-tags="classic rock" role="button">
-Billy Joel - The Stranger (1977-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/36594124-8097-3af9-891a-8a03b154c79b/23541528287-500.jpg" data-tags="classic rock, 70s" role="button">
 Electric Light Orchestra - Out of the Blue (1977-10)
 </li>
@@ -305,6 +302,9 @@ The Beatles - 1 (2000-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/475b6b91-86e9-40ba-bb98-c6a65bd1339e/15595445952-500.jpg" data-tags="classic rock, rock, psychedelic rock" role="button">
 The Doors - The Very Best of The Doors (2001-09-08)
+</li>
+<li data-cover="https://img.discogs.com/9ptOzgWMBIYeOUr8r0xPYapgfWc=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2769989-1590169907-3874.jpeg.jpg" data-tags="classic rock, 60s" role="button">
+The Animals - The Best of The Animals (2002-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3709ee5a-d087-370f-afb4-f730092c7a94/23744459570-500.jpg" data-tags="classic rock, rock" role="button">
 David Bowie - Best of Bowie (2002-10-18)

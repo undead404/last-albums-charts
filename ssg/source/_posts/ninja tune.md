@@ -1,19 +1,19 @@
 ---
-date: 2021-04-10T03:41:06.973Z
+date: 2021-04-10T12:37:01.459Z
 title: "ninja tune: 100 albums you must listen to before you die"
 ---
 ![Bonobo - Black Sands (2010-03-13)](http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg "Bonobo - Black Sands (2010-03-13)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">Amon Tobin - Bricolage (1997-04-25)</li>
 <li data-cover="https://img.discogs.com/MJaGbv-d3pFnroMLPVfW7cpBhbU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5680041-1466762180-5272.jpeg.jpg" data-tags="ninja tune, electronic" role="button">Mr. Scruff - Keep It Unreal (1999-06-01)</li>
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">The Cinematic Orchestra - Motion (1999-09-01)</li>
+<li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">Amon Tobin - Supermodified (2000-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/040fccf3-f78e-40ff-8584-dcb022f539e7/3516392955-500.jpg" data-tags="downtempo, trip-hop" role="button">Bonobo - Animal Magic (2000-07-24)</li>
-<li data-cover="https://img.discogs.com/3OWnvD8SUZ4ZL0jcKAIgOu3lfaA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240347-1249301053.jpeg.jpg" data-tags="downtempo, trip-hop, ninja tune" role="button">Blockhead - Music By Cavelight (2004-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/6e99b4b6-42ca-4187-8249-68edaed60fe5/10340005308-500.jpg" data-tags="electronic, downtempo, trip-hop, chillout" role="button">Bonobo - Days to Come (2006-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/7c42d81f-3a18-4739-94d9-af5eb66accbb/11240077077-500.jpg" data-tags="electronic, idm" role="button">Amon Tobin - Foley Room (2007-02-26)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">The Cinematic Orchestra - Ma Fleur (2007-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/565ecac2-2a18-3f3e-9026-b3cb7b7e567e/15591829201-500.jpg" data-tags="acoustic, ninja tune" role="button">Fink - Distance and Time (2007-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">Bonobo - Black Sands (2010-03-13)</li>
+<li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">Bonobo - The North Borders (2013-03-21)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -36,9 +36,6 @@ The Herbaliser - Remedies (1995-09-21)
 <li data-cover="https://img.discogs.com/iskYsVfNFx1aJtjQ5o4pzojwy0g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-47200-1246343043.jpeg.jpg" data-tags="ninja tune" role="button">
 DJ Food - A Recipe For Disaster (1995-10-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/21a3ea58-66a7-3cec-b169-087ceb75ad0f/7923741865-500.jpg" data-tags="electronic, acid jazz" role="button">
-Cujo - Adventures in Foam (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/9d804979-d783-4899-a493-a1c27540c565/28838672763-500.jpg" data-tags="trip-hop, downtempo, trip hop, ninja tune, breaks, future jazz, breakbeat, rhythm and blues, off, i must buy this for the name alone, awesome title, funny title, funked acid jazz, nojsa spins this vinyl" role="button">
 London Funk Allstars - Flesh Eating Disco Zombies versus The Bionic Hookers From Mars (1996-08-01)
 </li>
@@ -48,8 +45,8 @@ Amon Tobin - Creatures (1996-11)
 <li data-cover="https://img.discogs.com/KO3Hb5KPZe0KhgUq00CKQgTo6B8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1408100-1373923314-6008.jpeg.jpg" data-tags="ninja tune, hip-hop" role="button">
 The Herbaliser - Blow Your Headphones (1997-03-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/a40f6fe9-aa33-45e6-a488-f49b50294c58/28455858121-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Bricolage (1997-04-25)
+<li data-cover="http://coverartarchive.org/release/2f469cee-b8b5-4c47-b4d8-fcb435a88f25/10341079631-500.jpg" data-tags="trip-hop, downtempo" role="button">
+Funki Porcini - Lets See What Carmen Can Do (1997-04-01)
 </li>
 <li data-cover="https://img.discogs.com/xaZKfmHU4e1OTOMErswwDw6YvOM=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2171-1144123635.jpeg.jpg" data-tags="electronic" role="button">
 Amon Tobin - Chomp Samba (1997-05)
@@ -62,6 +59,9 @@ Coldcut - Let Us Play! (1997-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e6d86cf-ef0d-4983-b18a-3cfb472856ad/6617965000-500.jpg" data-tags="jazz, scandinavian, ninja tune" role="button">
 Jaga Jazzist - Magazine EP (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/a898bb94-de8e-4213-ba7a-e92ade634729/26465477531-500.jpg" data-tags="ninja tune" role="button">
+Chocolate Weasel - Music For Body Lockers (1998-02)
 </li>
 <li data-cover="https://img.discogs.com/CQg59_WNFY1WZOpvvSyaR38_fSM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17371129-1613081510-7356.jpeg.jpg" data-tags="ninja tune, trip-hop" role="button">
 Coldcut - Let Us Replay (1998-10-21)
@@ -84,11 +84,11 @@ The Cinematic Orchestra - Motion (1999-09-01)
 <li data-cover="https://img.discogs.com/Ew0P7-8vW_sDtp28Itv5SLH1ksE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-55168-1166379646.jpeg.jpg" data-tags="ninja tune" role="button">
 FOG - Fog (2000)
 </li>
-<li data-cover="http://coverartarchive.org/release/432cfc14-f890-4bdb-941d-661de00c4e6f/4458087548-500.jpg" data-tags="turntablism, electronic, ninja tune" role="button">
-Kid Koala - Carpal Tunnel Syndrome (2000-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
 Amon Tobin - Supermodified (2000-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3b67260-4558-4e12-8111-417acf083619/21281677552-500.jpg" data-tags="chillout, electronic" role="button">
+Fink - Fresh Produce (2000-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4832694-b9ca-446b-9c1d-9aeda9df7b5e/3647297441-500.jpg" data-tags="electronic, ninja tune" role="button">
 Bonobo - Scuba EP (2000-06-11)
@@ -132,9 +132,6 @@ Funki Porcini - Fast Asleep (2002-07-29)
 <li data-cover="http://coverartarchive.org/release/e61973b7-9cce-4620-802d-d71099fb6010/13581337932-500.jpg" data-tags="ninja tune" role="button">
 Mr. Scruff - Trouser Jazz (2002-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/e2840251-375a-3e3a-8c06-6714d1edb41b/8189295779-500.jpg" data-tags="electronic" role="button">
-Amon Tobin - Out From Out Where (2002-10-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/8fd2bc17-cd42-4347-9b61-68d62f6566df/4637421071-500.jpg" data-tags="alternative rock, hard rock, nu metal, metal, rock" role="button">
 Adema - Insomniac's Dream (2002-11-05)
 </li>
@@ -143,6 +140,9 @@ Super Numeri - Great Aviaries (2003-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d80371fd-a0d3-49b7-86ae-47a2a8b3a4d2/2583977335-500.jpg" data-tags="ninja tune" role="button">
 Amon Tobin - The Bridge (2003-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/3c0778f7-4eb3-4784-8f31-88e4fa3f6a3f/4397236528-500.jpg" data-tags="hip hop, ninja tune" role="button">
+Sixtoo - Antagonist Survival Kit (2003-04)
 </li>
 <li data-cover="https://img.discogs.com/-Ghh-DxfY-YQVhDsE6_B06GuOuM=/fit-in/510x508/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138610-1333875595.jpeg.jpg" data-tags="chill, downtempo, chillout, ninja tune" role="button">
 Hint - Portakabin Fever (2003-04-22)
@@ -153,17 +153,8 @@ FOG - Ether Teeth (2003-05-12)
 <li data-cover="http://coverartarchive.org/release/1cabe5e4-bdef-44b6-9977-934ed3c778a2/21974193733-500.jpg" data-tags="downtempo" role="button">
 Bonobo - Dial 'M' for Monkey (2003-06-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/d19cd24d-7fc1-41c9-bcc7-4ef1dc4a143f/13601095999-500.jpg" data-tags="electronic, trip-hop, ambient, experimental, downtempo, abstract, idm, ninja tune, drum n bass, d'n'b, brisk sound, aersche-tag wegen die ich nach 1000 tracks noch kein profile hab alle anderen haben eins wieso ich nicht wieso aersche aersche kinder blumen, good for driving, yyy, kuhle im sofa, love 1, nojsa spins this vinyl, k00lk0r3, n01s3 n k00l" role="button">
-Amon Tobin - Verbal Remixes & Collaborations (2003-07-07)
-</li>
-<li data-cover="https://img.discogs.com/d4uK5-OBxq78NYh8TjDIXJoZ4F8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-332386-1100777443.jpg.jpg" data-tags="ninja tune" role="button">
-Ty - Upwards (2003-09-29)
-</li>
 <li data-cover="https://img.discogs.com/ymX85_vxej1exnv30-kRLEPg2_g=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-295521-1510235834-2489.jpeg.jpg" data-tags="ninja tune" role="button">
 Jaga Jazzist - Day (2004-01-29)
-</li>
-<li data-cover="https://img.discogs.com/3OWnvD8SUZ4ZL0jcKAIgOu3lfaA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240347-1249301053.jpeg.jpg" data-tags="downtempo, trip-hop, ninja tune" role="button">
-Blockhead - Music By Cavelight (2004-03-23)
 </li>
 <li data-cover="https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg" data-tags="happysad, polish, rock" role="button">
 happysad - Wszystko jedno (2004-07-01)
@@ -188,6 +179,9 @@ The Herbaliser - Take London (2005-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7b050f6-1a17-4896-9f7c-7ee593739423/4523666954-500.jpg" data-tags="ninja tune" role="button">
 One Self - Children of possibility (2005-06-13)
+</li>
+<li data-cover="https://img.discogs.com/zWHOkA8QNiSrbQ5dA0WIYJnmiIQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494017-1559616304-3455.jpeg.jpg" data-tags="ninja tune" role="button">
+Pest - All Out Fall Out (2005-07)
 </li>
 <li data-cover="https://img.discogs.com/7QHMcGAC44p-LrP70B2ALsrQy5w=/fit-in/500x483/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501846-1155838757.jpeg.jpg" data-tags="ninja tune" role="button">
 Treva Whateva - Music's Made Of Memories (2005-07-29)
@@ -225,6 +219,9 @@ The Cinematic Orchestra - Ma Fleur (2007-05-07)
 <li data-cover="http://coverartarchive.org/release/531fd8e4-1fb0-49bf-a8b2-bd33196ffbb6/4515192849-500.jpg" data-tags="electronic, ninja tune" role="button">
 Hexstatic - When Robots Go Bad (2007-06-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/211a02ff-4ec8-4d0d-83f9-a9b480aefbcb/23905287715-500.jpg" data-tags="reggae" role="button">
+Jah Cure - True Reflections...A New Beginning (2007-07-31)
+</li>
 <li data-cover="https://img.discogs.com/AugVrQ0zqs9TgeyA3RWTAMASqHg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1052111-1188555495.jpeg.jpg" data-tags="ninja tune, punk rock" role="button">
 Turbostaat - Harm Rochel (2007-08-03)
 </li>
@@ -258,6 +255,12 @@ Mr. Scruff - Bonus Bait (2009-02-15)
 <li data-cover="https://img.discogs.com/N8JTGR0ddazBmfq92Q1iPXzACzU=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1794321-1352053259-3312.jpeg.jpg" data-tags="indie, guitar" role="button">
 Fink - Sort of Revolution (2009-03)
 </li>
+<li data-cover="https://img.discogs.com/Y3mdN-OInAHDEVkTOkXGq87zAYQ=/fit-in/333x331/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1708985-1238357943.jpeg.jpg" data-tags="ninja tune" role="button">
+The Long Lost - The Long Lost (2009-03-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/114aa1d1-b599-4cbe-999b-bf4fb1c423b1/13253326376-500.jpg" data-tags="electronic, shoegaze, ninja tune" role="button">
+Yppah - Gumball Machine Weekend (2009-04-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/8cba862c-d91f-4270-8311-72b4eea3e3f2/12199752750-500.jpg" data-tags="electronica, shoegaze, ninja tune" role="button">
 Yppah - They Know What Ghost Know (2009-05-18)
 </li>
@@ -272,9 +275,6 @@ Bonobo - Black Sands (2010-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/95ceb8ed-936c-45ae-a376-c22f1a727b5a/15902647072-500.jpg" data-tags="downtempo" role="button">
 Andreya Triana - Lost Where I Belong (2010-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/efaa53a7-4c07-4441-80b1-06f402ec5f7d/3566590122-500.jpg" data-tags="drum and bass" role="button">
-The Qemists - Spirit In The System (2010-07-07)
 </li>
 <li data-cover="https://img.discogs.com/DUFr4xOyonZCOpl7MC6s1tR_QR8=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2531305-1289079410.jpeg.jpg" data-tags="electronica, ninja tune" role="button">
 Stateless - Matilda (2011-02-21)
@@ -312,13 +312,13 @@ Emika - Dva (2013-06-07)
 <li data-cover="http://coverartarchive.org/release/517341f6-7289-4817-be47-a81eea4d54f1/6401015519-500.jpg" data-tags="idm, electronic, ninja tune, vaporwave" role="button">
 Actress - Ghettoville (2014-01-01)
 </li>
+<li data-cover="https://img.discogs.com/XF6UT00aiHf8043usdM75IQ-nmc=/fit-in/600x407/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4807855-1376153823-5166.jpeg.jpg" data-tags="ninja tune" role="button">
+Kelis - Jerk Ribs (2014-02-06)
+</li>
 <li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
 Kelis - Food (2014-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce3cb0b9-7141-4cbf-a4b1-d952dc196a3b/8087314242-500.jpg" data-tags="ninja tune" role="button">
 FaltyDL - In The Wild (2014-08-08)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="ninja tune, footwork, future garage" role="button">
-Machinedrum - Vapor City Archives (2014-11-17)
 </li>
 </ol>

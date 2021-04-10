@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:21:01.398Z
+date: 2021-04-10T12:36:01.628Z
 title: "gothic metal: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")
@@ -104,6 +104,9 @@ Tristania - Beyond the Veil (1999-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/4112b58f-dcb7-3bd0-9744-5907dd120109/18632119340-500.jpg" data-tags="gothic metal, doom metal" role="button">
 Type O Negative - World Coming Down (1999-09-20)
+</li>
+<li data-cover="https://img.discogs.com/edGEGZLOD16Kv6kByAo9_kEeeSg=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130922-1194544860.jpeg.jpg" data-tags="gothic metal" role="button">
+Paradise Lost - Believe in Nothing (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/ccb999e5-78df-4580-8e60-a997add577f7/21611705986-500.jpg" data-tags="gothic metal" role="button">
 Sentenced - Crimson (2000-01-17)
@@ -275,9 +278,6 @@ Krypteria - Bloodangel's Cry (2007-01-19)
 </li>
 <li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Illumination (2007-01-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/a7b98a10-34b3-46c9-b596-5c1293befc91/1069103090-500.jpg" data-tags="gothic metal" role="button">
-Sirenia - Nine Destinies And A Downfall (2007-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab50ac75-91ce-36a3-99b1-6e5e15aad912/5782076120-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Heart of Everything (2007-03-09)

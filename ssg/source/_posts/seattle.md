@@ -1,19 +1,19 @@
 ---
-date: 2021-04-09T23:54:01.401Z
+date: 2021-04-10T11:50:01.531Z
 title: "seattle: 100 albums you must listen to before you die"
 ---
-![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
+![Father John Misty - Fear Fun (2012-04-30)](http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg "Father John Misty - Fear Fun (2012-04-30)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/7027530a-10d2-394f-90f9-96b704f06707/10018403856-500.jpg" data-tags="grunge" role="button">Mudhoney - Superfuzz Bigmuff plus Early Singles (1988)</li>
 <li data-cover="http://coverartarchive.org/release/b0ce1c97-728d-379e-b3e1-2a4a1f6417b1/15135704076-500.jpg" data-tags="grunge" role="button">Temple of the Dog - Temple of the Dog (1991-03)</li>
+<li data-cover="http://coverartarchive.org/release/7244f710-6090-43a2-a4e0-772623d71cf5/1633092791-500.jpg" data-tags="grunge" role="button">Pearl Jam - Vs. (1993-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/9d005b9c-fd45-412c-970b-3e64a59f84cd/13263179887-500.jpg" data-tags="grunge" role="button">Soundgarden - Superunknown (1994-03-07)</li>
 <li data-cover="http://coverartarchive.org/release/294e3f8b-e60b-4975-aa2c-618451d51705/8951028803-500.jpg" data-tags="grunge" role="button">Mad Season - Above (1995-03-14)</li>
 <li data-cover="http://coverartarchive.org/release/8265675c-28ee-4ed4-80ff-86f87e8c9229/27696792367-500.jpg" data-tags="indie, rock, alternative, seattle, indie rock, mellow, huh, bleak, northwest, ships ahoy, franny, gloeiworm, cat covers, have a copy" role="button">Pedro the Lion - Achilles Heel (2004-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">Foo Fighters - In Your Honor (2005-05-13)</li>
-<li data-cover="http://coverartarchive.org/release/37b256dd-b078-3f43-931a-e278c591a9c1/18726885638-500.jpg" data-tags="indie, indie rock, rock, minus the bear" role="button">Minus the Bear - Menos El Oso (2005-08-23)</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">Brandi Carlile - The Story (2007-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/2fe339f1-dd0b-4694-b0d9-cab1f1126a12/1938247497-500.jpg" data-tags="rock, grunge, alternative rock" role="button">Pearl Jam - Backspacer (2009-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg" data-tags="rock, alternative, seattle, soft rock, 2010s, northwest, sub pop records, my gang 12, backlog, soft rock revival, colorful and psychedelic artwork" role="button">Father John Misty - Fear Fun (2012-04-30)</li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,20 +30,11 @@ Heart - Bad Animals (1987-06-05)
 <li data-cover="http://coverartarchive.org/release/7027530a-10d2-394f-90f9-96b704f06707/10018403856-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Superfuzz Bigmuff plus Early Singles (1988)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
-Soundgarden - Ultramega OK (1988-10-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/447793d9-08d5-4dfc-9b08-bdb03466d7f5/9637244123-500.jpg" data-tags="grunge" role="button">
 Mudhoney - Mudhoney (1989)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Soundgarden - Louder Than Love (1989-09-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/8a177f3d-1af3-4f00-9391-d65e6f111cdc/15439520073-500.jpg" data-tags="classic rock, rock" role="button">
-Heart - Brigade (1990-03-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/144002c8-8d56-497d-9a12-08be190f7637/5799222233-500.jpg" data-tags="grunge" role="button">
-Soundgarden - Screaming Life/Fopp (1990-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/215ca43e-982e-499d-852f-6898cc929410/12606679128-500.jpg" data-tags="grunge" role="button">
 Green River - Dry As A Bone/Rehab Doll (1990-09-13)
@@ -71,6 +62,9 @@ Mudhoney - Piece of Cake (1992-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/600340f5-5a33-3a49-af72-2636a38031bb/2236648728-500.jpg" data-tags="grunge" role="button">
 Mother Love Bone - Mother Love Bone (1992-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc0005f1-e3db-4104-a0a1-3ef84c85a857/22686602913-500.jpg" data-tags="classic rock, jimi hendrix" role="button">
+Jimi Hendrix - First Rays of the New Rising Sun (1993)
 </li>
 <li data-cover="https://img.discogs.com/IOFAQTXKK5AoWdLu2z80i8-K6xI=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1570527-1466954533-9862.jpeg.jpg" data-tags="rock" role="button">
 Mark Lanegan - Whiskey for the Holy Ghost (1993)
@@ -132,11 +126,17 @@ Alice in Chains - Music Bank (1999-10-26)
 <li data-cover="https://img.discogs.com/mzrlfh0QWWb39FzQZz6tWxtTFdg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958023-1177482020.jpeg.jpg" data-tags="female vocalists" role="button">
 Hem - Rabbit Songs (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/8fd94e4f-11af-4c9c-b90d-af8ad65c7cdc/8548278499-500.jpg" data-tags="indie" role="button">
+Pedro the Lion - Winners Never Quit (2000-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/bb5ff209-9cef-45d7-97f9-00d68bae1cc7/12576486245-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Binaural (2000-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/52a0b92f-2759-4973-babc-4e437ef2546d/14550837018-500.jpg" data-tags="rock, alternative, alternative rock, seattle, northwest, smeg, four dollar cds" role="button">
 The Presidents of the United States of America - Freaked Out And Small (2000-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/132df5ae-1c07-4900-8e2e-5af898d49cd1/27168811431-500.jpg" data-tags="alternative, indie" role="button">
+Harvey Danger - King James Version (2000-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8aa6de5-b9ba-492c-8996-9deab783edd1/28737274420-500.jpg" data-tags="00s, alternative, singer-songwriter" role="button">
 Mark Lanegan - Field Songs (2001-05)
@@ -180,6 +180,9 @@ Stone Temple Pilots - Thank You (2003-11-10)
 <li data-cover="https://img.discogs.com/CogvThFI3rjMym69LhVls3XEzkE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-587485-1489799627-8645.jpeg.jpg" data-tags="hip hop" role="button">
 Blue Scholars - Blue Scholars (2004-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/77d5fc59-6d52-4070-b31a-b4841f86179b/3759468978-500.jpg" data-tags="grunge, rock" role="button">
+Courtney Love - America's Sweetheart (2004-02-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/8265675c-28ee-4ed4-80ff-86f87e8c9229/27696792367-500.jpg" data-tags="indie, rock, alternative, seattle, indie rock, mellow, huh, bleak, northwest, ships ahoy, franny, gloeiworm, cat covers, have a copy" role="button">
 Pedro the Lion - Achilles Heel (2004-05-25)
 </li>
@@ -201,14 +204,8 @@ Foo Fighters - In Your Honor (2005-05-13)
 <li data-cover="https://img.discogs.com/-3ll23Lussh5OYmUmUx-aQj_tUg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-708932-1150370529.jpeg.jpg" data-tags="rock, alternative, seattle, twee, dramatic, northwest, dry, heartfelt, huggable, catpop, great ep, hey album youre so fucking cute, mss new albums" role="button">
 Math and Physics Club - Movie Ending Romance (2005-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/37b256dd-b078-3f43-931a-e278c591a9c1/18726885638-500.jpg" data-tags="indie, indie rock, rock, minus the bear" role="button">
-Minus the Bear - Menos El Oso (2005-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ce5fc601-bfaf-46db-a26a-603d136557ac/27168871985-500.jpg" data-tags="alternative, rock" role="button">
 Harvey Danger - Little by Little (2005-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/34ef5fdd-18e4-46ab-90ca-e3547a3a303e/21551537625-500.jpg" data-tags="indie, seattle, want, barsuk, the long winters, this is where my heart collide" role="button">
-The Long Winters - Ultimatum (2005-10-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0392562c-1a8a-44d5-8520-73da5881cc7e/26906695046-500.jpg" data-tags="hip hop" role="button">
 Blue Scholars - The Long March EP (2005-12-06)
@@ -219,11 +216,17 @@ Rocky Votolato - Makers (2006-01-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="grunge" role="button">
 Pearl Jam - Pearl Jam (2006-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/a792a8ff-b97c-481f-a5bc-cfe3e81a09a1/10546860779-500.jpg" data-tags="grunge" role="button">
+Candlebox - The Best Of Candlebox (2006-05-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/536ee223-182b-401d-8cab-ef47a538d67a/26074532016-500.jpg" data-tags="rock, indie rock" role="button">
 This Providence - This Providence (2006-09-12)
 </li>
 <li data-cover="https://img.discogs.com/XWBPucx_MnBGY2_OF_I_3eg6kwQ=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1027802-1185707476.jpeg.jpg" data-tags="post-hardcore, post hardcore" role="button">
 These Arms Are Snakes - Easter (2006-09-26)
+</li>
+<li data-cover="https://img.discogs.com/RGRkuDqg8CbvLCa89xDFaVT0eJE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1156699-1199080639.jpeg.jpg" data-tags="emo, indie rock" role="button">
+Jeremy Enigk - World Waits (2006-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/de3bf5b4-33e1-4515-9939-7a3ee17344da/1501272882-500.jpg" data-tags="seattle, singer-songwriter, acoustic, americana, alt-country, northwest, duyster, sera" role="button">
 Sera Cahoone - Sera Cahoone (2007-01-11)
@@ -252,8 +255,8 @@ Grand Archives - The Grand Archives (2008-02-19)
 <li data-cover="http://coverartarchive.org/release/9c9cf45b-5354-43e0-95c5-825f49d1e668/15535030253-500.jpg" data-tags="alternative rock" role="button">
 Blind Melon - For My Friends (2008-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/64a3711f-a273-4f9e-a098-b1588538be40/4023640832-500.jpg" data-tags="trip-hop" role="button">
-Blue Sky Black Death - Late Night Cinema (2008-04-29)
+<li data-cover="https://img.discogs.com/ApFR1O_HLzyiUWbXEy2wvCBIqow=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11515193-1517702743-4731.jpeg.jpg" data-tags="rock, grunge" role="button">
+Mudhoney - The Lucky Ones (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b3593a4-953b-4d47-bd46-a366b8e2420e/8986894376-500.jpg" data-tags="grunge, stoner rock, sludge metal" role="button">
 Melvins - Nude With Boots (2008-07-08)
@@ -282,11 +285,11 @@ Band of Horses - Infinite Arms (2010-05-17)
 <li data-cover="http://coverartarchive.org/release/618465a4-40c6-4041-a8d4-90ead3a62515/1604002336-500.jpg" data-tags="stoner rock" role="button">
 Melvins - The Bride Screamed Murder (2010-06-01)
 </li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="grunge, rock, live" role="button">
+Soundgarden - Live On I-5 (2011-03-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/55ee9605-c90f-48eb-9ed4-8022d2f5fefe/26518177815-500.jpg" data-tags="rock, alternative, seattle, northwest" role="button">
 David Bazan - Strange Negotiations (2011-05-24)
-</li>
-<li data-cover="https://img.discogs.com/3JJlYvSB0I_2zpEMhqc3yQF61k8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2960146-1497979777-4865.jpeg.jpg" data-tags="hip-hop, experimental hip-hop" role="button">
-Shabazz Palaces - Black Up (2011-06-28)
 </li>
 <li data-cover="https://img.discogs.com/WXX2I_MhqPlmmx9Q1dycpekQuJo=/fit-in/471x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2982964-1310331799.jpeg.jpg" data-tags="psychedelic" role="button">
 Night Beats - Night Beats (2011-06-28)
@@ -305,9 +308,6 @@ Brandi Carlile - Bear Creek (2012-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ac12ff3-71e4-4942-bb3b-093dc44c8568/3851249834-500.jpg" data-tags="americana" role="button">
 Sera Cahoone - Deer Creek Canyon (2012-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
-Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/66799d73-6439-44a2-a0c1-c044c1f0e6cc/3881792902-500.jpg" data-tags="indie" role="button">
 Telekinesis - Dormarion (2013-03-22)

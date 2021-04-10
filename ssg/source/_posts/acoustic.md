@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:31:07.053Z
+date: 2021-04-10T11:51:01.518Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -62,6 +62,9 @@ David Gray - White Ladder (1998-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e68bc44b-f410-35cc-bf84-c0abbbcc08b8/11497364966-500.jpg" data-tags="acoustic, unplugged, live" role="button">
 Alanis Morissette - MTV Unplugged (1998-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/79e912db-4f71-4fcb-b5be-aced98234ed3/23716283658-500.jpg" data-tags="acoustic" role="button">
+Dave Matthews & Tim Reynolds - Live At Luther College (1999-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac22031b-15c1-4323-a3f2-f6cfe61b9b9c/13116115117-500.jpg" data-tags="acoustic, john mayer" role="button">
 John Mayer - Inside Wants Out (1999-09-24)
@@ -140,6 +143,9 @@ Iron & Wine - Woman King (2005-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
+</li>
+<li data-cover="https://img.discogs.com/qGxFr74Bc2NaUn7_VE9E3MsVa1M=/fit-in/200x373/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5689990-1400008311-5881.jpeg.jpg" data-tags="acoustic" role="button">
+Alanis Morissette - Jagged Little Pill Acoustic (2005-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/15a9cca2-cd9e-4aac-9828-b85f184b1f84/24240958685-500.jpg" data-tags="acoustic, emo" role="button">
 Secondhand Serenade - Awake (2005-10-27)
@@ -222,9 +228,6 @@ Jack Johnson - Sleep Through The Static (2008-02-01)
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
 </li>
-<li data-cover="https://img.discogs.com/vwxoIJCM0ix4bNSbrNeDi9zXeaY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1839737-1265109088.jpeg.jpg" data-tags="emo, acoustic" role="button">
-Secondhand Serenade - A Twist in My Story (2008-02-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)
 </li>
@@ -242,9 +245,6 @@ Joshua Radin - Simple Times (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">
 Gregory Alan Isakov - This Empty Northern Hemisphere (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/52711131-54dc-3d9b-9cc1-1e8cd8bfe928/28917100418-500.jpg" data-tags="rock, alternative rock" role="button">
-The Fray - The Fray (2009-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/14b6ef82-a25f-3698-b1d1-4c2a53133685/27492842731-500.jpg" data-tags="folk" role="button">
 Kings of Convenience - Declaration of Dependence (2009-10)

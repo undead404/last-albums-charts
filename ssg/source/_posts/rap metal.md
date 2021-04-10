@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:00:01.421Z
+date: 2021-04-10T11:49:01.401Z
 title: "rap metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - Rage Against the Machine (1992-06-11)](https://img.discogs.com/iTqMk9mKwHL-LEb8Y7xZsdugBxo=/fit-in/591x778/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1113698-1221514241.jpeg.jpg "Rage Against the Machine - Rage Against the Machine (1992-06-11)")
@@ -60,6 +60,9 @@ P.O.D. - Brown (1996)
 <li data-cover="https://img.discogs.com/aVZevwp2axHZDWkCKzHcMSIcnwI=/fit-in/428x418/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2711681-1297618336.jpeg.jpg" data-tags="metal, rock, espanol, rap metal, def con dos, defcondos, originales" role="button">
 Def con Dos - Ultramemia (1996)
 </li>
+<li data-cover="http://coverartarchive.org/release/432ce392-0177-4316-b063-b9649ba35542/3789050212-500.jpg" data-tags="rap metal" role="button">
+Xero - Xero (1996)
+</li>
 <li data-cover="https://img.discogs.com/NIv_lYinHC8at3EeQntemnpXHlc=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1260221-1402325740-4191.jpeg.jpg" data-tags="metal, japanese, punk, industrial, rapcore, digital hardcore, rap metal, mixture rock" role="button">
 The Mad Capsule Markets - 4 Plugs (1996-01-24)
 </li>
@@ -78,8 +81,14 @@ Korn - Life Is Peachy (1996-10-15)
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
 </li>
+<li data-cover="https://img.discogs.com/GVqdz6MgH8AZotQDJXBG8Ez5n9g=/fit-in/461x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341568-1284146370.jpeg.jpg" data-tags="cyber metal" role="button">
+Waltari - Space Avenue (1997-03-01)
+</li>
 <li data-cover="https://img.discogs.com/8ToUybb-vm5Jzb9vQ39DUMOzl00=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2574245-1336478814.jpeg.jpg" data-tags="rapcore, rap metal" role="button">
 One Minute Silence - Available In All Colours (1997-03-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/5fe78fdd-bbfd-4203-b55c-f587219282c1/5326676109-500.jpg" data-tags="hardcore" role="button">
+FlapJack - Juicy Planet Earth (1997-05-01)
 </li>
 <li data-cover="https://img.discogs.com/FgdEQBXFd7GTQi4f9CjkNGRTPis=/fit-in/600x935/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6088542-1410770631-6518.jpeg.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Three Dollar Bill, Yall$ (1997-06-24)
@@ -116,6 +125,9 @@ The Ernies - Meson Ray (1999-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/be3e00aa-368a-3f09-ac96-cd094e9a7151/3234514330-500.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - Significant Other (1999-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/894f7e0f-224b-4e6b-b289-0485449efb2d/9607489333-500.jpg" data-tags="rapcore, nu metal" role="button">
+Reveille - Laced (1999-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/8227ec30-5bd0-44f3-90a4-05996f8fe902/15634524801-500.jpg" data-tags="nu metal" role="button">
 P.O.D. - The Fundamental Elements of Southtown (1999-08-24)
@@ -204,9 +216,6 @@ Biohazard - Uncivilization (2001-09-11)
 <li data-cover="https://img.discogs.com/l0tWwx0MVrty6N4T1chGjDodIZk=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7034679-1467668052-4503.jpeg.jpg" data-tags="rock, hard rock, rap metal" role="button">
 Kid Rock - Cocky (2001-11-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cbcaefc3-506d-4705-90df-673d9e992a1d/6134904408-500.jpg" data-tags="hip-hop, hip hop, gangsta rap, rapcore" role="button">
-Cypress Hill - Stoned Raiders (2001-12-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/58073fbb-c380-337a-ac6c-40048c3ba83c/25753837881-500.jpg" data-tags="alternative metal, nu metal" role="button">
 Five Pointe O - Untitled (2002)
 </li>
@@ -264,9 +273,6 @@ Clawfinger - Hate yourself with style (2005-11-18)
 <li data-cover="http://coverartarchive.org/release/b1b2a42d-bf7a-3675-bdd4-87bec88019de/10920904348-500.jpg" data-tags="industrial metal, rapcore" role="button">
 Clawfinger - Life Will Kill You (2007-07-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/01b4ca3a-d4c2-4a28-b603-bff03fa8b3e0/4369340106-500.jpg" data-tags="hip hop, 2000s, rap metal, public enemy, hardcore hip hop, political hip-hop, political hip hop, us-american, studio album, hip hop music, how you sell soul to a soulless people who sold their soul, k1r7m, redeye distribution, slamjamz" role="button">
-Public Enemy - How You Sell Soul To A Soulless People Who Sold Their Soul??? (2007-08-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/a98da07a-8577-4e54-b096-6f890d5747df/7790426612-500.jpg" data-tags="death rap" role="button">
 Necro - Death Rap (2007-09-10)
 </li>
@@ -279,17 +285,14 @@ The Lonely Island - Jizz In My Pants (2008)
 <li data-cover="https://img.discogs.com/_C_mdbsSG1ja8F81cZJ3qMXDQlU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3316480-1325961296.jpeg.jpg" data-tags="punk rock" role="button">
 Zebrahead - Phoenix (2008-07-09)
 </li>
-<li data-cover="https://img.discogs.com/TNY7hpyvi3I9ls-EX7EXpLdX9MA=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1481907-1369062249-5190.jpeg.jpg" data-tags="hip-hop, rap" role="button">
-Ill Bill - The Hour Of Reprisal (2008-09-16)
+<li data-cover="https://img.discogs.com/NkaY54qOuNqp8mIHY-QNp8ZIA9o=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2861822-1304452223.jpeg.jpg" data-tags="rapcore, nu metal, rap metal, reveille, genuflect" role="button">
+Genuflect - The Shadow Side (2009-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f8c8649a-bd26-471d-a289-26a471ae94ec/25925529731-500.jpg" data-tags="rapcore" role="button">
 Hollywood Undead - Desperate Measures (2009-11-10)
 </li>
 <li data-cover="https://img.discogs.com/MuSxo6UNSiJKFq_PIRIucpNcLa8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3227335-1321338342.jpeg.jpg" data-tags="hip-hop, rapcore, manafest" role="button">
 Manafest - The Chase (2010-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/c83758c0-1c38-47fc-b9df-1f188fb1228a/25961022995-500.jpg" data-tags="rap, underground hip-hop" role="button">
-Ill Bill & Vinnie Paz - Heavy Metal Kings (2011-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/6bd6e65f-2584-4a20-a88d-695d32ed429d/7687347287-500.jpg" data-tags="rapcore, nu metal" role="button">
 Limp Bizkit - Gold Cobra (2011-06-24)
@@ -302,9 +305,6 @@ Limp Bizkit - Ready To Go (2013-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/68595a05-804f-4895-bdb0-ff56369dad8b/5327569529-500.jpg" data-tags="chaotic hardcore" role="button">
 Stray from the Path - Anonymous (2013-09-17)
-</li>
-<li data-cover="https://img.discogs.com/4SWvFIosbSrVObgVTbP8_E_LjLw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9605634-1483543276-1402.jpeg.jpg" data-tags="djent, rap metal" role="button">
-Devastator - Unconscious (2013-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
 Linkin Park - The Hunting Party (2014-06-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:59:01.400Z
+date: 2021-04-10T12:24:01.507Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
 The Jesus and Mary Chain - Psychocandy (1985-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/72c7ff1f-caba-46f6-b1c3-80a22a2866c0/9681542476-500.jpg" data-tags="noise pop" role="button">
+My Bloody Valentine - Sunny Sundae Smile (1987-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Sonic Youth - Sister (1987-06)
@@ -57,14 +60,14 @@ Pixies - Trompe le Monde (1991-09-23)
 <li data-cover="http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - Loveless (1991-11-04)
 </li>
+<li data-cover="https://img.discogs.com/yC7cMBlJDQqE28yvR-4e8loOk-s=/fit-in/598x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-554596-1259364363.jpeg.jpg" data-tags="shoegaze" role="button">
+Swirlies - Blonder Tongue Audio Baton (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/982d838e-2753-3964-8730-2219cb347560/11491218525-500.jpg" data-tags="shoegaze" role="button">
 Drop Nineteens - Delaware (1992)
 </li>
 <li data-cover="https://img.discogs.com/UMBJGIOlHKIlyuDcv3xQGsGIxKA=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15177157-1587702788-9526.jpeg.jpg" data-tags="shoegaze, alternative rock" role="button">
 The Jesus and Mary Chain - Honey's Dead (1992)
-</li>
-<li data-cover="http://coverartarchive.org/release/6ab37e32-c5a9-3f35-bf89-5aaf0cad3476/8923091701-500.jpg" data-tags="indie rock" role="button">
-Pavement - Slanted and Enchanted (1992-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
 The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
@@ -87,6 +90,9 @@ The Flaming Lips - Clouds Taste Metallic (1995-09-19)
 <li data-cover="http://coverartarchive.org/release/cddfbb16-95ba-4eef-8468-29d0128bdc93/21562810344-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About (1996-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/ecef0212-b8c5-459f-8fd7-47f8c775a798/8886801506-500.jpg" data-tags="alternative rock, indie rock, space rock, rock, alternative, post-grunge" role="button">
+Failure - Fantastic Planet (1996-08-13)
+</li>
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
 </li>
@@ -96,20 +102,23 @@ Yo La Tengo - I Can Hear the Heart Beating as One (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/51413ed2-fae9-47f2-9759-b0b98434836c/1156807663-500.jpg" data-tags="alternative rock" role="button">
 Pixies - Death to the Pixies (1997-10-06)
 </li>
-<li data-cover="https://img.discogs.com/L_oeUPSyTFszfqXlrFcAFZu1qlY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-443317-1358333173-1468.jpeg.jpg" data-tags="dream pop" role="button">
-Mercury Rev - Deserter's Songs (1998-09-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/eeab25ca-5a8e-4fc7-bb2f-2af24b562fe1/1269078836-500.jpg" data-tags="noise pop" role="button">
 Black Tambourine - Complete Recordings (1999-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/95586553-68a7-4d51-9e3b-ea75019cb33c/7066058886-500.jpg" data-tags="twee pop, jangle pop, garage rock revival, melodic, noise pop, 00s, sing-along, tuneful, truckload of trouble, dr small jukebox, actually cool, evening city, thelastmatch, savonlinna" role="button">
+The Aislers Set - The Last Match (2000-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 Modest Mouse - The Moon & Antarctica (2000-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4427c4c-9971-41a6-9392-efca9ac48555/6985295467-500.jpg" data-tags="rock" role="button">
 Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
+</li>
+<li data-cover="https://img.discogs.com/OZNzVx8zwpbRtFXXuTGWjnSZIM4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2583517-1542933395-8879.jpeg.jpg" data-tags="dream pop, indie rock" role="button">
+Mercury Rev - All Is Dream (2001-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/39ded298-59ee-4eb2-8449-aa81ac46b18e/9544144082-500.jpg" data-tags="noise pop" role="button">
 Deerhoof - Reveille (2002-06-04)
@@ -122,9 +131,6 @@ Black Rebel Motorcycle Club - Take Them On, On Your Own (2003-08-20)
 </li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
-</li>
-<li data-cover="https://img.discogs.com/pprUKgkowK3OCTpUPzPZrCFAwt4=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1512847-1244220758.jpeg.jpg" data-tags="shoegazegdchill, american i like, gdchills00s" role="button">
-Yo La Tengo - I Am Not Afraid Of You And I Will Beat Your Ass (2006-09-08)
 </li>
 <li data-cover="https://img.discogs.com/qc4oRu1Tl0MLXyV8IwWDZ7riIyY=/fit-in/599x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3477532-1363987980-7174.jpeg.jpg" data-tags="experimental" role="button">
 Xiu Xiu - The Air Force (2006-09-11)
@@ -144,14 +150,8 @@ Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 <li data-cover="https://img.discogs.com/2Bxxw50aJOWA5ZV6hTZMB9dMRL4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-995511-1553564718-4840.jpeg.jpg" data-tags="indie rock" role="button">
 Frog Eyes - Tears Of The Valedictorian (2007-05-01)
 </li>
-<li data-cover="https://img.discogs.com/VZlzejrrxZQ4j4-hTLJo-cmqpUk=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039866-1267920531.jpeg.jpg" data-tags="shoegaze" role="button">
-A Place to Bury Strangers - A Place To Bury Strangers (2007-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
-Liars - Liars (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e883ea3-d5f7-4854-80a2-8b6811e594cd/22248133603-500.jpg" data-tags="rock, funk, noise pop, funky, groovy, trip, jecks, noise-fi, in queue no tracks" role="button">
 Wavves - Wavves (2007-12-31)
@@ -168,11 +168,11 @@ Ponytail - Ice Cream Spiritual (2008-06-17)
 <li data-cover="https://img.discogs.com/F9eHisPcHAbXQvvLRGignAeARys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13398283-1553445775-7647.png.jpg" data-tags="indie" role="button">
 Los Campesinos! - We Are Beautiful, We Are Doomed (2008-10-06)
 </li>
+<li data-cover="https://img.discogs.com/rlI4SmRCqB39hMcrZXHUmoP7dKE=/fit-in/479x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1831656-1246382246.gif.jpg" data-tags="lo-fi, noise pop, weird canada" role="button">
+Tonstartssbandht - An When (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/38e2459b-dfe9-4a7b-b116-7c87ae7e5ba7/7203358215-500.jpg" data-tags="shoegaze" role="button">
 The Pains of Being Pure at Heart - The Pains of Being Pure at Heart (2009-01-26)
-</li>
-<li data-cover="https://img.discogs.com/DJnlZ_1PF5VmTj67b-ylVgvMt3Q=/fit-in/500x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722694-1239226050.jpeg.jpg" data-tags="experimental" role="button">
-Micachu - Jewellery (2009-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b486ece-791b-4c15-9ec4-e4153da769d6/4827627615-500.jpg" data-tags="lo-fi" role="button">
 Wavves - Wavvves (2009-03-17)
@@ -237,9 +237,6 @@ Anika - Anika (2010-11)
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
 </li>
-<li data-cover="https://img.discogs.com/_pX56AIo9tfD9m8aM3BbTF3Ywf0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2724134-1298166628.jpeg.jpg" data-tags="indie rock, indie" role="button">
-Yuck - Yuck (2011-02-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/d29c2481-a2bb-4c85-883f-85fb54659ba3/10425432633-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Pains of Being Pure at Heart - Belong (2011-03-16)
 </li>
@@ -279,6 +276,9 @@ of Montreal - Paralytic Stalks (2012-02-07)
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/21fe0978-2169-4739-8170-e676deb84fff/3982008386-500.jpg" data-tags="indie, indie rock, dream pop" role="button">
+Frankie Rose - Interstellar (2012-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/649641fb-a220-4ca6-ac26-a41e94bf1ed5/1067679953-500.jpg" data-tags="noise, noise rock, experimental rock, psychedelic, noise pop, acid, art rock, psychedelic rock, collaboration, drugs, neo-psychedelia, bella union, warner bros records, warner bros, record store day 2012" role="button">
 The Flaming Lips - The Flaming Lips And Heady Fwends (2012-04-21)
 </li>
@@ -294,11 +294,11 @@ Car Seat Headrest - Monomania (2012-08-01)
 <li data-cover="https://img.discogs.com/0eLPCxHo0284lfurJDojORH-WyQ=/fit-in/438x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3841994-1346544165-6991.jpeg.jpg" data-tags="noise pop" role="button">
 Deerhoof - Breakup Song (2012-09-04)
 </li>
+<li data-cover="https://img.discogs.com/zwZWNjsLirMCcYaAqdVOeA3fyoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7384933-1440352188-3317.jpeg.jpg" data-tags="shoegaze" role="button">
+No Joy - Wait To Pleasure (2013-04-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/df0f66d1-aad5-4fe1-b758-3fd5aa5908b7/3817529789-500.jpg" data-tags="indie rock" role="button">
 Deerhunter - Monomania (2013-05-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/d7880234-febe-4cae-8362-b5b39b233b07/4027895740-500.jpg" data-tags="rock, merge" role="button">
-Mikal Cronin - MCII (2013-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/510bfd27-b585-4523-aee0-2c60f54b493f/5166508856-500.jpg" data-tags="electronic, indie" role="button">
 The Naked and Famous - In Rolling Waves (2013-09-13)

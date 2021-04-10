@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T14:09:01.321Z
+date: 2021-04-10T11:48:01.730Z
 title: "nwobhm: 100 albums you must listen to before you die"
 ---
 ![Iron Maiden - The Number of the Beast (1982-04-26)](https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg "Iron Maiden - The Number of the Beast (1982-04-26)")
@@ -11,9 +11,9 @@ title: "nwobhm: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/03f52642-f3b7-4cd8-abdd-10d445bc45cd/28091718961-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Piece of Mind (1983-05-16)</li>
 <li data-cover="http://coverartarchive.org/release/556c0066-8114-33ad-aa45-ab2f203e2777/4947735140-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Powerslave (1984-09-03)</li>
 <li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Somewhere In Time (1986-06-29)</li>
-<li data-cover="https://img.discogs.com/26EJQK-uA-jRDmUEhsyC7bhWiJA=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3446596-1330717578.jpeg.jpg" data-tags="heavy metal" role="button">Iron Maiden - Seventh Son Of A Seventh Son (1988-04-11)</li>
 <li data-cover="http://coverartarchive.org/release/b0b6f83c-8d1a-3e5f-aa26-e6c56324e393/10969475744-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Fear of the Dark (1992-05-11)</li>
 <li data-cover="http://coverartarchive.org/release/f64e95fb-5e84-42c7-90e6-6cad939d8eec/3309838336-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Brave New World (2000-05-30)</li>
+<li data-cover="http://coverartarchive.org/release/3c1e204d-5753-4a12-9a27-f6cd70f296a1/15064785894-500.jpg" data-tags="heavy metal" role="button">Iron Maiden - Dance Of Death (2003-09-03)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -63,9 +63,6 @@ Saxon - Wheels Of Steel (1980)
 <li data-cover="http://coverartarchive.org/release/b2db8cbe-f54d-4d75-aa95-4ae779a63a62/15021948453-500.jpg" data-tags="heavy metal, nwobhm" role="button">
 Tygers of Pan Tang - Wild Cat (1980)
 </li>
-<li data-cover="https://img.discogs.com/fP9UsqftjBly4WIqVdlOiM5oDZo=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1617238-1232419388.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
-Witchfynde - Give 'Em Hell (1980-02)
-</li>
 <li data-cover="https://img.discogs.com/EpdrYBYUoWn3E-3yuXGitQX4BAU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8489499-1516382649-7494.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
 Angel Witch - Angel Witch (1980-03-12)
 </li>
@@ -87,8 +84,11 @@ Diamond Head - Lightning to the Nations (1980-10-03)
 <li data-cover="http://coverartarchive.org/release/77544bd2-f263-473c-b302-1ed36ec2c138/11590284536-500.jpg" data-tags="heavy metal" role="button">
 Saxon - Denim And Leather (1981)
 </li>
-<li data-cover="https://img.discogs.com/D2Ej7Ja7-ICLVJsOk24e4WPK-nk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5460785-1395091656-2095.jpeg.jpg" data-tags="heavy metal, nwobhm, hard rock" role="button">
+<li data-cover="https://img.discogs.com/toeDEPs2bMvgWN0N0AU1Afk_V-I=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5268103-1521665807-4054.jpeg.jpg" data-tags="heavy metal, nwobhm, hard rock" role="button">
 Girlschool - Hit and Run (1981)
+</li>
+<li data-cover="http://coverartarchive.org/release/e21413d7-a38e-4614-a1ed-0dc7306d06dc/12432668802-500.jpg" data-tags="heavy metal, nwobhm" role="button">
+Samson - Shock Tactics (1981)
 </li>
 <li data-cover="http://coverartarchive.org/release/d422bb5f-9869-3cf6-93f3-f9c0176caf47/25177133890-500.jpg" data-tags="heavy metal" role="button">
 Tygers of Pan Tang - Spellbound (1981)
@@ -147,16 +147,16 @@ Tokyo Blade - Tokyo Blade (1983)
 <li data-cover="http://coverartarchive.org/release/03f52642-f3b7-4cd8-abdd-10d445bc45cd/28091718961-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Piece of Mind (1983-05-16)
 </li>
-<li data-cover="https://img.discogs.com/o2VQQafkEU76eiiKW3q_NJkxG3M=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7658739-1446131060-5308.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
+<li data-cover="https://img.discogs.com/Hj5UCDvybn6ijk5vUAmZzy-Lsjg=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1999879-1319024034.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
 Satan - Court in the Act (1983-06)
 </li>
-<li data-cover="https://img.discogs.com/_p3QUw0m77DTQhUWU4dedNgXc2k=/fit-in/551x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4900916-1378902915-8466.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/Avm1x5sUs88zj8mRg-mpIh8RXEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1522576-1601943632-3332.jpeg.jpg" data-tags="heavy metal" role="button">
 Motörhead - Another Perfect Day (1983-06-04)
 </li>
 <li data-cover="https://img.discogs.com/gWi-EOrwEhTvNxUjKRxjZlAgMPY=/fit-in/600x792/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15726124-1596651510-5948.jpeg.jpg" data-tags="nwobhm, heavy metal" role="button">
 Tank - This Means War (1983-06-10)
 </li>
-<li data-cover="https://img.discogs.com/IZWpjHh4dMn1Y0KRq_4WoZABGEE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11650496-1520038167-4157.jpeg.jpg" data-tags="nwobhm, heavy metal" role="button">
+<li data-cover="https://img.discogs.com/J8gmsZFKW50S9br8F-_GSRthayI=/fit-in/280x283/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2836257-1330634147.jpeg.jpg" data-tags="nwobhm, heavy metal" role="button">
 Cloven Hoof - Cloven Hoof (1984)
 </li>
 <li data-cover="https://img.discogs.com/Ss25bqGGH01bVHrE0SUQ1Zxaqi8=/fit-in/468x460/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3156998-1318362009.jpeg.jpg" data-tags="heavy metal" role="button">
@@ -180,11 +180,11 @@ Motörhead - No Remorse (1984-09-15)
 <li data-cover="https://img.discogs.com/QI7-Eo3UVufWLGdIM3tLBfaOvmE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-996406-1534803758-7147.jpeg.jpg" data-tags="heavy metal, nwobhm" role="button">
 Blitzkrieg - A Time of Changes (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/f5b8f033-2c52-4b50-9fde-88b971c180ad/11216527284-500.jpg" data-tags="heavy metal, nwobhm" role="button">
-Grim Reaper - Fear No Evil (1985)
-</li>
 <li data-cover="http://coverartarchive.org/release/effc3251-6e48-4fa7-8083-5c8275e6b063/14032149311-500.jpg" data-tags="heavy metal" role="button">
 Saxon - Innocence Is No Excuse (1985)
+</li>
+<li data-cover="http://coverartarchive.org/release/c57083d2-2072-465b-b020-1d0c75dc859a/4957524173-500.jpg" data-tags="heavy metal, nwobhm" role="button">
+Virtue - We Stand To Fight (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/12aea57d-ab05-3bc2-8e05-e57230e1e2c9/13275371966-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Live After Death (1985-10-14)
@@ -192,11 +192,8 @@ Iron Maiden - Live After Death (1985-10-14)
 <li data-cover="http://coverartarchive.org/release/105b12df-6029-4c0c-b6f6-2db995c0834e/5756552548-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Somewhere In Time (1986-06-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/60bfea78-ff90-40cf-8b95-4c85a4f7241e/13271258691-500.jpg" data-tags="heavy metal, nwobhm" role="button">
-Grim Reaper - Rock You to Hell (1987-08)
-</li>
-<li data-cover="https://img.discogs.com/26EJQK-uA-jRDmUEhsyC7bhWiJA=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3446596-1330717578.jpeg.jpg" data-tags="heavy metal" role="button">
-Iron Maiden - Seventh Son Of A Seventh Son (1988-04-11)
+<li data-cover="http://coverartarchive.org/release/cec02646-2fbe-452c-abc7-53d1cf9d5f0d/9500420141-500.jpg" data-tags="megadeth" role="button">
+Diamond Head - Behold The Beginning (1987)
 </li>
 <li data-cover="https://img.discogs.com/D5vcjh0ggmZetkZtS-UT_9NU8NQ=/fit-in/388x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3440001-1330453101.jpeg.jpg" data-tags="speed metal, thrash metal, black metal, heavy metal" role="button">
 Venom - Prime Evil (1989-10-09)
@@ -212,6 +209,9 @@ Iron Maiden - No Prayer For The Dying (1990-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8737f15d-5b6c-4896-829a-68462347f67a/12068773876-500.jpg" data-tags="heavy metal, metal, hard rock" role="button">
 Saxon - Best Of Saxon (1991)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4e8452d-aec9-471a-951d-f2734a94a362/27100780266-500.jpg" data-tags="heavy metal" role="button">
+Motörhead - The Best Of (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0b6f83c-8d1a-3e5f-aa26-e6c56324e393/10969475744-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Fear of the Dark (1992-05-11)
@@ -231,9 +231,6 @@ Iron Maiden - The X Factor (1995-10-02)
 <li data-cover="http://coverartarchive.org/release/0235b824-f285-4f24-819d-e1ebdb686847/10879471570-500.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Best of the Beast (1996-09-23)
 </li>
-<li data-cover="https://img.discogs.com/8yroNY38ZR3IeozC_DGjKg77OUQ=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5315001-1597551502-1782.jpeg.jpg" data-tags="metal, nwobhm" role="button">
-Angel Witch - Resurrection (1998)
-</li>
 <li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - Virtual XI (1998-03-18)
 </li>
@@ -245,6 +242,9 @@ Demon - Midnight Funk (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec286378-1430-41ae-b851-5e1bb50d57e7/7123321703-500.jpg" data-tags="heavy metal, metal" role="button">
 Iron Maiden - Ed Hunter (1999-07)
+</li>
+<li data-cover="https://img.discogs.com/UT6B-2EJdmN3L7avqHR9n6oFvu0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2553322-1565818087-5392.jpeg.jpg" data-tags="heavy metal" role="button">
+Saxon - Metalhead (1999-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/f909d69f-52d4-45e5-9b97-65fdb9f274e6/7500158219-500.jpg" data-tags="heavy metal" role="button">
 Grim Reaper - Best Of Grim Reaper (1999-09-28)
@@ -303,16 +303,16 @@ Venom - Metal Black (2006-03-24)
 <li data-cover="http://coverartarchive.org/release/e6cad4c1-2f11-4a75-8c6e-d60f0ea9098e/5408830988-500.jpg" data-tags="heavy metal" role="button">
 Judas Priest - The Essential Judas Priest (2006-04-11)
 </li>
-<li data-cover="https://img.discogs.com/Z-viEOR7s2i1cT81Kpr_xps8tcc=/fit-in/309x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3791648-1344580340-5919.jpeg.jpg" data-tags="heavy metal" role="button">
+<li data-cover="https://img.discogs.com/Eqkgg2bf05VzfO8QewZ0xJGwY9M=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2765855-1300047081.jpeg.jpg" data-tags="heavy metal" role="button">
 Iron Maiden - A Matter of Life and Death (2006-08-28)
 </li>
 <li data-cover="https://img.discogs.com/UfghKRDFdgSE-v6hi910ISbVuhU=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1469825-1224633872.jpeg.jpg" data-tags="heavy metal, doom metal, traditional doom metal" role="button">
 Pagan Altar - Mythical & Magical (2006-12-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/1abe9146-f16d-45f5-8e38-763ea75f6356/15121788749-500.jpg" data-tags="hard rock" role="button">
-Judas Priest - Playlist: The Very Best of Judas Priest (2008-06-17)
+<li data-cover="http://coverartarchive.org/release/e138b837-d9cf-4000-9a45-c7257d7d4ec7/4188294440-500.jpg" data-tags="heavy metal" role="button">
+Iron Maiden - Flight 666: The Original Soundtrack (2009-05-25)
 </li>
-<li data-cover="https://img.discogs.com/aTC56iuyWwtZqc-0uOgv7DikpTs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2397320-1552819919-8648.jpeg.jpg" data-tags="classic rock, aor, melodic metal, nwobhm, superb" role="button">
+<li data-cover="https://img.discogs.com/FKgSSe-h23aVyinAReErLiXCKaI=/fit-in/497x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8727756-1467474714-2011.jpeg.jpg" data-tags="classic rock, aor, melodic metal, nwobhm, superb" role="button">
 Praying Mantis - Sanctuary (2009-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad91280b-8306-3ce3-99a2-c2604f7fb884/4291013532-500.jpg" data-tags="heavy metal" role="button">

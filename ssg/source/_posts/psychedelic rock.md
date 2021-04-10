@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:40:01.459Z
+date: 2021-04-10T12:30:01.566Z
 title: "psychedelic rock: 100 albums you must listen to before you die"
 ---
 ![Tame Impala - Lonerism (2012-10-05)](http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg "Tame Impala - Lonerism (2012-10-05)")
@@ -60,6 +60,9 @@ The Beatles - Magical Mystery Tour (1967-11-27)
 <li data-cover="http://coverartarchive.org/release/a2662ae2-f06b-3cdd-892f-596646c03558/4119591705-500.jpg" data-tags="psychedelic, rock, psychedelic rock, classic rock" role="button">
 The Jimi Hendrix Experience - Axis: Bold As Love (1967-12-01)
 </li>
+<li data-cover="https://img.discogs.com/k-o5sSl2CWfkoKOySGdNMJSNf_E=/fit-in/600x859/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10670506-1503162033-3953.jpeg.jpg" data-tags="psychedelic" role="button">
+The Rolling Stones - Their Satanic Majesties Request (1967-12-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/7217595f-d6be-4bde-9289-6636243f9eda/15863951043-500.jpg" data-tags="psychedelic rock" role="button">
 Jefferson Airplane - Crown Of Creation (1968)
 </li>
@@ -83,6 +86,9 @@ The Jimi Hendrix Experience - Electric Ladyland (1968-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d7018ec-2064-49e4-9dbe-2982f753ec20/9129871365-500.jpg" data-tags="soul, uk" role="button">
 Jungle - Jungle (1969)
+</li>
+<li data-cover="http://coverartarchive.org/release/95355c6c-d22f-395d-8bc9-c40519a3ac29/9777993909-500.jpg" data-tags="krautrock, psychedelic rock" role="button">
+Can - Monster Movie (1969)
 </li>
 <li data-cover="https://img.discogs.com/sEqu7m8V2M8DySXp2VBC9MRuxpM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3898081-1589187732-6072.jpeg.jpg" data-tags="60s, psychedelic rock, psychedelic" role="button">
 Quicksilver Messenger Service - Happy Trails (1969-03)
@@ -174,9 +180,6 @@ The Doors - The Very Best of The Doors (2001-09-08)
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/487fbe2e-7ff2-3981-8e13-30a2623c79b6/22277703224-500.jpg" data-tags="psychedelic, psychedelic rock, hard rock, 00s, black mountain" role="button">
-Black Mountain - Black Mountain (2005-01-18)
-</li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
 </li>
@@ -203,9 +206,6 @@ MGMT - Metanoia (2008-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/388ac97b-960d-368b-8a3c-f69c7d95584b/15783371400-500.jpg" data-tags="britpop, rock" role="button">
 Oasis - Dig Out Your Soul (2008-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
-Gang Gang Dance - Saint Dymphna (2008-10-20)
 </li>
 <li data-cover="https://img.discogs.com/OVoeK28Ej-xCfklAMXhGphF0Gu0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001656-1318429076.jpeg.jpg" data-tags="experimental, rock, alternative, progressive" role="button">
 John Frusciante - The Empyrean (2009-01-14)
@@ -243,6 +243,9 @@ Ghost - Opus Eponymous (2010-10-18)
 <li data-cover="https://img.discogs.com/iyNfvflk9g5dK8cwVCrBIyFfNyg=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2511029-1459303667-7250.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - The Fool (2010-10-25)
 </li>
+<li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
+Anika - Anika (2010-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">
 The Joy Formidable - The Big Roar (2011-01-24)
 </li>
@@ -272,9 +275,6 @@ Goat - World Music (2012-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/b26d476f-6f9d-47e1-9c12-7651823e5b9b/2701693497-500.jpg" data-tags="psychedelic rock" role="button">
 Tame Impala - Lonerism (2012-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">
-Mac DeMarco - 2 (2012-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)

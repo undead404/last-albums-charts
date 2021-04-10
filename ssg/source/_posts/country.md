@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:45:01.674Z
+date: 2021-04-10T12:08:01.474Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -54,9 +54,6 @@ Alan Jackson - The Greatest Hits Collection (1995-02-13)
 <li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">
 Shania Twain - Come on Over (1997-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/dc20ab32-ff95-3621-bdaf-92b90e826ee1/6201935684-500.jpg" data-tags="country" role="button">
-Dixie Chicks - Wide Open Spaces (1998-01-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/36876f89-c7fb-4b08-87ac-8f4f82bfd02e/6139546167-500.jpg" data-tags="alt-country" role="button">
 Lucinda Williams - Car Wheels On A Gravel Road (1998-06-30)
 </li>
@@ -68,6 +65,9 @@ Lonestar - Lonely Grill (1999-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/c464169f-eec9-3406-9690-5e5667ec091d/6201889696-500.jpg" data-tags="country" role="button">
 Dixie Chicks - Fly (1999-08-27)
+</li>
+<li data-cover="https://img.discogs.com/FVqQKfvmlWg9qr9gQTtyiEybOS4=/fit-in/505x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9017805-1473510456-2459.jpeg.jpg" data-tags="country" role="button">
+Faith Hill - Breathe (2000-05-08)
 </li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="country, lee ann womack" role="button">
 Lee Ann Womack - I Hope You Dance (2000-05-23)

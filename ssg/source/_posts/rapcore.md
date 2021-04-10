@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:03:01.594Z
+date: 2021-04-10T12:35:01.568Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -35,6 +35,9 @@ Cypress Hill - Black Sunday (1993-07-20)
 </li>
 <li data-cover="https://img.discogs.com/ztqkg4pUcJ_V6J_bdE48DL-IdK0=/fit-in/588x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-418023-1396547872-2533.jpeg.jpg" data-tags="crossover" role="button">
 Body Count - Born Dead (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/06c8f48c-caa0-4282-b7fe-264c4b673085/2192549116-500.jpg" data-tags="rapcore, nu metal, funk rock" role="button">
+Papa Roach - Potatoes For Christmas (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a606e51-6ff4-3ff4-8ed3-9163e34d0261/13579108697-500.jpg" data-tags="rapcore, nu metal" role="button">
 P.O.D. - Snuff the Punk (1994-01-25)
@@ -102,9 +105,6 @@ Crazy Town - The Gift of Game (1999-11-09)
 <li data-cover="http://coverartarchive.org/release/98a300a4-a705-4716-8630-27713f443017/14485832908-500.jpg" data-tags="rap-metal" role="button">
 Methods Of Mayhem - Methods Of Mayhem (1999-12-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/514c96f1-f9fd-437f-bb9d-c8f7e066338d/1644108090-500.jpg" data-tags="reggae, rapcore, tihuana" role="button">
-Tihuana - Ilegal (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab8dadc1-9c12-4649-992a-64cad3c3b30e/27436513350-500.jpg" data-tags="crossover, rapcore" role="button">
 Primer 55 - Introduction To Mayhem (2000-01-25)
 </li>
@@ -152,9 +152,6 @@ P.O.D. - Satellite (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/13103c1f-091a-457a-9933-41503e9c20b1/15248819276-500.jpg" data-tags="remix, nu metal, hip-hop" role="button">
 Limp Bizkit - New Old Songs (2001-11-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/cbcaefc3-506d-4705-90df-673d9e992a1d/6134904408-500.jpg" data-tags="hip-hop, hip hop, gangsta rap, rapcore" role="button">
-Cypress Hill - Stoned Raiders (2001-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a64d85a-ae57-41f7-ac17-13228ff0eaea/20928284068-500.jpg" data-tags="rapcore, nu metal" role="button">
 Jane Air - Pull Ya? Let it doll go (2002)
@@ -311,6 +308,9 @@ Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/c42909b1-9750-4a9c-9431-170a2583d794/28722232870-500.jpg" data-tags="rapcore" role="button">
 Deuce - Nine Lives (2012-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/545d64b7-ea63-4de4-a36b-1cfae8a04c1c/1438400323-500.jpg" data-tags="nu metal" role="button">
+P.O.D. - Murdered Love (2012-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:54:01.419Z
+date: 2021-04-10T12:10:07.087Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Paramore - RIOT! (2007-06-11)](http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg "Paramore - RIOT! (2007-06-11)")
@@ -68,9 +68,6 @@ The All-American Rejects - The All-American Rejects (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bfcd3b1-223b-4220-a787-a0aa7f37567e/7942919709-500.jpg" data-tags="pop punk" role="button">
 Simple Plan - No Pads, No Helmets... Just Balls (2002-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/2dac1fd4-94ec-390a-985d-c7440c647a99/11024423754-500.jpg" data-tags="piano rock" role="button">
-Something Corporate - Leaving Through the Window (2002-05-21)
 </li>
 <li data-cover="https://img.discogs.com/EEctr5TwNHN6kK0zJTkPBdmzFPA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4098241-1590334404-2830.jpeg.jpg" data-tags="pop punk" role="button">
 New Found Glory - Sticks and Stones (2002-06-11)
@@ -210,9 +207,6 @@ Mayday Parade - A Lesson in Romantics (2007-07-10)
 <li data-cover="http://coverartarchive.org/release/123a3fc0-7a4a-3e52-8a7a-f757d1d27175/14769024533-500.jpg" data-tags="pop punk, punk rock" role="button">
 Yellowcard - Paper Walls (2007-07-16)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop rock, pop punk" role="button">
-The Rocket Summer - Do You Feel (2007-07-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/fce84812-b235-3b88-ac39-9e682c3642de/11117857971-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Even If It Kills Me (2007-07-17)
 </li>
@@ -242,6 +236,9 @@ Forever the Sickest Kids - Underdog Alma Mater (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
+</li>
+<li data-cover="https://img.discogs.com/5hPv59RCy9mW9A2VqdCv_0Q-sMo=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7761668-1448227472-3546.jpeg.jpg" data-tags="punk rock" role="button">
+The Offspring - Rise and Fall, Rage and Grace (2008-06-11)
 </li>
 <li data-cover="https://img.discogs.com/j2MoP6SK9iBD4f999fvO6250Zp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852912-1555314130-3540.jpeg.jpg" data-tags="pop punk" role="button">
 The Academy Is... - Fast Times At Barrington High (2008-08-18)
@@ -314,6 +311,9 @@ Paramore - Paramore (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/57428883-05ae-4cf8-b428-da8ee43a16ed/17944451521-500.jpg" data-tags="post-hardcore, pop punk" role="button">
+A Day to Remember - Common Courtesy (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/89c35108-4695-4b3f-b1e9-ce2a1d38bcfc/11327787575-500.jpg" data-tags="emo, pop punk" role="button">
 The Hotelier - Home, Like Noplace Is There (2014-02-25)
