@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:31:06.893Z
+date: 2021-04-10T07:39:01.457Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -9,7 +9,7 @@ title: "psychedelic pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/d40165ac-a2c9-4ab7-9844-b643106a5a9b/13817952025-500.jpg" data-tags="experimental, indie" role="button">Panda Bear - Person Pitch (2007-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg" data-tags="psychedelic pop" role="button">Animal Collective - Merriweather Post Pavilion (2009-01-09)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">Phantogram - Eyelid Movies (2009-09)</li>
+<li data-cover="https://img.discogs.com/-qgXJ7N_s02ezkCp0I8w4L2UWyI=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2469213-1454153783-5952.png.jpg" data-tags="indie rock, dream pop" role="button">Deerhunter - Halcyon Digest (2010-09-22)</li>
 <li data-cover="http://coverartarchive.org/release/ecfddb21-48c1-44b3-8918-365403b6459a/1802907186-500.jpg" data-tags="indie pop, indie rock, indietronica" role="button">Django Django - Django Django (2012-01-30)</li>
 <li data-cover="http://coverartarchive.org/release/13920435-8a44-4e45-b35e-57b08ba9d1f5/2356334812-500.jpg" data-tags="indie pop, jangle pop" role="button">Mac DeMarco - 2 (2012-10-16)</li>
 <li data-cover="http://coverartarchive.org/release/7e535de9-a3b3-423e-8edf-c200e8713c77/7135267762-500.jpg" data-tags="indie rock, jangle pop, indie" role="button">Mac DeMarco - Salad Days (2014-04-01)</li>
@@ -36,8 +36,11 @@ Love - Forever Changes (1967-11-01)
 <li data-cover="http://coverartarchive.org/release/49094ab4-5eea-4535-a354-f8504e4a6c13/2703436826-500.jpg" data-tags="psychedelic, 60s, classic rock, rock" role="button">
 The Beatles - Magical Mystery Tour (1967-11-27)
 </li>
-<li data-cover="https://img.discogs.com/RhrsE_Tzsm0I_DW4-b2j4Vpd0N0=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712171-1394761192-9723.jpeg.jpg" data-tags="60s" role="button">
-Margo Guryan - Take a picture (1968)
+<li data-cover="http://coverartarchive.org/release/c18c7521-2e8e-403f-9dc4-fca12b2dee1f/6250318875-500.jpg" data-tags="folk, i have this on vinyl, bestradio" role="button">
+Tiny Tim - God Bless Tiny Tim (1968)
+</li>
+<li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
+Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
 <li data-cover="http://coverartarchive.org/release/28d302ff-4b5a-4eb1-8223-c507032e2c92/12578157975-500.jpg" data-tags="60s, psychedelic, psychedelic pop" role="button">
 Gandalf - Gandalf (1969)
@@ -57,8 +60,14 @@ The Move - Shazam (1970)
 <li data-cover="https://img.discogs.com/xDHGJbZjULblPfKijXfSfYSwsoI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-670615-1228830557.jpeg.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Syd Barrett - Barrett (1970-11-14)
 </li>
+<li data-cover="https://img.discogs.com/7B9RXEHU2WQoWFvg4VGtW1aO6Y0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-60759-1435330584-4266.jpeg.jpg" data-tags="disco, electronic, progressive rock, psychedelic pop, krautrock, kraut, proto-vaporwave, club cannibal" role="button">
+Ashra - Correlations (1979)
+</li>
 <li data-cover="http://coverartarchive.org/release/c435a09a-8d49-4f92-8893-ede5789fa065/15622941753-500.jpg" data-tags="60s, pop" role="button">
 David Bowie - David Bowie (1979)
+</li>
+<li data-cover="http://coverartarchive.org/release/56e6177c-02a4-338b-8b04-20e5d1dce1f1/14893755184-500.jpg" data-tags="new wave, psychedelic pop, 1980s, iveldie best of 1984, steveadams fm, steveadamsfm, vinyyl" role="button">
+Julian Cope - Fried (1984)
 </li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
@@ -81,20 +90,20 @@ Super Furry Animals - Radiator (1997-08-25)
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/ec296c98-a954-4ae2-9e50-40ec6753c6c3/28727949293-500.jpg" data-tags="indie pop, indie rock" role="button">
-of Montreal - The Gay Parade (1999-02-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
+</li>
+<li data-cover="https://img.discogs.com/ayvPMq3eoTYfzmfvCIwL-ZgwPso=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13214166-1550696080-9774.jpeg.jpg" data-tags="pop, alternative, alternative rock, indie rock, progressive rock, psychedelic pop, psychedelia, psychedelic rock, 00s, alternative pop, albums i own on cd, drivethruelvis at 22, geiles plattencover" role="button">
+Motorpsycho - Let Them Eat Cake (2000-02)
 </li>
 <li data-cover="https://img.discogs.com/oUY8CBL52EcqoUOu7Ze11OExogY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7762734-1449271967-1107.jpeg.jpg" data-tags="indie" role="button">
 The Flaming Lips - Yoshimi Battles The Pink Robots (2002-07-15)
 </li>
-<li data-cover="https://img.discogs.com/8xi2ZZTiqfsfdAfMvX3II8OWmA0=/fit-in/555x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194412-1218930482.jpeg.jpg" data-tags="chamber pop, psychedelic pop, avant-pop, art pop, trip in the pram, night in dollhouse" role="button">
-Pram - Dark Island (2003-01-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/1216e686-0799-4615-9e41-82473842ce07/2626806537-500.jpg" data-tags="electronica, indie, experimental, dream pop" role="button">
 Broadcast - Haha Sound (2003-08-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/1f95186a-906d-493a-ad75-9d0820292956/25217623886-500.jpg" data-tags="chamber pop, psychedelic pop, folktronica, 00s, neo-psychedelia, earlies, in queue no tracks, chamber psych" role="button">
+The Earlies - These Were The Earlies (2004)
 </li>
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)
@@ -104,9 +113,6 @@ Flëur - Сияние (2004-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/8ed15a42-ca91-45db-bdc3-c21b8f86e9bc/6010008937-500.jpg" data-tags="experimental" role="button">
-Broadcast - The Future Crayon (2006-08-21)
 </li>
 <li data-cover="https://img.discogs.com/Vtt75Gzqk8PUFqIyYbXQv7PxcE8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5267834-1485130102-7731.jpeg.jpg" data-tags="indie pop" role="button">
 of Montreal - Hissing Fauna, Are You the Destroyer? (2007-01-23)
@@ -135,12 +141,6 @@ Caribou - Andorra (2007-08-17)
 <li data-cover="https://img.discogs.com/3EuGRj1Niu-gr54UjDtoeO_-Szc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1932415-1319718765.jpeg.jpg" data-tags="soul, female vocalists, electronic, jazz, indie pop" role="button">
 The Asteroids Galaxy Tour - Fruit (2008)
 </li>
-<li data-cover="https://img.discogs.com/pHF1idCYcWaKk35_SzNRPCO4MCY=/fit-in/500x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1444711-1220215156.jpeg.jpg" data-tags="indie rock, canadian" role="button">
-Women - WOMEN (2008-07-08)
-</li>
-<li data-cover="https://img.discogs.com/lMWJeZe5UTygkMBOtMry3mlJfoc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495929-1598270233-6381.jpeg.jpg" data-tags="indie pop" role="button">
-of Montreal - Skeletal Lamping (2008-10-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/14fd17cd-9483-442a-bc76-a0315c8ddf1e/7202308649-500.jpg" data-tags="electronic, experimental" role="button">
 Gang Gang Dance - Saint Dymphna (2008-10-20)
 </li>
@@ -162,8 +162,8 @@ Black Moth Super Rainbow - Eating Us (2009-05-26)
 <li data-cover="https://img.discogs.com/gj7q1NKMDoyVaISvQxqWB7OBsAg=/fit-in/450x433/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1852132-1247902157.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Portugal. The Man - The Satanic Satanist (2009-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
-Phantogram - Eyelid Movies (2009-09)
+<li data-cover="https://img.discogs.com/uwRS2LMhFeZ-eWKbdhapgm-1fIw=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15329242-1606480501-6174.jpeg.jpg" data-tags="electronic, psychedelic pop, indietronica, dream pop, neo-psychedelia" role="button">
+Astro - le disc de astrou (2009-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d3950b6-048b-3d4f-8fa6-acab7ddc831d/9277382805-500.jpg" data-tags="indie rock" role="button">
 Bear in Heaven - Beast Rest Forth Mouth (2009-10-13)
@@ -206,6 +206,9 @@ Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
 Panda Bear - Tomboy (2011-04-12)
+</li>
+<li data-cover="https://img.discogs.com/Wr_Ni4P6ZVSxBwehgh2gkb-ilek=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2831180-1302996586.jpeg.jpg" data-tags="psychedelic pop, psychedelic rock, rel-yr:2011, rel-mnth:2011:april, vorgemerkt, aj playlist" role="button">
+Dengue Fever - Cannibal Courtship (2011-04-14)
 </li>
 <li data-cover="https://img.discogs.com/UhvkMOYzKeZQXga6uLsJPGrbTEg=/fit-in/600x626/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12335487-1533162004-7265.jpeg.jpg" data-tags="indie, psychedelic pop, noise pop, neo-psychedelia" role="button">
 of Montreal - thecontrollersphere (2011-04-25)
@@ -290,9 +293,6 @@ Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="https://img.discogs.com/lGAChHi9miFP_i1bHlNneNO3LpQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4904237-1378997377-6191.jpeg.jpg" data-tags="neo-psychedelia, psychedelic rock" role="button">
 MGMT - MGMT (2013-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/bc4cacb3-962e-4522-a30e-6b428524da61/5591485454-500.jpg" data-tags="soul, alternative rock, indie rock, psychedelic pop, garage rock, blues rock, garage, roots rock, fuck yeah, oh my, southern soul, my gang 13, better than one direction, dig music feature album 2013,  blues,  southern rock,  progressive rock" role="button">
-White Denim - Corsicana Lemonade (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/62e27a4d-6b32-46c7-8994-57728b4bca98/26563562242-500.jpg" data-tags="electropop, australian, alternative dance" role="button">
 Cut Copy - Free Your Mind (2013-11-01)

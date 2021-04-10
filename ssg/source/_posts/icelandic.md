@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:15:01.463Z
+date: 2021-04-10T07:23:01.636Z
 title: "icelandic: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - ágætis byrjun (1999-06)](http://coverartarchive.org/release/3f38169f-6501-4383-8a0e-06d416338e8f/6928375238-500.jpg "Sigur Rós - ágætis byrjun (1999-06)")
@@ -33,6 +33,9 @@ Björk - Debut (1993-07-12)
 <li data-cover="https://img.discogs.com/c79jKT7D51ChaH4zgcVBMAbjRGg=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1410907-1281931688.jpeg.jpg" data-tags="electronic, alternative" role="button">
 Björk - Post (1995-06-09)
 </li>
+<li data-cover="https://img.discogs.com/C_Z9jy2lyb5RxoK7uMRQD7uK6cs=/fit-in/495x371/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3239591-1321875900.jpeg.jpg" data-tags="black metal, viking metal" role="button">
+Falkenbach - Laeknishendr (1995-10-01)
+</li>
 <li data-cover="https://img.discogs.com/GWBTAjGaW7WhP5q9-kFTJ6GgOSY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13994-001.jpg.jpg" data-tags="electronic, remix" role="button">
 Björk - Telegram (1996-11-25)
 </li>
@@ -60,6 +63,9 @@ Sigur Rós - Svefn-G-Englar (1999-09-27)
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/5680b7dc-345a-4163-b68e-02af27f19a44/3956533827-500.jpg" data-tags="electronic" role="button">
+Mum - Mum (2000)
+</li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
 </li>
@@ -77,9 +83,6 @@ Hilmar Örn Hilmarsson & Sigur Rós - Englar Alheimsins (2001-09-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a6c2ac5-9931-41cd-98e1-9aad3c16468d/8354320939-500.jpg" data-tags="icelandic" role="button">
 múm - Please Smile My Noise Bleed (2001-09-10)
-</li>
-<li data-cover="https://img.discogs.com/p1lWr_ISxTgL9zY5IZz8huVP-sM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-690086-1254843035.jpeg.jpg" data-tags="rock, other, icelandic, alternative rap, rap-rock, stick-em-up" role="button">
-Quarashi - Jinx (2002-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/0699b828-d3bb-4c9d-b80c-536e007117c4/22262933271-500.jpg" data-tags="icelandic" role="button">
 múm - Green Grass of Tunnel (2002-04-29)
@@ -129,12 +132,6 @@ Björk - Medúlla (2004-08-25)
 <li data-cover="https://img.discogs.com/w7hRS_v8pSkKbDYo4D5ZEJWbouI=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-332658-1104452767.jpg.jpg" data-tags="alternative, icelandic, iceland, tagged, lost, something, sounds, tag, thoughts, maybe, bananas, bats, variable, genre, shady, onions, bent, filtered, bite, thing, get it, wednesday, fully streamable album, grady, zap, partial, lobotomy, spelling lobotomy correctly, possible, perhaps, suggestions, mangum, specific, extremities, optional, liver, shady grady, northern hemisphere, western hemisphere, non-verbal, you might, jib, i am tagging this artist, the fire of the mind agitates the atmosphere, testing 1-2-3, deek, liver and onions" role="button">
 Mugison - Niceland (2004-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/96b8f6e1-160e-450b-8e6b-3153499b98c7/17037187457-500.jpg" data-tags="contemporary classical" role="button">
-Jóhann Jóhannsson - Dís (2004-11-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac5674a3-6604-4987-b772-b7136a686a6f/3318719958-500.jpg" data-tags="ambient, contemporary classical" role="button">
-Jóhann Jóhannsson - Virðulegu forsetar (2004-11-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/45807016-ee11-429e-aaa2-392eb9e38800/18781279674-500.jpg" data-tags="icelandic" role="button">
 Dikta - Hunting For Happiness (2005)
 </li>
@@ -152,6 +149,9 @@ Sigur Rós - Takk... (2005-08-22)
 </li>
 <li data-cover="https://img.discogs.com/PZN0m0HRfARZw6f5D7aDdcRyp0s=/fit-in/453x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1239540-1202989001.jpeg.jpg" data-tags="sigur ros, ambient" role="button">
 Sigur Rós - Hoppípolla (2005-11-28)
+</li>
+<li data-cover="https://img.discogs.com/pmH4smQphZ51LJ5aKZfhqdMe0R8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1683463-1236682840.jpeg.jpg" data-tags="bass, icelandic, iceland, electric bass, skuli sverrisson" role="button">
+Skúli Sverrisson - Sería (2006)
 </li>
 <li data-cover="https://img.discogs.com/f6_xA1zzSjPc8Ob4lb4fVgmQTpE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-874041-1249324133.jpeg.jpg" data-tags="electronic" role="button">
 Goddamn Electric Bill - Swallowed By The Machines (2006)
@@ -186,9 +186,6 @@ Seabear - The Ghost That Carried Us Away (2007-08-17)
 <li data-cover="https://img.discogs.com/w447e9Jz52F2U0QwpG6brAl_CD0=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6921311-1535675024-9968.jpeg.jpg" data-tags="icelandic, experimental" role="button">
 múm - Go Go Smear the Poison Ivy (2007-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">
-Ólafur Arnalds - Eulogy for Evolution (2007-10-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
 </li>
@@ -201,14 +198,14 @@ Lau Nau - Nukkuu (2008-05-14)
 <li data-cover="http://coverartarchive.org/release/e4cef835-f2ac-48df-8407-b38ac4ec9969/22564414072-500.jpg" data-tags="post-rock" role="button">
 Sigur Rós - Með suð í eyrum við spilum endalaust (2008-06-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/d29d2dcc-2d47-430d-b3e9-8044dbd65cd1/9664023297-500.jpg" data-tags="experimental" role="button">
+Kría Brekkan - Apotropaíosong Armor (2008-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="morr music, icelandic, indie folk" role="button">
 Sin Fang Bous - Clangour (2008-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/06893018-03d4-3c87-9d87-93bb51881dc0/22358531244-500.jpg" data-tags="ambient, icelandic" role="button">
 Jónsi & Alex - Riceboy Sleeps (2009-04-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/705de6f0-e4a1-4d0e-bef7-eeae4f5115b5/5930038642-500.jpg" data-tags="contemporary classical, modern classical, neoclassical, post-classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-Ólafur Arnalds - Found Songs (2009-04-19)
 </li>
 <li data-cover="https://img.discogs.com/lubA2__u5aBC8WX6E8H5HjuK0lk=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3872190-1434906851-8198.jpeg.jpg" data-tags="acoustic, icelandic, neofolk" role="button">
 Árstíðir - Árstíðir (2009-06-05)
@@ -261,11 +258,14 @@ This Town Needs Guns - Adventure, Stamina & Anger (2011-10-11)
 <li data-cover="http://coverartarchive.org/release/14a57c0d-b063-489b-bd42-8cb2c261c0e8/13555883183-500.jpg" data-tags="progressive metal, post-metal, post-rock" role="button">
 Sólstafir - Svartir Sandar (2011-10-14)
 </li>
-<li data-cover="https://img.discogs.com/_jcqVJYRFzAT3Sa2hr_lLp-1up0=/fit-in/274x274/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3548510-1334834731.jpeg.jpg" data-tags="female, alternative, song, plop, icelandic, iceland, numbers, book, tagged, genesis, second, lost, something, sounds, first, proverbs, tag, sentences, kings, thoughts, maybe, bananas, moses, bats, psalms, tuesday, daniel, troy" role="button">
-Ólöf Arnalds - Ólöf Sings (2011-11-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/4768d1fc-efa0-4dda-bb7f-9856e806831a/3608510095-500.jpg" data-tags="icelandic" role="button">
 Of Monsters and Men - Into The Woods (2011-12-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f99ddbf-e7a6-4831-8174-04bbc66c56ab/23378142573-500.jpg" data-tags="icelandic" role="button">
+Lockerbie - Ólgusjór (2012-03-16)
+</li>
+<li data-cover="https://img.discogs.com/LzjYW_awzgJzFsRonRjTKY_hEbM=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3687396-1616939283-5427.jpeg.jpg" data-tags="black metal, icelandic" role="button">
+Árstíðir Lífsins - Vápna lækjar eldr (2012-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/173c790a-264c-4134-9ffb-9b7aa78da6f5/1819827377-500.jpg" data-tags="ambient, post-rock" role="button">
 Sigur Rós - Valtari (2012-05-23)
@@ -294,14 +294,14 @@ Sigur Rós - Kveikur (2013-06-12)
 <li data-cover="http://coverartarchive.org/release/81ce3a91-91b7-40cf-8f33-966dd7322adf/5069250166-500.jpg" data-tags="electronic" role="button">
 múm - Smilewound (2013-09-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/c0605470-d73a-49e9-8f24-512a39b09261/6167591512-500.jpg" data-tags="alternative, icelandic" role="button">
+Mammút - Komdu til mín svarta systir (2013-10-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/72237e6d-67fd-4cde-b62f-fa3434b02c1f/6502020265-500.jpg" data-tags="folk, indie pop, icelandic, indie folk, iceland, live, alternativ, itunes exclusive, infie, vatnagardar" role="button">
 Of Monsters and Men - Live From Vatnagarðar (2013-12-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b08bf379-2d20-4ad2-9e72-2fbe0ab3ad7c/13547518907-500.jpg" data-tags="black metal, icelandic, atmospheric black metal, orthodox black metal, icelandic black metal, terratur possessions" role="button">
 Svartidauði - The Synthesis of Whore and Beast (2014-03-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/66cfa35b-731b-4c5d-85a2-a3de070d8f12/6883601217-500.jpg" data-tags="experimental" role="button">
-Dillon - The Unknown (2014-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c81ebe80-43c6-4a77-9fb5-c47ca5f180d1/6701174879-500.jpg" data-tags="electronic, indie, indie pop, indietronica" role="button">
 Samaris - Silkidrangar (2014-05-05)

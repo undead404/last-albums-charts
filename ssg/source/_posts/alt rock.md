@@ -1,17 +1,17 @@
 ---
-date: 2021-04-09T19:08:01.453Z
+date: 2021-04-10T07:21:01.503Z
 title: "alt rock: 100 albums you must listen to before you die"
 ---
 ![Neon Trees - Habits (2010-03-16)](http://coverartarchive.org/release/19efd349-98a3-4cc1-a4f9-20fd96422204/28146630690-500.jpg "Neon Trees - Habits (2010-03-16)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">Lifehouse - No Name Face (2000-10-31)</li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">Brand New - Deja Entendu (2003-06-17)</li>
+<li data-cover="http://coverartarchive.org/release/a23b98de-2f6f-4ee9-9ec4-18059f0a7cae/10986739874-500.jpg" data-tags="rock, alternative, power pop, alt rock, scot 1990s music" role="button">Goo Goo Dolls - Better Days (2005)</li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">Anberlin - Never Take Friendship Personal (2005-01-17)</li>
 <li data-cover="https://img.discogs.com/1yng1UOjmv874tQZgZg-hDhHiw0=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644309-1588500878-9605.jpeg.jpg" data-tags="rock, alternative" role="button">Fuel - The Best of Fuel (2005-12-13)</li>
 <li data-cover="http://coverartarchive.org/release/19efd349-98a3-4cc1-a4f9-20fd96422204/28146630690-500.jpg" data-tags="alternative, animal" role="button">Neon Trees - Habits (2010-03-16)</li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">Disturbed - Asylum (2010-08-20)</li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">fun. - Some Nights (2011-07-12)</li>
-<li data-cover="http://coverartarchive.org/release/1080fddb-aefa-413f-b5a1-11a945edd96a/20701467093-500.jpg" data-tags="rock, usa, compilation, alt rock, new york punk, 10s, female singer songwriter, compilation album, american musician, p smith" role="button">Patti Smith - Outside Society (2011-09-12)</li>
 <li data-cover="https://img.discogs.com/UaiQ1YgJUun3ypxS7QINZxCEai4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668737-1587475194-1360.jpeg.jpg" data-tags="10s" role="button">Wilco - The Whole Love (2011-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 </ol>
@@ -24,14 +24,11 @@ _________________
 <li data-cover="https://img.discogs.com/gxfhqodPNQWmmG7h3OO-jy4nEkU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1102568-1466634765-6819.jpeg.jpg" data-tags="punk, post-punk, punk rock" role="button">
 Wipers - Is This Real? (1979)
 </li>
-<li data-cover="https://img.discogs.com/j4eJSxNzu3tzd_s8lQ1W0Z_Lbec=/fit-in/410x413/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730604-1300031146.jpeg.jpg" data-tags="80s, punk, post-punk" role="button">
-Wipers - Youth of America (1981)
+<li data-cover="https://img.discogs.com/qfYH70G4jNFQGQpUvtFx9_DMgi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1717457-1282523495.jpeg.jpg" data-tags="punk rock, post-punk" role="button">
+Wipers - Over The Edge (1983)
 </li>
-<li data-cover="https://img.discogs.com/auwSrsfUZWqubXO1kLrJUKT434I=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-174377-1568740217-3372.jpeg.jpg" data-tags="80s, britpop, madchester, martin hannett" role="button">
-Happy Mondays - Bummed (1988-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="80s, alternative rock" role="button">
-R.E.M. - Green (1988-11-07)
+<li data-cover="http://coverartarchive.org/release/6af59b09-2f3c-46d3-b076-45ecfec17904/8981366028-500.jpg" data-tags="80s" role="button">
+Prefab Sprout - Steve McQueen (1985-06)
 </li>
 <li data-cover="https://img.discogs.com/meGL_iaA4GZNiLbhoUzUbXYwJ2U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-998286-1577734623-7046.jpeg.jpg" data-tags="80s, pop rock, dream pop, alt rock, college radio, iveldie best of 1989" role="button">
 The Ocean Blue - The Ocean Blue (1989)
@@ -72,6 +69,9 @@ The Verve - A Northern Soul (1995-07-03)
 <li data-cover="https://img.discogs.com/ccIujQlCeGbuCWPV-Aj68vMS8L0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1290632-1283752235.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Dishwalla - Pet Your Friends (1995-08-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/491fa74f-9af4-4f3d-a3fa-3711f602915c/23575106710-500.jpg" data-tags="funk, alternative" role="button">
+Fun Lovin' Criminals - Come Find Yourself (1996-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/47dff9f0-d1f3-47d3-a860-da762ea68f99/1651049249-500.jpg" data-tags="90s" role="button">
 The Verve Pipe - Villains (1996-03-26)
 </li>
@@ -96,6 +96,12 @@ Fuel - Sunburn (1998-03-31)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="rock, dave matthews band" role="button">
 Dave Matthews Band - Before These Crowded Streets (1998-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/4fbf62b9-6111-4898-a0ea-d7fa3fde6896/25954166388-500.jpg" data-tags="indie, alternative, math rock, indie rock, usa, romantic, melodic, energetic, melancholy, melancholic, alt rock, indie emo" role="button">
+No Knife - Fire In The City of Automatons (1998-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/af457ab2-4689-4d6d-9cf5-18d5d2912bd6/16156435985-500.jpg" data-tags="nkotb, boyband" role="button">
+New Kids on the Block - Greatest Hits (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/38a40944-ac73-4c8e-8638-ec0075b170ea/4530840085-500.jpg" data-tags="90s" role="button">
 Wilco - Summerteeth (1999-03-09)
 </li>
@@ -114,6 +120,9 @@ Lifehouse - No Name Face (2000-10-31)
 <li data-cover="http://coverartarchive.org/release/841b85f1-b88c-4b55-adc6-a675e1482e9c/16182675188-500.jpg" data-tags="heavy metal, metal, alternative metal, nu metal" role="button">
 Nonpoint - Development (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/41de15ee-e9d8-4336-aa14-03ea5be4016f/15537492906-500.jpg" data-tags="alternative metal, nu metal, lovecore" role="button">
+Boy Hits Car - Boy Hits Car (2001-01-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/d408943f-fa02-4ddd-beac-8b575ba6777a/16967352324-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Everyday (2001-02-27)
 </li>
@@ -129,23 +138,23 @@ Hoobastank - Hoobastank (2001-11-20)
 <li data-cover="https://img.discogs.com/nNVV6HF1SBNCrnuguRpaQoUFmiQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2475460-1497839811-1324.jpeg.jpg" data-tags="rock, alternative" role="button">
 Dishwalla - Opaline (2002-04-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/39ded298-59ee-4eb2-8449-aa81ac46b18e/9544144082-500.jpg" data-tags="noise pop" role="button">
+Deerhoof - Reveille (2002-06-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/03073943-b10d-4c53-989d-03e1ff811b2f/20752709373-500.jpg" data-tags="rock" role="button">
 Tonic - Head On Straight (2002-09-24)
 </li>
 <li data-cover="https://img.discogs.com/0VpNwRQT15AkfL5oE6FKOYQmCjM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2352077-1549704952-7500.jpeg.jpg" data-tags="alternative rock, alt rock, 2000s, nu-metal, suomirock, copy controlled cd, album collection" role="button">
 Apulanta - Hiekka (2002-11-01)
 </li>
-<li data-cover="https://img.discogs.com/OJcmUpi8qJNX5Wb6TPZKcjKniiM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2028005-1401740588-6386.jpeg.jpg" data-tags="alternative rock, alt rock, post grunge, alternative hard rock, abyss, hard nurock" role="button">
-Memento - Beginnings (2003-02-05)
+<li data-cover="https://img.discogs.com/yfDWMkhLGXCXKMtHBdi7M7MnJsw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-717573-1152032612.jpeg.jpg" data-tags="alt rock, brit, criminally underrated" role="button">
+Ours - Precious (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/900704eb-fb9e-4e2a-ac6f-88d7e40c14d4/26394314398-500.jpg" data-tags="rock" role="button">
 Further Seems Forever - How to Start a Fire (2003-02-11)
 </li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">
 Brand New - Deja Entendu (2003-06-17)
-</li>
-<li data-cover="https://img.discogs.com/CjFWT0pYhx10McixHxkEvqOTuTg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297749-1207474589.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
-Finger Eleven - Finger Eleven (2003-06-17)
 </li>
 <li data-cover="https://img.discogs.com/vGSMhjKA2wSqUNck-tlhOOSB2TU=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905512-1306601156.jpeg.jpg" data-tags="indie, welsh, british i like, gdchills00s" role="button">
 Super Furry Animals - Phantom Power (2003-07-21)
@@ -155,9 +164,6 @@ David Bowie - Reality (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/F5rcyw3h2tBp5UcO18hh3z5fYYs=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8615478-1465192295-8925.jpeg.jpg" data-tags="rock" role="button">
 Dave Matthews - Some Devil (2003-09-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c4c27547-665e-4992-8825-a2d3fbc362bb/5679081350-500.jpg" data-tags="alternative rock" role="button">
-Fuel - Natural Selection (2003-09-23)
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
@@ -176,6 +182,9 @@ Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 TRUSTcompany - True Parallels (2005-03-22)
+</li>
+<li data-cover="https://img.discogs.com/aEnJ04MUDNSOAUQJakuVsDe9A98=/fit-in/344x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2492004-1286975812.jpeg.jpg" data-tags="rock, alternative, female vocalists, singer-songwriter, alt rock, toll, albums in my cd rack" role="button">
+Lisa Marie Presley - Now What (2005-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/26f8b92e-3d40-3fa6-a015-240782d57afc/5548541177-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Stand Up (2005-05-09)
@@ -213,6 +222,9 @@ Cursive - Happy Hollow (2006-08-22)
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 </li>
+<li data-cover="https://img.discogs.com/3SB_4bmVyzatQRfTaofu7V5tyrM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-958051-1457549664-7535.jpeg.jpg" data-tags="rock, psychedelic, psychedelia" role="button">
+Dungen - Tio Bitar (2007-04-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/8541b1c1-ab31-4b75-a3c9-5dde5e6f2266/23905573829-500.jpg" data-tags="noise rock" role="button">
 No Age - Weirdo Rippers (2007-06-11)
 </li>
@@ -222,8 +234,8 @@ KT Tunstall - Drastic Fantastic (2007-09-05)
 <li data-cover="http://coverartarchive.org/release/b603c9dc-b1f8-4282-883f-4cbd051ef5d3/20156050715-500.jpg" data-tags="indie, pop" role="button">
 Scouting for Girls - Scouting for Girls (2007-09-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/17888dca-1e01-4f36-b6ed-8ac76a78b8f1/26507081984-500.jpg" data-tags="stoner rock, stoner metal" role="button">
-Torche - Meanderthal (2008-04-08)
+<li data-cover="http://coverartarchive.org/release/0f369d44-77ec-4b13-a183-6998b5496058/7344283221-500.jpg" data-tags="rock" role="button">
+The Cranberries - Gold (2008-03-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock, indie" role="button">
 No Age - Nouns (2008-05-06)
@@ -234,20 +246,20 @@ Anberlin - New Surrender (2008-09-30)
 <li data-cover="http://coverartarchive.org/release/634d830e-3486-43d1-b6b0-e9730b10b092/2378547288-500.jpg" data-tags="addiction, lonely, alt rock, family sad" role="button">
 Kevin Devine - Brother's Blood (2009-04-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/91e158f9-870a-459a-bbca-1883edeb2a47/24901186248-500.jpg" data-tags="female vocalists" role="button">
+Tori Amos - Abnormally Attracted To Sin (2009-05-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b6042b0-00db-4366-bc53-9d24036c44b8/15473920306-500.jpg" data-tags="alternative, rock" role="button">
+Dave Matthews Band - Big Whiskey And The Groogrux King (2009-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/993dd992-cc0b-36a6-b9b9-a2a582c141fe/13700643173-500.jpg" data-tags="00s" role="button">
 Wilco - Wilco (The Album) (2009-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/cc65d929-f956-44be-a266-d942e556df22/7462176182-500.jpg" data-tags="pop, rock, alternative, female vocalists, britpop, 00s, try before i buy" role="button">
-Natalie Imbruglia - Come To Life (2009-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/851dc621-7b40-32d7-8fa3-9cd10718cfb7/2029543954-500.jpg" data-tags="indie, alternative, 00s" role="button">
 Charlotte Gainsbourg - IRM (2009-12-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0af0af-e018-4719-9e8c-c8d0a557b116/5086053899-500.jpg" data-tags="love metal" role="button">
 Him - Screamworks: Love In Theory And Practice (2010-02-05)
-</li>
-<li data-cover="https://img.discogs.com/r7owAx43WhslvJfFYQxFrwUdDzA=/fit-in/393x403/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2352717-1328815012.jpeg.jpg" data-tags="art pop" role="button">
-Susanne Sundfør - The Brothel (2010-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/19efd349-98a3-4cc1-a4f9-20fd96422204/28146630690-500.jpg" data-tags="alternative, animal" role="button">
 Neon Trees - Habits (2010-03-16)
@@ -264,14 +276,8 @@ Anberlin - Dark Is The Way, Light Is A Place (2010-09-07)
 <li data-cover="https://img.discogs.com/UogRoUmRxYFlv-RLJwX71T1Ogrw=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12131091-1529030824-6914.jpeg.jpg" data-tags="alternative rock, usa, jam, alt rock, 10s, starbucks, american group" role="button">
 Dave Matthews Band - Away From The World (2011)
 </li>
-<li data-cover="http://coverartarchive.org/release/06cf1f87-7904-4b7b-b8b9-1218ad644f1a/4093050228-500.jpg" data-tags="art rock" role="button">
-Kate Bush - Director's Cut (2011-05-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">
 fun. - Some Nights (2011-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/1080fddb-aefa-413f-b5a1-11a945edd96a/20701467093-500.jpg" data-tags="rock, usa, compilation, alt rock, new york punk, 10s, female singer songwriter, compilation album, american musician, p smith" role="button">
-Patti Smith - Outside Society (2011-09-12)
 </li>
 <li data-cover="https://img.discogs.com/UaiQ1YgJUun3ypxS7QINZxCEai4=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3668737-1587475194-1360.jpeg.jpg" data-tags="10s" role="button">
 Wilco - The Whole Love (2011-09-23)
@@ -282,17 +288,14 @@ Tom Waits - Bad as Me (2011-10-21)
 <li data-cover="http://coverartarchive.org/release/8ea11957-0df0-4fe0-b100-b822426e028b/8773562697-500.jpg" data-tags="indie rock" role="button">
 Car Seat Headrest - Twin Fantasy (2011-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/168d57fa-53d5-4b96-92a6-c579f4185042/3989834554-500.jpg" data-tags="indie, alternative, 10s" role="button">
-Charlotte Gainsbourg - Stage Whisper (2011-12-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/74910106-483e-480a-a8ac-ae946026fd96/10456542205-500.jpg" data-tags="alt rock, 2010s, recommended by jwz" role="button">
 Meg Myers - Daughter in the Choir (2012)
 </li>
-<li data-cover="http://coverartarchive.org/release/e8ab98e5-f51c-4616-9547-8bb59aef7fa9/25001783422-500.jpg" data-tags="electronic, art pop" role="button">
-Susanne Sundfør - The Silicone Veil (2012-03-26)
-</li>
 <li data-cover="https://img.discogs.com/rpgQAP5BAJXCNQ8MRpdEF4eyK-I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6914456-1429398271-3427.jpeg.jpg" data-tags="britpop, alternative rock" role="button">
 Keane - Strangeland (2012-05-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/ed4ef585-6abe-4a3e-a4d3-6206589b3633/28652812232-500.jpg" data-tags="pop" role="button">
+Scissor Sisters - Magic Hour (2012-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
@@ -302,9 +305,6 @@ Alanis Morissette - Havoc and Bright Lights (2012-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">
 Imagine Dragons - Night Visions (2012-09-04)
-</li>
-<li data-cover="https://img.discogs.com/mwUdD0umW19LiiTb6ATvlWK2sLg=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4465769-1369906271-5744.jpeg.jpg" data-tags="world, blues, guitar, african, psychedelic rock, nashville, alt rock, country blues, rhythm & blues, my gang 13, delta country blues" role="button">
-Bombino - Nomad (2013-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/88f75d9a-00e0-4ec6-8559-1a6c98672d63/4939836450-500.jpg" data-tags="alternative rock" role="button">
 Editors - The Weight of Your Love (2013-06-13)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:41:01.448Z
+date: 2021-04-10T07:29:01.444Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -32,6 +32,9 @@ Sly & The Family Stone - Stand! (1969-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/14d7a033-cf03-43bc-adb4-b4bcf2b62762/24777915286-500.jpg" data-tags="soul, funk" role="button">
 Curtis Mayfield - Curtis (1970-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/305a3d69-e0f6-44eb-a941-8471ee6c642d/9120061238-500.jpg" data-tags="soul" role="button">
+Gil Scott-Heron - Pieces of a Man (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0424f4b-0be7-4bae-b163-3f6b63723c41/22562008725-500.jpg" data-tags="funk" role="button">
 Funkadelic - Maggot Brain (1971-07-12)
@@ -87,9 +90,6 @@ Parliament - Funkentelechy Vs. The Placebo Syndrome (1977-12)
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
 Funkadelic - One Nation Under A Groove (1978-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/d0a62df6-09ed-4b59-b0d9-43dd09ec2562/13401784321-500.jpg" data-tags="70s, funk, soul" role="button">
-Prince - Prince (1979)
-</li>
 <li data-cover="http://coverartarchive.org/release/00a01883-c17d-3a1e-8aa3-f468e45465df/7228002110-500.jpg" data-tags="70s, funk" role="button">
 Chic - Risque (1979)
 </li>
@@ -117,6 +117,9 @@ Prince & The Revolution - Purple Rain (1984-06-25)
 <li data-cover="http://coverartarchive.org/release/a7a1b8da-a9ab-4153-8b6a-ee331c391938/1037573218-500.jpg" data-tags="funk rock, funk" role="button">
 Red Hot Chili Peppers - Freaky Styley (1985-08-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/0ae5fdcc-586f-4a1f-b3dd-342f5a84cb4a/21130359568-500.jpg" data-tags="funk rock" role="button">
+Red Hot Chili Peppers - The Uplift Mofo Party Plan (1987-09-29)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - Mother's Milk (1989-08-22)
 </li>
@@ -137,9 +140,6 @@ Jamiroquai - Emergency On Planet Earth (1993-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg" data-tags="acid jazz, funk" role="button">
 Jamiroquai - The Return Of The Space Cowboy (1994-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/b1a7b782-667f-43dd-934f-e28ac968bec3/9434622591-500.jpg" data-tags="soul, 70s, funk" role="button">
-Hot Chocolate - Hot Chocolate (1995)
 </li>
 <li data-cover="https://img.discogs.com/LwmOyo0ph8HdcpBpXDq05QZZ5XE=/fit-in/600x835/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14832693-1582465401-9415.jpeg.jpg" data-tags="pop, michael jackson" role="button">
 Michael Jackson - Scream (1995-05-31)
@@ -167,6 +167,9 @@ OutKast - Aquemini (1998-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b05fbfb7-833e-4f40-acbf-103539bec01b/9531215044-500.jpg" data-tags="funk, soul" role="button">
 Earth, Wind & Fire - Greatest Hits (1998-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/e4825def-264f-4f3c-a245-c51b9465f046/7047267142-500.jpg" data-tags="hip-hop" role="button">
+DJ Shadow & Cut Chemist - Brainfreeze (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
@@ -200,9 +203,6 @@ Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/84ae99a9-0cd3-4b13-ac6a-f05d41460912/15840373056-500.jpg" data-tags="ska" role="button">
 The Cat Empire - The Cat Empire (2003-10-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/1182aafc-c201-379d-ab99-52f604e25819/9749635411-500.jpg" data-tags="dance" role="button">
-Chromeo - She's In Control (2004-02-10)
 </li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
@@ -240,6 +240,9 @@ The Cat Empire - So Many Nights (2007-12-08)
 <li data-cover="http://coverartarchive.org/release/b95d3a86-6640-4a02-850a-2b842ad601d3/2663904426-500.jpg" data-tags="rock" role="button">
 Red Hot Chili Peppers - Greatest Hits (2008)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
+Lenny Kravitz - Greatest Hits (2008)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, neo-soul" role="button">
 Erykah Badu - New Amerykah Part One (4th World War) (2008-02-26)
 </li>
@@ -248,9 +251,6 @@ Ohio Players - Gold (2008-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cf0b731-8d1c-37d7-9a03-a2734df4c22b/5685858560-500.jpg" data-tags="soul, funk" role="button">
 Gnarls Barkley - The Odd Couple (2008-03-18)
-</li>
-<li data-cover="https://img.discogs.com/ewuRBAR-sMXR747JeO_XnuNK5rI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1321698-1209506563.jpeg.jpg" data-tags="rnb, soul" role="button">
-Estelle - Shine (2008-03-31)
 </li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)

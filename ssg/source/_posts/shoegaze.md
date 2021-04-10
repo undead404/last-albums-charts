@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:36:01.412Z
+date: 2021-04-10T07:32:01.434Z
 title: "shoegaze: 100 albums you must listen to before you die"
 ---
 ![My Bloody Valentine - Loveless (1991-11-04)](http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg "My Bloody Valentine - Loveless (1991-11-04)")
@@ -26,9 +26,6 @@ Cocteau Twins - Head Over Heels (1983-10-31)
 </li>
 <li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">
 The Jesus and Mary Chain - Psychocandy (1985-02)
-</li>
-<li data-cover="https://img.discogs.com/ltRx7LMTaIcDRAR5dPZwxdmPEoM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528251-1153638308.jpeg.jpg" data-tags="shoegaze, 90s" role="button">
-Galaxie 500 - This Is Our Music (1990)
 </li>
 <li data-cover="https://img.discogs.com/-tql_MNQY1PAFDELDJP3jEr2x7k=/fit-in/500x486/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393894-1149518037.jpeg.jpg" data-tags="shoegaze" role="button">
 Pale Saints - The Comforts of Madness (1990-02-12)
@@ -72,8 +69,14 @@ The Jesus and Mary Chain - Honey's Dead (1992)
 <li data-cover="https://img.discogs.com/KcNGymgsKSaZcrcwHOYZqXyBuEI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-409149-1615592517-4859.jpeg.jpg" data-tags="shoegaze" role="button">
 Lush - Spooky (1992-01-21)
 </li>
+<li data-cover="https://img.discogs.com/M1Zr5Y7ZSSxPS5J2n-0WT2fe-q4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-394347-1523143208-9333.jpeg.jpg" data-tags="shoegaze" role="button">
+Catherine Wheel - Ferment (1992-02-17)
+</li>
 <li data-cover="https://img.discogs.com/mDB30nl3QFW7VAN2F3EOHXfD8fM=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2408075-1413144375-9933.jpeg.jpg" data-tags="shoegaze" role="button">
 Ride - Going Blank Again (1992-03-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/21d0c2f7-cf7d-4c99-80ec-4a13cf098f58/27225076889-500.jpg" data-tags="indie, electronic, rock, 90s" role="button">
+Spiritualized - Lazer Guided Melodies (1992-04)
 </li>
 <li data-cover="https://img.discogs.com/Fid09w9PQ1VknaBa3Hh6jH41yq0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567225-1462718622-5639.jpeg.jpg" data-tags="shoegaze" role="button">
 Slowdive - Souvlaki (1993-06-01)
@@ -141,9 +144,6 @@ M83 - Before the Dawn Heals Us (2005-01-24)
 <li data-cover="http://coverartarchive.org/release/d8e64927-2ed5-38b7-82c6-3f02ce624598/22167976638-500.jpg" data-tags="indie, indie rock" role="button">
 Mew - and the Glass Handed Kites (2005-09-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/6a0db988-56e4-49fd-810e-da9115f36555/27541791129-500.jpg" data-tags="indie rock, shoegaze" role="button">
-Film School - Film School (2006-01-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
 </li>
@@ -171,9 +171,6 @@ Blonde Redhead - 23 (2007-04-10)
 <li data-cover="http://coverartarchive.org/release/9a8a652e-d32a-400c-ae58-16cdcdc547f1/2239776188-500.jpg" data-tags="shoegaze" role="button">
 Alcest - Souvenirs d'un autre Monde (2007-07-03)
 </li>
-<li data-cover="https://img.discogs.com/VZlzejrrxZQ4j4-hTLJo-cmqpUk=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1039866-1267920531.jpeg.jpg" data-tags="shoegaze" role="button">
-A Place to Bury Strangers - A Place To Bury Strangers (2007-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
 </li>
@@ -185,6 +182,9 @@ Warpaint - Exquisite Corpse (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg" data-tags="shoegaze" role="button">
 Have a Nice Life - Deathconsciousness (2008-02-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/07c3bb4f-6269-4d63-82bb-4d7e2732888a/9460190628-500.jpg" data-tags="post-rock, shoegaze" role="button">
+Glowworm - The Coachlight Woods (2008-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/47be05f6-a0c1-4ea9-95d7-692560bc0198/1485656268-500.jpg" data-tags="electronic, shoegaze" role="button">
 M83 - Saturdays = Youth (2008-04-14)

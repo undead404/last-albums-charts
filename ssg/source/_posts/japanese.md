@@ -1,18 +1,18 @@
 ---
-date: 2021-04-09T19:37:01.493Z
+date: 2021-04-10T07:26:01.643Z
 title: "japanese: 100 albums you must listen to before you die"
 ---
 ![Perfume - GAME (2008-04-16)](http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg "Perfume - GAME (2008-04-16)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/17fd0913-2ba6-428c-b7f6-5891f4a63bbd/8130259037-500.jpg" data-tags="japanese, trip hop" role="button">Cibo Matto - VIVA! La Woman (1996-01-16)</li>
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">Cornelius - Point (2001-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">DIR EN GREY - Vulgar (2003-09-10)</li>
 <li data-cover="http://coverartarchive.org/release/d35e3a69-75a7-44a1-9e68-fd4e7b548976/11585065817-500.jpg" data-tags="japanese, visual kei, j-rock, dir en grey" role="button">DIR EN GREY - Withering to death (2005-03-09)</li>
 <li data-cover="http://coverartarchive.org/release/9c27b3e5-ccd0-4524-8e6c-0c35adb41771/13198374240-500.jpg" data-tags="math rock, post-rock" role="button">toe - the book about my idle plot on a vague anxiety (2005-08-31)</li>
-<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">Boris - Pink (2005-11-12)</li>
+<li data-cover="http://coverartarchive.org/release/1d3f727e-50ee-40b3-b39b-a480cd0612e8/13922000742-500.jpg" data-tags="shoegaze" role="button">Asobi Seksu - Citrus (2006-05-30)</li>
 <li data-cover="http://coverartarchive.org/release/5d43e329-315e-33c5-bba5-81d033e266c9/11644533393-500.jpg" data-tags="metalcore, alternative metal, japanese" role="button">DIR EN GREY - The Marrow Of A Bone (2007-02-07)</li>
 <li data-cover="http://coverartarchive.org/release/9aaca833-fb3f-4f8c-8b9c-4617715e9d9e/11039926115-500.jpg" data-tags="japanese, j-rock, visual kei, the gazette" role="button">the GazettE - STACKED RUBBISH (2007-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">Perfume - GAME (2008-04-16)</li>
+<li data-cover="http://coverartarchive.org/release/695060cc-1a85-4dc9-8e85-aa50b74964ef/6304189097-500.jpg" data-tags="post-rock, post rock" role="button">toe - For Long Tomorrow (2009-12-09)</li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">BABYMETAL - BABYMETAL (2014-02-26)</li>
 </ol>
 List of 100 - under the cut.
@@ -30,12 +30,6 @@ Tom Waits - Rain Dogs (1985)
 <li data-cover="http://coverartarchive.org/release/f128274d-e4bb-4b76-a1d1-1a60fa54c8eb/8751464865-500.jpg" data-tags="japanese, progressive ambient, youtube rec-core" role="button">
 Hiroshi Yoshimura - Green (1986)
 </li>
-<li data-cover="https://img.discogs.com/aVYuTaYK98DSZWc_VPlisrjNk-c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832189-1527491587-2668.jpeg.jpg" data-tags="rock, japanese, alternative rock, progressive rock, epic, post-punk, melodic, jpop, dream pop, japan, japanese rock, j, j-rock, j-pop, jrock, legends, japanese music, j-music, to explore, luna sea, pure beauty, loved albums, sugizo, ryuichi kawamura, inoran, legends of rock, in future, fxxing masterpiece, there is no tag for this masterpiece" role="button">
-Luna Sea - MOTHER (1994-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/17fd0913-2ba6-428c-b7f6-5891f4a63bbd/8130259037-500.jpg" data-tags="japanese, trip hop" role="button">
-Cibo Matto - VIVA! La Woman (1996-01-16)
-</li>
 <li data-cover="https://img.discogs.com/pM4_39Y3cXXUsPpShG0cMstN1Q4=/fit-in/600x505/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4854086-1512640960-1267.jpeg.jpg" data-tags="j-rock" role="button">
 X Japan - DAHLIA (1996-11-04)
 </li>
@@ -44,9 +38,6 @@ Cornelius - Fantasma (1997-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7d3b9817-b46c-46e7-a94a-3675134fbcf9/21937152600-500.jpg" data-tags="visual kei, j-rock" role="button">
 Malice Mizer - merveilles (1998-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/62965196-d2ef-4200-92f3-6e67dad070cd/3847276873-500.jpg" data-tags="drone, doom metal" role="button">
-Boris - Amplifier Worship (1998-11-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop, utada hikaru" role="button">
 宇多田ヒカル - First Love (1999-03-10)
@@ -60,17 +51,17 @@ Boredoms - Vision Creation Newsun (1999-10-27)
 <li data-cover="https://img.discogs.com/_ReOz2Eg5OLNoovgXmZfvgchvfs=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13986322-1565521811-3863.webp.jpg" data-tags="gackt, japanese, j-rock" role="button">
 GACKT - MARS (2000-04-26)
 </li>
+<li data-cover="https://img.discogs.com/lpjkBWhTgEmszY9XiMKJpcJI4G0=/fit-in/500x978/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9143344-1475519802-6071.jpeg.jpg" data-tags="japanese, japanese rock, j-rock, visual kei, jrock, visual key" role="button">
+Luna Sea - LUNACY (2000-07-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/bc0d9dba-4224-49a2-a2d9-6ab05e9ca6f5/13268996571-500.jpg" data-tags="ambient" role="button">
 Susumu Yokota - Sakura (2000-09-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/cdd7017c-9510-4c38-ad22-dc626c00b418/3178284336-500.jpg" data-tags="j-rock, visual kei" role="button">
-DIR EN GREY - Macabre (2000-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c56f5e3-0cda-4243-88f6-40682375c9d1/18052521100-500.jpg" data-tags="j-pop, japanese, jpop, ayumi hamasaki" role="button">
 浜崎あゆみ - Duty (2000-09-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/0a0f094c-d000-4b5c-be75-9b21b239f500/4855545791-500.jpg" data-tags="electronic, ambient, japanese, experimental, glitch" role="button">
-World's End Girlfriend - ending story (2000-10-16)
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese" role="button">
+くるり - Team Rock (2001-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/61a91ee4-71d9-4ed7-a7ad-6ae6c83173d7/21486949080-500.jpg" data-tags="japanese" role="button">
 DIR EN GREY - ain't afraid to die (2001-04-18)
@@ -84,9 +75,6 @@ Akira Yamaoka - Silent Hill 2 (2001-10-03)
 <li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
 Cornelius - Point (2001-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/32bb9998-3d8d-4e4e-a8e5-6e77be38610a/14049826100-500.jpg" data-tags="ambient, electronic, instrumental" role="button">
-World's End Girlfriend - farewell kingdom (2001-11-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/bbe29336-f4e2-3e18-a5f1-1d30f15b916e/9768589910-500.jpg" data-tags="japanese, dance, j-pop, qualified" role="button">
 Boa - LISTEN TO MY HEART (2002-03-13)
 </li>
@@ -99,14 +87,17 @@ GACKT - MOON (2002-06-19)
 <li data-cover="http://coverartarchive.org/release/db8a335e-3686-4327-8c0c-38adb701ad9d/16181934440-500.jpg" data-tags="dir en grey, metal, japanese, j-rock" role="button">
 DIR EN GREY - six Ugly (2002-07-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/a80c691b-9444-3db0-9bfe-ff08f7b23e62/11071657210-500.jpg" data-tags="post-rock" role="button">
+Mono - One Step More and You Die (2002-10-02)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese" role="button">
 雅-MIYAVI- - Gagaku (2002-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bc4696d-ad5a-4205-a48f-4a6b05fc8545/20532112310-500.jpg" data-tags="japanese, visual kei, gothic metal" role="button">
-Moi dix Mois - Dix infernal (2003-03-19)
-</li>
 <li data-cover="https://img.discogs.com/6eqJclpBSHFjPIgdfTzCFm1Twm4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13877239-1563119976-9959.jpeg.jpg" data-tags="j-rock, jrock" role="button">
 ASIAN KUNG-FU GENERATION - Houkai Amplifier (2003-04-23)
+</li>
+<li data-cover="https://img.discogs.com/aKa3diJi3OzltEG8-tobhk2bK6o=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334231-1210541514.jpeg.jpg" data-tags="stoner rock" role="button">
+Boris - Akuma No Uta (2003-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ddfef9a-16d2-3f43-94bf-5e5efdb13883/7454535329-500.jpg" data-tags="j-rock" role="button">
 DIR EN GREY - Vulgar (2003-09-10)
@@ -126,9 +117,6 @@ Blonde Redhead - Misery Is a Butterfly (2004-03-15)
 <li data-cover="http://coverartarchive.org/release/9d953482-6014-4ff1-8015-7240746fc24a/19402623897-500.jpg" data-tags="hip-hop, japanese, j-pop" role="button">
 RIP SLYME - GALAXY (2004-07-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/d7e4964d-e384-4af4-9d9c-9d904d17ac82/8008200343-500.jpg" data-tags="japanese, symphonic metal, loved albums" role="button">
-Moi dix Mois - NOCTURNAL OPERA (2004-07-20)
-</li>
 <li data-cover="https://img.discogs.com/hCUjfBdfZiUgJvofzEgsK0THyRw=/fit-in/600x969/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992708-1507824744-8278.jpeg.jpg" data-tags="japanese, pop, utada" role="button">
 Utada - Exodus (2004-09-08)
 </li>
@@ -137,9 +125,6 @@ ASIAN KUNG-FU GENERATION - Sol-fa (2004-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8208be7-1045-4ed3-8ce1-d036dc44ae9b/12986873248-500.jpg" data-tags="alternative rock" role="button">
 ASIAN KUNG-FU GENERATION - ソルファ (2004-10-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/b08eaad5-28f9-4404-b3b7-90067c092d1d/6692942777-500.jpg" data-tags="japanese" role="button">
-東京事変 - 教育 (2004-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/515c3a3c-05ec-4a16-8e1c-ca1a9ef34e02/6155875688-500.jpg" data-tags="experimental, ambient, post-rock" role="button">
 World's End Girlfriend - The Lie Lay Land (2005-02-25)
@@ -159,17 +144,20 @@ GACKT - DIABOLOS (2005-09-21)
 <li data-cover="http://coverartarchive.org/release/49239fa8-d4cf-4870-a61a-8849557203e6/13872961723-500.jpg" data-tags="japanese, j-pop" role="button">
 YUI - LIFE (2005-11-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/4a3d60d3-90ea-4a90-938a-06b2aee41bd3/12833333732-500.jpg" data-tags="stoner rock, japanese" role="button">
-Boris - Pink (2005-11-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/72301ba2-c6e8-4cbb-a766-675b3df2bbe5/3772124101-500.jpg" data-tags="soundtrack" role="button">
 John Williams - Memoirs Of A Geisha (2005-11-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soundtrack, pop, rock, japanese, female vocalists, mpb, game, anime, j-rock, video game music, j-pop, utada hikaru, kingdom hearts" role="button">
 宇多田ヒカル - Passion (2005-12-14)
 </li>
+<li data-cover="https://img.discogs.com/2Q-bsgiF4KcYfGL4UMZ0zlhRHZw=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6670668-1509691949-1163.jpeg.jpg" data-tags="bleach" role="button">
+High And Mighty Color - Ichirin no Hana (2006-01-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/f3c4087a-dcc9-3cea-a50a-5acd052e71af/11254027972-500.jpg" data-tags="j-rock" role="button">
 the GazettE - NIL (2006-02-08)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, male vocalists, j-rock, j-pop-rock" role="button">
+雅-MIYAVI- - MYV☆POPS (2006-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d2be387-28e2-4637-bba4-54d24d3a4e71/18954010886-500.jpg" data-tags="j-pop, japanese" role="button">
 YUI - FROM ME TO YOU (2006-02-22)
@@ -179,9 +167,6 @@ GACKT - Love Letter (2006-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3bfa4c29-3425-320d-87ae-f6d0e9e83b75/3361339988-500.jpg" data-tags="post-rock" role="button">
 Mono - You Are There (2006-03-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/339c1c01-6295-4576-a29d-fbe6f1ca00c9/7054757346-500.jpg" data-tags="j-rock" role="button">
-Hyde - Faith (2006-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5a00cdce-1a2b-48f3-adbb-ca1b5ad779b9/3951479046-500.jpg" data-tags="electronic, electropop, japanese, capsule" role="button">
 Capsule - FRUITS CLiPPER (2006-05-10)
@@ -201,6 +186,9 @@ Asobi Seksu - Citrus (2006-05-30)
 <li data-cover="https://img.discogs.com/lD9hgbJ9j1I31uA-U_5Oi7wHpKE=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3221297-1321091639.jpeg.jpg" data-tags="rock, japanese, j-rock" role="button">
 ELLEGARDEN - Eleven Fire Crackers (2006-11-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, j-pop" role="button">
+浜崎あゆみ - Secret (2006-11-29)
+</li>
 <li data-cover="https://img.discogs.com/jJKX7Cuv1j-FsqgR9dZLg0msYe4=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5145657-1385738264-4753.jpeg.jpg" data-tags="electronic, jazz, japanese, instrumental, math rock, emo, experimental, fusion, japan, post rock, play this at my funeral, noodly, dem drums" role="button">
 toe - New Sentimentality (2006-12-06)
 </li>
@@ -210,9 +198,6 @@ DIR EN GREY - The Marrow Of A Bone (2007-02-07)
 <li data-cover="http://coverartarchive.org/release/640f4928-ab34-4889-89a7-00743753d8c8/6818406090-500.jpg" data-tags="japanese" role="button">
 宇多田ヒカル - Flavor Of Life (2007-02-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/51438ac7-ce24-4882-b6c8-ffa3d221c998/3349154225-500.jpg" data-tags="post-rock, japanese" role="button">
-World's End Girlfriend - Hurtbreak Wonderland (2007-03-23)
-</li>
 <li data-cover="https://img.discogs.com/ivlCXvUaRvIfAJN6yQz9l1idr5Q=/fit-in/475x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1488527-1230477522.jpeg.jpg" data-tags="visual kei" role="button">
 D'espairsRay - MIRROR (2007-04-11)
 </li>
@@ -221,6 +206,9 @@ the GazettE - STACKED RUBBISH (2007-07-04)
 </li>
 <li data-cover="https://img.discogs.com/ooqlSYIWQfWj4y3_uvtHQalOCtY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5272930-1389278550-1971.jpeg.jpg" data-tags="japanese" role="button">
 RENTRER EN SOI - The bottom of chaos (2007-08-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/957e70bc-6047-46e2-95a4-d077b35cbe88/28487806504-500.jpg" data-tags="japanese, j-pop" role="button">
+宇多田ヒカル - Beautiful World / Kiss & Cry (2007-08-29)
 </li>
 <li data-cover="https://img.discogs.com/V-y_zlb78r3oMes1n6M8dEzwc8M=/fit-in/500x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616432-1337518222-7816.jpeg.jpg" data-tags="japanese" role="button">
 abingdon boys school - abingdon boys school (2007-10-17)
@@ -237,26 +225,32 @@ Capsule - FLASH BACK (2007-12-05)
 <li data-cover="http://coverartarchive.org/release/39c898e0-6cb4-4f40-8d33-d7d29280361a/4005393117-500.jpg" data-tags="j-pop, japanese" role="button">
 宇多田ヒカル - HEART STATION (2008-03-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/c5ccf7fe-d8f1-4ba4-8081-b51936a6dd49/26036239291-500.jpg" data-tags="japanese, j-pop" role="button">
-YUI - I LOVED YESTERDAY (2008-04-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/6731434a-6638-3029-bfe6-cde8fa92b04f/3623870570-500.jpg" data-tags="electropop, japanese, j-pop" role="button">
 Perfume - GAME (2008-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fbd6217-c715-4b57-826a-b86444e2ecd4/5214151146-500.jpg" data-tags="hip-hop, chillout, japanese, instrumental, piano, japan" role="button">
 DJ Okawari - Diorama (2008-05-28)
 </li>
-<li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
-Versailles - NOBLE (2008-07-16)
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop" role="button">
+水樹奈々 - Trickster (2008-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb296c28-e379-4405-9bb4-c24793685c6c/20605730802-500.jpg" data-tags="alternative metal, progressive metal, j-metal" role="button">
 DIR EN GREY - Uroboros (2008-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/6769d1c5-ca72-41c3-81b2-e28eede5bb92/5230513224-500.jpg" data-tags="japanese" role="button">
+Perfume - Dream Fighter (2008-11-19)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop, voice actress" role="button">
+坂本真綾 - かぜよみ (2009-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/d28d9760-c79b-432f-a9dd-54442f2caf45/9526718277-500.jpg" data-tags="post-rock" role="button">
 Mono - Hymn to the Immortal Wind (2009-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/11ce296b-5499-439b-8e1c-092b0e35557e/22270460633-500.jpg" data-tags="japanese, female vocalists, jpop, asian, j-pop, sucks, chiant, asian music, chevre, asian pop, things i will never listen to, better than ayu, better than akiko shikata, more talented than akiko shikata, talentless people, voix de chevre, chiante, chiantissime, this is why jpop in the 2000s sucked" role="button">
 YUI - again (2009-06-01)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="japanese, jpop" role="button">
+水樹奈々 - ULTIMATE DIAMOND (2009-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/19738aa4-d7d3-4c69-a764-bb400b2c3000/9641719362-500.jpg" data-tags="jazz, downtempo" role="button">
 DJ Okawari - Mirror (2009-06-24)
@@ -291,8 +285,17 @@ ONE OK ROCK - Nicheシンドローム (2010-06-09)
 <li data-cover="http://coverartarchive.org/release/33264336-40b5-3017-a8ae-146e5a3ad5bb/3433245640-500.jpg" data-tags="japanese" role="button">
 D'espairsRay - MONSTERS (2010-07-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
-Dead Can Dance - Anastasis (2012-08-13)
+<li data-cover="http://coverartarchive.org/release/fc652ef5-d721-4a4a-a977-c021bebd33ab/5773948092-500.jpg" data-tags="electronic, japanese, female vocalists, techno, girls, jpop, asian, j-pop, girl band, girl group, girl groups, group, girlband, idol, asian music, asian pop" role="button">
+Perfume - ねぇ (2010-11-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="electronic, rock, japanese" role="button">
+サカナクション - DocumentaLy (2011-09-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/2a12d57a-2832-426b-b52c-c27d4bef5617/5230353728-500.jpg" data-tags="j-pop, electropop" role="button">
+Perfume - JPN (2011-11-30)
+</li>
+<li data-cover="https://img.discogs.com/CekTjiDimLI0Ymt9w79fECuYvv8=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-319834-1094498826.jpeg.jpg" data-tags="japanese, anime, j-pop" role="button">
+Lisa - Crossing Field (2012-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/92e45294-7c6e-485c-8707-8b655dbc11bd/3058792717-500.jpg" data-tags="japanese" role="button">
 YUI - GREEN GARDEN POP (2012-12-05)
@@ -317,8 +320,5 @@ Lamp - ゆめ (2014-02-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
-Zola Jesus - Taiga (2014-10-06)
 </li>
 </ol>

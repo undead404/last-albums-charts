@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:44:01.429Z
+date: 2021-04-10T07:40:01.777Z
 title: "norwegian: 100 albums you must listen to before you die"
 ---
 ![a-ha - Hunting High and Low (1985-06-01)](https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg "a-ha - Hunting High and Low (1985-06-01)")
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/usYj9CbiJnPwv9DvaKruUaBhhc8=/fit-in/485x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125275-1350224639-4039.jpeg.jpg" data-tags="norwegian" role="button">
-Madrugada - Madrugada (1974)
-</li>
 <li data-cover="https://img.discogs.com/LNiRXux_wTZfTRrBTX1TqYy197Q=/fit-in/599x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-194729-1232047944.jpeg.jpg" data-tags="80s" role="button">
 a-ha - Hunting High and Low (1985-06-01)
 </li>
@@ -65,6 +62,9 @@ Emperor - Anthems To The Welkin At Dusk (1997-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c51f27b8-ffd7-4b53-aa4e-2687e213e30f/4798121885-500.jpg" data-tags="symphonic black metal, black metal" role="button">
 Dimmu Borgir - Enthrone Darkness Triumphant (1997-05-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/709f090c-6659-46af-a9ec-dbcd9ca4058c/19255822547-500.jpg" data-tags="jazz, trumpet" role="button">
+Nils Petter Molvær - Khmer (1997-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd27c740-f61d-3b7a-a1b4-44d6834a791d/21056285792-500.jpg" data-tags="indie" role="button">
 Madrugada - Industrial Silence (1999)
@@ -222,14 +222,14 @@ I - Between Two Worlds (2006-11-03)
 <li data-cover="https://img.discogs.com/pmP_hBJ-Nqg6EBqAKsClkXdId7U=/fit-in/500x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3265274-1323013527.jpeg.jpg" data-tags="gothic metal" role="button">
 Tristania - Illumination (2007-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/a7b98a10-34b3-46c9-b596-5c1293befc91/1069103090-500.jpg" data-tags="gothic metal" role="button">
-Sirenia - Nine Destinies And A Downfall (2007-02-23)
-</li>
 <li data-cover="https://img.discogs.com/uIAfZ93GzL9QH5DKXUZbj6LUJ-Y=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4140032-1356738631-1349.jpeg.jpg" data-tags="norwegian, norsk" role="button">
 Postgirobygget - Tidløs (2007-06)
 </li>
 <li data-cover="https://img.discogs.com/yJojx2GIVhg6pOpvML9CR3svYkU=/fit-in/399x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1294420-1215387260.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Ane Brun - Changing of the Seasons (2008-03-10)
+</li>
+<li data-cover="https://img.discogs.com/rQ_mlsrUfs2sjJCo7bZDXUDcjeA=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1773198-1264529090.jpeg.jpg" data-tags="electropop, pop" role="button">
+Annie - Don't Stop (2008-08)
 </li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
@@ -279,6 +279,9 @@ Taake - Noregs Vaapen (2011-09-19)
 <li data-cover="http://coverartarchive.org/release/40ad926e-0aa5-476d-9640-fed5f95d8ede/3990865020-500.jpg" data-tags="maria mena" role="button">
 Maria Mena - Viktoria (2011-09-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/c1d4d4d8-b4fe-4b03-949a-ba5015bc1936/7765773453-500.jpg" data-tags="female vocalists, norwegian, post hardcore, hardcore punk, deathpop" role="button">
+Blood Command - Funeral Beach (2012)
+</li>
 <li data-cover="http://coverartarchive.org/release/569b592f-aa1d-4c0b-838d-95fd00b2406f/3972783637-500.jpg" data-tags="jazz, swedish, norwegian, jazz fusion, avant-garde, art rock, sweden, avant-garde jazz, smalltown supersound, neneh cherry, the thing, cover albums, musicas no plural" role="button">
 Neneh Cherry & The Thing - The Cherry Thing (2012-06-18)
 </li>
@@ -311,9 +314,6 @@ Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/374bb533-2dc5-4b3c-ab06-679c82473de8/9208647489-500.jpg" data-tags="rock, hard rock, norwegian" role="button">
 Spidergawd - Spidergawd (2014-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9c5605d-d526-4222-86b9-c3adb2719d13/7037161308-500.jpg" data-tags="electronic" role="button">
-Röyksopp & Robyn - Do It Again (2014-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c40569-5bc4-4577-8609-2934f5eb1b9d/11602582677-500.jpg" data-tags="hip-hop, pop, norwegian, r&b, norway, norge" role="button">
 Nico & Vinz - Black Star Elephant (2014-10-03)

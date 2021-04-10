@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:54:01.459Z
+date: 2021-04-10T07:27:01.474Z
 title: "female vocalists: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -135,9 +135,6 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 <li data-cover="https://img.discogs.com/gFS5maU7k9Ve_dROF17h9wCtNUg=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061572-1189108115.jpeg.jpg" data-tags="female vocalists" role="button">
 Fiona Apple - Extraordinary Machine (2005-03)
 </li>
-<li data-cover="https://img.discogs.com/ZB9c7-tmuK9P6zRfd92W2_UF2k0=/fit-in/600x858/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5419521-1602094564-5998.jpeg.jpg" data-tags="rnb, pop, mariah carey, female vocalists" role="button">
-Mariah Carey - The Emancipation of Mimi (2005-04-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
 Anna Nalick - Wreck of the Day (2005-04-19)
 </li>
@@ -170,6 +167,9 @@ Nelly Furtado - Loose (2006-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/74832c40-66da-4efa-acec-871e0a72aae2/3946571235-500.jpg" data-tags="pop" role="button">
 Fergie - The Dutchess (2006-06-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">
+Lily Allen - Alright, Still (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/1754547d-8a39-40c1-a939-ae94dc2781e4/17868296171-500.jpg" data-tags="pop, female vocalists" role="button">
 The Pipettes - We Are The Pipettes (2006-07-17)
@@ -213,9 +213,6 @@ Sara Bareilles - Little Voice (2007-07-03)
 <li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
 Kate Nash - Made of Bricks (2007-08-06)
 </li>
-<li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
-The Veronicas - Hook Me Up (2007-09-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
 </li>
@@ -239,6 +236,9 @@ Lady Gaga - The Fame (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbc79f64-fdb9-3ce3-ae32-c9d18c19584f/18125993116-500.jpg" data-tags="lady gaga, pop" role="button">
 Lady Gaga - The Fame Monster (2008-08-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/bd049998-44f1-4ca1-9b38-853b25772a12/10361330463-500.jpg" data-tags="indie, female vocalists" role="button">
+Ingrid Michaelson - Be OK (2008-10-14)
 </li>
 <li data-cover="https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg" data-tags="country" role="button">
 Taylor Swift - Fearless (2008-11-11)

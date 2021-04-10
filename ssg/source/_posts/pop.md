@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:48:01.479Z
+date: 2021-04-10T07:45:02.698Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -62,6 +62,9 @@ Christina Aguilera - Stripped (2002-10-28)
 </li>
 <li data-cover="https://img.discogs.com/tqaps-6vVNpUwo78Mw0qqgSGDDY=/fit-in/383x375/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2972463-1309832387.jpeg.jpg" data-tags="pop" role="button">
 Justin Timberlake - Justified (2002-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
+John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/398e0153-1af0-4052-a78d-d0120e80bc48/22471055903-500.jpg" data-tags="pop" role="button">
 Dido - Life for Rent (2003-09-26)
@@ -189,12 +192,6 @@ Britney Spears - Circus (2008-11-28)
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/7f9b8600-7662-41ff-bf56-f0ad86d5631a/16281294365-500.jpg" data-tags="pop" role="button">
-Keri Hilson - In a Perfect World... (2009-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/d852f54a-eda3-4607-807d-545e697bc879/10008805165-500.jpg" data-tags="pop, rnb, battlefield" role="button">
-Jordin Sparks - Battlefield (2009-05-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
@@ -275,6 +272,9 @@ Selena Gomez & the Scene - When the Sun Goes Down (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/16111056293-500.jpg" data-tags="pop, british, acoustic, ed sheeran" role="button">
 Ed Sheeran - + (2011-09-09)
+</li>
+<li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
+Avicii - Levels (2011-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/94caea91-4d1f-41f1-8b3c-ce9de80e0ffd/14542335290-500.jpg" data-tags="pop, rihanna, dance" role="button">
 Rihanna - Talk That Talk (2011-11-18)

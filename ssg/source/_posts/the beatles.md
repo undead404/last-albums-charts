@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:18:01.404Z
+date: 2021-04-10T07:28:01.538Z
 title: "the beatles: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -144,6 +144,9 @@ John Lennon & Yoko Ono - Milk and Honey (1984)
 <li data-cover="http://coverartarchive.org/release/9554aba4-85fd-42eb-a4df-fe9ebc71ebfb/4682090790-500.jpg" data-tags="beatles, the beatles" role="button">
 Julian Lennon - Valotte (1984)
 </li>
+<li data-cover="http://coverartarchive.org/release/311a3e8d-5099-4f72-a16f-9b2e0212394a/5274581263-500.jpg" data-tags="classic rock, the beatles" role="button">
+The Beatles - Ain't She Sweet (1984-12-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/8dca0d25-cce8-4366-93af-14262426054f/9053370792-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Decca Tapes (1986-03-01)
 </li>
@@ -183,17 +186,14 @@ The Beatles - Live at the BBC (1994-11-30)
 <li data-cover="http://coverartarchive.org/release/f61a83dd-8bce-4fe7-98ce-98bf1db68748/27733750537-500.jpg" data-tags="60s" role="button">
 Dave Dee, Dozy, Beaky, Mick & Tich - The Best Of Dave Dee, Dozy, Beaky, Mick & Tich (1995)
 </li>
+<li data-cover="http://coverartarchive.org/release/158aa174-efc8-4e20-8d9b-01aa4b71ad44/1517939855-500.jpg" data-tags="unplugged" role="button">
+The Beatles - Unplugged (1995)
+</li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="the beatles" role="button">
 The Beatles - Free as a Bird (1995-07-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/93920277-bb3f-4944-a33a-b4a48ee3f7e6/12052993672-500.jpg" data-tags="classic rock, 60s, beatles" role="button">
 The Beatles - Anthology 1 (1995-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/4991df87-15a6-33e8-9718-c17c7282d8de/10354133181-500.jpg" data-tags="classic rock, rock, 60s" role="button">
-The Beatles - Anthology 2 (1996-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/50893966-1a48-3500-8d35-d96d1109a39f/11784595282-500.jpg" data-tags="classic rock, british" role="button">
-The Beatles - Anthology 3 (1996-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7aedd180-b1b4-4e4e-a929-1e924eb38aba/4327371891-500.jpg" data-tags="spanish, rock" role="button">
 Mar de Copas - III (1997)
@@ -218,9 +218,6 @@ The Simpsons - The Yellow Album (1998-11-24)
 </li>
 <li data-cover="https://img.discogs.com/wZYD51J02jyFXL_o81LwANemXBM=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6078145-1410483722-5361.jpeg.jpg" data-tags="rock" role="button">
 Los Fabulosos Cadillacs - La Marcha Del Golazo Solitario (1999)
-</li>
-<li data-cover="https://img.discogs.com/nyHqo_ES_IqkbcqO10BqRoZ15eg=/fit-in/600x664/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8721424-1467327188-4905.jpeg.jpg" data-tags="pop, rock, classic, british, alternative, hard, experimental, indie rock, singer-songwriter, pop rock, britpop, psychedelic pop, progressive, elvis, oldies, psychedelia, california, psychedelic rock, john lennon, beat, israel, beatles, pop-rock, the beatles, english, roma, madonna, liverpool, paul mccartney, paris, jesus, jerusalem, anthony, aleister crowley, latin grammy nominated, merseybeat, cubano, rock'n'roll, ringo starr, george, obama, smith, filme, nova, christopher lee, harrison, sexo, invasion, aleyster crowley, rock  indie, xuxa, argeu california seixas, silvio passos, wilson seixas, california seixas, lula, familia, aleister, raul seixas, holanda, libano, amidio junior, anyzio rocha, belem, nova california seixas, mucajai, argeu california, beto juara, don kalifa, caracarai, aleystercrowleype, donkalifa, aleystercrowley, simplesdemais, os putos brothers, aleyster, silva alhandra, krica morena bela, boa vista, roraima, kricamorena, capim cubano, familia santos, argeu, krica morena, mosca navarro, argeu bernardo de andrade, aleyster crowley bernardo de andrade, desenho, thebestofaleystercrowley, banda metamorphosis, argeur california seixas, anthonyjoseph70, nova california, anthony smith, anthony joseph smith" role="button">
-Harmonia Do Samba - O Rodo (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ab72f9d-c1b4-4e4a-bb72-406d858837a9/14980500818-500.jpg" data-tags="beatles" role="button">
 The Beatles - The Alternate Abbey Road (2000)
@@ -263,6 +260,9 @@ Paul McCartney - Chaos and Creation in the Backyard (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c90ae881-77b4-455b-9601-c5989c87da25/2592949210-500.jpg" data-tags="cover, the beatles, beatles cover, beatles covers, the beatles cover, stings, beatles cover song, beatles cover songs, the beatles cover song, the beatles cover songs, the beatles covers" role="button">
 Vitamin String Quartet - The String Quartet Tribute to The Beatles (2005-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/83582a0a-9078-412d-8042-457261d736dc/962247857-500.jpg" data-tags="the beatles" role="button">
+Honey Power - Macrosilly (2006-09-01)
 </li>
 <li data-cover="https://img.discogs.com/Guc6YdVIkfL8fdt6Slzgvvv7KNo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4304458-1436317961-7677.jpeg.jpg" data-tags="compilation" role="button">
 John Lennon - The U.S. Vs. John Lennon (2006-09-26)
@@ -309,14 +309,14 @@ The Incomparable Shakespeare - The British Invasion (2010-02-28)
 <li data-cover="https://img.discogs.com/L6AaZ19r-7pg0o3KL2UQzMNheds=/fit-in/566x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2289611-1274717101.jpeg.jpg" data-tags="indie, alternative, indie pop, twee, sad, singer-songwriter, lo-fi, jangle pop, romantic, atmospheric, coldplay, radiohead, the smiths, love songs, john peel, john lennon, the beatles, portishead, franz ferdinand, scott walker, david bowie, blur, johnny cash, joy division, oasis, new order, morrissey, simon and garfunkel, bob dylan, joni mitchell, lou reed, elliott smith, pulp, the verve, nick drake, lloyd cole and the commotions, belle and sebastian, velvet underground, george harrison, rufus wainwright, jangle, jarvis cocker, momus, c86, eva cassidy, bowie, kings of convenience, paul weller, crowded house, richard ashcroft, david gray, lloyd cole, glasvegas, roddy frame, orange juice, edwin collins, the walker brothers, stephen harrison, metropak" role="button">
 Stephen Harrison - The Colour Of Black Is Black (2010-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/68ee658a-fe27-47ea-8f01-583e13bc2d99/9495772397-500.jpg" data-tags="classical, ballet, oldies, contemporary classical, the beatles, relax, buy it, 21st century classical" role="button">
-Paul McCartney - Ocean's Kingdom (2011-10-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/e0b20aa8-206f-4ebd-8553-329b37848ab2/8320859136-500.jpg" data-tags="70s, george harrison, classic rock" role="button">
 George Harrison - Living in the Material World (2011-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/badefc03-9bc5-4e51-ba80-a25c563ae72e/10373115681-500.jpg" data-tags="rock, british, pop rock, the beatles" role="button">
 Ringo Starr - Ringo 2012 (2012-01-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/1a5e62ca-df58-472f-9cd9-5c6f6492ee7a/11401418543-500.jpg" data-tags="the beatles, demo, previously unreleased, posthumous" role="button">
+The Beatles - The Beatles Bootleg Recordings 1963 (2013-12-17)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, beatles" role="button">
 The Beatles - The Best Of The Beatles (2015-11-06)

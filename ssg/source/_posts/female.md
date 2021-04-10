@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:16:01.510Z
+date: 2021-04-10T07:34:01.720Z
 title: "female: 100 albums you must listen to before you die"
 ---
 ![Brandi Carlile - The Story (2007-04-03)](http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg "Brandi Carlile - The Story (2007-04-03)")
@@ -54,9 +54,6 @@ Jewel - Pieces of You (1994)
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">
 Tori Amos - Under the Pink (1994-01-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/7bce126e-92a6-3e36-8777-baa8f2c296d3/8615407273-500.jpg" data-tags="folk" role="button">
-Tracy Chapman - New Beginning (1995-11-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/16b92612-7634-4053-8464-b1b0e18847f2/5641031475-500.jpg" data-tags="female" role="button">
 Dar Williams - Mortal City (1996)
 </li>
@@ -87,14 +84,11 @@ Dido - No Angel (1999-06-01)
 <li data-cover="http://coverartarchive.org/release/f7433ff5-35e6-48c2-8503-c2d046540d5d/21406735668-500.jpg" data-tags="soul" role="button">
 Macy Gray - On How Life Is (1999-07-27)
 </li>
-<li data-cover="https://img.discogs.com/iDrGlUqSADpgvCT_f3lP7GRWcP4=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4605383-1572692196-7884.jpeg.jpg" data-tags="pop, screamo, penisbird" role="button">
-Jessica Simpson - Sweet Kisses (1999-11-09)
-</li>
 <li data-cover="https://img.discogs.com/XZU-fmyZ470Ms5OfL1QcHEkKQXA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-813042-1390580200-4980.jpeg.jpg" data-tags="singer-songwriter, pop" role="button">
 Melanie C - Northern Star (1999-11-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/01a242ca-e319-3cf4-b3d4-97116e465f61/8716711551-500.jpg" data-tags="pop, latin, spanish, female vocalists, rock en espanol" role="button">
-Shakira - MTV Unplugged (2000-02-28)
+<li data-cover="https://img.discogs.com/Wq8UW0U_84cS3tB11DhA4iERct4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10167741-1500239567-8644.jpeg.jpg" data-tags="pop, female vocalists" role="button">
+Mandy Moore - So Real (1999-12-07)
 </li>
 <li data-cover="https://img.discogs.com/4ht0rxs_jw_ar-d4kpid3x4IRjs=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1022385-1185056875.jpeg.jpg" data-tags="female vocalists" role="button">
 Nerina Pallot - Dear Frustrated Superstar (2001-08-20)
@@ -114,9 +108,6 @@ Vanessa Carlton - Be Not Nobody (2002-04-30)
 <li data-cover="http://coverartarchive.org/release/67ad4896-9942-4db8-947f-811fe7cafd99/23881737845-500.jpg" data-tags="indie rock" role="button">
 Rilo Kiley - The Execution of All Things (2002-10-01)
 </li>
-<li data-cover="https://img.discogs.com/ZRK1koHh-1W6UwBHAYOY8Jd5ZdI=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2623830-1293787731.jpeg.jpg" data-tags="folk, female vocalists, soul" role="button">
-Tracy Chapman - Let It Rain (2002-10-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
 Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
@@ -129,14 +120,14 @@ The Cardigans - Long Gone Before Daylight (2003-03-24)
 <li data-cover="http://coverartarchive.org/release/570b7d30-bf9e-4fe0-9b71-4c40545f2db5/5224988766-500.jpg" data-tags="female vocalists" role="button">
 Cyndi Lauper - The Essential Cyndi Lauper (2003-06-10)
 </li>
+<li data-cover="https://img.discogs.com/BmGORWdUT7o3lCmfB-xSvtal4pA=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-210474-1328076828.jpeg.jpg" data-tags="vocal, chill, cibelle - pequenos olhos" role="button">
+Cibelle - Cibelle (2003-06-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/70871304-126b-4d9f-bca9-b53df88cddd0/17192534136-500.jpg" data-tags="pop, pop rock, hilary duff" role="button">
 Hilary Duff - Metamorphosis (2003-06-20)
 </li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/37fa11b6-d519-4f9a-9454-9bec8bdff66f/12054165106-500.jpg" data-tags="female vocalists, 00s" role="button">
-Beth Orton - The Other Side Of Daybreak (2003-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6c293557-1a20-4cf6-80e8-5bb7d7ab4e55/16378712431-500.jpg" data-tags="pop, another day" role="button">
 Lene Marlin - Another Day (2003-09-18)
@@ -147,11 +138,11 @@ Nick Lachey - Soulo (2003-11-11)
 <li data-cover="http://coverartarchive.org/release/5839ebed-ffe9-43f9-99c4-a4288643c809/14824380200-500.jpg" data-tags="female vocalists" role="button">
 Hanne Hukkelberg - Little Things (2004)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab94f081-aff2-4b3b-ad08-0b410fd80654/11066105660-500.jpg" data-tags="pop, female vocalists, piano" role="button">
-Vanessa Carlton - Harmonium (2004-01-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
 Jem - Finally Woken (2004-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/bdea53a4-7fab-409b-b70f-6ec3f8a06029/24728786897-500.jpg" data-tags="indie, female, alternative, female vocalists, singer-songwriter, day, sunday, quiet, chicks, second, staff, comfort, friday, march, colors, monday, saturday, november, woman, though, august, pink, three, girl, vagina, orange, zero, name, blue, red, green, yellow, first, december, richard, february, you, thursday, too, guides, not, oil, makes, shade, bats, september, january, july, tuesday, enemies, awareness, sing, miscellaneous, head, idols, can, seven, shady, four, two, chick, bands that would eat children if only they could fit a whole one inside their mouths, purple, rainbow, alternative media, one" role="button">
+Sam Phillips - A Boot and a Shoe (2004-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e6a1a1d-613f-43cd-98a4-005f07b6b3bc/23228455307-500.jpg" data-tags="hip-hop" role="button">
 Christina Milian - Dip It Low (2004-05-03)
@@ -189,6 +180,9 @@ Tori Amos - The Beekeeper (2005-02-21)
 <li data-cover="http://coverartarchive.org/release/7faa7d28-907c-46e2-9553-de929c876de5/5408981197-500.jpg" data-tags="female vocalists" role="button">
 Anna Nalick - Wreck of the Day (2005-04-19)
 </li>
+<li data-cover="https://img.discogs.com/xEc7LmRWVRnpZbFlnsEjNt4sAVU=/fit-in/545x868/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9149382-1475636199-2903.png.jpg" data-tags="pop" role="button">
+Hilary Duff - Most Wanted (2005-08-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/14acfbcf-3a1b-4dad-bf31-fae0525aeed2/22195854394-500.jpg" data-tags="pop, alternative, alternative rock" role="button">
 Aly & AJ - Into the Rush (2005-08-16)
 </li>
@@ -204,8 +198,17 @@ Kellie Pickler - Small Town Girl (2006-10-31)
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/c73f995d-44e3-4363-a310-bf638b97dc69/1578195106-500.jpg" data-tags="female, hot" role="button">
+Tila Tequila - Tila Tequila (2007)
+</li>
 <li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
 Katy Perry - Ur So Gay (2007-01-15)
+</li>
+<li data-cover="https://img.discogs.com/mHCZ-tldeceJvMGxFU-dJXPobwQ=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-921512-1173044217.jpeg.jpg" data-tags="pop" role="button">
+Katharine McPhee - Katharine McPhee (2007-01-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/7a058cc8-f297-4818-b182-db15f3c2655e/9390660710-500.jpg" data-tags="vocal, female, alternative, icelandic, iceland, tagged, lost, something, sounds, tag, thoughts, maybe, bananas, bats, variable, genre, shady, bent, filtered, bite, thing, get it, wednesday, grady, zap, partial, possible, perhaps, suggestions, specific, extremities, optional, shady grady, northern hemisphere, western hemisphere, non-verbal, you might, jib, i am tagging this artist, the fire of the mind agitates the atmosphere, testing 1-2-3, deek, kolob, if you could hie to kolob" role="button">
+Ólöf Arnalds - Við og við (2007-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
@@ -221,9 +224,6 @@ Sara Bareilles - Little Voice (2007-07-03)
 </li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/114af478-2f11-4832-8db2-f52b04ec90e1/6440753475-500.jpg" data-tags="french" role="button">
-Yelle - Pop Up (2007-09-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/210d9721-f4a0-4d42-b1ae-fe730247bc4e/9734655698-500.jpg" data-tags="pop, soul" role="button">
 Whitney Houston - The Ultimate Collection (2007-10-29)
@@ -242,6 +242,9 @@ Sia - Some People Have Real Problems (2008-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/c42db944-e7a3-4cc3-9a9f-89089962fe2e/836519986-500.jpg" data-tags="jazz, soul, lizz wright" role="button">
+Lizz Wright - The Orchard (2008-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/75844a1c-9bbc-4781-8186-c4756f09c7ae/27481442661-500.jpg" data-tags="pop, gabriella cilmi" role="button">
 Gabriella Cilmi - Lessons to Be Learned (2008-03-31)
@@ -267,6 +270,9 @@ Anjulie - Boom (2009-04-07)
 <li data-cover="http://coverartarchive.org/release/851dc621-7b40-32d7-8fa3-9cd10718cfb7/2029543954-500.jpg" data-tags="indie, alternative, 00s" role="button">
 Charlotte Gainsbourg - IRM (2009-12-03)
 </li>
+<li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
+Dum Dum Girls - I Will Be (2010-03-29)
+</li>
 <li data-cover="https://img.discogs.com/HkebpGdFZnYhGEobY3j3sWs8lE4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2336448-1277852804.jpeg.jpg" data-tags="pop, swedish" role="button">
 Amanda Jenssen - Happyland (2010-04-30)
 </li>
@@ -275,9 +281,6 @@ The Morning Of - The Way I Fell In (2010-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/a487484a-7cb9-481b-b2c3-eef160de32b7/25696440606-500.jpg" data-tags="female, 2010s, xl recordings, 2010 releases, alben, black background album covers, vintage album covers, collage album covers, fantasy album covers, moon album covers" role="button">
 Karen Elson - The Ghost Who Walks (2010-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d54cf8f-850e-44a0-a7c3-d9b145dad4d3/2425106739-500.jpg" data-tags="classical, vocal, female, experimental, usa, avant-garde, art rock, poetic, 10s, june, evocative, enchanting, essential, female singer songwriter, gammarec, robertitus global, seminal work, freepurp1e, rocky ram, radiomm, 22nd" role="button">
-Laurie Anderson - Homeland (2010-06-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female, lala, new school" role="button">
 Eliza Doolittle - Pack Up (2010-07-05)
@@ -293,9 +296,6 @@ Willow Smith - 21st Century Girl (2011-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2aa508e-dc3f-4213-8f61-2773536db7e4/23565453379-500.jpg" data-tags="female vocalists" role="button">
 Mélanie Laurent - En t'attendant (2011-05-02)
-</li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c10bdf4-5c7c-4d36-89e4-8e00d8c1d95b/12472896155-500.jpg" data-tags="indie, female, male, alternative, folk, singer-songwriter, fantastic, girls, day, pretty, recommended, game, sometimes, inspirational, vocalists, pleasant, afrique, visual, women, lost, what, leaf, woman, single, girl, pleasing, something, afterlife, babe, verbal, ladies, when, where, satisfaction, richard, myself, you, else, thoughts, bananas, darlings, somewhere, bats, true, variable, awareness, miscellaneous, every, tasty, proper, the, alt, rich, can, shady, planet, only, one, swag, lady" role="button">
 Fatoumata Diawara - Fatou (2011-09-19)
