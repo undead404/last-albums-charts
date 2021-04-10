@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:37:01.419Z
+date: 2021-04-10T04:24:01.406Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -80,6 +80,9 @@ David Guetta - Just A Little More Love (2002-06-10)
 </li>
 <li data-cover="https://img.discogs.com/tpyi9QDYj0tJQNUVlrImxE7K5eM=/fit-in/600x966/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16688886-1609264840-5102.jpeg.jpg" data-tags="trance" role="button">
 Paul Oakenfold - Bunkka (2002-06-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/dd42c289-9c0f-40c4-a168-36be8c5aeee8/15264621691-500.jpg" data-tags="downtempo, house, trip-hop, chilled electro" role="button">
+Röyksopp - Remind Me (2002-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/11b4dd78-3fc1-48b7-ab89-3f2fcccac8fd/4379929819-500.jpg" data-tags="electronic, house" role="button">
 Audio Bullys - Ego War (2003-06-02)
@@ -314,9 +317,6 @@ Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a189ac44-4ea2-43bd-823b-3cc0e403c520/7211189264-500.jpg" data-tags="house, alaska" role="button">
 Christian Löffler - Young Alaska (2014-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/4d5301ae-ffe9-4088-b2b1-37651ca776c8/7469915996-500.jpg" data-tags="disco, electronic, funk, house, indietronica, canadian, synthpop, alternative dance, electro funk, yacht rock, nu disco, electrofunk, albumsiown, vinyl collection, 2014 albums, yacht rock revival" role="button">
-Chromeo - White Women (2014-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bb53942-91a0-45ef-aa7c-834f5c47e6dd/8667458837-500.jpg" data-tags="electronic" role="button">
 Flight Facilities - Down To Earth (2014-10-24)

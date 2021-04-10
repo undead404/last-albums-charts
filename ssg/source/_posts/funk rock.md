@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:31:06.927Z
+date: 2021-04-10T04:08:12.585Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -117,11 +117,17 @@ Spin Doctors - HOMEBELLY GROOVE (1992-11-24)
 <li data-cover="https://img.discogs.com/ivb7lsw3Mjy5JjFlrh8_uNjL7og=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11169404-1549725553-1006.jpeg.jpg" data-tags="experimental, experimental rock, krautrock, psychedelic, 90s, bootleg, funk rock, avant-rock, improvised music, psych-rock" role="button">
 Can - Radio Waves (1993)
 </li>
+<li data-cover="http://coverartarchive.org/release/84e9071c-cac7-42f6-9043-4ee04d215eea/5609681827-500.jpg" data-tags="rock" role="button">
+311 - Music (1993-02-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
 Primus - Pork Soda (1993-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/06c8f48c-caa0-4282-b7fe-264c4b673085/2192549116-500.jpg" data-tags="rapcore, nu metal, funk rock" role="button">
 Papa Roach - Potatoes For Christmas (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/0f4fc8ee-2c54-4796-ae65-cd935c86c52f/4851188326-500.jpg" data-tags="funk metal, funk" role="button">
+Infectious Grooves - Groove Family Cyco (1994-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/365f2bc6-b56c-460c-9ce9-cde7bb27e46d/10858606127-500.jpg" data-tags="rock, blues, classic rock" role="button">
 Blues Traveler - Four (1994-09-13)
@@ -177,9 +183,6 @@ Incubus - S.C.I.E.N.C.E. (1997-09-09)
 <li data-cover="http://coverartarchive.org/release/7b3f8613-c204-4401-b16a-b503efd939d1/7081013392-500.jpg" data-tags="rock" role="button">
 Lenny Kravitz - 5 (1998-04-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/3f6f0e86-80e9-313c-b7e0-9dc08105937b/21426794057-500.jpg" data-tags="funk metal" role="button">
-Primus - Rhinoplasty (1998-06-22)
-</li>
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
 </li>
@@ -197,12 +200,6 @@ O'Funk'illo - O'Funk'Illo (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2ce7197-a25c-4679-86b7-0e938cf2aebd/27852527490-500.jpg" data-tags="rapcore" role="button">
 Thousand Foot Krutch - Set It Off (2000-11-14)
-</li>
-<li data-cover="https://img.discogs.com/wtKU2GmzCRyfiEXOt9y_DHITZgM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-314034-1239363048.jpeg.jpg" data-tags="indie, british, turin brakes, collection must" role="button">
-Turin Brakes - The Optimist LP (2001-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/a19191e4-50fc-3d5a-8544-d9ed0adf9cfe/4082270241-500.jpg" data-tags="hip-hop, rap" role="button">
-N*E*R*D - In Search Of... (2001-08-06)
 </li>
 <li data-cover="https://img.discogs.com/SXFc2MlxPqDEkUfPPSHdgn70Enw=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501070-1356643028-2297.jpeg.jpg" data-tags="alternative" role="button">
 Oysterhead - The Grand Pecking Order (2001-10)
@@ -308,6 +305,9 @@ Lao Che - Soundtrack (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5cb4f4b-5894-49b8-ba46-a609837a40c0/23944207830-500.jpg" data-tags="rock" role="button">
 Bruce Springsteen - High Hopes (2013)
+</li>
+<li data-cover="http://coverartarchive.org/release/a075ed01-a864-47de-8966-03a566f859a2/12812601109-500.jpg" data-tags="post-hardcore" role="button">
+letlive. - The Blackest Beautiful (2013-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/48bacd9b-9fa6-4256-a21a-7f84c8b32e4a/5588320748-500.jpg" data-tags="alternative rock, brazilian, nunca tem fim" role="button">
 O Rappa - Nunca Tem Fim (2013-08-15)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:40:01.424Z
+date: 2021-04-10T04:26:01.439Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -132,9 +132,6 @@ Primal Scream - Screamadelica (1991-09-23)
 <li data-cover="http://coverartarchive.org/release/24ce2ec1-7b23-32f8-a92c-c576e054159b/16049538493-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/6e62175b-6b79-4954-b506-18027249bc62/18753438952-500.jpg" data-tags="neo-psychedelia, psychedelic" role="button">
-The Brian Jonestown Massacre - Their Satanic Majesties' Second Request (1996-06-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
 Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
 </li>
@@ -231,6 +228,9 @@ Animal Collective - Merriweather Post Pavilion (2009-01-09)
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/9abf8864-0a0e-4b3b-b560-e950aa8ec9d9/12242454111-500.jpg" data-tags="indie, alternative rock, indie rock, british" role="button">
+Kasabian - West Ryder Pauper Lunatic Asylum (2009-06-03)
+</li>
 <li data-cover="https://img.discogs.com/7Q19HQREynIVkQxS6HzNd3gDI7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2735449-1405398601-5788.jpeg.jpg" data-tags="idm, folk, experimental, contemporary folk, abstract hip hop" role="button">
 Bibio - Ambivalence Avenue (2009-06-22)
 </li>
@@ -270,9 +270,6 @@ The Coral - Butterfly House (2010-07-12)
 <li data-cover="https://img.discogs.com/wLUsWMORrOXxUaAekYkwFc3_tu4=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6219468-1414012241-6652.jpeg.jpg" data-tags="indie, indie pop, psychedelic" role="button">
 of Montreal - False Priest (2010-09-13)
 </li>
-<li data-cover="https://img.discogs.com/mNxZIgAsUaaNsstp-hpfLpKq0rU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2541938-1289600193.jpeg.jpg" data-tags="hip-hop" role="button">
-Kid Cudi - Man on the Moon II: The Legend of Mr. Rager (2010-11-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">
 Radiohead - The King of Limbs (2011-02-18)
 </li>
@@ -296,6 +293,9 @@ Django Django - Django Django (2012-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
+</li>
+<li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">
+Frank Ocean - channel ORANGE (2012-07-10)
 </li>
 <li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
 Om - Advaitic Songs (2012-07-24)

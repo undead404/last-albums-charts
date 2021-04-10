@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:42:01.392Z
+date: 2021-04-10T03:55:01.411Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![P.O.D. - Satellite (2001-09-11)](http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg "P.O.D. - Satellite (2001-09-11)")
@@ -9,11 +9,11 @@ title: "rapcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/be3e00aa-368a-3f09-ac96-cd094e9a7151/3234514330-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Significant Other (1999-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg" data-tags="rock" role="button">Rage Against the Machine - The Battle of Los Angeles (1999-09)</li>
 <li data-cover="http://coverartarchive.org/release/98a07793-52b7-42d3-8801-2cfdca0663c3/11769582808-500.jpg" data-tags="nu metal" role="button">Papa Roach - Infest (2000-04-25)</li>
+<li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">Linkin Park - Hybrid Theory (2000-05-07)</li>
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/47c5557a-e1f8-45f3-ac2c-9636d1e55b8c/20102457939-500.jpg" data-tags="nu metal" role="button">P.O.D. - Satellite (2001-09-11)</li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">Linkin Park - Meteora (2003-03-24)</li>
 <li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">Limp Bizkit - Results May Vary (2003-05-28)</li>
-<li data-cover="http://coverartarchive.org/release/e15d287b-2688-3abe-9b24-b1cccf235467/8179828763-500.jpg" data-tags="rapcore" role="button">Hollywood Undead - Swan Songs (2008-09-02)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -41,6 +41,9 @@ P.O.D. - Snuff the Punk (1994-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4592d54c-c3d4-4128-81b3-9acc1377d35a/10430050533-500.jpg" data-tags="rapcore" role="button">
 Dog Eat Dog - All Boro Kings (1994-05-24)
+</li>
+<li data-cover="https://img.discogs.com/I5XVwwBubUKRhOn2vi1WUKid2zU=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374239-1486079021-3066.jpeg.jpg" data-tags="crossover" role="button">
+Clawfinger - Use Your Brain (1995-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff040c58-bc69-4fc6-a6b1-34da0d16dd0e/7231670487-500.jpg" data-tags="crossover, rapcore, nu metal, rap metal, litza" role="button">
 Kazik na Żywo - Porozumienie Ponad Podziałami (1995-09-24)
@@ -246,17 +249,14 @@ Saliva - Blood Stained Love Story (2007-01-03)
 <li data-cover="http://coverartarchive.org/release/b1b2a42d-bf7a-3675-bdd4-87bec88019de/10920904348-500.jpg" data-tags="industrial metal, rapcore" role="button">
 Clawfinger - Life Will Kill You (2007-07-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/94006a09-b053-4591-af5a-1b98c5223af2/2924087406-500.jpg" data-tags="rap" role="button">
-Tech N9ne - Killer (2008-07-01)
+<li data-cover="https://img.discogs.com/7eg3JKB0uiyCJBmK1Iow2nnWjZc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4061379-1353946167-4335.jpeg.jpg" data-tags="rock" role="button">
+H-Blockx - Open Letter To A Friend (2007-08-24)
 </li>
 <li data-cover="https://img.discogs.com/_C_mdbsSG1ja8F81cZJ3qMXDQlU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3316480-1325961296.jpeg.jpg" data-tags="punk rock" role="button">
 Zebrahead - Phoenix (2008-07-09)
 </li>
 <li data-cover="https://img.discogs.com/mkLY91OJiGwNvrwxERyq50J4Mz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1404325-1580767308-9603.png.jpg" data-tags="alternative rock, rapcore" role="button">
 One Day as a Lion - One Day as a Lion (2008-07-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15d287b-2688-3abe-9b24-b1cccf235467/8179828763-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - Swan Songs (2008-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/87e903e2-2800-47a0-a3a8-4fe8e5bc7331/5543745942-500.jpg" data-tags="hardcore" role="button">
 Deez Nuts - Stay True (2008-10-04)

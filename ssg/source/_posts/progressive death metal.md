@@ -1,5 +1,5 @@
 ---
-date: 2021-04-04T17:10:01.268Z
+date: 2021-04-10T04:40:01.433Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -33,7 +33,7 @@ Atheist - Unquestionable Presence (1991-08-30)
 <li data-cover="http://coverartarchive.org/release/c5ca70aa-d86b-4a0d-84fc-910ca6011881/4940989822-500.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Human (1991-10-22)
 </li>
-<li data-cover="https://img.discogs.com/-CYHDSmdGfkUXwMn4PAkiOJ2gzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777733-1584932974-5395.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
+<li data-cover="https://img.discogs.com/_WBMD258Vu8lOUil5yF1zBmivq8=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1754668-1615550753-3053.jpeg.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Individual Thought Patterns (1993-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a3dab5a-2d3b-4c07-aef6-d806d6ea920d/23415824129-500.jpg" data-tags="technical death metal, death metal" role="button">
@@ -42,7 +42,7 @@ Atheist - Elements (1993-08-30)
 <li data-cover="http://coverartarchive.org/release/a24fa7fe-60fe-44e0-9d2e-cd36f5188477/9660064135-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Pestilence - Spheres (1993-08-31)
 </li>
-<li data-cover="https://img.discogs.com/v9vPGaZNeinY7GV6aali6IVXQSI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1714253-1238695114.jpeg.jpg" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/tM9Y9ZW2m05DZVj_ZwipowXJKFU=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-655586-1143989097.jpeg.jpg" data-tags="progressive metal" role="button">
 Cynic - Focus (1993-09-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/bebae7f3-e3be-4cb0-b6c3-9a676b5335e1/1244081839-500.jpg" data-tags="progressive death metal" role="button">
@@ -72,7 +72,7 @@ Opeth - Morningrise (1996-06-24)
 <li data-cover="https://img.discogs.com/yUCs4GuhDFW5WX5X9UDisYQjl2E=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590184-1135687415.jpeg.jpg" data-tags="progressive death metal, progressive metal, death metal" role="button">
 Dan Swanö - Moontower (1998)
 </li>
-<li data-cover="https://img.discogs.com/_EXEd879PXcNdjYtdllk7zctlcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3755131-1468966762-1443.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/LjUpIiBmj8BKLqkVG0d8aTgslyM=/fit-in/307x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3533596-1334196145.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Gorguts - Obscura (1998)
 </li>
 <li data-cover="https://img.discogs.com/r0C4rXz3rBa3T3zLbZpJbi0NwyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1672581-1236025320.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
@@ -108,7 +108,7 @@ Opeth - Blackwater Park (2001-03-12)
 <li data-cover="http://coverartarchive.org/release/b14c7eeb-8aea-3355-b098-329379366fed/18251365994-500.jpg" data-tags="death metal, progressive metal, progressive death metal" role="button">
 Gojira - Terra Incognita (2001-03-19)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="progressive metal" role="button">
+<li data-cover="https://img.discogs.com/5xBkjs9_H7qcUcVCSFd9pfAbu7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654747-1285957481.jpeg.jpg" data-tags="progressive metal" role="button">
 Meshuggah - Nothing (2002-08-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive death metal, progressive metal" role="button">
@@ -183,7 +183,7 @@ Opeth - Watershed (2008-05-28)
 <li data-cover="http://coverartarchive.org/release/0db97e47-7fd3-4100-9163-be689a61fa55/1502509246-500.jpg" data-tags="melodic death metal" role="button">
 Scar Symmetry - Holographic Universe (2008-06-20)
 </li>
-<li data-cover="https://img.discogs.com/jkNvKnWA_KX4l9WqpIfEVv11oQ0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13139040-1548744606-8162.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
+<li data-cover="https://img.discogs.com/12ZNVOXsnmUtA0gPNE8YFpJbOhM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1611700-1307673007.jpeg.jpg" data-tags="technical death metal, death metal" role="button">
 Psycroptic - Ob(servant) (2008-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/5de17f35-cac4-3be0-9b45-cc4ecfe4757a/1603337705-500.jpg" data-tags="progressive death metal, progressive metal, death metal" role="button">
@@ -228,7 +228,7 @@ Between the Buried and Me - The Great Misdirect (2009-10-26)
 <li data-cover="http://coverartarchive.org/release/321ba2e7-9476-4573-84c8-e138bd8561d9/1078403771-500.jpg" data-tags="doom metal, death doom metal" role="button">
 Swallow the Sun - New Moon (2009-11-04)
 </li>
-<li data-cover="https://img.discogs.com/y8tdS-CsxGXSM0fExwrKW3Lme3E=/fit-in/600x826/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8854784-1470165164-6699.jpeg.jpg" data-tags="japanese, progressive metal, death metal, j-rock, visual kei, progressive death metal, experimental metal" role="button">
+<li data-cover="https://img.discogs.com/cphJ96s0yDGx89i7brUKgACacEI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059678-1188925726.jpeg.jpg" data-tags="japanese, progressive metal, death metal, j-rock, visual kei, progressive death metal, experimental metal" role="button">
 DIR EN GREY - 激しさと、この胸の中で絡み付いた灼熱の闇 (2009-12-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e1ce544-b97e-43e9-b225-7f6e7c3c31a9/10894091664-500.jpg" data-tags="death metal, brutal technical death metal, progressive death metal" role="button">

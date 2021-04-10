@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:43:01.650Z
+date: 2021-04-10T03:47:01.397Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -33,17 +33,14 @@ Queen - News Of The World (1977-10-28)
 <li data-cover="http://coverartarchive.org/release/96436fe6-745b-3e4c-bbb7-4fd38ae98da4/10252980735-500.jpg" data-tags="progressive rock, classic rock" role="button">
 The Alan Parsons Project - The Turn Of A Friendly Card (1980-11)
 </li>
+<li data-cover="https://img.discogs.com/kR8ak2Y6gJmX8bjyFMp7YY1UwUY=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9480169-1481315751-1211.jpeg.jpg" data-tags="progressive rock" role="button">
+The Alan Parsons Project - Eye In The Sky (1982-06)
+</li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/9856fe82-ee58-46f3-8dc6-1e146ae0989a/18870075471-500.jpg" data-tags="symphonic metal, progressive metal" role="button">
 X Japan - ART OF LIFE (1993-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
-Dead Can Dance - Into the Labyrinth (1993-09-13)
-</li>
-<li data-cover="https://img.discogs.com/aVYuTaYK98DSZWc_VPlisrjNk-c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-832189-1527491587-2668.jpeg.jpg" data-tags="rock, japanese, alternative rock, progressive rock, epic, post-punk, melodic, jpop, dream pop, japan, japanese rock, j, j-rock, j-pop, jrock, legends, japanese music, j-music, to explore, luna sea, pure beauty, loved albums, sugizo, ryuichi kawamura, inoran, legends of rock, in future, fxxing masterpiece, there is no tag for this masterpiece" role="button">
-Luna Sea - MOTHER (1994-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9bf29e42-a5c4-44fe-a3e0-29b11c2e8091/5877225471-500.jpg" data-tags="atmospheric black metal, epic black metal" role="button">
 Summoning - Minas Morgul (1995-10-16)
@@ -54,11 +51,11 @@ Weezer - Pinkerton (1996-08-24)
 <li data-cover="http://coverartarchive.org/release/524c5a17-1f08-4d05-8bb5-bed5735dd96e/8073215669-500.jpg" data-tags="indie rock" role="button">
 Built to Spill - Perfect From Now On (1997-01-28)
 </li>
-<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Book Of Secrets (1997-09-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/79a304b8-b5bc-4a61-82ac-6865cc67ee22/5453504019-500.jpg" data-tags="power metal" role="button">
 Blind Guardian - Nightfall in Middle-Earth (1998-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/228f0a8f-01a2-3d80-a04c-f19848360e0b/3732943726-500.jpg" data-tags="atmospheric black metal" role="button">
+Summoning - Stronghold (1999-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
@@ -74,9 +71,6 @@ E.S. Posthumus - Unearthed (2001-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f477086a-4bda-4855-8360-06752f1159f8/12525987749-500.jpg" data-tags="epic, 90s, brasil, live, brazilian rock, legiao urbana" role="button">
 Legião Urbana - Como é que se diz eu te amo (2001-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/16e3ac46-606a-445e-9a20-b7b8bf1a08ea/3206309884-500.jpg" data-tags="ethereal, gothic, faerie music" role="button">
-Emilie Autumn - Enchant (2003-02-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
@@ -108,11 +102,11 @@ MAE - The Everglow (2005-03-29)
 <li data-cover="http://coverartarchive.org/release/cb1ffc9e-4516-4cf0-9b93-f736c312222c/1550603027-500.jpg" data-tags="rock opera" role="button">
 The Protomen - The Protomen (2005-09-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/1ff69c39-fa91-4f79-ab99-82a92df23b79/15473309640-500.jpg" data-tags="hip-hop, alternative" role="button">
-Why? - Elephant Eyelash (2005-10-04)
-</li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/8cc658aa-5ded-44e9-8a24-4e50fa0425ae/18280581390-500.jpg" data-tags="post-hardcore" role="button">
+Thrice - Vheissu (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/65c64965-14bd-40d4-929a-23d8ee62a623/8183556387-500.jpg" data-tags="soundtrack" role="button">
 Harry Gregson-Williams - The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005-12-05)
@@ -156,11 +150,17 @@ Brand New - (Fork And Knife) (2007-10-23)
 <li data-cover="https://img.discogs.com/TIttQypuxRcxPI6DIC_3V-p1rpQ=/fit-in/600x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783763-1441055360-1612.jpeg.jpg" data-tags="live, alternative rock" role="button">
 Muse - HAARP (2008-03-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/cfccbde1-7a24-4f89-896f-7ab5b582d350/8845334918-500.jpg" data-tags="soundtrack, instrumental, epic, score, original motion picture soundtrack" role="button">
+Harry Gregson-Williams - The Chronicles Of Narnia: Prince Caspian (2008-05-13)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="epic, modern hardcore" role="button">
 The Carrier - No Love Can Save Me (2008-06-17)
 </li>
 <li data-cover="https://img.discogs.com/6zQIiybp3x-GtNPBoyKXQkrS52A=/fit-in/400x397/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1992892-1257282747.jpeg.jpg" data-tags="symphonic metal, power metal" role="button">
 Versailles - NOBLE (2008-07-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/d12fb85f-fe28-4070-81b2-5a7e16411889/12851739538-500.jpg" data-tags="alternative" role="button">
+Glasvegas - Glasvegas (2008-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">
 Snow Patrol - A Hundred Million Suns (2008-10-24)
@@ -174,11 +174,11 @@ As Cities Burn - Hell Or High Water (2009-03)
 <li data-cover="http://coverartarchive.org/release/90c6a554-9e10-4ecc-a758-f5b166532ee4/21730294720-500.jpg" data-tags="indie, indie rock, alternative, rock opera" role="button">
 The Decemberists - The Hazards of Love (2009-03-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/3bb79800-0644-4e8d-8274-0775a74de3ad/3302404966-500.jpg" data-tags="experimental" role="button">
-Dan Deacon - Bromst (2009-03-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/3d1a7c20-2a4e-3a46-9d5d-f56d6d62d40d/15284686655-500.jpg" data-tags="indie rock" role="button">
 Doves - Kingdom Of Rust (2009-04-03)
+</li>
+<li data-cover="https://img.discogs.com/ywTI1vRaRLVx_kdUTR8FfiuH7R4=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2846101-1303728167.jpeg.jpg" data-tags="hardcore" role="button">
+Your Demise - Ignorance Never Dies (2009-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e411ba3e-7a70-4336-9522-1d6c8cf0f044/3112274726-500.jpg" data-tags="post-metal, progressive metal, sludge" role="button">
 Isis - Wavering Radiant (2009-04-21)
@@ -207,8 +207,14 @@ The Big Pink - A Brief History of Love (2009-09-14)
 <li data-cover="http://coverartarchive.org/release/0f50ea53-37b4-31ef-aff2-e1d9b8763517/1236333909-500.jpg" data-tags="alternative rock" role="button">
 AFI - Crash Love (2009-09-23)
 </li>
+<li data-cover="https://img.discogs.com/AJR2mCOi8-YyOmaUR6VgzkKqryA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1967297-1431603480-2723.jpeg.jpg" data-tags="noise, electronic, drone" role="button">
+Fuck Buttons - Tarot Sport (2009-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/38d98a67-9fe0-3c1d-9b9a-6ba6475da30c/5572267812-500.jpg" data-tags="instrumental, epic, choral, new age, orchestral, uplifting, 10s, february, trailer music, 2nd" role="button">
 E.S. Posthumus - Makara (2010-02-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
+The White Stripes - Under Great White Northern Lights (2010-03-15)
 </li>
 <li data-cover="https://img.discogs.com/UOImzRtyth_QOHrx5B-rmRoqvy8=/fit-in/483x476/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2213328-1270206465.jpeg.jpg" data-tags="post-rock" role="button">
 Jónsi - Go (2010-04-02)
@@ -231,9 +237,6 @@ Avril Lavigne - Goodbye Lullaby (2011-03-02)
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
 </li>
-<li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
-Lady Gaga - Judas (2011-04-15)
-</li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">
 Lady Gaga - Born This Way (2011-05-20)
 </li>
@@ -255,14 +258,14 @@ Marina & the Diamonds - Electra Heart (2012-03)
 <li data-cover="http://coverartarchive.org/release/1f76db1d-4c84-48b1-b189-0d065ae3d79e/11644026853-500.jpg" data-tags="electronic, indie" role="button">
 Woodkid - Run Boy Run (2012-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
-Dead Can Dance - Anastasis (2012-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/cefbfa99-d262-4f3e-a98d-23fff5c0b316/25315519841-500.jpg" data-tags="epic, j-rock, oneokrock" role="button">
 ONE OK ROCK - The Beginning (2012-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c04b859-4ff9-4657-8d43-b5fd074c0a5a/2484063458-500.jpg" data-tags="trip-hop, epic, europop, incredible" role="button">
+Petra Marklund - Inferno (2012-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
@@ -287,9 +290,6 @@ Justin Timberlake - The 20/20 Experience - 2 of 2 (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1b10da9-c1df-4619-9c5c-da7599df5b56/6830297851-500.jpg" data-tags="electronic, experimental, neo-psychedelia" role="button">
 Darkside - Psychic (2013-09-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/90529fbf-9972-49a8-ac03-4319d55a5277/5388170358-500.jpg" data-tags="pop, soul" role="button">
-John Newman - Tribute (2013-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)

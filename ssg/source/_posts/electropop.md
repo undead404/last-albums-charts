@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:35:01.404Z
+date: 2021-04-10T04:16:06.889Z
 title: "electropop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - The Fame (2008-08-19)](http://coverartarchive.org/release/d1bcf9e5-a5e4-3f99-908c-610b2d0e33ed/2805620701-500.jpg "Lady Gaga - The Fame (2008-08-19)")
@@ -47,6 +47,9 @@ Paris Hilton - Paris (2006-08-14)
 </li>
 <li data-cover="https://img.discogs.com/ZwgbTRkhj-EdrNJaIbBQ4iHtp2E=/fit-in/473x430/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-777233-1157707554.jpeg.jpg" data-tags="electronic" role="button">
 Junior Boys - So This Is Goodbye (2006-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
+Metronomy - Nights Out (2007)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
@@ -147,9 +150,6 @@ Pixie Lott - Turn It Up (2009-09-11)
 <li data-cover="http://coverartarchive.org/release/04f101f9-ec94-44e5-ada0-ad008e4ba143/11915919334-500.jpg" data-tags="lady gaga" role="button">
 Lady Gaga - Bad Romance (2009-10-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/86da059c-2af3-43f4-897e-d3f7fa3f5a75/2333307730-500.jpg" data-tags="pop" role="button">
-Adam Lambert - For Your Entertainment (2009-11-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/49eefb52-d716-450c-a60d-115f1c4f4240/1472462701-500.jpg" data-tags="electronic, electronica, electropop, synthpop" role="button">
 Miami Horror - Sometimes (2009-11-20)
 </li>
@@ -162,9 +162,6 @@ Ke$ha - Animal (2010-01-01)
 <li data-cover="https://img.discogs.com/BkGqM6GnrMT2cJ6M4VWH74p5ZAM=/fit-in/462x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2135595-1266229554.jpeg.jpg" data-tags="indie, electronic, electropop" role="button">
 Hot Chip - One Life Stand (2010-01-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/4fce3a8f-2e89-4f70-9852-e0e960faff8e/1533922680-500.jpg" data-tags="synthpop, pop, indie pop" role="button">
-Ellie Goulding - Bright Lights (2010-03-01)
-</li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)
 </li>
@@ -173,6 +170,9 @@ Gorillaz - Plastic Beach (2010-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/acd8ae66-c048-47a4-925d-16d2492ff315/2337382446-500.jpg" data-tags="electropop, electronic, synthpop" role="button">
 Goldfrapp - Head First (2010-03-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/e3be7f1d-883f-4296-a3fa-a8b07cb7d4ea/3942398482-500.jpg" data-tags="electronic" role="button">
+LCD Soundsystem - This Is Happening (2010-05-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5090ec62-8be8-3aca-807c-a3b4398d4e45/12033721388-500.jpg" data-tags="electropop" role="button">
 Sky Ferreira - 17 (2010-05-18)
@@ -192,8 +192,8 @@ Rihanna - Loud (2010-08-18)
 <li data-cover="http://coverartarchive.org/release/cffd67f7-bf16-4579-b93b-3b7922f4994d/24303225544-500.jpg" data-tags="electropop, pop" role="button">
 Sky Ferreira - One (2010-08-23)
 </li>
-<li data-cover="https://img.discogs.com/uzzLYH2sg4bW8C-a42e0sHf5WMc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2440274-1284186706.jpeg.jpg" data-tags="indie pop" role="button">
-The Naked and Famous - Passive Me, Aggressive You (2010-09-06)
+<li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
+Wir sind Helden - Bring mich nach Hause (2010-08-27)
 </li>
 <li data-cover="https://img.discogs.com/V-w5rL3u3C2DbLuqGxZy-IDxZ3Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2559604-1341268022-7993.jpeg.jpg" data-tags="electropop, indie pop, synthpop, 2010 albums, one eye sign" role="button">
 Tove Styrke - Tove Styrke (2010-11-17)
@@ -209,9 +209,6 @@ Cut Copy - Zonoscope (2011-02-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">
 Jessie J - Who You Are (2011-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/83c54468-50b9-47a0-856d-c7b93a1cae23/6618757710-500.jpg" data-tags="pop, dark pop" role="button">
-Natalia Kills - Perfectionist (2011-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/b0aebdc2-49b9-4145-a646-3eb3ff18dfac/15893124932-500.jpg" data-tags="electropop" role="button">
 Holy Ghost! - Holy Ghost! (2011-04-04)
@@ -261,6 +258,12 @@ Ellie Goulding - Halcyon (2012-10-05)
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/7ceb402e-47e0-401a-b94c-076370cad208/2514581263-500.jpg" data-tags="electropop, indie pop" role="button">
+Sky Ferreira - Ghost (2012-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c2adc084-6cb3-4618-a72c-0328a4839bc1/6527039086-500.jpg" data-tags="electropop, synthpop, songs that will make you dance" role="button">
+Icona Pop - Iconic EP (2012-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/4e32dd65-ee0b-47d0-a217-93752224f93f/11608487637-500.jpg" data-tags="electronic, dance, house" role="button">
 Calvin Harris - 18 Months (2012-10-26)
 </li>
@@ -299,9 +302,6 @@ Rita Ora - I Will Never Let You Down (2014-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/77fe735b-a0ce-4f69-8825-866795db205a/10503497516-500.jpg" data-tags="electronic, electropop, indie, alternative, experimental, indie pop, folktronica, 2010s" role="button">
 Sylvan Esso - Sylvan Esso (2014-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3144fef-b082-4de6-a539-4c4bde277b76/8747991818-500.jpg" data-tags="electronic, electropop, pop, british, indie pop, indietronica, alternative pop, 2014 albums" role="button">
-Kyla La Grange - Cut Your Teeth (2014-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:07:01.433Z
+date: 2021-04-10T04:21:01.426Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -13,7 +13,7 @@ title: "hip-hop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">Eminem - Recovery (2010-06-18)</li>
 <li data-cover="http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg" data-tags="hip-hop" role="button">Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)</li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">Kendrick Lamar - Section.80 (2011-07-02)</li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
+<li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">Tyler, the Creator - Wolf (2013-04-01)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -53,9 +53,6 @@ The Notorious B.I.G. - Ready to Die (1994-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
 Method Man - Tical (1994-11-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
-Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
@@ -276,6 +273,9 @@ Jay-Z & Kanye West - Watch the Throne (2011-08-08)
 <li data-cover="http://coverartarchive.org/release/657bb677-62f8-4b0a-a562-cc40ab943970/1921800445-500.jpg" data-tags="hip-hop, tumblr, aarmando, flor rider, flo rida - good feeling" role="button">
 Flo Rida - Good Feeling (2011-08-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/4c8b518b-3fd9-492f-b77d-00597014dce7/3316397776-500.jpg" data-tags="rap" role="button">
+J. Cole - Cole World: The Sideline Story (2011-09-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
 Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
 </li>
@@ -284,9 +284,6 @@ Drake - Take Care (2011-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce2b9bf5-b2c4-49ca-92a9-6893a5693071/22574757218-500.jpg" data-tags="hip-hop" role="button">
 Plan B - Ill Manors (2012-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
-Macklemore & Ryan Lewis - The Heist (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
@@ -299,6 +296,9 @@ Drake - Nothing Was the Same (2013-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/28b3139a-1905-4978-9004-9a170b1b64c6/8854274705-500.jpg" data-tags="hip-hop, rap" role="button">
 Tyler, the Creator - Wolf (2013-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/8caabc0f-8c2a-4060-893f-f71bc93cc073/4125216283-500.jpg" data-tags="hip hop" role="button">
+Chance the Rapper - Acid Rap (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/cce11ff7-7a5b-4a0b-b415-fa55e2cfca00/5976610444-500.jpg" data-tags="hip-hop" role="button">
 Earl Sweatshirt - Doris (2013-08-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:33:01.403Z
+date: 2021-04-10T04:14:01.437Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -144,9 +144,6 @@ The xx - xx (2009-08-14)
 <li data-cover="https://img.discogs.com/-jTtx8i_9nYOcmOknXjVaFcnjpo=/fit-in/560x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1906121-1251551154.jpeg.jpg" data-tags="chillwave, electronica" role="button">
 Memory Tapes - Seek Magic (2009-08-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
-Phantogram - Eyelid Movies (2009-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">
 Washed Out - Life of Leisure (2009-09-15)
 </li>
@@ -164,9 +161,6 @@ Wild Nothing - Gemini (2010-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b18bdeb-8382-4b8f-94a3-b43e3e7ec6a4/5815015266-500.jpg" data-tags="psychedelic, psychedelic rock" role="button">
 Tame Impala - Innerspeaker (2010-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/6b8bd19d-52ca-4b22-b2ce-13e8a20b4926/18238440205-500.jpg" data-tags="dream pop" role="button">
-Lower Dens - Twin-Hand Movement (2010-07-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/93922dd3-28a6-329a-ab40-a8c63535f743/3717426092-500.jpg" data-tags="indie, dream pop, 4ad" role="button">
 Blonde Redhead - Penny Sparkle (2010-09-10)
@@ -237,6 +231,9 @@ Beach House - Bloom (2012-05-14)
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">
 Purity Ring - Shrines (2012-07-23)
 </li>
+<li data-cover="https://img.discogs.com/by3qMco9qvkzU1JEQRDAt25HBZw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3764859-1343492261-4233.jpeg.jpg" data-tags="lo-fi, dream pop, slowcore, underwater, self-released, the antlers, rivers and seas, comfycore" role="button">
+The Antlers - Undersea (2012-07-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/39deca84-8a11-41fa-af0f-31f09f3e87d1/14769259398-500.jpg" data-tags="dream pop" role="button">
 Melody's Echo Chamber - Melody's Echo Chamber (2012-08-14)
 </li>
@@ -281,6 +278,9 @@ Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/910f52ac-6f28-4ea3-9946-c10526357f18/24086155537-500.jpg" data-tags="electronic, indie, alternative, indie pop, indie rock, post-punk, minimal, dream pop, lush, minimal pop" role="button">
 The xx - Fiction (2013-07-12)
+</li>
+<li data-cover="https://img.discogs.com/WAqPrBPYPCgvkJyhJCOO_47EPR4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4806146-1376515091-8229.jpeg.jpg" data-tags="chillwave" role="button">
+Washed Out - Paracosm (2013-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/915f9487-03ba-49fb-84fe-1ff4cb5d5ece/5098039469-500.jpg" data-tags="indie pop" role="button">
 London Grammar - If You Wait (2013-09-06)

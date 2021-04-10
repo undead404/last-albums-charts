@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:56:07.037Z
+date: 2021-04-10T04:38:01.467Z
 title: "ambient: 100 albums you must listen to before you die"
 ---
 ![Sigur Rós - Takk... (2005-08-22)](http://coverartarchive.org/release/4e5c0257-cf0e-3ece-95e6-bf3dc4c18f2b/8227839938-500.jpg "Sigur Rós - Takk... (2005-08-22)")
@@ -66,14 +66,14 @@ Sigur Rós - Von (1997)
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">
 Smoke City - Flying Away (1997-06-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/771ae005-6f8b-4831-9350-c3a7fdcb2442/2324127707-500.jpg" data-tags="post-rock" role="button">
-Godspeed You! Black Emperor - F♯ A♯ ∞ (1997-08-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg" data-tags="electronic, chillout" role="button">
 Air - Moon Safari (1998-01-16)
 </li>
 <li data-cover="https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg" data-tags="ambient, idm, electronic" role="button">
 Boards of Canada - Music Has the Right to Children (1998-04-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/5cfd4082-fb5e-4629-b734-4d2a7b62542c/2572934147-500.jpg" data-tags="psychedelic" role="button">
+Shpongle - Are You Shpongled? (1998-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/447055bf-f2a4-3f4b-9124-2c7d61d845fc/11827288168-500.jpg" data-tags="electronic" role="button">
 Moby - Play (1999-05-17)
@@ -93,6 +93,9 @@ Bohren & der Club of Gore - Sunset Mission (2000-02-25)
 <li data-cover="http://coverartarchive.org/release/f2720fc5-b57f-4639-a6e8-a1e50dcfd51b/1616160456-500.jpg" data-tags="soundtrack" role="button">
 Air - The Virgin Suicides (2000-02-25)
 </li>
+<li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
+múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
 </li>
@@ -107,6 +110,9 @@ Broken Social Scene - Feel Good Lost (2001-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/667851cb-0f84-3fdd-8882-33902fa16aef/27398009848-500.jpg" data-tags="electronic" role="button">
 Air - 10 000 Hz Legend (2001-05-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/d3f9b159-8eeb-4820-a258-19cc1ebfc770/7629533443-500.jpg" data-tags="alternative, electronic, experimental" role="button">
+Radiohead - Amnesiac (2001-06-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/52866029-e8eb-4cc1-9393-a1e495274480/2262005119-500.jpg" data-tags="ambient" role="button">
 Jon Hopkins - Opalescent (2001-07-30)
@@ -155,9 +161,6 @@ Air - Talkie Walkie (2004-01-21)
 </li>
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/ea46398a-5501-45ec-a5f5-09a29d031f45/22058531098-500.jpg" data-tags="post-classical, contemporary classical, neoclassical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
-Max Richter - The Blue Notebooks (2004-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/a402de73-a281-31ea-bcac-e747ea9ca7cc/21363838332-500.jpg" data-tags="electronic, ambient" role="button">
 Orbital - Blue Album (2004-06-21)
@@ -213,9 +216,6 @@ Apparat - Walls (2007-05)
 <li data-cover="http://coverartarchive.org/release/91f242ac-7e10-372e-9a51-2deace4a2f04/9227664763-500.jpg" data-tags="ambient" role="button">
 Ulver - Shadows of the Sun (2007-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/7ed90c22-74e5-3a9b-a047-5f9bcbcb01bd/1485447652-500.jpg" data-tags="piano, contemporary classical, neoclassical, post-classical, ambient" role="button">
-Ólafur Arnalds - Eulogy for Evolution (2007-10-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/715d4a00-2ad5-4882-b1be-24853344315e/2606794745-500.jpg" data-tags="dubstep" role="button">
 Burial - Untrue (2007-11-05)
 </li>
@@ -252,11 +252,11 @@ Moby - Wait for Me (2009-06-26)
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">
 The xx - xx (2009-08-14)
 </li>
+<li data-cover="https://img.discogs.com/LEJve4m3OcXk_LcF9hci2bAWWg8=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1902149-1390078842-8355.jpeg.jpg" data-tags="female vocalists" role="button">
+Imogen Heap - Ellipse (2009-08-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/a4eb1981-c7e0-4d14-8df8-94e3839e99e7/7590090650-500.jpg" data-tags="ambient, psychedelic" role="button">
 Shpongle - Ineffable Mysteries From Shpongleland (2009-11-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/40180f9e-b9c1-4bc4-958c-1499bfa3d3ea/19110230455-500.jpg" data-tags="modern classical, contemporary classical, neoclassical, post-classical, neo-classical, piano" role="button">
-Nils Frahm - Wintermusik (2009-12-07)
 </li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)

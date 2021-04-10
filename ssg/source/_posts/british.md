@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T00:09:01.434Z
+date: 2021-04-10T04:27:01.422Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
@@ -162,6 +162,9 @@ The Feeling - Twelve Stops And Home (2006-06-02)
 <li data-cover="http://coverartarchive.org/release/2990c760-3bb2-38c2-bcf5-fc67df98280f/6784302382-500.jpg" data-tags="britpop, indie" role="button">
 Keane - Under the Iron Sea (2006-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/f1458768-777e-4d46-96eb-2d0e6d8cbaa0/13574722523-500.jpg" data-tags="alternative rock" role="button">
+Muse - Black Holes & Revelations (2006-06-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/aefcf53b-5980-463b-b03d-a6c8da6a9432/2432254769-500.jpg" data-tags="alternative rock, rock" role="button">
 Muse - Black Holes and Revelations (2006-06-28)
 </li>
@@ -314,9 +317,6 @@ The Kooks - Listen (2014-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/b3144fef-b082-4de6-a539-4c4bde277b76/8747991818-500.jpg" data-tags="electronic, electropop, pop, british, indie pop, indietronica, alternative pop, 2014 albums" role="button">
-Kyla La Grange - Cut Your Teeth (2014-06-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f88b648-658c-4419-9d15-138c9d6d40c1/7480709015-500.jpg" data-tags="electronic, indie, 2010s" role="button">
 alt-J - This Is All Yours (2014-09-18)

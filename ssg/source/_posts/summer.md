@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:34:01.457Z
+date: 2021-04-10T04:31:06.963Z
 title: "summer: 100 albums you must listen to before you die"
 ---
 ![Odesza - In Return (2014-09-08)](http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg "Odesza - In Return (2014-09-08)")
@@ -21,14 +21,8 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/4831d4b1-ef4c-3140-b7b3-b629bd4b0eed/26221497654-500.jpg" data-tags="70s" role="button">
-The Beach Boys - Sunflower (1970-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/e7e5705e-bc05-4f13-8db9-adce89334ea8/6453906359-500.jpg" data-tags="summer, donna summer" role="button">
 Donna Summer - On the Radio: Greatest Hits Volumes I & II (1979-10-15)
-</li>
-<li data-cover="https://img.discogs.com/bKgnmfyYE6CyP1H_n2tnzLPPrBU=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5950052-1407162583-5162.jpeg.jpg" data-tags="80s, pop" role="button">
-XTC - Skylarking (1986-10-27)
 </li>
 <li data-cover="https://img.discogs.com/NHmQQFhssYzExKDPuY3HSkEHbF4=/fit-in/468x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-105549-1414958720-6607.jpeg.jpg" data-tags="rap" role="button">
 Kurtis Blow - The Best Of Kurtis Blow (1994-06-07)
@@ -42,8 +36,17 @@ Ben Folds Five - Ben Folds Five (1995-07-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, indie, alternative, blues, summer, modern blues, mile high music festival 2009, leapsandbounds cdcollection, g love, leapsandalbums, g l s sauce" role="button">
 G. Love & Special Sauce - Yeah, it's That Easy (1997)
 </li>
+<li data-cover="https://img.discogs.com/42yY8-728mQ_HeoZtb58netsqT8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-127733-1369690762-6030.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, downtempo" role="button">
+Mr. Scruff - Mrs Cruff (1997-05-09)
+</li>
+<li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
+Sonic Youth - A Thousand Leaves (1998-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/43a4e614-562d-4fd6-8693-df11aa8c06bc/15905929940-500.jpg" data-tags="rock, alternative rock, summer" role="button">
 Sugar Ray - 14:59 (1999-01-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/ce798ecf-4694-48a8-869e-b852d283cd8a/21926102762-500.jpg" data-tags="funk, summer" role="button">
+Galactic - Late for the Future (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/364fbbe8-94f4-4441-87ed-8e54ca2515ba/14134702700-500.jpg" data-tags="electronic" role="button">
 The Avalanches - Since I Left You (2000-11-27)
@@ -77,9 +80,6 @@ Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0410ba6d-4c31-42de-8209-809006026825/25732150659-500.jpg" data-tags="disco, pop, soul, dance, summer, rnb, donna summer, donna, withdrjazzmrfunkmusicradio" role="button">
 Donna Summer - The Journey: The Very Best of Donna Summer (2003-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
-The John Butler Trio - Sunrise Over Sea (2004-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
 Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
@@ -180,6 +180,9 @@ Noah and the Whale - Peaceful, The World Lays Me Down (2008-08-11)
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
+Jazmine Sullivan - Fearless (2008-09-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
 Little Joy - Little Joy (2008-11-03)
 </li>
@@ -191,9 +194,6 @@ Gary Go - Gary Go (2009-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer" role="button">
 jj - jj n° 2 (2009-06-01)
-</li>
-<li data-cover="https://img.discogs.com/NrpppybMJKYr7UOpnfNhptBJXT8=/fit-in/289x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2340927-1278170818.jpeg.jpg" data-tags="indie rock, albums i can listen to a million times over without ever having the urge to skip a song" role="button">
-The Sounds - Crossing the Rubicon (2009-06-02)
 </li>
 <li data-cover="https://img.discogs.com/JJBgmPf-9tPrewwtG1ul6RU_TgI=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1876303-1472076147-4763.jpeg.jpg" data-tags="summer, dfa" role="button">
 Yacht - See Mystery Lights (2009-08-04)
@@ -216,6 +216,9 @@ Grouplove - Grouplove (2010)
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
 </li>
+<li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
+Dum Dum Girls - I Will Be (2010-03-29)
+</li>
 <li data-cover="https://img.discogs.com/G8CJXSrFx_vyi-x53xBSAgIxtpo=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2357339-1305964061.jpeg.jpg" data-tags="indie rock" role="button">
 Minus the Bear - Omni (2010-05-04)
 </li>
@@ -225,17 +228,14 @@ Blackbird Blackbird - Summer Heart (2010-07-02)
 <li data-cover="https://img.discogs.com/Z81861kdO2-pgNGcaWdWskd3nrs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2628980-1296139890.jpeg.jpg" data-tags="lo-fi" role="button">
 Wavves - King Of The Beach (2010-08-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad3feb4a-d061-4666-b543-666d503cdb67/4022993062-500.jpg" data-tags="electronic, synthpop" role="button">
-Miami Horror - Illumination (2010-08-20)
+<li data-cover="http://coverartarchive.org/release/ec909364-b428-422c-85bc-fd562bb3a194/22034568945-500.jpg" data-tags="electronic" role="button">
+Gypsy & The Cat - Gilgamesh (2010-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/734bc2bf-fec5-4133-8fc3-7f88a5c03e69/24038436103-500.jpg" data-tags="dubstep" role="button">
 Rusko - Everyday (2011-03-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/b39a631c-435d-482b-b4a5-3d4489574c97/7092627480-500.jpg" data-tags="dream pop" role="button">
 Craft Spells - Idle Labor (2011-03-22)
-</li>
-<li data-cover="https://img.discogs.com/l3m8B_j720-FJioF9UkXaf1FwnA=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2685689-1296510899.jpeg.jpg" data-tags="folk, indie" role="button">
-Fleet Foxes - Helplessness Blues (2011-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/2412d797-4511-417c-9608-c3b0e88bcaf4/15993113659-500.jpg" data-tags="summer, alternative dance" role="button">
 Friendly Fires - Pala (2011-05-16)
@@ -257,9 +257,6 @@ Last Dinosaurs - In A Million Years (2012-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cb682fd-5155-478f-9106-faadcab76731/1316089663-500.jpg" data-tags="shoegaze, dream pop" role="button">
 DIIV - Oshin (2012-01-30)
-</li>
-<li data-cover="https://img.discogs.com/tE5bWqemCMhdoP5NuzcHKOTgc4E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500269-1332885357.jpeg.jpg" data-tags="funk, atmospheric, late night, summer, afrobeat, freewheeling, earthy, 10s, summery, nocturnal, international, afro-beat, pulsing, brash, hanging out, night driving, kinetic, collabs, brassy, small gathering, honest jons records, african traditions, self-titled album" role="button">
-Rocket Juice & The Moon - Rocket Juice & the Moon (2012-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2512426-89d9-45a5-98e0-90f7ad468d0d/7978546038-500.jpg" data-tags="indie rock" role="button">
 The Shins - Port of Morrow (2012-03-15)
@@ -314,6 +311,9 @@ Future Islands - Singles (2014-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/c15ae8e9-1369-41c7-b57a-ef34ca61c22b/7143771102-500.jpg" data-tags="indie pop, baroque pop" role="button">
 Kishi Bashi - Lighght (2014-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/9fff52f3-67b8-46bf-93a6-ad43e285601d/8368597159-500.jpg" data-tags="rock, power pop" role="button">
+Weezer - Everything Will Be Alright in the End (2014-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/352ed422-6ff3-45e4-ad0b-60d7111ca67a/8241101268-500.jpg" data-tags="electronic, electronica, indie electronic, driving, energetic, summer, confident, hypnotic, light, summery, slick, stylish, lively, day driving, boisterous, hanging out, 1 raz" role="button">
 Odesza - In Return (2014-09-08)

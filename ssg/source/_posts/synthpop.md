@@ -1,14 +1,14 @@
 ---
-date: 2021-04-10T01:20:01.435Z
+date: 2021-04-10T03:56:12.582Z
 title: "synthpop: 100 albums you must listen to before you die"
 ---
 ![Hurts - Happiness (2010-08-27)](http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg "Hurts - Happiness (2010-08-27)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">MGMT - Time To Pretend (2007-12-25)</li>
+<li data-cover="https://img.discogs.com/hAsdCP8W7PCsQ9jc1hfhyJaPzNo=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1728357-1239562265.jpeg.jpg" data-tags="alternative, rock, indie rock" role="button">Yeah Yeah Yeahs - It's Blitz! (2009-03-08)</li>
 <li data-cover="http://coverartarchive.org/release/f1fc4c16-65a8-4c3e-a249-23ef46c41918/5300813420-500.jpg" data-tags="electronic" role="button">Empire of the Sun - Walking on a Dream (2009-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">Passion Pit - Manners (2009-05-19)</li>
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">Editors - In This Light and on This Evening (2009-09-10)</li>
-<li data-cover="http://coverartarchive.org/release/4fce3a8f-2e89-4f70-9852-e0e960faff8e/1533922680-500.jpg" data-tags="synthpop, pop, indie pop" role="button">Ellie Goulding - Bright Lights (2010-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/8b3e1cc4-1f0e-47fd-baf2-6d98e7c80a56/4274036552-500.jpg" data-tags="synthpop" role="button">Hurts - Happiness (2010-08-27)</li>
 <li data-cover="http://coverartarchive.org/release/0b87ebcf-216b-4255-9c19-93c12861f173/1900040046-500.jpg" data-tags="electronic, dream pop, shoegaze" role="button">M83 - Hurry Up, We're Dreaming (2011-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">Grimes - Visions (2012-02-20)</li>
@@ -56,6 +56,9 @@ Nine Inch Nails - Pretty Hate Machine (1989-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/96a4eade-ceda-396f-8bfb-424a7897c487/8261864473-500.jpg" data-tags="pet shop boys" role="button">
 Pet Shop Boys - Discography: The Complete Singles Collection (1991-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
+New Order - Republic (1993-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/983ae253-215e-4f6c-8411-fa7ddcec2d94/19120789325-500.jpg" data-tags="80s, synthpop, electronic, new wave" role="button">
 New Order - (the best of) New Order (1994-11-21)
@@ -146,9 +149,6 @@ Miami Horror - Sometimes (2009-11-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/4fce3a8f-2e89-4f70-9852-e0e960faff8e/1533922680-500.jpg" data-tags="synthpop, pop, indie pop" role="button">
-Ellie Goulding - Bright Lights (2010-03-01)
 </li>
 <li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
 Ellie Goulding - Lights (2010-03-01)
@@ -303,8 +303,8 @@ Future Islands - Singles (2014-03-24)
 <li data-cover="http://coverartarchive.org/release/1d2479b8-43af-41b1-a1ed-bb3fca2dfcaa/7789535178-500.jpg" data-tags="pop, british, pop rock, synthpop, groovy, boom clap" role="button">
 Charli XCX - Boom Clap (2014-04-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/4d5301ae-ffe9-4088-b2b1-37651ca776c8/7469915996-500.jpg" data-tags="disco, electronic, funk, house, indietronica, canadian, synthpop, alternative dance, electro funk, yacht rock, nu disco, electrofunk, albumsiown, vinyl collection, 2014 albums, yacht rock revival" role="button">
-Chromeo - White Women (2014-05-12)
+<li data-cover="http://coverartarchive.org/release/25196cfe-3bb9-47ea-a70e-cf227c6cf17f/27544805167-500.jpg" data-tags="electronica" role="button">
+Glass Animals - ZABA (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/6540f0f1-6ee7-4bc7-808a-0b38398b9f64/7842080226-500.jpg" data-tags="synthpop" role="button">
 La Roux - Trouble in Paradise (2014-07-07)

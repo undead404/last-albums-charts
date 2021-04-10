@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:55:06.974Z
+date: 2021-04-10T04:36:01.392Z
 title: "queen: 100 albums you must listen to before you die"
 ---
 ![Queen - Greatest Hits (1981-11-03)](http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg "Queen - Greatest Hits (1981-11-03)")
@@ -47,6 +47,9 @@ Queen - Jazz (1978-11-10)
 </li>
 <li data-cover="https://img.discogs.com/qZdIcpnqJB6tH2n0hIe-IOMakDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635916-1302731463.jpeg.jpg" data-tags="live, hard rock, classic rock" role="button">
 Queen - Live Killers (1979-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/3763af37-0dea-41d2-a54e-1ce6ffde9a5e/9588013275-500.jpg" data-tags="queen" role="button">
+Queen - Merry Christmas (1980)
 </li>
 <li data-cover="https://img.discogs.com/vC_Ab8YbYPrUPisG3AaW6-e3BG4=/fit-in/534x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2236962-1431722480-6285.jpeg.jpg" data-tags="rock, classic rock, 80s" role="button">
 Queen - The Game (1980-06-24)
@@ -96,9 +99,6 @@ Queen - The Hits From Queen Songbook (1989-11-27)
 <li data-cover="http://coverartarchive.org/release/fe89bda7-4736-4ff9-8a71-8f441b8168f6/9439997044-500.jpg" data-tags="rock, classic rock, hard rock, 80s" role="button">
 Queen - The Miracle (1989-11-27)
 </li>
-<li data-cover="https://img.discogs.com/qZdIcpnqJB6tH2n0hIe-IOMakDw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635916-1302731463.jpeg.jpg" data-tags="classic rock" role="button">
-Queen - At The BBC (1989-12-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/f381d37f-4869-4f49-bbe6-cd843a4b502c/5909483394-500.jpg" data-tags="rock" role="button">
 Queen - At The Beeb (1989-12-04)
 </li>
@@ -135,6 +135,9 @@ Freddie Mercury - The Freddie Mercury Album (1992-11-16)
 <li data-cover="https://img.discogs.com/ad_GgGa4b3sXjPOfE5JiB8TjMK4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-530698-1553812073-1058.jpeg.jpg" data-tags="freddie mercury" role="button">
 Freddie Mercury - The Great Pretender (1992-11-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="queen" role="button">
+Queen - Freddie Mercury Tribute Concert (1992-11-23)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, rock, queen, 90s, oldies, male vocalists, close harmony" role="button">
 Freddie Mercury - Remixes (1993)
 </li>
@@ -150,9 +153,6 @@ Brian May - Live at the Brixton Academy (1994-02-07)
 <li data-cover="https://img.discogs.com/83K6qLZmFY3hwjTbcLSeqKVeSlk=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5810061-1403289995-5259.jpeg.jpg" data-tags="roger taylor, british" role="button">
 Roger Taylor - Happiness? (1994-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/0377c76a-25c1-4531-a0de-8103cdea35bc/10988872788-500.jpg" data-tags="rock, alternative" role="button">
-Veruca Salt - American Thighs (1994-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/e4e98d02-3056-4cea-904f-8f0d554d4b29/7070758222-500.jpg" data-tags="queen, glam rock, in nuce" role="button">
 Queen - In Nuce (1995)
 </li>
@@ -164,6 +164,9 @@ Mahalia Jackson - The Best Of Mahalia Jackson (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/3762407e-5460-4f5e-a4ea-1c2ae1a879c7/4045338413-500.jpg" data-tags="rock" role="button">
 Queen - Made In Heaven (1995-10-24)
+</li>
+<li data-cover="https://img.discogs.com/ZX80obO60gZ-gbnAENW__DU4-6Q=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1213319-1526362328-8644.jpeg.jpg" data-tags="queen" role="button">
+Queen - Royal Rarities (1996)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="britpop" role="button">
 The Lightning Seeds - Dizzy Heights (1996-11-11)
@@ -234,8 +237,11 @@ Niyaz - Niyaz (2005-04-19)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, queen" role="button">
 Queen + Paul Rodgers - Return Of The Champions (2005-09-13)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="chris brown, dean martin, kenny g, stan getz, mana, marc anthony" role="button">
-Buzz Carlton - Just This Side of the Blues (2006-07-11)
+<li data-cover="https://img.discogs.com/5zqr9aRw600XO2N3QY7MemYSsZk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-750246-1154984610.jpeg.jpg" data-tags="classic rock, indie, jazz, pop, rock, soul, classic, 80s, british, alternative, alternative rock, indie rock, post-rock, hard rock, singer-songwriter, progressive rock, dance, queen, piano, album rock, new wave, soft rock, arena rock, art rock, progressive, old school, garage rock, glam rock, rock and roll, classics, music, rock-pop, good music, electronic rock, ballade, rock poet, old good rock, instrumentall, pop rok" role="button">
+Askura Alexander Shkuratov - 1st English in USSR (2006)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f7aa811-cffe-4743-877d-447b1cd4bc0c/8855058515-500.jpg" data-tags="japanese, koda kumi" role="button">
+倖田來未 - BEST ～BOUNCE & LOVERS～ (2007-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/183922a5-a5fc-4b7e-b909-82231d3bd9e5/7751021680-500.jpg" data-tags="rock, live" role="button">
 Queen - Rock Montreal (2007-10-26)
@@ -246,17 +252,11 @@ Poets of the Fall - Revolution Roulette (2008-03-26)
 <li data-cover="https://img.discogs.com/hkhuuoh3xz97gk70ut0cMIsN33M=/fit-in/346x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2820324-1302514233.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Queen + Paul Rodgers - The Cosmos Rocks (2008-09-12)
 </li>
-<li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
-Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="queen" role="button">
 Queen + Paul Rodgers - Live In Ukraine (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a9a37e4-bda6-4ed9-bbba-c0cf45b3e61c/8854826852-500.jpg" data-tags="j-pop" role="button">
 倖田來未 - TRICK (2009-01-28)
-</li>
-<li data-cover="https://img.discogs.com/7y1nNAmoDkMFbQ7Sn6EJL53Ytn0=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2071053-1455948684-2745.jpeg.jpg" data-tags="pop, female vocalists" role="button">
-Basia - It's That Girl Again (2009-03-11)
 </li>
 <li data-cover="https://img.discogs.com/APnoeayZSQCVD8Cczq7lh4WyUUM=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574512-1234360606.jpeg.jpg" data-tags="rock" role="button">
 Queen - Absolute Greatest (2009-11-16)

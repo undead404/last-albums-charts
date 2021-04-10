@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:10:01.480Z
+date: 2021-04-10T04:05:01.438Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![Sublime - Sublime (1995)](https://img.discogs.com/Ufmdj-To-YcdwiTxBKk5MpsHWds=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-644781-1556908119-5291.jpeg.jpg "Sublime - Sublime (1995)")
@@ -168,9 +168,6 @@ Dropkick Murphys - Sing Loud, Sing Proud! (2001-01-23)
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/fe9a3b37-c75b-3f5b-b286-8b549ed9986e/4401418274-500.jpg" data-tags="ska" role="button">
-Bandits of the Acoustic Revolution - A Call To Arms (2001-12-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a07f1b1-5772-4a82-8f5c-5d4ac9532022/16120195921-500.jpg" data-tags="ska" role="button">
 Reel Big Fish - Favorite Noise (2002-03-04)
 </li>
@@ -290,6 +287,9 @@ Lily Allen - Alright, Still (2006-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/7742c1af-1d89-4d49-a711-fea5544a7573/3331817147-500.jpg" data-tags="ska" role="button">
 RX Bandits - ...And the Battle Begun (2006-08-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/7d33c9f7-9938-44af-a4ed-60cb0f25fa91/4809458267-500.jpg" data-tags="ska" role="button">
+Talco - Combat Circus (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/f455779f-dec7-48c8-af09-f6714daf4c1f/23387977674-500.jpg" data-tags="ska" role="button">
 Mad Caddies - Keep It Going (2007-05-01)

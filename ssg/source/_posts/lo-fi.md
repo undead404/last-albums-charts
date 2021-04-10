@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:50:01.411Z
+date: 2021-04-10T04:19:01.419Z
 title: "lo-fi: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/2c89d898-e5f2-4685-a6b3-9431e69d149d/10672925625-500.jpg" data-tags="90s, indie rock" role="button">
 Liz Phair - Exile in Guyville (1993-06-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/a0515856-1670-3281-81d4-7a83527159dc/17216143881-500.jpg" data-tags="experimental" role="button">
+John Frusciante - Niandra LaDes And Usually Just A T-Shirt (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb7ae4d4-9e86-32a6-8afb-c9b98de6f1f9/3882539681-500.jpg" data-tags="indie rock" role="button">
 Pavement - Crooked Rain, Crooked Rain (1994-02-14)
@@ -116,9 +119,6 @@ Caribou - Andorra (2007-08-17)
 </li>
 <li data-cover="https://img.discogs.com/8iYEQcyrAHvZjq1FcLRGn2y7urc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1575143-1249316875.jpeg.jpg" data-tags="dream pop" role="button">
 Beach House - Devotion (2007-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/a1cdc0b6-8792-3b96-9cbe-0cd7f6508f46/25519399010-500.jpg" data-tags="folk, indie folk, subpop" role="button">
-Fleet Foxes - Sun Giant (2008-03-09)
 </li>
 <li data-cover="https://img.discogs.com/SqSZu0EYpoWkG5ZZ2WxtzUCPi_8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466403-1221855839.jpeg.jpg" data-tags="garage rock" role="button">
 The Kills - Midnight Boom (2008-03-10)

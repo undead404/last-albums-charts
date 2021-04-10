@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:51:01.428Z
+date: 2021-04-10T04:01:06.880Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -11,7 +11,7 @@ title: "covers: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a7ccb022-f437-4492-8eee-8f85d85cdb96/2098090328-500.jpg" data-tags="covers, cover" role="button">Tori Amos - Strange Little Girls (2001-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
-<li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">Placebo - Covers (2007-03-05)</li>
+<li data-cover="http://coverartarchive.org/release/a5dd8a38-8495-43b3-901d-4cb9ac63e571/17776221267-500.jpg" data-tags="covers, acoustic" role="button">Seu Jorge - The Life Aquatic Studio Sessions (2005-11-22)</li>
 <li data-cover="https://img.discogs.com/QO7zFM0tva2c9T7Mv2WKmzHED2g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-966497-1469987494-2664.jpeg.jpg" data-tags="covers" role="button">Patti Smith - Twelve (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">Cat Power - Jukebox (2008-01-18)</li>
 </ol>
@@ -33,8 +33,8 @@ Los Lobos - La Bamba (1987)
 <li data-cover="http://coverartarchive.org/release/aa258490-4e2e-4395-9da3-064e0c7c9490/24762396589-500.jpg" data-tags="new wave" role="button">
 Siouxsie and the Banshees - Through The Looking Glass (1987-03-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6604008-c088-3091-ae2e-a9a15e7cc327/21251538374-500.jpg" data-tags="industrial, martial industrial" role="button">
-Laibach - Let It Be (1988-10-24)
+<li data-cover="https://img.discogs.com/Rz-DQHWxmq9Xs7962O5pgW_vl60=/fit-in/588x452/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1101263-1296313118.jpeg.jpg" data-tags="primus, cover" role="button">
+Primus - Miscellaneous Debris (1992-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed/13989672545-500.jpg" data-tags="singer-songwriter, acoustic, 90s" role="button">
 Everything But the Girl - Acoustic (1992-06-02)
@@ -48,14 +48,8 @@ Ramones - Acid Eaters (1993-12-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz, female vocalists, cover" role="button">
 Holly Cole - Temptation (1995-05-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/2aec11c0-41e5-4c6d-9150-8ad73548bf62/5102658391-500.jpg" data-tags="female vocalists, french, pop, cute girl rock" role="button">
-April March - Chick Habit (1995-10-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/4508124e-d2bb-4375-a5c5-e61d2c3d9f04/14486664847-500.jpg" data-tags="punk covers" role="button">
 MxPx - On The Cover (1995-11-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/58186008-1efd-4c79-8658-65e58ef1be4c/5646849448-500.jpg" data-tags="instrumental, cover, symphonic metal, metal, cello" role="button">
-Apocalyptica - Plays Metallica By Four Cellos (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/e162083e-4a0b-49f9-b341-7a02354f5c98/19325365527-500.jpg" data-tags="country" role="button">
 Johnny Cash - Unchained (1996-11-05)
@@ -216,12 +210,6 @@ Me First and the Gimme Gimmes - Love Their Country (2006-10-17)
 <li data-cover="http://coverartarchive.org/release/06baafe3-f311-45f1-bab7-97d6aaa7ea64/10383788528-500.jpg" data-tags="rock, singer-songwriter, piano" role="button">
 Ben Folds - supersunnyspeedgraphic, the lp (2006-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/5ec9a669-c9e6-4264-ba9c-dffda926c1b5/3094233548-500.jpg" data-tags="covers, synthpop" role="button">
-Apoptygma Berzerk - Sonic Diary (2006-12-01)
-</li>
-<li data-cover="https://img.discogs.com/_JbKB2HXIdP8lGhCU6KhOB4KH_A=/fit-in/150x148/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3454335-1330995212.jpeg.jpg" data-tags="covers, cover, alternative rock" role="button">
-Placebo - Covers (2007-03-05)
-</li>
 <li data-cover="https://img.discogs.com/QO7zFM0tva2c9T7Mv2WKmzHED2g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-966497-1469987494-2664.jpeg.jpg" data-tags="covers" role="button">
 Patti Smith - Twelve (2007-04-13)
 </li>
@@ -257,6 +245,9 @@ Hollywood, Mon Amour - Hollywood, Mon Amour (2008-10-06)
 </li>
 <li data-cover="https://img.discogs.com/q0Dmj0woajufdLLu2coXY3MUVmk=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1559735-1228403765.jpeg.jpg" data-tags="folk" role="button">
 Headless Heroes - The Silence of Love (2008-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/e6d8c1fb-e9c1-41eb-a010-10d6a7c9428b/13544312899-500.jpg" data-tags="reggae, covers" role="button">
+Easy Star All-Stars - Easy Star's Lonely Hearts Dub Band (2009-04-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6d933c9-dcb4-4270-95d4-42983ee6f988/4354631525-500.jpg" data-tags="acoustic, cover, covers" role="button">
 Boyce Avenue - Influential Sessions (2009-07-14)
@@ -294,11 +285,17 @@ Mike Patton - Mondo cane (2010-05-04)
 <li data-cover="http://coverartarchive.org/release/ddd15036-d7d0-4a76-b9d6-a3be99e346ab/2720295799-500.jpg" data-tags="cover, singer-songwriter, ukulele" role="button">
 Amanda Palmer - Amanda Palmer Performs the Popular Hits of Radiohead on Her Magical Ukulele (2010-07-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/f643af36-81fd-4272-ac3c-ba12b1372c41/1742951644-500.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
+Glee Cast - Baby One More Time (Glee Cast Version) (2010-09-28)
+</li>
 <li data-cover="https://img.discogs.com/ONEGx5rwfZfrcmmtezlz_CC-Y2w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2730175-1298416691.jpeg.jpg" data-tags="soundtrack, cover, soundtracks, covers, glee cast, cover songs, cover song, glee" role="button">
 Glee Cast - Don't Go Breaking My Heart (Glee Cast Version) (2010-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c63ef8ef-6cbd-4887-b28b-668b11e6b758/2231453276-500.jpg" data-tags="chillout, jazz, bossa nova, easy listening, blues, covers, relaxing, meaningful lyrics, kneiter" role="button">
 Nouvelle Vague - Couleurs Sur Paris (2010-11-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b1818f3-0e80-4a25-ae98-9511dd549255/5119794652-500.jpg" data-tags="tribute" role="button">
+Various Artists - Rave On Buddy Holly (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8f50118-3d3c-4826-a4b3-cf6228a97515/14969136552-500.jpg" data-tags="mixtape, covers, good music" role="button">
 Bastille - Other People's Heartache (2012-02-17)
@@ -308,6 +305,9 @@ Shining - Lots of Girls Gonna Get Hurt (2012-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/87b1a636-fe96-416b-944c-bd86353acf15/14691802957-500.jpg" data-tags="covers" role="button">
 Clan of Xymox - Kindred Spirits (2012-10-05)
+</li>
+<li data-cover="https://img.discogs.com/3ANZe2TlHoKtfBa88Vjj-yt-O9c=/fit-in/502x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3949070-1352020656-8749.jpeg.jpg" data-tags="traditional pop, covers, standards, elo, classics, electric light orchestra, jeff lynne, long wave" role="button">
+Jeff Lynne - Long Wave (2012-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ebadad2b-e01f-432e-8059-1882128213c9/5552546040-500.jpg" data-tags="sad, cover" role="button">
 Glee Cast - The Quarterback (2013-10-07)

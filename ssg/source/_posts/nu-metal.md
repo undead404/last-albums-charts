@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:04:01.448Z
+date: 2021-04-10T04:44:01.437Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -36,9 +36,6 @@ Korn - Follow the Leader (1998-08-17)
 <li data-cover="http://coverartarchive.org/release/42edca7a-ab97-44bc-8b15-620a9708aabe/14971935502-500.jpg" data-tags="hard rock, metal" role="button">
 Godsmack - Godsmack (1998-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/bc09001a-9161-4ad4-939c-99085ae13253/1075438137-500.jpg" data-tags="rock, alternative rock, nu metal, alternative metal" role="button">
-Staind - Dysfunction (1999-04-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/be3e00aa-368a-3f09-ac96-cd094e9a7151/3234514330-500.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - Significant Other (1999-06-18)
 </li>
@@ -65,6 +62,9 @@ Deftones - White Pony (2000-05-16)
 </li>
 <li data-cover="https://img.discogs.com/iYLwOxh7VXggVh0wKh6ACOy0tpc=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368241-1186356382.jpeg.jpg" data-tags="nu metal" role="button">
 Taproot - Gift (2000-06-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
+BoySetsFire - After the Eulogy (2000-07-21)
 </li>
 <li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
@@ -93,6 +93,9 @@ Adema - Adema (2001-08-09)
 <li data-cover="https://img.discogs.com/XTd3XQx8DGr3Y70JY3h0N2ymFSI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2273339-1453263561-8717.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
+40 Below Summer - Invitation to the Dance (2001-09-11)
+</li>
 <li data-cover="https://img.discogs.com/9crr3fjxESn9gZG_OQ2TdABKMv8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645776-1556249755-2449.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Sevendust - Animosity (2001-11-13)
 </li>
@@ -110,9 +113,6 @@ Korn - Untouchables (2002-06-10)
 </li>
 <li data-cover="https://img.discogs.com/U2ZuzA4zbHuo4_6jZ75yPChB4Xs=/fit-in/320x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4855459-1377599475-1188.jpeg.jpg" data-tags="thrash metal, nu metal, groove metal, alternative metal" role="button">
 Soulfly - 3 (2002-06-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative, hard rock, alternative rock, alternative metal, hard nurock" role="button">
-TRUSTcompany - The Lonely Position Of Neutral (2002-07-23)
 </li>
 <li data-cover="https://img.discogs.com/eHN9Cwu5MK-GOcPaxG4aLerJMbQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7728212-1502772509-3095.jpeg.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Reanimation (2002-07-29)
@@ -138,20 +138,20 @@ Mudvayne - The End of All Things to Come (2002-11-12)
 <li data-cover="https://img.discogs.com/pm-60Tvy_j9gK6y5tjizOkt2Jm4=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1121453-1401953708-5066.jpeg.jpg" data-tags="metalcore" role="button">
 36 Crazyfists - A Snow Capped Romance (2003)
 </li>
+<li data-cover="http://coverartarchive.org/release/c02fb0de-e35e-4c7d-916f-fff2637e87d8/15545331220-500.jpg" data-tags="alternative metal, nu metal" role="button">
+Ünloco - Becoming I (2003-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)
+</li>
+<li data-cover="https://img.discogs.com/MXhvvXsG1UpZ6XSRVwaaL4ZTDKI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1532354-1226519374.jpeg.jpg" data-tags="alternative metal" role="button">
+Nothingface - Skeletons (2003-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/798954ef-3006-4018-819d-090e0401ce2e/1075497696-500.jpg" data-tags="alternative rock, rock" role="button">
 Staind - 14 Shades of Grey (2003-05-19)
 </li>
-<li data-cover="https://img.discogs.com/nIIHyoa6wO55dqq6JVV2pf0E74Y=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2176097-1554904192-5219.jpeg.jpg" data-tags="nu metal" role="button">
-Motograter - Motograter (2003-05-27)
-</li>
 <li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
 Limp Bizkit - Results May Vary (2003-05-28)
-</li>
-<li data-cover="https://img.discogs.com/CjFWT0pYhx10McixHxkEvqOTuTg=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1297749-1207474589.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
-Finger Eleven - Finger Eleven (2003-06-17)
 </li>
 <li data-cover="https://img.discogs.com/61pR2y8_a7JYJnm2AAtaPpZNeFY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2805110-1501822761-5526.jpeg.jpg" data-tags="industrial metal, nu metal" role="button">
 Spineshank - Self-Destructive Pattern (2003-07-30)
@@ -204,11 +204,11 @@ DIR EN GREY - Withering to death (2005-03-09)
 <li data-cover="https://img.discogs.com/F6aOVv8C-vDYnIl_4GVgzevGdus=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4588605-1435672439-3852.jpeg.jpg" data-tags="nu metal" role="button">
 Limp Bizkit - The Unquestionable Truth (Part 1) (2005-05-02)
 </li>
-<li data-cover="https://img.discogs.com/hQFPAytYDAqm_dEI_ty2avBNpKc=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477609-1451863521-3232.jpeg.jpg" data-tags="rock, alternative, alternative rock, nu-metal, post grunge, emo-rock, emopop, needs to be played more" role="button">
-InMe - White Butterfly (2005-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/d31ca23d-af99-4296-b072-adb7f2c88ece/3417770333-500.jpg" data-tags="nu metal, nu-metal" role="button">
 Scars of Life - What We Reflect (2005-08-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/8b50b21f-f12c-49d3-8880-964e29686992/23154266732-500.jpg" data-tags="alternative, alternative metal, nu metal" role="button">
+Taproot - Blue-Sky Research (2005-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/555e77a9-ee30-47c4-bd7d-e8954c22a044/4227861682-500.jpg" data-tags="rock, alternative rock, cold" role="button">
 Cold - A Different Kind of Pain (2005-08-30)

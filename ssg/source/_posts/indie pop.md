@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:17:01.417Z
+date: 2021-04-10T04:32:01.415Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -96,6 +96,9 @@ The Maccabees - Colour It In (2007-04-23)
 <li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
 Stars - In Our Bedroom After the War (2007-07-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/810b0381-38bd-3ff0-852c-38201bc04c28/22198290982-500.jpg" data-tags="indie pop" role="button">
+St. Vincent - Marry Me (2007-07-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/04c81c50-a42a-48bf-adbc-0503769e6e23/4809542255-500.jpg" data-tags="indie pop" role="button">
 Tegan and Sara - The Con (2007-07-24)
 </li>
@@ -158,9 +161,6 @@ The xx - xx (2009-08-14)
 </li>
 <li data-cover="https://img.discogs.com/Xvt0O3nea3m5UxRftZdasQolCx0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-58972-1307997369.jpeg.jpg" data-tags="indie pop" role="button">
 fun. - Aim and Ignite (2009-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/d72bf4d7-3bea-38b5-87df-9ef01eb3b14a/5920957048-500.jpg" data-tags="trip-hop, indie pop, indietronica" role="button">
-Phantogram - Eyelid Movies (2009-09)
 </li>
 <li data-cover="https://img.discogs.com/WsRvEbzvbUUk83b9XmAPKAaAzBQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2058189-1536693069-9605.jpeg.jpg" data-tags="indie rock, indie pop" role="button">
 Vampire Weekend - Contra (2010-01-08)

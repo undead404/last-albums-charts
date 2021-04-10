@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T18:41:01.647Z
+date: 2021-04-10T03:52:01.411Z
 title: "funk metal: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -126,6 +126,9 @@ Infectious Grooves - Groove Family Cyco (1994-03-29)
 <li data-cover="http://coverartarchive.org/release/b06d3f9d-78b1-3155-89be-e7af11730806/2192472321-500.jpg" data-tags="nu metal" role="button">
 Korn - Korn (1994-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/125b1731-f5b0-4542-96a3-c05c025f877c/23724829556-500.jpg" data-tags="alternative metal" role="button">
+Megaherz - Herzwerk (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/2101f51b-6a27-4c34-8cee-44c3e678453b/19604751300-500.jpg" data-tags="alternative metal" role="button">
 Powerman 5000 - Mega!! Kung Fu Radio (1995)
 </li>
@@ -188,9 +191,6 @@ Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef5aa6bc-dfdf-4b1d-bf8d-96f785ef5dfc/18650235841-500.jpg" data-tags="stoner rock" role="button">
 Clutch - The Elephant Riders (1998-04-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/3f6f0e86-80e9-313c-b7e0-9dc08105937b/21426794057-500.jpg" data-tags="funk metal" role="button">
-Primus - Rhinoplasty (1998-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/19af6bc8-81ca-4eb0-ba7e-3f0c6113eb66/2618609074-500.jpg" data-tags="rock" role="button">
 Faith No More - Who Cares a Lot? The Greatest Hits (1998-10-12)

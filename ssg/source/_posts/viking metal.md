@@ -1,16 +1,16 @@
 ---
-date: 2021-04-09T18:52:01.479Z
+date: 2021-04-10T04:39:01.425Z
 title: "viking metal: 100 albums you must listen to before you die"
 ---
 ![Ensiferum - Ensiferum (2001-07)](http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg "Ensiferum - Ensiferum (2001-07)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ae894b9c-8211-3dcd-ab3f-5c0960d2e4c6/13837179898-500.jpg" data-tags="black metal, viking metal" role="button">Bathory - Blood Fire Death (1988-10-08)</li>
 <li data-cover="http://coverartarchive.org/release/d6dbc518-3ad6-39a5-ab01-1b24f87e2e45/19434936368-500.jpg" data-tags="viking metal" role="button">Bathory - Hammerheart (1990-04-16)</li>
 <li data-cover="http://coverartarchive.org/release/6a09c076-9970-45f9-9410-d8b0d484d4e7/2996949000-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Ensiferum (2001-07)</li>
 <li data-cover="http://coverartarchive.org/release/cd653da3-a459-4859-bcbe-5d2f77890590/2630907884-500.jpg" data-tags="viking metal, folk metal, pagan metal" role="button">Moonsorrow - Voimasta ja Kunniasta (2001-11-26)</li>
 <li data-cover="http://coverartarchive.org/release/a8e692d6-1ebb-47b7-b41d-c508ba318263/16366579010-500.jpg" data-tags="melodic death metal" role="button">Amon Amarth - Versus The World (2002-11-18)</li>
 <li data-cover="https://img.discogs.com/U5sm7YggCaPqpMS7NC1KfQ_siP8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6178112-1445890756-2366.jpeg.jpg" data-tags="viking metal, folk metal" role="button">Moonsorrow - Kivenkantaja (2003-03-10)</li>
 <li data-cover="http://coverartarchive.org/release/7c0561d3-5460-4b8d-8ff2-3076172c5d49/6506123080-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Iron (2004-04-15)</li>
+<li data-cover="http://coverartarchive.org/release/0c4f54f1-2816-48a2-8e19-90e05d337d97/4017787398-500.jpg" data-tags="folk metal, viking metal, battle metal" role="button">Turisas - Battle Metal (2004-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/60447ee2-1289-30be-be08-5ce0cb82a3a7/8158297637-500.jpg" data-tags="melodic death metal" role="button">Amon Amarth - Fate of Norns (2004-09-06)</li>
 <li data-cover="http://coverartarchive.org/release/6fe4d6ce-790c-3a29-a80c-b46823f722ff/4258363805-500.jpg" data-tags="folk metal, viking metal" role="button">Ensiferum - Victory Songs (2007-03-23)</li>
 <li data-cover="http://coverartarchive.org/release/96cf1767-5939-3713-9986-98979c3bcc1e/14258133969-500.jpg" data-tags="melodic death metal" role="button">Amon Amarth - Twilight of the Thunder God (2008-09-17)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ae894b9c-8211-3dcd-ab3f-5c0960d2e4c6/13837179898-500.jpg" data-tags="black metal, viking metal" role="button">
-Bathory - Blood Fire Death (1988-10-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/d6dbc518-3ad6-39a5-ab01-1b24f87e2e45/19434936368-500.jpg" data-tags="viking metal" role="button">
 Bathory - Hammerheart (1990-04-16)
 </li>
@@ -227,6 +224,9 @@ Kampfar - Kvass (2006-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/3ad21303-6185-3378-bbd8-984d4f2047d7/8050005645-500.jpg" data-tags="folk metal" role="button">
 Eluveitie - Spirit (2006-06-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/839992f6-7d99-4387-8696-17cb02204170/4215916941-500.jpg" data-tags="viking metal, speed metal, melodic death metal, death metal, fucking awesome, battle metal" role="button">
+Ensiferum - 10th Anniversary Live (2006-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b455705-d7a7-4857-8de3-c03e8e6ee61d/6523032214-500.jpg" data-tags="folk metal, viking metal" role="button">
 Týr - Ragnarok (2006-09-22)

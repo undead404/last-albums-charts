@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:11:01.452Z
+date: 2021-04-10T03:50:01.540Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -7,10 +7,10 @@ title: "post-punk: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5fb363d1-3bee-44ce-acfc-43fdb0d7c4aa/2761546755-500.jpg" data-tags="post-punk, 70s" role="button">Television - Marquee Moon (1977-02-08)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">Joy Division - Unknown Pleasures (1979-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/97d8bb43-f46f-3460-92dc-d6acdb3f1279/14969806130-500.jpg" data-tags="post-punk" role="button">Joy Division - Closer (1980-07-18)</li>
-<li data-cover="http://coverartarchive.org/release/baab3587-e387-32f0-b68e-6af5d73347e2/15851774994-500.jpg" data-tags="post-punk" role="button">Joy Division - Substance (1988-06)</li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">The Cure - Disintegration (1989-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg" data-tags="new wave, alternative, 80s" role="button">The Cure - Greatest Hits (2001-11-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">Interpol - Turn on the Bright Lights (2002-08-19)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie rock, indie" role="button">Interpol - Antics (2004-09-27)</li>
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">Interpol - Our Love to Admire (2007-07-09)</li>
 <li data-cover="http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg" data-tags="indie" role="button">The xx - xx (2009-08-14)</li>
@@ -108,6 +108,9 @@ New Order - Power, Corruption & Lies (1983-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, gothic rock" role="button">
 Bauhaus - Burning from the Inside (1983-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/38ffbebe-8b4e-32df-a29e-ad755e09599a/16239953987-500.jpg" data-tags="post-punk" role="button">
+The Chameleons - Script of the Bridge (1983-08-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/0299e566-f951-440f-bb63-8d6608aff482/6126735758-500.jpg" data-tags="80s" role="button">
 The Smiths - The Smiths (1984-02-20)
 </li>
@@ -147,15 +150,6 @@ The Jesus and Mary Chain - Darklands (1987-10)
 <li data-cover="http://coverartarchive.org/release/7c830a82-d93d-37e4-b792-d1df6a384f22/6382773118-500.jpg" data-tags="80s, new wave, post-punk" role="button">
 The Psychedelic Furs - All Of this And Nothing (1988)
 </li>
-<li data-cover="http://coverartarchive.org/release/dd58e50b-bf7b-31a1-bd82-47e7d4a2a77c/2197413454-500.jpg" data-tags="80s, post-punk" role="button">
-The Church - Starfish (1988-02-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/baab3587-e387-32f0-b68e-6af5d73347e2/15851774994-500.jpg" data-tags="post-punk" role="button">
-Joy Division - Substance (1988-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg" data-tags="alternative, 80s" role="button">
-Sonic Youth - Daydream Nation (1988-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/91fa2331-d8b4-4d1f-aa4d-53b1c54853e5/20885075891-500.jpg" data-tags="80s, new wave" role="button">
 The Cure - Disintegration (1989-05-01)
 </li>
@@ -173,6 +167,9 @@ The Cure - Wild Mood Swings (1996-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfd1efc5-a99d-4560-8141-4a26da18c209/8801167569-500.jpg" data-tags="alternative rock, alternative, rock" role="button">
 Placebo - Placebo (1996-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/78db8ee8-94dc-444a-85f6-848ce0087092/22630338793-500.jpg" data-tags="indie, electronic" role="button">
+Le Tigre - Le Tigre (1999-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e8cd5ae-2caf-4d4d-99ec-300c7fd57656/7799815972-500.jpg" data-tags="alternative, rock, gothic rock" role="button">
 The Cure - Bloodflowers (2000-02-02)
@@ -233,6 +230,9 @@ The National - Boxer (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
 Interpol - Our Love to Admire (2007-07-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/ef102bce-319d-3afd-a0b9-cd8cfea8478e/17983820799-500.jpg" data-tags="indie, experimental, post-rock, post-punk" role="button">
+Liars - Liars (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f214af9-7c6d-43b5-bb61-fd78ccffd805/9294779686-500.jpg" data-tags="indie rock, post-punk" role="button">
 The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)
