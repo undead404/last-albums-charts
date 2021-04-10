@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:24:01.513Z
+date: 2021-04-10T11:01:06.873Z
 title: "deutsch: 100 albums you must listen to before you die"
 ---
 ![Clueso - So sehr dabei (2008-05-30)](http://coverartarchive.org/release/8a5f9fff-7e95-46e5-912c-4805719b9733/6800701218-500.jpg "Clueso - So sehr dabei (2008-05-30)")
@@ -8,11 +8,11 @@ title: "deutsch: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/4ef75fd8-9b02-4bfc-bacd-002846dc6f63/5555494044-500.jpg" data-tags="deutsch" role="button">Kettcar - Von Spatzen und Tauben, Dächern und Händen (2005-03-07)</li>
 <li data-cover="https://img.discogs.com/rLFbd4wzHfqWV4t0KBl6bD56rUQ=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-927793-1242079929.jpeg.jpg" data-tags="german, pop" role="button">Wir sind Helden - Von hier an blind (2005-09-23)</li>
 <li data-cover="http://coverartarchive.org/release/55ed3bfc-d023-45b7-9905-c4a3ff6e2e2a/3376905685-500.jpg" data-tags="german, deutsch, hamburger schule" role="button">Tomte - Buchstaben über der Stadt (2006-02-03)</li>
+<li data-cover="http://coverartarchive.org/release/d17bfe8d-b962-4fa5-bf71-efbe76a201ce/4817979360-500.jpg" data-tags="indie, deutsch, german, hamburger schule" role="button">Tocotronic - Kapitulation (2007-07-06)</li>
 <li data-cover="http://coverartarchive.org/release/c09740e6-06a3-47d5-bc92-ff548e87b955/3602793651-500.jpg" data-tags="deutsch, reggae" role="button">Culcha Candela - Culcha Candela (2007-08-31)</li>
 <li data-cover="http://coverartarchive.org/release/6a81122a-d183-4008-ad9f-fcc8dd2b31b2/2140773824-500.jpg" data-tags="punk, deutschrock, punk rock, deutsch" role="button">Die Ärzte - Jazz Ist Anders (2007-11-02)</li>
 <li data-cover="http://coverartarchive.org/release/8a5f9fff-7e95-46e5-912c-4805719b9733/6800701218-500.jpg" data-tags="deutsch" role="button">Clueso - So sehr dabei (2008-05-30)</li>
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">Peter Fox - Stadtaffe (2008-09-26)</li>
-<li data-cover="https://img.discogs.com/_pjIoMlx7MXFbuDl_d_0tblyJoE=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1631744-1233396114.jpeg.jpg" data-tags="electronic, deutsch" role="button">Deichkind - Arbeit nervt (2008-10-10)</li>
 <li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">Wir sind Helden - Bring mich nach Hause (2010-08-27)</li>
 </ol>
 List of 100 - under the cut.
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/axZCL8e5TNw1YBpV77kECEhoGOw=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-343260-1423732712-3253.jpeg.jpg" data-tags="80s, deutsch" role="button">
+Peter Schilling - Fehler im System (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/e38790fe-0b99-45ac-b540-9b7cf2742d94/19025705025-500.jpg" data-tags="german" role="button">
 Nena - 99 Luftballons (1983)
 </li>
@@ -39,11 +42,8 @@ Die Ärzte - Die Bestie in Menschengestalt (1993-10-05)
 <li data-cover="http://coverartarchive.org/release/653dace1-86ca-4604-80e5-421ec0691fb8/21668460133-500.jpg" data-tags="german" role="button">
 Element of Crime - An Einem Sonntag Im April (1994)
 </li>
-<li data-cover="http://coverartarchive.org/release/84e15e63-0931-48b7-a37e-85e782f0b65a/24329225762-500.jpg" data-tags="punk rock, deutsch" role="button">
-Die Ärzte - Das Beste Von Kurz Nach Früher Bis Jetze (1994-08-26)
-</li>
-<li data-cover="https://img.discogs.com/hHbNqeuWIiL1du69HzHrC5uExiM=/fit-in/400x394/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-489030-1308746249.jpeg.jpg" data-tags="deutsch" role="button">
-Wizo - Herrénhandtasche (1995-09-01)
+<li data-cover="http://coverartarchive.org/release/25c6719a-fdb9-4131-829b-f28ea0a79e34/11541099620-500.jpg" data-tags="schlager, deutsch, german, austrian" role="button">
+Udo Jürgens - Zeig mir den Platz an der Sonne (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/65d6ad44-109b-4c33-a9d2-2fd6e86b7223/2139954499-500.jpg" data-tags="german, hip hop" role="button">
 Die Fantastischen Vier - Lauschgift (1995-11-11)
@@ -53,9 +53,6 @@ Fool's Garden - Dish Of The Day (1995-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/43adeda4-2b9b-3611-a94e-651ca659f010/4766415069-500.jpg" data-tags="hamburger schule, deutsch" role="button">
 Die Sterne - Posen (1996-04-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/2bf9abf3-0bf9-4b54-8cc4-0af6140e30f1/3323602146-500.jpg" data-tags="hip hop, german hip hop, hip-hop, conscious hip hop" role="button">
-Freundeskreis - Quadratur Des Kreises (1997-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/00e3f7f1-e444-46a0-ad46-b23e33e94f0d/14278672955-500.jpg" data-tags="deutsch, rock, german" role="button">
 Herbert Grönemeyer - Bleibt Alles Anders (1998-04-20)
@@ -84,14 +81,14 @@ Samy Deluxe - Samy Deluxe (2001-04-23)
 <li data-cover="http://coverartarchive.org/release/aa8f796b-28e8-4b46-92ab-ae4d74c6dfa0/11539914728-500.jpg" data-tags="reggae" role="button">
 Seeed - New Dubby Conquerors (2001-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/2748414e-5f9d-470b-b748-9f98e6f51581/22141635600-500.jpg" data-tags="deutsch, comedy, german, a capella" role="button">
+Wise Guys - Ganz weit vorne (2001-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/81032d7f-3915-4016-b1f5-606926329bb0/3323486482-500.jpg" data-tags="deutsch, german, punk" role="button">
 Farin Urlaub - Endlich Urlaub! (2001-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/035f1c38-97cc-47c3-b593-1e714f115861/13141931648-500.jpg" data-tags="deutsch, german, element of crime" role="button">
 Element of Crime - Romantik (2001-11-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/58a7061d-6dc3-4fc0-84dd-c08a9c2293e3/27378446093-500.jpg" data-tags="electronica" role="button">
-International Pony - We Love Music (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/7bd81615-478e-4c0e-9248-39cd077eac69/3330315650-500.jpg" data-tags="punk rock, punk" role="button">
 Die Toten Hosen - Auswärtsspiel (2002-01-21)
@@ -101,9 +98,6 @@ Sportfreunde Stiller - Die gute Seite (2002-04-02)
 </li>
 <li data-cover="https://img.discogs.com/aKGZZY2YKAMrt0FWKGUSegb4ST4=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-580150-1216849792.jpeg.jpg" data-tags="german" role="button">
 Herbert Grönemeyer - Mensch (2002-08-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/e8f0c329-8158-445c-ae57-d77a3d4d86b6/7853015432-500.jpg" data-tags="deutsch, german" role="button">
-MIA. - Hieb & Stichfest (2002-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/9487dab6-a5df-4fce-b37e-b5d811eebafd/3366701687-500.jpg" data-tags="deutsch" role="button">
 Kettcar - Du Und Wieviel Von Deinen Freunden (2002-10-28)
@@ -138,9 +132,6 @@ Silbermond - Verschwende deine Zeit (2004-07-12)
 <li data-cover="http://coverartarchive.org/release/8831ba18-6e18-4289-b215-97607fcce406/12547390168-500.jpg" data-tags="deutsch" role="button">
 Virginia Jetzt! - Anfänger (2004-08-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/b21fed09-17fe-3ab2-bbe6-5bf54ce9f43a/1889478274-500.jpg" data-tags="german, electronic" role="button">
-2raumwohnung - Es wird Morgen (2004-08-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/b32b3292-55db-4883-adaf-786171f381a1/10431090135-500.jpg" data-tags="german" role="button">
 Juli - Es ist Juli (2004-09-20)
 </li>
@@ -158,9 +149,6 @@ ClickClickDecker - Ich Habe Keine Angst Vor... (2005-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ef75fd8-9b02-4bfc-bacd-002846dc6f63/5555494044-500.jpg" data-tags="deutsch" role="button">
 Kettcar - Von Spatzen und Tauben, Dächern und Händen (2005-03-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/7caecf9e-6fb2-4def-95ef-5cdf6dd05410/7479710791-500.jpg" data-tags="hip hop, german, deutsch" role="button">
-Fettes Brot - Am Wasser gebaut (2005-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/613aa14f-592b-4ab9-bfca-093902c3674c/2538327449-500.jpg" data-tags="deutsch" role="button">
 2raumwohnung - Melancholisch schön (2005-06-20)
@@ -185,6 +173,9 @@ Muff Potter - Von Wegen (2005-10-07)
 </li>
 <li data-cover="https://img.discogs.com/GUq_JB_l0I6gNuYQSQcD1jqJhAU=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1910644-1502355394-1079.jpeg.jpg" data-tags="reggae, dancehall" role="button">
 Seeed - Next! (2005-10-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/b24c7774-9345-4373-8155-4556d321e412/20586983149-500.jpg" data-tags="german" role="button">
+Annett Louisan - Unausgesprochen (2005-10-21)
 </li>
 <li data-cover="https://img.discogs.com/LOra1OcgVvThWazvQTQQ1CbxJOc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030196-1538332713-1103.jpeg.jpg" data-tags="deutsch" role="button">
 Hansen Band - Keine Lieder über Liebe (2005-10-24)
@@ -219,8 +210,14 @@ Christina Stürmer - Lebe Lauter (2006-09-15)
 <li data-cover="http://coverartarchive.org/release/8e399300-e2d0-4836-ade1-67783e8aba6c/1594214502-500.jpg" data-tags="german" role="button">
 Fotos - Fotos (2006-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/d8e0f641-ad35-43fd-b7ed-aecd6685caf5/3323261794-500.jpg" data-tags="grand hotel van cleef" role="button">
+Olli Schulz & der Hund Marie - Warten Auf Den Bumerang (2006-11-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/446531b3-47a1-4caf-8815-dab5b6734dde/9819885655-500.jpg" data-tags="industrial metal" role="button">
 Oomph! - Delikatessen (2006-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7964f976-9ce5-465b-bdec-630daf4931c5/22650787453-500.jpg" data-tags="metal, fun metal" role="button">
+Knorkator - Das nächste Album aller Zeiten (2007-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/8208c422-13eb-4ade-98e4-fd551f3cd67a/12899177229-500.jpg" data-tags="hip hop, deutsch, german" role="button">
 Die Fantastischen Vier - Fornika (2007-04-07)
@@ -270,9 +267,6 @@ PeterLicht - Melancholie und Gesellschaft (2008-09-05)
 <li data-cover="http://coverartarchive.org/release/d57ff9e6-3ece-429b-bf5f-75d505f7cfe1/15248740702-500.jpg" data-tags="dancehall, german" role="button">
 Peter Fox - Stadtaffe (2008-09-26)
 </li>
-<li data-cover="https://img.discogs.com/_pjIoMlx7MXFbuDl_d_0tblyJoE=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1631744-1233396114.jpeg.jpg" data-tags="electronic, deutsch" role="button">
-Deichkind - Arbeit nervt (2008-10-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/be5ff3f4-825b-498e-9ce7-f516aec0ada7/10579966467-500.jpg" data-tags="punk rock, punk" role="button">
 Die Toten Hosen - In aller Stille (2008-11-14)
 </li>
@@ -284,6 +278,9 @@ Jan Delay - Wir Kinder vom Bahnhof Soul (2009-08-14)
 </li>
 <li data-cover="https://img.discogs.com/fPRaFPdnrNcEuhIZkSVlDnlhiEc=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2442497-1451244676-2555.jpeg.jpg" data-tags="rock, humanoid, german, tokio hotel" role="button">
 Tokio Hotel - Humanoid (2009-10-06)
+</li>
+<li data-cover="https://img.discogs.com/znmkZIsoZ1P3egQ9S20KeH_5y9k=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2210530-1416764356-8768.jpeg.jpg" data-tags="germany, deutsch, german, deutschland, german artist, new age-y, newage, german artists, german indie, new age synth, german underground, new age and ambient, new new age, my new age, new age rythm, new age vocals, nice new age, rich new age and chill, electronic german, german independent, german electronic, new age influences, new age aesthetics, new age favorites, german favorites, new age collection, aus deutschland, german indi, new age electronica, new age pop, deutsch indie, ethereal new age, german deutsch, german electronica, alternative new age, electronic deutschland, deutsch party, musik aus deutschland, indie german, german and good, indie-deutschland, german-indie, chill new age, new age electronic, german ambient, genre: new age, german chillout, new age party music, german groove, new age groovin, new age ambiant, german act, lush tone new age" role="button">
+Vargo - Precious (2010-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/efd254da-374f-4e8b-a971-5c424b217f1d/9819901623-500.jpg" data-tags="rock, german" role="button">
 Oomph! - Truth or Dare (2010-02-26)
@@ -314,6 +311,9 @@ Tim Bendzko - Wenn Worte meine Sprache wären (2011-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0ea09404-4998-4e6b-949c-274dc197b6b7/22055245791-500.jpg" data-tags="rock, female vocalists, deutsch, deutschrock, german, liebe, liebeskummer, lieblingslieder, herzschmerz, baamhakke, lieblingssongs, leider geil" role="button">
 Jennifer Rostock - Mit Haut und Haar (2011-07-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/1880c233-b30c-4a5a-9996-3475c0cf8967/3323225611-500.jpg" data-tags="indie, rock, singer-songwriter, deutsch, hamburg, german" role="button">
+Olli Schulz - SOS - Save Olli Schulz (2012-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b31b37e-fa76-456d-8eec-900a438ef309/10134774591-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Marteria - Zum Glück in die Zukunft II (2014-01-31)

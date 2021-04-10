@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:26:01.420Z
+date: 2021-04-10T11:00:01.480Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -171,9 +171,6 @@ Various Artists - 8 Mile (2002-04-29)
 <li data-cover="http://coverartarchive.org/release/6d1d433e-709b-4c6b-8d09-7e8b845be806/4629393369-500.jpg" data-tags="soundtrack, indie pop, indie, 00s" role="button">
 Belle and Sebastian - Storytelling (2002-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/7a95dddf-27be-4fb2-8f12-a1b037e13bac/24832938889-500.jpg" data-tags="soundtrack, rock" role="button">
-Bryan Adams - Spirit: Stallion Of The Cimarron (2002-06-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/0112d2f1-f978-461e-b92f-8c9a31462d11/2572749895-500.jpg" data-tags="soundtrack" role="button">
 John Murphy - 28 Days Later (2002-11-04)
 </li>
@@ -206,6 +203,9 @@ Counting Crows - Accidentally In Love (2004-01-01)
 </li>
 <li data-cover="https://img.discogs.com/H5Fl6i75kvP3PVId2ZOKtedunCs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13692055-1559136400-9381.jpeg.jpg" data-tags="soundtrack" role="button">
 Jon Brion - Eternal Sunshine of the Spotless Mind (2004-03-16)
+</li>
+<li data-cover="https://img.discogs.com/taIy7Oii-_uBKwT_4AEEiYiKP3A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3928109-1349801224-8323.jpeg.jpg" data-tags="soundtrack, harry potter" role="button">
+John Williams - Harry Potter and the Prisoner of Azkaban (2004-05-25)
 </li>
 <li data-cover="https://img.discogs.com/Z6aX9VIjM95v_om-rchATZmxrP0=/fit-in/600x612/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9517332-1482011560-9180.jpeg.jpg" data-tags="soundtrack" role="button">
 Harry Gregson-Williams - Kingdom of Heaven (2005-04-26)

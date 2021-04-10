@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:28:01.432Z
+date: 2021-04-10T10:57:01.432Z
 title: "classic rock: 100 albums you must listen to before you die"
 ---
 ![The Beatles - Abbey Road (1969-09-26)](https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg "The Beatles - Abbey Road (1969-09-26)")
@@ -174,9 +174,6 @@ Eagles - Hotel California (1976)
 <li data-cover="http://coverartarchive.org/release/5c1032af-2d86-424b-963e-dd9e65f7281b/1287531128-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Presence (1976-03-31)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
-Boston - Boston (1976-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/32f76eef-5004-3e80-bdf8-912298896134/14402610216-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Animals (1977-01-23)
 </li>
@@ -194,9 +191,6 @@ Billy Joel - The Stranger (1977-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/36594124-8097-3af9-891a-8a03b154c79b/23541528287-500.jpg" data-tags="classic rock, 70s" role="button">
 Electric Light Orchestra - Out of the Blue (1977-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/7fc19ae9-19e5-46a3-b55d-0cc1dca866ab/28809141953-500.jpg" data-tags="classic rock, rock, hard rock, 70s" role="button">
-Queen - News Of The World (1977-10-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dire straits, classic rock, rock" role="button">
 Dire Straits - Dire Straits (1978-06-02)
@@ -222,9 +216,6 @@ Deep Purple - Deepest Purple: The Very Best of Deep Purple (1980)
 <li data-cover="http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Back in Black (1980-07-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab2c84bb-4ee7-4add-8349-f4d7ad243384/4389275722-500.jpg" data-tags="rock, 80s, classic rock" role="button">
-Journey - Escape (1981)
-</li>
 <li data-cover="http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg" data-tags="classic rock, queen" role="button">
 Queen - Greatest Hits (1981-11-03)
 </li>
@@ -236,6 +227,9 @@ Dire Straits - Love Over Gold (1982-09-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
 Kansas - The Best of Kansas (1984)
+</li>
+<li data-cover="https://img.discogs.com/u07muXXmfaBh79xirAViaMcyyNk=/fit-in/594x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498839-1161438657.jpeg.jpg" data-tags="classic rock, rock" role="button">
+Queen - The Works (1984-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/88263b6a-1785-48a7-9397-851edcaed134/17787327511-500.jpg" data-tags="rock" role="button">
 Bruce Springsteen - Born in the U.S.A. (1984-10)
@@ -252,6 +246,9 @@ Queen - A Kind Of Magic (1986-06-02)
 <li data-cover="https://img.discogs.com/vp8yysdtrnhVB0e3-7cEDcL3ZkY=/fit-in/599x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1387091-1215452933.jpeg.jpg" data-tags="rock" role="button">
 U2 - The Joshua Tree (1987-03-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/ad3f2bf7-90d0-375f-aae1-9e49c1a7d93f/16482357177-500.jpg" data-tags="80s, classic rock" role="button">
+Fleetwood Mac - Tango in the Night (1987-04-09)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)
 </li>
@@ -263,6 +260,9 @@ Journey - Greatest Hits (1988-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5e1ebbf-3a70-4767-8f69-b85dc9095dec/6919975994-500.jpg" data-tags="rock, classic rock, 80s" role="button">
 Tom Petty - Full Moon Fever (1989-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/06f4aa3d-7869-433d-a165-4f9219302596/13927186260-500.jpg" data-tags="rock, classic rock, 90s" role="button">
+Queen - Innuendo (1991-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/db34a2e2-e5d5-43f5-9d9a-140ac6d2a738/13666947317-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - Use Your Illusion I (1991-09-16)

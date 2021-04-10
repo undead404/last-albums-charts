@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:14:01.505Z
+date: 2021-04-10T11:30:01.521Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -75,9 +75,6 @@ Finch - What It Is to Burn (2002-03-12)
 <li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Tell All Your Friends (2002-03-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/2dac1fd4-94ec-390a-985d-c7440c647a99/11024423754-500.jpg" data-tags="piano rock" role="button">
-Something Corporate - Leaving Through the Window (2002-05-21)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
 </li>
@@ -107,6 +104,9 @@ Armor for Sleep - Dream to Make Believe (2003-06-03)
 </li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">
 Brand New - Deja Entendu (2003-06-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
+Three Days Grace - Three Days Grace (2003-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/a286be17-96f0-3dee-9c66-d8972a04d4e9/1742724035-500.jpg" data-tags="emo" role="button">
 Dashboard Confessional - A Mark, A Mission, A Brand, A Scar (2003-08-11)
@@ -153,14 +153,8 @@ Lindsay Lohan - Speak (2004-12-07)
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
-<li data-cover="https://img.discogs.com/F7_vX7cpN29uV2NF4Xt4kSvyYc0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3254198-1423920499-1926.jpeg.jpg" data-tags="rock" role="button">
-Plain White T's - All That We Needed (2005-01-25)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop punk, emo" role="button">
 The Academy Is... - Almost Here (2005-02-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/7de99e6a-9598-4dc6-97da-dba133c12a80/4889907703-500.jpg" data-tags="mae, rock, alternative, indie rock" role="button">
-MAE - The Everglow (2005-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
@@ -192,9 +186,6 @@ Silverstein - Discovering the Waterfront (2005-08-16)
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
-Augustana - All The Stars and Boulevards (2005-09-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
 Cartel - Chroma (2005-09-20)
 </li>
@@ -210,11 +201,17 @@ Secondhand Serenade - Awake (2005-10-27)
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/3ba8706d-4a74-412a-bac1-4497189f70f9/7255069360-500.jpg" data-tags="pop punk" role="button">
+Yellowcard - Lights and Sounds (2006-01-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/d39b5760-18ad-4a8e-a625-ca128e69384a/2330331132-500.jpg" data-tags="emo" role="button">
 Hawthorne Heights - If Only You Were Lonely (2006-02-28)
 </li>
 <li data-cover="https://img.discogs.com/jXHEqpkzaiZYX3BIWucVSpVCSiQ=/fit-in/479x481/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2067528-1262096038.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Louder Now (2006-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/93d6bfce-9c1a-38a7-bc24-13be3a4a51b8/14793961860-500.jpg" data-tags="post-hardcore, emo" role="button">
+Thursday - A City By The Light Divided (2006-05-02)
 </li>
 <li data-cover="https://img.discogs.com/O6tUgmp54g3WX4K_otOtQnfqntc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-764886-1156447982.jpeg.jpg" data-tags="indie, emo" role="button">
 Plain White T's - Hey There Delilah (2006-05-09)
@@ -239,6 +236,9 @@ Boys Like Girls - Boys Like Girls (2006-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e14d082d-64ee-4d42-9f1e-8b1d7423ed08/15998776082-500.jpg" data-tags="indie, rock, pop punk, emo" role="button">
 Plain White T's - Every Second Counts (2006-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
+New Found Glory - Coming Home (2006-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
@@ -279,14 +279,8 @@ The Starting Line - Direction (2007-07-31)
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
 Jimmy Eat World - Chase This Light (2007-10-06)
 </li>
-<li data-cover="https://img.discogs.com/vwxoIJCM0ix4bNSbrNeDi9zXeaY=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1839737-1265109088.jpeg.jpg" data-tags="emo, acoustic" role="button">
-Secondhand Serenade - A Twist in My Story (2008-02-19)
-</li>
 <li data-cover="https://img.discogs.com/U50rcjtqpvGQt7Rt0QofMtJq7c4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2961116-1595884207-6915.jpeg.jpg" data-tags="emo, pop punk, indie rock" role="button">
 Tigers Jaw - Tigers Jaw (2008-09-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/daac3b05-4552-452d-a343-023ddfa49994/21614398859-500.jpg" data-tags="emo" role="button">
-Jack's Mannequin - The Glass Passenger (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Folie à deux (2008-12-10)
@@ -303,6 +297,9 @@ Twenty One Pilots - Twenty One Pilots (2009-12-29)
 <li data-cover="http://coverartarchive.org/release/52480116-0a55-4090-a91a-7b0752f7955f/7149416698-500.jpg" data-tags="post-hardcore, emocore" role="button">
 Pierce The Veil - Selfish Machines (2010-06-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/dafe15c2-5fb9-4a5f-9b12-df031d3b0e9b/2103470066-500.jpg" data-tags="alternative rock" role="button">
+Panic! at the Disco - Vices & Virtues (2011-03-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
@@ -311,6 +308,9 @@ Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="alternative" role="button">
+Panic! at the Disco - Too Weird to Live, Too Rare to Die! (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3c71198-ebc5-44b3-b076-88fb8dd4bc0f/6960652013-500.jpg" data-tags="emo" role="button">
 Modern Baseball - You're Gonna Miss It All (2013-10-30)

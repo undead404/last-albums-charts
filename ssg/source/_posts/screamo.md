@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:38:01.407Z
+date: 2021-04-10T11:14:01.407Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -104,6 +104,9 @@ A Day to Remember - And Their Name Was Treason (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/de811c20-f2b1-395a-a377-6ea2f1aa0ba6/24647170363-500.jpg" data-tags="post-hardcore" role="button">
+Scary Kids Scaring Kids - The City Sleeps in Flames (2005-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">
 Chiodos - All's Well That Ends Well (2005-07-26)
@@ -270,6 +273,9 @@ Motionless in White - When Love Met Destruction (2009-02-17)
 <li data-cover="https://img.discogs.com/XzaWfi-BngGAQzQ73P3mjOdzc7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692720-1302358066.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
 A Skylit Drive - Adelphia (2009-06-09)
 </li>
+<li data-cover="https://img.discogs.com/Ol6Od8y22PCszrbfRY3qa-Fn7l4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3311219-1520977198-6129.jpeg.jpg" data-tags="electronic" role="button">
+Breathe Carolina - Hello Fascination (2009-08-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
@@ -303,9 +309,6 @@ Asking Alexandria - Reckless & Relentless (2011-04-05)
 <li data-cover="http://coverartarchive.org/release/143fbcad-b633-4b98-a553-3a54b78d989c/6997936845-500.jpg" data-tags="post-hardcore" role="button">
 Sleeping with Sirens - Let's Cheers to This (2011-05-10)
 </li>
-<li data-cover="https://img.discogs.com/FSNVz6ClhLwEqnQppWgCn_Hdp5M=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2955044-1415198215-4656.jpeg.jpg" data-tags="melodic hardcore, hardcore, post-hardcore" role="button">
-Touché Amoré - Parting The Sea Between Brightness And Me (2011-06-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/db01945e-9945-4166-8e89-62daeac038c5/3366772511-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Wildlife (2011-10-04)
 </li>
@@ -314,9 +317,6 @@ Deafheaven - Sunbather (2013-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c2da64b-eeef-41ac-b2f8-d3fee4897f36/5335730495-500.jpg" data-tags="post-hardcore, screamo, melodic hardcore" role="button">
-Touché Amoré - Is Survived By (2013-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcd35a02-5508-48ac-aed1-da82fae6287c/7870056008-500.jpg" data-tags="emo" role="button">
 Hawthorne Heights - The Silence in Black and White (2014-05-20)

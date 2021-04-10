@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:23:01.559Z
+date: 2021-04-10T11:38:01.421Z
 title: "garage rock: 100 albums you must listen to before you die"
 ---
 ![The Dead Weather - Sea of Cowards (2010-05-10)](https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg "The Dead Weather - Sea of Cowards (2010-05-10)")
@@ -183,6 +183,9 @@ The Black Keys - Magic Potion (2006-09-11)
 <li data-cover="https://img.discogs.com/4fUrGfPsFHBjYh100HLseNzxA1Y=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2533610-1289194214.jpeg.jpg" data-tags="rock, hard rock" role="button">
 Jet - Shine On (2006-09-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/c9cc554a-83e2-41d0-a3a6-134797ed36db/26394275573-500.jpg" data-tags="rock, garage rock, punk pop" role="button">
+Foxboro Hot Tubs - Stop Drop and Roll!!! (2007)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
 The Hives - The Black and White Album (2007-01-01)
 </li>
@@ -245,9 +248,6 @@ The Dead Weather - Sea of Cowards (2010-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a40fc6ad-9ec3-4a61-abee-79f06f82f642/2688834974-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Brothers (2010-05-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/5fe93210-1f04-49bc-9101-703067823edf/18432330839-500.jpg" data-tags="rock, garage" role="button">
-Ty Segall - Melted (2010-05-25)
 </li>
 <li data-cover="https://img.discogs.com/m_k2nCelwasdROXYXRkIf_4gA9s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2664562-1509713348-3938.jpeg.jpg" data-tags="indie rock" role="button">
 The Young Veins - Take A Vacation! (2010-06-08)

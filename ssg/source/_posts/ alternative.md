@@ -1,16 +1,16 @@
 ---
-date: 2021-04-09T08:23:01.299Z
+date: 2021-04-10T11:07:01.408Z
 title: " alternative: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/9f861029-3771-4c19-b0fc-e04cdedcd522/24578165858-500.jpg" data-tags="britpop, island records, great groove, where are my headphones, adrien wayne, where is my bong, criterio, weightlifting music, beats for days, pop lament, music to play on mdma, has me dancing even now,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">Pulp - Intro: The Gift Recordings (1993-10-11)</li>
 <li data-cover="https://img.discogs.com/yDktBNc2mqIYK_pEAdzm2ijWeWs=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10054585-1490820659-7104.jpeg.jpg" data-tags="80s, britpop, studiocolombo, buenos,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">Blur - Hit Collection 2000 (2000)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">Pulp - Hits (2002-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/1afe7e41-7c77-4e13-90e5-f170404ad3df/13703071855-500.jpg" data-tags="alternative, brit-pop, alternative britpop, alternative rock, 90s" role="button">Suede - Singles (2003-10-20)</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">Twenty One Pilots - Twenty One Pilots (2009-12-29)</li>
-<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">The White Stripes - Under Great White Northern Lights (2010-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/d1defd81-e7ef-3a2b-b757-73d2a55e43fc/4853051989-500.jpg" data-tags="10s" role="button">Blur - Fool's Day (2010-04-17)</li>
-<li data-cover="http://coverartarchive.org/release/3fe92de6-0681-467c-a298-69e4ed636755/6493547356-500.jpg" data-tags="alternative rock, britpop, energetic, reflective, atmospheric, whimsical, summer, literate, melancholy, irreverent, rainy day, freewheeling, wry, bittersweet, reflection, eerie, raucous, complex, live, drinking, precious, poignant, road trip, playful, sunday afternoon, partying, summery, imagination, rollicking, celebratory, witty, exuberant, campy, bright, sarcastic, live album, lively, tgif, boisterous, brash, open road, gleeful, my cd collection, tugs at me heart strings,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">Blur - Parklive (2012-08-18)</li>
+<li data-cover="http://coverartarchive.org/release/f4a3f76f-959e-46e9-bfdb-59d8ba3066e1/3742879315-500.jpg" data-tags="electronic, rap" role="button">Twenty One Pilots - Regional at Best (2011-07-08)</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">Twenty One Pilots - Vessel (2012-12-26)</li>
 <li data-cover="http://coverartarchive.org/release/4040e134-a3bf-4b54-a0c4-befc4a9c62ed/17987960903-500.jpg" data-tags="britpop, record store day, 2013 releases, rough trade, record store day 2013,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">Pulp - After You (2013-01-28)</li>
 <li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop, glam rock" role="button">Suede - Bloodsports (2013-10-21)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/rrLXdOgc4Kw4pDj_QWrebrd9wgM=/fit-in/431x425/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1618263-1236767376.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Robyn Hitchcock - Black Snake Diamond Role (1981)
-</li>
-<li data-cover="https://img.discogs.com/fFAYSBUiqnABoLJuX35Xzj5h8jM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8741-1223662639.jpeg.jpg" data-tags="indie pop, twee" role="button">
-Pulp - It (1983-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6596b7ae-bad1-4a05-9575-72e837756e89/19023622033-500.jpg" data-tags="britpop, fire records, pop lament,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Pulp - Dogs Are Everywhere (1986-06)
@@ -66,6 +63,9 @@ Blur - Chemical World (1993-06-28)
 <li data-cover="http://coverartarchive.org/release/9f861029-3771-4c19-b0fc-e04cdedcd522/24578165858-500.jpg" data-tags="britpop, island records, great groove, where are my headphones, adrien wayne, where is my bong, criterio, weightlifting music, beats for days, pop lament, music to play on mdma, has me dancing even now,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Pulp - Intro: The Gift Recordings (1993-10-11)
 </li>
+<li data-cover="https://img.discogs.com/CTDl4Tzp1DjbQRJNfN5fPCgJlho=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-302171-1223707485.jpeg.jpg" data-tags="britpop,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
+Pulp - Lipgloss (1993-11-15)
+</li>
 <li data-cover="https://img.discogs.com/x_7blMdDkI4w7p1HklHbFmRFKUw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3570647-1335708670.jpeg.jpg" data-tags="britpop, alternative pop and rock" role="button">
 Suede - Stay Together (1994-02-14)
 </li>
@@ -98,6 +98,9 @@ Blur - The Universal (1995-11-13)
 </li>
 <li data-cover="https://img.discogs.com/uwDHVzix96uEWADEC_ymq0Yl6SE=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15458121-1591957586-6527.jpeg.jpg" data-tags="britpop" role="button">
 Pulp - Disco 2000 (1995-11-27)
+</li>
+<li data-cover="https://img.discogs.com/xRBeukfguDHa87W1QEJkrNvcK5Y=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5594280-1397505523-6788.jpeg.jpg" data-tags="britpop,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
+Pulp - Disco 2000, Part Two (1995-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b15236b-57ca-4219-8056-40869068269c/18960802019-500.jpg" data-tags="britpop, live cafe concerto amsterdam,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Pulp - Cafe Concerto (1996-02)
@@ -141,6 +144,9 @@ The White Stripes - Lafayette Blues (1998-11)
 <li data-cover="http://coverartarchive.org/release/67432b65-2e9a-4219-bea9-646be808a39f/2545958513-500.jpg" data-tags="britpop" role="button">
 Blur - Tender (1999-02-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/7991db32-afe9-47af-9f3f-91c427ef133d/16346212909-500.jpg" data-tags="alternative rock" role="button">
+The White Stripes - The Big Three Killed My Baby (1999-03)
+</li>
 <li data-cover="https://img.discogs.com/TIpTFlz4BuzCXH7Nx5_Ca242gf0=/fit-in/419x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2139227-1316855714.jpeg.jpg" data-tags="britpop,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Suede - Electricity (1999-04-12)
 </li>
@@ -155,6 +161,9 @@ Blur - No Distance Left To Run (1999-11-15)
 </li>
 <li data-cover="https://img.discogs.com/yDktBNc2mqIYK_pEAdzm2ijWeWs=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10054585-1490820659-7104.jpeg.jpg" data-tags="80s, britpop, studiocolombo, buenos,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Blur - Hit Collection 2000 (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/a27ccf0e-5da2-4d47-962d-48d4cc4c1f25/16346030772-500.jpg" data-tags="alternative rock" role="button">
+The White Stripes - Lord, Send Me an Angel (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/f64b2ff3-2195-47e8-b6a4-1269458035db/26925907364-500.jpg" data-tags="alternative rock" role="button">
 The White Stripes - Hello Operator (2000-05-01)
@@ -189,11 +198,11 @@ The White Stripes - Dead Leaves and the Dirty Ground (2002-09-02)
 <li data-cover="https://img.discogs.com/M_gqpk65VIC_2J3vyaTiOY8ijBw=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7452598-1441785579-1698.jpeg.jpg" data-tags="britpop,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
 Suede - Positivity (2002-09-16)
 </li>
-<li data-cover="https://img.discogs.com/wivkqUiui9oW0PJcjiA6PMPvZ8E=/fit-in/475x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5448464-1393623519-8197.jpeg.jpg" data-tags="britpop" role="button">
-Suede - A New Morning (2002-09-26)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock, britpop, sheffield allsorts, fear of music" role="button">
 Pulp - Hits (2002-11-18)
+</li>
+<li data-cover="https://img.discogs.com/9IlvVPJvCfIne0M9q9fC-q2t4uY=/fit-in/596x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2268540-1344507033-1268.jpeg.jpg" data-tags="rock,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
+The White Stripes - B-Sides (2003)
 </li>
 <li data-cover="https://img.discogs.com/BW4KNYtreRgPwGgfomkrP0Jr7UA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13040293-1546972472-6077.jpeg.jpg" data-tags="rock, loud,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
 The White Stripes - There's No Home For You Here (2003)
@@ -270,9 +279,6 @@ The White Stripes - Let's Shake Hands (2009-12-21)
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">
 Twenty One Pilots - Twenty One Pilots (2009-12-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/a68da0f4-1691-342b-82a2-81b9471717cb/14193640527-500.jpg" data-tags="live" role="button">
-The White Stripes - Under Great White Northern Lights (2010-03-15)
-</li>
 <li data-cover="https://img.discogs.com/zhQNA1CxYun3hfw5VL_tGzo79OI=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7987467-1452981566-1386.jpeg.jpg" data-tags="rock, live,  alternative,  garage rock,  alternative rock,  male vocalists,  noughties" role="button">
 The White Stripes - Under Nova Scotian Lights (2010-03-30)
 </li>
@@ -294,9 +300,6 @@ The White Stripes - Hand Springs (2012-04-21)
 <li data-cover="http://coverartarchive.org/release/b087c472-8060-42c3-9a6d-7ea0fe2bb140/1395668762-500.jpg" data-tags="10s" role="button">
 Blur - Under the Westway (2012-07-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/3fe92de6-0681-467c-a298-69e4ed636755/6493547356-500.jpg" data-tags="alternative rock, britpop, energetic, reflective, atmospheric, whimsical, summer, literate, melancholy, irreverent, rainy day, freewheeling, wry, bittersweet, reflection, eerie, raucous, complex, live, drinking, precious, poignant, road trip, playful, sunday afternoon, partying, summery, imagination, rollicking, celebratory, witty, exuberant, campy, bright, sarcastic, live album, lively, tgif, boisterous, brash, open road, gleeful, my cd collection, tugs at me heart strings,  alternative,  alternative rock,  british,  pop rock,  male vocalists" role="button">
-Blur - Parklive (2012-08-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
 Twenty One Pilots - Vessel (2012-12-26)
 </li>
@@ -314,9 +317,6 @@ Scud Mountain Boys - Do You Love the Sun (2013-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop, glam rock" role="button">
 Suede - Bloodsports (2013-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
-Suede - Sci-Fi Lullabies (2013-10-21)
 </li>
 <li data-cover="https://img.discogs.com/zD0IFfEcu3VR-4ANnyoCLmL4b3w=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15506576-1593132099-1106.jpeg.jpg" data-tags="punk, alternative, live, the white stripes, white stripes" role="button">
 The White Stripes - 2005-09-21: The Opera House, Boston, MA, USA (2020-06-00)

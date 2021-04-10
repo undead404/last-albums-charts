@@ -1,10 +1,11 @@
 ---
-date: 2021-04-10T05:40:01.416Z
+date: 2021-04-10T11:15:01.504Z
 title: "american: 100 albums you must listen to before you die"
 ---
 ![The Killers - Hot Fuss (2004-06-07)](https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg "The Killers - Hot Fuss (2004-06-07)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/6g0xy7yhHTeuYHck3I3MiNvQPFk=/fit-in/583x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4600555-1574748843-2249.jpeg.jpg" data-tags="60s, classic rock" role="button">The Turtles - Happy Together (1966)</li>
+<li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">The Flaming Lips - The Soft Bulletin (1999-05-17)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">Maroon 5 - Songs About Jane (2002-06-25)</li>
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/c79bc474-e712-49ff-8185-89b52384ba45/3233872973-500.jpg" data-tags="rock, pop punk" role="button">Paramore - RIOT! (2007-06-11)</li>
@@ -13,7 +14,6 @@ title: "american: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/daaa313f-2f30-39e7-a8f0-511276fc7341/19193385025-500.jpg" data-tags="indie rock" role="button">The National - High Violet (2010-05-10)</li>
 <li data-cover="http://coverartarchive.org/release/386e22bc-d967-4224-98cc-13ec5315751b/4625733651-500.jpg" data-tags="indie, folk rock, indie folk" role="button">The Decemberists - The King Is Dead (2011-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/9c594592-eea2-4779-892d-8dcf16ef33f0/3163963131-500.jpg" data-tags="folk" role="button">The Lumineers - The Lumineers (2012-04-03)</li>
-<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">Rae Sremmurd - SremmLife (2015-01-06)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -51,9 +51,6 @@ Jeff Buckley - Grace (1994-08-15)
 <li data-cover="http://coverartarchive.org/release/761086d5-3b0d-4fce-a9df-9a646b4e373b/14847715902-500.jpg" data-tags="rock, alternative" role="button">
 Rage Against the Machine - Evil Empire (1996-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative" role="button">
-Fiona Apple - Tidal (1996-07-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">
 Weezer - Pinkerton (1996-08-24)
 </li>
@@ -66,6 +63,9 @@ Will Smith - Big Willie Style (1997-11-24)
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
+<li data-cover="https://img.discogs.com/FAGWC194GFMHIrVYWKb_9o7L9Kk=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-607977-1360109255-6006.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+Wheatus - Wheatus (2000-08-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/d408943f-fa02-4ddd-beac-8b575ba6777a/16967352324-500.jpg" data-tags="rock" role="button">
 Dave Matthews Band - Everyday (2001-02-27)
 </li>
@@ -77,6 +77,9 @@ Black Rebel Motorcycle Club - B.R.M.C. (2001-04-03)
 </li>
 <li data-cover="https://img.discogs.com/mtkGbv_VMPU89YRc3gDEewalxks=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472533-1241059996.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/ac2bebbe-07a6-40f5-85b1-48872975741d/4606563596-500.jpg" data-tags="rock" role="button">
+The Calling - Camino Palmero (2001-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
@@ -104,6 +107,9 @@ TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
 <li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
 The Killers - Hot Fuss (2004-06-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
+Wilco - A Ghost is Born (2004-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b97be74-25cf-487a-9a55-905f8b61a222/27975675575-500.jpg" data-tags="pop" role="button">
 JoJo - JoJo (2004-06-22)
@@ -188,9 +194,6 @@ Mario - Go (2007-12-10)
 </li>
 <li data-cover="https://img.discogs.com/8OFhniN6H9plwoICLAB9NzXQYHY=/fit-in/500x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1269113-1386674652-1391.jpeg.jpg" data-tags="electronic, indietronica" role="button">
 MGMT - Time To Pretend (2007-12-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/b76a7d36-f707-44c3-9274-786929552cf4/6658448923-500.jpg" data-tags="indie, rock" role="button">
-Nada Surf - Lucky (2008-02-04)
 </li>
 <li data-cover="https://img.discogs.com/Q2IHdszmdJODyjtNQF6_RfI7oqY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382098-1604161579-9613.jpeg.jpg" data-tags="indie, folk, american, 00s" role="button">
 Shearwater - Rook (2008-06-03)
@@ -317,8 +320,5 @@ The Chainsmokers - #SELFIE (2014-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d3f896d-43c2-4bec-b3bc-c876b6dffdd5/26941961357-500.jpg" data-tags="indie rock, indie pop" role="button">
 Walk the Moon - Talking Is Hard (2014-11-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8ec0f38-0c86-48b0-8dbb-a7835e91c871/9243530061-500.jpg" data-tags="hip-hop, hip hop, rap, urban, american, fucking awesome, 10s, from another world, 2015 albums, albums 2015, rae sremmurd, swae lee, slim jxmmi" role="button">
-Rae Sremmurd - SremmLife (2015-01-06)
 </li>
 </ol>

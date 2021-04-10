@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:51:01.405Z
+date: 2021-04-10T11:31:12.732Z
 title: "power metal: 100 albums you must listen to before you die"
 ---
 ![Sabaton - Coat of Arms (2010-05-21)](https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg "Sabaton - Coat of Arms (2010-05-21)")
@@ -9,11 +9,11 @@ title: "power metal: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/fP5jvT-BSW7YO6dwDipT8W2oAmY=/fit-in/590x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4316303-1361555276-1363.jpeg.jpg" data-tags="symphonic metal" role="button">Nightwish - Wishmaster (2000-05-02)</li>
 <li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Silence (2001-01)</li>
 <li data-cover="http://coverartarchive.org/release/9f34075b-ed8f-4582-bc65-29c8cd0dd662/13245906998-500.jpg" data-tags="power metal" role="button">DragonForce - Sonic Firestorm (2004-03-24)</li>
+<li data-cover="https://img.discogs.com/NE8MbLeSqyI38QRActTLCnKZhgY=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196283-1358239561-7690.jpeg.jpg" data-tags="power metal" role="button">Sonata Arctica - Reckoning Night (2004-10-06)</li>
 <li data-cover="http://coverartarchive.org/release/0c651f89-8875-411a-b9cf-176d3056d79d/4621307167-500.jpg" data-tags="power metal" role="button">DragonForce - Inhuman Rampage (2005-12-28)</li>
 <li data-cover="http://coverartarchive.org/release/b3f9e375-2225-478b-b66f-2b100bedd56e/16333876658-500.jpg" data-tags="symphonic metal" role="button">Nightwish - Dark Passion Play (2007-09-26)</li>
 <li data-cover="https://img.discogs.com/7-kMUmFdSyBS3gp0q5PgjHxrukA=/fit-in/310x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6408030-1418487180-9766.jpeg.jpg" data-tags="power metal" role="button">Sabaton - Coat of Arms (2010-05-21)</li>
 <li data-cover="http://coverartarchive.org/release/714ae6d3-196b-4c92-9825-797ddbb104af/12224155771-500.jpg" data-tags="power metal" role="button">Sabaton - Carolus Rex (2012-05-22)</li>
-<li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">Amaranthe - The Nexus (2013-03-13)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -156,6 +156,9 @@ Dream Evil - Dragonslayer (2002-04-10)
 <li data-cover="http://coverartarchive.org/release/a0d8f3e3-58f8-4990-908a-1158dd70d9c2/5961013286-500.jpg" data-tags="heavy metal" role="button">
 Manowar - Warriors of the World (2002-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/8f9630af-1876-4a77-a33e-9d4cdca35ec0/17223666119-500.jpg" data-tags="power metal" role="button">
+Freedom Call - Eternity (2002-06-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae07d037-3f41-3593-924b-92dfbc6bcb27/2124312135-500.jpg" data-tags="symphonic metal" role="button">
 Nightwish - Century Child (2002-06-24)
 </li>
@@ -291,8 +294,8 @@ Sabaton - Coat of Arms (2010-05-21)
 <li data-cover="https://img.discogs.com/O58cLxHCB5x0heWdmiOUA4WGle8=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1926153-1481137640-6021.jpeg.jpg" data-tags="power metal" role="button">
 Blind Guardian - At the Edge of Time (2010-07-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5f25fc0-1041-494c-81bf-94cf6c84f11d/9774641652-500.jpg" data-tags="melodic death metal, modern metal, power metal" role="button">
-Amaranthe - Amaranthe (2011-04-11)
+<li data-cover="http://coverartarchive.org/release/b60901a1-4012-47f1-9524-b0c09939d00a/8368452395-500.jpg" data-tags="power metal" role="button">
+Helloween - 7 Sinners (2010-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c0f0ece-6477-47f4-a158-4d21d809d007/11058813454-500.jpg" data-tags="power metal" role="button">
 Powerwolf - Blood of the Saints (2011-07-29)
@@ -305,9 +308,6 @@ Sabaton - Carolus Rex (2012-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/604eb43a-153c-4b63-92e6-ae59eca19505/2175641483-500.jpg" data-tags="melodic death metal, symphonic metal, progressive blackened homoerotic weeaboo metal, leather daddy rape soundtrack, misanthropic gay romance nostalgia metal, neo-erotic spandex metal" role="button">
 Wintersun - Time I (2012-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b61a363-32eb-4ee3-8d6b-e7b87d17457a/10071317904-500.jpg" data-tags="power metal" role="button">
-Amaranthe - The Nexus (2013-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)

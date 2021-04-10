@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T06:33:01.428Z
+date: 2021-04-10T10:47:01.438Z
 title: "hard rock: 100 albums you must listen to before you die"
 ---
 ![AC&#x2F;DC - Back in Black (1980-07-25)](http://coverartarchive.org/release/38914b29-7788-4cff-80b7-1ced523f8675/11333065513-500.jpg "AC/DC - Back in Black (1980-07-25)")
@@ -54,14 +54,14 @@ Led Zeppelin - Physical Graffiti (1975-02-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Aerosmith - Toys in the Attic (1975-04-08)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">
+Queen - A Night at the Opera (1975-11-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/5c1032af-2d86-424b-963e-dd9e65f7281b/1287531128-500.jpg" data-tags="hard rock, classic rock" role="button">
 Led Zeppelin - Presence (1976-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/9cb006e6-aa89-4938-b2b2-a14dcca08e59/13356578915-500.jpg" data-tags="hard rock" role="button">
 AC/DC - High Voltage (1976-05-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="classic rock" role="button">
-Boston - Boston (1976-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/92746377-783d-3355-af9d-229a6edfd6ff/7383924116-500.jpg" data-tags="hard rock" role="button">
 AC/DC - Let There Be Rock (1977-03-21)
@@ -81,8 +81,8 @@ Van Halen - 1984 (1983)
 <li data-cover="http://coverartarchive.org/release/24335da0-8587-3d50-931e-082b7cf42cd7/20733595394-500.jpg" data-tags="hard rock" role="button">
 Scorpions - Love at First Sting (1984)
 </li>
-<li data-cover="https://img.discogs.com/nOEna0s-x0VMH8RYTIGFaPXXoNE=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7580053-1444472249-3116.jpeg.jpg" data-tags="hard rock, rock, 80s" role="button">
-Bon Jovi - Slippery When Wet (1986-08-25)
+<li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
+AC/DC - Who Made Who (1986-05-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Guns N' Roses - Appetite for Destruction (1987-07-21)

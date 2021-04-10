@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:05:01.493Z
+date: 2021-04-10T11:34:01.443Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -9,7 +9,7 @@ title: "britpop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">The Verve - Urban Hymns (1997-09-29)</li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">Coldplay - Parachutes (2000-07-10)</li>
 <li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">Coldplay - A Rush of Blood to the Head (2002-08-12)</li>
-<li data-cover="http://coverartarchive.org/release/2b3a7d38-3a84-368a-8609-e7486f203182/16097162874-500.jpg" data-tags="keane, britpop" role="button">Keane - Hopes and Fears (2004-05-10)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">Coldplay - X&Y (2005-06-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">Kasabian - Empire (2006-08-25)</li>
 <li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)</li>
 <li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">Coldplay - Viva la Vida (2008-06-11)</li>
@@ -66,6 +66,9 @@ Pulp - Different Class (1995-10-30)
 <li data-cover="http://coverartarchive.org/release/ea7092af-c2f7-4a52-bf3a-48b94d122bd4/14896150532-500.jpg" data-tags="britpop, rock" role="button">
 Ocean Colour Scene - Moseley Shoals (1996-04-08)
 </li>
+<li data-cover="https://img.discogs.com/BcS5KvjsQrcJcmIU_fGCojexqU0=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6101905-1411118419-6315.jpeg.jpg" data-tags="indie rock, britpop, 90s, rock" role="button">
+Ash - 1977 (1996-04-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/dfaaddd9-622e-4e46-a572-4a6363abb1fb/14359140360-500.jpg" data-tags="britpop, rock, 90s" role="button">
 Manic Street Preachers - Everything Must Go (1996-05-20)
 </li>
@@ -75,8 +78,14 @@ Placebo - Placebo (1996-06-12)
 <li data-cover="https://img.discogs.com/PJsTNfcs0chZc2eCLJQ_BFWzNCQ=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13125301-1548508144-6281.jpeg.jpg" data-tags="britpop" role="button">
 Suede - Coming Up (1996-09-02)
 </li>
+<li data-cover="https://img.discogs.com/bKLM6SMqyE12lJfmxCJ-tmr17SM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-758061-1400515232-9967.jpeg.jpg" data-tags="britpop" role="button">
+Kula Shaker - K (1996-09-11)
+</li>
 <li data-cover="https://img.discogs.com/19Ohn_Om1CiWhELG3lzXVkC8F-M=/fit-in/600x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5351520-1391257193-7836.jpeg.jpg" data-tags="britpop" role="button">
 Blur - Blur (1997-01-29)
+</li>
+<li data-cover="https://img.discogs.com/01JvMK0QTMFHYPJhO8WFK7ZxCCo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-977325-1450038680-1516.jpeg.jpg" data-tags="britpop" role="button">
+Supergrass - In It for the Money (1997-04-21)
 </li>
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
@@ -179,9 +188,6 @@ Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/2b3a7d38-3a84-368a-8609-e7486f203182/16097162874-500.jpg" data-tags="keane, britpop" role="button">
-Keane - Hopes and Fears (2004-05-10)
 </li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
@@ -303,17 +309,11 @@ Oasis - Dig Out Your Soul (2008-10-01)
 <li data-cover="https://img.discogs.com/kJ4wLalFEADFJLPeMcKLqSchBdc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541080-1576383388-7770.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
 Kaiser Chiefs - Off with Their Heads (2008-10-17)
 </li>
-<li data-cover="https://img.discogs.com/YsK8Ta9EizoLHPgxNAi6-gEzA9Y=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1494954-1223975134.jpeg.jpg" data-tags="britpop" role="button">
-Keane - Perfect Symmetry (2008-12-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/9394804c-b1f7-4ff1-9539-8f996a7feb7b/15824307211-500.jpg" data-tags="rock, coldplay, britpop" role="button">
 Coldplay - Every Teardrop Is a Waterfall (2011-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
 Coldplay - Mylo Xyloto (2011-10-19)
-</li>
-<li data-cover="https://img.discogs.com/rpgQAP5BAJXCNQ8MRpdEF4eyK-I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6914456-1429398271-3427.jpeg.jpg" data-tags="britpop, alternative rock" role="button">
-Keane - Strangeland (2012-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
 Suede - Suede (2013-10-21)

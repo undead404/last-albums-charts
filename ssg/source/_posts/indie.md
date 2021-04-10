@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T10:18:01.508Z
+date: 2021-04-10T11:33:01.663Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
@@ -87,9 +87,6 @@ Franz Ferdinand - Franz Ferdinand (2004-02-09)
 <li data-cover="http://coverartarchive.org/release/ae7e41d6-ea04-455b-9107-80a94a24443c/12241028609-500.jpg" data-tags="indie rock, indie" role="button">
 Modest Mouse - Good News For People Who Love Bad News (2004-04-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2b3a7d38-3a84-368a-8609-e7486f203182/16097162874-500.jpg" data-tags="keane, britpop" role="button">
-Keane - Hopes and Fears (2004-05-10)
-</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
@@ -128,9 +125,6 @@ The Decemberists - Picaresque (2005-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/2f6d6830-e03c-4709-86ce-c0a2eb9e8c31/20089518568-500.jpg" data-tags="indie, folk" role="button">
 Sufjan Stevens - Illinois (2005-07-04)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
-The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, indie" role="button">
 OK Go - Oh No (2005-08-16)
@@ -267,6 +261,9 @@ The xx - xx (2009-08-14)
 <li data-cover="http://coverartarchive.org/release/0b1b5da2-82ca-3593-8271-f1236a732613/15846225993-500.jpg" data-tags="psychedelic rock, indie rock" role="button">
 Arctic Monkeys - Humbug (2009-08-19)
 </li>
+<li data-cover="https://img.discogs.com/p__qwB22Af-f2Y0Yr-lLPWyJ9JQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993310-1257429489.jpeg.jpg" data-tags="indie" role="button">
+Julian Casablancas - Phrazes For The Young (2009-10-30)
+</li>
 <li data-cover="https://img.discogs.com/4bhWHw7aMVxygwT4WoCJBZ0I1W8=/fit-in/539x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2044862-1260541326.jpeg.jpg" data-tags="indie" role="button">
 Local Natives - Gorilla Manor (2009-11-02)
 </li>
@@ -278,6 +275,9 @@ MGMT - Congratulations (2010-04-07)
 </li>
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
+</li>
+<li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
+The Strokes - Angles (2011-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg" data-tags="indie pop" role="button">
 Foster the People - Torches (2011-05-23)

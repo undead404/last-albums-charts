@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:49:01.519Z
+date: 2021-04-10T11:19:18.177Z
 title: "alternative dance: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Reflektor (2013-09-09)](http://coverartarchive.org/release/660b4600-6d15-46c7-986b-650c26b97ddf/11070767669-500.jpg "Arcade Fire - Reflektor (2013-09-09)")
@@ -45,6 +45,9 @@ Primal Scream - Screamadelica (1991-09-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie pop" role="button">
 The Lightning Seeds - Sense (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/a43d038f-32ba-449d-84dd-6dec49940aa8/25926755072-500.jpg" data-tags="alternative dance" role="button">
+The Farm - Love See No Colour (1992-10-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/0fda76fb-e002-4bb3-89fa-050c766d4f82/7594221494-500.jpg" data-tags="90s, new wave, synthpop" role="button">
 New Order - Republic (1993-04-27)
 </li>
@@ -63,9 +66,6 @@ Everything But the Girl - Walking Wounded (1996-05-21)
 <li data-cover="http://coverartarchive.org/release/06cf1467-1631-423a-b680-072225a7cc4f/14766461634-500.jpg" data-tags="90s" role="button">
 White Town - Women In Technology (1997-02-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/8a36348d-c96b-46c3-adc6-faf765597a07/15933513236-500.jpg" data-tags="rock argentino, rock en espanol, electronic" role="button">
-Gustavo Cerati - Bocanada (1999-06-28)
-</li>
 <li data-cover="https://img.discogs.com/VIpU-Z7PXAoxSl9YpyaPRnuL6y8=/fit-in/572x501/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3829096-1346034063-6580.jpeg.jpg" data-tags="alternative, funk, 90s" role="button">
 Beck - Midnite Vultures (1999-11-20)
 </li>
@@ -83,6 +83,12 @@ The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
 </li>
 <li data-cover="https://img.discogs.com/fHAI9p_rX7ieIWjt9ZwdG2igyIs=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-108877-1370639233-7460.jpeg.jpg" data-tags="electronic" role="button">
 Erlend Øye - Unrest (2003-02-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/b8a2581c-f325-3515-8144-fa3e714a43c4/15823569862-500.jpg" data-tags="j-pop, inspiring, ayumi hamasaki, mainstream artists that actually experiment with different genres and succeed" role="button">
+浜崎あゆみ - Memorial address (2003-12-17)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop" role="button">
+Hilary Duff - Come Clean (2004-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
@@ -108,14 +114,11 @@ Dope Stars Inc. - Gigahearts (2006-12-01)
 <li data-cover="http://coverartarchive.org/release/05fe737d-09f8-4dd1-8e9f-2f45329a801a/2094785277-500.jpg" data-tags="electronic" role="button">
 Metronomy - Nights Out (2007)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop, dance, teen pop" role="button">
-Aly & AJ - Insomniatic (2007-07-10)
+<li data-cover="https://img.discogs.com/f7__Lk0Pzcc6oc5LPnxSwsCu9nE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-912093-1248848106.jpeg.jpg" data-tags="electropop, female vocalist, electronic" role="button">
+Tracey Thorn - Out Of The Woods (2007-03-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/114af478-2f11-4832-8db2-f52b04ec90e1/6440753475-500.jpg" data-tags="french" role="button">
-Yelle - Pop Up (2007-09-03)
 </li>
 <li data-cover="https://img.discogs.com/HMcN6wd3h0rFHmI6igA_kToF8ek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3823203-1345819377-3987.jpeg.jpg" data-tags="alternative dance" role="button">
 Bloc Party - Flux (2007-11-12)
@@ -273,6 +276,9 @@ James Blake - Overgrown (2013-04-05)
 <li data-cover="http://coverartarchive.org/release/973b2b04-71dd-4d49-a4bd-1675fd5f717e/5527585795-500.jpg" data-tags="alternative rock, french, indie rock" role="button">
 Phoenix - Bankrupt! (2013-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/4220331b-1236-405e-b36b-0dc7050f3ab2/18876982277-500.jpg" data-tags="synthpop" role="button">
+Little Boots - Nocturnes (2013-05-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/698ce3c2-e84b-4e85-b60b-1e0cb25969f0/14501283915-500.jpg" data-tags="alternative dance, neo-psychedelia" role="button">
 Primal Scream - More Light (2013-05-08)
 </li>
@@ -284,12 +290,6 @@ Empire of the Sun - Ice on the Dune (2013-06-14)
 </li>
 <li data-cover="https://img.discogs.com/X56TsAaQVcGJByBtuBvgWIlUTDc=/fit-in/392x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1565810-1228855541.jpeg.jpg" data-tags="synthpop" role="button">
 Pet Shop Boys - Electric (2013-07-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/3473d4a9-a56e-4a31-a6a0-852eab8cd533/5102500960-500.jpg" data-tags="electronic, pop, synthpop, rnb" role="button">
-AlunaGeorge - Body Music (2013-07-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/85e2a875-f9be-4cb3-bd75-eb5c17ca3147/4924262436-500.jpg" data-tags="electronic" role="button">
-Moderat - II (2013-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2b87af-2774-4575-a72a-db31c8865264/5068034405-500.jpg" data-tags="indie rock, indie pop" role="button">
 The 1975 - The 1975 (2013-08-30)

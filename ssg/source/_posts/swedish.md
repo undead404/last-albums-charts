@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T02:43:01.411Z
+date: 2021-04-10T10:53:01.407Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/a3ce24a2-ddd3-3b38-93f6-aed1e16b4c74/18286980985-500.jpg" data-tags="pop" role="button">
+ABBA - Ring Ring (1973-03-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/c549b917-ad9c-454f-bcdd-1a7b52de1455/7439486158-500.jpg" data-tags="pop, abba, disco, 70s" role="button">
 ABBA - ABBA (1975-04-21)
 </li>
@@ -35,6 +38,9 @@ ABBA - Super Trouper (1980-11-03)
 </li>
 <li data-cover="https://img.discogs.com/0NOMf8Yk7O_Djhb8UPJDdvuWEOc=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12255979-1531540052-2119.jpeg.jpg" data-tags="roxette, 90s, pop" role="button">
 Roxette - Joyride (1991-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/8dbf89dc-ff9e-45e3-ac43-2b82afee28ad/7443972996-500.jpg" data-tags="pop, 90s" role="button">
+Roxette - Crash! Boom! Bang! (1994-04-08)
 </li>
 <li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
@@ -54,6 +60,9 @@ Kent - Isola (1997-11-12)
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
+<li data-cover="https://img.discogs.com/aB98AUrTDJyR3IiyDmnhBcinzws=/fit-in/447x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3722269-1381563297-2806.jpeg.jpg" data-tags="rock, swedish, singer-songwriter, svenskt, quiet, favorit, 1990s, my cds, blandband, singer-songeriter" role="button">
+Lars Winnerbäck - Kom (1999-09-24)
+</li>
 <li data-cover="https://img.discogs.com/TJPW6ra3O4_N4fCjOP_xUjyJHis=/fit-in/600x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8291557-1458755518-8037.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Hagnesta Hill (1999-12-06)
 </li>
@@ -63,17 +72,20 @@ The Hives - Veni Vidi Vicious (2000-04-10)
 <li data-cover="http://coverartarchive.org/release/9c35f3d0-01fa-472d-a123-a89ac3d3c878/7394881559-500.jpg" data-tags="swedish, indiepop, glam rock" role="button">
 The Ark - We Are The Ark (2000-09-25)
 </li>
-<li data-cover="https://img.discogs.com/2ZLdfJiam29oAkj3sQKWB2CW-C0=/fit-in/600x913/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-834020-1355477107-9091.jpeg.jpg" data-tags="electronic" role="button">
-The Knife - The Knife (2001-02-05)
-</li>
 <li data-cover="https://img.discogs.com/vGIBafEprVpEk6Hin7hrq1C-S2I=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2280090-1274122601.jpeg.jpg" data-tags="progressive death metal, progressive metal" role="button">
 Opeth - Blackwater Park (2001-03-12)
 </li>
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
 Sahara Hotnights - Jennie Bomb (2001-05-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/6405292b-514d-4ed5-a9dd-bf6b0aa8f959/13933306824-500.jpg" data-tags="electronica, swedish, sweden, school, patricxxx" role="button">
+Titiyo - Come Along (2001-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/1e8a5e99-021d-4737-9ddc-c8c1fec08fe0/3370038331-500.jpg" data-tags="indie rock, rock, swedish" role="button">
 The Sounds - Living in America (2002)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, alternative, swedish" role="button">
+Håkan Hellström - Luften bor i mina steg (2002-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f69b764c-3df8-4a32-9195-6868eb08b47a/5243122074-500.jpg" data-tags="industrial metal" role="button">
 Pain - Nothing Remains The Same (2002-01-23)
@@ -86,6 +98,9 @@ Caesars - Jerk It Out (2003-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac28d08e-aada-38e0-bdb3-7307618bcbe7/16232910297-500.jpg" data-tags="the cardigans, pop, rock, female vocalists" role="button">
 The Cardigans - Long Gone Before Daylight (2003-03-24)
+</li>
+<li data-cover="https://img.discogs.com/4PueUa2kLI6y5kROVwkYIn9VfyU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3893224-1348330338-2171.jpeg.jpg" data-tags="swedish" role="button">
+Moneybrother - Blood Panic (2003-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/69e16928-4321-3b7e-a191-7b3264e5ba49/3974188466-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 José González - Veneer (2003-10)
@@ -110,9 +125,6 @@ Mando Diao - Hurricane Bar (2004-09-08)
 </li>
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/a061a57a-9057-48cb-a24d-e32ba1ef680f/1503563272-500.jpg" data-tags="indie, swedish" role="button">
-Acid House Kings - Sing Along With Acid House Kings (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/364e35ec-623f-3ee6-afe8-9259dbf1cb24/20163135224-500.jpg" data-tags="indie, rock" role="button">
 Johnossi - Johnossi (2005-01-26)
@@ -147,9 +159,6 @@ The Sounds - Dying to Say This to You (2006-03-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="swedish" role="button">
 José González - Crosses (2006-04-10)
 </li>
-<li data-cover="https://img.discogs.com/dDI15rdff1NXbIOYQIdL9qnye_c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704903-1190669755.jpeg.jpg" data-tags="swedish, female vocalists" role="button">
-El Perro del Mar - El Perro Del Mar (2006-04-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/18056805-33f5-3e99-aa4b-5f5919c4f8af/21340810572-500.jpg" data-tags="shoegaze, indie" role="button">
 The Radio Dept. - Pet Grief (2006-04-12)
 </li>
@@ -158,6 +167,9 @@ Peter Bjorn and John - Writer's Block (2006-08-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, garage rock, alternative rock" role="button">
 The Hives - The Black and White Album (2007-01-01)
+</li>
+<li data-cover="https://img.discogs.com/TeCkwY41fbggOZzAI-DG4VUo460=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-955547-1177105359.jpeg.jpg" data-tags="rock, swedish" role="button">
+Sahara Hotnights - What if Leaving is a Loving Thing (2007-04-18)
 </li>
 <li data-cover="https://img.discogs.com/uYeOKQjJxNJW-8cbGTjaqk4CKr0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189055-1199463190.jpeg.jpg" data-tags="melodic death metal" role="button">
 Sonic Syndicate - Only Inhuman (2007-04-25)
@@ -222,14 +234,8 @@ Mando Diao - Give Me Fire (2009-02-13)
 <li data-cover="http://coverartarchive.org/release/9606c822-2b6a-4a9e-8847-1e0ca0e43a56/3350243808-500.jpg" data-tags="indie pop" role="button">
 Peter Bjorn and John - Living Thing (2009-03-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/a95a890f-c2be-4edd-b98e-f86421d63dab/7888128153-500.jpg" data-tags="metalcore, pop metal, modern metal" role="button">
-Dead by April - Dead by April (2009-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/519a8e3d-d659-473c-baca-22af71cbc463/18234312935-500.jpg" data-tags="electronic, electronica, summer" role="button">
 jj - jj n° 2 (2009-06-01)
-</li>
-<li data-cover="https://img.discogs.com/bp3QB6PymXeiI_Qej9FuLdAMmOw=/fit-in/408x405/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2912134-1311324602.jpeg.jpg" data-tags="swedish, folk, female singer songwriter, svenska, melissa horn, skandinawien, m horn" role="button">
-Melissa Horn - Säg ingenting till mig (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/57e289f1-eaf0-4adc-bd7a-d06577e739a7/973535414-500.jpg" data-tags="swedish" role="button">
 Kent - Röd (2009-11-05)
@@ -248,6 +254,9 @@ The Radio Dept. - Clinging to a Scheme (2010-04-19)
 </li>
 <li data-cover="https://img.discogs.com/HkebpGdFZnYhGEobY3j3sWs8lE4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2336448-1277852804.jpeg.jpg" data-tags="pop, swedish" role="button">
 Amanda Jenssen - Happyland (2010-04-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/a91a8331-6e11-41bb-ba4e-bd8cfe348ed5/4785229966-500.jpg" data-tags="indie" role="button">
+Johnossi - Mavericks (2010-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/90c1d0fe-95d7-4d72-b807-c69a2e99400f/24223192647-500.jpg" data-tags="swedish, indietronica" role="button">
 Ceo - White Magic (2010-06-28)
@@ -273,9 +282,6 @@ Peter Bjorn and John - Gimme Some (2011-03-28)
 <li data-cover="http://coverartarchive.org/release/09d67cf4-23bc-4213-a560-c6f4adcbe336/27167280969-500.jpg" data-tags="swedish, svenskt, female vocalist, 10s, swedish poprock" role="button">
 Veronica Maggio - Satan i gatan (2011-04-27)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd28bdf0-4610-49ac-97db-800dcff5cca6/10744966085-500.jpg" data-tags="folk" role="button">
 First Aid Kit - The Lion's Roar (2012-01-17)
 </li>
@@ -291,6 +297,9 @@ Sabaton - Carolus Rex (2012-05-22)
 <li data-cover="http://coverartarchive.org/release/b204ad72-f666-427d-82ee-de4add53c7ab/5331069642-500.jpg" data-tags="rock, garage rock" role="button">
 The Hives - Lex Hives (2012-06-01)
 </li>
+<li data-cover="https://img.discogs.com/rs2cYoKZ_xCsER4doGIDD6JK0k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6896913-1429014662-4347.jpeg.jpg" data-tags="electronic" role="button">
+iamamiwhoami - kin (2012-06-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
 The Knife - Shaking the Habitual (2013-04-05)
 </li>
@@ -303,20 +312,11 @@ Say Lou Lou - Julian (2013-05-03)
 <li data-cover="http://coverartarchive.org/release/d5baa187-0ebd-4738-8b37-2499adb0a6ac/5267464883-500.jpg" data-tags="pop" role="button">
 Icona Pop - This Is... Icona Pop (2013-08-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/a3584b83-aac2-43ae-a706-4d2f712e236a/6851479419-500.jpg" data-tags="pop" role="button">
-Tove Lo - Truth Serum (2014-01-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/65c40061-a510-4b35-b26b-c23acb386d30/6908247974-500.jpg" data-tags="swedish, 2014 albums, elliphant" role="button">
-Elliphant - Look Like You Love It (2014-04-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/0191b484-34a2-4e81-b359-efd5fe5aced7/27549744046-500.jpg" data-tags="swedish" role="button">
 Kent - Tigerdrottningen (2014-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c6e0890-881d-4a4c-a6a9-5b31bb4775a3/7211284397-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - I Never Learn (2014-05-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/a9c5605d-d526-4222-86b9-c3adb2719d13/7037161308-500.jpg" data-tags="electronic" role="button">
-Röyksopp & Robyn - Do It Again (2014-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ddd2b42-af35-4502-9ab7-0b579aaf4c28/15388316018-500.jpg" data-tags="pop" role="button">
 Tove Lo - Queen of the Clouds (2014-09-24)

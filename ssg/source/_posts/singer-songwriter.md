@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:36:01.480Z
+date: 2021-04-10T11:45:01.871Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -42,6 +42,9 @@ Carole King - Tapestry (1971-01-30)
 <li data-cover="http://coverartarchive.org/release/243fb7b0-e7f3-42e8-bdfc-a66fd9e23d0e/11322846424-500.jpg" data-tags="folk" role="button">
 Joni Mitchell - Blue (1971-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/bb224bc4-27f8-4b46-9c46-75d13873454e/11052080256-500.jpg" data-tags="singer-songwriter, 70s" role="button">
+Cat Stevens - Teaser and the Firecat (1971-10-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/dbeb851b-ad68-43ab-9706-7f1ecd2bf59d/21251802402-500.jpg" data-tags="classic rock, 70s, rock" role="button">
 John Lennon - Imagine (1971-10-11)
 </li>
@@ -63,9 +66,6 @@ Bob Dylan - Blood on the Tracks (1975-01-20)
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
 </li>
-<li data-cover="http://coverartarchive.org/release/66b1a283-08e3-4096-b4b6-38bb8cba30ab/6560076366-500.jpg" data-tags="alternative, piano, female vocalists, 90s" role="button">
-Tori Amos - Little Earthquakes (1992-01-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/c507e78c-4f02-4765-8ca4-1d919bbde08c/9574171273-500.jpg" data-tags="blues, experimental, singer-songwriter" role="button">
 Tom Waits - Bone Machine (1992-08)
 </li>
@@ -86,9 +86,6 @@ Bruce Springsteen - Greatest Hits (1995-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ae37385-e7cd-46cc-a53b-79cf364d2f60/9535453834-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Elliott Smith (1995-07-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/e1bba6de-84e1-37db-9123-6901cb01ec8d/1402280819-500.jpg" data-tags="female vocalists, alternative" role="button">
-Fiona Apple - Tidal (1996-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e/18047694847-500.jpg" data-tags="singer-songwriter" role="button">
 Elliott Smith - Either/Or (1997-02-25)
@@ -168,6 +165,9 @@ James Blunt - Back to Bedlam (2004-04-15)
 <li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
 Alanis Morissette - So-Called Chaos (2004-04-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/570e3951-5811-462e-af10-a5571406d2e1/16436830735-500.jpg" data-tags="acoustic, folk pop surf singer, surf" role="button">
+Donavon Frankenreiter - Donavon Frankenreiter (2004-05-11)
+</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
@@ -194,9 +194,6 @@ Jack Johnson - In Between Dreams (2005-02-28)
 </li>
 <li data-cover="https://img.discogs.com/gFS5maU7k9Ve_dROF17h9wCtNUg=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061572-1189108115.jpeg.jpg" data-tags="female vocalists" role="button">
 Fiona Apple - Extraordinary Machine (2005-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/9c960edc-6d64-4224-91cb-ad5d190687a4/13095766194-500.jpg" data-tags="piano, singer-songwriter, piano rock" role="button">
-Ben Folds - Songs For Silverman (2005-04-13)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
@@ -260,6 +257,9 @@ Kate Nash - Made of Bricks (2007-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/1f535139-1a00-4da7-89cc-94cb50ceb44d/3886056504-500.jpg" data-tags="indie folk, indie, indie rock, singer-songwriter, autumn" role="button">
+Sea Wolf - Leaves In The River (2007-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)

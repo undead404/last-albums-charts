@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T09:45:01.760Z
+date: 2021-04-10T11:18:01.539Z
 title: "rock: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -83,6 +83,9 @@ Foo Fighters - There Is Nothing Left to Lose (1999-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
+A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
 Coldplay - Parachutes (2000-07-10)
@@ -209,9 +212,6 @@ Audioslave - Out of Exile (2005-05-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative, the fray, rock" role="button">
-The Fray - How to Save a Life (2005-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)

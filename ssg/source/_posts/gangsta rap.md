@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:27:01.407Z
+date: 2021-04-10T10:58:01.409Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -27,6 +27,9 @@ Above the Law - Livin' Like Hustlers (1989-12)
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/ae103b0a-b932-4009-acb6-388db1cf890b/17852073991-500.jpg" data-tags="rap, hip-hop" role="button">
+Vanilla Ice - To The Extreme (1990-09-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
 N.W.A - Niggaz4Life (1991-05-28)
 </li>
@@ -35,9 +38,6 @@ DJ Quik - Quik Is The Name (1991-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd9ca32-2709-43bc-9cab-f4ebe02d284a/15950998521-500.jpg" data-tags="gangsta rap, southern rap" role="button">
 Geto Boys - We Can't Be Stopped (1991-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/291a821a-f1f3-4205-9abe-4a037c2b76ad/5860290031-500.jpg" data-tags="gangsta rap, golden age, rap, west coast" role="button">
-Ice Cube - Death Certificate (1991-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">
 2Pac - 2Pacalypse Now (1991-11-12)
@@ -63,9 +63,6 @@ Cypress Hill - Black Sunday (1993-07-20)
 <li data-cover="http://coverartarchive.org/release/ad4bfef3-3a8f-4dda-8d0f-56d39e35a654/22381675096-500.jpg" data-tags="gangsta rap" role="button">
 Spice 1 - 187 He Wrote (1993-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/9000405a-3a10-4640-a491-8deaa4064d41/18467960716-500.jpg" data-tags="rap, gangsta rap, g-funk, racist" role="button">
-Ice Cube - Lethal Injection (1993-12-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Ready to Die (1994-09-13)
 </li>
@@ -81,6 +78,9 @@ Spice 1 - AmeriKKKa's Nightmare (1994-11-22)
 <li data-cover="https://img.discogs.com/HFjFo-odqbZg5DNTJdhAVDbKWl4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468156-1167307287.jpeg.jpg" data-tags="gangsta rap, g-funk" role="button">
 Dr. Dre - Keep Their Heads Ringin' (1995-03-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/8dca1473-582e-417d-960b-d99d83c96b68/23195526781-500.jpg" data-tags="rap, hip-hop, east coast rap" role="button">
+Ol' Dirty Bastard - Return To The 36 Chambers: The Dirty Version (1995-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
 </li>
@@ -93,11 +93,11 @@ Bone Thugs-N-Harmony - E. 1999 Eternal (1995-07-25)
 <li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/5b899bee-698e-4d88-a86c-f3992790e2a8/17632744739-500.jpg" data-tags="east coast rap" role="button">
+Onyx - All We Got Iz Us (1995-10-24)
+</li>
 <li data-cover="https://img.discogs.com/U3KuBPys_k3DkoxORmSLgIVEtz4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-226063-1561987540-3451.jpeg.jpg" data-tags="g-funk" role="button">
 Tha Dogg Pound - Dogg Food (1995-10-31)
-</li>
-<li data-cover="https://img.discogs.com/vwTD1j_bhLl9STCAasoRhUO15TU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-365963-1544624881-5586.jpeg.jpg" data-tags="gangsta rap" role="button">
-Westside Connection - Bow Down (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
@@ -116,6 +116,9 @@ Mobb Deep - Hell on Earth (1996-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f7b946b-66ec-4dd8-9b1d-73a19d1dff1d/4659557524-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Life After Death (1997-03-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/f26284b3-367d-430d-96ec-a70ec73bdc43/18893059393-500.jpg" data-tags="rap, 90s, gangsta rap, when the smoke clears" role="button">
+Three 6 Mafia - Chapter 2: World Domination (1997-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
 Big Punisher - Capital Punishment (1998-04-28)
@@ -164,9 +167,6 @@ Ja Rule - Pain Is Love (2001-10-02)
 </li>
 <li data-cover="https://img.discogs.com/lOzQtrpedMvyB9C39LG8oJHyHCQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478646-1119616548.jpg.jpg" data-tags="dmx, rap" role="button">
 DMX - The Great Depression (2001-10-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/cbcaefc3-506d-4705-90df-673d9e992a1d/6134904408-500.jpg" data-tags="hip-hop, hip hop, gangsta rap, rapcore" role="button">
-Cypress Hill - Stoned Raiders (2001-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c61954d-6496-421c-a3a5-95d3f6015320/2434216412-500.jpg" data-tags="rap" role="button">
 Ice Cube - Greatest Hits (2001-12-03)
@@ -255,9 +255,6 @@ Young Dro - Best Thang Smokin' (2006-08)
 <li data-cover="https://img.discogs.com/jgVrqUUmuYrm_hmJMIrDc3Jbla8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-778331-1157808222.jpeg.jpg" data-tags="gangsta rap, german hip hop" role="button">
 Bushido - Von der Skyline zum Bordstein zurück (2006-08-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/7428d852-d840-4026-9509-d1159fd35f43/7332979562-500.jpg" data-tags="rnb, hip-hop" role="button">
-P. Diddy - Press Play (2006-10-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/7a54e840-bfdb-4176-8af2-4d8de47cc267/15608989790-500.jpg" data-tags="hip-hop, gangsta rap, rap, west coast" role="button">
 The Game - Doctor's Advocate (2006-11-11)
 </li>
@@ -266,6 +263,9 @@ Akon - Konvicted (2006-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
 Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
+</li>
+<li data-cover="https://img.discogs.com/VPZYWF2ksSiHJqfZgVaantZcQWw=/fit-in/600x570/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5182187-1386762667-5591.jpeg.jpg" data-tags="female vocalists" role="button">
+Katy Perry - Ur So Gay (2007-01-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/797ec0b3-e43d-4e75-9ebc-bd9fbc11a26a/5145546244-500.jpg" data-tags="hip-hop, hip hop, rap" role="button">
 DMX - The Definition Of X: Pick Of The Litter (2007-06-12)
@@ -279,14 +279,14 @@ Hurricane Chris - 51/50 Ratchet (2007-10-23)
 <li data-cover="http://coverartarchive.org/release/f2218578-270a-4339-9943-a9d38876f30d/10313891153-500.jpg" data-tags="rap" role="button">
 Birdman - 5 * Stunna (2007-12-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/c9c75060-fc57-490d-9709-682412bd6a81/1431643782-500.jpg" data-tags="rap" role="button">
-Rick Ross - Trilla (2008-01-01)
-</li>
 <li data-cover="https://img.discogs.com/gQ10xuY7_eRhYXiJnWbxRtan634=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13132458-1548617759-9803.png.jpg" data-tags="hip-hop, rap, gangsta rap, yo, playlist1, yo gotti, drugs and alcohol, lil boosie and webbie, media player library, untitled playlist" role="button">
 Yo Gotti - Cocaine Muzik (2008-02-19)
 </li>
 <li data-cover="https://img.discogs.com/A-puL6JADoR33d8_7qVAAFfqiiI=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1620739-1295005337.jpeg.jpg" data-tags="rap" role="button">
 The Game - LAX (2008-08-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/1d177fc8-9be5-4682-86b6-b11257d71325/4406825400-500.jpg" data-tags="gangsta rap, 00s, southern hip-hop" role="button">
+Lil Wayne - No Ceilings (2009-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e4ac0c8-0188-4fb6-a2ed-211cf6e3f95d/13970824493-500.jpg" data-tags="hip-hop, rap" role="button">
 DMX - The Best Of DMX (2010-01-26)

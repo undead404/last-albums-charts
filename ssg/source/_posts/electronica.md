@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:33:01.423Z
+date: 2021-04-10T11:13:01.444Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -26,6 +26,9 @@ Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new age" role="button">
+Enigma - The Cross of Changes (1993-12-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Global Communication - 76:14 (1994)
@@ -209,9 +212,6 @@ New Young Pony Club - Fantastic Playroom (2007-07-09)
 </li>
 <li data-cover="https://img.discogs.com/73mAPAbvKt1kGGKSDvi5DG3ow9k=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7625635-1445709296-7336.jpeg.jpg" data-tags="female vocalists, downtempo, trip-hop" role="button">
 Goldfrapp - Seventh Tree (2008-02-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/5bd2390a-f956-495c-9a29-7a28f2c02e2c/20183295540-500.jpg" data-tags="drum and bass" role="button">
-Pendulum - In Silico (2008-05-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)

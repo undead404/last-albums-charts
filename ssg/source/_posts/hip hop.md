@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T08:42:01.450Z
+date: 2021-04-10T10:54:01.411Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -99,6 +99,9 @@ Mos Def - Black On Both Sides (1999-10-12)
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip hop, hip-hop, rap" role="button">
+Ghostface Killah - Supreme Clientele (2000-01-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/0eaf3a43-f00e-4416-8ea3-759d1841e3c9/4402657853-500.jpg" data-tags="hip-hop" role="button">
 Common - Like Water for Chocolate (2000-03-28)
 </li>
@@ -131,9 +134,6 @@ Akon - Trouble (2003)
 </li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/2e047053-4405-3566-9960-9633955062fa/16740713365-500.jpg" data-tags="hip hop" role="button">
-Fugees - Greatest Hits (2003-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)

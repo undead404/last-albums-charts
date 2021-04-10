@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:23:01.778Z
+date: 2021-04-10T10:49:01.427Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Air - Moon Safari (1998-01-16)](http://coverartarchive.org/release/4c55906c-349b-362d-922e-956762912b42/1257682386-500.jpg "Air - Moon Safari (1998-01-16)")
@@ -186,9 +186,6 @@ Norah Jones - Feels Like Home (2004-02-06)
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
 </li>
-<li data-cover="https://img.discogs.com/3OWnvD8SUZ4ZL0jcKAIgOu3lfaA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-240347-1249301053.jpeg.jpg" data-tags="downtempo, trip-hop, ninja tune" role="button">
-Blockhead - Music By Cavelight (2004-03-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/9c024f86-043c-49c6-ad12-112efe4dea11/6700699996-500.jpg" data-tags="chillout, lounge" role="button">
 Afterlife - Speck Of Gold (2004-05-04)
 </li>
@@ -275,6 +272,9 @@ Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">
 Bonobo - Black Sands (2010-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5d1fce6-e9e1-4565-976d-f046c3d5d252/4500932243-500.jpg" data-tags="ambient, chillout" role="button">
+Carbon Based Lifeforms - Interloper (2010-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d8974fc-80e2-45b0-8060-f415f5bdb75e/3765476518-500.jpg" data-tags="chillout" role="button">
 Morcheeba - Blood Like Lemonade (2010-06-07)

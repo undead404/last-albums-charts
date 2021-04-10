@@ -1,16 +1,16 @@
 ---
-date: 2021-04-09T19:43:01.444Z
+date: 2021-04-10T11:10:07.012Z
 title: "discoverockult: 100 albums you must listen to before you die"
 ---
-![Parachute - Losing Sleep (2009-05-19)](https://img.discogs.com/-4k6yj9peG2QjouTMx-c71e6M7Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001620-1454964915-3476.jpeg.jpg "Parachute - Losing Sleep (2009-05-19)")
+![Saving Abel - Saving Abel (2008-03-11)](http://coverartarchive.org/release/1f3b2e4d-4df3-46c6-82d5-d4c849dbe3a9/1805720468-500.jpg "Saving Abel - Saving Abel (2008-03-11)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/f0eca2ba-10ae-4144-a8f6-f2dafdec6dd0/26462812742-500.jpg" data-tags="alternative rock, pop rock, discoverockult" role="button">The Rocket Summer - Calendar Days (2003-02-25)</li>
+<li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="jacks mannequin, discoverockult, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">Jack's Mannequin - This Is a Story... (2005)</li>
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
 <li data-cover="https://img.discogs.com/ZIJQDPnunFWSsXjP8IL6sBGTnGE=/fit-in/500x488/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-730503-1290979096.jpeg.jpg" data-tags="rock" role="button">Orson - Bright Idea (2006-05-15)</li>
-<li data-cover="https://img.discogs.com/T8PdE4vvENQ9bt6u49agyldw9lg=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982395-1180504827.jpeg.jpg" data-tags="snow patrol" role="button">Snow Patrol - Chasing Cars (2006-06-24)</li>
+<li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">Matt Nathanson - Some Mad Hope (2007-08-14)</li>
 <li data-cover="http://coverartarchive.org/release/1f3b2e4d-4df3-46c6-82d5-d4c849dbe3a9/1805720468-500.jpg" data-tags="saving abel, rock" role="button">Saving Abel - Saving Abel (2008-03-11)</li>
+<li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">The Cab - Whisper War (2008-04-29)</li>
 <li data-cover="http://coverartarchive.org/release/9f3e5ea9-7f48-477b-ae0c-a01e7e7503e4/11255982828-500.jpg" data-tags="emo, discoverockult" role="button">Go:Audio - Made Up Stories (2009)</li>
-<li data-cover="https://img.discogs.com/-4k6yj9peG2QjouTMx-c71e6M7Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001620-1454964915-3476.jpeg.jpg" data-tags="pop, rock, alternative, alternative rock, piano rock, 00s, 2000s, album, purchased 09, discoverockult, american popular music, purchased 10" role="button">Parachute - Losing Sleep (2009-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/35d6ecf2-2a5d-41fd-9ab9-f5275b4fa5e6/3048236487-500.jpg" data-tags="alternative rock, hard rock, discoverockult" role="button">Adelitas Way - Adelitas Way (2009-07-14)</li>
 <li data-cover="http://coverartarchive.org/release/24868a41-12af-4a5c-a0a3-2d4d954feb63/9398522036-500.jpg" data-tags="pop punk, 00s, discoverockult, a rocket to the moon" role="button">A Rocket to the Moon - On Your Side (2009-10-13)</li>
 <li data-cover="http://coverartarchive.org/release/24ff3bfc-19aa-4440-bd03-36df63b55a93/14793758946-500.jpg" data-tags="alternative rock, indie, indie rock" role="button">Say Anything - Say Anything (2009-11-03)</li>
@@ -30,14 +30,17 @@ Nine Days - The Madding Crowd (2000-05-16)
 <li data-cover="http://coverartarchive.org/release/124490a2-3b9a-4177-9f0e-5645a59e0092/20616806771-500.jpg" data-tags="rock, 90s" role="button">
 Vertical Horizon - Everything You Want (2000-08-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/87a51f1d-f8c2-4fa7-801c-1865e8f80cc3/12987336338-500.jpg" data-tags="pop, rock, alternative, discoverockult" role="button">
+Dexter Freebish - A Life Of Saturdays (2000-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
+Howie Day - Australia (2000-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/4f734750-4a00-35b4-a259-2c15093c83cc/10182730882-500.jpg" data-tags="rock, alternative rock, alternative" role="button">
 Goo Goo Dolls - Gutterflower (2002-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/d8f7afbc-673f-43fb-9fad-9ad035ccc939/26393514550-500.jpg" data-tags="rock, alternative rock" role="button">
 Lifehouse - Stanley Climbfall (2002-09-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/f0eca2ba-10ae-4144-a8f6-f2dafdec6dd0/26462812742-500.jpg" data-tags="alternative rock, pop rock, discoverockult" role="button">
-The Rocket Summer - Calendar Days (2003-02-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d26724d4-cabd-4629-9583-e459051de88b/2278050105-500.jpg" data-tags="rock, alternative rock" role="button">
 Anberlin - Blueprints For The Black Market (2003-04-24)
@@ -51,17 +54,8 @@ Howie Day - Stop All The World Now (2003-10-07)
 <li data-cover="http://coverartarchive.org/release/3d688fc2-ae3e-49c0-bdc8-49cd71c55874/21135321687-500.jpg" data-tags="singer-songwriter" role="button">
 Matt Nathanson - Beneath These Fireworks (2003-10-14)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="piano rock" role="button">
-Something Corporate - North (2003-10-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/075e7ea9-d145-4b1e-9c2d-dce60ac1b0f2/12328012368-500.jpg" data-tags="indie rock, indie" role="button">
 Say Anything - Is A Real Boy (2004)
-</li>
-<li data-cover="https://img.discogs.com/kX4vLOjPM9jqrmMJfSNH4xDLjPM=/fit-in/600x575/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479949-1514129327-4638.jpeg.jpg" data-tags="rock" role="button">
-Five for Fighting - The Battle For Everything (2004-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/407c509c-2bae-4912-882a-0a21e4a2263a/9609882295-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
-Crossfade - Crossfade (2004-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
 The Calling - Two (2004-05-24)
@@ -71,6 +65,9 @@ Seven Wiser - Seven Wiser (2004-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1a0882a3-6ae2-4c6f-a6d4-3c43bd466223/26393038913-500.jpg" data-tags="alternative rock" role="button">
 Faktion - Faktion (2005)
+</li>
+<li data-cover="https://img.discogs.com/KH_obe4t2XqgyH4fCL8OnnJB4rg=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2370978-1280120113.jpeg.jpg" data-tags="upbeat, humour, discoverockult" role="button">
+Jason Mraz - Geek in the Pink (2005)
 </li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="jacks mannequin, discoverockult, the devil and the deep blue sea, just another folk singer, the way you look, the merch grrls, teh typos" role="button">
 Jack's Mannequin - This Is a Story... (2005)
@@ -93,8 +90,8 @@ One Less Reason - everydaylife (2005-06-21)
 <li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Jason Mraz - Mr. A-Z (2005-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/78e0a82c-f6e3-45fe-8f5c-190ae91bf357/5143039917-500.jpg" data-tags="rock, alternative, augustana" role="button">
-Augustana - All The Stars and Boulevards (2005-09-06)
+<li data-cover="https://img.discogs.com/RS-5L0LyUEnhxEqlcuQ46RrV_fY=/fit-in/342x342/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7972129-1452706453-5341.jpeg.jpg" data-tags="alternative rock, modern rock, tag, podsafe music network, discoverockult" role="button">
+Black Lab - See The Sun (2005-10-04)
 </li>
 <li data-cover="https://img.discogs.com/EtJ7UVJM2wfeW_NfyeIrKr7MUxI=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2561674-1481812948-3004.jpeg.jpg" data-tags="alternative metal, nu metal, wants, discoverockult, hard nurock" role="button">
 Burn Season - Burn Season (2005-10-11)
@@ -120,6 +117,9 @@ Milow - The Bigger Picture (2006-01-19)
 <li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">
 Mat Kearney - Nothing Left To Lose (2006-04-18)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="canadian, discoverockult, all-male bands, daniels album collection" role="button">
+Mobile - Tomorrow Starts Today (2006-04-18)
+</li>
 <li data-cover="https://img.discogs.com/r_FBVFPof_yTZIlFN7aHXTpNi4A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14246467-1570650643-7779.jpeg.jpg" data-tags="alternative, rock" role="button">
 Goo Goo Dolls - Let Love In (2006-04-24)
 </li>
@@ -135,14 +135,11 @@ The Classic Crime - Albatross (2006-05-26)
 <li data-cover="http://coverartarchive.org/release/6495f98d-be42-4736-913c-34a7a2a6d858/20315320453-500.jpg" data-tags="discoverockult" role="button">
 Dave Melillo - Talk Is Cheap (2006-06-13)
 </li>
-<li data-cover="https://img.discogs.com/T8PdE4vvENQ9bt6u49agyldw9lg=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-982395-1180504827.jpeg.jpg" data-tags="snow patrol" role="button">
-Snow Patrol - Chasing Cars (2006-06-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/34a322de-e4ef-4861-a7ad-640644606d92/2503909808-500.jpg" data-tags="alternative rock" role="button">
 Five for Fighting - Two Lights (2006-08-01)
 </li>
-<li data-cover="https://img.discogs.com/xYdBGPQlqc6610poNFiGPw4RnHk=/fit-in/537x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1179457-1296356386.jpeg.jpg" data-tags="disco, electropop, pop, indie pop, electroclash, indietronica, discoverockult, makes me move my feets, dance and electronic, robot disco, liner recommends, nice album covers, dancing shoes on, electrofusion, daniels album collection, me time, suppie" role="button">
-Under The Influence of Giants - Under The Influence Of Giants (2006-08-08)
+<li data-cover="http://coverartarchive.org/release/97df8332-b6c0-4d76-a70d-66a6b290e8b7/5339860687-500.jpg" data-tags="discoverockult" role="button">
+Sunrise Avenue - Fairytale Gone Bad (2006-08-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-grunge, crossfade" role="button">
 Crossfade - Falling Away (2006-08-29)
@@ -180,17 +177,17 @@ Dead Letter Circus - Dead Letter Circus (2007-05-05)
 <li data-cover="http://coverartarchive.org/release/d3bcc9c4-179f-4810-92a8-99cb4e58a520/8765400755-500.jpg" data-tags="indie rock" role="button">
 The Cribs - Men's Needs, Women's Needs, Whatever (2007-05-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/b3ee7754-5095-4180-9714-fa42f5dfd06a/12102234555-500.jpg" data-tags="alternative" role="button">
-The Fray - Over My Head (Cable Car) (2007-06-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop rock, pop punk" role="button">
-The Rocket Summer - Do You Feel (2007-07-17)
+<li data-cover="http://coverartarchive.org/release/1d69d2d6-9957-4da5-9e2f-d04b8b1c9a30/20543455487-500.jpg" data-tags="indie rock" role="button">
+Air Traffic - Fractured Life (2007-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/84097af6-1f12-4d65-99e9-a064725e6eb4/18815227088-500.jpg" data-tags="happy, makes me wanna dance, discoverockult, make me feel happy, powerspace, suprizing good, jumpingonthebed, willgetthisalbumdefinitely, stephkicks, find yourself here" role="button">
 Powerspace - The Kicks Of Passion (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
+</li>
+<li data-cover="https://img.discogs.com/SHD0Wk_ObbWZNSXgkyEN8OX0ygA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7321066-1438828737-7553.jpeg.jpg" data-tags="rock, christian, contemporary christian, discoverockult" role="button">
+Robbie Seay Band - Give Yourself Away (2007-08-28)
 </li>
 <li data-cover="https://img.discogs.com/4NH9NJWFUt7859lzw92B8MDmMeI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1093703-1264853371.jpeg.jpg" data-tags="rock, poison kiss" role="button">
 The Last Goodnight - Poison Kiss (2007-08-28)
@@ -240,17 +237,14 @@ The White Tie Affair - Walk This Way (2008-04-22)
 <li data-cover="http://coverartarchive.org/release/1d053c05-b481-4812-80fc-ed68c8ab3411/24142272319-500.jpg" data-tags="alternative, the cab" role="button">
 The Cab - Whisper War (2008-04-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/e6454561-2af7-460b-9b8c-d482b7c8a49d/15751521122-500.jpg" data-tags="pop, pop rock, male vocalists" role="button">
-Gavin DeGraw - Gavin DeGraw (2008-05-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab7b1b02-6d20-450c-828f-d2d642d39205/2941985556-500.jpg" data-tags="hipster, discoverockult, worshipped by a legion of fags losers and failures" role="button">
 Empyr - The Peaceful Riot (2008-05-12)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 SafetySuit - Life Left To Go (2008-05-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/a70b5104-404e-45d9-9434-3aed259171a4/22921088025-500.jpg" data-tags="rock, hard rock" role="button">
-Rev Theory - Light It Up (2008-06-10)
+<li data-cover="https://img.discogs.com/Yjn6E-J1WR9_cQqSjaqvYQWrBV4=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1984899-1579712357-4261.jpeg.jpg" data-tags="discoverockult" role="button">
+Paper Route - Are We All Forgotten (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/71f9f984-df10-4964-bcd6-1e464041cd05/4889578121-500.jpg" data-tags="christian rock, pop-punk, power-pop, discoverockult" role="button">
 Capital Lights - This Is An Outrage! (2008-07-08)
@@ -264,11 +258,17 @@ The Classic Crime - The Silver Cord (2008-07-22)
 <li data-cover="https://img.discogs.com/qIlRCqGiLGQE03vXuJGNrt4lwok=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8126311-1455633525-8675.jpeg.jpg" data-tags="discoverockult" role="button">
 Eye Alaska - Yellow & Elephant (2008-07-22)
 </li>
+<li data-cover="https://img.discogs.com/LBrC5kvGU4kK2HG7Lrl6VH1ZuLE=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10287199-1507153135-3768.jpeg.jpg" data-tags="millow" role="button">
+Milow - Ayo Technology (2008-09-16)
+</li>
 <li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Anberlin - New Surrender (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9f3e5ea9-7f48-477b-ae0c-a01e7e7503e4/11255982828-500.jpg" data-tags="emo, discoverockult" role="button">
 Go:Audio - Made Up Stories (2009)
+</li>
+<li data-cover="https://img.discogs.com/yOk0NaLqORgkTAYscjCSaO_JWas=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10895164-1506106917-2148.jpeg.jpg" data-tags="discoverockult" role="button">
+My Favorite Highway - The Pre-Release (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/bf26649e-5c9c-4fcc-9a71-edb1a3b47e65/26560040644-500.jpg" data-tags="discoverockult, the brobecks" role="button">
 The Brobecks - Violent Things (2009)
@@ -282,9 +282,6 @@ Green River Ordinance - Out Of My Hands (2009-02-24)
 <li data-cover="https://img.discogs.com/0n6Vhm_FkoL9s7wgas-aLNx3CKE=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2815761-1505854231-2515.jpeg.jpg" data-tags="rock, alternative rock" role="button">
 The Dangerous Summer - Reach For The Sun (2009-05-05)
 </li>
-<li data-cover="https://img.discogs.com/-4k6yj9peG2QjouTMx-c71e6M7Y=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2001620-1454964915-3476.jpeg.jpg" data-tags="pop, rock, alternative, alternative rock, piano rock, 00s, 2000s, album, purchased 09, discoverockult, american popular music, purchased 10" role="button">
-Parachute - Losing Sleep (2009-05-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/bef01324-dd9e-4608-9726-781d68fc26fb/8041117572-500.jpg" data-tags="pop rock, pop punk" role="button">
 There for Tomorrow - A Little Faster (2009-06-09)
 </li>
@@ -293,6 +290,9 @@ Adelitas Way - Adelitas Way (2009-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/667cebee-434f-4c28-8ec6-acd8445174ca/20822579961-500.jpg" data-tags="alternative rock" role="button">
 Sick Puppies - Tri-Polar (2009-07-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/88bad654-2d9a-4a29-89e1-4352a5eb072e/5685113382-500.jpg" data-tags="progressive rock" role="button">
+Tides of Man - Empire Theory (2009-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/f2f25379-75ae-44f8-87cb-34835ccf19b3/13665242231-500.jpg" data-tags="discoverockult, damn great album" role="button">
 Cavo - Bright Nights Dark Days (2009-08-11)
