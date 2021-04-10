@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:21:01.441Z
+date: 2021-04-10T00:03:01.405Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -162,9 +162,6 @@ Theatre of Tragedy - Assembly (2002-03-04)
 <li data-cover="https://img.discogs.com/4bdQNt7raqifkmL9wZWnA-pFJ0g=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5443063-1393487197-6647.jpeg.jpg" data-tags="industrial" role="button">
 KMFDM - Attak (2002-03-19)
 </li>
-<li data-cover="https://img.discogs.com/lDxuzfUATzYj7whWfKjfnVpkCcA=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2306765-1275819728.jpeg.jpg" data-tags="industrial rock, alternative rock" role="button">
-Filter - The Amalgamut (2002-07-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
 </li>
@@ -305,6 +302,9 @@ Marilyn Manson - Born Villain (2012-04-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/31320c1d-6a86-478d-9a2a-8712a611cdb3/7368420695-500.jpg" data-tags="metalcore, alternative metal, metal, industrial metal, nu metal" role="button">
 In This Moment - Blood (2012-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b23fdaf-d3b6-4550-b9e9-a615d0a96698/5769746782-500.jpg" data-tags="synth-rock" role="button">
+The Birthday Massacre - Hide and Seek (2012-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/41462c1c-e976-4ea7-b245-18092f023115/4299893287-500.jpg" data-tags="industrial rock" role="button">
 Nine Inch Nails - Came Back Haunted (2013-06-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T16:32:01.518Z
+date: 2021-04-10T00:14:01.471Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -54,17 +54,20 @@ Skee-Lo - I Wish (1995)
 <li data-cover="https://img.discogs.com/zf87uarK5tnrwGfAxz9ZLS29PuA=/fit-in/460x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336480-1363450658-9382.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Coolio - Gangsta's Paradise (1995-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/28d8288b-63fd-4995-aeb7-f95be8899795/19137757728-500.jpg" data-tags="hip hop, funk" role="button">
-The Pharcyde - Labcabincalifornia (1995-11-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
 Fugees - The Score (1996-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/dee08d2d-eb6d-4376-988a-07984dbdf738/12639957674-500.jpg" data-tags="rap, hip-hop" role="button">
 Nas - It Was Written (1996-07-01)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="hip hop" role="button">
+The Roots - Illadelph Halflife (1996-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/6499bee5-b119-302c-a57f-720530376f93/6322043573-500.jpg" data-tags="hip hop, 90s" role="button">
 Will Smith - Big Willie Style (1997-11-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/a164b1b6-00dc-4722-be0d-62601accb796/4437400926-500.jpg" data-tags="hip-hop" role="button">
+Gang Starr - Moment Of Truth (1998-03-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/84a4ba6a-cc66-4a8b-b443-198646fbf85f/8508204852-500.jpg" data-tags="hip-hop, rap" role="button">
 Beastie Boys - Hello Nasty (1998-06-29)
@@ -83,9 +86,6 @@ The Roots - Things Fall Apart (1999-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3636d9b6-13e3-3b00-975b-9cf95a0ac21a/2434199624-500.jpg" data-tags="hip-hop" role="button">
 Mos Def - Black On Both Sides (1999-10-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/deae19bf-fbbd-4e49-9324-7ab0ae2db342/15203666279-500.jpg" data-tags="hip hop, hip-hop" role="button">
-A Tribe Called Quest - The Anthology (1999-10-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:15:01.584Z
+date: 2021-04-10T00:02:01.412Z
 title: "piano: 100 albums you must listen to before you die"
 ---
 ![Ludovico Einaudi - Divenire (2006-11-07)](http://coverartarchive.org/release/cbea7b36-3edb-392a-b703-f4d0b648deed/20544497982-500.jpg "Ludovico Einaudi - Divenire (2006-11-07)")
@@ -306,6 +306,9 @@ The Piano Guys - The Piano Guys (2012-10-02)
 <li data-cover="http://coverartarchive.org/release/c05a9fd9-d173-444e-a08a-65b65251a852/6168548089-500.jpg" data-tags="contemporary classical, neoclassical, post-classical, modern classical, neo-classical, piano, neo classical, postclassical, post classical" role="button">
 Ólafur Arnalds - For Now I Am Winter (2013-02-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/da998b90-83d6-43ea-9a46-55ce0fba83e4/5554522707-500.jpg" data-tags="soul" role="button">
+John Legend - Love in the Future (2013-08-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
 </li>
@@ -317,8 +320,5 @@ A Great Big World - Is There Anybody Out There? (2014-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/8c976f66-b784-4e09-be74-455f150a8082/7586223644-500.jpg" data-tags="house, classical crossover, electronic" role="button">
 Clean Bandit - New Eyes (2014-05-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/d06faeb4-4ca4-4552-938c-66516e11f161/9582088894-500.jpg" data-tags="contemporary classical" role="button">
-Keaton Henson - Romantic Works (2014-06-16)
 </li>
 </ol>

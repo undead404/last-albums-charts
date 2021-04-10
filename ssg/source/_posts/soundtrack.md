@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:23:01.439Z
+date: 2021-04-10T00:20:07.023Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/50b212ff-cea7-379d-8bb4-340b985e1dd4/3204990971-500.jpg" data-tags="soundtrack" role="button">
+Henry Mancini - Breakfast At Tiffany's (1961)
+</li>
 <li data-cover="http://coverartarchive.org/release/551061cb-f598-41e9-9ecb-380e7f5d405f/7983485219-500.jpg" data-tags="rock" role="button">
 Elvis Presley - Blue Hawaii (1961-10-01)
 </li>
@@ -287,9 +290,6 @@ C418 - Minecraft - Volume Alpha (2011-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/8edf7d27-a94d-425a-9ce7-9b497b61e8e7/1210446198-500.jpg" data-tags="western" role="button">
 Danger Mouse & Daniele Luppi - Rome (2011-05-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/09b18d6a-da34-4671-b1a7-3ea4f8fe571d/3251479274-500.jpg" data-tags="soundtrack" role="button">
-Ramin Djawadi - Game of Thrones (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4016d7e-9cdd-4df3-8fc7-02b90d95a304/1517678811-500.jpg" data-tags="soundtrack, trip-hop" role="button">
 Darren Korb - Bastion Original Soundtrack (2011-08-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-06T23:27:06.953Z
+date: 2021-04-10T00:37:01.414Z
 title: "black: 100 albums you must listen to before you die"
 ---
 ![Wiz Khalifa - Black And Yellow (2010-09-14)](http://coverartarchive.org/release/b58e040e-e64c-4d77-bbec-5dde4755de8a/28279457366-500.jpg "Wiz Khalifa - Black And Yellow (2010-09-14)")
@@ -45,9 +45,6 @@ Helheim - Jormundgand (1995)
 <li data-cover="http://coverartarchive.org/release/f019b278-c76f-4d3a-832f-8dccb2498c05/19730960612-500.jpg" data-tags="rnb" role="button">
 Adina Howard - Do You Wanna Ride? (1995-02-28)
 </li>
-<li data-cover="https://img.discogs.com/6jgPxuB4HXdgd1W3-YL2fyxZn5A=/fit-in/300x303/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-580552-1134407352.jpeg.jpg" data-tags="uk, gothic rock" role="button">
-Peter Murphy - Cascade (1995-04-11)
-</li>
 <li data-cover="https://img.discogs.com/vHrPCUPr-rw4bMXnjmrEgVAlmQ0=/fit-in/597x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-381673-1334294432.jpeg.jpg" data-tags="black metal, norwegian black metal" role="button">
 Isengard - Høstmørke (1995-07-03)
 </li>
@@ -81,7 +78,7 @@ Bal-Sagoth - Battle Magic (1998-11-02)
 <li data-cover="http://coverartarchive.org/release/436ea4da-befa-49be-8d75-66b22f261574/7443557677-500.jpg" data-tags="black metal, metal, melodic black metal" role="button">
 Rotting Christ - Sleep Of The Angels (1999-01-04)
 </li>
-<li data-cover="https://img.discogs.com/7W1ZPMBojNKLDGPRQycyTCOn9oE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-62688-1429117982-7206.jpeg.jpg" data-tags="disco, funk, soul, dance" role="button">
+<li data-cover="https://img.discogs.com/LU01EPcTDCwMYzcvDF70lHLZ6G8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2696545-1504857974-6253.jpeg.jpg" data-tags="disco, funk, soul, dance" role="button">
 Chic - Live At The Budokan (1999-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3016793-7d45-40fd-983d-f2c7134e278a/25200673286-500.jpg" data-tags="pop, female vocalists, dance, latin, brasil" role="button">
@@ -101,6 +98,9 @@ Carpathian Forest - Strange Old Brew (2000-11-06)
 </li>
 <li data-cover="https://img.discogs.com/oDdMrmdYoTd4N8ivudi27yXSLpE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2343012-1560775367-3547.jpeg.jpg" data-tags="black metal, symphonic black metal" role="button">
 Morgul - Sketch Of Supposed Murderer (2001)
+</li>
+<li data-cover="http://coverartarchive.org/release/9b899022-96d4-496e-8f29-08a7ef0c1109/1065863215-500.jpg" data-tags="symphonic black metal" role="button">
+Profanum - Musaeum Esotericum (2001-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b3310df-e9ca-4ce9-ab5a-2090d7ba2aaf/19879101265-500.jpg" data-tags="black metal" role="button">
 Thorns - Thorns (2001-03-05)
@@ -132,7 +132,7 @@ Nargaroth - Rasluka Part II (2002)
 <li data-cover="http://coverartarchive.org/release/1a0ba8b4-7e36-436f-8919-23911dabca90/4755919798-500.jpg" data-tags="black metal, symphonic black metal" role="button">
 Astarte - Quod Superius Sicut Inferius (2002-02-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/0915fe22-4bc4-35bd-becf-2e393df651b2/2614876767-500.jpg" data-tags="ivete sangalo, spanish, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, hot, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
+<li data-cover="http://coverartarchive.org/release/0915fe22-4bc4-35bd-becf-2e393df651b2/2614876767-500.jpg" data-tags="ivete sangalo, spanish, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
 Ivete Sangalo - Se Eu Não Te Amasse Tanto Assim (2002-07-23)
 </li>
 <li data-cover="https://img.discogs.com/yoReaCutFacqZjwWVBa3UFbT2Tc=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-266328-1298532291.jpeg.jpg" data-tags="grindcore, death metal, industrial death metal" role="button">
@@ -150,7 +150,7 @@ Graveworm - Engraved in Black (2003-06-23)
 <li data-cover="http://coverartarchive.org/release/e3223417-298a-49af-80d5-e5c875a16183/13323516676-500.jpg" data-tags="indie rock, rock, interpol" role="button">
 Interpol - The Black EP (2003-08-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/46c30b77-dce1-3e19-bb72-0aba8503d0ed/2614963874-500.jpg" data-tags="spanish, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, hot, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
+<li data-cover="http://coverartarchive.org/release/46c30b77-dce1-3e19-bb72-0aba8503d0ed/2614963874-500.jpg" data-tags="spanish, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
 Ivete Sangalo - Clube Carnavalesco Inocentes em Progresso (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/95184121-cb65-4d0e-a32b-f97215d41137/3440293326-500.jpg" data-tags="death metal, black metal" role="button">
@@ -159,7 +159,7 @@ Akercocke - Choronzon (2003-10-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="namie amuro" role="button">
 安室奈美恵 - STYLE (2003-12-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/767f8859-64a3-4829-bc3d-836ee3e44462/17702702196-500.jpg" data-tags="pop, soul, female vocalists, singer-songwriter, dance, latin, brasil, rnb, hot, nelly furtado, shakira" role="button">
+<li data-cover="http://coverartarchive.org/release/767f8859-64a3-4829-bc3d-836ee3e44462/17702702196-500.jpg" data-tags="pop, soul, female vocalists, singer-songwriter, dance, latin, brasil, rnb, nelly furtado, shakira" role="button">
 Ivete Sangalo - MTV Ao Vivo (2004-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcd1474d-1242-3190-b8da-ed87a2547f58/25788869776-500.jpg" data-tags="avant-garde, avant-garde metal, experimental" role="button">
@@ -222,7 +222,7 @@ Peste Noire - La Sanie des siècles - Panégyrique de la dégénérescence (2006
 <li data-cover="http://coverartarchive.org/release/8d8e6041-9f4b-4553-ac4d-cf997e29598a/21893021794-500.jpg" data-tags="metalcore, blackcore" role="button">
 Abigail Williams - Legend (2006-10-03)
 </li>
-<li data-cover="https://img.discogs.com/KrjLwDirjXVBN_U-SW2TdL3G7Uc=/fit-in/480x417/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093043-1384333688-9589.jpeg.jpg" data-tags="spanish, electronic, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, hot, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
+<li data-cover="https://img.discogs.com/KrjLwDirjXVBN_U-SW2TdL3G7Uc=/fit-in/480x417/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5093043-1384333688-9589.jpeg.jpg" data-tags="spanish, electronic, female, hip hop, pop, rock, soul, rap, female vocalists, singer-songwriter, dance, cute, dance-pop, urban, latin, house, club, r&b, party, r and b, favorite artists, rnb, female vocals, female vocalist, rhythm and blues, female artists, english, nelly furtado, woman, music, teen pop, shakira, divas" role="button">
 Ivete Sangalo - Berimbau Metalizado (2006-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/622ac912-8b5d-463a-bad4-52dc1616c118/15785742859-500.jpg" data-tags="ambient, electronic, experimental" role="button">
@@ -243,14 +243,11 @@ Crionics - Neu Throne (2007-06-16)
 <li data-cover="http://coverartarchive.org/release/31d6e34e-48b8-4893-877c-fc9c736200c4/2411022826-500.jpg" data-tags="black metal" role="button">
 Peste Noire - Folkfuck Folie (2007-06-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/90b29336-d865-4ed6-a471-ac5722d86e4c/10079866413-500.jpg" data-tags="hip-hop, chillout, jazz, chill, soul, reggae, dance, funk, house, bass, club, rnb, fun, black, fucking great, test mt" role="button">
+<li data-cover="http://coverartarchive.org/release/90b29336-d865-4ed6-a471-ac5722d86e4c/10079866413-500.jpg" data-tags="hip-hop, chillout, jazz, chill, soul, reggae, dance, funk, house, bass, club, rnb, black, fucking great, test mt" role="button">
 Smoove - Gravy: Remixes & Rarities (2007-06-25)
 </li>
 <li data-cover="https://img.discogs.com/O7UcjqX_88FLwE3R1guD5E8M9KY=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2018175-1258835719.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
 Drudkh - Estrangement (2007-08-31)
-</li>
-<li data-cover="https://img.discogs.com/EmF4gPMDUoJI4AbWzcYj-xWgMLM=/fit-in/537x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1130112-1194467176.png.jpg" data-tags="trip-hop, indie, experimental, shoegaze, cello, unique, finnish, intense, female vocalist, 00's, helsinki, black, dynamic, finland, deer, persuader, underplayed, great sound, pooma, raindeer, satumaa-tango" role="button">
-Pooma - Persuader (2007-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/200d7321-e0b5-4491-8c61-9af4691f4a75/954326067-500.jpg" data-tags="black metal, black, atmospheric black metal, depressive black metal, post-black metal" role="button">
 Blutklinge - Reflection of a Bleak Mind (2007-12-22)
@@ -305,6 +302,9 @@ Krallice - Diotima (2011-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5406e08-5fb8-4b07-8718-4a33bc38a7e4/2430686572-500.jpg" data-tags="black metal, atmospheric black metal" role="button">
+Raventale - Transcendence (2012-10-01)
 </li>
 <li data-cover="https://img.discogs.com/VNmQ3FwGS24VVL-1pz5Uk-2rGRA=/fit-in/495x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14840561-1599538341-6679.jpeg.jpg" data-tags="experimental, avant-garde" role="button">
 Scott Walker - Bish Bosch (2012-12-03)

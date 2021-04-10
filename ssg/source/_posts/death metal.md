@@ -1,5 +1,5 @@
 ---
-date: 2021-04-05T11:50:01.351Z
+date: 2021-04-10T00:07:12.579Z
 title: "death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -50,9 +50,6 @@ Morbid Angel - Blessed Are The Sick (1991-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/33145562-42b2-37cb-816a-ee4b85e68f09/10372497864-500.jpg" data-tags="death metal" role="button">
 Carcass - Necroticism: Descanting the Insalubrious (1991-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/b83458f4-58db-4b00-952d-1c3890b3fd1b/5852144410-500.jpg" data-tags="death metal" role="button">
-Suffocation - Effigy of the Forgotten (1991-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5ca70aa-d86b-4a0d-84fc-910ca6011881/4940989822-500.jpg" data-tags="death metal, technical death metal" role="button">
 Death - Human (1991-10-22)
@@ -147,7 +144,7 @@ Gojira - Terra Incognita (2001-03-19)
 <li data-cover="http://coverartarchive.org/release/d20a123d-47a2-3868-bdc9-8e9b0fd73af5/3999982595-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Wages of Sin (2001-04-25)
 </li>
-<li data-cover="https://img.discogs.com/PlLIUbkEdIs6zRzCNrxJbUp8Qcc=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7328263-1439014977-8428.png.jpg" data-tags="nu metal, metal" role="button">
+<li data-cover="https://img.discogs.com/XTd3XQx8DGr3Y70JY3h0N2ymFSI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2273339-1453263561-8717.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/47924ab2-d0e7-4135-ae84-797ece8924cb/13368438880-500.jpg" data-tags="death metal, technical death metal" role="button">
@@ -203,6 +200,9 @@ Bloodbath - Nightmares Made Flesh (2004-09-27)
 </li>
 <li data-cover="https://img.discogs.com/f5MS-w80xTYlPaqvPn5gnXP60-0=/fit-in/175x175/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4297042-1361036898-6312.jpeg.jpg" data-tags="death metal, blackened death metal" role="button">
 Behemoth - Demigod (2004-11-08)
+</li>
+<li data-cover="https://img.discogs.com/KNhg5f5CKcGCOr8PYno5o1tIsCY=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-441808-1330245053.jpeg.jpg" data-tags="melodic death metal" role="button">
+Soilwork - Stabbing the Drama (2005-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca5124df-8ee2-49c8-9d62-7d497b28ae00/24438029985-500.jpg" data-tags="death metal" role="button">
 Nile - Annihilation of the Wicked (2005-05-23)

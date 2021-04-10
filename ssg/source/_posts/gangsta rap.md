@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:30:01.532Z
+date: 2021-04-10T00:23:01.397Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -30,9 +30,6 @@ Above the Law - Livin' Like Hustlers (1989-12)
 <li data-cover="http://coverartarchive.org/release/a2c3b6a9-91ea-4e38-9d12-7590b76aab76/13313905422-500.jpg" data-tags="gangsta rap" role="button">
 Ice Cube - AmeriKKKa's Most Wanted (1990-05-15)
 </li>
-<li data-cover="https://img.discogs.com/uVN8iytnTNWlfeqgvdpldiz2954=/fit-in/599x941/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8267521-1458306048-2645.jpeg.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
-Whodini - Greatest Hits (1990-06-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
 N.W.A - Niggaz4Life (1991-05-28)
 </li>
@@ -57,6 +54,9 @@ Ice Cube - The Predator (1992-11-17)
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
 </li>
+<li data-cover="https://img.discogs.com/kVi4UKbgy0zT2tWVNFT3Kr-CnGA=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-492190-1302215784.jpeg.jpg" data-tags="gangsta rap" role="button">
+Brotha Lynch Hung - 24 Deep (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/d10b999c-4f2b-4290-9f31-f48d83d83963/6628319292-500.jpg" data-tags="gangsta rap" role="button">
 2Pac - Strictly 4 My N.I.G.G.A.Z... (1993-02-15)
 </li>
@@ -68,9 +68,6 @@ Spice 1 - 187 He Wrote (1993-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/9000405a-3a10-4640-a491-8deaa4064d41/18467960716-500.jpg" data-tags="rap, gangsta rap, g-funk, racist" role="button">
 Ice Cube - Lethal Injection (1993-12-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6b3fc18-26e9-4e9b-92b8-5f557f8d3b4d/18894101764-500.jpg" data-tags="dirty south, hip hop" role="button">
-OutKast - Southernplayalisticadillacmuzik (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e096a04-ae16-3718-b363-49061f3205e8/20638601124-500.jpg" data-tags="gangsta rap" role="button">
 Bone Thugs-N-Harmony - Creepin on Ah Come Up (1994-06-21)
@@ -129,6 +126,9 @@ Mobb Deep - Hell on Earth (1996-11-01)
 <li data-cover="http://coverartarchive.org/release/8f7b946b-66ec-4dd8-9b1d-73a19d1dff1d/4659557524-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Life After Death (1997-03-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/5ff73aa7-2326-444e-9204-1125f2bd4684/2977313794-500.jpg" data-tags="rap" role="button">
+Big Punisher - Capital Punishment (1998-04-28)
+</li>
 <li data-cover="https://img.discogs.com/i3Plihomtgk6DMmhTt8bs2BjIxo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2051207-1597799463-5023.jpeg.jpg" data-tags="rap, dmx" role="button">
 DMX - It's Dark And Hell Is Hot (1998-05-19)
 </li>
@@ -149,6 +149,9 @@ Kurupt - Tha Streetz Iz A Mutha (1999-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/05a01d85-ea57-4b35-a7cd-f1ae18437328/3420809133-500.jpg" data-tags="ice cube, gangsta rap" role="button">
 Ice Cube - War & Peace, Volume 2 (The Peace disc) (2000-03-21)
+</li>
+<li data-cover="https://img.discogs.com/-FTLXlXt_wEClCPah1OnIfjAmQE=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-519605-1264963269.jpeg.jpg" data-tags="rapcore, hip-hop" role="button">
+Cypress Hill - Skull & Bones (2000-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/aeb86f07-384f-4afb-a67c-2df7d064b2e6/1629888917-500.jpg" data-tags="hip-hop, gangsta rap, black music" role="button">
 50 Cent - Power of the Dollar (2000-07-04)
@@ -180,8 +183,14 @@ Clipse - Lord Willin' (2002-04-01)
 <li data-cover="https://img.discogs.com/chPLJSmMedjvd1YZM7rL10z0jMg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2506902-1461825514-3010.jpeg.jpg" data-tags="camron" role="button">
 Cam'ron - Come Home With Me (2002-05-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/dea8d7d1-1823-4635-a536-8ca487a91e8c/5329372313-500.jpg" data-tags="rap" role="button">
+Tech N9ne - Absolute Power (2002-09-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/f7fdbb85-f76c-4fe5-83a2-6016e3c05a18/6219252018-500.jpg" data-tags="rap, gangsta rap, ja rule" role="button">
 Ja Rule - The Last Temptation (2002-11-19)
+</li>
+<li data-cover="https://img.discogs.com/e9bP78FudkC0nkWRFNQUy38QDF0=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-328103-1262865321.jpeg.jpg" data-tags="rap" role="button">
+Nas - God's Son (2002-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b2463ee8-ddcb-4d8d-93ee-36835456d144/1630449680-500.jpg" data-tags="hip hop" role="button">
 50 Cent - The New Breed (2003)
@@ -207,6 +216,9 @@ Cypress Hill - Till Death Do Us Part (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/441a0b72-1a3b-42bc-af66-99aeff9844cc/15146704098-500.jpg" data-tags="rap" role="button">
 Ja Rule - R.U.L.E. (2004-11-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/6a601b1a-8e91-47b4-8a26-fe3aa08fb824/2036785255-500.jpg" data-tags="rap" role="button">
+Fabolous - Real Talk (2004-11-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/bf981e05-2807-4fc3-857b-7291add78009/14322837992-500.jpg" data-tags="rap, gangsta rap" role="button">
 Xzibit - Weapons of Mass Destruction (2004-12-08)
 </li>
@@ -218,9 +230,6 @@ The Game - The Documentary (2005-01-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/be552d8f-ad3c-474e-9b3d-dc899aebec2e/8541825183-500.jpg" data-tags="rap, hip-hop" role="button">
 50 Cent - The Massacre (2005-03-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/56739aff-bd8f-40ef-9b44-09d3f0d1320e/24522199340-500.jpg" data-tags="gucci mane, gucci man" role="button">
-Gucci Mane - Trap House (2005-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e4b528d-5ba9-4c24-83d6-5725122c064c/13789321556-500.jpg" data-tags="hip-hop, hip hop, rap, american, gangsta rap, east coast, 00s, fat joe, hip hop rap" role="button">
 Fat Joe - All or Nothing (2005-06-14)
@@ -261,9 +270,6 @@ Akon - Konvicted (2006-11-14)
 <li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
 Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
 </li>
-<li data-cover="https://img.discogs.com/-XnFkV2hRHI2Iu3E3Kb1jH9Y0eM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-845159-1269046384.jpeg.jpg" data-tags="hip-hop, neptunes, rap" role="button">
-Clipse - Hell Hath No Fury (2006-11-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/797ec0b3-e43d-4e75-9ebc-bd9fbc11a26a/5145546244-500.jpg" data-tags="hip-hop, hip hop, rap" role="button">
 DMX - The Definition Of X: Pick Of The Litter (2007-06-12)
 </li>
@@ -294,9 +300,6 @@ Jae Millz - The Time Is Now (2010-08-17)
 <li data-cover="https://img.discogs.com/jQvH2RM7qJ2k7LqOYPG_-vpFGio=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9917019-1490040312-5311.jpeg.jpg" data-tags="west coast hip hop" role="button">
 Ice Cube - I Am The West (2010-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/cabee5ec-293f-449a-a962-195b7020f14e/6041741387-500.jpg" data-tags="trap rap" role="button">
-Waka Flocka Flame - Flockaveli (2010-10-05)
-</li>
 <li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
@@ -309,16 +312,13 @@ Killer Mike - R.A.P. Music (2012-05-15)
 <li data-cover="http://coverartarchive.org/release/48e6db7f-b247-4da6-bcc1-3a89100a7c8d/12252536435-500.jpg" data-tags="2 chainz" role="button">
 2 Chainz - Based on a T.R.U. Story (2012-08-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/2a8e24f3-3d0e-4360-aec7-964d50be992b/7267511344-500.jpg" data-tags="chief keef" role="button">
-Chief Keef - Finally Rich (2012-12-18)
+<li data-cover="http://coverartarchive.org/release/d2534ea3-418b-40ef-9130-81ceb210860d/5520097661-500.jpg" data-tags="freddie gibbs" role="button">
+Freddie Gibbs - Baby Face Killa (2012-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/212447aa-119a-406f-b368-983f69e18b2e/5589553882-500.jpg" data-tags="rap, gangsta rap" role="button">
 Pusha T - My Name Is My Name (2013-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dc71c63-6cce-4b86-b65b-22ed0b00c0ab/10030756176-500.jpg" data-tags="gangsta rap, rap" role="button">
 Freddie Gibbs & Madlib - Piñata (2014-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/514d65fd-22fb-4bf4-9856-3bc4d466f567/9142101059-500.jpg" data-tags="gangsta rap, trap, chief keef, drill music, glory boyz, dj holiday, gbe ent, modern classical trap" role="button">
-Chief Keef - Back From The Dead 2 (2014-10-30)
 </li>
 </ol>

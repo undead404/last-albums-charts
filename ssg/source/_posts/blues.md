@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:16:07.107Z
+date: 2021-04-09T23:51:01.431Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -171,9 +171,6 @@ Tom Waits - Alice (1999)
 <li data-cover="https://img.discogs.com/hWDqh0XXTI0Yba-4Homa6PrxF-M=/fit-in/201x203/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4526066-1367378651-2853.jpeg.jpg" data-tags="singer-songwriter, blues" role="button">
 Tom Waits - Mule Variations (1999-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/d0e3d96a-c6c5-4c44-9b6a-c80216354328/5959517015-500.jpg" data-tags="blues rock" role="button">
-Eric Clapton - Clapton Chronicles: The Best of Eric Clapton (1999-10-12)
-</li>
 <li data-cover="https://img.discogs.com/8zK5BwN0CGHQkHoEDnU7l_JJD5k=/fit-in/600x555/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16083116-1603191699-6994.jpeg.jpg" data-tags="low rock, rock, blues, jazz" role="button">
 Morphine - The Night (2000-02-01)
 </li>
@@ -198,14 +195,11 @@ Joe Bonamassa - Blues Deluxe (2003-08-26)
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
+Joss Stone - The Soul Sessions (2003-09-16)
+</li>
 <li data-cover="https://img.discogs.com/kutq8szyAFLHrSU7nW-GlGhoHs4=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-420173-1240855058.jpeg.jpg" data-tags="female vocalists, jazz, blues, katie melua" role="button">
 Katie Melua - Call Off the Search (2003-11-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/37839d30-1f16-438a-84e4-24670ff9a634/15339384913-500.jpg" data-tags="indie, the john butler trio" role="button">
-The John Butler Trio - Sunrise Over Sea (2004-03-08)
-</li>
-<li data-cover="https://img.discogs.com/m0fgdWmyM4wTAr76YR_8WWo8On0=/fit-in/373x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5218555-1387813137-1639.jpeg.jpg" data-tags="indie, folk" role="button">
-Sufjan Stevens - Seven Swans (2004-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ea6d063-de17-3423-80f1-ed21563c47b2/22164226793-500.jpg" data-tags="soul, blues, jazz" role="button">
 Ray Charles - Genius Loves Company (2004-08-27)
@@ -218,9 +212,6 @@ Joss Stone - Mind Body & Soul (2004-09-27)
 </li>
 <li data-cover="https://img.discogs.com/gcvh_G1cU7K2nvX7-zDztowbVh4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438161-1558967298-3250.jpeg.jpg" data-tags="blues, experimental" role="button">
 Tom Waits - Real Gone (2004-10-04)
-</li>
-<li data-cover="https://img.discogs.com/5rfwQzSQz1olDnMk_Bd8qnDKWU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-696056-1167340049.jpeg.jpg" data-tags="folk, indie" role="button">
-Beirut - Gulag Orkestar (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/21a61aea-caa7-4f5c-887e-960a0a479bbd/19505380379-500.jpg" data-tags="soul" role="button">
 Amos Lee - Amos Lee (2005-01-01)
@@ -237,6 +228,9 @@ John Mayer Trio - Try! (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
 Norah Jones - Not Too Late (2006)
 </li>
+<li data-cover="https://img.discogs.com/cJD9YaMrOcFcA8aD_WRJTCk8vCM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635262-1391952508-1369.jpeg.jpg" data-tags="soul" role="button">
+Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/0d6ea51b-d4bc-4e87-8db6-0f5110602594/3374950699-500.jpg" data-tags="rock, alternative, indie rock" role="button">
 The Raconteurs - Broken Boy Soldiers (2006-05-15)
 </li>
@@ -248,6 +242,9 @@ Christina Aguilera - Back to Basics (2006-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd4537c4-4faf-4b20-b4eb-e4807c7d085a/26946880719-500.jpg" data-tags="blues rock" role="button">
 The Black Keys - Magic Potion (2006-09-11)
+</li>
+<li data-cover="https://img.discogs.com/dKC_ba-hfahXXfAu-PyUPnaqW4w=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830764-1517972935-2117.jpeg.jpg" data-tags="blues, m singer-songwriter" role="button">
+Scott Matthews - Passing Stranger (2007-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0720ab6f-d9e0-3cc9-82be-930cd76faf5d/8160980453-500.jpg" data-tags="blues" role="button">
 Eric Clapton - Complete Clapton (2007-10-08)
@@ -272,6 +269,9 @@ Blakroc - Blakroc (2009-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)
+</li>
+<li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
+John Mayer - Battle Studies (2009-11-17)
 </li>
 <li data-cover="https://img.discogs.com/HoZf6cV2xCWO7qKeok3yhsITTFQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2286337-1274535311.jpeg.jpg" data-tags="garage rock" role="button">
 The Dead Weather - Sea of Cowards (2010-05-10)

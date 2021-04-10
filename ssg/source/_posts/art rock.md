@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:17:01.487Z
+date: 2021-04-09T23:58:07.375Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -33,8 +33,11 @@ The Velvet Underground - White Light/White Heat (1968-01-30)
 <li data-cover="https://img.discogs.com/2XB2Zi6X6y9GAL_b399rTFYIta4=/fit-in/600x738/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8744584-1494946548-1401.jpeg.jpg" data-tags="progressive rock" role="button">
 King Crimson - In the Court of the Crimson King (1969-10-10)
 </li>
-<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
-David Bowie - Space Oddity (1969-11-04)
+<li data-cover="https://img.discogs.com/mEZJWBt4ebrznwBCtifb0xeE8Pw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10470208-1498082862-7740.jpeg.jpg" data-tags="rock, art rock" role="button">
+John Cale - Vintage Violence (1970)
+</li>
+<li data-cover="http://coverartarchive.org/release/3645588f-cdcf-4746-97ac-da059d332010/4529718708-500.jpg" data-tags="70s, classic rock" role="button">
+The Velvet Underground - Loaded (1970-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2e770dc-b6f2-4a94-94eb-54520a892790/26840491839-500.jpg" data-tags="progressive rock" role="button">
 Van der Graaf Generator - Pawn Hearts (1971-10)
@@ -153,6 +156,9 @@ The Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995-10-23)
 <li data-cover="https://img.discogs.com/ETn1Oxqi2diFlex2Qo6tCPRtAaM=/fit-in/599x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818272-1264395745.jpeg.jpg" data-tags="radiohead" role="button">
 Radiohead - Street Spirit (Fade Out) (1996-01-22)
 </li>
+<li data-cover="http://coverartarchive.org/release/a74bf5c1-7a8d-302b-9fe0-de4cd596a3e7/19716414556-500.jpg" data-tags="space rock" role="button">
+Spiritualized - Ladies and Gentlemen We Are Floating in Space (1997-05-07)
+</li>
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
 </li>
@@ -225,9 +231,6 @@ Radiohead - In Rainbows (2007-10-10)
 <li data-cover="https://img.discogs.com/G72yNChHS4FTutFos6i2s-qdczM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1780771-1383957457-6165.jpeg.jpg" data-tags="psychedelic rock" role="button">
 Warpaint - Exquisite Corpse (2008)
 </li>
-<li data-cover="http://coverartarchive.org/release/de36d613-1ff3-411f-8274-d776a87210a9/19872417915-500.jpg" data-tags="indie" role="button">
-The Dodos - Visiter (2008-03-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)
 </li>
@@ -269,9 +272,6 @@ Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/9bfd9370-b960-4ddb-9c74-20504cb5cc8e/3615163678-500.jpg" data-tags="indie" role="button">
-Poliça - Give You The Ghost (2011-12-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecfddb21-48c1-44b3-8918-365403b6459a/1802907186-500.jpg" data-tags="indie pop, indie rock, indietronica" role="button">
 Django Django - Django Django (2012-01-30)

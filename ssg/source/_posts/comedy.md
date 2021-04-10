@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:39:01.523Z
+date: 2021-04-10T00:41:01.405Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -34,10 +34,16 @@ Monty Python - Monty Python And The Holy Grail (1975-07-28)
 George Carlin - Killer Carlin (1981)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
+Bill Cosby - Himself (1982-11-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Weird Al Yankovic (1983-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9acb1d2-04ec-3f3c-909a-436ec6f6f7db/6297135716-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - In 3-D (1984-02-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/5b07a6c8-a3a2-4f5e-abdc-c3c9359340be/3363166051-500.jpg" data-tags="party all the time" role="button">
+Eddie Murphy - How Could It Be (1985)
 </li>
 <li data-cover="https://img.discogs.com/aRXXBW4vRsDn82_HffthzIPKoMg=/fit-in/480x360/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4551981-1512465921-4171.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Tom Waits - Rain Dogs (1985)
@@ -60,12 +66,6 @@ The Simpsons - The Simpsons Sing The Blues (1990-02-02)
 <li data-cover="http://coverartarchive.org/release/9a649759-c3af-48ae-8e52-e159965eb262/6290570162-500.jpg" data-tags="comedy" role="button">
 "Weird Al" Yankovic - Off The Deep End (1992-04-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/e54f5104-4087-478a-85af-77033fbdbe7e/8306558791-500.jpg" data-tags="comedy" role="button">
-Denis Leary - No Cure For Cancer (1993-01-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/b0b44bb4-437e-4d97-9227-b5fc37c0f67b/3242403619-500.jpg" data-tags="ambient, gothic, ethereal" role="button">
-Dead Can Dance - Into the Labyrinth (1993-09-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/55f73dc4-aecd-4d61-ac11-9091eb67bc41/11196133071-500.jpg" data-tags="comedy" role="button">
 Adam Sandler - They're All Gonna Laugh at You (1993-09-28)
 </li>
@@ -74,6 +74,9 @@ Adam Sandler - They're All Gonna Laugh at You (1993-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6318d3f5-3641-4009-b084-cfa1878dc0d2/9885679918-500.jpg" data-tags="metal, canadian, comedy, humour, humor, childrens, lolcore" role="button">
 Raffi - Bananaphone (1994)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
+Monty Python - The Ultimate Monty Python Rip Off (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg" data-tags="mamonas assassinas, brazilian, rock, 90s" role="button">
 Mamonas Assassinas - Mamonas Assassinas (1995-06-23)
@@ -90,14 +93,8 @@ Adam Sandler - What the Hell Happened to Me? (1996-02-13)
 <li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/51ed2b71-1e7a-4c1a-8781-0aa4d3b17d73/5734856436-500.jpg" data-tags="comedy, stand-up" role="button">
-Bill Hicks - Rant in E-Minor (1997-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/0202e76d-5859-4e4d-b26e-7ea828ca0962/5459181140-500.jpg" data-tags="hip hop, political, comedy, brazilian, parody, pop rap, sarcastic, conscious hip hop, pagode, comedy rap" role="button">
 Gabriel O Pensador - Quebra - Cabeça (1997-07)
-</li>
-<li data-cover="https://img.discogs.com/m7JB0HWuAzAta9cI0tdb5VSLSrs=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3290348-1324610526.jpeg.jpg" data-tags="celtic" role="button">
-Loreena McKennitt - The Book Of Secrets (1997-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/0052d858-ec26-48cd-bc52-0ddd9dd275fb/24397212007-500.jpg" data-tags="comedy, humor" role="button">
 Denis Leary - Lock 'N Load (1997-11-18)
@@ -171,6 +168,9 @@ Mitch Hedberg - Mitch All Together (2003-12-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 David Cross - It's Not Funny (2004-05-04)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy, stand-up, fantastic comedy albums" role="button">
+Patton Oswalt - Feelin' Kinda Patton (2004-06-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/03902c46-d06b-452b-b76b-889982f0a166/25695956075-500.jpg" data-tags="indie, british, punk, alternative, post-punk" role="button">
 The Ordinary Boys - Over the Counter Culture (2004-08-05)
 </li>
@@ -222,9 +222,6 @@ Greg Giraldo - Good Day To Cross A River (2006-10-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, stand-up" role="button">
 Joe Rogan - Shiny Happy Jihad (2007-04-10)
 </li>
-<li data-cover="https://img.discogs.com/xtw-OU2rHnQDBLOicHEMH4kRFNE=/fit-in/456x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2479045-1321193620.jpeg.jpg" data-tags="soundtrack, noise, pop, rock, 60s, 70s, 80s, dead, brutal, grindcore, emo, rap, experimental, noise rock, underground rap, lo-fi, world, techno, 90s, death, nigeria, composer, dirty south, screamo, political, comedy, chainsaw, finnish, cyberpunk, stoner, breakcore, garage, kids, male vocalists, dark ambient, 50s, 40s, videogame, j-rock, mexican, underground, propaganda, anarchy, grim, power metal, suicide, crime, chaos, melodic noise, porn, marijuana, penis, goregrind, fuck, gangsta, scat, conspiracy, noisecore, deathcore, symphonic black metal, nsbm, cocaine, childrens music, hell, jesus, violence, death row, aids, disease, sickness, murder, satan, disaster, bacteria, islam, misery, moses, columbia, tragic, illegal, suicidal black metal, depressive, child abuse, homicide, cult, erotic, zombie, desperate, one hit wonder" role="button">
-Sturm und Drang - Learning To Rock (2007-05-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/f843ed4f-8e8a-41c3-8555-e01a1ecf2eb0/27544898643-500.jpg" data-tags="comedy" role="button">
 Patton Oswalt - Werewolves and Lollipops (2007-07-10)
 </li>
@@ -249,14 +246,26 @@ The Libertines - Time for Heroes: The Best of The Libertines (2007-10-29)
 <li data-cover="https://via.placeholder.com/450" data-tags="spoken word, comedy, humour, humor, funny, stand-up, standup, comedian, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central" role="button">
 Ralphie May - Prime Cut (2007-11-13)
 </li>
+<li data-cover="https://img.discogs.com/Nm4QEI8gsQ6TfN4UTdRPhrIYoWM=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3901811-1348615000-3997.jpeg.jpg" data-tags="australian, piano, comedy" role="button">
+Tim Minchin - Ready For This? (2008)
+</li>
+<li data-cover="http://coverartarchive.org/release/1b65338b-6702-40ca-93e2-d5fd71a0a495/9908959141-500.jpg" data-tags="comedy, standup comedy" role="button">
+Dane Cook - Vicious Circle (2008-01-29)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Flight of the Conchords - Flight of the Conchords (2008-04-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, comedy" role="button">
+Lafee - Shut Up (2008-06-27)
 </li>
 <li data-cover="https://img.discogs.com/F6pugXgrfiEKktJos1EQvw3Hcz4=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760183-1299792396.jpeg.jpg" data-tags="comedy, revival, sting, midgets, oasis, moaning, complaining, self-important, mor, out of tune, special, sexist, paul weller, libertines, cockney, hard-fi, misogynistic, pete doherty, can't sing, wannabes, landfill indie, self-righteous, hates women, pub-rock, capitalist, mockney, i might like this, tories, lad-rock, anti-feminist, blokey, post-oasis, epic-fail, arrogant singer, comercialist, tory boys, x factor hopefuls" role="button">
 The Metros - More Money Less Grief (2008-09-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Louis C.K. - Chewed Up (2008-12-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/82b09f52-6dd4-4513-bff7-80b267c9aa00/18830649233-500.jpg" data-tags="indie" role="button">
+The View - Which Bitch? (2009-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b63e036-f464-42af-8434-452a0aea9048/5096803494-500.jpg" data-tags="comedy" role="button">
 Jon Lajoie - You Want Some of This? (2009-01-30)
@@ -288,9 +297,6 @@ Louis C.K. - Hilarious (2011-01-11)
 <li data-cover="http://coverartarchive.org/release/c0791d09-7efa-4be6-bb48-93dd06fe25ba/4539784466-500.jpg" data-tags="comedy, misc, scat, daniel, miscellaneous, trans, central, comedy central, down under, viral, shemale, tosh, daniel tosh, specific, optional, r-rated, without cognitive function, closeted, sausage fest, filtered extremity, good but most of the fans are solipsist trendy douchebags, miscellaneous specificity, potty humor, generalities, specific generalities, specificity, cognition free, needle nose, internet creations, lost without the internet" role="button">
 Daniel Tosh - Happy Thoughts (2011-03-08)
 </li>
-<li data-cover="https://img.discogs.com/sa4Jl-YBdMDxBUMmdm_bc6S4fSg=/fit-in/600x504/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6866131-1594226931-8692.jpeg.jpg" data-tags="pop, dance, born this way, modern" role="button">
-Lady Gaga - Judas (2011-04-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/ca702568-c353-44f4-86e8-9fc3b5b1f104/10964780293-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - Turtleneck & Chain (2011-05-09)
 </li>
@@ -303,9 +309,6 @@ Steel Panther - Balls Out (2011-10-26)
 <li data-cover="http://coverartarchive.org/release/f127f560-c021-49e6-992c-be629566f025/948429328-500.jpg" data-tags="rock, hard rock" role="button">
 Tenacious D - Rize of the Fenix (2012-05-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/88713452-4b94-4e4c-90c1-c424be904676/14821961192-500.jpg" data-tags="darkwave, ethereal, ambient" role="button">
-Dead Can Dance - Anastasis (2012-08-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/99090280-a977-470e-8a7b-f94d98346dbd/4294738755-500.jpg" data-tags="comedy" role="button">
 The Lonely Island - The Wack Album (2013-06-07)
 </li>
@@ -314,9 +317,6 @@ Starbomb - Starbomb (2013-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/76d0b2ef-4095-4d4c-a8c6-5b80f862a7a2/12309934751-500.jpg" data-tags="comedy rock" role="button">
 "Weird Al" Yankovic - Mandatory Fun (2014-07-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/5dcf4b2a-2fc8-4255-badb-1383875eb2cf/8452088286-500.jpg" data-tags="japanese, anime, j-pop, anison, not experimental, so bad its bad, emo, hipster, posers, church of satan, singing cunt, pop, racist, wannabe, weeaboo, poser, atrocious, not darkwave, pitchforkcore, not epic" role="button">
-Zola Jesus - Taiga (2014-10-06)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Bill Hicks - Revelations (2015-12-02)

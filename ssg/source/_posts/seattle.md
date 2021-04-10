@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T07:28:01.324Z
+date: 2021-04-09T23:54:01.401Z
 title: "seattle: 100 albums you must listen to before you die"
 ---
 ![Macklemore &amp; Ryan Lewis - The Heist (2012-10-09)](http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg "Macklemore & Ryan Lewis - The Heist (2012-10-09)")
@@ -9,9 +9,9 @@ title: "seattle: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/294e3f8b-e60b-4975-aa2c-618451d51705/8951028803-500.jpg" data-tags="grunge" role="button">Mad Season - Above (1995-03-14)</li>
 <li data-cover="http://coverartarchive.org/release/8265675c-28ee-4ed4-80ff-86f87e8c9229/27696792367-500.jpg" data-tags="indie, rock, alternative, seattle, indie rock, mellow, huh, bleak, northwest, ships ahoy, franny, gloeiworm, cat covers, have a copy" role="button">Pedro the Lion - Achilles Heel (2004-05-25)</li>
 <li data-cover="http://coverartarchive.org/release/1f1a4299-a7e9-4f05-b498-082b6c73a305/6140213160-500.jpg" data-tags="alternative rock, rock" role="button">Foo Fighters - In Your Honor (2005-05-13)</li>
+<li data-cover="http://coverartarchive.org/release/37b256dd-b078-3f43-931a-e278c591a9c1/18726885638-500.jpg" data-tags="indie, indie rock, rock, minus the bear" role="button">Minus the Bear - Menos El Oso (2005-08-23)</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">Brandi Carlile - The Story (2007-04-03)</li>
 <li data-cover="http://coverartarchive.org/release/2fe339f1-dd0b-4694-b0d9-cab1f1126a12/1938247497-500.jpg" data-tags="rock, grunge, alternative rock" role="button">Pearl Jam - Backspacer (2009-09-18)</li>
-<li data-cover="https://img.discogs.com/Npwa0T0tKvmO7Q-4p78l4ELoTZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2832647-1303069251.jpeg.jpg" data-tags="folk" role="button">The Head and the Heart - The Head and The Heart (2010-06-29)</li>
 <li data-cover="http://coverartarchive.org/release/da07a173-bf3d-4e7e-995d-ce473ce83030/7142443599-500.jpg" data-tags="rock, alternative, seattle, soft rock, 2010s, northwest, sub pop records, my gang 12, backlog, soft rock revival, colorful and psychedelic artwork" role="button">Father John Misty - Fear Fun (2012-04-30)</li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">Macklemore & Ryan Lewis - The Heist (2012-10-09)</li>
 </ol>
@@ -105,6 +105,9 @@ Brad - Interiors (1997-06-03)
 <li data-cover="http://coverartarchive.org/release/a1384642-7aa5-4f3a-9839-5e7ad4ab0f23/10132446474-500.jpg" data-tags="grunge, rock" role="button">
 Soundgarden - A-Sides (1997-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/c6b65e44-2f44-4be1-af0b-f7f13f6fde99/21230451842-500.jpg" data-tags="grunge" role="button">
+Love Battery - Confusion Au Go Go (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/ce0af920-bbf3-33e1-8133-6c72aebe30dd/2550464717-500.jpg" data-tags="grunge, rock" role="button">
 Pearl Jam - Yield (1998-01-28)
 </li>
@@ -144,17 +147,20 @@ Preston School of Industry - Goodbye to the Edge City (2001-07-30)
 <li data-cover="https://img.discogs.com/Pl_Ad6v0OYNs1ogfYeLeM545pyY=/fit-in/500x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-909525-1171798456.jpeg.jpg" data-tags="rock, grunge, alternative rock" role="button">
 Stone Gossard - Bayleaf (2001-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/35032af8-19e3-49df-89b6-9cc0bd16565f/16257879896-500.jpg" data-tags="indie rock" role="button">
+Minus the Bear - This is What I Know About Being Gigantic (2001-11-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/61dfc0c1-9057-41c5-b788-a8cfe26c633a/17647597715-500.jpg" data-tags="indie, seattle, indie rock, bounce, euphoric, 2000s, blissful, barsuk, cathartic, clutter, plaintive, folksy, desert island discs, barsuk: generalized, the long winters, albums acquired in 2011" role="button">
 The Long Winters - The Worst You Can Do Is Harm (2002-02-19)
 </li>
 <li data-cover="https://img.discogs.com/s7QxEkk-FxRKyQzkll_UUS74nr4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1345157-1597423214-3871.jpeg.jpg" data-tags="indie rock, indie" role="button">
 Pretty Girls Make Graves - Good Health (2002-04-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9a2a700-4047-3d9c-93f4-2ba76f88266c/12527556200-500.jpg" data-tags="rock, grunge" role="button">
-Jerry Cantrell - Degradation Trip (2002-06-18)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, grunge" role="button">
 Pearl Jam - Riot Act (2002-11-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">
+Minus the Bear - Highly Refined Pirates (2002-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/260e0a3b-d5dc-4337-a81a-5bdebd97f50c/24616720531-500.jpg" data-tags="folk" role="button">
 Damien Jurado - Where Shall You Take Me? (2003-03-04)
@@ -194,6 +200,9 @@ Foo Fighters - In Your Honor (2005-05-13)
 </li>
 <li data-cover="https://img.discogs.com/-3ll23Lussh5OYmUmUx-aQj_tUg=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-708932-1150370529.jpeg.jpg" data-tags="rock, alternative, seattle, twee, dramatic, northwest, dry, heartfelt, huggable, catpop, great ep, hey album youre so fucking cute, mss new albums" role="button">
 Math and Physics Club - Movie Ending Romance (2005-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/37b256dd-b078-3f43-931a-e278c591a9c1/18726885638-500.jpg" data-tags="indie, indie rock, rock, minus the bear" role="button">
+Minus the Bear - Menos El Oso (2005-08-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce5fc601-bfaf-46db-a26a-603d136557ac/27168871985-500.jpg" data-tags="alternative, rock" role="button">
 Harvey Danger - Little by Little (2005-09-13)
@@ -261,9 +270,6 @@ Pearl Jam - Backspacer (2009-09-18)
 <li data-cover="https://img.discogs.com/D5_Pv19U8urkTZ3la7gVujoMCvw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10323123-1495313942-1248.jpeg.jpg" data-tags="rock, alternative, seattle, northwest" role="button">
 Ivan & Alyosha - The Verse, The Chorus (2009-10-20)
 </li>
-<li data-cover="https://img.discogs.com/F7kAv-USBoD_V75FxbB-pJnbkJM=/fit-in/450x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2369487-1280026294.jpeg.jpg" data-tags="grunge, live" role="button">
-Nirvana - Live at Reading (2009-10-30)
-</li>
 <li data-cover="https://img.discogs.com/ABRafESd9LrNMYITkr02_da30IQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2199057-1269373276.jpeg.jpg" data-tags="indie, seattle, indie rock, lo-fi, psychedelic pop, 10s" role="button">
 Pill Wonder - Jungle/Surf (2010-03-16)
 </li>
@@ -275,9 +281,6 @@ Band of Horses - Infinite Arms (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/618465a4-40c6-4041-a8d4-90ead3a62515/1604002336-500.jpg" data-tags="stoner rock" role="button">
 Melvins - The Bride Screamed Murder (2010-06-01)
-</li>
-<li data-cover="https://img.discogs.com/Npwa0T0tKvmO7Q-4p78l4ELoTZw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2832647-1303069251.jpeg.jpg" data-tags="folk" role="button">
-The Head and the Heart - The Head and The Heart (2010-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/55ee9605-c90f-48eb-9ed4-8022d2f5fefe/26518177815-500.jpg" data-tags="rock, alternative, seattle, northwest" role="button">
 David Bazan - Strange Negotiations (2011-05-24)
@@ -300,8 +303,8 @@ Father John Misty - Fear Fun (2012-04-30)
 <li data-cover="https://img.discogs.com/U2u1IJX-wxO7HQ0SZXpU4HL0Pis=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14117028-1568174135-7777.jpeg.jpg" data-tags="female vocalists, singer-songwriter, indie, folk" role="button">
 Brandi Carlile - Bear Creek (2012-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/b4c55434-5289-4a54-ae7b-06888a3baf43/1318067227-500.jpg" data-tags="soul" role="button">
-Allen Stone - Allen Stone (2012-07-31)
+<li data-cover="http://coverartarchive.org/release/3ac12ff3-71e4-4942-bb3b-093dc44c8568/3851249834-500.jpg" data-tags="americana" role="button">
+Sera Cahoone - Deer Creek Canyon (2012-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/a100f86e-ac89-4ced-98e9-799f4329622e/2307424566-500.jpg" data-tags="hip-hop, macklemore, hip hop, rap" role="button">
 Macklemore & Ryan Lewis - The Heist (2012-10-09)
@@ -311,9 +314,6 @@ Telekinesis - Dormarion (2013-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c2d3f14-262e-4781-a484-d80ee82ef7a9/9363103757-500.jpg" data-tags="alternative rock, grunge" role="button">
 Pearl Jam - Lightning Bolt (2013-10-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/7c6099d7-bf05-4843-bda7-325a746a9c82/6289108064-500.jpg" data-tags="secretly canadian" role="button">
-Damien Jurado - Brothers and Sisters of the Eternal Son (2014-01-21)
 </li>
 <li data-cover="https://img.discogs.com/yFzU9UkFppGk1cRr8eVJ-6elxVU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5184243-1386808799-5294.jpeg.jpg" data-tags="indie, seattle, female vocalists, singer-songwriter, 10s, orindal" role="button">
 Julie Byrne - Rooms With Walls and Windows (2014-01-21)

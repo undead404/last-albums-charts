@@ -1,17 +1,17 @@
 ---
-date: 2021-04-09T07:31:06.976Z
+date: 2021-04-10T00:21:01.399Z
 title: "country pop: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/834a05ec-4bbc-4276-b797-2ccdf625d648/7331581825-500.jpg" data-tags="country, country pop, contemporary christian, bono, ccm, urban cowboy, pentecostal, the edge, jesus had a penis, dake-bonoist, dake, dake-bonoism, confucius had a penis, listen to u2, dake-bonoistic doctrine, conforms to dake-bonoistic doctrine, moist butt kittens, they always conform to dake-bonoistic doctrine, finis jennings dake, dake-bono, contemporary muslim" role="button">Glen Campbell - Southern Nights (1977-02)</li>
-<li data-cover="https://img.discogs.com/MOMwHVe2p5W1t2C_WX2_dUESRmM=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-908095-1423688575-5624.jpeg.jpg" data-tags="country pop, pop, country" role="button">Shania Twain - Up! (2002-11-18)</li>
 <li data-cover="http://coverartarchive.org/release/a33b9822-9f09-4e19-9d6e-e05af85c727b/5228564975-500.jpg" data-tags="country" role="button">Carrie Underwood - Some Hearts (2005-11-15)</li>
 <li data-cover="http://coverartarchive.org/release/09689c80-1ecd-463d-b212-ad252cb138c9/8900302560-500.jpg" data-tags="country" role="button">Taylor Swift - Taylor Swift (2006-10-24)</li>
 <li data-cover="http://coverartarchive.org/release/1ae35324-42a2-4cd8-880e-9d810ef964b2/6121102106-500.jpg" data-tags="country" role="button">Carrie Underwood - Carnival Ride (2007-10-23)</li>
 <li data-cover="https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg" data-tags="country" role="button">Taylor Swift - Fearless (2008-11-11)</li>
-<li data-cover="https://img.discogs.com/Xp-xvx_0yhZAU08NC-Ef7bxl3sc=/fit-in/592x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604025-1292748172.jpeg.jpg" data-tags="country" role="button">Lady Antebellum - Need You Now (2010-06-29)</li>
+<li data-cover="http://coverartarchive.org/release/0b7b7553-1492-49f4-b8bc-3fb482fe4ab2/7911228592-500.jpg" data-tags="country" role="button">Carrie Underwood - Play On (2009-11-03)</li>
 <li data-cover="https://img.discogs.com/scURdDHnJxXGhNe3S0C141A8zYQ=/fit-in/310x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3774986-1343921934-2320.jpeg.jpg" data-tags="country" role="button">Taylor Swift - Speak Now (2010-10-25)</li>
+<li data-cover="https://img.discogs.com/-AaM238cQ-tI0TXoRWXfVNZhdHw=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9519370-1484442560-7043.jpeg.jpg" data-tags="country" role="button">Lady Antebellum - Own the Night (2011-09-13)</li>
 <li data-cover="https://img.discogs.com/wChLj95dyM62qYlsECzUPmYPK0o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3575808-1335954973.jpeg.jpg" data-tags="country, country pop" role="button">Carrie Underwood - Blown Away (2012-05-01)</li>
 <li data-cover="http://coverartarchive.org/release/90d96ad7-ca44-41f2-bc47-cbc9c762be3b/2432027661-500.jpg" data-tags="pop, country" role="button">Taylor Swift - Red (2012-10-22)</li>
 </ol>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="https://img.discogs.com/VcoRJm-YVZgqK4Aku3l0a6Djdp0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5038593-1464622384-7864.jpeg.jpg" data-tags="country" role="button">
-Bobbie Gentry - Ode To Billie Joe (1967)
-</li>
 <li data-cover="https://img.discogs.com/mybFD7GXpZAwbDkPS_9PVLeBEGo=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1904441-1507107587-5317.jpeg.jpg" data-tags="oldies, duets" role="button">
 Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 </li>
@@ -66,11 +63,14 @@ Garth Brooks - Fresh Horses (1995-11-21)
 <li data-cover="https://img.discogs.com/sE1T9hUyUW0QG9XtP_MwVOXf24A=/fit-in/600x946/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7571210-1444263508-8461.jpeg.jpg" data-tags="country, country pop" role="button">
 LeAnn Rimes - Blue (1996-07-09)
 </li>
-<li data-cover="https://img.discogs.com/kGjwTJVkYTzpkUK96W2rCse2Ti8=/fit-in/580x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2886278-1371721365-3427.jpeg.jpg" data-tags="country" role="button">
-Deana Carter - Did I Shave My Legs For This? (1997)
+<li data-cover="http://coverartarchive.org/release/49fd4110-3b0d-41c6-968a-42345e0ee68b/22060725799-500.jpg" data-tags="country pop, modern country, contemporary country" role="button">
+Kevin Sharp - Measure Of A Man (1996-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9cf6052-0682-4ca3-b89b-4b563d075ea2/21187265585-500.jpg" data-tags="country, brooks and dunn" role="button">
 Brooks & Dunn - Greatest Hits (1997)
+</li>
+<li data-cover="http://coverartarchive.org/release/4f9b566e-fb18-4a72-91c8-9e72d3d62af5/6310429808-500.jpg" data-tags="female vocalists, easy listening" role="button">
+k.d. lang - Drag (1997-06-10)
 </li>
 <li data-cover="https://img.discogs.com/faB_-tEElnsFZt1mt4QCSLCA_Tk=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8648129-1466040642-2252.jpeg.jpg" data-tags="country, female vocalists, country pop, pop country, 90s country, country-crossover, country divas, ladies of country, 90s country-pop, 90s country pop, m bride" role="button">
 Martina McBride - Evolution (1997-08-26)
@@ -92,6 +92,9 @@ LeAnn Rimes - Sittin' on Top of the World (1998-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d845523-a674-406a-a93d-2b66c1329169/26642280411-500.jpg" data-tags="country, female vocalists, 90s, country pop, pop country, 1990s, 90s country, country-crossover, country divas, ladies of country, 90s country-pop, favorite artist-band, 90s country pop, m bride" role="button">
 Martina McBride - Emotion (1999-02-09)
+</li>
+<li data-cover="https://img.discogs.com/LnZRfP6dbn1qNC3tdq_oFmP5GMY=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1999964-1594649010-8870.jpeg.jpg" data-tags="country, country pop, new traditionalist country, l cann" role="button">
+Lila McCann - Something in the Air (1999-03-23)
 </li>
 <li data-cover="https://img.discogs.com/na6SCvM0UqeDH4JbLATHyNmVPoM=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2377099-1280471658.jpeg.jpg" data-tags="country" role="button">
 Lonestar - Lonely Grill (1999-06-01)
@@ -132,8 +135,8 @@ Rascal Flatts - Melt (2002-10-29)
 <li data-cover="http://coverartarchive.org/release/f51dc5d8-9ede-474e-a5d5-6ac95dd6112a/21859992537-500.jpg" data-tags="dance" role="button">
 Rednex - The Best of the West (2002-11-18)
 </li>
-<li data-cover="https://img.discogs.com/MOMwHVe2p5W1t2C_WX2_dUESRmM=/fit-in/600x515/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-908095-1423688575-5624.jpeg.jpg" data-tags="country pop, pop, country" role="button">
-Shania Twain - Up! (2002-11-18)
+<li data-cover="http://coverartarchive.org/release/cd41f0f3-6bd8-4660-bbbf-a9252e854b31/22085445410-500.jpg" data-tags="country" role="button">
+Terri Clark - Pain To Kill (2003-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/34fbc14f-b370-4f93-91b8-f618df11f216/2728617775-500.jpg" data-tags="country pop, modern country, pop country, 90s country, 5 star albums, lonestar, 90s country-pop" role="button">
 Lonestar - From There to Here: Greatest Hits (2003-06-03)
@@ -153,6 +156,9 @@ Mary Chapin Carpenter - The Essential Mary Chapin Carpenter (2003-11-04)
 <li data-cover="http://coverartarchive.org/release/f4c76621-26e8-4c79-b449-f210eeb539b6/17468658946-500.jpg" data-tags="country" role="button">
 LeAnn Rimes - The Best of LeAnn Rimes (2004-02-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a9ad70a-e265-4dd7-b2ef-32ab61366bf8/9075778475-500.jpg" data-tags="carolyn dawn johnson, country" role="button">
+Carolyn Dawn Johnson - Dress Rehearsal (2004-05-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/5e14fd81-1fe8-491c-b128-b21b8033499a/21278155542-500.jpg" data-tags="country" role="button">
 Lee Ann Womack - Greatest Hits (2004-05-04)
 </li>
@@ -161,9 +167,6 @@ Lonestar - Let's Be Us Again (2004-05-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/99bfcd40-b086-41f7-83d7-786fbbb3c99b/26696949744-500.jpg" data-tags="country" role="button">
 Keith Urban - Be Here (2004-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/958f84cf-4658-38d5-8af7-e82b7e4201cc/20691175360-500.jpg" data-tags="shania twain, country" role="button">
-Shania Twain - Greatest Hits (2004-11-08)
 </li>
 <li data-cover="https://img.discogs.com/mLXYaVo2oQ_Yd8aR6o7TdC-tguU=/fit-in/600x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6653521-1423936681-9804.jpeg.jpg" data-tags="country" role="button">
 LeAnn Rimes - This Woman (2005-01-25)
@@ -201,6 +204,9 @@ Kellie Pickler - Small Town Girl (2006-10-31)
 <li data-cover="https://img.discogs.com/cbWRBO7bQYZ29szzE21aUJO2Nko=/fit-in/596x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877510-1304419569.jpeg.jpg" data-tags="country" role="button">
 Keith Urban - Love, Pain & the whole crazy thing (2006-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/753a59e5-a7a8-4f11-82ef-b56d6c8b874d/27672960630-500.jpg" data-tags="country" role="button">
+Martina McBride - Waking Up Laughing (2007-04-03)
+</li>
 <li data-cover="https://img.discogs.com/WOF7raIoLouZaJKqPANneAjx6o8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3999652-1351882712-6546.jpeg.jpg" data-tags="acoustic" role="button">
 Dashboard Confessional - The Shade Of Poison Trees (2007-10-01)
 </li>
@@ -221,9 +227,6 @@ Kurt Nilsen - Rise To The Occasion (2008-04-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d741fcf-1210-4b90-a165-d37abdb06511/8901648071-500.jpg" data-tags="pop, country, female vocalists" role="button">
 Taylor Swift - Beautiful Eyes (2008-06-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/dcf0cfad-6bed-3891-8326-f651dfbee9c4/9759244661-500.jpg" data-tags="country" role="button">
-Jessica Simpson - Do You Know (2008-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cd145f5-a5f1-44e7-b4aa-6951dcc57952/25970423591-500.jpg" data-tags="country" role="button">
 Kellie Pickler - Kellie Pickler (2008-09-30)
@@ -254,9 +257,6 @@ Dixie Chicks - Playlist: The Very Best Of The Dixie Chicks (2010-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad7bdd58-7822-4e72-aafe-b82f4a494918/3387936517-500.jpg" data-tags="pop, country pop, jessie james" role="button">
 Jessie James - Boys In The Summer (2010-06-29)
-</li>
-<li data-cover="https://img.discogs.com/Xp-xvx_0yhZAU08NC-Ef7bxl3sc=/fit-in/592x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604025-1292748172.jpeg.jpg" data-tags="country" role="button">
-Lady Antebellum - Need You Now (2010-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/553872be-6bfa-3dcc-941e-10d126aab66a/14247286471-500.jpg" data-tags="country pop" role="button">
 Michelle Branch - Everything Comes And Goes (2010-07-17)

@@ -1,15 +1,15 @@
 ---
-date: 2021-04-09T17:32:01.508Z
+date: 2021-04-10T00:17:01.401Z
 title: "glam rock: 100 albums you must listen to before you die"
 ---
 ![Lou Reed - Transformer (1972)](https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg "Lou Reed - Transformer (1972)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">David Bowie - Space Oddity (1969-11-04)</li>
 <li data-cover="https://img.discogs.com/EBAD1VztrgUqzvIUeVSyR9ujs7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3837949-1346378968-3807.jpeg.jpg" data-tags="glam rock, 70s, rock" role="button">David Bowie - The Man Who Sold the World (1970-11-04)</li>
 <li data-cover="http://coverartarchive.org/release/e6981e93-837e-4e7f-9ab0-8ec794df35e8/20620684373-500.jpg" data-tags="glam rock, 70s" role="button">T. Rex - Electric Warrior (1971-09-24)</li>
 <li data-cover="http://coverartarchive.org/release/04490fb2-a861-3db8-a8c6-386d8f9da1dc/2776393252-500.jpg" data-tags="glam rock, 70s" role="button">David Bowie - Hunky Dory (1971-12-17)</li>
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">Lou Reed - Transformer (1972)</li>
 <li data-cover="http://coverartarchive.org/release/da4db8d1-13b2-3d5e-a447-e2ad7733476a/3833715017-500.jpg" data-tags="glam rock" role="button">David Bowie - The Rise and Fall of Ziggy Stardust and the Spiders From Mars (1972-06-06)</li>
+<li data-cover="https://img.discogs.com/XXPAsaNMYuD9g3MpjBgSG4zeHBY=/fit-in/600x552/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7587206-1447535952-9447.jpeg.jpg" data-tags="glam rock, 70s" role="button">David Bowie - Aladdin Sane (1973-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/ac6a3bdd-4d2e-38e8-ba6e-33cecf128b18/14101003831-500.jpg" data-tags="glam rock, 70s" role="button">David Bowie - Diamond Dogs (1974-03)</li>
 <li data-cover="http://coverartarchive.org/release/c41a751f-7ad3-3948-8013-92c7663a8bee/5074459506-500.jpg" data-tags="industrial rock, industrial metal, industrial, glam rock" role="button">Marilyn Manson - Mechanical Animals (1998-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/3709ee5a-d087-370f-afb4-f730092c7a94/23744459570-500.jpg" data-tags="classic rock, rock" role="button">David Bowie - Best of Bowie (2002-10-18)</li>
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/MG4zQYJohrZLveLfzk8f7C0DvGA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5891387-1549371617-9485.jpeg.jpg" data-tags="classic rock, 60s, psychedelic, oldies, beat" role="button">
 The Easybeats - Friday on My Mind (1966)
-</li>
-<li data-cover="https://img.discogs.com/V_STfB_m_scgM-72C1Ra0r3UL4I=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-465476-1435594411-1443.jpeg.jpg" data-tags="rock, 60s, glam rock" role="button">
-David Bowie - Space Oddity (1969-11-04)
 </li>
 <li data-cover="https://img.discogs.com/EBAD1VztrgUqzvIUeVSyR9ujs7s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3837949-1346378968-3807.jpeg.jpg" data-tags="glam rock, 70s, rock" role="button">
 David Bowie - The Man Who Sold the World (1970-11-04)
@@ -53,6 +50,9 @@ T. Rex - The Slider (1972-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d4932d4-c81a-3438-97f1-fac6e8902712/6802461026-500.jpg" data-tags="glam rock, 70s, art rock" role="button">
 Roxy Music - For Your Pleasure (1973)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="glam rock" role="button">
+T. Rex - Tanx (1973)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock, classic rock" role="button">
 Alice Cooper - Billion Dollar Babies (1973-02-25)
@@ -98,9 +98,6 @@ Roxy Music - Country Life (1974-11-15)
 </li>
 <li data-cover="https://img.discogs.com/9ivDdU1RMuE8NdipVBpDpf0bok0=/fit-in/598x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7911286-1454884459-7960.jpeg.jpg" data-tags="70s" role="button">
 Roxy Music - Siren (1975)
-</li>
-<li data-cover="http://coverartarchive.org/release/361fc46d-c888-445b-94af-bd0ff8a2e109/4732234980-500.jpg" data-tags="70s, rock" role="button">
-David Bowie - Young Americans (1975)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">
 Queen - A Night at the Opera (1975-11-21)
@@ -278,6 +275,9 @@ The Ark - Prayer For The Weekend (2007-04-12)
 </li>
 <li data-cover="https://img.discogs.com/W0CSa9C1T3w-Noz--iomfu9PawU=/fit-in/476x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4514401-1372412382-9887.jpeg.jpg" data-tags="industrial rock" role="button">
 Marilyn Manson - Eat Me, Drink Me (2007-06-01)
+</li>
+<li data-cover="https://img.discogs.com/CR4qJVhguaACbpJemIxJbyKfQYU=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1191456-1459661360-7835.jpeg.jpg" data-tags="surprisingly good german glamrock, rock" role="button">
+Cinema Bizarre - Final Attraction (2007-10-12)
 </li>
 <li data-cover="https://img.discogs.com/lMWJeZe5UTygkMBOtMry3mlJfoc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495929-1598270233-6381.jpeg.jpg" data-tags="indie pop" role="button">
 of Montreal - Skeletal Lamping (2008-10-07)

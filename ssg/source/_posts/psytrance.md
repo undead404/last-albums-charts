@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T07:34:01.515Z
+date: 2021-04-10T00:34:01.392Z
 title: "psytrance: 100 albums you must listen to before you die"
 ---
 ![Infected Mushroom - Vicious Delicious (2007-03-20)](http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg "Infected Mushroom - Vicious Delicious (2007-03-20)")
@@ -9,9 +9,9 @@ title: "psytrance: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/5cfd4082-fb5e-4629-b734-4d2a7b62542c/2572934147-500.jpg" data-tags="psychedelic" role="button">Shpongle - Are You Shpongled? (1998-10-01)</li>
 <li data-cover="http://coverartarchive.org/release/9e0c0528-df5e-3aac-97b1-0318a9fb23f2/3183924982-500.jpg" data-tags="psytrance, goa, electronic" role="button">Infected Mushroom - The Gathering (1999-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/16c9e950-dadb-4d50-a1ad-54c630b243e3/7594550991-500.jpg" data-tags="psytrance" role="button">Infected Mushroom - Classical Mushroom (2000-02-01)</li>
-<li data-cover="https://img.discogs.com/Dv7Pgio7LPFqdKat1yi0UynK8g4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-73839-1477425849-1942.jpeg.jpg" data-tags="psychedelic" role="button">Shpongle - Tales of the Inexpressible (2001-05-30)</li>
 <li data-cover="https://img.discogs.com/G_lQGAvP2uMhUYgKP2sny3aAodE=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1019236-1464300306-9378.jpeg.jpg" data-tags="electronic, psytrance" role="button">Infected Mushroom - Converting Vegetarians (2003-04-09)</li>
 <li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">Infected Mushroom - IM the Supervisor (2004-09-10)</li>
+<li data-cover="http://coverartarchive.org/release/5c054155-b21f-4831-9acd-dd40029b53d7/4702925224-500.jpg" data-tags="psytrance" role="button">Astrix - Artcore (2004-10)</li>
 <li data-cover="http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg" data-tags="psytrance, electronic" role="button">Infected Mushroom - Vicious Delicious (2007-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/7e734f4f-3215-3153-8fa7-376cf8a8172e/8562147990-500.jpg" data-tags="electronic, psytrance, psychedelic" role="button">Infected Mushroom - Legend Of The Black Shawarma (2009-09-08)</li>
 </ol>
@@ -38,9 +38,6 @@ Juno Reactor - Beyond The Infinite (1995-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/09605364-828b-4664-b142-c7aaf75aa82b/5512445694-500.jpg" data-tags="psytrance" role="button">
 Total Eclipse - Delta Aquarids (1995-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/329f295f-4ee0-4ae9-ac57-3cddc926f2de/9405538272-500.jpg" data-tags="psytrance" role="button">
-The Infinity Project - Mystical Experiences (1995-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad07201-a676-35b5-b932-f7cba5b37f2c/9406374143-500.jpg" data-tags="goa" role="button">
 Astral Projection - The Astral Files (1996)
@@ -102,17 +99,11 @@ Man With No Name - Teleportation (2000-10-23)
 <li data-cover="http://coverartarchive.org/release/78ab4558-614d-4ad3-9b4d-7ff369497f57/1467900993-500.jpg" data-tags="psychedelic, psytrance, trance" role="button">
 Talamasca - Musica Divinorum (2001)
 </li>
-<li data-cover="https://img.discogs.com/qluFsA4fgZRPvOytX-r3Ivxkb6s=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369069-1448544399-9507.jpeg.jpg" data-tags="pop" role="button">
-Michelle Branch - The Spirit Room (2001-02-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/fb27e386-d568-4d46-a38b-ffa3ddac13c1/8890719356-500.jpg" data-tags="psytrance" role="button">
 Infected Mushroom - B.P. Empire (2001-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d71b97e-c836-3610-be49-867910cc880e/10665722192-500.jpg" data-tags="electronic" role="button">
 Infected Mushroom - B.P.Empire (2001-03-01)
-</li>
-<li data-cover="https://img.discogs.com/Dv7Pgio7LPFqdKat1yi0UynK8g4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-73839-1477425849-1942.jpeg.jpg" data-tags="psychedelic" role="button">
-Shpongle - Tales of the Inexpressible (2001-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/090f7e87-5a12-4bb7-8a8e-9eb7a49a8671/10527125003-500.jpg" data-tags="psytrance" role="button">
 Cosma - Simplicity (2001-07-27)
@@ -125,6 +116,9 @@ System 7 - Seventh Wave (2001-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/b556f511-1a7d-4c7c-a14d-13fda250dfcf/3420882655-500.jpg" data-tags="electronic" role="button">
 Infected Mushroom - Merlin (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/a52771a9-ddca-4416-94c7-009aa8900b94/5225138071-500.jpg" data-tags="psychedelic trance" role="button">
+1200 Micrograms - 1200 Micrograms (2002-09-30)
 </li>
 <li data-cover="https://img.discogs.com/AZgL_7XxWzLrtnvrIpxoQFn4-Qo=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-66007-1425201434-7457.jpeg.jpg" data-tags="psytrance" role="button">
 Astrix - Eye to Eye (2002-10)
@@ -153,12 +147,6 @@ Ott - Blumenkraft (2003-05-13)
 <li data-cover="http://coverartarchive.org/release/47015de4-4f7f-4148-bd2a-df3709e2e2ee/19415084984-500.jpg" data-tags="psytrance, goa" role="button">
 Cosma - Nonstop (2003-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/dab92633-793d-4d60-a9ee-54950070cfea/11124226539-500.jpg" data-tags="ambient" role="button">
-Entheogenic - Spontaneous Illumination (2003-06-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/a77c88f4-5ef8-4f58-86e9-ef817b37b050/4450922779-500.jpg" data-tags="pop" role="button">
-Michelle Branch - Hotel Paper (2003-06-23)
-</li>
 <li data-cover="https://img.discogs.com/JbewW2kimeysuWOjUTyO_RV0mCg=/fit-in/559x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-143222-1119822547.jpg.jpg" data-tags="psytrance" role="button">
 S.U.N. Project - Sexperimental (2003-06-23)
 </li>
@@ -170,6 +158,9 @@ Nitin Sawhney - Human (2003-07-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/54cd8ac4-5e7b-4a13-97e0-958c64ec4a5f/4389842044-500.jpg" data-tags="psytrance" role="button">
 Man With No Name - Interstate Highway (2003-07-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/a80b68e3-227b-4536-9b25-9c0aa51c1359/6493811465-500.jpg" data-tags="electronic" role="button">
+Fluke - Puppy (2003-08-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/961a2b5d-64a9-43d8-83ea-da28a93c039a/999164021-500.jpg" data-tags="ambient, chillout, psybient" role="button">
 Bluetech - Prima Materia (2003-09-23)
@@ -201,9 +192,6 @@ Infected Mushroom - IM the Supervisor (2004-09-10)
 <li data-cover="http://coverartarchive.org/release/800068ff-75a1-3fdc-963a-62d388f26bbf/21220422801-500.jpg" data-tags="trance, goa" role="button">
 Astral Projection - Ten (2004-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/8f46f90f-b5e5-443d-bb0f-40151764a950/4043627444-500.jpg" data-tags="trance, electronic, goa, psytrance" role="button">
-Juno Reactor - Labyrinth (2004-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/5c054155-b21f-4831-9acd-dd40029b53d7/4702925224-500.jpg" data-tags="psytrance" role="button">
 Astrix - Artcore (2004-10)
 </li>
@@ -216,11 +204,11 @@ Vibe Tribe - Melodrama (2004-11)
 <li data-cover="http://coverartarchive.org/release/3ea37f9b-0bf9-48ee-ac94-99a978063130/5225754560-500.jpg" data-tags="psychedelic trance, psytrance, psy trance" role="button">
 1200 Micrograms - The Time Machine (2004-12-01)
 </li>
+<li data-cover="https://img.discogs.com/asva7VJ138kLrHMWw-KW7gCQJag=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-391825-1107213628.jpg.jpg" data-tags="psytrance" role="button">
+Fatali - Faith (2005-01-16)
+</li>
 <li data-cover="https://img.discogs.com/096GTWW9OnxQnwwQPAWus9S-brU=/fit-in/400x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-428065-1112369689.jpg.jpg" data-tags="psytrance" role="button">
 Wrecked Machines - Second Thought (2005-03-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/ea9cd27f-d04a-4ecb-b93a-0a41afa06005/27631567351-500.jpg" data-tags="ambient" role="button">
-Entheogenic - Dialogue of the Speakers (2005-03-23)
 </li>
 <li data-cover="https://img.discogs.com/n78aruqghHzFQNvqguOS4bQzZ3g=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448353-1126258120.jpeg.jpg" data-tags="psytrance" role="button">
 Rinkadink - Pirate Signal (2005-04)
@@ -237,9 +225,6 @@ Ticon - Zero Six After (2005-10-21)
 <li data-cover="http://coverartarchive.org/release/05998956-a7bf-475c-8c1a-20bfa987366e/8312618887-500.jpg" data-tags="trance, electronic, psytrance" role="button">
 GMS - EMERGENCY BROADCAST SYSTEM (2005-11-02)
 </li>
-<li data-cover="https://img.discogs.com/jHAwF2obSvLb60gyHjO5nELWdME=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2125967-1265452903.jpeg.jpg" data-tags="new age, ambient, electronic, trip-hop, world fusion, chillout" role="button">
-Modus - The Colour of Love (2006)
-</li>
 <li data-cover="https://img.discogs.com/w_5ut7SoHHKRr4QUicKi8Wahj9w=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653829-1486872637-9616.jpeg.jpg" data-tags="psytrance" role="button">
 Tegma - Around The World In 80 Minutes (2006-03-27)
 </li>
@@ -248,6 +233,12 @@ Vibe Tribe - Wise Cracks (2006-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d33a971-8f34-4498-953b-26ae85c4cdd6/10894951825-500.jpg" data-tags="psytrance" role="button">
 Vibrasphere - Archipelago (2006-04-04)
+</li>
+<li data-cover="https://img.discogs.com/8aUSkmqWfyN9ijt4HnhArWqrbAA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-662226-1154876528.jpeg.jpg" data-tags="progressive trance, psychedelic trance, psytrance" role="button">
+Protoculture - Circadians (2006-04-14)
+</li>
+<li data-cover="https://img.discogs.com/IqUq410Kkq5-tUlAvDZjoTRi4Hs=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-694848-1148642823.jpeg.jpg" data-tags="psytrance" role="button">
+Electric Universe - Silence in Action (2006-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/552aedd6-05e7-46a4-bdac-ebf06be94d06/2698016881-500.jpg" data-tags="chillout, downtempo, ambient, psychill" role="button">
 Kuba - Inside Out (2006-06-24)
@@ -270,6 +261,9 @@ Cosmosis - Psychedelica Melodica (2007-06-06)
 <li data-cover="http://coverartarchive.org/release/27d0e3c6-fa11-4a87-afad-980ec639c515/4028427397-500.jpg" data-tags="ambient, psychill" role="button">
 Asura - Life² (2007-07-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/2a6f86f2-65cf-4850-9dfe-fe493e63cc12/12494213750-500.jpg" data-tags="trance, electronic, psytrance, full-on" role="button">
+Ananda Shake - Inside The Sound (2007-09-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/913fd1ba-4f98-47b9-8e58-a495066f94c2/10298509218-500.jpg" data-tags="psychedelic, chillout" role="button">
 Younger Brother - The Last Days Of Gravity (2007-10-15)
 </li>
@@ -279,14 +273,17 @@ Ott - Skylon (2008-01-25)
 <li data-cover="http://coverartarchive.org/release/a404d2d9-fe3e-41c7-8488-28fe6159871c/8558459453-500.jpg" data-tags="trance, psychedelic, goa" role="button">
 Juno Reactor - Gods & Monsters (2008-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/9879bc8a-f7a8-4406-8717-bb90433b6d83/10614379525-500.jpg" data-tags="ambient, psychill, chillout, psychedelic, ambient chillout" role="button">
-Entheogenic - Flight Of The Urubus (2008-09)
-</li>
 <li data-cover="https://img.discogs.com/KQXu3iAWgTzxqH6FGbNb99BiVNw=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1474903-1222446900.jpeg.jpg" data-tags="trance, progressive, psytrance" role="button">
 Liquid Soul - Love In Stereo (2008-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/6184e68d-0887-475c-8ad0-9e161e3aee78/1762259519-500.jpg" data-tags="psytrance, natural trance, collective sonance, acoustic trance, hilight tribe, free palestine, trancelucid" role="button">
 Hilight Tribe - Trancelucid (2008-10)
+</li>
+<li data-cover="https://img.discogs.com/a4ZeztJizDv4jZA1U08Hd6z1-jw=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1573457-1536839814-1308.jpeg.jpg" data-tags="psytrance" role="button">
+Electric Universe - Sonic Ecstasy (2008-12-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/e71e2e3e-64a5-4492-bb6d-acaa4c5ceae1/4377083608-500.jpg" data-tags="psytrance" role="button">
+Astrix - One Step Ahead (2008-12-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/852303fd-7651-451c-96f8-5193122b8490/10899999862-500.jpg" data-tags="chillout, psychedelic, psychill" role="button">
 Vibrasphere - Lungs of life (2008-12-22)
@@ -305,6 +302,9 @@ nigel stanford - Solar Echoes (2009-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/08c1d600-38a5-4182-9047-028d7e4afd7d/9168788552-500.jpg" data-tags="psytrance" role="button">
 Astrix - Red Means Distortion (2010-09-26)
+</li>
+<li data-cover="https://img.discogs.com/BctcH_LLJeQl8tDokF4XkPf1taQ=/fit-in/600x545/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2474220-1534966169-9301.jpeg.jpg" data-tags="chillout, ambient" role="button">
+Tripswitch - Geometry (2010-10-01)
 </li>
 <li data-cover="https://img.discogs.com/hexltCz9MB6mgA_9NK30G6YvZ5k=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2823730-1302659352.jpeg.jpg" data-tags="progressive rock, psychedelic rock" role="button">
 Younger Brother - Vaccine (2011-04-10)

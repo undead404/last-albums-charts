@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:14:01.451Z
+date: 2021-04-09T23:55:06.974Z
 title: "queen: 100 albums you must listen to before you die"
 ---
 ![Queen - Greatest Hits (1981-11-03)](http://coverartarchive.org/release/e510d91f-f1dc-469c-9927-e7f2e31fdbd3/22921745391-500.jpg "Queen - Greatest Hits (1981-11-03)")
@@ -90,6 +90,9 @@ Queen - Greatest Hits IV (1989)
 <li data-cover="https://via.placeholder.com/450" data-tags="queen" role="button">
 Queen - Queen Ballads (1989-11-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="queen, cover" role="button">
+Queen - The Hits From Queen Songbook (1989-11-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/fe89bda7-4736-4ff9-8a71-8f441b8168f6/9439997044-500.jpg" data-tags="rock, classic rock, hard rock, 80s" role="button">
 Queen - The Miracle (1989-11-27)
 </li>
@@ -114,14 +117,8 @@ Live - Mental Jewelry (1991-12-31)
 <li data-cover="http://coverartarchive.org/release/5c1c3582-3d7a-434e-995d-5129fae4c757/20870602711-500.jpg" data-tags="soul" role="button">
 Aretha Franklin - JAZZ TO SOUL (1992)
 </li>
-<li data-cover="https://img.discogs.com/rmFizOowKwpeX1eprL1WLZZR8hc=/fit-in/600x888/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12331262-1533332807-5148.jpeg.jpg" data-tags="noise, trance, classic rock, metal, french, electropop, indie, pop, rockabilly, rock, 80s, british, alternative, hard, brutal, grindcore, hardcore, swedish, emo, folk, rap, grime, dubstep, electro, dance, australian, canada, queen, lalala, cheese, lo-fi, blue-eyed soul, new wave, dance-pop, americana, chamber pop, post-punk, adult contemporary, new age, techno, house, scottish, canadian, ska, 8-bit, new zealand, 90s, russian, sunday, jpop, mashup, argentina, dream pop, american, chiptune, radio, cronica, spoken word, covers, aor, lazytown, bagpipes, hype, political, space rock, christian, christian rock, german, sarcasm, new weird america, geek, humour, glam rock, deep house, breakcore, youtube, frogs, nintendocore, greek, eurodance, gospel, kiwi, podcast, humor, anime, new jack swing, novelty, activist, pagan, doo-wop" role="button">
-Mark Heard - Satellite Sky (1992)
-</li>
 <li data-cover="http://coverartarchive.org/release/73c8ab23-e16a-487f-8df0-fdc35444c1b9/10688325964-500.jpg" data-tags="queen" role="button">
 Queen - Who Wants to Live Forever (1992-01)
-</li>
-<li data-cover="https://img.discogs.com/kXDh52KVzQAnY5SCYgCkyz1oD74=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1631377-1471884497-5357.jpeg.jpg" data-tags="darkwave, gothic" role="button">
-Qntal - Qntal I (1992-01-08)
 </li>
 <li data-cover="https://img.discogs.com/ut_7AuSYxRjzeFkJSJqLUzhLSP8=/fit-in/400x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3217702-1320929840.jpeg.jpg" data-tags="classic rock, queen" role="button">
 Queen - Best of Queen (1992-03-00)
@@ -144,6 +141,9 @@ Freddie Mercury - Remixes (1993)
 <li data-cover="http://coverartarchive.org/release/65916db5-1e48-422a-8743-9095b614681c/14577577905-500.jpg" data-tags="queen" role="button">
 Queen - Ballads (1994)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="queen, live" role="button">
+Queen - The Ultimate Rarities Collection (1994)
+</li>
 <li data-cover="http://coverartarchive.org/release/3fe6c3b3-214d-4e41-9f8d-30bfd2e2dc65/19195250022-500.jpg" data-tags="brian may" role="button">
 Brian May - Live at the Brixton Academy (1994-02-07)
 </li>
@@ -158,6 +158,9 @@ Queen - In Nuce (1995)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="queen, gem, proto queen" role="button">
 Queen - Queen in Nuce (1995)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="gospel" role="button">
+Mahalia Jackson - The Best Of Mahalia Jackson (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/3762407e-5460-4f5e-a4ea-1c2ae1a879c7/4045338413-500.jpg" data-tags="rock" role="button">
 Queen - Made In Heaven (1995-10-24)
@@ -186,11 +189,17 @@ Queen - Queen Rocks (1997-11-03)
 <li data-cover="http://coverartarchive.org/release/c496d633-5a56-4dbd-8b67-083c11562754/856778718-500.jpg" data-tags="hard rock, rebel, brutal vocal" role="button">
 Özlem Tekin - Laubali (1999)
 </li>
+<li data-cover="https://img.discogs.com/ftg118oKK6vTs9UrXGTTGzSXI3U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1145325-1195760168.jpeg.jpg" data-tags="pop, divas, female vocalists, world, talented ladies, power voice" role="button">
+Edyta Górniak - Live '99 (1999-09-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/6b77ffec-8bc7-4f9a-b302-d34704bf2af1/11991081147-500.jpg" data-tags="classic rock" role="button">
 Queen - A Night at the Opera / The Works (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc1b636b-a99d-3ed7-9d40-08a3ffdfb708/10157507016-500.jpg" data-tags="electric light orchestra" role="button">
 Electric Light Orchestra - Flashback (2000-12-11)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="queen" role="button">
+Queen - Special Edition (2001)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="japanese, dance, queen, urban, queen of everything, j-urban, koda kumi, kuu" role="button">
 倖田來未 - Trust Your Love (2001-05-09)
@@ -201,17 +210,11 @@ Mariah Carey - Glitter (2001-08-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, queen, bobs stuff" role="button">
 Lit - Atomic (2001-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/966b9b3e-cd34-4f2d-ad4c-f2f371bb0e5d/28482190012-500.jpg" data-tags="medieval, folk, neofolk" role="button">
-In Gowan Ring - Hazel Steps through a Weathered Home (2002)
-</li>
 <li data-cover="http://coverartarchive.org/release/86957aca-ebb6-45d2-8755-14091f035d9e/25091405297-500.jpg" data-tags="rnb" role="button">
 Donell Jones - Life Goes On (2002-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/2dec60d0-00a4-4ffd-ae4b-69e86f0601dc/2788181181-500.jpg" data-tags="fantasy, ethereal, darkwave, world fusion, female vocalists" role="button">
-Irfan - IRFAN (2003)
-</li>
-<li data-cover="https://img.discogs.com/RgwsXe-R56OPAUxbUQU4QseQzhA=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468799-1447077272-2207.jpeg.jpg" data-tags="folk, neofolk, medieval, fantasy" role="button">
-Stille Volk - Maudat (2003)
+<li data-cover="https://img.discogs.com/T5lt7hEGlQV6qMFF-Mm_QjGoA5E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1804109-1244393611.jpeg.jpg" data-tags="classic rock, rock, 80s, punk, queen, german, kinderlieder" role="button">
+Volker Rosin - Hoppelhase Hans (2003-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b844fa9-eed8-4c2f-93c1-cf5ff1f65fa9/17602345793-500.jpg" data-tags="queen, clasic rock" role="button">
 Queen - Jewels (2004-01-28)
@@ -221,9 +224,6 @@ Queen - Greatest Hits: We Will Rock You (2004-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/b3066271-fcdc-433b-a89a-8dc56bb46c22/4728951923-500.jpg" data-tags="jazz" role="button">
 Alice Coltrane - Translinear Light (2004-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/e9c2cfe9-e692-41e1-b0d7-97671d1f84be/22011480631-500.jpg" data-tags="fantasy, ethereal" role="button">
-Narsilion - Nerbeleth (2004-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/d4a6ef09-5b44-47da-965f-fb36774d48ca/3651521402-500.jpg" data-tags="world, persian" role="button">
 Niyaz - Niyaz (2005-04-19)
@@ -249,6 +249,9 @@ Queen + Paul Rodgers - The Cosmos Rocks (2008-09-12)
 <li data-cover="https://img.discogs.com/l3Al6RIdg26l2hV2FEujftK1ttE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1470791-1222156904.jpeg.jpg" data-tags="indie, folk" role="button">
 Gregory and the Hawk - Moenie and Kitchi (2008-10-07)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="queen" role="button">
+Queen + Paul Rodgers - Live In Ukraine (2009)
+</li>
 <li data-cover="http://coverartarchive.org/release/7a9a37e4-bda6-4ed9-bbba-c0cf45b3e61c/8854826852-500.jpg" data-tags="j-pop" role="button">
 倖田來未 - TRICK (2009-01-28)
 </li>
@@ -257,9 +260,6 @@ Basia - It's That Girl Again (2009-03-11)
 </li>
 <li data-cover="https://img.discogs.com/APnoeayZSQCVD8Cczq7lh4WyUUM=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1574512-1234360606.jpeg.jpg" data-tags="rock" role="button">
 Queen - Absolute Greatest (2009-11-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/c7cf01bb-6766-42fb-ade1-849ba05623c4/7421340597-500.jpg" data-tags="rock, alternative rock, lyrics" role="button">
-Vices I Admire - The Politics of Apathy (2010-01-01)
 </li>
 <li data-cover="https://img.discogs.com/f9ZxHgZlcTCaOKUuMF_O4F1z8SY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2677937-1296206354.jpeg.jpg" data-tags="rock, prog, queen, pink floyd, beatles, david bowie, 10s, elton john, enrico gabrielli" role="button">
 A Toys Orchestra - Midnight Talks (2010-04-02)
@@ -272,6 +272,9 @@ Glee Cast - Glee: The Music, The Power of Madonna (2010-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3eeeb71-ddad-4654-a84a-5975f734b8f3/4504244802-500.jpg" data-tags="pop, britney spears" role="button">
 Britney Spears - Femme Fatale (2011-03-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/01913716-97da-4658-b840-8229bd31317d/7688358758-500.jpg" data-tags="party all goddamn night" role="button">
+Andrew W.K. - The "Party All Goddamn Night" EP (2011-03-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2070e5-6bb0-44aa-a80e-2f855cbe4846/9313227759-500.jpg" data-tags="dance, queen, jpop, r&b, rnb, j-pop, must listen, badass, addicting, collab, j-urban, j-hiphop, j-rnb, queen of j-pop, j-r&b, random tags, um tesao de album" role="button">
 安室奈美恵 - Checkmate! (2011-04-27)
@@ -311,9 +314,6 @@ Hayley Kiyoko - This Side of Paradise (2014-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b682fd6-372c-4990-b60d-b4e00bf9c046/8504061137-500.jpg" data-tags="rnb, r&b" role="button">
 Tinashe - Aquarius (2014-10-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/54b6ec1a-428b-4c64-b37c-ff2fb3cca947/9390692451-500.jpg" data-tags="mandopop" role="button">
-蔡依林 - 呸 (2014-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/33424f84-e14a-418a-ad55-4625d5ef762c/9296327672-500.jpg" data-tags="pop, female vocalists, dance, queen, k-pop, kpop, korea, nicole, kara" role="button">
 니콜 - First Romance (2014-11-18)

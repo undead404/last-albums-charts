@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:26:01.519Z
+date: 2021-04-10T00:10:01.424Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -189,9 +189,6 @@ Ziggy Marley - Dragonfly (2003-04-15)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Seeed - Music Monks (2003-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d41f2db-27fe-4bd8-af53-2f1a29435276/19380694738-500.jpg" data-tags="reggae, french" role="button">
-Tryo - Grain De Sable (2003-06-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/c272f6bd-6689-4e63-86d5-c37d8fc878d2/1769935932-500.jpg" data-tags="reggae" role="button">
 Dub Incorporation - Diversité (2003-09)
 </li>
@@ -206,6 +203,9 @@ Bedouin Soundclash - Sounding A Mosaic (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/60731abb-c538-4230-9e72-a163c54a2342/26539903283-500.jpg" data-tags="reggae" role="button">
 Matisyahu - Shake Off the Dust...Arise (2004-10-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
+Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdfe45eb-0b2d-4c96-bfc9-9b5c8b479b9a/5876442790-500.jpg" data-tags="reggae" role="button">
 Vavamuffin - Vabang! (2005-04-06)

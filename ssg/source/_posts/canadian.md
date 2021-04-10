@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T17:28:01.473Z
+date: 2021-04-10T00:15:01.504Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -60,6 +60,9 @@ Our Lady Peace - Clumsy (1997-01-23)
 <li data-cover="http://coverartarchive.org/release/e427c52c-60f4-3df4-9493-2df0734d85aa/3198645256-500.jpg" data-tags="female vocalists" role="button">
 Sarah McLachlan - Surfacing (1997-07-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/9414114a-422b-460d-834d-be1e189bee4f/1120191755-500.jpg" data-tags="shania twain, country" role="button">
+Shania Twain - Come on Over (1997-11-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/003e4113-6dac-445a-889c-62668ec9f675/10660252617-500.jpg" data-tags="rock, 90s, alternative" role="button">
 Barenaked Ladies - Stunt (1998-07-07)
 </li>
@@ -74,9 +77,6 @@ Alanis Morissette - Under Rug Swept (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/bcc94f56-bdb0-32b7-9d1b-fda488bff5dc/27138605951-500.jpg" data-tags="post-rock, ambient" role="button">
 Broken Social Scene - Feel Good Lost (2001-03-06)
-</li>
-<li data-cover="https://img.discogs.com/vRrNNmW0km5ZuBI7V6nTf1YXtWY=/fit-in/404x404/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7404658-1440791038-3407.jpeg.jpg" data-tags="canadian, 00s" role="button">
-Destroyer - Streethawk: A Seduction (2001-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a7d6779-7337-4ae4-90ab-0c5f4f1bb26e/10159748633-500.jpg" data-tags="punk rock, punk" role="button">
 Sum 41 - All Killer No Filler (2001-05-08)
@@ -126,9 +126,6 @@ Alanis Morissette - So-Called Chaos (2004-04-21)
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
-<li data-cover="http://coverartarchive.org/release/426dd361-21ee-48bf-8e29-26b1cd93d8fa/15058502581-500.jpg" data-tags="canadian" role="button">
-Apostle of Hustle - Folkloric Feel (2004-08-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
@@ -162,9 +159,6 @@ Wolf Parade - Apologies to the Queen Mary (2005-09-27)
 <li data-cover="https://img.discogs.com/1oCjrEp69C-M244YdOA1VNbM164=/fit-in/500x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1558945-1423448067-6586.jpeg.jpg" data-tags="indie, indie rock" role="button">
 Metric - Live It Out (2005-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/57ed610e-fa13-41c8-a274-5a438cdaa304/18292512936-500.jpg" data-tags="indie, singer-songwriter, canadian, collett" role="button">
-Jason Collett - Idols of Exile (2006-02-07)
-</li>
 <li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
 Destroyer - Destroyer's Rubies (2006-02-21)
 </li>
@@ -191,6 +185,9 @@ Patrick Watson - Close To Paradise (2006-09-25)
 </li>
 <li data-cover="https://img.discogs.com/y1pYVw6lZ04_XZutemNiYkglQEI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9587631-1483307473-8708.jpeg.jpg" data-tags="canadian" role="button">
 Apostle of Hustle - National Anthem of Nowhere (2007-02-06)
+</li>
+<li data-cover="https://img.discogs.com/StLDaXwPWadF-nVGQT1bR70M_HY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-844172-1464663430-8189.jpeg.jpg" data-tags="canadian, indie rock, 00s" role="button">
+The Besnard Lakes - The Besnard Lakes Are The Dark Horse (2007-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/53418c3e-466b-4108-b074-563250282ba4/15336772745-500.jpg" data-tags="alternative, canadian, alternative indie, fucking fantastic album, the greatest album" role="button">
 Mother Mother - Touch Up (2007-02-27)
@@ -254,6 +251,9 @@ Japandroids - Post-Nothing (2009-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/3256f5bb-0bb1-4ac4-b581-43803afd0573/18799589016-500.jpg" data-tags="indie rock, rock" role="button">
 Sunset Rubdown - Dragonslayer (2009-06-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/feefbeb7-79eb-4a0d-a215-04990a186465/28888010781-500.jpg" data-tags="punk rock" role="button">
+Billy Talent - Billy Talent III (2009-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c727a84-e19b-3217-b47c-2228c786d46a/4293703012-500.jpg" data-tags="electronic" role="button">
 Caribou - Swim (2010-04-16)

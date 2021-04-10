@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T22:55:01.427Z
+date: 2021-04-10T00:29:01.431Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -53,6 +53,9 @@ Beastie Boys - Ill Communication (1994-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">
 The Notorious B.I.G. - Ready to Die (1994-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/911192ef-6b58-427f-9d84-437a0d34de70/9635715971-500.jpg" data-tags="rap, hip-hop, wu-tang" role="button">
+Method Man - Tical (1994-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b6f8616c-9d1c-44d1-b8f4-aaf9a3c17f5f/4394279316-500.jpg" data-tags="hip-hop, rap" role="button">
 Big L - Lifestylez Ov Da Poor & Dangerous (1995-03-28)
@@ -212,9 +215,6 @@ Kanye West - Graduation (2007-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/af5f8d32-47b1-4715-b6b4-5a00e411adfb/17404962418-500.jpg" data-tags="hip-hop, indie" role="button">
-Why? - Alopecia (2008-02-25)
 </li>
 <li data-cover="https://img.discogs.com/sAHiZ1GQVMxSrV1dwSAi5FPOqL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646806-1516228829-9542.jpeg.jpg" data-tags="hip-hop" role="button">
 N*E*R*D - Seeing Sounds (2008-06-09)

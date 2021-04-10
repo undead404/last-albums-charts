@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T07:27:07.408Z
+date: 2021-04-09T23:53:01.394Z
 title: "proto-punk: 100 albums you must listen to before you die"
 ---
 ![The Velvet Underground - White Light&#x2F;White Heat (1968-01-30)](http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg "The Velvet Underground - White Light/White Heat (1968-01-30)")
@@ -24,14 +24,8 @@ _________________
 <li data-cover="https://img.discogs.com/-Qb3fR5oGYrJyaqvEBvznK_l7dA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3877251-1347790095-2316.jpeg.jpg" data-tags="60s" role="button">
 The Yardbirds - Five Live Yardbirds (1964)
 </li>
-<li data-cover="https://img.discogs.com/U6zyMAbaS0wE9Defh8u50qitPMQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1796060-1473091321-2766.jpeg.jpg" data-tags="rock, 60s, garage rock, debut album" role="button">
-The Kinks - Kinks (1964-10-02)
-</li>
 <li data-cover="https://img.discogs.com/HLrxClv2IKZdaUuJsl2AMAqWWAY=/fit-in/589x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044246-1306912408.jpeg.jpg" data-tags="garage rock, 60s" role="button">
 The Sonics - Here Are The Sonics (1965)
-</li>
-<li data-cover="https://img.discogs.com/tYUH21u9xsQrHfgftMeQn-DG01c=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2060655-1261650469.jpeg.jpg" data-tags="rock, 60s" role="button">
-The Who - My Generation (1965-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/7663b84e-2337-4f60-9842-10f6a9daed5d/11261431522-500.jpg" data-tags="garage rock, proto-punk, 60s" role="button">
 The Monks - Black Monk Time (1966)
@@ -45,38 +39,26 @@ The Sonics - Boom (1966)
 <li data-cover="http://coverartarchive.org/release/22862a47-2b63-4364-a00d-d38aa7cef4cd/4087870823-500.jpg" data-tags="garage rock, psychedelic" role="button">
 The Seeds - The Seeds (1966)
 </li>
-<li data-cover="http://coverartarchive.org/release/da103965-b7e7-4618-98f5-3b9599ecc388/13962026519-500.jpg" data-tags="60s, psychedelic, classic rock" role="button">
-Love - Love (1966-04)
-</li>
-<li data-cover="https://img.discogs.com/q2QH8Hbu_m0o4Mk_fIOe4569N9U=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3962149-1531137183-2190.jpeg.jpg" data-tags="classic rock, 60s, british, blues rock" role="button">
-The Animals - Animalisms (1966-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/93c4cc87-0ade-46c5-ba36-3c53adbc990b/16555915248-500.jpg" data-tags="psychedelic, 60s" role="button">
+The Blues Magoos - Psychedelic Lollipop (1966-12)
+</li>
+<li data-cover="https://img.discogs.com/gQPgAbsUi6kH_y8KXsLN5Az47z0=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3789140-1344467788-2842.jpeg.jpg" data-tags="classic rock, 60s, rock, psychedelic, blues rock" role="button">
+The Yardbirds - Little Games (1967)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2820d3f-bf0f-440f-b327-0a9c32e280d8/11733996765-500.jpg" data-tags="60s, rock, classic rock" role="button">
 The Velvet Underground - The Velvet Underground & Nico (1967-03)
 </li>
-<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="psychedelic" role="button">
-Captain Beefheart & His Magic Band - Safe As Milk (1967-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/cad3294a-3ea9-3e0e-a426-fe9862571e34/15465460977-500.jpg" data-tags="proto-punk, 60s, rock, noise rock" role="button">
 The Velvet Underground - White Light/White Heat (1968-01-30)
-</li>
-<li data-cover="https://img.discogs.com/C0Re5Zf9WgPzvAqPje2GxUCkC1U=/fit-in/597x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-393171-1143168701.jpeg.jpg" data-tags="experimental" role="button">
-Nico - The Marble Index (1968-09-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/7fea36a7-5ef6-3d78-b828-556fdf652455/9803420427-500.jpg" data-tags="blues, psychedelic" role="button">
-Captain Beefheart & His Magic Band - Strictly Personal (1968-09-23)
 </li>
 <li data-cover="https://img.discogs.com/b-OAqmYv7bJaABfaCVF1edZ5JYU=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1085991-1190981637.jpeg.jpg" data-tags="psychedelic" role="button">
 The Pretty Things - S.F. Sorrow (1968-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/22f5e15f-7214-4caf-a6ce-9f6e0188a817/17000877457-500.jpg" data-tags="garage rock" role="button">
 MC5 - Kick Out the Jams (1969)
-</li>
-<li data-cover="http://coverartarchive.org/release/35e83d8a-be83-307b-94cc-1a7686d48c74/1995664343-500.jpg" data-tags="rock, 60s, classic rock, psychedelic" role="button">
-The Velvet Underground - The Velvet Underground (1969-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9259cb58-e233-4162-acb1-e739ff102568/1487674182-500.jpg" data-tags="garage rock" role="button">
 The Stooges - The Stooges (1969-08-05)
@@ -87,6 +69,9 @@ MC5 - Back in the USA (1970)
 <li data-cover="http://coverartarchive.org/release/09487d3d-99d8-4ed2-8d0b-9ffce036fd01/13366801462-500.jpg" data-tags="studies, garage, rock and roll, proto-punk, pixies palace basement, rockitxten" role="button">
 Flamin' Groovies - Flamingo (1970)
 </li>
+<li data-cover="http://coverartarchive.org/release/6ec9be0e-c750-37e5-9fb4-0562a0c7ea41/12241244245-500.jpg" data-tags="experimental, blues" role="button">
+Captain Beefheart & His Magic Band - Lick My Decals Off, Baby (1970)
+</li>
 <li data-cover="http://coverartarchive.org/release/3645588f-cdcf-4746-97ac-da059d332010/4529718708-500.jpg" data-tags="70s, classic rock" role="button">
 The Velvet Underground - Loaded (1970-09)
 </li>
@@ -95,6 +80,9 @@ David Bowie - The Man Who Sold the World (1970-11-04)
 </li>
 <li data-cover="https://img.discogs.com/B_XQsc3AzhCIkH9DWzEyhbBZ0V4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379038-1224357901.jpeg.jpg" data-tags="proto-punk, garage rock, 70s" role="button">
 The Stooges - Fun House (1970-12)
+</li>
+<li data-cover="https://img.discogs.com/Gm-UUVHe6oXdbrqqxuroD3igsOI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4285792-1518860728-6237.jpeg.jpg" data-tags="hard rock" role="button">
+Dust - Dust (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/389425ee-9246-381d-a330-f80687bfc0af/26424904304-500.jpg" data-tags="hard rock" role="button">
 MC5 - High Time (1971)
@@ -113,6 +101,9 @@ Ton Steine Scherben - Keine Macht für Niemand (1972)
 </li>
 <li data-cover="https://img.discogs.com/3OgnlZKNZ7-mZooFLllAA3hHYIA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635183-1338244251-7631.jpeg.jpg" data-tags="70s, rock, glam rock" role="button">
 Lou Reed - Transformer (1972)
+</li>
+<li data-cover="https://img.discogs.com/hKoO7p9Zrhba-bSyRiyDD3T_ObQ=/fit-in/512x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1341672-1211146251.gif.jpg" data-tags="hard rock, progressive rock, psychedelic rock, rock 'n' roll, proto-punk, winewomensong" role="button">
+Pink Fairies - What a Bunch of Sweeties (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/e28b9cba-289e-47a8-a8c0-8bf5c0c93f19/3987340872-500.jpg" data-tags="hard rock, classic rock" role="button">
 Alice Cooper - School's Out (1972-06)
@@ -135,12 +126,6 @@ The Velvet Underground - Squeeze (1973)
 <li data-cover="https://img.discogs.com/-oFtRwyCdDOBC6doUIdUG2kF0rA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1712230-1590076878-9814.jpeg.jpg" data-tags="dance, avant garde, psychedelic rock, proto-punk, protopunk, nancykitten all-time favourite albums, bfr" role="button">
 Yoko Ono - Approximately Infinite Universe (1973-01-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/dcfe26f7-6f7e-4fd6-aeb8-fedf5a1780ed/23168008573-500.jpg" data-tags="experimental, progressive rock, fucking brilliant, 70s, avant-garde, pop perfection" role="button">
-Todd Rundgren - A Wizard, A True Star (1973-03-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/034b0525-257f-4d9c-bdd2-2fe2ce81acb1/4492873081-500.jpg" data-tags="rock" role="button">
-Mott the Hoople - Mott (1973-07-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/1f6cc992-e572-4f3c-b62a-cb6111383e67/11570630075-500.jpg" data-tags="glam rock, proto-punk" role="button">
 New York Dolls - New York Dolls (1973-07-27)
 </li>
@@ -150,17 +135,11 @@ Lou Reed - Berlin (1973-10)
 <li data-cover="https://img.discogs.com/GHTP4nIYLB4ibAJqp3cgROJFrs8=/fit-in/350x364/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5970404-1407699748-3782.jpeg.jpg" data-tags="70s, proto-punk" role="button">
 The Velvet Underground - 1969: Velvet Underground Live, Vol. 1 (1974)
 </li>
-<li data-cover="http://coverartarchive.org/release/b60e6f2c-e569-4ffb-83b7-cd23d66fc1c4/20406235434-500.jpg" data-tags="70s, rock, art rock" role="button">
-John Cale - Fear (1974)
-</li>
-<li data-cover="http://coverartarchive.org/release/c66ee27b-ef8f-4126-99d3-64869e106352/9521925815-500.jpg" data-tags="classic rock, glam rock, 70s" role="button">
-Mott the Hoople - The Hoople (1974-03-29)
+<li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="progressive rock, blues, psychedelic" role="button">
+Captain Beefheart & His Magic Band - Unconditionally Guaranteed (1974-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/66a32da1-ce51-4f06-900e-1a1f13b18cef/3978876533-500.jpg" data-tags="glam rock" role="button">
 New York Dolls - Too Much Too Soon (1974-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/0e424aca-f5c2-3483-b56a-47c099ea28a3/25054837247-500.jpg" data-tags="proto-punk" role="button">
-The Dictators - Go Girl Crazy (1975)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1fa3fc4-5a73-3449-9abe-9c2f38e7b22e/23187067210-500.jpg" data-tags="krautrock" role="button">
 Neu! - Neu! 75 (1975)
@@ -174,14 +153,17 @@ Ton Steine Scherben - Wenn die Nacht am tiefsten (1975-09)
 <li data-cover="http://coverartarchive.org/release/68a6756e-1c96-4590-9cbf-aa07696cba5e/3714201314-500.jpg" data-tags="rock, punk, 70s" role="button">
 Patti Smith - Horses (1975-11)
 </li>
-<li data-cover="https://img.discogs.com/ftKEN6-ZK79sM05oCisZKfcwAMk=/fit-in/487x308/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2091661-1356454239-4674.jpeg.jpg" data-tags="classic rock, hard rock, album rock, soft rock, energetic, passionate, literate, melancholy, irreverent, confident, fiery, menacing, earnest, snide, wry, somber, raucous, glam rock, proto-punk, poignant, playful, brooding, celebratory, witty, acerbic, humorous, rowdy, theatrical, plaintive, tgif, boisterous, brash, thrusting rock, columbia records" role="button">
-Mott the Hoople - Greatest Hits (1976)
-</li>
 <li data-cover="https://img.discogs.com/qJVThRxRZXFjSxQSVp7kKDw8NU4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1971290-1391195073-4180.jpeg.jpg" data-tags="classic rock" role="button">
 Flamin' Groovies - Shake Some Action (1976)
 </li>
 <li data-cover="https://img.discogs.com/qlSYMOTiQJ_M3Y8USlRmTkUrje0=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1960857-1274010731.jpeg.jpg" data-tags="new wave, proto-punk, pub rock" role="button">
 Eddie & The Hot Rods - Teenage Depression (1976)
+</li>
+<li data-cover="https://img.discogs.com/yI6Z09DmSyrpxvyOb5pkixlTnoA=/fit-in/352x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1246515-1203485861.gif.jpg" data-tags="alternative, experimental, experimental rock, avant-garde, art rock, glam rock, art punk, proto-punk" role="button">
+Debris' - Static Disposal (1976-04)
+</li>
+<li data-cover="https://img.discogs.com/EOV6DoffVVHUbw4k_O5MkcqUdgI=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-663786-1290619664.jpeg.jpg" data-tags="rock, classic rock" role="button">
+Alice Cooper - Goes to Hell (1976-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/06ab427b-06b4-482a-90c3-4981c294eadd/11939995493-500.jpg" data-tags="proto-punk, 70s" role="button">
 The Modern Lovers - The Modern Lovers (1976-08)
@@ -216,14 +198,26 @@ Television - Adventure (1978-04)
 <li data-cover="https://img.discogs.com/BbPNN4exoTtfqWZkqTREHvWTnyA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2757319-1299675179.jpeg.jpg" data-tags="punk, 70s" role="button">
 Johnny Thunders - So Alone (1978-10-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0b9172e-8abe-4131-b208-0eec90d81411/6357317309-500.jpg" data-tags="conservative, punk" role="button">
+Iggy Pop - Soldier (1980-02)
+</li>
+<li data-cover="https://img.discogs.com/QHIDaVKPoPNPK_S_2Qub4ys6qkw=/fit-in/600x556/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3028465-1331038657.jpeg.jpg" data-tags="classic rock, rock, hard rock, 80s, new wave" role="button">
+Alice Cooper - Flush The Fashion (1980-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/8dd72b37-3066-4bf1-9a55-eaae80f45474/29001786139-500.jpg" data-tags="proto-punk, garage punk, itunes, iveldie best of 1981" role="button">
+Radio Birdman - Living Eyes (1981-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/6d56f6b2-2913-3ec4-af22-06084d0cc28f/12601062710-500.jpg" data-tags="rock" role="button">
 Iggy Pop - Party (1981-07)
 </li>
+<li data-cover="https://img.discogs.com/08FFs4Hn-HIOpRoHn6S8v4s0kws=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2578036-1297468493.jpeg.jpg" data-tags="hard rock, new wave" role="button">
+Alice Cooper - Special Forces (1981-09)
+</li>
+<li data-cover="https://img.discogs.com/EOV6DoffVVHUbw4k_O5MkcqUdgI=/fit-in/498x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-663786-1290619664.jpeg.jpg" data-tags="rock, garage rock, shock rock" role="button">
+Alice Cooper - Zipper Catches Skin (1982-08-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/a2af3c5e-fb92-484f-851f-d26b27770d8b/15137212906-500.jpg" data-tags="classic rock, rock" role="button">
 The Velvet Underground - VU (1984)
-</li>
-<li data-cover="http://coverartarchive.org/release/2f4deaec-0e63-43eb-b730-9368fc121f09/20205239397-500.jpg" data-tags="rock, hard rock" role="button">
-Lou Reed - Live In Italy (1984-01)
 </li>
 <li data-cover="https://img.discogs.com/fFEJ6AJ-UUlkXDMBnTn2PULqNxE=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-397370-1604657610-1339.jpeg.jpg" data-tags="classic rock" role="button">
 The Doors - The Best of The Doors (1985)
@@ -231,14 +225,14 @@ The Doors - The Best of The Doors (1985)
 <li data-cover="http://coverartarchive.org/release/570473fd-bf88-4237-8bbb-38c17e046c46/28758486936-500.jpg" data-tags="garage rock" role="button">
 The Remains - The Remains (1985)
 </li>
+<li data-cover="https://img.discogs.com/VQWdLYQVbOsIexaKQS-9hX-7SSs=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1520353-1287692288.jpeg.jpg" data-tags="classic rock, rock, live" role="button">
+John Lennon - Live in New York City (1986-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/2013c74e-4858-4d12-9a22-3e11c5c8b255/8007039308-500.jpg" data-tags="compilation, proto-punk, the velvet underground" role="button">
 The Velvet Underground - Another View (1986-09)
 </li>
 <li data-cover="https://img.discogs.com/B_XQsc3AzhCIkH9DWzEyhbBZ0V4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-379038-1224357901.jpeg.jpg" data-tags="proto-punk, proto punk" role="button">
 The Stooges - Rubber Legs (1987)
-</li>
-<li data-cover="http://coverartarchive.org/release/96927d37-b9b3-418b-a7a0-4409cab13b02/14157689479-500.jpg" data-tags="electronic" role="button">
-Suicide - A Way of Life (1988)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a289252-7b79-4f7e-bd0a-2004438b3397/3774189185-500.jpg" data-tags="80s, singer-songwriter" role="button">
 Patti Smith - Dream Of Life (1988-06)
@@ -252,14 +246,20 @@ Primal Scream - Primal Scream (1989-09)
 <li data-cover="http://coverartarchive.org/release/723fa46a-628d-44c9-8e22-8fba5ba44c6c/2947394304-500.jpg" data-tags="rock, 90s" role="button">
 Mark Lanegan - The Winding Sheet (1990-05-01)
 </li>
-<li data-cover="https://img.discogs.com/5fb8HxukgR1iZPWdzS_vdC-FuN4=/fit-in/600x572/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380743-1186314865.jpeg.jpg" data-tags="punk, rock, hard rock" role="button">
-Iggy Pop - Brick By Brick (1990-06-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/98b7a796-0f0f-4319-8948-f250d14d6bbc/2800476658-500.jpg" data-tags="70s, classic rock, rock" role="button">
 Mott the Hoople - All The Young Dudes (1992)
 </li>
 <li data-cover="https://img.discogs.com/YUvIq3iNuFf82mAVGrjW5FIF43I=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3500648-1469148217-4160.jpeg.jpg" data-tags="60s" role="button">
 MC5 - Black to Comm (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/7c5b3d96-8108-44c7-ad83-d8cb790ad821/26350510586-500.jpg" data-tags="rock, classic, glam rock, proto-punk, fuzzy guitar goodness, paredes de coura 2007, drunk tank singalong tune, lock n lorr" role="button">
+New York Dolls - Rock 'n' Roll (1994)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8fff4a7-3f3c-4027-b13a-b0f51b40af24/22145029461-500.jpg" data-tags="garage rock" role="button">
+? and the Mysterians - 96 Tears (1995)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="punk, experimental rock" role="button">
+Half Japanese - Greatest Hits (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/94d5c090-1299-4434-9d4a-4b4460f931d2/21078020121-500.jpg" data-tags="rock, 90s" role="button">
 Lou Reed - Set The Twilight Reeling (1996-02-20)
@@ -276,8 +276,8 @@ The Cramps - Big Beat from Badsville (1997-11-01)
 <li data-cover="http://coverartarchive.org/release/4b411121-4a41-4032-9e1f-ae7c3ce15328/10916053750-500.jpg" data-tags="60s" role="button">
 The Action - Rolled Gold (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/2ce1abb9-4d82-42d8-ac5b-39199d5dd77c/19778770643-500.jpg" data-tags="power pop, melancholy, intimate, proto-punk, rollicking, carefree, lively, day driving, reckless, gleeful" role="button">
-Big Star - Nobody Can Dance (1999-03-16)
+<li data-cover="http://coverartarchive.org/release/d4289fea-483a-47b2-8ddd-aeef34377d7d/9803739524-500.jpg" data-tags="psychedelic, psychedelic rock, experimental, avant-garde" role="button">
+Captain Beefheart & His Magic Band - The Mirror Man Sessions (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/7198451b-594d-4d80-9a6e-9276ac6c7766/14180333568-500.jpg" data-tags="classic rock, rock, 70s" role="button">
 Faces - The Best Of Faces: Good Boys When They're Asleep (1999-08-17)
@@ -294,11 +294,11 @@ The Velvet Underground - The Very Best Of The Velvet Underground (2003)
 <li data-cover="http://coverartarchive.org/release/95d5bb5d-2e28-4371-949e-b84e279e8799/7487099520-500.jpg" data-tags="rock, alternative, singer-songwriter, female vocalists, 00s" role="button">
 Patti Smith - Trampin' (2003)
 </li>
-<li data-cover="http://coverartarchive.org/release/d1140fb6-b5b8-4536-94dc-fb10b431c0b7/1601935570-500.jpg" data-tags="proto-punk, hard rock, post-punk, punk rock" role="button">
-Iggy Pop - Skull Ring (2003-11-04)
+<li data-cover="https://img.discogs.com/z11teWNjH4-8MqO0AZcqkOss4I8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-925463-1379517432-8676.jpeg.jpg" data-tags="psychedelic, psychedelic rock, proto-punk" role="button">
+Michael Yonkers Band - Microminiature Love (2003-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cf70c86-0d14-4929-81dc-82b7a60fbc0d/15137264095-500.jpg" data-tags="p w n d" role="button">
-The Velvet Underground - Gold (2005-09-01)
+<li data-cover="http://coverartarchive.org/release/dfe679d2-f250-420c-b04d-138f72ab60e1/11013234877-500.jpg" data-tags="garage rock" role="button">
+The Sonics - Psycho-Sonic (2003-08-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c739b651-90c8-428c-9462-3f066cf189de/9664834681-500.jpg" data-tags="post-punk" role="button">
 Delta 5 - Singles & Sessions 1979-81 (2006-01-24)
@@ -306,8 +306,8 @@ Delta 5 - Singles & Sessions 1979-81 (2006-01-24)
 <li data-cover="http://coverartarchive.org/release/b5d99cd2-561f-4a02-944b-e7b8becd1f73/14839234606-500.jpg" data-tags="proto-punk, punk" role="button">
 The Stooges - The Weirdness (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d4a66b0-c436-4f44-b3d4-29e6e8db8d8c/14954913625-500.jpg" data-tags="rock, hard rock, usa, druggy, album rock, psychedelic, energetic, ominous, passionate, literate, confident, aggressive, menacing, freewheeling, provocative, dramatic, raucous, blues rock, trippy, compilation, 00s, proto-punk, sensual, summery, sexual, nocturnal, brooding, rebellious, the doors, cathartic, rowdy, theatrical, swaggering, angst-ridden, brash, hanging out, bravado, reckless, night driving, am pop, exfandessixties" role="button">
-The Doors - The Future Starts Here: The Essential Doors Hits (2008-01-29)
+<li data-cover="https://img.discogs.com/NvzEitHeovC5mtRcxXp3YIvsdaQ=/fit-in/500x507/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1049700-1384276859-9021.jpeg.jpg" data-tags="rock, 60s, lo-fi, garage rock, garage, live, rock and roll, proto-punk" role="button">
+The Sonics - Busy Body!!! Live In Tacoma 1964 (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9a58849-fec6-493f-b664-b2f57c450687/13889169524-500.jpg" data-tags="proto-punk" role="button">
 Death - ...For the Whole World To See (2009-02-17)
