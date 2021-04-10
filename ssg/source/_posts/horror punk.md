@@ -1,15 +1,15 @@
 ---
-date: 2021-04-07T14:12:01.372Z
+date: 2021-04-10T06:49:06.971Z
 title: "horror punk: 100 albums you must listen to before you die"
 ---
-![Misfits - Famous Monsters (1999-10-05)](http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg "Misfits - Famous Monsters (1999-10-05)")
+![Misfits - Static Age (1997-07-15)](https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg "Misfits - Static Age (1997-07-15)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/d19f002c-2a67-46dc-ae48-60a1a624588a/4024514590-500.jpg" data-tags="horror punk, punk" role="button">Misfits - Walk Among Us (1982-03)</li>
 <li data-cover="http://coverartarchive.org/release/c695f2c3-b1e8-4096-95df-791ba53b7995/5504413515-500.jpg" data-tags="horror punk" role="button">Misfits - Legacy of Brutality (1985-09)</li>
 <li data-cover="http://coverartarchive.org/release/d54781c9-bb1b-4413-99c4-9891147bbfcb/21131442401-500.jpg" data-tags="horror punk, punk rock" role="button">Misfits - American Psycho (1997-05-13)</li>
 <li data-cover="https://img.discogs.com/Dzc8ube5Hg8ij2oACVocoWDkqbY=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2076178-1262682028.jpeg.jpg" data-tags="punk, horror punk" role="button">Misfits - Static Age (1997-07-15)</li>
-<li data-cover="http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg" data-tags="horror punk, punk" role="button">Misfits - Famous Monsters (1999-10-05)</li>
 <li data-cover="http://coverartarchive.org/release/f3c674fe-fdda-4f81-819a-1bf136eb5a9c/7047351704-500.jpg" data-tags="horror punk" role="button">Король и Шут - Как в старой сказке (2001)</li>
+<li data-cover="https://img.discogs.com/sTs8SpeMamPZMUC1h1F4-Lffp8I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1428421-1218916574.jpeg.jpg" data-tags="horror punk, horror" role="button">Король и Шут - Жаль, нет ружья (2002)</li>
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)</li>
 <li data-cover="https://img.discogs.com/ACDOvN4An4nOhtThe6dpg9ALWr4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372413-1268622380.jpeg.jpg" data-tags="horror punk" role="button">Murderdolls - Beyond the Valley of the Murderdolls (2002-08-17)</li>
 <li data-cover="http://coverartarchive.org/release/bd14a696-6356-413d-a779-c48112ef8d37/15528035791-500.jpg" data-tags="punk, punk rock, horror punk" role="button">Misfits - Project 1950 (2003-07-29)</li>
@@ -78,6 +78,9 @@ Nekromantix - Curse of the coffin (1991)
 <li data-cover="https://img.discogs.com/oqWUmjONBXxaQ3svGNMZvs1O7DU=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2398153-1590835499-1751.jpeg.jpg" data-tags="horror punk" role="button">
 The Templars - Clockwork Orange Horror Show (1995)
 </li>
+<li data-cover="https://img.discogs.com/NPe3xbP7ge2Lk0DqqOmavEcK4XU=/fit-in/450x395/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1227002-1205113518.jpeg.jpg" data-tags="horror punk, album, cthulhu, giuliani, mcconnell, cthulhucore, rudy giuliani, cthulhu music, jesus had a penis, penis parity, penis parity amongst the gods, biggie had a penis, plogbobbably narcotali, sedecim, tilenol, idolatriam, b-classis, pueris, somnio, pugna" role="button">
+The Darkest of The Hillside Thickets - Cthulhu Strikes Back (1995)
+</li>
 <li data-cover="http://coverartarchive.org/release/c7802987-ec45-4456-8c20-be53a914799f/15959094918-500.jpg" data-tags="punk rock, horror punk" role="button">
 Misfits - Collection II (1995-11-14)
 </li>
@@ -101,9 +104,6 @@ AFI - Black Sails in the Sunset (1999-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/78bd4301-133a-47a2-bc0e-3671bdf2c5c5/22018047490-500.jpg" data-tags="punk" role="button">
 AFI - All Hallows EP (1999-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad57f0bd-e48e-41bc-8c15-8f53517e153a/23660900991-500.jpg" data-tags="horror punk, punk" role="button">
-Misfits - Famous Monsters (1999-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ff9f4d0-3c8a-43df-90f8-3f7d3fc18e43/27790615291-500.jpg" data-tags="alt-country, gothabilly" role="button">
 Ghoultown - Tales From the Dead West (2000)

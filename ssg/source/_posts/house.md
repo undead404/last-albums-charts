@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T04:24:01.406Z
+date: 2021-04-10T07:03:01.416Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -123,17 +123,17 @@ Justice - Justice (2005-08-02)
 <li data-cover="http://coverartarchive.org/release/e684e1ec-c086-480b-adc0-28d5e558d7c8/3718356374-500.jpg" data-tags="rock, blues, blues rock, live" role="button">
 John Mayer Trio - Try! (2005-11-22)
 </li>
-<li data-cover="https://img.discogs.com/7sLCjpeXls9RLMT-P-unVY8f3rI=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704553-1149877523.jpeg.jpg" data-tags="electro" role="button">
-Tiga - Sexor (2005-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/2608235d-85a1-4361-8d15-14569ad61b9a/7227622788-500.jpg" data-tags="house" role="button">
 Bob Sinclar - Western Dream (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/5c89b423-8b51-4532-a5e6-2e077a76d6ed/3201197255-500.jpg" data-tags="electronic, electro, minimal" role="button">
 Booka Shade - Movements (2006-05-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/fcc15e13-55f9-4e65-a19d-d1649e4a8985/3596711954-500.jpg" data-tags="electronic, electro" role="button">
-MSTRKRFT - The Looks (2006-07-18)
+<li data-cover="http://coverartarchive.org/release/ac11d670-4254-4769-81e7-8891ad4fde4f/25025769283-500.jpg" data-tags="electro, dance, house" role="button">
+Fedde Le Grand - Put Your Hands Up For Detroit (2006-10-23)
+</li>
+<li data-cover="https://img.discogs.com/UZVmJPUL30PfF_H8Efxdg5b2Td0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1028030-1471657842-9050.jpeg.jpg" data-tags="electronica, indie, pop, rock, indie pop, indie rock, electro, acoustic, house, indietronica, electro indie, party indie rock, zusammenschnitt" role="button">
+Young Love - Too Young To Fight It (2007-01-30)
 </li>
 <li data-cover="https://img.discogs.com/95-LQC1Jx2GGoBq_Z7l1CAeHkrM=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1139242-1217870739.jpeg.jpg" data-tags="electronic, electropop, female vocalists" role="button">
 Róisín Murphy - Overpowered (2007-05)
@@ -210,9 +210,6 @@ Katy B - Katy On A Mission (2010-08-22)
 <li data-cover="http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg" data-tags="dance, house" role="button">
 Duck Sauce - Barbra Streisand (2010-09-13)
 </li>
-<li data-cover="https://img.discogs.com/NryS7RmFTXvmVuNPt44lPlwROho=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2448637-1284635750.jpeg.jpg" data-tags="disco, electropop, indie rock, dubstep, house, synth-pop, albums i have on vinyl, recommended by jwz, self-titled album" role="button">
-The Hundred in the Hands - The Hundred in the Hands (2010-09-20)
-</li>
 <li data-cover="https://img.discogs.com/H6jd7m1UvIKTLjkRqzYr8noQMy0=/fit-in/600x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11987064-1526053747-5977.jpeg.jpg" data-tags="dance, house, electro hop, swedish house mafia" role="button">
 Swedish House Mafia - Miami 2 Ibiza (2010-10-08)
 </li>
@@ -234,12 +231,6 @@ Feed Me - To The Stars (2011-05-27)
 <li data-cover="http://coverartarchive.org/release/d1cec1bf-0ae2-47a6-a7a7-16a13b1fd397/7750374142-500.jpg" data-tags="electronic, house" role="button">
 Sebastian - Total (2011-05-27)
 </li>
-<li data-cover="https://img.discogs.com/O_YLFoHps1L9t86KZJv5fNuLkSI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4004913-1352042722-3624.jpeg.jpg" data-tags="house" role="button">
-Martin Solveig - Smash (2011-06-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/63b4acff-866a-4b80-90fa-9f4a2af3445d/4110790212-500.jpg" data-tags="dubstep" role="button">
-SBTRKT - SBTRKT (2011-06-27)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep" role="button">
 Nero - Promises (2011-08-05)
 </li>
@@ -254,6 +245,9 @@ David Guetta - Nothing but the Beat 2.0 (2011-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/88ffbbe2-bcce-4bfd-912d-2d1998173e4a/11697782536-500.jpg" data-tags="dubstep, electronic, electro house" role="button">
 Porter Robinson - Spitfire (2011-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/9de8983a-ed9d-4867-b008-55cc99937803/3459340597-500.jpg" data-tags="house, electro house" role="button">
+Wolfgang Gartner - Weekend In America (2011-09-20)
 </li>
 <li data-cover="https://img.discogs.com/gAEJL4DJuK85hxGg5BYDzuVISlA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3196879-1320268289.jpeg.jpg" data-tags="electronic, dance" role="button">
 Avicii - Levels (2011-10-28)
@@ -281,6 +275,9 @@ Bakermat - One Day (Vandaag) (2012-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/a52ae1b2-ae38-4915-9a86-27c256917302/2331916399-500.jpg" data-tags="progressive house" role="button">
 deadmau5 - > album title goes here < (2012-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/a5c9fcab-cd0b-4932-897a-e802f490ac24/3325934271-500.jpg" data-tags="house" role="button">
+Ben Pearce - What I Might Do (2012-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/fee67a94-3330-4b92-91dd-57d944d57e1e/11172117630-500.jpg" data-tags="electro house, house" role="button">
 Zedd - Clarity (2012-10-02)
@@ -317,6 +314,9 @@ Todd Terje - It's Album Time (2014-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a189ac44-4ea2-43bd-823b-3cc0e403c520/7211189264-500.jpg" data-tags="house, alaska" role="button">
 Christian Löffler - Young Alaska (2014-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/c3b03b7c-5b74-4c66-8bdf-6049cefef15c/8534196766-500.jpg" data-tags="electronic, dance, house, deep house, uk garage" role="button">
+Gorgon City - Sirens (2014-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/2bb53942-91a0-45ef-aa7c-834f5c47e6dd/8667458837-500.jpg" data-tags="electronic" role="button">
 Flight Facilities - Down To Earth (2014-10-24)

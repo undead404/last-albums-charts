@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:10:01.434Z
+date: 2021-04-10T07:19:07.774Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -13,7 +13,7 @@ title: "alt-country: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/UDV_1TtRN_gR1czRTs-EoUbP8Ic=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2712279-1431256710-1520.jpeg.jpg" data-tags="alt-country" role="button">The Avett Brothers - Emotionalism (2007-05-15)</li>
 <li data-cover="http://coverartarchive.org/release/266d3199-79fa-4e99-b0c1-eb61f6e08796/1695014994-500.jpg" data-tags="indie rock" role="button">Band of Horses - Cease to Begin (2007-10-09)</li>
 <li data-cover="http://coverartarchive.org/release/05472483-8124-3552-93dd-b3c6d1e106fa/22402218939-500.jpg" data-tags="alt-country, indie rock" role="button">Neko Case - Middle Cyclone (2009-02-28)</li>
-<li data-cover="http://coverartarchive.org/release/edfa2198-2521-4c00-95e9-b8385f189aec/15829365088-500.jpg" data-tags="alt-country, folk rock" role="button">The Avett Brothers - I and Love and You (2009-09-29)</li>
+<li data-cover="http://coverartarchive.org/release/513486c0-cbc3-4c88-a056-08ec7c5e41c0/15459840968-500.jpg" data-tags="americana, alt-country, ryan adams" role="button">Ryan Adams - Ashes & Fire (2011-09-11)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -33,17 +33,14 @@ Steve Earle - Guitar Town (1986-03-05)
 <li data-cover="http://coverartarchive.org/release/82298693-edea-4c59-b74c-36275186cb2f/13955129700-500.jpg" data-tags="alt-country, americana" role="button">
 Lyle Lovett - Pontiac (1987)
 </li>
-<li data-cover="https://img.discogs.com/Leqx3yU5iZllLDbrJPL3OcEFjQ4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878669-1548227195-2232.jpeg.jpg" data-tags="alt-country, country rock" role="button">
-Steve Earle - Copperhead Road (1988)
-</li>
-<li data-cover="http://coverartarchive.org/release/ec5b0fbf-aa84-4538-9bb7-ae14e54f7e46/4464452202-500.jpg" data-tags="alt-country" role="button">
-Cowboy Junkies - The Trinity Session (1988-11-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/10ff1941-aa22-416b-b646-58138f63d236/23148816933-500.jpg" data-tags="alt-country" role="button">
 Uncle Tupelo - No Depression (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/af53580d-d45c-441a-82ab-86c14acadb73/23244518052-500.jpg" data-tags="folk, country" role="button">
 Townes Van Zandt - Rear View Mirror (1993)
+</li>
+<li data-cover="https://img.discogs.com/ZuAf5s3qQsBkjGXO93JZ5_xlqC8=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1204512-1602101985-3896.jpeg.jpg" data-tags="alt-country" role="button">
+Whiskeytown - Faithless Street (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/b402178b-e511-4340-9002-3dc2cbe31b5b/24710309425-500.jpg" data-tags="alt-country, americana" role="button">
 The Jayhawks - Tomorrow The Green Grass (1995-02-14)
@@ -68,6 +65,9 @@ Silver Jews - The Natural Bridge (1996-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d18b273a-4987-4594-a4db-419454c7e113/2013460549-500.jpg" data-tags="alt-country, 90s" role="button">
 Wilco - Being There (1996-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/e162083e-4a0b-49f9-b341-7a02354f5c98/19325365527-500.jpg" data-tags="country" role="button">
+Johnny Cash - Unchained (1996-11-05)
 </li>
 <li data-cover="https://img.discogs.com/A8bowLE9jzHMDuBm-I2NxzTH3qM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6413255-1418591818-5339.jpeg.jpg" data-tags="90s" role="button">
 16 Horsepower - Low Estate (1997)
@@ -99,6 +99,9 @@ Whiskeytown - Pneumonia (2000)
 <li data-cover="http://coverartarchive.org/release/058e013c-9cee-4e2d-a3a7-2c643b0aef37/4558030091-500.jpg" data-tags="alt-country, americana" role="button">
 Lambchop - Nixon (2000-02-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/857f4b2c-b396-4291-bdfe-78de6dac4828/23504502964-500.jpg" data-tags="alt-country" role="button">
+16 Horsepower - Hoarse (2000-04-01)
+</li>
 <li data-cover="https://img.discogs.com/KYq8BFt639w64kh_qkmjWTnhtnY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-500503-1406232209-1601.jpeg.jpg" data-tags="alt-country, americana" role="button">
 16 Horsepower - Secret South (2000-04-13)
 </li>
@@ -119,9 +122,6 @@ M. Ward - End of Amnesia (2001-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c5745b0-6f1d-3598-a1db-8d6aa1ae9bc4/17377781071-500.jpg" data-tags="alt-country, 00s" role="button">
 Lambchop - Is A Woman (2002-02-19)
-</li>
-<li data-cover="https://img.discogs.com/-r8LFLtDiRaK2urTKqBfqfsSM7Y=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1218420-1553470689-6373.jpeg.jpg" data-tags="alt-country" role="button">
-Woven Hand - Woven Hand (2002-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
@@ -177,11 +177,11 @@ Patty Griffin - Impossible Dream (2004-04-20)
 <li data-cover="http://coverartarchive.org/release/9ad6f7a0-bd9e-4ca2-8b8a-5441dc51f34b/4530847957-500.jpg" data-tags="00s, indie, rock" role="button">
 Wilco - A Ghost is Born (2004-06-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/a573d1b4-528b-479f-bdc7-47fbaecaa55a/22168138576-500.jpg" data-tags="folk" role="button">
+The Avett Brothers - Mignonette (2004-07-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/727b7e85-75b1-4aec-8e55-069d1d13acf0/7887577823-500.jpg" data-tags="alt-country" role="button">
 Woven Hand - Consider the Birds (2004-09-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1cd87a1-5dac-483d-b330-1c6ed2549ae1/5262868955-500.jpg" data-tags="canadian, alt-country" role="button">
-Kathleen Edwards - Back To Me (2005-03-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/54b44dcd-5bf6-449e-ae67-79bc4d17787a/6807003433-500.jpg" data-tags="americana, alt-country, folk rock, country rock, 2000s, eu tenho, folk american" role="button">
 Ryan Adams & The Cardinals - Cold Roses (2005-05-02)
@@ -191,6 +191,9 @@ Lucero - Nobody's Darlings (2005-05-24)
 </li>
 <li data-cover="https://img.discogs.com/euPgMPOhkaUG4hkmQxHl-UUVdcI=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3528063-1333984291.jpeg.jpg" data-tags="country, cash" role="button">
 Johnny Cash - The Legend (2005-08-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/123b84c6-d6da-3975-96ec-65ab937ee16a/19801864754-500.jpg" data-tags="indie, folk" role="button">
+Iron & Wine and Calexico - In the Reins (2005-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/defa1d7d-348e-4398-a155-1a3229201972/15459826827-500.jpg" data-tags="rock, singer-songwriter, alt-country, ryan adams" role="button">
 Ryan Adams & The Cardinals - Jacksonville City Nights (2005-09-23)
@@ -203,6 +206,9 @@ Sun Kil Moon - Tiny Cities (2005-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b22613bf-8082-4d1a-9946-f4a5e9a4a76f/3786305895-500.jpg" data-tags="rock, alternative, singer-songwriter, americana, 00s" role="button">
 Ryan Adams - 29 (2005-12-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ff8d6c1-3d3d-45ca-9912-85374dac43a8/5929512227-500.jpg" data-tags="folk, alt-country, discovered gems, bhplay, and finally the world is okay okay okay and all the burdens fade away" role="button">
+DeYarmond Edison - Silent Signs (2006-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e6d296a-d170-3d6e-9311-a07a03e7d00d/19888963935-500.jpg" data-tags="indie, singer-songwriter, soft rock" role="button">
 Josh Rouse - Subtitulo (2006-03-20)
@@ -222,9 +228,6 @@ The Be Good Tanyas - Hello Love (2006-10-09)
 <li data-cover="https://via.placeholder.com/450" data-tags="alt-country" role="button">
 Ryan Bingham - Mescalito (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/9870686e-299a-3137-8829-fcbc9006dd9a/12026067663-500.jpg" data-tags="alt-country, singer-songwriter, country" role="button">
-Lucinda Williams - West (2007-02-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/019438e9-9ab2-444f-b31a-cb87e48a372a/22983477967-500.jpg" data-tags="female vocalists, brandi carlile, singer-songwriter, start to finish albums" role="button">
 Brandi Carlile - The Story (2007-04-03)
 </li>
@@ -242,9 +245,6 @@ Jason Isbell - Sirens Of The Ditch (2007-07-10)
 </li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/a471459a-0f9e-4a2f-9525-4179ba3baf36/2012803900-500.jpg" data-tags="folk, singer-songwriter" role="button">
-Josh Ritter - The Historical Conquests Of Josh Ritter (2007-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8211db1a-cbdb-3443-bb30-07e801e4272b/19801900502-500.jpg" data-tags="folk, indie" role="button">
 Iron & Wine - The Shepherd's Dog (2007-09-23)
@@ -273,9 +273,6 @@ The Felice Brothers - Yonder is the Clock (2009-04-07)
 <li data-cover="https://img.discogs.com/bWe6E11wY-XQqkfJK_E_IwaBQy0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9774512-1486146509-8533.jpeg.jpg" data-tags="americana" role="button">
 Dawes - North Hills (2009-06-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/edfa2198-2521-4c00-95e9-b8385f189aec/15829365088-500.jpg" data-tags="alt-country, folk rock" role="button">
-The Avett Brothers - I and Love and You (2009-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/c1ecd5f1-87f5-470f-9c8a-a4009a2319dd/10744922818-500.jpg" data-tags="bluegrass" role="button">
 Trampled by Turtles - Palomino (2010-04-09)
 </li>
@@ -290,6 +287,9 @@ Deer Tick - The Black Dirt Sessions (2010-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/32fd6d40-e578-4507-9c37-f191f65d8ba8/1214498258-500.jpg" data-tags="alt-country" role="button">
 Blake Mills - Break Mirrors (2010-07-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/985b9812-c27d-36a7-8246-18cbd06b7262/5830595090-500.jpg" data-tags="singer-songwriter" role="button">
+Isobel Campbell & Mark Lanegan - Hawk (2010-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34b531d-34e8-32c2-a8ae-d1082a337fc9/3033907801-500.jpg" data-tags="americana, alt-country, 2010s, 2010 albums" role="button">
 Justin Townes Earle - Harlem River Blues (2010-09-13)

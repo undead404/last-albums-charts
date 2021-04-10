@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:42:01.407Z
+date: 2021-04-10T07:14:01.422Z
 title: "radiohead: 100 albums you must listen to before you die"
 ---
 ![Radiohead - The Bends (1995-03-08)](http://coverartarchive.org/release/42b46c84-2359-326a-87ee-bb056bd300c8/17814801695-500.jpg "Radiohead - The Bends (1995-03-08)")
@@ -101,9 +101,6 @@ Radiohead - 2003-07-04: Les Eurockéennes de Belfort, Belfort, France (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/5680b7dc-345a-4163-b68e-02af27f19a44/3956533827-500.jpg" data-tags="electronic" role="button">
 Mum - Mum (2000)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c7bb540-d786-4113-a85f-0e878159e1fe/7292353288-500.jpg" data-tags="soundtrack, metal, hip-hop, electronic, electronica, jazz, pop, rock, soul, punk, alternative, reggae, rap, ambient, dub, usa, dance, nintendo, urban, funk, techno, house, film, avant garde, free, acid, radio, japan, rnb, dancehall, radiohead, indy, band, podcast, video, iphone, games, neo-soul, black, phone, mobile, ipod, art, music, apple, media, america, movies, sounds, mac, american gangster, wwi, mp3, afro, mtv, net, vh1, itunes, neo, hip-house, afro-punk, onyx, vibe, flickr, motor city, recording, rolling stone, entertainment, audio, record label, mobi, photos, cup, upload, brick city, popp, download mp3, mpeg, cool-out, blackapalooza, onxyz, soulout, souledout, brick city newark nj, popp inc, motor city detroit mi, i am america, indiestore, pod casts, soul rhythm, between 2 seas, out of a dream, out of a dream into a grove" role="button">
-Soul Rhythm - Between 2 Seas (2000-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/cbf753f0-6800-422c-a0d6-e8013174117f/6641335192-500.jpg" data-tags="indie rock, radiohead, québec" role="button">
 Projet Orange - Projet Orange (2000-07-21)
@@ -221,6 +218,9 @@ Radiohead - In Rainbows (2007-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8ac663c-e059-4eac-9f0d-6a84e8bb438d/3990733537-500.jpg" data-tags="hip hop, remix, mos def, radiohead, kanye west, mash up, beastie boys, common, murs, talib kweli, blackalicious" role="button">
 Hippomothamus - Rhyming In Rainbows (2007-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/59b467d0-b88e-4d29-bd0b-c2909714e83d/1279412647-500.jpg" data-tags="ska" role="button">
+Redsk - Back To The Buddha Statue (2007-12-30)
 </li>
 <li data-cover="https://img.discogs.com/ETn1Oxqi2diFlex2Qo6tCPRtAaM=/fit-in/599x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1818272-1264395745.jpeg.jpg" data-tags="radiohead" role="button">
 Radiohead - 2003-05-22: Apollo Theatre, Manchester, UK (2008)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T23:23:01.405Z
+date: 2021-04-10T07:01:06.874Z
 title: "warp: 100 albums you must listen to before you die"
 ---
 ![Grizzly Bear - Veckatimest (2009-05-22)](http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg "Grizzly Bear - Veckatimest (2009-05-22)")
@@ -108,6 +108,9 @@ Nightmares on Wax - Carboot Soul (1999-04-12)
 <li data-cover="http://coverartarchive.org/release/93b73feb-273f-3ca6-a9f2-96f7e7a3ccdc/7786763279-500.jpg" data-tags="idm" role="button">
 Autechre - EP7 (1999-05-31)
 </li>
+<li data-cover="https://img.discogs.com/5zMHb42vAVm_LfQFLGIurLIKlo4=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-24510-1470952487-9541.jpeg.jpg" data-tags="electronic, dance, warp, 90s, drum and bass, acid, acid house, essex, space age, 2 s34rch, musique concrète, chelmsford, concrete music, south east, sheffield allsorts, home counties, squerpusher" role="button">
+Squarepusher - Maximum Priest EP (1999-07-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/1214ddaf-4631-4285-baba-a96449a8b953/6255612003-500.jpg" data-tags="electronic" role="button">
 Squarepusher - Selection Sixteen (1999-11-08)
 </li>
@@ -149,9 +152,6 @@ Vincent Gallo - When (2001-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/472c0a00-1d4e-4df4-b3e3-7d0276367efe/20976348409-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - Geogaddi (2002-02-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/ffd5d99f-ea2b-487b-81c9-b15c53294508/4380225150-500.jpg" data-tags="hip-hop" role="button">
-Antipop Consortium - Arrhythmia (2002-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/33c88024-d17c-3c4d-b025-4d1d23ca56a6/7029834099-500.jpg" data-tags="electronic, idm, warp" role="button">
 Squarepusher - Do You Know Squarepusher (2002-09-30)
@@ -225,9 +225,6 @@ Jimmy Edgar - Color Strip (2006-02-20)
 <li data-cover="http://coverartarchive.org/release/760a9ad2-1468-373c-9e02-5748a34f89d1/8211061706-500.jpg" data-tags="electronic" role="button">
 Boards of Canada - Trans Canada Highway (2006-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/8ed15a42-ca91-45db-bdc3-c21b8f86e9bc/6010008937-500.jpg" data-tags="experimental" role="button">
-Broadcast - The Future Crayon (2006-08-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">
 Grizzly Bear - Yellow House (2006-09-04)
 </li>
@@ -257,6 +254,9 @@ Grizzly Bear - Veckatimest (2009-05-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6280a4c9-593e-4e8a-8473-ff3c23bfd891/4870690100-500.jpg" data-tags="idm" role="button">
 Clark - Totems Flare (2009-06-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/99b09d02-9cc9-3fed-8431-f162165a9371/6281423897-500.jpg" data-tags="electronic" role="button">
+Luke Vibert - We Hear You (2009-08-10)
 </li>
 <li data-cover="https://img.discogs.com/olvPPLxjABG26vby30YknA33UuA=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1937588-1253651723.jpeg.jpg" data-tags="electronic, post-rock, strange, warp, avantgarde" role="button">
 Tyondai Braxton - Central Market (2009-09-14)

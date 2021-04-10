@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:06:01.472Z
+date: 2021-04-10T06:53:01.420Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![Relient K - Mmhmm (2004-11-02)](https://img.discogs.com/iJskKmwAOtSy8DqLjYHV9iZZqL8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2104965-1264272700.jpeg.jpg "Relient K - Mmhmm (2004-11-02)")
@@ -21,17 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/0497a7b2-2777-3d0c-9364-4234b78c9e72/3730266019-500.jpg" data-tags="70s, folk, singer-songwriter, folk rock, rock, bob dylan, classic rock, pink, blue, green, yellow, shady, purple, grady, shady grady, clsid not unique" role="button">
-Bob Dylan - New Morning (1970-10-21)
-</li>
 <li data-cover="https://img.discogs.com/mpe3E7LXu6m3UwIUpsbV-LZ53vc=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2603096-1292697581.jpeg.jpg" data-tags="christian, christian rock" role="button">
 Jars of Clay - Jars of Clay (1995-10-24)
 </li>
 <li data-cover="https://img.discogs.com/Dqwqcs8xc25b4YSU2kZS9GmKamo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557815-1181586260.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - Jesus Freak (1995-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cbd9b78-2e57-4b3b-8d01-f768e4a9785c/11228936512-500.jpg" data-tags="pop" role="button">
-Sixpence None the Richer - Sixpence None the Richer (1997-11-22)
 </li>
 <li data-cover="https://img.discogs.com/6YvUBqz0mvgKp-KqKZCn1CF_TR4=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1576537-1616526075-9955.jpeg.jpg" data-tags="singer-songwriter, christian, desert island, the dc - 90s, xy, olspur sub pop radio, olspur seattle radio, fucking awesome album, island albums, allmusicj" role="button">
 Damien Jurado - Rehearsals for Departure (1999-02-09)
@@ -101,6 +95,9 @@ Pillar - Where Do We Go From Here (2004-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a9ed321-8fb6-4d98-9dae-408af1259e2d/25598338604-500.jpg" data-tags="christian, worship" role="button">
 Shawn McDonald - Simply Nothing (2004-08-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/638f4e6e-d7d1-43bd-9ea1-40352c9cbf8c/4696084236-500.jpg" data-tags="christian, contemporary christian" role="button">
+Steven Curtis Chapman - All Things New (2004-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1e336a49-093b-4328-85b9-dab7ebf2af41/8247802796-500.jpg" data-tags="christian" role="button">
 Chris Tomlin - Arriving (2004-09-21)
@@ -213,14 +210,14 @@ As I Lay Dying - An Ocean Between Us (2007-08-21)
 <li data-cover="http://coverartarchive.org/release/3805f31e-e6e1-4794-9747-63e5bf9ca7c8/6477551439-500.jpg" data-tags="metalcore" role="button">
 The Devil Wears Prada - Plagues (2007-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/82d3592b-2745-4175-b71f-cab0ac6d2cc1/9025593466-500.jpg" data-tags="christian rock, contemporary christian, christian" role="button">
-Casting Crowns - The Altar and The Door (2007-08-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/2ef462be-3da6-4b8d-bc24-02f218b996a6/9857104493-500.jpg" data-tags="christian, christian rock, worship, modern worship, bennyblack" role="button">
 Phil Wickham - Cannons (2007-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6cde0836-0a0a-4690-b87c-52443eba7366/4889651746-500.jpg" data-tags="christian, post-hardcore" role="button">
 Emery - I'm Only A Man (2007-10-02)
+</li>
+<li data-cover="https://img.discogs.com/DRrlwV0JifXY4WEcEJgEmT2uMMo=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6024039-1409083474-2124.jpeg.jpg" data-tags="christian, christian rock, gospel, contemporary christian, christian contemporary, religious, cross2life, contemporary praise and worship" role="button">
+MercyMe - All That Is Within Me (2007-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2d333dd-bccd-4b87-8d24-e884fdc954ea/23547812365-500.jpg" data-tags="80s, christian, solo album" role="button">
 Jon Foreman - Fall (2007-11-20)
@@ -251,6 +248,9 @@ Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Damien Jurado - Caught In The Trees (2008-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa052d1e-374f-4aff-ab7c-23d3a6982949/16523540617-500.jpg" data-tags="nu metal, alternative metal" role="button">
+Head - Save Me From Myself (2008-09-09)
 </li>
 <li data-cover="https://img.discogs.com/q9M0ZFD4a27h57L5HCc2vL0NvSg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1497920-1263269238.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Anberlin - New Surrender (2008-09-30)
@@ -309,14 +309,14 @@ Josh Garrels - Love & War & The Sea In Between (2011-06-15)
 <li data-cover="http://coverartarchive.org/release/179f2dc7-3948-4f2b-b138-50cc398c2ff8/1397581393-500.jpg" data-tags="christian, religious" role="button">
 Ashes Remain - What I've Become (2011-08-23)
 </li>
-<li data-cover="https://img.discogs.com/3nCzyviiL87c9IgTi3hhQDUpP2g=/fit-in/600x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3930069-1592203831-1191.jpeg.jpg" data-tags="electronica, pop, dubstep, synthpop, lights, siberia" role="button">
-Lights - Siberia (2011-10-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/249fff88-c722-492c-9c2c-5057fde75de2/6779333944-500.jpg" data-tags="metalcore, christian, melodic metalcore" role="button">
 Demon Hunter - True Defiance (2012-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c36f7bfb-a0bb-4a1b-9d5d-65c0d2b5c473/1545918273-500.jpg" data-tags="alternative rock, christian rock, hard rock, alternative metal, nu metal" role="button">
 Thousand Foot Krutch - The End Is Where We Begin (2012-04-17)
+</li>
+<li data-cover="https://img.discogs.com/EnYWgQxYUX8EoA6Axf9i97pK5ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3743189-1343483805-4203.jpeg.jpg" data-tags="psychedelic, spiritual, stoner, psychedelic rock" role="button">
+Om - Advaitic Songs (2012-07-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba4912d1-89f5-44bb-96c7-541814c79641/3429573413-500.jpg" data-tags="rock, christian, contemporary christian" role="button">
 Hillsong United - Zion (2013-02-26)

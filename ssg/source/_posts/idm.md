@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T03:20:01.430Z
+date: 2021-04-10T07:05:01.447Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - Music Has the Right to Children (1998-04-20)](https://img.discogs.com/_gE6zse46GW1Is-41OdAnsi1O4k=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1721-1232308612.jpeg.jpg "Boards of Canada - Music Has the Right to Children (1998-04-20)")
@@ -29,6 +29,9 @@ Polygon Window - Surfing on Sine Waves (1992)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="ambient" role="button">
 Aphex Twin - Selected Ambient Works 85-92 (1992-11-01)
+</li>
+<li data-cover="https://img.discogs.com/fofGJOhGSq117rY1a869V0R3-mY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1719-1341379129-7547.jpeg.jpg" data-tags="ambient, idm, electronica" role="button">
+Amorphous Androgynous - Tales of Ephidrina (1993-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e33730ce-6791-4e2e-aa4d-9b190ec39fdb/2575518065-500.jpg" data-tags="idm" role="button">
 Aphex Twin - On (1993-11-15)
@@ -105,11 +108,14 @@ Boards of Canada - Peel Session - EP (1998-06-16)
 <li data-cover="https://img.discogs.com/0oIYINpXweVGwt6dcz9KtgWweoQ=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-30811-1491675470-7519.jpeg.jpg" data-tags="idm" role="button">
 Autechre - LP5 (1998-07-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/9ba66a6d-9ac4-465f-9a9f-e4d20e0d7f4b/4219700465-500.jpg" data-tags="ambient, electronic, idm" role="button">
+Bola - Soup (1998-11-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/93b73feb-273f-3ca6-a9f2-96f7e7a3ccdc/7786763279-500.jpg" data-tags="idm" role="button">
+Autechre - EP7 (1999-05-31)
+</li>
 <li data-cover="https://img.discogs.com/AL95j2ZUy29GDzrzPy4zjk5IuDA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1482104-1243751254.jpeg.jpg" data-tags="electronic" role="button">
 Leftfield - Rhythm and Stealth (1999-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/97d6229b-be51-434b-96d5-53579cf27952/20372962851-500.jpg" data-tags="electronic, electro" role="button">
-Mr. Oizo - Analog Worms Attack (1999-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7fef0ff-821a-4e9b-badc-adf2f3c08da1/6094822103-500.jpg" data-tags="electronic" role="button">
 Amon Tobin - Supermodified (2000-05-15)
@@ -213,6 +219,9 @@ Modeselektor - Happy Birthday! (2007-09-10)
 <li data-cover="http://coverartarchive.org/release/dd554851-acbd-31c8-8bf1-61a297e55fb7/3653298333-500.jpg" data-tags="idm" role="button">
 Autechre - Quaristice (2008-01-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
+Trifonic - Emergence (2008-02-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/ca36b962-175b-468e-abe8-8b46d54f882b/4158600799-500.jpg" data-tags="ambient" role="button">
 Helios - Caesura (2008-08-12)
 </li>
@@ -224,9 +233,6 @@ Bibio - Ambivalence Avenue (2009-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/6280a4c9-593e-4e8a-8473-ff3c23bfd891/4870690100-500.jpg" data-tags="idm" role="button">
 Clark - Totems Flare (2009-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/737440f5-cbc0-42d8-beee-80df466ba243/4349788513-500.jpg" data-tags="glitch, experimental, idm" role="button">
-Gold Panda - Companion (2010)
 </li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
@@ -258,9 +264,6 @@ Radiohead - The King of Limbs (2011-02-18)
 <li data-cover="https://via.placeholder.com/450" data-tags="electronic rock" role="button">
 Radiohead - Supercollider / The Butcher (2011-04-16)
 </li>
-<li data-cover="https://img.discogs.com/SmWzFHMp4iRkXEpAx0Oc-PKF90I=/fit-in/450x453/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3033588-1312713162.jpeg.jpg" data-tags="trip-hop" role="button">
-Little Dragon - Ritual Union (2011-05-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/6bc86b31-424a-48bc-8156-4d9656bb5f30/2751813457-500.jpg" data-tags="electronic, indie, idm, glitch, glitch mob" role="button">
 The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)
 </li>
@@ -270,9 +273,6 @@ Grimes - Visions (2012-02-20)
 <li data-cover="http://coverartarchive.org/release/07c78167-c6ce-4d20-8cc2-6fed53237181/6640690285-500.jpg" data-tags="idm, 10s" role="button">
 Actress - R.I.P. (2012-04-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/1bc9f853-0bf2-42f9-b844-df9eb278693f/1810296586-500.jpg" data-tags="idm, electronic" role="button">
-Four Tet - Pink (2012-08-20)
-</li>
 <li data-cover="https://img.discogs.com/E6Y-5DkttPPcqUxEB8hFPRtNjcQ=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054051-1276778144.jpeg.jpg" data-tags="idm" role="button">
 Autechre - Exai (2013-02-07)
 </li>
@@ -281,6 +281,9 @@ Atoms for Peace - AMOK (2013-02-25)
 </li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">
 Bonobo - The North Borders (2013-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/0e53fb9f-88ae-47cd-961e-e19da29c3123/3786345065-500.jpg" data-tags="experimental, electronic, dark ambient" role="button">
+The Knife - Shaking the Habitual (2013-04-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e25d9d7b-6660-486f-b30a-c7fe0e4d77cd/5742536528-500.jpg" data-tags="electronic, ambient, experimental, idm, chillwave" role="button">
 Evenings - Yore (2013-04-16)
@@ -293,9 +296,6 @@ Jon Hopkins - Immunity (2013-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad249aa2-bf79-4042-8a49-ae10547203d9/4332528130-500.jpg" data-tags="ambient, idm" role="button">
 Boards of Canada - Tomorrow's Harvest (2013-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/85e2a875-f9be-4cb3-bd75-eb5c17ca3147/4924262436-500.jpg" data-tags="electronic" role="button">
-Moderat - II (2013-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/82c06148-49e1-4ea6-b3f0-d82003710407/5241081245-500.jpg" data-tags="electronic, experimental, indie rock, downtempo, new wave, downbeat, house, idm, deep house" role="button">
 Trentemøller - Lost (2013-09-16)

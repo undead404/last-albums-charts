@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:04:01.419Z
+date: 2021-04-10T07:08:01.418Z
 title: "experimental rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -36,9 +36,6 @@ Can - Tago Mago (1971)
 <li data-cover="http://coverartarchive.org/release/8397e602-0d10-4f6e-a6c3-2db7cd97f7e8/10060657210-500.jpg" data-tags="krautrock" role="button">
 Faust - Faust IV (1973)
 </li>
-<li data-cover="http://coverartarchive.org/release/39c0fdbb-730d-4d78-88e3-991adaeabe36/1592123546-500.jpg" data-tags="glam rock, art rock" role="button">
-Brian Eno - Here Come The Warm Jets (1973-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/3669ceae-11bf-49ef-b8f2-b5724d24a6f9/1331058877-500.jpg" data-tags="experimental, art rock, 70s" role="button">
 David Bowie - Low (1977-01-14)
 </li>
@@ -59,9 +56,6 @@ Sonic Youth - Sister (1987-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/06bacf92-484b-3b01-aceb-2d3f255f0971/27317292861-500.jpg" data-tags="post-punk, industrial" role="button">
 Swans - Children of God (1987-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/430347cb-0879-3113-9fde-c75b658c298e/20232156952-500.jpg" data-tags="alternative, 80s" role="button">
-Sonic Youth - Daydream Nation (1988-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdc6f2fe-cc88-3bdc-93f9-4c69d1f94d64/9560736864-500.jpg" data-tags="alternative metal, alternative rock, rock" role="button">
 Faith No More - The Real Thing (1989-06-20)
@@ -84,6 +78,9 @@ Faith No More - Angel Dust (1992-06-08)
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
 </li>
+<li data-cover="https://img.discogs.com/ZnjYO2nVvUYeoMhGVzSn0PcUmWA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-69224-1539685002-6815.jpeg.jpg" data-tags="post-rock" role="button">
+Stereolab - Transient Random-Noise Bursts with Announcements (1993-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/99ec95cd-5500-4afd-b6bd-85568bd94141/10544229358-500.jpg" data-tags="alternative, 90s" role="button">
 Beck - Mellow Gold (1994-03-01)
 </li>
@@ -95,6 +92,9 @@ Primus - Tales From The Punchbowl (1995-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/67d93077-86df-3813-b002-101fa84ceb0e/9707018811-500.jpg" data-tags="alternative, alternative rock, rock, 90s" role="button">
 Sonic Youth - Washing Machine (1995-09-26)
+</li>
+<li data-cover="https://img.discogs.com/4HkJGrtDwv0XVzjdnvH6ZADsIWc=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3327885-1325950798.jpeg.jpg" data-tags="electronic, experimental" role="button">
+Stereolab - Emperor Tomato Ketchup (1996-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e3e2b8a-adfb-3690-b0c3-03b78205049d/1958490670-500.jpg" data-tags="post-rock" role="button">
 Swans - Soundtracks For The Blind (1996-10-22)
@@ -116,9 +116,6 @@ The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
 <li data-cover="https://img.discogs.com/2IA5yrIj8GHvH5q6RKsJmqdUnkc=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3592559-1336582958-8440.jpeg.jpg" data-tags="experimental, avant-garde, mike patton" role="button">
 Mr. Bungle - California (1999-07-13)
-</li>
-<li data-cover="https://img.discogs.com/WT1wu71Vs82Vi4OEtAxWvSrG7zc=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-640555-1491711277-5335.jpeg.jpg" data-tags="indie, indie rock, alternative, blonde redhead" role="button">
-Blonde Redhead - Melody of Certain Damaged Lemons (2000-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
 Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
@@ -153,6 +150,9 @@ DIR EN GREY - Vulgar (2003-09-10)
 <li data-cover="http://coverartarchive.org/release/40ea02cf-77ee-43e7-89c3-ab54f759c078/5619297237-500.jpg" data-tags="experimental" role="button">
 Xiu Xiu - Fabulous Muscles (2004-02-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c18d5dd-3e3d-459c-b647-80734819d072/20451673315-500.jpg" data-tags="alternative, experimental" role="button">
+John Frusciante - Shadows Collide With People (2004-02-24)
+</li>
 <li data-cover="http://coverartarchive.org/release/f9cafd68-0169-4480-8d12-8583375bc173/13899396319-500.jpg" data-tags="indie rock" role="button">
 TV on the Radio - Desperate Youth, Blood Thirsty Babes (2004-03-09)
 </li>
@@ -170,9 +170,6 @@ Beck - Guero (2005-03-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3dcaa6b-071e-3d43-b4c7-3e7d852a257e/8355151197-500.jpg" data-tags="alternative rock, experimental, indie" role="button">
 Circa Survive - Juturna (2005-04-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab71e069-2388-4d74-b46c-64f31237b9ec/21753127366-500.jpg" data-tags="post-hardcore" role="button">
-The Receiving End of Sirens - Between the Heart and the Synapse (2005-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg" data-tags="experimental, indie" role="button">
 Animal Collective - Feels (2005-10-14)
@@ -218,6 +215,9 @@ Radiohead - In Rainbows (2007-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2019b20c-5d03-4541-bb53-5c15ee70d96a/9587442762-500.jpg" data-tags="alternative, alternative rock" role="button">
 Brand New - (Fork And Knife) (2007-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/af17e2e2-6b02-44b8-a848-67c7f66f6803/17517986245-500.jpg" data-tags="drone, instrumental, post-rock" role="button">
+Earth - The Bees Made Honey in the Lion's Skull (2008-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)

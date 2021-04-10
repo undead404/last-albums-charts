@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:00:01.491Z
+date: 2021-04-10T07:02:01.418Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -26,6 +26,9 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 </li>
 <li data-cover="https://img.discogs.com/LgRzGhl2sJWpNjaoh6QHpmoQ8W8=/fit-in/600x860/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11132401-1510451454-4241.jpeg.jpg" data-tags="hardcore punk, punk, hardcore" role="button">
 Black Flag - Damaged (1981)
+</li>
+<li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
+Bad Brains - Bad Brains (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/c04c7090-1bea-4852-a4c3-6d54065117d2/21545300582-500.jpg" data-tags="hardcore punk, punk, sludge" role="button">
 Black Flag - My War (1984-03)
@@ -254,9 +257,6 @@ Norma Jean - The Anti Mother (2008-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15d287b-2688-3abe-9b24-b1cccf235467/8179828763-500.jpg" data-tags="rapcore" role="button">
-Hollywood Undead - Swan Songs (2008-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/048b7c34-bcc5-4d2f-8340-9ffb58be3a73/3366417314-500.jpg" data-tags="hardcore" role="button">
 Defeater - Travels (2008-09-16)

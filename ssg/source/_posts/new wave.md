@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T01:41:07.003Z
+date: 2021-04-10T07:11:01.415Z
 title: "new wave: 100 albums you must listen to before you die"
 ---
 ![The Cure - Greatest Hits (2001-11-12)](http://coverartarchive.org/release/7ec269cf-7871-4ef3-86c7-867334d761ba/22848882016-500.jpg "The Cure - Greatest Hits (2001-11-12)")
@@ -252,8 +252,8 @@ She Wants Revenge - She Wants Revenge (2005-12-13)
 <li data-cover="http://coverartarchive.org/release/31841459-9072-4868-8598-e3bb9cb461c8/9177229839-500.jpg" data-tags="rock, swedish, alternative" role="button">
 The Sounds - Dying to Say This to You (2006-03-21)
 </li>
-<li data-cover="https://img.discogs.com/ydFTaKjCjbLEGEOwccl2J6vY2xI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14786700-1581593232-4035.jpeg.jpg" data-tags="pop, electropop" role="button">
-The Veronicas - Hook Me Up (2007-09-22)
+<li data-cover="http://coverartarchive.org/release/5f214af9-7c6d-43b5-bb61-fd78ccffd805/9294779686-500.jpg" data-tags="indie rock, post-punk" role="button">
+The Wombats - A Guide To Love, Loss & Desperation (2007-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/add9be65-7960-4fb7-beac-c4c34243b095/9370672975-500.jpg" data-tags="rock, new wave, post-punk" role="button">
 Joy Division - The Best Of Joy Division (2008-03-24)

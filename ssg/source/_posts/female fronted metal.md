@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T19:40:01.455Z
+date: 2021-04-10T06:54:01.495Z
 title: "female fronted metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -90,6 +90,9 @@ Arch Enemy - Anthems of Rebellion (2003-07-30)
 <li data-cover="http://coverartarchive.org/release/9698924f-c7f3-4192-b964-4de33a3a63e7/997471036-500.jpg" data-tags="doom metal, gothic doom metal, gothic metal" role="button">
 Draconian - Where Lovers Mourn (2003-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/656dd4aa-3b59-3d17-9471-b28ba57e31a1/1014489616-500.jpg" data-tags="female fronted metal" role="button">
+Epica - Feint (2004-01-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/3e6c226a-581f-45dc-a0c1-ef7d05cf2c07/1069072620-500.jpg" data-tags="gothic metal" role="button">
 Sirenia - An Elixir for Existence (2004-02-23)
 </li>
@@ -123,6 +126,9 @@ Elis - Dark Clouds in a Perfect Sky (2004-10-04)
 <li data-cover="http://coverartarchive.org/release/286a9eba-8c7a-44ef-98db-ef480a71c671/18201994460-500.jpg" data-tags="female fronted metal, metalcore" role="button">
 Eths - Sôma (2004-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/e42281ab-e7c7-4813-8572-03a93a3fcd3c/4844682018-500.jpg" data-tags="symphonic metal" role="button">
+Visions of Atlantis - Cast Away (2004-10-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/b0d338fa-6935-4aa6-b891-a51c37217e43/4630453378-500.jpg" data-tags="symphonic metal" role="button">
 Within Temptation - The Silent Force (2004-11-15)
 </li>
@@ -152,6 +158,9 @@ After Forever - Remagine (2005-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/27360e78-d639-3238-b44e-24c4f51b28b8/26038005651-500.jpg" data-tags="progressive metal, symphonic metal, gothic metal" role="button">
 Stream of Passion - Embrace The Storm (2005-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/93c1db6f-955d-49c1-84d2-55c6c007aadd/1047956359-500.jpg" data-tags="pop, gothic metal, female fronted metal" role="button">
+Liv Kristine - Enter My Religion (2006-03-03)
 </li>
 <li data-cover="https://img.discogs.com/V8UceZO9Srky9tfV1RFMDVb9zQc=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4703888-1610152404-9795.jpeg.jpg" data-tags="gothic metal" role="button">
 Lacuna Coil - Karmacode (2006-03-31)
@@ -200,9 +209,6 @@ After Forever - After Forever (2007-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/521ec9fe-01ec-4324-bbc4-08ffd7926741/8609207436-500.jpg" data-tags="symphonic metal" role="button">
 Visions of Atlantis - Trinity (2007-05-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/a278e457-bf21-489c-9c06-02ca8fb60343/3098115173-500.jpg" data-tags="gothic metal, symphonic metal, female fronted metal, nemesea" role="button">
-Nemesea - In Control (2007-06-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/93d9bf8c-1263-3826-999f-3793d6414234/4371819886-500.jpg" data-tags="symphonic metal" role="button">
 Epica - The Divine Conspiracy (2007-09-07)
@@ -269,12 +275,6 @@ Within Temptation - The Unforgiving (2011-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6b250b5-d81f-4303-95c0-460e1c3ce897/17498799005-500.jpg" data-tags="atmospheric black metal, black metal, post-rock" role="button">
 Deafheaven - Roads to Judah (2011-04-26)
-</li>
-<li data-cover="https://img.discogs.com/zoFZZZdbQGXBgTAfb7zY427DyK8=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3012588-1316167327.jpeg.jpg" data-tags="melodic death metal" role="button">
-Arch Enemy - Khaos Legions (2011-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/50e98987-a1bd-48d9-9e21-52c69f45071d/1718126861-500.jpg" data-tags="hard rock" role="button">
-Black Veil Brides - Set the World on Fire (2011-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/af917e2b-9274-40fe-a9bf-8b7f02a413ad/19632602508-500.jpg" data-tags="female fronted metal, female vocalists, hair metal, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to" role="button">
 The Red Jumpsuit Apparatus - Am I the Enemy (2011-08-29)

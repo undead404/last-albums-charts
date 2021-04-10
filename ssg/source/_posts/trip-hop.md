@@ -1,5 +1,5 @@
 ---
-date: 2021-04-10T05:18:01.412Z
+date: 2021-04-10T07:04:01.418Z
 title: "trip-hop: 100 albums you must listen to before you die"
 ---
 ![Massive Attack - Mezzanine (1998-04-17)](http://coverartarchive.org/release/ca5504e8-71e0-4718-bfe5-a23bd98bc63b/2461165502-500.jpg "Massive Attack - Mezzanine (1998-04-17)")
@@ -177,9 +177,6 @@ Bang Gang - Something Wrong (2003)
 <li data-cover="http://coverartarchive.org/release/d1e2c91c-a52f-4d06-8638-c2dea9e7e154/15265703897-500.jpg" data-tags="electronic, trip-hop" role="button">
 Moloko - Statues (2003-01-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/4eb6eba2-4d90-3482-8a02-9af0a27ae5cb/24003006332-500.jpg" data-tags="electronic, electronica" role="button">
-Goldfrapp - Black Cherry (2003-04-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/aa4f112b-51b1-435d-9af1-17ec12921914/28543973353-500.jpg" data-tags="trip-hop, soul" role="button">
 Martina Topley-Bird - Quixotic (2003-06)
 </li>
@@ -290,6 +287,9 @@ Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5646767-1459-424e-8fc9-798e6932d4dd/1235399189-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Heligoland (2010-02-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
+Gorillaz - Plastic Beach (2010-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cfd09c6-d8df-4a03-9811-907b2ffadbda/6194655124-500.jpg" data-tags="downtempo, trip-hop, electronic" role="button">
 Bonobo - Black Sands (2010-03-13)

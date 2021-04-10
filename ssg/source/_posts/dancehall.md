@@ -1,5 +1,5 @@
 ---
-date: 2021-04-09T20:00:01.464Z
+date: 2021-04-10T06:57:01.404Z
 title: "dancehall: 100 albums you must listen to before you die"
 ---
 ![Damian Marley - Welcome to Jamrock (2005-09-12)](http://coverartarchive.org/release/9941d131-dcc3-4f92-b550-0074aabbb639/1313237551-500.jpg "Damian Marley - Welcome to Jamrock (2005-09-12)")
@@ -45,9 +45,6 @@ Raggasonic - Raggasonic (1995)
 <li data-cover="http://coverartarchive.org/release/a9cf01b2-6efe-4353-a47f-7d372c7aa6ce/17871090842-500.jpg" data-tags="reggae" role="button">
 Buju Banton - 'Til Shiloh (1995-07-18)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
-Buju Banton - Inna Heights (1997)
-</li>
 <li data-cover="http://coverartarchive.org/release/76bed86a-53bf-4a94-90c2-41d37b6259bf/13574394457-500.jpg" data-tags="electronic, dub" role="button">
 Asian Dub Foundation - Conscious Party (1998-04-17)
 </li>
@@ -65,6 +62,9 @@ Capleton - More Fire (2000)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="sean paul, dancehall" role="button">
 Sean Paul - Stage One (2000-03-21)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Beenie Man - Art And Life (2000-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/89d58ec8-ece2-36ce-95de-b3216f096438/5134560010-500.jpg" data-tags="reggae, dancehall" role="button">
 Shaggy - Hot Shot (2000-08-08)
@@ -86,6 +86,9 @@ Damian Marley - Halfway Tree (2001-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
 No Doubt - Rock Steady (2001-12-11)
+</li>
+<li data-cover="https://img.discogs.com/jjm6vDmvaeo8eqhMRkpCRNrX59E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1616545-1335047258.jpeg.jpg" data-tags="reggae, dancehall, dancehall reggae" role="button">
+Junior Kelly - Conscious Voice (2002)
 </li>
 <li data-cover="https://img.discogs.com/LsOqqqfDgAVLEbPID5Rg6MTV5aY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3463627-1550572489-9514.jpeg.jpg" data-tags="dancehall" role="button">
 Capleton - Still Blazin (2002-02-26)
@@ -147,6 +150,9 @@ Morodo - Cosas Que Contarte (2004-10-26)
 <li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
 Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/3bcf505d-29bb-4ed1-b51b-f414d020f648/7101916606-500.jpg" data-tags="reggae, dancehall, 2000s, dobre na prezent" role="button">
+Natural Dread Killaz - Naturalnie (2005)
+</li>
 <li data-cover="http://coverartarchive.org/release/4373f989-150d-4716-a522-64e1362637c0/28829791838-500.jpg" data-tags="reggae, german" role="button">
 Culcha Candela - Next Generation (2005)
 </li>
@@ -155,9 +161,6 @@ Asian Dub Foundation - Tank (2005-02-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/c3d10658-391c-4444-baf5-e26492068f96/7478621989-500.jpg" data-tags="electronic, grime" role="button">
 M.I.A. - Arular (2005-02-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/7caecf9e-6fb2-4def-95ef-5cdf6dd05410/7479710791-500.jpg" data-tags="hip hop, german, deutsch" role="button">
-Fettes Brot - Am Wasser gebaut (2005-03-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/bdfe45eb-0b2d-4c96-bfc9-9b5c8b479b9a/5876442790-500.jpg" data-tags="reggae" role="button">
 Vavamuffin - Vabang! (2005-04-06)
@@ -209,6 +212,9 @@ Dub Pistols - Speakers and Tweeters (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="anthony b" role="button">
 Anthony B - Higher Meditation (2007-02-20)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
+Richie Spice - In The Streets To Africa (2007-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/cb56dc42-736a-4a02-a72c-a928e6c61c75/28975137059-500.jpg" data-tags="reggae, dancehall, berlin, deutschland, seeed, nord-sud, pras von the fugees" role="button">
 Boundzound - Boundzound (2007-04-27)
@@ -314,11 +320,5 @@ Seeed - SEEED (2012-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/76b4b2fa-b9a8-42e8-8d8d-1a106787a180/3840424208-500.jpg" data-tags="electronic" role="button">
 Major Lazer - Free The Universe (2013-04-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/43ec13f0-9437-46f4-93f2-d46089d6ba2f/10728303640-500.jpg" data-tags="reggae, dancehall, sean paul, 2014 albums" role="button">
-Sean Paul - Full Frequency (2014-02-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/7beaef29-1e61-471c-8173-4338e8f3e0be/12817564604-500.jpg" data-tags="dancehall" role="button">
-Popcaan - Where We Come From (2014-06-10)
 </li>
 </ol>
